@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Current Market Prices | INMA - Spokane, WA</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth;overflow-x:hidden}
+body{font-family:'Outfit',sans-serif;color:#3A3835;background:#F5F2ED;line-height:1.6;overflow-x:hidden;width:100%}
+nav{position:fixed;top:0;width:100%;z-index:100;background:rgba(44,42,39,.95);backdrop-filter:blur(16px);border-bottom:1px solid rgba(255,255,255,.05);box-shadow:0 2px 24px rgba(0,0,0,.2)}
+.nav-inner{max-width:1200px;margin:0 auto;display:flex;align-items:center;justify-content:flex-end;padding:16px 32px}
+.nav-links{display:flex;gap:32px;align-items:center}
+.nav-links a{text-decoration:none;color:rgba(245,242,237,.8);font-size:.9rem;font-weight:500;letter-spacing:.3px;transition:color .2s}
+.nav-links a:hover{color:#fff}
+.nav-cta{background:#8B6914!important;color:#fff!important;padding:10px 24px!important;border-radius:6px;font-weight:600!important}
+.mobile-toggle{display:none;background:none;border:none;cursor:pointer;color:#8B6914}
+.page-header{padding:140px 32px 60px;background:linear-gradient(168deg,#2C2A27 0%,#1a1916 100%);position:relative;overflow:hidden}
+.page-header::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse 80% 60% at 70% 40%,rgba(139,105,20,.12) 0%,transparent 70%)}
+.page-header .container{position:relative;z-index:2}
+.page-header h1{font-family:'DM Serif Display',serif;font-size:clamp(2rem,5vw,3rem);color:#F5F2ED;margin-bottom:12px}
+.page-header p{font-size:1.05rem;color:rgba(245,242,237,.5);max-width:600px;line-height:1.7}
+.back-link{display:inline-flex;align-items:center;gap:6px;color:rgba(245,242,237,.5);text-decoration:none;font-size:.88rem;margin-bottom:20px;transition:color .2s}
+.back-link:hover{color:#F5F2ED}
+.container{max-width:1000px;margin:0 auto}
+section{padding:64px 32px}
+
+/* CALCULATOR */
+.calc-section{background:#fff;border-bottom:1px solid #D6D0C6}
+.calc-card{background:#F5F2ED;border:1px solid #D6D0C6;border-radius:16px;padding:40px;margin-top:32px}
+.calc-card h3{font-family:‘DM Serif Display’,serif;font-size:1.5rem;color:#2C2A27;margin-bottom:8px}
+.calc-card>p{font-size:.92rem;color:#7A756D;line-height:1.7;margin-bottom:24px}
+.calc-steps{display:flex;flex-direction:column;gap:24px}
+.calc-step{display:flex;align-items:flex-start;gap:16px}
+.step-num{flex-shrink:0;width:36px;height:36px;border-radius:50%;background:#2C2A27;color:#F5F2ED;font-family:‘DM Serif Display’,serif;font-size:1.1rem;display:flex;align-items:center;justify-content:center}
+.step-content{flex:1}
+.step-content h4{font-size:1rem;font-weight:600;color:#2C2A27;margin-bottom:4px}
+.step-content p{font-size:.88rem;color:#7A756D;line-height:1.5}
+.bls-link{display:inline-flex;align-items:center;gap:6px;background:#2C2A27;color:#F5F2ED;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:600;font-size:.92rem;margin-top:10px;transition:background .2s}
+.bls-link:hover{background:#8B6914}
+.bls-link svg{width:16px;height:16px}
+
+.input-row{display:flex;gap:12px;align-items:flex-end;margin-top:12px;flex-wrap:wrap}
+.input-group{display:flex;flex-direction:column;gap:4px}
+.input-group label{font-size:.75rem;font-weight:600;text-transform:uppercase;letter-spacing:.8px;color:#7A756D}
+.input-group input{padding:14px 18px;border:2px solid #D6D0C6;border-radius:8px;font-family:‘Outfit’,sans-serif;font-size:1.1rem;width:180px;outline:none;transition:border-color .2s;background:#fff;color:#2C2A27}
+.input-group input:focus{border-color:#8B6914}
+.input-group input::placeholder{color:#C0BDB6}
+.calc-btn{padding:14px 28px;background:#8B6914;color:#fff;border:none;border-radius:8px;font-family:‘Outfit’,sans-serif;font-size:1rem;font-weight:600;cursor:pointer;transition:background .2s}
+.calc-btn:hover{background:#B8941F}
+.calc-btn:active{transform:scale(.98)}
+
+/* RESULT */
+.result-box{display:none;margin-top:28px;border-radius:12px;padding:32px;text-align:center;animation:fadeIn .4s ease}
+@keyframes fadeIn{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+.result-box.show{display:block}
+.result-score{font-family:‘DM Serif Display’,serif;font-size:4rem;line-height:1;margin-bottom:4px}
+.result-of{font-size:.85rem;color:#7A756D;margin-bottom:12px}
+.result-label{font-size:1.2rem;font-weight:700;margin-bottom:8px}
+.result-desc{font-size:.92rem;color:#7A756D;line-height:1.6;max-width:500px;margin:0 auto}
+.result-bar{width:100%;max-width:400px;height:12px;border-radius:6px;margin:20px auto 0;position:relative;overflow:hidden}
+.result-bar-bg{width:100%;height:100%;border-radius:6px;background:linear-gradient(90deg,#27AE60 0%,#F39C12 45%,#C0392B 100%)}
+.result-bar-marker{position:absolute;top:-4px;width:4px;height:20px;background:#2C2A27;border-radius:2px;transition:left .6s ease}
+.result-favorable{background:rgba(39,174,96,.06);border:1px solid rgba(39,174,96,.2)}
+.result-favorable .result-score{color:#27AE60}
+.result-favorable .result-label{color:#27AE60}
+.result-normal{background:rgba(243,156,18,.06);border:1px solid rgba(243,156,18,.2)}
+.result-normal .result-score{color:#F39C12}
+.result-normal .result-label{color:#F39C12}
+.result-expensive{background:rgba(192,57,43,.06);border:1px solid rgba(192,57,43,.2)}
+.result-expensive .result-score{color:#C0392B}
+.result-expensive .result-label{color:#C0392B}
+
+/* SCALE REFERENCE */
+.scale-section{background:#F5F2ED}
+.scale-table{width:100%;border-collapse:collapse;margin-top:24px;background:#fff;border-radius:12px;overflow:hidden;border:1px solid #D6D0C6}
+.scale-table th{text-align:left;padding:14px 20px;font-size:.75rem;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:#7A756D;background:#F5F2ED;border-bottom:1px solid #D6D0C6}
+.scale-table td{padding:12px 20px;font-size:.88rem;color:#7A756D;border-bottom:1px solid rgba(214,208,198,.5)}
+.scale-table tr:last-child td{border-bottom:none}
+.scale-table .range{font-weight:700;font-family:‘DM Serif Display’,serif;font-size:1rem}
+.range-green{color:#27AE60}
+.range-yellow{color:#F39C12}
+.range-red{color:#C0392B}
+
+/* EXPLAINER */
+.ppi-section{background:#fff;border-top:1px solid #D6D0C6}
+.ppi-card{background:#F5F2ED;border:1px solid #D6D0C6;border-radius:12px;padding:36px;margin-bottom:32px}
+.ppi-card h3{font-family:‘DM Serif Display’,serif;font-size:1.3rem;color:#2C2A27;margin-bottom:16px}
+.ppi-card p{font-size:.92rem;color:#7A756D;line-height:1.7;margin-bottom:14px}
+.ppi-card p:last-child{margin-bottom:0}
+.ppi-card strong{color:#2C2A27}
+.disclaimer{margin-top:32px;padding:24px;background:rgba(139,105,20,.04);border:1px solid rgba(139,105,20,.15);border-radius:8px}
+.disclaimer p{font-size:.82rem;color:#7A756D;line-height:1.6}
+
+/* CTA */
+.page-cta{background:#2C2A27;text-align:center;padding:64px 32px}
+.page-cta h2{font-family:‘DM Serif Display’,serif;font-size:1.8rem;color:#F5F2ED;margin-bottom:12px}
+.page-cta p{color:rgba(245,242,237,.5);font-size:1rem;margin-bottom:28px;max-width:500px;margin-left:auto;margin-right:auto}
+.btn-primary{display:inline-flex;align-items:center;gap:8px;background:#8B6914;color:#fff;padding:16px 32px;border-radius:8px;text-decoration:none;font-weight:600;font-size:1rem;transition:all .25s;border:none;cursor:pointer}
+.btn-primary:hover{background:#B8941F}
+
+footer{background:#1a1916;padding:48px 32px;border-top:1px solid rgba(255,255,255,.05)}
+.footer-inner{max-width:1200px;margin:0 auto;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:24px}
+.footer-brand{font-family:‘DM Serif Display’,serif;font-size:1.2rem;color:#F5F2ED}
+.footer-brand span{color:#8B6914}
+.footer-info{font-size:.82rem;color:rgba(245,242,237,.3);text-align:right}
+.footer-info a{color:rgba(245,242,237,.5);text-decoration:none}
+.footer-info a:hover{color:#F5F2ED}
+
+@media(max-width:768px){
+.nav-links{display:none}
+.mobile-toggle{display:block}
+.nav-links.open{display:flex;flex-direction:column;position:absolute;top:100%;left:0;right:0;background:#2C2A27;padding:24px 32px;gap:16px;border-bottom:1px solid rgba(255,255,255,.05)}
+section{padding:48px 16px}
+.calc-card{padding:28px 20px}
+.input-row{flex-direction:column}
+.input-group input{width:100%}
+.scale-table th,.scale-table td{padding:10px 12px;font-size:.82rem}
+.ppi-card{padding:24px 20px}
+.footer-inner{flex-direction:column;text-align:center}
+.footer-info{text-align:center}
+}
+</style>
+
+</head>
+<body>
+
+<nav>
+  <div class="nav-inner">
+    <div class="nav-links" id="navLinks">
+      <a href="index.html">Home</a>
+      <a href="index.html#services">Services</a>
+      <a href="index.html#energy">Energy Savings</a>
+      <a href="intel.html" style="color:#fff;">Market Prices</a>
+      <a href="index.html#from-the-hip">Free Assessment</a>
+      <a href="sms:5092517792" class="nav-cta">Text Us</a>
+    </div>
+    <button class="mobile-toggle" onclick="document.getElementById('navLinks').classList.toggle('open')">
+      <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </button>
+  </div>
+</nav>
+
+<div class="page-header">
+  <div class="container">
+    <a href="index.html" class="back-link"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 19l-7-7 7-7"/></svg> Back to Home</a>
+    <h1>Current Market Prices</h1>
+    <p>Check where building material costs stand right now using official government data. Takes 30 seconds.</p>
+  </div>
+</div>
+
+<section class="calc-section">
+  <div class="container">
+    <div class="calc-card">
+      <h3>Building Material Cost Calculator</h3>
+      <p>Look up the current PPI number from the Bureau of Labor Statistics, enter it below, and instantly see where material costs stand on a 1-10 scale.</p>
+
+```
+  <div class="calc-steps">
+    <div class="calc-step">
+      <div class="step-num">1</div>
+      <div class="step-content">
+        <h4>Look up the current number</h4>
+        <p>Click below to open the BLS construction materials index. Look for the most recent month's <strong>"Value"</strong> number (it'll be something like 250-290).</p>
+        <a href="https://data.bls.gov/timeseries/WPUFD43" target="_blank" rel="noopener" class="bls-link">Open BLS Construction Materials Index <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/></svg></a>
+      </div>
+    </div>
+
+    <div class="calc-step">
+      <div class="step-num">2</div>
+      <div class="step-content">
+        <h4>Enter the value and the 12-month average</h4>
+        <p>Type in the most recent value. If you can see the last 12 months of data, average them &#8212; or just enter the same number and we'll score it against our baseline.</p>
+        <div class="input-row">
+          <div class="input-group">
+            <label>Current PPI Value</label>
+            <input type="text" id="ppiCurrent" placeholder="e.g. 272.5" inputmode="decimal">
+          </div>
+          <div class="input-group">
+            <label>12-Mo Average (optional)</label>
+            <input type="text" id="ppiAverage" placeholder="e.g. 265.0" inputmode="decimal">
+          </div>
+          <button class="calc-btn" onclick="calculateScore()">Get Score</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="result-box" id="resultBox">
+    <div class="result-score" id="resultScore"></div>
+    <div class="result-of">out of 10</div>
+    <div class="result-label" id="resultLabel"></div>
+    <div class="result-desc" id="resultDesc"></div>
+    <div class="result-bar"><div class="result-bar-bg"></div><div class="result-bar-marker" id="resultMarker"></div></div>
+  </div>
+</div>
+```
+
+  </div>
+</section>
+
+<section class="scale-section">
+  <div class="container">
+    <h3 style="font-family:'DM Serif Display',serif;font-size:1.4rem;color:#2C2A27;margin-bottom:8px;">Scoring Reference</h3>
+    <p style="font-size:.92rem;color:#7A756D;">What each score range means for your project timing and budget.</p>
+    <table class="scale-table">
+      <thead><tr><th>Score</th><th>Level</th><th>What It Means</th></tr></thead>
+      <tbody>
+        <tr><td class="range range-green">1 - 2</td><td>Very Favorable</td><td>Materials well below recent averages. Excellent time to start a project.</td></tr>
+        <tr><td class="range range-green">3 - 4</td><td>Favorable</td><td>Costs trending below normal. Good conditions for locking in pricing.</td></tr>
+        <tr><td class="range range-yellow">5</td><td>Normal</td><td>Right at the 12-month average. Stable, predictable pricing.</td></tr>
+        <tr><td class="range range-yellow">6</td><td>Slightly Elevated</td><td>Costs creeping above average. Not alarming, but worth noting.</td></tr>
+        <tr><td class="range range-red">7 - 8</td><td>Expensive</td><td>Materials running significantly above recent norms. Budget accordingly.</td></tr>
+        <tr><td class="range range-red">9 - 10</td><td>Very Expensive</td><td>Major price spike. Consider timing your project differently or locking in quotes immediately.</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="ppi-section">
+  <div class="container">
+    <div class="ppi-card">
+      <h3>What Is the PPI?</h3>
+      <p>The <strong>Producer Price Index (PPI)</strong> is published monthly by the U.S. Bureau of Labor Statistics. It tracks what manufacturers charge for goods before they reach consumers. The construction materials index (series WPUFD43) covers lumber, glass, concrete, metals, paint, and other building inputs.</p>
+      <p>When the current value is <strong>above</strong> the 12-month average, material costs are trending higher than normal. When it's <strong>below</strong>, you're in a favorable pricing window. The calculator above converts that relationship into a simple 1-10 score.</p>
+    </div>
+    <div class="disclaimer">
+      <p><strong>Disclaimer:</strong> Scoring is based on the relationship between the current PPI value and its 12-month moving average. Data comes from the U.S. Bureau of Labor Statistics. This is informational only and does not constitute financial or purchasing advice. Local Spokane pricing may differ from national wholesale indexes.</p>
+    </div>
+  </div>
+</section>
+
+<section class="page-cta">
+  <div class="container">
+    <h2>Want to Know What Your Project Costs Today?</h2>
+    <p>We'll give you a straight answer based on current material pricing and local labor rates. No obligation.</p>
+    <a href="sms:5092517792" class="btn-primary">Text Us for a Free Estimate</a>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-inner">
+    <div>
+      <div class="footer-brand">INMA<span>.</span></div>
+      <p style="color:rgba(245,242,237,.3);font-size:.82rem;margin-top:6px;">Your Contractor Advocate &#8212; Spokane, WA</p>
+    </div>
+    <div class="footer-info">
+      <p>WA LLC #606-027-063</p>
+      <p style="margin-top:4px;"><a href="mailto:jake@inmagent.com">jake@inmagent.com</a></p>
+      <p style="margin-top:8px;font-size:.75rem;">&copy; 2026 INMA. All rights reserved.</p>
+    </div>
+  </div>
+</footer>
+
+<script>
+function calculateScore() {
+  var curStr = document.getElementById('ppiCurrent').value.trim();
+  var avgStr = document.getElementById('ppiAverage').value.trim();
+
+  var current = parseFloat(curStr);
+  if (isNaN(current) || current <= 0) {
+    alert('Please enter a valid PPI value.');
+    return;
+  }
+
+  var avg = parseFloat(avgStr);
+  if (isNaN(avg) || avg <= 0) {
+    avg = current * 0.98;
+  }
+
+  var pctDiff = ((current - avg) / avg) * 100;
+  var score = 5 + (pctDiff / 2);
+  score = Math.max(1, Math.min(10, Math.round(score * 10) / 10));
+
+  var box = document.getElementById('resultBox');
+  var scoreEl = document.getElementById('resultScore');
+  var labelEl = document.getElementById('resultLabel');
+  var descEl = document.getElementById('resultDesc');
+  var marker = document.getElementById('resultMarker');
+
+  scoreEl.textContent = score.toFixed(1);
+
+  box.className = 'result-box show';
+
+  if (score <= 3.5) {
+    box.classList.add('result-favorable');
+    labelEl.textContent = 'Favorable &#8212; Below Average';
+    descEl.textContent = 'Material costs are trending below their recent averages. Good conditions for starting a project. This pricing window tends to close when demand picks up.';
+  } else if (score <= 6.5) {
+    box.classList.add('result-normal');
+    labelEl.textContent = 'Normal &#8212; Holding Steady';
+    descEl.textContent = 'Material costs are holding near their recent average. Stable conditions for planning and pricing. No rush, no reason to wait.';
+  } else {
+    box.classList.add('result-expensive');
+    labelEl.textContent = 'Expensive &#8212; Above Average';
+    descEl.textContent = 'Materials are running above their recent norms. Projects started now will likely cost more. Consider locking in quotes sooner rather than later.';
+  }
+
+  var markerPct = ((score - 1) / 9) * 100;
+  marker.style.left = markerPct + '%';
+
+  box.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
+document.getElementById('ppiCurrent').addEventListener('keydown', function(e) {
+  if (e.key === 'Enter') calculateScore();
+});
+document.getElementById('ppiAverage').addEventListener('keydown', function(e) {
+  if (e.key === 'Enter') calculateScore();
+});
+document.querySelector('.mobile-toggle').addEventListener('click', function() {
+  document.getElementById('navLinks').classList.toggle('open');
+});
+</script>
+
+</body>
+</html>
