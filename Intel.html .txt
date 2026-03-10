@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Current Market Prices | INMA - Spokane, WA</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth;overflow-x:hidden}
+body{font-family:'Outfit',sans-serif;color:#3A3835;background:#F5F2ED;line-height:1.6;overflow-x:hidden;width:100%}
+
+nav{position:fixed;top:0;width:100%;z-index:100;background:rgba(44,42,39,.95);backdrop-filter:blur(16px);border-bottom:1px solid rgba(255,255,255,.05);box-shadow:0 2px 24px rgba(0,0,0,.2)}
+.nav-inner{max-width:1200px;margin:0 auto;display:flex;align-items:center;justify-content:flex-end;padding:16px 32px}
+.nav-links{display:flex;gap:32px;align-items:center}
+.nav-links a{text-decoration:none;color:rgba(245,242,237,.8);font-size:.9rem;font-weight:500;letter-spacing:.3px;transition:color .2s}
+.nav-links a:hover{color:#fff}
+.nav-cta{background:#8B6914!important;color:#fff!important;padding:10px 24px!important;border-radius:6px;font-weight:600!important}
+.mobile-toggle{display:none;background:none;border:none;cursor:pointer;color:#8B6914}
+
+.page-header{padding:140px 32px 60px;background:linear-gradient(168deg,#2C2A27 0%,#1a1916 100%);position:relative;overflow:hidden}
+.page-header::before{content:’’;position:absolute;inset:0;background:radial-gradient(ellipse 80% 60% at 70% 40%,rgba(139,105,20,.12) 0%,transparent 70%)}
+.page-header .container{position:relative;z-index:2}
+.page-header h1{font-family:‘DM Serif Display’,serif;font-size:clamp(2rem,5vw,3rem);color:#F5F2ED;margin-bottom:12px}
+.page-header p{font-size:1.05rem;color:rgba(245,242,237,.5);max-width:600px;line-height:1.7}
+.back-link{display:inline-flex;align-items:center;gap:6px;color:rgba(245,242,237,.5);text-decoration:none;font-size:.88rem;margin-bottom:20px;transition:color .2s}
+.back-link:hover{color:#F5F2ED}
+
+.container{max-width:1000px;margin:0 auto}
+section{padding:64px 32px}
+
+/* OUTLOOK BANNER */
+.outlook-banner{margin-top:-1px;padding:40px 32px}
+.outlook-card{max-width:1000px;margin:0 auto;border-radius:12px;padding:32px 36px;display:flex;align-items:flex-start;gap:24px}
+.outlook-card.volatile{background:linear-gradient(135deg,rgba(192,57,43,.06) 0%,rgba(192,57,43,.02) 100%);border:1px solid rgba(192,57,43,.2)}
+.outlook-card.steady{background:linear-gradient(135deg,rgba(39,174,96,.06) 0%,rgba(39,174,96,.02) 100%);border:1px solid rgba(39,174,96,.2)}
+.outlook-card.caution{background:linear-gradient(135deg,rgba(243,156,18,.06) 0%,rgba(243,156,18,.02) 100%);border:1px solid rgba(243,156,18,.2)}
+.outlook-arrow{flex-shrink:0;width:56px;height:56px;border-radius:50%;display:flex;align-items:center;justify-content:center}
+.volatile .outlook-arrow{background:rgba(192,57,43,.12)}
+.steady .outlook-arrow{background:rgba(39,174,96,.12)}
+.caution .outlook-arrow{background:rgba(243,156,18,.12)}
+.outlook-arrow svg{width:28px;height:28px}
+.volatile .outlook-arrow svg{color:#C0392B}
+.steady .outlook-arrow svg{color:#27AE60}
+.caution .outlook-arrow svg{color:#F39C12}
+.outlook-text h2{font-family:‘DM Serif Display’,serif;font-size:1.4rem;color:#2C2A27;margin-bottom:8px}
+.outlook-text p{font-size:.95rem;color:#7A756D;line-height:1.7}
+.outlook-date{font-size:.75rem;color:#7A756D;text-transform:uppercase;letter-spacing:1px;margin-top:10px}
+
+/* PPI SECTION */
+.ppi-section{background:#fff;border-top:1px solid #D6D0C6}
+.ppi-card{background:#F5F2ED;border:1px solid #D6D0C6;border-radius:12px;padding:36px;margin-bottom:32px}
+.ppi-card h3{font-family:‘DM Serif Display’,serif;font-size:1.3rem;color:#2C2A27;margin-bottom:16px}
+.ppi-card p{font-size:.92rem;color:#7A756D;line-height:1.7;margin-bottom:14px}
+.ppi-card p:last-child{margin-bottom:0}
+.ppi-card strong{color:#2C2A27}
+.ppi-link{display:inline-flex;align-items:center;gap:6px;color:#8B6914;font-weight:600;font-size:.9rem;text-decoration:none;border-bottom:1px solid #8B6914;margin-top:8px}
+.ppi-link:hover{color:#B8941F;border-color:#B8941F}
+
+/* HOW TO READ */
+.read-guide{display:grid;grid-template-columns:1fr 1fr 1fr;gap:20px;margin-top:32px}
+.read-item{padding:24px;border-radius:10px;border:1px solid #D6D0C6;background:#fff}
+.read-item .indicator{display:flex;align-items:center;gap:10px;margin-bottom:12px}
+.read-item .indicator svg{width:22px;height:22px}
+.read-item h4{font-size:.95rem;font-weight:700;color:#2C2A27}
+.read-item p{font-size:.85rem;color:#7A756D;line-height:1.6;margin-top:6px}
+.up-color{color:#C0392B}
+.down-color{color:#27AE60}
+.flat-color{color:#F39C12}
+
+/* MATERIAL CATEGORIES */
+.materials-section{background:#F5F2ED}
+.materials-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-top:32px}
+.material-card{background:#fff;border:1px solid #D6D0C6;border-radius:10px;padding:24px}
+.material-card h4{font-family:‘DM Serif Display’,serif;font-size:1.1rem;color:#2C2A27;margin-bottom:6px}
+.material-card .ppi-code{font-size:.72rem;color:#7A756D;letter-spacing:.5px;margin-bottom:12px}
+.material-card p{font-size:.88rem;color:#7A756D;line-height:1.6}
+.material-card .trend{display:inline-flex;align-items:center;gap:4px;font-size:.82rem;font-weight:600;padding:4px 10px;border-radius:4px;margin-top:10px}
+.trend-up{background:rgba(192,57,43,.08);color:#C0392B}
+.trend-down{background:rgba(39,174,96,.08);color:#27AE60}
+.trend-flat{background:rgba(243,156,18,.08);color:#F39C12}
+
+/* DISCLAIMER */
+.disclaimer{margin-top:40px;padding:24px;background:rgba(139,105,20,.04);border:1px solid rgba(139,105,20,.15);border-radius:8px}
+.disclaimer p{font-size:.82rem;color:#7A756D;line-height:1.6}
+
+/* CTA */
+.page-cta{background:#2C2A27;text-align:center;padding:64px 32px}
+.page-cta h2{font-family:‘DM Serif Display’,serif;font-size:1.8rem;color:#F5F2ED;margin-bottom:12px}
+.page-cta p{color:rgba(245,242,237,.5);font-size:1rem;margin-bottom:28px;max-width:500px;margin-left:auto;margin-right:auto}
+.btn-primary{display:inline-flex;align-items:center;gap:8px;background:#8B6914;color:#fff;padding:16px 32px;border-radius:8px;text-decoration:none;font-weight:600;font-size:1rem;transition:all .25s;border:none;cursor:pointer}
+.btn-primary:hover{background:#B8941F}
+
+footer{background:#1a1916;padding:48px 32px;border-top:1px solid rgba(255,255,255,.05)}
+.footer-inner{max-width:1200px;margin:0 auto;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:24px}
+.footer-brand{font-family:‘DM Serif Display’,serif;font-size:1.2rem;color:#F5F2ED}
+.footer-brand span{color:#8B6914}
+.footer-info{font-size:.82rem;color:rgba(245,242,237,.3);text-align:right}
+.footer-info a{color:rgba(245,242,237,.5);text-decoration:none}
+.footer-info a:hover{color:#F5F2ED}
+
+@media(max-width:768px){
+.nav-links{display:none}
+.mobile-toggle{display:block}
+.nav-links.open{display:flex;flex-direction:column;position:absolute;top:100%;left:0;right:0;background:#2C2A27;padding:24px 32px;gap:16px;border-bottom:1px solid rgba(255,255,255,.05)}
+section{padding:48px 16px}
+.outlook-banner{padding:24px 16px}
+.outlook-card{flex-direction:column;padding:24px 20px}
+.read-guide{grid-template-columns:1fr}
+.materials-grid{grid-template-columns:1fr}
+.ppi-card{padding:24px 20px}
+.footer-inner{flex-direction:column;text-align:center}
+.footer-info{text-align:center}
+}
+</style>
+
+</head>
+<body>
+
+<nav>
+  <div class="nav-inner">
+    <div class="nav-links" id="navLinks">
+      <a href="index.html">Home</a>
+      <a href="index.html#services">Services</a>
+      <a href="index.html#energy">Energy Savings</a>
+      <a href="intel.html" style="color:#fff;">Market Prices</a>
+      <a href="index.html#from-the-hip">Free Assessment</a>
+      <a href="sms:5092517792" class="nav-cta">Text Us</a>
+    </div>
+    <button class="mobile-toggle" onclick="document.getElementById('navLinks').classList.toggle('open')">
+      <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </button>
+  </div>
+</nav>
+
+<div class="page-header">
+  <div class="container">
+    <a href="index.html" class="back-link"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 19l-7-7 7-7"/></svg> Back to Home</a>
+    <h1>Current Market Prices</h1>
+    <p>Building material cost data from the U.S. Bureau of Labor Statistics. No opinions &#8212; just the index, what it tracks, and what the trend means for your project timing.</p>
+  </div>
+</div>
+
+<!-- OUTLOOK BANNER — Change class to: volatile / caution / steady -->
+
+<div class="outlook-banner">
+  <div class="outlook-card volatile">
+    <div class="outlook-arrow">
+      <!-- UP ARROW for volatile -->
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5"/><path d="M5 12l7-7 7 7"/></svg>
+    </div>
+    <div class="outlook-text">
+      <h2>Volatile &#8212; Prices Trending Up</h2>
+      <p>Materials could see significant increases as global shipping lanes respond to tariffs and ongoing conflicts. Supply chain disruptions are pushing lead times and costs higher across multiple categories. If you're planning a project, locking in material pricing sooner rather than later is worth considering.</p>
+      <div class="outlook-date">Updated March 2026</div>
+    </div>
+  </div>
+</div>
+
+<!-- Swap to this when steady:
+<div class="outlook-banner">
+  <div class="outlook-card steady">
+    <div class="outlook-arrow">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/></svg>
+    </div>
+    <div class="outlook-text">
+      <h2>Steady &#8212; Holding Flat</h2>
+      <p>Material and labor costs look to be holding steady. No price shocks expected in the near term. Good window to plan and price out projects without rush pressure.</p>
+      <div class="outlook-date">Updated March 2026</div>
+    </div>
+  </div>
+</div>
+-->
+
+<section class="ppi-section">
+  <div class="container">
+    <div class="ppi-card">
+      <h3>What Is the Producer Price Index?</h3>
+      <p>The <strong>Producer Price Index (PPI)</strong> is published monthly by the U.S. Bureau of Labor Statistics. It measures what manufacturers and producers charge for goods before they reach you. For building materials, it tracks the wholesale cost of lumber, concrete, metals, glass, siding, and other construction inputs.</p>
+      <p>When the PPI is <strong>above its 12-month moving average</strong>, it means material costs are trending higher than their recent norm &#8212; projects started during this period will likely cost more. When it's <strong>below the moving average</strong>, costs are easing and you may get more favorable pricing.</p>
+      <p>This isn't a prediction. It's a snapshot of where prices actually are right now relative to where they've been.</p>
+      <a href="https://data.bls.gov/timeseries/WPUFD4" target="_blank" rel="noopener" class="ppi-link">View PPI Construction Materials Data (BLS.gov) <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 1h4v4M11 1L5 7"/></svg></a>
+    </div>
+
+```
+<h3 style="font-family:'DM Serif Display',serif;font-size:1.3rem;color:#2C2A27;margin-bottom:8px;">How to Read the Trend</h3>
+<p style="font-size:.92rem;color:#7A756D;margin-bottom:4px;">Three scenarios and what they suggest for project timing:</p>
+
+<div class="read-guide">
+  <div class="read-item">
+    <div class="indicator">
+      <svg viewBox="0 0 24 24" fill="none" stroke="#C0392B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5"/><path d="M5 12l7-7 7 7"/></svg>
+      <h4 class="up-color">Above Average</h4>
+    </div>
+    <p>Material costs are running higher than recent norms. Projects priced today may cost more than they would have 6 months ago. Consider locking in quotes if you're ready.</p>
+  </div>
+  <div class="read-item">
+    <div class="indicator">
+      <svg viewBox="0 0 24 24" fill="none" stroke="#F39C12" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/></svg>
+      <h4 class="flat-color">Near Average</h4>
+    </div>
+    <p>Costs are in line with their recent trend. No urgency, but no reason to wait either. A neutral environment for planning and pricing.</p>
+  </div>
+  <div class="read-item">
+    <div class="indicator">
+      <svg viewBox="0 0 24 24" fill="none" stroke="#27AE60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14"/><path d="M19 12l-7 7-7-7"/></svg>
+      <h4 class="down-color">Below Average</h4>
+    </div>
+    <p>Material costs are trending lower than usual. Favorable conditions for starting a project. This doesn't last forever &#8212; good time to move.</p>
+  </div>
+</div>
+```
+
+  </div>
+</section>
+
+<section class="materials-section">
+  <div class="container">
+    <h3 style="font-family:'DM Serif Display',serif;font-size:1.5rem;color:#2C2A27;margin-bottom:8px;">Key Material Categories</h3>
+    <p style="font-size:.92rem;color:#7A756D;margin-bottom:4px;">PPI subcategories most relevant to exterior remodeling in the Spokane area.</p>
+
+```
+<div class="materials-grid">
+  <div class="material-card">
+    <h4>Lumber &amp; Wood Products</h4>
+    <div class="ppi-code">BLS Series: WPU08</div>
+    <p>Framing, sheathing, trim. Affects siding prep, structural repairs, and any wood-based exterior work.</p>
+    <span class="trend trend-up"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 19V5"/><path d="M5 12l7-7 7 7"/></svg> Above Avg</span>
+  </div>
+  <div class="material-card">
+    <h4>Flat Glass</h4>
+    <div class="ppi-code">BLS Series: WPU0813</div>
+    <p>Window panes, low-E coatings, insulated glass units. Directly impacts window replacement costs.</p>
+    <span class="trend trend-up"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 19V5"/><path d="M5 12l7-7 7 7"/></svg> Above Avg</span>
+  </div>
+  <div class="material-card">
+    <h4>Paint &amp; Coatings</h4>
+    <div class="ppi-code">BLS Series: WPU0621</div>
+    <p>Exterior primers, paints, and protective coatings. Chemical supply chain and oil prices drive fluctuations.</p>
+    <span class="trend trend-flat"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/></svg> Near Avg</span>
+  </div>
+  <div class="material-card">
+    <h4>Concrete &amp; Cement</h4>
+    <div class="ppi-code">BLS Series: WPU1332</div>
+    <p>Foundations, walkways, flatwork. Regional supply and energy costs are the main drivers.</p>
+    <span class="trend trend-flat"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14"/></svg> Near Avg</span>
+  </div>
+  <div class="material-card">
+    <h4>Fiber Cement &amp; Siding</h4>
+    <div class="ppi-code">BLS Series: WPU0839</div>
+    <p>Hardie board, engineered siding products. Raw material costs and manufacturing capacity affect pricing.</p>
+    <span class="trend trend-up"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 19V5"/><path d="M5 12l7-7 7 7"/></svg> Above Avg</span>
+  </div>
+  <div class="material-card">
+    <h4>Metals &amp; Hardware</h4>
+    <div class="ppi-code">BLS Series: WPU10</div>
+    <p>Flashing, fasteners, aluminum trim, door hardware. Tariffs and global metal markets are the main swing factor.</p>
+    <span class="trend trend-up"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 19V5"/><path d="M5 12l7-7 7 7"/></svg> Above Avg</span>
+  </div>
+</div>
+
+<div class="disclaimer">
+  <p><strong>Disclaimer:</strong> All pricing data is sourced from the U.S. Bureau of Labor Statistics Producer Price Index. Trend indicators reflect national wholesale cost data relative to 12-month moving averages and may not perfectly mirror local Spokane pricing. This page is for informational purposes only and does not constitute financial or purchasing advice. Always get current quotes for your specific project.</p>
+</div>
+```
+
+  </div>
+</section>
+
+<section class="page-cta">
+  <div class="container">
+    <h2>Want to Know What Your Project Costs Today?</h2>
+    <p>We'll give you a straight answer based on current material pricing and local labor rates. No obligation.</p>
+    <a href="sms:5092517792" class="btn-primary">Text Us for a Free Estimate</a>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-inner">
+    <div>
+      <div class="footer-brand">INMA<span>.</span></div>
+      <p style="color:rgba(245,242,237,.3);font-size:.82rem;margin-top:6px;">Your Contractor Advocate &#8212; Spokane, WA</p>
+    </div>
+    <div class="footer-info">
+      <p>WA LLC #606-027-063</p>
+      <p style="margin-top:4px;"><a href="mailto:jake@inmagent.com">jake@inmagent.com</a></p>
+      <p style="margin-top:8px;font-size:.75rem;">&copy; 2026 INMA. All rights reserved.</p>
+    </div>
+  </div>
+</footer>
+
+<script>
+document.querySelector('.mobile-toggle').addEventListener('click',function(){document.getElementById('navLinks').classList.toggle('open')});
+</script>
+
+</body>
+</html>
