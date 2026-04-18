@@ -407,7 +407,7 @@ transition: background 0.3s;
   </div>
 
   <button class="submit-btn" id="submitBtn" onclick="handleSubmit()">
-    ✉️ Send My Feedback
+    ⭐ Post to Google Reviews
   </button>
 
 </div>
@@ -418,7 +418,7 @@ transition: background 0.3s;
   <div style="margin: 0 16px;">
     <div class="success-icon">✓</div>
     <h2>Thanks, <span id="thankName">friend</span>!</h2>
-    <p>Your feedback has been sent to Jake. If you have 60 seconds, would you paste it as a Google review? It makes a huge difference for local homeowners.</p>
+    <p>Google Reviews just opened in a new tab. Paste your review below and hit Post — it takes 30 seconds and makes a huge difference for local homeowners.</p>
 
 ```
 <div class="review-text-box" id="reviewText"></div>
@@ -438,14 +438,6 @@ transition: background 0.3s;
   Your feedback is private and sent only to INMA.
 </div>
 
-<!-- Hidden Formspree form -->
-
-<form id="hiddenForm" action="https://formspree.io/f/xgollken" method="POST" style="display:none">
-  <input type="hidden" name="rating" id="f_rating">
-  <input type="hidden" name="customer_name" id="f_name">
-  <input type="hidden" name="review_text" id="f_review">
-  <input type="hidden" name="_subject" id="f_subject">
-</form>
 
 <script>
   // ── CONFIG ──────────────────────────────────────────────
@@ -497,7 +489,7 @@ transition: background 0.3s;
     return text;
   }
 
-  async function handleSubmit() {
+  function handleSubmit() {
     const btn = document.getElementById('submitBtn');
     const name = document.getElementById('customerName').value.trim();
 
@@ -507,32 +499,13 @@ transition: background 0.3s;
     }
 
     btn.disabled = true;
-    btn.textContent = 'Sending…';
 
     const reviewText = buildReviewText(name, selectedRating, selectedPhrases);
-    const subject = `INMA Review – ${selectedRating}⭐ from ${name || 'a customer'}`;
 
-    // Fill hidden form
-    document.getElementById('f_rating').value = selectedRating + ' stars';
-    document.getElementById('f_name').value = name || '(not provided)';
-    document.getElementById('f_review').value = reviewText;
-    document.getElementById('f_subject').value = subject;
+    // Open Google reviews immediately
+    window.open(GOOGLE_REVIEW_URL, '_blank');
 
-    // Submit via Formspree
-    const form = document.getElementById('hiddenForm');
-    const data = new FormData(form);
-
-    try {
-      const res = await fetch(form.action, {
-        method: 'POST',
-        body: data,
-        headers: { 'Accept': 'application/json' }
-      });
-
-      showSuccess(name, reviewText);
-    } catch (e) {
-      showSuccess(name, reviewText);
-    }
+    showSuccess(name, reviewText);
   }
 
   function showSuccess(name, reviewText) {
