@@ -13,21 +13,23 @@ header { width:100%; background:#2C2A27; padding:14px 32px; display:flex; align-
 .logo span { color:#B8941F; }
 .back { color:#B8941F; text-decoration:none; font-size:0.88rem; font-weight:600; }
 .game-wrapper { display:flex; flex-direction:column; align-items:center; padding:20px 16px 40px; width:100%; max-width:480px; }
-.game-header { text-align:center; margin-bottom:16px; }
+.game-header { text-align:center; margin-bottom:14px; }
 .game-header h1 { font-family:'DM Serif Display',serif; font-size:1.9rem; color:#F5F2ED; margin-bottom:6px; }
-.game-header p { font-size:0.88rem; color:rgba(245,242,237,0.55); margin-bottom:10px; }
+.game-header p { font-size:0.85rem; color:rgba(245,242,237,0.5); margin-bottom:10px; }
 .prize-badge { display:inline-block; background:rgba(184,148,31,0.15); border:1px solid rgba(184,148,31,0.4); color:#B8941F; padding:5px 14px; border-radius:20px; font-size:0.8rem; font-weight:700; letter-spacing:1px; }
-.hud { display:flex; justify-content:space-between; width:100%; max-width:460px; padding:8px 0; font-size:0.88rem; color:rgba(245,242,237,0.6); }
+.hud { display:flex; justify-content:space-between; align-items:center; width:100%; max-width:460px; padding:8px 0; font-size:0.88rem; color:rgba(245,242,237,0.6); }
+.timer { font-family:'DM Serif Display',serif; font-size:1.2rem; color:#F5F2ED; transition:color 0.3s; }
+.timer.urgent { color:#C0392B; }
 .canvas-container { position:relative; width:100%; max-width:460px; }
 #gameCanvas { border:1px solid rgba(255,255,255,0.08); border-radius:8px; background:#0A130D; display:block; width:100%; height:auto; }
-#overlay { position:absolute; top:0; left:0; width:100%; height:100%; background:rgba(10,19,13,0.92); display:flex; flex-direction:column; align-items:center; justify-content:center; border-radius:8px; text-align:center; padding:28px 20px; }
+#overlay { position:absolute; top:0; left:0; width:100%; height:100%; background:rgba(10,19,13,0.93); display:flex; flex-direction:column; align-items:center; justify-content:center; border-radius:8px; text-align:center; padding:28px 20px; }
 #overlay h2 { font-family:'DM Serif Display',serif; font-size:1.7rem; color:#F5F2ED; margin-bottom:10px; }
-#overlay p { font-size:0.9rem; color:rgba(245,242,237,0.65); line-height:1.65; margin-bottom:16px; max-width:300px; }
+#overlay p { font-size:0.9rem; color:rgba(245,242,237,0.65); line-height:1.65; margin-bottom:14px; max-width:300px; }
 .promo-code { font-family:'DM Serif Display',serif; font-size:2.2rem; color:#B8941F; letter-spacing:5px; padding:12px 28px; border:2px solid #B8941F; border-radius:8px; margin:12px 0 6px; }
 .promo-note { font-size:0.75rem; color:rgba(245,242,237,0.35); margin-bottom:20px; }
 .start-btn { background:#8B6914; color:white; padding:13px 32px; border:none; border-radius:8px; font-family:'Outfit',sans-serif; font-size:0.95rem; font-weight:700; cursor:pointer; transition:background 0.2s; text-decoration:none; display:inline-block; }
 .start-btn:hover { background:#B8941F; }
-.again-btn { background:rgba(255,255,255,0.08); color:#F5F2ED; padding:10px 24px; border:1px solid rgba(255,255,255,0.15); border-radius:8px; font-family:'Outfit',sans-serif; font-size:0.88rem; cursor:pointer; margin-top:10px; }
+.again-btn { background:rgba(255,255,255,0.08); color:#F5F2ED; padding:10px 24px; border:1px solid rgba(255,255,255,0.15); border-radius:8px; font-family:'Outfit',sans-serif; font-size:0.88rem; cursor:pointer; margin-top:10px; display:inline-block; text-decoration:none; }
 .mobile-controls { display:none; gap:10px; margin-top:14px; width:100%; max-width:460px; }
 @media (max-width:600px) { .mobile-controls { display:flex; } }
 .ctrl-btn { background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.12); color:#F5F2ED; padding:18px; border-radius:8px; font-size:1.3rem; cursor:pointer; user-select:none; touch-action:none; flex:1; text-align:center; -webkit-tap-highlight-color:transparent; }
@@ -44,12 +46,13 @@ header { width:100%; background:#2C2A27; padding:14px 32px; display:flex; align-
 <div class="game-wrapper">
   <div class="game-header">
     <h1>Defend Your Home</h1>
-    <p>Winter left damage behind. Shoot it before it costs you.</p>
+    <p>Spokane's climate hits your home every season. Shoot 25 threats before time runs out.</p>
     <div class="prize-badge">WIN = 10% OFF HOME TUNE-UP</div>
   </div>
 
   <div class="hud">
     <span>Destroyed: <strong id="scoreDisplay" style="color:#B8941F;">0</strong> / 25</span>
+    <span class="timer" id="timerDisplay">0:60</span>
     <span id="livesDisplay">♥ ♥ ♥</span>
   </div>
 
@@ -57,8 +60,8 @@ header { width:100%; background:#2C2A27; padding:14px 32px; display:flex; align-
     <canvas id="gameCanvas" width="460" height="500"></canvas>
     <div id="overlay">
       <h2>Defend Your Home</h2>
-      <p>Shoot 25 pieces of winter damage before your home takes 3 hits. Win and get <strong style="color:#B8941F;">10% off</strong> a Seasonal Home Tune-Up.</p>
-      <p style="font-size:0.78rem;color:rgba(245,242,237,0.35);margin-bottom:20px;">Arrow keys to move &bull; Spacebar to shoot<br>Mobile: use buttons below</p>
+      <p>Spokane's weather — summer heat, winter ice, freeze-thaw cycles — damages your home year round. Shoot 25 threats in 60 seconds to win <strong style="color:#B8941F;">10% off</strong> a Home Tune-Up.</p>
+      <p style="font-size:0.78rem;color:rgba(245,242,237,0.3);margin-bottom:20px;">Arrow keys to move &bull; Spacebar to shoot &bull; One attempt per day</p>
       <button class="start-btn" id="startBtn">Start Game</button>
     </div>
   </div>
@@ -68,7 +71,6 @@ header { width:100%; background:#2C2A27; padding:14px 32px; display:flex; align-
     <button class="ctrl-btn fire" id="shootBtn">FIRE</button>
     <button class="ctrl-btn" id="rightBtn">▶</button>
   </div>
-
   <p class="hint">Arrow keys + Spacebar &nbsp;|&nbsp; Mobile: buttons above</p>
 </div>
 
@@ -77,28 +79,47 @@ const canvas = document.getElementById('gameCanvas');
 const ctx = canvas.getContext('2d');
 const W = 460, H = 500;
 const WIN_SCORE = 25;
+const GAME_TIME = 60;
 
 let state = 'idle';
-let score = 0, lives = 3;
+let score = 0, lives = 3, timeLeft = GAME_TIME;
 let player, bullets, asteroids, particles;
-let shootCooldown = 0, spawnTimer = 0, spawnRate = 75;
-let animId;
+let shootCooldown = 0, spawnTimer = 0, spawnRate = 62;
+let animId, timerInterval;
 const keys = {};
 let mLeft = false, mRight = false, mShoot = false;
 
-const LABELS = ['leak','rot','ice','draft','mold','rust'];
-const COLORS = { leak:'#2E5F8A', rot:'#7A4A1A', ice:'#7EC8E3', draft:'#8A8A8A', mold:'#4A6741', rust:'#8B3A2A' };
+// Spokane year-round climate damage labels
+const LABELS = ['ice','heat','UV','rain','rot','draft','freeze','rust','wind','mold'];
+const COLORS = {
+  ice:'#7EC8E3', heat:'#C0392B', UV:'#D4841A',
+  rain:'#2E5F8A', rot:'#7A4A1A', draft:'#8A8A8A',
+  freeze:'#5B8AA8', rust:'#8B3A2A', wind:'#9A9A7A', mold:'#4A6741'
+};
+
+// One play per day via localStorage
+function canPlay() {
+  return localStorage.getItem('inma_game_date') !== new Date().toDateString();
+}
+function recordPlay() {
+  localStorage.setItem('inma_game_date', new Date().toDateString());
+}
 
 function init() {
-  score = 0; lives = 3;
+  score = 0; lives = 3; timeLeft = GAME_TIME;
   bullets = []; asteroids = []; particles = [];
-  shootCooldown = 0; spawnTimer = 0; spawnRate = 75;
+  shootCooldown = 0; spawnTimer = 0; spawnRate = 62;
   player = { x: W/2, y: H-52, inv: 0 };
   updateHUD();
 }
 
 function updateHUD() {
   document.getElementById('scoreDisplay').textContent = score;
+  const mins = Math.floor(timeLeft / 60);
+  const secs = timeLeft % 60;
+  const tEl = document.getElementById('timerDisplay');
+  tEl.textContent = `${mins}:${secs.toString().padStart(2,'0')}`;
+  tEl.className = 'timer' + (timeLeft <= 10 ? ' urgent' : '');
   const h = ['♥','♥','♥'].map((c,i) =>
     `<span style="color:${i<lives?'#B8941F':'rgba(255,255,255,0.15)'}">${c}</span>`
   ).join(' ');
@@ -106,21 +127,26 @@ function updateHUD() {
 }
 
 function makeAsteroid() {
-  const r = 18 + Math.random()*14;
+  const r = 17 + Math.random()*15;
   const label = LABELS[Math.floor(Math.random()*LABELS.length)];
   const n = 7 + Math.floor(Math.random()*4);
   const verts = Array.from({length:n},(_,i)=>{
-    const a = (i/n)*Math.PI*2;
-    const d = r*(0.65+Math.random()*0.45);
+    const a=(i/n)*Math.PI*2, d=r*(0.65+Math.random()*0.45);
     return {x:Math.cos(a)*d, y:Math.sin(a)*d};
   });
-  return { x:r+Math.random()*(W-r*2), y:-r, r, vx:(Math.random()-.5)*1.4, vy:1.1+Math.random()*1.6, rot:0, rs:(Math.random()-.5)*0.03, label, color:COLORS[label], verts };
+  return {
+    x: r+Math.random()*(W-r*2), y:-r, r,
+    vx:(Math.random()-.5)*1.8,
+    vy: 1.4+Math.random()*2.0,
+    rot:0, rs:(Math.random()-.5)*0.04,
+    label, color:COLORS[label], verts
+  };
 }
 
 function burst(x, y, color) {
   for(let i=0;i<8;i++){
-    const a=Math.random()*Math.PI*2, s=1+Math.random()*3;
-    particles.push({x,y,vx:Math.cos(a)*s,vy:Math.sin(a)*s,life:40,max:40,color});
+    const a=Math.random()*Math.PI*2, s=1.5+Math.random()*3;
+    particles.push({x,y,vx:Math.cos(a)*s,vy:Math.sin(a)*s,life:38,max:38,color});
   }
 }
 
@@ -128,8 +154,7 @@ function drawPlayer() {
   const {x,y,inv} = player;
   if(inv>0 && Math.floor(inv/5)%2===0) return;
   ctx.save(); ctx.translate(x,y);
-  ctx.fillStyle='#8B6914';
-  ctx.fillRect(-13,-6,26,18);
+  ctx.fillStyle='#8B6914'; ctx.fillRect(-13,-6,26,18);
   ctx.beginPath(); ctx.moveTo(-17,-6); ctx.lineTo(0,-22); ctx.lineTo(17,-6); ctx.closePath();
   ctx.fillStyle='#6B5010'; ctx.fill();
   ctx.fillStyle='#2C2A27'; ctx.fillRect(-5,2,10,10);
@@ -139,10 +164,10 @@ function drawPlayer() {
 function drawAsteroid(a) {
   ctx.save(); ctx.translate(a.x,a.y); ctx.rotate(a.rot);
   ctx.beginPath();
-  a.verts.forEach((v,i)=> i?ctx.lineTo(v.x,v.y):ctx.moveTo(v.x,v.y));
+  a.verts.forEach((v,i)=>i?ctx.lineTo(v.x,v.y):ctx.moveTo(v.x,v.y));
   ctx.closePath();
   ctx.fillStyle=a.color; ctx.globalAlpha=0.85; ctx.fill();
-  ctx.globalAlpha=1; ctx.strokeStyle='rgba(255,255,255,0.18)'; ctx.lineWidth=1; ctx.stroke();
+  ctx.globalAlpha=1; ctx.strokeStyle='rgba(255,255,255,0.15)'; ctx.lineWidth=1; ctx.stroke();
   ctx.rotate(-a.rot);
   ctx.font='bold 8px Outfit,sans-serif'; ctx.fillStyle='rgba(255,255,255,0.9)';
   ctx.textAlign='center'; ctx.textBaseline='middle'; ctx.fillText(a.label,0,0);
@@ -151,71 +176,79 @@ function drawAsteroid(a) {
 
 function showOverlay(html) {
   const ov = document.getElementById('overlay');
-  ov.innerHTML = html; ov.style.display='flex';
+  ov.innerHTML = html; ov.style.display = 'flex';
 }
 
 function winGame() {
-  state='won'; cancelAnimationFrame(animId);
+  state='won'; cancelAnimationFrame(animId); clearInterval(timerInterval);
   showOverlay(`
     <h2 style="color:#B8941F;">You Win!</h2>
-    <p>You defended your home. Show this to Jake when you book your Seasonal Home Tune-Up.</p>
+    <p>You defended your home against Spokane's climate. Show this to Jake when you book your Home Tune-Up.</p>
     <div class="promo-code">TUNEUP10</div>
     <p class="promo-note">10% off — valid 30 days — text or show in person</p>
-    <a href="sms:5092517792?body=I won the INMA game! Promo code TUNEUP10 — I want to book a Home Tune-Up" class="start-btn">Text Jake to Book</a>
-    <br>
-    <button class="again-btn" onclick="startGame()">Play Again</button>
+    <a href="sms:5092517792?body=I won the INMA game! Code: TUNEUP10 — want to book a Home Tune-Up" class="start-btn" style="text-decoration:none;">Text Jake to Book</a>
+    <br><br>
+    <a href="/" class="again-btn">Back to site</a>
   `);
 }
 
-function loseGame() {
-  state='dead'; cancelAnimationFrame(animId);
+function loseGame(reason) {
+  state='dead'; cancelAnimationFrame(animId); clearInterval(timerInterval);
+  const msg = reason === 'time'
+    ? "Time's up. Your home took damage you didn't catch."
+    : "Your home took too much damage.";
   showOverlay(`
-    <h2>Your home took too much damage.</h2>
-    <p>That's exactly why a seasonal tune-up exists — catch problems before they become expensive.</p>
-    <button class="start-btn" onclick="startGame()">Try Again</button>
+    <h2>${msg}</h2>
+    <p>That's exactly why a seasonal tune-up exists — catch problems before they become expensive. Come back tomorrow for another shot at 10% off.</p>
+    <a href="sms:5092517792" class="start-btn" style="text-decoration:none;">Book a Tune-Up</a>
     <br>
-    <a href="sms:5092517792" style="display:block;margin-top:14px;font-size:0.85rem;color:#B8941F;text-decoration:none;">Or just text Jake to book a tune-up →</a>
+    <a href="/" class="again-btn">Back to site</a>
+  `);
+}
+
+function showTryTomorrow() {
+  showOverlay(`
+    <h2>You Already Played Today</h2>
+    <p>Come back tomorrow for another chance at 10% off your Home Tune-Up. In the meantime — just text Jake.</p>
+    <a href="sms:5092517792" class="start-btn" style="text-decoration:none;margin-bottom:12px;">Text Jake</a>
+    <br><br>
+    <a href="/" class="again-btn">Back to site</a>
   `);
 }
 
 function loop() {
-  if(state!=='playing') return;
+  if(state !== 'playing') return;
   ctx.fillStyle='#0A130D'; ctx.fillRect(0,0,W,H);
 
   // Stars
-  ctx.fillStyle='rgba(255,255,255,0.25)';
+  ctx.fillStyle='rgba(255,255,255,0.22)';
   for(let i=0;i<50;i++) ctx.fillRect((i*137+23)%W,(i*97+41)%H,1,1);
 
-  // Move player
   const spd = 5;
-  if((keys['ArrowLeft']||keys['a']||mLeft)) player.x = Math.max(18,player.x-spd);
-  if((keys['ArrowRight']||keys['d']||mRight)) player.x = Math.min(W-18,player.x+spd);
+  if(keys['ArrowLeft']||keys['a']||mLeft) player.x=Math.max(18,player.x-spd);
+  if(keys['ArrowRight']||keys['d']||mRight) player.x=Math.min(W-18,player.x+spd);
   if((keys[' ']||keys['ArrowUp']||mShoot) && shootCooldown<=0) {
-    bullets.push({x:player.x,y:player.y-22,vy:-9});
+    bullets.push({x:player.x, y:player.y-22, vy:-9});
     shootCooldown=14;
   }
   if(shootCooldown>0) shootCooldown--;
   if(player.inv>0) player.inv--;
 
-  // Spawn
-  if(++spawnTimer>=spawnRate){
+  if(++spawnTimer >= spawnRate) {
     asteroids.push(makeAsteroid());
     spawnTimer=0;
-    spawnRate=Math.max(28,spawnRate-0.8);
+    spawnRate=Math.max(20, spawnRate-1.0);
   }
 
-  // Update bullets
   bullets=bullets.filter(b=>b.y>-10);
   bullets.forEach(b=>b.y+=b.vy);
 
-  // Update asteroids
   asteroids.forEach(a=>{
     a.x+=a.vx; a.y+=a.vy; a.rot+=a.rs;
     if(a.x<a.r){a.x=a.r;a.vx*=-1;}
     if(a.x>W-a.r){a.x=W-a.r;a.vx*=-1;}
   });
 
-  // Bullet-asteroid hits
   for(let bi=bullets.length-1;bi>=0;bi--){
     const b=bullets[bi];
     for(let ai=asteroids.length-1;ai>=0;ai--){
@@ -231,27 +264,23 @@ function loop() {
     }
   }
 
-  // Player-asteroid collision
   if(player.inv<=0){
     for(let ai=asteroids.length-1;ai>=0;ai--){
       const a=asteroids[ai];
       const dx=player.x-a.x, dy=player.y-a.y;
-      if(Math.sqrt(dx*dx+dy*dy)<a.r+15){
+      if(Math.sqrt(dx*dx+dy*dy)<a.r+14){
         burst(a.x,a.y,'#C0392B');
         asteroids.splice(ai,1);
         lives--; player.inv=100; updateHUD();
-        if(lives<=0){loseGame();return;}
+        if(lives<=0){loseGame('hits');return;}
       }
     }
   }
 
   asteroids=asteroids.filter(a=>a.y<H+a.r);
-
-  // Particles
   particles.forEach(p=>{p.x+=p.vx;p.y+=p.vy;p.vy+=0.08;p.life--;});
   particles=particles.filter(p=>p.life>0);
 
-  // Draw
   particles.forEach(p=>{
     ctx.globalAlpha=p.life/p.max;
     ctx.fillStyle=p.color; ctx.fillRect(p.x-2,p.y-2,4,4);
@@ -267,24 +296,33 @@ function loop() {
 }
 
 function startGame() {
+  if(!canPlay()) { showTryTomorrow(); return; }
+  recordPlay();
   init(); state='playing';
   document.getElementById('overlay').style.display='none';
+
+  timerInterval = setInterval(()=>{
+    if(state !== 'playing') return;
+    timeLeft--;
+    updateHUD();
+    if(timeLeft<=0){ loseGame('time'); }
+  }, 1000);
+
   animId=requestAnimationFrame(loop);
 }
 
 document.addEventListener('keydown',e=>{keys[e.key]=true;if(e.key===' ')e.preventDefault();});
 document.addEventListener('keyup',e=>{keys[e.key]=false;});
-document.getElementById('startBtn').addEventListener('click',startGame);
+document.getElementById('startBtn').addEventListener('click', startGame);
 
-function mobileBtn(id,set){
-  const el=document.getElementById(id);
-  if(!el)return;
+function mBtn(id,set){
+  const el=document.getElementById(id); if(!el)return;
   ['touchstart','mousedown'].forEach(ev=>el.addEventListener(ev,e=>{e.preventDefault();set(true);},{passive:false}));
   ['touchend','mouseup','touchcancel'].forEach(ev=>el.addEventListener(ev,e=>{e.preventDefault();set(false);},{passive:false}));
 }
-mobileBtn('leftBtn',v=>mLeft=v);
-mobileBtn('rightBtn',v=>mRight=v);
-mobileBtn('shootBtn',v=>mShoot=v);
+mBtn('leftBtn',v=>mLeft=v);
+mBtn('rightBtn',v=>mRight=v);
+mBtn('shootBtn',v=>mShoot=v);
 </script>
 </body>
 </html>
