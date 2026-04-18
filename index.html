@@ -637,12 +637,18 @@ section { padding: 72px 16px; }
   function showSuccess() {
     setTimeout(function() { document.getElementById('fthFormContent').style.display='none'; document.getElementById('fthSuccess').classList.add('show'); }, 500);
   }
-  function submitViaEmail() {
+  async function submitViaEmail() {
     var d = getFormData(); if (!d) return;
-    var subject = 'From the Hip -- ' + d.name + ' -- ' + d.services;
-    var body = 'FROM THE HIP -- New Project Assessment\n\nName: '+d.name+'\nEmail: '+d.email+'\nPhone: '+d.phone+'\nAddress: '+d.address+'\n\nServices: '+d.services+'\nBudget: '+d.budget+'\nSq Footage: '+d.sqft+'\n\nNotes:\n'+d.notes+'\n';
-    window.location.href = 'mailto:jake@inmagent.com?subject='+encodeURIComponent(subject)+'&body='+encodeURIComponent(body);
-    showSuccess();
+    var btn = document.querySelector('.fth-submit-email');
+    btn.disabled = true; btn.textContent = 'Sending...';
+    try {
+      var res = await fetch('https://formspree.io/f/xgollken', {
+        method: 'POST',
+        headers: { 'Accept': 'application/json', 'Content-Type': 'application/json' },
+        body: JSON.stringify({ name:d.name, email:d.email, phone:d.phone, address:d.address, services:d.services, budget:d.budget, sqft:d.sqft, notes:d.notes })
+      });
+      if (res.ok) { showSuccess(); } else { alert('Something went wrong. Please text us at (509) 251-7792.'); btn.disabled=false; btn.textContent='Send with Email'; }
+    } catch(e) { alert('Something went wrong. Please text us at (509) 251-7792.'); btn.disabled=false; btn.textContent='Send with Email'; }
   }
   function submitViaText() {
     var d = getFormData(); if (!d) return;
