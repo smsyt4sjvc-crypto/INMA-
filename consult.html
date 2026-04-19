@@ -102,6 +102,10 @@ input[type="range"] { width: 100%; accent-color: #B8941F; height: 6px; cursor: p
 .sig-clear { position: absolute; top: 8px; right: 10px; background: rgba(245,242,237,0.95); border: 1px solid #D6D0C6; border-radius: 6px; padding: 5px 12px; font-size: 0.75rem; color: #7A7269; cursor: pointer; font-family: 'Outfit', sans-serif; }
 .sig-hint { font-size: 0.75rem; color: #A09890; margin: 6px 0 24px; }
 .gen-btn { width: 100%; background: #B8941F; color: white; border: none; border-radius: 10px; padding: 18px; font-family: 'Outfit', sans-serif; font-size: 1rem; font-weight: 700; cursor: pointer; }
+.sa-section { margin-bottom: 14px; }
+.sa-header { background: #1C1A17; color: white; padding: 7px 12px; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.07em; border-radius: 4px; margin-bottom: 7px; }
+.sa-body { font-size: 0.8rem; color: #5A5450; line-height: 1.65; margin-bottom: 5px; }
+.sa-list { font-size: 0.8rem; color: #5A5450; line-height: 1.65; padding-left: 18px; margin-bottom: 6px; }
 
 /* PRINT */
 #printView { display: none; }
@@ -198,7 +202,7 @@ input[type="range"] { width: 100%; accent-color: #B8941F; height: 6px; cursor: p
     <div class="section">
       <div class="eyebrow">Spokane Energy Costs</div>
       <h2 class="section-h">Your Avista bill has nearly doubled since 2019.</h2>
-      <p class="section-p">Energy costs in Spokane have climbed faster than almost anywhere in the Pacific Northwest. The right exterior upgrades — insulation, windows, siding — directly reduce what you pay every month.</p>
+      <p class="section-p">Washington State energy costs have risen as fast or faster than almost anywhere in the nation — a direct consequence of our accelerating transition to new clean energy policy. Rates are not coming down. The right exterior upgrades — insulation, windows, siding — lock in lower energy use now, regardless of where rates go next.</p>
       <div class="stat-row">
         <div class="stat-card">
           <div class="stat-num">+94%</div>
@@ -209,7 +213,7 @@ input[type="range"] { width: 100%; accent-color: #B8941F; height: 6px; cursor: p
           <div class="stat-label">Natural gas rate increase since 2019</div>
         </div>
       </div>
-      <p class="section-p">Avista offers rebates on qualifying upgrades — windows, insulation, HVAC, air sealing — that can meaningfully reduce the net cost of your project. Rebates vary by u-factor, square footage, and installer type.</p>
+      <p class="section-p">Avista offers rebates on qualifying upgrades — windows, insulation, HVAC, air sealing — that can meaningfully reduce the net cost of your project. Rebates vary by u-factor, square footage, and installer type. One reason contractor vetting matters: Avista won't pay out rebates for contractor-installed work unless that contractor holds the appropriate state license. That's another layer of protection built into working with INMA.</p>
       <div class="btn-row">
         <a href="https://www.myavista.com/energy-savings/rebates-washington/single-family-energy-rebates-washington/windows" target="_blank" class="btn-gold">View Current Avista Rebates ↗</a>
       </div>
@@ -264,38 +268,84 @@ input[type="range"] { width: 100%; accent-color: #B8941F; height: 6px; cursor: p
 <!-- SECTION 5: AGREEMENT -->
 <div id="agreement">
   <div class="section">
-    <div class="eyebrow">Project Agreement</div>
+    <div class="eyebrow">Service Agreement</div>
     <h2 class="section-h">Ready to move forward?</h2>
-    <p class="section-p">Complete the fields below and sign. This authorizes INMA to begin contractor coordination on your behalf. Either party may cancel within 3 business days.</p>
+    <p class="section-p">Fill in the details, have the homeowner sign, then tap Send. You'll get everything by email — add your scanned estimate and forward it to them.</p>
     <div class="form-wrap">
+
+      <!-- TOP FIELDS -->
       <div class="field-group">
-        <div class="field"><label>Homeowner Name</label><input type="text" id="ownerName" placeholder="Full name"></div>
-        <div class="field"><label>Date</label><input type="text" id="agreementDate" readonly></div>
+        <div class="field"><label>Agreement Date</label><input type="text" id="agreementDate" readonly></div>
+        <div class="field"><label>Project Type</label><input type="text" id="projectType" placeholder="e.g. Siding, Windows, Roofing"></div>
       </div>
       <div class="field-group full">
-        <div class="field"><label>Property Address</label><input type="text" id="propertyAddress" placeholder="Street address, Spokane, WA"></div>
+        <div class="field"><label>Homeowner(s)</label><input type="text" id="ownerName" placeholder="Full name(s)"></div>
+      </div>
+      <div class="field-group full">
+        <div class="field"><label>Project Address</label><input type="text" id="propertyAddress" placeholder="Street address"></div>
       </div>
       <div class="field-group">
+        <div class="field"><label>City / State / ZIP</label><input type="text" id="cityStateZip" placeholder="Spokane, WA 99201"></div>
         <div class="field"><label>Phone</label><input type="tel" id="ownerPhone" placeholder="(509) 000-0000"></div>
-        <div class="field"><label>Email</label><input type="email" id="ownerEmail" placeholder="email@example.com"></div>
       </div>
       <div class="field-group">
-        <div class="field"><label>Project Amount</label><input type="text" id="projectAmount" placeholder="$0.00"></div>
-        <div class="field"><label>Estimated Start</label><input type="text" id="startDate" placeholder="e.g. May 2025"></div>
+        <div class="field"><label>Homeowner Email</label><input type="email" id="ownerEmail" placeholder="email@example.com"></div>
+        <div class="field"><label>Project Amount ($)</label><input type="text" id="projectAmount" placeholder="e.g. 18000" oninput="calcFee()"></div>
       </div>
       <div class="field-group full">
         <div class="field"><label>Scope of Work</label><textarea id="scopeText" placeholder="Materials, specs, exclusions..."></textarea></div>
       </div>
-      <div class="terms-box">
-        This agreement authorizes Inland Northwest Marketing Affiliates (INMA) to act as the homeowner's project advocate and to coordinate with licensed, bonded, and insured contractors on the homeowner's behalf. INMA does not perform construction work and does not handle construction funds directly. The homeowner retains the right to approve all contractor selections and final pricing before any work begins. INMA's fee is included within the agreed contract price and is not an additional charge to the homeowner. All contractor work is subject to a separate contractor agreement. This document confirms the homeowner's intent to proceed with the scoped project and authorizes INMA to begin contractor coordination. Either party may cancel within 3 business days of signing without penalty.
+
+      <!-- FEE BOX -->
+      <div style="background:#FDF8EE;border:1.5px solid rgba(184,148,31,0.35);border-radius:10px;padding:14px 18px;text-align:center;margin-bottom:20px;font-size:1rem;font-weight:600;color:#1C1A17;">
+        INMA Service Fee (10%) = <span id="feeDisplay" style="color:#B8941F;">—</span>
       </div>
-      <div class="sig-label">Homeowner Signature</div>
-      <div class="sig-wrap">
-        <canvas id="sigCanvas" height="160"></canvas>
-        <button class="sig-clear" onclick="clearSig()">Clear</button>
+
+      <!-- AGREEMENT SECTIONS -->
+      <div class="sa-section"><div class="sa-header">1. WHO WE ARE</div>
+        <p class="sa-body">INMA is a homeowner advocacy and coordination service. We work exclusively for homeowners. We are not a contractor, and we do not perform, supervise, or control construction work.</p>
       </div>
-      <div class="sig-hint">Sign with finger or stylus above</div>
-      <button class="gen-btn" onclick="generateAgreement()">Generate & Print Agreement</button>
+      <div class="sa-section"><div class="sa-header">2. WHAT WE DO FOR YOU</div>
+        <p class="sa-body">Your INMA coordinator brings 25+ years of residential exterior experience in the Spokane market. We assist you with:</p>
+        <ul class="sa-list">
+          <li>Project scope development</li>
+          <li>Material takeoffs and measurements for accuracy</li>
+          <li>Contractor introduction and matching</li>
+          <li>A fair market estimate for your project, which will match the price on your contractor's installation agreement</li>
+          <li>Ongoing communication support during your project</li>
+        </ul>
+        <p class="sa-body">The fair market estimate we provide is the price — your contractor will honor that number on their installation agreement. Anything beyond the original scope is something you work out directly with your contractor. All construction work is performed by your independently licensed, bonded, and insured contractor.</p>
+      </div>
+      <div class="sa-section"><div class="sa-header">3. HOW INMA IS COMPENSATED — NO ADDED COST TO YOU</div>
+        <p class="sa-body">Our service fee is <strong>10%</strong> of your total project cost and is deducted dollar-for-dollar from the contractor's price. Your cost is not increased by working with INMA. This fee is paid directly to INMA at signing and covers coordination only — not construction.</p>
+      </div>
+      <div class="sa-section"><div class="sa-header">4. HOW PAYMENTS WORK</div>
+        <p class="sa-body"><strong>INMA Service Fee:</strong> Paid to INMA at signing. <strong>All construction payments</strong> (deposits, progress, final): Paid directly to your contractor under a separate agreement. INMA does not collect, hold, or disburse any construction funds at any time.</p>
+      </div>
+      <div class="sa-section"><div class="sa-header">5. YOUR CONTRACTOR</div>
+        <p class="sa-body">Every contractor we introduce has been personally vetted for licensing, bonding, insurance, and field reputation. You will sign a separate installation agreement directly with your contractor covering scope, price, schedule, and workmanship warranty.</p>
+      </div>
+      <div class="sa-section"><div class="sa-header">6. CHANGES DURING THE PROJECT</div>
+        <p class="sa-body">Any additional work will be handled directly between you and your contractor with your written approval. INMA is available to help document and communicate changes.</p>
+      </div>
+      <div class="sa-section"><div class="sa-header">7. INMA'S ROLE</div>
+        <p class="sa-body">INMA provides homeowner coordination services only. We are not a general contractor or construction manager. We do not supervise crews, handle construction funds, or guarantee contractor workmanship. Our responsibility is limited to the coordination services described above.</p>
+      </div>
+      <div class="sa-section"><div class="sa-header">8. COMPLETE AGREEMENT</div>
+        <p class="sa-body">This Agreement represents the complete understanding between INMA and the Homeowner(s) and replaces any prior conversations or representations. Changes must be in writing and signed by both parties.</p>
+      </div>
+
+      <!-- SIGNATURE -->
+      <div style="margin-top:24px;">
+        <div class="sig-label">Homeowner Signature</div>
+        <div class="sig-wrap">
+          <canvas id="sigCanvas" height="160"></canvas>
+          <button class="sig-clear" onclick="clearSig()">Clear</button>
+        </div>
+        <div class="sig-hint">Sign with finger or stylus above</div>
+      </div>
+
+      <button class="gen-btn" onclick="generateAgreement()">Send Agreement &amp; Print</button>
     </div>
   </div>
 </div>
@@ -303,26 +353,39 @@ input[type="range"] { width: 100%; accent-color: #B8941F; height: 6px; cursor: p
 <!-- PRINT VIEW -->
 <div id="printView">
   <div class="print-header">
-    <div><div class="print-logo">INMA</div><div style="font-size:0.9rem;color:#5A5450;margin-top:2px;">Inland Northwest Marketing Affiliates — Project Agreement</div></div>
-    <div style="text-align:right;font-size:0.8rem;color:#7A7269;">inmagent.com<br>(509) 251-7792<br>jake@inmagent.com</div>
+    <div><div class="print-logo">INMA</div><div style="font-size:0.75rem;color:#7A7269;letter-spacing:0.06em;">YOUR HOME. YOUR AGENT.</div></div>
+    <div style="font-size:1rem;font-weight:600;color:#1C1A17;">Service Agreement</div>
   </div>
   <div class="print-grid">
-    <div class="print-field"><div class="print-field-label">Homeowner</div><div class="print-field-val" id="p_name"></div></div>
-    <div class="print-field"><div class="print-field-label">Date</div><div class="print-field-val" id="p_date"></div></div>
-    <div class="print-field"><div class="print-field-label">Property Address</div><div class="print-field-val" id="p_address"></div></div>
+    <div class="print-field"><div class="print-field-label">Agreement Date</div><div class="print-field-val" id="p_date"></div></div>
+    <div class="print-field"><div class="print-field-label">Project Type</div><div class="print-field-val" id="p_type"></div></div>
+    <div class="print-field" style="grid-column:1/-1"><div class="print-field-label">Homeowner(s)</div><div class="print-field-val" id="p_name"></div></div>
+    <div class="print-field" style="grid-column:1/-1"><div class="print-field-label">Project Address</div><div class="print-field-val" id="p_address"></div></div>
+    <div class="print-field"><div class="print-field-label">City / State / ZIP</div><div class="print-field-val" id="p_city"></div></div>
     <div class="print-field"><div class="print-field-label">Phone</div><div class="print-field-val" id="p_phone"></div></div>
     <div class="print-field"><div class="print-field-label">Email</div><div class="print-field-val" id="p_email"></div></div>
-    <div class="print-field"><div class="print-field-label">Estimated Start</div><div class="print-field-val" id="p_start"></div></div>
-    <div class="print-field" style="grid-column:1/-1"><div class="print-field-label">Project Amount</div><div class="print-field-val" id="p_amount" style="font-size:1.2rem;font-weight:700;color:#B8941F;"></div></div>
+    <div class="print-field"><div class="print-field-label">Project Amount</div><div class="print-field-val" id="p_amount" style="font-weight:700;color:#B8941F;"></div></div>
   </div>
-  <div style="margin-bottom:24px;">
-    <div class="print-field-label" style="margin-bottom:6px;">Scope of Work</div>
-    <div id="p_scope" style="font-size:0.9rem;line-height:1.7;white-space:pre-wrap;"></div>
+  <div style="margin-bottom:16px;"><div class="print-field-label" style="margin-bottom:4px;">Scope of Work</div><div id="p_scope" style="font-size:0.85rem;line-height:1.65;white-space:pre-wrap;"></div></div>
+  <div style="background:#f5f5f5;border:1px solid #ddd;border-radius:4px;padding:10px 14px;text-align:center;font-size:0.9rem;font-weight:700;margin-bottom:16px;">INMA Service Fee (10%) = <span id="p_fee" style="color:#B8941F;"></span></div>
+
+  <div style="font-size:0.72rem;line-height:1.7;color:#444;margin-bottom:16px;">
+    <div style="background:#222;color:white;padding:5px 8px;font-size:0.65rem;font-weight:700;letter-spacing:0.08em;border-radius:2px;margin-bottom:5px;">1. WHO WE ARE</div>
+    INMA is a homeowner advocacy and coordination service. We work exclusively for homeowners. We are not a contractor, and we do not perform, supervise, or control construction work.
+    <div style="background:#222;color:white;padding:5px 8px;font-size:0.65rem;font-weight:700;letter-spacing:0.08em;border-radius:2px;margin:8px 0 5px;">2. WHAT WE DO FOR YOU</div>
+    Your INMA coordinator brings 25+ years of residential exterior experience in the Spokane market assisting with project scope development, material takeoffs, contractor matching, fair market estimates, and ongoing communication. All construction work is performed by your independently licensed, bonded, and insured contractor.
+    <div style="background:#222;color:white;padding:5px 8px;font-size:0.65rem;font-weight:700;letter-spacing:0.08em;border-radius:2px;margin:8px 0 5px;">3. COMPENSATION — NO ADDED COST TO YOU</div>
+    Our service fee is 10% of your total project cost, deducted dollar-for-dollar from the contractor's price. Paid to INMA at signing. Covers coordination only — not construction.
+    <div style="background:#222;color:white;padding:5px 8px;font-size:0.65rem;font-weight:700;letter-spacing:0.08em;border-radius:2px;margin:8px 0 5px;">4. HOW PAYMENTS WORK</div>
+    INMA Service Fee paid at signing. All construction payments paid directly to your contractor. INMA does not collect, hold, or disburse construction funds at any time.
+    <div style="background:#222;color:white;padding:5px 8px;font-size:0.65rem;font-weight:700;letter-spacing:0.08em;border-radius:2px;margin:8px 0 5px;">5–8. CONTRACTOR / CHANGES / INMA'S ROLE / COMPLETE AGREEMENT</div>
+    Every contractor is personally vetted for licensing, bonding, insurance, and field reputation. Scope changes handled directly between homeowner and contractor with written approval. INMA is not a general contractor or construction manager and does not guarantee contractor workmanship. This Agreement is the complete understanding between parties and replaces prior conversations. Changes must be in writing.
   </div>
-  <div class="print-terms">This agreement authorizes Inland Northwest Marketing Affiliates (INMA) to act as the homeowner's project advocate and to coordinate with licensed, bonded, and insured contractors on the homeowner's behalf. INMA does not perform construction work and does not handle construction funds directly. The homeowner retains the right to approve all contractor selections and final pricing before any work begins. INMA's fee is included within the agreed contract price and is not an additional charge to the homeowner. All contractor work is subject to a separate contractor agreement. This document confirms the homeowner's intent to proceed with the scoped project and authorizes INMA to begin contractor coordination. Either party may cancel within 3 business days of signing without penalty.</div>
+
   <div class="print-sig-section">
     <div class="print-sig-box"><div class="print-sig-line"><img id="p_sig" src="" alt="Signature"></div><div class="print-sig-label">Homeowner Signature</div></div>
     <div class="print-sig-box"><div class="print-sig-line"></div><div class="print-sig-label">Jake Paulson — INMA</div></div>
+    <div class="print-sig-box"><div class="print-sig-line"></div><div class="print-sig-label">Date</div></div>
   </div>
   <div class="print-footer">INMA · Inland Northwest Marketing Affiliates · Spokane, WA · inmagent.com · (509) 251-7792</div>
 </div>
@@ -373,16 +436,54 @@ sigObs.observe(document.getElementById('sigCanvas'));
 
 function clearSig() { if(sigCtx) sigCtx.clearRect(0,0,sigCanvas.width,sigCanvas.height); sigStarted=false; }
 
-function generateAgreement() {
-  if (!document.getElementById('ownerName').value.trim()) { alert('Please enter the homeowner name.'); return; }
+function calcFee() {
+  const amt = parseFloat(document.getElementById('projectAmount').value.replace(/[^0-9.]/g,'')) || 0;
+  const fee = amt * 0.10;
+  document.getElementById('feeDisplay').textContent = fee > 0 ? '$' + fee.toLocaleString('en-US',{minimumFractionDigits:2,maximumFractionDigits:2}) : '—';
+}
+
+async function generateAgreement() {
+  const name = document.getElementById('ownerName').value.trim();
+  const email = document.getElementById('ownerEmail').value.trim();
+  if (!name) { alert('Please enter the homeowner name.'); return; }
   if (!sigStarted) { alert('Please have the homeowner sign above.'); return; }
-  document.getElementById('p_name').textContent = document.getElementById('ownerName').value;
+
+  const amt = parseFloat(document.getElementById('projectAmount').value.replace(/[^0-9.]/g,'')) || 0;
+  const fee = amt > 0 ? '$'+(amt*0.1).toLocaleString('en-US',{minimumFractionDigits:2,maximumFractionDigits:2}) : '—';
+
+  // Send via Formspree — CC homeowner
+  try {
+    await fetch('https://formspree.io/f/xgollken', {
+      method: 'POST',
+      headers: {'Accept':'application/json','Content-Type':'application/json'},
+      body: JSON.stringify({
+        _subject: 'INMA Service Agreement — '+name,
+        _cc: email || '',
+        homeowner: name,
+        date: document.getElementById('agreementDate').value,
+        project_type: document.getElementById('projectType').value,
+        address: document.getElementById('propertyAddress').value,
+        city_state_zip: document.getElementById('cityStateZip').value,
+        phone: document.getElementById('ownerPhone').value,
+        email: email,
+        project_amount: '$'+document.getElementById('projectAmount').value,
+        inma_fee: fee,
+        scope: document.getElementById('scopeText').value,
+        signed: 'Yes — signature captured on iPad'
+      })
+    });
+  } catch(e) {}
+
+  // Fill print view
+  document.getElementById('p_name').textContent = name;
   document.getElementById('p_date').textContent = document.getElementById('agreementDate').value;
+  document.getElementById('p_type').textContent = document.getElementById('projectType').value || '—';
   document.getElementById('p_address').textContent = document.getElementById('propertyAddress').value || '—';
+  document.getElementById('p_city').textContent = document.getElementById('cityStateZip').value || '—';
   document.getElementById('p_phone').textContent = document.getElementById('ownerPhone').value || '—';
-  document.getElementById('p_email').textContent = document.getElementById('ownerEmail').value || '—';
-  document.getElementById('p_amount').textContent = document.getElementById('projectAmount').value || '—';
-  document.getElementById('p_start').textContent = document.getElementById('startDate').value || '—';
+  document.getElementById('p_email').textContent = email || '—';
+  document.getElementById('p_amount').textContent = document.getElementById('projectAmount').value ? '$'+document.getElementById('projectAmount').value : '—';
+  document.getElementById('p_fee').textContent = fee;
   document.getElementById('p_scope').textContent = document.getElementById('scopeText').value || '—';
   document.getElementById('p_sig').src = sigCanvas.toDataURL('image/png');
   window.print();
