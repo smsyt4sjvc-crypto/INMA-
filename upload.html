@@ -141,9 +141,9 @@ body { font-family: 'Outfit', sans-serif; background: #F5F2ED; color: #3A3835; m
 </div>
 
 <script>
-// ── REPLACE THIS WITH YOUR WEB3FORMS ACCESS KEY ──
-// Sign up free at web3forms.com → create a form → copy your Access Key → paste it here
-const WEB3FORMS_KEY = 'b3b85945-716b-40ae-b310-a4b350788362';
+// ── IMGBB API KEY — sign up free at imgbb.com → API → copy key → paste here ──
+const IMGBB_KEY = 'YOUR_IMGBB_KEY_HERE';
+const FORMSPREE = 'https://formspree.io/f/xgollken';
 
 let selectedFile = null;
 
@@ -174,31 +174,43 @@ async function handleSubmit() {
 
   const btn = document.getElementById('submitBtn');
   btn.disabled = true;
+  btn.textContent = 'Uploading...';
+
+  // Upload image to ImgBB first if a file was selected
+  let imageUrl = null;
+  if (selectedFile && IMGBB_KEY !== 'YOUR_IMGBB_KEY_HERE') {
+    try {
+      const imgData = new FormData();
+      imgData.append('image', selectedFile);
+      const imgRes = await fetch('https://api.imgbb.com/1/upload?key=' + IMGBB_KEY, {
+        method: 'POST', body: imgData
+      });
+      const imgJson = await imgRes.json();
+      if (imgJson.success) imageUrl = imgJson.data.url;
+    } catch(e) {}
+  }
+
   btn.textContent = 'Sending...';
 
-  const formData = new FormData();
-  formData.append('access_key', WEB3FORMS_KEY);
-  formData.append('subject', 'Quote Upload — ' + (type || 'Unknown type') + ' — ' + name);
-  formData.append('name', name);
-  formData.append('phone', phone || '—');
-  formData.append('email', email || '—');
-  formData.append('upload_type', type || '—');
-  formData.append('notes', notes || '—');
-  if (selectedFile) formData.append('attachment', selectedFile);
-
+  // Submit to Formspree
   try {
-    const res = await fetch('https://api.web3forms.com/submit', {
+    const res = await fetch(FORMSPREE, {
       method: 'POST',
-      body: formData
+      headers: { 'Accept': 'application/json', 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        _subject: 'Quote Upload — ' + (type || 'Unknown') + ' — ' + name,
+        name, phone: phone||'—', email: email||'—',
+        upload_type: type||'—',
+        image_url: imageUrl || '(no image uploaded)',
+        notes: notes||'—'
+      })
     });
     const data = await res.json();
-    if (data.success) {
+    if (data.ok || res.ok) {
       document.getElementById('uploadForm').style.display = 'none';
       document.getElementById('successScreen').classList.add('visible');
     } else {
-      alert('Something went wrong. Please text Jake directly at (509) 251-7792.');
-      btn.disabled = false;
-      btn.textContent = 'Submit Quote for Review →';
+      throw new Error('failed');
     }
   } catch(e) {
     alert('Something went wrong. Please text Jake directly at (509) 251-7792.');
