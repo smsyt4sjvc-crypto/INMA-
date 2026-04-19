@@ -5,6 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 <link rel="apple-touch-icon" href="/IMG_6892.jpeg">
 <link rel="icon" type="image/jpeg" href="/IMG_6892.jpeg">
+<link rel="manifest" href="/consult-manifest.json">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="INMA Consult">
+<meta name="theme-color" content="#1C1A17">
 <title>INMA — Consultation Tool</title>
 <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
@@ -48,14 +53,7 @@ input[type="range"] { width: 100%; accent-color: #B8941F; height: 6px; cursor: p
 
 /* REBATES */
 .rebate-section { margin-top: 28px; }
-.rebate-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin-top: 14px; }
-.rebate-item { display: flex; align-items: center; gap: 12px; background: white; border: 1px solid #E0DDD8; border-radius: 10px; padding: 12px 14px; cursor: pointer; }
-.rebate-item input[type="checkbox"] { width: 18px; height: 18px; accent-color: #B8941F; flex-shrink: 0; }
-.rebate-name { font-size: 0.85rem; font-weight: 500; color: #3A3835; }
-.rebate-val { font-size: 0.78rem; color: #B8941F; font-weight: 600; }
-.rebate-total-row { margin-top: 14px; background: #FDF8EE; border: 1.5px solid rgba(184,148,31,0.3); border-radius: 10px; padding: 14px 18px; display: flex; justify-content: space-between; align-items: center; }
-.rebate-total-label { font-size: 0.85rem; color: #5A5450; font-weight: 500; }
-.rebate-total-val { font-size: 1.2rem; font-weight: 700; color: #B8941F; }
+.avista-rebate-btn { display: block; margin-top: 14px; background: #1C1A17; color: #B8941F; border: 1.5px solid rgba(184,148,31,0.4); border-radius: 10px; padding: 16px 20px; font-family: 'Outfit', sans-serif; font-size: 0.95rem; font-weight: 600; text-decoration: none; text-align: center; }
 
 /* FORM */
 .field-group { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-bottom: 14px; }
@@ -165,37 +163,8 @@ input[type="range"] { width: 100%; accent-color: #B8941F; height: 6px; cursor: p
   <!-- REBATES -->
   <div class="rebate-section">
     <div class="section-title">Avista Rebates</div>
-    <div class="section-sub">Check applicable upgrades — reduces the financed amount</div>
-    <div class="rebate-grid">
-      <label class="rebate-item">
-        <input type="checkbox" value="300" onchange="updateRebates()">
-        <div><div class="rebate-name">Air Sealing</div><div class="rebate-val">up to $300</div></div>
-      </label>
-      <label class="rebate-item">
-        <input type="checkbox" value="500" onchange="updateRebates()">
-        <div><div class="rebate-name">Insulation</div><div class="rebate-val">up to $500</div></div>
-      </label>
-      <label class="rebate-item">
-        <input type="checkbox" value="75" onchange="updateRebates()">
-        <div><div class="rebate-name">Smart Thermostat</div><div class="rebate-val">$75</div></div>
-      </label>
-      <label class="rebate-item">
-        <input type="checkbox" value="800" onchange="updateRebates()">
-        <div><div class="rebate-name">Heat Pump</div><div class="rebate-val">up to $800</div></div>
-      </label>
-      <label class="rebate-item">
-        <input type="checkbox" value="500" onchange="updateRebates()">
-        <div><div class="rebate-name">Heat Pump Water Heater</div><div class="rebate-val">up to $500</div></div>
-      </label>
-      <label class="rebate-item">
-        <input type="checkbox" value="200" onchange="updateRebates()">
-        <div><div class="rebate-name">Windows / Doors</div><div class="rebate-val">up to $200</div></div>
-      </label>
-    </div>
-    <div class="rebate-total-row">
-      <span class="rebate-total-label">Total Estimated Rebates</span>
-      <span class="rebate-total-val" id="rebateTotal">$0</span>
-    </div>
+    <div class="section-sub">Rebates vary by u-factor, sq footage, and installer — look up current amounts on Avista's site.</div>
+    <a href="https://www.myavista.com/energy-savings/rebates-incentives" target="_blank" class="avista-rebate-btn">View Current Avista Rebates ↗</a>
   </div>
 </div>
 
@@ -395,6 +364,10 @@ function generateAgreement() {
   document.getElementById('p_sig').src = sigCanvas.toDataURL('image/png');
 
   window.print();
+}
+
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/consult-sw.js');
 }
 </script>
 </body>
