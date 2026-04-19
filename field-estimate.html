@@ -233,9 +233,21 @@ body { font-family: 'Outfit', sans-serif; background: #F5F2ED; color: #3A3835; m
       <span class="totals-label">INMA Fee (10%) — pre-tax</span>
       <span class="totals-val" id="t-inma">−$0.00</span>
     </div>
-    <div class="totals-row grand">
+    <div class="totals-row">
       <span class="totals-label">Remaining to Contractor</span>
       <span class="totals-val" id="t-contractor">$0.00</span>
+    </div>
+    <div class="totals-row" style="align-items:center;">
+      <span class="totals-label" style="display:flex;align-items:center;gap:8px;">
+        Sales Tax
+        <input type="number" id="tax-rate" min="0" max="20" step="0.1" placeholder="%" oninput="calc()" style="width:62px;border:1.5px solid #D6D0C6;border-radius:6px;padding:4px 8px;font-family:'Outfit',sans-serif;font-size:0.85rem;color:#1C1A17;outline:none;">
+        <span style="font-size:0.78rem;color:#A09890;">%</span>
+      </span>
+      <span class="totals-val" id="t-tax">$—</span>
+    </div>
+    <div class="totals-row grand">
+      <span class="totals-label">Total to Homeowner</span>
+      <span class="totals-val" id="t-grand">$0.00</span>
     </div>
     <div class="totals-row jake">
       <span class="totals-label">Jake Keeps</span>
@@ -408,9 +420,14 @@ function calc() {
   }
   const inmaFee = sub * INMA_FEE;
   const contractor = sub - inmaFee;
+  const taxPct = parseFloat(document.getElementById('tax-rate')?.value) || 0;
+  const tax = taxPct > 0 ? contractor * (taxPct / 100) : null;
+  const grand = contractor + (tax || 0);
   document.getElementById('t-subtotal').textContent = fmt(sub);
   document.getElementById('t-inma').textContent = '−' + fmt(inmaFee);
   document.getElementById('t-contractor').textContent = fmt(contractor);
+  document.getElementById('t-tax').textContent = tax !== null ? fmt(tax) : '$—';
+  document.getElementById('t-grand').textContent = fmt(grand);
   document.getElementById('t-jake').textContent = fmt(inmaFee);
 }
 
@@ -457,6 +474,8 @@ async function emailEstimate() {
         subtotal: document.getElementById('t-subtotal').textContent,
         inma_fee: document.getElementById('t-inma').textContent,
         remaining_to_contractor: document.getElementById('t-contractor').textContent,
+        sales_tax: document.getElementById('t-tax').textContent,
+        total_to_homeowner: document.getElementById('t-grand').textContent,
         jake_keeps: document.getElementById('t-jake').textContent,
         notes: document.getElementById('scope-notes').value || '—'
       })
