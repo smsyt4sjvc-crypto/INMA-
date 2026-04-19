@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="apple-touch-icon" href="/IMG_6892.jpeg">
+<link rel="icon" type="image/jpeg" href="/IMG_6892.jpeg">
+<title>Field Estimator — INMA</title>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'Outfit', sans-serif; background: #F5F2ED; color: #3A3835; min-height: 100vh; }
+
+.header { background: #1C1A17; padding: 16px 24px; display: flex; align-items: center; gap: 14px; }
+.header-logo { color: #B8941F; font-size: 1.2rem; font-weight: 700; letter-spacing: 0.08em; }
+.header-back { color: rgba(245,242,237,0.5); font-size: 0.82rem; text-decoration: none; margin-right: auto; }
+.header-back:hover { color: #B8941F; }
+
+.hero { background: #1C1A17; padding: 24px 20px 28px; border-bottom: 1px solid rgba(184,148,31,0.2); }
+.hero-eyebrow { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #B8941F; margin-bottom: 6px; }
+.hero-title { font-size: 1.4rem; font-weight: 700; color: #F5F2ED; }
+
+.wrap { max-width: 600px; margin: 0 auto; padding: 20px 16px 80px; }
+
+.card { background: white; border-radius: 14px; padding: 20px; margin-bottom: 16px; border: 1px solid #E8E3DA; }
+.card-title { font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; color: #B8941F; margin-bottom: 16px; padding-bottom: 10px; border-bottom: 1px solid #F0EDE8; }
+
+.row { display: grid; gap: 10px; margin-bottom: 10px; }
+.row-2 { grid-template-columns: 1fr 1fr; }
+.row-3 { grid-template-columns: 2fr 1fr 1fr; }
+.field-wrap label { display: block; font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: #7A7269; margin-bottom: 4px; }
+.field-wrap input, .field-wrap textarea {
+  width: 100%; border: 1.5px solid #D6D0C6; border-radius: 8px;
+  padding: 10px 12px; font-family: 'Outfit', sans-serif; font-size: 0.92rem;
+  color: #1C1A17; background: white; outline: none; transition: border-color 0.2s;
+}
+.field-wrap input:focus, .field-wrap textarea:focus { border-color: #B8941F; }
+.field-wrap input[type="number"] { text-align: right; }
+.field-wrap textarea { resize: vertical; min-height: 70px; }
+.field-label-static { font-size: 0.82rem; color: #7A7269; padding: 10px 0; }
+
+.photo-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-bottom: 12px; }
+.photo-thumb { aspect-ratio: 1; border-radius: 8px; overflow: hidden; position: relative; background: #F0EDE8; }
+.photo-thumb img { width: 100%; height: 100%; object-fit: cover; }
+.photo-thumb .remove-photo { position: absolute; top: 4px; right: 4px; background: rgba(0,0,0,0.6); border: none; color: white; border-radius: 50%; width: 22px; height: 22px; font-size: 0.7rem; cursor: pointer; display: flex; align-items: center; justify-content: center; }
+.add-photo-btn { aspect-ratio: 1; border-radius: 8px; border: 2px dashed #C8C2B8; background: white; display: flex; flex-direction: column; align-items: center; justify-content: center; cursor: pointer; font-size: 1.6rem; color: #A09890; transition: all 0.2s; }
+.add-photo-btn:hover { border-color: #B8941F; background: #FDF8EE; }
+.add-photo-btn span.sub { font-size: 0.7rem; margin-top: 4px; }
+
+.ai-btn { width: 100%; background: #1C1A17; color: #B8941F; border: 2px solid #B8941F; border-radius: 10px; padding: 14px; font-family: 'Outfit', sans-serif; font-size: 0.95rem; font-weight: 700; cursor: pointer; transition: all 0.2s; margin-bottom: 6px; }
+.ai-btn:hover:not(:disabled) { background: #B8941F; color: white; }
+.ai-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+.ai-note { font-size: 0.72rem; color: #A09890; text-align: center; }
+
+.add-line-btn { width: 100%; background: none; border: 1.5px dashed #C8C2B8; border-radius: 8px; padding: 10px; font-family: 'Outfit', sans-serif; font-size: 0.82rem; color: #7A7269; cursor: pointer; transition: all 0.2s; margin-top: 4px; }
+.add-line-btn:hover { border-color: #B8941F; color: #B8941F; }
+
+.remove-btn { background: none; border: none; color: #C8C2B8; cursor: pointer; font-size: 1.1rem; padding: 8px; align-self: end; }
+.remove-btn:hover { color: #e05555; }
+
+.totals-row { display: flex; justify-content: space-between; align-items: center; padding: 8px 0; font-size: 0.9rem; }
+.totals-row.sub { border-top: 1px solid #E8E3DA; margin-top: 4px; padding-top: 12px; }
+.totals-row.inma { color: #B8941F; }
+.totals-row.grand { border-top: 2px solid #1C1A17; margin-top: 4px; padding-top: 12px; font-size: 1.05rem; font-weight: 700; }
+.totals-row.jake { margin-top: 8px; padding-top: 8px; border-top: 1px dashed #E8E3DA; color: #B8941F; font-weight: 600; }
+.totals-label { font-weight: 500; }
+.totals-val { font-weight: 600; }
+
+.action-btn { width: 100%; border: none; border-radius: 10px; padding: 16px; font-family: 'Outfit', sans-serif; font-size: 1rem; font-weight: 700; cursor: pointer; margin-bottom: 10px; transition: background 0.2s; }
+.action-primary { background: #B8941F; color: white; }
+.action-primary:hover { background: #9A7C1A; }
+.action-secondary { background: white; color: #1C1A17; border: 1.5px solid #D6D0C6; }
+.action-secondary:hover { border-color: #B8941F; }
+
+.prefilled { border-color: #B8941F !important; background: #FEFBF0 !important; }
+
+@media print {
+  .header, .hero, .ai-section, .add-line-btn, .remove-btn, .remove-photo, .action-btn, .ai-btn, .photo-grid { display: none !important; }
+  .card { border: 1px solid #ccc; page-break-inside: avoid; }
+  body { background: white; }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <a href="/" class="header-back">← inmagent.com</a>
+  <div class="header-logo">INMA</div>
+</div>
+
+<div class="hero">
+  <div class="hero-eyebrow">Field Tool</div>
+  <div class="hero-title">Job Estimator</div>
+</div>
+
+<div class="wrap">
+
+  <!-- JOB INFO -->
+  <div class="card">
+    <div class="card-title">Job Info</div>
+    <div class="row">
+      <div class="field-wrap">
+        <label>Homeowner Name</label>
+        <input type="text" id="owner-name" placeholder="Last, First">
+      </div>
+    </div>
+    <div class="row">
+      <div class="field-wrap">
+        <label>Property Address</label>
+        <input type="text" id="owner-addr" placeholder="123 Main St, Spokane Valley">
+      </div>
+    </div>
+    <div class="row row-2">
+      <div class="field-wrap">
+        <label>Date</label>
+        <input type="date" id="est-date">
+      </div>
+      <div class="field-wrap">
+        <label>Estimate #</label>
+        <input type="text" id="est-num" placeholder="001">
+      </div>
+    </div>
+  </div>
+
+  <!-- PHOTOS + AI -->
+  <div class="card ai-section">
+    <div class="card-title">Photos & Notes → AI Prefill</div>
+    <div class="photo-grid" id="photoGrid">
+      <label class="add-photo-btn">
+        <span>📷</span>
+        <span class="sub">Add Photo</span>
+        <input type="file" accept="image/*" multiple style="display:none" onchange="handlePhotos(this)">
+      </label>
+    </div>
+    <div class="field-wrap" style="margin-bottom:12px;">
+      <label>Notes (scope, conditions, measurements)</label>
+      <textarea id="scope-notes" placeholder="e.g. Full Hardie re-side, ~1400 SF. 8 windows, mix of sizes. Front porch soffit and fascia. Wagon wheel in gable needs wrapping..."></textarea>
+    </div>
+    <button class="ai-btn" id="aiBtn" onclick="runAI()">✦ Analyze with AI — Prefill Estimate</button>
+    <div class="ai-note">AI reads your photos + notes and fills in quantities at FMV rates. Edit anything after.</div>
+  </div>
+
+  <!-- SIDING -->
+  <div class="card">
+    <div class="card-title">Siding</div>
+    <div class="row row-3">
+      <div class="field-wrap"><span class="field-label-static">Primed Hardie B&B</span></div>
+      <div class="field-wrap"><label>SF</label><input type="number" id="primed_hardie_qty" value="0" min="0" oninput="calc()"></div>
+      <div class="field-wrap"><label>$/SF</label><input type="number" id="primed_hardie_rate" value="12.50" min="0" step="0.25" oninput="calc()"></div>
+    </div>
+    <div class="row row-3">
+      <div class="field-wrap"><span class="field-label-static">ColorPlus Hardie</span></div>
+      <div class="field-wrap"><label>SF</label><input type="number" id="colorplus_qty" value="0" min="0" oninput="calc()"></div>
+      <div class="field-wrap"><label>$/SF</label><input type="number" id="colorplus_rate" value="19.00" min="0" step="0.25" oninput="calc()"></div>
+    </div>
+    <div class="row row-3">
+      <div class="field-wrap"><span class="field-label-static">Lap Siding — Gables</span></div>
+      <div class="field-wrap"><label>SF</label><input type="number" id="lap_qty" value="0" min="0" oninput="calc()"></div>
+      <div class="field-wrap"><label>$/SF</label><input type="number" id="lap_rate" value="12.50" min="0" step="0.25" oninput="calc()"></div>
+    </div>
+    <div class="row row-3">
+      <div class="field-wrap"><span class="field-label-static">Aluminum Soffit</span></div>
+      <div class="field-wrap"><label>LF</label><input type="number" id="soffit_qty" value="0" min="0" oninput="calc()"></div>
+      <div class="field-wrap"><label>$/LF</label><input type="number" id="soffit_rate" value="13.00" min="0" step="0.25" oninput="calc()"></div>
+    </div>
+    <div class="row row-3">
+      <div class="field-wrap"><span class="field-label-static">Aluminum Fascia</span></div>
+      <div class="field-wrap"><label>LF</label><input type="number" id="fascia_qty" value="0" min="0" oninput="calc()"></div>
+      <div class="field-wrap"><label>$/LF</label><input type="number" id="fascia_rate" value="8.50" min="0" step="0.25" oninput="calc()"></div>
+    </div>
+    <div class="row row-3">
+      <div class="field-wrap"><span class="field-label-static">Post / Beam Wrap</span></div>
+      <div class="field-wrap"><label>LF</label><input type="number" id="wrap_qty" value="0" min="0" oninput="calc()"></div>
+      <div class="field-wrap"><label>$/LF</label><input type="number" id="wrap_rate" value="12.00" min="0" step="0.25" oninput="calc()"></div>
+    </div>
+    <div class="row row-3">
+      <div class="field-wrap"><span class="field-label-static">Tearoff / Dump / Cleanup</span></div>
+      <div class="field-wrap"><label>SF</label><input type="number" id="tearoff_qty" value="0" min="0" oninput="calc()"></div>
+      <div class="field-wrap"><label>$/SF</label><input type="number" id="tearoff_rate" value="1.50" min="0" step="0.25" oninput="calc()"></div>
+    </div>
+  </div>
+
+  <!-- WINDOWS -->
+  <div class="card">
+    <div class="card-title">Windows</div>
+    <div class="row row-3">
+      <div class="field-wrap"><span class="field-label-static">Small — ≤ 20 SF</span></div>
+      <div class="field-wrap"><label>Qty</label><input type="number" id="win_sm_qty" value="0" min="0" oninput="calc()"></div>
+      <div class="field-wrap"><label>$/ea</label><input type="number" id="win_sm_rate" value="425" min="0" step="25" oninput="calc()"></div>
+    </div>
+    <div class="row row-3">
+      <div class="field-wrap"><span class="field-label-static">Medium — 21–40 SF</span></div>
+      <div class="field-wrap"><label>Qty</label><input type="number" id="win_md_qty" value="0" min="0" oninput="calc()"></div>
+      <div class="field-wrap"><label>$/ea</label><input type="number" id="win_md_rate" value="900" min="0" step="25" oninput="calc()"></div>
+    </div>
+    <div class="row row-3">
+      <div class="field-wrap"><span class="field-label-static">Large — &gt; 40 SF</span></div>
+      <div class="field-wrap"><label>Qty</label><input type="number" id="win_lg_qty" value="0" min="0" oninput="calc()"></div>
+      <div class="field-wrap"><label>$/ea</label><input type="number" id="win_lg_rate" value="1200" min="0" step="25" oninput="calc()"></div>
+    </div>
+  </div>
+
+  <!-- TRIM -->
+  <div class="card">
+    <div class="card-title">Trim</div>
+    <div class="row row-3">
+      <div class="field-wrap"><span class="field-label-static">Interior Trim</span></div>
+      <div class="field-wrap"><label>LF</label><input type="number" id="trim_int_qty" value="0" min="0" oninput="calc()"></div>
+      <div class="field-wrap"><label>$/LF</label><input type="number" id="trim_int_rate" value="4.00" min="0" step="0.25" oninput="calc()"></div>
+    </div>
+    <div class="row row-3">
+      <div class="field-wrap"><span class="field-label-static">Exterior Trim / Belly Band</span></div>
+      <div class="field-wrap"><label>LF</label><input type="number" id="trim_ext_qty" value="0" min="0" oninput="calc()"></div>
+      <div class="field-wrap"><label>$/LF</label><input type="number" id="trim_ext_rate" value="5.00" min="0" step="0.25" oninput="calc()"></div>
+    </div>
+  </div>
+
+  <!-- CUSTOM LINES -->
+  <div class="card">
+    <div class="card-title">Custom Line Items</div>
+    <div id="custom-lines"></div>
+    <button class="add-line-btn" onclick="addCustomLine()">+ Add Custom Line Item</button>
+  </div>
+
+  <!-- TOTALS -->
+  <div class="card">
+    <div class="card-title">Totals</div>
+    <div class="totals-row sub">
+      <span class="totals-label">Project Subtotal</span>
+      <span class="totals-val" id="t-subtotal">$0.00</span>
+    </div>
+    <div class="totals-row inma">
+      <span class="totals-label">INMA Fee (10%) — pre-tax</span>
+      <span class="totals-val" id="t-inma">−$0.00</span>
+    </div>
+    <div class="totals-row grand">
+      <span class="totals-label">Remaining to Contractor</span>
+      <span class="totals-val" id="t-contractor">$0.00</span>
+    </div>
+    <div class="totals-row jake">
+      <span class="totals-label">Jake Keeps</span>
+      <span class="totals-val" id="t-jake">$0.00</span>
+    </div>
+  </div>
+
+  <button class="action-btn action-primary" id="emailBtn" onclick="emailEstimate()">📧 Email Estimate to Jake</button>
+  <button class="action-btn action-secondary" onclick="window.print()">🖨 Print / Save PDF</button>
+
+</div>
+
+<script>
+const FORMSPREE = 'https://formspree.io/f/xgollken';
+const ANALYZE_URL = 'https://inma-five.vercel.app/api/generate-estimate';
+const INMA_FEE = 0.10;
+
+let photos = [];
+let customLineCount = 0;
+
+document.getElementById('est-date').value = new Date().toISOString().split('T')[0];
+
+// ── PHOTOS ──
+function handlePhotos(input) {
+  Array.from(input.files).forEach(file => {
+    if (photos.length >= 8) return;
+    photos.push({ file, url: URL.createObjectURL(file) });
+  });
+  input.value = '';
+  renderPhotos();
+}
+
+function renderPhotos() {
+  const grid = document.getElementById('photoGrid');
+  grid.innerHTML = '';
+  photos.forEach((p, i) => {
+    const div = document.createElement('div');
+    div.className = 'photo-thumb';
+    div.innerHTML = `<img src="${p.url}"><button class="remove-photo" onclick="removePhoto(${i})">✕</button>`;
+    grid.appendChild(div);
+  });
+  if (photos.length < 8) {
+    const label = document.createElement('label');
+    label.className = 'add-photo-btn';
+    label.innerHTML = `<span>📷</span><span class="sub">Add Photo</span><input type="file" accept="image/*" multiple style="display:none" onchange="handlePhotos(this)">`;
+    grid.appendChild(label);
+  }
+}
+
+function removePhoto(i) {
+  photos.splice(i, 1);
+  renderPhotos();
+}
+
+// ── AI ──
+function fileToBase64(file) {
+  return new Promise((resolve, reject) => {
+    const reader = new FileReader();
+    reader.onload = () => resolve(reader.result.split(',')[1]);
+    reader.onerror = reject;
+    reader.readAsDataURL(file);
+  });
+}
+
+async function runAI() {
+  const notes = document.getElementById('scope-notes').value.trim();
+  if (photos.length === 0 && !notes) {
+    alert('Add at least one photo or some notes first.');
+    return;
+  }
+  const btn = document.getElementById('aiBtn');
+  btn.disabled = true;
+  btn.textContent = '✦ Reading with AI...';
+  try {
+    const images = await Promise.all(photos.map(async p => ({
+      base64: await fileToBase64(p.file),
+      mediaType: p.file.type || 'image/jpeg'
+    })));
+    const res = await fetch(ANALYZE_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ images, notes })
+    });
+    const data = await res.json();
+    if (data.estimate) prefillEstimate(data.estimate);
+    else throw new Error('no estimate');
+  } catch(e) {
+    alert('AI prefill failed — fill in manually or try again.');
+  }
+  btn.disabled = false;
+  btn.textContent = '✦ Re-analyze with AI';
+}
+
+function prefillEstimate(est) {
+  const set = (id, val) => {
+    const el = document.getElementById(id);
+    if (el && val > 0) { el.value = val; el.classList.add('prefilled'); }
+  };
+  set('primed_hardie_qty', est.siding?.primed_hardie_qty);
+  set('primed_hardie_rate', est.siding?.primed_hardie_rate);
+  set('colorplus_qty', est.siding?.colorplus_qty);
+  set('colorplus_rate', est.siding?.colorplus_rate);
+  set('lap_qty', est.siding?.lap_qty);
+  set('lap_rate', est.siding?.lap_rate);
+  set('soffit_qty', est.siding?.soffit_qty);
+  set('soffit_rate', est.siding?.soffit_rate);
+  set('fascia_qty', est.siding?.fascia_qty);
+  set('fascia_rate', est.siding?.fascia_rate);
+  set('wrap_qty', est.siding?.wrap_qty);
+  set('wrap_rate', est.siding?.wrap_rate);
+  set('tearoff_qty', est.siding?.tearoff_qty);
+  set('tearoff_rate', est.siding?.tearoff_rate);
+  set('win_sm_qty', est.windows?.small_qty);
+  set('win_sm_rate', est.windows?.small_rate);
+  set('win_md_qty', est.windows?.medium_qty);
+  set('win_md_rate', est.windows?.medium_rate);
+  set('win_lg_qty', est.windows?.large_qty);
+  set('win_lg_rate', est.windows?.large_rate);
+  set('trim_int_qty', est.trim?.interior_qty);
+  set('trim_int_rate', est.trim?.interior_rate);
+  set('trim_ext_qty', est.trim?.exterior_qty);
+  set('trim_ext_rate', est.trim?.exterior_rate);
+  if (est.ai_notes) {
+    const n = document.getElementById('scope-notes');
+    n.value = (n.value ? n.value + '\n\nAI: ' : 'AI: ') + est.ai_notes;
+  }
+  calc();
+}
+
+// ── CUSTOM LINES ──
+function addCustomLine(name='', qty=0, rate=0) {
+  const id = ++customLineCount;
+  const div = document.createElement('div');
+  div.id = `custom-${id}`;
+  div.style.cssText = 'display:grid;grid-template-columns:1fr 80px 90px auto;gap:8px;align-items:end;margin-bottom:10px;';
+  div.innerHTML = `
+    <div class="field-wrap"><label>Description</label><input type="text" id="cl-name-${id}" value="${name}" placeholder="Custom line item" oninput="calc()"></div>
+    <div class="field-wrap"><label>Qty</label><input type="number" id="cl-qty-${id}" value="${qty}" min="0" oninput="calc()"></div>
+    <div class="field-wrap"><label>$/unit</label><input type="number" id="cl-rate-${id}" value="${rate}" min="0" step="0.25" oninput="calc()"></div>
+    <button class="remove-btn" onclick="removeCustomLine(${id})">✕</button>`;
+  document.getElementById('custom-lines').appendChild(div);
+  calc();
+}
+
+function removeCustomLine(id) {
+  document.getElementById(`custom-${id}`).remove();
+  calc();
+}
+
+// ── CALC ──
+function v(id) { return parseFloat(document.getElementById(id)?.value) || 0; }
+function fmt(n) { return '$' + n.toFixed(2).replace(/\B(?=(\d{3})+(?!\d))/g, ','); }
+
+function calc() {
+  let sub = 0;
+  sub += v('primed_hardie_qty') * v('primed_hardie_rate');
+  sub += v('colorplus_qty') * v('colorplus_rate');
+  sub += v('lap_qty') * v('lap_rate');
+  sub += v('soffit_qty') * v('soffit_rate');
+  sub += v('fascia_qty') * v('fascia_rate');
+  sub += v('wrap_qty') * v('wrap_rate');
+  sub += v('tearoff_qty') * v('tearoff_rate');
+  sub += v('win_sm_qty') * v('win_sm_rate');
+  sub += v('win_md_qty') * v('win_md_rate');
+  sub += v('win_lg_qty') * v('win_lg_rate');
+  sub += v('trim_int_qty') * v('trim_int_rate');
+  sub += v('trim_ext_qty') * v('trim_ext_rate');
+  for (let i = 1; i <= customLineCount; i++) {
+    if (document.getElementById(`custom-${i}`)) sub += v(`cl-qty-${i}`) * v(`cl-rate-${i}`);
+  }
+  const inmaFee = sub * INMA_FEE;
+  const contractor = sub - inmaFee;
+  document.getElementById('t-subtotal').textContent = fmt(sub);
+  document.getElementById('t-inma').textContent = '−' + fmt(inmaFee);
+  document.getElementById('t-contractor').textContent = fmt(contractor);
+  document.getElementById('t-jake').textContent = fmt(inmaFee);
+}
+
+// ── EMAIL ──
+async function emailEstimate() {
+  const lines = [];
+  const addLine = (label, qtyId, rateId, unit) => {
+    const qty = v(qtyId), rate = v(rateId);
+    if (qty > 0) lines.push(`${label}: ${qty} ${unit} @ $${rate} = ${fmt(qty * rate)}`);
+  };
+  addLine('Primed Hardie B&B', 'primed_hardie_qty', 'primed_hardie_rate', 'SF');
+  addLine('ColorPlus Hardie', 'colorplus_qty', 'colorplus_rate', 'SF');
+  addLine('Lap Siding (Gables)', 'lap_qty', 'lap_rate', 'SF');
+  addLine('Soffit', 'soffit_qty', 'soffit_rate', 'LF');
+  addLine('Fascia', 'fascia_qty', 'fascia_rate', 'LF');
+  addLine('Post/Beam Wrap', 'wrap_qty', 'wrap_rate', 'LF');
+  addLine('Tearoff/Cleanup', 'tearoff_qty', 'tearoff_rate', 'SF');
+  addLine('Window — Small', 'win_sm_qty', 'win_sm_rate', 'ea');
+  addLine('Window — Medium', 'win_md_qty', 'win_md_rate', 'ea');
+  addLine('Window — Large', 'win_lg_qty', 'win_lg_rate', 'ea');
+  addLine('Interior Trim', 'trim_int_qty', 'trim_int_rate', 'LF');
+  addLine('Exterior Trim', 'trim_ext_qty', 'trim_ext_rate', 'LF');
+  for (let i = 1; i <= customLineCount; i++) {
+    if (document.getElementById(`custom-${i}`)) {
+      const name = document.getElementById(`cl-name-${i}`)?.value || 'Custom';
+      const qty = v(`cl-qty-${i}`), rate = v(`cl-rate-${i}`);
+      if (qty > 0) lines.push(`${name}: ${qty} @ $${rate} = ${fmt(qty * rate)}`);
+    }
+  }
+
+  const btn = document.getElementById('emailBtn');
+  btn.disabled = true;
+  btn.textContent = 'Sending...';
+  try {
+    const res = await fetch(FORMSPREE, {
+      method: 'POST',
+      headers: { 'Accept': 'application/json', 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        _subject: `INMA Estimate — ${document.getElementById('owner-name').value || 'Unknown'} — ${document.getElementById('owner-addr').value || ''}`,
+        homeowner: document.getElementById('owner-name').value || '—',
+        address: document.getElementById('owner-addr').value || '—',
+        date: document.getElementById('est-date').value,
+        line_items: lines.join('\n') || '(no line items)',
+        subtotal: document.getElementById('t-subtotal').textContent,
+        inma_fee: document.getElementById('t-inma').textContent,
+        remaining_to_contractor: document.getElementById('t-contractor').textContent,
+        jake_keeps: document.getElementById('t-jake').textContent,
+        notes: document.getElementById('scope-notes').value || '—'
+      })
+    });
+    const data = await res.json();
+    if (data.ok || res.ok) {
+      btn.textContent = '✓ Sent';
+      setTimeout(() => { btn.disabled = false; btn.textContent = '📧 Email Estimate to Jake'; }, 3000);
+    } else throw new Error();
+  } catch(e) {
+    alert('Email failed — try again or print to PDF.');
+    btn.disabled = false;
+    btn.textContent = '📧 Email Estimate to Jake';
+  }
+}
+
+calc();
+</script>
+</body>
+</html>
