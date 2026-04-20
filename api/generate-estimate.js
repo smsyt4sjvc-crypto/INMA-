@@ -37,7 +37,6 @@ Based on the photos and notes, estimate quantities for this project. Use these F
 SIDING:
 - Primed Hardie B&B: $12.50/SF
 - ColorPlus Hardie: $19.00/SF
-- Hardie Lap (gables): $12.50/SF
 - Aluminum Soffit: $13.00/LF
 - Aluminum Fascia: $8.50/LF
 - Post/Beam Wrap: $12.00/LF
@@ -60,7 +59,6 @@ Respond ONLY with valid JSON, no other text:
   "siding": {
     "primed_hardie_qty": 0, "primed_hardie_rate": 12.50,
     "colorplus_qty": 0, "colorplus_rate": 19.00,
-    "lap_qty": 0, "lap_rate": 12.50,
     "soffit_qty": 0, "soffit_rate": 13.00,
     "fascia_qty": 0, "fascia_rate": 8.50,
     "wrap_qty": 0, "wrap_rate": 12.00,
