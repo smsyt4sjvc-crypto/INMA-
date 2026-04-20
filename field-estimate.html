@@ -2,497 +2,671 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="apple-touch-icon" href="/IMG_6892.jpeg">
-<link rel="icon" type="image/jpeg" href="/IMG_6892.jpeg">
-<title>Field Estimator — INMA</title>
-<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="theme-color" content="#1C1A17">
+<title>INMA Field Estimator</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
-* { margin: 0; padding: 0; box-sizing: border-box; }
-body { font-family: 'Outfit', sans-serif; background: #F5F2ED; color: #3A3835; min-height: 100vh; }
-
-.header { background: #1C1A17; padding: 16px 24px; display: flex; align-items: center; gap: 14px; }
-.header-logo { color: #B8941F; font-size: 1.2rem; font-weight: 700; letter-spacing: 0.08em; }
-.header-back { color: rgba(245,242,237,0.5); font-size: 0.82rem; text-decoration: none; margin-right: auto; }
-.header-back:hover { color: #B8941F; }
-
-.hero { background: #1C1A17; padding: 24px 20px 28px; border-bottom: 1px solid rgba(184,148,31,0.2); }
-.hero-eyebrow { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #B8941F; margin-bottom: 6px; }
-.hero-title { font-size: 1.4rem; font-weight: 700; color: #F5F2ED; }
-
-.wrap { max-width: 600px; margin: 0 auto; padding: 20px 16px 80px; }
-
-.card { background: white; border-radius: 14px; padding: 20px; margin-bottom: 16px; border: 1px solid #E8E3DA; }
-.card-title { font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; color: #B8941F; margin-bottom: 16px; padding-bottom: 10px; border-bottom: 1px solid #F0EDE8; }
-
-.row { display: grid; gap: 10px; margin-bottom: 10px; }
-.row-2 { grid-template-columns: 1fr 1fr; }
-.row-3 { grid-template-columns: 2fr 1fr 1fr; }
-.field-wrap label { display: block; font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: #7A7269; margin-bottom: 4px; }
-.field-wrap input, .field-wrap textarea {
-  width: 100%; border: 1.5px solid #D6D0C6; border-radius: 8px;
-  padding: 10px 12px; font-family: 'Outfit', sans-serif; font-size: 0.92rem;
-  color: #1C1A17; background: white; outline: none; transition: border-color 0.2s;
-}
-.field-wrap input:focus, .field-wrap textarea:focus { border-color: #B8941F; }
-.field-wrap input[type="number"] { text-align: right; }
-.field-wrap textarea { resize: vertical; min-height: 70px; }
-.field-label-static { font-size: 0.82rem; color: #7A7269; padding: 10px 0; }
-
-.photo-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-bottom: 12px; }
-.photo-thumb { aspect-ratio: 1; border-radius: 8px; overflow: hidden; position: relative; background: #F0EDE8; }
-.photo-thumb img { width: 100%; height: 100%; object-fit: cover; }
-.photo-thumb .remove-photo { position: absolute; top: 4px; right: 4px; background: rgba(0,0,0,0.6); border: none; color: white; border-radius: 50%; width: 22px; height: 22px; font-size: 0.7rem; cursor: pointer; display: flex; align-items: center; justify-content: center; }
-.add-photo-btn { aspect-ratio: 1; border-radius: 8px; border: 2px dashed #C8C2B8; background: white; display: flex; flex-direction: column; align-items: center; justify-content: center; cursor: pointer; font-size: 1.6rem; color: #A09890; transition: all 0.2s; }
-.add-photo-btn:hover { border-color: #B8941F; background: #FDF8EE; }
-.add-photo-btn span.sub { font-size: 0.7rem; margin-top: 4px; }
-
-.ai-btn { width: 100%; background: #1C1A17; color: #B8941F; border: 2px solid #B8941F; border-radius: 10px; padding: 14px; font-family: 'Outfit', sans-serif; font-size: 0.95rem; font-weight: 700; cursor: pointer; transition: all 0.2s; margin-bottom: 6px; }
-.ai-btn:hover:not(:disabled) { background: #B8941F; color: white; }
-.ai-btn:disabled { opacity: 0.5; cursor: not-allowed; }
-.ai-note { font-size: 0.72rem; color: #A09890; text-align: center; }
-
-.add-line-btn { width: 100%; background: none; border: 1.5px dashed #C8C2B8; border-radius: 8px; padding: 10px; font-family: 'Outfit', sans-serif; font-size: 0.82rem; color: #7A7269; cursor: pointer; transition: all 0.2s; margin-top: 4px; }
-.add-line-btn:hover { border-color: #B8941F; color: #B8941F; }
-
-.remove-btn { background: none; border: none; color: #C8C2B8; cursor: pointer; font-size: 1.1rem; padding: 8px; align-self: end; }
-.remove-btn:hover { color: #e05555; }
-
-.totals-row { display: flex; justify-content: space-between; align-items: center; padding: 8px 0; font-size: 0.9rem; }
-.totals-row.sub { border-top: 1px solid #E8E3DA; margin-top: 4px; padding-top: 12px; }
-.totals-row.inma { color: #B8941F; }
-.totals-row.grand { border-top: 2px solid #1C1A17; margin-top: 4px; padding-top: 12px; font-size: 1.05rem; font-weight: 700; }
-.totals-row.jake { margin-top: 8px; padding-top: 8px; border-top: 1px dashed #E8E3DA; color: #B8941F; font-weight: 600; }
-.totals-label { font-weight: 500; }
-.totals-val { font-weight: 600; }
-
-.action-btn { width: 100%; border: none; border-radius: 10px; padding: 16px; font-family: 'Outfit', sans-serif; font-size: 1rem; font-weight: 700; cursor: pointer; margin-bottom: 10px; transition: background 0.2s; }
-.action-primary { background: #B8941F; color: white; }
-.action-primary:hover { background: #9A7C1A; }
-.action-secondary { background: white; color: #1C1A17; border: 1.5px solid #D6D0C6; }
-.action-secondary:hover { border-color: #B8941F; }
-
-.prefilled { border-color: #B8941F !important; background: #FEFBF0 !important; }
-
-@media print {
-  .header, .hero, .ai-section, .add-line-btn, .remove-btn, .remove-photo, .action-btn, .ai-btn, .photo-grid { display: none !important; }
-  .card { border: 1px solid #ccc; page-break-inside: avoid; }
-  body { background: white; }
-}
+  *,*::before,*::after{box-sizing:border-box}
+  html,body{margin:0;padding:0;background:#1C1A17;color:#F5F2ED;font-family:'Outfit',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+  body{min-height:100vh;min-height:100dvh}
+  .app{display:flex;flex-direction:column;min-height:100vh;min-height:100dvh;max-width:780px;margin:0 auto}
+  .topbar{position:sticky;top:0;z-index:10;padding:16px 20px 12px;background:linear-gradient(180deg,#1C1A17 80%,rgba(28,26,23,0));display:flex;justify-content:space-between;align-items:center;gap:16px}
+  .brand-mark{font-weight:800;font-size:22px;color:#B8941F;letter-spacing:1px}
+  .brand-sub{font-size:11px;letter-spacing:2px;text-transform:uppercase;opacity:.6;margin-top:-2px}
+  .dots{display:flex;gap:8px}
+  .dot{width:9px;height:9px;border-radius:50%;background:#3a352e;transition:all .25s}
+  .dot.active{background:#B8941F;transform:scale(1.3)}
+  .dot.done{background:#6b5a2a}
+  .stage{flex:1;padding:8px 20px 120px}
+  .step{display:none;animation:fadeIn .3s ease}
+  .step.active{display:block}
+  @keyframes fadeIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+  .card{background:#25221d;border:1px solid #3a352e;border-radius:20px;padding:22px;margin-bottom:16px;box-shadow:0 4px 16px rgba(0,0,0,.25)}
+  .card h2{margin:0 0 4px;font-size:22px;font-weight:700;color:#F5F2ED}
+  .card .sub{font-size:13px;opacity:.55;margin:0 0 18px}
+  .field{margin-bottom:14px}
+  .field label{display:block;font-size:12px;letter-spacing:1px;text-transform:uppercase;opacity:.65;margin-bottom:6px;font-weight:500}
+  .field input,.field textarea,.field select{width:100%;padding:14px 14px;background:#1C1A17;border:1px solid #3a352e;border-radius:12px;color:#F5F2ED;font-family:inherit;font-size:16px;transition:border-color .2s,background .2s;-webkit-appearance:none}
+  .field input:focus,.field textarea:focus{outline:none;border-color:#B8941F}
+  .field textarea{resize:vertical;min-height:110px}
+  input.ai-filled{border-color:#B8941F !important;background:#F5F2ED !important;color:#1C1A17 !important}
+  .row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .row-3{display:grid;grid-template-columns:2fr 1fr 1fr;gap:10px;align-items:end}
+  .row-4{display:grid;grid-template-columns:2fr 1fr 1fr auto;gap:10px;align-items:end}
+  .line-item{background:#1C1A17;border:1px solid #3a352e;border-radius:14px;padding:14px;margin-bottom:10px}
+  .line-item .name{font-size:13px;font-weight:600;margin-bottom:8px;color:#F5F2ED}
+  .line-item .unit{font-size:11px;opacity:.5;text-transform:uppercase;letter-spacing:1px}
+  .qty-rate{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:8px}
+  .qty-rate input{padding:10px 12px;background:#25221d;border:1px solid #3a352e;border-radius:10px;color:#F5F2ED;font-size:15px;width:100%;font-family:inherit;-webkit-appearance:none}
+  .qty-rate input:focus{outline:none;border-color:#B8941F}
+  .qty-rate .mini-label{font-size:10px;opacity:.5;text-transform:uppercase;letter-spacing:1px;margin-bottom:3px}
+  .btn-primary{background:#B8941F;color:#1C1A17;border:none;padding:14px 22px;border-radius:12px;font-weight:700;font-size:15px;font-family:inherit;cursor:pointer;transition:background .2s;letter-spacing:.5px}
+  .btn-primary:hover{background:#d4a828}
+  .btn-primary:disabled{opacity:.5;cursor:not-allowed}
+  .btn-ghost{background:transparent;color:#F5F2ED;border:1px solid #3a352e;padding:14px 22px;border-radius:12px;font-weight:600;font-size:15px;font-family:inherit;cursor:pointer;transition:border-color .2s}
+  .btn-ghost:hover{border-color:#B8941F}
+  .btn-ghost:disabled{opacity:.3;cursor:not-allowed}
+  .btn-danger{background:transparent;color:#c66;border:1px solid #4a2a2a;padding:10px 14px;border-radius:10px;font-size:13px;cursor:pointer;font-family:inherit}
+  .btn-add{background:transparent;color:#B8941F;border:1px dashed #B8941F;padding:14px;border-radius:12px;font-weight:600;font-size:14px;cursor:pointer;width:100%;font-family:inherit;transition:background .2s}
+  .btn-add:hover{background:rgba(184,148,31,.1)}
+  .navbar{position:fixed;bottom:0;left:50%;transform:translateX(-50%);width:100%;max-width:780px;padding:14px 20px 20px;padding-bottom:calc(20px + env(safe-area-inset-bottom));background:#1C1A17;border-top:1px solid #3a352e;display:flex;justify-content:space-between;align-items:center;gap:12px;z-index:10}
+  .step-label{font-size:12px;opacity:.5;letter-spacing:1.5px;text-transform:uppercase}
+  .photo-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-top:10px}
+  .photo-tile{position:relative;aspect-ratio:1;border-radius:10px;overflow:hidden;background:#1C1A17;border:1px solid #3a352e}
+  .photo-tile img{width:100%;height:100%;object-fit:cover;display:block}
+  .photo-tile button{position:absolute;top:4px;right:4px;background:rgba(28,26,23,.85);color:#F5F2ED;border:none;width:24px;height:24px;border-radius:50%;cursor:pointer;font-size:14px;line-height:1;display:flex;align-items:center;justify-content:center;padding:0}
+  .photo-add{aspect-ratio:1;border:2px dashed #3a352e;border-radius:10px;display:flex;align-items:center;justify-content:center;cursor:pointer;color:#B8941F;font-size:32px;font-weight:300;transition:border-color .2s;background:transparent}
+  .photo-add:hover{border-color:#B8941F}
+  .photo-add input{display:none}
+  .ai-box{background:rgba(60,120,70,.15);border:1px solid #3a7848;border-radius:12px;padding:14px;margin-top:12px;display:none}
+  .ai-box.show{display:block}
+  .ai-box .label{font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:#7cc490;font-weight:600;margin-bottom:6px}
+  .ai-box .text{font-size:14px;line-height:1.5;color:#F5F2ED;white-space:pre-wrap}
+  .ai-btn-wrap{margin-top:16px;display:flex;flex-direction:column;gap:8px}
+  .ai-btn-wrap .hint{font-size:12px;opacity:.55;text-align:center}
+  .totals{background:#1C1A17;border:1px solid #3a352e;border-radius:14px;padding:20px;margin-top:6px;font-size:16px}
+  .totals .line{display:flex;justify-content:space-between;padding:8px 0;border-bottom:1px dashed #3a352e}
+  .totals .line:last-child{border-bottom:none}
+  .totals .line.big{font-size:20px;font-weight:700;padding:14px 0}
+  .totals .line.fee{color:#e0c878}
+  .totals .line.keeps{color:#7cc490;font-weight:700;font-size:18px;margin-top:8px;border-top:2px solid #3a3530;padding-top:14px}
+  .totals .tax-inline{display:flex;align-items:center;gap:8px}
+  .totals .tax-inline input{width:70px;padding:6px 8px;background:#25221d;border:1px solid #3a352e;border-radius:8px;color:#F5F2ED;font-family:inherit;font-size:14px;text-align:right;-webkit-appearance:none}
+  .totals .tax-inline input:focus{outline:none;border-color:#B8941F}
+  .save-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:18px}
+  .save-grid button{padding:18px 16px;font-size:14px;line-height:1.3}
+  @media(max-width:520px){
+    .save-grid{grid-template-columns:1fr}
+    .photo-grid{grid-template-columns:repeat(3,1fr)}
+    .row{grid-template-columns:1fr}
+  }
 </style>
 </head>
 <body>
+<div class="app">
+  <header class="topbar">
+    <div class="brand">
+      <div class="brand-mark">INMA</div>
+      <div class="brand-sub">Field Estimator</div>
+    </div>
+    <div class="dots" id="dots"></div>
+  </header>
 
-<div class="header">
-  <a href="/" class="header-back">← inmagent.com</a>
-  <div class="header-logo">INMA</div>
-</div>
+  <main class="stage" id="stage">
 
-<div class="hero">
-  <div class="hero-eyebrow">Field Tool</div>
-  <div class="hero-title">Job Estimator</div>
-</div>
-
-<div class="wrap">
-
-  <!-- JOB INFO -->
-  <div class="card">
-    <div class="card-title">Job Info</div>
-    <div class="row">
-      <div class="field-wrap">
-        <label>Homeowner Name</label>
-        <input type="text" id="owner-name" placeholder="Last, First">
+    <section class="step active" data-step="1">
+      <div class="card">
+        <h2>Job Info</h2>
+        <p class="sub">Who, where, and when.</p>
+        <div class="field"><label>Homeowner Name</label><input id="ownerName" type="text" placeholder="Jane Doe" autocomplete="off"></div>
+        <div class="field"><label>Property Address</label><input id="ownerAddress" type="text" placeholder="123 Main St, Spokane WA" autocomplete="off"></div>
+        <div class="row">
+          <div class="field"><label>Date</label><input id="jobDate" type="date"></div>
+          <div class="field"><label>Estimate #</label><input id="estimateNum" type="text" placeholder="Auto" autocomplete="off"></div>
+        </div>
       </div>
-    </div>
-    <div class="row">
-      <div class="field-wrap">
-        <label>Property Address</label>
-        <input type="text" id="owner-addr" placeholder="123 Main St, Spokane Valley">
+    </section>
+
+    <section class="step" data-step="2">
+      <div class="card">
+        <h2>Photos &amp; Notes</h2>
+        <p class="sub">Walk the job. Up to 8 photos.</p>
+        <label style="font-size:12px;letter-spacing:1px;text-transform:uppercase;opacity:.65;font-weight:500">Photos</label>
+        <div class="photo-grid" id="photoGrid">
+          <label class="photo-add" id="photoAddBtn">+<input type="file" id="photoInput" accept="image/*" multiple capture="environment"></label>
+        </div>
+        <div class="field" style="margin-top:18px"><label>Scope Notes</label><textarea id="scopeNotes" placeholder="E.g. Full siding tearoff and replace with ColorPlus. 8 windows on main level, all medium. Gable ends lap siding..."></textarea></div>
+        <div class="ai-btn-wrap">
+          <button class="btn-primary" id="analyzeBtn" type="button">Analyze with AI</button>
+          <div class="hint">Claude will read the photos + notes and prefill quantities.</div>
+        </div>
+        <div class="ai-box" id="aiBox"><div class="label">AI Summary</div><div class="text" id="aiText"></div></div>
       </div>
-    </div>
-    <div class="row row-2">
-      <div class="field-wrap">
-        <label>Date</label>
-        <input type="date" id="est-date">
+    </section>
+
+    <section class="step" data-step="3">
+      <div class="card">
+        <h2>Siding</h2>
+        <p class="sub">Quantities and rates. Defaults are FMV.</p>
+        <div id="sidingLines"></div>
       </div>
-      <div class="field-wrap">
-        <label>Estimate #</label>
-        <input type="text" id="est-num" placeholder="001">
+    </section>
+
+    <section class="step" data-step="4">
+      <div class="card">
+        <h2>Windows</h2>
+        <p class="sub">Count units by size tier.</p>
+        <div id="windowLines"></div>
       </div>
-    </div>
-  </div>
+    </section>
 
-  <!-- PHOTOS + AI -->
-  <div class="card ai-section">
-    <div class="card-title">Photos & Notes → AI Prefill</div>
-    <div class="photo-grid" id="photoGrid">
-      <label class="add-photo-btn">
-        <span>📷</span>
-        <span class="sub">Add Photo</span>
-        <input type="file" accept="image/*" multiple style="display:none" onchange="handlePhotos(this)">
-      </label>
-    </div>
-    <div class="field-wrap" style="margin-bottom:12px;">
-      <label>Notes (scope, conditions, measurements)</label>
-      <textarea id="scope-notes" placeholder="e.g. Full Hardie re-side, ~1400 SF. 8 windows, mix of sizes. Front porch soffit and fascia. Wagon wheel in gable needs wrapping..."></textarea>
-    </div>
-    <button class="ai-btn" id="aiBtn" onclick="runAI()">✦ Analyze with AI — Prefill Estimate</button>
-    <div class="ai-note">AI reads your photos + notes and fills in quantities at FMV rates. Edit anything after.</div>
-  </div>
+    <section class="step" data-step="5">
+      <div class="card">
+        <h2>Trim &amp; Custom Lines</h2>
+        <p class="sub">Interior/exterior trim, plus anything else.</p>
+        <div id="trimLines"></div>
+        <div style="margin:22px 0 10px;font-size:12px;letter-spacing:1px;text-transform:uppercase;opacity:.65;font-weight:500">Custom Lines</div>
+        <div id="customLines"></div>
+        <button class="btn-add" id="addCustomBtn" type="button">+ Add Custom Line</button>
+      </div>
+    </section>
 
-  <!-- SIDING -->
-  <div class="card">
-    <div class="card-title">Siding</div>
-    <div class="row row-3">
-      <div class="field-wrap"><span class="field-label-static">Primed Hardie B&B</span></div>
-      <div class="field-wrap"><label>SF</label><input type="number" id="primed_hardie_qty" value="0" min="0" oninput="calc()"></div>
-      <div class="field-wrap"><label>$/SF</label><input type="number" id="primed_hardie_rate" value="12.50" min="0" step="0.25" oninput="calc()"></div>
-    </div>
-    <div class="row row-3">
-      <div class="field-wrap"><span class="field-label-static">ColorPlus Hardie</span></div>
-      <div class="field-wrap"><label>SF</label><input type="number" id="colorplus_qty" value="0" min="0" oninput="calc()"></div>
-      <div class="field-wrap"><label>$/SF</label><input type="number" id="colorplus_rate" value="19.00" min="0" step="0.25" oninput="calc()"></div>
-    </div>
-    <div class="row row-3">
-      <div class="field-wrap"><span class="field-label-static">Lap Siding — Gables</span></div>
-      <div class="field-wrap"><label>SF</label><input type="number" id="lap_qty" value="0" min="0" oninput="calc()"></div>
-      <div class="field-wrap"><label>$/SF</label><input type="number" id="lap_rate" value="12.50" min="0" step="0.25" oninput="calc()"></div>
-    </div>
-    <div class="row row-3">
-      <div class="field-wrap"><span class="field-label-static">Aluminum Soffit</span></div>
-      <div class="field-wrap"><label>LF</label><input type="number" id="soffit_qty" value="0" min="0" oninput="calc()"></div>
-      <div class="field-wrap"><label>$/LF</label><input type="number" id="soffit_rate" value="13.00" min="0" step="0.25" oninput="calc()"></div>
-    </div>
-    <div class="row row-3">
-      <div class="field-wrap"><span class="field-label-static">Aluminum Fascia</span></div>
-      <div class="field-wrap"><label>LF</label><input type="number" id="fascia_qty" value="0" min="0" oninput="calc()"></div>
-      <div class="field-wrap"><label>$/LF</label><input type="number" id="fascia_rate" value="8.50" min="0" step="0.25" oninput="calc()"></div>
-    </div>
-    <div class="row row-3">
-      <div class="field-wrap"><span class="field-label-static">Post / Beam Wrap</span></div>
-      <div class="field-wrap"><label>LF</label><input type="number" id="wrap_qty" value="0" min="0" oninput="calc()"></div>
-      <div class="field-wrap"><label>$/LF</label><input type="number" id="wrap_rate" value="12.00" min="0" step="0.25" oninput="calc()"></div>
-    </div>
-    <div class="row row-3">
-      <div class="field-wrap"><span class="field-label-static">Tearoff / Dump / Cleanup</span></div>
-      <div class="field-wrap"><label>SF</label><input type="number" id="tearoff_qty" value="0" min="0" oninput="calc()"></div>
-      <div class="field-wrap"><label>$/SF</label><input type="number" id="tearoff_rate" value="1.50" min="0" step="0.25" oninput="calc()"></div>
-    </div>
-  </div>
+    <section class="step" data-step="6">
+      <div class="card">
+        <h2>Review &amp; Save</h2>
+        <p class="sub">Adjust tax, then save the outputs.</p>
+        <div class="totals" id="totalsBox"></div>
+        <div class="save-grid">
+          <button class="btn-ghost" id="saveCustomerBtn" type="button">📄 Customer Estimate</button>
+          <button class="btn-primary" id="saveContractorBtn" type="button">📋 Contractor Pack</button>
+        </div>
+        <p style="font-size:12px;opacity:.5;text-align:center;margin-top:14px">Both open in a new tab. Use your browser's Print → Save as PDF.</p>
+      </div>
+    </section>
 
-  <!-- WINDOWS -->
-  <div class="card">
-    <div class="card-title">Windows</div>
-    <div class="row row-3">
-      <div class="field-wrap"><span class="field-label-static">Small — ≤ 20 SF</span></div>
-      <div class="field-wrap"><label>Qty</label><input type="number" id="win_sm_qty" value="0" min="0" oninput="calc()"></div>
-      <div class="field-wrap"><label>$/ea</label><input type="number" id="win_sm_rate" value="425" min="0" step="25" oninput="calc()"></div>
-    </div>
-    <div class="row row-3">
-      <div class="field-wrap"><span class="field-label-static">Medium — 21–40 SF</span></div>
-      <div class="field-wrap"><label>Qty</label><input type="number" id="win_md_qty" value="0" min="0" oninput="calc()"></div>
-      <div class="field-wrap"><label>$/ea</label><input type="number" id="win_md_rate" value="900" min="0" step="25" oninput="calc()"></div>
-    </div>
-    <div class="row row-3">
-      <div class="field-wrap"><span class="field-label-static">Large — &gt; 40 SF</span></div>
-      <div class="field-wrap"><label>Qty</label><input type="number" id="win_lg_qty" value="0" min="0" oninput="calc()"></div>
-      <div class="field-wrap"><label>$/ea</label><input type="number" id="win_lg_rate" value="1200" min="0" step="25" oninput="calc()"></div>
-    </div>
-  </div>
+  </main>
 
-  <!-- TRIM -->
-  <div class="card">
-    <div class="card-title">Trim</div>
-    <div class="row row-3">
-      <div class="field-wrap"><span class="field-label-static">Interior Trim</span></div>
-      <div class="field-wrap"><label>LF</label><input type="number" id="trim_int_qty" value="0" min="0" oninput="calc()"></div>
-      <div class="field-wrap"><label>$/LF</label><input type="number" id="trim_int_rate" value="4.00" min="0" step="0.25" oninput="calc()"></div>
-    </div>
-    <div class="row row-3">
-      <div class="field-wrap"><span class="field-label-static">Exterior Trim / Belly Band</span></div>
-      <div class="field-wrap"><label>LF</label><input type="number" id="trim_ext_qty" value="0" min="0" oninput="calc()"></div>
-      <div class="field-wrap"><label>$/LF</label><input type="number" id="trim_ext_rate" value="5.00" min="0" step="0.25" oninput="calc()"></div>
-    </div>
-  </div>
-
-  <!-- CUSTOM LINES -->
-  <div class="card">
-    <div class="card-title">Custom Line Items</div>
-    <div id="custom-lines"></div>
-    <button class="add-line-btn" onclick="addCustomLine()">+ Add Custom Line Item</button>
-  </div>
-
-  <!-- TOTALS -->
-  <div class="card">
-    <div class="card-title">Totals</div>
-    <div class="totals-row sub">
-      <span class="totals-label">Project Subtotal</span>
-      <span class="totals-val" id="t-subtotal">$0.00</span>
-    </div>
-    <div class="totals-row inma">
-      <span class="totals-label">INMA Fee (10%) — pre-tax</span>
-      <span class="totals-val" id="t-inma">−$0.00</span>
-    </div>
-    <div class="totals-row">
-      <span class="totals-label">Remaining to Contractor</span>
-      <span class="totals-val" id="t-contractor">$0.00</span>
-    </div>
-    <div class="totals-row" style="align-items:center;">
-      <span class="totals-label" style="display:flex;align-items:center;gap:8px;">
-        Sales Tax
-        <input type="number" id="tax-rate" min="0" max="20" step="0.1" placeholder="%" oninput="calc()" style="width:62px;border:1.5px solid #D6D0C6;border-radius:6px;padding:4px 8px;font-family:'Outfit',sans-serif;font-size:0.85rem;color:#1C1A17;outline:none;">
-        <span style="font-size:0.78rem;color:#A09890;">%</span>
-      </span>
-      <span class="totals-val" id="t-tax">$—</span>
-    </div>
-    <div class="totals-row grand">
-      <span class="totals-label">Total to Homeowner</span>
-      <span class="totals-val" id="t-grand">$0.00</span>
-    </div>
-    <div class="totals-row jake">
-      <span class="totals-label">Jake Keeps</span>
-      <span class="totals-val" id="t-jake">$0.00</span>
-    </div>
-  </div>
-
-  <button class="action-btn action-primary" id="emailBtn" onclick="emailEstimate()">📧 Email Estimate to Jake</button>
-  <button class="action-btn action-secondary" onclick="window.print()">🖨 Print / Save PDF</button>
-
+  <footer class="navbar">
+    <button class="btn-ghost" id="backBtn">← Back</button>
+    <div class="step-label" id="stepLabel">Step 1 of 6</div>
+    <button class="btn-primary" id="nextBtn">Next →</button>
+  </footer>
 </div>
 
 <script>
-const FORMSPREE = 'https://formspree.io/f/xgollken';
-const ANALYZE_URL = 'https://inma-five.vercel.app/api/generate-estimate';
-const INMA_FEE = 0.10;
+/* ============ DATA MODEL ============ */
+const SIDING_ITEMS = [
+  {k:'primed_hardie', label:'Primed Hardie B&B', unit:'SF', rate:12.50, customer:'Provide and install Hardie primed lap siding (B&B profile)'},
+  {k:'colorplus',     label:'ColorPlus Hardie',   unit:'SF', rate:19.00, customer:'Provide and install Hardie ColorPlus pre-finished lap siding'},
+  {k:'lap',           label:'Lap Siding (Gables)',unit:'SF', rate:12.50, customer:'Provide and install Hardie lap siding — gable areas'},
+  {k:'soffit',        label:'Aluminum Soffit',    unit:'LF', rate:13.00, customer:'Provide and install aluminum center-vent soffit'},
+  {k:'fascia',        label:'Aluminum Fascia',    unit:'LF', rate:8.50,  customer:'Provide and install aluminum fascia (includes 1x4 build-out to flush)'},
+  {k:'wrap',          label:'Post / Beam Wrap',   unit:'LF', rate:12.00, customer:'T&M — post and beam wrap (material TBD with homeowner)'},
+  {k:'tearoff',       label:'Tearoff / Dump / Cleanup', unit:'SF', rate:1.50, customer:'Tearoff, haul-away, dump fees, and full site cleanup'}
+];
+const WINDOW_ITEMS = [
+  {k:'small',  label:'Small (≤20 SF)',   unit:'ea', rate:425,  customer:'Window replacement — small units (≤20 SF)'},
+  {k:'medium', label:'Medium (21–40 SF)',unit:'ea', rate:900,  customer:'Window replacement — medium units (21–40 SF)'},
+  {k:'large',  label:'Large (>40 SF)',   unit:'ea', rate:1200, customer:'Window replacement — large units (>40 SF)'}
+];
+const TRIM_ITEMS = [
+  {k:'interior', label:'Interior Trim',              unit:'LF', rate:4.00, customer:'Interior window and door trim — installation'},
+  {k:'exterior', label:'Exterior Trim / Belly Band', unit:'LF', rate:5.00, customer:'Exterior trim, belly band, and base band installation'}
+];
 
-let photos = [];
-let customLineCount = 0;
+const state = {
+  step: 1,
+  photos: [],            // {dataUrl, name, type}
+  aiNotes: '',
+  aiFilledKeys: new Set(),
+  siding: Object.fromEntries(SIDING_ITEMS.map(i=>[i.k,{qty:0,rate:i.rate}])),
+  windows: Object.fromEntries(WINDOW_ITEMS.map(i=>[i.k,{qty:0,rate:i.rate}])),
+  trim: Object.fromEntries(TRIM_ITEMS.map(i=>[i.k,{qty:0,rate:i.rate}])),
+  customs: [],           // {id, desc, qty, rate}
+  taxPct: '',
+};
+const TOTAL_STEPS = 6;
 
-document.getElementById('est-date').value = new Date().toISOString().split('T')[0];
+const $ = (s,r=document)=>r.querySelector(s);
+const $$ = (s,r=document)=>Array.from(r.querySelectorAll(s));
+const fmtMoney = n => '$' + (Math.round(n*100)/100).toLocaleString('en-US',{minimumFractionDigits:2,maximumFractionDigits:2});
+const fmtInt   = n => '$' + Math.round(n).toLocaleString('en-US');
 
-// ── PHOTOS ──
-function handlePhotos(input) {
-  Array.from(input.files).forEach(file => {
-    if (photos.length >= 8) return;
-    photos.push({ file, url: URL.createObjectURL(file) });
-  });
-  input.value = '';
-  renderPhotos();
+/* ============ INIT ============ */
+document.addEventListener('DOMContentLoaded', ()=>{
+  buildDots();
+  renderLineGroups();
+  bindCoreInputs();
+  bindPhotoUpload();
+  bindAnalyze();
+  bindCustomAdd();
+  bindNav();
+  bindSave();
+  setDefaultDateAndNum();
+  updateStepUI();
+});
+
+function setDefaultDateAndNum(){
+  const d = new Date();
+  $('#jobDate').value = d.toISOString().slice(0,10);
+  const n = 'INMA-' + d.getFullYear() + String(d.getMonth()+1).padStart(2,'0') + String(d.getDate()).padStart(2,'0') + '-' + String(Math.floor(Math.random()*900)+100);
+  $('#estimateNum').value = n;
 }
 
-function renderPhotos() {
-  const grid = document.getElementById('photoGrid');
-  grid.innerHTML = '';
-  photos.forEach((p, i) => {
-    const div = document.createElement('div');
-    div.className = 'photo-thumb';
-    div.innerHTML = `<img src="${p.url}"><button class="remove-photo" onclick="removePhoto(${i})">✕</button>`;
-    grid.appendChild(div);
+function bindCoreInputs(){
+  ['ownerName','ownerAddress','jobDate','estimateNum'].forEach(id=>{
+    $('#'+id).addEventListener('input', ()=>{});
   });
-  if (photos.length < 8) {
-    const label = document.createElement('label');
-    label.className = 'add-photo-btn';
-    label.innerHTML = `<span>📷</span><span class="sub">Add Photo</span><input type="file" accept="image/*" multiple style="display:none" onchange="handlePhotos(this)">`;
-    grid.appendChild(label);
+  $('#scopeNotes').addEventListener('input', e => { state.scopeNotes = e.target.value; });
+}
+
+/* ============ STEPPER NAV ============ */
+function buildDots(){
+  const host = $('#dots');
+  host.innerHTML = '';
+  for(let i=1;i<=TOTAL_STEPS;i++){
+    const d = document.createElement('div');
+    d.className = 'dot';
+    host.appendChild(d);
   }
 }
-
-function removePhoto(i) {
-  photos.splice(i, 1);
-  renderPhotos();
+function updateStepUI(){
+  $$('.step').forEach(s => s.classList.toggle('active', Number(s.dataset.step) === state.step));
+  $$('.dot').forEach((d,i)=>{
+    d.classList.toggle('active', i+1 === state.step);
+    d.classList.toggle('done', i+1 < state.step);
+  });
+  $('#stepLabel').textContent = `Step ${state.step} of ${TOTAL_STEPS}`;
+  $('#backBtn').disabled = state.step === 1;
+  $('#nextBtn').textContent = state.step === TOTAL_STEPS ? 'Done' : 'Next →';
+  if (state.step === TOTAL_STEPS) renderTotals();
+  window.scrollTo({top:0, behavior:'smooth'});
+}
+function bindNav(){
+  $('#backBtn').addEventListener('click', ()=>{ if(state.step>1){state.step--;updateStepUI();}});
+  $('#nextBtn').addEventListener('click', ()=>{ if(state.step<TOTAL_STEPS){state.step++;updateStepUI();}});
 }
 
-// ── AI ──
-function fileToBase64(file) {
-  return new Promise((resolve, reject) => {
-    const reader = new FileReader();
-    reader.onload = () => resolve(reader.result.split(',')[1]);
-    reader.onerror = reject;
-    reader.readAsDataURL(file);
+/* ============ LINE GROUPS ============ */
+function renderLineGroups(){
+  $('#sidingLines').innerHTML = SIDING_ITEMS.map(i => lineItemHTML('siding', i)).join('');
+  $('#windowLines').innerHTML = WINDOW_ITEMS.map(i => lineItemHTML('windows', i)).join('');
+  $('#trimLines').innerHTML   = TRIM_ITEMS.map(i => lineItemHTML('trim', i)).join('');
+  SIDING_ITEMS.forEach(i => bindLineInputs('siding', i.k));
+  WINDOW_ITEMS.forEach(i => bindLineInputs('windows', i.k));
+  TRIM_ITEMS.forEach(i => bindLineInputs('trim', i.k));
+}
+function lineItemHTML(group, item){
+  const v = state[group][item.k];
+  return `<div class="line-item">
+    <div class="name">${item.label} <span class="unit">· ${item.unit}</span></div>
+    <div class="qty-rate">
+      <div><div class="mini-label">Qty (${item.unit})</div><input type="number" inputmode="decimal" step="0.01" data-group="${group}" data-k="${item.k}" data-f="qty" value="${v.qty||''}" placeholder="0"></div>
+      <div><div class="mini-label">Rate ($/${item.unit})</div><input type="number" inputmode="decimal" step="0.01" data-group="${group}" data-k="${item.k}" data-f="rate" value="${v.rate}" placeholder="0.00"></div>
+    </div>
+  </div>`;
+}
+function bindLineInputs(group, k){
+  $$(`input[data-group="${group}"][data-k="${k}"]`).forEach(inp => {
+    inp.addEventListener('input', e => {
+      const v = parseFloat(e.target.value) || 0;
+      state[group][k][e.target.dataset.f] = v;
+    });
   });
 }
+function markAIFilled(group, k){
+  $$(`input[data-group="${group}"][data-k="${k}"][data-f="qty"]`).forEach(el => el.classList.add('ai-filled'));
+}
 
-async function runAI() {
-  const notes = document.getElementById('scope-notes').value.trim();
-  if (photos.length === 0 && !notes) {
-    alert('Add at least one photo or some notes first.');
+/* ============ PHOTOS ============ */
+function bindPhotoUpload(){
+  $('#photoInput').addEventListener('change', async e => {
+    const files = Array.from(e.target.files || []);
+    for (const f of files) {
+      if (state.photos.length >= 8) break;
+      const dataUrl = await fileToDataURL(f);
+      state.photos.push({ dataUrl, name: f.name, type: f.type });
+    }
+    e.target.value = '';
+    renderPhotos();
+  });
+}
+function fileToDataURL(file){
+  return new Promise((resolve,reject) => {
+    const r = new FileReader();
+    r.onload = () => resolve(r.result);
+    r.onerror = reject;
+    r.readAsDataURL(file);
+  });
+}
+function renderPhotos(){
+  const grid = $('#photoGrid');
+  const add = $('#photoAddBtn');
+  $$('.photo-tile', grid).forEach(n => n.remove());
+  state.photos.forEach((p, idx) => {
+    const tile = document.createElement('div');
+    tile.className = 'photo-tile';
+    tile.innerHTML = `<img src="${p.dataUrl}" alt=""><button type="button" aria-label="Remove">×</button>`;
+    tile.querySelector('button').addEventListener('click', () => { state.photos.splice(idx,1); renderPhotos(); });
+    grid.insertBefore(tile, add);
+  });
+  add.style.display = state.photos.length >= 8 ? 'none' : 'flex';
+}
+
+/* ============ AI ANALYZE ============ */
+function bindAnalyze(){
+  $('#analyzeBtn').addEventListener('click', analyze);
+}
+async function analyze(){
+  const btn = $('#analyzeBtn');
+  const notes = $('#scopeNotes').value.trim();
+  if (!state.photos.length && !notes){
+    alert('Add at least one photo or some scope notes first.');
     return;
   }
-  const btn = document.getElementById('aiBtn');
   btn.disabled = true;
-  btn.textContent = '✦ Reading with AI...';
+  btn.textContent = 'Analyzing…';
   try {
-    const images = await Promise.all(photos.map(async p => ({
-      base64: await fileToBase64(p.file),
-      mediaType: p.file.type || 'image/jpeg'
-    })));
-    const res = await fetch(ANALYZE_URL, {
+    const images = state.photos.map(p => ({
+      mediaType: p.type || 'image/jpeg',
+      base64: p.dataUrl.split(',')[1]
+    }));
+    const res = await fetch('https://inma-five.vercel.app/api/generate-estimate', {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      headers: {'Content-Type':'application/json'},
       body: JSON.stringify({ images, notes })
     });
     const data = await res.json();
-    if (data.estimate) prefillEstimate(data.estimate);
-    else throw new Error('no estimate');
-  } catch(e) {
-    alert('AI prefill failed — fill in manually or try again.');
-  }
-  btn.disabled = false;
-  btn.textContent = '✦ Re-analyze with AI';
-}
-
-function prefillEstimate(est) {
-  const set = (id, val) => {
-    const el = document.getElementById(id);
-    if (el && val > 0) { el.value = val; el.classList.add('prefilled'); }
-  };
-  set('primed_hardie_qty', est.siding?.primed_hardie_qty);
-  set('primed_hardie_rate', est.siding?.primed_hardie_rate);
-  set('colorplus_qty', est.siding?.colorplus_qty);
-  set('colorplus_rate', est.siding?.colorplus_rate);
-  set('lap_qty', est.siding?.lap_qty);
-  set('lap_rate', est.siding?.lap_rate);
-  set('soffit_qty', est.siding?.soffit_qty);
-  set('soffit_rate', est.siding?.soffit_rate);
-  set('fascia_qty', est.siding?.fascia_qty);
-  set('fascia_rate', est.siding?.fascia_rate);
-  set('wrap_qty', est.siding?.wrap_qty);
-  set('wrap_rate', est.siding?.wrap_rate);
-  set('tearoff_qty', est.siding?.tearoff_qty);
-  set('tearoff_rate', est.siding?.tearoff_rate);
-  set('win_sm_qty', est.windows?.small_qty);
-  set('win_sm_rate', est.windows?.small_rate);
-  set('win_md_qty', est.windows?.medium_qty);
-  set('win_md_rate', est.windows?.medium_rate);
-  set('win_lg_qty', est.windows?.large_qty);
-  set('win_lg_rate', est.windows?.large_rate);
-  set('trim_int_qty', est.trim?.interior_qty);
-  set('trim_int_rate', est.trim?.interior_rate);
-  set('trim_ext_qty', est.trim?.exterior_qty);
-  set('trim_ext_rate', est.trim?.exterior_rate);
-  if (est.ai_notes) {
-    const n = document.getElementById('scope-notes');
-    n.value = (n.value ? n.value + '\n\nAI: ' : 'AI: ') + est.ai_notes;
-  }
-  calc();
-}
-
-// ── CUSTOM LINES ──
-function addCustomLine(name='', qty=0, rate=0) {
-  const id = ++customLineCount;
-  const div = document.createElement('div');
-  div.id = `custom-${id}`;
-  div.style.cssText = 'display:grid;grid-template-columns:1fr 80px 90px auto;gap:8px;align-items:end;margin-bottom:10px;';
-  div.innerHTML = `
-    <div class="field-wrap"><label>Description</label><input type="text" id="cl-name-${id}" value="${name}" placeholder="Custom line item" oninput="calc()"></div>
-    <div class="field-wrap"><label>Qty</label><input type="number" id="cl-qty-${id}" value="${qty}" min="0" oninput="calc()"></div>
-    <div class="field-wrap"><label>$/unit</label><input type="number" id="cl-rate-${id}" value="${rate}" min="0" step="0.25" oninput="calc()"></div>
-    <button class="remove-btn" onclick="removeCustomLine(${id})">✕</button>`;
-  document.getElementById('custom-lines').appendChild(div);
-  calc();
-}
-
-function removeCustomLine(id) {
-  document.getElementById(`custom-${id}`).remove();
-  calc();
-}
-
-// ── CALC ──
-function v(id) { return parseFloat(document.getElementById(id)?.value) || 0; }
-function fmt(n) { return '$' + n.toFixed(2).replace(/\B(?=(\d{3})+(?!\d))/g, ','); }
-
-function calc() {
-  let sub = 0;
-  sub += v('primed_hardie_qty') * v('primed_hardie_rate');
-  sub += v('colorplus_qty') * v('colorplus_rate');
-  sub += v('lap_qty') * v('lap_rate');
-  sub += v('soffit_qty') * v('soffit_rate');
-  sub += v('fascia_qty') * v('fascia_rate');
-  sub += v('wrap_qty') * v('wrap_rate');
-  sub += v('tearoff_qty') * v('tearoff_rate');
-  sub += v('win_sm_qty') * v('win_sm_rate');
-  sub += v('win_md_qty') * v('win_md_rate');
-  sub += v('win_lg_qty') * v('win_lg_rate');
-  sub += v('trim_int_qty') * v('trim_int_rate');
-  sub += v('trim_ext_qty') * v('trim_ext_rate');
-  for (let i = 1; i <= customLineCount; i++) {
-    if (document.getElementById(`custom-${i}`)) sub += v(`cl-qty-${i}`) * v(`cl-rate-${i}`);
-  }
-  const inmaFee = sub * INMA_FEE;
-  const contractor = sub - inmaFee;
-  const taxPct = parseFloat(document.getElementById('tax-rate')?.value) || 0;
-  const tax = taxPct > 0 ? contractor * (taxPct / 100) : null;
-  const grand = contractor + (tax || 0);
-  document.getElementById('t-subtotal').textContent = fmt(sub);
-  document.getElementById('t-inma').textContent = '−' + fmt(inmaFee);
-  document.getElementById('t-contractor').textContent = fmt(contractor);
-  document.getElementById('t-tax').textContent = tax !== null ? fmt(tax) : '$—';
-  document.getElementById('t-grand').textContent = fmt(grand);
-  document.getElementById('t-jake').textContent = fmt(inmaFee);
-}
-
-// ── EMAIL ──
-async function emailEstimate() {
-  const lines = [];
-  const addLine = (label, qtyId, rateId, unit) => {
-    const qty = v(qtyId), rate = v(rateId);
-    if (qty > 0) lines.push(`${label}: ${qty} ${unit} @ $${rate} = ${fmt(qty * rate)}`);
-  };
-  addLine('Primed Hardie B&B', 'primed_hardie_qty', 'primed_hardie_rate', 'SF');
-  addLine('ColorPlus Hardie', 'colorplus_qty', 'colorplus_rate', 'SF');
-  addLine('Lap Siding (Gables)', 'lap_qty', 'lap_rate', 'SF');
-  addLine('Soffit', 'soffit_qty', 'soffit_rate', 'LF');
-  addLine('Fascia', 'fascia_qty', 'fascia_rate', 'LF');
-  addLine('Post/Beam Wrap', 'wrap_qty', 'wrap_rate', 'LF');
-  addLine('Tearoff/Cleanup', 'tearoff_qty', 'tearoff_rate', 'SF');
-  addLine('Window — Small', 'win_sm_qty', 'win_sm_rate', 'ea');
-  addLine('Window — Medium', 'win_md_qty', 'win_md_rate', 'ea');
-  addLine('Window — Large', 'win_lg_qty', 'win_lg_rate', 'ea');
-  addLine('Interior Trim', 'trim_int_qty', 'trim_int_rate', 'LF');
-  addLine('Exterior Trim', 'trim_ext_qty', 'trim_ext_rate', 'LF');
-  for (let i = 1; i <= customLineCount; i++) {
-    if (document.getElementById(`custom-${i}`)) {
-      const name = document.getElementById(`cl-name-${i}`)?.value || 'Custom';
-      const qty = v(`cl-qty-${i}`), rate = v(`cl-rate-${i}`);
-      if (qty > 0) lines.push(`${name}: ${qty} @ $${rate} = ${fmt(qty * rate)}`);
-    }
-  }
-
-  const btn = document.getElementById('emailBtn');
-  btn.disabled = true;
-  btn.textContent = 'Sending...';
-  try {
-    const res = await fetch(FORMSPREE, {
-      method: 'POST',
-      headers: { 'Accept': 'application/json', 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        _subject: `INMA Estimate — ${document.getElementById('owner-name').value || 'Unknown'} — ${document.getElementById('owner-addr').value || ''}`,
-        homeowner: document.getElementById('owner-name').value || '—',
-        address: document.getElementById('owner-addr').value || '—',
-        date: document.getElementById('est-date').value,
-        line_items: lines.join('\n') || '(no line items)',
-        subtotal: document.getElementById('t-subtotal').textContent,
-        inma_fee: document.getElementById('t-inma').textContent,
-        remaining_to_contractor: document.getElementById('t-contractor').textContent,
-        sales_tax: document.getElementById('t-tax').textContent,
-        total_to_homeowner: document.getElementById('t-grand').textContent,
-        jake_keeps: document.getElementById('t-jake').textContent,
-        notes: document.getElementById('scope-notes').value || '—'
-      })
-    });
-    const data = await res.json();
-    if (data.ok || res.ok) {
-      btn.textContent = '✓ Sent';
-      setTimeout(() => { btn.disabled = false; btn.textContent = '📧 Email Estimate to Jake'; }, 3000);
-    } else throw new Error();
-  } catch(e) {
-    alert('Email failed — try again or print to PDF.');
+    if (!data.estimate) throw new Error('No estimate returned');
+    applyAIEstimate(data.estimate);
+    btn.textContent = 'Re-analyze with AI';
+  } catch (err) {
+    console.error(err);
+    alert('AI analyze failed. Fill in quantities manually.\n\n' + (err.message || err));
+    btn.textContent = 'Analyze with AI';
+  } finally {
     btn.disabled = false;
-    btn.textContent = '📧 Email Estimate to Jake';
+  }
+}
+function applyAIEstimate(est){
+  const setQty = (group, k, qty) => {
+    if (typeof qty !== 'number') return;
+    state[group][k].qty = qty;
+    const input = document.querySelector(`input[data-group="${group}"][data-k="${k}"][data-f="qty"]`);
+    if (input){ input.value = qty || ''; markAIFilled(group, k); }
+  };
+  const s = est.siding || {};
+  setQty('siding','primed_hardie', s.primed_hardie_qty);
+  setQty('siding','colorplus',     s.colorplus_qty);
+  setQty('siding','lap',           s.lap_qty);
+  setQty('siding','soffit',        s.soffit_qty);
+  setQty('siding','fascia',        s.fascia_qty);
+  setQty('siding','wrap',          s.wrap_qty);
+  setQty('siding','tearoff',       s.tearoff_qty);
+  const w = est.windows || {};
+  setQty('windows','small',  w.small_qty);
+  setQty('windows','medium', w.medium_qty);
+  setQty('windows','large',  w.large_qty);
+  const t = est.trim || {};
+  setQty('trim','interior', t.interior_qty);
+  setQty('trim','exterior', t.exterior_qty);
+  state.aiNotes = est.ai_notes || '';
+  if (state.aiNotes){
+    $('#aiText').textContent = state.aiNotes;
+    $('#aiBox').classList.add('show');
   }
 }
 
-calc();
+/* ============ CUSTOM LINES ============ */
+function bindCustomAdd(){
+  $('#addCustomBtn').addEventListener('click', ()=>{
+    const id = 'c' + Date.now();
+    state.customs.push({ id, desc:'', qty:0, rate:0 });
+    renderCustoms();
+  });
+}
+function renderCustoms(){
+  const host = $('#customLines');
+  host.innerHTML = state.customs.map(c => `
+    <div class="line-item" data-id="${c.id}">
+      <div class="row-4">
+        <div><div class="mini-label">Description</div><input type="text" data-f="desc" value="${escapeAttr(c.desc)}" placeholder="E.g. Gutter cleaning"></div>
+        <div><div class="mini-label">Qty</div><input type="number" inputmode="decimal" step="0.01" data-f="qty" value="${c.qty||''}" placeholder="0"></div>
+        <div><div class="mini-label">$/unit</div><input type="number" inputmode="decimal" step="0.01" data-f="rate" value="${c.rate||''}" placeholder="0.00"></div>
+        <button class="btn-danger" type="button" data-remove>✕</button>
+      </div>
+    </div>`).join('');
+  $$('#customLines .line-item').forEach(row => {
+    const id = row.dataset.id;
+    row.querySelectorAll('input').forEach(inp => {
+      inp.addEventListener('input', e => {
+        const c = state.customs.find(x => x.id === id);
+        if (!c) return;
+        const f = e.target.dataset.f;
+        c[f] = f === 'desc' ? e.target.value : (parseFloat(e.target.value) || 0);
+      });
+    });
+    row.querySelector('[data-remove]').addEventListener('click', ()=>{
+      state.customs = state.customs.filter(x => x.id !== id);
+      renderCustoms();
+    });
+  });
+}
+function escapeAttr(s){ return String(s).replace(/"/g,'&quot;').replace(/</g,'&lt;'); }
+function escapeHTML(s){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+/* ============ TOTALS ============ */
+function collectLineItems(){
+  const rows = [];
+  SIDING_ITEMS.forEach(i => { const v = state.siding[i.k]; if (v.qty > 0) rows.push({desc:i.label, customer:i.customer, qty:v.qty, unit:i.unit, rate:v.rate, total:v.qty*v.rate}); });
+  WINDOW_ITEMS.forEach(i => { const v = state.windows[i.k]; if (v.qty > 0) rows.push({desc:i.label, customer:i.customer, qty:v.qty, unit:i.unit, rate:v.rate, total:v.qty*v.rate}); });
+  TRIM_ITEMS.forEach(i => { const v = state.trim[i.k]; if (v.qty > 0) rows.push({desc:i.label, customer:i.customer, qty:v.qty, unit:i.unit, rate:v.rate, total:v.qty*v.rate}); });
+  state.customs.forEach(c => { if ((c.qty>0 || c.rate>0) && c.desc) rows.push({desc:c.desc, customer:c.desc, qty:c.qty, unit:'', rate:c.rate, total:c.qty*c.rate}); });
+  return rows;
+}
+function computeTotals(){
+  const rows = collectLineItems();
+  const jobSubtotal = rows.reduce((a,r)=>a+r.total, 0);
+  const inmaFee = jobSubtotal * 0.10;
+  const contractorSubtotal = jobSubtotal - inmaFee;
+  const taxPctNum = parseFloat(state.taxPct);
+  const hasTax = !isNaN(taxPctNum) && taxPctNum > 0;
+  const taxAmount = hasTax ? contractorSubtotal * (taxPctNum/100) : 0;
+  const jobTotal = jobSubtotal + taxAmount;
+  return { rows, jobSubtotal, inmaFee, contractorSubtotal, taxPct: state.taxPct, hasTax, taxAmount, jobTotal, jakeKeeps: inmaFee };
+}
+function renderTotals(){
+  const t = computeTotals();
+  const taxPctVal = escapeAttr(state.taxPct);
+  $('#totalsBox').innerHTML = `
+    <div class="line"><span>Job Subtotal</span><strong id="tJobSub">${fmtMoney(t.jobSubtotal)}</strong></div>
+    <div class="line fee"><span>− INMA Fee (10%)</span><strong id="tFee">−${fmtMoney(t.inmaFee)}</strong></div>
+    <div class="line"><span>Contractor Subtotal</span><strong id="tConSub">${fmtMoney(t.contractorSubtotal)}</strong></div>
+    <div class="line"><span class="tax-inline">Sales Tax <input id="taxPctInput" type="number" inputmode="decimal" step="0.01" placeholder="0.0" value="${taxPctVal}">%</span><strong id="tTax">${t.hasTax ? fmtMoney(t.taxAmount) : '—'}</strong></div>
+    <div class="line big"><span>Job Total</span><strong id="tJobTot">${fmtMoney(t.jobTotal)}</strong></div>
+    <div class="line keeps"><span>Jake Keeps</span><strong id="tKeeps">${fmtMoney(t.jakeKeeps)}</strong></div>
+  `;
+  $('#taxPctInput').addEventListener('input', e => {
+    state.taxPct = e.target.value;
+    const t2 = computeTotals();
+    $('#tTax').textContent = t2.hasTax ? fmtMoney(t2.taxAmount) : '—';
+    $('#tJobTot').textContent = fmtMoney(t2.jobTotal);
+  });
+}
+
+/* ============ SAVE: CUSTOMER + CONTRACTOR ============ */
+function bindSave(){
+  // IMPORTANT: window.open synchronously in click handler (iOS popup gesture)
+  $('#saveCustomerBtn').addEventListener('click', () => {
+    const w = window.open('', '_blank');
+    if (!w){ alert('Pop-up blocked. Allow pop-ups for this site.'); return; }
+    w.document.write('<p style="font-family:sans-serif;padding:20px">Preparing estimate…</p>');
+    const html = buildCustomerHTML();
+    w.document.open(); w.document.write(html); w.document.close();
+  });
+  $('#saveContractorBtn').addEventListener('click', () => {
+    const w = window.open('', '_blank');
+    if (!w){ alert('Pop-up blocked. Allow pop-ups for this site.'); return; }
+    w.document.write('<p style="font-family:sans-serif;padding:20px">Preparing contractor pack…</p>');
+    const html = buildContractorHTML();
+    w.document.open(); w.document.write(html); w.document.close();
+  });
+}
+
+function getJobHeader(){
+  return {
+    owner: $('#ownerName').value.trim() || '—',
+    address: $('#ownerAddress').value.trim() || '—',
+    date: $('#jobDate').value || new Date().toISOString().slice(0,10),
+    num: $('#estimateNum').value.trim() || '—',
+  };
+}
+
+function buildCustomerHTML(){
+  const t = computeTotals();
+  const j = getJobHeader();
+  const rows = t.rows.map(r => `
+    <tr>
+      <td>${escapeHTML(r.customer)}</td>
+      <td class="num">${r.qty.toLocaleString('en-US',{maximumFractionDigits:2})}</td>
+      <td class="num">${escapeHTML(r.unit || '')}</td>
+      <td class="num">${fmtMoney(r.rate)}</td>
+      <td class="num">${fmtMoney(r.total)}</td>
+    </tr>`).join('');
+  const customerSubtotal = t.jobSubtotal;
+  const customerTax = t.taxAmount;
+  const customerTotal = t.jobTotal;
+  return `<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Estimate ${escapeHTML(j.num)} — INMA</title>
+<style>
+  @page{size:letter;margin:0.6in}
+  body{font-family:'Helvetica Neue',Arial,sans-serif;color:#1C1A17;max-width:760px;margin:20px auto;padding:0 24px;line-height:1.5}
+  .letterhead{display:flex;justify-content:space-between;align-items:flex-start;border-bottom:3px solid #B8941F;padding-bottom:14px;margin-bottom:22px}
+  .lh-left .brand{font-size:30px;font-weight:800;color:#B8941F;letter-spacing:2px}
+  .lh-left .tag{font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:#555;margin-top:2px}
+  .lh-left .contact{font-size:13px;margin-top:10px;color:#333}
+  .lh-right{text-align:right;font-size:13px}
+  .lh-right .title{font-size:22px;font-weight:700;letter-spacing:3px;color:#1C1A17;margin-bottom:6px}
+  .lh-right .meta{color:#444}
+  .bill{background:#F5F2ED;border-radius:10px;padding:14px 18px;margin-bottom:20px}
+  .bill .label{font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#777;margin-bottom:4px}
+  .bill .name{font-size:16px;font-weight:700}
+  .bill .addr{font-size:14px;color:#444}
+  table.items{width:100%;border-collapse:collapse;margin-bottom:14px}
+  table.items th{background:#1C1A17;color:#F5F2ED;font-size:11px;letter-spacing:1.5px;text-transform:uppercase;padding:10px 8px;text-align:left;font-weight:600}
+  table.items th.num,table.items td.num{text-align:right}
+  table.items td{padding:12px 8px;border-bottom:1px solid #eee;font-size:13px;vertical-align:top}
+  .totals{margin-left:auto;width:320px;font-size:14px}
+  .totals .r{display:flex;justify-content:space-between;padding:6px 0}
+  .totals .r.tot{border-top:2px solid #1C1A17;margin-top:6px;padding-top:10px;font-weight:700;font-size:17px}
+  .footer-notes{margin-top:30px;font-size:11.5px;color:#555;border-top:1px solid #ddd;padding-top:14px;line-height:1.55}
+  .footer-notes p{margin:6px 0}
+  .pitch{margin-top:18px;background:#F5F2ED;border-left:4px solid #B8941F;padding:12px 14px;font-size:12px;color:#333}
+  .print-btn{position:fixed;top:16px;right:16px;background:#B8941F;color:#1C1A17;border:none;padding:12px 18px;border-radius:8px;font-weight:700;cursor:pointer;font-family:inherit;box-shadow:0 4px 12px rgba(0,0,0,.15)}
+  @media print{.print-btn{display:none}}
+</style></head><body>
+<button class="print-btn" onclick="window.print()">Print / Save PDF</button>
+<div class="letterhead">
+  <div class="lh-left">
+    <div class="brand">INMA</div>
+    <div class="tag">Inland Northwest Marketing Affiliates</div>
+    <div class="contact">Spokane, WA · inmagent.com</div>
+  </div>
+  <div class="lh-right">
+    <div class="title">ESTIMATE</div>
+    <div class="meta"><strong>Date:</strong> ${escapeHTML(j.date)}</div>
+    <div class="meta"><strong>Estimate #:</strong> ${escapeHTML(j.num)}</div>
+  </div>
+</div>
+<div class="bill">
+  <div class="label">Prepared For</div>
+  <div class="name">${escapeHTML(j.owner)}</div>
+  <div class="addr">${escapeHTML(j.address)}</div>
+</div>
+<table class="items">
+  <thead><tr><th>Description</th><th class="num">Qty</th><th class="num">Unit</th><th class="num">Rate</th><th class="num">Total</th></tr></thead>
+  <tbody>${rows || '<tr><td colspan="5" style="text-align:center;color:#999;padding:20px">No line items.</td></tr>'}</tbody>
+</table>
+<div class="totals">
+  <div class="r"><span>Subtotal</span><span>${fmtMoney(customerSubtotal)}</span></div>
+  ${t.hasTax ? `<div class="r"><span>Sales Tax (${escapeHTML(t.taxPct)}%)</span><span>${fmtMoney(customerTax)}</span></div>` : ''}
+  <div class="r tot"><span>Total</span><span>${fmtMoney(customerTotal)}</span></div>
+</div>
+<div class="pitch">
+  INMA connects Inland Northwest homeowners with vetted local contractors. We handle the match, project scope, and accountability so you get quality work at fair-market pricing — no high-pressure national sales teams.
+</div>
+<div class="footer-notes">
+  <p><strong>Included:</strong> Tearoff, haul-away, dump fees, and full site cleanup are included in the quoted price unless noted otherwise.</p>
+  <p><strong>Permits:</strong> Any required permits are billed at-cost on the final invoice.</p>
+  <p><strong>Hidden Conditions:</strong> Rot, damaged sheathing, or other conditions not visible at walk-through are not included in this estimate. Any discovered conditions will be documented with photos and priced as a change order before work proceeds.</p>
+  <p><strong>Validity:</strong> This estimate is valid for 30 days from the date above.</p>
+</div>
+</body></html>`;
+}
+
+function buildContractorHTML(){
+  const t = computeTotals();
+  const j = getJobHeader();
+  const rows = t.rows.map(r => `
+    <tr>
+      <td>${escapeHTML(r.desc)}</td>
+      <td class="num">${r.qty.toLocaleString('en-US',{maximumFractionDigits:2})} ${escapeHTML(r.unit||'')}</td>
+      <td class="num">${fmtMoney(r.rate)}</td>
+      <td class="num">${fmtMoney(r.total)}</td>
+    </tr>`).join('');
+  const photos = state.photos.map(p => `<div class="photo"><img src="${p.dataUrl}" alt=""></div>`).join('');
+  const notes = ($('#scopeNotes').value || '').trim();
+  return `<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Contractor Pack ${escapeHTML(j.num)}</title>
+<style>
+  @page{size:letter;margin:0.5in}
+  body{font-family:'Helvetica Neue',Arial,sans-serif;color:#1C1A17;max-width:820px;margin:20px auto;padding:0 20px;line-height:1.45}
+  .head{background:#1C1A17;color:#F5F2ED;padding:18px 22px;border-radius:10px;margin-bottom:16px}
+  .head .brand{font-size:22px;font-weight:800;color:#B8941F;letter-spacing:2px}
+  .head .title{font-size:14px;margin-top:2px;letter-spacing:1px}
+  .head .warn{font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:#e0c878;margin-top:6px}
+  .jobinfo{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:18px}
+  .jobinfo .cell{background:#F5F2ED;border-radius:8px;padding:10px 12px}
+  .jobinfo .label{font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:#777}
+  .jobinfo .val{font-size:13px;font-weight:600;margin-top:2px}
+  h3{font-size:13px;letter-spacing:2px;text-transform:uppercase;color:#B8941F;margin:18px 0 8px;border-bottom:1px solid #ddd;padding-bottom:4px}
+  .photo-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+  .photo{aspect-ratio:4/3;overflow:hidden;border-radius:6px;border:1px solid #ccc;background:#eee}
+  .photo img{width:100%;height:100%;object-fit:cover;display:block}
+  .notes{background:#F5F2ED;border-radius:8px;padding:12px 14px;font-size:13px;white-space:pre-wrap;line-height:1.5}
+  .notes.empty{color:#999;font-style:italic}
+  table.items{width:100%;border-collapse:collapse;margin-bottom:14px}
+  table.items th{background:#25221d;color:#F5F2ED;font-size:11px;letter-spacing:1px;text-transform:uppercase;padding:8px;text-align:left}
+  table.items th.num,table.items td.num{text-align:right}
+  table.items td{padding:9px 8px;border-bottom:1px solid #eee;font-size:12.5px}
+  .totals{margin-left:auto;width:320px;font-size:13px;margin-top:8px}
+  .totals .r{display:flex;justify-content:space-between;padding:5px 0}
+  .totals .r.sep{border-top:1px dashed #aaa;margin-top:4px;padding-top:8px}
+  .totals .r.tot{border-top:2px solid #1C1A17;margin-top:6px;padding-top:8px;font-weight:700;font-size:15px}
+  .totals .r.fee{color:#8a6d0f}
+  .totals .r.keeps{color:#2a6b3a;font-weight:700;margin-top:8px;border-top:2px solid #2a6b3a;padding-top:8px}
+  .foot{margin-top:20px;font-size:11.5px;color:#555;background:#F5F2ED;padding:12px 14px;border-radius:8px;line-height:1.55}
+  .print-btn{position:fixed;top:16px;right:16px;background:#B8941F;color:#1C1A17;border:none;padding:12px 18px;border-radius:8px;font-weight:700;cursor:pointer;font-family:inherit;box-shadow:0 4px 12px rgba(0,0,0,.15)}
+  @media print{.print-btn{display:none}}
+</style></head><body>
+<button class="print-btn" onclick="window.print()">Print / Save PDF</button>
+<div class="head">
+  <div class="brand">INMA — Contractor Pack</div>
+  <div class="title">Job handoff package</div>
+  <div class="warn">⚠ Internal Use — Not for Homeowner</div>
+</div>
+<div class="jobinfo">
+  <div class="cell"><div class="label">Homeowner</div><div class="val">${escapeHTML(j.owner)}</div></div>
+  <div class="cell"><div class="label">Address</div><div class="val">${escapeHTML(j.address)}</div></div>
+  <div class="cell"><div class="label">Date</div><div class="val">${escapeHTML(j.date)}</div></div>
+  <div class="cell"><div class="label">Estimate #</div><div class="val">${escapeHTML(j.num)}</div></div>
+</div>
+${photos ? `<h3>Site Photos</h3><div class="photo-grid">${photos}</div>` : ''}
+<h3>Scope Notes (Jake)</h3>
+<div class="notes ${notes ? '' : 'empty'}">${notes ? escapeHTML(notes) : '(no notes entered)'}</div>
+${state.aiNotes ? `<h3>AI Observations</h3><div class="notes">${escapeHTML(state.aiNotes)}</div>` : ''}
+<h3>Line Items</h3>
+<table class="items">
+  <thead><tr><th>Description</th><th class="num">Quantity</th><th class="num">Rate</th><th class="num">Line Total</th></tr></thead>
+  <tbody>${rows || '<tr><td colspan="4" style="text-align:center;color:#999;padding:18px">No line items.</td></tr>'}</tbody>
+</table>
+<div class="totals">
+  <div class="r"><span>Job Subtotal</span><span>${fmtMoney(t.jobSubtotal)}</span></div>
+  <div class="r fee"><span>− INMA Fee (10%)</span><span>−${fmtMoney(t.inmaFee)}</span></div>
+  <div class="r sep"><span>Contractor Subtotal</span><span>${fmtMoney(t.contractorSubtotal)}</span></div>
+  <div class="r"><span>Sales Tax${t.hasTax ? ' ('+escapeHTML(t.taxPct)+'%)' : ''}</span><span>${t.hasTax ? fmtMoney(t.taxAmount) : '—'}</span></div>
+  <div class="r tot"><span>Job Total</span><span>${fmtMoney(t.jobTotal)}</span></div>
+  <div class="r keeps"><span>Jake Keeps (INMA Fee)</span><span>${fmtMoney(t.jakeKeeps)}</span></div>
+</div>
+<div class="foot">
+  <strong>Contractor Notes:</strong><br>
+  · Material quote to be attached separately.<br>
+  · Contractor to verify all measurements before bidding.<br>
+  · INMA fee is pre-tax and withdrawn from project subtotal; contractor invoices the net amount.
+</div>
+</body></html>`;
+}
 </script>
 </body>
 </html>
