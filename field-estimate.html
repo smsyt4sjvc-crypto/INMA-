@@ -181,7 +181,6 @@
 const SIDING_ITEMS = [
   {k:'primed_hardie', label:'Primed Hardie B&B', unit:'SF', rate:12.50, customer:'Provide and install Hardie primed lap siding (B&B profile)'},
   {k:'colorplus',     label:'ColorPlus Hardie',   unit:'SF', rate:19.00, customer:'Provide and install Hardie ColorPlus pre-finished lap siding'},
-  {k:'lap',           label:'Lap Siding (Gables)',unit:'SF', rate:12.50, customer:'Provide and install Hardie lap siding — gable areas'},
   {k:'soffit',        label:'Aluminum Soffit',    unit:'LF', rate:13.00, customer:'Provide and install aluminum center-vent soffit'},
   {k:'fascia',        label:'Aluminum Fascia',    unit:'LF', rate:8.50,  customer:'Provide and install aluminum fascia (includes 1x4 build-out to flush)'},
   {k:'wrap',          label:'Post / Beam Wrap',   unit:'LF', rate:12.00, customer:'T&M — post and beam wrap (material TBD with homeowner)'},
@@ -381,7 +380,6 @@ function applyAIEstimate(est){
   const s = est.siding || {};
   setQty('siding','primed_hardie', s.primed_hardie_qty);
   setQty('siding','colorplus',     s.colorplus_qty);
-  setQty('siding','lap',           s.lap_qty);
   setQty('siding','soffit',        s.soffit_qty);
   setQty('siding','fascia',        s.fascia_qty);
   setQty('siding','wrap',          s.wrap_qty);
