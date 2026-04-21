@@ -33,9 +33,8 @@ header { width:100%; background:#2C2A27; padding:14px 32px; display:flex; align-
 .start-btn:hover { background:#B8941F; }
 .again-btn { background:rgba(255,255,255,0.08); color:#F5F2ED; padding:10px 24px; border:1px solid rgba(255,255,255,0.15); border-radius:8px; font-family:'Outfit',sans-serif; font-size:0.88rem; cursor:pointer; margin-top:10px; display:inline-block; text-decoration:none; }
 .mobile-controls { display:none; gap:10px; margin-top:14px; width:100%; max-width:460px; }
-@media (max-width:600px) { .mobile-controls { display:flex; } }
-.ctrl-btn { background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.12); color:#F5F2ED; padding:18px; border-radius:8px; font-size:1.3rem; cursor:pointer; user-select:none; touch-action:none; flex:1; text-align:center; -webkit-tap-highlight-color:transparent; }
-.ctrl-btn.fire { background:rgba(139,105,20,0.2); border-color:rgba(184,148,31,0.35); color:#B8941F; font-size:0.9rem; font-weight:700; flex:1.4; }
+@media (hover:none) and (pointer:coarse) { .mobile-controls { display:flex; } }
+.ctrl-btn { background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.12); color:#F5F2ED; padding:22px; border-radius:8px; font-size:1.6rem; cursor:pointer; user-select:none; touch-action:none; flex:1; text-align:center; -webkit-tap-highlight-color:transparent; }
 .hint { margin-top:14px; font-size:0.72rem; color:rgba(245,242,237,0.25); text-align:center; }
 .sound-toggle { position:absolute; top:8px; right:8px; z-index:3; background:rgba(10,19,13,0.8); border:1px solid rgba(184,148,31,0.35); color:#B8941F; width:36px; height:36px; border-radius:50%; cursor:pointer; font-size:16px; display:flex; align-items:center; justify-content:center; padding:0; line-height:1; transition:background 0.15s; }
 .sound-toggle:hover { background:rgba(184,148,31,0.2); }
@@ -67,14 +66,13 @@ header { width:100%; background:#2C2A27; padding:14px 32px; display:flex; align-
     <div id="overlay">
       <h2>Defend Your Home</h2>
       <p>Spokane's weather — summer heat, winter ice, freeze-thaw cycles — damages your home year round. Shoot 25 threats in 60 seconds to win <strong style="color:#B8941F;">10% off</strong> a Home Tune-Up.</p>
-      <p style="font-size:0.78rem;color:rgba(245,242,237,0.3);margin-bottom:20px;">Arrow keys to move &bull; Spacebar to shoot &bull; One attempt per day</p>
+      <p style="font-size:0.78rem;color:rgba(245,242,237,0.3);margin-bottom:20px;">Arrow keys to move &bull; Auto-fire &bull; One attempt per day</p>
       <button class="start-btn" id="startBtn">Start Game</button>
     </div>
   </div>
 
   <div class="mobile-controls">
     <button class="ctrl-btn" id="leftBtn">◀</button>
-    <button class="ctrl-btn fire" id="shootBtn">FIRE</button>
     <button class="ctrl-btn" id="rightBtn">▶</button>
   </div>
   <p class="hint">Arrow keys + Spacebar &nbsp;|&nbsp; Mobile: buttons above</p>
@@ -90,10 +88,10 @@ const GAME_TIME = 60;
 let state = 'idle';
 let score = 0, lives = 3, timeLeft = GAME_TIME;
 let player, bullets, asteroids, particles;
-let shootCooldown = 0, spawnTimer = 0, spawnRate = 62;
+let shootCooldown = 0, spawnTimer = 0, spawnRate = 40;
 let animId, timerInterval;
 const keys = {};
-let mLeft = false, mRight = false, mShoot = false;
+let mLeft = false, mRight = false;
 
 // Spokane year-round climate damage labels
 const LABELS = ['ice','heat','UV','rain','rot','draft','freeze','rust','wind','mold'];
@@ -142,8 +140,8 @@ function makeAsteroid() {
   });
   return {
     x: r+Math.random()*(W-r*2), y:-r, r,
-    vx:(Math.random()-.5)*1.8,
-    vy: 1.4+Math.random()*2.0,
+    vx:(Math.random()-.5)*2.2,
+    vy: 1.9+Math.random()*2.5,
     rot:0, rs:(Math.random()-.5)*0.04,
     label, color:COLORS[label], verts
   };
@@ -235,9 +233,10 @@ function loop() {
   const spd = 5;
   if(keys['ArrowLeft']||keys['a']||mLeft) player.x=Math.max(18,player.x-spd);
   if(keys['ArrowRight']||keys['d']||mRight) player.x=Math.min(W-18,player.x+spd);
-  if((keys[' ']||keys['ArrowUp']||mShoot) && shootCooldown<=0) {
+  // Auto-fire — always shoot on cooldown
+  if(shootCooldown<=0) {
     bullets.push({x:player.x, y:player.y-22, vy:-9});
-    shootCooldown=14;
+    shootCooldown=12;
     audio.shoot();
   }
   if(shootCooldown>0) shootCooldown--;
@@ -246,7 +245,7 @@ function loop() {
   if(++spawnTimer >= spawnRate) {
     asteroids.push(makeAsteroid());
     spawnTimer=0;
-    spawnRate=Math.max(20, spawnRate-1.0);
+    spawnRate=Math.max(12, spawnRate-1.3);
   }
 
   bullets=bullets.filter(b=>b.y>-10);
@@ -458,7 +457,6 @@ function mBtn(id,set){
 }
 mBtn('leftBtn',v=>mLeft=v);
 mBtn('rightBtn',v=>mRight=v);
-mBtn('shootBtn',v=>mShoot=v);
 </script>
 </body>
 </html>
