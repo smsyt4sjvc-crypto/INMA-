@@ -66,7 +66,7 @@ header { width:100%; background:#2C2A27; padding:14px 32px; display:flex; align-
     <div id="overlay">
       <h2>Defend Your Home</h2>
       <p>Spokane's weather — summer heat, winter ice, freeze-thaw cycles — damages your home year round. Shoot 25 threats in 60 seconds to win <strong style="color:#B8941F;">10% off</strong> a Home Tune-Up.</p>
-      <p style="font-size:0.78rem;color:rgba(245,242,237,0.3);margin-bottom:20px;">Arrow keys to move &bull; Auto-fire &bull; One attempt per day</p>
+      <p style="font-size:0.78rem;color:rgba(245,242,237,0.3);margin-bottom:20px;">Arrow keys to move &bull; Auto-fire</p>
       <button class="start-btn" id="startBtn">Start Game</button>
     </div>
   </div>
@@ -101,9 +101,9 @@ const COLORS = {
   freeze:'#5B8AA8', rust:'#8B3A2A', wind:'#9A9A7A', mold:'#4A6741'
 };
 
-// One play per day via localStorage
+// One play per day via localStorage (disabled during testing)
 function canPlay() {
-  return localStorage.getItem('inma_game_date') !== new Date().toDateString();
+  return true;
 }
 function recordPlay() {
   localStorage.setItem('inma_game_date', new Date().toDateString());
