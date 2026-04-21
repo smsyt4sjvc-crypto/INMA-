@@ -37,6 +37,9 @@ header { width:100%; background:#2C2A27; padding:14px 32px; display:flex; align-
 .ctrl-btn { background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.12); color:#F5F2ED; padding:18px; border-radius:8px; font-size:1.3rem; cursor:pointer; user-select:none; touch-action:none; flex:1; text-align:center; -webkit-tap-highlight-color:transparent; }
 .ctrl-btn.fire { background:rgba(139,105,20,0.2); border-color:rgba(184,148,31,0.35); color:#B8941F; font-size:0.9rem; font-weight:700; flex:1.4; }
 .hint { margin-top:14px; font-size:0.72rem; color:rgba(245,242,237,0.25); text-align:center; }
+.sound-toggle { position:absolute; top:8px; right:8px; z-index:3; background:rgba(10,19,13,0.8); border:1px solid rgba(184,148,31,0.35); color:#B8941F; width:36px; height:36px; border-radius:50%; cursor:pointer; font-size:16px; display:flex; align-items:center; justify-content:center; padding:0; line-height:1; transition:background 0.15s; }
+.sound-toggle:hover { background:rgba(184,148,31,0.2); }
+.sound-toggle.muted { color:rgba(245,242,237,0.35); border-color:rgba(245,242,237,0.15); }
 </style>
 </head>
 <body>
@@ -59,6 +62,7 @@ header { width:100%; background:#2C2A27; padding:14px 32px; display:flex; align-
   </div>
 
   <div class="canvas-container">
+    <button id="soundToggle" class="sound-toggle" aria-label="Toggle sound" title="Toggle sound">♪</button>
     <canvas id="gameCanvas" width="460" height="500"></canvas>
     <div id="overlay">
       <h2>Defend Your Home</h2>
@@ -183,6 +187,7 @@ function showOverlay(html) {
 
 function winGame() {
   state='won'; cancelAnimationFrame(animId); clearInterval(timerInterval);
+  audio.win();
   showOverlay(`
     <h2 style="color:#B8941F;">You Win!</h2>
     <p>You defended your home against Spokane's climate. Show this to Jake when you book your Home Tune-Up.</p>
@@ -196,6 +201,7 @@ function winGame() {
 
 function loseGame(reason) {
   state='dead'; cancelAnimationFrame(animId); clearInterval(timerInterval);
+  audio.lose();
   const msg = reason === 'time'
     ? "Time's up. Your home took damage you didn't catch."
     : "Your home took too much damage.";
@@ -232,6 +238,7 @@ function loop() {
   if((keys[' ']||keys['ArrowUp']||mShoot) && shootCooldown<=0) {
     bullets.push({x:player.x, y:player.y-22, vy:-9});
     shootCooldown=14;
+    audio.shoot();
   }
   if(shootCooldown>0) shootCooldown--;
   if(player.inv>0) player.inv--;
@@ -260,6 +267,7 @@ function loop() {
         burst(a.x,a.y,a.color);
         asteroids.splice(ai,1); bullets.splice(bi,1);
         score++; updateHUD();
+        audio.hit();
         if(score>=WIN_SCORE){winGame();return;}
         break;
       }
@@ -274,6 +282,7 @@ function loop() {
         burst(a.x,a.y,'#C0392B');
         asteroids.splice(ai,1);
         lives--; player.inv=100; updateHUD();
+        audio.hurt();
         if(lives<=0){loseGame('hits');return;}
       }
     }
@@ -302,6 +311,7 @@ function startGame() {
   recordPlay();
   init(); state='playing';
   document.getElementById('overlay').style.display='none';
+  audio.ready(); audio.resume(); audio.startMusic();
 
   timerInterval = setInterval(()=>{
     if(state !== 'playing') return;
@@ -312,6 +322,130 @@ function startGame() {
 
   animId=requestAnimationFrame(loop);
 }
+
+/* ============ 80s CHIPTUNE AUDIO ENGINE ============ */
+const audio = {
+  ctx: null, master: null, musicNode: null, musicTimer: null,
+  muted: (localStorage.getItem('inma_game_muted') === '1'),
+  ready(){
+    if (this.ctx) return true;
+    try {
+      this.ctx = new (window.AudioContext || window.webkitAudioContext)();
+      this.master = this.ctx.createGain();
+      this.master.gain.value = this.muted ? 0 : 0.25;
+      this.master.connect(this.ctx.destination);
+      return true;
+    } catch(e){ return false; }
+  },
+  resume(){ if (this.ctx && this.ctx.state === 'suspended') this.ctx.resume(); },
+  setMuted(m){
+    this.muted = m;
+    localStorage.setItem('inma_game_muted', m ? '1' : '0');
+    if (this.master) this.master.gain.setTargetAtTime(m ? 0 : 0.25, this.ctx.currentTime, 0.02);
+  },
+  // Quick arcade "pew" — descending square blip
+  shoot(){
+    if (!this.ready() || this.muted) return;
+    const t = this.ctx.currentTime;
+    const o = this.ctx.createOscillator(), g = this.ctx.createGain();
+    o.type = 'square'; o.frequency.setValueAtTime(880, t); o.frequency.exponentialRampToValueAtTime(220, t + 0.08);
+    g.gain.setValueAtTime(0.18, t); g.gain.exponentialRampToValueAtTime(0.001, t + 0.09);
+    o.connect(g); g.connect(this.master); o.start(t); o.stop(t + 0.1);
+  },
+  // Explosion — noise burst
+  hit(){
+    if (!this.ready() || this.muted) return;
+    const t = this.ctx.currentTime;
+    const buf = this.ctx.createBuffer(1, this.ctx.sampleRate * 0.18, this.ctx.sampleRate);
+    const d = buf.getChannelData(0);
+    for (let i = 0; i < d.length; i++) d[i] = (Math.random()*2 - 1) * Math.pow(1 - i/d.length, 2);
+    const src = this.ctx.createBufferSource(), g = this.ctx.createGain(), flt = this.ctx.createBiquadFilter();
+    flt.type = 'lowpass'; flt.frequency.value = 1200;
+    src.buffer = buf; g.gain.value = 0.35;
+    src.connect(flt); flt.connect(g); g.connect(this.master); src.start(t);
+  },
+  // Player takes damage — low buzz
+  hurt(){
+    if (!this.ready() || this.muted) return;
+    const t = this.ctx.currentTime;
+    const o = this.ctx.createOscillator(), g = this.ctx.createGain();
+    o.type = 'sawtooth'; o.frequency.setValueAtTime(180, t); o.frequency.linearRampToValueAtTime(90, t + 0.3);
+    g.gain.setValueAtTime(0.28, t); g.gain.exponentialRampToValueAtTime(0.001, t + 0.32);
+    o.connect(g); g.connect(this.master); o.start(t); o.stop(t + 0.34);
+  },
+  // Triumphant arpeggio
+  win(){
+    if (!this.ready() || this.muted) return;
+    this.stopMusic();
+    const t0 = this.ctx.currentTime;
+    const notes = [523.25, 659.25, 783.99, 1046.50, 1318.51]; // C E G C E
+    notes.forEach((f, i) => {
+      const o = this.ctx.createOscillator(), g = this.ctx.createGain();
+      o.type = 'square'; o.frequency.value = f;
+      const t = t0 + i*0.12;
+      g.gain.setValueAtTime(0.22, t); g.gain.exponentialRampToValueAtTime(0.001, t + 0.18);
+      o.connect(g); g.connect(this.master); o.start(t); o.stop(t + 0.2);
+    });
+  },
+  // Sad descending drone
+  lose(){
+    if (!this.ready() || this.muted) return;
+    this.stopMusic();
+    const t = this.ctx.currentTime;
+    const o = this.ctx.createOscillator(), g = this.ctx.createGain();
+    o.type = 'sawtooth'; o.frequency.setValueAtTime(220, t); o.frequency.linearRampToValueAtTime(55, t + 0.9);
+    g.gain.setValueAtTime(0.3, t); g.gain.exponentialRampToValueAtTime(0.001, t + 1.0);
+    o.connect(g); g.connect(this.master); o.start(t); o.stop(t + 1.05);
+  },
+  // Looping chiptune — square-wave bassline + simple arpeggio over the top
+  startMusic(){
+    if (!this.ready() || this.muted || this.musicTimer) return;
+    // A minor pentatonic bassline + melody, 8th notes at 140 BPM
+    const BPM = 140, step = 60 / BPM / 2; // 8th note
+    const bass = [110, 110, 146.83, 164.81, 164.81, 146.83, 110, 98]; // A A D E E D A G
+    const mel  = [440, 0, 523.25, 0, 659.25, 587.33, 523.25, 0];       // A _ C _ E D C _
+    let i = 0;
+    const playStep = () => {
+      if (!this.ctx || this.muted) return;
+      const t = this.ctx.currentTime;
+      // Bass
+      const bf = bass[i % bass.length];
+      if (bf > 0) {
+        const o = this.ctx.createOscillator(), g = this.ctx.createGain();
+        o.type = 'triangle'; o.frequency.value = bf;
+        g.gain.setValueAtTime(0.12, t); g.gain.exponentialRampToValueAtTime(0.001, t + step * 0.9);
+        o.connect(g); g.connect(this.master); o.start(t); o.stop(t + step);
+      }
+      // Melody
+      const mf = mel[i % mel.length];
+      if (mf > 0) {
+        const o = this.ctx.createOscillator(), g = this.ctx.createGain();
+        o.type = 'square'; o.frequency.value = mf;
+        g.gain.setValueAtTime(0.06, t); g.gain.exponentialRampToValueAtTime(0.001, t + step * 0.85);
+        o.connect(g); g.connect(this.master); o.start(t); o.stop(t + step);
+      }
+      i++;
+    };
+    playStep();
+    this.musicTimer = setInterval(playStep, step * 1000);
+  },
+  stopMusic(){ if (this.musicTimer){ clearInterval(this.musicTimer); this.musicTimer = null; } },
+};
+
+// Mute toggle UI
+(function initSoundToggle(){
+  const btn = document.getElementById('soundToggle');
+  if (!btn) return;
+  const render = () => { btn.textContent = audio.muted ? '🔇' : '♪'; btn.classList.toggle('muted', audio.muted); };
+  render();
+  btn.addEventListener('click', ()=>{
+    audio.ready(); audio.resume();
+    audio.setMuted(!audio.muted);
+    if (audio.muted) audio.stopMusic();
+    else if (typeof state !== 'undefined' && state === 'playing') audio.startMusic();
+    render();
+  });
+})();
 
 document.addEventListener('keydown',e=>{keys[e.key]=true;if(e.key===' ')e.preventDefault();});
 document.addEventListener('keyup',e=>{keys[e.key]=false;});
