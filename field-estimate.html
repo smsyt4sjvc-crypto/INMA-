@@ -534,9 +534,11 @@ function buildCustomerHTML(){
   .footer-notes{margin-top:30px;font-size:11.5px;color:#555;border-top:1px solid #ddd;padding-top:14px;line-height:1.55}
   .footer-notes p{margin:6px 0}
   .pitch{margin-top:18px;background:#F5F2ED;border-left:4px solid #B8941F;padding:12px 14px;font-size:12px;color:#333}
-  .print-btn{position:fixed;top:16px;right:16px;background:#B8941F;color:#1C1A17;border:none;padding:12px 18px;border-radius:8px;font-weight:700;cursor:pointer;font-family:inherit;box-shadow:0 4px 12px rgba(0,0,0,.15)}
-  @media print{.print-btn{display:none}}
+  .print-btn{position:fixed;top:16px;right:16px;background:#B8941F;color:#1C1A17;border:none;padding:12px 18px;border-radius:8px;font-weight:700;cursor:pointer;font-family:inherit;box-shadow:0 4px 12px rgba(0,0,0,.15);z-index:10}
+  .back-btn{position:fixed;top:16px;left:16px;background:#1C1A17;color:#F5F2ED;border:none;padding:12px 18px;border-radius:8px;font-weight:700;cursor:pointer;font-family:inherit;box-shadow:0 4px 12px rgba(0,0,0,.15);z-index:10;display:inline-flex;align-items:center;gap:6px}
+  @media print{.print-btn,.back-btn{display:none}}
 </style></head><body>
+<button class="back-btn" onclick="try{window.close();}catch(e){} setTimeout(function(){if(!window.closed){window.location.href='/field-estimate.html';}},150);">← Back to Estimator</button>
 <button class="print-btn" onclick="window.print()">Print / Save PDF</button>
 <div class="letterhead">
   <div class="lh-left">
@@ -617,9 +619,11 @@ function buildContractorHTML(){
   .totals .r.fee{color:#8a6d0f}
   .totals .r.keeps{color:#2a6b3a;font-weight:700;margin-top:8px;border-top:2px solid #2a6b3a;padding-top:8px}
   .foot{margin-top:20px;font-size:11.5px;color:#555;background:#F5F2ED;padding:12px 14px;border-radius:8px;line-height:1.55}
-  .print-btn{position:fixed;top:16px;right:16px;background:#B8941F;color:#1C1A17;border:none;padding:12px 18px;border-radius:8px;font-weight:700;cursor:pointer;font-family:inherit;box-shadow:0 4px 12px rgba(0,0,0,.15)}
-  @media print{.print-btn{display:none}}
+  .print-btn{position:fixed;top:16px;right:16px;background:#B8941F;color:#1C1A17;border:none;padding:12px 18px;border-radius:8px;font-weight:700;cursor:pointer;font-family:inherit;box-shadow:0 4px 12px rgba(0,0,0,.15);z-index:10}
+  .back-btn{position:fixed;top:16px;left:16px;background:#1C1A17;color:#F5F2ED;border:none;padding:12px 18px;border-radius:8px;font-weight:700;cursor:pointer;font-family:inherit;box-shadow:0 4px 12px rgba(0,0,0,.15);z-index:10;display:inline-flex;align-items:center;gap:6px}
+  @media print{.print-btn,.back-btn{display:none}}
 </style></head><body>
+<button class="back-btn" onclick="try{window.close();}catch(e){} setTimeout(function(){if(!window.closed){window.location.href='/field-estimate.html';}},150);">← Back to Estimator</button>
 <button class="print-btn" onclick="window.print()">Print / Save PDF</button>
 <div class="head">
   <div class="brand">INMA — Contractor Pack</div>
