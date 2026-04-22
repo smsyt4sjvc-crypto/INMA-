@@ -77,8 +77,7 @@ OUTPUT — respond with ONE JSON object and nothing else. No prose outside the J
   "material_list": "Plain-text bulleted material list compiled from Jake's notes — counts of light blocks, gable vents, hose bib blocks, corners, window trim style, etc. One item per line with leading '· '. Leave blank if nothing called out.",
   "line_items": [
     {
-      "desc_customer": "Customer-friendly line description",
-      "desc_contractor": "Technical line description (can match desc_customer)",
+      "desc": "Line description — clear, professional, works for homeowner and contractor alike",
       "qty": 0,
       "unit": "SF" ,
       "rate": 0
@@ -87,7 +86,7 @@ OUTPUT — respond with ONE JSON object and nothing else. No prose outside the J
 }
 
 Rules:
-- Every line_item has qty (number), unit (SF / LF / EA), rate (number), and both descriptions.
+- Every line_item has qty (number), unit (SF / LF / EA), rate (number), and desc (string).
 - Anchor rates to the FMV card above, upper end.
 - If a quantity isn't clear from photos/notes, use your best conservative estimate and mention it in contractor_scope — Jake can adjust.
 - No trailing commentary. JSON only.`

@@ -526,8 +526,7 @@ async function doGenerate(isRegen){
     state.materialList = est.material_list || '';
     state.previewLines = Array.isArray(est.line_items) ? est.line_items.map(li => ({
       id: uid(),
-      desc: li.desc_customer || li.desc_contractor || li.desc || '',
-      descContractor: li.desc_contractor || li.desc_customer || li.desc || '',
+      desc: li.desc || li.desc_customer || li.desc_contractor || '',
       qty: Number(li.qty)||0,
       unit: li.unit || '',
       rate: Number(li.rate)||0
@@ -764,7 +763,7 @@ function buildContractorHTML(){
   const j = getJobHeader();
   const rows = t.rows.map(r => `
     <tr>
-      <td>${escapeText(r.descContractor || r.desc)}</td>
+      <td>${escapeText(r.desc)}</td>
       <td align="right">${r.qty.toLocaleString('en-US',{maximumFractionDigits:2})} ${escapeText(r.unit||'')}</td>
       <td align="right">${fmtMoney(r.rate)}</td>
       <td align="right">${fmtMoney(r.total)}</td>
