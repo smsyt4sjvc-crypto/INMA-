@@ -37,7 +37,6 @@
   .row-3{display:grid;grid-template-columns:2fr 1fr 1fr;gap:10px;align-items:end}
   .row-4{display:grid;grid-template-columns:2fr 1fr 1fr auto;gap:10px;align-items:end}
   .line-item{background:#1C1A17;border:1px solid #3a352e;border-radius:14px;padding:14px;margin-bottom:10px}
-  .line-item.ai-line{border-color:#B8941F;box-shadow:inset 0 0 0 1px rgba(184,148,31,.25)}
   .line-item .name{font-size:13px;font-weight:600;margin-bottom:8px;color:#F5F2ED}
   .line-item .unit{font-size:11px;opacity:.5;text-transform:uppercase;letter-spacing:1px}
   .qty-rate{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:8px}
@@ -62,12 +61,6 @@
   .photo-add{aspect-ratio:1;border:2px dashed #3a352e;border-radius:10px;display:flex;align-items:center;justify-content:center;cursor:pointer;color:#B8941F;font-size:32px;font-weight:300;transition:border-color .2s;background:transparent}
   .photo-add:hover{border-color:#B8941F}
   .photo-add input{display:none}
-  .ai-box{background:rgba(60,120,70,.15);border:1px solid #3a7848;border-radius:12px;padding:14px;margin-top:12px;display:none}
-  .ai-box.show{display:block}
-  .ai-box .label{font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:#7cc490;font-weight:600;margin-bottom:6px}
-  .ai-box .text{font-size:14px;line-height:1.5;color:#F5F2ED;white-space:pre-wrap}
-  .ai-btn-wrap{margin-top:16px;display:flex;flex-direction:column;gap:8px}
-  .ai-btn-wrap .hint{font-size:12px;opacity:.55;text-align:center}
   .totals{background:#1C1A17;border:1px solid #3a352e;border-radius:14px;padding:20px;margin-top:6px;font-size:16px}
   .totals .line{display:flex;justify-content:space-between;padding:8px 0;border-bottom:1px dashed #3a352e}
   .totals .line:last-child{border-bottom:none}
@@ -120,18 +113,13 @@
           <label class="photo-add" id="photoAddBtn">+<input type="file" id="photoInput" accept="image/*" multiple capture="environment"></label>
         </div>
         <div class="field" style="margin-top:18px"><label>Scope Notes</label><textarea id="scopeNotes" placeholder="E.g. Full siding tearoff and replace with ColorPlus. 8 windows on main level, all medium. Gable ends lap siding..."></textarea></div>
-        <div class="ai-btn-wrap">
-          <button class="btn-primary" id="analyzeBtn" type="button">Analyze with AI</button>
-          <div class="hint">Claude will read the photos + notes and prefill quantities.</div>
-        </div>
-        <div class="ai-box" id="aiBox"><div class="label">AI Summary</div><div class="text" id="aiText"></div></div>
       </div>
     </section>
 
     <section class="step" data-step="3">
       <div class="card">
         <h2>Siding</h2>
-        <p class="sub">Add lines as needed. Or use AI prefill on the previous step.</p>
+        <p class="sub">Add lines as needed.</p>
         <div id="sidingLines"></div>
         <button class="btn-add" data-add="siding" type="button">+ Add Siding Line</button>
       </div>
@@ -179,31 +167,10 @@
 
 <script>
 /* ============ DATA MODEL ============ */
-const AI_LABELS = {
-  siding: {
-    primed_hardie: 'Primed Hardie B&B',
-    colorplus:     'ColorPlus Hardie',
-    soffit:        'Aluminum Soffit',
-    fascia:        'Aluminum Fascia',
-    wrap:          'Post / Beam Wrap',
-    tearoff:       'Tearoff / Dump / Cleanup'
-  },
-  windows: {
-    small:  'Window — Small (≤20 SF)',
-    medium: 'Window — Medium (21–40 SF)',
-    large:  'Window — Large (>40 SF)'
-  },
-  trim: {
-    interior: 'Interior Trim',
-    exterior: 'Exterior Trim / Belly Band'
-  }
-};
-
 const state = {
   step: 1,
   photos: [],            // {dataUrl, name, type}
-  aiNotes: '',
-  siding:  [],           // [{id, desc, qty, rate, ai}]
+  siding:  [],           // [{id, desc, qty, rate}]
   windows: [],
   trim:    [],
   taxPct: '',
@@ -223,7 +190,6 @@ document.addEventListener('DOMContentLoaded', ()=>{
   renderGroup('trim');
   bindCoreInputs();
   bindPhotoUpload();
-  bindAnalyze();
   bindAddButtons();
   bindNav();
   bindSave();
@@ -278,7 +244,7 @@ const GROUP_HOST = { siding:'#sidingLines', windows:'#windowLines', trim:'#trimL
 function renderGroup(group){
   const host = $(GROUP_HOST[group]);
   host.innerHTML = state[group].map(line => `
-    <div class="line-item ${line.ai ? 'ai-line' : ''}" data-id="${line.id}">
+    <div class="line-item" data-id="${line.id}">
       <div class="row-4">
         <div><div class="mini-label">Description</div><input type="text" data-f="desc" value="${escapeAttr(line.desc)}" placeholder="E.g. ColorPlus Hardie"></div>
         <div><div class="mini-label">Qty</div><input type="number" inputmode="decimal" step="0.01" data-f="qty" value="${line.qty||''}" placeholder="0"></div>
@@ -313,8 +279,8 @@ function bindAddButtons(){
   });
 }
 
-function addLine(group, desc, qty, rate, ai=false){
-  state[group].push({ id: 'L'+Date.now()+Math.random().toString(36).slice(2,6), desc, qty, rate, ai });
+function addLine(group, desc, qty, rate){
+  state[group].push({ id: 'L'+Date.now()+Math.random().toString(36).slice(2,6), desc, qty, rate });
 }
 
 /* ============ PHOTOS ============ */
@@ -350,74 +316,6 @@ function renderPhotos(){
     grid.insertBefore(tile, add);
   });
   add.style.display = state.photos.length >= 8 ? 'none' : 'flex';
-}
-
-/* ============ AI ANALYZE ============ */
-function bindAnalyze(){
-  $('#analyzeBtn').addEventListener('click', analyze);
-}
-async function analyze(){
-  const btn = $('#analyzeBtn');
-  const notes = $('#scopeNotes').value.trim();
-  if (!state.photos.length && !notes){
-    alert('Add at least one photo or some scope notes first.');
-    return;
-  }
-  btn.disabled = true;
-  btn.textContent = 'Analyzing…';
-  try {
-    const images = state.photos.map(p => ({
-      mediaType: p.type || 'image/jpeg',
-      base64: p.dataUrl.split(',')[1]
-    }));
-    const res = await fetch('https://inma-five.vercel.app/api/generate-estimate', {
-      method: 'POST',
-      headers: {'Content-Type':'application/json'},
-      body: JSON.stringify({ images, notes })
-    });
-    const data = await res.json();
-    if (!data.estimate) throw new Error('No estimate returned');
-    applyAIEstimate(data.estimate);
-    btn.textContent = 'Re-analyze with AI';
-  } catch (err) {
-    console.error(err);
-    alert('AI analyze failed. Fill in quantities manually.\n\n' + (err.message || err));
-    btn.textContent = 'Analyze with AI';
-  } finally {
-    btn.disabled = false;
-  }
-}
-function applyAIEstimate(est){
-  // Replace any prior AI-generated lines so re-analyze doesn't pile up duplicates.
-  ['siding','windows','trim'].forEach(g => { state[g] = state[g].filter(l => !l.ai); });
-
-  const pushIfQty = (group, key, qty, rate) => {
-    const n = parseFloat(qty);
-    if (!n || n <= 0) return;
-    addLine(group, AI_LABELS[group][key] || key, n, parseFloat(rate)||0, true);
-  };
-  const s = est.siding || {};
-  pushIfQty('siding','primed_hardie', s.primed_hardie_qty, s.primed_hardie_rate);
-  pushIfQty('siding','colorplus',     s.colorplus_qty,     s.colorplus_rate);
-  pushIfQty('siding','soffit',        s.soffit_qty,        s.soffit_rate);
-  pushIfQty('siding','fascia',        s.fascia_qty,        s.fascia_rate);
-  pushIfQty('siding','wrap',          s.wrap_qty,          s.wrap_rate);
-  pushIfQty('siding','tearoff',       s.tearoff_qty,       s.tearoff_rate);
-  const w = est.windows || {};
-  pushIfQty('windows','small',  w.small_qty,  w.small_rate);
-  pushIfQty('windows','medium', w.medium_qty, w.medium_rate);
-  pushIfQty('windows','large',  w.large_qty,  w.large_rate);
-  const t = est.trim || {};
-  pushIfQty('trim','interior', t.interior_qty, t.interior_rate);
-  pushIfQty('trim','exterior', t.exterior_qty, t.exterior_rate);
-
-  renderGroup('siding'); renderGroup('windows'); renderGroup('trim');
-
-  state.aiNotes = est.ai_notes || '';
-  if (state.aiNotes){
-    $('#aiText').textContent = state.aiNotes;
-    $('#aiBox').classList.add('show');
-  }
 }
 
 function escapeAttr(s){ return String(s).replace(/"/g,'&quot;').replace(/</g,'&lt;'); }
@@ -639,7 +537,6 @@ function buildContractorHTML(){
 ${photos ? `<h3>Site Photos</h3><div class="photo-grid">${photos}</div>` : ''}
 <h3>Scope Notes (Jake)</h3>
 <div class="notes ${notes ? '' : 'empty'}">${notes ? escapeHTML(notes) : '(no notes entered)'}</div>
-${state.aiNotes ? `<h3>AI Observations</h3><div class="notes">${escapeHTML(state.aiNotes)}</div>` : ''}
 <h3>Line Items</h3>
 <table class="items">
   <thead><tr><th>Description</th><th class="num">Quantity</th><th class="num">Rate</th><th class="num">Line Total</th></tr></thead>
