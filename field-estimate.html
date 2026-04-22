@@ -597,30 +597,28 @@ function computeTotals(){
   });
   const jobSubtotal = rows.reduce((a,r)=>a+r.total, 0);
   const inmaFee = jobSubtotal * 0.10;
-  const contractorSubtotal = jobSubtotal - inmaFee;
+  const afterFee = jobSubtotal - inmaFee;
   const taxPctNum = parseFloat(state.taxPct);
   const hasTax = !isNaN(taxPctNum) && taxPctNum > 0;
-  const taxAmount = hasTax ? contractorSubtotal * (taxPctNum/100) : 0;
-  const jobTotal = jobSubtotal + taxAmount;
-  return { rows, jobSubtotal, inmaFee, contractorSubtotal, taxPct: state.taxPct, hasTax, taxAmount, jobTotal, jakeKeeps: inmaFee };
+  const taxAmount = hasTax ? afterFee * (taxPctNum/100) : 0;
+  const contractorTotal = afterFee + taxAmount;
+  return { rows, jobSubtotal, inmaFee, afterFee, taxPct: state.taxPct, hasTax, taxAmount, contractorTotal };
 }
 
 function renderTotals(){
   const t = computeTotals();
   const taxPctVal = escapeAttr(state.taxPct);
   $('#totalsBox').innerHTML = `
-    <div class="line"><span>Job Subtotal</span><strong>${fmtMoney(t.jobSubtotal)}</strong></div>
+    <div class="line"><span>Subtotal</span><strong>${fmtMoney(t.jobSubtotal)}</strong></div>
     <div class="line fee"><span>− INMA Fee (10%)</span><strong>−${fmtMoney(t.inmaFee)}</strong></div>
-    <div class="line"><span>Contractor Subtotal</span><strong>${fmtMoney(t.contractorSubtotal)}</strong></div>
     <div class="line"><span class="tax-inline">Sales Tax <input id="taxPctInput" type="number" inputmode="decimal" step="0.01" placeholder="0.0" value="${taxPctVal}">%</span><strong id="tTax">${t.hasTax ? fmtMoney(t.taxAmount) : '—'}</strong></div>
-    <div class="line big"><span>Job Total</span><strong id="tJobTot">${fmtMoney(t.jobTotal)}</strong></div>
-    <div class="line keeps"><span>Jake Keeps</span><strong>${fmtMoney(t.jakeKeeps)}</strong></div>
+    <div class="line big keeps"><span>Total Due to Contractor</span><strong id="tTotal">${fmtMoney(t.contractorTotal)}</strong></div>
   `;
   $('#taxPctInput').addEventListener('input', e => {
     state.taxPct = e.target.value;
     const t2 = computeTotals();
     $('#tTax').textContent = t2.hasTax ? fmtMoney(t2.taxAmount) : '—';
-    $('#tJobTot').textContent = fmtMoney(t2.jobTotal);
+    $('#tTotal').textContent = fmtMoney(t2.contractorTotal);
   });
 }
 
@@ -657,9 +655,6 @@ function buildCustomerHTML(){
       <td class="num">${fmtMoney(r.rate)}</td>
       <td class="num">${fmtMoney(r.total)}</td>
     </tr>`).join('');
-  const customerSubtotal = t.jobSubtotal;
-  const customerTax = t.taxAmount;
-  const customerTotal = t.jobTotal;
   const scopePara = (state.customerScope||'').trim();
   return `<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Estimate ${escapeText(j.num)} — INMA</title>
 <style>
@@ -720,9 +715,10 @@ ${scopePara ? `<div class="scope-label">Project Scope</div><div class="scope">${
   <tbody>${rows || '<tr><td colspan="5" style="text-align:center;color:#999;padding:20px">No line items.</td></tr>'}</tbody>
 </table>
 <div class="totals">
-  <div class="r"><span>Subtotal</span><span>${fmtMoney(customerSubtotal)}</span></div>
-  ${t.hasTax ? `<div class="r"><span>Sales Tax (${escapeText(t.taxPct)}%)</span><span>${fmtMoney(customerTax)}</span></div>` : ''}
-  <div class="r tot"><span>Total</span><span>${fmtMoney(customerTotal)}</span></div>
+  <div class="r"><span>Subtotal</span><span>${fmtMoney(t.jobSubtotal)}</span></div>
+  <div class="r" style="color:#8a6d0f"><span>− INMA Fee (10%)</span><span>−${fmtMoney(t.inmaFee)}</span></div>
+  ${t.hasTax ? `<div class="r"><span>Sales Tax (${escapeText(t.taxPct)}%)</span><span>${fmtMoney(t.taxAmount)}</span></div>` : ''}
+  <div class="r tot"><span>Total Due to Contractor</span><span>${fmtMoney(t.contractorTotal)}</span></div>
 </div>
 <div class="fmv-note">
   <strong>On pricing:</strong> INMA pricing lands at the upper end of local fair-market-value ranges because we don't cut corners — full tearoff, clean prep, correct flashing and trim details, and contractors who stand behind the work. Every line above shows the quantity and rate so you can line it up against the FMV report we share.
@@ -809,12 +805,10 @@ ${wallSections ? `<h3 style="font-size:13px;color:#B8941F;text-transform:upperca
 </table>
 
 <table style="margin-left:auto;margin-top:10px;font-size:13px" cellpadding="4">
-  <tr><td>Job Subtotal</td><td align="right">${fmtMoney(t.jobSubtotal)}</td></tr>
+  <tr><td>Subtotal</td><td align="right">${fmtMoney(t.jobSubtotal)}</td></tr>
   <tr><td style="color:#8a6d0f">− INMA Fee (10%)</td><td align="right" style="color:#8a6d0f">−${fmtMoney(t.inmaFee)}</td></tr>
-  <tr><td style="border-top:1px dashed #aaa">Contractor Subtotal</td><td align="right" style="border-top:1px dashed #aaa">${fmtMoney(t.contractorSubtotal)}</td></tr>
   <tr><td>Sales Tax${t.hasTax ? ' ('+escapeText(t.taxPct)+'%)' : ''}</td><td align="right">${t.hasTax ? fmtMoney(t.taxAmount) : '—'}</td></tr>
-  <tr><td style="border-top:2px solid #1C1A17;font-weight:700;font-size:15px">Job Total</td><td align="right" style="border-top:2px solid #1C1A17;font-weight:700;font-size:15px">${fmtMoney(t.jobTotal)}</td></tr>
-  <tr><td style="border-top:2px solid #2a6b3a;color:#2a6b3a;font-weight:700">Jake Keeps (INMA Fee)</td><td align="right" style="border-top:2px solid #2a6b3a;color:#2a6b3a;font-weight:700">${fmtMoney(t.jakeKeeps)}</td></tr>
+  <tr><td style="border-top:2px solid #1C1A17;font-weight:700;font-size:15px">Total Due to Contractor</td><td align="right" style="border-top:2px solid #1C1A17;font-weight:700;font-size:15px">${fmtMoney(t.contractorTotal)}</td></tr>
 </table>
 
 <div style="margin-top:22px;font-size:11.5px;color:#555;background:#F5F2ED;padding:10px 14px;line-height:1.6">
