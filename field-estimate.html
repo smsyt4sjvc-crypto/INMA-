@@ -611,6 +611,7 @@ function renderTotals(){
   $('#totalsBox').innerHTML = `
     <div class="line"><span>Subtotal</span><strong>${fmtMoney(t.jobSubtotal)}</strong></div>
     <div class="line fee"><span>− INMA Fee (10%)</span><strong>−${fmtMoney(t.inmaFee)}</strong></div>
+    <div class="line"><span>New Subtotal</span><strong>${fmtMoney(t.afterFee)}</strong></div>
     <div class="line"><span class="tax-inline">Sales Tax <input id="taxPctInput" type="number" inputmode="decimal" step="0.01" placeholder="0.0" value="${taxPctVal}">%</span><strong id="tTax">${t.hasTax ? fmtMoney(t.taxAmount) : '—'}</strong></div>
     <div class="line big keeps"><span>Total Due to Contractor</span><strong id="tTotal">${fmtMoney(t.contractorTotal)}</strong></div>
   `;
@@ -717,6 +718,7 @@ ${scopePara ? `<div class="scope-label">Project Scope</div><div class="scope">${
 <div class="totals">
   <div class="r"><span>Subtotal</span><span>${fmtMoney(t.jobSubtotal)}</span></div>
   <div class="r" style="color:#8a6d0f"><span>− INMA Fee (10%)</span><span>−${fmtMoney(t.inmaFee)}</span></div>
+  <div class="r"><span>New Subtotal</span><span>${fmtMoney(t.afterFee)}</span></div>
   ${t.hasTax ? `<div class="r"><span>Sales Tax (${escapeText(t.taxPct)}%)</span><span>${fmtMoney(t.taxAmount)}</span></div>` : ''}
   <div class="r tot"><span>Total Due to Contractor</span><span>${fmtMoney(t.contractorTotal)}</span></div>
 </div>
@@ -807,6 +809,7 @@ ${wallSections ? `<h3 style="font-size:13px;color:#B8941F;text-transform:upperca
 <table style="margin-left:auto;margin-top:10px;font-size:13px" cellpadding="4">
   <tr><td>Subtotal</td><td align="right">${fmtMoney(t.jobSubtotal)}</td></tr>
   <tr><td style="color:#8a6d0f">− INMA Fee (10%)</td><td align="right" style="color:#8a6d0f">−${fmtMoney(t.inmaFee)}</td></tr>
+  <tr><td>New Subtotal</td><td align="right">${fmtMoney(t.afterFee)}</td></tr>
   <tr><td>Sales Tax${t.hasTax ? ' ('+escapeText(t.taxPct)+'%)' : ''}</td><td align="right">${t.hasTax ? fmtMoney(t.taxAmount) : '—'}</td></tr>
   <tr><td style="border-top:2px solid #1C1A17;font-weight:700;font-size:15px">Total Due to Contractor</td><td align="right" style="border-top:2px solid #1C1A17;font-weight:700;font-size:15px">${fmtMoney(t.contractorTotal)}</td></tr>
 </table>
