@@ -31,51 +31,30 @@
       var(--bg);
   }
 
-  /* Fixed car silhouette watermark — sits behind all content */
+  /* Fixed car silhouette watermark — sits behind all content, with chrome accents */
   .bg-car{
     position:fixed;inset:0;z-index:0;pointer-events:none;
-    background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 600' preserveAspectRatio='xMidYMid meet'><defs><linearGradient id='g' x1='0' x2='0' y1='0' y2='1'><stop offset='0' stop-color='%23ffffff' stop-opacity='.22'/><stop offset='1' stop-color='%23ffffff' stop-opacity='.04'/></linearGradient></defs><path fill='url(%23g)' d='M60 430 C120 360 230 330 340 320 L520 260 C620 210 760 190 900 192 L1130 200 C1230 204 1310 230 1370 270 L1470 340 C1520 360 1560 390 1570 430 L1570 470 L1500 470 C1494 510 1462 532 1422 532 C1382 532 1350 510 1344 470 L520 470 C514 510 482 532 442 532 C402 532 370 510 364 470 L60 470 Z'/><ellipse cx='442' cy='480' rx='62' ry='62' fill='none' stroke='%23ffffff' stroke-opacity='.18' stroke-width='6'/><ellipse cx='1422' cy='480' rx='62' ry='62' fill='none' stroke='%23ffffff' stroke-opacity='.18' stroke-width='6'/><path d='M540 262 L700 232 L860 230 L1020 236 L1150 260 L1150 310 L540 310 Z' fill='%23ffffff' fill-opacity='.05'/></svg>");
-    background-repeat:no-repeat;background-position:center 60%;background-size:min(1600px,140%) auto;
-    opacity:.55;filter:drop-shadow(0 30px 60px rgba(0,0,0,.8));
+    background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 600' preserveAspectRatio='xMidYMid meet'><defs><linearGradient id='b' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='%23222'/><stop offset='.45' stop-color='%23070707'/><stop offset='1' stop-color='%23000'/></linearGradient><linearGradient id='c' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='%23fafafa'/><stop offset='.5' stop-color='%23555'/><stop offset='1' stop-color='%23fafafa'/></linearGradient><linearGradient id='hl' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='%23ffffff' stop-opacity='.35'/><stop offset='1' stop-color='%23ffffff' stop-opacity='0'/></linearGradient></defs><ellipse cx='800' cy='515' rx='700' ry='16' fill='%23000' opacity='.7'/><path d='M120 460 L160 420 C200 380 260 360 340 350 L520 300 C580 260 680 245 800 245 L1060 248 C1160 252 1240 270 1300 300 L1410 350 C1470 370 1510 400 1520 440 L1520 460 L1480 460 C1474 498 1442 520 1402 520 C1362 520 1330 498 1324 460 L540 460 C534 498 502 520 462 520 C422 520 390 498 384 460 L120 460 Z' fill='url(%23b)' stroke='url(%23c)' stroke-width='2'/><path d='M460 260 C600 240 760 240 900 245 C1020 250 1120 260 1200 280 L1180 300 C1100 280 1000 268 880 266 C760 266 640 275 500 295 Z' fill='url(%23hl)'/><path d='M480 320 C580 280 680 265 790 265 L1050 268 C1130 270 1200 286 1250 312 L1230 340 L500 340 Z' fill='%23000' stroke='url(%23c)' stroke-width='2.5'/><line x1='720' y1='340' x2='720' y2='450' stroke='%23444' stroke-width='1.2'/><line x1='960' y1='340' x2='960' y2='450' stroke='%23444' stroke-width='1.2'/><rect x='680' y='390' width='28' height='4' rx='2' fill='url(%23c)'/><rect x='920' y='390' width='28' height='4' rx='2' fill='url(%23c)'/><path d='M180 440 L1470 440' stroke='url(%23c)' stroke-width='1.5' fill='none' opacity='.7'/><rect x='100' y='410' width='40' height='28' fill='%23000' stroke='url(%23c)' stroke-width='1.8'/><path d='M140 400 L205 395 L210 418 L150 428 Z' fill='%23000' stroke='url(%23c)' stroke-width='1.8'/><circle cx='462' cy='465' r='92' fill='%23000'/><circle cx='1402' cy='465' r='92' fill='%23000'/><circle cx='462' cy='465' r='65' fill='%23050505' stroke='%23222' stroke-width='2'/><circle cx='1402' cy='465' r='65' fill='%23050505' stroke='%23222' stroke-width='2'/><circle cx='462' cy='465' r='48' fill='none' stroke='url(%23c)' stroke-width='3'/><circle cx='1402' cy='465' r='48' fill='none' stroke='url(%23c)' stroke-width='3'/><g stroke='url(%23c)' stroke-width='2.5' fill='none'><line x1='462' y1='417' x2='462' y2='513'/><line x1='414' y1='465' x2='510' y2='465'/><line x1='428' y1='431' x2='496' y2='499'/><line x1='428' y1='499' x2='496' y2='431'/></g><g stroke='url(%23c)' stroke-width='2.5' fill='none'><line x1='1402' y1='417' x2='1402' y2='513'/><line x1='1354' y1='465' x2='1450' y2='465'/><line x1='1368' y1='431' x2='1436' y2='499'/><line x1='1368' y1='499' x2='1436' y2='431'/></g><circle cx='462' cy='465' r='8' fill='url(%23c)'/><circle cx='1402' cy='465' r='8' fill='url(%23c)'/></svg>");
+    background-repeat:no-repeat;background-position:center 62%;background-size:min(1700px,150%) auto;
+    opacity:.7;filter:drop-shadow(0 30px 60px rgba(0,0,0,.85));
   }
   .bg-car::after{
     content:"";position:absolute;inset:0;
-    background:linear-gradient(180deg, rgba(5,6,7,.55) 0%, rgba(5,6,7,.2) 35%, rgba(5,6,7,.55) 70%, rgba(5,6,7,.9) 100%);
+    background:linear-gradient(180deg, rgba(5,6,7,.45) 0%, rgba(5,6,7,.15) 40%, rgba(5,6,7,.55) 78%, rgba(5,6,7,.92) 100%);
   }
 
-  /* Rainbow pixel/equalizer drip — behind the car wheels/lower body */
+  /* Rainbow pixel drip — static, hanging from top of page, 75% transparent */
   .drip{
-    position:fixed;left:0;right:0;bottom:0;height:62vh;z-index:0;pointer-events:none;
-    display:flex;align-items:flex-end;justify-content:center;gap:4px;
-    mask-image:linear-gradient(180deg, transparent 0%, #000 35%, #000 85%, transparent 100%);
-    -webkit-mask-image:linear-gradient(180deg, transparent 0%, #000 35%, #000 85%, transparent 100%);
-    filter:blur(.4px) saturate(125%);
-    opacity:.9;
+    position:fixed;left:0;right:0;top:0;height:48vh;z-index:1;pointer-events:none;
+    display:flex;align-items:flex-start;justify-content:center;gap:4px;
+    mask-image:linear-gradient(180deg, #000 0%, #000 55%, transparent 100%);
+    -webkit-mask-image:linear-gradient(180deg, #000 0%, #000 55%, transparent 100%);
+    filter:saturate(130%);
+    opacity:.25;
   }
   .drip .col{
-    width:10px;border-radius:3px 3px 1px 1px;
-    transform-origin:bottom;
-    animation: eq 2.4s ease-in-out infinite;
+    width:10px;border-radius:1px 1px 4px 4px;
     box-shadow:0 0 14px currentColor, 0 0 2px currentColor;
-  }
-  @keyframes eq{
-    0%,100%{ transform:scaleY(.25) }
-    20%{ transform:scaleY(.8) }
-    40%{ transform:scaleY(.45) }
-    60%{ transform:scaleY(1) }
-    80%{ transform:scaleY(.6) }
-  }
-  /* Liquid drip puddle glow under the bars */
-  .drip-glow{
-    position:fixed;left:0;right:0;bottom:0;height:22vh;z-index:0;pointer-events:none;
-    background:
-      radial-gradient(60% 80% at 30% 100%, rgba(244,63,94,.22), transparent 70%),
-      radial-gradient(55% 80% at 45% 100%, rgba(245,158,11,.20), transparent 70%),
-      radial-gradient(55% 80% at 55% 100%, rgba(34,197,94,.18), transparent 70%),
-      radial-gradient(55% 80% at 65% 100%, rgba(34,211,238,.22), transparent 70%),
-      radial-gradient(55% 80% at 75% 100%, rgba(168,85,247,.20), transparent 70%);
-    filter:blur(6px);
-    opacity:.85;
   }
 
   /* Make sure content floats above the fixed layers */
@@ -221,7 +200,6 @@
 
 <div class="bg-car" aria-hidden="true"></div>
 <div class="drip" id="drip" aria-hidden="true"></div>
-<div class="drip-glow" aria-hidden="true"></div>
 
 <header class="nav">
   <div class="container nav-inner">
@@ -371,17 +349,15 @@
       '#f43f5e','#fb7185','#f59e0b','#fbbf24','#84cc16','#22c55e',
       '#10b981','#22d3ee','#38bdf8','#6366f1','#8b5cf6','#a855f7','#d946ef','#ec4899'
     ];
-    const cols = Math.min(90, Math.max(40, Math.floor(window.innerWidth / 16)));
+    const cols = Math.min(110, Math.max(50, Math.floor(window.innerWidth / 14)));
     const frag = document.createDocumentFragment();
     for(let i=0;i<cols;i++){
       const c = document.createElement('span');
       c.className = 'col';
       const color = colors[i % colors.length];
       c.style.color = color;
-      c.style.background = `linear-gradient(180deg, ${color} 0%, ${color} 55%, rgba(0,0,0,0) 100%)`;
-      c.style.height = (90 + Math.random()*220) + 'px';
-      c.style.animationDelay = (Math.random()*2).toFixed(2) + 's';
-      c.style.animationDuration = (1.6 + Math.random()*1.8).toFixed(2) + 's';
+      c.style.background = `linear-gradient(180deg, ${color} 0%, ${color} 60%, rgba(0,0,0,0) 100%)`;
+      c.style.height = (120 + Math.random()*260) + 'px';
       frag.appendChild(c);
     }
     drip.appendChild(frag);
