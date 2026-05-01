@@ -161,6 +161,7 @@
         <p class="sub">AI drafts the estimate from your walls. Edit anything before saving.</p>
 
         <button class="btn-generate" id="generateBtn" type="button">✨ Generate Estimate with AI</button>
+        <button class="btn-ghost" id="skipAiBtn" type="button" style="width:100%;margin-top:10px;font-size:13px;opacity:.8">Skip AI — Fill In Manually</button>
         <div id="generateError" style="display:none"></div>
         <div id="staleBanner" class="stale-banner" style="display:none">Walls changed since last generate. Tap Regenerate below when ready.</div>
 
@@ -468,6 +469,16 @@ function startEditWall(id){
 /* ============ STEP 3 — GENERATE, PREVIEW, EDIT, SAVE ============ */
 function bindStep3(){
   $('#generateBtn').addEventListener('click', () => doGenerate(false));
+  $('#skipAiBtn').addEventListener('click', () => {
+    $('#previewArea').style.display = 'block';
+    $('#generateBtn').style.display = 'none';
+    $('#skipAiBtn').style.display = 'none';
+    if (!state.previewLines.length) {
+      state.previewLines.push({ id: uid(), desc:'', qty:0, unit:'', rate:0 });
+      renderLines();
+    }
+    $('#customerScope').focus();
+  });
   $('#regenBtn').addEventListener('click', () => doGenerate(true));
   $('#addLineBtn').addEventListener('click', () => {
     state.previewLines.push({ id: uid(), desc:'', qty:0, unit:'', rate:0 });
