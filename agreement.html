@@ -110,7 +110,7 @@ body { font-family: 'Outfit', sans-serif; color: #3A3835; background: #F5F2ED; }
 <!-- STICKY HEADER -->
 <div class="header">
   <div class="header-logo">INMA</div>
-  <a href="/consult.html" class="header-back">← Back to Consult</a>
+  <a href="/" class="header-back">← Back to INMA</a>
 </div>
 
 <div class="section">
@@ -178,7 +178,7 @@ body { font-family: 'Outfit', sans-serif; color: #3A3835; background: #F5F2ED; }
       <p class="sa-body">This Agreement represents the complete understanding between INMA and the Homeowner(s) regarding INMA's coordination services, and replaces any prior conversations or representations. The project scope of work and estimate are attached separately. Changes must be in writing and signed by both parties.</p>
     </div>
 
-    <!-- SIGNATURE -->
+    <!-- SIGNATURES -->
     <div style="margin-top:24px;">
       <div class="sig-label">Homeowner Signature</div>
       <div class="sig-wrap">
@@ -186,6 +186,14 @@ body { font-family: 'Outfit', sans-serif; color: #3A3835; background: #F5F2ED; }
         <button class="sig-clear" onclick="clearSig()">Clear</button>
       </div>
       <div class="sig-hint">Sign with finger or stylus above</div>
+    </div>
+    <div style="margin-top:8px;">
+      <div class="sig-label">Jake Bishop — INMA</div>
+      <div class="sig-wrap">
+        <canvas id="sigCanvasJake" height="160"></canvas>
+        <button class="sig-clear" onclick="clearJakeSig()">Clear</button>
+      </div>
+      <div class="sig-hint">Jake signs here</div>
     </div>
 
     <button class="gen-btn" onclick="generateAgreement()">Send Agreement &amp; Print</button>
@@ -225,8 +233,8 @@ body { font-family: 'Outfit', sans-serif; color: #3A3835; background: #F5F2ED; }
   </div>
 
   <div class="print-sig-section">
-    <div class="print-sig-box"><div class="print-sig-line"><img id="p_sig" src="" alt="Signature"></div><div class="print-sig-label">Homeowner Signature</div></div>
-    <div class="print-sig-box"><div class="print-sig-line"></div><div class="print-sig-label">Jake Bishop — INMA</div></div>
+    <div class="print-sig-box"><div class="print-sig-line"><img id="p_sig" src="" alt="Homeowner signature"></div><div class="print-sig-label">Homeowner Signature</div></div>
+    <div class="print-sig-box"><div class="print-sig-line"><img id="p_sig_jake" src="" alt="Jake's signature"></div><div class="print-sig-label">Jake Bishop — INMA</div></div>
     <div class="print-sig-box"><div class="print-sig-line"></div><div class="print-sig-label">Date</div></div>
   </div>
   <div class="print-footer">INMA · Inland Northwest Marketing Affiliates · Spokane, WA · inmagent.com · (509) 251-7792</div>
@@ -235,26 +243,39 @@ body { font-family: 'Outfit', sans-serif; color: #3A3835; background: #F5F2ED; }
 <script>
 document.getElementById('agreementDate').value = new Date().toLocaleDateString('en-US',{year:'numeric',month:'long',day:'numeric'});
 
-// SIGNATURE
-let sigCanvas, sigCtx, drawing = false, sigStarted = false;
-function initSig() {
-  if (sigCtx) return;
-  sigCanvas = document.getElementById('sigCanvas');
-  sigCanvas.width = sigCanvas.offsetWidth;
-  sigCtx = sigCanvas.getContext('2d');
-  sigCtx.strokeStyle = '#1C1A17'; sigCtx.lineWidth = 2.5; sigCtx.lineCap = 'round'; sigCtx.lineJoin = 'round';
-  sigCanvas.addEventListener('mousedown', e => { drawing=true; sigStarted=true; const r=sigCanvas.getBoundingClientRect(); sigCtx.beginPath(); sigCtx.moveTo(e.clientX-r.left,e.clientY-r.top); });
-  sigCanvas.addEventListener('mousemove', e => { if(!drawing) return; const r=sigCanvas.getBoundingClientRect(); sigCtx.lineTo(e.clientX-r.left,e.clientY-r.top); sigCtx.stroke(); });
-  sigCanvas.addEventListener('mouseup', ()=>drawing=false);
-  sigCanvas.addEventListener('mouseleave', ()=>drawing=false);
-  sigCanvas.addEventListener('touchstart', e => { e.preventDefault(); drawing=true; sigStarted=true; const r=sigCanvas.getBoundingClientRect(),t=e.touches[0]; sigCtx.beginPath(); sigCtx.moveTo(t.clientX-r.left,t.clientY-r.top); },{passive:false});
-  sigCanvas.addEventListener('touchmove', e => { e.preventDefault(); if(!drawing) return; const r=sigCanvas.getBoundingClientRect(),t=e.touches[0]; sigCtx.lineTo(t.clientX-r.left,t.clientY-r.top); sigCtx.stroke(); },{passive:false});
-  sigCanvas.addEventListener('touchend', ()=>drawing=false);
+// SIGNATURES — one factory, two pads
+function makeSigPad(canvasId) {
+  const pad = { canvas: null, ctx: null, drawing: false, started: false };
+  pad.init = function() {
+    if (pad.ctx) return;
+    pad.canvas = document.getElementById(canvasId);
+    pad.canvas.width = pad.canvas.offsetWidth;
+    pad.ctx = pad.canvas.getContext('2d');
+    pad.ctx.strokeStyle = '#1C1A17'; pad.ctx.lineWidth = 2.5; pad.ctx.lineCap = 'round'; pad.ctx.lineJoin = 'round';
+    pad.canvas.addEventListener('mousedown', e => { pad.drawing=true; pad.started=true; const r=pad.canvas.getBoundingClientRect(); pad.ctx.beginPath(); pad.ctx.moveTo(e.clientX-r.left,e.clientY-r.top); });
+    pad.canvas.addEventListener('mousemove', e => { if(!pad.drawing) return; const r=pad.canvas.getBoundingClientRect(); pad.ctx.lineTo(e.clientX-r.left,e.clientY-r.top); pad.ctx.stroke(); });
+    pad.canvas.addEventListener('mouseup', ()=>pad.drawing=false);
+    pad.canvas.addEventListener('mouseleave', ()=>pad.drawing=false);
+    pad.canvas.addEventListener('touchstart', e => { e.preventDefault(); pad.drawing=true; pad.started=true; const r=pad.canvas.getBoundingClientRect(),t=e.touches[0]; pad.ctx.beginPath(); pad.ctx.moveTo(t.clientX-r.left,t.clientY-r.top); },{passive:false});
+    pad.canvas.addEventListener('touchmove', e => { e.preventDefault(); if(!pad.drawing) return; const r=pad.canvas.getBoundingClientRect(),t=e.touches[0]; pad.ctx.lineTo(t.clientX-r.left,t.clientY-r.top); pad.ctx.stroke(); },{passive:false});
+    pad.canvas.addEventListener('touchend', ()=>pad.drawing=false);
+  };
+  pad.clear = function(){ if (pad.ctx) pad.ctx.clearRect(0,0,pad.canvas.width,pad.canvas.height); pad.started=false; };
+  pad.dataURL = function(){ return pad.canvas ? pad.canvas.toDataURL('image/png') : ''; };
+  return pad;
 }
-const sigObs = new IntersectionObserver(entries => { if(entries[0].isIntersecting) initSig(); },{threshold:0.1});
-sigObs.observe(document.getElementById('sigCanvas'));
 
-function clearSig() { if(sigCtx) sigCtx.clearRect(0,0,sigCanvas.width,sigCanvas.height); sigStarted=false; }
+const homeownerPad = makeSigPad('sigCanvas');
+const jakePad      = makeSigPad('sigCanvasJake');
+
+// Initialize when each pad scrolls into view
+[['sigCanvas', homeownerPad], ['sigCanvasJake', jakePad]].forEach(([id, pad]) => {
+  const obs = new IntersectionObserver(entries => { if (entries[0].isIntersecting) pad.init(); }, {threshold:0.1});
+  obs.observe(document.getElementById(id));
+});
+
+function clearSig()     { homeownerPad.clear(); }
+function clearJakeSig() { jakePad.clear(); }
 
 function fmtFee(raw) {
   const n = parseFloat(String(raw).replace(/[^0-9.]/g,''));
@@ -268,11 +289,14 @@ async function generateAgreement() {
   const feeRaw = document.getElementById('inmaFee').value;
   if (!name) { alert('Please enter the homeowner name.'); return; }
   if (!feeRaw || parseFloat(feeRaw.replace(/[^0-9.]/g,'')) <= 0) { alert('Please enter the INMA service fee.'); return; }
-  if (!sigStarted) { alert('Please have the homeowner sign above.'); return; }
+  if (!homeownerPad.started) { alert('Please have the homeowner sign above.'); return; }
+  if (!jakePad.started) { alert('Jake — please sign the bottom signature box.'); return; }
 
   const feeFmt = fmtFee(feeRaw);
+  const homeownerSigDataUrl = homeownerPad.dataURL();
+  const jakeSigDataUrl = jakePad.dataURL();
 
-  // Send via Formspree — CC homeowner
+  // Send via Formspree — CC homeowner so they get a copy of the signed agreement record
   try {
     await fetch('https://formspree.io/f/xgollken', {
       method: 'POST',
@@ -287,7 +311,9 @@ async function generateAgreement() {
         phone: document.getElementById('ownerPhone').value,
         email: email,
         inma_fee: feeFmt,
-        signed: 'Yes — signature captured on iPad'
+        signed: 'Yes — both signatures captured on iPad',
+        homeowner_signature: homeownerSigDataUrl,
+        jake_signature: jakeSigDataUrl
       })
     });
   } catch(e) {}
@@ -299,7 +325,8 @@ async function generateAgreement() {
   document.getElementById('p_phone').textContent = document.getElementById('ownerPhone').value || '—';
   document.getElementById('p_email').textContent = email || '—';
   document.getElementById('p_fee').textContent = feeFmt;
-  document.getElementById('p_sig').src = sigCanvas.toDataURL('image/png');
+  document.getElementById('p_sig').src = homeownerSigDataUrl;
+  document.getElementById('p_sig_jake').src = jakeSigDataUrl;
   window.print();
 }
 </script>
