@@ -37,7 +37,7 @@
   .hero .brand{font-size:13px;letter-spacing:3px;text-transform:uppercase;color:#B8941F;font-weight:600;margin-bottom:14px}
   .hero h1{font-size:clamp(30px,5vw,46px);font-weight:800;margin:0 0 8px;letter-spacing:-.5px;line-height:1.1}
   .hero .lede{font-size:clamp(14px,2vw,17px);opacity:.85;max-width:580px;margin:0 auto;font-weight:400}
-  .filter-bar{background:#ECE6DB;padding:14px 0;position:sticky;top:55px;z-index:50;border-bottom:1px solid #D6D0C6}
+  .filter-bar{display:none;background:#ECE6DB;padding:14px 0;position:sticky;top:55px;z-index:50;border-bottom:1px solid #D6D0C6}
   .filters{display:flex;gap:8px;flex-wrap:wrap;justify-content:center}
   .filter-btn{background:transparent;border:1px solid #C8BFAD;color:#5A5550;padding:8px 16px;border-radius:999px;font-family:inherit;font-size:13px;font-weight:600;cursor:pointer;transition:all .2s;letter-spacing:.3px}
   .filter-btn:hover{border-color:#8B6914;color:#8B6914}
@@ -151,9 +151,49 @@
  * Add new entries to the bottom of WORKS. Most-recent shows first if you reverse-sort by adding them at the top.
  */
 const WORKS = [
-  // EXAMPLE entries — delete when real photos go in:
-  // { type:'pair',   service:'siding',  before:'work/siding-01-before.jpg', after:'work/siding-01-after.jpg', title:'South Hill ColorPlus refresh', caption:'Full tearoff, ColorPlus board-and-batten, new soffit and fascia.' },
-  // { type:'single', service:'windows', src:'work/windows-02-finished.jpg', title:'Garland triple-pane upgrade', caption:'12 windows replaced with low-E argon-fill vinyl.' },
+  { type:'single', service:'siding', src:'work/A44161DE-8F01-420C-B709-1151EA99DE29-COLLAGE-2.JPG' },
+  { type:'single', service:'siding', src:'work/A44161DE-8F01-420C-B709-1151EA99DE29-COLLAGE.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0276.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0277.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0278.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0279.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0280.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0281.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0282.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0283.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0284.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0285.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0286.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0287.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0288.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0289.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0290.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0291.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0293.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0294.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0295.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0296.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0297.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0298.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0299.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0300.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0301.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0302.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0303.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0304.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0305.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0306.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0307.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0308.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0309.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0310.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0311.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0312.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0313.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_0314.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_1929.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_1930.JPG' },
+  { type:'single', service:'siding', src:'work/IMG_1931.JPG' },
 ];
 
 const SERVICES = {
