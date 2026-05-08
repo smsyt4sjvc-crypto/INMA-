@@ -37,7 +37,8 @@
   .hero .brand{font-size:13px;letter-spacing:3px;text-transform:uppercase;color:#B8941F;font-weight:600;margin-bottom:14px}
   .hero h1{font-size:clamp(30px,5vw,46px);font-weight:800;margin:0 0 8px;letter-spacing:-.5px;line-height:1.1}
   .hero .lede{font-size:clamp(14px,2vw,17px);opacity:.85;max-width:580px;margin:0 auto;font-weight:400}
-  .filter-bar{display:none;background:#ECE6DB;padding:14px 0;position:sticky;top:55px;z-index:50;border-bottom:1px solid #D6D0C6}
+  .filter-bar{background:#ECE6DB;padding:14px 0;position:sticky;top:55px;z-index:50;border-bottom:1px solid #D6D0C6}
+  .filter-bar.hidden{display:none}
   .filters{display:flex;gap:8px;flex-wrap:wrap;justify-content:center}
   .filter-btn{background:transparent;border:1px solid #C8BFAD;color:#5A5550;padding:8px 16px;border-radius:999px;font-family:inherit;font-size:13px;font-weight:600;cursor:pointer;transition:all .2s;letter-spacing:.3px}
   .filter-btn:hover{border-color:#8B6914;color:#8B6914}
@@ -205,14 +206,21 @@ const SERVICES = {
   other:   'Other',
 };
 
-let activeFilter = 'all';
+// Default filter from ?service= URL param if it has entries; else 'all'
+const _params = new URLSearchParams(window.location.search);
+const _wanted = (_params.get('service') || '').toLowerCase();
+const _hasWanted = WORKS.some(w => w.service === _wanted);
+let activeFilter = _hasWanted ? _wanted : 'all';
 
 function buildFilters(){
   const host = document.getElementById('filters');
-  // Only include services that have at least one entry, plus "All"
+  const bar  = document.querySelector('.filter-bar');
   const counts = WORKS.reduce((m, w) => { m[w.service] = (m[w.service]||0) + 1; return m; }, {});
+  const presentServices = Object.keys(SERVICES).filter(k => counts[k]);
+  // Hide the whole filter bar when there's only one service represented (or zero)
+  if (bar) bar.classList.toggle('hidden', presentServices.length < 2);
   const tabs = [['all', 'All']];
-  Object.keys(SERVICES).forEach(k => { if (counts[k]) tabs.push([k, SERVICES[k] + ' · ' + counts[k]]); });
+  presentServices.forEach(k => tabs.push([k, SERVICES[k] + ' · ' + counts[k]]));
   host.innerHTML = tabs.map(([k, label]) =>
     `<button class="filter-btn ${k===activeFilter?'active':''}" data-svc="${k}">${label}</button>`
   ).join('');
