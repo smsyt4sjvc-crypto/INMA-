@@ -1,9 +1,19 @@
 """Generate INMA mailer card composites — Front A, Front B, Back."""
 from PIL import Image, ImageDraw, ImageFont
-import os
+import os, urllib.request
 
 OUTFIT      = 'Outfit-Regular.ttf'
 DM_SERIF    = 'DMSerif-Regular.ttf'
+
+# Auto-fetch fonts from Google Fonts if not present locally
+_FONT_URLS = {
+    OUTFIT:   'https://github.com/google/fonts/raw/main/ofl/outfit/Outfit%5Bwght%5D.ttf',
+    DM_SERIF: 'https://github.com/google/fonts/raw/main/ofl/dmserifdisplay/DMSerifDisplay-Regular.ttf',
+}
+for _f, _url in _FONT_URLS.items():
+    if not os.path.exists(_f):
+        print(f"fetching {_f} ...")
+        urllib.request.urlretrieve(_url, _f)
 
 # Brand colors
 DARK     = '#1C1A17'

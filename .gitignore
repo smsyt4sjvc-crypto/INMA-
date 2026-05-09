@@ -1,0 +1,6 @@
+# Fonts downloaded by mailers/build_mailers.py — re-fetch as needed
+mailers/*.ttf
+
+# OS junk
+.DS_Store
+Thumbs.db
