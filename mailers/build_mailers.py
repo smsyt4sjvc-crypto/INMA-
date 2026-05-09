@@ -2,13 +2,25 @@
 from PIL import Image, ImageDraw, ImageFont
 import os, urllib.request
 
-OUTFIT      = 'Outfit-Regular.ttf'
+OUTFIT_VAR  = 'Outfit-Regular.ttf'   # variable font, weight axis 100-900
 DM_SERIF    = 'DMSerif-Regular.ttf'
+
+# Weight axis values (Outfit variable font)
+W_MEDIUM    = 500
+W_SEMIBOLD  = 600
+W_BOLD      = 700
+
+# Convenience aliases used by the layout code
+OUTFIT_REG  = OUTFIT_VAR
+OUTFIT_MED  = OUTFIT_VAR
+OUTFIT_SEMI = OUTFIT_VAR
+OUTFIT_BOLD = OUTFIT_VAR
+OUTFIT      = OUTFIT_VAR
 
 # Auto-fetch fonts from Google Fonts if not present locally
 _FONT_URLS = {
-    OUTFIT:   'https://github.com/google/fonts/raw/main/ofl/outfit/Outfit%5Bwght%5D.ttf',
-    DM_SERIF: 'https://github.com/google/fonts/raw/main/ofl/dmserifdisplay/DMSerifDisplay-Regular.ttf',
+    OUTFIT_VAR: 'https://github.com/google/fonts/raw/main/ofl/outfit/Outfit%5Bwght%5D.ttf',
+    DM_SERIF:   'https://github.com/google/fonts/raw/main/ofl/dmserifdisplay/DMSerifDisplay-Regular.ttf',
 }
 for _f, _url in _FONT_URLS.items():
     if not os.path.exists(_f):
@@ -27,8 +39,25 @@ DIM_LT   = '#8A857E'
 # Dimensions — 9" x 6" @ 300 DPI = 2700 x 1800 (EDDM Jumbo landscape)
 W, H = 2700, 1800
 
-def font(path, size, bold=False):
-    return ImageFont.truetype(path, size)
+_FONT_WEIGHTS = {
+    OUTFIT_BOLD: W_BOLD,    # Bold alias -> 700
+    OUTFIT_SEMI: W_SEMIBOLD, # SemiBold alias -> 600
+    OUTFIT_MED:  W_MEDIUM,   # Medium alias -> 500
+    OUTFIT_REG:  400,        # Regular -> 400
+}
+# Note: aliases all point at the same variable font path, so we need a separate
+# weight hint to pick the right axis. We carry the requested weight via 'weight' kw.
+
+def font(path, size, weight=None):
+    f = ImageFont.truetype(path, size)
+    # Variable font — set weight axis if requested
+    try:
+        axes = f.get_variation_axes()
+        if axes and weight is not None:
+            f.set_variation_by_axes([weight])
+    except (AttributeError, OSError):
+        pass
+    return f
 
 def wrap_text(draw, text, fnt, max_width):
     words = text.split()
@@ -107,16 +136,16 @@ def draw_inma_card(img, draw, x, y, card_w=700, card_h=1500, qr_path=None, scan_
 
     # Optional name line (e.g., "Jake Bishop")
     if name_line:
-        f_name = font(OUTFIT, 36)
+        f_name = font(OUTFIT_VAR, 36, weight=W_MEDIUM)
         nw = draw.textlength(name_line, font=f_name)
         draw.text((cx - nw//2, cur_y), name_line, font=f_name, fill=text_color)
         cur_y += 50
-        f_role = font(OUTFIT, 24)
+        f_role = font(OUTFIT_VAR, 24, weight=W_MEDIUM)
         rw = draw.textlength('Your Remodeling Agent', font=f_role)
         draw.text((cx - rw//2, cur_y), 'Your Remodeling Agent', font=f_role, fill=sub_color)
         cur_y += 50
     else:
-        f_sub = font(OUTFIT, 26)
+        f_sub = font(OUTFIT_VAR, 26, weight=W_MEDIUM)
         sub_text = 'Homeowner Remodeling Agency'
         sw = draw.textlength(sub_text, font=f_sub)
         draw.text((cx - sw//2, cur_y), sub_text, font=f_sub, fill=sub_color)
@@ -128,7 +157,7 @@ def draw_inma_card(img, draw, x, y, card_w=700, card_h=1500, qr_path=None, scan_
 
     # Scan caption
     if scan_caption:
-        f_scan = font(OUTFIT, 26)
+        f_scan = font(OUTFIT_VAR, 26, weight=W_MEDIUM)
         for line in wrap_text(draw, scan_caption, f_scan, card_w - 80):
             lw = draw.textlength(line, font=f_scan)
             draw.text((cx - lw//2, cur_y), line, font=f_scan, fill=accent)
@@ -136,7 +165,7 @@ def draw_inma_card(img, draw, x, y, card_w=700, card_h=1500, qr_path=None, scan_
         cur_y += 12
 
     # inmagent.com
-    f_url = font(OUTFIT, 32)
+    f_url = font(OUTFIT_VAR, 32, weight=W_MEDIUM)
     uw = draw.textlength('inmagent.com', font=f_url)
     draw.text((cx - uw//2, cur_y), 'inmagent.com', font=f_url, fill=text_color)
     cur_y += 60
@@ -154,7 +183,7 @@ def draw_inma_card(img, draw, x, y, card_w=700, card_h=1500, qr_path=None, scan_
         cur_y += qr_size + pad*2 + 30
 
     # Phone
-    f_phone = font(OUTFIT, 32)
+    f_phone = font(OUTFIT_VAR, 32, weight=W_MEDIUM)
     pw = draw.textlength('(509) 251-7792', font=f_phone)
     draw.text((cx - pw//2, cur_y), '(509) 251-7792', font=f_phone, fill=text_color)
 
@@ -172,12 +201,12 @@ def make_front(filename, badge_text, headline_lines, body_text, italic_body, clo
     RIGHT_W = 700
 
     # Badge
-    f_badge = font(OUTFIT, 36)
+    f_badge = font(OUTFIT_VAR, 36, weight=W_BOLD)
     y_after_badge = draw_badge(draw, (LEFT_X, PAD), badge_text, fnt=f_badge)
     y = y_after_badge + 50
 
-    # Headline (3 lines, mixed white + gold)
-    f_head = font(OUTFIT, 110)
+    # Headline (3 lines, mixed white + gold) — BOLD for max contrast
+    f_head = font(OUTFIT_VAR, 110, weight=W_BOLD)
     for line, color in headline_lines:
         draw.text((LEFT_X, y), line, font=f_head, fill=color)
         y += 130
@@ -187,30 +216,29 @@ def make_front(filename, badge_text, headline_lines, body_text, italic_body, clo
     draw.line((LEFT_X, y, LEFT_X + 800, y), fill=GOLD, width=3)
     y += 50
 
-    # Body (regular paragraph)
-    f_body = font(OUTFIT, 36)
-    y = draw_wrapped(draw, (LEFT_X, y), body_text, f_body, TEXT_LT, LEFT_W, line_height=58, spacing_after_para=20)
+    # Body — MEDIUM weight + pure white for legibility
+    f_body = font(OUTFIT_VAR, 38, weight=W_MEDIUM)
+    y = draw_wrapped(draw, (LEFT_X, y), body_text, f_body, '#FFFFFF', LEFT_W, line_height=60, spacing_after_para=20)
     y += 30
 
-    # Italic body (gold)
+    # Emphasis paragraph (gold, medium weight)
     if italic_body:
-        f_body_italic = font(OUTFIT, 36)  # no italic available, use gold for emphasis
-        y = draw_wrapped(draw, (LEFT_X, y), italic_body, f_body_italic, GOLD_LT, LEFT_W, line_height=58)
+        y = draw_wrapped(draw, (LEFT_X, y), italic_body, f_body, GOLD_LT, LEFT_W, line_height=60)
         y += 50
 
     # Divider
     draw.line((LEFT_X, y, LEFT_X + 800, y), fill='#3a352e', width=2)
     y += 40
 
-    # Closing — bold-ish header + softer line
-    f_close_h = font(OUTFIT, 44)
-    draw.text((LEFT_X, y), closing_h, font=f_close_h, fill=TEXT_LT)
-    y += 64
-    f_close_p = font(OUTFIT, 32)
-    y = draw_wrapped(draw, (LEFT_X, y), closing_p, f_close_p, DIM_LT, LEFT_W, line_height=46)
+    # Closing — SEMIBOLD header + brighter line
+    f_close_h = font(OUTFIT_VAR, 46, weight=W_SEMIBOLD)
+    draw.text((LEFT_X, y), closing_h, font=f_close_h, fill='#FFFFFF')
+    y += 66
+    f_close_p = font(OUTFIT_VAR, 34, weight=W_MEDIUM)
+    y = draw_wrapped(draw, (LEFT_X, y), closing_p, f_close_p, '#D8D5D0', LEFT_W, line_height=50)
 
     # Footer pointer (bottom-left)
-    f_foot = font(OUTFIT, 24)
+    f_foot = font(OUTFIT_VAR, 24, weight=W_MEDIUM)
     draw.text((LEFT_X, H - PAD - 30), '▸ ' + footer_pointer, font=f_foot, fill=DIM_LT)
 
     # Right-rail INMA card
@@ -234,11 +262,11 @@ def make_back(filename, qr_file):
     RIGHT_W = 700
 
     # Badge
-    f_badge = font(OUTFIT, 36)
+    f_badge = font(OUTFIT_VAR, 36, weight=W_BOLD)
     y = draw_badge(draw, (LEFT_X, PAD), "WHILE YOU'RE AT IT", fnt=f_badge) + 50
 
-    # Headline
-    f_head = font(OUTFIT, 110)
+    # Headline — BOLD
+    f_head = font(OUTFIT_VAR, 110, weight=W_BOLD)
     draw.text((LEFT_X, y), 'New windows pay', font=f_head, fill=DARK)
     y += 130
     draw.text((LEFT_X, y), 'for themselves.', font=f_head, fill=GOLD)
@@ -248,29 +276,30 @@ def make_back(filename, qr_file):
     draw.line((LEFT_X, y, LEFT_X + 800, y), fill=GOLD, width=3)
     y += 50
 
-    # Body
-    f_body = font(OUTFIT, 34)
+    # Body — MEDIUM weight, near-black for max print contrast
+    f_body = font(OUTFIT_VAR, 36, weight=W_MEDIUM)
     body = "Drafty windows and doors are the #1 source of heat loss in Spokane-area homes. A full replacement typically returns 65-80% of its cost in savings and appraisal value — before comfort."
-    y = draw_wrapped(draw, (LEFT_X, y), body, f_body, TEXT_DK, LEFT_W, line_height=54)
+    y = draw_wrapped(draw, (LEFT_X, y), body, f_body, '#1C1A17', LEFT_W, line_height=58)
     y += 30
 
-    # 14-year credibility callout (italic, gold)
+    # 14-year credibility callout — semibold, gold-brown for contrast on cream
+    f_credit = font(OUTFIT_VAR, 36, weight=W_SEMIBOLD)
     italic = "Before launching INMA, I spent 14 years installing windows in Spokane — the last 5 as lead installer for our local manufacturer. I know which windows perform here and which install details actually matter."
-    y = draw_wrapped(draw, (LEFT_X, y), italic, f_body, '#7A5F0E', LEFT_W, line_height=54)
+    y = draw_wrapped(draw, (LEFT_X, y), italic, f_credit, '#5A4205', LEFT_W, line_height=58)
     y += 40
 
     # Avista box
-    box_h = 130
-    draw.rounded_rectangle((LEFT_X, y, LEFT_X + 1100, y + box_h), radius=14, outline=GOLD, width=3, fill='#FDF8EE')
-    f_avista_h = font(OUTFIT, 28)
-    draw.text((LEFT_X + 30, y + 22), 'AVISTA REBATES AVAILABLE', font=f_avista_h, fill=GOLD)
-    f_avista_b = font(OUTFIT, 26)
-    draw.text((LEFT_X + 30, y + 64), 'Qualifying window installs may be eligible. Visit inmagent.com for details.', font=f_avista_b, fill=TEXT_DK)
+    box_h = 140
+    draw.rounded_rectangle((LEFT_X, y, LEFT_X + 1150, y + box_h), radius=14, outline=GOLD, width=4, fill='#FDF8EE')
+    f_avista_h = font(OUTFIT_VAR, 30, weight=W_BOLD)
+    draw.text((LEFT_X + 30, y + 24), 'AVISTA REBATES AVAILABLE', font=f_avista_h, fill=GOLD)
+    f_avista_b = font(OUTFIT_VAR, 28, weight=W_MEDIUM)
+    draw.text((LEFT_X + 30, y + 70), 'Qualifying window installs may be eligible. Visit inmagent.com for details.', font=f_avista_b, fill='#1C1A17')
     y += box_h + 40
 
-    # Three bullets
-    f_bul_h = font(OUTFIT, 30)
-    f_bul_b = font(OUTFIT, 28)
+    # Three bullets — semibold gold label, medium body
+    f_bul_h = font(OUTFIT_VAR, 30, weight=W_BOLD)
+    f_bul_b = font(OUTFIT_VAR, 28, weight=W_MEDIUM)
     bullets = [
         ('Lower utility bills',   'Typical savings: $200-$500/yr'),
         ('Warmer winters',        'Eliminate cold drafts room by room'),
@@ -279,20 +308,20 @@ def make_back(filename, qr_file):
     for h, b in bullets:
         draw.text((LEFT_X, y), '— ' + h, font=f_bul_h, fill=GOLD)
         hw = draw.textlength('— ' + h, font=f_bul_h)
-        draw.text((LEFT_X + hw + 30, y + 4), b, font=f_bul_b, fill=TEXT_DK)
-        y += 50
+        draw.text((LEFT_X + hw + 30, y + 4), b, font=f_bul_b, fill='#1C1A17')
+        y += 52
     y += 30
 
-    # How INMA Works header
-    f_how_h = font(OUTFIT, 34)
+    # How INMA Works header — bold
+    f_how_h = font(OUTFIT_VAR, 36, weight=W_BOLD)
     draw.text((LEFT_X, y), 'How INMA works:', font=f_how_h, fill=DARK)
-    y += 50
-    f_how_b = font(OUTFIT, 28)
+    y += 52
+    f_how_b = font(OUTFIT_VAR, 30, weight=W_MEDIUM)
     how = "You call me once. I scope the project, price it to fair-market, find the right vetted contractor, and stand behind the work. My fee (10-12%) comes out of the contractor's price — deducted in front of you, not added on top."
-    y = draw_wrapped(draw, (LEFT_X, y), how, f_how_b, TEXT_DK, LEFT_W, line_height=44)
+    y = draw_wrapped(draw, (LEFT_X, y), how, f_how_b, '#1C1A17', LEFT_W, line_height=46)
 
     # Footer
-    f_foot = font(OUTFIT, 22)
+    f_foot = font(OUTFIT_VAR, 22, weight=W_MEDIUM)
     draw.text((LEFT_X, H - PAD - 30), 'INMA — Jake Bishop · Spokane, WA · inmagent.com', font=f_foot, fill=DIM_LT)
 
     # INMA card (dark card on cream background)
