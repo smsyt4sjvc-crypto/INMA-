@@ -230,9 +230,9 @@ async function handleSubmit() {
     });
     const data = await res.json();
     if (data.ok || res.ok) {
-      document.getElementById('uploadForm').style.display = 'none';
-      document.getElementById('successScreen').classList.add('visible');
-      if (typeof gtag === 'function') gtag('event', 'quote_uploaded', { upload_type: document.getElementById('ftype').value || 'unspecified' });
+      var uploadType = encodeURIComponent(document.getElementById('ftype').value || 'unspecified');
+      // Redirect to /thank-you.html so Google Ads + analytics see a distinct conversion URL
+      window.location.href = '/thank-you.html?for=quote-upload&type=' + uploadType;
     } else {
       throw new Error('failed');
     }
