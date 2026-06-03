@@ -119,13 +119,26 @@ const COLORS = {
   freeze:'#5B8AA8', rust:'#8B3A2A', wind:'#9A9A7A', mold:'#4A6741'
 };
 
-// One play per day via localStorage (disabled during testing)
+// Up to 3 plays per day via localStorage
+const PLAYS_PER_DAY = 3;
+function _todayKey(){ return new Date().toDateString(); }
+function _playCountToday(){
+  const day = localStorage.getItem('inma_game_date');
+  if (day !== _todayKey()) return 0;
+  return parseInt(localStorage.getItem('inma_game_plays') || '0', 10) || 0;
+}
 function canPlay() {
-  return true;
+  return _playCountToday() < PLAYS_PER_DAY;
 }
 function recordPlay() {
-  localStorage.setItem('inma_game_date', new Date().toDateString());
+  if (localStorage.getItem('inma_game_date') !== _todayKey()) {
+    localStorage.setItem('inma_game_date', _todayKey());
+    localStorage.setItem('inma_game_plays', '1');
+  } else {
+    localStorage.setItem('inma_game_plays', String(_playCountToday() + 1));
+  }
 }
+function playsRemaining(){ return Math.max(0, PLAYS_PER_DAY - _playCountToday()); }
 
 function init() {
   score = 0; lives = 3; timeLeft = GAME_TIME;
@@ -203,6 +216,7 @@ function showOverlay(html) {
 
 function winGame() {
   state='won'; cancelAnimationFrame(animId); clearInterval(timerInterval);
+  document.getElementById('timerDisplay').textContent = '';
   audio.win();
   if (typeof gtag === 'function') gtag('event', 'game_won', { promo_code: 'TUNEUP10' });
   showOverlay(`
@@ -220,13 +234,22 @@ function winGame() {
 
 function loseGame(reason) {
   state='dead'; cancelAnimationFrame(animId); clearInterval(timerInterval);
+  document.getElementById('timerDisplay').textContent = '';
   audio.lose();
   const msg = reason === 'time'
     ? "Time's up. Your home took damage you didn't catch."
     : "Your home took too much damage.";
+  const remaining = playsRemaining();
+  const retryLine = remaining > 0
+    ? `You've got ${remaining} ${remaining === 1 ? 'play' : 'plays'} left today — give it another go.`
+    : `That's 3 plays today. Come back tomorrow for another shot at 10% off.`;
+  const retryBtn = remaining > 0
+    ? `<a href="javascript:location.reload()" class="again-btn" style="margin-bottom:10px;display:inline-block;">Try Again</a><br>`
+    : '';
   showOverlay(`
     <h2>${msg}</h2>
-    <p>That's exactly why a home tune-up exists — catch problems before they become expensive. Come back tomorrow for another shot at 10% off.</p>
+    <p>That's exactly why a home tune-up exists — catch problems before they become expensive. ${retryLine}</p>
+    ${retryBtn}
     <a href="sms:5092517792" class="start-btn" style="text-decoration:none;">Book a Tune-Up</a>
     <br>
     <a href="/" class="again-btn">Back to site</a>
@@ -235,8 +258,8 @@ function loseGame(reason) {
 
 function showTryTomorrow() {
   showOverlay(`
-    <h2>You Already Played Today</h2>
-    <p>Come back tomorrow for another chance at 10% off your Home Tune-Up. In the meantime — just text Jake.</p>
+    <h2>That's 3 for Today</h2>
+    <p>You've used all 3 plays today. Come back tomorrow for another chance at 10% off your Home Tune-Up — or just text Jake to book one now.</p>
     <a href="sms:5092517792" class="start-btn" style="text-decoration:none;margin-bottom:12px;">Text Jake</a>
     <br><br>
     <a href="/" class="again-btn">Back to site</a>
