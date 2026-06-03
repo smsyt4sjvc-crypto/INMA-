@@ -70,6 +70,7 @@ header { width:100%; background:#2C2A27; padding:14px 32px; display:flex; align-
     <h1>Defend Your Home</h1>
     <p>Spokane's climate hits your home every season. Shoot 25 threats before time runs out.</p>
     <div class="prize-badge">WIN = 10% OFF HOME TUNE-UP</div>
+    <div style="font-size:0.7rem;letter-spacing:1.5px;text-transform:uppercase;color:rgba(245,242,237,0.45);margin-top:8px;font-weight:600;">Inspect &middot; Seal &middot; Clean &middot; Report</div>
   </div>
 
   <div class="hud">
@@ -221,7 +222,7 @@ function winGame() {
   if (typeof gtag === 'function') gtag('event', 'game_won', { promo_code: 'TUNEUP10' });
   showOverlay(`
     <h2 style="color:#B8941F;">You Win!</h2>
-    <p>You defended your home against Spokane's climate. Show this to Jake when you book your Home Tune-Up.</p>
+    <p>You defended your home against Spokane's climate. Show this to Jake when you book your Home Tune-Up <span style="opacity:.6;font-size:0.85em;">(inspect &middot; seal &middot; clean &middot; report).</span></p>
     <div class="promo-code">TUNEUP10</div>
     <p class="promo-note">10% off — valid 30 days — text or show in person</p>
     <a href="sms:5092517792?body=I won the INMA game! Code: TUNEUP10 — want to book a Home Tune-Up" class="start-btn" style="text-decoration:none;">Text Jake to Book</a>
