@@ -254,17 +254,20 @@ function renderGrid(){
   empty.style.display = 'none';
   grid.innerHTML = items.map(renderCard).join('');
   grid.querySelectorAll('img').forEach(img => {
-    img.addEventListener('click', e => openLightbox(e.target.src));
+    img.addEventListener('click', e => openLightbox(e.target.dataset.full || e.target.src));
   });
 }
+
+// Grid shows lightweight thumbs from work/thumbs/; lightbox loads the original.
+function thumbOf(src){ return src.replace(/^work\//, 'work/thumbs/'); }
 
 function renderCard(w){
   const svc = SERVICES[w.service] || w.service;
   if (w.type === 'pair'){
     return `<div class="card">
       <div class="pair">
-        <div class="half"><span class="lbl">Before</span><img src="${w.before}" alt="${escapeAttr(w.title || svc + ' — before')}" loading="lazy"></div>
-        <div class="half"><span class="lbl after">After</span><img src="${w.after}" alt="${escapeAttr(w.title || svc + ' — after')}" loading="lazy"></div>
+        <div class="half"><span class="lbl">Before</span><img src="${thumbOf(w.before)}" data-full="${w.before}" alt="${escapeAttr(w.title || svc + ' — before')}" loading="lazy"></div>
+        <div class="half"><span class="lbl after">After</span><img src="${thumbOf(w.after)}" data-full="${w.after}" alt="${escapeAttr(w.title || svc + ' — after')}" loading="lazy"></div>
       </div>
       <div class="meta">
         <span class="svc">${svc}</span>
@@ -274,7 +277,7 @@ function renderCard(w){
     </div>`;
   }
   return `<div class="card">
-    <div class="single"><img src="${w.src}" alt="${escapeAttr(w.title || svc)}" loading="lazy"></div>
+    <div class="single"><img src="${thumbOf(w.src)}" data-full="${w.src}" alt="${escapeAttr(w.title || svc)}" loading="lazy"></div>
     <div class="meta">
       <span class="svc">${svc}</span>
       ${w.title ? `<h3>${escapeHTML(w.title)}</h3>` : ''}
