@@ -380,6 +380,8 @@ function buildEstimateHTML(){
   @media print { .toolbar { display: none; } }
 
   .letterhead { display: flex; justify-content: space-between; align-items: flex-start; border-bottom: 3px solid #B8941F; padding-bottom: 16px; margin-bottom: 24px; }
+  .lh-left { display: flex; align-items: flex-start; gap: 16px; }
+  .lh-logo { width: 68px; height: 68px; border-radius: 10px; flex-shrink: 0; object-fit: cover; border: 1px solid #E4DED2; }
   .lh-left .brand { font-size: 32px; font-weight: 800; color: #B8941F; letter-spacing: 2px; line-height: 1; }
   .lh-left .tag { font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase; color: #555; margin-top: 4px; }
   .lh-left .contact { font-size: 12px; margin-top: 12px; color: #333; line-height: 1.55; }
@@ -421,13 +423,16 @@ function buildEstimateHTML(){
 
 <div class="letterhead">
   <div class="lh-left">
-    <div class="brand">INMA</div>
-    <div class="tag">Inland Northwest Marketing Affiliates</div>
-    <div class="contact">
-      ${escapeHTML(j.preparedBy)}<br>
-      Spokane, WA · WA UBI #606 027 063<br>
-      (509) 251-7792 · jake@inmagent.com<br>
-      inmagent.com
+    <img class="lh-logo" src="https://inmagent.com/IMG_6892.jpeg" alt="INMA bear logo">
+    <div class="lh-text">
+      <div class="brand">INMA</div>
+      <div class="tag">Inland Northwest Marketing Affiliates</div>
+      <div class="contact">
+        ${escapeHTML(j.preparedBy)}<br>
+        Spokane, WA · WA UBI #606 027 063<br>
+        (509) 251-7792 · jake@inmagent.com<br>
+        inmagent.com
+      </div>
     </div>
   </div>
   <div class="lh-right">
