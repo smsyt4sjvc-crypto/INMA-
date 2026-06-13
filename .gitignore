@@ -1,5 +1,6 @@
-# Fonts downloaded by mailers/build_mailers.py — re-fetch as needed
+# Fonts downloaded by build scripts — re-fetch as needed
 mailers/*.ttf
+/*.ttf
 
 # OS junk
 .DS_Store
