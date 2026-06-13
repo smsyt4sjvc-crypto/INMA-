@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="canonical" href="https://inmagent.com/estimate.html">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="robots" content="noindex,nofollow">
+<link rel="apple-touch-icon" href="/icon-E.png">
+<link rel="icon" type="image/png" href="/icon-E.png">
+<link rel="manifest" href="/estimate-manifest.json">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="INMA Estimate">
+<meta name="theme-color" content="#1C1A17">
+<title>INMA — Estimate Builder</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  *,*::before,*::after{box-sizing:border-box}
+  html,body{margin:0;padding:0;background:#1C1A17;color:#F5F2ED;font-family:'Outfit',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+  body{min-height:100vh;min-height:100dvh}
+  .app{display:flex;flex-direction:column;min-height:100vh;min-height:100dvh;max-width:880px;margin:0 auto}
+
+  /* topbar */
+  .topbar{position:sticky;top:0;z-index:10;padding:16px 20px 12px;background:linear-gradient(180deg,#1C1A17 80%,rgba(28,26,23,0));display:flex;justify-content:space-between;align-items:center;gap:16px}
+  .brand-mark{font-weight:800;font-size:22px;color:#B8941F;letter-spacing:1px}
+  .brand-sub{font-size:11px;letter-spacing:2px;text-transform:uppercase;opacity:.6;margin-top:-2px}
+  .dots{display:flex;gap:8px}
+  .dot{width:9px;height:9px;border-radius:50%;background:#3a352e;transition:all .25s}
+  .dot.active{background:#B8941F;transform:scale(1.3)}
+  .dot.done{background:#6b5a2a}
+
+  /* stage */
+  .stage{flex:1;padding:8px 20px 120px}
+  .step{display:none;animation:fadeIn .3s ease}
+  .step.active{display:block}
+  @keyframes fadeIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+
+  /* card */
+  .card{background:#25221d;border:1px solid #3a352e;border-radius:20px;padding:22px;margin-bottom:16px;box-shadow:0 4px 16px rgba(0,0,0,.25)}
+  .card h2{margin:0 0 4px;font-size:22px;font-weight:700;color:#F5F2ED}
+  .card .sub{font-size:13px;opacity:.55;margin:0 0 18px}
+
+  /* field */
+  .field{margin-bottom:14px}
+  .field label{display:block;font-size:12px;letter-spacing:1px;text-transform:uppercase;opacity:.65;margin-bottom:6px;font-weight:500}
+  .field input,.field textarea,.field select{width:100%;padding:14px 14px;background:#1C1A17;border:1px solid #3a352e;border-radius:12px;color:#F5F2ED;font-family:inherit;font-size:16px;transition:border-color .2s;-webkit-appearance:none}
+  .field input:focus,.field textarea:focus{outline:none;border-color:#B8941F}
+  .field textarea{resize:vertical;min-height:110px;line-height:1.5}
+  .field textarea.notes{min-height:380px}
+  .row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+
+  /* line items */
+  .lines-head{display:grid;grid-template-columns:1fr 80px 80px 100px 100px 40px;gap:8px;padding:0 8px 8px;font-size:10px;letter-spacing:1.5px;text-transform:uppercase;opacity:.5;font-weight:600}
+  .line-row{display:grid;grid-template-columns:1fr 80px 80px 100px 100px 40px;gap:8px;background:#1C1A17;border:1px solid #3a352e;border-radius:12px;padding:10px;margin-bottom:8px;align-items:center}
+  .line-row input{padding:10px 10px;background:#25221d;border:1px solid #3a352e;border-radius:8px;color:#F5F2ED;font-size:14px;font-family:inherit;-webkit-appearance:none;width:100%}
+  .line-row input:focus{outline:none;border-color:#B8941F}
+  .line-row input[readonly]{background:transparent;border-color:transparent;color:#B8941F;font-weight:700;text-align:right}
+  .line-row .remove{background:transparent;color:#c66;border:1px solid #4a2a2a;border-radius:8px;width:32px;height:32px;cursor:pointer;font-family:inherit;font-size:14px;padding:0;justify-self:center}
+
+  /* buttons */
+  .btn-primary{background:#B8941F;color:#1C1A17;border:none;padding:14px 22px;border-radius:12px;font-weight:700;font-size:15px;font-family:inherit;cursor:pointer;transition:background .2s;letter-spacing:.5px}
+  .btn-primary:hover{background:#d4a828}
+  .btn-ghost{background:transparent;color:#F5F2ED;border:1px solid #3a352e;padding:14px 22px;border-radius:12px;font-weight:600;font-size:15px;font-family:inherit;cursor:pointer;transition:border-color .2s}
+  .btn-ghost:hover{border-color:#B8941F}
+  .btn-ghost:disabled{opacity:.3;cursor:not-allowed}
+  .btn-add{background:transparent;color:#B8941F;border:1px dashed #B8941F;padding:14px;border-radius:12px;font-weight:600;font-size:14px;cursor:pointer;width:100%;font-family:inherit;transition:background .2s;margin-top:8px}
+  .btn-add:hover{background:rgba(184,148,31,.1)}
+
+  /* totals */
+  .totals{background:#1C1A17;border:1px solid #3a352e;border-radius:14px;padding:20px;margin-top:16px;font-size:16px}
+  .totals .line{display:flex;justify-content:space-between;padding:8px 0;border-bottom:1px dashed #3a352e}
+  .totals .line:last-child{border-bottom:none}
+  .totals .line.big{font-size:22px;font-weight:700;padding:14px 0;color:#B8941F}
+  .totals .tax-inline{display:flex;align-items:center;gap:8px}
+  .totals .tax-inline input{width:70px;padding:6px 8px;background:#25221d;border:1px solid #3a352e;border-radius:8px;color:#F5F2ED;font-family:inherit;font-size:14px;text-align:right;-webkit-appearance:none}
+  .totals .tax-inline input:focus{outline:none;border-color:#B8941F}
+
+  /* navbar */
+  .navbar{position:fixed;bottom:0;left:50%;transform:translateX(-50%);width:100%;max-width:880px;padding:14px 20px 20px;padding-bottom:calc(20px + env(safe-area-inset-bottom));background:#1C1A17;border-top:1px solid #3a352e;display:flex;justify-content:space-between;align-items:center;gap:12px;z-index:10}
+  .step-label{font-size:12px;opacity:.5;letter-spacing:1.5px;text-transform:uppercase}
+
+  @media(max-width:560px){
+    .row{grid-template-columns:1fr}
+    .lines-head{display:none}
+    .line-row{grid-template-columns:1fr 1fr;gap:10px;padding:14px}
+    .line-row input{width:100%}
+    .line-row > input:first-child{grid-column:1/-1}
+    .line-row .remove{grid-column:1/-1;justify-self:end;width:auto;padding:6px 14px;height:auto}
+  }
+</style>
+</head>
+<body>
+<div class="app">
+  <header class="topbar">
+    <div class="brand">
+      <div class="brand-mark">INMA</div>
+      <div class="brand-sub">Estimate Builder</div>
+    </div>
+    <div class="dots" id="dots"></div>
+  </header>
+
+  <main class="stage">
+
+    <!-- STEP 1 — JOB INFO -->
+    <section class="step active" data-step="1">
+      <div class="card">
+        <h2>Job Info</h2>
+        <p class="sub">Who it's for and where the work is.</p>
+        <div class="field"><label>Homeowner Name</label><input id="ownerName" type="text" placeholder="Jane Doe" autocomplete="off"></div>
+        <div class="row">
+          <div class="field"><label>Phone</label><input id="ownerPhone" type="tel" placeholder="(509) 000-0000" autocomplete="off"></div>
+          <div class="field"><label>Email</label><input id="ownerEmail" type="email" placeholder="jane@example.com" autocomplete="off"></div>
+        </div>
+        <div class="field"><label>Property Address</label><input id="ownerAddress" type="text" placeholder="123 Main St" autocomplete="off"></div>
+        <div class="row">
+          <div class="field"><label>City / State / ZIP</label><input id="cityStateZip" type="text" placeholder="Spokane, WA 99201" autocomplete="off"></div>
+          <div class="field"><label>Project Type</label><input id="projectType" type="text" placeholder="Siding · Windows · Doors" autocomplete="off"></div>
+        </div>
+        <div class="row">
+          <div class="field"><label>Estimate Date</label><input id="estDate" type="date"></div>
+          <div class="field"><label>Estimate #</label><input id="estimateNum" type="text" placeholder="Auto-fills from address" autocomplete="off"></div>
+        </div>
+        <div class="row">
+          <div class="field"><label>Valid For (days)</label><input id="validDays" type="number" value="30" min="1"></div>
+          <div class="field"><label>Prepared By</label><input id="preparedBy" type="text" value="Jake Bishop — INMA"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- STEP 2 — LINE ITEMS, NOTES, TOTALS -->
+    <section class="step" data-step="2">
+      <div class="card">
+        <h2>Line Items</h2>
+        <p class="sub">Add as many lines as you need. Amounts auto-calculate.</p>
+        <div class="lines-head">
+          <div>Description</div>
+          <div>Qty</div>
+          <div>Unit</div>
+          <div>Rate</div>
+          <div style="text-align:right">Amount</div>
+          <div></div>
+        </div>
+        <div id="linesHost"></div>
+        <button class="btn-add" type="button" id="addLineBtn">+ Add Line</button>
+      </div>
+
+      <div class="card">
+        <h2>Scope &amp; Notes</h2>
+        <p class="sub">Long-form description of the work, exclusions, special notes. Prints below the line items.</p>
+        <div class="field"><textarea id="notes" class="notes" placeholder="Describe the scope of work, materials, exclusions, access notes, anything the homeowner should know about this estimate..."></textarea></div>
+      </div>
+
+      <div class="card">
+        <h2>Totals</h2>
+        <div class="totals" id="totalsBox"></div>
+      </div>
+
+      <div class="card" style="text-align:center;background:transparent;border:0;box-shadow:none;padding:0">
+        <button class="btn-primary" id="printBtn" type="button" style="width:100%;padding:18px;font-size:16px">📄 Generate &amp; Print Estimate</button>
+        <p style="font-size:12px;opacity:.5;margin-top:14px">Opens a new tab. Use your browser's Print → Save as PDF.</p>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="navbar">
+    <button class="btn-ghost" id="backBtn">← Back</button>
+    <div class="step-label" id="stepLabel">Step 1 of 2</div>
+    <button class="btn-primary" id="nextBtn">Next →</button>
+  </footer>
+</div>
+
+<script>
+const state = {
+  step: 1,
+  lines: [], // { id, desc, qty, unit, rate }
+  taxPct: '',
+};
+const TOTAL_STEPS = 2;
+const $ = (s, r=document) => r.querySelector(s);
+const $$ = (s, r=document) => Array.from(r.querySelectorAll(s));
+const uid = () => 'L' + Date.now() + Math.random().toString(36).slice(2,6);
+const fmt = n => '$' + (Math.round((+n || 0) * 100) / 100).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+const escapeHTML = s => String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+const escapeAttr = s => String(s||'').replace(/"/g,'&quot;').replace(/</g,'&lt;');
+
+/* ====== Init ====== */
+document.addEventListener('DOMContentLoaded', () => {
+  buildDots();
+  bindNav();
+  bindCoreInputs();
+  bindLineItems();
+  bindPrint();
+  setDefaults();
+  if (!state.lines.length) addLine(); // start with one empty line
+  updateStepUI();
+});
+
+function setDefaults(){
+  const d = new Date();
+  $('#estDate').value = d.toISOString().slice(0,10);
+}
+
+function buildDots(){
+  const host = $('#dots');
+  host.innerHTML = '';
+  for (let i = 1; i <= TOTAL_STEPS; i++){
+    const dot = document.createElement('div');
+    dot.className = 'dot';
+    host.appendChild(dot);
+  }
+}
+
+function updateStepUI(){
+  $$('.step').forEach(s => s.classList.toggle('active', +s.dataset.step === state.step));
+  $$('.dot').forEach((d,i) => {
+    d.classList.toggle('active', i + 1 === state.step);
+    d.classList.toggle('done', i + 1 < state.step);
+  });
+  $('#stepLabel').textContent = `Step ${state.step} of ${TOTAL_STEPS}`;
+  $('#backBtn').disabled = state.step === 1;
+  $('#nextBtn').textContent = state.step === TOTAL_STEPS ? 'Done' : 'Next →';
+  if (state.step === TOTAL_STEPS) renderTotals();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function bindNav(){
+  $('#backBtn').addEventListener('click', () => { if (state.step > 1){ state.step--; updateStepUI(); }});
+  $('#nextBtn').addEventListener('click', () => {
+    if (state.step < TOTAL_STEPS){ state.step++; updateStepUI(); return; }
+    // On Done, jump to print
+    doPrint();
+  });
+}
+
+function bindCoreInputs(){
+  // Auto-fill estimate # from address digits if user hasn't overridden it
+  let manualNum = false;
+  $('#estimateNum').addEventListener('input', () => { manualNum = !!$('#estimateNum').value; });
+  $('#ownerAddress').addEventListener('input', e => {
+    if (manualNum) return;
+    const m = e.target.value.trim().match(/^(\d+)/);
+    if (m){
+      $('#estimateNum').value = 'INMA-' + m[1];
+    }
+  });
+}
+
+/* ====== Line Items ====== */
+function bindLineItems(){
+  $('#addLineBtn').addEventListener('click', () => addLine());
+}
+
+function addLine(){
+  state.lines.push({ id: uid(), desc: '', qty: '', unit: '', rate: '' });
+  renderLines();
+}
+
+function renderLines(){
+  const host = $('#linesHost');
+  host.innerHTML = state.lines.map(l => {
+    const amount = (+l.qty || 0) * (+l.rate || 0);
+    return `<div class="line-row" data-id="${l.id}">
+      <input type="text" data-f="desc" value="${escapeAttr(l.desc)}" placeholder="Line description">
+      <input type="number" inputmode="decimal" step="0.01" data-f="qty" value="${l.qty}" placeholder="Qty">
+      <input type="text" data-f="unit" value="${escapeAttr(l.unit)}" placeholder="SF / LF / EA">
+      <input type="number" inputmode="decimal" step="0.01" data-f="rate" value="${l.rate}" placeholder="Rate">
+      <input type="text" readonly value="${amount > 0 ? fmt(amount) : ''}">
+      <button type="button" class="remove" data-remove aria-label="Remove">✕</button>
+    </div>`;
+  }).join('');
+  $$('#linesHost .line-row').forEach(row => {
+    const id = row.dataset.id;
+    row.querySelectorAll('input[data-f]').forEach(inp => {
+      inp.addEventListener('input', e => {
+        const l = state.lines.find(x => x.id === id);
+        if (!l) return;
+        l[e.target.dataset.f] = e.target.value;
+        // live-update the amount cell
+        const amt = (+l.qty || 0) * (+l.rate || 0);
+        row.querySelector('input[readonly]').value = amt > 0 ? fmt(amt) : '';
+      });
+    });
+    row.querySelector('[data-remove]').addEventListener('click', () => {
+      state.lines = state.lines.filter(x => x.id !== id);
+      if (state.lines.length === 0) addLine();
+      else renderLines();
+    });
+  });
+}
+
+/* ====== Totals ====== */
+function computeTotals(){
+  const subtotal = state.lines.reduce((s, l) => s + ((+l.qty || 0) * (+l.rate || 0)), 0);
+  const taxNum = parseFloat(state.taxPct);
+  const hasTax = !isNaN(taxNum) && taxNum > 0;
+  const tax = hasTax ? subtotal * (taxNum / 100) : 0;
+  return { subtotal, hasTax, taxPct: state.taxPct, tax, total: subtotal + tax };
+}
+
+function renderTotals(){
+  const t = computeTotals();
+  $('#totalsBox').innerHTML = `
+    <div class="line"><span>Subtotal</span><strong id="tSub">${fmt(t.subtotal)}</strong></div>
+    <div class="line"><span class="tax-inline">Sales Tax <input id="taxPctInput" type="number" inputmode="decimal" step="0.01" placeholder="0.0" value="${escapeAttr(state.taxPct)}">%</span><strong id="tTax">${t.hasTax ? fmt(t.tax) : '—'}</strong></div>
+    <div class="line big"><span>Estimate Total</span><strong id="tTotal">${fmt(t.total)}</strong></div>
+  `;
+  $('#taxPctInput').addEventListener('input', e => {
+    state.taxPct = e.target.value;
+    const t2 = computeTotals();
+    $('#tTax').textContent = t2.hasTax ? fmt(t2.tax) : '—';
+    $('#tTotal').textContent = fmt(t2.total);
+  });
+}
+
+/* ====== Print Output ====== */
+function bindPrint(){
+  $('#printBtn').addEventListener('click', () => doPrint());
+}
+
+function doPrint(){
+  // Must open the window synchronously inside the click handler for iOS Safari.
+  const w = window.open('', '_blank');
+  if (!w){ alert('Pop-up blocked. Please allow pop-ups for this site.'); return; }
+  w.document.write('<p style="font-family:sans-serif;padding:20px">Preparing estimate…</p>');
+  const html = buildEstimateHTML();
+  w.document.open();
+  w.document.write(html);
+  w.document.close();
+}
+
+function getJob(){
+  return {
+    name: $('#ownerName').value.trim() || '—',
+    phone: $('#ownerPhone').value.trim() || '',
+    email: $('#ownerEmail').value.trim() || '',
+    address: $('#ownerAddress').value.trim() || '',
+    cityStateZip: $('#cityStateZip').value.trim() || '',
+    project: $('#projectType').value.trim() || '',
+    date: $('#estDate').value || new Date().toISOString().slice(0,10),
+    num: $('#estimateNum').value.trim() || '—',
+    valid: $('#validDays').value || '30',
+    preparedBy: $('#preparedBy').value.trim() || 'INMA',
+    notes: $('#notes').value.trim() || '',
+  };
+}
+
+function fmtDate(iso){
+  if (!iso) return '—';
+  const d = new Date(iso + 'T00:00:00');
+  return d.toLocaleDateString('en-US', { year:'numeric', month:'long', day:'numeric' });
+}
+
+function buildEstimateHTML(){
+  const j = getJob();
+  const t = computeTotals();
+  const lines = state.lines.filter(l => l.desc || (+l.qty > 0) || (+l.rate > 0));
+  const rows = lines.length ? lines.map(l => {
+    const amt = (+l.qty || 0) * (+l.rate || 0);
+    return `<tr>
+      <td>${escapeHTML(l.desc) || '—'}</td>
+      <td class="num">${l.qty !== '' ? (+l.qty).toLocaleString('en-US', { maximumFractionDigits: 2 }) : ''}</td>
+      <td class="num">${escapeHTML(l.unit)}</td>
+      <td class="num">${l.rate !== '' ? fmt(l.rate) : ''}</td>
+      <td class="num">${amt > 0 ? fmt(amt) : ''}</td>
+    </tr>`;
+  }).join('') : `<tr><td colspan="5" style="text-align:center;color:#999;padding:24px">No line items.</td></tr>`;
+
+  const notesBlock = j.notes ? `
+    <h3 class="section-h">Scope of Work &amp; Notes</h3>
+    <div class="notes-block">${escapeHTML(j.notes).replace(/\n/g, '<br>')}</div>
+  ` : '';
+
+  return `<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Estimate ${escapeHTML(j.num)} — INMA</title>
+<style>
+  @page { size: letter; margin: 0.55in; }
+  * { box-sizing: border-box; }
+  body { font-family: 'Helvetica Neue', Arial, sans-serif; color: #1C1A17; max-width: 780px; margin: 20px auto; padding: 0 24px; line-height: 1.5; }
+  .toolbar { position: fixed; top: 16px; right: 16px; display: flex; gap: 8px; }
+  .toolbar button { background: #B8941F; color: #1C1A17; border: none; padding: 12px 18px; border-radius: 8px; font-weight: 700; cursor: pointer; font-family: inherit; box-shadow: 0 4px 12px rgba(0,0,0,.15); }
+  .toolbar .ghost { background: #1C1A17; color: #F5F2ED; }
+  @media print { .toolbar { display: none; } }
+
+  .letterhead { display: flex; justify-content: space-between; align-items: flex-start; border-bottom: 3px solid #B8941F; padding-bottom: 16px; margin-bottom: 24px; }
+  .lh-left .brand { font-size: 32px; font-weight: 800; color: #B8941F; letter-spacing: 2px; line-height: 1; }
+  .lh-left .tag { font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase; color: #555; margin-top: 4px; }
+  .lh-left .contact { font-size: 12px; margin-top: 12px; color: #333; line-height: 1.55; }
+  .lh-right { text-align: right; }
+  .lh-right .title { font-size: 26px; font-weight: 800; letter-spacing: 4px; color: #1C1A17; margin-bottom: 12px; }
+  .lh-right .meta { font-size: 12px; color: #444; line-height: 1.7; }
+  .lh-right .meta strong { color: #1C1A17; min-width: 90px; display: inline-block; }
+
+  .billto-row { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; margin-bottom: 24px; }
+  .billto { background: #F5F2ED; border-radius: 8px; padding: 14px 18px; }
+  .billto .lbl { font-size: 10px; letter-spacing: 2px; text-transform: uppercase; color: #777; margin-bottom: 5px; font-weight: 600; }
+  .billto .v { font-size: 14px; color: #1C1A17; }
+  .billto .v.name { font-size: 16px; font-weight: 700; margin-bottom: 4px; }
+
+  table.items { width: 100%; border-collapse: collapse; margin-bottom: 12px; }
+  table.items th { background: #1C1A17; color: #F5F2ED; font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; padding: 10px 8px; text-align: left; font-weight: 600; }
+  table.items th.num, table.items td.num { text-align: right; }
+  table.items td { padding: 11px 8px; border-bottom: 1px solid #eee; font-size: 13px; vertical-align: top; }
+  table.items tbody tr:last-child td { border-bottom: 2px solid #1C1A17; }
+
+  .totals { margin-left: auto; width: 320px; font-size: 14px; margin-bottom: 24px; }
+  .totals .r { display: flex; justify-content: space-between; padding: 6px 0; }
+  .totals .r.tot { border-top: 2px solid #1C1A17; margin-top: 6px; padding-top: 10px; font-weight: 800; font-size: 18px; color: #B8941F; }
+
+  .section-h { font-size: 12px; letter-spacing: 2px; text-transform: uppercase; color: #B8941F; margin: 28px 0 10px; padding-bottom: 6px; border-bottom: 1px solid #ddd; font-weight: 700; }
+  .notes-block { font-size: 12.5px; line-height: 1.7; color: #333; background: #F5F2ED; border-radius: 8px; padding: 16px 20px; white-space: normal; }
+
+  .footer-notes { margin-top: 28px; font-size: 11px; color: #555; border-top: 1px solid #ddd; padding-top: 14px; line-height: 1.65; }
+  .footer-notes p { margin: 5px 0; }
+  .footer-notes strong { color: #1C1A17; }
+
+  .sig-section { margin-top: 36px; display: grid; grid-template-columns: 1fr 1fr; gap: 36px; }
+  .sig { border-bottom: 1.5px solid #1C1A17; height: 50px; margin-bottom: 6px; }
+  .sig-lbl { font-size: 10px; color: #7A7269; letter-spacing: 1.5px; text-transform: uppercase; font-weight: 600; }
+
+  .print-footer { margin-top: 32px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center; font-size: 10px; color: #888; letter-spacing: 1px; text-transform: uppercase; }
+</style></head><body>
+
+<div class="toolbar">
+  <button class="ghost" onclick="window.close()">← Back</button>
+  <button onclick="window.print()">Print / Save PDF</button>
+</div>
+
+<div class="letterhead">
+  <div class="lh-left">
+    <div class="brand">INMA</div>
+    <div class="tag">Inland Northwest Marketing Affiliates</div>
+    <div class="contact">
+      ${escapeHTML(j.preparedBy)}<br>
+      Spokane, WA · WA UBI #606 027 063<br>
+      (509) 251-7792 · jake@inmagent.com<br>
+      inmagent.com
+    </div>
+  </div>
+  <div class="lh-right">
+    <div class="title">ESTIMATE</div>
+    <div class="meta">
+      <div><strong>Estimate #:</strong> ${escapeHTML(j.num)}</div>
+      <div><strong>Date:</strong> ${fmtDate(j.date)}</div>
+      <div><strong>Valid for:</strong> ${escapeHTML(j.valid)} days</div>
+      ${j.project ? `<div><strong>Project:</strong> ${escapeHTML(j.project)}</div>` : ''}
+    </div>
+  </div>
+</div>
+
+<div class="billto-row">
+  <div class="billto">
+    <div class="lbl">Prepared For</div>
+    <div class="v name">${escapeHTML(j.name)}</div>
+    ${j.address ? `<div class="v">${escapeHTML(j.address)}</div>` : ''}
+    ${j.cityStateZip ? `<div class="v">${escapeHTML(j.cityStateZip)}</div>` : ''}
+  </div>
+  <div class="billto">
+    <div class="lbl">Contact</div>
+    ${j.phone ? `<div class="v">${escapeHTML(j.phone)}</div>` : ''}
+    ${j.email ? `<div class="v">${escapeHTML(j.email)}</div>` : ''}
+    ${!j.phone && !j.email ? `<div class="v" style="color:#999">—</div>` : ''}
+  </div>
+</div>
+
+<table class="items">
+  <thead>
+    <tr><th style="width:48%">Description</th><th class="num">Qty</th><th class="num">Unit</th><th class="num">Rate</th><th class="num">Amount</th></tr>
+  </thead>
+  <tbody>${rows}</tbody>
+</table>
+
+<div class="totals">
+  <div class="r"><span>Subtotal</span><span>${fmt(t.subtotal)}</span></div>
+  ${t.hasTax ? `<div class="r"><span>Sales Tax (${escapeHTML(t.taxPct)}%)</span><span>${fmt(t.tax)}</span></div>` : ''}
+  <div class="r tot"><span>Total</span><span>${fmt(t.total)}</span></div>
+</div>
+
+${notesBlock}
+
+<div class="footer-notes">
+  <p><strong>Terms:</strong> This estimate is valid for ${escapeHTML(j.valid)} days from the date above. Acceptance constitutes authorization to proceed with the scope described.</p>
+  <p><strong>Hidden Conditions:</strong> Rot, damaged sheathing, or other conditions not visible at walk-through are not included in this estimate. Any discovered conditions will be documented with photos and priced as a change order before work proceeds.</p>
+  <p><strong>Permits:</strong> Required permits are billed at-cost on the final invoice.</p>
+</div>
+
+<div class="sig-section">
+  <div>
+    <div class="sig"></div>
+    <div class="sig-lbl">Homeowner Signature &amp; Date</div>
+  </div>
+  <div>
+    <div class="sig"></div>
+    <div class="sig-lbl">${escapeHTML(j.preparedBy)} · Date</div>
+  </div>
+</div>
+
+<div class="print-footer">INMA · Inland Northwest Marketing Affiliates · Spokane WA · inmagent.com</div>
+
+</body></html>`;
+}
+</script>
+</body>
+</html>
