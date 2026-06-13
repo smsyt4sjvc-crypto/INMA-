@@ -122,10 +122,7 @@
           <div class="field"><label>Estimate Date</label><input id="estDate" type="date"></div>
           <div class="field"><label>Estimate #</label><input id="estimateNum" type="text" placeholder="Auto-fills from address" autocomplete="off"></div>
         </div>
-        <div class="row">
-          <div class="field"><label>Valid For (days)</label><input id="validDays" type="number" value="30" min="1"></div>
-          <div class="field"><label>Prepared By</label><input id="preparedBy" type="text" value="Jake Bishop — INMA"></div>
-        </div>
+        <div class="field"><label>Prepared By</label><input id="preparedBy" type="text" value="Jake Bishop — INMA"></div>
       </div>
     </section>
 
@@ -341,7 +338,6 @@ function getJob(){
     project: $('#projectType').value.trim() || '',
     date: $('#estDate').value || new Date().toISOString().slice(0,10),
     num: $('#estimateNum').value.trim() || '—',
-    valid: $('#validDays').value || '30',
     preparedBy: $('#preparedBy').value.trim() || 'INMA',
     notes: $('#notes').value.trim() || '',
   };
@@ -415,10 +411,6 @@ function buildEstimateHTML(){
   .footer-notes p { margin: 5px 0; }
   .footer-notes strong { color: #1C1A17; }
 
-  .sig-section { margin-top: 36px; display: grid; grid-template-columns: 1fr 1fr; gap: 36px; }
-  .sig { border-bottom: 1.5px solid #1C1A17; height: 50px; margin-bottom: 6px; }
-  .sig-lbl { font-size: 10px; color: #7A7269; letter-spacing: 1.5px; text-transform: uppercase; font-weight: 600; }
-
   .print-footer { margin-top: 32px; padding-top: 12px; border-top: 1px solid #ddd; text-align: center; font-size: 10px; color: #888; letter-spacing: 1px; text-transform: uppercase; }
 </style></head><body>
 
@@ -443,7 +435,6 @@ function buildEstimateHTML(){
     <div class="meta">
       <div><strong>Estimate #:</strong> ${escapeHTML(j.num)}</div>
       <div><strong>Date:</strong> ${fmtDate(j.date)}</div>
-      <div><strong>Valid for:</strong> ${escapeHTML(j.valid)} days</div>
       ${j.project ? `<div><strong>Project:</strong> ${escapeHTML(j.project)}</div>` : ''}
     </div>
   </div>
@@ -480,20 +471,7 @@ function buildEstimateHTML(){
 ${notesBlock}
 
 <div class="footer-notes">
-  <p><strong>Terms:</strong> This estimate is valid for ${escapeHTML(j.valid)} days from the date above. Acceptance constitutes authorization to proceed with the scope described.</p>
-  <p><strong>Hidden Conditions:</strong> Rot, damaged sheathing, or other conditions not visible at walk-through are not included in this estimate. Any discovered conditions will be documented with photos and priced as a change order before work proceeds.</p>
-  <p><strong>Permits:</strong> Required permits are billed at-cost on the final invoice.</p>
-</div>
-
-<div class="sig-section">
-  <div>
-    <div class="sig"></div>
-    <div class="sig-lbl">Homeowner Signature &amp; Date</div>
-  </div>
-  <div>
-    <div class="sig"></div>
-    <div class="sig-lbl">${escapeHTML(j.preparedBy)} · Date</div>
-  </div>
+  <p><strong>INMA is not a contractor.</strong> We work within a network of vetted local crews as an advocate for our clients. This is an estimate of fair-market cost for the scope described above &mdash; not an offer to perform construction.</p>
 </div>
 
 <div class="print-footer">INMA · Inland Northwest Marketing Affiliates · Spokane WA · inmagent.com</div>
