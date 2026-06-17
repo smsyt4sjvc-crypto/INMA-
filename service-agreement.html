@@ -283,11 +283,10 @@ function buildAgreementHTML(d){
 
 <script>
 function shareDoc(){
-  if (!navigator.share){ alert('Sharing not available on this device. Use Print to save as PDF.'); return; }
+  if (!navigator.share){ alert('Sharing not available on this device. Use Print to save as PDF, then share from Files.'); return; }
   navigator.share({
-    title: 'INMA Service Agreement — ${escapeHTML(d.name)}',
-    text: 'Service Agreement from INMA · ${escapeHTML(d.name)}',
-    url: window.location.href || 'https://inmagent.com'
+    title: 'INMA Service Agreement',
+    url: 'https://inmagent.com/service-agreement.html'
   }).catch(()=>{});
 }
 </script>
