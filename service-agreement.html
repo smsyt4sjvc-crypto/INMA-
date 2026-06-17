@@ -46,6 +46,10 @@
   .btn-primary{background:#B8941F;color:#1C1A17;border:none;padding:18px;border-radius:12px;font-weight:700;font-size:16px;font-family:inherit;cursor:pointer;letter-spacing:.5px;width:100%}
   .btn-primary:hover{background:#d4a828}
 
+  .btn-contact{display:block;width:100%;background:#1C1A17;border:1px solid #3a352e;color:#F5F2ED;padding:14px;border-radius:999px;font-family:inherit;font-size:15px;font-weight:600;cursor:pointer;margin-bottom:18px;letter-spacing:.3px;transition:background .15s,border-color .15s}
+  .btn-contact:hover,.btn-contact:active{background:#2a2620;border-color:#B8941F}
+  .btn-contact .ico{margin-right:8px}
+
   @media(max-width:560px){
     .row{grid-template-columns:1fr}
   }
@@ -65,21 +69,23 @@
       <h2>Homeowner Info</h2>
       <p class="sub">Type in the details — the agreement fills itself in. Sign on the printed copy.</p>
 
+      <button id="contactBtn" type="button" class="btn-contact"><span class="ico">📇</span>Import from Contacts</button>
+
       <div class="row">
         <div class="field"><label>Agreement Date</label><input id="agreementDate" type="text" readonly></div>
         <div class="field"><label>Project Type</label><input id="projectType" type="text" placeholder="Siding · Windows · Doors" autocomplete="off"></div>
       </div>
 
-      <div class="field"><label>Homeowner(s)</label><input id="ownerName" type="text" placeholder="Full name(s)" autocomplete="off"></div>
+      <div class="field"><label>Homeowner(s)</label><input id="ownerName" type="text" placeholder="Full name(s)" autocomplete="name"></div>
 
-      <div class="field"><label>Project Address</label><input id="propertyAddress" type="text" placeholder="Street address" autocomplete="off"></div>
+      <div class="field"><label>Project Address</label><input id="propertyAddress" type="text" placeholder="Street address" autocomplete="street-address"></div>
 
       <div class="row">
-        <div class="field"><label>City / State / ZIP</label><input id="cityStateZip" type="text" placeholder="Spokane, WA 99201" autocomplete="off"></div>
-        <div class="field"><label>Phone</label><input id="ownerPhone" type="tel" placeholder="(509) 000-0000" autocomplete="off"></div>
+        <div class="field"><label>City / State / ZIP</label><input id="cityStateZip" type="text" placeholder="Spokane, WA 99201" autocomplete="address-level2"></div>
+        <div class="field"><label>Phone</label><input id="ownerPhone" type="tel" placeholder="(509) 000-0000" autocomplete="tel"></div>
       </div>
 
-      <div class="field"><label>Homeowner Email</label><input id="ownerEmail" type="email" placeholder="email@example.com" autocomplete="off"></div>
+      <div class="field"><label>Homeowner Email</label><input id="ownerEmail" type="email" placeholder="email@example.com" autocomplete="email"></div>
     </div>
 
     <div class="card">
@@ -96,7 +102,6 @@
 
     <div class="card" style="text-align:center;background:transparent;border:0;box-shadow:none;padding:0">
       <button class="btn-primary" id="generateBtn" type="button">📄 Generate &amp; Print / Share / Save PDF</button>
-      <p style="font-size:12px;opacity:.5;margin-top:14px;line-height:1.5">Opens a new tab with the formatted agreement. From there: tap Print to save as PDF, or tap Share for AirDrop / Mail / Messages / Files.</p>
     </div>
   </main>
 </div>
@@ -112,9 +117,38 @@ function fmtFee(raw){
 }
 function escapeHTML(s){ return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
 
+async function pickContact(){
+  if ('contacts' in navigator && 'ContactsManager' in window){
+    try {
+      const wanted = ['name','tel','email','address'];
+      const supported = await navigator.contacts.getProperties();
+      const props = wanted.filter(p => supported.includes(p));
+      const result = await navigator.contacts.select(props, { multiple:false });
+      if (!result || !result.length) return;
+      const c = result[0];
+      if (c.name && c.name[0]) $('#ownerName').value = c.name[0];
+      if (c.tel && c.tel[0])  $('#ownerPhone').value = c.tel[0];
+      if (c.email && c.email[0]) $('#ownerEmail').value = c.email[0];
+      if (c.address && c.address[0]){
+        const a = c.address[0];
+        const street = (a.addressLine && a.addressLine.join(' ')) || '';
+        if (street) $('#propertyAddress').value = street;
+        const csz = [a.city, a.region, a.postalCode].filter(Boolean).join(', ').replace(/,\s*(\d{5})/, ' $1');
+        if (csz) $('#cityStateZip').value = csz;
+      }
+      return;
+    } catch(e){ /* user cancelled or denied — fall through */ return; }
+  }
+  // iOS Safari has no Contacts API. Focus the name field so the QuickType bar shows contact suggestions.
+  const nameField = $('#ownerName');
+  nameField.focus();
+  alert('iOS Safari does not allow web pages to open Contacts directly.\n\nTap the Homeowner field, then tap the "Contact" suggestion above the keyboard to pull from your iPhone contacts.');
+}
+
 document.addEventListener('DOMContentLoaded', () => {
   $('#agreementDate').value = new Date().toLocaleDateString('en-US', { year:'numeric', month:'long', day:'numeric' });
   $('#generateBtn').addEventListener('click', generate);
+  $('#contactBtn').addEventListener('click', pickContact);
 });
 
 function getData(){
