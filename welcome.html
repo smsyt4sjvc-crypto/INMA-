@@ -40,11 +40,14 @@
   .brand{font-family:'DM Serif Display',serif;font-size:46px;color:#B8941F;letter-spacing:1px;line-height:1;margin:0 0 4px}
   .tag{font-size:13px;letter-spacing:2.5px;text-transform:uppercase;color:#9A958E;font-weight:500}
 
-  .welcome-card{background:#2C2A27;border:1px solid #3a352e;border-radius:18px;padding:28px 24px;margin-bottom:28px;text-align:center}
-  .welcome-card h1{font-family:'DM Serif Display',serif;font-size:28px;color:#F5F2ED;margin:0 0 10px;line-height:1.2}
-  .welcome-card p{margin:0;font-size:15.5px;line-height:1.55;color:#D6D0C6}
-  .welcome-card .accent{color:#B8941F;font-weight:600}
-  .welcome-card .kicker{margin:16px 0 0;padding-top:14px;border-top:1px solid #3a352e;font-size:14px;font-weight:700;color:#B8941F;letter-spacing:.5px;text-transform:uppercase}
+  .welcome-card{background:#2C2A27;border:1px solid #3a352e;border-radius:18px;padding:32px 26px;margin-bottom:28px;text-align:center}
+  .welcome-card .wc-logo{width:80px;height:80px;border-radius:16px;object-fit:cover;border:2px solid #3a352e;margin:0 auto 14px;display:block}
+  .welcome-card .eyebrow{margin:0 0 6px;font-size:12px;letter-spacing:2.5px;text-transform:uppercase;color:#9A958E;font-weight:600}
+  .welcome-card h1{font-family:'DM Serif Display',serif;font-size:30px;color:#B8941F;margin:0 0 18px;line-height:1.1;letter-spacing:.5px;text-transform:uppercase}
+  .welcome-card p{margin:0 0 14px;font-size:15.5px;line-height:1.6;color:#D6D0C6;text-align:left}
+  .welcome-card p:last-child{margin-bottom:0}
+  .welcome-card .accent{color:#F5F2ED;font-weight:600}
+  .welcome-card .kicker{margin:16px 0 0;padding-top:14px;border-top:1px solid #3a352e;font-size:14px;font-weight:700;color:#B8941F;letter-spacing:.5px;text-transform:uppercase;text-align:center}
 
   .picks h2{font-size:14px;letter-spacing:2px;text-transform:uppercase;color:#9A958E;font-weight:600;margin:0 0 14px;text-align:center}
 
@@ -91,15 +94,13 @@
 
 <div class="wrap">
 
-  <header class="top">
-    <img class="logo" src="/bear-logo.jpg" alt="INMA bear logo" onerror="this.style.display='none'">
-    <h1 class="brand">INMA</h1>
-    <div class="tag">Your Personal Homeowner Advocate</div>
-  </header>
-
   <div class="welcome-card">
-    <h1>One step closer to a new way to hire.</h1>
-    <p>As your personal homeowner advocate, <span class="accent">I work for you</span> — not the crew doing the work. My only job is to make sure you hire the right guy, the first time.</p>
+    <img class="wc-logo" src="/bear-logo.jpg" alt="INMA bear logo" onerror="this.style.display='none'">
+    <p class="eyebrow">Thanks for visiting</p>
+    <h1>Your Homeowner Advocate</h1>
+    <p>I'm not a contractor. I'm your personal homeowner advocate. You hire me to represent you — <span class="accent">like a buyer's agent for your project</span>. I work for you, not the crew doing the work.</p>
+    <p>25 years in residential construction. I ran my own siding company in Spokane from 2018 to 2023, then watched too many homeowners get burned — first by the national companies taking 30-40% off the top, then by the cheapest-bid Craigslist race.</p>
+    <p>So I built the thing that should have existed 20 years ago: <span class="accent">vetted local crews, fair-market pricing, no kickbacks, no ad budget buried in your quote</span>. My fee comes out of the contract price — deducted dollar-for-dollar, in front of you. Not added on top.</p>
     <p class="kicker">No phone tag. No surprise costs. No hiring twice.</p>
   </div>
 
