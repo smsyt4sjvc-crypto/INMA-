@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Welcome — INMA Homeowner Advocate · Spokane</title>
+<meta name="description" content="You scanned an INMA mailer. Pick the path that fits — upload a quote for review, see fair-market pricing, or browse recent work.">
+<link rel="canonical" href="https://inmagent.com/welcome">
+<meta property="og:title" content="Welcome — INMA Homeowner Advocate">
+<meta property="og:description" content="Your personal homeowner advocate in the Inland Northwest.">
+<meta property="og:image" content="https://inmagent.com/IMG_6892.jpeg">
+<meta name="theme-color" content="#1C1A17">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VV2L4DCPC1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-VV2L4DCPC1');
+  // Tag this visit as a mailer scan if no other utm_source already set
+  (function(){
+    var p = new URLSearchParams(location.search);
+    if (!p.get('utm_source')){
+      gtag('event','mailer_scan',{page_location:location.href});
+    }
+  })();
+</script>
+<script src="/inma-fb-rescue.js"></script>
+<style>
+  *,*::before,*::after{box-sizing:border-box}
+  html,body{margin:0;padding:0;background:#1C1A17;color:#F5F2ED;font-family:'Outfit',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+  body{min-height:100vh;min-height:100dvh}
+
+  .wrap{max-width:640px;margin:0 auto;padding:48px 24px 80px}
+
+  .top{text-align:center;margin-bottom:36px}
+  .logo{width:96px;height:96px;border-radius:18px;object-fit:cover;border:2px solid #3a352e;margin-bottom:18px}
+  .brand{font-family:'DM Serif Display',serif;font-size:46px;color:#B8941F;letter-spacing:1px;line-height:1;margin:0 0 4px}
+  .tag{font-size:13px;letter-spacing:2.5px;text-transform:uppercase;color:#9A958E;font-weight:500}
+
+  .welcome-card{background:#2C2A27;border:1px solid #3a352e;border-radius:18px;padding:28px 24px;margin-bottom:28px;text-align:center}
+  .welcome-card h1{font-family:'DM Serif Display',serif;font-size:28px;color:#F5F2ED;margin:0 0 10px;line-height:1.2}
+  .welcome-card p{margin:0;font-size:15.5px;line-height:1.55;color:#D6D0C6}
+  .welcome-card .accent{color:#B8941F;font-weight:600}
+
+  .picks h2{font-size:14px;letter-spacing:2px;text-transform:uppercase;color:#9A958E;font-weight:600;margin:0 0 14px;text-align:center}
+
+  .pick{display:flex;align-items:center;gap:16px;background:#2C2A27;border:1px solid #3a352e;border-radius:14px;padding:18px 18px;margin-bottom:12px;color:#F5F2ED;text-decoration:none;transition:border-color .15s,transform .15s}
+  .pick:hover,.pick:active{border-color:#B8941F;transform:translateY(-1px)}
+  .pick .icon{flex-shrink:0;width:48px;height:48px;border-radius:12px;background:rgba(184,148,31,.12);display:flex;align-items:center;justify-content:center;font-size:24px}
+  .pick .body{flex:1;min-width:0}
+  .pick .title{font-size:17px;font-weight:700;color:#F5F2ED;margin:0 0 2px}
+  .pick .sub{font-size:13.5px;color:#9A958E;margin:0;line-height:1.4}
+  .pick .arrow{color:#B8941F;font-size:22px;flex-shrink:0}
+
+  .contact{margin-top:32px;text-align:center;padding-top:28px;border-top:1px solid #3a352e}
+  .contact .lbl{font-size:12px;letter-spacing:2px;text-transform:uppercase;color:#9A958E;font-weight:600;margin-bottom:10px}
+  .contact-row{display:flex;gap:10px;justify-content:center;flex-wrap:wrap}
+  .contact-btn{display:inline-flex;align-items:center;gap:8px;background:#B8941F;color:#1C1A17;padding:13px 22px;border-radius:999px;font-weight:700;text-decoration:none;font-size:15px}
+  .contact-btn.ghost{background:transparent;color:#F5F2ED;border:1.5px solid #3a352e}
+  .contact-btn:hover{background:#d4a828}
+  .contact-btn.ghost:hover{border-color:#B8941F}
+
+  .footer{margin-top:36px;text-align:center;font-size:12px;color:#7A756D;line-height:1.6}
+  .footer a{color:#9A958E;text-decoration:none}
+
+  @media (max-width:480px){
+    .wrap{padding:32px 20px 60px}
+    .brand{font-size:38px}
+    .welcome-card h1{font-size:24px}
+    .pick{padding:16px}
+    .pick .icon{width:44px;height:44px;font-size:22px}
+    .pick .title{font-size:16px}
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+
+  <header class="top">
+    <img class="logo" src="/bear-logo.jpg" alt="INMA bear logo" onerror="this.style.display='none'">
+    <h1 class="brand">INMA</h1>
+    <div class="tag">Your Personal Homeowner Advocate</div>
+  </header>
+
+  <div class="welcome-card">
+    <h1>Thanks for scanning.</h1>
+    <p>You're holding a mailer because <span class="accent">your home is on a short list</span> of properties in the area that fit the profile. Pick the path below that's most useful to you.</p>
+  </div>
+
+  <div class="picks">
+    <h2>Choose your path</h2>
+
+    <a href="/upload.html?utm_source=welcome&utm_medium=mailer" class="pick">
+      <div class="icon">📄</div>
+      <div class="body">
+        <p class="title">Upload Your Existing Quote</p>
+        <p class="sub">Already have a contractor's bid? I'll review it free. Fair-market check in 24 hours.</p>
+      </div>
+      <span class="arrow">→</span>
+    </a>
+
+    <a href="/market-report.html?utm_source=welcome&utm_medium=mailer" class="pick">
+      <div class="icon">📊</div>
+      <div class="body">
+        <p class="title">See Spokane Fair-Market Pricing</p>
+        <p class="sub">What siding, windows, doors, and exterior work actually cost in our area.</p>
+      </div>
+      <span class="arrow">→</span>
+    </a>
+
+    <a href="/work.html?utm_source=welcome&utm_medium=mailer" class="pick">
+      <div class="icon">🏠</div>
+      <div class="body">
+        <p class="title">See Recent Work</p>
+        <p class="sub">Real installs across Spokane. Before, after, and what the homeowners paid.</p>
+      </div>
+      <span class="arrow">→</span>
+    </a>
+
+    <a href="/consult.html?utm_source=welcome&utm_medium=mailer" class="pick">
+      <div class="icon">🤝</div>
+      <div class="body">
+        <p class="title">Book a Free Walk-Around</p>
+        <p class="sub">20 minutes on-site. No pitch, no pressure. Just an honest read.</p>
+      </div>
+      <span class="arrow">→</span>
+    </a>
+  </div>
+
+  <div class="contact">
+    <div class="lbl">Or reach out directly</div>
+    <div class="contact-row">
+      <a class="contact-btn" href="tel:+15092517792">📞 (509) 251-7792</a>
+      <a class="contact-btn ghost" href="sms:+15092517792">💬 Text</a>
+    </div>
+  </div>
+
+  <div class="footer">
+    <strong style="color:#9A958E">INMA</strong> · Jake Bishop · Spokane, WA<br>
+    <a href="/">inmagent.com</a> · <a href="mailto:jake@inmagent.com">jake@inmagent.com</a>
+  </div>
+
+</div>
+
+</body>
+</html>
