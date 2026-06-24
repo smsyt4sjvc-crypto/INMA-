@@ -246,10 +246,21 @@
     table{font-size:13px;display:block;overflow-x:auto}
     .pull{padding:16px 18px;font-size:14px}
   }
+
+  .topbar{position:sticky;top:0;z-index:50;background:#16213A;padding:10px 18px;display:flex;justify-content:space-between;align-items:center;gap:12px;box-shadow:0 1px 0 rgba(0,0,0,.05)}
+  .topbar .mark{font-family:'Inter',sans-serif;font-size:18px;color:#F4F5F7;letter-spacing:1.5px;text-decoration:none;font-weight:700;line-height:1}
+  .topbar .home{display:inline-flex;align-items:center;gap:6px;background:#F4F5F7;color:#16213A;padding:8px 14px;border-radius:999px;font-weight:600;font-size:13px;text-decoration:none}
+  .topbar .home:hover{background:#fff}
+  @media print{.topbar{display:none}}
 </style>
 </head>
 <body>
 <script src="/inma-fb-rescue.js"></script>
+
+<div class="topbar">
+  <a href="/" class="mark">INMA</a>
+  <a href="/" class="home">Home →</a>
+</div>
 
 <div class="page">
 

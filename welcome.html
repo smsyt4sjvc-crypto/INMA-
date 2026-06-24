@@ -75,9 +75,19 @@
     .pick .icon{width:44px;height:44px;font-size:22px}
     .pick .title{font-size:16px}
   }
+
+  .topbar{position:sticky;top:0;z-index:50;background:#1C1A17;border-bottom:1px solid #3a352e;padding:10px 18px;display:flex;justify-content:space-between;align-items:center;gap:12px}
+  .topbar .mark{font-family:'DM Serif Display',serif;font-size:22px;color:#B8941F;letter-spacing:1px;text-decoration:none;line-height:1}
+  .topbar .home{display:inline-flex;align-items:center;gap:6px;background:#B8941F;color:#1C1A17;padding:8px 14px;border-radius:999px;font-weight:700;font-size:13px;text-decoration:none}
+  .topbar .home:hover{background:#d4a828}
 </style>
 </head>
 <body>
+
+<div class="topbar">
+  <a href="/" class="mark">INMA</a>
+  <a href="/" class="home">Home →</a>
+</div>
 
 <div class="wrap">
 
