@@ -38,7 +38,11 @@
   body{font-family:'Outfit',system-ui,sans-serif;background:#F5F2ED;color:#3A3835;line-height:1.55;-webkit-font-smoothing:antialiased}
   a{color:#8B6914}
   .wrap{max-width:1100px;margin:0 auto;padding:0 20px}
-  .topnav{position:sticky;top:0;z-index:100;background:#1E2619;border-bottom:1px solid #2A3524;padding:10px 20px;display:flex;justify-content:space-between;align-items:center;gap:12px;padding-top:calc(10px + env(safe-area-inset-top))}
+  .sticky-top{position:sticky;top:0;z-index:100;background:#B8941F;padding-top:env(safe-area-inset-top)}
+  .offer-bar{display:flex;align-items:center;justify-content:center;gap:10px;text-decoration:none;background:linear-gradient(90deg,#B8941F 0%,#D4A843 50%,#B8941F 100%);color:#1E2619;padding:12px 16px;font-weight:800;font-size:15px;letter-spacing:.3px;text-align:center;line-height:1.25}
+  .offer-bar .gift{font-size:19px}
+  .offer-bar .claim{font-weight:700;font-size:13px;background:#1E2619;color:#FCD34D;padding:5px 11px;border-radius:999px;white-space:nowrap}
+  .topnav{position:relative;z-index:100;background:#1E2619;border-bottom:1px solid #2A3524;padding:10px 20px;display:flex;justify-content:space-between;align-items:center;gap:12px}
   .topnav-back{display:inline-flex;align-items:center;gap:6px;color:#F5F2ED;text-decoration:none;font-weight:600;font-size:14px;padding:6px 10px;border-radius:8px;transition:background .2s}
   .topnav-back:hover{background:rgba(184,148,31,.15);color:#B8941F}
   .topnav-brand{color:#B8941F;text-decoration:none;font-size:12px;letter-spacing:2px;text-transform:uppercase;font-weight:700}
@@ -63,7 +67,7 @@
   .hero .brand{font-size:13px;letter-spacing:3px;text-transform:uppercase;color:#B8941F;font-weight:600;margin-bottom:14px}
   .hero h1{font-size:clamp(30px,5vw,46px);font-weight:800;margin:0 0 8px;letter-spacing:-.5px;line-height:1.1}
   .hero .lede{font-size:clamp(14px,2vw,17px);opacity:.85;max-width:580px;margin:0 auto;font-weight:400}
-  .filter-bar{background:#ECE6DB;padding:14px 0;position:sticky;top:55px;z-index:50;border-bottom:1px solid #D6D0C6}
+  .filter-bar{background:#ECE6DB;padding:14px 0;position:sticky;top:99px;z-index:50;border-bottom:1px solid #D6D0C6}
   .filter-bar.hidden{display:none}
   .filters{display:flex;gap:8px;flex-wrap:wrap;justify-content:center}
   .filter-btn{background:transparent;border:1px solid #C8BFAD;color:#5A5550;padding:8px 16px;border-radius:999px;font-family:inherit;font-size:13px;font-weight:600;cursor:pointer;transition:all .2s;letter-spacing:.3px}
@@ -107,19 +111,26 @@
   @media(max-width:560px){
     .pair{grid-template-columns:1fr}
     .pair .half:first-child{border-right:none;border-bottom:2px solid #fff}
-    .filter-bar{top:48px}
+    .filter-bar{top:92px}
+    .offer-bar{font-size:13.5px;padding:11px 12px;gap:8px}
+    .offer-bar .claim{font-size:12px;padding:5px 9px}
   }
 </style>
 </head>
 <body>
 
-<nav class="topnav">
-  <a href="index.html" class="topnav-back" aria-label="Back to inmagent.com">
-    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
-    <span>Back to INMA</span>
+<div class="sticky-top">
+  <a class="offer-bar" href="sms:+15092517792?&body=I%20scanned%20your%20mailer%20%E2%80%94%20I%27d%20like%20to%20claim%20my%2020%25%20off%20Home%20Tune-Up.">
+    <span class="gift">🎁</span> <span>You earned <strong>20% OFF</strong> a Home Tune-Up</span> <span class="claim">Claim →</span>
   </a>
-  <a href="index.html" class="topnav-brand">inmagent.com</a>
-</nav>
+  <nav class="topnav">
+    <a href="index.html" class="topnav-back" aria-label="Back to inmagent.com">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+      <span>Back to INMA</span>
+    </a>
+    <a href="index.html" class="topnav-brand">inmagent.com</a>
+  </nav>
+</div>
 
 <section class="welcome-intro">
   <div class="welcome-intro-card">
@@ -135,8 +146,8 @@
       <a class="wc-btn ghost" href="sms:+15092517792">💬 Text</a>
       <a class="wc-btn ghost" href="mailto:jake@inmagent.com">✉️ Email</a>
     </div>
-    <a class="wc-offer" href="sms:+15092517792?&body=I%20scanned%20your%20mailer%20%E2%80%94%20I%27d%20like%20to%20claim%20my%2015%25%20off%20Home%20Tune-Up.">
-      <span class="gift">🎁</span> Congrats — 15% Off Home Tune-Up
+    <a class="wc-offer" href="sms:+15092517792?&body=I%20scanned%20your%20mailer%20%E2%80%94%20I%27d%20like%20to%20claim%20my%2020%25%20off%20Home%20Tune-Up.">
+      <span class="gift">🎁</span> Congrats — 20% Off Home Tune-Up
       <span class="sub">You earned it by scanning. Tap to claim with one text.</span>
     </a>
   </div>

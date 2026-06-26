@@ -87,17 +87,31 @@
     .pick .title{font-size:16px}
   }
 
-  .topbar{position:sticky;top:0;z-index:50;background:#1C1A17;border-bottom:1px solid #3a352e;padding:10px 18px;display:flex;justify-content:space-between;align-items:center;gap:12px}
+  .topbar{position:relative;z-index:50;background:#1C1A17;border-bottom:1px solid #3a352e;padding:10px 18px;display:flex;justify-content:space-between;align-items:center;gap:12px}
   .topbar .mark{font-family:'DM Serif Display',serif;font-size:22px;color:#B8941F;letter-spacing:1px;text-decoration:none;line-height:1}
   .topbar .home{display:inline-flex;align-items:center;gap:6px;background:#B8941F;color:#1C1A17;padding:8px 14px;border-radius:999px;font-weight:700;font-size:13px;text-decoration:none}
   .topbar .home:hover{background:#d4a828}
+
+  .sticky-top{position:sticky;top:0;z-index:60}
+  .offer-bar{display:flex;align-items:center;justify-content:center;gap:10px;text-decoration:none;background:linear-gradient(90deg,#B8941F 0%,#D4A843 50%,#B8941F 100%);color:#1C1A17;padding:12px 16px;font-weight:800;font-size:15px;letter-spacing:.3px;text-align:center;line-height:1.25}
+  .offer-bar .gift{font-size:19px}
+  .offer-bar .claim{font-weight:700;font-size:13px;background:#1C1A17;color:#FCD34D;padding:5px 11px;border-radius:999px;white-space:nowrap}
+  @media (max-width:480px){
+    .offer-bar{font-size:13.5px;padding:11px 12px;gap:8px}
+    .offer-bar .claim{font-size:12px;padding:5px 9px}
+  }
 </style>
 </head>
 <body>
 
-<div class="topbar">
-  <a href="/" class="mark">INMA</a>
-  <a href="/" class="home">Home →</a>
+<div class="sticky-top">
+  <a class="offer-bar" href="sms:+15092517792?&body=I%20scanned%20your%20mailer%20%E2%80%94%20I%27d%20like%20to%20claim%20my%2020%25%20off%20Home%20Tune-Up.">
+    <span class="gift">🎁</span> <span>You earned <strong>20% OFF</strong> a Home Tune-Up</span> <span class="claim">Claim →</span>
+  </a>
+  <div class="topbar">
+    <a href="/" class="mark">INMA</a>
+    <a href="/" class="home">Home →</a>
+  </div>
 </div>
 
 <div class="wrap">
@@ -147,10 +161,10 @@
       <span class="arrow">→</span>
     </a>
 
-    <a href="sms:+15092517792?&body=I%20scanned%20your%20mailer%20%E2%80%94%20I%27d%20like%20to%20claim%20my%2015%25%20off%20Home%20Tune-Up." class="pick pick-offer">
+    <a href="sms:+15092517792?&body=I%20scanned%20your%20mailer%20%E2%80%94%20I%27d%20like%20to%20claim%20my%2020%25%20off%20Home%20Tune-Up." class="pick pick-offer">
       <div class="icon">🎁</div>
       <div class="body">
-        <p class="title">Congrats — 15% Off Home Tune-Up</p>
+        <p class="title">Congrats — 20% Off Home Tune-Up</p>
         <p class="sub">You earned it by scanning. Inspect · Seal · Clean · Report. Tap to claim with one text.</p>
       </div>
       <span class="arrow">→</span>
