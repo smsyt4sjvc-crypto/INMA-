@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow">
+<title>Reality Check — The Economics Behind the Slogans</title>
+<meta name="description" content="An interactive policy pressure-test. Pull a lever, watch 5 years of consequences, and see why 'just pay people more' and 'pure free market' are never that simple.">
+<meta name="theme-color" content="#0E1726">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<style>
+  *,*::before,*::after{box-sizing:border-box}
+  :root{
+    --bg:#0E1726; --panel:#16223A; --panel2:#1D2C49; --line:#27395C;
+    --ink:#EAF0FA; --dim:#8FA3C4; --gold:#E0B341; --green:#46C28E; --red:#F0685E; --blue:#5B9DF0;
+  }
+  html,body{margin:0;padding:0}
+  body{background:var(--bg);color:var(--ink);font-family:'Inter',system-ui,sans-serif;line-height:1.55;-webkit-font-smoothing:antialiased}
+  .mono{font-family:'JetBrains Mono',monospace}
+  a{color:var(--blue)}
+
+  .topbar{position:sticky;top:0;z-index:50;background:#0B1220;border-bottom:1px solid var(--line);padding:10px 18px;display:flex;justify-content:space-between;align-items:center;gap:12px}
+  .topbar .mark{font-weight:800;letter-spacing:1px;color:var(--gold);text-decoration:none;font-size:16px}
+  .topbar .home{background:var(--panel2);color:var(--ink);border:1px solid var(--line);padding:7px 13px;border-radius:999px;font-weight:600;font-size:13px;text-decoration:none}
+
+  .wrap{max-width:1080px;margin:0 auto;padding:28px 20px 80px}
+
+  header.hero{text-align:center;padding:18px 0 26px;border-bottom:1px solid var(--line);margin-bottom:26px}
+  header.hero .eyebrow{font-size:12px;letter-spacing:3px;text-transform:uppercase;color:var(--gold);font-weight:700}
+  header.hero h1{font-size:clamp(26px,4.5vw,40px);margin:8px 0 8px;letter-spacing:-.5px;line-height:1.1}
+  header.hero p{color:var(--dim);max-width:640px;margin:0 auto;font-size:15px}
+
+  .grid{display:grid;grid-template-columns:340px 1fr;gap:22px;align-items:start}
+  @media(max-width:840px){.grid{grid-template-columns:1fr}}
+
+  .panel{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:20px}
+  .panel h2{margin:0 0 4px;font-size:17px}
+  .panel .hint{color:var(--dim);font-size:12.5px;margin:0 0 16px}
+
+  .controls{position:sticky;top:64px}
+  @media(max-width:840px){.controls{position:static}}
+
+  .lever{margin-bottom:18px}
+  .lever .row{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:6px}
+  .lever label{font-size:13.5px;font-weight:600}
+  .lever .val{font-family:'JetBrains Mono',monospace;font-size:14px;color:var(--gold);font-weight:700}
+  input[type=range]{width:100%;-webkit-appearance:none;height:6px;border-radius:999px;background:var(--panel2);outline:none}
+  input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:20px;height:20px;border-radius:50%;background:var(--gold);cursor:pointer;border:3px solid #0B1220}
+  input[type=range]::-moz-range-thumb{width:20px;height:20px;border-radius:50%;background:var(--gold);cursor:pointer;border:3px solid #0B1220}
+  .lever .sub{font-size:11.5px;color:var(--dim);margin-top:4px}
+
+  .toggle-row{display:flex;align-items:center;gap:10px;margin-bottom:14px}
+  .toggle-row input{width:18px;height:18px;accent-color:var(--gold)}
+  .toggle-row label{font-size:13.5px}
+
+  .presets{display:flex;flex-wrap:wrap;gap:8px;margin:4px 0 18px}
+  .preset{background:var(--panel2);border:1px solid var(--line);color:var(--ink);font-family:inherit;font-size:12.5px;font-weight:600;padding:8px 12px;border-radius:999px;cursor:pointer;transition:all .15s}
+  .preset:hover{border-color:var(--gold);color:var(--gold)}
+
+  .runbtn{width:100%;background:var(--gold);color:#0B1220;border:0;border-radius:12px;padding:15px;font-weight:800;font-size:15px;font-family:inherit;cursor:pointer;letter-spacing:.3px}
+  .runbtn:hover{background:#edc358}
+
+  /* Verdict */
+  .verdict{border-radius:14px;padding:18px 20px;margin-bottom:20px;border:1px solid var(--line);background:var(--panel2)}
+  .verdict .tag{display:inline-block;font-size:11px;font-weight:800;letter-spacing:2px;text-transform:uppercase;padding:4px 10px;border-radius:999px;margin-bottom:10px}
+  .verdict.good .tag{background:rgba(70,194,142,.16);color:var(--green)}
+  .verdict.mixed .tag{background:rgba(224,179,65,.16);color:var(--gold)}
+  .verdict.bad .tag{background:rgba(240,104,94,.16);color:var(--red)}
+  .verdict h3{margin:0 0 6px;font-size:21px}
+  .verdict p{margin:0;color:var(--ink);font-size:14.5px}
+
+  /* KPI cards */
+  .kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:22px}
+  @media(max-width:680px){.kpis{grid-template-columns:repeat(2,1fr)}}
+  .kpi{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px}
+  .kpi .k-label{font-size:11px;letter-spacing:1px;text-transform:uppercase;color:var(--dim);font-weight:600}
+  .kpi .k-val{font-family:'JetBrains Mono',monospace;font-size:22px;font-weight:700;margin-top:6px}
+  .kpi .k-delta{font-size:12px;font-weight:600;margin-top:2px}
+  .up{color:var(--green)} .down{color:var(--red)} .flat{color:var(--dim)}
+
+  .charts{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:22px}
+  @media(max-width:680px){.charts{grid-template-columns:1fr}}
+  .chart{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 14px 8px}
+  .chart h4{margin:0 0 2px;font-size:13.5px}
+  .chart .csub{margin:0 0 8px;font-size:11px;color:var(--dim)}
+  svg{width:100%;height:auto;display:block}
+
+  .story{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:20px 22px;margin-bottom:22px}
+  .story h3{margin:0 0 12px;font-size:17px;display:flex;align-items:center;gap:8px}
+  .story .beat{display:flex;gap:12px;padding:11px 0;border-top:1px solid var(--line)}
+  .story .beat:first-of-type{border-top:0}
+  .story .yr{flex-shrink:0;width:54px;font-family:'JetBrains Mono',monospace;font-size:12px;font-weight:700;color:var(--gold)}
+  .story .txt{font-size:14px;color:var(--ink)}
+  .story .txt b{color:#fff}
+
+  table.years{width:100%;border-collapse:collapse;font-size:12.5px;margin-top:4px}
+  table.years th,table.years td{padding:8px 10px;text-align:right;border-bottom:1px solid var(--line);font-family:'JetBrains Mono',monospace}
+  table.years th:first-child,table.years td:first-child{text-align:left;font-family:'Inter',sans-serif;font-weight:600}
+  table.years thead th{color:var(--dim);font-weight:600;font-family:'Inter',sans-serif}
+
+  .disclaimer{color:var(--dim);font-size:12px;margin-top:24px;border-top:1px solid var(--line);padding-top:16px;line-height:1.6}
+  .empty{color:var(--dim);text-align:center;padding:60px 20px;font-size:15px}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <a href="/" class="mark">INMA</a>
+  <a href="/" class="home">Home →</a>
+</div>
+
+<div class="wrap">
+  <header class="hero">
+    <div class="eyebrow">Policy Pressure-Test</div>
+    <h1>Reality Check</h1>
+    <p>Pull a lever. Watch five years play out. The slogans — "just pay people more," "let the free market sort it out" — aren't wrong because the goal is bad. They're incomplete because they skip the second-order effects. This shows you the part the slogan skips.</p>
+  </header>
+
+  <div class="grid">
+    <!-- CONTROLS -->
+    <div class="panel controls">
+      <h2>The Levers</h2>
+      <p class="hint">You run a 50-person mid-margin business (think a restaurant group or regional retailer). Thin 8% margins — where these policies bite hardest.</p>
+
+      <div class="presets" id="presets"></div>
+
+      <div class="lever">
+        <div class="row"><label>Minimum wage</label><span class="val" id="v-wage">$15/hr</span></div>
+        <input type="range" id="wage" min="8" max="30" step="0.5" value="15">
+        <div class="sub">Your current average wage is $15/hr.</div>
+      </div>
+
+      <div class="lever">
+        <div class="row"><label>Corporate tax rate</label><span class="val" id="v-tax">25%</span></div>
+        <input type="range" id="tax" min="0" max="50" step="1" value="25">
+        <div class="sub">Tax on profits only.</div>
+      </div>
+
+      <div class="lever">
+        <div class="row"><label>Rule of law &amp; institutions</label><span class="val" id="v-rol">75</span></div>
+        <input type="range" id="rol" min="5" max="100" step="1" value="75">
+        <div class="sub">Courts, contracts, roads, low corruption. Funded by taxes. Drop it to zero for "no government."</div>
+      </div>
+
+      <div class="toggle-row">
+        <input type="checkbox" id="pricecap">
+        <label>Price controls (cap price hikes at 2%/yr)</label>
+      </div>
+      <div class="toggle-row">
+        <input type="checkbox" id="ioss">
+        <label>iOSS profit-sharing on (share 30% of above-baseline gains)</label>
+      </div>
+
+      <button class="runbtn" id="run">▶  Run 5-Year Projection</button>
+    </div>
+
+    <!-- RESULTS -->
+    <div id="results">
+      <div class="empty">Set the levers and hit <b>Run</b>. Try the presets first — start with <b>"$25 minimum wage."</b></div>
+    </div>
+  </div>
+
+  <div class="disclaimer" id="disc" style="display:none">
+    <b>How to read this:</b> This is a deliberately simplified teaching model of one thin-margin business in a competitive market — not an economic forecast, and not the whole economy. Real outcomes depend on industry, region, productivity, and a hundred things no slider captures. The point isn't the exact numbers; it's the <i>shape</i> of the tradeoffs — that magnitude and context decide whether a good-sounding policy helps or backfires. Built to argue with, not to believe.
+  </div>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+
+// ---------- BASELINE (default levers must land exactly here) ----------
+const B = {
+  employees: 50, hours: 2000, wage0: 15,
+  revenue0: 5_000_000, labor0: 1_500_000, other0: 3_100_000,  // -> profit 400k, 8% margin
+  volume0: 50_000, unit0: 92,            // (labor0+other0)/volume0 = 92 ; price0 = 100 (8.7% markup)
+  priceElastic: -1.25, effWageK: 0.13, markup: 1.087,
+  rolRef: 75, taxRate0: 0.25,
+};
+B.profit0 = B.revenue0 - B.labor0 - B.other0;
+B.netProfit0 = B.profit0 * (1 - B.taxRate0);
+
+function clamp(x,a,b){ return Math.max(a, Math.min(b,x)); }
+function fmt$(n){
+  const a=Math.abs(n);
+  if(a>=1e6) return (n<0?'-':'')+'$'+(a/1e6).toFixed(2)+'M';
+  if(a>=1e3) return (n<0?'-':'')+'$'+Math.round(a/1e3)+'k';
+  return (n<0?'-':'')+'$'+Math.round(a);
+}
+function pct(n){ return (n*100).toFixed(0)+'%'; }
+
+// ---------- THE MODEL ----------
+// Every multiplier is anchored to 1.0 at the DEFAULT levers
+// (wage $15, tax 25%, rule-of-law 75, no cap, no iOSS) so the baseline holds at 8% margin.
+function runSim(p){
+  const taxRate = p.taxRate/100;
+  const instProd = clamp(Math.pow(p.rol/B.rolRef, 0.5), 0.25, 1.10); // institutions -> productivity & demand
+  const instCost = 1 + 0.60*Math.max(0,(B.rolRef - p.rol)/B.rolRef);  // weak institutions add cost
+  const instDemand = clamp(Math.pow(p.rol/B.rolRef, 0.6), 0.20, 1.10);
+
+  let headcount = B.employees, automation = 0, cash = 0;
+  let quality = 1;                 // reputational quality, decays if chronically underpaid
+  let priceLevelEcon = 1;          // consumer price level (for real wage)
+  let bankrupt=false, bankruptYear=null;
+  const years=[{ y:0, wage:15, realWage:15, jobs:50, price:100,
+                 revenue:B.revenue0, profit:B.profit0, margin:0.08, net:B.netProfit0, cash:0, share:100 }];
+
+  for (let y=1; y<=5; y++){
+    const wageEff = p.minWage;            // the wage you mandate / pay
+    const rW = wageEff / B.wage0;
+
+    // productivity (1.0 at default)
+    let prod = 1 + B.effWageK*Math.log(rW);
+    if (rW < 1) prod *= 1 - 0.18*(1 - rW);          // underpay -> turnover / effort drag
+    if (p.ioss) prod *= 1.05;                        // profit-share lifts retention/effort
+    prod *= instProd;
+    prod *= (1 + 0.30*automation);                   // capital per remaining worker
+    prod = Math.max(prod, 0.4);
+
+    // chronic underpay erodes service quality (slow, compounding) -> demand drag
+    if (rW < 0.92) quality = Math.max(0.80, quality - 0.04);
+    else if (quality < 1) quality = Math.min(1, quality + 0.02);
+
+    // economy-wide wage change passes into supplier costs (everyone pays it)
+    const supInf = 1 + 0.45*(rW - 1);
+
+    // costs ($)
+    const effWorkers = headcount * (1 - automation);
+    const labor = effWorkers * B.hours * wageEff;
+    const autoCost = automation * B.employees * B.hours * B.wage0 * 1.10;
+    const other = B.other0 * supInf * instCost;
+    const totalCost = labor + autoCost + other;
+
+    // unit economics ; productivity lowers unit cost
+    const unitCost = totalCost / (B.volume0 * prod);
+    let priceFirm = unitCost * B.markup;
+    if (p.priceCap) priceFirm = Math.min(priceFirm, 100 * Math.pow(1.02, y));
+
+    // competitors face same economy-wide wage & supplier inflation, baseline productivity
+    const competitorCost = (B.labor0*rW + B.other0*supInf) / B.volume0;
+    const competitorPrice = competitorCost * B.markup * instCost;
+    const relPrice = priceFirm / competitorPrice;
+    priceLevelEcon = competitorPrice / 100;
+    const realIncome = Math.pow(Math.max(priceLevelEcon,0.2), -0.4);
+
+    let volume = B.volume0 * instDemand * quality * Math.pow(relPrice, B.priceElastic) * realIncome;
+    volume = clamp(volume, 0, B.volume0*1.4);
+
+    const revenue = priceFirm * volume;
+    const grossProfit = revenue - totalCost;
+
+    // iOSS: share 30% of profit ABOVE baseline with workers (out of profit)
+    let iossPayout = 0;
+    if (p.ioss && grossProfit > B.profit0) iossPayout = 0.30*(grossProfit - B.profit0);
+    const profit = grossProfit - iossPayout;
+    const margin = revenue>0 ? profit/revenue : -1;
+
+    const tax = Math.max(0, profit) * taxRate;
+    const net = profit - tax;
+    cash += net;
+
+    const epsRatio = net / B.netProfit0;
+    const share = clamp(100 * (0.30 + 0.70*epsRatio) * (margin>0.04?1.05:0.85), 5, 320);
+    const realWage = wageEff / Math.max(priceLevelEcon, 0.2);
+
+    years.push({ y, wage:wageEff, realWage, jobs:Math.round(effWorkers),
+                 price:+(priceLevelEcon*100).toFixed(1), revenue, profit, margin, net, cash,
+                 share, iossPayout, prod, quality });
+
+    if (cash < -0.5*B.revenue0 && !bankrupt){ bankrupt=true; bankruptYear=y; }
+
+    // firm response next year
+    if (margin < 0.02){
+      const cut = clamp((0.02 - margin)*2.0, 0, 0.20);
+      headcount = Math.max(0, headcount*(1-cut));
+      if (wageEff > B.wage0*1.20) automation = clamp(automation + 0.06, 0, 0.40);
+    } else if (margin > 0.11){
+      headcount = Math.min(B.employees*1.25, headcount*1.03);
+    }
+    if (bankrupt) break;
+  }
+
+  return buildReport(p, years, {bankrupt, bankruptYear});
+}
+
+// ---------- REPORT + NARRATIVE ----------
+function buildReport(p, years, st){
+  const last = years[years.length-1];
+  const y0 = years[0];
+  const jobsΔ = last.jobs - y0.jobs;
+  const priceΔ = (last.price-100)/100;
+  const realWageΔ = (last.realWage - y0.realWage)/y0.realWage;
+  const nominalWageΔ = (last.wage - y0.wage)/y0.wage;
+
+  // verdict
+  let cls='mixed', tag='Mixed', title='', lead='';
+  if (st.bankrupt){
+    cls='bad'; tag='Business failed';
+    title=`The company went under in Year ${st.bankruptYear}.`;
+    lead='Costs outran what customers would pay. Cash bled out, the board ran out of patience, and the doors closed — taking every job with it.';
+  } else if (jobsΔ <= -8){
+    cls='bad'; tag='Jobs lost';
+    title=`Survived — by cutting ${Math.abs(jobsΔ)} of ${y0.jobs} jobs.`;
+    lead='The business is still standing, but it got there by shedding workers and leaning on automation. The people still employed earn more; the ones shown the door earn nothing.';
+  } else if (p.rol < 30){
+    cls='bad'; tag='Institutions collapsed';
+    title='Low rule of law strangled the whole thing.';
+    lead='Without enforceable contracts, safe logistics, and low corruption, productivity and demand both crater. "Free market" without a referee isn\'t a market — it\'s Mogadishu, and capital flees.';
+  } else if (realWageΔ > 0.04 && jobsΔ >= -2 && last.margin > 0.03){
+    cls='good'; tag='It worked';
+    title='Real wages rose and the business held.';
+    lead='The increase was within what productivity and pricing could absorb. Workers came out genuinely ahead — proof that "pay more" CAN work, in the right dose.';
+  } else if (priceΔ > 0.12 && realWageΔ < nominalWageΔ*0.5){
+    cls='mixed'; tag='Inflated away';
+    title='Big raise on paper. Much smaller raise in real life.';
+    lead=`Wages rose ${pct(nominalWageΔ)}, but prices rose ${pct(priceΔ)} as the cost passed through. The real, spendable gain was only ${pct(realWageΔ)} — most of the raise evaporated at the register.`;
+  } else {
+    cls='mixed'; tag='Mixed';
+    title='Survived, with tradeoffs.';
+    lead='No clean win, no collapse. The policy moved some dials up and others down — which is what most real policy actually does.';
+  }
+
+  // story beats
+  const beats=[];
+  for (let i=1;i<years.length;i++){
+    const Y=years[i], P=years[i-1];
+    let t='';
+    const mΔ = Y.margin - P.margin;
+    if (i===1){
+      if (p.minWage > B.wage0*1.05)
+        t += `Wage floor jumps to <b>$${p.minWage.toFixed(2)}/hr</b> (was $15). Labor bill climbs immediately; margin slips to <b>${pct(Y.margin)}</b>. `;
+      else if (p.minWage < B.wage0*0.95)
+        t += `Wage floor drops to <b>$${p.minWage.toFixed(2)}/hr</b>. Margin pops, but turnover and effort start to suffer. `;
+      else t += `Wages roughly flat. `;
+      if (p.rol < 30) t += `Weak institutions are taxing every transaction — costs run hot, customers are scarce. `;
+      if (p.priceCap) t += `Price controls mean you can't pass costs through. `;
+    } else {
+      if (Y.jobs < P.jobs) t += `Margins forced layoffs — headcount down to <b>${Y.jobs}</b>. `;
+      else if (Y.jobs > P.jobs) t += `Healthy margins, you hired — up to <b>${Y.jobs}</b>. `;
+      if (Y.price - P.price > 2) t += `Prices pushed up to <b>${(Y.price-100).toFixed(0)}%</b> above baseline. `;
+      if (mΔ > 0.01) t += `Margin recovering (${pct(Y.margin)}). `;
+      else if (mΔ < -0.01) t += `Margin still bleeding (${pct(Y.margin)}). `;
+      if (Y.iossPayout>0) t += `Profit-share paid <b>${fmt$(Y.iossPayout)}</b> to workers. `;
+    }
+    if (st.bankrupt && Y.y===st.bankruptYear) t += `<b style="color:var(--red)">Cash exhausted. Game over.</b> `;
+    if (!t) t='Steady state — no major moves.';
+    beats.push({yr:'Year '+Y.y, txt:t.trim()});
+  }
+
+  return {years, verdict:{cls,tag,title,lead}, beats,
+          kpis:{jobsΔ, priceΔ, realWageΔ, nominalWageΔ, last, y0}};
+}
+
+// ---------- CHARTS (hand-rolled SVG) ----------
+function lineChart(series, opts){
+  // series: [{name,color,data:[v0..v5]}], opts:{w,h,baseline}
+  const w=opts.w||300, h=opts.h||130, pad=24;
+  const all = series.flatMap(s=>s.data);
+  let min=Math.min(...all), max=Math.max(...all);
+  if (opts.zero) min=Math.min(min,0);
+  if (min===max){min-=1;max+=1;}
+  const pany=(max-min)*0.12; min-=pany; max+=pany;
+  const X=i=> pad + i*( (w-pad*1.5)/5 );
+  const Y=v=> h-pad - ( (v-min)/(max-min) )*(h-pad*1.6);
+  let svg=`<svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">`;
+  // baseline at 100 or 0
+  if (opts.baseline!=null){
+    const yb=Y(opts.baseline);
+    svg+=`<line x1="${pad}" y1="${yb}" x2="${w-pad*0.5}" y2="${yb}" stroke="#3a4d72" stroke-dasharray="3 3" stroke-width="1"/>`;
+  }
+  series.forEach(s=>{
+    let d=s.data.map((v,i)=> (i?'L':'M')+X(i).toFixed(1)+' '+Y(v).toFixed(1)).join(' ');
+    svg+=`<path d="${d}" fill="none" stroke="${s.color}" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>`;
+    s.data.forEach((v,i)=> svg+=`<circle cx="${X(i).toFixed(1)}" cy="${Y(v).toFixed(1)}" r="2.6" fill="${s.color}"/>`);
+  });
+  // x labels
+  for(let i=0;i<=5;i++) svg+=`<text x="${X(i)}" y="${h-6}" fill="#6f84a8" font-size="8" font-family="JetBrains Mono" text-anchor="middle">Y${i}</text>`;
+  svg+=`</svg>`;
+  return svg;
+}
+function barChart(data, color, opts){
+  const w=opts.w||300,h=opts.h||130,pad=24;
+  let max=Math.max(...data, opts.baseline||0), min=Math.min(...data,0);
+  if(min===max)max+=1;
+  const bw=(w-pad*1.5)/6*0.6;
+  const X=i=> pad + i*((w-pad*1.5)/5);
+  const Y=v=> h-pad - ((v-min)/(max-min))*(h-pad*1.6);
+  let svg=`<svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">`;
+  if(opts.baseline!=null){const yb=Y(opts.baseline);svg+=`<line x1="${pad}" y1="${yb}" x2="${w-pad*0.5}" y2="${yb}" stroke="#3a4d72" stroke-dasharray="3 3"/>`;}
+  data.forEach((v,i)=>{const y=Y(v),y0=Y(Math.max(0,min));svg+=`<rect x="${X(i)-bw/2}" y="${Math.min(y,y0)}" width="${bw}" height="${Math.abs(y-y0)}" rx="2" fill="${color}"/>`;});
+  for(let i=0;i<data.length;i++) svg+=`<text x="${X(i)}" y="${h-6}" fill="#6f84a8" font-size="8" font-family="JetBrains Mono" text-anchor="middle">Y${i}</text>`;
+  svg+=`</svg>`;return svg;
+}
+
+// ---------- RENDER ----------
+function render(r){
+  const k=r.kpis, last=k.last;
+  const dir=(x,good)=> x>0.001?(good?'up':'down'):x<-0.001?(good?'down':'up'):'flat';
+  const arrow=x=> x>0.001?'▲':x<-0.001?'▼':'■';
+
+  let html='';
+  html+=`<div class="verdict ${r.verdict.cls}"><span class="tag">${r.verdict.tag}</span>
+    <h3>${r.verdict.title}</h3><p>${r.verdict.lead}</p></div>`;
+
+  html+=`<div class="kpis">
+    <div class="kpi"><div class="k-label">Jobs (of ${k.y0.jobs})</div>
+      <div class="k-val">${last.jobs}</div>
+      <div class="k-delta ${dir(k.jobsΔ,true)}">${arrow(k.jobsΔ)} ${k.jobsΔ>=0?'+':''}${k.jobsΔ} jobs</div></div>
+    <div class="kpi"><div class="k-label">Nominal wage</div>
+      <div class="k-val">$${last.wage.toFixed(0)}</div>
+      <div class="k-delta up">${arrow(k.nominalWageΔ)} +${pct(k.nominalWageΔ)}</div></div>
+    <div class="kpi"><div class="k-label">REAL wage (after prices)</div>
+      <div class="k-val">$${last.realWage.toFixed(0)}</div>
+      <div class="k-delta ${dir(k.realWageΔ,true)}">${arrow(k.realWageΔ)} ${k.realWageΔ>=0?'+':''}${pct(k.realWageΔ)}</div></div>
+    <div class="kpi"><div class="k-label">Prices</div>
+      <div class="k-val">+${(k.priceΔ*100).toFixed(0)}%</div>
+      <div class="k-delta ${dir(-k.priceΔ,true)}">${arrow(k.priceΔ)} vs Year 0</div></div>
+  </div>`;
+
+  const jobs=r.years.map(y=>y.jobs);
+  const real=r.years.map(y=>y.realWage);
+  const nom=r.years.map(y=>y.wage);
+  const price=r.years.map(y=>y.price);
+  const share=r.years.map(y=>y.share);
+  const margin=r.years.map(y=>y.margin*100);
+
+  html+=`<div class="charts">
+    <div class="chart"><h4>Nominal vs Real wage</h4><p class="csub">Gold = paycheck. Blue = what it actually buys.</p>
+      ${lineChart([{name:'nominal',color:'#E0B341',data:nom},{name:'real',color:'#5B9DF0',data:real}],{w:320,h:140,baseline:15})}</div>
+    <div class="chart"><h4>Jobs</h4><p class="csub">Headcount across 5 years.</p>
+      ${barChart(jobs,'#46C28E',{w:320,h:140,baseline:k.y0.jobs})}</div>
+    <div class="chart"><h4>Prices to customers</h4><p class="csub">Index, 100 = Year 0.</p>
+      ${lineChart([{name:'price',color:'#F0685E',data:price}],{w:320,h:140,baseline:100})}</div>
+    <div class="chart"><h4>Profit margin &amp; share price</h4><p class="csub">Margin % (gold), share index (blue).</p>
+      ${lineChart([{name:'margin',color:'#E0B341',data:margin},{name:'share',color:'#5B9DF0',data:share.map(s=>s/3)}],{w:320,h:140,zero:true,baseline:0})}</div>
+  </div>`;
+
+  html+=`<div class="story"><h3>What actually happened, year by year</h3>`;
+  r.beats.forEach(b=> html+=`<div class="beat"><div class="yr">${b.yr}</div><div class="txt">${b.txt}</div></div>`);
+  html+=`</div>`;
+
+  // table
+  html+=`<div class="chart" style="padding:16px"><h4 style="margin-bottom:8px">The numbers</h4>
+    <table class="years"><thead><tr><th>Year</th><th>Wage</th><th>Real wage</th><th>Jobs</th><th>Price</th><th>Margin</th><th>Net profit</th></tr></thead><tbody>`;
+  r.years.forEach(y=>{
+    html+=`<tr><td>Y${y.y}</td><td>$${y.wage.toFixed(2)}</td><td>$${y.realWage.toFixed(2)}</td><td>${y.jobs}</td>
+      <td>${y.price.toFixed(0)}</td><td>${(y.margin*100).toFixed(1)}%</td><td>${fmt$(y.net)}</td></tr>`;
+  });
+  html+=`</tbody></table></div>`;
+
+  $('#results').innerHTML=html;
+  $('#disc').style.display='block';
+}
+
+// ---------- WIRING ----------
+const wage=$('#wage'),tax=$('#tax'),rol=$('#rol'),pricecap=$('#pricecap'),ioss=$('#ioss');
+function syncLabels(){
+  $('#v-wage').textContent='$'+(+wage.value).toFixed(wage.value%1?2:0)+'/hr';
+  $('#v-tax').textContent=tax.value+'%';
+  $('#v-rol').textContent=rol.value;
+}
+[wage,tax,rol].forEach(el=>el.addEventListener('input',syncLabels));
+syncLabels();
+
+function go(){
+  render(runSim({
+    minWage:+wage.value, taxRate:+tax.value, rol:+rol.value,
+    priceCap:pricecap.checked, ioss:ioss.checked
+  }));
+  window.scrollTo({top: $('#results').offsetTop-70, behavior:'smooth'});
+}
+$('#run').addEventListener('click',go);
+
+// presets
+const PRESETS=[
+  {name:'$25 minimum wage', s:{wage:25,tax:25,rol:75,cap:false,ioss:false}},
+  {name:'Modest raise → $18', s:{wage:18,tax:25,rol:75,cap:false,ioss:false}},
+  {name:'Cut wages → $11', s:{wage:11,tax:25,rol:75,cap:false,ioss:false}},
+  {name:'$25 + price controls', s:{wage:25,tax:25,rol:75,cap:true,ioss:false}},
+  {name:'No government (Somalia)', s:{wage:15,tax:3,rol:8,cap:false,ioss:false}},
+  {name:'iOSS profit-share', s:{wage:15,tax:25,rol:75,cap:false,ioss:true}},
+  {name:'Reset', s:{wage:15,tax:25,rol:75,cap:false,ioss:false}},
+];
+const pc=$('#presets');
+PRESETS.forEach(P=>{
+  const b=document.createElement('button');b.className='preset';b.textContent=P.name;
+  b.onclick=()=>{wage.value=P.s.wage;tax.value=P.s.tax;rol.value=P.s.rol;pricecap.checked=P.s.cap;ioss.checked=P.s.ioss;syncLabels(); if(P.name!=='Reset') go();};
+  pc.appendChild(b);
+});
+</script>
+</body>
+</html>
