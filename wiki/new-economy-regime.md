@@ -65,6 +65,30 @@ Source: `data/postcovid_2022.csv` (2022-01 base) + chart `raw/postcovid-2022-wag
 - *(links [[detachment-bid]])* Frozen labor = can't get ahead through work → rational to gamble in
   markets → feeds the risk-seeking bid.
 
+## Bottom basket vs CPI — the deflator test (added 2026-07-01)
+Source: `data/bottom_basket.csv`, chart `raw/bottom-basket.png`. Tests whether CPI understates
+the bottom's inflation (Jake's "income-specific CPI" / moving-target idea).
+
+### DATA (2019-01 → 2026-05, indexed)
+- rent +37.3%, groceries +32.8%, **energy +65.7%**, medical +21.0% | discretionary: apparel
+  **+10.1%**, used cars +26.6% | **headline CPI +32.2%** | median wage +36.5%.
+- **Bottom necessities basket +38.5%** (realistic lowest-quintile weights: rent .40/food .15/
+  energy .10/medical .08) — ~**6 pts hotter than headline CPI**.
+- **Real median wage: +3.2% vs CPI, but −1.5% vs the bottom basket.** (Sign flips with the ruler.)
+
+### THESIS
+- *(Jake's method CONFIRMED)* CPI understates the bottom's inflation by ~6 pts; on the bottom's
+  own basket the median real wage is **negative (−1.5%)**. And discretionary deflates (apparel
+  +10% over 7yr ≈ −20% real) and drags headline CPI down — demand-destruction-as-distress, visible.
+- *(calibration — don't overclaim)* The gap is **modest** (a ~5-pt swing, not −15%), and **energy
+  (+66%, the electron spike) drives most of it**. So wage-vs-basket alone does NOT explain "can't
+  afford anything."
+- *(RELOCATION — the real finding)* The bigger "broke" driver is **off this chart**: the
+  **balance sheet** — housing ~+50% (asset lockout), debt serviced at ~20% (crater-era borrowing),
+  lost COVID transfers. The Hollow Bottom is confirmed but is **more a balance-sheet story
+  (assets + debt) than an income-statement story** (wages ≈ flat vs basket). Next cut:
+  wealth-by-quintile.
+
 ## Falsifiers (watch in the monthly refresh)
 - M2 YoY rolls back negative / WALCL resumes falling → liquidity tightening, debasement read weakens.
 - Real fed funds climbs (inflation falls faster than cuts) → Fed NOT trapped, they have room.
