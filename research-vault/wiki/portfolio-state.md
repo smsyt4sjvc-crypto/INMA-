@@ -40,6 +40,23 @@ Related: [[market-fragility]], [[power-not-petroleum]], [[gold-flows]].
   the SPY 745 puts are positioned for — but see [[ai-capex-cycle]]: demand-stall vs supply-stall
   is unresolved. Not confirmation yet.
 
+## ⚡ 2026-07-01 AM — hardware-is-the-risk (compute scarcity cracking)
+See [[ai-capex-cycle]] "Scarcity crack goes LIVE". Goldman/Privorotsky flags the risk **upstream in
+hardware** — which is Jake's heaviest sleeve. Implications:
+- **MU (28%)** — scarcity-premium name; the crack is the risk. Has the memory oligopoly + real cash
+  flow under it (best-defended of the exposed). Watch memory retail-pricing flip.
+- **NBIS + CRWV (neoclouds)** — MOST exposed / first to lighten. Meta+SpaceX reselling compute = mega-
+  scale new competition + oversupply for the GPU-rental model.
+- **PLTR** (Tier C) — China-open-weight moat-bypass risk (Jake's own flag) now compounding — efficiency
+  wave hits the *moat* names too, not just hardware.
+- **SMCI (legacy)** — China chip-smuggling probe, idiosyncratic negative.
+- **Barbell working:** SPY Dec puts green on the chip-wreck; the "don't invest all of that" pushback
+  (20 min before the drop) validated. Discipline: if it's regime-change (not a flush), the semis ladder
+  catches a *falling knife* — so let the puts work, don't rush the rungs until H100 rental / memory
+  pricing confirms direction. Don't chase.
+- **Cross-currents:** Trump "I'm profiting because the market's up" = political-put confirmed; Warsh
+  Sintra = hawkish catalyst today; Iran de-escalating (eases XOM-hedge, tail alive).
+
 ## Open threads (offered, not done)
 - Build "what fills the ladder" drawdown scenario (and check it's the same crack that pays the puts).
 - Full weighted "own-the-toll" energy basket. CFTC COT positioning tracker (13F blackout filler).

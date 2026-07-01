@@ -40,6 +40,35 @@ The fundamental engine under [[market-fragility]]. Related: [[cepi]], [[power-no
   while demand is intact, that's *bullish* the power/grid bottleneck ([[power-not-petroleum]])
   and not evidence of a demand air gap. Same headline, opposite reads — don't let it auto-confirm.
 
+## ⚡ Scarcity crack goes LIVE (2026-07-01 AM) — the thesis inflecting
+Source: `raw/2026-07-01-compute-scarcity-crack.md`. This is the demand-vs-efficiency crux resolving in real time.
+
+### DATA
+- **Meta building a cloud to sell EXCESS AI compute** (Bloomberg); "First SpaceX, now Meta" → a
+  *second* marquee name offloading compute = the scarcity narrative generalizing. (⚠️ Meta capex still
+  RISING $115-135B — narrative crack, not a confirmed cut.)
+- Chip-wreck: KOSPI −10%, Hynix/Samsung −12%, MU −7% premarket.
+- **Goldman Delta One (Privorotsky):** scarcity is the market's central premise; "the first place pain
+  shows up is **hardware**"; **H100 rental index rolling over**; winners = platform/usage monetizers
+  (hyperscalers); "bigger risk sits **upstream in hardware & infrastructure** priced for persistent scarcity."
+
+### THESIS
+- *(the crux, live)* Efficiency-deflation is cracking the compute-scarcity premium. **China-open-weight
+  efficiency (Vector 9: DeepSeek/Qwen/GLM) is the structural demand-side of this** — same force that
+  crashed NVDA Jan-2025; Coinbase→GLM (−50%), Shopify→Qwen (−75x) were the early prints. It's the
+  *techniques* (MoE/FP8/distillation) diffusing industry-wide, broader than "using Chinese models."
+- *(Privorotsky's call = a VOTE, not a verdict)* He's picked the efficiency-wins / hyperscalers-win
+  side. Jevons (cheaper compute → more usage) could still win → scarcity persists. His hyperscaler-winner
+  call also ignores margin-compression if everyone resells excess (a cloud supply war).
+- *(narrative migration, Vector 9)* Goldman articulating the thesis = fringe→institutional migration =
+  confirmation AND "it's consensus now, the derate can be fast."
+
+### The standing question (watch these to resolve it)
+- **Is the rental drop SUPPLY (dumping, cyclical, reversible) or EFFICIENCY (China/techniques, structural,
+  permanent)?** Efficiency is the more dangerous one for hardware — it doesn't un-diffuse.
+- **Signals:** H100 rental index (Privorotsky's metric) + memory retail-pricing flip + cost-per-token +
+  more enterprise-migration announcements + a *real* guided capex cut (not just ZH's framing).
+
 ## Memory shortage — confirmed & worsening (added 2026-07-01)
 Source: `raw/memory-shortage-2026-07-01.md`. Relevant to MU (28% of trading basket) + storage sleeve.
 
