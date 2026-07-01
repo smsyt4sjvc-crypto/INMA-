@@ -63,6 +63,7 @@ ingest-ready prompt, then paste the compact digest back and "ingest" it. Keeps t
 
 ## Current thesis spine (start here)
 - [[consumption-vs-investment-crux]] — THE top question: did post-COVID borrowing build or drink? Sorts every vector.
+- [[new-economy-regime]] — the macro DB read: Fed Trap / debasement in the actual series (M2, real rates, balance sheet).
 - [[market-fragility]] — the top-level regime read (narrow market, late-cycle)
 - [[ai-capex-cycle]] → [[cepi]] — the fragility's fundamental driver
 - [[power-not-petroleum]] → [[demand-destruction]] — the energy rotation
