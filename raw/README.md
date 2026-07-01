@@ -8,6 +8,8 @@ lives in `wiki/`, behind the data/thesis firewall (see `../CLAUDE.md`).
 ## Currently stored
 - `hfi-oil-disconnect.txt` — HFI Research oil-glut piece (free preview only) → `wiki/demand-destruction.md`
 - `kobeissi-gold-outflows.md` — Kobeissi gold ETF outflow post → `wiki/gold-flows.md`
+- `zerohedge-2026-07-01-datacenter-cancellations.md` — ZeroHedge/Sightline datacenter + Micron
+  + macro headlines (pulled via WebSearch) → `wiki/ai-capex-cycle.md`, `power-not-petroleum.md`, `portfolio-state.md`
 
 ## Not yet stored (paste these next and say "ingest")
 - User's AI-capex memo v1 + v2 (the CEPI framework) → would enrich `wiki/cepi.md`, `wiki/ai-capex-cycle.md`

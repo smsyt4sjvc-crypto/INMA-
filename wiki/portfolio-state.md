@@ -31,6 +31,15 @@ Related: [[market-fragility]], [[power-not-petroleum]], [[gold-flows]].
 - *(analysis)* Within LNG, tape favors Cheniere over VG (VG is the laggard) — see
   [[power-not-petroleum]]. Not a call to act; just where the flow is.
 
+## Watch items (from ingested sources)
+- *(2026-07-01, ZeroHedge)* **MU (Micron) beat Q3 earnings + guidance**, surged after a
+  "chip-wreck" selloff → relevant to the MU 740/850 ladder rungs. A guidance beat cuts against
+  a near-term flush to 740; watch whether strength holds or fades.
+  *(`raw/zerohedge-2026-07-01-datacenter-cancellations.md`)*
+- *(2026-07-01)* Datacenter cancellation news = potential first crack in the AI-capex tape that
+  the SPY 745 puts are positioned for — but see [[ai-capex-cycle]]: demand-stall vs supply-stall
+  is unresolved. Not confirmation yet.
+
 ## Open threads (offered, not done)
 - Build "what fills the ladder" drawdown scenario (and check it's the same crack that pays the puts).
 - Full weighted "own-the-toll" energy basket. CFTC COT positioning tracker (13F blackout filler).
