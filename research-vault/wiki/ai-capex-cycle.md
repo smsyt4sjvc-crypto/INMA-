@@ -40,6 +40,37 @@ The fundamental engine under [[market-fragility]]. Related: [[cepi]], [[power-no
   while demand is intact, that's *bullish* the power/grid bottleneck ([[power-not-petroleum]])
   and not evidence of a demand air gap. Same headline, opposite reads — don't let it auto-confirm.
 
+## Memory shortage — confirmed & worsening (added 2026-07-01)
+Source: `raw/memory-shortage-2026-07-01.md`. Relevant to MU (28% of trading basket) + storage sleeve.
+
+### DATA
+- **Apple raised prices June 25 2026** (iPads/Macs/HomePods/Vision Pro/Apple TV); AAPL −6%. Apple
+  normally *absorbs* component cost → passing it through = shortage broke its pricing discipline.
+- DRAM +172% (2025); Samsung halted DDR5 orders; **Micron EXITED consumer 'Crucial' brand** to
+  feed AI datacenter; 32GB DDR5 ~$80→$375 (~3-4x), sells out in seconds. HDD/NAND also sold out
+  (Seagate/WD 2026 capacity fully allocated; QLC NAND booked through 2026 — storage-shortage leg).
+- Forecasts: Gartner ~130% surge; Kearney "to 2030"; MU CEO Mehrotra through 2027, easing 2028.
+
+### THESIS
+- *(bullish MU, near-term)* Durable pricing power; MU went all-in on AI memory (killed Crucial) →
+  more levered to the AI cycle, both directions.
+- *(settles the efficiency question)* Right now **demand (Jevons) is OUTRUNNING the efficiency
+  workaround** (quantization/DeepSeek-MoE) — AI eats memory faster than it learns to need less.
+  Bullish memory now; sets up the whipsaw if efficiency later catches. See "memory workaround =
+  efficiency" tension below / [[detachment-bid]] adjacency.
+- *(Hollow Bottom in silicon)* AI *capital* is outbidding the *consumer* for chips — Micron
+  abandoned the consumer, prices 3-4x, Apple passes it to households. The two-economy extraction,
+  physical. Ties [[consumption-vs-investment-crux]].
+- *(⚠️ cyclical check)* "Shortage to 2030" is the forecast you hear at cycle TOPS. Memory is the
+  most violently cyclical business in tech; it has never sustained a multi-year shortage without a
+  brutal glut after. Treat the confidence as a mild yellow flag.
+
+### METHOD — purchasing experience as a leading indicator
+Jake's edge: track the retail buying experience. "Request pricing / sold out in seconds / price
+up" = shortage on. When it flips to "in stock, listed price, **falling**" → cycle turning, and it
+shows there *before* Micron's earnings. Check it from a retail page. (Jake's Nov-2025 datapoint:
+had to "request pricing" — the leading edge.)
+
 ## Counterweights (steelman the other side)
 - *(analysis)* Hyperscalers have real cash flows and can fund capex from operations far longer
   than a classic bubble; demand could be under- not over-estimated if agents/inference scale.
