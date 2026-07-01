@@ -29,11 +29,13 @@ no new agency. State-level pilot first; 401(k)-style diffusion path. Full mechan
   Should be the lede, not page 4.
 
 ## Failure surfaces (analysis — the redesign spec, not fatal flaws)
-1. **Denominator bites the hand.** Output-per-labor-*dollar* rises fastest when you CUT labor;
-   layoffs clear the dual trigger too (raise profit + output/labor-$). So the metric meant to
-   share gains with labor mechanically *rewards firing labor*; survivors split a bonus funded by
-   the absence of the cut. The central tension — fix candidate: headcount-linked eligibility
-   (share scales with workers *retained*) or a per-worker-hour base with a headcount floor.
+1. ~~**Denominator bites the hand** (output/labor-$ rewards firing).~~ **WITHDRAWN — author
+   rebuttal accepted (2026-07-01):** the labor-dollar denominator is defined to also include the
+   dollars *replacing* labor (automation/AI spend), so firing-and-automating doesn't shrink the
+   base to game the ratio; and firms cut headcount for savings with or without iOSS, so iOSS adds
+   no firing incentive that wasn't already exogenous. Residual (minor): pure headcount cuts with
+   no reinvestment still nudge output/labor-$, but that's exogenous and iOSS at least shares some
+   gain with remaining workers where today they get zero.
 2. **Pays the retained, not the replaced.** Eligibility (employed W-2, in-state, tenure) excludes
    the displaced / gig / just-fired — exactly who a "bridge until labor skills up" is for. As
    written it's a *retention reward at winning firms*, not a displacement bridge. Purpose vs
