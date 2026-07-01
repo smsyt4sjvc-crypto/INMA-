@@ -20,6 +20,11 @@ Energy rotation thesis + basket. Related: [[demand-destruction]], [[ai-capex-cyc
   gated by grid/transformer supply, rising electricity prices, and regulators reining in
   datacenters; only ~5 GW of ~16 GW planned 2026 capacity under construction.
   *(as-reported; `raw/zerohedge-2026-07-01-datacenter-cancellations.md`)*
+- **PJM grid emergency (2026-07-01, ZeroHedge):** mega heat dome → DOE issued 2 emergency orders
+  for PJM (largest US grid, 67M people/13 states) to prevent rolling blackouts; Hot Weather Alert
+  through Jul 3. Separately, PJM got **approval to curtail data-center load** during hot weather
+  to protect households. Heat/HVAC demand (Goldman "HVAC boom" trade) is the driver.
+  *(as-reported; `raw/zerohedge-2026-07-01-grid-emergency-oil-refill.md`)*
 
 ## THESIS (interpretation — NOT fact)
 - *(analysis)* The winning expression in BOTH buckets is the **toll** (WMB, LNG, KMI, TPL) and
@@ -35,6 +40,11 @@ Energy rotation thesis + basket. Related: [[demand-destruction]], [[ai-capex-cyc
   grid, not the chip. Strengthens the toll (midstream/grid) over the drill-bit read. ⚠️ But
   "regulators reining in datacenters" is a two-edged catalyst — caps on datacenter load could
   slow power *demand* growth too. Watch which force dominates.
+- *(analysis, 2026-07-01)* The PJM emergency is the thesis made physical: **power, not compute,
+  is the binding scarcity** — the grid is so tight that regulators will legally cut data centers
+  before households. Bullish generation/grid/transformer suppliers. It also sharpens the
+  [[ai-capex-cycle]] question: if datacenters can be *curtailed by law* during peak demand, that
+  caps effective compute uptime and strengthens the "grid gates AI, not the other way round" read.
 
 ## Candidate "own-the-toll" basket (analysis — not advice, weights illustrative)
 - Midstream/LNG: WMB, LNG (Cheniere), KMI. Royalty: TPL. Grid: ETR (+ optional D/AEP/EXC/SO).

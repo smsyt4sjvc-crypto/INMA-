@@ -19,6 +19,10 @@ The fundamental engine under [[market-fragility]]. Related: [[cepi]], [[power-no
   *(as-reported; `raw/zerohedge-2026-07-01-datacenter-cancellations.md`)*
 - OpenAI reportedly leaning toward delaying IPO to 2027; Nasdaq-100 underperformed on the news
   (2026-06, same source). Amazon cut 16,000 workers in Jan, cited as AI-driven.
+- **Datacenters legally curtailable (2026-07-01):** PJM got approval to cut datacenter load
+  during hot weather (households first). US also lifted export controls on frontier AI models
+  (Claude Fable 5 / Mythos 5) → wider compute proliferation.
+  *(`raw/zerohedge-2026-07-01-grid-emergency-oil-refill.md`)*
 
 ## THESIS (interpretation — NOT fact)
 - *(user's thesis)* Once AI is adopted everywhere, token usage gets more efficient; if firms
