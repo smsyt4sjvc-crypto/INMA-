@@ -49,6 +49,9 @@ Energy rotation thesis + basket. Related: [[demand-destruction]], [[ai-capex-cyc
 ## Candidate "own-the-toll" basket (analysis — not advice, weights illustrative)
 - Midstream/LNG: WMB, LNG (Cheniere), KMI. Royalty: TPL. Grid: ETR (+ optional D/AEP/EXC/SO).
 - (Full weighted basket TBD — was offered, not yet built.)
+- **Leveraged extension → [[power-scarcity-equities]]:** merchant IPPs (VST/CEG/NRG/TLN) capture
+  record PJM capacity prices; cooling (VRT/AAON/FIX) is the AI-heat picks-and-shovels. All run
+  hard already — watchlist/ladder, not chase.
 
 ## ⚠️ caveats
 - 2-week tape = positioning/momentum, not thesis. Iran spike-and-fade still partly in-window;
