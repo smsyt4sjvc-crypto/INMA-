@@ -25,6 +25,22 @@ Spine note. Related: [[ai-capex-cycle]], [[cepi]], [[concentration]],
 - *(analysis)* Because the accumulation screen is coincident, the edge is in the *leading*
   framework (breadth/concentration/[[cepi]]), not in chasing the green names.
 
+## Seasonal / cycle note — the "July midterm crash" chart (2026-07-01)
+- ⚠️ **Debunked as stated.** Sunil Gurjar chart claims "every 4 years, in July" a major S&P
+  drawdown (1998 −23.7 / 2002 −32.4 / 2006 −9.6 / 2010 −18.9 / 2014 −11.1 / 2018 −19.3 / 2022
+  −19.9). The "July" label is manufactured: 2014 and 2018 drawdowns were Oct/Q4, 2022 bottomed
+  Jun+Oct — the month is glued onto full-year numbers. Magnitudes also off (2022 was ~−25%
+  actual). n=7, over-fit. Skeptic in replies is correct.
+- **What survives (real residue):** (1) midterm-year weakness IS documented — year 2 is the
+  weakest of the 4-yr presidential cycle, and the midterm *low* (typically Sept–Oct) is
+  historically a strong buying op (year 3 = best year → [[detachment-bid]] "flush is the entry").
+  (2) July 2026 worth watching for an INDEPENDENT reason: the opex (Jul 17) + mega-cap earnings +
+  FOMC (Jul 28–29) event cluster, not the seasonal.
+- **Applicable:** doesn't change positioning; makes the PENDING semis-ladder GTC calibration the
+  urgent item (a fast summer flush fills MU 740 / NVDA 150 rungs; a stale ladder misses it).
+  Timing conflict to hold: this pattern says low *in 2026*; the 2021-analog note says break
+  extends to Feb–Mar 2027 — matters for the Dec-2026 put expiry.
+
 ## Falsifiers (watch — these would break the thesis)
 - % of S&P above 200DMA climbs back >60% (breadth broadens).
 - SPY/RSP ratio rolls over (equal-weight beats cap-weight → melt-up broadening).
