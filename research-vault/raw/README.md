@@ -10,6 +10,8 @@ lives in `wiki/`, behind the data/thesis firewall (see `../CLAUDE.md`).
 - `kobeissi-gold-outflows.md` — Kobeissi gold ETF outflow post → `wiki/gold-flows.md`
 - `zerohedge-2026-07-01-datacenter-cancellations.md` — ZeroHedge/Sightline datacenter + Micron
   + macro headlines (pulled via WebSearch) → `wiki/ai-capex-cycle.md`, `power-not-petroleum.md`, `portfolio-state.md`
+- `zerohedge-2026-07-01-grid-emergency-oil-refill.md` — PJM grid emergency + heat/HVAC + oil
+  stockpile-refill counter-thesis + AI export controls → `power-not-petroleum.md`, `demand-destruction.md`, `ai-capex-cycle.md`
 
 ## Not yet stored (paste these next and say "ingest")
 - User's AI-capex memo v1 + v2 (the CEPI framework) → would enrich `wiki/cepi.md`, `wiki/ai-capex-cycle.md`
