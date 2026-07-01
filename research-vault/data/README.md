@@ -17,3 +17,8 @@ wiki note (facts as DATA, the regime read as THESIS).
   ChatGPT — its sandbox returned stale 2024 data). Sanity-checked: SP500 2026-06 = 7,499.36.
   ⚠️ `fed_assets_pct_gdp` column is bad (= WALCL raw, not divided by GDP) — ignore it.
   Refresh monthly by re-running the Colab cell + overwrite. Read: `wiki/new-economy-regime.md`.
+- `postcovid_2022.csv` — monthly 2022-01→2026-05: CPI, energy CPI, median nominal + real weekly
+  wage (`LEU0252881500Q`/`LES1252881600Q`, quarterly), unemployment rate + median duration
+  (`UEMPMED`), JOLTS hires/quits/layoffs (`JTSHIR/JTSQUR/JTSLDR`). Re-baselined to 2022 to strip
+  the front-loaded wage jump. Chart: `raw/postcovid-2022-wages-labor.jpeg`.
+  NOTE: BLS weekly-wage FRED IDs need the **Q** suffix (bare IDs 404).
