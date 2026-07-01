@@ -14,6 +14,7 @@ lives in `wiki/`, behind the data/thesis firewall (see `../CLAUDE.md`).
   stockpile-refill counter-thesis + AI export controls → `power-not-petroleum.md`, `demand-destruction.md`, `ai-capex-cycle.md`
 - `pjm-capacity-cooling-2026-07-01.md` — PJM capacity-price record + merchant IPPs + cooling-stock
   returns → `wiki/power-scarcity-equities.md`
+- `zerohedge-2026-06-30-smr-by-country.md` — SMR siting announcements by country (US 28, leads) → `wiki/nuclear.md`
 
 ## Not yet stored (paste these next and say "ingest")
 - User's AI-capex memo v1 + v2 (the CEPI framework) → would enrich `wiki/cepi.md`, `wiki/ai-capex-cycle.md`
