@@ -1,0 +1,39 @@
+# Market Fragility — the regime read
+
+Spine note. Related: [[ai-capex-cycle]], [[cepi]], [[concentration]],
+[[power-not-petroleum]], [[fragility-engine]], [[portfolio-state]].
+
+> Firewall: DATA = measured facts with sources. THESIS = interpretation, not fact.
+
+## DATA (observed)
+- ~11 names ≈ 40% of S&P 500 index weight. *(session breadth/concentration cells, 2026-H1)*
+- Signed 2-week dollar-volume tape: defensive sectors (utilities, health, staples) net
+  accumulated; energy net distributed. Oil complex median net-flow ≈ −0.47. *(money-flow cell)*
+- Many top-accumulated names printing at/near 52-week highs when they screen green
+  (accumulation tape is coincident, not leading). *(session, 2026-06)*
+- Gold ETFs: −38.3 tonnes / −$4.7B outflow in a week (largest weekly $ outflow on record);
+  gold price rolled from ~$5,000 toward ~$4,000/oz. *(Kobeissi Letter, see [[gold-flows]])*
+- Oil: Chinese crude imports −4.9M b/d y-o-y; Brent 1-2 timespread in steep contango.
+  *(HFI Research, see [[demand-destruction]])*
+
+## THESIS (interpretation — NOT fact)
+- *(user's thesis)* The index is a historically narrow, late-cycle top; leadership is the
+  AI-capex complex, which will roll when the capex/earnings air gap bites. Debasement is the
+  base case ("he'll inflate anyhow").
+- *(analysis)* The defensive accumulation + oil demand destruction + gold profit-taking-into-
+  melt-up pattern is consistent with a late-cycle risk-off rotation under a still-rising index.
+- *(analysis)* Because the accumulation screen is coincident, the edge is in the *leading*
+  framework (breadth/concentration/[[cepi]]), not in chasing the green names.
+
+## Falsifiers (watch — these would break the thesis)
+- % of S&P above 200DMA climbs back >60% (breadth broadens).
+- SPY/RSP ratio rolls over (equal-weight beats cap-weight → melt-up broadening).
+- AI-capex earnings show up: air gap closes with *revenue*, not just spend.
+
+## Measured by
+[[fragility-engine]] — scores breadth, concentration, [[cepi]], money-flow, cross-asset
+into one 0–100 fragility number + trigger panel.
+
+## Sources
+- Session work 2025-Q4 → 2026-06 (breadth/concentration/ATH/money-flow cells, whale 13F pull).
+- `raw/` HFI oil piece, Kobeissi gold post.
