@@ -15,6 +15,8 @@ lives in `wiki/`, behind the data/thesis firewall (see `../CLAUDE.md`).
 - `pjm-capacity-cooling-2026-07-01.md` — PJM capacity-price record + merchant IPPs + cooling-stock
   returns → `wiki/power-scarcity-equities.md`
 - `zerohedge-2026-06-30-smr-by-country.md` — SMR siting announcements by country (US 28, leads) → `wiki/nuclear.md`
+- `memory-shortage-2026-07-01.md` — Apple price hike + Micron killed Crucial + DDR5 3-4x → `wiki/ai-capex-cycle.md`
+- `2026-07-01-compute-scarcity-crack.md` — Meta/SpaceX excess compute + Goldman/Privorotsky + H100 rental rollover → `ai-capex-cycle.md`, `portfolio-state.md`
 
 ## Not yet stored (paste these next and say "ingest")
 - User's AI-capex memo v1 + v2 (the CEPI framework) → would enrich `wiki/cepi.md`, `wiki/ai-capex-cycle.md`
