@@ -16,6 +16,10 @@ Energy rotation thesis + basket. Related: [[demand-destruction]], [[ai-capex-cyc
 - Regulated grid utilities strong YTD *(session)*: ETR ~+26%, plus D, AEP, EXC, SO. Merchant
   nuclear weaker: CEG ~−28% (data as of that pull).
 - Crude producers rolling over ~−20% over 3mo; oilfield services ~−12.5%/1mo. *(session)*
+- **Grid as the bottleneck (2026-07-01, ZeroHedge/Sightline Climate):** US datacenter buildout
+  gated by grid/transformer supply, rising electricity prices, and regulators reining in
+  datacenters; only ~5 GW of ~16 GW planned 2026 capacity under construction.
+  *(as-reported; `raw/zerohedge-2026-07-01-datacenter-cancellations.md`)*
 
 ## THESIS (interpretation — NOT fact)
 - *(analysis)* The winning expression in BOTH buckets is the **toll** (WMB, LNG, KMI, TPL) and
@@ -26,6 +30,11 @@ Energy rotation thesis + basket. Related: [[demand-destruction]], [[ai-capex-cyc
 - *(user's book)* LNG holdings sit mostly on the green side: WMB & Cheniere green, Venture
   Global (VG) the laggard — market discriminating within LNG (established toll vs contested
   newcomer). See [[portfolio-state]].
+- *(analysis, 2026-07-01)* Electricity prices rising + transformer/grid supply as the binding
+  constraint is direct support for "own the power infrastructure": the scarce input is the
+  grid, not the chip. Strengthens the toll (midstream/grid) over the drill-bit read. ⚠️ But
+  "regulators reining in datacenters" is a two-edged catalyst — caps on datacenter load could
+  slow power *demand* growth too. Watch which force dominates.
 
 ## Candidate "own-the-toll" basket (analysis — not advice, weights illustrative)
 - Midstream/LNG: WMB, LNG (Cheniere), KMI. Royalty: TPL. Grid: ETR (+ optional D/AEP/EXC/SO).
