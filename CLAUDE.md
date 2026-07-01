@@ -45,6 +45,12 @@ Rules of the firewall:
 6. **Separate signal from artifact.** If a data pull is suspect (parsing error, stale filing, war-premium contamination), label it `⚠️ artifact` under DATA so it's never read as a clean signal later.
 7. **Descriptive, not advisory.** Notes describe the market and the book. Sizing and execution are the user's. No trade recommendations.
 
+## Pushback is calibrated, not blanket
+Before challenging any thesis, load [[_calibration]]. Pushback is tuned to Jake's bias map —
+push hard on source-correlated / monotone-confirmed / thesis-as-fact claims; leave primary-source
+convergence and execution discipline alone. Argue the side he's *under-weighting* (it flips).
+Tag each thesis with an Independence score + a Steelman. Current standing bull = [[detachment-bid]].
+
 ## Heavy data pulls → offload
 Before doing a big in-session fetch (PDF, long page, bulk tickers, walled site), use the
 [[data-sourcing-playbook]]: hand the retrieval to Perplexity/Grok/Gemini/ChatGPT with the
