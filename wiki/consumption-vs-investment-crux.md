@@ -48,6 +48,12 @@ the ladder?** Bear answer already in the stack (Vector 3 / SaaSpocalypse: the su
 *cognition itself*, no higher cognitive ground to retreat to). Unfalsifiable until it isn't →
 which is *why you hold the barbell* instead of betting the farm either way.
 
+## The proposed bridge (Jake's prescription)
+[[ioss-proposal]] is Jake's attempt to *build the valve* on the distribution axis: route part of
+the capital-side productivity gain back to labor (gains-only, above-baseline, 70/30) without
+killing the investment incentive. Its worker-equity option is the part that could actually
+re-couple labor to productivity — i.e., help labor reach the "higher rung" by becoming capital.
+
 ## Political corollary (feeds the Fed Trap)
 The politician who **defers** the recession gets the credit; the one holding when the tab arrives
 gets the blame. So the structural incentive is *always* to defer — nobody pays for the recession
