@@ -45,6 +45,11 @@ Rules of the firewall:
 6. **Separate signal from artifact.** If a data pull is suspect (parsing error, stale filing, war-premium contamination), label it `⚠️ artifact` under DATA so it's never read as a clean signal later.
 7. **Descriptive, not advisory.** Notes describe the market and the book. Sizing and execution are the user's. No trade recommendations.
 
+## Heavy data pulls → offload
+Before doing a big in-session fetch (PDF, long page, bulk tickers, walled site), use the
+[[data-sourcing-playbook]]: hand the retrieval to Perplexity/Grok/Gemini/ChatGPT with the
+ingest-ready prompt, then paste the compact digest back and "ingest" it. Keeps the chat lean.
+
 ## Current thesis spine (start here)
 - [[market-fragility]] — the top-level regime read (narrow market, late-cycle)
 - [[ai-capex-cycle]] → [[cepi]] — the fragility's fundamental driver
