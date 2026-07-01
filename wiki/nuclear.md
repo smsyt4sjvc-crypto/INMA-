@@ -39,7 +39,7 @@ Regulatory milestone = cleanest readiness proxy (design cert → construction pe
 2. **TerraPower (Natrium)** — construction permit Mar 2026, building WY. PRIVATE (Gates).
 3. **GE-Hitachi BWRX-300 → GEV** — TVA construction app docketed; enviro done Apr 2026; NRC target Dec 2026; building at Darlington ON. ✅ most-advanced INVESTABLE.
 4. **NuScale → SMR** — only NRC design-CERTIFIED SMR (US600 2023, US460 SDA May 2025). ✅ but flagship UAMPS customer canceled 2023 → certified ≠ sold.
-5. **X-energy (XE-100)** — Dow Seadrift CP process, enviro FONSI May 2026. PRIVATE but **filing S-1 to go public**; AMZN-backed. Watch.
+5. **X-energy (XE-100) → XE** — ALREADY PUBLIC (correction): IPO'd Apr 2026, ~$1.1B raised. Dow Seadrift CP process, enviro FONSI May 2026; AMZN-backed. Stock $30.53 (4/26) → $18.48 (−39%) on wide Q1 losses (net loss +252% YoY) + **Sept 1 2026 lockup-expiry overhang**.
 6. **Oklo → OKLO** — EARLY: first NRC app DENIED Jan 2022; now pre-application / early COLA (PDC report approved May 2026). ✅ investable but behind NuScale/GEV.
 7. **Nano → NNE** — not in the advanced pipeline; earliest, most speculative.
 
@@ -48,7 +48,11 @@ Regulatory milestone = cleanest readiness proxy (design cert → construction pe
   regulatorily behind NuScale and far behind GEV. **GEV has the best readiness-adjusted value** in the
   complex (cheap, cash-flowing, owns the most-deployed Western design) — and Jake holds it. Confirms:
   OKLO/NNE = Tier C pre-readiness optionality (valuation ahead of NRC reality); real SMR weight = GEV.
-- *(watch)* X-energy S-1 = a more grounded pre-commercial name incoming (AMZN + Dow + advancing CP).
+- *(watch, corrected 2026-07-01)* **XE is a live Retail-Exit (Vector 8) case**: Apr-2026 IPO, insiders
+  locked until **Sept 1 2026**, stock already bleeding (−39% from high) ahead of the unlock. −40% ≠ cheap
+  (pre-revenue, widening losses, no earnings floor). Disciplined entry = *after* the lockup flush
+  (Sept–Oct), which overlaps the midterm-cycle Sept–Oct low → two catalysts, one window. Don't buy into
+  a known unlock 8 weeks out; patience-as-edge.
 
 ## Falsifier
 - SMR timelines slip further / another marquee cancellation → developer names (OKLO/SMR/NNE) de-rate;
