@@ -40,6 +40,31 @@ that easing:
 - *(links [[market-fragility]])* Liquidity turning back ON (M2 record, WALCL uptick, real rates
   falling) is fuel under the melt-up — the "not-QE" Jake flagged. Bullish near-term, worse tail.
 
+## Post-COVID (2022-base) — wages, energy, frozen labor (added 2026-07-01)
+Source: `data/postcovid_2022.csv` (2022-01 base) + chart `raw/postcovid-2022-wages-labor.jpeg`.
+
+### DATA (2022-01 → 2026-05)
+- **Wages:** nominal median +19.1% (1037→1235); CPI +18.2% (282.5→334.0); **real median wage
+  +3.6%** (363→376) — but **stalled since late 2024** (~+0.5% in 18 months), and was *underwater*
+  (below base, to 359) in mid-2022.
+- **Energy:** CPI energy +25.3% (270→339), incl. a sharp **+19% spike Feb→May 2026** (283→339)
+  while WTI is only ~$79 → the surge is **electricity/gas, not crude** → ties [[power-not-petroleum]].
+- **Frozen labor:** hires 4.3→3.3, quits **2.9→1.9**, layoffs 0.9→1.1 (~flat), median weeks
+  unemployed **9.9→11.6** (+1.7, step-up late 2025). Unemployment rate 4.0→4.3.
+
+### THESIS (interpretation — NOT fact)
+- *(Jake, confirmed)* The frozen market (low-hire / low-quit / low-fire) **is the wage-stall
+  mechanism**: quits collapse → no job mobility → no raises. The rate (4.3%) hides it; rising
+  duration is the tell.
+- *(correction to earlier)* Crude "median real wages were crushed" is **FALSE** (real +3.6% from
+  2022, +5.9% from 2019). The Hollow Bottom is NOT a median-wage story — it's stall + freeze +
+  energy(electron) bite + the (unshown) 25th-pct / asset-lockout leg. Sophisticated version intact,
+  strawman version dead.
+- *(links [[market-fragility]])* Edge cluster mid-2026: energy spike **and** unemployment-duration
+  spike together, inside the July/midterm window → live stress signal for the fragility engine.
+- *(links [[detachment-bid]])* Frozen labor = can't get ahead through work → rational to gamble in
+  markets → feeds the risk-seeking bid.
+
 ## Falsifiers (watch in the monthly refresh)
 - M2 YoY rolls back negative / WALCL resumes falling → liquidity tightening, debasement read weakens.
 - Real fed funds climbs (inflation falls faster than cuts) → Fed NOT trapped, they have room.
