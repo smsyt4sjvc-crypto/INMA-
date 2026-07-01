@@ -57,6 +57,7 @@ Before doing a big in-session fetch (PDF, long page, bulk tickers, walled site),
 ingest-ready prompt, then paste the compact digest back and "ingest" it. Keeps the chat lean.
 
 ## Current thesis spine (start here)
+- [[consumption-vs-investment-crux]] — THE top question: did post-COVID borrowing build or drink? Sorts every vector.
 - [[market-fragility]] — the top-level regime read (narrow market, late-cycle)
 - [[ai-capex-cycle]] → [[cepi]] — the fragility's fundamental driver
 - [[power-not-petroleum]] → [[demand-destruction]] — the energy rotation
