@@ -69,6 +69,24 @@ Source: `raw/2026-07-01-compute-scarcity-crack.md`. This is the demand-vs-effici
 - **Signals:** H100 rental index (Privorotsky's metric) + memory retail-pricing flip + cost-per-token +
   more enterprise-migration announcements + a *real* guided capex cut (not just ZH's framing).
 
+## Jul-1 close — the crack in the tape (added 2026-07-01 PM)
+Source: `raw/2026-07-01-macro-scan.md`.
+- **Rotation confirmed, same-day as Privorotsky's call:** hardware crushed / hyperscalers up. Neoclouds
+  gutted — **ChronoScale −19.3%, Nebius −13.6%, CoreWeave −12.8%**; MU −10% (still +260% YTD); SanDisk −8%.
+  **Meta +9%** (cloud-resale), MSFT +3%, AAPL +2%. "First place pain shows up is hardware" — validated in a day.
+- **CEPI air-gap quantified:** FT reports **AI ROI −29%** (only AMZN +7.2%), while **Meta guides capex UP to
+  ~$145B** ($125B prior; $72B LY). Building more *and* reselling excess *and* negative ROI = the air-gap live.
+- **Nvidia circularity VERIFIED (specifics):** equity stakes — CoreWeave $2B (Jan), Nebius $2B (Mar), IREN
+  $2.1B warrants + $3.4B cloud contract (May); NVDA also IREN's *customer*. "Revenue-sharing" unverified
+  (would bridge Burry legs 2&3).
+- **Narrative migration → G7 governors (Vector 9):** Bailey (BoE) flags leveraged equity/ETF risk moving
+  "tail → broader consequence" (= Vector 11); Macklem (BoC) warns US overinvestment "sets up a painful correction."
+- ⚠️ **Flush vs regime-change — the KOSPI caveat:** the Korea cascade (sidecars both boards; HBM-beta worst)
+  is a **CONFIRMED positioning / forced-liquidation unwind** (crowded leveraged foreign longs) — **NOT a
+  confirmed fundamental memory-top** (MU Jun-24 fundamentals unchanged; capex still rising). So as of now it
+  reads more **positioning flush than fundamental regime-change** — the fundamental crack (pricing flip, real
+  capex cuts) still hasn't printed; the FT −29% ROI is the warning, not yet the confirmation. Keep watching.
+
 ## Memory shortage — confirmed & worsening (added 2026-07-01)
 Source: `raw/memory-shortage-2026-07-01.md`. Relevant to MU (28% of trading basket) + storage sleeve.
 

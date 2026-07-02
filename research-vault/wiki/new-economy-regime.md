@@ -89,6 +89,21 @@ the bottom's inflation (Jake's "income-specific CPI" / moving-target idea).
   (assets + debt) than an income-statement story** (wages ≈ flat vs basket). Next cut:
   wealth-by-quintile.
 
+## Warsh / Fed Trap update (2026-07-01, Sintra) — HAWKISH, corrects the intraday "dovish" read
+- ⚠️ **Correction:** an early headline ("inflation risks have come down") read dovish/cut-lean. The FULL
+  Sintra readout is **hawkish**: "prices are too high," "we're going to deliver price stability," **won't
+  tolerate inflation >2%**; forward guidance abandoned. Market: **~70% odds of a HIKE by Sep**, 9/18 officials
+  see rates higher by end-2026, two hikes priced by Q1 2027. So "he's gonna cut / Trump gets his way" is
+  **contradicted** — hikes are still priced. `raw/2026-07-01-macro-scan.md`.
+- *(inverts the Fed-put read)* Hawkish Fed **into** the AI-capex crack = **NO Fed put right now** → growth
+  scare AND policy both bearish → strengthens the drawdown/puts scenario, kills "a cut cushions the dip."
+- *(Fed Trap, live)* "Won't tolerate >2%" = the *can't-ease* horn; $39T debt = the *can't-tighten* horn.
+  Warsh is talking the hawkish horn — either he means it (hikes → bust) or folds later. Still trapped.
+- *(escape hatch + Jake's rebuttal)* Warsh's out: AI capex "expands the supply side" (productivity →
+  immaculate disinflation → avoids the choice). Bull counter to [[cepi]]. **Jake's rebuttal (sharp):** the
+  binding inflation is *essentials* (rent/food/energy), not compute — AI productivity in compute doesn't
+  lower rent, so the escape hatch is a category error re: the Hollow Bottom.
+
 ## Falsifiers (watch in the monthly refresh)
 - M2 YoY rolls back negative / WALCL resumes falling → liquidity tightening, debasement read weakens.
 - Real fed funds climbs (inflation falls faster than cuts) → Fed NOT trapped, they have room.

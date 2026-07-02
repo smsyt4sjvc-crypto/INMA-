@@ -57,6 +57,17 @@ hardware** — which is Jake's heaviest sleeve. Implications:
 - **Cross-currents:** Trump "I'm profiting because the market's up" = political-put confirmed; Warsh
   Sintra = hawkish catalyst today; Iran de-escalating (eases XOM-hedge, tail alive).
 
+## Jul-1 close — positions (2026-07-01 PM; `raw/2026-07-01-macro-scan.md`)
+- **Neoclouds validated the "first to lighten" call, hard:** NBIS −13.6%, CRWV −12.8% (ChronoScale −19.3%).
+  The most-exposed fell most, exactly as flagged. If lightening the sleeve, this was the read.
+- **MU −10%** (still +260% YTD) — scarcity-premium derating as flagged; best-defended of the exposed (oligopoly + cash flow).
+- **Meta +9%** = the hyperscaler-winner rotation confirmed; you're light this side, heavy the losing (hardware) side.
+- **Burry shorts moving:** CAT −7%, AMAT (both his adds) — the P&S-cliff names.
+- **XOM:** base case holds, all 3 exit conditions un-triggered; WTI $68 = spot-vs-forward trap, not a clean #3.
+- **Gold +1.6% ($4,103)** — safe-haven bid returning (debasement/risk-off); constructive for the hard-asset lean.
+- **Fed = NO put right now** (see [[new-economy-regime]] Warsh hawkish) → don't expect a cut to rescue the flush;
+  strengthens holding the SPY puts, argues against rushing the semis ladder. VIX only 16.4 = complacency, not capitulation.
+
 ## Open threads (offered, not done)
 - Build "what fills the ladder" drawdown scenario (and check it's the same crack that pays the puts).
 - Full weighted "own-the-toll" energy basket. CFTC COT positioning tracker (13F blackout filler).
