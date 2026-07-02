@@ -113,6 +113,21 @@ the bottom's inflation (Jake's "income-specific CPI" / moving-target idea).
   *structural* debasement thesis ([[consumption-vs-investment-crux]], Fed Trap) stays intact. Positioning vs structure.
 - Reinforces **global hawkish CB** (BOK hiking July + Warsh hawkish) = no central-bank put; strong USD is the tell.
 
+## June-2026 jobs — Hollow Bottom confirmed, Fed Trap deepened (2026-07-02)
+Source: `raw/2026-06-jobs-report-empsit.md` (Jake's verbatim BLS extraction).
+- **Stall-speed headline over a hollowing core:** NFP +57k, unemployment 4.2% — but the rate fell for the
+  *wrong* reason (participation −0.3pp → 61.5%, not-in-labor-force +832k, employed-HH −507k). Serial DOWN
+  revisions (−74k Apr+May). Long-term unemployed 1.9M (27.3%); involuntary part-time series-high (+201k);
+  full-time −514k. The frozen-labor / duration thesis, confirmed and deepening.
+- **Hollow Bottom cross-confirmed from a 2nd dataset:** discretionary/cyclical *sheds* (leisure & hosp −61k,
+  retail −7.5k) while eds/meds/social-assistance carry the entire gain. Prices *and* jobs now print the same
+  two-economy split. Ties [[consumption-vs-investment-crux]].
+- **Fed Trap deepened, July FOMC reopened two-sided:** weak labor = cut ammo (counters yesterday's hawkish-
+  Warsh read) BUT wages +3.5% y/y = cover to dismiss it. "He's gonna cut" isn't dead — it's now a race between
+  labor deterioration and inflation stickiness; this report tilts labor-weak, not decisive.
+- **Checkpoint:** Aug-28 **QCEW/UI benchmark revision** (near-universe, Jake's 941 cross-check) — given the
+  down-revision trend, likely reveals MORE hollowing. ⚠️ Payroll 90% CI ±122k → +57k ≈ noise; read composition.
+
 ## Falsifiers (watch in the monthly refresh)
 - M2 YoY rolls back negative / WALCL resumes falling → liquidity tightening, debasement read weakens.
 - Real fed funds climbs (inflation falls faster than cuts) → Fed NOT trapped, they have room.
