@@ -49,6 +49,14 @@ hardware** — which is Jake's heaviest sleeve. Implications:
   scale new competition + oversupply for the GPU-rental model.
 - **PLTR** (Tier C) — China-open-weight moat-bypass risk (Jake's own flag) now compounding — efficiency
   wave hits the *moat* names too, not just hardware.
+  - **REFRAME (2026-07-01, Karp CNBC; `raw/2026-07-01-karp-cnbc-palantir.md`):** Karp repositions PLTR
+    *away* from proprietary-model moat (bypassable) *toward* the **secure-deployment + data-control +
+    government platform for ANY model, incl. open-weight on private hardware.** → PLTR *rides* the
+    open-weight/efficiency wave instead of dying to it; moves to Privorotsky's *platform-winner* side;
+    gov/defense base **insulated** from enterprise/consumer demand erosion. Addresses the moat-bypass flag.
+    ⚠️ Checks: CEO talking his book (adoption>rhetoric); extreme valuation (story≠entry); positioning not
+    proven execution; new moat = regulatory/trust (narrower TAM). NET: thesis *clarity* upgraded (PLTR =
+    secure-gov-platform + open-weight-enabler), sizing stays **Tier C**.
 - **SMCI (legacy)** — China chip-smuggling probe, idiosyncratic negative.
 - **Barbell working:** SPY Dec puts green on the chip-wreck; the "don't invest all of that" pushback
   (20 min before the drop) validated. Discipline: if it's regime-change (not a flush), the semis ladder

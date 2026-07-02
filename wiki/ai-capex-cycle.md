@@ -95,6 +95,17 @@ Source: `raw/2026-07-01-macro-scan.md`.
   plumbing. **→ Weight Korea LOW as demand evidence; lean on the clean tells (H100 rentals, DDR5, real capex
   cuts).** Confirms Vector 11 (leveraged-ETF amplification, un-bailoutable). Global hawkish CB (BOK+Warsh) = no put.
 
+## "Tokenmaxxing" goes institutional — CEPI confirmed from a CEO (2026-07-01)
+- Alex Karp (PLTR CEO, CNBC) calls token-based pricing (OpenAI/Anthropic) a **"wealth tax" on businesses** —
+  high prices, no ROI. `raw/2026-07-01-karp-cnbc-palantir.md`.
+- *(Vector 9)* "Tokenmaxxing" is Burry's exact term (from the uploaded essay) → now used by a public CEO =
+  fringe→institutional migration, live.
+- *(CEPI, demand-side)* A CEO confirming "enterprises pay without ROI" IS the FT −29%-AI-ROI number told
+  from the buyer's chair — the air-gap from the demand side. Karp's fix ("run open-weight on your own
+  hardware") = *own the toll, don't rent it*, applied to compute; and it's the Hollow-Bottom extraction
+  pattern one layer up (frontier labs taxing businesses like the economy taxes the bottom).
+- ⚠️ Karp is talking his book (PLTR sells the alternative) — discount the framing; see [[portfolio-state]] PLTR reframe.
+
 ## Memory shortage — confirmed & worsening (added 2026-07-01)
 Source: `raw/memory-shortage-2026-07-01.md`. Relevant to MU (28% of trading basket) + storage sleeve.
 
