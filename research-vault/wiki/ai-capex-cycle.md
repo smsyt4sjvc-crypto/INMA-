@@ -95,6 +95,13 @@ Source: `raw/2026-07-01-macro-scan.md`.
   plumbing. **→ Weight Korea LOW as demand evidence; lean on the clean tells (H100 rentals, DDR5, real capex
   cuts).** Confirms Vector 11 (leveraged-ETF amplification, un-bailoutable). Global hawkish CB (BOK+Warsh) = no put.
 
+## Jobs data = real-economy vote on flush-vs-regime → "not yet" (2026-07-02)
+- June jobs (`raw/2026-06-jobs-report-empsit.md`): **nonresidential/data-center-adjacent construction still
+  ADDING labor** (specialty trade +14.1k) while residential sheds (−5.7k). The physical AI buildout hadn't
+  cracked *through June* — lines up with Meta capex still rising → reinforces **flush-not-regime-change**.
+  ⚠️ Construction labor LAGS (projects ordered months ago), so it confirms "still building," not "will keep
+  building" — wouldn't catch an early crack. A real-economy counterweight to the H100/Meta demand-panic.
+
 ## "Tokenmaxxing" goes institutional — CEPI confirmed from a CEO (2026-07-01)
 - Alex Karp (PLTR CEO, CNBC) calls token-based pricing (OpenAI/Anthropic) a **"wealth tax" on businesses** —
   high prices, no ROI. `raw/2026-07-01-karp-cnbc-palantir.md`.
