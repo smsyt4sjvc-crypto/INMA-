@@ -104,6 +104,15 @@ the bottom's inflation (Jake's "income-specific CPI" / moving-target idea).
   binding inflation is *essentials* (rent/food/energy), not compute — AI productivity in compute doesn't
   lower rent, so the escape hatch is a category error re: the Hollow Bottom.
 
+## ⚠️ Debasement-unwind headwind (2026-07-01, Goldman via ZH Korea note)
+- Goldman attributes part of the Korea/won move to the market **"unwinding debasement trades" while USD stays
+  resilient** → USDKRW grinds higher. `raw/2026-07-01-korea-liquidity-goldman.md`.
+- *(near-term counter to the debasement lean)* A debasement-trade *unwind* + strong USD is a **short-term
+  headwind to the gold/hard-asset side of the barbell** — mild tension with gold +1.6% (2026-07-01). Watch
+  whether it persists: if debasement-unwind + strong-USD holds, hard assets face a near-term drag even as the
+  *structural* debasement thesis ([[consumption-vs-investment-crux]], Fed Trap) stays intact. Positioning vs structure.
+- Reinforces **global hawkish CB** (BOK hiking July + Warsh hawkish) = no central-bank put; strong USD is the tell.
+
 ## Falsifiers (watch in the monthly refresh)
 - M2 YoY rolls back negative / WALCL resumes falling → liquidity tightening, debasement read weakens.
 - Real fed funds climbs (inflation falls faster than cuts) → Fed NOT trapped, they have room.

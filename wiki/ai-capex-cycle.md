@@ -86,6 +86,14 @@ Source: `raw/2026-07-01-macro-scan.md`.
   confirmed fundamental memory-top** (MU Jun-24 fundamentals unchanged; capex still rising). So as of now it
   reads more **positioning flush than fundamental regime-change** — the fundamental crack (pricing flip, real
   capex cuts) still hasn't printed; the FT −29% ROI is the warning, not yet the confirmation. Keep watching.
+- **PROVEN mechanical (Goldman, `raw/2026-07-01-korea-liquidity-goldman.md`):** Korea's crash is **MSCI
+  concentration-limit rebalancing** (Samsung 32% / Hynix 30% of MSCI Korea vs 25% cap → forced selling,
+  +$24B still to come on $200B AUM) + FX-hedging feedback (Q2 mktcap +68% → +$68-102B hedge need) + a
+  leveraged-ETF/margin liquidity spiral + quarter-end timing + a July BOK hike. **NOT a memory-demand verdict.**
+  ⚠️ **"Highest-HBM-beta fell hardest" is CONFOUNDED** — Samsung/Hynix are *both* the highest-HBM-beta names
+  *and* the most-over-index-limit names, so forced rebalancing *looks* like a demand signal but is largely
+  plumbing. **→ Weight Korea LOW as demand evidence; lean on the clean tells (H100 rentals, DDR5, real capex
+  cuts).** Confirms Vector 11 (leveraged-ETF amplification, un-bailoutable). Global hawkish CB (BOK+Warsh) = no put.
 
 ## Memory shortage — confirmed & worsening (added 2026-07-01)
 Source: `raw/memory-shortage-2026-07-01.md`. Relevant to MU (28% of trading basket) + storage sleeve.
