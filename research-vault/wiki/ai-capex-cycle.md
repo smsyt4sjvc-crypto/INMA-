@@ -192,6 +192,37 @@ Two pieces verified via WebSearch; the cluster splits cleanly into confirmed vs 
 the dollar figure. That's the CEPI stage-2 print and the tape Jake's puts are positioned for. Meta *raised*, so
 not yet. Watch next earnings guides + the bookmarked indicators (H100 rental, DDR5, Aug-28 QCEW).
 
+### AVGO Stage-1.5 datapoint — "maintain not raise" (2026-07-03)
+Jake: "capex discipline has started, with AVGO." Verified — it's the *multiple* crack, not a spend cut.
+
+#### DATA (verified, WebSearch 2026-07-03)
+- AVGO Q2 FY26 **record**: AI rev ~$10.8B (+143% YoY), Q3 AI guide **raised to >$16B**, **$73B backlog**
+  (~18-mo runway), added **OpenAI** as 6th custom-silicon customer ("Jalapeño" inference chip, multi-GW
+  commitments through 2029). Broader hyperscaler capex "remains strong."
+- **BUT: management MAINTAINED (did not raise) the long-term ~$100B 2027 AI target** → stock **−13% on the
+  record**, −25% on the month. Sources tie the selloff to **margin pressure on lower-margin custom
+  accelerators + a forward guide that didn't clear lofty expectations**, NOT a capex cut.
+  [Yahoo; Matterfact 2026-07-02; Oplexa]
+
+#### THESIS (interpretation — NOT fact; note: evidence-from-omission = softer)
+- *(the correct label)* This is **Stage 1.5 — the valuation/expectations & margin crack — NOT Stage 2
+  (a spend cut).** "Maintain not raise" = the market's addiction to endless upward revisions got disciplined;
+  **it's bearish the MULTIPLE, not the E.** No dollars were cut — $100B reaffirmed, $73B backlog intact →
+  spend still coming, just not accelerating past what's priced.
+- *(concede — Jake's leading-edge read is right)* The **forward** narrative flattened while **trailing**
+  printed records — and forward tops first. Declining to raise is the earliest, softest tell of a demand
+  ceiling. Jake is early-but-directional, consistent with the whole ROI cluster (the forward is where it shows).
+- *(the substitution mechanism, from prior turn)* Hyperscalers routing cost-discipline through custom
+  silicon (AVGO/MRVL) vs Nvidia margin → complex-wide margin compression; market punishes even the *winner*
+  (AVGO −13% on a record). Direct book hit: **MRVL −9.8% in the [[rotation-stickiness]] scan was THIS
+  repricing on the #2 ASIC designer, not noise.** NVDA = the share-loss loser.
+- *(the progression = the real signal)* Three Stage-1/1.5 tells in a row — Bain (returns) → custom-silicon
+  (margin) → AVGO forward-guide flattening (expectations) — all pointing at the trigger, **none of them yet
+  the trigger.** Pressure building toward Stage 2; direction confirmed, go-signal pending.
+- *(⚠️ book discipline)* Do NOT relabel this Stage 2. Trading the multiple-crack as the revenue-crack =
+  front-running the puts on a name that just backlogged $73B. Stage-2 trigger unchanged: a **hyperscaler
+  cutting a capex GUIDE DOLLAR figure** (Meta *raised*; AVGO *maintained* — neither qualifies).
+
 ## Counterweights (steelman the other side)
 - *(analysis)* Hyperscalers have real cash flows and can fund capex from operations far longer
   than a classic bubble; demand could be under- not over-estimated if agents/inference scale.
