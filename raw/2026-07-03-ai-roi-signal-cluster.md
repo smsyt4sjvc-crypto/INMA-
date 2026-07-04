@@ -26,6 +26,9 @@
   selloff = margin (custom accelerators) + forward-guide-vs-expectations, NOT a capex cut.
 - Filed as **Stage 1.5 (multiple/expectations + margin crack), NOT Stage 2 (spend cut).** Maintain=reaffirm,
   not a cut; evidence-from-omission. MRVL −9.8% = same custom-silicon repricing.
+- ⚠️ Primary source (`raw/2026-06-04-avgo-morningstar.md`) dates the event **June 4** (month-old), and splits
+  the drop into expectations + margin + **idiosyncratic Google→MediaTek TPU share loss** (not capex discipline).
+  $286B wiped (4th-largest US 1-day); Micron sympathy wipeout; Street = "pause not break."
 
 # Ingested into: wiki/ai-capex-cycle.md ("ROI crack ≠ spend crack" + "AVGO Stage-1.5 maintain-not-raise").
 # Corrects July-1 "Meta will cut capex." Stage-2 trigger (hyperscaler cuts capex $ guide) still pending.
