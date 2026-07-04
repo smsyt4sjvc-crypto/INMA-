@@ -192,17 +192,23 @@ Two pieces verified via WebSearch; the cluster splits cleanly into confirmed vs 
 the dollar figure. That's the CEPI stage-2 print and the tape Jake's puts are positioned for. Meta *raised*, so
 not yet. Watch next earnings guides + the bookmarked indicators (H100 rental, DDR5, Aug-28 QCEW).
 
-### AVGO Stage-1.5 datapoint — "maintain not raise" (2026-07-03)
-Jake: "capex discipline has started, with AVGO." Verified — it's the *multiple* crack, not a spend cut.
+### AVGO Stage-1.5 datapoint — "maintain not raise" (earnings 2026-06-04)
+Jake: "capex discipline has started, with AVGO." Verified vs the PRIMARY source (Morningstar/MarketWatch,
+Britney Nguyen, 2026-06-04, `raw/2026-06-04-avgo-morningstar.md`) — it's the *multiple* crack + an
+idiosyncratic share loss, NOT a spend cut. ⚠️ Event is **June 4**, a month old (began the AVGO derating).
 
-#### DATA (verified, WebSearch 2026-07-03)
-- AVGO Q2 FY26 **record**: AI rev ~$10.8B (+143% YoY), Q3 AI guide **raised to >$16B**, **$73B backlog**
-  (~18-mo runway), added **OpenAI** as 6th custom-silicon customer ("Jalapeño" inference chip, multi-GW
-  commitments through 2029). Broader hyperscaler capex "remains strong."
-- **BUT: management MAINTAINED (did not raise) the long-term ~$100B 2027 AI target** → stock **−13% on the
-  record**, −25% on the month. Sources tie the selloff to **margin pressure on lower-margin custom
-  accelerators + a forward guide that didn't clear lofty expectations**, NOT a capex cut.
-  [Yahoo; Matterfact 2026-07-02; Oplexa]
+#### DATA (verified — primary source)
+- AVGO Q2 FY26 **record**: AI rev ~$10.8B (+143% YoY); Q3 AI guide **+200% to ~$16B — but BELOW Street's
+  target**; **$73B backlog**, added **OpenAI** (6th custom customer, "Jalapeño," multi-GW through 2029).
+- **MAINTAINED (did not raise) the ~$100B 2027 AI target** in "a market clamoring for beats and raises"
+  (TD Cowen) → stock **−12%**, **erased $286B mkt cap = 4th-largest 1-day loss for any US co** (Dow Jones);
+  **Micron suffered a record mkt-cap wipeout in sympathy same day** (MU didn't report — dragged by AVGO).
+- **Gross margins coming DOWN** — software/chip revenue mix + "uncertainty over some custom-chip projects" (TD Cowen).
+- **⚠️ Idiosyncratic share loss:** Evercore (Lipacis) — AVGO **losing part of Google's TPU business to
+  MediaTek** (Google moving *next-gen* TPU design to the Taiwanese firm after a decade w/ Broadcom).
+- Context: AVGO +38% YTD / +51% 3mo, SOX +96% YTD = priced for perfection. Street verdict = **pause, not
+  break** (Bernstein: "interesting again in 2027," "materially higher run-rate into 2028"; 10GW custom
+  deployments next yr = "material upside"; VMware/CPU inference offset).
 
 #### THESIS (interpretation — NOT fact; note: evidence-from-omission = softer)
 - *(the correct label)* This is **Stage 1.5 — the valuation/expectations & margin crack — NOT Stage 2
@@ -216,9 +222,21 @@ Jake: "capex discipline has started, with AVGO." Verified — it's the *multiple
   silicon (AVGO/MRVL) vs Nvidia margin → complex-wide margin compression; market punishes even the *winner*
   (AVGO −13% on a record). Direct book hit: **MRVL −9.8% in the [[rotation-stickiness]] scan was THIS
   repricing on the #2 ASIC designer, not noise.** NVDA = the share-loss loser.
+- *(MediaTek = the substitution goes one layer deeper — book-relevant)* Google dual-sourcing TPU design
+  (Broadcom → +MediaTek) = hyperscalers **multi-sourcing their ASIC designers to play them off on price** —
+  cost-discipline via *designers-vs-each-other*, not just ASIC-vs-Nvidia. Bearish **every** merchant custom
+  name on margin, **incl MRVL (Jake's holding)** — the thing hurting AVGO hits Marvell the same way.
+  Strengthens the *margin* thesis even as it weakens the *capex-discipline* read.
+- *(⚠️ don't attribute the whole move to discipline)* A real slice of the $286B drop is **idiosyncratic
+  competitive share loss** (Google→MediaTek), NOT enterprise AI-ROI discipline. Over-attributing it to "capex
+  discipline" is the confirmation-reach; the primary source splits it into expectations + margin + share loss.
+- *(the kernel Jake has right — sentiment)* AVGO was the **pin that popped "priced for perfection" across the
+  SOX** (+96% YTD) — Micron record wipeout in *sympathy* same day, no MU news. Whatever the cause-mix, the
+  *effect* was a complex-wide positioning/multiple derating — real, and the grind on Jake's semis sleeve.
 - *(the progression = the real signal)* Three Stage-1/1.5 tells in a row — Bain (returns) → custom-silicon
   (margin) → AVGO forward-guide flattening (expectations) — all pointing at the trigger, **none of them yet
-  the trigger.** Pressure building toward Stage 2; direction confirmed, go-signal pending.
+  the trigger.** Street reads AVGO as a *pause, not a break*. Pressure building toward Stage 2; direction
+  confirmed, go-signal pending.
 - *(⚠️ book discipline)* Do NOT relabel this Stage 2. Trading the multiple-crack as the revenue-crack =
   front-running the puts on a name that just backlogged $73B. Stage-2 trigger unchanged: a **hyperscaler
   cutting a capex GUIDE DOLLAR figure** (Meta *raised*; AVGO *maintained* — neither qualifies).
