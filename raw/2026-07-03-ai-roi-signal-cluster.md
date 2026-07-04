@@ -19,4 +19,13 @@
 - Hyperscaler capex CONFIRMED RISING: ~$725B 2026 (+77% YoY), AMZN $200B, **Meta RAISED FY26 to
   $125–145B**. Capex-to-revenue gap widening; Meta punished ~6% for spend-without-proof. [Forbes/CNBC/Tom's]
 
-# Ingested into: wiki/ai-capex-cycle.md ("ROI crack ≠ spend crack"). Corrects July-1 "Meta will cut capex."
+## AVGO follow-up (Jake, 2026-07-03)
+- Jake: "The capex discipline has started. With AVGO for now." Specific: AVGO volatility because mgmt
+  **MAINTAINED rather than RAISED** its long-term ~$100B AI-chip target → read as tighter ROI scrutiny.
+- Verified: record Q2, Q3 AI guide raised >$16B, $73B backlog, added OpenAI; −13% on the record, −25%/mo;
+  selloff = margin (custom accelerators) + forward-guide-vs-expectations, NOT a capex cut.
+- Filed as **Stage 1.5 (multiple/expectations + margin crack), NOT Stage 2 (spend cut).** Maintain=reaffirm,
+  not a cut; evidence-from-omission. MRVL −9.8% = same custom-silicon repricing.
+
+# Ingested into: wiki/ai-capex-cycle.md ("ROI crack ≠ spend crack" + "AVGO Stage-1.5 maintain-not-raise").
+# Corrects July-1 "Meta will cut capex." Stage-2 trigger (hyperscaler cuts capex $ guide) still pending.
