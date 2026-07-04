@@ -144,6 +144,54 @@ up" = shortage on. When it flips to "in stock, listed price, **falling**" → cy
 shows there *before* Micron's earnings. Check it from a retail page. (Jake's Nov-2025 datapoint:
 had to "request pricing" — the leading edge.)
 
+## ⚠️ ROI crack ≠ spend crack — the timing relocation (2026-07-03)
+Jake fed a signal cluster (token-spend index −20% from May high; per-token costs −90%; hyperscaler
+AI-ROI narrative; Bain "circular bet"; Chinese-model efficiency; circular revenue declining).
+Two pieces verified via WebSearch; the cluster splits cleanly into confirmed vs contradicted.
+
+### DATA (verified)
+- **Bain survey (June 1 2026, 951 firms >$100M rev) — strong INDEPENDENT primary:** 40% got ≤10%
+  AI savings, only 4% cleared 30%; **44% fund the next wave from prior-automation "savings" that
+  underdelivered — Bain calls it a "circular bet with a structural leak"**; underestimated "around-AI"
+  cost (eng/ops/governance) by 2–5x. Yet **90% are RAISING AI budgets again.** [Bain; Bloomberg; ZH].
+- **Spend is ACCELERATING, not rolling over:** hyperscaler capex **~$725B in 2026, +77% YoY** (AMZN $200B).
+  **Meta RAISED FY26 capex guide to $125–145B** (from $115–135B); market punished it ~6% for spending
+  without revenue proof. Capex-to-revenue gap widening, market repricing it [Forbes; Tom's Hardware; CNBC].
+- Jake's own paste, internally: **"per-token cost −90% but total enterprise bills still UP on agentic
+  usage surge"** (= Jevons) and **"90% hiking budgets"** (= no rollover). Both confirmed by the above.
+
+### ⚠️ Record-corrections (firewall rule 4)
+- The July-1 **"Meta will be first to CUT capex"** narrative (ingested) is **contradicted by the actuals** —
+  Meta *raised* its FY26 guide. What Meta announced was a compute **resell/sublease** (monetizing slack),
+  NOT a capex cut, and can coexist with building more. Narrative said "cut"; filing says "raised." Weight the filing.
+- "AI ROI decelerating quickly → spend cracking now" conflates two cracks. **ROI crack = confirmed. Spend
+  crack = not yet.** Jake's puts pay on the *second*.
+
+### THESIS (interpretation — NOT fact)
+- *(the core reframe)* **This is a RETURNS crack and a VALUATION-narrative crack, not (yet) a SPEND crack.**
+  Different cracks; Jake's short-hardware/puts thesis pays on spend rolling over, and spend is still climbing.
+  Spending $725B into sub-10% ROI = a *bigger* bubble inflating, not a smaller one → thesis intact, **timing
+  relocated later and lumpier.** Ties [[cepi]] (capex→earnings→price: we're pre-earnings-air-gap-closing).
+- *(the 4-stage sequence, where we are)* `ROI disappoints ✅now` → `forces capex discipline ❌(90% hiking)` →
+  `spend rolls over ❌(the real crack)` → `hardware revenue craters (puts pay)`. **Stage 1 of 4.** Arms-race
+  ("short compute is the one mistake no one can afford → nobody cuts first") can hold 1→2 apart for quarters.
+- *(Jevons, settles the demand read)* Unit token cost −90% while total bills UP = efficiency *consumed by
+  volume*, not demand destruction. Consistent with the memory-shortage finding above (demand outrunning the
+  efficiency workaround). Aggregate compute demand growing; it's the *returns on it* that disappoint.
+- *(where Jake's right about WHERE, off about WHEN)* The efficiency wave (Chinese open-weight, tokenmaxxing
+  decel) bites the **neocloud rental/margin layer first** (NBIS/CRWV) — falling per-GPU-hour pricing + circular-
+  flow erosion (hyperscalers building custom silicon) = margin compression on the merchant-GPU model. That's
+  why they dumped in the [[rotation-stickiness]] scan. Correct call on the sleeve; the *hyperscaler build layer*
+  is still accelerating, which is what defers the violent leg.
+- *(calibration — source independence)* Cluster is MIXED independence: anchored by a genuine primary (Bain,
+  951-firm survey = HIGH) but wrapped in narrative amplification ("token index −20%," "circular declining") that
+  the actuals ($725B, +77%, Meta raised) don't support. Keep the Bain core; discount the "spend cracking" wrapper.
+
+### TRIGGER to watch (Stage 1 → Stage 2)
+**The first hyperscaler to cut an actual capex GUIDE NUMBER** — not resell compute, not "efficiency" talk, cut
+the dollar figure. That's the CEPI stage-2 print and the tape Jake's puts are positioned for. Meta *raised*, so
+not yet. Watch next earnings guides + the bookmarked indicators (H100 rental, DDR5, Aug-28 QCEW).
+
 ## Counterweights (steelman the other side)
 - *(analysis)* Hyperscalers have real cash flows and can fund capex from operations far longer
   than a classic bubble; demand could be under- not over-estimated if agents/inference scale.
