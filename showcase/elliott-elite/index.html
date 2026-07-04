@@ -55,9 +55,23 @@
   .cta.primary:hover{filter:brightness(1.06)}
 
   /* Hero */
-  .hero{position:relative;padding:74px 0 60px;overflow:hidden}
-  .hero-grid{display:grid;grid-template-columns:1.02fr .98fr;gap:44px;align-items:center}
-  @media (max-width:900px){.hero-grid{grid-template-columns:1fr;gap:30px}}
+  .hero{position:relative;padding:96px 0 90px;overflow:hidden;min-height:82vh;display:flex;align-items:center}
+  .hero-content{position:relative;z-index:3;max-width:620px}
+  /* Big transparent M5 sitting behind the content */
+  .hero-car{position:absolute;right:-6%;top:48%;transform:translateY(-50%);z-index:1;pointer-events:none;
+    width:min(1250px,80%);height:auto;opacity:.42;filter:drop-shadow(0 40px 50px rgba(0,0,0,.55));
+    -webkit-mask-image:linear-gradient(90deg,transparent 0,#000 40%);mask-image:linear-gradient(90deg,transparent 0,#000 40%)}
+  @media (max-width:900px){
+    .hero{min-height:auto;padding:40px 0 64px;flex-direction:column-reverse;align-items:stretch}
+    .hero-car{position:relative;right:auto;top:auto;transform:none;width:114%;margin:16px -7% 0;opacity:.9;
+      -webkit-mask-image:none;mask-image:none;filter:drop-shadow(0 18px 26px rgba(0,0,0,.6))}
+    .hero-content{max-width:none}
+  }
+  @media (max-width:720px){
+    .nav a.link{display:none}
+    .brand .bname{display:none}
+    .nav-inner{padding:12px 0}
+  }
   .eyebrow{color:var(--muted);text-transform:uppercase;letter-spacing:.24em;font-size:12px;margin-bottom:18px}
   h1.title{
     font-size:clamp(42px,6.4vw,76px);line-height:1.0;margin:0 0 16px;letter-spacing:-.02em;font-weight:900;
@@ -89,10 +103,10 @@
   .studio .carimg.reflect{transform:scaleY(-1);margin-top:-6%;opacity:.16;filter:blur(1px);
     -webkit-mask-image:linear-gradient(180deg,#000,transparent 55%);mask-image:linear-gradient(180deg,#000,transparent 55%)}
 
-  /* Pixelated rainbow drip — sprinkled across the bottom of the header */
-  .pixeldrip{position:absolute;left:0;right:0;bottom:0;height:150px;z-index:1;pointer-events:none;
-    display:flex;align-items:flex-end;gap:3px;padding:0 6px;overflow:hidden;opacity:.5;
-    -webkit-mask-image:linear-gradient(180deg,transparent 0,#000 85%);mask-image:linear-gradient(180deg,transparent 0,#000 85%)}
+  /* Pixelated rainbow drip — across the bottom of the header */
+  .pixeldrip{position:absolute;left:0;right:0;bottom:0;height:230px;z-index:2;pointer-events:none;
+    display:flex;align-items:flex-end;gap:3px;padding:0 5px;overflow:hidden;opacity:.62;
+    -webkit-mask-image:linear-gradient(180deg,transparent 0,#000 72%);mask-image:linear-gradient(180deg,transparent 0,#000 72%)}
   .pixeldrip .col{width:9px;display:flex;flex-direction:column;gap:3px;justify-content:flex-end;height:100%}
   .pixeldrip .px{width:9px;height:9px;flex:0 0 9px;box-shadow:0 0 5px currentColor}
   .studio .logo-badge{position:absolute;top:20px;left:22px;z-index:3}
@@ -189,34 +203,20 @@
 
 <main id="top">
   <section class="hero">
+    <img class="hero-car" src="car.png" alt="Detailed BMW M5" aria-hidden="true">
     <div class="pixeldrip" id="pixeldrip" aria-hidden="true"></div>
-    <div class="container hero-grid" style="position:relative;z-index:2">
-      <div>
-        <div class="eyebrow">Auto Detailing · Mobile &amp; Shop</div>
-        <h1 class="title">Precision in<br/>Every Detail.</h1>
-        <p class="tag">Full-service auto detailing done right. Interior deep cleans, paint correction, ceramic protection, and showroom-level finishes — every time.</p>
-        <div class="hero-cta">
-          <a class="cta primary" href="tel:5094137026">Call 509-413-7026</a>
-          <a class="cta" href="mailto:Elliottelijah7.62@icloud.com">Email a quote</a>
-        </div>
-        <div class="stats">
-          <div class="stat"><b>100%</b>Satisfaction</div>
-          <div class="stat"><b>Mobile</b>Service available</div>
-          <div class="stat"><b>Pro-grade</b>Products &amp; tools</div>
-        </div>
+    <div class="container hero-content">
+      <div class="eyebrow">Interior Detailing · Wash &amp; Wax · Spokane Area</div>
+      <h1 class="title">Precision in<br/>Every Detail.</h1>
+      <p class="tag">Interior detailing, hand washes, and wax that makes your ride feel new again. Clean work, fair prices, done right — every time.</p>
+      <div class="hero-cta">
+        <a class="cta primary" href="tel:5094137026">Call 509-413-7026</a>
+        <a class="cta" href="mailto:Elliottelijah7.62@icloud.com">Email a quote</a>
       </div>
-
-      <!-- Studio car scene -->
-      <div class="studio" aria-hidden="true">
-        <div class="logo-badge"><svg class="eed" viewBox="0 0 300 80"><use href="#eedLogo"/></svg></div>
-        <div class="carwrap">
-          <img class="carimg" src="car.png" alt="BMW M5 detailed by Elliott Elite Detailing" loading="lazy">
-          <img class="carimg reflect" src="car.png" alt="" aria-hidden="true">
-        </div>
-        <div class="floor"></div>
-        <div class="contact">
-          <a href="tel:5094137026">📞 509-413-7026</a>
-        </div>
+      <div class="stats">
+        <div class="stat"><b>100%</b>Satisfaction</div>
+        <div class="stat"><b>Mobile</b>I come to you</div>
+        <div class="stat"><b>Pro</b>Products &amp; tools</div>
       </div>
     </div>
   </section>
@@ -224,15 +224,13 @@
   <section id="services">
     <div class="container">
       <h2>Services</h2>
-      <p class="lead">Dialed-in packages for daily drivers and weekend showpieces. Custom add-ons available.</p>
+      <p class="lead">Clean interiors and a sharp wash &amp; wax — done right, at a fair price. Custom add-ons on request.</p>
       <div class="services">
-        <article class="svc"><h3>Interior Detail</h3><p>Full vacuum, steam clean, shampoo carpets &amp; seats, leather conditioning, crevice &amp; vent detail, streak-free glass.</p><div class="price">From $120</div></article>
-        <article class="svc"><h3>Exterior Detail</h3><p>Hand wash, iron &amp; tar removal, clay bar decontamination, machine polish, tire dressing, and high-gloss sealant.</p><div class="price">From $150</div></article>
-        <article class="svc"><h3>Full Detail</h3><p>Inside and out — the complete reset. Ideal before selling, after winter, or when the ride just deserves it.</p><div class="price">From $250</div></article>
-        <article class="svc"><h3>Paint Correction</h3><p>Multi-stage compound &amp; polish to remove swirls, oxidation, and light scratches. Deep, wet-look clarity restored.</p><div class="price">Quoted</div></article>
-        <article class="svc"><h3>Ceramic Coating</h3><p>Pro-grade ceramic for lasting hydrophobic protection, UV resistance, and an unreal shine that rinses clean.</p><div class="price">Quoted</div></article>
-        <article class="svc"><h3>Headlight Restoration</h3><p>Sand, polish, and seal hazy lenses back to clear. Better looks, better light, safer nights.</p><div class="price">From $80</div></article>
+        <article class="svc"><h3>Interior Detailing</h3><p>Full vacuum, wipe-down of every surface, seats &amp; carpets cleaned, cupholders &amp; vents detailed, streak-free glass inside.</p><div class="price">From $60</div></article>
+        <article class="svc"><h3>Wash &amp; Wax</h3><p>Hand wash, dry, and hand-applied wax for a deep shine and protection. Wheels cleaned and tires dressed.</p><div class="price">From $45</div></article>
+        <article class="svc"><h3>The Full Package</h3><p>Interior detailing plus a full wash &amp; wax — inside and out. The complete refresh that makes your car feel new.</p><div class="price">From $95</div></article>
       </div>
+      <p class="lead" style="margin-top:22px">Add-ons: heavy vacuum, pet-hair removal, trash-out, extra interior shampoo — just ask when you book.</p>
     </div>
   </section>
 
@@ -267,8 +265,8 @@
         <div class="field"><label for="vehicle">Vehicle</label><input id="vehicle" name="vehicle" required placeholder="Year / Make / Model" /></div>
         <div class="field"><label for="service">Service</label>
           <select id="service" name="service">
-            <option>Interior Detail</option><option>Exterior Detail</option><option>Full Detail</option>
-            <option>Paint Correction</option><option>Ceramic Coating</option><option>Headlight Restoration</option>
+            <option>Interior Detailing</option><option>Wash &amp; Wax</option><option>The Full Package</option>
+            <option>Add-ons (pet hair, trash-out, etc.)</option>
             <option>Not sure — recommend me</option>
           </select>
         </div>
@@ -299,8 +297,8 @@
     for(let i=0;i<cols;i++){
       const col=document.createElement('div'); col.className='col';
       const r=Math.random();
-      // sprinkle: most columns short/empty, a few taller drips
-      const h = r<0.42 ? 0 : r<0.82 ? 1+Math.floor(Math.random()*2) : 2+Math.floor(Math.random()*maxBlocks);
+      // denser drip: few empty, plenty of mid, frequent tall columns
+      const h = r<0.16 ? 0 : r<0.55 ? 2+Math.floor(Math.random()*3) : 4+Math.floor(Math.random()*maxBlocks);
       const base=Math.floor(Math.random()*colors.length);
       for(let j=0;j<h;j++){
         const px=document.createElement('span'); px.className='px';
