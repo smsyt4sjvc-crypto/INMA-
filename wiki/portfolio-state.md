@@ -76,6 +76,11 @@ hardware** — which is Jake's heaviest sleeve. Implications:
 - **Fed = NO put right now** (see [[new-economy-regime]] Warsh hawkish) → don't expect a cut to rescue the flush;
   strengthens holding the SPY puts, argues against rushing the semis ladder. VIX only 16.4 = complacency, not capitulation.
 
+## Live flow (see [[live-flow-trackers]])
+- *(~2026-07-03 RVOL)* Quiet tape — flush not ongoing capitulation (RVOL normalized 2 sessions after
+  the July-1 chip-wreck; highest = NBIS 1.53, rest 0.83–1.20). Argues against rushing the ladder into
+  a knife that's stopped falling. **NBIS** the one standout (RVOL + turnover + fresh MOSO puts all lit).
+
 ## Open threads (offered, not done)
 - Build "what fills the ladder" drawdown scenario (and check it's the same crack that pays the puts).
 - Full weighted "own-the-toll" energy basket. CFTC COT positioning tracker (13F blackout filler).
