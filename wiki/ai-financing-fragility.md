@@ -48,6 +48,29 @@ Related: [[ai-capex-cycle]], [[market-fragility]], [[concentration]], [[consumpt
   something systemic: if AI ROI stays <10% (Bain) and neoclouds/data centers can't service the private credit,
   the losses route into the opaque insurance chain — the mechanism that turns a sector derating into a crisis.
 
+## Burry Part III corroboration + his own hedges (source 2026-05-22, `raw/2026-05-22-burry-heretics-guide-part-3.md`)
+### DATA (Burry's forensic specifics — corroborate & enrich the above)
+- **MetLife issues data-center ABS** (15–19yr lease income) to match long-duration annuity liabilities; keeps some,
+  cedes the rest to its **Bermuda captive reinsurer.** **200+ Bermuda captives sprung up since 2023 (AI-boom start);
+  36 PE-affiliated.** Apollo/Athene the archetype ("chock full of private credit… software loans, data center loans").
+- Bermuda = lighter reserves → more leverage → can **bid UP** risky assets ("expandable garbage bags": DC ABS, CLOs,
+  HY, private software debt). ABS tranching = "the exact structure of the RMBS I shorted" (Big Short parallel, his own).
+- **RVG (Residual Value Guarantee)** backstop fails in a correlation event (Moody's). **$662B off-balance-sheet
+  commitments** across MSFT/AMZN/GOOGL/META/ORCL, hidden by GAAP (a 60%-certain renewal isn't booked as a liability).
+  MSFT/Meta already used "power-delivery" outs to terminate leases (2025).
+- Funding perimeter stretching: two big Bermuda-parent insurers also borrowing from **FHLB** (Des Moines/NY).
+- **MS: PE/insurance private credit must fund ~$800B of the $2.9T buildout by 2028 (~1/3).** Ropes & Gray: **$275B
+  permanent-loan takeout** needed for DCs under construction *now.* Banks selling down Oracle/Stargate construction
+  loans to PE-owned private credit (Pere Credit 2/5) = "leading edge of the bezzle pausing." Private-credit funds
+  already marking down illiquid software loans.
+### THESIS (calibration — even the source hedges)
+- *(⚠️ tempers the systemic read)* Burry — who FOUND the chain — rates it **early-stage, not yet systemic:** "whether
+  it is material depends on one's perspective," "third-tier funding source," **"the DC ABS market is small now — the
+  Meta deal was almost the sum total,"** "no telling what that may trigger." So size it as **small-but-fast-growing +
+  a canary to watch,** not a detonating 2008-scale event today. The *structure* is subprime-shaped; the *scale* isn't there yet.
+- *(the trigger stays the same)* The risk activates on a **correlation event** (all DCs of a vintage repricing together
+  → RVGs toothless → losses route to the opaque insurance/Bermuda chain). Watch the $275B takeout cliff + ABS spreads.
+
 ## Falsifiers / watch
 - GPU-backed ABS spreads widen / a rated GPU deal gets downgraded → collateral-quality repricing starting.
 - A PE-owned insurer / Bermuda reinsurer flagged by NAIC/IMF for AI-credit concentration → the chain surfacing.

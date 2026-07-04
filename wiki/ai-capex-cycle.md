@@ -241,6 +241,42 @@ idiosyncratic share loss, NOT a spend cut. ⚠️ Event is **June 4**, a month o
   front-running the puts on a name that just backlogged $73B. Stage-2 trigger unchanged: a **hyperscaler
   cutting a capex GUIDE DOLLAR figure** (Meta *raised*; AVGO *maintained* — neither qualifies).
 
+## Burry "Heretic's Guide Part III" — the bezzle/tokenmaxxing/compression frame (source 2026-05-22)
+Full essay `raw/2026-05-22-burry-heretics-guide-part-3.md` (pasted 2026-07-03). The source upstream of
+tokenmaxxing/circular-financing/Vector 9. **Forensics = high-confidence; timing conclusion = lower-confidence.**
+
+### DATA (what the essay claims — checkable)
+- **NVDA customer concentration worse than Cisco:** $182B forward purchase commitments, **$119B with ONE
+  customer** (> NVDA annual op cash flow); a 20% MSFT chip-capex cut = **4.2% NVDA revenue hit**. Custom
+  non-fungible TSMC lines. Burry **short SOX.** The AR tell: MSFT inflected UP as %AR / DOWN as %revenue in Q1
+  (customer AR grew 13.4x vs revenue 4.9x) = "a zig where there were only zags."
+- **CIP mechanic:** MSFT warehouses chips as construction-in-progress (no depreciation/expense until in service,
+  ~60-65 day terms) → either MSFT over-ordered to hold priority, or NVDA pushed inventory to pop the quarter →
+  **bullwhip setup** (Cisco wrote down half its forward commitments in 2001). S&P: 19GW (40%) DC power shortage by 2028.
+- **Compression is live:** Microsoft killed Claude Code (Dec 2025 in → May 14 cancel → June 30 cutoff to in-house
+  Copilot). Amazon Kiro (leaderboards, $2B savings target, 21k agents) caused a March-5 outage (6.3M orders lost).
+
+### THESIS (Burry's read + our calibration)
+- *(the bezzle)* Temporary demand (benchmarking, trace-harvesting, leaderboard tokenmaxxing — training proprietary
+  models on employees' prompt labor) is **financed and tallied as if permanent.** "Benchmarking is not production."
+  Pyramid Tier1→4; evolutionary pressure = migrate up = **compression** (lower *external* token monetization, not
+  lower adoption). Ties [[cepi]], and "PLTR long-term squeezed out" (⚠️ tension w/ [[portfolio-state]] PLTR reframe).
+- *(⚠️ CORRECTION to the vault's Jevons read — firewall rule 4)* Earlier this note read "unit token cost −90% but
+  total bills UP = Jevons, demand durable/growing" (memory-shortage + ROI-cluster sections). **Burry rebuts it and
+  he's right to:** Jevons needs cheaper supply to unlock NEW users, but enterprise usage is already SATURATED
+  (tokenmaxxing = max consumption regardless of cost) and consumer LLM use is already free/universal → few new humans.
+  So the "total bills up" is **bezzle that COMPRESSES, not a durable floor.** Reframes "spend crack hasn't happened":
+  **compression IS the spend rolling over — in slow motion, at the software layer first** (MSFT dropping Claude Code =
+  a data point). Stage 2 may arrive as quiet token-compression showing up in neocloud revenue *before* any hyperscaler
+  cuts a guide. (Note: the memory-shortage section's "demand outrunning efficiency" may hold for *memory/hardware*
+  even as *token* demand compresses — different layers; watch which leads.)
+- *(⚠️ calibration — Burry is Jake's most-leaned-on source, so scrutinize hardest)* (1) Burry's **macro-short timing
+  base rate is poor** (TSLA/ARKK/S&P calls early-or-wrong since 2008); he self-hedges ("finger on the trigger… watch
+  the next few quarters") = a WATCH, not a dated call. Adopt forensics, hold timing loosely. (2) **The load-bearing
+  bet: the inference handoff FAILS** — training/tokenmax demand must compress *before* agentic/inference demand ramps
+  to replace it (the air pocket). If inference ramps fast, no air pocket. That single hinge is unresolved; don't treat
+  compression as settled. Steelman for the bulls = the same inference-handoff that Burry dismisses as "someday."
+
 ## Counterweights (steelman the other side)
 - *(analysis)* Hyperscalers have real cash flows and can fund capex from operations far longer
   than a classic bubble; demand could be under- not over-estimated if agents/inference scale.
