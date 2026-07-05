@@ -70,6 +70,11 @@ Related: [[ai-capex-cycle]], [[market-fragility]], [[concentration]], [[consumpt
   a canary to watch,** not a detonating 2008-scale event today. The *structure* is subprime-shaped; the *scale* isn't there yet.
 - *(the trigger stays the same)* The risk activates on a **correlation event** (all DCs of a vintage repricing together
   → RVGs toothless → losses route to the opaque insurance/Bermuda chain). Watch the $275B takeout cliff + ABS spreads.
+- *(⚠️ 2026-07-05 — the collateral itself obsoletes, worsening the mismatch)* Not just GPUs (~3yr) vs debt (15–19yr):
+  data centers designed <2yr ago are already "insufficiently provisioned for next-gen chips" (power/cooling) →
+  **the SHELL (the ABS collateral) ages out FASTER than the loan.** The residual-value assumption behind the ABS/RVG
+  is a sub-2yr asset priced as a 15yr one → the collateral-quality hole is structural, not just cyclical. See
+  [[ai-capex-cycle]] "all-in $/compute."
 
 ## Falsifiers / watch
 - GPU-backed ABS spreads widen / a rated GPU deal gets downgraded → collateral-quality repricing starting.

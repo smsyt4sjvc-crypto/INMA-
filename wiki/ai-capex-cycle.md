@@ -317,6 +317,35 @@ pull Stage 2 forward. Ties [[power-scarcity-equities]], [[power-not-petroleum]],
   that inflates cost now becomes the glut that reverses it — "shortage to 2030 = cycle-top talk" yellow flag).
   Deepens the crack structurally; adds no near-term trigger. Consistent with grinds-not-cracks.
 
+### All-in $/compute — the ground-up capital-efficiency question (2026-07-05, Jake)
+Jake's precise question: full-scope, ground-up (land + shell + power delivery + cooling + networking + silicon)
+$ IN over usable compute OUT, ignoring monetization — is THAT ratio eroding? Answer: **yes on the realized basis,
+~flat on the sticker basis.** The distinction is the whole point.
+
+#### DATA (verified WebSearch 2026-07-05)
+- **All-in cost/MW: $7.7M (2020) → ~$11M avg / $15–20M AI-optimized / $30–40M all-in w/ GPU fit-out (2026)** = up 2–4x.
+- **Power/electrical infrastructure = 40–45% of the build** — the single biggest line (NOT the chips). Drivers:
+  electrical density, liquid cooling, redundant power trains, testing. Build-to-commissioning 18–30mo; full cycle 3–6yr.
+- **⚠️ Buildings now obsolete like chips:** "data centers designed <2 years ago may be insufficiently provisioned for
+  next-gen chips, given power/cooling demands." [iRecruit, Epoch AI, JLL, Archdesk]
+
+#### THESIS (interpretation — NOT fact)
+- *(the honest both-sides)* $/MW ≠ $/compute. all-in **$/MW up ~2–4x** vs **compute/MW up ~5–10x** (silicon perf/watt).
+  On a **frontier-chip/ideal-deploy (sticker) basis** the race is ~a draw → bulls can claim "$/compute still falling."
+  On the **realized, all-in, over-useful-life basis** (what Jake asked) → **eroding.**
+- *(the decisive mechanism)* The buildout **moved the money OUT of the one component that gets cheaper (silicon) and
+  INTO the things that get more expensive AND now obsolete just as fast (power infra, shell, land = 55–60%, long-lived,
+  non-repriceable).** Previously only the chip (short-lived, deflating) obsoleted; now the *facility* obsoletes in <2yr,
+  so usable-compute-over-life (the denominator) collapses. A Moore's-law DEflation asset stapled to anti-Moore's
+  INflation assets that no longer last. Compounded by power-stranding (unpowered = 0 compute), low benchmark-phase
+  utilization, deployment lag → realized-vs-sticker gap widens.
+- *(book payoff 1 — value→power, QUANTIFIED)* 40–45% of every DC dollar = power infrastructure, which **GEV builds**
+  (grid gear, turbines, transformers). The erosion in the buildout's $/compute IS the revenue line of GEV + the power
+  complex. Bearish-buildout and bullish-power = the same dollar, ~half of it. Ties [[power-scarcity-equities]].
+- *(book payoff 2 — worsens [[ai-financing-fragility]])* Burry's mismatch was "GPU ~3yr vs DC debt 15–19yr." But if the
+  **shell (the ABS collateral) obsoletes in <2yr**, the collateral ages out FASTER than the loan → breaks the Residual
+  Value Guarantee assumption at the core. The thing securing the debt is a sub-2yr asset dressed as a 15yr one.
+
 ## Counterweights (steelman the other side)
 - *(analysis)* Hyperscalers have real cash flows and can fund capex from operations far longer
   than a classic bubble; demand could be under- not over-estimated if agents/inference scale.
