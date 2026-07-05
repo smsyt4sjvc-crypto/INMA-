@@ -317,6 +317,30 @@ pull Stage 2 forward. Ties [[power-scarcity-equities]], [[power-not-petroleum]],
   that inflates cost now becomes the glut that reverses it — "shortage to 2030 = cycle-top talk" yellow flag).
   Deepens the crack structurally; adds no near-term trigger. Consistent with grinds-not-cracks.
 
+### ⚡ The political constraint is a BIPARTISAN RATCHET, not partisan noise (2026-07-05, Jake — "the deepest point")
+- *(the key insight — likely mispriced)* Normal political risk **mean-reverts with elections → markets look through
+  it.** This is **bipartisan** (~17 states restricting/considering bans) → it **ratchets, doesn't revert** — no
+  coalition to repeal it because both sides own a version: LEFT (environmental, anti-Big-Tech, ratepayer equity),
+  RIGHT (ratepayer populism, local control, anti-elite). Universal grievance = the **electric bill** (hits red/blue
+  identically; the VA $281 bill doesn't check registration). Market underprices it by pattern-matching transient
+  partisan risk when it's a **durable one-directional ratchet.** Upgrades the constraint from "grind" (timing) to
+  "monotonically hardening ceiling" (shape) — worst kind for a buildout whose thesis is speed.
+- *("efficiency is irrelevant if you can't plug them in")* The political power-gate goes UNDER the entire
+  efficiency/Moore's-law bull case: best chips ever made = paperweights without a powered, permitted site. The
+  rate-limiter on the whole buildout is **political permission to consume electricity** — local (thousands of veto
+  points, 140+ local wars), bipartisan (won't repeal), grievance-anchored (the bill).
+- *(⚠️ calibration — the competing bipartisan force = the override)* "Beat China" / AI-national-security is ALSO
+  bipartisan → federal preemption, permitting/FERC reform, pro-buildout federal posture (Stargate, energy EOs). So
+  it's **bipartisan-bans vs bipartisan-hawkishness** ("don't raise my bill" populism vs "don't lose to China"
+  nationalism) — genuinely unsettled. And the buildout ADAPTS: (1) reroutes to permissive regions (Texas/ERCOT, Gulf,
+  offshore — Gulf states already), (2) buys off the grievance via **bring-your-own-power** (on-site nuclear/gas →
+  defuses ratepayer anger AND bullish the power sleeve). → caps-and-RESHAPES rather than kills.
+- *(book edge = WHERE not IF — ties [[power-scarcity-equities]], [[nuclear]])* BULLISH permissive-region power (**VST**
+  ERCOT), on-site gen (**OKLO/SMR**, gas turbines), **GEV** (sells the "bring your own power" gear that routes around
+  the grid-gate). BEARISH grid-dependent projects in restricted states, the ratepayer-subsidized model, their
+  financing (permit-blocked → stranded → RVG trigger, [[ai-financing-fragility]]). The constraint redirects the power
+  demand to the names that bypass the grid — a LONG thesis (on-site/permissive power) as much as a buildout short.
+
 ### All-in $/compute — the ground-up capital-efficiency question (2026-07-05, Jake)
 Jake's precise question: full-scope, ground-up (land + shell + power delivery + cooling + networking + silicon)
 $ IN over usable compute OUT, ignoring monetization — is THAT ratio eroding? Answer: **yes on the realized basis,
