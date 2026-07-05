@@ -99,10 +99,7 @@
       <div class="brand-mark">INMA</div>
       <div class="brand-sub">Estimate Builder</div>
     </div>
-    <div style="display:flex;align-items:center;gap:12px">
-      <a href="/notes.html" title="Branded notes sheet" style="color:#B8941F;font-weight:700;font-size:13px;text-decoration:none;border:1px solid #3a352e;padding:7px 12px;border-radius:9px">📝 Notes</a>
-      <div class="dots" id="dots"></div>
-    </div>
+    <div class="dots" id="dots"></div>
   </header>
 
   <main class="stage">
@@ -416,6 +413,13 @@ function buildEstimateHTML(){
   .section-h { font-size: 12px; letter-spacing: 2px; text-transform: uppercase; color: #B8941F; margin: 28px 0 10px; padding-bottom: 6px; border-bottom: 1px solid #ddd; font-weight: 700; }
   .notes-block { font-size: 12.5px; line-height: 1.7; color: #333; background: #F5F2ED; border-radius: 8px; padding: 16px 20px; white-space: normal; }
 
+  /* Second sheet: branded lined notes page */
+  .notes-page { page-break-before: always; break-before: page; padding-top: 8px; }
+  .notes-page .np-title { font-size: 22px; font-weight: 800; letter-spacing: 4px; color: #1C1A17; margin: 4px 0 2px; }
+  .notes-page .np-sub { font-size: 11px; color: #777; letter-spacing: .5px; margin-bottom: 14px; }
+  .notes-page .np-lines { min-height: 8.4in; background-image: repeating-linear-gradient(#fff 0 31px, #DAD3C1 31px 32px); border-left: 2px solid rgba(184,148,31,.35); padding-left: 2px; margin-top: 4px; }
+  @media print { .notes-page .np-lines { min-height: 8.2in; } }
+
   .footer-notes { margin-top: 28px; font-size: 11px; color: #555; border-top: 1px solid #ddd; padding-top: 14px; line-height: 1.65; }
   .footer-notes p { margin: 5px 0; }
   .footer-notes strong { color: #1C1A17; }
@@ -487,6 +491,29 @@ ${notesBlock}
 </div>
 
 <div class="print-footer">INMA · Inland Northwest Marketing Affiliates · Spokane WA · inmagent.com</div>
+
+<!-- Page 2: branded lined notes sheet, prints with the estimate -->
+<div class="notes-page">
+  <div class="letterhead">
+    <div class="lh-left">
+      <img class="lh-logo" src="${LOGO_DATA_URI}" alt="INMA bear logo">
+      <div class="lh-text">
+        <div class="brand">INMA</div>
+        <div class="tag">Inland Northwest Marketing Affiliates</div>
+        <div class="contact">(509) 251-7792 · jake@inmagent.com · inmagent.com</div>
+      </div>
+    </div>
+    <div class="lh-right">
+      <div class="np-title">NOTES</div>
+      <div class="meta">
+        <div><strong>Estimate #:</strong> ${escapeHTML(j.num)}</div>
+        <div><strong>${escapeHTML(j.name)}</strong></div>
+      </div>
+    </div>
+  </div>
+  <div class="np-sub">Space for on-site notes, measurements, and follow-up items.</div>
+  <div class="np-lines"></div>
+</div>
 
 </body></html>`;
 }
