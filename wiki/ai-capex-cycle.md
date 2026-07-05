@@ -341,6 +341,19 @@ pull Stage 2 forward. Ties [[power-scarcity-equities]], [[power-not-petroleum]],
   financing (permit-blocked → stranded → RVG trigger, [[ai-financing-fragility]]). The constraint redirects the power
   demand to the names that bypass the grid — a LONG thesis (on-site/permissive power) as much as a buildout short.
 
+#### DATA — empirical anchor: Virginia Digital Gateway KILLED (2026-07-02, `raw/2026-07-02-qts-virginia-digital-gateway-killed.md`)
+- **QTS (Blackstone) withdrew its final appeal July 2 2026 → the world's largest planned DC campus is DEAD:**
+  2,100 acres (~2x Central Park), 37 buildings, 22M+ sq ft, "city-sized power needs," ~$100B, Prince William County VA.
+- **Killed on a newspaper-notice technicality** (public-hearing notices didn't run 6 days apart) — courts voided the
+  rezoning (Circuit Aug 2025 → Appeals upheld unanimously Mar 31 2026 → QTS drops appeal Jul 2 2026). Plaintiffs =
+  Oak Valley HOA + American Battlefield Trust (non-partisan grassroots + heritage).
+- *(what it confirms)* Local process kills even a ~$100B Blackstone mega-project (kill, not delay); the veto weapon is
+  procedural + local (thousands of hooks); "city-sized power" was the fight, not chips; **Blackstone on both ends**
+  (AI private-credit originator + now eats a dead $100B project → [[ai-financing-fragility]]). The asymmetry — HOA beats
+  Blackstone on notice timing — is WHY it's underpriced (invisible to capex models).
+- *(⚠️ don't over-read)* Defect was CURABLE; QTS chose to WITHDRAW not re-file → the tell that even a fixable veto isn't
+  worth re-fighting (strengthens the ratchet) — but this confirms the MECHANISM, not "buildout dead." Demand reroutes.
+
 ### All-in $/compute — the ground-up capital-efficiency question (2026-07-05, Jake)
 Jake's precise question: full-scope, ground-up (land + shell + power delivery + cooling + networking + silicon)
 $ IN over usable compute OUT, ignoring monetization — is THAT ratio eroding? Answer: **yes on the realized basis,
