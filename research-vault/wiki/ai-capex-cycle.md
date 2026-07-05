@@ -277,6 +277,46 @@ tokenmaxxing/circular-financing/Vector 9. **Forensics = high-confidence; timing 
   to replace it (the air pocket). If inference ramps fast, no air pocket. That single hinge is unresolved; don't treat
   compression as settled. Steelman for the bulls = the same inference-handoff that Burry dismisses as "someday."
 
+## ROI crack — the COST side (memory + political friction) (2026-07-05, Jake's angle)
+We'd only worked the revenue numerator (tokenmaxxing/compression/<10% Bain). This is the cost denominator:
+ROI = revenue ÷ cost, so cost inflation crushes the ratio from the other side — accelerates the crack, can
+pull Stage 2 forward. Ties [[power-scarcity-equities]], [[power-not-petroleum]], [[new-economy-regime]] (Fed Trap),
+[[ai-financing-fragility]], [[consumption-vs-investment-crux]] (Hollow Bottom).
+
+### DATA (verified WebSearch 2026-07-05)
+- **Political/litigation friction (fast-growing):** 30+ states, **300+ data-center bills** in 2026 (flipped from
+  tax incentives → moratoriums); **12 states with moratorium bills** (NY, SD, OK); Sanders/AOC federal **S.4214 AI
+  Data Center Moratorium Act**; 230+ environmental orgs demand a national freeze. **140+ local groups have blocked/
+  delayed $60B+ of data-center investment in ~1 year.** Driver = household bills: a **VA resident $100→$281**; some
+  areas +267% (2020-25); retail electricity outpacing inflation, AI-attributed.
+- **Memory cost:** HBM ≈ ~half the BOM of an advanced AI accelerator system → DRAM/HBM +3-4x (memory-shortage
+  section) inflates $/GPU-server directly.
+
+### THESIS (interpretation — NOT fact)
+- *(both-ends squeeze)* Revenue disappointing AND cost rising = returns crack from both sides at once →
+  accelerates Stage 1, can pull Stage 2 (capex discipline) forward: worse ROI math → sooner the rational actor slows.
+- *(⚠️ memory cuts BOTH ways in Jake's book — calibration)* The same memory shortage squeezing the buildout's ROI
+  is BULLISH MU (28% sleeve). Can't be uniformly bearish-capex on memory cost AND long MU on the shortage — same
+  fact. Coherent version (GPT-reframe): **memory pricing power = MU extracting rent from the buildout → value
+  migrates to the input bottleneck (MU, toll-taker) away from the builders (neoclouds, toll-payer).** The squeeze
+  SORTS the book (long bottleneck / short builders), doesn't sink it.
+- *(the electron convergence — the unlock)* Data-center power demand → higher household electricity → simultaneously
+  (1) the political backlash/litigation, (2) the [[consumption-vs-investment-crux]] Hollow-Bottom essentials inflation
+  (Jake's WA "electron bite"), (3) the Fed's "prices too high"/can't-ease ([[new-economy-regime]] Fed Trap, no put),
+  (4) the [[power-not-petroleum]]/[[power-scarcity-equities]] bottleneck. **AI capex is bidding for the same electrons
+  households need — losing the political fight, inflating essentials, keeping the Fed hawkish.** Four notes, one constraint.
+- *(RVG ignition loop — ties [[ai-financing-fragility]])* Burry: MSFT/Meta already terminated DC leases citing
+  "power-delivery" — the exact **RVG out** that voids the backstop. So friction is the ignition: **backlash →
+  power/permitting delays → lease terminations via power-delivery clauses → stranded construction loans → the $275B
+  takeout cliff.** The political angle pulls the financing-fragility trigger.
+- *(⚠️ steelman — friction can EASE the crack)* A buildout slowed by moratoria = less oversupply = better utilization/
+  pricing for data centers ALREADY operating → prevents the glut. Bearish if you own the stranded construction loan;
+  BULLISH if you own the operating incumbent or the **power producer** (GEV/VST/nuclear re-rate UP if new supply is
+  politically capped). Re-rates within the complex; not uniformly bearish.
+- *(timing)* Both are GRINDS not catalysts — litigation/permitting move in years; memory is cyclical (the shortage
+  that inflates cost now becomes the glut that reverses it — "shortage to 2030 = cycle-top talk" yellow flag).
+  Deepens the crack structurally; adds no near-term trigger. Consistent with grinds-not-cracks.
+
 ## Counterweights (steelman the other side)
 - *(analysis)* Hyperscalers have real cash flows and can fund capex from operations far longer
   than a classic bubble; demand could be under- not over-estimated if agents/inference scale.
