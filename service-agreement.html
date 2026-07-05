@@ -167,8 +167,7 @@ function getData(){
 
 function generate(){
   const d = getData();
-  if (d.name === '—'){ alert('Please enter the homeowner name.'); return; }
-  if (d.fee === '—'){ alert('Please enter the INMA service fee.'); return; }
+  // No required fields — generate freely, blanks and all.
   // In-app browsers (Facebook, etc) can't open a print window — bounce to Safari instead.
   if (window.INMA && window.INMA.isInApp){ window.INMA.escape(); return; }
   const w = window.open('', '_blank');
@@ -215,10 +214,19 @@ function buildAgreementHTML(d){
   .payment-box { background: #F5F2ED; border-left: 3px solid #B8941F; padding: 8px 14px; margin: 6px 0; font-size: 11.5px; }
   .payment-box p { margin: 3px 0; }
 
-  .sig-section { margin-top: 26px; display: grid; grid-template-columns: 1fr 100px; gap: 0; }
-  .sig-section .sig-row { display: contents; }
-  .sig-section .sig-line { border-bottom: 1px solid #1C1A17; height: 32px; margin-top: 18px; }
-  .sig-section .sig-lbl { font-size: 9px; color: #7A7269; letter-spacing: 1.5px; text-transform: uppercase; font-weight: 700; margin-top: 4px; padding-bottom: 6px; }
+  .sig-area { margin-top: 26px; }
+  .sig-instr { font-size: 11px; color: #7A7269; margin-bottom: 12px; }
+  @media print { .sig-instr { display: none; } }
+  .sig-pad { border: 1px solid #1C1A17; border-radius: 6px; height: 84px; position: relative; background: #fff; touch-action: none; }
+  .sig-pad canvas { width: 100%; height: 100%; display: block; border-radius: 6px; }
+  .sig-hint { position: absolute; left: 12px; bottom: 8px; font-size: 10px; color: #c8c2b6; pointer-events: none; letter-spacing: 1.5px; text-transform: uppercase; }
+  .sig-clear { position: absolute; right: 8px; top: 8px; font-size: 10px; background: #F5F2ED; border: 1px solid #ddd; border-radius: 5px; padding: 4px 10px; cursor: pointer; font-family: inherit; }
+  @media print { .sig-clear, .sig-hint { display: none; } }
+  .sig-meta { display: flex; justify-content: space-between; align-items: baseline; margin: 5px 2px 0; }
+  .sig-name { font-size: 9px; letter-spacing: 1.5px; text-transform: uppercase; color: #7A7269; font-weight: 700; }
+  .sig-date { font-size: 11px; color: #1C1A17; }
+  .sig-date .ln { display: inline-block; min-width: 110px; border-bottom: 1px solid #1C1A17; }
+  .sig-gap { height: 16px; }
 
   .print-footer { margin-top: 24px; padding-top: 10px; border-top: 1px solid #ddd; text-align: center; font-size: 10px; color: #7A7269; }
   .print-footer strong { color: #1C1A17; }
@@ -305,13 +313,21 @@ function buildAgreementHTML(d){
   <p class="clause-b">This Agreement represents the complete understanding between INMA and the Homeowner(s) and replaces any prior conversations or representations. Changes must be in writing and signed by both parties.</p>
 </div>
 
-<div class="sig-section">
-  <div class="sig-row"><div class="sig-line"></div><div class="sig-line"></div></div>
-  <div class="sig-row"><div class="sig-lbl">Homeowner Signature</div><div class="sig-lbl">Date</div></div>
-  <div class="sig-row"><div class="sig-line"></div><div class="sig-line"></div></div>
-  <div class="sig-row"><div class="sig-lbl">Homeowner Signature</div><div class="sig-lbl">Date</div></div>
-  <div class="sig-row"><div class="sig-line"></div><div class="sig-line"></div></div>
-  <div class="sig-row"><div class="sig-lbl">INMA Representative</div><div class="sig-lbl">Date</div></div>
+<div class="sig-area">
+  <div class="sig-instr">✍️ Sign right here on the screen with your finger. Then tap <strong>Print / Save PDF</strong> above to save it — you can text or AirDrop the signed copy from there. No email needed.</div>
+
+  <div class="sig-pad"><canvas id="sigHome"></canvas><span class="sig-hint">Sign here</span><button type="button" class="sig-clear" onclick="clearSig('sigHome')">Clear</button></div>
+  <div class="sig-meta"><span class="sig-name">Homeowner Signature</span><span class="sig-date">Date: <span class="ln"></span></span></div>
+
+  <div class="sig-gap"></div>
+
+  <div class="sig-pad"><canvas id="sigHome2"></canvas><span class="sig-hint">Sign here</span><button type="button" class="sig-clear" onclick="clearSig('sigHome2')">Clear</button></div>
+  <div class="sig-meta"><span class="sig-name">Homeowner Signature (2nd, if any)</span><span class="sig-date">Date: <span class="ln"></span></span></div>
+
+  <div class="sig-gap"></div>
+
+  <div class="sig-pad"><canvas id="sigInma"></canvas><span class="sig-hint">Sign here</span><button type="button" class="sig-clear" onclick="clearSig('sigInma')">Clear</button></div>
+  <div class="sig-meta"><span class="sig-name">INMA Representative</span><span class="sig-date">Date: <span class="ln"></span></span></div>
 </div>
 
 <div class="print-footer">
@@ -326,6 +342,28 @@ function shareDoc(){
     url: 'https://inmagent.com/service-agreement.html'
   }).catch(()=>{});
 }
+// On-screen signature pads — finger/stylus/mouse. Drawings print into the PDF.
+function initSig(id){
+  var c = document.getElementById(id); if (!c) return;
+  var pad = c.parentNode, hint = pad.querySelector('.sig-hint');
+  function size(){
+    var r = c.getBoundingClientRect(), dpr = window.devicePixelRatio || 1;
+    c.width = r.width * dpr; c.height = r.height * dpr;
+    var ctx = c.getContext('2d'); ctx.scale(dpr, dpr);
+    ctx.lineWidth = 2.2; ctx.lineCap = 'round'; ctx.lineJoin = 'round'; ctx.strokeStyle = '#12233a';
+    c._ctx = ctx;
+  }
+  size();
+  var drawing = false, last = null;
+  function pt(e){ var r = c.getBoundingClientRect(), t = e.touches ? e.touches[0] : e; return { x: t.clientX - r.left, y: t.clientY - r.top }; }
+  function down(e){ drawing = true; last = pt(e); if (hint) hint.style.display = 'none'; e.preventDefault(); }
+  function move(e){ if (!drawing) return; var p = pt(e), ctx = c._ctx; ctx.beginPath(); ctx.moveTo(last.x, last.y); ctx.lineTo(p.x, p.y); ctx.stroke(); last = p; e.preventDefault(); }
+  function up(){ drawing = false; }
+  c.addEventListener('mousedown', down); c.addEventListener('mousemove', move); window.addEventListener('mouseup', up);
+  c.addEventListener('touchstart', down, { passive:false }); c.addEventListener('touchmove', move, { passive:false }); c.addEventListener('touchend', up);
+}
+function clearSig(id){ var c = document.getElementById(id); if (!c || !c._ctx) return; c._ctx.clearRect(0, 0, c.width, c.height); var h = c.parentNode.querySelector('.sig-hint'); if (h) h.style.display = ''; }
+window.addEventListener('load', function(){ ['sigHome','sigHome2','sigInma'].forEach(initSig); });
 <\/scr` + `ipt>
 
 </body></html>`;
