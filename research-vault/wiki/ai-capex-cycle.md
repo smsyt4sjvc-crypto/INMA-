@@ -354,6 +354,37 @@ pull Stage 2 forward. Ties [[power-scarcity-equities]], [[power-not-petroleum]],
 - *(⚠️ don't over-read)* Defect was CURABLE; QTS chose to WITHDRAW not re-file → the tell that even a fixable veto isn't
   worth re-fighting (strengthens the ratchet) — but this confirms the MECHANISM, not "buildout dead." Demand reroutes.
 
+#### DATA — the broader wave (WebSearch 2026-07-05; QTS article sidebars)
+- **VA voter support for new data centers: 69% (2023) → 35% (2026)** — halved in 2yr, in the world's largest/friendliest
+  market. **A Missouri town OUSTED its city council for approving a $6B data center** (approval = electorally fatal).
+  Prince William **abandoned its own approval** (refused to spend public funds defending it).
+- **Two modes, and the 2nd bites even where bans fail:** statewide bans mostly BLOCKED (only NY passed one — 1-yr,
+  awaiting Hochul). But "regulate the economics" is spreading: **VA passed 15 DC bills 2026** — energy cost-shift (DCs
+  pay full power, not ratepayers), **water disclosure + limits** (DEQ mapping "cooling water scarcity areas"), $1.6B
+  tax-exemption fight. Local moratoria LIVE: Minneapolis, Denver, Baltimore City; 300+ bills / 30+ states.
+- **Water = 2nd front:** a DC secretly drew 29M gallons over 15mo, found only via residents' low water pressure →
+  disclosure laws. More viscerally local + non-partisan than power; constrains siting (can't water-cool in stressed regions).
+
+#### THESIS (deepened — 2026-07-05)
+- *(the carrot failed = structural)* "Tens of billions + tax revenue" couldn't buy Prince William → the traditional
+  local-approval playbook (dangle taxes) is broken; the electoral/grievance cost now exceeds the fiscal benefit.
+- *(the 2nd mode = cost-side, no ban needed)* Ratepayer cost-shift + water metering + tax-exemption removal are direct
+  **all-in $/compute** hits delivered by statute (ties the cost-side section) — the constraint erodes ROI even where the
+  project is ALLOWED. Kill-the-project OR tax-the-economics; the latter is metastasizing in friendly states.
+- *(on-site power = now the ONLY durable path to scale — the big investable)* Grid interconnection raises ratepayer
+  bills (electoral death) + local approval is a multi-yr gauntlet → the way through is **bring-your-own-generation**
+  (on-site nuclear/gas, don't touch the grid, don't raise bills) = defuses grievances #1 (bills) + #2 (grid) at once.
+  **The backlash is the single biggest structural catalyst for OKLO/SMR/on-site-gas/GEV that exists — written by the
+  OPPOSITION, not the industry.** The people stopping data centers are mandating the nuclear/on-site thesis. Ties [[nuclear]], [[power-scarcity-equities]].
+- *(financing repricing — approved ≠ safe)* QTS was APPROVED then killed → the "approved pipeline" underwriting the DC
+  ABS/private credit carries latent **litigation-reversal risk** = another crack in the RVG/residual assumption ([[ai-financing-fragility]]).
+- *(spine connection — the Hollow Bottom goes electoral)* The AI buildout is the INVESTMENT side extracting power/water/
+  dollars from the HOUSEHOLD/consumption side, and the public is voting no (69→35, ousted councils, $281 bills, secret
+  water). The backlash IS the Hollow Bottom finding its political voice → ties [[consumption-vs-investment-crux]].
+- *(⚠️ calibration)* Still WHERE-not-IF: every bearish-site fact = a bullish-Texas/on-site-power fact; demand redirects,
+  isn't destroyed. Hard-ban wave still mostly STALLED (regulate-and-relocate regime, not ban-everything — yet). Federal
+  "beat China" preemption is the live counter. Direction strong, outright-ban trend still site-specific.
+
 ### All-in $/compute — the ground-up capital-efficiency question (2026-07-05, Jake)
 Jake's precise question: full-scope, ground-up (land + shell + power delivery + cooling + networking + silicon)
 $ IN over usable compute OUT, ignoring monetization — is THAT ratio eroding? Answer: **yes on the realized basis,
