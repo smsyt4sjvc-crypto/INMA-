@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow">
+<link rel="canonical" href="https://inmagent.com/notes.html">
+<link rel="apple-touch-icon" href="/bear-logo.jpg">
+<link rel="icon" type="image/jpeg" href="/bear-logo.jpg">
+<link rel="manifest" href="/notes-manifest.json">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="INMA Notes">
+<meta name="theme-color" content="#1C1A17">
+<title>INMA — Notes Sheet</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
+<style>
+  *,*::before,*::after{box-sizing:border-box}
+  html,body{margin:0;padding:0;background:#1C1A17;-webkit-font-smoothing:antialiased}
+  body{font-family:'Outfit',system-ui,sans-serif;padding:22px 14px 60px;display:flex;justify-content:center}
+
+  /* Floating toolbar */
+  .toolbar{position:fixed;top:14px;right:14px;display:flex;gap:8px;z-index:20}
+  .toolbar button{background:#B8941F;color:#1C1A17;border:0;padding:11px 16px;border-radius:9px;font-weight:700;
+    font-family:inherit;font-size:14px;cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.35)}
+  .toolbar .ghost{background:#25221d;color:#F5F2ED;border:1px solid #3a352e}
+
+  /* The sheet */
+  .sheet{
+    width:100%;max-width:820px;background:#FFFDF8;color:#1C1A17;border:1px solid #E4DED2;
+    border-radius:6px;box-shadow:0 20px 60px rgba(0,0,0,.4);overflow:hidden;
+    display:flex;flex-direction:column;min-height:1040px;
+  }
+  .inner{padding:34px 40px 40px;display:flex;flex-direction:column;flex:1}
+
+  /* Letterhead — matches the estimate */
+  .letterhead{display:flex;justify-content:space-between;align-items:flex-start;
+    border-bottom:3px solid #B8941F;padding-bottom:16px;margin-bottom:8px}
+  .lh-left{display:flex;align-items:flex-start;gap:15px}
+  .lh-logo{width:64px;height:64px;border-radius:10px;flex-shrink:0;object-fit:cover;border:1px solid #E4DED2}
+  .lh-brand{font-size:30px;font-weight:800;color:#B8941F;letter-spacing:2px;line-height:1}
+  .lh-tag{font-size:10.5px;letter-spacing:1.5px;text-transform:uppercase;color:#666;margin-top:5px}
+  .lh-contact{font-size:11.5px;margin-top:10px;color:#333;line-height:1.6}
+  .lh-right{text-align:right}
+  .lh-title{font-size:24px;font-weight:800;letter-spacing:5px;color:#1C1A17}
+  .lh-fields{margin-top:14px;font-size:12px;color:#444;line-height:2}
+  .lh-fields .blank{display:inline-block;min-width:150px;border-bottom:1px solid #C9C1AE;margin-left:6px}
+
+  /* Subject line under letterhead */
+  .subject{display:flex;align-items:baseline;gap:8px;margin:16px 0 6px;font-size:13px;color:#444}
+  .subject .line{flex:1;border-bottom:1px solid #C9C1AE;height:20px}
+  .subject b{font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:#B8941F}
+
+  /* Ruled paper */
+  .lines{
+    flex:1;margin-top:6px;position:relative;
+    background-image:repeating-linear-gradient(#FFFDF8 0 31px, #DAD3C1 31px 32px);
+    border-left:2px solid rgba(184,148,31,.35);
+    padding-left:2px;
+  }
+
+  .foot{margin-top:14px;padding-top:12px;border-top:1px solid #E4DED2;
+    display:flex;justify-content:space-between;font-size:10.5px;color:#8A857E;letter-spacing:.3px}
+  .foot b{color:#1C1A17}
+
+  @media(max-width:520px){
+    .inner{padding:24px 22px 30px}
+    .letterhead{flex-direction:column;gap:14px}
+    .lh-right{text-align:left}
+    .lh-fields .blank{min-width:110px}
+  }
+
+  @media print{
+    @page{size:letter;margin:0.5in}
+    html,body{background:#fff;padding:0}
+    .toolbar{display:none}
+    .sheet{max-width:none;box-shadow:none;border:1px solid #C9C1AE;border-radius:0;min-height:9.4in}
+    .inner{padding:0.2in 0.25in}
+  }
+</style>
+</head>
+<body>
+
+<div class="toolbar">
+  <button class="ghost" id="shareBtn" style="display:none">⬆ Share</button>
+  <button id="printBtn">🖨 Print / Save PDF</button>
+</div>
+
+<div class="sheet">
+  <div class="inner">
+    <div class="letterhead">
+      <div class="lh-left">
+        <img class="lh-logo" src="/bear-logo.jpg" alt="INMA" onerror="this.style.display='none'">
+        <div>
+          <div class="lh-brand">INMA</div>
+          <div class="lh-tag">Your Personal Homeowner Advocate</div>
+          <div class="lh-contact">(509)&nbsp;251-7792 · jake@inmagent.com<br>inmagent.com · Spokane, WA</div>
+        </div>
+      </div>
+      <div class="lh-right">
+        <div class="lh-title">NOTES</div>
+        <div class="lh-fields">
+          Date:<span class="blank"></span><br>
+          Job&nbsp;/&nbsp;Client:<span class="blank"></span>
+        </div>
+      </div>
+    </div>
+
+    <div class="subject">
+      <b>Re:</b><span class="line"></span>
+    </div>
+
+    <div class="lines"></div>
+
+    <div class="foot">
+      <span><b>INMA</b> · Inland Northwest Marketing Affiliates</span>
+      <span>inmagent.com</span>
+    </div>
+  </div>
+</div>
+
+<script>
+  document.getElementById('printBtn').addEventListener('click', ()=>window.print());
+  if (navigator.share){
+    const s=document.getElementById('shareBtn'); s.style.display='inline-block';
+    s.addEventListener('click', ()=>navigator.share({title:'INMA Notes', url:'https://inmagent.com/notes.html'}).catch(()=>{}));
+  }
+</script>
+</body>
+</html>
