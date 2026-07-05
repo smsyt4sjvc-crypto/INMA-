@@ -72,6 +72,17 @@ hardware** — which is Jake's heaviest sleeve. Implications:
 - **Meta +9%** = the hyperscaler-winner rotation confirmed; you're light this side, heavy the losing (hardware) side.
 - **Burry shorts moving:** CAT −7%, AMAT (both his adds) — the P&S-cliff names.
 - **XOM:** base case holds, all 3 exit conditions un-triggered; WTI $68 = spot-vs-forward trap, not a clean #3.
+  - **⚠️ CORRECTION (2026-07-05): XOM/energy tail is LOADED & MASKED, not dormant.** Earlier intraday read
+    ("war premium faded") leaned on *reported* Hormuz recovery (Saudi 90%, 10M bbl/day) — the physical vessel
+    count contradicts it. **Kpler: April 191 vessels vs ~3,000 pre-war (~5%); last 2 months ~5% of pre-war;
+    150+ tankers in floating storage.** $68 oil is calm because floating storage + inventory BUFFER the physical
+    shortfall and the market prices the MoU recovery — a masked shortfall, not an absent one (Jake's "reported ≠
+    physical" bezzle pattern, same as tokenmaxxing / jobs revisions). Current throughput likely 30–40% (partial
+    restart off the 5% trough), still far below reported. **Three fuses:** (1) floating-storage buffer exhausts;
+    (2) MoU breaks — Article 1 already VIOLATED (Lebanon); (3) Isfahan re-escalation (440.9kg 60% HEU, IAEA).
+    **Watch:** floating-storage trend (drawdown w/o price rise = buffer depleting → shock), the Kpler/Vortexa
+    vessel-count vs official-export GAP (= the bezzle quantified), MoU integrity. Primary sources = tanker
+    trackers, NOT reported tonnage. Re-rates the XOM hedge tail UP.
 - **Gold +1.6% ($4,103)** — safe-haven bid returning (debasement/risk-off); constructive for the hard-asset lean.
 - **Fed = NO put right now** (see [[new-economy-regime]] Warsh hawkish) → don't expect a cut to rescue the flush;
   strengthens holding the SPY puts, argues against rushing the semis ladder. VIX only 16.4 = complacency, not capitulation.
