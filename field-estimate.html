@@ -446,11 +446,7 @@ function renderWalls(){
   });
   $('#saveWallBtn').addEventListener('click', () => {
     const ed = state.editing;
-    const hasContent = (ed.dataUrl || (ed.notes||'').trim());
-    if (!hasContent) {
-      alert('Add a photo or some notes before saving.');
-      return;
-    }
+    // Save freely — empty walls allowed.
     if (ed.id) {
       // update existing
       const idx = state.walls.findIndex(w => w.id === ed.id);
