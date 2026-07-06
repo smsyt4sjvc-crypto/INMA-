@@ -63,6 +63,7 @@
       <div class="brand-mark">INMA</div>
       <div class="brand-sub">Service Agreement</div>
     </div>
+    <button type="button" id="newBtn" title="Start a fresh agreement" style="background:transparent;border:1px solid #3a352e;color:#B8941F;font-weight:700;font-size:13px;padding:7px 12px;border-radius:9px;font-family:inherit;cursor:pointer">＋ New</button>
   </header>
 
   <main class="stage">
@@ -70,7 +71,9 @@
       <h2>Homeowner Info</h2>
       <p class="sub">Type in the details — the agreement fills itself in. Sign on the printed copy.</p>
 
-      <button id="contactBtn" type="button" class="btn-contact"><span class="ico">📇</span>Import from Contacts</button>
+      <button id="contactBtn" type="button" class="btn-contact"><span class="ico">📇</span>Import Contact File (.vcf)</button>
+      <input type="file" id="contactFile" accept=".vcf,text/vcard,text/x-vcard" style="display:none">
+      <p class="sub" style="margin-top:-6px">Progress saves automatically.</p>
 
       <div class="row">
         <div class="field"><label>Agreement Date</label><input id="agreementDate" type="text" readonly></div>
@@ -118,38 +121,75 @@ function fmtFee(raw){
 }
 function escapeHTML(s){ return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
 
-async function pickContact(){
-  if ('contacts' in navigator && 'ContactsManager' in window){
-    try {
-      const wanted = ['name','tel','email','address'];
-      const supported = await navigator.contacts.getProperties();
-      const props = wanted.filter(p => supported.includes(p));
-      const result = await navigator.contacts.select(props, { multiple:false });
-      if (!result || !result.length) return;
-      const c = result[0];
-      if (c.name && c.name[0]) $('#ownerName').value = c.name[0];
-      if (c.tel && c.tel[0])  $('#ownerPhone').value = c.tel[0];
-      if (c.email && c.email[0]) $('#ownerEmail').value = c.email[0];
-      if (c.address && c.address[0]){
-        const a = c.address[0];
-        const street = (a.addressLine && a.addressLine.join(' ')) || '';
-        if (street) $('#propertyAddress').value = street;
-        const csz = [a.city, a.region, a.postalCode].filter(Boolean).join(', ').replace(/,\s*(\d{5})/, ' $1');
-        if (csz) $('#cityStateZip').value = csz;
-      }
-      return;
-    } catch(e){ /* user cancelled or denied — fall through */ return; }
-  }
-  // iOS Safari has no Contacts API. Focus the name field so the QuickType bar shows contact suggestions.
-  const nameField = $('#ownerName');
-  nameField.focus();
-  alert('iOS Safari does not allow web pages to open Contacts directly.\n\nTap the Homeowner field, then tap the "Contact" suggestion above the keyboard to pull from your iPhone contacts.');
+/* ====== Import contact file (.vcf / vCard) ====== */
+function bindContactImport(){
+  $('#contactBtn').addEventListener('click', () => $('#contactFile').click());
+  $('#contactFile').addEventListener('change', e => {
+    const f = e.target.files && e.target.files[0];
+    if (!f) return;
+    const reader = new FileReader();
+    reader.onload = () => { applyContact(parseVCard(String(reader.result))); e.target.value = ''; persistDraft(); };
+    reader.readAsText(f);
+  });
+}
+function parseVCard(text){
+  const out = {};
+  const unfolded = text.replace(/\r\n[ \t]/g, '').replace(/\n[ \t]/g, '');
+  unfolded.split(/\r\n|\n|\r/).forEach(line => {
+    const idx = line.indexOf(':'); if (idx < 0) return;
+    let key = line.slice(0, idx).split(';')[0];
+    if (key.indexOf('.') >= 0) key = key.slice(key.indexOf('.') + 1); // strip iOS group prefix (item1.ADR)
+    key = key.toUpperCase();
+    const val = line.slice(idx + 1);
+    if (key === 'FN' && !out.name) out.name = val.trim();
+    else if (key === 'N' && !out.name){ const p = val.split(';'); out.name = ((p[1]||'') + ' ' + (p[0]||'')).trim(); }
+    else if (key === 'TEL' && !out.phone) out.phone = val.replace(/^tel:/i, '').trim();
+    else if (key === 'EMAIL' && !out.email) out.email = val.replace(/^mailto:/i, '').trim();
+    else if (key === 'ADR' && !out.address){
+      const p = val.split(';'); // pobox;ext;street;city;region;postal;country
+      out.address = (p[2]||'').replace(/\\n/g, ' ').replace(/\\,/g, ',').trim();
+      out.cityStateZip = [p[3], p[4], p[5]].map(x => (x||'').trim()).filter(Boolean).join(', ').replace(/,\s*(\d{5})/, ' $1');
+    }
+  });
+  return out;
+}
+function applyContact(c){
+  if (c.name) $('#ownerName').value = c.name;
+  if (c.phone) $('#ownerPhone').value = c.phone;
+  if (c.email) $('#ownerEmail').value = c.email;
+  if (c.address) $('#propertyAddress').value = c.address;
+  if (c.cityStateZip) $('#cityStateZip').value = c.cityStateZip;
+}
+
+/* ====== Auto-save (localStorage) ====== */
+const DRAFT_KEY = 'inma_agreement_draft_v1';
+const FIELD_IDS = ['projectType','ownerName','propertyAddress','cityStateZip','ownerPhone','ownerEmail','inmaFee'];
+function persistDraft(){
+  try {
+    const data = {};
+    FIELD_IDS.forEach(id => { const el = $('#'+id); if (el) data[id] = el.value; });
+    localStorage.setItem(DRAFT_KEY, JSON.stringify(data));
+  } catch(e){}
+}
+function restoreDraft(){
+  try {
+    const raw = localStorage.getItem(DRAFT_KEY); if (!raw) return;
+    const data = JSON.parse(raw);
+    FIELD_IDS.forEach(id => { const el = $('#'+id); if (el && data[id] != null) el.value = data[id]; });
+  } catch(e){}
 }
 
 document.addEventListener('DOMContentLoaded', () => {
   $('#agreementDate').value = new Date().toLocaleDateString('en-US', { year:'numeric', month:'long', day:'numeric' });
   $('#generateBtn').addEventListener('click', generate);
-  $('#contactBtn').addEventListener('click', pickContact);
+  bindContactImport();
+  restoreDraft();
+  document.addEventListener('input', persistDraft);
+  $('#newBtn').addEventListener('click', () => {
+    if (!confirm('Start a fresh agreement? This clears the current one.')) return;
+    try { localStorage.removeItem(DRAFT_KEY); } catch(e){}
+    location.reload();
+  });
 });
 
 function getData(){
