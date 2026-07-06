@@ -171,7 +171,7 @@ Static site on GitHub Pages (main branch), Vercel for the AI quote-analysis func
 **Public pages:** `index.html` (home), `work.html` (portfolio), `market-report.html` (Spokane fair-market pricing), `diy.html`, `consult.html`, `game.html`, `welcome` (mailer QR landing), `upload.html` (quote upload/contract audit).
 
 **Internal tools (savable to home screen as PWAs):**
-- `estimate.html` — **Estimate Builder** (icon E) — the current 2-page builder. Generates an estimate + a branded lined notes page (page 2).
+- `estimate.html` — **Offer Sheet Builder** (icon E) — the current 2-page builder (renamed from "Estimate"). Fair-market fee block (Subtotal → INMA Services __% deducted → New Subtotal + Sales Tax → Contractor Total). Auto-saves to localStorage (survives leaving/returning; "+ New" button clears for the next customer). Imports a shared contact .vcf to fill homeowner fields. Generates the offer sheet + a branded lined notes page (page 2).
 - `field-estimate.html` — older Field Estimator (icon I) with photos + contractor pack.
 - `service-agreement.html` — **Service Agreement builder** with updated advocate language, **on-screen signature pads** (sign with finger → Print/Save PDF → text it), Import from Contacts.
 - `estimate-blank.html` — blank **Fair Market Estimate** form to print and fill by hand on-site.

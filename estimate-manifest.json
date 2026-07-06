@@ -1,6 +1,6 @@
 {
-  "name": "INMA Estimate Builder",
-  "short_name": "INMA Estimate",
+  "name": "INMA Offer Sheet Builder",
+  "short_name": "INMA Offer",
   "start_url": "/estimate.html",
   "display": "standalone",
   "background_color": "#1C1A17",
