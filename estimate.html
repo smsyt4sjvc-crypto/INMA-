@@ -10,9 +10,9 @@
 <link rel="manifest" href="/estimate-manifest.json">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="INMA Estimate">
+<meta name="apple-mobile-web-app-title" content="INMA Offer">
 <meta name="theme-color" content="#1C1A17">
-<title>INMA — Estimate Builder</title>
+<title>INMA — Offer Sheet Builder</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
@@ -97,9 +97,12 @@
   <header class="topbar">
     <div class="brand">
       <div class="brand-mark">INMA</div>
-      <div class="brand-sub">Estimate Builder</div>
+      <div class="brand-sub">Offer Sheet Builder</div>
     </div>
-    <div class="dots" id="dots"></div>
+    <div style="display:flex;align-items:center;gap:12px">
+      <button type="button" id="newBtn" title="Start a fresh offer" style="background:transparent;border:1px solid #3a352e;color:#B8941F;font-weight:700;font-size:13px;padding:7px 12px;border-radius:9px;font-family:inherit;cursor:pointer">＋ New</button>
+      <div class="dots" id="dots"></div>
+    </div>
   </header>
 
   <main class="stage">
@@ -108,8 +111,10 @@
     <section class="step active" data-step="1">
       <div class="card">
         <h2>Job Info</h2>
-        <p class="sub">Who it's for and where the work is.</p>
-        <div class="field"><label>Homeowner Name</label><input id="ownerName" type="text" placeholder="Jane Doe" autocomplete="off"></div>
+        <p class="sub">Who it's for and where the work is. Your progress saves automatically.</p>
+        <button type="button" id="importContactBtn" class="btn-ghost" style="width:100%;margin-bottom:14px">📇 Import Contact File (.vcf)</button>
+        <input type="file" id="contactFile" accept=".vcf,text/vcard,text/x-vcard" style="display:none">
+        <div class="field"><label>Homeowner Name</label><input id="ownerName" type="text" placeholder="Jane Doe" autocomplete="name"></div>
         <div class="row">
           <div class="field"><label>Phone</label><input id="ownerPhone" type="tel" placeholder="(509) 000-0000" autocomplete="off"></div>
           <div class="field"><label>Email</label><input id="ownerEmail" type="email" placeholder="jane@example.com" autocomplete="off"></div>
@@ -120,8 +125,8 @@
           <div class="field"><label>Project Type</label><input id="projectType" type="text" placeholder="Siding · Windows · Doors" autocomplete="off"></div>
         </div>
         <div class="row">
-          <div class="field"><label>Estimate Date</label><input id="estDate" type="date"></div>
-          <div class="field"><label>Estimate #</label><input id="estimateNum" type="text" placeholder="Auto-fills from address" autocomplete="off"></div>
+          <div class="field"><label>Offer Date</label><input id="estDate" type="date"></div>
+          <div class="field"><label>Offer #</label><input id="estimateNum" type="text" placeholder="Auto-fills from address" autocomplete="off"></div>
         </div>
         <div class="field"><label>Prepared By</label><input id="preparedBy" type="text" value="Jake Bishop — INMA"></div>
       </div>
@@ -156,7 +161,7 @@
       </div>
 
       <div class="card" style="text-align:center;background:transparent;border:0;box-shadow:none;padding:0">
-        <button class="btn-primary" id="printBtn" type="button" style="width:100%;padding:18px;font-size:16px">📄 Generate &amp; Print Estimate</button>
+        <button class="btn-primary" id="printBtn" type="button" style="width:100%;padding:18px;font-size:16px">📄 Generate &amp; Print Offer Sheet</button>
         <p style="font-size:12px;opacity:.5;margin-top:14px">Opens a new tab. Use your browser's Print → Save as PDF.</p>
       </div>
     </section>
@@ -174,6 +179,7 @@
 const state = {
   step: 1,
   lines: [], // { id, desc, qty, unit, rate }
+  feePct: '',
   taxPct: '',
 };
 const TOTAL_STEPS = 2;
@@ -186,20 +192,98 @@ const escapeHTML = s => String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;')
 const escapeAttr = s => String(s||'').replace(/"/g,'&quot;').replace(/</g,'&lt;');
 
 /* ====== Init ====== */
+const DRAFT_KEY = 'inma_offer_draft_v1';
+const FIELD_IDS = ['ownerName','ownerPhone','ownerEmail','ownerAddress','cityStateZip','projectType','estDate','estimateNum','preparedBy','notes'];
+
 document.addEventListener('DOMContentLoaded', () => {
   buildDots();
   bindNav();
   bindCoreInputs();
   bindLineItems();
   bindPrint();
+  bindContactImport();
+  bindNewButton();
   setDefaults();
+  const restored = restoreDraft();
   if (!state.lines.length) addLine(); // start with one empty line
+  else renderLines();
   updateStepUI();
+  // Auto-save on any input (text fields, line items, fee/tax)
+  document.addEventListener('input', persistDraft);
 });
 
 function setDefaults(){
   const d = new Date();
   $('#estDate').value = d.toISOString().slice(0,10);
+}
+
+/* ====== Auto-save (localStorage) ====== */
+function persistDraft(){
+  try {
+    const data = { fields: {}, lines: state.lines, feePct: state.feePct, taxPct: state.taxPct };
+    FIELD_IDS.forEach(id => { const el = $('#'+id); if (el) data.fields[id] = el.value; });
+    localStorage.setItem(DRAFT_KEY, JSON.stringify(data));
+  } catch(e){ /* storage full / private mode — ignore */ }
+}
+function restoreDraft(){
+  try {
+    const raw = localStorage.getItem(DRAFT_KEY);
+    if (!raw) return false;
+    const data = JSON.parse(raw);
+    if (data.fields) FIELD_IDS.forEach(id => { const el = $('#'+id); if (el && data.fields[id] != null) el.value = data.fields[id]; });
+    if (Array.isArray(data.lines) && data.lines.length) state.lines = data.lines;
+    state.feePct = data.feePct || '';
+    state.taxPct = data.taxPct || '';
+    return true;
+  } catch(e){ return false; }
+}
+function bindNewButton(){
+  $('#newBtn').addEventListener('click', () => {
+    if (!confirm('Start a fresh offer sheet? This clears the current one.')) return;
+    try { localStorage.removeItem(DRAFT_KEY); } catch(e){}
+    location.reload();
+  });
+}
+
+/* ====== Import contact file (.vcf / vCard) ====== */
+function bindContactImport(){
+  $('#importContactBtn').addEventListener('click', () => $('#contactFile').click());
+  $('#contactFile').addEventListener('change', e => {
+    const f = e.target.files && e.target.files[0];
+    if (!f) return;
+    const reader = new FileReader();
+    reader.onload = () => { applyContact(parseVCard(String(reader.result))); e.target.value = ''; };
+    reader.readAsText(f);
+  });
+}
+function parseVCard(text){
+  const out = {};
+  const unfolded = text.replace(/\r\n[ \t]/g, '').replace(/\n[ \t]/g, '');
+  unfolded.split(/\r\n|\n|\r/).forEach(line => {
+    const idx = line.indexOf(':'); if (idx < 0) return;
+    const key = line.slice(0, idx).split(';')[0].toUpperCase();
+    const val = line.slice(idx + 1);
+    if (key === 'FN' && !out.name) out.name = val.trim();
+    else if (key === 'N' && !out.name){ const p = val.split(';'); out.name = ((p[1]||'') + ' ' + (p[0]||'')).trim(); }
+    else if (key === 'TEL' && !out.phone) out.phone = val.trim();
+    else if (key === 'EMAIL' && !out.email) out.email = val.trim();
+    else if (key === 'ADR' && !out.address){
+      const p = val.split(';'); // pobox;ext;street;city;region;postal;country
+      out.address = (p[2]||'').replace(/\\n/g, ' ').replace(/\\,/g, ',').trim();
+      out.cityStateZip = [p[3], p[4], p[5]].map(x => (x||'').trim()).filter(Boolean).join(', ').replace(/,\s*(\d{5})/, ' $1');
+    }
+  });
+  return out;
+}
+function applyContact(c){
+  if (c.name)  $('#ownerName').value = c.name;
+  if (c.phone) $('#ownerPhone').value = c.phone;
+  if (c.email) $('#ownerEmail').value = c.email;
+  if (c.address) $('#ownerAddress').value = c.address;
+  if (c.cityStateZip) $('#cityStateZip').value = c.cityStateZip;
+  // trigger the estimate# auto-fill + save
+  $('#ownerAddress').dispatchEvent(new Event('input', { bubbles:true }));
+  persistDraft();
 }
 
 function buildDots(){
@@ -255,6 +339,7 @@ function bindLineItems(){
 function addLine(){
   state.lines.push({ id: uid(), desc: '', qty: '', unit: '', rate: '' });
   renderLines();
+  if (typeof persistDraft === 'function') persistDraft();
 }
 
 function renderLines(){
@@ -286,32 +371,43 @@ function renderLines(){
       state.lines = state.lines.filter(x => x.id !== id);
       if (state.lines.length === 0) addLine();
       else renderLines();
+      persistDraft();
     });
   });
 }
 
-/* ====== Totals ====== */
+/* ====== Totals (fair-market fee structure) ====== */
 function computeTotals(){
   const subtotal = state.lines.reduce((s, l) => s + ((+l.qty || 0) * (+l.rate || 0)), 0);
+  const feeNum = parseFloat(state.feePct);
+  const hasFee = !isNaN(feeNum) && feeNum > 0;
+  const inmaFee = hasFee ? subtotal * (feeNum / 100) : 0;   // deducted from subtotal
+  const newSubtotal = subtotal - inmaFee;
   const taxNum = parseFloat(state.taxPct);
   const hasTax = !isNaN(taxNum) && taxNum > 0;
-  const tax = hasTax ? subtotal * (taxNum / 100) : 0;
-  return { subtotal, hasTax, taxPct: state.taxPct, tax, total: subtotal + tax };
+  const tax = hasTax ? newSubtotal * (taxNum / 100) : 0;    // tax on new subtotal
+  const contractorTotal = newSubtotal + tax;
+  return { subtotal, feePct: state.feePct, hasFee, inmaFee, newSubtotal, hasTax, taxPct: state.taxPct, tax, contractorTotal };
 }
 
 function renderTotals(){
   const t = computeTotals();
   $('#totalsBox').innerHTML = `
     <div class="line"><span>Subtotal</span><strong id="tSub">${fmt(t.subtotal)}</strong></div>
+    <div class="line"><span class="tax-inline">INMA Services <input id="feePctInput" type="number" inputmode="decimal" step="0.01" placeholder="0.0" value="${escapeAttr(state.feePct)}">% <small style="opacity:.5;font-size:12px">deducted</small></span><strong id="tFee">${t.hasFee ? '– ' + fmt(t.inmaFee) : '—'}</strong></div>
+    <div class="line"><span>New Subtotal</span><strong id="tNewSub">${fmt(t.newSubtotal)}</strong></div>
     <div class="line"><span class="tax-inline">Sales Tax <input id="taxPctInput" type="number" inputmode="decimal" step="0.01" placeholder="0.0" value="${escapeAttr(state.taxPct)}">%</span><strong id="tTax">${t.hasTax ? fmt(t.tax) : '—'}</strong></div>
-    <div class="line big"><span>Estimate Total</span><strong id="tTotal">${fmt(t.total)}</strong></div>
+    <div class="line big"><span>Contractor Total</span><strong id="tTotal">${fmt(t.contractorTotal)}</strong></div>
   `;
-  $('#taxPctInput').addEventListener('input', e => {
-    state.taxPct = e.target.value;
+  const recompute = () => {
     const t2 = computeTotals();
+    $('#tFee').textContent = t2.hasFee ? '– ' + fmt(t2.inmaFee) : '—';
+    $('#tNewSub').textContent = fmt(t2.newSubtotal);
     $('#tTax').textContent = t2.hasTax ? fmt(t2.tax) : '—';
-    $('#tTotal').textContent = fmt(t2.total);
-  });
+    $('#tTotal').textContent = fmt(t2.contractorTotal);
+  };
+  $('#feePctInput').addEventListener('input', e => { state.feePct = e.target.value; recompute(); });
+  $('#taxPctInput').addEventListener('input', e => { state.taxPct = e.target.value; recompute(); });
 }
 
 /* ====== Print Output ====== */
@@ -325,7 +421,7 @@ function doPrint(){
   // Must open the window synchronously inside the click handler for iOS Safari.
   const w = window.open('', '_blank');
   if (!w){ alert('Pop-up blocked. Please allow pop-ups for this site.'); return; }
-  w.document.write('<p style="font-family:sans-serif;padding:20px">Preparing estimate…</p>');
+  w.document.write('<p style="font-family:sans-serif;padding:20px">Preparing offer sheet…</p>');
   const html = buildEstimateHTML();
   w.document.open();
   w.document.write(html);
@@ -373,7 +469,7 @@ function buildEstimateHTML(){
     <div class="notes-block">${escapeHTML(j.notes).replace(/\n/g, '<br>')}</div>
   ` : '';
 
-  return `<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Estimate ${escapeHTML(j.num)} — INMA</title>
+  return `<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Offer Sheet ${escapeHTML(j.num)} — INMA</title>
 <style>
   @page { size: letter; margin: 0.55in; }
   * { box-sizing: border-box; }
@@ -447,9 +543,9 @@ function buildEstimateHTML(){
     </div>
   </div>
   <div class="lh-right">
-    <div class="title">ESTIMATE</div>
+    <div class="title">OFFER SHEET</div>
     <div class="meta">
-      <div><strong>Estimate #:</strong> ${escapeHTML(j.num)}</div>
+      <div><strong>Offer #:</strong> ${escapeHTML(j.num)}</div>
       <div><strong>Date:</strong> ${fmtDate(j.date)}</div>
       ${j.project ? `<div><strong>Project:</strong> ${escapeHTML(j.project)}</div>` : ''}
     </div>
@@ -480,8 +576,10 @@ function buildEstimateHTML(){
 
 <div class="totals">
   <div class="r"><span>Subtotal</span><span>${fmt(t.subtotal)}</span></div>
+  ${t.hasFee ? `<div class="r"><span>INMA Services (${escapeHTML(t.feePct)}%, deducted from subtotal)</span><span>– ${fmt(t.inmaFee)}</span></div>
+  <div class="r"><span>New Subtotal</span><span>${fmt(t.newSubtotal)}</span></div>` : ''}
   ${t.hasTax ? `<div class="r"><span>Sales Tax (${escapeHTML(t.taxPct)}%)</span><span>${fmt(t.tax)}</span></div>` : ''}
-  <div class="r tot"><span>Total</span><span>${fmt(t.total)}</span></div>
+  <div class="r tot"><span>Contractor Total</span><span>${fmt(t.contractorTotal)}</span></div>
 </div>
 
 ${notesBlock}
@@ -506,7 +604,7 @@ ${notesBlock}
     <div class="lh-right">
       <div class="np-title">NOTES</div>
       <div class="meta">
-        <div><strong>Estimate #:</strong> ${escapeHTML(j.num)}</div>
+        <div><strong>Offer #:</strong> ${escapeHTML(j.num)}</div>
         <div><strong>${escapeHTML(j.name)}</strong></div>
       </div>
     </div>
