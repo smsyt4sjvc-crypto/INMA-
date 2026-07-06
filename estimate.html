@@ -261,12 +261,14 @@ function parseVCard(text){
   const unfolded = text.replace(/\r\n[ \t]/g, '').replace(/\n[ \t]/g, '');
   unfolded.split(/\r\n|\n|\r/).forEach(line => {
     const idx = line.indexOf(':'); if (idx < 0) return;
-    const key = line.slice(0, idx).split(';')[0].toUpperCase();
+    let key = line.slice(0, idx).split(';')[0];
+    if (key.indexOf('.') >= 0) key = key.slice(key.indexOf('.') + 1); // strip iOS group prefix (item1.ADR)
+    key = key.toUpperCase();
     const val = line.slice(idx + 1);
     if (key === 'FN' && !out.name) out.name = val.trim();
     else if (key === 'N' && !out.name){ const p = val.split(';'); out.name = ((p[1]||'') + ' ' + (p[0]||'')).trim(); }
-    else if (key === 'TEL' && !out.phone) out.phone = val.trim();
-    else if (key === 'EMAIL' && !out.email) out.email = val.trim();
+    else if (key === 'TEL' && !out.phone) out.phone = val.replace(/^tel:/i, '').trim();
+    else if (key === 'EMAIL' && !out.email) out.email = val.replace(/^mailto:/i, '').trim();
     else if (key === 'ADR' && !out.address){
       const p = val.split(';'); // pobox;ext;street;city;region;postal;country
       out.address = (p[2]||'').replace(/\\n/g, ' ').replace(/\\,/g, ',').trim();
