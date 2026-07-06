@@ -109,6 +109,59 @@ INMA operates as an **independent scoping-and-sales firm**. Jake professionally 
 **Logo:** hand-painted white bear on red (`bear-logo.jpg`). Warm, grounded, premium-but-approachable.
 **Vibe note for image generation:** dark warm-brown backgrounds, hand-painted gold accents, cream text. Avoid corporate blue, neon, pure black.
 
+### 8a. Brand Kit for Documents (print & PDF standards)
+
+Everything INMA hands a client — estimates, agreements, notes sheets, blank forms — follows this so it reads as one branded system. All current tools (`estimate.html`, `service-agreement.html`, `estimate-blank.html`) already implement it.
+
+**Page setup**
+- Size `letter`, margins ~`0.4–0.55in`. White/`#FFFDF8` sheet, `#1C1A17` ink.
+- Screen tools show the sheet on a warm-black (`#1C1A17`) app background with a floating **Print / Save PDF** (and **Share**) button in gold; buttons hide on print (`@media print`).
+
+**Print-safe colors**
+- Ink `#1C1A17` · Gold `#B8941F` · Cream panel `#F5F2ED` / `#FDF8EE` · Hairline/border `#E4DED2` · Muted label `#777` · Footer gray `#8A857E` · Ruled-line `#DAD3C1`.
+
+**Document fonts**
+- Body/tables: `'Helvetica Neue', Arial, sans-serif` (clean print). Screen chrome may use Outfit. Reserve DM Serif Display for display/marketing, not form bodies.
+
+**Letterhead (top of every document)**
+- Left: bear logo **64px**, `border-radius:10px`, `1px #E4DED2` border → then **INMA** wordmark (weight 800, `#B8941F`, `letter-spacing:2–3px`, ~28–32px) → tagline (10–11px, uppercase, `letter-spacing:1.5px`, `#666`).
+- Right: document title (`ESTIMATE` · `NOTES` · `Fair Market Estimate` · `Service Agreement`), 22–26px, `letter-spacing:4–5px`.
+- Divider under letterhead: **2.5–3px solid** (`#B8941F` gold or `#1C1A17` ink).
+- Tagline options in use: *"Your Personal Homeowner Advocate,"* *"Your Home. Your Agent.,"* or *"Inland Northwest Marketing Affiliates."*
+
+**Info / bill-to fields**
+- Label: 10px, uppercase, `letter-spacing:2px`, `#777`, bold. Value/fill: `#1C1A17`. Blank fill lines: `border-bottom:1px solid #C9C1AE`.
+
+**Section header bars**
+- Black bar: `background:#1C1A17`, `color:#F5F2ED`, 10–11px uppercase, `letter-spacing:1.5–2px`, weight 700, padding ~7–9px, `border-radius:3px`. Used for `SCOPE OF WORK`, `FAIR MARKET ESTIMATE`, numbered agreement clauses.
+
+**Line-item table**
+- Header row `background:#1C1A17`, cream text, 10px uppercase letterspaced. Cell borders `#E4DED2`/`#eee`. Numeric columns right-aligned.
+
+**Totals / fee block** (the fair-market structure)
+- Rows in order: **Subtotal → INMA Services (\_\_%, deducted from subtotal) → New Subtotal + Sales Tax → Contractor Total.**
+- Amounts right-aligned with a leading `$`. **Total / Contractor Total** is bold, gold `#B8941F`, larger (15–18px), on a highlight row (`#F2EEE4`).
+
+**Ruled / lined areas** (scope, notes)
+- `repeating-linear-gradient(#fff 0 27–32px, #DAD3C1 27–32px 28–33px)` with a gold left margin `border-left:2px solid rgba(184,148,31,.35)`. Boxes flex-grow to fill the page (no dead space at the bottom).
+
+**Signatures**
+- On-screen **signature pads** (canvas, finger/stylus) that render into the PDF — homeowner signs on the spot, no email needed. Each pad has a **Clear** button (hidden on print) + a Date line. Labels 9px uppercase letterspaced `#7A7269`.
+
+**Footer (verbatim)**
+> **INMA** · Inland Northwest Marketing Affiliates · Spokane, WA · WA UBI #606 027 063 · inmagent.com · (509) 251-7792
+
+**Disclosure (verbatim, where a disclaimer is needed)** — see §6:
+> "INMA is not a contractor. INMA presents this as your offer to our network of vetted local crews as an advocate for our clients. This is an estimate of fair-market cost for the scope described above."
+
+**Home-screen (PWA) icons**
+- Letter tiles on `#1C1A17`: **E** = Estimate Builder, **I** = Field Estimator, **S** = Service Agreement, **A** = old Agreement (retired/redirect). Notes/blank forms use `bear-logo.jpg` as the icon.
+
+**Rules of thumb**
+- Never force required fields — every document generates blank so it can be filled by hand.
+- Logo in generated print windows must be embedded (base64) or served from `/bear-logo.jpg`; plain cross-origin URLs fail in iOS PWA/`about:blank` print contexts.
+- In-app browsers (Facebook/Instagram/etc.) can't open print/PDF or signature canvases — the shared `inma-fb-rescue.js` banner tells users to open in Safari/Chrome.
+
 ---
 
 ## 9. The Website & Tools (inmagent.com)
