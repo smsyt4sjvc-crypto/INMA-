@@ -36,11 +36,21 @@ Jake is the **buyer's agent / insurance agent** for a remodel. The analogy that 
 
 ## 3. The Money Model
 
-- **Fee: 10–15% of the total project cost, depending on scope complexity.**
-- **Deducted from the contract price — comes out of the contractor's number, not added on top.** The homeowner's total cost does not increase.
-- Paid to INMA at signing; covers advocacy + coordination only, **never construction**.
-- INMA **never collects, holds, or disburses construction funds.** All construction payments go directly from homeowner to contractor under a separate agreement.
+- **INMA's fee: 10–15% of the total "offer" (project cost), depending on scope complexity.**
+- **The homeowner pays INMA directly and upfront** — a percentage of the total offer, retained at signing. INMA is paid by the homeowner, **not** by the contractor (structurally identical to an insurance agent: works for the client, paid out of the deal).
+- **The fee is a visible "contract debit" carved out of the total offer *before* the contractor's number is set.** So: the homeowner's total cost is the offer amount; the contractor accepts a number already net of INMA's fee; the fee is shown in the open — deducted dollar-for-dollar, in front of the homeowner — but the contractor never cuts a separate check for it. **Net effect: the contractor essentially pays it (their proceeds are reduced), while the homeowner is the payer of record. The homeowner's total cost does not increase.**
+- INMA's fee covers advocacy, professional scoping, and coordination only — **never construction**.
+- INMA **never collects, holds, or disburses construction funds.** All construction payments go directly from homeowner to contractor under a separate installation agreement.
 - **Fair-market pricing is verifiable** — the estimate is anchored to real fair-market data the homeowner can check themselves. Framing: *"Cheapest isn't best. Most expensive isn't best. You get what you pay for — and an advocate makes sure you actually get it."*
+
+### 3a. Operational Model (how it actually works)
+
+INMA operates as an **independent scoping-and-sales firm**. Jake professionally scopes the full job — **materials and labor** — prices it to fair market, and packages it as **"the offer": a complete, ready-to-sign contract.** That offer is presented to a vetted local contractor, who **accepts or declines it as-is** (no renegotiating the homeowner's terms). Jake is the homeowner's **single point of contact** throughout.
+
+- **Public-facing / to homeowners:** buyer's agent · homeowner advocate — "I work for you, not the crew."
+- **Structurally:** an independent firm that *sells fully-scoped, signed jobs to contractors*, but is **retained and paid by the homeowner** — exactly like an insurance agent is hired by the customer, delivers business to the insurer, and is paid out of the deal.
+- **Money flow in one line:** homeowner pays INMA's % upfront → contractor receives the offer total minus that fee (the "contract debit") → homeowner pays the contractor directly for the construction under a separate agreement.
+- **Liability line stays firm:** INMA is **not** a contractor, general contractor, or construction manager, and does not control, supervise, or guarantee the work.
 
 ---
 
