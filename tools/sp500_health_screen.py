@@ -13,8 +13,15 @@
 # ============ CELL 1 — screen ============
 """
 !pip -q install yfinance --upgrade
-import yfinance as yf, pandas as pd, numpy as np, time
-sp = pd.read_html('https://en.wikipedia.org/wiki/List_of_S%26P_500_companies')[0]
+import yfinance as yf, pandas as pd, numpy as np, time, requests
+from io import StringIO
+# NB: bare pd.read_html(wikipedia_url) 403s (default python UA blocked) — fetch w/ browser UA first
+html = requests.get('https://en.wikipedia.org/wiki/List_of_S%26P_500_companies',
+                    headers={'User-Agent': 'Mozilla/5.0 (research script)'}).text
+sp = pd.read_html(StringIO(html))[0]
+# fallback if Wikipedia still blocks:
+# sp = pd.read_csv('https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv')
+# sp = sp.rename(columns={'Sector': 'GICS Sector'})
 sp['Symbol'] = sp['Symbol'].str.replace('.', '-', regex=False)
 sectors = dict(zip(sp['Symbol'], sp['GICS Sector']))
 tickers = sp['Symbol'].tolist()
