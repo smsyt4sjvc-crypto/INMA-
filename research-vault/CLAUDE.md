@@ -56,6 +56,13 @@ push hard on source-correlated / monotone-confirmed / thesis-as-fact claims; lea
 convergence and execution discipline alone. Argue the side he's *under-weighting* (it flips).
 Tag each thesis with an Independence score + a Steelman. Current standing bull = [[detachment-bid]].
 
+## SPENDING RULE (standing, no exceptions)
+**Nothing automated that could charge Jake beyond his Max subscription without his explicit approval first.**
+Do NOT create scheduled Routines/crons, recurring background jobs, or anything that runs unattended and
+consumes usage — even if it seems helpful — without asking and getting a yes in that same conversation.
+One-off work inside a session he started is fine; standing automation is not. (Set 2026-07-07 after a daily
+morning-scan Routine was created and then deleted at his request.)
+
 ## Heavy data pulls → offload
 Before doing a big in-session fetch (PDF, long page, bulk tickers, walled site), use the
 [[data-sourcing-playbook]]: hand the retrieval to Perplexity/Grok/Gemini/ChatGPT with the
