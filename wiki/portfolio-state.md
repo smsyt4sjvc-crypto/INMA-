@@ -86,6 +86,22 @@ hardware** — which is Jake's heaviest sleeve. Implications:
 - **Fed = NO put right now** (see [[new-economy-regime]] Warsh hawkish) → don't expect a cut to rescue the flush;
   strengthens holding the SPY puts, argues against rushing the semis ladder. VIX only 16.4 = complacency, not capitulation.
 
+## ⚡ 2026-07-07 PM — Hormuz fuse #2 lighting; ORCL credit; thesis-crowding warning
+- **Hormuz attack #3 (verified):** Qatari LNG carrier struck by projectile exiting the strait (UKMTO 082-26) —
+  the MoU-break fuse from the 7/5 correction, testing live. Oil only +2.3% (WTI $70, near Feb lows) = the
+  floating-storage mask still on; spring coiled, not released. **Target = LNG, not crude → the escalation pays
+  the VG + Cheniere sleeve first** (Qatari flows unsafe → marginal buyer lands on US Gulf LNG). Plus Ukrainian
+  drones hit 8 Russian shadow-fleet tankers = two-front tanker war.
+- **ORCL 5yr CDS ~198bps record (40bps a year ago)** — the [[ai-financing-fragility]] credit leg live-priced;
+  $300B of Oracle's backlog is OpenAI/Stargate. Watch: does widening stay idiosyncratic or spread to DC-ABS/
+  neocloud paper (= the correlation event).
+- **NY Fed expectations de-anchoring** (1yr 3.67%, 3yr 3.34% — multi-year highs) → Fed Trap horns tighten;
+  NO-put intact; supports holding the Dec 745 puts.
+- *(⚠️ calibration — the crowding clock)* "Token-Unmaxxing" is now a ZH HEADLINE with Goldman's flow desk
+  attached ("very rotational market where momentum struggles"). Burry-coinage → CNBC → mainstream in 6 weeks =
+  Vector 9 complete. **The bear thesis is now the feed's default narrative → edge shifts from direction to
+  what's-already-priced; raise skepticism of confirmation flow; crowded shorts make V-bounces violent.**
+
 ## ⚡ 2026-07-07 PM — ladder cancelled; book restructured around rotation
 - *(user decision)* GTCs pulled — the commoditization stack (vault-verified: Meta compute resale, H100 floor,
   open-weight efficiency, China silicon, AVGO/MediaTek designer war) = the GPT/fiber-analog conclusion applied:

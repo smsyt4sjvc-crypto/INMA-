@@ -76,6 +76,17 @@ Related: [[ai-capex-cycle]], [[market-fragility]], [[concentration]], [[consumpt
   is a sub-2yr asset priced as a 15yr one → the collateral-quality hole is structural, not just cyclical. See
   [[ai-capex-cycle]] "all-in $/compute."
 
+## ⚡ 2026-07-07 — the credit leg goes LIVE: ORCL CDS at record
+- **Oracle 5yr CDS: ~40bps (Jul 2025) → 151bps (Dec) → ~198bps record (7/7)** — called the most severe credit
+  deterioration among major techs since 2008. Stock back to 2026 lows. [Yahoo/CNBC/ainvest via WebSearch 7/7]
+- Mechanics: **$523B remaining performance obligations, $300B of it = ONE counterparty (OpenAI/Stargate)** — a
+  cash-burning startup as the load-bearing customer; $38B DC debt package (largest AI-infra debt to date),
+  ~$50B FY26 capex, $45-50B cash-raise target, $18B bonds incl. 40-yr paper (2065 maturity vs <2yr-obsoleting collateral).
+- *(analysis)* This is the note's watch item printing at the SPONSOR level: the credit market pricing the
+  circular-financing risk (Burry's Feb "banks selling down Oracle construction loans" → now a record CDS).
+  **The escalation tell: idiosyncratic-vs-systemic — if widening spreads from ORCL to DC-ABS / neocloud paper /
+  the PE-insurer complex, that's the correlation event starting.** HY OAS still tight = not systemic yet.
+
 ## Falsifiers / watch
 - GPU-backed ABS spreads widen / a rated GPU deal gets downgraded → collateral-quality repricing starting.
 - A PE-owned insurer / Bermuda reinsurer flagged by NAIC/IMF for AI-credit concentration → the chain surfacing.
