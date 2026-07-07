@@ -138,6 +138,20 @@ Source: `raw/memory-shortage-2026-07-01.md`. Relevant to MU (28% of trading bask
   most violently cyclical business in tech; it has never sustained a multi-year shortage without a
   brutal glut after. Treat the confidence as a mild yellow flag.
 
+### Contract mechanics — the LTA floor question (2026-07-07, Jake's Q)
+- **Fixed-price LTAs cap upside (already banked — struck on the 3-4x repricing) in exchange for a FLOOR:**
+  in a glut, contracted volume flows at locked prices while spot collapses; take-or-pay = paid even if not taken.
+  Converts a slice of MU revenue to bond-like — the counterargument to the derate's severity, and the "best-
+  defended of the exposed" mechanic.
+- ⚠️ Three tests of the floor: (1) memory LTAs historically fix VOLUME harder than PRICE (2018-19: contract
+  followed spot down with a lag); the new HBM take-or-pay deals (Matterfact, wk of 7/2) claim fixed pricing —
+  **never tested by a downturn, about to be.** (2) Correlation event = take-or-RENEGOTIATE (2001: customers
+  walked; rhymes with the RVG-outs pattern). (3) Coverage partial: HBM/datacenter is LTA-heavy; consumer
+  DRAM/NAND ride spot and eat the glut first.
+- **Watch (lie-proof tells):** "inventory timing adjustment"/"supply agreement renegotiation" headlines = the
+  floor cracking; **MU deferred revenue / customer prepayments (10-Q)** — prepayments can't be renegotiated;
+  RISING balance = customers still fighting for supply regardless of the stock.
+
 ### METHOD — purchasing experience as a leading indicator
 Jake's edge: track the retail buying experience. "Request pricing / sold out in seconds / price
 up" = shortage on. When it flips to "in stock, listed price, **falling**" → cycle turning, and it
