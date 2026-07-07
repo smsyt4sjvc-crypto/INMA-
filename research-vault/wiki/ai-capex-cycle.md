@@ -458,6 +458,36 @@ $ IN over usable compute OUT, ignoring monetization — is THAT ratio eroding? A
   still eat HBM → that trend hits NVDA margins, not memory demand; the memory transmission runs through politics/
   power capping how many DCs get BUILT.
 
+## 2026-07-07 cluster — enclosure + the lawsuit (both verified)
+### DATA
+- **China moving to restrict overseas access to its top AI models** (Reuters exclusive 7/7): MOFCOM in
+  month-long talks w/ Alibaba/ByteDance/Z.ai; covers closed AND open-weight models incl. unreleased future
+  iterations; proposed tiers — basic = filing, advanced = security review, **frontier = barred from public
+  release/domestic-only.** Context: Meta ordered to unwind $2B Manus acquisition (April); sweeping overseas-deal
+  rules (June); Beijing alarmed Anthropic's restricted cyber tool could target Chinese systems.
+- **DRAM antitrust class action** (filed 6/25, N.D. Cal): Samsung + SK Hynix + Micron accused of coordinating
+  DDR4/DDR5 capacity cuts "under the pretext of the HBM transition," inflating commodity memory up to 700%
+  since 2022; 17 plaintiffs. Street shrugged (Cantor PT $1,500→$2,000 same week). MU had touched ATH $1,255
+  the day the suit landed, −16% the following five sessions (lawsuit + cycle-top derate concurrent).
+- Also as-reported (Jake, unverified): **Xbox prices +$150** — memory-cost passthrough, same mechanism as the
+  Apple 6/25 raise. **OpenAI/Anthropic bidding compute down to smaller models** — compression at the lab layer.
+### THESIS (interpretation — NOT fact)
+- *(China — "commoditize your complement, then enclose")* The sequence IS the strategy: Phase 1 open-weight
+  the near-frontier → crush Western token economics (done, irreversible). Phase 2 enclose the frontier as a
+  strategic asset — mirror image of US chip controls. **Both superpowers now export-control AI.** Slows the
+  efficiency wave's NEXT leg (mild relief for closed-lab pricing; partial cap on the compression thesis) and
+  is the strongest sovereign-AI confirmation yet (PLTR framing).
+- *(lawsuit — the Hollow Bottom filed in federal court)* The complaint's factual core is vault-verified fact
+  (Crucial killed, DDR5 $80→$375); the legal question is collusion vs parallel oligopoly conduct (latter not
+  per se illegal). ⚠️ Industry has PRIORS — early-2000s DRAM price-fixing ended in criminal guilty pleas →
+  the escalation to watch is DOJ/FTC adoption, which turns headline risk real. Structurally: "AI capital
+  outbidding consumers" is now a cause of action — the political ratchet reaching the memory oligopoly.
+  Also cuts at the LTA floor: an antitrust cloud makes aggressive supply discipline (the floor's defense
+  mechanism) legally riskier for all three players.
+- *(the week's pattern)* All six 7/7 items = either scarcity EXTRACTING from consumers (Xbox/Apple/lawsuit)
+  or the scarcity premium being competed/regulated/enclosed away (Meta resale, labs downshifting, China).
+  Two-economy extraction + commoditization — one framework, six headlines.
+
 ## Counterweights (steelman the other side)
 - *(analysis)* Hyperscalers have real cash flows and can fund capex from operations far longer
   than a classic bubble; demand could be under- not over-estimated if agents/inference scale.
