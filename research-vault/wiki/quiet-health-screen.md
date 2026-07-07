@@ -59,6 +59,14 @@ Related: [[rotation-stickiness]], [[concentration]], [[ai-financing-fragility]],
   stayed cheap all of 2016–2020, and "non-catalyst" means nothing forces the re-rating. The screen says
   where healthy cash flow is cheap, not when anyone will care. One week of defensive flow ≠ a regime.
 
+## Live benchmark — the paper basket (started 2026-07-07)
+Jake built the screen's list as a Fidelity paper watchlist (1 share each — ⚠️ price-weighted like the Dow;
+ULTA/CBOE dominate the Total row, read per-name %). **Basis date 2026-07-07 = a clean falsifiable test:
+quiet-health cohort vs SPY from 7/7.** Basket beats SPY over weeks → rotation had legs (sticky wins);
+chips V-bounce + basket bleeds flat while SPY rips → flush (base rate wins). Day 1: basket **+1.31%** vs
+chip-wreck 2.0 (SMH −5.7) — exchanges led (CBOE +5.0, CME +3.0 = the long-vol toll booths paid same-day);
+defense (the 7/3 leader) was the only red = rotation eating its own front rank.
+
 ## Refresh
 Re-run both cells any time (~20 min); paste top-30 + EDGAR lines back → I update this note dated.
 
