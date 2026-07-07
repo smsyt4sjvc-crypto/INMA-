@@ -87,6 +87,18 @@ hardware** — which is Jake's heaviest sleeve. Implications:
 - **Fed = NO put right now** (see [[new-economy-regime]] Warsh hawkish) → don't expect a cut to rescue the flush;
   strengthens holding the SPY puts, argues against rushing the semis ladder. VIX only 16.4 = complacency, not capitulation.
 
+## ⚡ 2026-07-07 — the ladder goes live (chips −6/−10%, rotation second-rank)
+- **MRVL −9.63% → ~$222 = BELOW the 243 top rung — if the GTCs are live, rung 1 FILLED; 210 next.**
+  **MU −7.65% → ~$901 — the 850 rung ~6% away.** SPY dragged with chips → **Dec 745 puts at/in the money
+  the same day the rungs fill = the barbell working as designed** (same crack fills ladder + pays hedge).
+- Discipline (from the design): the ladder executing IS the plan — the falling-knife check (H100 rental /
+  DDR5 pricing) gates *discretionary adds beyond the rungs*, not the pre-committed GTCs. Watch: memory
+  retail pricing firm while MU derates = stock cheapening faster than fundamental (the ladder's thesis);
+  DDR5 rolling over too = regime-change case, lean on the puts side.
+- Context: NVDA only −1.75 (defended) while MU/MRVL massacred = derating concentrated in Jake's sleeve
+  (memory + ASIC second-liners). Healthcare laggards (CI/UHS) outperforming XLV = rotation reaching the
+  second rank ([[rotation-stickiness]] 7/7 update).
+
 ## Live flow (see [[live-flow-trackers]])
 - *(~2026-07-03 RVOL)* Quiet tape — flush not ongoing capitulation (RVOL normalized 2 sessions after
   the July-1 chip-wreck; highest = NBIS 1.53, rest 0.83–1.20). Argues against rushing the ladder into

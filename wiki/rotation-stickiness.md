@@ -56,6 +56,18 @@ Related: [[market-fragility]], [[concentration]], [[new-economy-regime]], [[deta
 - ⚠️ **Power sleeve traded as AI-beta, not defensive** (Power −1.1, SMR −3.8 closed at low) — GEV/VST/OKLO/SMR
   correlated to the thing cracking, NOT hedged against it. Contradicts the "utilities improving" search read.
 
+## Update 2026-07-07 — the rotation reached the SECOND RANK (evidence FOR sticky)
+- *(DATA — Jake's Colab, 1-day moves)* Chips: SMH **−5.71**, MU **−7.65**, MRVL **−9.63**, AVGO −2.77,
+  **NVDA only −1.75** (flagship defended; the basket destroyed). Healthcare: **GILD +4.38**, JNJ +3.77,
+  LLY +2.99, REGN +2.78, **CI +2.46, UHS +2.32 — the cheap LAGGARDS beating XLV (+2.04)**.
+- *(THESIS)* July-3 was liquid-first (ISRG/ABBV/JNJ ran, laggards sat). Today the [[quiet-health-screen]]
+  value laggards (CI/UHS, both negative 52w) outperformed the sector ETF = flow working past the front of
+  the line → **rotation-with-legs signature, not a 48h flush.** First second-rank entry in the sticky column.
+- *(chips composition)* Pain concentrated in memory (MU) + custom-ASIC (MRVL — the AVGO/MediaTek margin-war
+  repricing) while NVDA holds = the second-liners derate first, exactly as the [[ai-capex-cycle]] Stage-1.5
+  read predicted.
+- ⚠️ Still one day + one prior scan. Falsifier live: chips V-bounce this week + CI/UHS give it back = July-1 redux.
+
 ## Falsifiers (what kills the sticky read)
 - Tech V-bounces within 1–3 weeks on no fundamental change → it was a flush (base-rate outcome).
 - Fed hints at a cut → rotation likely ends (removes condition #2).
