@@ -40,7 +40,7 @@ for i, t in enumerate(tickers):
             'revG%': round(f['revenueGrowth']*100, 1) if f.get('revenueGrowth') else None,
             'ocf>ni': (ocf > ni) if (ocf and ni) else None, 'beta': f.get('beta'),
             'chg52w%': round(f['52WeekChange']*100, 1) if f.get('52WeekChange') else None,
-            'divY%': round(f['dividendYield']*100, 2) if f.get('dividendYield') else None})
+            'divY%': round(f['dividendYield'], 2) if f.get('dividendYield') else None})  # yf returns % already
     except Exception: failed.append(t)
     if (i+1) % 50 == 0:
         pd.DataFrame(rows).to_csv('sp500_raw.csv', index=False); print(f"{i+1}/{len(tickers)}")
