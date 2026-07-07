@@ -59,6 +59,30 @@ Related: [[rotation-stickiness]], [[concentration]], [[ai-financing-fragility]],
   stayed cheap all of 2016–2020, and "non-catalyst" means nothing forces the re-rating. The screen says
   where healthy cash flow is cheap, not when anyone will care. One week of defensive flow ≠ a regime.
 
+## Analyst layer — estimate revisions + targets (Cell 3 run 2026-07-07)
+Consensus current-yr EPS revisions (90d), price targets, buy%. ⚠️ This is the REPORTED layer — herds and
+lags; weight revisions (direction) > targets (lag price) > buy% (contrarian texture).
+### DATA
+- **CBOE: +14.9% revisions, +23% upside, 24% buy** — estimates rising hard (vol revenue repricing into
+  consensus), cheap, under-recommended. Best profile in the table. **CME +1.0%/+24%/56%.** Exchange theme
+  now confirmed by a 4th independent tool (screen, EDGAR, rotation tape, revisions).
+- Ignored value: UHS −0.1%/+32.7%/40%; HII −0.1%/+32.7%/42% — flat estimates, big gaps, Street not looking.
+- Loved-but-flat: CI +0.2%/+18.6%/**83% buy** (most-recommended); GEHC **−3.8% cuts** but 72% buy (China/
+  imaging — know why before funding); ULTA +0.9%/+38.7%/70% (⚠️ target-lag inflates the gap).
+- Fully-priced per Street (target ≤ price): FFIV, WRB, CB. **EA = weakest profile on the list: −2.4% cuts,
+  zero upside, 6% buy, near 52w high** → the drop candidate if trimming the basket.
+- **⚠️ HIG −4.9% cuts — real flag, not artifact** (P&C cat losses or pricing cycle rolling?). Check why
+  before sizing past equal weight; revision data favors WRB/CB stability among the insurers.
+- **GILD −109% = ARTIFACT, resolved (verified 7/7):** $11.5B acquired-IPR&D charges (Arcellx $7.8B + Ouro +
+  Tubulis) flip the GAAP guide to a loss; **ex-items EPS guide unchanged $8.45–8.85 and sales guidance
+  RAISED to $30.0–30.4B.** The scary GAAP headline is part of why GILD screened cheap = fallen-quality
+  optics event, not deterioration. (Same lesson as EA's trailing-PE artifact: one-time charges lie.)
+### Diligence honesty (what the stack still hasn't done)
+Screen + EDGAR + analyst layer ≠ underwriting: no guidance calls read, no name-level risk work (GILD patent
+cliff, CI PBM regulation, UHS Medicaid/labor, HIG cat book, EA pipeline), revenue check is endpoint-to-
+endpoint, 10-K data lags. Before real dollars beyond an equal-weight tracking basket: name-level dives on
+whatever gets sized up (priority: UHS/CI/GEHC + HIG's why).
+
 ## Live benchmark — the paper basket (started 2026-07-07)
 Jake built the screen's list as a Fidelity paper watchlist (1 share each — ⚠️ price-weighted like the Dow;
 ULTA/CBOE dominate the Total row, read per-name %). **Basis date 2026-07-07 = a clean falsifiable test:
