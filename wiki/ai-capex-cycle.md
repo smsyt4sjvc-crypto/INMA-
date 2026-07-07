@@ -414,6 +414,36 @@ $ IN over usable compute OUT, ignoring monetization — is THAT ratio eroding? A
   **shell (the ABS collateral) obsoletes in <2yr**, the collateral ages out FASTER than the loan → breaks the Residual
   Value Guarantee assumption at the core. The thing securing the debt is a sub-2yr asset dressed as a 15yr one.
 
+## Global derate — the cycle-top signature (2026-07-07, Jake)
+### DATA
+- **Samsung reported its highest 3-month revenue ever** (per Jake; among the largest corporate quarters outside
+  Aramco) — **and the stock tanked anyway.** SK Hynix tanking alongside. Same day: SMH −5.7, MU −7.65, MRVL −9.6
+  (US side). The derating is synchronized across the US and Korean memory/hardware complex.
+### THESIS (interpretation — NOT fact)
+- *(the signature)* **Record revenue + tanking stock = the memory-cycle-top signature, not a puzzle.** Memory
+  de-rates at peak earnings because the market knows the E is peak-E and prices the NEXT leg — the DRAM-cycle
+  pattern (Burry's "shades of historic DRAM cycles"). Same mechanism as the [[quiet-health-screen]] peak-E flag.
+- *(Jake's reframe — flush → regime, formally)* His prior **V-shape thesis (financial: overvalued → profit-take →
+  buy-dip) is RETIRED.** If this were US positioning froth, Korea/Taiwan would decouple; synchronized global
+  derating = the market repricing the CAPEX CYCLE itself. Causal stack (all vault-verified): political ratchet
+  (QTS), power gap (19GW), compute overbuild (Meta resale, H100 floor), in-house silicon. Retroactively supports
+  the ladder cancellation ([[portfolio-state]]).
+- *(precision — expectations vs orders)* "Demand destruction in real time" = **EXPECTED-demand destruction.**
+  Current demand is literally the all-time record (that's Samsung's revenue). What's being cut is the slope/
+  duration of the cycle. The physical layer has NOT confirmed (as of 7/1: DDR5 3-4x + instant sellouts, HBM booked
+  thru 2027). **Confirm signals: DDR5 retail rolling over, HBM contract price cuts, and sharpest — the memory
+  makers cutting their OWN capex/wafer starts** (industry pricing the roll) vs holding expansion (industry seeing
+  demand the market doesn't). Jake's retail-pricing method is the tiebreaker.
+- *(⚠️ Korea amplifier — own vault's flag)* The 7/1 Korea note: mechanical amplification (MSCI rebalance, FX,
+  leveraged ETFs) → weight Korean price action LOW as demand evidence. Post-earnings Samsung is cleaner than the
+  KOSPI plumbing move, but the amplifier persists: **direction real, magnitude inflated.**
+- *(the live tension)* Stocks and the physical layer now tell DIFFERENT stories. Market front-running demand
+  destruction the physical layer hasn't printed = either early-and-right, or the derate manufacturing the
+  bottleneck-at-a-discount entry a re-racked ladder would want. Everything Jake got right this session came from
+  trusting physical over reported — apply it here too. In-house-silicon nuance (his own catch): hyperscaler ASICs
+  still eat HBM → that trend hits NVDA margins, not memory demand; the memory transmission runs through politics/
+  power capping how many DCs get BUILT.
+
 ## Counterweights (steelman the other side)
 - *(analysis)* Hyperscalers have real cash flows and can fund capex from operations far longer
   than a classic bubble; demand could be under- not over-estimated if agents/inference scale.
