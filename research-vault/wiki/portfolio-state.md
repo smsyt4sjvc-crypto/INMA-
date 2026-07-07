@@ -6,15 +6,14 @@ Related: [[market-fragility]], [[power-not-petroleum]], [[gold-flows]].
 > Firewall: DATA = positions/levels the user has actually disclosed. THESIS = the reasoning.
 > This note describes; it does not advise. Sizing/execution are the user's.
 
-## DATA (disclosed positions — as of 2026-07-01)
+## DATA (disclosed positions — as of 2026-07-07)
 - **Cash:** SPAXX dry powder (money-market, ~4–5% yield). Deliberately underexposed.
-- **AI-semi GTC limit ladder** (buy rungs):
-  - AMD 330 / 390
-  - NVDA 150 / 170 / 190 *(190 filled)*
-  - MRVL 178 / 210 / 243
-  - TSM 359 / 399
-  - MU 740 / 850
-- **Hedge:** SPY **745 puts, December** expiry.
+- **⚠️ AI-semi GTC ladder CANCELLED (2026-07-07, during the chip drawdown).** Prior rungs for reference:
+  AMD 330/390, NVDA 150/170/190 *(190 had filled — position held)*, MRVL 178/210/243, TSM 359/399, MU 740/850.
+  Jake's stated basis: compute commoditizing (Meta reselling, OpenAI/Anthropic cheap inference, China domestic
+  silicon, competition everywhere) → not convicted chips come back after this drawdown. May re-rack later.
+- **Considering:** rotation into healthcare (the [[quiet-health-screen]] list) — "let SPY [puts] do the work, ride it out."
+- **Hedge:** SPY **745 puts, December** expiry — at/in the money as of 7/7.
 - **Nuclear:** "nuclear names" (specific tickers not itemized here — add when disclosed).
 - **LNG:** Venture Global (**VG**) + Cheniere (**LNG**).
 - **Passed on:** KRE (regional-bank) puts — declined the CRE/regional-bank short.
@@ -86,6 +85,24 @@ hardware** — which is Jake's heaviest sleeve. Implications:
 - **Gold +1.6% ($4,103)** — safe-haven bid returning (debasement/risk-off); constructive for the hard-asset lean.
 - **Fed = NO put right now** (see [[new-economy-regime]] Warsh hawkish) → don't expect a cut to rescue the flush;
   strengthens holding the SPY puts, argues against rushing the semis ladder. VIX only 16.4 = complacency, not capitulation.
+
+## ⚡ 2026-07-07 PM — ladder cancelled; book restructured around rotation
+- *(user decision)* GTCs pulled — the commoditization stack (vault-verified: Meta compute resale, H100 floor,
+  open-weight efficiency, China silicon, AVGO/MediaTek designer war) = the GPT/fiber-analog conclusion applied:
+  technology wins, hardware layer commoditizes. Declining to add ≠ selling; cash stays at 4-5%.
+- *(analysis — the layer distinction, if rungs ever return)* Commoditization kills the DESIGN layer (NVDA/MRVL/
+  AMD margins) but largely spares the PHYSICAL BOTTLENECKS: every competing chip still needs TSMC fab + oligopoly
+  HBM. More chip competition = more fab/memory demand. Old rungs were priced for a pre-commoditization world —
+  a re-racked ladder points at bottleneck names at LOWER rungs, not designer names at old ones.
+- *(analysis — the new book shape is a coherent two-sided bet)* Healthcare long + SPY puts + cash = long
+  "orderly rotation" (breadth holds index, healthcare pays, puts bleed) + hedged "disorderly crack" (puts pay
+  when hiding fails). **The scenario SOLD: the chips V-bounce melt-up** — flat the recovery, puts decay. Named and accepted.
+- *(calibration — entry point)* If rotating in: the front rank already ran (GILD +17% 52w, +4.4 today = chasing);
+  the untouched value = the second rank (CI/UHS/GEHC, negative 52w, first bid today). Healthcare is differently-
+  risked, not un-risked (drug-pricing politics into midterms, GLP-1 crosscurrents, hospital labor).
+- *(falsifiers for the no-chips call)* DDR5/HBM pricing holding through the derate; TSM guide staying fat;
+  memory sold out while MU prints single-digit forward P/E. All on the bookmark list — if they print while
+  fully out, that's the owned miss.
 
 ## ⚡ 2026-07-07 — the ladder goes live (chips −6/−10%, rotation second-rank)
 - **MRVL −9.63% → ~$222 = BELOW the 243 top rung — if the GTCs are live, rung 1 FILLED; 210 next.**
