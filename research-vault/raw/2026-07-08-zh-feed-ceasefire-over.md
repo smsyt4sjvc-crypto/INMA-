@@ -25,3 +25,14 @@
 
 # Ingested into: portfolio-state.md (Iran state change, diesel squeeze, gamma bid), ai-capex-cycle.md
 # (Apple-CXMT whale move confirmed, AVGO deal, Korea bear, OpenAI IPO).
+
+## Follow-up scroll (same day, later)
+- **Iran threatens to RE-CLOSE the strait** as US military "ready" to restart blockade; "Trump will certainly
+  lose" [STATE-MEDIA bravado]. → Both sides now threatening the SAME chokepoint — a US blockade and an Iranian
+  re-closure are the same event for oil (Iranian barrels stop + transit risk spikes either way). The marker's
+  closure condition approached from both directions; still threats, absorbed at $79.
+- **Blockade odds (prediction mkt): "more than doubled after Trump comments, but still low"** — the live
+  probability gauge on the marker trigger. LEADING indicator: oil takes the $90 leg when odds grind toward
+  ~30-40%, BEFORE execution. Threat premium in; execution premium not; the gap = the XOM tail's remaining payoff.
+- Rest of scroll = repeats of earlier tiles (10Y 4.59, UK 2Y, Novak diesel ban, Patriots, product-export ATH).
+  Process note (Jake's own rule): ~7 tiles, ~2 signal — firehose re-serving yesterday's items with new timestamps.
