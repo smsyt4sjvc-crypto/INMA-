@@ -93,3 +93,10 @@
   fares up + TSA counts rolling YoY = demand destruction printing weeks before airline guidance. Pairs with
   trucking spot rates as the two demand-break tells for the distillate crack.
 - Military: Pentagon = largest single fuel buyer; active air campaign = one more straw in the same barrel.
+
+## FOMC minutes (June meeting, released 7/8) — the Fed names AI
+- Staff judgment: core goods inflation "largely reflecting the effects of tariffs and **AI-related price
+  pressures**" — the memory/electron passthrough is now OFFICIAL inflation attribution.
+- "Some participants": AI productivity gains "would eventually reduce production costs... though this effect
+  would likely take time" = the Warsh escape hatch deployed as a SOMEDAY while the cost-push is booked TODAY.
+- **"A few" wanted to HIKE in June; "majority" fear higher inflation** — no-put confirmed; hike faction live.

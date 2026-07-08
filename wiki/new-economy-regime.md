@@ -138,3 +138,17 @@ Re-run the Colab cell (in `data/README` / playbook) monthly; overwrite the CSV; 
 
 ## Sources
 - `data/macro_2019_present.csv` (FRED via Colab, 2026-07-01).
+
+## FOMC minutes 2026-07-08 — the Fed names AI; the doom loop documented
+- **DATA:** June-meeting minutes: staff attributes core-goods inflation "largely" to "tariffs and **AI-related
+  price pressures**" (first official naming). "Some participants" cite eventual AI productivity disinflation
+  "though... would likely take time." **"A few" wanted to HIKE in June; "majority" fear higher inflation.**
+  (`raw/2026-07-08-zh-feed-ceasefire-over.md`)
+- *(THESIS — the reflexive loop, now official)* The AI trade sits on BOTH sides of the Fed's ledger: ~37% of
+  the index (what a put would protect) AND a named cause of the inflation that prevents the put. **AI capex
+  manufactures its own monetary headwind.** The Warsh escape hatch (supply-side someday) is deployed in the
+  same minutes that book the cost-push today — policy is set on today. Jake's rent-vs-compute rebuttal stands
+  unaddressed inside their own framework. No-put + live hike faction into the oil/diesel CPI impulse and
+  de-anchoring expectations = the trap's horns at their tightest reading yet.
+- *(political link)* The Fed NAMING AI as an inflation source = citable ammunition for the first candidate who
+  runs on "AI raises your prices and takes your job" — the monetary and political ratchets linked.
