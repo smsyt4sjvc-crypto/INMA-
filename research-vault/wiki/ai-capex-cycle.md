@@ -499,6 +499,24 @@ $ IN over usable compute OUT, ignoring monetization — is THAT ratio eroding? A
   supply-discipline floor weakens exactly when the cycle-top thesis says it gets needed.
   (4) **leniency-race game theory is live:** DOJ amnesty pays the first confessor everything — designed to
   destabilize cartels under scrutiny — and Micron has taken that deal before. The filing IS the enforcement.
+- *(the WHALES behind the ants — Jake's extension, 2026-07-08)* The 17 small plaintiffs are the discovery
+  engine; the big claims belong to **direct purchasers who haven't filed: Apple, Microsoft/Xbox, automakers**
+  (treble damages; Illinois Brick gives directs the strong federal claims — consumers who paid +$150 for an
+  Xbox are indirect/state-law only). Precedent says whales WILL go after critical suppliers: the 2002 DRAM
+  case was OEM-triggered (Dell complaints; Dell/HP/Apple/IBM collected the settlements); **Apple v. Qualcomm**
+  (sued its sole modem supplier while dependent); Apple v. Samsung (decade of litigation while buying);
+  automakers in the auto-parts cartel cases. Mechanics:
+  · **Whale timing is procyclical with the cycle-top thesis:** in shortage, allocation risk mutes buyers; in
+    GLUT the leverage flips and dormant claims get monetized — the whale wave arrives WITH the downturn
+    (legal drain + supply handcuffs + falling prices, all at the trough).
+  · **MSFT is on both sides** — Xbox the victim, MSFT-hyperscaler the whale whose HBM demand caused the
+    crowding-out → "intentional constraint" discovery boomerangs; expect Redmond quiet. **Apple = the clean
+    claimant** (pure buyer; its June price raises are self-documented damages evidence). **Automakers =
+    cleanest** (pure victims, cartel-claim experience). Watch Cupertino/Detroit, not Redmond.
+  · **Base case = quiet repricing, not lawsuits:** whales use the litigation's existence as leverage on the
+    next supply agreements — extracting damages without court, which STILL softens the LTA floor from the
+    buyer side into the downturn. Either branch lands the same: the 2026 suit is the ante; the whales' claims
+    are the pot; the pot gets played when the cycle turns.
 - *(the week's pattern)* All six 7/7 items = either scarcity EXTRACTING from consumers (Xbox/Apple/lawsuit)
   or the scarcity premium being competed/regulated/enclosed away (Meta resale, labs downshifting, China).
   Two-economy extraction + commoditization — one framework, six headlines.
