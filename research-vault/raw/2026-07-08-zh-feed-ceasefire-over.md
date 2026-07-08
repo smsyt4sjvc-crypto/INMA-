@@ -48,3 +48,17 @@
   ≈35% pre-war) rolling toward the April trough while threats continue → market prices closure before an
   announcement. Hulls > statements.
 - Spain goods list (Treasury/USTR/Commerce) = tariff escalation, parked. Rutte backing = already logged.
+
+## SPR + China apparent-demand (Jake's hypothesis, verified same day)
+- **US SPR at post-1983 lows** (drain continuing, Cushing "tank bottoms") — the spike-capping tool is spent.
+- **China hypothesis CONFIRMED (EIA/OIES/EnergyIntel/CNBC):** stockpiling ~1.0M b/d through 2026 (+266MM bbl),
+  government-directed (140MM bbl NOC mandate Jul'25-Mar'26); holdings 1.1-1.3B bbl = ~130 days imports (vs
+  90-day IEA std). Imports fell 11→9.3mm b/d (April) = the "apparent demand erosion" — while the strategic
+  bid persists price-elastically (buy $65-70, step back $75+). CNBC: "China is helping to cushion global oil
+  prices below $100 — but analysts warn it won't last." OIES title: "China's crude levers."
+- **Beijing REFUSED to draw its SPR during the Gulf shock** (commercial stocks only) = hoarding the strategic
+  barrel through a crisis — war-readiness/Taiwan-contingency undertone (JKemp: "readiness for war").
+- **The reserve asymmetry (the finding):** US absorber empty + Cushing bottoms + 63MM bbl frozen at sea vs
+  China's record buffer, hoarded. Cushioned FLOOR (China bid ~$65-70), uncushioned CEILING (no SPR between a
+  Kharg strike and $90+). Caveats: China consumption erosion partly real/structural (EVs ~50% of new sales,
+  LNG trucking, property slump); EIA models the strategic build slowing 2027 = the floor-bid has a horizon.
