@@ -484,6 +484,21 @@ $ IN over usable compute OUT, ignoring monetization — is THAT ratio eroding? A
   outbidding consumers" is now a cause of action — the political ratchet reaching the memory oligopoly.
   Also cuts at the LTA floor: an antitrust cloud makes aggressive supply discipline (the floor's defense
   mechanism) legally riskier for all three players.
+- *(THE PRECEDENT — why the suit matters regardless of its own damages; Jake's point 2026-07-08)*
+  **DOJ DRAM price-fixing case (conduct 1999-2002, prosecuted 2004-06): Samsung $300M criminal fine (then
+  2nd-largest antitrust fine ever), Hynix $185M, Infineon $160M, Elpida $84M — executives served PRISON
+  time — and MICRON WAS THE AMNESTY COOPERATOR (first through DOJ's leniency door, testified, paid nothing).**
+  Chain: 2002 DOJ criminal → 2006 civil settlements → 2018 China NDRC probe → **2026 class action = round 4**
+  of the same allegation against the same structure. Consequences:
+  (1) converts "implausible collusion" into **recidivism** — changes DOJ appetite, judicial patience, settlement math;
+  the civil suit is a **referral vector** into an agency with memory of winning this exact case.
+  (2) **discovery, not damages, is the weapon** — the 2002 case was built on emails; this one forces discovery
+  into the "HBM transition" capacity-cut communications.
+  (3) **handcuffs supply discipline in the next downturn** — the oligopoly can't do coordinated-looking wafer
+  cuts under an antitrust cloud + 75-80%-margin "profiteering" chatter without creating Exhibit B → the LTA/
+  supply-discipline floor weakens exactly when the cycle-top thesis says it gets needed.
+  (4) **leniency-race game theory is live:** DOJ amnesty pays the first confessor everything — designed to
+  destabilize cartels under scrutiny — and Micron has taken that deal before. The filing IS the enforcement.
 - *(the week's pattern)* All six 7/7 items = either scarcity EXTRACTING from consumers (Xbox/Apple/lawsuit)
   or the scarcity premium being competed/regulated/enclosed away (Meta resale, labs downshifting, China).
   Two-economy extraction + commoditization — one framework, six headlines.
