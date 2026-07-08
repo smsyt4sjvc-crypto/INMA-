@@ -86,6 +86,21 @@ hardware** — which is Jake's heaviest sleeve. Implications:
 - **Fed = NO put right now** (see [[new-economy-regime]] Warsh hawkish) → don't expect a cut to rescue the flush;
   strengthens holding the SPY puts, argues against rushing the semis ladder. VIX only 16.4 = complacency, not capitulation.
 
+## ⚡ 2026-07-08 PM — CEASEFIRE DEAD; marker holding; diesel squeeze; gamma bid (`raw/2026-07-08-zh-feed-ceasefire-over.md`)
+- **VERIFIED: US-Iran MoU over** (Trump, Ankara); US struck 80+ targets overnight; **WTI $75.38 +7% / Brent
+  $79.65 +7.4%.** **Jake's $90-marker HOLDING and validated:** 80+ military strikes absorbed at $79 — but Trump
+  verbally staged every trigger condition (**Kharg Island takeover, Iran-only blockade, desalination**). The
+  distance from $79→$90+ is now one ORDER, not one escalation ladder. Onaiza LNG transited = strait open;
+  LNG-sleeve Qatar channel intact. XOM tail LIVE and paying.
+- **Diesel squeeze forming:** Russia diesel-export ban + US distillates −5MM + product exports ATH 8.7mm b/d →
+  crack spreads rip (XOM/CVX refining arms) + a straight CPI impulse.
+- **Stagflation tape = the puts' home field:** 10Y 4.59% (high since mid-May) + UK real yields highest since
+  2009 WHILE oil +7% and futures slide — yields up on risk-off = Fed Trap/DB-dislocation printing globally,
+  no bond hedge, no Fed put. **Goldman 1-Delta: "long gamma looks attractive"** = institutional vol bid
+  (also the CME/CBOE earnings engine).
+- **Watch:** first execution (not threat) against Kharg/blockade → the $90+ leg. Iran suspended talks (TASS);
+  state-media 2-to-1 threats = propaganda-until-wired per the provenance discipline.
+
 ## ⚡ 2026-07-08 — from Jake's Jul-6/7 trading-session log (`raw/2026-07-07-wiki-log-jul6-7.md`)
 - **TRADE CLOSED (disclosed): BNO Aug-21 $40 calls, 3x @ $3.83 avg → sold −$68 total** into the Jul-7 Brent
   $76 spike (worst point −45%; near-scratch exit, sold into strength). **LESSON (now a book rule): don't hold
