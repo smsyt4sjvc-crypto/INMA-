@@ -78,3 +78,18 @@
   expectations = Fed Trap tightens. Hits the Hollow Bottom directly (work trucks/tractors, bottom-basket energy line).
 - *(two-sided watch)* Record cracks resolve by crude catching UP (bullish sleeve) or demand BREAKING
   (freight/food demand cracks). Tell = trucking spot rates.
+
+## Aviation extension (Jake's Q)
+- **Jet fuel = the same middle-distillate cut as diesel** (adjacent in the column; refiners swing between).
+  Record diesel cracks → refiners max diesel yield → jet tightens → jet cracks follow. It's a DISTILLATE
+  squeeze; aviation is strapped to it.
+- Airlines = the demand-destruction transmission: fuel 25-35% of opex, US carriers largely UNhedged since
+  2014-16 → eat spot. War multiplier: Gulf airspace closures = longer Europe-Asia reroutes (more fuel at
+  higher prices) + war-risk insurance. Fares up = CPI-services impulse (Fed Trap) or margins bleed.
+- K-shape in the air: budget carriers (squeezed-middle customers) crack first; premium-cabin carriers hold
+  longest (ULTA-vs-LULU at altitude). Note: ZERO airlines passed the quiet-health screen — the anti-toll
+  profile (commodity-price-taker, capital+labor heavy). The refiner collects what the airline bleeds.
+- **NEW FREE PHYSICAL INDICATOR: TSA daily checkpoint throughput** — least-fakeable discretionary datapoint;
+  fares up + TSA counts rolling YoY = demand destruction printing weeks before airline guidance. Pairs with
+  trucking spot rates as the two demand-break tells for the distillate crack.
+- Military: Pentagon = largest single fuel buyer; active air campaign = one more straw in the same barrel.
