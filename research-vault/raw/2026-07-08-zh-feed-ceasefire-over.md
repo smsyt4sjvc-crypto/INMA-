@@ -36,3 +36,15 @@
   ~30-40%, BEFORE execution. Threat premium in; execution premium not; the gap = the XOM tail's remaining payoff.
 - Rest of scroll = repeats of earlier tiles (10Y 4.59, UK 2Y, Novak diesel ban, Patriots, product-export ATH).
   Process note (Jake's own rule): ~7 tiles, ~2 signal — firehose re-serving yesterday's items with new timestamps.
+
+## Third scroll (same day)
+- **63MM bbl of Iranian oil STUCK AT SEA after US pulled the sanction waiver** — the buffer thread inverts:
+  (a) near-term physical TIGHTENING (Iran's ramped exports orphaned — teapots can't legally buy); (b) adds
+  to floating storage while making it UNUSABLE (visible but frozen = Schrödinger supply). Asymmetry: escalation
+  grinds oil up through a thinning usable buffer; any de-escalation deal now carries an instant 63MM-bbl
+  supply dump (crude gaps DOWN on peace). Hold both.
+- **Windward: 5 vessels changed course in Hormuz today; a crude tanker that made two WARTIME Gulf transits
+  reversed** = the physical self-embargo starting. 5 ≠ closure; the tell is the daily transit count (~36/day
+  ≈35% pre-war) rolling toward the April trough while threats continue → market prices closure before an
+  announcement. Hulls > statements.
+- Spain goods list (Treasury/USTR/Commerce) = tariff escalation, parked. Rutte backing = already logged.
