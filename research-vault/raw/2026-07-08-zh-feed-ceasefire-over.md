@@ -62,3 +62,19 @@
   China's record buffer, hoarded. Cushioned FLOOR (China bid ~$65-70), uncushioned CEILING (no SPR between a
   Kharg strike and $90+). Caveats: China consumption erosion partly real/structural (EVs ~50% of new sales,
   LNG trucking, property slump); EIA models the strategic build slowing 2027 = the floor-bid has a horizon.
+
+## Russia diesel ban — full text (ZH via Jake, adds mechanism)
+- Novak (to Putin): diesel export ban introduced to avoid domestic shortages **after Ukrainian drone attacks
+  on Russian refineries.** Diesel margins already at RECORD highs, "completely disconnected with oil prices,"
+  set to rise further.
+- *(the mechanism = the session's pattern)* Cracks disconnected from crude because **the bottleneck moved
+  downstream — drones remove REFINING capacity, not barrels.** Power-not-petroleum in fuels: value migrates
+  to the conversion chokepoint. Toll-owners: US Gulf refiners (largest un-droned complex on Earth; product
+  exports ATH = Europe replacing Russian diesel from Texas/Louisiana). VLO/MPC/PSX direct; **XOM via its
+  refining arm — the position now has a margin engine + a crude engine, paid by two different wars.**
+- *(buffers)* Distillates = least-buffered hydrocarbon: no strategic reserve of scale, −5MM draw, #2 exporter
+  gone, harvest season ahead. Worse than crude's uncushioned ceiling.
+- *(macro)* Diesel = the production-function fuel → food/goods CPI with 1-2Q lag, into de-anchoring
+  expectations = Fed Trap tightens. Hits the Hollow Bottom directly (work trucks/tractors, bottom-basket energy line).
+- *(two-sided watch)* Record cracks resolve by crude catching UP (bullish sleeve) or demand BREAKING
+  (freight/food demand cracks). Tell = trucking spot rates.
