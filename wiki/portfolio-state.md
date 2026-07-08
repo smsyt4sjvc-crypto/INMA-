@@ -86,6 +86,22 @@ hardware** — which is Jake's heaviest sleeve. Implications:
 - **Fed = NO put right now** (see [[new-economy-regime]] Warsh hawkish) → don't expect a cut to rescue the flush;
   strengthens holding the SPY puts, argues against rushing the semis ladder. VIX only 16.4 = complacency, not capitulation.
 
+## ⚡ 2026-07-08 — from Jake's Jul-6/7 trading-session log (`raw/2026-07-07-wiki-log-jul6-7.md`)
+- **TRADE CLOSED (disclosed): BNO Aug-21 $40 calls, 3x @ $3.83 avg → sold −$68 total** into the Jul-7 Brent
+  $76 spike (worst point −45%; near-scratch exit, sold into strength). **LESSON (now a book rule): don't hold
+  short-dated options into unschedulable, closed-market event risk — structure was the error, not the thesis.**
+  Longer-dated / underlying / spread / smaller instead. ⚠️ Directly applicable to the CME-call question (7/8):
+  his own precedent argues longer expiry + deeper strike or none.
+- **Hormuz framework upgraded (Jake's calibration, held on the day):** crude only runs ~$90+ on energy-
+  INFRASTRUCTURE hit or strait CLOSURE; tanker strikes + sanctions + military-target strikes get absorbed
+  (= Brent $76). Kpler 108 verified weekend crossings (~36/day ≈ ~35% of pre-war — consistent with the
+  loaded-and-masked read). Escort force (UK/FR/Oman, Duqm) = de-escalation vector. Talks resume ~Jul 10-11,
+  base case de-escalation. US revoked the Iranian oil license + tanker-seizure authority = the economic lever.
+- **Burry disclosed a NEW MU SHORT** (MU −22% off highs). His frame: FOMO/greater-fool — shorting the 2028
+  glut/terminal value, NOT near-term demand (MU fundamentals intact: $50B guide, HBM sold out, $100B SCAs).
+  He's talking his book too. **Morgan Stanley: "sell chips / buy hyperscalers"** — the rotation on institutional
+  letterhead, but published AFTER the rout = possibly ratifying, not predicting. Weight, don't panic.
+
 ## ⚡ 2026-07-07 PM — Hormuz fuse #2 lighting; ORCL credit; thesis-crowding warning
 - **Hormuz attack #3 (verified):** Qatari LNG carrier struck by projectile exiting the strait (UKMTO 082-26) —
   the MoU-break fuse from the 7/5 correction, testing live. Oil only +2.3% (WTI $70, near Feb lows) = the

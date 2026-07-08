@@ -488,6 +488,28 @@ $ IN over usable compute OUT, ignoring monetization — is THAT ratio eroding? A
   or the scarcity premium being competed/regulated/enclosed away (Meta resale, labs downshifting, China).
   Two-economy extraction + commoditization — one framework, six headlines.
 
+## 2026-07-08 ingest — the GS capex series + the cliff, redefined (from Jake's Jul-6/7 log)
+### DATA (`raw/2026-07-07-wiki-log-jul6-7.md`)
+- **GS Exhibit 1, combined hyperscaler capex CY20→27E: $74B → $126B → $227B → $406B → $740B(26E) → $996B(27E).**
+  Per-name 27E: MSFT 264, Google 259, AWS 207, Meta 171, **Oracle 95 (from 11 in '24 ≈ 9x on the weakest
+  balance sheet).**
+- **Samsung Q2 prelim (hard numbers for the cycle-top signature):** 89.4T won (~$58.4B) op profit, **19x YoY**,
+  beat consensus — the **largest quarterly operating profit of any private tech company ever** (tops NVDA
+  $53.5B, AAPL $50.85B; only Aramco bigger). **Stock fell ~5% anyway.** CXMT (China DRAM) "closing the gap far
+  faster than expected" now front-page; big-3 memory margins 75-80% drawing "regulatory pressure" chatter.
+- **"Tokenunmaxxing" [WSJ]:** OpenAI/Anthropic aggressively discounting compute to win startup share.
+- **Burry: NEW disclosed MU short** (post −22% drawdown).
+### THESIS (interpretation — NOT fact)
+- *(Stage-2 trigger, SHARPENED)* The trigger is no longer just "a hyperscaler cuts a guide" — it's **the GS 27E
+  $996B bar getting revised DOWN.** The chart is the P&S cliff's LEVEL, not its refutation — it dates the
+  thesis. Watch consensus 27E revisions, not only company statements. Adjudicator = the builder-adopter
+  earnings gap (the chart says nothing about adopter ROI).
+- *(tokenunmaxxing — logged against the book, honestly)* Labs discounting compute = the first direct datapoint
+  AGAINST the scarcity-premium/memory-wall bull read, and compression printing at the lab layer.
+- *(Burry MU — sentiment ≠ demand)* He's shorting terminal value / the 2028 CXMT glut, not near-term demand
+  (MU fundamentals intact: $50B guide, HBM sold out, $100B SCAs). Substack→CEO-quote→market-moving position =
+  narrative migration complete — and he's talking his book like everyone else.
+
 ## Counterweights (steelman the other side)
 - *(analysis)* Hyperscalers have real cash flows and can fund capex from operations far longer
   than a classic bubble; demand could be under- not over-estimated if agents/inference scale.
