@@ -543,6 +543,19 @@ $ IN over usable compute OUT, ignoring monetization — is THAT ratio eroding? A
   (MU fundamentals intact: $50B guide, HBM sold out, $100B SCAs). Substack→CEO-quote→market-moving position =
   narrative migration complete — and he's talking his book like everyone else.
 
+### 2026-07-08 — Apple executes the whale-repricing move (ONE day after the vault predicted it)
+- **[FT via ZH] "Apple interest thrusts China's CXMT into memory chip spotlight"** — Apple exploring the
+  Chinese DRAM entrant as a supplier. This IS the quiet-leverage path from the whale-antitrust thread
+  ("watch Cupertino, not Redmond") — logged 7/7, executed-in-headlines 7/8. Better than any lawsuit: it
+  funds the cartel's future competitor. Consequences: **accelerates the CXMT/2028-glut leg** (Burry's short
+  gets a whale sponsor), softens big-3 pricing power from the buyer side (the LTA floor erodes another way),
+  hands Apple negotiating cover in the antitrust era.
+- **Apple-AVGO custom-silicon deal >$30B [BBG]** — Apple deepening own-chip path; partially offsets AVGO's
+  Google→MediaTek loss; one more designer-multi-sourcing datapoint.
+- **South Korea formally in BEAR MARKET** ("memory euphoria fizzles") — the global memory derate is official.
+- **OpenAI IPO imminent tells:** BofA $520M credit line "in bid for IPO spot" (banks jockeying); GPT-5.6
+  public release approved. The S-1 = Burry's look-behind-the-circular-financing-curtain, incoming.
+
 ## Counterweights (steelman the other side)
 - *(analysis)* Hyperscalers have real cash flows and can fund capex from operations far longer
   than a classic bubble; demand could be under- not over-estimated if agents/inference scale.
