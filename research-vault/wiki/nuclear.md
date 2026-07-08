@@ -61,3 +61,14 @@ Regulatory milestone = cleanest readiness proxy (design cert → construction pe
 ## Sources
 - `raw/zerohedge-2026-06-30-smr-by-country.md`; portfolio memory (`data/jake-bishop-project-memory.csv`);
   archive `raw/archive/nuclear-mag7-outlook-2yr.md`.
+
+## US-Japan-Korea trilateral SMR MOU (Ankara NATO summit, 2026-07-07)
+- [CONFIRMED/MOU — framework not contract] Rubio/Motegi/Cho: deploy SMRs to Indo-Pacific partners; beat
+  China/Russia to emerging-market nuclear export; +$10M FIRST funding. **GEV NAMED** via the BWRX-300
+  industry initiative (GEV + Hitachi + Samsung C&T + SGE, Europe deployment) — extends the Mar-2026 US-Japan
+  $40B BWRX-300 partnership (TN/AL). Policy tailwind for Tier-A GEV.
+- *(discipline)* Constraint = licensing / HALEU fuel / first-of-a-kind execution, not frameworks. **Converts
+  to real on firm ORDERS, not MOUs** — Korea alone signed 4 SMR MOUs in 2026; MOUs are cheap, orders are signal.
+- *(calibration)* Energy Ceiling mainstreaming = confirmation AND a mild crowding flag. Listed beneficiaries =
+  real reactors clearing real licensing (GEV/CEG/OKLO/fuel), not private hype (Aalo "40-day microreactor" =
+  founder claim, not investable). Source: `raw/2026-07-07-wiki-log-jul6-7.md`.

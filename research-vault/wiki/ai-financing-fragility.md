@@ -87,6 +87,22 @@ Related: [[ai-capex-cycle]], [[market-fragility]], [[concentration]], [[consumpt
   **The escalation tell: idiosyncratic-vs-systemic — if widening spreads from ORCL to DC-ABS / neocloud paper /
   the PE-insurer complex, that's the correlation event starting.** HY OAS still tight = not systemic yet.
 
+## Counterweight — capacity is LOOSE; the fuse is POLITICAL (2026-07-08, from Jake's Jul-6/7 log)
+- *(reframe)* The sustainability question is **legitimacy/political, NOT balance-sheet capacity.** Hyperscaler
+  IG leverage ~1.8x (vs ~2.3x market, 2.5-3.5x IG industrials), AA credits, huge FCF; AMZN's $25B 8-part bond
+  absorbed easily — the market funds $200B+ more without blinking. **The fragility is Oracle (27E capex 95 vs
+  11 in '24 = 9x on the weakest balance sheet), the neoclouds, and the insurance chain — NOT MSFT/GOOGL/AMZN.**
+- *(layoffs = runway, not distress)* Margin-defense cuts manufacture the FCF that funds capex. Not an
+  additive stressor.
+- *(circular exposure is LAGGING)* The loops are already public (NVDA↔OpenAI, Anthropic stakes, MU↔Anthropic);
+  they get MARKED on the first down-quarter, not discovered before. Deceleration forces the disclosure.
+- *(the twitchy fuse)* **Political:** "borrowing to build the robot that took your job" polls ~70% → first
+  serious candidate running on it into midterms = regulatory risk premium (windfall/displacement taxes, DC-power
+  restrictions) BEFORE the financials break. Ties the Hollow-Bottom-goes-electoral thread.
+- *(the watch that matters)* **Hyperscaler IG credit spreads** — funding gets WITHDRAWN on belief-shift, not
+  exhausted (2000-fiber analog: money pulled while paper capacity remained). ORCL CDS at 198bps is the leading
+  edge; the systemic tell is the spread complex moving together.
+
 ## Falsifiers / watch
 - GPU-backed ABS spreads widen / a rated GPU deal gets downgraded → collateral-quality repricing starting.
 - A PE-owned insurer / Bermuda reinsurer flagged by NAIC/IMF for AI-credit concentration → the chain surfacing.
