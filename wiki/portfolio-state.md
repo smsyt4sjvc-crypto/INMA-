@@ -6,7 +6,19 @@ Related: [[market-fragility]], [[power-not-petroleum]], [[gold-flows]].
 > Firewall: DATA = positions/levels the user has actually disclosed. THESIS = the reasoning.
 > This note describes; it does not advise. Sizing/execution are the user's.
 
-## DATA (disclosed positions — as of 2026-07-07)
+## ⚠️ DATA — CORRECTED ACTUAL BOOK (Jake's direct disclosure, 2026-07-09)
+**The entire funded book is: SPY Dec 745 PUTS + SPAXX (cash). Nothing else.**
+- Jake verbatim: "I don't have any money in anything else. Not the rotation/HC basket or anything.
+  The spy puts. That's is. And spaxx."
+- → All prior position listings below (MU sleeve, XOM, LLY, nuclear, VG/LNG, semis-from-rungs) were
+  **planning-file/paper positions, NOT funded holdings** (or no longer held). Every earlier "book
+  implication" in the vault analyzing those names as exposure was analysis of paper. Retained below
+  struck-through-in-spirit for the record per firewall rule 4 — do not treat as holdings.
+- Confirmed real trades: BNO Aug $40 calls (closed 7/7, −$68). GOOGL 355/375 call spread 7/31 —
+  **status unconfirmed** (was pricing at $7.15 mid on 7/9; Jake to confirm fill).
+- Healthcare/quiet-health basket = Fidelity PAPER watchlist (1sh tracking). Not funded.
+
+## DATA (prior planning-file positions — NOT the funded book; kept for record)
 - **Cash:** SPAXX dry powder (money-market, ~4–5% yield). Deliberately underexposed.
 - **⚠️ AI-semi GTC ladder CANCELLED (2026-07-07, during the chip drawdown).** Prior rungs for reference:
   AMD 330/390, NVDA 150/170/190 *(190 had filled — position held)*, MRVL 178/210/243, TSM 359/399, MU 740/850.
@@ -174,3 +186,17 @@ hardware** — which is Jake's heaviest sleeve. Implications:
 
 ## Sources
 - User disclosures across session, through 2026-07-01.
+
+## ⚡ 2026-07-09 — the "just buy the semi basket" impulse (logged, not executed)
+- Context: chips V-BOUNCED hard off Monday (scanner prices: MU 901→1015 +12.7%, MRVL 222→244 +10%,
+  AVGO 360→389 +8%) = **the rotation-stickiness falsifier PARTIALLY FIRING** (chips V-bounce within
+  1-3 weeks → flush, not regime). On the record per the falsifiability rule: if the bounce holds through
+  the week, the sticky-rotation read takes a real hit and the bear lean owes an audit.
+- Jake's impulse: fund a SOXX-lookalike basket long (book = cash + SPY puts → this would create a
+  long-semis/short-SPY pair = "semis lead again," the exact thesis retired 24h earlier). Behavioral flag
+  (his own Jul-6/7 meta-rule, bullish direction this time): the only new input between "not convicted
+  chips come back" and "just buy the basket" was PRICE. Every basket name trades ABOVE the cancelled
+  rungs (MU 20% above the 850 top rung; AMD 40% above 390).
+- Disciplined menu offered: (1) re-rack GTC ladder on BOTTLENECK names only (TSM/MU/AVGO, not DELL/
+  analog) at chosen prices; (2) starter tranche + rungs; (3) wait for the physical confirm already
+  defined (DDR5 holding + TSM guide ~Jul 16). TSM/ASML earnings ~Jul 15-16 = known catalysts days away.
