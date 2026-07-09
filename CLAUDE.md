@@ -173,7 +173,7 @@ Static site on GitHub Pages (main branch), Vercel for the AI quote-analysis func
 
 **Internal tools (savable to home screen as PWAs):**
 - `estimate.html` — **Offer Sheet Builder** (icon E) — the current 2-page builder (renamed from "Estimate"). Fair-market fee block (Subtotal → INMA Services __% deducted → New Subtotal + Sales Tax → Contractor Total). Auto-saves to localStorage (survives leaving/returning; "+ New" button clears for the next customer). Imports a shared contact .vcf to fill homeowner fields. Generates the offer sheet + a branded lined notes page (page 2).
-- `field-estimate.html` — older Field Estimator (icon I) with photos + contractor pack.
+- `field-estimate.html` — **Contractor Package Builder** (icon I) — wall-by-wall (photo + field notes), line items, and a materials/notes area. Exports ONE contractor-facing package (PDF via print, or editable .docx) with scope, wall photos, line items, and totals (Subtotal → Tax → Total — no INMA fee shown; this is what contractors see). AI generation removed; moves freely, no forced fields. Jake builds it, saves the PDF, and uploads it to an offer post (/offers).
 - `service-agreement.html` — **Service Agreement builder** with updated advocate language, **on-screen signature pads** (sign with finger → Print/Save PDF → text it), Import from Contacts.
 - `estimate-blank.html` — blank **Fair Market Estimate** form to print and fill by hand on-site.
 - `/agreement.html` redirects to `service-agreement.html` (old duplicate retired).
