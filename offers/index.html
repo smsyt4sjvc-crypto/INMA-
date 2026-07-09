@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Open Offers — Fully-Scoped Exterior Jobs · INMA · Spokane &amp; Inland NW</title>
+<meta name="description" content="Browse fully-scoped, fixed-price exterior remodeling jobs across the Inland Northwest. Qualified contractors apply to be presented to the homeowner. Siding, windows, doors, roofs & decks.">
+<meta name="theme-color" content="#1C1A17">
+<link rel="apple-touch-icon" href="/bear-logo.jpg">
+<meta property="og:title" content="Open Offers — INMA">
+<meta property="og:description" content="Fully-scoped, fixed-price exterior jobs. Browse and apply.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  *,*::before,*::after{box-sizing:border-box}
+  body{margin:0;background:#1C1A17;color:#F5F2ED;font-family:'Outfit',system-ui,sans-serif;line-height:1.6;-webkit-font-smoothing:antialiased}
+  a{color:#B8941F}
+  .wrap{max-width:1040px;margin:0 auto;padding:0 20px}
+
+  .topbar{position:sticky;top:0;z-index:20;background:rgba(28,26,23,.94);backdrop-filter:blur(8px);border-bottom:1px solid #3a352e;padding:11px 20px;display:flex;align-items:center;gap:12px}
+  .topbar img{width:34px;height:34px;border-radius:8px;object-fit:cover;border:1px solid #3a352e}
+  .topbar .mark{font-family:'DM Serif Display',serif;font-size:21px;color:#B8941F;letter-spacing:1px}
+  .topbar .home{margin-left:auto;font-size:13px;font-weight:600;color:#9A958E;text-decoration:none}
+
+  header.hero{padding:44px 0 30px;text-align:center;border-bottom:1px solid #3a352e}
+  header.hero .eyebrow{font-size:12px;letter-spacing:3px;text-transform:uppercase;color:#B8941F;font-weight:700}
+  header.hero h1{font-family:'DM Serif Display',serif;font-size:clamp(30px,5vw,46px);margin:10px 0 12px;line-height:1.1}
+  header.hero p{color:#B0A99E;max-width:620px;margin:0 auto;font-size:16px}
+  header.hero .privacy{margin-top:16px;display:inline-block;font-size:12.5px;color:#8FB37E;background:rgba(107,127,94,.14);border:1px solid rgba(107,127,94,.35);padding:6px 14px;border-radius:999px}
+
+  .count{color:#9A958E;font-size:13px;letter-spacing:1px;text-transform:uppercase;font-weight:600;margin:28px 0 14px}
+
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px;padding-bottom:20px}
+  .card{background:#2C2A27;border:1px solid #3a352e;border-radius:16px;overflow:hidden;display:flex;flex-direction:column;transition:border-color .15s,transform .15s}
+  .card:hover{border-color:#B8941F;transform:translateY(-2px)}
+  .card .cover{aspect-ratio:16/10;background:linear-gradient(135deg,#3a352e,#1C1A17);display:flex;align-items:center;justify-content:center;color:#5a544a;font-size:38px;position:relative}
+  .card .cover img{width:100%;height:100%;object-fit:cover;display:block}
+  .card .cover .type{position:absolute;top:10px;left:10px;background:#B8941F;color:#1C1A17;font-size:10px;font-weight:800;letter-spacing:1px;text-transform:uppercase;padding:4px 10px;border-radius:5px}
+  .card .body{padding:16px 18px;display:flex;flex-direction:column;flex:1}
+  .card .area{font-size:12.5px;color:#9A958E;letter-spacing:.5px}
+  .card .price{font-family:'DM Serif Display',serif;font-size:30px;color:#F5F2ED;line-height:1;margin:4px 0 10px}
+  .card .scope{font-size:14px;color:#C9C1B4;flex:1;margin-bottom:14px}
+  .card .actions{display:flex;gap:8px}
+  .card .actions a{flex:1;text-align:center;padding:11px;border-radius:9px;font-size:13.5px;font-weight:700;text-decoration:none}
+  .card .actions .view{background:transparent;color:#F5F2ED;border:1px solid #4a453e}
+  .card .actions .view:hover{border-color:#B8941F;color:#B8941F}
+  .card .actions .apply{background:#B8941F;color:#1C1A17}
+  .card .actions .apply:hover{background:#d4a828}
+
+  .empty{text-align:center;color:#9A958E;padding:50px 20px;font-size:15px}
+  .loading{text-align:center;color:#7A756D;padding:40px;font-size:14px}
+
+  footer{border-top:1px solid #3a352e;padding:28px 0 60px;text-align:center;color:#7A756D;font-size:12px;line-height:1.9}
+  footer a{color:#9A958E;text-decoration:none}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <img src="/bear-logo.jpg" alt="INMA" onerror="this.style.display='none'">
+  <span class="mark">INMA</span>
+  <a href="/" class="home">inmagent.com →</a>
+</div>
+
+<div class="wrap">
+  <header class="hero">
+    <div class="eyebrow">Open Offers · Contractors</div>
+    <h1>Fully-Scoped Jobs. Fixed Prices.</h1>
+    <p>Real exterior remodeling jobs across the Inland Northwest — professionally scoped and priced by INMA. Find one you'll do at the offer price, then apply to be presented to the homeowner.</p>
+    <span class="privacy">🔒 Homeowner name &amp; address shown only after you pass the credential gate</span>
+  </header>
+
+  <div class="count" id="count">Loading open offers…</div>
+  <div class="grid" id="grid"></div>
+  <div class="loading" id="loading">Loading…</div>
+
+  <footer>
+    <strong style="color:#9A958E">INMA</strong> · Inland Northwest Marketing Affiliates · Spokane, WA · <a href="/">inmagent.com</a><br>
+    INMA presents each of these as the homeowner's offer, as an advocate for our client. INMA is not a contractor.
+  </footer>
+</div>
+
+<script>
+  // ── Point this at your published Google Sheet CSV once it's set up.
+  //    (In the Sheet: File → Share → Publish to web → CSV → copy the link.)
+  const SHEET_CSV = '';
+
+  // Sample offers shown until the Sheet is connected (so the board is never empty).
+  const SAMPLE = [
+    { status:'open', title:'Full Hardie Siding Replacement', type:'Siding', area:'Spokane Valley, WA', price:'$28,400',
+      scope:'Full tearoff, ~2,400 sq ft. Hardie ColorPlus board-and-batten, all four sides. New wrap, flashing, fascia & soffit.', cover:'', package:'/offers/example-siding.html', apply:'https://docs.google.com/forms/d/e/1FAIpQLSf4w1eKqPDeA6FhYl8IIc4WE2wzhfRgciV2JvFbgtemu9QCyg/viewform' },
+    { status:'open', title:'12-Window Replacement', type:'Windows', area:'North Spokane, WA', price:'$14,900',
+      scope:'Remove & replace 12 windows, mixed sizes. Custom metal wrap on all exterior trim. Interior returns as needed.', cover:'', package:'', apply:'https://docs.google.com/forms/d/e/1FAIpQLSf4w1eKqPDeA6FhYl8IIc4WE2wzhfRgciV2JvFbgtemu9QCyg/viewform' },
+    { status:'open', title:'Metal Roof Install', type:'Roofing', area:'Colville, WA', price:'$21,750',
+      scope:'Tearoff & standing-seam metal roof, ~24 sq. New underlayment, drip edge, ridge & valley flashing. Haul-off included.', cover:'', package:'', apply:'https://docs.google.com/forms/d/e/1FAIpQLSf4w1eKqPDeA6FhYl8IIc4WE2wzhfRgciV2JvFbgtemu9QCyg/viewform' },
+  ];
+
+  function driveImg(url){
+    // Convert common Google Drive share links into a direct-image URL.
+    const m = (url||'').match(/\/d\/([A-Za-z0-9_-]+)/) || (url||'').match(/[?&]id=([A-Za-z0-9_-]+)/);
+    return m ? 'https://drive.google.com/thumbnail?id=' + m[1] + '&sz=w800' : url;
+  }
+  function esc(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+  function render(rows){
+    const open = rows.filter(r => (r.status||'open').trim().toLowerCase() !== 'closed');
+    document.getElementById('loading').style.display = 'none';
+    const grid = document.getElementById('grid');
+    document.getElementById('count').textContent = open.length + (open.length === 1 ? ' open offer' : ' open offers');
+    if (!open.length){ grid.innerHTML = '<div class="empty">No open offers right now — check back soon.</div>'; return; }
+    grid.innerHTML = open.map(r => {
+      const cover = (r.cover||'').trim();
+      const coverHtml = cover
+        ? `<img src="${esc(driveImg(cover))}" alt="" loading="lazy" onerror="this.style.display='none'">`
+        : '🏠';
+      const view = (r.package||'').trim()
+        ? `<a class="view" href="${esc(r.package)}" target="_blank" rel="noopener">View Scope</a>` : '';
+      const apply = (r.apply||'').trim()
+        ? `<a class="apply" href="${esc(r.apply)}" target="_blank" rel="noopener">Apply →</a>`
+        : `<a class="apply" href="tel:+15092517792">Call to Apply</a>`;
+      return `<div class="card">
+        <div class="cover">${coverHtml}${r.type ? `<span class="type">${esc(r.type)}</span>` : ''}</div>
+        <div class="body">
+          <div class="area">${esc(r.area||'Inland Northwest')}</div>
+          <div class="price">${esc(r.price||'—')}</div>
+          <div class="scope">${esc(r.scope||'')}</div>
+          <div class="actions">${view}${apply}</div>
+        </div>
+      </div>`;
+    }).join('');
+  }
+
+  // Minimal CSV parser (handles quoted fields with commas/newlines).
+  function parseCSV(text){
+    const rows = []; let row = [], cur = '', q = false;
+    for (let i=0;i<text.length;i++){
+      const c = text[i];
+      if (q){
+        if (c === '"' && text[i+1] === '"'){ cur += '"'; i++; }
+        else if (c === '"'){ q = false; }
+        else cur += c;
+      } else {
+        if (c === '"') q = true;
+        else if (c === ','){ row.push(cur); cur=''; }
+        else if (c === '\n'){ row.push(cur); rows.push(row); row=[]; cur=''; }
+        else if (c === '\r'){ /* skip */ }
+        else cur += c;
+      }
+    }
+    if (cur.length || row.length){ row.push(cur); rows.push(row); }
+    return rows;
+  }
+  function rowsToObjects(rows){
+    if (!rows.length) return [];
+    const head = rows[0].map(h => h.trim().toLowerCase());
+    return rows.slice(1).filter(r => r.some(c => (c||'').trim())).map(r => {
+      const o = {}; head.forEach((h,i) => o[h] = (r[i]||'').trim()); return o;
+    });
+  }
+
+  if (SHEET_CSV){
+    fetch(SHEET_CSV).then(r => r.text()).then(t => render(rowsToObjects(parseCSV(t))))
+      .catch(() => render(SAMPLE));
+  } else {
+    render(SAMPLE);
+  }
+</script>
+</body>
+</html>
