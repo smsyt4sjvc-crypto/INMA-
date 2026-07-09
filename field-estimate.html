@@ -10,8 +10,8 @@
 <link rel="manifest" href="/field-estimate-manifest.json">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="INMA Estimator">
-<title>INMA Field Estimator</title>
+<meta name="apple-mobile-web-app-title" content="INMA Contractor Pkg">
+<title>INMA — Contractor Package Builder</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
@@ -112,7 +112,7 @@
   <header class="topbar">
     <div class="brand">
       <div class="brand-mark">INMA</div>
-      <div class="brand-sub">Field Estimator</div>
+      <div class="brand-sub">Contractor Package</div>
     </div>
     <div class="dots" id="dots"></div>
   </header>
@@ -161,52 +161,30 @@
       </div>
     </section>
 
-    <!-- STEP 3 — GENERATE & EDIT -->
+    <!-- STEP 3 — LINE ITEMS, MATERIALS, EXPORT -->
     <section class="step" data-step="3">
       <div class="card">
-        <h2>Generate &amp; Edit</h2>
-        <p class="sub">AI drafts the estimate from your walls. Edit anything before saving.</p>
+        <h2>Line Items</h2>
+        <p class="sub">Break down the work — materials &amp; labor, line by line.</p>
+        <div id="linesHost"></div>
+        <button class="btn-add" id="addLineBtn" type="button">+ Add Line</button>
+      </div>
 
-        <button class="btn-generate" id="generateBtn" type="button">✨ Generate Estimate with AI</button>
-        <button class="btn-ghost" id="skipAiBtn" type="button" style="width:100%;margin-top:10px;font-size:13px;opacity:.8">Skip AI — Fill In Manually</button>
-        <div id="generateError" style="display:none"></div>
-        <div id="staleBanner" class="stale-banner" style="display:none">Walls changed since last generate. Tap Regenerate below when ready.</div>
+      <div class="card">
+        <h2>Materials &amp; Extra Notes</h2>
+        <p class="sub">Counts, special-order items, access/staging, punch list — anything the contractor needs.</p>
+        <div class="field"><textarea id="materialList" class="tall" placeholder="E.g. 4 light blocks, 2 gable vents, 3 hose-bib blocks, 8 outside corners, tradesman trim throughout. Dumpster on the driveway. Watch the flower beds on the east side."></textarea></div>
+      </div>
 
-        <div id="previewArea" style="display:none">
-          <div class="preview-section">
-            <h3>Customer-Facing Scope</h3>
-            <div class="field"><textarea id="customerScope" class="tall" placeholder="Plain-English summary for the homeowner."></textarea></div>
-          </div>
+      <div class="card">
+        <h2>Totals</h2>
+        <div class="totals" id="totalsBox"></div>
+      </div>
 
-          <div class="preview-section">
-            <h3>Contractor Scope</h3>
-            <div class="field"><textarea id="contractorScope" class="tall" placeholder="Technical scope, per-area notes, access/staging, punch list."></textarea></div>
-          </div>
-
-          <div class="preview-section">
-            <h3>Material List (Contractor)</h3>
-            <div class="field"><textarea id="materialList" class="tall" placeholder="Count of light blocks, gable vents, hose bib blocks, corners, trim styles, etc."></textarea></div>
-          </div>
-
-          <div class="preview-section">
-            <h3>Line Items</h3>
-            <div id="linesHost"></div>
-            <button class="btn-add" id="addLineBtn" type="button">+ Add Line</button>
-          </div>
-
-          <div class="preview-section">
-            <h3>Totals</h3>
-            <div class="totals" id="totalsBox"></div>
-          </div>
-
-          <div class="save-grid">
-            <button class="btn-ghost" id="saveCustomerBtn" type="button">📄 Customer Estimate (PDF)</button>
-            <button class="btn-primary" id="saveContractorBtn" type="button">📋 Contractor Pack (DOCX)</button>
-          </div>
-          <p style="font-size:12px;opacity:.5;text-align:center;margin-top:14px">Customer opens in a new tab — use your browser's Print / Share to save. Contractor downloads as an editable .docx.</p>
-
-          <button class="btn-ghost" id="regenBtn" type="button" style="width:100%;margin-top:18px;border-color:#6b5a2a;color:#e0c878">⟳ Regenerate from walls (overwrites edits)</button>
-        </div>
+      <div class="card" style="text-align:center;background:transparent;border:0;box-shadow:none;padding:0">
+        <button class="btn-primary" id="savePackageBtn" type="button" style="width:100%;padding:18px;font-size:16px">📦 Generate Contractor Package</button>
+        <button class="btn-ghost" id="saveDocxBtn" type="button" style="width:100%;margin-top:10px">Download as .docx (editable)</button>
+        <p style="font-size:12px;opacity:.5;text-align:center;margin-top:14px">Opens the package in a new tab — Print / Save PDF, then upload that file to the offer post.</p>
       </div>
     </section>
 
@@ -231,8 +209,6 @@ const state = {
   generalScope: '',
   walls: [],           // [{id, dataUrl, mediaType, notes}]
   editing: null,       // {id?, dataUrl?, mediaType?, notes} — null when not editing
-  customerScope: '',
-  contractorScope: '',
   materialList: '',
   previewLines: [],    // [{id, desc, qty, unit, rate}]
   taxPct: '',
@@ -241,7 +217,6 @@ const state = {
 };
 const TOTAL_STEPS = 3;
 const MAX_WALLS = 12;
-const API_URL = 'https://inma-five.vercel.app/api/generate-estimate';
 
 const $ = (s,r=document)=>r.querySelector(s);
 const $$ = (s,r=document)=>Array.from(r.querySelectorAll(s));
@@ -286,8 +261,9 @@ function updateStepUI(){
   $('#nextBtn').style.visibility = state.step === TOTAL_STEPS ? 'hidden' : 'visible';
   $('#nextBtn').textContent = 'Next →';
   if (state.step === TOTAL_STEPS) {
-    $('#staleBanner').style.display = (state.generated && state.stale) ? 'block' : 'none';
-    if (state.generated) renderTotals();
+    if (!state.previewLines.length) state.previewLines.push({ id: uid(), desc:'', qty:0, unit:'', rate:0 });
+    renderLines();
+    renderTotals();
   }
   window.scrollTo({top:0, behavior:'smooth'});
 }
@@ -469,106 +445,25 @@ function startEditWall(id){
   renderWalls();
 }
 
-/* ============ STEP 3 — GENERATE, PREVIEW, EDIT, SAVE ============ */
+/* ============ STEP 3 — LINE ITEMS, MATERIALS, EXPORT ============ */
 function bindStep3(){
-  $('#generateBtn').addEventListener('click', () => doGenerate(false));
-  $('#skipAiBtn').addEventListener('click', () => {
-    $('#previewArea').style.display = 'block';
-    $('#generateBtn').style.display = 'none';
-    $('#skipAiBtn').style.display = 'none';
-    if (!state.previewLines.length) {
-      state.previewLines.push({ id: uid(), desc:'', qty:0, unit:'', rate:0 });
-      renderLines();
-    }
-    $('#customerScope').focus();
-  });
-  $('#regenBtn').addEventListener('click', () => doGenerate(true));
   $('#addLineBtn').addEventListener('click', () => {
     state.previewLines.push({ id: uid(), desc:'', qty:0, unit:'', rate:0 });
     renderLines();
     renderTotals();
   });
-  // Live bind for the prose textareas
-  $('#customerScope').addEventListener('input', e => { state.customerScope = e.target.value; });
-  $('#contractorScope').addEventListener('input', e => { state.contractorScope = e.target.value; });
   $('#materialList').addEventListener('input', e => { state.materialList = e.target.value; });
-  // Save buttons — must call window.open synchronously for iOS
-  $('#saveCustomerBtn').addEventListener('click', openCustomerEstimate);
-  $('#saveContractorBtn').addEventListener('click', downloadContractorDocx);
+  // Export — window.open MUST be synchronous for iOS Safari.
+  $('#savePackageBtn').addEventListener('click', openContractorPackage);
+  $('#saveDocxBtn').addEventListener('click', downloadContractorDocx);
 }
 
-async function doGenerate(isRegen){
-  const btn = isRegen ? $('#regenBtn') : $('#generateBtn');
-  const errBox = $('#generateError');
-  errBox.style.display = 'none';
-  errBox.innerHTML = '';
-
-  if (!state.walls.length && !(state.generalScope||'').trim()) {
-    errBox.className = 'error-banner';
-    errBox.textContent = 'Add a general scope note on Step 1 or at least one wall on Step 2 before generating.';
-    errBox.style.display = 'block';
-    return;
-  }
-
-  const originalLabel = btn.textContent;
-  btn.disabled = true;
-  btn.innerHTML = `<span class="spinner"></span>Thinking…`;
-
-  try {
-    const body = {
-      jobInfo: { ...state.job },
-      generalScope: state.generalScope || '',
-      walls: state.walls.map((w, idx) => ({
-        label: `Wall ${idx+1}`,
-        image: w.dataUrl ? { mediaType: w.mediaType || 'image/jpeg', base64: (w.dataUrl.split(',')[1] || '') } : null,
-        notes: w.notes || ''
-      }))
-    };
-
-    const resp = await fetch(API_URL, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(body)
-    });
-    if (!resp.ok) throw new Error(`Server returned ${resp.status}`);
-    const data = await resp.json();
-    if (!data || !data.estimate) throw new Error('No estimate in response.');
-    const est = data.estimate;
-
-    state.customerScope = est.customer_scope || '';
-    state.contractorScope = est.contractor_scope || '';
-    state.materialList = est.material_list || '';
-    state.previewLines = Array.isArray(est.line_items) ? est.line_items.map(li => ({
-      id: uid(),
-      desc: li.desc || li.desc_customer || li.desc_contractor || '',
-      qty: Number(li.qty)||0,
-      unit: li.unit || '',
-      rate: Number(li.rate)||0
-    })) : [];
-    state.generated = true;
-    state.stale = false;
-
-    paintPreview();
-  } catch(err) {
-    errBox.className = 'error-banner';
-    errBox.textContent = 'Generate failed: ' + (err && err.message ? err.message : err) + '. Check your connection and try again.';
-    errBox.style.display = 'block';
-  } finally {
-    btn.disabled = false;
-    btn.textContent = originalLabel;
-  }
-}
-
-function paintPreview(){
-  $('#previewArea').style.display = 'block';
-  $('#staleBanner').style.display = state.stale ? 'block' : 'none';
-  $('#customerScope').value = state.customerScope || '';
-  $('#contractorScope').value = state.contractorScope || '';
-  $('#materialList').value = state.materialList || '';
-  renderLines();
-  renderTotals();
-  // Relabel generate button
-  $('#generateBtn').textContent = '✨ Generate Estimate with AI';
+function openContractorPackage(){
+  const w = window.open('', '_blank');
+  if (!w) { alert('Pop-up blocked. Allow pop-ups for this site.'); return; }
+  w.document.write('<p style="font-family:sans-serif;padding:20px">Preparing package…</p>');
+  const html = buildContractorHTML();
+  w.document.open(); w.document.write(html); w.document.close();
 }
 
 function renderLines(){
@@ -610,13 +505,11 @@ function computeTotals(){
     return { ...l, qty, rate, total: qty*rate };
   });
   const jobSubtotal = rows.reduce((a,r)=>a+r.total, 0);
-  const inmaFee = jobSubtotal * 0.10;
-  const afterFee = jobSubtotal - inmaFee;
   const taxPctNum = parseFloat(state.taxPct);
   const hasTax = !isNaN(taxPctNum) && taxPctNum > 0;
-  const taxAmount = hasTax ? afterFee * (taxPctNum/100) : 0;
-  const contractorTotal = afterFee + taxAmount;
-  return { rows, jobSubtotal, inmaFee, afterFee, taxPct: state.taxPct, hasTax, taxAmount, contractorTotal };
+  const taxAmount = hasTax ? jobSubtotal * (taxPctNum/100) : 0;
+  const total = jobSubtotal + taxAmount;
+  return { rows, jobSubtotal, taxPct: state.taxPct, hasTax, taxAmount, total };
 }
 
 function renderTotals(){
@@ -624,16 +517,14 @@ function renderTotals(){
   const taxPctVal = escapeAttr(state.taxPct);
   $('#totalsBox').innerHTML = `
     <div class="line"><span>Subtotal</span><strong>${fmtMoney(t.jobSubtotal)}</strong></div>
-    <div class="line fee"><span>− INMA Fee (10%)</span><strong>−${fmtMoney(t.inmaFee)}</strong></div>
-    <div class="line"><span>New Subtotal</span><strong>${fmtMoney(t.afterFee)}</strong></div>
     <div class="line"><span class="tax-inline">Sales Tax <input id="taxPctInput" type="number" inputmode="decimal" step="0.01" placeholder="0.0" value="${taxPctVal}">%</span><strong id="tTax">${t.hasTax ? fmtMoney(t.taxAmount) : '—'}</strong></div>
-    <div class="line big keeps"><span>Total Due to Contractor</span><strong id="tTotal">${fmtMoney(t.contractorTotal)}</strong></div>
+    <div class="line big keeps"><span>Total</span><strong id="tTotal">${fmtMoney(t.total)}</strong></div>
   `;
   $('#taxPctInput').addEventListener('input', e => {
     state.taxPct = e.target.value;
     const t2 = computeTotals();
     $('#tTax').textContent = t2.hasTax ? fmtMoney(t2.taxAmount) : '—';
-    $('#tTotal').textContent = fmtMoney(t2.contractorTotal);
+    $('#tTotal').textContent = fmtMoney(t2.total);
   });
 }
 
@@ -649,108 +540,6 @@ function getJobHeader(){
   };
 }
 
-/* ---- CUSTOMER ESTIMATE — PDF via print window ---- */
-function openCustomerEstimate(){
-  // window.open MUST be synchronous for iOS Safari.
-  const w = window.open('', '_blank');
-  if (!w) { alert('Pop-up blocked. Allow pop-ups for this site.'); return; }
-  w.document.write('<p style="font-family:sans-serif;padding:20px">Preparing estimate…</p>');
-  const html = buildCustomerHTML();
-  w.document.open(); w.document.write(html); w.document.close();
-}
-
-function buildCustomerHTML(){
-  const t = computeTotals();
-  const j = getJobHeader();
-  const rows = t.rows.map(r => `
-    <tr>
-      <td>${escapeText(r.desc)}</td>
-      <td class="num">${r.qty.toLocaleString('en-US',{maximumFractionDigits:2})}</td>
-      <td class="num">${escapeText(r.unit||'')}</td>
-      <td class="num">${fmtMoney(r.rate)}</td>
-      <td class="num">${fmtMoney(r.total)}</td>
-    </tr>`).join('');
-  const scopePara = (state.customerScope||'').trim();
-  return `<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Estimate ${escapeText(j.num)} — INMA</title>
-<style>
-  @page{size:letter;margin:0.6in}
-  body{font-family:'Helvetica Neue',Arial,sans-serif;color:#1C1A17;max-width:760px;margin:20px auto;padding:0 24px;line-height:1.5}
-  .letterhead{display:flex;justify-content:space-between;align-items:flex-start;border-bottom:3px solid #B8941F;padding-bottom:14px;margin-bottom:22px}
-  .lh-left .brand{font-size:30px;font-weight:800;color:#B8941F;letter-spacing:2px}
-  .lh-left .tag{font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:#555;margin-top:2px}
-  .lh-left .contact{font-size:13px;margin-top:10px;color:#333}
-  .lh-right{text-align:right;font-size:13px}
-  .lh-right .title{font-size:22px;font-weight:700;letter-spacing:3px;color:#1C1A17;margin-bottom:6px}
-  .lh-right .meta{color:#444}
-  .bill{background:#F5F2ED;border-radius:10px;padding:14px 18px;margin-bottom:20px}
-  .bill .label{font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#777;margin-bottom:4px}
-  .bill .name{font-size:16px;font-weight:700}
-  .bill .addr{font-size:14px;color:#444}
-  .bill .ct{font-size:12px;color:#555;margin-top:4px}
-  .scope{margin-bottom:18px;font-size:14px;line-height:1.6;white-space:pre-wrap}
-  .scope-label{font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#B8941F;margin-bottom:6px;font-weight:600}
-  table.items{width:100%;border-collapse:collapse;margin-bottom:14px}
-  table.items th{background:#1C1A17;color:#F5F2ED;font-size:11px;letter-spacing:1.5px;text-transform:uppercase;padding:10px 8px;text-align:left;font-weight:600}
-  table.items th.num,table.items td.num{text-align:right}
-  table.items td{padding:12px 8px;border-bottom:1px solid #eee;font-size:13px;vertical-align:top}
-  .totals{margin-left:auto;width:320px;font-size:14px}
-  .totals .r{display:flex;justify-content:space-between;padding:6px 0}
-  .totals .r.tot{border-top:2px solid #1C1A17;margin-top:6px;padding-top:10px;font-weight:700;font-size:17px}
-  .fmv-note{margin-top:14px;background:#F5F2ED;border-left:4px solid #B8941F;padding:10px 14px;font-size:12px;color:#333;line-height:1.5}
-  .footer-notes{margin-top:30px;font-size:11.5px;color:#555;border-top:1px solid #ddd;padding-top:14px;line-height:1.55}
-  .footer-notes p{margin:6px 0}
-  .pitch{margin-top:18px;background:#F5F2ED;border-left:4px solid #B8941F;padding:12px 14px;font-size:12px;color:#333}
-  .print-btn{position:fixed;top:16px;right:16px;background:#B8941F;color:#1C1A17;border:none;padding:12px 18px;border-radius:8px;font-weight:700;cursor:pointer;font-family:inherit;box-shadow:0 4px 12px rgba(0,0,0,.15);z-index:10}
-  .back-btn{position:fixed;top:16px;left:16px;background:#1C1A17;color:#F5F2ED;border:none;padding:12px 18px;border-radius:8px;font-weight:700;cursor:pointer;font-family:inherit;box-shadow:0 4px 12px rgba(0,0,0,.15);z-index:10;display:inline-flex;align-items:center;gap:6px}
-  @media print{.print-btn,.back-btn{display:none}}
-</style></head><body>
-<button class="back-btn" onclick="try{window.close();}catch(e){} setTimeout(function(){if(!window.closed){window.location.href='/field-estimate.html';}},150);">← Back to Estimator</button>
-<button class="print-btn" onclick="window.print()">Print / Save PDF</button>
-<div class="letterhead">
-  <div class="lh-left">
-    <div class="brand">INMA</div>
-    <div class="tag">Inland Northwest Marketing Affiliates</div>
-    <div class="contact">Spokane, WA · inmagent.com</div>
-  </div>
-  <div class="lh-right">
-    <div class="title">ESTIMATE</div>
-    <div class="meta"><strong>Date:</strong> ${escapeText(j.date)}</div>
-    <div class="meta"><strong>Estimate #:</strong> ${escapeText(j.num)}</div>
-  </div>
-</div>
-<div class="bill">
-  <div class="label">Prepared For</div>
-  <div class="name">${escapeText(j.owner)}</div>
-  <div class="addr">${escapeText(j.address)}</div>
-  ${(j.phone || j.email) ? `<div class="ct">${escapeText([j.phone, j.email].filter(Boolean).join(' · '))}</div>` : ''}
-</div>
-${scopePara ? `<div class="scope-label">Project Scope</div><div class="scope">${escapeText(scopePara)}</div>` : ''}
-<table class="items">
-  <thead><tr><th>Description</th><th class="num">Qty</th><th class="num">Unit</th><th class="num">$/Unit</th><th class="num">Total</th></tr></thead>
-  <tbody>${rows || '<tr><td colspan="5" style="text-align:center;color:#999;padding:20px">No line items.</td></tr>'}</tbody>
-</table>
-<div class="totals">
-  <div class="r"><span>Subtotal</span><span>${fmtMoney(t.jobSubtotal)}</span></div>
-  <div class="r" style="color:#8a6d0f"><span>− INMA Fee (10%)</span><span>−${fmtMoney(t.inmaFee)}</span></div>
-  <div class="r"><span>New Subtotal</span><span>${fmtMoney(t.afterFee)}</span></div>
-  ${t.hasTax ? `<div class="r"><span>Sales Tax (${escapeText(t.taxPct)}%)</span><span>${fmtMoney(t.taxAmount)}</span></div>` : ''}
-  <div class="r tot"><span>Total Due to Contractor</span><span>${fmtMoney(t.contractorTotal)}</span></div>
-</div>
-<div class="fmv-note">
-  <strong>On pricing:</strong> INMA pricing lands at the upper end of local fair-market-value ranges because we don't cut corners — full tearoff, clean prep, correct flashing and trim details, and contractors who stand behind the work. Every line above shows the quantity and rate so you can line it up against the FMV report we share.
-</div>
-<div class="pitch">
-  INMA connects Inland Northwest homeowners with vetted local contractors. We handle the match, scope, and accountability so you get quality work at fair-market pricing — no high-pressure national sales teams.
-</div>
-<div class="footer-notes">
-  <p><strong>Included:</strong> Tearoff, haul-away, dump fees, and full site cleanup are included unless noted otherwise.</p>
-  <p><strong>Permits:</strong> Any required permits are billed at-cost on the final invoice.</p>
-  <p><strong>Hidden Conditions:</strong> Rot, damaged sheathing, or other conditions not visible at walk-through are not included. Any discovered conditions will be documented with photos and priced as a change order before work proceeds.</p>
-  <p><strong>Validity:</strong> This estimate is valid for 30 days from the date above.</p>
-</div>
-</body></html>`;
-}
-
 /* ---- CONTRACTOR PACK — DOCX via html-docx-js ---- */
 function downloadContractorDocx(){
   const html = buildContractorHTML();
@@ -761,7 +550,7 @@ function downloadContractorDocx(){
     const j = getJobHeader();
     const safeNum = (j.num||'contractor').replace(/[^A-Za-z0-9._-]+/g,'_');
     a.href = url;
-    a.download = `INMA-Contractor-Pack-${safeNum}.docx`;
+    a.download = `INMA-Contractor-Package-${safeNum}.docx`;
     document.body.appendChild(a);
     a.click();
     setTimeout(()=>{ URL.revokeObjectURL(url); a.remove(); }, 500);
@@ -786,15 +575,13 @@ function buildContractorHTML(){
     return `<div style="margin-bottom:18px"><h4 style="margin:0 0 6px;font-size:14px;color:#B8941F">Wall ${idx+1}</h4>${img}<div style="font-size:12px;white-space:pre-wrap;background:#F5F2ED;padding:8px 10px;margin-top:6px">${escapeText(notes)}</div></div>`;
   }).join('');
   const matList = (state.materialList||'').trim();
-  const contractorScope = (state.contractorScope||'').trim();
   const genScope = (state.generalScope||'').trim();
-  // DOCX renders HTML via Word's import — keep styles inline, tables basic.
-  return `<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Contractor Pack ${escapeText(j.num)}</title></head>
+  // Renders in a print window (PDF) and via html-docx (Word). Keep styles inline.
+  return `<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Contractor Package ${escapeText(j.num)}</title></head>
 <body style="font-family:'Calibri',Arial,sans-serif;color:#1C1A17;line-height:1.45">
 <div style="background:#1C1A17;color:#F5F2ED;padding:14px 18px">
-  <div style="font-size:22px;font-weight:800;color:#B8941F;letter-spacing:2px">INMA — Contractor Pack</div>
-  <div style="font-size:12px;margin-top:2px">Job handoff package</div>
-  <div style="font-size:11px;color:#e0c878;margin-top:4px;text-transform:uppercase;letter-spacing:1.5px">Internal Use — Not for Homeowner</div>
+  <div style="font-size:22px;font-weight:800;color:#B8941F;letter-spacing:2px">INMA — Contractor Package</div>
+  <div style="font-size:12px;margin-top:2px">Scope, photos &amp; field notes for bidding</div>
 </div>
 <table style="width:100%;border-collapse:collapse;margin-top:14px;margin-bottom:14px" cellpadding="6">
   <tr>
@@ -808,8 +595,6 @@ function buildContractorHTML(){
 
 ${genScope ? `<h3 style="font-size:13px;color:#B8941F;text-transform:uppercase;letter-spacing:2px;border-bottom:1px solid #ccc;padding-bottom:4px">General Scope (Jake's dictation)</h3><div style="font-size:13px;white-space:pre-wrap;background:#F5F2ED;padding:10px 12px">${escapeText(genScope)}</div>` : ''}
 
-${contractorScope ? `<h3 style="font-size:13px;color:#B8941F;text-transform:uppercase;letter-spacing:2px;border-bottom:1px solid #ccc;padding-bottom:4px;margin-top:18px">Scope</h3><div style="font-size:13px;white-space:pre-wrap">${escapeText(contractorScope)}</div>` : ''}
-
 ${matList ? `<h3 style="font-size:13px;color:#B8941F;text-transform:uppercase;letter-spacing:2px;border-bottom:1px solid #ccc;padding-bottom:4px;margin-top:18px">Material List</h3><div style="font-size:13px;white-space:pre-wrap;background:#F5F2ED;padding:10px 12px">${escapeText(matList)}</div>` : ''}
 
 ${wallSections ? `<h3 style="font-size:13px;color:#B8941F;text-transform:uppercase;letter-spacing:2px;border-bottom:1px solid #ccc;padding-bottom:4px;margin-top:18px">Walls &mdash; Photos &amp; Field Notes</h3>${wallSections}` : ''}
@@ -822,17 +607,15 @@ ${wallSections ? `<h3 style="font-size:13px;color:#B8941F;text-transform:upperca
 
 <table style="margin-left:auto;margin-top:10px;font-size:13px" cellpadding="4">
   <tr><td>Subtotal</td><td align="right">${fmtMoney(t.jobSubtotal)}</td></tr>
-  <tr><td style="color:#8a6d0f">− INMA Fee (10%)</td><td align="right" style="color:#8a6d0f">−${fmtMoney(t.inmaFee)}</td></tr>
-  <tr><td>New Subtotal</td><td align="right">${fmtMoney(t.afterFee)}</td></tr>
   <tr><td>Sales Tax${t.hasTax ? ' ('+escapeText(t.taxPct)+'%)' : ''}</td><td align="right">${t.hasTax ? fmtMoney(t.taxAmount) : '—'}</td></tr>
-  <tr><td style="border-top:2px solid #1C1A17;font-weight:700;font-size:15px">Total Due to Contractor</td><td align="right" style="border-top:2px solid #1C1A17;font-weight:700;font-size:15px">${fmtMoney(t.contractorTotal)}</td></tr>
+  <tr><td style="border-top:2px solid #1C1A17;font-weight:700;font-size:15px">Total</td><td align="right" style="border-top:2px solid #1C1A17;font-weight:700;font-size:15px">${fmtMoney(t.total)}</td></tr>
 </table>
 
 <div style="margin-top:22px;font-size:11.5px;color:#555;background:#F5F2ED;padding:10px 14px;line-height:1.6">
   <strong>Contractor Notes:</strong><br>
-  · Contractor to verify all measurements before bidding.<br>
-  · Material quote to be attached separately.<br>
-  · INMA fee is pre-tax and withdrawn from project subtotal; contractor invoices the net amount.
+  · Contractor to verify all measurements before starting.<br>
+  · Permitting may be added to the final invoice at cost with attached receipts — standard practice.<br>
+  · INMA presents this as the homeowner's offer as an advocate for our client. INMA is not a contractor.
 </div>
 </body></html>`;
 }
