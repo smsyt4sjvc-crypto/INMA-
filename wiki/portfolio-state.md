@@ -7,9 +7,10 @@ Related: [[market-fragility]], [[power-not-petroleum]], [[gold-flows]].
 > This note describes; it does not advise. Sizing/execution are the user's.
 
 ## ⚠️ DATA — CORRECTED ACTUAL BOOK (Jake's direct disclosure, 2026-07-09)
-**The entire funded book is: SPY Dec 745 PUTS + SPAXX (cash). Nothing else.**
+**The entire funded book is: SPY Dec 745 PUTS + SPAXX (cash) + 1 share LLY + 1 share NOW.**
 - Jake verbatim: "I don't have any money in anything else. Not the rotation/HC basket or anything.
-  The spy puts. That's is. And spaxx."
+  The spy puts. That's is. And spaxx." Then (same day): "I do have 1 share of LLY and 1 share of
+  NOW. THATS it. Those are just buy / hold forever."
 - → All prior position listings below (MU sleeve, XOM, LLY, nuclear, VG/LNG, semis-from-rungs) were
   **planning-file/paper positions, NOT funded holdings** (or no longer held). Every earlier "book
   implication" in the vault analyzing those names as exposure was analysis of paper. Retained below
