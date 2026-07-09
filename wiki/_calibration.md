@@ -44,3 +44,15 @@ all toward the bear lean.) Antidote, run it out loud: work both sides + ask **"w
 bearish — and did that just happen?"** Also his process finding: screenshot-firehose days manufacture the
 FEELING of convergence (~6 signal items in dozens); end-of-day scan converts firehose→signal. Source:
 `raw/2026-07-07-wiki-log-jul6-7.md` §7.
+
+## "Right more often, or even more cheaply wrong" (Jake's doctrine, 2026-07-09)
+The retail edge is not information — it's exemption from forced deployment. Institutions know first but
+MUST act (mandates, redemptions, career risk); Jake can sit in yielding cash indefinitely, at a size that
+moves nothing. Volatility from that seat = inventory to shop, not risk to trade. The two machines:
+- **"Right more often"** = the vault (falsifiers, physical indicators, provenance discipline).
+- **"More cheaply wrong"** = structure (defined-risk spreads > naked; rungs > market orders; paper before
+  funded; sizing carries the uncertainty). Engineer the cost of being wrong; the hit rate follows the work.
+- ⚠️ Counterweight from his own thesis: the debasement base case makes cash the one asset guaranteed to
+  lose slowly (SPAXX ~4.5% vs CPI 4.2% ≈ flat real). Cash = an option on clarity, not a residence — the
+  falsifiability question applies to holding it too: "what would make me stop holding cash, and did that
+  just happen?"
