@@ -255,3 +255,38 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
 - *(book relevance, descriptive)* A hike-leaning Fed into a 37%-concentrated index is the environment
   the SPY-put + cash posture was built for; SPAXX yield also rises with any hike. Not advisory — noting
   the alignment.
+
+## 2026-06-30 (ingested 7/10) — Hammack: the FIRST rung, and the Warsh split goes public
+### DATA (`raw/2026-06-30-hammack-ai-inflation-cnbc.md`, CNBC Sintra interview, Hammack = 2026 VOTER)
+- "Insatiable" AI-infrastructure demand named as an inflation source; district evidence = a data-center
+  **switchgear manufacturer**: hyperscalers "will pay almost any price for those inputs... need things
+  built yesterday."
+- Transmission: "I'm not seeing a lot of restraint... not hearing that interest rates or credit spreads
+  are a reason why they're holding back" — policy is NOT restrictive for the AI complex.
+- "Inflation... too high for the past five years... we may need to raise rates to bring that policy
+  restraint in." Couched: "impacts in both directions."
+- CNBC frames her view as running AGAINST Chair Warsh's AI-productivity-is-disinflationary doctrine.
+- ⚠️ SEP discrepancy to resolve: CNBC says the June SEP "penciled in a quarter percentage point increase
+  this year" (median-hike reading); Bloomberg 7/9 said NINE of 19 penciled ≥1 hike (not a median).
+  Check the actual June dot plot before repeating either as the committee's central case.
+
+### THESIS (interpretation — NOT fact)
+- *(ladder re-sequenced — voters led, staff followed)* Corrected chronology: **Hammack (voter) 6/30 →
+  minutes/staff 7/8 → Williams (troika) 7/9 → GS quantification 7/10.** Regional presidents were saying
+  it on the record BEFORE the minutes printed. Four rungs in ten days; this is a communication campaign,
+  not a stray remark.
+- *(her evidence IS our bottleneck map)* A Fed president's hike case built on a switchgear order book is
+  [[buildout-bottleneck-map]] confirmed from inside the system: switchgear sold out through 2028,
+  price-insensitive hyperscaler bidding = both the inflation mechanism AND the unrepriced-shortlist
+  demand thesis (VICR/VSH/ENS live in exactly that current). Same fact, two consequences: bullish the
+  bottleneck sellers, hawkish the discount rate.
+- *(transmission broken → the K-shaped hike)* If rates/spreads don't bite the hyperscalers (cash-flow
+  funded + tight-spread AI debt, [[ai-financing-fragility]] loose 1.8x), then the hike sized to restrain
+  THEM overshoots for everyone else — housing, small business, the Hollow Bottom get hit first and
+  hardest. The instrument is aimed at the top of the K and lands at the bottom. Trade-down chain
+  ([[trade-down-landing-pads]]) accelerates under that error.
+- *(the Warsh split is the fight to watch)* Chair's doctrine (AI = disinflation eventually) vs voters'
+  district-level physical evidence (AI = demand impulse now) — and the chair staffed his AI task force
+  with industry (§Warsh task forces = "the pivot's paperwork"). Watch whether Warsh's escape hatch
+  survives contact with his own committee's dots. The doctrine says look through; the voters say
+  "you don't look through this" (Williams). Someone loses.

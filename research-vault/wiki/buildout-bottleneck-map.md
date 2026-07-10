@@ -104,3 +104,13 @@ unrepriced = where the asymmetry lives.**
 - ⚠️ Counterweights: CRCL = Detachment-Bid veteran (pops are its idiom); OCC trust charter ≠ Fed master
   account (narrower than headline); Circle earnings = leveraged to rates STAYING high (cuts compress
   reserve interest).
+
+## 2026-07-10 — a Fed VOTER cites the switchgear order book as her hike case
+- DATA: Hammack (Cleveland, 2026 voter), CNBC 6/30: district switchgear-for-data-centers manufacturer
+  reports hyperscalers "will pay almost any price for those inputs... need things built yesterday";
+  demand "insatiable." (`raw/2026-06-30-hammack-ai-inflation-cnbc.md`)
+- *(THESIS)* Highest-grade demand confirmation the map has: price-insensitive buyers at the exact
+  chokepoint (switchgear, sold out thru 2028), attested by a Fed president using it to justify HIKES.
+  Double edge — validates the unrepriced-shortlist revenue thesis (VICR/VSH/ENS/CLF current) while
+  raising the discount rate applied to it. The bottleneck sellers' order books are now a monetary-policy
+  input.
