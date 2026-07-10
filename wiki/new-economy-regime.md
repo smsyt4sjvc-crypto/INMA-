@@ -152,3 +152,28 @@ Re-run the Colab cell (in `data/README` / playbook) monthly; overwrite the CSV; 
   de-anchoring expectations = the trap's horns at their tightest reading yet.
 - *(political link)* The Fed NAMING AI as an inflation source = citable ammunition for the first candidate who
   runs on "AI raises your prices and takes your job" — the monetary and political ratchets linked.
+
+## Warsh's task forces (2026-07-09, Fed press release — primary source, Jake paste)
+Five task forces "to advance the conduct of monetary policy." The COMPOSITION is the document:
+- **Productivity & Jobs (the AI panel — the headline):** Andreessen (a16z, admin ally) + Charles Jones
+  (Stanford, ON LEAVE AT ANTHROPIC — disclosed in the release) + a Microsoft EVP. **3/3 industry-aligned,
+  zero AI-productivity skeptics** — the panel exists to evaluate Warsh's own escape hatch (AI expands supply
+  side → immaculate disinflation) and is staffed by people whose employers need the answer to be yes.
+  Source-correlation at the institutional level. Jake's rent-vs-compute rebuttal structurally unrepresented.
+  *(THESIS — the market translation)* **The pivot's paperwork, drafted in advance:** when this panel reports
+  AI-as-disinflationary, Warsh gains intellectual cover to ease INTO the capex boom without citing the debt —
+  "inflation is the policy" gets its official absolution. The debasement thesis handed its mechanism.
+- **Inflation Frameworks (cuts the OTHER way):** Mankiw + **Sargent** ("unpleasant monetarist arithmetic" =
+  the founding text of the Fed Trap / fiscal-dominance thesis) + **William White** (BIS, pre-2008 warner).
+  The fiscal-dominance realists brought inside: either the trap gets acknowledged in an official framework,
+  or their credibility gets borrowed to bless ~3% tolerance. Watch which.
+- **Data:** Chetty (real-time card spend) + McMillon (ex-Walmart CEO — the bottom-80% consumption window) =
+  the reported-vs-physical discipline institutionalized; the Fed admitting official data is too slow/revised
+  (the −74k saga). If it works, the Fed sees the Hollow Bottom in near-real-time.
+- **Balance Sheet:** Rajan/Stein/Dynan — QE's sharpest internal critics reviewing "the current regime."
+  Watch for the "not-QE" backstop architecture (Jake's political-economy read) redesigned under this banner.
+- **Communications:** King/Fisher/Fraga — consistent with forward-guidance abandonment (Sintra).
+- *(context)* Released ONE DAY after the minutes named "AI-related price pressures" as an inflation driver —
+  the Fed's internal AI fight (cost-push today vs supply-side salvation tomorrow) now has org charts, and
+  the salvation side got the friendlier judges. Timeline: reports in quarters-to-years — regime architecture,
+  not a near-term rate signal.
