@@ -32,7 +32,7 @@
   .count{color:#9A958E;font-size:13px;letter-spacing:1px;text-transform:uppercase;font-weight:600;margin:28px 0 14px}
 
   .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px;padding-bottom:20px}
-  .card{background:#2C2A27;border:1px solid #3a352e;border-radius:16px;overflow:hidden;display:flex;flex-direction:column;transition:border-color .15s,transform .15s}
+  .card{background:#2C2A27;border:1px solid #3a352e;border-radius:16px;overflow:hidden;display:flex;flex-direction:column;transition:border-color .15s,transform .15s;text-decoration:none;color:inherit}
   .card:hover{border-color:#B8941F;transform:translateY(-2px)}
   .card .cover{aspect-ratio:16/10;background:linear-gradient(135deg,#3a352e,#1C1A17);display:flex;align-items:center;justify-content:center;color:#5a544a;font-size:38px;position:relative}
   .card .cover img{width:100%;height:100%;object-fit:cover;display:block}
@@ -41,14 +41,11 @@
   .card .area{font-size:12.5px;color:#9A958E;letter-spacing:.5px}
   .card .price{font-family:'DM Serif Display',serif;font-size:30px;color:#F5F2ED;line-height:1;margin:4px 0 10px}
   .card .scope{font-size:14px;color:#C9C1B4;flex:1;margin-bottom:14px}
-  .card .actions{display:flex;gap:8px}
-  .card .actions a{flex:1;text-align:center;padding:11px;border-radius:9px;font-size:13.5px;font-weight:700;text-decoration:none}
-  .card .actions .view{background:transparent;color:#F5F2ED;border:1px solid #4a453e}
-  .card .actions .view:hover{border-color:#B8941F;color:#B8941F}
-  .card .actions .apply{background:#B8941F;color:#1C1A17}
-  .card .actions .apply:hover{background:#d4a828}
+  .card .cta{text-align:center;padding:11px;border-radius:9px;font-size:13.5px;font-weight:700;background:#B8941F;color:#1C1A17}
+  .card:hover .cta{background:#d4a828}
 
-  .empty{text-align:center;color:#9A958E;padding:50px 20px;font-size:15px}
+  .empty{text-align:center;color:#9A958E;padding:50px 20px;font-size:15px;grid-column:1/-1}
+  .empty a{font-weight:700}
   .loading{text-align:center;color:#7A756D;padding:40px;font-size:14px}
 
   footer{border-top:1px solid #3a352e;padding:28px 0 60px;text-align:center;color:#7A756D;font-size:12px;line-height:1.9}
@@ -82,96 +79,116 @@
 </div>
 
 <script>
-  // ── Jake's offers sheet (shared "anyone with link · Viewer"), read as CSV.
-  const SHEET_CSV = 'https://docs.google.com/spreadsheets/d/11ePdHLhPNXdtzkIVAeuwmiNRirun198DR6Gs8kTP7QE/gviz/tq?tqx=out:csv';
+  // ── Auto-listing offer board ─────────────────────────────────────────────
+  // Reads the /offers folder straight from GitHub (public repo, no login) and
+  // shows every generated offer page Jake uploads (offer-*.html). No spreadsheet.
+  // Each offer file carries its own Apply form, so a card links straight to it.
+  const API   = 'https://api.github.com/repos/smsyt4sjvc-crypto/INMA-/contents/offers?ref=main';
+  const CACHE_KEY = 'inma_offers_cache_v1';
+  const CACHE_MS  = 5 * 60 * 1000; // reuse a good load for 5 min (fewer API calls, offline-friendly)
 
-  // Sample offers shown until the Sheet is connected (so the board is never empty).
-  const SAMPLE = [
-    { status:'open', title:'Full Hardie Siding Replacement', type:'Siding', area:'Spokane Valley, WA', price:'$28,400',
-      scope:'Full tearoff, ~2,400 sq ft. Hardie ColorPlus board-and-batten, all four sides. New wrap, flashing, fascia & soffit.', cover:'', package:'/offers/example-siding.html', apply:'https://docs.google.com/forms/d/e/1FAIpQLSf4w1eKqPDeA6FhYl8IIc4WE2wzhfRgciV2JvFbgtemu9QCyg/viewform' },
-    { status:'open', title:'12-Window Replacement', type:'Windows', area:'North Spokane, WA', price:'$14,900',
-      scope:'Remove & replace 12 windows, mixed sizes. Custom metal wrap on all exterior trim. Interior returns as needed.', cover:'', package:'', apply:'https://docs.google.com/forms/d/e/1FAIpQLSf4w1eKqPDeA6FhYl8IIc4WE2wzhfRgciV2JvFbgtemu9QCyg/viewform' },
-    { status:'open', title:'Metal Roof Install', type:'Roofing', area:'Colville, WA', price:'$21,750',
-      scope:'Tearoff & standing-seam metal roof, ~24 sq. New underlayment, drip edge, ridge & valley flashing. Haul-off included.', cover:'', package:'', apply:'https://docs.google.com/forms/d/e/1FAIpQLSf4w1eKqPDeA6FhYl8IIc4WE2wzhfRgciV2JvFbgtemu9QCyg/viewform' },
-  ];
-
-  function driveImg(url){
-    // Convert common Google Drive share links into a direct-image URL.
-    const m = (url||'').match(/\/d\/([A-Za-z0-9_-]+)/) || (url||'').match(/[?&]id=([A-Za-z0-9_-]+)/);
-    return m ? 'https://drive.google.com/thumbnail?id=' + m[1] + '&sz=w800' : url;
-  }
   function esc(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+  function attr(s){ return esc(s).replace(/"/g,'&quot;'); }
 
-  function render(rows){
-    const open = rows.filter(r => (r.status||'open').trim().toLowerCase() !== 'closed');
+  // Pull card data out of one offer page's HTML.
+  function parseOffer(name, html){
+    const o = { file: name, title:'', type:'', area:'', price:'', scope:'', cover:'', status:'open' };
+    // Preferred: a machine-readable block the exporter embeds.
+    const meta = html.match(/<script[^>]*id=["']inma-offer-meta["'][^>]*>([\s\S]*?)<\/script>/i);
+    if (meta){
+      try{
+        const m = JSON.parse(meta[1].trim());
+        Object.assign(o, m);
+      }catch(e){ /* fall through to scraping */ }
+    }
+    // Scrape fallbacks (older offers, or if the block is missing/broken).
+    if (!o.price){
+      const p = html.match(/class=["']amt["'][^>]*>([^<]+)</i);
+      if (p) o.price = p[1].trim();
+    }
+    if (!o.title){
+      const h1 = html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i);
+      const t  = html.match(/<title>\s*INMA Offer\s*([^<]*)<\/title>/i);
+      o.title = (h1 ? h1[1].replace(/<[^>]+>/g,'').trim() : '') || (t ? 'Job ' + t[1].trim() : 'Fully-Scoped Exterior Job');
+    }
+    if (!o.type)  o.type  = '';
+    if (!o.area)  o.area  = 'Inland Northwest';
+    // Cover: first embedded job photo (data: URI), if any.
+    if (!o.cover){
+      const img = html.match(/src=["'](data:image\/[^"']+)["']/i);
+      if (img) o.cover = img[1];
+    }
+    return o;
+  }
+
+  function render(list){
     document.getElementById('loading').style.display = 'none';
     const grid = document.getElementById('grid');
-    document.getElementById('count').textContent = open.length + (open.length === 1 ? ' open offer' : ' open offers');
-    if (!open.length){ grid.innerHTML = '<div class="empty">No open offers right now — check back soon.</div>'; return; }
-    grid.innerHTML = open.map(r => {
-      const cover = (r.cover||'').trim();
-      const coverHtml = cover
-        ? `<img src="${esc(driveImg(cover))}" alt="" loading="lazy" onerror="this.style.display='none'">`
+    const open = list.filter(o => (o.status||'open').toLowerCase() !== 'closed');
+    document.getElementById('count').textContent =
+      open.length + (open.length === 1 ? ' open offer' : ' open offers');
+    if (!open.length){
+      grid.innerHTML = '<div class="empty">No open offers posted right now.<br>Contractors — check back soon, or <a href="tel:+15092517792">call (509) 251-7792</a>.</div>';
+      return;
+    }
+    grid.innerHTML = open.map(o => {
+      const cover = o.cover
+        ? `<img src="${attr(o.cover)}" alt="" loading="lazy" onerror="this.style.display='none'">`
         : '🏠';
-      const view = (r.package||'').trim()
-        ? `<a class="view" href="${esc(r.package)}" target="_blank" rel="noopener">View Scope</a>` : '';
-      const apply = (r.apply||'').trim()
-        ? `<a class="apply" href="${esc(r.apply)}" target="_blank" rel="noopener">Apply →</a>`
-        : `<a class="apply" href="tel:+15092517792">Call to Apply</a>`;
-      return `<div class="card">
-        <div class="cover">${coverHtml}${r.type ? `<span class="type">${esc(r.type)}</span>` : ''}</div>
+      const type = o.type ? `<span class="type">${esc(o.type)}</span>` : '';
+      return `<a class="card" href="${attr(o.file)}">
+        <div class="cover">${cover}${type}</div>
         <div class="body">
-          <div class="area">${esc(r.area||'Inland Northwest')}</div>
-          <div class="price">${esc(r.price||'—')}</div>
-          <div class="scope">${esc(r.scope||'')}</div>
-          <div class="actions">${view}${apply}</div>
+          <div class="area">${esc(o.area || 'Inland Northwest')}</div>
+          <div class="price">${esc(o.price || '—')}</div>
+          <div class="scope">${esc(o.scope || o.title || '')}</div>
+          <div class="cta">View Scope &amp; Apply →</div>
         </div>
-      </div>`;
+      </a>`;
     }).join('');
   }
 
-  // Minimal CSV parser (handles quoted fields with commas/newlines).
-  function parseCSV(text){
-    const rows = []; let row = [], cur = '', q = false;
-    for (let i=0;i<text.length;i++){
-      const c = text[i];
-      if (q){
-        if (c === '"' && text[i+1] === '"'){ cur += '"'; i++; }
-        else if (c === '"'){ q = false; }
-        else cur += c;
-      } else {
-        if (c === '"') q = true;
-        else if (c === ','){ row.push(cur); cur=''; }
-        else if (c === '\n'){ row.push(cur); rows.push(row); row=[]; cur=''; }
-        else if (c === '\r'){ /* skip */ }
-        else cur += c;
-      }
-    }
-    if (cur.length || row.length){ row.push(cur); rows.push(row); }
-    return rows;
-  }
-  function rowsToObjects(rows){
-    if (!rows.length) return [];
-    const head = rows[0].map(h => h.trim().toLowerCase());
-    return rows.slice(1).filter(r => r.some(c => (c||'').trim())).map(r => {
-      const o = {}; head.forEach((h,i) => o[h] = (r[i]||'').trim()); return o;
-    });
+  // Newest first — offer files are named offer-INMA-YYYYMMDD-nnn.html.
+  function sortNewest(names){
+    return names.slice().sort((a,b) => b.localeCompare(a));
   }
 
-  if (SHEET_CSV){
-    fetch(SHEET_CSV)
-      .then(r => { if (!r.ok) throw new Error('http ' + r.status); return r.text(); })
-      .then(t => {
-        const objs = rowsToObjects(parseCSV(t));
-        // Sanity check: does it look like our offers sheet?
-        const ok = objs.length === 0 || ['status','title','type','price','area'].some(k => k in objs[0]);
-        if (!ok) throw new Error('unexpected columns');
-        render(objs);   // empty sheet -> "No open offers"; real rows -> cards
-      })
-      .catch(() => render(SAMPLE));   // sharing/connection issue -> show samples, never broken
-  } else {
-    render(SAMPLE);
+  async function load(){
+    // Try a fresh listing; fall back to cache; then to a friendly message.
+    try{
+      const res = await fetch(API, { headers:{ 'Accept':'application/vnd.github.v3+json' } });
+      if (!res.ok) throw new Error('list http ' + res.status);
+      const files = await res.json();
+      const names = sortNewest(
+        files.filter(f => f.type === 'file' && /^offer-.*\.html$/i.test(f.name)).map(f => f.name)
+      );
+      // Fetch each offer page (same-origin — no API cost) and parse its card.
+      const offers = await Promise.all(names.map(async name => {
+        try{
+          const r = await fetch('./' + name, { cache:'no-cache' });
+          if (!r.ok) return null;
+          return parseOffer(name, await r.text());
+        }catch(e){ return null; }
+      }));
+      const list = offers.filter(Boolean);
+      render(list);
+      try{ localStorage.setItem(CACHE_KEY, JSON.stringify({ t: Date.now(), list })); }catch(e){}
+    }catch(err){
+      // API unavailable (rate limit / offline). Use a recent cached load if we have one.
+      let cached = null;
+      try{ cached = JSON.parse(localStorage.getItem(CACHE_KEY) || 'null'); }catch(e){}
+      if (cached && Array.isArray(cached.list) && cached.list.length){
+        render(cached.list);
+      }else{
+        document.getElementById('loading').style.display = 'none';
+        document.getElementById('count').textContent = 'Open offers';
+        document.getElementById('grid').innerHTML =
+          '<div class="empty">Couldn\'t load the live list right now.<br>Please try again in a minute, or <a href="tel:+15092517792">call (509) 251-7792</a>.</div>';
+      }
+    }
   }
+
+  load();
 </script>
 </body>
 </html>

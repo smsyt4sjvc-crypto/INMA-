@@ -273,7 +273,7 @@ function buildAgreementHTML(d){
 </style></head><body>
 
 <div class="toolbar">
-  <button class="ghost" onclick="window.close()">← Back</button>
+  <button class="ghost" onclick="try{window.close()}catch(e){} setTimeout(function(){location.href='/service-agreement.html'},120)">← Back</button>
   ${typeof navigator !== 'undefined' && navigator.share ? '<button onclick="shareDoc()">⬆ Share</button>' : ''}
   <button onclick="window.print()">Print / Save PDF</button>
 </div>
