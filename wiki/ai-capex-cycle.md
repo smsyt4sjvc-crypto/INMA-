@@ -564,3 +564,23 @@ $ IN over usable compute OUT, ignoring monetization — is THAT ratio eroding? A
 ## Sources
 - User's AI-capex memo v1/v2; user-supplied circular-financing report; Burry "Heretic's
   Guide… Part III" essay (`raw/` if pasted). Session synthesis 2026-H1.
+
+## 2026-07-09 — the Meta reframe: landlord, not blinker (Jake's synthesis)
+- *(reframe — upgrades the 7/1 read)* Meta's compute resale ≠ (only) distress signal — **Meta never sold
+  token scrip** (Llama free from day one = commoditized the model layer early; monetizes attention). Selling
+  compute = the one hyperscaler whose AI economics never depended on scrip pricing power positioning as the
+  LANDLORD for the swappable-model world. Both reads stay live: resale still signals oversupply; the motive
+  upgrades from "first to blink" to "first to adapt."
+- *(the demand-side engine, named: "capital defiance")* CFOs will optimize AI spend like any line item —
+  procurement, router-based multi-vendor bidding, open-weight in-house on rented compute = cheaper + data
+  sovereignty (win/win). Bain's 90%-hiking = the pre-procurement anomaly phase. Jake is the live specimen
+  (moved market work to the cheaper model, kept premium for legal). The compression thesis's mechanism.
+- *(OpenAI IPO re-dated as a SIGNAL)* A cash-burning scrip-seller IPOing now, banks paying for slots ($520M
+  BofA line) = **the scrip business sold to the public at peak scrip value** — fiber-1999 rhyme. S-1 watch
+  sharpened: enterprise-revenue DURABILITY is where the scrip question gets answered under oath.
+- *(the neocloud paradox)* CFO wave = bullish compute DEMAND, bearish the RENTAL LAYER: compute rental is
+  the commodity, Meta/hyperscalers entering = supply flood (H100 floor), lowest-cost landlord (owned power,
+  scale) wins while levered high-cost holders die — 2001 lit-fiber analog (demand grew for decades; leveraged
+  capacity-holders still went bankrupt). NBIS/CRWV mechanism attached. Winners of the win/win: enterprises,
+  orchestration tolls, lowest-cost landlords. Losers: scrip-sellers without distribution, levered landlords
+  without cheap power.
