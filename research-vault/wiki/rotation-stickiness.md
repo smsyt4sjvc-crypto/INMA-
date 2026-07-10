@@ -87,3 +87,21 @@ Related: [[market-fragility]], [[concentration]], [[new-economy-regime]], [[deta
   endorsement); no size split. → Jake running the Form-4 pull on the 24-name semi basket (OpenInsider cell)
   to answer the sharp version: are MU/AMD/semicap insiders buying or selling through the crack? LRCX/KLAC/
   AMAT insider direction = adversarial test of the scanner puts. TSM/ASML/ASX exempt (no Form 4s).
+
+## Update 2026-07-10 PM — the semi Form-4 grid RESOLVES the insider puzzle (searches, verified)
+- *(DATA, verified via WebSearch)* Semi-basket insider activity ~90d: **MU: all selling, zero buys — CEO
+  Mehrotra $32.8M (June 26, day after the ATH), EVP $43.4M (Jul 1, 10b5-1), director sales. LRCX: director
+  $39.1M over two days (Jun 11-12). AMAT: CTO 35k shares (Jun 15-16). NVDA/AVGO/MU/PLTR aggregate: ~$13B
+  net insider sales trailing 3yr [Fool]. ZERO open-market purchases found across the 24.** Coverage: MU/
+  LRCX/AMAT direct + aggregate; rest pending Jake's Colab Form-4 cell. Sells cluster Jun-11→Jul-1 (at the
+  top), nothing found post-crash (blackouts + won't sell the hole).
+- *(THESIS — the reconciliation)* The Kobeissi record XLK buying is real AND not in semis: XLK's 28 buyers
+  ≈ the fallen software/legacy names (MSFT-19% class) = intra-tech VALUE accumulation. Semi insiders (the
+  AI order books) distributed $100M+ at the June highs. **Record SOXX inflows + pundit-driven bounce (Tom
+  Lee 7/9: AMD +7, INTC +5) + insider distribution = the textbook bag-holder pattern.**
+- *(ledger fix)* The 7/10 "against the bear" entry SPLITS by sector: insider buying supports the fallen-
+  tech value trade (= the quiet-health/GOOGL side); insider selling supports semi-complex caution (= the
+  puts side). Both halves of Jake's book get insider sponsorship; the contradicted trade = the SOXX dip-buy
+  he already declined. Vindicates compiling the index off the inflows.
+- Watch: fresh Form-4 sells INTO the current bounce (post-7/8) = insiders using the rally as a second exit
+  = final confirmation. Jake's 24-name Colab pull completes the grid.
