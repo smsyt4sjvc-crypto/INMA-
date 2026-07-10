@@ -214,3 +214,14 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   → +57K is weak demand AND possibly above breakeven simultaneously** = the rate is a broken gauge
   (numerator and denominator shrinking together); sticky +3.5% wages despite hollowing = supply-constrained
   stagnation = the Fed Trap's labor wing.
+
+## 2026-07-10 addendum — GS puts a number on the Fed's "AI-related price pressures"
+- **DATA (reported, `raw/2026-07-10-zh-memory-pce-electricity.md`):** GS note (via ZH): memory-driven
+  electronics repricing (+5% to +25% realized/announced, PS5/MacBook/iPad/Xbox table) estimated to push
+  **core PCE +0.5%** (⚠️ horizon unspecified in paste); separately, US wholesale electricity 24m forwards
+  ≈ +25% vs Jan-25 on data-center demand while Germany/UK/Spain/France sit flat-to-down — a US-specific
+  services-side impulse that pre-dates the Iran war.
+- *(THESIS)* The 7/8 minutes named the cause; GS now sizes it, on both the goods channel (memory) and the
+  services channel (power). Half a point of core PCE is roughly the whole distance between "cutting" and
+  "a few wanted to hike." The trap's mechanism is no longer inferential — full write-up in
+  [[ai-capex-cycle]] §2026-07-10.

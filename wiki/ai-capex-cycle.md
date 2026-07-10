@@ -609,3 +609,42 @@ $ IN over usable compute OUT, ignoring monetization — is THAT ratio eroding? A
   physical — the reported-vs-real split again).
 - Messenger note: Bernstein (the AVGO "pause not break" shop) flagging pipeline fiction = narrative
   migration continuing.
+
+## 2026-07-10 — the cost side reaches the CONSUMER: pass-through table + electricity forwards (GS)
+### DATA (`raw/2026-07-10-zh-memory-pce-electricity.md` — GS via ZH, reported)
+- GS table of memory-driven retail price increases, REALIZED: PS5 +20%, Galaxy Tab S11 +20%, Z Fold 7 +5%
+  (Apr-26); MacBook Pro 1TB +20%, iPad Air +25% (Jun-26). ANNOUNCED: Xbox Series S +25% (Aug-26),
+  Switch 2 +10% (Sep-26).
+- ZH headline of the GS note: memory prices to push **core PCE +0.5%**; ⚠️ horizon/decomposition not shown
+  in the paste — reported estimate, not verified.
+- GS Exhibit 4: US data-center share of electricity demand ~7% (2026, from ~3% in 2020), GS 2030 forecast
+  ~11%. **US wholesale electricity 24m forwards ≈ 125 (Jan-25=100) and still climbing; Germany ~98,
+  UK ~97, Spain ~95, France ~79.** The US uptrend pre-dates the Iran war and ran straight through it —
+  every other major DM flat-to-down.
+
+### THESIS (interpretation — NOT fact)
+- *(the doom loop gets numbers)* [[new-economy-regime]] logged the Fed staff NAMING "AI-related price
+  pressures" on 7/8; two days later GS quantifies the mechanism on BOTH channels: memory → core GOODS
+  (the table), data-center power → core SERVICES (utilities). The full circuit: AI capex → scarce memory +
+  scarce power → consumer prices → core PCE → no cuts / live hike faction → higher rates on the $200B+ of
+  AI debt with obsolescing collateral ([[ai-financing-fragility]]). **The buildout manufactures its own
+  monetary headwind, and now the transmission is on price tags.**
+- *(the sign flip is the story, not the level)* Consumer electronics have been a structural CPI/PCE
+  DEFLATOR for decades (hedonics: more device per dollar every year), and consoles historically fall in
+  price mid-generation, never rise. Mid-cycle console hikes of +20-25% = an unprecedented input-cost
+  signature. Whatever the exact PCE arithmetic, a persistent deflator flipping to +20% is a large aggregate
+  delta — that's what makes GS's 0.5pp plausible even if unverified.
+- *(the whale is passing it through — antitrust record building)* "Watch Cupertino, not Redmond": Apple
+  raising MacBook +20%/iPad +25% weeks after the Apple-CXMT sourcing print = the whale not absorbing the
+  constrained-memory price but passing it to consumers. Per the 2002 DRAM-antitrust precedent, this
+  BUILDS THE HARM RECORD (priced-out consumers = the injured class DOJ cited last time) while the whale
+  simultaneously develops its alternative supplier. Both prongs of the playbook now visible in public data.
+- *(electricity: the ratchet's fuel, US-only)* France at 79 while the US prints 125 kills the "it's the
+  war" excuse — this is the DC buildout showing up on American power bills specifically. That is the
+  bipartisan-ratchet accelerant ([[buildout-bottleneck-map]], QTS/Virginia kill): households don't read
+  GS notes, they read utility bills. Expect the 17-state restriction wave to broaden; every point on that
+  US forward curve is a campaign ad.
+- *(stage mapping — discipline)* This is NOT Stage 2. No spend is being cut; costs are being externalized
+  onto consumers and the Fed's inflation ledger. It belongs to Stage 1.5's cost-side: it hardens the Fed
+  trap and feeds the political fuse — pressure on the triggers, not the trigger itself. Watch items
+  unchanged: 27E $996B bar, GW-under-construction, state-level kills.
