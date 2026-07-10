@@ -205,3 +205,12 @@ Jake's question: mega-layoffs weekly, NFP "fine" — who's lying? Answer: nobody
 **Method: route around the contested number** — QCEW (tax records), Treasury daily withholding, 941s, and
 the trade-down tape itself (ROST +17% comps IS labor data). Cultural marker: displacement-anxiety sales
 funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-table layer, monetized.
+- *(participation decomposition, 2026-07-10)* The 61.5% / million-leavers headline splits three ways: (1)
+  boomer aging (~0.2pp/yr structural drag — discount first); (2) **immigration policy — deportations +
+  collapsed inflows shrink the labor force BY DESIGN, mechanically lowering the unemployment rate the
+  administration touts while it needs weak numbers for cuts (the agendas fight inside the statistic)**;
+  (3) discouraged/frozen-market exits (27% long-term unemployed → the +832K NILF = the Hollow Bottom's
+  exit door). Second-order: **policy-shrunk supply drops NFP breakeven from ~180K (2023) to maybe 40-80K
+  → +57K is weak demand AND possibly above breakeven simultaneously** = the rate is a broken gauge
+  (numerator and denominator shrinking together); sticky +3.5% wages despite hollowing = supply-constrained
+  stagnation = the Fed Trap's labor wing.
