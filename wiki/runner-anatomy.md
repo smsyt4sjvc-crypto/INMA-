@@ -113,3 +113,17 @@ all 0 buys).
 
 ## Sources
 - `tools/runner_anatomy.py`; session 2026-07-10.
+
+## The filter (distilled 2026-07-10 — `tools/ignition_filter.py`)
+Five gates = the majority traits stacked ("intact wreckage"):
+1. **≥50% below 2y high** (75% of runners; the dominant trait)
+2. **mcap $0.2–10B** (80% of runners; median $1.1B)
+3. **0 < trailing P/E < 15** (68% of profitable runners; median 7.7)
+4. **FCF positive** (82%)
+5. **revenue growing** (73%)
+Ranking tiebreaker: insider net cluster-buys in trailing 6m (the value-cohort ignition tell).
+⚠️ Discipline: necessary-profile, NOT sufficient — the study never measured how many mold-passers
+stay crushed (value traps pass every gate). The unencodable gate = "is the E broken or just the
+price," done per name. And the CALENDAR gate outranks the stock gates: ignitions cluster in panic
+windows; a short list at index highs is information (no window open), and the tool's real job is
+to be re-run into the next flush.
