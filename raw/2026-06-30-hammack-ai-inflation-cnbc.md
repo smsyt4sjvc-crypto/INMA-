@@ -24,3 +24,7 @@ Dated Tuesday 2026-06-30 per photo caption. Hammack = Cleveland Fed president, 2
   expectations." (Cf. Bloomberg 7/9: "nine policymakers penciled in at least one quarter-point hike" —
   9/19 is not a median. Discrepancy: CNBC implies the SEP MEDIAN shows a 2026 hike. Resolve against the
   actual June SEP before treating the median-hike claim as fact.)
+
+⚠️ RESOLVED 2026-07-10: verified against June 17 SEP — median dot 3.8% (= one hike vs 3.50–3.75% range),
+9 of 18 dots ≥1 hike, Warsh abstained. Both CNBC and Bloomberg lines were accurate. Details in
+[[new-economy-regime]].
