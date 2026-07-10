@@ -45,3 +45,23 @@ stack. Related: [[consumption-vs-investment-crux]], [[quiet-health-screen]], [[r
 ## Sources
 - Jake's trading-project CSVs + USDA FNS memo (uploads, 2026-07-10); FDA/Lilly approval verified via
   WebSearch (PRNewswire/AJMC); car-payment data (LendingTree/Carscoops) under the KMX wing.
+
+## H1-2026 trend check (verified 2026-07-10) — the thesis is ALREADY printing
+- **ROST: +18% YTD, Q1 revenue +21% ($6B), comps +17%** (staggering for a mature retailer = share capture),
+  new highs post-beat. **BURL (added to tracker): revenue +14%, comps +6%, +23% over 12mo.**
+  **TJX: THE LAGGARD — stock −4% YTD despite revenue +9.2% ($14.3B) and comps +6%** = fundamentals up,
+  stock down = the CI/UHS-vs-GILD pattern in apparel; the group's cheap entry if the wave continues.
+- Off-price Big Three added **$2.5B of revenue while overall retail sat flat** = the trade-down channel
+  eating full-price's customer, measured.
+- **The killer DATA line: ~20% of US households include a GLP-1 user; sugary-drink intake falls 65% in
+  those households** [KO coverage] — the demand shift is household-scale, not niche.
+
+## The February archaeology (Jake's disclosure, 2026-07-10 — calibration entry)
+- Feb 2026: Jake nearly shorted **KO + HSY** (his own GLP-1/SNAP chain — he held the USDA memo from Dec 30)
+  but took **KRE shorts** (the consensus CRE/fintwit trade) instead. Outcome: **HSY −30%** (share bleeding),
+  KO fell on the Feb guide, **PEP missed 7/9** — the original thesis paid across the complex. KRE: peaked
+  ~$74 Feb → ~$63 (−15% from peak; +9% YTD from Jan) = worked only if entered near the top.
+- **LESSON (calibration-grade): the borrowed consensus short underperformed the primary-sourced original
+  chain.** The edge lives in the original chains — and the SAME setup is live now: re-wardrobing is
+  documented, dated, started printing (ROST +17% comps), and not fully priced (TJX −4%). This time it's
+  in the vault before the crowd names it.
