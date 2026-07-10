@@ -648,3 +648,13 @@ $ IN over usable compute OUT, ignoring monetization — is THAT ratio eroding? A
   onto consumers and the Fed's inflation ledger. It belongs to Stage 1.5's cost-side: it hardens the Fed
   trap and feeds the political fuse — pressure on the triggers, not the trigger itself. Watch items
   unchanged: 27E $996B bar, GW-under-construction, state-level kills.
+
+## 2026-07-10 — Williams (NY Fed) names AI demand as his top inflation focus; 9 hike dots
+- DATA: see [[new-economy-regime]] §2026-07-10 + `raw/2026-07-10-williams-ai-demand-hikes.md`. Same
+  article sidebar (as-reported, unverified): **"Nvidia's $1 Trillion Slide Sends Valuation to Pre-AI
+  Boom Levels."**
+- *(THESIS)* The monetary fuse from the doom loop is now armed by the troika itself: sustained AI capex
+  demand → hikes. That makes the capex cycle self-limiting through a SECOND channel beyond ROI — the
+  more they build, the tighter money gets, the worse the financing math in [[ai-financing-fragility]]
+  (floating exposure, refi walls, RVG collateral). Stage mapping unchanged: this arms fuses, it is not
+  Stage 2. NVDA-at-pre-boom-valuation is the market voting on Stage 1.5 in real time.

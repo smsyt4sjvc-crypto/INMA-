@@ -225,3 +225,33 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   services channel (power). Half a point of core PCE is roughly the whole distance between "cutting" and
   "a few wanted to hike." The trap's mechanism is no longer inferential — full write-up in
   [[ai-capex-cycle]] §2026-07-10.
+
+## 2026-07-10 — Williams goes on record: AI demand could FORCE hikes (the troika speaks)
+### DATA (`raw/2026-07-10-williams-ai-demand-hikes.md`, Bloomberg 7/9)
+- NY Fed's Williams (permanent voter, troika): of all US inflation drivers he is **"most focused on demand
+  driven by artificial intelligence"** — and if it persists, **"it could force the central bank to raise
+  interest rates."** Direct quote: "you don't look through this."
+- **June SEP: NINE policymakers penciled in ≥1 quarter-point HIKE in 2026** (of 19 participants).
+  ⚠️ Upgrades the minutes' "a few saw a case for raising" — the hike faction is ~half the committee's
+  dots, not a fringe.
+- He kept the off-ramp: if benign, policy "well positioned." Conditional, not a pre-commitment.
+
+### THESIS (interpretation — NOT fact)
+- *(the escalation ladder, 3 rungs in 3 days)* 7/8 minutes: STAFF names "AI-related price pressures."
+  7/10 GS: quantifies it (+0.5pp core PCE, both channels). 7/9 Williams: the SYSTEM's #2 says policy
+  "would need to respond." This is no longer our inference about a doom loop — it is official
+  communication of one. The Fed put isn't just absent; the Fed is pre-announcing the conditions for a
+  Fed CALL on the AI trade.
+- *("don't look through this" = the exemption revoked)* Central banks "look through" supply shocks
+  (oil, tariffs). Williams explicitly frames AI as a DEMAND impulse — capex demand pulling on real
+  resources (power, construction, memory) — which is exactly the shock type policy is REQUIRED to lean
+  against. Jake's rent-vs-compute framing and the GS electricity forwards are the evidence under that
+  classification.
+- *(reflexivity, same page)* The very article carries "Nvidia's $1 Trillion Slide Sends Valuation to
+  Pre-AI Boom Levels" (as-reported). The market repricing the builders WHILE the Fed reprices policy on
+  the same phenomenon = both of the trade's supports (multiple expansion + easy money) tightening at
+  once. Cross-ref [[buying-at-highs]] §3: NVDA's compressing multiple is not automatically "cheap" —
+  the E-risk is growing as fast as the P falls.
+- *(book relevance, descriptive)* A hike-leaning Fed into a 37%-concentrated index is the environment
+  the SPY-put + cash posture was built for; SPAXX yield also rises with any hike. Not advisory — noting
+  the alignment.
