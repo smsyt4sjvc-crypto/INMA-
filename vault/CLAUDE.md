@@ -5,110 +5,109 @@
 > then work.** The chat is ephemeral. This repo is the memory. If it isn't
 > committed and pushed, it didn't happen.
 
-This vault is Jake Bishop's persistent memory for running **INMA** (Inland
-Northwest Marketing Affiliates) — clients, offers posted, contractor pipeline,
-business decisions, marketing experiments, and the honest record of what worked
-and what didn't. The business facts live in the repo-root `CLAUDE.md`; this vault
-tracks *what is happening and what we're learning*, over time.
+This vault is the persistent memory for **INMA** (Inland Northwest Marketing
+Affiliates) — the **evolution of the business, the brand, the ideas, and the
+running architecture** of the site and tools. It's not a debate engine and not a
+task tracker; it's a place where INMA's thinking and build accrete over time so
+no session starts from zero. The fixed business facts live in the repo-root
+`CLAUDE.md`; this vault tracks *how INMA is growing and what we've figured out.*
 
 ---
 
-## The Firewall (non-negotiable)
+## The Firewall (keep memory honest)
 
-Every note in `wiki/` splits its content into two labeled sections:
+Every note in `wiki/` separates **what is true now** from **what we're thinking**,
+so a future session never reads last month's idea as an established fact:
 
 ```
-## DATA (observed)
-- [YYYY-MM-DD] A measured, verifiable fact. Traced to a raw/ file or a named
-  source. Numbers, quotes, dates, outcomes — things that are actually true.
+## DATA (what's true now)
+- [YYYY-MM-DD] A real, verifiable thing — live tool, shipped decision, actual
+  number, something that happened. Dated, and traced to a raw/ file or named
+  source.
 
-## THESIS (interpretation — NOT fact)
-- [YYYY-MM-DD] The read. The hypothesis. Whose read it is. Why we think it.
-  Never stated as settled. This is where opinion, prediction, and strategy live.
+## IDEAS & DIRECTION (thinking — not yet fact)
+- [YYYY-MM-DD] A direction we're considering, a concept, an evolution of the
+  brand or model, a "maybe next." Clearly a thought, not a settled fact.
 ```
 
-- A **number never appears in THESIS as settled**. An **opinion never appears in
-  DATA.** When in doubt, it's THESIS.
-- Every DATA line is **dated** and **sourced** (a `raw/` filename, a person, a
-  URL, a commit). No orphan facts.
-- If a note is pure reference (a definition, a process), it can be all DATA — but
-  the moment you interpret, that goes under THESIS.
+- A **shipped fact never sits under IDEAS as if pending**; an **idea never sits
+  under DATA as if done.** When in doubt, it's an idea.
+- Every DATA line is **dated** and **sourced** (a `raw/` file, a person, a URL, a
+  commit). No orphan facts.
+- Pure-reference notes (the brand system, a definition) can be all DATA. The
+  moment it's a direction or a maybe, it goes under IDEAS & DIRECTION.
 
 ## Corrections stay visible
 
-When a claim turns out wrong, **never silently delete it.** Either:
-- strike it through (`~~old claim~~`) in place, or
-- move it to a `## Falsified` list in the note,
-
-and add a dated correction:
+When something we recorded stops being true — a tool changes, an idea is dropped,
+a decision reverses — **don't silently delete it.** Strike it through
+(`~~old~~`) or move it to a `## Superseded` list, and add a dated note:
 
 ```
-> ⚠️ CORRECTION [YYYY-MM-DD]: <what was wrong> → <what's actually true>. Source: <...>
+> 🔄 UPDATED [YYYY-MM-DD]: <what changed> → <what's true now>. Source: <...>
 ```
 
-The corrected record is the most valuable content in the vault. The brain must
-remember what it got wrong so it stops repeating it.
+The history of how INMA evolved *is* the value. We keep the trail.
 
 ## One idea per file
 
-A note is **one** concept, thesis, or state — not a dump. If a note is becoming a
-40-bullet catch-all, split it. Write-only notes nobody retrieves from are a
-failure. Small, linked, retrievable.
+A note is **one** thing — a concept, a decision, a system, a state. Not a dump.
+If a note is turning into a 40-bullet catch-all, split it. Small, linked,
+retrievable beats one write-only megafile.
 
 ## Always link
 
-Every note names its related notes with `[[wiki-links]]` (Obsidian-style, plain
-text everywhere else). We are building a graph, not a pile. A note with zero
-links is probably in the wrong shape.
+Every note names its related notes with `[[wiki-links]]`. We're building a graph
+of how INMA's pieces connect, not a pile of pages.
 
 ## Date + source everything
 
-`[YYYY-MM-DD]` prefix on every DATA line and every correction. Sources named.
+`[YYYY-MM-DD]` on every DATA line and every update. Sources named.
 
 ## Commit + push every turn
 
-**Any file change in `vault/` is committed with a descriptive message and pushed
-before the turn ends. No exceptions.** This is the survival mechanism — a dead
-container or a new session loses nothing only because the last turn pushed.
-If a turn touched a file and didn't push, that's a bug in the process.
+**Any change in `vault/` is committed with a descriptive message and pushed before
+the turn ends.** This is the survival mechanism — a dead container or a fresh
+session loses nothing only because the last turn pushed.
 
-## Load persona + calibration before responding
+## Load persona + guardrails before responding
 
-Before answering anything in a vault working session, load
-[[_persona]] (how to talk to Jake) and [[_calibration]] (Jake's bias map — what
-to push back on). Pushback is tuned to `_calibration`; it only works if that file
-is honest and current.
+Before working a vault session, load [[_persona]] (how I work with Jake) and
+[[_guardrails]] (INMA's voice + the liability lines that must never be crossed),
+so everything we write and generate stays on-brand and on-message.
 
 ---
 
 ## Commands
 
-- **"ingest this"** — take the pasted/attached source, save it verbatim to
-  `raw/YYYY-MM-DD-short-description.md` (never edited after), then create or
-  update the relevant `wiki/` note(s): split through the firewall (DATA vs
-  THESIS), date every line, link related notes, and if it changes reality, update
-  [[state]]. Commit + push.
-- **"what do we know about X"** — answer *only* from the vault. Cite the files
-  (`wiki/foo.md`, `raw/2026-…md`). If the vault is silent, say so — don't
-  improvise from general knowledge and pass it off as ours.
-- **"update state"** — edit `wiki/state.md` to match current reality. If it
-  contradicts an existing note, correct `state.md` first, then annotate the note
-  with a dated correction.
-- **"what's stale"** — list DATA lines old enough to re-verify (default: flag
-  anything unverified for 30+ days, plus anything in a fast-moving area), so we
-  can recheck them.
+- **"ingest this"** — save the pasted/attached source verbatim to
+  `raw/YYYY-MM-DD-short-description.md` (never edited after), then create/update
+  the relevant `wiki/` note(s): split into DATA vs IDEAS & DIRECTION, date every
+  line, link related notes, and if it changes the picture, update [[state]].
+  Commit + push.
+- **"what do we know about X"** — answer *only* from the vault, cite the files.
+  If the vault is silent on it, say so rather than improvising.
+- **"update state"** — edit `wiki/state.md` to match reality now. If it
+  contradicts a note, fix `state.md` first, then annotate the note with a dated
+  update.
+- **"what's stale"** — list DATA old enough to re-check (default 30+ days, plus
+  anything in a fast-moving area).
 
 ---
 
-## Domain map (INMA-specific)
+## Domain map (INMA)
 
 Notes tend to fall into these buckets — link across them freely:
-- **clients/** — homeowners in the pipeline (retained, scoping, decided).
-- **offers/** — jobs posted to the board, their status, who applied.
-- **contractors/** — the vetted network; credentials, standing, history.
-- **decisions/** — business/positioning calls and *why* (so we don't relitigate).
-- **experiments/** — marketing tests (mailers, banners, copy) and their results.
-- **tools/** — the site tools (builders, board) — what's live, known issues.
+- **architecture** — the running technical system: repo, hosting, tools, data
+  flows, integrations. See [[architecture]].
+- **brand** — voice, visual system, positioning, the say-this / never-say lines.
+  See [[brand]] · [[_guardrails]].
+- **model** — how INMA actually operates and makes money. See [[positioning]].
+- **offers / clients / contractors** — the live pipeline as it fills in.
+- **decisions** — calls made and *why*, so we don't relitigate them.
+- **experiments** — marketing tests (mailers, banners, copy) and what they did.
+- **evolution** — the running log of how INMA and its tools have changed. See
+  [[evolution]].
 
-`state.md` is the single canonical snapshot across all of them. Individual notes
-hold the detail and the history.
+`state.md` is the single canonical snapshot; individual notes hold the detail and
+the history.

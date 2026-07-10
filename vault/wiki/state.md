@@ -5,7 +5,7 @@
 > **first**, then the detailed note gets its dated correction. Last full review
 > date is tracked at the bottom.
 
-Related: [[_persona]] · [[_calibration]]
+Related: [[_persona]] · [[_guardrails]] · [[architecture]] · [[positioning]] · [[brand]] · [[evolution]] · [[offer-board]]
 
 ## DATA (observed) — Business
 - [2026-07-10] INMA = homeowner-advocacy / buyer's-agent service for exterior
@@ -36,7 +36,7 @@ Related: [[_persona]] · [[_calibration]]
 - [2026-07-10] Offer board is empty (test files cleared). No live real offers
   posted yet. No contractor applications recorded in the vault yet.
 
-## THESIS (interpretation — NOT fact)
+## IDEAS & DIRECTION (thinking — not yet fact)
 - [2026-07-10] The self-upload offer pipeline (build → export → upload to
   `/offers/` → auto-lists) is confirmed working end-to-end via a photo dry-run,
   but has **not** yet been proven with a real homeowner + real contractor

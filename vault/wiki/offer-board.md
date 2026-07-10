@@ -3,7 +3,7 @@
 > One concept: how INMA posts fully-scoped, fixed-price jobs for contractors to
 > apply to. Detail + history live here; the current snapshot lives in [[state]].
 
-Related: [[state]] · [[_calibration]]
+Related: [[state]] · [[architecture]] · [[evolution]]
 
 ## DATA (observed)
 - [2026-07-10] Model: Jake scopes a full job, exports a self-contained offer HTML
@@ -25,7 +25,7 @@ Related: [[state]] · [[_calibration]]
   (`offer-INMA-20260710-132.html`) that appeared on the board, then was cleared.
   Two earlier uploads landed as empty commits (nothing to show). Source: git log.
 
-## THESIS (interpretation — NOT fact)
+## IDEAS & DIRECTION (thinking — not yet fact)
 - [2026-07-10] The mechanical pipeline works, but the **business loop is unproven**:
   no real homeowner has retained + no real contractor application has landed in
   Jake's inbox from a live posted job. Verifying that full loop (post a real
@@ -33,8 +33,7 @@ Related: [[state]] · [[_calibration]]
   open item.
 - [2026-07-10] Empty-upload risk: GitHub's web upload can silently commit nothing
   if "Commit changes" isn't pressed or the file lands at repo root. Worth a
-  standing habit of eyeballing `/offers/` after each upload until Jake trusts it.
-  Ties to [[_calibration]] "it shipped = it works."
+  standing habit of eyeballing `/offers/` after each upload until it's trusted.
 
 ## Falsified
 - (none yet)
