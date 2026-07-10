@@ -113,3 +113,12 @@ Related: [[market-fragility]], [[concentration]], [[new-economy-regime]], [[deta
   open-market buy across 24 companies at prices they call a supercycle. Watch what they do with their own
   money, not what they guide with yours (Burry's public-commitment-bias, purest form). Caveat: 10b5-1
   mechanics make any single sale meaningless; the absence of buys is the tell.
+- *(where the sale proceeds GO — the visibility map, 2026-07-10)* Personal portfolios are unreported: Form
+  4s exist only where someone is an insider (no filing when a semi CEO buys GLD/treasuries/another sector's
+  stock as a passive holder). Partial windows: (1) their Form 4s at OTHER companies (EDGAR searches by
+  reporting-owner name across all issuers); (2) 13Fs ~never (family offices exempt); (3) **the aggregate
+  shadow = the flow data already tracked: record $7.95T MMFs + gold bid = the class-level destination —
+  the semi officers are effectively running Jake's book** (sell the complex at highs, sit in yield, wait);
+  (4) the class-level revealed preference = the market-wide CLUSTER-BUY screen (3+ insiders buying own
+  stock, rolled up by industry — openinsider latest-cluster-buys cell) → expect buys clustering in fallen
+  value sectors and a void at the AI complex = the insider version of the rotation, market-wide.
