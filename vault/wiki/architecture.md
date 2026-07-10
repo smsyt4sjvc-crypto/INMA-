@@ -47,6 +47,16 @@ Source: [[2026-07-10-inma-baseline-ingest]]
 - [2026-07-10] Formspree (form→email), ImgBB (client-side image host), Google
   Fonts, GA4, `inma-fb-rescue.js` (in-app-browser "open in Safari" banner).
 
+### Accounts & ownership
+- [2026-07-10] Domain **inmagent.com** registered at **Namecheap** (Jake's).
+- [2026-07-10] Code + hosting: GitHub repo `smsyt4sjvc-crypto/INMA-` (public),
+  served by **GitHub Pages** off `main`. **Vercel** deployment for AI functions.
+- [2026-07-10] Client sites ([[showcase-clients]]) get their own GitHub repo +
+  domain, owned by the client on payment; Jake holds credentials for management
+  unless they ask for them.
+- [2026-07-10] More public pages beyond the marketing set: `/thank-you.html`
+  (Google Ads conversion), `contractor.html` (how working with INMA works).
+
 ## IDEAS & DIRECTION (thinking — not yet fact)
 - [2026-07-10] The board depends on GitHub's unauthenticated API rate limit
   (60/hr per visitor IP). Fine at current traffic; if the board ever gets busy,
