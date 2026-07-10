@@ -206,3 +206,23 @@ owns the paperboard mills (why the margin swing was violent: mill operating leve
 Read revised: GLP-1 headwind touches ~60% of the book, not all; and the omitted BULL structural force =
 plastic-to-paper substitution (regulatory + CPG mandates). The name's bet = GLP-1 eating food/bev units
 vs substitution taking share of remaining units — at 11x, post-kitchen-sink, with operators buying.
+
+### GPK class action ingested (2026-07-10, `raw/2026-07-10-gpk-class-action.md`)
+- DATA (allegations, not findings): Thurber v. GPK (S.D.N.Y.), class period 2/4/25–2/2/26; defendants =
+  company + FORMER CEO Doss + FORMER CFO Scherger (concealed inventory/demand/cost problems, bad FY25
+  guide, false SOX certs). **Doss+Scherger sold $8.8M of stock during the class period.** 2026 guide
+  carries $130M inventory-reduction hit + $100M comp accrual.
+- *(THESIS)* Three updates: (1) **The margin collapse has a self-inflicted component** — mills overproduced
+  vs demand, and the $130M curtailment cost is the destock bill. Bear: prior management hid weak demand.
+  Bull: a destock cost is finite; when inventory normalizes, mill margins mechanically recover — likely
+  what the new insiders are buying. (2) **The insider structure is now textbook within one name:** OLD
+  regime sold $8.8M while allegedly concealing (class-period sales = the fraud-signature the complaint
+  leans on); NEW regime (Rietbroek + directors) bought $1.05M with personal money AFTER full disclosure
+  and the kitchen sink. Old-sells/new-buys across a management change is about the cleanest
+  reported-vs-physical read available. Check whether Doss/Scherger sales were 10b5-1 before weighting.
+  (3) Overhang: litigation cost/distraction; but sized vs a $3B company, securities suits of this type
+  overwhelmingly settle (D&O insurance + cash) without existential impact.
+- *(⚠️ calibration — base rate)* Post-crash class actions are near-AUTOMATIC: any 50% drop with guidance
+  misses draws plaintiff firms recycling public disclosures. The suit's existence is NOT independent
+  evidence of fraud, and it contains no new business information — every "corrective disclosure" was
+  already in the price we measured. It reframes; it doesn't re-rate.
