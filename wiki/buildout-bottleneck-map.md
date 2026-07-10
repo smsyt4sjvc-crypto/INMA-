@@ -46,3 +46,24 @@ each layer reprices when it binds. Related: [[power-scarcity-equities]], [[ai-ca
 Run the shortlist through sp500_health_screen columns + EDGAR Cell-2; CLF/VICR especially (filings check
 mandatory for golden-asset-in-bad-business profiles). Watch for the ecosystem-nomination catalysts
 (NVTS pattern): NVIDIA/hyperscaler naming a partner = the repricing event.
+
+## The SECOND cascade — the server-component pyramid (merged 2026-07-09, from Jake's other session)
+`raw/2026-07-09-zh-component-pyramid.md`. Two parallel cascades, same mechanism ("pull a memory" — each
+layer's bottleneck owner discovers pricing power; capital rotates down): this note's ELECTRICAL stack
+(turbines→switchgear/transformers→electrical steel) + the SERVER stack (memory→MLCCs→substrates/PCBs→base
+materials). **Both bottom out in wrong-shored base materials with no clean US ticker = why the bottom is
+unrepriced = where the asymmetry lives.**
+- Layer status: 1 memory REPRICED; 2 MLCC/passives REPRICING (Goldman: Yageo/SEMCO/LGI; all foreign);
+  3 substrates/PCB NEXT — US access: **TTMI** (best: AI networking PCB + defense), **ROG** (laminates,
+  post-DuPont-collapse value-trap check required); the layer's heart is Ibiden/Shinko/Unimicron/Elite
+  Material (JP/TW) → US names catch the sympathy bid on the upgrade wave.
+  4 base materials NOT RUN — glass cloth ≈ Nittobo monopoly, copper foil = Mitsui/SK Nexilis, tantalum =
+  GAM (private)/Taniobis → investable expression is one layer further down: **FCX** (copper), MTRN, AMG.AS,
+  and the **critical-minerals policy class** (Peabody DOE grant 7/8 = what layer-4 re-shoring money looks
+  like). Both pyramids end at strategic-materials policy — Jake's MP-adjacent intersection confirmed.
+- ⚠️ Three appended flags: (1) **cycle clock** — the cascade is conditional on the $996B 27E bar surviving;
+  the cliff kills the rotation mid-pyramid → layers 3-4 positioning = the BULL-side barbell leg vs the puts
+  (same capex data decides both). (2) **Nomination repricing** (NVTS +151%, Goldman waves) — watch for
+  initiation waves/supplier qualifications/DPA awards, not price drift. (3) **Every layer that pulls a
+  memory pulls a lawsuit** — MLCCs have 2018 cartel priors; each layer's pricing power has a political
+  half-life (the profiteering ratchet).
