@@ -37,3 +37,15 @@
 
 # Ingested into: portfolio-state (watch update). Book: vol regime persists (puts/CME-CBOE thesis); defense
 # basket tailwind; Qatari-LNG risk elevated (US-LNG substitution channel, unfunded).
+
+## Product-export detail (Jake paste, ~7/9-10) — the toll quantified
+- Record 8.7mm b/d product exports (led by PROPANE, then diesel/gasoline/jet); +2.0mm b/d (+30%) since March
+  (= the two-war timeline). **Crude exports FELL −3.1mm b/d from April peak to 3.3mm** → the US keeping
+  barrels, refining them, EXPORTING THE MARGIN not the commodity — "own the toll" in the trade data.
+  2022 comparison: <4mm b/d → the US became the world's swing refiner in 4 years.
+- **Destination correction:** most diesel → BRAZIL/South America (~14% Europe) — Russia's ban strands its
+  post-2022 rerouted customers (Brazil bought Russian diesel after the EU embargo); the US Gulf backfills
+  THEM, not Europe directly. Same thesis, different map.
+- Domestic implication: record exports + domestic distillate draws (−5MM) = US consumers bid against global
+  buyers for American diesel → pump/freight prices linked to GLOBAL scarcity regardless of US production =
+  another CPI channel into the Fed Trap + the Hollow Bottom fuel bill.
