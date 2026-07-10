@@ -127,3 +127,29 @@ stay crushed (value traps pass every gate). The unencodable gate = "is the E bro
 price," done per name. And the CALENDAR gate outranks the stock gates: ignitions cluster in panic
 windows; a short list at index highs is information (no window open), and the tool's real job is
 to be re-run into the next flush.
+
+## First live run of the filter (2026-07-10, Jake's Colab)
+### DATA
+- **131 of ~1,500 names ≥50% below 2y high** (index at ATH). Strict mold (all 5 gates): **12 names** —
+  VRRM −87%, GTM −78%, DUOL −77% (PE 14.4, rev +26.5%), INSP −76%, EPAM −69%, FRPT −67%, BLKB −66%,
+  AMPH −65%, GPK −64%, ADMA −62%, UPWK −60% (PE 10.9, FCFy 15.7%), WEN −59%.
+- Near-misses (one gate failed): IT, KD, BAH, PLNT, SFM, OLLI, MORN, CPB, TMDX, PEGA, WHR, CRK + more.
+- Round-trippers: ADMA and TMDX were 3x runners IN the study and are back in/near the crushed pile.
+- ⚠️ Verify before trusting: GTM FCFy 41.6% and KD 105.7% likely mcap-collapse artifacts — FCF yield on
+  mcap ignores debt; VRRM/GTM/WEN carry heavy leverage (use EV, read the balance sheet).
+### THESIS (interpretation — NOT fact)
+- **The composition is the finding: this crushed pile is THEMATIC, not systemic.** 2020's pile was
+  indiscriminate (panic broke prices, not businesses). Today's is a set of specific verdicts: an
+  AI-disruption death row (DUOL, EPAM, UPWK, GTM, BLKB, PEGA, IT — "AI eats language learning /
+  IT services / freelancing / sales data / consulting") plus GLP-1/consumer casualties (INSP, WEN,
+  CPB). Outside panic windows, deep drawdowns are mostly INFORMATION, not fear — the intact-business
+  test is harder here because the market claims the E is broken, not the price.
+- **The mirror-image trade (flagged, not sized):** the AI-victim discount is Jake's AI-capex thesis
+  priced from the other side. If AI ROI disappoints ([[ai-capex-cycle]] Stage 1.5), the disruption
+  priced INTO these names fails to arrive on schedule — DUOL growing 26.5% at 14x while priced for
+  obsolescence is the same narrative error as builders priced for infinite capex, inverted. One
+  falsifier per name: is REVENUE decelerating (disruption real) or holding (discount wrong)?
+- Calendar-gate reading confirmed: 131 crushed at index ATH = the K-shaped tape's rolling single-name
+  bear market ([[concentration]]), not an open ignition window. Watchlist mode, not deploy mode.
+- Next steps: OpenInsider pull on the 12 (cluster buys = operators voting intact); name-level E-work
+  before any dollar (revenue trajectory, debt, guidance).
