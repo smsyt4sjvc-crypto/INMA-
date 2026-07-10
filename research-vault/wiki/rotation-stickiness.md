@@ -122,3 +122,14 @@ Related: [[market-fragility]], [[concentration]], [[new-economy-regime]], [[deta
   (4) the class-level revealed preference = the market-wide CLUSTER-BUY screen (3+ insiders buying own
   stock, rolled up by industry — openinsider latest-cluster-buys cell) → expect buys clustering in fallen
   value sectors and a void at the AI complex = the insider version of the rotation, market-wide.
+- *(2026-07-10 — the market-wide cluster-buy map, Jake's run)* 40 recent cluster buys: **AI complex = a
+  VOID** (zero semis/neoclouds/megacap tech). Where insider personal money IS going: **Pharma $101M** (#2
+  industry = the quiet-health thesis co-signed), **energy throughout** (MTDR, EXE, DINO, KYN, YPF, PAM),
+  fallen consumer value (KMX **5 insiders**, LOVE, VRA, FUN, MBC), financials (12-insider bank cluster,
+  RYAN 5, HLNE), and two buildout-adjacent: **ACM (3, engineering services)** + **ADSK (4, $2.2M — the
+  design-software layer, BSY's neighbor)**. Haircuts: strip CEFs (12/40 = mechanical NAV-arb), PSUS ($70M
+  Ackman seeding) and LILA ($140M Malone control-buying) = plumbing not sentiment; the AI void is partly
+  BASE RATE (megacap insiders never cluster-buy at highs) — the signal is the ASYMMETRY (pharma/energy/
+  consumer execs buying own dips vs semi execs selling $100M at own highs). TSM row anomalous ($74 vs $434
+  tape; FPIs don't file Form 4s) — quarantined. Tension logged: KMX 5-insider buy = a consumer-credit
+  confidence vote AGAINST the Hollow Bottom's auto-lending read (small, honest entry).
