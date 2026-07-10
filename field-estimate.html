@@ -701,10 +701,10 @@ function buildOfferPageHTML(){
   @media(max-width:520px){.photos{grid-template-columns:1fr}}
   form .fld{margin-bottom:13px}
   form label{display:block;font-size:12.5px;font-weight:600;color:#9A958E;margin-bottom:5px;text-transform:uppercase;letter-spacing:.5px}
-  form input,form textarea{width:100%;padding:12px 13px;background:#1C1A17;border:1px solid #3a352e;border-radius:10px;color:#F5F2ED;font-family:inherit;font-size:15px;-webkit-appearance:none}
+  form input:not([type=checkbox]),form textarea{width:100%;padding:12px 13px;background:#1C1A17;border:1px solid #3a352e;border-radius:10px;color:#F5F2ED;font-family:inherit;font-size:15px;-webkit-appearance:none}
   form input:focus,form textarea:focus{outline:none;border-color:#B8941F}
-  .accept{display:flex;gap:10px;align-items:flex-start;margin:14px 0;font-size:14px;color:#D6D0C6}
-  .accept input{width:20px;height:20px;flex-shrink:0;accent-color:#B8941F}
+  .accept{display:flex;gap:10px;align-items:flex-start;margin:14px 0;font-size:14px;color:#D6D0C6;cursor:pointer}
+  .accept input[type=checkbox]{-webkit-appearance:auto;appearance:auto;width:22px;height:22px;min-width:22px;flex-shrink:0;accent-color:#B8941F;margin:0;cursor:pointer}
   .submit{width:100%;background:#B8941F;color:#1C1A17;border:0;padding:16px;border-radius:12px;font-weight:800;font-size:16px;font-family:inherit;cursor:pointer}
   .submit:disabled{opacity:.6}
   #applyStatus{margin-top:12px;font-size:14px;color:#B8941F;text-align:center}
