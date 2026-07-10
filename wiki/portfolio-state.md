@@ -201,3 +201,19 @@ hardware** — which is Jake's heaviest sleeve. Implications:
 - Disciplined menu offered: (1) re-rack GTC ladder on BOTTLENECK names only (TSM/MU/AVGO, not DELL/
   analog) at chosen prices; (2) starter tranche + rungs; (3) wait for the physical confirm already
   defined (DDR5 holding + TSM guide ~Jul 16). TSM/ASML earnings ~Jul 15-16 = known catalysts days away.
+
+## ⚡ 2026-07-09 — the median line vs the book (the tool disagrees with the posture)
+- **Current state (Jake's run): top-10 composite 349.9 = ABOVE the 50d median (347.5, +0.7%) and ABOVE
+  the 200d median (327.8, +6.7%) → the regime filter reads "invested."** The entire two-week derate
+  happened without the cohort breaking even its 50d median = noise inside an intact uptrend, by
+  trend-filter standards. Third mechanical reading against the near-term bear case (V-bounce falsifier,
+  unconfirmed physical layer, now the line).
+- *(the honest ledger)* Still FOR the bear: valuation/concentration, political ratchet, ORCL credit,
+  Fed no-put, war tail. Now AGAINST: trend intact, drift pays holders, physical layer firm. Narrative
+  updates from "top is in" to **"top unproven; tail hedged; paid 4.3% to wait."** The book (cash + puts +
+  2 shares) is well-calibrated to that mix — the story told about it needed the correction, not the positions.
+- *(JURISDICTION SPLIT — pre-committed to avoid tool-override drift)* IF the filter passes validation
+  (neighborhood sweep + QQQ-20y): **the median line governs the LONG sleeve** (no long deployment below
+  it; tranching permitted above it — its instruction today); **the thesis/falsifiers govern the HEDGE**
+  (puts live/die on DDR5, capex guides, the fuses — not the line). Neither system vetoes the other intraday.
+- **Mechanical tripwire: a ~6.3% decline crosses the 200d median = regime confirmed, all instruments align.**
