@@ -592,3 +592,20 @@ $ IN over usable compute OUT, ignoring monetization — is THAT ratio eroding? A
   The lowest-cost-landlord thesis from the CEO's mouth; conditional phrasing = an option being priced, with
   the tenant queue already forming. Bear framing coexists ("Meta ADMITS excess capacity" — SA); which read
   dominates = whether the $125-145B guide holds.
+
+## 2026-07-10 — Bernstein: 12 years to clear the 338 GW pipeline (up from 10 LAST MONTH)
+- *(DATA, as-reported via Jake/ZH)* 338 GW announced DC pipeline ÷ actual build rate ≈ 12 yrs (implied
+  ~28 GW/yr); was 10 yrs a month ago = the pipeline inflating vs physical execution capacity. Scale check:
+  338 GW ≈ a QUARTER of the entire US generating fleet.
+- *(THESIS — four layers)* (1) The pipeline is largely FICTIONAL — queue-squatting, multi-site option
+  filings, announcement theater; most of it never gets built = the cancellation reservoir. (2) The
+  denominator is the [[buildout-bottleneck-map]] BINDING: transformers/switchgear/political kills cap the
+  build rate — money unlimited, electricians not. (3) "GPU/memory paperweights" = Burry's CIP warehouse
+  quantified from the other end — chips aging a generation in the queue = the all-in $/compute erosion
+  accelerating + the financing note's collateral aging IN QUEUE. (4) **Stage-2 redefinition: the cliff may
+  arrive as SCHEDULE SLIPPAGE, not announced cuts** — the $996B 27E consensus can deflate by projects
+  sliding right, no press release. → Second trigger added alongside "27E bar revised down": **GW actually
+  under construction falling in absolute terms** (announcements = narrative; GW-under-construction =
+  physical — the reported-vs-real split again).
+- Messenger note: Bernstein (the AVGO "pause not break" shop) flagging pipeline fiction = narrative
+  migration continuing.
