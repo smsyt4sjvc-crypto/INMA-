@@ -53,3 +53,14 @@ into one 0–100 fragility number + trigger panel.
 ## Sources
 - Session work 2025-Q4 → 2026-06 (breadth/concentration/ATH/money-flow cells, whale 13F pull).
 - `raw/` HFI oil piece, Kobeissi gold post.
+
+## 2026-07-10 — VIX vs single-stock vol gap: another record
+- DATA (as-reported, ZH feed): the gap between index VIX and single-stock implied vol hit a fresh
+  record into earnings season; "market fragility ATH."
+- *(THESIS)* Record-low implied correlation = the index is calm ONLY because single names offset each
+  other (rotation, not stability). Two reads: (1) this is the volatility signature of the
+  [[rotation-stickiness]] regime — violent single-name repricing under a flat index; (2) mechanically,
+  INDEX options are historically cheap relative to single-name vol — a correlation crash (one macro
+  cause hitting everything at once: a hike, a strait closure, a Stage-2 print) snaps the gap shut and
+  index vol catches up violently. Descriptive: the book's SPY puts are long exactly the thing priced
+  at a record discount — the risk that stocks start moving TOGETHER again.
