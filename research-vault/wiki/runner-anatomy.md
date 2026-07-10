@@ -196,3 +196,13 @@ to be re-run into the next flush.
   structural HEADWIND to beverage-multipack volumes — is the packaging volume decline cyclical destock
   or the GLP-1 chain arriving? The insider buys say the operators think cyclical. Unresolved; that IS
   the bet.
+
+### ⚠️ CORRECTION (2026-07-10, Jake's challenge: "that's all they package?")
+The GPK description above was too narrow. Fuller book (approx splits from filings, from memory —
+verify exact end-market table in 10-K): food ~40-45% (cereal/frozen/pet), beverage ~20% (multipacks +
+plastic-substitution: KeelClip, Boardio paper cans), foodservice ~15-20% (cups/clamshells), household/
+beauty/healthcare cartons ~15% (AR Packaging; ~30% of sales European). Vertically integrated upstream —
+owns the paperboard mills (why the margin swing was violent: mill operating leverage both ways).
+Read revised: GLP-1 headwind touches ~60% of the book, not all; and the omitted BULL structural force =
+plastic-to-paper substitution (regulatory + CPG mandates). The name's bet = GLP-1 eating food/bev units
+vs substitution taking share of remaining units — at 11x, post-kitchen-sink, with operators buying.
