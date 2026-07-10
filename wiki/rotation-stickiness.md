@@ -75,3 +75,15 @@ Related: [[market-fragility]], [[concentration]], [[new-economy-regime]], [[deta
 
 ## Sources
 - Candle scan 2026-07-03 (`tools/flow_trackers.py`); session discussion 2026-07-03.
+
+## Update 2026-07-10 — record tech insider BUYING (against-the-bear ledger, honest entry)
+- *(DATA — Kobeissi/SentimenTrader chart, Jake image)* **28 XLK executives bought own stock on the open
+  market in 6 months = highest on record** (prior record 25 in 2011 — a wobble insiders correctly bought;
+  early-2025: 5). Doubled since Jan 2026. Paired with Jake's observation: SOXX fund INFLOWS last week.
+- *(THESIS)* Two independent accumulation signals through the derate = real weight on the flush-not-regime
+  side, alongside the V-bounce falsifier and the median line. Insider open-market buying has one explanation.
+- ⚠️ Caveats: chart shows buyer COUNT, not net dollars (tech insiders sell on autopilot — no sell ratio
+  shown); no buyer identity (buys cluster in FALLEN names — could be intra-tech value signal, not AI-core
+  endorsement); no size split. → Jake running the Form-4 pull on the 24-name semi basket (OpenInsider cell)
+  to answer the sharp version: are MU/AMD/semicap insiders buying or selling through the crack? LRCX/KLAC/
+  AMAT insider direction = adversarial test of the scanner puts. TSM/ASML/ASX exempt (no Form 4s).
