@@ -153,3 +153,27 @@ to be re-run into the next flush.
   bear market ([[concentration]]), not an open ignition window. Watchlist mode, not deploy mode.
 - Next steps: OpenInsider pull on the 12 (cluster buys = operators voting intact); name-level E-work
   before any dollar (revenue trajectory, debt, guidance).
+
+## Insider pull on the 12 (2026-07-10, OpenInsider via Jake's Colab, 6m lookback)
+### DATA
+- **GPK: 5 buys $1.05M, ZERO sells** — CEO Rietbroek $501K + directors Stafeil $200K / Venturelli $199K /
+  Hagemann $154K, spread Mar–May.
+- **FRPT: 7 buys $508K across SIX distinct directors** (May cluster + Feb), but **$14.0M sells** opposite.
+- **ADMA: 4 buys $468K** — Grossman 3 adds totaling ~$251K (May) + Elms $217K (Mar); $814K sells.
+- **EPAM: 6 "buys" = six officers (CEO, CFO, GC, Controller, CPO, Delivery EVP) each EXACTLY $7,500,
+  filed within 3 minutes on 5/4** — an orchestrated confidence gesture, not conviction. Zero sells.
+- **DUOL: lone director buy $499K (Mar) vs $2.75M sells (7).** GTM: lone director $99K vs $640K sells.
+  **UPWK: 0 buys, $4.26M sells (13). BLKB: 0 buys, $2.82M sells.** INSP: 0 buys, $187K sells.
+- Silence (0/0): VRRM, AMPH, WEN.
+### THESIS (interpretation — NOT fact)
+- **The AI death row gets NO insider defense.** Across DUOL/EPAM/UPWK/GTM/BLKB: zero conviction-scale
+  buying, heavy selling at UPWK/BLKB/DUOL, and EPAM's identical-$7.5K sextet is signaling theater
+  (uniform size + same timestamp = discount to ~zero; contrast the KMX cluster's varied real sizes).
+  Insiders are not disputing the disruption verdict → the mirror-image trade loses its physical-layer
+  support; the burden now sits ENTIRELY on the revenue falsifier (2 quarters of holding growth).
+- **The names insiders DO defend are the boring physical ones:** packaging (GPK — the one MTDR-signature
+  print: CEO + 3 directors, $1M+, zero sells), pet food (FRPT — real breadth, but read the $14M seller
+  before crediting it), plasma (ADMA — repeat adds). Operators defend demand they can physically see;
+  nobody steps in front of a narrative verdict. Consistent with the study's cohort split.
+- Scoreboard: **intact-per-insiders: GPK. Partial: FRPT, ADMA. No dispute/agree-broken: the AI wing.
+  Silent: VRRM, AMPH, WEN, INSP.**
