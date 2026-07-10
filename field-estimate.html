@@ -645,10 +645,37 @@ function buildOfferPageHTML(){
     `<div style="display:flex;justify-content:space-between;gap:14px;padding:9px 0;border-bottom:1px solid #3a352e;font-size:14.5px"><span>${escapeText(r.desc)}${r.qty?` <span style="color:#8A857E">(${r.qty.toLocaleString('en-US',{maximumFractionDigits:2})} ${escapeText(r.unit||'')})</span>`:''}</span><span style="color:#C9C1B4">${fmtMoney(r.total)}</span></div>`
   ).join('');
   const JOBNUM = j.num;
+
+  // ── Card metadata for the auto-listing offer board (/offers). ──
+  const hay = (genScope + ' ' + matList + ' ' + t.rows.map(r => r.desc).join(' ')).toLowerCase();
+  const typeOf =
+      /\bsid(e|ing)\b|hardie|lap board|board.?and.?batten/.test(hay) ? 'Siding' :
+      /\bwindow/.test(hay)                                          ? 'Windows' :
+      /\broof|shingle|standing seam/.test(hay)                      ? 'Roofing' :
+      /\bdoor/.test(hay)                                            ? 'Doors' :
+      /\bdeck|railing/.test(hay)                                    ? 'Deck' :
+      /\bpaint|stain\b/.test(hay)                                   ? 'Paint' :
+      /\bgutter|soffit|fascia/.test(hay)                            ? 'Gutters & Trim' :
+      'Exterior';
+  // City only — the public board never shows the full street address.
+  let cityOf = 'Inland Northwest';
+  const addrParts = (state.job.address || '').split(',').map(s => s.trim()).filter(Boolean);
+  if (addrParts.length >= 2){
+    const hadWA = /\bWA\b/.test(addrParts[1]);
+    const c = addrParts[1].replace(/\b\d{5}(-\d{4})?\b/, '').replace(/\b[A-Z]{2}\b/, '').trim();
+    if (c) cityOf = c + (hadWA ? ', WA' : '');
+  }
+  const scopeSnippet = (genScope || t.rows.filter(r => (r.desc||'').trim()).map(r => r.desc).join(', '))
+    .replace(/\s+/g, ' ').trim().slice(0, 150);
+  const offerTitle = typeOf === 'Exterior' ? 'Fully-Scoped Exterior Job' : typeOf + ' — Full Scope';
+  const offerMeta = { title: offerTitle, type: typeOf, area: cityOf, price: fmtMoney(t.total), scope: scopeSnippet, status: 'open' };
+  const offerMetaJSON = JSON.stringify(offerMeta).replace(/</g, '\\u003c');
+
   return `<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>INMA Offer ${escapeText(JOBNUM)}</title>
 <meta name="robots" content="noindex,nofollow">
+<scr`+`ipt type="application/json" id="inma-offer-meta">${offerMetaJSON}<\/scr`+`ipt>
 <link rel="apple-touch-icon" href="/bear-logo.jpg">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -687,8 +714,8 @@ function buildOfferPageHTML(){
 <div class="wrap">
   <header class="hero">
     <span class="status">● Open for Applications</span>
-    <h1>Fully-Scoped Exterior Job</h1>
-    <div style="color:#9A958E;font-size:14px">Reference: <strong style="color:#D6D0C6">${escapeText(JOBNUM)}</strong></div>
+    <h1>${escapeText(offerTitle)}</h1>
+    <div style="color:#9A958E;font-size:14px">${cityOf !== 'Inland Northwest' ? escapeText(cityOf) + ' · ' : ''}Reference: <strong style="color:#D6D0C6">${escapeText(JOBNUM)}</strong></div>
   </header>
   <div class="price-card">
     <div class="lbl">Offer Price</div>
