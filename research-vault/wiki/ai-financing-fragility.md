@@ -113,3 +113,13 @@ Related: [[ai-capex-cycle]], [[market-fragility]], [[concentration]], [[consumpt
 ## Sources
 - WebSearch 2026-07-03 (Kalkine, SourceryIntel, Ropes & Gray, Insurance Business, Quinn Emanuel client alerts).
 - Jake's framing (insurance / Bermuda private-credit tranches). Historical analogs: analysis.
+
+## 2026-07-10 — hyperscaler paper is now ~9% of ALL IG supply
+- DATA (as-reported, ZH feed): **$194B hyperscaler debt issued YTD across currencies ≈ 9% of total
+  investment-grade supply.**
+- *(THESIS)* The watch item was "hyperscaler IG spreads." The quantity dimension just got its number:
+  one sector = a tenth of the IG market's new paper, mid-year. Index funds, insurers, and the
+  Bermuda/private-credit chain absorb it by MANDATE (IG index weight), not by choice — the crowding
+  mechanism that turns a sector repricing into a market-plumbing event. Pair with ORCL CDS ~198bps:
+  price signal + quantity signal now both elevated. If the token price war compresses the revenue that
+  services this paper while Williams/Hammack raise the rate on rolling it, both jaws close.

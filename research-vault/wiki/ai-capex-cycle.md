@@ -658,3 +658,24 @@ $ IN over usable compute OUT, ignoring monetization — is THAT ratio eroding? A
   more they build, the tighter money gets, the worse the financing math in [[ai-financing-fragility]]
   (floating exposure, refi walls, RVG collateral). Stage mapping unchanged: this arms fuses, it is not
   Stage 2. NVDA-at-pre-boom-valuation is the market voting on Stage 1.5 in real time.
+
+## 2026-07-10 PM — the Token Revolt goes mainstream + a possible spend-plateau print
+### DATA (as-reported, `raw/2026-07-10-zh-feed-token-revolt.md`)
+- **Palo Alto Networks CEO publicly demands a 90% AI price drop** ("Token Revolt Goes Mainstream").
+- **Polymarket: OpenAI $1T-valuation-this-year odds −23% to 54%**, attributed to the token price war.
+- Apple sued OpenAI (trade secrets, AI hardware, two ex-Apple employees).
+- ⚠️ **Cloud AI capex chart (source unknown): US 2025E $256B → 2026E $256B = FLAT.** China $57B→$102B.
+### THESIS (interpretation — NOT fact)
+- *(the buyer strike arrives)* CEPI/tokenmaxxing predicted margin compression from the SELL side
+  (vendors cutting to win volume). A Fortune-500 CEO demanding 90% off is the DEMAND side organizing —
+  a buyer revolt on top of a price war. Both blades now visible; token revenue/economics deteriorate
+  faster than compute costs fall → ROI crack deepens exactly as Jake's CFO-optimization frame said
+  (open-weight + interop = buyer leverage). Polymarket repricing OpenAI is the market grading it live.
+- *(⚠️ the flat-capex print — handle with tongs)* If the US $256B→$256B 26E line is real, it is the
+  FIRST spend-side plateau in any series we track — proto-Stage-2. But: unknown source, "Cloud AI
+  capex" ≠ the GS total-hyperscaler series ($996B 27E bar), and 26E estimates revise. NOT a trigger
+  fire; a flag to find the primary chart. If confirmed, the Stage-2 trigger ("27E bar revised down")
+  is closer than the consensus narrative admits — and China doubling while US flatlines relocates the
+  marginal demand for the [[buildout-bottleneck-map]] chokepoints eastward (export-control collision).
+- *(Apple opens a second front)* Memory (CXMT sourcing) was front one; now IP/hardware litigation
+  against OpenAI. The whale is fighting the AI complex on supply AND on the device layer.
