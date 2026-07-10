@@ -82,9 +82,8 @@
 </div>
 
 <script>
-  // ── Point this at your published Google Sheet CSV once it's set up.
-  //    (In the Sheet: File → Share → Publish to web → CSV → copy the link.)
-  const SHEET_CSV = '';
+  // ── Jake's offers sheet (shared "anyone with link · Viewer"), read as CSV.
+  const SHEET_CSV = 'https://docs.google.com/spreadsheets/d/11ePdHLhPNXdtzkIVAeuwmiNRirun198DR6Gs8kTP7QE/gviz/tq?tqx=out:csv';
 
   // Sample offers shown until the Sheet is connected (so the board is never empty).
   const SAMPLE = [
@@ -160,8 +159,16 @@
   }
 
   if (SHEET_CSV){
-    fetch(SHEET_CSV).then(r => r.text()).then(t => render(rowsToObjects(parseCSV(t))))
-      .catch(() => render(SAMPLE));
+    fetch(SHEET_CSV)
+      .then(r => { if (!r.ok) throw new Error('http ' + r.status); return r.text(); })
+      .then(t => {
+        const objs = rowsToObjects(parseCSV(t));
+        // Sanity check: does it look like our offers sheet?
+        const ok = objs.length === 0 || ['status','title','type','price','area'].some(k => k in objs[0]);
+        if (!ok) throw new Error('unexpected columns');
+        render(objs);   // empty sheet -> "No open offers"; real rows -> cards
+      })
+      .catch(() => render(SAMPLE));   // sharing/connection issue -> show samples, never broken
   } else {
     render(SAMPLE);
   }
