@@ -67,3 +67,27 @@ unrepriced = where the asymmetry lives.**
   initiation waves/supplier qualifications/DPA awards, not price drift. (3) **Every layer that pulls a
   memory pulls a lawsuit** — MLCCs have 2018 cartel priors; each layer's pricing power has a political
   half-life (the profiteering ratchet).
+
+## The INTEROP layer — tokens, lock-in, and the orchestration toll (2026-07-09, Jake's question)
+- **Tokens = two things, neither portable:** (1) text chunks — model-specific vocabulary, not objects;
+  (2) billing units — **prepaid vendor scrip denominated in ONE model's compute.** No commodity token
+  exists; you cannot stockpile tokens across models. The stockpileable asset is GPU-HOURS (generic compute)
+  — which is what neoclouds sell and Meta resells.
+- **Open-weight ≠ portable tokens — it DISSOLVES the token as a product:** own the weights, run on own
+  hardware, buy electricity+GPUs (commodities) instead of scrip. Why the China open-weight wave crushed
+  token economics; why Karp's pitch is "own the toll."
+- **The real lock-in was never tokens:** fine-tunes (non-portable by physics), **embeddings** (a company's
+  vector DB is written in one model's semantic coordinates — switching = re-embedding the corpus), tuned
+  prompts/evals/compliance. Raw CALLS are already commodity (OpenAI-compatible API shape + routers:
+  OpenRouter/LiteLLM = one bill, any model).
+- **The interop stack has names:** MCP (model↔tools, Anthropic's open standard, industry-adopted), A2A
+  (agent↔agent), **x402** (machine↔machine payments via HTTP 402 + stablecoins — Jake's instinct), routers
+  (model↔model substitution).
+- *(the strategic read)* **Interop software RELOCATES lock-in one layer up, to itself.** PLTR dissolves
+  model-vendor power while building the ontology/orchestration moat; routers kill provider lock-in and
+  accrue router lock-in; MCP-given-away-free = commoditize-your-complement (keep value at the model layer).
+  **Whoever owns the layer where models become swappable owns the new toll.** Candidates: PLTR (gov/ontology),
+  MSFT (Copilot distribution), routers (private), x402 rail (COIN-adjacent, speculative).
+- Investable honesty (the vault pattern again): mostly OSS/private/inside-megacaps. Tradeable conclusions:
+  bearish raw-token pricing power (compression, positioned); the [[portfolio-state]] PLTR reframe gets its
+  MECHANISM (the orchestration toll outliving the model toll).
