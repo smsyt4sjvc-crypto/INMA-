@@ -177,3 +177,12 @@ Five task forces "to advance the conduct of monetary policy." The COMPOSITION is
   the Fed's internal AI fight (cost-push today vs supply-side salvation tomorrow) now has org charts, and
   the salvation side got the friendlier judges. Timeline: reports in quarters-to-years — regime architecture,
   not a near-term rate signal.
+- *(2026-07-09 same-day exhibit — the conflict compounds)* The MSFT exec named to the Productivity & Jobs
+  panel runs Xbox, which is cutting **1,600 jobs** (4,800 MSFT-wide) while the company holds **2,273 H-1B
+  approvals** this year — the panel assessing AI displacement co-led by an executive executing it. Threads:
+  (1) layoffs-fund-capex mechanism (Jul-6/7 log) + the visa-substitution spread routed to GPUs; (2) the
+  POLITICAL FUSE gets a legislative vehicle — Trump's $100K H-1B fee struck down as a tax only Congress can
+  levy → relocated into Congress in an election year; the fact-pattern (layoffs + visas + record capex + a
+  Fed advisory seat) = ready-made midterm ammunition; (3) Xbox squeezed both ends in one month: prices +$150
+  (memory passthrough) AND 1,600 cuts = the Hollow Bottom trifecta inside one business unit. ⚠️ Approvals ≠
+  1:1 replacement (framing is polemical) — but veracity ≠ effect, and the effect is radioactive.
