@@ -177,3 +177,22 @@ to be re-run into the next flush.
   nobody steps in front of a narrative verdict. Consistent with the study's cohort split.
 - Scoreboard: **intact-per-insiders: GPK. Partial: FRPT, ADMA. No dispute/agree-broken: the AI wing.
   Silent: VRRM, AMPH, WEN, INSP.**
+
+### Follow-up detail (2026-07-10 PM, Jake's Colab): FRPT seller identified + GPK tape
+- **FRPT: 100% of the $14.0M selling = CEO Cyr, all five tranches "S - Sale+OE"** (option-exercise-linked,
+  10b5-1 plan adopted 2025-11-05, strikes $10.23, sold $47.88–51.04, May 13–27). Zero discretionary selling
+  by anyone. → **FRPT UPGRADED: the six-director $508K discretionary cluster stands clean**; the only
+  seller was monetizing comp on a pre-set schedule. Scoreboard now: intact-per-insiders GPK **and FRPT**
+  (caveat noted); partial ADMA.
+- **GPK tape: last $10.35; 6m −29.9%, 12m −52.3%, −54.5% vs 12m high — but 3m +8.3% (basing after the
+  flush).** CEO Rietbroek's 3/4 buy at ~$10.95 is −5.5%; the May director buys at ~$10.11 are +2.3% —
+  insiders bought the knife and it stopped falling where they bought.
+- Context (WebSearch, dated 7/10): GPK = fiber-based consumer packaging (folding cartons, beverage
+  multipacks, foodservice cups) for big CPG. Q1-26 adj EBITDA margin 10.8% vs 17.2% prior; new-CEO 90-day
+  review → $60M cost cuts, 500 roles, $200M low-return projects canceled; FY26 guidance REAFFIRMED
+  ($8.4–8.6B sales, $0.75–1.15 adj EPS).
+- ⚠️ Open question before anyone gets romantic: GPK's end demand = food/bev unit volumes. The
+  [[trade-down-landing-pads]] GLP-1 chain (sugary intake −65% among users, 20% of households) is a
+  structural HEADWIND to beverage-multipack volumes — is the packaging volume decline cyclical destock
+  or the GLP-1 chain arriving? The insider buys say the operators think cyclical. Unresolved; that IS
+  the bet.
