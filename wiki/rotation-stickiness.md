@@ -133,3 +133,14 @@ Related: [[market-fragility]], [[concentration]], [[new-economy-regime]], [[deta
   consumer execs buying own dips vs semi execs selling $100M at own highs). TSM row anomalous ($74 vs $434
   tape; FPIs don't file Form 4s) — quarantined. Tension logged: KMX 5-insider buy = a consumer-credit
   confidence vote AGAINST the Hollow Bottom's auto-lending read (small, honest entry).
+- *(⚠️ CORRECTION 2026-07-10 — Jake's, supersedes the KMX read above)* **KMX 5-insider buying CONFIRMS the
+  Hollow Bottom rather than cutting against it: CarMax = the trade-down landing pad** (the automotive ULTA).
+  DATA (verified): avg new-car transaction ~$50K, avg financed $44,156, record **$777/mo** payment, **20.3%
+  of new-car buyers paying $1,000+/mo** (ATH), 7-yr loans climbing; used avg $531/mo — the $246/mo gap =
+  the forced-migration mechanism. Refinements: (1) KMX owns CarMax Auto Finance (subprime-adjacent) → the
+  insider buys only pay in the **squeeze-but-not-collapse** world = the same grind-not-crack shape as Jake's
+  GPT reframe — the auto-credit insiders are on his side of flush-vs-collapse; (2) the silicon thread runs
+  through the windshield: cars = datacenters on wheels (automakers are named DRAM-suit victims) — the same
+  memory extraction that put $150 on an Xbox holds cars at $50K → the trade-down IS the buildout's cost
+  transmitting to households, one hop removed. Wrinkle: used PRICES fell 2% YoY (off-lease supply) = demand
+  hasn't firmed used pricing yet — fine, arguably better for KMX units/margins.
