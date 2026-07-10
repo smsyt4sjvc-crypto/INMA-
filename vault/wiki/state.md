@@ -32,6 +32,12 @@ Related: [[_persona]] · [[_guardrails]] · [[architecture]] · [[positioning]] 
   (`xgollken`) with photos via ImgBB. Accept-checkbox iOS render bug fixed
   2026-07-10. Source: this session's commits on `main`.
 
+## DATA (observed) — Session pickup
+- [2026-07-10] Root `CLAUDE.md` (auto-loads every session) has a "READ FIRST"
+  pointer at the top directing a new session to read `vault/CLAUDE.md` then this
+  file. So a fresh chat picks up the running memory automatically — no need to
+  paste or remember a kickoff line.
+
 ## DATA (observed) — Pipeline
 - [2026-07-10] Offer board is empty (test files cleared). No live real offers
   posted yet. No contractor applications recorded in the vault yet.

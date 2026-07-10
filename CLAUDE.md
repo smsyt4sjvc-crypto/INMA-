@@ -1,5 +1,11 @@
 # INMA — Business Context & Brand Brief
 
+> **▶ RUNNING MEMORY — READ FIRST:** For anything beyond static business facts,
+> read `vault/CLAUDE.md` (the vault's operating rules) then `vault/wiki/state.md`
+> (the canonical "what's true right now" snapshot), and follow its `[[links]]`.
+> The vault is INMA's persistent memory across sessions — this file below is the
+> fixed business brief; the vault is the living history, decisions, and state.
+
 > Drop this file into a Claude Project (as a knowledge file or in custom instructions) to give any chat the full context of the business. For a specific customer, add a short customer note on top of this. If placed in a code repo as `CLAUDE.md`, Claude Code reads it automatically.
 
 ---
