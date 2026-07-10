@@ -105,3 +105,11 @@ Related: [[market-fragility]], [[concentration]], [[new-economy-regime]], [[deta
   he already declined. Vindicates compiling the index off the inflows.
 - Watch: fresh Form-4 sells INTO the current bounce (post-7/8) = insiders using the rally as a second exit
   = final confirmation. Jake's 24-name Colab pull completes the grid.
+- *(mechanics + the one-line summary, 2026-07-10)* Insider sales are PERSONAL money (can't fund capex/
+  buybacks — those come from operating cash + debt). The real linkage runs the other way: active buyback
+  programs = the corporate treasury providing the bid insiders sell into (check MU's 10-Q repurchase line,
+  same filing as the prepayments tell). **The signal: corporately ALL-IN, personally DE-RISKED** — record
+  capex guides + "shortage to 2027" publicly, while the officers' own money exits at the ATH; and not one
+  open-market buy across 24 companies at prices they call a supercycle. Watch what they do with their own
+  money, not what they guide with yours (Burry's public-commitment-bias, purest form). Caveat: 10b5-1
+  mechanics make any single sale meaningless; the absence of buys is the tell.
