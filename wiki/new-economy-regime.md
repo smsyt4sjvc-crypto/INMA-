@@ -186,3 +186,22 @@ Five task forces "to advance the conduct of monetary policy." The COMPOSITION is
   Fed advisory seat) = ready-made midterm ammunition; (3) Xbox squeezed both ends in one month: prices +$150
   (memory passthrough) AND 1,600 cuts = the Hollow Bottom trifecta inside one business unit. ⚠️ Approvals ≠
   1:1 replacement (framing is polemical) — but veracity ≠ effect, and the effect is radioactive.
+
+## The layoffs-vs-jobs-numbers reconciliation (permanent explainer, 2026-07-10)
+Jake's question: mega-layoffs weekly, NFP "fine" — who's lying? Answer: nobody has to be; four mechanics:
+1. **Scale illusion:** ~5M separations + ~5M hires EVERY month; all 2026 tech layoffs ≈ 150-200K = a bucket
+   vs the river. Feeds sample the salient; NFP nets the flow (JOLTS layoff rate near historic lows).
+2. **Composition (Jake's own June extraction = the answer):** severance keeps the laid-off "on payroll";
+   gig/labor-force exit hides them (+832K NILF, participation −0.3pp, full-time −514K, involuntary PT at
+   series highs). The net stays fine while the KIND of employment degrades.
+3. **Jobs-that-aren't-jobs, documented:** birth-death imputation (overcounts at turning points → the huge
+   negative QCEW benchmarks → the Aug-28 checkpoint exists for this), record multiple jobholders (1 person
+   = 2 entries), involuntary part-time (a count, half a livelihood).
+4. **Revisions pattern = mechanics first, politics real second:** CES response rates collapsed (~60%→40s) →
+   first prints are imputation-heavy and assume trend-continuation → in deceleration, prints are
+   SYSTEMATICALLY high and revise down. No dial-touching required. BUT distrust is rational: the BLS
+   commissioner was FIRED over a report (2025) = institutional-pressure risk is real; and **Warsh's Data
+   task force (Chetty card data + Walmart's ex-CEO) = the Fed itself no longer trusting official timeliness.**
+**Method: route around the contested number** — QCEW (tax records), Treasury daily withholding, 941s, and
+the trade-down tape itself (ROST +17% comps IS labor data). Cultural marker: displacement-anxiety sales
+funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-table layer, monetized.
