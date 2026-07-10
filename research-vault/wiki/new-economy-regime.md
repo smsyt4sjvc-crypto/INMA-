@@ -290,3 +290,21 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   with industry (§Warsh task forces = "the pivot's paperwork"). Watch whether Warsh's escape hatch
   survives contact with his own committee's dots. The doctrine says look through; the voters say
   "you don't look through this" (Williams). Someone loses.
+
+### ⚠️ RESOLVED (2026-07-10, WebSearch vs actual June SEP) — the dot-plot discrepancy
+- **DATA (June 17 2026 SEP + press reports):** Current target range **3.50–3.75%**, held. **Median 2026
+  dot = 3.8%** — i.e., ONE quarter-point HIKE above current — revised UP from **3.4% in March** (which had
+  implied a CUT). Distribution: **18 dots** — 8 no change, 1 cut, **9 with ≥1 hike** (of those: 3 at one
+  quarter-point, 5 at a half-point per TradingKey). **Chair Warsh did NOT submit a dot** ("I, however,
+  have refrained from offering any projections of my own, consistent with my long-held views").
+  SEP medians: PCE 2026 3.6%, core PCE 3.3%; GDP 2.2%; U3 4.3%.
+- Both prior reports were correct: CNBC's "penciled in a quarter-point increase" = the MEDIAN; Bloomberg's
+  "nine penciled at least one hike" = the distribution. 9 of 18 = literally half the committee; the median
+  sits on a knife-edge — one dot from neutral.
+- *(THESIS)* Three upgrades to the trap read: (1) **The median flipped from cut to hike in ONE SEP**
+  (~40bp swing March→June) — the fastest hawkish revision of this cycle, contemporaneous with the AI-demand
+  language. (2) **Five participants project a HALF-POINT of hikes** — the hawk tail is deeper than "one and
+  done." (3) **The chair abstained** — so the committee-median-says-hike EXCLUDES the one man holding the
+  AI-disinflation doctrine. The Warsh split isn't rhetorical; it's structural: his committee's central dot
+  contradicts his framework and he declined to put a number against them. The dot plot is the committee
+  voting against the chair's escape hatch.
