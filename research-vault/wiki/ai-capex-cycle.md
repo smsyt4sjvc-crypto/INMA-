@@ -584,3 +584,11 @@ $ IN over usable compute OUT, ignoring monetization — is THAT ratio eroding? A
   capacity-holders still went bankrupt). NBIS/CRWV mechanism attached. Winners of the win/win: enterprises,
   orchestration tolls, lowest-cost landlords. Losers: scrip-sellers without distribution, levered landlords
   without cheap power.
+- *(PRIMARY-SOURCE ANCHOR, verified 7/9)* Zuck's actual words: resale is "definitely on the table... if we
+  get to a point where we've overbuilt"; companies are approaching Meta unsolicited asking "if we have
+  compute that they could buy from us **at some premium to what we bought it at**." [Yahoo/CNBC/TechCrunch]
+  → the cost advantage is IN the quote: Meta's acquisition cost < anyone's market price (scale procurement,
+  owned DCs/power) = the Costco of compute — sells at a markup to ITS cost that undercuts neocloud retail.
+  The lowest-cost-landlord thesis from the CEO's mouth; conditional phrasing = an option being priced, with
+  the tenant queue already forming. Bear framing coexists ("Meta ADMITS excess capacity" — SA); which read
+  dominates = whether the $125-145B guide holds.
