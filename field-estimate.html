@@ -114,7 +114,10 @@
       <div class="brand-mark">INMA</div>
       <div class="brand-sub">Contractor Package</div>
     </div>
-    <div class="dots" id="dots"></div>
+    <div style="display:flex;align-items:center;gap:14px">
+      <div class="dots" id="dots"></div>
+      <button id="newPkgBtn" type="button" style="background:transparent;color:#B8941F;border:1px solid #3a352e;padding:8px 12px;border-radius:10px;font-weight:600;font-size:13px;font-family:inherit;cursor:pointer">＋ New</button>
+    </div>
   </header>
 
   <main class="stage" id="stage">
@@ -218,6 +221,7 @@ const state = {
 };
 const TOTAL_STEPS = 3;
 const MAX_WALLS = 12;
+const DRAFT_KEY = 'inma_pkg_draft_v1';
 
 const $ = (s,r=document)=>r.querySelector(s);
 const $$ = (s,r=document)=>Array.from(r.querySelectorAll(s));
@@ -226,6 +230,69 @@ const uid = () => 'L'+Date.now()+Math.random().toString(36).slice(2,6);
 function escapeAttr(s){ return String(s==null?'':s).replace(/"/g,'&quot;').replace(/</g,'&lt;'); }
 function escapeHTML(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/\n/g,'<br>'); }
 function escapeText(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+/* ============ AUTOSAVE ============ */
+function persistDraft(){
+  const draft = {
+    step: state.step,
+    job: state.job,
+    estimateNumDirty: state.estimateNumDirty,
+    generalScope: state.generalScope,
+    walls: state.walls,
+    materialList: state.materialList,
+    previewLines: state.previewLines,
+    taxPct: state.taxPct,
+  };
+  try {
+    localStorage.setItem(DRAFT_KEY, JSON.stringify(draft));
+  } catch (err) {
+    // Quota exceeded (photos are big base64). Retry with photos stripped so text still survives.
+    try {
+      const light = { ...draft, walls: state.walls.map(w => ({ id:w.id, dataUrl:null, mediaType:null, notes:w.notes })) };
+      localStorage.setItem(DRAFT_KEY, JSON.stringify(light));
+    } catch (e2) { /* private mode / no room — give up quietly */ }
+  }
+}
+
+function restoreDraft(){
+  let raw;
+  try { raw = localStorage.getItem(DRAFT_KEY); } catch (e) { return false; }
+  if (!raw) return false;
+  let d;
+  try { d = JSON.parse(raw); } catch (e) { return false; }
+  if (!d || typeof d !== 'object') return false;
+
+  if (d.job && typeof d.job === 'object') state.job = Object.assign(state.job, d.job);
+  if (typeof d.estimateNumDirty === 'boolean') state.estimateNumDirty = d.estimateNumDirty;
+  if (typeof d.generalScope === 'string') state.generalScope = d.generalScope;
+  if (Array.isArray(d.walls)) state.walls = d.walls.map(w => ({ id:w.id||uid(), dataUrl:w.dataUrl||null, mediaType:w.mediaType||null, notes:w.notes||'' }));
+  if (typeof d.materialList === 'string') state.materialList = d.materialList;
+  if (Array.isArray(d.previewLines)) state.previewLines = d.previewLines.map(l => ({ id:l.id||uid(), desc:l.desc||'', qty:l.qty||0, unit:l.unit||'', rate:l.rate||0 }));
+  if (typeof d.taxPct === 'string') state.taxPct = d.taxPct;
+  if (d.step >= 1 && d.step <= TOTAL_STEPS) state.step = d.step;
+
+  // Push restored values into the Step 1 inputs.
+  const set = (id, v) => { const el = $('#'+id); if (el) el.value = v == null ? '' : v; };
+  set('ownerName', state.job.owner);
+  set('ownerPhone', state.job.phone);
+  set('ownerEmail', state.job.email);
+  set('ownerAddress', state.job.address);
+  if (state.job.date) set('jobDate', state.job.date);
+  if (state.job.num) set('estimateNum', state.job.num);
+  set('generalScope', state.generalScope);
+  set('materialList', state.materialList);
+  return true;
+}
+
+function clearDraft(){
+  try { localStorage.removeItem(DRAFT_KEY); } catch (e) {}
+}
+
+function startNewPackage(){
+  if (!confirm('Start a new package? This clears the current job so you can begin fresh. (Your finished PDF/offer files are already saved separately.)')) return;
+  clearDraft();
+  location.reload();
+}
 
 /* ============ INIT ============ */
 document.addEventListener('DOMContentLoaded', ()=>{
@@ -236,8 +303,12 @@ document.addEventListener('DOMContentLoaded', ()=>{
   bindStep3();
   bindNav();
   setDefaultDateAndNum();
+  const restored = restoreDraft();
   renderWalls();
   updateStepUI();
+  $('#newPkgBtn').addEventListener('click', startNewPackage);
+  // Autosave on any input, plus a periodic backstop.
+  document.addEventListener('input', persistDraft);
 });
 
 /* ============ STEPPER NAV ============ */
@@ -269,8 +340,8 @@ function updateStepUI(){
   window.scrollTo({top:0, behavior:'smooth'});
 }
 function bindNav(){
-  $('#backBtn').addEventListener('click', ()=>{ if(state.step>1){state.step--;updateStepUI();}});
-  $('#nextBtn').addEventListener('click', ()=>{ if(state.step<TOTAL_STEPS){state.step++;updateStepUI();}});
+  $('#backBtn').addEventListener('click', ()=>{ if(state.step>1){state.step--;updateStepUI();persistDraft();}});
+  $('#nextBtn').addEventListener('click', ()=>{ if(state.step<TOTAL_STEPS){state.step++;updateStepUI();persistDraft();}});
 }
 
 /* ============ STEP 1 — JOB INFO ============ */
@@ -365,6 +436,7 @@ function renderWalls(){
       state.walls = state.walls.filter(w => w.id !== id);
       if (state.generated) state.stale = true;
       renderWalls();
+      persistDraft();
     });
   });
 
@@ -409,6 +481,7 @@ function renderWalls(){
     state.editing.dataUrl = dataUrl;
     state.editing.mediaType = f.type || 'image/jpeg';
     renderWalls();
+    persistDraft();
   });
   const clearBtn = $('#clearWallPhoto');
   if (clearBtn) clearBtn.addEventListener('click', () => {
@@ -435,6 +508,7 @@ function renderWalls(){
     state.editing = null;
     if (state.generated) state.stale = true;
     renderWalls();
+    persistDraft();
   });
 }
 
@@ -452,6 +526,7 @@ function bindStep3(){
     state.previewLines.push({ id: uid(), desc:'', qty:0, unit:'', rate:0 });
     renderLines();
     renderTotals();
+    persistDraft();
   });
   $('#materialList').addEventListener('input', e => { state.materialList = e.target.value; });
   // Export — window.open MUST be synchronous for iOS Safari.
@@ -464,7 +539,7 @@ function openContractorPackage(){
   const w = window.open('', '_blank');
   if (!w) { alert('Pop-up blocked. Allow pop-ups for this site.'); return; }
   w.document.write('<p style="font-family:sans-serif;padding:20px">Preparing package…</p>');
-  const html = buildContractorHTML();
+  const html = buildContractorHTML(true);
   w.document.open(); w.document.write(html); w.document.close();
 }
 
@@ -496,6 +571,7 @@ function renderLines(){
       state.previewLines = state.previewLines.filter(x => x.id !== id);
       renderLines();
       renderTotals();
+      persistDraft();
     });
   });
 }
@@ -547,13 +623,14 @@ function exportOfferPage(){
   const html = buildOfferPageHTML();
   const j = getJobHeader();
   const safeNum = (j.num || 'offer').replace(/[^A-Za-z0-9._-]+/g, '_');
-  const blob = new Blob([html], { type: 'text/html' });
+  // octet-stream so iOS offers "Save to Files" straight away instead of a viewer hand-off.
+  const blob = new Blob([html], { type: 'application/octet-stream' });
   const url = URL.createObjectURL(blob);
   const a = document.createElement('a');
   a.href = url; a.download = 'offer-' + safeNum + '.html';
   document.body.appendChild(a); a.click();
-  setTimeout(() => { URL.revokeObjectURL(url); a.remove(); }, 500);
-  alert('Offer page downloaded as "offer-' + safeNum + '.html".\n\nUpload it to the /offers folder in your GitHub repo, then share the link. Contractors apply right on the page — every application is stamped with job ' + j.num + ' and emailed to you.');
+  setTimeout(() => { URL.revokeObjectURL(url); a.remove(); }, 800);
+  alert('File: offer-' + safeNum + '.html\n\nON IPHONE: if a "Save / Open in…" screen shows, tap "More…" then "Save to Files."\n\nThen upload that file to the /offers folder in your GitHub repo and share the link. Every application is stamped with job ' + j.num + ' and emailed to you.');
 }
 
 function buildOfferPageHTML(){
@@ -709,7 +786,7 @@ function downloadContractorDocx(){
   }
 }
 
-function buildContractorHTML(){
+function buildContractorHTML(forPrint){
   const t = computeTotals();
   const j = getJobHeader();
   const rows = t.rows.map(r => `
@@ -729,6 +806,10 @@ function buildContractorHTML(){
   // Renders in a print window (PDF) and via html-docx (Word). Keep styles inline.
   return `<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Contractor Package ${escapeText(j.num)}</title></head>
 <body style="font-family:'Calibri',Arial,sans-serif;color:#1C1A17;line-height:1.45">
+${forPrint ? `<style>@media print{.pkg-toolbar{display:none}}</style><div class="pkg-toolbar" style="position:fixed;top:12px;right:12px;display:flex;gap:8px;z-index:100">
+  <button onclick="try{window.close()}catch(e){} setTimeout(function(){location.href='/field-estimate.html'},120)" style="background:#25221d;color:#F5F2ED;border:0;padding:10px 15px;border-radius:8px;font-weight:700;cursor:pointer;font-family:inherit;box-shadow:0 4px 12px rgba(0,0,0,.2)">← Back</button>
+  <button onclick="window.print()" style="background:#B8941F;color:#1C1A17;border:0;padding:10px 15px;border-radius:8px;font-weight:700;cursor:pointer;font-family:inherit;box-shadow:0 4px 12px rgba(0,0,0,.2)">Print / Save PDF</button>
+</div>` : ''}
 <div style="background:#1C1A17;color:#F5F2ED;padding:14px 18px">
   <div style="font-size:22px;font-weight:800;color:#B8941F;letter-spacing:2px">INMA — Contractor Package</div>
   <div style="font-size:12px;margin-top:2px">Scope, photos &amp; field notes for bidding</div>
