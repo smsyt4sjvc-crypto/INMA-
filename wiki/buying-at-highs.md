@@ -49,3 +49,17 @@ eats the other's revenue — "cheap" is not one category.**
 
 ## Sources
 - Session discussion 2026-07-09; top-10 YTD print 7/5; Bain survey (ai-capex-cycle); Burry Part III.
+
+## 5. The two-bucket resolution (added 2026-07-09 — "time in market vs timing, how do I know?")
+- Jake's own diagnosis: **"Right now my S&P hedge isn't hedging anything."** Correct — a hedge protects a
+  portfolio; a book of cash + puts = a naked directional short paying theta, not a defensive posture.
+  Running 100% of capital as TACTICAL money (waiting for a top call) and 0% as CORE is the contradiction.
+- **The split:** CORE = forever-horizon capital, deploys on SCHEDULE not signal (DCA weekly/monthly into
+  the diversified base: index — which already IS the 37% tech bet — tilted with the [[quiet-health-screen]]
+  names), governed only by the median-line pace (deploy above, slow/pause below, pending validation).
+  It never needs to know; that's the design. TACTICAL = small, falsifier-governed (puts, spreads, rotation
+  reads, fuses), sized to be cheaply wrong.
+- Once the core exists, the puts become a REAL hedge again. "When do I get back in" dissolves — the core
+  was never supposed to be all the way out; it gets in next Tuesday and every Tuesday after.
+- "Time in market > timing" = a statement about the CORE bucket only (best days cluster next to worst;
+  drift: 24% +3%-weeks vs 16% −3%). It is not a verdict on the tactical sleeve. Split %s = Jake's sizing.
