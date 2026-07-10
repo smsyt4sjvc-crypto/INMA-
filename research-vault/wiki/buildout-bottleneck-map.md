@@ -91,3 +91,16 @@ unrepriced = where the asymmetry lives.**
 - Investable honesty (the vault pattern again): mostly OSS/private/inside-megacaps. Tradeable conclusions:
   bearish raw-token pricing power (compression, positioned); the [[portfolio-state]] PLTR reframe gets its
   MECHANISM (the orchestration toll outliving the model toll).
+
+## 2026-07-10 — Circle gets an OCC bank charter (+15%) — the interop layer's money pipe formalizes
+- *(as-reported via Jake)* OCC approves Circle to operate as a bank. Three vault connections:
+  (1) **the x402 rail chartered** — agentic payments settle in USDC; the machine-to-machine money layer
+  now inside the national banking perimeter = the interop-toll thesis maturing;
+  (2) **the debasement financing valve** — USDC reserves = T-bills → stablecoin growth = structural
+  Treasury demand; a chartered private digital-dollar issuer whose business model is buying government
+  debt = deficit-funding architecture ([[new-economy-regime]] Fed Trap adjacent);
+  (3) **narrow-bank deposit competition** — chartered full-reserve instant dollars bleed regional-bank
+  funding one-directionally (the KRE complex's structural leg, distinct from CRE).
+- ⚠️ Counterweights: CRCL = Detachment-Bid veteran (pops are its idiom); OCC trust charter ≠ Fed master
+  account (narrower than headline); Circle earnings = leveraged to rates STAYING high (cuts compress
+  reserve interest).
