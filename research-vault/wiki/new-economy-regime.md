@@ -308,3 +308,15 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   AI-disinflation doctrine. The Warsh split isn't rhetorical; it's structural: his committee's central dot
   contradicts his framework and he declined to put a number against them. The dot plot is the committee
   voting against the chair's escape hatch.
+
+## 2026-07-10 — housing bill held hostage (Jake detail: supply-side cost-reduction bill; Trump won't
+## sign unless Congress passes the "Save America Act" — contents unknown to vault)
+- *(THESIS)* The inconsistency is the datapoint: shelter is the LARGEST sticky core component (~42% of
+  core CPI), and supply-side housing relief is the only lever that actually disinflates it — hikes make
+  it WORSE (starts fall → less supply). So the administration is pulling the FAST optics lever (oil
+  suppression into midterms, visible at the pump in weeks) while holding the SLOW structural lever
+  (housing supply, years) hostage for unrelated legislation. Politically rational, economically
+  incoherent — and it leaves the Fed alone against sticky shelter with a tool that suppresses supply.
+  The trap's division of labor: White House manages headline, Fed stuck with core, housing fixable by
+  neither. Bottom-of-K squeeze deepens ([[trade-down-landing-pads]] tailwind).
+- Open item: Save America Act contents — needed before reading the hostage price.
