@@ -62,3 +62,11 @@ events." The standing weekly manual Colab run (NO cron per spending rule):
 - **Cell D — 13F freshness** for Scion/Berkshire/Appaloosa (quarterly, 45d lag; link to filing when new).
 Cadence philosophy: the structural layer confirms/kills theses; news only tests them. Feeds still
 supply shocks — they land ON a maintained positioning picture now.
+
+## Monday flows routine (added 2026-07-11 — `tools/monday_flows.py`)
+Pre-open Monday: monday_flows (sector 1w return x abnormal $vol + S&P top movers in/out) → COT cell
+(Friday release) → Form 4 tripwire. "Where money went" = tape + positioning + operators; no single API
+sells the combination. **Paid-key verdict (2026-07-11): buy nothing yet.** Free stack covers all layers
+except intraday options ORDER FLOW (Unusual Whales ~$50/mo = the only genuinely additive purchase;
+FMP ~$25/mo only if scraping reliability becomes the pain). Rule: buy the pain actually felt after
+3-4 weeks of the routine, not the data that sounds powerful. Any purchase = Jake's explicit call.
