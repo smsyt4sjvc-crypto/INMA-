@@ -699,3 +699,31 @@ $ IN over usable compute OUT, ignoring monetization — is THAT ratio eroding? A
   Descriptive only; MU remains outside the funded book.
 - Watch: whether the celebration precedes POLICY (memory import tariffs, CHIPS top-up, INTC-style
   equity stake). A memory tariff would amplify the consumer pass-through it celebrates.
+
+## 2026-07-11 — SK Hynix CEO's eternal-shortage call, and the article that refutes it
+DATA: `raw/2026-07-10-reuters-skhynix-shortage.md` (Reuters primary). Shortage "worst in history" 2027,
+demand > supply beyond 2030 — said ON NASDAQ IPO DAY. Same article: **Korea doubling memory capacity in
+5yrs ($266B EACH for SKH/Samsung ≈ $532B), MU raising US plan to $250B through 2035, BofA capex
+$851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
+### THESIS (interpretation — NOT fact)
+- *(the self-refuting forecast)* "Shortage beyond 2030" and "$532B of new Korean capacity in 5 years"
+  cannot both be true — the second is the cure for the first, and the first is the JUSTIFICATION for
+  the second. This is every memory cycle ever compressed into one interview: shortage → panic capex →
+  glut. UBS's own bull case (undersupplied "until Q2 2028") quietly concedes the turn. The Korea
+  mechanical caveat now has its number. Glut window per the supply math: ~2029±1 — mind LTAs/prepay
+  floors as the buffer that transfers the pain to CUSTOMERS first.
+- *(incentive stack)* Every bullish voice is talking its book at maximum incentive: a CEO pricing an
+  IPO, Jensen securing HBM allocation, sell-side constructive. The behavioral bears in the same piece:
+  Apple → Chinese suppliers (CXMT now Reuters-mainstream), **Meta commercializing EXCESS compute
+  (Meta-as-landlord thesis mainstreamed)**, and SK Hynix −18% in two weeks against record everything =
+  the Samsung record-quarter signature replicating on the purest AI-memory name. Tape ignoring the
+  best possible news = late-cycle texture, again.
+- *(consensus dispersion logged)* BofA 27E $1.15T vs GS $996B — consensus still RAISING through the
+  doubt; the Stage-2 trigger (27E revised DOWN) is not close per reported estimates. BofA's "$244B
+  raised = optimization not stress" vs S&P cutting ORCL to BBB- the SAME DAY = sell-side and rating
+  agency now in open disagreement about the same balance sheets.
+- *(bottleneck confirmation from the CEO's own siting criteria)* "Land, electricity, water, skilled
+  workers" — the memory CEO recites the [[buildout-bottleneck-map]] as his constraint list. Power is
+  now a fab-siting input on par with land.
+- ⚠️ artifact: the "65.5T won quarterly OP" SmartEstimate exceeds ALL of 2025 — unit or period error
+  likely; do not reuse without verification.
