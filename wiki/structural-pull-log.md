@@ -58,3 +58,24 @@ One dated entry per run. Deltas > levels. Related: [[rotation-stickiness]], [[ru
   Jake's hedge remains SPY-level (37% tech). Positioning says the pressure point is tech, not the broad
   index — relevant context for the standing "my hedge isn't hedging anything" tension, resolved
   previously via the two-bucket split. No action implied.
+
+## 2026-07-11 — first monday_flows print (data through Fri 7/10 close)
+### DATA
+- Sector week: USO +4.5% (on 0.51x volume — LOW), IBIT +3.9, XLE +3.5, SMH +3.2 (0.99x), XLK +2.9
+  (0.75x). Red: XLV −1.8% on **1.23x = the highest volume ratio on the board**, XLB −2.2 (1.12x),
+  XLI −1.1, XLP −1.0. NO sector crossed the 1.3x conviction threshold.
+- Single names: across the ENTIRE S&P 500, zero names printed abnormal volume + up move. Only 3 names
+  exceeded 1.5x flow at all — ALL sell-events: MRNA −14.4% (1.70x), CINF −6.6% (1.65x), GPC −5.2%
+  (1.61x). (News-check pending on all three before reading.)
+### THESIS (interpretation — NOT fact)
+- **The week's tape in one line: drift up without buyers, conviction only on the way OUT.** Index near
+  highs, semis V-bounced on merely normal volume (the HF dip-buy was real but small), crude's +4.5%
+  war-premium rebuild came on HALF normal volume (agrees with the ±0.43% straddle and net-short specs:
+  nobody's positioning for Saturday). Low-participation levitation = the [[market-fragility]] vol-gap
+  texture in flow form.
+- **Healthcare flag:** the month's best sector (+4.5% 1m) sold on the board's highest volume ratio —
+  possible "rotation eating its own front rank" again (defense 7/3 → healthcare now). Direct relevance:
+  the [[quiet-health-screen]] basket is healthcare-heavy — watch whether the basket's HC names (GILD,
+  UHS, GEHC, CI) were sold with the sector or held (dispersion answer > sector answer).
+- Check items: MRNA (−14% on volume — policy/pipeline news?), CINF (insurer — cat loss? ties to HIG
+  revision flag), GPC (auto parts = trade-down adjacent; against the KMX chain or company-specific?).
