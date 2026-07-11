@@ -8,30 +8,27 @@ import pandas as pd, requests, time
 import xml.etree.ElementTree as ET
 from datetime import date, timedelta
 
-# ---------------- CELL A (v3: exact match + dynamic cols; socrata omits null fields) ----------------
+# ---------------- CELL A (v4: params-encoded — fixes S&P ampersand URL split) ----------------
 def cot(dataset, mkt, prefix, label):
-    base = f"https://publicreporting.cftc.gov/resource/{dataset}.json"
-    for where in [f"contract_market_name='{mkt}'",
-                  f"contract_market_name like '%25{mkt.replace(' ', '%25')}%25'"]:
-        rows = requests.get(f"{base}?$where={where}&$order=report_date_as_yyyy_mm_dd DESC&$limit=8",
-                            timeout=30).json()
-        if rows and isinstance(rows, list):
-            d = pd.DataFrame(rows)
-            lc = [c for c in d.columns if prefix in c and "long" in c and "spread" not in c and "change" not in c and "pct" not in c]
-            sc = [c for c in d.columns if prefix in c and "short" in c and "spread" not in c and "change" not in c and "pct" not in c]
-            if lc and sc:
-                d["net"] = d[lc[0]].astype(float) - d[sc[0]].astype(float)
-                cur, prior = d.net.iloc[0], d.net.iloc[min(4, len(d)-1)]
-                print(f"{label} [{d.contract_market_name.iloc[0]}] {d.report_date_as_yyyy_mm_dd.iloc[0][:10]}: "
-                      f"net {cur:+,.0f} | 4wk ago {prior:+,.0f} | delta {cur-prior:+,.0f}")
-                return
-            print(f"{label}: matched '{d.contract_market_name.iloc[0]}' but no {prefix} cols")
-    print(f"{label}: no usable rows")
+    r = requests.get(f"https://publicreporting.cftc.gov/resource/{dataset}.json",
+                     params={"$where": f"contract_market_name='{mkt}'",
+                             "$order": "report_date_as_yyyy_mm_dd DESC", "$limit": 8}, timeout=30)
+    rows = r.json()
+    if not rows: print(f"{label}: no rows"); return
+    d = pd.DataFrame(rows)
+    lc = [c for c in d.columns if prefix in c and "long" in c and not any(x in c for x in ("spread","change","pct"))]
+    sc = [c for c in d.columns if prefix in c and "short" in c and not any(x in c for x in ("spread","change","pct"))]
+    if not (lc and sc): print(f"{label}: no {prefix} cols"); return
+    d["net"] = d[lc[0]].astype(float) - d[sc[0]].astype(float)
+    cur, prior = d.net.iloc[0], d.net.iloc[min(4, len(d)-1)]
+    print(f"{label} [{mkt}] {d.report_date_as_yyyy_mm_dd.iloc[0][:10]}: net {cur:+,.0f} | 4wk {prior:+,.0f} | delta {cur-prior:+,.0f}")
 
 cot("gpe5-46if", "E-MINI S&P 500", "lev_money", "ES levfunds")
+cot("gpe5-46if", "S&P 500 Consolidated", "lev_money", "SPX consol levfunds")
 cot("gpe5-46if", "NASDAQ MINI", "lev_money", "NQ levfunds")
 cot("72hh-3qpy", "CRUDE OIL, LIGHT SWEET-WTI", "m_money", "CL mgd-money")
 cot("72hh-3qpy", "GOLD", "m_money", "GC mgd-money")
+# Sector texture (thin volume, read direction only): E-MINI S&P TECHNOLOGY/ENERGY/FINANCIAL/HEALTH CARE INDEX
 
 # ---------------- CELL B ----------------
 EMAIL = "your_email@example.com"
