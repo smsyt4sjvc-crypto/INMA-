@@ -90,3 +90,17 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   obliteration to an event Iranian factions could stage independently REDUCES decision latitude on
   both sides — auto-escalation coupling tightens while the ultimatum clock runs. Noise for the marker;
   real for the tail.
+
+### 2026-07-11 — the options market prices the ultimatum weekend: ±0.43%
+- DATA (Jake's chain pull, SPY, spot 754.95): Monday 7/13-expiry ATM straddle ≈ $3.28 (755C 1.68 +
+  755P 1.60) = **0.43% expected move through Monday, INCLUDING the Saturday Hormuz deadline.** Deep-OTM
+  put skew steep (680P IV 38% vs ~6% ATM) = tail possible-but-remote. Put wall: 740 (15.6K OI).
+  Dec-18 745P (the book's strike): 23.85/23.91, OI 4,363, IV 14.4% — term structure prices calm now,
+  uncertainty later.
+- *(THESIS)* The derivatives layer votes hypothesis A (fig leaf accepted) with near-certainty — a
+  scheduled war ultimatum priced at less than half the average daily move. Either the market knows the
+  outcome (diplomacy already done), or the weekend binary is drastically underpriced. Correlation-snap
+  structure unchanged: if the crowd is wrong, the move happens from a standing start. Grade against
+  Monday's close alongside the goalpost discriminator.
+- Answered for the record (Jake's Q): HF option STRIKES/EXPIRATIONS are never public — 13F discloses
+  only PUT/CALL + underlying + notional (45d lag). The footprint substitute = strike-level OI/volume.
