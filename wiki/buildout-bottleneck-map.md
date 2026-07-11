@@ -114,3 +114,30 @@ unrepriced = where the asymmetry lives.**
   Double edge — validates the unrepriced-shortlist revenue thesis (VICR/VSH/ENS/CLF current) while
   raising the discount rate applied to it. The bottleneck sellers' order books are now a monetary-policy
   input.
+
+## 2026-07-10 — the optics layer's upstream: InP wafers + laser-making machines
+DATA: `raw/2026-07-10-inp-upstream-map.md` (Jake's research; claimed-confirmed, not independently
+verified). Chain: AXT bare InP wafer → COHR/LITE in-house MOCVD epitaxy + fab (they don't buy chips) →
+lasers. Named: **COHR←AXT 3yr substrate deal w/ $22.3M PREPAYMENT (6/25/26), Beijing capacity;
+LITE←AIXTRON G10-AsP MOCVD (5/26); VECO >$250M InP orders (MOCVD + Spector facet-coating),
+2027-weighted deliveries; JX (5016.T) ¥120B InP expansion.**
+### THESIS (interpretation — NOT fact)
+- *(the prepayment cascade)* Coherent prepaying to reserve WAFER capacity is the MU-LTA mechanic
+  arriving one layer deeper — capacity-reservation contracts are propagating upstream (hyperscaler →
+  memory → optics → substrate). Same tell as before: **watch deferred revenue/customer prepayments in
+  AXTI's and VECO's filings** — that's scarcity you can read in a 10-Q.
+- *(our own study cuts the ranking)* Cross-reference [[runner-anatomy]]: **VECO ALREADY IGNITED —
+  5/7/25 run event, +289% max** (and LITE +1,708%, COHR +572%, all Apr-May 2025 cohort). AXTI at
+  $3.05B loss-making = the NVTS nomination pattern, late innings. So the digest's #1 and #3 are
+  MID-RUN, not undiscovered — the un-run element is VECO's 2027 delivery acceleration (backlog
+  conversion), not the story itself.
+- *(the Beijing chokepoint)* US laser makers' named substrate deal expands capacity IN BEIJING under
+  Chinese export permits that have already delayed shipments — a single-point-of-failure that policy
+  can close overnight (both directions: US controls on tools, Chinese permits on wafers). The
+  geopolitically clean substrate leg = Japan (Sumitomo 5802, JX 5016) — which is also the UN-run leg:
+  JX's ¥120B expansion is the largest capital commitment in the map with no US-listing crowd on it.
+- *(moat mechanics worth keeping)* MOCVD recipe qualification = switching-cost lock-in (AIXTRON/Veeco
+  duopoly); facet coating = yield-critical niche step. These are the "boring chokepoint" profile the
+  map exists to find.
+- Discipline: standing rule applies — VECO/AIXNY/AXTI/5016 through the health-screen columns + EDGAR
+  (or Japan filings) before any dollar. AXTI loss-making fails the screen's core gate today.
