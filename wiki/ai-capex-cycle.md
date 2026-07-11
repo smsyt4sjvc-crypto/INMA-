@@ -679,3 +679,23 @@ $ IN over usable compute OUT, ignoring monetization — is THAT ratio eroding? A
   marginal demand for the [[buildout-bottleneck-map]] chokepoints eastward (export-control collision).
 - *(Apple opens a second front)* Memory (CXMT sourcing) was front one; now IP/hardware litigation
   against OpenAI. The whale is fighting the AI complex on supply AND on the device layer.
+
+## 2026-07-10 late — Trump pumps MU: 3 Truth posts <1hr celebrating the NY fab
+- DATA (as-reported, Jake): three consecutive presidential posts touting Micron + its US fab buildout.
+  Context rows already in vault: MU +1,029% from its Apr-2025 ignition; MU CEO sold $32.8M at the ATH,
+  zero insider buys across the semi grid; memory pass-through = the +0.5pp core PCE claim; 2002 DRAM
+  antitrust precedent (Micron = the amnesty cooperator); Apple qualifying CXMT.
+### THESIS (interpretation — NOT fact)
+- *(political protection for the inflation source)* The administration just acquired optics-equity in
+  HIGH memory prices (the champion's margins fund the celebrated fab) while needing LOW consumer prices
+  into midterms — the housing-bill incoherence again, at the component layer. More importantly it
+  SHIELDS the DRAM complex: DOJ moving on memory pricing now = moving on Trump's national champion.
+  The 2002 rhyme weakens; Apple's antitrust route gets politically harder, which narrows the whale to
+  (a) pass through to consumers (more PCE pressure) or (b) Chinese supply (CXMT — export-control
+  collision). Net: memory pricing power likely lasts LONGER than the antitrust precedent implied.
+- *(top-texture, not fundamentals)* Presidential pumps mark sentiment cycles, not order books: MU is
+  +1,029% off ignition, its own officers are sellers, and the marginal buyer is now Truth Social.
+  Politicians arrive at parties last — same family as the Samsung record-quarter-stock-fell signature.
+  Descriptive only; MU remains outside the funded book.
+- Watch: whether the celebration precedes POLICY (memory import tariffs, CHIPS top-up, INTC-style
+  equity stake). A memory tariff would amplify the consumer pass-through it celebrates.
