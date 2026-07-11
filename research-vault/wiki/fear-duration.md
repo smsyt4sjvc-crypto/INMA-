@@ -27,5 +27,41 @@ Tool: chat cell 2026-07-11 (VIX episodes 1990-present). Related: [[market-fragil
   fear-duration state governs dip treatment under stress (different failure modes: median whipsaws in
   fast crashes; fear duration can't be faked by a quiet grind).
 
-## RESULTS
-*(pending — Jake runs the cell, pastes episode table + test block; hypotheses graded visibly.)*
+## RESULTS (run 2026-07-11, Jake's Colab — 37 episodes, 1990→2026)
+### DATA
+- Separation medians (bear-within-18m vs not): **duration 297d vs 40d; integral 1,404 vs 73; peak 40 vs 28.**
+- Duration bins: **<30d: 0 bears in 14 episodes (perfect record, 36 years)**; 30–90d: 2/10; >90d: 6/13.
+- Median fwd-12m FROM EPISODE END: short +11.2%, mid +13.1%, long +9.2% — positive in all bins
+  (episode end = 5 calm days = a workable recovery marker even after bears: 2002 +13.2%, 2008 +10.7%,
+  2020 +12.5% from their ends).
+- Overlap that kills clean thresholds: no-bear episodes with peaks 41–52 (2025-04 peaked FIFTY-TWO and
+  recovered; LTCM-98 integral 1,974, no bear) vs bears from peak 31 / integral 67 (Nov-2021).
+- Current state: NOT in an episode (last: 2026-03-06, 40d, resolved). Frequency note: SEVEN short
+  episodes since Aug-2024 — scare frequency high, duration short, every dip bought.
+
+### HYPOTHESES GRADED
+- **H1 — PARTLY.** Peak medians do differ (40 vs 28), but overlap is fatal to classification: the
+  biggest 2025 spike (52) recovered; the 2021 bear opened at 31. Peak alone cannot classify. Substance
+  holds, wording overclaimed the null.
+- **H2 — CONFIRMED on the short side, softened on the long.** The clean law: **fear under 30 days has
+  NEVER preceded a bear (0/14 since 1990).** But long fear = 46% bears (6/13), not "almost every time" —
+  1997/1998/1999/2010/2011/2022-08 all ran 150-350d without a bear-within-18m label.
+- **H3 — PARTLY.** Integral has the best median separation (19x) but the same fat tails (Nov-21: 67).
+- **H4 — CONFIRMED, and it's the actionable core.** Damage lands DURING long episodes (−37/−57/−34%);
+  duration confirms late; and episode END is a decent re-entry marker (positive fwd-12m even after the
+  worst bears). The tool governs re-entry, not tops.
+- **H5 — NOT TESTED** (recovery-time column not computed; add if ever needed).
+
+### THE DISCOVERY (unregistered — found in the data, labeled as such)
+**The biggest bears START QUIET.** GFC's first tremor: Aug-2007, 55 days, peak 31, integral 163 — mid-bin,
+mild. The 2022 bear's opening: Nov-2021, 33 days, peak 31, integral 67 — barely registered. After years
+of rewarded dip-buying, the real bear's onset LOOKS like another buyable dip. Fear-duration cannot warn
+at onset; nothing in the vol complex can. Onset detection lives elsewhere (breadth rolling, median line,
+fuses). This tool's jurisdiction: once fear arrives, how to treat it.
+
+### STANDING RULES DERIVED (descriptive)
+1. Episode <30 days old → historically 0% bear odds; recovery-buying has a perfect base rate.
+2. Episode crossing ~45–60 days unresolved → bear odds climb toward a coin flip; first rallies suspect.
+3. Episode END (5 calm days below 20) → historically a positive-expectancy re-entry marker in ALL bins.
+4. Scare-FREQUENCY clusters (7 since Aug-24) = late-cycle texture (1997-99 rhyme): trained complacency
+   is the mechanism by which the eventual real one opens quietly.
