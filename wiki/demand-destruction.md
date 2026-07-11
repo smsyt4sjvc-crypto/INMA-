@@ -81,3 +81,12 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   market (deadline Saturday; crude reopens Sunday evening) — weekend gap risk on a known date. Words
   alone still don't move the marker: the $90 leg remains Kharg/Jask/physical closure, not declarations.
   Three-line watch unchanged, with goalpost-behavior added as line four.
+
+### 2026-07-10 eve addendum — banner theater vs wire corroboration (discipline note)
+- As-reported: "kill Trump" banner on Iranian hotel viral + Trump "obliterate if assassinated"
+  pre-commitment, on the EVE of the Saturday ultimatum deadline.
+- *(analysis)* A banner is propaganda-tier, NOT the assassination watch-line — that line fires on
+  CORROBORATED plot wires, not memes. What the rhetoric DOES change: Trump publicly hard-wiring
+  obliteration to an event Iranian factions could stage independently REDUCES decision latitude on
+  both sides — auto-escalation coupling tightens while the ultimatum clock runs. Noise for the marker;
+  real for the tail.

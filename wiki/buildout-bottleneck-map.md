@@ -163,3 +163,13 @@ LITE←AIXTRON G10-AsP MOCVD (5/26); VECO >$250M InP orders (MOCVD + Spector fac
   customer prepayments/deferred revenue building in the 10-Q; (b) nothing else at these prices.
   The map's job now = find the layer BEHIND this one (facet-coating materials, ion-beam sources,
   InP feedstock/indium itself?) or wait for the flush that puts these back in the ignition filter.
+
+## 2026-07-10 eve — EO on open-source AI contemplated (direction unknown = the fork that matters)
+- DATA: as-reported (`raw/2026-07-10-eve-feed-banner-housing-eo.md`); no draft text, no direction.
+- *(THESIS — two branches, opposite signs for the interop thread)* **Restrict** open-weight (likely
+  framing given the FT blacklisted-China-groups story + export-control momentum): the Token Revolt
+  loses its main weapon — open-weight alternatives are WHAT gives CFOs the leverage to demand 90% off.
+  Closed-vendor scrip moat re-hardens, OpenAI/Anthropic pricing power re-inflates, CEPI compression
+  timeline EXTENDS. **Promote/protect** open source (antitrust framing): price war accelerates,
+  compression arrives faster. Same EO title, opposite thesis outcomes — do not trade the headline;
+  wait for draft text. Watch: which agencies staff it (Commerce/BIS = restrict; FTC = promote).
