@@ -123,3 +123,14 @@ Related: [[ai-capex-cycle]], [[market-fragility]], [[concentration]], [[consumpt
   mechanism that turns a sector repricing into a market-plumbing event. Pair with ORCL CDS ~198bps:
   price signal + quantity signal now both elevated. If the token price war compresses the revenue that
   services this paper while Williams/Hammack raise the rate on rolling it, both jaws close.
+
+## 2026-07-10 — S&P cuts ORCL to BBB- (one notch above junk), stable outlook
+- DATA (as-reported, Jake paste): long-term BBB→**BBB-**; short-term/CP A-2→**A-3**. S&P raises FY27
+  capex estimate **$60B→$90–95B**; sees free operating cash flow deficit widening to **~-$42B by FY27**;
+  leverage above the prior rating's threshold; flags ORCL as MORE exposed than larger hyperscalers in a
+  slowdown (external-customer reliance — the $300B OpenAI concentration — + less flexibility).
+- *(THESIS)* The price signal (CDS ~198bps) now has its ratings confirmation. BBB- is the fallen-angel
+  ledge: one more notch and ORCL's debt exits IG indices → forced selling by every mandate-bound holder
+  of the 9%-of-IG-supply hyperscaler stack. A-3 CP = short-term funding already repriced. Note what S&P
+  did NOT do: negative outlook — "stable" at the ledge = they believe the capex pays or can be cut in
+  time. The fallen-angel trigger joins the watch list alongside IG spreads, OpenAI S-1, GW-under-construction.
