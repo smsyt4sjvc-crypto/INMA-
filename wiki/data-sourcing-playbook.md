@@ -82,3 +82,18 @@ advance. **The distribution chain is the master structure:** insiders → HFs �
 record is the leading indicator for the next layer's behavior. Edge = read the earliest layer while
 later layers are in transit. Calibration: all tilts, not prophecies — insider clusters matter most
 inside panic windows; the stack locates commitment/crowding/forced flow, thesis work does the rest.
+
+## Form 4 reading hierarchy (2026-07-11 — the key for insider_pull output)
+1. **P discretionary buy** — highest signal/$ (buys are never scheduled; one reason to buy). Weight vs
+   the person's income; uniform small synchronized buys = theater (EPAM $7.5K x6).
+2. **P cluster (3+ distinct buyers)** — the MTDR/GPK signature; tool auto-flags.
+3. **S without 10b5-1** — real negative; strongest = first sale after long hold or large % of stake
+   (AXTI Young ~$22M discretionary).
+4. **S with 10b5-1** — weak per-transaction, BUT: adoption date = the real decision date (cluster of
+   NEW adoptions = queued exits, leading signal); plan modifications/accelerations = discretionary acts;
+   aggregate size still counts (GPK complaint weaponized $8.8M of "routine" sales).
+5. **M+S exercise-and-sell** — comp monetization (expiries force it); signal only if retained fraction
+   is persistently zero.
+6. **A/F/G (grants/withholding/gifts)** — noise; explains grant-cycle tripwires (CME's 18 likely this).
+Extension if ever needed: **Form 144** (notice of INTENT to sell) = the only forward-looking insider
+filing; small add to the tool.
