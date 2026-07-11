@@ -72,8 +72,8 @@ if len(df):
         d = disc[disc.ticker == t]
         buys = d[d.code == "P"]; sells = d[d.code == "S"]
         planned = df[(df.ticker == t) & (df["10b5-1"] == "YES") & (df.code == "S")]["value_$"].sum()
-        print(f"{t}: disc buys ${buys.value_$.sum():,} ({buys.owner.nunique()} distinct buyers"
+        print(f"{t}: disc buys ${buys["value_$"].sum():,} ({buys.owner.nunique()} distinct buyers"
               f"{' <-- CLUSTER' if buys.owner.nunique() >= 3 else ''}) | "
-              f"disc sells ${sells.value_$.sum():,} | scheduled 10b5-1 sells ${planned:,}")
+              f"disc sells ${sells["value_$"].sum():,} | scheduled 10b5-1 sells ${planned:,}")
 else:
     print("no transactions in window")
