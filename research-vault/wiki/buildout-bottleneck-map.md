@@ -173,3 +173,20 @@ LITE←AIXTRON G10-AsP MOCVD (5/26); VECO >$250M InP orders (MOCVD + Spector fac
   timeline EXTENDS. **Promote/protect** open source (antitrust framing): price war accelerates,
   compression arrives faster. Same EO title, opposite thesis outcomes — do not trade the headline;
   wait for draft text. Watch: which agencies staff it (Commerce/BIS = restrict; FTC = promote).
+
+## 2026-07-10 late — Apollo: Chinese models = 20/50 most-used; token usage 98T vs US 53T (June)
+- DATA: `raw/2026-07-10-apollo-china-models.md` (⚠️ aggregator-skew caveat inside — undercounts closed
+  enterprise/internal inference; directional, not absolute).
+- *(THESIS — this chart IS the token price war's supply side)* The Chinese share is overwhelmingly
+  OPEN-WEIGHT (DeepSeek/Qwen-class). The marginal global token now clears at near-zero open-weight
+  pricing — that's the leverage BEHIND the Palo Alto 90%-off demand and the Polymarket OpenAI repricing.
+  Token count ≠ revenue (Chinese tokens monetize at a fraction of closed-US rates), so China's
+  "lead" is commercially thin — but it caps the US closed-vendor price umbrella that has to service
+  $194B of IG issuance and ORCL's −$42B FCF path. Scrip thesis strengthening.
+- *(the EO trap, sharpened)* This chart is the exact exhibit a RESTRICT-direction open-source EO would
+  cite (+ FT blacklisted-groups story). But restricting US open-weight doesn't touch Chinese open-weight —
+  it cedes the commodity tier to Qwen/DeepSeek entirely and accelerates this chart. Restrict = hand
+  China the open tier; promote = accelerate the price war on US champions. No clean branch: the EO fork
+  is a trap in both directions, which is why draft text > headline.
+- Coheres with the (unverified) flat-US/doubling-China cloud-capex table from the same day's feed:
+  China scaling usage + capex while the US monetization model compresses.
