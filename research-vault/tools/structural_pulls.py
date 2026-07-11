@@ -8,20 +8,30 @@ import pandas as pd, requests, time
 import xml.etree.ElementTree as ET
 from datetime import date, timedelta
 
-# ---------------- CELL A ----------------
-for mkt, label in [("E-MINI S&P 500", "ES"), ("NASDAQ MINI", "NQ"),
-                   ("CRUDE OIL, LIGHT SWEET", "CL"), ("GOLD", "GC")]:
-    url = ("https://publicreporting.cftc.gov/resource/gpe5-46if.json"
-           f"?$where=contract_market_name like '%25{mkt.replace(' ', '%20')}%25'"
-           "&$order=report_date_as_yyyy_mm_dd DESC&$limit=8")
-    try:
-        d = pd.DataFrame(requests.get(url, timeout=30).json())
-        if d.empty: print(f"{label}: no rows"); continue
-        d["net_lev"] = d.lev_money_positions_long.astype(float) - d.lev_money_positions_short.astype(float)
-        cur, prior = d.net_lev.iloc[0], d.net_lev.iloc[min(4, len(d)-1)]
-        print(f"{label}: leveraged funds net {cur:+,.0f} | 4wk ago {prior:+,.0f} | delta {cur-prior:+,.0f}")
-    except Exception as e:
-        print(f"{label}: {str(e)[:50]}")
+# ---------------- CELL A (v3: exact match + dynamic cols; socrata omits null fields) ----------------
+def cot(dataset, mkt, prefix, label):
+    base = f"https://publicreporting.cftc.gov/resource/{dataset}.json"
+    for where in [f"contract_market_name='{mkt}'",
+                  f"contract_market_name like '%25{mkt.replace(' ', '%25')}%25'"]:
+        rows = requests.get(f"{base}?$where={where}&$order=report_date_as_yyyy_mm_dd DESC&$limit=8",
+                            timeout=30).json()
+        if rows and isinstance(rows, list):
+            d = pd.DataFrame(rows)
+            lc = [c for c in d.columns if prefix in c and "long" in c and "spread" not in c and "change" not in c and "pct" not in c]
+            sc = [c for c in d.columns if prefix in c and "short" in c and "spread" not in c and "change" not in c and "pct" not in c]
+            if lc and sc:
+                d["net"] = d[lc[0]].astype(float) - d[sc[0]].astype(float)
+                cur, prior = d.net.iloc[0], d.net.iloc[min(4, len(d)-1)]
+                print(f"{label} [{d.contract_market_name.iloc[0]}] {d.report_date_as_yyyy_mm_dd.iloc[0][:10]}: "
+                      f"net {cur:+,.0f} | 4wk ago {prior:+,.0f} | delta {cur-prior:+,.0f}")
+                return
+            print(f"{label}: matched '{d.contract_market_name.iloc[0]}' but no {prefix} cols")
+    print(f"{label}: no usable rows")
+
+cot("gpe5-46if", "E-MINI S&P 500", "lev_money", "ES levfunds")
+cot("gpe5-46if", "NASDAQ MINI", "lev_money", "NQ levfunds")
+cot("72hh-3qpy", "CRUDE OIL, LIGHT SWEET-WTI", "m_money", "CL mgd-money")
+cot("72hh-3qpy", "GOLD", "m_money", "GC mgd-money")
 
 # ---------------- CELL B ----------------
 EMAIL = "your_email@example.com"
