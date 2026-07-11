@@ -30,3 +30,15 @@ One dated entry per run. Deltas > levels. Related: [[rotation-stickiness]], [[ru
   capital return. His positioning is no longer trackable; substack words only. Downweight accordingly.
 - NEXT: detail-parse the big tripwires — ENS/VICR/TTMI (unrepriced-shortlist operators voting?),
   CME/HII (basket names), NVDA/SMCI/KLAC/MRVL/MU (expect comp-cycle sells; confirm).
+
+### 2026-07-11 addendum — COT completed (report date 7/07)
+- **CL managed money: net SHORT −15,417 contracts** (was −27,568 4wks ago; covered +12,151 but still
+  net short) — speculators are net short WTI into the Iran war and the Saturday ultimatum weekend.
+- **GC managed money: net LONG +116,161, adding (+10,298 on the month)** — the debasement bid growing.
+- NQ levfunds −55,013 (confirmed). ES: dataset uses a different contract name — discovery query pending.
+- *(THESIS)* Fast money's full macro book: **short NQ, short crude, long gold** = a stagflation/risk-off
+  posture. Two consequences: (1) the $79 crude marker is CONFIRMED at the positioning layer — the market
+  isn't just "not pricing closure," spec money is positioned for LOWER crude (demand-erosion/oversupply
+  view); (2) the asymmetry sharpens — a Kharg/Jask event forces net-short specs to cover INTO a supply
+  shock; low price base + short positioning = the $90+ leg would be violent and fast. Same structure on
+  NQ: index shorts + record-low implied correlation = squeezes in BOTH tails.
