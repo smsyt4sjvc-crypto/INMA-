@@ -190,3 +190,17 @@ LITE←AIXTRON G10-AsP MOCVD (5/26); VECO >$250M InP orders (MOCVD + Spector fac
   is a trap in both directions, which is why draft text > headline.
 - Coheres with the (unverified) flat-US/doubling-China cloud-capex table from the same day's feed:
   China scaling usage + capex while the US monetization model compresses.
+
+### 2026-07-11 — Kwak's siting criteria read as diplomatic satire (Jake's catch)
+- Jake on the SK Hynix CEO's fab-siting list (land/electricity/water/skilled-workers-at-competitive-
+  cost): "serious satire — as if the US can even kinda sorta compete." CONFIRMED by SKH's own capital
+  allocation in the same article: **$4B Indiana PACKAGING + $10B "AI solutions" in the US vs $266B of
+  WAFER fabs in Korea** — onshore the photo-op layer, keep the physics layer home. Every criterion on
+  the list is one the US fails per vault data (electricity forwards +25% US-only; trades = the existing
+  bottleneck + immigration-by-design; permitting = QTS kill / 128-wk transformers; TSMC-AZ cost exhibit).
+- *(caveats that make it tradable)* (1) Tariffs redefine "competitive" — a memory tariff (more likely
+  post MU-celebration) makes US fabs competitive by fiat; if SKH ever sites wafers in the US it's a
+  POLITICAL price signal, not an input improvement. (2) The structural irony: policy demands onshoring
+  while constraining its inputs (labor, power, permits), then subsidizes to buy back what it removed —
+  industrial policy paying to overcome industrial policy. MU's $250B works only inside the
+  designated-champion umbrella (subsidy + implied tariff + presidential promotion).
