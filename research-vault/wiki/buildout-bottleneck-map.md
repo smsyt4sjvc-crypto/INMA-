@@ -204,3 +204,11 @@ LITE←AIXTRON G10-AsP MOCVD (5/26); VECO >$250M InP orders (MOCVD + Spector fac
   while constraining its inputs (labor, power, permits), then subsidizes to buy back what it removed —
   industrial policy paying to overcome industrial policy. MU's $250B works only inside the
   designated-champion umbrella (subsidy + implied tariff + presidential promotion).
+
+### 2026-07-11 — narrative-migration marker: the map's thesis is now retail-newsletter consensus
+- DailyReckoning (mass retail) now prints: DC construction > office construction, grid limits cap the
+  boom, "that will likely mark the top." The power-caps-the-buildout thesis has completed the journey:
+  vault (May-June) → sell-side → Fed testimony (Hammack's switchgear) → retail newsletter.
+- *(calibration consequence)* When the differentiated read is in a newsletter, its ENTRY edge is gone —
+  what remains is execution edge (which names, which layer, which quarter). Consistent with the InP
+  layer being FOUND. The map's alpha now lives in layers the newsletter DOESN'T name.

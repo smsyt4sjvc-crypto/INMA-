@@ -320,3 +320,12 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   The trap's division of labor: White House manages headline, Fed stuck with core, housing fixable by
   neither. Bottom-of-K squeeze deepens ([[trade-down-landing-pads]] tailwind).
 - Open item: Save America Act contents — needed before reading the hostage price.
+
+## 2026-07-11 — debt math logged: +$2.99T/yr, interest ~$1.2T/yr (ZH 5-charts)
+- *(THESIS — THE collision, now numerically explicit)* $1.2T annual interest vs 9 dots leaning HIKE:
+  every 25bp raises the Treasury's refi bill by tens of billions while AI cost-push demands the hike.
+  The newsletter's conclusion ("rates to near-zero even with above-target inflation") IS fiscal
+  dominance — the Sargent/White wing of Warsh's own task forces. The Fed Trap's two exits: hike into
+  the debt spiral, or cut into the inflation. Debasement bid ([[gold-flows]], COT gold longs building)
+  = the market pricing the second exit. Silver datapoint filed: 4x then −50% — the violence of the
+  debasement trade's corrections; ratio vs S&P still far under 2011.

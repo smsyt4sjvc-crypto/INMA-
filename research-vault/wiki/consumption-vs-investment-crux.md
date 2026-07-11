@@ -67,3 +67,10 @@ a society that's hollowing. Size accordingly.
 ## Sources
 - Jake, 2026-06-30/07-01 (original synthesis, developed live). Grounding: MV=PQ identity;
   automation-reabsorption / "Luddite fallacy" debate; [[detachment-bid]]; The Hollow Bottom.
+
+## 2026-07-11 — gambling losses $246B/yr vs ~$600B/yr 401k inflows (Politano via ZH)
+- *(THESIS)* Households are burning an amount equal to 40% of annual retirement contributions on
+  negative-EV wagers — the crux's answer at the household layer ("drink," not "build") and Hollow-Bottom
+  texture: lottery-ticket behavior is what priced-out cohorts substitute for compounding
+  ([[trade-down-landing-pads]], [[detachment-bid]] adjacent). Also a quiet input to the "retail arrives
+  last" layer of the distribution chain.

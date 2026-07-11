@@ -64,3 +64,11 @@ into one 0–100 fragility number + trigger panel.
   cause hitting everything at once: a hike, a strait closure, a Stage-2 print) snaps the gap shut and
   index vol catches up violently. Descriptive: the book's SPY puts are long exactly the thing priced
   at a record discount — the risk that stocks start moving TOGETHER again.
+
+## 2026-07-11 — the dotcom rhyme gets a number: SOX +237%/14mo vs +234%/14mo into Feb-2000
+- DATA (Bilello via `raw/2026-07-11-zh-5-charts.md`): nearly identical 14-month semi runs, then vs now.
+- *(THESIS + the honest caveat)* Top-texture family (add to: Samsung/SKH signatures, presidential MU
+  pumping, distribution chain). BUT the 14-month window starts at the April-2025 tariff-crash LOW — the
+  [[runner-anatomy]] ignition cohort — so part of the +237% is rebound-off-panic, not pure mania; and
+  today's semis carry real earnings (the trap is peak-E, not no-E). The analog says "late," not "Feb 2000
+  is next month." Analogs time nothing; fuses (27E bar, GW-under-construction, hikes) time things.
