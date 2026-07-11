@@ -80,3 +80,25 @@ YTD%s live (yfinance); weights approximate (mine, ~3mo stale, AVGO overstated po
 - Session breadth/concentration/ATH cells, 2025-Q4 → 2026-H1.
 - Top-10 weights + YTD returns: Slickcharts/ICI (WebSearch) + Colab/yfinance run, 2026-07-03.
 - MMF assets: ICI weekly (week ended 2026-07-01).
+
+## 2026-07-11 — NDX internals: half the index in private bear markets under a calm surface
+### DATA (as-reported, Jake paste)
+- **48% of NDX stocks ≥20% below their peaks** — highest since the Feb-Mar selloff; DOUBLED in 12
+  months; (vs 60% before the Mar-30 bottom; 2022 bear peaked at 80%).
+- Simultaneously: **64% above their 200dma, near the year's high** (vs 38% before the Mar-30 bottom).
+- Paste's conclusion: "the rally is becoming increasingly dependent on a shrinking group."
+### THESIS (interpretation — NOT fact)
+- *(both stats are true at once — that's the texture)* Half-broken charts in repaired short-term
+  trends: stocks crashed (Apr), recovered above now-LOWER 200dmas, never regained peaks. A market of
+  survivors below their old highs, held up by a narrowing leadership.
+- *(fifth layer, same picture)* Breadth now agrees with: the record VIX/single-stock vol gap
+  (derivatives), HFs short NQ specifically (COT), semi de-gross (prime book), insider sells (Form 4s).
+  Five independent layers describing one structure: calm index over hollowing internals.
+- *(the precedent + its honest counter)* This is close to the **Nov-2021 signature** (NDX at highs
+  while ~half of constituents sat 20%+ below theirs — two months before the 2022 bear). BUT 2023's
+  narrow-breadth complaints persisted for a YEAR while the index compounded — narrowing is
+  necessary-not-sufficient and times nothing alone. Upgrades that would matter: the 48% pushing
+  through the March-bottom 60% level, the 200dma share rolling from 64% toward 50%, a fear episode
+  opening ([[fear-duration]]), or the median line breaking ([[portfolio-state]] jurisdiction).
+- *(feeder pool)* 48% of the NDX ≥20% off peaks = the ignition-filter feeder pool fattening beneath
+  the surface — the rolling single-name bear supplies the next panic window's candidate list.
