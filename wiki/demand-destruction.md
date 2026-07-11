@@ -104,3 +104,27 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   Monday's close alongside the goalpost discriminator.
 - Answered for the record (Jake's Q): HF option STRIKES/EXPIRATIONS are never public — 13F discloses
   only PUT/CALL + underlying + notional (45d lag). The footprint substitute = strike-level OI/volume.
+
+### 2026-07-11 — deadline outcome: REJECTED, with a conditional counter (`raw` = Jake's ZH paste)
+- **DATA:** Iran throws the ultimatum back — US must first honor "agreed-upon understandings" (the MoU)
+  before shipping normalization. Iravani (UN): Iran stops honoring the MoU if US attacks continue, BUT
+  "still committed... provided the United States fully and faithfully complies." No sit-down talks;
+  Qatari mediators shuttling ultimatums. Trump: "1,000 missiles locked and loaded" if assassinated;
+  "completely decimate." **Mojtaba Khamenei (Supreme Leader, father killed 2/28, himself wounded, still
+  in hiding) issues formal public revenge vow: "certain and undeniable duty... names are fully
+  documented from the highest to the lowest ranks... will carry their dream of a peaceful death in bed
+  to the grave."** Pape: "balance of military capabilities did not change... balance of political will
+  shifted"; the pause = "another stage in the escalation process."
+- *(THESIS — discriminator status: STILL OPEN, ball with Trump.)* Iran's answer is the ambiguous-middle
+  branch leaning refusal — no declaration, but the fig leaf EXISTS (Iravani's "still committed if US
+  complies"). Watch Trump now: grabs the MoU thread = hypothesis A (oil suppression); declares refusal
+  + strikes = hypothesis B. Sunday 6pm ET crude open grades the crowd's ±0.43% consensus first.
+- *(the structural deterioration — worse than the rejection)* Both leaders are now PERSONALLY
+  pre-committed to assassination-triggered escalation: Trump's 1,000-missile auto-response vs a Supreme
+  Leader's formal religious duty of revenge with a stated target list. A vowed duty is not rhetoric —
+  it's an institutional constraint that makes Iranian de-escalation costly at home (Pape's political-
+  will shift, millions at the funeral). The assassination watch-line (corroborated plot wire) is now
+  materially closer: formal intent from the top is on record; only operational corroboration is missing.
+- Marker discipline unchanged: words, vows, and deadlines don't move crude past $90 — Kharg/Jask/
+  physical closure does. But the OFFRAMP probability just fell, and the tail is squeeze-shaped
+  (specs net short).
