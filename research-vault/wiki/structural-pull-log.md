@@ -42,3 +42,19 @@ One dated entry per run. Deltas > levels. Related: [[rotation-stickiness]], [[ru
   view); (2) the asymmetry sharpens — a Kharg/Jask event forces net-short specs to cover INTO a supply
   shock; low price base + short positioning = the $90+ leg would be violent and fast. Same structure on
   NQ: index shorts + record-low implied correlation = squeezes in BOTH tails.
+
+### 2026-07-11 final — full COT baseline complete (report date 7/07)
+- **ES levfunds net −361,875 (COVERED +89,711 in 4wks from −451,586).** SPX Consolidated confirms
+  (−364,959, +94,731). **NQ −55,013 (ADDED −20,707).** CL −15,417 (covering). GC +116,161 (adding).
+- ⚠️ Reading discipline: ES leveraged-fund net short LEVELS are structural (basis trade + hedges
+  against long cash books) — the DELTA is the signal, not the −362K.
+- *(THESIS — the divergence is the print)* Fast money is covering BROAD-market shorts while adding
+  TECH-specific shorts: the short book is rotating from "the market" to "tech, precisely." Combined
+  book: cover S&P shorts + add NQ shorts + short crude + long gold = not bearish the market — bearish
+  TECH, hedged with gold. That is [[rotation-stickiness]] expressed in futures positioning: the same
+  rotation the candle scan caught in flows, the prime book caught in exposure, and insiders caught in
+  Form 4s, now visible in the derivatives layer. Four independent layers, one picture.
+- *(book note, descriptive)* The crowd is migrating index-level shorts to tech-specific shorts while
+  Jake's hedge remains SPY-level (37% tech). Positioning says the pressure point is tech, not the broad
+  index — relevant context for the standing "my hedge isn't hedging anything" tension, resolved
+  previously via the two-bucket split. No action implied.
