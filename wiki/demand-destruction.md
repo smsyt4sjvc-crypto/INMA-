@@ -49,3 +49,35 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
 
 ## Sources
 - `raw/hfi-oil-disconnect.txt` (free preview only). Session read 2026-06-30.
+
+## 2026-07-10 — the Saturday ultimatum: "declare Hormuz open, toll-free... or else"
+### DATA (as-reported, ZH-framed headline via Jake; deadline detail unverified)
+- US sets a SATURDAY deadline for Iran to publicly declare the Strait of Hormuz open and toll-free.
+  Consistent with same-day feed items: US demanding "explicit public statement," Treasury sanctioning a
+  Supreme Leader financier, Iran floating the "errant part of their system" excuse, Qatar/Pakistan
+  diplomacy, Lincoln + Bush carriers within missile range, Iraq CUTTING August OSPs. Crude marker: still
+  ~$79 through 170+ targets. SPR at post-1983 lows (7/9 log).
+
+### THESIS (Jake's two hypotheses + the discriminator — interpretation, NOT fact)
+- Jake's read: Trump is either (A) suppressing oil into the Nov midterms, or (B) engineering a refusal
+  to force Congress + global support for war ("free and open Hormuz" framing), **or both.**
+- *(analysis: "both" is the structurally correct answer — it's a free straddle.)* The ultimatum is
+  costless words for Iran to ACCEPT (declaration → insurance premium collapses → crude bleeds → pump
+  prices fall into November; with the SPR empty, jawboning Iran is the cheapest suppression tool left)
+  and humiliating words to REFUSE (a refusal to affirm free navigation is the ONE casus belli that
+  pulls Europe/Japan/shipping nations onside, with two carriers pre-positioned). Heads he deflates,
+  tails he gets his coalition. The branches aren't competing motives; they're the two legs of one
+  structure. What he loses on is the MIDDLE: ambiguity + no enforcement = the "or else" bleeds
+  credibility by Sunday.
+- **The discriminator (watch this weekend):** Iran's likely move is an AMBIGUOUS statement (affirm free
+  navigation "as we always have" without submitting to the ultimatum's framing). If Trump ACCEPTS the
+  fig leaf and declares victory → hypothesis A dominated (he wanted the words, oil suppression).
+  If the goalposts MOVE ("not explicit enough," inspections demanded) → B dominated (he wanted the
+  refusal). Goalpost behavior after a partial response is the tell — log it when it prints.
+- *(Fed link)* If A works, falling crude into Q4 is the administration's counterweight to the
+  memory+electricity cost-push ([[new-economy-regime]]) — the one deflating lever the White House
+  controls while 9 dots lean hike. Oil suppression IS his anti-hike policy.
+- *(book mechanics — descriptive)* The BNO lesson inverted: this binary is SCHEDULED INTO a closed
+  market (deadline Saturday; crude reopens Sunday evening) — weekend gap risk on a known date. Words
+  alone still don't move the marker: the $90 leg remains Kharg/Jask/physical closure, not declarations.
+  Three-line watch unchanged, with goalpost-behavior added as line four.
