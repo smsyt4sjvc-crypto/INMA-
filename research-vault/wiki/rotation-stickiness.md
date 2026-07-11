@@ -144,3 +144,18 @@ Related: [[market-fragility]], [[concentration]], [[new-economy-regime]], [[deta
   memory extraction that put $150 on an Xbox holds cars at $50K → the trade-down IS the buildout's cost
   transmitting to households, one hop removed. Wrinkle: used PRICES fell 2% YoY (off-lease supply) = demand
   hasn't firmed used pricing yet — fine, arguably better for KMX units/margins.
+
+## 2026-07-11 — GS Prime book: the hedge-fund layer prints (Jake paste)
+- DATA (as-reported, GS prime brokerage weekly): Semis & Semi Equip = most net-BOUGHT subsector this
+  week, but heavily net SOLD past month. Semi net exposure: **6.8% (Jan 2026) → 14% record (early June)
+  → 10.3% now** of total US net exposure on the Prime book.
+- Clarified for the record: HFs = hedge funds (prime-brokerage flow), a separate layer from insiders
+  (Form 4, personal money) — three positioning layers now visible on the same sector.
+- *(THESIS — the distribution chain in time order)* (1) INSIDERS sold first: zero buys/$100M+ sells at
+  the June ATHs (the 24-name grid). (2) HEDGE FUNDS second: 14→10.3% in ~5 weeks. (3) RETAIL arriving
+  last: presidential MU posts to Truth Social this week. Smart→fast→slow = distribution texture, not
+  accumulation. Caveats: this week's HF net buying = a real V-bounce vote, and 10.3% is still ~1.5x the
+  January weight — trimmed, not out; room to re-add OR keep unwinding.
+- *(test link)* Bears on the [[quiet-health-screen]] basket-vs-SPY benchmark: HFs just re-bought chips.
+  Chips re-sold into this bounce while the basket holds → rotation sticky; V-bounce holds → base rate
+  wins. The next 2 weekly GS Prime prints = the scoreboard.
