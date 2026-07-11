@@ -49,3 +49,16 @@ Tool tweaks:
 ## In-house fallback (what I CAN do from here)
 - WebSearch / WebFetch (server-side) → single public pages, quotes, news. ✅
 - Bulk ticker/quant pulls, PDFs, walled sites (X, Cloudflare) → ❌ in-container; offload.
+
+## Weekly structural pull (added 2026-07-11 — `tools/structural_pulls.py`)
+Jake's directive: "reports, filings etc probably matter more in the long run than news and shock
+events." The standing weekly manual Colab run (NO cron per spending rule):
+- **Cell A — CFTC COT** (weekly, free): leveraged-fund net positioning ES/NQ/CL/GC = the free proxy for
+  prime-book flow. Limitation: futures/macro level, not single-stock sectors — GS Prime sector data
+  remains leak-only.
+- **Cell B — Form 4 tripwire** over all vault watchlists (semi grid, quiet-health, mold-12, bottleneck),
+  14d lookback. 3+ filings on a name → run the detailed buy/sell parser on it.
+- **Cell C — short interest** snapshot (bi-monthly data; MoM change direction).
+- **Cell D — 13F freshness** for Scion/Berkshire/Appaloosa (quarterly, 45d lag; link to filing when new).
+Cadence philosophy: the structural layer confirms/kills theses; news only tests them. Feeds still
+supply shocks — they land ON a maintained positioning picture now.
