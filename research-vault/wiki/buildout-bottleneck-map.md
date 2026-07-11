@@ -141,3 +141,25 @@ LITE←AIXTRON G10-AsP MOCVD (5/26); VECO >$250M InP orders (MOCVD + Spector fac
   map exists to find.
 - Discipline: standing rule applies — VECO/AIXNY/AXTI/5016 through the health-screen columns + EDGAR
   (or Japan filings) before any dollar. AXTI loss-making fails the screen's core gate today.
+
+### 2026-07-10 PM — diligence loop closed on the InP four (`raw/2026-07-10-inp-four-diligence.md`)
+- *(the signature match)* The insider table replicates [[runner-anatomy]]'s momentum-cohort signature
+  exactly: **zero buys, heavy selling across names that already ran.** AXTI is the purest specimen in
+  the whole vault: **company raises $632.5M in equity while officers/directors sell ~$72M** — 
+  "corporately all-in, personally de-risked" on a single balance sheet (the MU-CEO-at-ATH pattern,
+  smaller font). AIXTRON's convert = the corporate version (monetizing the multiple via zero-coupon
+  paper). VECO insiders selling post-rerating with GM FALLING (40.9→35.3%) = operators monetizing a
+  2027 promise the market pre-paid for at 34x.
+- *(AIXTRON's stale buys VALIDATE the ignition pattern)* CEO/CFO bought Feb-2025 at €12–13 — i.e., at
+  the bottom, pre-run (the value-cohort ignition tell, in real time) — and have not added at €43.80.
+  Insiders bought the wreckage, not the momentum. Normal; also not a signal to chase.
+- *(JX caveat amplified)* ~65% of JX's operating profit is equity-accounted → core-ops multiple is much
+  richer than the headline 35x; ¥324B debt vs ¥66B cash; and the informed parent (ENEOS) chose to
+  exit ¥195B of exposure at ¥3,401. Its ONE genuine distinction: the only company in the map using
+  explicit "price revisions on tight InP supply-demand" language = pricing power stated, not implied.
+- **VERDICT: the InP upstream layer is FOUND.** The map's criterion is UNREPRICED; all four fail it
+  (4.3–8.4x sales, 30x+ revenue for the loss-maker). Per the NVTS rule: don't chase the nomination.
+  What remains tradable: (a) VECO backlog-conversion into 2027 — falsifiable via GM trajectory +
+  customer prepayments/deferred revenue building in the 10-Q; (b) nothing else at these prices.
+  The map's job now = find the layer BEHIND this one (facet-coating materials, ion-beam sources,
+  InP feedstock/indium itself?) or wait for the flush that puts these back in the ignition filter.
