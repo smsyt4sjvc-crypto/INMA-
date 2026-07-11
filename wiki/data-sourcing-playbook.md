@@ -70,3 +70,15 @@ sells the combination. **Paid-key verdict (2026-07-11): buy nothing yet.** Free 
 except intraday options ORDER FLOW (Unusual Whales ~$50/mo = the only genuinely additive purchase;
 FMP ~$25/mo only if scraping reliability becomes the pain). Rule: buy the pain actually felt after
 3-4 weeks of the routine, not the data that sounds powerful. Any purchase = Jake's explicit call.
+
+## Lag-vs-lead doctrine (2026-07-11, Jake's Q: "does this lag or indicate where money could go?")
+Per layer: **tape** = coincident; forward value = persistence (volume-backed moves continue;
+volume-less drift is hollow both ways). **COT** = leading only at EXTREMES and inverted (crowding =
+stored reversal energy, not direction). **Insiders** = genuinely leading, months-to-quarters horizon
+(runner-study confirmed). **Short interest** = fuel, not signal. **13F** = lagging, slow theses only.
+**Mechanical flows** = the truly predictive class: rule-forced money (fallen-angel exits, index
+rebalances, 10b5-1 calendars, buyback blackouts, LTA prepayment schedules) — public rules, readable in
+advance. **The distribution chain is the master structure:** insiders → HFs → retail; each layer's
+record is the leading indicator for the next layer's behavior. Edge = read the earliest layer while
+later layers are in transit. Calibration: all tilts, not prophecies — insider clusters matter most
+inside panic windows; the stack locates commitment/crowding/forced flow, thesis work does the rest.
