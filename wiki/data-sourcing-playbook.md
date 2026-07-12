@@ -172,3 +172,14 @@ because annualized yield looks big — that number is the gamma you haven't met 
   bank it — screen shows IV 59 at mid; selling at the bid nets ~IV low-50s vs RV 43. The mispricing
   persists because it is only partially accessible. Executable form = patient limit + assignment
   welcome + earnings binary accepted consciously; there is no harvest version of this trade.
+
+### Market-wide confluence funnel (2026-07-12 — Jake: "scan the whole NASDAQ")
+Architecture flipped: INSIDERS FIRST (OpenInsider latest-cluster-buys = whole market, one request),
+then drawdown/IV-richness/chain-liquidity gates on survivors only. Gates: cluster value >$200K →
+dd <= −25% vs 2y high → IV/RV >= 1.25 → put OI >= 100 + spread <= 25% + yield computed AT THE BID
+(the GPK lesson baked in: never display premium that can't be collected). Cells in chat 2026-07-12.
+Calibration corrections logged with it: (1) insider buying = months-horizon VALUE signal, NOT gap
+protection (MTDR bought 46x through the COVID crash) — cluster buys reduce thesis risk, never event
+risk; short puts remain fully exposed to sudden drops. (2) "Drawdown + insiders" marks the bottom
+ZONE, not the tick — insiders are early by months, the put adds a deadline; assignment-welcome sizing
+is the load-bearing bridge. Expect the survivor table empty most weeks; the rejection rate is the edge.
