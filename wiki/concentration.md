@@ -102,3 +102,12 @@ YTD%s live (yfinance); weights approximate (mine, ~3mo stale, AVGO overstated po
   opening ([[fear-duration]]), or the median line breaking ([[portfolio-state]] jurisdiction).
 - *(feeder pool)* 48% of the NDX ≥20% off peaks = the ignition-filter feeder pool fattening beneath
   the surface — the rolling single-name bear supplies the next panic window's candidate list.
+
+## 2026-07-12 — top-10 weight: the number is 36-43% depending on who's counting (verified)
+- DATA (WebSearch 7/12): State Street, early July 2026: **36.4%** (top-5 alone = 25.75%). Other
+  trackers print up to **43% "highest ever"** (cryptobriefing headline); a 2025 record of 40.7% also
+  cited. 30-yr average ≈ 25%; historical low ≈ 17%.
+- ⚠️ Methodology, not disagreement: combining GOOGL+GOOG share classes adds ~2pts; date drift and
+  index-provider treatment do the rest. **Vault convention going forward: "top-10 ≈ 37-43% depending
+  on share-class treatment — roughly 1.5-2.5x the 30-year average either way."** The analytical
+  content (single-engine concentration at/near records) is identical at any number in the range.
