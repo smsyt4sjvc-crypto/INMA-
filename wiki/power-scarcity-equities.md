@@ -37,5 +37,40 @@ The leveraged-equity expression of the grid-scarcity thesis. Related: [[power-no
   premium compresses. Cooling names de-rate if AI-capex buildout stalls on the demand side
   (see [[ai-capex-cycle]] demand-stall vs supply-stall question).
 
+## 2026-07-12 — GEOTHERMAL: the third leg of clean-firm (Jake's Q: "is this nuclear? LNG?")
+### DATA (`raw/2026-07-12-zh-geothermal-fervo-quaise.md`; investor confirms via WebSearch)
+- **Fervo (EGS, Cape Station UT): drilling rates +143% (3rd-gen design); Sawtooth 7 = 19,448 ft
+  w/ 7,500-ft lateral in 21 days (−70% drill time); Phase I power THIS year, Phase II 400 MW 2028;
+  ~$5,500/kW tracking → $3,000/kW target** (vs Vogtle actuals $10-15k/kW).
+- **Fervo IPO planned (Motley Fool/Yahoo coverage May 2026).** Public-company hooks confirmed:
+  **DVN $10M (2023) + led the $244M Feb-2024 round; LBRT $10M; HP drilling partner.**
+- **Quaise (superhot, millimeter-wave): $134M Series B initial close (~$230M total); JERA +
+  Idemitsu strategic; Project Obsidian, Newberry Volcano OR; first electrons target 2030.**
+- DOE $171.5M EGS funding NOFO (Feb 2026).
+### THESIS (interpretation — NOT fact)
+- *(taxonomy — the answer to Jake's question)* Geothermal is NEITHER nuclear NOR LNG — it's the
+  **third leg of clean-firm**: nuclear's PRODUCT (24/7 carbon-free baseload, no fuel logistics, no
+  intermittency) delivered with SHALE'S TOOLKIT (horizontal drilling, multi-stage completion, the
+  drilling learning curve). Same prize as SMRs and on-site gas: the data-center clean-firm contract.
+- *(the learning-curve asymmetry — why the +143% matters)* Nuclear has a NEGATIVE learning curve
+  (Vogtle); drilling has the most documented POSITIVE learning curve in energy (shale 2010s). Fervo's
+  +143%/−70% numbers ARE the shale curve replaying in hot rock. $5,500→$3,000/kW target undercuts
+  everything clean-firm except existing hydro/nuclear uprates. If the curve holds, EGS wins the
+  2028+ tranche of the BtM buildout on cost.
+- *(the oil-services second act — ties [[power-not-petroleum]] literally)* DVN/LBRT/HP monetizing
+  shale IP into power = the drillers' redeployment. JERA (Japan's biggest LNG buyer) seeding
+  superhot = the LNG incumbent hedging its own obsolescence; Japan sits on volcanic superhot
+  resource (the InP-map pattern: Japan as the quiet leg, again).
+- *(timing honesty)* The AI power gap is NOW (2026-28); Fervo Phase II is 2028, Quaise 2030. 400 MW
+  = one mid-size campus — proof, not fleet. Geothermal is a 2028+ answer to a 2026 problem; the
+  2026-28 tranche still belongs to gas gensets/turbines ([[buildout-bottleneck-map]] BKR/GEV) and
+  grid queue-jumping. Same critique as SMRs, but with a real cost curve behind it.
+- *(investable expression, honestly)* Pure-plays private — but the **Fervo IPO = the watch item**
+  (nomination-pattern risk: the listing will price the story, not a discount; NVTS rule applies —
+  don't chase the pop). Indirect: DVN (stake + expertise), LBRT (stake), HP (rigs), ORA (traditional
+  geothermal incumbent, not EGS). And geothermal WATTS need the same transformers/switchgear as
+  everything else if grid-tied — the bottleneck map's sellers get paid by this leg too.
+
 ## Sources
 - `raw/pjm-capacity-cooling-2026-07-01.md` (Utility Dive, Zacks/Yahoo, Investing.com).
+- `raw/2026-07-12-zh-geothermal-fervo-quaise.md` (ZH 7/12 + Fervo/Devon PRs, LBRT 8-K, IPO coverage).
