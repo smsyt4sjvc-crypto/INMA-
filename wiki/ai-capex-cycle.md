@@ -798,3 +798,23 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   the cliff is survivable and even celebrated for the SPENDERS; the punishment lands on the sellers'
   order books. Strengthens the buying-at-highs asymmetry and lowers the political/board barrier to
   Stage 2 — cutting has a happy precedent in living memory.
+
+### 2026-07-12 — Apple v. OpenAI detail (extends the whale's-third-front entry)
+- DATA (as-reported complaint summary, Jake paste): OpenAI hardware chief Tang Tan (24-yr Apple vet)
+  allegedly directed still-employed Apple candidates to bring "actual parts" (batteries, logic boards)
+  to interviews; circulated Apple's offboarding doc to coach exit-security evasion; a departing
+  engineer kept his laptop, exploited a cloud-access bug, downloaded confidential hardware files
+  post-hire; a Foxconn-class supplier tricked into demoing a proprietary metal-finishing process.
+  **400+ ex-Apple employees at OpenAI.** Apple flagged privately in Feb, no response, filed July.
+  Evidence trail: Apple's own server logs (candidate screenshotted files hours before interview).
+- **The ask = the strategy: injunction + return of files + FULL DISCOVERY INTO io — timed against
+  OpenAI's first device launch AND IPO prep.** "If granted, OpenAI must prove the device was built
+  clean, component by component, before it ships."
+- *(THESIS)* Apple's third front confirmed at detail level (memory/CXMT + consumer pass-through +
+  now IP/talent). Precedent: Waymo v. Uber — evidence of this quality doesn't need to WIN, it needs
+  to ENCUMBER; Uber settled for equity + independent verification. Apple's leverage is calendar:
+  discovery through an S-1 window. Cross-impact: the OpenAI IPO is the exit valve for the circular
+  financing chain ([[ai-financing-fragility]]: ORCL's $300B concentration at BBB-; Polymarket already
+  −23pts on the $1T print) — litigation overhang on the device + IPO narrows the valve further. The
+  most dangerous adversary of the AI complex remains the one mega-cap whose stock does NOT depend on
+  the AI narrative being true.
