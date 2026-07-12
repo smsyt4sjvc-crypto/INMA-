@@ -212,3 +212,18 @@ LITE←AIXTRON G10-AsP MOCVD (5/26); VECO >$250M InP orders (MOCVD + Spector fac
 - *(calibration consequence)* When the differentiated read is in a newsletter, its ENTRY edge is gone —
   what remains is execution edge (which names, which layer, which quarter). Consistent with the InP
   layer being FOUND. The map's alpha now lives in layers the newsletter DOESN'T name.
+
+## 2026-07-12 — HELIUM: the war physically merges into the chip cost stack (verified)
+- DATA: China bans ALL helium exports (MofCom, 7/11, verified via SCMP/Caixin/AP). Cause: **strikes on
+  QatarEnergy Ras Laffan shut 3 helium plants → ~30% of GLOBAL helium supply gone** (Qatar ≈ 1/3 of
+  world supply; helium = LNG byproduct). China (net importer, ≤15% self-sufficient) hoarding domestic
+  output for its own fabs. ⚠️ viral digests claiming "China supplied 40%" have the supply map backwards.
+- *(THESIS)* New pyramid layer, and a structural merger of two vault threads: **Hormuz → Qatar LNG →
+  helium → semiconductor manufacturing cost** — the war now feeds the chip cost-push DIRECTLY, not just
+  via energy. "Pull a memory" cascade gains "pull a noble gas." Cost-side ROI erosion gets another
+  input; the Fed's AI-inflation channel gets a war multiplier. US-exposure beneficiaries of a 30%
+  supply cut: US is the #1 producer — ExxonMobil (LaBarge WY = largest single source), industrial-gas
+  processors LIN/APD/Air Liquide (pricing power on existing helium contracts), helium juniors
+  (nomination-pattern risk applies). Watch: helium spot/contract prices, fab cost commentary in
+  TSM/ASML earnings THIS WEEK, whether Qatar's plants restart post-any-ceasefire (the fastest supply
+  fix = the Oman track succeeding).
