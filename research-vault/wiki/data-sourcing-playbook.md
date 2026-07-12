@@ -97,3 +97,13 @@ inside panic windows; the stack locates commitment/crowding/forced flow, thesis 
 6. **A/F/G (grants/withholding/gifts)** — noise; explains grant-cycle tripwires (CME's 18 likely this).
 Extension if ever needed: **Form 144** (notice of INTENT to sell) = the only forward-looking insider
 filing; small add to the tool.
+
+## Options asymmetry doctrine (2026-07-12, Jake's insight confirmed: "it's not equal opposites")
+The opposite of a losing long call = a SHORT call, not a long put. Buyer-vs-buyer of the same question
+both lose whenever the move stays inside the priced range (live example: 7/13 SPY straddle ±0.43% —
+a +0.2% open loses for BOTH buyers). You are paid for the move EXCEEDING the priced expectation, never
+for direction alone. Three ways to lose (direction / magnitude / time) vs one to win; the rake = theta
++ spread + IV crush. BNO calls tuition: the matching puts would likely have died in the same chop.
+Justified option BUYING = a specific evidenced view that realized will exceed implied (the Dec-745
+puts: long correlation at a record discount). The house seat = selling premium (wrong fit for a
+fat-tail regime) or owning the toll booth (CME/CBOE — the rake's landlord, no tail).
