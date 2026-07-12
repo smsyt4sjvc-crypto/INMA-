@@ -107,3 +107,31 @@ One dated entry per run. Deltas > levels. Related: [[rotation-stickiness]], [[ru
 - CHTR = value-trap archetype flag (secular cable decline; sells 3.4x buys despite the cluster).
 - Zero insider buys across every semi at −17% to −69% = no operator anywhere defends current memory/
   AI-chip prices. The three-layer top read strengthens.
+
+## 2026-07-12 — cluster_hunter Cell 2: 67 quality clusters market-wide (pre-gates)
+### DATA (highlights; full table in chat)
+- **Machine validation: GEHC re-found by the automated pipeline** (A, 8 buyers, $6.42M — matches the
+  hand-built file exactly).
+- **ENERGY OPERATOR WAVE — 7+ energy names cluster-buying simultaneously: MTDR (6 buyers, avg $53.37 —
+  the 2020 46-filing legends are BACK), EXE (Expand/Chesapeake), GRNT, REI, DMLP, KYN, TUSK.**
+- **KMX: A-grade, 5 buyers, $1.27M, still adding as of 6/25** — the trade-down landing-pad cluster
+  CONTINUING (third confirmation of the thesis name).
+- Consumer wreckage defended: CELH (3 buyers at $29 — the twice-runner, way off highs), SHAK ($3.2M),
+  FUN ($6.2M), LOVE, NCLH ($29.2M, 7 buyers). Software: **ADSK ($2.2M at $208 — AI-death-row-adjacent,
+  insiders DEFENDING, unlike DUOL/EPAM)**. Financials/insurance: FISV, RYAN ($4.6M), RLI, HLNE
+  ($14.2M — an ignition-filter near-miss). Housing: IBP. Media: TKO ($5.5M).
+- ⚠️ ARTIFACT CLASS FLAGGED: suspiciously ROUND avg prices = offering/placement participations coded
+  as P, not open-market accumulation — AADX ($20.00), BXDC ($20.00, $191M), EWSB ($10.00), FCBM
+  ($12.50), QNT ($60.00), PSUS ($49.35, $311M), MOBI ($14.99, $21.7M), DPC ($33.00, $75.8M), BRCB.
+  Exclude from confluence reads pending verification. (SMMT $103.6M may be REAL — the Duggan
+  mega-buyer pattern — but same verification rule.)
+### THESIS (interpretation — NOT fact)
+- **The energy-operator wave is the find: the people who run the physical layer are accumulating
+  their own stocks into $79 suppressed crude — the same week the SPR Phase-II analysis says the
+  suppression is borrowed.** Insider layer + mechanical-flow layer now agree on energy: operators are
+  buying the thing the refill bid must later chase. MTDR's returning cluster is the highest-pedigree
+  print (proven 2020 bottom-callers).
+- ADSK insiders defending while DUOL/EPAM/UPWK insiders don't = the AI-disruption tier is
+  DIFFERENTIATING from inside — same verdict-structure, opposite votes.
+- NEXT: Cell 3 gates (drawdown/near-insider-px/health) cut 67 → the GEHC-clone shortlist; then
+  E-path work on survivors. Energy wave crosses to [[demand-destruction]] as insider confirmation.
