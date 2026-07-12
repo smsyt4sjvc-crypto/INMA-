@@ -135,3 +135,26 @@ One dated entry per run. Deltas > levels. Related: [[rotation-stickiness]], [[ru
   DIFFERENTIATING from inside — same verdict-structure, opposite votes.
 - NEXT: Cell 3 gates (drawdown/near-insider-px/health) cut 67 → the GEHC-clone shortlist; then
   E-path work on survivors. Energy wave crosses to [[demand-destruction]] as insider confirmation.
+
+### 2026-07-12 — cluster_hunter Cell 3: THE GEHC-CLONE SHORTLIST (15 survivors)
+DATA: full table in chat. Ranked by evidence weight (analysis):
+1. **HLNE — $14.2M cluster (biggest real money), −59% dd, 13.7 PE, 6.8% FCFy, spot 5.8% BELOW insider
+   avg.** Private-markets manager → intersects [[ai-financing-fragility]] directly: the E-path question
+   IS "does private-credit stress break the fee stream." Insiders say fear overdone; our fragility
+   thread says the fear has legs. Highest-tension name on the board.
+2. **GEHC — re-confirmed through all gates** (spot $64.70, +4.4% vs insider avg — still in zone).
+3. **FISV — −79% on a payments giant, 6 buyers, 8.6x PE**, spot at insider avg. (⚠️ FCF NaN = fill by
+   hand.) Mega-cap wreckage + cluster.
+4. **ADSK — spot EXACTLY at insider avg (+0.1%), −36%, 18.4% revG** — the anti-death-row software vote.
+5. **EXE — B-grade but BELOW insider price (−6.7%), 6.5x, 8.1% FCFy, 41% revG** — the energy-wave
+   survivor; largest US natgas producer = AI-power/LNG demand side + Phase-II tie.
+Also passed: AMRZ, ACM (−49%), KBR (−49%), IBP, ROCK, RLI (insurers buying own stock), ADT (8.8x/20%
+FCFy), CELH, LOVE, AII.
+⚠️ Artifact checks owed: AII (3.9 PE / 52% FCFy on $0.4B = suspect), CELH (71 PE trailing + 137% revG =
+acquisition distortion), LOVE (67 PE), FISV FCF NaN.
+NOTE: KMX and MTDR clusters did NOT survive gates — not crushed enough / zone left behind. Their
+clusters = THESIS CONFIRMATION (trade-down; energy Phase-II), not entry setups. Different bucket.
+COMPOSITION READ: zero semis, zero mega-tech (ADSK the lone software name) — the market-wide insider
+map buys financials/industrials/consumer/energy wreckage. The operators' aggregate portfolio = the
+NOT-AI side of the tape. Consistent with rotation-stickiness at the largest scale yet.
+NEXT: E-path work order = HLNE, FISV, ADSK, EXE (GEHC already queued). No dollar before the work.
