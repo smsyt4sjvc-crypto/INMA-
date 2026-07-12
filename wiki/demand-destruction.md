@@ -141,3 +141,17 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   goalpost-moving. Held loosely: rhetoric stays maximal, bombing continues, and the assassination
   coupling from 7/11 is unchanged. Oman track = the real offramp channel opening in parallel with
   theater. Consistent: crude $79, specs short, ±0.43% weekend pricing likely validated at Sunday open.
+
+### 2026-07-12 FLASH — Abadan, Mahshahr, Hendijan hit (Mehr, as-reported; attribution unstated)
+- DATA: three Khuzestan oil-province sites hit by "projectiles" per Iranian state-adjacent Mehr —
+  **Abadan = Iran's largest refinery (DOMESTIC fuel supply); Mahshahr = petrochemical export hub;
+  Hendijan = field/terminal.** Hours after Trump's talks-framing and with Araghchi in Oman.
+- *(THESIS)* The oil-infrastructure sanctuary is ENDING — first systematic strikes on the oil complex
+  after 170+ targets avoided it — but this is one rung BELOW the $90 line: refining + petchem hit
+  Iran's DOMESTIC fuel supply and non-crude revenue, NOT the crude-export backbone (Kharg ≈ 90% of
+  crude exports; Jask). Sophisticated escalation UNDER the marker: squeeze regime stability and
+  revenue without cutting global supply — consistent with hypothesis-A discipline, hostile to the
+  Oman track's optics. Watch lines: (1) Sunday 6pm ET crude open (the ±0.43% weekend consensus now
+  digests fig leaf + Oman + oil-infra strikes); (2) KHARG/JASK = still the uncapping; (3) attribution
+  + Iranian response calculus (domestic fuel shortages = regime-stress lever that raises THEIR
+  incentive to escalate at the strait).
