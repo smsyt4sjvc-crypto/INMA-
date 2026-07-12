@@ -102,3 +102,25 @@ into one 0–100 fragility number + trigger panel.
 - *(book, descriptive)* The Dec-745 puts (IV 14.4%) are long precisely this 34-point gap closing —
   index insurance bought at the record discount to component-level stress. The single cheapest
   expression of "correlation normalizes" available.
+
+## 2026-07-12 eve — Vector 11 gets its NUMBER: levered ETFs = 40% of ETF notional volume (GS)
+### DATA (as-reported, Jake paste, GS derivatives desk)
+- **Levered ETFs: ~$3T gross volume exposure last month ≈ ~40% of June US-listed ETF notional
+  volumes. AUM $175B; gross exposure >$430B** (≈2.5x average embedded leverage).
+### THESIS (interpretation — NOT fact)
+- *(the mechanics — why this is an amplifier, not a stat)* Daily-target leverage must rebalance in
+  the DIRECTION of the day's move at/near the close — down day → forced selling into weakness, up day
+  → forced buying into strength. Price-insensitive, contractual, known-timing. $430B gross doing this
+  is a momentum machine bolted to every close; at 40% of notional volume, the tape's MARGINAL flow is
+  substantially mechanical.
+- *(stack with the vol gap above — same note by design)* Correlation snap (VIX 15→27 on correlation
+  alone) × levered rebalance (selling accelerating into the close) × dispersion-trade unwind = the
+  amplification stack; documented legs, one exit door, same trigger day. Bailey's 7/1 flag (leveraged-
+  ETF "tail → broader consequence") now has the GS denominator under it — and none of it is
+  bailoutable: there is no discount window for a rebalance schedule.
+- *(retail angle — ties Jake's liquidity-bandits riff)* Levered ETFs are retail's leverage of choice;
+  the 40% share is retail-adjacent flow that MUST chase. "Retail provides liquidity" upgraded: retail
+  provides pro-cyclical, schedule-published liquidity — the predictable side of every stressed close.
+- *(live overlay)* Logged the night the war went US-Iran region-wide with a declared Hormuz closure
+  ([[demand-destruction]]): if Monday gaps down and TRENDS, the rebalance flow lands at the close —
+  the flow that votes against "opens down, closes better" on trend days, and FOR it on reversal days.
