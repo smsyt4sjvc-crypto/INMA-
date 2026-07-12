@@ -218,3 +218,23 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   exchange. If crude opens <$85 on THIS stack, the market is saying the $79 regime survives anything
   short of Kharg — the marker framework's strongest possible confirmation. A gap toward $85+ = the
   sanctuary erosion beginning to price.
+
+### 2026-07-12 LATE — CENTCOM primary statement (supersedes IRIB-based reads where they conflict)
+- **DATA (CENTCOM, verbatim-adjacent):** 3rd round complete: ~140 targets this round, **300+ targets
+  over 3 nights this week**, response to Iran "attacking another commercial ship" in the strait.
+  Target categories: **missile/drone sites, naval capabilities, ammo storage, comms, coastal
+  surveillance** — i.e., the ANTI-SHIPPING KILL CHAIN. No energy/oil categories claimed. "Commercial
+  vessel transits... continue."
+- **THE PHYSICAL NUMBER: "Since early May... 800+ commercial vessels and 400 MILLION BARRELS of crude"
+  escorted through Hormuz ≈ 70 days ≈ 5.7M b/d crude ≈ ~40% of normal Hormuz crude flow (~14-15M b/d)
+  — and ~11 vessels/day.** First official throughput figure; confirms the Kpler-corrected read (Jake's
+  30-40% call from satellite data, 7/9) FROM CENTCOM'S OWN MOUTH. The strait runs at ~40%, under escort.
+- *(THESIS refinements)* (1) The "energy sanctuary ending" read from the IRIB explosion locations gets
+  WALKED BACK to unconfirmed: CENTCOM's stated target set at Asalouyeh/Bushehr/Chabahar = coastal
+  military/surveillance co-located with the energy hubs, not (claimed) the energy plants. Sanctuary
+  status: intact per the primary source; IRIB-implied energy hits = unverified. (2) The US posture
+  crystallizes: CONVOY PROTECTOR — "free and open Hormuz" operationalized as escort + kill-chain
+  degradation, oil untouched. Fully consistent with hypothesis A and the marker. (3) 40%-of-normal
+  flow sustained for 70 days without $90 crude = demand weakness is doing half the suppression work
+  (the [[demand-destruction]] thesis in one datapoint) — and it quantifies the XOM-tail "loaded &
+  masked" read: 60% of normal Hormuz crude is offline-or-rerouted and the price still says $79.
