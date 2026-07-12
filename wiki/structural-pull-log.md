@@ -79,3 +79,31 @@ One dated entry per run. Deltas > levels. Related: [[rotation-stickiness]], [[ru
   UHS, GEHC, CI) were sold with the sector or held (dispersion answer > sector answer).
 - Check items: MRNA (−14% on volume — policy/pipeline news?), CINF (insurer — cat loss? ties to HIG
   revision flag), GPC (auto parts = trade-down adjacent; against the KMX chain or company-specific?).
+
+## 2026-07-12 — NDX-100 confluence scan (101 names, 61 in ≥15% drawdowns)
+### DATA
+- **CONFLUENCE HITS (5): GEHC −31% / IV-RV 1.73 / $6.42M buys / EIGHT distinct buyers / ZERO sells** |
+  CHTR −69% / 1.36 / $3.76M / 4 buyers (vs $12.7M sells) | INTU −66% / 1.34 / $542K / 1 |
+  PYPL −49% / 1.52 / $255K / 1 | MELI −29% / 1.25 / $1.19M / 2 / zero sells.
+- Drawdown table headliners: TTD −86% (0 buys), MSTR −80%, TEAM −72%, CSGP −71% ($2.5M single buyer),
+  SMCI −69%, ADBE −62% ($1.9M buy vs $18.8M sells), INTU −66%. 61/101 names ≥15% off = the breadth
+  stat with names attached.
+- **Semi/momentum distribution, quantified at scale: AVGO −$277M, APP −$197M, AMAT −$170M, PLTR −$157M,
+  WDC −$126M... wait STX −$126M, WDAY −$142M, MU −$78.6M, LRCX −$59M, ARM −$58M insider sells; ZERO
+  buys anywhere in the semi complex.** The grid holds at index scale.
+- Chain liquidity (recurring lesson): GEHC put OI 14, CHTR 6, MELI 6 = CSP version mostly untradeable;
+  PYPL (123) marginal. The SIGNAL survives even where the options trade doesn't.
+- Roster note: ANSS dead ticker (SNPS acquisition) — remove from lists.
+### THESIS (interpretation — NOT fact)
+- **GEHC is the find — the strongest multi-tool convergence the vault has produced:** already a
+  four-green EDGAR name IN the quiet-health basket; the flagged worry (−3.8% estimate cuts,
+  China/imaging) now has EIGHT insiders answering it with $6.4M of personal money and zero selling,
+  into a −31% drawdown with fear priced 1.73x realized. Screen + filings + insider cluster + IV all
+  agree. NEXT: dense insider_pull detail (who are the 8, titles, dates, 10b5-1?) + GILD-style
+  artifact check before any dollar.
+- The AI-disruption death row now has MEGA-CAP members: INTU −66% (AI does taxes), ADBE −62%, TEAM,
+  WDAY — same verdict structure as DUOL/EPAM/UPWK one cap-tier up. INTU's lone $542K buyer vs ADBE's
+  $18.8M sells = differentiation within the tier.
+- CHTR = value-trap archetype flag (secular cable decline; sells 3.4x buys despite the cluster).
+- Zero insider buys across every semi at −17% to −69% = no operator anywhere defends current memory/
+  AI-chip prices. The three-layer top read strengthens.
