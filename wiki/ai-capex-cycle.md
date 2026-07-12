@@ -760,3 +760,30 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   (power bottleneck), memory (champion embrace), semis (tariff protection). ⚠️ Caveats: 278-T shows
   Q1 TRADES in disclosure bands, not current holdings; account may be externally managed; whether
   positions persist into July is undisclosed.
+
+## 2026-07-12 — BofA Exhibit 6: the FCF transfer, quantified — hyperscalers NEGATIVE, semis $430B
+### DATA (BofA Research Investment Committee chart + Jake paste, as-reported NTM estimates)
+- **12m-forward FCF: NVDA+MU+AVGO+AMAT = record ~$430B (3x two years ago). AMZN+GOOGL+META+MSFT+ORCL =
+  NEGATIVE for the first time on record** (from the +$260-275B peak in 2024) — the chart's two lines
+  literally CROSS in 2025-26, hyperscaler line collapsing vertically to ~-$30B. Their combined AI
+  capex est. ~$1.8T for 2026-27.
+### THESIS (interpretation — NOT fact)
+- *(one ledger)* The chipmakers' record FCF IS the hyperscalers' FCF deficit — a single wealth
+  transfer viewed from both ends. [[buying-at-highs]] §3's asymmetry now has its number: the cliff
+  RESTORES the buyers' ~$260B baseline and DELETES the sellers' $430B peak. The mean-reversion trade
+  is drawn on the chart.
+- *(the financing arithmetic is now mandatory, not optional)* FCF-negative buyers spending $1.8T fund
+  the gap with DEBT by arithmetic — the $194B/9%-of-IG issuance, ORCL at BBB-, CDS 198 are not
+  choices, they're the plug. **BofA's own Exhibit 6 contradicts BofA's Friday soothing ("$244B raised
+  = optimization, not funding stress") — the stress is their chart's y-axis.** Sell-side incoherence
+  logged.
+- *(the clock this starts)* Boards do not tolerate negative FCF indefinitely under a hike-leaning Fed —
+  the Token-Revolt/CFO-optimization pressure now has a balance-sheet deadline behind it. The 2000
+  rhyme, exact: telecom carriers went FCF-negative buying equipment; Lucent/Nortel/Cisco printed
+  record vendor margins and "record backlogs"; financing snapped; equipment orders went to ~zero
+  inside 18 months. Today's version adds circular vendor-financing (NVDA→OpenAI et al.).
+- *(cross-checks in vault)* Meta already renting out excess compute; AVGO maintain-not-raise; Samsung/
+  SKH record-quarter-stock-fell; semi insiders $700M+ net sales into the $430B projection — the people
+  running the cash machines are treating peak FCF as PEAK, not plateau. Stage-2 triggers unchanged;
+  this chart is the PRESSURE diagram, and it says the cliff, when it comes, is violent in both
+  directions at once.
