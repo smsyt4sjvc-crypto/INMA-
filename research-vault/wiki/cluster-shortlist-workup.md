@@ -72,3 +72,18 @@ clusters mark where operators DISAGREE with the market; the work decides who's r
 buys a broken E; HLNE's cluster fights a short report our own macro work sides with; GEHC/ADSK's
 clusters bought identifiable, non-structural drawdowns with growing E. Same signal, opposite verdicts —
 the cluster is the START of the funnel, never the end.
+
+## Addenda (2026-07-12 late, Jake's questions)
+- **EXE x helium: nothing to price — geology.** Helium concentrates in specific deep formations
+  (XOM LaBarge WY ~0.6% He = largest source; legacy Hugoton). EXE's Marcellus/Utica + Haynesville gas
+  carries negligible helium — no molecules, no processing, no revenue path. Qatar-cut beneficiaries =
+  LaBarge (XOM), processors LIN/APD (contract pricing power), helium juniors. Same structure as the
+  LNG finding: EXE is a Henry Hub price-taker; war windfalls accrue to whoever owns export capacity /
+  the right molecules, not upstream generally.
+- **ADSK x data centers: YES, directly.** AECO = largest segment; DCs are designed/BIM'd/managed in
+  Revit/AutoCAD/Civil 3D/Construction Cloud; management explicitly cited DC+infrastructure demand
+  more-than-offsetting soft commercial construction. Market prices ADSK as an AI VICTIM (CAD
+  disruption) while the AI BUILDOUT is a top demand driver — a toll booth on the physical layer priced
+  as roadkill on the digital layer. Flip side logged: Stage 2 slows DC construction → AECO tailwind
+  fades as the disruption narrative relaxes = partially internally hedged to the AI outcome (does not
+  double the book's existing short-AI exposure in either direction).
