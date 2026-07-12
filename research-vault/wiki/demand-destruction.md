@@ -155,3 +155,24 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   digests fig leaf + Oman + oil-infra strikes); (2) KHARG/JASK = still the uncapping; (3) attribution
   + Iranian response calculus (domestic fuel shortages = regime-stress lever that raises THEIR
   incentive to escalate at the strait).
+
+### 2026-07-12 — Jake's two pattern catches (both confirmed against the record)
+- **(1) The Ukraine refinery doctrine, ported to Iran.** Ukraine's 2024-25 drone campaign hit Russian
+  REFINING systematically while sparing crude-export infrastructure (under US pressure to keep global
+  prices calm) → Russian domestic fuel shortages, global crude undisturbed. Abadan/Mahshahr = the same
+  play run on Iran: products/petchem hit, Kharg spared. The doctrine has a name now; its next rung is
+  known from the Russian case too (export infra only when the price-suppressor stops caring).
+- **(2) Escalation is repeatedly scheduled into CLOSED markets.** The logged record: war opened
+  Feb 28 (a SATURDAY, Khamenei killed); ultimatum deadline set for a Saturday; rejection + Mojtaba's
+  vengeance vow landed Saturday; Abadan strikes Saturday — "within hours, over and over." If
+  deliberate, the logic is coherent for an oil-suppressing escalator: 40+ hours for spin (talks
+  framing) and physical assessment to layer over the act before pricing; no live red tape during the
+  news cycle; allies/Congress react into a vacuum. Escalate Saturday, spin Sunday, point at a flat
+  Monday open as proof of "no problem." Managing the market as a CONSTITUENCY.
+- *(THESIS — the tradeable implication)* If news is deliberately deposited into weekend windows, then
+  **weekend gap risk is systematically underpriced**: Friday closes price ±0.4%-type weekends
+  (calm-market convention) while the escalation calendar concentrates into exactly that window.
+  Implications: (a) never short short-dated options over these weekends (doctrine, now reinforced);
+  (b) Friday-to-Monday optionality is systematically CHEAP in this regime — the buyer's side of the
+  weekend; (c) watch for the market LEARNING the pattern: Friday-afternoon de-risking / a weekend vol
+  premium appearing = the crowd catching up, and the cheapness closing.
