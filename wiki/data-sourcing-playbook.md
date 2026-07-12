@@ -134,3 +134,18 @@ window = a different bet, decide explicitly; (5) thin chains: limit orders, veri
 (6) exit falsifier = insiders flip to selling. Expect the table EMPTY most weeks — the overlap is rare
 because it IS the mispricing. Live specimen at inception: GPK (post-kitchen-sink IV hangover + class-
 action headline vs CEO+3 directors $1.05M, shorts −32%, price based at insider level).
+
+### First confluence run (2026-07-12, Jake's Colab, 22 names) — ONE hit: GPK
+- **GPK: IV/RV 1.37 (59 vs 43), put OI 819 (tradeable), SI 11%, $354K buys / ZERO sells.** (90d window
+  undercounts the full cluster — March CEO $501K + Venturelli $199K aged out; full record = 4 buyers,
+  $1.05M.) ⚠️ GPK earnings ~late Jul/early Aug sits INSIDE a 30-45 DTE window → rule 4 live.
+- **The discriminator visibly worked:** CLF (1.36, equally rich) excluded on −$2.9M insider SELLING =
+  correctly-priced fear; UPWK (1.32) same; EPAM's $7.5K-x6 theater excluded by the $100K floor;
+  ADMA (1.65) near-miss on breadth (1 repeat buyer, not a cluster).
+- ⚠️ Artifacts: FRPT/AMPH/INSP IV ~2-3% = dead yfinance quotes (OI 0 rows), not cheap options.
+  HIG 2.68 and UHS 1.41 on OI 6-9 = stale-quote suspects, verify off-platform. VICR "-$220.7M sells"
+  needs verification (founder distribution vs parse error). MU −$78.6M/90d sells = cumulative officer
+  selling beyond the CEO's $32.8M print, consistent with the grid.
+- **Check-item, not artifact: WEN — 44.2% short interest, 110% realized vol, IV/RV 0.68.** Something is
+  in play at Wendy's (squeeze/activist/event?) and options are priced CHEAP vs realized — the opposite
+  setup (buyer's market on a name in motion). Investigate before touching from either side.
