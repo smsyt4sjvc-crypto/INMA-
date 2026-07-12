@@ -53,3 +53,26 @@ temptation class ($0 tuition, like the dip-buy study). Where edges actually meas
 work, for contrast: small caps, panic windows, insider clusters, months-scale holds — never
 mega-cap-weekly. Documented momentum lives at 3-12 MONTH formation; if the itch persists, that's the
 horizon to test next.
+
+## Part 2 — the week BEFORE the pop (run 2026-07-12, 2,737 events)
+### DATA
+- Winners' prior week: **mean +0.32%, median +0.32%** (vs universe: −0.13/−0.22) — average, not bad.
+  Only **15%** had a markedly bad (<−5%) prior week. 9% were already top-5 the week before (vs 5.1% base).
+- **The barbell (the finding): prior-week quintiles = bottom 27% / 17% / 15% / 16% / top 26%.**
+  Both tails fat (53% vs 40% expected), middle hollow (15% vs 20%).
+- Conditional: **P(top-5 next week | bottom-5 this week) = 10.0% vs 5.1% base — doubled.** But H4
+  already measured bottom-5 forward expectancy ≈ 0 (+0.20 mean/−0.10 median/49% win).
+### GRADED vs pre-registration
+- **"Not markedly bad, markedly VOLATILE" — CONFIRMED exactly.** Pops come from the high-energy names,
+  from either tail, hollow middle = volatility clustering, direction-agnostic.
+- **The 2x probability lift is real but expectancy-free:** doubled odds of a big up-week are paid for
+  with symmetric odds of continued losses — a fairly-priced lottery ticket. Screen-on-bad-weeks fails
+  on EV as predicted (though the probability lift, 2.0x, is bigger than guessed).
+### THESIS (residues worth keeping)
+- Future top-5 candidates live in THIS week's tails (53%), but direction is a coin flip — useless for
+  stock-picking, useful as VOL context: realized-vol persistence is real in this data, which means
+  post-pop rich IV is often FAIRLY priced (the vol genuinely continues) — a caution flag for the
+  premium-selling doctrine's "post-event IV harvest": clustering backs the premium.
+- The full weekly picture, both studies: NDX weekly returns carry NO exploitable drift or reversal in
+  either direction, from any setup — but volatility state persists strongly. Price = efficient;
+  energy = predictable. Trade the energy pricing (options), never the direction, at this horizon.
