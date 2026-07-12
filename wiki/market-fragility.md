@@ -78,3 +78,27 @@ into one 0–100 fragility number + trigger panel.
   both corporate support layers (announced buybacks, officer money) soft simultaneously while retail
   arrives. Also logged same scroll: IMF's SECOND consecutive global growth downgrade; US population
   growth corrected down (breakeven-payrolls input, [[new-economy-regime]]).
+
+## 2026-07-12 — the vol gap QUANTIFIED: single-stock vol 49 vs VIX 15 = record 34-pt gap
+### DATA (as-reported, Jake paste — Kobeissi-style stat)
+- S&P single-stock volatility index: **49** (highest since Mar 2025). VIX: **15** (lowest since
+  mid-Jan). **Gap: 34 points, a record; +19pts (+127%) since March.** Framing: "single stocks are
+  trading as if a correction has already occurred."
+### THESIS (interpretation — NOT fact)
+- *(the arithmetic the stat implies)* Index vol ≈ avg single-stock vol × √(avg correlation). 15/49 →
+  **implied correlation ≈ (15/49)² ≈ 9%** — single names priced as near-independent random variables.
+  Historical average correlation ~30%: at 30%, with NO change in single-stock stress, index vol =
+  49×√0.30 ≈ **VIX 27**. At crisis correlation (60%+): ≈ **VIX 38**. **The VIX can roughly double
+  WITHOUT any increase in individual-stock fear — purely from names starting to move together.**
+  That is the entire content of the record gap.
+- *(what 49 means physically)* Single-stock IV of 49 ≈ ~3%/day expected moves — the median S&P name
+  is priced like a crisis is ALREADY HAPPENING at the component level (matches: 48% of NDX in 20%+
+  bears; last week's drift-with-sell-events tape; the rolling single-name bear feeding the ignition
+  pool).
+- *(positioning overlay)* The record gap = the dispersion trade (short index vol / long single vol)
+  at maximal crowding + HFs short NQ + specs short crude. One macro cause that correlates everything
+  (a hike, a hull stopped in Hormuz, a Stage-2 print) unwinds all three crowded trades through the
+  same door.
+- *(book, descriptive)* The Dec-745 puts (IV 14.4%) are long precisely this 34-point gap closing —
+  index insurance bought at the record discount to component-level stress. The single cheapest
+  expression of "correlation normalizes" available.
