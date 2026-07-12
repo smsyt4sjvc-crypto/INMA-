@@ -72,3 +72,9 @@ into one 0–100 fragility number + trigger panel.
   [[runner-anatomy]] ignition cohort — so part of the +237% is rebound-off-panic, not pure mania; and
   today's semis carry real earnings (the trap is peak-E, not no-E). The analog says "late," not "Feb 2000
   is next month." Analogs time nothing; fuses (27E bar, GW-under-construction, hikes) time things.
+
+## 2026-07-12 — buybacks falling short of promises (ZH, as-reported)
+- The corporate bid is weaker than advertised THIS YEAR — pairs with the insider-selling census:
+  both corporate support layers (announced buybacks, officer money) soft simultaneously while retail
+  arrives. Also logged same scroll: IMF's SECOND consecutive global growth downgrade; US population
+  growth corrected down (breakeven-payrolls input, [[new-economy-regime]]).
