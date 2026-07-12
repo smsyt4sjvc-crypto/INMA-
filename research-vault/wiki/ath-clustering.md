@@ -97,3 +97,23 @@ don't die of age; they die of the Fed.** Current cluster (age 2.5, in the valley
 sponsors contested by vault evidence — monetary blocked (9 hike dots, Fed names AI as the inflation),
 productivity absent from US GDP (IMF: gains sit in Taiwan/Korea supply chain). Live test = the 38-day
 drought: fresh high soon = shock absorbed (2018-style); stretch toward 365d = the death line.
+
+### Jake's extension (2026-07-12): survivors had CATALYST SUCCESSION; this cluster runs on one engine
+- *(Jake's thesis, developed)* The long regimes weren't one story — they were RELAYS: **2013-21:**
+  smartphones/apps (2010-15) → cloud/SaaS (2014-20) → ZIRP/QE the whole way under it → COVID
+  stimulus + digital pull-forward (2020-21). **1995-2000:** PCs → internet/networking → telecom
+  buildout → Y2K spend, over the Greenspan put. **1950s:** autos + suburbanization + defense +
+  consumer credit. Each engine handed off as the prior matured; the sponsor caught every stumble.
+- **The current cluster is single-engine: AI capex, alone.** The vault's own data is the proof:
+  top-10 = 37% of index, 48% of NDX in private bears, DC construction > office construction,
+  hyperscaler capex = the marginal GDP impulse, one FCF pipe (BofA Exhibit 6). No visible successor
+  S-curve at scale: GLP-1 is real but consumer-redistributive (trade-down chain), robotics/agents =
+  AI's own promised second act, not an independent engine. Single engine + contested sponsor = the
+  historically fragile configuration.
+- *(steelman, per calibration — the bull path exists and has a precedent)* 1994's tightening didn't
+  kill the regime — it PRECEDED the 1995 soft landing + cut cycle that launched the greatest cluster
+  ever. The 2026 analog: hikes/hawkishness now → 2027 pivot (fiscal dominance forces it) arriving
+  exactly as AI's second acts (agents/robotics/drug discovery) and the semi-independent POWER/GRID
+  capex engine mature. If the sponsor shows up late and the engine spawns a successor, this valley
+  was 1994, not 2000. The falsifiers already logged decide which: Stage-2 triggers, the drought
+  clock, Warsh's pivot behavior, AI ROI in US GDP (not Taiwan's).
