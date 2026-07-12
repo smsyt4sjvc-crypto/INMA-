@@ -439,3 +439,44 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
 - **Watch:** Tuesday 7/14 testimony — task-force framing, "changing economy"/"measurement" language,
   dots skepticism under oath; any NAMED new gauge (the supercore pattern) = the scenario going live;
   year-end communication-review deliverable; breakevens/gold reaction to each.
+
+### 2026-07-12 — the LABOR leg of the third exit (Jake's extension: "wages > inflation" by composition)
+#### DATA (WebSearch 7/12: June jobs report, CNBC/BLS/Fox)
+- June: payrolls **+57k** (vs 115k consensus; May revised DOWN 43k to 129k, April down 31k to 148k).
+  **Participation fell 0.3pp to 61.5% — lowest since Mar-2021** (pre-pandemic 63.3%); emp-pop ratio
+  down 0.2pp to 59.0%. **Unemployment DROPPED to 4.2%** — mechanically, via the participation exit.
+  **AHE accelerating: 3.4% → 3.5% YoY** ($37.64). Fox headline the same day: "added jobs at a steady pace."
+- Composition-bias precedent: **April 2020 AHE spiked ~+8% YoY** purely because low-wage workers were
+  fired en masse — averages rise when the bottom leaves the sample. The Atlanta Fed Wage Growth Tracker
+  (median, matched persons) and the ECI (fixed job-mix) exist specifically to correct this artifact.
+- Vault priors: Amazon −16k workers Jan citing AI; June construction still adding (specialty +14.1k)
+  while residential sheds.
+#### THESIS (user's thesis + analysis)
+- *(user's thesis)* Pair the redefined inflation gauge with AI-driven labor-force exit: participation
+  falls but headline payrolls look "steady"; jobs consolidate into AI-supplementary/supervisory/HITL
+  roles at much higher wages → **average wages rise by composition, not raises** → "wages > inflation"
+  prints, and the chair's prosperity story completes.
+- *(analysis — June ALREADY has the signature)* Every element printed at once: exits (61.5%),
+  "steady" framing, unemployment falling FOR THE WRONG REASON, AHE accelerating. Not alleged
+  engineering — the composition effect is mechanical as displacement proceeds; the POLICY choice is
+  merely which series to cite (AHE not ECI/median; U-3 not participation; core not headline). Burns
+  didn't fake data either — he chose the exclusions.
+- *(analysis — the yardstick choice flips the sign of real wages TODAY)* AHE 3.5% vs headline CPI 4.2%
+  = real wages NEGATIVE. Same 3.5% vs core CPI 2.9% = POSITIVE. "Look through energy" is not framing —
+  it is the difference between rising and falling real wages in the current prints. The redefinition
+  leg and the wage leg NEED each other; that's why it's a package.
+- *(analysis — the productivity double-headline)* Unit labor costs = compensation/output. AI raises
+  output per remaining worker → ULC can FALL (Warsh's disinflation doctrine confirmed) while average
+  wages RISE (composition). Both headlines print simultaneously, both arithmetically true, from the
+  same displacement. The chair gets disinflation AND prosperity from one phenomenon.
+- *(analysis — the statistical laundering of the Hollow Bottom)* The displaced appear NOWHERE: not
+  unemployed (stopped looking → out of U-3), not in the wage average (not employed). The K's bottom leg
+  exits the aggregates entirely — [[consumption-vs-investment-crux]] made invisible by sample attrition.
+  The grievance doesn't exit the electorate, though: it reappears as the bipartisan ratchet and the
+  trade-down tape ([[trade-down-landing-pads]]).
+- *(un-gameable checks — the series that can't be composition-laundered)* **Prime-age (25-54) emp-pop
+  ratio** (bodies/population, no wage or participation definitions); **ECI vs AHE spread** (fixed mix vs
+  drifting mix — divergence = the fingerprint); **Atlanta Fed median tracker vs AHE average**;
+  **aggregate real labor income** (hours × jobs × wages — can stagnate while the average rises); real
+  consumption at the median vs trade-down volume. If AHE accelerates while ECI/median/prime-age EPOP
+  stall → the "wages > inflation" print is composition, not raises.
