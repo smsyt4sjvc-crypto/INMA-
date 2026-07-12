@@ -53,3 +53,13 @@ runner study says produces essentially all 3x outcomes. **The seat's cost: if NO
 melt), it underperforms — which is what the two-bucket core (deploys on schedule, no signal needed) is
 for.** The vault's job in the next 12 months is not prediction; it is recognizing the window inside a
 week while the crowd needs a month.
+
+## As-of-now placement read (2026-07-12 — analysis, sizing/execution Jake's)
+Ranked by evidence density: (1) **ACTIVATE THE CORE** — book is 100% tactical; own median line ABOVE →
+own two-bucket rule says schedule-based deployment is permitted; the un-deployed core is the book's
+largest documented cost in the melt branch. (2) **CME/CBOE** — the both-branches name (4-tool
+confirmation). (3) **Small operator-confirmed value sleeve** (GPK-type: 3 layers agree; clean
+falsifier). (4) **Trade-down chain gated on Aug earnings.** (5) **Hold puts + cash for the window.**
+NOT: chasing memory/InP (found; insiders out), AI death row pre-proof, Mag-10 as a monolith (the group
+contains both the cliff's best hedge (MSFT-type) and its best casualty (NVDA-type) — one opinion about
+it is a category error; index core already = 37% Mag-10).
