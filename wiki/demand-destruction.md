@@ -271,3 +271,23 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   the current fight; it held ~3 weeks before the ceasefire-over/ship-attack sequence. TTF hit ~$18 vs
   HH ~$3 during the Qatar outage (US gas market insulated by export-capacity constraint; EIA lowered
   HH forecasts DESPITE the war — supply glut > war premium in US gas).
+
+### 2026-07-12 midday — THE FRAMEWORK'S FINAL EXAM: Hormuz DECLARED closed, PHYSICALLY open
+- DATA (`raw/2026-07-12-sunday-hormuz-declared-closed.md`): IRGC-Navy declares no foreign vessels may
+  pass; CENTCOM declares it open under escort; **Windward physical count: 9 transits in 12 hours
+  (≈18/day pace — ABOVE the escorted average) + 8 DARK vessels (AIS off) in the eastern approaches.**
+  US striking Bandar Abbas/Qeshm (the strait-side naval complex); Kuwait explosions = third Gulf state.
+- *(THESIS)* Maximum possible divergence between the reported and physical layers: a DECLARED closure
+  with transits running above average. This is the exact scenario the $90-marker framework exists for —
+  words (even official closure declarations) don't reprice crude; stopped ships do. Tonight's 6pm ET
+  open is the cleanest single test the framework will ever get: if crude opens <$85 against a DECLARED
+  closure, the market has fully adopted physical-layer pricing and the marker survives its final exam.
+  A $90+ print on declaration alone would FALSIFY the marker's word-discount — grade honestly either way.
+- *(the physical tell to watch)* The **8 dark vessels** are the layer beneath the declarations: staging
+  attack assets / minelayers would be the closure's actual instrument; sanction-runners would be noise.
+  Windward's next update > any ministry statement.
+- Escalation bookkeeping: THIRD Gulf state touched (Kuwait, after Qatar + Jordan/Bahrain-adjacent);
+  strikes now on the strait-side naval HQ itself. All still inside the weekend window, both directions.
+- Prediction-set note ([[predictions/2026-07-12]]): registered call (+3.5% Sun open) now faces a
+  declared-closure headline it did not anticipate — NOT edited per the rules; the kill-switch clause
+  ("second-phase strike in the closed window") is arguably live. Grade as printed.
