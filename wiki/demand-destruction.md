@@ -238,3 +238,28 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   flow sustained for 70 days without $90 crude = demand weakness is doing half the suppression work
   (the [[demand-destruction]] thesis in one datapoint) — and it quantifies the XOM-tail "loaded &
   masked" read: 60% of normal Hormuz crude is offline-or-rerouted and the price still says $79.
+
+## 2026-07-12 — ⚠️ CORRECTION + the Phase-II frame (Jake's catch: the "demand destruction" is partly
+## the reserves being emptied)
+- **Correction to tonight's read:** "demand weakness doing half the suppression work" understated the
+  mechanism. The $79 suppression stack = (1) convoy escort, (2) SPR/IEA releases (loans, not sales),
+  (3) weak Chinese refinery runs. ALL THREE are temporary/reversible. SPR draws are not destroyed
+  demand — they are demand SHIFTED FORWARD with premium-barrel interest.
+- DATA (`raw/2026-07-12-oilprice-spr-phase2.md`): SPR at 40+yr lows via EXCHANGE agreements (repay
+  with premium); est. **0.5–0.75M bpd of policy-driven refill demand through 2028** (⚠️ unsourced
+  estimate); logistics-risk premium (freight/insurance) tightening physical markets without lost
+  supply; physical-over-futures premiums during maritime stress.
+- *(THESIS — this is the MECHANICAL-FLOWS class, applied to oil)* Per the lag-vs-lead doctrine, the
+  truly predictive flow category is rule-forced future buying. SPR exchange repayments are exactly
+  that: scheduled, contractual, price-insensitive. The oil bull case is therefore NOT war-dependent —
+  it's the refill bid + China-restock convergence, arriving on a calendar.
+- *(the calendar synthesis — sharpest version)* The administration is spending the reserve to buy the
+  PRE-MIDTERM price. It will not tender refills into its own election. Therefore: **suppression
+  through November; the structural refill bid activates AFTER.** The midterm-suppression thread and
+  the Phase-II thesis are the same trade viewed from both sides of election day. Watch: refill tender
+  announcements = the regime change's official start; DOE exchange repayment schedules; physical-
+  futures spreads (Brent/Dubai physical premiums) as the early tell.
+- *(book relevance, descriptive)* Strengthens the energy tail from both ends: downside floor rising
+  (logistics premium + mechanical refill bid) while the upside tail stays squeeze-shaped (specs short,
+  40% flows, empty buffer = NO cushion for the next shock — the piece's core point: the safety net is
+  the crisis now).
