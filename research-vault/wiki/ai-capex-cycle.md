@@ -825,7 +825,41 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
 ### 2026-07-12 — week-ahead sensors + SKH raise size (Reuters week-ahead)
 - **SK Hynix's Nasdaq listing raised $26B** — record-class equity supply sold into peak memory
   enthusiasm (top-texture: corporate monetization at maximum scale, filed next to the eternal-shortage
-  IPO-day quote).
+  IPO-day quote). → Full workup in the 7/12 SKHY section below.
+
+### 2026-07-12 eve — SKHY workup (Jake: "relatively quiet" — the quiet IS the datapoint)
+#### DATA (WebSearch 7/12: CNBC/Forbes/Fortune/Yahoo)
+- Debuted **Friday 7/10** on Nasdaq. ADRs priced **$149, raised $26.5B = largest US share sale EVER
+  by a foreign company** (tops Alibaba's $25B, 2014). **Third-largest US debut on record — behind
+  SpaceX's record listing LAST MONTH** (June 2026). Day one: **+13% to $168.01** (+17% intraday per
+  Forbes). Ticker SKHYV → SKHY as of Tuesday. Proceeds: "aggressive expansion — new factories and
+  equipment." Chairman on CNBC debut day: **"demand is enormous."**
+#### THESIS (interpretation — NOT fact)
+- *(top-texture, precision-grade)* A 75-80%-margin memory oligopolist sells the largest foreign
+  equity raise in US history at peak HBM enthusiasm, one month after Korea entered a formal bear
+  market, the same week as Burry's MU short / the DRAM class action / Apple courting CXMT — while
+  the chairman says "demand is enormous" on TV. Corporate-scale version of the insider-selling
+  signature: the informed holder monetizing size INTO the story ("corporately all-in, personally
+  de-risked" — here the corporation itself is the seller).
+- *(Jake's "quiet" read — distribution is quiet by design)* Alibaba 2014 was a retail circus and
+  popped +38%; SKHY moved $26.5B with a +13% day and modest buzz (overshadowed by SpaceX and the
+  war). Institutions absorbing record size without drama = supply MEETING demand exactly — closer
+  to distribution than to blow-off. The 2000 rhyme: AT&T Wireless's $10.6B (then-record) IPO
+  top-ticked the dot-com cycle almost to the week. Record listings cluster at tops because that's
+  when sellers get record prices.
+- *(the MSCI escape — vault connection)* The 7/1 Korea note: Samsung/Hynix forced-sold by MSCI
+  Korea concentration caps (~$24B still to come). A Nasdaq ADR listing routes AROUND the Korea index
+  plumbing — taps US pools unbound by the cap. One move: monetize the peak AND solve the mechanical-
+  selling discount. Also political insurance: a US-investor constituency ahead of any memory tariff
+  (the designated-champion umbrella, applied for in advance).
+- *(steelman — the bull side of absorption)* The tape ATE $26.5B without breaking: liquidity is
+  abundant, real demand for pure-HBM exposure exists (MU was the only US vehicle; now there's a
+  comp — flows can rerate the class or DIVERT from MU, two-sided). SpaceX + SKHY records
+  back-to-back = the IPO window wide open, consistent with [[detachment-bid]] liquidity.
+- *(watch)* NDX/QQQ eligibility (foreign ADRs qualify; inclusion = mechanical passive bid); SKHY
+  vs MU relative performance from day one (the flow-diversion question); whether the raise's capex
+  deployment confirms the "$266B Korea wafers / US packaging photo-op" split; first full session is
+  a war-gap Monday — priced 48 hours before the tape turned.
 - **TSMC Q2 Thursday ~7/16 = the Stage-2 sensor of the week:** watch (1) 2026 revenue-growth and
   CAPEX guide revisions (UP = trigger further away; flat/down = first crack), (2) the price-hike hint
   ("would like to raise prices" — foundry pricing power = another cost-push leg), (3) AI-demand
