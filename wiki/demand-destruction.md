@@ -291,3 +291,20 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
 - Prediction-set note ([[predictions/2026-07-12]]): registered call (+3.5% Sun open) now faces a
   declared-closure headline it did not anticipate — NOT edited per the rules; the kill-switch clause
   ("second-phase strike in the closed window") is arguably live. Grade as printed.
+
+### ⚠️ CORRECTION (2026-07-12, ~1hr after the "final exam" entry — CENTCOM verbatim vs the ZH headline)
+- The prior entry took ZH's "Tehran Declares Hormuz Closed" at headline value. **CENTCOM's own
+  CLAIM/FACT post carries the actual IRGC-Navy quote: "no foreign vessels may pass through the Strait
+  of Hormuz WITHOUT BEING IDENTIFIED, TRACKED, AND MONITORED BY IRANIAN FORCES."**
+- That is NOT a closure declaration. It is a SURVEILLANCE/PERMISSION assertion — "you transit under
+  our monitoring" — a sovereignty claim engineered to let ships keep passing. ~~"Maximum divergence:
+  declared closure vs physical transit"~~ → the real structure: **Iran asserts a control REGIME over
+  transits (the "toll" the ultimatum demanded they renounce, in soft form) while carefully NOT
+  committing to stopping ships.** The ambiguous middle, in maritime form: theater of control,
+  substance of transit. Face-saving in both directions — domestic sovereignty win, no uncapping.
+- Tonight's open therefore tests LESS than the prior entry claimed: a calm print now partly reflects
+  the declaration itself being softer than the viral headline, not only physical-layer pricing
+  discipline. Framework exam downgraded from "final" to "meaningful."
+- Pattern note (2nd instance this weekend after the helium "China 40%" garble): **viral framings are
+  inflating the underlying quotes; CENTCOM/primary verbatim beats every aggregator headline.** The
+  8-dark-vessels physical tell stands unchanged as the real watch item.
