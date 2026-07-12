@@ -372,10 +372,12 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
 ### DATA (WebSearch 7/12: BLS/CNBC/TradingEconomics/Morningstar monthly prints, compounded Jan–May 2026)
 - Monthly m/m prints 2026 — **CPI headline (SA): Jan +0.2, Feb +0.3, Mar +0.9 (largest since Jun-2022),
   Apr +0.6, May +0.5.** Core CPI: Jan +0.3, Feb +0.2, Mar +0.2, Apr +0.4, May +0.2. **PCE headline:
-  Jan +0.3, Feb +0.4, Mar +0.7, Apr +0.4, May +0.4.** Core PCE: Feb +0.4, Mar +0.3, Apr +0.2, May +0.3
-  (⚠️ Jan core PCE m/m est. +0.3 — exact print not retrieved; YoY was 3.1% in Jan).
+  Jan +0.3, Feb +0.4, Mar +0.7, Apr +0.4, May +0.4.** Core PCE: Jan +0.36 (supplied by Jake 7/12 —
+  resolves the prior ⚠️ est. +0.3; "slightly hotter than expected," YoY 3.1%), Feb +0.4, Mar +0.3,
+  Apr +0.2, May +0.3.
 - **Compounded YTD (5mo) → annualized: CPI headline +2.52% → 6.2% ann. Core CPI +1.31% → 3.2% ann.
-  PCE headline +2.22% → 5.4% ann. Core PCE +1.51% → ~3.7% ann.**
+  PCE headline +2.22% → 5.4% ann. Core PCE +1.57% → 3.8% ann.** (core PCE revised up from ~3.7% est.
+  when Jan's exact print landed)
 - YoY prints for reference: CPI 4.2% (May, highest since Apr-2023; energy +23.5% YoY, >60% of May's
   monthly increase), PCE 4.1%, core PCE 3.4% (highest since Oct-2023). Jan YoY was 2.4% — i.e., **the
   entire resurgence happened INSIDE 2026** (2.4→4.2 in four prints).
