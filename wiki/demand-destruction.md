@@ -342,3 +342,16 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   $90 marker: the options market and the marker framework independently drew the same line. The
   structure = short the middle, long both wings — everyone is hedged for the regimes and positioned
   against the chop.
+
+### 2026-07-12 ~2pm PT — ROUND 4 launched at 5pm ET: one hour BEFORE the crude open
+- DATA: CENTCOM began "more strikes" at 5:00pm ET, same stated purpose (degrade ability to attack
+  mariners/shipping). Timing: strikes ONGOING at the 6pm ET futures open — the first round launched
+  INTO an open rather than deep inside the closed window. (ZH's "over 30 minutes before markets open"
+  snark from Saturday, nearly literal.)
+- *(THESIS)* Two readings: (a) the operation is now routine enough that they no longer schedule around
+  pricing — anti-ship kill-chain maintenance as background process; (b) deliberately letting the market
+  price a LIVE round to normalize it. Either way tonight's open prints with ordnance in the air —
+  the marker gets graded under maximum realism.
+- Resolved: **Graham cause of death = aortic tear / arteriosclerotic cardiovascular disease per
+  medical examiner prelim (his office, WSJ)** — natural causes; the assassination-adjacent ambiguity
+  the vault flagged Saturday closes.
