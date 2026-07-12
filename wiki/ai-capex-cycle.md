@@ -740,3 +740,23 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   floors/prepays route first glut pain to CUSTOMERS, HBM contracted economics cushion the commodity end.
   Glut window unchanged: ~2029±1. The cycle's money is made at the TROUGH (MU $64 / 8x, Apr-25 — the
   runner-anatomy value setup), not 1,000% off the low with officers selling.
+
+### 2026-07-12 UPDATE to the MU-pump read — Trump OWNS Micron (verified, OGE 278-T filings)
+- **DATA (WebSearch: CNBC/NBC/Euronews, May 2026 disclosures):** Trump's OGE Form 278-T periodic
+  reports disclose **3,600+ transactions Jan–Mar 2026, cumulative $220M–$750M** (ranges are disclosure
+  bands). **Buys include MICRON ($500K–$1M band)** alongside NVDA/MSFT/AVGO/AMZN/AAPL ($1–5M each) and
+  AMD/INTC/GOOGL/Goldman/Airbnb/DoorDash/Bloom Energy ($500K–1M). Reported **>100% profit positions
+  include: SNDK, STX, MRVL, PENG, VSH, AMD, INTC, Iridium, Intuitive Machines, Bloom Energy.**
+  Dozens of muni/corporate bond transactions. Ethics coverage notes the departure from blind-trust norms.
+- *(THESIS revisions)* (1) **The July MU Truth posts are literal book-talking:** he bought the stock in
+  Q1, then pumped it 3x in an hour in July. The "retail recruitment" read upgrades to
+  "recruit-the-exit-liquidity-for-a-position-I-hold." (2) **His portfolio IS the runner cohort:** the
+  >100% list (SNDK +5,004%, STX +777%, MRVL, PENG +298%, VSH) is nearly a transcription of the
+  April-2025 ignition table from [[runner-anatomy]] — whoever runs the account bought the memory/semi
+  wreckage at/near the ignition window. (3) **The perfect contrast, now complete:** MU officers sold
+  $79M in 90 days with zero buys, while the President bought and promotes. The most informed sellers
+  vs the most powerful promoter, same ticker, same month. (4) Policy-conflict map: he personally holds
+  the sectors his tariffs, CHIPS money, export controls, and war/oil management move — Bloom Energy
+  (power bottleneck), memory (champion embrace), semis (tariff protection). ⚠️ Caveats: 278-T shows
+  Q1 TRADES in disclosure bands, not current holdings; account may be externally managed; whether
+  positions persist into July is undisclosed.
