@@ -787,3 +787,14 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   running the cash machines are treating peak FCF as PEAK, not plateau. Stage-2 triggers unchanged;
   this chart is the PRESSURE diagram, and it says the cliff, when it comes, is violent in both
   directions at once.
+
+### Companion chart (same day, Market Ear via ZH): capex/OCF ≈ 93-95% in 2026E
+- DATA: four major hyperscalers' capex/revenue ~37% 2026E (vs ~9-12% norm through 2020 — roughly 3-4x
+  their own historical intensity); capex/operating-cash-flow line goes ~30% (2014-16) → 55% (2022) →
+  dip 2023 → **~93-95% 2026E.** The ratio form of Exhibit 6: capex consuming ~ALL cash generation =
+  FCF ≈ zero/negative, same arithmetic.
+- *(the detail worth keeping: the 2023 DIP)* They have cut before — the 2022→2023 pullback (Meta's
+  "year of efficiency") — and the market REWARDED the discipline violently (META tripled). Precedent:
+  the cliff is survivable and even celebrated for the SPENDERS; the punishment lands on the sellers'
+  order books. Strengthens the buying-at-highs asymmetry and lowers the political/board barrier to
+  Stage 2 — cutting has a happy precedent in living memory.
