@@ -107,3 +107,17 @@ for direction alone. Three ways to lose (direction / magnitude / time) vs one to
 Justified option BUYING = a specific evidenced view that realized will exceed implied (the Dec-745
 puts: long correlation at a record discount). The house seat = selling premium (wrong fit for a
 fat-tail regime) or owning the toll booth (CME/CBOE — the rake's landlord, no tail).
+
+## Premium-selling doctrine (2026-07-12, Jake's Q: "how do I find the absurdly expensive ones to sell?")
+Finder: IV/RV ratio (IV30 vs 20d realized) > ~1.5 + high IV percentile = statistically rich. Recurring
+sources: pre-earnings inflation, post-panic hangover (fear-episode END = an IV-sell signal), paranoid
+put skew on crowd-hated names. Screen cell in chat 2026-07-12.
+The three rules: (1) high premium = CONCENTRATED risk, not low risk — seller's distribution is many
+small wins + one catastrophe; the screen can't separate overpriced fear from correctly-priced fear,
+only thesis work can. (2) REGIME CHECK: selling vol now = shorting the book's own thesis (tails
+underpriced, correlation at record discount); "single names rich while index calm" = the crowded
+dispersion trade that detonates on correlation snap. (3) If selling at all: cash-secured puts ONLY at
+ladder prices on intact businesses (paid to place the limit order; assignment = a buy the work already
+chose). Never naked calls. Covered calls need 100-share lots (unavailable at current sizing).
+Inverse use: IV/RV < 1.0 on wanted exposure = the BUYER'S edge — how the next Dec-745-style entry
+gets identified.
