@@ -134,3 +134,17 @@ Related: [[ai-capex-cycle]], [[market-fragility]], [[concentration]], [[consumpt
   of the 9%-of-IG-supply hyperscaler stack. A-3 CP = short-term funding already repriced. Note what S&P
   did NOT do: negative outlook — "stable" at the ledge = they believe the capex pays or can be cut in
   time. The fallen-angel trigger joins the watch list alongside IG spreads, OpenAI S-1, GW-under-construction.
+
+## 2026-07-12 — MS: private-credit "liquidity stress not translating into solvency risk" (headline)
+- *(THESIS — the narrative-stage marker)* The debate has moved: sell-side now CONCEDES the liquidity
+  stress (evergreen redemptions net-negative per PitchBook Q2; the alt-manager selloff; HLNE −59%)
+  and argues only about whether it becomes solvency. Soothing-note rule, third instance this week
+  (BofA "optimization not stress" vs their own Exhibit 6; consensus vs S&P on ORCL): **when a bank
+  publishes "X is not a problem," X is a big enough problem to need a note.** "Contained," 2026 edition.
+- *(the epistemic problem with the claim)* In a mark-to-model asset class, solvency deterioration is
+  UNOBSERVABLE by construction — managers mark their own books (HLNE's software loans "at par — for
+  now"), defaults are deferred via amendments/PIK, and the only thing that CAN show up early is
+  liquidity (redemptions, gates, slower distributions). "Liquidity stress without solvency risk" is
+  therefore unfalsifiable in real time — it describes every private-credit state right up until the
+  realization events. Not evidence of safety; evidence of opacity. Watch items unchanged: evergreen
+  monthly flows, PIK share rising, marks vs realized exits, BDC discounts to NAV.
