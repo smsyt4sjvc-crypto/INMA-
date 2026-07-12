@@ -76,3 +76,9 @@ ingest-ready prompt, then paste the compact digest back and "ingest" it. Keeps t
 - [[power-not-petroleum]] → [[demand-destruction]] — the energy rotation
 - [[fragility-engine]] — the code that scores all of it into one number
 - [[portfolio-state]] — the running truth of the book
+
+## Code delivery rule (standing, set 2026-07-12)
+Jake works from an iPhone — editing inside Colab cells is effectively impossible for him.
+**Always deliver COMPLETE cells/notebooks, never partial patches or "replace lines X-Y" edits.**
+Any fix = reprint the entire cell with the fix baked in. Larger tools → build the .ipynb and send
+the file.
