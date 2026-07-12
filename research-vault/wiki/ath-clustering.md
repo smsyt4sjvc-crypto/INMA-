@@ -82,3 +82,18 @@ kind this one is.
   drought stretches past 365d, the cluster retroactively DIED June 2, 2026 — and the NEXT drought-break
   entry (the 11/11 signal from Part 1) goes on watch. The two studies chain: cluster death → drought →
   drought-break = the highest-conviction entry in the entire vault's arsenal.
+
+### The four survivor regimes (Jake's Q, 2026-07-12) — anatomy of clusters that cleared age 3
+1. **1950-53** (3.0y, +60%): post-war productivity + ~7x starting P/E. Died: Fed tightening/'53 recession.
+2. **1989-94** (4.5y, 80 highs — the sparse GRINDER, +43%): survived S&L, Gulf War, a recession INSIDE
+   it; sponsor = falling rates off the Volcker plateau. Died: 1994 bond massacre.
+3. **1995-2000** (5.1y, 247 highs, +217%): REAL productivity wave + Greenspan put (cut through
+   Asia/LTCM mid-cluster). Died: hikes into the mania. (= most of the 5y+ 0%-win bucket.)
+4. **2016-22** (5.5y, 238 highs, +124%): ZIRP/QE/stimulus; absorbed Q4-2018 (−19.8%) and COVID inside
+   ~6-7mo each. Died: the 2022 hiking cycle, to the day (last high 1/3/22).
+**Common anatomy: every survivor had a SPONSOR (monetary backstop or GDP-visible productivity wave)
+and absorbed mid-life shocks to new highs within months. ALL FOUR died of Fed tightening — clusters
+don't die of age; they die of the Fed.** Current cluster (age 2.5, in the valley): both candidate
+sponsors contested by vault evidence — monetary blocked (9 hike dots, Fed names AI as the inflation),
+productivity absent from US GDP (IMF: gains sit in Taiwan/Korea supply chain). Live test = the 38-day
+drought: fresh high soon = shock absorbed (2018-style); stretch toward 365d = the death line.
