@@ -82,3 +82,10 @@ Jake works from an iPhone — editing inside Colab cells is effectively impossib
 **Always deliver COMPLETE cells/notebooks, never partial patches or "replace lines X-Y" edits.**
 Any fix = reprint the entire cell with the fix baked in. Larger tools → build the .ipynb and send
 the file.
+
+## Nightly prediction ritual (standing, set 2026-07-12)
+Every night: a new dated file in `predictions/` — point + 80% range + direction confidence for the
+core five (WTI, S&P, NASDAQ, SOXX, DRAM/MU) + shape call + named kill switch. Reasoning from logged
+vault evidence only. NEVER edited after registration. Next session: grade the prior set against the
+prints Jake pastes, update `predictions/_scoreboard.md` (direction hits, range coverage, notes).
+Misses logged as loudly as hits — this is the calibration engine.
