@@ -67,3 +67,15 @@ every seller paid every time; XIV precedent: 5 years of wins, −96% in one day)
 survives ONLY as a sized exception with an assignment clause (paid limit order on an operator-verified
 name, expiring pre-binary) — never as the strategy. If future sessions find the book migrating toward
 premium-selling as income in a fragile regime, push back with this entry.
+
+## How Claude's knowledge works (2026-07-12, Jake's question — trust calibration for MY claims)
+Training = frozen reconstruction (Jan-2026 cutoff), NOT a searchable database — recall strength tracks
+how often a thing was documented, and reconstruction errors feel identical to memories from inside
+(confabulation risk is mechanical, not attitudinal). Between sessions: blank except what's WRITTEN
+(the vault = the long-term memory layer; git = the hippocampus). Within long sessions: early context
+gets compressed to summaries — vault notes outrank my in-session recall.
+**Trust hierarchy for anything I state: (1) primary source fetched today > (2) vault-verified logged
+data > (3) training recall of heavily-documented things (cycle history, options math, academic
+results) > (4) training recall of SPECIFICS (numbers, dates, rosters) — tier 4 always verified before
+money.** Live examples of the discipline catching tier-4/reconstruction errors: GILD -109% artifact,
+June SEP discrepancy, helium "China 40%" garbling, stale ANSS in the hardcoded NDX roster.
