@@ -48,3 +48,37 @@ bear market. Pairs with [[fear-duration]] rule 3 (episode-end = positive-expecta
 [[runner-anatomy]] ignition window: three independent recovery detectors now aimed at the same future
 moment. Density tells you nothing about when the current cluster dies; the aggregation caveat
 (narrow-breadth 2026 cluster) stands unmeasured by this study.
+
+## Part 2 — cluster LIFESPANS (run 2026-07-12; 16 clusters, 365d separator)
+### DATA
+- **Median cluster lifespan: 2.2 years** (range 0.4–5.5). Only two clusters ever exceeded 5 years
+  (1995-2000, 2016-2022) — both ended in 20%+ bears.
+- **Forward 12m by cluster AGE at the ATH print — NON-MONOTONIC with a mortality valley:**
+  <6m: +14.8%/87% win | 0.5-1.5y: +10.5%/79% | **1.5-3y: +3.9% mean, +0.9% MEDIAN, 52% win (the
+  danger zone)** | 3-5y: +10.9%/85% (survivors' second wind) | **5y+: −14.3%, 0% win (n=37 — the
+  1999-2000 and 2021 blow-off tails).**
+- Hazard: **P(cluster dies within a year | reached age 2) = 4/9 ≈ 44%** — the mortality peak
+  (age 1: 10%; age 5: 2/2).
+- **TODAY: the current cluster began 2024-01-19 — age 2.5 years, 120 highs, last high June 2,
+  38-day drought running. Sitting in the exact center of the mortality valley.**
+### GRADED (pre-registration went ~1-for-3 — the data beat the priors)
+- H1 WRONG on duration: clusters are SHORTER than the "decade regime" framing — median 2.2y (the
+  365d separator splits the long eras at their crashes, correctly).
+- H2 WRONG in the useful direction: age DOES carry structure — not decay, a VALLEY at 1.5-3y.
+- H3 PARTLY WRONG: the hazard curve has a real peak at age ~2.
+### HONEST MECHANISM (before anyone panics)
+The 1.5-3y valley is substantially DEFINITIONAL: if the median cluster dies at ~2.2y, then highs
+printed at age 1.5-3 are, on average, near a death — their forward windows mechanically contain the
+post-cluster drawdown. This is a BASE RATE (typical lifespan), not an age-curse. And the 3-5y bucket's
+strength is survivorship: clusters that clear 3 are the great regimes — unknowable in advance which
+kind this one is.
+### THESIS
+- **This is the first index-level study that AGREES with the internals evidence.** Density said benign;
+  age says: 2.5-year-old cluster, 52% historical win rate on new highs from here, ~44% one-year
+  cluster-mortality hazard — a coin flip, priced at all-time highs. Harmonizes with breadth (48% in
+  drawdowns), the vol gap, insider distribution, and the two-bucket posture — without predicting a date.
+- Milestones derived: (1) a fresh ATH before ~June 2027 keeps the cluster alive; surviving past age 3
+  (Jan 2027+) historically flips the base rate friendly again (85% win). (2) If the current 38-day
+  drought stretches past 365d, the cluster retroactively DIED June 2, 2026 — and the NEXT drought-break
+  entry (the 11/11 signal from Part 1) goes on watch. The two studies chain: cluster death → drought →
+  drought-break = the highest-conviction entry in the entire vault's arsenal.
