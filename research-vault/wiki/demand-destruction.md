@@ -263,3 +263,11 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   (logistics premium + mechanical refill bid) while the upside tail stays squeeze-shaped (specs short,
   40% flows, empty buffer = NO cushion for the next shock — the piece's core point: the safety net is
   the crisis now).
+
+### 2026-07-12 — war chronology backfilled (incidental findings from EXE research, sourced)
+- **Ras Laffan attack date: 3/18/2026 — TWO liquefaction trains damaged ≈17% of Qatar export capacity;
+  repairs up to FIVE YEARS per QatarEnergy.** (The helium-cut origin, now dated and quantified.)
+- **US-Iran MoU was SIGNED 6/18/2026 and reopened the strait** — the "agreed-upon understandings" in
+  the current fight; it held ~3 weeks before the ceasefire-over/ship-attack sequence. TTF hit ~$18 vs
+  HH ~$3 during the Qatar outage (US gas market insulated by export-capacity constraint; EIA lowered
+  HH forecasts DESPITE the war — supply glut > war premium in US gas).
