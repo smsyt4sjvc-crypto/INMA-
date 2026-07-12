@@ -96,3 +96,24 @@ Re-run both cells any time (~20 min); paste top-30 + EDGAR lines back → I upda
 
 ## Sources
 - Jake's Colab run 2026-07-05 (EDGAR verification output pasted in chat); `tools/sp500_health_screen.py`.
+
+## GEHC — the 8-buyer cluster, detail (2026-07-12, WebSearch corroboration of the NDX scan hit)
+### DATA (StockTitan Form-4 coverage + QuiverQuant, May-2026 buys, verified names)
+- **CEO Peter Arduini: 4,169 sh @ $59.93 (~$250K)** → 259,424 directly held. **CFO bought May 1.**
+  **GC Frank Jimenez: 1,750 sh (~$105K).** Directors: **Kevin Lobo (Stryker's sitting CEO): 10,000 sh
+  (~$600K+)**; **William Stromberg (ex-T. Rowe Price CEO): 1,000 @ $61.69**; **Rodney Hochman
+  (ex-Providence CEO): 1,618 @ $62.03 via family trust**; plus **one unidentified director: 80,805
+  shares (~$4.8M — the bulk of the $6.42M)**. Prices paid ~$59.93–62.03.
+- QuiverQuant (dated recently): "GEHC rises as investors weigh fresh FDA clearance, insider buying,
+  and a steadier growth backdrop."
+### THESIS (interpretation — NOT fact)
+- **This passes every quality test the vault has:** varied sizes ($62K → $4.8M — the anti-EPAM
+  signature), varied dates across May, top-of-house titles (CEO + CFO + GC = operations, numbers, and
+  legal all buying), and two PROFESSIONAL allocators among the directors (a sitting med-tech CEO and
+  a former T. Rowe Price CEO buying personally). Not a program, not theater.
+- The basket's flagged worry (−3.8% estimate cuts, China/imaging) now has: 8 insiders' money against
+  it + an FDA-clearance catalyst + basing-to-rising tape. The "know why before funding" gate from the
+  diligence-honesty section is now half-answered by the people who know why.
+- OPEN: identity of the 80,805-share whale; whether buying continued into Jun/Jul; exact cluster
+  total/dates → Colab detail parse. Name-level work (China exposure sizing, imaging cycle) still
+  required before sizing past basket weight.
