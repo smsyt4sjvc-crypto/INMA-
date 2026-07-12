@@ -367,3 +367,27 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
 - **LIVE TEST: Warsh's first congressional testimony Tuesday 7/14, same day as CPI.** Watch for "look
   through," "supply side," "productivity," any AI-disinflation framing under oath — then watch the
   10yr/30yr and gold in the following hour, not the equity tape.
+
+## 2026-07-12 — the 2026 YTD run-rate (Jake's Q: "on the year, not the sum of the parts")
+### DATA (WebSearch 7/12: BLS/CNBC/TradingEconomics/Morningstar monthly prints, compounded Jan–May 2026)
+- Monthly m/m prints 2026 — **CPI headline (SA): Jan +0.2, Feb +0.3, Mar +0.9 (largest since Jun-2022),
+  Apr +0.6, May +0.5.** Core CPI: Jan +0.3, Feb +0.2, Mar +0.2, Apr +0.4, May +0.2. **PCE headline:
+  Jan +0.3, Feb +0.4, Mar +0.7, Apr +0.4, May +0.4.** Core PCE: Feb +0.4, Mar +0.3, Apr +0.2, May +0.3
+  (⚠️ Jan core PCE m/m est. +0.3 — exact print not retrieved; YoY was 3.1% in Jan).
+- **Compounded YTD (5mo) → annualized: CPI headline +2.52% → 6.2% ann. Core CPI +1.31% → 3.2% ann.
+  PCE headline +2.22% → 5.4% ann. Core PCE +1.51% → ~3.7% ann.**
+- YoY prints for reference: CPI 4.2% (May, highest since Apr-2023; energy +23.5% YoY, >60% of May's
+  monthly increase), PCE 4.1%, core PCE 3.4% (highest since Oct-2023). Jan YoY was 2.4% — i.e., **the
+  entire resurgence happened INSIDE 2026** (2.4→4.2 in four prints).
+- Arithmetic vs the SEP: headline PCE landing the June-SEP 3.6% Dec/Dec median now requires the
+  remaining 7 months to run **~2.3% annualized** — a full disinflation to target starting immediately.
+### THESIS (interpretation — NOT fact)
+- *(what the YoY hides)* The 4.2%/4.1% YoY prints UNDERSTATE the current tape — they average in soft
+  late-2025 months. 2026's own run-rate is a 5-6 handle on headline. The valve-jam is quantitative now:
+  Warsh would have to sell AI-deflation easing over a 6%-annualized headline tape.
+- *(composition = the war + the buildout)* Headline−core gap (6.2 vs 3.2 CPI) ≈ energy war premium —
+  reversible if [[demand-destruction]]'s suppression stack holds. Core 3.2-3.7% ann. = the sticky part,
+  and June (Tuesday) carries the first memory-electronics pass-through test (GS +0.5pp core-PCE claim).
+- *(the dots vs the tape)* March's SEP median implied a CUT with Jan running 2.4% YoY; June's implied a
+  hike at 3.5% YoY. If June/July prints hold the 2026 run-rate, the September SEP pressure is toward
+  MORE hike dots — the trap tightening on schedule, unless the war premium unwinds first.
