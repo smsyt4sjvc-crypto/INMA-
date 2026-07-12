@@ -56,3 +56,14 @@ moves nothing. Volatility from that seat = inventory to shop, not risk to trade.
   lose slowly (SPAXX ~4.5% vs CPI 4.2% ≈ flat real). Cash = an option on clarity, not a residence — the
   falsifiability question applies to holding it too: "what would make me stop holding cash, and did that
   just happen?"
+
+## 2026-07-12 — the premium-seller's seduction (flagged live, mid-conversation)
+Jake reached "selling premium > longs because everything is teetering" within 24h of building the
+confluence strategy. Logged as a standing bias-watch: **instability is an argument for OWNING
+convexity, not selling it** — a sold put is a long with the upside amputated; in the crack branch the
+put seller has pre-sold the right to buy the panic (the runner-anatomy seat). "People are making money
+doing this" = the fear-study's trained-complacency mechanism speaking (7 short episodes since Aug-24,
+every seller paid every time; XIV precedent: 5 years of wins, −96% in one day). The confluence CSP
+survives ONLY as a sized exception with an assignment clause (paid limit order on an operator-verified
+name, expiring pre-binary) — never as the strategy. If future sessions find the book migrating toward
+premium-selling as income in a fragile regime, push back with this entry.
