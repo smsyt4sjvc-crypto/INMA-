@@ -329,3 +329,41 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   the debt spiral, or cut into the inflation. Debasement bid ([[gold-flows]], COT gold longs building)
   = the market pricing the second exit. Silver datapoint filed: 4x then −50% — the violence of the
   debasement trade's corrections; ratio vs S&P still far under 2011.
+
+## 2026-07-12 — Jake's "inflate it away" scenario: the policy valve as the answer to the well-duh riddle
+### THESIS (user's thesis, logged in substance)
+- *(the scenario)* The simplest resolution to the negative-FCF/circular-financing setup isn't a crash —
+  it's accommodation. Warsh states: **"AI is deflationary; easing increases supply-side production and
+  lowers prices even if there's a short-term inflation cost"** → the capex, the circular money, the whole
+  AI bet gets a longer runway. Jake: this wouldn't raise an eyebrow. And it's not a stretch — it's the
+  chair's EXISTING doctrine (the Warsh split, above), and **he abstained from his own committee's dots**,
+  keeping exactly this optionality.
+- *(analysis — why it's the modal historical outcome)* Every "well duh" setup that DIDN'T complete was
+  rescued by this valve: 1998 LTCM cuts into a boom (→ 1999 melt-up → bigger 2000 bust), 2008 QE/ZIRP,
+  2019 repo, 2020 everything. The valve is WHY doom signals have a low unconditional hit rate.
+- *(analysis — the valve-status refinement; upgrades the planned false-positive study)* Crash signals
+  aren't predictive ALONE because the outcome depends on a policy variable: **is the valve available?**
+  Valve OPEN (inflation at/below target) → signals fire, Fed rescues, "false positive." Valve JAMMED →
+  the crash completes: 1929-32 (gold standard), 1973-74 (CPI), 2022 (Fed HIKING into the derate — the one
+  recent decline that ran unimpeded). Study design: condition every signal-firing on valve status.
+  Predicted result: near-zero completion valve-open; high completion valve-jammed.
+- *(analysis — why the valve is jammed-ish NOW, the counterweight)* The last use (2020) CREATED the jam:
+  5 years above target (Hammack), 9 hike dots, $1.2T interest bill. And uniquely, the thing being rescued
+  is itself COST-PUSH inflationary in household essentials (electricity, DRAM passthrough, the bipartisan
+  bill-grievance ratchet) — easing into the AI buildout bids up the exact bottlenecks a Fed voter already
+  cites as her hike case. Easing can't print electrons or transformers; it prints DEMAND for them. Warsh's
+  doctrine vs Hammack's channel = whether the valve physically works when the bubble's inputs ARE the inflation.
+- *(the check that didn't exist in 2008 — the long end)* 2008 easing → duration rallied (deflationary
+  bust). Easing into 3%+ inflation + ~$3T deficits → term-premium/vigilante veto: the bond market can put
+  the tightening in the 10-30yr regardless of the funds rate. **The tradeable tell is not the doctrine but
+  the long end's (and gold's) REACTION to it:** Warsh talks AI-deflation and the 30yr rallies = market
+  grants the runway (melt-up branch); long end sells off / gold rips = the valve leaks straight into
+  debasement pricing.
+- *(book sort — this scenario IS [[detachment-bid]]/debasement, the standing bull)* Inflate-away ≠
+  "no crash"; it means the crash arrives in REAL terms, slowly, denominated in purchasing power. Both
+  branches sort the book the same way: hard assets / bottleneck tolls / gold long, long-duration nominal
+  claims avoided, equity puts kept SMALL (the valve is exactly what makes shorting the nominal price
+  dangerous). 1998→2000 precedent: the rescue extends the runway AND raises the terminal altitude.
+- **LIVE TEST: Warsh's first congressional testimony Tuesday 7/14, same day as CPI.** Watch for "look
+  through," "supply side," "productivity," any AI-disinflation framing under oath — then watch the
+  10yr/30yr and gold in the following hour, not the equity tape.
