@@ -818,3 +818,19 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   −23pts on the $1T print) — litigation overhang on the device + IPO narrows the valve further. The
   most dangerous adversary of the AI complex remains the one mega-cap whose stock does NOT depend on
   the AI narrative being true.
+
+### 2026-07-12 — week-ahead sensors + SKH raise size (Reuters week-ahead)
+- **SK Hynix's Nasdaq listing raised $26B** — record-class equity supply sold into peak memory
+  enthusiasm (top-texture: corporate monetization at maximum scale, filed next to the eternal-shortage
+  IPO-day quote).
+- **TSMC Q2 Thursday ~7/16 = the Stage-2 sensor of the week:** watch (1) 2026 revenue-growth and
+  CAPEX guide revisions (UP = trigger further away; flat/down = first crack), (2) the price-hike hint
+  ("would like to raise prices" — foundry pricing power = another cost-push leg), (3) AI-demand
+  language vs the token-price-war revenue side.
+- S&P 500 Q2 consensus: **+23.4% YoY earnings growth (LSEG)** — a very high bar into a drift-without-
+  buyers tape; the E in [[buying-at-highs]] gets marked to reality starting Tuesday (5 big banks) with
+  bumper trading revenue expected.
+- CPI Tuesday / PPI Wednesday: first official prints carrying the Apr-Jun memory-driven electronics
+  hikes — the GS +0.5pp core-PCE claim's first test in government data. **Warsh's FIRST congressional
+  testimony Tuesday** — the chair's AI-disinflation doctrine vs his committee's 9 hike dots, under oath.
+- China: exports +18% expected (chip-led), Q2 GDP Wednesday ~4.5% (first war-quarter).

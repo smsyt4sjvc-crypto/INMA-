@@ -332,3 +332,13 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   Korea/SEA), not the deploying economies, which so far collect the inflation and the capex bill.
   "Gains from the AI boom remain fragile" = the IMF hedging Stage 2 in institutional prose. China
   upgraded on the exact capex race the Apollo/cloud-capex prints described.
+
+### 2026-07-12 — Brent OPTIONS positioning: the market has drawn both regimes (Reuters/LSEG)
+- DATA: biggest jump in Brent call OI = strikes **$86–91 by end-July**; simultaneously maintained
+  largest put holdings at **$69–70**. Crude "briefly topped $80"; Hormuz flows "picking up."
+- *(THESIS)* Completes the positioning picture: futures specs NET SHORT (COT) + calls loaded $86-91 +
+  puts held $69-70 = **the market is pricing a BIMODAL outcome, not a drift** — a demand-crack floor
+  at ~$70 and a war-repricing leg into the high-80s. The call accumulation stops just under the vault's
+  $90 marker: the options market and the marker framework independently drew the same line. The
+  structure = short the middle, long both wings — everyone is hedged for the regimes and positioned
+  against the chop.
