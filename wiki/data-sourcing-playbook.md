@@ -149,3 +149,13 @@ action headline vs CEO+3 directors $1.05M, shorts −32%, price based at insider
 - **Check-item, not artifact: WEN — 44.2% short interest, 110% realized vol, IV/RV 0.68.** Something is
   in play at Wendy's (squeeze/activist/event?) and options are priced CHEAP vs realized — the opposite
   setup (buyer's market on a name in motion). Investigate before touching from either side.
+
+### Short-dated selling addendum (2026-07-12, Jake's Q: 1-2 week puts?)
+Premium scales ~sqrt(time): 1wk collects ~40% of a 6wk premium for 100% of that week's gap risk —
+the short end harvests GAMMA, the dealer's home game (continuous hedging vs checking a phone).
+Documented edge lives at 30-45 DTE closed ~50% of max profit. Practical killers: confluence-cohort
+names have monthlies only + thin chains; weekly round-trip spreads eat half the edge; THIS regime
+schedules binaries into weekends (BNO lesson, sign-flipped — short side now owns the gap).
+ONE aligned use: duration as EVENT DODGE — expire BEFORE the known binary (GPK: July monthly ~7/17
+expires ahead of early-Aug earnings = hangover IV harvested, coin never held). Rule: never sell short
+because annualized yield looks big — that number is the gamma you haven't met yet.
