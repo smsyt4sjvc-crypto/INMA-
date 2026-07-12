@@ -355,3 +355,14 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
 - Resolved: **Graham cause of death = aortic tear / arteriosclerotic cardiovascular disease per
   medical examiner prelim (his office, WSJ)** — natural causes; the assassination-adjacent ambiguity
   the vault flagged Saturday closes.
+
+### 2026-07-12 6pm ET — THE OPEN: Brent +3% with ordnance in the air and a live ship attack
+- DATA: **Brent +3% at the Sunday open** during active US-Iran exchange; **CNN: IRGC fired at
+  commercial shipping in Hormuz WITHIN THE PAST HOUR** — i.e., an attack on shipping DURING live
+  trading. Trump: "we bombed the hell out of them"; "sustained attack waves."
+- *(THESIS — the marker under maximum realism)* The market watched a live strike round AND a live
+  IRGC attack on commercial shipping and priced crude +3%, low $80s — inside the "middle" the options
+  market pre-drew ($79-84), the $86-91 call wall untouched. The physical-layer discipline held under
+  the hardest conditions yet: not weekend digestion, LIVE ordnance. Second IRGC ship attack (post-GFS
+  Galaxy) = the "monitoring" regime enforced by shooting — and the convoy premium still prices at ~3
+  points. Kharg/hull-stopped remains the only uncapping.
