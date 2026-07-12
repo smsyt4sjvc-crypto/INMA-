@@ -121,3 +121,16 @@ ladder prices on intact businesses (paid to place the limit order; assignment = 
 chose). Never naked calls. Covered calls need 100-share lots (unavailable at current sizing).
 Inverse use: IV/RV < 1.0 on wanted exposure = the BUYER'S edge — how the next Dec-745-style entry
 gets identified.
+
+## Sell-the-fear confluence (2026-07-12 — Jake's synthesis: rich IV puts x insider cluster buying)
+Resolves the premium-selling doctrine's rule-1 gap: insider discretionary buying = the non-technical
+discriminator between overpriced fear and correctly-priced fear. Structure: CASH-SECURED PUTS on names
+where IV/RV >= ~1.3 AND >=2 distinct discretionary buyers (>$100K) — selling insurance to the crowd at
+prices the operators just paid with personal money. Screen cell in chat 2026-07-12.
+Rules: (1) strike <= insiders' own price; (2) only on intact-business-verified names (confluence
+supplements the E-path work, never replaces it); (3) size for assignment-and-hold — insiders lead by
+MONTHS, puts expire (CEO right at $10.95, stock prints $7 first = the risk); (4) earnings inside the
+window = a different bet, decide explicitly; (5) thin chains: limit orders, verify quotes off-yfinance;
+(6) exit falsifier = insiders flip to selling. Expect the table EMPTY most weeks — the overlap is rare
+because it IS the mispricing. Live specimen at inception: GPK (post-kitchen-sink IV hangover + class-
+action headline vs CEO+3 directors $1.05M, shorts −32%, price based at insider level).
