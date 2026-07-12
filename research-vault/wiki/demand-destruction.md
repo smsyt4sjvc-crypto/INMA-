@@ -128,3 +128,16 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
 - Marker discipline unchanged: words, vows, and deadlines don't move crude past $90 — Kharg/Jask/
   physical closure does. But the OFFRAMP probability just fell, and the tail is squeeze-shaped
   (specs net short).
+
+### 2026-07-12 — post-deadline behavior: the discriminator's first print LEANS A
+- DATA (`raw/2026-07-12-day128-helium.md`): Trump claims "Iran has asked us to continue talks. We have
+  agreed" (while keeping "ceasefire is OVER"); Iran denies asking ("we accepted a Qatari mediator
+  visit. That is all"); Ghalibaf invokes the MoU; Araghchi to MUSCAT (the classic backchannel);
+  Treasury sanctions Mojtaba's personal banker (pressure-not-strikes; also = his financial network is
+  mapped).
+- *(THESIS)* Given a rejection he could have framed as casus belli, Trump instead INVENTED an Iranian
+  request for talks and accepted it — grabbing the fig leaf and manufacturing face on top of it. First
+  post-deadline behavior = **hypothesis A tell (oil suppression / de-escalation preference)**, not
+  goalpost-moving. Held loosely: rhetoric stays maximal, bombing continues, and the assassination
+  coupling from 7/11 is unchanged. Oman track = the real offramp channel opening in parallel with
+  theater. Consistent: crude $79, specs short, ±0.43% weekend pricing likely validated at Sunday open.
