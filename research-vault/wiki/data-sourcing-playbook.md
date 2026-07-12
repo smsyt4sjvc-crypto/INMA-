@@ -183,3 +183,16 @@ protection (MTDR bought 46x through the COVID crash) — cluster buys reduce the
 risk; short puts remain fully exposed to sudden drops. (2) "Drawdown + insiders" marks the bottom
 ZONE, not the tick — insiders are early by months, the put adds a deadline; assignment-welcome sizing
 is the load-bearing bridge. Expect the survivor table empty most weeks; the rejection rate is the edge.
+
+## 2026-07-12 — SEC: activists must disclose CLIENT identities in 13D/proxy filings (Reuters 7/10)
+- New interpretations (Q 110.09, 155.02): SPV/"sidecar" investors in single-target activism vehicles
+  must be named; LPs investing >$500 in a proxy-solicitation LP = "participants." Unexpected, quietly
+  issued after a busy activist H1 (Elliott/Ancora/TOMS at WBD, DVN).
+- **Toolkit upgrade (future):** 13Ds will start exposing WHO FUNDS campaigns — a new free layer for
+  follow-the-money scans (sidecar LP names = which family offices/SWFs back which attacks). Add to
+  the watch when first disclosures print.
+- **Market-structure read:** disclosure kills the sidecar anonymity premium → chills campaign
+  financing at the margin → marginally FEWER activist catalysts for the wreckage cohort (relevant to
+  the [[cluster-shortlist-workup]] names where activism is the fix-it path: FISV/Jana, post-Starboard
+  ADSK). A quiet management-friendly tilt in regulation, consistent with the champion-protection
+  pattern — held loosely.
