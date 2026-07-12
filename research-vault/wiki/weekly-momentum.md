@@ -21,5 +21,35 @@ Related: [[runner-anatomy]], [[retail-edge]] (mechanisms-vs-parameters), [[_cali
   weekend gaps between signal and entry; costs/slippage not modeled (5 names/week = high turnover —
   even positive alpha must clear ~0.1-0.2%/wk friction to be tradeable).
 
-## RESULTS
-*(pending — Jake pastes the four output blocks; graded visibly.)*
+## RESULTS (run 2026-07-12, Jake's Colab — 549 weeks, 99 names, 2,725 top-5 events)
+### DATA
+- Week+1 alpha: **mean +0.05%, median −0.22%, win 48%.** Week+2: +0.13/−0.13/48%. Week+3: +0.16/+0.01/50%.
+  Week+4: +0.40/+0.07/51%. (Per-week alphas; 4-week sum ≈ +0.74% BEFORE costs.)
+- Threshold buckets (week+1): +2-5%: +0.14/−0.22/46% | +5-10%: −0.33/−0.32/46% | **+10-20%:
+  +0.33/+0.13/51% (best bucket)** | **>+20%: mean +0.34 but MEDIAN −0.79, win 45%** (lottery skew:
+  most fade, a few huge continuations drag the mean).
+- Bottom-5 week+1: +0.20/−0.10/49% — no bounce.
+- Regime: 2016-19 −0.00% | 2020-22 +0.03% | 2023-now +0.14%; win 47-49% in ALL eras.
+
+### HYPOTHESES GRADED
+- **H1 — CONFIRMED (as ZERO, not reversal):** no carry, no meaningful fade. Mean ~0, median slightly
+  negative, coin-flip win rates. **The NDX is efficient at the weekly horizon — there is nothing here,
+  in either direction.**
+- **H2 — PARTLY, and non-monotonic:** suppression exists but only ABOVE ~+20% (median −0.79%, 45% win —
+  the overreaction tail Jake predicted); the +10-20% bucket actually carried best (+0.13 median, 51% —
+  likely earnings-gap/PEAD names). Moderate-big pops drift faintly; extreme pops fade; all magnitudes
+  sub-cost.
+- **H3 — WEAKLY CONFIRMED in direction, useless in size:** alpha grows with hold distance (wk4 best)
+  but the 4-week sum (+0.74%) dies after ~0.1-0.2%/wk turnover friction.
+- **H4 — REJECTED:** losers don't bounce. Reversal is as dead as momentum here.
+- **Regime block:** no era had an edge — this wasn't arbitraged away recently; it's been flat since
+  at least 2016 in mega-caps. Parameters AND mechanism absent at this cap size/horizon.
+
+### THE VERDICT (what the study is FOR)
+**Chasing weekly NDX leaders has zero expectancy before costs and negative after — in every era, at
+every threshold.** The skew detail is the trap's anatomy: means > medians everywhere = rare big
+continuations subsidize many small fades; the chaser eats the median, not the mean. This KILLS a whole
+temptation class ($0 tuition, like the dip-buy study). Where edges actually measured out in our own
+work, for contrast: small caps, panic windows, insider clusters, months-scale holds — never
+mega-cap-weekly. Documented momentum lives at 3-12 MONTH formation; if the itch persists, that's the
+horizon to test next.
