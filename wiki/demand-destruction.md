@@ -389,3 +389,16 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   Iran's five-state retaliation reads calibrated-symbolic (bases, mostly intercepted) vs escalatory
   (casualties); GCC political responses (Qatar child injury = accelerant); crude's hold of the $79-84
   middle vs the $86-91 call wall.
+
+### 2026-07-12 eve (2) — the UAE money channel: ZH's "zero attacks" anchor surfaces
+- DATA: ZH's "zero attacks on UAE" post is anchored on a **Reuters exclusive dated 6/12/26: "UAE to
+  unlock billions of dollars for Iran"** (frozen-funds release, sources). ⚠️ The "zero attacks" claim
+  itself is stale as of tonight — Al Jazeera lists UAE among the five states reporting missile/drone
+  attacks Sunday (whether aimed at US facilities IN the UAE vs UAE-owned assets is unresolved).
+- *(THESIS — targeting selectivity as a map of the off-ramps)* If Iran's retaliation is calibrated —
+  US military assets hit hard (ATACMS/Kuwait), financial-lifeline states spared or symbolically
+  grazed — then the strike map IS the negotiation map: the UAE funds channel (2023 South Korea→Qatar
+  $6B rhyme) is the surviving off-ramp infrastructure. Watch whether the UAE unlock proceeds or
+  freezes post-attack — proceeding = both sides preserving the exit; freezing = the last money door
+  closing. Also the standing caveat: ZH assembling a month-old exclusive under a same-day claim is
+  the headline-inflation pattern — the DATA is the June Reuters story, not tonight's framing.
