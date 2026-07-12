@@ -393,3 +393,49 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
 - *(the dots vs the tape)* March's SEP median implied a CUT with Jan running 2.4% YoY; June's implied a
   hike at 3.5% YoY. If June/July prints hold the 2026 run-rate, the September SEP pressure is toward
   MORE hike dots — the trap tightening on schedule, unless the war premium unwinds first.
+
+## 2026-07-12 — the THIRD exit: redefine the yardstick (Jake's thesis — VERIFIED as announced program)
+### DATA (WebSearch 7/12: PIMCO/RBC/Chase/CNBC recaps of June 17 FOMC, Warsh's first meeting)
+- Warsh announced a **task force to "examine the drivers of inflation, first principles, and weigh the
+  full range of ideas for delivering price stability in a changing economy"** (noting inflation "uneven,"
+  housing disinflationary) AND a **second task force to review "the data sources and analytical methods
+  the Fed uses to assess the economy."**
+- Warsh abstained from the dots; quote: his dot **"is not helpful in the conduct of policy"**; expects
+  **"by year-end... a review about communication broadly, press conferences, dots, meetings, and the
+  like."** PIMCO's headline label: "Hawkish-Leaning Committee, Reform-Minded Chair."
+- Prior related datapoint (Aug 2025): BLS commissioner fired over jobs revisions — statistical-agency
+  politicization already live on the executive side.
+### THESIS (user's thesis + analysis)
+- *(user's thesis, stated before verification)* Warsh's incentive fork: two years of constant Trump
+  pressure (hiking into the debt spiral), or "revolutionize" inflation measurement — defining technology
+  + outdated tools + bet that AI is the productivity exponential — and never have to choose between his
+  president and his committee. Jake called the program from behavior alone; the June FOMC transcript
+  confirms both legs (new metrics task forces + projection-apparatus review).
+- *(analysis — the base rate favors it: every US inflation crisis produced a new, LOWER-reading yardstick)*
+  Burns 1970s: invented "core" by excluding food/energy exactly when food/energy WERE the inflation.
+  1983: house prices → owners'-equivalent rent (asset inflation removed from CPI permanently). 1996
+  Boskin Commission: substitution/hedonics, ~1.1pp shaved, explicitly under fiscal (COLA) pressure.
+  2000: Fed switches preferred gauge CPI→PCE (reads ~0.3-0.4pp lower). 2022: Powell's "core services
+  ex-housing" supercore, invented mid-fight. Redefine-not-defeat is the documented playbook, not paranoia.
+- *(analysis — why it's respectable, which is what makes it work)* The tools genuinely ARE outdated:
+  CPI can't see AI consumer surplus, free digital services, quality-adjusted deflation. A "modernized"
+  index is a defensible methodological argument deployed at a convenient time — not fraud, selective
+  truth. The audition is **Greenspan 1996**: override the staff models on a productivity-mismeasurement
+  hunch (he was RIGHT; longest expansion followed). Difference in stakes: Greenspan bet with ~2.5-3%
+  headline + budget heading to surplus; Warsh would bet with a **6.2% annualized YTD headline run-rate
+  + ~$3T deficits + the grievance anchored in essentials** (electric bills, groceries, memory
+  passthrough) that no index revision lowers.
+- *(analysis — the tell that it's political, not just methodological)* The year-end review targets the
+  FORWARD apparatus — dots, pressers, SEP — i.e., the instrument that publishes his committee's
+  disagreement (9 hike dots). Killing the dot plot doesn't change measurement; it removes the visible
+  evidence that half the committee opposes the chair's doctrine.
+- *(analysis — what cannot be redefined = where the trade lives)* TIPS breakevens, the long end, gold,
+  and the household's lived prices. The bipartisan ratchet runs on the electric bill, not the index —
+  a yardstick change that reads as "they changed the numbers" AMPLIFIES the grievance. And if both the
+  measurer (BLS, post-firing) and the interpreter (Fed, under review) are restructured within 18 months,
+  **official-inflation credibility itself becomes the traded variable** — which IS the debasement bid.
+  The third exit doesn't escape the trap; it re-denominates it. Same book sort as the valve scenario:
+  the referee that doesn't accept re-denomination is gold.
+- **Watch:** Tuesday 7/14 testimony — task-force framing, "changing economy"/"measurement" language,
+  dots skepticism under oath; any NAMED new gauge (the supercore pattern) = the scenario going live;
+  year-end communication-review deliverable; breakevens/gold reaction to each.
