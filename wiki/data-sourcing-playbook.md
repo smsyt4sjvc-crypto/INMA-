@@ -159,3 +159,16 @@ schedules binaries into weekends (BNO lesson, sign-flipped — short side now ow
 ONE aligned use: duration as EVENT DODGE — expire BEFORE the known binary (GPK: July monthly ~7/17
 expires ahead of early-Aug earnings = hangover IV harvested, coin never held). Rule: never sell short
 because annualized yield looks big — that number is the gamma you haven't met yet.
+
+### GPK chain verdict (2026-07-12, spot $10.28)
+- July 17: DEAD (no live bids) → **the event-dodge version does not exist on GPK; only the
+  deliberate-binary version exists** (every live expiry spans early-Aug earnings).
+- Aug 21 $10P: bid 0.30/ask 0.90 — 100% spread, OI 50 → UNTRADEABLE.
+- Sep 18 $10P: bid 0.70/ask 1.10, OI 819, spread 44% of mid → fails the harvest gate, marginally
+  executable ONLY in assignment-welcome framing: sell ~$0.70-0.80 limit → breakeven ~$9.30-9.35
+  (10% under the CEO's $10.95, 9.5% under spot), ~7% / 67 days, hold-to-expiry-or-assignment
+  (the spread makes early exit punitive — roach-motel for harvesters, irrelevant for true CSPs).
+- Lesson generalized: small-cap confluence premium is rich partly BECAUSE the spread is where MMs
+  bank it — screen shows IV 59 at mid; selling at the bid nets ~IV low-50s vs RV 43. The mispricing
+  persists because it is only partially accessible. Executable form = patient limit + assignment
+  welcome + earnings binary accepted consciously; there is no harvest version of this trade.
