@@ -196,3 +196,25 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   stays at the table.
 - Both sides now using the closed-market window — the exchange completed and "banked" before Sunday
   pricing. The weekend-gap doctrine strengthens again.
+
+### 2026-07-12 EVENING — timeline corrected: IRAN broke the shipping sanctuary FIRST
+(`raw/2026-07-12-saturday-exchange-timeline.md` — supersedes the morning flashes' implied causality)
+- **The trigger was Iranian: IRGC attacked a civilian container ship IN THE STRAIT (GFS Galaxy,
+  Cyprus-flagged; crew member missing)** — days after being ordered to declare Hormuz open. The US
+  "third round" (Abadan etc.) was the RESPONSE; Jordan/Qatar was the counter-response, labeled
+  "first phase."
+- *(THESIS revisions)* (1) Iran answered the ultimatum with a SHIP ATTACK, not just words — the
+  "errant system" excuse is now a pattern; the strait itself is back in play from THEIR side, which is
+  the single most marker-relevant fact of the day. (2) **Asalouyeh raises the US target rung:** South
+  Pars gas processing = energy-EXPORT infrastructure, one rung above domestic refining, one below
+  Kharg. Both sanctuaries eroding simultaneously — Iran touching shipping, US touching energy exports.
+  (3) The choreography read WEAKENS: three US rounds in a week, expanding target sets, "first phase"
+  language, civilian casualty. Still short of the uncapping (Kharg untouched, one ship ≠ blockade,
+  casualty = civilian mariner not US troops, Israel still out, Bushehr NPP not claimed hit). (4) The
+  closed-market pattern is now ZH-meme consensus ("over 30 minutes before markets open") — per our own
+  doctrine, watch for the Friday-de-risk reflex to start appearing; the weekend-gap cheapness closes
+  when the crowd learns it.
+- Sunday 6pm ET open now grades: ship attack in the strait + gas-export infra hit + multi-country
+  exchange. If crude opens <$85 on THIS stack, the market is saying the $79 regime survives anything
+  short of Kharg — the marker framework's strongest possible confirmation. A gap toward $85+ = the
+  sanctuary erosion beginning to price.
