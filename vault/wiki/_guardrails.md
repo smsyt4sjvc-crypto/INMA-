@@ -18,6 +18,13 @@ Related: [[_persona]] · [[brand]] · [[positioning]]
 - "Fair-market pricing you can verify yourself."
 - "Hire the right guy, the first time."
 
+### Taglines / punchlines
+- [2026-07-10] "The cheapest estimate is ALWAYS the one you only pay once."
+  (Pairs with "No hiring twice." Chosen wording: "you **only pay** once" — natural
+  spoken rhythm — over "you pay only once.")
+- "No phone tag. No surprise costs. No hiring twice."
+- Home Tune-Up strapline: "Inspect · Seal · Clean · Report."
+
 ### Never say this (liability + brand)
 - ❌ "We handle the match, scope, and accountability" / "we control the work" /
   anything implying INMA is responsible for construction outcomes → creates
