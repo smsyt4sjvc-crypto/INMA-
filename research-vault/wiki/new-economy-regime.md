@@ -480,3 +480,37 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   **aggregate real labor income** (hours × jobs × wages — can stagnate while the average rises); real
   consumption at the median vs trade-down volume. If AHE accelerates while ECI/median/prime-age EPOP
   stall → the "wages > inflation" print is composition, not raises.
+
+### 2026-07-12 — the FISCAL ledger (Jake: "it shows up in SS, SNAP and housing subsidies")
+#### DATA (WebSearch 7/12)
+- **Social Security applications jumped ~11% in 2025 YoY**; as of mid-2026, **26% of new beneficiaries
+  claim at 62** (accepting up to −30% permanent haircuts); notably higher-income people — those most
+  able to delay — increasingly claiming early. Attributed to fear about the program's future + SSA
+  upheaval. [IndexBox/AARP/Yahoo]
+- **The intake aperture is being narrowed simultaneously: SSA cut 7,100+ jobs (13%+ of workforce,
+  largest staffing cut ever)**, offices closed, **AI tools now analyzing medical evidence** for
+  disability claims — delays/denials expected to rise, appeals to lengthen. [Parriva/CO disability law]
+- SNAP 2026 enrollment trend: not cleanly retrieved (⚠️ open item — and the 2025 reconciliation bill's
+  SNAP work-requirement expansion is a policy confound: rolls can FALL while need rises).
+#### THESIS (user's thesis + analysis)
+- *(the conservation law)* The laundered displaced don't vanish — they cross ledgers: out of the labor
+  statistics, into the fiscal accounts (early SS, SSDI, SNAP, housing assistance). Labor stats can be
+  composition-gamed; enrollment counts and outlay dollars are appropriations-grade arithmetic. The
+  transfer rolls are the shadow labor report.
+- *(analysis — but the aperture is being narrowed at the same time)* SSA staff −13%, AI denial tooling,
+  SNAP work requirements, housing-voucher funding pressure: the administrative state is shrinking the
+  very ledgers that would register the displacement. Where the aperture closes, the displaced disappear
+  from BOTH ledgers — official statistics go fully dark, and the residual detectors become PRIVATE
+  series: **credit/auto delinquencies (NY Fed), food-bank volumes, BNPL growth, the trade-down tape in
+  corporate earnings** (WMT/dollar-store mix — companies cannot redefine their customer composition).
+- *(analysis — the exception that can't be gated)* **Early retirement claiming is a birthday
+  entitlement** — no medical review, no work requirement, no caseworker. That's why it's the ledger
+  already visibly filling (+11%), and the −30% haircut acceptance is the tell: people locking in
+  nominal dollars NOW rather than trusting the future promise = **a slow-motion run on the entitlement,
+  debasement psychology at the household level** (same instinct as the gold bid, expressed in benefits).
+- *(analysis — the loop closes into the trap)* Transfer absorption raises mandatory outlays → deficit →
+  issuance → the $1.2T interest bill → the Fed Trap tightens. And the third exit's yardstick leg CUTS
+  these same transfers' real value (COLA = CPI-W; Boskin's explicit purpose was COLA savings). Full
+  pipeline: launder the labor stats → displaced flow to transfers → narrow the aperture → redefine the
+  COLA gauge to shrink what remains. Each leg documented separately; together = the Hollow Bottom
+  pipeline, fiscal edition. The grievance compounds at every stage and surfaces only at the ballot.
