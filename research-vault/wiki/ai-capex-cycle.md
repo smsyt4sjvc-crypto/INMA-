@@ -727,3 +727,16 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   now a fab-siting input on par with land.
 - ⚠️ artifact: the "65.5T won quarterly OP" SmartEstimate exceeds ALL of 2025 — unit or period error
   likely; do not reuse without verification.
+
+## 2026-07-12 — memory-cycle history answered (Jake: "will memory have another cycle? did they
+## liquidate and expand like now?")
+- *(analysis, historical record)* Every memory peak shares the signature now printing: record prices →
+  "structural demand" narrative → record capex announced AT the top → insider selling into it → capacity
+  lands 18-30mo later → glut. Instances: 1996 crash; 2001; 2008-09 (Qimonda BANKRUPT); 2011-12 (Elpida
+  bankrupt → MU buys corpse → 3-player oligopoly); 2016 glut; 2018-19 (DRAM −50% after "supercycle
+  is permanent"); 2022-23 (all-player losses; Samsung's first production cut in ~25yrs). Corporate-
+  expand + insider-liquidate simultaneity = the STANDARD peak marker, not an anomaly.
+- Different this time (buys time, not immunity): largest-ever expansion ($532B Korea + $250B MU), LTA
+  floors/prepays route first glut pain to CUSTOMERS, HBM contracted economics cushion the commodity end.
+  Glut window unchanged: ~2029±1. The cycle's money is made at the TROUGH (MU $64 / 8x, Apr-25 — the
+  runner-anatomy value setup), not 1,000% off the low with officers selling.
