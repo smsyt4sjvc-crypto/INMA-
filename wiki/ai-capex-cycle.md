@@ -13,10 +13,13 @@ The fundamental engine under [[market-fragility]]. Related: [[cepi]], [[power-no
 - Circular financing observed: chip/model/cloud vendors funding each other's demand
   (vendor financing, equity stakes, prepaid capacity). *(user-supplied sourced report)*
 - Power/grid is the physical bottleneck for datacenter buildout → ties to [[power-not-petroleum]].
-- **Datacenter buildout stalling (2026-07-01, ZeroHedge/Sightline Climate):** of ~16 GW US
+- ~~**Datacenter buildout stalling (2026-07-01, ZeroHedge/Sightline Climate):** of ~16 GW US
   capacity planned to start in 2026, only ~5 GW under construction; ~half faces cancellation
-  or delay. Causes: permitting, NIMBY (28 states), transformer/helium supply bottlenecks.
+  or delay. Causes: permitting, NIMBY (28 states), transformer/helium supply bottlenecks.~~
   *(as-reported; `raw/zerohedge-2026-07-01-datacenter-cancellations.md`)*
+  ⚠️ CORRECTED 2026-07-12: SemiAnalysis (satellite tracking) says the Sightline expected/under-
+  construction figures are off by multiples; their YE2026 forecast moved ~1% in 6mo. Delays
+  cluster in a speculative phantom pipeline, not real capacity. See the 7/12 section at bottom.
 - OpenAI reportedly leaning toward delaying IPO to 2027; Nasdaq-100 underperformed on the news
   (2026-06, same source). Amazon cut 16,000 workers in Jan, cited as AI-driven.
 - **Datacenters legally curtailable (2026-07-01):** PJM got approval to cut datacenter load
@@ -834,3 +837,46 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   hikes — the GS +0.5pp core-PCE claim's first test in government data. **Warsh's FIRST congressional
   testimony Tuesday** — the chair's AI-disinflation doctrine vs his committee's 9 hike dots, under oath.
 - China: exports +18% expected (chip-led), Q2 GDP Wednesday ~4.5% (first war-quarter).
+
+## 2026-07-12 — SemiAnalysis: the "50% canceled" number was phantom; the buildout is INTACT
+### DATA (`raw/2026-07-12-semianalysis-dc-cancellation-debunk.md`, SemiAnalysis 6/18, satellite Vision Model)
+- Viral "~50% of 2026 US DC capacity canceled/delayed" traces to Bloomberg/Sightline (12GW expected /
+  5GW under construction) — SemiAnalysis: both figures "off by multiples." **Their YE2026 hyperscaler
+  self-build forecast moved ~1% over 6 months** (colocation <5%).
+- Delays/cancellations cluster in the speculative **phantom pipeline** (ERCOT: ~410GW queued large-load
+  requests vs ~85GW system peak → ~311GW never-real); moratoriums/NIMBY overwhelmingly hit areas with
+  no real projects.
+- Real named delays: **STACK/Oracle NM "Stargate" pushed to ~2029** (NMED air permits + FERC Section 7
+  pipeline review) **vs Oracle's guided 1H2027**; Nebius NJ +5mo; Core Scientific Denton missed YE2025
+  → CoreWeave took over, H1'26 on track.
+- Equipment layer: canceled speculative projects never placed orders; Reinhausen bushings quoted 3–5yr;
+  primary suppliers sold out through 2027; Vertiv/Schneider margins >20%; **Chinese OEMs (xAI likely on
+  Sieyuan transformers/breakers) quietly relieving high-end bottlenecks via US brokers + direct buys.**
+- ⚠️ Source note: SemiAnalysis sells the competing tracker — physical-layer method is sound, but the
+  "~1% moved" figure is their proprietary, uncheckable claim.
+### THESIS (interpretation — NOT fact)
+- *(what it settles in this note's own 7/01 fork)* The 7/01 entry asked: stall from DEMAND softening or
+  SUPPLY constraints? Answer per satellite: **neither at scale — the stall was largely a measurement
+  artifact.** Real capacity on track + suppliers sold out = demand intact, supply constraint binding but
+  routed around. Bearish the "buildout is cracking" narrative; the Stage-2 trigger remains UNPRINTED —
+  and this pushes it FURTHER away, not closer. (Honest ledger: this cuts AGAINST the puts' timing, again —
+  consistent with the whole Stage-1-not-Stage-2 pattern.)
+- *(Stage-2 falsifier refinement — measurement discipline)* "GW under construction falling" is now a
+  BANNED trigger phrasing: trackers disagree by multiples. Valid Stage-2 evidence stays: a hyperscaler
+  cutting a capex GUIDE dollar figure; the GS 27E $996B bar revised down; supplier order books/backlogs
+  actually shrinking (Vertiv/Schneider/GEV numbers, not announcements); Hammack-style channel checks
+  flipping.
+- *(ORCL — the concrete casualty)* STACK NM at ~2029 vs Oracle's guided 1H2027 is a named, permitted,
+  physical ~2-year slip on the capacity underpinning the OpenAI $300B commitment — feeds
+  [[ai-financing-fragility]] directly: BBB-, CDS 198, capacity revenue guided off a site the permits
+  say can't exist on schedule. The article defends the INDUSTRY's pipeline while documenting the
+  single worst company-specific delivery gap in it.
+- *(method vindication + the mirror)* The article's whole argument = trust the physical layer over
+  announcements — the vault's own doctrine (ingest rule 6, the retail-pricing method, "weight the
+  filing"). Its mockery of "vibe-coded" forecasts that ingest press releases at face value is a fair
+  description of how the 7/01 ZH number got into this note as-reported. The fix already existed
+  (as-reported tag + the 7/01 both-ways caveat); the lesson is stronger: **announcement-layer GW
+  numbers now default to ⚠️ artifact until physically corroborated.**
+- *(cross-links)* Bottleneck/Sieyuan implications → [[buildout-bottleneck-map]] 7/12 section (relief
+  valve watch: CFIUS/tariff action = re-tighten; tolerance = scarcity premium leaks). Political ratchet
+  refinement lives there too (phantom vs real-project NIMBY).

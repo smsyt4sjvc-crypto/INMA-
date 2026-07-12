@@ -10,8 +10,10 @@ each layer reprices when it binds. Related: [[power-scarcity-equities]], [[ai-ca
 
 ## DATA — the binding constraint (verified)
 - **Transformers: 128–144 week lead times** (GSUs quoted 4–5 YEARS); **switchgear sold out through 2028**;
-  **30–50% of planned 2026 DC openings expected delayed/cancelled** on electrical equipment (only ~5GW under
-  construction of ~16GW announced). [ChargedUp/Build.inc/TechFund/Transformer Mag]
+  ~~**30–50% of planned 2026 DC openings expected delayed/cancelled** on electrical equipment (only ~5GW under
+  construction of ~16GW announced)~~ ⚠️ CORRECTED 2026-07-12: cancellation/under-construction figures traced
+  to Sightline; SemiAnalysis satellite tracking says off by multiples — see the 7/12 SemiAnalysis section
+  below. Lead-time claims stand. [ChargedUp/Build.inc/TechFund/Transformer Mag]
 - **The components gating the pipeline = <10% of construction cost** → textbook pricing-power migration.
 - **Capacity is geopolitically wrong-shored:** China ~60% of global transformer production; US imports of
   Chinese high-power units 1,500 (2022) → 8,000+ (2025) = a grid-security policy time bomb.
@@ -212,6 +214,44 @@ LITE←AIXTRON G10-AsP MOCVD (5/26); VECO >$250M InP orders (MOCVD + Spector fac
 - *(calibration consequence)* When the differentiated read is in a newsletter, its ENTRY edge is gone —
   what remains is execution edge (which names, which layer, which quarter). Consistent with the InP
   layer being FOUND. The map's alpha now lives in layers the newsletter DOESN'T name.
+
+## 2026-07-12 — SemiAnalysis debunks "50% of 2026 DC capacity canceled" — the map's own DATA line corrected
+DATA: `raw/2026-07-12-semianalysis-dc-cancellation-debunk.md` (SemiAnalysis 6/18, satellite Vision Model).
+- ⚠️ **CORRECTION (firewall rule 4) to this note's opening DATA block:** the "30–50% of planned 2026 DC
+  openings expected delayed/cancelled... only ~5GW under construction of ~16GW announced" line came from
+  the Bloomberg/Sightline chain. SemiAnalysis (satellite-verified physical tracking): both numbers "off by
+  multiples"; **their YE2026 hyperscaler self-build forecast moved ~1% in 6 months** (colo <5%). The
+  denominator was a speculative "phantom pipeline" (ERCOT: ~410GW queued vs ~85GW peak = ~311GW phantom).
+  Original line stays above, struck by this correction — the CANCELLATION claim was inflated; the
+  LEAD-TIME claims were not (see next bullet).
+- **The bottleneck legs of this map SURVIVE and strengthen:** Reinhausen tap-changer bushings quoted
+  **3–5 years**; primary hyperscaler electrical suppliers **sold out through 2027**; Vertiv/Schneider
+  margins >20%. Canceled speculative projects never placed equipment orders → cancellations do NOT free
+  transformer/switchgear slots; 3–4yr queues reallocate any canceled slot instantly.
+- **NEW counterweight — the Chinese OEM relief valve:** xAI likely running **Sieyuan** transformers/
+  breakers; Chinese high-end gear entering via US brokers + direct hyperscaler purchases, accelerating
+  over 12 months.
+### THESIS (interpretation — NOT fact)
+- *(what the correction does and doesn't change)* The map's INVESTMENT logic never rested on cancellations —
+  it rests on lead times and sold-out order books, which SemiAnalysis CONFIRMS at the primary-supplier
+  level. If anything the debunk strengthens "bottleneck sellers get paid": real 2026 capacity intact +
+  locked multi-year backlogs = the revenue is coming regardless of phantom-project mortality.
+- *(political-ratchet refinement)* Moratoriums/NIMBY mostly hit phantom capacity → the ratchet's measured
+  BITE on real 2026 GW is smaller than the bill-count implied. But the two named real-project kills/delays
+  (QTS Virginia dead; **STACK/Oracle NM Stargate → ~2029 on air permits + FERC pipeline review**) show the
+  mechanism is real where it lands — it adds YEARS, selectively, via permits. Ratchet = selective artillery,
+  not carpet bombing. WHERE-not-IF holds.
+- *(the Sieyuan valve vs the CLF/GOES + Hammack threads)* Chinese OEMs relieving the exact chokepoint a Fed
+  voter cited as her hike case is the map's first genuine SUPPLY-side counterweight: if it scales, it
+  (a) shortens effective lead times without US capacity additions, (b) undercuts the domestic-transformer
+  policy thesis (CLF's GOES moat gets bypassed, not built out), (c) deepens the wrong-shoring/grid-security
+  time bomb (China ~60% of production → now inside US hyperscaler substations). WATCH: any CFIUS/Commerce
+  action on Chinese electrical gear, tariff carve-ins, or a hyperscaler named publicly using Chinese
+  transformers — a ban = instant re-tightening (bullish the bottleneck sellers); tolerance = the valve
+  opens (bearish the scarcity premium).
+- *(measurement humility)* "GW under construction" varies BY MULTIPLES across trackers (Sightline vs
+  SemiAnalysis). Any vault trigger phrased as "under-construction GW falling" must name its tracker or
+  use physical proxies (supplier backlogs, Hammack-style order-book anecdotes, jobs data) instead.
 
 ## 2026-07-12 — HELIUM: the war physically merges into the chip cost stack (verified)
 - DATA: China bans ALL helium exports (MofCom, 7/11, verified via SCMP/Caixin/AP). Cause: **strikes on
