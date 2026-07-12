@@ -308,3 +308,11 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
 - Pattern note (2nd instance this weekend after the helium "China 40%" garble): **viral framings are
   inflating the underlying quotes; CENTCOM/primary verbatim beats every aggregator headline.** The
   8-dark-vessels physical tell stands unchanged as the real watch item.
+
+### 2026-07-12 — Abu Musa hit (Mehr): the kill-chain campaign rolls down the island picket line
+- Abu Musa = Iran's FORWARD fortified island (IRGC-Navy garrison, anti-ship missile batteries,
+  coastal radar/surveillance, FAC basing) covering the mid-Gulf tanker route; UAE-claimed since the
+  1971 seizure (diplomatically cheap target). Sequence now: Bandar Abbas (fleet home) → Qeshm (strait
+  guardhouse) → Abu Musa (forward picket) = systematically stripping the physical teeth from the
+  "identified, tracked, monitored" declaration. Still anti-ship kill chain, still not oil — campaign
+  discipline intact.
