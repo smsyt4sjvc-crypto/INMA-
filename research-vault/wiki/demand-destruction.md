@@ -176,3 +176,23 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   (b) Friday-to-Monday optionality is systematically CHEAP in this regime — the buyer's side of the
   weekend; (c) watch for the market LEARNING the pattern: Friday-afternoon de-risking / a weekend vol
   premium appearing = the crowd catching up, and the cheapness closing.
+
+### 2026-07-12 FLASH 2 — Iran retaliates same-day: US base in Jordan + missiles at QATAR (intercepted)
+- DATA (as-reported, IRIB/Qatari statement): IRGC missiles at a US base in Jordan; Qatar says it
+  intercepted an attack "targeting the country." Hours after Abadan. All still inside the weekend window.
+- *(THESIS — read the target selection, both directions)* The exchange has a shape: US/Israel hit
+  Iran's DOMESTIC-fuel refining (not crude exports); Iran answers at US BASES (not oil, not the
+  strait). Both sides escalating INSIDE the sanctuary rules — intensity up, oil system still
+  conspicuously spared on both sides. Precedent: the Al Udeid playbook (telegraphed base strike,
+  interceptions, no deaths → both sides bank their point → de-escalation; crude FELL on that print).
+  If casualties = zero and telegraphing emerges, Sunday's open may read this as choreography, not spiral.
+- *(the three real risk vectors now)* (1) **US casualties in Jordan** — Trump's own pre-commitments
+  hard-wire his response function; (2) **Israel** (Jake's catch: Jordan = Israel's doorstep; Israel
+  entering directly changes the target doctrine — they hit export/nuclear infrastructure without
+  oil-price discipline) = the uncapping vector; (3) **Qatar's dual role** — the MEDIATOR was just
+  targeted while hosting the process AND while Ras Laffan (LNG/helium, already 30% of world helium
+  offline) sits exposed; if Doha quits mediating or Ras Laffan takes more damage, both the offramp
+  and the gas/helium supply degrade at once. Watch Monday: crude open, EU TTF gas, whether Qatar
+  stays at the table.
+- Both sides now using the closed-market window — the exchange completed and "banked" before Sunday
+  pricing. The weekend-gap doctrine strengthens again.
