@@ -15,7 +15,7 @@ grading uses the actual open/close prints Jake pastes.
 ## RUNNING RECORD
 | Date | Set | Dir hits | In-range | Shape call | Notes |
 |---|---|---|---|---|---|
-| 2026-07-12 | [[2026-07-12]] | pending | pending | pending | first set; kill switch = 2nd-phase strike/US casualties |
+| 2026-07-12 | [[2026-07-12]] | crude: HIT (Brent +3% vs +3.5% call, in range — despite kill-switch conditions partially live: round 4 + ship attack AT the open) · equities grade Mon | crude: IN | pending Mon | WTI print pending for exact grade; Brent used as proxy |
 
 ## CALIBRATION STATS (updated as sets grade)
 - Sets graded: 0 | Direction: –/– | Range coverage: –% | Kill switches triggered: 0
