@@ -316,3 +316,19 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   guardhouse) → Abu Musa (forward picket) = systematically stripping the physical teeth from the
   "identified, tracked, monitored" declaration. Still anti-ship kill chain, still not oil — campaign
   discipline intact.
+
+### 2026-07-12 — IMF second consecutive downgrade: the demand half of $79 crude, officialized
+- DATA (IMF via Statista/ZH): global 2026 growth cut to **3.0%** (3.3% Jan — second cut); Q1 actual
+  3.0% annualized (slightly above forecast, "weathered better than feared"). **France/Germany/Japan
+  0.6–0.7%, Euro Area 0.9%, Canada 1.1%** — DM stall speed. Upgrades: China (public investment +
+  high-tech manufacturing surge), UK (low base). **IMF: rising renewables use is making economies
+  LESS vulnerable to elevated energy prices** [power-not-petroleum, stated by the IMF]. AI-boom
+  growth gains "mostly limited to Taiwan, South Korea, Thailand, Malaysia" and "remain fragile";
+  war-induced shortages could resurface trade tensions.
+- *(THESIS)* Three vault theses get IMF co-signatures in one report: (1) the demand-destruction half
+  of the $79 marker — 3% world growth with DM stagnation is why 60%-reduced Hormuz flows can't
+  reprice crude; (2) [[power-not-petroleum]] — renewables explicitly credited with blunting the oil
+  weapon; (3) CEPI geography — AI's measured GDP gains sit in the HARDWARE SUPPLY CHAIN (Taiwan/
+  Korea/SEA), not the deploying economies, which so far collect the inflation and the capex bill.
+  "Gains from the AI boom remain fragile" = the IMF hedging Stage 2 in institutional prose. China
+  upgraded on the exact capex race the Apollo/cloud-capex prints described.
