@@ -366,3 +366,26 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   the hardest conditions yet: not weekend digestion, LIVE ordnance. Second IRGC ship attack (post-GFS
   Galaxy) = the "monitoring" regime enforced by shooting — and the convoy premium still prices at ~3
   points. Kharg/hull-stopped remains the only uncapping.
+
+### 2026-07-12 eve — REGIME CHANGE: US strikes ~140 sites; Iran hits 5 Gulf states, US units, a KOC
+### rig; IRGC DECLARES closure — JMIC says route open (`raw/2026-07-12-eve-us-140-strikes-gulf-retaliation.md`)
+- DATA (verified CNN/AlJazeera/Fox): **US ~140 Iranian military sites struck overnight** (launch sites,
+  naval assets, ammo). **Iran retaliated against UAE, Qatar, Kuwait, Oman, Bahrain**; **3 ballistic
+  missiles hit US Army ATACMS units in Kuwait** (no US casualties per CENTCOM); **KOC offshore drilling
+  platform hit** (1 injured) — first physical oil-infrastructure damage in Gulf waters. **IRGC announced
+  Hormuz CLOSED after a warning shot; JMIC: southern route remains open two-way.**
+- ⚠️ Feed corrections: ZH "zero attacks on UAE" contradicted (UAE among the five); "blockade odds +50%
+  by July 13" = relative jump, base unstated, resolution criteria unknown.
+- *(THESIS — the ladder moved three rungs in one day)* Morning: monitoring declaration. Evening:
+  declared closure + US mass strikes + Iran striking US forces on GCC soil + oil infrastructure damage.
+  The war is now formally US-Iran, region-wide. BUT the framework's discriminator is unchanged and so
+  far unbroken: **a declared closure with two-way traffic flowing is still the convoy regime.** The KOC
+  rig hit is the closest yet to the uncapping class (physical oil assets) — but a RIG is production-
+  adjacent, not transit; the uncapping tells remain Kharg, hull-stopped transits, insurance withdrawal.
+- *(prediction discipline)* Set #1's kill switch (2nd-phase strike/US casualties) = strike leg LIVE,
+  casualty leg not. Equity legs grade Monday under kill-switch-live conditions; whatever prints, the
+  grade notes the registered assumptions were overtaken same-night. No editing the registered file.
+- *(watch into Monday)* JMIC transit bulletins + tanker insurance = the real closure gauge; whether
+  Iran's five-state retaliation reads calibrated-symbolic (bases, mostly intercepted) vs escalatory
+  (casualties); GCC political responses (Qatar child injury = accelerant); crude's hold of the $79-84
+  middle vs the $86-91 call wall.
