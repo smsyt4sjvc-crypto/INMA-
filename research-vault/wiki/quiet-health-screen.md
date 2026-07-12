@@ -117,3 +117,20 @@ Re-run both cells any time (~20 min); paste top-30 + EDGAR lines back → I upda
 - OPEN: identity of the 80,805-share whale; whether buying continued into Jun/Jul; exact cluster
   total/dates → Colab detail parse. Name-level work (China exposure sizing, imaging cycle) still
   required before sizing past basket weight.
+
+### GEHC cluster — COMPLETE FILE (2026-07-12, Jake's EDGAR detail parse, 120d window)
+- **The $4.8M whale = H. LAWRENCE CULP JR: 80,805 sh @ $61.88 on 5/6 = $5,000,076** — a deliberately
+  round $5M personal check. Culp = GE Aerospace CEO, architect of the GE breakup and of the GEHC
+  SPINOFF ITSELF — arguably the single most structurally informed person on this asset alive.
+- **The sequence (a story in dates):** GC Jimenez + CEO Arduini 4/30 ($106K + $250K) → CFO Saccaro 5/1
+  ($201K) — management inside 48hrs, classic post-earnings open window → Stromberg + CULP $5M 5/6 →
+  Yang Watkin 5/8 ($63K) → Hochman 5/12 ($100K) → **Lobo (Stryker CEO) 5/22: $642K @ $64.18 — buying
+  HIGHER after the rise** (insider buying INTO strength — the rare variant). Prices $59.93 → $64.18,
+  escalating as the stock recovered. **Zero sells in 120 days**; everything else in the window =
+  routine annual director grants (5/7 cycle) + one tax-withholding.
+- **Verdict: A-grade, artifact-checked, complete.** All quality tests passed: varied sizes ($62K–$5M),
+  varied dates, escalating prices, C-suite + GC + professional allocators + THE ARCHITECT. The
+  strongest name-level insider signal in the vault, attached to a four-green basket name.
+- Remaining gate before sizing past basket weight: name-level fundamentals (China/imaging exposure,
+  replacement cycle, the −3.8% estimate-cut anatomy). Options chain untradeable (OI 14) — this is an
+  EQUITY signal, not a CSP candidate.
