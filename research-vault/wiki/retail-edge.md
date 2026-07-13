@@ -110,6 +110,29 @@ not modesty. Conservative self-description buys conservative approval.
   AFTER the spike pays top price for yesterday's thesis. The scan already priced it; let the rule,
   not the regret, place the next order.
 
+## 2026-07-13 ~2:30pm PT — GAP-DOWN MECHANICS AT 2 DTE: gamma pays, vega doesn't, crush collects
+- *(prompted by Jake: "you don't think if [it] gaps down and vol spikes?" — challenging the
+  "night-3 is priced" read. He's right that the tape can gap without a category change: Seoul
+  cascading, hot core CPI, overnight futures. The registered set-#2 SHAPE call itself is a gap
+  down on core-0.3. The "priced" claim was only about strike-headlines as *incremental news*.)*
+- Mechanics for a 2-days-to-expiry (DTE) straddle (the Jul-15 SPY 750, cost $6.54):
+  · **A gap pays through GAMMA/delta** — the put goes in-the-money and gains ~$1 per $1 of SPY
+    below breakeven. Near the strike at 2 DTE, gamma is at its lifetime maximum: this position
+    is maximally sensitive to exactly the overnight gap Jake describes. That's what was bought.
+  · **A vol spike pays through VEGA — and at 2 DTE vega is nearly dead.** A 2-day option has
+    almost no time for higher volatility to act on, so even a hard VIX spike adds little. The
+    IV bid mostly fattens the quote he sells INTO, not the position's value held.
+  · **IV crush is the house's rake:** the ±0.66% event premium paid evaporates at 5:31am PT
+    the moment CPI prints, whatever the direction. The move must outrun the crush. Straddle
+    breakevens ≈ 743.5 / 756.5 (±0.87% from 750) at expiry; earlier exits need less.
+- **The execution consequence (why the pre-committed exit exists): a gap-down + vol-spike open
+  is the SELL moment, not the hold moment.** Peak fear = peak quote. Holding for "more" pays
+  theta (~a third of remaining premium per day at 2 DTE) and donates the crush back. The only
+  reason to hold past mid-morning is the move still extending — price, not vol.
+- Overnight riser: options don't trade pre-market; the straddle is the only instrument in the
+  book that monetizes a gap automatically. Nothing to do tonight; the position IS the action.
+- Links: [[market-fragility]] (event-vol census), [[portfolio-state]] (position + exits).
+
 ## 2026-07-13 ~2pm PT — THE SURPRISE RULE (Jake's own derivation, from the BNO tuition)
 - Jake, verbatim in substance: "markets are pricing future prices — that's the information I
   didn't have." The full form: **price = the crowd's forecast; news moves nothing — the GAP
