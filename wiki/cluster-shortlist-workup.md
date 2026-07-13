@@ -270,3 +270,10 @@ Full S&P 1500, price-first. 89 survivors (`raw/2026-07-13-broad-value-screen-out
   (wheels/blocks), steel scrap — "other revenue" moves with metals prices. Plus **catalytic-
   converter PGM stream (Pt/Pd/Rh)** routed to refiners. Wrinkle: EVs have no cats → stream thins
   as fleet electrifies (15yr salvage lag; hybrid cats PGM-richer first). Copper-thesis adjacency.
+
+### ⚠️ TIMESTAMP CORRECTION (2026-07-12 ~9:30pm PT)
+Tonight's entries labeled "2026-07-13 ~1am–3:45am" (here and in ai-capex-cycle, ai-financing-
+fragility, demand-destruction, bull-bear-ledger, CLAUDE.md acronym rule) were actually written
+**2026-07-12 ~6:30–9:30pm PT** — UTC date drift plus inferred-time error. Content unaffected;
+labels stay as written per no-silent-edits, this note is the correction. Git commit times (UTC)
+are authoritative.
