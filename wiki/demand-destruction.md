@@ -604,3 +604,35 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
 - *(the second strait)* Kerch degrading simultaneously (jamming, stuck vessels) = chokepoint
   stress going SYSTEMIC — marine insurance/freight repricing globally, not regionally. The
   chokepoint-toll era arriving on two seas at once.
+
+### 2026-07-13 ~2pm PT — Jake's extension: the third party votes, and the cost structures are inverted
+- *(user's thesis)* The rest of the world shipping through Hormuz has to ALIGN with paying any
+  toll — and the US's cost to provide security is a MULTIPLE of Iran's for logistical/geographical
+  reasons.
+- *(analysis — the inverted cost structure)* Iran is the LOW-COST provider of both the threat and
+  the protection: it sits on the strait; its "security product" is largely REFRAINING (shore
+  batteries idle, small boats docked) ≈ near-zero marginal cost. The US is the HIGH-COST provider:
+  carrier groups (~$6-8M/day each), the 5th Fleet, global logistics — billions/month to deliver
+  the same "safe passage." In a protection price war the low-cost racket undercuts indefinitely —
+  "we will be fair" is CREDIBLE price competition. China already voted (transited on Iran's
+  protocol). Western-aligned shippers face the legal inversion: paying Iran = sanctions exposure;
+  paying the US = a toll on international waters (UNCLOS freedom-of-navigation — which the US
+  enforces but never ratified).
+- *(analysis — the price ceilings that make 20% an anchor, not a rate)* War-risk insurance
+  historically prices transit fear at 0.1-1% of hull, a few % of cargo at absolute peaks; the
+  Cape reroute caps tolls for anything that can land elsewhere; the pipeline bypasses (Saudi
+  East-West ~5M b/d, UAE→Fujairah ~1.8M) cap extraction from OIL. The CAPTIVE traffic = the Gulf
+  states' own trade — i.e., the toll's true incidence falls on the GCC, and Trump's own words
+  ("the other nations are very wealthy, they're on our side") reveal the real design: **not
+  per-vessel collection — NATO-style burden-sharing extended to sea lanes.** The public good
+  becomes a subscription service, invoiced to allies.
+- *(the historical echo)* Protection → tribute → empire → revolt: the Delian League, the British
+  navy's unpaid global policing, the US free-rider complaint formalized. The 50-year free
+  protection era ENDED rhetorically this weekend on both sides.
+- *(the structural winner — neither racket)* Every month of toll regime accelerates BYPASS
+  investment (pipelines, Fujairah expansion, alternate terminals) — ZH's point about Iran's
+  leverage evaporating applies symmetrically to the US toll. **The toll era finances its own
+  obsolescence; the long-run winner is the bypass infrastructure** — which is [[power-not-petroleum]]'s
+  toll-not-drill-bit logic at the geopolitical layer. Watch: GCC sovereign statements on
+  "security cost sharing," Fujairah/pipeline capex announcements, war-risk premium quotes vs
+  the two protocols' implied prices.
