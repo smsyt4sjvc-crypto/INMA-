@@ -242,3 +242,26 @@ Related: [[ai-capex-cycle]], [[market-fragility]], [[concentration]], [[consumpt
   Equity linkage: higher hyperscaler yields = higher discount rate on the index's biggest weights.
 - Monday watch (upgraded): long-end hyperscaler spreads continue or retrace; ORCL CDS/next deal;
   the five's equity reaction to their own credit repricing.
+
+## 2026-07-13 ~1:30pm PT — the Apollo per-company FCF chart: ORCL IS the negative wing, quantified
+### DATA (Apollo Chief Economist chart via Jake — 12m-FORWARD FCF by company, Bloomberg/Macrobond)
+- **Total hyperscaler 12m-fwd FCF: ~$300B peak (2024) → ~$10-15B now — a cliff, not a slope.**
+- Composition: **ORCL negative since ~Sep-2025, deepening to ~−$40B forward** (the entire
+  below-zero wing); AMZN spent to ~zero; Meta compressing; **MSFT + GOOGL = the only remaining
+  positive mass**, also shrinking.
+### THESIS (interpretation — NOT fact)
+- *(what this adds to BofA Ex.6 — attribution)* The "strong five" framing splits: the group's
+  internal-funding story now rests on TWO names (MSFT/GOOGL). ORCL runs −$40B forward FCF at BBB−
+  with the $300B OpenAI book — Goldman's weakest-link designation now has its own bar color.
+  AMZN precedent note: it has spent-to-zero before (2021-22) and been rewarded — the model
+  works IF the revenue arrives (the token chart says the aggregate revenue proxy is FALLING).
+- *(THE THREE-LEG SYNTHESIS — Jake's frame completed)* The $996B/$2T capex consensus has three
+  funding sources, all impaired in the same week: (1) REVENUE — token-spend index −21% w/ lower
+  highs; (2) EXTERNAL DEBT — Papai ceiling, long-dated selloff, cost of capital up; (3) INTERNAL
+  CASH — this chart: ~$10B forward vs a ~$360B/12mo need. **At the margin, the buildout is now
+  ~entirely externally funded — the pipes aren't supplementing cash flow, they ARE the cash flow.**
+  The 2000-telecom endgame condition, formally met.
+- *(migration note)* BofA RIC → Market Ear → now Apollo/Sløk (Wall Street's most-forwarded
+  economist): the FCF-cliff chart has completed the consensus migration. Entry edge gone;
+  execution/timing edge remains; and per the calibration doctrine, full-consensus bear charts
+  can mark local max-fear — the DATA is fundamental, the crowding is real, hold both.
