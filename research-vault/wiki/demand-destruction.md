@@ -648,3 +648,26 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   before CPI + Warsh = the fiscal-cost thread activates (campaigns are appropriations; the $1.2T
   interest bill meets a war budget). (4) Near-term: Pickaxe = likely tonight's telegraphed
   "hard" strikes — inside the straddle window, as positioned.
+
+### 2026-07-13 ~2pm PT — PICKAXE IDENTIFIED: not an operation — Iran's deepest NUCLEAR site
+- DATA (WebSearch: CNN/Britannica/GlobalSecurity): **"Pickaxe" = Pickaxe Mountain (Kūh-e Kolang
+  Gaz Lā), the deep-underground facility beside Natanz** — tunnels reportedly ~100m+ deep (deeper
+  than Fordow), built after the Natanz sabotage era; suspected centrifuge assembly/enrichment.
+  Recent satellite imagery: trucks moving in/out + missile-site construction = the administration's
+  stated MoU violation. Trump (Hugh Hewitt): the US could "take out" Pickaxe Mountain. **Experts:
+  possibly TOO DEEP for US conventional bombs** (the MOP is rated ~60m; Pickaxe estimated deeper).
+  Iran denies enrichment use.
+- *(THESIS — a CATEGORY change, not a rung)* The war to date = maritime/military (shipping,
+  batteries, radar). Striking Pickaxe = attacking the NUCLEAR PROGRAM itself — the escalation
+  class where Iran's response doctrine changes from calibrated theater to maximal retaliation:
+  **this is the trigger class that makes Kharg/Abqaiq/genuine closure Iranian POLICY.** New named
+  branch at the TOP of the kill-switch ladder: "Pickaxe struck."
+- *(the depth problem = the option set, and the Ocean Trader reread)* Too deep for the MOP →
+  options: repeated same-point MOP strikes; entrance/ventilation/power attacks (functional kill
+  without reaching the hall); **ground forces — which re-reads the SOF mothership staged at Duqm
+  in a much darker light**; or the unthinkable-branch chatter that always orbits this site
+  (earth-penetrating nuclear). A strike that visibly FAILS (too deep) = its own scenario:
+  demonstrated impotence, emboldened Iran.
+- Timing: "relatively soon" + tonight's telegraphed hard strikes + the War Powers paper = possibly
+  inside the current window. Watch: Natanz-region flashes, MOP-capable B-2 movements (Diego
+  Garcia/Whiteman OSINT), any evacuation reporting near Natanz.
