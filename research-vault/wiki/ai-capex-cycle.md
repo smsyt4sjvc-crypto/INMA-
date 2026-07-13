@@ -970,6 +970,41 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   The country most levered to the memory-capex cycle is being de-risked across its whole capital
   stack while its champions double down. Watch: won, BOK, CDS — Korea is where the global version
   of this thesis prints first.
+
+### 2026-07-12 late — Jake's HORIZONTAL-BUILD discriminator: Jevons AND Burry both right; the question
+### is railroad or steam engine
+#### THESIS (user's thesis + analysis — no new data; the organizing lens for everything above)
+- *(user's thesis)* Jevons and Burry can and probably are BOTH right. Jevons almost certainly wins
+  (usage grows). Burry's bear "remains to be seen if it's part of the horizontal build — railroads,
+  highways, internet — or steam engines."
+- *(analysis — history says both-right is the NORMAL infrastructure outcome)* Railway manias
+  (1840s UK, 1873/1893 US): traffic grew through EVERY bust; investors wiped repeatedly; the rails
+  carried the economy for a century. Fiber 2000: internet traffic grew ~100x THROUGH the crash;
+  WorldCom/Global Crossing bondholders zeroed; dark fiber at cents-on-the-dollar powered the next
+  two decades. **Demand-level Jevons + finance-level Burry is the historical BASE CASE for
+  infrastructure booms** — the bust is a financing event, not a demand event. (This is also why
+  CEPI targets the paper, not the usage.)
+- *(analysis — the sharper version of Jake's fork: the AI build is a LAYERED asset with wildly
+  different durabilities, so it's railroad AND steam engine at once, by layer):*
+  · **Railroad-grade (durable, horizontal, successor-reusable):** power generation, transmission,
+    transformers, substations, land, water, fiber — 30-40yr assets ANY future economy uses. This is
+    40-45% of every DC dollar ([[buildout-bottleneck-map]]).
+  · **Questionable shells:** DC buildings — "obsolete in <2yr" finding; the layer dressed as
+    railroad but aging like equipment (the ABS collateral problem, [[ai-financing-fragility]]).
+  · **Steam-engine-grade (consumable/supersedable):** GPUs (~3yr, and ASIC/efficiency substitution
+    already live), model weights (depreciate in months). The CANAL risk: if the efficiency wave
+    (China vectors, distillation) satisfies demand with 100x less hardware, even growing usage
+    doesn't rescue the brute-force compute stock — canals died WITH freight demand growing, because
+    railroads carried it instead.
+- *(the book, explained by the frame)* This lens is WHY the existing sort is right: **long the
+  railroad layer (power/bottleneck tolls — survives any bust), short the FINANCING of the
+  steam-engine layer (puts on the paper pricing 2030s margins on 3yr assets), own the wreckage
+  cohort the busts create** (dark-fiber buyers were the fiber trade's real winners — the ignition
+  filter IS the buy-the-dark-fiber machine, pre-positioned).
+- *(sensors that discriminate railroad vs canal)* H100 rental index (do old chips still EARN?);
+  durable-layer share of capex (rising power % = more railroad); token-demand growth vs
+  hardware-demand growth DIVERGENCE (Jevons feeding efficiency instead of silicon = the canal
+  print); ASIC share of accelerator spend.
 - **TSMC Q2 Thursday ~7/16 = the Stage-2 sensor of the week:** watch (1) 2026 revenue-growth and
   CAPEX guide revisions (UP = trigger further away; flat/down = first crack), (2) the price-hike hint
   ("would like to raise prices" — foundry pricing power = another cost-push leg), (3) AI-demand
