@@ -123,6 +123,41 @@ Related: [[runner-anatomy]], [[quiet-health-screen]], [[ai-financing-fragility]]
   4) USAC (compression thesis w/o AROC's selling) 5) VZ or AMPH (ballast vs cheapest-multiple).**
   Next: E-path + actual guidance language on ADT/ADMA/GPK before any dollar.
 
+### 2026-07-12/13 night — E-PATH VERDICTS (3 parallel agent workups, all sourced)
+**ADT — B+ (leaning buyable).** Bond-like math VERIFIED: FY26 guide REAFFIRMED (rev/adj EPS ~flat
+vs $5.13B/$0.89; adj FCF +~20% → ~$1.03B = **~18-19% FCF yield**); 7.5x fwd; div 3.3% covered
+5.5x; $1.5B/3yr buyback (963M→883M shares and falling); debt $7.69B at ~4.3% cost, ~5yr WAM,
+2026 notes redeemed, next material maturity 2027, revolver undrawn; **Apollo CONFIRMED fully out
+5/5/26** (102M-share secondary ~$7.30-7.55, stock −6.5%; ADT repurchased 29.1M concurrently).
+**The cluster bought INTO the post-Apollo flush at $6.75-6.87** (+ an April 24 data breach —
+ShinyHunters, >10M records claimed, class actions filed May) = insiders reading supply event +
+breach as one-time. Deteriorations keeping it from A: **gross attrition 13.1% vs 12.6% YoY, blamed
+on NON-PAYMENT disconnects** (= the Hollow-Bottom private-ledger detector printing inside a
+holding candidate); E guided flat 2026 (reinvestment: ADT Blu DIY launch 7/3, AI, tariffs);
+breach-litigation tail unpriced; 2nd breach in 2 years. FALSIFIERS (Q2 = Jul 30): attrition
+>13.5-14% or RMR negative; FCF guide cut (cash flow IS the thesis); 9-figure breach settlement.
+Unverified: FY27 consensus (4 analysts, avg PT $9.25); 2027-28 maturity amounts (check 10-K debt
+table before buying); COO/CBO/CMO Form 4s (Houston/Likosar corroborated).
+**ADMA — B leaning C. DEMOTED OUT.** The fall = Culper short report 3/24/26 (channel-stuffing via
+undisclosed related-party distributor Genesis BioPharma — GROSSMAN FAMILY tied, operating from
+ADMA's HQ; DSO 43→113 days) + 5/6/26 guidance CUT (rev $635M→$530-560M; adj NI $255M→$170-200M;
+**long-term targets WITHDRAWN**) −17% that day. ⚠️ The screen's "positive guidance" gate was the
+wedge artifact — real guidance went DOWN. **The one insider buyer (Grossman) IS the named related
+party — signal contaminated.** Real positives: yield enhancement live (GM 53%→71%), FCF+, low
+leverage, $111M buyback. DSO still 107. Class-action LP deadline 8/10. Readmission falsifier:
+ASCENIV growth WITH DSO <90 (proves demand real).
+**GPK — B leaning B-. CONDITIONAL.** Three guidance cuts in 12mo (May/Dec-2025, Feb-2026; EBITDA
+$1.68-1.78B → $1.05-1.25B; CEO Doss out), adj EPS $2.49→$1.48→~$0.95 guide mid; **net leverage
+4.4x rising toward ~5x on guide** = levered stub risk. BUT: Q1'26 guide REAFFIRMED; Waco mill
+opened ahead of schedule (+$80M EBITDA 2026, +$80M 2027); capex cliff $935M→$450M → **adj FCF
+$700-800M ≈ 23% of mkt cap** (mostly to deleveraging); new CEO (Rietbroek, ex-Pepsi) $60M cuts;
+class action early (PSLRA stay, lead plaintiff just appointed) — nuisance-sized unless accounting
+emerges. Guide is H2-loaded ($0.09 of $0.75-1.15 done in Q1). **BINARY FALSIFIER: Q2 (early Aug)
+EBITDA must jump toward $270-300M with guidance HELD — a 4th cut = F.**
+**FINAL FIVE (post-workups): 1) ADT (B+) 2) USAC (thesis clean, insiders silent — needs same
+workup) 3) VZ (ballast) 4) GPK (only via the August binary) 5) AMPH (unworked, cheapest).
+OUT: ADMA (contested E), AROC (insider selling).** Sizing/execution Jake's.
+
 ### 4. Watch pile (B-/C+): ACM (-50% on de-rating while adj guidance RAISED — but GAAP/adj wedge widening
 and Q1 FCF negative: earnings-quality question first), AMRZ (fine spinco, housing-soft, guidance growing,
 13 months of history), ROCK (11x forward IF guidance holds; solar-exit charges muddy everything),
