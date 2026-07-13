@@ -124,3 +124,34 @@ into one 0–100 fragility number + trigger panel.
 - *(live overlay)* Logged the night the war went US-Iran region-wide with a declared Hormuz closure
   ([[demand-destruction]]): if Monday gaps down and TRENDS, the rebalance flow lands at the close —
   the flow that votes against "opens down, closes better" on trend days, and FOR it on reversal days.
+
+## 2026-07-12 ~9:45pm PT (Seoul Mon 7/13 ~1:40pm) — KOSPI HALTED 20min after −8%; halt #7 this year
+### DATA (ZH flash via Jake; Seoul afternoon session)
+- **KOSPI −8% intraday → circuit breaker, 20-min halt — the SEVENTH trading halt of 2026.**
+  Context stack already in vault: Korea formal bear (7/8), MSCI concentration forced selling (~$24B
+  queued as of 7/1), global funds selling Korean BONDS at 3-mo high (7/12), SKHY −10% earlier in
+  this same session, BOK hiked July, war weekend (US-Iran direct, Hormuz declared closed).
+- Same feed: **OpenAI CONFIRMS "silently nerfing" GPT-5.6** (upgrades last night's single-source
+  juice-degradation item to company-confirmed — serving-cost cuts printing in the product);
+  AP: US and Iran EACH assert control of Hormuz (dueling declarations now bilateral officialdom).
+### THESIS (interpretation — NOT fact) — Jake's Q: "how long can they keep doing this?"
+- *(what halts do)* Circuit breakers pause price DISCOVERY, not price PRESSURE. Sentiment cascades
+  can be calmed by a pause; **mechanical flows cannot — margin calls, MSCI rebalance, and levered-
+  ETF hedging don't expire during a halt, they QUEUE.** Korea's selling is substantially mechanical
+  (vault 7/1 finding) + now foreign capital exiting stocks AND bonds = flight texture, not
+  rebalancing. Halts reschedule that; they don't clear it.
+- *(the effectiveness decay)* Each halt that fails to mark a low TRAINS sellers to front-run the
+  next reopen — sell-the-unhalt becomes the trade. Halt #7 = the tool is chronic, which is itself
+  the tell that it isn't working.
+- *(the escalation ladder — "how long" = until the WON says stop)* Korea's interventionist toolkit
+  runs: halts → short-selling ban (used 2020, 2023) → stock stabilization fund (state buying) →
+  NPS directed bid → FX intervention → BOK liquidity/Fed swap lines (2008, 2020 endgames). The
+  state can mechanically extend this for months — but capping equity declines while foreigners
+  exit REROUTES the exit through the currency. **USD/KRW is the real gauge: if the won breaks while
+  halts multiply, the interventions are losing and the BOK faces the 1997/2008 choice — defend the
+  currency or the market, not both** (and it just HIKED, so easing to save stocks reignites the FX
+  leg). Watch: won, short-ban announcement (next rung), NPS "market stabilization" language.
+- *(transmission to Jake's book)* Korean retail = massive holders of US LEVERAGED ETFs (the Seohak
+  ants) — forced Korean deleveraging can transmit to US tech through the exact $430B amplifier
+  logged yesterday. Plus: SKHY ADR closed $168 vs Seoul −10%+ today → ADR gap risk at the US open;
+  MU sympathy risk (the AVGO-day precedent: MU record wipeout without MU news).
