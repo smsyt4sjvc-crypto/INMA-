@@ -37,3 +37,18 @@ nothing purchasable.
   Hammack's "will pay almost any price" has a shelf tag now, and the GEHC "$250M inflation-driven
   costs / DRAM casualty" mechanism has its receipt: the hyperscalers pay LTA contract prices;
   the GEHCs of the world pay $102/GB spot.
+
+## The parametric census (Jake, ~12:45pm PT): the WHOLE category = 3 SKUs
+- DigiKey in-production DDR5 RDIMM category: **3 listings, ALL Advantech** (makers fully absent):
+  16GB DDR5-6400 $1,274.86 (**$79.68/GB**) | 32GB $2,491.24 (**$77.85/GB**) |
+  64GB $8,492.90 (**$132.70/GB**) — plus the 96GB-5600 at $102.39/GB.
+- **The density premium is INVERTED-STEEP: 64GB carries a 70% per-GB premium over 32GB** (normally
+  ≈flat). Scarcity is worst exactly at the high densities datacenters consume — the AI pull
+  visible in a price curve.
+- SENSOR BASELINE (2026-07-13), formalized:
+  · IN-STOCK/ACTIVE SKU COUNT: 3 (one vendor)
+  · $/GB curve: 16GB 79.7 | 32GB 77.9 | 64GB 132.7 | 96GB(5600) 102.4 — i.e., 15-30x pre-shortage
+  · **DENSITY RATIO (64GB $/GB ÷ 32GB $/GB): 1.70** — the second-derivative sensor: this ratio
+    normalizing toward ~1.0-1.1 = the datacenter pull relaxing = likely the EARLIEST core-crack
+    signal, before absolute prices fall.
+- Monthly re-check: count ↑, $/GB ↓, ratio → 1.0 = the turn marching into the core.
