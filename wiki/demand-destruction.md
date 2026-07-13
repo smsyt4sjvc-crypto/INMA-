@@ -429,3 +429,25 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   is the Earnest Will/Praying Mantis rhyme: escort regime → platform raids/mine ops/boardings.
   Capabilities the 140-site air campaign can't deliver — presence suggests the next rungs (mine
   clearance, platform seizure) are being resourced, not just briefed.
+
+### 2026-07-12 night — 5TH FLEET HQ REPORTEDLY STRUCK; IRGC-chief-killed claim UNVERIFIED
+- DATA (WebSearch triage of Jake's ZH feed): **IRGC missile/drone attack on 5th Fleet HQ (NSA
+  Bahrain/Juffair) = multi-source REPORTED** (IRGC claims via IranWire/AlMayadeen/GulfNews; ZH
+  "reportedly struck"; air-raid sirens Bahrain; Jordan suspended Amman flights). **Damage extent and
+  US casualties UNCONFIRMED — CENTCOM statement is the resolver.** Precedent: Juffair was hit
+  Feb 28 2026 (earlier war round) incl. off-base residential — claims-vs-counterclaims followed;
+  markets did NOT break the crude wall then.
+- ⚠️ UNVERIFIED (single-source InsiderWire): "US strikes killed the IRGC Chief at an underground
+  command center." ⚠️ Also single/low-grade: PAC-3 interceptor depletion claim. ZH headline adds:
+  Iran rejects talks; Mojtaba "vengeance"; Trump "1,000 missiles are locked."
+- Market prints, same hour: **SKHY −10% on Korea exchange** (first Korea session post-listing —
+  the record ADR's buyers near underwater inside 3 days; the SKHY-vs-MU sensor firing day one).
+  **"Goldman IG desk just ended the party"** (ZH headline, article unread — if the IG issuance
+  window is closing, the $194B AI-debt pipe and the listing-cluster bridge both narrow →
+  [[ai-financing-fragility]]).
+- *(THESIS)* Kill-switch status for prediction set #1: **strike leg fully live; casualty leg
+  pending CENTCOM.** Escalation now includes claimed attacks on the US command node itself — but
+  the framework discriminator STILL hasn't printed: no hull stopped, JMIC route open at last check.
+  The Feb-28 precedent says HQ-strike claims alone don't break the $86-91 wall; casualties would
+  be the new input. Watch overnight: CENTCOM statement, crude vs the wall, gold, JMIC, SKHY ADR
+  indication vs the Korea print.
