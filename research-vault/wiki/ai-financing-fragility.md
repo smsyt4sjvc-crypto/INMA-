@@ -148,3 +148,36 @@ Related: [[ai-capex-cycle]], [[market-fragility]], [[concentration]], [[consumpt
   therefore unfalsifiable in real time — it describes every private-credit state right up until the
   realization events. Not evidence of safety; evidence of opacity. Watch items unchanged: evergreen
   monthly flows, PIK share rising, marks vs realized exits, BDC discounts to NAV.
+
+## 2026-07-13 ~2:45am — "Did Goldman just pop the AI debt bubble" (ZH paywalled; reconstructed from fragments)
+### DATA (verifiable pieces)
+- ZH tonight (2 teases + article): "Looks like Goldman IG desk just ended the party" → "'Carnage'
+  In The Hyperscaler Bond Market: Did Goldman Just Pop The AI Debt Bubble." Article chart (Jake's
+  screenshot): hyperscaler bond issuance by currency, **2026 YTD ~$195-200B ≈ 8-9% of ALL IG supply
+  across currencies** — the vault's $194B/9% number, drawn.
+- Search-verified context (M&G/CNBC/Janus/Yahoo, 2026): **$152B issued in the first 4.5 months;
+  ~$300B expected for 2026**; **AI-tagged debt ≈ 15% of the US IG market**; hyperscaler big-5 alone
+  heading toward >5% of the IG index; **Alphabet/Meta paying 10-15bp new-issue concessions**; Q1
+  spreads widening "at levels indicative of lower ratings"; CNBC (Feb): the AI bond binge
+  "shattered the unspoken contract" (cash-rich tech as the IG market's spread anchor). Goldman
+  research (earlier): "More AI capex, more volatility" — consensus implies capex growth decelerating
+  84% (2026) → 22% (2027E ~$920B).
+### THESIS (interpretation — NOT fact; the note itself UNREAD)
+- *(reconstruction, flagged as such)* The most probable content: Goldman's credit/IG desk told
+  clients the market's absorption capacity for hyperscaler paper is exhausted at current spreads —
+  underweight/demand-more-concession — and hyperscaler secondaries repriced wider ("carnage" =
+  spread gapping, most violent in the weakest name = ORCL, CDS already 198). The tell of the year
+  if right: **the UNDERWRITERS' own desk calling the top of the pipe it feeds.**
+- *(why it's the vault's thesis printing)* The IG pipe is the PLUG for FCF-negative capex (BofA
+  Exhibit 6 arithmetic: negative FCF + $1.8T capex = debt by necessity). Window narrows → capex cut
+  OR equity funding: (a) Stage 2 can arrive as a FINANCING constraint, not a demand decision — the
+  bond market cutting the guide for them; (b) the listing cluster becomes load-bearing (Anthropic's
+  October raise = the alternative pipe); (c) ORCL = first casualty candidate.
+- *(the same-weekend convergence — the scissors close from both sides)* Token-spend index −21%
+  (revenue proxy falling) + IG window narrowing (funding pipe tightening) landed the SAME NIGHT.
+  Revenue down + financing constrained + capex consensus still $996B = the three-way collision the
+  whole complex is priced against.
+- ⚠️ Calibration: ZH "carnage" may be tens of bps off 15-year-tight spreads = normalization, not
+  crisis; the Goldman note is unverified secondhand; Goldman desks talk their repositioning book.
+  **Monday tells: IG/hyperscaler OAS, ORCL CDS + new-issue concessions on the next deal, whether
+  any queued AI issuance gets PULLED (a pulled deal = the window closing in public).**
