@@ -15,7 +15,8 @@ grading uses the actual open/close prints Jake pastes.
 ## RUNNING RECORD
 | Date | Set | Dir hits | In-range | Shape call | Notes |
 |---|---|---|---|---|---|
-| 2026-07-12 | [[2026-07-12]] | crude: HIT (Brent +3% vs +3.5% call, in range — despite kill-switch conditions partially live: round 4 + ship attack AT the open) · equities grade Mon | crude: IN | pending Mon | WTI print pending for exact grade; Brent used as proxy |
+| 2026-07-12 | [[2026-07-12]] | ~4/5 (crude HIT under fire; SPX/NDX/SOXX dir HIT; MU dir ok but leg = DOUBLE MISS) | 3/5 IN (60% — too narrow) | MISS (MOC candle killed 'closes better') | Worst leg: MU −0.3%/outperform vs −5.0% actual (SKHY drain + Samsung supply news unmodeled). Process error: stale WTI base. Kill-switch event fired but its predicted magnitudes didn't print. |
+| 2026-07-13 | [[2026-07-13]] | registered 1:20pm PT for Tue 7/14 | — | — | CPI/Warsh/banks/Pickaxe day; 5 pre-registered kill-switch branches; ranges widened per set-#1 lesson |
 
 ## CALIBRATION STATS (updated as sets grade)
-- Sets graded: 0 | Direction: –/– | Range coverage: –% | Kill switches triggered: 0
+- Sets graded: 1 (pending exact SOXX/MU/NDX/WTI prints) | Direction: ~4/5 | Range coverage: 60% (target 80% — ranges too narrow) | Shape: 0/1 | Kill switches triggered: 1 (event fired, magnitude over-predicted)
