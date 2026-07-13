@@ -1158,3 +1158,21 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
 - Scoreboard note (pending Jake's official prints): set #1's MU leg (−0.3%, outperforming SOXX)
   looks MISSED at −5% — grade honestly when prints paste. The registered thesis was overtaken by
   the weekend regime change (kill-switch note already logged).
+
+### 2026-07-13 ~10:45am PT — the memory-cycle CLOCK, made explicit (Jake: "how long do these last?")
+- *(analysis, historical durations — completes the 7/12 cycle-history entry)*
+  **Full cycle: ~4 years peak-to-peak. Upturns: 6-10 quarters. Downturns: 4-8 quarters.** Actuals:
+  2016-trough→2018-peak (~9-10q up) → 2019 trough (~5q down, DRAM −50%, MU stock −55%);
+  2019→2021 peak (~8q up) → 2022-23 (~6q down, all-player losses, Samsung's first cut in 25yrs).
+  **Current upturn: trough ~mid-2023 → now = ~12-13 quarters = the LONGEST modern upturn ever**
+  (AI/HBM-extended). Downturn stock damage historically: MU −45% to −65% peak-to-trough
+  (2000-01 worse).
+- **The stock LEADS the physical cycle by 2-4 quarters** — why record-revenue-falling-stock is the
+  top signature. MU's ATH was $1,255 (late June, the lawsuit day); $930 now = −26%. IF June was the
+  stock top (unproven — the live question), the pattern projects: physical/contract price peak
+  ~Q4-26–Q2-27 → glut trough ~2028-29. Which is where every independent estimate already converges:
+  MU CEO "easing 2028," UBS "undersupplied until Q2-28," Burry's CXMT-2028 short, the vault's supply
+  math ~2029±1, Samsung Yongin arriving 2029. **Five different methods, one window.**
+- Buffers (time, not immunity): LTA/prepay floors route first pain to customers; HBM contracted.
+  Turn-confirmation sensors unchanged: Jake's retail-pricing method (DDR5 in stock + falling),
+  HBM contract cuts, and sharpest — the makers cutting their OWN capex/wafer starts.
