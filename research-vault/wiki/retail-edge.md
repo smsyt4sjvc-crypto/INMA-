@@ -56,3 +56,25 @@ ANTI-LIST: VIX calls (roll decay), levered inverse ETFs (the $430B machine colle
 oil options this week (both wings bid + liquidity tax), panic-selling into halts (the halt QUEUES
 your exit at the worst print). The biggest payment turbulence makes to the prepared is the losses
 they don't take.
+
+## 2026-07-13 ~9:15am PT — TIER-1 EXECUTION MAP (Jake's broker approval; standing constraint)
+Approved (Tier 1): buy-writes, sell/roll covered calls, BUY calls/puts, sell CASH-SECURED puts,
+long straddles/strangles. NOT approved: spreads (Tier 2 — application bounced, 6-mo wait → retry
+~Jan 2027), anything naked (Tier 3+).
+### What this blocks vs the doctrine — almost nothing:
+- Turbulence mechanism 1 (buy cheap index convexity): TIER 1 ✓ (the Dec-745 puts are legal).
+- Mechanism 2 (sell-the-fear CSPs at insider prices): TIER 1 ✓ — the confluence strategy is
+  fully available; CSPs are THE Tier-1 premium trade.
+- Mechanism 3 (GTC equity ladders): no options tier needed ✓.
+- The wheel (CSP → assigned → covered calls above median): ENTIRELY Tier 1 ✓.
+- Blocked: verticals (the oil call-credit spread — which the scan rejected anyway), calendar/
+  diagonal rolls, defined-risk short vol. Real cost = CAPITAL EFFICIENCY (CSPs tie up full
+  collateral vs a spread's width) — not strategy access. Tier 1 forces full collateralization,
+  which IS the assignment-welcome discipline; the constraint and the doctrine agree.
+- Available-but-handle-with-care: long straddles/strangles (Tier 1) — the correlation-snap trade
+  in raw form, but buying BOTH wings only passes doctrine where vol is structurally cheap (index),
+  never into events (IV crush) or war commodities (the oil lesson).
+### Application note (Jan 2027 retry): tier forms gate on self-reported experience/knowledge/
+objectives + account equity. By January: 15 months' history, hundreds of logged trades incl.
+premium selling, a graded prediction scoreboard — answer the questionnaire with THAT record,
+not modesty. Conservative self-description buys conservative approval.
