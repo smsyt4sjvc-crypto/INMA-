@@ -451,3 +451,25 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   The Feb-28 precedent says HQ-strike claims alone don't break the $86-91 wall; casualties would
   be the new input. Watch overnight: CENTCOM statement, crude vs the wall, gold, JMIC, SKHY ADR
   indication vs the Korea print.
+
+### 2026-07-13 ~2:30am — CENTCOM verbatim (primary): new wave, first USV strikes, and the official
+### answer to the closure declaration
+- DATA (CENTCOM statement, Jake paste): new wave completed Jul 12 — "dozens of targets at multiple
+  locations": air-defense systems, coastal radar, missile/drone capabilities, small boats. Platforms:
+  fighters, naval vessels, one-way attack aerial drones, and **one-way attack SEA drones "for the
+  first time."** Framing: response to Iran's attack on commercial vessels; purpose = degrade ability
+  to attack shipping. **"The Strait of Hormuz is a vital maritime corridor for global trade. Iran
+  does not control it."** + "arbitrary declarations" dismissed.
+- **Notably ABSENT: any mention of the 5th Fleet HQ strike or US casualties** — a statement this
+  detailed staying silent on Bahrain is mildly reassuring on the kill-switch casualty leg (casualties
+  would have dominated the release). Still pending explicit confirmation.
+- *(THESIS)* (1) The declaration-vs-function split is now OFFICIAL DOCTRINE on both sides: IRGC
+  declares closed, CENTCOM declares "Iran does not control it" — the market's referee remains the
+  physical layer (JMIC, hulls, insurance), exactly as the framework held. (2) **USV first-use = the
+  Ukraine Black-Sea playbook imported to the Gulf** (cheap attritable sea drones vs small-boat
+  swarms) — the second Ukraine-doctrine import this war (after refinery targeting). (3) Target set
+  (SEAD + coastal radar + swarm attrition) = blinding the anti-ship kill chain systematically — the
+  shape of a SUSTAINED escort campaign, and consistent with the Ocean Trader/mine-ops staging read.
+  (4) For the oil marker: militarily escalatory, commercially de-escalatory — the US is spending
+  ordnance to KEEP the convoy regime priced at ~3pts. Middle band ($79-84) holds as base case
+  absent a stopped hull.
