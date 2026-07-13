@@ -82,3 +82,16 @@ when major evidence lands or resolves. Related: everything — this is the index
 - 2026-07-12: created. Next scheduled re-count: after Warsh testimony + CPI (7/14-15) and TSMC (7/16).
 - 2026-07-12 late: Jake's red-team resolution logged (above) — working posture = both-ways
   conservative until a named sensor fires.
+
+## 2026-07-13 ~3:30am — Jake's capstone synthesis (verbatim in substance, logged as the state of play)
+"Main driver of revenue down [token-spend index −21%], cost of capital up [Friday long-dated
+hyperscaler selloff, Papai ceiling], possible Fed hikes on the horizon [9 dots, 6.2% YTD CPI
+run-rate], an escalating war on energy [US-Iran direct, declared closure, helium], open source
+walked in the front door and out the back — China released, crushed the pricing, then RESTRICTED
+their models. Evolving tech is ruthless."
+- *(analysis — the one sharpening)* The China sequence was a ONE-WAY DOOR by design: the open-weight
+  wave permanently reset the market's price expectation for intelligence (the damage doesn't
+  un-diffuse — techniques and expectations stay), and the enclosure afterward means the WEST'S labs
+  face commodity pricing without ongoing access to the commodity's source. Commoditize-your-
+  complement, then enclose: the strategy cost China one product cycle and cost the US scrip economy
+  its pricing power. All five clauses press on the same point: the $996B consensus.
