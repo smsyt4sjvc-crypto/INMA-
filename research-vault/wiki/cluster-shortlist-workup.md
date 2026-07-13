@@ -105,6 +105,24 @@ Related: [[runner-anatomy]], [[quiet-health-screen]], [[ai-financing-fragility]]
   VSH (failed FCF gate — thesis name, not health name; the screen did its job).
 - **Next: insider pull on the 8 (5 + alternates) + guidance verification before any dollar.**
 
+### 2026-07-12 night — THE MONEY VOTE (insider pull, 90d, Jake's run) — reorders the five
+- **ADT: 5-BUYER CLUSTER, $477K, zero sells** — COO $50.6K + Chief Business Officer $50K +
+  Director Houston $250K (Dan Houston = retired Principal Financial CEO — a professional
+  capital-allocator's personal money) + CMO $25K + Pres Corp Dev $101K, spread 5/12–6/2 (post-Q1
+  open window). Anti-theater PASS (sizes $25-250K vary, dates vary). Grade ~B+/A- (breadth across
+  functions; $477K just under the $500K A-bar). **Promoted alternate → TOP.**
+- **AROC: ZERO buys, $5.9M discretionary sells** — the momentum-cohort signature on the screen's
+  #1: insiders monetizing the compression run. **DEMOTED to watch** (thesis intact, informed money
+  exiting).
+- ADMA: 1 director (Grossman, founder family) accumulating 3x = $250K, no sells. Holds.
+- GPK: 2 directors same-day 5/11 = $354K (Stafeil $200K, Hagemann $154K), no sells. Buying support
+  real; guidance-litigation caveat stands.
+- VZ: $3.5M disc sells / 0 buys (of 53 Form 4s, mostly comp noise) — mild negative, normal mega-cap.
+- USAC / AMPH / BLKB: silent (no buys, no disc sells) — no confirmation either way.
+- **REVISED FIVE: 1) ADT (cluster + bond-like FCF + $6.71 entry) 2) ADMA 3) GPK (caveat)
+  4) USAC (compression thesis w/o AROC's selling) 5) VZ or AMPH (ballast vs cheapest-multiple).**
+  Next: E-path + actual guidance language on ADT/ADMA/GPK before any dollar.
+
 ### 4. Watch pile (B-/C+): ACM (-50% on de-rating while adj guidance RAISED — but GAAP/adj wedge widening
 and Q1 FCF negative: earnings-quality question first), AMRZ (fine spinco, housing-soft, guidance growing,
 13 months of history), ROCK (11x forward IF guidance holds; solar-exit charges muddy everything),
