@@ -901,6 +901,34 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   itself a drag on the index bid — the supply must be paid for out of the same pool buying the
   secondary market. Jake's "predicting while they're preparing": the preparation is now VISIBLE —
   it's the S-1 queue.
+
+### 2026-07-12 eve — Samsung PULLS FORWARD the supply wave: Yongin fab #1 to 2029 (from 2030-31)
+#### DATA (`raw/2026-07-12-samsung-yongin-accel-honam.md`, ChosunBiz 7/12)
+- **Yongin fab #1 accelerated to 2029** (1-2 yrs early); 6 fabs planned, **up to 360T won (~$260B)**;
+  land bought (LH contract Dec-25), compensation underway — this is CONTRACTED, not announced.
+- **+ June 30: 425T won (~$310B) Honam announcement, ~400T won = two Gwangju fabs**, sequenced
+  after Yongin. Combined ~$570B+ of domestic Korean wafer capacity. Stated reason: "rapidly growing
+  global semiconductor demand."
+- ⚠️ Gwangju leg = announcement-layer (political-region flavor, multi-decade aggregate — the
+  MU-$250B genre). The Yongin ACCELERATION is the hard datapoint.
+#### THESIS (interpretation — NOT fact)
+- *(the cycle mechanism, executing on schedule)* Shortage → 75-80% margins → every producer
+  accelerates capacity → the wave lands together → glut. Samsung pulling fab #1 forward 1-2 years
+  moves the glut clock EARLIER: Samsung 2029 + CXMT closing fast + MU's $250B + SKHY's fresh $26.5B
+  war chest = the 2029-31 supply wave is now enormous AND arriving sooner. Burry's terminal-value
+  short and the "shortage to 2030 = top talk" flag both gain fuel — the industry is building the
+  next glut at record speed while quoting eternal demand.
+- *(the siting satire, Samsung edition)* ~$570B ALL domestic wafer-layer, zero US — the Kwak
+  criteria applied by the biggest player (SKH pattern: physics layer home, photo-op layer abroad).
+  Every won reinforces the memory-tariff logic (designated-champion umbrella) — and a tariff would
+  be the political response that reprices the whole complex overnight.
+- *(funding arithmetic ties the listing cluster)* $570B of capex needs financing; SKHY just showed
+  the route (record US raise at peak enthusiasm). If Samsung follows with a US listing, Jake's
+  "racing" question answers itself — the second crown jewel sprinting for the window. Watch
+  banker-mandate leaks.
+- *(SKHY flow note)* Samsung accelerating supply is marginally BEARISH the pure-HBM scarcity story
+  SKHY just sold $26.5B of — announced two days after the listing priced. The sellers' timing keeps
+  being exquisite.
 - **TSMC Q2 Thursday ~7/16 = the Stage-2 sensor of the week:** watch (1) 2026 revenue-growth and
   CAPEX guide revisions (UP = trigger further away; flat/down = first crack), (2) the price-hike hint
   ("would like to raise prices" — foundry pricing power = another cost-push leg), (3) AI-demand
