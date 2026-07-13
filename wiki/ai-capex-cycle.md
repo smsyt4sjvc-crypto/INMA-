@@ -1094,3 +1094,32 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
 - *(cross-links)* Bottleneck/Sieyuan implications → [[buildout-bottleneck-map]] 7/12 section (relief
   valve watch: CFIUS/tariff action = re-tighten; tolerance = scarcity premium leaks). Political ratchet
   refinement lives there too (phantom vs real-project NIMBY).
+
+### 2026-07-13 ~3:45am — Jake's pincer hypothesis: China release-restrict + NVDA open-source = coordinated?
+- *(user's thesis)* China released frontier-capable open models into the US "for like two weeks,"
+  undermined the token economy, then restricted them — a deliberate strategic strike on US token
+  pricing/infrastructure. Possibly "in cahoots" with NVDA: around the same window NVDA regained
+  China chip access (post-summit, as-reported), and NVDA is now pushing new open-source
+  infrastructure. Timeline smells coordinated.
+- *(analysis — split the claim)* LEG 1, China deliberateness: ALREADY the vault's standing read
+  (7/7 entry: "commoditize your complement, then enclose" — Phase 1 open-weight the near-frontier,
+  crush Western token economics, irreversible; Phase 2 enclose the frontier as a strategic asset).
+  Deliberate industrial policy: LIKELY. The release-restrict sequence is too clean for accident,
+  and the damage profile (defunds US frontier training via scrip-revenue destruction) is exactly
+  what an asymmetric-cost strike would target.
+- *(analysis — LEG 2, NVDA coordination: UNNECESSARY and dangerous-to-hold without evidence)*
+  The observations are fully explained by **a pincer without a plan**: two actors squeezing the
+  same target (US lab margins) for independent reasons — China wants strategic parity + to defund
+  US frontier training; NVDA wants the model layer commoditized so margin pools at silicon
+  (tonight's margin-redistribution thread). Aligned incentives coordinate BEHAVIOR without any
+  meeting — same lesson as BofA's both-sides incoherence: institutions talking their books produce
+  what looks like a plot. Against cahoots: NVDA's order book IS the US labs/hyperscalers; active
+  collusion with Beijing against them = existential legal/political risk for a US-jurisdiction
+  company already under export-control scrutiny.
+- **FALSIFIERS / what would upgrade cahoots from vibe to finding:** (1) NVDA day-one deep
+  optimization partnerships with the restricted Chinese labs; (2) chip-access approvals timed
+  provably to model release/restrict events; (3) Chinese restrictions carving out NVDA-linked
+  deployments; (4) any investigation surfacing model-layer quid pro quo. Absent those, hold the
+  pincer-without-a-plan version.
+- ⚠️ As-reported, unverified by vault: the specific summit/chip-access event and NVDA's newest
+  open-source infrastructure release — verify tomorrow before weighting.
