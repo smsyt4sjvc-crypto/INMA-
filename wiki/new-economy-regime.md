@@ -561,3 +561,28 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   sharpened: hot CPI now lands on a market pre-warned of hikes — less surprise premium on the
   hawkish branch, MORE on the dovish (a soft print now moves further than a hot one). Watch
   Warsh's distance from Waller under oath.
+
+## 2026-07-13 ~1:15pm PT — the WALCL chart + Waller's defense: the two-handed policy, quantified
+### DATA (FRED WALCL chart, Jake upload + ZH flash)
+- **Fed total assets: QT trough ~$6.53T (Dec-2025) → ~$6.73T now = +$200B in ~7 months ≈
+  +$29B/month ≈ $350B/yr pace.** The decline stopped cold at year-end 2025; steady climb Feb→Jul
+  2026 (with a year-end TGA/repo spike artifact at Jan-1). This DETAILS the Act-3 line ("QT looks
+  done") — it's not done, it's REVERSED.
+- Same hour: **WALLER: "NOT OBVIOUS OUR BALANCE SHEET CAUSING PROBLEMS"** — defending the
+  expansion — while ALSO saying "near-term hike possible" (gold −3%).
+### THESIS (interpretation — NOT fact)
+- *(the two-handed policy, now in one frame)* Hike talk with the RATE hand; +$29B/month with the
+  LIQUIDITY hand. Tightening the PRICE of money while growing its QUANTITY = the fiscal-dominance
+  signature: $2.99T/yr of Treasury issuance (+ the AI IG wave) needs an absorber, and reserve
+  scarcity broke repo in 2019 — so the balance sheet CANNOT shrink, and all "tightening" must be
+  performed by the rate tool alone. The debasement base case doesn't need the valve to open;
+  the quantity hand is already easing while the price hand talks tough. "Inflation is the policy,"
+  hawkish face edition.
+- *(the Warsh irony for tomorrow)* Warsh built his reputation as THE balance-sheet hawk (years of
+  op-eds against QE bloat) — he now presides over renewed expansion his own governor defends as
+  harmless. Under-oath question to watch Tue/Wed: anyone forcing Warsh to reconcile hike talk with
+  +$350B/yr of balance-sheet growth. His answer (or dodge) = the third-exit tell in miniature.
+- *(market mechanics)* The Feb→Jul climb IS the "not-QE" liquidity under the melt-up (Act-3 fuel):
+  detachment-bid supportive near-term, debasement-confirming long-term. Watch: whether the pace
+  accelerates when the AI-IG issuance wave meets the Papai ceiling — the Fed as the marginal
+  absorber of last resort is the endgame branch.
