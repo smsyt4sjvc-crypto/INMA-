@@ -181,3 +181,28 @@ Related: [[ai-capex-cycle]], [[market-fragility]], [[concentration]], [[consumpt
   crisis; the Goldman note is unverified secondhand; Goldman desks talk their repositioning book.
   **Monday tells: IG/hyperscaler OAS, ORCL CDS + new-issue concessions on the next deal, whether
   any queued AI issuance gets PULLED (a pulled deal = the window closing in public).**
+
+### 2026-07-13 ~3am — CONFIRMED: the Papai quote (GS FICC, via Jake)
+- DATA (quote): **"The messaging from credit investors is increasingly clear that it will be very
+  difficult to fund another $360bn in the next 12mo in the same manner." — Jeffrey Papai, GS FICC.**
+  ZH gloss: window shut while hyperscalers need ~$1T next year.
+- *(analysis — why this beats a strategist note)* FICC DESK color = the buyers speaking through the
+  desk that takes their reverse inquiries. Not an opinion about demand — a RELAY of stated demand.
+  The underwriting pipe reporting its own capacity ceiling.
+- *(analysis — "IN THE SAME MANNER" is the load-bearing phrase)* The window isn't shut absolutely;
+  it's shut for SENIOR UNSECURED IG AT TIGHT SPREADS. The funding mix must now migrate down the
+  ladder: (1) pay up (concessions/wider spreads) → (2) private credit/SPVs (Meta-Hyperion pattern)
+  → (3) data-center ABS/RVG structures → (4) vendor financing (NVDA stakes = already live) →
+  (5) EQUITY (the listing cluster: SKHY done, Anthropic Oct) → (6) buyback cuts → (7) the capex
+  guide cut (Stage 2). **The 2000-telecom rhyme, exact: when public bonds shut to carriers, vendor
+  financing exploded, then collapsed. Funding-mix migration IS the countdown clock — each rung is
+  more expensive, more fragile, and more visible than the last.**
+- *(calibration on Jake's "$1T need")* The strong five's OCF ≈ their capex (capex/OCF 93-95%) —
+  their raw need is the buyback+gap slice, and they hold the buyback-cut lever (equity-negative,
+  credit-positive). The $360B+/12mo pipe matters most to the WEAK links: ORCL, neoclouds, the
+  OpenAI obligation chain — no OCF cushion, all pipe. Differentiation trade: the desk's ceiling
+  hits BBB-tier AI credit first, megacap AAA/AA last.
+- **WATCH (the migration ladder as sensor):** private-credit/SPV share of new AI financing rising;
+  DC-ABS issuance pace; sale-leasebacks; NVDA vendor-finance expansion; buyback reductions in
+  hyperscaler prints (starts Tuesday w/ banks, then tech late July); any PULLED deal. Each rung
+  climbed = one step closer to the guide cut.
