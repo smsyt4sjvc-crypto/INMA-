@@ -217,3 +217,15 @@ Full S&P 1500, price-first. 89 survivors (`raw/2026-07-13-broad-value-screen-out
   ADNT 19.96 (20.7% yield/6.1x), alternates FLO (verify the collapse to $8.34), AVNT, SW, AMPH.
 - Method note: "positive forward guidance" gate = consensus proxy (wedge risk); finalists get
   actual guidance sentences via Jake's Perplexity delegation before verdicts. Insider pull next.
+
+### 2026-07-13 ~1:30am — money vote on the broad-screen 12 (Jake's run, 90d)
+- **PYPL: CFO Jamie Miller $254,537 discretionary buy 6/16** — the operator who sees payment volume
+  daily, buying at ~8x/10% FCF yield. Single buyer but top of the Form-4 hierarchy. PROMOTED to #1.
+- **FLO: CFO Scaglione $37,542 buy 6/10** — small, but the CFO buying the collapse to ~$8. Story
+  check required (GLP-1/private-label squeeze? dividend safety?) before it counts.
+- **AR: $1.55M discretionary sells, zero buys** — energy insiders monetizing the war-gas run (the
+  AROC pattern repeating across the complex). DEMOTED.
+- Mild sells: DLB $648K, GNTX $631K, ADNT $515K (no support); PFE $51K (trivial at its size).
+- Silent: LKQ, ABM, WS, MAT, AMPH — fundamentals stand unaided.
+- **Post-vote order: 1) PYPL 2) WS 3) LKQ 4) ABM 5) MAT/AMPH; FLO pending story; PFE neutral;
+  AR/GNTX/DLB/ADNT demoted.** Next: Jake delegates guidance-sentence pulls (Perplexity) on the top 6.
