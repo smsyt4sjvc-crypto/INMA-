@@ -229,3 +229,32 @@ Full S&P 1500, price-first. 89 survivors (`raw/2026-07-13-broad-value-screen-out
 - Silent: LKQ, ABM, WS, MAT, AMPH — fundamentals stand unaided.
 - **Post-vote order: 1) PYPL 2) WS 3) LKQ 4) ABM 5) MAT/AMPH; FLO pending story; PFE neutral;
   AR/GNTX/DLB/ADNT demoted.** Next: Jake delegates guidance-sentence pulls (Perplexity) on the top 6.
+
+### 2026-07-13 ~2am — guidance verification (Jake's Perplexity delegation) — FINAL GRADES on the broad-screen six
+- **ABM — A-/B+, THE WINNER of the whole broad screen.** FY26 guide REAFFIRMED 6/5 ($3.85-4.15 adj
+  EPS, leverage <3x by year-end); cleanest profile of the six: no litigation, no departures,
+  dividend intact. Labor-intensive = AI-immune. 10.9% FCF yield / 10.2x. Matches Jake's spec best.
+- **LKQ — B+.** Adjusted guide REAFFIRMED 4/30 (EPS $2.90-3.20, FCF $700-850M); GAAP cut =
+  Mekonomen impairment only. Class action (filed 4/22/26, FinishMaster disclosures 2023-25) =
+  backward-looking; strategic-alternatives review (Jan 2026) = optionality. Trade-down aligned.
+- **MAT — B.** Guide "maintained" — ⚠️ but the apparent EPS raise ($1.18-1.30 → $1.27-1.39) is a
+  NON-GAAP RECAST (excluding acquired-intangible amortization), not an economic raise. Caught by
+  verification; the headline would have read as a raise.
+- **PYPL — RECLASSIFIED, fails the spec.** Actual guidance = 2026 EPS DECLINING (GAAP mid-single
+  down; non-GAAP flat-to-slightly-up vs $5.31) — the screen's fwd>trail was the WEDGE again (third
+  catch). Plus filed class action (branded checkout, Mar 2026) + CEO replaced (Chriss → Lores
+  3/1/26). Still interesting as a 10%-FCF-yield buyback machine with a $254K CFO buy — but that's
+  a capital-return thesis, NOT "positive forward guidance." Different shelf.
+- **WS — B-, and ⚠️ CORRECTION (firewall rule 4): my 7/13 tag "WS = the GOES/transformer thesis
+  under $50" was WRONG.** Worthington's electrical steel = motor laminations (industrial/auto) —
+  and they took **$94.5M of electrical-steel impairments** on weak motor demand, foreign
+  competition, delayed auto launches. Their electrical-steel leg is being IMPAIRED, not boomed;
+  transformer GOES remains CLF. Also: no numerical FY27 guide (unverifiable gate), Kloeckner
+  integration risk, law-firm inquiry, controller retired. Tag corrected, thesis withdrawn.
+- **FLO — B-/C+, fails "great financials."** Guide reaffirmed BUT **dividend already CUT ~50%**
+  (.2475→.125, to deleverage) — that's the $8.34. Sales guided −1.8% to +0.2%. New CFO (1/1/26)
+  buying $37K = betting on his own reset. Turnaround shelf, not the quality shelf.
+- **NIGHT'S CONSOLIDATED FIVE (both screens, full pipeline): ADT (B+, cluster), ABM (A-/B+),
+  LKQ (B+), USAC (unworked — needs the ADT treatment), MAT (B).** B-team: PYPL (capital-return
+  shelf), GPK (Aug binary), AMPH (silent, cheap). Verification layer caught 4: PYPL wedge, MAT
+  recast, WS impairment vs my tag, FLO's already-cut dividend.
