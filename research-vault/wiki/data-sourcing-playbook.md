@@ -196,3 +196,20 @@ is the load-bearing bridge. Expect the survivor table empty most weeks; the reje
   the [[cluster-shortlist-workup]] names where activism is the fix-it path: FISV/Jana, post-Starboard
   ADSK). A quiet management-friendly tilt in regulation, consistent with the champion-protection
   pattern — held loosely.
+
+## 2026-07-13 ~9am PT — LangChain ships "OpenWiki Brains" = the vault's architecture, productized
+- DATA: LangChain OSS release — "general-purpose wiki memory for agents": local markdown wiki,
+  agent-maintained, connector-fed (Gmail/Notion/git/X/HN/web), scheduled background updates,
+  filesystem-first. Their pitch = proactive memory vs the reactive built-in kind.
+- *(analysis — validation + the deliberate divergence)* The vault IS this architecture, built by
+  hand, plus the layers their version lacks: the DATA/THESIS firewall, corrections-stay-visible,
+  pre-registration, the graded prediction scoreboard, source-independence calibration. **We do NOT
+  adopt their headline feature — automatic connector ingestion — on doctrine:** (1) the standing
+  no-unattended-jobs spending rule; (2) more fundamentally, auto-ingestion pipes the FEED'S noise
+  straight into the brain — this weekend alone the manual gate caught helium-supply inversion,
+  "Hormuz closed" inflation, a stale UAE claim, and a fake 155% FCF yield BEFORE they entered the
+  wiki. **The vault's value is the curation and verification at the door, not the plumbing behind
+  it.** Jake curates what enters; that's a feature, not missing automation.
+- *(thesis crumb)* Agent memory commoditizing as OSS markdown (LangChain now, "Open Knowledge
+  Format" namechecked) = the interop thread again: own your memory like you own your weights —
+  local files + git beat platform lock-in. The vault was accidentally ahead of the category.
