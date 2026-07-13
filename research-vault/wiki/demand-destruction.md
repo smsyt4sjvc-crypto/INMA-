@@ -636,3 +636,15 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   toll-not-drill-bit logic at the geopolitical layer. Watch: GCC sovereign statements on
   "security cost sharing," Fujairah/pipeline capex announcements, war-risk premium quotes vs
   the two protocols' implied prices.
+
+### 2026-07-13 ~1:45pm PT — FLASH: Trump NOTIFIES CONGRESS of "new war" against Iran (Politico)
+- DATA: War Powers notification to Congress (Politico framing: "new war"); Pickaxe repeated
+  ("relatively soon"); Iran-targets question deflected.
+- *(THESIS)* (1) The WPR paper formalizes a CAMPAIGN, not raids — consistent with the sustained-
+  escort/SEAD/USV posture and the Duqm staging. (2) **It starts the 60-day War Powers clock: a
+  congressional authorization fight lands ~mid-September** — colliding with the September FOMC,
+  the pre-midterm ramp, and (per the suppression thesis) the exact window the administration
+  wants pump prices falling. A NEW named calendar item. (3) "New war" notified the afternoon
+  before CPI + Warsh = the fiscal-cost thread activates (campaigns are appropriations; the $1.2T
+  interest bill meets a war budget). (4) Near-term: Pickaxe = likely tonight's telegraphed
+  "hard" strikes — inside the straddle window, as positioned.
