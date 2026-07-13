@@ -20,3 +20,20 @@ nothing purchasable.
   forever. The LIVING gauge = DigiKey parametric search ("DDR5 RDIMM, in stock"): record the
   IN-STOCK SKU COUNT + median unit price monthly (today ≈ 0). Shelf relights = shortage breaking.
   Consumer leg: Newegg 32GB DDR5 UDIMM kit, in-stock count + price, same cadence.
+
+## The LIVE datapoint (Jake, ~12:30pm PT): Advantech SQR-RD5N96G5K6SRUB
+- 96GB DDR5-5600 RDIMM, part status ACTIVE, available-to-order (NOT stocked; 8-wk mfr lead),
+  **$9,829.74/unit = $102.39/GB.**
+- Context math: pre-shortage server DDR5 ≈ $3-5/GB (a 96GB RDIMM ~$300-450). Consumer shortage
+  pricing (vault, 7/01): 32GB DDR5 $80→$375 ≈ $11.7/GB (~3-4x). **This listing = ~20-30x
+  pre-shortage, ~9x above even consumer-shortage pricing.**
+- ⚠️ Channel caveat: Advantech = industrial/embedded reseller — low-volume desperate-buyer pricing
+  with fat markup, NOT maker contract pricing. That's the point: this is the MARGINAL,
+  UNCONTRACTED buyer's price — the spot end of the two-tier market.
+- **SENSOR BASELINE SET: server-DRAM spot-distribution = $102/GB, 8-wk lead, zero stock
+  (2026-07-13).** The turn = this class compressing toward ~$5-15/GB and/or stock reappearing.
+- *(vault connection — the receipt for GEHC's guidance cut)* WHO buys through this channel:
+  industrial/medical equipment makers — imaging systems, test gear — the uncontracted buyers.
+  Hammack's "will pay almost any price" has a shelf tag now, and the GEHC "$250M inflation-driven
+  costs / DRAM casualty" mechanism has its receipt: the hyperscalers pay LTA contract prices;
+  the GEHCs of the world pay $102/GB spot.
