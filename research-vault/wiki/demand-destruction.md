@@ -402,3 +402,30 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   freezes post-attack — proceeding = both sides preserving the exit; freezing = the last money door
   closing. Also the standing caveat: ZH assembling a month-old exclusive under a same-day claim is
   the headline-inflation pattern — the DATA is the June Reuters story, not tonight's framing.
+
+### 2026-07-12 eve (3) — DUQM: Iran strikes the MEDIATOR's port; SOF mothership staged there (OSINT)
+- DATA (verified AlJazeera/Wikipedia/Tasnim-via-aggregators + MT_Anderson OSINT): **IRGC ballistic-
+  missile strike on "logistics support centers and refueling platforms for US aircraft carriers" at
+  Duqm port, Oman — IRGC's declared "third phase," the FIRST Iranian strike on Omani territory.**
+  Oman condemned it — **hours after hosting Iran's foreign minister for Hormuz security talks.**
+  Satellite/OSINT: USS Abraham Lincoln CSG Ospreys at Duqm airport; **MV Ocean Trader (MSC special-
+  operations mothership) imaged at Duqm** in the days prior (MT_Anderson, FIRMS thermal + sat;
+  single-analyst source, coordinates given). ⚠️ Single-source (TechTimes): Iranian missiles using
+  **BeiDou guidance defeating US GPS-jamming** — unverified, but if true = Chinese nav hardware in
+  the war loop.
+- *(THESIS — the outside-the-strait logic, the night's most strategic datapoint)* Duqm exists to be
+  the US Navy's port that DOESN'T need Hormuz — the workaround node for exactly this war. Iran
+  striking it says the campaign logic is "no sanctuaries, no bypasses": target the alternative
+  infrastructure, not just the chokepoint. **Extension to watch: FUJAIRAH** — the UAE's outside-
+  strait oil terminal (ADNOC pipeline bypass + bunkering hub). Duqm logic applied to Fujairah = a
+  direct uncapping vector that doesn't require closing Hormuz at all.
+- *(the mediator strike = off-ramp damage)* Oman IS the vault's named diplomatic track (helium/
+  Qatar restart conditional on it; the ceasefire channel). Striking Omani soil hours after Muscat
+  hosted Iran's FM = either IRGC operating independently of the diplomats (regime incoherence —
+  hardliners torpedoing their own track) or a deliberate no-sanctuary message at the mediator's
+  expense. Both readings NARROW the off-ramp. Paired with the UAE-funds watch above: the two exit
+  doors (Omani diplomacy, Emirati money) both took damage tonight.
+- *(Ocean Trader = the 1988 toolkit assembling)* A SOF mothership staged at the outside-strait hub
+  is the Earnest Will/Praying Mantis rhyme: escort regime → platform raids/mine ops/boardings.
+  Capabilities the 140-site air campaign can't deliver — presence suggests the next rungs (mine
+  clearance, platform seizure) are being resourced, not just briefed.
