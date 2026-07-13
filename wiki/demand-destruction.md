@@ -580,3 +580,27 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   tightens toward the true uncapping.
 - DISCRIMINATOR: terminal/tank fires + loaded-tanker AIS scatter off Larak = doctrine shift;
   military-site secondaries = more of the same. Watch crude into the 1:30pm PT NYMEX close.
+
+### 2026-07-13 ~12:45pm PT — THE TOLL CONVERGENCE: Araghchi accepts the PRINCIPLE; Trump pre-announces
+### "hard" strikes tonight/tomorrow; Kerch Strait degrading in parallel
+- DATA: **Iran FM Araghchi, verbatim response to the 20%: "POTUS is absolutely right. Whoever
+  provides secure and safe passage... should be compensated for this service. Iran has always been
+  the guardian of the Strait and will remain so forever. 20% is of course too much. We will be
+  fair."** Same feed: **TRUMP: US will hit Iran "HARD" tonight and tomorrow; "we'll give PICKAXE a
+  shot relatively soon"** (new operation codename, unidentified). Windward: **Kerch Strait Jul
+  10-13 "not closed but not normal" — 36 crossings vs 53 stuck-vessel-days, 35 GPS-jamming events.**
+- *(THESIS — the negotiation just changed its unit of account)* Araghchi's reply is diplomatic
+  aikido: ACCEPT the toll principle, CLAIM the guardian title, UNDERCUT on price ("we will be
+  fair"). Both belligerents now publicly agree the strait is a monetizable security service — the
+  dispute has shifted from OPEN-vs-CLOSED (unsplittable, sovereignty) to WHOSE TOLL AND WHAT RATE
+  (splittable, money). **That is the first off-ramp with a visible SHAPE: rates can be negotiated,
+  split, escrowed, Oman-administered; flags cannot.** Two protection rackets bidding against each
+  other for the same traffic is darkly comic and genuinely de-escalatory for FLOW. The post-WW2
+  freedom-of-navigation doctrine died rhetorically on both sides in one news cycle.
+- *(negotiate-while-bombing)* Trump pre-announcing "hard" strikes tonight/tomorrow = pressure
+  bargaining on the RATE — and schedules war escalation directly INTO the CPI morning (the
+  straddle's window now contains telegraphed strikes + CPI + Warsh + banks). Watch: any Oman-track
+  language about a "security fee" mechanism = the premium deflates fast.
+- *(the second strait)* Kerch degrading simultaneously (jamming, stuck vessels) = chokepoint
+  stress going SYSTEMIC — marine insurance/freight repricing globally, not regionally. The
+  chokepoint-toll era arriving on two seas at once.
