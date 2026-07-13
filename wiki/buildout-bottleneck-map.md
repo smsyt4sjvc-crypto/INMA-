@@ -267,3 +267,17 @@ DATA: `raw/2026-07-12-semianalysis-dc-cancellation-debunk.md` (SemiAnalysis 6/18
   (nomination-pattern risk applies). Watch: helium spot/contract prices, fab cost commentary in
   TSM/ASML earnings THIS WEEK, whether Qatar's plants restart post-any-ceasefire (the fastest supply
   fix = the Oman track succeeding).
+
+## 2026-07-13 ~9:15am PT — tokenized EQUITY goes live ahead of the law (interop/money-pipe thread)
+- DATA: `raw/2026-07-13-tokenization-securitize-lilly.md`. Securitize IPO + $300M of its own shares
+  issued AS tokens (token = the share, blockchain = the register, DTCC bypassed); Robinhood L2
+  live; Ondo custodial version; CLARITY Act final text due this week; DeFi lend/borrow against
+  tokenized shares on the disclosed roadmap.
+- *(THESIS, brief — flagged for the full treatment later)* Three vault hooks: (1) the Circle-OCC/
+  x402 money-pipe thread extends to the EQUITY layer — the interop toll migrating from payments to
+  securities plumbing; (2) **a new leverage channel outside the regulated perimeter**: self-custodied
+  shares in DeFi lend/borrow pools = margin the Fed can't see and can't bail (Vector 11's cousin);
+  (3) **Hamilton Lane is a Securitize client** — the HLNE battleground name is a tokenization
+  first-mover (cuts both ways for the short report thesis). Herd-before-the-law = detachment-bid
+  texture. CLARITY Act text this week joins an already stacked calendar. PARKED for deeper work
+  on Jake's word.
