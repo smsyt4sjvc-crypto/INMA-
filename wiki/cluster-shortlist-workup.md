@@ -75,6 +75,36 @@ Related: [[runner-anatomy]], [[quiet-health-screen]], [[ai-financing-fragility]]
 - The bet is gas prices + a first data-center deal + CEO resolution — macro/catalyst, not E-recovery.
   Insiders (interim CEO + directors) buying is real but modest. Earnings Aug 4.
 
+## 2026-07-12 late — the UNDER-$50 AI-PROOF SCREEN (Jake's spec: healthy + bull-aligned + positive fwd guidance + px<$50)
+### DATA (65-name vault-seeded universe, yfinance gates: px<50, profit, FCF+, revG≥0, fwdEPS>trailEPS)
+- **PASSED (11):** HPE 48.54 (⚠️trap tag), UPWK 8.82, BLKB 29.59, AMPH 18.72, USAC 26.48, ADMA 9.08,
+  AROC 38.53, VZ 42.12, ADT 6.71, GPK 10.28, VRRM 4.12.
+- **THE RAILROAD WALL (meta-finding):** nearly the entire durable/bottleneck layer failed ONLY on
+  px<$50 — GNRC 234, POWL 232, CW 755, FIX 1756, PWR 659, STRL 682, VICR 272, ENS 206, GLW 191,
+  FLEX 136, ESE 329, KGS 68, FCX 61.5. **The market has already repriced the railroad layer above
+  Jake's price gate** — consistent with the bottleneck map's REPRICED tags. The un-repriced railroad
+  corner under $50 = GAS COMPRESSION (AROC/USAC).
+- ⚠️ Artifact (gate contamination): yfinance fwdEPS = ADJUSTED consensus vs trailingEps = GAAP →
+  "fwdE_growth%" partly measures the GAAP/adjusted wedge, not guidance (VZ's "28%," BLKB's "99%,"
+  UPWK's "116%" all inflated). Finalists need actual company guidance language verified.
+- **VRRM verified (WebSearch): REAL crash −83%/12mo, $4.15, CEO resignation + securities class
+  action + $1.4B loss** — the FISV governance-vacuum pattern; stale estimates make it look 4x. TRAP.
+### THE FIVE (analysis — Jake's spec applied; sizing his)
+1. **AROC 38.53** — railroad-compression: contracted gas-compression fleet, +30% fwd, 16x. The last
+   cheap railroad corner; gas-to-power for DCs without the E&C multiple.
+2. **USAC 26.48** — same thesis, 35% revG, bigger yield. ⚠️ MLP: K-1 tax form, heavy leverage —
+   the levered twin of AROC; pick one or split.
+3. **ADMA 9.08** — plasma biologics: +16% revG, profitable, FCF+, fully AI-orthogonal (plasma can't
+   be AI'd). Ignition-cohort provenance.
+4. **AMPH 18.72** — generics at 6.2x fwd: drug-shortage beneficiary, AI-orthogonal, real E.
+5. **VZ 42.12** — ballast slot: ~8x, big dividend, AI-orthogonal cash; honest note — the "+28%" is
+   the wedge, real E ~flat; a rate-cut/valve-branch beneficiary (heavy debt reprices down).
+- Alternates: GPK 10.28 (confluence hit BUT guidance is literally the subject of a class action),
+  ADT 6.71 (bond-like), BLKB (verify wedge + leverage). Excluded: HPE (E IS the capex cycle —
+  fails AI-proof by construction), VRRM (governance trap), UPWK (AI-displacement contested + wedge),
+  VSH (failed FCF gate — thesis name, not health name; the screen did its job).
+- **Next: insider pull on the 8 (5 + alternates) + guidance verification before any dollar.**
+
 ### 4. Watch pile (B-/C+): ACM (-50% on de-rating while adj guidance RAISED — but GAAP/adj wedge widening
 and Q1 FCF negative: earnings-quality question first), AMRZ (fine spinco, housing-soft, guidance growing,
 13 months of history), ROCK (11x forward IF guidance holds; solar-exit charges muddy everything),
