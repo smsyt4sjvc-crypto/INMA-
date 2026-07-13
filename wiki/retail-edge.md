@@ -78,3 +78,20 @@ long straddles/strangles. NOT approved: spreads (Tier 2 — application bounced,
 objectives + account equity. By January: 15 months' history, hundreds of logged trades incl.
 premium selling, a graded prediction scoreboard — answer the questionnaire with THAT record,
 not modesty. Conservative self-description buys conservative approval.
+
+### 2026-07-13 ~9:30am PT — first CSP scan (Jake's run): the liquidity finding + the PFE unicorn
+- DATA: of 15 vetted names, ONLY ADSK/GEHC/PFE returned sellable ~2wk puts. **The entire cheap-
+  stock roster (ADT, GPK, AMPH, MAT, FLO, LKQ...) printed NOTHING — no bids on short-dated OTM
+  puts.** Standouts: **PFE 7/24 $24P: bid $0.28, collateral $2,400, 38.7% annualized, OI 5,090,
+  IV/RV 1.21, breakeven $23.72.** GEHC 7/24 $65P: $0.80, 40.8% ann, $6,500 coll, breakeven $64.20
+  (the insider band); note 7/24 expiry lands BEFORE Jul-29 earnings. GEHC spot $65.79 (up on the
+  day). No IV/RV < 0.9 anywhere = no cheap vol in the single-name universe (the cheap vol remains
+  the SPY correlation discount, already owned).
+- *(analysis)* (1) **The empty rows are the finding: small-collateral + short-dated + liquid = pick
+  two.** Cheap stocks' option books only exist at 30-45d monthlies — under-$25 CSPs require the
+  longer tie-up Jake wanted to avoid. (2) PFE = the one row satisfying every stated constraint —
+  the doctrine-clean starter CSP (mega-cap, liquid, screen-passed at 8.5x, assignment = owning PFE
+  at $23.72). (3) GEHC $65P = a PAID limit order for the second-half add at $64.20 (≈ Lobo's px),
+  with the expiry dodging the earnings event — sell-the-fear at the insider band without holding
+  the short put through the print. (4) Deep-OTM IV/RV 1.6-1.9 on pennies (ADSK wings) = skew
+  inflation, not income — ignore. Sizing Jake's, as ever.
