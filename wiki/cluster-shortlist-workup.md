@@ -51,6 +51,20 @@ Related: [[runner-anatomy]], [[quiet-health-screen]], [[ai-financing-fragility]]
   tech + existing recycling programs. **Q2 call watch list: (1) H2 margin mitigation on track,
   (2) HELIUM cost/supply commentary, (3) China stabilization/stake-sale, (4) Amneal/PDx share
   defense, (5) Allia AI upgrade attach rates.**
+- *(2026-07-12, Jake's Q: AI surpasses humans at imaging — displacement risk to the field?)*
+  **Displacement hits the LABOR layer (radiologists), not the equipment/consumables/software layer
+  — GEHC sells COMPLEMENTS to AI reading.** When interpretation gets cheap, scan volume rises
+  (imaging demand is rationed today by radiologist scarcity/cost — screening programs, emerging
+  markets with no radiologists = unmet demand). More scans = more machines + more PDx contrast +
+  more service + more Allia software. You can't AI-read a scan never taken; GEHC owns scan
+  PRODUCTION. Precedent: Hinton 2016 "stop training radiologists" — radiologist demand/pay ROSE
+  for a decade after (Jevons + liability keeps humans in loop as supervisors = the HITL
+  consolidation pattern from [[new-economy-regime]]'s labor leg, in one profession). Honest risks:
+  (a) third-party AI (Aidoc/Google-class) capturing the software value instead of GEHC — the Allia
+  attach-rate watch item IS this question; (b) box commoditization (United Imaging-class cheap
+  hardware + commodity AI); (c) better first-reads = fewer confirmatory/repeat scans (modest
+  volume offset). Net: the displacement fear is plausibly part of WHY the stock is cheap while the
+  complement economics favor the owner of the installed base.
 
 ### 3. EXE — NOT A CLONE: cheap with FLAT forward E; a commodity call with unsigned optionality. (B)
 - The 41% revG is ORGANIC (verified — both compare quarters include Southwestern). Record Q1 FCF $1.7B,
