@@ -473,3 +473,36 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   (4) For the oil marker: militarily escalatory, commercially de-escalatory — the US is spending
   ordnance to KEEP the convoy regime priced at ~3pts. Middle band ($79-84) holds as base case
   absent a stopped hull.
+
+### 2026-07-13 ~8:30am PT — THE TOLL INVERSION: Trump claims 20% of cargo; crude BREAKS THE BAND — DOWNWARD
+- DATA: `raw/2026-07-13-zh-trump-blockade-20pct-toll.md`. Trump: blockade "reinstated," US to be
+  "reimbursed 20% on cargo," "we'll probably run it... guardian angel of the strait." Iran: won't
+  pay the enemy; IRGC warning shots "targeted and STOPPED" two ships (state TV, single-source,
+  outside both protocols). 20 ships transited w/ US coordination in 24h; **Chinese tanker used the
+  IRAN-designated route**. CENTCOM DENIES US casualties (Iran's 3-KIA claim). **Brent ~$78.5 (+3.5%)
+  = BELOW the $79-84 middle band despite maximum escalation headlines**; JMIC threat "severe."
+- *(THESIS — the toll collector never closes his own road)* Trump demanding 20% of cargo value is
+  diplomatically shattering (the US spent the war calling Iran's toll illegal; freedom-of-navigation
+  doctrine inverted overnight) — but for OIL FLOW it is the strongest de-escalation signal of the
+  war: **a power that wants a percentage of transiting cargo NEEDS cargo transiting.** Both
+  belligerents now assert TOLL rights, not closure rights — and a two-toll strait is an OPEN strait
+  with a tax. Crude fading to sub-band pricing says the market read it the same way. (Also the
+  purest confirmation of the vault's toll-layer thesis to date: whoever owns the layer where ships
+  become SAFE owns the new toll — Trump just tried to monetize the convoy, on television.)
+- *(the ships-stopped nuance — framework refinement)* "Targeted and stopped by warning shots" is
+  the closest print yet to the hull-stopped uncapping tell — but (a) single-sourced to Iranian
+  state TV, (b) the vessels were transiting OUTSIDE both protocols. Refine the tell: **hull-stopped
+  = a PROTOCOL-COMPLIANT/convoyed vessel stopped or hit**, or DB's cleaner version — **INBOUND
+  (into-Gulf) transit counts falling** (owners vote with routing; exits can be stragglers leaving).
+  Two-vessel enforcement theater against non-compliant ships while 20 convoy transits succeed =
+  the convoy regime FUNCTIONING, not failing.
+- *(the honest log — the band broke DOWN, not up)* Brent below $79 under blockade headlines =
+  the war premium COMPRESSING at max escalation: suppression stack + demand glut + both-tolls-
+  want-flow + DB's tanker-supply paradox (idled ships = more effective supply) all pressing the
+  same way. The framework said words don't move crude past $90; the stronger current truth is
+  even ACTIONS aren't holding $79. Bimodal structure intact but the middle has SAGGED — the $69-70
+  put wing is now closer than the $86-91 call wall. Watch: inbound transits, insurance quotes,
+  whether the 20% "reimbursement" gets any legal/operational mechanism (bluster vs policy).
+- *(kill-switch final status for set #1 grading)* Casualty leg: Iran CLAIMED 3 US KIA; CENTCOM
+  DENIED, all accounted for. Strike leg live, casualty leg officially denied — grade the equity
+  legs under "kill-switch partially live, overtaken regime."
