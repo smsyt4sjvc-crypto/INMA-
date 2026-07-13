@@ -1144,3 +1144,17 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
 - ⚠️ Conflict note, doubled: Jake is a Max subscriber; this vault is written by Fable 5, which
   cannot inspect its own serving configuration — whether the analyst itself is quantized/throttled
   is unverifiable from inside. Flagged, not resolvable.
+
+### 2026-07-13 ~10:40am PT — MU −5.0% to $930 (Jake's screen): the memory complex reprices TOGETHER
+- DATA: MU $930.15, −5.02% on the day, −5.47%/5d (5d range ~$892-1,035; peaked ~$1,035 Jul 9 then
+  gapped down). Volume 22.7M by 1:35pm ET vs 51M/10d avg (~normal pace). Same session: SKHY −10%
+  in Korea overnight; Samsung Yongin acceleration news (7/12); Goldman hyperscaler-credit repricing
+  Friday; CPI eve.
+- *(THESIS — the SKHY-vs-MU sensor's first verdict: NOT flow diversion — COMPLEX repricing.)* Both
+  vehicles down hard together = the market isn't rotating between memory wrappers, it's selling the
+  memory thesis (Samsung supply pulled forward + record raise digested + credit cost rising + Burry
+  short + lawsuit overhang). Also: the HFs who did the biggest semi buying in 3.5yrs LAST week are
+  underwater on day one — the re-crowd meeting the tape immediately.
+- Scoreboard note (pending Jake's official prints): set #1's MU leg (−0.3%, outperforming SOXX)
+  looks MISSED at −5% — grade honestly when prints paste. The registered thesis was overtaken by
+  the weekend regime change (kill-switch note already logged).
