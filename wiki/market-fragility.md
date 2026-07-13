@@ -169,3 +169,24 @@ into one 0–100 fragility number + trigger panel.
   logic. Menu priced in chat (1-day straddle $492; strangle ~$250-300; book-completion call
   ~$200-250); sizing Jake's. NOTE: spot 750 = the book's Dec-745 puts now 0.7% OTM — near the
   money, alive, already long this week's turbulence.
+
+## 2026-07-13 ~11am PT — HF semi flows: biggest buying in 3.5yrs after 2 biggest weekly sales since Jun-24
+### DATA (Kobeissi-style stat via Jake; GS-prime-flavored, long/short split NOT provided)
+- HFs bought the most US semis in ≥3.5 years last week, immediately after the two largest
+  consecutive weekly SALES since June 2024. Semis now 10% of total HF exposure (2x yr-ago; below
+  May's 14% peak). Framing: "betting the selloff is over."
+### THESIS (interpretation — NOT fact) — Jake's Q: conviction buying or short-covering dressed up?
+- *(mechanics)* Prime-broker "buying" = NET flow = fresh longs AND buy-to-close shorts, identical
+  in this stat. Whipsaw sequence (record sales → record buys inside 3 weeks) is the signature of
+  POSITIONING management (de-gross → cover/re-gross), not slow-money conviction. But exposure at
+  10% vs 5% yr-ago says genuine net-long rebuild too — likely BOTH: covering first leg, re-longing
+  second.
+- *(the counterparty cross-reference — the vault's killer overlay)* WHO sold into this record HF
+  buying week? Per our own census: semi INSIDERS ($700M+ net sales), corporates at maximum scale
+  (SKHY $26.5B — the buying week WAS the SKHY debut week, a flagged distortion candidate), Samsung
+  monetizing. **Informed sellers → fast-money buyers = the handoff texture.** The stat's own
+  history: the May 14% exposure peak immediately PRECEDED the June derate — HF positioning
+  extremes mark tops as often as bottoms.
+- *(for the week)* HFs re-grossing semis INTO CPI/Warsh/TSMC week = correlation-snap fuel refilled:
+  crowded longs + a hot print = the amplifier chain. Supports the event-vol-underpriced read
+  (the straddle thesis) regardless of which way it breaks.
