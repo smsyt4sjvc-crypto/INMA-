@@ -79,3 +79,11 @@ data > (3) training recall of heavily-documented things (cycle history, options 
 results) > (4) training recall of SPECIFICS (numbers, dates, rosters) — tier 4 always verified before
 money.** Live examples of the discipline catching tier-4/reconstruction errors: GILD -109% artifact,
 June SEP discrepancy, helium "China 40%" garbling, stale ANSS in the hardcoded NDX roster.
+
+## 2026-07-13 ~10am PT — bias flag: the weekly-extraction target
+Jake asked "how do I make $500 this week" ($8,500 SPAXX; = 5.9%/wk). Flagged per the bias map:
+calendar-scheduled dollar targets invert the process (force trades on the clock, not the pipeline)
+and are the classic pre-blowup shape — especially on a CPI+Warsh eve. Honest menu priced in chat:
+SPAXX $7/wk; full CSP deployment $85-110/wk; the theses unbounded but on thesis-clock. Standing
+answer: the book pays lumpy; the edge is having no deadline. Watch for recurrence under income
+stress (business ramping, recovery) — handle by pricing the menu, not by lecturing.
