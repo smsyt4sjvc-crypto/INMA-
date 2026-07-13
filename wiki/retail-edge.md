@@ -95,3 +95,17 @@ not modesty. Conservative self-description buys conservative approval.
   with the expiry dodging the earnings event — sell-the-fear at the insider band without holding
   the short put through the print. (4) Deep-OTM IV/RV 1.6-1.9 on pennies (ADSK wings) = skew
   inflation, not income — ignore. Sizing Jake's, as ever.
+
+## 2026-07-13 ~1:30pm PT — THE EXPIRY-MATCHING RULE (paid for in full: the BNO near-miss)
+- The tuition: Jake bought BNO calls ~3wks ago on the war thesis; expired worthless Fri 7/10;
+  oil +7% the NEXT session (Houthi-Saudi front). Right thesis, dated instrument, undated catalyst.
+- **THE RULE: match the expiry to the catalyst's calendar, not the conviction's intensity.**
+  · DATED catalyst (CPI print, earnings, FOMC) → short-dated is correct; expiry just after the
+    date; exit pre-committed (the 7/14 straddle = the rule done right).
+  · UNDATED catalyst (a war, a cycle turn, a funding cliff) → LONG-dated only (√time: months cost
+    far less per day than weeks) — or no options at all (equities/ladders). Short-dating an
+    undated thesis = a rolling subscription paid at event-inflated IV; sum the rolls before
+    calling the near-miss "almost paid."
+- Behavioral rider: the near-miss is maximum re-entry danger ("it was about to work") — re-buying
+  AFTER the spike pays top price for yesterday's thesis. The scan already priced it; let the rule,
+  not the regret, place the next order.
