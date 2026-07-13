@@ -155,3 +155,17 @@ into one 0–100 fragility number + trigger panel.
   ants) — forced Korean deleveraging can transmit to US tech through the exact $430B amplifier
   logged yesterday. Plus: SKHY ADR closed $168 vs Seoul −10%+ today → ADR gap risk at the US open;
   MU sympathy risk (the AVGO-day precedent: MU record wipeout without MU news).
+
+## 2026-07-13 ~10:15am PT — event-vol census: CPI+Warsh morning priced at ±0.66%
+- DATA (Jake's SPY straddle pull, spot $750.06 — down ~0.65% from Friday's 754.95, the war gap
+  MILD): Tue 7/14 (CPI 8:30 + Warsh 10:00 + 5 banks): **±0.66%**. Wed (Senate+PPI+BeigeBook):
+  ±0.82%. Thu (TSMC): ±0.97%. Fri (opex+retail sales): ±1.10%. Mon: ±1.24%.
+  ⚠️ ATM put-IV prints (8-9%) vs call-IV (14%) = yfinance artifact; trust the mid-based straddle $.
+- *(THESIS)* Sequel to Friday's ±0.43% ultimatum print: the correlation discount (implied corr ~9%)
+  mechanically suppresses INDEX event pricing — single names offset until an event correlates them,
+  and a hot CPI is precisely a correlating event. 0.66% for a day carrying the Williams 0.2%
+  tripwire + first memory-passthrough print + a chair's debut under oath + bank earnings = the
+  scheduled-risk discount, again. Pre-registered read fired: <0.8% = underpriced per the corr
+  logic. Menu priced in chat (1-day straddle $492; strangle ~$250-300; book-completion call
+  ~$200-250); sizing Jake's. NOTE: spot 750 = the book's Dec-745 puts now 0.7% OTM — near the
+  money, alive, already long this week's turbulence.
