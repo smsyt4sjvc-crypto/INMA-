@@ -206,3 +206,20 @@ Related: [[ai-capex-cycle]], [[market-fragility]], [[concentration]], [[consumpt
   DC-ABS issuance pace; sale-leasebacks; NVDA vendor-finance expansion; buyback reductions in
   hyperscaler prints (starts Tuesday w/ banks, then tech late July); any PULLED deal. Each rung
   climbed = one step closer to the guide cut.
+
+### 2026-07-13 ~3:15am — Jake's mechanism catch: WHY the buyers struck + where funding migrates
+- *(user's thesis, sharpened)* The Papai ceiling = (1) **burned buyers**: the 2025-26 vintage
+  (Meta ~$30B jumbo — largest corporate deal ever, $125B book; ORCL $18B; $195B YTD wave) bought at
+  15-yr-tight spreads with long duration → now marked down (concessions on new deals mark old paper
+  mechanically; ORCL CDS 198; long end). Credit windows close on P&L, not forecasts. (2) Funding
+  migrates to EQUITY-LINKED paper — converts (the classic rung; AIXTRON/neocloud precedents),
+  straight equity (listing cluster), SBC dilution — transferring pressure from bond marks to
+  shareholder valuations.
+- *(analysis — the reflexive coupling, the deepest version)* Equity-channel funding collateralizes
+  the capex program on the STOCK PRICES themselves: multiples fund capex → capex sustains narrative
+  → narrative holds multiples. No exogenous anchor. Exact 2000-telecom structure: stock-financed
+  capex stopped ALL AT ONCE when the multiple broke. The bond-window closure couples credit risk to
+  the equity tape — the levered-ETF amplifier and correlation-snap math are now part of the
+  FINANCING story, not just the trading story.
+- WATCH: secondary performance of Meta jumbo/ORCL deals (burned-buyer gauge); ANY convert issuance
+  from the AI complex (migration tell); SBC lines in late-July prints.
