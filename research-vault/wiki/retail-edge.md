@@ -33,3 +33,26 @@ map) — the last being the binding one per the behavior-gap evidence.
   dip-buy expectancy) are regime-hostages. Frame all studies at mechanism level (runner-anatomy did).
 - Caveat: robust base rates manufacture their own exceptions — 0/14 fear stat is both the best rule
   available and the complacency-trainer that eventually breaks it.
+
+## 2026-07-13 ~9am PT — THE TURBULENCE DOCTRINE (Jake: "how do we get paid for this turbulence?")
+Three legitimate mechanisms; everything else is paying the toll, not collecting it:
+1. **Own convexity where turbulence is MISPRICED CHEAP.** Same turbulence, different prices per
+   market: oil options charge full freight both wings (the scan's verdict); SPY INDEX options
+   price correlation at a record-low 9% — a turbulence discount. The Dec-745 puts at 14.4 IV =
+   already done, at the one counter where the insurance was on sale. Rule: never buy vol where
+   the crowd already has (oil calls, VIX products); buy it where the structure hides it (index
+   vs single-stock gap).
+2. **Sell what fear makes rich — ONLY where assignment is welcome.** The sell-the-fear confluence
+   (Jake's own invention): elevated IV into events (CPI/Warsh week) fattens puts on insider-cluster
+   wreckage — CSPs at/below the insiders' prices get paid for OTHER people's panic in names with
+   an informational edge. The premium-seller's three rules + assignment-welcome gate.
+3. **Provide liquidity at panic prices via PRE-SET ladders.** Turbulence delivers fills calm never
+   offers (drought-break 11/11, fear-episode-end studies: the flush IS the entry). GTC limits at
+   ignition levels = getting paid through PRICE instead of premium. Requires the ladder to exist
+   BEFORE the night it fills — the standing urgent item.
+4. *(the passive legs)* Cash yields ~4%+ = paid to hold optionality; bottleneck tolls/hard assets
+   get paid BY the turbulence's cost-push (helium→LIN/APD, war→insurance repricing, debasement→gold).
+ANTI-LIST: VIX calls (roll decay), levered inverse ETFs (the $430B machine collects YOUR rebalance),
+oil options this week (both wings bid + liquidity tax), panic-selling into halts (the halt QUEUES
+your exit at the worst print). The biggest payment turbulence makes to the prepared is the losses
+they don't take.
