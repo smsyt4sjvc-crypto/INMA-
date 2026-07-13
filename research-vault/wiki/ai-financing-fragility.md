@@ -223,3 +223,22 @@ Related: [[ai-capex-cycle]], [[market-fragility]], [[concentration]], [[consumpt
   FINANCING story, not just the trading story.
 - WATCH: secondary performance of Meta jumbo/ORCL deals (burned-buyer gauge); ANY convert issuance
   from the AI complex (migration tell); SBC lines in late-July prints.
+
+### 2026-07-13 ~3:30am — Papai story fully resolved (Jake's Perplexity pull)
+- DATA (refinements): The trigger was a **FRIDAY selloff in LONG-DATED hyperscaler bonds — ORCL,
+  AMZN, MSFT, META, GOOGL all widening** as investors demanded higher yields. Papai's precise claim:
+  ~$360B of AI borrowing over next 12mo hard to do "using the same playbook"; hyperscalers may need
+  **~$1T TOTAL financing** (debt+equity+internal) for AI infra. Explicit sell-side conclusion:
+  **"not that these companies cannot raise capital — the COST OF CAPITAL is increasing"**; pressure
+  greatest on largest external-funding needs — **ORCL named**.
+- *(analysis — the third blade of the scissors)* Token revenue proxy −21% (returns falling) + IG
+  spreads widening (WACC rising) + capex consensus $996B (spend unchanged) = **project NPVs
+  compressed from both ends simultaneously.** Rising cost of capital is also the Fed trap
+  transmitting (hike-lean + term premium) into the AI complex's hurdle rates — Hammack's channel
+  closing the loop.
+- *(analysis — grind not cliff, per the sober framing)* "Cost rising" ≠ window shut: this erodes
+  returns gradually until boards cut — consistent with grinds-not-cracks; Stage-2 probability UP,
+  not printed. ORCL = the sell-side's own weakest-link designation now (vault called it months ago).
+  Equity linkage: higher hyperscaler yields = higher discount rate on the index's biggest weights.
+- Monday watch (upgraded): long-end hyperscaler spreads continue or retrace; ORCL CDS/next deal;
+  the five's equity reaction to their own credit repricing.
