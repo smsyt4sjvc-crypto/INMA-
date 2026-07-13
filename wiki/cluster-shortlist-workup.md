@@ -203,3 +203,17 @@ the cluster is the START of the funnel, never the end.
   as roadkill on the digital layer. Flip side logged: Stage 2 slows DC construction → AECO tailwind
   fades as the disruption narrative relaxes = partially internally hedged to the AI outcome (does not
   double the book's existing short-AI exposure in either direction).
+
+## 2026-07-13 ~1am — BROAD screen v2 (no vault-seeded universe, no drawdown bias; Jake's spec)
+Full S&P 1500, price-first. 89 survivors (`raw/2026-07-13-broad-value-screen-output.md`). Buckets:
+- EXCLUDED-ARTIFACT: all REITs (EPS/FCF semantics), insurers (FCF n/a), PSKY/PRG (accounting
+  distortions), EFOR/CALY (unrecognized — verify), HPE (capex-exposed by spec).
+- HIGH STORY-RISK (Chegg-shaped headline exposure at any horizon): GTM, UPWK, LZ, YELP, CTSH, G,
+  EXLS, DOCU, CXM, PATH, PRDO, LAUR, DV, QNST, TTD (fallen giant −80%, own workup someday).
+- SHORTLIST (12, pending money vote): PFE 24.17 (9%/8.5x), PYPL 46.32 (10%/8x), LKQ 25.38
+  (12.2%/7.6x trade-down), ABM 44.60 (10.9%/10.2x physical labor), DLB 49.80 (royalty toll, no
+  debt), GNTX 24.20 (zero debt +17% rev), **WS 33.05 (Worthington Steel = electrical-steel
+  laminations — the GOES/transformer thesis under $50)**, AR 33.23 (gas→power), MAT 13.33,
+  ADNT 19.96 (20.7% yield/6.1x), alternates FLO (verify the collapse to $8.34), AVNT, SW, AMPH.
+- Method note: "positive forward guidance" gate = consensus proxy (wedge risk); finalists get
+  actual guidance sentences via Jake's Perplexity delegation before verdicts. Insider pull next.
