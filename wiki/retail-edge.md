@@ -109,3 +109,18 @@ not modesty. Conservative self-description buys conservative approval.
 - Behavioral rider: the near-miss is maximum re-entry danger ("it was about to work") — re-buying
   AFTER the spike pays top price for yesterday's thesis. The scan already priced it; let the rule,
   not the regret, place the next order.
+
+## 2026-07-13 ~2pm PT — THE SURPRISE RULE (Jake's own derivation, from the BNO tuition)
+- Jake, verbatim in substance: "markets are pricing future prices — that's the information I
+  didn't have." The full form: **price = the crowd's forecast; news moves nothing — the GAP
+  between news and expectation moves everything. The market pays for surprise, never for events.**
+- His BNO error, named precisely: traded the EVENT (exchange of fire — already priced the moment
+  it became likely) instead of the GAP (escalation beyond expectations, which arrived one session
+  after expiry via the un-imagined Houthi front).
+- The trilemma resolved: information's value = its DISTANCE FROM CONSENSUS, not its quantity.
+  Zero-value: headlines the crowd already read. Paying: the physical layer the crowd hasn't
+  checked (DigiKey census), structural distortions (corr discount, forced flows), horizons the
+  crowd can't hold (no deadline). The week's whole toolkit = surprise-hunting machinery.
+- **STANDING PRE-TRADE QUESTION: "What does the market already believe, and what do I know that's
+  different?" No answer = no trade, just a reaction.** (The 7/14 straddle passes: consensus ±0.66%
+  measured, evidence says wider. The BNO calls wouldn't have: conviction without differential.)
