@@ -544,3 +544,25 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
 - *(THESIS)* The premium rebuilding intraday while UAE pumps +80% = the two stacks fighting in
   real time (war premium vs suppression supply). Dark tankers + China's Iran-route transits =
   the two-toll strait's THIRD lane: the sanctions-evasion economy, unpriced by either toll.
+
+### 2026-07-13 ~1:45pm PT — SECOND FRONT: Houthi missiles at Saudi Arabia; oil +7%; full-coastline blockade
+- DATA (ZH updated article): **Houthi ballistic-missile attack on Saudi Arabia** — Saudi defenses
+  engaging (Alekhbariya); Tasnim claims a hit on Abha International Airport (SW Saudi, near Yemen).
+  Yemen FM had pledged support for Iran. **Oil +7% to session/month highs, WTI ~$78** (Brent ≈
+  low-80s = back INSIDE the $79-84 band from below). **Reuters: the US blockade "encompasses the
+  entirety of Iranian coastline"** — a full naval blockade of Iran's ports. MoU declared in
+  "crisis phase" / US "violated all clauses" per Iran FM; Muscat channel still open, Hormuz-only.
+- *(THESIS — the framework update, owed honestly)* The morning read ("the 20% toll = commercially
+  de-escalatory; both sides want flow") was correct about the STRAIT and got outflanked within
+  hours: **the second front bypasses the strait entirely. Houthi→Saudi attacks threaten PRODUCTION,
+  not transit — and production cannot be convoy-escorted.** The Abqaiq precedent (Sep-2019: 5.7M
+  b/d knocked out in one strike, the largest supply disruption ever, crude +15% in a day) is the
+  reason the market repriced +7% on a symbolic airport hit. **UNCAPPING LIST REORDERED: 1) Saudi
+  processing/fields (Abqaiq/Ras Tanura class — 9-10M b/d at risk, dwarfs Kharg), 2) Kharg,
+  3) hull-stopped convoy vessel, 4) inbound-transit collapse.** The full-coastline blockade also
+  removes Iran's ~1.5M b/d of exports (dark fleet leakage aside) — a real supply subtraction, not
+  a declaration.
+- *(for the book/night)* Crude's sag reversed violently; the $86-91 call wall is live again if
+  Saudi oil infrastructure (not airports) takes a hit. Equities absorbing oil +7% on CPI eve =
+  the straddle's fuel. BNO front call skew (the war-premium sensor, baselined −33.5 THIS morning)
+  is presumably exploding — first re-check will show it.
