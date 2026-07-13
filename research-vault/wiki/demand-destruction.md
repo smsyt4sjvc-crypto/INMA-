@@ -671,3 +671,16 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
 - Timing: "relatively soon" + tonight's telegraphed hard strikes + the War Powers paper = possibly
   inside the current window. Watch: Natanz-region flashes, MOP-capable B-2 movements (Diego
   Garcia/Whiteman OSINT), any evacuation reporting near Natanz.
+
+### 2026-07-13 ~1:50pm PT — NIGHT 3 BEGINS (CENTCOM verbatim: launched 4:45pm ET, "will continue");
+### Iran army claims targeting US assets + a VESSEL; gold $4,000
+- DATA: Third consecutive night of strikes, launched DURING US futures hours (the closed-market
+  pattern now fully abandoned — nightly campaign tempo, announced like weather). Fars: Iran army
+  "targets US assets, vessel." Gold at $4,000 (the round number, post-Waller −3%).
+- *(THESIS)* (1) "Will continue" + WPR paper + night-3 = the campaign is now SCHEDULED — strikes
+  are background process; only CATEGORY changes (Pickaxe, a US warship hit, Saudi oil
+  infrastructure) move markets from here. (2) **"Vessel" is the watch-word tonight: a US warship
+  taking a hit = the casualties branch** — the one kill switch that voids everything. (3) Gold
+  4,000 the day before CPI: Waller's hike-priming knocked the debasement bid to a round-number
+  ledge — tomorrow's print decides whether it holds (hot = more Waller pressure; soft = the bid
+  returns violently per the asymmetry).
