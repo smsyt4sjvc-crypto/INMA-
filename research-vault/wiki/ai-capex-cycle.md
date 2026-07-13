@@ -971,6 +971,41 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   stack while its champions double down. Watch: won, BOK, CDS — Korea is where the global version
   of this thesis prints first.
 
+### 2026-07-13 ~2am — THE TOKEN-SPEND CHART: the labs' revenue proxy is −21% from the May peak
+#### DATA (`raw/2026-07-13-silicon-data-token-expenditure-index.md`, Silicon Data chart upload)
+- **LLM Token Expenditure Index: 2.05 peak mid-May → 1.6245 now = −21%, with LOWER HIGHS through
+  June-July** (1.75 bounce failed). Still +62% from Dec-2025. Prior precedent: Jan 1.80 → Feb 1.26
+  (−30%) fully recovered to new highs by April — one full retrace has healed before.
+- ⚠️ CORRECTION (firewall rule 4) to the 7/03 "ROI crack ≠ spend crack" entry: that entry filed the
+  cluster's "token-spend index −20% from May high" claim under *narrative amplification the actuals
+  don't support.* **The claim was RIGHT — this is the chart.** What the 7/03 entry got right: CAPEX
+  actuals were (and are) accelerating. The error was conflating the two spend lines: capex spend ≠
+  token spend. Both claims were true simultaneously — which is precisely the scissors (below).
+#### THESIS (interpretation — NOT fact)
+- *(what the index is)* P×Q of the SCRIP economy — the closest thing to an aggregate frontier-lab
+  REVENUE line that prints daily. It cannot separate price from volume: with unit prices −90%,
+  tokenunmaxxing discounts, and GPT-5.6 juice degradation all documented, spend −21% is consistent
+  with volume still GROWING but price falling faster. **It resolves REVENUE, not demand — and
+  revenue is what services the $2T obligations and the $194B of IG paper.**
+- *(THE SCISSORS — the sharpest single exhibit in the vault)* The 27E capex consensus ($996B) rises
+  while the monetization line it must justify falls −21% with lower highs. Capex accelerating INTO
+  declining measured token revenue = the CEPI air-gap widening in real time, drawn on one chart.
+  Burry's "compression IS the spend rolling over, at the software layer first" — printing.
+- *(the open-weight drain caveat — cuts BOTH ways)* If methodology misses self-hosted inference,
+  the Karp own-the-toll migration DRAINS the measured pool while true compute usage grows: bearish
+  scrip/lab revenue (what the index measures), neutral-to-bullish GPU/power demand (what capex
+  buys). The index falling is thus UNAMBIGUOUSLY bad for lab economics and the [[ai-financing-
+  fragility]] chain, but NOT yet proof of falling compute demand. The Jevons hinge stays open in
+  UNITS; it is now losing in DOLLARS.
+- *(timing overlay)* The May peak precedes: tokenunmaxxing (WSJ), the Palo-Alto 90%-off demands,
+  MSFT's Claude Code cutoff (6/30), GPT-5.6 degradation — the decline window IS the compression
+  cluster's window. And the Anthropic IPO (Oct, >$60B) prices against this line's trajectory:
+  the S-1 lands on a falling aggregate-revenue tape unless it reclaims the highs first.
+- *(levels — pre-registered reads)* Reclaim 2.05 = the Feb pattern repeats, Jevons wins in dollars,
+  compression thesis pushed out. Break 1.26 (Feb trough) = the first LOWER LOW in the index's
+  life = compression confirmed structurally. Between = contested. Watch monthly with the H100
+  rental index (same shop) — both falling together = the monetization layer compressing end-to-end.
+
 ### 2026-07-12 late — Jake's HORIZONTAL-BUILD discriminator: Jevons AND Burry both right; the question
 ### is railroad or steam engine
 #### THESIS (user's thesis + analysis — no new data; the organizing lens for everything above)
