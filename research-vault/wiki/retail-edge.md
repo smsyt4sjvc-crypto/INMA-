@@ -124,3 +124,19 @@ not modesty. Conservative self-description buys conservative approval.
 - **STANDING PRE-TRADE QUESTION: "What does the market already believe, and what do I know that's
   different?" No answer = no trade, just a reaction.** (The 7/14 straddle passes: consensus ±0.66%
   measured, evidence says wider. The BNO calls wouldn't have: conviction without differential.)
+
+### 2026-07-13 ~2:15pm PT — Jake's completion: the TWO-POPULATION model of price
+- *(user's insight)* "It's not even what do I know that they don't — it's what are THEY pricing,
+  because a lot of it is automated and mechanical." Price = FORECASTERS (humans/models forming
+  expectations — beaten by differential information) + RULEBOOKS (levered rebalance, MSCI caps,
+  margin clerks, CTAs, vol-targeters — flow containing ZERO information, beaten by knowing the
+  rules and standing at their forced destinations).
+- Mechanical flow = the purest mispricing source: the seller sells what the rulebook demands, not
+  what anyone thinks. This week's exhibits: the 0.66% straddle (machine-suppressed index vol, not
+  a human forecast of calm); Korea's 320K liquidations (margin clerks setting prices); the 40%
+  levered-ETF close flows; MSCI's forced Samsung selling.
+- Edge taxonomy, final: (1) INFORMATION (know what forecasters don't), (2) MECHANICAL (know what
+  machines must do: closes, trigger maps, calendars — opex 7/17, month-end, MSCI dates — and
+  cascade exhaustions; trade destinations and exhaustion, NEVER the middle of the stampede),
+  (3) HORIZON (outlast both). Machines can't change their minds and can't hide their rules —
+  the mechanical edge is the most reliable and the most dangerous to stand in front of.
