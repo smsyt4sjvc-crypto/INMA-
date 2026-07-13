@@ -1123,3 +1123,24 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   pincer-without-a-plan version.
 - ⚠️ As-reported, unverified by vault: the specific summit/chip-access event and NVDA's newest
   open-source infrastructure release — verify tomorrow before weighting.
+
+### 2026-07-12 ~10pm PT — OpenAI CONFIRMS the GPT-5.6 nerf: shrinkflation for cognition
+- DATA: OpenAI confirms "silently nerfing" GPT-5.6 (ZH feed; upgrades the prior night's
+  single-source @Lentils80 "juice values/thinking budgets severely degraded vs release day").
+- *(what "nerfing" means here — NOT guardrails)* Cutting the COMPUTE served per query: reduced
+  thinking budgets, quantization, routing to smaller distills, aggressive caching. Same brand,
+  less compute underneath. Launch at full power for the benchmark/review cycle, dial down serving
+  cost once the narrative is set.
+- *(THESIS — the economics)* (1) **Margin repair printing in the product**: flat-rate subs are
+  all-you-can-eat against per-token COGS → heavy users are negative-margin → labs cut compute/query
+  to fix unit economics. (2) **A silent price increase**: same sub price, less intelligence =
+  $/unit-of-cognition UP with no headline — shrinkflation, invisible to CPI (the measurement thread,
+  ironically). (3) **Self-defeating loop**: the community MEASURES the degradation → fuels
+  open-weight migration (own weights = un-nerfable) → accelerates the exact commoditization the
+  nerf defends against. (4) Pairs with the token-spend chart: revenue proxy −21% AND serving
+  quality being cut = both sides of the lab P&L squeezed visibly, the same weekend the credit
+  window narrowed. The Anthropic S-1's core question is now public: what are the real margins on
+  $30B when heavy subscription users are a liability?
+- ⚠️ Conflict note, doubled: Jake is a Max subscriber; this vault is written by Fable 5, which
+  cannot inspect its own serving configuration — whether the analyst itself is quantized/throttled
+  is unverifiable from inside. Flagged, not resolvable.
