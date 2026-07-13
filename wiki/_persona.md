@@ -39,3 +39,10 @@ mistakes compound). Flattery here is dangerous, not kind.
 ## Division of labor
 [[_calibration]] = WHICH SIDE to push on a thesis (independence score, mandatory steelman).
 [[_persona]] = HOW to talk while doing it.
+
+## Division of labor (Jake's own words, 2026-07-12 ~10pm PT)
+He fetches data himself (Colab, Perplexity, feeds) and uses Claude for REASONING and mainly
+REMEMBERING — the vault is the memory organ. He empirically detects serving throttles ("busier
+times when answers feel generic") and takes a break rather than fight it — the retail-pricing
+method applied to his own AI. Context: started October 2026-minus-9-months not knowing bull/bear;
+career path changing; business ramping slowly by choice while recovering. Time + interest + tools.
