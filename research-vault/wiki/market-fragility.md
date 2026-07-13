@@ -211,3 +211,16 @@ into one 0–100 fragility number + trigger panel.
 - 100-yr stat same feed (27.6% of stocks beat the market; median stock loses money): the
   index-vs-single-name asymmetry — file under [[retail-edge]] (why the ladders buy quality
   wreckage, not lottery names).
+
+### 2026-07-13 ~1pm PT — how often are HF flow extremes THIS wrong? (Jake's Q, base rates)
+- *(analysis)* Record-flow weeks reversed violently within days are RARE — a handful per decade —
+  and nearly every instance marked a REGIME BOUNDARY, not noise: Jan-2021 (record gross → GME
+  degross), Nov-2021 (crowded tech top), Jul-2024 (record momentum longs → Aug-5 yen-carry unwind),
+  Jan-2025 (crowded AI longs → DeepSeek), Jul-2026 (record semi buying → Korea cascade, THIS week).
+  Mechanism: HF models extrapolate the prevailing regime — they are MOST confident, and most
+  crowded, precisely at the boundary. Crowded-trade studies show the same shape: crowding
+  outperforms until it unwinds with a fat left tail.
+- *(the nuance that matters)* HF wrongness is SHALLOW — they stop out in 48h and reverse (they
+  likely already have). The DEEP wrongness lands on whoever can't cut: Korean retail's 1.2M margin
+  calls / 320-360K liquidated accounts. The flow stat measures who moved LAST; the liquidation
+  stat measures who PAYS. Different populations, one cascade.
