@@ -10,3 +10,13 @@ nothing purchasable.
 - ⚠️ Caveats: DigiKey is not the primary server-RDIMM channel (hyperscalers buy direct); OEM part
   numbers (Samsung/Hynix) often never sit in distribution; "obsolete" can be part-revision churn.
   The strong reading is about DISTRIBUTION STARVATION, not absolute market supply.
+
+## Full-table update (Jake paste, ~12:15pm PT)
+- **Kingston KSM48R40 also OBSOLETE → basket is 15/15 dead** (6 obsoleted listings + 9 delisted).
+- Micron rows = catalog husks: no price, no stock, ROHS "Unknown," no tariff/HTSUS data.
+- Kingston row: Taiwan origin, "US import tariff: may apply" — the memory-tariff watch item
+  visible in catalog metadata.
+- ⚠️ SENSOR FLAW FIXED: obsolete SKUs never restock — a fixed basket of EOL'd parts reads dark
+  forever. The LIVING gauge = DigiKey parametric search ("DDR5 RDIMM, in stock"): record the
+  IN-STOCK SKU COUNT + median unit price monthly (today ≈ 0). Shelf relights = shortage breaking.
+  Consumer leg: Newegg 32GB DDR5 UDIMM kit, in-stock count + price, same cadence.
