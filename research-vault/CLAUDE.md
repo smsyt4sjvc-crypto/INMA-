@@ -94,3 +94,16 @@ Misses logged as loudly as hits — this is the calibration engine.
 When using an acronym, write the full words with the acronym in parentheses after — e.g.
 "weighted average cost of capital (WACC)" — at first use in a conversation, so the terms stick.
 Jargon is a tax on the reader; pay it once, visibly.
+
+## Timestamp rule (standing, set 2026-07-12 ~9:30pm PT — after two clock errors in one weekend)
+Claude has no internal clock and MUST NOT infer time from conversation flow. Before writing any
+dated/timed vault entry or making any market-hours claim:
+1. Run `date -u` + `TZ="America/Los_Angeles" date` in the container (it has a real clock).
+2. Label all entries in JAKE'S clock (Pacific), date + time: "2026-07-12 ~9:30pm PT".
+3. Market-session math (crude 3pm PT Sun, equities 6:30am PT, closes, expiries) derives from the
+   verified clock, never from vibes.
+4. When ingesting pasted items, log the SOURCE's stated timestamp separately from paste-time.
+5. Git commit timestamps (UTC, container clock) are the authoritative when-was-it-logged record;
+   in-note labels are for human reading — keep both honest.
+(Origin: "under 4 hours to the crude open" on a Sunday morning; then labeling 9pm PT entries
+"~3am" by UTC drift. Both Jake catches.)
