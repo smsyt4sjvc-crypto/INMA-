@@ -929,6 +929,47 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
 - *(SKHY flow note)* Samsung accelerating supply is marginally BEARISH the pure-HBM scarcity story
   SKHY just sold $26.5B of — announced two days after the listing priced. The sellers' timing keeps
   being exquisite.
+
+### 2026-07-12 late — the margin-redistribution thesis: the bull case and the bear case are the SAME EVENT
+#### DATA (`raw/2026-07-12-margin-redistribution-thread-korea-bonds.md`)
+- Fintwit thread: IF share shifts from frontier labs ("90%+ inference margins") to cheaper models →
+  customer ROI rises → incremental token demand → **margin dollars redistribute from labs to infra.**
+  Jensen's open-source push read as this play ("lower margin % at the model layer = more margin $ at
+  the infra layer"). Author's own caveat: **"This is not happening yet"** — cheap tokens = volume
+  majority, but economic value still accrues to the most intelligent models.
+- Counterpoint (same feed): those labs carry **~$2T unfunded obligations / off-balance-sheet
+  liabilities, already monetized via IG issuance that assumes their revenues/margins persist into
+  the 2030s.** (⚠️ $2T = poster's aggregate, not itemized.)
+- BBG: **global fund selling of Korean BONDS at ~3-month high** ("first the stocks, now the bonds").
+  ⚠️ Flow stat, not crisis; BOK/FX mechanics candidate explanations.
+#### THESIS (interpretation — NOT fact)
+- *(the synthesis — sharper than either half)* **The infra mega-bull case and the financing-fragility
+  mega-bear case are one event — model-layer margin compression — viewed from opposite sides of a
+  balance sheet.** Compression redistributes margin dollars to infra ONLY IF the transition doesn't
+  default the customers the infra already lent to and built for. The labs' ~$2T of obligations ARE
+  the infra layer's backlog ([[ai-financing-fragility]]: ORCL's $300B = OpenAI's commitment; NVDA's
+  stakes = its customers' equity). You cannot cleanly rotate margins from the model layer to the
+  compute layer when the compute layer's order book IS the model layer's credit. The "healthy"
+  transition everyone advocates (cheaper intelligence) is the default trigger for the debt bridge —
+  unless it's SEQUENCED: equity raised first (the listing cluster!), obligations termed out, then
+  compression. Which is precisely what the S-1 queue is doing.
+- *(the vault's Jevons hinge, restated by both sides)* Thread's bull case requires Jevons (volume
+  outruns price); Burry's rebuttal (enterprise already saturated) says it won't. The thread's own
+  "not happening yet" = the honest current state: value still at the frontier. The hinge remains THE
+  unresolved question; this thread just prices its bull branch.
+- *(NVDA's open-source posture — commoditize-your-complement, attributed)* Jensen pushing open
+  models = the interop-layer playbook run by the compute monopolist: dissolve the model toll so all
+  value pools at the silicon toll. Same move as MCP-given-free, opposite beneficiary. Watch NVDA's
+  open-model support as a STRATEGIC indicator, not charity.
+- *(Anthropic IPO reframe)* The October S-1 becomes the look-behind-the-curtain event the vault
+  awaited from OpenAI: it must disclose compute obligations against $30B revenue — the first public
+  audit of the "$2T unfunded" claim's largest components. The listing cluster = the bridge being
+  built BEFORE compression arrives.
+- *(Korea = the country-scale leveraged expression)* Equity bear (memory derate + MSCI mechanics) →
+  now bond outflows, the same month Samsung commits ~$570B domestic and SKH raises $26.5B abroad.
+  The country most levered to the memory-capex cycle is being de-risked across its whole capital
+  stack while its champions double down. Watch: won, BOK, CDS — Korea is where the global version
+  of this thesis prints first.
 - **TSMC Q2 Thursday ~7/16 = the Stage-2 sensor of the week:** watch (1) 2026 revenue-growth and
   CAPEX guide revisions (UP = trigger further away; flat/down = first crack), (2) the price-hike hint
   ("would like to raise prices" — foundry pricing power = another cost-push leg), (3) AI-demand
