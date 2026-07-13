@@ -566,3 +566,17 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   Saudi oil infrastructure (not airports) takes a hit. Equities absorbing oil +7% on CPI eve =
   the straddle's fuel. BNO front call skew (the war-premium sensor, baselined −33.5 THIS morning)
   is presumably exploding — first re-check will show it.
+
+### 2026-07-13 ~12:45pm PT — FLASH: explosions on Larak Island (Tasnim, single-source)
+- DATA: "Explosions heard on Iran's Larak Island in Hormuz Strait" — Tasnim. No target ID yet.
+- *(triage — Larak is TWO things at once)* (1) an IRGC anti-ship missile island in the strait's
+  narrows (the Qeshm/Abu Musa/Bandar Abbas battery chain CENTCOM has been systematically hitting —
+  the BASE-CASE reading: kill-chain degradation, campaign-consistent, marker-neutral); (2) **an
+  Iranian OIL EXPORT/STS transfer terminal** — the dark-fleet's loading point. IF the oil terminal
+  is the target, that's a DOCTRINE SHIFT: the US has so far spared Iran's export infrastructure
+  (suppression-stack logic — keep oil flowing, prices down). Striking exports + the full-coastline
+  blockade = strangling Iran's oil revenue entirely → removes Iran's remaining RESTRAINT rationale
+  (why tolerate the convoy regime if your own exports are dead?) = the escalation coupling
+  tightens toward the true uncapping.
+- DISCRIMINATOR: terminal/tank fires + loaded-tanker AIS scatter off Larak = doctrine shift;
+  military-site secondaries = more of the same. Watch crude into the 1:30pm PT NYMEX close.
