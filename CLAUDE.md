@@ -89,3 +89,8 @@ core five (WTI, S&P, NASDAQ, SOXX, DRAM/MU) + shape call + named kill switch. Re
 vault evidence only. NEVER edited after registration. Next session: grade the prior set against the
 prints Jake pastes, update `predictions/_scoreboard.md` (direction hits, range coverage, notes).
 Misses logged as loudly as hits — this is the calibration engine.
+
+## Acronym rule (standing, set 2026-07-13)
+When using an acronym, write the full words with the acronym in parentheses after — e.g.
+"weighted average cost of capital (WACC)" — at first use in a conversation, so the terms stick.
+Jargon is a tax on the reader; pay it once, visibly.
