@@ -1193,3 +1193,23 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   on hardware beneficiaries struggles EVEN IF numbers keep [beating]" — the consensus-escalation
   vs funding-ceiling collision now the sell-side's own framing. Semis-vs-Nasdaq 1996-2001 chart
   recirculating; mega-cap call volumes back (retail chasing into it).
+
+### 2026-07-13 ~12pm PT — THE MEMORY SENSOR PANEL goes live (Jake's DigiKey BOM + the SSD sighting)
+- DATA: `raw/2026-07-13-digikey-dram-bom-check.md`. Jake's 15-SKU server-DDR5 basket at DigiKey:
+  **Micron RDIMMs marked OBSOLETE / no-backorder / zero quantity; Samsung & Hynix part numbers
+  delisted entirely; extended price $0.00 — the distribution shelf for server DRAM is EMPTY.**
+  Same day: Samsung Gen-5 SSDs at Gen-4 retail price parity (the NAND leg).
+- *(THESIS — the split-screen finding, and it's exactly the vault's layered model printing)*
+  **Leg 1, NAND/consumer storage: CRACKING** (Gen-5 premium collapsed to parity — price signal).
+  **Leg 2, server/datacenter DRAM: STILL STARVED** (not expensive — UNBUYABLE at distribution;
+  the Crucial-kill pattern extended to the channel: every wafer routed to direct/HBM customers).
+  The cycle turn historically marches from the consumer/NAND edge INWARD to datacenter DRAM —
+  today's probes say the march has begun at the edge and has NOT reached the core. Consistent
+  with: LTA-heavy datacenter vs spot-riding consumer (the 7/01 layer note), and MU's exit from
+  consumer channels.
+- **THE REPEATABLE SENSOR (standing):** re-check the SAME DigiKey list (saved, list ID 06ANBHWQOP)
+  ~monthly + the SSD retail shelf + consumer DDR5 UDIMM retail (Newegg/Amazon — the Nov-25
+  "request pricing" chain). **The DRAM-turn confirmation = the Micron RDIMMs reappearing IN STOCK
+  at listed prices.** When the shelf refills, the shortage is over — visible months before the
+  guidance cut. Three legs: NAND retail (flipped), consumer DDR5 retail (pending check), server
+  DRAM distribution (starved). ⚠️ Channel caveats logged in raw.
