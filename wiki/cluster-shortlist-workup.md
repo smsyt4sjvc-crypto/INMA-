@@ -258,3 +258,15 @@ Full S&P 1500, price-first. 89 survivors (`raw/2026-07-13-broad-value-screen-out
   LKQ (B+), USAC (unworked — needs the ADT treatment), MAT (B).** B-team: PYPL (capital-return
   shelf), GPK (Aug binary), AMPH (silent, cheap). Verification layer caught 4: PYPL wedge, MAT
   recast, WS impairment vs my tag, FLO's already-cut dividend.
+
+### 2026-07-13 ~2am — Jake's second-identity catches on the finalists (verified)
+- **ABM = the buildout's MAINTENANCE ANNUITY (upgrade to the A-/B+ verdict):** Technical Solutions
+  +27%, explicitly AI data centers/battery storage/microgrids ("fastest growth in ~4 years" —
+  Benzinga 6/5/26). Quality Uptime acq (2024, $119M: data-center UPS/critical-power MAINTENANCE,
+  doubling mission-critical revenue) + RavenVolt (microgrids). Key texture: mostly OPEX not capex —
+  existing DCs need power systems serviced regardless of new construction → railroad-layer
+  maintenance at a 10x facilities multiple. [[buildout-bottleneck-map]] cross-link.
+- **LKQ = quiet metals recycler:** salvage chain recovers copper (harnesses/motors), aluminum
+  (wheels/blocks), steel scrap — "other revenue" moves with metals prices. Plus **catalytic-
+  converter PGM stream (Pt/Pd/Rh)** routed to refiners. Wrinkle: EVs have no cats → stream thins
+  as fleet electrifies (15yr salvage lag; hybrid cats PGM-richer first). Copper-thesis adjacency.
