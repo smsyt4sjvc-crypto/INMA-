@@ -224,3 +224,34 @@ into one 0–100 fragility number + trigger panel.
   likely already have). The DEEP wrongness lands on whoever can't cut: Korean retail's 1.2M margin
   calls / 320-360K liquidated accounts. The flow stat measures who moved LAST; the liquidation
   stat measures who PAYS. Different populations, one cascade.
+
+### 2026-07-13 ~3:15pm PT — Korea ↔ US: mechanical or correlated? (Jake's Q, the transmission map)
+- *(context: Jake sees Hynix gapping; Seoul's Tuesday session opens 5pm PT — currently ~7:15am
+  KST, pre-open. Question: "if it rises there it rises here — mechanically, or just correlated?")*
+- *(analysis)* **Different order books, different hours (near-zero overlap: KRX 9am–3:30pm KST =
+  5pm–11:30pm PT), so no shared tape — but SPECIFIC INSTRUMENT PAIRS are mechanically pinned by
+  arbitrage, while the INDICES are only correlated.** The two-population model applies across
+  borders: forecasters correlate (same war, same memory cycle, same CPI read by both crowds);
+  rulebooks mechanically link the paired instruments.
+- The mechanical channels (rulebook flow, no opinion involved):
+  · **Dual listing / American depositary receipt (ADR) arb** — SKHY New York vs SK Hynix Seoul:
+    arb desks hold ADR ≈ local price × USD/KRW. Whichever market is CLOSED, the open one does its
+    price discovery; the closed one then GAPS at its open to meet it. The gap = deferred
+    reconciliation, not new information.
+  · **Index futures trade nearly 24h** — S&P/Nasdaq futures during Seoul hours, KOSPI-linked
+    products during New York hours; global desks hedge one book across both.
+  · **ETF creation/redemption** — US-listed Korea ETFs (EWY, KORU) trade NY hours against a
+    closed Seoul; authorized participants arb the discount/premium at Seoul's next open.
+  · **Shared leverage** — Seohak-ant margin accounts hold US levered ETFs; Korean margin clerks
+    force-sell US tickers in US hours (and vice versa). The cascade crosses the Pacific through
+    the loan book, not through sentiment.
+  · **FX (USD/KRW)** trades continuously and reprices every cross-holding in real time.
+- The merely-correlated part: KOSPI level vs S&P level — same global inputs, independently priced.
+  Correlation spikes toward 1 in crashes (everything = one risk trade) and decays in calm.
+- **The relay-race structure:** NY close → Seoul opens (5pm PT) marking NY's session + overnight
+  war tape to market → Seoul close (11:30pm PT) → NY futures carry it → NY open. Each "gap" is
+  the closed market catching up to prices discovered elsewhere. NOTE THE CPI SEQUENCING: Seoul's
+  Tuesday session ENDS six hours BEFORE the 5:30am PT CPI print — Korea trades tonight blind to
+  CPI and reacts only Wednesday. Tonight's Seoul session is a clean read on cascade-vs-exhaustion,
+  uncontaminated by the US macro event.
+- Links: [[retail-edge]] (two-population model), [[ai-capex-cycle]] (SKHY workup, memory cycle).
