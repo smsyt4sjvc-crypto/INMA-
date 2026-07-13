@@ -514,3 +514,38 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   pipeline: launder the labor stats → displaced flow to transfers → narrow the aperture → redefine the
   COLA gauge to shrink what remains. Each leg documented separately; together = the Hollow Bottom
   pipeline, fiscal edition. The grievance compounds at every stage and surfaces only at the ballot.
+
+## 2026-07-12 ~10pm PT — Timiraos pre-testimony frame: a JULY HIKE is in play; Williams sets a
+## numeric tripwire; the Fed names the AI buildout as the restrainable inflation source
+### DATA (`raw/2026-07-12-timiraos-warsh-first-call.md` — WSJ full text)
+- July 28-29 FOMC: hike live (undo last year's last two cuts); **Waller flipped** dove→hawk
+  ("risks completely flipped"); real rates ~zero/negative vs realized 3-4% inflation; Friday MPR:
+  wages "roughly consistent with 2%" (first time in 5 yrs); Kashkari: the tools start in the labor
+  market and the labor market isn't causing the inflation.
+- **WILLIAMS TRIPWIRE (vice chair): H2 monthly core CPI ≤0.2% = stay well-positioned; faster =
+  "monetary policy would need to respond."** Williams on AI: chip/electrical-gear prices =
+  "hockey sticks"; sustained buildout demand-pull = the kind you DON'T look through — and the one
+  inflation source rates CAN restrain (vs tariffs/oil).
+### THESIS (interpretation — NOT fact)
+- *(the tripwire vs our own tape — THE Tuesday number)* 2026 core CPI monthly: 0.3, 0.2, 0.2,
+  0.4, 0.2 — averaging 0.26, NOT ≤0.2, and June carries the memory-electronics passthrough.
+  **June core ≥0.3% trips the vice chair's own stated framework** two hours before Warsh's House
+  testimony. The swing vote pre-committed publicly; the print grades him in real time. (Set #2
+  registration input.)
+- *(the biggest line for the book: the Fed just aimed at the buildout)* Williams articulated what
+  Hammack implied: tariffs and oil can't be restrained by rates — **datacenter capex CAN.** A hike
+  cycle framed this way is a hike AT the $996B. Stack the weekend: token revenue −21% + credit
+  window narrowing (Papai) + now the Fed contemplating rates aimed at capex demand = the third
+  policy leg of the squeeze. Stage-2 pressure now comes from Constitution Ave too.
+- *(Kashkari + the wage certification = the third exit's intellectual preconditions, delivered)*
+  The Fed ITSELF now says: models can't parse this inflation, wages aren't causing it. That is
+  precisely the doctrinal opening Warsh's task forces need — "the tools are outdated" is no longer
+  a chair's heresy, it's the committee's own lament (and the wage line ironically certifies the
+  composition-flattered wage tape as target-consistent). The redefinition path got easier tonight.
+- *(structure read)* Williams pre-dismissing the "credibility hike" publicly = the vice chair
+  boxing the new chair in before his first testimony. Warsh's real choice: hold with hawk dissents
+  (weak chair optics) or own a hike his doctrine disbelieves. Either way, the July 28-29 meeting
+  prices as live — and **GEHC's Q2 earnings land on FOMC decision day (Jul 29)**: Jake's position
+  reports into a Fed-decision tape.
+- Calendar lock: CPI Tue 8:30am ET → Warsh House 10am → PPI/Beige Book/Senate Wed → TSMC Thu →
+  FOMC Jul 28-29. The Williams tripwire is the connective number through all of it.
