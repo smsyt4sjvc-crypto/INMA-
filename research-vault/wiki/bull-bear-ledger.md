@@ -63,5 +63,22 @@ when major evidence lands or resolves. Related: everything — this is the index
   + hard-asset ballast is correct across the whole probability range — which is why the book
   already looks like this.
 
+## Jake's resolution (2026-07-12, verbatim in substance — the ledger's purpose fulfilled)
+- He came in deliberately to build the bull case AGAINST his own bear conviction (held since
+  October, his start). Result: **less confidence — "which is the purpose."** Position: **"prepare
+  for the worst, hope for the best — position for both conservatively until something breaks one
+  way or another. Because something will break."**
+- His closing synthesis: the reason the whole bear thesis is capex is **because capex is carrying
+  the whole market — and not just the US.** (Vault quantification: ~11 names ≈ 40% of S&P; 27E
+  $996B decided by ~6 boards; semis' record $430B FCF = the hyperscalers' deficit; Korea's index IS
+  the memory complex, Taiwan's IS TSMC — one budget line item in six boardrooms is the marginal
+  revenue of the global cycle.)
+- *(analysis)* "Something will break" has NAMED sensors in both directions — bear break: Stage-2
+  (a capex guide dollar cut / $996B revised down / supplier backlogs shrinking); bull break: the
+  valve opening (Warsh doctrine + long-end acceptance) or a war off-ramp collapsing the energy
+  premium. The ledger's job: re-count when a sensor fires, not when the feed gets loud.
+
 ## Update log
 - 2026-07-12: created. Next scheduled re-count: after Warsh testimony + CPI (7/14-15) and TSMC (7/16).
+- 2026-07-12 late: Jake's red-team resolution logged (above) — working posture = both-ways
+  conservative until a named sensor fires.
