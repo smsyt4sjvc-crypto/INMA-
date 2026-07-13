@@ -107,3 +107,7 @@ dated/timed vault entry or making any market-hours claim:
    in-note labels are for human reading — keep both honest.
 (Origin: "under 4 hours to the crude open" on a Sunday morning; then labeling 9pm PT entries
 "~3am" by UTC drift. Both Jake catches.)
+6. Jake's uploads usually carry timestamps ("8m ago", "1h ago", article datelines) — derive source
+   time from those + the verified clock at paste time; don't guess.
+7. Session texture: Jake works in 10-30 minute ambient check-ins through the day, not marathon
+   sessions — don't narrate workload drama ("burnout", "go to sleep") off cumulative chat length.
