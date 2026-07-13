@@ -33,6 +33,25 @@ Related: [[runner-anatomy]], [[quiet-health-screen]], [[ai-financing-fragility]]
 - ⚠️ Timing: Q2 earnings ~Jul 29 under a NEW segment structure — 2.5 weeks after any Monday entry.
 - Falsifiers: another margin cut; PDx share loss accelerating; China stake sale at a bad price.
 
+#### 2026-07-12 refresh (broker-app digest, `raw/2026-07-12-gehc-news-digest.md`)
+- **Earnings date CONFIRMED Jul 29; street EPS $1.04 (−1.9% YoY) — a LOW bar** against FY guide
+  $4.80-5.00 (still +5-9% growth even after the cut). Q1 recap consistent w/ file: $5.1B rev +2.9%
+  organic (high end), $250M inflation costs + supplier recall (recall = resolved per prior work),
+  H2 margin mitigation promised — Q2 is the first proof-point of the mitigation.
+- **Cluster extended into May: 2 more insider purchases** (4 transactions $1.09M incl. non-cash).
+- **The AI leg is concrete, not narrative: Allia upgrade pathways** — AI retrofits to the installed
+  imaging base (software/services margin on legacy fleet, no new-system purchase needed) + Mayo
+  Clinic MI-BET study (imaging+biomarker personalized prostate-cancer treatment). This is the
+  installed-base-monetization version of AI adoption — the margin-accretive kind.
+- **⚠️ NEW WAR CHANNEL INTO THIS NAME — HELIUM (from [[buildout-bottleneck-map]] 7/12):** MRI
+  magnets run on liquid helium; GEHC is one of the world's largest helium consumers. Ras Laffan
+  strikes cut ~30% of global supply + China export ban (7/11) → helium cost/availability is now a
+  DIRECT input risk landing in H2 — the same war Jake is trading in crude reaches his healthcare
+  buy through the cryogen line. Mitigant to size on the call: GEHC's helium-free "Freelium"-class
+  tech + existing recycling programs. **Q2 call watch list: (1) H2 margin mitigation on track,
+  (2) HELIUM cost/supply commentary, (3) China stabilization/stake-sale, (4) Amneal/PDx share
+  defense, (5) Allia AI upgrade attach rates.**
+
 ### 3. EXE — NOT A CLONE: cheap with FLAT forward E; a commodity call with unsigned optionality. (B)
 - The 41% revG is ORGANIC (verified — both compare quarters include Southwestern). Record Q1 FCF $1.7B,
   net debt down to $2.8B, 6.5x. But: 2027 consensus = ZERO growth over 2026; estimates built on $4+ gas
