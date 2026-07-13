@@ -217,3 +217,19 @@ hardware** — which is Jake's heaviest sleeve. Implications:
   it; tranching permitted above it — its instruction today); **the thesis/falsifiers govern the HEDGE**
   (puts live/die on DDR5, capex guides, the fuses — not the line). Neither system vetoes the other intraday.
 - **Mechanical tripwire: a ~6.3% decline crosses the 200d median = regime confirmed, all instruments align.**
+
+## 2026-07-13 ~12:20pm PT — FILL CONFIRMED: SPY Jul-15 $750 straddle (the event position)
+- **Bought 1x SPY 07/15/26 750C @ $3.03 + 1x 750P @ $3.51 = $6.54 total ($654), filled at the
+  quoted mids.** As of 3:20pm ET: put $354 (+0.95%), call $291 (−3.86%), net −$9 — behaving as
+  designed while SPY drifts at $749.29.
+- The trade, registered: implied move ±0.87% through Wed close vs a 45% UNCONDITIONAL 2-day base
+  rate since Feb (median 0.74%), CPI windows 3-for-3 ≥1.4% (Feb/Mar/Jun), vol clustering, and the
+  touch-vs-close edge. Window contents: tonight's war tape → CPI 5:30am PT + Warsh House 7am +
+  5 banks (Tue) → Senate + PPI (Wed). Breakevens at expiry 756.54/743.46; traded on REACTIONS.
+- **EXIT RULES (pre-committed, no amendments): if Tue morning delivers the move (SPY beyond ~744
+  or ~756, or a vol spike marking the straddle up big) — CLOSE THE WHOLE THING by mid-morning; do
+  not donate a winner to Wednesday theta. If Tue is flat — HOLD (that's what the second day is
+  for); Wednesday out by ~10am PT win or lose, nothing left after PPI but decay.**
+- Doctrine notes attached: dated catalyst → short-dated = the expiry-matching rule executed; the
+  entry chased a partial repricing (0.66% → 0.87% — the morning discount mostly closed before
+  fill; logged honestly); max loss $654, sized inside the can-watch-it-go-to-zero line.
