@@ -190,3 +190,24 @@ into one 0–100 fragility number + trigger panel.
 - *(for the week)* HFs re-grossing semis INTO CPI/Warsh/TSMC week = correlation-snap fuel refilled:
   crowded longs + a hot print = the amplifier chain. Supports the event-vol-underpriced read
   (the straddle thesis) regardless of which way it breaks.
+
+## 2026-07-13 ~11:45am PT — VECTOR 11 DETONATES IN KOREA: the margin cascade, quantified
+### DATA (ZH feed via Jake)
+- **1.2 MILLION Korean leveraged retail accounts triggered margin calls as of July 13;
+  320,000-360,000 accounts FULLY force-liquidated by brokers — some with negative balances owed.**
+  Margin calls hit 5% of accounts Friday, "far higher" Monday. Sequence per ZH: retail bought
+  everything foreign investors sold; then the calls came. **KOSPI −8% = 3rd biggest one-day drop
+  since Lehman; halt #7. KORU (3x levered KOSPI ETF) −23%. SKHY −9.9% ADR / record plunge in Seoul**
+  — BBG: SKHY "embodied the retail frenzy for AI and the popularity of leveraged ETFs."
+### THESIS (interpretation — NOT fact)
+- *(the vault's amplifier thesis printing at country scale)* Leveraged retail + levered ETFs +
+  forced liquidation with NO discretion = Vector 11 live: un-bailoutable, mechanical, and the
+  halts QUEUED it (the halt analysis from last night, confirmed within 18 hours). 320-360K
+  liquidated accounts = real supply already forced out — the flush is HAPPENING, not pending.
+  Two-sided read: forced selling is FINITE (liquidation cascades end when the leverage is gone —
+  the trough-maker), but the transmission channel to US tech (Seohak ants in US levered ETFs +
+  the SKHY ADR) is open THIS session. Negative-balance accounts = broker credit losses = the
+  cascade reaching the intermediaries.
+- 100-yr stat same feed (27.6% of stocks beat the market; median stock loses money): the
+  index-vs-single-name asymmetry — file under [[retail-edge]] (why the ladders buy quality
+  wreckage, not lottery names).

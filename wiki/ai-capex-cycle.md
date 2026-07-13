@@ -1176,3 +1176,20 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
 - Buffers (time, not immunity): LTA/prepay floors route first pain to customers; HBM contracted.
   Turn-confirmation sensors unchanged: Jake's retail-pricing method (DDR5 in stock + falling),
   HBM contract cuts, and sharpest — the makers cutting their OWN capex/wafer starts.
+
+### 2026-07-13 ~11:45am PT — JAKE'S RETAIL SENSOR FIRES (first sighting) + the $2T capex race
+- **DATA (wccftech via ZH): Samsung Gen-5 9100 PRO SSDs (1TB/2TB) now retailing at the SAME price
+  as Gen-4 990 PRO variants** — the Gen-5 premium collapsed to parity at retail.
+- *(THESIS — the method's first flip)* Jake's turn-confirmation sensor is "in stock, listed price,
+  FALLING" — SSD/NAND just printed leg one at retail. Storage ≠ DRAM (NAND rolls first
+  historically; vault had Seagate/WD 'sold out through 2026' — now contradicted at retail), but
+  this is the FIRST physical-layer price signal contradicting the shortage narrative. If DDR5
+  retail follows, the cycle-turn confirmation fires. Weight: one SKU family, one sighting —
+  watch for spread.
+- Same feed: **"the race for the first bank to 'predict' $2T in 2027 capex is on — just one
+  problem: paying for all of that"** + WSJ "quarter-trillion-dollar onslaught of AI bonds testing
+  investors' limits" + **Goldman 1-Delta desk: "notable shift in market perception around AI
+  ecosystems"** + the quote: "if hyperscalers come under capital-discipline pressure, the multiple
+  on hardware beneficiaries struggles EVEN IF numbers keep [beating]" — the consensus-escalation
+  vs funding-ceiling collision now the sell-side's own framing. Semis-vs-Nasdaq 1996-2001 chart
+  recirculating; mega-cap call volumes back (retail chasing into it).

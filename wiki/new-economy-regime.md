@@ -549,3 +549,15 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   reports into a Fed-decision tape.
 - Calendar lock: CPI Tue 8:30am ET → Warsh House 10am → PPI/Beige Book/Senate Wed → TSMC Thu →
   FOMC Jul 28-29. The Williams tripwire is the connective number through all of it.
+
+## 2026-07-13 ~11:45am PT — WALLER, CPI EVE: "near-term hike possible" — Treasuries fall, GOLD −3%
+- DATA (ZH flashes): **Waller (the FLIPPED dove): "near-term hike possible"** + "not obvious our
+  balance sheet causing problems" (QT can run). Market: Treasuries fell, **gold −3%**, on the eve
+  of CPI + Warsh's debut. ZH gloss: "rate hike to contain DRAM."
+- *(THESIS)* The committee is PRIMING the hike the day before the print — Waller's conversion
+  completing in public (led last year's cuts; now pre-endorsing the reversal, per the Timiraos
+  frame). Gold −3% on hike talk = the valve-jam trade in miniature: hawkish surprise hits the
+  debasement bid FIRST (the 7/01 Goldman debasement-unwind pattern). Tomorrow's reaction map
+  sharpened: hot CPI now lands on a market pre-warned of hikes — less surprise premium on the
+  hawkish branch, MORE on the dovish (a soft print now moves further than a hot one). Watch
+  Warsh's distance from Waller under oath.

@@ -530,3 +530,17 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   premium in one number.** Watch it decay toward zero = the premium bleeding = confirmation for
   everything else; watch it BLOW OUT = the market smells the uncapping before headlines. Re-run
   the cell weekly.
+
+### 2026-07-13 ~11:45am PT — intraday: WTI >$75.50 rebuilding; UAE +80%; nine dark tankers
+- DATA (ZH feed): WTI extended above $75.50 (from $73.85 AM). UKMTO: incident 50nm south of Aden +
+  suspicious-activity warning. Iran TV: Hormuz closed "till US ends interference." Explosions
+  Bandar Abbas/Qeshm again. CENTCOM struck a SUBMARINE + ship facility. Fars: 3 IRGC killed Monday.
+  **UAE told OPEC its production surged 80% last month** (the suppression stack's OPEC leg,
+  quantified — massive quota-busting into the war). **Nine sanctioned Iranian tankers went dark off
+  Malaysia carrying ~$989M crude (Vortexa)** — the Iran→China laundering route running at scale
+  (China's separate protocol economy live). Saudi jets bombed Sanaa airport to stop an Iranian
+  passenger plane. Blackstone taking $5.34B stake in Williams power JVs (PE money to the
+  gas-to-power railroad layer).
+- *(THESIS)* The premium rebuilding intraday while UAE pumps +80% = the two stacks fighting in
+  real time (war premium vs suppression supply). Dark tankers + China's Iran-route transits =
+  the two-toll strait's THIRD lane: the sanctions-evasion economy, unpriced by either toll.
