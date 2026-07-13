@@ -506,3 +506,27 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
 - *(kill-switch final status for set #1 grading)* Casualty leg: Iran CLAIMED 3 US KIA; CENTCOM
   DENIED, all accounted for. Strike leg live, casualty leg officially denied — grade the equity
   legs under "kill-switch partially live, overtaken regime."
+
+### 2026-07-13 ~10am PT — oil options scan (Jake's run): the war premium QUANTIFIED, and no trade passes
+- DATA (USO $113.40 / BNO $44.09, full chains in chat): **skew negative EVERYWHERE — calls richer
+  than puts across all expiries.** USO 90%put−110%call IV: −8.8 (11d), −10.8 (18d), −6.4, −4.6,
+  −7.3 (39d). **BNO front-month: −19.2 (11d) and −33.5 (18d)** — the Hormuz war premium lives in
+  near-dated BRENT calls, fading to ~balanced by Aug-21+. Absolute IV elevated BOTH wings (puts
+  44-52, calls 51-65 vs ~30-35 normal) = the bimodal priced. OI map: crowd strikes = USO 100P
+  (7.9K), 120C (8K), 130C (16.5K Jul-31), 125C (4.4K Aug-21).
+- Liquidity reality: books are THIN — NaN/zero bids throughout; BNO spread math printed NEGATIVE
+  max-gain at the quotes (8/07 41/38 put spread: pay $3.10 for $3.00 width) = the bid-ask trap in
+  daylight. BNO untradeable in spreads; USO marginal outside the OI strikes.
+- *(THESIS — verdict: PASS, with reasons that teach)* (1) Jake's instinct (buy puts) = buying the
+  CHEAPER wing but still at 45-50 IV — expensive insurance needing WTI <$68 inside weeks to pay
+  (7/31 105/98 breakeven $103.70 = −8.6%). The glut thesis is priced. (2) The doctrine trade the
+  skew points at (SELL the rich calls) doesn't pay after the liquidity tax: credit spreads print
+  9-13% return-on-risk vs $7-8 max loss in an active war — and the doctrine-clean strikes (above
+  the $86-91 Brent wall ≈ USO 126-133) yield pennies. (3) Both wings bid = the market charges full
+  freight for BOTH the crash and the spike; there is no mispriced side fat enough to beat the
+  spreads' width. **No trade. The view stays expressed structurally: zero energy longs + the
+  framework + the equity book's war hedges.**
+- **NEW SENSOR (the scan's real yield): the BNO front-month call skew (−33.5 today) IS the war
+  premium in one number.** Watch it decay toward zero = the premium bleeding = confirmation for
+  everything else; watch it BLOW OUT = the market smells the uncapping before headlines. Re-run
+  the cell weekly.
