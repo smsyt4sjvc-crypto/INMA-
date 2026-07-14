@@ -849,3 +849,19 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   frequency of the oscillations = the "high volatility" horseman = itself a symptom of lateness,
   not health. Money can rip AND the chop can be the warning.
 - Links: [[detachment-bid]], [[bull-bear-ledger]], [[market-fragility]], [[ai-capex-cycle]].
+- **Addendum ~6:12am PT — Jake: "and the soft CPI runs for a month."** *(user's thesis — sound)*
+  The soft print clears the single biggest SCHEDULED overhang (the inflation data point) until the
+  next CPI ~mid-Aug (July data, w/ $85 oil). That's a DATED runway, not vague "room" — which is
+  exactly what the expiry-matching rule wants: a dated catalyst → a dated instrument with the exit
+  at the catalyst. Jake's full 3-message framework now coheres: momentum PAYS (retail push is real
+  flow) + buy-the-dip regime intact (Roberts' terminal flip hasn't fired) + DATED ~1-mo runway =
+  ride the melt-up via a DATED instrument, ENTERED on a dip (his own regime call), EXITED at/before
+  the next print, SIZED with a stop (not share-concentration held through the break). That single
+  structure honors the momentum thesis + the buy-the-dip entry + expiry-matching + capped concentration.
+- *(the refinement — clear of CPI ≠ clear of RISK):* the month is empty of the CPI PRINT but FULL
+  of other catalysts: **PPI TOMORROW (7/15) is the immediate test — and PPI is where the memory/
+  producer cost-push (Ericsson) shows up FIRST, before CPI.** So "soft inflation" gets its first
+  challenge in ~24h, not a month. Then TSMC Thu, tech earnings late July, FOMC 7/28-29 (inside the
+  runway) — and the whole time $85 July oil visibly LOADS the August reversal (market may price it
+  before the print). The stop is for the NON-CPI catalysts; the runway is only inflation-print-clear.
+- Links: [[retail-edge]] (expiry-matching, two-population), [[bull-bear-ledger]] (Roberts scorecard), [[detachment-bid]].
