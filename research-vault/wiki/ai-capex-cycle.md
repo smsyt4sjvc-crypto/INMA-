@@ -1213,3 +1213,33 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   at listed prices.** When the shelf refills, the shortage is over — visible months before the
   guidance cut. Three legs: NAND retail (flipped), consumer DDR5 retail (pending check), server
   DRAM distribution (starved). ⚠️ Channel caveats logged in raw.
+
+### 2026-07-14 ~4:05am PT — IBM PRE-ANNOUNCES a miss; the CEO line is the thesis: "capex reprioritization"
+### DATA (observed) — ZH wire, ~4am PT (pre-market, CPI morning)
+- IBM PRELIMINARY Q2 rev $17.2B vs est $17.86B (~3.7% MISS). Stock −14%. Pre-announcement
+  (unscheduled — companies pre-release to get bad news out ahead of the date).
+- CEO verbatim (relayed): "DID NOT ANTICIPATE MAGNITUDE OF CAPEX REPRIORITIZATION" and
+  "clients were distracted with cybersecurity concerns."
+- Context: IBM raised list prices ~6% (price census, 7/13) AND still missed on revenue =
+  volume fell more than price rose. Bad mix.
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **This is the FIRST named enterprise-IT casualty of AI-budget crowd-out.** "Capex
+  reprioritization" = IBM's enterprise clients are REDIRECTING their capital budgets toward AI
+  infrastructure (GPU clusters, cloud AI) and AWAY from IBM's legacy stack (consulting,
+  mainframe modernization, hybrid cloud). Every dollar to Nvidia/hyperscaler buildout is a
+  dollar NOT spent with the traditional vendor.
+- **This is a NEW dimension of the squeeze.** The three-leg squeeze was about the SPENDERS
+  (revenue/debt/internal-cash of the hyperscalers). IBM adds the mirror image: the AI capex boom
+  is DRAINING THE REVENUE of the non-AI enterprise-IT vendors via budget reallocation. Demand-
+  side crowd-out, not just supply-side cost-push. The drawdown chart showed the market pricing
+  spend intensity among the SPENDERS; IBM shows the P&L damage among the CROWDED-OUT.
+- Watch-list this creates (other legacy enterprise-IT exposed to the same reallocation):
+  Accenture (ACN), Cognizant (CTSH), Infosys, HPE, Dell services, SAP, Workday — do THEY guide
+  down citing budget shift? If yes, "AI capex crowds out other IT" becomes a confirmed sector
+  rotation, not one company's excuse. The "cybersecurity distraction" line = deflection; the
+  capex-reprioritization admission = the real signal.
+- Caveat: ONE company, pre-announced, with a face-saving narrative. Could be IBM-specific
+  execution. The watch-list resolves it. But the CEO naming CAPEX REPRIORITIZATION unprompted
+  is the tell — that's not the excuse a normal demand miss reaches for.
+- Links: [[ai-financing-fragility]] (three-leg squeeze), [[market-fragility]] (drawdown/FCF),
+  [[new-economy-regime]] (price census — IBM raised 6% and still missed).
