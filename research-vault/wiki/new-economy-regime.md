@@ -838,10 +838,11 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   opening EXTENDS the runway (bullish near-term) but does NOT defuse the capex squeeze
   (IBM/Ericsson/memory, the funding cliff). Rip now, break later — Jake's own "position for
   both conservatively until something breaks" resolution.
-- **Late-cycle tell inside the frame:** the mini-cycles are getting SHARPER and MORE FREQUENT —
-  Korea cascade, IBM −23%, bank vol-harvest, now a CPI rip, all inside DAYS. Rising amplitude +
-  frequency of the oscillations = the "high volatility" horseman = itself a symptom of lateness,
-  not health. Money can rip AND the chop can be the warning.
+- **Rising-amplitude tell inside the frame (a state, not a timer):** the mini-cycles are getting
+  SHARPER and MORE FREQUENT — Korea cascade, IBM −23%, bank vol-harvest, now a CPI rip, all inside
+  DAYS. Rising amplitude + frequency of the oscillations = the "high volatility" horseman = a
+  warning condition (elevated forward-drawdown odds), NOT a dated top. Money can rip AND the chop
+  can be the warning; neither times the turn — a trigger does.
 - Links: [[detachment-bid]], [[bull-bear-ledger]], [[market-fragility]], [[ai-capex-cycle]].
 - **Addendum ~6:12am PT — Jake: "and the soft CPI runs for a month."** *(user's thesis — sound)*
   The soft print clears the single biggest SCHEDULED overhang (the inflation data point) until the

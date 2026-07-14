@@ -1384,8 +1384,9 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   on AI costs, spend shifting commoditized-software → constrained-hardware.
 - **Memory-cycle read (Jake's "should I buy memory"):** panic-buying ahead of price hikes = classic
   shortage psychology, confirms the shortage is real + worsening NEAR-term — but hoarding is a
-  LATE-cycle/blow-off behavior (max demand when everyone front-runs). Doesn't flip the "wait for
-  the trough" verdict; adds that we're now at the PANIC-BUYING stage of the upturn. Watch for the
+  blow-off/pull-forward behavior (max demand when everyone front-runs) = a top-FORMING mechanism, not
+  a dated top. Doesn't flip the "wait for the trough" verdict; adds that we're now at the PANIC-BUYING
+  stage of the upturn. Watch for the
   flip: when front-running STOPS (buyers satiated / prices crack) = the top tell.
 - Links: [[buildout-bottleneck-map]] (DigiKey), [[new-economy-regime]] (Dimon quote below), [[market-fragility]].
 - **Addendum ~4:43am PT — IBM deteriorates to −22.66% ($224.70, −$65.84).** Now #2 all-time,
