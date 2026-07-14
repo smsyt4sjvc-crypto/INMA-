@@ -891,3 +891,26 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   now threatens GCC (Kuwaiti) oil rather than just Iranian, the "gas deflation" forecast fights a
   MUCH bigger supply risk. Brent band ($79-85) is the referee; a Kuwaiti-infra hit breaks it upward.
 - Links: [[new-economy-regime]] (oil-into-CPI), [[market-fragility]] (war-risk).
+
+### 2026-07-14 ~9:18am PT — Kish power/water = first CIVILIAN-UTILITY (non-oil, non-military) target? (Jake's Q)
+### THESIS (interpretation — NOT fact)
+- *(analysis)* Campaign target-type ledger so far: MILITARY (night-3 CENTCOM list: coastal defense,
+  missile/drone/naval — Bandar Abbas/Abu Musa/Jask/Konarak/Bushehr/Chah Bahar) → OIL/ENERGY (Abadan
+  refinery + Imam Khomeini port, Iranian-claimed) → now KISH power + water (Tasnim). **So yes: if the
+  Kish claim holds, power/water are the first CIVILIAN UTILITIES hit — neither military nor oil/export.
+  Jake's category read is correct.** (Chah Bahar was a port but CENTCOM framed it "maritime capabilities"
+  = military; Bushehr "military targets," nuclear question separate.)
+- **Caveats (why "first" is likely-yes, not confirmed):** (1) Tasnim = Iranian state (layer-2); strong
+  incentive to allege CIVILIAN damage (frames US as hitting civilians, internationalizes). (2) Power/water
+  are DUAL-USE — grids feed military sites too; the "civilian" label is contested (US would call it
+  military-supporting). (3) Could be COLLATERAL from a strike on a military target on Kish, not deliberate.
+- **Why the category matters (escalation-ladder, per warning-vs-trigger):** hitting civilian utilities is
+  a real EVENT and a rung UP — from degrading military capability toward PRESSURING the population/economy
+  (pressure-campaign logic; Iraq-1991, Serbia-1999 grid-strike precedent). Mission-creep tell: the campaign
+  drifting from the stated "reopen the strait / degrade shipping attacks" toward "punish Iran broadly."
+- **Market/oil bearing:** civilian utilities are NOT directly oil-supply-relevant (doesn't cut exports) →
+  NOT directly oil-bullish like an Abadan/Kharg hit. BUT it's a category-change EVENT that RAISES the odds
+  of the oil TRIGGER (Kharg / export terminals) without being it — pressure campaigns that hit power/water
+  often precede or accompany economic-infra strikes. Watch: Kharg (the oil kill-switch) + whether more
+  civilian-infra strikes follow (pressure-campaign confirmation).
+- Links: [[new-economy-regime]] (oil-into-CPI), [[market-fragility]].
