@@ -200,3 +200,17 @@ stress (business ramping, recovery) — handle by pricing the menu, not by lectu
   $1,089). Small drawdown, not fatal; chased a worse entry on a name he wanted anyway. Do NOT push
   add/cut in a frustrated state. (Portfolio-state NOT updated — no fill confirmation protocol; but he
   stated the fill, so noting for continuity.)
+
+## 2026-07-14 ~7:20am PT — MU trailing-stop % selection (Jake setting it)
+- Mechanics: trails from HIGH-WATER MARK (ratchets up on new highs, never down); initial stop =
+  current × (1−%); fires MARKET sell on X% drop from peak. Set GTC (not day-only). MU ~$961, entry $980.
+- % → stop price off ~$961: 8%=$884, 10%=$865, 11%=$855 (≈air-pocket edge), 12%=$846.
+- **The genuine tension (no perfect %):** air pocket wants stop ABOVE $854 (fire before the $854→$652
+  cliff) → trail ≤~11%. Daily noise (5-8%) wants trail WIDE (≥~8-10%) to avoid whipsaw. Overlap ≈ 10%
+  ($865): above the cliff, survives MOST noise — but MU's 8% days still threaten even a 10% trail. No %
+  is whipsaw-proof on this name.
+- **Cost of the needed width:** a 10% trail reversing right after set = ~−12% from the $980 entry. Real.
+  → the volatility that forces a wide stop IS the argument to SIZE THE POSITION SMALL (so −12% is
+  tolerable). Can't have big size + tight stop + hold a 8%-range name — pick.
+- Gap note: overnight air-pocket gap → market-stop fires but fills at the gap price (slippage) — exits
+  (good), worse price (accept). Numbers/choice Jake's.
