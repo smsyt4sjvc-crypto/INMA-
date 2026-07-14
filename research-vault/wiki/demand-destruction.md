@@ -791,7 +791,7 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   bearish — Iran answered capability-degradation with actual hull-stops.
 - **Timing into CPI (~2h20m):** oil premium re-confirmed by a REAL incident (not just a
   headline) the morning of the print = live inflation-scare accelerant on the hawkish branch.
-  Reinforces set-#2 WTI leg + the "hike odds >34%" view via P(hot) and the persistence read.
+  Reinforces set-#2 WTI leg + the hawkish-persistence read.
 - Source-grade note: this cluster is unusually CLEAN — an official UKMTO warning anchoring the
   Iranian claim, a credible outlet (Semafor) on the toll, FARS corroborating an already-official
   strike. Layer-1 confirmation on the load-bearing item (the attack). Contrast the Keshel/

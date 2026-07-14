@@ -613,14 +613,10 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   different?" — no differential FACT, one differential FRAME (third exit). Thin edge; the same
   view is already expressed cheaper in gold/duration reactions. Sizing, as ever, Jake's.
 - Links: [[market-fragility]] (event-vol), [[retail-edge]] (surprise rule).
-- **Addendum ~5:40pm PT — Jake's registered view (user's thesis): "34% chance of a hike is
-  lower than reality."** I.e., true P(hike) > 34% → the 2.81x side is value. Gradeable two ways:
-  (a) do the odds trade materially higher post-CPI/testimony this week; (b) does the Fed hike
-  7/29. Decomposition at registration (analysis): P(hike) = P(hot core)·P(hike|hot) +
-  P(soft)·P(hike|soft) ≈ 0.45·0.60 + 0.55·0.08 ≈ 31% — market ≈ fair on those inputs; Jake's
-  edge must live in P(hot) > 45% (run-rate 0.26 + oil $85) or P(hike|hot) > 60% (Waller ramp
-  already underway). Trade construction note: Kalshi positions can be SOLD before settlement —
-  the repricing (34→50-60 on a hot print) is capturable without the hike ever happening.
+- **Addendum ~5:40pm PT — [WITHDRAWN 7/14 at Jake's request: a passing Kalshi-hike speculation was
+  logged here as a "view"; Jake reclassified it as offhand speculation, not a registered prediction,
+  and asked it removed. Not on the calibration scoreboard. Neutral market data (Kalshi 66/34) stays
+  in the 5:30pm entry above; the personal-view framing is gone.]**
 
 ### 2026-07-13 ~5:50pm PT — AI cost-push INTO the CPI: the channel map (Jake's Q: "electronics, autos, etc.")
 ### DATA (observed, weights/precedents from public BLS structure + vault sensors)
@@ -648,7 +644,7 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
      violent. If memory stays tight into model-year 2027 pricing, this is the H1-2027 core story.
 - Timing verdict: adds LITTLE to tomorrow's June print (shelf prices flipped this week, June
   data closed in June) — adds a LOT to H2-2026/2027 core persistence. So it strengthens the
-  "hike odds > 34%" view mainly via P(hike|hot) — the committee reading persistence AHEAD, not
+  hawkish-persistence case mainly via the committee reading persistence AHEAD, not
   via tomorrow's number. It is also the anti-Kashkari inflation: not labor-caused, and the only
   Fed tool that touches it is making the capex itself more expensive (the fourth blade of the
   funding squeeze).
@@ -719,10 +715,8 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   to NOT hike and even to ease WITHOUT Warsh needing to redefine anything — the number came in soft
   on its own. Kills the July-hike case; the "inflate-it-away / longer-AI-runway" scenario ([[new-economy-regime]]
   valve thesis) gets fuel. Hike odds should collapse toward ~10-15%; "maintain" toward ~85-90%.
-- **Jake's registered "hike odds >34%" view (7/13 ~5:40pm) is FALSIFIED on this print** — the
-  P(hot core) leg lost decisively (core 0.0, not ≥0.3). Honest grade: wrong on June. (We did NOT
-  enter the Kalshi hike side — flagged "reprice after the print" — so no position loss; the
-  contrarian "maintain gets fat on a soft print" note was the correct read.)
+- (The July-hike case is dead on this print — core 0.0, not ≥0.3. No position was taken; the
+  "reprice after the print / maintain gets fat on a soft print" read was the correct one.)
 - **Forward thesis INTACT — the sequencing holds.** This is JUNE data: BEFORE the July $85-Brent
   war spike AND before the memory cost-push reaches consumer prices. Per the 7/14 Ericsson/GEHC
   sequencing ([[ai-capex-cycle]]): memory inflation hits OEM MARGINS first (now, in earnings),
@@ -882,12 +876,10 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   stablecoin statement, US Treasury — coordinated stablecoin-reg push this week.)
 - Citigroup −5.5% DURING its earnings call (outlook/guidance-driven, not the print).
 ### THESIS (interpretation — NOT fact)
-- **Grades Jake's registered "hike odds >34%" view (7/13), honestly split:** the JULY hot-core LEG
-  LOST on this print (core 0.0, not ≥0.3) — near-term catalyst wrong. BUT his STRUCTURAL instinct
-  ("public/retail betting UNDERPRICES the hike") is now MEASURABLE and CORRECT: Polymarket (retail)
-  40% < SOFR (smart money) 52% — retail IS pricing the hike lower than institutions, exactly his
-  claim. Wrong on the trigger, right on the underpricing. The 12-pt Polymarket-SOFR gap = his thesis
-  made visible.
+- **Retail vs smart-money hike-odds gap (observation):** Polymarket (retail) 40% < SOFR futures
+  (institutional) 52% = a 12-pt spread. Retail prices the Sept hike LOWER than institutions — a
+  recurring pattern worth watching (retail tends to underprice hawkish tails). Descriptive market
+  data, not a graded call.
 - **The bigger tell: hike odds did NOT collapse to 10-15% on a soft CPI — SOFR holds 52% for Sept.**
   = the market (like the vault) reads the softness as ENERGY-LED/TEMPORARY (July $85 oil reverses it)
   and keeps a real Sept-hike probability. Confirms the "soft print ≠ dovish regime, it's a one-month
@@ -895,4 +887,4 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   = the measurable edge — but Sept is far, cross-venue arb has friction; descriptive, not a call.
 - Warsh racing GENIUS Act rules by Sat + US-UK stablecoin statement = the tokenization/stablecoin
   regulatory plumbing accelerating hard ([[buildout-bottleneck-map]] tokenization crossing).
-- Links: [[market-fragility]], [[demand-destruction]] (oil-into-CPI), [[_calibration]] (thesis grade).
+- Links: [[market-fragility]], [[demand-destruction]] (oil-into-CPI).
