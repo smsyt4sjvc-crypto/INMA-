@@ -361,3 +361,10 @@ into one 0–100 fragility number + trigger panel.
   pro-cyclical, historically slow at turns (didn't flag '08) — still blind to the fintech/subprime
   layer. Net: "no stress in the prime forward models," same subprime blind spot. Two banks now
   fully confirm both signatures; treat as settled, stop re-logging incremental bank lines.
+- **Addendum ~4:30am PT — GS Q2: Equities S&T $7.42B (est $5.02B, +48%); FICC $4.59B (est $3.76B,
+  BEAT +22%).** GS FICC BEAT vs JPM MISS / BofA in-line is the informative divergence: GS FICC is
+  commodities-heavy → it CAUGHT the oil/war volatility JPM's rates/credit-tilted FICC didn't.
+  Refines the stress-location read: Q2 turbulence was concentrated in EQUITIES + COMMODITIES
+  (Korea, AI unwind, oil/war premium), NOT rates/credit — GS's commodity FICC beat is the second
+  confirmation of that split (JPM's rates/credit FICC miss was the first). Still says: equity+
+  commodity event, not a credit/macro event. Three banks now; equities harvest fully settled.
