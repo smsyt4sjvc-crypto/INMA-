@@ -764,3 +764,38 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   whole coast struck; KHARG AND THE OIL-EXPORT NODES STILL UNTOUCHED. Iran's navy is
   blockaded; its oil is not — that gap is the last rung before the top of the uncapping
   list, and the market's $85 says it's watching the same gap.
+
+### 2026-07-14 ~3:10am PT — CPI-morning feed: toll ALIVE + tankers disabled (the hull-stop fires)
+### DATA (observed) — ZH relay cluster, timestamps 11–28m before ~3:10am PT paste
+- **UKMTO WARNING 087-26 — "ATTACK"** (UK Maritime Trade Operations, ~2h prior). ⭐ OFFICIAL
+  primary-source channel (layer 1) — the authoritative Gulf-shipping warning desk. An "ATTACK"
+  classification = a confirmed incident in the lanes, not a claim.
+- **IRGC "targeted and disabled" TWO SUPERTANKERS** for turning off navigation systems /
+  ignoring warnings: Tasnim (Iran state-linked, ~28m). Corroborated by the UKMTO warning above.
+- **"MULTIPLE EXPLOSIONS HEARD IN BUSHEHR": FARS** (~11m) — corroborates the night-3 CENTCOM
+  Bushehr strike (logged 7:20pm PT). ⚠️ still no NPP-damage claim; watch that specifically.
+- **"TRUMP 'VERY SERIOUS' ABOUT 20% FEE PLAN FOR HORMUZ": SEMAFOR** (~13m). Credible outlet
+  (layer 1-ish). The toll plan is NOT dead — pursued in parallel with the strikes.
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **The night-3 read resolves — and it's the harsher version.** It was never
+  "negotiate the rate OR destroy the toolbox." Semafor says the toll is alive WHILE the
+  coastline gets flattened. So: destroy Iran's counter-capability FIRST, THEN impose the US
+  toll. The strikes clear the board so the US can be the collector. That's Jake's
+  protection-racket / burden-sharing design executing top-down — the US isn't abandoning the
+  toll, it's seizing the toll from Iran.
+- **The hull-stop tripwire we've watched for weeks just fired** — but as IRAN'S move, not the
+  US's. Blockade the coast → Iran disables tankers (the "dark tanker" theme inverted: Iran now
+  attacking ships that go dark). Two supertankers disabled + an official UKMTO ATTACK warning =
+  a real category move on the shipping axis, confirmed by the one primary channel that matters.
+  This is what keeps Brent bid at $85 despite the anti-shipping strikes being mechanically
+  bearish — Iran answered capability-degradation with actual hull-stops.
+- **Timing into CPI (~2h20m):** oil premium re-confirmed by a REAL incident (not just a
+  headline) the morning of the print = live inflation-scare accelerant on the hawkish branch.
+  Reinforces set-#2 WTI leg + the "hike odds >34%" view via P(hot) and the persistence read.
+- Source-grade note: this cluster is unusually CLEAN — an official UKMTO warning anchoring the
+  Iranian claim, a credible outlet (Semafor) on the toll, FARS corroborating an already-official
+  strike. Layer-1 confirmation on the load-bearing item (the attack). Contrast the Keshel/
+  Daugherty election tweets still sitting unverified on the calibration ledger.
+- Seoul note: KRX Tuesday session already CLOSED (3:30pm KST = 11:30pm PT) — tonight's
+  cascade-vs-exhaustion read is in the books; grade it when Jake pastes the KOSPI/Hynix close.
+- Links: [[market-fragility]], [[new-economy-regime]] (CPI), [[predictions]] (set #2 WTI leg).
