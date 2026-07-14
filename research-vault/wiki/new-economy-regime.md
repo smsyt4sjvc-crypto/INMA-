@@ -621,3 +621,39 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   edge must live in P(hot) > 45% (run-rate 0.26 + oil $85) or P(hike|hot) > 60% (Waller ramp
   already underway). Trade construction note: Kalshi positions can be SOLD before settlement —
   the repricing (34→50-60 on a hot print) is capturable without the hike ever happening.
+
+### 2026-07-13 ~5:50pm PT — AI cost-push INTO the CPI: the channel map (Jake's Q: "electronics, autos, etc.")
+### DATA (observed, weights/precedents from public BLS structure + vault sensors)
+- Vault sensors already showing the push at the component layer: server DDR5 $78-133/GB vs $3-5
+  pre-shortage (DigiKey census 7/13); Samsung Gen-5 SSDs at Gen-4 retail parity (consumer shelf
+  flip, 7/13); GEHC $250M memory-driven cost cut (the industrial receipt).
+- Rough core-CPI goods weights (BLS, approximate): new vehicles ~3.5-4%, used vehicles ~2.5%,
+  household furnishings/appliances ~4%, IT commodities (PCs/phones/TVs) ~1%. Electricity ~2.5%
+  (services side). Fed has already named DC capex as inflation it does NOT look through
+  (semis/electrical gear "hockey sticks" — logged 7/12).
+- Precedent: 2021 chip shortage → used-car CPI +~45% peak, THE single largest driver of the
+  2021 core spike. Cars carry $500-1,500 of semi content; memory rides in infotainment/ADAS.
+### THESIS (interpretation — NOT fact)
+- *(analysis)* Four channels, ordered by arrival time:
+  1. **Electricity — already in the prints.** AI load growth → power prices; most direct and
+     most visible channel; runs through services, not goods.
+  2. **Consumer electronics — arriving NOW (his SSD sensor = the leading edge).** Key mechanic:
+     BLS hedonic quality adjustment made electronics a structural DEFLATION category (−5-10%/yr
+     for PCs historically). Same-spec hardware costing more = pure price increase hedonics
+     can't offset. A category that mechanically subtracted from core for 30 years flipping to
+     ADD is a sign-change the models aren't built for. Small weight (~1%) but the swing is big.
+  3. **Appliances/furnishings — 1-2 quarters out** (contract repricing lag from the $102/GB
+     industrial layer, per the Advantech→GEHC chain).
+  4. **Autos — 2-4 quarters out, biggest weight.** 2021 showed the transmission works and is
+     violent. If memory stays tight into model-year 2027 pricing, this is the H1-2027 core story.
+- Timing verdict: adds LITTLE to tomorrow's June print (shelf prices flipped this week, June
+  data closed in June) — adds a LOT to H2-2026/2027 core persistence. So it strengthens the
+  "hike odds > 34%" view mainly via P(hike|hot) — the committee reading persistence AHEAD, not
+  via tomorrow's number. It is also the anti-Kashkari inflation: not labor-caused, and the only
+  Fed tool that touches it is making the capex itself more expensive (the fourth blade of the
+  funding squeeze).
+- **The yardstick collision:** this is exactly where the third exit will be fought. Warsh's
+  "inflation in a changing economy" + data-methods task forces could EXPAND hedonics/"look
+  through supply factors" to define AI cost-push away — the same categories, opposite sign.
+  Whether AI shows up as inflation may end up a MEASUREMENT decision, not a market fact.
+- Links: [[ai-capex-cycle]] (memory sensors), [[buildout-bottleneck-map]], [[power-scarcity-equities]] (electricity).
