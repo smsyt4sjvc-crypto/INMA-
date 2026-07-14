@@ -141,3 +141,15 @@ stress (business ramping, recovery) — handle by pricing the menu, not by lectu
   · Net update: MU is a BETTER near-term hold than I implied (fundamentals improved — concede);
     but the timing/concentration/panic-stage caution stands, and the improvement IS panic-demand.
     A +5% post-CPI gap still isn't a clean entry. Better case ≠ chase-here.
+- **~6:15am PT — Grok retail-consensus read on MU (Jake delegated):** "Bullish dip-buying,
+  AI/datacenter HBM, undervalued post-rotation pullback, strong long-term AI demand, many
+  holding/buying." *(analysis)* Confirms Jake's "consensus still buy-the-dip" (Roberts' terminal
+  flip NOT fired → runway open). BUT run through the surprise rule: this IS what the market already
+  believes → if Jake's view = this view, ZERO informational edge (he'd be the consensus). Fine,
+  because his actual thesis is the MECHANICAL edge (ride the retail flow w/ exit), not informational.
+  For that game this = a FUEL GAUGE: unanimous retail bullishness = the tank. A full tank of retail
+  bulls is (a) the bid UNDER dips → supports the buy-the-dip ENTRY (dips get bought), AND (b) exactly
+  what LIQUIDATES when the regime flips (Korea, days ago). "Many ALREADY holding/buying" = fewer
+  marginal buyers left = fuel largely deployed. Net: bid confirms dips-get-bought (good for entry);
+  unanimity warns fuel is late-stage → the more unanimous, the more the EXIT is the whole trade.
+  Unanimous bullish IS the precondition for the flip, not the opposite of it.
