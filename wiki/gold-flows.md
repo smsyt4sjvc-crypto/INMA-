@@ -17,8 +17,9 @@ Related: [[market-fragility]], [[portfolio-state]]. Source: Kobeissi Letter post
   Asian physical. So this is traders leaving, not the haven failing.
 - *(analysis)* Record outflow *after a ~2.5x run, as price rolls off the top* = profit-taking
   + rate/cash competition (zero-yield metal vs ~4–5% T-bills) + FOMO into the equity melt-up.
-- *(analysis)* Outflow into a melt-up = crowd abandoning insurance at the top = a late-cycle
-  complacency tell that *supports* holding the hedge, not selling it.
+- *(analysis)* Outflow into a melt-up = crowd abandoning insurance into strength = a complacency
+  tell (a state) that *supports* holding the hedge, not selling it. (Note: complacency can persist —
+  this shifts odds toward owning the hedge, it does not time the reversal.)
 - *(analysis, key distinction)* Gold sold *while stocks rise* = rotation. Gold sold *while
   stocks crack* = liquidity/margin-call phase (usually the last down-leg before gold turns).
   Same outflow number, opposite meaning — told apart by what stocks do next to it.

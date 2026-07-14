@@ -7,8 +7,9 @@ Related: [[market-fragility]], [[cepi]], [[concentration]], [[power-not-petroleu
 > regime labels (these are judgment, not fact — tune them).
 
 ## DATA (what it computes — the five lobes)
-Convention: each lobe outputs a signed score in [−1,+1]; **+1 = fragile/late-cycle top**,
-−1 = broad/healthy. Weighted average → 0–100 fragility.
+Convention: each lobe outputs a signed score in [−1,+1]; **+1 = fragile/stretched-state**,
+−1 = broad/healthy. Weighted average → 0–100 fragility. (Fragility is a STATE score — an odds-shader,
+not a top-timer; see the warning-vs-trigger rule in CLAUDE.md.)
 1. **Breadth** — % of S&P above 50/200DMA. Thin = fragile. (w 0.22)
 2. **Concentration** — SPY÷RSP (cap vs equal weight), 1y percentile + 1mo slope. (w 0.20)
 3. **CEPI** — [[cepi]] air gap (capex YoY − earnings YoY) + intensity. (w 0.20)
@@ -23,8 +24,8 @@ CEPI air gap >0.20; defense>cyclical accumulation; gold up & oil down.
   not fitted. Tune or fit once history exists.
 - *(analysis)* The engine is mostly **coincident** — breadth/money-flow confirm, they don't
   predict. The **leading** lobe is CEPI (fundamentals lead price); watch it hardest.
-- *(analysis)* Regime labels (≥70 "late-cycle/distribution", etc.) are thresholds chosen for
-  intuition, not statistically derived.
+- *(analysis)* Regime labels (≥70 "stretched/distribution", etc.) are thresholds chosen for
+  intuition, not statistically derived — state descriptions, not top-timers.
 
 ## Where the code lives
 - Full script pasted in chat 2026-07-01 (Colab-ready; needs yfinance, runs in user's Colab

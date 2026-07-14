@@ -63,5 +63,5 @@ fuses). This tool's jurisdiction: once fear arrives, how to treat it.
 1. Episode <30 days old → historically 0% bear odds; recovery-buying has a perfect base rate.
 2. Episode crossing ~45–60 days unresolved → bear odds climb toward a coin flip; first rallies suspect.
 3. Episode END (5 calm days below 20) → historically a positive-expectancy re-entry marker in ALL bins.
-4. Scare-FREQUENCY clusters (7 since Aug-24) = late-cycle texture (1997-99 rhyme): trained complacency
+4. Scare-FREQUENCY clusters (7 since Aug-24) = a complacency-TRAINING mechanism (1997-99 rhyme): trained complacency
    is the mechanism by which the eventual real one opens quietly.

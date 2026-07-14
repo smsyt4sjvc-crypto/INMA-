@@ -123,7 +123,7 @@ END SIGNALS (the ones that actually mark tops):
 ### Read
 - 3-4 horsemen + 2 of 4 end-signals FLASHING; the 2 that actually mark the TOP (mainstream
   capitulation + credit event) have NOT fired. = LATE but not terminal. Matches the vault's
-  "late-cycle, valve-dependent, something-will-break-but-not-yet" ([[bull-bear-ledger]] capstone).
+  "stretched-state, valve-dependent, breaks-when-a-TRIGGER-fires-not-yet" ([[bull-bear-ledger]] capstone).
 - USEFUL INVERSION: bubble articles being WRITTEN = not the top (at the top nobody writes them).
   Track when they STOP appearing.
 - **The honest pushback Jake is under-weighting (argue the flip, per [[_calibration]]):** Roberts
