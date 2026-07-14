@@ -789,3 +789,18 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   · **JPMorgan traders' est: +1-1.5% stocks** = ~756-760 SPY. Straddle breakeven ~756.5 → JPM's
     expected move lands RIGHT AT the breakeven; a clear straddle win needs the HIGH end (+1.5%/~760).
     Live but not fat; the opening gap decides. Waller walk-back watch (his hawkish panic vs this print).
+- **CORRECTION/refinement ~5:50am PT — component chart (ZH):** MoM contributions — Energy −0.445
+  (THE driver), Food +0.028, Core Goods −0.016, Core Services +0.019, **SUPERCORE −0.206**. YoY —
+  Core 2.594, Supercore 3.172, Energy +1.013, Core Services 1.915, Core Goods 0.158.
+  · **Corrects my 5:45am "core services rose, sticky part intact":** core services rose ONLY on
+    SHELTER — SUPERCORE (core services EX-housing, the Fed's most-watched wage-driven gauge) was
+    NEGATIVE −0.206 MoM. The sticky-ex-housing part DID disinflate this month. More dovish
+    composition than I said. (Firewall: overstated the sticky read; the chart falsifies it.)
+  · BUT the level/momentum split (Jake's catch) HOLDS and sharpens: even supercore momentum went
+    negative WHILE supercore YoY is still 3.17% (elevated/persistent). Momentum soft in the
+    stickiest component now → makes Warsh's momentum-clock read EASIER, the relief rally more
+    justified today; the LEVEL (3.17%) still above target = Jake's persistence point intact.
+  · Cost-push thesis STILL confirmed: Core Goods −0.016 (goods DEFLATING, not memory-inflating) —
+    the cost-push is absent from CPI exactly as the Ericsson/GEHC 2027-lag predicts.
+  · Net: a genuinely soft-composition print (supercore negative), but energy-led and one-month;
+    July's $85 oil + the eventual goods cost-push are the reversers. Dovish today, not a trend.
