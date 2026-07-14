@@ -715,3 +715,43 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
 - Sensor: BNO front-month call skew (baseline −33.5) tomorrow = is the market paying up for
   MORE escalation or was $85 the repricing.
 - Links: [[market-fragility]] (Korea), [[new-economy-regime]] (CPI morning), [[predictions]].
+
+### 2026-07-13 ~7:20pm PT — Night 3 complete: THE ANTI-TOLL WAVE (CENTCOM verbatim)
+### DATA (observed)
+- CENTCOM statement (tweet, pasted 16s after post, ~7:20pm PT): wave completed 10:15pm ET
+  (7:15pm PT), five-hour mission (≈2:15pm PT start — matches the 4:45pm ET launch flash logged
+  earlier). Targets, verbatim list: **Bushehr, Chah Bahar, Jask, Konarak, Abu Musa, Bandar
+  Abbas** — "coastal defense systems, missile and drone sites, and maritime capabilities" —
+  stated purpose: "to further degrade Iran's ability to attack commercial shipping."
+- "More than 50,000 U.S. service members are currently deployed across the Middle East.
+  American forces remain vigilant, lethal, and ready."
+- NOT in the target list: Natanz/Pickaxe, Kharg, any energy-export node. No mention of the
+  FARS "vessel" claim — no US losses acknowledged.
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **Every named target is coastal/maritime — night 3 is the blockade made
+  kinetic.** All six sit on the Gulf/Gulf-of-Oman littoral: Bandar Abbas (main navy base AT
+  Hormuz), Abu Musa (IRGC island garrison IN the strait), Jask/Konarak (Gulf-of-Oman naval),
+  Bushehr (military sites — NOTE: also the nuclear-plant city; watch for NPP-damage claims,
+  which would be a category change), Chah Bahar (Iran's own OUTSIDE-Hormuz bypass port).
+  Read with "blockade reinstated" + Brent $85: Trump's answer to Araghchi's toll counter is to
+  destroy the toll collector's toolbox rather than negotiate the rate. The strait economics
+  thesis (protection racket vs convoy costs) is now the explicit, stated axis of the campaign.
+- Striking Chah Bahar is the subtle one: that's Iran's own bypass infrastructure (India-linked
+  development). Hitting it says the goal isn't just reopening Hormuz — it's denying Iran ANY
+  maritime revenue lane. Squeeze logic, not reopening logic.
+- Category-change scoreboard tonight: Pickaxe NOT executed (telegraphed, still pending), no
+  energy node struck, no US casualties acknowledged → none of the kill-switch branches fired.
+  Campaign remains "scheduled background process"; the anti-shipping focus is marginally
+  oil-BEARISH mechanically (degrading interdiction capability protects flow) even as the
+  blockade framing keeps the premium bid. Band edge $84-85 = the referee.
+- **"Deployed" (Jake's flag): 50K is the standing regional total, not a new surge.** CENTCOM's
+  area of responsibility normally holds ~40-45K (bases in Qatar, Bahrain, Kuwait, UAE, Iraq,
+  Jordan, Syria + carrier groups); it surged to ~50K in late-2024 during the Israel-Iran
+  exchanges. Quoting it in a strike release is deterrence messaging aimed at Tehran's
+  response calculus, not a mobilization announcement. Scale check: 50K is an AIR/NAVAL-campaign
+  posture — the 2003 Iraq invasion took ~150K+ for a country a third Iran's size and a quarter
+  its population. Nothing in this number implies ground war. The number to WATCH is a jump
+  toward 75-100K+ (armor, multiple carrier strike groups, brigade movements) — that would be a
+  posture change worth pricing.
+- Links: [[market-fragility]] (Seoul trading this live, mid-session), [[new-economy-regime]]
+  (oil into CPI, ~10h).
