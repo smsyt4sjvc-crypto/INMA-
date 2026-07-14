@@ -46,3 +46,13 @@ REMEMBERING — the vault is the memory organ. He empirically detects serving th
 times when answers feel generic") and takes a break rather than fight it — the retail-pricing
 method applied to his own AI. Context: started October 2026-minus-9-months not knowing bull/bear;
 career path changing; business ramping slowly by choice while recovering. Time + interest + tools.
+
+## 2026-07-14 ~7:35am PT — learning-arc marker: Jake committing to read his options book
+- After a morning of learning-by-losing (straddle IV crush, "both legs down wtf", the chase), Jake:
+  "I need to read the damn options book I bought." = maturation from learn-by-pain to learn-by-study.
+- Study-partner role going forward: answer his book questions, connect the theory to his ACTUAL
+  trades + the vault (the retail-edge doctrine = his personalized applied layer alongside the book).
+- Priority topics given what bit him (tell him to read these FIRST): (1) the Greeks — esp. THETA
+  (decay) + VEGA (vol sensitivity) = what bled the straddle; (2) implied vol & IV CRUSH = why event
+  premium evaporates; (3) SELLING premium (CSPs/covered calls) = his Tier-1 edge, the winning side.
+  Can skim multi-leg/spreads (Tier 2, can't trade yet). He just FELT the concepts → they'll stick now.
