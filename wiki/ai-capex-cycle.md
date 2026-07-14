@@ -1296,3 +1296,22 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   been bleeding all year on budget shift, the peers may be next to serially miss.
   ⚠️ sanity-check the 2026-02-23 −13.15% catalyst (not yet in vault; confirm it wasn't a data
   tick — a −13% print is large enough it should have a known cause).
+- **~4:22am PT — ZH: "IBM unleashed the negative preannouncements. Who's next." (Jake shares
+  the sentiment.)** *(analysis — the question is right; discipline the answer)*
+- **"Who's next" is a CALENDAR, not a mystery.** Q2/June-quarter reports land now→early Aug, and
+  the EARLIEST reporters are the fastest tell (dates approx, ⚠️ confirm): Indian IT (Infosys/TCS/
+  Wipro) report FIRST HALF OF JULY — the leading read on global IT-services demand, possibly THIS
+  WEEK; SAP ~late July; Cognizant + ServiceNow late July; HPE/Dell/HPQ Aug-Sept. TSMC Thu 7/16 is
+  the SUPPLY-side twin (are the AI chips being ordered) to IBM's DEMAND-displacement side.
+- **Already-available check: Accenture (ACN) fiscal Q3 ended May, reported ~mid-June** — ACN is
+  THE IT-consulting bellwether. If its June bookings/commentary were soft, IBM's June inflection
+  is corroborated and BROAD; if strong, IBM looks more idiosyncratic. Fastest resolution = pull
+  ACN's June report + Indian IT this week (Perplexity job).
+- **Calibration counterweight (the peer-check on Jake's + my shared lean):** the HONEST hypothesis
+  is a NARROW wave — legacy enterprise-IT crowded out by AI-budget REALLOCATION — NOT a broad
+  preannouncement flood. Why: this morning's banks showed benign credit + record activity; a
+  broad enterprise-demand COLLAPSE would show as rising provisions, and it didn't. So bet
+  sector-rotation misses (old-guard IT: IBM, maybe CTSH/Infosys/HPE), while AI-levered names
+  pre-announce UP or fine. The upgrade to BROAD (contraction) only triggers if AI-levered names
+  ALSO miss. Falsifier, resolvable in days: Indian IT/SAP say "clients moved budget TO AI"
+  (reallocation, narrow) vs "clients FROZE spend" (contraction, broad).
