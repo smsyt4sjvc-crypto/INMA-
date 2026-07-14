@@ -233,3 +233,28 @@ not modesty. Conservative self-description buys conservative approval.
   with price (better for a $900+ name).
 - **Volatility caveat:** MU swings 5-8%/day → a trail tighter than ~8-10% WHIPSAWS out on noise. Set the
   trail WIDER than daily noise or it scratches constantly (the same tight-stop tension). Numbers Jake's.
+
+## 2026-07-14 ~8:35am PT — the GPT-5.6 max-ROI playbook: good MAP, wrong SCALE for Jake (critical read)
+Source: raw/2026-07-14-gpt56-max-roi-playbook-2027.md. CONVERGENT with vault (bottlenecks-first,
+utilization-swing, tranche discipline, sell signals, scenario tree = independent confirmation). But 3
+reality checks it can't know about Jake's actual situation:
+1. **SCALE MISMATCH — it's a $500k–$5M playbook, not an $8.5k one.** 13 positions at ~$8,500 = ~$650
+   avg/position; the 3% satellite = ~$255, 5% cash = ~$425. Round lots, and any options collateral,
+   don't work at that granularity. The FRAMEWORK travels; the 13-name implementation does NOT. For his
+   account: 3-5 names max, not 13.
+2. **DRAWDOWN-TOLERANCE MISMATCH — it openly embraces a 30-45% drawdown "even if thesis intact."** That
+   assumes deep pockets + long horizon + emotional detachment. This morning proved the emotional part is
+   REAL for Jake (straddle spiral). 30-45% on $8,500 = $2,500-3,800 of real money → size the concentration
+   so THAT is survivable, or the playbook's own risk blows him out at the low (the un-stoppable-MU finding
+   says size is the ONLY control).
+3. **CONSENSUS = PRICED (surprise rule).** A nerf-confirmed GPT generating this polished playbook = it's
+   what everyone believes = it's in the price. Owning the consensus AI-infra basket is BETA, not EDGE.
+   Jake's edge is the DIFFERENTIAL layer (buried IBM/Ericsson memory read, DigiKey physical sensors, entry
+   timing/discipline) — NOT the holdings list everyone has.
+- **The useful MIRROR:** the playbook's OWN MU rules — "tranche 25% at a time, add on −8-10% & −15-18%,
+  DON'T chase an earnings gap >12%" — are EXACTLY what Jake didn't do at 6:30 (bought $980 all-at-once
+  chasing +5%). The playbook agrees with the discipline and grades the chase as the error. Use it as the
+  template for the REMAINING position (tranche the adds into declines), not validation of the entry.
+- **What to actually take:** the SEQUENCE (memory/infra → hyperscalers after FCF bottom → apps) + the
+  DISCIPLINE (tranche, preserve cash, watch capex/OCF & token-volume/price, the sell triggers), implemented
+  in 3-5 survivably-sized names. Not 13 names + a 40% drawdown. Links [[ai-capex-cycle]], [[_calibration]], [[bull-bear-ledger]].
