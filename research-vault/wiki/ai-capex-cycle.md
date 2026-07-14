@@ -1257,3 +1257,15 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   showing up on an enterprise P&L — and it sits directly AGAINST this morning's benign-bank read:
   enterprise capex contraction LEADS consumer credit stress by quarters. Resolve via the watch-list
   + whether IBM's peers say "moved to AI" (reallocation) or "paused/cut" (contraction).
+- **Addendum ~4:12am PT — ZH: "IBM SET FOR WORST DAILY CRASH SINCE THE DOT-COM BUBBLE."**
+  *(analysis — calibration)* The −14% is REAL and large for a defensive megacap (genuine
+  guidance shock). But the "since dot-com" SUPERLATIVE is a layer-3 framing claim, ⚠️ likely
+  cherry-picked: IBM almost certainly had comparable/worse single-session drops in the Mar-2020
+  COVID crash (Dow −13% days). Treat the superlative as narrative, the −14% as the signal.
+- **The framing does thesis work worth naming: "crash since dot-com" pattern-matches IBM to
+  BUBBLE-BURST — but the stated mechanism is the OPPOSITE.** If it's REALLOCATION, IBM is
+  crashing because AI spend is so STRONG it's cannibalizing legacy IT = bubble INTENSIFICATION,
+  not bursting. Same −14% reads bullish-for-AI (clients pouring into AI) OR bearish (capex
+  CONTRACTION). ZH's dot-com frame prematurely resolves the crux to the bear side; the
+  reallocation-vs-contraction question (prior addendum) is still OPEN. The market CHOOSING the
+  bubble-burst lens is itself a datapoint — sentiment is primed to read AI-bust signals.
