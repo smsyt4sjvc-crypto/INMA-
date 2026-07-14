@@ -706,3 +706,41 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   even easier for a measurement task force to keep out of the official inflation number — it's
   not in CPI yet by construction; it's in corporate earnings.
 - Links: [[ai-capex-cycle]] (Ericsson/GEHC/DigiKey), [[cluster-shortlist-workup]] (GEHC Q2).
+
+### 2026-07-14 ~5:30am PT — CPI PRINTS COLD: core 0.0% below the tripwire (the relief branch)
+### DATA (observed) — ZH wire, 8:30am ET release
+- CPI −0.4% MoM (exp −0.1%) — outright DEFLATION, 0.3pp below.
+- **Core 0.0% MoM (exp 0.2%)** — FLAT, below Williams's 0.2% tripwire, well below the 2026 core
+  run-rate avg 0.26. 0.2pp below.
+- CPI 3.5% YoY (exp 3.8%, 0.3pp below). Core CPI 2.6% YoY (exp 2.8%, 0.2pp below).
+- Every line printed below consensus. June collection period.
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **The VALVE gets a green light.** Core 0.0% < the 0.2% tripwire = the Fed has cover
+  to NOT hike and even to ease WITHOUT Warsh needing to redefine anything — the number came in soft
+  on its own. Kills the July-hike case; the "inflate-it-away / longer-AI-runway" scenario ([[new-economy-regime]]
+  valve thesis) gets fuel. Hike odds should collapse toward ~10-15%; "maintain" toward ~85-90%.
+- **Jake's registered "hike odds >34%" view (7/13 ~5:40pm) is FALSIFIED on this print** — the
+  P(hot core) leg lost decisively (core 0.0, not ≥0.3). Honest grade: wrong on June. (We did NOT
+  enter the Kalshi hike side — flagged "reprice after the print" — so no position loss; the
+  contrarian "maintain gets fat on a soft print" note was the correct read.)
+- **Forward thesis INTACT — the sequencing holds.** This is JUNE data: BEFORE the July $85-Brent
+  war spike AND before the memory cost-push reaches consumer prices. Per the 7/14 Ericsson/GEHC
+  sequencing ([[ai-capex-cycle]]): memory inflation hits OEM MARGINS first (now, in earnings),
+  CONSUMER PRICES later (2027). A soft June CPI is CONSISTENT with — even confirms — that timing:
+  the cost-push isn't in CPI yet, exactly as predicted. Soft print ≠ cost-push refuted; it = the
+  margin damage leads the price damage by quarters. The Ericsson margin warning and this soft CPI
+  are the SAME thesis at two points on the lag.
+- **Gold:** the debasement bid returns off the $4,000 ledge (the asymmetry logged 7/13 — Waller
+  knocked it down positioning for hawkish; a soft print sends it back violently). Watch it rip.
+- **Warsh testifies 7am PT into a SOFT print** = maximally easy setup — he can lean dovish without
+  fighting the data; watch whether he still pushes the task-force/measurement language anyway
+  (would signal the third exit is structural, not just data-driven).
+- Set #2 grade note: this fires the "core ≤0.2 asymmetric relief rip +1.5-2.5%" KILL SWITCH — the
+  modal gap-DOWN shape call is falsified; direction is UP. Grade full set #2 vs closes later.
+### For the book (descriptive — sizing/execution Jake's)
+- The SPY Jul-15 750 straddle: soft-CPI surprise = relief RALLY = the CALL leg is the payer. The
+  overnight/pre-open gap is captured automatically at 6:30am. Mechanics per [[retail-edge]] gap-at-2DTE
+  entry: gamma pays the move, vega is dead, IV CRUSH hits at the open — so the payoff is the GAP,
+  not the hold. Breakevens ~743.5/756.5 (±0.87%); needs SPY through ~756.5 (~+1%) for a clear win.
+  Pre-committed exit = "big move → close whole by mid-morning"; the relief gap is the sell, not the
+  hold-for-Warsh (theta + crush eat continuation). Whether the gap clears breakeven = the open tells.
