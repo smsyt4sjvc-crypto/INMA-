@@ -153,3 +153,10 @@ stress (business ramping, recovery) — handle by pricing the menu, not by lectu
   marginal buyers left = fuel largely deployed. Net: bid confirms dips-get-bought (good for entry);
   unanimity warns fuel is late-stage → the more unanimous, the more the EXIT is the whole trade.
   Unanimous bullish IS the precondition for the flip, not the opposite of it.
+- **~6:20am PT — Jake's execution decision:** "concentrate in MU, set a limit sell to commit the
+  exit." Decision made (sizing his — I made the concentration case, he's chosen; support execution,
+  don't re-litigate). Delivered a swing-structure/resistance cell. FLAG added: a limit SELL commits
+  the UPSIDE exit (take-profit at resistance) but does NOT protect the flip/downside — a limit above
+  the market never fills on a drop. The flip-risk (Korea) needs a STOP below. Both = the full exit
+  pair: limit@resistance (profit) + stop@broken-support (flip protection). Cell outputs both.
+  (Do NOT write portfolio-state until fill confirmed — standing rule.)
