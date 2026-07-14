@@ -686,3 +686,23 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   · **The not-yet list is the frontier:** streaming/consumer subs (Netflix, Spotify, Prime)
     unraised — DRAM-light businesses, no cost excuse yet. If THEY start raising citing "AI
     features," that's opportunistic breadth (1970s-style), not cost-push — a regime-worse signal.
+
+### 2026-07-14 ~4:28am PT — Ericsson refines the AI-inflation channel map: pricing power decides CPI-vs-margin
+### THESIS (interpretation — NOT fact) — extends the 7/13 channel map + price census
+- *(analysis)* Ericsson (memory margin warning, see [[ai-capex-cycle]]) reveals the memory
+  cost-push has TWO transmission paths, and CONTRACT STRUCTURE / PRICING POWER decides which:
+  · **Short product cycles + pricing power → CONSUMER PRICE (CPI).** Apple, Dell raise stickers
+    ~17-20% (price census 7/13); the consumer pays; shows in CPI.
+  · **Long-term fixed contracts + weak pass-through → MARGIN COMPRESSION (earnings).** Ericsson,
+    GEHC eat it; the SHAREHOLDER pays; shows in EPS, not CPI.
+- **The sequencing insight (leading indicator):** the SAME memory inflation hits OEM MARGINS
+  FIRST (now — GEHC, Ericsson, guiding into 2027) and CONSUMER PRICES LATER (as long-term
+  contracts renegotiate and new tenders reprice — 2027, Citi's timeline). So **industrial-OEM
+  margin compression LEADS the memory-inflation CPI leg by quarters.** That's why the OEM
+  equity casualties are cracking NOW while electronics CPI is barely moving. Watch OEM gross
+  margins (GEHC, Ericsson, Nokia, medical/industrial) as the leading gauge of the eventual
+  consumer-price leg — earnings calls front-run the CPI print.
+- Reinforces the yardstick-war stakes: a cost-push that first appears as MARGIN (not price) is
+  even easier for a measurement task force to keep out of the official inflation number — it's
+  not in CPI yet by construction; it's in corporate earnings.
+- Links: [[ai-capex-cycle]] (Ericsson/GEHC/DigiKey), [[cluster-shortlist-workup]] (GEHC Q2).
