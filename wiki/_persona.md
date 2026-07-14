@@ -56,3 +56,12 @@ career path changing; business ramping slowly by choice while recovering. Time +
   (decay) + VEGA (vol sensitivity) = what bled the straddle; (2) implied vol & IV CRUSH = why event
   premium evaporates; (3) SELLING premium (CSPs/covered calls) = his Tier-1 edge, the winning side.
   Can skim multi-leg/spreads (Tier 2, can't trade yet). He just FELT the concepts → they'll stick now.
+- **~7:38am PT — the book is Natenberg, "Option Volatility and Pricing" (2nd ed).** THE market-maker
+  classic — serious, dense, quant-ish, MM perspective. Not a beginner book; a marathon many buy and
+  don't finish. Perfect for his wound (IV crush = a volatility/pricing phenomenon = the literal title).
+  Navigation for Jake (Tier 1): PRIORITIZE — foundational value/expiration chapters, the Greeks
+  (theta/vega), and the VOLATILITY chapters (the core — historical vs implied, why IV inflates pre-event
+  & crushes after = the full answer to "why did both straddle legs die"). DEFER/skim — heavy spread
+  strategies, dynamic hedging, skew modeling (Tier-2 + MM tools he can't use yet). Read for CONCEPTS
+  (universal); apply only what Tier 1 allows. Study-partner move: when he hits the vol chapters, turn
+  his ACTUAL 7/14 straddle into the worked example (compute what its vega/IV did on the CPI print).
