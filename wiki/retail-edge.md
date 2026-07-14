@@ -222,3 +222,14 @@ not modesty. Conservative self-description buys conservative approval.
   move < the premium; narrow-rip (dispersion) kills an INDEX straddle even on a "big" news day. Cheaper
   lesson than BNO. Silver lining: MU fading from +5% = the DIP his own entry plan wanted (he's not in
   yet — the fade is the entry arriving, not a loss).
+
+## 2026-07-14 ~7:18am PT — order-type menu mapped to the plan (Jake's broker screenshot)
+- Menu: Market / Limit / Stop Loss / Stop Limit / Trailing Stop Loss ($/%) / Trailing Stop Limit ($/%).
+- **"Stop Loss" = the stop-MARKET** (guaranteed exit, air-pocket-safe) = the hard downside under $854.
+- **"Stop Limit" = the no-fill-risk one → AVOID for MU** (air pocket $854→$652 can blow through the limit).
+- **Trailing Stop Loss (%) = the AUTOMATED breakeven-trail** Jake was trying to do manually: stop follows
+  price UP (locks gains), fires a MARKET sell if it falls X% from the peak. Solves the "can't watch it"
+  worry — the order trails for him. Use "Loss" (market) not "Limit" (no-fill). ($)=fixed buffer, (%)=scales
+  with price (better for a $900+ name).
+- **Volatility caveat:** MU swings 5-8%/day → a trail tighter than ~8-10% WHIPSAWS out on noise. Set the
+  trail WIDER than daily noise or it scratches constantly (the same tight-stop tension). Numbers Jake's.
