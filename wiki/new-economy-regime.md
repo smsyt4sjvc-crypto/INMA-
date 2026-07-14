@@ -586,3 +586,30 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   detachment-bid supportive near-term, debasement-confirming long-term. Watch: whether the pace
   accelerates when the AI-IG issuance wave meets the Papai ceiling — the Fed as the marginal
   absorber of last resort is the endgame branch.
+
+### 2026-07-13 ~5:30pm PT — prediction market prices July FOMC: 66% hold / 34% hike (Jake's print)
+### DATA (observed)
+- Jake pastes event-market odds, eve of CPI: **Jul 29 FOMC — "maintain" 66% (1.46x payout),
+  "hike 25bps" 34% (2.81x payout).** Vig ≈ small (implied 68.5% + 35.6%).
+- Calendar between now and decision: CPI 7/14 (tomorrow, ~12h), Warsh House 7/14 + Senate 7/15,
+  PPI 7/15, retail sales 7/17, FOMC blackout ~7/18, decision 7/29 10am PT. June PCE lands 7/31
+  — AFTER the meeting. Tomorrow's CPI is the only major inflation print the committee sees.
+### THESIS (interpretation — NOT fact)
+- *(analysis)* This market is currently a CPI DERIVATIVE with a two-week tail: hot core (≥0.3)
+  likely reprices hike toward ~50-60%; soft (≤0.2, Williams's tripwire) collapses it toward
+  10-15%. Buying either side tonight = a leveraged CPI bet, overlapping the straddle's branches.
+- The strongest single base rate: **the modern Fed does not act at 34% priced.** Since the
+  mid-90s it pre-telegraphs until the market prices ≥~70% before moving (it treats surprise
+  itself as a policy cost). For hike-at-2.81x to pay, tomorrow must print hot AND the committee
+  must spend its 4 pre-blackout days ramping expectations (Timiraos/Waller are arguably already
+  the ramp). Absent the ramp, hawk-talk into a hold is the two-handed pattern already logged
+  (hike TALK + balance sheet EXPANDING +$29B/mo).
+- Vault tension, stated honestly: the hawkish tape (Waller flip, Williams tripwire vs 0.26 avg,
+  6.2% ann. headline) argues hike risk is real; the structural spine (third exit, valve thesis,
+  WALCL, Warsh building machinery to AVOID hiking) argues the talk is the tool and the hold is
+  the act. The vault's own macro read → "maintain" is modestly underpriced at 66% IF the valve
+  thesis is right — but every input here is public; the edge is interpretive, not informational.
+- Surprise-rule check: "what does the market believe (34% hike), what do we know that's
+  different?" — no differential FACT, one differential FRAME (third exit). Thin edge; the same
+  view is already expressed cheaper in gold/duration reactions. Sizing, as ever, Jake's.
+- Links: [[market-fragility]] (event-vol), [[retail-edge]] (surprise rule).
