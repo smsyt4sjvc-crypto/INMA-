@@ -265,3 +265,37 @@ Related: [[ai-capex-cycle]], [[market-fragility]], [[concentration]], [[consumpt
   economist): the FCF-cliff chart has completed the consensus migration. Entry edge gone;
   execution/timing edge remains; and per the calibration doctrine, full-consensus bear charts
   can mark local max-fear — the DATA is fundamental, the crowding is real, hold both.
+
+### 2026-07-14 ~3:20am PT — drawdown-vs-FCF cross-check (Jake's Q, ModestWallet chart)
+### DATA (observed)
+- ModestWallet/Yahoo, as of 9 July 2026 — Big Tech % down from 52wk high:
+  MSFT −32.1%, META −25.2%, TSLA −20.8%, AVGO −20.4%, NVDA −15.3%, AMZN −13.3%,
+  GOOGL −13.3%, AAPL −1.6%.
+- Prior vault datapoint (Apollo per-company 12m-fwd FCF chart, ingested ~7/13): total hyperscaler
+  fwd FCF ~$300B peak → ~$10-15B; MSFT + GOOGL the only positive contributors; ORCL −$40B the
+  whole negative wing. Absolute TTM FCF ranking (approx, ⚠️ needs fetch): AAPL/GOOGL/MSFT/NVDA
+  all ~$60-100B; META/AMZN/AVGO ~$25-50B; TSLA ~$3-5B.
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **The drawdown does NOT rank by ABSOLUTE FCF — it's nearly uncorrelated with it.**
+  Proof inside the chart: MSFT and AAPL are BOTH ~$90-100B FCF machines, yet sit at opposite
+  ends (−32% vs −1.6%). If cash generation drove the tape, they'd cluster. They don't.
+- **What it DOES track is FCF COMPRESSION / capex intensity — the second derivative.** The two
+  ends are the clean signal:
+  · MSFT −32%: the MAX-capex name (~$80B+, OpenAI-coupled, GPT-nerf compute economics). Positive
+    fwd FCF per Apollo, but gushing→merely-positive = the market trades the DELTA.
+  · AAPL −1.6%: the ONE megacap that opted OUT of the hyperscaler capex race (no DC arms race),
+    AND just raised prices (census, ~20%) = margin protected. The control experiment.
+  · META −25% (2nd): $65-72B capex + Reality Labs burn — fits the intensity gradient.
+- **This is the internal-cash leg of the three-leg squeeze showing up in PRICES**, weeks after
+  we logged the Apollo chart. The market is sorting megacaps by SPEND INTENSITY, not business
+  quality — the highest-quality name (MSFT) is down MOST. Bear-ledger datapoint.
+- *(honesty — the signal is contaminated in the middle):* TSLA −20.8% is idiosyncratic (auto
+  demand/valuation, not an AI-FCF story). AVGO −20.4% and NVDA −15.3% are asset-LIGHT with great
+  FCF yet down hard = "sell-the-AI-winners" beta unwind, NOT FCF punishment. So: two ENDS =
+  clean capex-intensity read; MIDDLE = noise. Don't overfit the whole ranking to one variable.
+- **Next step to make it rigorous:** fetch TTM FCF + 2026E capex + FCF yield for the 8 →
+  scatter drawdown vs (a) FCF yield, (b) capex/OCF ratio. Hypothesis: near-zero R² on (a),
+  meaningful positive R² on (b). That plot would be the cleanest single proof the squeeze is
+  being priced. (Division of labor: Jake fetches the 16 numbers; Claude builds the scatter cell.)
+- Links: [[ai-capex-cycle]], [[market-fragility]], [[bull-bear-ledger]] (bear line: quality
+  punished by capex intensity).
