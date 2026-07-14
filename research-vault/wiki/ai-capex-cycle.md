@@ -1350,3 +1350,40 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   So the memory-inflation signal is UNDERSTATED in official disclosures; read the pushback, not
   the press release. Same shape as cognitive-shrinkflation being CPI-invisible.
 - Links: [[new-economy-regime]] (CPI channel map + the margin-leads-CPI sequencing), [[cluster-shortlist-workup]] (GEHC).
+
+### 2026-07-14 ~4:42am PT — IBM full letter RESOLVES the crux: REALLOCATION via memory front-running
+### DATA (observed) — ZH full text (ZH-stamped 4:35am), CEO Arvind Krishna letter to investors
+- IBM −20% premarket, worst intraday since Oct 19 1987 (confirms our cell: worst since 1987).
+- Prelim Q2: rev $17.2B +1%; Software +5%; Consulting flat/+1% cc; **Infrastructure −7%** (the
+  shortfall — z17 mainframe + Transaction Processing software stack).
+- Krishna VERBATIM: "In the last few weeks of June, we saw clients shift their quarterly capex
+  spend toward SERVERS, STORAGE, AND MEMORY purchases to secure supply-constrained infrastructure
+  AHEAD OF EXPECTED PRICE INCREASES. This dynamic impacted client buying patterns... we did not
+  anticipate the magnitude of the capex reprioritization." Also: "clients were distracted with
+  rapidly-evolving cybersecurity concerns"; "We did not adapt and move quickly enough."
+- Deals delayed/pushed, NOT cancelled outright.
+### THESIS (interpretation — NOT fact)
+- **CRUX RESOLVED → REALLOCATION, not contraction (updates the 7/14 ~4:10am open question).**
+  Clients didn't CUT capex — they REDIRECTED June budgets to hoard scarce servers/storage/MEMORY
+  before price hikes, starving IBM's mainframe/software deals. Narrow wave, not broad earnings
+  recession → consistent with this morning's benign banks. Bear-ledger: DOWNGRADE the contraction
+  fear; UPGRADE the memory-shortage confirmation.
+- **THE MEMORY SHORTAGE IS THE THROUGH-LINE — all four data points are ONE story:**
+  · DigiKey census = the parts are gone / $/GB up 15-30x (the shortage, at the shelf)
+  · Ericsson + GEHC = OEMs eating the cost (the shortage, as MARGIN compression)
+  · IBM = enterprises PANIC-BUYING memory/servers to front-run price hikes, starving other IT
+    budgets (the shortage, as DEMAND DISPLACEMENT + buying-behavior distortion)
+  One shortage, three transmission faces: shelf → OEM margin → enterprise budget reallocation.
+  And it's ACCELERATING — "ahead of EXPECTED price increases" = buyers expect it to WORSEN.
+- **"Who's next" refines into a LONG/AVOID split (not a uniform short):** LOSERS = the reallocation
+  casualties (legacy software/mainframe/services deferred: IBM z17, transaction-processing; watch
+  Oracle software, SAP, Workday, consulting/ACN/CTSH). WINNERS = the front-run BUYING targets —
+  server/storage/memory vendors (Dell, HPE, SMCI, MU/memory) may BEAT on hoarding demand (margin
+  net depends on pass-through). ZH frames it "SaaSpocalypse / token revolt" — clients pushing back
+  on AI costs, spend shifting commoditized-software → constrained-hardware.
+- **Memory-cycle read (Jake's "should I buy memory"):** panic-buying ahead of price hikes = classic
+  shortage psychology, confirms the shortage is real + worsening NEAR-term — but hoarding is a
+  LATE-cycle/blow-off behavior (max demand when everyone front-runs). Doesn't flip the "wait for
+  the trough" verdict; adds that we're now at the PANIC-BUYING stage of the upturn. Watch for the
+  flip: when front-running STOPS (buyers satiated / prices crack) = the top tell.
+- Links: [[buildout-bottleneck-map]] (DigiKey), [[new-economy-regime]] (Dimon quote below), [[market-fragility]].

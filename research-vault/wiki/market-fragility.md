@@ -368,3 +368,32 @@ into one 0–100 fragility number + trigger panel.
   (Korea, AI unwind, oil/war premium), NOT rates/credit — GS's commodity FICC beat is the second
   confirmation of that split (JPM's rates/credit FICC miss was the first). Still says: equity+
   commodity event, not a credit/macro event. Three banks now; equities harvest fully settled.
+
+### 2026-07-14 ~4:42am PT — JPM full: record profit, stock FALLS = surprise rule live + $4.6B one-off
+### DATA (observed) — ZH full text
+- JPM highest quarterly profit EVER, stock −2.6% premarket. EPS $7.70 (est $5.58) — BUT includes
+  a **$4.6B ONE-OFF net gain** on Visa Class B-2→C share exchange (accepted May 11 2026). Strip it
+  and the EPS beat shrinks dramatically. Adj rev $58.02B (est $51.39B). Equities S&T $6.03B (+86%
+  YoY, above the HIGHEST analyst estimate); total trading $12.1B = new all-time high. FICC $6.05B
+  (miss, "weakness in COMMODITIES"). Advisory $1.01B (miss). Expenses $27.3B (higher); FY cost
+  guide RAISED to $107.5B. Provision $2.52B (est $3.09B, well below); card charge-off guide
+  LOWERED to 3.2% (from 3.4% April). SpaceX record IPO June → IB fees $3.28B +30%.
+- Dimon VERBATIM: "Several risks are shifting below the surface like tectonic plates, including
+  geopolitical tensions and wars, STICKY INFLATION, large global fiscal deficits and ELEVATED
+  ASSET PRICES... could cause meaningful disruptions when they shift or collide."
+### THESIS (interpretation — NOT fact)
+- **The $4.6B Visa one-off VINDICATES the caveat I flagged at 3:40am** ("a beat this large may carry
+  a one-off — eye the release before treating as clean run-rate"). Record headline profit is
+  substantially inflated; the $6.03B equities was real, the EPS blowout partly accounting.
+- **Record profit, stock DOWN = Jake's surprise rule + two-population model, live.** Perfection was
+  priced (JPM = "hedge fund hotel," only +5% YTD vs peers +20%); the SURPRISE landed on the
+  negatives (one-off-inflated EPS, expenses up, cost guide raised, commodities/advisory miss). News
+  ≠ mover; the GAP vs expectation moved it, and the gap was negative even on an all-time record.
+  Textbook exhibit for [[retail-edge]].
+- **Dimon's "tectonic plates" quote = the vault thesis spine from the most powerful banker:** sticky
+  inflation + fiscal deficits + elevated asset prices + wars = [[new-economy-regime]] almost verbatim.
+  Corroboration, not proof — but notable that he's naming exactly these four.
+- Consumer credit even MORE benign (provision well below, card charge-off guide CUT) — reinforces
+  calm-prime-consumer; the caboose still looks fine. SpaceX IPO = listing wave extends (add to
+  Anthropic/SKHY/Securitize).
+- Links: [[retail-edge]] (surprise rule), [[new-economy-regime]] (Dimon), [[ai-capex-cycle]] (IBM).
