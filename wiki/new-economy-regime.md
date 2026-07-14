@@ -613,3 +613,11 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   different?" — no differential FACT, one differential FRAME (third exit). Thin edge; the same
   view is already expressed cheaper in gold/duration reactions. Sizing, as ever, Jake's.
 - Links: [[market-fragility]] (event-vol), [[retail-edge]] (surprise rule).
+- **Addendum ~5:40pm PT — Jake's registered view (user's thesis): "34% chance of a hike is
+  lower than reality."** I.e., true P(hike) > 34% → the 2.81x side is value. Gradeable two ways:
+  (a) do the odds trade materially higher post-CPI/testimony this week; (b) does the Fed hike
+  7/29. Decomposition at registration (analysis): P(hike) = P(hot core)·P(hike|hot) +
+  P(soft)·P(hike|soft) ≈ 0.45·0.60 + 0.55·0.08 ≈ 31% — market ≈ fair on those inputs; Jake's
+  edge must live in P(hot) > 45% (run-rate 0.26 + oil $85) or P(hike|hot) > 60% (Waller ramp
+  already underway). Trade construction note: Kalshi positions can be SOLD before settlement —
+  the repricing (34→50-60 on a hot print) is capturable without the hike ever happening.
