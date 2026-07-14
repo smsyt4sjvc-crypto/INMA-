@@ -95,3 +95,43 @@ their models. Evolving tech is ruthless."
   face commodity pricing without ongoing access to the commodity's source. Commoditize-your-
   complement, then enclose: the strategy cost China one product cycle and cost the US scrip economy
   its pricing power. All five clauses press on the same point: the $996B consensus.
+
+## 2026-07-14 ~5:20am PT — ROBERTS BUBBLE SCORECARD (independent external framework vs vault)
+Source: raw/2026-07-14-roberts-spotting-bubbles.md. *(analysis)* Value = Roberts INDEPENDENTLY
+reproduces the vault's spine without seeing it (source-independent convergence → raises confidence
+per [[_calibration]]): concentration risk, issuance-as-top-signal, credit-event-in-private-
+credit/AI-financing as the trigger, and the NVDA-FCF-vs-Pets.com distinction (the exact frame I
+used on the drawdown chart this morning, [[ai-financing-fragility]]). He built our map.
+
+### Live scorecard (vault evidence vs his signals)
+FOUR HORSEMEN:
+1. High prices — FLASHING (CAPE ~ Dec-1999; concentration > 2000 peak).
+2. High volatility — FLASHING (Korea cascade, bank equities-vol harvest this wk, [[market-fragility]]).
+3. High retail/speculative volume — FLASHING HARD (Korea 1.2M leveraged accts, levered ETFs 40%
+   of notional, Seohak ants — the retail blow-off is LITERAL and country-scale).
+4. "This time is different" beliefs — PARTIAL (AI-different narrative strong, but loud skepticism
+   coexists — Burry, this very article). Mixed.
+5th DEFENSIVENESS — EARLY/PARTIAL (valuation debate still very active = NOT the tell yet).
+END SIGNALS (the ones that actually mark tops):
+1. Issuance flood — FLASHING: Anthropic S-1, SpaceX record IPO (Jun), SKHY $26.5B, Securitize.
+   Lamont's #1 watch, lighting up = our listing-cluster thesis ([[ai-capex-cycle]]). STRONGEST.
+2. Buy-the-dip → buy-the-RIP — FLASHING: HF record-semi-buying-ON-STRENGTH stat ([[market-fragility]]).
+3. Mainstream STOPS debating valuation — NOT YET (this article debating it = pre-top; time left).
+4. CREDIT EVENT — NOT YET, but LOADING: no pop, but the three-leg squeeze / funding-migration
+   ladder / Papai $360bn = the exact fuse Roberts names (private credit/lev loans/AI financing).
+
+### Read
+- 3-4 horsemen + 2 of 4 end-signals FLASHING; the 2 that actually mark the TOP (mainstream
+  capitulation + credit event) have NOT fired. = LATE but not terminal. Matches the vault's
+  "late-cycle, valve-dependent, something-will-break-but-not-yet" ([[bull-bear-ledger]] capstone).
+- USEFUL INVERSION: bubble articles being WRITTEN = not the top (at the top nobody writes them).
+  Track when they STOP appearing.
+- **The honest pushback Jake is under-weighting (argue the flip, per [[_calibration]]):** Roberts
+  aims his fifth horseman AT the debasement thesis — the vault's own gold/re-denomination thread
+  ([[new-economy-regime]], gold $4,000). His claim: precious-metals advocates met his critique
+  with "wrong side of history," not data = defensiveness = 2025 PM run was bubbly (silver's
+  biggest 1-day drop since 1980s Jan-2026). Both can be true: debasement REAL and the debasement
+  TRADE crowded/parabolic. Discipline: hold gold-at-$4000 as BOTH our re-denomination referee AND
+  a possible over-owned trade; don't let it become a vault "bubble belief" we defend by dismissal.
+- Roberts' prescription = what the vault already does: pre-register the risk-cut triggers, write
+  them down (the prediction ritual + kill-switch branches), rebalance not time. Convergence.
