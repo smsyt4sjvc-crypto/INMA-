@@ -128,3 +128,16 @@ stress (business ramping, recovery) — handle by pricing the menu, not by lectu
   the near-miss/chase error, into the vault's most-cautioned name. Memory verdict was "buy the
   TROUGH not the panic" — yesterday's −5% dip was closer to a trough than today's +5% rip. The rip
   confirming the call ≠ an invitation to chase it; it's the move happening without you. Sizing Jake's.
+- **CORRECTION ~6:08am PT — Jake caught it: I said "nothing changed about the memory business
+  yesterday→today," WRONG.** IBM (enterprises front-running MEMORY purchases = demand signal) +
+  Ericsson (memory pricing power / cost inflation to 2027 = supply signal) ARE new memory-bullish
+  info that broke this morning. Concede — the "no new information" prong was false. Sharpened read:
+  · Timing: IBM/Ericsson were out ~1hr BEFORE the 5:30 CPI; MU's +5% came POST-print → the rip is
+    SUBSTANTIALLY dovish-macro beta, but the memory news contributed. Can't cleanly separate; both.
+  · **The new info cuts BOTH ways** — IBM's "hoard memory to beat price hikes" is near-term BULLISH
+    (acute demand + pricing power → MU captures it) AND is the exact LATE-CYCLE signature:
+    pull-forward/panic-buying borrows from future demand; the break comes when hoarding STOPS. The
+    same datapoint that improves the near-term case confirms the stage the memory verdict said to FADE.
+  · Net update: MU is a BETTER near-term hold than I implied (fundamentals improved — concede);
+    but the timing/concentration/panic-stage caution stands, and the improvement IS panic-demand.
+    A +5% post-CPI gap still isn't a clean entry. Better case ≠ chase-here.
