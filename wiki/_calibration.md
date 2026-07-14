@@ -135,8 +135,9 @@ stress (business ramping, recovery) — handle by pricing the menu, not by lectu
   · Timing: IBM/Ericsson were out ~1hr BEFORE the 5:30 CPI; MU's +5% came POST-print → the rip is
     SUBSTANTIALLY dovish-macro beta, but the memory news contributed. Can't cleanly separate; both.
   · **The new info cuts BOTH ways** — IBM's "hoard memory to beat price hikes" is near-term BULLISH
-    (acute demand + pricing power → MU captures it) AND is the exact LATE-CYCLE signature:
-    pull-forward/panic-buying borrows from future demand; the break comes when hoarding STOPS. The
+    (acute demand + pricing power → MU captures it) AND is a top-FORMING mechanism:
+    pull-forward/panic-buying borrows from future demand; the break comes when hoarding STOPS (the
+    TRIGGER — a falsifiable event — not the hoarding itself). The
     same datapoint that improves the near-term case confirms the stage the memory verdict said to FADE.
   · Net update: MU is a BETTER near-term hold than I implied (fundamentals improved — concede);
     but the timing/concentration/panic-stage caution stands, and the improvement IS panic-demand.
