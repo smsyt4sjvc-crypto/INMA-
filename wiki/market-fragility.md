@@ -330,10 +330,9 @@ into one 0–100 fragility number + trigger panel.
   — the exit-valve IPO pipeline we logged is JPM booking fees. Cross-link [[ai-capex-cycle]]
   (listing cluster / quality-migration clock).
 - **Macro/CPI hook:** strong banks + benign credit = the Fed has ROOM to be hawkish (removes the
-  "can't hike into a weakening consumer" constraint). Feeds Jake's P(hike|hot) leg + the
-  "hike odds >34%" view. And for set-#2 shape: bank blowout = the "bank bounce" leg has fuel;
-  financials should be green pre-market regardless of the CPI gap.
-- Links: [[new-economy-regime]] (CPI, Kalshi hike view), [[bull-bear-ledger]], [[retail-edge]]
+  "can't hike into a weakening consumer" constraint). And for set-#2 shape: bank blowout = the
+  "bank bounce" leg has fuel; financials should be green pre-market regardless of the CPI gap.
+- Links: [[new-economy-regime]] (CPI), [[bull-bear-ledger]], [[retail-edge]]
   (turbulence doctrine — the sell side of it).
 - **Addendum ~3:50am PT — Jake: "does JPM credit loss include the private stuff, OnePay/Cash
   App?" NO — and that's the whole point.** Ownership map: Cash App = BLOCK (XYZ), separate
