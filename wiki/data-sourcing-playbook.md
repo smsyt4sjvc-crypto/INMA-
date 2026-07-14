@@ -213,3 +213,29 @@ is the load-bearing bridge. Expect the survivor table empty most weeks; the reje
 - *(thesis crumb)* Agent memory commoditizing as OSS markdown (LangChain now, "Open Knowledge
   Format" namechecked) = the interop thread again: own your memory like you own your weights —
   local files + git beat platform lock-in. The vault was accidentally ahead of the category.
+
+## 2026-07-13 ~7:45pm PT — source calibration: the ZH-repost layer question (Jake's challenge)
+- Jake: "I give a fair amount of validity to ZH reposts. Haven't found a single false post yet."
+- *(analysis — the layer model, with this week's receipts)* ZH is not one source; it's three
+  layers with different base rates, and the brand gets credit earned by only the first:
+  1. **Wire relays** (BBG/Reuters headlines, official statements verbatim): high accuracy as
+     TRANSCRIPTION — this is what "never found a false post" is correctly measuring. The
+     CENTCOM statements, the Waller quotes, the Araghchi quote: all clean relays.
+  2. **Claim relays** (FARS, unnamed officials, partisan accounts): accurately QUOTED,
+     unverified CONTENT. This week's receipt: the 5th-Fleet-casualties claim (relayed
+     accurately, denied by CENTCOM within hours). The post wasn't false — the claim was. The
+     repost format makes the reader grade the wrong thing.
+  3. **Narrative/framing** (editorial, "what it means" threads): mixed record BOTH directions —
+     the DC-cancellation narrative (debunked by SemiAnalysis) vs the token-spend claim (ZH
+     ecosystem RIGHT, my 7/03 dismissal wrong, corrected in the vault). Neither trust nor
+     dismiss: verify.
+  - The falsifiability trap: "haven't found a false one" requires a verification channel
+    INDEPENDENT of the feed. Most flash claims are never adjudicated at all — absence of
+    discovered falsehood ≠ presence of truth. The vault's graded-instance ledger is the fix.
+- **Source card — Seth Keshel (@RealSKeshel):** former Army intelligence captain, prominent
+  since 2020 as an election-fraud trend analyst (county-level voter-registration vs vote-count
+  "excess vote" methodology — widely criticized by statisticians as not identifying fraud);
+  election-integrity circuit speaker; advocacy account, not a reporting or official source.
+  The pasted tweet is PREDICTION-AS-CERTAINTY ("will compel... will mandate") about a speech
+  he hasn't seen — tier 2/3 content in repost form. Gradeable Thursday alongside the
+  Daugherty claim (both now on the calibration ledger).
