@@ -761,3 +761,16 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   · Book: a hawkish-sounding header could TRIM the relief rally (minor fade risk to the straddle's call
     leg) — reinforces "take the gap at the open, don't hold for the full 7am testimony; Warsh can
     SUBTRACT from the rally, not just add." Live example of why hold-for-Warsh is the wrong exit.
+- **Addendum ~5:40am PT — Jake's catch: "isn't it still 3.5% YoY? Isn't that persistent?"** *(user's
+  insight — sharp)* Correct: 3.5% headline / 2.6% core YoY, above 2% target for YEARS = persistent by
+  the plain meaning; that reading would DEMAND a hike. The reconciliation IS the third exit on one word:
+  · "Persistent" is undefined → two clocks. LEVEL/DURATION (2.6-3.5%, years, above target — Jake's read,
+    demands action) vs MOMENTUM (recent MoM pace, core 0.0%, decelerating — Warsh's read, permits holding).
+    The soft print hands him the momentum clock; base effects (hot mid-2025 months rolling off) let YoY
+    drift down mechanically = "clear path to target" narrative even at an elevated level.
+  · He said "persistently high," NOT "high" — the qualifier is a DOVISH tell in hawkish costume: it
+    commits him to react to TRAJECTORY not LEVEL → pre-authorizes sitting at 3.5% indefinitely as long as
+    each MONTH behaves. Permission to run hot as long as it's not accelerating.
+  · **This is the yardstick redefinition operating on a single ADJECTIVE** (not CPI methodology) — Jake
+    watched the definitional escape hatch work live. Strengthens the third-exit thesis: the ambiguity of
+    "persistent" is the micro-mechanism; the task forces are the macro version. Same move, two scales.
