@@ -1315,3 +1315,38 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   pre-announce UP or fine. The upgrade to BROAD (contraction) only triggers if AI-levered names
   ALSO miss. Falsifier, resolvable in days: Indian IT/SAP say "clients moved budget TO AI"
   (reallocation, narrow) vs "clients FROZE spend" (contraction, broad).
+
+### 2026-07-14 ~4:25am PT — ERICSSON: memory cost-push casualty #2, and the pass-through mechanism
+### DATA (observed) — raw/2026-07-14-ericsson-memory-margin-warning.md
+- Ericsson −7% (post-call) to −10% Stockholm, most in 18mo, on CEO warning that component costs
+  (partly AI memory-chip demand) will pressure Networks margins. Q2 adj EBITA −7% SEK6.88B (est
+  6.82B, slight beat) — the GUIDANCE, not the print, is the problem. Networks GM guide 48-50%.
+- Citi (Gardiner): top concern = margin impact "to come in 2027."
+- BNP: contracts long-term, NO automatic price-pass-through → "cannot fully offset... weaker
+  pricing power than we had appreciated." Impact INCREASES over coming quarters.
+- CEO Ekholm (only in Q&A, after DB's Menon pressed on RAM): Chinese ecosystem has lower cost
+  inflation but "we cannot rely on that ecosystem to export" → forced product redesign.
+- Ericsson did NOT name memory in the release; analysts dragged it out on the call.
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **Second named, verified public cost-push casualty after GEHC ($250M cut).** The
+  DigiKey census ($102/GB Advantech, 7/13) predicted exactly this victim class: industrial/
+  hardware OEMs with memory-heavy BOMs. GEHC (medical devices) + Ericsson (telecom gear) = two
+  independent confirmations the memory squeeze is hitting real P&Ls NOW.
+- **The pass-through mechanism is the screen-able characteristic:** long-term contracts + NO
+  auto price-escalation + memory-heavy BOM = margin trapped between spot memory (up 15-30x) and
+  locked selling prices. Next-victim screen = industrial OEMs with those three traits: Nokia,
+  Cisco/Juniper, Dell/HPE/SMCI servers, auto OEMs, aerospace/defense electronics, Advantech's
+  own customers. (For Jake = an AVOID/short-thesis list, not a buy list.)
+- **GEHC READ-THROUGH (Jul 29 Q2):** GEHC has the identical structure — long-term hospital
+  contracts, memory-heavy imaging. Ericsson says the memory headwind is REAL, GROWING into 2027,
+  and hard to pass through → raises odds of GEHC's "grind/thesis-breaks" scenario, reinforces
+  don't-chase + the Sep $60P structure (memory + helium = double margin headwind into the print).
+- **China cost split:** Western OEMs can't source cheap Chinese memory (export/security) → pay
+  the full AI-squeeze premium; Huawei/ZTE don't. Competitive-moat erosion for Western telecom
+  gear + the inflation is WESTERN-concentrated. Cross-link [[buildout-bottleneck-map]] (Chinese-
+  OEM relief valve), [[new-economy-regime]] (inflation geography).
+- **Disclosure tell (reading discipline):** management DEFLECTS naming memory (Ericsson silent in
+  release; IBM blamed "cybersecurity" not capex) — the real cause surfaces only in analyst Q&A.
+  So the memory-inflation signal is UNDERSTATED in official disclosures; read the pushback, not
+  the press release. Same shape as cognitive-shrinkflation being CPI-invisible.
+- Links: [[new-economy-regime]] (CPI channel map + the margin-leads-CPI sequencing), [[cluster-shortlist-workup]] (GEHC).
