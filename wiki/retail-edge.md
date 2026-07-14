@@ -177,3 +177,22 @@ not modesty. Conservative self-description buys conservative approval.
   on a gap-up = buy the RIP (the exact anti-pattern). The dip-entry may not be TODAY. The ladder
   handles it: no fill = a WIN for a buy-the-dip investor, not a miss. Runway is a month — catch A dip,
   not THIS open. Ties [[_calibration]] (concentration/FOMO), [[new-economy-regime]] (dated runway).
+
+## 2026-07-14 ~6:32am PT — MU execution mechanics: the 10-min delay + stop-limit + breakeven-stop
+- Jake's plan: buy on the rip, stop-LIMIT at buy price (breakeven scratch), watch $1,089, tier out
+  if it rejects there. Data feed on a 10-MIN DELAY. Coherent framework; 3 mechanical refinements:
+1. **10-min delay = PRE-PLACE resting orders, don't watch-and-react.** By the time a delayed feed
+   SHOWS the $1,089 bounce, it's 10 min stale and MU (5-8% daily range) has moved $20. "Watch and
+   manually tier out" fails at 10-min delay → the tier-out must be RESTING LIMIT SELLS near $1,089
+   (auto-fill), and "buy the rip" = chasing 10-min-old strength (buy the stale spike top). Delay
+   favors LIMITS-at-levels over reacting to the tape.
+2. **Stop AT entry (from the start) whipsaws out on noise.** A breakeven stop is meant to be RAISED
+   to breakeven AFTER the trade moves your way, not set at entry — on a 5-8%-range name, stop-at-entry
+   gets scratched on the first wobble, then rebuys higher (chasing). Tension: tight stop (small loss,
+   whipsaws) vs wide stop under $854 (holds noise, −13% risk on concentration). Can't have tight-stop
+   + hold-for-trend + big size — pick momentum-style (tight, accept scratches, small size) OR
+   position-style (wide support stop, smaller size, hold).
+3. **Stop-LIMIT can fail to fill in the air pocket.** A fast dive $854→$652 blows THROUGH a stop-limit
+   price → no fill → stuck riding down (the exact disaster the stop was for). Stop-MARKET guarantees
+   exit (accepts slippage). For air-pocket downside protection, market-stop > limit-stop. Delay makes
+   it worse (won't see the dive). Sizing/choice Jake's; these are order-type mechanics.
