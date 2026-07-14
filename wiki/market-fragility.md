@@ -255,3 +255,22 @@ into one 0–100 fragility number + trigger panel.
   CPI and reacts only Wednesday. Tonight's Seoul session is a clean read on cascade-vs-exhaustion,
   uncontaminated by the US macro event.
 - Links: [[retail-edge]] (two-population model), [[ai-capex-cycle]] (SKHY workup, memory cycle).
+
+### 2026-07-13 ~5:15pm PT — KORU below $400 as Seoul opens (Jake's print)
+### DATA (observed)
+- Jake, ~5:15pm PT: **KORU (3x levered KOSPI ETF) below $400** — extended-hours/late print,
+  after the −23% regular Monday session. (US after-hours ends 5pm PT; print is from the very
+  end of that window or the last quote.)
+- Clock: Seoul's Tuesday session opened 9:00am KST = 5:00pm PT — the live KOSPI/Hynix tape is
+  now the price-discovery venue; KORU won't trade again until the NY open (6:30am PT, post-CPI).
+### THESIS (interpretation — NOT fact)
+- *(analysis)* A levered-ETF after-hours print is a THIN-BOOK quote — wide spreads, small size;
+  read it as "sellers still present," not as a measured level. The real vote is the next few
+  hours of Seoul tape: does KOSPI/Hynix extend after the reconciliation gap (cascade has legs)
+  or stabilize (the 320-360K forced liquidations exhausted the leverage)?
+- Mechanical note: after a −8% KOSPI day the 3x fund already SOLD its rebalance notional at
+  Monday's close (the levered-ETF close-flow vector) — tonight it holds its new, smaller
+  exposure. Fresh downside in Seoul queues the NEXT round of close-selling for Tuesday NY close.
+- Sequencing (from the transmission-map entry above): Seoul closes 11:30pm PT, six hours before
+  CPI — tonight's session is the clean cascade-vs-exhaustion read; KORU's Tuesday NY open will
+  then reconcile BOTH Seoul's close AND the CPI print at once.
