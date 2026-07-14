@@ -120,3 +120,11 @@ stress (business ramping, recovery) — handle by pricing the menu, not by lectu
   glut/capex-cut hits memory+WFE FIRST. = a levered timing bet on melt-up outrunning squeeze, with
   extra weight on exactly what breaks first if timing's wrong. Sizing Jake's; X-ray so he decides
   with eyes open, not on "it's basically SOXX."
+- **~6:05am PT — MU +5.08% ($986, from ~$938) on the dovish CPI = the concentration FOMO test, live.**
+  Confirms the 5:55am "money rips / beaten-down memory-AI leads" call within the hour (fast
+  calibration hit). BUT: MU +5% = the gap ALREADY happened — buying now = paying the gap AFTER the
+  move, zero new MU info (pure dovish-beta/sentiment, not a fundamental repricing → two-population
+  "mechanical/forecaster flow, no information"). Chasing green here = the panic-buying stage +
+  the near-miss/chase error, into the vault's most-cautioned name. Memory verdict was "buy the
+  TROUGH not the panic" — yesterday's −5% dip was closer to a trough than today's +5% rip. The rip
+  confirming the call ≠ an invitation to chase it; it's the move happening without you. Sizing Jake's.
