@@ -821,3 +821,31 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   · Net refinement: dovish for TODAY'S tape (relief rally justified), but a WEAKER durable Fed
     signal than the headline — volatile drivers + CPI/PCE divergence. Supercore YoY still 3.172%
     (persistence intact, Jake's point). ZH framing technically true, composition less durably dovish.
+
+### 2026-07-14 ~5:55am PT — "money about to rip again?" (Jake: mini-cycle-within-the-cycle)
+### THESIS (interpretation — NOT fact)
+- *(Jake's frame, affirmed)* Big cycle = AI-capex supercycle; mini-cycles = the oscillations
+  inside it (memory dip, Korea flush, CPI risk-on/off swings). Soft CPI = the kind of trigger
+  that fires an UP-swing. Near-term the rip is ON: valve green-lit (core 0.0 < tripwire), JPM
+  +1-1.5%, dovish-lean, banks say no recession → the [[detachment-bid]] / valve melt-up setup.
+- **What rips:** dovish print → yields down → the BEATEN-DOWN long-duration complex bounces
+  hardest — the megacap drawdown names (MSFT −32%, META −25% off highs, ModestWallet chart) +
+  the AI-capex complex (lower rates = funding squeeze eases at the margin = relief in exactly
+  what FELL on funding fear) + gold (debasement bid off the $4,000 ledge). Relief rally COVERS
+  the fear; doesn't RESOLVE the fundamental.
+- **The catch — the fuel is thin (why it's a rip with a short fuse, not a clean secular leg):**
+  1. Energy-LED, REVERSES next month ($85 July oil → August CPI bounces).
+  2. Supercore PCE diverged — the Fed's own gauge may not confirm the dovishness (prints Jul 31).
+  3. Warsh "no tolerance" + Waller's hawkish talk = Fed may lean AGAINST the dovish rip for
+     credibility, not validate it.
+- **The bigger frame (the peer-check on "money rips"):** a rip HERE, with Roberts' scorecard at
+  3-4 horsemen + 2 end-signals flashing ([[bull-bear-ledger]]), risks being the BUY-THE-RIP
+  melt-up — the FINAL FOMO leg before the credit event — not a healthy new advance. The valve
+  opening EXTENDS the runway (bullish near-term) but does NOT defuse the capex squeeze
+  (IBM/Ericsson/memory, the funding cliff). Rip now, break later — Jake's own "position for
+  both conservatively until something breaks" resolution.
+- **Late-cycle tell inside the frame:** the mini-cycles are getting SHARPER and MORE FREQUENT —
+  Korea cascade, IBM −23%, bank vol-harvest, now a CPI rip, all inside DAYS. Rising amplitude +
+  frequency of the oscillations = the "high volatility" horseman = itself a symptom of lateness,
+  not health. Money can rip AND the chop can be the warning.
+- Links: [[detachment-bid]], [[bull-bear-ledger]], [[market-fragility]], [[ai-capex-cycle]].
