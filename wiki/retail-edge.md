@@ -163,3 +163,17 @@ not modesty. Conservative self-description buys conservative approval.
   cascade exhaustions; trade destinations and exhaustion, NEVER the middle of the stampede),
   (3) HORIZON (outlast both). Machines can't change their minds and can't hide their rules —
   the mechanical edge is the most reliable and the most dangerous to stand in front of.
+
+## 2026-07-14 ~6:22am PT — "buy the lowest open" = bottom-picking; the tool is a limit LADDER
+- Jake: "how do I buy at the lowest possible market open?" *(execution doctrine)*
+- **You can't reliably hit the open's low** — noisiest/widest-spread window; the first 1-5 min are
+  the opening auction (whipsaw). A MARKET-ON-OPEN order fills at the auction price = near the HIGH
+  on a gap-up day = the opposite of the goal.
+- **The tools that serve "buy low" honestly:** (1) LIMIT order, never market — cap the price, enforce
+  no-chase. (2) LADDER/scale-in: limit buys at descending support levels (⅓/⅓/⅓) → fill more the
+  lower it goes, average beats any single guess, never chase THE low. (3) Let the opening range settle
+  (first 15-30 min) before committing.
+- **Gap-up inverts the premise:** MU +5% pre-market = today's open is a gap UP. "Buy the lowest open"
+  on a gap-up = buy the RIP (the exact anti-pattern). The dip-entry may not be TODAY. The ladder
+  handles it: no fill = a WIN for a buy-the-dip investor, not a miss. Runway is a month — catch A dip,
+  not THIS open. Ties [[_calibration]] (concentration/FOMO), [[new-economy-regime]] (dated runway).
