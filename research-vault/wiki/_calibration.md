@@ -87,3 +87,19 @@ and are the classic pre-blowup shape — especially on a CPI+Warsh eve. Honest m
 SPAXX $7/wk; full CSP deployment $85-110/wk; the theses unbounded but on thesis-clock. Standing
 answer: the book pays lumpy; the edge is having no deadline. Watch for recurrence under income
 stress (business ramping, recovery) — handle by pricing the menu, not by lecturing.
+
+## 2026-07-14 ~5:58am PT — concentration-into-the-rip flag (behavioral watch)
+- Jake, on the soft-CPI relief-rally open: "Should I concentrate into my SOXX equivalent?" =
+  considering ADDING size / de-diversifying INTO the semis ETF on a green morning.
+- *(bias watch, per [[_calibration]])* This is the concentrate-into-the-hot-trade impulse on a
+  relief-rally day — the mirror of the weekly-extraction flag. Semis = the highest-beta, most-
+  consensus expression of the AI-capex cycle. Concentrating here = max-long the exact thesis the
+  vault flags as LATE (q13 longest upturn, 2028-29 glut, insiders selling, Roberts concentration
+  horseman), at the PANIC-BUYING stage (not the trough), CHASING a dovish pop with zero
+  differential edge. Conflicts with his OWN frameworks: surprise rule (no edge in consensus),
+  position-for-both (concentration is one-sided on a 55/45 view), memory verdict (buy the trough
+  not the panic), Roberts (he just called it "rational" — its prescription is DIVERSIFY/trim).
+- Steelman (real): if the valve's open + melt-up runs, semis LEAD and the shortage is worsening
+  near-term — highest-beta melt-up play. But that's a MOMENTUM bet → needs a STOP, not
+  concentration. Sizing is Jake's; the flag is that "right on semis + wrong on timing +
+  concentrated = the Korea-retail outcome." Watch for recurrence under FOMO/green-tape.
