@@ -1396,3 +1396,31 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   tripping stops — a mean-reversion setup. Truth likely between; the FULL Q2 report (~late July)
   is the resolver. Makes IBM a POST-PRINT watch (does reallocation prove structural or
   one-quarter), NOT a pre-announcement-day trade in either direction — max uncertainty today.
+
+### 2026-07-14 ~6:18am PT — Jake's MU "second leg": the BURIED memory signal = a real informational edge
+### THESIS (interpretation — NOT fact)
+- *(Jake's insight)* Retail consensus on MU = generic "AI demand through 2027, buy the dip"
+  (Grok read, 6:15am). But the IBM/Ericsson memory signals are NOT in that consensus yet, BECAUSE
+  MEMORY WASN'T NAMED IN EITHER RELEASE — Ericsson buried it (analysts dragged it out in Q&A), IBM
+  said "capex reprioritization" not "memory-demand surge." Connecting IBM's enterprise-hoarding +
+  Ericsson's memory-pricing-power → "memory demand is acute/tightening, MU the supplier captures it"
+  requires careful reading retail (trading generic sentiment) hasn't done. = a SECOND LEG the crowd
+  hasn't priced. **Upgrades the trade from mechanical-only (ride a crowded flow, no edge) to
+  mechanical + INFORMATIONAL (ride the flow knowing a catalyst the crowd hasn't).** Correctly
+  answers the surprise-rule question ("what do you know that's different?").
+- **Sharpening (to make the edge survivable):**
+  · Edge is vs RETAIL, not institutions — analysts HEARD the Q&A. Smart money may be partly on it
+    already → the second leg arrives as DIFFUSION (gradual), not one gap. Which SUITS the dated-
+    runway HOLD: you're betting the story spreads over the month, not on a single reveal.
+  · **Diffusion catalysts = the PEER prints, and they fit the runway:** SK Hynix/Samsung (July),
+    **TSMC Thursday 7/16**, Dell (late Aug). NOT MU's own earnings (~late Sept = OUTSIDE the
+    runway) — don't anchor on it; the second leg surfaces via peers, sooner.
+  · **Falsifiable THIS WEEK:** TSMC Thu + Hynix/Samsung are the test. If they DON'T corroborate
+    acute memory demand + pricing power, the buried signal was noise and the second leg is wrong.
+  · Discipline held: the second leg is REAL and is WHY the melt-up can extend — but it's the SAME
+    pull-forward/hoarding dynamic that's the late-cycle tell. Reason to RIDE, not reason it's SAFE.
+- **The full stack now:** informational edge (buried signal) + mechanical edge (retail flow) +
+  buy-dip regime intact (Roberts flip not fired) + dated runway (soft-CPI month) → ride via a dated
+  instrument, enter on a dip, sized w/ stop, EXIT at runway-end OR a falsifier (TSMC/Hynix
+  disappoint, or buy-dip→buy-rip flip). This is the disciplined melt-up trade, fully specified.
+- Links: [[retail-edge]] (surprise rule, two-population), [[new-economy-regime]] (dated runway), [[_calibration]].
