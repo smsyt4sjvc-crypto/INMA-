@@ -865,3 +865,10 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   runway) — and the whole time $85 July oil visibly LOADS the August reversal (market may price it
   before the print). The stop is for the NON-CPI catalysts; the runway is only inflation-print-clear.
 - Links: [[retail-edge]] (expiry-matching, two-population), [[bull-bear-ledger]] (Roberts scorecard), [[detachment-bid]].
+- **Addendum ~7:06am PT — Warsh headline now "no tolerance for ELEVATED inflation" (was "persistently
+  high").** *(analysis)* "Elevated" speaks to the LEVEL (3.5%) — closer to Jake's persistence point,
+  a notch harder than "persistently high" (which hedged on trajectory). Still mostly costless post-
+  soft-print, but the wording drift toward the level is worth tracking (ZH paraphrase vs exact quote
+  ⚠️). Straddle relevance: hawkish-ish Warsh talk could CAP the relief rally → keeps SPY muted → works
+  AGAINST the straddle's need for a big index move. + Hassett "gasoline deflation to $3" = if real,
+  extends the soft-CPI energy runway (vs my $85-oil-reverses-August-CPI flag) — spot-vs-forecast battle.

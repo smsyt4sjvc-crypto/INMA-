@@ -1424,3 +1424,19 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   instrument, enter on a dip, sized w/ stop, EXIT at runway-end OR a falsifier (TSMC/Hynix
   disappoint, or buy-dip→buy-rip flip). This is the disciplined melt-up trade, fully specified.
 - Links: [[retail-edge]] (surprise rule, two-population), [[new-economy-regime]] (dated runway), [[_calibration]].
+
+### 2026-07-14 ~7:06am PT — DEEPSEEK preparing IPO filing "as soon as this year" (ZH)
+### DATA (observed)
+- ZH ~7:06am PT: "DeepSeek is said to prepare for IPO filing as soon as this year." Venue unstated ⚠️.
+### THESIS (interpretation — NOT fact)
+- *(analysis)* Adds to the listing cluster (Anthropic S-1, SpaceX record IPO, SKHY $26.5B,
+  Securitize — now DeepSeek). Lamont/Roberts' #1 top-signal (ISSUANCE FLOOD) intensifying — multiple
+  AI-era giants filing within WEEKS = "track week to week," and it's accelerating. Bull-bear
+  scorecard: issuance horseman firing harder ([[bull-bear-ledger]]).
+- **Two ironies worth flagging:** (1) DeepSeek CAUSED the Jan-2025 AI selloff (cheap-Chinese-model =
+  "commoditize the complement," crushed the capex-forever narrative) — now IPO'ing INTO the capex
+  boom it once threatened. (2) QUALITY-MIGRATION tell: Anthropic (frontier-quality) → DeepSeek
+  (contested accounting/quality, Chinese-lab governance) = the issuance quality DECLINING = the
+  Pets.com-shift marker we flagged. When the marginal IPO drops in quality, the window is maturing.
+- Watch: US vs HK/China listing venue (US-listed Chinese AI lab into US-China tension = its own story).
+- Links: [[bull-bear-ledger]] (Roberts issuance signal), [[market-fragility]].

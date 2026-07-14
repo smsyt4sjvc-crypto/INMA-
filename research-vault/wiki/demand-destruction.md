@@ -824,3 +824,27 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   referee, not the headline. Feeds set-#2 WTI leg + the oil-into-CPI inflation-scare accelerant.
 - Watch: CENTCOM confirm/deny, Abadan-fire satellite/OSINT, whether Kharg is next-named.
 - Links: [[new-economy-regime]] (CPI), [[market-fragility]], [[predictions]] (WTI kill switch).
+
+### 2026-07-14 ~7:06am PT — Hassett messaging (toll "one idea" + gas to $3) + Houthi AIRSPACE escalation
+### DATA (observed) — ZH feed ~7am PT (during Warsh testimony)
+- Kevin Hassett (NEC), asked on 20% cargo-ship fee: "THIS IS ONE IDEA" (softer than Semafor's
+  "very serious" 7/13).
+- Hassett: "A WHOLE BUNCH OF GASOLINE DEFLATION ON THE WAY... realistic to get gasoline to $3/gal."
+- **Houthis published statement warning AIRLINES against operating in Saudi airspace** (escalation:
+  shipping → AVIATION).
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **Toll messaging is oscillating** (Semafor "very serious" vs Hassett "one idea") =
+  trial balloon, not policy — consistent with the whole headline-layer chop; the BAND ($79-85) stays
+  the instrument, not the quotes.
+- **Hassett's gas-to-$3 = administration jawboning energy DOWN** (political: low gas = win), and it
+  fights $85 Brent. Reconciliation candidates: (a) they expect the war premium to FADE, (b) SPR
+  release, (c) pure jawbone. **The non-obvious logic: the blockade is oil-BEARISH IF IT WORKS** —
+  securing Hormuz + keeping Iranian oil flowing REMOVES the closure premium → oil falls. Oil-BULLISH
+  only if it FAILS / Iran hits oil infrastructure (Abadan/Kharg). So "military escalation + gas
+  deflation" can be consistent (strait secured). CPI note: if gas actually deflates, the August-CPI-
+  reversal-on-$85-oil I flagged may NOT happen → EXTENDS Jake's soft-CPI runway. Spot ($85, up) vs
+  administration forecast (gas down) = the battle to watch. [[new-economy-regime]]
+- **Houthi airspace warning = the second front broadening shipping → AVIATION.** Airlines reroute,
+  aviation war-risk insurance spikes, Saudi air disruption. CPI irony: threatens AIRFARES
+  (transportation services) — the exact supercore line that just DROPPED; disruption reverses it.
+- Links: [[new-economy-regime]] (CPI energy/airfares), [[market-fragility]].
