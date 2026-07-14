@@ -1278,3 +1278,21 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   rule: I flagged the claim to CHECK it, the bigger number moved the check toward TRUE.
 - Put-chase note: the −17% (vs −14%) REINFORCES "don't buy the same-day put at open" — bigger
   gap = more inflated put IV + more dead-cat risk. The chase gets worse, not better, with size.
+- **~4:20am PT — cell RESULT (grades the dot-com claim + surfaces a pattern):**
+  · Claim VERDICT: at −14% TRUE (worst since dot-com); at actual −16.97% it's #2 ALL-TIME
+    behind only Black Monday 1987 (−23.52%), beating every dot-com day (Oct-2000 −15.54% top) —
+    ZH's "worst since dot-com" is an UNDERSTATEMENT if −17% holds to the close. → calibration
+    ledger: a ZH layer-3 SUPERLATIVE that CONFIRMED (I was skeptical at −14%, data vindicated it).
+  · **DISCOVERY — the post-2002 record was 2026-02-23 −13.15%, FIVE MONTHS AGO** (not COVID;
+    COVID's −12.85% Mar-2020 is #5). IBM already had a 13% crash THIS February.
+  · **2026 CONCENTRATION: IBM has TWO of its 20 worst days EVER already in 2026** (Feb-23 −13.15%
+    #4, Apr-23 −8.25% #19) — today makes THREE. Escalating magnitude: Feb −13% → Apr −8% →
+    Jul −17%. Apr-23 ≈ Q1 earnings; Jul-14 = Q2 PRE-announcement (ahead of the ~Jul-23 date).
+- *(analysis)* **The crowd-out wasn't a bolt from the blue — it's been building all year and
+  ACCELERATING.** A defensive megacap putting three of its worst-20 sessions ever into a single
+  year = serial guidance failure, not one bad quarter. Strengthens the reallocation/contraction
+  read: whatever inflected in June is the latest, biggest step of a 2026-long deterioration in
+  IBM's enterprise demand. Makes the peer watch-list (ACN/CTSH/HPE) more urgent — if IBM's
+  been bleeding all year on budget shift, the peers may be next to serially miss.
+  ⚠️ sanity-check the 2026-02-23 −13.15% catalyst (not yet in vault; confirm it wasn't a data
+  tick — a −13% print is large enough it should have a known cause).
