@@ -204,3 +204,21 @@ not modesty. Conservative self-description buys conservative approval.
   touches order routing). So the watch-$1,089-and-tier-out plan WORKS — he can react. Refinements
   #2 (breakeven stop raised-after-move, not at-entry) and #3 (stop-MARKET not stop-limit for the
   air pocket) STILL STAND — those are order-type mechanics independent of any quote delay.
+
+## 2026-07-14 ~7:10am PT — IV CRUSH felt live: "both legs of the straddle are down, wtf"
+- Jake, frustrated + confused: both straddle legs DOWN, SPY chopping near 750, MU faded. "How can
+  everything in both directions be down. It's like they're lying." = the universal new-options
+  confusion, experienced firsthand. NOT a conspiracy — it's IV crush + a magnitude-vs-premium miss.
+- **The mechanic:** a straddle bets on SIZE OF MOVE, not direction. Paid ~$6.54 = ~0.87% breakeven.
+  SPY moved ~0.30% (near the strike). Move SMALLER than the premium → loss. AND most of the premium
+  was EVENT VALUE (the market's charge for CPI uncertainty); the instant CPI printed, the uncertainty
+  RESOLVED → that premium evaporated from BOTH legs at once = IV crush. Both down = small move + the
+  vol premium deflating out of both sides simultaneously. Chop near the strike = the straddle's worst
+  case (no decisive move, crush+theta bleed both legs).
+- **We PRE-REGISTERED this exact outcome** (6:28am: "SPY +0.30%, far short of 756.5 breakeven, narrow
+  rip = vol in names not index, straddle pinned/underwater/IV-crushed/likely loss, hold per flat-branch
+  rule"). This is that scenario, not a betrayal. Pre-committed exit: flat Tue → hold, out ~10am Wed.
+- **The tuition = FELT knowledge no explanation teaches:** event-vol straddles get crushed when the
+  move < the premium; narrow-rip (dispersion) kills an INDEX straddle even on a "big" news day. Cheaper
+  lesson than BNO. Silver lining: MU fading from +5% = the DIP his own entry plan wanted (he's not in
+  yet — the fade is the entry arriving, not a loss).
