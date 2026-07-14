@@ -335,3 +335,20 @@ into one 0–100 fragility number + trigger panel.
   financials should be green pre-market regardless of the CPI gap.
 - Links: [[new-economy-regime]] (CPI, Kalshi hike view), [[bull-bear-ledger]], [[retail-edge]]
   (turbulence doctrine — the sell side of it).
+- **Addendum ~3:50am PT — Jake: "does JPM credit loss include the private stuff, OnePay/Cash
+  App?" NO — and that's the whole point.** Ownership map: Cash App = BLOCK (XYZ), separate
+  public co; OnePay = WALMART/Ribbit Capital majority-owned fintech (BNPL powered by a Klarna
+  partnership) — NOT JPM. Their consumer losses sit on THEIR books, invisible to JPM's $2.37B
+  charge-offs. (Two senses of "private": private COMPANIES like these fintechs, AND the private-
+  CREDIT direct-lending asset class — BOTH outside JPM's consumer provision, for different
+  reasons.) JPM's number = PRIME only (Chase cards/auto/mortgage).
+- *(analysis)* **Consumer-credit stress LEADS in exactly the layer NOT on JPM's books:** thin-file,
+  subprime, younger BNPL/cash-advance borrowers. So the leading watch-list (each reports its own
+  delinquency, quarters AHEAD of prime): subprime/near-prime cards — Bread Financial (BFH),
+  Synchrony (SYF), Capital One (COF); subprime auto — Ally (ALLY), Credit Acceptance (CACC);
+  BNPL/fintech — Affirm (AFRM), Block/Cash App (XYZ), SoFi (SOFI), Dave (DAVE). Klarna's book
+  partly reflects OnePay. THIS is the private residual detector for consumer credit specifically
+  — the direct-read version of the SS +11% / food-bank / trade-down tape proxies.
+- Ordering: fintech/BNPL 90-day delinquency cracks → subprime cards → near-prime → prime (JPM,
+  the LAST domino). Reading JPM for consumer health = reading the caboose for where the train is.
+  Cross-link [[new-economy-regime]] (fiscal ledger / private detectors), [[consumption-vs-investment-crux]].
