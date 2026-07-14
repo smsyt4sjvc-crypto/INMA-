@@ -1243,3 +1243,17 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   is the tell — that's not the excuse a normal demand miss reaches for.
 - Links: [[ai-financing-fragility]] (three-leg squeeze), [[market-fragility]] (drawdown/FCF),
   [[new-economy-regime]] (price census — IBM raised 6% and still missed).
+- **Addendum ~4:10am PT — IBM adds the TIMING: "saw clients SHIFT quarterly capex spend in JUNE,"
+  "did not anticipate the MAGNITUDE."** *(analysis)* A single-month, late-quarter, unanticipated
+  shift = a DISCONTINUITY, not a gradual trend. Discontinuities are what break guidance and mark
+  regime inflections. Stamps the crowd-out with a date: **June 2026 inflection.** Makes the
+  watch-list URGENT — ACN/CTSH/HPE/SAP quarters that INCLUDE June should show the same fingerprint
+  if it's market-wide.
+- **The crux this forces (reallocation vs contraction):** "shift capex" has two readings —
+  (a) REALLOCATION: total enterprise capex flat, budget moved FROM legacy IT TO AI → an IBM/vendor
+  problem, winners & losers within tech; (b) CONTRACTION: total capex CUT (macro caution: war,
+  tariffs, uncertainty), only AI spared → an ECONOMY problem, the demand-destruction thesis. IBM's
+  language leans (a); the −14% severity + "magnitude" keeps (b) alive. This is [[consumption-vs-investment-crux]]
+  showing up on an enterprise P&L — and it sits directly AGAINST this morning's benign-bank read:
+  enterprise capex contraction LEADS consumer credit stress by quarters. Resolve via the watch-list
+  + whether IBM's peers say "moved to AI" (reallocation) or "paused/cut" (contraction).
