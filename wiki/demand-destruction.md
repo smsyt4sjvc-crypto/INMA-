@@ -848,3 +848,23 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   aviation war-risk insurance spikes, Saudi air disruption. CPI irony: threatens AIRFARES
   (transportation services) — the exact supercore line that just DROPPED; disruption reverses it.
 - Links: [[new-economy-regime]] (CPI energy/airfares), [[market-fragility]].
+
+### 2026-07-14 ~8:47am PT — Trump BACKS OFF the 20% toll → "FULL blockade ONLY on Iranian ports"
+### DATA (observed) — ZH feed
+- "Trump Backs Off 20% Fee Plan For Hormuz, Asserts 'FULL Blockade' Only On Iranian Ports."
+- "Multiple explosions heard on Iran's QESHM ISLAND: FARS" (Qeshm = largest Gulf island, IN the
+  strait near Bandar Abbas). "Graham's final mission? Trump backs hard-hitting Russia sanctions package."
+### THESIS (interpretation — NOT fact)
+- **Toll thread RESOLVES:** the 20% Hormuz fee (Semafor "very serious" → Hassett "one idea" → now
+  DEAD) is off. Actual policy = blockade IRAN'S OWN PORTS (not a strait-wide toll). Sharper on Iran
+  specifically (cut ~1.5-2M b/d of Iranian exports) but REMOVES the Hormuz-closure-for-everyone risk.
+  = the POLICY version of the Abadan/Imam Khomeini oil-node strikes (7/14). Oil read: targeted Iranian
+  supply CUT (bullish crude) BUT strait stays open for others (not the +8% closure branch) → moderate
+  bullish, reconcilable with Hassett's "gas to $3" (Iranian barrels out, but no strait chaos).
+- **Blockade Iran's ports = the closest yet to the Kharg/export-jugular rung** — watch whether it's
+  enforced (hulls stopped at Iranian terminals) vs rhetorical. Enforcement = real supply loss = the
+  oil kill-switch approaching. Qeshm strikes = campaign continues in the strait zone.
+- **Russia sanctions package** (Graham/Trump) = a SECOND oil-supply threat stacking — Russia + Iran
+  barrels both under pressure = the war-premium's real supply leg (vs the earlier pure risk-premium).
+  If both bite, the "gas deflation" forecast fights actual supply cuts. Watch Brent band ($79-85+).
+- Links: [[new-economy-regime]] (oil-into-CPI, Hassett), [[market-fragility]].
