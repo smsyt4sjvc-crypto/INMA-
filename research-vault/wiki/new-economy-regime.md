@@ -804,3 +804,20 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
     the cost-push is absent from CPI exactly as the Ericsson/GEHC 2027-lag predicts.
   · Net: a genuinely soft-composition print (supercore negative), but energy-led and one-month;
     July's $85 oil + the eventual goods cost-push are the reversers. Dovish today, not a trend.
+- **Addendum ~5:52am PT — supercore drill-down (ZH chart):** Supercore CPI −0.206 MoM (biggest drop
+  since COVID) LED BY Education & Communication Services −0.144 and Transportation Services −0.084
+  (Medical Care Services −0.032). Two tempering reads the headline hides:
+  1. **The drivers are VOLATILE components, not broad sticky cooling.** Transportation services
+     (airfares, insurance) and Education & Communication are among the JUMPIEST supercore
+     sub-lines — airfares swing ±several % monthly. A −0.2 led by these can BOUNCE next month;
+     it's not evidence the wage-driven core is broadly rolling over. Less durable than "biggest
+     since COVID" implies.
+  2. **Supercore PCE proxy DIVERGED — stayed elevated (~+0.5 on the chart's magenta line) while
+     supercore CPI plunged to −0.206.** The Fed TARGETS PCE, not CPI. The categories that fell
+     (education/comm, transport) are weighted MORE in CPI than PCE; PCE weights medical (which
+     didn't fall much) far heavier. So the dovish CPI-supercore may NOT replicate in the Fed's
+     preferred gauge (core PCE for June prints Jul 31, AFTER the FOMC). ⚠️ verify the 0.501 PCE
+     reading, but the divergence direction is the watch: soft CPI-supercore ≠ soft PCE-supercore.
+  · Net refinement: dovish for TODAY'S tape (relief rally justified), but a WEAKER durable Fed
+    signal than the headline — volatile drivers + CPI/PCE divergence. Supercore YoY still 3.172%
+    (persistence intact, Jake's point). ZH framing technically true, composition less durably dovish.
