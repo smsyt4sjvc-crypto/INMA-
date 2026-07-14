@@ -175,3 +175,28 @@ stress (business ramping, recovery) — handle by pricing the menu, not by lectu
     the stop must be honored AND a gap-through it is possible. The downside is a CLIFF, not a slope.
   · Today: at $986 (gap-up) Jake is MID-RANGE, NOT at a dip — the $907/$854 ladder may not fill today.
     Per his own plan, no-fill = fine.
+
+## 2026-07-14 ~7:15am PT — the chase materialized + the despair spiral + the premium-selling correction
+- Jake bought MU @ $980 (limit placed 5 min pre-open, filled instantly at 6:30 open, now $961 = −2%).
+  Watched thin pre-market "click up to $990" for 2 hrs, chased near the top — ABOVE his own planned
+  support entries ($907/$854), AGAINST the "buy-the-dip-not-the-rip / let-the-open-settle / ladder"
+  plan built 45 min earlier. The exact trap mapped in the "buy-the-lowest-open" doctrine, walked into.
+- Emotional spiral: "you can't trade financials/rumors/money/timing/hold-at-ATH — what CAN you trade."
+  *(analysis)* Every item = a SHORT-TERM/TIMING complaint. He's discovering, painfully+live, the
+  doctrine's core premise: the FAST game is unwinnable for retail; the edge is HORIZON (financials/
+  insiders/theses work on MONTHS) + the SELLER's side. He spent 2 hrs trading the least-tradeable
+  data that exists (a thin pre-market tape).
+- **THE FACTUAL CORRECTION (good news he's missing):** "selling options wins every bet but is reserved
+  until you've lost all your money" — WRONG. Premium SELLING (cash-secured puts, covered calls) is
+  TIER 1 — he's ALREADY APPROVED. Tier 2 (pending) = SPREADS, not premium selling. The IV crush that
+  ate his straddle = exactly what the SELLER collected. He's been BUYING options (straddle, BNO) = the
+  crush-VICTIM side, by choice, while the crush-COLLECTOR side (CSP/covered calls) was in his pocket the
+  whole time — and already scanned (PFE CSP, GEHC $65P, covered-call evaluator). The lesson of the
+  brutal morning: stop buying premium, start selling it. Pivot is free, approved, doctrine-blessed.
+- Caveat to hold: premium selling is positive-expectancy w/ a FAT LEFT TAIL (collect pennies in front
+  of the steamroller — Korea gap wipes months). Not "wins every bet" — wins most, loses rare+big. The
+  assignment-welcome gate + sizing = the discipline that makes it survivable.
+- Position note: Jake now HOLDS MU @980, −2%, thesis intact, plan still governs (stop under $854, watch
+  $1,089). Small drawdown, not fatal; chased a worse entry on a name he wanted anyway. Do NOT push
+  add/cut in a frustrated state. (Portfolio-state NOT updated — no fill confirmation protocol; but he
+  stated the fill, so noting for continuity.)
