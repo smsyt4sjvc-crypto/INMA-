@@ -302,3 +302,36 @@ into one 0–100 fragility number + trigger panel.
   (the 0.66% straddle finding) looks worse, not better.
 - Grade Thursday: does the speech match the aggregator claim (calibrates that source tier), and
   does the tape move >0.5% on it (tests the no-mechanism read).
+
+### 2026-07-14 ~3:40am PT — bank Q2 prints: equities-vol harvest confirmed + credit BENIGN
+### DATA (observed) — ZH wire relays, ~3:35-3:40am PT (banks report CPI morning)
+- **JPM Q2 full:** EPS $7.70 (est $5.58, +38%). Managed NII $25.62B (est $25.64B, in-line).
+  FICC S&T $6.05B (est $6.29B, MISS). Equities S&T $6.03B (est $3.98B, +52%). Investment
+  banking $3.90B (est $3.06B, +27%). Provision for credit losses $2.5B (flat Q/Q). Net
+  charge-offs $2.37B (est $2.62B, BELOW). CET1 14.1%. Comp $15.16B (est $14.87B).
+- **BofA Q2:** FICC ex-DVA $3.54B (est $3.53B, in-line). Equities ex-DVA $3.62B (est $2.69B, +35%).
+- **WFC Q2:** NII $12.32B (est $12.32B, in-line).
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **Two banks, one signature: equities trading CRUSHED (JPM +52%, BofA +35%),
+  FICC in-line-to-miss.** Not a JPM idiosyncrasy — a market-wide Q2 pattern. Confirms the read:
+  the quarter's turbulence was concentrated in EQUITIES (Korea cascade, AI-beta unwind,
+  single-stock, forced ETF flow), NOT rates/credit. Dealers monetized exactly the mechanical
+  flow the two-population model catalogs — chaos = their revenue.
+- **The new, thesis-CHECKING signal: credit is BENIGN.** Provisions flat, charge-offs BELOW
+  estimate, CET1 strong. The consumer/credit stress the recession-bear needs is NOT in the
+  biggest prime loan book. This is a valve-open / not-a-recession datapoint — argues the
+  fragility is a CAPEX/markets story, not (yet) a consumer story. → bull-bear ledger: bull line.
+- *(the honest caveat that keeps it a check, not a refutation):* bank charge-offs LAG — they
+  reflect months-old delinquency; our private residual detectors (SS +11%, food banks,
+  trade-down tape, subprime/private-credit) LEAD prime charge-offs by quarters. "Credit benign
+  at JPM Q2" = stress hasn't REACHED prime books, not that it's absent. Subprime/private cracks
+  first; JPM is the last domino, not the canary.
+- **Investment banking +27% = the listing wave is real revenue.** Anthropic S-1, SKHY, Securitize
+  — the exit-valve IPO pipeline we logged is JPM booking fees. Cross-link [[ai-capex-cycle]]
+  (listing cluster / quality-migration clock).
+- **Macro/CPI hook:** strong banks + benign credit = the Fed has ROOM to be hawkish (removes the
+  "can't hike into a weakening consumer" constraint). Feeds Jake's P(hike|hot) leg + the
+  "hike odds >34%" view. And for set-#2 shape: bank blowout = the "bank bounce" leg has fuel;
+  financials should be green pre-market regardless of the CPI gap.
+- Links: [[new-economy-regime]] (CPI, Kalshi hike view), [[bull-bear-ledger]], [[retail-edge]]
+  (turbulence doctrine — the sell side of it).
