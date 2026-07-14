@@ -744,3 +744,20 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   not the hold. Breakevens ~743.5/756.5 (±0.87%); needs SPY through ~756.5 (~+1%) for a clear win.
   Pre-committed exit = "big move → close whole by mid-morning"; the relief gap is the sell, not the
   hold-for-Warsh (theta + crush eat continuation). Whether the gap clears breakeven = the open tells.
+- **Addendum ~5:35am PT — WARSH: "Fed has 'NO TOLERANCE' for persistently high inflation"** (prepared
+  remarks ahead of the 7am House hearing). *(analysis)* Reads hawkish; is mostly COSTLESS table-stakes.
+  · TIMING: lands right after core 0.0% — sounding tough on inflation the hour inflation printed
+    SOFT = free credibility. The word "PERSISTENTLY" is the hedge: core 0.0 says it's not persistent
+    now, so "no tolerance for persistently high inflation" is fully compatible with NOT hiking.
+  · Every new chair's first testimony REQUIRES the anti-inflation credential (esp. a Trump-adjacent,
+    dovish-suspected one) — this is boilerplate, not news; the market knows it.
+  · NOT a contradiction of the third-exit thesis — it's the COVER for it. The third exit isn't
+    "tolerate inflation," it's "redefine the yardstick so measured inflation is at target." A chair
+    pursuing it would SAY exactly this — under the new measure, inflation won't BE persistently high.
+    Hawkish rhetoric + yardstick redefinition are complementary. The two-handed pattern (hawk talk +
+    balance sheet expanding) continues.
+  · WATCH THE Q&A (the real signal): does he pivot "no tolerance" → "so we must MEASURE it correctly"
+    (task forces / data-methods)? That's the redefinition tell. Prepared line = credibility; Q&A = intent.
+  · Book: a hawkish-sounding header could TRIM the relief rally (minor fade risk to the straddle's call
+    leg) — reinforces "take the gap at the open, don't hold for the full 7am testimony; Warsh can
+    SUBTRACT from the rally, not just add." Live example of why hold-for-Warsh is the wrong exit.
