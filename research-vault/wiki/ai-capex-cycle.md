@@ -1490,3 +1490,22 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   the differentiated muscle to build — more original than the MU/consensus trade. If Jake is finding
   these second-order effects ahead of the narrative, THAT's the repeatable edge.
 - Links: [[buildout-bottleneck-map]], [[power-scarcity-equities]], [[retail-edge]] (surprise rule / differential edge).
+- **Addendum ~9:25am PT — Jake's call, sourced: from Big Short / KRE (regional-bank) distress + office
+  vacancies, he bet AI firms would absorb the distressed CRE — "either tiny datacenters OR employee
+  office space."** *(analysis — grade the two legs)*
+  · OFFICE-FOR-EMPLOYEES leg: RIGHT, now printing (VTS report). ✓
+  · TINY-DATACENTERS-IN-OFFICE leg: mostly WRONG as it played out — GPU clusters can't go in downtown
+    office towers (power density/cooling/weight); big compute went to purpose-built POWER-RICH sites
+    ([[power-scarcity-equities]]), urban distressed office → employees. He HEDGED (either/or), so one
+    leg hit; the miss is instructive (the binding constraint is POWER, which offices can't supply).
+  · **The deeper trade the call implied:** AI absorption → prime office stabilizes → regional-bank CRE
+    loans stop deteriorating → KRE de-stresses. Bigger/more-levered than office REITs. **The CATCH:** AI
+    absorption is concentrated in PRIME SF/NYC/SV (63%), while regional banks' CRE problem is
+    SUBURBAN/SECONDARY Class-B office — the stuff AI is NOT taking. So AI rescues the TROPHY assets
+    (helps BXP/HPP/SLG) but does little for the Class-B suburban office that's the actual KRE drag. The
+    reflation hits the segment that WASN'T the regional-bank crisis → KRE-de-stress is PARTIAL (helps
+    coastal-trophy names + sentiment more than the regional loan book).
+  · Forward (surprise rule): 6-mo-old call now printing → is KRE / the coastal office REITs already
+    re-rated as the CRE-crisis-that-didn't-happen faded? If yes, trade's largely done; residual edge (if
+    any) = the specific coastal names AI actually absorbs, NOT broad KRE (carries the suburban drag AI
+    doesn't fix). The METHOD (known-distress + the un-connected variable) is the repeatable edge.
