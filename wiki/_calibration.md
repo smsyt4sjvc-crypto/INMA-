@@ -160,3 +160,18 @@ stress (business ramping, recovery) — handle by pricing the menu, not by lectu
   the market never fills on a drop. The flip-risk (Korea) needs a STOP below. Both = the full exit
   pair: limit@resistance (profit) + stop@broken-support (flip protection). Cell outputs both.
   (Do NOT write portfolio-state until fill confirmed — standing rule.)
+- **~6:25am PT — MU technical map (cell output):** last $937 (cell used STALE close; live pre-market
+  $986 +5% — recompute % off $986). ATH $1,254.81 (6/25), −25% off close. 20D MA $1,050 (price BELOW
+  = short-term resistance), 50D MA $907 (price ABOVE = support). MAs still BULLISH-aligned (20>50).
+  · **Correction to Jake's premise: NOT lower-highs/downtrend — the swing highs are HIGHER highs**
+    (Feb $436→Mar $471→May $818→Jun $1,089→Jun $1,254, strictly ascending = uptrend). What's happened
+    since 6/25 = a −25% PULLBACK within an uptrend; NO lower high has formed yet. Pullback-in-uptrend,
+    not a breakdown. (Cell's "descending" label is a template; data shows ascending.)
+  · ENTRY/dip ladder (below live $986): 50D $907, swing-low $854. Take-profit/limit-sell resistance:
+    20D $1,050 (first ceiling), **$1,089 = THE TELL** (last swing high before ATH — reclaim=uptrend
+    resumes toward ATH; FAIL on next rally = first lower high FORMS = downtrend begins), ATH $1,254.
+  · **RISK FLAG — AIR POCKET below $854:** next real support is $652 (−24% gap, no structure between).
+    A stop-break at $854 can fall FAST + DEEP (Korea-style gap-through). Concentration + air pocket =
+    the stop must be honored AND a gap-through it is possible. The downside is a CLIFF, not a slope.
+  · Today: at $986 (gap-up) Jake is MID-RANGE, NOT at a dip — the $907/$854 ladder may not fill today.
+    Per his own plan, no-fill = fine.
