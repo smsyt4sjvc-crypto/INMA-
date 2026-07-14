@@ -774,3 +774,18 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   · **This is the yardstick redefinition operating on a single ADJECTIVE** (not CPI methodology) — Jake
     watched the definitional escape hatch work live. Strengthens the third-exit thesis: the ambiguity of
     "persistent" is the micro-mechanism; the task forces are the macro version. Same move, two scales.
+- **Addendum ~5:45am PT — CPI composition (ZH breakdown):** the −0.4% headline was ENERGY-DRIVEN
+  (largest energy decline since Aug-2022; June oil tumble). **Core SERVICES still rose modestly** —
+  the STICKY part did NOT disinflate; GOODS deflation carried core to 0.0%. Refinements:
+  · **The soft headline is a backward-looking oil-dip artifact that REVERSES next month.** June oil
+    tumbled; JULY oil is $85 (war). So the July CPI (reported Aug) gets the OPPOSITE energy push —
+    this −0.4% is likely a one-month LOW, not a trend. Don't extrapolate "deflation is here."
+  · Composition SUPPORTS the cost-push-not-in-CPI-yet thesis: core services sticky-positive, goods
+    still deflating (old hedonic regime), memory cost-push absent (the 2027 leg). Exactly the lag
+    the Ericsson/GEHC sequencing predicted.
+  · Moderates the dovish read slightly: sticky core-services + reversing energy = the disinflation
+    is less clean/durable than the headline. For TODAY'S tape though, headline soft + core 0.0
+    dominate = relief rally.
+  · **JPMorgan traders' est: +1-1.5% stocks** = ~756-760 SPY. Straddle breakeven ~756.5 → JPM's
+    expected move lands RIGHT AT the breakeven; a clear straddle win needs the HIGH end (+1.5%/~760).
+    Live but not fat; the opening gap decides. Waller walk-back watch (his hawkish panic vs this print).
