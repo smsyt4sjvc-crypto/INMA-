@@ -799,3 +799,28 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
 - Seoul note: KRX Tuesday session already CLOSED (3:30pm KST = 11:30pm PT) — tonight's
   cascade-vs-exhaustion read is in the books; grade it when Jake pastes the KOSPI/Hynix close.
 - Links: [[market-fragility]], [[new-economy-regime]] (CPI), [[predictions]] (set #2 WTI leg).
+
+### 2026-07-14 ~4:05am PT — Iran CLAIMS US struck Abadan refinery + Imam Khomeini port (⚠️ layer 2)
+### DATA (observed)
+- ISNA (Iranian state news) via ZH, ~4am PT: **"IRAN SAYS US STRUCK ABADAN, IMAM KHOMEINI PORT."**
+  ⚠️ CLAIM RELAY (layer 2) — Iranian state source, unconfirmed by CENTCOM. NOT on the night-3
+  CENTCOM target list (which ran Bushehr→Chah Bahar, all coastal-military).
+- Geography: Abadan = Iran's largest/oldest OIL REFINERY (~400k bpd), top of the Persian Gulf
+  (Shatt al-Arab, Khuzestan). Bandar Imam Khomeini = major petrochemical/commercial port. Both
+  are ENERGY/EXPORT infrastructure at the NW head of the Gulf — a DIFFERENT, deeper target set
+  than last night's coastal-navy sweep.
+### THESIS (interpretation — NOT fact)
+- *(analysis)* IF TRUE, this crosses the line we flagged as the remaining gap: from "blockade the
+  navy, spare the oil" to HITTING oil/petrochem infrastructure — the +8% WTI kill-switch branch
+  in set #2, and a move up the uncapping list. Refinery ≠ export terminal (Abadan serves
+  domestic supply more than exports; Kharg is still the export jugular), so it's a rung, not the
+  top rung.
+- Source-grade discipline: Iran has strong INCENTIVE to claim oil-infrastructure strikes —
+  internationalizes the conflict, spikes oil in its favor, frames US as hitting civilian/economic
+  targets. Weigh accordingly until a primary/CENTCOM confirm or tanker-tracking/satellite fire
+  data corroborates. This is exactly the FARS-casualties-claim tier that got denied within hours.
+- Tape relevance (CPI morning, ~1h20m to print): if Brent extends above $85 on this, the market
+  is pricing it as real; if it fades, the market is discounting the Iranian claim. Brent is the
+  referee, not the headline. Feeds set-#2 WTI leg + the oil-into-CPI inflation-scare accelerant.
+- Watch: CENTCOM confirm/deny, Abadan-fire satellite/OSINT, whether Kharg is next-named.
+- Links: [[new-economy-regime]] (CPI), [[market-fragility]], [[predictions]] (WTI kill switch).
