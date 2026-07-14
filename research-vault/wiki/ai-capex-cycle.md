@@ -1462,3 +1462,31 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
 - The investment implication (workbook's): utilization is the swing factor — "a full DC at low unit price
   earns more than an idle one at high list price." = why the capex only pays if UTILIZATION shows up =
   the unproven leg of the whole bull case (the thing TSMC/hyperscaler earnings must validate).
+
+### 2026-07-14 ~9:20am PT — AI's PHYSICAL talent-hub footprint: SF/NYC office absorption (Jake's early call)
+### DATA (observed) — Epoch Times / VTS report, Jul 9 2026 (Jake: "called this 6 months ago" — vault
+### can't verify, predates our logs; taking at his word)
+- National AI office demand +85% (12mo through May), +179% in major AI hubs. AI = 16.8M sq ft across
+  17 markets. SF/Silicon Valley/NYC = 63% of AI leasing; **SF alone 5M sq ft (~⅓ of national total).**
+- SF office vacancy: 4.7% (Q2-2019) → 30% (2023) → peak 35.7% (Q2-2025) → **32.6% (Q1-2026)** = modest
+  recovery off a distressed base. SF AI leases avg 62k sq ft (2.3x avg tech req). Seattle +390% YoY.
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **A genuine second-order AI effect: capex → scarce talent → HUB OFFICE ABSORPTION →
+  distressed-CRE recovery.** Differentiated angle vs the crowded semis/memory basket — this is the
+  PHYSICAL, under-covered footprint of the buildout (like power/[[power-scarcity-equities]] and
+  memory/DigiKey). Exactly the kind of edge the vault says is Jake's (differential, physical) more than
+  buying consensus AI names.
+- **SURPRISE-RULE catch (the forward read):** if the call was 6 months ago, the EDGE was 6 months ago —
+  when SF CRE was left-for-dead (35%+ vacancy) and the SF-tech office REITs (HPP Hudson Pacific, KRC
+  Kilroy, BXP; NYC: SLG, VNO, PGRE) were distressed/contrarian. Now it's a PUBLISHED VTS/Epoch narrative.
+  The thesis is RIGHT and printing; the question is whether it's still PRICED for recovery or already
+  re-rated. Check the SF-office-REIT price action: if HPP/KRC already ran, the edge is spent; if CRE
+  stays broadly hated, residual value may remain. (Descriptive — names exposed, not a call.)
+- **Honest cautions (don't overstate):** recovery is off a deeply distressed base (32.6% still awful vs
+  4.7% pre-COVID); 5M sq ft AI demand is a DENT in SF's ~80M+ sq ft, not a cure; concentrated (SF/SV/NYC
+  63% = same concentration risk); CRE carries broader headwinds (rates, refi walls, office glut). = a
+  RELATIVE winner in a troubled sector, not a clean boom.
+- **The meta-credit:** following AI capex into its SECOND-ORDER physical footprint (office/CRE) early =
+  the differentiated muscle to build — more original than the MU/consensus trade. If Jake is finding
+  these second-order effects ahead of the narrative, THAT's the repeatable edge.
+- Links: [[buildout-bottleneck-map]], [[power-scarcity-equities]], [[retail-edge]] (surprise rule / differential edge).
