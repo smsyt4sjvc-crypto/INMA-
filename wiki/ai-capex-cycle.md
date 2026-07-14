@@ -1387,3 +1387,12 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   the trough" verdict; adds that we're now at the PANIC-BUYING stage of the upturn. Watch for the
   flip: when front-running STOPS (buyers satiated / prices crack) = the top tell.
 - Links: [[buildout-bottleneck-map]] (DigiKey), [[new-economy-regime]] (Dimon quote below), [[market-fragility]].
+- **Addendum ~4:43am PT — IBM deteriorates to −22.66% ($224.70, −$65.84).** Now #2 all-time,
+  ~0.86pt behind Black Monday (Oct-19-1987, −23.52%) — threatening the worst single day EVER.
+  *(analysis — proportionality):* −22.66% is an ENORMOUS move for "deals delayed, not cancelled"
+  (Krishna's framing). Two readings: (a) the market DISBELIEVES "delayed not cancelled" and is
+  pricing STRUCTURAL share loss / permanent SaaSpocalypse (legacy stack being abandoned, not
+  postponed); (b) forced-selling OVERREACTION — IBM widely index-held, pre-announcement shock
+  tripping stops — a mean-reversion setup. Truth likely between; the FULL Q2 report (~late July)
+  is the resolver. Makes IBM a POST-PRINT watch (does reallocation prove structural or
+  one-quarter), NOT a pre-announcement-day trade in either direction — max uncertainty today.
