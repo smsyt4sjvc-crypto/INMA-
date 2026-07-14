@@ -299,3 +299,28 @@ Related: [[ai-capex-cycle]], [[market-fragility]], [[concentration]], [[consumpt
   being priced. (Division of labor: Jake fetches the 16 numbers; Claude builds the scatter cell.)
 - Links: [[ai-capex-cycle]], [[market-fragility]], [[bull-bear-ledger]] (bear line: quality
   punished by capex intensity).
+
+### 2026-07-14 ~8:25am PT — MAG7 workbook QUANTIFIES the squeeze (Jake's upload, independent build)
+### DATA (observed — reported 10-K FCF/capex; see raw/2026-07-14-mag7-fcf-capex-token-workbook.md)
+- MAG7 TOTAL FCF vs Capex ($bn): 2024 FCF 377 / capex 236 → **2025 FCF 370 / capex 378 = CAPEX CROSSED
+  FCF** → 2026E FCF 314 / capex 548 (⚠️ 2026 = directional ESTIMATE, not audited). Capex/(FCF+capex):
+  0.32 (2019) → 0.51 (2025) → 0.64 (2026E).
+- Per-co 2026E (⚠️ ESTIMATES): AMZN FCF −$18B (capex/cash 1.14), META FCF −$5B (1.04) = BOTH FCF-
+  NEGATIVE on the build; MSFT +55 (0.67), GOOGL +42 (0.73) = compressed-but-positive; AAPL +143 (0.09),
+  NVDA +92 (0.07) = protected/growing.
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **The three-leg squeeze, quantified — and it's an INDEPENDENT build (ChatGPT-sourced)
+  converging on the vault's map** (like [[bull-bear-ledger]] Roberts). The internal-cash leg is now a
+  number: capex crossed FCF in 2025, and 2026E capex (548) = 1.7x FCF (314) for the whole group. AMZN
+  & META literally FCF-NEGATIVE. Matches the Apollo per-company chart (7/13) and the drawdown-vs-FCF
+  read (7/14): the market punished spend INTENSITY (MSFT −32% despite +$55B FCF) while the workbook's
+  "highest FCF risk = META/AMZN/MSFT, best protection = AAPL/NVDA" is the same intensity gradient.
+- **Firewall discipline:** the 2026E figures are the workbook's SCENARIO, not fact (it flags this
+  itself — good practice). AMZN −$18B / META −$5B FCF are aggressive projections; treat as directional.
+  Provenance = "ChatGPT finance feed" → spot-check specifics vs 10-Ks before over-trusting (AI models
+  hallucinate line items). The FRAMEWORK is sound + convergent; the exact numbers deserve verification
+  ([[data-sourcing-playbook]]).
+- **Bears on Jake's book:** the workbook's own conclusion — "buy selectively, staggered, weighted
+  toward where OCF+utilization can outrun capex, NOT equal-weight blind buy" — is the disciplined-entry
+  logic we built for MU (dip-ladder, not concentrate-the-rip). Independent corroboration of the posture.
+- Links: [[ai-capex-cycle]] (token economics, same workbook), [[market-fragility]] (drawdown/FCF), [[bull-bear-ledger]].

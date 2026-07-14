@@ -1440,3 +1440,22 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   Pets.com-shift marker we flagged. When the marginal IPO drops in quality, the window is maturing.
 - Watch: US vs HK/China listing venue (US-listed Chinese AI lab into US-China tension = its own story).
 - Links: [[bull-bear-ledger]] (Roberts issuance signal), [[market-fragility]].
+
+### 2026-07-14 ~8:25am PT — MAG7 workbook TOKEN ECONOMICS: the Jevons-vs-deflation debate, resolved
+### DATA (observed — with sources; see raw/2026-07-14-mag7-fcf-capex-token-workbook.md)
+- Blended $/1M tokens + quality-adjusted index (100 = GPT-4 Mar-2023): GPT-4 $45/QA100 → GPT-4 Turbo
+  $20/QA55 → GPT-4o $10/QA30 → GPT-4o mini $0.38/QA5 → GPT-5.5 frontier $17.50/QA18 → cross-provider
+  good-enough (7/2/26) $0.62/QA1.5. = ~98% quality-adjusted unit-price collapse since GPT-4.
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **This is the sophisticated resolution of our Silicon-Data token-spend debate (7/13):**
+  unit price collapsed ~98% BUT the workbook's mechanism table lands exactly where we did — "track
+  REVENUE PER GPU-HOUR and UTILIZATION, not token list price alone; falling unit price ≠ falling revenue
+  IF volume/premium-mix rises (reasoning/agents use many more tokens)." That's the SCISSORS: list-price
+  down (deflation blade) vs token-VOLUME/utilization up (Jevons blade); revenue = the product, not the price.
+- **"Frontier premium remains while mid-tier COLLAPSES"** = the BIFURCATION we've tracked (GPT-5.6 nerf,
+  commoditize-the-complement): frontier holds pricing (GPT-5.5 QA18), commodity inference →0 (QA1.5).
+  Open-source/Chinese pressure compresses the MODEL layer, benefits CLOUD/APPLICATION demand (favors NVDA
+  volume + hyperscaler utilization, squeezes pure model-sellers). Ties [[ai-financing-fragility]] (same workbook).
+- The investment implication (workbook's): utilization is the swing factor — "a full DC at low unit price
+  earns more than an idle one at high list price." = why the capex only pays if UTILIZATION shows up =
+  the unproven leg of the whole bull case (the thing TSMC/hyperscaler earnings must validate).
