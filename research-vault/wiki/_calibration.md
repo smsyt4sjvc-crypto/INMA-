@@ -214,3 +214,26 @@ stress (business ramping, recovery) — handle by pricing the menu, not by lectu
   tolerable). Can't have big size + tight stop + hold a 8%-range name — pick.
 - Gap note: overnight air-pocket gap → market-stop fires but fills at the gap price (slippage) — exits
   (good), worse price (accept). Numbers/choice Jake's.
+
+## 2026-07-14 ~7:25am PT — MU trailing-stop FINDER result: no good stop exists → SIZE is the only control
+### DATA (observed) — cell output, MU 1y, last $968.02
+- Daily |move|: 50th 3.0%, 75th 5.1%, 90th 7.8%, 95th 10.0%, worst 19.3%, std 4.8%.
+- **ATR(14) = 9.3% of price** (a single day's range averages ~9%). 2x ATR trail ~19%, 2.5x ~23%.
+- Whipsaw test (#stop-outs/yr): 5%→32, 8%→16, 10%→12, 12%→11, 15%→7, **20%→3 (only "balanced")**.
+- Deepest pullback from a peak this year: **30%** (30% off $968 ≈ $678 ≈ the $652 air-pocket floor).
+### THESIS (interpretation — NOT fact)
+- **The cliff-vs-noise tension is UNRESOLVABLE, quantitatively:** to avoid whipsaw MU needs ~20%
+  trail (only 20% is "balanced") → but a 20% trail from $968 = stop ~$774, BELOW the $854 air pocket
+  (rides through the cliff, gives back 20%+). To protect the cliff (≤11%, above $854) → whipsaws
+  11-12x/year. NO OVERLAP. Tight = death by whipsaw; wide = useless (below the cliff).
+- **Conclusion: MU is too volatile to protect with a stop. The stop is an ILLUSION here.** The ONLY
+  real risk control on MU is POSITION SIZE — no order type saves you; you size it so a 20-30%
+  drawdown (which the data says is NORMAL — deepest was 30%) is survivable, and accept the swings as
+  the price of the thesis. → the quantitative version of the concentration warning: concentrating
+  into a name whose only risk control is SIZE means concentration REMOVES your only defense.
+- Silver-lining caveat (honest): MU's monster vol = monster IV = rich PUT premium (the premium-sell
+  edge). BUT a $968 CSP = ~$97k collateral, far beyond Jake's ~$8.5k → NOT available on MU (works on
+  cheaper names — PFE etc.). Flag so the full picture is seen, don't oversell.
+- Practical: Jake holds MU @980 (−2%). Either skip the stop-illusion or set it VERY wide (~20% =
+  catastrophe-brake, not a real stop) and let SIZE be the control. Cross-ref [[retail-edge]]: high-ATR
+  names can't be stop-managed — size is the lever. Sizing Jake's.
