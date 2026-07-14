@@ -90,6 +90,25 @@ vault evidence only. NEVER edited after registration. Next session: grade the pr
 prints Jake pastes, update `predictions/_scoreboard.md` (direction hits, range coverage, notes).
 Misses logged as loudly as hits — this is the calibration engine.
 
+## The WARNING-vs-TRIGGER rule (standing, set 2026-07-14 — Jake's catch)
+**"Late-cycle signature" is BANNED as a tag.** Most features tagged "late cycle" — narrow breadth,
+high concentration, expensive valuation, retail FOMO, melt-up, high single-stock vol — are
+BULL-MARKET features present through the ENTIRE up-leg. They describe a STATE, not a TIMING, and only
+look "late cycle" in hindsight (narrow breadth "flashed" for YEARS in 1998–2000, 2015–2020, 2023–2025
+while the market ran; Greenspan's 1996 "irrational exuberance" → market tripled). Calling them "late
+cycle" in real-time smuggles in an unfalsifiable timing claim — the exact hindsight bias the vault
+ingested a warning about (Roberts; Druckenmiller "valuation is not a catalyst").
+- **WARNINGS (states):** unfalsifiable, persist for years; at EXTREMES they shift forward-drawdown
+  ODDS slightly but time NOTHING. Label them as conditions ("the market's state", "a bull-market
+  feature that persists until a trigger fires"). An extreme reading may be noted as an odds-shader,
+  NEVER as a top-caller.
+- **TRIGGERS (events):** what actually ENDS bull markets — a Fed tightening cycle, a credit/liquidity
+  event, a funding-chain break, a capex cut. Dated, mechanical, FALSIFIABLE. Timing claims come ONLY
+  from these.
+- Rule: describe states as states; make timing claims only from dated falsifiable triggers. The
+  [[bull-bear-ledger]] + Roberts scorecard already do this right ("states flashing" vs "top-markers
+  not yet fired") — the rest of the vault must match, not sloppily tag things "late cycle."
+
 ## Acronym rule (standing, set 2026-07-13)
 When using an acronym, write the full words with the acronym in parentheses after — e.g.
 "weighted average cost of capital (WACC)" — at first use in a conversation, so the terms stick.

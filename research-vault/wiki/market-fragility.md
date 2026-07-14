@@ -17,11 +17,12 @@ Spine note. Related: [[ai-capex-cycle]], [[cepi]], [[concentration]],
   *(HFI Research, see [[demand-destruction]])*
 
 ## THESIS (interpretation — NOT fact)
-- *(user's thesis)* The index is a historically narrow, late-cycle top; leadership is the
-  AI-capex complex, which will roll when the capex/earnings air gap bites. Debasement is the
+- *(user's thesis)* The index is historically narrow; he reads it as a top FORMING — but the timing
+  comes from the TRIGGER (the capex/earnings air gap biting), not from the narrowness itself (a
+  state that can persist for years). Leadership is the AI-capex complex, which rolls when that gap bites. Debasement is the
   base case ("he'll inflate anyhow").
 - *(analysis)* The defensive accumulation + oil demand destruction + gold profit-taking-into-
-  melt-up pattern is consistent with a late-cycle risk-off rotation under a still-rising index.
+  melt-up pattern is consistent with a risk-off rotation under a still-rising index (a state, not a timer).
 - *(analysis)* Because the accumulation screen is coincident, the edge is in the *leading*
   framework (breadth/concentration/[[cepi]]), not in chasing the green names.
 
@@ -424,7 +425,8 @@ into one 0–100 fragility number + trigger panel.
 - *(analysis)* ZH markets feature on narrowing breadth = the narrow-market/narrow-rip thesis getting
   an external write-up, LIVE with today's tape (SPY +0.30% while MU +5% / IBM −22% = index flat, names
   diverging — the vol is in the NAMES). Confirms: (1) the straddle's failure mode (narrow market = index
-  doesn't move = dispersion, not index vol); (2) Roberts' concentration horseman + the vault's late-cycle
-  narrow-market read ([[bull-bear-ledger]]). Breadth narrowing INTO a "melt-up" = the classic late-cycle
-  signature (fewer names carrying the index). The rip Jake's riding is a SEMIS rip, not a broad advance.
+  doesn't move = dispersion, not index vol); (2) Roberts' concentration horseman + the vault's
+  narrow-market read ([[bull-bear-ledger]]). Breadth narrowing INTO a "melt-up" = a narrowing-breadth
+  CONDITION (fewer names carrying the index) — a warning that can persist for years, NOT a dated top
+  (per the warning-vs-trigger rule). The rip Jake's riding is a SEMIS rip, not a broad advance.
 - Links: [[new-economy-regime]] (narrow rip), [[bull-bear-ledger]], [[retail-edge]] (index vs single-name vol).

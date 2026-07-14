@@ -720,7 +720,8 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   Apple → Chinese suppliers (CXMT now Reuters-mainstream), **Meta commercializing EXCESS compute
   (Meta-as-landlord thesis mainstreamed)**, and SK Hynix −18% in two weeks against record everything =
   the Samsung record-quarter signature replicating on the purest AI-memory name. Tape ignoring the
-  best possible news = late-cycle texture, again.
+  best possible news = DISTRIBUTION texture (a falsifiable observation: good news failing to lift
+  price = buyers exhausted) — a state, not a dated top.
 - *(consensus dispersion logged)* BofA 27E $1.15T vs GS $996B — consensus still RAISING through the
   doubt; the Stage-2 trigger (27E revised DOWN) is not close per reported estimates. BofA's "$244B
   raised = optimization not stress" vs S&P cutting ORCL to BBB- the SAME DAY = sell-side and rating
@@ -1418,7 +1419,8 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   · **Falsifiable THIS WEEK:** TSMC Thu + Hynix/Samsung are the test. If they DON'T corroborate
     acute memory demand + pricing power, the buried signal was noise and the second leg is wrong.
   · Discipline held: the second leg is REAL and is WHY the melt-up can extend — but it's the SAME
-    pull-forward/hoarding dynamic that's the late-cycle tell. Reason to RIDE, not reason it's SAFE.
+    pull-forward/hoarding dynamic (borrows from future demand = a top-FORMING mechanism, not a dated
+    top). Reason to RIDE, not reason it's SAFE.
 - **The full stack now:** informational edge (buried signal) + mechanical edge (retail flow) +
   buy-dip regime intact (Roberts flip not fired) + dated runway (soft-CPI month) → ride via a dated
   instrument, enter on a dip, sized w/ stop, EXIT at runway-end OR a falsifier (TSMC/Hynix
