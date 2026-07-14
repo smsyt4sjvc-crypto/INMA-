@@ -684,3 +684,34 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   4,000 the day before CPI: Waller's hike-priming knocked the debasement bid to a round-number
   ledge — tomorrow's print decides whether it holds (hot = more Waller pressure; soft = the bid
   returns violently per the asymmetry).
+
+### 2026-07-13 ~5:20pm PT — BLOCKADE REINSTATED, Brent $85: the toll off-ramp slams shut
+### DATA (observed)
+- ZH flash, pasted ~5:20pm PT Mon (evening session, crude electronic hours, Seoul 20min into
+  its Tuesday session): **"BRENT OIL RISES TO $85/BARREL AS TRUMP REINSTATES IRAN BLOCKADE."**
+- Level context: Brent had broken the $79–84 war band DOWNWARD on the 20%-toll news (logged
+  above); $85 = clean break back ABOVE the band top. Round trip in ~36 hours.
+- Source: ZH headline only — no primary statement text yet. ⚠️ verify: what "reinstates
+  blockade" means operationally (naval interdiction resumed? toll regime revoked? rhetoric?)
+  is UNVERIFIED at log time.
+### THESIS (interpretation — NOT fact)
+- *(analysis)* The Araghchi convergence read ("rate splittable, sovereignty not" = off-ramp
+  forming) is at minimum DEFERRED: Trump answering Iran's "we will be fair / guardian of the
+  Gulf" counter by pulling the toll offer and reverting to blockade = the sovereignty clause
+  was the deal-breaker, exactly the non-splittable axis the entry flagged. Alternative read:
+  negotiating theater — max pressure the night before his CPI/testimony news cycle. Can't
+  distinguish tonight; the BAND is the instrument, not the headline.
+- Honest ledger: this is the SECOND outflank of a de-escalation read in ~36h (toll → Houthi
+  second front; convergence → blockade reinstated). Pattern: headline-level policy is
+  oscillating faster than any read can settle — trade destinations (band edges), never the
+  middle. $85 = the war premium fully re-inflated.
+- Overlay into CPI (~12h): energy back at the highs the night before the print = an inflation-
+  scare accelerant on the hawkish branch — oil up + hot core = the gap-down shape call's fuel.
+  Set-#2 WTI leg (+1.5%, 55% up) gets a tailwind; the toll-deal kill switch (WTI −4%) is dead
+  unless the offer returns.
+- Seoul is trading this LIVE (energy importer, won pressure) stacked on the margin cascade —
+  the cascade-vs-exhaustion read tonight is now contaminated by an oil shock; a down tape no
+  longer cleanly means "cascade has legs."
+- Sensor: BNO front-month call skew (baseline −33.5) tomorrow = is the market paying up for
+  MORE escalation or was $85 the repricing.
+- Links: [[market-fragility]] (Korea), [[new-economy-regime]] (CPI morning), [[predictions]].
