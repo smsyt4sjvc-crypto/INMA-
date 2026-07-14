@@ -352,3 +352,12 @@ into one 0–100 fragility number + trigger panel.
 - Ordering: fintech/BNPL 90-day delinquency cracks → subprime cards → near-prime → prime (JPM,
   the LAST domino). Reading JPM for consumer health = reading the caboose for where the train is.
   Cross-link [[new-economy-regime]] (fiscal ledger / private detectors), [[consumption-vs-investment-crux]].
+- **Addendum ~3:52am PT — BofA full: EPS $1.21 (est $1.13), rev $31.56B (est $30.39B), trading
+  ex-DVA $7.16B (est $6.21B). PROVISION $1.37B vs est $1.51B (BELOW), NCOs $1.41B (est $1.43B).**
+  Refinement: provisions are FORWARD-looking (CECL — modeled expected losses), charge-offs are
+  backward. BOTH banks under/at provision estimate (JPM flat, BofA below) = the forward models
+  aren't bracing for consumer deterioration. Slightly more forward than charge-offs → marginally
+  strengthens not-a-recession-yet. BUT: CECL models are prime-portfolio + macro-forecast driven,
+  pro-cyclical, historically slow at turns (didn't flag '08) — still blind to the fintech/subprime
+  layer. Net: "no stress in the prime forward models," same subprime blind spot. Two banks now
+  fully confirm both signatures; treat as settled, stop re-logging incremental bank lines.
