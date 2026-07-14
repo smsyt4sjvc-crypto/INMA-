@@ -1269,3 +1269,12 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   CONTRACTION). ZH's dot-com frame prematurely resolves the crux to the bear side; the
   reallocation-vs-contraction question (prior addendum) is still OPEN. The market CHOOSING the
   bubble-burst lens is itself a datapoint — sentiment is primed to read AI-bust signals.
+- **CORRECTION ~4:18am PT — IBM print is −16.97% (pre-market: $238.14, −$48.68), not −14%.**
+  Revises the superlative call above: at −17% the "worst since dot-com" claim is LIKELY TRUE
+  (my skepticism was calibrated to −14%). Prior-worst post-2002 IBM days ≈ COVID Mar-2020
+  (~−12/−13%) and 2008 (~−9/−10%), both shallower than −17% (memory estimate — the crash-history
+  cell confirms definitively; couldn't fetch in-session, proxy blocks Yahoo). ⚠️ pre-market
+  quote — grade on official CLOSE (close-to-close basis). Concede logged per corrections-visible
+  rule: I flagged the claim to CHECK it, the bigger number moved the check toward TRUE.
+- Put-chase note: the −17% (vs −14%) REINFORCES "don't buy the same-day put at open" — bigger
+  gap = more inflated put IV + more dead-cat risk. The chase gets worse, not better, with size.
