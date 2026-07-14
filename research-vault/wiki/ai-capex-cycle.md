@@ -1509,3 +1509,22 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
     re-rated as the CRE-crisis-that-didn't-happen faded? If yes, trade's largely done; residual edge (if
     any) = the specific coastal names AI actually absorbs, NOT broad KRE (carries the suburban drag AI
     doesn't fix). The METHOD (known-distress + the un-connected variable) is the repeatable edge.
+- **Addendum ~9:28am PT — Jake clarifies: the non-office leg was ENERGY STORAGE / BATTERIES, not
+  datacenters.** *(analysis)* More plausible than GPUs (batteries aren't power-density/cooling-
+  constrained — they just sit), so a better guess. BUT still wrong as a REAL-ESTATE vehicle, for
+  different reasons: (1) BESS wants INDUSTRIAL/warehouse/land + GRID INTERCONNECTION (batteries go
+  where the grid is, not where the distressed office is); (2) lithium FIRE CODE + floor-loading make
+  urban office-tower conversion impractical/un-permittable; (3) the distressed asset class was OFFICE
+  — INDUSTRIAL/warehouse CRE was BOOMING, not distressed — so the distressed RE Jake pointed at is the
+  wrong TYPE for batteries. (Distressed office's real repurposing trend = residential conversion, not BESS.)
+- **The valuable SEPARATION — theme vs vehicle:** the CORE insight ("AI's power hunger → energy-STORAGE
+  demand") is RIGHT and tradeable; it just plays out as the BESS/STORAGE BOOM (Tesla Megapack, Fluence
+  FLNC, Stem, utility-scale developers) inside the datacenter FIRM-POWER stack — NOT as batteries-in-
+  distressed-offices. Slots into [[power-scarcity-equities]] (Fervo/geothermal/clean-firm): batteries =
+  the storage complement to firm power for datacenters. Separate the THEME (right, investable) from the
+  VEHICLE (distressed office CRE, wrong).
+- **The clean line that resolves the whole call:** AI's PEOPLE went to the distressed office (the
+  office-for-employees leg = RIGHT); AI's POWER/COMPUTE/STORAGE went to purpose-built industrial/grid
+  sites (so ANY "AI uses the distressed office for infrastructure" leg was always going to miss — the
+  machines and batteries have physical requirements offices can't meet). Employees can use the office;
+  the infrastructure can't. = the reusable filter: for AI physical-footprint calls, ask "people or power?"
