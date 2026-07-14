@@ -103,3 +103,20 @@ stress (business ramping, recovery) — handle by pricing the menu, not by lectu
   near-term — highest-beta melt-up play. But that's a MOMENTUM bet → needs a STOP, not
   concentration. Sizing is Jake's; the flag is that "right on semis + wrong on timing +
   concentrated = the Korea-retail outcome." Watch for recurrence under FOMO/green-tape.
+- **Addendum ~6:00am PT — the SOXX-equiv holdings X-ray (Jake pasted 24 holdings):** buckets —
+  · COMPUTE/accelerators NVDA 7.8 + AMD 8.0 + AVGO 7.1 = ~23% (AI epicenter)
+  · ANALOG/diversified TXN 4.0+ADI 3.8+NXPI 3.6+MCHP 2.3+ON 1.9+QCOM 3.0+MPWR 3.2 = ~22% (the
+    LESS-AI-levered bucket — auto/industrial end markets; some real diversification)
+  · WFE EQUIPMENT AMAT 5.2+LRCX 4.3+KLAC 4.7+TER 2.8+ASML 2.3 = ~19% (the MOST capex-cut-exposed
+    sub-sector — directly in the squeeze-thesis crosshairs)
+  · AI-CONNECTIVITY/HW MRVL 4.6+ALAB 2.8+CRDO 2.2+MTSI 1.1+DELL 6.0 = ~17% (highest-multiple beta;
+    DELL = the memory-hoarding beneficiary per IBM story)
+  · MEMORY MU 8.0 = 8% (the vault's MOST-cautioned name — q13, insiders selling, panic-buying stage)
+  · FOUNDRY/OSAT TSM 4.4 + ASX 1.2 = ~6%; INTC turnaround 5.7%.
+- *(analysis)* Concentrating here overweights the TWO buckets the morning's thesis flags hardest:
+  MEMORY (MU 8%, most-cautioned) + WFE (19%, most capex-cut-exposed). "Diversified within semis"
+  (24 names) is COSMETIC vs the risk that matters — in a sector selloff semis correlate → ~1
+  (Korea proved it days ago). Near-term shortage/hoarding/dovish supports the top names; medium-term
+  glut/capex-cut hits memory+WFE FIRST. = a levered timing bet on melt-up outrunning squeeze, with
+  extra weight on exactly what breaks first if timing's wrong. Sizing Jake's; X-ray so he decides
+  with eyes open, not on "it's basically SOXX."
