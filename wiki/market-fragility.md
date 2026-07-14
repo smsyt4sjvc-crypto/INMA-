@@ -418,3 +418,13 @@ into one 0–100 fragility number + trigger panel.
   index straddle underperforms. File [[retail-edge]]: match the instrument to WHERE the vol is
   (dispersion → single-name options or a basket, not the index).
 - Links: [[retail-edge]] (event-vol), [[new-economy-regime]] (CPI), [[predictions]] (set #2/straddle grade).
+
+### 2026-07-14 ~8:54am PT — ZH: "Stock Market's Breadth Keeps Getting Narrower" (confirms the thesis)
+### THESIS (interpretation — NOT fact)
+- *(analysis)* ZH markets feature on narrowing breadth = the narrow-market/narrow-rip thesis getting
+  an external write-up, LIVE with today's tape (SPY +0.30% while MU +5% / IBM −22% = index flat, names
+  diverging — the vol is in the NAMES). Confirms: (1) the straddle's failure mode (narrow market = index
+  doesn't move = dispersion, not index vol); (2) Roberts' concentration horseman + the vault's late-cycle
+  narrow-market read ([[bull-bear-ledger]]). Breadth narrowing INTO a "melt-up" = the classic late-cycle
+  signature (fewer names carrying the index). The rip Jake's riding is a SEMIS rip, not a broad advance.
+- Links: [[new-economy-regime]] (narrow rip), [[bull-bear-ledger]], [[retail-edge]] (index vs single-name vol).

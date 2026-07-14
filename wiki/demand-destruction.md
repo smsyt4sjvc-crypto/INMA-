@@ -868,3 +868,26 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   barrels both under pressure = the war-premium's real supply leg (vs the earlier pure risk-premium).
   If both bite, the "gas deflation" forecast fights actual supply cuts. Watch Brent band ($79-85+).
 - Links: [[new-economy-regime]] (oil-into-CPI, Hassett), [[market-fragility]].
+
+### 2026-07-14 ~8:54am PT — KUWAIT under missile/drone attack (OFFICIAL — Kuwait Army GHQ)
+### DATA (observed)
+- @KuwaitArmyGHQ (Kuwait Army General HQ, official) via ZH, "now": Arabic — "تتصدى حالياً الدفاعات
+  الجوية الكويتية لهجمات صاروخية وطائرات مسيرة معادية" = **"Kuwaiti air defenses are CURRENTLY
+  engaging enemy missile and drone attacks."** ⭐ LAYER-1 primary source (national military), not a
+  FARS-tier claim.
+- "US strikes damage Iran KISH ISLAND's POWER, WATER sites: TASNIM" (Kish = Gulf island free-zone;
+  power/water = civilian-infra target). ⚠️ Tasnim/Iranian claim (layer 2).
+### THESIS (interpretation — NOT fact)
+- **Category change: the war is now hitting KUWAIT directly** — a GCC state, major oil producer
+  (~2.5M b/d), and host to major US bases (Camp Arifjan, Ali Al Salem). This is the second-front /
+  GCC-oil branch ACTIVATING at the northern Gulf (attacker likely Iran or Iran-aligned Iraqi militias
+  — Kuwait borders Iraq). Escalation of the THREAT — defenses are INTERCEPTING, not yet confirmed
+  hits on oil infrastructure. Oil watch: Burgan field, Mina Al Ahmadi export terminal — a hit there
+  = real Kuwaiti supply loss = a major uncapping rung (bigger than the Iranian islands). US-forces
+  exposure in Kuwait = the casualties-branch risk widens.
+- **Kish power/water strikes = target-type escalation** (military/naval → CIVILIAN infrastructure),
+  matching the coastal-island campaign (Bushehr→Qeshm→Kish). Pressure/blockade logic extending to utilities.
+- Reconcile w/ the toll resolution (blockade only Iranian ports) + Hassett "gas to $3": if the war
+  now threatens GCC (Kuwaiti) oil rather than just Iranian, the "gas deflation" forecast fights a
+  MUCH bigger supply risk. Brent band ($79-85) is the referee; a Kuwaiti-infra hit breaks it upward.
+- Links: [[new-economy-regime]] (oil-into-CPI), [[market-fragility]] (war-risk).
