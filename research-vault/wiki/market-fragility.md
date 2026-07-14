@@ -274,3 +274,31 @@ into one 0–100 fragility number + trigger panel.
 - Sequencing (from the transmission-map entry above): Seoul closes 11:30pm PT, six hours before
   CPI — tonight's session is the clean cascade-vs-exhaustion read; KORU's Tuesday NY open will
   then reconcile BOTH Seoul's close AND the CPI print at once.
+
+### 2026-07-13 ~6:50pm PT — Thursday speech flash: election-legitimacy claims (source-graded)
+### DATA (observed)
+- Item 1 (medium confidence): Trump's Thursday speech "reportedly to address newly declassified
+  intelligence reports related to foreign interference in the 2020 election," per MS NOW
+  (pasted ~6:45pm PT). A report about a PLANNED speech — content unconfirmed until delivered.
+- Item 2 (⚠️ LOW confidence — partisan aggregator, hype format): Eric Daugherty/@DC_Reporter
+  claim Trump will announce GA Senators Ossoff & Warnock "illegitimately elected" per an FBI
+  Fulton County investigation. Unverified by any primary source at log time. Exactly the
+  headline-inflation tier the sourcing playbook discounts.
+### THESIS (interpretation — NOT fact)
+- *(analysis)* Mechanical market path: EMPTY. No constitutional mechanism lets a president
+  unseat sitting senators — expulsion requires a 2/3 Senate vote; declaring an election
+  fraudulent changes zero seats, zero votes, zero legislation. Markets historically don't
+  price political rhetoric without a mechanism (cf. 2020-21: contested-election headlines,
+  indices didn't blink; the VIX only prices election risk when there's a dated resolution
+  event). Expect hell in the news cycle, ~nothing in the tape directly.
+- The channel that IS real: **institutional-trust premium.** This joins the yardstick war as
+  the same phenomenon in a different arena — 2026's theme is CONTESTED MEASUREMENT: inflation
+  gauges (Warsh task forces), election results, war outcomes (CENTCOM vs FARS claims nightly).
+  When official referees are disputed by officials themselves, the un-referee-able assets carry
+  the bid — gold at $4,000 is partly THIS, not just Fed policy. Feeds [[new-economy-regime]]'s
+  debasement-psychology thread.
+- Calendar stacking: Thursday = day after Senate testimony + PPI, day before opex 7/17, TSMC
+  earnings same day. The week's information density keeps rising; scheduled-risk suppression
+  (the 0.66% straddle finding) looks worse, not better.
+- Grade Thursday: does the speech match the aggregator claim (calibrates that source tier), and
+  does the tape move >0.5% on it (tests the no-mechanism read).
