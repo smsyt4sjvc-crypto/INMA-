@@ -196,3 +196,11 @@ not modesty. Conservative self-description buys conservative approval.
    price → no fill → stuck riding down (the exact disaster the stop was for). Stop-MARKET guarantees
    exit (accepts slippage). For air-pocket downside protection, market-stop > limit-stop. Delay makes
    it worse (won't see the dive). Sizing/choice Jake's; these are order-type mechanics.
+- **CORRECTION ~6:35am PT — the "10-min delay" is Fidelity's INDEX BANNER (NASDAQ/S&P/Dow widget),
+  NOT Jake's stock feed or execution.** I misread it as his data feed. Retract refinement #1
+  (delay-driven "pre-place, can't watch-react") — wrong-premised. What's real-time: individual
+  stock quotes on the trade ticket (Fidelity streams real-time for most users — verify the MU
+  quote shows real-time/streaming), and ORDER EXECUTION (always real-time; the banner delay never
+  touches order routing). So the watch-$1,089-and-tier-out plan WORKS — he can react. Refinements
+  #2 (breakeven stop raised-after-move, not at-entry) and #3 (stop-MARKET not stop-limit for the
+  air pocket) STILL STAND — those are order-type mechanics independent of any quote delay.
