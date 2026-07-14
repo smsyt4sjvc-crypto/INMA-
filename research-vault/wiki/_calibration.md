@@ -237,3 +237,12 @@ stress (business ramping, recovery) — handle by pricing the menu, not by lectu
 - Practical: Jake holds MU @980 (−2%). Either skip the stop-illusion or set it VERY wide (~20% =
   catastrophe-brake, not a real stop) and let SIZE be the control. Cross-ref [[retail-edge]]: high-ATR
   names can't be stop-managed — size is the lever. Sizing Jake's.
+- **Addendum ~7:28am PT — Jake: "not holding MU forever, riding ~1mo of Fed-not-hiking/inflation-down."**
+  Fair — reframes the stop math: whipsaw stats are ANNUAL, so over a ~1-mo hold a WIDE ~20% catastrophe
+  trail barely triggers on noise (few days) → workable as a black-swan brake where it wasn't for a
+  year-hold. BUT horizon does NOT shrink the DAILY vol — MU can drop 15-20% in a WEEK in-window (90th-pct
+  day 7.8%, worst 19.3%). Reduces cumulative drift, not sharp drops. **Resolution (fits the dated thesis):
+  can't price-stop MU + dated thesis → REAL exits are TIME (runway end ~mid-Aug/next CPI) + THESIS (TSMC
+  Thu / PPI hot / buy-dip→buy-rip flip / memory reverses); the ~20% trail = catastrophe backup only.**
+  Expiry-matching doing its job — match exit to the CATALYST clock, not a price level a 9.3%-ATR stock
+  won't respect. Size still = the in-window sharp-move control. Coherent dated-swing plan.
