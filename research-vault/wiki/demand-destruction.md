@@ -755,3 +755,12 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   posture change worth pricing.
 - Links: [[market-fragility]] (Seoul trading this live, mid-session), [[new-economy-regime]]
   (oil into CPI, ~10h).
+- **Addendum ~7:30pm PT (Jake's catch): the target list IS the "entire coastline" blockade
+  claim, executed.** Plot the six on a map and they trace Iran's full ~2,000km littoral
+  end-to-end: Bushehr (NW Persian Gulf) → Bandar Abbas + Abu Musa (the strait) → Jask →
+  Konarak → Chah Bahar (Gulf of Oman, near the Pakistan border). That's not a Hormuz
+  operation — it's a coastline-wide interdiction map, matching the earlier declared
+  full-coastline blockade. The discrimination that remains: military/naval nodes along the
+  whole coast struck; KHARG AND THE OIL-EXPORT NODES STILL UNTOUCHED. Iran's navy is
+  blockaded; its oil is not — that gap is the last rung before the top of the uncapping
+  list, and the market's $85 says it's watching the same gap.
