@@ -397,3 +397,25 @@ into one 0–100 fragility number + trigger panel.
   calm-prime-consumer; the caboose still looks fine. SpaceX IPO = listing wave extends (add to
   Anthropic/SKHY/Securitize).
 - Links: [[retail-edge]] (surprise rule), [[new-economy-regime]] (Dimon), [[ai-capex-cycle]] (IBM).
+
+### 2026-07-14 ~6:28am PT — the NARROW rip: SPY +0.30% while MU +5%, IBM −22% (vol in NAMES not index)
+### DATA (observed)
+- SPY 751 pre-market (+0.30% vs 748.79 close) — well short of straddle breakeven ~756.5 (+1.0%)
+  and JPM traders' +1-1.5% call. Meanwhile MU +5%, IBM −22%, semis ripping.
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **The relief is NARROW — a sector rotation into beaten-down semis/memory, NOT a
+  broad melt-up.** SPY barely moves because semis rip while IBM (−22%, index component) drags and
+  the rest is mixed. This IS this morning's bank-earnings finding playing out LIVE: the Q2
+  turbulence/vol was concentrated in EQUITIES/single-names (JPM/BofA/GS equities +35-52%), NOT the
+  index — dispersion, not index vol. The soft CPI moved the NAMES, not SPY.
+- **Straddle read:** pinned near the 750 strike, underwater, IV crushed at the print, needing a
+  move CPI didn't deliver. Still alive (1 DTE, max gamma — a move from here pays fast) but the
+  primary catalyst PASSED MUTED; odds now poor. The pre-committed rule ANTICIPATED this: SPY
+  +0.30% = the "flat Tuesday" branch → HOLD today, out by ~10am PT Wed. The rule caps the bleed;
+  holding = giving it the pre-allotted window, not expecting a save. Likely a loss; the discipline
+  is not panic-cutting the open — Jake wrote the rule for exactly this.
+- **The lesson crystallizing:** an INDEX straddle cannot capture SINGLE-NAME dispersion. When the
+  vol is in MU/IBM (names) not SPY (index) — which the bank prints TOLD us this morning — the
+  index straddle underperforms. File [[retail-edge]]: match the instrument to WHERE the vol is
+  (dispersion → single-name options or a basket, not the index).
+- Links: [[retail-edge]] (event-vol), [[new-economy-regime]] (CPI), [[predictions]] (set #2/straddle grade).
