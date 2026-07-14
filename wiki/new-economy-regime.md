@@ -657,3 +657,13 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   through supply factors" to define AI cost-push away — the same categories, opposite sign.
   Whether AI shows up as inflation may end up a MEASUREMENT decision, not a market fact.
 - Links: [[ai-capex-cycle]] (memory sensors), [[buildout-bottleneck-map]], [[power-scarcity-equities]] (electricity).
+- **Addendum ~6pm PT — Jake: "Apple, Microsoft already raised prices. Others probably have as
+  well, just with less coverage."** (Jake's recall, specifics unverified ⚠️ — worth a Perplexity
+  census: which consumer-tech names have ANNOUNCED increases, on what products, effective when.)
+  Two upgrades to the channel map if it holds: (1) MID-CYCLE price increases on unchanged
+  hardware are the hedonics-proof pure signal — nothing for quality adjustment to absorb;
+  (2) Microsoft raising SUBSCRIPTION prices = a fifth channel: software/cloud passing compute
+  costs through as SERVICES inflation — and its twin is the GPT-5.6 nerf, price-per-unit-of-
+  cognition rising with the sticker unchanged. CPI cannot see the nerf at all: cognitive
+  shrinkflation is measurement-invisible, which means the AI-services channel is UNDERSTATED
+  in any official print by construction.
