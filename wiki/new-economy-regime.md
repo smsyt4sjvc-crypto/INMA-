@@ -667,3 +667,22 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   cognition rising with the sticker unchanged. CPI cannot see the nerf at all: cognitive
   shrinkflation is measurement-invisible, which means the AI-services channel is UNDERSTATED
   in any official print by construction.
+- **Addendum ~6:15pm PT — the census came back (raw/2026-07-13-ai-price-increase-census-perplexity.md):
+  VERIFIED, channel 2 has arrived.** Apple ~20% (June, verbatim reason: "could no longer absorb
+  component inflation"); Dell ~17% (Mar 30 — already inside Q2 prints); Lenovo (June); Cisco
+  (Mar); Hetzner cloud up to 37% (Apr); IBM ~6%; Microsoft commercial M365 up to 33% (Jul 1).
+  *(analysis)* Reads:
+  · **The stated-reason split is the tell:** hardware names say COSTS out loud (DRAM/NAND/AI);
+    software names say VALUE ("AI features") — same pass-through, cost-push wearing a
+    monetization costume on the services side.
+  · **Landing spots differ:** Apple/Dell/Lenovo consumer hardware → CPI (Dell's March raise is
+    already in prints; Apple's June raise enters June/July collection — possibly a trace in
+    TOMORROW'S print). Microsoft COMMERCIAL licenses + Hetzner/Cisco → PPI — landing in
+    WEDNESDAY'S print (7/15), the day after CPI. This week reads both ends of the pipe.
+  · **Arithmetic honesty:** IT commodities ≈ 1% of CPI; +20% passed through ≈ +0.2pp on the
+    index spread over months — a few bp/month directly. The direct math is small; the SIGNAL is
+    the sign-flip (a 25-30pt swing vs the −5-10%/yr hedonic norm) and the breadth (7 majors in
+    6 months). The big weights (autos) haven't moved yet — that's the 2027 leg.
+  · **The not-yet list is the frontier:** streaming/consumer subs (Netflix, Spotify, Prime)
+    unraised — DRAM-light businesses, no cost excuse yet. If THEY start raising citing "AI
+    features," that's opportunistic breadth (1970s-style), not cost-push — a regime-worse signal.
