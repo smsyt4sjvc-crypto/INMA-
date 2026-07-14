@@ -872,3 +872,27 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   ⚠️). Straddle relevance: hawkish-ish Warsh talk could CAP the relief rally → keeps SPY muted → works
   AGAINST the straddle's need for a big index move. + Hassett "gasoline deflation to $3" = if real,
   extends the soft-CPI energy runway (vs my $85-oil-reverses-August-CPI flag) — spot-vs-forecast battle.
+
+### 2026-07-14 ~8:47am PT — rate-hike odds: soft CPI knocked them down but SMART money holds them up
+### DATA (observed) — ZH feed
+- Sept hike odds: jumped to ~60% on Waller's hawkish Monday → soft CPI today knocked them DOWN.
+  Now **Polymarket 40% vs SOFR futures 52% = a 12-pt arb/gap.** (SOFR = institutional rate hedging;
+  Polymarket = retail betting.)
+- Warsh: "Fed is RACING to put out GENIUS Act [stablecoin] rules by Saturday." (+ US-UK joint
+  stablecoin statement, US Treasury — coordinated stablecoin-reg push this week.)
+- Citigroup −5.5% DURING its earnings call (outlook/guidance-driven, not the print).
+### THESIS (interpretation — NOT fact)
+- **Grades Jake's registered "hike odds >34%" view (7/13), honestly split:** the JULY hot-core LEG
+  LOST on this print (core 0.0, not ≥0.3) — near-term catalyst wrong. BUT his STRUCTURAL instinct
+  ("public/retail betting UNDERPRICES the hike") is now MEASURABLE and CORRECT: Polymarket (retail)
+  40% < SOFR (smart money) 52% — retail IS pricing the hike lower than institutions, exactly his
+  claim. Wrong on the trigger, right on the underpricing. The 12-pt Polymarket-SOFR gap = his thesis
+  made visible.
+- **The bigger tell: hike odds did NOT collapse to 10-15% on a soft CPI — SOFR holds 52% for Sept.**
+  = the market (like the vault) reads the softness as ENERGY-LED/TEMPORARY (July $85 oil reverses it)
+  and keeps a real Sept-hike probability. Confirms the "soft print ≠ dovish regime, it's a one-month
+  runway" read. If Jake trusts SOFR over Polymarket, buying "hike" at 40% (Polymarket) vs 52% (SOFR)
+  = the measurable edge — but Sept is far, cross-venue arb has friction; descriptive, not a call.
+- Warsh racing GENIUS Act rules by Sat + US-UK stablecoin statement = the tokenization/stablecoin
+  regulatory plumbing accelerating hard ([[buildout-bottleneck-map]] tokenization crossing).
+- Links: [[market-fragility]], [[demand-destruction]] (oil-into-CPI), [[_calibration]] (thesis grade).
