@@ -369,3 +369,34 @@ Related: [[ai-capex-cycle]], [[market-fragility]], [[concentration]], [[consumpt
   record stress (funding cracking). Melt-up on borrowed money, literally — the two coexisting is the whole
   "runway open + funding fragile" picture. Watch: spread levels, private-credit/SPV deals, first buyback-cut.
 - Links: [[market-fragility]] (30Y/credit), [[ai-capex-cycle]] (ASML demand), [[bull-bear-ledger]].
+
+### 2026-07-15 ~11:51am PT — Slok: hyperscaler bond COVER RATIO 5x (Feb) → below 2x (July)
+Source: Torsten Slok (Apollo chief economist), via Jake. Named-analyst datapoint (~Layer-1.5).
+#### DATA (observed)
+- **Cover ratio** = dollars of investor orders per dollar of bonds issued (bid-to-cover / oversubscription
+  on a new-issue deal).
+- **Hyperscaler bond cover ratio fell from nearly 5x (Feb 2026) → below 2x (July 2026).**
+- Slok's read: "investors may need **wider spreads** to absorb additional hyperscaler supply."
+#### THESIS (interpretation — NOT fact)
+- *(analysis)* **This is a TRIGGER-class gauge, not a WARNING/state** (per the WARNING-vs-TRIGGER rule):
+  bid-to-cover is dated, mechanical, and falsifiable — a funding-chain metric, exactly the category that
+  can actually time a break. It quantifies the "record-wide spreads" thread above with a *demand* number:
+  the appetite for hyperscaler paper has **thinned 60%+ in five months.** The funding chain isn't
+  hypothetical — it's measurably draining at the margin.
+- *(analysis)* **But calibrate: <2x is thinning, not seizure.** Deals still CLEAR at 2x (covered ~2:1);
+  the mechanism is *price*, not *access* — buyers demand wider spreads = higher cost of capital, not a
+  failed auction. The rupture signal is cover approaching **1x or a pulled/failed deal.** So this is the
+  gauge moving hard in the bear thesis's direction, toward — not at — the break. Trajectory > level: 5x→2x
+  in 5 months is the *slope* that matters; extrapolated, it's the thing to watch monthly.
+- *(analysis)* **Independent corroboration in the Beige Book (same day):** KC CRE — "most transactions
+  involved owners **contributing additional capital or accepting a smaller ownership share**" as
+  development credit got "harder to access." Same funding-tightening showing up in *private* markets
+  (equity plugging the gap as debt thins). Two unrelated windows onto one phenomenon: **the cost of
+  financing the buildout is rising and the buyer base is thinning** — [[new-economy-regime]] margin
+  squeeze + this = the pincer.
+- *(analysis)* Feeds the three-leg squeeze directly: $4-8T capex needed 2026-28, no FCF, all debt+equity —
+  and the debt leg's bid-to-cover is halving. If cover keeps falling, capex plans get trimmed → memory/
+  compute demand (the thing holding [[ai-capex-cycle]] / MU up near-term) softens medium-term. The
+  near-term-demand / medium-term-funding tension, now with a number on the funding side.
+- Links: [[market-fragility]] (spreads/30Y), [[ai-capex-cycle]] (capex → memory demand), [[bull-bear-ledger]],
+  [[consumption-vs-investment-crux]] ("building on financing that may not pencil").
