@@ -275,3 +275,9 @@ reality checks it can't know about Jake's actual situation:
 - **Verdict (doctrine): PYPL is a headline you READ, not a trade you HAVE.** No edge + jacked IV + binary
   M&A + informed counterparties = pass. If any engagement, it's the FUNDAMENTAL turnaround WATCH (the
   value-screen name at 5-yr lows) on a stock/LEAP horizon — never a deal/SEC options punt. Sizing Jake's.
+- **Correction ~7:55am PT — Jake clarified: the PYPL put was a FADE-THE-+17%-POP idea (not the SEC
+  framing I answered). Better thesis.** Still a pass, refined reasons: (1) IV crush post-M&A-jump
+  (Jake NAMED it himself = the Natenberg/IV-crush lesson landing — checks IV before an event trade now);
+  (2) M&A pops RATCHET not fade (disinterested targets get pushed to the table by shareholders wanting
+  the premium; base rate = stays elevated/higher unless bid withdrawn) → 2 of 3 branches hurt the put;
+  (3) the "disinterest" is ALREADY priced (+17% DESPITE it) = no differential edge on deal odds.
