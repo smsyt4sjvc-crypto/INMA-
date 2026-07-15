@@ -309,3 +309,31 @@ large-caps, then fit a bracket strategy to each stock's natural behavior. Ran th
   (analysis): hold wins total return in this bull; bracket cuts drawdown = a variance trade, not alpha.
 - Links: [[portfolio-state]] (MU trender), [[market-fragility]] (passive bid / Mike Green inelasticity),
   [[concentration]].
+
+### 2026-07-15 ~4:15pm PT — Stage 2 backtest: bracket = variance trade, and it's ~90% a CASH strategy
+Source: `tools/mean_reversion_screener.ipynb` Stage 2, 2y, +2.5%/-2.5% single-lot.
+#### DATA (observed)
+| name | bracket ret | hold ret | bracket-hold | bracket DD | hold DD | round-trips | days in cash |
+|------|-------------|----------|--------------|------------|---------|-------------|--------------|
+| BLK  | +24.2% | +35.2% | **-11.0%** | **-2.5%** | -23.7% | 5 | 472/501 (94%) |
+| MET  | +26.6% | +29.2% | -2.5% | -11.6% | -22.0% | 6 | 443/501 (88%) |
+| NVDA | +69.5% | +68.4% | +1.1% | -21.7% | -36.9% | 12 | 415/501 (83%) |
+#### THESIS (interpretation — NOT fact)
+- *(analysis, robust)* **Bracket ~halves max drawdown every time** — because it's in cash 83-94% of the
+  time (BLK invested only 6%). Real, expected: low exposure = low drawdown. It's a genuine
+  variance-reduction / capital-preservation tool.
+- *(analysis, the catch)* **It's ~90% a CASH strategy, not "trading the stock."** Honest comparison is
+  bracket vs (90% T-bills + 10% stock); model credits idle cash 0%. What it really found: "hold mostly
+  cash + buy big dips in a bull = most of the return, fraction of the pain" — true IN A BULL.
+- *(analysis, why the returns mislead)* (1) sample = coin flips (BLK 5 round-trips/2yr); (2) bull
+  survivorship — every dip RECOVERED; untested vs a dip that doesn't (the MU / NVDA-2022 −65% case,
+  where single-lot rides down and Jake's multi-lot 'add on every dip' MARTINGALES down); (3) no
+  tax/wash-sale/idle-yield drag.
+- *(analysis, verdict)* **Variance trade, NOT alpha.** Give up return (BLK −11pts) for lower DD. MET tie
+  / NVDA +1.1% = path-luck on tiny n in a rising tape, not repeatable edge. Prediction scorecard: "hold
+  wins return + bracket cuts DD" — right on BLK, too-strong (wrong) on MET/NVDA where bracket nearly
+  matched/edged. Conceded.
+- **Untested killer:** none faced a sustained downtrend; the downside protection is unproven exactly
+  where it counts. Next honest test = re-run over a bear/choppy window + credit idle cash a T-bill yield.
+- Links: [[portfolio-state]] (MU downtrend = the untested case), [[consumption-vs-investment-crux]]
+  (cash-heavy = the barbell's dry-powder leg, arguably).
