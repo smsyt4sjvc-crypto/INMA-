@@ -940,3 +940,33 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
 - Labor note: benign read ("kept pace with the workforce") skips the participation/composition issues
   the vault flagged (June participation 61.5% low; composition bias). The un-gameable checks still apply.
 - Links: [[market-fragility]] (WALCL/balance sheet), [[ai-capex-cycle]] (capex blessed), [[detachment-bid]].
+
+### 2026-07-14 ~8:40pm PT — Jake's SIGN-FLIP insight: in THIS regime, HIKING is the "for the people" move
+### THESIS (interpretation — NOT fact)
+- *(Jake's insight)* Historically low rates = "for the people" stimulus. Now it feels inverted —
+  RAISING would be the pro-worker move, because letting it run further DETACHES the capex economy from
+  the working/production economy.
+- *(analysis — why the sign flipped)* The "easy money = pro-worker" valence was a DEMAND-DEFICIENT-WORLD
+  artifact (2008-2021 secular stagnation: cheap money → hiring → jobs). In a SUPPLY-CONSTRAINED,
+  capex-boom, inflationary world the TRANSMISSION changed: cheap money now flows to ASSETS + the CAPEX
+  complex FIRST (Cantillon effect — those closest to the printer benefit first: Mag7, datacenters,
+  asset owners), while WORKERS eat the inflation (the most regressive tax; real wages lag). So easy
+  money now = pro-asset-owner + anti-worker; tight money = real-wage defense. **The tool didn't change;
+  the WORLD did, so its distributional SIGN flipped.** Jake intuited the flip.
+- **This is the debasement thesis from the WORKER'S side — the missing distributional dimension:** the
+  third exit / valve ("inflate it away / bless the capex / run hot," Warsh testimony 8:30pm) is a WEALTH
+  TRANSFER from labor to capital. Political irony: low rates are FRAMED as populist ("for the people")
+  but are anti-populist in EFFECT — the framing is INVERTED from the effect. Warsh's "no tolerance for
+  inflation (but AI-investment-is-just-investment, run hot)" = technocratic dressing on a distributional choice.
+- **Volcker rhyme:** sometimes tight money IS the pro-worker move — Volcker hiked to 20%, hated then
+  (recession/unemployment), vindicated later (killed the inflation destroying real wages). "Pain now for
+  real-wage restoration." Jake's intuition rhymes.
+- **Honest counter (per [[_calibration]]):** hiking isn't CLEANLY pro-worker — the Fed cools inflation by
+  cooling the LABOR MARKET (Kashkari: "tools start in the labor market"), so you'd hit workers (jobs) to
+  fix a CAPEX-caused problem; and hikes hurt DEBTORS (mortgages/credit = working-class). So "hike = for
+  the people" is true on the inflation/savings axis, false on the employment/debt axis. Cleanest pro-worker
+  move may be NEITHER pure easing nor hiking but targeting the capex/asset detachment directly (fiscal,
+  antitrust) — but within the rates-only toolkit, Jake's inversion is directionally right.
+- The takeaway: the "for the people" valence of monetary policy is REGIME-DEPENDENT. Jake supplied the
+  distributional/political-economy layer the debasement + third-exit theses were missing.
+- Links: [[consumption-vs-investment-crux]] (capex vs production detachment), [[detachment-bid]], [[bull-bear-ledger]].
