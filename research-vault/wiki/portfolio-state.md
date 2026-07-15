@@ -276,3 +276,13 @@ hardware** — which is Jake's heaviest sleeve. Implications:
   Tax-neutral-ish. Clean harvest = wait 31 days, but not necessary (basis adjustment handles it).
 - TSMC tomorrow = the big input: strong TSMC + MU reclaim $854 = re-enter confident; weak TSMC + cascade
   = stayed out, dodged the top. Let levels + TSMC decide, not the itch to be back in.
+- **~11:19am PT — WHIPSAW CONFIRMED (partly):** MU stopped at $850 ~9am, then GROUND back to $906.55
+  over ~2hrs (not a 5-min dead-cat — a real 2-hour reclaim to the 50D). Now −7.79% on the day (from
+  Tue close $983.12). **Honest \$ accounting:** stopped/realized −\$520 at $850; had he HELD 4 shares,
+  he'd be −\$294 unrealized now ((980−906.55)×4). **The stop cost ~\$226 vs holding** = the "size not
+  stops" tuition in dollars. The un-stoppable-MU lesson fully rendered: stopped on NOISE (not a cascade),
+  bounced back without him, now at the decision level.
+- **BUT the re-entry trigger is LIVE and he's flat:** $906.55 ≈ 50D $907 = the trend-repair level. Plan:
+  reclaim + HOLD above $907 (ideally close above + TSMC tomorrow confirming) = re-enter below the $980
+  original. Discipline guard: do NOT revenge-chase the intraday spike (mirror of the $980 chase) — a bounce
+  still −7.79% on the day ≠ a confirmed reclaim. Let it PROVE the hold; TSMC is the fundamental tiebreaker.
