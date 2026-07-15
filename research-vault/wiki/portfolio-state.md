@@ -233,3 +233,17 @@ hardware** — which is Jake's heaviest sleeve. Implications:
 - Doctrine notes attached: dated catalyst → short-dated = the expiry-matching rule executed; the
   entry chased a partial repricing (0.66% → 0.87% — the morning discount mostly closed before
   fill; logged honestly); max loss $654, sized inside the can-watch-it-go-to-zero line.
+
+## 2026-07-15 ~7:55am PT — SPY Jul-15 750 straddle: OUTCOME (Jake's marks)
+- Call 750C ($3.03/$303 in) → UP ~$150 (~+50%, ~$453) as SPY drifted up (~754, +0.7% from 748.79).
+  Put 750P ($3.51/$351 in) → −90% (~$35 left, OTM + IV-crushed). Net ~−$166 = **−25%** on the $654.
+- *(grade)* The event-vol/magnitude bet LOST the magnitude (SPY moved, not enough to clear ~756.5
+  breakeven — the narrow tape we flagged). But the DIRECTIONAL drift up let the call's DELTA offset
+  most of the put crush → −25% not −100%. Lesson realized viscerally: straddle = bet on SIZE; got
+  direction (up) not size; the call leg saved it, NOT the "both ways" premise. Cheap tuition for
+  FELT IV crush + magnitude + expiration mechanics.
+- **EXPIRATION DAY (7/15):** the put ($35) is dead time-value → $0 by close; the straddle is now
+  effectively a naked long call on SPY's close. Pre-committed rule: "Wed out by ~10am PT regardless."
+  Discipline = close BOTH legs this AM (bank the call's +$150, scrape the put's last $35), realize
+  −25%. The trap = holding the recovering call into the close = a fresh unplanned naked-call gamble.
+  (Not writing a close until Jake confirms he closed — standing rule; this logs the mark + the rule.)
