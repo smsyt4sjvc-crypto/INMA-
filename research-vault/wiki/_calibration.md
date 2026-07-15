@@ -275,3 +275,19 @@ stress (business ramping, recovery) — handle by pricing the menu, not by lectu
   (overwriting/neutral). Scanner finds ACTIVITY, not CONVICTION → investigate-candidates, never signals.
   Real flow (FlowAlgo/Unusual Whales) infers direction; yfinance can't. Stage 2 = first-pass filter only.
 - MU (Jake's position): 47 fresh, C/P 1.0 (balanced), −2% = two-way positioning on the dip, no clean signal.
+
+## 2026-07-15 ~8:05am PT — MU $885 (−9.7% from $980 entry): the decision point, plan-consistent
+- MU $885: broke 50D ($907), ~$31 above the $854 swing-low/air-pocket edge; catastrophe brake ~$768
+  still 13% below. −9.7% from entry = ~1-ATR day (9.3% ATR) = bad-but-NORMAL for MU, not a catastrophe.
+- Driver: China GLUT (CXMT + Huawei, Jake's own 7/14 flag) hitting memory sentiment + broke-50D
+  technical selling. MEDIUM-term supply negative priced today; near-term runway (shortage/HBM) NOT
+  broken — no falsifier (TSMC not reported, lead-times intact). = noise + medium-term headwind, NOT
+  a thesis-break exit trigger.
+- **$854 = the line** (risk changes character: above = range pullback; decisive break = fast-fall to
+  $652 air pocket). Decide the line NOW, act mechanically there — not emotionally at $885.
+- Plan-consistent: un-stoppable name → can't tight-stop (whipsaw) → risk control = SIZE + wide
+  catastrophe brake (~$768), NOT a stop here. Selling at $885 on the "everything I buy drops" feeling
+  = capitulating on a normal MU down day (the trap flagged 20min earlier, live). The real question =
+  SIZE: is MU small enough that −10% (and a routine −20-30%) is annoying not damaging? If yes, hold
+  runway + $854 as decision level. If −10% hurts too much = a SIZING signal (trim to survivable), NOT
+  a panic-dump-the-low. Pending: MU's % of account + whether he added. (No position change logged until confirmed.)
