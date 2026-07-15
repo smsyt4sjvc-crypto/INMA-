@@ -281,3 +281,34 @@ DATA: `raw/2026-07-12-semianalysis-dc-cancellation-debunk.md` (SemiAnalysis 6/18
   first-mover (cuts both ways for the short report thesis). Herd-before-the-law = detachment-bid
   texture. CLARITY Act text this week joins an already stacked calendar. PARKED for deeper work
   on Jake's word.
+
+### 2026-07-14 ~10:25pm PT — the POWER + PERMITTING + PUBLIC-BACKLASH ceiling crystallizes (ZH cluster)
+### DATA (observed) — ZH feed, evening
+- **PJM (largest US grid) failed to secure 7GW** for stability into 2028; already BELOW critical
+  reliability threshold; 2027 facing "catastrophic shortage + brownouts." Price CAP masking scarcity:
+  market-clearing PJM power would be **70% higher ($554.72 vs $325)** without the ceiling.
+- **$156B of datacenter projects cancelled/delayed in 2025; $130B in 1Q26** — community pushback +
+  moratoriums accelerating. State-level AI-DC moratorium bills proposed. Australia (Albanese) to
+  regulate DC water/power + copyright.
+- **"For the first time a MAJORITY of Americans prefer to STOP building data centers"** (Morgan
+  Stanley / Morning Consult). ZH color: "Eastern seaboard will look like North Korea at night."
+- Contrast: "China has all the energy/quantum/pipeline it needs to power [its cheap LLMs]."
+### THESIS (interpretation — NOT fact)
+- **The buildout is hitting a HARD physical + political ceiling simultaneously:** the grid literally
+  can't supply it (PJM 7GW short, price cap hiding 70% real scarcity), AND the public/political system
+  is now BLOCKING it (moratoriums, majority-want-to-stop, $286B cancelled/delayed 2025+1Q26). This is
+  the bottleneck thesis going from "watch item" to "biting NOW."
+- **Cancellation reconciliation (vs the 7/12 SemiAnalysis debunk):** cancellations/delays ARE real and
+  RISING ($156B→$130B/quarter pace = accelerating) — the constraints bite — WITHOUT endorsing the
+  debunked "half of 2026 capacity" framing. Real trend, right magnitude, wrong earlier headline. The
+  phantom-pipeline/measurement-humility thread confirmed: the pipeline IS shrinking, just not by "half."
+- **The two-sided read (per warning-vs-trigger):** the power crisis is a real EVENT that is BULLISH for
+  the scarce-input owners (power/grid/merchant-IPP + memory — "buy the bottleneck," price cap lifting =
+  merchant-power upside) AND a potential CAP on the buildout (if new builds stall on power/permitting,
+  the SPENDERS derate + medium-term memory demand softens). Scarce inputs WIN; spenders/financing LOSE.
+- **Public backlash = Jake's distributional insight (8:40pm) getting POLITICAL TEETH:** the public sees
+  datacenters taking their power/water/rates without benefit — the capex economy detached from the
+  working economy, now legislated against. [[consumption-vs-investment-crux]].
+- **China contrast = a real competitive asymmetry:** China builds power freely (state-directed); US is
+  grid/permit/NIMBY-constrained. If AI is power-bound, China's power advantage > US's chip advantage over time.
+- Links: [[power-scarcity-equities]] (PJM→power names), [[ai-financing-fragility]] (funding, below), [[new-economy-regime]].
