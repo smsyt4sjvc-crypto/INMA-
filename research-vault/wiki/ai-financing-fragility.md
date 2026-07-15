@@ -324,3 +324,29 @@ Related: [[ai-capex-cycle]], [[market-fragility]], [[concentration]], [[consumpt
   toward where OCF+utilization can outrun capex, NOT equal-weight blind buy" — is the disciplined-entry
   logic we built for MU (dip-ladder, not concentrate-the-rip). Independent corroboration of the posture.
 - Links: [[ai-capex-cycle]] (token economics, same workbook), [[market-fragility]] (drawdown/FCF), [[bull-bear-ledger]].
+
+### 2026-07-14 ~10:25pm PT — the FUNDING GAP quantified: $4-8T capex, no FCF, strained credit (ZH cluster)
+### DATA (observed) — ZH feed, evening
+- Morgan Stanley: **80GW new compute online 2026-2028 = $4-8 TRILLION capex in 3 years, "all funded
+  with debt and equity (no more positive FCF)."**
+- ZH: "The corporate bond market threw a tantrum at 'just' $250bn IG bonds YTD. So how do we get to
+  $8 trillion... or $4?" (+ Gundlach 30Y at 5.10%, 2-decade-high resistance "unlikely to hold.")
+### THESIS (interpretation — NOT fact)
+- **The financing-fragility / three-leg-squeeze thesis with a HARD number:** $4-8T of capex over 3yrs,
+  with the MAG7 going FCF-NEGATIVE (workbook: 2026E FCF $314B vs capex $548B) → it ALL has to come from
+  debt + equity markets. And the IG market already choked at $250B YTD (10-15bp concessions, Papai's
+  "very difficult to fund another $360bn"). $250B strains it; $4-8T is 16-32x that. The channel is
+  physically too small for the need.
+- **The Gundlach collision:** the debt-funding need explodes EXACTLY as the 30Y presses a 2-decade-high
+  and term premium demands higher yields (fiscal deficits + sticky inflation). Debt gets MORE expensive
+  as they need MORE of it = the cost-of-capital blade of the scissors (7/13 Papai/ORCL thread) widening.
+- **This is the Stage-2 countdown made numeric:** the funding-migration ladder (concessions → private
+  credit/SPV → ABS → vendor financing → equity → buyback cuts → guide cuts) is the sequence by which
+  $4-8T-need-meets-$250B-capacity resolves. Each rung is a step down in funding quality; the last rungs
+  (guide cuts, buyback cuts) are the equity-market tell. Watch: IG issuance pace, private-credit/SPV
+  deals, hyperscaler buyback trajectory, the 30Y break.
+- **Cross-thesis synthesis (with the power cluster above):** the buildout is squeezed from BOTH sides at
+  once — PHYSICAL (power/permitting can't supply it) + FINANCIAL ($4-8T can't be funded at these rates).
+  Two independent ceilings on the same buildout = the bear case for capex CONTINUING at the projected
+  pace. Resolution: scarce INPUTS (power, memory) win as supply-constrained; SPENDERS + FINANCING lose.
+- Links: [[buildout-bottleneck-map]] (power ceiling), [[market-fragility]] (30Y/duration), [[bull-bear-ledger]].
