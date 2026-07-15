@@ -907,3 +907,36 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   bigger force. If the 30Y breaks the 2-decade high, that's a TRIGGER (a real event) — reprices duration,
   pressures equity multiples, and is the "valve jammed" signal (can't ease into a bond revolt).
 - Links: [[market-fragility]] (duration/multiple), [[bull-bear-ledger]].
+
+### 2026-07-14 ~8:30pm PT — Warsh FULL testimony (primary source): the third-exit machinery, stated
+### DATA (observed) — raw/2026-07-14-warsh-house-testimony-full.md (federalreserve.gov)
+- Rates HELD 3.50–3.75% (June). "No tolerance for persistently ELEVATED inflation" (the exact hedge
+  phrase — confirms Jake's "persistently" catch: 3.5% YoY IS elevated, but "persistently" lets him
+  weigh trajectory).
+- "AI investment will soon be called just 'investment.'" Equipment capex +8% (4q), high-tech +25% (4q).
+- Two task forces NAMED: (1) balance-sheet policy (ample-reserves regime + asset composition +
+  "alternatives"); (2) productivity & jobs — "changes of a DIFFERENT ORDER... implications for the
+  Fed... in pursuit of our inflation mandate." Productivity "strong, predating AI." Labor "broadly stable."
+- Framing: "courage to revisit our prior views," "fresh look," "point the institution forward."
+### THESIS (interpretation — NOT fact) — the vault's Warsh theses, now strongly supported by his own words
+- **THIRD EXIT / yardstick redefinition — explicit machinery:** the productivity-&-jobs task force
+  ("changes of a different order" + "implications for the inflation MANDATE") is the intellectual
+  vehicle to reframe inflation via AI productivity — if productivity is structurally higher, the same
+  growth is non-inflationary and above-target inflation becomes "productivity-adjusted fine." "Courage
+  to revisit prior views" + "fresh look" = reform intent, not stewardship. This is the third exit in
+  soft language.
+- **VALVE / runway — confirmed:** "AI investment will soon be called just investment" = the chair
+  BLESSING the capex boom, refusing to lean against it. Directly contradicts the staff-hawk framing
+  (7/12: "DC capex = restrainable inflation, you don't look through"). The CHAIR came down on
+  "it's productive investment" = dovish-for-capex = the melt-up runway has Fed cover.
+- **TWO-HANDED policy — confirmed:** hawkish MOUTH ("no tolerance," "we will get it right," "restore
+  price stability") + dovish FRAMEWORK (bless capex, productivity task force to justify running hot,
+  balance-sheet review that can re-expand). Credibility layer over reform substance.
+- **Steelman (per [[_calibration]] — argue the under-weighted side):** a HAWK reading is available —
+  "no tolerance / resolute commitment / restore price stability" could be sincere, and the task forces
+  genuine institutional review, not a redefinition scheme. The text is Rorschach-ish. The TELL is
+  actions, not remarks: does he HOLD/EASE while blessing capex (third exit) or actually HIKE (sincere
+  hawk)? June = hold. Watch the next moves + whether the task forces produce a framework revision.
+- Labor note: benign read ("kept pace with the workforce") skips the participation/composition issues
+  the vault flagged (June participation 61.5% low; composition bias). The un-gameable checks still apply.
+- Links: [[market-fragility]] (WALCL/balance sheet), [[ai-capex-cycle]] (capex blessed), [[detachment-bid]].
