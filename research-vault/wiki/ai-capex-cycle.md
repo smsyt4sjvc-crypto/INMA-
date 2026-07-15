@@ -1559,3 +1559,35 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   validates the fab build). So the IPO + Apple qualification together = the 2028-glut leg gets both
   funding AND a whale sponsor (Burry's short thesis strengthened), and big-3 pricing power (incl. MU)
   erodes from the BUYER side. Still: commodity DRAM not HBM, years to ramp → near-term MU runway intact.
+
+### 2026-07-14 ~11:25pm PT — China Huawei/SwaySure DRAM complex: the GLUT supply-wave, coordinated (Jake: "Glut")
+### DATA (observed) — media/supply-chain report, evening
+- China govt + state-run Huawei + state-invested SwaySure building a Shenzhen DRAM complex: **140,000
+  wafers/month (12-inch), 28nm DRAM.** CEO = ex-TSMC fab director Steve Liu; head strategist = former
+  president of Elpida (Japan's DRAM maker, BOUGHT BY MICRON). SwaySure = a "shadow fab" for Huawei;
+  so are Pengxinwei (PXW) + Pengxinxu (PXX) (both "massive fab building" now). SiCarrier = Huawei's main
+  fab partner.
+### THESIS (interpretation — NOT fact)
+- **This + CXMT ($10B IPO tonight) = a COORDINATED China NATIONAL DRAM buildout**, not one competitor.
+  140k wpm is a WORLD-SCALE fab (a large DRAM fab ~ 100-150k wpm). Plus the shadow-fab network (PXW/PXX)
+  = the real China DRAM capacity is BIGGER than the "official" CXMT numbers. This is the supply-wave
+  feeding the 2028-29 glut — China now the NAMED, coordinated, accelerating source (adds to the five-way
+  convergence: MU CEO / UBS / Burry / Samsung Yongin / vault math).
+- **Same nuance as CXMT, load-bearing: 28nm = LEGACY/COMMODITY DRAM, NOT HBM or leading-edge.** Threatens
+  the LOW end (DDR4/older DDR5, industrial/consumer/auto — the exact Advantech/DigiKey shortage segment),
+  leaves the HBM AI moat (MU/Hynix/Samsung leading-edge) intact FOR NOW. So it bifurcates: commodity DRAM
+  glut (China) vs HBM shortage (big-3). Caps the COMMODITY-DRAM leg of MU's pricing power first; a chunk
+  of MU revenue is commodity DRAM → that leg erodes as this ramps.
+- **The talent poaching is the credibility tell:** ex-TSMC fab director + ex-ELPIDA president (Elpida =
+  Micron's own acquired DRAM operation) → China hired the people who KNOW how to ramp DRAM yield. This
+  makes the buildout credible and SHORTENS the yield-ramp timeline vs a from-scratch effort. Still years,
+  but faster than "years away" implied. Watch: node progression — if China moves UP from 28nm toward
+  leading-edge/HBM, THAT's the real threat to MU's AI moat.
+- **The shadow-fab structure = export-control EVASION + hidden capacity:** Huawei (Entity List) building
+  sanctioned DRAM capacity through nominally-independent "niche" cutouts (SwaySure/PXW/PXX) + SiCarrier.
+  US export controls being routed around; the geopolitical/quantum-China-has-the-power thread.
+- **For Jake's MU trade:** near-term runway INTACT (28nm commodity + years to ramp + wrong segment for the
+  HBM shortage). Medium-term: a BIGGER glut signal than CXMT alone — strengthens the 2028-29 glut /
+  Burry-terminal-value short. The commodity-DRAM leg erodes FIRST. Memory-top watch list now: China node
+  progression + capacity ramp (this + CXMT + shadow fabs), inventory rising, lead-times collapsing, insiders.
+- Links: [[buildout-bottleneck-map]] (export-control collision), [[market-fragility]], [[_calibration]] (MU trade).
