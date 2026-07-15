@@ -938,3 +938,28 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   slow, but now official US strategy. (Protection→tribute→bypass arc, per the earlier toll economics.)
 - Kuwait/Bahrain confirmed struck (Shahed impacts) = the GCC second front is real, not just threatened.
 - Links: [[new-economy-regime]] (oil-into-CPI), [[market-fragility]].
+
+### 2026-07-14 ~8:25pm PT — China DEMAND collapse caps the war premium + JPM reframes oil (refining/Russia)
+### DATA (observed) — ZH feed, evening
+- **China June apparent oil demand −19.4% Y/Y.** China Jan-June fixed-asset investment **−5.7% Y/Y
+  (est −5%)** — worse than expected, and CONTRACTING.
+- **JPM: "The big question is no longer about Hormuz and oil — it's all about REFINING and RUSSIA."**
+- US completed an additional round of strikes; Trump Situation Room mtg discussed WIDER SCOPE (Axios);
+  IRGC reasserts the export blockade ("its pirates have blocked the route"). China mass-producing
+  dual-use drone engines (proliferation).
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **THE synthesis that resolves "why hasn't oil exploded despite the war":** China demand
+  is COLLAPSING (−19.4% apparent demand) — the largest importer's demand-destruction is the counterweight
+  CAPPING crude against the war supply-premium. Supply-risk UP (blockade, strikes, IRGC threat) vs
+  demand DOWN (China −19.4%) fighting to a draw = why Brent holds the $79-85 band instead of spiking.
+  The war premium is real but DEMAND is offsetting it barrel-for-barrel. (Extends the earlier China
+  imports −4.9M b/d datapoint, [[market-fragility]].)
+- **China −5.7% fixed investment = a hard-landing/global-slowdown signal** — the investment engine
+  contracting feeds the recession/demand-destruction side ([[consumption-vs-investment-crux]],
+  [[bull-bear-ledger]] bear column). Bearish global growth + commodities demand.
+- **JPM's refining+Russia reframe = the oil thesis pivots from CRUDE (Hormuz) to PRODUCTS + Russian
+  barrels.** The real risk is now REFINING capacity (Abadan-class product disruption → diesel/gasoline
+  cracks) + Russian supply (sanctions stacking). Watch CRACK SPREADS (refining margins) and Russian
+  export data, NOT just Brent. Ties Hassett "gas to $3" (a PRODUCTS/pump claim) to the refining lens —
+  if refining is the squeeze, gas deflation gets harder even with crude capped.
+- Links: [[new-economy-regime]] (oil-into-CPI, Hassett), [[consumption-vs-investment-crux]], [[market-fragility]].
