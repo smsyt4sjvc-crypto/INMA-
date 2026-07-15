@@ -239,3 +239,15 @@ is the load-bearing bridge. Expect the survivor table empty most weeks; the reje
   The pasted tweet is PREDICTION-AS-CERTAINTY ("will compel... will mandate") about a speech
   he hasn't seen — tier 2/3 content in repost form. Gradeable Thursday alongside the
   Daugherty claim (both now on the calibration ledger).
+
+## 2026-07-15 ~7:20am PT — rotation + unusual-options scanner (built)
+- Two-stage tool (Jake's design): (1) SECTOR rotation via sector-ETF relative volume + direction;
+  (2) unusual OPTIONS positioning in tickers that HAVEN'T moved yet (= someone building ahead of price,
+  the systematic PYPL-call-surge pattern). The mechanical-flow / two-population edge in code.
+- **Honest limits (stated to Jake):** yfinance options data is DELAYED (~15m) + often stale/zero →
+  CANDIDATE GENERATOR, not a trade signal. "Unusual" options = volume>OI proxy (fresh positioning), NOT
+  vs a true historical avg (no baseline in free data). Can't tell informed flow from hedging/spreads.
+  Intraday equity RVOL is understated (partial day) → projected by fraction-of-day-elapsed. Rank-wise
+  comparative reads > absolute. Generates names to VERIFY, per doctrine.
+- Read: healthcare-leading = classically DEFENSIVE (risk-off) — tests Jake's "back to AI" hypothesis
+  (which would need tech/semis leading). Scanner settles rotation direction.
