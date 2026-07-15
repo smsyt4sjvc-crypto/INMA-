@@ -258,3 +258,20 @@ reality checks it can't know about Jake's actual situation:
 - **What to actually take:** the SEQUENCE (memory/infra → hyperscalers after FCF bottom → apps) + the
   DISCIPLINE (tranche, preserve cash, watch capex/OCF & token-volume/price, the sell triggers), implemented
   in 3-5 survivably-sized names. Not 13 names + a 40% drawdown. Links [[ai-capex-cycle]], [[_calibration]], [[bull-bear-ledger]].
+
+## 2026-07-15 ~7:15am PT — "PYPL put if the SEC news hits?" — the wrong-catalyst trap
+- Jake's Q: buy a PYPL put to profit if the SEC acts on the insider-trading (pre-news call surge).
+- **The mechanical error: SEC insider-trading enforcement does NOT move PYPL stock.** It targets the
+  TRADERS who front-ran the leak, not the COMPANY. PayPal isn't in trouble; some traders are. So "put
+  when the SEC news hits" pays ~nothing — wrong catalyst, no price effect on the underlying.
+- **What ACTUALLY moves PYPL = the DEAL outcome:** deal happens (Stripe/Advent $53B) → stock UP toward
+  the bid (put LOSES); deal DIES (PYPL "disinterested") → stock gives back the M&A pop (put could win).
+  So the only coherent put thesis is "the DEAL falls through," NOT "the SEC acts."
+- **But even the deal-dies put fails Jake's own doctrine:** (1) IV is JACKED post-news (M&A = expensive
+  premium = IV crush on resolution — the straddle lesson); (2) M&A outcome = a binary COIN-FLIP he has
+  ZERO edge on (arb desks price deal-probability far better); (3) SURPRISE RULE — he's reading the same
+  headline as everyone, no differential info; (4) the insider flag means INFORMED traders are ALREADY
+  positioned → he'd be the uninformed counterparty to a marked deck (two-population model: the worst side).
+- **Verdict (doctrine): PYPL is a headline you READ, not a trade you HAVE.** No edge + jacked IV + binary
+  M&A + informed counterparties = pass. If any engagement, it's the FUNDAMENTAL turnaround WATCH (the
+  value-screen name at 5-yr lows) on a stock/LEAP horizon — never a deal/SEC options punt. Sizing Jake's.
