@@ -1002,3 +1002,34 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
 - Net: runway extended (near-term dovish confirmed), fuse unchanged (energy reverses; services margins the
   sticky tell; the memory cost-push still ahead). Watch the NEXT prints once July oil hits.
 - Links: [[demand-destruction]] (oil/gasoline), [[ai-capex-cycle]] (cost-push lag).
+
+### 2026-07-15 — Beige Book (July): the margin-vs-price tell RESOLVES "margins, not prices — so far"
+Source: July 2026 Beige Book (`raw/2026-07-15-beige-book-july.md`; Layer-1 official, data through July 6).
+This is the qualitative cross-check I flagged the July book would settle: has AI/input cost-push landed in
+CPI, or in margins?
+#### DATA (observed)
+- Prices up **moderately: 9 Districts moderate, 2 robust, 1 slight; vs prior period price growth was
+  "the same or slower in ALL Districts"** → NOT accelerating.
+- **"A couple of Districts reported that selling prices grew less than input costs over the period,
+  crimping margins."** Pass-through explicitly MIXED, firm-by-firm (Cleveland: some pass all, some part,
+  some none "for fear of losing customers").
+- **Richmond (numbers):** service price growth **<3.5% YoY**; service non-labor input costs **>5.5%**;
+  manufacturing input costs **~7%** but "prices received by manufacturers remained relatively the same."
+- **Kansas City:** "Inflationary pressures continued to compress profit margins."
+- Dominant cost driver named = the Middle East conflict (fuel/freight/petrochem/fertilizer) + tariffs.
+- ⚠️ The book's *price-relief* optimism (Dallas "agreement to reopen Strait of Hormuz → gasoline falling";
+  Chicago "blockages eased") is a **July-6 snapshot of a truce that has since REVERSED** (Jake's 7/12–13
+  feeds: blockade reinstated, Brent ~$85). Treat the "falling fuel" expectation as stale by ~a week.
+#### THESIS (interpretation — NOT fact)
+- *(analysis)* **The tell resolved: cost-push is showing up as a MARGIN squeeze, not (yet) as consumer
+  pass-through.** Input 5.5–7% vs selling <3.5% (Richmond); manufacturers eating ~3+ points. Warsh's
+  "persistently elevated" is real in INPUT costs but the bottom-half consumer is too price-sensitive to
+  pass it to — so it lands in margins, not CPI. **This is dovish for the July-29 CPI-vs-margin read but
+  BEARISH for margins** (the [[ai-financing-fragility]] / earnings side).
+- *(analysis)* Consistent with the same-story CPI/PPI reads above: soft headline (energy, now reversing),
+  firm underlying (services margins / input costs). The memory cost-push ([[ai-capex-cycle]], Ericsson
+  2027-lag) is still AHEAD of the goods PPI — and the Beige Book already shows memory-component inflation
+  at the contact level (NY). **Watch the flip:** if firms stop eating it and start passing → CPI channel
+  opens. The Beige Book is where that flip shows up first.
+- Links: [[consumption-vs-investment-crux]] (capex-driven economy), [[ai-financing-fragility]] (margin
+  squeeze = earnings risk), [[demand-destruction]] (Hormuz reversal), [[ai-capex-cycle]] (memory cost-push).

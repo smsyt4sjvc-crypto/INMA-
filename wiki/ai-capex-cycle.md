@@ -1609,3 +1609,39 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   = mgmt thinks the turnaround is worth more (or price too low). The pre-news call surge = textbook insider
   pattern. Not a Jake position; logged as a screened-name catalyst + a live insider-trading example for [[retail-edge]].
 - Links: [[cluster-shortlist-workup]] (PYPL screen), [[ai-financing-fragility]] (ASML-vs-credit tension), [[buildout-bottleneck-map]].
+
+### 2026-07-15 — Beige Book (July): the capex boom is in the REAL economy, and it's the whole beam
+Source: July 2026 Beige Book (`raw/2026-07-15-beige-book-july.md`; Layer-1 official, data through July 6).
+#### DATA (observed)
+- National: manufacturing "led by stronger orders from the **data center, machinery, and defense**
+  sectors"; construction growth concentrated in "**data center building.**"
+- **Philadelphia:** strength in "data centers, AI, and defense-related manufacturing" → a contact:
+  "it is now a **capital expenditure-driven economy rather than a consumer-driven one.**" Nonresidential
+  construction "continued by firms in the data center and related manufacturing spaces but little new
+  activity elsewhere." Electrician shortage "has delayed data center projects."
+- **Minneapolis:** *"If you are not directly involved in data center work, the broader construction
+  market feels relatively weak."*
+- **Cleveland / Chicago:** data-center development driving demand for metal products + electrical
+  components; construction "robust in the data center and electricity generation segments"; machinery
+  "to defense and data center builders"; "shortages of inputs, notably for electrical components."
+- **Atlanta:** "accelerated build-out of infrastructure for emerging AI technologies" → supply
+  constraints + higher prices for "steel, transformers, and other machinery"; "industrial energy demand
+  remained strong, largely because of accelerating investments in AI-related infrastructure."
+- **NY (memory inflation, ground level):** "an upstate NY technical consulting firm reported **sharp
+  price increases for memory and storage components driven by elevated demand from data center
+  buildouts.**" Also CRE "robust among AI-related firms seeking space."
+- **Dallas (the ceiling):** "data center capacity demand has increased, but **new projects are being
+  hindered by limited access to energy, supply chain disruptions, and public pushback.**"
+#### THESIS (interpretation — NOT fact)
+- *(analysis)* The capex cycle isn't just an index story — it's **the load-bearing beam of GDP right
+  now** (manufacturing orders, construction, energy demand, skilled-labor hiring all lean on it), while
+  everything not attached to it (Minneapolis) is weak. Concentration in the market = concentration in the
+  real economy ([[concentration]], [[market-fragility]], and the [[consumption-vs-investment-crux]] update).
+- *(analysis)* **Memory-shortage read CONFIRMED at contact level** (NY) — the DRAM/HBM inflation the vault
+  has tracked (Ericsson, SK Hynix, MU) is real enough to surface in a Fed survey. Near-term bullish for
+  the memory complex; also the top-forming mechanism (cost-push that eventually breaks margins downstream).
+- *(analysis)* **Power/permitting ceiling in the Fed's words** (Dallas "limited access to energy… public
+  pushback"; Philly electricians; Atlanta transformers) = [[power-not-petroleum]] / [[buildout-bottleneck-map]]
+  validated. The physical governor on the boom is real and already biting specific projects.
+- Links: [[consumption-vs-investment-crux]], [[power-not-petroleum]], [[buildout-bottleneck-map]],
+  [[concentration]], [[ai-financing-fragility]], [[new-economy-regime]] (memory cost-push → CPI).

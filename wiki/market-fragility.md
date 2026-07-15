@@ -430,3 +430,29 @@ into one 0–100 fragility number + trigger panel.
   CONDITION (fewer names carrying the index) — a warning that can persist for years, NOT a dated top
   (per the warning-vs-trigger rule). The rip Jake's riding is a SEMIS rip, not a broad advance.
 - Links: [[new-economy-regime]] (narrow rip), [[bull-bear-ledger]], [[retail-edge]] (index vs single-name vol).
+
+### 2026-07-15 — Beige Book (July): narrow breadth is now visible in GDP, credit crack in the weakest first
+Source: July 2026 Beige Book (`raw/2026-07-15-beige-book-july.md`; Layer-1 official, data through July 6).
+#### DATA (observed)
+- **Concentration in the real economy:** Minneapolis — *"If you are not directly involved in data center
+  work, the broader construction market feels relatively weak."* National manufacturing/construction
+  growth concentrated in data-center/AI/defense; Philly — "capex-driven economy, not consumer-driven."
+- **Credit crack in the weakest borrower first:** National — "Commercial loan quality was **stable**, but
+  **consumer loan quality ticked down.**" St. Louis — "loans to households with weaker credit continued to
+  deteriorate." Delinquency upticks in residential mortgages (NY), consumer mortgages (Richmond), auto (KC).
+- **CRE refinancing-stress tell (KC):** "most transactions involved owners **contributing additional
+  capital or accepting a smaller ownership share**"; new-development credit "modestly harder to access,
+  particularly multifamily"; floating-rate usage "stalled." SF: "increased level of substandard loans."
+- Corporate/business credit largely STABLE — stress is consumer + CRE, not yet corporate.
+#### THESIS (interpretation — NOT fact)
+- *(analysis)* The narrow-breadth STATE (per WARNING-vs-TRIGGER rule — a condition, not a timer) is no
+  longer just an index phenomenon: the same handful of AI names carrying the S&P are carrying physical
+  construction and manufacturing orders. That RAISES the stakes of a capex-financing break — the beam under
+  the index is the beam under GDP ([[consumption-vs-investment-crux]], [[ai-financing-fragility]]) — without
+  timing it.
+- *(analysis)* Credit deterioration is following the textbook order — **weakest borrower first**
+  (consumer sub-prime, then CRE), corporate last. Not a trigger yet; a WARNING gauge to watch escalate.
+  The KC "owners injecting equity to close CRE deals" detail is a quiet distress signal under a "stable"
+  headline.
+- Links: [[consumption-vs-investment-crux]], [[ai-financing-fragility]], [[concentration]],
+  [[new-economy-regime]], [[bull-bear-ledger]].

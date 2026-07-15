@@ -74,3 +74,25 @@ a society that's hollowing. Size accordingly.
   texture: lottery-ticket behavior is what priced-out cohorts substitute for compounding
   ([[trade-down-landing-pads]], [[detachment-bid]] adjacent). Also a quiet input to the "retail arrives
   last" layer of the distribution chain.
+
+## 2026-07-15 — the Fed's own contact said it: "a capex-driven economy, not a consumer-driven one"
+Source: July 2026 Beige Book (`raw/2026-07-15-beige-book-july.md`; data through July 6, Chicago Fed).
+- **DATA:** A Philadelphia manufacturing contact, on strength in data centers / AI / defense-related
+  manufacturing: *"they believe it is now a **capital expenditure-driven economy rather than a
+  consumer-driven one.**"* The whole book corroborates the shape — manufacturing orders "led by the
+  data center, machinery, and defense sectors"; construction growth concentrated in data-center building;
+  Minneapolis: *"If you are not directly involved in data center work, the broader construction market
+  feels relatively weak."* Meanwhile consumer spending only "edged up," bottom-half stress rising (food
+  banks past financial-crisis + pandemic levels in Dallas; St. Louis meal demand +30% in 2 months;
+  half of KC new auto loans in negative equity).
+- **THESIS (analysis):** This is the crux's two-axis split rendered in the Fed's qualitative survey:
+  **BUILD on the aggregate/investment axis** (real capex is the load-bearing beam of GDP right now) +
+  **DRINK/hollow on the distribution axis** (the consumer, esp. the bottom half, is fraying). No
+  contradiction — exactly the decoupling this note is built on. The economy is being held up by
+  investment while the median household weakens.
+- **The caveat that keeps it from being a clean "build" win:** the capex holding everything up is
+  debt/equity-financed and FCF-negative at the hyperscaler level ([[ai-financing-fragility]]:
+  2026E capex $548B vs FCF $314B). So the honest read is **"building — on financing that may not
+  pencil."** If that financing chain breaks (the TRIGGER, per the WARNING-vs-TRIGGER rule), the beam
+  holding up GDP is the same beam holding up the index. Concentration in the market IS concentration in
+  the real economy now — [[concentration]], [[market-fragility]].
