@@ -1549,3 +1549,13 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   toward HBM, or its capacity ramps faster than modeled, that's the supply signal that ends the cycle.
   Add to the memory-top watch list (alongside: inventory rising, lead-times collapsing, insiders selling).
 - Links: [[bull-bear-ledger]] (issuance flood), [[_calibration]] (MU trade).
+- **Addendum ~7:05pm PT — Jake: "wasn't CXMT tied to TSMC or SK?" — vault check: NO, it was APPLE.**
+  Logged 7/8 (FT via ZH): "Apple interest thrusts China's CXMT into memory chip spotlight" — Apple
+  qualifying/sourcing DRAM from CXMT = the "watch Cupertino not Redmond" whale-repricing move ("fund
+  the cartel's future competitor"). NOT TSMC (logic foundry, doesn't make DRAM) and NOT SK Hynix (a
+  big-3 INCUMBENT that CXMT THREATENS — they'd be competitors, not partners). Jake's recall crossed wires.
+- **Why the Apple link matters for today's $10B IPO:** Apple as an ANCHOR CUSTOMER de-risks CXMT's
+  capacity ramp → makes the $10B-funded supply threat more CREDIBLE medium-term (a marquee buyer
+  validates the fab build). So the IPO + Apple qualification together = the 2028-glut leg gets both
+  funding AND a whale sponsor (Burry's short thesis strengthened), and big-3 pricing power (incl. MU)
+  erodes from the BUYER side. Still: commodity DRAM not HBM, years to ramp → near-term MU runway intact.
