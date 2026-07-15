@@ -314,3 +314,25 @@ Source: Jake's 1-min chart screenshot (Jun-3 → Jul, `MU $901.42 −$81.70`; pr
   + closes below → both methods say ~$650 → stay out. Wash-sale rule keeps him patient either way.
 - Links: [[ai-capex-cycle]] (TSMC/memory), [[_calibration]] (post-whipsaw bear tilt), [[retail-edge]]
   (pattern-on-noise timeframe caution).
+
+### 2026-07-15 ~12:05pm PT — addendum: 4h Bollinger = first change-of-character of the whole cycle
+Source: Jake's 4h Bollinger-Band chart, Apr→Jul (`MU $906.66 −7.78%`; V 16.75M).
+#### DATA (observed)
+- Full cycle: ~$300 (Apr) → ~$1254 (late-Jun E) = **~4x in ~3 months.** Entire up-leg rode the UPPER
+  Bollinger band, pulled back to the MIDDLE band (red ~20-period), bounced — every dip held the middle.
+- **Current decline is the FIRST of the cycle to: (a) close below the middle band, (b) tag the LOWER band,
+  (c) run longest (weeks).** $906.66 sitting at/near the lower band. −28% off the $1254 high; still ~3x
+  above the April base.
+#### THESIS (interpretation — NOT fact)
+- *(analysis)* **Genuine change-of-character (Jake's read, correct + better than the 1-min H&S).** The
+  momentum regime that carried 300→1254 ("buy the red middle band") broke for the first time. Strongest
+  technical case for respecting the ~650 downside.
+- *(analysis, double-edge)* **Lower-band tag = character broke AND short-term stretched (~2σ below mean =
+  bounce-prone).** Same signal, both readings true — why −8% into the lower band pre-TSMC is a coin-flip,
+  not one-way.
+- *(analysis, reframe / under-weighted)* It's the biggest decline BECAUSE it followed the biggest run; −28%
+  after a 4x is arithmetic, price still 3x the April base. First breather after a parabola ≠ distribution top.
+- **Sharpens the re-entry ladder:** $907 (daily 50D) = "trend not dead" first step; **reclaiming the 4h
+  MIDDLE band (~$1,000+) = "regime restored"** — a higher, stronger bar. Two levels, two degrees of confirm.
+- Links: [[ai-capex-cycle]] (TSMC 7/16), [[retail-edge]] (Bollinger mechanics: middle-band-as-resistance,
+  lower-band stretch).
