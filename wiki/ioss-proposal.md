@@ -1,56 +1,44 @@
-# iOSS — Increased Output Share Structure (Jake's prescriptive thesis)
+# iOSS — Increased Output Share Structure (Jake's policy project)
 
-Jake's flagship *constructive* idea — the proposed **bridge** for the distribution axis of the
-[[consumption-vs-investment-crux]]. Where the rest of the corpus diagnoses, this prescribes.
-Full text: `raw/ioss-proposal.md`. Related: [[detachment-bid]], [[_calibration]].
+> NOT a markets note. Jake's separate policy-design project (authored April 2026, months before the
+> markets vault). Preserved here as his second brain spans projects. Full text:
+> raw/2026-04-ioss-policy-proposal-full.md. This note = the structure + the link to the markets thesis.
 
-> Firewall: DATA = the mechanism as designed. THESIS/ANALYSIS = assessment (whose it is labeled).
-> Independence: n/a (policy design, not a market claim). Steelman/critique built in below.
+## What it is
+A market-based framework to share ABOVE-baseline productivity/automation gains with workers —
+"gains-only, payroll-native," no new agency, no wealth tax, no flat wage mandate. The formal, engineered
+version of the "direct distribution, no inflation, skip the bureaucratic vig" idea Jake riffed 2026-07-14.
 
-## What it is (design — faithful)
-Gains-only, payroll-native profit-share: when a firm beats its rolling 3-yr productivity baseline
-AND its operating-profit baseline (dual trigger), the *incremental* gain splits **70% firm / 30%
-workers**, equal per-capita, to sub-1.5×-county-median W-2s, quarter-lag, no clawbacks, with an
-option to route the share into a 401(k)/IRA-like account. Runs on SEC 10-Q + IRS 941 + state UI;
-no new agency. State-level pilot first; 401(k)-style diffusion path. Full mechanics in raw file.
+## The mechanism (Jake's design)
+- **70/30 split of ABOVE-baseline gains** (company keeps 70%, workers get 30%). Baseline business =
+  100% company, 0% shared. Below-baseline quarter = no trigger.
+- **Dual trigger** (the anti-gaming core): payout only when BOTH (a) output-per-labor-dollar beats the
+  rolling 3-yr same-quarter baseline AND (b) operating profit beats its own 3-yr baseline. Blocks
+  cost-compression/accounting-gamed payouts.
+- **Rolling 3-yr baseline** (anti-sandbagging — can't depress it without hurting own shareholders).
+- **Two lanes:** Standard (safe-harbor formulas, 5% materiality band, compliance tax credit) + Custom
+  (firm's own output metric, allowed only if ≥0.7 correlation to audited revenue over 12 quarters +
+  still subject to the profit trigger). Ties custom metrics back to economic reality.
+- **Eligibility:** W-2, in-state primary work location (via UI filing), wages ≤1.5x COUNTY median
+  (excludes higher-paid already-equity-comp'd), 6-mo tenure floor, 250 hrs/quarter. **Equal per-capita
+  distribution** (deliberately NOT proportional to wage — doesn't reproduce the hierarchy).
+- **Quarter-lag verification; NO worker clawbacks** (true-ups flow through the company, not workers).
+  401(k)/IRA investment option (0-100%, pre-tax, immediate vesting; cash default).
+- **Automated verification** across SEC 10-Q + IRS Form 941 + state UI wage files. County-level
+  geographic calibration (Spokane vs King County example — his home county) + 36-mo baseline freeze on
+  50+ relocations (anti county-shopping).
+- **Path:** state-level pilot first (250+ employee firms) → anonymized reporting → codification.
+  Diffusion analogy = the 401(k) (voluntary → normalized → codified).
 
-## Why it's well-built (analysis)
-- **Gains-only above-baseline is the key insight.** It's the one redistribution that does NOT
-  break the investment incentive the [[consumption-vs-investment-crux]] worries about — capital
-  keeps 70% of every incremental dollar, so the business case for automating is intact. Threads
-  the exact needle a wealth tax / wage floor can't.
-- **Dual trigger** = real anti-gaming (blocks cost-compression payouts).
-- **Payroll-native on 941 / UI / 10-Q** — administratively durable AND internally consistent with
-  Jake's primary-source discipline (same rails he trusts over BLS).
-- **The buried gold: the worker-investment option.** Converting the share into *equity* turns
-  labor into capital-holders — the ONLY durable fix to "capital captures the gains." Reframe the
-  whole proposal as **democratized capital formation / ownership society**, not profit-sharing:
-  more powerful (compounds; puts labor on the winning side of the crux) and more bipartisan.
-  Should be the lede, not page 4.
-
-## Failure surfaces (analysis — the redesign spec, not fatal flaws)
-1. ~~**Denominator bites the hand** (output/labor-$ rewards firing).~~ **WITHDRAWN — author
-   rebuttal accepted (2026-07-01):** the labor-dollar denominator is defined to also include the
-   dollars *replacing* labor (automation/AI spend), so firing-and-automating doesn't shrink the
-   base to game the ratio; and firms cut headcount for savings with or without iOSS, so iOSS adds
-   no firing incentive that wasn't already exogenous. Residual (minor): pure headcount cuts with
-   no reinvestment still nudge output/labor-$, but that's exogenous and iOSS at least shares some
-   gain with remaining workers where today they get zero.
-2. **Pays the retained, not the replaced.** Eligibility (employed W-2, in-state, tenure) excludes
-   the displaced / gig / just-fired — exactly who a "bridge until labor skills up" is for. As
-   written it's a *retention reward at winning firms*, not a displacement bridge. Purpose vs
-   mechanism mismatch.
-3. **Pro-cyclical against need.** Pays most when firms outperform (good times), nothing in
-   downturns (when workers are desperate). Ownership-reframe blunts this (equity compounds).
-4. **Money and eligible bodies are in different firms.** Giant gains sit at AI winners (few
-   low-wage W-2s, mostly above the 1.5× cap → excluded); eligible workers sit at thin-margin
-   labor-intensive firms with small beats. The target cohort may barely see it.
-
-## Where it sits
-The prescriptive answer-attempt to the distribution axis of [[consumption-vs-investment-crux]]:
-if AI succeeds *for capital* while labor drowns, iOSS is Jake's proposed valve to route part of
-the capital-side gain back to labor without killing the investment. The ownership feature is the
-part that could actually re-couple labor to productivity long-run.
-
-## Sources
-- Jake Bishop, iOSS policy proposal, April 2026 (`raw/ioss-proposal.md`).
+## Link to the markets vault (why it belongs)
+- It is the ENGINEERED answer to Jake's 7/14 sign-flip insight ([[new-economy-regime]]): if easy money
+  now transfers wealth from labor→capital via asset/consumer inflation, iOSS is the counter — share the
+  REAL productivity gain directly (non-inflationary because it distributes NEW output, not printed money;
+  gains-only) WITHOUT the bureaucratic vig (payroll-native, no agency). The distributional thesis's
+  constructive mirror.
+- (analysis) Strongest feature = the DUAL TRIGGER (output AND profit) — genuinely resistant to the
+  gaming that kills most gain-sharing schemes. Sharpest open question for a proper review: the
+  automation-incentive WEDGE — vs the no-iOSS counterfactual (keep 100% of the gain), iOSS is a 30% tax
+  on exactly the above-baseline productivity it wants to encourage; is 70%-of-upside + retention/political
+  benefits enough to keep firms automating as fast? (+ the attribution question: gains from REPLACING
+  labor shared with the SURVIVORS, displaced get zero.) Worth a real sit-down, not a late-night take.
