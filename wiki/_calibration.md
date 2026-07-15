@@ -247,3 +247,15 @@ stress (business ramping, recovery) — handle by pricing the menu, not by lectu
   Thu / PPI hot / buy-dip→buy-rip flip / memory reverses); the ~20% trail = catastrophe backup only.**
   Expiry-matching doing its job — match exit to the CATALYST clock, not a price level a 9.3%-ATR stock
   won't respect. Size still = the in-window sharp-move control. Coherent dated-swing plan.
+
+## 2026-07-15 ~7:30am PT — "subsector move ≠ rotation" (calibration)
+- Jake read "S&P healthcare −3.3%" as rotational money moving "back to AI." Confirmed datapoint:
+  **S&P 500 MANAGED HEALTH CARE index −3.3%, most since March** (ZH) = the MANAGED-CARE subsector
+  (UNH/CVS/HUM/CI/CNC), NOT broad healthcare, NOT a rotation.
+- *(calibration)* A single SUBSECTOR dropping is NOT rotation evidence — rotation needs a confirmed
+  DESTINATION (broad risk-on). Managed care has its own overhang (Medicare Advantage margins, MLR
+  spikes, the UNH complex) → this is idiosyncratic selling, not money "moving to AI." The reasoning
+  error to watch: inferring a macro rotation from one sector's news-driven move. + chips flat already
+  said it wasn't a conviction AI-surge. The scanner (Stage 1 XLV vs managed-care names) disambiguates
+  broad-vs-subsector instantly. Doesn't touch Jake's book (GEHC = medical devices ≠ managed care;
+  screens skew value/small ≠ large-cap MCO). Value-trap WATCH at best, not an opportunity.
