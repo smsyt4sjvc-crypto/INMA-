@@ -963,3 +963,33 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   export data, NOT just Brent. Ties Hassett "gas to $3" (a PRODUCTS/pump claim) to the refining lens —
   if refining is the squeeze, gas deflation gets harder even with crude capped.
 - Links: [[new-economy-regime]] (oil-into-CPI, Hassett), [[consumption-vs-investment-crux]], [[market-fragility]].
+
+### 2026-07-15 — Beige Book (July): the survey caught a Hormuz TRUCE that has since reversed
+Source: July 2026 Beige Book (`raw/2026-07-15-beige-book-july.md`; Layer-1 official, data through July 6).
+#### DATA (observed)
+- **The July-6-cutoff window recorded DE-ESCALATION:** Dallas — "the **agreement to reopen the Strait of
+  Hormuz,** which has caused gasoline prices to fall and reduced some of the uncertainty"; Chicago ag —
+  "fertilizer and fuel purchases dropped as transportation blockages eased in the Middle East";
+  Cleveland/Richmond builders expecting relief "pending a resolution of the conflict."
+- But the conflict was STILL the dominant cost driver across nearly every District (fuel, freight,
+  petrochemicals, fertilizer) — Atlanta "petrochemical derivatives… as the Middle East conflict
+  persisted"; KC energy "uncertainty surrounding the Strait of Hormuz disrupted shipments, kept
+  inventories tight."
+- Consumer demand-destruction texture (bottom half): Dallas food-assistance demand "surpassed levels
+  experienced during the financial crisis and the pandemic"; St. Louis meal demand +30% in 2 months
+  (partly SNAP cuts); KC — half of new auto loans in negative equity; gas prices repeatedly named as
+  the thing crushing commuter/low-income budgets.
+#### THESIS (interpretation — NOT fact)
+- ⚠️ *(analysis)* **TIMELINE TENSION — the Beige Book's price-relief optimism is STALE.** Its "falling
+  fuel / Hormuz reopening" snapshot is dated ≤ July 6; the vault's live feeds (`raw/2026-07-12-sunday-
+  hormuz-declared-closed.md`, `raw/2026-07-13-zh-trump-blockade-20pct-toll.md`, US 140-strikes) show the
+  truce **BROKE after** — Trump reinstated the blockade, Brent back to ~$85. So the Fed contacts'
+  expectation of easing cost pressure is already overtaken by events. Anyone reading the Beige Book cold
+  would under-price the energy fuse that's already re-lit. Good reminder that Layer-1 ≠ current when the
+  world moves faster than the survey window.
+- *(analysis)* The demand-destruction on the CONSUMER side (food banks past crisis+pandemic levels,
+  negative-equity autos, SNAP-cut meal surge) is the bottom-half of the K rendered in a Fed survey —
+  feeds [[consumption-vs-investment-crux]] (the "drink"/hollow distribution axis) and
+  [[trade-down-landing-pads]].
+- Links: [[new-economy-regime]] (energy reversal → CPI/PPI), [[consumption-vs-investment-crux]],
+  [[trade-down-landing-pads]], [[market-fragility]].
