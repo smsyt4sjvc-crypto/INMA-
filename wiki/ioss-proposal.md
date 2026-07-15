@@ -42,3 +42,28 @@ version of the "direct distribution, no inflation, skip the bureaucratic vig" id
   on exactly the above-baseline productivity it wants to encourage; is 70%-of-upside + retention/political
   benefits enough to keep firms automating as fast? (+ the attribution question: gains from REPLACING
   labor shared with the SURVIVORS, displaced get zero.) Worth a real sit-down, not a late-night take.
+
+## 2026-07-14 ~10:40pm PT — Jake's defense of the CFO-adoption case (strengthens the proposal)
+- **Counter 1 (policy-risk hedge) — STRONG, reframes the wedge:** the CFO's real counterfactual is NOT
+  "keep 100% forever" — it's an uncertain, HOSTILE-TRENDING policy future (tonight's own feed: majority
+  want to stop datacenters, Congress appealing to public on AI ownership). So the choice is "known,
+  aligned, incentive-PRESERVING moderate NOW" vs "unknown punitive shock LATER." iOSS keeping 70% +
+  growth case intact = the rational hedge. My wedge critique assumed a stable no-policy baseline — wrong.
+- **Counter 2 (headcount-neutrality) — a real feature I under-credited:** the 30% follows the GAIN, not
+  the heads, so automation can't be used to ESCAPE the share (fire everyone → still owe 30% to whoever
+  remains). No perverse mass-layoff dodge. Residual: a small AGGREGATE wedge survives (70% vs 100% return
+  on the productivity investment itself), BUT the rolling 3-yr baseline shrinks it to 30% of the
+  INCREMENTAL annual surprise (this year's gain → next year's baseline), not 30% of all automation value.
+  Real but small, and outweighed by 1+3.
+- **Counter 3 (velocity/coordination) — STRONG as the policy justification:** distributed labor income
+  circulates fast (consumption/sales tax velocity) = keeps the state satisfied + sustains the consumer
+  who buys the output (Henry Ford logic). Honest nuance: it's a COLLECTIVE argument (individual firms
+  still have a free-ride incentive) — which is EXACTLY why it must be a POLICY (state mandate), not
+  voluntary. 1+3 dovetail: state imposes it (justified by velocity/stability), CFO accepts early (hedges
+  policy risk).
+- **The one DURABLE objection — and Jake's proposal already answers it:** the CFO's true long-run fear
+  isn't the wedge, it's the REGULATORY RATCHET (accept 70/30 today → hostile legislature dials it to
+  50/50 tomorrow; any adopted framework = a dial the state can turn). Answer, embedded in the 401(k)-
+  diffusion path: being the ARCHITECT / early-adopter shapes where the dial sits — write the rules or
+  have them written for you. The strongest form of "ahead of the curve."
+- Net: the proposal is MORE robust than my late-night wedge critique implied. Conceded.
