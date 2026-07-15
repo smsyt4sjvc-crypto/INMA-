@@ -259,3 +259,19 @@ stress (business ramping, recovery) — handle by pricing the menu, not by lectu
   said it wasn't a conviction AI-surge. The scanner (Stage 1 XLV vs managed-care names) disambiguates
   broad-vs-subsector instantly. Doesn't touch Jake's book (GEHC = medical devices ≠ managed care;
   screens skew value/small ≠ large-cap MCO). Value-trap WATCH at best, not an opportunity.
+
+## 2026-07-15 ~7:50am PT — scanner result: rotation thesis DISPROVEN (data beat the vibe)
+- Stage 1 (20% of day): unusual volume = FINANCIALS +1.2% RVOL 1.74x (bank-earnings week) + HEALTHCARE
+  −1.7% RVOL 1.59x (managed-care selloff) — BOTH idiosyncratic. **Tech −0.2%, Semis +0.2% = the AI
+  complex is FLAT, not bought.** Megacap green is NAME-specific (GOOGL +4.2%, AMZN +2.5%), not a
+  sector/AI surge. → NO rotation-into-AI. The scanner turned "feels like money back to AI" into
+  "idiosyncratic financials+health, AI flat." Data over narrative — the tool working as designed.
+- Stage 2 caveat logged: eqRVOL ~0.2 = time-of-day artifact (unprojected, 20% of day) — ignore except
+  PYPL (2.97, genuinely elevated, +17.1% on the deal → VINDICATES the 7/15 "don't buy the PYPL put"
+  call: deal moved it UP, a put would've died). "AHEAD?" flags (MSFT C/P 5.0, META C/P 3.0, TSLA 49
+  fresh/flat) = fresh-positioning CANDIDATES.
+- **THE KILLER LIMITATION (state every time): options VOLUME ≠ direction-of-TRADE.** yfinance gives
+  total volume, not signed (bid/ask/sweeps). C/P 5.0 could be call BUYING (bullish) OR call SELLING
+  (overwriting/neutral). Scanner finds ACTIVITY, not CONVICTION → investigate-candidates, never signals.
+  Real flow (FlowAlgo/Unusual Whales) infers direction; yfinance can't. Stage 2 = first-pass filter only.
+- MU (Jake's position): 47 fresh, C/P 1.0 (balanced), −2% = two-way positioning on the dip, no clean signal.
