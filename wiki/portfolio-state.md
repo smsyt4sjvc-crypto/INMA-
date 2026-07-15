@@ -264,3 +264,15 @@ hardware** — which is Jake's heaviest sleeve. Implications:
   loss IF it bounces. Next time: name you can't stop + small size = hold, don't stop.
 - Value banked: defined loss, DONE, dry powder back, clear head for TSMC tomorrow (the real memory
   read) with no position clouding it. Executed a plan = discipline, not failure. Whipsaw-vs-save TBD.
+- **Addendum ~9:35am PT — Jake's re-entry PLAN (sound + thesis-consistent):** out of the knife, wait,
+  re-enter on confirmation below $980; wash-sale is neutral. Levels (from the 7/14 technical map):
+  · NEXT SUPPORT DOWN (the knife floor) = ~$652 — the BOTTOM of the air pocket; ~nothing between $850
+    and $652 (that's WHY it's the air pocket) → decisive $850 break can move fast to ~$652.
+  · RE-ENTRY UP (reclaim) = $854 first (reclaim the broken swing-low = whipsaw confirmed, base-case
+    re-entry below $980), stronger = 50D ~$907 (trend repair). Reclaim = the runway-intact signal.
+  · Cascade to ~$652 without reclaim = the cycle-top signal → stay out (the stop saved him).
+- **Wash sale (Jake's right, precise):** rebuy MU within 30 days → the ~$520 loss is DISALLOWED now but
+  ADDED to the new shares' cost basis = DEFERRED not lost (recovered when he sells the replacement).
+  Tax-neutral-ish. Clean harvest = wait 31 days, but not necessary (basis adjustment handles it).
+- TSMC tomorrow = the big input: strong TSMC + MU reclaim $854 = re-enter confident; weak TSMC + cascade
+  = stayed out, dodged the top. Let levels + TSMC decide, not the itch to be back in.
