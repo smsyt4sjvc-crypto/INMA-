@@ -286,3 +286,31 @@ hardware** — which is Jake's heaviest sleeve. Implications:
   reclaim + HOLD above $907 (ideally close above + TSMC tomorrow confirming) = re-enter below the $980
   original. Discipline guard: do NOT revenge-chase the intraday spike (mirror of the $980 chase) — a bounce
   still −7.79% on the day ≠ a confirmed reclaim. Let it PROVE the hold; TSMC is the fundamental tiebreaker.
+
+### 2026-07-15 ~12:01pm PT — MU $901 (−8.31% day); Jake's chart read (lower highs / H&S)
+Source: Jake's 1-min chart screenshot (Jun-3 → Jul, `MU $901.42 −$81.70`; prior close 983.12).
+#### DATA (observed)
+- MU **$901, −8.31% on the day** — drifted below the $906/50D reclaim line; still under it. Prior
+  close 983.12. Chart shows a clean sequence of **lower highs** off the ~$1254 blow-off: 1254 → ~1180 →
+  ~1050 → 983 → 901. Sitting on the ~$900 line. E (earnings) marker mid-June, D (dividend) early July.
+- Jake's read: "Lower highs. Head and shoulders."
+#### THESIS (interpretation — NOT fact)
+- *(analysis)* **Lower-highs = correct and robust** (survives any timeframe): MU is below its 50D and in
+  a lower-highs downtrend. That part needs no pattern name.
+- *(analysis)* **H&S label = calibrate.** It's a 1-min chart over 6 weeks — noise-level pattern matching
+  (H&S is a daily/weekly pattern). The structure reads as much like a **parabola giving back a near-double**
+  (700→1254) as a distribution top — and that distinction changes what a bounce means (parabola-unwind can
+  resume; H&S top implies reversal). Don't over-fit the name.
+- *(analysis — the useful convergence)* **The H&S measured move ≈ our air-pocket floor.** Neckline ~$900,
+  head ~$1254 → ~300-pt drop projected = **~$650 target.** Independent of that, the structural map says
+  break $854 → little structure → **~$652.** **Two methods, same floor (~650).** That is the "stay out /
+  cycle-top confirmed" line in the re-entry plan. Respect the number when two methods converge.
+- *(analysis — the side Jake's under-weighting, post-whipsaw bear tilt)* **TSMC reports 7/16** (memory-
+  complex tiebreaker) and today's Beige Book *confirmed* memory-component inflation (NY). A stock −8% into
+  its 50D + major support the day before a sector catalyst is also a **bounce setup.** The neckline ($900)
+  has NOT broken — he's sitting on it. Pattern says *wait for the break*, not *pre-commit to the short*.
+- **Net (re-entry watch, unchanged + sharpened):** still below $907, lower highs intact → no re-entry
+  trigger; he's correctly flat. Resolution: holds $900 + strong TSMC → watch the $907 reclaim; breaks $900
+  + closes below → both methods say ~$650 → stay out. Wash-sale rule keeps him patient either way.
+- Links: [[ai-capex-cycle]] (TSMC/memory), [[_calibration]] (post-whipsaw bear tilt), [[retail-edge]]
+  (pattern-on-noise timeframe caution).
