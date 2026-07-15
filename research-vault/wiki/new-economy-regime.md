@@ -970,3 +970,16 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
 - The takeaway: the "for the people" valence of monetary policy is REGIME-DEPENDENT. Jake supplied the
   distributional/political-economy layer the debasement + third-exit theses were missing.
 - Links: [[consumption-vs-investment-crux]] (capex vs production detachment), [[detachment-bid]], [[bull-bear-ledger]].
+- **Addendum ~8:45pm PT — Jake's riff (bracketed "another space"): direct capex→worker distribution,
+  no inflation, skip the bureaucratic vig.** *(analysis — the useful loop-back)* The "no inflation" is
+  economically CORRECT *if* it's a real productivity dividend: inflation = money chasing UNCHANGED supply;
+  distributing a genuine productivity gain = distributing NEW supply, so no inflation (the catch = telling
+  real productivity from financial inflation = the utilization question again). Lineage: sovereign-wealth/
+  citizen dividends (Alaska Permanent Fund, Norway), UBI (why tech/Altman push it — they see AI displacing
+  labor), the "ownership economy" (give workers equity in the capex). The "govt vig" critique = public-choice
+  (capture, means-testing overhead) — exactly why direct mechanisms exist (Friedman's negative income tax,
+  Alaska's automatic dividend). **THE PERSONAL PUNCHLINE:** since the direct-distribution won't happen, the
+  individual's rational response to a labor→capital transfer is to OWN THE CAPITAL SIDE — which is literally
+  what Jake's portfolio is doing. The AI-capex trades ARE his private "distribution" — capturing the
+  productivity dividend as an owner because it won't come as a worker. [[detachment-bid]] has a political-
+  economy root: own the assets that absorb the transfer.
