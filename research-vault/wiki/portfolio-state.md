@@ -247,3 +247,20 @@ hardware** — which is Jake's heaviest sleeve. Implications:
   Discipline = close BOTH legs this AM (bank the call's +$150, scrape the put's last $35), realize
   −25%. The trap = holding the recovering call into the close = a fresh unplanned naked-call gamble.
   (Not writing a close until Jake confirms he closed — standing rule; this logs the mark + the rule.)
+
+## 2026-07-15 ~9:30am PT — MU CLOSED: stopped out at $850 (~−13%, ~$520 on 4 shares)
+- Jake set a stop-loss at $850 (just under the $854 air-pocket edge we flagged as "the line");
+  MU dumped $885→$850 in ~10 min, filled, he's OUT. 4 shares, bought ~$980 → −$130/sh ≈ −13% ≈ −$520.
+- **The un-stoppable-MU dilemma played out LIVE:** a stop on a 9.3%-ATR name either WHIPSAWS (if MU
+  bounces back above $850) or SAVES (if it cascades toward the $652 air-pocket floor). Unknown at
+  fill — WATCH whether it bounces above $850 within the hour (whipsaw) or keeps falling (save).
+- **Honest ownership (thread tension = mine):** two threads were slightly at odds — technical map
+  ("$854 line, stop just under") vs un-stoppable analysis ("can't clean-stop MU, hold SMALL size
+  through noise, use size not stops"). Jake followed the line thread; $850 is squarely in the
+  whipsaw zone (11-12 stop-outs/yr at ~11% width, per the ATR finder). With 4 shares (small), the
+  un-stoppable framework would've said HOLD — the stop is what created the whipsaw exposure.
+- **The lesson (paid ~$520): un-stoppable names are held by SIZE, not STOPS.** 4 shares was small
+  enough to hold through the chop with NO stop; the stop converted survivable noise into a realized
+  loss IF it bounces. Next time: name you can't stop + small size = hold, don't stop.
+- Value banked: defined loss, DONE, dry powder back, clear head for TSMC tomorrow (the real memory
+  read) with no position clouding it. Executed a plan = discipline, not failure. Whipsaw-vs-save TBD.
