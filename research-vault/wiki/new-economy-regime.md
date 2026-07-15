@@ -983,3 +983,22 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
   what Jake's portfolio is doing. The AI-capex trades ARE his private "distribution" — capturing the
   productivity dividend as an owner because it won't come as a worker. [[detachment-bid]] has a political-
   economy root: own the assets that absorb the transfer.
+
+### 2026-07-15 ~7:14am PT — PPI soft → July hike off the table → runway EXTENDS (but energy-led again)
+### DATA (observed) — ZH feed, Wed AM
+- "July rate-hike OFF THE TABLE after PPI drops most since COVID." PPI final-demand goods −1.4% June;
+  **nearly 2/3 of that drop = GASOLINE −12.0%.** PPI final-demand SERVICES ROSE: 60%+ of the advance =
+  final-demand TRADE SERVICES MARGINS +1.1%.
+- WILLIAMS: shelter inflation "on downward path"; expects overall inflation to FALL to 3.25% by year-end.
+  HASSETT: "data shows no excuse for raising rates." BANK OF CANADA drops reference to consecutive hikes.
+### THESIS (interpretation — NOT fact)
+- **The PPI "first test" (flagged 7/14) came SOFT → the one-month runway CONFIRMED near-term.** July hike
+  dead; Williams (the tripwire-watcher) + Hassett + BoC all dovish. Valve stays open; the melt-up runway holds.
+- **BUT the SAME energy-artifact + sticky-services pattern as CPI:** the PPI drop is ~2/3 GASOLINE (−12%,
+  the June oil dip) — reverses with July's $85 oil. And services MARGINS are RISING (+1.1% trade services) =
+  the sticky/pricing-power tell UNDER the energy mask. So: soft HEADLINE (energy), firm CORE (services margins).
+  Same as CPI — the cost-push isn't in the goods PPI yet (per the Ericsson 2027-lag), and gasoline is
+  flattering both prints on a one-month oil dip that's already gone.
+- Net: runway extended (near-term dovish confirmed), fuse unchanged (energy reverses; services margins the
+  sticky tell; the memory cost-push still ahead). Watch the NEXT prints once July oil hits.
+- Links: [[demand-destruction]] (oil/gasoline), [[ai-capex-cycle]] (cost-push lag).

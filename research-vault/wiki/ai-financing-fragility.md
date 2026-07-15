@@ -350,3 +350,22 @@ Related: [[ai-capex-cycle]], [[market-fragility]], [[concentration]], [[consumpt
   Two independent ceilings on the same buildout = the bear case for capex CONTINUING at the projected
   pace. Resolution: scarce INPUTS (power, memory) win as supply-constrained; SPENDERS + FINANCING lose.
 - Links: [[buildout-bottleneck-map]] (power ceiling), [[market-fragility]] (30Y/duration), [[bull-bear-ledger]].
+
+### 2026-07-15 ~7:14am PT — the financing-fragility thesis PRINTS: hyperscaler credit stress at a RECORD
+### DATA (observed) — ZH feed, Wed AM
+- Bloomberg: **"Hyperscaler credit stress at the highest since Goldman launched the basket in February...
+  the data-center building boom sparked an explosion of debt funding, with investors not paying enough
+  attention to the terms."** "Hyperscaler bond basket: another day, another record WIDE."
+- Goldman: **"'As Good As It Gets': Hyperscaler Issuance Means Risk Skewed To The Downside."**
+### THESIS (interpretation — NOT fact)
+- **This is the thesis PRINTING, not forecasting.** Last night's logic ($4-8T capex / no FCF / IG choked
+  at $250B / Gundlach 30Y) is now VISIBLE as record hyperscaler credit stress + record-wide spreads. The
+  cost-of-capital blade (Papai/ORCL, 7/13) is widening in real time. "Investors not paying attention to
+  the terms" = the burned-buyer setup (concessions/covenants deteriorating before the repricing).
+- **Goldman "as good as it gets / risk skewed down"** = the sell side calling the issuance wave the top of
+  funding conditions. The funding-migration ladder (concessions→private credit→ABS→vendor→equity→buyback
+  cuts→guide cuts) is now measurably on rung 1-2 (spreads/concessions) and advancing. Stage-2 countdown LIVE.
+- The tension of the morning: futures UP on ASML (demand strong near-term) WHILE hyperscaler CREDIT is at
+  record stress (funding cracking). Melt-up on borrowed money, literally — the two coexisting is the whole
+  "runway open + funding fragile" picture. Watch: spread levels, private-credit/SPV deals, first buyback-cut.
+- Links: [[market-fragility]] (30Y/credit), [[ai-capex-cycle]] (ASML demand), [[bull-bear-ledger]].

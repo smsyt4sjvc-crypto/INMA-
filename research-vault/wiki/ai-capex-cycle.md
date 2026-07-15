@@ -1591,3 +1591,21 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   Burry-terminal-value short. The commodity-DRAM leg erodes FIRST. Memory-top watch list now: China node
   progression + capacity ramp (this + CXMT + shadow fabs), inventory rising, lead-times collapsing, insiders.
 - Links: [[buildout-bottleneck-map]] (export-control collision), [[market-fragility]], [[_calibration]] (MU trade).
+
+### 2026-07-15 ~7:14am PT — ASML raises guidance 2nd time (buildout demand strong NEAR-term) + PYPL M&A
+### DATA (observed) — ZH feed, Wed AM
+- ASML lifts annual sales forecast for the 2nd time this year on capacity expansion / "robust chip demand";
+  ADR +3%; futures rise on the print. MS Q2 equities $6.30B (est $4.47B) — another bank vol-harvest beat.
+- PYPL: Stripe & Advent made a **$53B approach** to PayPal (PYPL disinterested; PYPL at 5-YEAR LOWS, mid-
+  turnaround). Suspicious CALL-volume surge BEFORE the report ("gave the SEC a clear bullseye" = insider flag).
+### THESIS (interpretation — NOT fact)
+- **ASML = the buildout-demand tell, and it's still STRONG near-term.** ASML (litho monopoly = the picks-and-
+  shovels of every fab) raising guidance a 2nd time = fabs still being ordered/built. Cuts AGAINST the
+  "buildout stalling" read — BUT near-term (orders now) vs medium-term (the power/funding CEILINGS from
+  7/14 bite later) can BOTH be true. ASML says demand; the ceilings say it can't be funded/powered to
+  completion. The gap between ASML's order book and the ceilings = the timing of the top. Bull tension logged.
+- **PYPL** (vault broad-screen name — CFO buy, "guidance = EPS declining / capital-return shelf"): a $53B
+  M&A approach at 5-yr lows = the value-trap-or-turnaround finally drawing a strategic bid. PYPL disinterested
+  = mgmt thinks the turnaround is worth more (or price too low). The pre-news call surge = textbook insider
+  pattern. Not a Jake position; logged as a screened-name catalyst + a live insider-trading example for [[retail-edge]].
+- Links: [[cluster-shortlist-workup]] (PYPL screen), [[ai-financing-fragility]] (ASML-vs-credit tension), [[buildout-bottleneck-map]].
