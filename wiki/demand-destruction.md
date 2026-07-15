@@ -914,3 +914,27 @@ Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`r
   often precede or accompany economic-infra strikes. Watch: Kharg (the oil kill-switch) + whether more
   civilian-infra strikes follow (pressure-campaign confirmation).
 - Links: [[new-economy-regime]] (oil-into-CPI), [[market-fragility]].
+
+### 2026-07-14 ~7pm PT — evening war cluster: civilian-infra campaign FORMALIZED + blockade operational
+### DATA (observed) — ZH feed, evening
+- **TRUMP: "next week we'll hit Iran POWER PLANTS, BRIDGES"** (+ "being careful with civilian
+  population"). Repeats "Hormuz has to remain free."
+- **CENTCOM (official): US RESUMED naval blockade of Iranian ports/coast today 4pm ET; 20+ US Navy
+  warships.** Iran (IRIB): US "fully shattered MOU" by reimposing blockade.
+- **IRGC vows "not a drop of oil & gas will be exported FROM THE REGION"** amid cross-Gulf fighting.
+- OSINT: Shahed-136 impacts in KUWAIT confirmed; Bahrain + Kuwait "bearing the brunt of Iranian fires."
+- **"Great Rewiring: US supports Iraq-Syria oil pipeline to erode Tehran's Hormuz leverage."**
+- Trump gave Saudi green light for attack on Yemen's Sanaa airport.
+### THESIS (interpretation — NOT fact)
+- **Jake's civilian-infra catch (Kish) is now FORMALIZED POLICY:** Trump naming power plants + bridges
+  for next week = deliberate civilian-infrastructure pressure campaign, exactly the escalation-ladder
+  rung logged this morning (military → oil → civilian). "Careful with civilians" = the rhetorical cover.
+- **The oil kill-switch is now a live two-sided threat:** US blockades IRAN's exports (operational, 20+
+  warships) WHILE IRGC threatens to halt ALL REGIONAL exports ("not a drop from the region"). If IRGC
+  acts on the region-wide threat (not just Iran's own barrels), that's the +8% strait-closure branch.
+  The band ($79-85) referee — a region-wide export-halt headline breaks it hard.
+- **Jake's BYPASS-INFRASTRUCTURE thesis (the structural winner) just got US policy backing:** Iraq-Syria
+  pipeline to route around Hormuz = the long-term Hormuz-leverage erosion he called weeks ago. Structural,
+  slow, but now official US strategy. (Protection→tribute→bypass arc, per the earlier toll economics.)
+- Kuwait/Bahrain confirmed struck (Shahed impacts) = the GCC second front is real, not just threatened.
+- Links: [[new-economy-regime]] (oil-into-CPI), [[market-fragility]].

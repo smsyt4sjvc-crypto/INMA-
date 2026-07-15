@@ -889,3 +889,21 @@ funnels (Kiyosaki-class "safe job = dangerous") = the political fuse's kitchen-t
 - Warsh racing GENIUS Act rules by Sat + US-UK stablecoin statement = the tokenization/stablecoin
   regulatory plumbing accelerating hard ([[buildout-bottleneck-map]] tokenization crossing).
 - Links: [[market-fragility]], [[demand-destruction]] (oil-into-CPI).
+
+### 2026-07-14 ~7pm PT — Gundlach: 30Y at 5.10% bumping ~2-decade-high resistance, "unlikely to hold"
+### DATA (observed) — ZH feed, evening
+- Gundlach: generic 30Y US Treasury yield **5.10%**, <10bps below the ~2-decade high, "keeps bumping
+  against resistance... seems unlikely to hold. Even Lacy Hunt has turned bearish."
+- Day's tape (ZH summary): "Big-Banks Good, Breadth Bad, Big-Blue Ugly; Bitcoin, Bullion & Bonds Bid
+  on Benign-Flation" (BTC/gold/bonds bid on the soft CPI; banks up; breadth narrow; IBM ugly).
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **The long-end is the debasement/fiscal tell.** 30Y pressing a 2-decade-high with
+  Gundlach flagging the resistance breaks UPWARD = the market demanding more term premium (fiscal
+  deficits + sticky inflation, Dimon's "tectonic plates"). Lacy Hunt — the dean of bond bulls / secular
+  deflationists — CAPITULATING to bearish is a notable regime marker (the last deflation holdout turning).
+- **Today's cross-current:** soft CPI gave bonds a SHORT-term bid ("benign-flation") — yields down on
+  the day — but Gundlach's STRUCTURAL call is yields BREAK higher. Short-term bid vs structural bear:
+  the soft print bought a day; the 30Y at 5.10% says the fiscal/inflation term-premium pressure is the
+  bigger force. If the 30Y breaks the 2-decade high, that's a TRIGGER (a real event) — reprices duration,
+  pressures equity multiples, and is the "valve jammed" signal (can't ease into a bond revolt).
+- Links: [[market-fragility]] (duration/multiple), [[bull-bear-ledger]].

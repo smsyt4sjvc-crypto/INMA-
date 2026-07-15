@@ -1528,3 +1528,24 @@ $851B→$1.15T 27E, UBS undersupply only to Q2-2028.**
   sites (so ANY "AI uses the distressed office for infrastructure" leg was always going to miss — the
   machines and batteries have physical requirements offices can't meet). Employees can use the office;
   the infrastructure can't. = the reusable filter: for AI physical-footprint calls, ask "people or power?"
+
+### 2026-07-14 ~7pm PT — CXMT prices $10B IPO: the memory SUPPLY response arrives (MU-thesis threat)
+### DATA (observed) — ZH, evening
+- China memory giant CXMT (ChangXin Memory) prices IPO to raise up to **$10 billion**; ZH: "formidable
+  DRAM competitor." (Also a listing-cluster item — issuance flood: + Anthropic/SpaceX/SKHY/DeepSeek/CXMT.)
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **This is the SUPPLY-SIDE threat to the memory-shortage / MU-second-leg thesis** — the
+  thing that eventually breaks every memory upcycle (supply response killing the cycle, per [[retail-edge]]
+  mechanism findings). $10B = serious capex to scale Chinese DRAM. BUT two nuances that make it a
+  MEDIUM-term ceiling, not a near-term killer:
+  1. **Fabs take YEARS** (build + yield ramp) — CXMT capacity doesn't hit the market this quarter; the
+     NEAR-term shortage (Jake's 1-month runway) is intact. It's the 2027-28 supply wave (converges with
+     the vault's 2028-29 glut timing — CXMT is now a NAMED source of that glut).
+  2. **CXMT is mostly COMMODITY/legacy DRAM, not HBM** (high-bandwidth memory — the AI-critical tight
+     node where MU/Hynix/Samsung's pricing power lives). So CXMT threatens the LOW end (commodity DRAM),
+     less the HBM AI moat. Partial threat: caps commodity DRAM, leaves the HBM premium — for now.
+- **Watch item for the MU trade:** CXMT is now a concrete supply-side counter. It doesn't flip the
+  near-term (ride the runway) but it's a medium-term thesis-breaker to track — if CXMT moves UP the stack
+  toward HBM, or its capacity ramps faster than modeled, that's the supply signal that ends the cycle.
+  Add to the memory-top watch list (alongside: inventory rising, lead-times collapsing, insiders selling).
+- Links: [[bull-bear-ledger]] (issuance flood), [[_calibration]] (MU trade).
