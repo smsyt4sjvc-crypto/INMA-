@@ -281,3 +281,31 @@ reality checks it can't know about Jake's actual situation:
   (2) M&A pops RATCHET not fade (disinterested targets get pushed to the table by shareholders wanting
   the premium; base rate = stays elevated/higher unless bid withdrawn) → 2 of 3 branches hurt the put;
   (3) the "disinterest" is ALREADY priced (+17% DESPITE it) = no differential edge on deal odds.
+
+### 2026-07-15 ~4:10pm PT — the mean-reversion screen: "index-supported" and "boring reverter" CONFLICT
+Source: `tools/mean_reversion_screener.ipynb` Stage 1 (`raw/2026-07-15-mean-reversion-screen-output.md`).
+Context: Jake's active-trading idea — screen for 2-3% ATR, mean-reverting, index-supported, no-crash
+large-caps, then fit a bracket strategy to each stock's natural behavior. Ran the S&P 100.
+#### DATA (observed)
+- Full-profile (5/5): **BLK, MET, META, QCOM.** Cleanest by worst-day = BLK (-7.7), MET (-9.0);
+  META/QCOM cleared -15% but have -11% days.
+- Staples/utilities (KO/PG/SO/DUK/MCD) are the BEST mean-reverters but scored 2-3 — knocked out
+  SOLELY by **R²-to-SPY ≈ 0** (MCD 0.023, PG 0.004, SO 0.002, KO 0.001).
+- Mega-cap compounders (AAPL/MSFT/GOOGL) scored low on **positive autocorrelation** (trending) +
+  huge/NaN half-lives.
+#### THESIS (interpretation — NOT fact)
+- *(analysis, the finding)* **"Index-supported" (high R² to SPY) and "clean mean-reverter" pull in
+  OPPOSITE directions.** Defensives mean-revert precisely because they're bond-proxies that DON'T track
+  the market bid (R²≈0). The high-R² names that ride the passive bid are higher-beta cyclicals that
+  crash more. You can't max both. **The intersection = FINANCIALS** (BLK/MET/MS/AXP/JPM/USB) — high-beta
+  (track index) yet cyclical-not-secular (revert). If the thesis is "index-supported reverter," the home
+  is the financial sector, not staples.
+- *(analysis)* Screen CONFIRMS the earlier "hold-don't-scalp the compounders" argument with numbers:
+  AAPL/MSFT/GOOGL read as TRENDERS (positive autocorr) = the passive bid grinds them up past a +2.5%
+  sell. NVDA correctly excluded (high R² but -17% crash + 102d half-life = lone-wolf).
+- ⚠️ *(caveat)* 2y lookback = a bull; "mean-reversion" measured here is reversion-around-an-uptrend,
+  which flatters buy-and-hold. Non-stationary; a choppy year would re-rank.
+- **Open (Stage 2 pending):** does the bracket beat HOLDING BLK/MET, or just cut variance? Prediction
+  (analysis): hold wins total return in this bull; bracket cuts drawdown = a variance trade, not alpha.
+- Links: [[portfolio-state]] (MU trender), [[market-fragility]] (passive bid / Mike Green inelasticity),
+  [[concentration]].
