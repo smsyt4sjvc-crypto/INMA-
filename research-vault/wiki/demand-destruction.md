@@ -993,3 +993,22 @@ Source: July 2026 Beige Book (`raw/2026-07-15-beige-book-july.md`; Layer-1 offic
   [[trade-down-landing-pads]].
 - Links: [[new-economy-regime]] (energy reversal → CPI/PPI), [[consumption-vs-investment-crux]],
   [[trade-down-landing-pads]], [[market-fragility]].
+
+### 2026-07-16 ~8:20am PT — War day 5: Basrah suspended, Hormuz "red line", supply disruption stacks
+Source: ZH feed (`raw/2026-07-16-zh-feed-korea-rotation-war.md`).
+#### DATA (observed)
+- US struck Iran **5th straight day**; hit a tanker near Iran's main export terminal; **struck near Qeshm
+  Island** (Hormuz). Iran fired at US bases in Kuwait & Jordan. Iran: **"infrastructure for infrastructure"
+  war; Hormuz control = "unbreakable red line."**
+- **IRAQ SUSPENDS BASRAH OIL LOADINGS after tanker drone attack** — Iraq's main export terminal, a REAL
+  supply hit (not just Iran). Crack spreads featured; Russia 135M-bbl crude jam; Ukraine hitting Russian
+  Black Sea tankers.
+#### THESIS (interpretation — NOT fact)
+- *(analysis)* **This is the war variable Jake flagged as ABSENT from the bull/bear debate — now
+  escalating, and it cuts against BOTH sides' clean stories.** Basrah suspension = actual barrels offline
+  (supply shock), which (a) pressures the "Fed cuts / inflation cools" bull-rescue (energy→inflation) AND
+  (b) **delays the [[compression-thesis]] input-deflation healing** — energy IS an input; war keeps power/
+  fuel costs UP, so "inputs get cheaper" is harder while Hormuz/Basrah are contested. The illegible variable
+  the debate dropped is the one that can move both denominators at once.
+- Watch: crack spreads (refining, JPM thesis), Brent on Basrah, whether Hormuz "red line" → actual closure.
+- Links: [[new-economy-regime]] (energy→CPI), [[compression-thesis]] (input-deflation delayed), [[market-fragility]].

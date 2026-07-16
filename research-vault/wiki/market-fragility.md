@@ -456,3 +456,29 @@ Source: July 2026 Beige Book (`raw/2026-07-15-beige-book-july.md`; Layer-1 offic
   headline.
 - Links: [[consumption-vs-investment-crux]], [[ai-financing-fragility]], [[concentration]],
   [[new-economy-regime]], [[bull-bear-ledger]].
+
+### 2026-07-16 ~8:20am PT — Korea leverage unwind PRINTS; the input-payer/seller split in the tape
+Source: ZH feed (`raw/2026-07-16-zh-feed-korea-rotation-war.md`). Layer-1 quotes (Goldman, KOSPI print,
+UBS) inside Layer-2 framing.
+#### DATA (observed)
+- **KOSPI −7.17% (6,761.86)**, another rout. **Goldman: >1.2M Korean levered retail accounts margin-called
+  (as of Jul 13); ~320–360k FULLY liquidated (~1 in 30 adults).** Regulator suspended new levered ETFs,
+  hiked margins. **BOK RAISED rates — first hike in 3+ years.** US futures slid; "momentum trades scrutinized."
+- "Largest foreign buyer of US stocks getting cold feet." "Hedge fund equity leverage keeps climbing" (record).
+- The Market Ear: **Mag7 rising while SOX falls; "capex cut announcements upcoming?"** Premarket: hyperscalers
+  green (GOOGL/MSFT +1.3%), **NVDA −1.5%.**
+#### THESIS (interpretation — NOT fact)
+- *(analysis)* **The bear's forced-deleveraging mechanism is PRINTING — in Korea.** Record levered retail →
+  margin-call cascade → forced liquidation. This is the debate's "leverage unwind" made real. AND **BOK
+  hiking into an asset crash** is a live data point against "everyone just cuts" — the objection migrating to
+  the rate/currency (bear Counter 1), in Korea's case literally.
+- ⚠️ *(assumption-filter check — Occam/Hanlon)* Simplest read: a **Korea-specific levered-retail mania**
+  (KORU 3x, 1-in-30 adults levered = a local bubble) popping. **Transmission to US is the OPEN QUESTION,
+  not a given** — don't assume the domino. But "futures slide / momentum scrutinized" + record US HF
+  leverage + foreign bid fading = the transmission channels are live to WATCH. This is a candidate
+  TRIGGER (dated, mechanical) — watch whether it stays contained or spreads to US momentum/AI.
+- *(analysis, honest)* **The input-payer/seller rotation from last night's [[compression-thesis]] RHYMES in
+  the tape:** Mag7 (input-payers) up, SOX/NVDA (scarcity-sellers) down, "capex cut" chatter. BUT — **one
+  premarket session is NOISE, not confirmation** of a multi-year thesis (the whole [[how-to-get-paid]]
+  wobble + warning-vs-trigger lesson). Notable rhyme; not vindication. Log it, don't inflate it.
+- Links: [[compression-thesis]], [[ai-financing-fragility]], [[power-scarcity-equities]], [[demand-destruction]].
