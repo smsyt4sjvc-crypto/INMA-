@@ -135,3 +135,5 @@ END SIGNALS (the ones that actually mark tops):
   a possible over-owned trade; don't let it become a vault "bubble belief" we defend by dismissal.
 - Roberts' prescription = what the vault already does: pre-register the risk-cut triggers, write
   them down (the prediction ritual + kill-switch branches), rebalance not time. Convergence.
+
+- **Bull/bear debate 2026-07-15 → BEAR won cleanly (Round 4).** Full record + surrendered props + the bear's winning proposition + defensive-instruments-by-function: [[how-to-get-paid]]. Correction it forced: bottleneck ≠ hedge ([[power-scarcity-equities]]).

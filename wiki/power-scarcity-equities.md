@@ -83,3 +83,19 @@ IPPs (CEG/VST/TLN) + regulated utils included as reference (the "already priced"
 benchmarks). Premise (analysis): the IPP scarcity trade is consensus/priced; the equipment layer that
 physically connects the GW (transformer + electrician shortage, Beige Book 7/15) is the tighter,
 less-crowded constraint. Candidate generator only — cheap != good; second pass = FCF/capex quality read.
+
+### ⚠️ 2026-07-15 ~8:18pm PT — CORRECTION (bull/bear debate forced this): bottleneck ≠ hedge
+The 7/15 screen above framed "own the bottleneck" as the smart, hedged, less-crowded expression of the
+power thesis. A bull/bear stress-test (see [[how-to-get-paid]], debate 2026-07-15) broke that framing.
+**Corrected formulation (Jake, verbatim):**
+> Bottleneck equities are not hedges against an AI-capex slowdown merely because they benefit from
+> scarcity. When their revenues depend on the same hyperscaler spending cycle—and their valuations
+> already capitalize persistent shortages—they are often higher-beta expressions of that cycle. In a
+> deceleration, pure-play suppliers can derate faster than diversified builders with durable underlying
+> cash flows. **Treat bottleneck ownership as a selective return thesis, not portfolio insurance.**
+- Own-receipts: the 7/15 screen itself showed VRT +143% / POWL +241% / GEV +88% at 40–80x EV/EBITDA near
+  highs — the highest-BETA leg of the capex cycle, not a hedge against its reversal. The bottleneck
+  owner's revenue IS the builder's expense: opposite ends of one transaction, not two risk factors.
+- Implication for the screen: `gap_score` still finds *relatively cheap* within the layer, but "cheap
+  bottleneck" is a cheaper bet on the SAME cycle, not insurance against it. The real hedges live
+  elsewhere ([[how-to-get-paid]]: cash, gold, diversified quality).
