@@ -40,3 +40,21 @@ but many items are wire/data quotes (Layer 1). Markets OPEN (~2h into Thu sessio
 - Eli Lilly in talks to buy ATAI (psychedelic) +34%; "big pharma psychedelic buyout spree."
 - Trump Thu primetime address teaser: "China interfered in 2020 election" (Sperry, unverified political wildcard).
 - Trump's DJT to license data to Wall Street (Axios).
+
+## UPDATE — 2026-07-16 ~afternoon-ET feed (Jake 2nd paste; NEW items only)
+- **US began NEW strikes on Iran at 2pm ET today.** Reuters: **booms heard in downtown DUBAI** (Gulf
+  financial center) — escalation beyond the morning. Iraq Basrah still suspended (morning).
+- **Goldman SLASHES global PC shipment forecast** — memory-chip crunch derailing the upgrade cycle.
+  (Memory shortage now DESTROYING downstream demand: high memory prices = MU margin tailwind BUT PC
+  volume headwind = the input-scarcity-hurts-the-payer dynamic, [[compression-thesis]].)
+- **Goldman traders: "The AI market has become a RUBBER BAND" — flagging "potential breaking points."**
+  **JPMorgan: sees the NEED for DELEVERAGING in ETFs** = a headwind for equities (the levered-ETF/Korea
+  thread, now named by the sell side).
+- Debasement cluster loud: "Six Vectors of Gold Remonetization", "The Global Impulse To Devalue" (Capital
+  Flows), "Deflationary Money Hits Different", nuclear FUSION investment +69% to $4.5B. ⚠️ filter (Hanlon/
+  Occam): gold-remonetization is ZH perennial house-view — weight as narrative, not new signal; the
+  "impulse to devalue" IS the denominator thesis though.
+- Das: "Are Stock Markets Repeating Dot.com Mistakes?" = the 2000 analogy Jake argued is WRONG last night
+  ([[compression-thesis]]: Nifty-Fifty, not 2000). Teleprompter operator made $10Ks betting the speech =
+  info-asymmetry ([[how-to-get-paid]] weaponized-against-retail, darkly literal). 1% wealth > entire US
+  middle class combined = distribution axis ([[consumption-vs-investment-crux]]).
