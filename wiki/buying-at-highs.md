@@ -63,3 +63,22 @@ eats the other's revenue — "cheap" is not one category.**
   was never supposed to be all the way out; it gets in next Tuesday and every Tuesday after.
 - "Time in market > timing" = a statement about the CORE bucket only (best days cluster next to worst;
   drift: 24% +3%-weeks vs 16% −3%). It is not a verdict on the tactical sleeve. Split %s = Jake's sizing.
+
+### 2026-07-15 — Jake: "I overvalue all-time highs — they happen all the fucking time"
+- *(Jake's realization)* Was treating ATHs like rare, generational events; they're the normal texture of
+  a rising market.
+- *(analysis)* Data-correct. S&P made 1,000+ record closes since 1950; ~7% of trading days in a normal
+  bull close at a new high (15-20% in strong years). An up-drifting series lives near its highs BY
+  DEFINITION. And the kicker: **buying AT ATHs historically gives equal-or-BETTER forward returns than a
+  random day** — new highs cluster in strong uptrends; ATH = strength, not a ceiling. Every ATH in
+  history was exceeded (that IS "the market goes up"). ([[ath-clustering]])
+- Why overweighted: **salience** — you remember the ATHs before 2000/2007 crashes, forget the thousands
+  followed by more ATHs (survivorship). Plus anchoring ("never been higher → can't go higher" = a feeling,
+  not a fact).
+- Same shape as [[how-to-get-paid]] "permanent wobble": "we're at an ATH" FEELS precarious but is a STATE,
+  not a trigger — market printed new highs for YEARS (late-90s, 2013-20, 2023-25). Treating ATH as a
+  sell/don't-buy signal = warning-vs-trigger error applied to PRICE LEVEL.
+- ⚠️ **The one exception (what actually burned him on MU):** true for the INDEX (diversified, drift-up,
+  ATH benign). NOT true for a single vertical stock — MU +300%/3mo at new highs = idiosyncratic parabola
+  that round-trips. The MU pain was concentration + blow-off, NOT "a high." Index ATH = buyable;
+  single-name blow-off high = different animal. Don't let the index lesson bleed into "chase any high."
