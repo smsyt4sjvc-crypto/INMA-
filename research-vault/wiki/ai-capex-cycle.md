@@ -1645,3 +1645,25 @@ Source: July 2026 Beige Book (`raw/2026-07-15-beige-book-july.md`; Layer-1 offic
   validated. The physical governor on the boom is real and already biting specific projects.
 - Links: [[consumption-vs-investment-crux]], [[power-not-petroleum]], [[buildout-bottleneck-map]],
   [[concentration]], [[ai-financing-fragility]], [[new-economy-regime]] (memory cost-push → CPI).
+
+### 2026-07-16 — IBM inside story (WSJ): capex CANNIBALIZATION confirmed + first insider ROI-doubt (Cohn)
+Source: WSJ "The Inside Story of IBM's Shocking Profit Warning" (Jake paste). Confirms/deepens the 7/14
+IBM-crux read ("reallocation via memory front-running") with board-room detail.
+#### DATA (observed)
+- WSJ: **"investments in AI infrastructure such as memory... are displacing spending on hardware."**
+  IBM customers "treat the tech giant as discretionary," deferring mainframe upgrades (Morgan, Synovus).
+  IBM −25% (worst day in its history); mkt cap <$200B (vs AVGO $1.8T, AMD $800B — the ex-suppliers now dwarf it).
+- **Gary Cohn (IBM vice chair, CNBC):** disruption "might be TEMPORARY… companies are now starting to
+  **question the ROI**… asking whether they should go back to reinvesting in proven enterprise infrastructure."
+- AI displacing SOFTWARE (CRM/WDAY/SNOW — SaaSpocalypse) AND now HARDWARE (IBM).
+#### THESIS (interpretation — NOT fact)
+- *(analysis, the mechanism)* **AI capex is partly ZERO-SUM within enterprise IT — cannibalizing legacy
+  budgets, not purely additive.** Finite IT budget → AI/memory eats it → IBM mainframes deferred. **Ties
+  the MU-memory BULL directly to the IBM BEAR: the memory inflation that's Micron's tailwind IS IBM's
+  headwind (memory eating the customer's budget).** Quietly deflates "AI capex = all new demand" — some is
+  reallocation. Feeds [[compression-thesis]] (the capex-gap) + [[consumption-vs-investment-crux]].
+- *(analysis, the tell)* **Cohn = first INSIDER hint of AI-capex ROI-doubt** — the seed of the bear's
+  capex-cut trigger, from a credible seat. WATCH whether "question the ROI" spreads from IBM's customers to
+  the broad "is AI capex worth it." That jump = the catalyst (still a WARNING, not a fired trigger).
+- *(analysis)* Value-inversion (AVGO/AMD > IBM) is real but the winners are the richly-priced/vulnerable
+  scarcity-sellers (AVGO 24.9x P/S, worst performer 7/16) — [[market-fragility]], [[power-scarcity-equities]].
