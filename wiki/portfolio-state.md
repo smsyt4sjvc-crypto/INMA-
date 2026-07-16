@@ -336,3 +336,22 @@ Source: Jake's 4h Bollinger-Band chart, Apr→Jul (`MU $906.66 −7.78%`; V 16.7
   MIDDLE band (~$1,000+) = "regime restored"** — a higher, stronger bar. Two levels, two degrees of confirm.
 - Links: [[ai-capex-cycle]] (TSMC 7/16), [[retail-edge]] (Bollinger mechanics: middle-band-as-resistance,
   lower-band stretch).
+
+### 2026-07-16 ~8:20am PT — MU re-entry read: TSMC capex hike (bull tell) vs Korea/SOX derisk (headwind)
+Source: ZH feed (`raw/2026-07-16-zh-feed-korea-rotation-war.md`).
+#### DATA (observed)
+- **UBS: "TSMC's Surprise CapEx Hike Reinforces Confidence In AI Supply Chain."** (The TSMC catalyst we
+  set as the MU tiebreaker — capex RAISED = fab buildout demand confirmed.)
+- BUT same tape: **SOX falling, NVDA −1.5%, "capex cut announcements upcoming?"**, and **Korea memory
+  complex (SK Hynix/Samsung) crashing** on the leverage unwind ([[market-fragility]]).
+#### THESIS (interpretation — NOT fact)
+- *(analysis)* **Mixed, not a clean re-entry.** The FUNDAMENTAL tiebreaker leans bullish — TSMC raising
+  capex says near-term AI/memory demand is real (good for MU's shortage). But the TAPE says the whole
+  semi/scarcity-seller complex is de-risking (SOX/NVDA down, Korea memory names in forced liquidation).
+  Fundamental tailwind vs leverage/tape headwind. Net: no clean signal.
+- Discipline holds: still flat, still watching **reclaim + HOLD $907 (50D) → then the 4h middle band**;
+  now with an added **leverage-contagion risk** to respect (Korea → US momentum transmission is live-to-watch,
+  not assumed — [[market-fragility]]). Don't chase the TSMC headline into a semi-complex that's derisking.
+- Note the deeper tension ([[compression-thesis]]): TSMC-capex-up = "capex keeps ripping" (Jake's healthy
+  branch) — but MU is an input-SELLER, so if the Korea memory rout is the front-edge of supply-normalization/
+  demand-derisk, that's MU's scheduled headwind, not its tailwind.
