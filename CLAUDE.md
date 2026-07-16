@@ -147,7 +147,7 @@ Everything INMA hands a client — estimates, agreements, notes sheets, blank fo
 **Totals / fee block** (the fair-market structure)
 - Rows in order: **Subtotal → INMA Services (\_\_%, deducted from subtotal) → New Subtotal + Sales Tax → Contractor Total.**
 - Amounts right-aligned with a leading `$`. **Total / Contractor Total** is bold, gold `#B8941F`, larger (15–18px), on a highlight row (`#F2EEE4`).
-- Permitting footnote under the total (verbatim): "* Contractor may add permitting costs to the final invoice with attached receipts. This is standard practice, as each job's costs are based on valuations." Keeps permits in the contractor's terms, out of the offer number.
+- Permitting/tax footnote under the total (verbatim): "* Contractor may add permitting costs and any applicable sales tax to the final invoice with attached receipts. This is standard practice, as each job's final costs are based on valuations." Keeps permits and final tax in the contractor's terms, out of the offer number.
 
 **Ruled / lined areas** (scope, notes)
 - `repeating-linear-gradient(#fff 0 27–32px, #DAD3C1 27–32px 28–33px)` with a gold left margin `border-left:2px solid rgba(184,148,31,.35)`. Boxes flex-grow to fill the page (no dead space at the bottom).

@@ -583,7 +583,7 @@ function buildEstimateHTML(){
   ${t.hasTax ? `<div class="r"><span>Sales Tax (${escapeHTML(t.taxPct)}%)</span><span>${fmt(t.tax)}</span></div>` : ''}
   <div class="r tot"><span>Contractor Total *</span><span>${fmt(t.contractorTotal)}</span></div>
 </div>
-<p style="font-size:10.5px;color:#666;margin:6px 2px 0;line-height:1.5">* Contractor may add permitting costs to the final invoice with attached receipts. This is standard practice, as each job's costs are based on valuations.</p>
+<p style="font-size:10.5px;color:#666;margin:6px 2px 0;line-height:1.5">* Contractor may add permitting costs and any applicable sales tax to the final invoice with attached receipts. This is standard practice, as each job's final costs are based on valuations.</p>
 
 ${notesBlock}
 

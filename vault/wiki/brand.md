@@ -30,9 +30,10 @@ Source: [[2026-07-10-inma-baseline-ingest]] (repo-root CLAUDE.md §7–8a)
   (`#1C1A17`) with cream letterspaced caps.
 - [2026-07-10] Totals block order (the fair-market structure): **Subtotal → INMA
   Services (__%, deducted) → New Subtotal + Sales Tax → Contractor Total**
-  (bold gold, highlighted). Permitting footnote verbatim: "* Contractor may add
-  permitting costs to the final invoice with attached receipts. This is standard
-  practice, as each job's costs are based on valuations."
+  (bold gold, highlighted). Permitting/tax footnote verbatim: "* Contractor may
+  add permitting costs and any applicable sales tax to the final invoice with
+  attached receipts. This is standard practice, as each job's final costs are
+  based on valuations."
 - [2026-07-10] Footer verbatim: "INMA · Inland Northwest Marketing Affiliates ·
   Spokane, WA · WA UBI #606 027 063 · inmagent.com · (509) 251-7792".
 
