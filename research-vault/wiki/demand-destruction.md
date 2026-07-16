@@ -1052,3 +1052,32 @@ Source: ZH feed (`raw/2026-07-16-zh-feed-korea-rotation-war.md`).
   "refining is the risk"). ⚠️ Calibration: single state-agency headline; location significant, but WHAT was
   hit (oil infra vs. IRGC/military in the city) unconfirmed — don't assume oil infrastructure yet. Watch
   for a wire specifying target + any Abadan/field-specific report. Stacks on the two chokepoint threats.
+
+### 2026-07-16 ~3:20pm ET — Hormuz ALREADY throttled (Kpler); Basra correction; the inflation note
+Source: ZH war update (Jake paste, CENTCOM/Reuters/Kpler/CIC).
+#### DATA (observed)
+- **Kpler: only 13 merchant ships transited Hormuz Wednesday** (8 out of Gulf, 5 in); **only 1 used the
+  US-approved Omani-coast route.** (Normal ≈ 100+/day.) → Hormuz de facto ~90% throttled NOW. Iran running
+  a toll/permission regime ("companies negotiating passage on Tehran's terms").
+- **6th consecutive night of US strikes** (CENTCOM on X, 2pm ET). US "disabled" an unapproved tanker near
+  Iran's main export terminal w/ Hellfires (1st tanker hit since blockade restart). Strikes "focused
+  further north" Thu.
+- Iran retaliation on GULF ALLIES: Kuwait "vital facilities, material damage" (Reuters/Kuwait MoD); Bahrain,
+  Jordan; Kuwait air defenses active vs "hostile drones." **Iran counter-threat formalized:** Khatam
+  Al-Anbiya HQ Col. Zolfaghari — destroy "all infrastructure throughout the region" if US hits Iran infra.
+- ⚠️ **CORRECTION to this-AM log:** Basra suspension was **BRIEF → RESUMED, no fire/damage**, launcher
+  unclear, Iraqi officials downplaying ("loading at normal rates"). Smaller event than the morning headline.
+- 35+ killed / 300+ wounded (Iranian officials). Small de-escalation flicker: US detainee (Dena Karari)
+  handover, Trump "goodwill," strikes "slowing" into a waiting game — drowned by the 6th wave.
+- **CIC economists (Cornen): "The challenge for Trump will be to prevent a further rise in INFLATIONARY
+  pressures... at a time when the situation was beginning to improve in June."**
+#### THESIS (interpretation — NOT fact)
+- *(analysis)* **The Kpler 13-ships is the key reframe: Hormuz's partial closure is a PRESENT FACT, not a
+  future trigger.** Physical transit collapsed ~90% yet Brent ~$85 = the shortfall is BUFFERED (floating
+  storage/inventory) — the vault's "reported vs physical / masked shortfall" thread confirmed with vessel
+  data. **New fuse: floating-storage EXHAUSTION, not closure** (closure already happened quietly; the price
+  break comes when the buffer runs dry). Watch floating-storage drawdown w/o price rise = buffer depleting.
+- *(analysis)* CIC note = the war→oil→inflation→Fed-can't-cut thread on a sell-side desk: the war threatens
+  to REVERSE June's soft prints → delays [[compression-thesis]] input-deflation healing + pressures the
+  "Fed cuts" rescue ([[new-economy-regime]]). The macro cost of the war, named.
+- Links: [[market-fragility]] (oil-shock pays the SPY hedge), [[compression-thesis]], [[new-economy-regime]].
