@@ -72,3 +72,22 @@ it names which side to be on when it does.
 The **companies** will be fine — diversified incumbents heal. Whether the **shareholder** is fine still
 rides entry price + sequencing. "Coke will be fine" and "Coke-at-1972 was a lost decade" were both true.
 The denominator survives every revolution ([[how-to-get-paid]]: old economy retired, denominator eternal).
+
+### 2026-07-16 close — the tape discriminates on the CAPEX-GAP (refines the payer/seller call)
+Source: Jake watchlist screenshot (MAG7+AVGO+TSLA, % today). NOTE: watchlist, not his book (real book =
+SPY puts + cash + 1 LLY + 1 NOW per [[portfolio-state]]).
+#### DATA (observed)
+- Basket −1.83%. **Green: AAPL +1.76%, MSFT +1.38%.** Red: **AVGO −5.03% (worst), GOOGL −4.44%,
+  META −2.46%, NVDA −2.40%, AMZN −1.99%, TSLA −0.86%.**
+#### THESIS (interpretation — NOT fact)
+- *(analysis)* NOT clean input-payer-up/seller-down (this AM's framing). At the close BOTH the chip-SELLERS
+  (AVGO/NVDA) AND the hyperscaler-SPENDERS (GOOGL/META/AMZN) sold off — the whole **AI-capex chain**
+  derisked. The only green = the two names least dependent on the **capex-to-monetization GAP**: AAPL
+  (AI-light, consumer cash machine) + MSFT (most-monetized AI). → the market is discriminating on the GAP =
+  the compression **sequencing razor priced name-by-name** ("does revenue catch the capex," per name).
+  Refines "own payers/fade sellers" → **own the smallest-gap names (AAPL/MSFT-type), fade the widest-gap
+  (spenders) AND the scarcity-sellers.**
+- *(analysis, confirmation)* **AVGO = highest P/S on the 7/16 chart (24.9x) → worst performer today (−5%);
+  NVDA 2nd-highest (20.3x) also down.** The "valuation = fuel load, deepest de-rate when the complex sells"
+  point ([[market-fragility]] 11.9x note) confirmed SAME SESSION. Rich entry falls hardest at any spark.
+  ⚠️ Calibration: 1 day, wobble-sized (−1.83%); the DISCRIMINATION is the signal, not the magnitude.
