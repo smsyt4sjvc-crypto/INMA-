@@ -69,3 +69,24 @@ Wheel · single-stock MA buy-below/sell-above · +X/−X bracket (grid) · SPY w
 All four lost to buy-and-hold in a bull because **each one fights the drift.** Not a coincidence — the
 finding. (Regime-conditional: they'd win in a sideways/lost-decade — a conscious bet on chop, not an
 upgrade. See the SPY POC backtest: −1.6% CAGR / 15y for ~5pts less drawdown.)
+
+## The permanent wobble (Jake, 2026-07-15) — the temperament side of warning-vs-trigger
+- *(Jake's realization)* "New investors pay their toll because of how fragile everything seems — but I
+  think it's just always like that. It's always a balancing act of moving money around and keeping things
+  from falling. A waiter's platter of wine, glasses, and marbles."
+- *(analysis)* This is the [[WARNING-vs-TRIGGER]] rule arrived at from TEMPERAMENT instead of analysis.
+  The market ALWAYS seems fragile — there has never been a day without a credible, articulate crash thesis,
+  and it's compounded ~100x through every one. **The fear is free; acting on it is the toll.** New
+  investors mistake the permanent WOBBLE (the state) for an actual WARNING (a trigger), so they either
+  trade the noise (whipsaw) or can't hold (it always feels like the top).
+- The waiter metaphor extended: the marbles are always rolling, the platter always tilting, the waiter
+  always correcting. To the new diner it looks like disaster every second; to the waiter it's just
+  walking. The skill isn't holding the platter still (impossible — the system IS leverage + maturity
+  transformation + confidence, built to wobble). It's **not flinching at each roll.**
+- **This COMPLETES the fragility thesis, doesn't contradict it:** the ambient dread is the permanent
+  state (hold through it, ignore it); the fragility RESEARCH exists only to name the specific dated fuses
+  that would actually break it (funding-chain, cover ratio, mechanical failure) so you can ignore the
+  noise and watch the real ones. Respect the state, act only on the trigger. Feeling the state constantly
+  while never identifying a real trigger = scared all the time = pays the toll forever.
+- Knowing the wobble is NORMAL is the psychological unlock for bucket 4 (own + hold) — the thing that
+  lets you sit still. It's the temperament the research is useless without.
