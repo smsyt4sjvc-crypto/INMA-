@@ -1033,3 +1033,12 @@ CPI, or in margins?
   opens. The Beige Book is where that flip shows up first.
 - Links: [[consumption-vs-investment-crux]] (capex-driven economy), [[ai-financing-fragility]] (margin
   squeeze = earnings risk), [[demand-destruction]] (Hormuz reversal), [[ai-capex-cycle]] (memory cost-push).
+
+### 2026-07-16 eve — Fed turns HAWKISH; long end UP → cuts against the back-door-easing bull
+Source: scanner digest (`raw/2026-07-16-scanner-digest-eve.md`).
+- DATA: Dallas Fed **Logan calls for "modestly higher" rates**; **Schmid** — inflation above 2% target, cuts
+  DELAYED, "one CPI won't force a cut"; **30-yr mortgage 6.55% = 1-yr HIGH.**
+- *(THESIS)* The [[compression-thesis]] "coerced-Treasury-buying → lower long end → back-door easing" bull
+  (Jake, 7/16) needs the LONG END to FALL. Today it ROSE (mortgages 1-yr high) and the Fed leaned hawkish.
+  = the bear's "objection migrates to the rate / long end won't cooperate" + war→inflation→can't-cut,
+  printing. The easing mechanism is directionally LOSING right now (a warning, not yet a verdict — one day).

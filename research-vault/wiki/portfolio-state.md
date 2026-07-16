@@ -355,3 +355,12 @@ Source: ZH feed (`raw/2026-07-16-zh-feed-korea-rotation-war.md`).
 - Note the deeper tension ([[compression-thesis]]): TSMC-capex-up = "capex keeps ripping" (Jake's healthy
   branch) — but MU is an input-SELLER, so if the Korea memory rout is the front-edge of supply-normalization/
   demand-derisk, that's MU's scheduled headwind, not its tailwind.
+
+### 2026-07-16 eve — MU memory-unwind via Korea (NOT a re-entry); TSMC beat sold
+Source: scanner digest (`raw/2026-07-16-scanner-digest-eve.md`).
+- DATA: MU plunged; "SK Hynix Dives, SOX Socked"; **SK Hynix = 25%+ of KOSPI** (Korea leverage cascade IS a
+  memory cascade → transmits to MU). TSMC **beat Q2 + committed another $100B US** — sold anyway.
+- *(THESIS)* The Korea→US semi contagion flagged this AM MATERIALIZED in the memory names. MU falling with
+  the complex, nowhere near the 907 reclaim → re-entry discipline holds, no signal. TSMC beat = memory demand
+  real (fundamental tiebreaker bullish) BUT the leverage/tape headwind dominates ("good news sold"). Neoclouds
+  (NBIS −13%) unraveling = the "most-exposed first to lighten" call (7/1) firing.
