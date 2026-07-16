@@ -1012,3 +1012,15 @@ Source: ZH feed (`raw/2026-07-16-zh-feed-korea-rotation-war.md`).
   the debate dropped is the one that can move both denominators at once.
 - Watch: crack spreads (refining, JPM thesis), Brent on Basrah, whether Hormuz "red line" → actual closure.
 - Links: [[new-economy-regime]] (energy→CPI), [[compression-thesis]] (input-deflation delayed), [[market-fragility]].
+
+### 2026-07-16 ~PM — explosions at BANDAR ABBAS (Iran Navy HQ, ON Hormuz) — IRIB
+- DATA (IRIB / Iranian state media, single wire): "explosions heard west part of Iran's Bandar Abbas."
+  Bandar Abbas = **Iran's main naval base / Navy HQ**, sits ON the Strait of Hormuz; also Iran's largest
+  container port (Shahid Rajaee). Follows the 2pm-ET new strikes + Dubai booms (`raw/2026-07-16-...war.md`).
+- *(THESIS)* Most strategically loaded strike location of the war so far — a strike at Iran's CAPACITY to
+  close Hormuz. Cuts two ways: DEGRADE (take out the navy before it can close the strait) or PROVOKE (hit
+  the naval HQ → raise odds Iran retaliates by attempting closure — the one thing it threatened). Either
+  way **Hormuz-closure probability rises** = the single hardest oil-mover, the variable the whole
+  [[demand-destruction]]/energy thread hinges on + the [[compression-thesis]] input-deflation delayer.
+  ⚠️ Calibration: single state-media headline; location significant, specifics (what hit/how bad) unconfirmed.
+  Watch: Brent, Hormuz tanker-traffic wires, floating-storage.
