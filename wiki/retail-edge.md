@@ -337,3 +337,30 @@ Source: `tools/mean_reversion_screener.ipynb` Stage 2, 2y, +2.5%/-2.5% single-lo
   where it counts. Next honest test = re-run over a bear/choppy window + credit idle cash a T-bill yield.
 - Links: [[portfolio-state]] (MU downtrend = the untested case), [[consumption-vs-investment-crux]]
   (cash-heavy = the barbell's dry-powder leg, arguably).
+
+### 2026-07-16 — SPY weekly POC overlay backtest: lost to hold (variance trade fails in a bull)
+Source: `tools/spy_weekly_poc_scan.ipynb`, Jake ran 15y, window=6, CASH_YIELD=0.
+#### DATA (observed)
+- **Overlay: +509.5% total, CAGR 12.84%, maxDD -29.0%. Hold: +652.4%, CAGR 14.44%, maxDD -33.7%.**
+  Diff = **-1.60% CAGR** (-143pts total) for only ~5pts less drawdown. 377 trades (~25/yr); 1/3
+  invested only 38% of days.
+- Live scan 7/15: SPY $754.81, POC line $751.09 (+0.49%, TRIM signal). Reliable band TINY:
+  -0.25% / +0.75% (2x/wk floor) = low-vol melt-up regime.
+#### THESIS (interpretation — NOT fact)
+- *(analysis, verdict)* **The overlay failed the test in-sample.** 15y bull → benching a third
+  (62% in cash at 0%) just loses; the adaptive line's crash cushion is weak (drags you back in mid-drop).
+  Gave up a LOT of return for barely-less pain. Prediction scorecard: I guessed -0.5/-1%/yr for
+  meaningful DD cut — reality worse on both. Conceded.
+- *(analysis, fairness)* 0%-idle-cash handicaps it; CASH_YIELD=0.045 (T-bills on the parked third)
+  claws back ~0.8%/yr → ~-0.8%/yr drag for ~5pts DD = a closer call. Re-run pending.
+- *(analysis, regime)* Result is regime-conditional: bad in a BULL (tested), likely BEATS hold in a
+  sideways/lost-decade (2000-10 shape). The overlay = a conscious bet on CHOP, not a general upgrade.
+  Live band (-0.25/+0.75) says we're in the worst regime for it right now.
+- *(analysis, benchmark)* Hypothesis: a STATIC 2/3 SPY + 1/3 T-bills (never traded) beats the POC
+  overlay — same DD cut, third earns 4.5% not 0%, no friction. i.e. the POC market-timing added
+  NEGATIVE value vs just parking the third. Test pending.
+- **Meta (the afternoon's finding):** 4 strategies stress-tested to numbers (bracket, wheel,
+  single-stock mean-rev, SPY POC overlay) — ALL lose to buy-and-hold in a bull because each fights the
+  drift. Jake's edge is regime research + owning the right things, not a trading overlay. Tools proved it.
+- Links: [[consumption-vs-investment-crux]] (own-the-capital + hold), [[market-fragility]] (the chop/
+  trigger regime where these overlays WOULD win), [[portfolio-state]].
