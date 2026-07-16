@@ -1024,3 +1024,21 @@ Source: ZH feed (`raw/2026-07-16-zh-feed-korea-rotation-war.md`).
   [[demand-destruction]]/energy thread hinges on + the [[compression-thesis]] input-deflation delayer.
   ⚠️ Calibration: single state-media headline; location significant, specifics (what hit/how bad) unconfirmed.
   Watch: Brent, Hormuz tanker-traffic wires, floating-storage.
+
+### 2026-07-16 ~12:20pm ET — SECOND chokepoint: Iran tells Houthis to ready Red Sea closure (Reuters)
+- DATA (Reuters via ZH, 3 sources — 2 senior Iranian + 1 regional): **Iran has asked the Houthis to stand
+  ready to close the Red Sea oil route (Bab el-Mandeb) IF the US strikes Iranian POWER infrastructure.**
+  Trigger quote — **Trump (Fox, Tue): "Next week comes the power plants… the bridges… unless they
+  negotiate. We're going to knock out all their power plants."** Context: Saudi bombed Sanaa airport 7/13;
+  Houthis hit Saudi airbases → renewed Saudi-Houthi war risk. Houthis had been sidelined until now.
+- *(THESIS)* **Two oil chokepoints now weaponized at once:** Hormuz (Iran direct — Bandar Abbas strikes
+  7/16) + **Bab el-Mandeb (Houthis, Red Sea/Suez artery ~10-12% of oil trade).** Materially wider oil tail.
+  **Dated IF-THEN trigger (per WARNING-vs-TRIGGER):** US strikes on Iran's GRID ("next week") → Houthi Red
+  Sea closure goes live. Watch: US power-plant strikes = the tripwire; Bab el-Mandeb/Houthi shipping wires.
+  ⚠️ Filter (Hanlon/Occam): Reuters-sourced INTENT/prep, not executed — and the LEAK is itself a deterrent
+  signal (Iran wants the threat public to raise the cost of the power-plant strikes). Read as the escalation
+  ladder drawn in public, part-operational/part-signaling — don't front-run; watch the trigger.
+- Cross-thread: a dual-chokepoint shock = the macro-correlating event that pays the book's SPY hedge
+  ([[market-fragility]] vol-gap). Energy is an INPUT → 2nd chokepoint keeps power/fuel high → DELAYS the
+  [[compression-thesis]] input-deflation healing + pressures the "Fed can cut" rescue ([[new-economy-regime]]).
+  Darkly on-theme: the US is targeting Iran's POWER infrastructure — the constraint the vault has tracked, now militarized.
