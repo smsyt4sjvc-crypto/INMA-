@@ -1042,3 +1042,13 @@ Source: ZH feed (`raw/2026-07-16-zh-feed-korea-rotation-war.md`).
   ([[market-fragility]] vol-gap). Energy is an INPUT → 2nd chokepoint keeps power/fuel high → DELAYS the
   [[compression-thesis]] input-deflation healing + pressures the "Fed can cut" rescue ([[new-economy-regime]]).
   Darkly on-theme: the US is targeting Iran's POWER infrastructure — the constraint the vault has tracked, now militarized.
+
+### 2026-07-16 ~PM — explosions at AHVAZ (Khuzestan = Iran's oil heartland) — FARS
+- DATA (FARS, single wire): "multiple explosions heard on Iran's Ahvaz city." Ahvaz = capital of KHUZESTAN,
+  Iran's oil-production heartland (major fields incl. the Ahvaz field; Abadan refinery complex to the south).
+- *(THESIS)* Potential category shift: from TRANSIT chokepoints (Hormuz/Bandar Abbas, Bab el-Mandeb) to
+  PRODUCTION/REFINING at the source. Chokepoint = flow disrupted (reversible); Khuzestan/Abadan hit = supply
+  DAMAGED (barrels + refining offline, slower to restore). Feeds the crack-spread/refining thread (JPM
+  "refining is the risk"). ⚠️ Calibration: single state-agency headline; location significant, but WHAT was
+  hit (oil infra vs. IRGC/military in the city) unconfirmed — don't assume oil infrastructure yet. Watch
+  for a wire specifying target + any Abadan/field-specific report. Stacks on the two chokepoint threats.
