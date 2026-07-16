@@ -482,3 +482,13 @@ UBS) inside Layer-2 framing.
   premarket session is NOISE, not confirmation** of a multi-year thesis (the whole [[how-to-get-paid]]
   wobble + warning-vs-trigger lesson). Notable rhyme; not vindication. Log it, don't inflate it.
 - Links: [[compression-thesis]], [[ai-financing-fragility]], [[power-scarcity-equities]], [[demand-destruction]].
+
+### 2026-07-16 ~PM — sell side NAMES the leverage risk: Goldman "rubber band", JPM "deleverage ETFs"
+- DATA (ZH, `raw/2026-07-16-zh-feed-korea-rotation-war.md`): **Goldman traders — AI market a "rubber band"
+  with "potential breaking points"; JPMorgan — sees the NEED for ETF DELEVERAGING, a headwind for equities.**
+  Plus **Goldman cut global PC shipment forecast** (memory crunch killing the upgrade cycle).
+- *(THESIS)* The Korea levered-ETF unwind + record US HF leverage now have the SELL SIDE naming the
+  deleveraging risk out loud (Goldman + JPM same day). The leverage-vector the vault has tracked (levered
+  ETFs = ~40% of ETF notional) is going from vault-thesis to consensus-flag — which per warning-vs-trigger
+  is a state getting crowded, still not a fired trigger. Watch: does US momentum start the forced unwind
+  Korea already ran, or hold.
