@@ -74,3 +74,12 @@ The leveraged-equity expression of the grid-scarcity thesis. Related: [[power-no
 ## Sources
 - `raw/pjm-capacity-cooling-2026-07-01.md` (Utility Dive, Zacks/Yahoo, Investing.com).
 - `raw/2026-07-12-zh-geothermal-fervo-quaise.md` (ZH 7/12 + Fervo/Devon PRs, LBRT 8-K, IPO coverage).
+
+### 2026-07-15 — tool: bottleneck-within-the-bottleneck screen
+`tools/power_equipment_screen.ipynb` — screens the grid/transformer/switchgear/electrical-equipment
++ power-construction layer (ETN/GEV/VRT/HUBB/POWL/NVT/PWR/MYRG/ROK/EMR…) for "already run vs still
+cheap": 52w position + 1yr return vs fwd P/E / EV-EBITDA / FCF yield → gap_score (cheap AND un-run).
+IPPs (CEG/VST/TLN) + regulated utils included as reference (the "already priced" and "cheap-but-slow"
+benchmarks). Premise (analysis): the IPP scarcity trade is consensus/priced; the equipment layer that
+physically connects the GW (transformer + electrician shortage, Beige Book 7/15) is the tighter,
+less-crowded constraint. Candidate generator only — cheap != good; second pass = FCF/capex quality read.
