@@ -29,24 +29,35 @@ they're fine on the other side. Logged here retroactively with the date because 
   the *ultimate* downside" ≠ "they skip the 25–35% drop *en route*." Compression and a sharp transition
   drawdown are **not** mutually exclusive — the road dips before it digests. (This is why powder exists.)
 
-## The resolution mechanism (Jake — uses the bear's own key variable as the hinge)
-The compression is the GAP between costs racing ahead now and healing later. It closes when:
-1. **Supply catches up with demand** — memory glut resolves the DRAM/HBM shortage; power eases (turbines
-   now, nuclear/SMR behind) → the input costs of each new capex dollar fall.
-2. **Capex growth stops accelerating** (land-grab phase ends) → the **growth RATE of depreciation slows**
-   (the bear's "never considered" variable, turned into the healing mechanism).
-3. **Revenue grows into the accumulated capex** (monetization arrives) → FCF inflects positive.
-→ Valuations heal **by earnings rising to price**, not price falling to earnings. A *time* correction.
+## The resolution mechanism (Jake — CAPEX DOESN'T HAVE TO DECELERATE)
+Key mechanics: **depreciation is a DOLLAR figure** (dollars spent ÷ useful life); **revenue scales with
+CAPACITY.** Today the dollar figure outruns the capacity figure. It heals when **inputs get cheaper**, so
+each capex DOLLAR buys more CAPACITY → revenue-per-depreciation-dollar rises → the ratio heals **even if
+capex keeps ripping.** (Jake's correction, 2026-07-15, over an earlier draft that wrongly coupled the
+healing to capex *deceleration* — the ambiguous/scary event. You don't need spending to slow; you need
+each dollar to go further.)
+- **Supply catches up with demand** — memory glut resolves the DRAM/HBM shortage; power eases (turbines
+  now, nuclear/SMR behind) → input cost per unit of capacity falls → **depreciation stops outrunning
+  revenue.** ("Supply catches up = inputs get cheaper = depreciation stops outrunning" — one causal chain;
+  it IS the "compute per $" variable rising.)
+- The **best branch, previously excluded:** continued *aggressive* capex (demand CONFIRMED — they keep
+  building) WHILE margins heal (inputs deflate). Healing-through-abundance, not compression-through-restraint.
+- **Revenue also grows into the accumulated capacity** → FCF inflects. Valuations heal **by earnings rising
+  to price**, not price falling to earnings. A *time* correction.
+- **Healing tell = INPUT DEFLATION** (memory $/GB, power $/MWh, GPU $/FLOP falling) — observable and
+  unambiguous — NOT capex deceleration (ambiguous).
 
 ## The razor's edge (where the whole thesis lives or dies)
-**The SAME event — capex growth decelerating / depreciation growth slowing — is BOTH the bull's healing
-AND the bear's trigger.** Which one it is is decided by **SEQUENCING:**
-- Revenue catches up **before** capex rolls over → depreciation slows into rising revenue → **HEAL** (bull).
-- Capex rolls over **before** revenue arrives → it rolled over *because demand disappointed* → depreciation
-  grinds on a base that isn't earning → **COMPRESS on disappointment** (bear).
-Same mechanical event, opposite outcome. The crux is no longer "does productivity come" — it's **"does it
-come before or after the capex rolls over."** Watch the sequencing (the [[how-to-get-paid]] Feb-2027
-per-share window is the read: capex decel + depreciation accel + FCF — is revenue absorbing it yet?).
+"Cheaper inputs" has TWO causes, and they mean opposite things:
+- **SUPPLY-driven deflation** — capacity caught up, more chips/electrons per dollar, while demand & capacity
+  keep CLIMBING → **HEAL** (the bull; margins mend, capex can keep growing).
+- **DEMAND-driven deflation** — prices fall because the BUYING stopped → capex forced to roll over →
+  depreciation grinds on an idle/under-earning base → **COMPRESS on disappointment** (the bear).
+Same falling input price, opposite meaning. So the crux is no longer "does productivity come" — it's:
+**are inputs cheapening because supply caught up to demand (bull), or because demand fell to meet supply
+(bear)?** Watch: input prices falling *with capacity/utilization still rising* = heal; input prices falling
+*with utilization/orders rolling over* = the bear. (The [[how-to-get-paid]] Feb-2027 per-share window reads
+it: is revenue absorbing depreciation *while* capex stays elevated?)
 
 ## Positioning implication (closes the bottleneck≠hedge thread for good)
 "Supply catches up" **heals the input-PAYERS and kills the input-SELLERS.** The memory glut that relieves
