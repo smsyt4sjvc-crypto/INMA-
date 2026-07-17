@@ -91,3 +91,27 @@ SPY puts + cash + 1 LLY + 1 NOW per [[portfolio-state]]).
   NVDA 2nd-highest (20.3x) also down.** The "valuation = fuel load, deepest de-rate when the complex sells"
   point ([[market-fragility]] 11.9x note) confirmed SAME SESSION. Rich entry falls hardest at any spark.
   ⚠️ Calibration: 1 day, wobble-sized (−1.83%); the DISCRIMINATION is the signal, not the magnitude.
+
+### 2026-07-17 (Fri EU pre-open) — TSMC 77% beat SOLD −4%: the January call, on one name, in one session
+Source: Reuters Morning Bid (Jake paste). Global chip rout extended Fri; Taiwan/Japan worst, Korea CLOSED
+(holiday — the Korea leverage-unwind thread is on pause, not resolved).
+#### DATA (observed)
+- **TSMC posted 77% earnings growth (ABOVE expectations) — and the stock SANK 4%.** "Failed to impress."
+- Investors "pulling back from crowded semiconductor trades, concerns over heavy AI spending returning to
+  the fore." EUROSTOXX50 fut −0.9%, DAX −0.6%.
+- **CXMT (Chinese memory maker) $8.6B IPO: over-subscription came in MUCH LOWER than recent Chinese IPOs.**
+#### THESIS (interpretation — NOT fact)
+- *(analysis)* **This IS the compression call, instantiated on the single most important name.** A blowout
+  beat (77%!) sold off = **multiple compression, not earnings failure** — "earnings grow into the valuation
+  instead of the valuation growing" (the Nifty-Fifty mechanism) happening in ONE session on the flagship.
+  Jake's Jan "choppy horizontal compression" call, made literal: the cash flows are *there* and *growing*,
+  the PRICE is what gives. This is the **benign branch** of the razor — supply/demand still tight (77% =
+  demand confirmed), so the selling is positioning/valuation de-risk, NOT a demand roll-over.
+- *(analysis, the counter-amber — razor honesty)* **CXMT's weak IPO appetite is the one demand-side flag.**
+  Cooling appetite for NEW chip paper ≠ cooling chip demand, but it's the appetite/funding gauge softening
+  (cover-ratio cousin, [[market-fragility]] Slok note). Net read: still **compression (price gives, earnings
+  don't)**, not **collapse (demand gives)** — but log the CXMT tell as the datapoint that would grow if the
+  bear branch is the real one. Watch: do beats keep selling (compression) or do the BEATS start shrinking
+  (demand roll = bear)? 77% is not a shrinking beat.
+- ⚠️ Calibration: good news sold is textbook late-run multiple-compression; it is ALSO textbook early-topping.
+  The tape can't tell you which yet — only whether the earnings themselves hold (they did, this print).
