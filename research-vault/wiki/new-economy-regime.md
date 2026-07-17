@@ -1042,3 +1042,33 @@ Source: scanner digest (`raw/2026-07-16-scanner-digest-eve.md`).
   (Jake, 7/16) needs the LONG END to FALL. Today it ROSE (mortgages 1-yr high) and the Fed leaned hawkish.
   = the bear's "objection migrates to the rate / long end won't cooperate" + war→inflation→can't-cut,
   printing. The easing mechanism is directionally LOSING right now (a warning, not yet a verdict — one day).
+
+### 2026-07-17 ~11:50pm PT — Labor market FREEZING (JOLTS-vs-hiring); a viral "cover-up" claim, filtered
+Source: Jake paste of a viral monologue ("job openings 146% of hires = cover-up"). Numbers CLAIMED, NOT
+independently verified here (data tools not used). Logging the STRUCTURE + the real signal, not the video.
+#### DATA (observed / as-claimed)
+- Video's frame: openings 6.9M/hires 5.5M (Mar), openings 7.6M/hires 5.2M (Apr), ~46% "gap" held (May) →
+  "openings 146% of hires = fake jobs cover-up." **⚠️ CLAIMED figures, unverified.**
+- The part that's structurally solid regardless of the exact numbers: **net job growth 214k (Mar) → 148k
+  (Apr) → 129k (May) → 50k (Jun) — a collapsing hiring trend.**
+#### THESIS (interpretation — NOT fact)
+- *(correction of the video's math)* **Category error: openings is a STOCK** (unfilled positions on the
+  last business day) **vs hires is a FLOW** (total over the month). Comparing them as a "gap %" is
+  units-mismatched (reservoir level vs monthly tap flow). Openings > monthly-hires has been the OPENLY
+  DISCUSSED regime since 2021; the ratio PEAKED ~1.8x in 2022 and 1.46 is **DOWN from peak = normalizing**,
+  not a hidden record. "Record highs / cover-up" is likely wrong on the level.
+- *(filters, live application of [[_assumption-filters]])* **Goodhart bites FOR the video:** ghost/evergreen
+  postings are real — once openings became a watched "strength" metric it decoupled from hiring. So "some
+  postings aren't real" = TRUE. **But Occam + Hanlon kill the CONSPIRACY:** stock/flow units + banal stale
+  reqs + a cooling hire rate explain every number without coordinated intent; thousands of firms
+  independently leaving reqs up is emergent mess, not a plot. Verdict: **fake postings yes, cover-up no.**
+- *(the signal that matters for US)* The buried trend — **net job growth collapsing 214k→50k** — is the real
+  tell: the hiring engine is FREEZING ("no-hire/no-fire," labor hoarding). Two vault linkages:
+  1. **Fed Trap sharpens** ([[market-fragility]]): a cracking labor market is normally the disinflation that
+     LETS the Fed cut (the bull rescue). Cracking WHILE war/oil inflation runs = Fed **can't cut into it** =
+     stagflation-lite tighter. This is the labor face of the GDP decel (2.9→1.3%).
+  2. **Demand-side vote on the [[compression-thesis]] razor:** falling hiring → softer consumer → inputs
+     cheapening because DEMAND fell to meet supply (the BEAR branch), not supply catching up (benign). A
+     frozen labor market is a point for the bear's reading of the razor.
+- ⚠️ Calibration: one viral video + unverified figures; the hiring-trend collapse is the durable part and
+  worth its own data pull. WARNING (a cooling STATE), not a dated TRIGGER — labor can freeze for quarters.
