@@ -364,3 +364,18 @@ Source: scanner digest (`raw/2026-07-16-scanner-digest-eve.md`).
   the complex, nowhere near the 907 reclaim → re-entry discipline holds, no signal. TSMC beat = memory demand
   real (fundamental tiebreaker bullish) BUT the leverage/tape headwind dominates ("good news sold"). Neoclouds
   (NBIS −13%) unraveling = the "most-exposed first to lighten" call (7/1) firing.
+
+### ACCOUNT CONSTRAINTS (durable — "remember my limits", logged 2026-07-17 ~11am PT)
+- **Broker: Fidelity.** **Options approval: TIER 1.**
+  - **PERMITTED (Tier 1):** covered calls, buy-writes, rolling covered calls, buying calls/puts (long),
+    **selling cash-covered puts (CSPs)**, long straddles/strangles. (Verified vs Fidelity's 3-tier structure.)
+  - **FORBIDDEN at Tier 1** (need Tier 2 = spreads; Tier 3 = naked/uncovered, short straddles): **no spreads,
+    no naked writing.** → defined-risk is enforced BY the tier. A feature, not a bug.
+- **Trading capital for this project: ~$1,000.** Assume cash account (no margin; don't use it).
+  - Implication: a CSP ties up strike×100 in cash → **one CSP at a time on a ~$5–10 name** (maybe two on $5).
+    A learning/proof vehicle, NOT income (~$20–60/mo premium). Scales later.
+- **Fidelity has NO retail order-placement API** (unlike Alpaca/IBKR) → the LIVE account is **manual**: the
+  system proposes, Jake clicks. Automated/paper testing runs on a separate Alpaca paper account.
+- The validated edge ([[where-the-edge-is]] VRP) expressed within these limits = **the wheel, regime-gated**:
+  sell CSP above the 200-day on a liquid quality name → if assigned, sell covered calls → repeat. Design doc:
+  `trading-system/constitution.md`.
