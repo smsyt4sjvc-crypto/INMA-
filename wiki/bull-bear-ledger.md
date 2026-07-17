@@ -137,3 +137,28 @@ END SIGNALS (the ones that actually mark tops):
   them down (the prediction ritual + kill-switch branches), rebalance not time. Convergence.
 
 - **Bull/bear debate 2026-07-15 → BEAR won cleanly (Round 4).** Full record + surrendered props + the bear's winning proposition + defensive-instruments-by-function: [[how-to-get-paid]]. Correction it forced: bottleneck ≠ hedge ([[power-scarcity-equities]]).
+
+### 2026-07-17 ~8:20am PT — the 401k "floor" claim, made testable (Jake's probe)
+Jake: can we track Fidelity/Vanguard 401k rebalance flows for a mechanical bid to exploit — and test the
+bear's debate point that *"401k confirms the cleared price, it does not provide a floor"*?
+#### What's observable vs NOT (the premise correction)
+- **NOT observable:** Fidelity/Vanguard do **not disclose 401k rebalance TRANSACTIONS.** Contributions settle
+  end-of-day at NAV; aggregate flows aren't published intraday. There is no feed of "Fidelity bought SPY at T."
+  The literal "watch when they trade → fade the reaction" has no data under it. (ICI/EPFR give weekly/monthly
+  flow *aggregates* with a lag — not tradeable transactions.)
+- **Observable = the FINGERPRINT:** the mechanical bid shows as a **calendar signature**, not a tape.
+  (a) **payroll drip** → month-end concentration = the **turn-of-the-month (TOM) effect** (decades-documented:
+  much of the market's total return has clustered in last-day + first-3-days). (b) **Target-date funds** (Vanguard/
+  Fidelity TDFs, trillions in 401ks) rebalance to fixed ratios → after stocks beat bonds they are **forced to
+  SELL stocks into month-end** = a real, desk-front-run rebalance flow.
+#### The mechanism read (why the bear is probably right)
+- A **price-INSENSITIVE** bid (buys at any price) **amplifies trend up but does not catch drawdowns** — and in
+  a real bear the flow **reverses** (job losses → fewer contributions = the denominator, ties [[new-economy-regime]]
+  labor-freeze). So structurally it **confirms the cleared price, it does not floor.** 2008/2022 drawdowns were
+  not stopped by 401k flow. This is the bear's exact point, mechanically.
+- **Bucket check ([[how-to-get-paid]]):** even IF a TOM edge is real, it's bucket-1 (mechanical) and DECADES
+  public → **Goodhart says it's largely arbitraged.** Any survivor is thin and front-run at month-end.
+#### The test (built: `tools/passive_bid_fingerprint.ipynb`)
+- T1 TOM effect + % of total return it holds. T2 (the payoff) **TOM split by 200-day regime — floor vs confirm:**
+  bear confirmed if TOM is strong ABOVE the 200d but weak/negative BELOW it. T3 TDF rebalance drag (big
+  equity-over-bond month → weak last-3-days = mechanical sell). **Pending Jake's run** — verdict goes here.
