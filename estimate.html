@@ -76,6 +76,9 @@
   .totals .tax-inline{display:flex;align-items:center;gap:8px}
   .totals .tax-inline input{width:70px;padding:6px 8px;background:#25221d;border:1px solid #3a352e;border-radius:8px;color:#F5F2ED;font-family:inherit;font-size:14px;text-align:right;-webkit-appearance:none}
   .totals .tax-inline input:focus{outline:none;border-color:#B8941F}
+  /* Fee % is the number Jake sets every job — make it obviously editable. */
+  .totals .tax-inline input.fee-input{width:80px;font-size:17px;font-weight:700;color:#F5F2ED;background:#2c2820;border:1.5px solid #B8941F;padding:8px}
+  .totals .fee-hint{font-size:12px;color:#B8941F;opacity:.85;padding:4px 0 2px;text-align:right}
 
   /* navbar */
   .navbar{position:fixed;bottom:0;left:50%;transform:translateX(-50%);width:100%;max-width:880px;padding:14px 20px 20px;padding-bottom:calc(20px + env(safe-area-inset-bottom));background:#1C1A17;border-top:1px solid #3a352e;display:flex;justify-content:space-between;align-items:center;gap:12px;z-index:10}
@@ -396,9 +399,10 @@ function renderTotals(){
   const t = computeTotals();
   $('#totalsBox').innerHTML = `
     <div class="line"><span>Subtotal</span><strong id="tSub">${fmt(t.subtotal)}</strong></div>
-    <div class="line"><span class="tax-inline">INMA Services <input id="feePctInput" type="number" inputmode="decimal" step="0.01" placeholder="0.0" value="${escapeAttr(state.feePct)}">% <small style="opacity:.5;font-size:12px">deducted</small></span><strong id="tFee">${t.hasFee ? '– ' + fmt(t.inmaFee) : '—'}</strong></div>
+    <div class="line"><span class="tax-inline"><strong style="font-weight:700">Your INMA Fee</strong> <input id="feePctInput" class="fee-input" type="number" inputmode="decimal" step="0.01" placeholder="0" value="${escapeAttr(state.feePct)}">% <small style="opacity:.5;font-size:12px">deducted</small></span><strong id="tFee">${t.hasFee ? '– ' + fmt(t.inmaFee) : '—'}</strong></div>
+    <div class="fee-hint" id="feeHint" style="${t.hasFee ? 'display:none' : ''}">↑ Set your fee % for this job — it prints on the offer sheet</div>
     <div class="line"><span>New Subtotal</span><strong id="tNewSub">${fmt(t.newSubtotal)}</strong></div>
-    <div class="line"><span class="tax-inline">Sales Tax <input id="taxPctInput" type="number" inputmode="decimal" step="0.01" placeholder="0.0" value="${escapeAttr(state.taxPct)}">%</span><strong id="tTax">${t.hasTax ? fmt(t.tax) : '—'}</strong></div>
+    <div class="line"><span class="tax-inline">Sales Tax <input id="taxPctInput" type="number" inputmode="decimal" step="0.01" placeholder="0" value="${escapeAttr(state.taxPct)}">%</span><strong id="tTax">${t.hasTax ? fmt(t.tax) : '—'}</strong></div>
     <div class="line big"><span>Contractor Total</span><strong id="tTotal">${fmt(t.contractorTotal)}</strong></div>
   `;
   const recompute = () => {
@@ -407,6 +411,7 @@ function renderTotals(){
     $('#tNewSub').textContent = fmt(t2.newSubtotal);
     $('#tTax').textContent = t2.hasTax ? fmt(t2.tax) : '—';
     $('#tTotal').textContent = fmt(t2.contractorTotal);
+    $('#feeHint').style.display = t2.hasFee ? 'none' : '';
   };
   $('#feePctInput').addEventListener('input', e => { state.feePct = e.target.value; recompute(); });
   $('#taxPctInput').addEventListener('input', e => { state.taxPct = e.target.value; recompute(); });
