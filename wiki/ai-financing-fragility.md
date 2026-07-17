@@ -429,3 +429,9 @@ next big Mag7 debt issuance and its bid-to-cover — the thing retail can't see.
   real). Spreads snap back / deals clear next week = it was angst, not rupture. Watch the deal calendar.
 - Links: [[compression-thesis]] (razor/cash-gen), [[market-fragility]] (leverage/angst), [[_assumption-filters]]
   (tiers — tripwire fired), [[portfolio-state]] (the SPY puts' scenario).
+- **UPDATE ~7:43am PT (scanner):** partial answer to the "get a NAMED credit" ask — **"Hyperscalers Are
+  Dragging Down Bond Gauges Across Global Markets"** (cross-market, confirms it's not one deal) and
+  **"Is Oracle's debt becoming a bigger risk for investors?"** — **ORACLE = the named stressed credit
+  emerging.** Still NOT a pulled/failed deal or a printed <2x cover, so it stays *respect-the-trajectory*,
+  not *rupture-confirmed*. Watch Oracle's next issuance / CDS. Also same scroll: JPMorgan — chips sliding
+  "despite absolutely rock-solid earnings power" = the beat-sold/multiple-compression read named by the desk.

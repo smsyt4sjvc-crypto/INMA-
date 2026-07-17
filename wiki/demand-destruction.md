@@ -1120,3 +1120,25 @@ Source: ZeroHedge feed scroll (Jake paste). Reported claims.
   Fed-Trap compounder (oil-inflation while growth/labor soften = can't-cut). The SPY puts ([[portfolio-state]])
   are positioned for exactly this confluence — DESCRIPTIVE, not a call to add.
 - ⚠️ Calibration: the escalation is the highest it's been; the PRICE hasn't confirmed. Fuse armed ≠ fuse lit.
+
+### 2026-07-17 ~7:43am PT — FUSE STATUS UPDATE (scanner): oil FINALLY moves, but Red Sea STILL OPEN
+Source: vault headline scanner digest (Jake ran the tool). Cross-checked vs the 7:20am fuse-armed entry.
+#### DATA (observed / as-reported)
+- **Oil confirmed moving: WTI breaks $81, Brent $86.09, prices +3%** — Brent back ABOVE the ~$85 buffer
+  line the vault flagged. Trigger cited: Iran expanded attacks (Syria, Bahrain; **Kuwait desalination +
+  power plant hit** = civilian infrastructure).
+- **BUT the fuse is NOT lit:** "*Strait of Hormuz closure: Why crude oil prices haven't spiralled out of
+  control*" AND — the tell — "***Fourteenth Korean oil tanker successfully transits through Red Sea.***"
+  Red Sea is **still open**; tankers still moving.
+- Gold FELL below $4,000 on a risk-off day (confirms [[how-to-get-paid]] "gold = debasement, not equity
+  hedge" — didn't catch the fear bid today).
+#### THESIS (interpretation — NOT fact)
+- *(analysis)* **This is risk-PREMIUM creep, not fuse ignition.** The buffered-shortfall thesis said the
+  price break comes from buffer EXHAUSTION *or* Red Sea CLOSURE. Today: Brent nudged $85→$86 on escalation
+  risk premium, but the Red Sea (14th tanker through) hasn't closed and oil "hasn't spiralled." So the +3%
+  is the buffer giving a *little* on fear, NOT the buffer breaking. **The falsifiable fuse remains: a Houthi
+  Red Sea CLOSURE headline, or Brent breaking decisively higher on a physical (not headline) shortfall.**
+  $86 is a creep; watch for the gap, not the tick.
+- Sequenced status: escalation ladder = **highest yet** (US hit Iran energy infra; Iran → Qatar base, now
+  Syria/Bahrain/Kuwait civilian). Price = **creeping** ($86, not spiraling). Chokepoint = **still open.**
+  Fuse ARMED + smoldering, not yet LIT. Book unchanged.
