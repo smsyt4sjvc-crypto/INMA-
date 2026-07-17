@@ -9,6 +9,12 @@ standalone repo later.
 > Design order (non-negotiable): **constraints → vehicle → laws → paper → (much later) live.** You design
 > AROUND the constraints, not the other way around.
 
+> **Destination repo (created 2026-07-17):** `github.com/smsyt4sjvc-crypto/Alpaca-Claude` (PRIVATE, README +
+> Python .gitignore). This `trading-system/` folder is built in the vault (where Claude has push access) and
+> TRANSPLANTS into Alpaca-Claude later (from a computer, or a session where that repo is in Claude's scope).
+> Claude currently CANNOT push to Alpaca-Claude (out of GitHub-tool scope). First file into it = a .gitignore
+> that excludes secrets/config; keys ALWAYS via gitignored config/env, NEVER hardcoded or committed.
+
 ## §0 — ACCOUNT CONSTRAINTS (the foundation; everything is built on these)
 - **DECISION 2026-07-17: the project runs in a SEPARATE, RING-FENCED account — NOT Jake's main Fidelity.**
   Safety principle: *bound the downside to a number you can name.* A dedicated account caps the blast radius at
