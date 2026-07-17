@@ -1157,3 +1157,20 @@ Source: ZeroHedge feed (Jake paste).
 - ⚠️ Still not the fuse: no Red Sea closure headline yet; oil "session highs" ≠ a physical-shortfall gap.
   **Watch: does the PORT-strike escalation pull a Houthi Red Sea response, or a physical Iranian export cut**
   → that's the buffer-break/closure trigger. Fuse ARMED, ladder climbing, price creeping. Book unchanged.
+
+### 2026-07-17 ~12:58pm PT — ⚠️ CORRECTION: CENTCOM says the Syria "US troops killed/captured" claim is FALSE
+Source: **@CENTCOM** fact-check post (Jake paste, last edited 7:09am ET 7/17, 279K views).
+#### DATA (observed)
+- CENTCOM: **CLAIM** — "Iranian forces claim they attacked al-Tanf Garrison in Syria and captured or killed
+  American troops" → **FALSE.** **FACT** — "No U.S. troops in the region have recently been killed or captured."
+#### THESIS (interpretation — NOT fact)
+- *(correction)* The ~12:30pm "IRGC targets US command center in Syria, *unprecedented attack*" rung (a ZH
+  relay of the Iranian claim) is **propaganda-contaminated** — the damaging part (US casualties/capture) is
+  officially DENIED by CENTCOM. Downgrade that rung: an Iranian *claim*, not a confirmed US-casualty event.
+- *(the class lesson — why Jake flagged it to remember)* **War escalation headlines are an INFO-WAR** — both
+  sides overclaim. Same discipline as the Basra "loadings suspended" correction and the Kpler-vs-headline
+  reframe: **treat escalation claims as CLAIMS until a neutral/official source confirms; the fog favors
+  overstatement.** An unverified "US troops killed" headline is exactly the kind of thing that spikes an oil
+  fear-bid on nothing. Verify the rung before you climb it.
+- Net: doesn't de-escalate the *real* war (US IS striking Iran infra; oil IS creeping) — but the ladder had a
+  fake rung, now removed. Fuse status unchanged: armed, not lit.
