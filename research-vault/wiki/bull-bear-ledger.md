@@ -207,3 +207,24 @@ mechanistically-coherent patterns:
   "*where* is the mechanical bid" (payday, month/quarter start) — NOT "is it still a tradeable edge."
 - Net for Jake's ask: patterns EXIST and land exactly where flow theory predicts (satisfying confirmation the
   bid is real & visible); tradeability pends the decay check. Bucket-1 mechanical either way — not his edge to farm.
+
+### 2026-07-17 ~9:01am PT — conditioning day-1 on momentum (`tools/momentum_through_first.ipynb`, 438 months)
+Also ruled out the straddle first (`first_of_month_options.ipynb`): day-1 is a DRIFT not a vol event, so no
+long-premium edge. Then tested whether momentum sharpens the day-1 DIRECTION:
+- **The one robust conditioner = the 200-DAY regime** (which we already had). Day-1 **above 200d: +28.7 bp,
+  63% win (n=334); below 200d: −13 bp, 52% (n=104)** — but below is −13 mean vs +3.7 MEDIAN = coin-flip w/
+  fat left tail (2008-type days), not reliably negative. Reconfirms the passive-bid gate at day-1 frequency.
+- **Prior-month momentum is a NOISE TRAP — rejected.** Quintile→day-1 is NON-monotonic: Q1 +11.5, Q2 +24.7,
+  Q3 +26.1, **Q4 −1.5 (46% win, the only losing bucket), Q5 +33.0.** No economic story has Q4 as a black hole
+  between two strong buckets → small-sample noise (n≈88). The Q4 hole is the discipline check: "Q5=69%!" alone
+  would have fooled us. **Prior-month momentum does not reliably predict day-1.**
+- **Stacking momentum on the gate HURTS:** combo (prior-month-up AND above-200d) = **+24.9 bp < 200d-alone
+  +28.7 bp.** Parsimony: ONE gate (200d), not two. Prior-month filter is redundant-to-harmful.
+- **Day-1 vs days1-3 diverge:** day-1 leans MOMENTUM (after up months +20.8 vs +15.2); days1-3 lean BOUNCE
+  (after DOWN months +34.8 vs +25.7 — rebound spread across 3 days). No single clean story.
+- **A strong START does NOT predict the month:** corr(days1-3, rest) = **−0.06** (~zero). Rest drifts up
+  regardless; the +61 vs +43 bp split is noise on the baseline drift.
+- **Verdict:** directional predictability improves ONLY via the 200-day regime (modest 61%→63% win), the same
+  gate already known; prior-month momentum dissolves under the monotonicity test. Rule if ever leaned on:
+  take the early-month bid ABOVE the 200d, skip BELOW, don't layer momentum. Tradeability unchanged (sub-0.3%,
+  underlying-only, options dead). **Still-owed decisive test: rerun ≥2018 for decay.**
