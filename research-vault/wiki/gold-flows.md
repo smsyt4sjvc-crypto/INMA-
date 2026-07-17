@@ -30,5 +30,31 @@ Related: [[market-fragility]], [[portfolio-state]]. Source: Kobeissi Letter post
 - Whale 13F pull: **Loeb (Third Point) ADDED gold** — smart-money direction opposite the ETF
   tourists. ⚠️ 13F is stale (45-day lag) — treat as directional, not current.
 
+### 2026-07-17 ~9:28am PT — central banks "flood back," China +48t; Jake: "is it time to buy gold?"
+Source: ZeroHedge headline (Jake paste). Gold ~$4,000 (FELL below $4k on 7/17 risk-off — did NOT catch the
+fear bid; see [[how-to-get-paid]] "gold = debasement, not equity hedge"). **DESCRIPTIVE — no buy rec; size/
+timing is Jake's.**
+#### DATA (observed / as-reported)
+- **Central banks buying again, led by China +48 tons** after a brief hiatus. (The exact driver of gold's
+  run per the ETF-tourist note above — physical, quarterly-reported sovereign demand.)
+#### THESIS (interpretation — NOT fact)
+- *(analysis)* This IS the debasement mechanism showing in the data: CB buying is **price-insensitive**
+  (reserve diversification / de-dollarization, not P&L) → the structural bull's core support, resuming.
+- *(three reasons it is NOT a timing signal)* (1) **State, not trigger** — CBs net buyers since ~2022
+  (post-Russia-sanctions); "flood *back*" is the same multi-year trend breathing. (2) **Lagging disclosure**
+  — the 48t is a past purchase reported now. (3) **Narrative-tiers ([[_assumption-filters]]):** "CBs flood
+  back into gold" on ZH is the *retail-wire tier* of what the mechanism tier (WGC reserve data / sovereign
+  flows) knew quarters ago — late/confirming, not early.
+- *(the razor)* Structural CB demand (BULL) vs crowded/parabolic **positioning** unwinding (gold <$4k on a
+  red day + Roberts' bubble critique + silver's Jan crash = BEAR). Same falling price, opposite meaning —
+  unresolved. Tell: does the CB bid absorb the positioning washout (structure wins) or does it keep bleeding
+  as crowded longs puke (positioning wins)?
+- *(the bucket question — the real decision)* Debasement **insurance** (bucket-4, held years, sized small,
+  never panic-sold) → entry timing ~irrelevant, and $4k-post-pullback beats the parabolic top. Trading the
+  **headline** (bucket 2/3) → a momentum bet on a lagging, well-known, price-insensitive flow = thin edge,
+  retail tier buying what sovereigns bought quarters ago. Gold is the debasement referee, NOT the equity/
+  crash hedge (that's the SPY puts) — size it as insurance against the unit of account, not the AI unwind.
+
 ## Sources
 - `raw/kobeissi-gold-outflows.md` (screenshot text). Session read 2026-06.
+- 2026-07-17 ZH "central banks flood back into gold, China +48t" (Jake paste).
