@@ -7,7 +7,17 @@ survives in git (the repo is the persistence layer — the container is ephemera
 ## Layout
 - `raw/`  — drop zone for sources: PDFs, transcripts, pasted commentary, screenshots, article text. Never edited, just stored. This is the evidence locker.
 - `wiki/` — the notes I write and maintain. One idea per file. Cross-linked with `[[wiki-links]]`.
+- `index.md` — the MAP: table of contents of the wiki, grouped by theme + the spine. Read it after this file to know what exists and where. **Keep it current** — regenerate/extend when notes are added or renamed (a stale map is worse than none).
+- `predictions/` — nightly calibration (point + range + kill-switch), graded next session → `_scoreboard.md`.
+- `tools/` — token-free Colab notebooks/scripts (screens, scanners, backtests).
+- `trading-system/` — the SEPARATE Alpaca-Claude project (its own `CLAUDE.md`/laws), staged here to transplant.
 - `CLAUDE.md` — this file. How the vault runs.
+
+## Session flow (the compounding loop)
+Start: read this file → `index.md` (the map) → the relevant spine notes. Work. End: file new knowledge into
+`wiki/` (firewall-split), update any note touched, extend `index.md` if notes were added, commit + push. Every
+session leaves the vault smarter for the next. (This is the Karpathy/Obsidian second-brain pattern — which the
+vault already implements; we add the DATA/THESIS firewall + the predictions calibration loop on top.)
 
 ## Commands (say these in chat)
 - **"ingest this"** (with a file in `raw/` or pasted text) → I read it, extract the claims, create or update the relevant `wiki/` note(s), add `[[links]]` to related notes, and record the source under a `## Sources` heading with the date.
