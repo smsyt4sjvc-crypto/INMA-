@@ -68,3 +68,23 @@ News prices in TIERS, each moving at a different time. Where a headline SITS tel
   still *clearing*). Vibe running ahead of plumbing = fade setup, not respect setup — *until the plumbing
   catches up.* **Tripwire to watch = the next big Mag7 debt issuance and its bid-to-cover** (the thing retail
   can't see). Links: [[market-fragility]] (Slok cover-ratio), [[compression-thesis]] (razor), [[how-to-get-paid]].
+
+## Worked example — "insiders selling at near-record pace" (searched 2026-07-17)
+Jake flagged the ZH headline; we pulled the specifics rather than trust the scare. Verdict: **noise dressed
+as a warning, with a bullish tell underneath.** A clean 3-filter teardown:
+- DATA (sourced): US insider **buy/sell ratio 0.23** Jul-2026 (hist avg ~0.39 — sell-skewed, real); peaked
+  **Jan-2026 at 4.83 sell/buy** (most unbalanced since 2021). **NVDA+PLTR+META insiders ~$15.6B** sold;
+  **NVDA ~$3.3B** (Puri $148M, Stevens $100M+ Dec25–Mar26, CFO Kress ~$28M). Counter: **28 XLK execs BOUGHT
+  open-market in 6mo = record-high COUNT**; separate headline "record number of tech insiders BUYING 2026."
+- **Denominator filter** (the vault's recurring tell): "near record" is a DOLLAR figure. Megacap comp is
+  equity-based + stocks up ~2000%/5yr → routine 10b5-1 exercises throw off headline dollars mechanically.
+  Same inflation as depreciation-is-a-dollar-figure and the JOLTS "record" — the metric inflates with the
+  very thing (price) it's supposed to warn about.
+- **Buying-is-signal / selling-is-noise asymmetry:** insiders buy for one reason, sell for a thousand
+  (tax, diversification, pre-scheduled 10b5-1). So the informative metric is the BUYING breadth — which is
+  at a RECORD, and it's *bullish*. The scary metric and the real signal point OPPOSITE ways.
+- **Warning-vs-trigger:** as a *valuation* barometer, heavy selling into rich prices rhymes with
+  [[compression-thesis]] (insiders trimming a fully-priced market) — but it TIMES NOTHING (sell-skewed all
+  year while the market ripped; Jan's 4.83 was 6mo + one ATH ago). A STATE, not a fuse. Do not act on it.
+- **The rule this reinforces:** read the BREADTH, not the DOLLARS. Sources: GuruFocus (buy/sell ratio),
+  Tickeron (Jan 4.83), Motley Fool ($15.6B), TECHi (NVDA $3.3B), Yahoo Finance (record buying).
