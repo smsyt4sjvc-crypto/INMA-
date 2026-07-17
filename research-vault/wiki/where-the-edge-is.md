@@ -82,3 +82,26 @@ are inflated fantasy numbers, NOT tradeable as-is.)
 - **→ The brokerage constitution's first clause (see the trading-system idea):** *harvest vol ONLY above the
   200-day, defined-risk, sized for the residual tail; regime research = the finer stand-down on top.* Earned,
   with 30y of evidence. This is [[where-the-edge-is]] made concrete + [[market-fragility]] as the stand-down.
+
+### DECAY RECHECK — 2026-07-17 ~10:49am PT (`tools/vol_risk_premium_decay.ipynb`, full / 2010+ / 2019+): EDGE IS LIVE
+The one test that could have killed it CONFIRMED and STRENGTHENED it.
+- **The raw premium barely aged:** VRP win rate 85% / 84% / 84% and mean +4.05 / +3.70 / +3.84 across the
+  three eras. Structural overpricing of insurance doesn't decay.
+- **Naive always-short DID decay** (Sharpe 1.81 → 1.42 → **0.89**) — as predicted: everyone learned to sell
+  vol; 2020/2022 mauled the blind sellers. Modern naive short-vol is barely worth it.
+- **The 200-day-GATED harvest got BETTER, not worse:** Sharpe 5.42 → 5.63 → **6.18**, and **income kept 87% →
+  116% → 161%.** In the modern era, gating by the 200-day made **61% MORE total return than always-short AND
+  cut drawdown ~8x** (−486 → −57). The filter flipped from a small give-up to a *free lunch* (more return +
+  less risk) — because the decay that killed naive sellers lives BELOW the 200-day, exactly where the gate
+  stands flat. The force that decays the naive harvest is the force the gate feeds on.
+- **Why trustworthy (not hindsight):** the 200-day is an **ex-ante, real-time** signal — no lookahead, a
+  causal rule you could have followed live in 2008/2020/2022. That's what separates it from every overfit
+  coin-flip (those needed to predict the future; this only reads the present).
+- ⚠️ Caveats unchanged + one: Sharpe 6.18 is a **fantasy/stylized** number (no greeks/costs/roll/skew) — the
+  RELATIVE dominance is bulletproof, the absolute is NOT tradeable; **2019+ is ~7.5y resting on dodging just
+  2020 + 2022** (small crash-count, don't over-extrapolate); 200-day is lagging (bolt-from-blue from above
+  still bites — the residual −57/−32 IS those). Turning stylized → tradeable (which options/width/size) = the
+  Sinclair layer, still owed.
+- **STATUS: clause one earned AND battle-tested through 2020/2022. Decay recheck = the last open gate, now
+  closed favorably.** Went from "everything's a coin flip" to a live, structural, regime-gated edge with 35y +
+  two crashes of evidence — in one session. Next: the trading-system constitution (paper-first, laws-as-code).
