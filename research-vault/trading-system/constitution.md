@@ -39,6 +39,11 @@ standalone repo later.
   margin puts. Belt AND suspenders (account-enforced + risk-engine-enforced). Behavior modeled: saw an unwanted
   risk and turned it off STRUCTURALLY so the mistake is impossible, rather than relying on willpower. That IS
   the project's discipline. (Leverage now moot — multiplier stays 1; risk engine still asserts cash-secured.)
+- **Paper options approval = LEVEL 3** (covered calls, CSPs, long calls/puts, spreads, covered straddles,
+  multi-leg — all DEFINED-RISK; NO naked writing on the list). Alpaca won't let paper downgrade to L1 — a
+  non-issue: the approval level is the broker's CEILING on order types, not our constraint. What we trade is
+  governed by (a) margin=1 (can't exceed cash) + (b) the risk-engine allowlist (wheel only). Ceiling > floor;
+  we never walk up to the ceiling. Level matters only on the LIVE account (applied for separately; expect L1–2).
 
 ## §1 — THE VEHICLE (what the constraints force, and it's the right tool)
 **The regime-gated wheel:**
