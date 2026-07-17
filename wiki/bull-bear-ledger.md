@@ -161,4 +161,25 @@ bear's debate point that *"401k confirms the cleared price, it does not provide 
 #### The test (built: `tools/passive_bid_fingerprint.ipynb`)
 - T1 TOM effect + % of total return it holds. T2 (the payoff) **TOM split by 200-day regime — floor vs confirm:**
   bear confirmed if TOM is strong ABOVE the 200d but weak/negative BELOW it. T3 TDF rebalance drag (big
-  equity-over-bond month → weak last-3-days = mechanical sell). **Pending Jake's run** — verdict goes here.
+  equity-over-bond month → weak last-3-days = mechanical sell).
+#### RESULTS — Jake ran it 2026-07-17 (SPX ~1993–2026, 8,441 days). **BEAR CONFIRMED.**
+- **T1 — month-turn tilt is REAL.** TOM days avg **6.58 bp/day vs 3.44 bp** rest (~**1.9x**), 16.6% vs 8.7%
+  annualized; TOM = 19% of days but **~31% of total (log) return** (over-proportional). ⚠️ Self-correction:
+  the tool first printed "10% of return" from a flawed compounded-ratio; the additive/return-weighted share
+  is ~31%, and the clean unambiguous stat is the 1.9x per-day. A mechanical month-turn bid exists.
+- **T2 — FLOOR vs CONFIRM = the bear, decisively.** TOM **ABOVE 200d: +11.28 bp/day (+28% ann)**; TOM
+  **BELOW 200d: −7.19 bp/day (−18% ann).** The month-turn bid is strongly positive in uptrends and **NEGATIVE
+  in downtrends** → it **confirms the cleared price, it does NOT floor.** Exactly the bear's debate claim,
+  now empirical. *Refinement (honest):* TOM-bear (−7.19) is LESS bad than rest-bear (−11.47) → the drip is a
+  mild **shock-absorber** (falls ~4 bp/day less) but never an absolute floor (still loses). Cushions, doesn't catch.
+- **T3 — TDF rebalance-drag NOT found (my hypothesis rejected).** corr(equity-over-bond spread, last-3-day) =
+  **+0.13** (predicted negative); after months stocks CRUSHED bonds, last-3-days = **+44 bp** (momentum, not
+  a rebalance sell). Either the rebalance flow is too small vs the inflow bid, front-run earlier, or momentum
+  dominates. No tradeable month-end rebalance-sell signal.
+- **Exploitability verdict (Jake's original ask):** the tilt is real but **not a standalone edge** — it's
+  bucket-1 mechanical + decades-public (**Goodhart → likely arbitraged**; the last-8-years decay recheck is
+  still owed), and it's **regime-gated** (only pays above the 200d, reverses below). So it's a "lean a hair
+  more when already in an uptrend," not a floor to buy against. **The real payoff was answering the bear:
+  the 401k/passive bid amplifies trend and cushions mildly, but provides no floor.** Confirms [[how-to-get-paid]]
+  Round-4 outcome from a second, independent (mechanical) angle.
+- Open thread: rerun T1/T2 on ≥2018 only — is the month-turn tilt still alive or arbitraged to zero?
