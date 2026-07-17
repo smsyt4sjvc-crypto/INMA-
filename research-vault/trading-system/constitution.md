@@ -34,6 +34,11 @@ standalone repo later.
   account. This is the live proof of "laws as CODE, not suggestions." First risk-engine job = assert full cash
   is reserved before any short put; reject anything that would use margin/leverage. (Live phase: consider a
   CASH account to get the broker guardrail back, or keep margin + enforce in code — decide before funding.)
+- **✅ RESOLVED same session (Jake, unprompted):** set **max margin multiplier 4 → 1** → buying power now = cash
+  ($100k), **no leverage possible.** The broker guardrail is RESTORED — the account itself now prevents naked/
+  margin puts. Belt AND suspenders (account-enforced + risk-engine-enforced). Behavior modeled: saw an unwanted
+  risk and turned it off STRUCTURALLY so the mistake is impossible, rather than relying on willpower. That IS
+  the project's discipline. (Leverage now moot — multiplier stays 1; risk engine still asserts cash-secured.)
 
 ## §1 — THE VEHICLE (what the constraints force, and it's the right tool)
 **The regime-gated wheel:**
