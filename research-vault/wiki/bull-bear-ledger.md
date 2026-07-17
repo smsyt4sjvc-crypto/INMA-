@@ -183,3 +183,27 @@ bear's debate point that *"401k confirms the cleared price, it does not provide 
   the 401k/passive bid amplifies trend and cushions mildly, but provides no floor.** Confirms [[how-to-get-paid]]
   Round-4 outcome from a second, independent (mechanical) angle.
 - Open thread: rerun T1/T2 on ≥2018 only — is the month-turn tilt still alive or arbitraged to zero?
+
+### 2026-07-17 ~8:46am PT — mechanical-bid pattern ATLAS results (Jake ran it; `tools/mechanical_bid_patterns.ipynb`, SPX 1990–2026, 9,201 days)
+Open-ended fingerprint map (not the floor test). **The bid is NOT diffuse — it beats on PAYDAY.** Surviving,
+mechanistically-coherent patterns:
+- **First trading day of month = +18.71 bp/day, 61% win** vs ~3.26 bp baseline (**~6x** daily intensity) —
+  the single loudest signal. Decays fast: day2 +7.1, day3 +2.7, baseline by day4. The bid is a *first-of-month*
+  event (fresh allocations), not a smeared "turn."
+- **Payday clustering:** calendar **1st (±2d) +17.35 bp, 15th (14–16) +10.21 bp** vs **+2.19 other** — the
+  **semi-monthly payroll cadence.** Closest thing to a smoking gun that the bid IS the contribution flow.
+- **Quarter-end > month-end > baseline:** +8.23 > +6.13 > +3.26 bp — the quarterly institutional/TDF rebalance
+  is bigger than the monthly drip (hypothesis supported).
+- **Counterintuitive:** the ACTUAL last day is soft (−1.23 bp) while the penultimate is strong (+11.15) — bid
+  front-runs into day −1, true close sags (rebalance sell landing?). And **OpEx week is a DRAG** (+1.84 vs
+  +4.57) — dealer gamma, opposite sign, a different mechanical effect.
+- Seasonality (general, not payday-specific): Nov +10.81 best, Sep −3.41 / Aug −2.04 worst. DoW weak (Tue/Wed edge).
+#### Honesty / exploitability
+- **"Annualized %" OVERSTATES harvestable return** — it's per-day intensity ×252, but there are only **12
+  first-days/yr**: a day-1-only strategy ≈ **~2.3% gross/yr** before costs/gap/idle-cash. Intensity dramatic,
+  harvest small + concentrated.
+- **Goodhart:** most-documented anomaly in the book → probably arbitraged. **The decisive open test = rerun on
+  ≥2018 only** (does day-1 / payday still pay, or did quants eat it since?). Until then: the atlas answers
+  "*where* is the mechanical bid" (payday, month/quarter start) — NOT "is it still a tradeable edge."
+- Net for Jake's ask: patterns EXIST and land exactly where flow theory predicts (satisfying confirmation the
+  bid is real & visible); tradeability pends the decay check. Bucket-1 mechanical either way — not his edge to farm.
