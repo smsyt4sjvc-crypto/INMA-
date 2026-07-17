@@ -1081,3 +1081,19 @@ Source: ZH war update (Jake paste, CENTCOM/Reuters/Kpler/CIC).
   to REVERSE June's soft prints → delays [[compression-thesis]] input-deflation healing + pressures the
   "Fed cuts" rescue ([[new-economy-regime]]). The macro cost of the war, named.
 - Links: [[market-fragility]] (oil-shock pays the SPY hedge), [[compression-thesis]], [[new-economy-regime]].
+
+### 2026-07-17 ~9:56pm PT (Fri EU pre-open) — Iran hits US FACILITIES directly (escalation notch)
+Source: Reuters Morning Bid (Rae Wee, Jake paste).
+#### DATA (observed)
+- **Iran said it launched fresh attacks on US facilities in the Gulf on Friday**, after a **6th consecutive
+  night** of US strikes on Iranian military facilities. (Prior nights: Iran hit US *Gulf allies* — Kuwait,
+  Bahrain, Jordan. This is Iran → **US** facilities.)
+- Brent not quoted in this wire; no new closure headline. EU futures soft on chip rout, not war.
+#### THESIS (interpretation — NOT fact)
+- *(analysis)* Escalation VECTOR, not yet the fuse. The dated fuse is **US strikes on Iran INFRA/power →
+  Houthi Red Sea closure** (Zolfaghari's formalized counter-threat). Iran hitting *US* facilities raises the
+  odds of a US response *against Iranian infrastructure* — i.e. it pushes toward the infra-strike that arms
+  the Red Sea trigger. Watch for: US retaliation naming Iranian power/energy targets = fuse lit. Absent that,
+  still buffered (floating-storage exhaustion remains the price fuse, per 7/16 Kpler note).
+- ⚠️ Calibration: markets "brushed off" the war again (EU down on CHIPS, not Iran). The permanent-wobble
+  read holds — war is loud, price is chips-led. Nothing actionable; powder/hedge unchanged.
