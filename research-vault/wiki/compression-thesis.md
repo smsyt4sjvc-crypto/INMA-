@@ -147,3 +147,27 @@ Source: ZeroHedge feed scroll (Jake paste). Reported claims; the cluster is the 
 - ⚠️ Calibration: still a WOBBLE-to-warning tape, not a fired crash. The DISCRIMINATION (AAPL>NVDA, payer/
   seller) is the high-conviction read; "scaling is over" is a headline, not a verdict. Weight the razor, not
   the ZH adjective.
+
+### 2026-07-17 ~9:35am PT — the razor cuts WITHIN semis: memory/storage GREEN, compute/GPU RED
+Source: Jake reading the slickcharts S&P snapshot (SPY 745.33 −0.72% = AT his Dec-745 put strike).
+#### DATA (observed)
+- GREEN in a red chip tape: **MU +3.25% ($880.94), SanDisk SNDK +4.17% ($1,469.88), Seagate STX up** (WDC
+  same bucket, check). RED: **NVDA −1.51%, AVGO** (compute/GPU/networking). Breadth ugly, tech-led (QQQ
+  −1.13% vs DIA −0.32%). Energy the other green pocket (XOM +1.82%, Brent-$86 war premium).
+#### THESIS (interpretation — NOT fact)
+- *(analysis — finer discrimination)* 7/16 = the WHOLE AI chain derisked together. 7/17 = the tape now splits
+  WITHIN semis: **compute/GPU/scarcity-sellers (NVDA/AVGO, high P/S) DOWN, memory/storage (MU/SNDK/STX/WDC,
+  cheap) UP.** The capex-gap razor priced at sub-sector level — not "AI good/bad" but *which part.*
+- *(why memory holds — 3 reads)* (1) **Kimi/DeepSeek efficiency shock is a COMPUTE story, not memory** —
+  efficiency cuts the GPU bill (kills NVDA scarcity) but memory/storage demand tracks data volume/deployment,
+  not compute intensity → the week's bear catalyst hits compute far harder. Cleanest. (2) **Low-fuel-load
+  corner in a multiple derisk** — memory/storage at a fraction of AVGO's ~25x P/S (which fell hardest 7/16);
+  cheap bleeds less. (3) short-cover/mean-revert off the SOX bear-market plunge.
+- *(⚠️ razor caveat — memory-up is NOT the benign heal)* The compression HEAL = supply catches up → memory
+  GLUT → cheaper inputs relieve the hyperscaler-PAYERS, and that glut is terminal for memory pricing power.
+  So memory bid on **shortage/pricing-intact** = the input-SELLERS winning = payers' margin squeeze NOT
+  resolving = arguably the OPPOSITE of the heal. Tell: memory up on a pricing/shortage catalyst (payers still
+  squeezed) vs a cheap-corner bounce (just rotation). Don't misread green memory as thesis-confirmation.
+- MU $881 = a BOUNCE, not a reclaim; the $907 (50-day) "regime restored" trigger ([[portfolio-state]]) unmet.
+- *(book, descriptive)* SPY 745.33 = the Dec-745 puts are now AT-the-money (~50Δ) — the market came down to
+  the hedge. No action implied; size/timing Jake's.
