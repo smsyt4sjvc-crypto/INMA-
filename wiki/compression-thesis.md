@@ -115,3 +115,35 @@ Source: Reuters Morning Bid (Jake paste). Global chip rout extended Fri; Taiwan/
   (demand roll = bear)? 77% is not a shrinking beat.
 - ⚠️ Calibration: good news sold is textbook late-run multiple-compression; it is ALSO textbook early-topping.
   The tape can't tell you which yet — only whether the earnings themselves hold (they did, this print).
+
+### 2026-07-17 ~7:20am PT — the RAZOR moment: China "DeepSeek 2.0"; AAPL overtakes NVDA (#1); CXMT correction
+Source: ZeroHedge feed scroll (Jake paste). Reported claims; the cluster is the signal.
+#### DATA (observed / as-reported)
+- **"Futures Tumble As Latest Chinese 'DeepSeek Moment' Sparks Chip Meltdown"**; **"China Erases America's
+  AI Lead, Goldman Says 'Age Of Scaling' Is Over."**
+- **APPLE OVERTAKES NVIDIA as world's most valuable company.** SOX (Philly Semi) **set to enter BEAR MARKET
+  (-20%)**; NFLX **-12%** (most since Apr-2022); SpaceX private mark **-38% / -$1T from peak**; Mag7 all
+  lower premkt (NVDA -2.4%, AMZN -1.4%). "bye bye momo."
+- **CORRECTION to 7/17 CXMT note:** the *retail* portion of the CXMT IPO is **212x oversubscribed** (vs the
+  Morning Bid's "overall over-subscription much lower than recent deals"). So: **institutions cool, RETAIL
+  rabid.** Not "weak appetite" flat — it's a SPLIT.
+#### THESIS (interpretation — NOT fact)
+- *(analysis — the razor, sharpened by the efficiency shock)* A Chinese "DeepSeek moment" is **compute-per-
+  dollar RISING** = the literal [[compression-thesis]] input-deflation variable ("each capex dollar buys
+  more capacity"). By the thesis's own mechanism that is the SUPPLY-side HEAL. **But the market is pricing
+  it as the BEAR** (chip meltdown, "scaling is over") because the same efficiency **kills the SCARCITY/
+  scaling trade** (why build $4-8T of GPUs if you can do it cheap?). This is the razor's edge made live:
+  same fact (cheaper compute), opposite meaning for PAYER vs SELLER. And the tape VOTED the thesis's
+  positioning call: **AAPL (smallest capex-gap, AI-light cash machine) → #1, NVIDIA (widest-gap scarcity-
+  seller) → #2.** The 7/16 "own smallest-gap, fade scarcity-sellers" discrimination confirmed at the TOP of
+  the market. Payers heal, sellers de-rate — exactly the "supply catches up kills the input-SELLER" call.
+- *(analysis — the honest danger)* Efficiency-heal for the payers only holds IF the financing survives. The
+  same-day [[ai-financing-fragility]] bond carnage is what turns "benign input-deflation heal" into "the
+  buildout was mis-sized and the debt reprices" — i.e. supply-heal (bull) vs demand/premise-break (bear)
+  now hinges on the DEBT, not just the chips. "Age of scaling over" is ambiguous; a failed bond deal is not.
+- *(analysis — CXMT split)* Institutions cool + retail 212x = **distribution to retail at the top** — the
+  [[_assumption-filters]] tiers again (retail buying the symbol as the mechanism tier backs away). Arguably
+  MORE bearish than uniform weak appetite: smart money out, dumb money in on the same paper.
+- ⚠️ Calibration: still a WOBBLE-to-warning tape, not a fired crash. The DISCRIMINATION (AAPL>NVDA, payer/
+  seller) is the high-conviction read; "scaling is over" is a headline, not a verdict. Weight the razor, not
+  the ZH adjective.
