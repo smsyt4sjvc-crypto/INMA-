@@ -26,6 +26,15 @@ standalone repo later.
   the whole loop on paper for MONTHS, zero real $ at risk; (3) only then fund the small live account; (4)
   graduate size on a clean paper+live record. The build needs reps, not money — paper gives unlimited reps free.
 
+### §0.1 — MILESTONE + a key finding (2026-07-17 ~11:52am PT): paper API CONNECTED; it's a MARGIN account
+- ✅ Alpaca paper connection test passed: status ACTIVE, cash $100,000, **buying power $400,000 (4x)**, PDT flag None.
+- **⚠️ Buying power 4x cash = a MARGIN account.** Consequence: **Alpaca will let us sell puts on MARGIN (naked)**
+  — unlike Fidelity Tier 1 (cash), which physically forbids it. **The broker guardrail is GONE.** Therefore the
+  "cash-secured / defined-risk only" law MUST be enforced in OUR code (the risk engine), not assumed from the
+  account. This is the live proof of "laws as CODE, not suggestions." First risk-engine job = assert full cash
+  is reserved before any short put; reject anything that would use margin/leverage. (Live phase: consider a
+  CASH account to get the broker guardrail back, or keep margin + enforce in code — decide before funding.)
+
 ## §1 — THE VEHICLE (what the constraints force, and it's the right tool)
 **The regime-gated wheel:**
 1. Sell a **cash-secured put** on a liquid, quality, optionable name you'd genuinely be happy to own, at a
