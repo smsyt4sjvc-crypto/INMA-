@@ -99,3 +99,31 @@ power thesis. A bull/bear stress-test (see [[how-to-get-paid]], debate 2026-07-1
 - Implication for the screen: `gap_score` still finds *relatively cheap* within the layer, but "cheap
   bottleneck" is a cheaper bet on the SAME cycle, not insurance against it. The real hedges live
   elsewhere ([[how-to-get-paid]]: cash, gold, diversified quality).
+
+### 2026-07-17 ~4:39pm PT — PJM auction: grid scarcity CONFIRMED official (7GW short, 500MW new supply)
+Source: UtilityDive/ZeroHedge (Jake paste). PJM = largest US grid operator, 67M people, Mid-Atlantic+Midwest
+(= "data-center alley" / Virginia). Jake: "one of those 'well duh' moments in 2 years."
+#### DATA (observed)
+- PJM capacity auction cleared **~7 GW BELOW its reliability target**; drew only **~500 MW of NEW supply.**
+- **FERC Chair Swett: "alarm bells... PJM failed to deliver"**; stakeholder process "slow where it must be
+  fast." Commissioner LaCerte (last week): status quo "untenable." Tech conference Jul 23 on PJM governance.
+- **FERC set NERC deadlines for data-center/crypto ("computational load") RELIABILITY STANDARDS + registration
+  rules by Dec 31**; proposed standards out for comment in August (NERC Large Loads Action Plan).
+#### THESIS (interpretation — NOT fact)
+- *(analysis — thesis confirmed)* Official, hard confirmation of the [[power-not-petroleum]] structural
+  scarcity thesis: the grid is short of RELIABILITY (not just growth), and **new supply is NOT coming** (500MW
+  ≈ nothing vs a 7GW hole). The binding constraint on the AI buildout is physical and getting worse, not better.
+- *(analysis — cuts the compression heal)* This CHALLENGES the "power eases (turbines now, nuclear/SMR behind)"
+  leg of the [[compression-thesis]] input-deflation heal. If capacity is NOT catching up (PJM says it isn't),
+  power stays a scarce, expensive input → the hyperscaler-PAYERS' margin squeeze on the power line does NOT
+  resolve, and the input-SELLERS' scarcity rent persists longer. A point AGAINST the benign "supply catches
+  up" branch, at least on the power leg.
+- *(analysis — the AI-capex constraint gets a regulatory clock)* The NERC data-center reliability standards
+  (Dec 31) = grid regulators formally treating data-center load as a destabilizer → interconnection limits/
+  curtailment risk = a potential brake ON the buildout itself (can't deploy capex you can't power). Watch the
+  August proposed standards.
+- *(⚠️ discipline — scarcity REAL ≠ scarcity-equities CHEAP)* The bottleneck≠hedge correction above still
+  holds: PJM confirms the scarcity is real, but the power/IPP/equipment names already capitalize it (VRT/POWL/
+  GEV 40–80x, and fell hardest 7/16). **Real structural tailwind, likely-priced trade.** And WARNING-vs-TRIGGER:
+  grid inadequacy is a multi-YEAR STATE (permitting/build takes a decade) — Jake's "well duh in 2 years" is
+  exactly right: obvious in hindsight, slow-burn, times NOTHING. A structural confirmation, not a dated fuse.
