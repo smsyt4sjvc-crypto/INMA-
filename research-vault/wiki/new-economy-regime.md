@@ -1044,8 +1044,9 @@ Source: scanner digest (`raw/2026-07-16-scanner-digest-eve.md`).
   printing. The easing mechanism is directionally LOSING right now (a warning, not yet a verdict — one day).
 
 ### 2026-07-17 ~11:50pm PT — Labor market FREEZING (JOLTS-vs-hiring); a viral "cover-up" claim, filtered
-Source: Jake paste of a viral monologue ("job openings 146% of hires = cover-up"). Numbers CLAIMED, NOT
-independently verified here (data tools not used). Logging the STRUCTURE + the real signal, not the video.
+Source: **Jake's OWN post** (revealed 7/17 — "that's me, it was a post lol"; originally logged as a viral
+paste). Numbers CLAIMED, NOT independently verified here. Logging the STRUCTURE + the real signal. NOTE: the
+stock/flow correction below stands regardless of author — the analysis was run blind before attribution.
 #### DATA (observed / as-claimed)
 - Video's frame: openings 6.9M/hires 5.5M (Mar), openings 7.6M/hires 5.2M (Apr), ~46% "gap" held (May) →
   "openings 146% of hires = fake jobs cover-up." **⚠️ CLAIMED figures, unverified.**
@@ -1070,5 +1071,32 @@ independently verified here (data tools not used). Logging the STRUCTURE + the r
   2. **Demand-side vote on the [[compression-thesis]] razor:** falling hiring → softer consumer → inputs
      cheapening because DEMAND fell to meet supply (the BEAR branch), not supply catching up (benign). A
      frozen labor market is a point for the bear's reading of the razor.
-- ⚠️ Calibration: one viral video + unverified figures; the hiring-trend collapse is the durable part and
-  worth its own data pull. WARNING (a cooling STATE), not a dated TRIGGER — labor can freeze for quarters.
+- ⚠️ Calibration: one post + unverified figures; the hiring-trend collapse is the durable part and worth its
+  own data pull. WARNING (a cooling STATE), not a dated TRIGGER — labor can freeze for quarters.
+
+### 2026-07-17 ~7:13am PT — UMich sentiment bounce is a STALE truce-window snapshot (survey timing trap)
+Source: ZeroHedge (Jake paste), UMich prelim July.
+#### DATA (observed)
+- Headline sentiment **49.5 → 54.4** (exp 51.0), highest since Feb; 2nd straight ~10% monthly jump. Rebound
+  off record 46-yr June low. All 5 components up; **durables buying conditions +20%, yr-ahead biz +20%.**
+- Driver (Hsu, Dir. of Surveys): **easing pump prices** in recent weeks. Gains pervasive across
+  age/income/wealth/party, **particularly strong among consumers WITHOUT a bachelor's** (the bottom-half,
+  gas-sensitive cohort). **Yr-ahead inflation expectations 4.6% → 4.2% (still elevated).**
+- Hsu's own caveat: momentum "difficult to sustain if recent declines in gas prices continue to reverse."
+- **⚠️ THE KEY LINE: interviews Jun 23–Jul 13, but >70% completed BEFORE the Jul 7 resumption of US strikes
+  and the subsequent gas-price rise.** The print measures the PRE-escalation calm.
+#### THESIS (interpretation — NOT fact)
+- *(analysis)* **Backward-looking, gas-driven, and already reversed.** Same staleness pattern as the Beige
+  Book "Hormuz reopening → falling gasoline" (flagged stale by ~a week): this is a snapshot of the truce
+  window, and 70%+ of it predates the 6th-night escalation + gas re-rise now on the tape. Next month faces
+  Hsu's own reversal headwind. **Do not read this as "the consumer is fine NOW."**
+- *(analysis, the tension that matters)* **Sentiment bounced (backward, gas) while the labor market is
+  FREEZING (forward, net job growth 214k→50k above).** Feel-good coincident print vs deteriorating forward
+  crack — classic divergence. The sentiment is the lagging pump-price feel; the jobs data is the leading
+  break. Weight the jobs.
+- *(razor / Fed)* The whole bounce rode ONE input (gas = a supply/price variable), now reversing → the
+  demand-side support is fragile ([[compression-thesis]] razor: is consumer strength real or just cheap
+  gas?). Inflation expectations easing (4.6→4.2) is a dovish crumb, but still-elevated + war-gas reversal
+  threatens to re-lift it = the [[market-fragility]] Fed-Trap "can't-cut" thread intact.
+- ⚠️ Calibration: near-zero actionable; a stale coincident print. Logged for the timing trap + the
+  sentiment-vs-labor divergence, not the headline beat.
