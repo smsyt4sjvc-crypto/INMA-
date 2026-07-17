@@ -228,3 +228,21 @@ long-premium edge. Then tested whether momentum sharpens the day-1 DIRECTION:
   gate already known; prior-month momentum dissolves under the monotonicity test. Rule if ever leaned on:
   take the early-month bid ABOVE the 200d, skip BELOW, don't layer momentum. Tradeability unchanged (sub-0.3%,
   underlying-only, options dead). **Still-owed decisive test: rerun ≥2018 for decay.**
+
+### 2026-07-17 ~9:06am PT — does the month BODY (day 3–22) carry through the turn? (`tools/body_momentum_carry.ipynb`, 439 mo)
+Jake's intra-month version: after the day-1 pop wears off, does the SAME month's body momentum carry through
+the tail + into next month's 1st? **Answer: NO through the turn; a whisper into next-day-1; faint REVERSAL if
+anything.**
+- **corr(body, TURN) = 0.00** — dead flat. Body-quintile→turn is a random U-shape (Q1 +54.7, Q2 +6.9, Q3
+  +14.2, Q4 +48.1, Q5 +55.5 — worst AND best bodies both give strong turns). The turn bid fires regardless of
+  the body. Definitive: **the body has no say over the turn.**
+- **corr(body, next_day1) = +0.10** (on the noise bar): body-up→next-day1 +23.3bp/63% vs down +12.2/57%, BUT
+  quintiles wobble (Q1 14.8 > Q2 12.0; Q4 27.7 > Q5 19.7) → non-monotonic → marginal-to-nothing, don't trust.
+- **Faint MEAN-REVERSION, not momentum:** corr(body, tail2) = −0.12 (weak body → stronger month-end bounce,
+  +18.6 vs +3.9); next-month body also bigger after DOWN bodies (+59.6 vs +36.4). Tired bodies bounce, hot
+  bodies cool. Weak but opposite to the momentum hypothesis.
+- **Meaning — confirms the mechanical thesis:** corr(body,turn)=0 BECAUSE the turn bid is FLOW-driven (payday/
+  rebalance), fired independent of price action — you can't predict a plumbing event from momentum. The only
+  conditioner that ever worked = the 200-day gate, i.e. the flow's on/off switch (inflows continue in bull,
+  reverse in bear), not a momentum read. **No carry, no new edge.** Mechanical-bid thread now saturated;
+  remaining open item is the ≥2018 decay sweep across all these tools.
