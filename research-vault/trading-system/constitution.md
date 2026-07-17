@@ -65,3 +65,14 @@ standalone repo later.
 ## §5+ — LAWS AS CODE (to be written)
 *(placeholder — the enforceable risk engine: instrument allowlist, max position % , defined-risk-only assert,
 daily-loss kill-switch, max open positions, mandatory audit log, phone-flippable global HALT.)*
+
+## §6 — OPERATIONAL SECURITY (account safety — a law, not an afterthought)
+- **API secret = account password.** Never shared, never in a public repo, never in chat. Leaked → regenerate
+  immediately (kills the old key). Paper keys now; same discipline so it's automatic when live.
+- **2FA app backup, not reliance on broker recovery.** Alpaca's own 2FA recovery is clunky (forum-confirmed).
+  Mitigate by backing up the AUTHENTICATOR APP (Authy cloud backup w/ password, or Google Authenticator sync)
+  → lost phone = re-sync, no dependence on broker codes.
+- **LIVE-phase requirement (before real money):** saved recovery/backup codes in **2 separate secure places**
+  (password manager + one offline). Paper phase: app-backup suffices. Different stakes, different rigor.
+- Principle: the fastest way to lose a trading account isn't a bad trade — it's losing ACCESS or leaking a KEY.
+  Treat key management + recovery as clause-level laws.
