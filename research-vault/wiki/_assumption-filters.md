@@ -49,3 +49,22 @@ Before a thesis goes load-bearing (spine-level, or sized into the book): run it 
 Occam, Chesterton**, with **Hofstadter** on any timing claim. If it survives those four, it's earned its
 weight. If it only survives by assuming a plan (Hanlon), a watched metric (Goodhart), an elaborate
 mechanism (Occam), or a retired fence (Chesterton) — flag it and downgrade its confidence.
+
+## Reading the feeds — narrative diffusion tiers (Jake, 2026-07-17)
+News prices in TIERS, each moving at a different time. Where a headline SITS tells you how late it is:
+1. **Mechanism tier** — bond desks watching bid-to-cover, FCF/maturity-wall modelers. Prices FIRST, in flows.
+2. **Deep-press tier** — FT/Bloomberg/WSJ long-reads (depreciation, circular financing). Prices second.
+3. **Retail-wire tier** — the Morning-Bid vibe line ("AI spending concerns returning to the fore"), hung on
+   the most liquid, easiest-to-narrate SYMBOL (7/17: TSMC — a *foreign supplier*, the pick-and-shovel proxy,
+   not the American spenders or their debt). Prices LAST. Retail sells the symbol; it can't see the plumbing.
+- **Edge lives in the GAP between tiers**, and DECAYS the moment the vibe hits the retail wire. "Reuters
+  caught up to us" reads as *early* but means *the crowd is now on it* = a more crowded place to stand.
+- **The discipline: trade the MECHANISM, not the vibe.** Retail wire = sentiment turned; the bond
+  market/next issuance = whether it's JUSTIFIED. They decouple:
+  - **vibe without mechanism** (retail scared, bonds still clear, capex guides up) → *fadeable* fear.
+  - **mechanism without vibe** (a Mag7 deal fails to clear / capex guided DOWN while retail's asleep) → the
+    dangerous one; respect it.
+- **7/17 state:** retail has the vibe; mechanism has NOT confirmed (TSMC 77% + guides up; <2x-cover bonds
+  still *clearing*). Vibe running ahead of plumbing = fade setup, not respect setup — *until the plumbing
+  catches up.* **Tripwire to watch = the next big Mag7 debt issuance and its bid-to-cover** (the thing retail
+  can't see). Links: [[market-fragility]] (Slok cover-ratio), [[compression-thesis]] (razor), [[how-to-get-paid]].
