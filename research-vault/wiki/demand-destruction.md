@@ -1142,3 +1142,18 @@ Source: vault headline scanner digest (Jake ran the tool). Cross-checked vs the 
 - Sequenced status: escalation ladder = **highest yet** (US hit Iran energy infra; Iran → Qatar base, now
   Syria/Bahrain/Kuwait civilian). Price = **creeping** ($86, not spiraling). Chokepoint = **still open.**
   Fuse ARMED + smoldering, not yet LIT. Book unchanged.
+
+### 2026-07-17 ~12:30pm PT — war WIDENS: US destroys Iran PORT tower, refueling planes to Israel, oil session highs
+Source: ZeroHedge feed (Jake paste).
+#### DATA (observed / as-reported)
+- **US CONFIRMS IT DESTROYED IRAN'S PORT SURVEILLANCE TOWER** — US now striking Iran **PORT** (export-relevant)
+  infrastructure, not just energy/military. **IRGC targeted a US COMMAND CENTER in Syria** ("unprecedented").
+- **US sending DOZENS MORE REFUELING PLANES to Israel** (Axios) → widening, sustained air campaign signaled.
+- **Oil RISES to session highs** (Brent). Goldman's Asia desk explaining a **Japan crash** (Asia risk-off broadening).
+#### THESIS (interpretation — NOT fact)
+- *(analysis)* Escalation ladder up another rung and now touching **PORT** infrastructure — closer to the
+  export/physical-shortfall channel than energy-plant strikes. Refueling-plane surge = the campaign isn't
+  winding down. Oil at session highs = the risk premium still CREEPING up (consistent w/ 7:43am read).
+- ⚠️ Still not the fuse: no Red Sea closure headline yet; oil "session highs" ≠ a physical-shortfall gap.
+  **Watch: does the PORT-strike escalation pull a Houthi Red Sea response, or a physical Iranian export cut**
+  → that's the buffer-break/closure trigger. Fuse ARMED, ladder climbing, price creeping. Book unchanged.
