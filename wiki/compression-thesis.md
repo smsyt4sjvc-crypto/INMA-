@@ -171,3 +171,20 @@ Source: Jake reading the slickcharts S&P snapshot (SPY 745.33 −0.72% = AT his 
 - MU $881 = a BOUNCE, not a reclaim; the $907 (50-day) "regime restored" trigger ([[portfolio-state]]) unmet.
 - *(book, descriptive)* SPY 745.33 = the Dec-745 puts are now AT-the-money (~50Δ) — the market came down to
   the hedge. No action implied; size/timing Jake's.
+
+### 2026-07-17 ~12:30pm PT — AAPL overhang clears + sell-side piles in; Meta→Anthropic compute lease
+Source: ZeroHedge feed (Jake paste). Incremental confirmations of the capex-gap discrimination.
+#### DATA (observed / as-reported)
+- **AAPL–DOJ in "early settlement talks"** on the 2024 antitrust suit (overhang clearing). **HSBC upgrades
+  AAPL to BUY**, sees "AI boost" device-upgrade cycle. (AAPL is now #1 / smallest-capex-gap winner.)
+- **Meta eyes $10B deal to LEASE AI computing power to Anthropic.** Goldman HF head "questions the AI narrative."
+#### THESIS (interpretation — NOT fact)
+- *(analysis)* The smallest-gap winner (AAPL) getting a real overhang cleared (DOJ) + sell-side love (HSBC) =
+  the 7/16 discrimination extending. **⚠️ narrative-tiers flag ([[_assumption-filters]]):** HSBC upgrading AAPL
+  AFTER it's already #1 is the *retail/deep-press tier catching up* to a move the tape already made — late/
+  confirming, a crowded name getting more crowded, not early edge.
+- *(analysis — the interesting one)* **Meta leasing compute to Anthropic = capex MONETIZATION** — a widest-gap
+  spender trying to close its own capex-to-revenue GAP by renting the buildout to an AI lab. Two reads: (a)
+  bullish = the compute glut finds a bid, capex starts to pay (gap narrows); (b) circular-financing amber = the
+  AI ecosystem increasingly funding ITSELF (hyperscaler→lab→hyperscaler), the [[ai-financing-fragility]] loop.
+  Which one depends on whether Anthropic's payment is fresh external demand or recycled AI-capital. Watch.
