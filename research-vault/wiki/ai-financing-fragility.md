@@ -400,3 +400,32 @@ Source: Torsten Slok (Apollo chief economist), via Jake. Named-analyst datapoint
   near-term-demand / medium-term-funding tension, now with a number on the funding side.
 - Links: [[market-fragility]] (spreads/30Y), [[ai-capex-cycle]] (capex → memory demand), [[bull-bear-ledger]],
   [[consumption-vs-investment-crux]] ("building on financing that may not pencil").
+
+### 2026-07-17 ~7:20am PT — THE TRIPWIRE FIRES: hyperscaler BOND market carnage (mechanism confirms the vibe)
+Source: ZeroHedge feed scroll (Jake paste). Headlines = reported claims (ZH editorializes); the CLUSTER is
+the signal. **This is the exact tripwire named in [[_assumption-filters]] 7/17 (narrative tiers): "watch the
+next big Mag7 debt issuance and its bid-to-cover — the thing retail can't see."** It moved. Same day.
+#### DATA (observed / as-reported)
+- **"Carnage in the Hyperscaler Bond Market: Did Goldman Just Pop The AI Debt Bubble."** (headline)
+- **"The $1.8 Trillion Off-Balance-Sheet Time Bomb At The Heart Of The AI Supercycle"** (recirculated).
+- **The Market Ear: "Accounting earnings continue to look healthy, but CASH GENERATION is becoming a much
+  less convincing story."** ← accounting-vs-cash divergence, named by the sell side.
+- **"Private Credit: The New Junk Bond Market"** (recirculated). Aston Martin in talks w/ HPS for new debt.
+- Context same scroll: Goldman tech specialist flags **"spike in investor angst in last 48 hours."**
+#### THESIS (interpretation — NOT fact)
+- *(analysis — the framework flip)* The [[_assumption-filters]] narrative-tiers lens said: retail-wire vibe
+  is *fadeable* UNTIL the mechanism tier (bonds) confirms it, then it's *respect*. **Bonds just cracked →
+  we FLIP from "fade the fear" to "respect it."** The mechanism is no longer lagging the vibe; per the
+  headlines it's leading. This is the single most important read of the day: the plumbing, not just the mood.
+- *(analysis)* Ties the Slok cover-ratio slope (5x→<2x) to a PRICE event: "carnage" = spreads gapping /
+  a deal repriced or struggling — the trajectory this note said to watch monthly, now moving in a day.
+  ⚠️ VERIFY vs inflate: "carnage" is a ZH word — the CONFIRMING datum is a specific pulled/failed/blown-out
+  hyperscaler deal or a named spread move. Get the cover ratio / the actual deal before calling it "1x."
+- *(analysis)* "Cash generation less convincing" = the FCF-vs-accounting-earnings gap ([[compression-thesis]]
+  TSMC beat-sold) said out loud by the sell side. The three-leg squeeze ($4-8T capex, no FCF, debt+equity)
+  with the DEBT leg now visibly repricing. Private-credit-as-junk = the equity/private plug (KC CRE rhyme)
+  getting its own risk repricing.
+- **What would confirm vs fade:** a NAMED hyperscaler deal pulled or cover <2x printed = respect (mechanism
+  real). Spreads snap back / deals clear next week = it was angst, not rupture. Watch the deal calendar.
+- Links: [[compression-thesis]] (razor/cash-gen), [[market-fragility]] (leverage/angst), [[_assumption-filters]]
+  (tiers — tripwire fired), [[portfolio-state]] (the SPY puts' scenario).

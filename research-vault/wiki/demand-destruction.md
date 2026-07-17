@@ -1097,3 +1097,26 @@ Source: Reuters Morning Bid (Rae Wee, Jake paste).
   still buffered (floating-storage exhaustion remains the price fuse, per 7/16 Kpler note).
 - ⚠️ Calibration: markets "brushed off" the war again (EU down on CHIPS, not Iran). The permanent-wobble
   read holds — war is loud, price is chips-led. Nothing actionable; powder/hedge unchanged.
+
+### 2026-07-17 ~7:20am PT — THE FUSE CONDITION: US HITS IRAN ENERGY INFRASTRUCTURE
+Source: ZeroHedge feed scroll (Jake paste). Reported claims.
+#### DATA (observed / as-reported)
+- **"Iran Orders Power Conservation After US Hits Energy Infrastructure — IRGC Claims 'Powerful' Strike On
+  Qatar Base."** Iran now retaliating on a US/allied base in QATAR (was Gulf-allies infrastructure, then US
+  facilities, now a named Qatar base). BP/ConocoPhillips separately announced an Iraq oilfield partnership.
+#### THESIS (interpretation — NOT fact)
+- *(analysis)* **This is the dated fuse's PRECONDITION, per the 7/16 "Iran Tells Houthis To Close Red Sea If
+  Trump Bombs Power Grid" note.** The trigger chain = **US strikes Iran ENERGY/power infra → Houthi Red Sea
+  closure** (Zolfaghari's formalized "destroy all regional infrastructure" threat). **The US just hit Iran
+  energy infrastructure.** So the condition that ARMS the Red Sea trigger is now — per these headlines —
+  MET. **Watch next for: a Houthi Red Sea / Bab el-Mandeb closure announcement.** That is the fuse, not this.
+- *(analysis — still buffered until proven)* Two caveats keep this a WARNING not a fired trigger: (1) no oil
+  price in this scroll — Brent still needs to break the ~$85 floating-storage buffer ([[demand-destruction]]
+  Kpler note); the physical-throttle→price transmission is what's been masked. (2) "Powerful strike on Qatar
+  base" is an IRGC CLAIM — verify damage/target independently. The escalation LADDER is real; the price
+  FUSE (Red Sea closure OR buffer exhaustion → Brent break) is the falsifiable event to wait for.
+- *(cross-thread)* On a day the AI-capex trade is breaking on financing ([[ai-financing-fragility]]) + a
+  China efficiency shock ([[compression-thesis]]), an oil fuse lighting into it = the [[market-fragility]]
+  Fed-Trap compounder (oil-inflation while growth/labor soften = can't-cut). The SPY puts ([[portfolio-state]])
+  are positioned for exactly this confluence — DESCRIPTIVE, not a call to add.
+- ⚠️ Calibration: the escalation is the highest it's been; the PRICE hasn't confirmed. Fuse armed ≠ fuse lit.
