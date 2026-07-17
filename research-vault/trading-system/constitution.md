@@ -10,16 +10,21 @@ standalone repo later.
 > AROUND the constraints, not the other way around.
 
 ## §0 — ACCOUNT CONSTRAINTS (the foundation; everything is built on these)
-- **Broker: Fidelity | Options approval: TIER 1.**
-  - **Permitted (Tier 1):** covered calls, buy-writes, rolling covered calls, buying calls/puts (long),
-    **selling cash-covered puts (CSPs)**, long straddles/strangles.
-  - **Forbidden at Tier 1:** spreads (Tier 2), naked/uncovered writing + short straddles (Tier 3).
-    → **Defined-risk is enforced by the tier itself.** The one way to blow up selling vol (naked) is locked
-    out for us by the broker. The constraint is a guardrail.
-- **Capital: ~$1,000, cash account** (no margin). → one CSP at a time on a ~$5–10 name (strike×100 collateral).
-  **Learning/proof vehicle, NOT income** (~$20–60/mo premium). Honesty up front so nobody mistakes it for a paycheck.
-- **Fidelity has NO retail order API** → **live execution is MANUAL** (system proposes, Jake clicks). Automated
-  testing runs on a separate **Alpaca paper** account. Human-in-the-loop is therefore the *default*, which is safer.
+- **DECISION 2026-07-17: the project runs in a SEPARATE, RING-FENCED account — NOT Jake's main Fidelity.**
+  Safety principle: *bound the downside to a number you can name.* A dedicated account caps the blast radius at
+  what it's funded with; the main savings never share space with the AI + an unproven rules engine.
+- **Existing account (context, NOT used for this project): Fidelity, options Tier 1** (CSPs + covered calls
+  permitted; no spreads/naked). Has **no retail API** → couldn't be automated anyway. Left out on purpose.
+- **Project broker: Alpaca (recommended).** API-first (laws-as-code can enforce + execute), **paper account
+  built in** (real data, fake money), $0 min, commission-free, options **Level 1 = covered calls + CSPs**
+  (same core as Fidelity Tier 1 → the CSP design carries over). IBKR = heavier alt; avoid Robinhood (no API).
+- **The separate broker's API UNLOCKS the original vision** — an AI-managed, rules-enforced, recurring-task
+  loop — which the Fidelity(manual) path could never do. Separate ≠ just safer; it's *more capable.*
+- **Capital: ~$1,000, cash, ring-fenced** → one CSP at a time on a ~$5–10 name (strike×100 collateral).
+  **Learning/proof vehicle, NOT income** (~$20–60/mo premium). The real deliverable of this phase = REPS, not $.
+- **Safest sequence (costs $0 to start):** (1) open Alpaca **paper** today — free, no funding; (2) build + run
+  the whole loop on paper for MONTHS, zero real $ at risk; (3) only then fund the small live account; (4)
+  graduate size on a clean paper+live record. The build needs reps, not money — paper gives unlimited reps free.
 
 ## §1 — THE VEHICLE (what the constraints force, and it's the right tool)
 **The regime-gated wheel:**
@@ -51,9 +56,11 @@ standalone repo later.
    not-junk optionable universe under ~$10, ranked by premium-yield vs risk. ← *next*
 3. **Complete the laws** (constitution §5+): position size, max-loss/kill-switch, one-position rule, logging,
    halt flag — as enforceable CODE for the paper engine.
-4. **Alpaca paper account**: prove the whole loop (propose → validate → execute → journal) with fake money, months.
-5. **Live (Fidelity, manual)**: one CSP at a time, above the 200-day, human-clicks. Graduate size only on a
-   clean paper + manual track record.
+4. **Alpaca paper account**: prove the whole loop (propose → validate → execute → journal) with fake money,
+   months. Free, no funding — the build target from here.
+5. **Live (Alpaca, ring-fenced ~$1k)**: one CSP at a time, above the 200-day. START human-in-the-loop
+   (propose → Jake approves → execute); graduate to automated only on a clean paper+live record. The API
+   makes automation POSSIBLE, but earn it — don't start there.
 
 ## §5+ — LAWS AS CODE (to be written)
 *(placeholder — the enforceable risk engine: instrument allowlist, max position % , defined-risk-only assert,
