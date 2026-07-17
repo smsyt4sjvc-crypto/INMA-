@@ -59,6 +59,26 @@ risk-management brain on a structural edge, not a failed prediction machine.** F
 isn't a coin flip. Related: [[how-to-get-paid]], [[compression-thesis]] (the regime views that do the tilting),
 [[market-fragility]] (the stand-down signals).
 
-## Next (in progress)
-- VRP study (`tools/vol_risk_premium.ipynb`): does the vol-risk-premium actually pay on SPX, and in which
-  regimes does it pay vs BLOW UP? First study aimed at a paycheck, not a coin flip. Verdict → back here.
+## VRP study VERDICT — 2026-07-17 ~10:12am PT (Jake ran `tools/vol_risk_premium.ipynb`)
+**The first REAL edge of the session — and the 200-day filter is what makes it survivable.** (Stylized:
+constant-notional short variance, no greeks/costs/roll — the RELATIVE results are robust, the absolute Sharpes
+are inflated fantasy numbers, NOT tradeable as-is.)
+- **The premium is real:** always-short-vol = **82% up-days, Sharpe 1.81** (a high-win-rate grind = risk-premium
+  signature, opposite of every 50/50 direction study). The bill: **maxDD −533, worst day −130, ~13% of the
+  whole run given back in one crash.** Pennies for years, a fistful back in a day.
+- **THE finding — the 200-day gate is the whole ballgame:** "only short vol when px>200d" = total **3623 (keeps
+  87% of the harvest)** but **maxDD −68 (from −533, an ~8x cut)**, worst day −45, Sharpe 5.42. **Keep ~87% of
+  the income, shed ~87% of the drawdown** — because the vol craters (2008/2020/2018) erupt below/breaking the
+  200-day. This IS "stand down when fragility fires," as a hard mechanical switch.
+- **Surprise (prior WRONG):** filtering on VIX LEVEL fails — "only when VIX>median" halved the harvest (2435)
+  and dodged NONE of the tail (same −533/−130); stacked on the bull filter it added nothing (same −68) while
+  halving income again. **The regime that matters is TREND (200-day), not vol LEVEL.**
+- **Meta-finding:** the 200-day is now the decisive switch in TWO independent studies (mechanical bid worked
+  only above it; VRP survivable only above it). **The 200-day = the master risk-on/off switch** — the one
+  durable, cross-strategy result of the whole morning.
+- ⚠️ Caveats: (1) 200-day is LAGGING — a bolt-from-blue crash from ABOVE the line (Feb-2018, Mar-2020) still
+  bites (the residual −68 DD IS those); size for a tail, you just made it survivable not fatal. (2) decay
+  recheck ≥2019 owed. (3) stylized ≠ live P&L; turning it tradeable (which options/width/size) = Sinclair layer.
+- **→ The brokerage constitution's first clause (see the trading-system idea):** *harvest vol ONLY above the
+  200-day, defined-risk, sized for the residual tail; regime research = the finer stand-down on top.* Earned,
+  with 30y of evidence. This is [[where-the-edge-is]] made concrete + [[market-fragility]] as the stand-down.
