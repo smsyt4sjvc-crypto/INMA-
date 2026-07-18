@@ -37,12 +37,18 @@ This note grades it honestly (no flattery; the misses matter more than the hits)
   watch; the 200-day-gated premium harvest is partly a structure that FORCES the patience his instinct resists.
 
 ## BLIND SPOTS — what the cold-read missed (the important part)
-- **It describes a systematic hedge-fund PM. Jake operates as a self-taught retail solo on an iPhone with
-  ~$1k, a window contractor by trade.** The profile is right about the MIND and silent on the BODY. Execution
-  Friction (0.60) badly *underweights* the iPhone constraint (it's why every tool ships as a complete
-  notebook, not a patch — [[_persona]]/code-delivery rule). **The GAP between the hedge-fund cognition and the
-  retail-solo resources IS the whole project** — and the trading-system constitution is literally the bridge
-  built across it (a PM's discipline, sized for a $1k phone account).
+- **It describes a systematic hedge-fund PM. Jake operates as a self-taught retail solo on an iPhone, a window
+  contractor by trade.** The profile is right about the MIND and silent on the BODY. Execution Friction (0.60)
+  badly *underweights* the iPhone constraint (it's why every tool ships as a complete notebook, not a patch —
+  [[_persona]]/code-delivery rule). **The GAP between the hedge-fund cognition and the retail-solo resources IS
+  the whole project** — the trading-system constitution is the bridge built across it (a PM's discipline at
+  retail scale).
+- ⚠️ CORRECTION 2026-07-17 (my earlier error, kept visible): I first wrote "retail solo with ~$1k." **Wrong —
+  the $1k is a ring-fenced carve-out he's *allowing the AI* to touch (post-paper), NOT his capital.** The real
+  book is ~$12k (~$4k Dec SPY puts + ~$8k powder; [[portfolio-state]]). Ring-fencing $1k of $12k so the AI's
+  blast radius is a nameable number is not a *limitation* — it's the profile's **"risk-tolerant but rule-
+  constrained" (0.80)** trait, self-applied. The cold-read's real miss is the iPhone/solo/contractor frame,
+  not the size.
 - Capital "concentrated with rotation" — half-right: few positions ✓, but the live book is defensive/hedged
   (SPY puts + cash), and the system is ONE cash-secured put at a time — recycling, not active rotation.
 
