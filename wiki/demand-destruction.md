@@ -1316,3 +1316,58 @@ as-reported DATA, flagged where not independently re-verified this session.
   and gives a cleaner sensor (the crack) than the headline crude tick. Fuse status: **flat crude knocking on $90;
   the physical shortage already CONFIRMED in products; the ally-oil / Bab-el-Mandeb / Kuwait-facility-ID triggers
   UNfired.** Watch the crack and the three named events, not the wire volume.
+
+### 2026-07-18 ~2:55pm PT — Day 7 digest: State Dept "Worldwide Caution"; Saudi base STRUCK (threat→event); Hormuz transit "all but ceased"; Kuwait-facility-ID partially resolved
+Source: ZH/Axios/Reuters/Al Jazeera/Bloomberg digest (Jake paste, dateline 2:55pm ET). Mixed sourcing — split by credibility.
+#### DATA (observed — deltas vs the 10:22am + 10:30am entries; confirms the rest)
+- **State Dept issued a "Worldwide Caution"** (official): "heightened tensions... potential for unforeseen
+  escalation." First worldwide-caution-tier advisory of this war.
+- **KIA count contextualized (Axios):** the 2 killed 7/17 in Jordan (Muwaffaq Salti Air Base) were the first
+  US deaths since fighting resumed 2 weeks ago; **total US KIA in the war now = 16.** 1 MIA still; 4 medevac'd
+  discharged. (CENTCOM-confirmed core; the "16 total" is Axios.)
+- **Saudi base ACTUALLY STRUCK — threat became event (Axios/Reuters):** Iran hit **a US military base IN Saudi
+  Arabia** with a ballistic missile — first direct Iranian attack on the kingdom in ~4 months. Saudi civil
+  defense issued warnings for **Al-Kharj** and **Yanbu** (oil-export terminal), later said "danger passed."
+- **Kuwait — the 10:30am "unidentified facility" flag PARTIALLY RESOLVED:** confirmed hits are **Al-Subiya
+  power station**, a **Zour South transformer** (Fri, power+desalination complex — fire), a **Kuwaiti army
+  base**, and airport flight suspension. The **KPC site remains "unspecified"** ("significant material losses").
+  → **The confirmed Gulf-ally damage so far is POWER / DESALINATION / MILITARY — NOT confirmed crude export/
+  processing.** The Abqaiq-class node is still not the identified target.
+- **Hormuz transit "ALL BUT CEASED"** (Bloomberg, transponder-based — excludes dark ships). Up from "impaired /
+  7 vs 13 vessels" this morning to near-total on visible traffic. **Iran: strait "virtually closed."**
+- **Crude "biggest rise since April"** (Bloomberg; no new absolute print in this digest — pairs with the
+  10:30am Brent ~$88). Oil at session highs on broader-conflict fear.
+- **Infrastructure war widening:** US 7th consecutive night — **6 road bridges, energy infra, a southern port
+  facility, strikes reported near Bushehr NPP + Lorestan**; 116 telecom towers (prior entry). Blockade
+  enforcement: **3 merchant ships redirected, 1 boarded, 1 non-compliant tanker disabled**; sanctioned Iranian
+  tankers U-turning/zig-zagging in Gulf of Oman.
+- **Bloomberg Intelligence:** Hormuz shutdown "expected to spark massive investment to permanently reduce
+  reliance on the chokepoint" → restructuring energy trade flows. (Structural, [[power-not-petroleum]].)
+- **Polymarket:** "US announces withdrawal from MoU negotiations by July 31?" — **Yes 14% / No 86%.**
+- **⚠️ SINGLE-SOURCE (Israeli media, info-war discipline):** Channel 14 reports Trump instructed CENTCOM to
+  "open the gates of hell" on Iran. Treat as a REPORT of intent, not confirmed order. IRGC claims (Tasnim):
+  20th "Nasr 2" wave destroyed several US aircraft at the Jordan base — Iranian claim.
+#### THESIS (interpretation — NOT fact)
+- *(the key discriminator, held)* This is the broadest escalation yet — State Dept worldwide caution, a Saudi
+  base struck, Hormuz visible transit near-zero, crude's biggest rise since April — and YET **the specific
+  oil-supply uncapping still has not printed.** Every confirmed Gulf-ally hit is power/desal/military/telecom;
+  the one crude-relevant node (the KPC site) stays unspecified, and the Yanbu warning "passed." The war is
+  hitting everything AROUND the crude-export backbone without (confirmed) hitting it. That's the same
+  sanctuary-erosion-without-uncapping pattern the whole thread has tracked — now at maximum intensity.
+- *(what DID change materially)* (1) **Hormuz transit "all but ceased"** is the physical-shortfall channel
+  going from impaired to near-total on visible ships — this is the real supply subtraction, and it's why the
+  product cracks (10:30am) are at records. (2) **Saudi base struck** = the threat→event conversion on the
+  broader-Gulf vector; the next rung up that same ladder is Saudi/Kuwaiti OIL infra (Abqaiq-class), which the
+  Yanbu warning shows is now in the blast radius. (3) 16 total KIA + worldwide caution + "gates of hell"
+  report = the US-retaliation probability the 10:22am entry flagged is climbing.
+- *(the marker, honestly)* Flat crude at ~$88 with Hormuz visible-transit near-zero means the market is STILL
+  pricing dark-fleet leakage + OPEC spare + demand-weakness offsets rather than a clean cutoff. The uncapping
+  tells are unchanged and un-fired: **(a) the KPC/Saudi site identified as crude export/processing, (b) a
+  confirmed Abqaiq-class strike, (c) Houthi Bab-el-Mandeb move, (d) a Brent physical GAP through $90.**
+- *(structural aside)* Bloomberg Intelligence's "permanent chokepoint-reduction investment" is the war handing
+  [[power-not-petroleum]] a multi-year tailwind: a Hormuz scare that reroutes capital into pipeline bypasses,
+  strategic storage, and non-oil energy is exactly the rewiring the thesis anticipates. State a state, though —
+  it's a direction, not a dated trigger.
+- *(book — descriptive, unchanged)* Hedged before the fuse; nothing here is a call to add. Watch the four
+  uncapping tells + the product cracks + the US retaliation response — not the wire count. Info-war discipline
+  on the "gates of hell" report and all Tasnim/IRGC claims.
