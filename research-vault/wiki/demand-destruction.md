@@ -1242,3 +1242,23 @@ Source: Tasnim (Iranian state media — info-war discipline: declarations/claims
 - ⚠️ All Tasnim-sourced — Iran declaring intent is a credible *position* read; the Sirik battle-damage is a
   *claim*. Fuse: still armed, widening; the oil-shock triggers remain (Hormuz closure / Brent physical gap /
   Abqaiq-style Gulf-oil strike), none confirmed. Hedged; watch the tells, not the tweet volume.
+
+### 2026-07-18 ~10:22am PT — ⚠️ CONFIRMED ESCALATION: US service members KILLED IN ACTION (CENTCOM, official)
+Source: **@CENTCOM official statement** (10:12am ET 7/18) — CREDIBLE/CONFIRMED, not Iranian-agency.
+#### DATA (observed — official US)
+- **July 17: 2 US service members KILLED IN ACTION in Jordan**, defending vs **Iranian ballistic missile +
+  drone attacks**; **1 MIA**; 4 medevac'd to Jordanian hospitals (since discharged). Identities withheld 24h
+  pending next-of-kin notification.
+#### THESIS (interpretation — NOT fact)
+- *(credibility — the info-war discipline paying off)* This is **CENTCOM confirming**, vs the 7/17 **Tasnim
+  claim** of US KIA in Syria that CENTCOM **DENIED (false)**. We rejected the propaganda claim; the credible
+  source now confirms a real one. **The escalation ladder has its first CONFIRMED lethal rung** — event, not noise.
+- *(escalation threshold)* **US combat deaths are a genuine threshold** the war-shrug ("permanent wobble") hasn't
+  faced. It (a) **pressures a US escalation/retaliation** for the deaths, and (b) raises the odds the market
+  stops treating the war as background. Iran directly killing US personnel (not just Gulf allies) = a new rung.
+- *(precise frame — odds, not the fuse itself)* US KIA is **NOT an oil-supply event** — it's a **probability-
+  raiser** for one. A retaliation for dead soldiers is far likelier to hit Iranian **oil/energy** or provoke a
+  **Hormuz closure** than another tit-for-tat. So the watch items are unchanged, their PROBABILITY up: **does
+  the US response target Iranian OIL, and does BRENT GAP?**
+- *(book — descriptive)* The exact confluence the SPY puts + cash were positioned for (war → oil shock); odds
+  raised, not a call to add. Already hedged before the fuse = the point. Still: armed, hotter, oil fuse UNfired.
