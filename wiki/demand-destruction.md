@@ -1262,3 +1262,57 @@ Source: **@CENTCOM official statement** (10:12am ET 7/18) — CREDIBLE/CONFIRMED
   the US response target Iranian OIL, and does BRENT GAP?**
 - *(book — descriptive)* The exact confluence the SPY puts + cash were positioned for (war → oil shock); odds
   raised, not a call to add. Already hedged before the fuse = the point. Still: armed, hotter, oil fuse UNfired.
+
+### 2026-07-18 ~10:30am PT — THE FUSE SHARPENED: the physical break is in PRODUCTS, not flat crude — record diesel/3-2-1 cracks
+Source: Jake's "Oil scan — July 15–18 only" (his pull/digest). Numbers are Jake's scan figures — treated as
+as-reported DATA, flagged where not independently re-verified this session.
+#### DATA (observed — Jake's scan, week of Jul 15–18)
+- **Flat crude:** Brent **$88.10**, WTI **$82.49** (~$5.61 Brent-WTI spread); **BOTH +~16% on the week.** Brent
+  now knocking on the vault's **$90 marker** (first time this war it's this close on a sustained basis).
+- **THE STANDOUT — refined-product cracks at RECORDS:** European low-sulfur diesel (gasoil) crack **≈ $66.25/bbl
+  over Brent** (record); **US 3-2-1 refining crack ≈ $69.45** vs a 2018–2025 average **~$23** (≈ **3x** normal).
+  US retail diesel back **above $5/gal.**
+- **Hormuz physically thinner:** ~**7 vessels Wed vs 13 Tue**; **no VLCC / no LNG carriers** transiting; traffic
+  hugging the **Iranian-side** route; mines reported in the **central lanes.** (Consistent with the 8am transit-
+  impairment reads, now quantified as a halving of large-tanker throughput.)
+- **Kuwait (⚠️ facility UNIDENTIFIED — the crucial unknown):** Kuwait Petroleum Corp confirmed **Saturday** one
+  oil facility took **"significant material damage and injuries."** *Which* facility is unstated — if an EXPORT/
+  processing node, that's Abqaiq-class; if ancillary, it's contained. **This is the single most important
+  identify-it item on the board.**
+- **Red Sea bypass threatened:** Iran asked the **Houthis to prepare to close the Red Sea / Bab el-Mandeb** — the
+  bypass route for Gulf barrels diverted via Saudi pipelines. **Saudi ~4M bpd of Red Sea export exposure;
+  Yanbu terminal on alert.**
+- **Global refining already short BEFORE the Gulf:** Ukrainian drone strikes cut **Russian diesel exports ~280k
+  bpd MoM / ~680k bpd YoY.** US refinery utilization **96.2%** (near max — no slack to run harder); **distillate
+  stocks 108.2M bbl ≈ 11% below the 5-yr avg**, crude ~6% below, gasoline ~8% below.
+#### THESIS (interpretation — NOT fact)
+- *(Jake's thesis, and it sharpens the vault's fuse correctly)* **"The actual fuse is no longer crude production
+  by itself. It is the simultaneous loss of Gulf shipping AND global refining/product supply. Diesel is the most
+  combustible part."** → **"Crude is trading the probability of disaster; diesel is trading an actual shortage."**
+  This is the cleanest framing of the war-oil fuse to date and it CORRECTS a blind spot: the vault kept watching
+  **flat Brent** for the physical gap. The gap is ALREADY HERE — it's just sitting in the **crack**, not the
+  headline crude price. Record 3-2-1 (~3x normal) = refiners bidding frantically for barrels to make diesel
+  the world is physically short of. Flat crude <$90 UNDERSTATES the stress because the shortage is in the
+  *product*, and product is where the real economy (freight, ag, heating, mil-logistics) actually pays.
+- *(why this is structurally worse than a crude spike)* A crude spike is one price; a **product-crack** blowout
+  is a **refining-capacity** shortage — you can't convoy-escort a refinery, and US refiners at 96.2% have no
+  headroom to close the diesel gap even if crude were plentiful. The Russian-diesel loss + US distillate 11%
+  below normal + Gulf-refining risk stack on the SAME molecule. **Diesel is the transmission belt from a Mideast
+  war to US Main Street** (Jake's contractor lens: this is the number he'll feel first, at the pump and in
+  freight surcharges).
+- *(marker reconciliation — owed honestly)* The $90-Brent marker framework was built around FLAT crude and it
+  held for weeks. This scan shows its blind spot: pricing the war through flat crude alone would have called the
+  market "calm" at $79 while diesel cracks tripled. **Refine the marker: watch the 3-2-1 / gasoil crack as a
+  co-equal fuse to flat Brent.** The crack broke to records BEFORE flat crude broke $90 — the crack led. Add it
+  to the sensor set alongside the BNO front-call skew.
+- *(the near-term FALSIFIABLE fuses — dated/triggerable, per WARNING-vs-TRIGGER)* Three, each an event not a
+  vibe: (1) **the Kuwaiti facility gets identified as export/processing** (Abqaiq-class supply subtraction);
+  (2) **the Houthis actually move on Bab el-Mandeb** (closes the bypass → Saudi's 4M bpd Red Sea route chokes);
+  (3) **a US or Iranian strike on Gulf-ALLY oil infrastructure** (Saudi/Kuwait processing — the 7/18 8:57am
+  target-list expansion made this explicit). Any one = the flat-crude break to match the product break already
+  in progress.
+- *(book — descriptive, unchanged)* Zero energy longs + SPY puts + cash was positioned for exactly this before
+  the fuse; the product-crack read doesn't change the position, it explains WHERE the stress is actually venting
+  and gives a cleaner sensor (the crack) than the headline crude tick. Fuse status: **flat crude knocking on $90;
+  the physical shortage already CONFIRMED in products; the ally-oil / Bab-el-Mandeb / Kuwait-facility-ID triggers
+  UNfired.** Watch the crack and the three named events, not the wire volume.
