@@ -1174,3 +1174,28 @@ Source: **@CENTCOM** fact-check post (Jake paste, last edited 7:09am ET 7/17, 27
   fear-bid on nothing. Verify the rung before you climb it.
 - Net: doesn't de-escalate the *real* war (US IS striking Iran infra; oil IS creeping) — but the ladder had a
   fake rung, now removed. Fuse status unchanged: armed, not lit.
+
+### 2026-07-18 ~8am PT — Day 7: PORT BLOCKADE = "the biggest squeeze" (Iran oil-export choke); Iran economy collapsing
+Source: ZH/Al Jazeera + WSJ (Jake paste). ⚠️ Mixed credibility — separate the sources.
+#### DATA (observed — by source)
+- **CREDIBLE (WSJ/IMF):** Iran **CPI +88.6% YoY** (June); Tehran eggs **+40%** in early July; **IMF: Iran GDP
+  −5.4%** this year (pre-latest-fighting); only **top 3%** can afford the full food basket; families buying
+  staples on credit. Iran's economy is **buckling.**
+- **The oil mechanism (article's framing):** "**the biggest squeeze is the blockade of Iranian ports and
+  disallowing the country's ability to sell oil**" — i.e. Iran's **~1.5–2M bpd exports being choked.** 7th
+  consecutive war day.
+- **⚠️ IRANIAN-SOURCED CLAIMS (Tasnim/Fars = IRGC-linked, treat as claims per the CENTCOM info-war lesson):**
+  116 telecom towers "taken out"; drinking-water cut to villages (desalination pump strikes); grid strain →
+  AC-conservation urged. The article ITSELF notes a competing narrative (Saudi/Israeli media say the *regime*
+  imposed the blackout) = the "who cut it" is contested. Don't treat the infra-strike specifics as confirmed.
+#### THESIS (interpretation — NOT fact)
+- *(the fuse mechanism, active)* The **port blockade choking Iran's oil exports IS the physical-shortfall
+  channel** the vault said to watch (vs headline risk-premium). This is the real one. BUT the **global PRICE
+  fuse still isn't confirmed here** — no new Brent break in this piece; Iran's ~1.5–2M bpd is a real supply
+  loss, but it's been telegraphed a week → the open question stays: **buffered** (OPEC+ spare/floating storage/
+  China rerouting) **or biting**? Watch Brent for a *physical* gap, not a headline tick.
+- *(tail risks UP — both directions)* Iran's economic freefall (CPI 88.6%, GDP −5.4%, food crisis) raises BOTH
+  (a) **desperate escalation** (lash-out → the [[demand-destruction]] Red Sea/Hormuz fuse) and (b) **regime-
+  instability wildcard** (Jan-protest replay the US reportedly wants). Either is a fat-tail, neither is dated.
+- Fuse status: **armed + smoldering; US doing the provoking (infra/port); the Houthi Red Sea response and the
+  physical Brent break remain UNfired.** Book unchanged. Apply info-war discipline to Iranian-agency claims.
