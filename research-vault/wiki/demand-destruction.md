@@ -1371,3 +1371,39 @@ Source: ZH/Axios/Reuters/Al Jazeera/Bloomberg digest (Jake paste, dateline 2:55p
 - *(book — descriptive, unchanged)* Hedged before the fuse; nothing here is a call to add. Watch the four
   uncapping tells + the product cracks + the US retaliation response — not the wire count. Info-war discipline
   on the "gates of hell" report and all Tasnim/IRGC claims.
+
+### 2026-07-18 ~4pm PT — US crude inventory: 726M bbl total (40-yr low) — but the tightness is the BUFFER, not the barrel
+Source: Jake paste (stat card, unattributed — treat the "40-yr low" framing as as-reported). Quantifies the
+SPR/Phase-II thread already logged (2026-07-12 CORRECTION + Phase-II entry; 7/1 refill entry).
+#### DATA (observed — as-reported)
+- **Total US crude = 726M bbl** (commercial + Strategic Petroleum Reserve, SPR); described as a **40-year low.**
+- **Commercial crude alone = 411M bbl.** → implied **SPR ≈ 315M bbl.**
+- Framing: "heaviest SPR draws in a generation," forced by the Iran conflict; "tight supply, thin emergency
+  buffer, Middle East risk still live."
+#### THESIS (interpretation — NOT fact)
+- *(⚠️ discipline flag — separate the buffer from the barrel; the "40-yr low" is SPR-driven)* The headline
+  conflates two different things. **Commercial crude at 411M is BELOW-average, not scarce** — it's in the range
+  US commercial stocks have visited repeatedly (~400M in 2014, various 2018-2024 dips); it is not a shortage
+  print on its own. The record is in the **SUM**, and the SUM is low because the **SPR (~315M) has been
+  deliberately drawn** to suppress pump prices — a POLICY choice, reversible, not organic demand outrunning
+  supply. So: don't read "40-yr low" as "America is running out of oil." Read it as **the emergency cushion is
+  spent** while ordinary supply is merely thin. Precision matters — this is the base-rate discipline the vault
+  applies to every "record X" headline (insider-selling, foreclosures, JOLTS).
+- *(that said — the depleted buffer is the genuinely important part, and it cuts two ways)*
+  (1) **Thin-cushion tail (raises the war-shock teeth):** an SPR at ~315M is a much smaller shock-absorber than
+  the ~700M+ of a decade ago. If ANY of the four uncapping tells fires (Abqaiq-class strike, Hormuz true
+  cutoff, Bab-el-Mandeb, Brent gap), there is far less reserve to release into the spike → the same physical
+  event repriced harder than it would have with a full buffer. **"The safety net IS the crisis now"** (the
+  vault's Phase-II line) gets a number: 315M.
+  (2) **Spent political weapon:** the administration's cheapest suppression tool — SPR releases — is largely
+  used up. This confirms the 7/10 read ("with the SPR empty, jawboning Iran is the cheapest suppression tool
+  LEFT"). Fewer barrels to dump = less ability to cap a war spike administratively into the midterms → the
+  pre-November suppression relies more on convoy-escort + OPEC spare (UAE +80%) + demand-weakness, and less on
+  the reserve. More fragile suppression stack.
+  (3) **The mechanical refill bid, quantified from the other side:** 315M SPR = the hole that must eventually
+  be refilled (exchange repayments + policy refill, est. 0.5-0.75M bpd through 2028, ⚠️ still an unsourced
+  estimate). Empty buffer now = scheduled, price-insensitive demand later — the Phase-II bull leg, arriving on
+  a calendar AFTER the election, independent of the war.
+- *(net)* This isn't a new fuse; it's the **cushion under the existing fuse getting measured and found thin.**
+  Bullish-crude-tail-consistent, but via the BUFFER (fragility of suppression + harder repricing on any shock +
+  future refill bid), NOT via a commercial-shortage claim the 411M number doesn't support. Book unchanged.
