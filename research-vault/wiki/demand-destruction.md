@@ -1223,3 +1223,22 @@ Source: scanner digest (Jake ran it). Multiple wires; the core event is CONTESTE
 - Fuse status upgraded: **threatened/claimed, oil ticking — but NOT yet confirmed/executed.** Still armed;
   now the hand is on the switch. The two hard confirmations (neutral tanker-hit proof + a Brent physical gap)
   are what turn this from CLAIM to TRIGGER. Watch those, not the wire count. Book unchanged (already hedged).
+
+### 2026-07-18 ~8:57am PT — MoU formally DEAD; Iran expands target list to SAUDI + KUWAIT (the broader-oil vector)
+Source: Tasnim (Iranian state media — info-war discipline: declarations/claims, not confirmed).
+#### DATA (as-declared/claimed)
+- **Iran formally declares the MoU/interim deal DEAD** ("won't fulfill obligations amid US violations").
+- **Iran EXPANDS its target list to a SAUDI base + a KUWAIT water plant.** US strikes hit **Sirik** (Persian
+  Gulf coast, Hormuz-adjacent, Hormozgan).
+#### THESIS (interpretation — NOT fact)
+- *(off-ramp closed)* MoU dead = the diplomatic de-escalation path is formally gone → escalation ratchet, no
+  face-saving exit currently on the table.
+- *(THE materially new risk — broader Gulf oil)* Targeting **Saudi + Kuwait** widens the war from "Iran's own
+  ~1.5–2M bpd export choke (buffered)" to **threatening the GULF's oil infrastructure at large.** The tail that
+  actually moves oil isn't Iran's exports — it's **an Iran strike on Saudi/Kuwaiti oil (a 2019-Abqaiq-style
+  hit)**, which knocks out swing-producer capacity the world can't quickly replace. **New watch item: an actual
+  strike on Gulf-ally OIL infra (not water/bases) = the supply shock.** A declared target list ≠ a strike;
+  Iran naming Saudi/Kuwait is a threat/position, not yet an event.
+- ⚠️ All Tasnim-sourced — Iran declaring intent is a credible *position* read; the Sirik battle-damage is a
+  *claim*. Fuse: still armed, widening; the oil-shock triggers remain (Hormuz closure / Brent physical gap /
+  Abqaiq-style Gulf-oil strike), none confirmed. Hedged; watch the tells, not the tweet volume.
