@@ -188,3 +188,32 @@ Source: ZeroHedge feed (Jake paste). Incremental confirmations of the capex-gap 
   bullish = the compute glut finds a bid, capex starts to pay (gap narrows); (b) circular-financing amber = the
   AI ecosystem increasingly funding ITSELF (hyperscaler→lab→hyperscaler), the [[ai-financing-fragility]] loop.
   Which one depends on whether Anthropic's payment is fresh external demand or recycled AI-capital. Watch.
+
+### 2026-07-17 — the "Kimi/DeepSeek moment" QUANTIFIED (Goldman China-AI deck; `raw/2026-07-17-goldman-china-ai-ecosystem.md`)
+GS puts numbers on the efficiency shock that spooked the tape this week. GS ESTIMATES, not fact.
+#### DATA (as-estimated by GS)
+- Chinese models at **top-15 global Arena** (Z.ai #5, Kimi #10, DeepSeek #11...) at **blended $0.2–1 per 1M
+  tokens vs a hypothetical global-SOTA $3.9** — near-frontier performance ~**5–20x cheaper.**
+- Model-layer unit economics are **NEGATIVE EBIT on BOTH sides**: China −30%/−39% EBIT now; even the
+  hypothetical 70%-gross-margin frontier model nets **~0% EBIT because training eats it.**
+- The money is in the **CLOUDS, not the models**: China inference costs $7bn→$55bn (FY30E) = the
+  hyperscalers'/neo-clouds' *revenue*. China AI-model ARR $10bn→$125bn (FY30E), profit pool only ~$23bn by 2030.
+- China capex mix: **ASIC+HBM 31% > GPU+HBM 23%** (export controls → custom silicon); **~54% HBM-attached.**
+#### THESIS (interpretation — NOT fact)
+- *(the razor, quantified)* This IS the "compute-per-$ collapse" that drove the 7/17 chip meltdown. The razor
+  read holds: cheap Chinese tokens = the **input-deflation** force (bull for the payers' cost line) that
+  simultaneously **guts the scarcity/pricing premium** of the frontier sellers (bear for NVDA/the SOTA labs'
+  economics). Same fact, opposite sign by seat — now with a 5–20x price gap as the magnitude.
+- *(financing-fragility confirmed)* **The model layer doesn't make money** — negative EBIT globally; even a
+  70%-GM frontier nets ~0% after training. Value accrues to **infra (clouds + HBM + silicon), not the model
+  labs.** Reinforces [[ai-financing-fragility]] (no FCF at the model layer) and the [[how-to-get-paid]] "own the
+  toll road, not the promise" logic — the toll here is the CLOUD/inference layer, whose revenue = everyone's
+  inference cost.
+- *(picks-and-shovels tell → the memory thread)* HBM is in BOTH the GPU and ASIC buckets (~54% of China capex).
+  So **memory/HBM demand is robust regardless of the GPU-vs-ASIC war** — the pick-and-shovel that wins either
+  way (ties the 7/17 within-semis memory-green read; structural support under [[ai-capex-cycle]] / MU). Meanwhile
+  ASIC>GPU in China = a structural headwind to NVDA's China TAM (custom silicon eats merchant GPU under sanctions).
+- *(monetization is real but SLOW + negative until ~2030)* $125bn ARR by FY30 with negative margins until then =
+  the compression-thesis "revenue grows into capacity over YEARS" path, on a long fuse — supports "time-correction
+  not crash," but the *time* is measured in years, and the model-layer profit pool ($23bn/2030) is thin vs the
+  $100bn+/yr capex feeding it. The capex-to-monetization GAP is real and wide, in hard numbers.
