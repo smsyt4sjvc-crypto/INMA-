@@ -57,7 +57,7 @@ size up/down and which side to lean* — sell premium into names/regimes the res
 down when the fragility signals fire, harvest the VRP the rest of the time. **The regime research becomes the
 risk-management brain on a structural edge, not a failed prediction machine.** First thing all session that
 isn't a coin flip. Related: [[how-to-get-paid]], [[compression-thesis]] (the regime views that do the tilting),
-[[market-fragility]] (the stand-down signals).
+[[market-fragility]] (the stand-down signals), [[defense-not-offense]] (the behavioral half — survival, not prediction).
 
 ## VRP study VERDICT — 2026-07-17 ~10:12am PT (Jake ran `tools/vol_risk_premium.ipynb`)
 **The first REAL edge of the session — and the 200-day filter is what makes it survivable.** (Stylized:
