@@ -19,6 +19,15 @@ Related: [[market-fragility]], [[power-not-petroleum]], [[gold-flows]].
   **status unconfirmed** (was pricing at $7.15 mid on 7/9; Jake to confirm fill).
 - Healthcare/quiet-health basket = Fidelity PAPER watchlist (1sh tracking). Not funded.
 
+### 2026-07-17 ~5:04pm PT — SIZING clarified (Jake): ~$12k book; the "$1k" is a ring-fenced AI carve-out
+- **~$4k tied up in the Dec SPY puts** (the hedge). **~$8k dry powder** (SPAXX). Total investable ≈ **$12k**
+  (+ the 1 LLY / 1 NOW buy-holds).
+- **The "$1k" is NOT total capital** — it's the amount Jake is *allowing the Claude/Alpaca trading system to
+  work with*, live, **AFTER paper proves out.** A deliberate ring-fenced carve-out of the ~$12k, not his stack.
+- ⚠️ CORRECTS the running assumption (mine) that $1k = his capital. It doesn't; $1k = the bounded experiment.
+  This is the *rule-constrained-risk* trait confirmed AGAIN: ring-fencing $1k of a $12k book so the AI's blast
+  radius is a nameable number ([[_origin-assessment]] blind-spot corrected there too). Scales as the system earns it.
+
 ## DATA (prior planning-file positions — NOT the funded book; kept for record)
 - **Cash:** SPAXX dry powder (money-market, ~4–5% yield). Deliberately underexposed.
 - **⚠️ AI-semi GTC ladder CANCELLED (2026-07-07, during the chip drawdown).** Prior rungs for reference:
