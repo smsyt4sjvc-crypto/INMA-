@@ -1100,3 +1100,24 @@ Source: ZeroHedge (Jake paste), UMich prelim July.
   threatens to re-lift it = the [[market-fragility]] Fed-Trap "can't-cut" thread intact.
 - ⚠️ Calibration: near-zero actionable; a stale coincident print. Logged for the timing trap + the
   sentiment-vs-labor divergence, not the headline beat.
+
+### 2026-07-18 ~7:54am PT — foreclosures +21% H1 but STILL below normal: warning, not crisis (base-rate trap)
+Source: ATTOM via Epoch Times/ZH (Jake paste). July-16 ATTOM report.
+#### DATA (observed)
+- **227,548 US foreclosure filings H1-2026, +21% YoY, +28% vs 2yr ago.** **0.16% of all housing units** (FL
+  worst 0.27%, SC 0.26%). State YoY leaders: **Idaho +59%, Colorado +57%, Georgia +52%, NC +47%.**
+- **⚠️ CONTEXT that guts the scare:** 2021 was the pandemic-MORATORIUM low (foreclosures artificially crushed);
+  rising since. BUT **every first-half 2008–2019 was HIGHER than 2026** — still BELOW the pre-COVID baseline.
+  ATTOM CEO: "gradually returning to more TYPICAL patterns." 30yr mortgage **6.55% (1-yr high)**; Redfin: demand
+  subsiding on cost.
+#### THESIS (interpretation — NOT fact)
+- *(base-rate trap, same as insider-selling / JOLTS)* "+21%!" is measured off a **moratorium-suppressed floor**
+  and the ABSOLUTE level is still below every boring pre-pandemic year. **Normalization, NOT a new crisis;**
+  0.16% of units is tiny. **WARNING (a state), not a TRIGGER** — not 2008, not close. Don't trade the headline.
+- *(the real, slow undercurrent — on-thread)* Direction is up + mortgage 6.55% (1-yr high) + demand backing off
+  = the **consumer/housing leg of the slowdown**, slotting next to the labor-freeze (JOLTS 214k→50k) + GDP
+  decel. The **Fed Trap in households:** rates can't fall (can't-cut into war/oil inflation) → housing stress
+  *grinds* higher. Demand-side softening = a point for the [[compression-thesis]] BEAR branch (consumer strain).
+- *(regional tell)* Biggest jumps = Idaho/Colorado/GA/NC = the **pandemic BOOMTOWNS** normalizing hardest =
+  froth mean-reverting, not a nationwide break.
+- Net: a warning-grade consumer-stress brick in the slowing-economy/can't-cut-Fed wall; NOT a fired trigger. Book unchanged.
