@@ -28,6 +28,35 @@ Related: [[market-fragility]], [[power-not-petroleum]], [[gold-flows]].
   This is the *rule-constrained-risk* trait confirmed AGAIN: ring-fencing $1k of a $12k book so the AI's blast
   radius is a nameable number ([[_origin-assessment]] blind-spot corrected there too). Scales as the system earns it.
 
+### 2026-07-17 ~5:12pm PT — ACTUAL BOOK (Jake screenshot) — the real current holdings, $12,025 total
+Supersedes the incomplete 7/09 listing. Total value **$12,025.34** (+$343 today; −$663 total G/L). 7 positions:
+- **SPAXX cash $7,657** (the dry powder — ~64% of book, deliberately underexposed).
+- **SPY Dec-18 745 PUT ×1** — cost $3,336, value $2,877 (−$460 unreal.) = the macro hedge, ATM.
+- **LLY ×1** — cost $930, value $1,179 (**+$249**, the GLP-1 winner / buy-hold).
+- **NOW ×1** — cost $100, value $103 (buy-hold). **CRCL ×2** — $121 (−$12, Circle/stablecoin). **VG ×5** —
+  $69 (Venture Global LNG, +$3).
+- **MNST Jul-17 87.5 PUT ×3 — CLOSED today, −$446** (cost $512 → $66). See post-mortem below.
+
+### 2026-07-17 — ⚠️ CLOSED-TRADE POST-MORTEM: MNST Jul 87.5 puts −$446 (~87% loss)
+Jake's thesis: GLP-1 (appetite suppression) + proposed SNAP sugary-drink restrictions → bearish Monster; held
+weeks as MNST "inexplicably rode overbought RSI / top Bollinger" against it. Closed/expired today.
+#### THESIS (interpretation — the three-way lesson, NOT just about MNST)
+- *(wrong MOLECULE)* Both theses target **SUGAR**; energy drinks are a **caffeine/functional** product and
+  Monster's growth skew is **zero-sugar** (Zero Ultra; cf. Celsius). GLP-1 cuts calories (zero-sugar has none);
+  a SNAP sugary-drink ban misses the sugar-free SKU. **Right about the world, wrong about the company's
+  exposure.** (Jake's own catch: "makes me wonder if they track the sugar-free sales" — likely yes; the mix
+  shifted. Data pull owed to confirm.)
+- *(wrong SIGNAL — [[market-fragility]] warning-vs-trigger)* "Overbought RSI + top Bollinger" is a STATE, not
+  a trigger — can persist for months (it's what an uptrend IS). Shorting the extended = fighting momentum;
+  it stayed irrational longer than the option stayed alive.
+- *(wrong INSTRUMENT — the [[where-the-edge-is]] mirror)* BOUGHT puts = long premium, bleeding theta, needing
+  a TIMED move — to express a **secular** thesis (GLP-1 = years) in a dated option → zero at expiry. This is
+  the EXACT opposite of the validated VRP edge: he was the premium-BUYER into an overbought crowd; the edge is
+  to be the premium-SELLER. Someone sold him these puts and kept the $512.
+- **Keeper:** good read on the world ≠ a good trade. The loss was three executional mismatches (molecule /
+  state-as-trigger / dated-option-on-a-secular-thesis), each a trap this session mapped. Logged loud per the
+  losses-as-loud-as-wins rule.
+
 ## DATA (prior planning-file positions — NOT the funded book; kept for record)
 - **Cash:** SPAXX dry powder (money-market, ~4–5% yield). Deliberately underexposed.
 - **⚠️ AI-semi GTC ladder CANCELLED (2026-07-07, during the chip drawdown).** Prior rungs for reference:
