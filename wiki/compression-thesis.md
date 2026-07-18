@@ -229,3 +229,27 @@ GS puts numbers on the efficiency shock that spooked the tape this week. GS ESTI
   win on access open-source for share) or directed, US model economics get commoditized either way; (b) may
   win **tokens abroad** but be **walled out of US enterprise REVENUE** (security/trust) — the deck's "China
   token share vs global revenue share" split IS this. Hold BOTH lenses: input-deflation economics + arms-race statecraft.
+
+### 2026-07-17 ~8pm PT — the ANTI-circular: Japan's sovereign robotics buy = FRESH external demand (Jake's catch)
+Source: ZeroHedge/Bloomberg (Jake paste). Jake: **"Not circular."**
+#### DATA (observed / as-reported)
+- **Japan: 27,500 Nvidia Rubin chips, $2.4bn government-backed**, to build domestic humanoid-robotics/physical-AI
+  models + cut foreign-AI dependence. New entity **Noetra Corp** (Sony/SoftBank/NEC/Fujitsu/Toyota-PFN), a
+  ~**140-MW data center** (~2yr), first industrial-robot model Q1-2027; Japan targets **30% of a $370bn robotics
+  market by 2040.** Jensen: "Japan will require significantly more data centers, power, compute... just the beginning."
+#### THESIS (interpretation — NOT fact)
+- *(the key distinction — resolves the 7/17 razor question)* This is the **opposite of the Meta→Anthropic
+  circular-financing amber**: a **government check from OUTSIDE the AI-capital loop**, for a **NEW end-market**
+  (physical AI/robots), not hyperscaler→lab→hyperscaler recycling. **Fresh external demand = the bull/heal leg
+  the compression thesis needs** ("revenue grows into real end-demand," not self-funded circularity). A point
+  FOR the benign branch.
+- *(NVDA-specifically bullish; cuts the China bear)* Japan bought **Nvidia Rubin, not Chinese ASICs** —
+  **allied SOVEREIGN demand** keeps Nvidia's TAM growing even as China goes custom-silicon (the geopolitical
+  asterisk above). Sovereign AI splits along blocs: US-aligned world buys Nvidia; China builds its own.
+- *(new demand LEG)* **Physical AI (humanoids, warehousing, autonomous trucking, construction)** = the next
+  compute wave AFTER data centers — a genuinely new, non-circular demand vector, + another **power** accelerant
+  (140MW here; ties [[power-scarcity-equities]] PJM). Extends [[ai-capex-cycle]].
+- *(⚠️ calibration)* It's **sovereign/industrial-POLICY demand** (state-backed, like China's push) — "fresh to
+  the AI loop" but not organic *private* pull; policy demand is lumpy/subsidized. And **long-dated** (model
+  Q1-2027, market "by 2040") = a real demand SIGNAL, NOT near-term revenue → supports the multi-YEAR
+  time-correction path, not imminent monetization. Real, fresh, but slow — like everything on this fuse.
