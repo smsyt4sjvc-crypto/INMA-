@@ -56,6 +56,17 @@ weeks as MNST "inexplicably rode overbought RSI / top Bollinger" against it. Clo
 - **Keeper:** good read on the world ≠ a good trade. The loss was three executional mismatches (molecule /
   state-as-trigger / dated-option-on-a-secular-thesis), each a trap this session mapped. Logged loud per the
   losses-as-loud-as-wins rule.
+- *(entry context + a 4th lesson — PEAD)* Entered the 87.5 put at MNST ~$89, **right after earnings**, thinking
+  "just an earnings bounce, it'll come back down." That fights **Post-Earnings-Announcement Drift (PEAD)** — a
+  robust anomaly: post-positive-surprise stocks tend to DRIFT UP for weeks (market under-reacts). The gap was
+  the *starting gun*, not the top. So he was short into THREE up-forces at once — PEAD + band-walk + defensive-
+  rotation bid — with a holed thesis (sugar-free). Any one = a yellow flag; all three = low-prob short that
+  *felt* high-conviction.
+- *(the RECURRING pattern — ties [[_origin-assessment]])* Twice same day on the FADE side: fading this earnings
+  pop, and the put-scanner fading overbought (the [[where-the-edge-is]] band-walk note). His instinct pulls to
+  **reversion / top-picking**, which market structure (momentum, PEAD, band-walks) systematically punishes =
+  the profile's "moderate patience / prefers frequent feedback" wiring expressed as trades. Fix (not "never
+  fade"): wait for the fade to CONFIRM (crack / band re-entry / lower high); stop paying premium to front-run it.
 
 ## DATA (prior planning-file positions — NOT the funded book; kept for record)
 - **Cash:** SPAXX dry powder (money-market, ~4–5% yield). Deliberately underexposed.
