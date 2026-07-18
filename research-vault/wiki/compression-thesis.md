@@ -217,3 +217,15 @@ GS puts numbers on the efficiency shock that spooked the tape this week. GS ESTI
   the compression-thesis "revenue grows into capacity over YEARS" path, on a long fuse — supports "time-correction
   not crash," but the *time* is measured in years, and the model-layer profit pool ($23bn/2030) is thin vs the
   $100bn+/yr capex feeding it. The capex-to-monetization GAP is real and wide, in hard numbers.
+- \* ***GEOPOLITICAL ASTERISK (Jake — both framings hold; economics matters too):*** the cheap tokens are BOTH
+  an economic force (above) AND **statecraft.** *(correction to my "symmetric negative EBIT" above)* — it is NOT
+  symmetric: **China's negative EBIT is a SUBSIDIZED WEAPON; the US labs' ~0% EBIT is the WOUND** (one side
+  *chooses* to lose money at state scale, the other is *forced* to). Statecraft read: pricing near-frontier
+  models 5–20x cheaper AND **open-sourcing** them = the classic China dumping playbook (solar/steel/EV → now
+  *intelligence*), and a **counter-move to US chip export controls** — weaponized to make the US model layer
+  *uninvestable* and win the AI arms race by breaking the adversary's **financing**, not its model. Deepens the
+  [[ai-financing-fragility]] threat and lengthens its DURATION (a state can subsidize losses for years).
+  **Guardrails:** (a) the *effect* holds whether or not it's a literal CCP directive — emergent (labs that can't
+  win on access open-source for share) or directed, US model economics get commoditized either way; (b) may
+  win **tokens abroad** but be **walled out of US enterprise REVENUE** (security/trust) — the deck's "China
+  token share vs global revenue share" split IS this. Hold BOTH lenses: input-deflation economics + arms-race statecraft.
