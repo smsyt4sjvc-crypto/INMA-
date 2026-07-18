@@ -435,3 +435,11 @@ next big Mag7 debt issuance and its bid-to-cover — the thing retail can't see.
   emerging.** Still NOT a pulled/failed deal or a printed <2x cover, so it stays *respect-the-trajectory*,
   not *rupture-confirmed*. Watch Oracle's next issuance / CDS. Also same scroll: JPMorgan — chips sliding
   "despite absolutely rock-solid earnings power" = the beat-sold/multiple-compression read named by the desk.
+- **UPDATE 2026-07-18 ~8:10am PT (scanner) — the debt leg QUANTIFIED and GROWING:** "**Big Tech's $182 Billion
+  AI Debt Spree: How META, NVDA, AMZN Are Reshaping Credit Markets**" + "**Amazon's $25 Billion Bond Sale.**"
+  = the buildout is increasingly DEBT-funded (no FCF at the model layer, per [[compression-thesis]] Goldman
+  deck) — **$182bn is a hard number on the thesis's core mechanism.** The hyperscalers issuing this much paper
+  IS the supply that the halving bid-to-cover (Slok 5x→<2x) has to absorb; more supply into a thinning bid =
+  the pincer. Watch the cover/spread on the Amazon $25bn and the next Oracle/Meta deals — that's where CLAIM
+  becomes RUPTURE. (Bull counter: they can issue because they're the most creditworthy names on earth; the
+  debt is cheap *until* it isn't.)

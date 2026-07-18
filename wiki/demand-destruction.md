@@ -1199,3 +1199,27 @@ Source: ZH/Al Jazeera + WSJ (Jake paste). ⚠️ Mixed credibility — separate 
   instability wildcard** (Jan-protest replay the US reportedly wants). Either is a fat-tail, neither is dated.
 - Fuse status: **armed + smoldering; US doing the provoking (infra/port); the Houthi Red Sea response and the
   physical Brent break remain UNfired.** Book unchanged. Apply info-war discipline to Iranian-agency claims.
+
+### 2026-07-18 ~8:10am PT — ⚠️ FUSE HOTTEST YET: Iran claims TANKERS EXPLODED on Hormuz MINES + closure threat; oil UP (US DENIES)
+Source: scanner digest (Jake ran it). Multiple wires; the core event is CONTESTED.
+#### DATA (observed / as-reported — split by credibility)
+- **⚠️ IRANIAN CLAIM (Tasnim/IRGC), US DENIES:** "**Two oil tankers exploded / caught fire hitting MINES** in a
+  mined route south of the Strait of Hormuz" (Tasnim/IRGC). **US denies.** **Iran THREATENS to close Hormuz**
+  following the claimed explosion. Iran **suspending commitments to the interim US deal.**
+- **MARKET (less contested):** "**Big-time oil price hikes loom**"; "**Oil Prices Up**." Separately: **US oil
+  firms signing Iraq deals for ALTERNATIVE shipping routes** (routing AROUND the chokepoint). Ukraine drones
+  hit a Moscow-region oil site (separate Russia supply pressure).
+#### THESIS (interpretation — NOT fact)
+- *(this is the closest the fuse has come to FIRING)* A **physical Hormuz-chokepoint disruption (mines/tanker
+  explosions) + an explicit CLOSURE threat + oil finally moving** = the exact trigger the vault has tracked for
+  weeks, now knocking. IF real, this is the oil shock the [[market-fragility]] / SPY-puts scenario is positioned
+  for — a *physical* break, not a headline tick.
+- *(⚠️ but it is CONTESTED — hold the discipline)* **Iran claims, US DENIES.** Per the CENTCOM/info-war lesson,
+  treat the tanker-explosion as a **CLAIM** until neutral confirmation. Motives to fabricate/overstate exist
+  (justify a closure, spike oil, create leverage, false-flag). US denial is *meaningful* — Washington would
+  know if tankers detonated in Hormuz. **Confirmation tells to wait for:** (a) neutral shipping/insurer/
+  marine-traffic data on the explosions, (b) an actual **Brent GAP** (physical, not a 1–2% headline pop),
+  (c) an actual **closure**, not a threat.
+- Fuse status upgraded: **threatened/claimed, oil ticking — but NOT yet confirmed/executed.** Still armed;
+  now the hand is on the switch. The two hard confirmations (neutral tanker-hit proof + a Brent physical gap)
+  are what turn this from CLAIM to TRIGGER. Watch those, not the wire count. Book unchanged (already hedged).
