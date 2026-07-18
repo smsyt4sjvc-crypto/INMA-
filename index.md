@@ -9,6 +9,7 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 ## ⭐ Read-first / meta
 - [[_persona]] — response contract (how to engage Jake: no pandering, peer not cheerleader)
 - [[_calibration]] — the pushback filter (argue the side he's under-weighting)
+- [[_origin-assessment]] — the first-message ChatGPT profile of Jake, graded against months of reality
 - [[_assumption-filters]] — pre-flight for any load-bearing thesis (Goodhart/Hanlon/Occam/Chesterton + narrative-tiers)
 - [[data-sourcing-playbook]] — offload heavy fetching, keep the chat lean
 
