@@ -1,7 +1,7 @@
 # Vault Index — the map (read after CLAUDE.md)
 
 Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), then this (what exists + where).
-40 notes, 65 raw sources, 26 tools. Last built: 2026-07-18. Regenerate when notes are added/renamed.
+41 notes, 66 raw sources, 26 tools. Last built: 2026-07-18. Regenerate when notes are added/renamed.
 
 > Two domains, two brains: THIS vault = markets research. The **trading system** is a SEPARATE repo
 > (`Alpaca-Claude`) with its own `CLAUDE.md` — staged in `trading-system/` (one domain per vault).
@@ -53,6 +53,7 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 - [[how-to-get-paid]] — the four buckets, and which one is Jake's (keystone)
 - [[where-the-edge-is]] — get PAID to bear risk, don't predict (keystone; the VRP verdict lives here)
 - [[defense-not-offense]] — the Tudor Jones discipline anchor (the behavioral half: survival, not prediction)
+- [[trading-maxims]] — the sticky one-liners, each mapped to a validated law/study (Buffett, PTJ)
 - [[retail-edge]] — retail-edge doctrine ("most successful retail system for straight ROI?")
 
 ## 🪙 Gold / debasement / flows

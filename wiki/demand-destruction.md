@@ -1453,3 +1453,24 @@ Aspects, Natixis, Kpler, Bloomberg, Axios). Higher grade than a ZH op-ed — the
   valve available this weekend. State a state: bullish the rewiring names structurally, no dated trigger.
 - *(book — descriptive, unchanged)* Higher-grade confirmation of the exact setup the hedge was built for;
   nothing here is a call to add. The Sunday crude open + the four uncapping tells + the cracks remain the grade.
+
+### 2026-07-18 ~7:35pm PT — ⚠️ QUALIFIER on the −4.9M China-import anchor (Jake's catch): reported ≠ actual demand
+Applies to the top-of-note HFI datapoint ("China crude imports −4.9M b/d YoY") that anchors the glut leg.
+#### DATA (observed — established mechanics, not new pull)
+- Iran exports ~**1.5–2M b/d**, ~90%+ to Chinese "teapot" refiners (Shandong); disguised via ship-to-ship
+  transfers off Malaysia + AIS-off + relabeled as "Malaysian" crude. Chinese "Malaysian" imports have run
+  **~2–3x Malaysia's actual ~0.4–0.5M b/d output** for years = the relabeled Iranian barrels (the smoking gun).
+- The 5.0Mb/d Iranian-loadings figure (UBS, this note) is the **satellite-tracked** dark number — dark to
+  Chinese CUSTOMS, not to Kpler/Vortexa/UBS Evidence Lab. Prior log: 9 dark tankers off Malaysia, ~$989M
+  (Vortexa). Russia + Venezuela also route discounted dark crude to China.
+#### THESIS (interpretation — Jake's, endorsed with a size cap)
+- *(Jake's point, correct)* The **reported** China demand decrease OVERSTATES the **actual** decrease: a couple
+  Mb/d went DARK (unbooked in customs), not unconsumed. "They didn't just stop using oil overnight." Imports is
+  the noisiest gauge anyway (imports ≠ refinery runs ≠ consumption; inventory + teapot-quota timing swing it).
+- *(the size cap — why it qualifies, doesn't erase)* Shadow diversion ≈ up to ~2.5M b/d max (Iran+Ven+some
+  Russia) → explains **up to ~half** of the −4.9M, not all. The structural leg is real and separate: EV killing
+  gasoline, LNG-trucks killing diesel, property killing petchem. Net: the shadow fleet **softens** the bearish-
+  crude glut case (some "destroyed demand" is actually latent demand + China stockpiling cheap sanctioned
+  crude → feeds the Phase-II refill/buyer read) — it does not flip it.
+- *(owed tool, not yet built)* A token-free check would pull China customs "Malaysian" crude vs Malaysia's real
+  output + stack tracked-dark tonnage; the divergence = the shadow-barrel count, watchable monthly. Build on ask.
