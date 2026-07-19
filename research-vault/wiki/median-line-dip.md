@@ -92,3 +92,26 @@ surfaces that spread. Not yet run on real data.
   Tests **Spearman(spread-velocity, depth)** — negative rho = a faster-opening fan predicts a deeper drawdown —
   and whether velocity leads the bottom. Primary pair `s5_2` (most episodes; 10y−anything is post-2021 only).
   Smoke test (synthetic) showed peakvel→depth rho ≈ −0.67 + ~12d lead = plumbing works; **real SPY not yet run.**
+
+### RESULT — spread dynamics, SPY run 2026-07-18 ~10:25pm PT (n=13 measurable of 21 drawdowns)
+- **DATA:** early-month spread-velocity vs depth **rho −0.32**; peak spread-velocity vs depth **rho −0.44**;
+  spread-velocity peaked a median **7 days before** the trough (range 0–56d). Now: 5y−2y velocity **+1.40/mo**
+  (opening, above onset median −0.38), 10y−2y opening, **10y−5y closing −0.93**. Deepest non-COVID drawdown
+  (2022 −24.5%) had the most extreme pre-drawdown extension (s52_peak −14.79); COVID (−33.7%, deepest overall)
+  came from a NON-extended state (+2.08); 2021-10 had −10.43 extension but only −5.1% depth.
+- *(THESIS — the honest null on the predictive claim)* **Spread-growth-rate does NOT reliably predict drawdown
+  DEPTH.** Early (ex-ante) velocity rho −0.32 on n=13 = noise-level. Peak velocity −0.44 is stronger but
+  **partly mechanical/endogenous** — a deeper drawdown produces a bigger fan-opening by construction (peakvel
+  is measured during the decline, so it's consequence not cause). Jake's "faster fan → deeper" hypothesis, as
+  tested, is a MISS. Logged loud so we don't re-chase it.
+- *(what it IS — closer to the ORIGINAL "find the bottom" question)* The velocity **peaks near the trough**
+  (median 7d before; several at 0d) → a **coincident/slightly-leading capitulation gauge**, not a depth
+  forecast. Usable as "we're in the capitulation zone," NOT "the bottom is on date X" (0–56d range = noisy).
+- *(extension = risk-raiser not timer)* Extreme fan extension preceded 2022's depth but NOT 2021-10's shallow
+  dip, and COVID came from no extension. Same WARNING-vs-TRIGGER lesson: states shade odds, don't call tops.
+- *(NOW — faint yellow, likely an echo)* Short-end fan opening (2y rolling under) + velocity above onset median
+  = mild caution, BUT localized to the 2y (10y−5y is closing = medium-term healthy) and probably the 2y line
+  still digesting the Feb–Mar 2026 −8.9% dip while price has recovered to new highs (+0.93σ vs 10y). Price
+  at-trend; not a hedge-add signal.
+- *(verdict)* Spread dynamics = a decent real-time STRESS/capitulation VISUALIZATION; a FAILED depth predictor.
+  Keep the tool for the bottom-zone/coincident read; drop the "predict how deep" ambition.
