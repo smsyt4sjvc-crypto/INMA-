@@ -492,3 +492,27 @@ UBS) inside Layer-2 framing.
   ETFs = ~40% of ETF notional) is going from vault-thesis to consensus-flag — which per warning-vs-trigger
   is a state getting crowded, still not a fired trigger. Watch: does US momentum start the forced unwind
   Korea already ran, or hold.
+
+## 2026-07-19 ~4:50pm PT — Goldman CTA trigger map: mechanical sell-triggers sitting AT spot (Jake paste, GS data 3Jul26)
+### DATA (observed — Goldman Sachs CTA flow model; "illustrative," model-dependent)
+- **CTA = trend-following systematic funds** (managed futures) — mechanical buy/sell on momentum, price-insensitive.
+- **SPX sell-triggers (ref 7,457):** short-term **7446**, medium-term **7175**, long-term **6745.** SPX is
+  ~0.1% ABOVE the ST trigger = "right there." (7446 ≈ **SPY ~744.6 — at the book's Dec 745 put strike.**)
+- **NDX (ref 28,592):** ST 29265, MT 27441, LT 25088 — GS says Nasdaq's threshold **already broken.**
+- **Scenario flows ($MM, "Expected Flows by Market"):** in a **Down-2.5σ / 1-month** selloff, S&P E-mini
+  **−$35.0B**; **Totals across all markets −$127.7B** of mechanical selling. Flat/Up scenarios = modest buys.
+  Recent realized: +$2.1B last week / +$2.7B last month. Chart: CTA SPX positioning puked to **−$70B in Apr
+  2026** (tariff crash deleverage), recovered to ~flat by summer; forward down-scenarios fan to −40/−70B.
+### THESIS (interpretation — NOT fact)
+- *(the sell-side mirror of the passive bid)* This is mechanical SELLING that switches on below a level — the
+  counterpart to the 401k/passive mechanical bid ([[bull-bear-ledger]], [[structural-pull-log]]). Predictive-
+  flow tier: rule-forced, price-insensitive.
+- *(the asymmetry IS the fragility)* ~$128B of programmed selling coiled under a 2.5σ move = CTAs are an
+  ACCELERANT, not a floor. Reflexivity fuel: a break begets more selling. This is the mechanical amplifier the
+  vol-gap / correlation-snap fragility thesis needs to turn a war-fuse spark into a cascade.
+- *(dated falsifiable TRIGGERS, per WARNING-vs-TRIGGER)* SPX 7446 / 7175 / 6745 are mechanical tripwires, not
+  vibes. ST trigger ≈ the book's put strike; if the [[demand-destruction]] oil fuse fires and SPX breaks 7446,
+  CTA selling stacks on the exact move the SPY puts are positioned for.
+- *(discipline — priced & public)* GS model, banks' CTA estimates differ, and every desk gets this note → it's
+  CONTEXT/regime (mechanical selling is loaded just below spot), NOT a secret edge or a direction call
+  ([[seeing-vs-predicting]]). Descriptive: it sizes the downside *fuel*, it doesn't time the spark.
