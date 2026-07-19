@@ -1,7 +1,7 @@
 # Vault Index — the map (read after CLAUDE.md)
 
 Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), then this (what exists + where).
-43 notes, 66 raw sources, 27 tools. Last built: 2026-07-18. Regenerate when notes are added/renamed.
+43 notes, 66 raw sources, 28 tools. Last built: 2026-07-18. Regenerate when notes are added/renamed.
 
 > Two domains, two brains: THIS vault = markets research. The **trading system** is a SEPARATE repo
 > (`Alpaca-Claude`) with its own `CLAUDE.md` — staged in `trading-system/` (one domain per vault).
@@ -74,11 +74,12 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 - [[ioss-proposal]] — iOSS policy project (Jake's)
 - [[data-sourcing-playbook]] — (also under meta)
 
-## 🛠 Tools (`tools/`, 27 files — run in Colab, token-free)
+## 🛠 Tools (`tools/`, 28 files — run in Colab, token-free)
 Edge/premium: `vol_risk_premium.ipynb`, `vol_risk_premium_decay.ipynb`, `passive_bid_fingerprint.ipynb`,
 `mechanical_bid_patterns.ipynb`, `first_of_month_options.ipynb`, `momentum_through_first.ipynb`,
 `body_momentum_carry.ipynb`, `sma_20_50_regime_backtest.ipynb`, `memory_intraday_close.ipynb`,
-`median_line_dip_study.ipynb` (straight LAD/median trend vs SMA/%-off-high/rolling-median as a dip trigger).
+`median_line_dip_study.ipynb` (straight LAD/median trend vs SMA/%-off-high/rolling-median as a dip trigger),
+`median_fan_drawdown.ipynb` (10/5/2y median-line fan; drawdown-depth ruler + acceleration).
 Screens/scanners: `insider_trading_scanner.ipynb`, `vault_headline_scanner.ipynb`, `mean_reversion_screener.ipynb`,
 `spy_weekly_poc_scan.ipynb`, `power_equipment_screen.ipynb`, `sp500_health_screen.py`, `cluster_hunter.ipynb`,
 `ignition_filter.py`, `runner_anatomy.py`, `follow_the_money.ipynb`, `structural_pulls.py`, `flow_trackers.py`,

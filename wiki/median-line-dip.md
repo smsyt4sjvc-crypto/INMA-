@@ -56,3 +56,13 @@ SMA200 in 17/29 (59%), beats ROLLMED 17/29 (59%), beats PCT_off_high 13/29 (45%)
    trend proximity, and cheaper tools suffice.
 3. If it survives both: the median-line z is a candidate **entry-timing overlay** for the regime-gated wheel /
    CSP screen — buy the shallow below-line dip on quality names while above the 200-day.
+
+## Extension — the median FAN (drawdown-depth ruler), `tools/median_fan_drawdown.ipynb` (built 2026-07-18)
+Jake's follow-on idea: fit median (LAD) lines at **10/5/2-year** lookbacks (a fan) on an INDEX (SPY — no
+survivorship), then use **how deep past drawdowns fell below each line** + the **fan spread (acceleration =
+2y growth − 10y growth)** to gauge how far a pullback can run. Outputs: every dated drawdown with trough σ vs
+each line (2022/2023/2024/last-year side by side), the trough-depth *distribution*, current position, and an
+implied downside IF this pullback bottoms "typically/deep." **Descriptive distribution, NOT a bottom-timer**
+(WARNING-vs-TRIGGER: deviation is a state/odds-shader). The reliability test Jake actually asked: the line whose
+trough σ **cluster tightest** (smallest range across drawdowns) is the most usable depth-ruler — the notebook
+surfaces that spread. Not yet run on real data.
