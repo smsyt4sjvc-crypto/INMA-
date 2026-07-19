@@ -510,6 +510,12 @@ UBS) inside Layer-2 framing.
 - *(the asymmetry IS the fragility)* ~$128B of programmed selling coiled under a 2.5σ move = CTAs are an
   ACCELERANT, not a floor. Reflexivity fuel: a break begets more selling. This is the mechanical amplifier the
   vol-gap / correlation-snap fragility thesis needs to turn a war-fuse spark into a cascade.
+- *(⚠️ staging nuance — Jake's catch, don't misread the headline)* The $127.7B is the GLOBAL total (all markets);
+  S&P alone ≈ $35B. And that $35B is NOT dumped at 7446 — it's LADDERED across the trigger path: breaking 7446
+  (ST) flips only the short-term sleeve (small); the big tranche fires at the LT break (6745), where long-term
+  CTAs carry the largest positions. Staged by price (which level breaks) AND time (a 1-week dip barely triggers;
+  the −$35B is the sustained 1-MONTH 2.5σ path through the levels). Front-light, back-heavy. This image shows
+  scenario totals + levels but NOT the explicit $-per-level split — mechanism logged, per-tranche $ not fabricated.
 - *(dated falsifiable TRIGGERS, per WARNING-vs-TRIGGER)* SPX 7446 / 7175 / 6745 are mechanical tripwires, not
   vibes. ST trigger ≈ the book's put strike; if the [[demand-destruction]] oil fuse fires and SPX breaks 7446,
   CTA selling stacks on the exact move the SPY puts are positioned for.
