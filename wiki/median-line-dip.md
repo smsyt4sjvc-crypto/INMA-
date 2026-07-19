@@ -66,3 +66,26 @@ implied downside IF this pullback bottoms "typically/deep." **Descriptive distri
 (WARNING-vs-TRIGGER: deviation is a state/odds-shader). The reliability test Jake actually asked: the line whose
 trough σ **cluster tightest** (smallest range across drawdowns) is the most usable depth-ruler — the notebook
 surfaces that spread. Not yet run on real data.
+
+### RESULT — SPY run, 2026-07-18 ~10pm PT (21 drawdowns ≥5% since 2011)
+- **DATA — trough σ distribution per line:** 10y median +0.36σ / deep −1.88σ / **worst −2.63σ (n=7)**;
+  5y median −0.68σ / deep −2.31σ / worst −8.52σ (n=13); 2y median −2.04σ / deep −4.95σ / **worst −12.92σ (n=17)**.
+- **DATA — fan now:** SPY 743.29 (7/17). 10y line 698 (+14.3%/yr), price **+0.93σ / +6.4%**; 5y line 738
+  (+18.4%/yr), **+0.11σ**; 2y line 741 (+17.8%/yr), **+0.12σ**. Accel (2y−10y) +3.5%/yr.
+- *(THESIS — the reliability verdict)* **The 10y line is the reliable depth-ruler, the 2y line is the worst.**
+  Trough σ clusters tight on the stable long line (worst −2.63σ) and scatters wildly on the price-hugging 2y
+  line (−0.9 to −12.9σ). Mechanism: a long line barely moves → bounded, comparable deviations; the 2y line
+  tracks recent price → a fast drop blows through it with a tiny scale → σ explodes. **The 2y "line" measures
+  short-term EXTENSION, not durable bottom depth.** So the longer the lookback, the better the ruler.
+- *(⚠️ the caveat that guts over-trust)* The 10y tight cluster is **n=7, entirely post-2021** (the 10y line
+  didn't exist pre-2021; data starts 2011) — never tested by a crash *as a 10y line*. The 5y −8.52σ (COVID) is
+  what a real crash does to a shorter line. Reliability degrades exactly when needed. Usable as a rough bracket,
+  NOT a bottom-caller — consistent with the vault's states-not-triggers stance.
+- *(where we are)* SPY at-trend short-term (ON the 2y/5y lines), mildly extended vs the 10y (+6.4%), not
+  stretched. Growth nuance: 2y pace (17.8%) < 5y pace (18.4%) → **acceleration has rolled over at the margin**
+  even though price is still above its long-run path. Implied pullback bracket: typical ~−4 to −5% (SPY ~708-715),
+  deep/2022-class ~−11 to −17% (SPY ~615-663). Descriptive distribution, not a target.
+- *(GAP / v2 owed)* The notebook shows trough σ but does NOT yet test **peak-extension → subsequent depth** —
+  the actual predictive link Jake asked for ("how far a pullback might be based on deviation + acceleration").
+  Add: for each drawdown, record the σ / fan-spread AT the pre-drawdown peak, correlate with the depth. That
+  turns the ruler from descriptive into conditional ("starting this extended, drawdowns ran X deep").
