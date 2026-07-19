@@ -1,7 +1,7 @@
 # Vault Index — the map (read after CLAUDE.md)
 
 Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), then this (what exists + where).
-42 notes, 66 raw sources, 27 tools. Last built: 2026-07-18. Regenerate when notes are added/renamed.
+43 notes, 66 raw sources, 27 tools. Last built: 2026-07-18. Regenerate when notes are added/renamed.
 
 > Two domains, two brains: THIS vault = markets research. The **trading system** is a SEPARATE repo
 > (`Alpaca-Claude`) with its own `CLAUDE.md` — staged in `trading-system/` (one domain per vault).
@@ -68,6 +68,7 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 - [[quiet-health-screen]] — value × health × no-story
 - [[runner-anatomy]] — what 200%+ 12-mo runners looked like at ignition
 - [[weekly-momentum]] — NDX top-5 weekly winners: carry, duration, threshold
+- [[median-line-dip]] — the median/LAD line as a dip trigger (wins 1-3mo, loses 12mo; test-run result)
 
 ## 📜 Process / policy
 - [[ioss-proposal]] — iOSS policy project (Jake's)
