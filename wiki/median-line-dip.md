@@ -85,7 +85,10 @@ surfaces that spread. Not yet run on real data.
   stretched. Growth nuance: 2y pace (17.8%) < 5y pace (18.4%) → **acceleration has rolled over at the margin**
   even though price is still above its long-run path. Implied pullback bracket: typical ~−4 to −5% (SPY ~708-715),
   deep/2022-class ~−11 to −17% (SPY ~615-663). Descriptive distribution, not a target.
-- *(GAP / v2 owed)* The notebook shows trough σ but does NOT yet test **peak-extension → subsequent depth** —
-  the actual predictive link Jake asked for ("how far a pullback might be based on deviation + acceleration").
-  Add: for each drawdown, record the σ / fan-spread AT the pre-drawdown peak, correlate with the depth. That
-  turns the ruler from descriptive into conditional ("starting this extended, drawdowns ran X deep").
+- *(v2 BUILT 2026-07-18 — SPREAD DYNAMICS, cells 8b–8d)* Jake's refined metric: **not** any line's slope but
+  the **growth rate of the SPREAD between the 10/5/2y lines during a drawdown** (the fan blowing open as the 2y
+  rolls under the long lines). Per drawdown: spread at peak/trough, `d_spread` (how far it opened), `early_vel`
+  (spread growth in the 1st month), `peakvel`, and `vel_lead_d` (days velocity peaked BEFORE the trough).
+  Tests **Spearman(spread-velocity, depth)** — negative rho = a faster-opening fan predicts a deeper drawdown —
+  and whether velocity leads the bottom. Primary pair `s5_2` (most episodes; 10y−anything is post-2021 only).
+  Smoke test (synthetic) showed peakvel→depth rho ≈ −0.67 + ~12d lead = plumbing works; **real SPY not yet run.**
