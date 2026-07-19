@@ -1,7 +1,7 @@
 # Vault Index — the map (read after CLAUDE.md)
 
 Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), then this (what exists + where).
-41 notes, 66 raw sources, 27 tools. Last built: 2026-07-18. Regenerate when notes are added/renamed.
+42 notes, 66 raw sources, 27 tools. Last built: 2026-07-18. Regenerate when notes are added/renamed.
 
 > Two domains, two brains: THIS vault = markets research. The **trading system** is a SEPARATE repo
 > (`Alpaca-Claude`) with its own `CLAUDE.md` — staged in `trading-system/` (one domain per vault).
@@ -37,6 +37,7 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 - [[power-scarcity-equities]] — the three tiers (and the bottleneck≠hedge correction)
 - [[nuclear]] — the AI-power sleeve
 - [[demand-destruction]] — oil / war fuse (Hormuz, Red Sea, the buffered-shortfall thread)
+- [[civilian-infra-strike-log]] — dated ledger, both sides: non-military / civilian-impact strikes (power/water/telecom)
 
 ## 🩻 Fragility / regime / breadth
 - [[market-fragility]] — the regime read
