@@ -1407,3 +1407,49 @@ SPR/Phase-II thread already logged (2026-07-12 CORRECTION + Phase-II entry; 7/1 
 - *(net)* This isn't a new fuse; it's the **cushion under the existing fuse getting measured and found thin.**
   Bullish-crude-tail-consistent, but via the BUFFER (fragility of suppression + harder repricing on any shock +
   future refill bid), NOT via a commercial-shortage claim the 411M number doesn't support. Book unchanged.
+
+### 2026-07-18 ~12:05pm PT — FT/UBS/IEA/Energy Aspects: "burned through all the buffers" — primary-analyst confirmation + a calibration update owed
+Source: `raw/2026-07-18-zh-ft-burned-through-all-buffers.md` (ZH citing FT, UBS Evidence Lab, IEA, Energy
+Aspects, Natixis, Kpler, Bloomberg, Axios). Higher grade than a ZH op-ed — these are primary desks/agencies.
+#### DATA (observed — as-reported by named sources)
+- **Brent +~4% to nearly $88** (biggest weekly gain since April), after Axios: US notified Israel it's
+  deploying more aerial assets → strikes could expand "as soon as this weekend."
+- **The buffer, quantified by TWO independent sources:** IEA — member countries have released **three-quarters
+  of the planned 400M-bbl** March emergency reserve (~300M gone). Energy Aspects (Amrita Sen) — global oil
+  market held **~400M bbl of EXCESS inventories ex-strategic** going into the war; **"now close to nothing."**
+- **Product cracks — the 10:30am read, now on official close prints:** **ICE gasoil crack closed the highest ON
+  RECORD; Nymex heating oil crack strongest since March.** Low-$70s Brent put spreads traded in size.
+- **UBS Hormuz tracker (Evidence Lab):** oil+gas tanker crossings fell to **ONE**; JTD avg **10** vs ~**50** in
+  Feb; **~5Mb of oil stranded on water** in the Gulf; Gulf crude loadings ex-Iran **1.0Mb/d yesterday from
+  6.0 Wed**; **Iranian loadings ROSE to 5.0Mb/d** (dark fleet running while it still can); outside-strait ports
+  Yanbu/Fujairah **eased to 3.6Mb/d**. Kpler: 8 crossings 7/16, **7 of 8 on the Iranian-side lane.**
+- **Bab al-Mandeb NOT disrupted — flows INCREASED to 9.7Mb/d** (above 6.7 JTD avg).
+- **"Great rewiring" bypasses near their ceiling:** **Saudi East-West pipeline at a RECORD 7 MMb/d; UAE Fujairah
+  loadings at CAPACITY** ("maxed out"). US backing an Iraq-Syria pipeline; Dubai east-coast port; Russia rail
+  link to Iran/Azerbaijan. Natixis: the market priced an "optimistic flow trajectory... not on the table."
+#### THESIS (interpretation — NOT fact)
+- *(⚠️ CALIBRATION UPDATE — I owe this honestly)* One hour ago I flagged the "40-yr low" as SPR-driven and said
+  "commercial isn't scarce, the tightness is the buffer." **Amrita Sen's number sharpens/partly counters that:
+  the GLOBAL excess-inventory cushion (ex-strategic) has gone from ~400M to ~zero — so the buffer that's spent
+  is not just the US SPR, it's the world's commercial excess too.** My "not scarce" caveat was right about US
+  commercial *levels* (411M is mid-range) but under-weighted how far the *global working buffer above normal*
+  has been drawn. Net correction: the buffer-depletion is broader and better-sourced than I credited — this is
+  the under-weighted (bullish-tail) side filling in, exactly what the calibration rule says to expect when a
+  claim is primary-source convergent rather than a single wire. Still NOT a flat-crude shortage at $88; still
+  the cushion, not the barrel — but the cushion is thinner and more global than the SPR-only framing implied.
+- *(the fuse tells — two update cleanly from this note)* (1) **Bab-el-Mandeb UNfired and carrying MORE (9.7 vs
+  6.7)** — one of the four uncapping tells is confirmed quiet; the Houthi bypass-closure hasn't happened and the
+  route is actually busier. (2) **The bypasses are MAXED OUT** (Saudi E-W record 7 MMb/d, Fujairah at capacity)
+  — critical nuance: the outside-Hormuz escape valves exist but are near their ceiling, so they **cannot fully
+  offset a total Hormuz cut.** That RAISES the teeth on the Hormuz-closure tell: less slack to reroute around it
+  than a month ago.
+- *(why $88 not $100, restated with the mechanism)* Visible transit at ONE crossing, buffers ~gone, cracks at
+  records — and flat Brent only ~$88. The offsets holding it: **Iranian dark-fleet loadings surging to 5.0Mb/d**
+  (barrels still reaching China off-book), **bypasses at record throughput** (7 MMb/d Saudi E-W), demand-
+  weakness, OPEC spare. The market is pricing "impaired-but-flowing," not "cut off." The gap from $88 → the
+  $90+ uncapping is exactly the distance between "dark fleet + maxed bypasses still clear it" and "they can't."
+- *(structural, [[power-not-petroleum]])* The "great energy rewiring" is the war forcing the thesis in real
+  time — but the record-throughput/at-capacity prints show the rewiring is a MULTI-YEAR build, not a spare
+  valve available this weekend. State a state: bullish the rewiring names structurally, no dated trigger.
+- *(book — descriptive, unchanged)* Higher-grade confirmation of the exact setup the hedge was built for;
+  nothing here is a call to add. The Sunday crude open + the four uncapping tells + the cracks remain the grade.
