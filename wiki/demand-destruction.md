@@ -1574,3 +1574,24 @@ Source: ZeroHedge / Middle East Eye (Jake paste). Houthi-spokesman (Yahya Saree)
   in the Red Sea (Saudi ~4M bpd Yanbu exposure); (2) a Houthi strike on Saudi ENERGY infra = the uncapping.
 - *(book — descriptive)* Unchanged; the fuse now has a 2nd Iran-independent ignition path — new info even on a
   fade day. Watch declaration→action + Saudi-energy, not the statement volume.
+
+### 2026-07-20 close — GRADE: war fuse faded AGAIN (Trump headline ping-pong); $90 held as resistance
+Source: VAULT HEADLINE SCAN + live-price cell (Jake, 21:04 UTC / Mon close).
+#### DATA (observed)
+- Day shape: AM peace-hope rally (Iran talks) → PM fade on **Trump "more strikes / Iran will pay for killed US
+  troops."** **SPX 7,443 (−0.19%, ~flat); Brent BZ=F 88.97 (−1.44%, BACK BELOW $90); WTI 82.43; VIX 18.6.**
+  Brent topped $90 intraday (multiple times/24h), closed below. Houthi Saudi blockade + Hormuz tanker attacks
+  live, did NOT hold crude up. Dollar UP (DXY 100.97), gold flat (4,012), 10Y 4.60%.
+- **Neoclouds RIPPED on DEALS: IREN +19.2%** (Hut8/$9.8B AI-cloud deal), APLD +8.2%, CORZ +7.2%, WULF +3.5%,
+  NBIS +2.6%; CRWV −0.3%. Semis up (MU +2.5%, AVGO +2.2%). LLY −2.5% (healthcare down), TSLA/AAPL/NFLX red.
+#### THESIS (interpretation — NOT fact)
+- *(framework validated AGAIN)* Trump threatening MORE strikes + Houthi blockade + tanker attacks, and Brent
+  still FADES below $90 (−1.44%). Physical events + threats keep NOT holding the wall. $90 = resistance; the
+  Iran headline ping-pong (talks↔strikes) nets nowhere. Four uncapping tells still un-fired.
+- *(SPX marginally below the ST CTA trigger 7446 → 7443)* A TREMOR (front-light ST tranche only, per the staging
+  nuance), not the cascade — on a 0.2% down day. Needs to grind through 7175/6745 for the heavy selling ([[market-fragility]]).
+- *(⚠️ the neocloud "crack" is being CONTRADICTED, not just bounced)* Saturday's levered-edge dump (Meta compute →
+  neoclouds −6-10%) has fully reversed AND the names are landing big AI-cloud DEALS (revenue showing up) → the
+  near-term bear read weakens; the crack needed CONFIRMERS (rental rates/debt terms), got the opposite. Structural
+  overcapacity risk remains for later ([[ai-financing-fragility]]). The one-candle-noise caution was right twice.
+- *(book — descriptive)* SPY 742 (just below the 745 put); hedge holding on a flat day; LLY the down name. Nothing to do.
