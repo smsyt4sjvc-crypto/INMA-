@@ -58,3 +58,25 @@ timing is Jake's.**
 ## Sources
 - `raw/kobeissi-gold-outflows.md` (screenshot text). Session read 2026-06.
 - 2026-07-17 ZH "central banks flood back into gold, China +48t" (Jake paste).
+
+### 2026-07-19 ~8:46pm PT — GS chart: China's REAL buying >> REPORTED (the under-reporting gap) — source behind the +48t
+Source: Jake paste, Goldman Sachs "Exhibit 2" (IFS / UK HMRC / GS Global Investment Research). The detail behind the 7/17 "+48t".
+#### DATA (observed / as-reported)
+- Two series: **red = REPORTED PBoC purchases** (official) vs **blue = GS ESTIMATE of China purchases on the London
+  OTC market** (the covert channel). **May 2026 nowcast = 48 tonnes, "largest IDENTIFIABLE buyer."**
+- The blue (estimated actual) runs **persistently and materially ABOVE** the red (reported) across ~2015-2026.
+#### THESIS (interpretation — NOT fact)
+- *(the new nuance — official CB-gold data UNDERSTATES the structural bid)* China buys quietly via London and
+  reports a fraction → every official central-bank-gold figure is a LOWER bound. The mechanical/price-insensitive
+  gold buyer is BIGGER than the tape shows. Strengthens the debasement structural-bid core ([[new-economy-regime]]).
+- *(strong-hands side of the divergence, now visible)* The −38.3t ETF outflow (tourists) + gold $5k→$4k was the
+  WEAK hand selling the dip that China/CBs (blue) kept BUYING through. Price weakness = tourists leaving, not the
+  structural buyer — as the ETF-tourist note argued; this chart shows the buyer on the other side.
+- *(statecraft convergence)* Covert gold accumulation = de-dollarization statecraft — SAME China-sovereignty motive
+  as the open-weight AI push ([[compression-thesis]] 7/19). Swapping dollar reserves for gold + subsidizing open
+  models = one policy, two faces (reduce dependence on the American-controlled stack, monetary + computational).
+- *(⚠️ discipline)* The blue is a GS MODEL/nowcast, not reported fact (red = the hard data). The under-reporting GAP
+  is Goldman's thesis. "Identifiable" is qualified (much CB buying is designed to be un-identifiable). Single months
+  are lumpy — the TREND (blue>red, persistent) is the signal, not the 48t print.
+- *(book — descriptive, unchanged)* Hardens debasement base case; gold = debasement referee NOT equity hedge (SPY
+  puts do that). No buy rec — sizing/timing Jake's; if ever held, bucket-4 insurance, small, entered on weakness.
