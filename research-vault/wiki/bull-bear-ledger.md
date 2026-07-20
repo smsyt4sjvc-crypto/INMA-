@@ -272,3 +272,22 @@ Source: Claude ran `sma_20_50_regime_backtest.ipynb` logic on SPY daily 2005-202
   built over the weekend — the tool Jake made to test his own instinct voted against the instinct. Hold vs the bear lean.
 - *(method note)* In-session backtests now possible: Yahoo chart API via curl (period1/period2 + interval=1d forces
   DAILY; 'max' silently downsamples to monthly — always sanity-check bars/year ≈ 252).
+
+## 2026-07-20 ~1:45pm PT — SPY volume distribution measured (in-session): mild real lean; volume-instinct > price-instinct
+Source: Claude ran it in-session (Yahoo daily API + volume, freed environment). Jake's catch: he was reading the VOLUME pane, not price.
+### DATA (observed — SPY daily, to 7/20)
+- **Down-day vol > up-day vol** every window: **1.15x (10d), 1.10x (20d), 1.16x (40d)** = consistent distribution lean.
+- **OBV FALLING** all windows (−75M/10d, −200M/20d, −97M/40d) = net selling pressure building.
+- ⚠️ BUT the recent DECLINE is on LIGHTER volume (45M since 7/10 peak vs 51.9M prior rally); overall vol FADING
+  (10d avg 44.4M vs 40d 54.5M).
+### THESIS (interpretation — NOT fact)
+- *(real but LOW-conviction distribution)* Down-days heavier + OBV bleeding = Jake's volume read CONFIRMED (a real
+  sell-lean). BUT mild (1.1x, not 2x) AND the fade is on DECLINING volume → reads as "buyers stepped away"
+  (apathy/drift), NOT "sellers dumping" (aggressive distribution). Low-volume declines are far less reliably bearish.
+  Net: selling pressure accumulating quietly; no capitulation/heavy institutional exit.
+- *(the calibration keeper)* Same day, his PRICE character-change (20/50) measured as the WRONG sign (mildly
+  BULLISH), but his VOLUME asymmetry leans HIS way. **Volume/flow instinct > price-pattern instinct** — consistent
+  with the session's spine (price = crowded coin-flip surface; flow carries more real info: volume, VRP, mechanical
+  bid hold up; price-pattern eyeballs don't). When gut vs tape disagree, trust the flow read.
+- *(discipline)* 1.1x on fading volume is a WHISPER, not a signal; volume-distribution reads are among the noisiest.
+  Real whisper, leaning his way — but not tradeable alone. Book unchanged (hedged; SPY 742 now below the 745 put strike).
