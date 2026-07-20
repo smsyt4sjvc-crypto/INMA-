@@ -246,3 +246,29 @@ anything.**
   conditioner that ever worked = the 200-day gate, i.e. the flow's on/off switch (inflows continue in bull,
   reverse in bear), not a momentum read. **No carry, no new edge.** Mechanical-bid thread now saturated;
   remaining open item is the ≥2018 decay sweep across all these tools.
+
+## 2026-07-20 ~1:30pm PT — 20/50 regime backtest RUN on SPY (in-session, Yahoo daily API): the character-change signal is BULLISH
+Source: Claude ran `sma_20_50_regime_backtest.ipynb` logic on SPY daily 2005-2026 (5,419 bars, Yahoo chart API via curl). ⚠️ First pull was Yahoo 'max'=MONTHLY (caught via first-of-month fire dates), re-fetched daily.
+### DATA (observed — SPY daily 2005-2026, fwd returns vs base rate)
+- **Base rate (all days):** 20d +0.80%/66%win, 60d +2.38%/72%, 60d-worst −4.83%.
+- **B (Jake character-change, n=252):** 20d **+1.19%/72%**, 60d **+3.73%/83%**, worst **−3.59%** → BEATS base at
+  every horizon + SHALLOWER drawdown.
+- **DEATH cross (20 down-thru-50, n=54):** 20d **−0.22%/52%** (near-term weak, coin-flip), 60d +2.78% (reverts),
+  worst −5.90% (deeper). GOLDEN (n=54) ≈ base. **healthy px>20>50** ≈ base.
+- **Current state (7/20):** close 742.1, **sma20 744.8 ≈ sma50 744.5** (gap +0.2, CLOSING −2.15/5d) = the 20 HAS
+  met the 50 (Jake's chart read confirmed). Price BELOW the 20 but only **20% of last 15d below** (B needs ≥50%)
+  → **B-signal NOT active yet**; at the edge, not triggered.
+### THESIS (interpretation — NOT fact; calibration: cuts AGAINST the monotone-bear lean)
+- *(the counterintuitive result)* Jake's character-change — the "20 rolling to the 50, going backwards" he reads as
+  TOPPING — is, measured, mildly BULLISH (a buy-the-dip-in-uptrend that beats base rate with shallower drawdowns).
+  The eye attached the WRONG SIGN. Live [[seeing-vs-predicting]]: saw deterioration, measures as buyable dip.
+- *(⚠️ don't oversell the bullish)* (1) n=252 is CLUSTERED into ~15-25 episodes (fires on consecutive days), not
+  independent. (2) 2005-2026 = mostly SECULAR BULL, and B REQUIRES a 40-day-established uptrend → structurally
+  ~never fires in a crash → "buy the dip" works BY REGIME. Regime-conditional, not a law. (3) Per the notebook's
+  own rule, ALL signals sit CLOSE to the base rate → the 20/50 character-change times ALMOST NOTHING beyond SPY's
+  upward drift; what little it leans is slightly bullish. The completed DEATH cross is the only mild near-term
+  headwind (−0.22%/52% at 20d), and it reverts by 60d.
+- *(book — descriptive)* Doesn't change positioning; it's a measured data point AGAINST the "it's topping" narrative
+  built over the weekend — the tool Jake made to test his own instinct voted against the instinct. Hold vs the bear lean.
+- *(method note)* In-session backtests now possible: Yahoo chart API via curl (period1/period2 + interval=1d forces
+  DAILY; 'max' silently downsamples to monthly — always sanity-check bars/year ≈ 252).
