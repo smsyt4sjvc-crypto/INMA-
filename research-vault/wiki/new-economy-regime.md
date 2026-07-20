@@ -1121,3 +1121,33 @@ Source: ATTOM via Epoch Times/ZH (Jake paste). July-16 ATTOM report.
 - *(regional tell)* Biggest jumps = Idaho/Colorado/GA/NC = the **pandemic BOOMTOWNS** normalizing hardest =
   froth mean-reverting, not a nationwide break.
 - Net: a warning-grade consumer-stress brick in the slowing-economy/can't-cut-Fed wall; NOT a fired trigger. Book unchanged.
+
+## 2026-07-19 ~10pm PT — "Financial gravity" (SPX / Fed balance sheet): the debasement spine, and its honest bounds
+Source: Jake paste — viral "financial gravity" quote + Bloomberg chart (SPX Index / FARBAST, 1995-2024). Tool: `tools/financial_gravity.ipynb`.
+### DATA (observed — from the Bloomberg chart)
+- SPX / Fed balance sheet (FARBAST): **high 0.0026 (Mar 2000), low 0.0003 (Nov 2008), ~0.0007 (2024), avg 0.0011.**
+- → From the **2008 low the ratio rose ~2.3x** (0.0003→0.0007). The 2022-2024 leg rose to new post-2008 highs
+  **during QT** (balance sheet shrinking). Over the full 1995-2024 window the ratio is BELOW its pre-2008 avg
+  (balance sheet grew faster than stocks across the whole period).
+### THESIS (interpretation — NOT fact; calibration: monotone-confirming ideological claim → push hard)
+- *(the LEGIT kernel — concede)* QE was a huge 2009-2021 tailwind; it inflated asset prices and **widened wealth
+  inequality** (asset owners/elites) — the distributional critique is solid/mainstream. A large share of NOMINAL
+  gains is debasement/liquidity — the "own the numerator" spine. This note's whole reason for being.
+- *(the chart REFUTES its own caption — 3 ways)* (1) **"Flat since 2008" is a Y-AXIS ILLUSION** — the 2000 spike
+  (0.0026) compresses 2009-2024 into a low flat-looking band; the actual move is a **2.3x UPTREND**. Zoom to
+  2009-2024 = clear rising trend. (2) A rising ratio = **stocks OUTPACED the balance sheet** since 2008; if it were
+  all QE the ratio would be FLAT. (3) The 2022-2024 rise happened **during QT** → directly refutes "maintained
+  through QE."
+- *("correlation nearly 1" = spurious)* Two upward-trending (non-stationary) series always correlate ~1 in LEVELS
+  (shared trend — Fed BS also "correlates ~1" with pizza sales). Honest test = correlation of CHANGES (returns vs
+  BS changes) = weak, regime-dependent. Classic spurious-regression trap. "Plugged directly into equities"
+  overstates the plumbing (Fed buys Treasuries/MBS, not stocks; transmission is INDIRECT via discount rates).
+- *("entire rally is an illusion" = refuted)* Ratio rose 2.3x + S&P earnings ~tripled since 2009 (real cash flows)
+  + QT-era rally. Nominal ≠ illusion. **The rally is PART liquidity (big, 2009-2021) + PART real (earnings + the
+  non-Fed 2022-2024 melt-up).**
+- *(the real question it throws back)* Financial gravity is a real force stocks have been ESCAPING, esp. 2022-2024
+  — and whether that escape is real earnings or a bubble (private credit / AI capex) IS the [[market-fragility]]
+  question. Not "it's all the Fed," which the chart quietly disproves. `financial_gravity.ipynb` quantifies the
+  QE-flat vs QT-breakout split + the R² (how much of SPX the balance sheet actually explains).
+- *(firewall note — the mirror of tonight's HF error)* Data (Bloomberg chart) = real; THESIS (caption "entire
+  rally illusion") = overreach. Honor the data, check the claim — the discipline running the correct direction.
