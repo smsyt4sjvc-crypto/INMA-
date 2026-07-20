@@ -253,3 +253,38 @@ Source: ZeroHedge/Bloomberg (Jake paste). Jake: **"Not circular."**
   the AI loop" but not organic *private* pull; policy demand is lumpy/subsidized. And **long-dated** (model
   Q1-2027, market "by 2040") = a real demand SIGNAL, NOT near-term revenue → supports the multi-YEAR
   time-correction path, not imminent monetization. Real, fresh, but slow — like everything on this fuse.
+
+## 2026-07-19 ~6pm PT — Open-weight sovereignty vector, PRIMARY-SOURCED (HF agentic-breach disclosure)
+Source: `raw/2026-07-16-huggingface-agentic-breach-disclosure.md` (official HF post). Reached via a viral anti-
+Anthropic post; the FACTS check out against the primary source, the anti-Anthropic CONCLUSION does not.
+### ⚠️ CORRECTION (mine, visible per the rules)
+- On 2026-07-19 I initially discounted the viral post's specifics (GLM 5.2, "17,000 actions," "guardrails blocked
+  them") as likely embellishment. **The HF primary source CONFIRMS all three.** My error: I conflated agenda-
+  framing with fabricated facts — the post's DATA was sound; only its THESIS (anti-Anthropic "lobotomy" conclusion)
+  was spin, which HF explicitly disowns ("not an argument against safety measures... sharing feedback with the
+  providers"). Firewall lesson in reverse: discount the conclusion, verify the facts — don't let spin impeach data.
+### DATA (observed — HF official)
+- Autonomous AI agent ran a full multi-stage intrusion of HF production infra (malicious dataset → 2 code-exec
+  paths → node access → credential harvest → lateral movement), weekend timeline, **>17,000 actions**, swarm of
+  short-lived sandboxes, self-migrating C2. "Agentic attacker" = confirmed, not forecast.
+- HF's forensics: **hosted frontier models (commercial APIs) BLOCKED the analysis** — couldn't distinguish
+  incident-responder from attacker when fed real exploit payloads/C2 artifacts. HF fell back to **GLM 5.2
+  (open-weight, Chinese/Zhipu) self-hosted** — which also kept attacker data + credentials in-perimeter.
+### THESIS (interpretation — NOT fact)
+- *(the open-weight sovereignty vector, now primary-sourced)* Self-hosted open-weight has a **durable edge in a
+  specific segment**: security forensics + any workload where (a) hosted safety filters block legit high-signal
+  work, or (b) data legally/physically can't leave the perimeter. Precise version: open-weight won here on
+  **ACCESS + data-residency** (usable when hosted refuses; keeps data in-house), **NOT** proven capability
+  superiority. A whole demand segment (sovereign/regulated/security) routes AROUND hosted APIs → worsens the
+  closed-lab economics (the ~0% EBIT "wound") on top of commodity-inference erosion.
+- *(the China asterisk, made concrete)* The open-weight model a major Western AI platform used for breach forensics
+  was **Chinese (GLM/Zhipu)** — because US-safety-tuned hosted models locked them out. The subsidized-weapon /
+  statecraft dynamic ([[compression-thesis]] geopolitical asterisk) in one real datapoint: Western defender → Chinese
+  open-weight, driven there by American guardrails. Security + economic arenas converge.
+- *(honest on the hosted side — incl. Anthropic)* The guardrail false-positive on legitimate forensics is a REAL,
+  now-documented structural disadvantage for hosted frontier models in this domain. Not spin. The fix is better
+  dual-use handling, not abandoning safety (HF's own measured read). State it straight: safety tuning has value AND
+  a real cost in high-signal security work.
+- *(book relevance — descriptive)* Hardens the open-weight/compression leg + the China-statecraft asterisk — the two
+  reasons to doubt closed frontier labs capture all the AI value ([[ai-financing-fragility]], [[ai-capex-cycle]]).
+  A real crack, correctly identified, that had been wrapped in a sales pitch.
