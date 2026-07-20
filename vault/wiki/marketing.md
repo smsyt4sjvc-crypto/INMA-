@@ -14,6 +14,17 @@ Source: [[2026-07-10-git-history-ingest]]
 - [2026-06-26] **Mailer back-v2**: full-bleed two-column design, laid out around
   the postage cutout.
 
+### Mailer result — first drop (measured)
+- [2026-07-20] **250 pieces** sent to a **highly targeted list** (Jake's count).
+- [2026-07-20] GA4 (page path, Jun 15–Jul 20): **`/welcome` did not register** —
+  below `/game.html` (3) and `/index.html` (2), i.e. ~0–2 views. So ~0 trackable
+  QR scans from the drop.
+- [2026-07-20] `/welcome` URL confirmed **live/working** (inmagent.com/welcome →
+  HTTP 200; GitHub Pages serves welcome.html at the clean path). The zero is real
+  traffic, not a broken link.
+- [2026-07-20] Site overall in that window: 292 views (homepage 120, diy 42,
+  market-report 33, work 33) — traffic exists, just not from the mailer.
+
 ### The /welcome landing (mailer destination)
 - [2026-06-24] Full advocate-pitch welcome block with bear logo, sticky Home
   banner, contact buttons.
@@ -40,6 +51,14 @@ Source: [[2026-07-10-git-history-ingest]]
 ## IDEAS & DIRECTION (thinking — not yet fact)
 - [2026-07-10] The offer board is itself a contractor-acquisition channel (free to
   apply, credential gate) — not just homeowner-facing marketing. See [[offer-board]].
+- [2026-07-20] **Mailer read (Jake + Claude):** 250 pieces is too small a sample
+  to judge from QR scans, and QR is the highest-friction ask on a postcard. Mail
+  converts on **calls/typed URLs and repetition**, which GA4 can't attribute (a
+  phone call is invisible). So ~0 scans ≠ ~0 value. Jake: "there's value in the
+  idea, gotta keep after it." Levers to try: (1) lead the CTA with **call/text +
+  offer**, QR secondary; (2) **repeat** to the same 250 in 3–4 wks; (3) add a
+  **"mention this card"** code so a phone call becomes countable; (4) **UTM** the
+  QR so scans label as "mailer" in GA4. Not yet acted on.
 
 ## Superseded
 - 🔄 UPDATED [2026-07-10]: Home Tune-Up mailer offer was **15% off** initially
