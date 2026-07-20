@@ -503,3 +503,29 @@ Source: Jake synthesis (rich Mag-7 valuations + debt-funded capex + China token-
 - *(book — descriptive)* This IS the correlation-snap the Dec SPY puts are long (one macro cause correlates
   everything, unwinds crowded trades through one door — [[market-fragility]] vol-gap). Positioned for his own
   thesis; the only discipline is NOT to read the deep snowpack as a timing edge and add into it.
+
+## 2026-07-19 ~10:35pm PT — ⚠️ CORRECTION to the entry above (Jake's pushback; I over-hedged the Mag-7 insulation)
+### DATA / THESIS (interpretation — NOT fact)
+- *(#1 correction — Mag-7 FCF is NOT safe)* At least 2 Mag-7 are plausibly flat-to-**FCF-negative by 2026-27**:
+  **Meta** (no external cloud to monetize the capex → pure internal bet, steepest ramp, zero offset) and **Amazon**
+  (FCF-negative in prior heavy-invest years, 2021-22). My "cash-rich core can eat a bad cycle" = too glib.
+  **The distinction that survives = OPTIONALITY vs OBLIGATION:** Mag-7 capex is DISCRETIONARY (can cut → FCF snaps
+  back, stock may RALLY on discipline); Oracle/neoclouds' is COMMITTED (debt-serviced datacenters, can't dial down).
+  Mag-7 hold a put on their own capex; the levered edge wrote one.
+- *(#2 correction — the CIRCULAR revenue: labs' earnings ARE Mag-7 earnings)* I was too clean with "token loss
+  hits the labs not Mag-7." The circle: OpenAI raises from MSFT → spends on Azure (=MSFT AI revenue); Anthropic
+  raises from GOOGL/AMZN → spends on GCP/AWS; neoclouds raise debt → buy NVDA → NVDA invests in the neoclouds that
+  buy its chips (vendor financing). A material slice of Mag-7 "AI cloud revenue" = labs/neoclouds spending RAISED
+  CAPITAL (VC+debt) that recirculates as Mag-7 revenue — same dollar counted at multiple nodes. **Lab distress DOES
+  transmit to Mag-7 via the compute-spend channel.** It's the MARGINAL, most-hype-sensitive layer (not all — real
+  Copilot/ChatGPT demand exists), and it's REFLEXIVE both ways: up = raise→spend→revenue→stocks up→easier raise
+  (self-validating → why "priced beyond perfection" persists); down = reverses through one door. The circular
+  financing = the avalanche's AMPLIFIER, not just a fragility.
+- *(the book tie — the circle IS the correlation wire)* The circularity makes the "diversification" across Mag-7 /
+  labs / neoclouds / NVDA **ILLUSORY — one correlated bet wired by the money circle.** This is WHY implied
+  correlation at ~9% ([[market-fragility]] vol gap) is the mistake: they look independent, are actually one trade,
+  and snap TOGETHER when the circle breaks. The circular revenue = the physical mechanism behind the correlation-
+  snap the Dec puts are long. Jake found the wire.
+- *(WARNING vs TRIGGER, unchanged)* Still a STATE — the circularity says the de-rate will be REFLEXIVE/FAST + explains
+  why numbers look great NOW (up-phase self-validates); it does NOT date it. Triggers: lab down-round / hyperscaler
+  AI-revenue-growth miss / capex guide-down. Goes through one door, all at once — not on a known day.
