@@ -571,6 +571,11 @@ Source: QTR/Fringe Finance via ZH (Jake) — OPINION/polemic tier; the underlyin
   engineering) AND it's repackaged into IG paper held by insurers/pensions, a PC stress event **doesn't stay in
   sophisticated funds — it transmits into the RETIREMENT system**, with thin buffers (the arbitrage). Widens the
   AI/PC-unwind blast radius to Main Street annuities. Another correlated WIRE in the avalanche stack (7/19).
+  ⚠️ REFINEMENT (Jake's catch, 2026-07-20): the DESTINATION (retiree/annuity/pension = bagholder) was ALREADY in
+  this note's core chain (the Bermuda/Apollo-Athene story, Burry + IMF-GFSR sourced). The wrapper is NOT a new
+  channel — it's a new PUMP: the securitization + 30%→<1% capital arbitrage is the FEEDER that loads MORE private
+  credit into the KNOWN Bermuda/annuity destination, capital-cheaply. Same pool, bigger on-ramp. (I over-credited
+  it as "new" on first log.)
 - *(the AIG mechanism, accurately described)* CONCENTRATION: many tranches lean on the SAME insurer's balance sheet
   → one insurer downgrade = simultaneous mass downgrades + forced selling. Real single-point-of-failure contagion.
 - *(⚠️ discipline — "mother of all crashes" is overreach; the author CONCEDES it)* "Not identical to AIG's CDS book…
