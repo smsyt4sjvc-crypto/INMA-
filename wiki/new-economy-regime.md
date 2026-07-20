@@ -1151,3 +1151,26 @@ Source: Jake paste — viral "financial gravity" quote + Bloomberg chart (SPX In
   QE-flat vs QT-breakout split + the R² (how much of SPX the balance sheet actually explains).
 - *(firewall note — the mirror of tonight's HF error)* Data (Bloomberg chart) = real; THESIS (caption "entire
   rally illusion") = overreach. Honor the data, check the claim — the discipline running the correct direction.
+
+### RESULT — financial_gravity.ipynb run (Jake, 2026-07-19 ~10pm PT). Prior CONFIRMED; thesis upgraded to M2.
+#### DATA (observed — the run)
+- **SPX/Fed-BS ratio trend:** full +1.6%/yr; **QE era (pre-6/22) −0.4%/yr (≈flat)**; **QT era (6/22→) +29.7%/yr,
+  moved 2.40x.** SPX/M2 trend +4.2%/yr (moved 1.72x).
+- **R² of log-SPX on log-denominator (levels):** Fed BS 0.72 (elasticity 0.91); **M2 0.94 (elasticity 1.60)**;
+  Fed BS QE-era 0.69 (elast 0.74); **Fed BS QT-era 0.91 but elasticity −1.87** (BS down while SPX up = inverse).
+#### THESIS (interpretation — NOT fact)
+- *(prior graded — landed)* Predicted flat-QE / break-up-QT + M2-fits-better: all confirmed. QT elasticity −1.87 =
+  the Fed *drained* while stocks rose → hardest refutation of "maintained through QE."
+- *(⚠️ apply the spurious-correlation caveat to the tool's OWN R²)* All three R²s are LEVELS regressions of
+  non-stationary (trending) series → absolute values INFLATED by shared trend (same trap as "correlation ~1").
+  Valid = the RELATIVE ranking (M2 0.94 > Fed BS 0.72). Overstated = reading "94%" as explained *returns*. v2:
+  regress weekly RETURNS for the honest predictive R². QT R²=0.91 is the most trend-contaminated (short window,
+  two opposite drifts fit a line trivially) → read as "DECOUPLED," not negative causal elasticity.
+- *(the upgrade — the defensible version of "financial gravity")* It's not the Fed BALANCE SHEET, it's **broad money
+  (M2)** — and **stocks are ~1.6x levered to it** (elasticity 1.60). M2 = Fed + bank credit + fiscal, which is why
+  it kept lifting stocks through QT when the Fed's own sheet shrank. The narrow gauge (Fed BS) has been actively
+  MISLEADING since 2022; M2 (better: global M2) is the gauge that tracks. Debasement spine, sharpened: equities =
+  a levered claim on the money supply.
+- *(the original claim's honest bounds)* "Flat since 2008" = RIGHT for 2009-2021 (QE, −0.4%/yr) and WRONG for
+  2022-2026 (the 2.4x QT breakout). A true statement that expired mid-2022. The 4-yr decoupling (rally on broad
+  money + earnings + AI capex, NOT the Fed) IS the [[market-fragility]] question, now quantified.
