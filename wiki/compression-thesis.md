@@ -288,3 +288,30 @@ Anthropic post; the FACTS check out against the primary source, the anti-Anthrop
 - *(book relevance — descriptive)* Hardens the open-weight/compression leg + the China-statecraft asterisk — the two
   reasons to doubt closed frontier labs capture all the AI value ([[ai-financing-fragility]], [[ai-capex-cycle]]).
   A real crack, correctly identified, that had been wrapped in a sales pitch.
+
+## 2026-07-19 ~8:40pm PT — Chinese models = ~50% of US-firm token share on OpenRouter (Bloomberg) — the thesis quantified
+Source: Jake paste, Bloomberg chart citing OpenRouter. The open-weight/China value-migration thread, measured.
+### DATA (observed)
+- **Weekly token share of Chinese models used by US firms on OpenRouter: ~5% (Jan 2025) → ~50-53% (Jul 6 2026)** —
+  an ~18-month flip; latest print near the highs.
+- **⚠️ Denominator caveat (Bloomberg's own):** "Data EXCLUDE traffic sent directly to providers and cover only a
+  FRACTION of overall AI consumption." OpenRouter is a per-task cost/quality ROUTER → structurally over-samples
+  price-sensitive/experimental developer traffic; EXCLUDES enterprise-direct (Anthropic/OpenAI/Bedrock) + the
+  consumer app surface (ChatGPT/Claude).
+### THESIS (interpretation — NOT fact)
+- *(strong directional confirmation, measured in the RIGHT segment)* This is the commodity-inference tier going
+  open-weight/Chinese — exactly the segment the [[compression-thesis]] / frontier-lab value-migration read says
+  commoditizes FIRST. OpenRouter over-sampling the cost-routed tier isn't a flaw here; it's a clean window onto the
+  LEADING EDGE. The low end is already ~50% Chinese.
+- *(the discipline — "winning over American companies" OVERSTATES)* 50% of OpenRouter ≠ 50% of US AI usage. The big,
+  sticky, high-value pools (enterprise-direct + consumer) are excluded. Correct read: closed labs being evicted from
+  the LOW/cost-routed end on schedule and retreating up-market — NOT "US firms switched to Chinese AI." Same base-rate/
+  denominator discipline as insider-selling / foreclosures / JOLTS.
+- *(China asterisk, now a number)* US firms routing the majority of cost-sensitive tokens to Chinese models = the
+  subsidized-weapon/statecraft dynamic, quantified (not a claim).
+- *(book — descriptive)* Hardens the bear-frontier / value-migration lean, but it's "closed labs lose the commodity
+  tier," not collapse. No clean LONG for Jake (Chinese pure-plays foreign-listed = the Midea problem); tradeable
+  expression stays picks-and-shovels: **Nvidia runs the tokens regardless of who wins**; the loser = closed-lab
+  private marks (unshortable). [[ai-financing-fragility]], [[ai-capex-cycle]].
+- *(WARNING vs TRIGGER)* The chart is a leading STATE. The repricing TRIGGER = the share-shift showing up in a closed
+  lab's revenue DECELERATION or a DOWN-ROUND. Canary singing now; cat appears when the growth number/funding mark breaks.
