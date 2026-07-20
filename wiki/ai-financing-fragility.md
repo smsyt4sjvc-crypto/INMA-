@@ -529,3 +529,28 @@ Source: Jake synthesis (rich Mag-7 valuations + debt-funded capex + China token-
 - *(WARNING vs TRIGGER, unchanged)* Still a STATE — the circularity says the de-rate will be REFLEXIVE/FAST + explains
   why numbers look great NOW (up-phase self-validates); it does NOT date it. Triggers: lab down-round / hyperscaler
   AI-revenue-growth miss / capex guide-down. Goes through one door, all at once — not on a known day.
+
+## 2026-07-19 ~10:40pm PT — the levered-edge crack PRINTS: Meta rents excess compute → neoclouds dump 6-10%
+Source: Jake (as-reported; specific announcement + move not independently confirmed this session — Jan-2026 cutoff).
+### DATA (as-reported)
+- **Meta announced selling/renting EXCESS compute.** Same day, **neoclouds dumped ~6-10%: Nebius, CoreWeave, etc.**
+### THESIS (interpretation — NOT fact)
+- *(reframe "Meta needs cash" → OVERCAPACITY, which is worse)* Meta has ad FCF — not liquidity distress. Far likelier:
+  **over-ordered GPUs → excess → monetize by renting.** The tell isn't cash-need, it's **overbuild = the compute glut
+  forming** (CEPI air gap made physical).
+- *(why the neoclouds dumped — the mechanism)* Hyperscalers renting excess compute = **they become COMPETITORS to
+  the neoclouds and FLOOD rental supply** → craters the SCARCITY-priced rental economics the neoclouds' debt-funded
+  model depends on. Market priced "glut arriving + our peers are now our competitors," not "Meta desperate."
+- *(this IS the levered-edge crack we flagged one turn ago)* "Avalanche starts at the levered edge (neocloud/Oracle),
+  not a Mag-7 miss." The 6-10% neocloud dump = that edge repricing — equity market front-running a credit event,
+  not one yet.
+- *(upgrades optionality-vs-obligation into a DYNAMIC — ugly)* The core's optionality is EXERCISED BY dumping on the
+  edge: Meta flexing (renting excess) is DIRECTLY what craters the neoclouds. **The core survives by cannibalizing
+  the edge — its escape hatch is the edge's trapdoor.** The strong players actively MAKE the weak ones break.
+- *(grain of truth in "need cash")* Not distress, but monetizing compute they'd normally hoard = a tell the capex ramp
+  strains FCF enough to defend it with rental revenue (ties to Meta-FCF-going-negative). "Need cash" overstated →
+  "defending FCF under capex strain" fair.
+- *(⚠️ discipline)* One-day 6-10% in CoreWeave/Nebius = high-beta/high-short-interest NOISE-prone (can bounce);
+  "reselling spare capacity" has a benign version (AWS spot). Bear read REQUIRES the overcapacity interpretation.
+  Confirmers that turn the equity twitch into a credit fact: **neocloud rental rates rolling over + the terms on their
+  next debt raise.** Watch those, not the one candle.
