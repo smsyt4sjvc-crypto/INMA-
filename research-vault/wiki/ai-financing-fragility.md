@@ -554,3 +554,31 @@ Source: Jake (as-reported; specific announcement + move not independently confir
   "reselling spare capacity" has a benign version (AWS spot). Bear read REQUIRES the overcapacity interpretation.
   Confirmers that turn the equity twitch into a credit fact: **neocloud rental rates rolling over + the terms on their
   next debt raise.** Watch those, not the one candle.
+
+## 2026-07-20 ~10:40am PT — private-credit → IG via insurance WRAPPERS (the AIG rhyme): a new channel into pensions
+Source: QTR/Fringe Finance via ZH (Jake) — OPINION/polemic tier; the underlying MECHANISM is Bloomberg-sourced (real). Firewall: mechanism = DATA, "2008 redux imminent" = the overreach.
+### DATA (as-reported, Bloomberg-sourced)
+- UBS + others exploring packaging **private-credit fund stakes into BONDS**; perpetual PC vehicles don't fit
+  ratings models → add **insurance "wrappers"** so a tranche inherits the insurer's rating → marketed **investment
+  grade** despite opaque/illiquid underlying.
+- **The engine = regulatory-capital ARBITRAGE:** an A2 wrapped tranche can require **<1% regulatory capital vs up
+  to 30%** for the direct PC-fund exposure. Lets insurers/pensions/annuities hold the risk with almost no buffer.
+- Fund-finance market **~$1–1.75T** (from a few hundred B a decade ago). PC stress tells cited: **frozen exits,
+  stuck old investments, borrowers repaying loans with MORE debt (PIK toggles).**
+### THESIS (interpretation — NOT fact)
+- *(real + additive to this note)* Private credit funds the AI-capex/datacenter/neocloud buildout. This adds a NEW
+  TRANSMISSION CHANNEL: if the PC layer is stressed (frozen exits/PIK = real tells → WHY they need this liquidity
+  engineering) AND it's repackaged into IG paper held by insurers/pensions, a PC stress event **doesn't stay in
+  sophisticated funds — it transmits into the RETIREMENT system**, with thin buffers (the arbitrage). Widens the
+  AI/PC-unwind blast radius to Main Street annuities. Another correlated WIRE in the avalanche stack (7/19).
+- *(the AIG mechanism, accurately described)* CONCENTRATION: many tranches lean on the SAME insurer's balance sheet
+  → one insurer downgrade = simultaneous mass downgrades + forced selling. Real single-point-of-failure contagion.
+- *(⚠️ discipline — "mother of all crashes" is overreach; the author CONCEDES it)* "Not identical to AIG's CDS book…
+  smaller, more collateralized… no evidence of an AIG-sized hole yet." Brakes: (1) STATE not TRIGGER — how hard,
+  not when; triggers = a big PC fund GATING/marking down, an INSURER DOWNGRADE, a PIK-default wave (none fired).
+  (2) Wrapper structures are NASCENT/small ("exploring") — the piece conflates the whole $1.75T with the tiny new
+  wrapper corner. (3) Holders = PATIENT capital (annuities/pensions, not overnight-funded banks) → the acute
+  2008 LIQUIDITY-RUN dynamic is WEAKER; slow-burn systemic risk, not a Lehman-weekend structure.
+- *(net — descriptive)* The 2008 RHYME on risk-relocation is legit + hardens the PC leg with a concrete new channel
+  into retirement money. The "imminent redux" is ZH-tier overreach. Real fragility, wrong clock. Watch: PC fund
+  gates/markdowns, insurer downgrades, PIK-default rate.
