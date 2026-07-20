@@ -522,3 +522,28 @@ UBS) inside Layer-2 framing.
 - *(discipline — priced & public)* GS model, banks' CTA estimates differ, and every desk gets this note → it's
   CONTEXT/regime (mechanical selling is loaded just below spot), NOT a secret edge or a direction call
   ([[seeing-vs-predicting]]). Descriptive: it sizes the downside *fuel*, it doesn't time the spark.
+
+## 2026-07-19 ~10:15pm PT (Mon afternoon Asia) — weekend-stack's FIRST verdict: rotation, NOT liquidation
+Source: Jake's Asian-market digest. The first market read on the weekend stack (Brent>$90, war, 30Y 5%, CTA triggers).
+### DATA (observed / as-reported)
+- **KOSPI −3.9%** (off a ~−5% intraday low), **SK Hynix −4.2%**, Samsung weak = Korea the epicenter of the
+  AI/memory-chip derate. **Hang Seng +2.1%, Shanghai +1.2%, Taiwan +0.6% (TSMC rebounding ~2%), Australia +0.2%.**
+  **Japan CLOSED (holiday)** — any displayed Nikkei drop = Friday's stale close (Jake caught it).
+- **Brent +2.6%, above $90** (holding the break in the liquid Asia session; +2.6% vs Sunday's +2.81% = holding,
+  not extending). **USD/JPY ~¥162 (very weak yen — NO haven bid).**
+### THESIS (interpretation — NOT fact)
+- *(value-migration in the TAPE — the night's cleanest confirmation)* **China green while Korea-memory bleeds** =
+  capital rotating OUT of the AI-hardware "wound" INTO Chinese equities — the same repricing as the OpenRouter
+  share chart ([[compression-thesis]] 7/19). Who-captures-AI-value, pricing in real time.
+- *(the yen tell = NOT risk-off)* Weak yen with no haven bid = Asia treating this as SECTOR rotation, not macro
+  panic. A real global risk-off bids the yen (USD/JPY falls); it didn't. Confirms Jake's "not indiscriminate" read.
+- *(sector-brain logic, consistent)* China up + Korea down + Taiwan up = HIGH DISPERSION / low correlation =
+  ROTATION regime, not the wired-brain (everything-red) STRESS regime ([[seeing-vs-predicting]] connectedness≠crash).
+- *(within-semis split)* Memory (SK Hynix) down, logic/foundry (TSMC +2%) up = commodity leg bleeds, toll holds.
+  A DRAM/memory derate, NOT all-semis liquidation → bad for MU/SOX specifically (prediction-set DRAM/SOXX legs).
+- *(oil marker)* Brent HOLDING >$90 in liquid Asia = confirmation tell #1 leaning "real break" not Sunday
+  overshoot; still no named physical catalyst → upgraded "Sunday spike"→"sustained break, catalyst pending"
+  ([[demand-destruction]]).
+- *(book — descriptive)* Rotation ≠ the broad liquidation the SPY puts are the fat-tail for → the multi-vector
+  stack did NOT produce coordinated Asian risk-off → mildly LESS likely the hedge pays big Monday; CTA 7446 less
+  likely to fire hard on a rotation night. Watch US open: mirrors Asia (SOX/MU weak, broad OK = rotation) vs broad red.
