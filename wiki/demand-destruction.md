@@ -1503,3 +1503,26 @@ Source: Jake's TradingView screenshot (Spot Brent), 7/19 5:43pm PDT. The level t
   BEFORE the fuse. If crude holds $90+ and equities gap risk-off Monday (CTA ST trigger 7446 ≈ the 745 put strike,
   [[market-fragility]]), the hedge pays into the move. Positioned, not chasing — watch the two confirmation tells.
   Grade the nightly prediction set's WTI/marker legs against this honestly.
+
+### 2026-07-20 ~12:00am PT — ⚠️ VESSEL STRUCK near Oman (UK NAVY — NEUTRAL source): hull disabled + abandoned
+Source: UK Navy / UKMTO via Jake (headline 11:58pm PT 7/19). CREDIBLE (neutral Western maritime authority, NOT Iranian-agency).
+#### DATA (observed / as-reported)
+- **UK Navy: a vessel near Oman was struck by an "unknown projectile"; fire NOT extinguished; vessel ADRIFT;
+  crew ABANDONED SHIP safely.** Location = Gulf of Oman (the Hormuz APPROACH lane, OUTSIDE the strait proper).
+#### THESIS (interpretation — NOT fact)
+- *(info-war discipline paid off)* This is the NEUTRAL confirmation the 7/18 entry said to wait for — vs the
+  contested 7/18 Iranian "tankers hit mines south of Hormuz" claim (US denied). A credible Western naval authority
+  reporting an actual hull hit/disabled ≠ a Tasnim claim. We didn't chase the claim; the credible version printed.
+- *(candidate for TWO tells)* (1) Closest to the **"hull-stopped" uncapping tell** yet, credibly sourced (a real
+  disabled+abandoned hull, not a warning shot). (2) Candidate for the **"named physical catalyst"** that upgrades
+  the 7/19 $90 Brent break from "cumulative-stress repricing" → "physical catalyst confirmed."
+- *(⚠️ NOT automatically the uncapping — 3 open unknowns)* (a) **Vessel TYPE unknown = the whole ballgame** —
+  crude TANKER (marker-moving) vs container/bulk (escalation headline, low oil content). Unspecified. (b)
+  Attribution open ("unknown projectile" — Houthi/Iranian/mine/drone). (c) Gulf of Oman = OUTSIDE Hormuz →
+  transmission is via war-risk INSURANCE premium (logistics channel), NOT a physical strait cutoff; and one ship
+  ≠ blockade (framework held through GFS Galaxy + every prior single-vessel incident).
+- *(the confirmation to watch, live)* (1) vessel type (tanker?), (2) attribution, (3) **does Brent EXTEND above
+  $90 / toward the $86-91 call wall on this?** Extend = marker firing on a real catalyst (physical-shortfall
+  channel); shrug = "one ship on the approach, insurance repriced, supply intact."
+- *(book — descriptive)* The exact spark the SPY puts + zero-energy-longs + cash were positioned for, before the
+  fuse. Watch the 3 tells; don't chase a midnight headline. Grade the nightly WTI/marker legs against the tape.
