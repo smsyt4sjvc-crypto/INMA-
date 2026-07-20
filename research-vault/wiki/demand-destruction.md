@@ -1474,3 +1474,32 @@ Applies to the top-of-note HFI datapoint ("China crude imports −4.9M b/d YoY")
   crude → feeds the Phase-II refill/buyer read) — it does not flip it.
 - *(owed tool, not yet built)* A token-free check would pull China customs "Malaysian" crude vs Malaysia's real
   output + stack tracked-dark tonnage; the divergence = the shadow-barrel count, watchable monthly. Build on ask.
+
+### 2026-07-19 ~5:43pm PT — ⚠️ THE $90 MARKER BREAKS: Brent $91.03 (+2.81%) on the Sunday open
+Source: Jake's TradingView screenshot (Spot Brent), 7/19 5:43pm PDT. The level the whole thread was built around.
+#### DATA (observed)
+- **Brent $91.03, +$2.49 (+2.81%)** — a near-vertical spike candle off ~$89.5 straight THROUGH $90 to a $91.5
+  wick, settling $91.03. First sustained trade above the vault's **$90 uncapping marker** this war.
+- Context: Friday close ~$88 (+16% wk, record product cracks); this is the **Sunday-reopen (~3pm PT) reaction**
+  to the weekend escalation stack (Saudi US-base struck, Kuwait power/desal hit, 2 US KIA confirmed, MoU dead,
+  Hormuz visible transit "all but ceased," buffers ~gone).
+#### THESIS (interpretation — NOT fact; hold the framework's own discipline)
+- *(the marker's first real break — significant)* The $90 line the thread watched for weeks is broken. Flat crude
+  is finally catching up to where the **product cracks already were** last week (cracks LED at record highs while
+  flat crude lagged at $88; flat crude now confirms). This is the closest the fuse has come to firing.
+- *(⚠️ but the framework demands the physical-vs-noise split — DON'T over-call it yet)* Two discipline flags:
+  (1) **Sunday-open thin liquidity** — a near-vertical candle on the reopen overstates conviction; the LEVEL
+  ($90 break) matters, the candle SIZE is partly a liquidity artifact. (2) **The marker rule:** words/declarations
+  don't break $90, a PHYSICAL supply event does (Kharg, Abqaiq-class Gulf-ally oil, hull-stopped convoy, Hormuz
+  executed closure). As of this print **no confirmed new physical uncapping event** is in hand — the weekend hits
+  were power/desal/military/base, NOT crude export; the KPC facility stays unidentified. So this may be the market
+  pricing the CUMULATIVE stress (Hormuz near-zero + buffers gone + KIA raising retaliation odds) rather than a
+  single named cutoff.
+- *(the falsifiable confirmation tells — watch these, not the candle)* (1) **Does it HOLD $90 into Monday's LIQUID
+  session** (6:30am PT equities / full crude volume)? A Sunday spike that fades back under $90 by Monday = thin-
+  liquidity overshoot. (2) Is there a **NAMED physical catalyst** — a confirmed strike on Saudi/Kuwaiti crude
+  export, Kharg, a stopped hull, an executed Hormuz closure? Catalyst + hold = the uncapping; neither = overshoot.
+- *(book — descriptive)* This is the exact spark the SPY puts + cash + zero-energy-longs were positioned for,
+  BEFORE the fuse. If crude holds $90+ and equities gap risk-off Monday (CTA ST trigger 7446 ≈ the 745 put strike,
+  [[market-fragility]]), the hedge pays into the move. Positioned, not chasing — watch the two confirmation tells.
+  Grade the nightly prediction set's WTI/marker legs against this honestly.
