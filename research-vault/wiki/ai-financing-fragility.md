@@ -475,3 +475,31 @@ Source: Jake paste (Kobeissi-style macro card). Rates/sovereign angle → [[new-
   more long-end pressure) + CTA mechanical sell-triggers at spot ([[market-fragility]]) = rates/oil/positioning all
   leaning the same way into Monday. The war-oil→inflation→rates loop + discount-rate hit to AI leadership = exactly
   the multi-vector fragility the book's SPY puts are positioned for. Descriptive: the stack aligning, not a reason to add.
+
+## 2026-07-19 ~10:25pm PT — Jake's avalanche synthesis: sharpened (CEPI-margin, levered-edge, yen-carry-corners-Fed)
+Source: Jake synthesis (rich Mag-7 valuations + debt-funded capex + China token-share + circular financing + yen carry).
+### THESIS (interpretation — NOT fact; the fragility stack, made precise)
+- *(#1 — it's a MARGIN risk, not "earnings to China")* Mag-7 earnings ≈ ads (GOOGL/META) + cloud-compute (MSFT/
+  AMZN) + hardware (AAPL/NVDA) — NOT raw API tokens vs DeepSeek. Token-share loss hits the LABS (private, not
+  Mag-7) + memory/hardware capex RETURNS. The real Mag-7 mechanism = **CEPI**: $100Bs of AI capex priced for
+  MONOPOLY margins may earn COMMODITY margins (open-weight caps the price). Valuations don't need earnings to go
+  to China — just to arrive THIN not FAT. More precise than "revenue to China," equally damning ([[cepi]]).
+- *(#2 — the debt is at the LEVERED EDGE, not the cash-rich core)* Mag-7 fund capex from FCF (can eat a bad cycle).
+  The DEBT is Oracle + neoclouds (CoreWeave-type) + datacenter/private credit. **The avalanche starts at the
+  levered edge (a neocloud/Oracle credit event), NOT a Mag-7 miss.** Watch the edge for the first crack — the
+  bid-to-cover on the AI-debt pipe, not Apple's balance sheet.
+- *(#3 — yen carry CORNERS the Fed; Jake's sharpest catch)* Japan = largest foreign UST holder (~$1.1T+). A hard
+  BOJ hike fires two channels: (a) leveraged carry unwind → sell global risk; (b) Japanese **repatriation** → SELL
+  USTs → **US long yields RISE** exactly when the risk-off wants them down (repatriation supply overwhelms the
+  flight-to-safety bid). Fed faces a risk-off it wants to ease into WHILE the long end rises (repat + fiscal supply
+  + oil) → can cut the front end, long end won't follow. **Same "long end won't cooperate" trap as the 30Y-5%
+  entry, + a Japanese accelerant.** Tell: **yen still weak ¥162 post-June-hike** = differential (5% vs low) so wide
+  the carry is still profitable → RESILIENT + LOADED (more built = bigger unwind if it goes), NOT sprung.
+- *(⚠️ WARNING vs TRIGGER — the discipline)* "Avalanchish" = the correct FEEL of a correlated-risk stack, but a
+  fragility stack is a STATE: it sizes how HARD it breaks IF triggered, NOT when. Deep snowpack ≠ imminent slide —
+  it can sit all winter (Mag-7 cash funds it; BOJ gradualism is PRECISELY to avoid the Aug-2024 replay; weak-yen-
+  post-hike proves the carry isn't unwinding). Dated TRIGGERS that start it: hyperscaler **capex cut** / **Oracle-
+  neocloud credit event** / **BOJ surprise** / **failed UST auction**. Synthesis sizes the slide; a trigger times it.
+- *(book — descriptive)* This IS the correlation-snap the Dec SPY puts are long (one macro cause correlates
+  everything, unwinds crowded trades through one door — [[market-fragility]] vol-gap). Positioned for his own
+  thesis; the only discipline is NOT to read the deep snowpack as a timing edge and add into it.
