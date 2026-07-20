@@ -1667,3 +1667,31 @@ IBM-crux read ("reallocation via memory front-running") with board-room detail.
   the broad "is AI capex worth it." That jump = the catalyst (still a WARNING, not a fired trigger).
 - *(analysis)* Value-inversion (AVGO/AMD > IBM) is real but the winners are the richly-priced/vulnerable
   scarcity-sellers (AVGO 24.9x P/S, worst performer 7/16) — [[market-fragility]], [[power-scarcity-equities]].
+
+## 2026-07-20 ~1:50pm PT — Google "Frozen v2": model baked into silicon = the Jevons/Burry crux, physical
+Source: The Next Web report (Jake paste) — secondary tech-media; specifics (6-10x, 2028) = CLAIMS.
+### DATA (as-reported)
+- Google experimental **"Frozen v2"**: bakes Gemini's neural-net ARCHITECTURE into the physical circuitry (only
+  WEIGHTS updatable, structure "frozen"). Claims: **6-10x more power-efficient** per token served, near-zero
+  latency. Motivated by Google's reported **capacity/power crunch + DC cost**. Launch reportedly **2028**. Risk
+  (article's own): rigidity — obsolete if AI architecture moves off today's shape by 2028.
+### THESIS (interpretation — NOT fact)
+- *(the efficiency crux, physical)* Model-specific ASIC = endpoint of GPU→TPU→frozen-ASIC specialization. 6-10x =
+  **Jevons vs Burry in one object**: Jevons (cheaper serve → more demand) vs Burry (efficiency COLLAPSES capex-
+  intensity/token → CEPI margin softens, GPU-demand thesis bends). Both operate; the capex priced for OLD
+  efficiency gets stranded ([[cepi]], [[compression-thesis]]).
+- *(the sharp tell — freezing = a bet AI is MATURING into utility)* You only etch something into hardware once
+  it's STABLE (codecs, x86). "Frozen" is a bet AI architecture has stopped churning fast enough to justify baking
+  it in = a bet on / signal of AI maturing from research → stable infrastructure = **commoditizing**. Google's own
+  silicon team voting "stable enough to freeze" is an insider tell the frontier is FLATTENING → bearish the
+  "pay-any-price, frontier-sprints-away" premium. If right: cheap/commoditized (compression wins). If early:
+  expensive paperweight (Burry depreciation on steroids — a frozen chip can't run the next architecture; a GPU can).
+- *(Nvidia)* Bearish AT THE MARGIN for INFERENCE GPU demand (hyperscalers' custom inference ASICs), but training/
+  flexibility moat intact; Frozen is INTERNAL (cuts Google's Nvidia buys, not the merchant market). Own-the-toll
+  nuance: the toll can be disintermediated by the few players big enough to build their own.
+- *(power — a DEFLATIONARY counter to power-scarcity)* 6-10x efficiency directly eases the AI power crunch →
+  tempers "AI eats all the electricity" ([[power-scarcity-equities]]) — Jevons-tempered.
+- *(strategic — hardens Google's integrated moat)* Model+silicon+DC = a cost structure the pure labs (OpenAI/
+  Anthropic renting GPUs) can't match → cheaper Gemini serving → the frontier-lab-economics segmentation
+  ([[ai-financing-fragility]] / [[compression-thesis]] price-fork).
+- *(⚠️ discipline)* 2028, experimental, secondary-sourced → a STRUCTURAL VECTOR, not a near-term catalyst. Don't trade it.
