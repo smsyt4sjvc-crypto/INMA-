@@ -1526,3 +1526,25 @@ Source: UK Navy / UKMTO via Jake (headline 11:58pm PT 7/19). CREDIBLE (neutral W
   channel); shrug = "one ship on the approach, insurance repriced, supply intact."
 - *(book — descriptive)* The exact spark the SPY puts + zero-energy-longs + cash were positioned for, before the
   fuse. Watch the 3 tells; don't chase a midnight headline. Grade the nightly WTI/marker legs against the tape.
+
+### 2026-07-20 ~7:36am UTC-tape (Mon US open) — GRADE: the $90 break FADED on diplomacy; framework held
+Source: VAULT HEADLINE SCAN (Jake), 14:36 UTC.
+#### DATA (observed / as-reported)
+- **Brent topped $90 then REVERSED below $87** on "Iran says US talks could be pursued" / "new cease-fire
+  proposal." Gas prices hit $4 (oil +15% on the week before the fade). **The struck vessels = Greek OIL TANKERS
+  in Hormuz (Jerusalem Post)** — tanker-type confirmed — yet crude STILL faded on the talks headline.
+- Houthis "impose Saudi naval blockade" (new front) — did NOT hold crude up vs diplomacy. Dollar STRENGTHENED on
+  the risk (haven bid → USD, not gold). Equities OPENED HIGHER (peace hopes + oil relief). Neoclouds BOUNCED
+  (IREN +17%, data-center rebound, retail buying the dip). Semis officially in a BEAR market but rebounding.
+#### THESIS (interpretation — NOT fact)
+- *(the marker framework VALIDATED, hard)* Even a CONFIRMED oil-tanker strike (the physical event) couldn't hold
+  $90 against a de-escalation WORD. Words moved crude (down); physical events keep NOT breaking the wall (de-esc
+  hope + demand-weakness + dark-fleet adaptation absorb them). **Sunday's $90 = war-premium, NOT physical
+  uncapping. Graded/closed.** The four uncapping tells remain un-fired.
+- *(the other overnight grades)* CTA 7446 / liquidation → DIDN'T fire (relief rally; Asia's rotation-not-
+  liquidation extended to a US bounce). Neocloud "crack" → BOUNCED (the one-candle-noise caution from 7/19 was
+  right; the crack needs CONFIRMERS — rental rates, next debt-raise terms — not the single day, see
+  [[ai-financing-fragility]]).
+- *(book — descriptive, honest)* Hedge did NOT pay: market up, oil down, vol down → Dec puts bleed a little on
+  the relief. Correct, expected COST of insurance when the risk doesn't fire. The fuse didn't light; diplomacy
+  defused it (for now). Positioned for the NEXT spark; nothing to do.
