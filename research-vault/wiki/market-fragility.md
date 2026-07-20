@@ -547,3 +547,27 @@ Source: Jake's Asian-market digest. The first market read on the weekend stack (
 - *(book — descriptive)* Rotation ≠ the broad liquidation the SPY puts are the fat-tail for → the multi-vector
   stack did NOT produce coordinated Asian risk-off → mildly LESS likely the hedge pays big Monday; CTA 7446 less
   likely to fire hard on a rotation night. Watch US open: mirrors Asia (SOX/MU weak, broad OK = rotation) vs broad red.
+
+## 2026-07-19 ~10:45pm PT — the midterm-drawdown seasonal, viral v2 (Jake: "for the zodiacs lol")
+Re-run of the 2026-07-01 "July midterm crash" debunk above; same verdict. Jake flagged it as astrology himself.
+### DATA (as-reported, viral thread)
+- "Every midterm year 50yr = a drawdown," 10 listed avg −21% (1974-2022). New-Fed-chair "12 chairs, 12 drawdowns,
+  avg −12%." VIX seasonality (trough early summer, peak Sep/Oct, higher in midterms; popped >18 Fri). "Shock
+  absorbers gone": retail cash extreme-low (1998/2000/2018/2021), put/call skew record low, record IPO supply.
+  Constructive flip: every midterm low = a buy, avg +47% rally, new high 4/5. Playbook: decide VIX 18 / execute
+  VIX 28, buy fear in tranches. "Full map tomorrow, free" + "4 tripwires."
+### THESIS (interpretation — NOT fact)
+- *(the trick — vacuous by construction)* EVERY year has an intra-year drawdown (~−14% avg, all years, JPM). "Not
+  one skipped its turn" = zero information; the claim needs midterms to be DEEPER than the −14% baseline, which it
+  never shows. **Cherry-picked 10 of 13 midterm years — dropped the mild 1986/2006/2014 (~−7-9%)** → true midterm
+  avg ~−16%, only a few pts over baseline. "12 chairs 12 drawdowns" = same every-window-has-a-dip vacuity, n=12.
+- *(WARNING vs TRIGGER, again)* The 2018 "template" drawdown came from a Fed HIKING TRIGGER ("long way from
+  neutral"/QT), not the calendar. Seasonal = wallpaper; the trigger did the work.
+- *(real residue — already vault-held)* Midterm LOW (Sep-Oct) = historically a strong buy, year-3 best
+  ([[detachment-bid]] "flush is the entry"); VIX Sep/Oct seasonality real-ish; the tranched decide-calm/execute-
+  scared playbook is sound = already the book's plan (cash + semis ladder).
+- *(the one bit that intersects the book)* "Nobody hedging / record-low skew" = the SAME cheap-index-insurance as
+  the vol-gap thesis → why the Dec puts were cheap. Confirmation, not a new signal.
+- *(applicable)* Only actionable item = finalize the shopping-list LADDER (MU 740 / NVDA 150 rungs, pending) so a
+  Sep-Oct flush is bought MECHANICALLY not missed. The zodiac thread = an alarm clock for an existing chore.
+  Promo tell: "full map tomorrow, free." Odds-shader + shopping-list prompt, NOT a timing call.
