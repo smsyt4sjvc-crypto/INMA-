@@ -443,3 +443,35 @@ next big Mag7 debt issuance and its bid-to-cover — the thing retail can't see.
   the pincer. Watch the cover/spread on the Amazon $25bn and the next Oracle/Meta deals — that's where CLAIM
   becomes RUPTURE. (Bull counter: they can issue because they're the most creditworthy names on earth; the
   debt is cheap *until* it isn't.)
+
+## 2026-07-19 ~6pm PT — 30Y at 5.06% (highest auction since 2007): AI-debt crowding-out goes MACRO
+Source: Jake paste (Kobeissi-style macro card). Rates/sovereign angle → [[new-economy-regime]]; the fresh angle is the AI-debt macro link.
+### DATA (observed / as-reported)
+- **30Y Treasury AUCTION cleared 5.06%** — highest auction result since 2007. 30Y secondary yield back **above
+  5.00%**, but **still below the May-20 peak of 5.20%** (highest since Jul 2007). Early-2022 same-maturity auctions
+  ~**2.00%** → ~2.5x financing cost in ~2.5yr.
+- Source's framing: long yields up on heavier Treasury supply + inflation risk + borrowing needs; **AND the AI
+  boom issuing record debt "competes with the government for the same pool of capital," pushing long rates higher.**
+### THESIS (interpretation — NOT fact)
+- *(the escalation this note has tracked — micro → MACRO)* AI-capex debt has grown large enough to matter at the
+  CURVE level, not just single-name credit. It draws the same fixed-income demand as Treasury supply → adds term-
+  premium pressure → lifts everyone's cost of capital incl. the sovereign's. **Reflexive kicker:** higher long
+  rates raise the discount rate on the AI-growth equities the debt is funding → the AI-debt boom helps devalue the
+  AI equities it's built on. This is the bond-carnage tripwire graduating from "can they service it" to "it moves
+  the whole curve."
+- *(⚠️ discipline — "crisis" overstates; argue the under-weighted side)* (1) **5% on the 30Y is historically
+  NORMAL** — the 2010s ZIRP decade was the anomaly; "highest since 2007" anchors on the abnormal base (cf. the
+  foreclosure/insider base-rate teardowns). Painful normalization, not self-evident crisis. (2) The trend isn't
+  breaking out NOW — it's **below** May's 5.20%; auction cleared a cycle high but secondary isn't making new highs.
+  (3) **AI issuance is still a fraction of Treasury supply** — a marginal contributor, not co-lead; the source
+  inflates it. Dominant drivers stay fiscal supply + inflation + term-premium normalization.
+- *(WARNING vs TRIGGER)* "Debt crisis intensifying" = a STATE (slow burn, years). The TRIGGER = a **failed auction
+  / bid-to-cover collapse / disorderly break > 5.20%.** May tested 5.20% and HELD. Watch auction tails + bid-to-
+  cover (Slok 5x→<2x thread above), not the adjective.
+- *(the genuine slow-burn)* Not today's yield — the **average coupon grinding up as cheap 2020-22 debt rolls into
+  5% debt** → interest expense compounding → fiscal dominance → the [[new-economy-regime]] debasement/repression
+  base case (inflate / YCC eventually), but the PATH can include a long-end spike FIRST (May 5.20% = the preview).
+- *(convergence — this weekend's fragility stack)* 30Y ~5% + **Brent broke $90 Sunday** (inflation-risk premium →
+  more long-end pressure) + CTA mechanical sell-triggers at spot ([[market-fragility]]) = rates/oil/positioning all
+  leaning the same way into Monday. The war-oil→inflation→rates loop + discount-rate hit to AI leadership = exactly
+  the multi-vector fragility the book's SPY puts are positioned for. Descriptive: the stack aligning, not a reason to add.
