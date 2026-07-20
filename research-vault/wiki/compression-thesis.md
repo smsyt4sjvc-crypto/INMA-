@@ -315,3 +315,30 @@ Source: Jake paste, Bloomberg chart citing OpenRouter. The open-weight/China val
   private marks (unshortable). [[ai-financing-fragility]], [[ai-capex-cycle]].
 - *(WARNING vs TRIGGER)* The chart is a leading STATE. The repricing TRIGGER = the share-shift showing up in a closed
   lab's revenue DECELERATION or a DOWN-ROUND. Canary singing now; cat appears when the growth number/funding mark breaks.
+
+## 2026-07-20 ~8am PT — the price FORK quantified (Chamath) + Kimi K3 revives the Trump ban
+Source: Chamath tweet (ZH repost) + MTS/Axios (Jake paste). Chamath's numbers = his framing; ban = "reported considering."
+### DATA (as-reported)
+- **Chamath: "leading AI forked into two."** A: closed-source American **$26-56 / 1MM tokens**; B: open-weight
+  Chinese **$0.50-1 / 1MM tokens** → **~30-50x price gap.**
+- **Axios/MTS: Trump admin considering restricting cutting-edge Chinese AI models; momentum REVIVING after the
+  Kimi K3 launch** (Moonshot AI). (Same item as the 7/20 headline-scan "White House contemplates China-AI ban.")
+### THESIS (interpretation — NOT fact)
+- *(the fork = value-migration QUANTIFIED)* A ~50x price gap on the commodity tier IS the CEPI-margin thesis in one
+  stat — $50 is indefensible vs a $0.50 "good-enough" substitute. But ⚠️ precision: it's a **SEGMENTATION, not a
+  50x markup on the same product.** $50 = the FRONTIER (reasoning/agentic reliability); $0.50 = commodity-good-
+  enough. Part of the gap is a real capability premium. Closed labs get **evicted from the cheap seats** (bulk of
+  tokens, migrating) and priced only for the **front row** (bulk of value/margin). Chamath drew the eviction; the
+  nuance is which seats.
+- *(Kimi K3 = the named catalyst)* Upgrades the policy question from "considering" to "momentum reviving after a
+  named launch." Cadence = the story: China ships competitive open model → US reaches for the ban = the arms race.
+- *(the ban = margin defense, two-sided — the sharp new angle)* A Chinese-AI ban is the US govt **defending the
+  $26-56 price point against the $0.50 competitor** = regulatory protection of closed-lab margins = a tacit
+  admission US labs can't win the commodity tier on price/merit. TWO-SIDED: (a) BEARISH tell — needing a ban to
+  hold your price confesses no moat (CEPI-margin confirmed by the policy response itself); (b) potential PROP — if
+  it lands, it artificially defends US-lab pricing by removing the cheap competitor from the US market → a policy
+  floor under the margins the bear thesis says should collapse, at the cost of raising every US AI adopter's bill.
+  Still can't recall open weights already mirrored (defends the US MARKET, not the tech).
+- *(net for the book — descriptive)* Fork CONFIRMS commodity-margin compression (bearish closed-lab economics);
+  Kimi K3 = catalyst; the ban is a WILDCARD that could DELAY the compression (policy levee) — tells you the flood is
+  real AND that policy may hold it back longer than pure economics would. [[ai-financing-fragility]], [[ai-capex-cycle]].
