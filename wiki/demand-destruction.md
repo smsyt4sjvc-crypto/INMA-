@@ -1548,3 +1548,29 @@ Source: VAULT HEADLINE SCAN (Jake), 14:36 UTC.
 - *(book — descriptive, honest)* Hedge did NOT pay: market up, oil down, vol down → Dec puts bleed a little on
   the relief. Correct, expected COST of insurance when the risk doesn't fire. The fuse didn't light; diplomacy
   defused it (for now). Positioned for the NEXT spark; nothing to do.
+
+### 2026-07-20 ~7:45am PT — Houthis DECLARE maritime embargo on Saudi + threaten Saudi ENERGY facilities (semi-independent 2nd front)
+Source: ZeroHedge / Middle East Eye (Jake paste). Houthi-spokesman (Yahya Saree) statement = declaration/intent; escalation facts corroborated.
+#### DATA (as-declared / as-reported)
+- **Houthis announce a maritime embargo on ALL Saudi shipping, "effective immediately," "eye for an eye,"** in
+  response to the Saudi attack on Sanaa Airport (7/13). **⚠️ No chokepoint or operational detail given.**
+- Saree: if the Saudi siege of Yemen isn't lifted → **"full-scale war,"** and **"all of Saudi Arabia's ENERGY
+  FACILITIES and its vital facilities will be targets for missiles and drones."**
+- Ladder: Saudi jets blocked an Iranian passenger plane at Sanaa (7/13) → Houthis fired missiles at Saudi (first
+  in years) → now the embargo declaration. 2022 truce fragile. Saudi has blockaded Yemen since 2015.
+#### THESIS (interpretation — NOT fact)
+- *(names the #1 uncapping tell)* "Target Saudi energy facilities" = the **Abqaiq-class** vector — a Houthi strike
+  on Saudi oil infra (Abqaiq/Ras Tanura/Yanbu, 9-10M b/d at risk) is the vault's top uncapping tell, and the
+  Houthis have **precedent (Sep-2019 Abqaiq, −5.7M b/d in a day)**. Not idle — names the real fuse, from an actor
+  who's done it.
+- *(⚠️ but a DECLARATION, not action)* No named chokepoint, no executed stop → a threat/position, same declared-
+  closure-vs-physical-transit pattern as Hormuz. The market agreed: **crude faded <$87 this morning even as this
+  was announced.** Words don't move the marker.
+- *(the nuance the Iran-talks optimism masks — SEMI-INDEPENDENT 2nd front)* The Houthi-Saudi conflict runs on its
+  OWN logic (Sanaa airport, broken Yemen truce, the 2015 siege) — **it can escalate even if Iran-US de-escalates.**
+  The relief that pushed Brent <$87 prices the MAIN track cooling; it may be under-pricing a Yemen-Saudi war that
+  produces a Saudi-energy strike regardless of the Iran negotiation. A 2nd, Iran-independent ignition path.
+- *(falsifiable tells added, both un-fired)* (1) embargo EXECUTED — Houthis actually stop/hit Saudi-bound vessels
+  in the Red Sea (Saudi ~4M bpd Yanbu exposure); (2) a Houthi strike on Saudi ENERGY infra = the uncapping.
+- *(book — descriptive)* Unchanged; the fuse now has a 2nd Iran-independent ignition path — new info even on a
+  fade day. Watch declaration→action + Saudi-energy, not the statement volume.
