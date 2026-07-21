@@ -231,7 +231,7 @@
 const state = {
   step: 1,
   job: { name:'', address:'', date:'' },
-  walls: [],      // [{id,label,photos,len,ht,gables:[{id,base,rise,count}],openings:[{id,w,h,count}],notes,items:[{id,desc,qty,unit,rate}]}]
+  walls: [],      // [{id,label,photos,len,ht,gables:[{id,base,rise,count}],openings:[{id,w,h,count}],notes,items:[{id,desc,qty,unit,rate}],trim:[{id,type,size,lf,rate}]}]
   editing: null,  // working copy while editing a wall
   lines: [],      // general/whole-house items [{id,desc,qty,unit,rate}]
   wastePct: '',
@@ -276,7 +276,14 @@ function areaTotals(){
 }
 function allItems(){
   const out = [];
-  state.walls.forEach(w => (w.items||[]).forEach(it => out.push({ ...it, wall:(w.label||'').trim() })));
+  state.walls.forEach(w => {
+    (w.items||[]).forEach(it => out.push({ ...it, wall:(w.label||'').trim() }));
+    (w.trim||[]).forEach(t => {
+      if (!(t.type||'').trim() && !num(t.lf)) return;
+      const desc = 'Trim — ' + ((t.type||'').trim() || 'trim') + ((t.size||'').trim() ? ' ' + t.size.trim() : '');
+      out.push({ id:t.id, desc, qty:t.lf, unit:'LF', rate:t.rate, wall:(w.label||'').trim() });
+    });
+  });
   state.lines.forEach(it => out.push({ ...it, wall:'General' }));
   return out.filter(it => (it.desc||'').trim() || num(it.qty) || num(it.rate));
 }
@@ -327,7 +334,8 @@ function restoreDraft(){
       ? w.gables.map(g=>({ id:g.id||uid(), base:g.base||'', rise:g.rise||'', count:g.count||'' }))
       : (parseFloat(w.gable) > 0 ? [{ id:uid(), base:'', rise:String(w.gable), count:'' }] : []),   // migrate old single-rise gable
     openings:Array.isArray(w.openings)?w.openings:[], notes:w.notes||'',
-    items:Array.isArray(w.items)?w.items:[]
+    items:Array.isArray(w.items)?w.items:[],
+    trim:Array.isArray(w.trim)?w.trim:[]
   }));
   if (Array.isArray(d.lines)) state.lines = d.lines;
   if (typeof d.wastePct === 'string') state.wastePct = d.wastePct;
@@ -375,7 +383,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
 });
 
 function newWall(dataUrl, label){
-  return { id:uid(), label:label||'', photos: dataUrl ? [{ id:uid(), dataUrl, cap:'' }] : [], len:'', ht:'', gables:[], openings:[], notes:'', items:[] };
+  return { id:uid(), label:label||'', photos: dataUrl ? [{ id:uid(), dataUrl, cap:'' }] : [], len:'', ht:'', gables:[], openings:[], notes:'', items:[], trim:[] };
 }
 // Turn a saved filename into a wall label: "east-wall_2.jpg" -> "east wall 2".
 // Generic camera names (IMG_1234, image, photo…) give nothing useful -> ''.
@@ -451,7 +459,7 @@ function updateStepUI(){
 
 /* ============ STEP 2 — PHOTOS ============ */
 function wallDetailed(w){
-  return !!( (w.label||'').trim() || num(w.len) || (w.items||[]).length );
+  return !!( (w.label||'').trim() || num(w.len) || (w.items||[]).length || (w.trim||[]).length );
 }
 function renderPhotos(){
   const grid = $('#photoGrid');
@@ -491,6 +499,8 @@ function wallMetaText(w){
   if (gb.length) bits.push(gb.length>1 ? gb.length+' gables' : `gable ${num(gb[0].base)||num(w.len)||'—'}'×${num(gb[0].rise)}'`);
   const ic = (w.items||[]).filter(it=>(it.desc||'').trim()).length;
   if (ic) bits.push(`${ic} item${ic>1?'s':''}`);
+  const tc = (w.trim||[]).filter(t=>(t.type||'').trim()||num(t.lf)).length;
+  if (tc) bits.push(`${tc} trim`);
   const pc = (w.photos||[]).length;
   if (pc > 1) bits.push(`${pc} pics`);
   return bits.join(' · ') || 'not detailed yet';
@@ -537,7 +547,7 @@ function openEditor(idx){
 function saveEditing(){
   const e = state.editing; if (!e) return;
   const idx = e._idx;
-  const saved = { id:e.id, label:e.label, photos:e.photos, len:e.len, ht:e.ht, gables:e.gables, openings:e.openings, notes:e.notes, items:e.items };
+  const saved = { id:e.id, label:e.label, photos:e.photos, len:e.len, ht:e.ht, gables:e.gables, openings:e.openings, notes:e.notes, items:e.items, trim:e.trim };
   if (idx >= 0 && idx < state.walls.length && state.walls[idx].id === e.id) state.walls[idx] = saved;
   else {
     const i = state.walls.findIndex(x => x.id === e.id);
@@ -593,6 +603,11 @@ function renderEditor(){
         <div class="val" id="editSF">0 SF</div>
       </div>
 
+      <div class="sec-label">Trim on this wall <small style="opacity:.5;text-transform:none;letter-spacing:0">— LF by type &amp; stock size</small></div>
+      <div class="chips" id="trimChips"></div>
+      <div id="trimRows"></div>
+      <button class="btn-add" id="addTrimBtn" type="button" style="padding:10px;font-size:13px;margin-bottom:4px">+ Add Trim Line</button>
+
       <div class="sec-label">Materials on this wall</div>
       <div class="chips" id="accChips">${CHIP_ITEMS.map(c=>`<button type="button" data-acc="${escapeAttr(c)}">+ ${escapeText(c)}</button>`).join('')}</div>
       <div id="wallItems"></div>
@@ -610,7 +625,7 @@ function renderEditor(){
       </div>
     </div>`;
 
-  renderGableRows(); renderOpenRows(); renderWallItems(); updateEditSF();
+  renderGableRows(); renderOpenRows(); renderTrimChips(); renderTrimRows(); renderWallItems(); updateEditSF();
 
   $('#wLabel').addEventListener('input', ev => { e.label = ev.target.value; });
   $('#wLen').addEventListener('input', ev => { e.len = ev.target.value; updateEditSF(); });
@@ -657,10 +672,63 @@ function renderEditor(){
     });
   });
   $('#addWallItemBtn').addEventListener('click', ()=>{ e.items.push(blankItem()); renderWallItems(); });
+  $('#addTrimBtn').addEventListener('click', ()=>{ e.trim.push({ id:uid(), type:'', size:'', lf:'', rate:'' }); renderTrimRows(); });
   $('#wCancel').addEventListener('click', ()=>{ state.editing = null; renderWalls(); });
   $('#wSave').addEventListener('click', ()=>{ saveEditing(); state.editing = null; renderWalls(); renderPhotos(); });
   $('#wPrev').addEventListener('click', ()=>{ saveEditing(); const i = idx-1; state.editing=null; renderWalls(); renderPhotos(); if (i>=0) openEditor(i); });
   $('#wNext').addEventListener('click', ()=>{ saveEditing(); const i = idx+1; state.editing=null; renderWalls(); renderPhotos(); if (i<state.walls.length) openEditor(i); });
+}
+/* Trim suggestions computed from what the wall already knows. */
+function trimSuggestions(w){
+  const len = num(w.len), ht = num(w.ht);
+  const casing = (w.openings||[]).reduce((a,o)=> a + 2*(num(o.w)+num(o.h))*(num(o.count)||1), 0);
+  return [
+    { type:'Window/door casing', lf: Math.ceil(casing) },
+    { type:'Outside corner',     lf: Math.ceil(ht) },
+    { type:'Inside corner',      lf: Math.ceil(ht) },
+    { type:'Fascia',             lf: Math.ceil(len) },
+    { type:'Frieze board',       lf: Math.ceil(len) },
+    { type:'Belly band',         lf: Math.ceil(len) },
+    { type:'Skirt board',        lf: Math.ceil(len) },
+    { type:'Rake board',         lf: 0 },
+  ];
+}
+function renderTrimChips(){
+  const e = state.editing; if (!e) return;
+  const host = $('#trimChips'); if (!host) return;
+  host.innerHTML = trimSuggestions(e).map(s =>
+    `<button type="button" data-trim="${escapeAttr(s.type)}" data-lf="${s.lf}">+ ${escapeText(s.type)}${s.lf ? ' '+s.lf+' LF' : ''}</button>`
+  ).join('');
+  $$('#trimChips [data-trim]').forEach(btn => {
+    btn.addEventListener('click', ()=>{
+      e.trim.push({ id:uid(), type:btn.dataset.trim, size:'', lf:btn.dataset.lf!=='0' ? btn.dataset.lf : '', rate:'' });
+      renderTrimRows();
+    });
+  });
+}
+function renderTrimRows(){
+  const e = state.editing; if (!e) return;
+  const host = $('#trimRows'); if (!host) return;
+  host.innerHTML = e.trim.map(t => `
+    <div class="line-item" data-id="${t.id}">
+      <div class="line-grid">
+        <div class="desc-cell"><div class="mini-label">Type</div><input type="text" data-f="type" value="${escapeAttr(t.type)}" placeholder="Window casing / Fascia…"></div>
+        <div><div class="mini-label">Size</div><input type="text" data-f="size" value="${escapeAttr(t.size)}" placeholder="5/4×4"></div>
+        <div><div class="mini-label">LF</div><input type="number" inputmode="decimal" step="0.1" data-f="lf" value="${escapeAttr(t.lf)}" placeholder="0"></div>
+        <div><div class="mini-label">$/LF</div><input type="number" inputmode="decimal" step="0.01" data-f="rate" value="${escapeAttr(t.rate)}" placeholder=""></div>
+        <div class="rm-cell"><button class="btn-danger" type="button" data-remove>✕</button></div>
+      </div>
+    </div>`).join('');
+  $$('.line-item', host).forEach(row => {
+    const t = e.trim.find(x => x.id === row.dataset.id);
+    row.querySelectorAll('input').forEach(inp => {
+      inp.addEventListener('input', ev => { t[ev.target.dataset.f] = ev.target.value; });
+    });
+    row.querySelector('[data-remove]').addEventListener('click', ()=>{
+      e.trim = e.trim.filter(x => x.id !== t.id);
+      renderTrimRows();
+    });
+  });
 }
 function renderGableRows(){
   const e = state.editing; if (!e) return;
@@ -730,6 +798,7 @@ function renderWallItems(){
 }
 function updateEditSF(){
   const e = state.editing; if (!e) return;
+  renderTrimChips();   // suggestions track length/height/openings live
   const c = wallCalc(e);
   $('#editSF').textContent = fmtSF(c.net) + ' SF';
   const bits = [];
@@ -831,7 +900,9 @@ function buildPrintHTML(){
     const c = wallCalc(w);
     const gtxt = (w.gables||[]).filter(g=>num(g.rise)).map(g=>` + gable ${num(g.base)||num(w.len)||0}'×${num(g.rise)}'${(num(g.count)||1)>1 ? '×'+num(g.count) : ''}`).join('');
     const dims = (num(w.len)||num(w.ht)) ? `${num(w.len)||'—'}' × ${num(w.ht)||'—'}'` + gtxt : '—';
-    const items = (w.items||[]).filter(it=>(it.desc||'').trim()).map(it => `${escapeText(it.desc)} ×${num(it.qty)||1}${(it.unit||'').trim() && (it.unit||'').trim().toUpperCase()!=='EA' ? ' '+escapeText(it.unit) : ''}`).join(', ');
+    const items = (w.items||[]).filter(it=>(it.desc||'').trim()).map(it => `${escapeText(it.desc)} ×${num(it.qty)||1}${(it.unit||'').trim() && (it.unit||'').trim().toUpperCase()!=='EA' ? ' '+escapeText(it.unit) : ''}`)
+      .concat((w.trim||[]).filter(t=>(t.type||'').trim()||num(t.lf)).map(t => `${escapeText((t.type||'trim'))}${(t.size||'').trim()?' '+escapeText(t.size):''} ${num(t.lf)||0} LF`))
+      .join(', ');
     return `<tr>
       <td>${i+1}</td>
       <td>${escapeText((w.label||'').trim() || 'Wall '+(i+1))}${(w.notes||'').trim() ? `<div style="font-size:9px;color:#777">${escapeText(w.notes.trim())}</div>` : ''}</td>
