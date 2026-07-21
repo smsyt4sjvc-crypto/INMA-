@@ -313,16 +313,82 @@ function moneyTotals(){
   return { rows, subtotal, hasTax, tax, total: subtotal + tax };
 }
 
+/* ============ PHOTO STORE (IndexedDB — big quota, photos never stripped) ============ */
+function idbOpen(){
+  return new Promise((res,rej)=>{
+    if (!window.indexedDB) return rej();
+    const rq = indexedDB.open('inma-measure-photos', 1);
+    rq.onupgradeneeded = () => rq.result.createObjectStore('photos');
+    rq.onsuccess = () => res(rq.result);
+    rq.onerror = () => rej(rq.error);
+  });
+}
+async function photoSync(){
+  // Mirror every wall photo into IndexedDB and prune ones that no longer exist.
+  try {
+    const valid = {};
+    state.walls.forEach(w => (w.photos||[]).forEach(p => { if (p.dataUrl) valid[p.id] = p.dataUrl; }));
+    const db = await idbOpen();
+    const tx = db.transaction('photos','readwrite');
+    const st = tx.objectStore('photos');
+    const keysReq = st.getAllKeys();
+    keysReq.onsuccess = () => {
+      keysReq.result.forEach(k => { if (!(k in valid)) st.delete(k); });
+      Object.entries(valid).forEach(([k,v]) => st.put(v,k));
+    };
+  } catch(e){}
+}
+async function photoHydrate(){
+  // Fill missing dataUrls from IndexedDB after a restore.
+  try {
+    const db = await idbOpen();
+    const tx = db.transaction('photos','readonly');
+    const st = tx.objectStore('photos');
+    const keys = st.getAllKeys(); const vals = st.getAll();
+    await new Promise(r => { tx.oncomplete = r; tx.onerror = r; });
+    const map = {};
+    (keys.result||[]).forEach((k,i) => map[k] = vals.result[i]);
+    let filled = 0;
+    state.walls.forEach(w => (w.photos||[]).forEach(p => {
+      if (!p.dataUrl && map[p.id]){ p.dataUrl = map[p.id]; filled++; }
+    }));
+    return filled;
+  } catch(e){ return 0; }
+}
+async function photoClearAll(){
+  try {
+    const db = await idbOpen();
+    const tx = db.transaction('photos','readwrite');
+    tx.objectStore('photos').clear();
+    await new Promise(r => { tx.oncomplete = r; tx.onerror = r; });
+  } catch(e){}
+}
+
+/* ============ LEARNED TRIM LIBRARY (persists across jobs) ============ */
+const TRIM_LIB_KEY = 'inma_trim_library_v1';
+function loadTrimLib(){ try { return JSON.parse(localStorage.getItem(TRIM_LIB_KEY)) || []; } catch(e){ return []; } }
+function saveTrimLib(lib){ try { localStorage.setItem(TRIM_LIB_KEY, JSON.stringify(lib.slice(0,80))); } catch(e){} }
+function learnTrim(rows){
+  const lib = loadTrimLib();
+  (rows||[]).forEach(t => {
+    const type = (t.type||'').trim(), size = (t.size||'').trim();
+    if (!type || !size) return;                     // only learn fully-specified stock
+    const key = (type+'|'+size).toLowerCase();
+    const hit = lib.find(x => x.key === key);
+    const rate = (t.rate !== '' && t.rate != null) ? t.rate : undefined;
+    if (hit){ if (rate !== undefined) hit.rate = rate; }
+    else lib.push({ key, type, size, rate });
+  });
+  saveTrimLib(lib);
+}
+
 /* ============ AUTOSAVE ============ */
 function persistDraft(){
   const draft = { step:state.step, job:state.job, walls:state.walls, lines:state.lines, wastePct:state.wastePct, taxPct:state.taxPct };
-  try { localStorage.setItem(DRAFT_KEY, JSON.stringify(draft)); }
-  catch (err) {
-    try {
-      const light = { ...draft, walls: state.walls.map(w => ({ ...w, photos:(w.photos||[]).map(p=>({ id:p.id, dataUrl:null, cap:p.cap||'' })) })) };
-      localStorage.setItem(DRAFT_KEY, JSON.stringify(light));
-    } catch(e2) {}
-  }
+  // Photos live in IndexedDB (photoSync) — the localStorage draft carries only
+  // ids + captions, so it never hits quota and images never get dropped.
+  const light = { ...draft, walls: state.walls.map(w => ({ ...w, photos:(w.photos||[]).map(p=>({ id:p.id, dataUrl:null, cap:p.cap||'' })) })) };
+  try { localStorage.setItem(DRAFT_KEY, JSON.stringify(light)); } catch (err) {}
 }
 function restoreDraft(){
   let raw; try { raw = localStorage.getItem(DRAFT_KEY); } catch(e){ return; }
@@ -333,7 +399,7 @@ function restoreDraft(){
   if (Array.isArray(d.walls)) state.walls = d.walls.map(w => ({
     id:w.id||uid(), label:w.label||'',
     photos: Array.isArray(w.photos)
-      ? w.photos.filter(p=>p && p.dataUrl).map(p=>({ id:p.id||uid(), dataUrl:p.dataUrl, cap:p.cap||'' }))
+      ? w.photos.filter(p=>p && (p.dataUrl || p.id)).map(p=>({ id:p.id||uid(), dataUrl:p.dataUrl||null, cap:p.cap||'' }))
       : (w.dataUrl ? [{ id:uid(), dataUrl:w.dataUrl, cap:'' }] : []),   // migrate old one-photo drafts
     len:w.len||'', ht:w.ht||'',
     gables: Array.isArray(w.gables)
@@ -387,14 +453,19 @@ document.addEventListener('DOMContentLoaded', ()=>{
   $('#nextBtn').addEventListener('click', ()=>{ if(state.step<TOTAL_STEPS){ state.step++; updateStepUI(); persistDraft(); }});
   $('#printBtn').addEventListener('click', openPrint);
   $('#newJobBtn').addEventListener('click', ()=>{
-    if (!confirm('Start a new measure job? This clears the current one.')) return;
+    if (!confirm('Start a new measure job? This clears the current one. (Your learned trim library is kept.)')) return;
     try { localStorage.removeItem(DRAFT_KEY); } catch(e){}
-    location.reload();
+    photoClearAll().then(()=>location.reload());
   });
   restoreDraft();
   renderPhotos();
   renderWalls();
   updateStepUI();
+  // Photos hydrate from IndexedDB (async), then views refresh with images.
+  photoHydrate().then(n => {
+    if (n){ renderPhotos(); renderWalls(); }
+    photoSync();   // migrate any images still sitting in an old-format draft
+  });
   document.addEventListener('input', persistDraft);
 });
 
@@ -451,7 +522,7 @@ async function addPhotos(files, inputEl, mode){
     } catch(e){}
   }
   if (inputEl) inputEl.value = '';
-  renderPhotos(); renderWalls(); persistDraft();
+  renderPhotos(); renderWalls(); persistDraft(); photoSync();
 }
 
 /* ============ CONTACT IMPORT (.vcf) ============ */
@@ -515,7 +586,7 @@ function renderPhotos(){
     if (!(w.photos||[]).length) return '';
     const n = w.photos.length;
     return `<div class="photo-cell" data-idx="${idx}">
-      <img src="${w.photos[0].dataUrl}" alt="">
+      ${w.photos[0].dataUrl ? `<img src="${w.photos[0].dataUrl}" alt="">` : '<div style="display:flex;align-items:center;justify-content:center;height:100%;color:#5a544a;font-size:30px">🏠</div>'}
       <button class="rm" type="button" data-rm="${w.id}">✕</button>
       ${wallDetailed(w) ? '<span class="done-mark">✓</span>' : ''}
       <span class="tag">${escapeText((w.label||'').trim() || 'Wall '+(idx+1))}${n>1 ? ' · '+n+' pics' : ''}</span>
@@ -533,7 +604,7 @@ function renderPhotos(){
       e.stopPropagation();
       if (!confirm('Remove this wall and all its photos?')) return;
       state.walls = state.walls.filter(w => w.id !== btn.dataset.rm);
-      renderPhotos(); renderWalls(); persistDraft();
+      renderPhotos(); renderWalls(); persistDraft(); photoSync();
     });
   });
 }
@@ -557,7 +628,7 @@ function renderWalls(){
   list.innerHTML = state.walls.map((w,idx)=>{
     const c = wallCalc(w);
     return `<div class="wall-card" data-idx="${idx}">
-      <div class="thumb">${(w.photos||[]).length ? `<img src="${w.photos[0].dataUrl}" alt="">` : '📐'}</div>
+      <div class="thumb">${(w.photos||[]).length && w.photos[0].dataUrl ? `<img src="${w.photos[0].dataUrl}" alt="">` : '📐'}</div>
       <div class="body">
         <div class="title">${escapeText((w.label||'').trim() || 'Wall '+(idx+1))} ${wallDetailed(w) ? '<span style="color:#8FB37E;font-size:12px">✓</span>' : ''}</div>
         <div class="meta">${escapeText(wallMetaText(w))}</div>
@@ -578,7 +649,7 @@ function renderWalls(){
     btn.addEventListener('click', e => {
       e.stopPropagation();
       state.walls = state.walls.filter(w => w.id !== btn.dataset.wallDelete);
-      renderWalls(); renderPhotos(); persistDraft();
+      renderWalls(); renderPhotos(); persistDraft(); photoSync();
     });
   });
   if (!state.editing){ $('#wallEditHost').innerHTML=''; $('#addWallBtn').style.display='block'; }
@@ -601,6 +672,8 @@ function saveEditing(){
     if (i >= 0) state.walls[i] = saved; else state.walls.push(saved);
   }
   persistDraft();
+  photoSync();
+  learnTrim(saved.trim);
 }
 function renderEditor(){
   const e = state.editing;
@@ -620,7 +693,7 @@ function renderEditor(){
         const sel = ph[e._sel];
         return `
       <div class="big-photo">
-        ${sel ? `<img src="${sel.dataUrl}" alt="">` : `<div class="empty">+ tap to add photos</div>`}
+        ${sel && sel.dataUrl ? `<img src="${sel.dataUrl}" alt="">` : `<div class="empty">${sel ? 'photo loading…' : '+ tap to add photos'}</div>`}
         ${sel ? '' : '<input type="file" id="wPhotoEmpty" accept="image/*" capture="environment" multiple>'}
       </div>
       ${sel ? `<div class="cap-row">
@@ -628,7 +701,7 @@ function renderEditor(){
         <button class="btn-danger" type="button" id="phRemove">✕</button>
       </div>` : ''}
       <div class="ph-strip">
-        ${ph.map((p,i)=>`<div class="pht${i===e._sel?' sel':''}" data-ph="${i}"><img src="${p.dataUrl}" alt=""></div>`).join('')}
+        ${ph.map((p,i)=>`<div class="pht${i===e._sel?' sel':''}" data-ph="${i}">${p.dataUrl ? `<img src="${p.dataUrl}" alt="">` : ''}</div>`).join('')}
         <label class="addt">+<input type="file" id="wPhotoAdd" accept="image/*" multiple></label>
       </div>`;
       })()}
@@ -725,33 +798,67 @@ function renderEditor(){
   $('#wPrev').addEventListener('click', ()=>{ saveEditing(); const i = idx-1; state.editing=null; renderWalls(); renderPhotos(); if (i>=0) openEditor(i); });
   $('#wNext').addEventListener('click', ()=>{ saveEditing(); const i = idx+1; state.editing=null; renderWalls(); renderPhotos(); if (i<state.walls.length) openEditor(i); });
 }
-/* Trim suggestions computed from what the wall already knows. */
-function trimSuggestions(w){
+/* LF suggestion engine — keyword rules over what the wall already knows.
+   Openings drive casing/headers/Z-flash; height drives corners; length drives
+   the horizontal runs. Learned library entries get their LF from the same rules. */
+function lfForType(type, w){
+  const t = (type||'').toLowerCase();
   const len = num(w.len), ht = num(w.ht);
+  const sumW   = (w.openings||[]).reduce((a,o)=> a + num(o.w)*(num(o.count)||1), 0);
   const casing = (w.openings||[]).reduce((a,o)=> a + 2*(num(o.w)+num(o.h))*(num(o.count)||1), 0);
-  return [
-    { type:'Window/door casing', lf: Math.ceil(casing) },
-    { type:'Outside corner',     lf: Math.ceil(ht) },
-    { type:'Inside corner',      lf: Math.ceil(ht) },
-    { type:'Fascia',             lf: Math.ceil(len) },
-    { type:'Frieze board',       lf: Math.ceil(len) },
-    { type:'Belly band',         lf: Math.ceil(len) },
-    { type:'Skirt board',        lf: Math.ceil(len) },
-    { type:'Rake board',         lf: 0 },
-  ];
+  if (/corner/.test(t)) return Math.ceil(ht);
+  if (/casing/.test(t)) return Math.ceil(casing);
+  if (/z.?flash/.test(t)) return /belly|band|skirt/.test(t) ? Math.ceil(len) : Math.ceil(sumW);
+  if (/header|head/.test(t)) return Math.ceil(sumW);
+  if (/rake/.test(t)) return 0;
+  if (/fascia|frieze|belly|band|skirt/.test(t)) return Math.ceil(len);
+  return 0;
 }
+function trimSuggestions(w){
+  return [
+    'Window/door casing', 'Header trim', 'Z-flashing', 'Outside corner', 'Inside corner',
+    'Fascia', 'Frieze board', 'Belly band', 'Skirt board', 'Rake board',
+  ].map(type => ({ type, lf: lfForType(type, w) }));
+}
+let trimLibEdit = false;
 function renderTrimChips(){
   const e = state.editing; if (!e) return;
   const host = $('#trimChips'); if (!host) return;
-  host.innerHTML = trimSuggestions(e).map(s =>
+  const lib = loadTrimLib();
+  const builtins = trimSuggestions(e).map(s =>
     `<button type="button" data-trim="${escapeAttr(s.type)}" data-lf="${s.lf}">+ ${escapeText(s.type)}${s.lf ? ' '+s.lf+' LF' : ''}</button>`
   ).join('');
+  const learned = lib.map((x,i) => {
+    const lf = lfForType(x.type, e);
+    return trimLibEdit
+      ? `<button type="button" data-libdel="${i}" style="border-color:#6a3030;color:#c66">✕ ${escapeText(x.type)} ${escapeText(x.size)}</button>`
+      : `<button type="button" data-lib="${i}" style="border-color:rgba(184,148,31,.55)">★ ${escapeText(x.type)} ${escapeText(x.size)}${lf ? ' '+lf+' LF' : ''}</button>`;
+  }).join('');
+  const editToggle = lib.length
+    ? `<button type="button" id="trimLibEditBtn" style="opacity:.55">${trimLibEdit ? '✓ done' : '✎'}</button>` : '';
+  host.innerHTML = builtins + learned + editToggle;
   $$('#trimChips [data-trim]').forEach(btn => {
     btn.addEventListener('click', ()=>{
       e.trim.push({ id:uid(), type:btn.dataset.trim, size:'', lf:btn.dataset.lf!=='0' ? btn.dataset.lf : '', rate:'' });
       renderTrimRows();
     });
   });
+  $$('#trimChips [data-lib]').forEach(btn => {
+    btn.addEventListener('click', ()=>{
+      const x = loadTrimLib()[Number(btn.dataset.lib)]; if (!x) return;
+      const lf = lfForType(x.type, e);
+      e.trim.push({ id:uid(), type:x.type, size:x.size, lf: lf ? String(lf) : '', rate: x.rate != null ? String(x.rate) : '' });
+      renderTrimRows();
+    });
+  });
+  $$('#trimChips [data-libdel]').forEach(btn => {
+    btn.addEventListener('click', ()=>{
+      const lib2 = loadTrimLib(); lib2.splice(Number(btn.dataset.libdel),1); saveTrimLib(lib2);
+      renderTrimChips();
+    });
+  });
+  const et = $('#trimLibEditBtn');
+  if (et) et.addEventListener('click', ()=>{ trimLibEdit = !trimLibEdit; renderTrimChips(); });
 }
 function renderTrimRows(){
   const e = state.editing; if (!e) return;
