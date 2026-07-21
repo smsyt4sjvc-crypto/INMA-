@@ -151,7 +151,13 @@
       <div class="card">
         <h2>Job</h2>
         <p class="sub">Who and where. Nothing's required — move freely.</p>
+        <button type="button" id="importContactBtn" class="btn-ghost" style="width:100%;margin-bottom:14px">📇 Import Contact File (.vcf)</button>
+        <input type="file" id="contactFile" accept=".vcf,text/vcard,text/x-vcard" style="display:none">
         <div class="field"><label>Homeowner / Job Name</label><input id="jobName" type="text" placeholder="Jane Doe" autocomplete="off"></div>
+        <div class="row" style="display:grid;grid-template-columns:1fr 1fr;gap:10px">
+          <div class="field"><label>Phone</label><input id="jobPhone" type="tel" placeholder="(509) 555-1234" autocomplete="off"></div>
+          <div class="field"><label>Email</label><input id="jobEmail" type="email" placeholder="jane@example.com" autocomplete="off"></div>
+        </div>
         <div class="field"><label>Address</label><input id="jobAddress" type="text" placeholder="1234 Main St, Spokane WA" autocomplete="off"></div>
         <div class="field" style="max-width:220px"><label>Date</label><input id="jobDate" type="date"></div>
       </div>
@@ -230,7 +236,7 @@
 /* ============ DATA MODEL ============ */
 const state = {
   step: 1,
-  job: { name:'', address:'', date:'' },
+  job: { name:'', phone:'', email:'', address:'', date:'' },
   walls: [],      // [{id,label,photos,len,ht,gables:[{id,base,rise,count}],openings:[{id,w,h,count}],notes,items:[{id,desc,qty,unit,rate}],trim:[{id,type,size,lf,rate}]}]
   editing: null,  // working copy while editing a wall
   lines: [],      // general/whole-house items [{id,desc,qty,unit,rate}]
@@ -342,6 +348,8 @@ function restoreDraft(){
   if (typeof d.taxPct === 'string') state.taxPct = d.taxPct;
   if (d.step >= 1 && d.step <= TOTAL_STEPS) state.step = d.step;
   $('#jobName').value = state.job.name || '';
+  $('#jobPhone').value = state.job.phone || '';
+  $('#jobEmail').value = state.job.email || '';
   $('#jobAddress').value = state.job.address || '';
   if (state.job.date) $('#jobDate').value = state.job.date;
 }
@@ -351,8 +359,16 @@ document.addEventListener('DOMContentLoaded', ()=>{
   buildDots();
   const today = new Date().toISOString().slice(0,10);
   $('#jobDate').value = today; state.job.date = today;
-  [['jobName','name'],['jobAddress','address'],['jobDate','date']].forEach(([id,key])=>{
+  [['jobName','name'],['jobPhone','phone'],['jobEmail','email'],['jobAddress','address'],['jobDate','date']].forEach(([id,key])=>{
     $('#'+id).addEventListener('input', e => { state.job[key] = e.target.value; });
+  });
+  $('#importContactBtn').addEventListener('click', () => $('#contactFile').click());
+  $('#contactFile').addEventListener('change', e => {
+    const f = e.target.files && e.target.files[0];
+    if (!f) return;
+    const reader = new FileReader();
+    reader.onload = () => { applyContact(parseVCard(String(reader.result))); e.target.value = ''; };
+    reader.readAsText(f);
   });
   $('#camInput').addEventListener('change', e => addPhotos(e.target.files, e.target));
   $('#sameInput').addEventListener('change', e => addPhotos(e.target.files, e.target, 'same'));
@@ -436,6 +452,37 @@ async function addPhotos(files, inputEl, mode){
   }
   if (inputEl) inputEl.value = '';
   renderPhotos(); renderWalls(); persistDraft();
+}
+
+/* ============ CONTACT IMPORT (.vcf) ============ */
+function parseVCard(text){
+  const out = {};
+  const unfolded = text.replace(/\r\n[ \t]/g, '').replace(/\n[ \t]/g, '');
+  unfolded.split(/\r\n|\n|\r/).forEach(line => {
+    const idx = line.indexOf(':'); if (idx < 0) return;
+    let key = line.slice(0, idx).split(';')[0];
+    if (key.indexOf('.') >= 0) key = key.slice(key.indexOf('.') + 1); // strip iOS group prefix (item1.ADR)
+    key = key.toUpperCase();
+    const val = line.slice(idx + 1);
+    if (key === 'FN' && !out.name) out.name = val.trim();
+    else if (key === 'N' && !out.name){ const p = val.split(';'); out.name = ((p[1]||'') + ' ' + (p[0]||'')).trim(); }
+    else if (key === 'TEL' && !out.phone) out.phone = val.replace(/^tel:/i, '').trim();
+    else if (key === 'EMAIL' && !out.email) out.email = val.replace(/^mailto:/i, '').trim();
+    else if (key === 'ADR' && !out.address){
+      const p = val.split(';'); // pobox;ext;street;city;region;postal;country
+      const street = (p[2]||'').replace(/\\n/g, ' ').replace(/\\,/g, ',').trim();
+      const csz = [p[3], p[4], p[5]].map(x => (x||'').trim()).filter(Boolean).join(', ').replace(/,\s*(\d{5})/, ' $1');
+      out.address = [street, csz].filter(Boolean).join(', ');
+    }
+  });
+  return out;
+}
+function applyContact(c){
+  if (c.name){ state.job.name = c.name; $('#jobName').value = c.name; }
+  if (c.phone){ state.job.phone = c.phone; $('#jobPhone').value = c.phone; }
+  if (c.email){ state.job.email = c.email; $('#jobEmail').value = c.email; }
+  if (c.address){ state.job.address = c.address; $('#jobAddress').value = c.address; }
+  persistDraft();
 }
 
 /* ============ STEPPER ============ */
@@ -965,6 +1012,8 @@ function buildPrintHTML(){
 <div class="job">
   ${state.job.name ? `<div><b>Job</b>${escapeText(state.job.name)}</div>` : ''}
   ${state.job.address ? `<div><b>Address</b>${escapeText(state.job.address)}</div>` : ''}
+  ${state.job.phone ? `<div><b>Phone</b>${escapeText(state.job.phone)}</div>` : ''}
+  ${state.job.email ? `<div><b>Email</b>${escapeText(state.job.email)}</div>` : ''}
   <div><b>Date</b>${escapeText(state.job.date || '')}</div>
 </div>
 <div class="bar">Walls</div>
