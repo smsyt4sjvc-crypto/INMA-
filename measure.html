@@ -244,15 +244,21 @@ const blankItem = () => ({ id:uid(), desc:'', qty:'', unit:'', rate:'' });
 /* ============ MATH ============ */
 function wallCalc(w){
   const len = num(w.len), ht = num(w.ht), gable = num(w.gable);
-  const gross = len*ht + (len*gable)/2;
+  const rect = len*ht;                 // square wall section
+  const gableSF = (len*gable)/2;       // gable triangle — tracked separately
+  const gross = rect + gableSF;
   const open = (w.openings||[]).reduce((a,o)=> a + num(o.w)*num(o.h)*(num(o.count)||1), 0);
-  return { gross, open, net: Math.max(gross - open, 0) };
+  const netSquare = Math.max(rect - open, 0);   // openings come out of the square section
+  return { rect, gableSF, gross, open, netSquare, net: netSquare + gableSF };
 }
 function areaTotals(){
-  let gross=0, open=0, net=0, lf=0;
-  state.walls.forEach(w => { const c = wallCalc(w); gross+=c.gross; open+=c.open; net+=c.net; lf+=num(w.len); });
+  let gross=0, open=0, net=0, sq=0, gable=0, lf=0;
+  state.walls.forEach(w => {
+    const c = wallCalc(w);
+    gross+=c.gross; open+=c.open; net+=c.net; sq+=c.netSquare; gable+=c.gableSF; lf+=num(w.len);
+  });
   const waste = num(state.wastePct);
-  return { gross, open, net, lf, waste, order: net*(1+waste/100) };
+  return { gross, open, net, sq, gable, lf, waste, order: net*(1+waste/100), orderSq: sq*(1+waste/100), orderGable: gable*(1+waste/100) };
 }
 function allItems(){
   const out = [];
@@ -599,22 +605,30 @@ function updateEditSF(){
   const e = state.editing; if (!e) return;
   const c = wallCalc(e);
   $('#editSF').textContent = fmtSF(c.net) + ' SF';
-  $('#editBrk').textContent = c.gross ? `${fmtSF(c.gross)} gross − ${fmtSF(c.open)} openings` : '';
+  const bits = [];
+  if (c.rect) bits.push(`sq ${fmtSF(c.netSquare)}`);
+  if (c.open) bits.push(`(− ${fmtSF(c.open)} openings)`);
+  if (c.gableSF) bits.push(`+ gable ${fmtSF(c.gableSF)}`);
+  $('#editBrk').textContent = bits.join(' ');
 }
 
 /* ============ STEP 4 — TOTALS ============ */
 function renderArea(){
   const a = areaTotals();
   $('#areaBox').innerHTML = `
-    <div class="line"><span>Gross wall area (${state.walls.length} wall${state.walls.length===1?'':'s'})</span><strong>${fmtSF(a.gross)} SF</strong></div>
-    <div class="line"><span>Openings (windows &amp; doors)</span><strong>− ${fmtSF(a.open)} SF</strong></div>
-    <div class="line"><span>Net wall area</span><strong>${fmtSF(a.net)} SF</strong></div>
+    <div class="line"><span>Square wall area <small style="opacity:.5">(net of openings)</small></span><strong>${fmtSF(a.sq)} SF</strong></div>
+    <div class="line"><span>Gable area</span><strong>${fmtSF(a.gable)} SF</strong></div>
+    <div class="line"><span>Openings taken out</span><strong>− ${fmtSF(a.open)} SF</strong></div>
+    <div class="line"><span><b>Net wall area</b> <small style="opacity:.5">(square + gable)</small></span><strong>${fmtSF(a.net)} SF</strong></div>
     <div class="line"><span class="tax-inline">Waste <input id="wasteInput" type="number" inputmode="decimal" step="1" placeholder="10" value="${escapeAttr(state.wastePct)}">%</span><strong id="aOrder">${fmtSF(a.order)} SF to order</strong></div>
+    <div class="line" id="aOrderSplit" style="font-size:13px;opacity:.75"><span>…split with waste</span><strong id="aOrderSplitVal">${fmtSF(a.orderSq)} sq · ${fmtSF(a.orderGable)} gable</strong></div>
     <div class="line"><span>Total wall length</span><strong>${fmtSF(a.lf)} LF</strong></div>
   `;
   $('#wasteInput').addEventListener('input', e => {
     state.wastePct = e.target.value;
-    $('#aOrder').textContent = fmtSF(areaTotals().order) + ' SF to order';
+    const a2 = areaTotals();
+    $('#aOrder').textContent = fmtSF(a2.order) + ' SF to order';
+    $('#aOrderSplitVal').textContent = fmtSF(a2.orderSq) + ' sq · ' + fmtSF(a2.orderGable) + ' gable';
     renderLines();
   });
 }
@@ -631,8 +645,10 @@ function renderLines(){
         <div class="rm-cell"><button class="btn-danger" type="button" data-remove>✕</button></div>
       </div>
       <div class="chips" style="margin:8px 0 0">
-        <button type="button" data-chip="net">Qty ← Net ${fmtSF(a.net)} SF</button>
-        <button type="button" data-chip="order">Qty ← +Waste ${fmtSF(a.order)} SF</button>
+        <button type="button" data-chip="sq">Qty ← Square ${fmtSF(a.sq)} SF</button>
+        <button type="button" data-chip="gable">Qty ← Gable ${fmtSF(a.gable)} SF</button>
+        <button type="button" data-chip="net">Qty ← All ${fmtSF(a.net)} SF</button>
+        <button type="button" data-chip="order">Qty ← All+Waste ${fmtSF(a.order)} SF</button>
         <button type="button" data-chip="lf">Qty ← ${fmtSF(a.lf)} LF</button>
       </div>
     </div>`).join('');
@@ -648,7 +664,8 @@ function renderLines(){
     row.querySelectorAll('[data-chip]').forEach(btn => {
       btn.addEventListener('click', ()=>{
         const a2 = areaTotals(); const kind = btn.dataset.chip;
-        line.qty = String(Math.round((kind==='net'?a2.net:kind==='order'?a2.order:a2.lf)*10)/10);
+        const val = kind==='sq' ? a2.sq : kind==='gable' ? a2.gable : kind==='net' ? a2.net : kind==='order' ? a2.order : a2.lf;
+        line.qty = String(Math.round(val*10)/10);
         if (!line.unit) line.unit = kind==='lf' ? 'LF' : 'SF';
         renderLines(); renderRollup(); renderTotals(); persistDraft();
       });
@@ -693,6 +710,8 @@ function buildPrintHTML(){
       <td>${dims}</td>
       <td style="font-size:10px">${items || '—'}</td>
       <td class="num">${c.open ? '− '+fmtSF(c.open) : '—'}</td>
+      <td class="num">${c.netSquare ? fmtSF(c.netSquare) : '—'}</td>
+      <td class="num">${c.gableSF ? fmtSF(c.gableSF) : '—'}</td>
       <td class="num"><b>${c.net ? fmtSF(c.net) : '—'}</b></td>
     </tr>`;
   }).join('');
@@ -749,14 +768,15 @@ function buildPrintHTML(){
 </div>
 <div class="bar">Walls</div>
 <table>
-  <tr><th style="width:24px">#</th><th>Wall</th><th>Dimensions</th><th>Materials on wall</th><th class="num">Openings SF</th><th class="num">Net SF</th></tr>
-  ${wallRows || '<tr><td colspan="6" style="color:#777">No walls recorded.</td></tr>'}
+  <tr><th style="width:24px">#</th><th>Wall</th><th>Dimensions</th><th>Materials on wall</th><th class="num">Openings SF</th><th class="num">Square SF</th><th class="num">Gable SF</th><th class="num">Net SF</th></tr>
+  ${wallRows || '<tr><td colspan="8" style="color:#777">No walls recorded.</td></tr>'}
 </table>
 <div class="tot">
-  <div class="r"><span>Gross wall area</span><span>${fmtSF(a.gross)} SF</span></div>
-  <div class="r"><span>Openings</span><span>− ${fmtSF(a.open)} SF</span></div>
-  <div class="r"><span><b>Net wall area</b></span><span><b>${fmtSF(a.net)} SF</b></span></div>
-  ${a.waste ? `<div class="r"><span>With ${a.waste}% waste</span><span>${fmtSF(a.order)} SF</span></div>` : ''}
+  <div class="r"><span>Square wall area (net of openings)</span><span>${fmtSF(a.sq)} SF</span></div>
+  <div class="r"><span>Gable area</span><span>${fmtSF(a.gable)} SF</span></div>
+  <div class="r"><span>Openings taken out</span><span>− ${fmtSF(a.open)} SF</span></div>
+  <div class="r"><span><b>Net wall area (square + gable)</b></span><span><b>${fmtSF(a.net)} SF</b></span></div>
+  ${a.waste ? `<div class="r"><span>With ${a.waste}% waste</span><span>${fmtSF(a.order)} SF &nbsp;(${fmtSF(a.orderSq)} sq · ${fmtSF(a.orderGable)} gable)</span></div>` : ''}
   <div class="r"><span>Total wall length</span><span>${fmtSF(a.lf)} LF</span></div>
 </div>
 ${t.rows.length ? `<div class="bar">Combined Material Order</div>
