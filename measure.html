@@ -405,7 +405,7 @@ function restoreDraft(){
     gables: Array.isArray(w.gables)
       ? w.gables.map(g=>({ id:g.id||uid(), base:g.base||'', rise:g.rise||'', count:g.count||'' }))
       : (parseFloat(w.gable) > 0 ? [{ id:uid(), base:'', rise:String(w.gable), count:'' }] : []),   // migrate old single-rise gable
-    openings:Array.isArray(w.openings)?w.openings:[], notes:w.notes||'',
+    openings:(Array.isArray(w.openings)?w.openings:[]).map(o=>({ ...o, kind:o.kind||'win' })), notes:w.notes||'',
     items:Array.isArray(w.items)?w.items:[],
     trim:Array.isArray(w.trim)?w.trim:[]
   }));
@@ -715,9 +715,12 @@ function renderEditor(){
       <div class="mini-label" style="margin-bottom:6px">Gables — base × center rise (leave base blank = full wall length)</div>
       <div id="gableRows"></div>
       <button class="btn-add" id="addGableBtn" type="button" style="padding:10px;font-size:13px;margin-bottom:12px">+ Add Gable</button>
-      <div class="mini-label" style="margin-bottom:6px">Openings — windows &amp; doors (subtracted)</div>
+      <div class="mini-label" style="margin-bottom:6px">Openings — subtracted. Defaults are real numbers: edit them if the unit's different.</div>
       <div id="openRows"></div>
-      <button class="btn-add" id="addOpenBtn" type="button" style="padding:10px;font-size:13px">+ Add Opening</button>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px">
+        <button class="btn-add" id="addWinBtn" type="button" style="padding:10px;font-size:13px">+ Window (5×4)</button>
+        <button class="btn-add" id="addDoorBtn" type="button" style="padding:10px;font-size:13px">+ Door (3×7)</button>
+      </div>
       <div class="live-sf">
         <div><div class="lbl">This Wall</div><div class="brk" id="editBrk"></div></div>
         <div class="val" id="editSF">0 SF</div>
@@ -750,7 +753,7 @@ function renderEditor(){
   $('#wLabel').addEventListener('input', ev => { e.label = ev.target.value; });
   $('#wLen').addEventListener('input', ev => { e.len = ev.target.value; updateEditSF(); });
   $('#wHt').addEventListener('input', ev => { e.ht = ev.target.value; updateEditSF(); });
-  $('#addGableBtn').addEventListener('click', ()=>{ e.gables.push({ id:uid(), base:'', rise:'', count:'' }); renderGableRows(); updateEditSF(); });
+  $('#addGableBtn').addEventListener('click', ()=>{ e.gables.push({ id:uid(), base:'', rise:'', count:'1' }); renderGableRows(); updateEditSF(); });
   $('#wNotes').addEventListener('input', ev => { e.notes = ev.target.value; });
   async function addEditorPhotos(files, inputEl){
     if (!files || !files.length) return;
@@ -781,7 +784,8 @@ function renderEditor(){
     e._sel = Math.max(0, e._sel - 1);
     renderEditor();
   });
-  $('#addOpenBtn').addEventListener('click', ()=>{ e.openings.push({ id:uid(), w:'', h:'', count:'' }); renderOpenRows(); updateEditSF(); });
+  $('#addWinBtn').addEventListener('click', ()=>{ e.openings.push({ id:uid(), kind:'win', w:'5', h:'4', count:'1' }); renderOpenRows(); updateEditSF(); });
+  $('#addDoorBtn').addEventListener('click', ()=>{ e.openings.push({ id:uid(), kind:'door', w:'3', h:'7', count:'1' }); renderOpenRows(); updateEditSF(); });
   $$('#accChips [data-acc]').forEach(btn => {
     btn.addEventListener('click', ()=>{
       const name = btn.dataset.acc;
@@ -805,20 +809,34 @@ function lfForType(type, w){
   const t = (type||'').toLowerCase();
   const len = num(w.len), ht = num(w.ht);
   const sumW   = (w.openings||[]).reduce((a,o)=> a + num(o.w)*(num(o.count)||1), 0);
-  const casing = (w.openings||[]).reduce((a,o)=> a + 2*(num(o.w)+num(o.h))*(num(o.count)||1), 0);
+  // Windows case all 4 sides (perimeter); doors only 3 (two legs + head).
+  const casing = (w.openings||[]).reduce((a,o)=>{
+    const c = num(o.count)||1;
+    const per = o.kind==='door' ? (2*num(o.h) + num(o.w)) : 2*(num(o.w)+num(o.h));
+    return a + per*c;
+  }, 0);
   if (/corner/.test(t)) return Math.ceil(ht);
   if (/casing/.test(t)) return Math.ceil(casing);
   if (/z.?flash/.test(t)) return /belly|band|skirt/.test(t) ? Math.ceil(len) : Math.ceil(sumW);
   if (/header|head/.test(t)) return Math.ceil(sumW);
   if (/rake/.test(t)) return 0;
-  if (/fascia|frieze|belly|band|skirt/.test(t)) return Math.ceil(len);
+  if (/frieze/.test(t)) return Math.ceil(len/2);   // 5/4x4 ripped in half: buy half the run
+  if (/fascia|belly|band|skirt/.test(t)) return Math.ceil(len);
   return 0;
 }
 function trimSuggestions(w){
   return [
-    'Window/door casing', 'Header trim', 'Z-flashing', 'Outside corner', 'Inside corner',
-    'Fascia', 'Frieze board', 'Belly band', 'Skirt board', 'Rake board',
-  ].map(type => ({ type, lf: lfForType(type, w) }));
+    { type:'Window/door casing' },
+    { type:'Header trim' },
+    { type:'Z-flashing' },
+    { type:'Outside corner' },
+    { type:'Inside corner' },
+    { type:'Fascia' },
+    { type:'Frieze board', size:'5/4×4 ripped' },   // stock LF = run/2
+    { type:'Belly band', size:'5/4×8', withZ:true },  // always gets Z on top
+    { type:'Skirt board' },
+    { type:'Rake board' },
+  ].map(x => ({ ...x, lf: lfForType(x.type, w) }));
 }
 let trimLibEdit = false;
 function renderTrimChips(){
@@ -826,7 +844,7 @@ function renderTrimChips(){
   const host = $('#trimChips'); if (!host) return;
   const lib = loadTrimLib();
   const builtins = trimSuggestions(e).map(s =>
-    `<button type="button" data-trim="${escapeAttr(s.type)}" data-lf="${s.lf}">+ ${escapeText(s.type)}${s.lf ? ' '+s.lf+' LF' : ''}</button>`
+    `<button type="button" data-trim="${escapeAttr(s.type)}" data-lf="${s.lf}" data-size="${escapeAttr(s.size||'')}"${s.withZ?' data-withz="1"':''}>+ ${escapeText(s.type)}${s.size ? ' '+escapeText(s.size) : ''}${s.lf ? ' '+s.lf+' LF' : ''}${s.withZ ? ' +Z' : ''}</button>`
   ).join('');
   const learned = lib.map((x,i) => {
     const lf = lfForType(x.type, e);
@@ -839,7 +857,11 @@ function renderTrimChips(){
   host.innerHTML = builtins + learned + editToggle;
   $$('#trimChips [data-trim]').forEach(btn => {
     btn.addEventListener('click', ()=>{
-      e.trim.push({ id:uid(), type:btn.dataset.trim, size:'', lf:btn.dataset.lf!=='0' ? btn.dataset.lf : '', rate:'' });
+      e.trim.push({ id:uid(), type:btn.dataset.trim, size:btn.dataset.size||'', lf:btn.dataset.lf!=='0' ? btn.dataset.lf : '', rate:'' });
+      if (btn.dataset.withz){
+        const zlf = Math.ceil(num(e.len));
+        e.trim.push({ id:uid(), type:'Z-flashing', size:'', lf: zlf ? String(zlf) : '', rate:'' });
+      }
       renderTrimRows();
     });
   });
@@ -890,8 +912,8 @@ function renderGableRows(){
   host.innerHTML = e.gables.map(g => `
     <div class="open-row" data-gable="${g.id}">
       <div><div class="mini-label">Base ft</div><input type="number" inputmode="decimal" step="0.1" data-f="base" placeholder="= wall len" value="${escapeAttr(g.base)}"></div>
-      <div><div class="mini-label">Rise ft (eave→peak)</div><input type="number" inputmode="decimal" step="0.1" data-f="rise" placeholder="4" value="${escapeAttr(g.rise)}"></div>
-      <div><div class="mini-label">Count</div><input type="number" inputmode="numeric" step="1" data-f="count" placeholder="1" value="${escapeAttr(g.count)}"></div>
+      <div><div class="mini-label">Rise ft (eave→peak)</div><input type="number" inputmode="decimal" step="0.1" data-f="rise" placeholder="0" value="${escapeAttr(g.rise)}"></div>
+      <div><div class="mini-label">Count</div><input type="number" inputmode="numeric" step="1" data-f="count" value="${escapeAttr(g.count)||'1'}"></div>
       <button class="btn-danger" type="button" data-gable-rm>✕</button>
     </div>`).join('');
   $$('.open-row', host).forEach(row => {
@@ -910,9 +932,9 @@ function renderOpenRows(){
   const host = $('#openRows');
   host.innerHTML = e.openings.map(o => `
     <div class="open-row" data-open="${o.id}">
-      <div><div class="mini-label">Width ft</div><input type="number" inputmode="decimal" step="0.1" data-f="w" placeholder="3" value="${escapeAttr(o.w)}"></div>
-      <div><div class="mini-label">Height ft</div><input type="number" inputmode="decimal" step="0.1" data-f="h" placeholder="4" value="${escapeAttr(o.h)}"></div>
-      <div><div class="mini-label">Count</div><input type="number" inputmode="numeric" step="1" data-f="count" placeholder="1" value="${escapeAttr(o.count)}"></div>
+      <div><div class="mini-label">${o.kind==='door' ? '🚪 Door' : '🪟 Win'} W ft</div><input type="number" inputmode="decimal" step="0.1" data-f="w" value="${escapeAttr(o.w)}"></div>
+      <div><div class="mini-label">Height ft</div><input type="number" inputmode="decimal" step="0.1" data-f="h" value="${escapeAttr(o.h)}"></div>
+      <div><div class="mini-label">Count</div><input type="number" inputmode="numeric" step="1" data-f="count" value="${escapeAttr(o.count)}"></div>
       <button class="btn-danger" type="button" data-open-rm>✕</button>
     </div>`).join('');
   $$('.open-row', host).forEach(row => {
