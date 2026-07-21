@@ -430,3 +430,39 @@ Source: ZeroHedge overnight citing FT (Jake paste). The statecraft asterisk beco
   caught the KOSPI/Asia wobble threads).
 - *(book — descriptive)* Deepens the two-bloc read; no new position. Reinforces picks-and-shovels-that-serve-the-
   US-bloc (Nvidia's allied-sovereign TAM) over anything needing a unified global AI market. [[ai-capex-cycle]].
+
+## 2026-07-21 ~7:25am PT — MSFT tests Kimi K3 in Copilot: the incumbent's incumbent shops OpenAI's replacement
+Source: Jake paste + web-search confirmation (Cryptobriefing, TechStartups, TheDeepDive, FourWeekMBA; "someone familiar").
+The value-migration thread reaching the flagship of OpenAI's own largest backer.
+### DATA (observed / as-reported)
+- **Microsoft is adding Kimi K3 (Moonshot, Chinese open-weight) to Azure; Copilot engineers are TESTING whether it can
+  power features that currently run on OpenAI/Anthropic models.** MSFT has previously tested DeepSeek + older Kimi in
+  Copilot. **No public commitment to replace OpenAI/Anthropic** — evaluation phase.
+- **Kimi K3:** 2.8-trillion-param multimodal, 1M-token context, **released Jul 16**; **open-weights drop Jul 27.**
+  Pricing **$3/1M input, $15/1M output.**
+- **Industry ESTIMATE:** ~**60% cheaper** inference vs premium proprietary; **up to ~$600M** potential savings (framed
+  against ~$1B inference spend). Self-hosting after the Jul-27 open-weight release would cut cost further.
+### THESIS (interpretation — NOT fact)
+- *(the sharpest value-migration datapoint yet — the actor is the point)* **Microsoft put $13B+ into OpenAI and is now
+  evaluating OpenAI's replacement in its own flagship product to save money.** Dean Ball's fear (7/20 WSJ: "no way to
+  finance frontier development if usage doesn't pay") made concrete by OpenAI's PATRON. If the biggest customer shops
+  the $0.50-ish substitute, the contingent revenue underpinning the whole buildout (→ [[ai-financing-fragility]], the
+  Oracle-CDS leg) is exactly what's at risk. Couples the compression + financing threads on one name.
+- *(⚠️ discipline — TEST ≠ SWITCH; the HF-post lesson again)* Jake's pasted first line ("Microsoft WILL use Kimi K3…
+  saving $600M") is inflated viral framing; the pasted BODY ("planning to test WHETHER the model could be used") is
+  accurate, and the outlets confirm "no public commitment." The $600M/60% is a POTENTIAL estimate, not booked. Verify
+  the facts, discount the conclusion: the FACT (MSFT evaluating a Chinese frontier model in Copilot + adding it to
+  Azure) is significant on its own without the "will/saving" inflation.
+- *(the escalation the earlier notes didn't have — commoditization climbing UP-market)* Kimi K3 = a **2.8T near-frontier
+  multimodal** model at **$3/$15**. That attacks the **FRONTIER premium**, not just the $0.50 commodity floor (Chamath
+  fork). The consolation prize in prior notes — "closed labs get evicted from the cheap seats but keep the profitable
+  front row" — THINS if Chinese open models compete IN the front row at ~40% of US-frontier price. The eviction is
+  moving up the value stack.
+- *(couples to the policy levee — same live tension)* MSFT (a US gov/defense contractor) routing a Chinese model
+  through Copilot is EXACTLY what the WSJ security hawks + Dean Ball want to block. **If a Chinese-AI EO/ban lands,
+  THIS plan is what it targets.** MSFT's cost savings vs the regulatory levee = the two sides of the 7/20 ban-as-margin-
+  defense read, now with a named product on the line. Watch whether policy blocks the Azure/Copilot integration.
+- *(book — descriptive, picks-and-shovels intact)* Input-deflation razor: cheaper inference = bull for the PAYER
+  (MSFT's cost line) / bear for the SELLERS' pricing (OpenAI/Anthropic). **Nvidia runs Kimi K3 tokens on Azure the same
+  as GPT tokens** — the toll is model-agnostic; the loser is the closed-lab private mark, still unshortable. Self-host
+  post-Jul-27 = MSFT captures the margin, Moonshot monetizes ~nothing = commoditization all the way down. [[ai-capex-cycle]].
