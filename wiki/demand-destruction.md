@@ -1680,3 +1680,27 @@ Source: Reuters, "Iran's forces attack Bahrain and Kuwait after US hits Iranian 
 - *(discipline holds on the unverifiable)* The Amazon-Bahrain datacenter strike: **Reuters ALSO "unable to verify"**
   (Amazon/Bahrain/US silent) — stays ⚠️ claim ([[civilian-infra-strike-log]]). Even Iranian sources self-contradicted
   (IRNA quoted a Khorramabad official saying no attack occurred there). Fog is thick; weight UKMTO/Kpler, not agencies.
+
+### 2026-07-21 ~7:15am PT — the TEAPOT sanctions lever (the enforcement arm of the shadow-fleet thread) [Jake recall]
+Source: Jake recall of a Reuters item + web-search confirmation (OFAC press releases sb0476/sb0472, CNBC, Al Jazeera,
+Al-Monitor). Designations confirmed are APR–MAY 2026; a fresh July round is plausible (same campaign) but not pinned.
+#### DATA (observed — sourced)
+- **US chokes Iran's oil revenue by hitting the BUYER, not the barrel:** OFAC sanctioned **Hengli Petrochemical
+  (Dalian)** — China's **2nd-largest "teapot"** (independent Shandong refinery) — Apr 2026 for buying Iranian crude
+  (following an Apr-25 teapot designation). Teapots process discounted sanctioned crude the majors won't touch.
+- **~40 shadow-fleet shipping firms/vessels** designated (dark tankers, ship-to-ship transfers, AIS manipulation,
+  falsified docs). Treasury separately sanctioned **shadow-BANKING channels** moving oil proceeds China→Iran.
+- **China buys ~90% of Iran's oil exports; teapots are the bulk.** Treasury warned **banks** of sanctions risk on
+  Shandong-refinery transactions. Evasion = relabel Iranian crude as **"Malaysian blend"** via Malaysia/UAE fronts.
+- **China pushback:** reportedly **BLOCKED US sanctions against five teapots** (~May 3). Contested lever, not a kill.
+#### THESIS (interpretation — NOT fact)
+- *(enforcement arm of the shadow-fleet/China thread)* This is the mechanism behind Jake's "the reported China demand
+  drop understates real flows" — the barrels don't stop, they go dark + get relabeled "Malaysian blend." The
+  teapot/fleet/bank designations are the US trying to make the DARK flow expensive, not to stop the pumping.
+- *(why it's a pressure lever on the WAR, not just a market factoid)* Bombing Iranian export nodes = the oil-uncapping
+  risk (raises prices, hurts the US politically on gas). Sanctioning the teapots = squeeze Iran's REVENUE without
+  adding a supply shock — a lower-price-impact pressure valve. Explains a US preference for financial strangulation
+  over more Abqaiq-class kinetic strikes (ties the [[demand-destruction]] "why crude stays capped" logic).
+- *(the check that would measure it — the standing owed tool)* The **Malaysia customs-mismatch** signal (Malaysia
+  "exporting" more crude to China than it physically produces) = a measurable proxy for shadow-fleet volume. Offered,
+  not yet built. [[data-sourcing-playbook]].
