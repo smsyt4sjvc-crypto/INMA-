@@ -72,6 +72,15 @@
   .big-photo img{width:100%;max-height:340px;object-fit:contain;display:block;background:#000}
   .big-photo .empty{display:flex;align-items:center;justify-content:center;height:140px;color:#B8941F;font-size:15px}
   .big-photo input{position:absolute;inset:0;opacity:0;cursor:pointer}
+  .ph-strip{display:flex;gap:8px;overflow-x:auto;margin:-6px 0 12px;padding-bottom:4px;-webkit-overflow-scrolling:touch}
+  .ph-strip .pht{width:64px;height:64px;border-radius:10px;overflow:hidden;border:2px solid #3a352e;flex-shrink:0;cursor:pointer;background:#1C1A17}
+  .ph-strip .pht img{width:100%;height:100%;object-fit:cover;display:block}
+  .ph-strip .pht.sel{border-color:#B8941F}
+  .ph-strip .addt{display:flex;align-items:center;justify-content:center;color:#B8941F;font-size:24px;border:2px dashed #3a352e;border-radius:10px;width:64px;height:64px;flex-shrink:0;position:relative}
+  .ph-strip .addt input{position:absolute;inset:0;opacity:0;cursor:pointer}
+  .cap-row{display:flex;gap:8px;align-items:center;margin:-6px 0 12px}
+  .cap-row input{flex:1;padding:10px 12px;background:#1C1A17;border:1px solid #3a352e;border-radius:10px;color:#F5F2ED;font-size:14px;font-family:inherit;-webkit-appearance:none}
+  .cap-row input:focus{outline:none;border-color:#B8941F}
   .open-row{display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:8px;align-items:end;margin-bottom:8px}
   .open-row input{width:100%;padding:10px 12px;background:#1C1A17;border:1px solid #3a352e;border-radius:10px;color:#F5F2ED;font-size:15px;font-family:inherit;-webkit-appearance:none}
   .open-row input:focus{outline:none;border-color:#B8941F}
@@ -156,13 +165,14 @@
     <section class="step" data-step="2">
       <div class="card">
         <h2>Snap the Walls</h2>
-        <p class="sub">Walk the house. One photo per wall — get them all before you start detailing.</p>
+        <p class="sub">Walk the house and shoot everything — as many photos per wall as you need. Wide shot, closeups, problem spots.</p>
         <div class="photo-grid" id="photoGrid"></div>
         <div class="cap-btns">
-          <label class="cap-btn">📷 Camera<input type="file" id="camInput" accept="image/*" capture="environment"></label>
-          <label class="cap-btn">🖼 Add from Library<input type="file" id="libInput" accept="image/*" multiple></label>
+          <label class="cap-btn">📷 New Wall<input type="file" id="camInput" accept="image/*" capture="environment"></label>
+          <label class="cap-btn" id="sameWallBtn">➕ Another Shot,<br>Same Wall<input type="file" id="sameInput" accept="image/*" capture="environment"></label>
+          <label class="cap-btn" style="grid-column:1/-1">🖼 Add from Library (multi)<input type="file" id="libInput" accept="image/*" multiple></label>
         </div>
-        <p class="micro" style="margin-top:10px">Tap a photo to jump straight to detailing that wall. Photos are reference — measurements come from your tape.</p>
+        <p class="micro" style="margin-top:10px">📷 starts a wall · ➕ adds more shots to the wall you just started. You can also add photos to any wall later, in the editor. Tap a photo to jump to detailing.</p>
       </div>
     </section>
 
@@ -292,7 +302,7 @@ function persistDraft(){
   try { localStorage.setItem(DRAFT_KEY, JSON.stringify(draft)); }
   catch (err) {
     try {
-      const light = { ...draft, walls: state.walls.map(w => ({ ...w, dataUrl:null })) };
+      const light = { ...draft, walls: state.walls.map(w => ({ ...w, photos:(w.photos||[]).map(p=>({ id:p.id, dataUrl:null, cap:p.cap||'' })) })) };
       localStorage.setItem(DRAFT_KEY, JSON.stringify(light));
     } catch(e2) {}
   }
@@ -304,7 +314,11 @@ function restoreDraft(){
   if (!d || typeof d !== 'object') return;
   if (d.job) state.job = Object.assign(state.job, d.job);
   if (Array.isArray(d.walls)) state.walls = d.walls.map(w => ({
-    id:w.id||uid(), label:w.label||'', dataUrl:w.dataUrl||null, len:w.len||'', ht:w.ht||'', gable:w.gable||'',
+    id:w.id||uid(), label:w.label||'',
+    photos: Array.isArray(w.photos)
+      ? w.photos.filter(p=>p && p.dataUrl).map(p=>({ id:p.id||uid(), dataUrl:p.dataUrl, cap:p.cap||'' }))
+      : (w.dataUrl ? [{ id:uid(), dataUrl:w.dataUrl, cap:'' }] : []),   // migrate old one-photo drafts
+    len:w.len||'', ht:w.ht||'', gable:w.gable||'',
     openings:Array.isArray(w.openings)?w.openings:[], notes:w.notes||'',
     items:Array.isArray(w.items)?w.items:[]
   }));
@@ -326,6 +340,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
     $('#'+id).addEventListener('input', e => { state.job[key] = e.target.value; });
   });
   $('#camInput').addEventListener('change', e => addPhotos(e.target.files, e.target));
+  $('#sameInput').addEventListener('change', e => addPhotos(e.target.files, e.target, 'same'));
   $('#libInput').addEventListener('change', e => addPhotos(e.target.files, e.target));
   $('#addWallBtn').addEventListener('click', ()=>{
     if (state.editing) return;
@@ -353,15 +368,22 @@ document.addEventListener('DOMContentLoaded', ()=>{
 });
 
 function newWall(dataUrl){
-  return { id:uid(), label:'', dataUrl:dataUrl||null, len:'', ht:'', gable:'', openings:[], notes:'', items:[] };
+  return { id:uid(), label:'', photos: dataUrl ? [{ id:uid(), dataUrl, cap:'' }] : [], len:'', ht:'', gable:'', openings:[], notes:'', items:[] };
 }
 function fileToDataURL(file){
   return new Promise((res,rej)=>{ const r = new FileReader(); r.onload=()=>res(r.result); r.onerror=rej; r.readAsDataURL(file); });
 }
-async function addPhotos(files, inputEl){
+async function addPhotos(files, inputEl, mode){
   if (!files || !files.length) return;
   for (const f of Array.from(files)){
-    try { state.walls.push(newWall(await fileToDataURL(f))); } catch(e){}
+    try {
+      const dataUrl = await fileToDataURL(f);
+      if (mode === 'same' && state.walls.length){
+        state.walls[state.walls.length-1].photos.push({ id:uid(), dataUrl, cap:'' });
+      } else {
+        state.walls.push(newWall(dataUrl));
+      }
+    } catch(e){}
   }
   if (inputEl) inputEl.value = '';
   renderPhotos(); renderWalls(); persistDraft();
@@ -392,14 +414,15 @@ function wallDetailed(w){
 }
 function renderPhotos(){
   const grid = $('#photoGrid');
-  const withPhotos = state.walls.filter(w => w.dataUrl);
+  const withPhotos = state.walls.filter(w => (w.photos||[]).length);
   grid.innerHTML = state.walls.map((w,idx)=>{
-    if (!w.dataUrl) return '';
+    if (!(w.photos||[]).length) return '';
+    const n = w.photos.length;
     return `<div class="photo-cell" data-idx="${idx}">
-      <img src="${w.dataUrl}" alt="">
+      <img src="${w.photos[0].dataUrl}" alt="">
       <button class="rm" type="button" data-rm="${w.id}">✕</button>
       ${wallDetailed(w) ? '<span class="done-mark">✓</span>' : ''}
-      <span class="tag">${escapeText((w.label||'').trim() || 'Wall '+(idx+1))}</span>
+      <span class="tag">${escapeText((w.label||'').trim() || 'Wall '+(idx+1))}${n>1 ? ' · '+n+' pics' : ''}</span>
     </div>`;
   }).join('') + (withPhotos.length ? '' : '<div style="grid-column:1/-1;color:#7A756D;font-size:13px;padding:8px 2px">No photos yet — snap the first wall.</div>');
   $$('.photo-cell', grid).forEach(cell => {
@@ -412,7 +435,7 @@ function renderPhotos(){
   $$('[data-rm]', grid).forEach(btn => {
     btn.addEventListener('click', e => {
       e.stopPropagation();
-      if (!confirm('Remove this wall photo (and its wall)?')) return;
+      if (!confirm('Remove this wall and all its photos?')) return;
       state.walls = state.walls.filter(w => w.id !== btn.dataset.rm);
       renderPhotos(); renderWalls(); persistDraft();
     });
@@ -426,6 +449,8 @@ function wallMetaText(w){
   if (num(w.gable)) bits.push(`gable ${num(w.gable)}'`);
   const ic = (w.items||[]).filter(it=>(it.desc||'').trim()).length;
   if (ic) bits.push(`${ic} item${ic>1?'s':''}`);
+  const pc = (w.photos||[]).length;
+  if (pc > 1) bits.push(`${pc} pics`);
   return bits.join(' · ') || 'not detailed yet';
 }
 function renderWalls(){
@@ -433,7 +458,7 @@ function renderWalls(){
   list.innerHTML = state.walls.map((w,idx)=>{
     const c = wallCalc(w);
     return `<div class="wall-card" data-idx="${idx}">
-      <div class="thumb">${w.dataUrl ? `<img src="${w.dataUrl}" alt="">` : '📐'}</div>
+      <div class="thumb">${(w.photos||[]).length ? `<img src="${w.photos[0].dataUrl}" alt="">` : '📐'}</div>
       <div class="body">
         <div class="title">${escapeText((w.label||'').trim() || 'Wall '+(idx+1))} ${wallDetailed(w) ? '<span style="color:#8FB37E;font-size:12px">✓</span>' : ''}</div>
         <div class="meta">${escapeText(wallMetaText(w))}</div>
@@ -470,7 +495,7 @@ function openEditor(idx){
 function saveEditing(){
   const e = state.editing; if (!e) return;
   const idx = e._idx;
-  const saved = { id:e.id, label:e.label, dataUrl:e.dataUrl, len:e.len, ht:e.ht, gable:e.gable, openings:e.openings, notes:e.notes, items:e.items };
+  const saved = { id:e.id, label:e.label, photos:e.photos, len:e.len, ht:e.ht, gable:e.gable, openings:e.openings, notes:e.notes, items:e.items };
   if (idx >= 0 && idx < state.walls.length && state.walls[idx].id === e.id) state.walls[idx] = saved;
   else {
     const i = state.walls.findIndex(x => x.id === e.id);
@@ -490,10 +515,24 @@ function renderEditor(){
         <span class="t">Wall ${idx+1} of ${total}</span>
         <span class="n">look at the photo — load it up</span>
       </div>
+      ${(() => {
+        const ph = e.photos || [];
+        if (e._sel == null || e._sel >= ph.length) e._sel = 0;
+        const sel = ph[e._sel];
+        return `
       <div class="big-photo">
-        ${e.dataUrl ? `<img src="${e.dataUrl}" alt="">` : `<div class="empty">+ tap to add a photo</div>`}
-        <input type="file" id="wPhoto" accept="image/*" capture="environment">
+        ${sel ? `<img src="${sel.dataUrl}" alt="">` : `<div class="empty">+ tap to add photos</div>`}
+        ${sel ? '' : '<input type="file" id="wPhotoEmpty" accept="image/*" capture="environment" multiple>'}
       </div>
+      ${sel ? `<div class="cap-row">
+        <input id="phCap" type="text" placeholder="Caption this shot — 'rot at NE corner'…" value="${escapeAttr(sel.cap||'')}">
+        <button class="btn-danger" type="button" id="phRemove">✕</button>
+      </div>` : ''}
+      <div class="ph-strip">
+        ${ph.map((p,i)=>`<div class="pht${i===e._sel?' sel':''}" data-ph="${i}"><img src="${p.dataUrl}" alt=""></div>`).join('')}
+        <label class="addt">+<input type="file" id="wPhotoAdd" accept="image/*" multiple></label>
+      </div>`;
+      })()}
       <div class="field"><label>Wall Label</label><input id="wLabel" type="text" placeholder="East wall" value="${escapeAttr(e.label)}"></div>
 
       <div class="sec-label">Size (tape it)</div>
@@ -534,11 +573,30 @@ function renderEditor(){
   $('#wHt').addEventListener('input', ev => { e.ht = ev.target.value; updateEditSF(); });
   $('#wGable').addEventListener('input', ev => { e.gable = ev.target.value; updateEditSF(); });
   $('#wNotes').addEventListener('input', ev => { e.notes = ev.target.value; });
-  $('#wPhoto').addEventListener('change', async ev => {
-    const f = ev.target.files && ev.target.files[0];
-    if (!f) return;
-    e.dataUrl = await fileToDataURL(f);
-    renderEditor(); persistDraft();
+  async function addEditorPhotos(files, inputEl){
+    if (!files || !files.length) return;
+    for (const f of Array.from(files)){
+      try { e.photos.push({ id:uid(), dataUrl: await fileToDataURL(f), cap:'' }); } catch(err){}
+    }
+    if (inputEl) inputEl.value = '';
+    e._sel = e.photos.length - 1;
+    renderEditor();
+  }
+  const addInp = $('#wPhotoAdd');
+  if (addInp) addInp.addEventListener('change', ev => addEditorPhotos(ev.target.files, ev.target));
+  const emptyInp = $('#wPhotoEmpty');
+  if (emptyInp) emptyInp.addEventListener('change', ev => addEditorPhotos(ev.target.files, ev.target));
+  $$('.ph-strip .pht', host).forEach(t => {
+    t.addEventListener('click', ()=>{ e._sel = Number(t.dataset.ph); renderEditor(); });
+  });
+  const capInp = $('#phCap');
+  if (capInp) capInp.addEventListener('input', ev => { const p = e.photos[e._sel]; if (p) p.cap = ev.target.value; });
+  const phRm = $('#phRemove');
+  if (phRm) phRm.addEventListener('click', ()=>{
+    if (!confirm('Remove this photo?')) return;
+    e.photos.splice(e._sel, 1);
+    e._sel = Math.max(0, e._sel - 1);
+    renderEditor();
   });
   $('#addOpenBtn').addEventListener('click', ()=>{ e.openings.push({ id:uid(), w:'', h:'', count:'' }); renderOpenRows(); updateEditSF(); });
   $$('#accChips [data-acc]').forEach(btn => {
@@ -715,8 +773,10 @@ function buildPrintHTML(){
       <td class="num"><b>${c.net ? fmtSF(c.net) : '—'}</b></td>
     </tr>`;
   }).join('');
-  const photoGrid = state.walls.filter(w => w.dataUrl).map((w,i)=>`
-    <figure style="margin:0;break-inside:avoid"><img src="${w.dataUrl}" style="width:100%;border:1px solid #E4DED2;border-radius:6px"><figcaption style="font-size:9px;color:#777;margin-top:3px">${escapeText((w.label||'').trim() || 'Wall '+(i+1))}</figcaption></figure>`).join('');
+  const photoGrid = state.walls.flatMap((w,i)=>
+    (w.photos||[]).map(p => `
+    <figure style="margin:0;break-inside:avoid"><img src="${p.dataUrl}" style="width:100%;border:1px solid #E4DED2;border-radius:6px"><figcaption style="font-size:9px;color:#777;margin-top:3px">${escapeText((w.label||'').trim() || 'Wall '+(i+1))}${(p.cap||'').trim() ? ' — '+escapeText(p.cap.trim()) : ''}</figcaption></figure>`)
+  ).join('');
   const rollRows = t.rows.map(r => `<tr>
     <td>${escapeText(r.desc)}${r.walls.length && !(r.walls.length===1 && r.walls[0]==='General') ? `<div style="font-size:8.5px;color:#999">${r.walls.filter(x=>x).map(escapeText).join(', ')}</div>` : ''}</td>
     <td class="num">${r.qty.toLocaleString('en-US',{maximumFractionDigits:1})}</td>
