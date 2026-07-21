@@ -231,7 +231,7 @@
 const state = {
   step: 1,
   job: { name:'', address:'', date:'' },
-  walls: [],      // [{id,label,dataUrl,len,ht,gable,openings:[{id,w,h,count}],notes,items:[{id,desc,qty,unit,rate}]}]
+  walls: [],      // [{id,label,photos,len,ht,gables:[{id,base,rise,count}],openings:[{id,w,h,count}],notes,items:[{id,desc,qty,unit,rate}]}]
   editing: null,  // working copy while editing a wall
   lines: [],      // general/whole-house items [{id,desc,qty,unit,rate}]
   wastePct: '',
@@ -253,9 +253,13 @@ const blankItem = () => ({ id:uid(), desc:'', qty:'', unit:'', rate:'' });
 
 /* ============ MATH ============ */
 function wallCalc(w){
-  const len = num(w.len), ht = num(w.ht), gable = num(w.gable);
+  const len = num(w.len), ht = num(w.ht);
   const rect = len*ht;                 // square wall section
-  const gableSF = (len*gable)/2;       // gable triangle — tracked separately
+  // Each gable is a triangle: base × center rise / 2. Blank base = wall length.
+  const gableSF = (w.gables||[]).reduce((a,g)=>{
+    const base = num(g.base) || len;
+    return a + (base * num(g.rise) / 2) * (num(g.count)||1);
+  }, 0);
   const gross = rect + gableSF;
   const open = (w.openings||[]).reduce((a,o)=> a + num(o.w)*num(o.h)*(num(o.count)||1), 0);
   const netSquare = Math.max(rect - open, 0);   // openings come out of the square section
@@ -318,7 +322,10 @@ function restoreDraft(){
     photos: Array.isArray(w.photos)
       ? w.photos.filter(p=>p && p.dataUrl).map(p=>({ id:p.id||uid(), dataUrl:p.dataUrl, cap:p.cap||'' }))
       : (w.dataUrl ? [{ id:uid(), dataUrl:w.dataUrl, cap:'' }] : []),   // migrate old one-photo drafts
-    len:w.len||'', ht:w.ht||'', gable:w.gable||'',
+    len:w.len||'', ht:w.ht||'',
+    gables: Array.isArray(w.gables)
+      ? w.gables.map(g=>({ id:g.id||uid(), base:g.base||'', rise:g.rise||'', count:g.count||'' }))
+      : (parseFloat(w.gable) > 0 ? [{ id:uid(), base:'', rise:String(w.gable), count:'' }] : []),   // migrate old single-rise gable
     openings:Array.isArray(w.openings)?w.openings:[], notes:w.notes||'',
     items:Array.isArray(w.items)?w.items:[]
   }));
@@ -368,7 +375,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
 });
 
 function newWall(dataUrl, label){
-  return { id:uid(), label:label||'', photos: dataUrl ? [{ id:uid(), dataUrl, cap:'' }] : [], len:'', ht:'', gable:'', openings:[], notes:'', items:[] };
+  return { id:uid(), label:label||'', photos: dataUrl ? [{ id:uid(), dataUrl, cap:'' }] : [], len:'', ht:'', gables:[], openings:[], notes:'', items:[] };
 }
 // Turn a saved filename into a wall label: "east-wall_2.jpg" -> "east wall 2".
 // Generic camera names (IMG_1234, image, photo…) give nothing useful -> ''.
@@ -480,7 +487,8 @@ function renderPhotos(){
 function wallMetaText(w){
   const bits = [];
   if (num(w.len)||num(w.ht)) bits.push(`${num(w.len)||'—'}' × ${num(w.ht)||'—'}'`);
-  if (num(w.gable)) bits.push(`gable ${num(w.gable)}'`);
+  const gb = (w.gables||[]).filter(g=>num(g.rise));
+  if (gb.length) bits.push(gb.length>1 ? gb.length+' gables' : `gable ${num(gb[0].base)||num(w.len)||'—'}'×${num(gb[0].rise)}'`);
   const ic = (w.items||[]).filter(it=>(it.desc||'').trim()).length;
   if (ic) bits.push(`${ic} item${ic>1?'s':''}`);
   const pc = (w.photos||[]).length;
@@ -529,7 +537,7 @@ function openEditor(idx){
 function saveEditing(){
   const e = state.editing; if (!e) return;
   const idx = e._idx;
-  const saved = { id:e.id, label:e.label, photos:e.photos, len:e.len, ht:e.ht, gable:e.gable, openings:e.openings, notes:e.notes, items:e.items };
+  const saved = { id:e.id, label:e.label, photos:e.photos, len:e.len, ht:e.ht, gables:e.gables, openings:e.openings, notes:e.notes, items:e.items };
   if (idx >= 0 && idx < state.walls.length && state.walls[idx].id === e.id) state.walls[idx] = saved;
   else {
     const i = state.walls.findIndex(x => x.id === e.id);
@@ -570,11 +578,13 @@ function renderEditor(){
       <div class="field"><label>Wall Label</label><input id="wLabel" type="text" placeholder="East wall" value="${escapeAttr(e.label)}"></div>
 
       <div class="sec-label">Size (tape it)</div>
-      <div class="row-3">
+      <div class="row" style="display:grid;grid-template-columns:1fr 1fr;gap:10px">
         <div class="field"><label>Length ft</label><input id="wLen" type="number" inputmode="decimal" step="0.1" placeholder="30" value="${escapeAttr(e.len)}"></div>
         <div class="field"><label>Height ft</label><input id="wHt" type="number" inputmode="decimal" step="0.1" placeholder="8" value="${escapeAttr(e.ht)}"></div>
-        <div class="field"><label>Gable ft</label><input id="wGable" type="number" inputmode="decimal" step="0.1" placeholder="0" value="${escapeAttr(e.gable)}"></div>
       </div>
+      <div class="mini-label" style="margin-bottom:6px">Gables — base × center rise (leave base blank = full wall length)</div>
+      <div id="gableRows"></div>
+      <button class="btn-add" id="addGableBtn" type="button" style="padding:10px;font-size:13px;margin-bottom:12px">+ Add Gable</button>
       <div class="mini-label" style="margin-bottom:6px">Openings — windows &amp; doors (subtracted)</div>
       <div id="openRows"></div>
       <button class="btn-add" id="addOpenBtn" type="button" style="padding:10px;font-size:13px">+ Add Opening</button>
@@ -600,12 +610,12 @@ function renderEditor(){
       </div>
     </div>`;
 
-  renderOpenRows(); renderWallItems(); updateEditSF();
+  renderGableRows(); renderOpenRows(); renderWallItems(); updateEditSF();
 
   $('#wLabel').addEventListener('input', ev => { e.label = ev.target.value; });
   $('#wLen').addEventListener('input', ev => { e.len = ev.target.value; updateEditSF(); });
   $('#wHt').addEventListener('input', ev => { e.ht = ev.target.value; updateEditSF(); });
-  $('#wGable').addEventListener('input', ev => { e.gable = ev.target.value; updateEditSF(); });
+  $('#addGableBtn').addEventListener('click', ()=>{ e.gables.push({ id:uid(), base:'', rise:'', count:'' }); renderGableRows(); updateEditSF(); });
   $('#wNotes').addEventListener('input', ev => { e.notes = ev.target.value; });
   async function addEditorPhotos(files, inputEl){
     if (!files || !files.length) return;
@@ -651,6 +661,27 @@ function renderEditor(){
   $('#wSave').addEventListener('click', ()=>{ saveEditing(); state.editing = null; renderWalls(); renderPhotos(); });
   $('#wPrev').addEventListener('click', ()=>{ saveEditing(); const i = idx-1; state.editing=null; renderWalls(); renderPhotos(); if (i>=0) openEditor(i); });
   $('#wNext').addEventListener('click', ()=>{ saveEditing(); const i = idx+1; state.editing=null; renderWalls(); renderPhotos(); if (i<state.walls.length) openEditor(i); });
+}
+function renderGableRows(){
+  const e = state.editing; if (!e) return;
+  const host = $('#gableRows');
+  host.innerHTML = e.gables.map(g => `
+    <div class="open-row" data-gable="${g.id}">
+      <div><div class="mini-label">Base ft</div><input type="number" inputmode="decimal" step="0.1" data-f="base" placeholder="= wall len" value="${escapeAttr(g.base)}"></div>
+      <div><div class="mini-label">Rise ft (eave→peak)</div><input type="number" inputmode="decimal" step="0.1" data-f="rise" placeholder="4" value="${escapeAttr(g.rise)}"></div>
+      <div><div class="mini-label">Count</div><input type="number" inputmode="numeric" step="1" data-f="count" placeholder="1" value="${escapeAttr(g.count)}"></div>
+      <button class="btn-danger" type="button" data-gable-rm>✕</button>
+    </div>`).join('');
+  $$('.open-row', host).forEach(row => {
+    const g = e.gables.find(x => x.id === row.dataset.gable);
+    row.querySelectorAll('input').forEach(inp => {
+      inp.addEventListener('input', ev => { g[ev.target.dataset.f] = ev.target.value; updateEditSF(); });
+    });
+    row.querySelector('[data-gable-rm]').addEventListener('click', ()=>{
+      e.gables = e.gables.filter(x => x.id !== g.id);
+      renderGableRows(); updateEditSF();
+    });
+  });
 }
 function renderOpenRows(){
   const e = state.editing; if (!e) return;
@@ -798,7 +829,8 @@ function buildPrintHTML(){
   const t = moneyTotals();
   const wallRows = state.walls.map((w,i)=>{
     const c = wallCalc(w);
-    const dims = (num(w.len)||num(w.ht)) ? `${num(w.len)||'—'}' × ${num(w.ht)||'—'}'` + (num(w.gable) ? ` + gable ${num(w.gable)}'` : '') : '—';
+    const gtxt = (w.gables||[]).filter(g=>num(g.rise)).map(g=>` + gable ${num(g.base)||num(w.len)||0}'×${num(g.rise)}'${(num(g.count)||1)>1 ? '×'+num(g.count) : ''}`).join('');
+    const dims = (num(w.len)||num(w.ht)) ? `${num(w.len)||'—'}' × ${num(w.ht)||'—'}'` + gtxt : '—';
     const items = (w.items||[]).filter(it=>(it.desc||'').trim()).map(it => `${escapeText(it.desc)} ×${num(it.qty)||1}${(it.unit||'').trim() && (it.unit||'').trim().toUpperCase()!=='EA' ? ' '+escapeText(it.unit) : ''}`).join(', ');
     return `<tr>
       <td>${i+1}</td>
