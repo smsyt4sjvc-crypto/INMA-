@@ -35,35 +35,57 @@
   .card .sub{font-size:13px;opacity:.55;margin:0 0 18px}
   .field{margin-bottom:14px}
   .field label{display:block;font-size:12px;letter-spacing:1px;text-transform:uppercase;opacity:.65;margin-bottom:6px;font-weight:500}
-  .field .hint{font-size:11px;opacity:.5;margin-top:4px;font-style:italic}
   .field input,.field textarea{width:100%;padding:14px;background:#1C1A17;border:1px solid #3a352e;border-radius:12px;color:#F5F2ED;font-family:inherit;font-size:16px;-webkit-appearance:none}
   .field input:focus,.field textarea:focus{outline:none;border-color:#B8941F}
-  .row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
   .row-3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px}
-  .wall-card{background:#1C1A17;border:1px solid #3a352e;border-radius:14px;padding:14px;margin-bottom:10px;display:flex;gap:12px;align-items:center;cursor:pointer;transition:border-color .2s}
+  .micro{font-size:11px;opacity:.5;font-style:italic}
+  .mini-label{font-size:10px;opacity:.5;text-transform:uppercase;letter-spacing:1px;margin-bottom:3px}
+
+  /* Step 2 photo grid */
+  .photo-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin-bottom:14px}
+  @media(max-width:520px){.photo-grid{grid-template-columns:1fr 1fr}}
+  .photo-cell{position:relative;aspect-ratio:4/3;border-radius:12px;overflow:hidden;background:#1C1A17;border:1px solid #3a352e;cursor:pointer}
+  .photo-cell img{width:100%;height:100%;object-fit:cover;display:block}
+  .photo-cell .tag{position:absolute;bottom:6px;left:6px;right:6px;background:rgba(28,26,23,.82);color:#F5F2ED;font-size:11px;padding:3px 8px;border-radius:6px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .photo-cell .done-mark{position:absolute;top:6px;right:6px;background:#6B7F5E;color:#F5F2ED;font-size:11px;font-weight:700;padding:2px 7px;border-radius:999px}
+  .photo-cell .rm{position:absolute;top:6px;left:6px;background:rgba(28,26,23,.85);color:#c66;border:1px solid #4a2a2a;border-radius:8px;font-size:12px;padding:2px 8px;cursor:pointer}
+  .cap-btns{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+  .cap-btn{position:relative;overflow:hidden;background:transparent;color:#B8941F;border:1px dashed #B8941F;padding:16px;border-radius:12px;font-weight:600;font-size:14px;cursor:pointer;width:100%;font-family:inherit;text-align:center}
+  .cap-btn input{position:absolute;inset:0;opacity:0;cursor:pointer}
+
+  /* Wall list (step 3) */
+  .wall-card{background:#1C1A17;border:1px solid #3a352e;border-radius:14px;padding:12px 14px;margin-bottom:10px;display:flex;gap:12px;align-items:center;cursor:pointer;transition:border-color .2s}
   .wall-card:hover{border-color:#B8941F}
   .wall-card .thumb{width:56px;height:56px;border-radius:10px;background:#25221d;flex-shrink:0;overflow:hidden;display:flex;align-items:center;justify-content:center;font-size:22px;color:#3a352e}
   .wall-card .thumb img{width:100%;height:100%;object-fit:cover;display:block}
   .wall-card .body{flex:1;min-width:0}
-  .wall-card .title{font-size:14px;font-weight:600;color:#F5F2ED}
+  .wall-card .title{font-size:14px;font-weight:600}
   .wall-card .meta{font-size:12px;opacity:.6}
-  .wall-card .sf{font-size:17px;font-weight:700;color:#B8941F;white-space:nowrap}
-  .wall-edit{background:#2a2721;border:1px solid #B8941F;border-radius:14px;padding:16px;margin-bottom:12px}
-  .wall-edit .edit-head{font-size:13px;font-weight:600;color:#B8941F;letter-spacing:1px;text-transform:uppercase;margin-bottom:12px}
-  .wall-photo-row{display:flex;gap:12px;align-items:center;margin-bottom:12px}
-  .wall-photo-thumb{width:84px;height:84px;border-radius:10px;background:#1C1A17;border:1px dashed #3a352e;overflow:hidden;display:flex;align-items:center;justify-content:center;font-size:30px;color:#B8941F;flex-shrink:0;cursor:pointer;position:relative}
-  .wall-photo-thumb img{width:100%;height:100%;object-fit:cover;display:block}
-  .wall-photo-thumb input{display:none}
-  .micro{font-size:11px;opacity:.5;font-style:italic}
+  .wall-card .sf{font-size:15px;font-weight:700;color:#B8941F;white-space:nowrap}
+
+  /* Wall editor */
+  .wall-edit{background:#2a2721;border:1px solid #B8941F;border-radius:16px;padding:16px;margin-bottom:12px}
+  .edit-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px}
+  .edit-head .t{font-size:13px;font-weight:600;color:#B8941F;letter-spacing:1px;text-transform:uppercase}
+  .edit-head .n{font-size:12px;opacity:.55}
+  .big-photo{position:relative;border-radius:12px;overflow:hidden;background:#1C1A17;border:1px solid #3a352e;margin-bottom:14px}
+  .big-photo img{width:100%;max-height:340px;object-fit:contain;display:block;background:#000}
+  .big-photo .empty{display:flex;align-items:center;justify-content:center;height:140px;color:#B8941F;font-size:15px}
+  .big-photo input{position:absolute;inset:0;opacity:0;cursor:pointer}
   .open-row{display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:8px;align-items:end;margin-bottom:8px}
-  .mini-label{font-size:10px;opacity:.5;text-transform:uppercase;letter-spacing:1px;margin-bottom:3px}
   .open-row input{width:100%;padding:10px 12px;background:#1C1A17;border:1px solid #3a352e;border-radius:10px;color:#F5F2ED;font-size:15px;font-family:inherit;-webkit-appearance:none}
   .open-row input:focus{outline:none;border-color:#B8941F}
-  .live-sf{background:#1C1A17;border:1px solid #3a352e;border-radius:12px;padding:12px 16px;margin:12px 0;display:flex;justify-content:space-between;align-items:center}
-  .live-sf .lbl{font-size:12px;letter-spacing:1px;text-transform:uppercase;opacity:.6}
-  .live-sf .val{font-size:22px;font-weight:800;color:#B8941F}
+  .live-sf{background:#1C1A17;border:1px solid #3a352e;border-radius:12px;padding:10px 14px;margin:12px 0;display:flex;justify-content:space-between;align-items:center}
+  .live-sf .lbl{font-size:11px;letter-spacing:1px;text-transform:uppercase;opacity:.6}
+  .live-sf .val{font-size:20px;font-weight:800;color:#B8941F}
   .live-sf .brk{font-size:11px;opacity:.5}
-  .edit-buttons{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:12px}
+  .sec-label{font-size:12px;letter-spacing:1.5px;text-transform:uppercase;color:#B8941F;font-weight:700;margin:16px 0 8px}
+  .chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+  .chips button{background:#1C1A17;color:#B8941F;border:1px solid #3a352e;border-radius:999px;padding:7px 12px;font-size:12px;font-family:inherit;cursor:pointer}
+  .chips button:hover{border-color:#B8941F}
+  .edit-buttons{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:14px}
+  .wall-nav{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:10px}
+
   .btn-primary{background:#B8941F;color:#1C1A17;border:none;padding:14px 22px;border-radius:12px;font-weight:700;font-size:15px;font-family:inherit;cursor:pointer;letter-spacing:.5px}
   .btn-primary:hover{background:#d4a828}
   .btn-ghost{background:transparent;color:#F5F2ED;border:1px solid #3a352e;padding:14px 22px;border-radius:12px;font-weight:600;font-size:15px;font-family:inherit;cursor:pointer}
@@ -72,13 +94,18 @@
   .btn-danger{background:transparent;color:#c66;border:1px solid #4a2a2a;padding:10px 14px;border-radius:10px;font-size:13px;cursor:pointer;font-family:inherit}
   .btn-add{background:transparent;color:#B8941F;border:1px dashed #B8941F;padding:14px;border-radius:12px;font-weight:600;font-size:14px;cursor:pointer;width:100%;font-family:inherit}
   .btn-add:hover{background:rgba(184,148,31,.1)}
-  .line-item{background:#1C1A17;border:1px solid #3a352e;border-radius:14px;padding:14px;margin-bottom:10px}
+
+  .line-item{background:#1C1A17;border:1px solid #3a352e;border-radius:14px;padding:12px;margin-bottom:10px}
   .line-grid{display:grid;grid-template-columns:2fr 1fr 1fr 1fr auto;gap:8px;align-items:end}
   .line-grid input{width:100%;padding:10px 12px;background:#25221d;border:1px solid #3a352e;border-radius:10px;color:#F5F2ED;font-size:15px;font-family:inherit;-webkit-appearance:none}
   .line-grid input:focus{outline:none;border-color:#B8941F}
-  .chips{display:flex;gap:6px;margin-top:8px;flex-wrap:wrap}
-  .chips button{background:#2a2721;color:#B8941F;border:1px solid #3a352e;border-radius:999px;padding:5px 10px;font-size:11px;font-family:inherit;cursor:pointer}
-  .chips button:hover{border-color:#B8941F}
+  @media(max-width:520px){
+    .row-3{grid-template-columns:1fr 1fr 1fr}
+    .line-grid{grid-template-columns:1fr 1fr;gap:6px}
+    .line-grid .desc-cell{grid-column:1 / -1}
+    .line-grid .rm-cell{grid-column:1 / -1}
+  }
+
   .navbar{position:fixed;bottom:0;left:50%;transform:translateX(-50%);width:100%;max-width:780px;padding:14px 20px 20px;padding-bottom:calc(20px + env(safe-area-inset-bottom));background:#1C1A17;border-top:1px solid #3a352e;display:flex;justify-content:space-between;align-items:center;gap:12px;z-index:10}
   .step-label{font-size:12px;opacity:.5;letter-spacing:1.5px;text-transform:uppercase}
   .totals{background:#1C1A17;border:1px solid #3a352e;border-radius:14px;padding:20px;margin-top:6px;font-size:16px}
@@ -88,13 +115,11 @@
   .totals .tax-inline{display:flex;align-items:center;gap:8px}
   .totals .tax-inline input{width:70px;padding:6px 8px;background:#25221d;border:1px solid #3a352e;border-radius:8px;color:#F5F2ED;font-family:inherit;font-size:14px;text-align:right;-webkit-appearance:none}
   .totals .tax-inline input:focus{outline:none;border-color:#B8941F}
-  @media(max-width:520px){
-    .row,.row-3{grid-template-columns:1fr}
-    .line-grid{grid-template-columns:1fr 1fr;gap:6px}
-    .line-grid .desc-cell{grid-column:1 / -1}
-    .line-grid .rm-cell{grid-column:1 / -1}
-    .open-row{grid-template-columns:1fr 1fr 1fr auto}
-  }
+  .roll-row{display:flex;justify-content:space-between;gap:10px;padding:9px 0;border-bottom:1px solid #3a352e;font-size:14.5px}
+  .roll-row:last-child{border-bottom:none}
+  .roll-row .d{color:#E4DED2}
+  .roll-row .d small{color:#8A857E}
+  .roll-row .a{color:#C9C1B4;white-space:nowrap}
 </style>
 </head>
 <body>
@@ -122,34 +147,54 @@
         <div class="field" style="max-width:220px"><label>Date</label><input id="jobDate" type="date"></div>
       </div>
       <div class="card">
-        <h2>How to measure</h2>
-        <p class="sub" style="margin-bottom:0">Tape each wall: length × height. Gables get a rise. Windows &amp; doors subtract out. Use <b style="opacity:.8">decimal feet</b> — 8'6" = 8.5. Photos are for reference; the math comes from your tape.</p>
+        <h2>How this works</h2>
+        <p class="sub" style="margin-bottom:0"><b style="opacity:.85">1.</b> Walk the house and snap every wall. &nbsp;<b style="opacity:.85">2.</b> Go through the photos wall by wall — add measurements, materials, and accessories while you're looking at each one. &nbsp;<b style="opacity:.85">3.</b> Everything rolls up into one combined order and total at the end.</p>
       </div>
     </section>
 
-    <!-- STEP 2 — WALLS -->
+    <!-- STEP 2 — PHOTOS -->
     <section class="step" data-step="2">
       <div class="card">
-        <h2>Walls</h2>
-        <p class="sub">One wall at a time. Photo optional. Tap a wall to edit it.</p>
-        <div id="wallsList"></div>
-        <div id="wallEditHost"></div>
-        <button class="btn-add" id="addWallBtn" type="button">+ Add Wall</button>
+        <h2>Snap the Walls</h2>
+        <p class="sub">Walk the house. One photo per wall — get them all before you start detailing.</p>
+        <div class="photo-grid" id="photoGrid"></div>
+        <div class="cap-btns">
+          <label class="cap-btn">📷 Camera<input type="file" id="camInput" accept="image/*" capture="environment"></label>
+          <label class="cap-btn">🖼 Add from Library<input type="file" id="libInput" accept="image/*" multiple></label>
+        </div>
+        <p class="micro" style="margin-top:10px">Tap a photo to jump straight to detailing that wall. Photos are reference — measurements come from your tape.</p>
       </div>
     </section>
 
-    <!-- STEP 3 — MATERIALS & TOTALS -->
+    <!-- STEP 3 — WALL BY WALL -->
     <section class="step" data-step="3">
+      <div class="card">
+        <h2>Wall by Wall</h2>
+        <p class="sub">Tap a wall, look at the photo, and load it up — sizes, materials, accessories.</p>
+        <div id="wallsList"></div>
+        <div id="wallEditHost"></div>
+        <button class="btn-add" id="addWallBtn" type="button">+ Add Wall Without Photo</button>
+      </div>
+    </section>
+
+    <!-- STEP 4 — TOTALS -->
+    <section class="step" data-step="4">
       <div class="card">
         <h2>Area Summary</h2>
         <div class="totals" id="areaBox"></div>
       </div>
 
       <div class="card">
-        <h2>Material Line Items</h2>
-        <p class="sub">Tap a chip to drop the measured footage straight into a line's quantity.</p>
+        <h2>General Materials</h2>
+        <p class="sub">Whole-house items — wrap, siding, caulk. Chips drop the measured footage into a line.</p>
         <div id="linesHost"></div>
-        <button class="btn-add" id="addLineBtn" type="button">+ Add Line</button>
+        <button class="btn-add" id="addLineBtn" type="button">+ Add General Line</button>
+      </div>
+
+      <div class="card">
+        <h2>Combined Material Order</h2>
+        <p class="sub">Every wall's items + general lines, merged and totaled.</p>
+        <div class="totals" id="rollupBox"></div>
       </div>
 
       <div class="card">
@@ -166,7 +211,7 @@
 
   <footer class="navbar">
     <button class="btn-ghost" id="backBtn">← Back</button>
-    <div class="step-label" id="stepLabel">Step 1 of 3</div>
+    <div class="step-label" id="stepLabel">Step 1 of 4</div>
     <button class="btn-primary" id="nextBtn">Next →</button>
   </footer>
 </div>
@@ -176,14 +221,15 @@
 const state = {
   step: 1,
   job: { name:'', address:'', date:'' },
-  walls: [],      // [{id,label,dataUrl,len,ht,gable,openings:[{id,w,h,count}],notes}]
+  walls: [],      // [{id,label,dataUrl,len,ht,gable,openings:[{id,w,h,count}],notes,items:[{id,desc,qty,unit,rate}]}]
   editing: null,  // working copy while editing a wall
-  lines: [],      // [{id,desc,qty,unit,rate}]
+  lines: [],      // general/whole-house items [{id,desc,qty,unit,rate}]
   wastePct: '',
   taxPct: '',
 };
-const TOTAL_STEPS = 3;
-const DRAFT_KEY = 'inma_measure_draft_v1';
+const TOTAL_STEPS = 4;
+const DRAFT_KEY = 'inma_measure_draft_v2';
+const CHIP_ITEMS = ['Light block','Hose bib block','Gable vent','Outside corner','Inside corner','J-channel','Starter strip','Drip cap','Shutter set','Dryer vent'];
 
 const $ = (s,r=document)=>r.querySelector(s);
 const $$ = (s,r=document)=>Array.from(r.querySelectorAll(s));
@@ -193,26 +239,40 @@ const fmtSF = x => (Math.round((x||0)*10)/10).toLocaleString('en-US',{maximumFra
 const fmtMoney = x => '$' + (Math.round((x||0)*100)/100).toLocaleString('en-US',{minimumFractionDigits:2,maximumFractionDigits:2});
 function escapeAttr(s){ return String(s==null?'':s).replace(/"/g,'&quot;').replace(/</g,'&lt;'); }
 function escapeText(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+const blankItem = () => ({ id:uid(), desc:'', qty:'', unit:'', rate:'' });
 
 /* ============ MATH ============ */
 function wallCalc(w){
   const len = num(w.len), ht = num(w.ht), gable = num(w.gable);
-  const gross = len*ht + (len*gable)/2;                       // rectangle + gable triangle
-  const open = (w.openings||[]).reduce((a,o)=>{
-    const c = num(o.count) || 1;
-    return a + num(o.w)*num(o.h)*c;
-  }, 0);
+  const gross = len*ht + (len*gable)/2;
+  const open = (w.openings||[]).reduce((a,o)=> a + num(o.w)*num(o.h)*(num(o.count)||1), 0);
   return { gross, open, net: Math.max(gross - open, 0) };
 }
 function areaTotals(){
   let gross=0, open=0, net=0, lf=0;
   state.walls.forEach(w => { const c = wallCalc(w); gross+=c.gross; open+=c.open; net+=c.net; lf+=num(w.len); });
   const waste = num(state.wastePct);
-  const order = net * (1 + waste/100);
-  return { gross, open, net, lf, waste, order };
+  return { gross, open, net, lf, waste, order: net*(1+waste/100) };
+}
+function allItems(){
+  const out = [];
+  state.walls.forEach(w => (w.items||[]).forEach(it => out.push({ ...it, wall:(w.label||'').trim() })));
+  state.lines.forEach(it => out.push({ ...it, wall:'General' }));
+  return out.filter(it => (it.desc||'').trim() || num(it.qty) || num(it.rate));
+}
+function rollup(){
+  const map = new Map();
+  allItems().forEach(it => {
+    const key = (it.desc||'').trim().toLowerCase() + '|' + (it.unit||'').trim().toLowerCase() + '|' + (it.rate===''||it.rate==null ? '' : num(it.rate));
+    if (!map.has(key)) map.set(key, { desc:(it.desc||'').trim()||'(unnamed)', unit:(it.unit||'').trim(), rate:it.rate, qty:0, walls:new Set() });
+    const g = map.get(key);
+    g.qty += num(it.qty);
+    if (it.wall) g.walls.add(it.wall);
+  });
+  return Array.from(map.values()).map(g => ({ ...g, amount: g.qty*num(g.rate), walls:Array.from(g.walls) }));
 }
 function moneyTotals(){
-  const rows = state.lines.map(l => ({ ...l, amount: num(l.qty)*num(l.rate) }));
+  const rows = rollup();
   const subtotal = rows.reduce((a,r)=>a+r.amount, 0);
   const taxNum = num(state.taxPct);
   const hasTax = taxNum > 0;
@@ -225,7 +285,7 @@ function persistDraft(){
   const draft = { step:state.step, job:state.job, walls:state.walls, lines:state.lines, wastePct:state.wastePct, taxPct:state.taxPct };
   try { localStorage.setItem(DRAFT_KEY, JSON.stringify(draft)); }
   catch (err) {
-    try { // photos too big — keep the numbers, drop the images
+    try {
       const light = { ...draft, walls: state.walls.map(w => ({ ...w, dataUrl:null })) };
       localStorage.setItem(DRAFT_KEY, JSON.stringify(light));
     } catch(e2) {}
@@ -237,8 +297,12 @@ function restoreDraft(){
   let d; try { d = JSON.parse(raw); } catch(e){ return; }
   if (!d || typeof d !== 'object') return;
   if (d.job) state.job = Object.assign(state.job, d.job);
-  if (Array.isArray(d.walls)) state.walls = d.walls.map(w => ({ id:w.id||uid(), label:w.label||'', dataUrl:w.dataUrl||null, len:w.len||'', ht:w.ht||'', gable:w.gable||'', openings:Array.isArray(w.openings)?w.openings:[], notes:w.notes||'' }));
-  if (Array.isArray(d.lines)) state.lines = d.lines.map(l => ({ id:l.id||uid(), desc:l.desc||'', qty:l.qty||'', unit:l.unit||'', rate:l.rate||'' }));
+  if (Array.isArray(d.walls)) state.walls = d.walls.map(w => ({
+    id:w.id||uid(), label:w.label||'', dataUrl:w.dataUrl||null, len:w.len||'', ht:w.ht||'', gable:w.gable||'',
+    openings:Array.isArray(w.openings)?w.openings:[], notes:w.notes||'',
+    items:Array.isArray(w.items)?w.items:[]
+  }));
+  if (Array.isArray(d.lines)) state.lines = d.lines;
   if (typeof d.wastePct === 'string') state.wastePct = d.wastePct;
   if (typeof d.taxPct === 'string') state.taxPct = d.taxPct;
   if (d.step >= 1 && d.step <= TOTAL_STEPS) state.step = d.step;
@@ -255,14 +319,17 @@ document.addEventListener('DOMContentLoaded', ()=>{
   [['jobName','name'],['jobAddress','address'],['jobDate','date']].forEach(([id,key])=>{
     $('#'+id).addEventListener('input', e => { state.job[key] = e.target.value; });
   });
+  $('#camInput').addEventListener('change', e => addPhotos(e.target.files, e.target));
+  $('#libInput').addEventListener('change', e => addPhotos(e.target.files, e.target));
   $('#addWallBtn').addEventListener('click', ()=>{
     if (state.editing) return;
-    state.editing = { id:null, label:'', dataUrl:null, len:'', ht:'', gable:'', openings:[], notes:'' };
-    renderWalls();
+    state.walls.push(newWall(null));
+    openEditor(state.walls.length-1);
+    persistDraft();
   });
   $('#addLineBtn').addEventListener('click', ()=>{
-    state.lines.push({ id:uid(), desc:'', qty:'', unit:'', rate:'' });
-    renderLines(); renderTotals(); persistDraft();
+    state.lines.push(blankItem());
+    renderLines(); renderRollup(); renderTotals(); persistDraft();
   });
   $('#backBtn').addEventListener('click', ()=>{ if(state.step>1){ state.step--; updateStepUI(); persistDraft(); }});
   $('#nextBtn').addEventListener('click', ()=>{ if(state.step<TOTAL_STEPS){ state.step++; updateStepUI(); persistDraft(); }});
@@ -273,10 +340,26 @@ document.addEventListener('DOMContentLoaded', ()=>{
     location.reload();
   });
   restoreDraft();
+  renderPhotos();
   renderWalls();
   updateStepUI();
   document.addEventListener('input', persistDraft);
 });
+
+function newWall(dataUrl){
+  return { id:uid(), label:'', dataUrl:dataUrl||null, len:'', ht:'', gable:'', openings:[], notes:'', items:[] };
+}
+function fileToDataURL(file){
+  return new Promise((res,rej)=>{ const r = new FileReader(); r.onload=()=>res(r.result); r.onerror=rej; r.readAsDataURL(file); });
+}
+async function addPhotos(files, inputEl){
+  if (!files || !files.length) return;
+  for (const f of Array.from(files)){
+    try { state.walls.push(newWall(await fileToDataURL(f))); } catch(e){}
+  }
+  if (inputEl) inputEl.value = '';
+  renderPhotos(); renderWalls(); persistDraft();
+}
 
 /* ============ STEPPER ============ */
 function buildDots(){
@@ -289,101 +372,156 @@ function updateStepUI(){
   $('#stepLabel').textContent = `Step ${state.step} of ${TOTAL_STEPS}`;
   $('#backBtn').disabled = state.step === 1;
   $('#nextBtn').style.visibility = state.step === TOTAL_STEPS ? 'hidden' : 'visible';
+  if (state.step === 2) renderPhotos();
+  if (state.step === 3) renderWalls();
   if (state.step === TOTAL_STEPS){
-    if (!state.lines.length) state.lines.push({ id:uid(), desc:'', qty:'', unit:'', rate:'' });
-    renderArea(); renderLines(); renderTotals();
+    renderArea(); renderLines(); renderRollup(); renderTotals();
   }
   window.scrollTo({top:0, behavior:'smooth'});
 }
 
-/* ============ WALLS ============ */
-function fileToDataURL(file){
-  return new Promise((res,rej)=>{ const r = new FileReader(); r.onload=()=>res(r.result); r.onerror=rej; r.readAsDataURL(file); });
+/* ============ STEP 2 — PHOTOS ============ */
+function wallDetailed(w){
+  return !!( (w.label||'').trim() || num(w.len) || (w.items||[]).length );
 }
+function renderPhotos(){
+  const grid = $('#photoGrid');
+  const withPhotos = state.walls.filter(w => w.dataUrl);
+  grid.innerHTML = state.walls.map((w,idx)=>{
+    if (!w.dataUrl) return '';
+    return `<div class="photo-cell" data-idx="${idx}">
+      <img src="${w.dataUrl}" alt="">
+      <button class="rm" type="button" data-rm="${w.id}">✕</button>
+      ${wallDetailed(w) ? '<span class="done-mark">✓</span>' : ''}
+      <span class="tag">${escapeText((w.label||'').trim() || 'Wall '+(idx+1))}</span>
+    </div>`;
+  }).join('') + (withPhotos.length ? '' : '<div style="grid-column:1/-1;color:#7A756D;font-size:13px;padding:8px 2px">No photos yet — snap the first wall.</div>');
+  $$('.photo-cell', grid).forEach(cell => {
+    cell.addEventListener('click', e => {
+      if (e.target.closest('[data-rm]')) return;
+      state.step = 3; updateStepUI();
+      openEditor(Number(cell.dataset.idx));
+    });
+  });
+  $$('[data-rm]', grid).forEach(btn => {
+    btn.addEventListener('click', e => {
+      e.stopPropagation();
+      if (!confirm('Remove this wall photo (and its wall)?')) return;
+      state.walls = state.walls.filter(w => w.id !== btn.dataset.rm);
+      renderPhotos(); renderWalls(); persistDraft();
+    });
+  });
+}
+
+/* ============ STEP 3 — WALL BY WALL ============ */
 function wallMetaText(w){
   const bits = [];
   if (num(w.len)||num(w.ht)) bits.push(`${num(w.len)||'—'}' × ${num(w.ht)||'—'}'`);
   if (num(w.gable)) bits.push(`gable ${num(w.gable)}'`);
-  const oc = (w.openings||[]).reduce((a,o)=>a+(num(o.count)||1),0);
-  if (oc) bits.push(`${oc} opening${oc>1?'s':''}`);
-  return bits.join(' · ') || 'no measurements yet';
+  const ic = (w.items||[]).filter(it=>(it.desc||'').trim()).length;
+  if (ic) bits.push(`${ic} item${ic>1?'s':''}`);
+  return bits.join(' · ') || 'not detailed yet';
 }
 function renderWalls(){
   const list = $('#wallsList');
   list.innerHTML = state.walls.map((w,idx)=>{
     const c = wallCalc(w);
-    return `<div class="wall-card" data-wall="${w.id}">
+    return `<div class="wall-card" data-idx="${idx}">
       <div class="thumb">${w.dataUrl ? `<img src="${w.dataUrl}" alt="">` : '📐'}</div>
       <div class="body">
-        <div class="title">${escapeText((w.label||'').trim() || 'Wall '+(idx+1))}</div>
+        <div class="title">${escapeText((w.label||'').trim() || 'Wall '+(idx+1))} ${wallDetailed(w) ? '<span style="color:#8FB37E;font-size:12px">✓</span>' : ''}</div>
         <div class="meta">${escapeText(wallMetaText(w))}</div>
       </div>
-      <div class="sf">${fmtSF(c.net)} SF</div>
+      <div class="sf">${c.net ? fmtSF(c.net)+' SF' : ''}</div>
       <button class="btn-danger" type="button" data-wall-delete="${w.id}">✕</button>
     </div>`;
-  }).join('');
+  }).join('') || '<div style="color:#7A756D;font-size:13px;padding:4px 2px 12px">No walls yet — add photos in the last step, or add one below.</div>';
 
   $$('.wall-card', list).forEach(card => {
     card.addEventListener('click', e => {
       if (e.target.closest('[data-wall-delete]')) return;
       if (state.editing) return;
-      const w = state.walls.find(x => x.id === card.dataset.wall);
-      if (!w) return;
-      state.editing = JSON.parse(JSON.stringify(w));
-      renderWalls();
+      openEditor(Number(card.dataset.idx));
     });
   });
   $$('[data-wall-delete]', list).forEach(btn => {
     btn.addEventListener('click', e => {
       e.stopPropagation();
       state.walls = state.walls.filter(w => w.id !== btn.dataset.wallDelete);
-      renderWalls(); persistDraft();
+      renderWalls(); renderPhotos(); persistDraft();
     });
   });
+  if (!state.editing){ $('#wallEditHost').innerHTML=''; $('#addWallBtn').style.display='block'; }
+}
 
-  const host = $('#wallEditHost');
-  if (!state.editing){ host.innerHTML=''; $('#addWallBtn').style.display='block'; return; }
-  $('#addWallBtn').style.display='none';
+function openEditor(idx){
+  const w = state.walls[idx];
+  if (!w) return;
+  state.editing = JSON.parse(JSON.stringify(w));
+  state.editing._idx = idx;
+  renderEditor();
+}
+function saveEditing(){
+  const e = state.editing; if (!e) return;
+  const idx = e._idx;
+  const saved = { id:e.id, label:e.label, dataUrl:e.dataUrl, len:e.len, ht:e.ht, gable:e.gable, openings:e.openings, notes:e.notes, items:e.items };
+  if (idx >= 0 && idx < state.walls.length && state.walls[idx].id === e.id) state.walls[idx] = saved;
+  else {
+    const i = state.walls.findIndex(x => x.id === e.id);
+    if (i >= 0) state.walls[i] = saved; else state.walls.push(saved);
+  }
+  persistDraft();
+}
+function renderEditor(){
   const e = state.editing;
-  const isNew = !e.id;
+  const host = $('#wallEditHost');
+  if (!e){ host.innerHTML=''; renderWalls(); return; }
+  $('#addWallBtn').style.display='none';
+  const idx = e._idx, total = state.walls.length;
   host.innerHTML = `
     <div class="wall-edit">
-      <div class="edit-head">${isNew ? '+ New Wall' : 'Editing Wall'}</div>
+      <div class="edit-head">
+        <span class="t">Wall ${idx+1} of ${total}</span>
+        <span class="n">look at the photo — load it up</span>
+      </div>
+      <div class="big-photo">
+        ${e.dataUrl ? `<img src="${e.dataUrl}" alt="">` : `<div class="empty">+ tap to add a photo</div>`}
+        <input type="file" id="wPhoto" accept="image/*" capture="environment">
+      </div>
       <div class="field"><label>Wall Label</label><input id="wLabel" type="text" placeholder="East wall" value="${escapeAttr(e.label)}"></div>
-      <div class="wall-photo-row">
-        <label class="wall-photo-thumb">
-          ${e.dataUrl ? `<img src="${e.dataUrl}" alt="">` : '+'}
-          <input type="file" id="wPhoto" accept="image/*" capture="environment">
-        </label>
-        <div style="flex:1">
-          <div class="micro">Photo optional — reference only. The math comes from the tape.</div>
-          ${e.dataUrl ? '<button class="btn-danger" type="button" id="wPhotoClear" style="margin-top:8px">Remove photo</button>' : ''}
-        </div>
-      </div>
+
+      <div class="sec-label">Size (tape it)</div>
       <div class="row-3">
-        <div class="field"><label>Length (ft)</label><input id="wLen" type="number" inputmode="decimal" step="0.1" placeholder="30" value="${escapeAttr(e.len)}"></div>
-        <div class="field"><label>Height (ft)</label><input id="wHt" type="number" inputmode="decimal" step="0.1" placeholder="8" value="${escapeAttr(e.ht)}"></div>
-        <div class="field"><label>Gable Rise (ft)</label><input id="wGable" type="number" inputmode="decimal" step="0.1" placeholder="0" value="${escapeAttr(e.gable)}"></div>
+        <div class="field"><label>Length ft</label><input id="wLen" type="number" inputmode="decimal" step="0.1" placeholder="30" value="${escapeAttr(e.len)}"></div>
+        <div class="field"><label>Height ft</label><input id="wHt" type="number" inputmode="decimal" step="0.1" placeholder="8" value="${escapeAttr(e.ht)}"></div>
+        <div class="field"><label>Gable ft</label><input id="wGable" type="number" inputmode="decimal" step="0.1" placeholder="0" value="${escapeAttr(e.gable)}"></div>
       </div>
-      <div class="field" style="margin-bottom:6px"><label>Openings — windows &amp; doors (subtracted)</label></div>
+      <div class="mini-label" style="margin-bottom:6px">Openings — windows &amp; doors (subtracted)</div>
       <div id="openRows"></div>
       <button class="btn-add" id="addOpenBtn" type="button" style="padding:10px;font-size:13px">+ Add Opening</button>
       <div class="live-sf">
-        <div>
-          <div class="lbl">This Wall</div>
-          <div class="brk" id="editBrk"></div>
-        </div>
+        <div><div class="lbl">This Wall</div><div class="brk" id="editBrk"></div></div>
         <div class="val" id="editSF">0 SF</div>
       </div>
-      <div class="field"><label>Notes</label><input id="wNotes" type="text" placeholder="Hose bib, light block, 2 outside corners…" value="${escapeAttr(e.notes)}"></div>
+
+      <div class="sec-label">Materials on this wall</div>
+      <div class="chips" id="accChips">${CHIP_ITEMS.map(c=>`<button type="button" data-acc="${escapeAttr(c)}">+ ${escapeText(c)}</button>`).join('')}</div>
+      <div id="wallItems"></div>
+      <button class="btn-add" id="addWallItemBtn" type="button" style="padding:10px;font-size:13px">+ Add Material Line</button>
+
+      <div class="field" style="margin-top:14px"><label>Notes</label><input id="wNotes" type="text" placeholder="Rot at the corner, tall ladder needed…" value="${escapeAttr(e.notes)}"></div>
+
       <div class="edit-buttons">
         <button class="btn-ghost" type="button" id="wCancel">Cancel</button>
         <button class="btn-primary" type="button" id="wSave">✓ Save Wall</button>
       </div>
+      <div class="wall-nav">
+        <button class="btn-ghost" type="button" id="wPrev" ${idx<=0?'disabled':''}>‹ Save &amp; Prev</button>
+        <button class="btn-ghost" type="button" id="wNext" ${idx>=total-1?'disabled':''}>Save &amp; Next ›</button>
+      </div>
     </div>`;
 
-  renderOpenRows();
-  updateEditSF();
+  renderOpenRows(); renderWallItems(); updateEditSF();
 
   $('#wLabel').addEventListener('input', ev => { e.label = ev.target.value; });
   $('#wLen').addEventListener('input', ev => { e.len = ev.target.value; updateEditSF(); });
@@ -394,24 +532,23 @@ function renderWalls(){
     const f = ev.target.files && ev.target.files[0];
     if (!f) return;
     e.dataUrl = await fileToDataURL(f);
-    renderWalls(); persistDraft();
+    renderEditor(); persistDraft();
   });
-  const pc = $('#wPhotoClear');
-  if (pc) pc.addEventListener('click', ()=>{ e.dataUrl = null; renderWalls(); });
-  $('#addOpenBtn').addEventListener('click', ()=>{
-    e.openings.push({ id:uid(), w:'', h:'', count:'' });
-    renderOpenRows(); updateEditSF();
+  $('#addOpenBtn').addEventListener('click', ()=>{ e.openings.push({ id:uid(), w:'', h:'', count:'' }); renderOpenRows(); updateEditSF(); });
+  $$('#accChips [data-acc]').forEach(btn => {
+    btn.addEventListener('click', ()=>{
+      const name = btn.dataset.acc;
+      const hit = e.items.find(it => it.desc.trim().toLowerCase() === name.toLowerCase() && (it.unit||'EA').toUpperCase()==='EA');
+      if (hit) hit.qty = String((num(hit.qty)||0) + 1);
+      else e.items.push({ id:uid(), desc:name, qty:'1', unit:'EA', rate:'' });
+      renderWallItems();
+    });
   });
+  $('#addWallItemBtn').addEventListener('click', ()=>{ e.items.push(blankItem()); renderWallItems(); });
   $('#wCancel').addEventListener('click', ()=>{ state.editing = null; renderWalls(); });
-  $('#wSave').addEventListener('click', ()=>{
-    const saved = { id: e.id || uid(), label:e.label, dataUrl:e.dataUrl, len:e.len, ht:e.ht, gable:e.gable, openings:e.openings, notes:e.notes };
-    if (e.id){
-      const i = state.walls.findIndex(w => w.id === e.id);
-      if (i >= 0) state.walls[i] = saved; else state.walls.push(saved);
-    } else state.walls.push(saved);
-    state.editing = null;
-    renderWalls(); persistDraft();
-  });
+  $('#wSave').addEventListener('click', ()=>{ saveEditing(); state.editing = null; renderWalls(); renderPhotos(); });
+  $('#wPrev').addEventListener('click', ()=>{ saveEditing(); const i = idx-1; state.editing=null; renderWalls(); renderPhotos(); if (i>=0) openEditor(i); });
+  $('#wNext').addEventListener('click', ()=>{ saveEditing(); const i = idx+1; state.editing=null; renderWalls(); renderPhotos(); if (i<state.walls.length) openEditor(i); });
 }
 function renderOpenRows(){
   const e = state.editing; if (!e) return;
@@ -434,6 +571,30 @@ function renderOpenRows(){
     });
   });
 }
+function renderWallItems(){
+  const e = state.editing; if (!e) return;
+  const host = $('#wallItems');
+  host.innerHTML = e.items.map(l => `
+    <div class="line-item" data-id="${l.id}">
+      <div class="line-grid">
+        <div class="desc-cell"><div class="mini-label">Item</div><input type="text" data-f="desc" value="${escapeAttr(l.desc)}" placeholder="Light block"></div>
+        <div><div class="mini-label">Qty</div><input type="number" inputmode="decimal" step="0.1" data-f="qty" value="${escapeAttr(l.qty)}" placeholder="1"></div>
+        <div><div class="mini-label">Unit</div><input type="text" data-f="unit" value="${escapeAttr(l.unit)}" placeholder="EA"></div>
+        <div><div class="mini-label">$/unit</div><input type="number" inputmode="decimal" step="0.01" data-f="rate" value="${escapeAttr(l.rate)}" placeholder=""></div>
+        <div class="rm-cell"><button class="btn-danger" type="button" data-remove>✕</button></div>
+      </div>
+    </div>`).join('');
+  $$('.line-item', host).forEach(row => {
+    const line = e.items.find(x => x.id === row.dataset.id);
+    row.querySelectorAll('input').forEach(inp => {
+      inp.addEventListener('input', ev => { line[ev.target.dataset.f] = ev.target.value; });
+    });
+    row.querySelector('[data-remove]').addEventListener('click', ()=>{
+      e.items = e.items.filter(x => x.id !== line.id);
+      renderWallItems();
+    });
+  });
+}
 function updateEditSF(){
   const e = state.editing; if (!e) return;
   const c = wallCalc(e);
@@ -441,7 +602,7 @@ function updateEditSF(){
   $('#editBrk').textContent = c.gross ? `${fmtSF(c.gross)} gross − ${fmtSF(c.open)} openings` : '';
 }
 
-/* ============ STEP 3 ============ */
+/* ============ STEP 4 — TOTALS ============ */
 function renderArea(){
   const a = areaTotals();
   $('#areaBox').innerHTML = `
@@ -454,7 +615,7 @@ function renderArea(){
   $('#wasteInput').addEventListener('input', e => {
     state.wastePct = e.target.value;
     $('#aOrder').textContent = fmtSF(areaTotals().order) + ' SF to order';
-    renderLines(); // refresh chips' order value
+    renderLines();
   });
 }
 function renderLines(){
@@ -469,7 +630,7 @@ function renderLines(){
         <div><div class="mini-label">$/unit</div><input type="number" inputmode="decimal" step="0.01" data-f="rate" value="${escapeAttr(l.rate)}" placeholder="0.00"></div>
         <div class="rm-cell"><button class="btn-danger" type="button" data-remove>✕</button></div>
       </div>
-      <div class="chips">
+      <div class="chips" style="margin:8px 0 0">
         <button type="button" data-chip="net">Qty ← Net ${fmtSF(a.net)} SF</button>
         <button type="button" data-chip="order">Qty ← +Waste ${fmtSF(a.order)} SF</button>
         <button type="button" data-chip="lf">Qty ← ${fmtSF(a.lf)} LF</button>
@@ -478,23 +639,30 @@ function renderLines(){
   $$('.line-item', host).forEach(row => {
     const line = state.lines.find(x => x.id === row.dataset.id);
     row.querySelectorAll('.line-grid input').forEach(inp => {
-      inp.addEventListener('input', e => { line[e.target.dataset.f] = e.target.value; renderTotals(); });
+      inp.addEventListener('input', e => { line[e.target.dataset.f] = e.target.value; renderRollup(); renderTotals(); });
     });
     row.querySelector('[data-remove]').addEventListener('click', ()=>{
       state.lines = state.lines.filter(x => x.id !== line.id);
-      renderLines(); renderTotals(); persistDraft();
+      renderLines(); renderRollup(); renderTotals(); persistDraft();
     });
     row.querySelectorAll('[data-chip]').forEach(btn => {
       btn.addEventListener('click', ()=>{
-        const a2 = areaTotals();
-        const kind = btn.dataset.chip;
+        const a2 = areaTotals(); const kind = btn.dataset.chip;
         line.qty = String(Math.round((kind==='net'?a2.net:kind==='order'?a2.order:a2.lf)*10)/10);
-        if (kind==='lf' && !line.unit) line.unit = 'LF';
-        if (kind!=='lf' && !line.unit) line.unit = 'SF';
-        renderLines(); renderTotals(); persistDraft();
+        if (!line.unit) line.unit = kind==='lf' ? 'LF' : 'SF';
+        renderLines(); renderRollup(); renderTotals(); persistDraft();
       });
     });
   });
+}
+function renderRollup(){
+  const rows = rollup();
+  $('#rollupBox').innerHTML = rows.length ? rows.map(r => `
+    <div class="roll-row">
+      <span class="d">${escapeText(r.desc)} <small>— ${r.qty.toLocaleString('en-US',{maximumFractionDigits:1})} ${escapeText(r.unit||'')}${r.walls.length && !(r.walls.length===1 && r.walls[0]==='General') ? ' · '+r.walls.filter(x=>x).map(escapeText).join(', ') : ''}</small></span>
+      <span class="a">${num(r.rate) ? fmtMoney(r.amount) : '—'}</span>
+    </div>`).join('')
+  : '<div style="color:#7A756D;font-size:13.5px">Nothing yet — add materials on the walls or a general line.</div>';
 }
 function renderTotals(){
   const t = moneyTotals();
@@ -517,23 +685,25 @@ function buildPrintHTML(){
   const t = moneyTotals();
   const wallRows = state.walls.map((w,i)=>{
     const c = wallCalc(w);
-    const dims = `${num(w.len)||'—'}' × ${num(w.ht)||'—'}'` + (num(w.gable) ? ` + gable ${num(w.gable)}'` : '');
+    const dims = (num(w.len)||num(w.ht)) ? `${num(w.len)||'—'}' × ${num(w.ht)||'—'}'` + (num(w.gable) ? ` + gable ${num(w.gable)}'` : '') : '—';
+    const items = (w.items||[]).filter(it=>(it.desc||'').trim()).map(it => `${escapeText(it.desc)} ×${num(it.qty)||1}${(it.unit||'').trim() && (it.unit||'').trim().toUpperCase()!=='EA' ? ' '+escapeText(it.unit) : ''}`).join(', ');
     return `<tr>
       <td>${i+1}</td>
       <td>${escapeText((w.label||'').trim() || 'Wall '+(i+1))}${(w.notes||'').trim() ? `<div style="font-size:9px;color:#777">${escapeText(w.notes.trim())}</div>` : ''}</td>
-      <td>${escapeText(dims)}</td>
+      <td>${dims}</td>
+      <td style="font-size:10px">${items || '—'}</td>
       <td class="num">${c.open ? '− '+fmtSF(c.open) : '—'}</td>
-      <td class="num"><b>${fmtSF(c.net)}</b></td>
+      <td class="num"><b>${c.net ? fmtSF(c.net) : '—'}</b></td>
     </tr>`;
   }).join('');
   const photoGrid = state.walls.filter(w => w.dataUrl).map((w,i)=>`
-    <figure style="margin:0;break-inside:avoid"><img src="${w.dataUrl}" style="width:100%;border:1px solid #E4DED2;border-radius:6px"><figcaption style="font-size:9px;color:#777;margin-top:3px">${escapeText((w.label||'').trim() || 'Wall photo '+(i+1))}</figcaption></figure>`).join('');
-  const matRows = t.rows.filter(r => (r.desc||'').trim()).map(r => `<tr>
-    <td>${escapeText(r.desc)}</td>
-    <td class="num">${num(r.qty) ? num(r.qty).toLocaleString('en-US',{maximumFractionDigits:1}) : ''}</td>
+    <figure style="margin:0;break-inside:avoid"><img src="${w.dataUrl}" style="width:100%;border:1px solid #E4DED2;border-radius:6px"><figcaption style="font-size:9px;color:#777;margin-top:3px">${escapeText((w.label||'').trim() || 'Wall '+(i+1))}</figcaption></figure>`).join('');
+  const rollRows = t.rows.map(r => `<tr>
+    <td>${escapeText(r.desc)}${r.walls.length && !(r.walls.length===1 && r.walls[0]==='General') ? `<div style="font-size:8.5px;color:#999">${r.walls.filter(x=>x).map(escapeText).join(', ')}</div>` : ''}</td>
+    <td class="num">${r.qty.toLocaleString('en-US',{maximumFractionDigits:1})}</td>
     <td>${escapeText(r.unit||'')}</td>
     <td class="num">${num(r.rate) ? fmtMoney(num(r.rate)) : ''}</td>
-    <td class="num">${fmtMoney(r.amount)}</td>
+    <td class="num">${num(r.rate) ? fmtMoney(r.amount) : '—'}</td>
   </tr>`).join('');
   return `<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Wall Measure ${escapeText(state.job.name||'')}</title>
 <style>
@@ -579,8 +749,8 @@ function buildPrintHTML(){
 </div>
 <div class="bar">Walls</div>
 <table>
-  <tr><th style="width:24px">#</th><th>Wall</th><th>Dimensions</th><th class="num">Openings SF</th><th class="num">Net SF</th></tr>
-  ${wallRows || '<tr><td colspan="5" style="color:#777">No walls measured.</td></tr>'}
+  <tr><th style="width:24px">#</th><th>Wall</th><th>Dimensions</th><th>Materials on wall</th><th class="num">Openings SF</th><th class="num">Net SF</th></tr>
+  ${wallRows || '<tr><td colspan="6" style="color:#777">No walls recorded.</td></tr>'}
 </table>
 <div class="tot">
   <div class="r"><span>Gross wall area</span><span>${fmtSF(a.gross)} SF</span></div>
@@ -589,10 +759,10 @@ function buildPrintHTML(){
   ${a.waste ? `<div class="r"><span>With ${a.waste}% waste</span><span>${fmtSF(a.order)} SF</span></div>` : ''}
   <div class="r"><span>Total wall length</span><span>${fmtSF(a.lf)} LF</span></div>
 </div>
-${matRows ? `<div class="bar">Materials</div>
+${t.rows.length ? `<div class="bar">Combined Material Order</div>
 <table>
-  <tr><th>Description</th><th class="num">Qty</th><th>Unit</th><th class="num">Rate</th><th class="num">Amount</th></tr>
-  ${matRows}
+  <tr><th>Item</th><th class="num">Qty</th><th>Unit</th><th class="num">Rate</th><th class="num">Amount</th></tr>
+  ${rollRows}
 </table>
 <div class="tot">
   <div class="r"><span>Materials Subtotal</span><span>${fmtMoney(t.subtotal)}</span></div>
