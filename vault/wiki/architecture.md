@@ -52,6 +52,22 @@ Source: [[2026-07-10-inma-baseline-ingest]]
 - [2026-07-10] Formspree (form→email), ImgBB (client-side image host), Google
   Fonts, GA4, `inma-fb-rescue.js` (in-app-browser "open in Safari" banner).
 
+### Repo branch landscape (checked 2026-07-21)
+- [2026-07-21] Jake deleted a batch of old remote branches thinking they were
+  stale uploads. **Audited: every deleted branch was fully merged into `main` —
+  nothing was lost.** (Squash-merged PR branches show as "not merged" to git
+  ancestry checks but their content is on main.)
+- [2026-07-21] **`claude/sp500-intraday-low-timing-286y2r` is Jake's TRADING
+  vault** (the other project), living as an unmerged branch in this same repo —
+  active daily commits. **Never delete or merge this branch.**
+- [2026-07-21] `archive-pre-may-2026-history` — new archive branch pointing at
+  the old `claude/chat-v3-cw7r4` tip: the repo's **original Feb–Apr 2026
+  history** (first site iterations, Review.html, game, consult tool, original
+  AI field estimator, the $150 thermal-report CTA). Main's rewritten history
+  starts 2026-05-08; this branch is the only copy of what came before. Keep.
+- [2026-07-21] Remaining old feature branches (welcome-*, elliott-*, ioss-…) are
+  all squash-merged into main — safe to delete anytime, no urgency.
+
 ### Accounts & ownership
 - [2026-07-10] Domain **inmagent.com** registered at **Namecheap** (Jake's).
 - [2026-07-10] Code + hosting: GitHub repo `smsyt4sjvc-crypto/INMA-` (public),
