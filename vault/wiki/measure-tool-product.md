@@ -51,6 +51,17 @@ Related: [[architecture]] · [[offer-board]] · [[evolution]] · [[state]] · [[
   month semi-invite until real accounts. Under v2 accounts, a tier is just a
   license expiry date — the structure carries over unchanged. Drafts are
   origin-scoped so an expired customer keeps their job history: renewal hook.
+- [2026-07-21] **v2 license design** (Jake: unique license per payment,
+  triggers on login; weighed expiry vs "3 total logins"). Read: login-counting
+  fights phone reality (iOS reloads/battery deaths burn "logins" on honest
+  users mid-job) and doesn't map to a job — avoid. Two shapes that DO capture
+  "ensure they get the job done": (a) **clock from first activation** — N days
+  unlimited use from first open (tiers carry over); (b) **job credits** — 1
+  license = 1 project, unlimited sessions, ~14-day edit window; sell singles &
+  3-packs (cleanest match to the Hover $/job comp). Unique codes make sharing
+  traceable + revocable per-code, optionally device-bound — the real
+  anti-share tool. No accounts/passwords: the code IS the account. Needs the
+  small backend (Vercel fn + KV + Stripe webhook) — a weekend, v2 only.
 - [2026-07-21] Status: NOT building yet — Jake mastering it on real jobs first.
 
 ## Superseded
