@@ -60,6 +60,14 @@ Related: [[demand-destruction]] (oil marker + full war chronology), [[market-fra
   ✅ (KUNA / Kuwait FM). Kuwait FM: Iran is **"systematically targeting civilian sites and vital
   infrastructure."** (⚠️ note: if the KPC site is later identified as crude *export/processing*, it moves to
   the [[demand-destruction]] oil-uncapping list, not here.)
+- **2026-07-21** — **Bahrain: Amazon (AWS) data-center infrastructure** — **IRGC CLAIM**, "targeted and
+  destroyed... several cruise missiles," framed as retaliation for the US strike on the Darkhovin nuclear
+  plant. Source: IRGC via Iran Intl / Euronews / JPost ⚠️ **claim — NOT independently verified; Amazon and
+  Bahraini authorities had NOT commented / confirmed.** First claimed strike on **US cloud/AI infrastructure**
+  (distinct from power/water utilities). Magnitude ("destroyed," "main data hub") is IRGC's word — a real
+  AWS me-south-1 outage would be independently checkable and had not been corroborated at log time.
+  *(NOTE: the "breaking" bundle that carried this also re-cited the Kuwait desalination strikes — those are the
+  ALREADY-LOGGED 7/17–7/18 Kuwait-confirmed hits above, re-surfaced, not a new event.)*
 
 ---
 
