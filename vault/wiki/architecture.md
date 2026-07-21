@@ -29,6 +29,9 @@ Source: [[2026-07-10-inma-baseline-ingest]]
 - [2026-07-10] `service-agreement.html` — Service Agreement builder (icon S), with
   signature pads.
 - [2026-07-10] `estimate-blank.html` — blank Fair Market Estimate form.
+- [2026-07-20] `measure.html` — **Wall Measure** (wall-by-wall area calculator:
+  L×H + gable − openings → net SF; waste % → order SF; total LF; measured
+  footage drops into material line items via chips; branded print sheet).
 - [2026-07-10] All builders autosave to `localStorage` and have a "+ New" reset.
   Print outputs use `window.open('','_blank')` + `document.write` (must be
   synchronous from the click for iOS Safari) and carry Back buttons.

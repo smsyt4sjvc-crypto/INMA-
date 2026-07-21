@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="robots" content="noindex,nofollow">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="theme-color" content="#1C1A17">
+<link rel="apple-touch-icon" href="/bear-logo.jpg">
+<link rel="icon" href="/bear-logo.jpg">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="INMA Measure">
+<title>INMA — Wall Measure</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  *,*::before,*::after{box-sizing:border-box}
+  html,body{margin:0;padding:0;background:#1C1A17;color:#F5F2ED;font-family:'Outfit',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+  body{min-height:100vh;min-height:100dvh}
+  .app{display:flex;flex-direction:column;min-height:100vh;min-height:100dvh;max-width:780px;margin:0 auto}
+  .topbar{position:sticky;top:0;z-index:10;padding:16px 20px 12px;background:linear-gradient(180deg,#1C1A17 80%,rgba(28,26,23,0));display:flex;justify-content:space-between;align-items:center;gap:16px}
+  .brand-mark{font-weight:800;font-size:22px;color:#B8941F;letter-spacing:1px}
+  .brand-sub{font-size:11px;letter-spacing:2px;text-transform:uppercase;opacity:.6;margin-top:-2px}
+  .dots{display:flex;gap:8px}
+  .dot{width:9px;height:9px;border-radius:50%;background:#3a352e;transition:all .25s}
+  .dot.active{background:#B8941F;transform:scale(1.3)}
+  .dot.done{background:#6b5a2a}
+  .stage{flex:1;padding:8px 20px 120px}
+  .step{display:none;animation:fadeIn .3s ease}
+  .step.active{display:block}
+  @keyframes fadeIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+  .card{background:#25221d;border:1px solid #3a352e;border-radius:20px;padding:22px;margin-bottom:16px;box-shadow:0 4px 16px rgba(0,0,0,.25)}
+  .card h2{margin:0 0 4px;font-size:22px;font-weight:700;color:#F5F2ED}
+  .card .sub{font-size:13px;opacity:.55;margin:0 0 18px}
+  .field{margin-bottom:14px}
+  .field label{display:block;font-size:12px;letter-spacing:1px;text-transform:uppercase;opacity:.65;margin-bottom:6px;font-weight:500}
+  .field .hint{font-size:11px;opacity:.5;margin-top:4px;font-style:italic}
+  .field input,.field textarea{width:100%;padding:14px;background:#1C1A17;border:1px solid #3a352e;border-radius:12px;color:#F5F2ED;font-family:inherit;font-size:16px;-webkit-appearance:none}
+  .field input:focus,.field textarea:focus{outline:none;border-color:#B8941F}
+  .row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .row-3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px}
+  .wall-card{background:#1C1A17;border:1px solid #3a352e;border-radius:14px;padding:14px;margin-bottom:10px;display:flex;gap:12px;align-items:center;cursor:pointer;transition:border-color .2s}
+  .wall-card:hover{border-color:#B8941F}
+  .wall-card .thumb{width:56px;height:56px;border-radius:10px;background:#25221d;flex-shrink:0;overflow:hidden;display:flex;align-items:center;justify-content:center;font-size:22px;color:#3a352e}
+  .wall-card .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+  .wall-card .body{flex:1;min-width:0}
+  .wall-card .title{font-size:14px;font-weight:600;color:#F5F2ED}
+  .wall-card .meta{font-size:12px;opacity:.6}
+  .wall-card .sf{font-size:17px;font-weight:700;color:#B8941F;white-space:nowrap}
+  .wall-edit{background:#2a2721;border:1px solid #B8941F;border-radius:14px;padding:16px;margin-bottom:12px}
+  .wall-edit .edit-head{font-size:13px;font-weight:600;color:#B8941F;letter-spacing:1px;text-transform:uppercase;margin-bottom:12px}
+  .wall-photo-row{display:flex;gap:12px;align-items:center;margin-bottom:12px}
+  .wall-photo-thumb{width:84px;height:84px;border-radius:10px;background:#1C1A17;border:1px dashed #3a352e;overflow:hidden;display:flex;align-items:center;justify-content:center;font-size:30px;color:#B8941F;flex-shrink:0;cursor:pointer;position:relative}
+  .wall-photo-thumb img{width:100%;height:100%;object-fit:cover;display:block}
+  .wall-photo-thumb input{display:none}
+  .micro{font-size:11px;opacity:.5;font-style:italic}
+  .open-row{display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:8px;align-items:end;margin-bottom:8px}
+  .mini-label{font-size:10px;opacity:.5;text-transform:uppercase;letter-spacing:1px;margin-bottom:3px}
+  .open-row input{width:100%;padding:10px 12px;background:#1C1A17;border:1px solid #3a352e;border-radius:10px;color:#F5F2ED;font-size:15px;font-family:inherit;-webkit-appearance:none}
+  .open-row input:focus{outline:none;border-color:#B8941F}
+  .live-sf{background:#1C1A17;border:1px solid #3a352e;border-radius:12px;padding:12px 16px;margin:12px 0;display:flex;justify-content:space-between;align-items:center}
+  .live-sf .lbl{font-size:12px;letter-spacing:1px;text-transform:uppercase;opacity:.6}
+  .live-sf .val{font-size:22px;font-weight:800;color:#B8941F}
+  .live-sf .brk{font-size:11px;opacity:.5}
+  .edit-buttons{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:12px}
+  .btn-primary{background:#B8941F;color:#1C1A17;border:none;padding:14px 22px;border-radius:12px;font-weight:700;font-size:15px;font-family:inherit;cursor:pointer;letter-spacing:.5px}
+  .btn-primary:hover{background:#d4a828}
+  .btn-ghost{background:transparent;color:#F5F2ED;border:1px solid #3a352e;padding:14px 22px;border-radius:12px;font-weight:600;font-size:15px;font-family:inherit;cursor:pointer}
+  .btn-ghost:hover{border-color:#B8941F}
+  .btn-ghost:disabled{opacity:.3;cursor:not-allowed}
+  .btn-danger{background:transparent;color:#c66;border:1px solid #4a2a2a;padding:10px 14px;border-radius:10px;font-size:13px;cursor:pointer;font-family:inherit}
+  .btn-add{background:transparent;color:#B8941F;border:1px dashed #B8941F;padding:14px;border-radius:12px;font-weight:600;font-size:14px;cursor:pointer;width:100%;font-family:inherit}
+  .btn-add:hover{background:rgba(184,148,31,.1)}
+  .line-item{background:#1C1A17;border:1px solid #3a352e;border-radius:14px;padding:14px;margin-bottom:10px}
+  .line-grid{display:grid;grid-template-columns:2fr 1fr 1fr 1fr auto;gap:8px;align-items:end}
+  .line-grid input{width:100%;padding:10px 12px;background:#25221d;border:1px solid #3a352e;border-radius:10px;color:#F5F2ED;font-size:15px;font-family:inherit;-webkit-appearance:none}
+  .line-grid input:focus{outline:none;border-color:#B8941F}
+  .chips{display:flex;gap:6px;margin-top:8px;flex-wrap:wrap}
+  .chips button{background:#2a2721;color:#B8941F;border:1px solid #3a352e;border-radius:999px;padding:5px 10px;font-size:11px;font-family:inherit;cursor:pointer}
+  .chips button:hover{border-color:#B8941F}
+  .navbar{position:fixed;bottom:0;left:50%;transform:translateX(-50%);width:100%;max-width:780px;padding:14px 20px 20px;padding-bottom:calc(20px + env(safe-area-inset-bottom));background:#1C1A17;border-top:1px solid #3a352e;display:flex;justify-content:space-between;align-items:center;gap:12px;z-index:10}
+  .step-label{font-size:12px;opacity:.5;letter-spacing:1.5px;text-transform:uppercase}
+  .totals{background:#1C1A17;border:1px solid #3a352e;border-radius:14px;padding:20px;margin-top:6px;font-size:16px}
+  .totals .line{display:flex;justify-content:space-between;padding:8px 0;border-bottom:1px dashed #3a352e;gap:10px}
+  .totals .line:last-child{border-bottom:none}
+  .totals .line.big{font-size:20px;font-weight:700;padding:14px 0;color:#B8941F}
+  .totals .tax-inline{display:flex;align-items:center;gap:8px}
+  .totals .tax-inline input{width:70px;padding:6px 8px;background:#25221d;border:1px solid #3a352e;border-radius:8px;color:#F5F2ED;font-family:inherit;font-size:14px;text-align:right;-webkit-appearance:none}
+  .totals .tax-inline input:focus{outline:none;border-color:#B8941F}
+  @media(max-width:520px){
+    .row,.row-3{grid-template-columns:1fr}
+    .line-grid{grid-template-columns:1fr 1fr;gap:6px}
+    .line-grid .desc-cell{grid-column:1 / -1}
+    .line-grid .rm-cell{grid-column:1 / -1}
+    .open-row{grid-template-columns:1fr 1fr 1fr auto}
+  }
+</style>
+</head>
+<body>
+<div class="app">
+  <header class="topbar">
+    <div class="brand">
+      <div class="brand-mark">INMA</div>
+      <div class="brand-sub">Wall Measure</div>
+    </div>
+    <div style="display:flex;align-items:center;gap:14px">
+      <div class="dots" id="dots"></div>
+      <button id="newJobBtn" type="button" style="background:transparent;color:#B8941F;border:1px solid #3a352e;padding:8px 12px;border-radius:10px;font-weight:600;font-size:13px;font-family:inherit;cursor:pointer">＋ New</button>
+    </div>
+  </header>
+
+  <main class="stage">
+
+    <!-- STEP 1 — JOB -->
+    <section class="step active" data-step="1">
+      <div class="card">
+        <h2>Job</h2>
+        <p class="sub">Who and where. Nothing's required — move freely.</p>
+        <div class="field"><label>Homeowner / Job Name</label><input id="jobName" type="text" placeholder="Jane Doe" autocomplete="off"></div>
+        <div class="field"><label>Address</label><input id="jobAddress" type="text" placeholder="1234 Main St, Spokane WA" autocomplete="off"></div>
+        <div class="field" style="max-width:220px"><label>Date</label><input id="jobDate" type="date"></div>
+      </div>
+      <div class="card">
+        <h2>How to measure</h2>
+        <p class="sub" style="margin-bottom:0">Tape each wall: length × height. Gables get a rise. Windows &amp; doors subtract out. Use <b style="opacity:.8">decimal feet</b> — 8'6" = 8.5. Photos are for reference; the math comes from your tape.</p>
+      </div>
+    </section>
+
+    <!-- STEP 2 — WALLS -->
+    <section class="step" data-step="2">
+      <div class="card">
+        <h2>Walls</h2>
+        <p class="sub">One wall at a time. Photo optional. Tap a wall to edit it.</p>
+        <div id="wallsList"></div>
+        <div id="wallEditHost"></div>
+        <button class="btn-add" id="addWallBtn" type="button">+ Add Wall</button>
+      </div>
+    </section>
+
+    <!-- STEP 3 — MATERIALS & TOTALS -->
+    <section class="step" data-step="3">
+      <div class="card">
+        <h2>Area Summary</h2>
+        <div class="totals" id="areaBox"></div>
+      </div>
+
+      <div class="card">
+        <h2>Material Line Items</h2>
+        <p class="sub">Tap a chip to drop the measured footage straight into a line's quantity.</p>
+        <div id="linesHost"></div>
+        <button class="btn-add" id="addLineBtn" type="button">+ Add Line</button>
+      </div>
+
+      <div class="card">
+        <h2>Totals</h2>
+        <div class="totals" id="totalsBox"></div>
+      </div>
+
+      <div class="card" style="text-align:center;background:transparent;border:0;box-shadow:none;padding:0">
+        <button class="btn-primary" id="printBtn" type="button" style="width:100%;padding:18px;font-size:16px">🖨 Print / Save Measure Sheet</button>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="navbar">
+    <button class="btn-ghost" id="backBtn">← Back</button>
+    <div class="step-label" id="stepLabel">Step 1 of 3</div>
+    <button class="btn-primary" id="nextBtn">Next →</button>
+  </footer>
+</div>
+
+<script>
+/* ============ DATA MODEL ============ */
+const state = {
+  step: 1,
+  job: { name:'', address:'', date:'' },
+  walls: [],      // [{id,label,dataUrl,len,ht,gable,openings:[{id,w,h,count}],notes}]
+  editing: null,  // working copy while editing a wall
+  lines: [],      // [{id,desc,qty,unit,rate}]
+  wastePct: '',
+  taxPct: '',
+};
+const TOTAL_STEPS = 3;
+const DRAFT_KEY = 'inma_measure_draft_v1';
+
+const $ = (s,r=document)=>r.querySelector(s);
+const $$ = (s,r=document)=>Array.from(r.querySelectorAll(s));
+const uid = () => 'W'+Date.now()+Math.random().toString(36).slice(2,6);
+const num = v => { const x = parseFloat(v); return isNaN(x) ? 0 : x; };
+const fmtSF = x => (Math.round((x||0)*10)/10).toLocaleString('en-US',{maximumFractionDigits:1});
+const fmtMoney = x => '$' + (Math.round((x||0)*100)/100).toLocaleString('en-US',{minimumFractionDigits:2,maximumFractionDigits:2});
+function escapeAttr(s){ return String(s==null?'':s).replace(/"/g,'&quot;').replace(/</g,'&lt;'); }
+function escapeText(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+/* ============ MATH ============ */
+function wallCalc(w){
+  const len = num(w.len), ht = num(w.ht), gable = num(w.gable);
+  const gross = len*ht + (len*gable)/2;                       // rectangle + gable triangle
+  const open = (w.openings||[]).reduce((a,o)=>{
+    const c = num(o.count) || 1;
+    return a + num(o.w)*num(o.h)*c;
+  }, 0);
+  return { gross, open, net: Math.max(gross - open, 0) };
+}
+function areaTotals(){
+  let gross=0, open=0, net=0, lf=0;
+  state.walls.forEach(w => { const c = wallCalc(w); gross+=c.gross; open+=c.open; net+=c.net; lf+=num(w.len); });
+  const waste = num(state.wastePct);
+  const order = net * (1 + waste/100);
+  return { gross, open, net, lf, waste, order };
+}
+function moneyTotals(){
+  const rows = state.lines.map(l => ({ ...l, amount: num(l.qty)*num(l.rate) }));
+  const subtotal = rows.reduce((a,r)=>a+r.amount, 0);
+  const taxNum = num(state.taxPct);
+  const hasTax = taxNum > 0;
+  const tax = hasTax ? subtotal*(taxNum/100) : 0;
+  return { rows, subtotal, hasTax, tax, total: subtotal + tax };
+}
+
+/* ============ AUTOSAVE ============ */
+function persistDraft(){
+  const draft = { step:state.step, job:state.job, walls:state.walls, lines:state.lines, wastePct:state.wastePct, taxPct:state.taxPct };
+  try { localStorage.setItem(DRAFT_KEY, JSON.stringify(draft)); }
+  catch (err) {
+    try { // photos too big — keep the numbers, drop the images
+      const light = { ...draft, walls: state.walls.map(w => ({ ...w, dataUrl:null })) };
+      localStorage.setItem(DRAFT_KEY, JSON.stringify(light));
+    } catch(e2) {}
+  }
+}
+function restoreDraft(){
+  let raw; try { raw = localStorage.getItem(DRAFT_KEY); } catch(e){ return; }
+  if (!raw) return;
+  let d; try { d = JSON.parse(raw); } catch(e){ return; }
+  if (!d || typeof d !== 'object') return;
+  if (d.job) state.job = Object.assign(state.job, d.job);
+  if (Array.isArray(d.walls)) state.walls = d.walls.map(w => ({ id:w.id||uid(), label:w.label||'', dataUrl:w.dataUrl||null, len:w.len||'', ht:w.ht||'', gable:w.gable||'', openings:Array.isArray(w.openings)?w.openings:[], notes:w.notes||'' }));
+  if (Array.isArray(d.lines)) state.lines = d.lines.map(l => ({ id:l.id||uid(), desc:l.desc||'', qty:l.qty||'', unit:l.unit||'', rate:l.rate||'' }));
+  if (typeof d.wastePct === 'string') state.wastePct = d.wastePct;
+  if (typeof d.taxPct === 'string') state.taxPct = d.taxPct;
+  if (d.step >= 1 && d.step <= TOTAL_STEPS) state.step = d.step;
+  $('#jobName').value = state.job.name || '';
+  $('#jobAddress').value = state.job.address || '';
+  if (state.job.date) $('#jobDate').value = state.job.date;
+}
+
+/* ============ INIT ============ */
+document.addEventListener('DOMContentLoaded', ()=>{
+  buildDots();
+  const today = new Date().toISOString().slice(0,10);
+  $('#jobDate').value = today; state.job.date = today;
+  [['jobName','name'],['jobAddress','address'],['jobDate','date']].forEach(([id,key])=>{
+    $('#'+id).addEventListener('input', e => { state.job[key] = e.target.value; });
+  });
+  $('#addWallBtn').addEventListener('click', ()=>{
+    if (state.editing) return;
+    state.editing = { id:null, label:'', dataUrl:null, len:'', ht:'', gable:'', openings:[], notes:'' };
+    renderWalls();
+  });
+  $('#addLineBtn').addEventListener('click', ()=>{
+    state.lines.push({ id:uid(), desc:'', qty:'', unit:'', rate:'' });
+    renderLines(); renderTotals(); persistDraft();
+  });
+  $('#backBtn').addEventListener('click', ()=>{ if(state.step>1){ state.step--; updateStepUI(); persistDraft(); }});
+  $('#nextBtn').addEventListener('click', ()=>{ if(state.step<TOTAL_STEPS){ state.step++; updateStepUI(); persistDraft(); }});
+  $('#printBtn').addEventListener('click', openPrint);
+  $('#newJobBtn').addEventListener('click', ()=>{
+    if (!confirm('Start a new measure job? This clears the current one.')) return;
+    try { localStorage.removeItem(DRAFT_KEY); } catch(e){}
+    location.reload();
+  });
+  restoreDraft();
+  renderWalls();
+  updateStepUI();
+  document.addEventListener('input', persistDraft);
+});
+
+/* ============ STEPPER ============ */
+function buildDots(){
+  const host = $('#dots'); host.innerHTML = '';
+  for(let i=1;i<=TOTAL_STEPS;i++){ const d=document.createElement('div'); d.className='dot'; host.appendChild(d); }
+}
+function updateStepUI(){
+  $$('.step').forEach(s => s.classList.toggle('active', Number(s.dataset.step) === state.step));
+  $$('.dot').forEach((d,i)=>{ d.classList.toggle('active', i+1===state.step); d.classList.toggle('done', i+1<state.step); });
+  $('#stepLabel').textContent = `Step ${state.step} of ${TOTAL_STEPS}`;
+  $('#backBtn').disabled = state.step === 1;
+  $('#nextBtn').style.visibility = state.step === TOTAL_STEPS ? 'hidden' : 'visible';
+  if (state.step === TOTAL_STEPS){
+    if (!state.lines.length) state.lines.push({ id:uid(), desc:'', qty:'', unit:'', rate:'' });
+    renderArea(); renderLines(); renderTotals();
+  }
+  window.scrollTo({top:0, behavior:'smooth'});
+}
+
+/* ============ WALLS ============ */
+function fileToDataURL(file){
+  return new Promise((res,rej)=>{ const r = new FileReader(); r.onload=()=>res(r.result); r.onerror=rej; r.readAsDataURL(file); });
+}
+function wallMetaText(w){
+  const bits = [];
+  if (num(w.len)||num(w.ht)) bits.push(`${num(w.len)||'—'}' × ${num(w.ht)||'—'}'`);
+  if (num(w.gable)) bits.push(`gable ${num(w.gable)}'`);
+  const oc = (w.openings||[]).reduce((a,o)=>a+(num(o.count)||1),0);
+  if (oc) bits.push(`${oc} opening${oc>1?'s':''}`);
+  return bits.join(' · ') || 'no measurements yet';
+}
+function renderWalls(){
+  const list = $('#wallsList');
+  list.innerHTML = state.walls.map((w,idx)=>{
+    const c = wallCalc(w);
+    return `<div class="wall-card" data-wall="${w.id}">
+      <div class="thumb">${w.dataUrl ? `<img src="${w.dataUrl}" alt="">` : '📐'}</div>
+      <div class="body">
+        <div class="title">${escapeText((w.label||'').trim() || 'Wall '+(idx+1))}</div>
+        <div class="meta">${escapeText(wallMetaText(w))}</div>
+      </div>
+      <div class="sf">${fmtSF(c.net)} SF</div>
+      <button class="btn-danger" type="button" data-wall-delete="${w.id}">✕</button>
+    </div>`;
+  }).join('');
+
+  $$('.wall-card', list).forEach(card => {
+    card.addEventListener('click', e => {
+      if (e.target.closest('[data-wall-delete]')) return;
+      if (state.editing) return;
+      const w = state.walls.find(x => x.id === card.dataset.wall);
+      if (!w) return;
+      state.editing = JSON.parse(JSON.stringify(w));
+      renderWalls();
+    });
+  });
+  $$('[data-wall-delete]', list).forEach(btn => {
+    btn.addEventListener('click', e => {
+      e.stopPropagation();
+      state.walls = state.walls.filter(w => w.id !== btn.dataset.wallDelete);
+      renderWalls(); persistDraft();
+    });
+  });
+
+  const host = $('#wallEditHost');
+  if (!state.editing){ host.innerHTML=''; $('#addWallBtn').style.display='block'; return; }
+  $('#addWallBtn').style.display='none';
+  const e = state.editing;
+  const isNew = !e.id;
+  host.innerHTML = `
+    <div class="wall-edit">
+      <div class="edit-head">${isNew ? '+ New Wall' : 'Editing Wall'}</div>
+      <div class="field"><label>Wall Label</label><input id="wLabel" type="text" placeholder="East wall" value="${escapeAttr(e.label)}"></div>
+      <div class="wall-photo-row">
+        <label class="wall-photo-thumb">
+          ${e.dataUrl ? `<img src="${e.dataUrl}" alt="">` : '+'}
+          <input type="file" id="wPhoto" accept="image/*" capture="environment">
+        </label>
+        <div style="flex:1">
+          <div class="micro">Photo optional — reference only. The math comes from the tape.</div>
+          ${e.dataUrl ? '<button class="btn-danger" type="button" id="wPhotoClear" style="margin-top:8px">Remove photo</button>' : ''}
+        </div>
+      </div>
+      <div class="row-3">
+        <div class="field"><label>Length (ft)</label><input id="wLen" type="number" inputmode="decimal" step="0.1" placeholder="30" value="${escapeAttr(e.len)}"></div>
+        <div class="field"><label>Height (ft)</label><input id="wHt" type="number" inputmode="decimal" step="0.1" placeholder="8" value="${escapeAttr(e.ht)}"></div>
+        <div class="field"><label>Gable Rise (ft)</label><input id="wGable" type="number" inputmode="decimal" step="0.1" placeholder="0" value="${escapeAttr(e.gable)}"></div>
+      </div>
+      <div class="field" style="margin-bottom:6px"><label>Openings — windows &amp; doors (subtracted)</label></div>
+      <div id="openRows"></div>
+      <button class="btn-add" id="addOpenBtn" type="button" style="padding:10px;font-size:13px">+ Add Opening</button>
+      <div class="live-sf">
+        <div>
+          <div class="lbl">This Wall</div>
+          <div class="brk" id="editBrk"></div>
+        </div>
+        <div class="val" id="editSF">0 SF</div>
+      </div>
+      <div class="field"><label>Notes</label><input id="wNotes" type="text" placeholder="Hose bib, light block, 2 outside corners…" value="${escapeAttr(e.notes)}"></div>
+      <div class="edit-buttons">
+        <button class="btn-ghost" type="button" id="wCancel">Cancel</button>
+        <button class="btn-primary" type="button" id="wSave">✓ Save Wall</button>
+      </div>
+    </div>`;
+
+  renderOpenRows();
+  updateEditSF();
+
+  $('#wLabel').addEventListener('input', ev => { e.label = ev.target.value; });
+  $('#wLen').addEventListener('input', ev => { e.len = ev.target.value; updateEditSF(); });
+  $('#wHt').addEventListener('input', ev => { e.ht = ev.target.value; updateEditSF(); });
+  $('#wGable').addEventListener('input', ev => { e.gable = ev.target.value; updateEditSF(); });
+  $('#wNotes').addEventListener('input', ev => { e.notes = ev.target.value; });
+  $('#wPhoto').addEventListener('change', async ev => {
+    const f = ev.target.files && ev.target.files[0];
+    if (!f) return;
+    e.dataUrl = await fileToDataURL(f);
+    renderWalls(); persistDraft();
+  });
+  const pc = $('#wPhotoClear');
+  if (pc) pc.addEventListener('click', ()=>{ e.dataUrl = null; renderWalls(); });
+  $('#addOpenBtn').addEventListener('click', ()=>{
+    e.openings.push({ id:uid(), w:'', h:'', count:'' });
+    renderOpenRows(); updateEditSF();
+  });
+  $('#wCancel').addEventListener('click', ()=>{ state.editing = null; renderWalls(); });
+  $('#wSave').addEventListener('click', ()=>{
+    const saved = { id: e.id || uid(), label:e.label, dataUrl:e.dataUrl, len:e.len, ht:e.ht, gable:e.gable, openings:e.openings, notes:e.notes };
+    if (e.id){
+      const i = state.walls.findIndex(w => w.id === e.id);
+      if (i >= 0) state.walls[i] = saved; else state.walls.push(saved);
+    } else state.walls.push(saved);
+    state.editing = null;
+    renderWalls(); persistDraft();
+  });
+}
+function renderOpenRows(){
+  const e = state.editing; if (!e) return;
+  const host = $('#openRows');
+  host.innerHTML = e.openings.map(o => `
+    <div class="open-row" data-open="${o.id}">
+      <div><div class="mini-label">Width ft</div><input type="number" inputmode="decimal" step="0.1" data-f="w" placeholder="3" value="${escapeAttr(o.w)}"></div>
+      <div><div class="mini-label">Height ft</div><input type="number" inputmode="decimal" step="0.1" data-f="h" placeholder="4" value="${escapeAttr(o.h)}"></div>
+      <div><div class="mini-label">Count</div><input type="number" inputmode="numeric" step="1" data-f="count" placeholder="1" value="${escapeAttr(o.count)}"></div>
+      <button class="btn-danger" type="button" data-open-rm>✕</button>
+    </div>`).join('');
+  $$('.open-row', host).forEach(row => {
+    const o = e.openings.find(x => x.id === row.dataset.open);
+    row.querySelectorAll('input').forEach(inp => {
+      inp.addEventListener('input', ev => { o[ev.target.dataset.f] = ev.target.value; updateEditSF(); });
+    });
+    row.querySelector('[data-open-rm]').addEventListener('click', ()=>{
+      e.openings = e.openings.filter(x => x.id !== o.id);
+      renderOpenRows(); updateEditSF();
+    });
+  });
+}
+function updateEditSF(){
+  const e = state.editing; if (!e) return;
+  const c = wallCalc(e);
+  $('#editSF').textContent = fmtSF(c.net) + ' SF';
+  $('#editBrk').textContent = c.gross ? `${fmtSF(c.gross)} gross − ${fmtSF(c.open)} openings` : '';
+}
+
+/* ============ STEP 3 ============ */
+function renderArea(){
+  const a = areaTotals();
+  $('#areaBox').innerHTML = `
+    <div class="line"><span>Gross wall area (${state.walls.length} wall${state.walls.length===1?'':'s'})</span><strong>${fmtSF(a.gross)} SF</strong></div>
+    <div class="line"><span>Openings (windows &amp; doors)</span><strong>− ${fmtSF(a.open)} SF</strong></div>
+    <div class="line"><span>Net wall area</span><strong>${fmtSF(a.net)} SF</strong></div>
+    <div class="line"><span class="tax-inline">Waste <input id="wasteInput" type="number" inputmode="decimal" step="1" placeholder="10" value="${escapeAttr(state.wastePct)}">%</span><strong id="aOrder">${fmtSF(a.order)} SF to order</strong></div>
+    <div class="line"><span>Total wall length</span><strong>${fmtSF(a.lf)} LF</strong></div>
+  `;
+  $('#wasteInput').addEventListener('input', e => {
+    state.wastePct = e.target.value;
+    $('#aOrder').textContent = fmtSF(areaTotals().order) + ' SF to order';
+    renderLines(); // refresh chips' order value
+  });
+}
+function renderLines(){
+  const a = areaTotals();
+  const host = $('#linesHost');
+  host.innerHTML = state.lines.map(l => `
+    <div class="line-item" data-id="${l.id}">
+      <div class="line-grid">
+        <div class="desc-cell"><div class="mini-label">Description</div><input type="text" data-f="desc" value="${escapeAttr(l.desc)}" placeholder="Hardie lap siding"></div>
+        <div><div class="mini-label">Qty</div><input type="number" inputmode="decimal" step="0.01" data-f="qty" value="${escapeAttr(l.qty)}" placeholder="0"></div>
+        <div><div class="mini-label">Unit</div><input type="text" data-f="unit" value="${escapeAttr(l.unit)}" placeholder="SF / LF / EA"></div>
+        <div><div class="mini-label">$/unit</div><input type="number" inputmode="decimal" step="0.01" data-f="rate" value="${escapeAttr(l.rate)}" placeholder="0.00"></div>
+        <div class="rm-cell"><button class="btn-danger" type="button" data-remove>✕</button></div>
+      </div>
+      <div class="chips">
+        <button type="button" data-chip="net">Qty ← Net ${fmtSF(a.net)} SF</button>
+        <button type="button" data-chip="order">Qty ← +Waste ${fmtSF(a.order)} SF</button>
+        <button type="button" data-chip="lf">Qty ← ${fmtSF(a.lf)} LF</button>
+      </div>
+    </div>`).join('');
+  $$('.line-item', host).forEach(row => {
+    const line = state.lines.find(x => x.id === row.dataset.id);
+    row.querySelectorAll('.line-grid input').forEach(inp => {
+      inp.addEventListener('input', e => { line[e.target.dataset.f] = e.target.value; renderTotals(); });
+    });
+    row.querySelector('[data-remove]').addEventListener('click', ()=>{
+      state.lines = state.lines.filter(x => x.id !== line.id);
+      renderLines(); renderTotals(); persistDraft();
+    });
+    row.querySelectorAll('[data-chip]').forEach(btn => {
+      btn.addEventListener('click', ()=>{
+        const a2 = areaTotals();
+        const kind = btn.dataset.chip;
+        line.qty = String(Math.round((kind==='net'?a2.net:kind==='order'?a2.order:a2.lf)*10)/10);
+        if (kind==='lf' && !line.unit) line.unit = 'LF';
+        if (kind!=='lf' && !line.unit) line.unit = 'SF';
+        renderLines(); renderTotals(); persistDraft();
+      });
+    });
+  });
+}
+function renderTotals(){
+  const t = moneyTotals();
+  $('#totalsBox').innerHTML = `
+    <div class="line"><span>Materials Subtotal</span><strong id="tSub">${fmtMoney(t.subtotal)}</strong></div>
+    <div class="line"><span class="tax-inline">Sales Tax <input id="taxInput" type="number" inputmode="decimal" step="0.01" placeholder="0" value="${escapeAttr(state.taxPct)}">%</span><strong id="tTax">${t.hasTax ? fmtMoney(t.tax) : '—'}</strong></div>
+    <div class="line big"><span>Total</span><strong id="tTotal">${fmtMoney(t.total)}</strong></div>
+  `;
+  $('#taxInput').addEventListener('input', e => {
+    state.taxPct = e.target.value;
+    const t2 = moneyTotals();
+    $('#tTax').textContent = t2.hasTax ? fmtMoney(t2.tax) : '—';
+    $('#tTotal').textContent = fmtMoney(t2.total);
+  });
+}
+
+/* ============ PRINT ============ */
+function buildPrintHTML(){
+  const a = areaTotals();
+  const t = moneyTotals();
+  const wallRows = state.walls.map((w,i)=>{
+    const c = wallCalc(w);
+    const dims = `${num(w.len)||'—'}' × ${num(w.ht)||'—'}'` + (num(w.gable) ? ` + gable ${num(w.gable)}'` : '');
+    return `<tr>
+      <td>${i+1}</td>
+      <td>${escapeText((w.label||'').trim() || 'Wall '+(i+1))}${(w.notes||'').trim() ? `<div style="font-size:9px;color:#777">${escapeText(w.notes.trim())}</div>` : ''}</td>
+      <td>${escapeText(dims)}</td>
+      <td class="num">${c.open ? '− '+fmtSF(c.open) : '—'}</td>
+      <td class="num"><b>${fmtSF(c.net)}</b></td>
+    </tr>`;
+  }).join('');
+  const photoGrid = state.walls.filter(w => w.dataUrl).map((w,i)=>`
+    <figure style="margin:0;break-inside:avoid"><img src="${w.dataUrl}" style="width:100%;border:1px solid #E4DED2;border-radius:6px"><figcaption style="font-size:9px;color:#777;margin-top:3px">${escapeText((w.label||'').trim() || 'Wall photo '+(i+1))}</figcaption></figure>`).join('');
+  const matRows = t.rows.filter(r => (r.desc||'').trim()).map(r => `<tr>
+    <td>${escapeText(r.desc)}</td>
+    <td class="num">${num(r.qty) ? num(r.qty).toLocaleString('en-US',{maximumFractionDigits:1}) : ''}</td>
+    <td>${escapeText(r.unit||'')}</td>
+    <td class="num">${num(r.rate) ? fmtMoney(num(r.rate)) : ''}</td>
+    <td class="num">${fmtMoney(r.amount)}</td>
+  </tr>`).join('');
+  return `<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Wall Measure ${escapeText(state.job.name||'')}</title>
+<style>
+  @page{size:letter;margin:0.45in}
+  body{font-family:'Helvetica Neue',Arial,sans-serif;color:#1C1A17;margin:0;background:#fff;font-size:12px}
+  .lh{display:flex;justify-content:space-between;align-items:center;padding-bottom:10px;border-bottom:3px solid #B8941F;margin-bottom:14px}
+  .lh .l{display:flex;align-items:center;gap:12px}
+  .lh img{width:64px;height:64px;border-radius:10px;border:1px solid #E4DED2;object-fit:cover}
+  .lh .mark{font-weight:800;color:#B8941F;letter-spacing:2px;font-size:28px}
+  .lh .tag{font-size:10px;text-transform:uppercase;letter-spacing:1.5px;color:#666}
+  .lh .title{font-size:23px;letter-spacing:4px;color:#1C1A17}
+  .job{display:flex;gap:24px;flex-wrap:wrap;margin-bottom:14px;font-size:11px}
+  .job b{display:block;font-size:9px;text-transform:uppercase;letter-spacing:2px;color:#777}
+  .bar{background:#1C1A17;color:#F5F2ED;font-size:10px;text-transform:uppercase;letter-spacing:2px;font-weight:700;padding:8px 10px;border-radius:3px;margin:16px 0 8px}
+  table{width:100%;border-collapse:collapse;font-size:11px}
+  th{background:#1C1A17;color:#F5F2ED;font-size:9px;text-transform:uppercase;letter-spacing:1px;padding:6px 8px;text-align:left}
+  td{border:1px solid #E4DED2;padding:6px 8px;vertical-align:top}
+  .num{text-align:right}
+  .tot{margin-top:10px;margin-left:auto;width:55%}
+  .tot .r{display:flex;justify-content:space-between;padding:5px 8px;border-bottom:1px solid #E4DED2}
+  .tot .big{font-weight:800;color:#B8941F;font-size:15px;background:#F2EEE4;border-bottom:none}
+  .photos{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-top:6px}
+  footer{margin-top:22px;padding-top:10px;border-top:1px solid #E4DED2;font-size:9px;color:#8A857E;text-align:center;letter-spacing:.5px}
+  .toolbar{position:fixed;top:12px;right:12px;display:flex;gap:8px;z-index:100}
+  .toolbar button{border:0;border-radius:9px;padding:10px 16px;font-weight:700;font-size:13px;cursor:pointer;font-family:inherit}
+  @media print{.toolbar{display:none}}
+</style></head><body>
+<div class="toolbar">
+  <button style="background:#25221d;color:#F5F2ED" onclick="try{window.close()}catch(e){} setTimeout(function(){location.href='/measure.html'},120)">← Back</button>
+  <button style="background:#B8941F;color:#1C1A17" onclick="window.print()">Print / Save PDF</button>
+</div>
+<div class="lh">
+  <div class="l">
+    <img src="/bear-logo.jpg" onerror="this.style.display='none'">
+    <div><div class="mark">INMA</div><div class="tag">Your Personal Homeowner Advocate</div></div>
+  </div>
+  <div class="title">WALL MEASURE</div>
+</div>
+<div class="job">
+  ${state.job.name ? `<div><b>Job</b>${escapeText(state.job.name)}</div>` : ''}
+  ${state.job.address ? `<div><b>Address</b>${escapeText(state.job.address)}</div>` : ''}
+  <div><b>Date</b>${escapeText(state.job.date || '')}</div>
+</div>
+<div class="bar">Walls</div>
+<table>
+  <tr><th style="width:24px">#</th><th>Wall</th><th>Dimensions</th><th class="num">Openings SF</th><th class="num">Net SF</th></tr>
+  ${wallRows || '<tr><td colspan="5" style="color:#777">No walls measured.</td></tr>'}
+</table>
+<div class="tot">
+  <div class="r"><span>Gross wall area</span><span>${fmtSF(a.gross)} SF</span></div>
+  <div class="r"><span>Openings</span><span>− ${fmtSF(a.open)} SF</span></div>
+  <div class="r"><span><b>Net wall area</b></span><span><b>${fmtSF(a.net)} SF</b></span></div>
+  ${a.waste ? `<div class="r"><span>With ${a.waste}% waste</span><span>${fmtSF(a.order)} SF</span></div>` : ''}
+  <div class="r"><span>Total wall length</span><span>${fmtSF(a.lf)} LF</span></div>
+</div>
+${matRows ? `<div class="bar">Materials</div>
+<table>
+  <tr><th>Description</th><th class="num">Qty</th><th>Unit</th><th class="num">Rate</th><th class="num">Amount</th></tr>
+  ${matRows}
+</table>
+<div class="tot">
+  <div class="r"><span>Materials Subtotal</span><span>${fmtMoney(t.subtotal)}</span></div>
+  ${t.hasTax ? `<div class="r"><span>Sales Tax (${escapeText(state.taxPct)}%)</span><span>${fmtMoney(t.tax)}</span></div>` : ''}
+  <div class="r big"><span>Total</span><span>${fmtMoney(t.total)}</span></div>
+</div>` : ''}
+${photoGrid ? `<div class="bar">Reference Photos</div><div class="photos">${photoGrid}</div>` : ''}
+<footer><b>INMA</b> · Inland Northwest Marketing Affiliates · Spokane, WA · WA UBI #606 027 063 · inmagent.com · (509) 251-7792</footer>
+</body></html>`;
+}
+function openPrint(){
+  const w = window.open('', '_blank');
+  if (!w){ alert('Pop-up blocked. Allow pop-ups for this site.'); return; }
+  w.document.open(); w.document.write(buildPrintHTML()); w.document.close();
+}
+</script>
+</body>
+</html>

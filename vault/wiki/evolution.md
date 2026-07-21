@@ -9,6 +9,10 @@ Source: [[2026-07-10-git-history-ingest]] · [[2026-07-10-inma-baseline-ingest]]
 ## DATA (what happened)
 
 ### Jul 2026 — the offer-board era
+- [2026-07-20] Added **`measure.html` — Wall Measure**: tape-driven wall-area
+  calculator (L×H + gable − openings), waste %, measured SF feeds material line
+  items, branded print sheet. Photos are reference-only by design (no fake
+  photo-measurement).
 - [2026-07-10] Shipped the **auto-listing offer board** (`/offers/`): export an
   offer page, upload it, it appears — no spreadsheet. Replaced the earlier
   Google-Sheet-driven board. Proven with a photo dry-run, then cleared clean.
