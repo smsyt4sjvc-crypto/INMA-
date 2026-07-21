@@ -5,7 +5,7 @@
 > **first**, then the detailed note gets its dated correction. Last full review
 > date is tracked at the bottom.
 
-Related: [[_persona]] · [[_guardrails]] · [[architecture]] · [[positioning]] · [[brand]] · [[evolution]] · [[decisions]] · [[marketing]] · [[door-knock-thermal]] · [[showcase-clients]] · [[side-projects]] · [[offer-board]]
+Related: [[_persona]] · [[_guardrails]] · [[architecture]] · [[positioning]] · [[brand]] · [[evolution]] · [[decisions]] · [[marketing]] · [[door-knock-thermal]] · [[measure-tool-product]] · [[showcase-clients]] · [[side-projects]] · [[offer-board]]
 
 ## DATA (observed) — Business
 - [2026-07-10] INMA = homeowner-advocacy / buyer's-agent service for exterior
