@@ -24,9 +24,13 @@ Related: [[_persona]] · [[_guardrails]] · [[architecture]] · [[positioning]] 
 - [2026-07-10] `service-agreement.html` — Service Agreement builder with on-screen
   signature pads + autosave + vCard import. Live.
 - [2026-07-10] `estimate-blank.html` — blank Fair Market Estimate form. Live.
-- [2026-07-20] `measure.html` — Wall Measure tool, photo-first: snap walls →
-  detail each while viewing its photo (sizes + per-wall materials via accessory
-  chips) → combined material rollup + totals + print sheet. Live.
+- [2026-07-21] `measure.html` — Wall Measure tool, photo-first: snap walls (any
+  number of photos per wall, filename → wall label on Files import) → detail
+  each while viewing its photos: sizes, gables as base×rise×count, openings,
+  per-wall trim (LF by type/stock size, auto-suggested from dims), materials
+  via accessory chips → combined rollup (square/gable SF segregated, trim
+  merged by type+size) + totals + print. Photos auto-compress (~1600px) so
+  drafts persist for days; .vcf contact import fills the job header. Live.
 - [2026-07-10] `/offers/` — Offer board. Auto-lists every `offer-*.html` uploaded
   to the folder by reading the public GitHub contents API (no spreadsheet).
   Caches last-good load. Cleared to empty on 2026-07-10 for a clean start. Live.
