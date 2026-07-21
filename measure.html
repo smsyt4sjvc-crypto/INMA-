@@ -373,11 +373,34 @@ function newWall(dataUrl){
 function fileToDataURL(file){
   return new Promise((res,rej)=>{ const r = new FileReader(); r.onload=()=>res(r.result); r.onerror=rej; r.readAsDataURL(file); });
 }
+// Downscale photos before storing — reference shots don't need 12MP, and small
+// images are what let a whole house of photos survive in localStorage.
+async function photoToDataURL(file){
+  const raw = await fileToDataURL(file);
+  return new Promise(res => {
+    const img = new Image();
+    img.onload = () => {
+      try {
+        const MAX = 1600;
+        const w = img.naturalWidth, h = img.naturalHeight;
+        if (Math.max(w,h) <= MAX && raw.length < 500000) return res(raw);
+        const scale = Math.min(1, MAX/Math.max(w,h));
+        const c = document.createElement('canvas');
+        c.width = Math.round(w*scale); c.height = Math.round(h*scale);
+        c.getContext('2d').drawImage(img, 0, 0, c.width, c.height);
+        const out = c.toDataURL('image/jpeg', 0.72);
+        res(out.length < raw.length ? out : raw);
+      } catch(e){ res(raw); }
+    };
+    img.onerror = () => res(raw);
+    img.src = raw;
+  });
+}
 async function addPhotos(files, inputEl, mode){
   if (!files || !files.length) return;
   for (const f of Array.from(files)){
     try {
-      const dataUrl = await fileToDataURL(f);
+      const dataUrl = await photoToDataURL(f);
       if (mode === 'same' && state.walls.length){
         state.walls[state.walls.length-1].photos.push({ id:uid(), dataUrl, cap:'' });
       } else {
@@ -576,7 +599,7 @@ function renderEditor(){
   async function addEditorPhotos(files, inputEl){
     if (!files || !files.length) return;
     for (const f of Array.from(files)){
-      try { e.photos.push({ id:uid(), dataUrl: await fileToDataURL(f), cap:'' }); } catch(err){}
+      try { e.photos.push({ id:uid(), dataUrl: await photoToDataURL(f), cap:'' }); } catch(err){}
     }
     if (inputEl) inputEl.value = '';
     e._sel = e.photos.length - 1;

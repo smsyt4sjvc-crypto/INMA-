@@ -406,6 +406,29 @@ function fileToDataURL(file){
     r.readAsDataURL(file);
   });
 }
+// Downscale photos before storing — keeps drafts inside localStorage limits and
+// makes exported offer pages far smaller to upload.
+async function photoToDataURL(file){
+  const raw = await fileToDataURL(file);
+  return new Promise(res => {
+    const img = new Image();
+    img.onload = () => {
+      try {
+        const MAX = 1600;
+        const w = img.naturalWidth, h = img.naturalHeight;
+        if (Math.max(w,h) <= MAX && raw.length < 500000) return res(raw);
+        const scale = Math.min(1, MAX/Math.max(w,h));
+        const c = document.createElement('canvas');
+        c.width = Math.round(w*scale); c.height = Math.round(h*scale);
+        c.getContext('2d').drawImage(img, 0, 0, c.width, c.height);
+        const out = c.toDataURL('image/jpeg', 0.72);
+        res(out.length < raw.length ? out : raw);
+      } catch(e){ res(raw); }
+    };
+    img.onerror = () => res(raw);
+    img.src = raw;
+  });
+}
 
 function renderWalls(){
   const list = $('#wallsList');
@@ -477,9 +500,9 @@ function renderWalls(){
   $('#wallPhotoInput').addEventListener('change', async ev => {
     const f = ev.target.files && ev.target.files[0];
     if (!f) return;
-    const dataUrl = await fileToDataURL(f);
+    const dataUrl = await photoToDataURL(f);
     state.editing.dataUrl = dataUrl;
-    state.editing.mediaType = f.type || 'image/jpeg';
+    state.editing.mediaType = 'image/jpeg';
     renderWalls();
     persistDraft();
   });
