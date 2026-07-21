@@ -539,24 +539,41 @@ async function addPhotos(files, inputEl, mode){
 }
 
 /* ============ CONTACT IMPORT (.vcf) ============ */
+function vcfDecodeQP(v){
+  try { return v.replace(/=([0-9A-F]{2})/gi, (m,h)=>String.fromCharCode(parseInt(h,16))); } catch(e){ return v; }
+}
+function vcfClean(x){
+  return String(x==null?'':x).replace(/\\n/gi,' ').replace(/\\,/g,',').replace(/\;/g,';').trim();
+}
 function parseVCard(text){
   const out = {};
-  const unfolded = text.replace(/\r\n[ \t]/g, '').replace(/\n[ \t]/g, '');
+  let bestScore = -1;
+  const unfolded = String(text)
+    .replace(/=\r?\n/g, '')                              // quoted-printable soft line breaks
+    .replace(/\r\n[ \t]/g, '').replace(/\n[ \t]/g, ''); // RFC line folding
   unfolded.split(/\r\n|\n|\r/).forEach(line => {
     const idx = line.indexOf(':'); if (idx < 0) return;
-    let key = line.slice(0, idx).split(';')[0];
+    const rawKey = line.slice(0, idx);
+    let key = rawKey.split(';')[0];
     if (key.indexOf('.') >= 0) key = key.slice(key.indexOf('.') + 1); // strip iOS group prefix (item1.ADR)
     key = key.toUpperCase();
-    const val = line.slice(idx + 1);
-    if (key === 'FN' && !out.name) out.name = val.trim();
-    else if (key === 'N' && !out.name){ const p = val.split(';'); out.name = ((p[1]||'') + ' ' + (p[0]||'')).trim(); }
-    else if (key === 'TEL' && !out.phone) out.phone = val.replace(/^tel:/i, '').trim();
-    else if (key === 'EMAIL' && !out.email) out.email = val.replace(/^mailto:/i, '').trim();
-    else if (key === 'ADR' && !out.address){
-      const p = val.split(';'); // pobox;ext;street;city;region;postal;country
-      const street = (p[2]||'').replace(/\\n/g, ' ').replace(/\\,/g, ',').trim();
-      const csz = [p[3], p[4], p[5]].map(x => (x||'').trim()).filter(Boolean).join(', ').replace(/,\s*(\d{5})/, ' $1');
-      out.address = [street, csz].filter(Boolean).join(', ');
+    let val = line.slice(idx + 1);
+    if (/ENCODING=QUOTED-PRINTABLE/i.test(rawKey)) val = vcfDecodeQP(val);
+    if (key === 'FN' && !out.name) out.name = vcfClean(val);
+    else if (key === 'N' && !out.name){ const p = val.split(';'); out.name = vcfClean((p[1]||'') + ' ' + (p[0]||'')); }
+    else if (key === 'TEL' && !out.phone) out.phone = vcfClean(val.replace(/^tel:/i, ''));
+    else if (key === 'EMAIL' && !out.email) out.email = vcfClean(val.replace(/^mailto:/i, ''));
+    else if (key === 'ADR'){
+      const p = val.split(';').map(vcfClean);  // pobox;ext;street;city;region;postal;country
+      let street = p[2] || '';
+      let csz = [p[3], p[4], p[5]].filter(Boolean).join(', ').replace(/,\s*(\d{5}(-\d{4})?)$/, ' $1');
+      if (!street && !csz) street = p.filter(Boolean).join(', ');  // whole address crammed in one slot
+      const score = (street?2:0) + (csz?1:0) + p.filter(Boolean).length;
+      if ((street || csz) && score > bestScore){   // keep the richest ADR, not just the first
+        bestScore = score;
+        out.address = street;
+        out.cityStateZip = csz;
+      }
     }
   });
   return out;
@@ -565,7 +582,9 @@ function applyContact(c){
   if (c.name){ state.job.name = c.name; $('#jobName').value = c.name; }
   if (c.phone){ state.job.phone = c.phone; $('#jobPhone').value = c.phone; }
   if (c.email){ state.job.email = c.email; $('#jobEmail').value = c.email; }
-  if (c.address){ state.job.address = c.address; $('#jobAddress').value = c.address; }
+  const full = [c.address, c.cityStateZip].filter(Boolean).join(', ');
+  if (full){ state.job.address = full; $('#jobAddress').value = full; }
+  else if (c.name || c.phone) alert('Contact imported — but this .vcf has no address saved in it. Check the contact card.');
   persistDraft();
 }
 
