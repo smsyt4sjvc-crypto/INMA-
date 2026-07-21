@@ -1595,3 +1595,29 @@ Source: VAULT HEADLINE SCAN + live-price cell (Jake, 21:04 UTC / Mon close).
   near-term bear read weakens; the crack needed CONFIRMERS (rental rates/debt terms), got the opposite. Structural
   overcapacity risk remains for later ([[ai-financing-fragility]]). The one-candle-noise caution was right twice.
 - *(book — descriptive)* SPY 742 (just below the 745 put); hedge holding on a flat day; LLY the down name. Nothing to do.
+
+### 2026-07-21 ~6:48am PT (Tue open) — Brent HOLDS >$90 on real US strikes + Hormuz traffic falling — closest to uncapping yet, but the clean tell still hasn't fired
+Source: Jake's VAULT HEADLINE SCAN + live-price cell (2026-07-21 13:48 UTC). 5th probe of $90; first one that sticks.
+#### DATA (observed)
+- **Brent BZ=F 91.16 (+2.95%), WTI CL=F 84.56 (+2.88%)** — Brent ABOVE $90 and holding at the open (vs Mon close
+  88.97). Gas "past $4."
+- Physical deterioration on the tape: **"U.S. strikes Iran and Houthis threaten Saudi Arabia shipping"** (CNBC),
+  **"Shipping traffic falls sharply in Strait of Hormuz"** (ABC, 18h), "Oil prices rise ~2% on fresh attacks by US
+  and Iran." **Goldman: Brent could top $120 in Q4 IF Strait of Hormuz disruptions don't ease.**
+- Countervailing: **mediators pushing a 10-day ceasefire**; "Potential Middle East Ceasefire Lifts US Equity Futures."
+- **Equities IGNORE it:** SPX 7,472 (+0.39%, new highs, back ABOVE the 7446 CTA trigger), QQQ +1.20%, **SOXX +3.79%**,
+  VIX **17.73 (−4.93%, calm)**. Chips leading a risk-on tape with Brent >$91 + gas >$4.
+- MarketWatch headline: **"If timing the stock market were easy, the Iran war would have proven it. It's done the opposite."**
+#### THESIS (interpretation — NOT fact)
+- *(marker framework — closest to flipping, not yet flipped)* First of the 5 probes where the war premium STICKS above
+  $90, and it's on the most physical backdrop yet (actual US strikes + **Hormuz traffic falling** = tankers voting with
+  their hulls). BUT the clean uncapping tell — an **Abqaiq-class export-infra strike** — still hasn't printed: "Houthis
+  *threaten* Saudi shipping" = threat, "traffic falls" = avoidance/self-sanction, not a confirmed export outage. Goldman's
+  $120 is explicitly CONDITIONAL on a Hormuz closure that hasn't happened. Read: **still pricing the PROBABILITY of the
+  physical break, now with the probability visibly rising** (traffic down is the leading edge) — but the binary (physical
+  cutoff) is unconfirmed, and a 10-day-ceasefire mediation is the cap risk that faded the prior four. Watch the Abqaiq tell.
+- *(the equity tell — the war is UN-TIMEABLE, and that IS the lesson)* Brent >$91, gas >$4, actual US strikes — and the
+  S&P is at ALL-TIME HIGHS led by chips with VIX sub-18. The war premium is contained to the oil complex; equities are
+  fully risk-on. Directly instantiates the Feroldi "missing best/worst days" chart Jake flagged + [[seeing-vs-predicting]]:
+  the war was the obvious "sell" catalyst and the market went UP through it. The MarketWatch headline says it outright.
+  You could SEE the war; you could not TIME the market off it. [[defense-not-offense]], [[where-the-edge-is]].

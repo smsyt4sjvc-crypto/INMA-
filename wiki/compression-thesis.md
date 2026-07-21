@@ -383,3 +383,25 @@ is going away."** — right; this is the compression thesis leaving the tape and
 - *(book — descriptive, unchanged)* No new LONG. Still picks-and-shovels (Nvidia runs the tokens either way); the loser
   = closed-lab private marks (unshortable). Reflection AI / Nemotron / Thinking Machines = a NEW wrinkle: a US open-weight
   tier emerging to answer China — none public/tradeable yet, all Nvidia-fed (→ Nvidia TAM, not a short). [[ai-capex-cycle]].
+
+## 2026-07-21 ~6:48am PT (Tue open) — MU clears the $907 reclaim; chip-bear steamrolled near-term; circular wire INTENSIFIES
+Source: Jake's VAULT HEADLINE SCAN + live prices (2026-07-21 13:48 UTC). The 7/17 "memory bounce not reclaim" call resolves.
+### DATA (observed)
+- **MU 932.69 (+6.93%)** — clears the **$907 (50-day) "regime restored" trigger** that was UNMET at $881 on 7/17. SNDK/STX/
+  WDC rallying with it ("Beaten-Down Memory Stocks Extend AI Rebound"). SOXX +3.79%, SMH +3.00%, Intel +6%, AMD +4%, AVGO +3%.
+- **TSMC plans to RAISE prices** (report) → TSM +3.29%. **Nvidia discloses 9.3% stake in Nebius** → NBIS +2.28%, neoclouds
+  green (APLD +5.4%, CORZ +4.1%). **Microsoft commits billions to Mistral** (European AI compute). **BlackRock raising $12B
+  in bonds for Meta's Texas data center.** UBS hikes S&P target to **8,100.**
+### THESIS (interpretation — NOT fact)
+- *(the 7/17 razor resolves toward the BENIGN branch — for now)* MU reclaiming $907, TSMC RAISING prices, chips ripping =
+  the "compression via chip-demand-roll" bear read is contradicted near-term. TSMC pricing power is the cleanest tell: a
+  demand roll-over doesn't let the foundry raise prices. Supply/demand still tight → the selling last week was positioning/
+  valuation de-risk (compression), NOT a demand break (collapse). Benign branch, confirmed on the flagship + memory.
+- *(the honest counter — the plumbing is getting BIGGER underneath the rip)* Every green headline is also a circular-wire
+  headline: **Nvidia buying its own customer (NBIS 9.3%), MSFT funding Mistral's compute, BlackRock levering up $12B for
+  Meta's datacenter.** The [[ai-financing-fragility]] plumbing is INTENSIFYING as the tape rips — near-term momentum roaring
+  WHILE structural leverage/circularity compounds. Both true at once: benign price action, growing fragility. The rip doesn't
+  retire the tripwire; it enlarges it. Watch the debt legs (BlackRock/Meta bond deal = a fresh, checkable funding-chain node).
+- *(scanner note — Jake ran the PRE-UPDATE file)* The OPEN-WEIGHT/CHINA-AI thread didn't fire despite Mistral headlines
+  ("Microsoft commits billions to Mistral" mis-tagged into GOLD via the 'dollar' in "multibillion-dollar"). Next run with the
+  updated scanner will bucket Mistral/Kimi/Qwen/Reflection correctly. Not a data problem, just the older config.
