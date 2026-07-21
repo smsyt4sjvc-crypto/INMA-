@@ -1643,3 +1643,40 @@ Source: ZeroHedge overnight citing Axios + CNBC (Jake paste). Physical tell part
 - *(discipline)* "Blockade" is CNBC's word for a fast-moving military situation — credible outlet, but the scope
   (Iran-only interdiction vs strait-wide) isn't pinned. Log it as reported; don't upgrade the marker to "fired" until
   an export-capacity outage or a strait closure is confirmed. Probability up, binary not flipped.
+
+### 2026-07-21 ~7am PT (Reuters) — the physical tells START FIRING (credibly) — but DIPLOMACY, not the suppression stack, is now the cap
+Source: Reuters, "Iran's forces attack Bahrain and Kuwait after US hits Iranian ports and cities" (2026-07-21, updated
+~3:54am PDT; Jake paste). Neutral wire — upgrades several items from Iranian-claim to credible.
+#### DATA (observed — Reuters/UKMTO/Kpler = credible)
+- **UKMTO (UK Maritime Trade Operations): a tanker in Hormuz reported STRUCK by a projectile — crew ABANDONED the
+  vessel and boarded a lifeboat.** First credibly-sourced hull-stopped/abandoned vessel (vs this-morning's "avoidance").
+- **Kpler: just FOUR commodity vessels crossed Hormuz Monday, down from seven** the prior day — throughput ~halved,
+  mostly hugging the northern lane near Iran's coast.
+- **Houthis announced a NAVAL BLOCKADE on Saudi Arabia** (Mon); email seen by Reuters warns ships loading/discharging
+  at Saudi ports "could be targeted in any location." Iran pressing Houthis to close **Bab el-Mandeb** if US keeps
+  hitting Iranian power infra.
+- **Reuters/analyst supply math:** war has already cut **~10% of Gulf oil flows**; a full **Bab el-Mandeb closure
+  would cut a further ~7%** of global supply (strands most Saudi exports).
+- IRGC claim: 2 oil tankers caught fire transiting the southern strait (⚠️ Iranian claim; UKMTO's abandoned tanker is
+  the credible one).
+- **Oil still only +~2%** (WTI ~$85 / Brent ~$91). Reuters: "signs that Tehran and Washington want to resume diplomacy
+  helped to LIMIT price rises." A **10-day ceasefire** proposal received by Tehran; Pakistan mediating; **Israel NOT
+  joining** the latest strikes.
+#### THESIS (interpretation — NOT fact)
+- *(⚠️ correction/upgrade to this morning's read)* I graded the AM tanker items as "avoidance, not a confirmed
+  hull-stop." **UKMTO now confirms a struck, abandoned tanker + Kpler shows throughput halved** — the physical tell (b)
+  (hull-stopped vessel) is **firing on credible sourcing**, not Iranian claim. Concede the upgrade: this is no longer
+  pure probability; real barrels/transit are being impaired (Reuters' ~10% flow cut).
+- *(the framework's real test — the CAP changed identity)* For four probes the cap was the **suppression stack** (US
+  record supply + demand destruction + spare capacity absorbing the premium). Now the physical stack is cracking
+  (abandoned tanker, 7→4 vessels, Saudi blockade declared, 10% flows gone) and oil is STILL only +2% — because the cap
+  is now **imminent-ceasefire pricing**, not spare barrels. This is critical: the premium is being held down by a
+  *diplomatic option*, not by physical slack. **If Option 1 (10-day ceasefire) prints → premium bleeds; if Option 2
+  (the fork's joint campaign) wins → the cap is gone AND the physical damage is already loaded → the gap risk is now
+  ASYMMETRIC to the upside** in a way it wasn't when spare capacity was the cap. The binary sits on the ceasefire.
+- *(tells scoreboard)* (a) Abqaiq-class Saudi *export* strike — NOT fired, but Houthi Saudi-port blockade threatens it;
+  (b) hull-stopped vessel — **FIRING (UKMTO)**; (c) Bab el-Mandeb closure — threatened/pressed, not shut; (d) Brent
+  physical GAP through $90 — no, held ~$91 (capped by diplomacy). Two of four now live vs zero all week. Closest yet.
+- *(discipline holds on the unverifiable)* The Amazon-Bahrain datacenter strike: **Reuters ALSO "unable to verify"**
+  (Amazon/Bahrain/US silent) — stays ⚠️ claim ([[civilian-infra-strike-log]]). Even Iranian sources self-contradicted
+  (IRNA quoted a Khorramabad official saying no attack occurred there). Fog is thick; weight UKMTO/Kpler, not agencies.
