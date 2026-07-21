@@ -161,8 +161,8 @@
         <div class="field"><label>Address</label><input id="jobAddress" type="text" placeholder="1234 Main St, Spokane WA" autocomplete="off"></div>
         <div class="row" style="display:grid;grid-template-columns:1fr 1fr;gap:10px">
           <div class="field"><label>Date</label><input id="jobDate" type="date"></div>
-          <div class="field"><label>Roof Pitch — ?/12</label><input id="jobPitch" type="number" inputmode="decimal" step="0.5" placeholder="6" autocomplete="off">
-            <div class="hint">Auto-fills gable rise + rake &amp; frieze runs</div></div>
+          <div class="field"><label>Roof Pitch — ?/12 (job default)</label><input id="jobPitch" type="number" inputmode="decimal" step="0.5" placeholder="6" autocomplete="off">
+            <div class="hint">Default for every gable — override pitch or rise on any gable row</div></div>
         </div>
       </div>
       <div class="card">
@@ -267,7 +267,7 @@ function gableRiseEff(g, w){
   const base = num(g.base) || num(w.len);
   const r = num(g.rise);
   if (r) return r;
-  const pitch = num(state.job.pitch);
+  const pitch = num(g.pitch) || num(state.job.pitch);   // per-gable pitch beats the job default
   return (pitch && base) ? (base/2) * (pitch/12) : 0;
 }
 function wallCalc(w){
@@ -415,7 +415,7 @@ function restoreDraft(){
       : (w.dataUrl ? [{ id:uid(), dataUrl:w.dataUrl, cap:'' }] : []),   // migrate old one-photo drafts
     len:w.len||'', ht:w.ht||'',
     gables: Array.isArray(w.gables)
-      ? w.gables.map(g=>({ id:g.id||uid(), base:g.base||'', rise:g.rise||'', count:g.count||'' }))
+      ? w.gables.map(g=>({ id:g.id||uid(), base:g.base||'', pitch:g.pitch||'', rise:g.rise||'', count:g.count||'' }))
       : (parseFloat(w.gable) > 0 ? [{ id:uid(), base:'', rise:String(w.gable), count:'' }] : []),   // migrate old single-rise gable
     openings:(Array.isArray(w.openings)?w.openings:[]).map(o=>({ ...o, kind:o.kind||'win' })), notes:w.notes||'',
     items:Array.isArray(w.items)?w.items:[],
@@ -744,7 +744,7 @@ function renderEditor(){
         <div class="field"><label>Length ft</label><input id="wLen" type="number" inputmode="decimal" step="0.1" placeholder="30" value="${escapeAttr(e.len)}"></div>
         <div class="field"><label>Height ft</label><input id="wHt" type="number" inputmode="decimal" step="0.1" placeholder="8" value="${escapeAttr(e.ht)}"></div>
       </div>
-      <div class="mini-label" style="margin-bottom:6px">Gables — blank base = wall length · blank rise = auto from roof pitch</div>
+      <div class="mini-label" style="margin-bottom:6px">Gables — blank base = wall length · blank rise = auto from that gable's pitch (or job default)</div>
       <div id="gableRows"></div>
       <button class="btn-add" id="addGableBtn" type="button" style="padding:10px;font-size:13px;margin-bottom:12px">+ Add Gable</button>
       <div class="mini-label" style="margin-bottom:6px">Openings — subtracted. Defaults are real numbers: edit them if the unit's different.</div>
@@ -785,7 +785,7 @@ function renderEditor(){
   $('#wLabel').addEventListener('input', ev => { e.label = ev.target.value; });
   $('#wLen').addEventListener('input', ev => { e.len = ev.target.value; updateEditSF(); });
   $('#wHt').addEventListener('input', ev => { e.ht = ev.target.value; updateEditSF(); });
-  $('#addGableBtn').addEventListener('click', ()=>{ e.gables.push({ id:uid(), base:'', rise:'', count:'1' }); renderGableRows(); updateEditSF(); });
+  $('#addGableBtn').addEventListener('click', ()=>{ e.gables.push({ id:uid(), base:'', pitch:'', rise:'', count:'1' }); renderGableRows(); updateEditSF(); });
   $('#wNotes').addEventListener('input', ev => { e.notes = ev.target.value; });
   async function addEditorPhotos(files, inputEl){
     if (!files || !files.length) return;
@@ -950,9 +950,10 @@ function renderGableRows(){
   const e = state.editing; if (!e) return;
   const host = $('#gableRows');
   host.innerHTML = e.gables.map(g => `
-    <div class="open-row" data-gable="${g.id}">
+    <div class="open-row" data-gable="${g.id}" style="grid-template-columns:1fr 1fr 1fr 1fr auto">
       <div><div class="mini-label">Base ft</div><input type="number" inputmode="decimal" step="0.1" data-f="base" placeholder="= wall len" value="${escapeAttr(g.base)}"></div>
-      <div><div class="mini-label">Rise ft (eave→peak)</div><input type="number" inputmode="decimal" step="0.1" data-f="rise" placeholder="${(()=>{ const b=num(g.base)||num(e.len); const pp=num(state.job.pitch); return (pp&&b) ? 'auto '+(Math.round(b/2*pp/12*10)/10) : '0'; })()}" value="${escapeAttr(g.rise)}"></div>
+      <div><div class="mini-label">Pitch /12</div><input type="number" inputmode="decimal" step="0.5" data-f="pitch" placeholder="${escapeAttr(state.job.pitch ? 'def '+state.job.pitch : '?')}" value="${escapeAttr(g.pitch)}"></div>
+      <div><div class="mini-label">Rise ft</div><input type="number" inputmode="decimal" step="0.1" data-f="rise" placeholder="${(()=>{ const b=num(g.base)||num(e.len); const pp=num(g.pitch)||num(state.job.pitch); return (pp&&b) ? 'auto '+(Math.round(b/2*pp/12*10)/10) : '0'; })()}" value="${escapeAttr(g.rise)}"></div>
       <div><div class="mini-label">Count</div><input type="number" inputmode="numeric" step="1" data-f="count" value="${escapeAttr(g.count)||'1'}"></div>
       <button class="btn-danger" type="button" data-gable-rm>✕</button>
     </div>`).join('');
@@ -1114,7 +1115,7 @@ function buildPrintHTML(){
   const t = moneyTotals();
   const wallRows = state.walls.map((w,i)=>{
     const c = wallCalc(w);
-    const gtxt = (w.gables||[]).filter(g=>num(g.rise)).map(g=>` + gable ${num(g.base)||num(w.len)||0}'×${num(g.rise)}'${(num(g.count)||1)>1 ? '×'+num(g.count) : ''}`).join('');
+    const gtxt = (w.gables||[]).filter(g=>gableRiseEff(g,w)).map(g=>` + gable ${num(g.base)||num(w.len)||0}'×${Math.round(gableRiseEff(g,w)*10)/10}'${(num(g.count)||1)>1 ? '×'+num(g.count) : ''}`).join('');
     const dims = (num(w.len)||num(w.ht)) ? `${num(w.len)||'—'}' × ${num(w.ht)||'—'}'` + gtxt : '—';
     const items = (w.items||[]).filter(it=>(it.desc||'').trim()).map(it => `${escapeText(it.desc)} ×${num(it.qty)||1}${(it.unit||'').trim() && (it.unit||'').trim().toUpperCase()!=='EA' ? ' '+escapeText(it.unit) : ''}`)
       .concat((w.trim||[]).filter(t=>(t.type||'').trim()||num(t.lf)).map(t => `${escapeText((t.type||'trim'))}${(t.size||'').trim()?' '+escapeText(t.size):''} ${num(t.lf)||0} LF`))
