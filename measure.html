@@ -172,7 +172,7 @@
           <label class="cap-btn" id="sameWallBtn">➕ Another Shot,<br>Same Wall<input type="file" id="sameInput" accept="image/*" capture="environment"></label>
           <label class="cap-btn" style="grid-column:1/-1">🖼 Add from Library (multi)<input type="file" id="libInput" accept="image/*" multiple></label>
         </div>
-        <p class="micro" style="margin-top:10px">📷 starts a wall · ➕ adds more shots to the wall you just started. You can also add photos to any wall later, in the editor. Tap a photo to jump to detailing.</p>
+        <p class="micro" style="margin-top:10px">📷 starts a wall · ➕ adds more shots to the wall you just started. You can also add photos to any wall later, in the editor. Tap a photo to jump to detailing.<br>Tip: name files in the Files app first — "East wall.jpg" imports with the wall already labeled <b>East wall</b>. (Photos-library picks come in as IMG_… and stay unlabeled.)</p>
       </div>
     </section>
 
@@ -367,8 +367,18 @@ document.addEventListener('DOMContentLoaded', ()=>{
   document.addEventListener('input', persistDraft);
 });
 
-function newWall(dataUrl){
-  return { id:uid(), label:'', photos: dataUrl ? [{ id:uid(), dataUrl, cap:'' }] : [], len:'', ht:'', gable:'', openings:[], notes:'', items:[] };
+function newWall(dataUrl, label){
+  return { id:uid(), label:label||'', photos: dataUrl ? [{ id:uid(), dataUrl, cap:'' }] : [], len:'', ht:'', gable:'', openings:[], notes:'', items:[] };
+}
+// Turn a saved filename into a wall label: "east-wall_2.jpg" -> "east wall 2".
+// Generic camera names (IMG_1234, image, photo…) give nothing useful -> ''.
+function labelFromFilename(name){
+  if (!name) return '';
+  let n = String(name).replace(/\.[a-z0-9]+$/i, '').replace(/[-_]+/g, ' ').trim();
+  if (!n) return '';
+  if (/^(img|image|photo|pic|dsc|dscf|pxl|hexc|heic|screenshot|scan)[\s]*\d*$/i.test(n)) return '';
+  if (/^\d+$/.test(n)) return '';
+  return n.slice(0, 60);
 }
 function fileToDataURL(file){
   return new Promise((res,rej)=>{ const r = new FileReader(); r.onload=()=>res(r.result); r.onerror=rej; r.readAsDataURL(file); });
@@ -401,10 +411,11 @@ async function addPhotos(files, inputEl, mode){
   for (const f of Array.from(files)){
     try {
       const dataUrl = await photoToDataURL(f);
+      const nice = labelFromFilename(f.name);
       if (mode === 'same' && state.walls.length){
-        state.walls[state.walls.length-1].photos.push({ id:uid(), dataUrl, cap:'' });
+        state.walls[state.walls.length-1].photos.push({ id:uid(), dataUrl, cap:nice });
       } else {
-        state.walls.push(newWall(dataUrl));
+        state.walls.push(newWall(dataUrl, nice));
       }
     } catch(e){}
   }
@@ -599,7 +610,11 @@ function renderEditor(){
   async function addEditorPhotos(files, inputEl){
     if (!files || !files.length) return;
     for (const f of Array.from(files)){
-      try { e.photos.push({ id:uid(), dataUrl: await photoToDataURL(f), cap:'' }); } catch(err){}
+      try {
+        const nice = labelFromFilename(f.name);
+        if (nice && !(e.label||'').trim() && !e.photos.length) e.label = nice;   // first photo names the wall
+        e.photos.push({ id:uid(), dataUrl: await photoToDataURL(f), cap: e.photos.length ? nice : '' });
+      } catch(err){}
     }
     if (inputEl) inputEl.value = '';
     e._sel = e.photos.length - 1;
