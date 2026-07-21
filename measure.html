@@ -851,16 +851,19 @@ function lfForType(type, w){
   if (/casing/.test(t)) return Math.ceil(casing);
   if (/z.?flash/.test(t)) return /belly|band|skirt/.test(t) ? Math.ceil(len) : Math.ceil(sumW);
   if (/header|head/.test(t)) return Math.ceil(sumW);
-  // Rake run: hypotenuse both sides of each gable — 2×√((base/2)² + rise²).
-  const rakeLF = (w.gables||[]).reduce((a,g)=>{
+  // Frieze/rake = the full "siding tops out" line under the soffit:
+  // sloped over each gable (2×√((base/2)² + rise²)) + level along whatever
+  // wall length the gables don't cover.
+  let rakeLF = 0, gableBases = 0;
+  (w.gables||[]).forEach(g => {
     const b = num(g.base) || len;
     const r = gableRiseEff(g, w);
-    return r ? a + 2*Math.sqrt((b/2)*(b/2) + r*r) * (num(g.count)||1) : a;
-  }, 0);
-  if (/rake/.test(t)) return Math.ceil(rakeLF);
-  // Frieze follows the rakes on a gable wall, runs level (= length) otherwise;
-  // 5/4x4 ripped in half either way: buy half the run.
-  if (/frieze/.test(t)) return Math.ceil((rakeLF || len) / 2);
+    const c = num(g.count)||1;
+    if (r){ rakeLF += 2*Math.sqrt((b/2)*(b/2) + r*r) * c; gableBases += b * c; }
+  });
+  const soffitRun = rakeLF + Math.max(0, len - gableBases);
+  if (/rake/.test(t)) return Math.ceil(soffitRun);                // full run (unripped stock)
+  if (/frieze/.test(t)) return Math.ceil(soffitRun / 2);          // 5/4x4 ripped: buy half
   if (/fascia|belly|band|skirt/.test(t)) return Math.ceil(len);
   return 0;
 }
@@ -875,7 +878,6 @@ function trimSuggestions(w){
     { type:'Frieze board', size:'5/4×4 ripped' },   // stock LF = run/2
     { type:'Belly band', size:'5/4×8', withZ:true },  // always gets Z on top
     { type:'Skirt board' },
-    { type:'Rake board' },
   ].map(x => ({ ...x, lf: lfForType(x.type, w) }));
 }
 let trimLibEdit = false;
