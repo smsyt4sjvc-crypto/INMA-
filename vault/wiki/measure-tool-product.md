@@ -42,6 +42,16 @@ Related: [[architecture]] · [[offer-board]] · [[evolution]] · [[state]] · [[
   changes. Accepted leak: payers can share the day's link — tolerable at
   validation scale. Ladder: v0 manual → v1 auto-rotate slug → v2 real accounts
   if demand proves.
+- [2026-07-21] **Timed-access tiers** (Jake: "they're paying for timed access"):
+  each horizon = its own route on its own rotation clock — day pass (~$10–15,
+  rotates nightly), week pass (~$35–50, rotates Mondays; a siding job ≈ a week,
+  the natural unit), month pass (~$75–100, rotates the 1st, best-value anchor),
+  network tier free/rarely-rotated for vetted crews. One Stripe payment link
+  per tier. Leakage scales with horizon → sell day/week to strangers, keep
+  month semi-invite until real accounts. Under v2 accounts, a tier is just a
+  license expiry date — the structure carries over unchanged. Drafts are
+  origin-scoped so an expired customer keeps their job history: renewal hook.
+- [2026-07-21] Status: NOT building yet — Jake mastering it on real jobs first.
 
 ## Superseded
 - (none yet)
