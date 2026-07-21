@@ -159,7 +159,11 @@
           <div class="field"><label>Email</label><input id="jobEmail" type="email" placeholder="jane@example.com" autocomplete="off"></div>
         </div>
         <div class="field"><label>Address</label><input id="jobAddress" type="text" placeholder="1234 Main St, Spokane WA" autocomplete="off"></div>
-        <div class="field" style="max-width:220px"><label>Date</label><input id="jobDate" type="date"></div>
+        <div class="row" style="display:grid;grid-template-columns:1fr 1fr;gap:10px">
+          <div class="field"><label>Date</label><input id="jobDate" type="date"></div>
+          <div class="field"><label>Roof Pitch — ?/12</label><input id="jobPitch" type="number" inputmode="decimal" step="0.5" placeholder="6" autocomplete="off">
+            <div class="hint">Auto-fills gable rise + rake &amp; frieze runs</div></div>
+        </div>
       </div>
       <div class="card">
         <h2>How this works</h2>
@@ -236,7 +240,7 @@
 /* ============ DATA MODEL ============ */
 const state = {
   step: 1,
-  job: { name:'', phone:'', email:'', address:'', date:'' },
+  job: { name:'', phone:'', email:'', address:'', date:'', pitch:'' },
   walls: [],      // [{id,label,photos,len,ht,gables:[{id,base,rise,count}],openings:[{id,w,h,count}],notes,items:[{id,desc,qty,unit,rate}],trim:[{id,type,size,lf,rate}]}]
   editing: null,  // working copy while editing a wall
   lines: [],      // general/whole-house items [{id,desc,qty,unit,rate}]
@@ -258,13 +262,21 @@ function escapeText(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replac
 const blankItem = () => ({ id:uid(), desc:'', qty:'', unit:'', rate:'' });
 
 /* ============ MATH ============ */
+// Blank rise + known roof pitch → rise computes itself: (base/2) × pitch/12.
+function gableRiseEff(g, w){
+  const base = num(g.base) || num(w.len);
+  const r = num(g.rise);
+  if (r) return r;
+  const pitch = num(state.job.pitch);
+  return (pitch && base) ? (base/2) * (pitch/12) : 0;
+}
 function wallCalc(w){
   const len = num(w.len), ht = num(w.ht);
   const rect = len*ht;                 // square wall section
   // Each gable is a triangle: base × center rise / 2. Blank base = wall length.
   const gableSF = (w.gables||[]).reduce((a,g)=>{
     const base = num(g.base) || len;
-    return a + (base * num(g.rise) / 2) * (num(g.count)||1);
+    return a + (base * gableRiseEff(g, w) / 2) * (num(g.count)||1);
   }, 0);
   const gross = rect + gableSF;
   const open = (w.openings||[]).reduce((a,o)=> a + num(o.w)*num(o.h)*(num(o.count)||1), 0);
@@ -417,6 +429,7 @@ function restoreDraft(){
   $('#jobPhone').value = state.job.phone || '';
   $('#jobEmail').value = state.job.email || '';
   $('#jobAddress').value = state.job.address || '';
+  $('#jobPitch').value = state.job.pitch || '';
   if (state.job.date) $('#jobDate').value = state.job.date;
 }
 
@@ -425,7 +438,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
   buildDots();
   const today = new Date().toISOString().slice(0,10);
   $('#jobDate').value = today; state.job.date = today;
-  [['jobName','name'],['jobPhone','phone'],['jobEmail','email'],['jobAddress','address'],['jobDate','date']].forEach(([id,key])=>{
+  [['jobName','name'],['jobPhone','phone'],['jobEmail','email'],['jobAddress','address'],['jobDate','date'],['jobPitch','pitch']].forEach(([id,key])=>{
     $('#'+id).addEventListener('input', e => { state.job[key] = e.target.value; });
   });
   $('#importContactBtn').addEventListener('click', () => $('#contactFile').click());
@@ -712,7 +725,7 @@ function renderEditor(){
         <div class="field"><label>Length ft</label><input id="wLen" type="number" inputmode="decimal" step="0.1" placeholder="30" value="${escapeAttr(e.len)}"></div>
         <div class="field"><label>Height ft</label><input id="wHt" type="number" inputmode="decimal" step="0.1" placeholder="8" value="${escapeAttr(e.ht)}"></div>
       </div>
-      <div class="mini-label" style="margin-bottom:6px">Gables — base × center rise (leave base blank = full wall length)</div>
+      <div class="mini-label" style="margin-bottom:6px">Gables — blank base = wall length · blank rise = auto from roof pitch</div>
       <div id="gableRows"></div>
       <button class="btn-add" id="addGableBtn" type="button" style="padding:10px;font-size:13px;margin-bottom:12px">+ Add Gable</button>
       <div class="mini-label" style="margin-bottom:6px">Openings — subtracted. Defaults are real numbers: edit them if the unit's different.</div>
@@ -819,8 +832,16 @@ function lfForType(type, w){
   if (/casing/.test(t)) return Math.ceil(casing);
   if (/z.?flash/.test(t)) return /belly|band|skirt/.test(t) ? Math.ceil(len) : Math.ceil(sumW);
   if (/header|head/.test(t)) return Math.ceil(sumW);
-  if (/rake/.test(t)) return 0;
-  if (/frieze/.test(t)) return Math.ceil(len/2);   // 5/4x4 ripped in half: buy half the run
+  // Rake run: hypotenuse both sides of each gable — 2×√((base/2)² + rise²).
+  const rakeLF = (w.gables||[]).reduce((a,g)=>{
+    const b = num(g.base) || len;
+    const r = gableRiseEff(g, w);
+    return r ? a + 2*Math.sqrt((b/2)*(b/2) + r*r) * (num(g.count)||1) : a;
+  }, 0);
+  if (/rake/.test(t)) return Math.ceil(rakeLF);
+  // Frieze follows the rakes on a gable wall, runs level (= length) otherwise;
+  // 5/4x4 ripped in half either way: buy half the run.
+  if (/frieze/.test(t)) return Math.ceil((rakeLF || len) / 2);
   if (/fascia|belly|band|skirt/.test(t)) return Math.ceil(len);
   return 0;
 }
@@ -912,7 +933,7 @@ function renderGableRows(){
   host.innerHTML = e.gables.map(g => `
     <div class="open-row" data-gable="${g.id}">
       <div><div class="mini-label">Base ft</div><input type="number" inputmode="decimal" step="0.1" data-f="base" placeholder="= wall len" value="${escapeAttr(g.base)}"></div>
-      <div><div class="mini-label">Rise ft (eave→peak)</div><input type="number" inputmode="decimal" step="0.1" data-f="rise" placeholder="0" value="${escapeAttr(g.rise)}"></div>
+      <div><div class="mini-label">Rise ft (eave→peak)</div><input type="number" inputmode="decimal" step="0.1" data-f="rise" placeholder="${(()=>{ const b=num(g.base)||num(e.len); const pp=num(state.job.pitch); return (pp&&b) ? 'auto '+(Math.round(b/2*pp/12*10)/10) : '0'; })()}" value="${escapeAttr(g.rise)}"></div>
       <div><div class="mini-label">Count</div><input type="number" inputmode="numeric" step="1" data-f="count" value="${escapeAttr(g.count)||'1'}"></div>
       <button class="btn-danger" type="button" data-gable-rm>✕</button>
     </div>`).join('');
@@ -1141,6 +1162,7 @@ function buildPrintHTML(){
 <div class="job">
   ${state.job.name ? `<div><b>Job</b>${escapeText(state.job.name)}</div>` : ''}
   ${state.job.address ? `<div><b>Address</b>${escapeText(state.job.address)}</div>` : ''}
+  ${state.job.pitch ? `<div><b>Roof Pitch</b>${escapeText(state.job.pitch)}/12</div>` : ''}
   ${state.job.phone ? `<div><b>Phone</b>${escapeText(state.job.phone)}</div>` : ''}
   ${state.job.email ? `<div><b>Email</b>${escapeText(state.job.email)}</div>` : ''}
   <div><b>Date</b>${escapeText(state.job.date || '')}</div>
