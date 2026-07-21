@@ -1621,3 +1621,25 @@ Source: Jake's VAULT HEADLINE SCAN + live-price cell (2026-07-21 13:48 UTC). 5th
   fully risk-on. Directly instantiates the Feroldi "missing best/worst days" chart Jake flagged + [[seeing-vs-predicting]]:
   the war was the obvious "sell" catalyst and the market went UP through it. The MarketWatch headline says it outright.
   You could SEE the war; you could not TIME the market off it. [[defense-not-offense]], [[where-the-edge-is]].
+
+### 2026-07-21 ~7am PT — the "blockade" word + the two-endgame FORK (sharpens the marker read)
+Source: ZeroHedge overnight citing Axios + CNBC (Jake paste). Physical tell partially firing; the binary is now explicit.
+#### DATA (as-reported)
+- **CNBC: vessel traffic through Hormuz has slumped "since Trump's BLOCKADE took effect last week,"** shipowners
+  increasingly avoiding the corridor as US-Iran fighting intensifies. (First use of "blockade" — stronger than the
+  prior "threats/avoidance" framing.)
+- **Axios: Trump at a "decisive fork" — only two viable endgames.** Option 1: a new **10-day ceasefire to REOPEN
+  Hormuz**. Option 2: a **massive joint US-Israel campaign to force Tehran's capitulation.**
+#### THESIS (interpretation — NOT fact)
+- *(marker read, updated)* "Blockade" is a materially more physical word than this-morning's "threaten/traffic-falls."
+  If a US blockade is genuinely interdicting flow (Iranian exports and/or deterring transit), the physical-supply tell
+  is **partially firing** — no longer pure probability. BUT Brent at ~$91, not $120, says the market reads it as
+  *partial/contained* (Iranian barrels + risk-avoidance), NOT a full strait closure or an Abqaiq-class export-infra
+  hit. The clean uncapping tell still hasn't printed; the premium is real and sticking but bounded.
+- *(the fork = the binary, now dated and named)* The two endgames ARE the marker's two branches: **Option 1 (ceasefire→
+  reopen Hormuz) = the cap re-asserts, premium bleeds** (the fade that won four times); **Option 2 (joint campaign) =
+  the escalation path where an export-infra strike / real closure becomes likely → the $90 uncapping the framework has
+  been waiting for.** This is the cleanest either/or yet — watch which Trump picks. Descriptive; positioning is Jake's.
+- *(discipline)* "Blockade" is CNBC's word for a fast-moving military situation — credible outlet, but the scope
+  (Iran-only interdiction vs strait-wide) isn't pinned. Log it as reported; don't upgrade the marker to "fired" until
+  an export-capacity outage or a strait closure is confirmed. Probability up, binary not flipped.

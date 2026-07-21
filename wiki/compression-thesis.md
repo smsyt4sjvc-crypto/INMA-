@@ -405,3 +405,28 @@ Source: Jake's VAULT HEADLINE SCAN + live prices (2026-07-21 13:48 UTC). The 7/1
 - *(scanner note — Jake ran the PRE-UPDATE file)* The OPEN-WEIGHT/CHINA-AI thread didn't fire despite Mistral headlines
   ("Microsoft commits billions to Mistral" mis-tagged into GOLD via the 'dollar' in "multibillion-dollar"). Next run with the
   updated scanner will bucket Mistral/Kimi/Qwen/Reflection correctly. Not a data problem, just the older config.
+
+## 2026-07-21 ~7am PT — China RETALIATES: considering AI + semi export controls (the arms race goes two-way)
+Source: ZeroHedge overnight citing FT (Jake paste). The statecraft asterisk becomes symmetric.
+### DATA (as-reported)
+- **Chinese regulators considering TIGHTENING export controls on AI and semiconductor technologies** "as the US-China
+  rivalry intensifies in cutting-edge AI." (FT)
+- Same session: China mounting a broad market-rescue (regulators + state investors + insurers + asset managers shoring
+  up confidence after a tech-share selloff); China Q2 growth slipped below the official target; cabinet pledged to hit
+  the full-year goal. (Bloomberg) US separately: Trump order requiring defense contractors to screen China out of supply
+  chains; new 50% tariff on some Canadian goods (energy/potash/critical-minerals exempt).
+### THESIS (interpretation — NOT fact)
+- *(the arms race is now SYMMETRIC)* The [[compression-thesis]] geopolitical asterisk had China as the open-weight
+  *dumper* (subsidized cheap tokens as a weapon) and the US reaching for a *ban*. Now China is reaching for *export
+  controls too* — the mirror move. Both sides weaponizing supply chains in AI/semis. This RAISES the odds of a
+  fragmented, two-bloc AI world (US-aligned buys Nvidia/closed-frontier; China builds its own stack, controls its own
+  exports) and LOWERS the odds of the clean global-commoditization path. For the closed labs it's two-edged: a bifurcated
+  world could WALL OFF Chinese open-weight from Western enterprise (props US-lab pricing) even as it cedes the global
+  South to cheap Chinese models.
+- *(the China-fragility tell — retaliation from a position of some weakness)* China escalating the tech war WHILE
+  running a coordinated market-rescue AND missing its growth target = the retaliation comes from an economy under
+  visible stress, not pure strength. Reads as leverage-seeking (control the one thing you lead — cheap open models +
+  now the export gate), not confidence. Ties [[market-fragility]] (the national-team bid = the same tape support that
+  caught the KOSPI/Asia wobble threads).
+- *(book — descriptive)* Deepens the two-bloc read; no new position. Reinforces picks-and-shovels-that-serve-the-
+  US-bloc (Nvidia's allied-sovereign TAM) over anything needing a unified global AI market. [[ai-capex-cycle]].

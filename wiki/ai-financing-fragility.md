@@ -587,3 +587,31 @@ Source: QTR/Fringe Finance via ZH (Jake) — OPINION/polemic tier; the underlyin
 - *(net — descriptive)* The 2008 RHYME on risk-relocation is legit + hardens the PC leg with a concrete new channel
   into retirement money. The "imminent redux" is ZH-tier overreach. Real fragility, wrong clock. Watch: PC fund
   gates/markdowns, insurer downgrades, PIK-default rate.
+
+## 2026-07-21 ~7am PT — the credit leg FIRES on a name: Oracle CDS at multi-year high (Jake's "$2TN won't get paid")
+Source: ZeroHedge overnight dump citing Bloomberg (Jake paste). Jake's read on the WSJ exec-alarm: **"Translation: our
+$2 TN in contingent payments will not get paid."** This is the fragility thesis moving from narrative to a CREDIT PRICE.
+### DATA (observed / as-reported)
+- **Oracle (ORCL) CDS (credit-default-swap = cost to insure its debt against default) hit a fresh MULTI-YEAR HIGH
+  Monday; existing ORCL bonds sold off** — "as doubts grew over whether the company's massive AI investments will pay
+  off." (Bloomberg via ZH)
+- Same dump: **BlackRock raising $12B in bonds for Meta's Texas data center** (7/21 scan); WSJ OpenAI/Anthropic
+  regulatory alarm (logged 7/20).
+### THESIS (interpretation — NOT fact)
+- *(the thesis's designated tripwire, firing where it was told to)* [[ai-financing-fragility]] said the break shows up
+  in CREDIT before equity — a widening spread / failed-or-cracking bond deal, not a stock wobble. **Oracle CDS at a
+  multi-year high IS that, on the single most AI-capex-levered investment-grade name** (the $300B-class OpenAI/Stargate
+  commitments). The market is pricing rising probability that ORCL's *contingent* AI revenue doesn't materialize fast
+  enough to service the debt it's raising to build the capacity. Credit is doubting the payer while equity indices print
+  new highs — the classic divergence the thesis watches for.
+- *(Jake's zinger is the mechanism, exactly)* The WSJ exec-alarm and the ORCL CDS are the SAME event in two registers:
+  the alarm is the *narrative* admission that cheap Chinese open-weight commoditizes the revenue; the CDS is the *credit
+  market* pricing what that does to the contingent-payment math. "$2TN won't get paid" = if the tokens are worth $0.50
+  not $50, the datacenter debt raised against $50-token economics is impaired. The lobbying is the borrower noticing.
+- *(discipline — one name, one print, not a cascade)* ORCL CDS wide ≠ system default. It's the FIRST credit node to
+  visibly stress, and ORCL is uniquely exposed (concentrated single-customer AI commitments + heavy bond issuance). Watch
+  whether it SPREADS: does the BlackRock/Meta $12B deal price wide? Do other AI-levered IG names (CoreWeave debt, the
+  neocloud paper) follow? A single name's CDS is a canary; a SECTOR's spread widening is the cat. Canary is singing.
+- *(the tradeable-ness caveat, unchanged)* Still no clean short for Jake — ORCL CDS isn't a retail instrument, and
+  shorting ORCL equity fights a melt-up tape. The signal's VALUE is as a fragility gauge that would front-run an equity
+  repricing, not a position. [[market-fragility]], [[compression-thesis]].
