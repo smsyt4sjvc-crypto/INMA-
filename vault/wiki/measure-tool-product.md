@@ -32,6 +32,16 @@ Related: [[architecture]] · [[offer-board]] · [[evolution]] · [[state]] · [[
   later, cross-device sync/backup (first thing paying users will ask for).
 - [2026-07-21] Sequencing (Jake's call): master it on real jobs first — dogfood
   is the QA and the demo. First customers could be offer-board applicants.
+- [2026-07-21] **Jake's v0 gate idea: rotating URL, pay-as-you-go** ("change the
+  URL a digit daily, charge for the day's link"). Viable with two patches:
+  (1) paid file must live OUTSIDE the public repo — file lists + rename history
+  are visible there; use a separate PRIVATE repo deployed on Vercel;
+  (2) rotate a RANDOM slug, not an incrementing digit (guessable). Then:
+  Stripe payment link + manually texting the day's link = zero-infra v0.
+  Browser storage is origin-scoped, so customers' drafts survive daily URL
+  changes. Accepted leak: payers can share the day's link — tolerable at
+  validation scale. Ladder: v0 manual → v1 auto-rotate slug → v2 real accounts
+  if demand proves.
 
 ## Superseded
 - (none yet)
