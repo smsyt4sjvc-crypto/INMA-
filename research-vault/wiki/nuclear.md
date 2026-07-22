@@ -72,3 +72,36 @@ Regulatory milestone = cleanest readiness proxy (design cert → construction pe
 - *(calibration)* Energy Ceiling mainstreaming = confirmation AND a mild crowding flag. Listed beneficiaries =
   real reactors clearing real licensing (GEV/CEG/OKLO/fuel), not private hype (Aalo "40-day microreactor" =
   founder claim, not investable). Source: `raw/2026-07-07-wiki-log-jul6-7.md`.
+
+## 2026-07-21 ~3:35pm PT (after-hours) — the $200M program aims at the RIGHT chokepoint (licensing time), not capital
+Source: ZeroHedge/Bloomberg (Jake paste), Tue 6:20pm ET. Details possibly Wed at a DOE AI-energy summit.
+### DATA (as-reported)
+- **Oklo + X-energy joining a ~$200M Trump-admin program to speed nuclear for AI data centers.** **Microsoft + Nvidia
+  also involved.** DOE national labs + **UT Austin** slated to share **$60M over 3 years** (document seen by Bloomberg).
+- **Stated goals: steep cuts in the TIME to design, license, build + the STAFF needed to run reactors** (i.e. compress
+  the paperwork/engineering/licensing timeline, reportedly using AI + federal labs).
+- **X-energy +12% AH, Oklo +9.9% AH.**
+- The broader federal nuclear stack (recap): Westinghouse AP1000 fleet **$80B+** aggregate (govt financing/approvals);
+  US-Japan **up to $40B** for GE Vernova Hitachi BWRX-300 (TN/AL); Gen III+ SMR **$800M** DOE cost-share (TVA BWRX-300 +
+  Holtec SMR-300); Reactor Pilot Program (expedited DOE authorization, 11 projects); Advanced Reactor Demo **~$3.2B**
+  (TerraPower Natrium + X-energy Xe-100).
+### THESIS (interpretation — NOT fact)
+- *(the sharp point — small $, RIGHT constraint)* This note's standing read is that nuclear's binding constraint is
+  **licensing/first-of-a-kind execution, not capital** (the MOU/US-Japan entries above). The capital-heavy programs
+  ($80B/$40B/$3.2B) throw money at the constraint that ISN'T binding. **This $200M is the first one explicitly aimed at
+  the binding one — compressing time-to-license.** So despite being ~1/400th the dollars, it targets the actual
+  bottleneck; potentially higher impact-per-dollar IF regulatory-timeline compression is real. ⚠️ Big if: NRC reform is
+  slow, the program is aspirational ("goals"), and "cut the staff needed to run them" will draw safety pushback.
+- *(⚠️ valuation discipline — the AH pops dwarf the dollars)* OKLO +9.9% / XE +12% AH on a **$200M program split many
+  ways** = market-cap moves orders of magnitude larger than the money involved. These are **pre-revenue Tier-C
+  optionality** names (per the readiness-vs-hype section) trading on **federal endorsement, not a readiness milestone** —
+  there's **no NRC approval here.** The readiness order (GEV > NuScale > OKLO/XE) and the discipline are unchanged.
+- *(XE specifically — lockup overhang UNCHANGED)* XE +12% AH doesn't touch the **Sept 1 2026 lockup-expiry** overhang.
+  The disciplined entry is still *after* the flush (Sept–Oct, overlapping the midterm-cycle low), not into a policy pop
+  8 weeks before a known unlock. Patience-as-edge holds; a headline bounce is the opposite of a lockup-cleared entry.
+- *(the productive irony + who's funding it)* **Using AI to compress the licensing of the reactors that power AI** =
+  Jevons applied to regulation. And **MSFT + Nvidia involved = the demand side (hyperscalers) funding the supply side
+  (power)** — vertical integration of the buildout ([[ai-capex-cycle]], [[power-scarcity-equities]]). The hyperscalers
+  are buying down their own power bottleneck, which is bullish the THEME and bearish the scarcity-SELLERS' rent long-run.
+- *(WARNING vs TRIGGER)* Structural support vector (states), not a dated catalyst. Wed summit = a soft headline event;
+  the reactors are 2028-2030+. The note's falsifier still governs: watch first-concrete / NRC milestones, not programs.
