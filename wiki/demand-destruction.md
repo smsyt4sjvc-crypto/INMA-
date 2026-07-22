@@ -1726,3 +1726,25 @@ Source: Jake live-price cell (no headline digest this run). Read off prices; cat
   new highs ALONGSIDE SPX at new highs, with VIX sub-17 and the dollar soft = not a fear bid (fear would spike VIX + hit
   stocks). It's the real-assets/liquidity/debasement bid — war premium + the standing debasement pull, not risk-off.
   [[gold-flows]], [[new-economy-regime]]. The equity/oil/gold "everything up" is the melt-up + real-asset hedge, together.
+
+### 2026-07-22 ~7:30am PT (Wed) — headline-CONFIRMS the AM read: Brent $95, ceasefire "unravels," $100 in view; but US inventories BUILD (suppression stack still on)
+Source: Jake's VAULT HEADLINE SCAN (14:24 UTC), same-session confirmation of the 7:26am price read.
+#### DATA (observed / as-reported)
+- **Brent above $95 "for the first time in 6 weeks as hopes dim for de-escalation"** (MarketWatch); "Brent eyes $100
+  resistance" (FXEmpire); **"Hormuz on a Knife-Edge... Iran-U.S. ceasefire UNRAVELS"** (gCaptain); **"Second chokepoint
+  crisis as tankers begin to turn around in the Red Sea."** **Trump vows to bomb Iran's bridges/power plants** if it
+  shoots at Hormuz ships; warns Houthis over the Saudi-port blockade threat.
+- **⚠️ Counter: "US Crude Oil Inventories BUILD as Hormuz shipping headache drags on."** **"US gasoline prices surge $1"**;
+  "Oil prices may fall, but gasoline prices won't — the trap we're in."
+#### THESIS (interpretation — NOT fact)
+- *(AM read confirmed — the CAP is the ceasefire, and it's eroding)* This morning's price-only inference ("oil grinding
+  up = market pricing the ceasefire as less likely = fork leaning Option 2") is now headline-confirmed: "hopes dim,"
+  "ceasefire unravels." The diplomacy cap is visibly coming off → premium sticking + building toward $100.
+- *(why still a GRIND not a GAP — the suppression stack is STILL on)* **US crude inventories are BUILDING** even as Brent
+  hits $95 — domestic supply is ample; the physical crude shortage the marker requires (an export-cutoff) still hasn't
+  happened. "Tankers turning around" = avoidance, "Trump vows to bomb" = threat — neither removes export barrels yet. So
+  the escalation-premium climbs on FEAR while physical crude stays supplied → $95 grind, not the $120 gap. The clean
+  uncapping tell is STILL un-fired; the move is diplomacy-cap-erosion, not a confirmed supply break.
+- *(the real pain is in PRODUCTS again)* Gasoline +$1 while crude builds = the crack/products thread ([[oil-value-chain]]):
+  "crude trades the probability, products trade the actual shortage." The consumer/political pain (gas, Trump "under
+  pressure over gas prices") is a PRODUCTS story, not a flat-crude story. Refiners capture it.

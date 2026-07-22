@@ -615,3 +615,30 @@ $2 TN in contingent payments will not get paid."** This is the fragility thesis 
 - *(the tradeable-ness caveat, unchanged)* Still no clean short for Jake — ORCL CDS isn't a retail instrument, and
   shorting ORCL equity fights a melt-up tape. The signal's VALUE is as a fragility gauge that would front-run an equity
   repricing, not a position. [[market-fragility]], [[compression-thesis]].
+
+## 2026-07-22 ~7:30am PT — the credit leg goes MAINSTREAM + a fresh circular node (AMD→Anthropic $5B)
+Source: Jake's VAULT HEADLINE SCAN (2026-07-22 14:24 UTC). Two items that harden Monday's Oracle-CDS read.
+### DATA (observed / as-reported)
+- **"AI data center debt has climbed to the TOP of Wall Street's credit-risk watchlist"** (headline). Alongside:
+  **"AI Is Eating Big Tech's Free Cash Flow: Why Microsoft and Oracle Face Different Risks."**
+- **AMD to invest up to $5B in Anthropic as part of a computing-power deal** ("AMD and Anthropic Sign Major
+  Chips-and-Investment Deal"). **OpenAI plans a $30B Georgia data-center mega-project.** Anthropic paying a "record"
+  copyright settlement (Harry Potter publisher to receive millions).
+### THESIS (interpretation — NOT fact)
+- *(the credit-leg thesis is now the consensus watchlist, in 48h)* Monday I logged Oracle CDS at a multi-year high as
+  "the FIRST credit node to visibly stress." Two days later "AI datacenter debt = top of Wall Street's credit-risk
+  watchlist" is a HEADLINE. The canary→cat progression is happening in the open: the market is now naming AI-infra debt
+  as its #1 credit worry while equity indices still print highs. The divergence [[ai-financing-fragility]] watches for is
+  widening AND getting named. (⚠️ "on the watchlist" ≠ a default; consensus-worry can persist for quarters. It's the
+  thesis going mainstream, not the break firing.)
+- *(AMD→Anthropic = the circular wire's newest, cleanest node)* Same structure as Nvidia→NBIS/neoclouds: **the chipmaker
+  INVESTS in the customer that then BUYS its chips.** AMD writes Anthropic a $5B check; Anthropic spends it on AMD
+  compute. Revenue that's really your own capital doing a lap. This is the diversification-is-illusory point made
+  concrete AGAIN — and now it's not just Nvidia; AMD is running the same play. The more nodes wired this way, the more
+  "different" counterparties are actually ONE correlated trade that snaps together in a funding stress.
+- *(the honest counter)* AMD investing in Anthropic is ALSO a real strategic win for AMD (locks a marquee AI customer
+  away from Nvidia; MI-series validation). Circular ≠ fake — it's circular AND strategically rational. The fragility is
+  in the CORRELATION it builds, not in any single deal being a sham. Both true.
+- *(book — descriptive)* Reinforces: the loser is the closed-lab/AI-infra DEBT and private marks, not a clean short.
+  Picks-and-shovels (the chip vendors) keep booking the revenue even as they fund it — until the funding stops.
+  [[compression-thesis]], [[market-fragility]].
