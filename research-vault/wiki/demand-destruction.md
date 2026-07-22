@@ -1788,3 +1788,23 @@ region where we do not sell oil, no one will sell oil. If our security is not en
 - *(what to actually watch)* The quote is intent-signaling. The uncapping is if Iran ACTS on "no infrastructure will be
   safe" — a strike on Saudi/UAE crude EXPORT capacity (Abqaiq-class) or an actual strait closure/mining. THAT reprices;
   the soundbite doesn't. If crude gaps on the quote ALONE (no strike), that's the faders' setup per the framework.
+
+### 2026-07-22 ~3:55pm PT — SECOND chokepoint goes physically active (corroborated): 1 Red Sea tanker struck (UKMTO), Houthi claim 2x-inflated
+Source: Jake paste (Windward Maritime AI + UKMTO). Clean corroborated-vs-claimed intel; models the vault's info-war discipline.
+#### DATA (observed — tiered)
+- **✅ CORROBORATED (UKMTO, neutral):** ONE tanker struck by a projectile **~70nm SW of Al Shuqaiq** (southern Red Sea);
+  fire aboard, no casualties/pollution. Enforces the Houthi blockade of Saudi Red Sea ports (declared 7/20).
+- **⚠️ CLAIM (Houthi-aligned channels):** TWO Saudi tankers hit. Second vessel **AIS-dark since a week BEFORE the claim**
+  = inconclusive, non-corroborating (dark ≠ struck). Circulating burning-ship footage **unverified, unmatched to either hull.**
+- Net: **1 strike supported; the two-attack claim NOT substantiated.**
+#### THESIS (interpretation — NOT fact)
+- *(marker — second front now PHYSICAL, corroborated, but sub-Abqaiq)* The Red Sea/Bab-el-Mandeb chokepoint moved from
+  THREATENED (blockade "declared" 7/20) to a corroborated struck vessel. Advances tell (b) (2nd corroborated struck tanker
+  after Hormuz) + tell (c) (blockade enforced). BUT it's a **transit-lane** strike (tanker afloat, fire, 70nm offshore),
+  near a power/desal coast — NOT a crude-EXPORT-terminal cutoff (Saudi export crude ships Gulf-side + Yanbu). Premium
+  BUILDS; the clean crude-export gap-trigger still un-fired.
+- *(info-war tell — belligerent 2x-inflated)* Houthi channels claimed 2, reality = 1 corroborated. Even the real
+  escalation is overstated by the side doing it (AIS-dark "2nd hit" inconclusive; footage unmatched). Fade the claim, bank
+  the corroborated: marker update is **+1 corroborated tanker, not +2.** Same discipline that's held all week.
+- *(net)* Two chokepoints now physically active (Hormuz + Red Sea), both with corroborated struck vessels — the physical
+  case is the firmest it's been. Still transit-disruption, not export-capacity destruction. Watch for the crude-terminal hit.
