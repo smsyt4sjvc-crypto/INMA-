@@ -46,6 +46,11 @@ Related: [[_persona]] · [[_guardrails]] · [[architecture]] · [[positioning]] 
   paste or remember a kickoff line.
 
 ## DATA (observed) — Pipeline
+- [2026-07-22] **First real job through Wall Measure: Dan Bauer**, 5415 S.
+  Corkery Rd, Spokane (the Fowler/Bauer new build). 3,649.5 SF net, +20% waste
+  = 4,379.4 SF (43.8 SQ), 12 walls, full trim rollup. Material list built
+  against Convoy pricing ([[convoy-pricing]]): white pkg ≈ $19.6k known
+  (panels+batts+5/4) / primed ≈ $15.6k, accessories TBD.
 - [2026-07-10] Offer board is empty (test files cleared). No live real offers
   posted yet. No contractor applications recorded in the vault yet.
 
