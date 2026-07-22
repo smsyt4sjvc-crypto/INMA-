@@ -1704,3 +1704,25 @@ Al-Monitor). Designations confirmed are APR–MAY 2026; a fresh July round is pl
 - *(the check that would measure it — the standing owed tool)* The **Malaysia customs-mismatch** signal (Malaysia
   "exporting" more crude to China than it physically produces) = a measurable proxy for shadow-fleet volume. Offered,
   not yet built. [[data-sourcing-playbook]].
+
+### 2026-07-22 ~7:26am PT (Wed) — Brent EXTENDS to $94 (2nd day > $90) — the diplomacy cap is eroding, not holding
+Source: Jake live-price cell (no headline digest this run). Read off prices; catalyst unconfirmed without headlines.
+#### DATA (observed)
+- **Brent BZ=F 94.19 (+2.18%), WTI CL=F 87.13 (+2.13%)** — vs Tue-AM 91.16 / 84.56. Second consecutive day above $90
+  and EXTENDING (~$3 higher), not fading. Brent–WTI spread ~$7.
+- **XLE +1.66%** (energy the day's green pocket); **VG +3.67%** (Venture Global LNG).
+- Equities still shrugging: **SPX 7,501 new high** (above the 7446 CTA trigger by 55), **VIX 16.87** (calmer still).
+- **Gold GC=F 4,161 (+0.62%), new highs** (vs ~4,056 Tue); GLD +1.66%; DXY 101.06 (flat/soft). 10Y 4.64%.
+#### THESIS (interpretation — NOT fact)
+- *(marker state change — the cap is weakening)* Four probes faded; now TWO days holding above $90 AND extending 91→94.
+  Tue's read was "capped by imminent-ceasefire pricing, not spare barrels." Oil grinding HIGHER = the market is pricing
+  the **10-day ceasefire as LESS likely** — i.e. the fork leaning toward **Option 2 (joint campaign)**. The premium is
+  starting to STICK because the diplomacy cap is eroding, not because a new physical tell fired. Still a grind, not a
+  gap; the clean uncapping tell (Abqaiq-class export strike) still hasn't printed. But "capped→sticking" is a real shift.
+- *(what would confirm vs fade)* Confirm: a ceasefire-collapse / campaign headline + Brent gapping toward Goldman's $120.
+  Fade: a ceasefire-agreed headline → premium bleeds back fast (the diplomacy cap re-asserts). NEEDS the headline digest
+  to attribute today's $3 — read this as "the price says diplomacy-odds fell," pending confirmation of why.
+- *(the real-asset tell — gold + oil UP together, equities at highs, VIX calm = debasement/liquidity, NOT fear)* Gold at
+  new highs ALONGSIDE SPX at new highs, with VIX sub-17 and the dollar soft = not a fear bid (fear would spike VIX + hit
+  stocks). It's the real-assets/liquidity/debasement bid — war premium + the standing debasement pull, not risk-off.
+  [[gold-flows]], [[new-economy-regime]]. The equity/oil/gold "everything up" is the melt-up + real-asset hedge, together.
