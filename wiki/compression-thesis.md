@@ -612,3 +612,18 @@ mechanics + Fed-Trap. Upgrades the capex-gap razor.
 - *(net for tonight's GOOGL sell)* The market may be pricing not just capex-level or financing-means, but that the entire
   cloud-monetization ESCAPE ROUTE is being commoditized by the very capex race meant to justify it. The razor's darkest branch.
   [[ai-capex-cycle]], [[compression-thesis]] (razor).
+
+#### 2026-07-22 ~3:35pm PT — CFO confirms the margin squeeze IN REAL TIME — but it's SHORTAGE, not glut (yet); payer/seller razor explicit
+- *(DATA — Alphabet call, ZH)* **CFO: plans to EXPAND use of THIRD-PARTY capacity in 3Q; sees MODEST MARGIN PRESSURE from
+  third-party capacity.** **CEO: next-gen frontier models "will be MUCH LARGER"** (Jake's TL/DR: "please stop hammering us
+  for our out-of-control capex" — the capex-has-no-ceiling justification). Confirms Jake's margin-squeeze call minutes after he made it.
+- *(THESIS — the mechanism flips the read; calibration on the bear)* Google building **$205B of its OWN** capacity AND
+  renting MORE third-party, and renting COSTS it margin → capacity is **TIGHT and EXPENSIVE**, i.e. a **SHORTAGE** signal,
+  NOT a glut. If it were a glut, third-party rates would be cheap w/ no margin hit. So: **margin-squeeze CONFIRMED (Jake
+  right), but the ROOT is bullish-demand (compute still short), not bearish-glut — for now.** The glut is the FUTURE
+  overhang (when the capex lands); the CURRENT squeeze is cost-of-renting-into-a-shortage. Same symptom, opposite cause —
+  don't conflate. Tempers the 3:30pm "cloud→memory-glut" supplement: convergence is a future risk, today it's scarcity.
+- *(payer/seller razor, made explicit by the company)* **Google (PAYER) eats the rental cost → margin pressure → GOOGL
+  red. Neoclouds (SELLERS) collect Google's rental $ → IREN/NBIS/CRWV green all week.** Google "expanding third-party
+  capacity" = literal CONFIRMATION of the neocloud revenue thesis. The buyer's margin hit IS the seller's revenue — one
+  fact, two seats. Explains the week's GOOGL-down/neocloud-up split. [[ai-capex-cycle]], [[market-fragility]].
