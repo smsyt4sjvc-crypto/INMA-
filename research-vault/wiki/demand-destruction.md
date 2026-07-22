@@ -1748,3 +1748,24 @@ Source: Jake's VAULT HEADLINE SCAN (14:24 UTC), same-session confirmation of the
 - *(the real pain is in PRODUCTS again)* Gasoline +$1 while crude builds = the crack/products thread ([[oil-value-chain]]):
   "crude trades the probability, products trade the actual shortage." The consumer/political pain (gas, Trump "under
   pressure over gas prices") is a PRODUCTS story, not a flat-crude story. Refiners capture it.
+
+### 2026-07-22 ~7:40am PT (Wed, ZH scroll) — ceasefire DEAD ("no negotiations") + Cushing "tank bottoms" = a crack in the suppression stack
+Source: Jake ZH feed scroll. Updates the 7:30am entry.
+#### DATA (as-reported)
+- **"IRAN SAYS CURRENTLY NO NEGOTIATIONS WITH THE US: MEHR"** + "Iran to fight with everything it has if US sets foot
+  on land" + Rubio "Iran's in a lot of trouble" + more attacks on Bahrain/Saudi/Jordan, explosions in Sirik. **Diplomacy
+  track = dead** (vs Tue's "10-day ceasefire proposal received").
+- **"Oil Soars To Six-Week Highs Amid Trump Threats, US Production DIP, & 'TANK BOTTOMS' AT CUSHING."** **"IRAN THREATENS
+  ENERGY SITES IF US HITS POWER PLANTS: TASNIM."** **Futures SLIDE ahead of Google earnings as Brent surges >$95.**
+- Trump: US will destroy a bridge/power plant for each Iranian attack on shipping. ADNOC approves $6.2B Abu Dhabi gas.
+#### THESIS (interpretation — NOT fact)
+- *(Option 2 confirmed as the path)* "No negotiations" kills the ceasefire cap this-morning's read hinged on. The fork
+  resolved toward the **campaign branch** → premium no longer capped by imminent-diplomacy → $95 + $100 in view.
+- *(⚠️ a CRACK in the "inventories build = suppression stack on" read — hold the nuance)* This morning: "US crude
+  inventories BUILD." Now: **"tank bottoms at Cushing" + "US production dip."** Not contradictory — AGGREGATE US crude
+  can build (SPR/Gulf) while **Cushing (the WTI delivery hub) draws to operational tank bottoms.** Cushing tank bottoms
+  is a real physical-tightness signal AT THE PRICING POINT, even with ample aggregate stocks. So the suppression stack
+  isn't fully "on" — it has a hub-level crack. Still not the clean export-cutoff tell (Iran THREATENS energy sites, not
+  yet hit), but the physical-tightness read is firmer than the aggregate-build headline alone implied. Watch Cushing.
+- *(risk finally flinching)* Futures SLIDING ahead of GOOGL = the first session equities give the war/oil any respect,
+  and it coincides with the mega-cap-earnings catalyst. Marker firing + earnings gate = today is the first real 2-way test.
