@@ -595,3 +595,20 @@ mechanics + Fed-Trap. Upgrades the capex-gap razor.
   margin of the segment it's added to. $205B capex + $32B M&A + shrinking buyback = every allocation lever pulled
   shareholder-adverse in one print. ⚠️ Fairness: Wiz is strategically sound (cloud-security moat, should be accretive
   post-integration) — a NEAR-TERM profit weigh-down, not a permanent impairment. But near-term is what sold tonight.
+
+#### 2026-07-22 ~3:30pm PT — supplement (Jake): Meta entering cloud = the hyperscalers converging on the MEMORY dynamic
+- *(DATA/context)* Jake: "Meta entering cloud market." Consistent w/ logged Meta moves (leasing excess compute to Anthropic
+  7/17; "selling excess compute" → neoclouds dumped 6-10%). Formalizes hyperscaler-as-compute-landlord.
+- *(THESIS — the vicious circle)* A THIRD source of Google-Cloud margin squeeze (competitive supply) atop Wiz + the $205B
+  depreciation ramp. Bigger: every hyperscaler spends $100-200B capex, then ALL become compute landlords to monetize it →
+  they compete each other's cloud/compute-rental margins DOWN. The arms race MANUFACTURES the glut that undercuts its own
+  payoff — spending record sums to win a market they're simultaneously commoditizing.
+- *(the memory distinction PARTIALLY COLLAPSES — Jake's own 1:10pm point, turned on itself)* This afternoon: memory capex =
+  self-harming (glut crashes your own product price) vs hyperscaler capex = just a monetization gap (NOT self-harming).
+  **Meta entering cloud is the hyperscalers CONVERGING toward the memory dynamic:** when they all build + rent out compute,
+  COMPUTE becomes the commodity, and they crash its price by oversupplying it = the memory glut mechanism. Meta entering
+  BECAUSE it has EXCESS compute = the glut tell (supply ahead of its own demand). The "hyperscaler capex isn't self-harming"
+  escape hatch WEAKENS the moment cloud commoditizes into oversupply. **Cloud is starting to behave like memory.**
+- *(net for tonight's GOOGL sell)* The market may be pricing not just capex-level or financing-means, but that the entire
+  cloud-monetization ESCAPE ROUTE is being commoditized by the very capex race meant to justify it. The razor's darkest branch.
+  [[ai-capex-cycle]], [[compression-thesis]] (razor).
