@@ -18,6 +18,14 @@ Related: [[measure-tool-product]] · [[architecture]] · [[state]]
   > | 5/4×9.25 (nom ×10) | **$82.80 — SPECIAL ORDER, 8-wk lead** | **$49.40** stock |
   > ⚠ Wide ColorPlus (×10) = 8-week lead + ~1.7× primed price — never spec a
   > white wide band without checking lead time. **No 4/4 quoted yet.**
+- [2026-07-22] ⚠ TRIM-COLOR precision (Jake correction): HardieTrim is sold both
+  **primed** (paintable, any color, field-finished) and **ColorPlus** (factory
+  prefinished). **Arctic White is the only ColorPlus trim color Convoy stocks**
+  — other prefinished colors are special-order (added cost + lead time). Do NOT
+  say "all trim is white": primed trim in any color is available; the White-only
+  limit is specific to the *prefinished* product. Correct phrasing on estimates:
+  "White is the only stock ColorPlus (prefinished) trim color; other prefinished
+  colors are special-order. Primed trim is field-painted to any color." 
 - [2026-07-22] Jake's stock rules: anything installed BEFORE panels = **5/4**
   (window trim, frieze, belly band, skirt); anything AFTER = **4/4** (corners).
   Belly band standard **5/4×8**; frieze = 5/4×4 ripped (buy run÷2).
