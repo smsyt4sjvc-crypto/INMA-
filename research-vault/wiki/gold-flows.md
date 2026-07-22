@@ -80,3 +80,10 @@ Source: Jake paste, Goldman Sachs "Exhibit 2" (IFS / UK HMRC / GS Global Investm
   are lumpy — the TREND (blue>red, persistent) is the signal, not the 48t print.
 - *(book — descriptive, unchanged)* Hardens debasement base case; gold = debasement referee NOT equity hedge (SPY
   puts do that). No buy rec — sizing/timing Jake's; if ever held, bucket-4 insurance, small, entered on weakness.
+
+## 2026-07-22 ~7:26am PT — gold new highs ($4,161) WITH equities at new highs + VIX sub-17 = debasement, not fear
+Source: Jake live-price cell. DATA: GC=F 4,161 (+0.62%, new high; ~4,056 Tue), GLD +1.66%, DXY 101.06 soft, SPX 7,501
+new high, VIX 16.87. THESIS (analysis): gold ripping while stocks ALSO make highs and VIX stays calm rules out a fear
+bid (fear = VIX up + equities down). This is the real-assets/liquidity/debasement referee doing its job — war premium +
+the standing debasement pull, concurrent with the equity melt-up. The "everything up" tape (stocks+oil+gold) = liquidity
++ real-asset hedge together, not risk-off. Consistent with the [[new-economy-regime]] M2/debasement read. [[demand-destruction]].
