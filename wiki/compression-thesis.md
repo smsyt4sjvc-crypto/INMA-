@@ -520,3 +520,17 @@ Source: OpenAI disclosure (Tue 7/21) via Fortune / Euronews / TheNextWeb / QZ (J
   strengthened (helps the safety/regulate-ALL-frontier argument); the "open is UNIQUELY dangerous" case is what's
   damaged (the margin-defense angle) — since the breacher was closed and the defender was open. Direction of the update
   is unchanged from the 7:40am entry; the Monday pause just makes it a trend line instead of a point.
+
+#### 2026-07-22 ~1:10pm PT — refinement (Jake's memory pattern-match): "beat sold on capex" has TWO different mechanisms
+Prompted by Jake: "remembering Samsung, SK Hynix, MU — knocked earnings out and all fell when the capex hit the sheets."
+Correct PATTERN (= the TSMC-77%-beat-sold template), but the MECHANISM differs by name-type, and the difference is tradeable:
+- **Memory (MU/SK Hynix/Samsung) capex fear = future GLUT (supply-side self-harm).** Big capex → over-build HBM/DRAM →
+  oversupply → the SPOT PRICE OF THEIR OWN PRODUCT crashes → margins collapse. Their capex directly threatens their
+  revenue. A blowout quarter sells because the guide signals the next down-cycle. The glut math punishes almost mechanically.
+- **Hyperscaler (GOOGL) capex fear = the MONETIZATION GAP (demand/return-side).** GOOGL's capex doesn't glut a commodity
+  GOOGL sells (search/ads/Cloud aren't spot-priced). Fear = depreciation outruns the revenue the capex generates + "return
+  or void?" The capex is a cost but ALSO builds sellable Cloud capacity + a Gemini moat → it can be framed as demand-confirmed.
+- *(consequence — the escape hatch memory never had)* GOOGL repeating the memory sell-off hinges MORE on the GUIDE FRAMING
+  (naked raise = sell / raise-with-backlog = relief) than memory did, because GOOGL's capex isn't self-evidently self-harming.
+  This is WHY the razor points at the guide language, not the beat: for memory the capex WAS the risk; for GOOGL it's a
+  framing question that resolves in the guidance. Sharpens the [[ai-capex-cycle]] capex-gap razor + the "own smallest-gap" call.
