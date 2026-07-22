@@ -1769,3 +1769,22 @@ Source: Jake ZH feed scroll. Updates the 7:30am entry.
   yet hit), but the physical-tightness read is firmer than the aggregate-build headline alone implied. Watch Cushing.
 - *(risk finally flinching)* Futures SLIDING ahead of GOOGL = the first session equities give the war/oil any respect,
   and it coincides with the mega-cap-earnings catalyst. Marker firing + earnings gate = today is the first real 2-way test.
+
+### 2026-07-22 ~1:25pm PT — Ghalibaf "Hormuz won't return to pre-war" = a THREAT (words), not a trigger — but on a firing backdrop
+Source: Jake paste (breaking). Iran Speaker of Parliament Ghalibaf: Strait won't return to pre-war conditions; "In a
+region where we do not sell oil, no one will sell oil. If our security is not ensured, no infrastructure will be safe."
+#### DATA (as-reported)
+- Formal official (Speaker) declaration Hormuz stays impaired; explicit "we take everyone's exports down with us" +
+  threat that "no infrastructure will be safe" (i.e. Gulf energy EXPORT infra = the Abqaiq-class target set).
+#### THESIS (interpretation — NOT fact)
+- *(WARNING vs TRIGGER — the discipline holds)* This is a **WORDS event.** Per the marker framework, declarations/threats
+  do NOT hold crude above $90 — only a physical export cutoff does. The marker does NOT flip on a Speaker's quote. Base
+  rate: Iran has threatened to close Hormuz repeatedly (2011/2012/2019/2024) and never fully did — closure cuts its OWN
+  revenue + China's supply + invites the US Navy. The threat is cheap and self-harming to execute. **Fade the words.**
+- *(the calibration — NOT words-in-a-vacuum this time)* Unlike the four earlier fades, this lands ON firing physical
+  tells (ceasefire dead, UKMTO abandoned tanker, Kpler 7→4 vessels, Cushing tank-bottoms). So it's rhetoric CONFIRMING
+  a physical direction already in motion — it RAISES the ODDS of the actual trigger (tell (a): a Gulf export-infra strike)
+  without BEING it. Read it as the **pre-announcement of tell (a)**, logged as ◻︎ THREAT, not a fired trigger.
+- *(what to actually watch)* The quote is intent-signaling. The uncapping is if Iran ACTS on "no infrastructure will be
+  safe" — a strike on Saudi/UAE crude EXPORT capacity (Abqaiq-class) or an actual strait closure/mining. THAT reprices;
+  the soundbite doesn't. If crude gaps on the quote ALONE (no strike), that's the faders' setup per the framework.
