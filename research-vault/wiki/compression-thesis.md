@@ -554,3 +554,30 @@ Source: Jake's AH chart (GOOGL $328.98 −3.85%) + Alphabet FY26 capex guide rai
   PRICE gives first (the Nifty-Fifty time-correction, live on GOOGL). [[ai-capex-cycle]], [[ai-financing-fragility]] (FCF burn).
 - *(calibration — my miss, Jake's hit)* I leaned escape-hatch off the operating beat; Jake's "capex sells it" instinct was
   right. Logged in `_scoreboard.md`. The guide, not the P&L, was the print — as the razor said, but the SIGN went Jake's way.
+
+## 2026-07-22 ~3:15pm PT — Jake's razor UPGRADE: it's the MEANS of financing, not the capex number
+Jake, post-GOOGL-grade: "the number matters less than the actual means in which they're getting it... they're not doing
+buybacks that support the share price, they're borrowing, rates hold or rise with the war, next print (August) won't be
+great — how they're financing it is more important than the number." A synthesis across compression + financing + buyback
+mechanics + Fed-Trap. Upgrades the capex-gap razor.
+### THESIS (interpretation — NOT fact; Jake's, sharpened)
+- *(the regime flipped, and THAT'S the de-rate)* $205B is a scalar; what re-rated GOOGL is the recognition (mainstreamed
+  since last earnings) that the **capital-allocation regime went shareholder-FRIENDLY → shareholder-ADVERSE.** The market
+  priced the MEANS, not the level. Same number, opposite meaning by how it's funded + what it displaces. This is why the
+  sell went THROUGH a Cloud beat — it's pricing the financing regime for the next several quarters, not this print.
+- *(TWO channels, split by name-quality — the sharpening)* **Channel 1 = buyback crowd-out (GOOGL's).** Google is
+  cash-rich, funds capex from OCF — but $205B stretches even its cash, and the **BUYBACK is the first casualty.** The Mag-7
+  buyback was a ~$200B+/yr PRICE-INSENSITIVE bid under their own shares (the mechanical bid, [[detachment-bid]]); capex
+  eating it PULLS THE STRUCTURAL BID out from under the crowded names → de-rates the multiple INDEPENDENT of earnings
+  (pure share supply/demand). **Channel 2 = actual debt-funding (the weaker complex: Oracle/Meta-$12B-bond/neoclouds/AMD-
+  Anthropic, increasingly GOOGL).** Debt-funded capex into HIGHER-FOR-LONGER = a double hit: long-duration payoff pushed
+  out (higher discount rate crushes PV) AND rising debt cost. War→oil→inflation→Fed trapped turns both screws at once
+  ([[ai-financing-fragility]] meets the [[new-economy-regime]] Fed Trap).
+- *(the vulnerability WORSENS down the quality ladder)* GOOGL took −3.85% on the GENTLEST version (just losing the
+  buyback, no real debt stress). The names actually BORROWING into higher-for-longer have the HARDER version coming.
+  Google is the floor of the problem, not the ceiling. Refines the "own smallest-gap / fade widest-gap" call: now also
+  **fade the DEBT-funded over the CASH-funded** — the financing structure is a new axis of the razor.
+- *(the August front-run)* Market sold a good print because it's pricing a NEXT quarter where buyback-shrunk + rates-held/
+  higher (war-inflation) + debt-repricing bite together. Front-running the regime, not grading the quarter.
+- *(razor, restated)* The question is no longer only "does revenue catch the capex" — it's **"how is the capex FUNDED, and
+  what does it DISPLACE (buyback vs debt)."** Financing structure is now a first-class axis of the compression read. [[ai-capex-cycle]].
