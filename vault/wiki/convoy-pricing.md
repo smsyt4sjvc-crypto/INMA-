@@ -8,7 +8,16 @@ Related: [[measure-tool-product]] · [[architecture]] · [[state]]
 - [2026-07-22] Sheet 4×10 cedarmill B&B: **ColorPlus (Arctic) White $90.05** ·
   **Primed $82.95** (40 SF/sheet → 2.5 sheets per square).
 - [2026-07-22] Batts 10': **ColorPlus $23.80** · **Primed $13.95**.
-- [2026-07-22] 5/4 trim ≈ **$21.30 per 12' pc** (~$1.775/LF).
+- ~~[2026-07-22] 5/4 trim ≈ $21.30 per 12' pc~~
+  > 🔄 UPDATED [2026-07-22]: real Convoy quote came in — Hardie Trim RUSTIC
+  > GRAIN, 12' pcs, 5/4 (actual widths):
+  > | Size (actual) | ColorPlus Arctic White | Primed |
+  > |---|---|---|
+  > | 5/4×3.5 (nom ×4) | **$20.70** stock | **$18.70** stock |
+  > | 5/4×5.5 (nom ×6) | **$32.50** stock | **$29.40** stock |
+  > | 5/4×9.25 (nom ×10) | **$82.80 — SPECIAL ORDER, 8-wk lead** | **$49.40** stock |
+  > ⚠ Wide ColorPlus (×10) = 8-week lead + ~1.7× primed price — never spec a
+  > white wide band without checking lead time. **No 4/4 quoted yet.**
 - [2026-07-22] Jake's stock rules: anything installed BEFORE panels = **5/4**
   (window trim, frieze, belly band, skirt); anything AFTER = **4/4** (corners).
   Belly band standard **5/4×8**; frieze = 5/4×4 ripped (buy run÷2).
