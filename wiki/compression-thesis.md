@@ -534,3 +534,23 @@ Correct PATTERN (= the TSMC-77%-beat-sold template), but the MECHANISM differs b
   (naked raise = sell / raise-with-backlog = relief) than memory did, because GOOGL's capex isn't self-evidently self-harming.
   This is WHY the razor points at the guide language, not the beat: for memory the capex WAS the risk; for GOOGL it's a
   framing question that resolves in the guidance. Sharpens the [[ai-capex-cycle]] capex-gap razor + the "own smallest-gap" call.
+
+## 2026-07-22 ~1:40pm PT — the razor cut BEARISH on the FLAGSHIP: GOOGL −3.85% AH on a $205B capex guide (escape hatch FAILED)
+Source: Jake's AH chart (GOOGL $328.98 −3.85%) + Alphabet FY26 capex guide raised to "up to $205B." Grades the 1:10pm memory-refinement live.
+### DATA (observed)
+- Alphabet **raised FY26 capex guide to up to $205B** (naked hike). GOOGL sold **−3.85% to $328.98 AH** despite: Cloud
+  **+10% beat** ($24.77B vs $22.46B est), rev ex-TAC +2.5% beat, a **$99B equity-securities mark** inflating GAAP EPS.
+- Kobeissi (sentiment barometer) framed it euphoric-bull ("once-in-a-lifetime revolution, Mag-7 to $1T combined capex").
+### THESIS (interpretation — NOT fact)
+- *(the razor cut bearish on the biggest name, on the capex line)* The 7/22 memory-refinement said GOOGL had an escape
+  hatch memory lacked (frame capex as demand-confirmed). **It FAILED.** The market treated $205B as spending-into-a-void
+  and sold it THROUGH a +10% Cloud beat AND a $99B GAAP-EPS windfall. The naked forward-guide hike overwhelmed everything
+  — the TSMC-77%-beat-sold template, now on the flagship hyperscaler. Capex-gap razor → BEAR branch, confirmed on GOOGL.
+- *("markets nervous if hyperscalers RAISE capex" — confirmed live)* The week's headline made literal: the tape PUNISHED
+  the capex raise. This is a real crack in the melt-up — the first session the market said NO to the capex on a mega-cap.
+- *(the healing path is now narrower)* $205B at ONE company = capex is ACCELERATING, not decelerating. Per the resolution
+  mechanism, the ONLY heal left is revenue-catching-capacity + input deflation (Cloud +10% is a down payment) — but the
+  market just voted that today's Cloud beat does NOT yet justify tomorrow's $205B. Earnings-grow-into-valuation, but the
+  PRICE gives first (the Nifty-Fifty time-correction, live on GOOGL). [[ai-capex-cycle]], [[ai-financing-fragility]] (FCF burn).
+- *(calibration — my miss, Jake's hit)* I leaned escape-hatch off the operating beat; Jake's "capex sells it" instinct was
+  right. Logged in `_scoreboard.md`. The guide, not the P&L, was the print — as the razor said, but the SIGN went Jake's way.
