@@ -642,3 +642,33 @@ Source: Jake's VAULT HEADLINE SCAN (2026-07-22 14:24 UTC). Two items that harden
 - *(book — descriptive)* Reinforces: the loser is the closed-lab/AI-infra DEBT and private marks, not a clean short.
   Picks-and-shovels (the chip vendors) keep booking the revenue even as they fund it — until the funding stops.
   [[compression-thesis]], [[market-fragility]].
+
+## 2026-07-22 ~3:50pm PT — the CREDIT LEG fires across names: hyperscaler bonds "slaughtered," SpaceX bonds at JUNK, G-spread RECORD
+Source: ZeroHedge posts (Jake paste). The debt leg of the whole week's capex thread, in hard bond prices. Validates the
+7/22 "means-of-financing" razor upgrade (debt-funded names = the harder version).
+### DATA (observed / as-reported)
+- **SPCX (SpaceX) 6.65% 2056 bond: dipped BELOW 89 (~89.1), YTW climbs to 7.6% — "another record low," "trading alongside
+  JUNK," "G-spread new record."** Price fell ~98 (late Jun) → ~89 (Jul 22), −10%.
+- **"Hyperscaler bonds getting slaughtered again"** (concurrent). Ties the week's chain: Oracle CDS multi-year high (7/20),
+  "AI datacenter debt = top of Wall Street credit-risk watchlist" (7/22 AM), BlackRock $12B Meta bond (7/21).
+- Backdrop: equity "momentum melting up (oversold)" SAME TIME — credit down, equity up.
+### THESIS (interpretation — NOT fact)
+- *(the break shows in CREDIT before equity — the core fragility thesis, firing)* Bonds slaughtered while equities melt up
+  = the exact divergence [[ai-financing-fragility]] watches for. The credit leg has built all week (Oracle CDS → watchlist
+  headline → now hyperscaler+SpaceX bonds at record spreads) and hit RECORDS. Equity gave GOOGL −3.85%; credit is repricing
+  the debt-funded buildout toward distress. The stress the equity tape is ignoring is screaming in the bond market.
+- *(validates the "gentle vs hard version" split, same day)* GOOGL took the GENTLE version tonight (lost the buyback, no
+  debt stress — it's cash-rich). The DEBT-funded names (SpaceX, the levered hyperscaler paper, neoclouds) are taking the
+  HARD version — and it's not "coming," it's PRINTING in credit now. The quality-ladder call ([[compression-thesis]] razor
+  upgrade): vulnerability worsens down the ladder, confirmed in bond prices within hours of logging it.
+- *(discipline — it's CREDIT, not just duration)* A 2056 bond has huge duration → part of the drop is the war→higher-for-
+  longer rate backdrop hammering all long bonds. BUT **"G-spread new record"** isolates the CREDIT component (spread OVER
+  govvies) — a record there = genuine default/refi-risk widening, not a rates illusion. Both forces act; the record G-spread
+  confirms real credit fear, not just duration.
+- *(WARNING vs TRIGGER — canary singing LOUD, not yet the cat)* Record credit spreads are the LEADING EDGE of a funding-
+  chain break and closer to a trigger than anything all week (dated, mechanical, measurable). But bonds "below 90 / 7.6% /
+  junk-adjacent" = STRESS, not yet a DEFAULT or a FAILED REFINANCING. The trigger fully fires when a specific name can't
+  ROLL its debt / a deal fails to price. Not there yet — but the spread-blowout is the real precursor, at records. Watch
+  refis/new issues (does the next AI-datacenter bond price wide or PULL?).
+- *(SPCX now a live fragility gauge)* Ties [[reflection-ai]] (SpaceX = the Reflection AI datacenter host) + the SpaceX
+  equity thread. SpaceX debt at junk spreads = a checkable, tradeable-adjacent fragility tell to track alongside Oracle CDS.
