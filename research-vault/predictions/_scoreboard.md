@@ -20,3 +20,14 @@ grading uses the actual open/close prints Jake pastes.
 
 ## CALIBRATION STATS (updated as sets grade)
 - Sets graded: 1 (pending exact SOXX/MU/NDX/WTI prints) | Direction: ~4/5 | Range coverage: 60% (target 80% — ranges too narrow) | Shape: 0/1 | Kill switches triggered: 1 (event fired, magnitude over-predicted)
+
+## GRADE — Jake's GOOGL call (2026-07-22-googl-earnings.md) + Set #3 branch 2
+- **Base:** GOOGL Wed 7/22 close $342.09. **Call (Jake):** → 318-319 (−7%) on the print, reason = capex won't justify valuation.
+- **Result (AH ~7pm PT, developing):** GOOGL **$328.98, −3.85%** after Alphabet raised FY26 capex guide to **up to $205B**
+  (naked hike). Cloud beat +10% + $99B equity-mark did NOT save it.
+- **DIRECTION: HIT** (sold on the capex line, Jake's exact mechanism). **MAGNITUDE: ~55%** (−3.85% vs −7% target; still AH,
+  can extend/firm by the open — final at Thursday open).
+- **Set #3 KILL-SWITCH BRANCH 2 FIRED** ("GOOGL beats earnings but RAISES capex hard → sells the beat, TSMC-77% template").
+- **Claude's miss (logged loud):** I leaned escape-hatch off Cloud +10% ("numbers lean AGAINST 318-319"). Correctly named the
+  GUIDE as the decider, bet the wrong way on it. Jake's capex-instinct beat my demand-confirmed lean. Lesson: when the
+  forward capex guide is a NAKED hike of this size ($205B), it overwhelms an operating beat — the guide IS the print.
