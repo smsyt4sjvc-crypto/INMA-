@@ -841,14 +841,17 @@ function lfForType(type, w){
   const t = (type||'').toLowerCase();
   const len = num(w.len), ht = num(w.ht);
   const sumW   = (w.openings||[]).reduce((a,o)=> a + num(o.w)*(num(o.count)||1), 0);
-  // Windows case all 4 sides (perimeter); doors only 3 (two legs + head).
+  // Tradesman split — header is its own piece, so casing EXCLUDES tops:
+  // windows = 2 legs + sill (2h + w); doors = 2 legs only (2h).
   const casing = (w.openings||[]).reduce((a,o)=>{
     const c = num(o.count)||1;
-    const per = o.kind==='door' ? (2*num(o.h) + num(o.w)) : 2*(num(o.w)+num(o.h));
+    const per = o.kind==='door' ? (2*num(o.h)) : (2*num(o.h) + num(o.w));
     return a + per*c;
   }, 0);
+  const winW = (w.openings||[]).reduce((a,o)=> a + (o.kind==='door' ? 0 : num(o.w)*(num(o.count)||1)), 0);
   if (/corner/.test(t)) return Math.ceil(ht);
   if (/casing/.test(t)) return Math.ceil(casing);
+  if (/sill/.test(t)) return Math.ceil(winW);            // sills alone: window widths only
   if (/z.?flash/.test(t)) return /belly|band|skirt/.test(t) ? Math.ceil(len) : Math.ceil(sumW);
   if (/header|head/.test(t)) return Math.ceil(sumW);
   // Frieze/rake = the full "siding tops out" line under the soffit:
@@ -869,7 +872,7 @@ function lfForType(type, w){
 }
 function trimSuggestions(w){
   return [
-    { type:'Window/door casing' },
+    { type:'Casing — legs + sill' },
     { type:'Header trim' },
     { type:'Z-flashing' },
     { type:'Outside corner' },
