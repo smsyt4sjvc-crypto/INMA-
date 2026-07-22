@@ -51,6 +51,12 @@ Related: [[_persona]] · [[_guardrails]] · [[architecture]] · [[positioning]] 
   = 4,379.4 SF (43.8 SQ), 12 walls, full trim rollup. Material list built
   against Convoy pricing ([[convoy-pricing]]): white pkg ≈ $19.6k known
   (panels+batts+5/4) / primed ≈ $15.6k, accessories TBD.
+- [2026-07-22] Cross-referenced the Bauer field sheet against the
+  Independent Home Designs plans (2728 Rancher): NW 92'/20' walkout, 30'
+  garage wing, 34' east, 339.5 LF perimeter, B&B + 4/4 corners all match.
+  Three verify-flags: plan pitch marks ~7/12 vs field rises implying 4–5/12;
+  garage doors (plan: two 18×8) vs entered 180/80 SF; plan specs 1×4 window
+  trim / 1×10 skirt vs Jake's 5/4 standard (deliberate upgrade).
 - [2026-07-10] Offer board is empty (test files cleared). No live real offers
   posted yet. No contractor applications recorded in the vault yet.
 
