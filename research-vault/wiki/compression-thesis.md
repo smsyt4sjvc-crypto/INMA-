@@ -581,3 +581,17 @@ mechanics + Fed-Trap. Upgrades the capex-gap razor.
   higher (war-inflation) + debt-repricing bite together. Front-running the regime, not grading the quarter.
 - *(razor, restated)* The question is no longer only "does revenue catch the capex" — it's **"how is the capex FUNDED, and
   what does it DISPLACE (buyback vs debt)."** Financing structure is now a first-class axis of the compression read. [[ai-capex-cycle]].
+
+#### 2026-07-22 ~3:20pm PT — supplement (Jake): the CFO undercut the escape hatch — Wiz "to weigh on Cloud profits"
+- *(DATA)* Alphabet CFO on the call: the **Wiz acquisition (~$32B) will WEIGH ON Cloud PROFITS.** Cloud REVENUE beat +10%
+  ($24.77B) but the CFO flagged segment PROFIT pressure.
+- *(THESIS — why it matters, Jake's catch)* The escape hatch was Cloud strength = "capex justified." But the heal mechanism
+  needs Cloud MARGIN expanding (revenue-per-depreciation-dollar rising), not just top-line. **The CFO said the profit side
+  is going backward.** Cloud squeezed from BOTH sides: Wiz integration dilution (now) + the $205B capex DEPRECIATION ramp
+  (coming) into the same cost line. So the market sold THROUGH the +10% because the beat was top-line while the
+  profit-trajectory — the thing that validates the capex — is deteriorating. The escape hatch was flimsier than the revenue
+  headline implied.
+- *(ties the financing-means point)* Wiz = another ~$32B of cash to build/BUY, not to shareholders — and it DILUTES the
+  margin of the segment it's added to. $205B capex + $32B M&A + shrinking buyback = every allocation lever pulled
+  shareholder-adverse in one print. ⚠️ Fairness: Wiz is strategically sound (cloud-security moat, should be accretive
+  post-integration) — a NEAR-TERM profit weigh-down, not a permanent impairment. But near-term is what sold tonight.
