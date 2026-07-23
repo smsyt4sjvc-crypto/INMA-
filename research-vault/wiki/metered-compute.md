@@ -118,3 +118,18 @@ Correct — Claude conflated THE THESIS with WHAT PRICES THE STOCK. Fixing the e
 - *(practical)* Track the agentic thesis on ITS OWN metrics (x402 vs MPP adoption, Bridge vs Coinbase USDC volume, Stripe
   agentic-commerce ramp — the May watch-list), NOT the stock charts (which scream BTC/CLARITY). The volume data flags the
   conversion YEARS before the stock does. [[agentic-payments]].
+
+### 2026-07-23 ~1:25pm PT — Jake: Intel ≠ check-writer (no financing loop) + "mansions in high demand too" (demand is muddy in a debasement)
+- *(Intel is a DIFFERENT animal — refines the "wrong name" point)* Intel = a real CPU business (modest capex, real revenue,
+  NO circular wire / off-B/S paper / lease backstops). Its beat is a real-business datapoint, structurally distinct from the
+  LEVERAGED hyperscaler earnings. → can't read Intel's health as validating the hyperscaler capex/financing thesis. Different species.
+- *(Jake punctures the "unprecedented demand" bull datapoint — correct)* Claude over-credited Lip-Bu Tan's "unprecedented
+  compute demand" as clean demand-thesis confirmation. Jake: "mansions are in high demand too." In a liquidity-flooded/
+  DEBASEMENT regime, demand is high for EVERYTHING (compute, mansions, gold, luxury) — high demand is what a liquidity TOP
+  looks like, a symptom of the MONEY not the fundamentals. His own debasement thesis applied to the CEO quote. Over-credit conceded.
+- *(⚠️ but the analogy PRESUMES the answer — the razor stays open)* Mansion demand = SPECULATIVE (held for appreciation =
+  asset inflation). Compute demand IF productive-use = CONSUMPTION (tokens BURNED doing work = like electricity/oil: recurring,
+  real). The analogy assumes compute-demand-is-speculative-like-mansions; the OPEN question (the metered-compute razor) is
+  productive-consumption (real, like power) vs speculative-buildout (mansions / 2000-fiber). "Unprecedented demand" doesn't
+  resolve it (Jake's right) AND neither does the mansion analogy (presumes speculative). Resolves in DATA: utilization, does
+  revenue RECUR, are tokens doing real work — NOT a CEO quote or a metaphor. Both skepticism + demand-thesis stay hypotheses.
