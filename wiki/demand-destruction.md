@@ -1830,3 +1830,28 @@ on Saudi Arabian tankers"; Murban (Abu Dhabi crude) surged to $112.56 (+26%).** 
   gapping. This is the biggest oil move of the war and the first time the premium GAPS not grinds. Diplomacy dead. ⚠️ Still
   not a confirmed export-TERMINAL destruction (Abqaiq infra intact) and $100 was an intraday "leap/hover" (some fade) — but
   the character changed from "capped grind" to "gap." Watch: does it hold >$100 / does an actual terminal get hit → 2008-peak path.
+
+### 2026-07-23 ~9:15am PT — marker HOLDS >$100 (real uncap); Aramco EXPLICITLY threatened (catastrophic tell primed); off-ramp closing
+Source: Jake paste (ZeroHedge, 9:20am ET). The premium STICKS above $100 (vs 4 prior fades) — a genuine state-change.
+#### DATA (tiered)
+- **✅ CORROBORATED (British maritime monitors):** one Saudi tanker hit on the TOP DECK (fire, NOT a sinking); second tanker
+  U-TURNED to Suez; **10+ vessels rerouting Bab-el-Mandeb → Suez / Cape of Good Hope.** **Brent HELD >$100** (highest since
+  May 26). US 12th consecutive night of strikes on Iran; Iran retaliating on Bahrain/Jordan/Kuwait.
+- **⚠️ CLAIM (Iranian-aligned):** "Aramco facilities could be next" = UNNAMED Houthi sources via Al Jazeera (belligerent
+  signaling intent). **⚠️ CLAIM (US side):** Rubio "Iran is begging for a deal" — ZH: "no public indicators show this,"
+  contradicted by Iran enforcing red lines. Both sides talking their book — discount both.
+- Credible strategic read (Joe Kent, ex-NCTC dir): "bombing campaign in search of a strategy... more bombing won't open the
+  Strait, will harden Iran." Trump: "considering a massive attack... close to a decision"; "will hold Iran responsible for Houthi attacks."
+#### THESIS (interpretation — NOT fact)
+- *(the real uncap — PRICE + TRANSIT)* Tells (c) [Bab-el-Mandeb functionally closed to Saudi shipping, 10 vessels rerouting]
+  + (d) [Brent gapped >$100 and HELD] are firing. Tell (a) [Aramco export strike] now EXPLICITLY THREATENED (biggest step
+  toward the catastrophic tell). (b) partial (deck fire + reroutes, no sinking/export-terminal loss). Most the marker has
+  ever fired: premium sticking >$100, second chokepoint shut. State-change from "capped grind" → "uncapped, premium durable."
+- *(the off-ramp is CLOSING = premium now durable, not fade-able)* The diplomacy cap that faded oil 4x is gone — Rubio's
+  "begging for a deal" uncorroborated, Iran enforcing red lines, 12th night of strikes. Kent: escalation w/o off-ramp,
+  no military solution. → the war PERSISTS/escalates → oil premium durable, not a spike to fade.
+- *(the catastrophic tail PRIMED, not fired)* An ACTUAL Aramco/export-terminal strike (2019 Abqaiq-class) = the $120-147
+  (RBC 2008-peak) leg. Explicitly threatened + Trump "close to massive attack" — but NOT executed. **That physical
+  export-capacity hit is still THE trigger + the weekend-gap risk.** Watch for it specifically.
+- *(book)* This IS the tail Jake's 2-SPY nibble under the ITM Dec-745 hedge is built for — and the concrete reason selling
+  the naked $724 put would've been short exactly the Aramco-strike weekend gap now being primed. Hedge on the right side.
