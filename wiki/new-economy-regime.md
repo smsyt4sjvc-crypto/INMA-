@@ -1223,3 +1223,17 @@ shrinking trade deficit keeps the dollar afloat?"
   lose purchasing power faster than exchange rate. **GOLD is the referee** — DOWN today (real rates/haven-$ up) = a rates-fear
   day, NOT a debasement day. Debasement tell = gold + $ rising TOGETHER, or gold ripping vs unjustified real yields. Watch the
   PAIR, not DXY alone. [[gold-flows]], [[demand-destruction]] (oil-inflation), [[compression-thesis]] (means-of-financing/rates).
+
+### 2026-07-23 ~9am PT — the TWO dollar values (why "strong $" and inflation coexist) [Jake's Q]
+Jake: "can he inflate the dollar along with prices, or can the dollar strengthen while things get more expensive?" YES — not
+contradictory, because "$ value" = TWO different rulers:
+- **INTERNAL value = purchasing power** (vs GOODS) = inverse of prices. Inflation = this FALLING (buys less bread).
+- **EXTERNAL value = exchange rate / DXY** (vs other FIAT) = a RELATIVE race where everyone's debasing. Dollar can RISE here
+  while losing purchasing power → "strongest horse in the glue factory" (losing value SLOWER than EUR/JPY).
+- *(mechanism)* Run hot → inflation → Fed can't cut → high US rates → capital inflow → $ strong on FX. The SAME rates that
+  erode purchasing power ATTRACT the capital propping the exchange rate. Both through one door.
+- *(why GOLD is the referee, made precise)* DXY = $ vs fiat (relative, rises even in debasement); GOLD = $ vs a FIXED real
+  thing (absolute). **Gold + DXY UP together = "all fiat weak, $ least-weak" = debasement in a strong-$ costume.** DXY alone hides it.
+- *(Trump tension)* He WANTS weak-$ (FX) for exports but run-hot can STRENGTHEN $ on FX via rate differential — opposite of
+  the goal. He controls the INFLATION (erodes nominal debt); the EXCHANGE RATE is the market's call. Impossible trinity: can't
+  get run-hot + weak-$ + low-rates all three. [[gold-flows]], [[financial-gravity]] concept.
