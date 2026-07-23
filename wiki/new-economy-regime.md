@@ -1174,3 +1174,26 @@ Source: Jake paste — viral "financial gravity" quote + Bloomberg chart (SPX In
 - *(the original claim's honest bounds)* "Flat since 2008" = RIGHT for 2009-2021 (QE, −0.4%/yr) and WRONG for
   2022-2026 (the 2.4x QT breakout). A true statement that expired mid-2022. The 4-yr decoupling (rally on broad
   money + earnings + AI capex, NOT the Fed) IS the [[market-fragility]] question, now quantified.
+
+## 2026-07-23 ~8:35am PT — tariffs = a SECOND inflation input stacking on oil into a boxed Fed (higher-for-longer reinforced)
+Source: Jake tariff briefing (as of 7/23/26). The 2025 IEEPA reciprocal/fentanyl tariffs were TERMINATED Feb 2026 (legal
+defeat); current = a temporary 10% global Section-122 surcharge + narrower 232/301/338 tariffs.
+### DATA (as-reported)
+- **10% global surcharge EXPIRES 12:01am ET Jul 24 (tonight)** unless extended/replaced. USTR Section 301 replacement (10%
+  / 12.5% on 60 economies, forced-labor basis) is teed up as successor — hearings done, no effective date.
+- Sector tariffs in force: **steel 50% / aluminum 25% (deriv) / copper 15%**; autos+parts 25%; **softwood lumber 10%**;
+  **cabinets/vanities 50%** (up from 25%); upholstered wood 30%. **AI chips 25%** (H200/MI325X) but BROAD exemptions (US
+  data centers, R&D, startups, public-sector) = gutted. **Brazil 25%** (active 7/22). **Canada +50%** on selected goods
+  (autos/dairy/alcohol + cement, wine, etc.) from **Aug 19** (energy/potash/critical-minerals/232 excluded).
+- **Patented pharma 100%** default from Jul 31 (large-co annex) — **but 0% thru 2029 for onshoring+MFN, 20% onshoring-only,
+  15% EU/JP/KR/CH, 10% UK; generics/biosimilars EXEMPT.** → **LLY** (book) likely exempt/reduced via onshoring, NOT the 100%.
+### THESIS (interpretation — NOT fact)
+- *(the inflation stack)* Tariffs = a SECOND inflation impulse layered on oil-$100 + war, right as 10Y/2Y hit YEAR HIGHS
+  and the Fed is boxed (jobless claims 1969-low, Warsh no-cuts). Reinforces higher-for-longer from a second source →
+  tightens the screw on the debt-funded AI buildout ([[compression-thesis]] means-of-financing; [[ai-financing-fragility]]).
+- *(tonight's binary)* A CLEAN lapse of the 10% surcharge (no replacement) = the disinflationary surprise (mild oil offset);
+  a Section-301 replacement = tariff-regime swap, inflation persists. Base case = swap, not tariffs-off. Watch for a
+  proclamation tonight. *(AI-chip tariff = non-event, exemptions gut it; discount for the capex thread.)*
+- *(real-economy tie — Jake's contracting COGS)* aluminum (window frames)/copper/steel/lumber/cabinets + the Aug-19 Canadian
+  cement list = direct input-cost creep on his bids. The same impulse spiking the 10Y lands on his material invoices — a
+  descriptive real-economy read, not a market call.
