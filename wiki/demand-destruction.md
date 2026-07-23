@@ -1808,3 +1808,11 @@ Source: Jake paste (Windward Maritime AI + UKMTO). Clean corroborated-vs-claimed
   the corroborated: marker update is **+1 corroborated tanker, not +2.** Same discipline that's held all week.
 - *(net)* Two chokepoints now physically active (Hormuz + Red Sea), both with corroborated struck vessels — the physical
   case is the firmest it's been. Still transit-disruption, not export-capacity destruction. Watch for the crude-terminal hit.
+
+### 2026-07-22 ~5:25pm PT (Wed close) — Brent ~$96 6-wk high; Iran SEIZES a tanker in Hormuz; diplomacy pronounced dead
+Source: Jake digest. DATA: **Brent BZ=F 95.98 (+4.12%), WTI 88.24 (+3.43%)** — 6-week high. "Iran apparently SEIZES Greek
+billionaire's tanker in Strait of Hormuz" (Fox/report ⚠️); "tankers make sharp U-turns after Houthi threat"; **Rubio: "Iran
+not serious about a deal"** (diplomacy dead, confirmed by US). "2nd key trade route disrupted." THESIS: premium building
+hard (Brent $95→$96), diplomacy cap fully gone. A tanker SEIZURE is a new physical action (Iran taking a vessel) — advances
+the transit-disruption case, but a seizure ≠ a crude-EXPORT-terminal cutoff. Still transit, not export-capacity; clean
+uncapping tell un-fired. Marker: firmest physical case yet (2 chokepoints + seizure), still sub-Abqaiq.
