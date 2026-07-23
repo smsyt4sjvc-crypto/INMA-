@@ -666,3 +666,17 @@ but FCF neg + Musk "patience" on robotaxi/Optimus). Anthropic ARR $74.3B (from $
   ([[metered-compute]]) but the FINANCING/FCF is what the market is repricing — exactly the 7/22 "means-of-financing" call.
 - *(Anthropic ARR slowing)* $74B ARR but growth "beginning to slow" = the first crack in the demand-side hypergrowth that
   [[metered-compute]] rests on. Watch — if the geometric-demand curve bends, the shortage-not-glut read weakens.
+
+## 2026-07-23 ~8:20am PT — the CAPEX-GAP GAUNTLET (upcoming): the razor's scheduled tests, post-GOOGL
+Source: Jake's earnings calendar. The whole hyperscaler complex reports in 48h, right after GOOGL set the "capex-raise=sell"
+template (7/22-23) + the melt-up cracked. Each now read through the GOOGL lens: capex guide + demand-confirmation, not EPS.
+- **Thu 7/23 INTC** (AC) — secondary (foundry turnaround, not the capex-gap thread).
+- **Wed 7/29 — the crux night:** **VRT** (BO, ~8am PT) = the EARLY TELL (data-center power/cooling; backlog UP = capex still
+  deploying → bullish buildout even if payers sell; VRT can rise as a shovel-seller while META/MSFT sell = payer/seller
+  razor, front-run). **META** (AC 1:30) = the direct GOOGL SEQUEL (widest-gap spender; primed to sell a naked capex raise).
+  **MSFT** (AC 2:30) = the ESCAPE-HATCH REFEREE (the 7/16 "most-monetized/smallest-gap" name — if even MSFT sells on capex
+  the hatch is CLOSED; if it holds, the discrimination is real). LRCX/QCOM (AC) = semi-cap shovel / edge, secondary.
+- **Thu 7/30 AMZN** (AC 2:00) — AWS capex-gap test, the biggest cloud.
+- *(the week's framework)* Fade widest-gap SPENDERS (META/MSFT/AMZN) on a naked capex raise; shovel-SELLERS (VRT/LRCX,
+  NVDA/AVGO indirectly) capture the same spend. Watch the CAPEX GUIDE + demand-confirmation. Register predictions night-before
+  (per the ritual) on META + MSFT (7/28) — the two that most directly re-test the GOOGL trade. [[metered-compute]], [[market-fragility]].
