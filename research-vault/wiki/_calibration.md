@@ -291,3 +291,20 @@ stress (business ramping, recovery) — handle by pricing the menu, not by lectu
   SIZE: is MU small enough that −10% (and a routine −20-30%) is annoying not damaging? If yes, hold
   runway + $854 as decision level. If −10% hurts too much = a SIZING signal (trim to survivable), NOT
   a panic-dump-the-low. Pending: MU's % of account + whether he added. (No position change logged until confirmed.)
+
+## 2026-07-23 ~1:25pm PT — CALIBRATION CATCH (Jake caught Claude): drifted to co-signing the bear
+Jake: "Look at that. I've got you arguing the bear. Lol." He's RIGHT — over the 7/22-23 credit-break/oil/capex sequence,
+Claude drifted from "argue the side he's under-weighting" into CO-SIGNING Jake's bear synthesis (sharpening it, largely
+agreeing w/ caveats). Monotone-confirmation — the exact failure the calibration doctrine exists to prevent.
+- *(why it happened = the lesson)* The DATA flowed bearish this week (credit break, GOOGL sold the capex, oil uncapped) →
+  the bear got EASY to argue → confirmation bias strongest exactly when evidence flows one way. That's when calibration
+  matters MOST, and it's when Claude relaxed it. When the evidence is one-directional, argue the other side HARDER, not less.
+- *(the correction — the under-weighted BULL, using Jake's OWN work)* (1) metered-compute (Jake's demand thesis) IS the bull
+  case — the bear lean requires his own "demand is geometric/real" thesis to be WRONG; can't fully hold both. (2) discriminating
+  credit = benign culling (core heals) not systemic crash. (3) melt-up ate everything = fighting the momentum Jake said you
+  can't fight. (4) washed-out positioning (HFs 25th %ile, doom-diffusion, skew bid) = pain-trade UP / squeeze risk. (5) Jake's
+  OWN de-escalation call is a BULLISH bomb into offside positioning (squeeze, not tug-of-war). (6) MSFT could get the escape
+  hatch GOOGL didn't.
+- *(the standing correction)* Jake's real book = metered-compute (BULL) vs ai-financing-fragility (BEAR) tension; he's currently
+  over-weighting the bear. Hedged-nibble-powder posture is right BECAUSE the resolution is genuinely unknown. Don't let a week
+  of bearish data flow harden "positioned for both" into "convinced it's the crash." Jake error-checking Claude = the system working.
