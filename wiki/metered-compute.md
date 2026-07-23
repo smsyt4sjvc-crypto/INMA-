@@ -100,3 +100,21 @@ coin the user prefers, with a wallet acting as the hub for the conversion."
 - *(it's being built NOW)* Circle CCTP = "USDC as system coin across chains"; Stripe Bridge = "any coin in → normalize →
   any out." Thesis reduces to WHO WINS THE HUB = deepest/most-regulated system coin + tightest spoke liquidity → Circle
   (USDC) + Coinbase (settlement) today, Stripe (merchant side) coming hard. Same value-capture as the 11:57pm entry.
+
+### 2026-07-23 ~10:15am PT — ⚠️ CORRECTION (Jake): CRCL/COIN are priced on CRYPTO-CYCLE + CLARITY Act, NOT agentic settlement
+Jake: "CRCL and COIN are not priced for x402 or agentic transactions. They're priced for public-facing crypto / the Clarity Act."
+Correct — Claude conflated THE THESIS with WHAT PRICES THE STOCK. Fixing the earlier "CRCL/COIN = the settlement toll" framing.
+- *(what actually prices them)* COIN = retail crypto volume + BTC price + USDC float + the CLARITY Act (market-structure bill).
+  CRCL = USDC-in-circulation × rates (~$1.35B/qtr float) + stablecoin adoption + regulation. **Down = crypto risk-off (MSTR
+  −78% confirms) + CLARITY whipsaw** (digest: odds jumped >50% → "tumble right back down after new GOP draft"). Public-facing
+  crypto + regulation, full stop.
+- *(agentic = UNPRICED, not mispriced-down)* x402 ≈ $600M annualized TX VALUE → fee = single-digit $M vs COIN billions/qtr,
+  CRCL $1.35B/qtr float = a ROUNDING ERROR. The agentic thesis has ~zero weight in the price — it's unpriced call-option
+  optionality riding on a crypto-beta stock, NOT "the settlement toll on sale." Earlier "price-vs-thesis gap" framing = WRONG.
+- *(the real implication — no clean vehicle)* Buying CRCL/COIN to play agentic = PRIMARY exposure is BTC + a regulatory vote;
+  crypto beta + CLARITY swamp the slow-building agentic revenue for YEARS (per Jake's April data). Right thesis, dominated
+  vehicle. Same "pure-play doesn't exist" problem as [[compression-thesis]] (no clean short). Agentic settlement is genuinely
+  UNTRADEABLE cleanly today.
+- *(practical)* Track the agentic thesis on ITS OWN metrics (x402 vs MPP adoption, Bridge vs Coinbase USDC volume, Stripe
+  agentic-commerce ramp — the May watch-list), NOT the stock charts (which scream BTC/CLARITY). The volume data flags the
+  conversion YEARS before the stock does. [[agentic-payments]].
