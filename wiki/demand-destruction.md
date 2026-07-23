@@ -1895,3 +1895,18 @@ Source: CNN (Goldman/Ziady, Jake paste). A NEW marker dimension — Hormuz closi
   meta-toll Iran can't capture. The war hit a financial chokepoint stronger than the physical one.
 - *(net)* ~20% of global oil via Hormuz; if uninsurable → a supply event w/o another shot. Keeps the premium sticky + feeds
   the oil→hikes rate spiral. Durable/structural, but guidance-not-mandate + transit-not-capacity = short of the catastrophic tail.
+
+### 2026-07-23 ~3:15pm PT — IRGC threatens UK bases (RAF Fairford) = ◻︎ THREAT (words), down-weighted from the "powder keg" framing
+Source: Jake paste (IRGC statement). Iran declares UK bases used by US to strike Iran "legitimate targets," names RAF Fairford
+(US B-1 bombers). #### DATA: ◻︎ THREAT — IRGC statement (Iranian-agency = claim/words, NOT an action).
+#### THESIS (interpretation — NOT fact)
+- *(discipline — words, low execution prob)* Per the framework, threats don't move the marker. Striking NATO/UK SOIL is
+  categorically suicidal for Iran (Article-5 dynamics, unifies the West, invites annihilation) — deterrent RHETORIC to raise
+  the cost of the US campaign / deter Fairford's use, NOT a likely action. Down-weight the "escalation trap expanding" alarm.
+- *(two-sided)* (a) The escalation SPIRAL continues (off-ramp rhetorically harder). BUT (b) may signal Iranian WEAKNESS
+  (reaching for asymmetric threats = losing the direct fight; Rubio: "military-industrial base decimated") not strength; AND
+  (c) paradoxically STRENGTHENS the de-escalation case — nobody wants NATO dragged in → boosts the Congress War Powers /
+  "do a deal" pressure. A scary-enough escalation often FORCES the exit → nudges toward Jake's weekend de-escalation, not away.
+- *(marker relevance = TEXTURE not trigger)* Doesn't touch any tell (no export capacity / Hormuz transit / insurance). Keeps
+  the general war-premium elevated but is NOT an oil-supply signal. Marker triggers unchanged: Aramco strike (uncap), broad
+  insurer adoption (hard closure), ceasefire (off-ramp). Calibration: don't co-sign alarm just because it's dramatic.
