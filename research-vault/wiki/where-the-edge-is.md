@@ -105,3 +105,18 @@ The one test that could have killed it CONFIRMED and STRENGTHENED it.
 - **STATUS: clause one earned AND battle-tested through 2020/2022. Decay recheck = the last open gate, now
   closed favorably.** Went from "everything's a coin flip" to a live, structural, regime-gated edge with 35y +
   two crashes of evidence — in one session. Next: the trading-system constitution (paper-first, laws-as-code).
+
+## 2026-07-23 ~1:15pm PT — when the VRP edge INVERTS to the BUY side (Jake: "cheap to buy options until VIX pops?")
+The book's default edge = SELL vol (harvest the VRP, gated to the 200-day). But the edge INVERTS to BUYING convexity when
+BOTH hold: (1) implied vol is LOW relative to a FAT, IDENTIFIABLE tail (here VIX ~18.7 vs credit contagion + Aramco weekend
+gap + loaded short-gamma = realized skewed to a 28-40 spike), AND (2) the REGIME has TURNED (the 200-day/melt-up cracked —
+7/23). Both true now → buying convexity is the ALIGNED trade, not fighting the VRP (which it was at VIX 16 / melt-up intact).
+- *(⚠️ the asterisks on "cheap")* (a) NOT dirt cheap — best window was VIX 16 earlier this week; some pop is in (insuring
+  AFTER the first crack). (b) SKEW already bid (crash puts + VIX calls rich, 96th-%ile) → cheapest convexity = ATM index vol
+  + LONGER-DATED (Aug/Sep, less weekend-event premium), NOT the obvious deep-OTM crash put or VIX call. (c) NEGATIVE CARRY —
+  insurance that BLEEDS if the tail doesn't fire (Congress off-ramp / oil fades / credit calms → VIX FALLS, premium lost).
+  Two-sided: "cheap until VIX pops" assumes VIX pops. It's a BET the tail fires before theta eats it.
+- *(Natenberg frame)* Buy vol when you expect REALIZED > IMPLIED. At VIX 18.7 the identifiable tail skews realized above
+  implied → the buy-side condition is met. [[options-reference-natenberg]] (IV vs RV; skew; the buy-vs-sell regime).
+- *(Jake-specific)* He ALREADY owns the Dec-745 SPY puts (ITM, working) = already long the tail. Buying more = PRESSING the
+  bet (higher conviction the gap fires), NOT establishing protection. Descriptive; sizing his. [[market-fragility]] (VIX zones).
