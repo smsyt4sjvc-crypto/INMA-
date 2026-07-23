@@ -1255,3 +1255,17 @@ Jake: "what about the currency itself — if the exchange rate is advantageous f
 - *(the LIVE tell)* Foreign central banks (China esp.) are REDUCING Treasuries + buying GOLD → reserve demand migrating
   Treasuries→gold = de-dollarization, foreigners opting OUT of financing the debt into the neutral reserve asset. The "strong-$
   → foreigners fund the debt" loop is real but STRUCTURALLY UNWINDING; [[gold-flows]] is where you watch it. Ties Fed-Trap.
+
+### 2026-07-23 ~9:35am PT — higher-for-longer hits the REAL economy: mortgage rates + bond yields at highs (Jake)
+Jake: "Mortgages and bonds at highs again too." The rates thread reaching the most rate-sensitive sector.
+- *(DATA)* 10Y 4.70% / 2Y 4.32% = year-highs; mortgage rates track the 10Y → also at highs. Same stack: oil-$100 inflation
+  + war/deficit funding + Fed boxed (claims 1969-low, Warsh no-cuts).
+- *(the two-sided squeeze on Jake's contracting business — real-economy, applicable)* COST side UP (tariffs: aluminum frames,
+  lumber, Canadian materials) + DEMAND side DOWN (mortgage rates → housing slows → fewer installs/remodels). The macro regime
+  compresses his margins from BOTH ends. The one place the plumbing lands on his invoices AND his order book.
+- *(macro synthesis — one rate move, THREE victims)* The same yield spike hits (1) housing/his business, (2) hyperscaler
+  debt (the "means-of-financing" leg — bonds at junk spreads; [[ai-financing-fragility]]), (3) the Treasury market (war/deficit
+  supply meeting weakening foreign demand — the deficit=financing identity). Rates = the transmission belt linking the war,
+  the AI-capex crack, and Main Street. The 10Y is the single most important number on the screen.
+- *(discipline)* Yields at highs = WATCH for exhaustion, but drivers still ACCELERATING (oil $100, war, deficit) = early-and-
+  right, NOT late-and-priced. Not a "bonds cheap, buy" spot yet. Yield PEAK = when oil fades or Fed capitulates (neither has).
