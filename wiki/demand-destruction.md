@@ -1855,3 +1855,22 @@ Source: Jake paste (ZeroHedge, 9:20am ET). The premium STICKS above $100 (vs 4 p
   export-capacity hit is still THE trigger + the weekend-gap risk.** Watch for it specifically.
 - *(book)* This IS the tail Jake's 2-SPY nibble under the ITM Dec-745 hedge is built for — and the concrete reason selling
   the naked $724 put would've been short exactly the Aramco-strike weekend gap now being primed. Hedge on the right side.
+
+### 2026-07-23 ~10:10am PT — Larak Island tanker slicks (Windward satellite ✅) — touches Iran's export hub, but AFTERMATH not a fresh terminal strike
+Source: Windward Maritime AI (SAR + EO satellite, 21-23 Jul) — credible OSINT, NOT an agency claim.
+#### DATA (✅ satellite-corroborated)
+- **Two tankers leaking oil near LARAK ISLAND, Strait of Hormuz.** (1) **Kavomaleas (east):** struck in the earlier attack,
+  **in BALLAST → slick is FUEL, not cargo.** (2) **Dark tanker (west):** no AIS, unidentified, **parked in same spot since
+  May 2026** (merge-over-time). Both slicks drifting toward Larak/Qeshm coast.
+#### THESIS (interpretation — NOT fact)
+- *(where it fits — Iran's EXPORT hub, not Saudi's)* Larak = a key IRANIAN crude storage / ship-to-ship (STS) transfer node
+  — where sanctioned Iranian crude is staged/obscured before delivery to China (the shadow-fleet/teapot flow). So this
+  touches IRAN's export chokepoint. But: (a) Kavomaleas in ballast + "struck earlier" = AFTERMATH, not a fresh strike; (b)
+  the dark tanker parked since May = a pre-existing shadow-fleet floating-storage vessel, not a new casualty. → NOT a strike
+  on export-TERMINAL infrastructure; leaking tankers + navigational hazard.
+- *(supply read — smaller than Aramco)* A Larak disruption cuts IRANIAN shadow-barrels (already semi-off-market via
+  sanctions) + confirms the Iran→China STS staging (ties the teapot/shadow-fleet thread). Meaningful but SMALLER than a
+  Saudi-swing-crude strike. Iranian barrels ≠ Saudi swing.
+- *(marker state UNCHANGED)* Still uncapped to $100 (holding), catastrophic tail primed. The trigger is still a SAUDI/
+  ARAMCO/Abqaiq-class EXPORT-TERMINAL strike — not two leaking tankers off an Iranian island. Larak = a supporting
+  disruption datapoint (deepens Hormuz reroute + touches Iran's dark-export hub), NOT the uncapping event.
