@@ -428,3 +428,15 @@ Source: scanner digest (`raw/2026-07-16-scanner-digest-eve.md`).
 - The validated edge ([[where-the-edge-is]] VRP) expressed within these limits = **the wheel, regime-gated**:
   sell CSP above the 200-day on a liquid quality name → if assigned, sell covered calls → repeat. Design doc:
   `trading-system/constitution.md`.
+
+## 2026-07-23 ~9:10am PT — bought 2 SPY @ $738.46 (dip nibble, VIX-18.7 DECIDE zone)
+- **Action:** +2 shares SPY @ **$738.46** ("in the dip" — Thu selloff, SPY −1.1% from ~747).
+- **Regime context:** VIX 18.74 = the DECIDE zone (18-28: set the shopping list / small nibbles), NOT the EXECUTE zone
+  (28+: big tranches). 2 shares = a size-appropriate NIBBLE, not a hero catch — consistent with "don't catch the knife
+  early" ([[defense-not-offense]], the 7/23 momentum-overshoot note).
+- **Structure:** the Dec-745 SPY puts are now ITM (SPY 738 < 745) → this is HEDGED-long adding small delta under the
+  protection = defined-risk, not naked dip-buying. A cleaner "put cash to work" than selling the naked SPY $724 put he
+  priced earlier (which = selling convexity into rising vol; see the 7/23 book-math read).
+- **Powder discipline (descriptive):** day one of the crack, VIX only 18.7. If doom ACCELERATES (oil holds $100, the 7/29-30
+  capex gauntlet sells, credit leg fires) there's more dip below → keep tranches for the VIX-28 EXECUTE zone. 2 shares is
+  right-sized precisely because it preserves powder. [[market-fragility]] (VIX zones), [[metered-compute]] (the demand floor).
