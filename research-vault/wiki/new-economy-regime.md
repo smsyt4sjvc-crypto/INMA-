@@ -1287,3 +1287,25 @@ Source: Jake paste (Barclays call — a FORECAST, "increasingly likely," not ann
 - *(fit)* Slots into the run-hot/manage-the-debt regime (this morning's synthesis): the concrete answer to "how do you fund
   $2T deficits when foreigners step back" = manage the domestic plumbing yourself. A DIRECTION marker (toward fiscal
   management of funding), not a regime trigger by itself. Watch for actual announcement + whether it coincides w/ funding stress spikes.
+
+## 2026-07-23 ~11:15am PT — REGIME SHIFT: market flips to pricing HIKES, tracking oil TICK-FOR-TICK (oil = monetary policy)
+Source: Jake — Bloomberg WIRP (US moves priced = 1.815, +80% from ~1.0 on Jul 15) vs Brent ($101.85) = the SAME LINE;
+Polymarket "Fed HIKES 2026": 2-hikes 33% (plurality/rising), 1-hike 28% ($52k vol = thin/retail; WIRP/SOFR = the credible gauge).
+### DATA (observed)
+- Market now prices **~1.8 hikes for 2026 (≈2 by Dec)**, up from ~1 eight days ago, **tracking Brent TICK-FOR-TICK**
+  ($85→$102 = 1.0→1.8 hikes). Hike-pricing and Brent are the identical curve.
+### THESIS (interpretation — NOT fact)
+- *(oil = monetary policy)* The Fed's path is now a DERIVATIVE OF THE WAR — priced off oil one-for-one, NOT the labor market
+  or the Fed framework. "Higher-for-longer" → "higher-AND-HIKING." Every fragility thread WORSENS if the Fed hikes
+  (AI-financing/$811B commitments/junk bonds, mortgages/housing, Treasury funding, equity de-rate).
+- *(the Aramco tail is now a RATE tail)* Because rates track oil 1:1, a Saudi export strike → Brent $120 → MORE hikes priced →
+  the squeeze tightens across AI-debt + housing + Treasury simultaneously. **The oil marker became the MASTER VARIABLE** for
+  the whole regime (oil → rates → equities → dollar). [[demand-destruction]] is now upstream of everything.
+- *(stagflation policy trap)* Oil = a SUPPLY shock; hiking into it doesn't fix the inflation (hikes crush DEMAND not oil
+  SUPPLY) → tightening into a slowdown = the 1970s oil-shock→hike→stagflation error, being priced.
+- *(the Fed-Trap at MAX tension — collision w/ run-hot)* Market prices the Fed to FIGHT (hike) vs Trump wants CAVE (run hot,
+  cuts, inflate the debt away). HIKE → breaks the fragile AI-debt/housing/Treasury. CAVE → run-hot/debasement, inflation rips.
+  **Fight-vs-cave is now the biggest binary in markets, and it's downstream of the oil price.**
+- *(⚠️ discipline — oil-CONTINGENT, not locked)* The hike-pricing tracks Brent 1:1 → it COLLAPSES if the oil premium fades
+  (ceasefire → Brent $85 → hikes un-price → regime reverses). The entire rate/$/equity complex is now HOSTAGE to the marker's
+  off-ramp (Aramco tail spikes it, ceasefire erases it). Watch oil to trade rates. [[demand-destruction]], [[ai-financing-fragility]].
