@@ -1,7 +1,7 @@
 # Vault Index — the map (read after CLAUDE.md)
 
 Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), then this (what exists + where).
-46 notes, 67 raw sources, 30 tools. Last built: 2026-07-20. Regenerate when notes are added/renamed.
+49 notes, 70 raw sources, 30 tools. Last built: 2026-07-22. Regenerate when notes are added/renamed.
 
 > Two domains, two brains: THIS vault = markets research. The **trading system** is a SEPARATE repo
 > (`Alpaca-Claude`) with its own `CLAUDE.md` — staged in `trading-system/` (one domain per vault).
@@ -27,6 +27,8 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 - [[compression-thesis]] — Jake's positive spine: how the AI-capex corner resolves (input-deflation heal; the razor)
 - [[ai-financing-fragility]] — the debt leg (private credit → the funding squeeze; the tripwire)
 - [[reflection-ai]] — the "American open-weight champion" (Nvidia-backed, private, pre-product; circular-financing instance)
+- [[metered-compute]] — Jake's structural-demand thesis (geometric agentic token consumption = the DEMAND side; shortage-not-glut) + the settlement toll
+- [[agentic-payments]] — the AI payment layer (x402/MPP; own the stablecoin float + COIN toll, not the alt coins)
 - [[ai-infra-allocation-map]] — the names, sorted
 - [[buildout-bottleneck-map]] — the next unrepriced layer
 - [[cepi]] — Capex → Earnings → Price Intensity
