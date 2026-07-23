@@ -672,3 +672,18 @@ Source: ZeroHedge posts (Jake paste). The debt leg of the whole week's capex thr
   refis/new issues (does the next AI-datacenter bond price wide or PULL?).
 - *(SPCX now a live fragility gauge)* Ties [[reflection-ai]] (SpaceX = the Reflection AI datacenter host) + the SpaceX
   equity thread. SpaceX debt at junk spreads = a checkable, tradeable-adjacent fragility tell to track alongside Oracle CDS.
+
+#### 2026-07-22 ~4:45pm PT — AMD-Anthropic DETAIL (WSJ): the LEASE BACKSTOP upgrades the wire from correlated to credit-transmitting
+Supplements the 7:30am AMD-Anthropic node. Jake: "did we have this already?" — core yes ($5B), these details new.
+- *(DATA — WSJ)* Deal = **"tens of billions" of AI servers**: Anthropic buys **up to 2 GW of AMD MI450 chips, starting
+  H1 2027**. AMD invests **up to $5B as deployment MILESTONES are met**. **AMD in talks to provide a financial BACKSTOP
+  for Anthropic's future data-center LEASES.**
+- *(THESIS — the backstop is the escalation)* The $5B was equity risk. A **lease backstop = AMD guaranteeing Anthropic's
+  datacenter-lease obligations = taking Anthropic's CREDIT risk onto AMD's balance sheet.** That upgrades the circular
+  wire from "revenue doing a lap" to a **credit-TRANSMISSION network**: if AI-datacenter leases/debt reprice (and the
+  3:50pm credit leg shows they're repricing — hyperscaler/SpaceX bonds at junk/record spreads), the stress lands on AMD's
+  balance sheet via the guarantee. Backstops are the CONDUIT that turns "correlated counterparties" into "one node's lease
+  stress = another node's contingent liability." The diversification-is-illusory point, one wire deeper.
+- *(two-sided, unchanged)* Also AMD's rational play — lock Anthropic off Nvidia, validate MI450. Circular AND strategic.
+  But the lease backstop RAISES AMD's at-risk exposure from a $5B bet to guaranteeing someone else's real-estate liabilities
+  — right as the credit market is repricing exactly those liabilities. [[compression-thesis]] (means-of-financing razor).
