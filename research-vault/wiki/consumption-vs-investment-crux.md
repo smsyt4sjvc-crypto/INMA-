@@ -96,3 +96,26 @@ Source: July 2026 Beige Book (`raw/2026-07-15-beige-book-july.md`; data through 
   pencil."** If that financing chain breaks (the TRIGGER, per the WARNING-vs-TRIGGER rule), the beam
   holding up GDP is the same beam holding up the index. Concentration in the market IS concentration in
   the real economy now — [[concentration]], [[market-fragility]].
+
+## 2026-07-23 ~1:30pm PT — Jake resolves "record CC debt + rising wages": the K-shaped FREEZE (composition + bifurcation)
+Source: Jake, off a viral "$1.33T record CC debt" piece (Kiyosaki-framed doom; the analytical core is Jake's, and better).
+Jake: "higher wages = job TENANCY [tenure]. Low hire/fire → people keep jobs longer, earn raises... same job higher wages
+as job growth slows + companies keep the valuable employees, everyone else running on CC."
+### THESIS (interpretation — NOT fact; Jake's, built out)
+- *(the paradox resolved — same frozen market, both ends)* "Wages up + record debt" = NOT a contradiction. **COMPOSITION
+  effect:** if low-wage/marginal workers are the ones NOT hired (or cut), the REMAINING workforce skews higher-tenure/paid →
+  AVERAGE wage rises w/o broad raises (a mix illusion, not strength). **Low-fire/low-hire FREEZE** (the jobless-claims read
+  from this AM) produces BOTH: INSIDERS keep jobs + climb tenure raises (wages up); OUTSIDERS shut out of a non-hiring market
+  → run on CC. **K-shaped:** top-of-K raises, bottom-of-K 21% APR. Record debt + rising avg wage = the BIFURCATION.
+- *(the confirming data — makes it testable)* (1) job-STAYERS vs SWITCHERS wage growth: in a freeze switching stops → stayers'
+  tenure raises dominate the average (the fingerprint). (2) QUITS RATE falls (afraid to leave, no jobs to jump to) = the
+  cleanest freeze tell. Both measurable.
+- *(⚠️ discipline — "record CC debt" needs the DENOMINATOR)* $1.33T nominal is a record like GDP/wages/population (inflation +
+  more people). Real signal = CC debt/INCOME + the DELINQUENCY/charge-off rate. Rising delinquencies → bifurcation = genuine
+  stress (bottom-of-K cracking). Flat + nominal-only → less alarming. Check delinquencies, NOT the nominal record. (Same
+  base-rate discipline as insider-selling/foreclosures/jobless-claims.)
+- *(two-sided)* Low-fire ALSO = job SECURITY for the majority = a consumption FLOOR, not collapse. It's a BIFURCATION
+  (concentrated marginal stress), not a broad implosion. Tenured middle fine; shut-out bottom on 21% plastic. Coexist.
+- *(tie)* The crux answer: consumer is healthy AND borrowing-to-fake-it, SPLIT BY TENURE. Stacks on the higher-for-longer
+  squeeze (bifurcated consumer + 21% CC + rising mortgages = 3-sided marginal hit). Demand-destruction under the headline,
+  sized by delinquencies. [[new-economy-regime]] (the "lie about jobs"/composition thread), [[demand-destruction]].
