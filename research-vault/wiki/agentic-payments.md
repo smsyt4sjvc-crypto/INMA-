@@ -36,3 +36,9 @@ book-talking conclusion. Related: [[compression-thesis]], [[ai-capex-cycle]] (ag
   for "buy Solana." Same "own the toll, not the barrel" meta-pattern ([[oil-value-chain]], Nvidia-runs-the-tokens).
 - *(descriptive — no position)* A real infrastructure thesis wrapped in a sell-side conclusion. Tradeable-if-anything =
   the stablecoin float + incumbent toll, watched not bought. The alt-coin conclusion is the part that pays the author.
+
+## ⭐ Jake got here first (April 2026) — see [[metered-compute]]
+The whole "settlement = stablecoins not alt coins; own the public infra layer (COIN) not the tokens" conclusion is Jake's
+ORIGINAL April-2026 framework (`raw/2026-04-jake-x402-metered-compute-report.md`), confirmed by Stripe Sessions (May 7,
+`raw/2026-05-07-jake-stripe-sessions-x402-confirmation.md`). The FT piece (Jul 21) is a later, less-disciplined restatement
+that pushes alt coins where Jake correctly pointed at COIN + stablecoin float + physical bottlenecks. Full thesis: [[metered-compute]].
