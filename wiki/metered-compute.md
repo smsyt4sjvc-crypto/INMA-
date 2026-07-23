@@ -80,3 +80,23 @@ endpoint of "own the toll," one layer up. Answers the reconciliation-constraint 
 - *(net — own the toll not the barrel, again)* The tradeable read = the capitalized incumbents building the rail (CRCL,
   COIN, V, MA, private Stripe); the barrel = the clever routing protocol anyone can copy. Value → liquidity + license +
   network, not the conversion tech. Consistent with [[oil-value-chain]] / [[where-the-edge-is]] / [[agentic-payments]].
+
+### 2026-07-23 ~12:05am PT — the architecture: hub-and-spoke via a "system coin" (Jake solves the N² liquidity problem)
+Jake: "Xx USDC = xxx system coin = x bitcoin. Operations transacted in system-coin standard, reconciled out to whatever
+coin the user prefers, with a wallet acting as the hub for the conversion."
+- *(what it solves)* Routing every tx through ONE system coin collapses the moat problem from **N² pairs** (every coin↔every
+  coin) to **N spokes** (each coin↔system coin). This IS the FX vehicle-currency architecture (route EUR→USD→THB, not
+  direct) + central-clearing (CLS/CCP net to a standard). Jake independently re-derived the proven design — and it directly
+  answers the "need liquidity in every pair" objection from the 11:57pm entry.
+- *(the load-bearing question — what IS the system coin)* Must be PRICE-STABLE (it's the internal accounting standard) →
+  a STABLECOIN, **NOT bitcoin** (bitcoin is a SPOKE — a coin users hold/prefer — never the hub). Front-runner system coin =
+  **USDC** (deepest, most-regulated, most-trusted — same reasons USD won as the FX vehicle currency). May not need inventing.
+- *(who owns the system coin owns the environment — value AND risk)* Route everything through one hub coin → the ISSUER
+  earns the FLOAT on all in-transit value (Circle model, CRCL ~$1.35B/qtr) AND becomes a too-big-to-fail systemic chokepoint
+  (regulatory + concentration risk). Prize and danger in the same place.
+- *(⚠️ remaining seams)* (1) DOUBLE conversion (in + out = two spreads) can dominate a $0.001 micropayment → each spoke
+  still needs near-zero-cost deep liquidity; hub-and-spoke reduces HOW MANY spokes need it, not the per-spoke requirement.
+  (2) Wallet-as-hub = the right UX layer (conversion at the edge, invisible to user) = the Privy/Stripe agent-wallet model.
+- *(it's being built NOW)* Circle CCTP = "USDC as system coin across chains"; Stripe Bridge = "any coin in → normalize →
+  any out." Thesis reduces to WHO WINS THE HUB = deepest/most-regulated system coin + tightest spoke liquidity → Circle
+  (USDC) + Coinbase (settlement) today, Stripe (merchant side) coming hard. Same value-capture as the 11:57pm entry.
