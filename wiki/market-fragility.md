@@ -593,3 +593,24 @@ Source: Jake paste (a research shop's "one of these markets is wrong" framing). 
   (unhedged amplifier loaded, short-gamma) but still needs the spark. Trade the trigger, not the positioning; know the gearing.
 - *(if forced to name the "wrong" market)* #2 (unhedged asset managers) — the crowd with no seat when the music stops. But
   "wrong eventually" ≠ "wrong tomorrow." [[detachment-bid]] (the melt-up runs on this complacency until a trigger ends it).
+
+## 2026-07-23 ~7:58am PT (Thu) — THE MELT-UP CRACKED: complex derisks TOGETHER, both triggers fired, positioning gearing ENGAGED
+Source: Jake digest + prices. The "real test" flagged 7/22 (does the complex derisk together, or keep rotating?) resolved to CRACK.
+### DATA (observed)
+- **Broad derisk, NOT rotation:** SPX 7,405 **−1.25% (below the 7446 CTA trigger → BELOW = short-term CTA selling ON)**,
+  QQQ −1.90%, Dow −500. **Spenders AND sellers BOTH down now** (Wed: NVDA/AVGO up; Thu **NVDA −2.19%, AVGO −1.95%**,
+  MSFT −2.20%, META −2.56%, AMZN −3.85%, **TSLA −9.98%** on FCF-negative). **VIX 18.74 (+12.22%)** → DECIDE zone (18-28).
+- **Both named triggers fired same day:** (1) OIL uncapped >$100 ([[demand-destruction]]); (2) **10Y 4.70% + 2Y 4.32% =
+  YEAR HIGHS** ("surging oil rekindles inflation fears"; Warsh "no immediate cuts"; jobless claims 187k = lowest since 1969
+  → Fed boxed). Gold GC=F 4,062 **−1.59% (DOWN with stocks** = NOT the equity hedge; dollar +0.52%, yields up = gold pressured).
+- **Positioning gearing ENGAGED (last night's note, live):** the exact charts cited — "asset managers' VIX futures 1st
+  %ile," "HF exposure cut aggressively," "**Everyone saw the oil rally, few are positioned for the spillover.**" Unhedged AMs
+  caught → VIX +12%. Credit leg: "**7 of 10 most-shorted IG bonds are hyperscalers; 6% AA GOOGL '56 the most-shorted bond.**"
+### THESIS (interpretation — NOT fact)
+- *(the kindling caught)* 7/22 said positioning was the GEARING and the triggers were oil + credit. Thursday BOTH sparks
+  fired (oil >$100, yields year-high) into the loaded setup → the complex derisked TOGETHER (not the Wed rotation), VIX
+  spiked, SPX broke the CTA trigger. This is the melt-up cracking on schedule — the states became a trigger day.
+- *(⚠️ WARNING-vs-TRIGGER discipline — still ONE day)* A −1.25% SPX / VIX-18 is a CRACK, not a crash. VIX in the DECIDE
+  zone (18-28) = "set the shopping list," not "execute" (28+). CTA trigger is the front-light tranche (ST 7446), not the
+  heavy MT/LT (7175/6745). Don't over-call a top off one gap-down; but the CHARACTER changed — first broad-derisk + first
+  fired trigger + first VIX spike of the run. Watch: does it hold below 7446 / does VIX push 28 / do the deeper CTA rungs trip.

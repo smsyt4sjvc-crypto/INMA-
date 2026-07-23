@@ -35,3 +35,16 @@ grading uses the actual open/close prints Jake pastes.
 ### GRADE UPDATE — GOOGL call magnitude (Wed close)
 - GOOGL "drops nearly 5% AH" (~$325) vs Jake's 318-319 (−7%) target. DIRECTION hit (confirmed); MAGNITUDE ~70% there
   (−5% actual vs −7% called). Final grade at Thursday open (can extend to 318 or recover). Set-#3 branch 2 + branch 4 fired.
+
+## GRADE FINAL — Jake's GOOGL call = DIRECT HIT (2026-07-23 open)
+- Call (Jake): GOOGL → **318-319 (−7%)** on the print, reason = capex won't justify valuation.
+- Result: GOOGL **$317.72 = −7.12%** from the $342.09 Wed close. **LANDED IN/AT THE TARGET BAND, exact.** DIRECTION ✓ +
+  MAGNITUDE ✓ + REASON ✓ (sold on the $195-205B capex guide, not the beat — "Google smacked to the 200-day," correction
+  territory). Cleanest prediction in the vault to date. Claude's escape-hatch lean was the miss; Jake's capex-instinct owned it.
+## GRADE (prelim, intraday) — Set #3 core-five (final at Thu close)
+- DIRECTION: hits — SPX −1.25% (called −0.3%), QQQ −1.90% (−0.5%), SOXX −1.72% (−0.5%) all DOWN as called. Kill-switch
+  branch 5 (oil export-strike → uncapping) FIRED (Brent >$100 on Saudi tanker attacks). MU +0.48% = the MISS (called
+  in-line-with-SOXX; MU diverged GREEN vs red semis — Tesla memory allocation headline).
+- MAGNITUDE: **UNDER-called to the downside.** The humble "roughly flat / mild-down" base case under-weighted the spark;
+  the melt-up cracked bigger than modeled. Honest read: direction right, size light — the "non-call" hedged when a real
+  2-way trigger (oil+capex+yields) was live. Calibration note: when TWO triggers are armed, don't default to flat.

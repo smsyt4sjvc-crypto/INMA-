@@ -648,3 +648,21 @@ Source: Jake's VAULT HEADLINE SCAN + live prices (00:23 UTC). The day's cleanest
   extending beyond hyperscalers to Tesla's robotaxi/AI spend. Another name sold on the SPEND, not the results.
 - *(set #3 calibration)* Branch 2 (GOOGL beat+capex-raise sells) FIRED; branch 4 (NOW relief) FIRED; TSLA (coin-flip) went
   down. Core-five direction (mild-down) tracking. Good calibration night.
+
+## 2026-07-23 ~7:58am PT (Thu) — the $99B illusion CONFIRMED (market stripped it, as called); FY capex 195-205B (from 180-190); TSLA FCF-negative
+Source: Jake digest. DATA: **"Alphabet's massive profit growth is just an illusion, as SpaceX and Anthropic help mask a
+historic** [FCF decline]"; "Google is up $94B on SpaceX but not for the reason you think"; **"Earnings: negative cash flows
+make Big Tech more economically sensitive."** **Alphabet FY26 capex $195-205B (RAISED from $180-190B).** **JPMorgan: Google
+2027 capex could near $400B.** **TSLA −9.98%: "Misses badly, FREE CASH FLOW turns NEGATIVE"** ($28B qtr, record deliveries,
+but FCF neg + Musk "patience" on robotaxi/Optimus). Anthropic ARR $74.3B (from $30B Apr) "growth beginning to SLOW."
+### THESIS (interpretation)
+- *(Wed-night firewall call CONFIRMED)* The $99B equity-securities gain was a NON-OPERATING mark (SpaceX + Anthropic
+  stakes) inflating GAAP EPS. Called it an artifact the market would strip; the market stripped it EXACTLY — the read is
+  now "profit growth is an illusion masking negative FCF." And the SpaceX mark is REVERSING (SPCX "lost $1T in a month") →
+  the illusion unwinds both ways. Discipline paid: separate the paper mark from the operating truth.
+- *(the capex-gap razor, fully cut)* Capex range RAISED (195-205 from 180-190), JPM floats $400B for 2027 = no ceiling;
+  TSLA destroyed on NEGATIVE FCF = the razor extending past hyperscalers to Tesla. "Negative cash flows make Big Tech
+  economically sensitive" = the FCF-burn thesis ([[ai-financing-fragility]]) now the mainstream frame. Demand still real
+  ([[metered-compute]]) but the FINANCING/FCF is what the market is repricing — exactly the 7/22 "means-of-financing" call.
+- *(Anthropic ARR slowing)* $74B ARR but growth "beginning to slow" = the first crack in the demand-side hypergrowth that
+  [[metered-compute]] rests on. Watch — if the geometric-demand curve bends, the shortage-not-glut read weakens.
