@@ -712,3 +712,27 @@ layer beneath the $205B annual capex — the real reason GOOGL sold.
 - *(why GOOGL sold −7%)* The market saw not the annual $205B but the $811B forward commitment (+$500B/qtr) + negative FCF +
   off-balance-sheet scale = committing obligations faster than monetizing, hidden from the metrics. The forward-commitment
   scale was the sell, not the annual number. [[compression-thesis]] (means-of-financing razor), [[metered-compute]] (the demand it bets on).
+
+## 2026-07-23 ~11:30am PT — the credit leg goes from STRESS to BREAK: investors "refuse to fund memory chip purchases"; blowout "spilling over"
+Source: Jake ZH scroll. The trigger the thesis NAMES (funding-chain break) at maximum volume — but equity NOT yet confirming.
+### DATA (as-reported; ⚠️ adjectives = ZH/guru framing, discount; FACTS = the signal)
+- "IG bond spreads EXPLODING wider, credit investors REFUSE to fund memory-chip purchases any longer, CDS following. Stocks
+  COMPLETELY IGNORING what's going on in bonds." Goldman derivs guru: "Signs of panic — AI credit blowout SPILLING OVER to
+  the entire market." **Off-balance-sheet aggregate now cited $3.3T (from $2.3T ~1h earlier).** "Surprise JULY rate hike would
+  upend risk sentiment." "All it took for crack spreads to collapse was another oil explosion." **Congress: 4 House R's + Dems
+  pass Iran War Powers Resolution.** Trump "close to a massive attack greater than anything before."
+### THESIS (interpretation — NOT fact)
+- *(trigger PRECURSOR at max volume, NOT yet confirmed)* "Credit investors refusing to FUND the AI-capex debt" = the
+  funding-chain SEIZING = the closest to the named trigger all week (vs prior "spreads widening on fear"). BUT the confirmed
+  trigger needs: a deal that PULLS / a name that can't ROLL / **equity catching DOWN to credit.** "Stocks ignoring bonds" =
+  the credit-before-equity divergence at ITS MAXIMUM, not the resolution. Canary at full volume, not yet the cat. **WATCH:
+  does equity catch down (crack→crash, hedge pays) or does credit calm (loud stress).**
+- *(the convergence = why it's dangerous)* Credit break happening SIMULTANEOUSLY with the oil→hikes rate shift → the AI-debt
+  reprices UP in cost AS credit refuses to provide it → squeeze at max, on $3.3T off-balance-sheet. Oil upstream of all of it.
+- *(confirmations)* Crack-spreads collapsed on the oil gap = the [[oil-value-chain]] refiner-squeeze + the VLO put-heavy
+  options read (7/23 scan), both confirmed. "Surprise July hike" = the rate tail escalating to "maybe now."
+- *(⚠️ the OFF-RAMP — genuine)* Congress War Powers Resolution (4 R's + Dems) = a real de-escalation lever vs Trump's
+  escalation. If it bites → ceasefire-path → oil premium collapses → hikes un-price (they track oil 1:1) → the whole
+  rate/credit spiral UNWINDS. The fork: Congress (de-escalate) vs Trump (Aramco escalate). Entire regime hangs on which wins.
+- *(book)* Exactly the config the hedge exists for — credit breaking, equity ignoring, amplifier loaded. SPY puts + nibble +
+  powder = right posture into a credit-leads-equity setup. If equity catches down, the hedge pays the fired tail. [[market-fragility]], [[demand-destruction]].
