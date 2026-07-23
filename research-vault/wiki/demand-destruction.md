@@ -1816,3 +1816,17 @@ not serious about a deal"** (diplomacy dead, confirmed by US). "2nd key trade ro
 hard (Brent $95→$96), diplomacy cap fully gone. A tanker SEIZURE is a new physical action (Iran taking a vessel) — advances
 the transit-disruption case, but a seizure ≠ a crude-EXPORT-terminal cutoff. Still transit, not export-capacity; clean
 uncapping tell un-fired. Marker: firmest physical case yet (2 chokepoints + seizure), still sub-Abqaiq.
+
+### 2026-07-23 ~7:58am PT (Thu) — THE MARKER UNCAPS: Brent tops $100 on Saudi TANKER attacks (closest to the export-cutoff tell)
+Source: Jake digest. DATA: **"Oil prices leap to $100 after attacks in Red Sea"; "Brent crosses $100/bbl as Houthi attack
+on Saudi Arabian tankers"; Murban (Abu Dhabi crude) surged to $112.56 (+26%).** WTI CL=F **91.72 (+3.65%)**. IRGC to Trump:
+"Strike Iran's infrastructure, we'll shut off the Gulf's power." RBC: "war entering dangerous phase... oil above 2008 peak"
+($147). Rubio rules out a deal; 4 House R's + Dems block Iran war powers.
+- **⚠️ ARTIFACT (rule #6):** the scanner's **BZ=F 86.99 (−9.66%) is a CONTRACT-ROLL glitch, NOT a Brent crash** — Brent
+  trades ABOVE WTI always, and WTI is $91.72; the −9.66% is the front-month rolling. Real Brent ~$100 (every headline). The
+  LEVEL WATCH "Brent below $90" is the bad quote — DISREGARD. (Scanner note: add a Brent-vs-WTI sanity check to the cell.)
+- THESIS: **the marker has effectively UNCAPPED.** Brent GAPPED through $100 (tell d) on **attacks on Saudi EXPORT TANKERS**
+  (closest yet to tell a — the crude-export hit; the vessels ARE the export). Murban +26% = a physical crude benchmark
+  gapping. This is the biggest oil move of the war and the first time the premium GAPS not grinds. Diplomacy dead. ⚠️ Still
+  not a confirmed export-TERMINAL destruction (Abqaiq infra intact) and $100 was an intraday "leap/hover" (some fade) — but
+  the character changed from "capped grind" to "gap." Watch: does it hold >$100 / does an actual terminal get hit → 2008-peak path.
