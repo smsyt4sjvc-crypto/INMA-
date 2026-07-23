@@ -31,3 +31,7 @@ grading uses the actual open/close prints Jake pastes.
 - **Claude's miss (logged loud):** I leaned escape-hatch off Cloud +10% ("numbers lean AGAINST 318-319"). Correctly named the
   GUIDE as the decider, bet the wrong way on it. Jake's capex-instinct beat my demand-confirmed lean. Lesson: when the
   forward capex guide is a NAKED hike of this size ($205B), it overwhelms an operating beat — the guide IS the print.
+
+### GRADE UPDATE — GOOGL call magnitude (Wed close)
+- GOOGL "drops nearly 5% AH" (~$325) vs Jake's 318-319 (−7%) target. DIRECTION hit (confirmed); MAGNITUDE ~70% there
+  (−5% actual vs −7% called). Final grade at Thursday open (can extend to 318 or recover). Set-#3 branch 2 + branch 4 fired.

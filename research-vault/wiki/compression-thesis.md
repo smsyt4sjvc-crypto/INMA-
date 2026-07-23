@@ -627,3 +627,24 @@ mechanics + Fed-Trap. Upgrades the capex-gap razor.
   red. Neoclouds (SELLERS) collect Google's rental $ → IREN/NBIS/CRWV green all week.** Google "expanding third-party
   capacity" = literal CONFIRMATION of the neocloud revenue thesis. The buyer's margin hit IS the seller's revenue — one
   fact, two seats. Explains the week's GOOGL-down/neocloud-up split. [[ai-capex-cycle]], [[market-fragility]].
+
+## 2026-07-22 ~5:25pm PT (Wed close) — the payer/seller RAZOR fired on the exact names: spenders DOWN on capex, sellers UP
+Source: Jake's VAULT HEADLINE SCAN + live prices (00:23 UTC). The day's cleanest signal is the ROTATION, not GOOGL's drop.
+### DATA (observed)
+- **Spenders DOWN on capex:** GOOGL −5% AH (on the $205B hike), META −2.16%, MSFT −1.47%; **TSLA** −1.45% + falling
+  ("Musk: 'a little less capital efficient is acceptable'" → sold on spending). **Sellers/picks-and-shovels UP:** **NVDA
+  +2.77%, AVGO +3.22%**, SOXX +0.31%, SMH +0.33%. Headline: "Google, Tesla Fall On Earnings, Capex, But AI Stocks Rise."
+- Index basically FLAT (SPX 7,499 −0.14%, QQQ −0.46%, VIX 16.6 calm) — the rotation NETS OUT.
+- **NOW (book):** ugly −6.04% regular session into the print, then earnings RELIEF ("stock rises as earnings show momentum
+  in cybersecurity") → set-#3 branch 4 (oversold relief bounce) fired. **IBM** cut FY outlook (software miss → guidance
+  cut) "but not as much as feared." **GOOGL magnitude:** −5% AH = ~$325 vs Jake's 318-319 target (~70% there; final at open).
+### THESIS (interpretation — NOT fact)
+- *(the razor's POSITIONING call, confirmed live on the flagship event)* GOOGL's $205B capex hike is **Nvidia's order
+  book.** Same news: bearish the PAYER (GOOGL/TSLA/META — margin/FCF/means), bullish the SELLER (NVDA/AVGO — more capex =
+  more chip orders). Payer down, seller up, on the SAME headline — the 7/16-17 "own smallest-gap/sellers, fade spenders"
+  discrimination firing again at max clarity. **Picks-and-shovels / "own the toll not the barrel" confirmed.** The index
+  flatness HIDES the rotation — it's not calm, it's spenders→sellers churning underneath.
+- *(TSLA joins the capex-gap casualty list)* Musk selling "less capital efficient is acceptable" = the capex-gap theme
+  extending beyond hyperscalers to Tesla's robotaxi/AI spend. Another name sold on the SPEND, not the results.
+- *(set #3 calibration)* Branch 2 (GOOGL beat+capex-raise sells) FIRED; branch 4 (NOW relief) FIRED; TSLA (coin-flip) went
+  down. Core-five direction (mild-down) tracking. Good calibration night.
