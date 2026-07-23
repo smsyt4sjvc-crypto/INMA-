@@ -1197,3 +1197,29 @@ defeat); current = a temporary 10% global Section-122 surcharge + narrower 232/3
 - *(real-economy tie — Jake's contracting COGS)* aluminum (window frames)/copper/steel/lumber/cabinets + the Aug-19 Canadian
   cement list = direct input-cost creep on his bids. The same impulse spiking the 10Y lands on his material invoices — a
   descriptive real-economy read, not a market call.
+
+## 2026-07-23 ~8:50am PT — Jake's run-hot/debasement synthesis (+ the jobless-claims correction + the tariff-dollar Triffin trap)
+Jake: low jobless = compressed denominator? "lie about jobs and cut to run hot"; debt+Iran-war spend looming; "tariffs +
+shrinking trade deficit keeps the dollar afloat?"
+### DATA / mechanics (the corrections)
+- **Claims ≠ the rate (⚠️ Jake conflated).** Initial jobless claims = a FIRING/benefit-filing FLOW; you can't hide
+  discouraged workers out of it (they were never in it). The DENOMINATOR/discouraged-worker critique = the unemployment
+  RATE (unemployed/labor force), NOT claims. Valid claims critique instead: **LOW-FIRE/LOW-HIRE freeze** (claims see only
+  firings; a frozen market = low claims + soft) + gig/self-employed excluded + benefit exhaustion → "lowest since 1969" =
+  apples-to-oranges. Right skepticism, wrong lever.
+- **"Lie about jobs":** hold "lie" as interpretation (unfalsifiable, info-war discipline). Documented version = initial
+  prints run hot → revised down hard + real politicization risk (BLS-commissioner firing). Skepticism warranted; fabrication unproven.
+### THESIS (interpretation — NOT fact)
+- *(run-hot = inflate-away-the-debt, the coherent core)* A sovereign with this debt BENEFITS from moderate inflation (erodes
+  real debt) — arithmetic, not conspiracy. Trump's REVEALED preference (Fed pressure to cut, tariffs, fiscal/war expansion,
+  explicit weak-$-for-exports) = a mix that PRODUCES inflation regardless of stated preference. This IS the debasement regime.
+- *(the tariff→dollar question — weak + partly BACKWARDS: the Triffin trap)* The channel that DOES support $: tariffs →
+  inflation → Fed can't cut → rate differential (short-term $-positive; also today's DXY +0.5% = mostly HAVEN flight, not tariffs).
+  But "shrink the trade deficit → support $" is BACKWARDS: the US deficit is the flip side of the capital surplus — it's HOW
+  the world gets dollars to recycle into TREASURIES. Shrink it via tariffs → less foreign Treasury demand → yields UP → a
+  FUNDING problem for the war/debt (Triffin). And the DOMINANT vector is $-NEGATIVE (run-hot/inflate/weak-$-preference).
+- *(the synthesis — afloat AND debased, different channels)* The $ stays afloat NOMINALLY (rate differential + haven) while
+  DEBASED in REAL terms — not contradictory. new-economy-regime/financial-gravity: the $ needn't CRASH to be debased; just
+  lose purchasing power faster than exchange rate. **GOLD is the referee** — DOWN today (real rates/haven-$ up) = a rates-fear
+  day, NOT a debasement day. Debasement tell = gold + $ rising TOGETHER, or gold ripping vs unjustified real yields. Watch the
+  PAIR, not DXY alone. [[gold-flows]], [[demand-destruction]] (oil-inflation), [[compression-thesis]] (means-of-financing/rates).
