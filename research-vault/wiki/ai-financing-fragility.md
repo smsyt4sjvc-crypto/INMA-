@@ -736,3 +736,27 @@ Source: Jake ZH scroll. The trigger the thesis NAMES (funding-chain break) at ma
   rate/credit spiral UNWINDS. The fork: Congress (de-escalate) vs Trump (Aramco escalate). Entire regime hangs on which wins.
 - *(book)* Exactly the config the hedge exists for — credit breaking, equity ignoring, amplifier loaded. SPY puts + nibble +
   powder = right posture into a credit-leads-equity setup. If equity catches down, the hedge pays the fired tail. [[market-fragility]], [[demand-destruction]].
+
+## 2026-07-23 ~1pm PT — HARD DATA on the credit break: it's DISCRIMINATING (levered periphery breaks, cash-rich core pristine)
+Source: Jake — 3 charts. (1) GS hyperscaler bond basket G-spread 118→162 near-vertical in ~1mo. (2) Hyperscaler CDS by name.
+(3) Hyperscaler credit-spread(inv) vs stock — "stocks ignoring bonds," quantified, stock JUST starting to roll toward credit.
+### DATA (observed, CDS bps)
+- **CRWV (CoreWeave) 701 = DISTRESSED** (deep-junk). **ORCL 205, SPCX 168 = stressed/crossover** (blowing out). **META 80 =
+  mildly elevated.** **MSFT 47 / GOOG 56 / AMZN 60 = PRISTINE, barely moved.** GS bond-basket G-spread 162 (from ~118 late-Jun).
+- Chart 1: credit spread (inv) plunged while stock held → the divergence; the STOCK is now BEGINNING to roll over toward credit.
+### THESIS (interpretation — NOT fact)
+- *(the key read — DISCRIMINATING not systemic)* The quality-ladder razor firing IN CREDIT: the break is in the **levered
+  PERIPHERY** (CRWV/neoclouds, ORCL/SPCX debt-funded) while the **cash-rich CORE** (MSFT/GOOG/AMZN) is FINE. "Credit refuses to
+  fund memory purchases" = refuses to fund COREWEAVE's, not Microsoft's. NOT an AI-credit collapse — the market CULLING the
+  weak AI credits. Vindicates the fade-debt-funded / own-cash-machines call, priced name-by-name in the CDS tape (the market
+  that can't lie). CRWV/ORCL/SPCX = the "hard version"; MSFT/GOOG = the "gentle version" (the 7/22 split, now in bps).
+- *(the transmission — back to the hyperscaler thesis)* GOOGL said it's EXPANDING third-party capacity (renting from neoclouds).
+  CRWV at 701 CDS + credit refusing its chip purchases → the RENTAL compute Google counts on is at risk → neocloud fragility
+  feeds BACK into the hyperscaler buildout (constrains third-party capacity → tightens shortage OR forces more self-build/capex).
+  The weak link is the RENTAL layer the whole complex leans on. [[metered-compute]] (the shortage), [[compression-thesis]].
+- *(the tell resolving)* Chart 1: equity BEGINNING to catch down to credit (credit-leads-equity resolving the usual way).
+  The "does equity confirm" question answering "yes, starting."
+- *(honest state)* Serious + accelerating (periphery breaking, spreads vertical, equity starting to catch down) but NOT yet
+  systemic (core can fund, core-CDS pristine). The whole question = CONTAGION: periphery distress infects the core (equity
+  pukes to credit) vs core absorbs + weak players culled. Charts: periphery BREAKING, core-equity WOBBLING, core-credit FINE.
+- *(book)* Hedged for the contagion tail; the fade-debt-funded thesis being PROVEN in CDS. [[market-fragility]].
