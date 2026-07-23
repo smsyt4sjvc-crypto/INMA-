@@ -51,3 +51,21 @@ the 200-day). **You can't predict the direction of the fire; you can reliably pr
 get paid to insure it.** Use real-time movement for **regime/context** (risk-on/off, where the stress is), never as
 a direction signal. This is the lens to apply to the *next* clever tool before expecting it to forecast direction:
 it won't — but it will tell you the weather, and weather sizes the vol you sell.
+
+## 2026-07-23 ~8:15am PT — Jake's momentum-diffusion principle (the edge is EARLY; momentum overshoots both ways)
+Jake: "the stuff I've been tracking is getting mainstream 'pop culture' attention almost daily... that's powerful, it's
+hard to fight momentum." A process/edge principle, worth stamping.
+- *(the edge is being EARLY, and it's SPENT at mainstream)* Being early on a narrative that goes mainstream IS edge —
+  Jake tracked negative-FCF / capex-gap / x402 before they were the daily conversation. But once a thesis is a Facebook
+  meme it's PRICED/consensus (GOOGL already −7%); the insight is worth ~0. **The durable edge = the PROCESS that finds
+  them early, not any single now-mainstream call.** Alpha already migrated to what he sees NEXT that isn't diffused yet.
+- *("hard to fight momentum" = WHY the vault gates to TRIGGERS, not the thesis)* Being fundamentally right doesn't beat
+  momentum (the melt-up absorbed a correct bear thesis for weeks; Druckenmiller "valuation is not a catalyst"). The
+  discipline: respect momentum until a dated TRIGGER flips the regime, THEN act — already positioned because you saw it
+  early. Don't short the thesis into the melt-up; wait for the break (7/23: oil uncap + complex crack + VIX spike = the flip).
+- *(⚠️ the under-weighted side — momentum overshoots BOTH ways)* What's hard to fight up is hard to fight down. The bear
+  narrative now has its OWN momentum → can run past fundamentals (good for the hedge) OR snap back on a positioning washout
+  (falling-knife trap). Owe the downdraft the same respect paid the melt-up: don't be the hero catching it early, don't
+  marry the doom. Momentum is never your friend — it's a force you position AHEAD of, then step out of the way of.
+- Ties [[defense-not-offense]] (respect the tape), [[detachment-bid]] (the standing bull momentum), [[_assumption-filters]]
+  (narrative-tiers: early = edge, mainstream = spent), [[market-fragility]] (states persist until a trigger; then act).
