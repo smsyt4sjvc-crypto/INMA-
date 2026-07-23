@@ -614,3 +614,22 @@ Source: Jake digest + prices. The "real test" flagged 7/22 (does the complex der
   zone (18-28) = "set the shopping list," not "execute" (28+). CTA trigger is the front-light tranche (ST 7446), not the
   heavy MT/LT (7175/6745). Don't over-call a top off one gap-down; but the CHARACTER changed — first broad-derisk + first
   fired trigger + first VIX spike of the run. Watch: does it hold below 7446 / does VIX push 28 / do the deeper CTA rungs trip.
+
+## 2026-07-23 ~8:10am PT — narrative-diffusion marker: Google-negative-FCF reaches the RETAIL/Facebook tier (mind the SIGN)
+Source: Jake — a "Savvy Investor" FB meme page ("Yikes!", Bloomberg/FT "Google reports first quarter of negative cash
+flow" chart, 51 likes) surfaced in his CASUAL, non-finance FB feed. Jake: "not good when you see this casually on FB... my
+algo doesn't even feed me trading stuff." A [[_assumption-filters]] narrative-tiers datapoint.
+### THESIS (interpretation — NOT fact)
+- *(the SIGN flip — the calibration)* The shoeshine-boy/magazine-cover TOP signal is EUPHORIA diffusing (retail posting
+  MOON charts = last buyer bought). This is the OPPOSITE content: DOOM diffusing ("Yikes!", a red negative-FCF chart).
+  Retail sharing BEARISH charts is historically closer to a BOTTOM than a top — the fear is usually already PRICED (GOOGL
+  already −7%, bond-shorts already knew). So Jake's radar is right but the sign may be backwards: casual-tier DOOM ≈
+  late/priced, not fresh danger. Retail GREED at highs = bearish; retail FEAR in a selloff = capitulation-ish/bullish.
+- *(⚠️ why NOT contrarian-bullish outright)* (1) ONE meme page / 51 likes = EARLY diffusion, not peak-doom (capitulation
+  = doom everywhere + EXHAUSTED). (2) Fundamentals genuinely deteriorating (capex raised, credit leg firing, oil $100,
+  yields year-high) → this doom could be EARLY-AND-RIGHT (accelerates) not LATE-AND-PRICED (fade). Ambiguous direction.
+- *(the tell to watch)* Does the doom EXHAUST (every feed bearish, selling dries up → bullish) or ACCELERATE with worsening
+  fundamentals (→ more downside)? One meme page = narrative entering the retail tier, not yet resolved.
+- *(NOT ambiguous — the chart CONFIRMS the thread)* Bloomberg/FT hard data: Google FCF went NEGATIVE (first since 2004),
+  the $99B equity-mark is non-cash so doesn't rescue it — validates the Wed-night FCF-burn call ([[compression-thesis]],
+  [[ai-financing-fragility]]). Sentiment read ambiguous; the fundamental confirmation is not.
