@@ -1309,3 +1309,17 @@ Polymarket "Fed HIKES 2026": 2-hikes 33% (plurality/rising), 1-hike 28% ($52k vo
 - *(⚠️ discipline — oil-CONTINGENT, not locked)* The hike-pricing tracks Brent 1:1 → it COLLAPSES if the oil premium fades
   (ceasefire → Brent $85 → hikes un-price → regime reverses). The entire rate/$/equity complex is now HOSTAGE to the marker's
   off-ramp (Aramco tail spikes it, ceasefire erases it). Watch oil to trade rates. [[demand-destruction]], [[ai-financing-fragility]].
+
+### 2026-07-23 ~2:30pm PT — tariff SWAP confirmed (grades AM call): forced-labor 10-12.5% REPLACES the lapsed surcharge
+Source: WSJ via ZH. The Section-301 replacement I flagged this AM ("increasingly likely," "base case = swap not tariffs-off")
+is announced: 10-12.5% on ~60 "major trading partners," justified as combating FORCED LABOR. Grades the 7/23 AM tariff call: SWAP, not clean lapse → inflation-persistence, tariff input STAYS ON (stacks w/ oil → higher-for-longer). No disinflationary surprise.
+- *(Jake: "Forced = cheaper than ours" — correct, structural)* If it were REALLY forced-labor it'd be SURGICAL (ban specific
+  tainted goods/regions, like the Uyghur law). A BROAD flat 10-12.5% across 60 economies = general PROTECTIONISM in a
+  human-rights WRAPPER. The wrapper does 2 jobs: morally unassailable + a legally-defensible Section-301 hook (survives WTO
+  where "protect our producers" wouldn't). Economic translation: forced/coerced labor = CHEAP labor → "forced-labor goods" ≈
+  "goods cheaper than we make" → the tariff targets the cost gap and calls it a moral stance.
+- *(same playbook as the Chinese-AI ban)* "Cheap Chinese open models = dystopian security risk" wrapped "protect $50-token
+  margins from the $0.50 competitor." Here "forced labor" wraps "protect producers from cheaper imports." Same grammar:
+  palatable justification → tariff/ban the cheaper competitor. Seen twice in a week (AI models + physical goods).
+- *(⚠️ two-sided)* Forced labor is REAL (Xinjiang); a legitimate case exists. But the broad flat STRUCTURE reveals the primary
+  function is protectionism w/ the concern as the hook. Both true. [[compression-thesis]] (the ban-as-margin-defense parallel), [[demand-destruction]] (inflation stack).
