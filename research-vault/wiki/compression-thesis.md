@@ -680,3 +680,20 @@ template (7/22-23) + the melt-up cracked. Each now read through the GOOGL lens: 
 - *(the week's framework)* Fade widest-gap SPENDERS (META/MSFT/AMZN) on a naked capex raise; shovel-SELLERS (VRT/LRCX,
   NVDA/AVGO indirectly) capture the same spend. Watch the CAPEX GUIDE + demand-confirmation. Register predictions night-before
   (per the ritual) on META + MSFT (7/28) — the two that most directly re-test the GOOGL trade. [[metered-compute]], [[market-fragility]].
+
+## 2026-07-23 ~1:20pm PT — Intel BEATS (Jake's "earnings are fine" validated) — but it's the EASY name + the razor CONFIRMED (seller up-on-capex)
+Source: Jake paste (ZH). Intel AC: EPS 42c vs 21c, rev $16.1B vs $14.4B, upped guide, fastest growth since 2011, +10% AH,
+lifting Nasdaq futs. Lip-Bu Tan: "AI is driving UNPRECEDENTED DEMAND for compute." Raising capex ("meaningful increase" next
+yr, foundry pivot). ⚠️ NO marquee foundry customer revealed (transformation still unproven).
+### THESIS (interpretation — NOT fact)
+- *(Jake's "earnings appear fine" = validated on this leg)* Intel beat big → the "appear fine" call prints. Concede it. AND
+  the "unprecedented compute demand" quote is a genuine datapoint FOR the [[metered-compute]] demand/bull leg (credit it, two-sided).
+- *(⚠️ but it's the EASY confirmation, not the test)* Intel = a beaten-down turnaround (−25% from ATH, LOW consensus bar)
+  clearing a low bar = the easiest beat. The HARD test = hyperscalers (META/MSFT/AMZN, 7/29-30) beating HIGH expectations
+  WITHOUT selling the capex. Intel clearing a low bar says ~nothing about whether META holds a high one.
+- *(the razor CONFIRMED, not contradicted)* Intel raised capex → UP 10%; GOOGL raised capex → DOWN 7%. Not a contradiction:
+  Intel = a SELLER (foundry/chipmaker investing to sell MORE capacity, monetization path = foundry) w/ LOW expectations →
+  bullish (like NVDA/AVGO rose on hyperscaler spend). GOOGL = the PAYER w/ HIGH expectations + the gap. Same action, opposite
+  reaction = the payer/seller + expectations razor PROVING itself. Intel up-on-capex is NOT evidence META/MSFT will.
+- *(grades the 7/22 "Intel off-thread" call)* Correct — Intel = a sentiment lifter (pulls tech up tonight), not the capex-gap
+  test. The tug-of-war Jake forecast is live: Intel pulls tech UP tonight, the capex question pulls it DOWN next week.
