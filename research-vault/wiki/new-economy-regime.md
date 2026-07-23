@@ -1269,3 +1269,21 @@ Jake: "Mortgages and bonds at highs again too." The rates thread reaching the mo
   the AI-capex crack, and Main Street. The 10Y is the single most important number on the screen.
 - *(discipline)* Yields at highs = WATCH for exhaustion, but drivers still ACCELERATING (oil $100, war, deficit) = early-and-
   right, NOT late-and-priced. Not a "bonds cheap, buy" spot yet. Yield PEAK = when oil fades or Fed capitulates (neither has).
+
+### 2026-07-23 ~10:40am PT — Treasury repo investment facility "increasingly likely" (Barclays) = fiscal dominance in the plumbing
+Source: Jake paste (Barclays call — a FORECAST, "increasingly likely," not announced; discount accordingly).
+- *(mechanism)* The TGA (Treasury cash) normally sits idle at the Fed = a liquidity DRAIN. A "repo investment facility for
+  excess cash" = Treasury LENDS that idle cash into the repo market (earning a return) → recycles TGA cash back into the
+  system = **liquidity-SUPPORTIVE** (stops the TGA drain, turns it into a pump). Opposite of the Fed's RRP (which drains).
+- *(why it matters — two at once)* (1) STEALTH EASE: adds money-market liquidity right as funding stress is real (10Y
+  year-highs, "Treasury market at 2007 milestone," foreign demand fading) → risk-asset-supportive, relieves higher-for-longer
+  at the plumbing level ([[financial-gravity]] concept — liquidity drives prices). (2) FISCAL DOMINANCE: managing repo
+  liquidity is the FED's job (SRF/RRP); the TREASURY doing it = fiscal authority in monetary plumbing = blurring the line =
+  the mechanism-level version of the endgame (when foreign demand fades, domestic authorities manage the funding market to
+  keep the debt fundable — the deficit=financing identity's next chapter). Bessent's activist-Treasury toolkit.
+- *(two-sided)* BULL = liquidity injection, eases funding, supports risk (stealth anti-QT). STRUCTURAL-BEAR = an ADMISSION the
+  funding market needs managing + fiscal encroachment on the Fed = debasement-adjacent. You don't build the facility unless
+  the plumbing is starting to seize.
+- *(fit)* Slots into the run-hot/manage-the-debt regime (this morning's synthesis): the concrete answer to "how do you fund
+  $2T deficits when foreigners step back" = manage the domestic plumbing yourself. A DIRECTION marker (toward fiscal
+  management of funding), not a regime trigger by itself. Watch for actual announcement + whether it coincides w/ funding stress spikes.
