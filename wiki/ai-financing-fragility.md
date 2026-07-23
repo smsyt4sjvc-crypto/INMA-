@@ -687,3 +687,28 @@ Supplements the 7:30am AMD-Anthropic node. Jake: "did we have this already?" —
 - *(two-sided, unchanged)* Also AMD's rational play — lock Anthropic off Nvidia, validate MI450. Circular AND strategic.
   But the lease backstop RAISES AMD's at-risk exposure from a $5B bet to guaranteeing someone else's real-estate liabilities
   — right as the credit market is repricing exactly those liabilities. [[compression-thesis]] (means-of-financing razor).
+
+## 2026-07-23 ~10:20am PT — the OFF-BALANCE-SHEET layer: Google $811B contracted commitments (+$500B in ONE quarter); ~$2.3T complex-wide
+Source: Jake paste (Alphabet 10-Q commitments + ZH "$1.8T→$2.3T off-balance-sheet AI time bomb"). The forward-OBLIGATION
+layer beneath the $205B annual capex — the real reason GOOGL sold.
+### DATA (as-reported)
+- **Alphabet contracted future spending commitments = $811B at 6/30, up ~$500B from 3 months earlier.** Legally-binding
+  purchase obligations (supply agreements, open POs) — MUST-PAY regardless of revenue; disclosed in 10-Q FOOTNOTES, NOT on
+  the balance sheet as debt. ZH aggregate across the complex: **$1.8T (6d ago) → $2.3T now.** (Discount ZH's "time bomb"
+  adjective; the mechanism — off-balance-sheet purchase obligations = hidden leverage — is real 10-Q disclosure.)
+### THESIS (interpretation — NOT fact)
+- *(the razor at its deepest — SAME fact is max-bull AND max-bear)* BULL: committing $811B forward, +$500B/qtr = the deepest
+  demand-CONFIRMATION possible (you don't sign $500B of POs for capacity you won't fill) → Google validating [[metered-compute]]
+  / shortage-not-glut with legally-binding contracts, not a press release. BEAR: $811B MUST-PAY, OFF-balance-sheet, while FCF
+  just went NEGATIVE = committing faster than monetizing with the TRUE leverage invisible to debt metrics. If demand-timing is
+  wrong OR an efficiency shock (cheap Chinese models → less compute/task) cuts the need → STRANDED obligations = fixed cost on
+  unfillable capacity = operating leverage in reverse. Which one wins = does the demand convert. The $500B/qtr ACCELERATION
+  makes BOTH outcomes more extreme (bigger heal or bigger stranding).
+- *(the 3rd layer of hidden AI leverage — the stack)* (1) BONDS (SpaceX/hyperscaler paper at junk spreads) = visible credit;
+  (2) CIRCULAR BACKSTOPS (AMD guaranteeing Anthropic leases) = contractual transmission; (3) OFF-BALANCE-SHEET COMMITMENTS
+  ($811B Google, ~$2.3T complex) = hidden obligations. All the same thing: the AI buildout's TRUE leverage >> headline debt,
+  and most doesn't show where people look. "Big Tech fortress balance sheets" is quietly false — fortress on the REPORTED
+  books, hollow in the FOOTNOTES.
+- *(why GOOGL sold −7%)* The market saw not the annual $205B but the $811B forward commitment (+$500B/qtr) + negative FCF +
+  off-balance-sheet scale = committing obligations faster than monetizing, hidden from the metrics. The forward-commitment
+  scale was the sell, not the annual number. [[compression-thesis]] (means-of-financing razor), [[metered-compute]] (the demand it bets on).
