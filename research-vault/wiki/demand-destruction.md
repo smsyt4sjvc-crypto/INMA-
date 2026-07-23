@@ -1874,3 +1874,24 @@ Source: Windward Maritime AI (SAR + EO satellite, 21-23 Jul) — credible OSINT,
 - *(marker state UNCHANGED)* Still uncapped to $100 (holding), catastrophic tail primed. The trigger is still a SAUDI/
   ARAMCO/Abqaiq-class EXPORT-TERMINAL strike — not two leaking tankers off an Iranian island. Larak = a supporting
   disruption datapoint (deepens Hormuz reroute + touches Iran's dark-export hub), NOT the uncapping event.
+
+### 2026-07-23 ~3:10pm PT — NON-KINETIC closure route: Lloyd's clause voids insurance for ships paying Iran's Hormuz toll
+Source: CNN (Goldman/Ziady, Jake paste). A NEW marker dimension — Hormuz closing via the INSURANCE layer, not a strike.
+#### DATA (as-reported)
+- **Lloyd's Market Association (LMA) drafted a clause: paying a toll to Iran (directly or via agents) to transit Hormuz is
+  illegal (sanctions) → can VOID the ship's ENTIRE insurance policy.** Iran forces ships to hug its coast, register, pay a
+  toll; fires on vessels that avoid it (Omani-coast route). **⚠️ It's GUIDANCE, not a mandate** — "agents/shipping cos can
+  draft policies as they see fit." Stacked on the Houthi Bab-el-Mandeb blockade → "few remaining paths for ME oil to customers."
+#### THESIS (interpretation — NOT fact)
+- *(new dimension — FINANCIAL/insurance closure, durable)* Insurance = binding shipping infrastructure (no coverage = no
+  cargo; charterers/banks require it). So this is a STRUCTURAL tightening that doesn't fade like a headline. The bind: pay
+  Iran's toll → void policy + sanctions breach; don't pay → get fired on. Either way insured Hormuz transit = untenable = de
+  facto closure via the financial layer, no blockade needed. Advances tell (c) [chokepoint closure] via a NON-KINETIC mechanism.
+- *(⚠️ discipline — one step short of the catastrophic uncap)* (a) GUIDANCE not mandate → the insurance market SIGNALING toward
+  closure, not a hard closure. Watch BROAD insurer adoption = the hard-closure tell. (b) TRANSIT-friction (raises cost/impairs
+  flow) NOT export-CAPACITY destruction (the Abqaiq tell → $120-147). Tightens the chokepoint route durably; not the physical uncap.
+- *(the irony — the real toll-collector)* Iran tries to become the Hormuz toll-collector; the INSURANCE market (the actual
+  shipping gatekeeper) says "pay that toll, we void you." Iran can shoot ships but can't make them insurable — Lloyd's is the
+  meta-toll Iran can't capture. The war hit a financial chokepoint stronger than the physical one.
+- *(net)* ~20% of global oil via Hormuz; if uninsurable → a supply event w/o another shot. Keeps the premium sticky + feeds
+  the oil→hikes rate spiral. Durable/structural, but guidance-not-mandate + transit-not-capacity = short of the catastrophic tail.
