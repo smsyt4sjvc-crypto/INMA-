@@ -723,3 +723,18 @@ Source: GS "The Markets", Vinnie Lin, 7/24 (final segment). FACTS only (copyrigh
 - *(net — the coiled setup)* Low directional exposure (de-grossed) + buyers tentatively back (squeeze-lean) + heading into a BINARY (capex
   beats) + tail risk re-loaded (hedges off) = LOW everyday sensitivity, HIGH EVENT sensitivity. Quiet on a quiet day; violent on the wrong
   headline because nobody's hedged. [[compression-thesis]] (the razor), [[ai-financing-fragility]] (the shocks), [[detachment-bid]], [[where-the-edge-is]].
+
+### 2026-07-24 ~9:23AM PT — ⚠️ SOURCE-DISCIPLINE sharpening (Jake's catch): the GS framing-vs-data DISSONANCE
+Jake flagged it from the raw chunks (without Claude's replies in between): GS Prime's NOUNS and VERBS don't match.
+- *(the dissonance)* NOUNS (their DATA): −40%, sharpest in 5yr, largest supply in 10yr, momentum factor vol HIGHEST IN 45YR
+  ("highest outside recessions"). VERBS (their FRAMING): "healthy reset," "buy the dip," "conviction intact." → Data = historic
+  DISLOCATION; framing = routine BUYABLE pullback. Rule: trust what they MEASURED (proprietary, real), discount what they CONCLUDED
+  (interested — prime broker revenue IS clients re-leveraging). They dressed a THESIS in DATA's clothing (firewall violation).
+- *(sharpest line)* "45yr vol, highest OUTSIDE RECESSIONS" = the only historical company for this reading is RECESSIONS. They handed
+  a recession-grade dislocation and called it a healthy reset. You don't get 45yr-extreme factor vol in "routine resets."
+- *(⚠️ the honest counter — don't over-correct to 'they're lying')* Extreme vol cuts BOTH ways: 45yr factor vol is ALSO the signature
+  of capitulation BOTTOMS (the violent flush that CLEARS a crowded trade). Vol extreme = MAGNITUDE not DIRECTION ([[seeing-vs-predicting]]).
+  GS looked at genuinely ambiguous extreme data, picked the benign branch (their book), and stated a PROBABILITY as a VERDICT — not
+  necessarily a lie, a self-interested party rounding a coin-flip up. The vol-forced-deleveraging mechanic IS a real "purge" argument.
+- *(net)* Believe the data (move is historically violent — true + important); discount the branch-pick ("healthy reset/buy the dip").
+  Data says "this is ENORMOUS," not "this is UP." The branch is picked by next week's capex fundamentals, NOT GS's framing.
