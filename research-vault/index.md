@@ -1,7 +1,7 @@
 # Vault Index — the map (read after CLAUDE.md)
 
 Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), then this (what exists + where).
-52 notes, 70 raw sources, 30 tools. Last built: 2026-07-23. Regenerate when notes are added/renamed.
+53 notes, 70 raw sources, 30 tools. Last built: 2026-07-23. Regenerate when notes are added/renamed.
 (+ `wiki/war/` containment added 2026-07-23: war-board / war-confirmed / war-rhetoric — the scannable war index.)
 
 > Two domains, two brains: THIS vault = markets research. The **trading system** is a SEPARATE repo
@@ -75,6 +75,7 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 - [[structural-pull-log]] — weekly positioning/filings baseline
 
 ## 🔬 Studies / screens / synthesis
+- [[dip-buying-base-rates]] — the ruler for adding on weakness (war down-day + weekend base rates + ATH-drawdown ruler; SPY/QQQ)
 - [[who-gets-paid-12m]] — the next-12-months synthesis
 - [[cluster-shortlist-workup]] — E-path workup on the 15 names
 - [[quiet-health-screen]] — value × health × no-story
