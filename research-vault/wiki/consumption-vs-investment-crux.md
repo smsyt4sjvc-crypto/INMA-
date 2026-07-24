@@ -119,3 +119,22 @@ as job growth slows + companies keep the valuable employees, everyone else runni
 - *(tie)* The crux answer: consumer is healthy AND borrowing-to-fake-it, SPLIT BY TENURE. Stacks on the higher-for-longer
   squeeze (bifurcated consumer + 21% CC + rising mortgages = 3-sided marginal hit). Demand-destruction under the headline,
   sized by delinquencies. [[new-economy-regime]] (the "lie about jobs"/composition thread), [[demand-destruction]].
+
+### 2026-07-24 ~4:42PM PT — JOBLESS CLAIMS = a FIRING gauge misread as a labor-HEALTH gauge (Jake's compressed-denominator, now mainstreaming)
+Jake paste (piece on "claims lowest since 1969" being misleading) + "they're just catching up lol." Confirms/grades his earlier-this-session compressed-denominator/phantom-labor call.
+#### DATA / mechanism (as-reported, sound)
+- Gig work (Uber/DoorDash/Instacart/freelance, ~millions) gives laid-off workers an alternative to FILING; independent contractors/self-employed
+  are UI-INELIGIBLE anyway; documented result: Uber market-entry → measurable DROP in UI applications among drive-capable eligible workers. = a
+  "phantom labor buffer" suppressing claims even as traditional jobs vanish. Also excludes discouraged workers (left LF), underemployment (PT-for-economic), gig-churn.
+#### THESIS (interpretation — NOT fact)
+- *(the sharper frame — narrow, not useless)* Claims aren't BROKEN; they measure one thing — the RATE of FIRING in covered employment — which is
+  genuinely LOW ("no fire"/labor hoarding). They DON'T measure the weak stuff: HIRING (frozen), underemployment, gig-churn, discouraged exits. A
+  FIRING gauge misread as a labor-HEALTH gauge. Low claims = low firing, NOT healthy market. Both true at once: firms not firing AND market weak
+  (no-hire + gig-buffer + tenure-not-growth wages) = "slow hire, no fire" + compressed denominator, unified.
+- *(⚠️ calibration on the piece)* "$275/wk max, nobody files" CHERRY-PICKS a low-benefit state — max UI varies ~4× (MS ~$235 vs WA/MA ~$1000+);
+  directional point holds (gig-capable skip filing), universal number over-reaches (same discipline as the Dowd line: mechanism real, punchy number too clean).
+- *(why it matters)* If labor is weaker than the headline implies: (a) supports the stretched-consumer/K-shaped-freeze read (CC debt, tenure wages,
+  outsiders hurting/buffer hides it); (b) the Fed's "strong labor" premise is overstated; (c) "record-low claims=strength" = a FALSE-COMFORT signal
+  ("nobody formally fired YET"). Feeds [[new-economy-regime]] rate-regime + the run-hot/lie-about-jobs thread.
+- *(the "catching up" — durable edge not crowded)* Unlike the AI-bear (consensus/momentum), this is a PERMANENT STRUCTURAL distortion (the gig buffer
+  changes what the metric can SEE), not sentiment that reverses. Jake was early on a lasting fact, not a trade that expires — real durable edge.
