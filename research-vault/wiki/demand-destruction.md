@@ -1947,3 +1947,28 @@ Source: NYT (Jake paste), Thu evening. "Iran has rejected a US ceasefire deal pr
   to de-escalate on terms Iran could actually accept — you don't fold your one card as the PRICE of a ceasefire. Without the
   terms, "Iran rejected a deal" is a headline with the payload redacted. Net: lowers diplomatic-path odds a notch on optics
   only; mostly hollow until terms surface. (Down-weights the headwind I logged above — it's softer than a bare "rejection" reads.)
+
+### 2026-07-23 ~6:05pm PT — Jake's frame: the ceasefire offer = Trump's PREDICATE for both paths (rejection = permission slip, not shock); strikes reportedly underway
+Source: Jake's read + Jake's live feed (attacks "started 2.5h ago" — see ⚠️ below). Day 145.
+#### DATA (as-reported)
+- **⚠️ UNCONFIRMED (per Jake, not independently verified by Claude):** US/coalition attacks on Iran reportedly began ~3:30pm PT
+  (2.5h before the 6:05pm note). No source/target detail; no oil marker confirmed hit. Logged as a CLAIM pending confirmation.
+- (Context, prior entry) NYT: Iran rejected the Iraqi-brokered US ceasefire earlier today.
+#### THESIS — Jake's predicate framework (user's thesis, strong)
+- *(the structure)* The ceasefire offer wasn't a peace attempt — it was Trump's **prerequisite/predicate** for EITHER path.
+  Refuse → the threatened strikes become JUSTIFIED, pre-scripted, telegraphed → **no surprise-shock to markets** (the
+  war-premium is already priced; a manufactured predicate can't shock the thing it exists to justify). Accept → weekend talks.
+  Either branch, Trump keeps the optics; the rejection is the PERMISSION SLIP, not the surprise. → down-weights the "headwind"
+  logged in the two prior entries further: the diplomatic rejection is a ~nothingburger for the tape.
+- *(keeps Jake's de-escalation call ALIVE — strike-then-deal)* Tonight's attacks = the leverage/punishment leg; still a day for
+  a fresh proposal AFTER Fri close (7/24) = exactly Jake's window. Bomb-then-negotiate → the strikes are the SETUP for the
+  off-ramp, not the alternative to it. Revives, not kills, the 7/23 de-escalation/VIX-pop call.
+#### THESIS — Claude calibration (the tail the clean script smooths over)
+- *(what the framework under-weights)* "No surprise shock" holds ONLY IF the strikes stay inside the priced war-band and OFF
+  the oil tells. The predicate is controlled right up until a "justified" strike hits Iranian EXPORT infra (Kharg) — or Iran's
+  retaliation lands on a Saudi/Gulf terminal. THAT is where scripted-escalation stops being scripted and becomes the UNCAP
+  ($120-147), which does shock the tape. The market isn't pricing CONTROLLED strikes as risk; it's the export-terminal tail
+  it's underpricing. Jake's right the diplomatic PAPER is a nothingburger — the live risk was always WHERE the ordnance lands.
+- *(marker board — the operative question is now WHAT DID THEY HIT)* Unchanged triggers: Aramco/Iranian-export-terminal strike
+  (uncap), broad insurer adoption (hard closure), fresh proposal/de-escalation speech (off-ramp — still live per strike-then-deal).
+  The reported attacks are TEXTURE until a target crosses a tell. Watch: Kharg/export-terminal confirmation vs a Fri-close proposal.
