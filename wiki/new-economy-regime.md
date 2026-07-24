@@ -1336,3 +1336,13 @@ THESIS (interpretation):
 - *(⚠️ discipline — probe NOT tariffs)* 301 investigations take MONTHS (China's ~7mo launch→tariffs). A THREAT + negotiating LEVER (pressure
   EU to soften DMA/digital-tax enforcement under the tariff gun), not an action today. WARNING-vs-TRIGGER: state/odds-shader, not a dated
   catalyst. Near-term market impact small = theme reinforcement (Trump championing US tech), not a mover.
+
+##### 2026-07-24 ~11:28AM PT — primary source: Trump's actual Truth Social post on the 301/EU probe (confirms + quantifies the entry above)
+- DATA (Trump @realDonaldTrump, ~1h): EU fines on US tech tallied — **Apple $15B, Meta $3B, Amazon $2.5B, Google $18B total (latest +$1B) ≈ $38B+.**
+  Explicit ladder: (1) penalties "will be entirely REVERSED," (2) "a substantial TARIFF at the earliest possible moment." Framing: "PIGGYBANK," "ROBBING,"
+  blames Biden's first year. Confirms the 301-probe entry above with numbers.
+- *(incremental read)* The ~$38B tally = a real quantified grievance (not symbolic) → strengthens the political durability of the "EU robbing US tech" frame.
+  The ladder is maximalist: a 301 takes MONTHS to tariffs; "reverse the penalties" is an OPENING position a 301 can't force (EU won't refund on a Truth post);
+  "earliest possible moment" tariff = telegraphed not immediate. = maximalist rhetoric + real process + real threat, NOT a today-mover. Discount the "PIGGYBANK/
+  ROBBING/blame-Biden" packaging; substance = formal US move to defend Big Tech + tariff threat. Read UNCHANGED (marginal US-megacap tailwind, EU headwind,
+  tariff-inflation stack, 3rd "America wins tech" flag of the day). WARNING-vs-TRIGGER: odds-shader not catalyst.
