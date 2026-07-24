@@ -760,3 +760,51 @@ Source: Jake — 3 charts. (1) GS hyperscaler bond basket G-spread 118→162 nea
   systemic (core can fund, core-CDS pristine). The whole question = CONTAGION: periphery distress infects the core (equity
   pukes to credit) vs core absorbs + weak players culled. Charts: periphery BREAKING, core-equity WOBBLING, core-credit FINE.
 - *(book)* Hedged for the contagion tail; the fade-debt-funded thesis being PROVEN in CDS. [[market-fragility]].
+
+### 2026-07-23 ~8:05pm PT — THE FAILURE-MODE PLUMBING (Jake's 4 questions) + the off-switch is a TRIGGER not a floor
+Jake's questions (learning the credit-cycle mechanics), + the correction he forced on my "cash-rich core = floor" framing.
+Source: session dialogue; mechanics = analysis (marked THESIS). Context Jake cited: Oracle spread (wk ago), a 7/23 corp-bond
+wobble (his feed), GOOGL free-cash-flow negative (the FB chart). Firewall: the STRUCTURES are as-modeled; the reads are thesis.
+#### THESIS (interpretation — NOT fact) — the four failure modes
+1. *(does one exposure sink all? — RE-RATE all, DEFAULT some)* A clear circular-financing exposure triggers a **recognition
+   cascade**: the skeptic lens generalizes to every similar structure → the whole web re-rates via the MULTIPLE, at once.
+   "Beats but stock falls" = that re-rating already starting (market discounting the QUALITY of the beat). But **defaults
+   concentrate in the levered periphery**, not the cash-rich core. Everyone cheaper; only the borrowed-to-the-hilt get wiped.
+2. *(insurance/VC tranche circle)* Private-credit firm that OWNS an insurer (Apollo/Athene) originates a datacenter loan →
+   tranches it (senior→insurers as "IG", mezz→credit funds, equity/first-loss→sponsor/VC) → places the senior with its OWN
+   insurer. Originator = rater-shopper = end-holder = one complex → **diversification is FAKE (risk warehoused inside one
+   balance sheet, the 2008 originate-to-warehouse rhyme).** Failure points: (a) first-loss tranche is thin + collateral is
+   GPUs → if utilization disappoints OR chips depreciate to scrap in 3yr not 6, losses eat through equity/mezz into the
+   "safe" senior; (b) **breaks at the REFINANCING seam** — the day the VC can't raise the next fund to refill first-loss, the
+   origination machine stops AND existing deals can't roll. A rollover failure BEFORE a default.
+3. *(buyer's strike = CAPACITY not PRICE — the sharpest)* Normally yield clears anything; a strike happens when buyers are
+   full (concentration/capital limits), forced sellers themselves, or **legally barred** — a downgrade below IG MANDATES
+   insurers/pensions to sell + PROHIBITS holding regardless of yield → the buyer base structurally VANISHES ("fallen angel"
+   cascade). Deeper trap: roll hundreds of $B into a finite buyer pool → **the yield that clears the bond = the yield that
+   makes the project uneconomic** (clearing price IS the default trigger). Counter: this is exactly where the Fed steps in
+   (bought corp bonds Mar-2020) → strike is real but has a lender-of-last-resort behind it (unless inflation handcuffs it).
+4. *(are VCs levered, from whom? — yes, partly circular)* Fund-level: subscription lines (vs LP commitments) + **NAV loans**
+   (vs the fund's OWN illiquid marks) — lenders incl. **private-credit funds** (credit funds lending to equity funds). The
+   doom loop: Nvidia's chip profits → invested in OpenAI/neoclouds → who BORROW against the chips to buy MORE chips → whose
+   purchases are Nvidia's revenue. System **manufactures its own demand with its own balance sheet.** Lenders = private
+   credit, insurance-backed SPVs, and the VENDORS (MSFT funding OpenAI in Azure credits; AMD-Anthropic warrants). On unwind
+   the vendor eats it 3 ways at once: equity impairs + receivable unpaid + **revenue revaporizes** (it was partly own money).
+#### THESIS — the off-switch is a TRIGGER, not a floor (Jake's catch, conceded)
+- *(my "cash-rich core can just stop = floor" was too clean)* Google's capex IS the complex's revenue. The stop does two
+  violent things at once: (a) **removes the demand** — the payer's off-switch = the seller's KILL-switch (Nvidia/memory/power/
+  neoclouds/contractors lose the customer); (b) **confirms the bear by existing** — a VOLUNTARY cut by the best-informed
+  spender = an admission ROI < cost of capital → the market re-rates the whole capex thesis on the SIGNAL, before a cash flow
+  moves. **The cut is the confession.**
+- *(the asymmetry — makes the bear cleaner)* The cut SAVES the cutter (FCF improves, survives cheaper) and DAMNS the sellers.
+  "Half the index" splits along the payer/seller line (the capex-gap razor): payers de-rate but live; sellers priced for
+  acceleration don't. Not a floor under the index — a **trapdoor under one half of it.**
+- *(a TRIM is enough — the 2000 telecom template)* Telcos never STOPPED buying fiber, they stopped GROWING it; the negative
+  second derivative alone bankrupted Nortel/Lucent/Global Crossing (priced for acceleration, not level). Google +$205B → merely
+  FLAT craters the hypergrowth-priced sellers. Demand needn't vanish, just stop compounding.
+- *(reflexive trap — why "by choice" is NOT reassuring)* First to blink marks the top + is punished for "falling behind" → all
+  keep spending because cutting first is suicide, not because ROI is clearly there. Capex tops are **sticky then sudden**: nobody
+  blinks, nobody blinks, then one is forced → cascade. The grind, then the flush.
+- *(the actual floor = ONE question, the ROI razor)* Whether the cut ever comes hinges on utilization/recurrence: real paid
+  end-demand (Jake's [[metered-compute]] bull — validates the spend, ROI shows, no cut, no fire) vs speculative buildout (cut
+  → confession → cascade). The bear needs demand SPECULATIVE; Jake's own thesis is the case it's STRUCTURAL. Same unresolved
+  razor — everything sits on which side the utilization data lands. Not a floor — **a coin still in the air.** [[compression-thesis]].
