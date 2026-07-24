@@ -1,7 +1,8 @@
 # Vault Index — the map (read after CLAUDE.md)
 
 Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), then this (what exists + where).
-49 notes, 70 raw sources, 30 tools. Last built: 2026-07-22. Regenerate when notes are added/renamed.
+52 notes, 70 raw sources, 30 tools. Last built: 2026-07-23. Regenerate when notes are added/renamed.
+(+ `wiki/war/` containment added 2026-07-23: war-board / war-confirmed / war-rhetoric — the scannable war index.)
 
 > Two domains, two brains: THIS vault = markets research. The **trading system** is a SEPARATE repo
 > (`Alpaca-Claude`) with its own `CLAUDE.md` — staged in `trading-system/` (one domain per vault).
@@ -39,9 +40,15 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 - [[power-not-petroleum]] — the core energy-rotation thesis
 - [[power-scarcity-equities]] — the three tiers (and the bottleneck≠hedge correction)
 - [[nuclear]] — the AI-power sleeve
-- [[demand-destruction]] — oil / war fuse (Hormuz, Red Sea, the buffered-shortfall thread)
+- [[demand-destruction]] — oil / war THESIS + marker framework (the reasoning; war EVENTS moved to `wiki/war/`)
 - [[oil-value-chain]] — where the oil money goes by layer (own the crack + the toll, not the barrel)
 - [[civilian-infra-strike-log]] — dated ledger, both sides: non-military / civilian-impact strikes (power/water/telecom)
+
+## ⚔️ War containment (`wiki/war/` — the scannable Iran-war index; flags 🔴/🟠/🟡/⚪)
+- [[war-board]] — THE ONE SCREEN: live marker board, triggers, current status, flag legend + logging rule (open first)
+- [[war-confirmed]] — confirmed-event ledger (official/neutral/data), one flag each
+- [[war-rhetoric]] — rhetoric/verbal ledger (threats/claims/doctrines), one flag each
+- (Scan for market-relevant war items: grep `MARKER-MOVED\|SHOULD-MOVE` across `wiki/war/`.)
 
 ## 🩻 Fragility / regime / breadth
 - [[market-fragility]] — the regime read

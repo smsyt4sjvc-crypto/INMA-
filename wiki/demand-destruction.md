@@ -1,6 +1,10 @@
 # Demand Destruction (oil)
 
-Related: [[power-not-petroleum]], [[market-fragility]]. Source: HFI Research (`raw/hfi-oil-disconnect.txt`).
+> 📁 **WAR EVENTS now live in [[war-board]]** (the `wiki/war/` containment: [[war-confirmed]] + [[war-rhetoric]], flagged
+> 🔴/🟠/🟡/⚪ for scanning). THIS note is the oil THESIS + marker-framework (the reasoning). Dated war-event entries below
+> (through 2026-07-23) are PRESERVED as the historical chronology; new war items log to the ledgers going forward.
+
+Related: [[power-not-petroleum]], [[market-fragility]], [[war-board]]. Source: HFI Research (`raw/hfi-oil-disconnect.txt`).
 
 > Firewall: DATA = what HFI reported / what the term means. THESIS = the read.
 
