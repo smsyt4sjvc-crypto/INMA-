@@ -746,3 +746,12 @@ GREEN; SPX flat +0.07%. Headlines: "Micron Falls to End Strong Week — What Com
 Rally Is at Risk." THESIS: memory UNDERPERFORMING chips a 2nd straight session while payers hold = the non-confirmation pointing
 the same way twice. ⚠️ still a broad semi-down day (contaminated); the RELATIVE MU<NVDA (~3.7pts) is the clean tell. Clean vote =
 META/MSFT/AMZN capex 7/29-30. The discrimination is now in the EQUITY tape (sell memory/neoclouds, hold cash-rich core), not just CDS.
+
+### 2026-07-24 ~9:00AM PT — INTEL round-trip COMPLETE = beat-but-sell CONFIRMED (the "Friday is the referee" call graded)
+DATA (Kobeissi/live): Intel fully erased its +15% AH post-earnings spike (~$114) and fell to ~$96.14, **−4% on the day**, −$90B
+market cap since the 4:20pm ET earnings drop. The beat was huge ("fastest revenue growth in ~15 years"). THESIS: grades my 7/23
+"Friday's regular session is the real referee" call — referee ruled AGAINST the pop. A monster beat closing RED = the beat-but-sell
+pattern (same fingerprint as GOOGL 7/22): AH pop on the number → overnight/next-day fade as the market discounts earnings QUALITY
++ the capex/depreciation math. The behavioral tell of this tape: good earnings aren't enough; the reaction gets sold (market pricing
+FORWARD — oversupply/depreciation/peak-capex — through a backward-looking beat). Not an Intel story: inside the semi-down day
+(SOXX −2.8%, MU −4%) = the discrimination. Also the percentage-asymmetry lesson made concrete: +15% then round-trip = net NEGATIVE.

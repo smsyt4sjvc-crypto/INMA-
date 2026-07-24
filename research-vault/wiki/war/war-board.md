@@ -65,4 +65,4 @@ crossing of it.* Watch items: Kuwait-facility ID · Kharg/Saudi-terminal strike 
 ## UPDATE — 2026-07-24 ~6:44AM PT (Fri open) — war premium UNWINDING
 - **Oil bleeding premium: Brent −2.8% BELOW $100 (97.89), WTI 90.38.** "Risk premium unwinding." Still above the $90 marker but heading toward it.
 - **Pentagon LOWERED the official Iran death toll (omitting the 4 killed this month)** = off-ramp-adjacent narrative-management texture.
-- Marker UNCHANGED: no export-terminal strike. Premium coming OUT = mildly de-escalation-leaning (aligns Jake's oil-off-ramp; equities not paying for it). Watch 0.
+- Marker UNCHANGED: no export-terminal strike. Premium coming OUT = mildly de-escalation-leaning (aligns Jake's oil-off-ramp; equities not paying for it). Watch $90.
