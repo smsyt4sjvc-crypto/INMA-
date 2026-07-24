@@ -69,3 +69,13 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
   may matter more than the conflict," ~+$7-8/bbl Brent per additional month of disruption; "Iran+Houthis add $49 to oil, demand cuts $10."
 - 🟡 `[ODDS-SHADER]` — northern Iraq = where Sgt Swinton died (7/18); the nightly loop continues, still OFF the export tell. JPM's
   duration-premium quantifies the GRIND (premium compounds with time, no fresh shock needed). Oil elevated on duration, not a physical uncap.
+
+### 2026-07-24 — Bahrain + Kuwait warplanes struck Iran (early July) — first direct Gulf-Arab retaliation; UAE cover; Saudi "evaluating" (WSJ)
+- DATA (WSJ, "people familiar," reported 7/24 re: early-July events): Bahrain + Kuwait secretly sent jets to strike Iran (drone/missile-storage depots +
+  military sites); **UAE provided intel + defensive air cover** ("budding Arab cooperation"); **Saudi Arabia "currently evaluating its position."** UAE backs
+  "a FULL OPENING of the Strait of Hormuz." Iran had hit 2 Emirati oil tankers + a Kuwaiti power/desal plant. NEW this week (WSJ): "Red Sea blockade + Houthi
+  strikes on shipping." Analysts: Gulf realizing war will continue → "confront Iran openly"; even "countenancing regime change in Tehran." Kuwait/Bahrain no comment.
+- 🟠 `[SHOULD-MOVE]` — the war WIDENING (Gulf-Arab coalition forming) = escalation of SCOPE. BUT targets MILITARY not oil-export → still OFF the export tell.
+  Two-sided on oil: Gulf incentive = OPEN Hormuz (bearish, pro-flow) BUT the path raises the uncap tail (more Gulf strikes → Iran retaliates on GULF EXPORT
+  infra = Abqaiq uncap; Iran already hit Emirati tankers + Kuwaiti infra). Regime-change talk = corners Iran → cornered-regime-uncaps-maximally. Red Sea = tell (c)
+  ADVANCING (threat 7/18 → kinetic Houthi blockade this week). Export-strike UNFIRED but conditional odds UP. See [[war-board]] update + [[demand-destruction]].
