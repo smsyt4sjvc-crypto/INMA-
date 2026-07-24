@@ -697,3 +697,16 @@ yr, foundry pivot). ⚠️ NO marquee foundry customer revealed (transformation 
   reaction = the payer/seller + expectations razor PROVING itself. Intel up-on-capex is NOT evidence META/MSFT will.
 - *(grades the 7/22 "Intel off-thread" call)* Correct — Intel = a sentiment lifter (pulls tech up tonight), not the capex-gap
   test. The tug-of-war Jake forecast is live: Intel pulls tech UP tonight, the capex question pulls it DOWN next week.
+
+### 2026-07-24 ~6:20am PT — Token costs at 3.5-MONTH LOWS + Hyperscaler index at lows ("erased the agentic bounce") + cheap Chinese compute
+Source: Jake ZH pre-market scroll. DATA (as-reported): token costs at 3.5-month lows; the Hyperscaler index also at lows;
+"erased the entire agentic bounce." ZH: "Braggawatts, Cheap Chinese Compute, & Simple ROI"; DeepSeek CEO "blackpill"; Kimi K3.
+#### THESIS (interpretation — NOT fact)
+- *(the razor MOVING, price-side)* Falling token PRICES = compute deflating → pressures the SELLERS' margins regardless of demand
+  volume. The compression note's core question (input-deflation heal vs demand air) now has live price data pointing DOWN. Two reads,
+  still unresolved: (a) deflationary HEAL — cheaper compute pulls MORE demand ([[metered-compute]] bull, Jevons); (b) the speculative
+  agentic bounce leaking out (demand was froth). The DATuM (price↓) is neutral on which; it's bearish SELLER MARGINS either way.
+- *(ROI razor from the COST side — the new vector)* "Cheap Chinese compute + simple ROI" + DeepSeek/Kimi = if capability is available
+  near-free (distillation/open-weight), the US hyperscaler $205B-capex ROI is structurally WORSE (why build if it's cheap to rent/copy?).
+  This is the "confession" pressure ([[ai-financing-fragility]] off-switch) building from COMPETITION, not just from returns. Bearish the
+  capex-payer's ROI; the counter is [[metered-compute]] (own-the-bottleneck demand is real regardless of model price). Razor still open.

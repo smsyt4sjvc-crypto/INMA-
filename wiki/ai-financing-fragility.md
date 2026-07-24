@@ -833,3 +833,27 @@ everyone regardless of their position." Correct, and it names the solvency-vs-li
   appears (won't buy at ANY yield) = the discriminating signal flips systemic. **Transition from WIDENING → NO BID = the single
   line.** Today = widening, NOT gapped. When it gaps, the grind became the flush. Ties the discriminating-credit-break read to a
   falsifiable regime-change trigger.
+
+### 2026-07-24 ~6:20am PT — FRAGILITY GOES LOUD on 4 fronts (Fri pre-market scan) — but still WIDEN not SEIZE
+Source: Jake ZH pre-market scroll. Firewall: bond levels/quotes = as-reported DATA; reads = THESIS.
+#### DATA (as-reported)
+- **SPCX (SpaceX) bonds new ATL: 87, YTW ~7.6-7.7%, "trading as a B, fast approaching the BBG cash HY average."** (prior note: SPCX 168 CDS.)
+- **Goldman Delta-1 on AI bonds:** "Reflexivity remains the most important point... the bonds deserve attention. The hyperscalers
+  have enormous financial capacity and are NOT heavily levered on balance sheet. But repricing is still punitive for equity multiples."
+- **Token costs at 3.5-month lows; the Hyperscaler index also at lows — "erased the entire agentic bounce."**
+- ZH pieces: "Braggawatts, Cheap Chinese Compute, & Simple ROI"; DeepSeek CEO interview ("largest blackpill"); CAIS: Kimi K3 still behind US frontier.
+#### THESIS (interpretation — NOT fact)
+- *(SPCX = the pace tell IN ACTION)* Bleeding TOWARD the HY average = still a WIDEN, not a gap to no-bid. The DISCRIMINATING/
+  culling signal loud + accelerating, NOT the seizure. The falsifiable line (widen→no-bid) has NOT crossed. Watch the gap.
+- *(Goldman = our framework, 3rd-party, verbatim)* "Enormous financial capacity, not heavily levered" = CORE SOLVENCY INTACT;
+  "punitive for equity MULTIPLES" = damage is the multiple not the balance sheet; "reflexivity most important" = the reflexive
+  trap (spend because blinking first is punished). Confirms discriminating-break + off-switch + multiple-derate. ALSO the bull
+  anchor: periphery + multiples, NOT core solvency = culling not collapse.
+- *(token costs at lows = the compression razor MOVING)* Falling token PRICES = compute deflating → pressures SELLER margins
+  regardless of demand. Two reads (razor unresolved): deflationary HEAL (cheaper→more demand, [[metered-compute]] bull) vs the
+  speculative agentic air leaking out. The price data the ROI razor resolves on is currently pointing DOWN. [[compression-thesis]].
+- *(China cheap-compute = ROI razor from the COST side)* If Chinese/open-weight compute is ~free via distillation, US hyperscaler
+  $205B-capex ROI is structurally worse (why build if capability is cheap?). The "confession" pressure building from COMPETITION,
+  not just returns. Feeds the ROI-doesn't-pencil branch. [[reflection-ai]], China-AI thread.
+- *(net)* 4 independent pings of ONE thesis in one scroll (credit/SPCX + framing/Goldman + price/tokens + ROI/China). The thesis
+  maturing into the tape. BUT every hard point is still the WIDEN/CULL mechanism, not the SEIZE/FLUSH. Loud ≠ systemic. [[market-fragility]].

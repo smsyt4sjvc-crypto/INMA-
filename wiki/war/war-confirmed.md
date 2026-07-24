@@ -63,3 +63,9 @@ Newest on top. One flag per entry. Legend + triggers: [[war-board]]. Deep analys
 ## Not-yet-migrated
 Older confirmed war entries (pre-7/12 ceasefire-collapse, the June exchange) remain in [[demand-destruction]]'s
 chronological log — preserved, not deleted. Migrate on request; this ledger seeds from the load-bearing markers forward.
+
+### 2026-07-24 — Explosions near US base in northern Iraq after US strikes Iran (13th-night continuation)
+- DATA (ZH scroll, Fri AM): explosions heard near a US base in northern Iraq following US strikes on Iran; JPMorgan: "duration
+  may matter more than the conflict," ~+$7-8/bbl Brent per additional month of disruption; "Iran+Houthis add $49 to oil, demand cuts $10."
+- 🟡 `[ODDS-SHADER]` — northern Iraq = where Sgt Swinton died (7/18); the nightly loop continues, still OFF the export tell. JPM's
+  duration-premium quantifies the GRIND (premium compounds with time, no fresh shock needed). Oil elevated on duration, not a physical uncap.
