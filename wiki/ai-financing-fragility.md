@@ -913,3 +913,15 @@ Source: Bloomberg "Oracle Debt Risk Hits Record High" chart + stat card (Jake pa
   Oracle's idiosyncratic widen becomes a SYSTEMIC event. One notch away; NOT crossed.
 - *(net + book)* "Crisis levels" for ORACLE, not the system (proof: core still 47-60). Discriminating break, loud + accelerating,
   on exactly the named name. Systemic version = one downgrade away. NOT in Jake's book (no ORCL) → thesis-confirmation, not position risk.
+
+### 2026-07-24 ~6:44AM PT — Meta's NEXT datacenter debt raise ($12.3B BlackRock) "could cost MORE than its 2025 record" + neocloud equity rout
+DATA (headlines 7/24 + live px): "BlackRock kicks off $12.3B bond sale for Meta data center"; "Meta's latest AI data-center debt
+raise could cost MORE than its 2025 record deal"; "Broadcom at center of a $35B AI financing trade." Neoclouds ALL down hard at
+open: CRWV −5.4%, NBIS −5.7%, APLD −5.1%, IREN −4.7%, WULF −2.9%, CORZ −3.5%.
+THESIS (interpretation):
+- *(the financing is repricing the NEW issuance, not just old paper)* Beignet-at-97 wasn't a one-off — Meta's BACK for another
+  off-B/S datacenter raise ($12.3B) at a HIGHER cost than its 2025 record. This is how "revenue inflects before spending peaks"
+  actually runs out of time: each new raise costs more → the marginal cost of the build-out rises even as token prices fall. The
+  jaws (rising financing cost vs falling output price) = the compression, priced in real time.
+- *(discrimination now in the EQUITY tape)* Neoclouds −5% across the board while cash-rich payers hold GREEN = the quality-ladder
+  razor firing in stocks, same as the CDS. Culling (levered periphery) not collapse (SPX flat). The pace tell holds: widen/cull, not seize.
