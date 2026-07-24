@@ -77,3 +77,16 @@ crossing of it.* Watch items: Kuwait-facility ID · Kharg/Saudi-terminal strike 
 - *(asymmetry)* Premium half-unwound → de-escalation CONFIRM is partly priced (smaller incremental oil-down); FAILURE re-loads premium (bigger oil-up snap).
 - *(2-front Trump window)* Same weekend: AI-leadership signal (the open-weight letter's MAGA-framed lobbying) + gas-relief (de-escalation) — both feed
   Trump's "America wins + kitchen-table" narrative → both teed up TO/FOR him. Watch for a move on either/both. Marker triggers UNCHANGED (no export strike).
+
+## UPDATE — 2026-07-24 ~12:45pm PT — WAR WIDENING (Gulf-Arab coalition) — strategic escalation vs the tactical off-ramp
+- **Gulf-Arab states now active belligerents (WSJ):** Bahrain + Kuwait struck Iran (first direct retaliation, early July); UAE intel+air cover; Saudi "evaluating."
+  Escalation of SCOPE (regional coalition forming), + analysts "countenancing regime change." Targets MILITARY not oil-export → still OFF the export tell.
+- *(two-sided on oil)* Gulf incentive = OPEN Hormuz (UAE wants "full opening"; pro-flow = bearish oil IF they succeed). BUT the PATH fattens the uncap tail:
+  more Gulf strikes → higher odds Iran retaliates on a Saudi/UAE/Kuwait EXPORT TERMINAL (= Abqaiq uncap; Iran already hit Emirati tankers + Kuwaiti power/desal).
+  Regime-change ambition → cornered Iran plays Hormuz/oil card maximally = the scariest uncap vector.
+- **(c) Chokepoint closure — ADVANCING (southern end):** WSJ confirms the 7/18 Houthi-Red-Sea threat became ACTION — "Red Sea blockade + Houthi strikes on
+  shipping this week." Kinetically active now (not confirmed full closure); coupled to Trump's Houthi-attribution → routes toward the uncap.
+- *(vs Jake's de-escalation call)* Tactical off-ramp (Iraq/gas) stays live; STRATEGIC trajectory = WIDENING (coalition/regime-change/longer war). Both true:
+  a tactical gesture can still happen, but a DURABLE de-escalation is less likely (a ceasefire not solving the Gulf Hormuz problem won't hold). A wider/messier/
+  longer war FEEDS the back-half of the call (eventual VIX pop) even as it cuts the clean relief-rally front-half.
+- **Marker: export-terminal strike UNFIRED; conditional odds UP (Gulf-entry retaliation + regime-change + Red Sea kinetic). Triggers unchanged; the tail is fatter.**
