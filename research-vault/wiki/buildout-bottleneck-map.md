@@ -1,0 +1,314 @@
+# Buildout Bottleneck Map — the next unrepriced layer (2026-07-09)
+
+Jake's ask: walk the AI buildout from construction loans to tokens; find the bottleneck hardware/software
+NOT yet repriced. Method: constraint migrates upstream (chips → memory → generation → electrical layer);
+each layer reprices when it binds. Related: [[power-scarcity-equities]], [[ai-capex-cycle]],
+[[quiet-health-screen]], [[ai-financing-fragility]], [[nuclear]].
+
+> Firewall: lead-time/market data = sourced (WebSearch 7/9). Candidate reads = analysis. NOT buys —
+> research candidates pending the quiet-health screen + EDGAR treatment.
+
+## DATA — the binding constraint (verified)
+- **Transformers: 128–144 week lead times** (GSUs quoted 4–5 YEARS); **switchgear sold out through 2028**;
+  ~~**30–50% of planned 2026 DC openings expected delayed/cancelled** on electrical equipment (only ~5GW under
+  construction of ~16GW announced)~~ ⚠️ CORRECTED 2026-07-12: cancellation/under-construction figures traced
+  to Sightline; SemiAnalysis satellite tracking says off by multiples — see the 7/12 SemiAnalysis section
+  below. Lead-time claims stand. [ChargedUp/Build.inc/TechFund/Transformer Mag]
+- **The components gating the pipeline = <10% of construction cost** → textbook pricing-power migration.
+- **Capacity is geopolitically wrong-shored:** China ~60% of global transformer production; US imports of
+  Chinese high-power units 1,500 (2022) → 8,000+ (2025) = a grid-security policy time bomb.
+- "Speed-to-power premium": energized sites repricing industrial property.
+- **NVTS +151% H1-2026** on the NVIDIA 800V nomination = the repricing window per name is DAYS once the
+  ecosystem announces. 800V HVDC named partners (mostly repriced/foreign): TI, Infineon, ST (silicon);
+  Delta, Flex (power); Eaton, Schneider, Vertiv (systems).
+
+## Status tags
+- REPRICED: GEV, VRT, ETN/HUBB/POWL, E&C (EME/FIX/IESC), BE, powered-land converts, CRDO/ALAB, NVTS, memory.
+- REPRICING NOW: passives/MLCCs (all foreign — Murata/TDK/Yageo; Jake's capacitor call confirmed), storage.
+- **UNINVESTABLE (why the constraint layer hasn't repriced):** transformer pure-plays (Chinese/Korean/private),
+  DCIM software (private/embedded), interconnect-queue services, electrician labor, immersion fluids (PFAS),
+  HVDC protection (ABB/Siemens/Hitachi). Token-layer tolls = OSS/private/accrue to NVDA.
+
+## UNREPRICED candidates (the investable edges — screen before touching)
+- **CLF** — only US grain-oriented-electrical-steel producer (ex-AK Steel Butler PA); every transformer needs
+  GOES; domestic-transformer policy runs through this one asset. Cheap because: buried in a hated cyclical.
+- **VICR** — point-of-load modules for the NVIDIA-mandated 48V→800V transition; below 2021 highs. Cheap
+  because: execution history, Delta/Infineon/TI competition. "Golden asset, questionable business" profile.
+- **VSH** — the US-listed passives play (caps/resistors/inductors/MOSFETs) near book at trough pricing while
+  per-rack power content explodes. Cheap because: commodity passives, no story.
+- **ENS** — UPS/backup battery strings per MW; ~10-12x. Cheap because: lead-acid legacy, unsexy.
+- **BKR** — IET gas turbines/gensets = the most direct vehicle for Jake's own "LNG gensets powering
+  everything" observation; ALREADY passed the quiet-health screen at 17x. Cheap because: oil-services stigma.
+- **WRB/CB/WTW** — builder's-risk/surety/reinsurance toll on $10B campuses ("unprecedented single-site
+  exposure"); all three already quiet-health-verified. The financing-side toll.
+- **SNPS/CDNS (+BSY)** — EDA = every ASIC in the multi-sourcing war needs seats; SNPS absorbed ANSYS
+  (why ANSS 404'd in the scanner), derated with semis while design demand rises in every scenario.
+
+## Next step (the machinery)
+Run the shortlist through sp500_health_screen columns + EDGAR Cell-2; CLF/VICR especially (filings check
+mandatory for golden-asset-in-bad-business profiles). Watch for the ecosystem-nomination catalysts
+(NVTS pattern): NVIDIA/hyperscaler naming a partner = the repricing event.
+
+## The SECOND cascade — the server-component pyramid (merged 2026-07-09, from Jake's other session)
+`raw/2026-07-09-zh-component-pyramid.md`. Two parallel cascades, same mechanism ("pull a memory" — each
+layer's bottleneck owner discovers pricing power; capital rotates down): this note's ELECTRICAL stack
+(turbines→switchgear/transformers→electrical steel) + the SERVER stack (memory→MLCCs→substrates/PCBs→base
+materials). **Both bottom out in wrong-shored base materials with no clean US ticker = why the bottom is
+unrepriced = where the asymmetry lives.**
+- Layer status: 1 memory REPRICED; 2 MLCC/passives REPRICING (Goldman: Yageo/SEMCO/LGI; all foreign);
+  3 substrates/PCB NEXT — US access: **TTMI** (best: AI networking PCB + defense), **ROG** (laminates,
+  post-DuPont-collapse value-trap check required); the layer's heart is Ibiden/Shinko/Unimicron/Elite
+  Material (JP/TW) → US names catch the sympathy bid on the upgrade wave.
+  4 base materials NOT RUN — glass cloth ≈ Nittobo monopoly, copper foil = Mitsui/SK Nexilis, tantalum =
+  GAM (private)/Taniobis → investable expression is one layer further down: **FCX** (copper), MTRN, AMG.AS,
+  and the **critical-minerals policy class** (Peabody DOE grant 7/8 = what layer-4 re-shoring money looks
+  like). Both pyramids end at strategic-materials policy — Jake's MP-adjacent intersection confirmed.
+- ⚠️ Three appended flags: (1) **cycle clock** — the cascade is conditional on the $996B 27E bar surviving;
+  the cliff kills the rotation mid-pyramid → layers 3-4 positioning = the BULL-side barbell leg vs the puts
+  (same capex data decides both). (2) **Nomination repricing** (NVTS +151%, Goldman waves) — watch for
+  initiation waves/supplier qualifications/DPA awards, not price drift. (3) **Every layer that pulls a
+  memory pulls a lawsuit** — MLCCs have 2018 cartel priors; each layer's pricing power has a political
+  half-life (the profiteering ratchet).
+
+## The INTEROP layer — tokens, lock-in, and the orchestration toll (2026-07-09, Jake's question)
+- **Tokens = two things, neither portable:** (1) text chunks — model-specific vocabulary, not objects;
+  (2) billing units — **prepaid vendor scrip denominated in ONE model's compute.** No commodity token
+  exists; you cannot stockpile tokens across models. The stockpileable asset is GPU-HOURS (generic compute)
+  — which is what neoclouds sell and Meta resells.
+- **Open-weight ≠ portable tokens — it DISSOLVES the token as a product:** own the weights, run on own
+  hardware, buy electricity+GPUs (commodities) instead of scrip. Why the China open-weight wave crushed
+  token economics; why Karp's pitch is "own the toll."
+- **The real lock-in was never tokens:** fine-tunes (non-portable by physics), **embeddings** (a company's
+  vector DB is written in one model's semantic coordinates — switching = re-embedding the corpus), tuned
+  prompts/evals/compliance. Raw CALLS are already commodity (OpenAI-compatible API shape + routers:
+  OpenRouter/LiteLLM = one bill, any model).
+- **The interop stack has names:** MCP (model↔tools, Anthropic's open standard, industry-adopted), A2A
+  (agent↔agent), **x402** (machine↔machine payments via HTTP 402 + stablecoins — Jake's instinct), routers
+  (model↔model substitution).
+- *(the strategic read)* **Interop software RELOCATES lock-in one layer up, to itself.** PLTR dissolves
+  model-vendor power while building the ontology/orchestration moat; routers kill provider lock-in and
+  accrue router lock-in; MCP-given-away-free = commoditize-your-complement (keep value at the model layer).
+  **Whoever owns the layer where models become swappable owns the new toll.** Candidates: PLTR (gov/ontology),
+  MSFT (Copilot distribution), routers (private), x402 rail (COIN-adjacent, speculative).
+- Investable honesty (the vault pattern again): mostly OSS/private/inside-megacaps. Tradeable conclusions:
+  bearish raw-token pricing power (compression, positioned); the [[portfolio-state]] PLTR reframe gets its
+  MECHANISM (the orchestration toll outliving the model toll).
+
+## 2026-07-10 — Circle gets an OCC bank charter (+15%) — the interop layer's money pipe formalizes
+- *(as-reported via Jake)* OCC approves Circle to operate as a bank. Three vault connections:
+  (1) **the x402 rail chartered** — agentic payments settle in USDC; the machine-to-machine money layer
+  now inside the national banking perimeter = the interop-toll thesis maturing;
+  (2) **the debasement financing valve** — USDC reserves = T-bills → stablecoin growth = structural
+  Treasury demand; a chartered private digital-dollar issuer whose business model is buying government
+  debt = deficit-funding architecture ([[new-economy-regime]] Fed Trap adjacent);
+  (3) **narrow-bank deposit competition** — chartered full-reserve instant dollars bleed regional-bank
+  funding one-directionally (the KRE complex's structural leg, distinct from CRE).
+- ⚠️ Counterweights: CRCL = Detachment-Bid veteran (pops are its idiom); OCC trust charter ≠ Fed master
+  account (narrower than headline); Circle earnings = leveraged to rates STAYING high (cuts compress
+  reserve interest).
+
+## 2026-07-10 — a Fed VOTER cites the switchgear order book as her hike case
+- DATA: Hammack (Cleveland, 2026 voter), CNBC 6/30: district switchgear-for-data-centers manufacturer
+  reports hyperscalers "will pay almost any price for those inputs... need things built yesterday";
+  demand "insatiable." (`raw/2026-06-30-hammack-ai-inflation-cnbc.md`)
+- *(THESIS)* Highest-grade demand confirmation the map has: price-insensitive buyers at the exact
+  chokepoint (switchgear, sold out thru 2028), attested by a Fed president using it to justify HIKES.
+  Double edge — validates the unrepriced-shortlist revenue thesis (VICR/VSH/ENS/CLF current) while
+  raising the discount rate applied to it. The bottleneck sellers' order books are now a monetary-policy
+  input.
+
+## 2026-07-10 — the optics layer's upstream: InP wafers + laser-making machines
+DATA: `raw/2026-07-10-inp-upstream-map.md` (Jake's research; claimed-confirmed, not independently
+verified). Chain: AXT bare InP wafer → COHR/LITE in-house MOCVD epitaxy + fab (they don't buy chips) →
+lasers. Named: **COHR←AXT 3yr substrate deal w/ $22.3M PREPAYMENT (6/25/26), Beijing capacity;
+LITE←AIXTRON G10-AsP MOCVD (5/26); VECO >$250M InP orders (MOCVD + Spector facet-coating),
+2027-weighted deliveries; JX (5016.T) ¥120B InP expansion.**
+### THESIS (interpretation — NOT fact)
+- *(the prepayment cascade)* Coherent prepaying to reserve WAFER capacity is the MU-LTA mechanic
+  arriving one layer deeper — capacity-reservation contracts are propagating upstream (hyperscaler →
+  memory → optics → substrate). Same tell as before: **watch deferred revenue/customer prepayments in
+  AXTI's and VECO's filings** — that's scarcity you can read in a 10-Q.
+- *(our own study cuts the ranking)* Cross-reference [[runner-anatomy]]: **VECO ALREADY IGNITED —
+  5/7/25 run event, +289% max** (and LITE +1,708%, COHR +572%, all Apr-May 2025 cohort). AXTI at
+  $3.05B loss-making = the NVTS nomination pattern, late innings. So the digest's #1 and #3 are
+  MID-RUN, not undiscovered — the un-run element is VECO's 2027 delivery acceleration (backlog
+  conversion), not the story itself.
+- *(the Beijing chokepoint)* US laser makers' named substrate deal expands capacity IN BEIJING under
+  Chinese export permits that have already delayed shipments — a single-point-of-failure that policy
+  can close overnight (both directions: US controls on tools, Chinese permits on wafers). The
+  geopolitically clean substrate leg = Japan (Sumitomo 5802, JX 5016) — which is also the UN-run leg:
+  JX's ¥120B expansion is the largest capital commitment in the map with no US-listing crowd on it.
+- *(moat mechanics worth keeping)* MOCVD recipe qualification = switching-cost lock-in (AIXTRON/Veeco
+  duopoly); facet coating = yield-critical niche step. These are the "boring chokepoint" profile the
+  map exists to find.
+- Discipline: standing rule applies — VECO/AIXNY/AXTI/5016 through the health-screen columns + EDGAR
+  (or Japan filings) before any dollar. AXTI loss-making fails the screen's core gate today.
+
+### 2026-07-10 PM — diligence loop closed on the InP four (`raw/2026-07-10-inp-four-diligence.md`)
+- *(the signature match)* The insider table replicates [[runner-anatomy]]'s momentum-cohort signature
+  exactly: **zero buys, heavy selling across names that already ran.** AXTI is the purest specimen in
+  the whole vault: **company raises $632.5M in equity while officers/directors sell ~$72M** — 
+  "corporately all-in, personally de-risked" on a single balance sheet (the MU-CEO-at-ATH pattern,
+  smaller font). AIXTRON's convert = the corporate version (monetizing the multiple via zero-coupon
+  paper). VECO insiders selling post-rerating with GM FALLING (40.9→35.3%) = operators monetizing a
+  2027 promise the market pre-paid for at 34x.
+- *(AIXTRON's stale buys VALIDATE the ignition pattern)* CEO/CFO bought Feb-2025 at €12–13 — i.e., at
+  the bottom, pre-run (the value-cohort ignition tell, in real time) — and have not added at €43.80.
+  Insiders bought the wreckage, not the momentum. Normal; also not a signal to chase.
+- *(JX caveat amplified)* ~65% of JX's operating profit is equity-accounted → core-ops multiple is much
+  richer than the headline 35x; ¥324B debt vs ¥66B cash; and the informed parent (ENEOS) chose to
+  exit ¥195B of exposure at ¥3,401. Its ONE genuine distinction: the only company in the map using
+  explicit "price revisions on tight InP supply-demand" language = pricing power stated, not implied.
+- **VERDICT: the InP upstream layer is FOUND.** The map's criterion is UNREPRICED; all four fail it
+  (4.3–8.4x sales, 30x+ revenue for the loss-maker). Per the NVTS rule: don't chase the nomination.
+  What remains tradable: (a) VECO backlog-conversion into 2027 — falsifiable via GM trajectory +
+  customer prepayments/deferred revenue building in the 10-Q; (b) nothing else at these prices.
+  The map's job now = find the layer BEHIND this one (facet-coating materials, ion-beam sources,
+  InP feedstock/indium itself?) or wait for the flush that puts these back in the ignition filter.
+
+## 2026-07-10 eve — EO on open-source AI contemplated (direction unknown = the fork that matters)
+- DATA: as-reported (`raw/2026-07-10-eve-feed-banner-housing-eo.md`); no draft text, no direction.
+- *(THESIS — two branches, opposite signs for the interop thread)* **Restrict** open-weight (likely
+  framing given the FT blacklisted-China-groups story + export-control momentum): the Token Revolt
+  loses its main weapon — open-weight alternatives are WHAT gives CFOs the leverage to demand 90% off.
+  Closed-vendor scrip moat re-hardens, OpenAI/Anthropic pricing power re-inflates, CEPI compression
+  timeline EXTENDS. **Promote/protect** open source (antitrust framing): price war accelerates,
+  compression arrives faster. Same EO title, opposite thesis outcomes — do not trade the headline;
+  wait for draft text. Watch: which agencies staff it (Commerce/BIS = restrict; FTC = promote).
+
+## 2026-07-10 late — Apollo: Chinese models = 20/50 most-used; token usage 98T vs US 53T (June)
+- DATA: `raw/2026-07-10-apollo-china-models.md` (⚠️ aggregator-skew caveat inside — undercounts closed
+  enterprise/internal inference; directional, not absolute).
+- *(THESIS — this chart IS the token price war's supply side)* The Chinese share is overwhelmingly
+  OPEN-WEIGHT (DeepSeek/Qwen-class). The marginal global token now clears at near-zero open-weight
+  pricing — that's the leverage BEHIND the Palo Alto 90%-off demand and the Polymarket OpenAI repricing.
+  Token count ≠ revenue (Chinese tokens monetize at a fraction of closed-US rates), so China's
+  "lead" is commercially thin — but it caps the US closed-vendor price umbrella that has to service
+  $194B of IG issuance and ORCL's −$42B FCF path. Scrip thesis strengthening.
+- *(the EO trap, sharpened)* This chart is the exact exhibit a RESTRICT-direction open-source EO would
+  cite (+ FT blacklisted-groups story). But restricting US open-weight doesn't touch Chinese open-weight —
+  it cedes the commodity tier to Qwen/DeepSeek entirely and accelerates this chart. Restrict = hand
+  China the open tier; promote = accelerate the price war on US champions. No clean branch: the EO fork
+  is a trap in both directions, which is why draft text > headline.
+- Coheres with the (unverified) flat-US/doubling-China cloud-capex table from the same day's feed:
+  China scaling usage + capex while the US monetization model compresses.
+
+### 2026-07-11 — Kwak's siting criteria read as diplomatic satire (Jake's catch)
+- Jake on the SK Hynix CEO's fab-siting list (land/electricity/water/skilled-workers-at-competitive-
+  cost): "serious satire — as if the US can even kinda sorta compete." CONFIRMED by SKH's own capital
+  allocation in the same article: **$4B Indiana PACKAGING + $10B "AI solutions" in the US vs $266B of
+  WAFER fabs in Korea** — onshore the photo-op layer, keep the physics layer home. Every criterion on
+  the list is one the US fails per vault data (electricity forwards +25% US-only; trades = the existing
+  bottleneck + immigration-by-design; permitting = QTS kill / 128-wk transformers; TSMC-AZ cost exhibit).
+- *(caveats that make it tradable)* (1) Tariffs redefine "competitive" — a memory tariff (more likely
+  post MU-celebration) makes US fabs competitive by fiat; if SKH ever sites wafers in the US it's a
+  POLITICAL price signal, not an input improvement. (2) The structural irony: policy demands onshoring
+  while constraining its inputs (labor, power, permits), then subsidizes to buy back what it removed —
+  industrial policy paying to overcome industrial policy. MU's $250B works only inside the
+  designated-champion umbrella (subsidy + implied tariff + presidential promotion).
+
+### 2026-07-11 — narrative-migration marker: the map's thesis is now retail-newsletter consensus
+- DailyReckoning (mass retail) now prints: DC construction > office construction, grid limits cap the
+  boom, "that will likely mark the top." The power-caps-the-buildout thesis has completed the journey:
+  vault (May-June) → sell-side → Fed testimony (Hammack's switchgear) → retail newsletter.
+- *(calibration consequence)* When the differentiated read is in a newsletter, its ENTRY edge is gone —
+  what remains is execution edge (which names, which layer, which quarter). Consistent with the InP
+  layer being FOUND. The map's alpha now lives in layers the newsletter DOESN'T name.
+
+## 2026-07-12 — SemiAnalysis debunks "50% of 2026 DC capacity canceled" — the map's own DATA line corrected
+DATA: `raw/2026-07-12-semianalysis-dc-cancellation-debunk.md` (SemiAnalysis 6/18, satellite Vision Model).
+- ⚠️ **CORRECTION (firewall rule 4) to this note's opening DATA block:** the "30–50% of planned 2026 DC
+  openings expected delayed/cancelled... only ~5GW under construction of ~16GW announced" line came from
+  the Bloomberg/Sightline chain. SemiAnalysis (satellite-verified physical tracking): both numbers "off by
+  multiples"; **their YE2026 hyperscaler self-build forecast moved ~1% in 6 months** (colo <5%). The
+  denominator was a speculative "phantom pipeline" (ERCOT: ~410GW queued vs ~85GW peak = ~311GW phantom).
+  Original line stays above, struck by this correction — the CANCELLATION claim was inflated; the
+  LEAD-TIME claims were not (see next bullet).
+- **The bottleneck legs of this map SURVIVE and strengthen:** Reinhausen tap-changer bushings quoted
+  **3–5 years**; primary hyperscaler electrical suppliers **sold out through 2027**; Vertiv/Schneider
+  margins >20%. Canceled speculative projects never placed equipment orders → cancellations do NOT free
+  transformer/switchgear slots; 3–4yr queues reallocate any canceled slot instantly.
+- **NEW counterweight — the Chinese OEM relief valve:** xAI likely running **Sieyuan** transformers/
+  breakers; Chinese high-end gear entering via US brokers + direct hyperscaler purchases, accelerating
+  over 12 months.
+### THESIS (interpretation — NOT fact)
+- *(what the correction does and doesn't change)* The map's INVESTMENT logic never rested on cancellations —
+  it rests on lead times and sold-out order books, which SemiAnalysis CONFIRMS at the primary-supplier
+  level. If anything the debunk strengthens "bottleneck sellers get paid": real 2026 capacity intact +
+  locked multi-year backlogs = the revenue is coming regardless of phantom-project mortality.
+- *(political-ratchet refinement)* Moratoriums/NIMBY mostly hit phantom capacity → the ratchet's measured
+  BITE on real 2026 GW is smaller than the bill-count implied. But the two named real-project kills/delays
+  (QTS Virginia dead; **STACK/Oracle NM Stargate → ~2029 on air permits + FERC pipeline review**) show the
+  mechanism is real where it lands — it adds YEARS, selectively, via permits. Ratchet = selective artillery,
+  not carpet bombing. WHERE-not-IF holds.
+- *(the Sieyuan valve vs the CLF/GOES + Hammack threads)* Chinese OEMs relieving the exact chokepoint a Fed
+  voter cited as her hike case is the map's first genuine SUPPLY-side counterweight: if it scales, it
+  (a) shortens effective lead times without US capacity additions, (b) undercuts the domestic-transformer
+  policy thesis (CLF's GOES moat gets bypassed, not built out), (c) deepens the wrong-shoring/grid-security
+  time bomb (China ~60% of production → now inside US hyperscaler substations). WATCH: any CFIUS/Commerce
+  action on Chinese electrical gear, tariff carve-ins, or a hyperscaler named publicly using Chinese
+  transformers — a ban = instant re-tightening (bullish the bottleneck sellers); tolerance = the valve
+  opens (bearish the scarcity premium).
+- *(measurement humility)* "GW under construction" varies BY MULTIPLES across trackers (Sightline vs
+  SemiAnalysis). Any vault trigger phrased as "under-construction GW falling" must name its tracker or
+  use physical proxies (supplier backlogs, Hammack-style order-book anecdotes, jobs data) instead.
+
+## 2026-07-12 — HELIUM: the war physically merges into the chip cost stack (verified)
+- DATA: China bans ALL helium exports (MofCom, 7/11, verified via SCMP/Caixin/AP). Cause: **strikes on
+  QatarEnergy Ras Laffan shut 3 helium plants → ~30% of GLOBAL helium supply gone** (Qatar ≈ 1/3 of
+  world supply; helium = LNG byproduct). China (net importer, ≤15% self-sufficient) hoarding domestic
+  output for its own fabs. ⚠️ viral digests claiming "China supplied 40%" have the supply map backwards.
+- *(THESIS)* New pyramid layer, and a structural merger of two vault threads: **Hormuz → Qatar LNG →
+  helium → semiconductor manufacturing cost** — the war now feeds the chip cost-push DIRECTLY, not just
+  via energy. "Pull a memory" cascade gains "pull a noble gas." Cost-side ROI erosion gets another
+  input; the Fed's AI-inflation channel gets a war multiplier. US-exposure beneficiaries of a 30%
+  supply cut: US is the #1 producer — ExxonMobil (LaBarge WY = largest single source), industrial-gas
+  processors LIN/APD/Air Liquide (pricing power on existing helium contracts), helium juniors
+  (nomination-pattern risk applies). Watch: helium spot/contract prices, fab cost commentary in
+  TSM/ASML earnings THIS WEEK, whether Qatar's plants restart post-any-ceasefire (the fastest supply
+  fix = the Oman track succeeding).
+
+## 2026-07-13 ~9:15am PT — tokenized EQUITY goes live ahead of the law (interop/money-pipe thread)
+- DATA: `raw/2026-07-13-tokenization-securitize-lilly.md`. Securitize IPO + $300M of its own shares
+  issued AS tokens (token = the share, blockchain = the register, DTCC bypassed); Robinhood L2
+  live; Ondo custodial version; CLARITY Act final text due this week; DeFi lend/borrow against
+  tokenized shares on the disclosed roadmap.
+- *(THESIS, brief — flagged for the full treatment later)* Three vault hooks: (1) the Circle-OCC/
+  x402 money-pipe thread extends to the EQUITY layer — the interop toll migrating from payments to
+  securities plumbing; (2) **a new leverage channel outside the regulated perimeter**: self-custodied
+  shares in DeFi lend/borrow pools = margin the Fed can't see and can't bail (Vector 11's cousin);
+  (3) **Hamilton Lane is a Securitize client** — the HLNE battleground name is a tokenization
+  first-mover (cuts both ways for the short report thesis). Herd-before-the-law = detachment-bid
+  texture. CLARITY Act text this week joins an already stacked calendar. PARKED for deeper work
+  on Jake's word.
+
+### 2026-07-14 ~10:25pm PT — the POWER + PERMITTING + PUBLIC-BACKLASH ceiling crystallizes (ZH cluster)
+### DATA (observed) — ZH feed, evening
+- **PJM (largest US grid) failed to secure 7GW** for stability into 2028; already BELOW critical
+  reliability threshold; 2027 facing "catastrophic shortage + brownouts." Price CAP masking scarcity:
+  market-clearing PJM power would be **70% higher ($554.72 vs $325)** without the ceiling.
+- **$156B of datacenter projects cancelled/delayed in 2025; $130B in 1Q26** — community pushback +
+  moratoriums accelerating. State-level AI-DC moratorium bills proposed. Australia (Albanese) to
+  regulate DC water/power + copyright.
+- **"For the first time a MAJORITY of Americans prefer to STOP building data centers"** (Morgan
+  Stanley / Morning Consult). ZH color: "Eastern seaboard will look like North Korea at night."
+- Contrast: "China has all the energy/quantum/pipeline it needs to power [its cheap LLMs]."
+### THESIS (interpretation — NOT fact)
+- **The buildout is hitting a HARD physical + political ceiling simultaneously:** the grid literally
+  can't supply it (PJM 7GW short, price cap hiding 70% real scarcity), AND the public/political system
+  is now BLOCKING it (moratoriums, majority-want-to-stop, $286B cancelled/delayed 2025+1Q26). This is
+  the bottleneck thesis going from "watch item" to "biting NOW."
+- **Cancellation reconciliation (vs the 7/12 SemiAnalysis debunk):** cancellations/delays ARE real and
+  RISING ($156B→$130B/quarter pace = accelerating) — the constraints bite — WITHOUT endorsing the
+  debunked "half of 2026 capacity" framing. Real trend, right magnitude, wrong earlier headline. The
+  phantom-pipeline/measurement-humility thread confirmed: the pipeline IS shrinking, just not by "half."
+- **The two-sided read (per warning-vs-trigger):** the power crisis is a real EVENT that is BULLISH for
+  the scarce-input owners (power/grid/merchant-IPP + memory — "buy the bottleneck," price cap lifting =
+  merchant-power upside) AND a potential CAP on the buildout (if new builds stall on power/permitting,
+  the SPENDERS derate + medium-term memory demand softens). Scarce inputs WIN; spenders/financing LOSE.
+- **Public backlash = Jake's distributional insight (8:40pm) getting POLITICAL TEETH:** the public sees
+  datacenters taking their power/water/rates without benefit — the capex economy detached from the
+  working economy, now legislated against. [[consumption-vs-investment-crux]].
+- **China contrast = a real competitive asymmetry:** China builds power freely (state-directed); US is
+  grid/permit/NIMBY-constrained. If AI is power-bound, China's power advantage > US's chip advantage over time.
+- Links: [[power-scarcity-equities]] (PJM→power names), [[ai-financing-fragility]] (funding, below), [[new-economy-regime]].
