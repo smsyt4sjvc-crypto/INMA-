@@ -857,3 +857,36 @@ Source: Jake ZH pre-market scroll. Firewall: bond levels/quotes = as-reported DA
   not just returns. Feeds the ROI-doesn't-pencil branch. [[reflection-ai]], China-AI thread.
 - *(net)* 4 independent pings of ONE thesis in one scroll (credit/SPCX + framing/Goldman + price/tokens + ROI/China). The thesis
   maturing into the tape. BUT every hard point is still the WIDEN/CULL mechanism, not the SEIZE/FLUSH. Loud ≠ systemic. [[market-fragility]].
+
+### 2026-07-24 ~6:25AM PT — GOLDMAN full quote: the Beignet SPV crack (Meta) + "revenue inflects before spending peaks" + the depreciation time-bomb
+Source: Goldman Delta-1 desk (full quote via Jake, tweet 2:32am ET 7/24). Completes the fragment logged above. Firewall: bond
+levels + the quote = as-reported DATA; the reads = THESIS.
+#### DATA (as-reported — Goldman)
+- **Meta's HYPERION datacenter financed via the "BEIGNET" SPV: a $27.3BN bond, issued at PAR (100) → spiked >109 → now ~97.**
+  A Meta-linked bond below ISSUE — but it's the SPV's balance sheet, NOT Meta's.
+- Quote: "hyperscalers have enormous financial capacity and are NOT heavily levered on balance sheet. But repricing is punitive
+  for equity MULTIPLES, and consequences become more material in the LEVERAGED POCKETS financing the build-out... Meta has plenty
+  of operating earnings, but the broader hyperscaler problem is DETERIORATING FCF CONVERSION as capex accelerates. **A bet on
+  these companies is increasingly a bet that REVENUE INFLECTS BEFORE SPENDING PEAKS.** The risk is today's capacity build becomes
+  tomorrow's COMPUTE OVERSUPPLY, just as a much larger DEPRECIATION CHARGE begins washing through the income statement."
+#### THESIS (interpretation — NOT fact)
+- *(the fault line runs THROUGH the core, via SPVs — refines the discrimination read)* "Not levered on balance sheet" is doing
+  huge work: they're not levered BECAUSE the build-out debt is parked in SPVs (Beignet). The SPV bonds crack FIRST because that's
+  where the leverage actually lives. Confirms the "$811B contracted / fortress on the books, hollow in the footnotes" thread with
+  a priced instrument. The discrimination isn't just core-vs-periphery — it's ON-balance-sheet (fine) vs OFF-balance-sheet (cracking).
+- *(the HIDDEN RECOURSE = the contagion wire)* The SPV keeps debt off Meta's books UNTIL it can't refinance → parent must let it
+  fail (lose the Hyperion capacity) or BACKSTOP it (pull leverage back on-balance-sheet). They backstop to protect the compute →
+  the off-B/S debt is a CONTINGENT CLAIM on the core. "Core not levered" holds only until the SPVs need rescuing. The wire from an
+  SPV bond at 97 to the parent's real balance sheet. Not there yet — the path.
+- *("revenue inflects before spending peaks" = the fork in one line)* Goldman crystallizes the compression razor + Jake's framing.
+  Tonight's token-costs-at-3.5mo-lows is the FIRST read on it — leaning WRONG (oversupply forming BEFORE revenue inflected, exactly
+  Goldman's feared sequence). Caveat (metered-compute bull): falling prices could BE the volume-inflection mechanism (Jevons).
+  Bearish MARGIN, ambiguous on the INFLECTION. [[compression-thesis]], [[metered-compute]].
+- *(the DEPRECIATION time-bomb = earnings-quality, why "beats but stock falls")* GPUs depreciated over ~5-6yr; if oversupply +
+  new gens obsolete them in 2-3yr, the schedule is TOO SLOW → current reported earnings are PROPPED by under-depreciating a fast-
+  decaying asset → a catch-up charge / impairment hits later. The market selling the beats is sniffing inflated earnings quality.
+  An ACCOUNTING time-bomb under the market one. (Ties to the failure-mode "GPU obsolescence as the collateral wildcard.")
+- *(calibration — still punitive, not insolvent)* Goldman's own words cap the bear: "enormous financial capacity," "punitive for
+  MULTIPLES." A multiple + off-B/S + earnings-quality story, NOT core solvency = DERATE/CULL not FLUSH — UNLESS SPV cracks force
+  parent recourse OR an SPV bond GAPS to no-bid. **Beignet at 97 = a WIDEN.** Watch it toward 90 + any Meta backstop language =
+  the transmission turning on. The pace tell holds.
