@@ -174,3 +174,14 @@ Source: nvidia.com open-weights letter (7/24), Jensen Huang's first X post; Elon
   not just Chinese open models — when your biggest customer roots for your product to become a commodity, the moat is in trouble).
 - *(source-discipline)* Coordinated LOBBYING blitz, interested parties → believe the coordination (ecosystem unified on diffusion+open
   weights = real signal), discount the "national security/economic opportunity" packaging (wrapper on a business-model preference).
+
+##### 2026-07-24 ~9:51AM PT — clean full text verified (matches the read); + the safety-argument SEAM (self-correction)
+- Clean full letter text confirms the prior read (quotes/signatories/absences all accurate). Verbatim NOT committed to raw/ (copyright
+  discipline, same as Natenberg/podcast); synthesis above is the record.
+- *(self-correction — I understated their safety case)* The letter makes a SUBSTANTIVE open-source-security argument (transparency>obscurity,
+  many-eyes red-teaming, closed models = single points of failure) — Kerckhoffs's principle applied to AI, 40yr-tested in software. NOT a hand-wave.
+- *(the SEAM the letter glosses — where the software→weights analogy breaks)* Open SOURCE can be PATCHED (fix propagates; many-eyes REPAIR it).
+  Open WEIGHTS can't be un-released — a malicious safety-strip fine-tune is trivial + IRREVERSIBLE, no patch reaches downloaded copies. The
+  letter ADMITS this ("beyond the developer's control... difficult to trace or reverse") then argues openness is safe anyway. So the strongest
+  paragraph has its weakest link exactly where weights stop behaving like code: transparency-as-security needs FIX-AND-PROPAGATE; weights are
+  FROZEN-AND-FORKABLE. Real counter to the safety case (independent of the business-model self-interest already noted).
