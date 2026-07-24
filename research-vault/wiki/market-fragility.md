@@ -653,3 +653,25 @@ Source: S&P500-by-market-cap snapshot PDF (Jake), 7/24 intraday. Firewall: price
   (money stays in equities, breadth improves) and bearish-the-narrow-trade (leaders culled). Index holds BECAUSE rotation is
   orderly. **Falsifier: the day the 490 stop catching the bid and go red WITH the semis = rotation becomes contagion/real selloff.**
   Today they're absorbing it. [[concentration]], [[compression-thesis]] (memory canary), [[ai-financing-fragility]] (discrimination).
+
+### 2026-07-24 ~9:17AM PT — GS PRIME positioning: the MOMENTUM UNWIND quantifies the rotation (HF-led, self-limiting flush)
+Source: Goldman "The Markets" podcast, Vinnie Lin (co-head Prime Insights & Analytics), 7/24. FACTS only (copyright: no transcript
+committed — GS Prime custodies HF books = near-real-time positioning, the cleanest smart-money read). Answers "are HFs still bullish AI": NO.
+#### DATA (as-reported — GS Prime, Vinnie Lin)
+- **GS high-beta MOMENTUM basket: was +60% YTD in June → now +16% YTD; −32% from the highs** coming into this week.
+- **TMT momentum LONG-SHORT pair: −40% from the highs = the SHARPEST throwdown in the past 5 YEARS.**
+- **"Even as the S&P 500 has managed to stay pretty flat."** (Prior vault: HF Mag-7 positioning ~25th %ile = already trimmed.)
+#### THESIS (interpretation — NOT fact)
+- *(the violence-beneath-a-flat-tape = the rotation, quantified + confirmed HF-led)* A −32%/−40% unwind in the FACTOR space that
+  barely dents the INDEX = the equal-weight-up/cap-weight-flat dynamic from the 7/24 S&P cross-section, now confirmed as SMART MONEY
+  doing it (the desk that custodies the books). The momentum basket IS the narrow AI/high-beta leadership; its collapse = the leaders sold.
+- *(the mechanism = the rotation engine, literally)* A momentum LONG-SHORT down −40% = crowded momentum LONGS (AI/semi) sold AND
+  momentum SHORTS (neglected 490) bought back — exactly the tape (semis red, broad green). The long-short collapsing IS money leaving
+  leaders + covering into laggards.
+- *(⚠️ calibration — POSITIONING unwind, not (yet) fundamental; self-limiting)* Momentum unwinds are violent but EXHAUST when the
+  crowded trade clears. −40% TMT = sharpest in 5yr = an EXTREME → extremes mean-revert. Washed-out 25th-%ile + record unwind = LESS
+  LEFT TO SELL = the squeeze setup builds on the other side. Bear needs this = first leg of a fundamental break; bull needs it = a
+  positioning purge that ENDS. Same data. The INDEX HOLDING is the tell it's a purge not a break (so far).
+- *(falsifier — same as the 7/24 cross-section)* Does the INDEX follow the momentum basket DOWN (unwind→contagion→flush) or does the
+  rotation keep absorbing it (breadth broadens, index holds→healthy purge)? SPX flat through a 5yr-record momentum unwind = digesting,
+  not breaking. The day SPX cracks WITH the momentum basket = purge became selloff. [[concentration]], [[detachment-bid]], [[bull-bear-ledger]].
