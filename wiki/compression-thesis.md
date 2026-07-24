@@ -755,3 +755,24 @@ pattern (same fingerprint as GOOGL 7/22): AH pop on the number → overnight/nex
 + the capex/depreciation math. The behavioral tell of this tape: good earnings aren't enough; the reaction gets sold (market pricing
 FORWARD — oversupply/depreciation/peak-capex — through a backward-looking beat). Not an Intel story: inside the semi-down day
 (SOXX −2.8%, MU −4%) = the discrimination. Also the percentage-asymmetry lesson made concrete: +15% then round-trip = net NEGATIVE.
+
+### 2026-07-24 ~10:48AM PT — JAKE'S TELECOM ANALOGY: metering capitulates, value migrates PIPE → OVER-THE-TOP (the resolution mechanism)
+Jake's frame (his position: "make money hoping for the best, position for the worst" = barbell long-core + put/short-hedge, defense-not-offense).
+Thesis (user's, sharp — the compression RESOLUTION the note was missing):
+- *(the analogy)* Cell carriers monetized MINUTES (metered) → evolved to UNLIMITED/flat-rate CONTRACTS. = metered-compute (per-token) → bundled
+  AI subscriptions. Per-unit (minute/token) commoditizes toward ZERO; competition drives the marginal unit to free → monetization MUST capitulate
+  from metering to contracts. Even open-weight adoption doesn't save metering — the value migrates to "whatever tokens+compute leave behind."
+- *(the payoff = where value ACTUALLY went in telecom)* When minutes went free, the CARRIERS (pipe-builders) got commoditized into low-margin dumb
+  UTILITIES (AT&T/Verizon = rate-of-return). Value migrated OVER THE TOP: to the OS/DEVICE layer (Apple/iPhone captured what carriers lost) + the
+  OTT APPS (WhatsApp/Netflix/Uber got rich riding the free pipe the carriers PAID to build). Road-builders didn't get the toll; drivers did.
+- *(the sharpest bear case, unified)* If compute follows telecom: the hyperscalers' $205B builds the PIPE — and pipe-builders were NOT the value-
+  capturers. Frontier-capex-burners risk becoming the AT&T/Verizon of AI (huge capex, utility margins) while value accrues to the app/subscription/OS
+  layer (the Apple/Netflix of AI). = the compression RESOLUTION + today's ROTATION, unified: value migrates from the metered pipe → the OTT layer that
+  owns the customer contract. Jake's book (long NOW/software+subscription, hedged vs capex-burners) is positioned FOR the migration. [[market-fragility]].
+- *(⚠️ calibration — the analogy's 2 seams)* (1) Minutes were FUNGIBLE (had to commoditize); frontier intelligence may NOT be — if the frontier stays
+  genuinely differentiated (capability moat), the pipe doesn't fully commoditize + sellers keep pricing power (the moat camp = OpenAI/Anthropic/Google).
+  The analogy ASSUMES the commoditization it argues for. (2) JEVONS saved smart pipe-builders: data per-unit collapsed but VOLUME exploded (MB→GB); carriers
+  who scaled did fine on volume. So per-unit-compute-commoditizes ≠ Nvidia-loses — the metering dies but volume can carry the infra IF demand scales geometrically.
+- *(the part that holds in EVERY branch)* Even the bull-volume case CONCEDES the metering monetization capitulates — money stops being made per-token, moves to
+  the contract + the layer above. That holds whether Jevons rescues the pipe or telecom commoditizes it. Open question = pipe gets volume-rescued vs commoditized =
+  the $205B question the capex prints start to answer. [[metered-compute]], [[ai-financing-fragility]].
