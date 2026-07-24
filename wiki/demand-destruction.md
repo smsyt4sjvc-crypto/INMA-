@@ -1935,3 +1935,15 @@ Source: NYT (Jake paste), Thu evening. "Iran has rejected a US ceasefire deal pr
   broad insurer adoption (hard closure), ceasefire/de-escalation speech (off-ramp — now on a delay, rejected once).
 - *(watch)* Whether a REVISED deal surfaces over the weekend (rejection-as-leverage confirmed → off-ramp back on) vs a
   Trump "massive attack" / strike headline (hardening confirmed → rout branch). The rejection alone doesn't pick between them.
+
+##### ⚠️ CORRECTION (2026-07-23 ~6:00PM PT) — Jake's catch: the rejection doesn't touch his BOOK, and the signal is redacted without the terms
+- *(Claude error, conceded)* I wrote "hardening kills your trade" — CONFLATED the VIX-pop CALL (a calibration-scoreboard bet)
+  with Jake's BOOK. They're separate objects. **The book (Dec puts + SPY 738) is indifferent to the branch BY DESIGN:** the
+  rout branch is exactly where the Dec puts PAY (convexity), and the 738 nibble is small + sits under ITM puts → holdable
+  indefinitely. A rout is what the structure is FOR, not a threat to it. Only the prediction (which wanted a whipsaw) is dented
+  by the one-way rout — and that's a scorecard entry, not money. Don't map calibration bets onto the book.
+- *(Jake's sharper point — the signal is terms-dependent)* A rejection is only informative RELATIVE TO WHAT WAS ASKED. If the
+  deal required Iran to relinquish Hormuz (the likely ask + Iran's ONLY leverage), rejecting it says ~nothing about willingness
+  to de-escalate on terms Iran could actually accept — you don't fold your one card as the PRICE of a ceasefire. Without the
+  terms, "Iran rejected a deal" is a headline with the payload redacted. Net: lowers diplomatic-path odds a notch on optics
+  only; mostly hollow until terms surface. (Down-weights the headwind I logged above — it's softer than a bare "rejection" reads.)
