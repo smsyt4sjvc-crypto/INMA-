@@ -133,3 +133,30 @@ Correct — Claude conflated THE THESIS with WHAT PRICES THE STOCK. Fixing the e
   productive-consumption (real, like power) vs speculative-buildout (mansions / 2000-fiber). "Unprecedented demand" doesn't
   resolve it (Jake's right) AND neither does the mansion analogy (presumes speculative). Resolves in DATA: utilization, does
   revenue RECUR, are tokens doing real work — NOT a CEO quote or a metaphor. Both skepticism + demand-thesis stay hypotheses.
+
+### 2026-07-24 ~9:38AM PT — NVIDIA-led "Open Weights and American AI Leadership" letter (Jensen 1st X post, Musk-endorsed) = metered-compute ENDORSED + the frontier-ROI cut
+Source: nvidia.com open-weights letter (7/24), Jensen Huang's first X post; Elon "full support." Jake paste. FIRST-USE acronyms: ROI=return on investment.
+#### DATA (as-reported)
+- Industry open-weight manifesto aimed at POLICYMAKERS: expand compute access, invest in shared training assets, DON'T restrict open
+  models, DEFEND distillation as legitimate (vs "unlawful extraction"). Argues value diffuses via OPEN models + APPLICATION layers.
+- **Signatories:** a16z, Arcee, Arena, Black Forest Labs, Box, CrowdStrike, Dell, Emergence, HuggingFace, IBM, Linux Foundation, Mariana,
+  **Meta, Microsoft, Mistral, Mozilla, NVIDIA, Palantir, Perplexity, Reflection, Replit, ServiceNow, Telnyx, Y Combinator.**
+- **ABSENT: OpenAI, Anthropic, Google** (the pure closed-frontier labs). Key quote: "right model to the right job at the right cost…
+  efficient specialized models everywhere else… economically sustainable as use scales into the BILLIONS of everyday tasks."
+#### THESIS (interpretation — NOT fact)
+- *(the framework for today's ROTATION)* Letter's thesis = value diffuses via open models + APP LAYERS, not the frontier capex race =
+  EXACTLY today's tape (software/app-layer ripping incl. NOW +5.6%; frontier-semis/capex-burners red). Narrative caught the flows same day.
+- *(endorses metered-compute — from Nvidia's mouth)* "Right model/right task/right cost + billions of tasks + economically sustainable"
+  = the tiered/metered + Jevons-diffusion argument verbatim. Nvidia signing a pro-EFFICIENCY/open letter only makes sense as a VOLUME bet:
+  diffusion drives AGGREGATE compute up even as per-task cost collapses. Jake's thesis, endorsed by the party with the most to lose if wrong.
+- *(BUT cuts against frontier-capex ROI = the compression bear)* Letter says MOST tasks DON'T need frontier scale → the $205B buildouts
+  are provisioned for a demand distribution that mostly doesn't need them; open weights + distillation COMMODITIZE the model layer → erode
+  closed-lab pricing power → weaken frontier ROI = the oversupply/compression thesis, argued FOR by the ecosystem. [[compression-thesis]].
+- *(the whole debate in one doc = the same razor)* Simultaneously BULLISH diffusion-volume (Jevons→justifies Nvidia/buildout) AND BEARISH
+  frontier-moat (commoditization→weak pricing/ROI). Signatories bet VOLUME wins; absent closed labs (OpenAI/Anthropic/Google) bet the MOAT
+  matters. = "revenue inflects before spending peaks" in policy language. The OpenAI/Anthropic/Google absence = the fault line.
+- *(source-discipline)* A LOBBYING doc for regulators, interested parties (want no open-weight restrictions + legal distillation = their
+  business) → discount the "all upside/minimal risk" framing (open-weight dangers waved off in 1 para). Believe the FACT (US ecosystem
+  coalescing hard around open weights + diffusion) = the coordinated answer to the China blackpill (DeepSeek/Kimi). Musk = partly anti-OpenAI.
+- *(book)* ServiceNow (Jake's hold, today's winner) + Reflection (the "American open-weight champion", [[reflection-ai]]) both signatories =
+  the roster IS the "own the application/diffusion layer not the frontier" trade Jake already leans. China-AI thread.
