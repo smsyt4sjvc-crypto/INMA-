@@ -202,3 +202,20 @@ Jake's read: the letter weaponizes "safety" as political cover for commoditizati
   WORSENS both. Cover on antitrust anger, not existential anger.
 - *(net — barbell unaffected)* Strong ACCELERANT argument for the diffusion camp + reinforces the telecom thesis, BUT the policy path is contested + incident-sensitive.
   Crucially: politics change the SPEED of the value-migration, not the DIRECTION — Jake's barbell (long OTT/app, hedged vs pipe) is right whether policy accelerates or an incident freezes it. [[new-economy-regime]].
+
+##### 2026-07-24 ~3:18PM PT — DEMAND-SIDE observation (Jake, n=1): the Jevons/tiering playbook run on him via Anthropic's own pricing
+Jake's real-time personal experience of the thesis. DATA (Anthropic customer comms to Jake): Opus 5 launch "matches many of Fable 5's
+capabilities at HALF THE PRICE, so your usage goes further"; `/effort` levels "use more of your usage limit" (Extra/Max hardest); Fable 5
+"draws down usage faster, best saved for complex work" (now standard in Max, up to 50% of weekly limit). = tiered metering + a per-unit price cut.
+- *(the mechanism, operationalized)* "Half price → usage goes further" = the Jevons TRIGGER; the tiered effort/Fable-draws-faster = "right model/
+  task/cost" tiering (the open-weight letter's exact language, shipped as product). The DEMAND-side mechanism structuring Jake's own subscription.
+- *(⚠️ razor survives — the cut is the SETUP not the ANSWER)* "Cheaper→use more" = demand elasticity (trivial). Unresolved = does VOLUME growth
+  outrun the price cut in REVENUE terms. Opus 5 half-price: use 2×=flat rev, 3×=Jevons wins, 1.5×=deflation wins. Anthropic BETS Jevons (why they
+  cut) but the cut doesn't PROVE it — the bill in 6mo does.
+- *(both-sided, same fork)* The price cut is simultaneously (a) COMMODITIZATION pressure (open-weight/Kimi/DeepSeek forcing frontier price cuts =
+  bearish moat/margin) AND (b) the Jevons VOLUME bet (bullish aggregate demand). Cleanest illustration of the telecom analogy: per-unit collapses
+  (minutes→free) while provider bets total consumption explodes (data→GB) — the exact pipe-commoditizes-vs-volume-rescues fork.
+- *(source-discipline)* "Your usage goes further" = interested MARKETING designed to increase consumption; honest translation = "we cut price + bet
+  you make it up in volume." Confession (Karp/Dowd) vs conviction (Jake) — the same debate, printed on the upgrade email.
+- *(actionable — Jake as the n=1 experiment)* Watch own behavior: did half-price Opus 5 drive GENUINELY >2× usage (Jevons winning in a power-user) or
+  just "a bit more" (deflation-outruns-volume risk felt personally)? Live read on the exact razor the $205B question rides on. [[compression-thesis]] (telecom), [[ai-financing-fragility]].
