@@ -700,3 +700,26 @@ Source: GS "The Markets", Vinnie Lin (Prime Insights), 7/24. FACTS only (copyrig
 - *(net)* Near-term = more squeeze-than-crash (washed-out book + buyers returning + record forced-vol selling behind us) — a real
   bullish tell for the next few weeks, HOLD it. Fundamental question UNCHANGED: undecided, watch memory canary + next week's capex beats.
   Positioning says "reset"; fundamentals say "watch." Both true, different clocks. [[compression-thesis]], [[ai-financing-fragility]], [[detachment-bid]].
+
+### 2026-07-24 ~9:21AM PT — GS PRIME trade + the MACRO-HEDGE removal (the coiled setup) — closes the positioning arc
+Source: GS "The Markets", Vinnie Lin, 7/24 (final segment). FACTS only (copyright — no transcript).
+#### DATA (as-reported — GS Prime)
+- **The trade: buy the dip in US AI INFRASTRUCTURE EQUIPMENT names (valuation ~2-year lows) — via CALL SPREADS (limited-loss), NOT
+  naked calls, "because of the increased volatility."**
+- **Watching next week (biggest earnings week): hyperscaler AI CAPEX trajectory (rest-of-year into next) + translating capex into
+  INCREMENTAL REVENUE AND PROFIT growth "at least a few of the hyperscalers."** (= the "revenue inflects before spending peaks" razor.)
+- **Macro-hedge tell: alongside the AI de-risking, a MEANINGFUL REDUCTION in MACRO HEDGES.** Watching whether CORRELATIONS pick back up.
+#### THESIS (interpretation — NOT fact)
+- *(the trade validates Jake's instinct + the greeks discipline)* GS expresses the SAME "buy the dip via a call" instinct Jake had —
+  sharpened to a CALL SPREAD (caps vega cost + defines loss in high vol; a naked call bleeds vega/theta) on the WASHED-OUT sub-sector
+  (equipment at 2yr-low valuations: AMAT/LRCX/KLAC), not the index. Confirms the earlier options-greeks read. ⚠️ (1) GS talks its book
+  (buy-the-dip from the prime broker whose revenue is re-risking) — discount a notch; (2) "2yr-low valuation" = bullish IF cycle continues,
+  VALUE TRAP if capex peaks (equipment = most cyclical/capex-levered = highest-beta expression of the revenue-inflects bet, both ways).
+- *(convergence on the razor)* GS watching next week = capex trajectory + capex→revenue/profit translation = OUR razor verbatim. Everyone
+  (Jake/Claude/GS/the tape) now watching the identical thing → next week's META/MSFT/AMZN prints = the cleanest fundamental read of the cycle.
+- *(THE fragility addition — macro-hedge removal = re-loaded tail risk)* HFs de-grossed AI AND cut MACRO HEDGES simultaneously → the book
+  is LIGHTER but MORE NAKED. A shock now (Oracle junk cut / oil re-spike / credit gap) → correlations SPIKE (everything sells together) with
+  less protection. The reset cut DIRECTIONAL risk but RE-LOADED CORRELATION/TAIL risk → "healthy reset" is NOT "all clear."
+- *(net — the coiled setup)* Low directional exposure (de-grossed) + buyers tentatively back (squeeze-lean) + heading into a BINARY (capex
+  beats) + tail risk re-loaded (hedges off) = LOW everyday sensitivity, HIGH EVENT sensitivity. Quiet on a quiet day; violent on the wrong
+  headline because nobody's hedged. [[compression-thesis]] (the razor), [[ai-financing-fragility]] (the shocks), [[detachment-bid]], [[where-the-edge-is]].
