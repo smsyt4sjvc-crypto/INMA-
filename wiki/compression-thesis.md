@@ -710,3 +710,32 @@ Source: Jake ZH pre-market scroll. DATA (as-reported): token costs at 3.5-month 
   near-free (distillation/open-weight), the US hyperscaler $205B-capex ROI is structurally WORSE (why build if it's cheap to rent/copy?).
   This is the "confession" pressure ([[ai-financing-fragility]] off-switch) building from COMPETITION, not just from returns. Bearish the
   capex-payer's ROI; the counter is [[metered-compute]] (own-the-bottleneck demand is real regardless of model price). Razor still open.
+
+### 2026-07-24 ~6:41AM PT — RAZOR REFINEMENT (bullish sellers ON VOLUME, until capex PEAKS) + the MEMORY-CANARY non-confirmation test (Jake)
+Refinement + a new testable signal Jake proposed: watch whether MEMORY still responds to bullish-capex signals; if not = cycle winding down.
+#### THESIS — the razor refinement (interpretation)
+- *(the capex-gap razor has a VOLUME/PRICE split + a TIME LIMIT)* "Capex up → bullish sellers (chips/memory/rental-clouds)" is right
+  FIRST-ORDER (payer's spend = seller's revenue). But: (a) **bullish VOLUME, not PRICE** — building into falling token costs =
+  oversupply → volume up, MARGIN down (memory most exposed, violently cyclical); (b) **works only UNTIL capex PEAKS** — sellers are
+  priced for ACCELERATION, so the day hyperscaler capex growth merely ROLLS OVER (not even cuts), they implode (2000 telecom:
+  NVDA/MU = Nortel/Lucent to the telcos' fiber capex). Bullishness is BORROWED AGAINST THE PEAK. (c) "Clouds" splits: neocloud
+  RENTAL layer = beneficiary of Google renting more BUT a cracking credit (CRWV 701); hyperscaler clouds = PAYERS, same boat.
+- *(net)* Long the sellers on rising capex = the LATE version of the trade: long them at the moment capex is nearest its top +
+  oversupply is forming + financing is cracking. Razor bullish; timing = the "revenue inflects before spending peaks" coin flip.
+#### THESIS — the MEMORY-CANARY test (Jake's signal)
+- *(the idea)* Memory (DRAM/HBM) = most cyclical, FIRST-to-turn segment; leads the semi cycle both ways. So watch whether memory
+  RESPONDS to bullish-capex catalysts. **Memory failing to rally on bullish capex = a NON-CONFIRMATION = the market looking THROUGH
+  the capex to the oversupply/peak = cycle winding down** — and it shows in memory BEFORE anywhere else. Clean test = memory RELATIVE
+  to chips (SOXX/NVDA) on capex-bullish days (strips the broad tape); memory underperforming chips on good capex news = the tell.
+#### DATA (baseline to grade forward — prices 2026-07-24 AM, Yahoo v8)
+- **Response since the 7/22 GOOGL capex raise ($205B + expanding 3rd-party capacity = the bullish signal):** MU −1.0%, SK Hynix
+  −3.9%, Samsung −4.2%, WDC −2.8% vs chips NVDA −2.2%, SOXX −2.5%; payer GOOGL −6.4%. → **Memory did NOT rally on the biggest
+  capex-up print of the cycle; Korean memory UNDERPERFORMED the chips.** ⚠️ 2-day window tape-contaminated (whole complex red on
+  fragility) — can't fully isolate memory-rejection from broad risk-off yet; the RELATIVE (memory<chips) is the cleaner early read.
+- **Since 7/16 (the split):** US memory RAN — MU +11.3%, WDC +15.9% — while Korean memory DIDN'T — Hynix −4.5%, Samsung −2.2%
+  (NVDA +0.0%, SOXX +2.1%, GOOGL −9.7%). Same product, opposite tapes = the market disagreeing with itself on memory.
+- **Price-discovery VOLATILITY:** memory 10-day swings 17–24% (Hynix 23.9%, WDC 20.7%, Samsung 16.8%, MU 16.6%) vs NVDA 4.8% /
+  SOXX 8.8%. Violent 2-way = cycle-inflection signature (supply/demand balance genuinely up for grabs).
+#### Falsifier / grade-forward
+- On the NEXT bullish-capex catalyst (META/MSFT/AMZN capex 7/29-30), does memory OUTPERFORM chips (razor intact) or UNDERPERFORM
+  (non-confirmation / winding down)? Repeated memory-underperformance-on-good-capex = the cycle-top tell. Links [[ai-capex-cycle]], [[ai-financing-fragility]].
