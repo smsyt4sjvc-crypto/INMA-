@@ -675,3 +675,28 @@ committed — GS Prime custodies HF books = near-real-time positioning, the clea
 - *(falsifier — same as the 7/24 cross-section)* Does the INDEX follow the momentum basket DOWN (unwind→contagion→flush) or does the
   rotation keep absorbing it (breadth broadens, index holds→healthy purge)? SPX flat through a 5yr-record momentum unwind = digesting,
   not breaking. The day SPX cracks WITH the momentum basket = purge became selloff. [[concentration]], [[detachment-bid]], [[bull-bear-ledger]].
+
+### 2026-07-24 ~9:19AM PT — GS PRIME verdict: "HEALTHY RESET, not a loss of conviction" — positioning purge maturing (+ the caveats + TWO CLOCKS)
+Source: GS "The Markets", Vinnie Lin (Prime Insights), 7/24. FACTS only (copyright — no transcript). The substantive answer to "are HFs still bullish AI."
+#### DATA (as-reported — GS Prime)
+- **Global semis NET ALLOCATION: 10% (start of year) → 24% (June, record high) → 18% now.** HFs purged HALF the overweight; still ABOVE the 10% baseline.
+- **Tech length reduction = LARGEST supply on record (10yr), ~on par with summer-2024 episode.**
+- **Composition rolled through the stack in sequence:** hyperscalers (early June) → SEMIS/MEMORY globally (late June) → tech HARDWARE + INFRA solution providers (July MTD).
+- **Realized MOMENTUM FACTOR VOL: highest in 45 YEARS (highest outside recessions)** → derisking became a RISK-MANAGEMENT/vol-control exercise. Retail + levered ETFs added to the system. Last 6wk also heavy issuance + technicals (index/pension rebal, opex).
+- **VERDICT (GS Prime): "a HEALTHY RESET, not a complete loss in fundamental conviction." BUYING RESURFACING the last 3 sessions** as the factor stabilized.
+#### THESIS (interpretation — NOT fact)
+- *(strong evidence for PURGE not break — credit it)* (1) selling was VOL-DRIVEN not conviction-driven — 45yr-high factor vol FORCES
+  deleveraging regardless of view = mechanical, not a verdict on AI; (2) composition shift confirms our map, memory-canary = the discrete
+  late-June wave (payers→chips/memory→hardware/infra in order); (3) buyers back as factor stabilized = flush exhausting, from the books.
+- *(⚠️ calibration — 3 caveats, don't flip bull on a Goldman soundbite)* (1) GS Prime is SOURCE-INTERESTED — prime broker's revenue IS
+  HF leverage/activity; "healthy reset, buy the dip" partly talks their book → discount a notch. (2) 18% STILL > 10% baseline = unwind
+  HALF-done; a de-gross to baseline = ~8 more pts of semis to sell. "Reset" ≠ finished. (3) the resurfacing buying is DISCRIMINATING —
+  happening WHILE memory bleeds (MU −4.4% today) = buyers back in QUALITY/payers, not memory/semis = the discrimination thesis, not broad re-risk.
+- *(THE key distinction — TWO CLOCKS)* GS Prime's "healthy reset" is a POSITIONING verdict, probably right ABOUT POSITIONING. But
+  positioning-reset ≠ fundamental-resolution. It measures the BOOK (crowding/supply/buyers), NOT whether revenue inflects before
+  spending peaks (the razor, still open). A healthy positioning purge can PRECEDE a fundamental break — 2000 had violent purges AND
+  bounces the whole way down −78%. Bear's real case = this purge/bounce is the SETUP; the fundamental crack comes next leg (memory
+  canary, credit tells, depreciation wave) — a DIFFERENT clock than GS just called.
+- *(net)* Near-term = more squeeze-than-crash (washed-out book + buyers returning + record forced-vol selling behind us) — a real
+  bullish tell for the next few weeks, HOLD it. Fundamental question UNCHANGED: undecided, watch memory canary + next week's capex beats.
+  Positioning says "reset"; fundamentals say "watch." Both true, different clocks. [[compression-thesis]], [[ai-financing-fragility]], [[detachment-bid]].
