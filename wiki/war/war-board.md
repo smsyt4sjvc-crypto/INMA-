@@ -66,3 +66,14 @@ crossing of it.* Watch items: Kuwait-facility ID · Kharg/Saudi-terminal strike 
 - **Oil bleeding premium: Brent −2.8% BELOW $100 (97.89), WTI 90.38.** "Risk premium unwinding." Still above the $90 marker but heading toward it.
 - **Pentagon LOWERED the official Iran death toll (omitting the 4 killed this month)** = off-ramp-adjacent narrative-management texture.
 - Marker UNCHANGED: no export-terminal strike. Premium coming OUT = mildly de-escalation-leaning (aligns Jake's oil-off-ramp; equities not paying for it). Watch $90.
+
+## UPDATE — 2026-07-24 ~9:54AM PT (Fri midday) — OFF-RAMP RE-FORMING (Jake's de-escalation call checkpoint #1 live)
+- **Weekend de-escalation PRIMING (reports, per Jake's feed — as-reported, unconfirmed):** Iraq preparing to negotiate (broker re-engaging;
+  7/23 "rejection" per IRNA "misleading" = leverage not final); "gas prices may force Trump into talks" (the domestic forcing function — oil/gas
+  political cost → de-escalate for kitchen-table relief). Oil ALREADY voting: Brent <$100, WTI <$90 (premium half-unwound).
+- *(grades Jake's 7/23 de-escalation/VIX-pop call, checkpoint #1 = "de-escalation announcement Fri-close→Mon-open?")* Odds ↑, pieces aligning
+  (strike-then-deal path). BUT discipline: priming ≠ confirmation (FAILED ONCE 7/23); REVENGE-vs-GAS tension unresolved (Trump "revenge mode"
+  post-18-dead cuts AGAINST the gas incentive — punish-first-deal-second is live). Confirmation = the actual announcement, not the setup.
+- *(asymmetry)* Premium half-unwound → de-escalation CONFIRM is partly priced (smaller incremental oil-down); FAILURE re-loads premium (bigger oil-up snap).
+- *(2-front Trump window)* Same weekend: AI-leadership signal (the open-weight letter's MAGA-framed lobbying) + gas-relief (de-escalation) — both feed
+  Trump's "America wins + kitchen-table" narrative → both teed up TO/FOR him. Watch for a move on either/both. Marker triggers UNCHANGED (no export strike).
