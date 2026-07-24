@@ -739,3 +739,10 @@ Refinement + a new testable signal Jake proposed: watch whether MEMORY still res
 #### Falsifier / grade-forward
 - On the NEXT bullish-capex catalyst (META/MSFT/AMZN capex 7/29-30), does memory OUTPERFORM chips (razor intact) or UNDERPERFORM
   (non-confirmation / winding down)? Repeated memory-underperformance-on-good-capex = the cycle-top tell. Links [[ai-capex-cycle]], [[ai-financing-fragility]].
+
+### 2026-07-24 ~6:44AM PT — MEMORY-CANARY grade, day 2 (Fri open): MU −4.1% underperforming NVDA −0.4%; payers GREEN
+DATA (live ~open 7/24): MU −4.11%, SOXX −2.81%, SMH −2.04%, AVGO −2.19% vs NVDA −0.38%; payers GOOGL +0.35/MSFT +0.65/AAPL +1.45
+GREEN; SPX flat +0.07%. Headlines: "Micron Falls to End Strong Week — What Comes Next Could Define the Memory Boom"; "Nvidia's
+Rally Is at Risk." THESIS: memory UNDERPERFORMING chips a 2nd straight session while payers hold = the non-confirmation pointing
+the same way twice. ⚠️ still a broad semi-down day (contaminated); the RELATIVE MU<NVDA (~3.7pts) is the clean tell. Clean vote =
+META/MSFT/AMZN capex 7/29-30. The discrimination is now in the EQUITY tape (sell memory/neoclouds, hold cash-rich core), not just CDS.
