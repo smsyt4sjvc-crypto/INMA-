@@ -776,3 +776,14 @@ Thesis (user's, sharp — the compression RESOLUTION the note was missing):
 - *(the part that holds in EVERY branch)* Even the bull-volume case CONCEDES the metering monetization capitulates — money stops being made per-token, moves to
   the contract + the layer above. That holds whether Jevons rescues the pipe or telecom commoditizes it. Open question = pipe gets volume-rescued vs commoditized =
   the $205B question the capex prints start to answer. [[metered-compute]], [[ai-financing-fragility]].
+
+### 2026-07-24 ~3:16PM PT — ⚠️ CORRECTION (JPM ground-truth): the INTC fade was DILUTION + strategy, NOT the depreciation/oversupply I attributed
+Source: JPM analyst call read-out (Jake paste) + ZH (INTC LOD <$94, was $114 AH = ~−18% round-trip). Corrects my 7/24 "Intel beat-but-sell = discounting earnings-quality + capex/depreciation math" entry above.
+#### DATA (as-reported — JPM, why investors sold)
+- Investors said the NODE sounds good / DEMAND will be there (NOT an earnings-quality or oversupply rejection — my attributed mechanism is contradicted).
+- Actual drivers of the fade: **(1) formal disclosure INTC is OPEN TO ISSUING NEW EQUITY (dilution)** = the big one; **(2) capex guided "across ALL business units" not just foundry** + competitive gripes (weak in agentic, too much consumer-CPU exposure, want foundry FOCUS).
+#### THESIS (interpretation — NOT fact)
+- *(Claude correction — over-fit to the GOOGL template)* I merged Intel into "sell the AI-capex-oversupply thesis" because it CONFIRMED. JPM ground-truth: the fade was INTEL-SPECIFIC (dilution + strategy/competitive), NOT the depreciation/earnings-quality mechanism I claimed. Narrative-fitting caught.
+- *(the SHARPER thread that survives — dual/tri-channel FINANCING REFUSAL)* Intel = the EQUITY-channel version of the SAME phenomenon as the credit charts: the market REFUSING TO FUND AI-capex. Means-of-financing razor by balance sheet: strong name (GOOGL) → market scrutinizes FCF/credit; WEAK name (INTC) → scrutinizes DILUTION (punished instantly); levered periphery (ORCL/SPCX/CRWV) → SPREADS. All three channels (credit/equity/spreads) getting stingy at ONCE. Market didn't reject Intel's CHIPS — it rejected Intel's ASK FOR CAPITAL. [[ai-financing-fragility]].
+- *(capex-SENTIMENT cycle turning)* "Capex across all units" = a SELL now; investors want it FOCUSED (foundry). Market flipped from "capex=good/bigger-better" → "capex=suspect unless disciplined+ROI-clear." Anti-SPRAY, not anti-capex. 6mo ago that guide was a flex; today a sell = the capex-reward→capex-scrutiny regime shift, real-time.
+- *(net)* Intel MORE idiosyncratic than I said AND still part of the pattern — via equity-funding-refusal + capex-discipline-demand, NOT depreciation/oversupply. Same disease (market souring on how AI-capex is FUNDED), different organ. Corrects the mechanism, keeps the theme.
