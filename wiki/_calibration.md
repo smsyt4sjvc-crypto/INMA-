@@ -308,3 +308,28 @@ agreeing w/ caveats). Monotone-confirmation — the exact failure the calibratio
 - *(the standing correction)* Jake's real book = metered-compute (BULL) vs ai-financing-fragility (BEAR) tension; he's currently
   over-weighting the bear. Hedged-nibble-powder posture is right BECAUSE the resolution is genuinely unknown. Don't let a week
   of bearish data flow harden "positioned for both" into "convinced it's the crash." Jake error-checking Claude = the system working.
+
+## 2026-07-24 ~10:16AM PT — CALIBRATION EVENT: the AI-bear went CONSENSUS (FT Alphaville "This is nuts. When's the crash?")
+Source: FT Alphaville weekly (Bryce Elder), 7/24. The week's key calibration catch — logged because Jake has been BUILDING the bear all week (correctly on mechanics) and the discipline now is the crowding flag.
+#### DATA (as-reported)
+- Goldman (Wilson/Chang) client note: AI-equity value needs ever-more-optimistic assumptions → market MORE VULNERABLE to challenges;
+  distinguish AGGREGATE shocks (shrink the pie: slow adoption/tighter funding/east-west price war) vs DISTRIBUTIONAL (rearrange the pie: chip-shortage ease).
+- Jefferies' Chris Wood ("sum of all fears"): "massive capital destruction"; token-parsimony replaces tokenmaxxing; Chinese open-source diverts US spend;
+  hyperscaler-debt default risk (OFF-B/S via datacenter leases); "artificial earnings" (non-cash unrealised gains + compute-sales-upfront + depreciation-too-low);
+  "2008 real estate analogy… tenants (OpenAI) whose profitability is uncertain… refinance, not repay." Ed Zitron a recent Jefferies guest.
+- Alphaville's own meta: bear-desk-talkers exist to sell INSURANCE while sell-side stays bullish; the tone shift "might be no more than a symptom of July's correction."
+  Punchline: **"AI-skepticism now feels like the CONSENSUS… an awful lot of people are positioned and ready to say they told you so."** Headline = the EXACT
+  phrase Alphaville ran 2005-07 for YEARS before the GFC.
+#### THESIS (interpretation — NOT fact)
+- *(validation — we were early)* Chris Wood recites [[ai-financing-fragility]] item-for-item (off-B/S leases/Beignet, depreciation time-bomb, unrealised-gains
+  earnings/GOOGL $99B, 2008-rhyme/refi-not-repay, token-deflation, China open-source). Goldman's aggregate-vs-distributional = our fundamental-clock vs rotation.
+- *(THE calibration flag — the bear is now CROWDED)* Per [[seeing-vs-predicting]]: a consensus meme is worth ~0; the edge was SEEING it early (done), not holding it
+  once GS/Jefferies/Alphaville/Zitron all agree. The "This is nuts when's the crash" headline = 20yr proof that being-right-eventually ≈ being-wrong-for-years (ran
+  2005-07 pre-GFC). The recognition going mainstream is the LATE-stage tell (2000 Barron's) AND the sentiment-washout tell — the DATA doesn't pick; the fundamental clock does.
+- *(coiled setup — reconciled w/ GS Prime)* Bearish NARRATIVE (consensus) + de-grossed-but-UNHEDGED books (AI at 25th %ile, macro hedges reduced) → near-term PAIN
+  TRADE is UP (squeeze — literally today's broad rally); a real shock = violent (unhedged). 
+- *(⚠️ the discipline that STOPS the flip to bull)* "Everyone's bearish → bullish" is a LAZY heuristic that FAILED at 2000/2008 (bears were consensus AND right; 2000
+  squeezed all the way down −78%). Consensus-bear moves the POSITIONING clock (squeeze risk), NOT the FUNDAMENTAL clock (pie growth). Two clocks. Also discount the
+  "consensus" as partly insurance-selling + July-correction artifact (Alphaville's own caveat).
+- *(net)* Jake right on the DISEASE (validated, priced); the crowding means near-term squeeze-lean + the remaining edge is the fundamental clock (next-week capex), NOT
+  re-selling a consensus bear. Don't be "positioned and ready to say I told you so" while it runs on robot spirits another leg. [[market-fragility]], [[detachment-bid]].
