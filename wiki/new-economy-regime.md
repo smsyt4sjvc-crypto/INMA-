@@ -1323,3 +1323,16 @@ is announced: 10-12.5% on ~60 "major trading partners," justified as combating F
   palatable justification → tariff/ban the cheaper competitor. Seen twice in a week (AI models + physical goods).
 - *(⚠️ two-sided)* Forced labor is REAL (Xinjiang); a legitimate case exists. But the broad flat STRUCTURE reveals the primary
   function is protectionism w/ the concern as the hook. Both true. [[compression-thesis]] (the ban-as-margin-defense parallel), [[demand-destruction]] (inflation stack).
+
+### 2026-07-24 ~10:41AM PT — Trump: US starting a SECTION 301 PROBE into "EU actions on US tech" (ZH, 6m)
+DATA (as-reported): Trump says US launching a Section 301 (Trade Act 1974) investigation into EU regulation/fines/taxes on US tech
+(DMA/DSA, antitrust fines, digital-services taxes). 301 = the tool behind the 2018 China tariffs; can end in retaliatory tariffs on EU goods.
+THESIS (interpretation):
+- *(the STICK to the open-weight letter's CARROT)* Same-day as the "American AI Leadership" letter → Trump-admin "America wins tech/AI"
+  mode: carrot (pro-US-AI policy) + stick (punish anyone taxing/regulating US tech). 3rd Trump-tech-dominance front this week (w/ gas-relief +
+  AI-leadership) — same "America wins + kitchen-table" narrative.
+- *(market read — all marginal)* Mildly BULLISH US mega-caps (removes an EU regulatory/fine overhang: AAPL/GOOGL/META/MSFT/AMZN — adds to
+  why payers held green today); mildly BEARISH EU/European assets (retaliatory-tariff threat); ADDS to the tariff-inflation stack.
+- *(⚠️ discipline — probe NOT tariffs)* 301 investigations take MONTHS (China's ~7mo launch→tariffs). A THREAT + negotiating LEVER (pressure
+  EU to soften DMA/digital-tax enforcement under the tariff gun), not an action today. WARNING-vs-TRIGGER: state/odds-shader, not a dated
+  catalyst. Near-term market impact small = theme reinforcement (Trump championing US tech), not a mover.
