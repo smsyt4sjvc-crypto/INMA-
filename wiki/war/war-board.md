@@ -78,7 +78,10 @@ crossing of it.* Watch items: Kuwait-facility ID · Kharg/Saudi-terminal strike 
 - *(2-front Trump window)* Same weekend: AI-leadership signal (the open-weight letter's MAGA-framed lobbying) + gas-relief (de-escalation) — both feed
   Trump's "America wins + kitchen-table" narrative → both teed up TO/FOR him. Watch for a move on either/both. Marker triggers UNCHANGED (no export strike).
 
-## UPDATE — 2026-07-24 ~12:45pm PT — WAR WIDENING (Gulf-Arab coalition) — strategic escalation vs the tactical off-ramp
+## UPDATE — 2026-07-24 ~11:16am PT — WAR WIDENING (Gulf-Arab coalition) — strategic escalation vs the tactical off-ramp
+<!-- ⚠️ timestamp corrected from a mislabeled "12:45pm PT" — Claude anchored on the WSJ article's 12:30pm dateline instead of running `date`; real time was ~11:16am PT (verified 11:19am). Timestamp-rule violation logged. -->
+<!-- Also: the "12:30pm" in the WSJ piece is the ARTICLE's publish dateline (its own clock), NOT current Pacific time — don't reuse source datelines as entry timestamps. -->
+- **CORRECTION NOTE:** this entry was briefly labeled 12:45pm PT (source-dateline contamination); actual ~11:16am PT.
 - **Gulf-Arab states now active belligerents (WSJ):** Bahrain + Kuwait struck Iran (first direct retaliation, early July); UAE intel+air cover; Saudi "evaluating."
   Escalation of SCOPE (regional coalition forming), + analysts "countenancing regime change." Targets MILITARY not oil-export → still OFF the export tell.
 - *(two-sided on oil)* Gulf incentive = OPEN Hormuz (UAE wants "full opening"; pro-flow = bearish oil IF they succeed). BUT the PATH fattens the uncap tail:
