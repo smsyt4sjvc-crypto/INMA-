@@ -1972,3 +1972,20 @@ Source: Jake's read + Jake's live feed (attacks "started 2.5h ago" — see ⚠�
 - *(marker board — the operative question is now WHAT DID THEY HIT)* Unchanged triggers: Aramco/Iranian-export-terminal strike
   (uncap), broad insurer adoption (hard closure), fresh proposal/de-escalation speech (off-ramp — still live per strike-then-deal).
   The reported attacks are TEXTURE until a target crosses a tell. Watch: Kharg/export-terminal confirmation vs a Fri-close proposal.
+
+##### CONFIRMATION (2026-07-23 ~6:08pm PT) — CENTCOM: strikes confirmed, NIGHT 13, targets OFF the export tell → controlled-predicate branch, not the uncap
+Source: @CENTCOM (US Central Command), post ~1h old. **Confirms the ⚠️-unconfirmed attacks two entries up.**
+- **DATA (CENTCOM, belligerent source — credible on fact-of-strikes, framing discounted):** "US forces started another night
+  of strikes against Iranian military targets at 6:45pm ET" (= 3:45pm PT; ~matches Jake's "2.5h ago"). **"13th CONSECUTIVE
+  night."** Stated aim: "diminish threats from the IRGC to commercial shipping." No claim of export/oil-infra targets.
+- *(NIGHT 13 = the key word — nukes the causal story)* The rejection did NOT unleash strikes; this is an ONGOING nightly
+  campaign the tape watched through 12 prior sessions and stayed capped. Confirms Jake's "no surprise shock" with a receipt —
+  a market can't be shocked by night 13 of a thing it's priced since night 1. The rejection→strikes causal read dissolves.
+- *(targets OFF the tell — the uncap did NOT trip)* "Military / IRGC-shipping-threat" targets = explicitly NOT export capacity.
+  The uncap tail is Kharg/export-terminal or Iranian retaliation on a Gulf terminal; CENTCOM describes the opposite set. Ordnance
+  landed off the oil tell → the predicate stayed CONTROLLED tonight. **Neutral referee agrees:** 13 nights of strikes + Brent
+  still ~$100 (not $147) → the price is the honest witness that no night has touched export infra. Framing discounted; price isn't.
+- *(nuance — cuts oil-BEARISH at the margin)* Degrading IRGC's ability to threaten shipping = degrading the KINETIC Hormuz-closure
+  capability → LOWERS tell (c)-kinetic (chokepoint-opening, trims closure premium). Does NOT touch the Lloyd's NON-kinetic
+  insurance route (still advancing) or the export-capacity tail. Net tonight: kinetic-closure risk ↓, financial-closure unchanged,
+  export tail untouched. Marker board: still capped at $100, controlled campaign continues. Off-ramp (strike-then-deal) still live.
