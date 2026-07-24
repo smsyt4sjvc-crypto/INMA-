@@ -52,3 +52,12 @@ crossing of it.* Watch items: Kuwait-facility ID · Kharg/Saudi-terminal strike 
 2. Format: `### YYYY-MM-DD — headline` then one DATA line (+ source) and one FLAG line (🔴/🟠/🟡/⚪ + `[TOKEN]` + one-line read).
 3. If it's 🔴 or 🟠, ALSO update CURRENT STATUS above so the board stays live.
 4. Deep multi-angle analysis → [[demand-destruction]] (thesis note), linked from the ledger line. The ledger stays a scannable index, not an essay.
+
+## UPDATE — 2026-07-24 ~6:20am PT (Fri pre-market, day 146; night 13 done)
+- **Marker UNCHANGED: uncapped ~$100, HOLDING, no export-terminal strike.** Oil elevated on DURATION not a physical uncap
+  (JPM: ~+$7-8/bbl Brent per month of disruption; "duration > the conflict"; "Iran+Houthis add $49, demand cuts $10").
+- **Escalation MOOD ↑ (not the marker):** Trump "revenge mode"/"losing patience" post-night-13 + N-Iraq base explosions → the
+  state where TARGET DISCIPLINE breaks. Conditional odds of a Kharg/export strike ticked up; the tell itself has not fired.
+- **Off-ramp: less-dead than it read.** Iran IRNA calls the NYT ceasefire-rejection "misleading" → the rejection may be leverage/
+  terms-redacted, not clean hardening. Strike-then-deal window (fresh proposal post-Fri-close) still open.
+- Triggers unchanged: export-terminal strike (uncap) · executed Bab-el-Mandeb/Hormuz closure (hard) · fresh proposal (off-ramp).

@@ -36,3 +36,14 @@ move the marker. Most entries are ⚪ TEXTURE. Newest on top. Legend + triggers:
 Rhetoric that later gets neutrally CONFIRMED (a threat becomes an action) moves to [[war-confirmed]] with its new source,
 and the rhetoric line stays here struck/annotated (corrections-stay-visible). A threat that repeats without executing =
 still ⚪; do not let repetition inflate it to a trigger (WARNING-vs-TRIGGER rule).
+
+### 2026-07-24 — Iran IRNA: NYT report on Iraqi PM's ceasefire proposal is "MISLEADING"
+- SAID: IRNA (Iranian state agency) disputes the framing of the 7/23 NYT ceasefire-rejection report. Iranian-agency = claim.
+- 🟡 `[ODDS-SHADER]` — discount as belligerent-source, BUT cuts TOWARD the terms-redacted read: the "rejection" may be softer /
+  leverage, not the clean hardening the headline implied. Keeps the off-ramp less-dead than the bare NYT headline read.
+
+### 2026-07-24 — Trump in "revenge mode," "losing patience" after 13th consecutive night of strikes
+- SAID: ZH framing (Trump posture) post-KIA, after night 13.
+- 🟠 `[SHOULD-MOVE]` — the "US deaths → disproportionate response" branch going PERSONAL. Revenge-mode is exactly the STATE where
+  TARGET DISCIPLINE breaks → raises the odds of a strike aimed at Iranian OIL (Kharg) = the bridge to the uncap. The marker itself
+  hasn't moved (no export strike yet), but the conditional probability of one ticked up. The mood, not the marker — watch the target set.
