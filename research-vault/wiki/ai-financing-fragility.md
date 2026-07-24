@@ -808,3 +808,28 @@ wobble (his feed), GOOGL free-cash-flow negative (the FB chart). Firewall: the S
   end-demand (Jake's [[metered-compute]] bull — validates the spend, ROI shows, no cut, no fire) vs speculative buildout (cut
   → confession → cascade). The bear needs demand SPECULATIVE; Jake's own thesis is the case it's STRUCTURAL. Same unresolved
   razor — everything sits on which side the utilization data lands. Not a floor — **a coin still in the air.** [[compression-thesis]].
+
+### 2026-07-23 ~8:12PM PT — WHICH cut-signal is worse: SOLVENCY (ROI) vs LIQUIDITY (financing) + the PACE tell (Jake)
+Jake's distinction: if they cut capex, is the ROI-signal or the financing-signal worse? He says financing — "it implicates
+everyone regardless of their position." Correct, and it names the solvency-vs-liquidity split. Analysis (THESIS).
+#### THESIS (interpretation — NOT fact)
+- *(the two signals named)* **ROI cut = SOLVENCY signal** (assets don't earn): fundamental, SLOW, DISCRIMINATING — market
+  reprices earnings gradually, cash-rich survive. The 2000 grind. **Financing cut = LIQUIDITY signal** (pipe seizes): fast,
+  systemic, **NON-discriminating in the acute phase** — a frozen funding market stops even GOOD credits from rolling (2008 froze
+  the solvent, not just the broke); sorting who was solvent happens AFTER, in the wreckage. The 2008 flush. Maps grind vs crash.
+- *(causality — why financing is worse than it looks)* A financing cut is usually **the ROI doubt arriving through the HARSHEST
+  counterparty.** Lenders have no upside / all downside → when THEY doubt the cash flows they FORECLOSE, they don't wait like
+  equity. Same disease (ROI doubt), priced by the party that pulls the rug vs the one that hopes. Worse not because it's a
+  different problem — because of WHO is diagnosing it.
+- *(the purest non-discriminating version)* Financing that seizes for reasons OUTSIDE the AI complex — rates spike, oil→rates→war
+  premium, a crisis elsewhere draining the buyer pool. The pipe freezes for reasons unrelated to any datacenter's ROI → hits good
+  and bad alike, complex can't control it. Given the stagflation/war macro, this exogenous-seizure channel is LIVE = the worst.
+- *(correction — "ROI is a Google thing" undersells it)* An ROI cut from GOOGLE SPECIFICALLY is worse than from a peripheral
+  name: Google = best-positioned spender (models/TPUs/data/distribution). If the SMARTEST money blinks → "if Google can't, nobody
+  can" → kills the CATEGORY's terminal value, not one company's. Best player cutting generalizes HARDEST (messenger quality amplifies).
+- *(THE PACE TELL — actionable, unifies with the discrimination thesis)* Watch the PACE of the credit signal. Gradual spread-
+  WIDENING = discriminating = CULLING = survivable (current state: CRWV 701, core pristine — market sorting good/bad). A GAP to
+  **"NO BID"** = SEIZURE = non-discriminating = the flush. **Same credit market, two regimes.** The moment the buyer's-strike
+  appears (won't buy at ANY yield) = the discriminating signal flips systemic. **Transition from WIDENING → NO BID = the single
+  line.** Today = widening, NOT gapped. When it gaps, the grind became the flush. Ties the discriminating-credit-break read to a
+  falsifiable regime-change trigger.
