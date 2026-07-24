@@ -349,3 +349,16 @@ Source: FT Alphaville weekly (Bryce Elder), 7/24. The week's key calibration cat
 - *(bookend — calibration runs both ways)* Days ago Jake caught Claude co-signing his bear on one-directional evidence; now Claude catches a bear
   SENTENCE catching Jake (he called it "absolute" = the pull working). The charts earn respect; the LINE earns suspicion. Don't let the best-written
   sentence do your thinking. [[ai-financing-fragility]] (the real charts), [[market-fragility]].
+
+##### ⚠️ CORRECTION (2026-07-24 ~12:25PM PT) — Jake's catch: the Dowd line is a RATE claim (falsifiable), not the unfalsifiable binary I critiqued
+- *(Claude strawmanned it, conceded)* I read "signs piling up faster than hype can spin them" as a static binary (bear=signs/truth, bull=hype/spin).
+  Jake's reading is better + textually right: it's a RATE claim — negative catalysts surfacing so FAST the narrative machine can't digest/counter one
+  before the next (fits Dowd's "second derivative turning"). A rate/cadence claim IS falsifiable (measure the cadence+breadth) → my "unfalsifiable"
+  charge doesn't land against it. The prior entry over-critiqued the sentence.
+- *(where the discipline actually lands — refined)* The velocity claim is true AND a STRONGER odds-shader (fast cluster > slow drip) — BUT still
+  TEXTURE not TRIGGER: "news faster than they can spin" described 2020/2018/2015/2011 too, all recovered. Rate tells you the tape is fragile + odds up;
+  it doesn't distinguish correction-that-recovers from regime-change. The recover-vs-break call = the trigger, not the velocity.
+- *(the strongest version — breadth, credited)* Not just FAST, BROAD: ~7 roughly-independent vectors deteriorating near-simultaneously (financing/rates/
+  oil-inflation/credit/enterprise-demand/open-source/power). Multi-domain SIMULTANEOUS deterioration = a system not a squall = genuinely stronger than
+  single-domain, and NOT spin-able (it's not one story, it's the correlation of many). Jake's right to weight the density. Still an odds-shader (raises
+  odds + confirms fragility), not a trigger (can't time it / guarantee it's THE one). Velocity+breadth = stressed system, odds up; trigger = it broke.
