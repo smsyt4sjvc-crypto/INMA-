@@ -1910,3 +1910,28 @@ Source: Jake paste (IRGC statement). Iran declares UK bases used by US to strike
 - *(marker relevance = TEXTURE not trigger)* Doesn't touch any tell (no export capacity / Hormuz transit / insurance). Keeps
   the general war-premium elevated but is NOT an oil-supply signal. Marker triggers unchanged: Aramco strike (uncap), broad
   insurer adoption (hard closure), ceasefire (off-ramp). Calibration: don't co-sign alarm just because it's dramatic.
+
+### 2026-07-23 ~5:55pm PT — Iran REJECTS a US ceasefire deal (Iraqi-brokered), per NYT — headwind to the off-ramp, but a rejected PROPOSAL ≠ escalation
+Source: NYT (Jake paste), Thu evening. "Iran has rejected a US ceasefire deal presented by Iraqi leaders." Day 145 of the war.
+#### DATA (as-reported)
+- **NYT reports Iran rejected a US-authored ceasefire deal that Iraqi leaders presented.** Neutral-outlet report → the FACT of
+  a rejection is credible (not an Iranian-agency claim). The deal's TERMS + whether the rejection is final vs a negotiating
+  gambit = not reported / interpretation.
+- No oil marker touched: no export-terminal strike, no Hormuz transit change, no broad insurer adoption. Brent unmoved on a tell.
+#### THESIS (interpretation — NOT fact)
+- *(grading Jake's 7/23 call — a HEADWIND, not yet a falsification)* Jake's de-escalation call windows Fri-close (7/24) →
+  Mon-open; this rejection lands Thu evening, BEFORE the window. It's contrary evidence to the datable checkpoint
+  ("de-escalation speech Fri→Mon?"), and I won't explain it away to protect the call. But a rejected PROPOSAL is a setback to
+  ONE deal, not a confirmed turn to escalation — the checkpoint is still open, now leaning against.
+- *(calibration — Jake weights de-escalation, so weigh the escalation branch honestly)* Two reads, held side by side:
+  (a) **Negotiating leverage** — Day 145, both sides exhausted; rejecting an Iraqi-brokered US draft to hold out for better
+  terms is the classic noise-before-a-deal. Rejection ≠ walking away; it's often the next-to-last step. This KEEPS Jake's
+  off-ramp alive on a delay.
+  (b) **Genuine hardening** — if this sets into "no deal, back to strikes," it VOIDS the tug-of-war: per Jake's own calibration
+  overlay, escalation makes it a one-way ROUT (oil up + financing stress → same direction), not the whipsaw his VIX-pop needs.
+  The tug-of-war REQUIRES the de-escalation branch to hit; a hard rejection is the branch that kills it.
+- *(marker relevance = TEXTURE, mildly off-ramp-negative)* Touches no oil tell → not a supply trigger. Keeps war-premium
+  sticky and nudges the diplomatic-path odds down a notch. Marker board UNCHANGED: Aramco/export-terminal strike (uncap),
+  broad insurer adoption (hard closure), ceasefire/de-escalation speech (off-ramp — now on a delay, rejected once).
+- *(watch)* Whether a REVISED deal surfaces over the weekend (rejection-as-leverage confirmed → off-ramp back on) vs a
+  Trump "massive attack" / strike headline (hardening confirmed → rout branch). The rejection alone doesn't pick between them.
