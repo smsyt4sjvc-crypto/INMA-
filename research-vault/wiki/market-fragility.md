@@ -633,3 +633,23 @@ algo doesn't even feed me trading stuff." A [[_assumption-filters]] narrative-ti
 - *(NOT ambiguous — the chart CONFIRMS the thread)* Bloomberg/FT hard data: Google FCF went NEGATIVE (first since 2004),
   the $99B equity-mark is non-cash so doesn't rescue it — validates the Wed-night FCF-burn call ([[compression-thesis]],
   [[ai-financing-fragility]]). Sentiment read ambiguous; the fundamental confirmation is not.
+
+### 2026-07-24 ~9:06AM PT — WHOLE-INDEX cross-section (S&P500-by-weight, 7/24 intraday): the discrimination is a ROTATION, not a selloff
+Source: S&P500-by-market-cap snapshot PDF (Jake), 7/24 intraday. Firewall: prices = DATA; the rotation read = THESIS.
+#### DATA (as-reported, intraday 7/24)
+- **Semi/memory complex uniformly RED:** MU −4.38%, **SanDisk SNDK −5.76%** (the two WORST names in the index), INTC −3.26%,
+  AMAT −1.80%, TXN −1.73%, AVGO −1.72%, LRCX −1.03%, KLAC −0.98%; NVDA +0.85% / AMD −0.44% the relative holdouts. ORCL −1.78%.
+- **Mega-cap payers HOLDING:** AAPL +3.76%, GOOGL +0.73%, MSFT +0.71%, NVDA +0.85%; META/AMZN ~flat.
+- **Broad market (the other ~490) GREEN:** financials (JPM +0.79/BAC +1.21/MA +1.01), industrials (GE +2.21/RTX +1.99/DOV +2.97),
+  consumer (HD +1.92/DG +2.93/WSM +3.84/HPQ +5.61), healthcare (JNJ +1.43/LH +2.00/RMD +2.50) — dozens at +2 to +4%.
+- **Cap-weight SPX FLAT (+0.07%)** while equal-weight is up; IWM +0.22%; VIX 18.85 (calm).
+#### THESIS (interpretation — NOT fact)
+- *(rotation, not risk-off)* Equal-weight UP while cap-weight FLAT = the entire drag is the mega-cap AI/semi complex; the money
+  isn't fleeing to cash (VIX calm, small-caps green) — it's ROTATING from the narrow AI-semi trade INTO the neglected 490.
+- *(the discrimination is AI-complex vs THE-REST, and the rest is winning today)* Refines the core-vs-periphery read: the whole
+  AI-CAPEX-SELLER complex (memory worst) is being culled while laggards catch the bid. Memory canary screaming (MU/SNDK = index
+  worst). The narrow leadership that CARRIED the index is being sold; breadth is BROADENING under a flat tape.
+- *(healthiest version of the AI-trade cracking + the falsifier)* Breadth broadening under a flat index = simultaneously bullish
+  (money stays in equities, breadth improves) and bearish-the-narrow-trade (leaders culled). Index holds BECAUSE rotation is
+  orderly. **Falsifier: the day the 490 stop catching the bid and go red WITH the semis = rotation becomes contagion/real selloff.**
+  Today they're absorbing it. [[concentration]], [[compression-thesis]] (memory canary), [[ai-financing-fragility]] (discrimination).
