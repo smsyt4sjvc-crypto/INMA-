@@ -890,3 +890,26 @@ levels + the quote = as-reported DATA; the reads = THESIS.
   MULTIPLES." A multiple + off-B/S + earnings-quality story, NOT core solvency = DERATE/CULL not FLUSH — UNLESS SPV cracks force
   parent recourse OR an SPV bond GAPS to no-bid. **Beignet at 97 = a WIDEN.** Watch it toward 90 + any Meta backstop language =
   the transmission turning on. The pace tell holds.
+
+### 2026-07-24 ~6:35AM PT — ORACLE 5yr CDS record ~203bps (Bloomberg chart) — idiosyncratic WIDEN, junk-cut = the systemic line
+Source: Bloomberg "Oracle Debt Risk Hits Record High" chart + stat card (Jake paste). Firewall: levels/ratings = DATA; reads = THESIS.
+#### DATA (as-reported)
+- **Oracle 5yr CDS ~203bps = record** (~$203k/yr to insure $10M). **>QUADRUPLED since mid-2025** (~50bps baseline); the chart shows
+  it ABOVE both the COVID peak (~125) and the GFC/2008 peak (~100). Recent move = near-vertical ~150→203.
+- Bonds widening: 6.7% notes due 2056 +8bp Mon to **263bps**; 5.7% due 2036 +9bp to **205bps.**
+- **S&P downgraded Oracle to BBB- on July 9 — one notch above junk — citing rapidly growing AI-related spending.**
+- Context (prior vault CDS): cash-rich core MSFT ~47 / GOOG ~56 / AMZN ~60; CRWV ~701; SPCX ~168.
+#### THESIS (interpretation — NOT fact)
+- *("above 2008" is the misleading frame — it cuts the OTHER way)* 2008 Oracle hit ~100 because the WHOLE MARKET seized (SYSTEMIC).
+  Today 203 while the core sits 47-60 = IDIOSYNCRATIC — the market SINGLING ORACLE OUT, not dragging the complex. A CDS above its
+  2008 level with NO systemic blowout = the DISCRIMINATION working (quality-ladder razor in CDS), NOT a 2008 rerun. If systemic,
+  MSFT's CDS would move. It isn't. The 203-vs-47 GAP is the signal: benign-for-system, brutal-for-name.
+- *(why Oracle)* The most DEBT-funded AI spender (OCI/Stargate/datacenter built on borrowing, not FCF). CDS pricing its CHOICE to
+  lever for the buildout = the "debt-funded not cash-funded" side of the razor — the name the framework fingered as first to break.
+- *(pace tell)* 203 + BBB- = a loud, ACCELERATING widen — but still IG, still a two-way priced market. WIDEN, not no-bid GAP.
+- *(THE falsifiable line — watch the RATING not the CDS)* **BBB- → BB (junk) = the fallen-angel trigger:** IG-mandated holders FORCED
+  to sell regardless of yield + prohibited from buying (the buyer's-strike mechanism). Oracle = one of the LARGEST IG issuers
+  (~$90-100B+ debt) → a fallen angel that size could itself flood + SEIZE the HY market (among the biggest ever). THAT is when
+  Oracle's idiosyncratic widen becomes a SYSTEMIC event. One notch away; NOT crossed.
+- *(net + book)* "Crisis levels" for ORACLE, not the system (proof: core still 47-60). Discriminating break, loud + accelerating,
+  on exactly the named name. Systemic version = one downgrade away. NOT in Jake's book (no ORCL) → thesis-confirmation, not position risk.
