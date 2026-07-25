@@ -319,3 +319,26 @@ are a reported contract term and a COURT record — not framing. Sources per Jak
 - *(market)* One of two moat holdouts is in open legal war with its own government (partially-enjoined ban, hostile czar, pushed-out
   IPO) → its holdout = existential legal posture, not just commercial conviction. **Google = the lone politically-unencumbered holdout →
   Google's choice is now the cleaner forward signal.** [[compression-thesis]], [[_calibration]].
+
+##### THE ONE-WAY VALVE (Jake) — the missing copyleft: open flows IN, forks stay closed, state forks stay DARK
+(Completes the weekend triptych; conflict flag on the thread stands.)
+- *(Jake's mechanism, made precise)* Classic OSS solved share-back with COPYLEFT (GPL: distribute a derivative → open it). Open-WEIGHT
+  licenses are almost all PERMISSIVE — no share-back at all. And even strong copyleft triggers only on DISTRIBUTION: a government
+  fine-tune run internally on classified networks distributes NOTHING → **the state's use-case is structurally exempt from every
+  reciprocity mechanism open source ever invented.** Commons in, nothing out — the valve's design, not a bug.
+- *(Sacks' own example IS the valve)* Cursor: open Kimi + proprietary data → proprietary Composer 2. The celebrated "how open source
+  works" case is a one-way extraction. Nobody in the letter coalition proposes copyleft-for-weights; the taking is celebrated, the
+  returning never comes up.
+- *(★ the coalition's openness map = the inverse of its moat map)* Meta opens Llama (moat = the graph, closed). NVDA signs the letter
+  (moat = CUDA/silicon, closed). Musk opens X plumbing (keeps Grok weights). The state advocates openness and forks into classified
+  darkness, opening nothing. "Commoditize your complement" wearing the commons' halo: **openness flows precisely where it costs the
+  advocate nothing.**
+- *(the state fork is worse than closed — it's DARK)* Commercial closed has a product/benchmarks/a subpoenable company. A classified
+  fine-tune has no model card, no observability, no confirmable existence — the public commons continuously improves a capability the
+  public cannot see.
+- *(precision on "coup" + counterweight)* Weights are non-rival: the commons isn't SEIZED (Kimi stays downloadable); what's extracted is
+  RECIPROCITY + OBSERVABILITY — a free ride, not a theft. And the valve is open to everyone (Cursor, researchers, Jake). Closed-only
+  doesn't keep the state out either — Feb proved the state coerces the vendor instead; the difference is a vendor CAN refuse, a
+  download can't. **The weekend triptych: (1) closed = a veto exists (Jake's steelman); (2) the state demonstrably wants the veto gone
+  (Feb receipts); (3) open-as-constituted removes the veto while owing nothing back (the valve).** [[compression-thesis]], [[_assumption-filters]]
+  (rhymes with protection→subsidy→arbitrage: a commons built on real ideals, harvested by whoever's structurally exempt from its obligations).
