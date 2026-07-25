@@ -251,3 +251,22 @@ capabilities at HALF THE PRICE, so your usage goes further"; `/effort` levels "u
 - *(falsifiable checkpoints)* (1) repo actually appears ~on time; (2) includes ranking+ads+moderation vs skeleton; (3) still receiving
   commits at 90 days vs one-time dump; (4) named third-party auditor who PUBLISHES; (5) Grok frontier weights open or closed.
   <3 of 5 → grades like 2023. ⚪→🟡 pending delivery; market relevance minimal directly, feeds the open/commoditization narrative wave.
+
+##### 2026-07-25 ~12:54PM PT — ESCALATION: Sacks attacks Anthropic BY NAME ("trying to crush open source AI") — the holdout-pressure campaign, on schedule
+⚠️ CONFLICT DISCLOSED: Anthropic runs the Claude in this vault — this entry analyzed under that flag, symmetric-discount applied to BOTH parties.
+- SAID (David Sacks, Jake paste): Cursor post-trained Composer 2 on Kimi K2.5 + proprietary data = legitimate OSS mechanics; "once it's
+  in the public domain it's not a Chinese model anymore, no data goes back to China"; restricting this = "dagger through the heart of the
+  American open source ecosystem... exactly what Anthropic wants, because they do not want the competition."
+- *(the structural read — predicted 24h early)* Last night's entry: holdouts down to Anthropic+Google, "the remaining information content
+  = the two absences." Today an administration-aligned figure attacks one BY NAME. The political-cover arc completed: carrot (sign, wear
+  the safety face) → ratchet (OpenAI capitulates) → CUDGEL (refusal = enmity to American developers). Narrative-regime consolidation, fast.
+- *(scored symmetrically)* SACKS RIGHT: fork+fine-tune = real OSS mechanics; self-hosted weights phone home to no one; Cursor/Composer-2 =
+  Jake's telecom analogy live (OTT app capturing value on a commoditized model layer). ARGUMENT CHEATS: (1) "public domain = not Chinese
+  anymore" glosses the open-WEIGHT≠open-SOURCE seam — training data/process/alignment NOT public, forks inherit uninspectable bake-ins
+  (the frozen-and-forkable problem, not a China-specific one); (2) we have Sacks' CHARACTERIZATION of Anthropic's position, no primary
+  source/policy text — same evidentiary class as belligerent war framing, log the claim, demand the document; (3) motive-slinging is
+  SYMMETRIC (Anthropic's closed-model interest vs Sacks' VC-portfolio-on-cheap-open-models interest + the "not defending Chinese companies"
+  flag-wrap) → uninformative; only the policy text discriminates.
+- *(market read — direction unambiguous regardless of fairness)* Administration overtly hostile to the closed-frontier position = policy
+  risk UP for the moat camp (Anthropic/Google IPO+pricing story), commoditization consensus STRENGTHENED, government tailwind added to
+  the diffusion trade. Same direction as the whole weekend. [[compression-thesis]], [[_calibration]] (conflict-handling precedent).
