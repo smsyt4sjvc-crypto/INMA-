@@ -291,3 +291,31 @@ capabilities at HALF THE PRICE, so your usage goes further"; `/effort` levels "u
   symbolism (withholding your COPY, not the capability). ⇒ **the compression thesis is no longer only economics: its resolution
   decides whether "the ability to say no" means anything.** The commoditization curve and the governance question are one curve.
   [[compression-thesis]], [[_calibration]].
+
+##### RECEIPTS — the Feb-2026 Anthropic/DoD fallout, sourced (upgrades the prior "as-reported memory" steelman entry)
+(⚠️ conflict flag stands: Anthropic runs this Claude; this history paints Anthropic sympathetically. The two strongest facts below
+are a reported contract term and a COURT record — not framing. Sources per Jake: CAP, Fox Business, Malwarebytes, CBS = cross-spectrum.)
+#### DATA (as-reported, multi-outlet)
+- **Feb 2026: Hegseth ultimatum** — drop usage restrictions, allow Claude for "all lawful military purposes." **Amodei refused** on two
+  red lines: (1) no mass domestic surveillance of US citizens; (2) no fully autonomous lethal weapons without human oversight.
+- **Feb 27: retaliation** — Trump ordered all federal agencies to phase out Anthropic tech over 6 months; Hegseth designated Anthropic a
+  **"supply-chain risk to National Security"** (unprecedented for a US company; barred military contractors from Anthropic business).
+- **Hours later: the OpenAI deal** — OpenAI signed to deploy on DoD CLASSIFIED networks, and per Altman **"the DOD agreed to OpenAI's
+  safety principles, which included SIMILAR PROHIBITIONS on domestic mass surveillance and autonomous weapons."**
+- **Legal: a federal judge ENJOINED "major parts" of the designation** after Anthropic challenged it as unlawful politically-motivated retaliation.
+#### THESIS (interpretation — NOT fact)
+- *(★ THE TELL — the OpenAI-deal asymmetry)* DoD accepted from OpenAI the same class of restrictions it ultimatum'd Anthropic over →
+  **the restrictions weren't the offense; the REFUSAL was.** The fight = compliance-posture, not capability access. (Hedge: "similar
+  prohibitions" may be softer in enforcement — summaries, not contracts.)
+- *(neutral referee)* The injunction = a judge finding the retaliation claim likely enough to preliminarily block the government —
+  the strongest single fact, court-record class.
+- *(⚠️ CORRECTION to my arc — the cudgel came FIRST)* I ordered it carrot→ratchet→cudgel with Sacks as the cudgel. Wrong: the legal
+  cudgel was FEBRUARY, and it LOST in court. This week (letter → flag-framing → OpenAI signature → named Sacks attack) = the SECOND
+  campaign, run through narrative because the legal instrument was blocked. Can't ban the company → brand it the enemy of American
+  developers. OpenAI's letter signature = continuity of its Feb-27 alignment, not fresh capitulation.
+- *(the cynical corollary GRADUATES: hypothesis → revealed preference)* Feb proves the administration demanded unrestricted military
+  use, was refused, and retaliated. **Open weights achieve by architecture what the ultimatum failed to achieve by coercion — no vendor
+  left to refuse.** No longer a maybe-motive; a demonstrated objective pursuing a new mechanism.
+- *(market)* One of two moat holdouts is in open legal war with its own government (partially-enjoined ban, hostile czar, pushed-out
+  IPO) → its holdout = existential legal posture, not just commercial conviction. **Google = the lone politically-unencumbered holdout →
+  Google's choice is now the cleaner forward signal.** [[compression-thesis]], [[_calibration]].
