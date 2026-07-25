@@ -738,3 +738,23 @@ Jake flagged it from the raw chunks (without Claude's replies in between): GS Pr
   necessarily a lie, a self-interested party rounding a coin-flip up. The vol-forced-deleveraging mechanic IS a real "purge" argument.
 - *(net)* Believe the data (move is historically violent — true + important); discount the branch-pick ("healthy reset/buy the dip").
   Data says "this is ENORMOUS," not "this is UP." The branch is picked by next week's capex fundamentals, NOT GS's framing.
+
+### 2026-07-24 ~11:25PM PT — BCA "Cash on the Sidelines at Record Low" chart (Jake: "M2 record high, cash record low — where's the cash?") — the DENOMINATOR, third catch this week
+Source: BCA Research Chart 9 (Jake paste): US aggregate investable funds (MMFs + time/savings + checkable deposits, households +
+investment orgs) as a % of US equity market cap (Wilshire 5000) — record low ~25%, vs ~100-160% in the 1980s; 2000 and ~2007 lows circled.
+#### THESIS (interpretation — NOT fact)
+- *(the answer — the cash went NOWHERE; the denominator exploded)* M2/deposits are at RECORD HIGHS in absolute dollars. The ratio is
+  at a record low because EQUITY MARKET CAP grew faster than the money stock. A ~$20T+ numerator over a ~$60T+ denominator. Third
+  denominator-trap catch of the week (jobless-claims compressed denominator; insider-selling dollars; now cash/market-cap). The genre:
+  **the metric measures the RATIO, not the thing its name claims.**
+- *(the deeper fallacy — "sidelines" cash can't come in, in aggregate)* Buying a stock doesn't move cash INTO the market — the buyer's
+  cash becomes the SELLER's cash. Every deposit dollar is held by someone at all times regardless of prices. Aggregate cash is a hot
+  potato, not fuel; only PRICES move. "Low sidelines cash = no fuel left" is mechanically incoherent as a liquidity claim.
+- *(what the chart actually is — valuation in a liquidity costume)* Cash/market-cap ≈ cousin of the Buffett indicator (mktcap/GDP).
+  Record low = equities historically EXPENSIVE relative to the money stock — real information, and the 2000/2007 circles are real tops.
+  BUT: WARNING-vs-TRIGGER — a STATE that flashed "low" through entire multi-year melt-ups; hindsight-circled tops = the classic
+  unfalsifiable-timing presentation. Odds-shader, never a top-caller.
+- *(the debasement read — the third interpretation)* In the run-hot regime (assets inflate faster than money; buybacks shrink share
+  count; equities as the debasement hedge), this ratio falling is the REGIME WORKING, not an anomaly awaiting mean-reversion.
+  The chart may be [[new-economy-regime]] in one line. Net: legitimate expensive-market datapoint; fake scarce-liquidity datapoint.
+  [[bull-bear-ledger]] (valuation-state column), [[detachment-bid]], [[consumption-vs-investment-crux]] (who HOLDS the record deposits = the K-shape).
