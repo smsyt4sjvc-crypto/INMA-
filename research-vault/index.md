@@ -94,7 +94,11 @@ Edge/premium: `vol_risk_premium.ipynb`, `vol_risk_premium_decay.ipynb`, `passive
 `median_line_dip_study.ipynb` (straight LAD/median trend vs SMA/%-off-high/rolling-median as a dip trigger),
 `median_fan_drawdown.ipynb` (10/5/2y median-line fan; drawdown-depth ruler + acceleration),
 `sector_brain.ipynb` (sectors as a firing correlation network; animation + running record for rotation/stress),
-`financial_gravity.ipynb` (tests 'SPX / Fed balance sheet is flat since 2008' — FRED + yfinance, QE vs QT split).
+`financial_gravity.ipynb` (tests 'SPX / Fed balance sheet is flat since 2008' — FRED + yfinance, QE vs QT split),
+`sec_hyperscaler_scanner.ipynb` (pulls real SEC EDGAR XBRL + full-text search, no key/token — hyperscaler
+earnings-quality dashboard [depreciation-schedule test, off-B/S purchase commitments, unrealized-equity-gain
+catcher, FCF proxy] + secondaries fundamentals [MU/AMD/INTC/AVGO/NVDA/TSM] + ad-hoc keyword search across
+filings — the Schedule-D-style "find the receipt" tool, operationalizes [[ai-financing-fragility]]).
 Screens/scanners: `insider_trading_scanner.ipynb`, `vault_headline_scanner.ipynb`, `mean_reversion_screener.ipynb`,
 `spy_weekly_poc_scan.ipynb`, `power_equipment_screen.ipynb`, `sp500_health_screen.py`, `cluster_hunter.ipynb`,
 `ignition_filter.py`, `runner_anatomy.py`, `follow_the_money.ipynb`, `structural_pulls.py`, `flow_trackers.py`,
