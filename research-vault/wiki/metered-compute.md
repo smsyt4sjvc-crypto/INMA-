@@ -234,3 +234,20 @@ capabilities at HALF THE PRICE, so your usage goes further"; `/effort` levels "u
   whether either signs (full capitulation of the moat thesis) or holds (the last discriminating datapoint).
 - *(terminology, again)* It's an open-WEIGHTS letter, not open-source — the weights≠source seam (frozen-and-forkable, no patch-propagate)
   logged 7/24 still applies to the safety argument regardless of who signs.
+
+##### 2026-07-25 ~5:41AM PT — Musk: "every line of code touching the X system will be open source and third-party audited" next month — ANNOUNCEMENT, graded against the 2023 precedent
+- SAID (Musk on X, Jake paste): "Next month, every line of code touching the X system will be open source and third-party audited.
+  Only total transparency deserves trust."
+- *(discipline — words with a Musk date)* Announcement, not action; "next month" from this account has a documented slippage record.
+  **Direct precedent: X "open-sourced the algorithm" March 2023** — partial sanitized dump (no trust-and-safety, no ads), repo stale
+  within months, never matched production. Base rate for THIS promise: partial, late, quietly abandoned.
+- *(the literal claim is unkeepable as stated)* A live platform can't open everything: spam/fraud defenses (attacker playbook), ad
+  auction (revenue secrets), third-party licensed code. Watch what "touching the X system" gets DEFINED DOWN to at delivery.
+- *(★ the tell — what's absent)* Promises the PLATFORM's code; says nothing about **GROK's frontier WEIGHTS** (X sits inside the xAI
+  complex). Platform code is commoditized; the model is the value. Opening the cheap layer while the crown jewels stay closed = claim
+  the transparency mantle without opening anything that prices — the exact maneuver the open-weight letter's framing enables.
+- *(timing)* Same weekend as the letter blitz (Jensen/Satya/OpenAI-signing) + SPCX bonds at ATLs + "empire collapsing" narrative
+  trending → a trust-flag planted during a credit drawdown = PR instrument, whatever else it is.
+- *(falsifiable checkpoints)* (1) repo actually appears ~on time; (2) includes ranking+ads+moderation vs skeleton; (3) still receiving
+  commits at 90 days vs one-time dump; (4) named third-party auditor who PUBLISHES; (5) Grok frontier weights open or closed.
+  <3 of 5 → grades like 2023. ⚪→🟡 pending delivery; market relevance minimal directly, feeds the open/commoditization narrative wave.
