@@ -70,6 +70,20 @@ Related: [[measure-tool-product]] · [[architecture]] · [[state]]
     ~25–28% cut from the $34,670 Hardie primed B&B — material-driven (~$8.5k
     siding), still needs field paint, shorter warranties, different style.
 
+- [2026-07-22] **VALUE-TIER PRICING RULE (general, reusable).** A single
+  cheaper-plank swap does NOT cut ~20% — the siding plank is only ~1/5 of the
+  installed price (material ≈ 40–45% of job; plank ≈ half of material). So:
+  - Hardie lap → Simplank, same style/finish = only **~5–7% off total**.
+  - To hit ~20% you STACK downgrade steps, each ≈ **5–10% of installed**:
+    ColorPlus→Primed ~5–8% (but buyer then pays a painter — not a real save,
+    just moved) · Hardie→Simplank ~5% · **B&B→lap ~10–15%** (battens gone,
+    material AND labor — the biggest single lever, changes the look).
+  - Bauer's ~25% = primed B&B → primed Simplank LAP (batten drop did most of it),
+    which is why it doesn't generalize to lap-only jobs.
+  - Big levers = finish tier (ColorPlus vs primed), style (B&B vs lap), and
+    labor/margin. Plank price is the SMALL lever. On an already-lap job, a real
+    20% cut has to come mostly from labor/margin, not Simplank.
+
 ## IDEAS & DIRECTION
 - [2026-07-22] Teach these as measure-tool presets/library entries (batt count
   from SF, per-sq caulk) so the app does this math on future B&B jobs.
