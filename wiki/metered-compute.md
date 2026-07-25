@@ -414,3 +414,57 @@ are a reported contract term and a COURT record — not framing. Sources per Jak
 - *(reframe planted — frontier as CAPITAL EQUIPMENT)* If frontier models stop being products and become the mother-model you distill
   cheap variants FROM, the frontier = capex, not revenue — and capital equipment gets DEPRECIATED → walks straight back into the
   depreciation-time-bomb logic ([[ai-financing-fragility]] 7/24). Same bomb, new fuse. [[compression-thesis]].
+
+##### ⚠️ AMENDED 2026-07-25 ~3:05pm PT — "HALF" IS THE MARKETING COORDINATE, NOT THE MATH; the below-half tripwire ALREADY FIRED in per-task units
+*(Source: Jake's offloaded research digest, pasted 7/25 — vendor launch claims [OpenAI, Anthropic, DeepSeek — ALL self-graded ad
+copy] + ONE independent datum: Barron's/Artificial Analysis task cost. Conflict note: this analysis is written by a Claude model —
+Anthropic-pricing reads scored with that disclosed, same symmetry rule as the Sacks entry.)*
+
+## DATA (observed — per the digest; vendor-claimed unless marked independent)
+- **List prices per 1M tokens:** Fable 5 $10/$50 · Opus 5 $5/$25 (unchanged from Opus 4.8) · GPT-5.6 Sol $5/$30 · GPT-5.6 Terra
+  $2.50/$15 · GPT-5.6 Luna $1/$6 · GPT-5.5 $5/$30 · **DeepSeek V4 Pro $0.435/$0.87 · V4 Flash $0.14/$0.28** (open weights).
+- **The "half" scatter:** Sol input = exactly half of Fable, output = 40% cheaper; **independent (Barron's/AA): Sol $1.04 vs Fable
+  $2.75 per task = 62% less.** Opus 5 = exact half on tokens; Anthropic's OWN pitch = OSWorld above Fable at "just over ONE-THIRD the
+  cost"; OpenAI's own pitch = Sol beats Fable at medium reasoning at "roughly ONE-QUARTER the cost"; Luna = 80% below GPT-5.5 tokens,
+  "beats Opus 4.8 at ~one-quarter the cost."
+- **Anthropic price history:** Claude 3 Opus / Opus 4 = $15/$75 (2024-2025) → Opus 4.5 = $5/$25 (Nov 2025, −67%) → Fable 5 premium
+  tier $10/$50 (Jun 9 2026) → **45 days later** Opus 5 claims near-Fable results at exactly half.
+- **Access-reversal receipts (dated):** Jun 30 = included-Fable access to end Jul 7 → Jul 7 extended to Jul 12 → Jul 12 extended to
+  Jul 19 → **Jul 20 = permanently up to 50% Fable on Max/premium seats.** GPT-5.6 launched **Jul 9** — inside the reversal window.
+- **Altman, launch pitch:** Sol "54% more token-efficient on agentic coding"; "enterprises are now intensely focused on AI spend and ROI."
+- **Scaling continues, efficiency is the new axis:** Qwen3 pretraining ~18T→36T tokens; Qwen MoE ≈ dense performance at ~10% activated
+  params; DeepSeek V4 = 1.6T total / 49B active (Pro). DeepSeek precedent: V3.2 = 50%+ API price cut at claimed-equal performance.
+
+## THESIS (interpretation — NOT fact)
+- *(⚠️ the correction)* Last night's entry treated "half" as a CONVERGED PRICE COORDINATE (Schelling-shelf candidate). The actual
+  numbers scatter: 40% / 50% / 62% / ~67% / ~75% / 80% depending on tier and unit. **"Half" is the converged MARKETING coordinate —
+  the word both labs chose — not a converged price.** A shelf that exists only in the ad copy can't stabilize margins.
+- *(★ the tripwire, re-registered in TWO units — and one already FIRED)* The registered tripwire was "first pitch BELOW half."
+  Split it: **(a) LIST-PRICE below half vs the anchor — UNFIRED** (Opus and Sol sit at half-ish on tokens; the posted ladder holds the
+  shelf). **(b) PER-TASK below half — ALREADY FIRED, by BOTH labs, in their own launch copy** (one-third, one-quarter, 62%
+  independent). The Bertrand descent is CONFIRMED in the unit the labs themselves are steering buyers toward; the token list price is
+  the lagging indicator. Watch (a) as the visible shelf-break; treat (b) as the true state.
+- *(the unit-of-account shift = the denominator move)* Per-token → per-completed-task is how you cut price without printing a price
+  cut: hold the list, claim fewer tokens/retries/turns per job. It's ALSO the economically honest unit (enterprises buy outcomes) —
+  but the DENOMINATOR-TRAP discipline applies: the seller picked the denominator, task suites are cherry-pickable, and every launch
+  now reads "half the cost, half the tokens, one-third the time" because that's the axis they can still win. Same genre as
+  cash-to-market-cap: ask who chose the ratio.
+- *(the floor is 96-99% down, not 50%)* DeepSeek V4 prices Fable-class-adjacent tokens at 1-4% of Fable. The premium duopoly's "half"
+  shelf is suspended ~25-70× above the open-weight floor — a Schelling shelf can hold between two firms; it cannot hold against a
+  third seller publishing weights at marginal cost. Barbell adoption (cheap model for the routine 90%, frontier for the hard tail)
+  erodes it from below regardless of what the duopoly agrees on. → the shelf-vs-step fork leans STEP; grade via tripwire (a).
+- *(frontier depreciation now has a NUMBER)* Fable held sole possession of its price point for **45 days** before its own sibling
+  claimed near-parity at half. That's the measured pricing-power half-life of a frontier training run in mid-2026 — the
+  capital-equipment reframe quantified. If $205B of capex buys assets whose premium halves in ~6 weeks, the depreciation schedules in
+  [[ai-financing-fragility]] (7/24) aren't conservative-vs-aggressive; they're all too slow. Same bomb, now with a fuse length.
+- *(amendment to "surrendered the capability axis")* Sharper phrasing than mine: capability wasn't abandoned — **frontier-adjacent
+  capability became TABLE STAKES**; the battlefield moved to intelligence per dollar/second/token. Tokenmaxxing didn't stop (Qwen
+  doubled its corpus); what died was brute-scale as a PRICING MOAT, at the moment open-weight architecture/distillation reproduced
+  most of the capability for pennies. China didn't make tokens valueless; it destroyed the presumption that frontier-adjacent tokens
+  command monopoly pricing.
+- *(defender classification — now with dated receipts)* The weekly-extensions correction above was built from Jake's inbox; the digest
+  dates the sequence and adds the overlap: GPT-5.6 lands Jul 9, INSIDE the extension window, permanent 50%-Fable follows Jul 20.
+  Doesn't prove causation (digest's own caveat, kept) — but the retreat-under-fire read now has a timeline, not just a posture.
+- *(the seller said the quiet part)* "Enterprises are now intensely focused on AI spend and ROI" — the payer-scrutiny that
+  [[ai-financing-fragility]] tracks as a THREAT is now in the seller's own sales pitch. When the vendor leads with your ROI anxiety,
+  the vendor has met it in every meeting. [[compression-thesis]] input-deflation leg: confirmed at the model layer, in list prices.
