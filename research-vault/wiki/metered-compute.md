@@ -219,3 +219,18 @@ capabilities at HALF THE PRICE, so your usage goes further"; `/effort` levels "u
   you make it up in volume." Confession (Karp/Dowd) vs conviction (Jake) — the same debate, printed on the upgrade email.
 - *(actionable — Jake as the n=1 experiment)* Watch own behavior: did half-price Opus 5 drive GENUINELY >2× usage (Jevons winning in a power-user) or
   just "a bit more" (deflation-outruns-volume risk felt personally)? Live read on the exact razor the $205B question rides on. [[compression-thesis]] (telecom), [[ai-financing-fragility]].
+
+##### UPDATE — the signatory list GREW, and OPENAI SIGNED (Jake paste of the current signatory page)
+- DATA: current signatory block of the open-weight letter now adds (vs the 7/24 roster logged above): **OPENAI**, Cohere, Cisco,
+  GitHub, Palo Alto Networks, Fireworks AI, DoorDash. **Remaining closed-frontier holdouts: ANTHROPIC + GOOGLE only.**
+- *(the flagship defection)* Friday's fault-line read keyed on OpenAI/Anthropic/Google's absence = the moat camp. OpenAI signing the
+  document that argues most tasks don't need the frontier = the moat camp's anchor tenant endorsing the commoditization thesis.
+- *(Jake's political-cover mechanism, validated one level UP)* The "back the inevitable while wearing a safety/patriotism face" trap
+  now works on the LABS, not just politicians: once framed as "American AI Leadership," dissent = opposing America — unpayable for an
+  IPO-pending OpenAI. (Also cheap to sign: OpenAI ships some open-weight models alongside the closed frontier.)
+- *(⚠️ the counter-signal — signal dies at saturation)* 25 names = a coalition with an informative fault line; 32 including the target
+  = approaching a loyalty oath. Per the tattle-teller inversion (7/24): when everyone's in the trade, the signal dies. The remaining
+  information content = the TWO absences. **Anthropic + Google are now the only companies formally betting the moat matters** — watch
+  whether either signs (full capitulation of the moat thesis) or holds (the last discriminating datapoint).
+- *(terminology, again)* It's an open-WEIGHTS letter, not open-source — the weights≠source seam (frozen-and-forkable, no patch-propagate)
+  logged 7/24 still applies to the safety argument regardless of who signs.
