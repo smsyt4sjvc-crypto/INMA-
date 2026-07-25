@@ -93,3 +93,13 @@ crossing of it.* Watch items: Kuwait-facility ID · Kharg/Saudi-terminal strike 
   a tactical gesture can still happen, but a DURABLE de-escalation is less likely (a ceasefire not solving the Gulf Hormuz problem won't hold). A wider/messier/
   longer war FEEDS the back-half of the call (eventual VIX pop) even as it cuts the clean relief-rally front-half.
 - **Marker: export-terminal strike UNFIRED; conditional odds UP (Gulf-entry retaliation + regime-change + Red Sea kinetic). Triggers unchanged; the tail is fatter.**
+
+## UPDATE — 2026-07-25 ~11:01am PT (Sat) — ★ THE OFF-RAMP FIRED (in-window): strike stand-down + Oman reopening talks
+- **Trump ordered stand-down of approved Fri-night strikes (Axios via Kobeissi, as-reported); Oman-mediated talks on REOPENING
+  Hormuz resumed hours before.** = Jake's 7/23 checkpoint #1 HIT, in-window, by ACTION not speech. Tell (c) moving in REVERSE.
+- **Referees queued:** (1) official confirmation; (2) **Sunday 3pm PT crude open** — Brent left at ~$98, premium half-out; real
+  de-escalation bleeds more (JPM duration math in reverse: −$7-8/bbl per month un-disrupted); (3) does IRAN pocket the pause or
+  strike during it (their move confirms or breaks the stand-down); (4) Monday equities = the TUG-OF-WAR (relief vs capex-financing
+  stress into META/MSFT/AMZN week, on the GS-coiled unhedged tape) = the exact preconditions of Jake's VIX-pop leg (checkpoint #4).
+- ⚠️ Stand-down is REVERSIBLE (June-2019 precedent) + reported-not-official + talks≠deal. Off-ramp FIRED ≠ war OVER. Uncap tell
+  (export-terminal strike) now LESS likely near-term but nonzero — a collapsed talk round re-loads everything at higher tension.
