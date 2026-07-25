@@ -270,3 +270,24 @@ capabilities at HALF THE PRICE, so your usage goes further"; `/effort` levels "u
 - *(market read — direction unambiguous regardless of fairness)* Administration overtly hostile to the closed-frontier position = policy
   risk UP for the moat camp (Anthropic/Google IPO+pricing story), commoditization consensus STRENGTHENED, government tailwind added to
   the diffusion trade. Same direction as the whole weekend. [[compression-thesis]], [[_calibration]] (conflict-handling precedent).
+
+##### 2026-07-25 ~1:07PM PT — JAKE'S STEELMAN of the closed position: closed weights = THE ABILITY TO REFUSE (incl. refusing your own government)
+(⚠️ conflict still flagged: Anthropic runs this Claude. Jake supplied the steelman, not me — noted for the record.)
+- *(Jake's mechanism, as-reported precedent)* Anthropic previously declined DoD use for autonomous weapons (Jake-reported, "several
+  months ago" — not previously in vault; logged as-reported). That refusal was POSSIBLE only because the weights are closed — a usage
+  policy is enforceable only with access control. **Open weights dissolve the vendor as a checkpoint between the state and the
+  capability**: nothing left to decline, no ToS survives the download. "Government gets the same access as anybody else" = precisely
+  the safety concern from the closed side — including vs one's OWN government.
+- *(the honest shape of the fight)* Both camps make SAFETY arguments about where misuse-risk lives: OPEN camp = concentrated control is
+  the danger (few companies as single points of failure/abuse — the letter); CLOSED camp = distributed access is the danger (NOBODY can
+  refuse ANYTHING to ANYONE, irreversibly). A real values fork. Motive-slinging is sterile because for each side the stated principle
+  and the commercial interest are THE SAME OBJECT (Anthropic: safety lever = the moat = frontier-weight control; Sacks: diffusion
+  freedom = portfolio returns). Principles that pay their holders are untestable from outside.
+- *(cynical corollary — logged as HYPOTHESIS)* An administration has its OWN interest in the open regime unrelated to developer
+  freedom: open weights mean no lab can ever tell the government no again. "American AI leadership" as wrapper, dissolution of vendor
+  vetoes as payload. Intent unprovable; the incentive exists; the vault logs incentives.
+- *(the limit — the steelman has a HALF-LIFE)* The refusal lever only has value while the closed frontier is meaningfully AHEAD:
+  refuse DoD → DoD fine-tunes Kimi (= what MSFT did commercially with Copilot). As open models close the gap, the veto decays toward
+  symbolism (withholding your COPY, not the capability). ⇒ **the compression thesis is no longer only economics: its resolution
+  decides whether "the ability to say no" means anything.** The commoditization curve and the governance question are one curve.
+  [[compression-thesis]], [[_calibration]].
