@@ -377,3 +377,22 @@ are a reported contract term and a COURT record — not framing. Sources per Jak
   is decelerating — and the $205B capex is a bet on TRAINING the next frontier, so a slowing race breaks the sellers' acceleration
   story at the ROOT (not "revenue inflects before spending peaks" but the reason for the spending fading). **Frontier cadence = the
   upstream variable the whole AI-capex complex sits on.** Register + grade as releases land. [[ai-capex-cycle]], [[compression-thesis]].
+
+##### ⚠️ CORRECTION (Jake's addendum) — the "leans rationing" discriminator BREAKS: frontier access was being EXTENDED ~weekly in the same window
+- *(Jake's timeline, from his own emails — in-vault data)* The same 3 weeks between Fable 5's launch and the Opus-5 release: 7/7 free
+  Fable promo EXTENDED; 7/20 Fable folded into Max as STANDARD (no extra charge, up to 50% of limits); 7/24 half-price variant made
+  DEFAULT. **Three effective price cuts in three weeks, on BOTH tiers.**
+- *(the correction)* I'd discriminated demand-softness vs shortage-rationing by "frontier premium HELD while mid-tier cut = rationing."
+  Jake's addendum breaks that: **you don't repeatedly extend free access to the thing you're rationing** — scarce goods get withdrawn
+  behind meters, not handed out on a weekly-extension cadence. Rationing read WEAKENED; what stands:
+- *(★ the PRICE UMBRELLA collapsed — the emails are the umbrella folding in real time)* Same 3 weeks: Kimi K3 frontier-adjacent at a
+  fraction of the price, MSFT picks it for Copilot, the open letter drops. Hold the frontier behind a strict meter → users leak to the
+  near-free substitute. Response = fold frontier into the sub (defend habit, eat serving cost) + rush the half-price variant (defend
+  the volume tier) = a **TWO-FRONT MARGIN RETREAT**. Giving away the most-expensive-to-serve model repeatedly ≠ harvest; = defense —
+  spending gross margin to buy usage/lock-in before the floor drops further.
+- *(the classification test — cuts through motive-ambiguity)* Promo-extension marketing, post-Feb-ban land-grab, IPO user curves —
+  ALL the candidate motives point the SAME direction (buy usage now), NONE toward harvest-margin-now. **Secure-moat franchises HARVEST;
+  franchises under price attack DEFEND. The revealed 3-week posture classifies the closed frontier as the DEFENDER** — Dowd's
+  "token pricing is the confession," read out of Jake's inbox a week before Dowd wrote it.
+- *(closes the n=1 loop)* Jake = the subject of all three emails, with treatment intensity RISING weekly — the aggressiveness is itself
+  data: the Jevons bet doesn't just exist, it apparently NEEDS to pay, fast. [[compression-thesis]], [[ai-financing-fragility]].
