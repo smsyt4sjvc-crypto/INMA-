@@ -468,3 +468,25 @@ Anthropic-pricing reads scored with that disclosed, same symmetry rule as the Sa
 - *(the seller said the quiet part)* "Enterprises are now intensely focused on AI spend and ROI" — the payer-scrutiny that
   [[ai-financing-fragility]] tracks as a THREAT is now in the seller's own sales pitch. When the vendor leads with your ROI anxiety,
   the vendor has met it in every meeting. [[compression-thesis]] input-deflation leg: confirmed at the model layer, in list prices.
+
+##### PROMPT-COMPILER LAYER (Jake's product idea, 2026-07-25 ~3:02pm PT) — cheap model compiles precise prompts FOR the frontier model; the incentive just flipped to make it inevitable
+- *(the idea, Jake's)* Expensive models should ship with a built-in prompt assistant IN THE CONSUMER APP: a cheap model, trained
+  mostly on internal knowledge of the frontier sibling, updated with each release — you explain the goal in plain words, it compiles
+  the precise frontier-tier prompt, you paste it into the project space.
+- *(state of the world)* Exists in fragments at the DEVELOPER layer (Anthropic Console prompt improver/generator; OpenAI playground
+  prompt optimization; meta-prompting as standard practice) and INVISIBLY at the consumer layer (GPT-5-era auto-routing; silent
+  prompt-rewriting for image models). The visible, consumer-app, explain→compile→paste version: absent.
+- *(★ the economics — why NOW; analysis)* Under METERED API pricing, your wasted frontier tokens are the lab's REVENUE — shipping a
+  waste-reducer cannibalizes the meter. Under SUBSCRIPTION pricing (where the market just moved — Fable folded into Max 7/20,
+  flat-rate with caps), wasted frontier tokens are the lab's COST and the user's burned allowance — both sides now want compression.
+  **The pricing migration this month flips the prompt-compiler from margin-cannibalizer to margin-defender.** Same telecom rhyme:
+  unlimited plans made carriers efficiency-obsessed overnight.
+- *(fits the per-task pivot)* Fewer retries/turns/tokens per completed job = exactly the denominator both labs now advertise in
+  ("half the tokens, one-third the time"). A cheap-model-compiles-for-expensive-model layer is the barbell in miniature, inside one
+  vendor's app — and the vendor is the ONLY party holding the training/eval exhaust that knows the frontier sibling's quirks, so the
+  compiler is a near-free distillate of proprietary knowledge (small moat, cheap to ship).
+- *(counter/steelman)* The endgame is probably INVISIBLE — routing + behind-the-scenes rewriting + models asking clarifying
+  questions — making visible copy/paste compilation a transitional UI. Jake's version has one virtue the invisible kind lacks:
+  the user SEES and controls what's sent (and learns the craft). **Watch-item: a visible prompt-compiler appearing in a consumer
+  frontier app = a confirming tell that subscription-margin pressure is binding** (labs ship it when waste hurts THEM).
+  [[compression-thesis]] (telecom), the per-task denominator entry above.
