@@ -79,3 +79,16 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
   Two-sided on oil: Gulf incentive = OPEN Hormuz (bearish, pro-flow) BUT the path raises the uncap tail (more Gulf strikes → Iran retaliates on GULF EXPORT
   infra = Abqaiq uncap; Iran already hit Emirati tankers + Kuwaiti infra). Regime-change talk = corners Iran → cornered-regime-uncaps-maximally. Red Sea = tell (c)
   ADVANCING (threat 7/18 → kinetic Houthi blockade this week). Export-strike UNFIRED but conditional odds UP. See [[war-board]] update + [[demand-destruction]].
+
+### 2026-07-25 — Trump ORDERS STAND-DOWN of approved Friday-night strikes; Oman talks on REOPENING HORMUZ resumed (Axios via Kobeissi)
+- DATA (as-reported ~11am PT Sat; Axios sourcing, not yet administration-confirmed): Trump ordered the US military NOT to carry
+  out planned Friday-night strikes despite having previously approved them — hours after Oman-mediated talks over REOPENING the
+  Strait of Hormuz reportedly resumed.
+- 🔴 `[MARKER-MOVED]` (pending Sunday crude open as the price referee) — the OFF-RAMP FIRED, in-window: **grades CHECKPOINT #1 of
+  Jake's 7/23 de-escalation call (registered 7/23, window Fri-close→Mon-open) as a HIT** — and exceeds it (a stand-down of approved
+  strikes = ACTION, stronger than the registered "speech/announcement"; + Oman channel = tell (c) chokepoint moving in REVERSE,
+  toward reopening). Validates in sequence: the predicate/strike-then-deal frame, the gas-price forcing function, the IRNA
+  terms-redacted read (rejection = leverage, not final). ⚠️ Discipline: Axios-reported not official; a canceled strike is
+  REVERSIBLE (June-2019 precedent: called off "10 minutes out," escalation later resumed); talks resumed ≠ deal. Checkpoints
+  #2-4 still open: does oil off-ramp at the Sun 3pm PT crude open; does equity relief-or-sell-capex; does the tug-of-war
+  (relief vs capex-financing stress into META/MSFT/AMZN week) resolve in the VIX pop.
