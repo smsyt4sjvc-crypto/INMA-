@@ -1084,3 +1084,11 @@ Source: sec_hyperscaler_scanner.ipynb v1 full run (Jake, Colab) + Claude's bug-f
   EFFECT is the same as the footnote-hollowness thesis: **META's leverage lives where the standardized tags can't see.** For META,
   the dashboard is blind by construction; the full-text search cell (or reading the 10-Q commitments note directly) is the tool.
   Consistent with the week's theme: fortress in the structured data, story in the footnotes.
+
+##### 2026-07-24 ~11:08PM PT — v2 run confirmed clean (Jake, Colab) + one residual: ORCL row now suspect in the OTHER direction
+- DATA (Jake's v2 run): AMZN corrected figures confirmed live (capex 176.8 / FCF proxy **−72.7**, auto-flag fired); NVDA sane
+  (326.5 / 74.9%); all 7 flags correct; Drive artifacts saving. TSM cosmetic: IFRS note prints in the detail cell, summary shows NaN.
+- ⚠️ **ORCL residual:** max-across-candidates revenue logic OVERSHOT — revenue jumped 68.8→**169.8B** with gross margin collapsing to
+  **12.9%** (implausibly low for a software company; the >95%/<0 guard doesn't catch low-side artifacts). Symmetric lesson to the AMZN
+  bug: first-match undershoots, max-pick can overshoot. **Treat the ORCL dashboard row as suspect in both versions** — it's periphery/
+  context; Oracle's real instrument in the vault is the credit tape (CDS ~205, the BBB−→junk cliff), not this dashboard.
