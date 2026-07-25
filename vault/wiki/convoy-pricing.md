@@ -53,7 +53,15 @@ Related: [[measure-tool-product]] · [[architecture]] · [[state]]
   "call for current quote", so ~6 mo old; reconfirm before firming):
   | Material | $/pc | pcs/sq | $/sq |
   |---|---|---|---|
-  | Simplank (fiber-cement lap, budget) | $8.50 | 14 | **$119.00** |
+  | Cemplank (economical fiber-cement lap) | $8.50 | 14 | **$119.00** |
+  > 🔄 NAME/PRODUCT correction [2026-07-22] (Jake): the Convoy note's
+  > "Simplank" = **Cemplank**. It's an **economical fiber-cement lap** (cement,
+  > sand, cellulose fiber; mimics wood; fire & pest resistant) — a value line,
+  > NOT an off-brand knockoff. Frame to homeowners as real fiber cement / value
+  > tier, same core material as premium Hardie. ⚠ Verify CURRENT manufacturer
+  > with Convoy before writing "made by James Hardie": the Cemplank/Cemboard
+  > lines were sold by Hardie to Plycem/Allura (~2012), so it may be a licensee
+  > now. Sell the material (fiber cement, fire/pest resistant), not the badge.
   | LP lap (SmartSide — ENGINEERED WOOD) | $13.25 | 10 | $132.50 |
   | Hardie lap, primed | $12.35 | 14 | $172.90 |
   | Hardie ColorPlus lap (Statement) | $16.75 | 14 | $234.50 |
