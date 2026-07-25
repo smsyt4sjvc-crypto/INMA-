@@ -62,6 +62,13 @@ Related: [[measure-tool-product]] · [[architecture]] · [[state]]
   > with Convoy before writing "made by James Hardie": the Cemplank/Cemboard
   > lines were sold by Hardie to Plycem/Allura (~2012), so it may be a licensee
   > now. Sell the material (fiber cement, fire/pest resistant), not the badge.
+  > ✅ CONFIRMED [2026-07-22]: Cemplank **IS a James Hardie product** (Home Depot
+  > lists it under the JH brand; Elite Home Exteriors NW page). The Plycem/Allura
+  > caveat above was outdated — Jake was right. Facts: genuine JH fiber cement,
+  > **pre-primed only** (paint after install; no ColorPlus option), **25-yr
+  > limited transferable product warranty** (10 yr full, then prorated) vs
+  > HardiePlank 30-yr non-prorated. Fewer style/finish options = the value tier.
+  > Safe to write "made by James Hardie" on customer docs.
   | LP lap (SmartSide — ENGINEERED WOOD) | $13.25 | 10 | $132.50 |
   | Hardie lap, primed | $12.35 | 14 | $172.90 |
   | Hardie ColorPlus lap (Statement) | $16.75 | 14 | $234.50 |
