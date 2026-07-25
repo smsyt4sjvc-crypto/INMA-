@@ -342,3 +342,22 @@ are a reported contract term and a COURT record — not framing. Sources per Jak
   download can't. **The weekend triptych: (1) closed = a veto exists (Jake's steelman); (2) the state demonstrably wants the veto gone
   (Feb receipts); (3) open-as-constituted removes the veto while owing nothing back (the valve).** [[compression-thesis]], [[_assumption-filters]]
   (rhymes with protection→subsidy→arbitrage: a commons built on real ideals, harvested by whoever's structurally exempt from its obligations).
+
+##### JAKE'S RELEASE-CADENCE CATCH: the first flagship cycle whose HEADLINE is the price-capability RATIO, not the peak
+(Source = Jake's own pasted Anthropic emails (7/7, 7/20, Opus-5 launch) — in-vault primary data. Conflict flag stands.)
+- *(the observation, qualified then sharpened)* Cheap tiers aren't new (Haiku/mini/flash genre; Opus 5 > Opus 4.8 on benchmarks). The
+  INVERSION is in the positioning: the frontier (Fable) folded in as a METERED LUXURY ("draws down faster, save for complex work"),
+  then the NEW release pitched on PRICE-PER-CAPABILITY ("matches many of Fable's capabilities at HALF the price, usage goes further")
+  and installed as the DEFAULT. Prior flagship cycles defaulted users to the MOST capable thing; this one defaults to the CHEAPER
+  thing and rations the frontier. Release script flipped: capability-race → diffusion-race. **When the newest product's pitch is the
+  ratio not the peak, you're pricing like a commodity producer, not a frontier monopolist** — the compression thesis in the closed
+  lab's own cadence; the telecom playbook run BY the lab, pre-emptively.
+- *(two readings, opposite signs — and the pricing structure discriminates)* (1) DEMAND-side/bearish: price cuts + usage encouragement
+  = soft demand (consistent w/ token costs at 3.5mo lows). (2) SUPPLY-side/bullish-shortage (Jake's own metered-compute claim): scarce
+  frontier inference → route volume to the cheap tier = RATIONING by price, freeing frontier capacity. **Test: desperation cuts the
+  frontier's price too; instead Fable's relative premium was HELD (faster draw-down, 50% cap) while only the mid-tier got cheap =
+  segmentation/rationing → leans SHORTAGE, not panic.** Mixed evidence (token-price lows cut the other way); both logged.
+- *(★ the convergence — ties the weekend)* The last HOLDOUT is already running the LETTER'S economics: "right model/right job/right
+  cost, reserve frontier for frontier problems" = the letter's sentence AND what these three emails implement. Actions converged where
+  signatures didn't. **The economic war (tiered diffusion) is already decided — every lab's pricing concedes it. The only live war is
+  governance: whether WEIGHTS release (the veto triptych).** [[compression-thesis]] (telecom), [[ai-financing-fragility]].
