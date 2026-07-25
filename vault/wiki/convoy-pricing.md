@@ -71,6 +71,12 @@ Related: [[measure-tool-product]] · [[architecture]] · [[state]]
     caulk ~$8.75 · (Alderson quote 04/09 has real per-item accessory pricing:
     receptacle/light/hosebib/dryer blocks $12.50–$14, Z-flash $5.65, drip cap
     $6.05/10', OSI H2U $7.20, J-channel $6.06, soffit $26.27, fascia $21.09.)
+  - [2026-07-22] **Margin check (Jake):** taking **20% off a primed B&B price**
+    and building it in Simplank + LP is **margin-POSITIVE**, not just labor-safe.
+    Bauer: 20% off $34,670 = −$6,934, but material drops ~$8,900 (siding + no
+    battens + cheaper LP trim) AND you shed the batten-nailing labor → margin
+    up ~$2k. Material justifies ~25%, so pricing at 20% pads margin & leaves
+    room to 22–23% on aggressive bids.
   - **Bauer "value alternative" (Simplank + LP primed lap):** ~$25–26k, a
     ~25–28% cut from the $34,670 Hardie primed B&B — material-driven (~$8.5k
     siding), still needs field paint, shorter warranties, different style.
