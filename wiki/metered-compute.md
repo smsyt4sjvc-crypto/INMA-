@@ -490,3 +490,8 @@ Anthropic-pricing reads scored with that disclosed, same symmetry rule as the Sa
   the user SEES and controls what's sent (and learns the craft). **Watch-item: a visible prompt-compiler appearing in a consumer
   frontier app = a confirming tell that subscription-margin pressure is binding** (labs ship it when waste hurts THEM).
   [[compression-thesis]] (telecom), the per-task denominator entry above.
+- *(addendum 2026-07-25 ~3:37pm PT — Jake writes the ad copy)* "Get an average of XX more tasks per dollar when using Claude prompt
+  builder." The tagline lands IN the per-task denominator the labs just pivoted to — the feature and the new unit of account are the
+  same move. Under subscription it's an effective price cut that never touches the list price (stretch the capped allowance), and the
+  SAME compression is simultaneously the lab's serving-margin improvement — both sides pocket the spread, which is why it ships.
+  Bonus: "XX more tasks per dollar" is a falsifiable, gradeable marketing claim — rare in this genre.
