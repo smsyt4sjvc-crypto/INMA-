@@ -49,6 +49,27 @@ Related: [[measure-tool-product]] · [[architecture]] · [[state]]
   Bauer job it hid ~$4.7k (white). Corrected per-square panels+batts:
   **$403.63 white · $312.00 primed** (vs shorthand $296.53 / $249.22).
 
+- [2026-07-22] **ALT SIDING / lap options** (Convoy note dated 01/05/2026 —
+  "call for current quote", so ~6 mo old; reconfirm before firming):
+  | Material | $/pc | pcs/sq | $/sq |
+  |---|---|---|---|
+  | Simplank (fiber-cement lap, budget) | $8.50 | 14 | **$119.00** |
+  | LP lap (SmartSide — ENGINEERED WOOD) | $13.25 | 10 | $132.50 |
+  | Hardie lap, primed | $12.35 | 14 | $172.90 |
+  | Hardie ColorPlus lap (Statement) | $16.75 | 14 | $234.50 |
+  Simplank vs Hardie lap = **31% cheaper**. vs Hardie primed **B&B** (~$312/sq
+  incl. battens) = ~62% cheaper, but it's LAP not B&B (different look; plans
+  show B&B) and LP is engineered wood, not fiber cement.
+  - **LP trim 5/4×4 $18.95/pc** ≈ Hardie primed 5/4×3.5 $18.70 — trim swap is a
+    WASH; savings live in the siding, not the trim.
+  - Accessories (same note): Tyvek 9×150' $148.75/roll · Nails $52/box · OSI
+    caulk ~$8.75 · (Alderson quote 04/09 has real per-item accessory pricing:
+    receptacle/light/hosebib/dryer blocks $12.50–$14, Z-flash $5.65, drip cap
+    $6.05/10', OSI H2U $7.20, J-channel $6.06, soffit $26.27, fascia $21.09.)
+  - **Bauer "value alternative" (Simplank + LP primed lap):** ~$25–26k, a
+    ~25–28% cut from the $34,670 Hardie primed B&B — material-driven (~$8.5k
+    siding), still needs field paint, shorter warranties, different style.
+
 ## IDEAS & DIRECTION
 - [2026-07-22] Teach these as measure-tool presets/library entries (batt count
   from SF, per-sq caulk) so the app does this math on future B&B jobs.
