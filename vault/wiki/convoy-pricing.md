@@ -13,7 +13,7 @@ Related: [[measure-tool-product]] · [[architecture]] · [[state]]
   > GRAIN, 12' pcs, 5/4 (actual widths):
   > | Size (actual) | ColorPlus Arctic White | Primed |
   > |---|---|---|
-  > | 5/4×3.5 (nom ×4) | **$20.70** stock | **$18.70** stock |
+  > | 5/4×3.5 (nom ×4) | **$20.70** stock | **$18.70** stock |  ⟵ Hardie trim = **12'** lengths
   > | 5/4×5.5 (nom ×6) | **$32.50** stock | **$29.40** stock |
   > | 5/4×9.25 (nom ×10) | **$82.80 — SPECIAL ORDER, 8-wk lead** | **$49.40** stock |
   > ⚠ Wide ColorPlus (×10) = 8-week lead + ~1.7× primed price — never spec a
@@ -60,8 +60,13 @@ Related: [[measure-tool-product]] · [[architecture]] · [[state]]
   Simplank vs Hardie lap = **31% cheaper**. vs Hardie primed **B&B** (~$312/sq
   incl. battens) = ~62% cheaper, but it's LAP not B&B (different look; plans
   show B&B) and LP is engineered wood, not fiber cement.
-  - **LP trim 5/4×4 $18.95/pc** ≈ Hardie primed 5/4×3.5 $18.70 — trim swap is a
-    WASH; savings live in the siding, not the trim.
+  - ~~LP trim 5/4×4 $18.95 ≈ Hardie primed 5/4×3.5 $18.70 — trim swap is a WASH~~
+    🔄 CORRECTED [2026-07-22] (Jake): compare per LINEAR FOOT, not per stick —
+    **LP trim is 16' lengths, Hardie is only 12'.** LP $18.95/16 = **$1.18/LF**
+    vs Hardie $18.70/12 = **$1.56/LF** → **LP ~24% cheaper per LF**, plus 16'
+    lengths cut butt joints & drop waste on long runs (fascia/frieze/belly/skirt).
+    Real but modest (~$350–400 material on a ~1,000 LF package); siding is still
+    the bigger lever.
   - Accessories (same note): Tyvek 9×150' $148.75/roll · Nails $52/box · OSI
     caulk ~$8.75 · (Alderson quote 04/09 has real per-item accessory pricing:
     receptacle/light/hosebib/dryer blocks $12.50–$14, Z-flash $5.65, drip cap
