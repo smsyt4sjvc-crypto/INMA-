@@ -361,3 +361,19 @@ are a reported contract term and a COURT record — not framing. Sources per Jak
   cost, reserve frontier for frontier problems" = the letter's sentence AND what these three emails implement. Actions converged where
   signatures didn't. **The economic war (tiered diffusion) is already decided — every lab's pricing concedes it. The only live war is
   governance: whether WEIGHTS release (the veto triptych).** [[compression-thesis]] (telecom), [[ai-financing-fragility]].
+
+##### SHARPENED (Jake): the release went DOWN the capability curve — an R&D-ALLOCATION claim, corrected then upgraded to a macro watch-item
+- *(Jake's claim)* Newest release (Opus 5) < previous release (Fable 5) in capability ⇒ the lab's engineering cycles went to
+  ECONOMICS, not capability — the first release cycle to work backwards.
+- *(⚠️ correction — release ORDER ≠ allocation)* Frontier + economic variants are PARALLEL tracks: frontier ships → next frontier
+  trains for months → distills of the just-shipped frontier land in the gap (the GPT-4→turbo→4o pattern). Distillation is cheap vs a
+  frontier run — not where the big compute went. The calendar alone doesn't prove a pivot.
+- *(what SURVIVES)* (1) Speed + prominence abnormal: 3 weeks frontier→half-price variant, variant made DEFAULT — urgency about unit
+  economics is new. (2) **The reference price**: "half price" is calibrated to the OPEN models' floor (Kimi/DeepSeek gravity), not the
+  rival frontier's ceiling — the competitive center of mass moved; and post-Feb-ban Anthropic needs commercial MARGIN (an economic
+  model is cheaper for THEM to serve = margin + freed scarce inference at once; cost discipline = survival economics under federal
+  phase-out). (3) ★ **THE FALSIFIABLE MACRO WATCH-ITEM — FRONTIER-RELEASE CADENCE:** next frontier on historical rhythm ⇒ Jake's claim
+  falsified (parallel tracks). Frontier cadence STRETCHING while economic releases multiply, ACROSS labs ⇒ the capability race itself
+  is decelerating — and the $205B capex is a bet on TRAINING the next frontier, so a slowing race breaks the sellers' acceleration
+  story at the ROOT (not "revenue inflects before spending peaks" but the reason for the spending fading). **Frontier cadence = the
+  upstream variable the whole AI-capex complex sits on.** Register + grade as releases land. [[ai-capex-cycle]], [[compression-thesis]].
