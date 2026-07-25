@@ -396,3 +396,21 @@ are a reported contract term and a COURT record — not framing. Sources per Jak
   "token pricing is the confession," read out of Jake's inbox a week before Dowd wrote it.
 - *(closes the n=1 loop)* Jake = the subject of all three emails, with treatment intensity RISING weekly — the aggressiveness is itself
   data: the Jevons bet doesn't just exist, it apparently NEEDS to pay, fast. [[compression-thesis]], [[ai-financing-fragility]].
+
+##### "HALF" AS THE CONVERGED COORDINATE (Jake): Altman touts GPT-5.6 at half of Fable's cost, "similar capabilities" — same price point as Opus 5, within days
+- *(the coordinate is the message)* Two rivals landing the identical pitch — "similar capability, half of Fable's price" — within days:
+  (1) **Fable = the market's price ANCHOR** (cross-industry reference). (2) **"Similar capabilities" > "half" in significance**: neither
+  pitch claims to be smarter; both surrendered the capability axis and compete on PRICE = commoditization confirmed by the labs' own ad
+  copy, not by commentators. The competitive axis moved quality→price this week, in writing.
+- *(why HALF — the switching threshold)* 10-20% doesn't clear switching costs + risk premium; 50% = the canonical worth-the-hassle
+  number, the biggest cut that still signals premium. Both labs targeting the same threshold = convergent switching math, not coincidence.
+- *(★ the fork + FALSIFIABLE tripwire)* "Half" is a SHELF or a STEP: (a) Schelling focal point — everyone discounts to 0.5×, nobody
+  breaks below, margins stabilize (oligopolies do settle at round numbers); (b) Bertrand descent — capability parity conceded →
+  successive rounds toward MARGINAL COST, which is itself falling (the floor sinks while they chase it). **TRIPWIRE: the first pitch
+  BELOW half ("70% cheaper than Fable, similar capabilities") = the shelf broke, descent confirmed.** Registered, gradeable.
+- *(the anchor's dilemma — Anthropic-specific)* The reference-price firm bleeds share at the top OR cuts the anchor and reprices the
+  entire ladder beneath it in cascade. Watch whether Fable's own effective price holds (the 3-weekly-extensions entry above suggests
+  it's already slipping via access, not list price).
+- *(reframe planted — frontier as CAPITAL EQUIPMENT)* If frontier models stop being products and become the mother-model you distill
+  cheap variants FROM, the frontier = capex, not revenue — and capital equipment gets DEPRECIATED → walks straight back into the
+  depreciation-time-bomb logic ([[ai-financing-fragility]] 7/24). Same bomb, new fuse. [[compression-thesis]].
