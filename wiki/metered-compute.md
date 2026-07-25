@@ -495,3 +495,11 @@ Anthropic-pricing reads scored with that disclosed, same symmetry rule as the Sa
   same move. Under subscription it's an effective price cut that never touches the list price (stretch the capped allowance), and the
   SAME compression is simultaneously the lab's serving-margin improvement — both sides pocket the spread, which is why it ships.
   Bonus: "XX more tasks per dollar" is a falsifiable, gradeable marketing claim — rare in this genre.
+- *(addendum 2026-07-25 ~3:38pm PT — Jake: bundled WITH the frontier tier specifically)* The compiler ships with the FRONTIER model,
+  not the cheap tiers — and that targeting is the point: (1) the compiler's value scales with the price of the model it feeds (cheap
+  models' waste is cheap; frontier waste is the whole per-task problem) — it attacks the frontier's ONE losing axis. (2) It
+  MANUFACTURES the per-task win the labs currently only claim: the premium becomes model + the vendor's proprietary knowledge of how
+  to drive it, raising frontier task-completion where the residual edge lives (the hard tail — exactly what the 45-day half-life
+  hasn't commoditized yet). (3) vs open weights: DeepSeek can publish weights, but a vendor's training/eval exhaust for driving its
+  OWN frontier is closed by construction — the one bundleable complement weight-release can't commoditize. The frontier's defense
+  against its own distillates and the open floor may be sold as a BUNDLE, not a model.
