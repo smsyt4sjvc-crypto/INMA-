@@ -69,6 +69,12 @@ Related: [[measure-tool-product]] · [[architecture]] · [[state]]
   > limited transferable product warranty** (10 yr full, then prorated) vs
   > HardiePlank 30-yr non-prorated. Fewer style/finish options = the value tier.
   > Safe to write "made by James Hardie" on customer docs.
+  > 🔧 FIELD/WASTE EDGE [2026-07-22] (Jake — keep OUT of customer docs): branded
+  > HardiePlank has "Hardie" stamped in the nail line across the top of every
+  > plank, so it can only run one orientation — you CAN'T flip it end-for-end.
+  > Cemplank has no top stamp, so planks flip freely → better offcut nesting and
+  > **less drop waste**. Real installer advantage; don't advertise it, just
+  > estimate a touch tighter on Cemplank waste.
   | LP lap (SmartSide — ENGINEERED WOOD) | $13.25 | 10 | $132.50 |
   | Hardie lap, primed | $12.35 | 14 | $172.90 |
   | Hardie ColorPlus lap (Statement) | $16.75 | 14 | $234.50 |
