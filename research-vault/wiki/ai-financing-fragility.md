@@ -1092,3 +1092,32 @@ Source: sec_hyperscaler_scanner.ipynb v1 full run (Jake, Colab) + Claude's bug-f
   **12.9%** (implausibly low for a software company; the >95%/<0 guard doesn't catch low-side artifacts). Symmetric lesson to the AMZN
   bug: first-match undershoots, max-pick can overshoot. **Treat the ORCL dashboard row as suspect in both versions** — it's periphery/
   context; Oracle's real instrument in the vault is the credit tape (CDS ~205, the BBB−→junk cliff), not this dashboard.
+
+### CROSS-OWNERSHIP MATRIX (Jake's question: who owns whom among Mag7/hyperscalers) — live 13F pull, Q1-2026 filings
+Source: EDGAR 13F-HR infotables (as-of 3/31/2026, filed May), parsed direct. LIMITS: 13F = long US-listed equities only —
+private stakes (OpenAI/Anthropic/Reflection/xAI) INVISIBLE; SpaceX IPO'd 6/12 so GOOGL's $94.1B SPCX stake appears in the
+NEXT 13F (~Aug 14), today visible only via the 10-Q disclosure.
+#### DATA (as-filed)
+- **Only 3 of the Mag 7 file 13Fs at all: GOOGL, AMZN, NVDA. MSFT, META, AAPL, TSLA = no reportable public-equity book.**
+- **NVDA ($18.4B, 7 positions):** **INTC $9.48B (51.6% of book)**, **CRWV $3.66B (19.9%)**, Synopsys $1.91B, **Coherent $1.86B**,
+  Nokia $1.34B, **Nebius $0.12B**, Generate Biomedicines $0.01B.
+- **GOOGL ($4.0B, 27 positions):** CME $1.03B, **Planet Labs $0.99B**, **AST SpaceMobile $0.74B**, Revolution Medicines, **ARM $0.30B**,
+  Freshworks/UiPath/Tempus/GitLab + biotech tail. (Space names consistent with the orbital-datacenter thread.)
+- **AMZN ($2.6B, 5 positions):** Rivian $2.38B (90.6% — legacy), Beta Technologies, Marvell, Astera Labs, Nautilus.
+- **Strict Mag7-on-Mag7 cross-holdings: ZERO.** Broader watchlist: **NVDA→INTC $9.5B (~2% of Intel)** and **NVDA→CRWV $3.66B** are
+  the only peer-scale positions.
+#### THESIS (interpretation — NOT fact)
+- *(the answer to "who owns the most of the others": NVDA, and it's not close)* NVDA's public book IS the AI supply chain: its
+  customer-creditors (CoreWeave, Nebius), its once-rival (Intel — over HALF the book), its EDA vendor (Synopsys), its optics
+  bottleneck (Coherent, a vault bottleneck name). Add the private web (Reflection, the OpenAI/neocloud stakes per the doom-loop
+  thread) and NVDA = the ecosystem's EQUITY HUB — the demand-manufacturer thesis, now with filed receipts.
+- *(the collision, same pattern as GOOGL/SpaceX)* NVDA carries **$3.66B of CoreWeave equity while CRWV's CDS trades at ~701** —
+  an equity mark on the very credit the market prices as distressed. Second confirmed instance of the equity-mark-vs-credit-reality gap.
+- *(the answer to "owned least / least entangled": AAPL — truly; MSFT — only on paper)* AAPL neither owns nor is owned: the
+  genuinely clean balance sheet. MSFT/META file nothing BUT their entanglements (OpenAI profit-share, Beignet SPV) are structured
+  as contracts/SPVs — INVISIBLE to both 13F and the equity-gain tag. Same lesson as the scanner: the cleanest-LOOKING books are
+  clean by INSTRUMENT CHOICE, not by absence of exposure. Apple is clean in fact; Microsoft is clean in FORM.
+- *(the answer to "owned most BY the others"):* **SPCX** (GOOGL 6% = $94.1B, the largest single cross-holding in the complex),
+  **CRWV** (NVDA a meaningful holder), **INTC** (~2% held by its own competitor). The most-owned names are exactly the
+  levered/periphery credits — the strong balance sheets hold equity in the weak ones, which is how periphery stress transmits
+  to core EARNINGS (mark-to-market) without touching core SOLVENCY. The equity-channel contagion wire, mapped.
