@@ -1074,3 +1074,13 @@ Source: sec_hyperscaler_scanner.ipynb v1 full run (Jake, Colab) + Claude's bug-f
 - *(the AMZN number is the run's headline)* A NEGATIVE $72.7B annualized FCF proxy makes Amazon the hyperscaler whose capex most exceeds its operating cash — the "Google's first negative quarter" Facebook-chart thread, but LARGER and at Amazon. Caveat: proxy method (latest Q ×4) exaggerates seasonal quarters, and AMZN Q1 is seasonally weak post-holiday — treat as a flag to verify against the 10-Q cash-flow statement, not a settled fact. If it holds, the "revenue inflects before spending peaks" bet is most stretched at AMZN, right before its 7/29-30 print.
 - *(the inventory split = physical confirmation of the shortage asymmetry)* MU selling everything it makes (inventory FALLING in a boom) while NVDA/AVGO stockpile DOUBLED inventory = the memory-shortage/compression structure visible in balance sheets, not just prices. Watch: if MEMORY inventory starts building, that's the canary's cycle-top tell in hard data.
 - *(tool lesson, logged for reuse)* First-match XBRL tag logic is unsafe — partial-scope tags (NVDA revenue slice, AMZN capex) produce plausible-looking garbage. Fixed with max-across-candidates + sanity guards + stale-tag flags. The failure mode to remember: **wrong-but-plausible beats wrong-and-loud** — the AMZN +96.7 looked fine and was the most dangerous number on the page.
+
+##### 2026-07-24 ~11:07PM PT — addendum from Jake's full v1 run: META is the LEAST XBRL-LEGIBLE hyperscaler — and that's the tell
+- DATA (Jake's Colab run, v1 output): META's standardized tags are stale ACROSS THE BOARD — PP&E last tagged **2020-09-30**
+  (2,008-day gap), equity-securities gain last tagged **2022-12-31**, purchase commitments showing only **$25B** vs GOOGL's $707B.
+  (v1 also carried the known AMZN-capex + NVDA-margin artifacts, fixed in v2 — those rows superseded by the corrected entry above.)
+- *(the read)* The hyperscaler at the CENTER of the off-balance-sheet story (Beignet/Hyperion SPV, the $27.3B bond at 97/229bps)
+  is the one whose machine-readable filings say the least. Not an accusation — likely just custom/dimensional tagging — but the
+  EFFECT is the same as the footnote-hollowness thesis: **META's leverage lives where the standardized tags can't see.** For META,
+  the dashboard is blind by construction; the full-text search cell (or reading the 10-Q commitments note directly) is the tool.
+  Consistent with the week's theme: fortress in the structured data, story in the footnotes.
