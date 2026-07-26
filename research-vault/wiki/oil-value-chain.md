@@ -44,3 +44,29 @@ Related: [[power-not-petroleum]], [[demand-destruction]] (the crack thread + the
 - *(descriptive — NOT a buy rec)* Maps where value accrues by layer; sizing/execution is Jake's. The applicable
   read: if an energy name tempts, ask which LAYER it is — crack/toll (capture) vs barrel (coin flip + global price
   + return-not-reinvest).
+
+### 2026-07-25 ~10:35pm PT — Jake's Q: reserve-supplied consumption = "already paid for"? How it actually lands in XOM/CVX/VLO prints (Fri 7/31)
+#### DATA (mechanics + logged priors)
+- SPR/IEA reserve barrels are SOLD at market price via auction — the government (which acquired US SPR crude at ~$30/bbl
+  historical average) books the sale; refiners PAY for the barrels. No one's P&L receives free oil.
+- Logged priors (7/18, [[war-confirmed]]): IEA ~300M of 400M planned bbl released; commercial excess inventories "close to
+  nothing"; Cushing at tank-bottoms; 3-2-1 crack ~$69 (~3x normal, record); EU gasoil crack record; retail diesel >$5.
+- Earnings calendar: VLO Thu 7/30 BO; XOM/CVX Fri 7/31 BO (both have large refining segments alongside upstream).
+#### THESIS (interpretation — NOT fact; analysis)
+- *(the direct answer)* "Already paid for" ≠ free feedstock — but Jake's instinct points at the two real effects:
+- *(1 — the earnings GEOGRAPHY: releases move profit from the barrel to the crack)* Reserve supply suppresses CRUDE (the
+  upstream leg) vs the no-release counterfactual → XOM/CVX upstream earns less than the war would otherwise pay. But product
+  prices are set by refining capacity + war demand, unrelieved by crude releases → the spread BETWEEN them (the crack) is
+  historically fat, and reserve availability at tank-bottom commercial inventories is precisely what keeps refiners RUNNING
+  to capture it. **The release regime is an indirect refiner subsidy: government supply caps the input; nothing caps the
+  product.** Friday's prints should show the war quarter pooling at the REFINING segments (VLO pure-play; XOM/CVX refining
+  arms) — the vault's own-the-crack-not-the-barrel thesis, testable on 7/30-31. Watch: refining-margin capture + throughput/
+  utilization; FIFO inventory gains (cheap crude bought into rising product tape).
+- *(2 — the macro asymmetry: stock vs flow)* Consumption served from reserves = consumption WITHOUT current production — the
+  flow deficit is being papered by a FINITE buffer (3/4 spent, commercial excess ~nothing). Two-sided clock: releases
+  suppress price NOW; exhaustion + the restocking bid GUARANTEE demand later (governments must refill — the 2022-23 SPR
+  refill precedent = a standing bid under the market for years). **When the buffer runs out, the deficit reappears at full
+  force PLUS the refill bid on top** — the sharpest medium-term bullish-oil datum in the vault, and it's a dated, countable
+  one (barrels remaining ÷ release rate = the fuse length). Fits [[demand-destruction]]'s buffers-burned 🔴 entry.
+- *(watch on the calls)* Management language on SPR-refill assumptions + any release-schedule guidance = the fuse-length
+  datum spoken aloud. [[power-not-petroleum]], [[demand-destruction]].
