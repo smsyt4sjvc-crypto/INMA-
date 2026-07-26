@@ -142,3 +142,38 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
   market leans on (bypass capacity) is degrading at the exact moment Hormuz itself reads zero: Saudi export paths constrained
   at BOTH ends, with the Sumed/Egypt detour as the emerging workaround. The Abqaiq-class event is now demonstrably within
   Houthi reach and willingness. Watch: Jizan damage assessment · Yanbu loading trend · Sumed detour volume · Bab-el-Mandeb holding.
+
+### 2026-07-26 — RECIPROCAL stand-down CONFIRMED (Reuters/Pentagon, 2nd night) + Oman-Hormuz talks "some progress" + WEEKEND CRUDE −5% (the early price verdict)
+- DATA (ZH digest, Jake paste ~11:50am PT Sun): **Pentagon suspended the campaign late Friday; NO US attacks Sat or Sun**
+  (2nd consecutive night). **Iran held fire both days**; senior Iranian official to Reuters: "attack for attack — if the
+  attacks stop, Iran will also halt," message conveyed to the US; "prepared to mount a broad response" if strikes resume;
+  Iranian skepticism explicit ("pause is tactical rather than genuine"). US UN Amb. Waltz (Fox): Trump pausing "to give
+  talks some space." Trump Fri: "locked and loaded" but leaning diplomacy (6 negotiation references in 38 min).
+  **Iran MFA spokesman Baghaei: Iran-Oman talks Fri+Sat in Tehran on "principles and operational mechanisms for managing
+  safe maritime navigation" through Hormuz — "constructive, and some progress was made"**; consultations ongoing.
+  **Weekend US Crude (IG Markets proxy) DOWN ~5% late-morning NY Sunday** (Brent left ~$98 Fri → implies low-90s).
+  National avg gasoline >$4/gal (the political forcing function, per JPM's Kaneva).
+- 🔴 `[MARKER-MOVED]` — **checkpoint #1 UPGRADED to fully confirmed** (official-adjacent, reciprocal, durable 2 nights —
+  stronger than the graded bar in every dimension). **Checkpoint #2 (oil off-ramps) = LEANING HIT on the weekend proxy:**
+  the market's early weighting = diplomatic momentum OUTRANKS the physical zero-tanker closure (yesterday's tug, answered
+  −5% so far). ⚠️ IG weekend market = thin proxy; the 3pm PT CME open is the official referee — grade there. Note the
+  structural tension STANDS: throughput ~0, blockade active — the market is pricing the REOPENING path, not the present.
+
+### 2026-07-26 — NEW VECTOR: Ukraine strikes Iranian vessels in the CASPIAN (1 sailor killed); Zelensky claims it publicly
+- DATA: Zelensky on X: "very good results from long-range strikes in the waters of the Caspian Sea... vessels involved in
+  transporting military cargo from Iran, and a warship." Iran confirms 1 killed, 1 injured on a commercial vessel; summons
+  Ukraine's chargé; Araghchi: "at Israel's behest," could "drag Europe into its war." (Context: Israeli warplanes reportedly
+  hit Iranian naval vessels in the Caspian early in the war; the Caspian = Iran's ALTERNATIVE (non-Hormuz) trade corridor.)
+- 🟡 `[ODDS-SHADER]` — war-merger vector (Russia-Ukraine ↔ US-Iran) demonstrated POSSIBLE, still low-probability. Oil-relevant
+  mechanism: the Caspian is Iran's sanctions-era northern logistics route — degrading it squeezes Iran's non-Hormuz options,
+  which CUTS BOTH WAYS (more pressure to deal / more incentive to maximize the Hormuz card). Timing lands mid-talks = a
+  spoiler risk not of Washington's making. Watch Iranian retaliation framing (at Kyiv vs at the US/Israel).
+
+### 2026-07-26 — Telegraph: Trump paused partly because the US is RUNNING LOW ON MISSILES
+- DATA (Telegraph via Bloomberg wrap, as-reported): Trump "paused plans to escalate the war after being warned the US is
+  running low on missiles; the pause also allows time for negotiations."
+- 🟡 `[ODDS-SHADER]` — two-sided and load-bearing if true: (bear-for-war/bull-for-off-ramp) a munitions constraint makes the
+  pause MORE durable (can't easily resume 13-night tempo) and pushes the US toward the deal path structurally, not tactically;
+  (the flip) it also VALIDATES Tehran's "tactical pause" read and weakens US leverage AT the table — a constraint-driven
+  pause invites Iran to harden terms. Also degrades the credibility of the "locked and loaded" resume-threat that anchors
+  the strike-then-deal frame. Watch: US munitions/industrial-base headlines; any tempo change if strikes resume.
