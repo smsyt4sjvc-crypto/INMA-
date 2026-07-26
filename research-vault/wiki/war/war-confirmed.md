@@ -244,3 +244,10 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
   momentum. The asymmetry SHARPENS as price falls: every dollar of premium out now = a dollar of re-load snap if the talks
   break (June precedent), from a lower base against a WORSE physical picture than June. De-escalation confirmed ≠ war over;
   the remaining tells (laden runners at the line, Houthi front, Jizan/Yanbu, Netanyahu Tuesday) all still live.
+- *(addendum ~3:30pm PT — the full open board, live pulls 22:10 UTC)* **Brent −5.1% ($91.81) · WTI −5.2% ($84.70)** (deeper
+  than the −4.4% open headline — premium still bleeding) · **NQ +1.1% / ES +0.6% / Russell +1.0% / Dow +0.5% / Nikkei fut
+  +1.7%** (relief rally, tech + oil-importer Japan leading) · **Gold +0.5%, Silver +1.5%, 10Y note fut +0.3% (yields DOWN)**
+  · NatGas −2%. *(read)* The coherent macro chain the tape is pricing: war premium out of oil → energy-inflation relief →
+  bonds bid + dovish-FOMC room (decision Wednesday) → growth/tech leads. NOTE: gold did NOT give back war premium alongside
+  crude — it rose. The bid rotated from fear to rate-cut/debasement, not away. Checkpoint #3's relief leg = CONFIRMED in
+  futures; the graded question is whether Monday's CASH session holds it through the capex tug (APLD after close).
