@@ -46,3 +46,38 @@ Tool: `tools/growth_ignition_anatomy.ipynb`.
 - Forward test: profile states flagged from TODAY (notebook cell 6, editable thresholds) graded on realized 3y outcomes.
 - Poke-from-more-angles queue: MACD/momentum-divergence at the trough; sector clustering of ignitions; gap-vs-drift
   overlay from [[deep-value-reclaim]]; fundamental overlay (revenue growth at ignition) via the SEC scanner.
+
+---
+## ⚠️ V2 (2026-07-25 ~7:25pm PT) — Jake's catch: don't condition on bottoms. Entry redefined → the from-strength cohort found (and it's technically INVISIBLE)
+**The methodology correction (Jake: "They don't need to be bottoming stocks. Just locate the stocks that had the growth
+periods."):** v1 defined ignition = the price MINIMUM inside each qualifying stretch — structurally dragging every start
+to a trough, then reporting "ignition = capitulation." Partly my definition echoing back. V2: entry = the EARLIEST day
+from which the 3x completed within 756 td (first buyable day), NO condition on its state; then split by starting state.
+
+### DATA (observed — 566 growth periods, 284 stocks, same matrix)
+- **Unconditioned entry-state distribution: WASHOUT (>25% off ATH) = 357 (63%) · PULLBACK (10-25%) = 121 (21%) ·
+  STRENGTH (≤10% off ATH) = 88 (16%).** Only 19% of all entries were above the 200-SMA.
+- **STRENGTH-cohort anatomy (medians):** −2.5% off ATH · **+12.9% ABOVE the 200-SMA · RSI 51.0 · relative volume 94%** ·
+  realized vol 23% · 6-mo momentum +13.3%. Next 6 months: +12.6% (vs washout's +34.9%) with −16.3% pullback inside.
+- **Compare CONTROL medians (v1): RSI 52.5 · +5.3% vs 200-SMA · relvol 99%.** The strength cohort is statistically
+  ~indistinguishable from random healthy stock-days on every technical marker measured.
+- **Who they were (recent strength entries):** VRT, DELL, MCK, IRM, APP (2021) · CEG (1/2022) · PWR (9/2022) · LLY
+  (12/2022) · KLAC, CASY (2023) · TRGP (7/2023) · GEV (3/2024) — the power/AI-infra complex + GLP-1 + compounders.
+- ⚠️ right-censoring: strength entries thin out 2023-24 partly because a 3x begun recently hasn't had time to COMPLETE —
+  the detector can only see them in hindsight (2024-26 entries are structurally undercounted).
+
+### THESIS (interpretation — NOT fact; analysis)
+- *(the split answer)* Even unconditioned, ~2/3 of 3x runs DID start from washouts — v1's capitulation anatomy survives
+  as the majority pattern, with a real fingerprint (RSI 27, vol 2x, relvol 124%). But **37% needed no deep bottom, and
+  16% launched from within 10% of highs** — Jake's cohort exists and it's the one holding the famous names.
+- *(★ the sharpest finding — the strength cohort is TECHNICALLY INVISIBLE)* At entry, from-strength 3x compounders
+  looked like NOTHING: neutral RSI, normal volume, modest uptrend — the same readings as the control population. **The
+  markers Jake asked to scan for (MAs, oscillators) can fingerprint ONLY the washout cohort.** Oscillators find bottoms;
+  they cannot find compounders, because a compounder's entry state is ordinary by construction. The screen that finds
+  VRT/CEG/LLY/GEV at entry is FUNDAMENTAL/THEMATIC (power bottleneck, AI capex, GLP-1 — cf [[power-not-petroleum]],
+  [[runner-anatomy]]), not technical. Technicals time the washout cohort; themes select the strength cohort.
+- *(pace differs, destination same)* Strength entries start SLOW (+12.6% first 6mo — barely above market) and grind;
+  washout entries front-load (+34.9%). The 3x from strength is back-loaded and steady = easy to hold but easy to dismiss
+  early ("it's barely beating SPY"); the washout 3x is violent both ways. Different temperament per cohort.
+- *(both cohorts share the holding cost)* Max pullback inside the first 6mo: −16 to −22% median across ALL cohorts —
+  correction-sized drawdowns are the toll on every path to a 3x, from-strength included.
