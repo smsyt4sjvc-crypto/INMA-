@@ -122,3 +122,35 @@ Moody's last-AAA strip + $970B interest/$112B record month; US Mint $19,600 meda
 - Revaluation TELLS (dated, mechanical): Fort Knox audit bill progress · any gold-certificate/TGA action · official
   revaluation language from Treasury (not "asset side" ambiguity). Absent these, the thesis stays a state, not an event.
 - Piece's internal sloppiness noted: $600B vs $667B for the same ounces in one essay (147.3M oz × $4,000 ≈ $589B).
+
+## 2026-07-26 ~5:15pm PT — THE PRIMARY SOURCE: the Fed revaluation paper itself (ingested) — history says aspirin, not cure; and the mechanism IS money creation
+Source: Jake pasted the actual Fed note ("Official Reserve Revaluations: The International Experience"). Upgrades + corrects
+the prior entry.
+### DATA (from the paper)
+- **⚠️ CORRECTION to the newsletter AND my prior entry's number:** US gold reserves = **261.5M oz TOTAL** (Fort Knox's ~147M
+  is a subset — the newsletter used the subset). At the paper's $3,300 ≈ $860B; at ~$4,000 ≈ **$1.05T**. Paper's own inset:
+  potential proceeds ≈ **3% of US GDP**. (My "~$590-600B" used the newsletter's subset ounces — corrected, stays visible.)
+- **The full 30-year universe = FIVE cases:** Germany 1997 (proposed 0.5% GDP → Bundesbank + press REVOLT: "violates central
+  bank independence," "would not do justice" to Maastricht; compromise DELAYED to 1998 and SHRUNK DM20B→13B; deficit met the
+  criteria anyway) · Italy 2002 (1% GDP, central-bank loss cover, one-off) · Lebanon 2002 (11% GDP, THE largest, post-civil-war
+  interest at 91% of revenues → debt ratio KEPT RISING, needed 2007 restructuring + a SECOND revaluation 6.3% GDP) ·
+  Curacao/St-Martin 2021-22 (0.6% GDP, sale-and-repurchase trick to book gains; abandoned it 2023 for real portfolio income) ·
+  South Africa 2024 (2% GDP, ongoing; **McCauley: Treasury's interest savings offset by the CENTRAL BANK'S new interest
+  costs — consolidated savings "far more uncertain"**).
+- **Mechanism (the paper's stylized balance sheets):** all variants end the same way — as the government SPENDS the proceeds,
+  the central bank liability shifts to **commercial bank reserves**. Reserve quantity of gold unchanged; nothing sold.
+### THESIS (analysis)
+- *(the mechanism, named plainly)* Revaluation-spending = **monetized fiscal expenditure** — new bank reserves created
+  against an accounting gain, no debt issued, no tax raised. It is printing, laundered through a valuation entry. The
+  debasement thesis doesn't need to speculate about this instrument; the Fed's own paper diagrams it.
+- *(McCauley's catch = the hidden coupon)* Those new reserves PAY INTEREST (IOR). Economically, a revaluation-funded debt
+  retirement ≈ **swapping fixed-rate Treasury debt for floating-rate central-bank debt** — the "free" $1T carries a
+  perpetual floating coupon. The consolidated government saves far less than the headline, possibly ~nothing.
+- *(★ the scale fact that kills the fantasy)* Full US revaluation ≈ $1T ≈ 3% of GDP ≈ **ONE year's interest bill** (~$970B).
+  The maximal version of the "creative solution" buys ~12 months, once, and is gone — while signaling Lebanon-class
+  distress (the only country that used it at scale) and inviting Germany-class institutional revolt. History's verdict in
+  one line: **aspirin, not cure; and taking it is itself a symptom.**
+- *(net for the thesis)* STRENGTHENS debasement (the instrument exists, is documented, and is monetization by construction)
+  while KILLING the $20k-gold reading harder than my dissection did — every historical case revalued TO market, never
+  above it. Watch-items unchanged (audit bill, gold-certificate action, official language). The paper is the referee the
+  newsletter should have read to the end.
