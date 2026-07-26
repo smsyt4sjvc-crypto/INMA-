@@ -580,3 +580,25 @@ Anthropic-pricing reads scored with that disclosed, same symmetry rule as the Sa
   compressing to zero · PANW's attach-pricing on Portkey-routed flows · NET monetizing AI Gateway beyond loss-leader · a
   disclosed routing-revenue line item anywhere. Take-rate holding = exchange economics (Jake's read wins); take-rate → 0 =
   switchboard economics (the thin-proxy read wins). Grade as disclosures land. [[compression-thesis]].
+
+##### CONTEXT PORTABILITY — "a USB port for LLMs" (Jake, 2026-07-25 ~9:11pm PT): the vault-as-enterprise thought experiment → the moat migrating from WEIGHTS to MEMORY
+- *(Jake's frame)* His vault = a miniature enterprise; swapping models into it without losing accumulated context is the pain;
+  the "necessary layer" = plug-and-play integration of any model (esp. open-source/in-house) into an already-functional
+  knowledge base — "a USB port for LLMs."
+- *(what exists)* MCP (Model Context Protocol) — Anthropic's open standard, literally marketed "USB-C for AI," adopted by
+  OpenAI/Google 2025 — covers model↔tools/data. But the SWITCHING-COST STACK decomposes: API format (solved, OpenAI-compatible
+  wire standard) · tools/data (solved-ish, MCP) · fine-tunes (unportable, sunk per model) · prompt/behavior tuning (semi-portable —
+  the prompt-compiler entry = the adapter for this layer) · **accumulated context/institutional memory = UNSOLVED, no standard.
+  There is no MCP-for-memory.** Jake's layer names the open seam.
+- *(★ the vault is the existence proof)* The vault IS the solution architecture: plain markdown + git = state OUTSIDE the model
+  in an open, versioned, human-readable format → any model that reads files inherits the full context on day one. The experiment
+  has been running unlabeled: sessions/models/containers change constantly; the context survives every swap BECAUSE the memory
+  was never inside the model. Generalization: enterprises whose AI memory lives in open external formats keep model-arbitrage
+  freedom; those adopting vendor memory features surrender it.
+- *(the strategic read — the week's arc closes)* Tokens commoditized (the price war entries) + routing makes capability swappable
+  (the layer entries) → the last constructible moat = **CAPTURED CONTEXT**: vendor memory features / vendor-side RAG / persistent
+  assistant state = the ANTI-USB — leaving means amnesia. **The moat migrates from weights to memory.** Price lock-in died in
+  the ad copy this month; context lock-in is the replacement being built now.
+- *(falsifiable watch-items, registered)* (1) vendor memory features: EXPORT/egress APIs shipped, or one-way? (2) an open
+  MCP-style standard for MEMORY specifically; (3) context-portability clauses appearing in enterprise AI procurement (the
+  cloud-era data-portability precedent) — its appearance = Jake's layer became real. [[compression-thesis]], [[ai-financing-fragility]].
