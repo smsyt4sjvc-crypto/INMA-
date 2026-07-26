@@ -503,3 +503,28 @@ Anthropic-pricing reads scored with that disclosed, same symmetry rule as the Sa
   hasn't commoditized yet). (3) vs open weights: DeepSeek can publish weights, but a vendor's training/eval exhaust for driving its
   OWN frontier is closed by construction — the one bundleable complement weight-release can't commoditize. The frontier's defense
   against its own distillates and the open floor may be sold as a BUNDLE, not a model.
+
+##### THE ROUTING/ORCHESTRATION LAYER (Jake's Q, 2026-07-25 ~8:45pm PT): what software integrates horizontally across models — and why its existence confirms the step-not-shelf fork
+- *(the stack, as of ~Jan-2026 knowledge; landscape not endorsement)* (0) **Wire standard**: the OpenAI-compatible API became the
+  de-facto format → switching models ≈ changing a base URL + model string. (1) **Gateways/routers**: OpenRouter (one API, hundreds
+  of models, auto-failover = the market's live price sheet); LiteLLM (open-source, self-hosted enterprise proxy — FREE = the
+  gateway layer commoditizing itself); Cloudflare AI Gateway/Portkey/Kong/Vercel; learned routers (Martian, Not Diamond, RouteLLM)
+  that classify each query to the cheapest sufficient model — the invisible sibling of the prompt-compiler idea. (2) **Cloud model
+  gardens** (the enterprise seat): AWS Bedrock / Azure AI Foundry / Google Vertex — one contract, a shelf of interchangeable
+  models + built-in routing = the CLOUDS own enterprise routing; labs become suppliers on the distributor's shelf
+  (commoditize-your-complement executed by the distribution layer; clouds paid on compute either way). (3) **Orchestration
+  frameworks**: LangChain/LangGraph, LlamaIndex, AutoGen/Semantic Kernel, CrewAI — models assigned per ROLE (cheap extracts,
+  frontier plans); the CASCADE pattern (try cheap → escalate on low confidence); MCP (Model Context Protocol, Anthropic standard,
+  OpenAI adopted 2025) makes tool/context plumbing portable across models = the USB port that makes the appliance swappable.
+  (4) **Platform/workflow layer**: ServiceNow AI orchestration, Salesforce Agentforce, Palantir AIP — bring-your-own-model below,
+  own the workflow/contract above = Jake's NOW thesis seat.
+- *(★ read 1 — the layer's EXISTENCE is evidence for STEP not SHELF)* Routing infra drives switching costs → ~0; "half" was
+  derived as the canonical switching threshold; every gateway deployment shrinks the discount needed to move traffic →
+  accelerates Bertrand descent. The horizontal-integration software IS the commoditization engine / the machine that makes the
+  price umbrella unholdable.
+- *(read 2 — the proxy is thin; the durable seat is EVALS)* LiteLLM free, gateways charge bps — the pipe itself commoditizes.
+  Arbitrage requires knowing when cheap is GOOD ENOUGH → evaluation/observability (LangSmith, Braintrust, Arize) = the
+  procurement function of the AI era. Whoever owns the "good enough" measurement owns the routing decision.
+- *(read 3 — the telecom map again)* Models = minutes (commoditizing) · clouds = carriers surviving on volume · orchestration/
+  workflow = the over-the-top contract-owners · the router = the switchboard: necessary, powerful, historically LOW-margin.
+  [[compression-thesis]] (telecom/OTT), the "half" + prompt-compiler entries above; Jake's NOW = the layer-4 expression.
