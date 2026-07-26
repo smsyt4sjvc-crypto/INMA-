@@ -38,3 +38,36 @@ Companions: [[dip-buying-base-rates]], [[median-line-dip]], [[seeing-vs-predicti
 ## Falsifier / regrade
 - Rerun the notebook anytime (today's-screen cell shows current picks). If a real historical-constituent universe ever
   gets tested and the edge survives deletions, the survivorship caveat softens; until then treat reported CAGR as ceiling.
+
+---
+## STUDY 2 (2026-07-25 ~7:00pm PT) — Jake's refinement: NO-CATALYST decliners = hidden value? → HYPOTHESIS INVERTED
+Jake's hypothesis: a company that fell into a bear market WITHOUT an external news catalyst, now back above its 20-SMA
+(or 50), = "real value in an otherwise healthy but overlooked company." Testable without a news database: catalyst
+declines concentrate in big single-day gaps; no-news derates are slow bleeds. Classifier = worst MARKET-ADJUSTED single
+day (stock − SPY) between the 252-day high and screen date: ≤ −8% → GAP (catalyst); else DRIFT (no-catalyst).
+
+### DATA (observed — same 10y/502-name matrix; bear = ≥20% off 252d high; 20-SMA reclaim; deepest 10; monthly)
+- **GAP (catalyst) cohort: 29.2% CAGR · −42.9% maxDD · Sharpe 1.07** (mean month +2.44%)
+- **DRIFT (no-catalyst) cohort: 13.4% CAGR · −26.2% maxDD · Sharpe 0.65** (mean month +1.34%) — **UNDER SPY (15.0%/0.94)**
+- Ordering ROBUST: holds with raw (non-adjusted) shocks (30.9% vs 3.4%), with the 50-SMA reclaim (25.6% vs 0.3%), and at
+  a −6% threshold (30.0% vs −0.1%). Market-adjustment matters for the drift cohort's absolute number (crash days had been
+  misclassifying everything as "catalyst"), not for the ordering.
+- By year: GAP wins 8 of 10 (incl. +92.9% 2020, +79.8% 2023, +31.3% 2025); DRIFT's only clear wins = calm grind years
+  (2017, 2021). Both die in 2022 (GAP −35.3%, DRIFT −17.2%).
+- Avg eligible/month: DRIFT 17, GAP 27.
+
+### THESIS (interpretation — NOT fact; analysis)
+- *(the inversion)* The quiet decliner is the WORSE buy, by ~16 points of CAGR and half the Sharpe. Loud, catalyst-crushed
+  names that stabilize are where the documented recovery edge lives. Standard-finance read: a discrete shock has a KNOWN,
+  bounded cause → the market overreacts to headlines → reclaim marks the overshoot turning. A slow no-news bleed = informed,
+  persistent selling — **no press release ≠ no reason; it means the sellers didn't need one.** Quiet = smart money leaving
+  without a headline; loud = the crowd overreacting to one.
+- *(what survives of Jake's idea)* The screen can't see HEALTH — the drift cohort mixes "overlooked and fine" with
+  "quietly dying," and the results say the second group dominates. The rescue path is a FUNDAMENTAL overlay: drift
+  decliners whose revenue/margins are still growing (SEC-scanner XBRL pull on the drift names) — that isolates the
+  "healthy but overlooked" subset the pure-price screen can't find. Untested; offered as the follow-up.
+- *(caveats)* Survivorship applies to both cohorts (comparison cleaner than absolutes); −8% proxy is crude (some news
+  days are small, some no-news days are big); n≈17/mo drift cohort is thin in places.
+### Falsifier / regrade
+- Fundamental-overlay test (drift + still-growing) rescuing the hypothesis would restore Jake's read for a SUBSET.
+- Notebook cell 7 reruns the split anytime (threshold + SMA parameterized).
