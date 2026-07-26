@@ -230,3 +230,17 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
   picture (zero tankers, active two-sided closure, a 4-day-old accelerating Houthi front, 3 laden runners at the blockade
   line, Netanyahu in DC Tuesday). 75% = the consensus is now Jake's position — per [[_calibration]], the seeing-edge is spent;
   what remains is execution (the registered checkpoints and triggers). Crude open ~2h = the harder referee.
+
+### 2026-07-26 — ★ THE REFEREE RULED: Brent −4.4% AT THE OPEN as US-Iran extend the pause — CHECKPOINT #2 = HIT
+- DATA (headline, Jake paste ~3:03pm PT Sun — at the CME open): **"BRENT OIL FALLS 4.4% AT OPEN AS US AND IRAN EXTEND WAR
+  PAUSE."** From Friday's ~$98 → ~$93.7. Matches the weekend IG proxy (−5%). "Extend war pause" = the reciprocal stand-down
+  holding into a third night.
+- 🔴 `[MARKER-MOVED]` — **checkpoint #2 of Jake's 7/23 de-escalation call = HIT, graded on the price as registered.** The
+  call is now 2-for-2 with two open: #1 stand-down (confirmed, reciprocal) · #2 oil off-ramps at the Sunday open (−4.4%) ·
+  #3 = Monday's equity tape (relief vs sell-the-capex tug on the coiled tape) · #4 = the VIX pop toward the 28 execute zone
+  (natural window = the stacked Wed-Thu). Registered 7/23 with Polymarket at ~50%; the market arrived 3 days later.
+- *(the read, honest both ways)* The market has now FULLY committed to pricing the reopening path — premium bleeding while
+  physical throughput is ZERO and the blockade is active. JPM's duration math in reverse, front-loaded on diplomatic
+  momentum. The asymmetry SHARPENS as price falls: every dollar of premium out now = a dollar of re-load snap if the talks
+  break (June precedent), from a lower base against a WORSE physical picture than June. De-escalation confirmed ≠ war over;
+  the remaining tells (laden runners at the line, Houthi front, Jizan/Yanbu, Netanyahu Tuesday) all still live.
