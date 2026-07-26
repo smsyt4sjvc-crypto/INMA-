@@ -87,3 +87,38 @@ new high, VIX 16.87. THESIS (analysis): gold ripping while stocks ALSO make high
 bid (fear = VIX up + equities down). This is the real-assets/liquidity/debasement referee doing its job — war premium +
 the standing debasement pull, concurrent with the equity melt-up. The "everything up" tape (stocks+oil+gold) = liquidity
 + real-asset hedge together, not risk-off. Consistent with the [[new-economy-regime]] M2/debasement read. [[demand-destruction]].
+
+## 2026-07-26 ~4:50pm PT — Gold-REVALUATION newsletter ingested (Gertjan, 6/27): one real thread, one CATEGORY ERROR, and the discipline split
+Source: Jake paste — 7-dot "revaluation pattern" piece (Fort Knox $42.22 book vs market; audit-gone-quiet; Bessent
+"monetize the asset side"; Fed revaluation-research note; $3.3M COMEX bet on $20k Dec-2026 gold; CIA officer's 303 bars;
+Moody's last-AAA strip + $970B interest/$112B record month; US Mint $19,600 medal; 1934 precedent).
+
+### THESIS (analysis — the dissection)
+- *(★ THE CATEGORY ERROR the whole genre runs on)* The piece conflates two DIFFERENT events separated by orders of
+  magnitude: **(A) an ACCOUNTING revaluation** — mark the book from $42.22 to MARKET (~$4,000): documented 1934 mechanism
+  (gold certificates to the Fed), yields a ONE-TIME ~$590-600B Treasury General Account gain = a liquidity/debt-ceiling
+  bypass worth ~1.5% of the $40T debt. Real, modest, precedented, arguably sensible. **(B) $20,000 gold** — NOT a
+  revaluation but a monetary-RESET/gold-backing scenario (the price at which reserves back some share of money supply).
+  The options whale and the Mint medal are spooky ONLY under the conflation: revaluation (A) does not move the market
+  price to $20k; scenario (B) is a different, vastly more radical claim. Merging them is how 7 dots "converge."
+- *(dot triage)* SUBSTANCE (2): the fiscal math (interest $970B/yr, $112B record month, last AAA gone) and 3 straight
+  record years of central-bank accumulation — both ALREADY the vault's debasement core, no conspiracy needed.
+  POLICY-ADJACENT-REAL (2): Bessent's "monetize the asset side" framing + the Fed's revaluation-experience note = the
+  OPTION exists on the shelf and officialdom has read the manual. Warning-state, times nothing. GLUE/NOISE (3): the CIA
+  officer's bars (corruption story, zero mechanistic link), the Mint medal (numismatic premium; the "same price as the
+  strike" = coincidence-mining), the $3.3M whale (deep-OTM lottery premium is ~nothing for a macro fund; mystery-whale =
+  the oldest narrative device in options markets). "Seven unconnected signals converging" — they don't; 3 are glue, and
+  dot-selection has survivorship (7 aligned dots picked from thousands).
+- *(what SURVIVES, stated without the costume)* A book-to-market revaluation is a live, low-frequency policy option that
+  would be READ as official monetization (bullish gold as signal even though mechanically price-neutral), and the fiscal
+  pressure that makes it attractive is real and growing. That is a legitimate WARNING-STATE on the debasement thesis —
+  it strengthens the structural case; it times nothing (WARNING-vs-TRIGGER).
+- *(the timely hook — tonight's tape is the honest version of this piece)* Gold +0.7% WHILE crude crashed 6-8% on peace:
+  the metal's bid is visibly the debasement/rate-cut leg, not war fear. The 7/22 entry (gold highs + equity highs + VIX
+  17) and tonight = the actual evidence the newsletter needed.
+### Falsifiable / gradeable (registered)
+- **The whale's implied claim IS gradeable: gold ≥$15,000 by Dec-2026 expiry** — grade it (base case: expires worthless;
+  a 1,667x lottery that pays would be the single greatest options trade ever recorded).
+- Revaluation TELLS (dated, mechanical): Fort Knox audit bill progress · any gold-certificate/TGA action · official
+  revaluation language from Treasury (not "asset side" ambiguity). Absent these, the thesis stays a state, not an event.
+- Piece's internal sloppiness noted: $600B vs $667B for the same ounces in one essay (147.3M oz × $4,000 ≈ $589B).
