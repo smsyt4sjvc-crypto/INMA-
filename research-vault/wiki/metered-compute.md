@@ -555,3 +555,28 @@ Anthropic-pricing reads scored with that disclosed, same symmetry rule as the Sa
 - *(net)* The digest confirms the vault's layer map and adds the honest materiality caveat by accident. Watch-items added: verify
   PANW-Portkey; labs launching their OWN "smart routing" (fighting for the switchboard seat = defender tell #2); first public
   disclosure of gateway/routing revenue as a line item (the thesis becoming measurable). [[compression-thesis]], [[ai-infra-allocation-map]].
+
+- *(update 2026-07-25 ~9:05pm PT — PANW-Portkey VERIFIED by Jake; the flag above stands corrected)* ✔️ Jake checked: the
+  Portkey–Palo Alto association is real. Upgrade it from hallucination-risk to **the first incumbent LAND-GRAB receipt**: an
+  incumbent paid real money for a gateway seat whose standalone revenue is trivial — you don't acquire a rounding error unless
+  you're buying the CONTROL POINT's optionality. The acquisition itself is evidence the seat matters (revealed preference, same
+  logic as the defender-classification test).
+- *(Jake's pushback — "isn't small revenue the point?" — graded: half right, and the half matters)* His claim: smallness = early,
+  and the need is "already urgent" (open-source growth + arbitrage accelerating). **Where he's right:** (1) revenue-smallness
+  rebuts the TICKERS as current expressions, not the THESIS — early-and-small is exactly where mispricing lives; (2) ★ the
+  open-source angle is sharper than the digest's: open-weight models have NO first-party app/console/enterprise channel — a
+  gateway/orchestrator is their ONLY distribution into enterprises. DeepSeek's price only becomes USABLE through a routing layer
+  with fallbacks/evals/governance → **every point of open-source share growth is structurally routed THROUGH this layer. The
+  routing layer is open-source's distribution channel** — its volume grows with the commoditization itself. (3) One digest
+  correction he's implicitly making: models don't talk to each other — the layer is app-to-many-models (plus emerging standards:
+  MCP for tools/context, agent-to-agent protocols) — and that's precisely why the horizontal seat exists at all.
+- *(where the counter-discipline holds — urgency ≠ pricing power)* Two different smallnesses: small-because-EARLY (grows into
+  value) vs small-because-THIN (grows in volume, never in margin). Urgent + universal needs get commoditized FASTEST when open
+  source serves them (the urgency is WHY LiteLLM exists and is free — air is urgent, air is unpriced). Telecom rhyme: dial-around
+  long-distance arbitrage was urgent and huge-volume and captured ~nothing durable. The counter-precedent that says routers CAN
+  win: exchanges and payment networks (Visa, NYSE) — routing seats that held take-rates via two-sided network effects + trust +
+  billing aggregation. **The contested variable is not need (certain) or volume (certain) — it's TAKE-RATE.**
+- *(★ the falsifiable line, registered)* Does ANY routing seat HOLD a take-rate as volume explodes: OpenRouter's fee holding vs
+  compressing to zero · PANW's attach-pricing on Portkey-routed flows · NET monetizing AI Gateway beyond loss-leader · a
+  disclosed routing-revenue line item anywhere. Take-rate holding = exchange economics (Jake's read wins); take-rate → 0 =
+  switchboard economics (the thin-proxy read wins). Grade as disclosures land. [[compression-thesis]].
