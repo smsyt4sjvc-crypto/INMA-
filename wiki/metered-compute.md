@@ -647,3 +647,20 @@ Anthropic-pricing reads scored with that disclosed, same symmetry rule as the Sa
   architecture. The closed labs' worst topology, drawn as a diagram. ⚠️ Discipline: reference-design integrations are cheap
   paper (NVDA "partners" promiscuously; non-exclusive) — the receipt = actual enterprise-factory deployments with Control Tower
   ATTACHED (deployment counts/attach disclosures, not the press release). [[ai-capex-cycle]], [[reflection-ai]] (NVDA seeding pattern).
+- *(addendum 2026-07-25 ~10:46pm PT — Jake closes the loop: the Huang open-source SPECTACLE was the demand side of the
+  integration-layer grab)* His claim: Huang didn't stage the letter/first-X-post theater without intending to OWN the layer
+  the commoditized models flow through. Graded: RIGHT, with one refinement. **The campaign and the product are a pincer:
+  the letter = demand side (make free models legitimate/mainstream/policy-safe); the AI Factory + NIM + Nemotron + blueprints
+  = supply side (be the only enterprise-grade way to DEPLOY them).** Open weights ≠ open stack — the weights are free, the
+  deployment rails (NIM microservices at per-GPU license, serving software, reference designs, CUDA beneath) are proprietary
+  NVIDIA. Free-weights-in, paid-runtime-out = the one-way valve in commercial form. He didn't sign as a philosopher; he
+  signed as the distributor. Fits the logged openness-map-inverse-of-moat-map law — and the letter coalition re-read: sellers
+  of ATOMS (chips/compute/robots — Huang, Musk) advocating free BITS (models) = the compute-sellers' coalition, exactly who
+  benefits when the layer above the silicon commoditizes.
+- *(the refinement — "own" means own the RAILS, not the seat)* NVDA can't own integration exclusively (NOW, clouds, Palantir
+  share the governance seat — hence the Factory PARTNERSHIP with NOW, not competition): its version of ownership = make every
+  path to open-model deployment pass through NVIDIA packaging on NVIDIA silicon, monetized per-GPU regardless of who governs
+  above. ⚠️ Symmetry discipline: the commoditization gun eventually points at every software layer — open serving stacks
+  (vLLM/SGLang, free) are to NIM what open weights are to closed models. NVDA's software attach is a growth story; the durable
+  toll remains silicon+CUDA. Watch: NIM/AI-Enterprise attach-rate disclosures vs open-serving adoption = the same
+  protocol-vs-platform grade, third layer down. [[compression-thesis]], [[ai-capex-cycle]].
