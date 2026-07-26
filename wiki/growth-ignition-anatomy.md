@@ -81,3 +81,19 @@ from which the 3x completed within 756 td (first buyable day), NO condition on i
   early ("it's barely beating SPY"); the washout 3x is violent both ways. Different temperament per cohort.
 - *(both cohorts share the holding cost)* Max pullback inside the first 6mo: −16 to −22% median across ALL cohorts —
   correction-sized drawdowns are the toll on every path to a 3x, from-strength included.
+
+### Live zone reading — 2026-07-25 ~7:30pm PT (prices through Fri 7/24 close; Jake's "who's in the zone now?")
+DATA: **Of Jake's named list, only LLY is in the STRENGTH zone** (−3.2% off ATH, +18% vs 200-SMA, RSI 57). The AI complex
+is OUT of it: NVDA −12.2% (pullback, closest), AVGO −20.6%, GOOGL −20.5%, VRT −22.8%, LITE −27.5%, MSFT −29.1% (⚠️
+surprising size — Jake verify on-platform), CEG −31.8%, TSLA −36.1%, CRWV −60.8% (non-S&P; separate pull). Index-wide:
+182/498 (37%) within 10% of ATH; **132 match the full cohort-median profile — dominated by utilities (D/SO/DUK/NEE/AEP/
+ETR/EXC...), financials (GS/MS/C/V/MA/BRK-B), industrials (ETN/PH/GE/DE/HON), staples/pharma (KO/PM/MRK/JNJ/LLY) — plus
+the surviving AI-adjacent: ANET, DELL, EQIX, PANW.** THESIS: the strength zone is currently occupied by the ROTATION
+(equal-weight complex), not the AI leaders — [[market-fragility]]'s whole-index rotation read from a fourth angle. Per
+V2's own finding the zone itself is ~noise (looks like control); the theme is the selector — the theme-rich residents =
+the power-utility cluster (power-not-petroleum in utility form), LLY (GLP-1), ANET/DELL/EQIX (AI-adjacent still standing).
+The rout moved Jake's AI names into the WASHOUT/PULLBACK cohorts where the OTHER playbook applies (capitulation
+fingerprint → reclaim sequence): CEG = mid-reclaim already (+7.7% above its 20-SMA, RSI 61 = a live [[deep-value-reclaim]]
+candidate); GOOGL approaching capitulation reads (RSI 32.5); **TSLA = the drift-profile warning** (RSI 28 but relvol only
+78% = quiet bleed, no capitulation volume — STUDY 2's LOSING cohort); CRWV's referee is the credit tape (CDS ~700), not
+the chart. Base-rate discipline: 16% of 3x runs came from the strength zone; zone residency alone predicts ~nothing.
