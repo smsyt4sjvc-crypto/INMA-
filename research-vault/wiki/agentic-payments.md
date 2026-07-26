@@ -42,3 +42,29 @@ The whole "settlement = stablecoins not alt coins; own the public infra layer (C
 ORIGINAL April-2026 framework (`raw/2026-04-jake-x402-metered-compute-report.md`), confirmed by Stripe Sessions (May 7,
 `raw/2026-05-07-jake-stripe-sessions-x402-confirmation.md`). The FT piece (Jul 21) is a later, less-disciplined restatement
 that pushes alt coins where Jake correctly pointed at COIN + stablecoin float + physical bottlenecks. Full thesis: [[metered-compute]].
+
+### 2026-07-25 ~6:52pm PT — SAMSUNG WALLET goes NATIVE STABLECOIN (USDC interface demoed, NO issuer partner named): the distribution layer arrives — with the float fight unresolved
+#### DATA (as-reported; Jake paste 7/25)
+- Samsung: Samsung Wallet will support "new forms of digital value" incl. stablecoins — claims "one of the first major
+  mobile brands" to do so natively. **Reportedly demonstrated a USDC interface** (send / receive / top-up). **No issuer
+  partner announced.** Samsung = world's largest smartphone maker, **1B+ active devices**.
+- Context: Samsung's SECOND major announcement in ~24h (AVGO $200B MOU 7/24, [[compression-thesis]]) — an announcement
+  offensive timed to the ROK president's US visit. Same summit-diplomacy discount applies to framing (not to the feature).
+#### THESIS (interpretation — NOT fact; analysis)
+- *(the thesis's missing piece arrives)* Jake's April framework said settlement = stablecoins + own the float/toll; the
+  gap was always DISTRIBUTION (how does USDC reach a billion normal people + their agents). Native OS-level wallet on 1B
+  devices = the largest distribution rail stablecoins have ever been offered — bigger than every crypto wallet combined.
+  Phones are also where the AGENT lives → the x402/MPP endpoint ships in the default wallet. Structural confirmation.
+- *(★ but WHO gets the float — the demo is NOT a Circle win yet)* The interface shown was USDC (Circle's coin) — good
+  sign for CRCL (Jake holds) — but **no issuer partnership was announced**, and that absence is the live fight: the
+  telecom/OTT lesson ([[compression-thesis]]) cuts AGAINST the issuer here — value accrues to whoever OWNS THE CUSTOMER
+  INTERFACE, and that's Samsung. Branches: (a) Circle partnership → CRCL float scales with 1B devices (the bull print);
+  (b) Samsung white-labels its own or a bank-consortium coin and USDC is just the demo plumbing → the device layer
+  captures the float and issuers get commoditized to rails; (c) multi-issuer neutral wallet → float goes to whoever has
+  the regulatory moat + network effects (Circle's actual edge). **Watch-item, gradeable: the issuer announcement.**
+- *(competitive cascade)* "First major mobile brand" is a dare aimed at Apple. If Apple Wallet follows, native stablecoin
+  becomes a default smartphone feature within a cycle — the float TAM reprices for every issuer regardless of who wins
+  Samsung. The feature spreading matters more than the brand that moved first.
+- *(discipline)* A demo + a claim, not a shipped product with an issuer contract; "reportedly demonstrated." Weight
+  capped accordingly — same instrument-discipline as the AVGO MOU. Receipts = the issuer deal, the ship date, and
+  eventually float/circulation data (Circle discloses circulation weekly). [[metered-compute]], [[compression-thesis]].
