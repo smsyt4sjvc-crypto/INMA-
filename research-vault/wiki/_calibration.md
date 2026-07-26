@@ -362,3 +362,28 @@ Source: FT Alphaville weekly (Bryce Elder), 7/24. The week's key calibration cat
   oil-inflation/credit/enterprise-demand/open-source/power). Multi-domain SIMULTANEOUS deterioration = a system not a squall = genuinely stronger than
   single-domain, and NOT spin-able (it's not one story, it's the correlation of many). Jake's right to weight the density. Still an odds-shader (raises
   odds + confirms fragility), not a trigger (can't time it / guarantee it's THE one). Velocity+breadth = stressed system, odds up; trigger = it broke.
+
+##### 2026-07-25 ~8:30pm PT — the Buffett/Burry viral post (Jake: "Conjecture. But still..") — the bear thesis is now MEME-FORMAT; what survives scrutiny vs what doesn't
+- *(the paste — as-reported, unverified quotes)* Viral-format post: Buffett 1999 "euphoria is the enemy" → dot-com −78%; 2026
+  "never had people in a more gambling mood," $400B cash, "zero new purchases"; Burry "reportedly" $1B AI short, "feels like 1999";
+  "Two of the greatest... The same year. The same warning." + engagement-farming close ("Not financial advice. DYOR").
+- *(fact discipline — what's stale/garbled in it)* (1) Berkshire's cash pile + net-selling streak have been PUBLIC for ~2 years —
+  nothing "just" happened; (2) Buffett handed the CEO seat to Abel (announced May 2025, effective Jan 2026) — attributing 2026
+  purchase decisions to "Buffett" is partly wrong on its face; (3) the Burry "$1B short" = the Nov-2025 13F disclosure (NVDA/PLTR
+  puts) — 13Fs show NOTIONAL not premium-at-risk (actual capital far smaller), the filing is ~8 months stale, and Scion
+  deregistered — the position's current existence is UNKNOWN; (4) quotes unverified/paraphrase-grade.
+- *(the 1999 half the post buries)* Buffett's 1999 warning was RIGHT and cost him ~3 YEARS of pain first — BRK ~−44% while the
+  Nasdaq doubled, "What's Wrong, Warren?" (Barron's, Dec-99). The historical precedent the post cites is itself the proof that
+  sage-positioning is a STATE, not a timing signal. Burry's base rate: legendary 2008, then repeatedly early/wrong (2015-2023
+  top calls). Fame filters for the one trade that worked.
+- *(what SURVIVES — the flows, as states)* Berkshire as persistent net seller + no buybacks (won't buy even ITS OWN stock = the
+  cleanest valuation statement available from the cleanest actor) + T-bill mountain = a real, standing valuation-state datum from
+  the least-narrative actor alive. It shades odds. It times NOTHING (same posture held through 2016-19 while the market ran +60%;
+  cash at ~4-5% carry = a paid option, not a crash bet).
+- *(★ the calibration point — the post's EXISTENCE is the datum)* FT Alphaville → Jefferies → Dowd → now RETAIL MEME FORMAT: the
+  bear thesis has completed the descent from research note to engagement content in ~a week. When the bear case is a meme, the
+  SEEING edge is gone (consensus holds the thesis); what remains is the EXECUTION edge (triggers + survival). Two-sided: consensus-
+  bear = squeeze fuel (GS washed-out positioning) AND 2000 proves consensus can be right at the end. Resolution unchanged: states
+  don't pick the date — the registered triggers do (widen→no-bid, capex-cut language 7/29-30, refi fails, frontier cadence).
+- *(Jake's own header was the right one)* "Conjecture. But still.." = correctly holding it at texture weight. Logged as
+  consensus-saturation data point #4. [[market-fragility]], [[bull-bear-ledger]], [[ai-financing-fragility]].
