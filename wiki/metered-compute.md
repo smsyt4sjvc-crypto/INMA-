@@ -634,3 +634,16 @@ Anthropic-pricing reads scored with that disclosed, same symmetry rule as the Sa
   quarter (the trough math becoming visible or not); (2) an open GOVERNANCE/agent-identity protocol emerging = moat-thinning
   tell; (3) MSFT Agent 365 moving from integration to displacement vs NOW; (4) Action Fabric third-party adoption (external
   agents routing actions THROUGH NOW = the toll actually collecting). [[compression-thesis]], [[ai-financing-fragility]].
+- *(addendum 2026-07-25 ~10:43pm PT — Jake flags THE sentence: "Control Tower became integrated with NVIDIA's Enterprise AI
+  Factory design")* Unpacked, it's load-bearing three ways: **(1) written into the blueprint = distribution** — NVIDIA's
+  Enterprise AI Factory is a reference architecture; NOW's governance layer being IN the design means every enterprise that
+  buys the factory recipe gets pointed at ServiceNow (spec-sheet distribution, the strongest kind). **(2) NVDA's motive = demand
+  diversification away from hyperscaler concentration** — the vault's core NVDA fragility is ~5 buyers' capex; on-prem/sovereign
+  enterprise "factories" = the seller BUILDING its second demand wave (same pattern as its ecosystem equity: seed the next buyer
+  class). Two-sided: smart hedging AND a revealed-preference tell (you build a second demand base fastest when you doubt the
+  first's durability). **(3) the sandwich topology** — NVDA (open Nemotron + commoditized inference BELOW) + NOW (governance/
+  context ABOVE) squeeze the model layer between them: NVDA wants models FREE (sells compute), NOW wants models INTERCHANGEABLE
+  (sells governance) — the two companies whose interests align perfectly on model commoditization, now shipping as one
+  architecture. The closed labs' worst topology, drawn as a diagram. ⚠️ Discipline: reference-design integrations are cheap
+  paper (NVDA "partners" promiscuously; non-exclusive) — the receipt = actual enterprise-factory deployments with Control Tower
+  ATTACHED (deployment counts/attach disclosures, not the press release). [[ai-capex-cycle]], [[reflection-ai]] (NVDA seeding pattern).
