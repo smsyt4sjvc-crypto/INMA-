@@ -92,3 +92,19 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
   REVERSIBLE (June-2019 precedent: called off "10 minutes out," escalation later resumed); talks resumed ≠ deal. Checkpoints
   #2-4 still open: does oil off-ramp at the Sun 3pm PT crude open; does equity relief-or-sell-capex; does the tug-of-war
   (relief vs capex-financing stress into META/MSFT/AMZN week) resolve in the VIX pop.
+
+### 2026-07-26 — Windward: Hormuz traffic NEAR-EMPTY; sole inbound ran DARK via the NORTHERN corridor (behavioral confirmation of the southern-corridor mining claim)
+- DATA (Windward @WindwardAI, neutral tanker-tracking, window 18:00 UTC 7/25 → 06:00 UTC 7/26 = 11am-11pm PT Sat; Jake paste
+  Sun ~9:28am PT): **ONE inbound tanker in 12h (LPG, in ballast) — went dark mid-run, assessed to have used the NORTHERN
+  corridor; ZERO completed outbound transits.** One oil/chemicals tanker mid-transit outbound (~280,800 bbl gasoil, Bandar
+  Mahshahr→Fujairah). Windward's read: "vessels are routing around the southern corridor, not moving through a normalized
+  strait." Routing consistent with the IRGC 7/22 claim that the southern corridor is MINED. (Baseline for scale: 7/18 data
+  had crossings already down to ~8/day, 7 of 8 hugging the Iran-side lane; prewar Hormuz ~20Mb/d.)
+- 🟠 `[SHOULD-MOVE]` (upgrade candidate to 🔴 at today's 3pm PT crude open) — **the closest DATA yet to tell (c): a DE FACTO
+  closure forming by mining-deterrence, observed not declared.** Discipline splits: the IRGC mining claim stays a CLAIM;
+  the observed routing behavior = neutral DATA that shippers/insurers are ACTING as if it's true — and flows price on what
+  masters believe, not on what's confirmed. ⚠️ One 12-hour weekend window = small sample; grade on the next 24-48h of
+  windows + the live tracker. **Timing collision: the strait emptied DURING the stand-down weekend** — the diplomatic
+  off-ramp fired while physical throughput collapsed. Reframes the Oman "reopening" talks: they exist BECAUSE it is closing —
+  the stand-down wasn't generosity; the strait is already delivering Iran's leverage. Today's crude open no longer grades
+  de-escalation alone — it grades the TUG (stand-down bearish vs near-empty Hormuz bullish).
