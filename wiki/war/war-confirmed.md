@@ -177,3 +177,42 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
   (the flip) it also VALIDATES Tehran's "tactical pause" read and weakens US leverage AT the table — a constraint-driven
   pause invites Iran to harden terms. Also degrades the credibility of the "locked and loaded" resume-threat that anchors
   the strike-then-deal frame. Watch: US munitions/industrial-base headlines; any tempo change if strikes resume.
+
+### 2026-07-26 — Windward WEEKLY (full report): CENTCOM blockade tally OFFICIAL (12 redirected/2 disabled/2 boarded); Houthi blockade of Saudi cargo w/ CHINA CARVE-OUT; Yanbu fully dark; Kharg queue builds at empty berths; Gulf dark activity 4-yr high
+- DATA (Windward weekly, Jake paste ~11:58am PT Sun; report data through 7/26):
+  **BLOCKADE (official):** CENTCOM's own post (7/25): "The U.S. naval blockade against Iran remains in full effect... redirected
+  12 commercial vessels, disabled 2 that didn't comply, boarded 2." → upgrades the blockade from Windward-framing to
+  CENTCOM-OFFICIAL. **CHARMINAR boarded and RELEASED** — sanctioned, STATELESS (Comoros-expelled), laden with Iranian diesel —
+  fraudulent docs "sophisticated enough to pass CENTCOM's verification" = the blockade is POROUS to good paperwork.
+  **RED SEA FRONT:** Houthis resumed 7/22 (ending a ceasefire held since SEPT 2025) after Saudi strikes on Hodeidah; formal
+  **Houthi maritime blockade on Saudi-origin cargo effective 7/20** + a "hit list" of Saudi-related vessels. 4 vessels hit/
+  affected: ENCELIA (7/22), LAYLA (claimed, unconfirmed), **NCC MASA (Saudi products tanker, ~215k bbl diesel, STRUCK 7/24
+  despite being AIS-dark since 7/19 — dark ≠ safe; targeting is intelligence-based)**, + MT LAVINE (blockade, separate).
+  **Jizan refinery = 400k b/d ≈ 4% of Aramco output**; 5 thermal anomalies eastern half. Yanbu: **GREEK air-defense systems**
+  intercepted 2 ballistic missiles; debris plume only.
+  **YANBU DARK TRANSITION (EO-documented):** May baseline 9 AIS-active/5 dark at berth → 7/26: **14 dark, ZERO AIS-active**.
+  Loadings 5.16M → 3.09M b/d (−40%); South Korea flows → ZERO; Egypt 1.15 → 1.60M b/d (SUMED). **Reroute cost ~$9/bbl**
+  (Korean major, $18.5M/280k t; Sokhna→Sidi Kerir→Cape of Good Hope; 5 VLCCs at Ain Sokhna).
+  **★ THE CHINA CARVE-OUT:** Houthis exempt Chinese/Russian-linked vessels — 3 Chinese VLCCs transited Bab al-Mandeb without
+  incident 7/23-24, one carrying **2M bbl of YANBU-loaded crude, AIS ON, to Ningbo**, while Western-linked shipping goes dark
+  or detours. Bab al-Mandeb overall holding (17/14 vs 20/19).
+  **GULF DARK ACTIVITY = 4-YEAR HIGH:** 43 crude tankers w/ AIS gaps (7/15-22, baseline 35; 3rd consecutive outlier: 41→29→43);
+  clusters incl. a 13-vessel Korean operator, 4 NITC, **4 ADNOC, 2 Saudi-state** (allied national fleets running dark); 51%
+  laden; ~⅓ of regional tankers not transmitting at all.
+  **KHARG:** waiting area 24 dark tankers (7/26, up from 21; range 16-24) while **ALL terminals sat EMPTY** — queue building,
+  throughput ~zero. Larak: 2 confirmed leaking tankers (KAVOMALEAS bunker leak from attack damage; an unidentified dark tanker
+  parked since MAY with an active slick).
+  **EU 21st package:** +41 vessels (→673), first crewing-agency designation, 8 ship managers, Guyana-registry architect;
+  price cap frozen $44.10 to Jul-2027; full maritime-services ban SHELVED (Greece).
+- 🟠 `[SHOULD-MOVE]` (composite) — three structural reads the −5% weekend proxy is NOT pricing:
+  **(1) A TWO-TIER OIL MARKET is being physically built:** China/Russia-linked hulls move Gulf crude freely (carve-out + shadow
+  fleet + porous blockade); Western-aligned barrels pay $9/bbl detours, run dark, or wait. Crude increasingly sorts by
+  ALIGNMENT, not price — the war-tax is asymmetric by buyer. Barrels still move (the razor holds) but the FRICTION is
+  bifurcating the freight market.
+  **(2) THE MARKET IS GOING DATA-BLIND:** when ADNOC and Saudi-state fleets run dark and ⅓ of the Gulf stops transmitting,
+  the AIS-based supply data the market prices on degrades systemically → wider surprise bands, bigger repricings when truth
+  surfaces. Dark ops don't even protect (NCC MASA) — they just blind the tape. Vol amplifier, unpriced.
+  **(3) ALL THREE major Gulf sellers are degrading at once:** Iran = queue at empty Kharg berths (blockade working), Iraq =
+  Basrah suspension (7/16), Saudi = −40% Yanbu + bifurcated routing. The supply picture is worse than any single headline —
+  while the tape prices the reopening path. The asymmetry: talks succeed → current price justified; talks fail → THIS
+  physical picture reprices at once. [[demand-destruction]], [[oil-value-chain]] ($9/bbl = the toll thesis literalized).
