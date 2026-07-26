@@ -139,3 +139,19 @@ crossing of it.* Watch items: Kuwait-facility ID · Kharg/Saudi-terminal strike 
   zero-tanker Hormuz + blockade hardening + bypass degrading + 3 laden runners at the line. The print = the market's weighting
   of diplomatic momentum vs physical reality. Log it against checkpoint #2 with the caveat that the call's "de-escalation"
   thesis fired on the political layer while the PHYSICAL layer moved the other way — grade the oil leg on the price, not the narrative.
+
+## UPDATE — 2026-07-26 ~11:50am PT (Sun, ~3h to crude open) — off-ramp HARDENING: reciprocal stand-down confirmed; weekend proxy crude −5%; new vectors logged
+- **OFF-RAMP: strongest state of the war.** Stand-down now CONFIRMED (Pentagon, 2 nights, no attacks either side), RECIPROCAL
+  (Iran "attack for attack" formalized via Reuters), with Oman talks reporting "some progress" on Hormuz navigation mechanisms.
+  Checkpoint #1 fully confirmed. **Weekend crude proxy −5% = the market's early answer to yesterday's tug: diplomacy outranks
+  the zero-tanker present — it's pricing the REOPENING path.** Official referee = 3pm PT CME open.
+- **Frictions on the off-ramp:** Telegraph munitions-low report (pause partly forced → durable BUT weakens table leverage +
+  feeds Tehran's "tactical" skepticism) · Ukraine's Caspian strike mid-talks (spoiler vector, not Washington's doing) ·
+  **Netanyahu at the White House TUESDAY 7/28** (the Israel pressure vector arrives in person, same day the FOMC starts —
+  added to the stacked-week map) · Houthis still firing (Jizan/Yanbu Sat; UKMTO projectile-splash near a tanker Sun; Bloomberg
+  version softer than Windward's thermal data — both logged, claims vs sensors kept separate).
+- **Sell-side chorus now loud** (GS $120+ if chokepoint deepens; RBC "above 2008 peak" risk; HSBC squeeze; Dalio "decisive
+  clash imminent") — consensus catching up to the board's own framework = discount as texture, the price is the referee.
+- **Structural counter-theme registered:** the pipeline-rewiring stack (7 bypass projects, US-backed Iraq-Syria line, Dubai
+  east-coast port) = the long-clock erosion of Iran's Hormuz leverage — every month of war ACCELERATES the bypass buildout,
+  shrinking the very leverage Iran is spending. The war is consuming its own principal asset.
