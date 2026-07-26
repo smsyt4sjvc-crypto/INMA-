@@ -528,3 +528,30 @@ Anthropic-pricing reads scored with that disclosed, same symmetry rule as the Sa
 - *(read 3 — the telecom map again)* Models = minutes (commoditizing) · clouds = carriers surviving on volume · orchestration/
   workflow = the over-the-top contract-owners · the router = the switchboard: necessary, powerful, historically LOW-margin.
   [[compression-thesis]] (telecom/OTT), the "half" + prompt-compiler entries above; Jake's NOW = the layer-4 expression.
+
+##### ROUTING-LAYER → TICKERS (Jake's offloaded digest, 2026-07-25 ~8:55pm PT): NET/PANW/NOW/IBM/MSFT/DDOG ranked — graded against the vault's own reads + Friday's tape
+- *(source discipline)* Offloaded AI research digest (per playbook). Mostly accurate landscape (Foundry Model Router, Bedrock
+  Intelligent Prompt Routing, watsonx Orchestrate, Cloudflare AI Gateway, DDOG LLM-observability = all real). **⚠️ UNVERIFIED
+  claim: "Portkey, now associated with Palo Alto Networks"** — not in my knowledge (PANW did buy Protect AI '25; Prisma AI real);
+  could be a 2026 event or a hallucination. VERIFY before it carries any weight. Every public name's risk note admits routing =
+  a rounding error of revenue — collectively that's the confession: **no public company has material routing revenue; this is a
+  2028-revenue-mix thesis packaged as a 2026 buy list** (same genre as the x402 alt-coin piece: real infrastructure thesis,
+  sell-side conclusion; the pure-plays are all private).
+- *(grading the ranking against our own framework)* Digest ranks NET #1 as "neutral tollbooth" — but our read-2 (proxy is THIN,
+  LiteLLM free, gateways charge bps) cuts the tollbooth thesis: NET's actual model = give the gateway away to sell
+  security/edge around it (adjacency, not toll). The framework's own #1 is **NOW (layer-4)**: sells the OUTCOME unit while
+  arbitraging model inputs beneath = input deflation lands as SOFTWARE MARGIN — the compression-thesis position Jake already
+  holds, independently derived months earlier. DDOG at #6 is under-ranked by our read (evals/observability = the procurement
+  function; DDOG is the ONLY public name in that seat — Braintrust/Langfuse/Arize private). MSFT = not just platform but the
+  biggest ARBITRAGEUR (Kimi-into-Copilot = executing inference arbitrage at scale against its own partner's pricing).
+- *(the tape's verdict on the six — Fri 7/24 close, our data)* **NET −7.0% off ATH (+23.7% vs 200-SMA, STRENGTH zone) · PANW −9.7%
+  (+53% vs 200, STRENGTH — was in Friday's 132-name cohort scan) · DDOG −11.0% (+49.8% vs 200, edge of strength)** — the market
+  is ALREADY paying the routing/observability/security layer the compression premium. **vs NOW −57.8% off ATH (WASHOUT, basing:
+  −4.7% vs 20-SMA, RSI 46) · IBM −34.9% (washout, relvol 156% = capitulation-grade volume after the 7/14 AI-spend-shift −25%) ·
+  MSFT −29.1% (washout).** The split is the thesis priced vs unpriced: the market believes the SMALL pure-adjacency names (NET/
+  PANW/DDOG near highs) and DOUBTS the big-platform versions (NOW/IBM/MSFT in washout — where "AI eats software seats" fear +
+  capex stress dominate). ⚠️ NOW −58% off ATH = Jake's holding sits in the washout cohort; its routing-thesis case is the
+  recovery case (descriptive, his call).
+- *(net)* The digest confirms the vault's layer map and adds the honest materiality caveat by accident. Watch-items added: verify
+  PANW-Portkey; labs launching their OWN "smart routing" (fighting for the switchboard seat = defender tell #2); first public
+  disclosure of gateway/routing revenue as a line item (the thesis becoming measurable). [[compression-thesis]], [[ai-infra-allocation-map]].
