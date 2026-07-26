@@ -216,3 +216,17 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
   Basrah suspension (7/16), Saudi = −40% Yanbu + bifurcated routing. The supply picture is worse than any single headline —
   while the tape prices the reopening path. The asymmetry: talks succeed → current price justified; talks fail → THIS
   physical picture reprices at once. [[demand-destruction]], [[oil-value-chain]] ($9/bbl = the toll thesis literalized).
+
+### 2026-07-26 — Polymarket "US-Iran effective ceasefire by Aug 31" jumps to 75% (+26pts) — the second neutral referee votes with the weekend crude proxy
+- DATA (Polymarket via ZH screenshot, Jake paste ~12:57pm PT Sun; $3.85M volume): "US x Iran Effective Ceasefire by August 31?"
+  at **75%, +26 points** — was ~50-55% July 20-25, spiked ~70% on the 7/25 stand-down, dipped ~60%, now 75%. (ZH headline says
+  odds "jump 50%" = the RELATIVE jump (50→75); absolute = +25-26pts — the framing inflates, same relative-vs-absolute
+  denominator game the vault logs elsewhere.) ZH's own tone: "Back to square one... ceasefire optimism soars (AGAIN)."
+- 🟡 `[ODDS-SHADER]` — two independent price referees now agree (weekend crude −5%, deal-odds 75%): **the market prices the
+  reopening path.** Calibration note for the scoreboard: **Jake's de-escalation call was registered 7/23 with this market at
+  ~50% — he front-ran a liquid prediction market's repricing by ~2-3 days** on the predicate/strike-then-deal framework.
+  Genuine seeing-edge datum. Discipline on the other side: the chart itself shows headline-whipsaw (70→60→75 inside 36h), the
+  June ceasefire already collapsed once (ZH's "again" is earned), and the residual 25% carries the ENTIRE degraded physical
+  picture (zero tankers, active two-sided closure, a 4-day-old accelerating Houthi front, 3 laden runners at the blockade
+  line, Netanyahu in DC Tuesday). 75% = the consensus is now Jake's position — per [[_calibration]], the seeing-edge is spent;
+  what remains is execution (the registered checkpoints and triggers). Crude open ~2h = the harder referee.
