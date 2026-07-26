@@ -119,3 +119,23 @@ crossing of it.* Watch items: Kuwait-facility ID · Kharg/Saudi-terminal strike 
   stand-down = the market ruling the physical trumps the diplomatic (tell (d) advancing); a bleed = market betting the talks
   reopen the strait fast. **Whichever way it prints, the print is the market's verdict on which referee outranks the other** —
   log it against Jake's checkpoint #2 accordingly (his call graded on oil off-ramping: the Hormuz data is the new headwind to it).
+
+## UPDATE — 2026-07-26 ~9:30am PT (Sun, ~5.5h to crude open) — ★ FULL TRACKER PULL REWRITES THE BOARD: US BLOCKADE + ZERO TANKERS + ORDNANCE INSIDE SAUDI OIL COMPLEXES
+- **(c) CLOSURE: EXECUTED IN EFFECT (🔴).** Zero tanker transits either direction (24h to 7/25); "fully suppressed" (Windward
+  MIOC). Mechanism TWO-SIDED and the board had only half: Iranian southern-corridor mining claim + **an active US naval
+  BLOCKADE line with disabling-fire enforcement** (MT LAVINE 7/24, prior tanker 7/17 — the vault had mis-filed enforcement as
+  generic strikes). Both belligerents are closing the strait simultaneously for opposite reasons.
+- **(b) hull-stopped: FIRED IN VARIANT** (US disabling fire, ballast runner). FULL-form setup live: 3 laden tankers (2.4M+ bbl,
+  one VLCC ~2M) holding 50-60nm off the blockade line positioned to run it — disabling fire on a LADEN VLCC = the spill +
+  escalation + true hull-stop event in one. **The single biggest event-risk of the week.**
+- **(a) export-terminal strike: ADVANCING, formally unfired.** Houthi missiles INSIDE Jizan refinery (5 thermal signatures);
+  Yanbu debris near-miss; **Yanbu (the Hormuz-BYPASS terminus) loadings −40% since 7/19** → Saudi export capacity squeezed at
+  BOTH ends; Sumed/Egypt detour activating. Bab-el-Mandeb still flows (17/14) = the one chokepoint holding.
+- **THE RECONCILIATION (stand-down vs siege):** checkpoint #1's stand-down applies to STRIKES ON IRAN; the blockade — the
+  economic war — is ACTIVE and hardening (kinetic enforcement began 7/17, first-of-kind 7/24). De-escalation is real but
+  NARROW. Oman talks = negotiating two closures at once (Iran's mining + America's blockade). A deal that lifts both = huge
+  oil-bearish snap; talks failing with this posture = the (d) gap's precondition already in place (physical throughput ~0).
+- **3pm PT open: the tug, now with full information.** Bearish leg: stand-down + talks + Saudi rerouting working. Bullish leg:
+  zero-tanker Hormuz + blockade hardening + bypass degrading + 3 laden runners at the line. The print = the market's weighting
+  of diplomatic momentum vs physical reality. Log it against checkpoint #2 with the caveat that the call's "de-escalation"
+  thesis fired on the political layer while the PHYSICAL layer moved the other way — grade the oil leg on the price, not the narrative.
