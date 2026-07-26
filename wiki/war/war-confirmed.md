@@ -251,3 +251,11 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
   bonds bid + dovish-FOMC room (decision Wednesday) → growth/tech leads. NOTE: gold did NOT give back war premium alongside
   crude — it rose. The bid rotated from fear to rate-cut/debasement, not away. Checkpoint #3's relief leg = CONFIRMED in
   futures; the graded question is whether Monday's CASH session holds it through the capex tug (APLD after close).
+- *(addendum 2 — Jake paste, evening session deepening)* **WTI −8.0% (~$82) · Brent −6.0% (~$91) · NQ +1.2% / ES +0.7% /
+  Dow +0.6% · Gold +0.7%.** Three notes: (1) the bleed ACCELERATED into the Asia handoff (WTI −5.2%→−8.0% in ~an hour) —
+  the market has moved from pricing premium-out to **pricing the DEAL itself** ("peace deal" framing) — which front-loads
+  the sell-the-news risk on an actual deal AND deepens the re-load snap if talks break ($82 WTI vs a zero-throughput
+  strait). (2) **Brent-WTI spread WIDENING** (~$7 → ~$9) — WTI dumping harder than the seaborne barrel that actually
+  transits Hormuz; the geopolitical premium is stickier in Brent than the headline move suggests. (3) **Gold UP 0.7% while
+  crude crashes 6-8%** — the dissonance strengthened: the metal is trading the RATE-CUT/debasement leg, not the war leg.
+  Equity relief remains tech-led (NQ 2x ES) = the dovish-room chain, pre-trading Warsh.
