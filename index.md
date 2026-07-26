@@ -75,6 +75,7 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 - [[structural-pull-log]] — weekly positioning/filings baseline
 
 ## 🔬 Studies / screens / synthesis
+- [[deep-value-reclaim]] — Jake's screen: furthest under 200-SMA + reclaimed 20-SMA (21% CAGR but survivorship-flattered, worse Sharpe than SPY; the 20-day filter is the finding)
 - [[dip-buying-base-rates]] — the ruler for adding on weakness (war down-day + weekend base rates + ATH-drawdown ruler; SPY/QQQ)
 - [[who-gets-paid-12m]] — the next-12-months synthesis
 - [[cluster-shortlist-workup]] — E-path workup on the 15 names
@@ -93,6 +94,7 @@ Edge/premium: `vol_risk_premium.ipynb`, `vol_risk_premium_decay.ipynb`, `passive
 `body_momentum_carry.ipynb`, `sma_20_50_regime_backtest.ipynb`, `memory_intraday_close.ipynb`,
 `median_line_dip_study.ipynb` (straight LAD/median trend vs SMA/%-off-high/rolling-median as a dip trigger),
 `median_fan_drawdown.ipynb` (10/5/2y median-line fan; drawdown-depth ruler + acceleration),
+`deep_value_reclaim.ipynb` (Jake's deep-value screen backtest: furthest-under-200-SMA + above-20-SMA, monthly rebalance vs SPY + today's-picks cell — survivorship caveat baked into the header),
 `sector_brain.ipynb` (sectors as a firing correlation network; animation + running record for rotation/stress),
 `financial_gravity.ipynb` (tests 'SPX / Fed balance sheet is flat since 2008' — FRED + yfinance, QE vs QT split),
 `sec_hyperscaler_scanner.ipynb` (pulls real SEC EDGAR XBRL + full-text search, no key/token — hyperscaler
