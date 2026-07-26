@@ -758,3 +758,36 @@ investment orgs) as a % of US equity market cap (Wilshire 5000) — record low ~
   count; equities as the debasement hedge), this ratio falling is the REGIME WORKING, not an anomaly awaiting mean-reversion.
   The chart may be [[new-economy-regime]] in one line. Net: legitimate expensive-market datapoint; fake scarce-liquidity datapoint.
   [[bull-bear-ledger]] (valuation-state column), [[detachment-bid]], [[consumption-vs-investment-crux]] (who HOLDS the record deposits = the K-shape).
+
+### 2026-07-25 ~10:29pm PT — THE STACKED WEEK (Jake's calendar paste): Wed 7/29 = the compression point — FOMC decision + presser AND MSFT/META/LRCX/QCOM/ARM prints, same day, on the coiled tape
+#### DATA (calendar, as-pasted; Pacific)
+- **Wed 7/29: FOMC decision 11:00am PT + Powell presser 11:30am PT (no dot plot; minutes Aug 19) → after close: MSFT, META,
+  LRCX, QCOM, ARM** (+HOOD, SBUX). Thu 7/30 AC: **AAPL, AMZN, COIN**, RDDT, RBLX, MSTR, MPWR, FSLR, RIVN; BO: MA, PWR, VLO.
+  Tue AC: V, KLAC, STX, TER. Mon AC: CDNS, CLS, **APLD**, NUE, NVTS. Wed BO: **VRT**, PG, SOFI. Fri BO: XOM, CVX, ETN, LIN, CCJ, ABBV.
+- **NOW already reported 7/22: subscription revenue +24.5%, AI annual contract value crossed $1B.** (Stock at Fri close:
+  −57.8% off ATH, basing — the layer-4 receipt printed while the market prices the name as an AI casualty.)
+- NVDA: Aug 26 (out of window). MU: no July print (canary graded on its PRICE reaction, as registered).
+#### THESIS (interpretation — NOT fact; analysis)
+- *(★ Wednesday = the summer's max-catalyst day)* Fed decision + presser at 11-11:30am PT, then ~55% of the AI-capex complex's
+  July prints after the SAME close (MSFT+META = the two biggest capex budgets reporting; LRCX = the capex-transmission read;
+  QCOM+ARM = the edge/licensing reads) — landing on the GS-mapped tape: momentum unwound, macro hedges REMOVED, positioning
+  washed but unprotected. Checkpoint #4 of Jake's call (VIX pop toward the 28 EXECUTE zone) has its natural window Wed-Thu.
+- *(the Fed Trap frame for the decision — [[new-economy-regime]])* The Fed decides with Brent ~$98/record product cracks
+  (war-energy inflation) against AI-financing stress + softening phantom-labor prints ([[consumption-vs-investment-crux]]) —
+  the trap thesis live: hike-into-oil = break financing; cut-into-inflation = debase. No dot plot → ALL signal is presser
+  language: does Powell "look through" the energy shock (dovish tilt = relief fuel) or flag it (the trap closing). An
+  odds-shader for the VIX leg either way; the trigger stays the prints.
+- *(the registered tests, mapped to dates)* (1) **Memory-canary CLEAN VOTE**: MSFT/META capex language Wed AC → grade MU/memory
+  vs chips RELATIVE Thu morning (baselines registered 7/24; Samsung-AVGO volume print 7/24 = the pre-set). (2) **AMZN FCF
+  verify** Thu AC: scanner proxy −$72.7B vs the actual 10-Q cash-flow (seasonal caveat logged). (3) **Semicap transmission**:
+  KLAC Tue AC + LRCX Wed AC = hyperscaler-capex → equipment-orders pipeline, the cleanest secondary read. (4) **APLD Mon AC =
+  the periphery credit canary reporting FIRST** — a neocloud print + guidance lands before any hyperscaler speaks; its bond/
+  stock reaction = the discriminating-vs-flush pace tell in miniature. (5) **COIN Thu AC** = the agentic-payments toll thesis
+  receipt (post-Samsung-wallet). (6) **Power complex**: VRT Wed BO, PWR Thu BO, ETN/CCJ/FSLR Fri = the rotation's earnings
+  test — does the strength-zone cohort DELIVER. (7) **XOM/CVX Fri** = crack-spread capture ([[oil-value-chain]]).
+- *(NOW receipt — [[metered-compute]] layer-4)* AI ACV >$1B + subs +24.5% = the workflow-monetization thesis has a PRINTED
+  number while the stock sits −58% off ATH: the market is pricing seat-disruption fear over outcome-unit evidence. The
+  gap between the receipt and the price = the live version of the routing-thesis bet, in Jake's book. (Descriptive.)
+- *(sequencing)* Sun 3pm PT crude (war checkpoint #2) → Mon tug-of-war day 1 + APLD → Tue V/KLAC → **Wed the stack** → Thu
+  AAPL/AMZN/COIN + canary vote → Fri oil majors + power. Predictions ritual: register Tue night (Wed names) + Wed night (Thu
+  names) per standing rule. [[compression-thesis]] (beat-but-sell watch on every AI print), [[ai-financing-fragility]].
