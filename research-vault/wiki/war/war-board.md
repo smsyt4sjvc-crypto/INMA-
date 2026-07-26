@@ -103,3 +103,19 @@ crossing of it.* Watch items: Kuwait-facility ID · Kharg/Saudi-terminal strike 
   stress into META/MSFT/AMZN week, on the GS-coiled unhedged tape) = the exact preconditions of Jake's VIX-pop leg (checkpoint #4).
 - ⚠️ Stand-down is REVERSIBLE (June-2019 precedent) + reported-not-official + talks≠deal. Off-ramp FIRED ≠ war OVER. Uncap tell
   (export-terminal strike) now LESS likely near-term but nonzero — a collapsed talk round re-loads everything at higher tension.
+
+## UPDATE — 2026-07-26 ~9:28am PT (Sun, ~5.5h to crude open) — HORMUZ NEAR-EMPTY: tell (c) advancing to DE FACTO; the open now grades a TUG
+- **(c) Chokepoint closure — upgraded: DE FACTO CLOSURE FORMING (observed, not declared).** Windward 12h window (Sat): 1 inbound
+  (dark, northern corridor), 0 completed outbound. Routing behaviorally confirms the southern-corridor mining claim (claim stays
+  a claim; the avoidance is data). Prior ~8/day was already ~90% below prewar; this window ≈ zero. Small-sample caveat (12h,
+  weekend) — watch the next windows.
+- **(b) hull-stopped — unfired** (ballast runs + dark transits, no stopped/abandoned hull). **(a) export-terminal — unfired.**
+- **THE COLLISION: the off-ramp fired (stand-down, Oman talks) in the same 24h the strait physically emptied.** The Oman agenda
+  ("REOPENING Hormuz") is the tell — you don't negotiate reopening a strait that's open. Iran's leverage is executing while its
+  diplomats sit down: mining-by-deterrence closes the strait without a shot at a tanker, deniable, reversible, and exactly the
+  non-kinetic closure path the board always listed under (c).
+- **TODAY'S 3pm PT CRUDE OPEN now grades TWO opposing forces, not one:** stand-down/talks (premium OUT) vs near-empty Hormuz
+  (physical supply IN doubt — the (d) gap's precondition). A flat open = the forces netting; a gap UP through $100 despite the
+  stand-down = the market ruling the physical trumps the diplomatic (tell (d) advancing); a bleed = market betting the talks
+  reopen the strait fast. **Whichever way it prints, the print is the market's verdict on which referee outranks the other** —
+  log it against Jake's checkpoint #2 accordingly (his call graded on oil off-ramping: the Hormuz data is the new headwind to it).
