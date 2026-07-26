@@ -787,3 +787,34 @@ Source: JPM analyst call read-out (Jake paste) + ZH (INTC LOD <$94, was $114 AH 
 - *(the SHARPER thread that survives — dual/tri-channel FINANCING REFUSAL)* Intel = the EQUITY-channel version of the SAME phenomenon as the credit charts: the market REFUSING TO FUND AI-capex. Means-of-financing razor by balance sheet: strong name (GOOGL) → market scrutinizes FCF/credit; WEAK name (INTC) → scrutinizes DILUTION (punished instantly); levered periphery (ORCL/SPCX/CRWV) → SPREADS. All three channels (credit/equity/spreads) getting stingy at ONCE. Market didn't reject Intel's CHIPS — it rejected Intel's ASK FOR CAPITAL. [[ai-financing-fragility]].
 - *(capex-SENTIMENT cycle turning)* "Capex across all units" = a SELL now; investors want it FOCUSED (foundry). Market flipped from "capex=good/bigger-better" → "capex=suspect unless disciplined+ROI-clear." Anti-SPRAY, not anti-capex. 6mo ago that guide was a flex; today a sell = the capex-reward→capex-scrutiny regime shift, real-time.
 - *(net)* Intel MORE idiosyncratic than I said AND still part of the pattern — via equity-funding-refusal + capex-discipline-demand, NOT depreciation/oversupply. Same disease (market souring on how AI-capex is FUNDED), different organ. Corrects the mechanism, keeps the theme.
+
+### 2026-07-25 ~6:50pm PT — SAMSUNG–BROADCOM $200B MOU (HBM4/4E + 2nm foundry through 2030): the memory-canary gets a VOLUME print; discipline check on the number
+#### DATA (as-reported, announced Fri 7/24 at a San Francisco AI summit during ROK President Lee Jae Myung's US visit; Jake paste 7/25)
+- Samsung Electronics × Broadcom (AVGO) agreement "valued at over $200B" spanning ~5 years to 2030: Samsung supplies
+  **HBM4 / HBM4E** for Broadcom's custom AI accelerators; Broadcom uses **Samsung foundry at 2nm and below** for custom
+  AI ASICs + wireless/broadband products.
+- Instrument: a **memorandum of understanding (MOU)** — signed at a diplomatic summit, not a purchase order.
+- Sell-side texture: Barclays reiterated Buy on AVGO, $500 target (~30% upside claimed). (Sell-side = texture, not data.)
+#### THESIS (interpretation — NOT fact; analysis)
+- *(⚠️ discipline FIRST — the number is soft by construction)* $200B ÷ 5yr ≈ $40B/yr across memory + foundry. MOUs signed
+  at head-of-state summits are DIPLOMATIC currency — non-binding, headline-inflated, cancelable without breach (same genre
+  as Gulf-visit trillion-dollar pledges, and rhyming with the scanner's finding that GOOGL's $707B "purchase commitments"
+  are largely cancelable). The receipts, if real, will print in Samsung's quarterly HBM revenue and AVGO's AI-revenue
+  guides — grade THERE, not on the announcement.
+- *(★ the memory-canary reads this as a VOLUME confirmation)* The razor says sellers stay bullish ON VOLUME until capex
+  PEAKS. A 5-year HBM4/4E supply lock (even soft) = demand VISIBILITY for memory through 2030 — the exact signal the
+  canary test watches for. Baseline updated: memory got its volume signal on 7/24; now watch whether MU/memory RESPONDS
+  vs chips on the META/MSFT/AMZN capex prints 7/29-30 (the registered clean vote). Near-term it supports shortage-not-glut
+  (HBM capacity spoken for); the classic cycle-turn risk sits BEHIND it (capacity built against a soft MOU = the glut
+  seed if capex cuts come — MOUs evaporate, fabs don't).
+- *(the deal IS payer discipline in silicon)* Broadcom custom ASICs exist because hyperscalers want out of the Nvidia
+  tax — the per-task/ROI scrutiny thread expressed as vertical integration. Every dollar of custom-ASIC backlog is a
+  dollar of merchant-GPU margin the payers refuse to pay. The 13F matrix corollary: NVDA's own portfolio is stuffed with
+  ecosystem equity (INTC $9.5B, CRWV, Synopsys) while the buyers fund its displacement — the complex is financing both
+  sides of the margin war.
+- *(second-source geopolitics)* 2nm at Samsung = the first credible foundry second-source at the leading edge — Taiwan-
+  concentration de-risking + a pricing check on TSMC, delivered as Korea-US industrial diplomacy (the summit staging is
+  the point). Bullish resilience of the buildout, mildly bearish TSMC pricing power at the margin.
+- *(net)* Not a financing-fragility event (supply agreement, not vendor financing) — if anything it's the demand-visibility
+  COUNTER-EVIDENCE the bear stack needs logged honestly. But its evidentiary weight is capped by its instrument: an MOU
+  is a press release with a signature. [[metered-compute]], [[ai-financing-fragility]], [[ai-infra-allocation-map]].
