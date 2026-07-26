@@ -791,3 +791,29 @@ investment orgs) as a % of US equity market cap (Wilshire 5000) — record low ~
 - *(sequencing)* Sun 3pm PT crude (war checkpoint #2) → Mon tug-of-war day 1 + APLD → Tue V/KLAC → **Wed the stack** → Thu
   AAPL/AMZN/COIN + canary vote → Fri oil majors + power. Predictions ritual: register Tue night (Wed names) + Wed night (Thu
   names) per standing rule. [[compression-thesis]] (beat-but-sell watch on every AI print), [[ai-financing-fragility]].
+
+### 2026-07-26 ~4:03pm PT — RIA-style weekly ingested: technicals (50-DMA broken), the FULL macro calendar — and a ⚠️ CORRECTION: the Fed Chair is WARSH, not Powell
+- **⚠️ CORRECTION (visible per rule):** the stacked-week entry above said "does Powell 'look through' the energy shock." Wrong
+  chair — **the FOMC is chaired by Kevin Warsh** (per the newsletter's "Chair Warsh's press conference"; funds rate held
+  3.50-3.75% ALL YEAR on sticky inflation). Materially different prior: Warsh's long-standing disposition is HAWKISH
+  (anti-QE, hard-money). A Warsh Fed "looking through" anything is a lower-probability event than a Powell Fed — the
+  trap-read sharpens: the dovish-room chain the Sunday futures board priced needs a hawkish chair to VALIDATE it Wednesday.
+  The 11am PT statement language + 11:30 presser = the whole show (no dots).
+#### DATA (newsletter, as-pasted; week ended Fri 7/24)
+- **Technicals:** SPX 7,411.98 = first decisive close below the 50-DMA (7,467) in months (−0.8%); RSI-14 mid-40s; MACD
+  bearish cross ~a week ago, histogram widening; NYSE decliners 3:1 Thursday. Levels: resistance 7,467 → 7,566 → 7,612
+  (record); support 7,354 (July closing low) → 7,266 (June closing low, = "200-DMA in play" line) → 7,172 (100-day).
+  200-DMA = 7,001 (~6% below). Q2 miss-punishment: −4.2% avg vs −2.9% historical.
+- **★ Breadth detail (the canary's cousin):** "the tight link between hyperscalers and semis has broken down — the chip
+  complex HELD UP on the week even as megacaps were sold." = SELLERS holding while PAYERS get sold — consistent with the
+  compression razor (sellers bullish on volume until capex peaks) AND our Friday snapshot (NVDA −12% off ATH vs MSFT −29%/
+  GOOGL −21%). Internal rotation, not wholesale abandonment (their read; matches ours).
+- **Macro calendar adds:** Tue = Consumer Confidence + home prices · **Thu 5:30am PT = Q2 GDP advance + June PCE** (lands
+  ON AAPL/AMZN day) · Fri = Employment Cost Index + final sentiment · NO jobs report this week. Also: **Thursday = Tim
+  Cook's FINAL earnings call (John Ternus takes over)** — succession narrative layered on AAPL's print.
+#### THESIS
+- *(their frame, logged fairly)* "Early innings of a pullback, not middle or end" (RSI has room); trend intact above 7,001;
+  hold-at-target-weight, buy confirmation after prints. *(our overlay)* The newsletter's "this week's oil spike does not
+  make the case for a cut easier" was written BEFORE Sunday's open — **oil −5% just handed the Fed exactly the room the
+  newsletter said it lacked.** The relief chain (oil↓ → PCE path softer → dovish space) is now live INTO a hawkish chair =
+  Wednesday's central tension, quantified. [[compression-thesis]], [[ai-financing-fragility]].

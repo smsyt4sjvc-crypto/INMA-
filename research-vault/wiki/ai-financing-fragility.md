@@ -1121,3 +1121,37 @@ NEXT 13F (~Aug 14), today visible only via the 10-Q disclosure.
   **CRWV** (NVDA a meaningful holder), **INTC** (~2% held by its own competitor). The most-owned names are exactly the
   levered/periphery credits — the strong balance sheets hold equity in the weak ones, which is how periphery stress transmits
   to core EARNINGS (mark-to-market) without touching core SOLVENCY. The equity-channel contagion wire, mapped.
+
+### 2026-07-26 ~4:03pm PT — THE GOLDEN-WINDOW MATH QUANTIFIED ($725B capex vs $211B depreciation) + GOOGL buyback PAUSE + the strongest bull steelman of the week (ingested + graded)
+#### DATA (RIA-style newsletter, as-pasted)
+- **The aggregate: 5 biggest hyperscalers on track for >$725B capex in 2026** (vs ~$412B 2025) — **only ~$211B hits 2026
+  income statements as depreciation; >$500B sits deferred on balance sheets.** Morgan Stanley (Todd Castagno): "a golden
+  window where everybody looks good."
+- Company bills: MSFT ~$190B cal-2026 capex; FCF $15.8B last qtr on $31.9B capex (from $25.7B two qtrs earlier); Azure
+  guided 39-40%. AMZN ~$200B plan; **trailing FCF $1.2B (from $25.9B a year earlier)**; AWS reaccelerated to 28% (3yr+
+  fastest), backlog >$360B. META capex guide RAISED to $125-145B; no cloud to sell capacity to; margin already slipping;
+  "Meta Compute" named. **GOOGL: negative FCF −$5.9B AND PAUSED BUYBACKS to fund the buildout**; Cloud +82%, backlog $514B.
+  MSFT backlog >$600B. AAPL = the counterexample (capex a fraction of cash generation).
+- Consensus EPS: MSFT $4.22 · META $7.23 · AMZN $1.82 · AAPL $1.89.
+#### THESIS (interpretation — NOT fact)
+- *(reconciliation — our scanner vs their number, BOTH true)* Newsletter: AMZN trailing FCF +$1.2B. Our scanner proxy:
+  **−$72.7B.** Not a contradiction: theirs = TRAILING-12M actuals (capex ramped through the year); ours = latest-quarter
+  OCF−capex ANNUALIZED ×4 = the forward RUN-RATE. Trailing barely positive + run-rate deeply negative = the ramp's exact
+  signature. Thursday's 10-Q grades both (the registered verify).
+- *(GOOGL buyback pause = a NEW financing-refusal receipt)* The tri-channel razor gains a fourth receipt: credit (spreads),
+  equity-issuance (INTC), spreads (periphery) — now **buyback WITHDRAWAL** (the standing bid under the stock redirected to
+  capex). The market's −5% response to GOOGL was rational by this razor: the capex is being funded by removing the
+  shareholder's floor.
+- *(★ the steelman, logged honestly — the best bull case in the vault this month)* Revenue is ACCELERATING not fading
+  (Cloud 82% / Azure ~40% / AWS 28%), combined disclosed backlogs ≈ **$1.47T**, "the market is pricing the BILL and
+  ignoring the ASSET — usually where opportunity hides," falling FCF that funds reinvestment ≠ waste, Howard Marks
+  second-level. This is the anti-Dowd and deserves full weight in [[bull-bear-ledger]].
+- *(the steelman's two soft spots, flagged not dismissed)* (1) **Backlog QUALITY**: RPO backlogs are multi-year, partly
+  cancelable, and include the circular commitments (MSFT's >$600B contains OpenAI's obligations — the payer of that
+  backlog is itself vendor-financed = the circularity thread wearing a bullish costume). Backlog ≠ revenue until the
+  customer's own financing survives. (2) "Best capital allocators of two decades" = an authority prior, not a receipt —
+  the same men signed off on $412B→$725B in ONE YEAR, an 76% acceleration that is precisely the thing in question.
+- *(the useful-life crux, their words = our thread)* "A GPU is not a railroad. If useful life is shorter than management
+  assumes, the depreciation bill arrives faster." The vault's number for that: the FRONTIER PRICING HALF-LIFE measured at
+  ~45 days ([[metered-compute]]) vs 5-6yr server schedules. The newsletter says settle it company-by-company; the scanner's
+  implied-useful-life cell is the tool ([[../tools/sec_hyperscaler_scanner.ipynb]]). [[compression-thesis]], [[market-fragility]].
