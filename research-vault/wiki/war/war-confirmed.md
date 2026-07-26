@@ -108,3 +108,37 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
   off-ramp fired while physical throughput collapsed. Reframes the Oman "reopening" talks: they exist BECAUSE it is closing —
   the stand-down wasn't generosity; the strait is already delivering Iran's leverage. Today's crude open no longer grades
   de-escalation alone — it grades the TUG (stand-down bearish vs near-empty Hormuz bullish).
+
+### 2026-07-26 — Windward Daily Intelligence (full tracker, data as of 7/25): ⚠️ "US BLOCKADE ACTIVE" — disabling fire on blockade-runners; Hormuz tanker traffic "FULLY SUPPRESSED" (zero tankers, both directions)
+- DATA (Windward dashboard, pulled ~9:30am PT Sun; source date 7/25): **(1) US naval BLOCKADE line west of Hormuz, ACTIVE.**
+  7/24: US forces used **DISABLING FIRE** on MT LAVINE (fraudulently Mozambique-flagged 230m LPG tanker, Level-3 sanctioned,
+  dark, in ballast, assessed Dubai STS destination) after FOUR blockade-run attempts — "first confirmed action of its kind";
+  a separate tanker was disabled the same way **7/17** (= our 7/16 "US struck sanctioned tanker" entry, now identifiable as
+  blockade ENFORCEMENT). MIOC: "monitoring → direct kinetic intervention." **(2) Hormuz 24h to 7/25: ONE total transit**
+  (Comoros-flagged general cargo, outbound, northern corridor, Iranian-government-linked owner, ex-Umm Qasr); ZERO inbound
+  (first fully silent inbound day); **ZERO tankers either direction — "tanker traffic through Hormuz remains fully
+  suppressed"**; recent transits all small Iran-linked cargo/landing craft <82m. **(3) THREE high-risk laden tankers holding
+  50-60nm from the blockade line**, positioned for runs: 443k bbl Iranian crude (China-bound), an Iran-flagged bulker with
+  falsified-AIS pattern, and an NITC VLCC ~2M+ bbl toward China (position days stale). Combined 2.4M+ bbl at the line.
+- 🔴 `[MARKER-MOVED]` (price referee = today's 3pm PT open) — **tell (c) IS EXECUTED in effect: zero tanker transits = de facto
+  closure, mechanism TWO-SIDED** — Iranian mining claim (southern corridor) + **US blockade with kinetic enforcement** (a
+  category the vault had mis-filed as generic strikes). The strait is being closed by BOTH belligerents at once: Iran denies
+  the southern lane; the US denies Iranian exports. **Tell (b) fired in VARIANT form** (a vessel physically stopped by
+  force — but by US enforcement on a ballast runner, not Iran on laden commerce); the FULL form's setup is live: disabling
+  fire against a LADEN VLCC at the line = 2M bbl + the escalation event. The Oman "reopening" talks now read as negotiating
+  BOTH closures. ⚠️ The 7/25 stand-down coexists with ACTIVE blockade enforcement — the de-escalation is narrower than the
+  headline: strikes on Iran paused; the economic siege unchanged.
+
+### 2026-07-26 — Houthi missiles INSIDE Jizan refinery (5 heat signatures); Yanbu near-miss; Yanbu loadings −40%; Saudi activates Sumed detour (Windward, 7/25 data)
+- DATA (same dashboard): Houthi ballistic missiles targeted **Jizan and Yanbu on 7/25** (after Saudi struck Hodeidah);
+  thermal data logged **five heat signatures INSIDE the Jizan refinery complex**; at Yanbu, EO imagery caught a smoke plume
+  near the Aramco refinery ~09:30 UTC "consistent with intercepted-missile debris rather than a direct hit."
+  **Yanbu crude loadings DOWN ~40% since 7/19**; Egypt absorbing redirected volume; **Saudi began offering crude from an
+  Egyptian port near the Sumed pipeline — first detour cargo (~2M bbl, South Korea) booked.** Bab-el-Mandeb still flowing:
+  17 in / 14 out (24h to 7/25) vs 20/19 prior — "transit volume has not yet reacted." MIOC: both sides set to keep trading strikes.
+- 🟠 `[SHOULD-MOVE]` — **tell (a) ADVANCING: ordnance is now landing INSIDE Saudi oil complexes.** Jizan = refinery
+  (products-side hit, not a crude-export node — (a) formally UNFIRED); Yanbu = both refinery AND the Red Sea terminus of the
+  East-West pipeline = **Saudi Arabia's HORMUZ BYPASS — and its loadings are −40% under missile threat.** The redundancy the
+  market leans on (bypass capacity) is degrading at the exact moment Hormuz itself reads zero: Saudi export paths constrained
+  at BOTH ends, with the Sumed/Egypt detour as the emerging workaround. The Abqaiq-class event is now demonstrably within
+  Houthi reach and willingness. Watch: Jizan damage assessment · Yanbu loading trend · Sumed detour volume · Bab-el-Mandeb holding.
