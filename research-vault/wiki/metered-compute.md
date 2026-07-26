@@ -602,3 +602,35 @@ Anthropic-pricing reads scored with that disclosed, same symmetry rule as the Sa
 - *(falsifiable watch-items, registered)* (1) vendor memory features: EXPORT/egress APIs shipped, or one-way? (2) an open
   MCP-style standard for MEMORY specifically; (3) context-portability clauses appearing in enterprise AI procurement (the
   cloud-era data-portability precedent) — its appearance = Jake's layer became real. [[compression-thesis]], [[ai-financing-fragility]].
+
+##### NOW AS THE CONTROL PLANE — the full-dress digest (Jake's offload, 2026-07-25 ~10:38pm PT): graded — the thesis is last night's "captured context" moat with a ticker on it
+- *(source)* Offloaded AI digest, unusually accurate vs my knowledge (Control Tower, Moveworks ~$2.85B, NVIDIA/Apriel-Nemotron,
+  Anthropic default-for-Build-Agent + Claude Code internal, AWS SCA, Agent 365 = all check; OpenAI multi-year + Action Fabric +
+  2026 NVIDIA AI-Factory integration = as-reported). Architecture: enterprise data/permissions/workflows → Control Tower +
+  Context Engine + Action Fabric → any model (interchangeable suppliers) → governed outcomes. = Jake's layer-4 thesis, fully dressed.
+- *(★ the synthesis the digest doesn't make)* NOW's pitch = "add/remove models without rebuilding; preserve context when models
+  change" — i.e. **NOW sells MODEL-portability while depending on PLATFORM-lock of the context.** It's the captured-context moat
+  (yesterday's weights→memory entry) built as a product: models interchangeable BELOW the platform, context/identity/audit
+  captured INSIDE it. The one-way valve again, one layer up. The thesis is exactly "moat migrates from weights to memory," with
+  NOW as the aspiring memory-holder — which also means the context-portability watch-items (open memory standard, portability
+  procurement clauses) are NOW-bear tells: **if governance/context becomes a PROTOCOL (as OpenAI-compat commoditized inference,
+  as MCP commoditized tools), the control plane thins to a feature. If it stays a PLATFORM, NOW wins.** Same shelf/step question,
+  one layer up. Registered.
+- *(what the digest under-weights — why the market has NOW −58% off ATH while paying NET/PANW/DDOG near highs)* The digest never
+  confronts the tape's violent disagreement. The priced bear = TRANSITION ARITHMETIC: seat erosion applies to ~100% of the
+  revenue base NOW; AI/workflow monetization applies to ~8% (AI ACV $1B vs ~$13B+ run rate). Every pricing-model transition
+  (Adobe 2012-13, MSFT 2013-14) printed a trough where the old unit eroded faster than the new unit scaled — the market is
+  discounting the trough, not rejecting the destination. The 7/22 receipt (subs +24.5%, AI ACV $1B) says erosion is NOT yet
+  visible in revenue — the fear leads the arithmetic. Gap = the trade (descriptive; Jake holds).
+- *(partnership density = also an encirclement map)* Every "partner" is building the competing control plane: MSFT Agent 365
+  (the integrate-today-absorb-tomorrow precedent), OpenAI AgentKit-class tooling, Google's registry, Bedrock agents. "Preferred/
+  default model" deals read two ways: labs paying for placement CONFIRMS the control plane's power — and seeds their own.
+  Anthropic as Action-Fabric design partner = the labs learning the governance layer from inside.
+- *(the moat's real substance — where the digest is right)* Identity/permissions/audit/approvals are the things agents cannot
+  self-provide and regulators increasingly REQUIRE (audit-trail tailwind). "AI replaces the screen, not the system beneath it"
+  = the correct rebuttal of the naive bear. Intuit/GenOS = the existence proof (apps survive model commoditization by owning
+  customer+data+workflow). Palantir = the vertical-deep variant; NOW = horizontal-broad.
+- *(falsifiable watch-items, registered)* (1) pricing-transition disclosure: AI/workflow ACV growth rate vs seat metrics each
+  quarter (the trough math becoming visible or not); (2) an open GOVERNANCE/agent-identity protocol emerging = moat-thinning
+  tell; (3) MSFT Agent 365 moving from integration to displacement vs NOW; (4) Action Fabric third-party adoption (external
+  agents routing actions THROUGH NOW = the toll actually collecting). [[compression-thesis]], [[ai-financing-fragility]].
