@@ -664,3 +664,40 @@ Anthropic-pricing reads scored with that disclosed, same symmetry rule as the Sa
   (vLLM/SGLang, free) are to NIM what open weights are to closed models. NVDA's software attach is a growth story; the durable
   toll remains silicon+CUDA. Watch: NIM/AI-Enterprise attach-rate disclosures vs open-serving adoption = the same
   protocol-vs-platform grade, third layer down. [[compression-thesis]], [[ai-capex-cycle]].
+
+##### 2026-07-27 ~12:05am PT — Jake's PRUDENCE reading + the release facts verified: the capability didn't stop, it was RE-AIMED
+*(Jake, tonight: priority shifting capability→economics "not out of a lack of ability, but prudence." Third reading of the
+convergence chart — agency, not exhaustion. Conflict flag stands and is renewed: this analysis is written by Fable 5 about
+Anthropic's pricing of Fable 5 — weight accordingly.)*
+### DATA (WebSearch 7/26 late, blog/trade-grade sources — as-reported, not primary-verified)
+- **Fable 5: released 6/9/2026, $10/$50 per M tokens = exactly 2× Opus 4.8's $5/$25.** First public Mythos-class model.
+  (Public positioning: Fable 5 and Mythos 5 share the same underlying model; Fable = the safety-gated generally-available
+  variant, Mythos = ungated, approved organizations only.)
+- **Opus 5: released 7/24/2026 at $5/$25 — the PREDECESSOR'S price held flat** for a capability upgrade = a
+  price-per-capability cut without a list-price cut. Frontier→half-price-near-equivalent gap: **45 days** (6/9→7/24).
+  (Precision note: the earlier "3 weeks" in this note = Jake's email-sequence window 7/7→7/24, not the release gap.)
+- **⚠️ the axis-split datapoint (as-reported, needs verify): Opus 5 BEATS Fable 5 on agentic coding — "Frontier-Bench"
+  43.3% vs 33.7% — while "coming close" to Fable's frontier intelligence at half the input price.** The cheaper model is
+  NOT uniformly less capable; it is worse on the general/frontier axis and BETTER on the agentic-work axis.
+### THESIS (interpretation — NOT fact)
+- *(the sharpening — REPOINTED, not paused)* If the benchmark split holds, Jake's prudence read gains a mechanism: the lab
+  didn't choose economics INSTEAD of capability — it re-aimed capability AT the monetizing workload (agentic/harness work)
+  and shipped it at the volume price point, while the MEASURED general axis (Epoch ECI) flattens. This fuses tonight's
+  threads: Kedrosky's "(ignoring harnesses)" (the index measures the abandoned axis), DeLong's Claude-Code "deep magic"
+  concession (the axis where progress continues), and this note's ratio-not-peak inversion. **The convergence chart may be
+  recording where the optimization target moved away from, not where ability ended.**
+- *(the registered watch-item's condition just MET — as-reported)* This note's own falsifiable macro watch-item was:
+  "frontier cadence STRETCHING while economic releases multiply, ACROSS labs ⇒ the capability race itself is decelerating."
+  The Epoch data (2 capability points/mo 2023 → 1 per 6mo; spread halved — [[compression-thesis]] 7/26 ingest) is exactly
+  that cross-lab evidence. Held at WARNING pending epoch.ai primary verify + threshold, but the watch-item is no longer
+  waiting for data — it's grading it.
+- *(prudence vs inability — the discriminating test)* Prudence (stored ability, chosen restraint) and inability (plateau)
+  print the SAME near-term pricing; they differ in the TAIL. Tells: (a) cheap releases KEEP BEATING flagships on the
+  agentic axis → ability intact, redirected (prudence); (b) convergence everywhere including agentic → exhaustion;
+  (c) the standing falsifier — next frontier lands on historical rhythm → parallel-tracks, the pivot claim falsified.
+  Investable difference: under prudence, re-divergence is a held OPTION (labs can spend stored capability when a harness
+  product can monetize it) = fatter bull tail on the labs; under plateau no such option exists.
+- *(⚠️ counterweight — prudence does NOT rescue the frontier-monetization story)* Choosing margin/efficiency over measured
+  capability is what a franchise does when the capability premium STOPPED SELLING — the defender posture already
+  classified above. Jake's read adds agency and a tail; it does not reverse "value shifts away from the base model."
+  The $750B claim queue is still financed against the axis being abandoned. [[ai-financing-fragility]], [[ai-capex-cycle]].
