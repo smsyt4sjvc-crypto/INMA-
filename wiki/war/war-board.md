@@ -213,3 +213,7 @@ crossing of it.* Watch items: Kuwait-facility ID · Kharg/Saudi-terminal strike 
   settled; three sensor legs. "Multiple compression tanks" claimed. Crude STILL deep red → the flag stays 🟠 by
   the board's own rule (it measures the market), and the lag is now informational: watch crude minute-scale +
   XLE-vs-SPX divergence as the fastest confirmation channels. Magnitude/duration = the open question that prices it.
+- **7:20am PT:** VIIRS detail — fire persisted 11+ hrs across two passes; dozens of pixels footprint-wide; second
+  FIRMS cluster ~24.04N/49.19E on the Petroline pump-station lane; distributed "emergency flaring at multiple
+  production sites" = the SHUT-IN CASCADE signature (hard to fake). Physical case = OSINT-maximal. Market = still
+  unmoved. The divergence is the trade-relevant fact; loadings settle it within 24-48h.
