@@ -741,3 +741,29 @@ Anthropic's pricing of Fable 5 — weight accordingly.)*
   compliant champion, Altman supplied the signature.** Ties forward: OpenAI's state entanglement = the USG tranche of the
   financing stack — designated-champion umbrellas carry obligations (see MU's: the champion must then FIGHT its biggest
   customer's escape valve in front of the White House). [[ai-financing-fragility]], [[ai-capex-cycle]].
+
+##### 2026-07-27 ~12:35am PT — Jake's demand question answered: revenue tracks THRESHOLDS, not capability points — so the cadence collapse hits the OUT-YEARS, and convergence hits the MARGIN regardless
+*(Q: how relevant was the capability push to the ARR beats? does the capability-growth slowdown compress the demand outlook?)*
+### THESIS (interpretation — NOT fact; analysis on logged data + tier-3/4 training recall, driver splits are NOT disclosed by labs)
+- *(capability was THE driver of the beats — but as THRESHOLD, not points)* The ARR explosion (9→14→30B) didn't scale with
+  benchmark points; it STEPPED when capability crossed a task-completion threshold: ~2025 agentic-coding reliability (error
+  rates low enough that multi-step chains complete) → Claude Code / coding-API demand = the reported growth engine. Chat-class
+  capability was a product; AGENTIC capability was a new INDUSTRY. Revenue is threshold-elastic, weakly point-elastic —
+  which is why the ECI chart is the WRONG instrument for demand forecasting (and the right one for pricing/differentiation).
+- *(the demand outlook has three legs; the cadence collapse threatens ONE)* (1) **Deployment backlog** — enterprise adoption
+  of ALREADY-crossed thresholds lags by quarters-years; runs regardless of cadence → supports near-term prints. (2) **Price-
+  elasticity/Jevons** — commoditization itself UNLOCKS demand down the task-value curve (tasks worth $1 need sub-$1 serving;
+  the double-decay is also a demand subsidy). (3) **TAM expansion via NEW thresholds** — each crossing automates a new task
+  tranche. THE CADENCE COLLAPSE HITS LEG 3 ONLY — but the 2030 projections (the $750B queue's servicing base) are priced
+  overwhelmingly on leg 3. **So: near-term beats can continue while the out-year demand story compresses — Jake's crush
+  thesis and the 3.3x ARR print are both true, on different time segments.** [[ai-financing-fragility]], [[cepi]].
+- *(convergence hits MARGIN independently of demand volume — Jake's "capability margins" named)* Even if task volume
+  explodes (metered-compute wins), interchangeability decides WHO CAPTURES it: converged models → router/multi-source buyer
+  power (raw calls already commodity per the interop note) → price-to-cost → **revenue commoditized instead of captured as
+  capability margin** (Jake's phrase; = the margin premium of being the ONLY model that can do X). Convergence deletes
+  X-monopolies; their half-life is already months not years (Kimi at the frontier band). Demand outlook and margin outlook
+  DECOUPLE: the chart compresses margins with high confidence, demand only via leg 3.
+- *(the falsifier / the one thing that re-expands TAM)* A new threshold crossing on the UNMEASURED axis — agentic
+  reliability at longer horizons (week-long tasks, computer-use-that-works) — re-opens leg 3 without appearing on ECI.
+  That's also where the re-aimed capability (Opus-5-beats-Fable-on-agentic) is pointed. Watch task-horizon benchmarks and
+  harness completion rates, not ECI. The demand-relevant cadence = task-threshold crossings.
