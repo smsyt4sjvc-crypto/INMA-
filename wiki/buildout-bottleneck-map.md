@@ -312,3 +312,38 @@ DATA: `raw/2026-07-12-semianalysis-dc-cancellation-debunk.md` (SemiAnalysis 6/18
 - **China contrast = a real competitive asymmetry:** China builds power freely (state-directed); US is
   grid/permit/NIMBY-constrained. If AI is power-bound, China's power advantage > US's chip advantage over time.
 - Links: [[power-scarcity-equities]] (PJM→power names), [[ai-financing-fragility]] (funding, below), [[new-economy-regime]].
+
+## 2026-07-27 ~12:55am PT — Jake's ENROLL-ONCE layer hunt: where the capability margin actually lands (INTEROP thread, continued)
+*(Jake's thesis: the investable target = the horizontal integration layer a CFO enrolls in ONCE and uses any model —
+open, proprietary, in-house — seamlessly; the labs' obvious path = customizable minimal-token models + a router that
+outsources each task to whatever the layer deems economical/capable; "customization is open source adaptability."
+Analysis below; descriptive, not advisory.)*
+### THESIS (interpretation — NOT fact)
+- *(precision on WHERE the margin migrates)* Routing PER SE is cursed to commoditize — a broker of commodities that
+  charges fat margin gets routed around (single-digit-% take rates; Bertrand on a pass-through). What holds margin is the
+  LOCK-IN the routing layer accretes: (a) **adaptation** — fine-tunes, embeddings, agent memory (non-portable by physics;
+  this note's older line: "the real lock-in was never tokens"); (b) **workflow integration** — the harness that owns the
+  JOB, not the call; (c) **contract bundling** — enrollment rides paper the CFO already signed. Jake's "capability margin
+  migrates to the integration layer" = right, refined: it migrates to integration LOCK-IN; routing is the delivery vehicle.
+- *(the labs-as-router question — the Switzerland problem + the harness workaround)* A vendor-owned NEUTRAL router has a
+  credibility problem (the CFO wants the router arbitraging vendors; a vendor routes to itself — why Visa had to leave
+  BofA, why GDSs left the airlines, why Google owning both sides of AdX = the antitrust case). The version that works for
+  labs: **the router INSIDE the harness** — don't sell neutrality, sell the PRODUCT that does the job and mixes models
+  invisibly (planner-frontier + cheap-worker patterns are already standard; MSFT Copilot routing to Kimi = the exhibit;
+  effort tiers/subagent mixing = shipping today). Jake's "obvious path" is not hypothetical — it's the current harness
+  architecture, and "customizable minimal-token proprietary models" = adaptation-as-a-service: the closed labs' answer to
+  open-weight adaptability, rebuilding at the adaptation layer the switching costs they're losing at the token layer.
+- *(★ the deflating answer to "where do I enroll once" — it mostly already exists, inside contracts the CFO already has)*
+  **AWS Bedrock, Azure AI Foundry, GCP Vertex = the enroll-once multi-model layer, TODAY** — one existing cloud contract,
+  every major model family behind it, spend governance included. Distribution decided the enrollment war before it was
+  fought: the horizontal layer's winner is whoever already holds the paper = the clouds. Consequence: the migrating value
+  lands substantially in ALREADY-PRICED megacaps where even $10-20B of platform margin is small against their P&L — the
+  vault's recurring investable-honesty pattern (the thesis right, the ticker impact diluted).
+- *(the tradeable residues + one live TENSION)* Pure-ish listed expressions: **PLTR** (ontology/orchestration, rich),
+  **NOW/CRM/SAP** (app-layer agent platforms = workflow-level enrollment for non-tech enterprises), **NET** (AI gateway,
+  small), **IBM** (watsonx governance pitch at regulated buyers), **SNOW** (Cortex multi-model). ★ The tension worth
+  watching: **the tape prices the app/SaaS layer as the AI VICTIM (displacement derate) while Jake's logic makes it the
+  AI TOLL (workflow enrollment layer)** — two live theses, opposite signs, same tickers. If enroll-once-at-the-workflow
+  wins, the derated app layer is where the migration pays; if agents disintermediate the apps, the derate is right.
+  Falsifiable via agent-platform attach/NRR prints vs seat counts. [[metered-compute]] (CFO-reversion, messaging),
+  [[compression-thesis]] (capability margins), [[ai-financing-fragility]].
