@@ -827,3 +827,45 @@ less cost"; NVDA/GOOGL/MSFT open-source endorsements — the entire industry's p
   shreds pricing where capability margins were already dead and largely spares the tier where they survive — consistent
   with the demand-decomposition entry: the two-tier structure persists; the crush and the volume bull keep coexisting.
   [[compression-thesis]], [[ai-financing-fragility]].
+
+##### 2026-07-27 ~4:55am PT — CURSOR'S SWARM ECONOMICS PAPER: tonight's thesis chain, measured (primary-grade)
+Sources: `raw/archive/2026-07-27-cursor-agent-swarms-model-economics.pdf` + `raw/2026-07-27-cursor-agent-swarms-text.txt`
+(Cursor blog, 7/20/26, arrived via Jake's TLDR feed; their own controlled experiment; output repo public —
+github.com/cursor/minisqlite). Strongest source in tonight's stack: primary experiment, but WITH vendor-bias flag (below).
+### DATA (Cursor's reported experiment)
+- Task: build SQLite in Rust from the 835-page manual alone (no source, no tests, no internet), graded on sqllogictest.
+  New harness: **all four model configs eventually passed 100%**; at the 4-hr cutoff 73-85% vs old harness 11-77%.
+- **"Every model mix produced similar QUALITY while the costs varied enormously": Opus 4.8-planner + Composer 2.5-worker
+  = $1,339 vs GPT-5.5-everywhere = $10,565 — ~8x cost spread at comparable quality.**
+- **Workers carry 69->90%+ of tokens.** GPT-5.5-as-worker-fleet: $9,373; Composer-2.5-as-worker-fleet: **$411 — 23x** on
+  the volume tier. "Few moments in a large task genuinely require frontier intelligence."
+- **Fable 5 as planner: ~2x Opus's per-token price yet a SMALLER planning bill (far fewer tokens needed) — but its
+  workers burned several-times more tokens, making the whole run costlier.**
+- **Composer 2.5 is Cursor's OWN model** — the harness vendor's in-house model occupies the worker slot.
+- Architecture receipts: planner/worker tree (Coase cited), custom VCS at 1,000 commits/SEC, decorrelated review lenses,
+  agent-curated "Field Guide" (stigmergy). Old→new: 70x fewer commits, 70,000→<1,000 merge conflicts, 64,305→9,908 LOC
+  for the same passing grade. Closing line: what's scarce now is "the right description of intent."
+### THESIS (interpretation — NOT fact)
+- *(1. interchangeability MEASURED — the convergence thesis's best exhibit)* 8x cost at equal quality = on the worker
+  tier, price is the ONLY competitive axis left. This is the DeLong/Kedrosky convergence chart rebuilt as a controlled
+  experiment with dollars attached. ⚠️ Vendor-bias flag (the Micron-LPDDR pattern): the HARNESS vendor publishing
+  "models are interchangeable" is commoditize-your-complement marketing — true AND self-serving; the public repo makes
+  it checkable, which is more than the ECI chart offers.
+- *(2. ★ the enroll-once answer, sharpened: the harness SELF-DEALS the volume tier)* Cursor didn't just build the router
+  inside the harness — it put ITS OWN model (Composer) in the worker slot and routes ~90% of tokens to itself, buying
+  frontier planning by the token from whichever lab wins the N×N bake-off. The labs get relegated to the premium-planner
+  seat: high price, SHRINKING volume, fully substitutable. Jake's capability-margin migration isn't a forecast — it's
+  Cursor's published operating model. [[buildout-bottleneck-map]] INTEROP.
+- *(3. frontier token demand deflates TWICE)* "Few moments need frontier" caps the premium tier's share; AND the Fable-5
+  detail shows smarter planners use FEWER tokens for the same planning (2x price, smaller bill) — quality improvement
+  shrinks premium-token volume. Per-token price is becoming the wrong gauge; **$/OUTCOME is the real number** (the
+  legitimate version of the OpenAI-CFO metric shift; the 7/25 per-task amendment said this first). Revenue mix migrates
+  structurally to the cheap tier = the double-decay printing inside one experiment.
+- *(4. BUT the threshold leg fires the OTHER way — both of Jake's theses fed by one document)* Swarm-builds-SQLite-to-
+  100% = a NEW task-class threshold (long-horizon multi-agent builds from spec) = leg-3 TAM re-expansion — the crush
+  thesis's named falsifier showing life in the same paper that feeds its margin leg. $1,339 working databases = software-
+  production deflation = Jevons fuel: task volume and compute demand grow while model-layer MARGIN dies. Margin bear +
+  volume bull, one experiment. The infra/power complex keeps its demand; the model layer keeps losing its price.
+- *(5. source-correlation caution)* Tonight's triple (DeLong → Kedrosky → Cursor-via-TLDR) arrived on one feed
+  bloodstream while the topic trends — the inbox timing is the algorithm confirming, not the universe. Cursor's is the
+  only primary-grade item in the stack; weight accordingly. [[compression-thesis]], [[ai-financing-fragility]], [[_calibration]].
