@@ -1032,3 +1032,33 @@ one correction: LIMITED production has begun; mass production/fab integration is
   policy-paying-to-overcome-policy pattern at its purest. **The Apple-CXMT fight re-weights**: if domestic
   litho lands 2027, denying Apple access doesn't slow China — it only costs Apple; the strategic case for
   denial weakens on this exact timeline. [[buildout-bottleneck-map]], [[ai-capex-cycle]], [[ai-infra-allocation-map]].
+
+## 2026-07-27 ~10:55am PT — MS/Shawn Kim's two-tier memory market (Jake's paste) + Jake's both-ways question: the LTA cap, the lawsuit's exhibit, and the INFLATION LOOP
+### DATA (as-pasted; Morgan Stanley, Shawn Kim, June 2026)
+- "Supply relief is a process, not a switch" — new capacity takes years to build/qualify/ramp. **Two-tier market:
+  AI/cloud buyers sign LTAs, prepay, secure priority; traditional buyers (PC/smartphone/industrial) compete for
+  what remains.** Servers → **59% of DRAM demand by 2028 (from 37% in 2023)**; enterprise SSD → 65% of NAND
+  (from 18%). Per-chip HBM 7.2x prior gens; per-system ~65x. ⚠️ suspect figure: "HBM 10TB (2020) → 18PB (2026)"
+  — units don't scale to any sensible fleet number; don't lean on it.
+### THESIS (interpretation — NOT fact)
+- *(Jake's question answered: YES, it cuts both ways — with the mechanics)* LTAs don't just secure supply; they
+  **cap the sellers' upside on the contracted tier AND floor their downside** (the vault's LTA-floor thread).
+  Consequence: **the residual/consumer tier becomes the shock absorber carrying ALL the price discovery** — in
+  shortage, PC/phone/auto buyers eat the whole spike (the +sixfold passthrough now hitting Google/Apple/MSFT/
+  Nintendo pricing); in glut, that tier crashes FIRST while LTAs hold... until the antitrust cloud weakens the
+  floor's defense (already logged: coordinated-looking supply discipline is legally riskier mid-lawsuit).
+- *(the lawsuit synthesis — Jake's sharpest link)* **MS's neutral sell-side description IS the plaintiffs'
+  allegation restated:** two-tier priority allocation = the crowding-out made contractual. Same facts, two
+  readings — rational capacity allocation (defense) vs engineered starvation of the residual tier (complaint).
+  Discovery risk runs THROUGH decks like this one: sell-side notes describing "priority access" and "what
+  remains" become exhibits.
+- *(inflation transmission — real, bounded directly, potent in the STACK)* Direct CPI math: consumer electronics
+  ≈ small weight (~1-2%), cars' memory content modest, appliances tiny — the spike alone ≈ tens of bps. The
+  potency: (1) it FLIPS a decades-long structural deflator (electronics) into an inflator — hedonics run
+  backwards; (2) it STACKS with oil/war + the new tariff blitz in the same H2 prints; (3) announced hikes
+  (June-July) land in CPI during the exact Fed decision window.
+- *(★ the LOOP — the vault-level close)* AI buildout → memory crowd-out → consumer price hikes → stickier core
+  goods CPI → Fed holds higher-for-longer → the discount rate stays high on the debt-funded AI complex that
+  CAUSED the shortage. **The buildout is financing itself at rates its own inflation keeps elevated.** Hammack's
+  switchgear-order-book-as-monetary-input, extended to the consumer aisle — the AI-inflation channel now runs
+  producer AND consumer side. [[ai-capex-cycle]] (lawsuit), [[new-economy-regime]] (Fed Trap), [[ai-financing-fragility]].
