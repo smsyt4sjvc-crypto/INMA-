@@ -205,3 +205,7 @@ crossing of it.* Watch items: Kuwait-facility ID · Kharg/Saudi-terminal strike 
   traffic in Hormuz" — management = the supervise-transit/toll language, from Iran's own podium. The
   gated-transit regime is being institutionalized in the open while the US blockade continues = both closures
   still on, diplomacy negotiating their terms, not their existence.
+- **7:00am PT addendum:** OSINT hardened — FIRMS thermal geolocated to Abqaiq's SOUTH STABILIZER ("not a flaring
+  location"), ~300MW claimed across two instruments, + the **East-West/Petroline pumping station** named as a second
+  fire site = a surgical set (processing node + bypass artery). Still no wires/officials/tape confirmation — the
+  decisive referee is now **Ras Tanura/Yanbu loadings + Petroline flow**. Crude still deep red = the coil stretches further.
