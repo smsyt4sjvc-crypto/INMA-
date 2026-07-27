@@ -138,3 +138,36 @@ Jake paste (piece on "claims lowest since 1969" being misleading) + "they're jus
   ("nobody formally fired YET"). Feeds [[new-economy-regime]] rate-regime + the run-hot/lie-about-jobs thread.
 - *(the "catching up" — durable edge not crowded)* Unlike the AI-bear (consensus/momentum), this is a PERMANENT STRUCTURAL distortion (the gig buffer
   changes what the metric can SEE), not sentiment that reverses. Jake was early on a lasting fact, not a trade that expires — real durable edge.
+
+### 2026-07-26 ~6:30pm PT — "The Hinge of History That Was 2020" (Brownstone/ZH) ingested — the 105M number decomposed; Jake's gig overlay = the vault's phantom-labor thread arriving in the headlines
+#### DATA (as-claimed by the piece; sources = NY Post, NAEP, JPM, misc — advocacy piece, data/line separated below)
+- Headline: "105 million Americans not working" (+10.8M vs 2019); LFP still trending down; men not-working +13.6% vs women
+  +10.9%. Disabilities 38M (sharp post-2020 rise). 12th-grade reading proficiency 35% = lowest since tracking began (1992);
+  14% of college students at/below a 10-yr-old's level. Overdose deaths >100k/yr. Excess deaths 1.5M (2022-23) above
+  peer-country rates. Fertility decline accelerating. JPM: 40-45% of small businesses closed temporarily in 2020; new-firm
+  share of total firms falling (consolidation). Inflation since 2020: −27% purchasing power (official) / −37% (alt);
+  "$8T in new printed money." Savings rate ~3%. Piece's causal frame: lockdowns + vaccines = "decivilization."
+#### THESIS (interpretation — NOT fact)
+- *(the 105M = a DENOMINATOR-TRAP headline, decomposed)* "Not working" = every person 16+ without a job — retirees (the
+  boomer wave = the dominant mechanical driver; the stock rises with population + aging with zero policy input), students,
+  caregivers, disabled, AND the gig-undercounted. Presenting a stock that mechanically grows as a policy-caused collapse
+  is the same genre as cash-to-market-cap. The RATE (LFP, esp. prime-age male) is the honest series — and it IS soft,
+  which needs no inflation to matter.
+- *(★ Jake's gig overlay — his standing thread, now mainstream-adjacent)* The gig economy absorbs labor invisibly:
+  1099/gig work is under-captured by household surveys, and gig workers CAN'T FILE unemployment claims — which is exactly
+  the vault's jobless-claims-are-a-firing-gauge-not-a-health-gauge thread (logged BEFORE this went headline). Both the
+  piece's bear read (105M idle!) and the consensus bull read (low claims = healthy!) fail the same way: the official
+  stats measure the FORMAL economy while a growing share of actual labor happens in the informal/gig layer. Jake: "saw
+  this coming in real time" — calibration credit, the framework predates the headline.
+- *(data-vs-line discipline, same as Dowd/gold pieces)* The LINE (single-cause lockdowns+shots "decivilization") is
+  advocacy — prime-age male LFP has declined since the 1950s, opioids pre-date 2020, reading scores track screens as much
+  as closures, excess-mortality causality is contested. The DATA that survives any causal frame: prime-age participation
+  soft, disability up, fertility down, reading collapsed, savings 3%, −27% purchasing power on $8T printed, small-business
+  consolidation. That surviving set = the vault's spine independently re-derived: 2020 AS THE REGIME HINGE ([[new-economy-regime]]:
+  debasement, [[concentration]]: consolidation, this note: the borrowing DRANK — transfers consumed, not built).
+- *(market implications, the part that prices)* (1) Labor-supply contraction + phantom absorption = structural wage
+  stickiness = the FED TRAP deepens (Warsh inherits a labor market his gauges can't read). (2) The claims-gauge blindness
+  = macro surprises cluster on the WEAK side late (firings show up in claims only from formal employers — the informal
+  layer sheds silently). (3) Gen-Z detachment + AI entry-level displacement + gig absorption = the trade-down/landing-pad
+  economy grows structurally ([[trade-down-landing-pads]]). The piece wants a moral verdict; the vault takes the
+  measurement problem: THE STATS ARE INCREASINGLY BLIND TO THE ACTUAL LABOR ECONOMY, in both directions. [[market-fragility]].
