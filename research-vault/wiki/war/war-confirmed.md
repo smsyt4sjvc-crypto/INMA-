@@ -392,3 +392,21 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
   (a) contained/cosmetic + Saudi private reassurance — the market is right; (b) the widest single mispricing
   window of the war, compressing into minutes whenever a wire confirms. The tells, in speed order: crude
   reversing on no headline → XLE/oil equities greening against a fading SPX → wire pickup → loadings data.
+
+#### 2026-07-27 ~7:20am PT addendum 3 — VIIRS detail: OVERNIGHT PERSISTENCE, footprint-wide pixel cluster, and a SECOND-SITE detection consistent with an East-West pump station
+- DATA (`raw/2026-07-27-abqaiq-viirs-detail-secondsite.png`, same OSINT account, FIRMS screenshots):
+  · **Two passes across two days: acquisitions 7/26 18:59 EDT + 7/27 06:13 EDT = the fire persisted 11+ hours
+    overnight** — not a transient debris burn. **Dozens of VIIRS/NOAA-21 375m detections across the facility
+    footprint** (per-pixel FRP up to ~70MW; brightness ~310-340K) = a large-AREA event, consistent with the
+    "multiple compression tanks" claim.
+  · **Second FIRMS cluster at ~24.04°N, 49.19°E** — ~200km SW of Abqaiq on the ~24°N lane the East-West
+    (Petroline) pump stations occupy → the "east-west pumping station" claim now has its own sensor data.
+- *(★ the strongest inference yet — the SHUT-IN CASCADE signature)* The poster's "Saudi have begun emergency
+  flaring across MULTIPLE production sites, 100MW+" is not contradictory noise — it is the SYMPTOM of the hub
+  going down: fields with nowhere to send crude/associated gas flare it (the 2019 pattern — Abqaiq down →
+  upstream shut-ins). **Simultaneous fire-at-the-hub + distributed flaring-at-the-fields = the system-wide
+  curtailment signature, and distributed emergency flaring is the one thing in this evidence stack that is
+  hard to fake.** If real, Ras Tanura loadings show it within 24-48h regardless of any statement.
+- Flag: 🟠 unchanged (the market referee still hasn't moved as of the last print). The physical case is now as
+  strong as OSINT gets: multi-instrument, multi-pass, multi-site, optical + thermal + the cascade signature.
+  What remains on the other side: Saudi "intercepted," wire silence, and a crude tape at −5%.
