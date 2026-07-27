@@ -223,3 +223,8 @@ crossing of it.* Watch items: Kuwait-facility ID · Kharg/Saudi-terminal strike 
   confirming it mattered). Talks now carry a stated impatience clock; the pause's political shelf-life is being
   set in public. Equities faded the relief gap ("Stocks Sink Despite Hormuz Hopes") = set-#4's hold-vs-fade
   resolving toward FADE — and the 1pm PT close has passed: "Stocks Sink Despite Hormuz Hopes" reads as the session wrap, i.e. the relief gap likely FAILED at the close; set #4 equity legs grade against Jake's prints.
+- **~2:50pm PT (post-close):** **Abqaiq wire silence now 8+ hours deep (457-row post-close sweep: zero pickup)
+  + Brent CLOSED below the $90 marker (−5.6%).** The divergence resolved TOWARD the market today: containment/
+  no-material-damage is the working verdict; the 2019-redux branch weakens with each silent hour (2019 had wire
+  confirmation within hours). Tell (a) stays UNFIRED; the OSINT thermal chain stays logged as real-but-
+  magnitude-unproven. Loadings data remains the final arbiter this week.
