@@ -869,3 +869,36 @@ github.com/cursor/minisqlite). Strongest source in tonight's stack: primary expe
 - *(5. source-correlation caution)* Tonight's triple (DeLong → Kedrosky → Cursor-via-TLDR) arrived on one feed
   bloodstream while the topic trends — the inbox timing is the algorithm confirming, not the universe. Cursor's is the
   only primary-grade item in the stack; weight accordingly. [[compression-thesis]], [[ai-financing-fragility]], [[_calibration]].
+
+##### 2026-07-27 ~5:05am PT — Jake's NEXT-EVOLUTION call: the in-house open-weight WORKER tier (interchangeable planners on top)
+*(Jake's thesis: companies run their OWN open-source-based proprietary model as the worker fleet — cheaper than commercial
+subagents because training is unique to their production needs — with interchangeable frontier planners bought by the token.
+= the Cursor self-deal pattern generalized to every substantial enterprise. Graded below.)*
+### THESIS (interpretation — NOT fact)
+- *(the mechanism, sharpened: it wins on $/OUTCOME, not necessarily $/token)* His stated edge — "training unique to
+  production needs" — is the FIT argument: a model that knows your codebase/workflows completes tasks in fewer tokens and
+  fewer retries. That's real (task-specific fine-tunes matching much larger general models on narrow distributions is
+  established) and it compounds the double-decay. The raw $/token serving claim is weaker: a lab batching millions of
+  customers runs higher GPU utilization than any single company's cluster — scale providers can price the worker tier at
+  marginal cost. In-house wins on fit + governance (no data egress; CISO+CFO aligned), not on serving economics.
+- *(three counterweights — where the evolution bifurcates)* (1) **Utilization math**: self-hosting beats API only at
+  high steady volume — the cloud-repatriation threshold. Top of the enterprise distribution goes in-house; the long tail
+  stays on APIs. (2) **The treadmill tax**: an in-house model is a depreciating asset — every open-base improvement
+  (Qwen/Kimi/Llama cadence) obsoletes the fine-tune → re-tune/re-eval/re-serve = a standing ML team; only pays above a
+  spend threshold. Same conclusion: bifurcation by size. (3) **★ the Field-Guide alternative — the MORE radical version
+  of Jake's own thesis**: Cursor's stigmergy result suggests agent-curated context + retrieval captures much of the
+  specificity benefit at ZERO training capex, portable across whatever base model is cheapest this month. If in-context
+  adaptation beats weight adaptation per dollar, the company's asset is the KNOWLEDGE BASE, not the model — and models
+  commoditize at BOTH tiers. Jake's end-state without the training bill. Genuinely unsettled technical race; the
+  discriminator = fine-tune vs long-context outcomes per dollar on production tasks.
+- *(★ the NVDA loop closes — Jake's own threat-model frame from earlier tonight)* This end-state IS Nvidia's preferred
+  world and explains its open-source endorsement in his who's-the-threat framework: open-weight workers in every
+  enterprise = CUDA inference clusters in every basement = demand breadth beyond the few hyperscalers/labs (who build
+  custom ASICs and concentrate buying power). NVDA's "open = security" position is the chip seller lobbying for the
+  distributed-inference topology. Hardware demand BROADENS under Jake's evolution while lab token revenue narrows to the
+  substitutable planner seat + long-tail APIs — bullish infra breadth, bearish the listing-cluster revenue bases.
+- *(watch items, falsifiable)* (a) Fortune-500 case studies of in-house worker fleets displacing API spend; (b) labs
+  productizing deployable/on-prem custom models (the Anthropic/OpenAI SKU that rents the recipe instead of the tokens —
+  Jake's earlier "obvious path," and the defensive response this evolution forces); (c) NVDA enterprise/inference segment
+  mix vs hyperscaler concentration; (d) fine-tune-vs-retrieval benchmark economics. [[buildout-bottleneck-map]],
+  [[ai-financing-fragility]], [[compression-thesis]].
