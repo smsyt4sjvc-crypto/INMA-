@@ -1062,3 +1062,8 @@ one correction: LIMITED production has begun; mass production/fab integration is
   CAUSED the shortage. **The buildout is financing itself at rates its own inflation keeps elevated.** Hammack's
   switchgear-order-book-as-monetary-input, extended to the consumer aisle — the AI-inflation channel now runs
   producer AND consumer side. [[ai-capex-cycle]] (lawsuit), [[new-economy-regime]] (Fed Trap), [[ai-financing-fragility]].
+> 🔄 addendum [2026-07-27 ~12:00pm PT, via the new ZH feed]: **BofA downplays the China DUV report — "only modest
+> threat to ASML."** The sell-side counterweight to the entry above, logged same-day: consistent with the
+> magnitude-honesty section (fleet math takes years) while the DIRECTION/2027-date thesis stands. Also in the
+> same feed sample: HSBC mapping SpaceX lockup expirations (the Aug 6 thread) + "The Upcoming AI Spend Slowdown?"
+> + a "dismal" 5Y Treasury auction (the financing tape) — ingest-worthy when opened.
