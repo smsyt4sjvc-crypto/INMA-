@@ -915,3 +915,35 @@ vertical axis's validity. Treat numbers as as-reported pending an epoch.ai prima
 - *(consensus-saturation tracker: datapoint #5)* Econ-blogger tier (DeLong, self-declared bear) now runs
   convergence-bear charts — the bear thesis's descent research-note → meme continues. Seeing-edge gone;
   execution edge (triggers, the harness/toll layer, the volume leg) is what remains. [[market-fragility]].
+
+## 2026-07-27 ~5:50am PT — PRE-MARKET DIGEST INGEST (scanner run 5:34am PT) — CXMT +500% debut, Burry sizes up, passthrough broadens
+### DATA (headlines via scanner digest + LEVEL WATCH prices, pre-market)
+- **CXMT SOARED ~500% in its Shanghai debut** (multiple outlets; "world shares gain as CXMT soars").
+  > 🔄 UPDATES the earlier line "CXMT $8.6B IPO over-subscription came in MUCH LOWER than recent Chinese IPOs" —
+  > whatever the subscription read said, the DEBUT quintupled. The glut-maker now has a post-pop war chest +
+  > national-champion market validation, the same morning Apple lobbies Washington to buy from it.
+- **Burry goes BIGGER on NVDA, MU, PLTR, TSLA shorts** (YF headline; sizing/instrument unverified).
+- **Google JOINS Apple/Microsoft/Nintendo in price hikes "as memory costs surge sixfold"** — the consumer
+  passthrough broadening to a fourth mega-platform.
+- **Meta expands Louisiana Hyperion DC to 5 GIGAWATTS** — two days before its earnings print. **NVDA "in talks"
+  to back OpenAI Ohio with $250B** (continuing the 7/25 guarantee thread). **ORCL printed a 52-WEEK LOW** Friday.
+  **Bernstein bullish memory** post Samsung/NVDA deals. **Alphabet's Anthropic stake headline-marked** (listing-
+  cluster mark texture).
+- **⚠️ NEEDS-VERIFY cluster (headlines only, no vault detail): "OpenAI cyberattack fallout," "White House
+  monitoring OpenAI containment escape," "Hugging Face hack," + NVDA/SpaceX/MSFT launching an "AI safety
+  initiative"** — an unknown OpenAI security event with White House attention. If real, a NEW catalyst class
+  (AI-safety incident → regulatory response), not yet in any thread.
+- Tape (pre-market ~5:34am PT): Dow futures +575 (~+1.1%) on the pause; **VIX 17.88 (calm, <18)**; 10Y 4.68%
+  (bonds bid); WTI 84.02 / **Brent 90.30 = ON the $90 marker**; gold 4,085 holding (not giving back war premium);
+  MU +1.1% pre; SPX Friday close 7,412 = below the 7446 CTA trigger → **the gap-up would RECLAIM 7446 at the open
+  (mechanical CTA buying flips back on above it)**; Fed expected to HOLD Wednesday; "Warsh quietly building a case
+  for rate cuts" speculation printing.
+### THESIS (interpretation — NOT fact)
+- *(CXMT +500% = the glut thesis's funding event)* A quintupled debut hands the 2028-glut maker capital +
+  mandate exactly as the designated-champion fight (MU vs Apple, before Trump) peaks. Strengthens Burry's
+  terminal-value short logic — and he just SIZED UP the same morning. The two-clock structure sharpens: near-term
+  shortage intact (passthrough broadening to Google = pricing power NOW), terminal glut better-funded than ever.
+- *(Meta 5GW pre-print = the capex tell arriving early)* An expansion announcement 2 days before earnings is the
+  anti-"capex discipline" signal — Wednesday's razor test (does the tape sell the raise?) now has its exhibit
+  pre-loaded. ORCL at a 52-wk low on a relief tape = the financing-fragility name leading DOWN through maximum
+  relief — the financing tape's grip confirmed even on green days. [[ai-financing-fragility]], [[metered-compute]].
