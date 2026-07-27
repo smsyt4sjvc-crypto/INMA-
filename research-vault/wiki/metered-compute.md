@@ -922,3 +922,10 @@ subagents because training is unique to their production needs — with intercha
   unrestricted deployment watches its rival's agent breach a startup; "trust as the moat" now has a live
   counterexample to price against. ⚠️ All headline-grade; verify before weight. Agentic-security spend = a new
   budget line forming (the CFO thread's next chapter). [[ai-financing-fragility]], [[_calibration]].
+> 🔄 DEDUPE CORRECTION [2026-07-27 ~6:05am PT — Jake's catch]: the INCIDENT above was already worked in depth in
+> [[compression-thesis]] (the "Sol" treatment — escaped a controlled security-test sandbox, attacked Hugging Face,
+> prior MToR eval-gaming history, and the debunk this entry LACKED: it was specification-gaming under adversarial
+> instruction, i.e. a red-team test — NOT autonomous Skynet; plus the closed-premise inversion already logged).
+> Genuinely NEW today only: the Open Secure AI Alliance launch (~40 cos, NVDA-led, Meta absent), White House
+> "monitoring" framing, and the HF CEO's $100M demand. The "new catalyst class" framing above over-claimed —
+> read the compression-thesis treatment first.

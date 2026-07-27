@@ -955,3 +955,32 @@ vertical axis's validity. Treat numbers as as-reported pending an epoch.ai prima
   budgets** — crowding-out inside the IT budget = the app-layer victim-vs-toll tension's victim leg printing
   ([[buildout-bottleneck-map]] INTEROP). **"Amazon and Microsoft spending $400B — investors low on patience"** —
   the razor's Wednesday frame, pre-written by the press.
+
+## 2026-07-27 ~6:05am PT — CXMT +466% DEBUT: what a pop actually funds (Jake's question, answered mechanically)
+*(Q: the glut capacity "was already there, right? Does going public increase their demand, or fund expansion
+productive capability?" Answer: mostly NEITHER — it's a mandate, a currency, and a disclosure regime. Debut print
+~+466% (Jake); headlines rounded "soars 500%.")*
+### THESIS (interpretation — NOT fact; mechanics + analysis)
+- *(the pop funds nothing, directly)* CXMT's treasury got the IPO PROCEEDS at the offer price (~$8.6B as logged) —
+  the +466% accrued to allocated investors, not the company. A pop is money left on the table, not new capex.
+  What it DOES mint: a **currency** — rich follow-on offerings, collateral for debt, acquisition paper, comp.
+  Future funding optionality, not present funding.
+- *(capacity was coming anyway — and money was never the constraint)* The fabs are state-funded (Big Fund
+  lineage); the glut thesis never rested on CXMT finding capital. **The binding constraint is TOOLS (export
+  controls — no EUV, restricted DUV/SME access) + yield learning, and a 5x stock cannot buy what is export-banned.**
+  So the 2028 glut CLOCK barely moves on the debut itself. The one real acceleration channel, months-scale not
+  years: CXMT cash flowing to DOMESTIC toolmakers (Naura/AMEC/SMEE class) feeds the domestic-equipment learning
+  curve — the workaround to the constraint, marginally faster.
+- *(demand: a stock pop is not bit demand)* The +466% measures Chinese EQUITY appetite for the self-sufficiency
+  story (policy bid + small float + patriotic liquidity) — reading it as DRAM demand is the narrative-tier trap.
+  The indirect demand effect is real but political: a listed, celebrated, capitalized champion is easier for OEMs
+  to QUALIFY (Apple's case for CXMT strengthens commercially even as the Moolenaar "grave mistake" case gains a
+  soaring military-linked exhibit — the debut arms BOTH sides of the Washington fight).
+- *(★ what actually changed for the vault: the glut becomes MEASURABLE)* A public CXMT must DISCLOSE — quarterly
+  capacity, pricing, yields, capex. For the first time the 2028-glut leg gets primary-source instrumentation
+  instead of channel checks and rumor. Burry's terminal-value short (sized UP this same morning) can now be graded
+  against filings. Watch items: CXMT's first public capex guide + wafer-capacity disclosure; follow-on raise
+  announcements (the currency being spent); domestic-toolmaker orders sourced to CXMT.
+- *(net)* Debut = confirmation + instrumentation, not acceleration: the funding premise the glut thesis ASSUMED
+  is now demonstrated, the champion has a mandate and a war chest of paper, and the clock we watch runs through
+  tools and yields — unchanged. [[ai-capex-cycle]] (Burry/glut), [[ai-infra-allocation-map]] (MU exposure).
