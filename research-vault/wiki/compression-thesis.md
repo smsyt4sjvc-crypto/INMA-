@@ -984,3 +984,19 @@ productive capability?" Answer: mostly NEITHER — it's a mandate, a currency, a
 - *(net)* Debut = confirmation + instrumentation, not acceleration: the funding premise the glut thesis ASSUMED
   is now demonstrated, the champion has a mandate and a war chest of paper, and the clock we watch runs through
   tools and yields — unchanged. [[ai-capex-cycle]] (Burry/glut), [[ai-infra-allocation-map]] (MU exposure).
+
+### 2026-07-27 ~6:15am PT addendum — Jake's sharper version: is the IPO ITSELF even relevant, given they were already backlogged?
+- *(the near-term answer: no)* Output = installed capacity × yield; both pre-funded, pre-building. In shortage,
+  every bit CXMT makes sells domestically regardless of its cap table. **And its global contribution never
+  required exports: import substitution IS global supply relief** — every CXMT bit consumed in China frees a
+  big-3 bit for the rest of the world. That loosening runs on SCALE, not on listing status.
+- *(what the IPO actually is for a state champion: the FUNDING-ARCHITECTURE handoff)* Not a financing event —
+  the state was the financier. It's (1) **the graduation ceremony**: Beijing transferring the marginal expansion
+  yuan from treasury to MARKET — a demonstrated 5x domestic bid means the 2028-30 capacity rounds are now
+  funded by an effectively unlimited public pipeline, politically free; (2) **the Big Fund exit-recycle**: state
+  funds monetize via the listing and REDEPLOY into the next frontier (HBM attempts, domestic tools) — the IPO
+  refills the war chest for round N+1; (3) **a valuation benchmark** that reprices the entire Chinese memory/
+  semis complex and pulls fringe capital into anything memory-shaped in China.
+- *(net, in Jake's frame)* Right for the present: the IPO adds zero bits and they were sold out anyway. Relevant
+  only to the FUTURE rounds: it makes the bit-adding machine self-sustaining (market-funded, state-recycled)
+  and continuously priced. The glut thesis's 2028 leg gains a permanent funding pipeline + a daily mark, not speed.
