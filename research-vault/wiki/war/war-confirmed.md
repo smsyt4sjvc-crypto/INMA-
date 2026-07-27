@@ -374,3 +374,21 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
 - Checklist state: (1) multi-instrument thermal ✔ (OSINT-grade) · (2) loadings data — PENDING, now the decisive
   item · (3) official beyond-intercept — absent · (4) wire pickup — absent · (5) tape reversal — absent (crude
   still deep red). Flag stays 🟠; 🔴 requires (2), (4), or (5).
+
+#### 2026-07-27 ~7:10am PT addendum 2 — SENTINEL-2 OPTICAL shows Abqaiq BURNING (flame + km-scale plume); "multiple compression tanks taken out" claimed
+- DATA (X @MerruX follow-up ~5:50am PT; archived `raw/2026-07-27-abqaiq-sentinel2-plume.png`): **Copernicus
+  Sentinel-2 L2A same-day imagery (2026-07-27, EU-credited) showing an active flame point + a kilometer-scale
+  black smoke plume streaming from the Abqaiq complex.** Claim text: "Confirmed damage... by 'iraqi groups'.
+  Multiple compression tanks taken out." VIIRS N21 06:13 acquisition table shown (multi-row detections).
+  Attribution matches the Saudi MoD's own drones-from-Iraq line.
+- *(evidence-state upgrade)* OPTICAL imagery of an active fire+plume ≥ thermal pixels — the fire-vs-flare
+  question is effectively settled: Abqaiq has a real, large, same-day fire. Three independent sensor legs now
+  (MODIS + VIIRS + Sentinel-2 optical). REMAINING unknowns: MAGNITUDE ("compression tanks" unquantified —
+  2019 took 5.7M bpd offline with ~half restored in days; damage-DURATION decides the price path, not the
+  fire's existence) + official/wire/loadings confirmation.
+- 🟠 HOLDS by the board's own taxonomy — the flag measures the MARKET, and crude remains deep red. **The lag is
+  now INFORMATIONAL, not structural** (2019's repricing waited for a weekend market-open; today's market is OPEN
+  and not repricing = it's waiting for wires/officials or discounting containment). Two live explanations:
+  (a) contained/cosmetic + Saudi private reassurance — the market is right; (b) the widest single mispricing
+  window of the war, compressing into minutes whenever a wire confirms. The tells, in speed order: crude
+  reversing on no headline → XLE/oil equities greening against a fading SPX → wire pickup → loadings data.
