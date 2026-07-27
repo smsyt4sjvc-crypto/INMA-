@@ -818,3 +818,29 @@ Source: JPM analyst call read-out (Jake paste) + ZH (INTC LOD <$94, was $114 AH 
 - *(net)* Not a financing-fragility event (supply agreement, not vendor financing) — if anything it's the demand-visibility
   COUNTER-EVIDENCE the bear stack needs logged honestly. But its evidentiary weight is capped by its instrument: an MOU
   is a press release with a signature. [[metered-compute]], [[ai-financing-fragility]], [[ai-infra-allocation-map]].
+
+## 2026-07-26 ~10:05pm PT — the razor's TERMINAL FORM (Jake): financing is the catalyst; the P&L lost evidentiary value
+Context: Claude re-offered "capex-up + stock-up at an earnings print" as the discrimination's flip-tell; Jake killed it
+with the vault's own record. Conceded — the 7/22 GOOGL test already ran that experiment (Cloud crushed, $205B naked raise,
+−3.85% AH, escape hatch FAILED, graded "my miss, Jake's hit" above). This entry fixes the tell, permanently.
+### THESIS (interpretation — NOT fact; Jake's formulation, analysis-sharpened)
+- *(Jake, tonight)* **"The capex financing is becoming more the catalyst than the earnings"** — because the earnings are
+  "highly scrutinized as circular and partially fabricated on paper." Fuses two logged threads into the razor's terminal
+  form: the 7/22 razor upgrade (financing MEANS > capex number) + the 7/24 Jefferies artificial-earnings trio (unrealized
+  gains — GOOGL's $99B; upfront compute-sales; depreciation-too-low) and the [[ai-financing-fragility]] circularity wiring.
+- *(WHY the venue moved — the mechanism)* Circular revenue discounts the top line (a beat partly funded by your own
+  vendor-financing loop carries less information); paper gains discount EPS. **The P&L lost evidentiary value, so price
+  discovery migrated to the one tape that can't be adjusted: the financing tape.** Cash raised is cash raised; spreads are
+  spreads; a bond book is a bond book. Earnings beats now buy HOURS (MU's 7/1 beat popped, then the lawsuit/cycle/financing
+  cluster took it all back); financing narrative compounds DAILY.
+- *(the VICE — why no capex number is good news anymore)* Capex-UP sells the name (funding fear, buyback displacement,
+  GOOGL 7/22). Capex-DOWN sells the COMPLEX (the P&S cliff — suppliers crash + it's the demand-isn't-there confession).
+  Both directions punished ⇒ the market is saying the only acceptable news is MONETIZATION — the one thing circularity
+  makes unprovable quarterly. That asymmetry IS the fragility, restated.
+- *(the RESTATED flip-tell — in financing terms, where the venue actually is)* The capex-light premium/discrimination
+  reverses when the CREDIT channel says so, not the income statement: (1) AI-complex IG spreads tighten while issuance
+  continues; (2) a mega AI debt raise prices tight / oversubscribed AND the issuer's stock rallies ON the raise;
+  (3) cheap-money regime change (cuts) re-rating debt-funded capex. Until then, capex-light = premium stands.
+- *(⚠️ calibration counterweight — one line, per the 7/23 catch)* "Capex raise = sell" is now becoming the CONSENSUS
+  reflex (FT Alphaville week); crowded reflexes squeeze. The restated tell is the regime's rule, held with the same
+  regime-humility the old tell lacked. [[ai-capex-cycle]], [[ai-financing-fragility]], [[ai-infra-allocation-map]].

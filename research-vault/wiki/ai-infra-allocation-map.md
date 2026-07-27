@@ -143,8 +143,15 @@ co-authored by 4 Meta hardware engineers). Vendor collateral — read DATA as "w
 - *(Jake's premium read, logged)* "Any Mag-7 not buried in AI capex is viewed as a premium" — the
   [[compression-thesis]] smallest-capex-gap discrimination, restated from the tape (AAPL raised prices
   publicly, ripped anyway, took #1). Vault adds the falsifier: the premium is the market's CURRENT sign on
-  capex, not a law — same capex-light fact traded as a DISCOUNT in the "Apple behind on AI" tape. Flip tell:
-  a hyperscaler prints capex-UP + stock-UP → the discrimination is reversing.
+  capex, not a law — same capex-light fact traded as a DISCOUNT in the "Apple behind on AI" tape. ~~Flip tell:
+  a hyperscaler prints capex-UP + stock-UP → the discrimination is reversing.~~
+  > 🔄 CORRECTED [2026-07-26 ~10:05pm PT — Jake's catch]: that flip-tell was STALE against the vault's own
+  > record — the test already RAN 7/22 and fired BEARISH (GOOGL: Cloud crushed, $205B naked capex raise,
+  > −3.85% AH; escape hatch FAILED; graded "my miss, Jake's hit" in [[compression-thesis]]). The venue for
+  > the flip-tell MOVED from the income statement to the FINANCING tape — see the razor's terminal form in
+  > [[compression-thesis]] (2026-07-26 addendum): earnings prints lost evidentiary value (circular revenue +
+  > paper gains), so the discrimination reverses only via the CREDIT channel — AI-complex spreads tightening
+  > + a mega AI debt raise that prices tight/oversubscribed AND the stock rallies ON the raise.
 
 ## Sources
 - 2026-07-01 session; portfolio memory `data/jake-bishop-project-memory.csv`.
