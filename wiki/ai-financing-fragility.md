@@ -1311,3 +1311,20 @@ NEXT 13F (~Aug 14), today visible only via the 10-Q disclosure.
   standards framework that surfaces in legislation. (2) "Signals flashing all over" — the feed is saturated with
   safety content this week post-incident; some of the pattern is the algorithm, not the strategy
   (source-correlation rule). [[metered-compute]] (alliance entry), [[_calibration]].
+
+#### 2026-07-27 ~7:45am PT addendum — the SSI number lands: $5 BILLION (ZH relay, as-reported)
+- DATA: ZH headline ~6:45am PT: "NVIDIA TO INVEST $5 BILLION IN ILYA SUTSKEVER'S AI STARTUP." (This morning's
+  announcement had terms undisclosed; $5B now circulating — treat as-reported pending the WSJ number.)
+- *(the round-trip math, explicit)* $5B equity → SSI's 10x compute expansion is Vera Rubin hardware → the bulk
+  returns to NVDA as REVENUE at ~mid-70s gross margin → **NVDA books ~$3-4B of gross profit substantially funded
+  by its own balance sheet, plus the equity mark.** Into a company with no product and no revenue BY DESIGN.
+  The vendor-financing round trip in one instrument, at size — the "artificial earnings" mechanism (seller-funded
+  revenue) in its cleanest disclosed form yet. Same size class as AMD→Anthropic ($5B, 7/22).
+- *(the same-week dissonance, sharpened)* The industry's customer-facing message all week: cost-down, cheaper
+  models, commoditized volume. The investor-facing action: $5B into a lab with NO tokens to sell at all, during
+  the capex-print week. The two-audience split ([[metered-compute]] messaging entry) at maximum spread — and the
+  most nakedly circular deal yet lands precisely while circular financing is the market's top scrutiny item.
+- *(⚠️ counterweight — NVDA-affordability frame)* $5B ≈ a few weeks of NVDA free cash flow — cheap optionality
+  + socket defense (the TPU flip) + safety optics at NVDA scale, even if it's transformative at SSI scale. Both
+  frames true; the fragility question is never whether NVDA can afford it — it's what the PATTERN (equity-for-
+  consumption across the whole lab complex) does to the meaning of reported AI revenue. [[cepi]].
