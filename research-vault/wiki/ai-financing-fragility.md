@@ -1227,3 +1227,37 @@ NEXT 13F (~Aug 14), today visible only via the 10-Q disclosure.
   is the GAP between growth and a $750B commitment. (3) Sharing-not-dominating cuts the equity story, not necessarily the
   debt story — a commoditized-but-huge token market can service leases even if it never mints a monopoly. The bear case
   is the WRAPPER'S correlation, not certain default. [[metered-compute]], [[compression-thesis]], [[bull-bear-ledger]].
+
+### 2026-07-26 ~6:10pm PT — JAKE PART 2 (graded): everyone was priced as THE winner; the Jevons bet is now priced-beyond-perfection to feed every tranche; and YES — Japan's stake is a different SPECIES of foreign inflow
+#### THESIS (user's synthesis + analysis)
+- *(the sum-of-winners fallacy — Jake's claim, graded RIGHT)* OpenAI, Anthropic (+xAI, + the AI embedded in megacap
+  multiples) were EACH privately marked on winner-take-all scenarios — the sector's implied aggregate market share sums
+  far past 100% (the dotcom portal pattern). The week's evidence (half-price pitches, "similar capabilities," revenue
+  SHARING not domination) attacks the winner-take-all PREMISE those marks rest on. Private marks don't compress smoothly —
+  they GAP at events (down rounds, secondaries, IPO pricing) → **the race-to-rating IPO is also the forced mark-to-market
+  of the everyone's-a-winner era.** Two entries, one collision.
+- *(the tranche stack — priced beyond perfection)* The Jevons volume bet now services claims from: 401k/retail (public
+  equity + the coming IPOs) · life insurers/private credit (Drall-Granato channel) · VCs (equity + NAV loans) · SUPPLIERS
+  (NVDA's $250B wrapper + $350B chip financing) · the US GOVERNMENT (federal land, allocated power, strategic backstop) ·
+  JAPAN (sovereign $33B) · banks/bond funds (wrapped vehicles). **Every tranche's claim is on the SAME cash-flow stream:
+  future inference revenue** — cross-collateralized hope, with the margin on that revenue being repriced downward weekly
+  in the sellers' own ad copy. Perfection is no longer the bull case; it's the DEBT-SERVICE requirement.
+- *(★ Jake's question answered: YES, Japan's $33B is a different species from record foreign inflows)* Ordinary foreign
+  inflows = PORTFOLIO flows: liquid, reversible, mark-to-market, diversified across thousands of assets. The Ohio stake =
+  (1) **direct, illiquid, single-project** — a sovereign check into ONE gas plant feeding ONE campus; (2) **treaty-
+  extracted, not price-attracted** — capital committed for tariff relief, i.e. trade-policy-coerced FDI, which means it
+  is NOT a sentiment signal (it didn't choose this price; it was assigned it) but IS a stuck creditor; (3) structurally a
+  **sovereign project-finance loan repaid in kind** (Japan recoups $33B from power sales, then the US takes 90%) — no
+  exit, no mark, recovery = utilization of a campus whose anchor tenant is non-rated and whose lease is guaranteed by the
+  chip vendor. (4) The 1989 rhyme (Japanese direct capital into US trophy assets at the cycle top — Rockefeller/Pebble
+  Beach) is worth one line and one distinction: THAT was exuberant price-chasing; THIS is coerced — worse for Japan's
+  optionality, but not a sentiment tell.
+- *(the mouths-vs-lifespan mismatch — Jake's sharpest line)* Claims queue on the campus: SoftBank Energy's operating fee →
+  Japan's recoup → US's 90% → the developer's lease → NVDA's guarantee exposure → wrapped-vehicle debt service → OpenAI's
+  own return. The GPUs generating the revenue: 3-6yr economic life (the depreciation debate), 2-3 generations obsolete
+  before the recoup schedule completes. The SHELL and TURBINES outlive the chips — so the long claims are really bets on
+  serial RE-TENANTING and serial chip refresh cycles, i.e., on the Jevons bet renewing itself every ~4 years for decades.
+  ⚠️ One counterweight: Japan's claim sits on POWER sales (utilization), not model margins — senior to the AI economics
+  by one step; and physical FDI ≠ portfolio froth (the consumption-vs-investment crux's "good" column) IF the assets stay
+  productive. The bear isn't that the plant is worthless; it's that everyone above the turbines is priced for perfection.
+  [[consumption-vs-investment-crux]], [[metered-compute]], [[compression-thesis]].
