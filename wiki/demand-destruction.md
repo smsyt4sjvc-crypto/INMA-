@@ -2020,3 +2020,16 @@ Source: Jake paste (reported; specific post not captured this session — log as
 - *(⚠️ calibration — deterrence double-function)* "If your proxies close the strait, I hit YOU" is also aimed at making Iran LEASH the Houthis → can *lower* closure odds even as it *raises severity-if-closed.* Same words, opposite effect; not purely escalatory.
 - *(⚠️ WARNING-vs-TRIGGER — the stack is states, not triggers)* Attribution doctrine + UK/NATO threat + rejected talks + Aqaba = **odds-shaders that time nothing**, not dated falsifiable triggers. The stack has thickened for 13 nights while oil stayed capped; threat #47 on a pile that's failed to trip the export tell 13 nights running isn't different in kind. Market prices barrels, not rhetoric — none of these became an export-terminal strike.
 - *(net)* Tail FATTER + branches now COUPLED (a Red Sea closure now drags Iranian oil into the crosshairs by Trump's own doctrine — structural, respect it). Fuse UNCHANGED: an *executed* export-terminal strike OR an *executed* chokepoint closure. Scarier stack, same trigger. Marker board triggers unchanged; the closure→uncap PROBABILITY-linkage is up.
+
+## 2026-07-27 ~5:20am PT — the WAR-vs-TOLL premium decomposition (the structural residue of the pause)
+*(From the Reuters full picture — `raw/2026-07-27-reuters-iran-strait-control-no-talks.md`; board state: leverage-poor
+pause + Iran-gated transit. Thesis, marked.)*
+- *(the decomposition)* The overnight −6/−8% is the WAR premium (strike risk, duration math) bleeding. What it cannot
+  bleed: the **TOLL layer** — Iran's fee channel + insurance loadings + gate/accident risk + the Oman formalization —
+  which persists in EVERY branch short of Iran conceding supervision it just successfully defended. Post-war oil floor >
+  prewar floor, structurally, even in the good branch. The market is pricing reopening; the open question is reopening
+  ON WHOSE TERMS — the priced path implicitly assumes tankers accept Iran's lane and Washington swallows it.
+- *(the leverage vacuum = the regime's cement)* The US halted for depletion, not satisfaction — meaning the toll regime
+  persists BY DEFAULT unless the end-August framework resolves the disputed language. Dated binaries now: transits-resume
+  (which lane?) → Netanyahu Tue → FOMC Wed → end-August framework deadline. The bypass-buildout counterclock (7 projects)
+  keeps eroding Iran's asset on the years-scale; the toll prices on the months-scale first. [[war-board]], [[oil-value-chain]].

@@ -259,3 +259,30 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
   transits Hormuz; the geopolitical premium is stickier in Brent than the headline move suggests. (3) **Gold UP 0.7% while
   crude crashes 6-8%** — the dissonance strengthened: the metal is trading the RATE-CUT/debasement leg, not the war leg.
   Equity relief remains tech-led (NQ 2x ES) = the dovish-room chain, pre-trading Warsh.
+
+### 2026-07-27 — US halt OFFICIAL + the mechanism: "ran out of targets," air-defense munitions depleting
+- DATA: US official to Reuters — commanders advised the 13-night campaign had run its course, RUNNING OUT OF TARGETS;
+  JCS Chair Caine flagged air-defense munitions depletion; aim was "breaking Iran's grip on the strait"; Reuters: halt
+  leaves "no clear indication of what leverage Washington can exert." 4 US KIA this campaign (the "18" in earlier
+  entries = cumulative-war count context). (`raw/2026-07-27-reuters-iran-strait-control-no-talks.md`)
+- 🔴 `[MARKER-MOVED]` — the official confirmation + cause of the weekend premium-bleed (Brent >8% to <$89 by Mon
+  mid-morning). Read: the pause is durable-BY-NECESSITY (munitions/targets, confirming the Telegraph friction) — which
+  also means it arrives leverage-POOR: the maximum kinetic play ran to exhaustion and the gate stood.
+
+### 2026-07-27 — Iran turns back SIX ships Monday morning; one "had an accident"
+- DATA: Iranian state media "informed source" — six "offending ships" attempting transit without permission turned
+  around Mon AM; one vessel "had an accident"; transit only via Iran's specified (fee-intended, Iran-coast) channel.
+  ⚠️ belligerent-source, operational claim, unverified by trackers yet. (same raw)
+- 🟠 `[SHOULD-MOVE]` — ACTIVE chokepoint enforcement DURING the −8% reopening-priced tape = the morning's divergence.
+  The priced path requires tankers transiting IRAN'S toll lane with US acquiescence; six turn-backs + an "accident"
+  says the gate is enforcing, not opening. If tracker data confirms zero/gated throughput while crude keeps bleeding,
+  the mispricing flag stands; transits resuming THROUGH Iran's lane = the market's read vindicated (toll-regime-accepted).
+
+### 2026-07-27 — Ceasefire-testing: Jordan downs two drones; drones hit Iranian-Kurdish base in N. Iraq
+- DATA: Reuters, Mon; no casualties reported either incident. (same raw)
+- 🟡 `[ODDS-SHADER]` — early probes at the pause's edges (deniable vectors first). Raises fragility odds; times nothing.
+
+### 2026-07-27 — Oman track: senior Omani delegation in Tehran over the weekend; strait talks "went well" (Baghaei)
+- DATA: Reuters; Iran aims to FORMALIZE strait control in an agreement with Oman (opposite shore). June framework:
+  talks due by END-AUGUST; Hormuz language disputed (US "free travel" vs Iran "supervise transit"). (same raw)
+- 🟡 `[ODDS-SHADER]` — the toll regime institutionalizing while the guns pause. End-August = the next dated binary.
