@@ -48,3 +48,9 @@ grading uses the actual open/close prints Jake pastes.
 - MAGNITUDE: **UNDER-called to the downside.** The humble "roughly flat / mild-down" base case under-weighted the spark;
   the melt-up cracked bigger than modeled. Honest read: direction right, size light — the "non-call" hedged when a real
   2-way trigger (oil+capex+yields) was live. Calibration note: when TWO triggers are armed, don't default to flat.
+
+## 2026-07-27 ~1:05am PT — interim grade (news-confirmed, prints pending)
+- **Jake's 7/23 de-escalation call, checkpoint 1: HIT.** "After Fri 7/24 close, a major de-escalation
+  speech/announcement" → Reuters Sun 7/26: senior Iranian official says Iran will halt attacks if US refrains;
+  overnight Brent −6% (~$90.97) / WTI −6% (~$83.83). Direction + timing window + instrument (oil off-ramp) as-called.
+  Remaining checkpoints (tug-of-war → VIX pop; 7/29-30 beat-but-sell-capex) stay open. Set #4 registered for Monday.
