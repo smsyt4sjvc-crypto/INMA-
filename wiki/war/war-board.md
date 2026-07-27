@@ -175,3 +175,18 @@ crossing of it.* Watch items: Kuwait-facility ID · Kharg/Saudi-terminal strike 
 - Triggers: (a) export-terminal — odds DOWN w/ stand-down, Houthi/Yanbu vector keeps it nonzero. (b) hull-stop — the
   six-ship "accident" = possible variant, unverified. (d) recrossed $90 DOWNWARD. OFF-RAMP: fired + holding, but the
   diplomacy leg is thinner than the tape's framing — the gate, not the deal, is the fact on the water.
+
+## UPDATE — 2026-07-27 ~6:40am PT (post-open) — THE PAUSE IS BILATERAL; THE WAR IS MULTILATERAL
+- **Three proxy fronts fired DURING the pause:** Houthi mass strike on Aramco Jizan (burning, trader-confirmed
+  damage) + Yanbu (intercepted, Greek-run Patriot) — first Saudi-oil strikes since 2022; drones over Jordan +
+  N-Iraq; Ukraine hit Iranian vessels in the Caspian. US-Iran principals holding; everyone else testing.
+- **(a) export-terminal tell: CLOSEST APPROACH, formally unfired** (refinery ≠ crude-export node; bypass terminus
+  intercepted). "Abqaiq targeted" = ZH claim, wire-unconfirmed — watch for a second source; a CONFIRMED Abqaiq
+  strike = the uncap, full stop. **(c) SOUTH advancing:** Bab el-Mandeb traffic plunging (Reuters data) — the
+  7/26 "still flows" line is STALE; both chokepoints impaired at once.
+- **The attribution trap is the pause's fault line:** Trump's own doctrine routes Houthi action to Iran. The pause
+  survives only while Washington declines to invoke its own doctrine against a burning Aramco refinery. Netanyahu
+  in the building TOMORROW arguing exactly that linkage; FOMC Wednesday.
+- **Market referee: crude −5-6% through ALL of it** — diplomacy-dominant pricing against a mined tanker, a burning
+  refinery, and a plunging southern chokepoint. Either the reopening is real, or this is the most coiled the
+  re-load has been. The registered asymmetry (premium out → failure re-loads bigger) is at max stretch.

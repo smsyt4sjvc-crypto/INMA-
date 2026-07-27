@@ -304,3 +304,28 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
 - 🟠 flag stands; sourcing caveat sharpened: the claim chain is the belligerent's own media running the toll
   regime's enforcement-propaganda arc (violate the route → the mine gets you). Whether one event or two (the
   Reuters Mon-AM "accident" ship), the message is the product: the gated-transit regime enforces itself.
+
+### 2026-07-27 — Houthi MASS STRIKE on Aramco Jizan + Yanbu: dozens of missiles/drones; Jizan refinery BURNING; Yanbu intercepted (first Saudi-oil strikes since 2022)
+- DATA (wires, 7/25-26): Houthis fired **dozens of ballistic + cruise missiles and drones** at Aramco-affiliated
+  facilities — retaliation for Saudi strikes on Hodeidah/Kamaran. **Jizan refinery: large smoke column; "some
+  damage" per two Asia-based trading sources** (no Saudi comment). **Yanbu: two ballistic missiles at oil
+  installations INTERCEPTED by a Greek-military-operated Patriot battery.** First Houthi strikes on Saudi oil
+  since 2022; AJ: "new front in US-Iran war escalates." A Wikipedia entry ("2026 Aramco refinery attack") already exists.
+- **⚠️ the ZH headline's "Abqaiq targeted" claim: NOT confirmed by any wire in the sweep** — confirmed targets are
+  Jizan (refining) + Yanbu (the Hormuz-bypass crude terminus). Claim-grade until a second source names Abqaiq.
+- 🟠 `[SHOULD-MOVE]` — **tell (a)'s closest approach of the war, formally still UNFIRED**: Jizan is a refinery
+  (products), not a crude-EXPORT node; Yanbu was intercepted. But dozens of projectiles at oil infrastructure +
+  actual refinery damage + the bypass terminus targeted, DURING the pause, and crude fell 5-6% anyway = the
+  divergence bucket now holds a mined tanker + a burning refinery + a targeted bypass. The re-load asymmetry is maximal.
+
+### 2026-07-27 — Bab el-Mandeb traffic PLUNGES (Reuters data) — the chokepoint that was holding, impaired
+- DATA: Reuters ("Red Sea shipping slows after Houthi attack, data shows"); Ynetnews: "ship traffic plunges
+  through Bab el-Mandeb after Houthi strikes on Saudi oil sites." Saudi military striking Houthi targets in Yemen.
+- 🟠 `[SHOULD-MOVE]` — the board's 7/26 line was "Bab el-Mandeb still flows = the one chokepoint holding." That
+  line is now stale: tell (c) advancing at the SOUTHERN chokepoint while the northern one runs gated-transit.
+  Both Red Sea + Hormuz impaired simultaneously = the two-chokepoint scenario, present tense.
+
+### 2026-07-27 — Ukraine strikes IRANIAN VESSELS in the Caspian; Tehran: "hostile and criminal act"
+- DATA: CNBC 7/26. The 7/26 board's "spoiler vector" now kinetic against Iranian assets mid-pause.
+- 🟡 `[ODDS-SHADER]` — a third-party detonation vector Tehran could use as exit-ramp from the pause at a time of
+  its choosing ("we were attacked") — not Washington's doing, but Washington's problem.
