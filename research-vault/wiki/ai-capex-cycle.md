@@ -469,9 +469,13 @@ $ IN over usable compute OUT, ignoring monetization — is THAT ratio eroding? A
   release/domestic-only.** Context: Meta ordered to unwind $2B Manus acquisition (April); sweeping overseas-deal
   rules (June); Beijing alarmed Anthropic's restricted cyber tool could target Chinese systems.
 - **DRAM antitrust class action** (filed 6/25, N.D. Cal): Samsung + SK Hynix + Micron accused of coordinating
-  DDR4/DDR5 capacity cuts "under the pretext of the HBM transition," inflating commodity memory up to 700%
+  ~~DDR4/DDR5~~ capacity cuts "under the pretext of the HBM transition," inflating commodity memory up to 700%
   since 2022; 17 plaintiffs. Street shrugged (Cantor PT $1,500→$2,000 same week). MU had touched ATH $1,255
   the day the suit landed, −16% the following five sessions (lawsuit + cycle-top derate concurrent).
+  > 🔄 CORRECTED [2026-07-26, WebSearch verify — TrendForce/Tom's Hardware]: complaint targets **DDR3/DDR4**
+  > commodity DRAM (not DDR5 as first logged). Confirmed: 6/25 filing, N.D. Cal (Judge Noel Wise); 17
+  > plaintiffs = 14 consumers + 3 small PC builders; +700% since 2022; big-3 shifted **~25% of DRAM wafer
+  > capacity to HBM** since 2022, >95% combined HBM share. No DOJ/FTC adoption, no whale filings as of 7/26.
 - Also as-reported (Jake, unverified): **Xbox prices +$150** — memory-cost passthrough, same mechanism as the
   Apple 6/25 raise. **OpenAI/Anthropic bidding compute down to smaller models** — compression at the lab layer.
 ### THESIS (interpretation — NOT fact)

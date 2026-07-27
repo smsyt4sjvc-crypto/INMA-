@@ -94,6 +94,18 @@ co-authored by 4 Meta hardware engineers). Vendor collateral — read DATA as "w
   the vault flagged (IBM front-running, 7/14) is ALSO what late-stage demand marketing looks like — texture
   for the near-term hold-side runway on MU *(held, 28%)*, touches NOTHING in the 2028-glut / Burry-short
   medium-term caution. Both stand. [[portfolio-state]], [[_calibration]].
+- *(Jake's catch, 2026-07-26 ~10pm PT — the white paper is the DEMAND side of the lawsuit's story)* The 6/25
+  DRAM class action ([[ai-capex-cycle]] 7/7 cluster) alleges the big 3 starved commodity DDR3/DDR4 "under the
+  pretext of the HBM transition" — datacenter demand eating consumer memory. This paper is the NEXT chapter of
+  the same crowding-out, published proudly: hyperscalers qualifying **LPDDR — mobile's own memory class
+  (iPhone/M-series Macs/Android are the incumbent buyers)** — for fleet deployment at up to 2TB/socket. If it
+  scales, AI demand collides with Apple/OEMs *in their own product class*, not just adjacent to it. Cuts three
+  ways: near-term MORE pricing power (tighter LPDDR = bull the runway); politically it worsens the exact
+  "AI capital outbidding consumers" optics the complaint weaponizes (phones priced out by datacenters = the
+  ratchet's next exhibit); legally it fattens the dormant WHALE claims — Apple already has self-documented
+  damages (its June price raise) and is the vault-tagged clean claimant that monetizes leverage in the GLUT,
+  when allocation risk no longer mutes it. Firewall note: the paper is demand-side marketing, not evidence of
+  supply fabrication — the collusion allegation stays unproven; parallel oligopoly conduct isn't per se illegal.
 
 ## Sources
 - 2026-07-01 session; portfolio memory `data/jake-bishop-project-memory.csv`.
