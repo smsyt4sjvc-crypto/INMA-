@@ -1409,3 +1409,7 @@ THESIS (interpretation):
   manipulation in modern history worked because LIBOR was a SURVEY, not a traded price. Manipulation succeeds on
   administered prices and private marks; it dies on deep two-way tapes. Same weekend lesson, fourth appearance: the games
   live in the soft-mark ledger.
+- *(round-3 coda — one more wall)* Selling the appreciated bonds "at profit to pay the tax" = a REALIZATION event: the
+  manufactured gain is itself taxed (capital gains). The scheme funds one tax bill by generating another — a recursion
+  on top of the venue/exit/self-defeat walls. The only gains that fund taxes efficiently are the ones never realized —
+  which is buy-borrow-die, which is what they already do instead.
