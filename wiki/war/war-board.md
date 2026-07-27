@@ -209,3 +209,7 @@ crossing of it.* Watch items: Kuwait-facility ID · Kharg/Saudi-terminal strike 
   location"), ~300MW claimed across two instruments, + the **East-West/Petroline pumping station** named as a second
   fire site = a surgical set (processing node + bypass artery). Still no wires/officials/tape confirmation — the
   decisive referee is now **Ras Tanura/Yanbu loadings + Petroline flow**. Crude still deep red = the coil stretches further.
+- **7:10am PT:** Sentinel-2 OPTICAL (same-day, EU-credited) shows flame + km-scale plume at Abqaiq — fire-vs-flare
+  settled; three sensor legs. "Multiple compression tanks" claimed. Crude STILL deep red → the flag stays 🟠 by
+  the board's own rule (it measures the market), and the lag is now informational: watch crude minute-scale +
+  XLE-vs-SPX divergence as the fastest confirmation channels. Magnitude/duration = the open question that prices it.
