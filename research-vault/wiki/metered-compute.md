@@ -794,3 +794,36 @@ less cost"; NVDA/GOOGL/MSFT open-source endorsements — the entire industry's p
   hyperscaler cloud GM prints quarterly — **read the messaging WITH cloud gross margins: copy-pivot + GM holding = AWS
   playbook (bullish volume); copy-pivot + GM compressing = Bertrand descent (the crush leg).** Both registered; margins decide.
   [[compression-thesis]] (razor/trigger), [[ai-financing-fragility]], [[ai-capex-cycle]].
+
+##### 2026-07-27 ~12:50am PT — "CFOs don't stop being CFOs": the demand-side twin of the messaging pivot, now SOURCED
+*(Jake's claim — companies already mitigating tasks to cheaper models — held from memory without a source. Verified.)*
+### DATA (WebSearch 7/27, as-reported)
+- **CNBC (late June 2026): CFOs "blindsided" by AI bills they never budgeted; OpenAI AND Anthropic rolled out admin
+  analytics + spend limits BECAUSE customers demanded ways to rein in "out-of-control" token consumption.**
+- **Axios (May 2026): CIO/CFO framing shifted from "how do we adopt AI faster" to "how do we adopt AI without going
+  broke."** Cost/ROI now dominates the enterprise conversation.
+- Trade guidance converged on **model ROUTING as the #1 cost lever** (10x+ price gap frontier-vs-small for the same
+  tokens); the standard playbook = audit every flagship-model workflow, DOWNGRADE the commodity work (classification,
+  extraction, summaries) to the cheapest tier.
+- **Axios 7/17: OpenAI's CFO is pitching "a new way to measure AI's value."**
+### THESIS (interpretation — NOT fact)
+- *(the mechanism named — the procurement phase transition)* 2023-25 AI spend lived in the EXPERIMENTATION budget
+  (CIO/innovation, price-insensitive, FOMO-funded). 2026 spend is migrating to the PRODUCTION budget (CFO-governed,
+  unit-economics). **Pricing power dies in that migration in every enterprise-tech cycle** (cloud ~2012-15, SaaS seat
+  purge 2022-23). Jake's line is the law: CFOs revert. The sellers' cost-messaging pivot (prior entry) is the SUPPLY-side
+  response to this demand-side discipline — the two entries are one event seen from both sides. Vault receipts that
+  predate the search: MSFT routing Copilot to Kimi; Palo Alto CFOs' 90%-off demands; WSJ tokenunmaxxing; Jefferies
+  token-parsimony; the labs' own "right model, right job, right cost" copy.
+- *(★ the labs BUILDING the downgrade tooling = the confession)* Vendors shipped spend-limit dashboards and admin
+  analytics on customer demand — you don't hand the buyer a knife unless the alternative is churn. Compare AWS: cost
+  tooling arrived WITH margin expansion; here it arrives WITH price war. Watch which precedent the margins follow.
+- *(★ OpenAI CFO inventing new value metrics = a narrative-tier tell)* When the buyer's metrics (per-task ROI) turn
+  hostile, the seller proposes NEW metrics. Metric-shopping is what Goodhart looks like from the vendor side
+  ([[_assumption-filters]]) — log it next to "artificial earnings": the measurement layer is being contested in both
+  directions now.
+- *(⚠️ counterweight — the downgrade wave has a QUALITY FLOOR)* Routing audits hit the commodity tier hardest
+  (classification/extraction/summaries) — the tier that was ALREADY commoditizing. Frontier-dependent threshold work
+  (agentic chains, the growth engine) resists downgrading because failure cost > token savings. So task-mitigation
+  shreds pricing where capability margins were already dead and largely spares the tier where they survive — consistent
+  with the demand-decomposition entry: the two-tier structure persists; the crush and the volume bull keep coexisting.
+  [[compression-thesis]], [[ai-financing-fragility]].
