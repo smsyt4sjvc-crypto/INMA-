@@ -54,3 +54,22 @@ grading uses the actual open/close prints Jake pastes.
   speech/announcement" → Reuters Sun 7/26: senior Iranian official says Iran will halt attacks if US refrains;
   overnight Brent −6% (~$90.97) / WTI −6% (~$83.83). Direction + timing window + instrument (oil off-ramp) as-called.
   Remaining checkpoints (tug-of-war → VIX pop; 7/29-30 beat-but-sell-capex) stay open. Set #4 registered for Monday.
+
+## SET #4 GRADED (Mon 7/27 close, Jake's cell prints, ~2:50pm PT)
+| Asset | Call | Actual | Dir | Range |
+|---|---|---|---|---|
+| WTI | −5% (75% dn) | **−3.9%** ($81.91) | ✅ | ✅ |
+| SPX | +0.9% (68% up) | **+0.02%** (7,413) | ✅ by rounding — honest read: FLAT, thesis failed | ✅ |
+| QQQ | +1.1% | **−0.27%** | ❌ | ✅ |
+| SOXX | +1.8% | **−2.04%** | ❌ | ⚠️ breached low edge by 0.04 |
+| MU | +2% | **−1.16%** ($900.20) | ❌ | ✅ |
+- **Direction 2/5 (one by rounding). Shape MISSED: gapped up, FADED to flat — the registered ALTERNATIVE fired**
+  ("fade = the market parking ahead of FOMC/earnings = tug-of-war resolving toward the financing side EARLY").
+  Kill-switch #3 fired in variant: semis −2% on a flat tape (NVDA −5% on its own $5-6B circular-deal news).
+- **The relief-squeeze thesis was WRONG; Jake's 7/23 tug-of-war call was RIGHT**: oil off-ramped hard (checkpoint
+  #2 ✅ — Brent broke $90) while equities could NOT hold the relief (his "de-escalation won't rescue the market
+  cleanly" = the day's exact shape). VIX 18.67 = crossed INTO the DECIDE zone on a "relief" day — the vol-bid-
+  under-flat-index signature his VIX-pop leg needs. Checkpoint #4 = building, not fired.
+- Lesson logged: I weighted washed-out positioning (squeeze fuel) over the financing tape's grip; the CDS record
+  wides were announced DURING the session and the tape obeyed them, not the ceasefire. The razor outranks
+  positioning — write the next set accordingly.

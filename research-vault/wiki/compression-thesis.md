@@ -1078,3 +1078,22 @@ one correction: LIMITED production has begun; mass production/fab integration is
   far faster than expected" language recurring for the third time in vault history. The glut clock's tool
   constraint isn't just dated now; its first delivery is calendared. BofA's "modest threat" counterweight stands
   for ASML revenue; it does not address the CXMT-capacity channel, which is the one the MU thesis cares about.
+
+## 2026-07-27 ~2:50pm PT — THE CLOSE: maximum-dispersion day — the razor's cleanest single-session print yet
+### DATA (Jake's cell, closing prints)
+- **SPX +0.02% (dead flat) hiding the war underneath: payers GREEN — GOOGL +2.4%, MSFT +2.0%, AAPL +0.9%,
+  NOW +7.9% — vs sellers RED — NVDA −5.0%, SOXX −2.0%, SMH −2.2%, MU −1.2% ($900.20), neoclouds bleeding
+  (CORZ −9.7%, APLD −3.9%).** VIX 18.67 (+0.5, INTO the DECIDE zone on a flat day). TLT +0.6%, 10Y 4.64.
+  Brent 87.68 (broke $90), WTI 81.91, XLE −2.4%, VG −10.5%. Gold held 4,079. SPX still below the 7446 CTA
+  trigger. Eisman (CSV): "the entire market is now one trade." ORCL noted −64% in 10 months.
+### THESIS (interpretation — NOT fact)
+- *(★ NVDA −5% ON its own $5-6B SSI announcement day = the market now SELLS circular-financing news)* The
+  cleanest possible test: NVDA announced the most vendor-financed deal of the cycle and lost 5% on a day its
+  biggest customers (the payers) RALLIED. Equity-for-consumption is being priced as a LIABILITY at the seller —
+  the terminal-form razor confirmed at single-name granularity, same day the hyperscaler CDS basket made record
+  wides. The financing tape governed everything: relief couldn't lift the complex; circular news actively sank it.
+- *(NOW +7.9% = the victim-vs-toll tension voting TOLL today)* The app/workflow layer ripping while semis bled =
+  the enroll-once thesis's first tape-level confirmation. One day ≠ resolution; flagged for the attach/NRR grading.
+- *(the day in one line)* De-escalation delivered its oil leg and equities REFUSED the relief — dispersion at
+  maximum, vol bid under a flat index, credit at record wides into the FOMC + capex prints. Jake's tug-of-war,
+  on schedule. [[ai-financing-fragility]], [[metered-compute]], [[war-board]].
