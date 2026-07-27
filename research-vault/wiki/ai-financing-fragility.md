@@ -1261,3 +1261,21 @@ NEXT 13F (~Aug 14), today visible only via the 10-Q disclosure.
   by one step; and physical FDI ≠ portfolio froth (the consumption-vs-investment crux's "good" column) IF the assets stay
   productive. The bear isn't that the plant is worthless; it's that everyone above the turbines is priced for perfection.
   [[consumption-vs-investment-crux]], [[metered-compute]], [[compression-thesis]].
+
+## 2026-07-27 ~5:50am PT — SPACEX CRACKS POST-LISTING: the private-marks thesis printing at the flagship (collector run #1)
+### DATA (headlines + summaries via collector CSV, `raw/` upload 12:37utc; details unverified individually)
+- **SpaceX −45% from its record high** (post-listing); WaPo: "SpaceX tumbles back to Earth, dragging Tesla stock
+  down with it"; **Musk reported −$650B in 5 weeks / −40% of net worth in a month**; he is **raising $4B for
+  another company** amid it; **Ark bought $21.3M of SpaceX on the way down**; Alphabet's stake headline-marked
+  at $94.1B. **★ Aug 6: ~911.5M shares become available for sale** shortly after its first earnings report
+  (the lockup/supply flood, dated). Same Bloomberg roundup line: **DeepSeek SUSPENDS FUNDRAISING** after viral
+  US-China posts.
+### THESIS (interpretation — NOT fact)
+- *(the private-marks-gap thesis, printing)* The flagship private-mark darling listed, halved, and now faces a
+  dated 911M-share supply event on Aug 6 — "private marks gap at events" is no longer hypothetical; it has a
+  ticker and a calendar. This is the LISTING CLUSTER's demand test running ahead of Anthropic's October window:
+  if the deepest-brand name in the private complex can't hold its mark through lockup, the cluster's pricing
+  umbrella (and the race-to-rating logic) tightens for everyone behind it. DeepSeek pausing fundraising = the
+  same repricing reaching the Chinese lab tier. Watch: SpaceX earnings + Aug 6 absorption; TSLA correlation
+  (the Musk-complex contagion channel); the Alphabet mark vs the tape (paper gains in EPS — the artificial-
+  earnings trio). [[compression-thesis]], [[detachment-bid]].

@@ -296,3 +296,11 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
   divergence is now maximal: physical mine-strike evidence priced at zero because the diplomacy narrative owns the
   tape. Either the market is right that the ceasefire+talks reopen the strait fast, or this is the mispriced litter
   of a gated strait. The morning's single most underpriced line.
+
+#### 2026-07-27 addendum — tanker/mine detail from the collector sweep (timing + sourcing sharpened)
+- DATA: reports began ~Sun AM PT (22-23h before the 5:37am scan), sourced to IRANIAN/IRGC-LINKED media; framing:
+  the tanker "ignored Iran's warnings"/"left the designated route," explosion "deadly," concurrent with "Iran
+  intercepts six vessels" (NY Post pairing; Maritime Executive: "As Diplomacy Picks Up, Iran Claims Mine Strike").
+- 🟠 flag stands; sourcing caveat sharpened: the claim chain is the belligerent's own media running the toll
+  regime's enforcement-propaganda arc (violate the route → the mine gets you). Whether one event or two (the
+  Reuters Mon-AM "accident" ship), the message is the product: the gated-transit regime enforces itself.
