@@ -107,6 +107,46 @@ co-authored by 4 Meta hardware engineers). Vendor collateral — read DATA as "w
   when allocation risk no longer mutes it. Firewall note: the paper is demand-side marketing, not evidence of
   supply fabrication — the collusion allegation stays unproven; parallel oligopoly conduct isn't per se illegal.
 
+## 2026-07-26 ~10pm PT — VERIFIED: Apple lobbying Trump admin for CXMT/YMTC access; MICRON LOBBYING AGAINST — the whale squeeze is LIVE, in front of the White House
+### DATA (WebSearch verified 7/26; multi-outlet)
+- **Apple is testing CXMT (ChangXin) DRAM** for China-market devices and **Cook + top execs have pitched
+  Trump, Lutnick (Commerce), Bessent (Treasury)** on using **CXMT + YMTC** memory in Apple products sold
+  **outside the US**. Timeline: petition reported 6/29 → active lobbying 7/1 → testing confirmed 7/8 →
+  **7/24: "Apple and Micron clash before Trump"** (9to5Mac) — **Mehrotra (MU CEO) directly warning Lutnick
+  et al against allowing CXMT/Chinese memory into US supply chains.**
+- Blockers: CXMT is on the **Pentagon 1260H military-linked list**; House China Committee (Moolenaar) +
+  Foreign Affairs (Mast) call any CXMT/YMTC sourcing a "grave mistake"; lawmakers urging an outright BAN
+  on Chinese memory.
+- Context in the coverage: consumer DRAM prices ~4x over recent quarters on the HBM capacity shift; Apple's
+  late-June price raises ($100–500 across Macs/iPads) explicitly framed as memory-cost passthrough;
+  iPhone 18 Pro memory cost reported as threatening to ~triple.
+### THESIS (interpretation — NOT fact) — Independence: 3/5 (multi-outlet trade press, single underlying report chain; no primary docs)
+- *(Jake's frame, sharpened — the three-lever whale squeeze)* Apple is running a classic procurement squeeze
+  on the oligopoly: **Lever 1 = the China valve** (CXMT/YMTC petition — live); **Lever 2 = the dormant legal
+  claim** (the 6/25 class action is the roadmap; Apple's June price raise = self-documented damages);
+  **Lever 3 = the historical prepay-for-priority playbook.** Jake's chain: petition FAILS → the legal
+  *threat* activates to extract priority pricing "once again." Refinement: the levers compound rather than
+  queue — the petition is doing leverage work NOW (Micron fighting it publicly proves the threat is priced
+  as real; you don't spend CEO political capital against a bluff), and the legal threat's cheap form
+  (private, paired with lobbying) works pre-glut even though the CLAIM monetizes best post-flip
+  (whale-timing, [[ai-capex-cycle]]). Apple v. Qualcomm precedent: Apple will go to war with a sole-source
+  supplier while still dependent.
+- *(the fork is an event for MU either way)* **Approve** (even ex-US-only): the captive-customer premium
+  cracks, CXMT gets qualified/legitimized by the world's cleanest OEM = the 2028 glut leg ACCELERATES
+  (Burry's short thesis gets its demand-side confirmation early). **Deny**: Apple stays captive in the
+  shortage (near-term bullish MU pricing) BUT the damages narrative strengthens ("we tried to escape; the
+  state locked us in with the profiteers") → feeds the whale claim + the political ratchet, and BOM-driven
+  consumer price raises keep the "AI outbidding consumers" politics loud. Either branch: **memory pricing is
+  now arbitrated in Washington, not the market** — the designated-champion umbrella ([[buildout-bottleneck-map]]
+  7/11) colliding with the champion's own biggest customer. Watch: the admin decision, any 1260H/Commerce
+  action, a YMTC(NAND)-vs-CXMT(DRAM) split compromise, MU lobbying disclosures.
+- *(Jake's premium read, logged)* "Any Mag-7 not buried in AI capex is viewed as a premium" — the
+  [[compression-thesis]] smallest-capex-gap discrimination, restated from the tape (AAPL raised prices
+  publicly, ripped anyway, took #1). Vault adds the falsifier: the premium is the market's CURRENT sign on
+  capex, not a law — same capex-light fact traded as a DISCOUNT in the "Apple behind on AI" tape. Flip tell:
+  a hyperscaler prints capex-UP + stock-UP → the discrimination is reversing.
+
 ## Sources
 - 2026-07-01 session; portfolio memory `data/jake-bishop-project-memory.csv`.
 - 2026-07-26: `raw/archive/2026-07-26-micron-meta-lpddr-dc-whitepaper.pdf` (Micron/Meta LPDDR5X white paper, Rev A 07/2026).
+- 2026-07-26: WebSearch — 9to5Mac 7/24 (Apple/Micron clash before Trump), Electronics Weekly 6/29 (CXMT petition), MacDailyNews 7/1+7/8 (lobbying, testing), wccftech (iPhone 18 memory costs), cryptobriefing (lawmakers urge ban).
