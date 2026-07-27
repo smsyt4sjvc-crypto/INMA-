@@ -947,3 +947,11 @@ vertical axis's validity. Treat numbers as as-reported pending an epoch.ai prima
   anti-"capex discipline" signal — Wednesday's razor test (does the tape sell the raise?) now has its exhibit
   pre-loaded. ORCL at a 52-wk low on a relief tape = the financing-fragility name leading DOWN through maximum
   relief — the financing tape's grip confirmed even on green days. [[ai-financing-fragility]], [[metered-compute]].
+
+## 2026-07-27 ~5:55am PT addendum — the Wednesday setup, sell-side + CFO texture (collector run #1)
+- **UBS: "Cheaper AI models are reshaping the AI trade, but demand for computing remains strong"** — the vault's
+  margin-bear/volume-bull split, now sell-side. **SAP CFO: AI must move past chatbot "low-hanging fruit" before
+  returns** — the CFO-ROI thread from the buyer's own mouth. **IBM −25% as hardware spending DOMINATED AI
+  budgets** — crowding-out inside the IT budget = the app-layer victim-vs-toll tension's victim leg printing
+  ([[buildout-bottleneck-map]] INTEROP). **"Amazon and Microsoft spending $400B — investors low on patience"** —
+  the razor's Wednesday frame, pre-written by the press.
