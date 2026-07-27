@@ -286,3 +286,13 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
 - DATA: Reuters; Iran aims to FORMALIZE strait control in an agreement with Oman (opposite shore). June framework:
   talks due by END-AUGUST; Hormuz language disputed (US "free travel" vs Iran "supervise transit"). (same raw)
 - 🟡 `[ODDS-SHADER]` — the toll regime institutionalizing while the guns pause. End-August = the next dated binary.
+
+### 2026-07-27 — Tanker EXPLODES after hitting NAVAL MINE in Hormuz (~9:30pm PT Sun) — and the market shrugs it
+- DATA: headline via scanner digest (GoogleNews, ~8h old at 5:34am PT): "Oil Tanker explodes in Strait of Hormuz
+  after hitting naval mine amid the battle for control." Likely the Reuters piece's turned-back ship that "had an
+  accident." Details/casualties/vessel unverified — needs the tracker/wire follow-up.
+- 🟠 `[SHOULD-MOVE]` — **tell (b) hull-stop FIRING in kinetic form + the mining claim confirmed by detonation** (a mine
+  that explodes is not a claim), and crude is DOWN 5-7% anyway with Brent sitting exactly ON the $90 marker. The
+  divergence is now maximal: physical mine-strike evidence priced at zero because the diplomacy narrative owns the
+  tape. Either the market is right that the ceasefire+talks reopen the strait fast, or this is the mispriced litter
+  of a gated strait. The morning's single most underpriced line.
