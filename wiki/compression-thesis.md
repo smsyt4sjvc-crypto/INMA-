@@ -855,3 +855,63 @@ with the vault's own record. Conceded — the 7/22 GOOGL test already ran that e
 - *(⚠️ calibration counterweight — one line, per the 7/23 catch)* "Capex raise = sell" is now becoming the CONSENSUS
   reflex (FT Alphaville week); crowded reflexes squeeze. The restated tell is the regime's rule, held with the same
   regime-humility the old tell lacked. [[ai-capex-cycle]], [[ai-financing-fragility]], [[ai-infra-allocation-map]].
+
+## 2026-07-26 ~11:55pm PT — DeLong/Kedrosky/Epoch: capability CONVERGENCE chart — the frontier-cadence trigger gets its first measured input
+Sources: `raw/2026-07-26-delong-llm-convergence.md` (DeLong 7/21, reprinting Kedrosky; data = Epoch.ai
+Capability Index) + `raw/2026-07-26-kedrosky-epoch-convergence-chart.png`. Independence: **2/5** — one
+dataset (Epoch ECI) through one blogger bloodstream (Kedrosky→DeLong), and DeLong HIMSELF questions the
+vertical axis's validity. Treat numbers as as-reported pending an epoch.ai primary pull.
+### DATA (as-reported)
+- **Cadence:** new Epoch-Capability points "two a month back in 2023 → one every six months today" (DeLong's
+  summary line). **Spread of assessed frontier-lab capabilities has shrunk BY HALF.**
+- Chart (195 results, Apr-23→mid-26): fitted ECI ~100→~127 by Jan-24 (the marked pre→post-training
+  transition), ~145 by mid-25, **~151 and flattening mid-26**. Top edge still creeping (GPT-5.5 Pro ~160
+  ABOVE fit). **Kimi 3 (Chinese open-weight) arrowed INSIDE the frontier band (~152-155).**
+- Kedrosky's economic chain, quoted: post-training era → "smaller capability gains, fewer durable outliers,
+  less defensible technical differentiation... value of each incremental model release **(ignoring
+  harnesses)** is falling, even if production costs aren't... Model prices compress... Inference becomes
+  increasingly commoditized... Frontier development becomes harder to monetize... Value shifts away from
+  the base model."
+- DeLong's own position: self-declared "bear on MAMLMs," but names ONE reservation — "true deep magic has
+  apparently emerged from Claude Code's harness" (programming = the domain where surface prediction and
+  world-modeling coincide).
+### THESIS (interpretation — NOT fact; analysis unless tagged)
+- *(the razor gets a second, independent-ish mechanism)* The vault's compression read has been ECONOMIC
+  (China open-weight price war, token deflation, payer discipline). Kedrosky derives the SAME pricing
+  conclusion from the CAPABILITY side: converging models = commoditizing inference = value exits the base
+  model. Two mechanisms, one conclusion — genuine reinforcement, though not full independence (both
+  ultimately ride "no durable differentiation").
+- *(★ the load-bearing parenthetical)* Kedrosky's "**(ignoring harnesses)**" is the whole ballgame. The ECI
+  measures the layer that is commoditizing; the value migrated to the layer it DOESN'T measure — harness/
+  agentic/orchestration (DeLong's own Claude-Code concession). This is the interop-toll thread
+  ([[buildout-bottleneck-map]] INTEROP) printing in capability data: **benchmarks converge while harness
+  value diverges = what "whoever owns where models become swappable owns the new toll" looks like on a
+  chart.** The bear read on base models and the bull read on the harness/toll layer are the same graph.
+- *(Kimi 3 inside the band = the price-cap thread in one dot)* A Chinese open-weight AT frontier capability
+  is the 90%-off leverage made visual — the marginal token clears at open-weight pricing AND now at
+  near-frontier quality. Extends the 7/17 razor day (Kimi/DeepSeek shock) from efficiency to parity.
+- *(both branches of DeLong's fork compress model pricing — the metaphysics don't need resolving)* If
+  mimicry/plateau: commoditization now. If compression=understanding: the index mismeasures and
+  differentiation lives in UNMEASURED dimensions (agentic/harness) — which still commoditizes the base-model
+  layer while relocating value up-stack. Either way the closed-lab scrip premium erodes; only the ADDRESS of
+  the surviving moat differs. The one bull tail for closed labs: a measured RE-divergence (top edge pulling
+  away from the band again) — that is the falsifier, and the chart's own top edge (5.5 Pro above fit) says
+  don't call it impossible.
+- *(financing hook — the queue vs the curve)* "Frontier development becomes harder to monetize" printed
+  against the $750B/2030 spend and the [[ai-financing-fragility]] tranche stack: convergence is the
+  FUNDAMENTAL case against the claim queue — everyone financed THE winner; the chart says capability ties.
+  Race-to-credit-rating urgency coheres perfectly (finance before the pricing umbrella decays). Same logic
+  hits the $996B 27E capex bar: each dollar buys less differentiation ([[ai-capex-cycle]] sum-of-winners).
+- *(Jake's metered-compute bull — intact, arguably helped)* Commodity-cheap near-frontier tokens ACCELERATE
+  volume (Jevons); what dies is closed-lab margin, not token consumption. The book's central tension
+  (metered-compute volume bull vs financing-fragility bear) survives unchanged — this ingest moves the
+  MARGIN leg, not the VOLUME leg. [[metered-compute]].
+- *(trigger status — WARNING level, not fired)* "Frontier cadence" was registered as a trigger (7/24-25
+  entries). This is its first measured input and it points TOWARD firing — but it's one dataset, axis
+  contested by its own popularizer, and cadence-slowing is a STATE reading. To make it a real trigger it
+  needs a threshold: proposed — **"no new ECI high for 9+ months" or "spread stays halved through two more
+  frontier releases," verified at epoch.ai directly.** Until defined + primary-verified: odds-shader, not
+  timing. (Warning-vs-trigger rule.)
+- *(consensus-saturation tracker: datapoint #5)* Econ-blogger tier (DeLong, self-declared bear) now runs
+  convergence-bear charts — the bear thesis's descent research-note → meme continues. Seeing-edge gone;
+  execution edge (triggers, the harness/toll layer, the volume leg) is what remains. [[market-fragility]].
