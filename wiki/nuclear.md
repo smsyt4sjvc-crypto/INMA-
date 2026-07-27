@@ -105,3 +105,18 @@ Source: ZeroHedge/Bloomberg (Jake paste), Tue 6:20pm ET. Details possibly Wed at
   are buying down their own power bottleneck, which is bullish the THEME and bearish the scarcity-SELLERS' rent long-run.
 - *(WARNING vs TRIGGER)* Structural support vector (states), not a dated catalyst. Wed summit = a soft headline event;
   the reactors are 2028-2030+. The note's falsifier still governs: watch first-concrete / NRC milestones, not programs.
+
+### 2026-07-26 ~5:38pm PT — Jake's Q on the Ohio 10GW campus: "Is this Oklo indicated?" — not in the contract, but in the GEOGRAPHY
+- DATA (from the WSJ-class Ohio report): the site = a decommissioned uranium-enrichment complex ~50mi south of Columbus =
+  **Piketon/Portsmouth** — the SAME site where Oklo holds its announced land/agreements for Aurora powerhouse deployments
+  and where Centrus runs American Centrifuge HALEU enrichment. The project's contracted power = the $33B Japan-funded
+  NATURAL GAS plant (SoftBank Energy). First phase 800MW (2028) vs 10GW ambition.
+- THESIS (analysis): **Directly indicated: NO** — the announced power is gas; Oklo books nothing from this as reported.
+  **Indirectly: the strongest siting signal Oklo could ask for.** (1) The 10GW-vs-800MW gap = ~9.2GW of unspecified future
+  power at a DOE-legacy nuclear site with an SMR developer already holding land THERE and HALEU enrichment next door —
+  the expansion option is nuclear-shaped even though the first phase is gas. (2) The Altman-Oklo history: he chaired Oklo
+  and stepped off (2025) explicitly clearing conflict-of-interest for OpenAI energy deals — an OpenAI-tenant campus at
+  Oklo's own announced site is the exact transaction that recusal prepared. (3) Lutnick allocating power = the decision
+  point to watch. **Registered tell: any Piketon phase-2 power announcement naming SMRs/Oklo/Centrus** — until then it's
+  adjacency, not revenue. Descriptive; OKLO remains a story-priced name graded on tells, not on proximity. [[power-not-petroleum]],
+  [[ai-financing-fragility]] (the campus's financing = the credit-wrapper entry).

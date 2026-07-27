@@ -1155,3 +1155,40 @@ NEXT 13F (~Aug 14), today visible only via the 10-Q disclosure.
   assumes, the depreciation bill arrives faster." The vault's number for that: the FRONTIER PRICING HALF-LIFE measured at
   ~45 days ([[metered-compute]]) vs 5-6yr server schedules. The newsletter says settle it company-by-company; the scanner's
   implied-useful-life cell is the tool ([[../tools/sec_hyperscaler_scanner.ipynb]]). [[compression-thesis]], [[market-fragility]].
+
+### 2026-07-26 ~5:38pm PT — THE BIGGEST CIRCLE YET: NVDA to GUARANTEE ~$250B of OpenAI's Ohio lease/debt + finance the $350B chip purchase — "credit wrapper" named; Google backstopping Anthropic DCs = the support-language tripwire FIRES (different pair)
+#### DATA (WSJ-class report, Jake paste; "people familiar," terms NOT final, "could fall apart")
+- **NVDA would guarantee ~$250B** of financing vehicles covering OpenAI's LEASE + buildout debt for a **10GW SoftBank-developed
+  campus in southern Ohio** (>$500B total incl. chips — largest DC project announced). NVDA is SEPARATELY discussing
+  **financing the $350B chip purchase** — its own chips — and already holds **$30B of OpenAI equity**. Path toward ~$600B+
+  exposure to ONE unprofitable, non-rated customer. **NVDA's own 10-K warning quoted: funding arrangements "could lower
+  near-term cash flows and increase exposure to customer credit risk."**
+- Rationale stated plainly: OpenAI "has no investment-grade credit rating as an unprofitable private company" — the wrapper
+  EXISTS to manufacture borrowing capacity the borrower lacks.
+- **"Credit wrapper" named as an industry phenomenon**: IG tech balance sheets wrapping non-IG borrowers' infrastructure
+  debt. **"Google, for instance, has backstopped some data centers for Anthropic, in part to increase sales of its
+  in-house TPUs."** ← the registered Meta-"support-language" tripwire fires in ANALOG form (different pair, same structure,
+  same motive: seller credit-wraps buyer to move seller's chips).
+- **Government layer:** federal land (decommissioned uranium-enrichment site ~50mi S of Columbus = Piketon/Portsmouth);
+  power plant = **$33B Japan-funded NATURAL GAS** (trade-deal commitment) operated by SoftBank Energy (Son-controlled;
+  OpenAI has invested in it; SoftBank = major OpenAI investor — the circle has a third loop); **Commerce Secretary Lutnick
+  DECIDES WHO GETS THE POWER** (Anthropic/MSFT/Google also lobbying); US gets 90% of power revenue after Japan recoups.
+  First phase 800MW by 2028 (vs 10GW ambition).
+- OpenAI compute spend projection RAISED: ~$600B → **~$750B through 2030**. OpenAI + Anthropic "racing toward IPOs."
+#### THESIS (interpretation — NOT fact)
+- *(vendor financing, terminal form)* The seller guaranteeing the buyer's debt so the buyer can buy the seller's product —
+  telecom-2000's Lucent/Nortel pattern at ~25-60x the scale, plus an equity stake, plus chip financing. The Goldman
+  "hidden recourse" thread is now EXPLICIT recourse: NVDA's balance sheet is becoming the complex's central counterparty —
+  the 13F showed it as the ecosystem's EQUITY hub; the wrapper makes it the CREDIT hub too.
+- *(★ wrong-way risk, the AIG shape)* The guarantee pays out precisely in the state where NVDA's own revenue collapses
+  (AI demand slowing) — guarantor health maximally correlated with the guaranteed event. Wrappers make the system LOOK
+  safer (each project finances cheaper) while concentrating tail risk in one name. Spreads on wrapped paper will price
+  NVDA, not the project — so the tape's "calm" credit signal degrades exactly as exposure concentrates. The pace-tell
+  (widen vs no-bid) now has a single address: NVDA CDS joins ORCL/SPCX/CRWV as a first-order watch instrument.
+- *(the state enters the circle)* Federal land + trade-deal capital + a Commerce Secretary allocating power = industrial
+  policy fused INTO the circular stack — a too-strategic-to-fail wrapper around the private wrappers. Per the
+  protection→subsidy→arbitrage lens: the backstop is being built BEFORE the failure; ask who harvests it. Power-as-
+  politically-allocated-scarcity also = [[power-not-petroleum]] with an allocator's name attached.
+- *(discipline)* As-reported, unfinalized, could die. But the GOOGL-Anthropic backstop line is stated as fact in passing —
+  log that leg as the fired analog of the registered tripwire regardless of the Ohio deal's fate. [[reflection-ai]],
+  [[metered-compute]] (frontier-as-capex: $750B buys assets whose pricing half-life measured ~45 days), [[compression-thesis]].
