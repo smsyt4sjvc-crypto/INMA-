@@ -354,3 +354,23 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
 - *(attribution — the trap arms)* Saudi MoD naming IRAQI territory = a third proxy vector (not Houthi), and
   Riyadh "reserves the right to respond" = a Saudi-Iraq escalation lane OPENING inside the US-Iran pause.
   Iran's fingerprints stay deniable; the pause's fault line (the attribution doctrine) now runs through Baghdad.
+
+#### 2026-07-27 ~7:00am PT addendum — the OSINT leg hardens: ~300MW claimed, geolocated to the SOUTH STABILIZER, + the EAST-WEST PUMPING STATION named
+- DATA (X @MerruX, ~4:50am PT, 29K views; screenshots archived `raw/2026-07-27-abqaiq-firms-osint-300mw.jpeg`):
+  **"Massive 300MW fire at Abqaiq refinery AND east-west pumping station"**; FIRMS MODIS/Aqua detections table
+  (multiple rows, 7/26-27 acquisitions) clustered on the complex; **the hotspot coordinate (25.92676, 49.68748)
+  plots INSIDE the plant at the "South stabilizer" — "not at a flaring location."** Poster's own caveat: "unclear
+  what the cause is."
+- *(what this answers, and what it doesn't)* The geolocation directly attacks the fire-vs-flare ambiguity: a
+  thermal anomaly ON the stabilization unit (the 2019 attack's exact target class) rather than the flare field =
+  damage-consistent. ⚠️ Held at OSINT grade: MODIS = 1km pixels (the sub-facility precision claim is at the edge
+  of the instrument), single account, FRP now claimed 300MW vs the earlier 70MW VIIRS read (two instruments, both
+  anomalous = the "second pass" checklist item PARTIALLY satisfied).
+- *(★ the second site is the strategic tell)* **The East-West (Petroline) pumping station** = the ~5M bpd
+  Hormuz-BYPASS artery to Yanbu. If both are burning, the strike set is surgical: the processing chokepoint
+  (Abqaiq) + the bypass line (Petroline) + the bypass terminus already degraded (Yanbu loadings −40%) = closing
+  the workaround, not just the front door. NEW WATCH: Petroline flow status / Yanbu loadings — a bypass-line hit
+  shows up there before any statement.
+- Checklist state: (1) multi-instrument thermal ✔ (OSINT-grade) · (2) loadings data — PENDING, now the decisive
+  item · (3) official beyond-intercept — absent · (4) wire pickup — absent · (5) tape reversal — absent (crude
+  still deep red). Flag stays 🟠; 🔴 requires (2), (4), or (5).
