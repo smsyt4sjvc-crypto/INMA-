@@ -1393,3 +1393,19 @@ THESIS (interpretation):
   marks = the documented reason wealth taxes collect a fraction of projections (France ISF ~1/10th). The base erodes
   through valuation games and exit, not bond-market warfare. The scheme Jake sketched is what the avoidance actually
   looks like — but executed in the PRIVATE ledger where marks are soft, not the public one where the Fed owns the floor.
+- *(addendum ~9:25pm PT — Jake round 3: not cash-raising — SIGNAL buy demand, let the market chase, sell into the
+  manufactured strength to pay the tax)* = pump-and-distribute in Treasuries. Graded: (1) **Venue problem** — tape-painting
+  works in THIN markets; the Treasury market (~$28T, ~$900B/day, the deepest on earth) is the worst venue alive, and bonds
+  carry an anchor equities lack: FIXED cash flows priced off the Fed path — a yield pushed below macro equilibrium is
+  instant relative-value arbitrage, and the biggest RV desks FADE manufactured signals rather than chase them.
+  (2) **Exit reversion** — the cohort must distribute size into a price its own buying created; the moment circular buying
+  becomes selling, their exit IS the reversion — first sellers win, late sellers round-trip = defection on the exit side.
+  Pumps need many bagholders; Treasury "bagholders" are the most sophisticated fade-traders alive. (3) **The self-defeating
+  twist ×2** — pumping bond prices LOWERS the government's funding costs (a gift to the adversary, not a weapon), and if
+  the tax is mark-to-market, inflated marks RAISE the assessed base — the pump increases the tax it's funding unless
+  sequenced strictly AFTER the assessment date. (4) **The complete two-stroke engine** (combining rounds 2+3): depress
+  marks INTO the assessment date, inflate for the exit AFTER — that's the full tax-gaming cycle, and each stroke is only
+  CHEAP where prices are administered/soft. **The proof-by-precedent: LIBOR** — the one successful coordinated rate
+  manipulation in modern history worked because LIBOR was a SURVEY, not a traded price. Manipulation succeeds on
+  administered prices and private marks; it dies on deep two-way tapes. Same weekend lesson, fourth appearance: the games
+  live in the soft-mark ledger.
