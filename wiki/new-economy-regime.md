@@ -1377,3 +1377,19 @@ THESIS (interpretation):
   [[ai-financing-fragility]] wiring (illiquid marks, cash obligations, no bid). Also: buy-borrow-die currently SUPPRESSES
   wealthy selling; taxing unrealized gains changes the equilibrium FLOAT of megacap equities (the never-sellers become
   sellers). Registered as a policy-shock scenario, not a forecast — no such tax is currently proposed at scale.
+- *(addendum ~9:15pm PT — Jake round 2: could the cohort sell bonds TO EACH OTHER, spike rates, pay the tax, buy back
+  cheap?)* Graded: the scheme fails on three walls, but contains one REAL kernel. **Wall 1 — a closed circle can't raise
+  net cash:** selling to each other leaves cohort holdings AND cohort cash unchanged (every seller's dollar is a member
+  buyer's dollar) — the tax bill requires NET selling to outsiders. **Wall 2 — the round trip pays outsiders:** to move
+  real prices you must dump into the open order book, i.e., sell LOW to non-members; buying back later requires them to
+  sell back — but the buyback bid IS the recovery, so the cohort sells low/buys higher and donates the spread (plus the
+  engineered dip's best entries) to outsiders. Engineered crashes enrich whoever ISN'T in the cartel. **Wall 3 — the Fed
+  front-runs the buyback:** a dysfunctional Treasury tape triggers the market-function put (gilt template, days not
+  months) — the printer buys the bottom before the cartel can. Plus: wash trades/coordinated price action = textbook
+  manipulation (illegal), and the cartel is a prisoner's dilemma (every member's best move = defect and buy the bottom
+  alone). **The REAL kernel — ASSESSMENT-DATE GAMING:** if the tax is mark-to-market on a date, depressing marks INTO the
+  date shrinks the base. For LIQUID assets the round-trip cost (~5-10%) exceeds the tax saved (~1-2% rates) = uneconomic.
+  For ILLIQUID assets (private cos, art, RE) it's cheap and RAMPANT — minority/marketability discounts, self-dealt
+  marks = the documented reason wealth taxes collect a fraction of projections (France ISF ~1/10th). The base erodes
+  through valuation games and exit, not bond-market warfare. The scheme Jake sketched is what the avoidance actually
+  looks like — but executed in the PRIVATE ledger where marks are soft, not the public one where the Fed owns the floor.
