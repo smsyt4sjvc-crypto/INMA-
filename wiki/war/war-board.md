@@ -190,3 +190,18 @@ crossing of it.* Watch items: Kuwait-facility ID · Kharg/Saudi-terminal strike 
 - **Market referee: crude −5-6% through ALL of it** — diplomacy-dominant pricing against a mined tanker, a burning
   refinery, and a plunging southern chokepoint. Either the reopening is real, or this is the most coiled the
   re-load has been. The registered asymmetry (premium out → failure re-loads bigger) is at max stretch.
+
+## UPDATE — 2026-07-27 ~6:50am PT — TELL (a): ATTEMPT OFFICIALLY ADMITTED, DAMAGE CONTESTED (Abqaiq)
+- **State: Saudi MoD admits drones from IRAQ targeted Eastern-Province oil facilities (intercepted, per them);
+  Iranian state media + one FIRMS thermal read say Abqaiq BURNS. Wires silent. Crude −5-8% = referee votes
+  intercepted.** Resolution checklist registered in [[war-confirmed]] — loadings data outranks statements;
+  the tape outranks both. 2019 precedent: minimize-first, confirm-in-days, +15-20% on confirmation.
+- **Even the INTERCEPTED branch moves the board:** the war's highest-value target drew a salvo DURING the pause,
+  via a THIRD vector (Iraqi militias), and Riyadh "reserves the right to respond" → a Saudi-Iraq lane opens.
+  The pause holds between principals while every proxy tests its edges — (a) attempt-frequency is now the
+  odds-driver even when interceptors win. Interceptor-depletion sourcing hardened (Caine/NYT, Vance/CNN,
+  Cooper/Axios): the defensive munitions the pause preserves are the same ones Gulf oil defense burns.
+- **Iran's Oman track said the quiet part** (Baghaei): rounds of "useful" talks on "the MANAGEMENT of ship
+  traffic in Hormuz" — management = the supervise-transit/toll language, from Iran's own podium. The
+  gated-transit regime is being institutionalized in the open while the US blockade continues = both closures
+  still on, diplomacy negotiating their terms, not their existence.

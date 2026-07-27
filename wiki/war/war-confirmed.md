@@ -329,3 +329,28 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
 - DATA: CNBC 7/26. The 7/26 board's "spoiler vector" now kinetic against Iranian assets mid-pause.
 - 🟡 `[ODDS-SHADER]` — a third-party detonation vector Tehran could use as exit-ramp from the pause at a time of
   its choosing ("we were attacked") — not Washington's doing, but Washington's problem.
+
+### 2026-07-27 — ABQAIQ: CLAIMED ON FIRE (Iranian state media + OSINT thermal) vs OFFICIALLY INTERCEPTED (Saudi MoD) — tell (a) CONTESTED
+- DATA, the full evidence state as of ~6:45am PT (`raw/2026-07-27-zh-abqaiq-targeted.md`):
+  · CLAIM: Tasnim ("sources and images," distant Telegram photos) via Newsquawk/ZH — Abqaiq "set on fire in
+    drone and missile attacks." Houthi media amplifying.
+  · OSINT (X-grade, single account): **NASA FIRMS VIIRS day-27 pass = ~70MW thermal anomaly at Abqaiq** +
+    claims of 100MW+ "emergency flaring" at multiple sites. ⚠️ fire-vs-flare ambiguity: flaring is what a
+    facility DOES in emergency shutdown; thermal alone doesn't separate attack-fire from process flare.
+  · OFFICIAL: **Saudi MoD (Al Hadath): drones launched FROM IRAQI TERRITORY at Eastern Province + Riyadh oil
+    facilities INTERCEPTED.** The ATTEMPT on the Abqaiq region is officially admitted; the DAMAGE is officially denied.
+  · WIRES: silent on Abqaiq so far (Reuters/Bloomberg no pickup as of the sweep).
+  · MARKET: **Brent −8% ~$90.28 / WTI −5.4% ~$84.51 — ZERO Abqaiq premium.** The referee votes intercepted.
+- ⚠️ my own search contamination flag: queries returned 2019-attack archive material intermixed (CSIS/NBC/Gulf
+  News 2019 pieces + an April-2026 Abqaiq incident reference) — date-check every Abqaiq item before citing.
+- 🟠 `[SHOULD-MOVE]` (upgrade to 🔴 ONLY on confirmation) — **the 2019 BASE RATE is the reason this stays hot:
+  at THIS EXACT FACILITY, the initial Saudi line minimized, 5.7M bpd was offline, and full confirmation took
+  1-3 days — during which the market repriced +15-20%.** If scenario-2019 repeats, the current −6% tape is
+  offering war risk at a discount through the confirmation lag. RESOLUTION CHECKLIST (grade in order):
+  (1) second FIRMS/VIIRS pass + commercial satellite of the stabilization towers; (2) **Ras Tanura/Juaymah
+  LOADING data** (Abqaiq feeds them — loadings falling = real regardless of statements); (3) Aramco statement
+  beyond the MoD intercept line; (4) wire pickup; (5) **the tape itself: crude reversing −6%→green on no other
+  news = private confirmation propagating.**
+- *(attribution — the trap arms)* Saudi MoD naming IRAQI territory = a third proxy vector (not Houthi), and
+  Riyadh "reserves the right to respond" = a Saudi-Iraq escalation lane OPENING inside the US-Iran pause.
+  Iran's fingerprints stay deniable; the pause's fault line (the attribution doctrine) now runs through Baghdad.
