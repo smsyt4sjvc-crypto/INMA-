@@ -831,8 +831,19 @@ with the vault's own record. Conceded — the 7/22 GOOGL test already ran that e
 - *(WHY the venue moved — the mechanism)* Circular revenue discounts the top line (a beat partly funded by your own
   vendor-financing loop carries less information); paper gains discount EPS. **The P&L lost evidentiary value, so price
   discovery migrated to the one tape that can't be adjusted: the financing tape.** Cash raised is cash raised; spreads are
-  spreads; a bond book is a bond book. Earnings beats now buy HOURS (MU's 7/1 beat popped, then the lawsuit/cycle/financing
-  cluster took it all back); financing narrative compounds DAILY.
+  spreads; a bond book is a bond book. Earnings beats now buy HOURS ~~(MU's 7/1 beat popped, then the lawsuit/cycle/financing
+  cluster took it all back)~~; financing narrative compounds DAILY.
+  > 🔄 CORRECTED [2026-07-26 ~10:15pm PT — Jake's chart, `raw/2026-07-26-mu-since-earnings-chart.png`]: I had the MU
+  > date and the shape wrong. Earnings were **6/25** (the "7/1" in [[portfolio-state]] was the ZeroHedge log date, an
+  > artifact) — and the pop didn't survive the SESSION, let alone days. E-day candle: O 1,234.49 / **H 1,255.00 = the
+  > ATH** / L 1,136.31 / C 1,138.24 — **closed −9.3% off its own high, same day the antitrust suit was filed.**
+  > Since: low ~$812 (~7/21-22, −35.3% off ATH), bounce to ~$1,000-1,020 on 7/24 (the Samsung-MOU volume-signal day)
+  > FAILED, $910.80 at Friday's mark = **−20.0% from E-day close, −27.4% from the E-day ATH.** So the beat bought
+  > MINUTES, not hours: **peak fundamentals, peak legal risk, and peak price printed in the same session — everything
+  > the P&L could prove was priced by 9:31am; the other ledger (lawsuit/glut-clock/financing) has set the price ever
+  > since.** Jake's exhibit, stronger than my version of it. And the 7/24 bounce failing = the memory VOLUME signal
+  > (Samsung MOU) getting outweighed by the financing tape within two sessions — the terminal-form razor confirmed
+  > on the vault's own canary name.
 - *(the VICE — why no capex number is good news anymore)* Capex-UP sells the name (funding fear, buyback displacement,
   GOOGL 7/22). Capex-DOWN sells the COMPLEX (the P&S cliff — suppliers crash + it's the demand-isn't-there confession).
   Both directions punished ⇒ the market is saying the only acceptable news is MONETIZATION — the one thing circularity
