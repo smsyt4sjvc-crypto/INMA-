@@ -1067,3 +1067,14 @@ one correction: LIMITED production has begun; mass production/fab integration is
 > magnitude-honesty section (fleet math takes years) while the DIRECTION/2027-date thesis stands. Also in the
 > same feed sample: HSBC mapping SpaceX lockup expirations (the Aug 6 thread) + "The Upcoming AI Spend Slowdown?"
 > + a "dismal" 5Y Treasury auction (the financing tape) — ingest-worthy when opened.
+
+### 2026-07-27 ~12:10pm PT addendum — the DUV clock SHORTENS: CXMT slated for domestic DUV deliveries THIS AUGUST + testing next-gen BONDED DRAM
+- DATA (ZH timeline via Jake): **Wccftech: "CXMT is reportedly among the first Chinese semiconductor players
+  slated to receive domestically developed DUV lithography machines THIS AUGUST."** + ZH: "CXMT Testing
+  Production Line for Next-Gen BONDED DRAM, Closing Tech Gap With Korea 'Far Faster Than Expected.'"
+- *(what it does to the morning's entry)* The 2027 at-scale date stands for FLEET math, but the CXMT-specific
+  channel starts NEXT MONTH — first domestic tools land at the glut-maker in August 2026. And bonded (hybrid-
+  bonding/3D) DRAM = CXMT attacking the NEXT-GEN architecture, not just trailing nodes — the "closing the gap
+  far faster than expected" language recurring for the third time in vault history. The glut clock's tool
+  constraint isn't just dated now; its first delivery is calendared. BofA's "modest threat" counterweight stands
+  for ASML revenue; it does not address the CXMT-capacity channel, which is the one the MU thesis cares about.
