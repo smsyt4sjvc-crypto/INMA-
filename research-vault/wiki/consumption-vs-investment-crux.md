@@ -171,3 +171,29 @@ Jake paste (piece on "claims lowest since 1969" being misleading) + "they're jus
   layer sheds silently). (3) Gen-Z detachment + AI entry-level displacement + gig absorption = the trade-down/landing-pad
   economy grows structurally ([[trade-down-landing-pads]]). The piece wants a moral verdict; the vault takes the
   measurement problem: THE STATS ARE INCREASINGLY BLIND TO THE ACTUAL LABOR ECONOMY, in both directions. [[market-fragility]].
+
+#### Addendum (2026-07-26 ~8:35pm PT) — Jake's follow-up: mental-health diagnoses surged, so what did per-capita Social Security output do since 2020? → THE DOG THAT DIDN'T BARK
+*(⚠️ Sourcing: FRED unreachable through the session proxy (all routes timed out/403) — figures below are Claude's knowledge
+base through early 2026, NOT a live pull; re-verify when Jake can run the Colab route. Directionally robust series.)*
+- **Aggregate OASDI outlays:** ~$1.10T (FY2020) → ~$1.6T (FY2025) ≈ +45% nominal ≈ +7.5%/yr. Per-capita nominal ≈ +7%/yr;
+  CPI-deflated per-capita ≈ **+2.5-3%/yr real — a modest acceleration vs the ~+2%/yr pre-COVID baseline.** Drivers: the
+  boomer retirement wave + the COLA chain (5.9% '22, **8.7% '23**, 3.2% '24 — the '23 COLA overshot subsequent inflation).
+  This is a RETIREMENT + INDEXATION story.
+- **★ The disability channel — the surprise:** SSDI disabled-worker rolls **FELL** from the 2014 peak (~8.95M) → ~8.0M
+  (2019) → **~7.1-7.3M (2024-25) — multi-decade lows as a share of working-age population** — through the exact period
+  when mental-health diagnoses surged and CPS self-reported disability jumped ~29.5M → ~38M (+8M, concentrated in
+  under-40 COGNITIVE difficulty). Federal disability benefits did NOT absorb the mental-health wave.
+- *(why the wave didn't route to SSA)* SSDI mental-health awards face strict criteria, high denial rates, multi-year
+  appeals — a 28-yr-old with anxiety/depression rarely qualifies and can't wait 2 years with no income. The wave routed
+  instead to: GIG income (Jake's layer) · family/household absorption · working-through-it (LFP of disabled persons hit
+  RECORD highs post-2020 — remote work let symptomatic people stay attached) · private employer LTD insurance
+  (mental-health claims DID spike there) · and the uncounted residual.
+- *(what this sharpens — the phantom population, twice invisible)* The post-2020 non-workers are largely invisible to
+  BOTH ledgers: not in formal labor stats (gig/informal) AND not on federal disability rolls (didn't qualify / didn't
+  route). Neither the "105M idle = collapse" bears nor the "safety-net hammock" narrative fits: **the state didn't absorb
+  them; the informal economy and the family did.** The measurement blindness runs on both the income side and the
+  benefits side.
+- *(fiscal read)* SS outlay growth = boomers + COLA = the DEBASEMENT FEEDBACK LOOP in miniature (inflation → indexation →
+  outlays → deficits → more debasement — the gold-flows thesis with an actuarial engine). The mental-health cost lands on
+  private insurers, employers, and households — off the federal ledger, on the consumption base. [[new-economy-regime]],
+  [[gold-flows]], [[trade-down-landing-pads]].
