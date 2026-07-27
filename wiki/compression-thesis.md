@@ -1068,7 +1068,7 @@ one correction: LIMITED production has begun; mass production/fab integration is
 > same feed sample: HSBC mapping SpaceX lockup expirations (the Aug 6 thread) + "The Upcoming AI Spend Slowdown?"
 > + a "dismal" 5Y Treasury auction (the financing tape) — ingest-worthy when opened.
 
-### 2026-07-27 ~12:10pm PT addendum — the DUV clock SHORTENS: CXMT slated for domestic DUV deliveries THIS AUGUST + testing next-gen BONDED DRAM
+### 2026-07-27 ~2:10pm PT addendum — the DUV clock SHORTENS: CXMT slated for domestic DUV deliveries THIS AUGUST + testing next-gen BONDED DRAM
 - DATA (ZH timeline via Jake): **Wccftech: "CXMT is reportedly among the first Chinese semiconductor players
   slated to receive domestically developed DUV lithography machines THIS AUGUST."** + ZH: "CXMT Testing
   Production Line for Next-Gen BONDED DRAM, Closing Tech Gap With Korea 'Far Faster Than Expected.'"

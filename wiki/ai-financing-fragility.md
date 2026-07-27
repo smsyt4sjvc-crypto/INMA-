@@ -1329,7 +1329,7 @@ NEXT 13F (~Aug 14), today visible only via the 10-Q disclosure.
   frames true; the fragility question is never whether NVDA can afford it — it's what the PATTERN (equity-for-
   consumption across the whole lab complex) does to the meaning of reported AI revenue. [[cepi]].
 
-## 2026-07-27 ~12:10pm PT — THE WIDEN-TRIGGER GETS DATA: hyperscaler CDS at RECORD wides, +3bps more, "unprecedented carnage in AI IG CDS" — ON THE RELIEF DAY (ZH timeline via Jake)
+## 2026-07-27 ~2:10pm PT — THE WIDEN-TRIGGER GETS DATA: hyperscaler CDS at RECORD wides, +3bps more, "unprecedented carnage in AI IG CDS" — ON THE RELIEF DAY (ZH timeline via Jake)
 ### DATA (ZH X timeline, ~1-4h old items; as-reported)
 - **"Unprecedented carnage in AI IG CDS continues, matched by another 3bps sweep wider to a NEW RECORD in the
   hyperscaler CDS basket."** Same feed: "Stocks Sink Despite Hormuz Hopes As China Sparks Chipmaker Thunder" —
