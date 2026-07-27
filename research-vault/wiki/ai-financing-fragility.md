@@ -1279,3 +1279,35 @@ NEXT 13F (~Aug 14), today visible only via the 10-Q disclosure.
   same repricing reaching the Chinese lab tier. Watch: SpaceX earnings + Aug 6 absorption; TSLA correlation
   (the Musk-complex contagion channel); the Alphabet mark vs the tape (paper gains in EPS — the artificial-
   earnings trio). [[compression-thesis]], [[detachment-bid]].
+
+## 2026-07-27 ~6:25am PT — NVDA→SSI: the purest circular specimen yet + the TPU flip + Jake's "frontloading intent" read
+### DATA (as-announced today; Jake's paste, WSJ-sourced items marked)
+- **NVIDIA makes a "substantial" investment in Safe Superintelligence (SSI)** — terms undisclosed; announced
+  today. **NVDA received "unusual access" to SSI's research pre-investment** (WSJ). **SSI's compute expands ~10x**
+  on NVIDIA hardware — **on Vera Rubin**, the ramping flagship. **SSI previously ran primarily on Google TPUs.**
+  Sutskever: research "worthy of scaling up."
+### THESIS (interpretation — NOT fact)
+- *(the circular ledger's cleanest specimen)* SSI has NO product and NO revenue BY DESIGN — so this is equity
+  exchanged for future hardware consumption in its purest form: the check funds the 10x, the 10x is booked as
+  NVDA revenue today, and the return path exists only via (a) eventual superintelligence monetization or (b) the
+  private mark rising. Compute-sales-upfront + circularity in one instrument, on the newest platform (the
+  announcement doubles as Vera Rubin's marquee design win). [[reflection-ai]] (the lab-portfolio pattern).
+- *(★ the layer under the safety story: NVDA just BOUGHT the most prestigious TPU-native lab off Google silicon)*
+  SSI-on-TPUs was the flagship external validation of the one at-scale CUDA alternative. Flipping it with a
+  balance-sheet check = socket defense: worth the equity regardless of SSI's outcome. Watch whether more
+  TPU/Trainium-native labs get flipped by checks — vendor financing as a competitive weapon, not just demand
+  creation; and watch Google's external-TPU program response (pricing, next marquee win).
+- *(Jake's read — "frontloading intent," endorsed at the ANNOUNCEMENT layer)* Same-day sequence: the Open Secure
+  AI Alliance launch (AM) + the SSI investment (PM), 72h after Skynet Day hit the White House's radar. NVDA now
+  holds receipts on every safety flank: open-weights advocacy, the security coalition, equity in the lab literally
+  named "Safe." Building the compliance/optics record BEFORE the requirement exists — and the organizer of the
+  coalition is positioned to DRAFT the standards (the pre-2020-antitrust platform playbook: self-regulate to
+  preempt statute). Deals take months (the SSI negotiation predates the incident); the announcement DAY is chosen.
+  Strategy at the deal layer, safety-positioning at the calendar layer — both true.
+- *(⚠️ counterweights, per the bias map)* (1) The mundane read covers most of it: NVDA invests in every serious
+  lab — optionality on whoever wins + demand security; safety branding may be COMMERCIAL positioning ("safe"
+  becomes a purchase criterion for enterprise/government buyers) rather than regulatory fear — same actions,
+  different predictor. Discriminator: NVDA lobbying disclosures on AI-safety bills + whether the Alliance ships a
+  standards framework that surfaces in legislation. (2) "Signals flashing all over" — the feed is saturated with
+  safety content this week post-incident; some of the pattern is the algorithm, not the strategy
+  (source-correlation rule). [[metered-compute]] (alliance entry), [[_calibration]].
