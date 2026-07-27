@@ -47,3 +47,14 @@ still ⚪; do not let repetition inflate it to a trigger (WARNING-vs-TRIGGER rul
 - 🟠 `[SHOULD-MOVE]` — the "US deaths → disproportionate response" branch going PERSONAL. Revenge-mode is exactly the STATE where
   TARGET DISCIPLINE breaks → raises the odds of a strike aimed at Iranian OIL (Kharg) = the bridge to the uncap. The marker itself
   hasn't moved (no export strike yet), but the conditional probability of one ticked up. The mood, not the marker — watch the target set.
+
+### 2026-07-27 — Baghaei: Iran not seeking talks — "not in our DNA"; US "begging for a deal" claims "fabricated"
+- SAID: Iran FM spokesman, televised presser Mon (Reuters). Messages via mediators continue; diplomacy "not forsaken."
+- 🟡 `[ODDS-SHADER]` — cuts directly against the tape's "peace deal" framing (Sunday-eve futures priced the DEAL, not
+  just premium-out). Posture-hardening from the side that just watched the US run out of munitions = leverage talking;
+  raises sell-the-news / re-load odds on the diplomacy leg.
+
+### 2026-07-27 — Iranian state media: non-Iranian routes "are contaminated and have no way out"
+- SAID: state-media "informed source" language accompanying the six-ship turn-back claim.
+- 🟡 `[ODDS-SHADER]` — mining-by-language: the verbal fence around the gated channel (backs the southern-corridor
+  mining claim without confirming it). Belligerent-source; the tracker data remains the referee.

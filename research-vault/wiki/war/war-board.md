@@ -155,3 +155,23 @@ crossing of it.* Watch items: Kuwait-facility ID · Kharg/Saudi-terminal strike 
 - **Structural counter-theme registered:** the pipeline-rewiring stack (7 bypass projects, US-backed Iraq-Syria line, Dubai
   east-coast port) = the long-clock erosion of Iran's Hormuz leverage — every month of war ACCELERATES the bypass buildout,
   shrinking the very leverage Iran is spending. The war is consuming its own principal asset.
+
+## UPDATE — 2026-07-27 ~5:20am PT (Mon pre-equity-open; Reuters full picture in) — NEW STATE: LEVERAGE-POOR PAUSE + IRAN-GATED TRANSIT
+- **The pause is official and EXPLAINED: the US ran out — targets gone, air-defense munitions depleting (Caine).** The
+  campaign's stated aim (break Iran's strait grip) NOT achieved; Reuters: no clear remaining leverage. → Durable-by-
+  necessity AND leverage-poor: the gate survived the maximum kinetic play.
+- **(c) transitions: CLOSURE → GATED-TRANSIT REGIME.** Iran turned back six ships Mon AM (state media; one "accident"),
+  transit only via Iran's fee-intended channel; formalization track live with Oman ("went well"); Hormuz language of the
+  June framework DISPUTED (free-travel vs supervise-transit); talks deadline END-AUGUST. **The new tell replacing
+  "closure": which lane transits actually resume on** — through Iran's channel (toll accepted, oil-bearish, regime
+  normalized) vs zero-transit persisting (the deal-priced tape re-loads).
+- **Oil = two-layer repricing:** WAR premium bleeding (Brent <$89, −8%; WTI ~$82) — but the TOLL layer (fees + insurance
+  + gate risk) is the structural residue: the floor sits ABOVE prewar even in the good branch. Brent-WTI spread widening
+  (Sun eve) already said the seaborne barrel keeps more premium.
+- **Frictions on the priced deal:** Iran "not seeking talks / not in our DNA" vs the tape pricing the deal; ceasefire
+  probes (Jordan drones, N-Iraq strike); Houthi Red Sea vector still live; Netanyahu at the White House TUESDAY (pressure
+  vector in person, FOMC day 1). Sell-the-news risk two-sided: a real deal is part-priced; a talks-break re-loads onto a
+  zero/gated-throughput strait from $82 WTI.
+- Triggers: (a) export-terminal — odds DOWN w/ stand-down, Houthi/Yanbu vector keeps it nonzero. (b) hull-stop — the
+  six-ship "accident" = possible variant, unverified. (d) recrossed $90 DOWNWARD. OFF-RAMP: fired + holding, but the
+  diplomacy leg is thinner than the tape's framing — the gate, not the deal, is the fact on the water.
