@@ -1312,8 +1312,8 @@ NEXT 13F (~Aug 14), today visible only via the 10-Q disclosure.
   safety content this week post-incident; some of the pattern is the algorithm, not the strategy
   (source-correlation rule). [[metered-compute]] (alliance entry), [[_calibration]].
 
-#### 2026-07-27 ~7:45am PT addendum — the SSI number lands: $5 BILLION (ZH relay, as-reported)
-- DATA: ZH headline ~6:45am PT: "NVIDIA TO INVEST $5 BILLION IN ILYA SUTSKEVER'S AI STARTUP." (This morning's
+#### 2026-07-27 ~10:45am PT addendum — the SSI number lands: $5 BILLION (ZH relay, as-reported)
+- DATA: ZH headline ~9:45am PT: "NVIDIA TO INVEST $5 BILLION IN ILYA SUTSKEVER'S AI STARTUP." (This morning's
   announcement had terms undisclosed; $5B now circulating — treat as-reported pending the WSJ number.)
 - *(the round-trip math, explicit)* $5B equity → SSI's 10x compute expansion is Vera Rubin hardware → the bulk
   returns to NVDA as REVENUE at ~mid-70s gross margin → **NVDA books ~$3-4B of gross profit substantially funded
