@@ -767,3 +767,30 @@ Anthropic's pricing of Fable 5 — weight accordingly.)*
   reliability at longer horizons (week-long tasks, computer-use-that-works) — re-opens leg 3 without appearing on ECI.
   That's also where the re-aimed capability (Opus-5-beats-Fable-on-agentic) is pointed. Watch task-horizon benchmarks and
   harness completion rates, not ECI. The demand-relevant cadence = task-threshold crossings.
+
+##### 2026-07-27 ~12:45am PT — Jake: the INDUSTRY-WIDE messaging pivot to cost — and the two-audience dissonance it creates
+*(Jake's observation: Meta touting excess compute "significantly cheaper"; OpenAI + Anthropic weeks of "mass capabilities,
+less cost"; NVDA/GOOGL/MSFT open-source endorsements — the entire industry's public copy now sells PRICE, not capability,
+"even though they undoubtedly are" still improving capability. Extends the HALF-coordinate entry from two labs to the sector.)*
+### THESIS (interpretation — NOT fact)
+- *(the frame)* Commodity industries advertise price; differentiated industries advertise features. The sector-wide ad-copy
+  transition = the industry SELF-CLASSIFYING as commodity — management's revealed read that marginal revenue now comes from
+  price cuts, not capability launches. Messaging lags internal data and leads public numbers: the copy shifted because the
+  demand-elasticity data already did.
+- *(★ Meta's line is a DIFFERENT species — a glut tell, not a price cut)* Labs cutting token prices = sellers repricing
+  their PRODUCT. Meta reselling EXCESS COMPUTE "significantly cheaper" = a SPENDER reselling its INPUT — the 7/22 landlord
+  entry's "hyperscaler with excess compute = supply ahead of its own internal demand" printing in marketing copy. A
+  secondary market in compute is where scarcity premiums go to die (contracted capacity → spot pricing). Everyone-becomes-
+  a-landlord ⇒ landlord margins, not software margins.
+- *(★★ the TWO-AUDIENCE dissonance — the week's trigger instrument)* The same companies are running OPPOSITE stories to
+  their two audiences: to INVESTORS, capability-race capex ($996B 27E bar, $205B GOOGL) justifying record spend; to
+  CUSTOMERS, "pay less, capability is cheap now." Unstable — one message must break. **The registered capex-cut-language
+  trigger (7/29-30 META/MSFT/AMZN prints) now has its precise instrument: watch for the COST pivot crossing from the
+  customer-facing copy into the INVESTOR-facing guidance language ("efficiency," "capex discipline," "optimizing spend").
+  The crossover IS the trigger firing** — the moment they tell Wall Street what they're already telling customers.
+- *(⚠️ counterweight — the AWS precedent, margins as discriminator)* Cost messaging is ALSO what winning platforms do while
+  scaling: AWS cut prices ~continuously for a decade while gross margins EXPANDED (scale economics passed through, not
+  distress). Price-cut copy = distress only when unit margins compress alongside. Labs' serving margins are opaque;
+  hyperscaler cloud GM prints quarterly — **read the messaging WITH cloud gross margins: copy-pivot + GM holding = AWS
+  playbook (bullish volume); copy-pivot + GM compressing = Bertrand descent (the crush leg).** Both registered; margins decide.
+  [[compression-thesis]] (razor/trigger), [[ai-financing-fragility]], [[ai-capex-cycle]].
