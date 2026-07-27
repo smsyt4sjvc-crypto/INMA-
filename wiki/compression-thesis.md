@@ -1000,3 +1000,35 @@ productive capability?" Answer: mostly NEITHER — it's a mandate, a currency, a
 - *(net, in Jake's frame)* Right for the present: the IPO adds zero bits and they were sold out anyway. Relevant
   only to the FUTURE rounds: it makes the bit-adding machine self-sustaining (market-funded, state-recycled)
   and continuously priced. The glut thesis's 2028 leg gains a permanent funding pipeline + a daily mark, not speed.
+
+## 2026-07-27 ~7:35am PT — DOMESTIC DUV: the tools constraint gets a DISSOLUTION DATE (~2027) — and it lands exactly on the glut window
+*(Jake's headline: "China has started mass production of domestically developed DUV" — The Information. Verified with
+one correction: LIMITED production has begun; mass production/fab integration is targeted 2027.)*
+### DATA (WebSearch verified — Tom's Hardware, TrendForce, cryptobriefing relay of The Information)
+- **SMIC is test-driving China's first domestic IMMERSION DUV tool** — developed by **Shanghai Yuliangsheng,
+  linked to Huawei's SiCarrier** — 28nm-class, extendable to 7/5nm via multipatterning. **Production-line
+  integration targeted 2027 after qualification.** The Information (via relay): domestic immersion DUV has
+  entered **limited production**.
+- **SMEE SSA800** (the second domestic track): ~10 units sold, 28nm immersion class, first production-capable
+  deliveries late 2023. Two parallel domestic litho programs = redundancy.
+### THESIS (interpretation — NOT fact)
+- *(🔄 annotates this morning's CXMT entry)* "A 5x stock cannot buy what is export-banned" stands for ASML
+  immersion tools — but the constraint now ERODES ON A DATED SCHEDULE instead of binding indefinitely: limited
+  domestic supply today → qualification → **2027 at-scale integration.** The CXMT war-chest CAN buy Yuliangsheng
+  and SMEE output, and its cash is exactly what funds their ramp (the channel named this morning, now with a
+  milestone).
+- *(★ the clock alignment — the sharpest implication)* Domestic immersion DUV at scale ~2027 + CXMT's capacity
+  program = **the tools arrive precisely on the front edge of the 2028 glut window.** 28nm-class immersion +
+  multipatterning covers DRAM's workhorse nodes (EUV is only the bleeding edge) — so from ~2027-28, Chinese
+  memory expansion decouples from ASML export policy entirely. Burry's terminal-value timeline just got
+  equipment-side confirmation from inside China's own supply chain.
+- *(magnitude honesty)* First-gen tools = throughput/overlay/uptime far below ASML NXT-class; ~10 SMEE units +
+  "limited" Yuliangsheng output vs ASML's hundreds/yr = the fleet math takes years. DIRECTION now confirmed
+  with dates; near-term magnitude small. The 2027 date is the thing to grade (slippage = the glut clock's
+  main remaining friction).
+- *(downstream)* **ASML/WFE**: China's mature-node DUV binge revenue erodes on the same schedule — the
+  bottleneck-map's WFE caution (AMAT/LRCX/KLAC most capex-cut-exposed; Burry's AMAT short) gains a structural
+  substitution leg. **Policy loop**: export controls incubated the substitute — the vault's
+  policy-paying-to-overcome-policy pattern at its purest. **The Apple-CXMT fight re-weights**: if domestic
+  litho lands 2027, denying Apple access doesn't slow China — it only costs Apple; the strategic case for
+  denial weakens on this exact timeline. [[buildout-bottleneck-map]], [[ai-capex-cycle]], [[ai-infra-allocation-map]].
