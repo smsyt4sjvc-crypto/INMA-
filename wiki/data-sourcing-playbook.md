@@ -251,3 +251,13 @@ is the load-bearing bridge. Expect the survivor table empty most weeks; the reje
   comparative reads > absolute. Generates names to VERIFY, per doctrine.
 - Read: healthcare-leading = classically DEFENSIVE (risk-off) — tests Jake's "back to AI" hypothesis
   (which would need tech/semis leading). Scanner settles rotation direction.
+
+## 2026-07-27 ~5:40am PT — NEW TOOL: the headline COLLECTOR (capture-everything → CSV → upload → Claude sorts)
+- `tools/vault_headline_collector.ipynb` — flips the scanner's architecture per Jake's ask: NO keyword gate.
+  Pulls ALL headlines (Google News Business/Tech/World firehoses = the paywalled majors aggregated, + direct
+  feeds + topic queries + tickers), dedups, tags as metadata ONLY (nothing dropped), writes one CSV,
+  auto-downloads in Colab. Workflow: run → upload CSV here → **"ingest headlines"** → Claude triages/
+  summarizes into threads + flags the links worth opening. Fixes the keyword blind spot structurally (the
+  scanner missed the CNBC CFO-blindsided story + CXMT items by construction — keyword-gated). The scanner
+  notebook stays for the filtered quick-read + LEVEL WATCH prices. Division of labor per this playbook:
+  Jake fetches free; Claude reasons on upload.
