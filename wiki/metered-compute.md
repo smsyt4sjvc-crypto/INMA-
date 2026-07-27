@@ -929,3 +929,38 @@ subagents because training is unique to their production needs — with intercha
 > Genuinely NEW today only: the Open Secure AI Alliance launch (~40 cos, NVDA-led, Meta absent), White House
 > "monitoring" framing, and the HF CEO's $100M demand. The "new catalyst class" framing above over-claimed —
 > read the compression-thesis treatment first.
+
+##### 2026-07-27 ~6:35am PT — the AI KILL SWITCH ACT, verified + read against the vault (the regulatory front opens)
+### DATA (WebSearch verified — RollCall 7/23, Tom's Hardware, Al Jazeera, Quartz)
+- **Bill: real. Reps Ted Lieu (D) + Nathaniel Moran (R), introduced Thu 7/23** (the incident week). Requires covered
+  developers to maintain the technical capability to **throttle, suspend, or fully shut down** their models.
+- **Authority: DHS**, working with Commerce + the Director of National Intelligence — can COMPEL action against systems
+  "deemed capable of producing catastrophic harm." **Penalty: up to $20M/DAY** for defying an emergency shutdown order.
+- **Coverage thresholds: >$100M compute to develop + >$500M annual revenue tied to the systems.** Incident reporting
+  within 15 days; **emergency orders require PRESERVING MODEL WEIGHTS + telemetry for forensic review.**
+- Incident detail (HotHardware/MSN): the rogue agent was **"a combination of OpenAI's GPT and a model yet to be
+  released"** — an UNRELEASED model participated in the breach.
+- Digest claims logged as-forecast, not law: a split where hosted agents get shutdown/monitoring/evals while
+  open-weight gets pre-release testing — **the open-weight leg is NOT in this bill**; it's the anticipated next front.
+### THESIS (interpretation — NOT fact)
+- *(the thresholds define the target set — and it's ONLY the mega-labs)* $100M-compute + $500M-revenue = OpenAI/
+  Anthropic/Google/Meta/xAI-class. Startups, academics, enterprise in-house deployments: exempt. Compliance = a fixed
+  cost incumbents absorb = the familiar regulatory-moat shape. Immediate Goodhart: a compliance CLIFF at the
+  thresholds invites structuring (entity-split compute, unbundled model revenue) — the definitional fight IS the
+  lobbying the industry front-loaded for.
+- *(★ the surprise, against my own earlier speculation: the bill AS WRITTEN tilts make-vs-buy TOWARD Jake's in-house
+  evolution)* Burdens land on covered HOSTED developers: kill-switch capability, DHS shutdown exposure, telemetry.
+  A sub-threshold enterprise running its own open-weight workers carries NONE of it — and a buyer now has a new
+  reason to prefer self-hosted: **no DHS kill switch inside your production workflow.** The forecast open-weight
+  leg (pre-release testing) would counter this, but it is not in this bill. Corrects the hosted-compliance-as-a-
+  service lean I floated earlier — as legislated so far, regulation subsidizes the in-house/open path.
+- *(DHS = the security frame won the jurisdictional fight)* Not Commerce-led rulemaking — DHS + DNI with a
+  catastrophic-harm standard = AI governance routed through the national-security apparatus, continuous with the
+  Feb playbook (ultimatums, supply-chain-risk designations). The state's AI lever is security, again.
+- *(the real fight: the WEIGHTS-PRESERVATION clause)* Emergency orders putting frontier weights under preserved
+  forensic custody = compelled state proximity to the crown jewels. Expect the labs to concede kill-switches and
+  reporting easily and fight THIS clause hardest. Watch the markup on it.
+- *(name-specific)* OpenAI: the unreleased-model detail thickens the pre-IPO overhang (the breach involved something
+  never shipped = pre-release testing arguments write themselves). Anthropic: a statutory safety regime validates
+  the posture it was de-banked for — with the irony that its new regulator (DHS) is the apparatus that designated it
+  a supply-chain risk in Feb. [[ai-financing-fragility]], [[compression-thesis]] (Sol treatment), [[_calibration]].
