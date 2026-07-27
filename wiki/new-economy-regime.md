@@ -1346,3 +1346,34 @@ THESIS (interpretation):
   "earliest possible moment" tariff = telegraphed not immediate. = maximalist rhetoric + real process + real threat, NOT a today-mover. Discount the "PIGGYBANK/
   ROBBING/blame-Biden" packaging; substance = formal US move to defend Big Tech + tariff threat. Read UNCHANGED (marginal US-megacap tailwind, EU headwind,
   tariff-inflation stack, 3rd "America wins tech" flag of the day). WARNING-vs-TRIGGER: odds-shader not catalyst.
+
+### 2026-07-26 ~8:40pm PT — Jake's thought experiment: could a punitive wealth/corporate tax trigger bond dumping that "really fucks shit up"? (graded: real mechanism, wrong target — it's a LIQUIDITY weapon, not a quantity weapon)
+#### THESIS (analysis of the mechanism)
+- *(the closed loop first — why spite-dumping alone can't do it)* Tax payments flow TO the Treasury (TGA): seller dumps
+  bond → buyer's cash → Treasury → spent or ISSUANCE REDUCED. If revenue cuts the deficit, future bond SUPPLY falls by the
+  same amount — quantity roughly nets out. The damage vector is not quantity; it's TIMING and LIQUIDITY.
+- *(★ where Jake's mechanism IS real — four channels)* (1) **The tax code steers liquidations toward bonds FIRST**:
+  selling appreciated equities triggers MORE tax; selling bonds near par triggers ~none → forced sellers rationally dump
+  fixed income before stocks. (2) **The liquidity mismatch**: a wealth/unrealized-gains tax is assessed on ILLIQUID
+  assets (PE stakes, real estate, founder stock) but paid in CASH → holders sell what they CAN (Treasuries, megacap
+  equities), not what was taxed = contagion from illiquid marks into the liquid market — the same sell-what-you-can
+  dynamic as every margin cascade. (3) **Synchronized due dates = a VaR event**: one settlement date for a whole cohort's
+  forced sales, into a Treasury market whose depth is structurally thinner post-2020 (basis-trade fragility). The
+  PRECEDENT: UK gilts Oct-2022 — a POLICY shock → forced LDI selling → yields spike → more forced selling → central bank
+  intervenes within DAYS. Policy-triggered liquidation spirals are real and recent. (4) **Announcement front-running**:
+  1986 precedent — capital-gains realizations DOUBLED ahead of the '87 rate hike; the anticipation moves markets more
+  than the payment.
+- *(the self-defeating math — why the bond market disciplines the tax)* +100bps on ~$40T of rolling debt eventually costs
+  ~$400B/yr — a punitive tax that raises less than it adds in yield is NET-NEGATIVE revenue. The bond market is the
+  government's landlord; you can't burn the landlord's building while owing him $40T. This math (not mercy) is why
+  confiscatory proposals die — plus the mobility precedent (France ISF: ~42k millionaires left, tax repealed 2017;
+  Norway 2022 exodus): the wealthy don't need to conspire to retaliate; exit + liquidation preference does it passively.
+- *(the terminal state — every path ends at the printer)* IF a forced-selling spiral ignited, the gilt template shows the
+  ending: the central bank buys the dysfunction within days = intervention = debasement. A tax aimed at wealth
+  concentration would terminate in balance-sheet expansion — the Fed-trap/debasement thesis reached from a NEW direction
+  (fiscal-justice policy as the shock instead of war or credit). [[gold-flows]], [[market-fragility]].
+- *(the vault tie-in — the tranche stack is the vulnerable node)* An unrealized-gains/wealth tax hitting VC/PE marks
+  forces LP liquidity events → NAV-loan stress → private-credit gating = it would detonate through EXACTLY the
+  [[ai-financing-fragility]] wiring (illiquid marks, cash obligations, no bid). Also: buy-borrow-die currently SUPPRESSES
+  wealthy selling; taxing unrealized gains changes the equilibrium FLOAT of megacap equities (the never-sellers become
+  sellers). Registered as a policy-shock scenario, not a forecast — no such tax is currently proposed at scale.
