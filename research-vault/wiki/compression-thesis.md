@@ -1033,7 +1033,7 @@ one correction: LIMITED production has begun; mass production/fab integration is
   litho lands 2027, denying Apple access doesn't slow China — it only costs Apple; the strategic case for
   denial weakens on this exact timeline. [[buildout-bottleneck-map]], [[ai-capex-cycle]], [[ai-infra-allocation-map]].
 
-## 2026-07-27 ~10:55am PT — MS/Shawn Kim's two-tier memory market (Jake's paste) + Jake's both-ways question: the LTA cap, the lawsuit's exhibit, and the INFLATION LOOP
+## 2026-07-27 ~11:55am PT — MS/Shawn Kim's two-tier memory market (Jake's paste) + Jake's both-ways question: the LTA cap, the lawsuit's exhibit, and the INFLATION LOOP
 ### DATA (as-pasted; Morgan Stanley, Shawn Kim, June 2026)
 - "Supply relief is a process, not a switch" — new capacity takes years to build/qualify/ramp. **Two-tier market:
   AI/cloud buyers sign LTAs, prepay, secure priority; traditional buyers (PC/smartphone/industrial) compete for
