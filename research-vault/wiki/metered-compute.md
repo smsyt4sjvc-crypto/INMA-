@@ -964,3 +964,43 @@ subagents because training is unique to their production needs — with intercha
   never shipped = pre-release testing arguments write themselves). Anthropic: a statutory safety regime validates
   the posture it was de-banked for — with the irony that its new regulator (DHS) is the apparatus that designated it
   a supply-chain risk in Feb. [[ai-financing-fragility]], [[compression-thesis]] (Sol treatment), [[_calibration]].
+
+##### 2026-07-27 ~4:50pm PT — AMODEI'S POSITION PAPER: no ban — regulate the CHOKEPOINTS (Axios via Jake) — the third architecture enters the rule-writing race
+*(Conflict flag, renewed and prominent: this analysis is written by Fable 5 about its own maker's CEO's policy position.)*
+### DATA (Axios, Madison Mills; Amodei blog post Monday)
+- **Amodei: Anthropic has "never advocated" an open-weight ban**; models without dangerous capabilities are "a
+  public good"; a ban on Chinese open models wouldn't stop bad actors and "would not address my most serious
+  national security concerns." Acknowledges a ban WOULD shield Anthropic from competition — "never been my goal."
+- **His three policies instead:** (1) tighter controls on advanced chips AND CHIPMAKING EQUIPMENT to authoritarian
+  governments; (2) crackdown on "INDUSTRIAL-SCALE DISTILLATION" (training on more-advanced models' outputs);
+  (3) **mandatory safety testing for sufficiently capable models, OPEN OR CLOSED.**
+- Letter status: **Google and OpenAI signed the open-weight letter THIS WEEKEND after abstaining; Anthropic
+  remains the lone major holdout.** Trigger context: Kimi K3's near-frontier-at-fraction-cost debut; the admin
+  weighing action incl. SANCTIONS on Chinese labs for distillation "theft" (= what the morning's "China vows
+  response to US sanctions threat against AI firms" headline was responding to — loop closed). Sacks publicly
+  accusing Anthropic of safety-as-business-model.
+### THESIS (interpretation — NOT fact)
+- *(the rule-writing race now has THREE architectures, 96 hours post-Skynet-Day)* (1) the Alliance/letter:
+  SHIELD open weights; (2) the Kill Switch Act: kill-switch/telemetry on hosted mega-labs; (3) Amodei:
+  CHOKEPOINT regulation — chips/SME, distillation, capability-triggered testing everywhere. Jake's frontloading
+  thesis fully realized: every faction filed its preferred rulebook within four days of the incident.
+- *(★ the same-day irony on policy #1)* Amodei asks for tighter CHIPMAKING-EQUIPMENT controls on the exact day
+  China announced domestic DUV in limited production with CXMT deliveries slated AUGUST. The policy's window is
+  closing as it's proposed — controls on a substitute that has already arrived regulate the past. (The vault's
+  policy-incubates-substitute loop, now visible to the policy's own advocates.)
+- *(the distillation crackdown — both readings, firewalled)* CYNICAL: chips + anti-distillation achieve most of
+  a ban's competitive effect on Chinese open-weight (their capability pipeline runs through both) while
+  preserving "never advocated a ban" — the surgical substitute. CHARITABLE: distillation and compute genuinely
+  ARE the capability chokepoints, and "non-dangerous open models are a public good" is a real concession the
+  Alliance never asked him to make. Both stand; his acknowledgment of the competitive benefit is unusual candor
+  either way. NOTE the friendly-fire risk: a distillation crackdown also touches the DOMESTIC cheap-tier economy
+  (distills-of-frontier ARE the volume tier — Composer-class workers, the labs' own mini models) depending on
+  how "industrial-scale" gets defined. The definitional fight is where this lives or dies.
+- *(policy #3 re-levels the Kill Switch tilt)* Mandatory testing "open or closed" = the forecast open-weight
+  leg, endorsed by the closed lab's CEO. If it lands, the make-vs-buy tilt the Act-as-written gives the
+  in-house/open path gets partially reversed (open models carry compliance burden too). The lobbying now has
+  clean sides: Alliance = burden hosted only; Amodei = burden by CAPABILITY, venue-neutral.
+- *(the holdout position, priced)* Anthropic alone off the letter + Sacks attacking + the Feb de-banking
+  history = maximal political isolation from the administration's AI faction — AND maximal differentiation if
+  an incident-driven regulatory regime arrives (the only lab whose lobbying matches its product posture).
+  The Oct listing carries both faces. [[compression-thesis]], [[ai-financing-fragility]], [[_calibration]].
