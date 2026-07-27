@@ -1328,3 +1328,23 @@ NEXT 13F (~Aug 14), today visible only via the 10-Q disclosure.
   + socket defense (the TPU flip) + safety optics at NVDA scale, even if it's transformative at SSI scale. Both
   frames true; the fragility question is never whether NVDA can afford it — it's what the PATTERN (equity-for-
   consumption across the whole lab complex) does to the meaning of reported AI revenue. [[cepi]].
+
+## 2026-07-27 ~12:10pm PT — THE WIDEN-TRIGGER GETS DATA: hyperscaler CDS at RECORD wides, +3bps more, "unprecedented carnage in AI IG CDS" — ON THE RELIEF DAY (ZH timeline via Jake)
+### DATA (ZH X timeline, ~1-4h old items; as-reported)
+- **"Unprecedented carnage in AI IG CDS continues, matched by another 3bps sweep wider to a NEW RECORD in the
+  hyperscaler CDS basket."** Same feed: "Stocks Sink Despite Hormuz Hopes As China Sparks Chipmaker Thunder" —
+  equities FADED the de-escalation gap. **"Fitch, 10 months later: the real bubble is in AI debt"** (ratings-
+  agency adoption of the thesis). Treasury: stellar 2Y / **DISMAL 5Y auction** (belly weakness). Goldman cluster:
+  quant desk "markets no longer ignoring what's going on under the surface"; a partner naming "the rates level
+  where equities will struggle"; "not an inflation issue — REAL-RATE pressure persists." Trump (4h): "RATES
+  SHOULD BE LOWERED." ETG: "still a long way to go in AI correction."
+- NVDA/SSI number discrepancy: ZH printed **$6B (4h ago) then $5B (later)** — treat terms as ~$5-6B pending WSJ.
+### THESIS (interpretation — NOT fact)
+- *(the registered trigger is printing)* Maximum-relief tape (ceasefire + oil −6%) and the hyperscaler credit
+  basket makes NEW record wides anyway = **the financing tape overriding the best macro news available — the
+  terminal-form razor's exact instrument, at its exact extreme, into the capex prints.** The restated flip-tell
+  (spreads TIGHTENING) is moving the WRONG direction at records. Fitch adoption = the ratings channel (IG
+  mandates) now carries the thesis — recognition datapoint AND a mechanical transmission (downgrade language
+  moves forced flows). The dismal 5Y + real-rate framing + Trump demanding cuts = the rates leg pressing the
+  same wound. Widen→no-bid remains the trigger's full form; record-wide-and-widening is its loudest warning state.
+  [[compression-thesis]] (razor), [[metered-compute]], [[market-fragility]].

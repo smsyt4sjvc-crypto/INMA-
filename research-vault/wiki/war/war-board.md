@@ -217,3 +217,9 @@ crossing of it.* Watch items: Kuwait-facility ID · Kharg/Saudi-terminal strike 
   FIRMS cluster ~24.04N/49.19E on the Petroline pump-station lane; distributed "emergency flaring at multiple
   production sites" = the SHUT-IN CASCADE signature (hard to fake). Physical case = OSINT-maximal. Market = still
   unmoved. The divergence is the trade-relevant fact; loadings settle it within 24-48h.
+- **12:10pm PT (ZH timeline):** Trump cluster (4h): **"EITHER TALKS GO FAST OR NOT AT ALL"** (Axios — an
+  ultimatum/deadline structure on the diplomacy), "WE WILL END IRAN'S NUCLEAR THREAT VERY QUICKLY" (escalation
+  rhetoric DURING the pause), **"WE'RE BUILDING AMMUNITION RAPIDLY"** (publicly addressing the depletion story =
+  confirming it mattered). Talks now carry a stated impatience clock; the pause's political shelf-life is being
+  set in public. Equities faded the relief gap ("Stocks Sink Despite Hormuz Hopes") = set-#4's hold-vs-fade
+  resolving toward FADE intraday.
