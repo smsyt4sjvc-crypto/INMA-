@@ -701,3 +701,43 @@ Anthropic's pricing of Fable 5 — weight accordingly.)*
   capability is what a franchise does when the capability premium STOPPED SELLING — the defender posture already
   classified above. Jake's read adds agency and a tail; it does not reverse "value shifts away from the base model."
   The $750B claim queue is still financed against the axis being abandoned. [[ai-financing-fragility]], [[ai-capex-cycle]].
+
+##### 2026-07-27 ~12:20am PT — Jake's FRONT-LOAD synthesis: pre-positioning for open-weight economics + the valuation DOUBLE-DECAY
+*(Jake's four-part thesis, graded against the vault. Conflict flag stands — Fable 5 analyzing its maker.)*
+- *(1. front-loading — SUPPORTED, upgrades the defender read)* Jake: the pivot to commoditized volume is ANTICIPATORY —
+  migrate the franchise to volume + defaults + harness lock-in BEFORE the open-weight wave makes frontier-token premiums
+  untenable. Vault already holds the pieces: half-price calibrated to the OPEN floor (Kimi/DeepSeek gravity), not the rival
+  ceiling; the two-front margin retreat; tonight's re-aimed-capability entry. Jake's reframe: retreat-as-REPOSITIONING —
+  fall back to the defensible line (volume/defaults/harness) before the indefensible line (frontier premium) falls. Panic
+  vs plan is outside-indistinguishable today; the tells: cheap-tier serving-cost accretion (margin math) + whether moves
+  preceded share loss. **ARR counter-fact logged honestly: Anthropic $9B (2025)→$14B (Feb)→$30B (Apr), 3.3x in 4 months
+  THROUGH the price cuts** — the volume strategy is printing, so far.
+- *(2. ★ the valuation DOUBLE-DECAY — the sharpest new claim)* Legacy AI-revenue projections (the base under the $750B
+  claim queue + the Oct listing cluster) = tokens × price, and BOTH factors were inflated: PRICE carried the frontier-
+  scarcity premium (competition/open-weight removes it), VOLUME carried structural WASTE — tokenmaxxing idiom, agentic
+  errors/retries, "post-shipped learning" (early-harness inefficiency) — which engineering actively deletes (the 7/25
+  below-half-PER-TASK amendment = waste-deletion already printing). Decompose: **revenue = tasks × tokens-per-task ×
+  price-per-token; the projections held factors 2-3 ~constant; both are in structural decline.** Jake's ordering claim is
+  right: the squeeze was ENDOGENOUS (efficiency existed pre-China); the open-weight wrench removed the pricing FLOOR and
+  accelerated it. [[ai-financing-fragility]] (the queue is priced on the legacy math).
+- *(2b. the confrontation — Jake's two theses now compete QUANTITATIVELY)* The metered-compute demand bull requires task
+  growth to outrun the PRODUCT of two decays now, not one: 2× price cut × 2× task-efficiency ⇒ **4× task growth for FLAT
+  revenue.** The valuation-crush claim = a forecast that the bar rises faster than tasks grow; the ARR print (3.3x/4mo)
+  says the bar is CLEARED so far. Resolution variable, trackable: lab revenue growth vs the decay product (ARR updates,
+  tokens-per-task disclosures, per-task pricing). ⚠️ firewall: "it's already going to happen" = thesis-as-fact phrasing —
+  it's a scenario with a probability and a falsifier: **labs compounding revenue through the efficiency wave = the crush
+  claim failing = Jake's OWN demand thesis winning.** He holds both sides; the vault's job is to score the race, not pick early.
+- *(3. the safety friction = THREAT-MODEL divergence — political-economy read)* Jake: the open-vs-closed fight is about WHO
+  each company counts as the threat. Positions correlate with P&L: NVDA open (sells to every buyer), Musk open (attacks
+  OpenAI's moat), OpenAI flexible (distribution war), Anthropic closed (enterprise-trust differentiation + founding
+  conviction). "More eyes = more security" = the OSS argument ported to weights; the triptych's flaw stands (open-as-
+  constituted removes the veto while owing nothing back). Counterweight, logged: belief-interest correlation ≠ bad faith —
+  Anthropic's Feb refusal COST a federal franchise (conviction that survives a revenue hit is revealed preference, both
+  directions). Market use: read every lab's safety statement as book-talking FIRST, then weigh the residue.
+- *(4. DoD/the hollow — VAULT-CONFIRMED, with the asymmetry tell)* Receipts above: Hegseth ultimatum ("all lawful military
+  purposes") → Amodei refused → 2/27 federal phase-out + "supply-chain risk" designation → HOURS later OpenAI signs for
+  DoD classified networks "with restrictions the DoD agreed to." **The tell: DoD accepted from OpenAI the same restriction
+  CLASS it punished Anthropic over → the hollow was political alignment, not policy surrender — the state wanted a
+  compliant champion, Altman supplied the signature.** Ties forward: OpenAI's state entanglement = the USG tranche of the
+  financing stack — designated-champion umbrellas carry obligations (see MU's: the champion must then FIGHT its biggest
+  customer's escape valve in front of the White House). [[ai-financing-fragility]], [[ai-capex-cycle]].
