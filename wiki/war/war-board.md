@@ -257,3 +257,23 @@ crossing of it.* Watch items: Kuwait-facility ID · Kharg/Saudi-terminal strike 
   "unavoidable" (in the building today) + Trump's Pickaxe Mountain threat + Iran's new frozen-assets condition
   = three ways this breaks while the tape prices peace. Triggers: (a) export-terminal — Jazan hit but it's
   refining; a CRUDE export node remains the uncap. (c) closure — EXECUTED and now formalized in negotiation.
+
+## ⚠️ DISAMBIGUATION (added 2026-07-28 ~12:05pm PT, Jake's question) — ABQAIQ ≠ JAZAN; PROCESSING ≠ REFINING
+Two different Saudi facilities were hit in the same week and the press/OSINT have been blurring them. The
+difference decides which instrument moves — keep them separate in every future entry.
+- **ABQAIQ — crude STABILIZATION & PROCESSING, ~7M bpd max / ~4.9M bpd typical.** The world's LARGEST facility
+  of its kind (not a refinery: it strips H2S and cuts vapor pressure so crude can be safely exported). Status:
+  **officially only "TARGETED"; satellite-alleged damage to gas storage tanks; Saudi MoD says the Iraq-launched
+  drones were intercepted. NO official confirmation of a strike.** ⚠️ OSINT accounts have repeatedly called it
+  "Abqaiq refinery" — imprecise, and the source of the confusion.
+  → If genuinely damaged, it removes **CRUDE EXPORTS** = the board's tell (a) uncap = **crude flat price** rips.
+  (2019 precedent at this same plant: 5.7M bpd offline.)
+- **JAZAN/JIZAN — a REFINERY, 400,000 bpd.** Large (among Saudi Arabia's biggest, newest) but NOT among the
+  world's largest refineries (those run 800k-1.24M bpd: Jamnagar, Paraguana, Ulsan, Yeosu). Status:
+  **CONFIRMED SHUT** — IGCC complex + tank farm damaged, Aramco halted it, **repairs/restart ~AUG 15 (IIR)**.
+  → It removes **PRODUCTS** (gasoline/diesel) = **CRACK SPREADS** widen; it is NOT bullish crude (a refinery
+  that isn't running also isn't BUYING crude — marginally bearish the barrel).
+- **Why it matters right now:** the CONFIRMED damage is the one that supports refiner margins ([[oil-value-chain]]);
+  the UNCONFIRMED one is the one that would break crude. That asymmetry is exactly why crude keeps falling while
+  the refiner complex sits at 52-week highs — and why the board's tell (a) remains UNFIRED despite a real,
+  dated, quantified outage on the books.
