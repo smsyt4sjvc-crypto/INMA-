@@ -1004,3 +1004,43 @@ subagents because training is unique to their production needs — with intercha
   history = maximal political isolation from the administration's AI faction — AND maximal differentiation if
   an incident-driven regulatory regime arrives (the only lab whose lobbying matches its product posture).
   The Oct listing carries both faces. [[compression-thesis]], [[ai-financing-fragility]], [[_calibration]].
+
+##### 2026-07-28 ~8:30am PT — AUG 1 DEADLINE + THE PRE-RELEASE ACCESS FRAMEWORK: the rule-writing race gets a DATE, and NVDA is under investigation while lobbying it (Axios scoop)
+### DATA (Axios, Maria Curi, 7/28)
+- **Huang met Commerce Sec. Lutnick TUESDAY** (previously unreported) while **Commerce/BIS is INVESTIGATING
+  potential Nvidia BLACKWELL export violations to China** (BIS spokesperson to Axios last week). Huang also
+  meeting Sen. Warner (top Dem, Intel Cmte) + members both parties.
+- **★ THE FRAMEWORK: the administration is finalizing a framework giving the GOVERNMENT EARLY ACCESS TO THE
+  MOST ADVANCED AI MODELS BEFORE RELEASE — expected to be unveiled by AUG 1.** It also covers the
+  open-source/China approach.
+- **Bessent (Treasury) last week: "When PRC firms conduct covert, industrial-scale DISTILLATION attacks that
+  cross the line into IP theft, SANCTIONS and ENTITY LIST designations will be on the table."**
+- NVDA's stated pitch: $500B of American tech production over four years + "American leadership in AI,
+  including leading in open source."
+### THESIS (interpretation — NOT fact)
+- *(the frontloading thesis gets its deadline — 9 days from incident to framework)* Skynet Day (~7/24) → three
+  rulebooks filed (Alliance letter, Kill Switch Act, Amodei's chokepoints) → **framework by AUG 1.** Jake's
+  "front-loading intent before governments impose them" is now a race with a finish line, and the lobbying
+  intensity (Huang personally working Commerce + both parties this week) prices how much is at stake.
+- *(★ AMODEI'S POLICY #2 IS ALREADY ADMINISTRATION POLICY — from TREASURY)* Bessent's distillation/sanctions/
+  Entity-List language predates Amodei's Monday post. So the "surgical ban-substitute" read gets re-weighted:
+  Anthropic isn't originating the distillation crackdown — it is ENDORSING an existing Treasury position (a
+  meaningful correction to yesterday's cynical framing; the policy's parentage is governmental, not lab-driven).
+  Watch whether the Aug-1 framework adopts the distillation leg — that's the definitional fight that decides
+  whether the domestic cheap-tier (distills = the volume tier) gets caught in it.
+- *(the leverage asymmetry, stated plainly)* Huang is lobbying the same department that is investigating his
+  company, days before a framework that could reshape both. That is maximal leverage FOR Commerce — the
+  investigation is the lever, the framework is the ask. Read NVDA's open-source advocacy through it: the
+  $500B-American-production pitch is the trade being offered.
+- *(★ pre-release government access = a NEW structural cost the market hasn't priced)* If the frontier must be
+  shown to the state before release, then: (a) release cadence slows (adds a review gate — feeds the
+  frontier-cadence trigger MECHANICALLY, independent of capability); (b) a foreign-lab asymmetry opens (Chinese
+  open-weights face no US pre-release gate → the compression pressure INTENSIFIES on US closed labs); (c) the
+  weights-proximity fight from the Kill Switch Act arrives EARLIER in the lifecycle. **The cadence slowdown may
+  become partly REGULATORY, which the Epoch chart cannot distinguish from capability plateau** — a measurement
+  hazard for the trigger the vault registered Sunday. Note it before the data gets contaminated.
+- *(name-level)* NVDA: an active BIS investigation is an unpriced tail on the apex name (the RVOL-neglect entry
+  says nobody is trading it — this is the kind of headline that ends neglect). Anthropic/OpenAI: pre-release
+  access is a compliance cost that scales with frontier ambition — and lands on the lab that just filed the
+  most restrictive-friendly rulebook. Aug 1 is now a registered dated catalyst. [[ai-financing-fragility]],
+  [[compression-thesis]], [[_calibration]].
