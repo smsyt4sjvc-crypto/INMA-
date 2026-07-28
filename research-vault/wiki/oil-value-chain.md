@@ -70,3 +70,35 @@ Related: [[power-not-petroleum]], [[demand-destruction]] (the crack thread + the
   one (barrels remaining ÷ release rate = the fuse length). Fits [[demand-destruction]]'s buffers-burned 🔴 entry.
 - *(watch on the calls)* Management language on SPR-refill assumptions + any release-schedule guidance = the fuse-length
   datum spoken aloud. [[power-not-petroleum]], [[demand-destruction]].
+
+### 2026-07-28 ~11:56am PT — THE REFINER TAPE (Jake's watchlist): the crack trade has ALREADY PAID — and it is long a government subsidy with a ~12-week fuse
+### DATA (Jake's "Refineries" watchlist screenshot, 11:56am PT; % Total G/L = since-added tracking, holdings unconfirmed)
+- **All six pinned at/near the TOP of their 52-week ranges:** MPC 326.92 hi (range 158.00-326.92, **+209.31%
+  total**) · VLO 320.24 hi (130.78-320.24, **+201.61%**) · PSX 216.08 hi (118.07-216.08, **+107.03%**) ·
+  PARR 82.29 hi (26.83-82.29, +5.06%) · PBF 68.33 hi (21.24-68.33, −38.61%) · DINO 94.22 hi (42.16-94.22, −9.12%).
+  **Group +82.24% total.**
+- **Today: −0.64% group** (PARR +2.14, DINO +0.11; PBF −2.18, VLO −1.09, MPC −0.97, PSX −0.38) — modestly RED
+  while crude fell ~4%.
+### THESIS (interpretation — NOT fact)
+- *(the thesis paid, and the seeing-edge is spent)* "Own the crack, not the barrel" is fully expressed in this
+  tape: three names doubled-to-tripled, all six at 52-wk highs. Per the vault's standing nomination rule, a
+  thesis at the top of its range is a *held* position question, not an entry — the return now comes from the
+  crack STAYING wide, not from discovering it.
+- *(today's tell — small but real)* Refiners RED while crude −4% means **cracks did not expand today.** In a
+  clean crack-widening regime, falling input + tight product = refiners UP on a down-crude day. They weren't.
+  Read: either profit-taking at the highs, or the market pricing product DEMAND weakness alongside the
+  growth scare (the same growth fear driving the equity liquidation). Watch this pairing daily — crude down +
+  refiners down is a demand signal; crude down + refiners up is the pure crack signal.
+- *(★★ the connection this note already half-made, now completed by the SPR numbers)* This note flagged the
+  release regime as "an indirect refiner subsidy: government supply caps the input; nothing caps the product."
+  The SPR series now DATES it: **~874k bpd average, 104M barrels, 25% of the reserve, and ~12 weeks of runway
+  at the current pace.** So the refiner trade at 52-week highs is, in part, **long a government subsidy with a
+  countable fuse.** When the release slows or stops: input cost rises into a still-short physical market,
+  cracks compress from the cost side, and the names most levered to margin (PBF, DINO — the laggards here)
+  feel it first. **The refiner trade and the flat-price cap share ONE expiry date.** That is the risk the 52-week
+  highs are not obviously pricing.
+- *(the counterweight, honestly)* Jazan's 400k bpd offline to ~Aug 15 REMOVES refining capacity globally =
+  crack-supportive on the product side, independent of crude cost. The two forces run opposite: less refining
+  capacity (bullish cracks) vs the eventual end of subsidized input (bearish cracks). **Which dominates is
+  exactly what XOM/CVX refining segments print FRIDAY** — the test this note already registered for 7/30-31,
+  now with the SPR clock attached to it. [[demand-destruction]] (the absorber + the curve), [[war-board]].
