@@ -488,3 +488,45 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
   just the flat price:** front-only pop = a headline-risk premium; the whole strip lifting = the market
   re-pricing resolution odds themselves, which is the thesis confirming. Crude futures are trading NOW; ES/NQ
   and gold are the confirming instruments. [[demand-destruction]] (curve + SPR), [[war-board]].
+
+### 2026-07-28 — 🔴 CONFIRMED (CENTCOM): IRGC launched MULTIPLE BALLISTIC MISSILES FROM IRAN at US forces — ALL INTERCEPTED. The pause is BROKEN; the casualty gate did NOT open.
+- DATA (official, US Central Command statement): **"At 5:45 p.m. ET today, Islamic Revolutionary Guard Corps
+  forces launched multiple ballistic missiles FROM IRAN in an attempted SURPRISE ATTACK on U.S. forces based in
+  the Middle East. All Iranian missiles were successfully intercepted. U.S. forces remain vigilant and at a
+  high state of readiness."**
+- **Sequence RESOLVED — the load-bearing unknown from the Fars entry is answered by the US itself:** CENTCOM's
+  word is **"SURPRISE"**, and the statement names **no preceding US/Israeli strike**. That is the US officially
+  asserting **Iran broke the reciprocal pause unilaterally.** (Retain one caveat: "surprise" is also the framing
+  that best serves a response decision. But absent any reported US strike today, branch (a) is the operative read.)
+- **From IRAN, by the IRGC — not a proxy.** State forces, state territory, ballistic missiles. This is a
+  different act than Houthi/Iraqi-militia activity the pause tolerated all week.
+- **Location:** CENTCOM says "U.S. forces based in the Middle East" — deliberately vague; Fars claimed Jordan.
+  Possible multi-base salvo or opsec. Do not fix the location on the belligerent's claim.
+- **★ ALL INTERCEPTED. NO DAMAGE, NO CASUALTIES REPORTED.** The escalation gate flagged 20 minutes ago — US KIA
+  → revenge-mode target-discipline breakdown (the 7/24 mechanism that produced 4 US dead) — **DID NOT OPEN.**
+### THESIS (interpretation — NOT fact)
+- *(the unusual shape: MAXIMUM INTENT, ZERO RESULT)* Iran committed the most escalatory act available short of
+  hitting oil infrastructure — state missiles from state soil at US forces — and achieved nothing physical.
+  **That combination hands Washington a CHOICE rather than a compulsion.** With no dead Americans to avenge,
+  Trump can (i) treat interception as sufficient and keep the diplomacy alive, or (ii) treat an attack from
+  Iranian soil as a casus belli regardless of outcome. His own stated frame — "either talks go fast or not at
+  all," "we go back to doing what we were doing two days ago" — supports either. **The next 24h is a decision,
+  not a reflex.** Netanyahu, in Washington today arguing further strikes are "unavoidable," is the thumb on
+  that scale.
+- *(★ THE ATTRITION READ — why a "failed" attack isn't a failure)* Every intercepted missile is a SPENT
+  INTERCEPTOR. The vault logged (NYT/Axios, 7/27-28) that **Gen. Caine privately flagged CENTCOM
+  air-defense-interceptor DEPLETION as a reason to halt the campaign**, and Trump publicly answered it with
+  "we're building ammunition rapidly." **Iran trades cheap ballistic missiles for expensive interceptors the US
+  is already short of.** Zero-damage salvos are an attrition trade against the magazine, and they are RATIONAL
+  for Iran even when every missile is stopped. Expect repetition; the tell is whether US interception rates or
+  posture change, not whether damage occurs.
+- *(marker state)* OFF-RAMP: **BROKEN.** Tell (a) export-terminal: still unfired, but the conditional odds step
+  up materially — an Iran that has resumed direct state-on-state fire has fewer rungs left below the oil card.
+  Set-#5 **KILL SWITCH #3 FIRES** (talks collapse / re-load branch).
+- *(★ the curve test is now LIVE and CLEANER than an hour ago — the confirmation removes the source discount)*
+  Today's finding put the mispricing at the BACK of the curve (deferred $8-14 under front, priced for
+  resolution, vs Polymarket 14%). **A confirmed, unilateral break of the pause by state forces is the event
+  that should reprice DEFERRED months up toward the front.** Front-only pop = headline premium (fades on "all
+  intercepted"). **Whole strip lifting = the market repricing RESOLUTION ODDS = the thesis confirming.** The
+  zero-casualty outcome is the counterweight that may cap the front while leaving the back to do the work —
+  which would be the cleanest possible expression of the finding. [[demand-destruction]], [[war-board]].

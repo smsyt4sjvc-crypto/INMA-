@@ -277,3 +277,16 @@ difference decides which instrument moves — keep them separate in every future
   the UNCONFIRMED one is the one that would break crude. That asymmetry is exactly why crude keeps falling while
   the refiner complex sits at 52-week highs — and why the board's tell (a) remains UNFIRED despite a real,
   dated, quantified outage on the books.
+
+## UPDATE — 2026-07-28 ~3:10pm PT — 🔴 THE PAUSE IS BROKEN (CENTCOM-confirmed): IRGC ballistic missiles FROM IRAN at US forces, ALL INTERCEPTED
+- **Status: OFF-RAMP BROKEN.** State-on-state fire resumed by Iran, per CENTCOM's own "surprise attack" framing
+  (no preceding US strike named). **Zero damage, zero casualties — the revenge-mode gate did NOT open**, so the
+  US response is a CHOICE, not a reflex, and Netanyahu is in Washington pressing for the escalatory branch.
+- **Attrition read registered:** intercepted salvos still burn the air-defense interceptors Caine flagged as
+  depleting — Iran trades cheap missiles for scarce interceptors. Repetition is rational for Iran; watch
+  posture/interception-rate changes, not damage.
+- **Triggers:** (a) export-terminal UNFIRED but conditional odds up (fewer rungs left below the oil card);
+  (c) closure unchanged (zero transits); OFF-RAMP fired→broken in 4 days.
+- **The measurement that matters tonight: the SHAPE of the crude curve.** Front-only pop = headline premium
+  (capped by "all intercepted"). Deferred strip lifting toward the front = resolution odds repricing = today's
+  curve thesis confirming. Also watch gold (a real bid = fear, vs this week's liquidation-selling) and ES/NQ.
