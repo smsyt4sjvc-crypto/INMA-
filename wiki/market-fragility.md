@@ -856,3 +856,19 @@ investment orgs) as a % of US equity market cap (Wilshire 5000) — record low ~
   Tuesday US session (MU $900 in the blast radius) → Netanyahu → FOMC Wed + META/MSFT. A regional chip-led
   cascade INTO a Fed decision = the financing-side tug pulling with both hands. The registered question is no
   longer contained-vs-regional; it is whether the US futures tape absorbs it or joins it.
+
+### 2026-07-27 ~6:50pm PT addendum 2 — THE ANSWER IS JOIN: all three chip hubs down, US futures following, gold selling INTO risk-off
+- DATA (Jake's upgraded cell, ~6:45pm PT): **KOSPI −7.56% (6,212 — DEEPENED post-circuit-breaker reopen, the
+  margin-queue mechanics printing) · Nikkei −3.86% · Taiwan −3.78%** = the regional chip cascade COMPLETE.
+  **US futures joining: NQ −1.88%, ES −0.77%** (NQ leading = tech-led transmission). Oil still bleeding INTO
+  risk-off: WTI 81.70 −4.1%, Brent 87.39 −5.9%. **Gold −1.02% (4,051) — selling into an Asian risk-off.**
+  TLT bid, DXY +0.27, 10Y 4.64.
+- *(the CTA compounding math)* Cash closed below the 7446 trigger; ES −0.77% implies a Tuesday open near
+  ~7,355-7,360 = DEEPER below the trigger → mechanical CTA selling stacks on whatever fundamental flow arrives.
+- *(★ the gold tell)* The debasement referee falling WITH equities in a leverage flush = the liquidation
+  signature (margin calls sell what has a bid). If gold keeps declining alongside stocks, the Korean
+  deleveraging is exporting — broad forced selling, not sector rotation. Gold stabilizing while stocks fall =
+  contained. The cleanest overnight discriminator remaining.
+- *(oil double-bearish)* Peace-trade AND growth-scare now point the same direction on crude — the war premium
+  bleeds while demand fear builds. Only a walkback/Abqaiq-confirmation reverses it. [[ai-financing-fragility]] (the
+  credit panel — the slow fuse), this entry (the fast fuse), FOMC Wednesday (the room they meet in).
