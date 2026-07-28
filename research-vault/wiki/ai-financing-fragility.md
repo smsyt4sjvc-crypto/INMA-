@@ -1380,3 +1380,71 @@ NEXT 13F (~Aug 14), today visible only via the 10-Q disclosure.
   hung deal, or a drive-by that prices 30bps back of talk). Basket +50bps IN JULY with the FOMC Wednesday =
   the financing tape and the Korea leverage flush are two lit fuses on the same powder. [[compression-thesis]],
   [[market-fragility]], [[cepi]].
+
+## 2026-07-28 ~12:15pm PT — ★ THE STEELMAN: the spot-vs-contract repricing bull case (Jake's paste) — the strongest counter this note has ingested, graded
+*(Per [[_calibration]]: Jake has built the bear all week; this is the under-weighted side and gets full weight.
+Source: a buy-side note + 3 exhibits. Author unattributed in the paste.)*
+### DATA (as-presented in the note + exhibits)
+- **Exhibit A — YoY OCF growth, hyperscale composite: Q1'25 15% → Q2'25 17% → Q3'25 36% → Q4'25 32.5% →
+  Q1'26 31% → Q2'26 50%** (mix of actuals + estimates). Claim: consensus wrongly models Q3'26 DECELERATION.
+- **Exhibit B (Wells Fargo 13/14/15):** hyperscaler avg 5yr CDS crossed ABOVE the Markit CDX IG index (~68 vs
+  ~53); **Debt-to-Assets ~21% = second LOWEST of all sectors** (only Financials lower; Real Estate ~50%,
+  Utilities ~44%); **Interest Coverage Ratio ~65-80x vs SPX ex-Financials ~10x.**
+- **Exhibit C (BofA):** 12m-forward FCF — hyperscalers collapsing to ~−$40B while semis explode to ~+$430B
+  ("a generational transfer in free cash flow"). The note annotates: hyperscaler FCF "likely inflecting upwards
+  in the near term especially if we added the frontier labs."
+- **The core claim: SPOT GPU rental prices are ≥2x CONTRACTED rates.** ⇒ hyperscalers are UNDEREARNING on the
+  installed base; as 2024-25 contracts roll off and reprice, OCF accelerates mechanically without new capex.
+- **The CY28 math:** 25-35 GW added × ~$60B/GW = **$1.5-2.2T capex** vs consensus hyperscale/neo OCF
+  **$1.3-1.4T** ⇒ a $100-700B gap. Claim: OCF gets revised up as contracts reprice, so the gap shrinks or
+  vanishes; and even unrevised, **$100-700B is <1 turn of incremental leverage on consensus EBITDA.**
+- Supporting: NVDA/AVGO "credit wrappers" improve creditworthiness; OpenAI/Cursor/Grok/OSS inference clouds
+  accelerating; Anthropic growing fast and "likely generating FCF." **CDS dismissal: "CDS markets are easy to
+  manipulate — short the stock, buy the CDS (a GFC feature) — so I would not attach much signal to CDS."**
+  Named real risk: **power/energization, not credit.**
+### THESIS — where it's STRONG (analysis; concede these plainly)
+1. **The repricing mechanism is real, mechanical, non-consensus and FALSIFIABLE.** If spot is materially above
+   contract, rolling contracts raise revenue per installed GPU with ZERO incremental capex. That is the single
+   best bull argument available and this note has not previously carried it. Registered as a first-class claim.
+2. **Exhibits 14/15 gut the "AI debt bubble" framing AT THE HYPERSCALER LEVEL.** Debt/assets ~21% (second
+   lowest of any sector) and interest coverage 65-80x versus ~10x for the market is not a distressed balance
+   sheet by any conventional measure. **This note must stop implying hyperscaler SOLVENCY risk** — the honest
+   bear claim is about MARGINAL funding cost, EPS quality, and the marginal borrower (ORCL 216bps, CRWV 751,
+   the neoclouds), NOT about MSFT/GOOGL/AMZN/META defaulting. Correction accepted.
+3. **The leverage arithmetic is right in magnitude.** $100-700B against 2028 consensus EBITDA for this cohort
+   is roughly ≤1 turn. Not a solvency event.
+4. **Naming POWER as the real risk aligns with the vault's own primary evidence** (PJM 7GW short, 128-week
+   transformers, public backlash).
+### THESIS — where it's WEAK (the counters that survive)
+1. **★ The 2x spot-over-contract spread IS the incentive for the supply response — it is the vault's glut
+   evidence, read bullishly.** A 2x rental spread is precisely what pulls neoclouds, new entrants and capital
+   into building. The bull case bets CONTRACT REPRICING (1-3yr roll) outruns NEW CAPACITY (1-2yr build). That is
+   a genuine race, not a settled fact — and the same datum feeds both theses ([[memory-regime-question]],
+   same structure).
+2. **Spot-vs-contract overstates the uplift.** On-demand spot carries a term/urgency premium over multi-year
+   reserved contracts in EVERY rental market (hotels, aircraft, cars). Part of the 2x is normal term structure,
+   not underearning. The realized repricing uplift will be less than 2x — unquantified in the note.
+3. **★ "Ignore CDS" does NOT dispose of the credit signal, because the CASH market says the same thing
+   independently.** The **GS hyperscaler bond basket G-SPREAD went ~100 (Feb) → 170.4 (7/27)** — cash bonds,
+   broad basket. A basis trade can distort a single-name CDS; it cannot move a whole cash-bond basket 70bps.
+   AND the note's OWN Exhibit 13 shows hyperscaler CDS crossing ABOVE the IG index — a RELATIVE repricing.
+   Two independent instruments agree. The manipulation caveat is fair and insufficient.
+4. **The OCF acceleration and the circularity thread intersect.** Part of the demand paying those rising rates
+   is vendor-financed (NVDA→labs→cloud; MSFT→OpenAI→Azure). Revenue growth funded by the seller's own balance
+   sheet is lower-quality than organic growth — this note's mapped circular nodes are exactly the accelerating
+   customers the bull case cites. Not all of it; but the note asserts none of it.
+5. **The Exhibit-C annotation is a claim, not data — and mechanically backwards as written.** Adding the
+   frontier labs to an aggregate FCF chart LOWERS it unless the labs are FCF-positive; OpenAI is not. "Anthropic
+   likely generating FCF" is unverified. The bear chart survives its own rebuttal.
+6. **The power caveat cuts his own math.** The bull case needs 25-35 GW BUILT to generate the revenue. If power
+   is "the real risk," it gates the buildout — which lowers capex (good for credit) AND the growth (bad for the
+   thesis). Can't be the reassurance and the risk simultaneously.
+### ★ THE TEST — this is falsifiable in ~26 HOURS (MSFT + META, Wed after close)
+- **Variable 1: does hyperscale OCF growth ACCELERATE toward the ~50% claim, and does guidance imply Q3
+  acceleration rather than the consensus deceleration?** That is the bull case's core mechanism, printing.
+- **Variable 2: do SPREADS respond to it?** The decisive 2x2: **OCF accelerates + spreads tighten = the bull
+  case is right and this note's razor loses its funding leg. OCF accelerates + spreads keep widening = credit is
+  looking past cash flow at something else (off-B/S obligations, depreciation quality, the marginal borrower) —
+  and THAT would be the strongest possible confirmation of the terminal-form razor.** OCF misses = the bull
+  mechanism fails outright.
+- Registered for grading Wednesday night. [[compression-thesis]], [[cepi]], [[market-fragility]].
