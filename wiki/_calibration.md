@@ -411,3 +411,31 @@ Source: FT Alphaville weekly (Bryce Elder), 7/24. The week's key calibration cat
   a major house holding a +5% constructive target is the first counter-datum. **If bull calls start CLUSTERING
   from here, that's the crowded-bear/squeeze setup the calibration doctrine says to lean against.** One month-old
   target is not a cluster. Watch for a second and third.
+
+### 2026-07-28 ~2:20pm PT addendum — Jake's actual point: the POST's timing, not JPM's. The feed is an ENGAGEMENT-WEIGHTED SAMPLER that inverts against the tape
+*(I answered the wrong question above — Jake was never asking about JPM's call date. He was asking why a
+five-week-old bullish call was stamped "🚨BREAKING" and posted ~9am PT TODAY: mid-liquidation, MU −10%, Korea
+circuit-breakered, the S&P's bottom decile in freefall.)*
+- *(the ranked explanations)* **(1) ENGAGEMENT OPTIMIZATION — most likely by far.** Content whose emotional
+  valence OPPOSES the tape is the highest-performing quadrant: on a max-fear day, "a big bank says buy" harvests
+  agreement, outrage and argument simultaneously. The algorithm rewards it; the poster (or the page's incentive)
+  supplies it. **No coordination required.** (2) Clout-farming by a permabull. (3) Lazy aggregation of a stale
+  article resurfacing. (4) The cynical read — deliberate cover for distribution into retail. ⚠️ (4) is
+  unfalsifiable from a screenshot and should stay unpromoted; **but note that (1) PRODUCES THE SAME OUTCOME AS
+  (4) WITHOUT ANYONE INTENDING IT.** Mechanism beats motive.
+- *(★ THE GENERALIZATION — this is the vault-worthy part)* **The feed is not a neutral sample of the news; it is
+  an engagement-weighted sampler that systematically inverts against the tape.** Red day → stale bullish content
+  surfaces ("banks say buy," "best buying opportunity"). Green day → doom content surfaces ("this is nuts,
+  when's the crash"). Because that is what gets clicked in each state. **Consequence: retail's information diet
+  is counter-cyclical by construction — it manufactures reassurance exactly when the tape is breaking and dread
+  exactly when it's running.**
+- *(the pair with Jake's OWN 7/7 finding — the vault now has both halves)* He logged that
+  **screenshot-firehose days manufacture the FEELING of convergence** (~6 real signals inside dozens of items).
+  This is the mirror image: **fear days manufacture the feeling of a floor.** Same machine, opposite direction.
+  Together they describe one bias: **the feed's emotional valence is engineered, and it is engineered AGAINST
+  whatever the tape just did.**
+- *(the operational rule, added to the source-hygiene stack)* **Content whose emotional direction opposes the
+  day's tape gets an automatic date-check and a source-tier check BEFORE it gets any weight.** That quadrant is
+  where recycled, farmed and stale material concentrates — precisely because it performs best there. Corollary
+  for the collector tool: a "BREAKING" label on an item whose underlying event is >7 days old is itself a
+  signal about the CHANNEL, not the news.
