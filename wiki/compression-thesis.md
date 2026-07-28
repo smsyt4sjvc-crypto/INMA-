@@ -1176,3 +1176,26 @@ one correction: LIMITED production has begun; mass production/fab integration is
   that makes it survivable: each GLW-type day LOWERS the collective bar — that is how corrections end
   (expectations fall until beats matter again). The derate is the healing mechanism running at market speed.
   [[cepi]], [[ai-capex-cycle]], [[market-fragility]].
+
+### 2026-07-28 ~9:15am PT — MAG-7 RVOL: NVDA's flat is NEITHER pin nor battle — it is ABANDONMENT (the answer to Jake's question)
+### DATA (Jake's RVOL cell, 99 min into session; today vs 10d avg, time-of-day adjusted)
+- **NVDA 51.6M vs 123.1M avg = 1.07x RVOL (normal)** · MSFT 0.96x · AAPL 0.90x · TSLA 0.90x · AMZN 0.84x ·
+  **GOOGL 0.69x (quiet)** · **META 0.60x (quietest)**. Zero elevated readings across the seven — on a day
+  the S&P's bottom decile is down 5-19%.
+### THESIS (interpretation — NOT fact)
+- *(★ the discriminator resolves: NEGLECT, not absorption)* The registered test was flat-price-with-HIGH-RVOL =
+  absorption battle (violent resolution) vs flat-price-with-LOW-RVOL = neglect. **NVDA printed 1.07x — dead
+  normal. No battle at the apex.** Nobody is fighting over NVDA today; the selling is entirely in the court
+  (SNDK/WDC/COHR/LITE/DELL/MU at 14-19% down). Read: **this is not de-risking the AI TRADE, it is de-risking
+  the DERIVATIVE ownership of it** — the franchise keeps its holders, the second-derivative names lose theirs.
+  Refines yesterday's "kings kept, court killed": the kings aren't being defended, they're simply not being sold.
+- *(earnings explains 4, NOT the pattern)* MSFT/META (report Wed) + AAPL/AMZN (Thu) = classic pre-print freeze
+  — but GOOGL and TSLA ALREADY reported and are equally quiet (0.69x, 0.90x), and NVDA doesn't report until late
+  Aug. **So the blackout explains the individual quiet, not the collective calm** — the megacap complex as a
+  whole is simply not participating in the liquidation. META at 0.60x = the quietest name in the index's
+  most-watched cohort, the day before its own capex print: dealers pinned, real money waiting.
+- *(what it implies for Wednesday — the coiled setup, stated as risk not forecast)* Volume this LOW into the
+  two biggest capex prints of the year means positioning is NOT set, hedges are thin, and the reaction is
+  UNABSORBED — the move gets amplified in both directions (the dispersion-unwind + thin-liquidity warning from
+  the GS desk note, now with a volume number under it). The complex's fate Wednesday will be decided by flows
+  that HAVEN'T traded yet. [[ai-financing-fragility]], [[market-fragility]], [[metered-compute]].
