@@ -432,3 +432,32 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
   against crashing equities; set-#5 KS2's exact shape, at scale). **The tell that fires first: crude reversing
   UP against the risk-off flow — oil green while equities red tomorrow = the confirmation propagating through
   desks before any statement.** Loadings data (Ras Tanura/Juaymah) remains the arbiter nobody can spin.
+
+### 2026-07-28 — RESOLUTION, PARTIAL: JAZAN REFINERY CONFIRMED SHUT (400k bpd, repairs to AUG 15) — Abqaiq still "targeted," damage satellite-alleged only
+- DATA (ZH 11:30am PT compiling Reuters/Turkiye Today/IIR/JMIC/CENTCOM; Jake's paste):
+  · **Aramco SHUT its JAZAN refinery after the Houthi missile/drone attack — 400,000 bpd — damage to the IGCC
+    complex + tank farm; IIR consultancy: repairs complete and operations resumed ~AUG 15.** = the first
+    CONFIRMED, DATED, QUANTIFIED outage of the campaign.
+  · **Abqaiq: satellite imagery shows ALLEGED damage to GAS STORAGE TANKS. Still NO official Saudi confirmation
+    of a strike — only that it was TARGETED.**
+  · **JMIC: ZERO TANKERS in either direction through Hormuz.** **CENTCOM: 18 commercial vessels redirected, TWO
+    DISABLED, two boarded** enforcing the US blockade. Houthis fired ballistic missiles at a Saudi oil tanker,
+    claim it turned back; more vessels U-turning.
+  · **Iran: Hormuz stays CLOSED unless Oman accepts its terms** (Dep. FM). New condition (Tasnim): "any company
+    or country that receives funds from Iranian [frozen] assets will not be allowed to pass."
+  · **The Oman plan: VOLUNTARY FEE collection, explicitly modeled on the STRAIT OF MALACCA** (Indonesia/Malaysia/
+    Singapore voluntary contributions); Gulf-backed; Iran + Oman reportedly signed off; **the US has consistently
+    opposed any fees flowing to Iran**; White House decision held pending the Netanyahu meeting.
+  · **China is negotiating DIRECTLY with the Houthis for safe passage of its ships.**
+  · Netanyahu to Trump: further strikes on rehabilitated Iranian nuclear facilities are "unavoidable" (Ch.12).
+    Trump: will "take out" Pickaxe Mountain absent a deal; "very friendly talks."
+  · **Polymarket: "Hormuz traffic normal by Aug 31" — 14% YES / 87% NO.**
+- 🔴 `[MARKER-MOVED]` on JAZAN (confirmed physical outage, dated) · 🟠 `[SHOULD-MOVE]` retained on ABQAIQ
+  (satellite-alleged tank damage, officially unconfirmed).
+- *(⚠️ correcting last night's read, precisely)* The "containment verdict" was RIGHT that no 7M bpd Abqaiq halt
+  occurred — the thin-sourced full-halt claim is now effectively dead. It was WRONG as "nothing happened":
+  **Jazan is a real 400k bpd outage with a 2.5-week repair clock.** Note the distinction that explains the crude
+  tape: **Jazan is REFINING capacity, not crude production** — it removes PRODUCT (diesel/gasoline) supply, not
+  barrels of crude exports. So crude can keep falling while the damage is real. **The place it should show up is
+  PRODUCT CRACKS, not WTI/Brent flat price** — registered as the next thing to check (and the reason XLE/refiners
+  behave differently from crude here).

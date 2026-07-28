@@ -233,3 +233,27 @@ crossing of it.* Watch items: Kuwait-facility ID · Kharg/Saudi-terminal strike 
   "fully halted / 7M bpd" claim circulating; tier-1 wires + Aramco still silent; **crude still DOWN 4-6% through
   all of it.** Tell (a): the physical leg has effectively fired; the MARKET leg hasn't — the board's 🔴 waits on
   the price. First tell of resolution: oil green against red equities. The stagflation collision is the (b) branch.
+
+## UPDATE — 2026-07-28 ~11:45am PT — THE TOLL REGIME GETS A NAME (Malacca model) + the tape and the prediction market price OPPOSITE outcomes
+- **Physical state: TOTAL. Zero tankers either direction (JMIC).** US blockade kinetic and enforcing (CENTCOM:
+  18 redirected, 2 DISABLED, 2 boarded). Houthis firing on Saudi tankers; vessels U-turning. Jazan refinery shut
+  (400k bpd, to ~Aug 15). Abqaiq targeted, tank damage satellite-alleged, officially unconfirmed.
+- **★ THE TOLL THESIS IS NOW THE ACTUAL PROPOSAL.** The vault's 7/27 decomposition said the war premium bleeds
+  but a TOLL layer persists structurally. The Oman plan IS that toll, with a template: **voluntary fees on the
+  Malacca model**, Gulf-backed, Iran+Oman reportedly signed. **The one blocker is that Washington refuses fees
+  flowing to Iran** — i.e. the negotiation is now explicitly about WHO COLLECTS THE TOLL, not whether transit is
+  free. Structural post-war floor above the prewar floor: confirmed as the negotiating baseline, not an inference.
+- **★ THE DIVERGENCE TO TRADE-WATCH: crude and Polymarket price opposite outcomes.** Oil keeps falling on
+  "deal close" hype (S&P futures hit HOD on the headline) while **Polymarket puts "Hormuz normal by Aug 31" at
+  14%.** A prediction market with skin in the game says 87% NO; the crude tape acts like reopening is imminent.
+  One of them is wrong, and the discipline says the PRICE is the referee — but this is the cleanest
+  positioning-vs-probability gap of the war. ZH's cynical read (anonymous deal-hype exists to push oil down) is
+  a motive claim, unverifiable, logged as texture.
+- **★ CHINA NEGOTIATING DIRECTLY WITH THE HOUTHIS = the multipolar datum of the week.** The US blockades and
+  disables vessels; China cuts a private safe-passage deal with a non-state actor. If it holds, Chinese cargo
+  transits while everyone else's doesn't = a structural cost advantage bought outside the US-led maritime order.
+  Watch for any confirmed Chinese-flagged transit during a closure — that would be the sharpest possible evidence.
+- **Escalation branch stays live inside the pause:** Netanyahu telling Trump further nuclear-site strikes are
+  "unavoidable" (in the building today) + Trump's Pickaxe Mountain threat + Iran's new frozen-assets condition
+  = three ways this breaks while the tape prices peace. Triggers: (a) export-terminal — Jazan hit but it's
+  refining; a CRUDE export node remains the uncap. (c) closure — EXECUTED and now formalized in negotiation.
