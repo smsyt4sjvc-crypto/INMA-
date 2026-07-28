@@ -347,3 +347,40 @@ Analysis below; descriptive, not advisory.)*
   wins, the derated app layer is where the migration pays; if agents disintermediate the apps, the derate is right.
   Falsifiable via agent-platform attach/NRR prints vs seat counts. [[metered-compute]] (CFO-reversion, messaging),
   [[compression-thesis]] (capability margins), [[ai-financing-fragility]].
+
+## 2026-07-28 ~10:15am PT — PYRAMID CHECK (Jake): the registered CONDITIONAL is now live — capital rotated OUT of the pyramid, not DOWN it
+*(Jake asked to re-check the capacitor/MLCC layer a month after logging it. Recap + status below.)*
+### What we logged (2026-07-09, `raw/2026-07-09-zh-component-pyramid.md`) — the SERVER pyramid
+- **L1 memory — REPRICED** · **L2 MLCC/passives — "REPRICING NOW"** (Goldman naming Yageo/SEMCO/LGI; ALL
+  foreign — "Jake's capacitor call confirmed") · **L3 substrates/PCB — NEXT** (US access: **TTMI** best,
+  **ROG** value-trap check; the layer's heart is Ibiden/Shinko/Unimicron/Elite Material, JP/TW) · **L4 base
+  materials — NOT RUN** (glass cloth ≈ Nittobo monopoly, copper foil = Mitsui/SK Nexilis, tantalum = GAM
+  private/Taniobis → investable one layer down: **FCX**, MTRN, AMG.AS + the critical-minerals policy class).
+- **US-listed passives expression: VSH** — caps/resistors/inductors/MOSFETs, near book at trough pricing while
+  per-rack power content explodes; "cheap because commodity passives, no story."
+- Two flags carried from day one: (1) **MLCCs have 2018 CARTEL priors** — every layer that pulls a memory pulls
+  a lawsuit; (2) **⚠️ the cascade is CONDITIONAL on the $996B 27E capex bar surviving — "the cliff kills the
+  rotation mid-pyramid."**
+### Status now (7/28)
+- **VSH: FAILED the quiet-health FCF gate (7/12)** — logged then as "thesis name, not health name; the screen
+  did its job." That verdict stands and is why it never became a position.
+- **VSH also sits on the Trump >100%-profit list** (with SNDK/STX/MRVL/PENG) = the runner cohort — i.e. the
+  layer was ALREADY run before we mapped it, consistent with the NVTS nomination-repricing rule (don't chase).
+- **★ THE CONDITIONAL FIRED THIS WEEK, exactly as the flag warned.** The cascade thesis assumed capital ROTATES
+  DOWN the pyramid as each layer's owner discovers pricing power. 7/27-28 showed capital rotating **OUT of the
+  entire pyramid at once** — the S&P's bottom decile was every layer simultaneously (memory, optics, servers,
+  semicap, power, cooling, E&C; APH −5.5% = the connector/passive-adjacent leg). **On deleveraging days the
+  pyramid is one position, not four layers** — the same lesson the power names taught (GEV/VST/CEG sold WITH
+  the spenders).
+- *(what survives)* The pyramid's LOGIC (constraint migrates upstream; each layer reprices when it binds) is a
+  fundamental claim and this tape doesn't touch it — GLW's +32% optical / +65% enterprise is L3-adjacent demand
+  printing UP on the day its price broke 19%. **What died is "rotate down the pyramid" as a TRADE**: rotation
+  requires a stable cycle clock, and the clock is exactly what is in question this week
+  ([[memory-regime-question]]).
+- *(the honest re-rank for L2/L3 now)* The layer is (a) foreign-dominated where the real pricing power sits,
+  (b) already run in its US expressions, (c) health-screen-failed in the one clean US name, and (d) correlated
+  to 1 with the complex on flush days. **Four independent reasons the capacitor call was RIGHT as an observation
+  and thin as a position** — which is what the map exists to distinguish.
+- *(the one thing that would REOPEN it)* A flush that puts L2/L3 names back into the ignition filter (cheap +
+  pre-run + the constraint still binding) — i.e. the map's own standing instruction: wait for the flush, then
+  re-screen. This week is a candidate; the health gate (FCF) still governs.
