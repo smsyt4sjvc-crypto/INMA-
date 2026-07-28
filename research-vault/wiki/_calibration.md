@@ -387,3 +387,27 @@ Source: FT Alphaville weekly (Bryce Elder), 7/24. The week's key calibration cat
   don't pick the date — the registered triggers do (widen→no-bid, capex-cut language 7/29-30, refi fails, frontier cadence).
 - *(Jake's own header was the right one)* "Conjecture. But still.." = correctly holding it at texture weight. Logged as
   consensus-saturation data point #4. [[market-fragility]], [[bull-bear-ledger]], [[ai-financing-fragility]].
+
+## 2026-07-28 ~2:10pm PT — SOURCE HYGIENE: "BREAKING: JPMorgan flips bullish" is a MONTH-OLD story in a 🚨BREAKING🚨 wrapper
+- DATA (verified): the substantive JPM event is a **late-JUNE (6/24) target hike — S&P 500 YE target to 7,800,
+  2026 EPS to $350 (+29% y/y)**, Dubravko Lakos-Bujas (head of Global Markets Strategy), **with his own caveat
+  in the same note: "the path upward will be non-linear... the market will need to clear various hurdles, with
+  strong back-to-back earnings having reset the bar higher."** No fresh 7/28 flip found in the sweep.
+  Source of Jake's item: a Facebook post (64 likes, "🚨BREAKING") — engagement content, not a wire.
+- *(so the "timing coincidence" dissolves)* Jake's instinct — sell-side turning bullish exactly as the complex
+  liquidates — was the right REFLEX aimed at a false premise. **The news is a month old and the post is a
+  repackaging.** Also note the magnitude: 7,800 against ~7,400 spot is **~5% upside** — a constructive stance,
+  not a "flip." "Flips bullish" is the poster's framing, not JPM's.
+- *(★ the reflex was still worth having — the STRUCTURAL conflict is real, just not this instance)* The banks
+  underwriting AI-complex debt publish the research on whether AI-complex debt is safe. With the hyperscaler
+  G-spread at 170 and an issuance calendar needing buyers, bullish research supports the underwriting book.
+  **That is not a conspiracy; it is the business model** — and it belongs in the vault as a STANDING LENS on
+  sell-side output (weight the desk color and the flow data, discount the narrative), not as an accusation
+  about any single note.
+- *(the calibration lesson, both directions)* (1) **Verify the date before reacting to a "BREAKING" screenshot** —
+  recycled research with a siren emoji is a recurring vector in Jake's feed and it manufactures false
+  synchronicity ("everything is happening at once" when it isn't). (2) **But the consensus tracker still wants
+  this datapoint**: after five bear-saturation entries (Alphaville → Jefferies → Dowd → retail meme → the tape),
+  a major house holding a +5% constructive target is the first counter-datum. **If bull calls start CLUSTERING
+  from here, that's the crowded-bear/squeeze setup the calibration doctrine says to lean against.** One month-old
+  target is not a cluster. Watch for a second and third.
