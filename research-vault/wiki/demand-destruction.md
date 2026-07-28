@@ -2081,3 +2081,41 @@ shortage, and the tape isn't saying that despite the numbers literally saying it
   and the correction is violent. But the vault's discipline says the price is the referee until a measurement
   outranks it: the curve and the arrivals data are exactly those measurements. **Get the time spread and this
   stops being a mystery.** [[war-board]], [[oil-value-chain]], [[power-not-petroleum]].
+
+### 2026-07-28 ~12:25pm PT — ★ THE CURVE ANSWERS: the shortage is REAL. The FLAT PRICE is what's lying — and the market is pricing the shortage as TEMPORARY
+### DATA (Jake's crude_curve run, mid-session)
+- **WTI:** Aug 84.91 · Sep 79.27 · Oct 77.13 · Nov 75.34 · Dec 73.85 · Jan27 72.79 · Feb 71.95 · Mar 71.16.
+  **M1-M8 = +13.75/bbl.** Deferred month-over-month decay: −2.14, −1.79, −1.49, −1.06, −0.84, −0.79.
+- **Brent:** Sep 84.00 · Oct 82.00 · Nov 80.20 · Dec 78.88 · Jan27 77.70 · Feb 76.75 · Mar 75.87.
+  **M1-M7 = +8.13/bbl.** Deferred decay: −1.80, −1.32, −1.18, −0.95, −0.88.
+- ⚠️ **ARTIFACT FLAG on the M1-M2 numbers:** WTI's front (CLQ26, August) EXPIRED ~7/21 — 84.91 is a stale
+  settle from war-peak week, so the +5.64 "M1-M2" is contaminated. Brent's BZU26 84.00 vs the BZ=F 86.83
+  printed hours earlier also suggests a stale/settlement print. **Do NOT quote the M1-M2 spreads.** The DEFERRED
+  structure (M3→M8), which is live and uncontaminated, is the valid evidence — and it is unambiguous.
+### THESIS (interpretation — NOT fact)
+- *(the verdict, on the clean part of the curve)* **Deferred backwardation of $0.80-1.80 PER MONTH out to
+  March-2027.** A balanced crude market runs ~$0.20-0.40/month. This is 3-5x normal, sustained across the whole
+  strip. **The physical shortage is REAL and the market is pricing it — just not in the flat price.**
+- *(★ this INVERTS the absorption answer, and reconciles everything)* The earlier hypothesis was "barrels must
+  be moving invisibly because the tape shrugs." The curve says no: the tape is NOT shrugging — it is expressing
+  the shortage in STRUCTURE while expressing DEAL EXPECTATION in LEVEL. Steep backwardation = "pay up for
+  barrels NOW." A falling flat price + a deferred strip $8-14 lower = "this resolves within months." **Both
+  statements are simultaneously true and coherent: severe present tightness, expected normalization.** The
+  market never ignored Hormuz; it priced it as temporary.
+- *(★★ THE MISPRICING, LOCATED — and it is at the BACK of the curve, not the front)* The front already reflects
+  tightness. The DEFERRED months are the ones priced for resolution — and **Polymarket puts "Hormuz normal by
+  Aug 31" at 14%.** The prediction market and the Dec/Jan/Feb contracts are making opposite bets. If Polymarket
+  is right, the error is in the BACK of the curve (Dec-Mar too cheap), not the front. **That relocates the
+  asymmetry: a failed deal repriced the deferred strip UP toward the front, not the front further up.**
+  (Descriptive only — instruments/sizing are Jake's.)
+- *(what it does to the other candidates)* Dark-fleet/toll-gated transit and bypass DON'T disappear as
+  mechanisms — but they are demoted from "explains the whole gap" to "partial mitigation inside a market that
+  is genuinely short." Inventory draw is now the likely near-term absorber, which is consistent with steep
+  backwardation (drawing stocks IS what backwardation pays you to do).
+- *(cross-check that fits)* Jazan's 400k bpd of REFINING offline (to ~Aug 15) + crude backwardation ⇒ product
+  cracks should be tighter than flat crude implies. Registered as the confirming instrument.
+- *(my own earlier framing, corrected)* I wrote "if the curve is flat or contango, there is no shortage, full
+  stop." The test ran and returned the OPPOSITE result — the shortage is real. Logging the direction of the
+  surprise: the flat price, not the curve, was the misleading instrument. Jake's instinct that "something isn't
+  adding up" was right; the resolution is that the missing piece was in the term structure, not in hidden flows.
+  [[war-board]], [[oil-value-chain]], [[new-economy-regime]] (inflation leg).
