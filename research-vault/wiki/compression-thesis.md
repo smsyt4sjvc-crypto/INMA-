@@ -1119,3 +1119,36 @@ one correction: LIMITED production has begun; mass production/fab integration is
   (SNDK −13% = the Tier-2 GAP-list NAND pure-play, semicap −5/−7 = the WFE caution + Burry's AMAT short paying)
   crack FIRST and HARDEST — the US cousin of Korea's margin cascade, in factor space. Into FOMC week on thin
   liquidity, gap risk runs both directions. [[ai-financing-fragility]], [[buildout-bottleneck-map]], [[market-fragility]].
+
+## 2026-07-28 ~7:50am PT — THE FULL-INDEX SWEEP: 372 UP / 131 DOWN, MEDIAN +1.61% — this is not a down day; it is ONE TRADE being demolished inside a RALLY
+### DATA (Jake's sp500 full-sweep cell, first run, ~7:45am PT; full output in chat)
+- **Breadth: 372 advancers / 131 decliners, MEDIAN STOCK +1.61%.** Sector averages: Staples +3.52, Health Care
+  +2.58, Comm Svcs +2.23, Materials +2.21, Discretionary +1.98 ... **Information Technology −2.40 — the ONLY red
+  sector.** KO +7.3% (earnings), IQV +12.7% (top of index), PM/MO/GIS/KHC +5%s = old-economy BEATS getting paid.
+- **The bottom ~40 of the S&P, in order, IS the vault's AI-infra maps:** GLW −18.8 (optical glass; earnings wk —
+  check its guide), SNDK −14.4, COHR −14.0, WDC −13.6, DELL −13.4, LITE −12.9, STX −11.9, CIEN −11.8, FLEX −11.1,
+  **MU −10.2 ($808)**, LRCX −9.7, MRVL −9.5, AMD −9.4, FIX −9.3, PLTR −9.2, VRT −9.1, HPE −8.7, TER −8.6,
+  AMAT −8.6, INTC −7.4, PWR −7.3, SMCI −7.2, **GEV −7.0**, KLAC −6.7, JBL −6.5, NRG −6.2, **VST −5.8**, ANET −5.4,
+  APH −5.5, ON −5.4, ETN −5.3, CAT −5.3, EME −5.3, CMI −4.8, CARR −4.7, KEYS −5.0, MPWR −4.9, JCI −4.0, TT −4.2,
+  **CEG −4.0**. Memory, optics, semicap, servers, networking, DC power, DC cooling, DC construction, PLTR —
+  every layer, one sell program. **NVDA: −0.07, FLAT** — recovered from yesterday's −5% while its entire supply
+  chain liquidates.
+### THESIS (interpretation — NOT fact)
+- *(the print of the year for the razor)* The market just demonstrated it can RALLY — median +1.6%, ten sectors
+  green — while the AI-capex complex is liquidated as a single unit. Eisman's "the entire market is one trade"
+  inverted: the market is everything EXCEPT the one trade, and today it bid farewell to it without falling. The
+  allocation map's opening warning — "everything below is ONE trade; size the whole cluster as a single
+  exposure" — is today's literal sort order: the held cluster (MU, GEV, VST, CEG, MRVL, VRT, FIX, PWR, ETN)
+  occupies the index's bottom decile as a bloc.
+- *(★ the POWER caveat — a real update to the bottleneck thesis)* GEV/VST/CEG/NRG sold WITH the spenders. In
+  liquidation, the scarce-input-owners-vs-capex-derivatives distinction VANISHES — correlation goes to 1 across
+  anything tagged AI (the Korea lesson, now in S&P sort order). "Bottleneck sellers get paid" is a FUNDAMENTAL
+  claim about revenue; it is not flow protection on deleveraging days. The map's names need the cluster-sizing
+  rule precisely because of days like this.
+- *(kings kept, court killed)* NVDA flat while COHR/LITE/GLW/DELL take −13-19% = the market concentrating the
+  franchise value in the apex name and refusing the derivatives. + GLW −18.8% in earnings week may carry REAL
+  guidance information from inside the optical/DC supply chain — verify what Corning said before reading pure flow.
+- *(ritual note for set #6)* In a dispersion regime the INDEX calls are noise — SPX may finish green through a
+  sector crash. The information is in SPREADS (software-vs-semis, staples-vs-tech, NVDA-vs-supply-chain). The
+  core-five grading stands, but set #6 should add a spread call. [[ai-infra-allocation-map]],
+  [[power-scarcity-equities]], [[buildout-bottleneck-map]], [[ai-financing-fragility]], [[market-fragility]].
