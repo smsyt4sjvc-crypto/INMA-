@@ -21,6 +21,7 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 4. [[ai-capex-cycle]] → [[cepi]] — the fragility's fundamental driver (Capex→Earnings→Price Intensity)
 5. [[power-not-petroleum]] → [[demand-destruction]] — the energy rotation / oil
 6. [[fragility-engine]] — the code that scores it all into one number
+6b. [[memory-regime-question]] — dip vs cliff vs revolving demand: THE question for the MU position (opened 7/28)
 7. [[portfolio-state]] — the running truth of the book (+ account constraints)
 
 ## 🤖 AI capex / compression / financing
