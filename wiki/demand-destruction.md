@@ -2033,3 +2033,51 @@ pause + Iran-gated transit. Thesis, marked.)*
   persists BY DEFAULT unless the end-August framework resolves the disputed language. Dated binaries now: transits-resume
   (which lane?) → Netanyahu Tue → FOMC Wed → end-August framework deadline. The bypass-buildout counterclock (7 projects)
   keeps eroding Iran's asset on the years-scale; the toll prices on the months-scale first. [[war-board]], [[oil-value-chain]].
+
+## 2026-07-28 ~12:05pm PT — ★ JAKE'S ABSORPTION PROBLEM: total closure + a shrugging tape = something is moving barrels the trackers can't see
+*(Jake: "Hormuz is losing leverage. Something is happening behind the curtain. It completely closes, the reported
+BPD/reserve numbers collapse, and the tape shrugs. Dark ships, alternate routes, crypto or won settlements —
+*something* is reducing the impact. 'Priced in' can only absorb so much before the raw numbers say severe
+shortage, and the tape isn't saying that despite the numbers literally saying it.")*
+### The arithmetic that makes this a real problem (analysis)
+- Hormuz normally carries **~20M bpd** (~1/5 of global consumption, ~1/3 of all seaborne crude). JMIC reports
+  **zero transits both directions**. A genuine 20M bpd outage for even 2-3 weeks = ~300-400M barrels gone =
+  a double-digit share of OECD commercial stocks, and a price regime in the $150-250 range on any historical
+  elasticity. **Brent is ~$87 and FALLING.** The gap between the physical claim and the price is not a
+  sentiment gap; it is an order-of-magnitude gap. Jake is right that "priced in" cannot carry it.
+### THESIS — the candidate absorbers, ranked (interpretation, NOT fact)
+1. **★ THE MEASUREMENT IS AIS-BASED, AND DARK FLEETS EXIST TO DEFEAT AIS.** JMIC/Windward count transponders.
+   Iran has run a large dark fleet for YEARS to move sanctioned crude to China — transponders off, ship-to-ship
+   transfers, re-flagged and re-documented cargoes. **That infrastructure already exists at scale and its entire
+   purpose is to not be counted.** "Zero tankers" may mean "zero AIS-visible tankers." This is Jake's instinct,
+   sharpened: the tape may be pricing flows the trackers structurally cannot see. It also explains the vessels
+   "U-turning" (visible, compliant traffic) coexisting with a price that won't break.
+2. **"CLOSED" MAY MEAN "CLOSED TO NON-PAYERS."** Iran's stated position is transit via ITS lane on ITS terms —
+   and China is reported negotiating DIRECTLY with the Houthis for safe passage. A selective, toll-gated strait
+   is not an outage; it is a tax with a compliance queue. The market may be pricing the toll (a cost) rather
+   than the closure (a shortage). Consistent with the Oman/Malacca fee proposal being the actual negotiation.
+3. **BYPASS CAPACITY IS REAL BUT DEGRADED.** Saudi East-West/Petroline (~5M bpd nameplate to Yanbu) + UAE
+   Habshan-Fujairah (~1.5-1.8M bpd, exits below the strait) ≈ 6-7M bpd of theoretical bypass — roughly a THIRD
+   of Hormuz. ⚠️ but Yanbu loadings were reported −40% and the Petroline pump station was among the strike set,
+   so treat bypass as partial, not full.
+4. **INVENTORIES + FLOATING STORAGE absorb the first weeks by design** — the buffer exists precisely for this.
+   This explains a lag of days-to-weeks, NOT a falling price.
+5. **Settlement rails (Jake's yuan/won/crypto branch): a REAL channel for OWNERSHIP, a weak explanation for
+   VOLUME.** Non-dollar settlement changes who can legally buy and how it clears; it does not move a barrel.
+   Its true effect is making flows harder to SEE in dollar-denominated trade data — i.e. it reinforces #1
+   (invisibility) rather than standing on its own. Crypto is marginal at this scale.
+### ★ THE TEST THAT SETTLES IT (registered; flat price cannot answer this, the curve can)
+- **TIME SPREADS ARE THE ARBITER. Flat price lies (positioning, macro, headline hype); the front-to-deferred
+  spread cannot.** A genuine physical shortage MUST print steep backwardation — front month at a premium
+  because barrels are needed NOW. **If the curve is flat or in contango while the strait is "closed," there is
+  no physical shortage, full stop, and the closure is not removing supply from the market.** Check Brent M1-M2
+  and M1-M6 before believing either narrative.
+- **DESTINATION DATA > TRANSIT DATA.** Refineries either run or they don't: Chinese/Indian/Japanese/Korean crude
+  IMPORT arrivals and refinery run rates over the next 2-4 weeks. If Asian runs hold, the barrels moved
+  regardless of what AIS counted. If Chinese imports collapse, the closure is real and the tape is wrong.
+- **Supporting instruments:** VLCC day rates (spiking = scarcity/risk; normal = flows normal), Gulf war-risk
+  insurance premia (the true cost of the toll), and physical differentials (Dubai/Oman spot vs futures).
+- *(the honest third possibility)* The tape may simply be WRONG — markets have mispriced supply shocks before
+  and the correction is violent. But the vault's discipline says the price is the referee until a measurement
+  outranks it: the curve and the arrivals data are exactly those measurements. **Get the time spread and this
+  stops being a mystery.** [[war-board]], [[oil-value-chain]], [[power-not-petroleum]].
