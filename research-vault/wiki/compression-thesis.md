@@ -1098,7 +1098,7 @@ one correction: LIMITED production has begun; mass production/fab integration is
   maximum, vol bid under a flat index, credit at record wides into the FOMC + capex prints. Jake's tug-of-war,
   on schedule. [[ai-financing-fragility]], [[metered-compute]], [[war-board]].
 
-### 2026-07-27 ~7:10pm PT addendum — GOLDMAN'S DESK POST-MORTEM: the vault's three morning threads named as THE session drivers
+### 2026-07-27 ~8:35pm PT addendum — GOLDMAN'S DESK POST-MORTEM: the vault's three morning threads named as THE session drivers
 - DATA (GS desk color via ZH, 6:55pm): **Momentum Factor −7% on the day**; "clear GROSS-DOWN feel against a POOR
   LIQUIDITY backdrop"; **Software/Internet +4% vs Semis −3.5%**; most-popular semis longs hit hardest — **AMD −6%,
   SNDK −13%, semicap equipment −5% to −7%.** Fundamental concerns cited by the desk, verbatim list: (1) NVDA-OpenAI
