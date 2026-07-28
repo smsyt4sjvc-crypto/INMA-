@@ -410,3 +410,25 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
 - Flag: 🟠 unchanged (the market referee still hasn't moved as of the last print). The physical case is now as
   strong as OSINT gets: multi-instrument, multi-pass, multi-site, optical + thermal + the cascade signature.
   What remains on the other side: Saudi "intercepted," wire silence, and a crude tape at −5%.
+
+#### 2026-07-27 ~7:05pm PT addendum 4 — SWEEP RESULT: "hit" is now confirmed-grade; MAGNITUDE is the last contested variable — and the market still says no
+- DATA (evening sweep):
+  · **Riyadh's line SHIFTED: from "intercepted" to BLAMING Iran-backed groups for the fire** (Free Press
+    Journal/OpIndia relays: "drone strike triggers massive fire at Abqaiq; Riyadh blames Iran-backed groups") —
+    blaming someone for a fire = admitting the fire.
+  · Aggregator-grade (cryptobriefing): "satellite images CONFIRM damage" — FIRMS + ground videos + **AFP
+    verification (per the aggregator)**; hotspots at storage tanks and pipelines through 7/26-27.
+  · **⚠️ THIN-SOURCED MAXIMAL CLAIM: "Aramco has FULLY HALTED Abqaiq operations — ~7M bpd of processing
+    removed"** (lower-tier outlets only). 7M bpd = full nameplate, worse than 2019's 5.7M. UNVERIFIED.
+  · **Tier-1 wire silence CONTINUES** (no Reuters/Bloomberg confirmation found); no Aramco statement.
+  · ZH follow-up (8:40am PT): "Trump Ready For 'Strong Military Action' If Talks Fail, With Saudi Aramco Under
+    HOUTHI Fire" — the vector attribution still split (Houthi vs Iraqi-militia) across sources.
+  · **The market referee, unmoved THROUGH the sweep: WTI −4.1%, Brent −5.9% tonight** — a growth-scare tape
+    selling oil while a claimed 7M bpd supply event circulates.
+- 🟠 HOLDS — now at "EVIDENCE-MAXIMAL, PRICE-DEFIANT": the hit itself is effectively confirmed (fire, damage,
+  Riyadh attribution); the open variable is MAGNITUDE (contained-restart vs full-halt). The two resolutions:
+  (a) contained — Saudi restarts in days, the market was right, the thin-sourced 7M claim dies quietly;
+  (b) confirmation lands into FOMC week's growth-scare tape = the STAGFLATION COLLISION (oil +8-15% reversal
+  against crashing equities; set-#5 KS2's exact shape, at scale). **The tell that fires first: crude reversing
+  UP against the risk-off flow — oil green while equities red tomorrow = the confirmation propagating through
+  desks before any statement.** Loadings data (Ras Tanura/Juaymah) remains the arbiter nobody can spin.

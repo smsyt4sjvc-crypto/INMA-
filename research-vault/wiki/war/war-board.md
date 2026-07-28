@@ -228,3 +228,8 @@ crossing of it.* Watch items: Kuwait-facility ID · Kharg/Saudi-terminal strike 
   no-material-damage is the working verdict; the 2019-redux branch weakens with each silent hour (2019 had wire
   confirmation within hours). Tell (a) stays UNFIRED; the OSINT thermal chain stays logged as real-but-
   magnitude-unproven. Loadings data remains the final arbiter this week.
+- **~7:05pm PT:** Abqaiq state = **HIT CONFIRMED-GRADE, MAGNITUDE CONTESTED**: Riyadh shifted from "intercepted"
+  to BLAMING Iran-backed groups (admission-by-attribution); AFP-verified-per-aggregator damage; a thin-sourced
+  "fully halted / 7M bpd" claim circulating; tier-1 wires + Aramco still silent; **crude still DOWN 4-6% through
+  all of it.** Tell (a): the physical leg has effectively fired; the MARKET leg hasn't — the board's 🔴 waits on
+  the price. First tell of resolution: oil green against red equities. The stagflation collision is the (b) branch.
