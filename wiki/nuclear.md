@@ -120,3 +120,41 @@ Source: ZeroHedge/Bloomberg (Jake paste), Tue 6:20pm ET. Details possibly Wed at
   point to watch. **Registered tell: any Piketon phase-2 power announcement naming SMRs/Oklo/Centrus** — until then it's
   adjacency, not revenue. Descriptive; OKLO remains a story-priced name graded on tells, not on proximity. [[power-not-petroleum]],
   [[ai-financing-fragility]] (the campus's financing = the credit-wrapper entry).
+
+### 2026-07-28 ~10:55am PT — RECORD PRIVATE FUNDING ($4.5B/81 cos YTD) lands the same week the LISTED power complex is liquidated
+### DATA (Axios/PitchBook, 7/28)
+- **Global nuclear VC (fusion + advanced fission): >$4.5B across 81 companies YTD 2026**, on pace to pass 2025's
+  record **$6.2B / 93 companies**. Most of it US. **Antares (CA microreactor): $370M Series C + $100M debt** (7/27).
+- Stated drivers: energy demand + **FOMO that long regulatory timelines create WINNER-TAKE-ALL markets.** NRC took
+  **~6 years** to approve the first advanced small reactor (NuScale); **Trump targeting 18 months.** Investors
+  explicitly betting war chests + political connections buy approval priority.
+- Axios's own end-state call: once commercial it "will probably look more like the GAS TURBINE MARKET — a handful
+  of large manufacturers," with a shakeout given the number of SMR startups.
+### THESIS (interpretation — NOT fact)
+- *(★ the divergence is the datum)* Record private capital committing INTO nuclear during the same 48 hours the
+  LISTED power names were liquidated (7/27-28: GEV −7.0/−4.5, NRG −6.2, VST −5.8, CEG −4.0). Private marks don't
+  move daily; public ones do. **Either the private money is early and right (funding ahead of demand), or it is
+  marking to a narrative the public tape is repricing in real time** — the same private-vs-public gap now live at
+  SpaceX ([[ai-financing-fragility]], Aug 6 lockup). This is the cleanest live test of that gap inside the vault's
+  own sector: watch whether nuclear VC round SIZES hold through Q3 if the public complex keeps derating.
+- *(the funding thesis is a REGULATORY-ARBITRAGE bet, not a technology bet)* Investors are explicitly funding a
+  race to be FIRST THROUGH the NRC — war chests and political connections, per the reporting. That makes the
+  asset class's value dependent on an 18-month approval target that is a POLICY ASPIRATION, not a rule.
+  Slippage back toward the 6-year baseline devalues 81 companies simultaneously. **Registered tell (unchanged):
+  first-concrete and NRC milestones — NOT funding rounds, NOT siting announcements, NOT approval-timeline targets.**
+- *(the gas-turbine end state is bearish the 81 and bullish the survivors — and it's already the vault's structure)*
+  Gas turbines are a GE/Siemens/MHI oligopoly. If nuclear converges there, the terminal winners are ~3-5, which
+  means ~76 of the 81 are funding a shakeout. That *supports* the vault's existing readiness ranking (GEV > NuScale >
+  OKLO/XE) and its "own the toll, not the lottery" framing — the listed incumbent with manufacturing scale is the
+  gas-turbine-analogue winner, not the newest microreactor.
+- *(⚠️ what record VC funding IS and ISN'T)* Peak capital formation into a theme is a STATE (odds-shader), not a
+  trigger — per the warning-vs-trigger rule it times nothing and can persist for years. It DOES mean: more future
+  competitors for the listed SMR names' scarcity premium (their multiple partly rests on being the only way to buy
+  the theme; 81 private alternatives erode that at IPO), and more supply arriving into whatever demand exists in
+  the 2030s.
+- *(duration mismatch — the sharpest risk)* This is capital committed on a 2030s delivery clock into a demand
+  thesis whose **2027 capex bar is being questioned THIS WEEK.** Reactors funded in 2026 arrive years after the
+  cycle question resolves either way — the longest-duration bet in the entire complex, made at the moment its
+  demand premise is most contested. Counterweight, honestly: nuclear demand is not only AI (grid retirement,
+  industrial heat, defense), and the vault's own physical evidence (PJM 7GW short) is AI-independent.
+  [[power-scarcity-equities]], [[memory-regime-question]], [[detachment-bid]].
