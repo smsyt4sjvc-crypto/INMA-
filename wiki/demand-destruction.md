@@ -2119,3 +2119,46 @@ shortage, and the tape isn't saying that despite the numbers literally saying it
   surprise: the flat price, not the curve, was the misleading instrument. Jake's instinct that "something isn't
   adding up" was right; the resolution is that the missing piece was in the term structure, not in hidden flows.
   [[war-board]], [[oil-value-chain]], [[new-economy-regime]] (inflation leg).
+
+## 2026-07-28 ~12:40pm PT — ★★ THE ABSORBER FOUND: the SPR has been drained 104 MILLION BARRELS (−25%) since March — and it has a DEPLETION CLOCK
+*(Jake pasted a weekly series. Identified as the US Strategic Petroleum Reserve, thousand barrels — see ID note.)*
+### DATA (as-pasted weekly series; arithmetic run in-session)
+- **ID basis (why this is SPR, not commercial crude):** 2025 increments are tiny, regular and identical
+  (+500, +249, +248, +250) = scheduled purchase deliveries; **multiple weeks print FLAT to the barrel**
+  (Feb-2025 395,313 ×4; Feb/Mar-2026 415,441-442 ×6). Commercial crude never behaves that way — it swings
+  millions weekly. Level (~400M bbl) and weekly cadence match SPR.
+- **Build phase:** 393,817 (Jan-2025) → **PEAK 415,442 (2026-03-20)**, a slow steady refill.
+- **★ DRAW PHASE: 415,442 → 311,447 (2026-07-17) = −103,995k = −104.0 MILLION BARRELS, −25.0%, in 17 weeks.**
+  Average **~874,000 bpd**. Peak week **−9,920k (5/15) = 1.42 MILLION bpd.** May-June ran a sustained
+  1.1-1.3M bpd. **Last 4 weeks: −4,936k/wk ≈ 705,000 bpd** (decelerating but still large).
+- **Depletion clock at the current ~705k bpd pace: 300M in ~2 weeks · 250M in ~12 weeks (~late Oct) ·
+  200M in ~23 weeks.** (250M is commonly cited as the practical operational floor across the four sites —
+  ⚠️ verify the current stated minimum before treating it as hard.)
+### THESIS (interpretation — NOT fact)
+- *(★ this is the missing absorber, and it reconciles the whole puzzle)* The question was: total closure, and
+  the flat price falls. Answer: **the US government has been putting ~0.7-1.4M bpd of physical crude into the
+  market for four months.** It does not appear in tanker-transit data, it is not a dark fleet, and it is not a
+  bypass pipeline — it is inventory, released. **Marginal barrels set the marginal price**: ~1M bpd of
+  guaranteed, price-insensitive supply is enough to cap flat price even while the physical market is short.
+  That is EXACTLY the signature the curve printed — **flat price suppressed, term structure screaming
+  ($0.80-1.80/month backwardation).** The SPR presses on the front; the shortage shows up in the shape.
+- *(the two facts now fit together with nothing left over)* Steep backwardation = physically short. Falling
+  flat price = a large, non-economic seller in the front. Both true; the seller has a name.
+- *(★★ THE CLOCK IS THE TRADE-RELEVANT PART — this absorber is FINITE and DATED)* A dark fleet can run
+  indefinitely; an inventory cannot. At the current pace the SPR reaches ~250M in roughly 12 weeks. **When the
+  release slows or stops — by choice, by floor, or by refill politics — the cap on flat price comes off while
+  the backwardation is still there.** That converts a vague "oil is mispriced" hunch into a DATED, FALSIFIABLE
+  mechanism: watch the weekly SPR number as a countdown, not as trivia. Registered as a first-class tell
+  alongside the curve.
+- *(what it does to the earlier candidates)* Dark fleet/toll transit/bypass: demoted further — real but
+  secondary. **Inventory release is the primary absorber, and it was hiding in plain sight in a government
+  spreadsheet.** Jake's own phrasing on 7/28 ("the reported BPD and RESERVES numbers collapse") was already
+  pointing here.
+- *(second-order consequences to watch)* (1) **Refill demand later**: every barrel released is a future bid —
+  a structurally bullish overhang for whenever the buying resumes. (2) **Policy read**: a 25% drawdown during a
+  price-suppression window is a political choice with a gas-price motive (the vault's "gas prices force Trump
+  to de-escalate" thread, from the supply side instead). (3) **Inflation**: the SPR is holding down the pump
+  price that feeds CPI — a fiscal/energy intervention landing in the same prints the Fed reads Wednesday and
+  PCE reads Thursday ([[new-economy-regime]]). (4) **Strategic**: 311M is the lowest in decades-scale terms
+  during an active Gulf war — the option value of the reserve is being spent precisely when the tail risk is
+  highest. [[war-board]], [[oil-value-chain]], [[power-not-petroleum]].
