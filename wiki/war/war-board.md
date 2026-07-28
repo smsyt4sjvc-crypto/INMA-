@@ -290,3 +290,55 @@ difference decides which instrument moves — keep them separate in every future
 - **The measurement that matters tonight: the SHAPE of the crude curve.** Front-only pop = headline premium
   (capped by "all intercepted"). Deferred strip lifting toward the front = resolution odds repricing = today's
   curve thesis confirming. Also watch gold (a real bid = fear, vs this week's liquidation-selling) and ES/NQ.
+
+## UPDATE — 2026-07-28 ~3:35pm PT — new facts + ★ JAKE'S INSTRUMENTALISM THESIS on the munitions shortage
+### DATA (ZH compile; Axios/AP/Reuters/WSJ)
+- **AXIOS CONFIRMS via a SENIOR AMERICAN OFFICIAL: "Iran launched missiles toward an American base in JORDAN"**
+  → Jordan now US-sourced, not just Fars. Consistent with CENTCOM's vaguer "US forces in the Middle East."
+- **Iraqi militants fired on Saudi Arabia for a SECOND consecutive day** — Saudi MoD intercepted drones aimed at
+  **eastern-region petroleum facilities**, again "launched from Iraqi territory by Iran-affiliated militias" (AP).
+- Houthis claim ballistic missiles forced a Saudi oil tanker to turn back. **Iran: has not sought US talks in
+  16-17 days** (IRIB). Oil CLIMBING on the strike headlines after falling all day on deal hype.
+### THESIS — Jake's read: the munitions shortage is being SIGNALED more than suffered (graded)
+*(Jake: "Trump's 1st term built military capacity. He was pressuring manufacturers in Feb to make weapons, then
+it got quiet until now. I think he's signaling a shortage more than dealing with one. Give him a credible path
+to diplomacy and he's asking for $1.5T from Congress.")*
+- *(★ STRONGEST SUPPORT — the sourcing pattern, which is the same channel the vault indicted this morning)*
+  **Every element of the depletion story runs through ANONYMOUS OFFICIALS:** NYT — Caine "privately argued";
+  Axios — "two sources with knowledge" of Cooper's recommendation; CNN — Vance's concerns; "a US official told
+  Reuters" on running out of targets. **That is the identical channel as the "deal is close" hype the vault
+  flagged as price-management.** If anonymous officials hyping a deal is a market tool, anonymous officials
+  hyping depletion is a policy tool. Same technique, different objective.
+- *(the public denial is the tell, in EITHER direction)* **UN Amb. Waltz, on the record: "I want to be crystal
+  clear: The U.S. military... has everything it needs to conduct this campaign as effectively as it needs to
+  be."** The administration's own official contradicting the leak means either the leak is false, or the leak
+  is deliberate and Waltz is the deniability layer. **Both readings support instrumentalism.**
+- *(what the shortage story BUYS — the political economy is real)* (1) A face-saving halt to a campaign that did
+  NOT achieve its stated aim (breaking Iran's grip on the strait) — "we ran out of munitions" reads far better
+  domestically than "we couldn't do it." (2) **The appropriation.** Munitions-depletion narratives reliably
+  PRECEDE defense supplementals; Trump's own "WE'RE BUILDING AMMUNITION RAPIDLY" is the pre-sell. Jake's causal
+  chain — credible diplomacy path + stated shortage → a very large ask — is the standard sequence.
+- *(⚠️ the counter, honestly: the constraint is PHYSICALLY REAL, not invented)* Interceptor magazine depth
+  (PAC-3/THAAD-class) is genuinely narrow — low annual production, constrained by solid rocket motors and
+  seekers, and heavily drawn down by the 2024-26 exchanges. It predates this administration's politics.
+  **BUT THIS CUTS FOR JAKE ON THE POLITICS:** appropriations cannot fix interceptor stocks in under ~3-4 years,
+  so **asking for money is not a fix for THIS war — which means the ask is about the ask.** First-term buildup
+  also went mostly to platforms/readiness, not magazine depth — so "we built capacity" doesn't neutralize the
+  shortage, it just relocates the question to why the magazine wasn't deepened.
+- *(RESOLUTION — hold both)* **A real constraint, instrumentally amplified, with the appropriation as the
+  payoff.** Not fabricated; not innocent.
+- *(★ why the distinction is TRADE-RELEVANT, not just interesting)* Near-term the two readings look identical —
+  both cap the US response. **The TAIL diverges completely: if the shortage is REAL, US escalation capacity is
+  genuinely limited and Iran's attrition strategy (cheap missiles vs scarce interceptors — see the 7/28 entry)
+  works. If it is SIGNALED, the US can escalate at will and today's "restraint" is a reversible choice.** The
+  Jordan salvo is the first data point either way.
+### REGISTERED DISCRIMINATORS (test Jake's thesis)
+1. **A munitions/defense SUPPLEMENTAL request to Congress in the coming weeks** — the payoff arriving = strong
+   confirmation the narrative did its job. Watch the size and how fast it follows the diplomacy framing.
+2. **Defense primes as the trade expression** — LMT (PAC-3, THAAD), RTX (Patriot/SM-series), NOC, GD. **If this
+   is appropriation-prep, the primes get paid whether or not the shortage is real.** Note 7/28's tape: NOC
+   +1.92, LMT +0.96, RTX +0.81, GD +0.81 — modestly green on a mixed day. Not yet a signal; a baseline.
+3. **Whether US interception RATES or posture change** across repeat salvos (real depletion shows up as changed
+   engagement doctrine, not statements).
+4. **Whether the "shortage" language survives a decision to re-escalate** — if strikes resume at scale while the
+   shortage story stays in the press, it was never binding. [[demand-destruction]], [[_calibration]].
