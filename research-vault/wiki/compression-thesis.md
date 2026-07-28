@@ -1177,7 +1177,7 @@ one correction: LIMITED production has begun; mass production/fab integration is
   (expectations fall until beats matter again). The derate is the healing mechanism running at market speed.
   [[cepi]], [[ai-capex-cycle]], [[market-fragility]].
 
-### 2026-07-28 ~9:15am PT — MAG-7 RVOL: NVDA's flat is NEITHER pin nor battle — it is ABANDONMENT (the answer to Jake's question)
+### 2026-07-28 ~8:15am PT — MAG-7 RVOL: NVDA's flat is NEITHER pin nor battle — it is ABANDONMENT (the answer to Jake's question)
 ### DATA (Jake's RVOL cell, 99 min into session; today vs 10d avg, time-of-day adjusted)
 - **NVDA 51.6M vs 123.1M avg = 1.07x RVOL (normal)** · MSFT 0.96x · AAPL 0.90x · TSLA 0.90x · AMZN 0.84x ·
   **GOOGL 0.69x (quiet)** · **META 0.60x (quietest)**. Zero elevated readings across the seven — on a day
