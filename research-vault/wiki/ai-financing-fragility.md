@@ -1500,3 +1500,55 @@ is tolerable relatively?")*
 5. **NAIC / insurance-regulator commentary on capital treatment** of structured/private credit.
 6. **The DC-plan private-assets policy push** — if private credit enters 401ks formally, the channel is literal.
 [[compression-thesis]], [[new-economy-regime]] (the rate leg), [[market-fragility]].
+
+### 2026-07-28 ~1:50pm PT — THE DC-PLAN CHANNEL, VERIFIED (with a correction) + the Bermuda leg: both ends of the distribution pipe are being widened at once
+### DATA (WebSearch verified 7/28)
+- ⚠️ **CORRECTION to "Trump already passed a bill": it is an EXECUTIVE ORDER + a PROPOSED RULE, not legislation.**
+  **EO signed 2025-08-07** directing expanded DC-plan access to alternative assets (defined broadly: private
+  markets, real estate, digital-asset vehicles, commodities, INFRASTRUCTURE FINANCE, lifetime income).
+  **DOL proposed regulation 2026-03-30** creating a **PROCESS-BASED SAFE HARBOR for fiduciaries** who include
+  alternatives — that is the reduced-liability piece, and Jake read its function exactly right.
+  **Comment period closed 2026-06-01 with ~40,000 comments. The FINAL RULE IS PENDING** = a dated, unfired
+  catalyst, not a completed fact. Scope: **>90 million Americans in defined-contribution plans.**
+- **The TDF vector is confirmed by the coverage, not inferred:** "the real exposure is likely to arrive in
+  target-date funds" — the all-in-one default portfolios.
+### THESIS (interpretation — NOT fact)
+- *(★ Jake's duration point, sharpened — this is the load-bearing insight)* TDF holders have 20-40 year
+  horizons; the underlying datacenter/private credit has 3-7 year maturities. **So the TDF is present as a
+  holder across multiple refinancing cycles, fed by AUTOMATIC PAYROLL CONTRIBUTIONS that arrive twice a month
+  and never ask the price.** That is the most price-insensitive bid in finance — it does not read spreads, it
+  cannot tactically exit, and it is defaulted-into rather than chosen. **Consequence: the refinancing wall gets
+  absorbed by payroll deductions, and the paper acquires an exit that does not require the credit to perform —
+  roll it into the next vintage sold to the next cohort of savers.** That is a distribution machine, and it is
+  precisely the demand-for-the-paper problem the 4-5% rate math said was missing. **This rule is the engineered
+  replacement for the ZIRP reach-for-yield bid.**
+- *(the Bermuda leg — real, documented, and the same shape)* US life insurers cede annuity/life blocks to
+  Bermuda reinsurers, many PE-AFFILIATED (the Apollo/Athene-class structure). Bermuda offers scenario-based
+  reserving, more favorable capital treatment for illiquid/structured assets, lighter mark-to-market and
+  disclosure discipline. Both the NAIC and multilateral bodies have flagged the trend. **Net: a growing share
+  of US retirement liabilities is backed by assets held in a lighter-touch jurisdiction and managed by firms
+  affiliated with the originators.**
+- *(★★ THE AFFILIATION LOOP — the actual circularity, stated cleanly)* One firm can originate the datacenter
+  loan, manage the fund that holds it, own the insurer that buys it, and cede the block to a Bermuda reinsurer
+  it also controls — while the SAME firm's product is defaulted into a TDF under a fiduciary safe harbor.
+  **Originator, asset manager, holder and regulator-of-record are compressed into one affiliated chain, and both
+  ends terminate in retail savings that cannot assess the risk and are not choosing it.** This is a materially
+  more specific — and more testable — claim than "AI debt bubble," and it is what the WF balance-sheet exhibits
+  cannot see BY CONSTRUCTION.
+- *(⚠️ the counterweights, honestly — what would make this NOT matter)* (1) **The rule is not final**; the safe
+  harbor is process-based, and process safe harbors still permit suits over the process. (2) **Daily-liquidity
+  mechanics structurally CAP the sleeve** — DC participants transact daily, so illiquid allocations are limited
+  to modest percentages; this is the strongest constraint on channel size. (3) **But that constraint is also the
+  failure mode**: semi-liquid/interval structures exist to solve it, and their solution is GATES — which are
+  exactly what fails in a redemption run. (4) Regulators are not asleep: NAIC has been tightening structured-
+  asset treatment and the Bermuda BMA has raised standards. (5) Even at 5% of $12T+ in DC assets, this is a
+  flow over years, not a switch — it supports the paper gradually rather than rescuing it at a moment.
+- *(what it does to the bull/bear reconciliation)* It strengthens Jake's channel thesis on MECHANISM and weakens
+  it on TIMING: the pipe is being built, but it is not yet carrying volume. **The stress, if it comes, arrives
+  BEFORE the channel is wide enough to absorb it** — the rule is pending while the CDS/G-spread widening is
+  happening now. That ordering is the thing to watch.
+### ADDED TELLS (to the six already registered)
+7. **DOL final-rule publication + its allocation caps and liquidity conditions** = the dated catalyst.
+8. **TDF prospectus changes at the big three providers** (the actual moment retail is defaulted in).
+9. **PE-affiliated insurer/Bermuda cession volumes + NAIC capital-charge actions.**
+[[new-economy-regime]] (the rate + policy legs), [[compression-thesis]], [[market-fragility]].
