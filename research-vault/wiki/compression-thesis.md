@@ -1152,3 +1152,27 @@ one correction: LIMITED production has begun; mass production/fab integration is
   sector crash. The information is in SPREADS (software-vs-semis, staples-vs-tech, NVDA-vs-supply-chain). The
   core-five grading stands, but set #6 should add a spread call. [[ai-infra-allocation-map]],
   [[power-scarcity-equities]], [[buildout-bottleneck-map]], [[ai-financing-fragility]], [[market-fragility]].
+
+### 2026-07-28 ~8:15am PT — GLW −19%: BEAT-SOLD EXHIBIT #4, the most extreme yet — and a misfile warning (Jake's research)
+### DATA (Jake's rundown of the print; company release/consensus)
+- **Corning did NOT cut guidance.** Q2 BEAT: core sales $4.74B vs ~$4.63B expected; core EPS $0.78 vs $0.76.
+  **Optical Communications +32%, enterprise-network +65%.** Q3 guide: sales midpoint $4.95B vs ~$5.00B Street
+  (~1% light); **EPS guide midpoint $0.87 vs ~$0.85 = ABOVE consensus.** Long-term Springboard targets
+  MAINTAINED ($20B run-rate YE26 → $30B 2028 → $40B 2030). Stock: **−18.8% (~$116.49)** — had more than
+  doubled on the AI-optics story.
+### THESIS (interpretation — NOT fact)
+- *(Jake's read, endorsed)* The reaction is disproportionate to the guidance delta by an order of magnitude:
+  priced as AI-hypergrowth, punished for guiding as a 16%-sales/28%-EPS grower. **Beat-sold series: MU 6/25 →
+  GOOGL 7/22 → INTC 7/24 → GLW 7/28 — each more extreme; GLW is −19% on a beat + in-line guide + maintained
+  raised targets.** The required-beat bar for the complex is now UNCLEARABLE: when +65% enterprise growth earns
+  −19%, no print can win. The bar, not the business, is the story.
+- *(★ MISFILE WARNING — do not log GLW as demand-crack evidence)* The PHYSICAL data in the print is
+  buildout-BULLISH (Optical +32%, enterprise +65%, long-term targets held). Today's −19% is MULTIPLE
+  compression, not demand deterioration — consistent with the whole complex's day: a liquidation of positioning
+  and multiples, not a falsification of the capex. Two ledgers: the demand ledger got BETTER today; the price
+  ledger got destroyed. Keep them separate or the vault reads its own tape wrong.
+- *(the Wednesday implication, both ways)* (a) The GOOGL template at index scale: even GOOD META/MSFT prints
+  can sell into this bar — earnings season = a scheduled DERATING CALENDAR for the complex. (b) The counterweight
+  that makes it survivable: each GLW-type day LOWERS the collective bar — that is how corrections end
+  (expectations fall until beats matter again). The derate is the healing mechanism running at market speed.
+  [[cepi]], [[ai-capex-cycle]], [[market-fragility]].
