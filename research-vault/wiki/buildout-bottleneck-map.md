@@ -384,3 +384,33 @@ Analysis below; descriptive, not advisory.)*
 - *(the one thing that would REOPEN it)* A flush that puts L2/L3 names back into the ignition filter (cheap +
   pre-run + the constraint still binding) — i.e. the map's own standing instruction: wait for the flush, then
   re-screen. This week is a candidate; the health gate (FCF) still governs.
+
+### 2026-07-28 ~10:40am PT — PYRAMID TAPE RUN #1: verdict = ONE POSITION, and the DEEPEST layers bleed MOST
+### DATA (Jake's pyramid_tape run, mid-session)
+- **Every layer red while the S&P is GREEN (+0.31%).** L1 memory **−8.59%** (SNDK −12.6, STX −7.6, MU −7.4,
+  WDC −6.8) · L2 US passives −2.73% (**VSH −11.0**, LFUS −4.9, APH −3.8, **TEL +2.8, KYCCF +3.2**) ·
+  **L2 foreign MLCC −10.01%** (SEMCO −15.9, Murata −11.2, Yageo −10.1, TDK −2.9) · **L3 substrate/PCB −9.71%**
+  (TTMI −12.4, Ibiden −10.8, Unimicron −9.1, ROG −6.6) · L4 base materials −7.25% (MTRN −11.9, Nittobo −9.3,
+  **FCX −0.6**) · Electrical stack −4.13% (VICR −7.1, POWL −6.1, GEV −4.5, ETN −3.7) · SOXX −3.68%.
+- ⚠️ artifacts: foreign lines = ASIA'S CLOSE (they carry the Korea/Taiwan/Japan cascade, not live US flow);
+  6967.T (Shinko) 404'd — delisted/renamed, drop or replace; KYCCF is thin OTC — treat its +3.2% as noise.
+### THESIS (interpretation — NOT fact)
+- *(verdict: the cascade thesis is OFF, decisively)* The cell's own test — "layers green while L1 red = rotation
+  down; all red together = one position" — returned ALL RED, against a GREEN index. **The pyramid is one
+  position.** Registered conditional confirmed twice in 24h.
+- *(★ the finding neither of us predicted: the DEEP layers bleed MORE than the top)* L3 substrate −9.7% and L2
+  foreign −10.0% vs L1 memory −8.6%. Rotation-down would show the deep layers BID; instead they're the worst.
+  Read: **liquidation prices by LIQUIDITY, not by position in the value chain** — the deepest layers are small-cap,
+  foreign, thinly sponsored, so they gap furthest when the marginal buyer leaves. The pyramid's *fundamental*
+  ordering (who gets pricing power) is unrelated to its *flow* ordering (who gets sold first). Two different
+  hierarchies; never conflate them again.
+- *(★ the real discriminator is AI-PURITY, not layer depth)* Inside the same L2 layer: **VSH −11% vs TEL +2.8%.**
+  Both passives — VSH is the AI-levered story name (and on the runner list), TEL is diversified/auto-weighted.
+  **The market is selling AI-STORY exposure, not component exposure.** Same signal as FCX −0.6% in L4 (copper =
+  a real diversified commodity) vs MTRN −11.9% (the specialty-materials AI story). The tag being liquidated is
+  "AI narrative," and it cuts ACROSS layers rather than down them.
+- *(the flush the map was waiting for is arriving)* Standing instruction was "wait for the flush, then
+  re-screen with the FCF gate governing." VSH −11% into an already-failed FCF gate = still a fail; the gate
+  doesn't loosen because the price fell. TTMI −12.4% (the L3 name flagged "best US access") is the one worth a
+  fresh health screen when the dust settles — it has never been screened. [[memory-regime-question]],
+  [[market-fragility]], [[cluster-shortlist-workup]].

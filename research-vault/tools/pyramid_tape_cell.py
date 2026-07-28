@@ -8,9 +8,9 @@ except Exception:
 
 LAYERS = {
  'L1 memory':        ['MU','SNDK','STX','WDC'],
- 'L2 passives/MLCC': ['VSH','APH','TEL','LFUS','KYCCF'],          # US-listed + Kyocera OTC
+ 'L2 passives/MLCC': ['VSH','APH','TEL','LFUS'],                   # US-listed (KYCCF dropped: thin OTC)
  'L2 foreign (MLCC)':['2327.TW','6981.T','6762.T','009150.KS'],   # Yageo, Murata, TDK, Samsung Electro-Mech
- 'L3 substrate/PCB': ['TTMI','ROG','4062.T','6967.T','3037.TW'],  # +Ibiden, Shinko, Unimicron
+ 'L3 substrate/PCB': ['TTMI','ROG','4062.T','3037.TW','8046.TW'], # +Ibiden, Unimicron, Nan Ya PCB (6967.T dead)
  'L4 base materials':['FCX','MTRN','3110.T'],                     # +Nittobo (glass cloth)
  'Electrical stack': ['VICR','ENS','CLF','ETN','POWL','GEV'],
  'Reference':        ['SOXX','^GSPC'],
