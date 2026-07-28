@@ -1552,3 +1552,33 @@ is tolerable relatively?")*
 8. **TDF prospectus changes at the big three providers** (the actual moment retail is defaulted in).
 9. **PE-affiliated insurer/Bermuda cession volumes + NAIC capital-charge actions.**
 [[new-economy-regime]] (the rate + policy legs), [[compression-thesis]], [[market-fragility]].
+
+> 🔄 **RETRIEVAL FAILURE — CORRECTED [2026-07-28 ~2:00pm PT, Jake's catch]: the Bermuda/life-insurance channel
+> was ALREADY IN THE VAULT, in more specific form, from BURRY.** `raw/2026-05-22-burry-heretics-guide-part-3.md`
+> §"Funding — Life Insurance to the Rescue?" — a section literally annotated "(validates ai-financing-fragility.md)."
+> I wrote the entry above as if newly identifying the channel. Jake remembered; I did not retrieve. **Process
+> lesson: run the vault search BEFORE writing a new thesis entry — the "what do we know about X" command exists
+> for exactly this, and I skipped it repeatedly today.** What Burry already had, and it beats my version:
+> - **MetLife issues DATA-CENTER ABS** (15-19yr lease income) to match long-duration annuity liabilities; keeps
+>   some, **cedes the rest to its Bermuda captive reinsurer** → lighter reserves → more leverage → bids UP risky
+>   assets (DC ABS, CLOs, HY, private software debt) — Burry's phrase: **"expandable garbage bags."**
+> - **200+ Bermuda captives created since 2023; 36 PE-AFFILIATED; Apollo/Athene the archetype.**
+> - **Burry's own framing of the tranching: "the exact structure of the RMBS I shorted."** (My "rating as a
+>   distribution license" restates his point; his is sharper and first.)
+> - **DURATION MISMATCH, stated better than I did: GPUs obsolete in a few years; datacenters debt-financed over
+>   15-19 years but obsolete in <10.** (My TDF-horizon point is a THIRD duration layer stacked on top of this
+>   one — the holder's horizon, on top of the asset's, on top of the financing's.)
+> - **$662B off-balance-sheet commitments** across MSFT/AMZN/GOOGL/META/ORCL hidden by GAAP; **RVG backstops fail
+>   in a correlation event (Moody's)**; MSFT/Meta already used **"power-delivery" outs to terminate leases (2025)**.
+> - **Two Bermuda-parent insurers borrowing from the FHLB (Des Moines/NY)** = "the funding perimeter stretching"
+>   — i.e. the channel already touching a quasi-official liquidity backstop.
+> - **Morgan Stanley: PE/insurance private credit must fund ~$800B of the $2.9T buildout by 2028 (~1/3).**
+>   Ropes & Gray: **$275B permanent-loan takeout** needed for DCs under construction NOW. Banks selling down
+>   Oracle/Stargate construction loans to PE-owned private credit = **"the leading edge of the bezzle pausing."**
+> - ⚠️ **Burry's own hedges, preserved:** "whether it is material depends on one's perspective"; "third-tier
+>   funding source"; "no telling what that may or may not trigger" — **he rates this a CANARY, not a called event.**
+> **What today's work ADDS to Burry (the genuinely new parts):** (1) the **DC-plan/TDF leg** — EO + DOL proposed
+> rule + fiduciary safe harbor, a distribution channel Burry's May essay predates; (2) the **rate-tolerance
+> frame** (170bps over a 4.6% risk-free for 3-5yr-life technology risk; the ZIRP-built structure distributed
+> into a 4-5% world); (3) the **live spread confirmation** (G-spread 100→170, CDS panel) that Burry's May piece
+> could only anticipate; (4) the **ordering flag** — stress arriving before the DC channel is wide enough.
