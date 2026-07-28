@@ -1348,3 +1348,35 @@ NEXT 13F (~Aug 14), today visible only via the 10-Q disclosure.
   moves forced flows). The dismal 5Y + real-rate framing + Trump demanding cuts = the rates leg pressing the
   same wound. Widen→no-bid remains the trigger's full form; record-wide-and-widening is its loudest warning state.
   [[compression-thesis]] (razor), [[metered-compute]], [[market-fragility]].
+
+## 2026-07-27 ~6:45pm PT — THE CREDIT PANEL, WITH NUMBERS (ZH charts via Jake; raw/ x3) — the quality ladder is fully priced
+### DATA (Bloomberg-sourced ZH charts, last prints)
+- **NVDA 5Y CDS: 77.59bps** — ~40-45 baseline Nov-May, June inflection ~48, **July VERTICAL 46→77.6 (~doubled
+  in six weeks, the last leg a straight line).** (`raw/2026-07-27-nvda-cds-chart.png`)
+- **Single-name hyperscaler CDS ladder:** **MSFT 51.6 / GOOG 62.7 / AMZN 67.1** (core payers — tight but ALL
+  hooking up at the right edge) → **META 91.7** (the 5GW spender, vertical) → **SPCX 177.2** (SpaceX CDS exists,
+  launched ~June ~110 → 177 vertical) → **ORCLCP 215.6** (new high) → **CRWV 751.2** (LH axis).
+  (`raw/2026-07-27-hyperscaler-cds-panel.png`)
+- **GS hyperscaler bond basket (GSUCHS30) G-spread: 170.4** — ~100 in Feb, 114-135 range through May, **July
+  vertical 128→170 (+~50bps this month, +~70% off the May lows).** (`raw/2026-07-27-hyperscaler-gspread.png`)
+- ZH (2m-old post): "Hey Nvidia, maybe cool it a bit on the 'circular financing' circle jerk deals already.
+  You are blowing up the bond market."
+### THESIS (interpretation — NOT fact)
+- *(the ladder IS the down-the-quality thesis, priced)* The 7/22 razor upgrade said vulnerability worsens down
+  the quality ladder — the credit market has now BUILT that ladder in basis points: cash payers ~50-70 →
+  leveraged spender ~92 → private-marks crack ~177 → the 9x-capex-on-the-weakest-balance-sheet landlord ~216
+  (junk-cusp pricing on ORCL, equity −64%/10mo) → neocloud tier ~751 (restructuring-risk zone). Every tier is
+  WIDENING simultaneously — dispersion in level, correlation in direction.
+- *(★ NVDA's shape ≠ NVDA's balance sheet — it's the CONTINGENT book being priced)* 77bps on a fortress with
+  huge FCF is absolutely modest; the SIGNAL is a doubling in six weeks that tracks the guarantee stack's growth
+  ($250B OpenAI backstop talk, the SSI/lab checks, vendor-financing web). **The market is repricing NVDA from
+  cash fortress to the complex's INSURER — its CDS now moves with its counterparties' health, not its own.**
+  ZH's "blowing up the bond market" line = the causal narrative (circular deals → credit stress) going mainstream
+  the same day NVDA equity sold its own SSI announcement −5%.
+- *(SpaceX CDS at 177 and climbing = the private-marks crack has a CREDIT price now)* The Aug 6 lockup meets a
+  widening CDS — the listing-cluster demand test is being graded in two markets at once.
+- *(warning→trigger conversion)* Widen is fully in hand at records; the trigger's full form is widen→**NO-BID**.
+  The test: the next AI mega-issuance's book (any announced deal pricing into this tape — watch for a pulled or
+  hung deal, or a drive-by that prices 30bps back of talk). Basket +50bps IN JULY with the FOMC Wednesday =
+  the financing tape and the Korea leverage flush are two lit fuses on the same powder. [[compression-thesis]],
+  [[market-fragility]], [[cepi]].
