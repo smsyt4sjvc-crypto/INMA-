@@ -461,3 +461,30 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
   barrels of crude exports. So crude can keep falling while the damage is real. **The place it should show up is
   PRODUCT CRACKS, not WTI/Brent flat price** — registered as the next thing to check (and the reason XLE/refiners
   behave differently from crude here).
+
+### 2026-07-28 ~3:05pm PT (2h post-close) — ⚠️ CLAIM: Iranian missile attack on a US base in JORDAN — the PAUSE MAY BE BROKEN
+- DATA (as-reported): **ZH relaying FARS NEWS: "EXPLOSIONS IN US BASE IN JORDAN DUE TO IRANIAN MISSILE ATTACK."**
+  Timing ~3pm PT = **2 hours after the US equity close, futures-only session.**
+- ⚠️ **SOURCE TIER: FARS is Iranian semi-official (IRGC-adjacent) — a BELLIGERENT source, claim-grade only.**
+  Same treatment the board applied to Tasnim's Abqaiq claims this morning: the Iranian outlet announcing its
+  own side's strike is announcing an intent as much as an event. **Requires US/CENTCOM/Jordanian or
+  Western-wire confirmation before it moves from claim to fact.**
+- *(the SEQUENCE is the load-bearing unknown)* The pause was explicitly **RECIPROCAL — "attack for attack; if
+  the attacks stop, Iran will also halt"** (Reuters, via an Iranian official). So either (a) **Iran broke it
+  unilaterally** — the maximal escalation read, or (b) **this is retaliation for a US/Israeli strike we have
+  not seen reported yet** — in which case the pause broke EARLIER and elsewhere. Fars would frame (b) as (a)'s
+  justification. **Do not assume the sequence from the Iranian dateline.** Context that makes (b) live:
+  **Netanyahu was at the White House TODAY telling Trump further strikes on rehabilitated Iranian nuclear
+  facilities are "unavoidable"** (Ch.12), and Trump publicly threatened Pickaxe Mountain absent a deal.
+- *(escalation gate: CASUALTIES)* Four US service members were killed in the prior campaign, and that is what
+  produced the "revenge mode" target-discipline breakdown the board logged 7/24. **US KIA here re-arms that
+  dynamic immediately** — it is the single fact that most raises the odds of the (a) export-terminal tell.
+- 🟠→🔴 PENDING CONFIRMATION. If confirmed, **set-#5 KILL SWITCH #3 FIRES** ("talks collapse → oil re-load +
+  risk-off compounds") and the board's OFF-RAMP status reverses from "fired + holding" to broken.
+- *(★ THIS IS THE LIVE TEST OF TODAY'S CURVE FINDING — the most trade-relevant line in the vault tonight)*
+  Today's work located the mispricing **at the BACK of the curve**: the deferred strip (Dec/Jan/Feb, $8-14
+  below front) is priced for RESOLUTION, against Polymarket's 14%. **A broken pause is exactly the event that
+  reprices the DEFERRED months UP toward the front** — not merely a front-month spike. **Watch the SHAPE, not
+  just the flat price:** front-only pop = a headline-risk premium; the whole strip lifting = the market
+  re-pricing resolution odds themselves, which is the thesis confirming. Crude futures are trading NOW; ES/NQ
+  and gold are the confirming instruments. [[demand-destruction]] (curve + SPR), [[war-board]].
