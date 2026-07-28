@@ -872,3 +872,33 @@ investment orgs) as a % of US equity market cap (Wilshire 5000) — record low ~
 - *(oil double-bearish)* Peace-trade AND growth-scare now point the same direction on crude — the war premium
   bleeds while demand fear builds. Only a walkback/Abqaiq-confirmation reverses it. [[ai-financing-fragility]] (the
   credit panel — the slow fuse), this entry (the fast fuse), FOMC Wednesday (the room they meet in).
+
+## 2026-07-28 ~7:40am PT — DAY 2, MID-MORNING: MU BREAKS THE $854 LINE ($801, −9.4%); the cascade's US expression is a MEMORY rout inside a calm index
+### DATA (Jake's cell 7:34am PT + collector CSV #3, 454 rows)
+- **MU $801.41 −9.44% — THROUGH the registered $854 air-pocket edge by ~6%.** MarketWatch: "worst monthly drop
+  in 11 years as China fears escalate." Memory complex: SNDK −9, WDC −8; **SK Hynix: worst month since 2008.**
+  Driver per Bloomberg's frame: **"Chip Rout Deepens on CIRCULAR FUNDING, CHINA COMPETITION Fears"** — no
+  MU-specific news; it's the thesis, at scale. SOXX −5.71%, SMH −4.66%. Neoclouds: NBIS −12.3, WULF −9.8,
+  IREN −8.7, CRWV −7.6.
+- **The dispersion, day 2:** SPX only −0.23% while payers/software rally AGAIN — MSFT +1.55, NOW +3.95,
+  NFLX +3.83, LLY +2.46, GOOGL green ("chip rout sends investors rushing back to bruised Alphabet" — GOOGL as
+  the SAFETY trade). **VIX just 18.99** — suppressed by collapsed correlation (single-name vol exploding, index
+  vol calm = the dispersion-unwind dynamic in print). **Gold 4,017, STILL falling with stocks = the liquidation
+  discriminator confirming broad export.** KOSPI CLOSED −10.84% (6,024). Oil FLAT (WTI −0.2%) while semis crash
+  = relative bid; XLE green. 10Y 4.61 bid.
+- **Abqaiq: still ZERO wire pickup** (454 rows, Tuesday AM) + oil flat = the containment verdict ~final pending
+  loadings. **BoJ flag (MarketWatch): "the central-bank decision that actually impacts your 401(k) lands in
+  Tokyo"** — the OTHER decision this week; Nikkei −4% + carry-trade mechanics = the Aug-2024 ghost, registered.
+### THESIS (interpretation — NOT fact)
+- *(MU: the registered plan is now the operative document)* The 7/14-15 _calibration work mapped EXACTLY this:
+  no stop protects MU (whipsaw-vs-cliff unresolvable) → SIZE is the only control → **$854 = "the line where risk
+  changes character: above = range pullback; decisive break = fast-fall to $652 air pocket" — decided in advance
+  precisely so the decision at the line is MECHANICAL, not emotional.** The line broke decisively. The dated-
+  thesis exits registered then: TIME (runway end ~mid-Aug/next CPI) + THESIS (memory reverses / buy-dip flips).
+  The China-DUV/CXMT cluster IS a memory-thesis event, not noise — the medium-term leg arrived early. Sizing
+  and the act are Jake's; the vault's job is done by surfacing the pre-registered framework. [[_calibration]].
+- *(the structure read)* A −10.8% KOSPI close, the worst SKH month since 2008, and a US memory rout — inside a
+  −0.2% SPX with VIX under 19. The index is CAMOUFLAGE: correlation collapse hides a sector crash and mutes the
+  vol signal the fear-gauges would normally send. When dispersion this extreme unwinds, it unwinds THROUGH the
+  index (the dealer-gamma piece's warning). Payers-as-safety = the razor's terminal expression: GOOGL is now
+  where money HIDES from the AI trade's own supply chain. [[compression-thesis]], [[ai-financing-fragility]].
