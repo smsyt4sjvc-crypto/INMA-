@@ -902,3 +902,29 @@ investment orgs) as a % of US equity market cap (Wilshire 5000) — record low ~
   vol signal the fear-gauges would normally send. When dispersion this extreme unwinds, it unwinds THROUGH the
   index (the dealer-gamma piece's warning). Payers-as-safety = the razor's terminal expression: GOOGL is now
   where money HIDES from the AI trade's own supply chain. [[compression-thesis]], [[ai-financing-fragility]].
+
+### 2026-07-28 ~9:50am PT — CALENDAR CORRECTION (Jake): the megacap stillness is FOMC-WEEK FREEZE, not stock-specific blackout — and that makes the court's liquidation MORE significant
+Source: `raw/2026-07-27-market-events-week.csv` (Jake's event calendar).
+- *(conceded — my RVOL read was incomplete)* I explained the Mag-7 calm as blackouts for 4 of 7 + "non-
+  participation" for the rest. Jake's correction is better and simpler: **the whole WEEK is the freeze.** FOMC
+  is a MARKET-WIDE event — it stills names that already reported (GOOGL 0.69x, TSLA 0.90x) and names not
+  reporting at all (NVDA 1.07x) equally. Nobody sets positioning into a rate decision + the two biggest capex
+  prints + PCE, regardless of their own calendar.
+- *(★ the sharpening this produces)* If EVERYONE is frozen for the gauntlet, then **the court being liquidated
+  anyway is more significant, not less** — forced selling doesn't wait for the calendar. Discretionary money is
+  sitting out; what's hitting SNDK/WDC/COHR/DELL/MU is deleveraging that MUST transact (margin, vol-control,
+  CTA, Korea export). Two different populations: the frozen (choosing) and the forced (compelled). Today's tape
+  is the forced population trading alone into an empty book — which also explains the magnitude of the moves.
+- **THE WEEK, registered (all times PT):** TUE 7/28 — FOMC day 1; **★ SEAGATE (STX) REPORTS AFTER CLOSE** + V.
+  WED 7/29 — **FOMC decision 11:00, presser 11:30; MSFT + META after close.** THU 7/30 — **Q2 GDP advance +
+  JUNE PCE 5:30am** (pre-open), jobless claims; **AAPL + AMZN after close.** FRI 7/31 — Q2 Employment Cost
+  Index, Chicago PMI, UMich final; XOM/CVX/**ETN**/ABBV before open. (Aug 1: the AI framework deadline.)
+- *(★ STX TONIGHT = the immediate test, in the exact epicenter)* Seagate reports hours from now, on a day it is
+  **−11.9%**, with WDC −13.6 and SNDK −14.4 beside it. It is the first storage/memory print INTO the wreckage —
+  a direct read-through to MU's book and a live test of whether the beat-sold pattern (exhibits: MU, GOOGL,
+  INTC, GLW) claims a fifth victim, or whether a strong HDD/nearline guide arrests the memory-complex slide.
+  Whatever STX says tonight lands BEFORE the FOMC and before MSFT/META — it is the week's first real information.
+- *(other book-relevant)* **ETN Friday** = the bottleneck/power complex reporting after selling −5.3% in the
+  flush (does the order book confirm the scarcity thesis while the stock trades like a derivative?). **PCE
+  Thursday** = the memory-passthrough/inflation-loop thread's first data test, one day after the Fed decides.
+  [[compression-thesis]], [[ai-infra-allocation-map]], [[new-economy-regime]].
