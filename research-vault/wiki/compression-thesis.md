@@ -1097,3 +1097,25 @@ one correction: LIMITED production has begun; mass production/fab integration is
 - *(the day in one line)* De-escalation delivered its oil leg and equities REFUSED the relief — dispersion at
   maximum, vol bid under a flat index, credit at record wides into the FOMC + capex prints. Jake's tug-of-war,
   on schedule. [[ai-financing-fragility]], [[metered-compute]], [[war-board]].
+
+### 2026-07-27 ~7:10pm PT addendum — GOLDMAN'S DESK POST-MORTEM: the vault's three morning threads named as THE session drivers
+- DATA (GS desk color via ZH, 6:55pm): **Momentum Factor −7% on the day**; "clear GROSS-DOWN feel against a POOR
+  LIQUIDITY backdrop"; **Software/Internet +4% vs Semis −3.5%**; most-popular semis longs hit hardest — **AMD −6%,
+  SNDK −13%, semicap equipment −5% to −7%.** Fundamental concerns cited by the desk, verbatim list: (1) NVDA-OpenAI
+  deal reigniting the "circular financing" debate; (2) The Information's China homegrown-DUV story; (3) lingering
+  Kimi-K3/Chinese open-source concerns.
+### THESIS (interpretation — NOT fact)
+- *(the desk's list IS the vault's morning)* All three cited drivers are threads filed here TODAY before the desk
+  named them (circular financing → the CDS panel + NVDA-sells-its-own-deal; DUV → the dissolution-date entry;
+  Kimi → the convergence chart). Confirmation the narratives now DRIVE the tape — and therefore that the
+  seeing-edge on all three is spent simultaneously. What remains is execution edge: the registered triggers
+  (no-bid test, MU $854, loadings, the FOMC room).
+- *(★ Software +4% vs Semis −3.5% = the victim-vs-toll rotation with INSTITUTIONAL FLOW)* Not just NOW's print —
+  the whole software complex caught the bid while semis bled. The enroll-once/toll thesis's first FLOW-level
+  confirmation, same day it got its first tape vote. Flagged: one session ≠ regime, but the rotation now has a
+  Goldman-desk paper trail.
+- *(the unwind mechanics)* Momentum −7% in a session + gross-down + poor liquidity = systematic deleveraging
+  state: realized-vol spikes feed vol-control trimming, CTA below 7446 compounds, and the most-crowded longs
+  (SNDK −13% = the Tier-2 GAP-list NAND pure-play, semicap −5/−7 = the WFE caution + Burry's AMAT short paying)
+  crack FIRST and HARDEST — the US cousin of Korea's margin cascade, in factor space. Into FOMC week on thin
+  liquidity, gap risk runs both directions. [[ai-financing-fragility]], [[buildout-bottleneck-map]], [[market-fragility]].
