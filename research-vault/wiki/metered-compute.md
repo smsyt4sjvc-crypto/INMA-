@@ -1044,3 +1044,47 @@ subagents because training is unique to their production needs — with intercha
   access is a compliance cost that scales with frontier ambition — and lands on the lab that just filed the
   most restrictive-friendly rulebook. Aug 1 is now a registered dated catalyst. [[ai-financing-fragility]],
   [[compression-thesis]], [[_calibration]].
+
+##### 2026-07-28 ~10:45am PT — NVDA'S TAIPEI OFFICE RAIDED, employee detained — the enforcement tail arrives on the day Huang lobbies Commerce
+### DATA (ZH 10:20am PT, sourcing Keelung District Prosecutors + Bloomberg; Jake's paste)
+- **Taiwan detained an NVDA employee (surname Chang) and searched NVDA's Taipei office on 7/24** — court granted
+  detention 7/28 citing flight/evidence-destruction/collusion risk. **First known NVDA employee detained in a
+  chip-diversion case anywhere.** Charge: **falsifying business documents** (Criminal Code) + an alleged breach
+  of trust. Prosecutors have NOT accused Nvidia itself.
+- **Seven held total: 2 from SUPER MICRO, 1 from Albatron.** Case opened May; ~**50 Super Micro servers** with
+  restricted NVDA chips forged through customs to China/HK/Macau, some routed **via Japan**.
+- **Chang described as a senior BUSINESS-DEVELOPMENT manager; prosecutors examining the END-USER and KYC
+  documentation he signed off on** — the compliance paperwork layer.
+- **The US case (larger): DOJ charged Super Micro co-founder Wally Liaw + Taiwan sales mgr + a contractor over
+  ~$2.5B of servers carrying restricted H200/B200 parts diverted to China 2024-25. Liaw trial NOV 2; up to 20
+  years.** SMCI not charged, cooperating.
+- **Legal gap: Taiwan has NO statute criminalizing AI-chip export to China** — hence forgery charges. A Foreign
+  Trade Act amendment ("mainland China semiconductor clause") is proposed, **NOT passed**; MOEA consulting
+  Washington on US-style performance-threshold controls, no timeline.
+- Policy state: Blackwell = presumption of denial; H200 moved to case-by-case in January. NVDA: "Smuggling is a
+  nonstarter... diverted products would have no service, support, or updates."
+### THESIS (interpretation — NOT fact)
+- *(the collision is the story)* Same 96 hours: **BIS investigating NVDA Blackwell export violations · Huang
+  meeting Lutnick in person (Tue) · NVDA's Taipei office raided (searches 7/24, disclosed today) · the AI
+  framework due Aug 1.** Yesterday's entry called the BIS probe "an unpriced tail on the apex name"; it is now
+  a two-jurisdiction tail with a dated US trial (Nov 2). The leverage read sharpens: Huang is negotiating with
+  the department investigating him while a foreign prosecutor detains his staff.
+- *(★ the specific vulnerability — it's the paperwork layer, not the chips)* NVDA's entire export defense is
+  structural: "we sell to established partners/OEMs who ensure compliance." **That defense runs THROUGH
+  end-user/KYC documentation — exactly what a senior BD manager is alleged to have falsified.** The exposure
+  isn't that NVDA smuggled; it's that its compliance architecture is only as strong as the sales staff
+  attesting to it. If the attestation layer is compromised, "we rely on partners" weakens as a defense in the
+  US proceeding too. Watch whether DOJ/BIS cite the Taiwan detention.
+- *(the demand datapoint hiding in the crime)* ZH's line — the hardware is scarce enough that even ~50 servers
+  are worth forging paperwork over; older parts carry steep gray-market premiums. **Criminal risk-taking is a
+  revealed-preference measure of shortage severity** — an independent, non-vendor confirmation of AI-hardware
+  scarcity, on the same day the vault logged demand as intact ([[memory-regime-question]]). Cuts both ways:
+  bullish real demand, bearish the efficacy of the control regime the US keeps escalating.
+- *(the pincer, restated)* Export controls try to keep chips OUT of China while China builds domestic DUV/DRAM
+  capacity IN ([[compression-thesis]] 7/27-28). Enforcement failing at the paperwork layer + substitution
+  succeeding at the tool layer = the control regime losing on both ends simultaneously. Same structural loop
+  as the Apple-CXMT fight.
+- *(tape relevance)* NVDA was in RVOL-NEGLECT this morning (1.07x, nobody trading it). **A raid headline is the
+  kind of thing that ends neglect** — watch whether NVDA volume spikes into the close; a legal/regulatory
+  re-rating of the apex name is a different animal than the supply-chain liquidation running beneath it.
+  Also SMCI (already −7.2% Monday) carries direct case exposure. [[ai-financing-fragility]], [[ai-capex-cycle]].
