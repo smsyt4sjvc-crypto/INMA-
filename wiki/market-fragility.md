@@ -817,3 +817,28 @@ investment orgs) as a % of US equity market cap (Wilshire 5000) — record low ~
   make the case for a cut easier" was written BEFORE Sunday's open — **oil −5% just handed the Fed exactly the room the
   newsletter said it lacked.** The relief chain (oil↓ → PCE path softer → dovish space) is now live INTO a hawkish chair =
   Wednesday's central tension, quantified. [[compression-thesis]], [[ai-financing-fragility]].
+
+## 2026-07-27 ~5:00pm PT — KOREA CASCADE, DEEPEST LEG: KOSPI −6.1% AT THE TUESDAY OPEN (6,343.87), sidecar again — on the China-memory-threat day
+### DATA
+- Jake's live prints (ahead of wire indexing): **KOSPI −6.1% to 6,343.87; KRX activates sidecar to halt KOSDAQ
+  program selling** — Tuesday KST open (~5pm PT Mon). Sequence now: 7/20 −5% intraday (sidecar), 7/24 −4.61% to
+  6,769.51 (sidecar; Samsung/SKH −6%), tonight **−6.1% = accelerating cadence, ~−15% from the recent highs in
+  about a week.**
+- **Structural datum: the KOSPI sell-sidecar triggered 41 TIMES in H1 2026 — shattering the full-YEAR record of
+  26 set during the global financial crisis** (BigGo/KRX count). Recent single-day prints inside the cascade:
+  SKH −10.7%, Samsung Electro-Mechanics −9.9%, Samsung Elec −7.6%.
+### THESIS (interpretation — NOT fact)
+- *(why TONIGHT is aimed at Korea specifically)* The day's setup was a dagger pointed at the Korean duopoly:
+  CXMT bonded-DRAM + domestic-DUV-in-August news ("closing the gap with Korea far faster than expected" — the
+  quote names the victim), NVDA −5%, SOXX −2%, hyperscaler CDS record wides. Korea = memory-concentrated index +
+  the most retail-levered market structure in the complex → it prices the China-memory-threat + financing-tape
+  day FIRST and HARDEST. Driver attribution = inference until coverage lands; the leverage mechanics are not.
+- *(the vault's standing Korea read, round N)* Korea remains the leveraged canary that fires first each round —
+  "what liquidates when the regime flips," now liquidating on the day the flip's fundamental driver (Chinese
+  memory capability) got a delivery date. 41 sidecars in six months = the cascade is a STATE, not an event
+  (warning-vs-trigger: this is the fragility CONDITION; the trigger question is whether tonight's leg transmits).
+- *(transmission map, next 14 hours)* Korea open-crash → US futures tonight → Tuesday US session (MU $900 sits
+  in the blast radius; SOXX already −2%) → Netanyahu Tuesday → FOMC + META/MSFT Wednesday. A Korea-led risk-off
+  into the FOMC = the tug-of-war's financing side arriving with an Asian accent. Watch: does the sidecar cascade
+  spread to Nikkei/TSMC-Taiwan (regional = systemic) or stay Korea-contained (idiosyncratic leverage flush,
+  round 2 of the July pattern). [[compression-thesis]], [[ai-financing-fragility]], [[_calibration]] (Korea refs).
