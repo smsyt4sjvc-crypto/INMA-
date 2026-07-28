@@ -842,3 +842,17 @@ investment orgs) as a % of US equity market cap (Wilshire 5000) — record low ~
   into the FOMC = the tug-of-war's financing side arriving with an Asian accent. Watch: does the sidecar cascade
   spread to Nikkei/TSMC-Taiwan (regional = systemic) or stay Korea-contained (idiosyncratic leverage flush,
   round 2 of the July pattern). [[compression-thesis]], [[ai-financing-fragility]], [[_calibration]] (Korea refs).
+
+### 2026-07-27 ~5:30pm PT addendum — ANSWERED IN 30 MINUTES: REGIONAL. KOSPI −8% → FULL CIRCUIT BREAKER (20-min halt); NIKKEI tumbling on chips
+- DATA (ZH, Jake relay, minutes old): **KOSPI trading HALTED 20 minutes after an 8% decline** — the full circuit
+  breaker, one rung above the sidecar (program-halt) that fired at the open. **Nikkei + KOSPI both tumbling as
+  chip shares slump** = the contained-vs-regional discriminator resolved REGIONAL within the hour. ZH color:
+  "each one of these is about another 100,000 retail margin calls."
+- *(mechanics that matter into the reopen)* Halts pause the PRICE, not the margin clocks — broker liquidation
+  queues build during the 20 minutes and hit the reopen (why halted cascades often gap again). The ladder:
+  sidecar (−5/6% programs) → circuit breaker 1 (−8%, 20-min all-stop) → CB2 (−15%) → CB3 (−20%, day closed).
+  Tonight is rung two, at the OPEN, on the highest-leverage retail structure in the complex.
+- *(next dominoes, in order)* Taiwan/TSMC open (~6pm PT) → US equity futures overnight (ES/NQ) → Europe →
+  Tuesday US session (MU $900 in the blast radius) → Netanyahu → FOMC Wed + META/MSFT. A regional chip-led
+  cascade INTO a Fed decision = the financing-side tug pulling with both hands. The registered question is no
+  longer contained-vs-regional; it is whether the US futures tape absorbs it or joins it.
