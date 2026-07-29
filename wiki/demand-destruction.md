@@ -2308,3 +2308,29 @@ shortage, and the tape isn't saying that despite the numbers literally saying it
   per Kyiv — plus a projectile into **West Azerbaijan province.** Iran is now taking fire from Israel/US, and
   from Ukraine on a second axis, while supplying Russia. **The number of parties able to trigger an oil-market
   event has increased and none of them are coordinated.** That widens the tail without moving the base case.
+
+##### 2026-07-29 ~2:10pm PT — ★★ THE SPR DRAWDOWN IS NOW A **GDP** LINE ITEM: GOLDMAN CUTS Q2 BY 0.8pp
+### DATA
+- **Goldman, ahead of Thursday's Q2 GDP advance release: "we are LOWERING our Q2 GDP growth forecast by 0.8pp
+  to +1.8%, reflecting the incorporation of Tuesday's trade and inventories data AS WELL AS THE IMPACT OF
+  RECENT DRAWDOWNS OF THE US STRATEGIC PETROLEUM RESERVE."**
+- Vault's SPR series: **307.650M, −5.057MM last week = 722k bpd, ~11.4 weeks to the 250M line.**
+- **Q2 GDP advance release is THURSDAY 7/30** — the cut lands the day before.
+
+### THESIS (interpretation — NOT fact)
+- *(★★ THE SPR NOW TOUCHES THREE THREADS AT ONCE, WHICH IS NEW)* The vault has tracked the SPR as **(1) the
+  physical absorber hiding the Hormuz shortfall** and, since the FOMC, **(2) a TERM-PREMIUM input** — a Fed
+  that looks through energy inflation means the long end prices it. **Goldman has now added (3): it is a
+  measured GDP DRAG.** An SPR release is an inventory drawdown, and inventory drawdowns subtract from measured
+  investment in the national accounts. **0.8pp of a Q2 GDP cut, with the SPR named explicitly as a cause.**
+- *(★ the mechanical consequence, and it is counter-intuitive enough to state plainly)* **When the release
+  STOPS — the ~11.4-week clock — the GDP drag REVERSES and becomes a tailwind, while the physical shortfall it
+  was hiding becomes a PRICE event.** **So the same dated clock produces, simultaneously, better-looking growth
+  data and worse-looking inflation data.** **That is the single most awkward combination for a Fed that has
+  just deleted forward guidance and told the market to price events directly** — it removes the "weak growth"
+  justification for looking through energy at the exact moment energy stops being absorbed.
+- *(★ what it does to the growth reading in the vault)* **A +1.8% Q2 print with 0.8pp of the miss attributable
+  to trade/inventories and SPR mechanics is NOT the same signal as +1.8% from weak final demand.** **The
+  headline will read as a growth scare; the composition says otherwise.** Register it before the print:
+  **watch final sales to private domestic purchasers, not the headline** — that is the line that strips out
+  inventories, trade and the SPR effect. [[consumption-vs-investment-crux]], [[new-economy-regime]].
