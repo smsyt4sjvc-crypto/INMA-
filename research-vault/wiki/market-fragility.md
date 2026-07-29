@@ -966,3 +966,27 @@ Source: `raw/2026-07-27-market-events-week.csv` (Jake's event calendar).
   the documented one); a July effect is not established. **Treat ZH's call as a good read that landed, not as a
   calendar rule** — and note the reflexive risk: if a July-momentum-crash meme is now widely known, it front-runs
   itself next year. [[compression-thesis]], [[ai-infra-allocation-map]], [[_calibration]].
+
+### 2026-07-28 ~6:25pm PT addendum — the CHART READ (`raw/2026-07-28-gs-momentum-drawdown-chart.png`): it is the FASTEST drawdown on record, not the deepest — and the base rate cuts toward LEADERSHIP CHANGE
+- *(⚠️ precision correction to the entry above — two different measures were being conflated)* The chart is a
+  **DRAWDOWN-FROM-PEAK** series, and at −40.98% today is **the SECOND-deepest of the 2010-2026 window, not the
+  deepest: 2020-21 clearly breached it (~−48%, the dashed line at −40.98 cuts through that trough), and 2016
+  bottomed shallower (~−33%).** ZH's claim — "worst MONTH for momentum on record ex-COVID" — is about the
+  **monthly MOVE**, a different statistic from the drawdown LEVEL. **Both can be true; do not restate ZH's
+  monthly claim as a drawdown record.**
+- *(★ what the chart actually shows that the number doesn't: SPEED)* The 2026 leg is **near-VERTICAL — roughly
+  0 to −41% with almost no intermediate structure.** The 2016 episode ground down over ~a year; 2020-21 built
+  over months with visible steps. **This is the fastest momentum drawdown on the chart.** Depth measures how
+  far the trade unwound; SPEED measures how little time holders had to exit — which is the signature of forced
+  rather than discretionary selling, and it matches the GS desk color exactly ("gross down," poor liquidity).
+- *(★★ THE BASE RATE, and it argues (b))* The two comparable episodes on this chart were **both LEADERSHIP
+  CHANGES, not flushes: 2016** (the value/energy resurgence off the February low) and **2020-21** (the November
+  vaccine rotation out of stay-at-home winners). In both, momentum did **not** simply V-recover into its old
+  leaders — the composition of leadership changed and the old basket underperformed for quarters.
+  **n=2 is thin, but it is the only base rate available and it points the same direction as this week's
+  cross-section** (software/payers/staples leading, money rotating rather than fleeing). **Registered: the
+  historical prior favors (b) regime change over (a) positioning flush.**
+- *(where we are in it)* The line sits **at or near its low with no recovery leg visible** — the unwind is not
+  yet demonstrably over. **Do not read the discriminator (old basket vs new leadership) off a tape that has not
+  yet produced a real up-day.** That grading still waits for the first sustained rally, which now has FOMC +
+  MSFT/META (Wed) and PCE + AAPL/AMZN (Thu) standing directly in front of it.
