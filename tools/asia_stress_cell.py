@@ -147,16 +147,25 @@ else:
             print('       working, not the channel opening. An absolute NQ level cannot tell these apart.')
             print('    WATCH: the spread COMPRESSING toward zero while BOTH fall = absorber exhausted =')
             print('       that is the transmission event. A wide spread = another failure to transmit.')
-        elif ym <= 0 and nq < 0 and spread > -1.0:
-            print('    -> ABSORBER STOPPED ABSORBING: Dow futures no longer green, spread compressed')
-            print('       toward zero, everything red together. This is the registered transmission')
-            print('       condition - a change IN KIND. But check the MAGNITUDE before calling it a rout:')
-            print(f'       NQ {nq:+.2f} / YM {ym:+.2f} may be trivial in size even when the shape has changed.')
+        elif nq < -0.05 and ym < 0:
+            ratio = abs(nq)/max(abs(ym), 1e-9)
+            print(f'    NQ is falling {ratio:.1f}x as hard as YM.')
+            if ratio >= 2.0:
+                print('    -> STILL DISPERSION. Both red does NOT mean the absorber failed - the absorber')
+                print('       is measured by the RATIO, not by YM\'s sign. Dow futures down a fifth of a')
+                print('       percent while Nasdaq futures fall ~1% is the rotation working, not breaking.')
+                print('    THE TRANSMISSION EVENT is the RATIO collapsing toward 1.0 (everything falling')
+                print('       TOGETHER), not YM merely printing negative.')
+            else:
+                print('    -> RATIO NEAR 1: everything falling together at similar magnitude. The absorber')
+                print('       is GONE and correlation has snapped back. THIS is the transmission event.')
+            print(f'    MAGNITUDE CHECK: NQ {nq:+.2f}% / YM {ym:+.2f}% - the shape can change while the')
+            print('       size stays trivial. Do not call a rout off a sub-1% overnight tape.')
             print('    !! ALTERNATIVE, equal weight: OVERNIGHT sessions are structurally lower-dispersion')
             print('       than CASH sessions (single-stock rotation does not trade overnight). Compare an')
             print('       overnight spread to another OVERNIGHT spread, never to a cash-session spread.')
         else:
-            print('    -> mixed; no clean read. Use the spread, not the level.')
+            print('    -> mixed; no clean read. Use the ratio and the spread, not the levels.')
 
 print('\n' + '='*68)
 print('  WHAT WOULD ACTUALLY CHANGE THE READ (none of it is a price)')
