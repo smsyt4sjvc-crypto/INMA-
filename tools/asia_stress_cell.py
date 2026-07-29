@@ -54,9 +54,13 @@ def stats(t):
     s = D.get(t)
     if s is None or len(s) < 2: return None
     px = float(s.iloc[-1]); d1 = (px/float(s.iloc[-2])-1)*100
+    # ARTIFACT GUARD: a halted market's yfinance daily series can DROP a bar, turning a
+    # 2-day move into a fake 1-day print. Flag anything implausible for a cash index.
+    gap = (s.index[-1] - s.index[-2]).days
     n20 = min(21, len(s)); m = (px/float(s.iloc[-n20])-1)*100
     dd = (px/float(s.max())-1)*100
-    return px, d1, m, dd, s.index[-1].date()
+    flag = ' <-- CHECK: bar gap %dd, 1d%% may be MULTI-DAY' % gap if (gap > 3 or abs(d1) > 12) else ''
+    return px, d1, m, dd, s.index[-1].date(), flag
 
 for g, items in GROUPS.items():
     print(f'\n### {g}')
@@ -64,8 +68,8 @@ for g, items in GROUPS.items():
     for t, lab in items:
         r = stats(t)
         if r is None: print(f'  {lab:14}   -- NOT AVAILABLE'); continue
-        px, d1, m, dd, dt = r
-        print(f'  {lab:14}{px:>12,.2f}{d1:>+9.2f}{m:>+9.1f}{dd:>+11.1f}   {dt}')
+        px, d1, m, dd, dt, flag = r
+        print(f'  {lab:14}{px:>12,.2f}{d1:>+9.2f}{m:>+9.1f}{dd:>+11.1f}   {dt}{flag}')
 
 # ---------------- the reads ----------------
 print('\n' + '='*68); print('  THE CHANNELS'); print('='*68)
@@ -83,11 +87,22 @@ if krw is None: print('    USD/KRW NOT AVAILABLE — channel (a) unreadable.')
 else:
     print(f'    USD/KRW {krw:+.2f}% today ({val("KRW=X",2):+.1f}% ~1mo)   USD/JPY {jpy:+.2f}%'
           if jpy is not None else f'    USD/KRW {krw:+.2f}% today')
-    print('    ' + ('-> KRW WEAKENING HARD: foreign selling / repatriation pressure. Channel (a) LIVE.'
-                    if krw > 0.7 else
-                    ('-> KRW soft but orderly. Channel (a) not yet firing.' if krw > 0
-                     else '-> KRW FIRM despite the equity crash = domestic, not a capital-flight event.'
-                          ' Strongest single argument for containment.')))
+    m_krw = val('KRW=X', 2)
+    print('    NOTE ON DIRECTION: USD/KRW UP = won WEAK = FOREIGNERS FLEEING Korea.')
+    print('                       USD/KRW DOWN = won STRONG = Korean money coming HOME')
+    print('                       (selling FOREIGN assets to fund domestic margin) OR export-earnings')
+    print('                       conversion. A strong won in a crash is REPATRIATION, not calm.')
+    if krw > 0.7:
+        print('    -> WON WEAKENING HARD: foreign capital flight. Channel (a) LIVE (outflow form).')
+    elif m_krw is not None and m_krw < -3:
+        print(f'    -> WON STRENGTHENING {abs(m_krw):.1f}% over ~1mo DURING an equity crash. Two readings,')
+        print('       and they point opposite ways: (i) REPATRIATION - domestic institutions selling')
+        print('       FOREIGN assets to fund margin at home. That is channel (a) firing, and it reaches')
+        print('       the S&P without touching Korean beta. (ii) EXPORT EARNINGS - record dollar revenue')
+        print('       (hynix tripled) converted to won. Fundamentals up, multiple down.')
+        print('       DISCRIMINATOR: (i) shows up as foreign net-selling of US equities; (ii) does not.')
+    else:
+        print('    -> won roughly stable. No clear FX-channel signal either way.')
 
 print('\n[c] CARRY — the Aug-2024 replay mechanism')
 if jpy is None: print('    USD/JPY NOT AVAILABLE.')
@@ -109,12 +124,22 @@ print('\n[GAUGE] US FUTURES — Jake\'s registered contagion gauge')
 nq, es = val('NQ=F'), val('ES=F')
 if nq is None: print('    NQ NOT AVAILABLE.')
 else:
-    print(f'    NQ {nq:+.2f}%   ES {es:+.2f}%' if es is not None else f'    NQ {nq:+.2f}%')
-    if k1 is not None:
-        print('    ' + (f'-> KOSPI {k1:+.1f}% and NQ only {nq:+.2f}% = the equity channel FAILED AGAIN.'
-                        '\n       Nth consecutive session of non-transmission; containment case strengthens.'
-                        if nq > -1.0 else
-                        f'-> KOSPI {k1:+.1f}% and NQ {nq:+.2f}% = THE CHANNEL OPENED. Re-read everything.'))
+    ym = val('YM=F')
+    print(f'    NQ {nq:+.2f}%   ES {es:+.2f}%   YM {ym:+.2f}%'
+          if es is not None and ym is not None else f'    NQ {nq:+.2f}%')
+    if ym is not None:
+        spread = nq - ym
+        print(f'    NQ-minus-YM spread = {spread:+.2f} pts')
+        if spread < -1.0 and ym > 0:
+            print('    -> DISPERSION, NOT CONTAGION. Dow futures GREEN while Nasdaq futures fall is the')
+            print('       same rotation that has absorbed every Asian session so far - it is the ABSORBER')
+            print('       working, not the channel opening. An absolute NQ level cannot tell these apart.')
+            print('    WATCH: the spread COMPRESSING toward zero while BOTH fall = absorber exhausted =')
+            print('       that is the transmission event. A wide spread = another failure to transmit.')
+        elif ym is not None and ym < -0.5 and nq < -0.5:
+            print('    -> BOTH DOWN, SPREAD NARROW = the absorber is gone. THE CHANNEL OPENED.')
+        else:
+            print('    -> mixed; no clean read. Use the spread, not the level.')
 
 print('\n' + '='*68)
 print('  WHAT WOULD ACTUALLY CHANGE THE READ (none of it is a price)')

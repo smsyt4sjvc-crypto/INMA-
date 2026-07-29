@@ -1199,3 +1199,80 @@ falsifiable test of a disagreement — Jake: coiled/paralysis; Claude: calm/cont
   failure of the equity channel and the containment case gets materially stronger. If NQ breaks down as Korea
   accelerates, the channel finally opened and everything above is obsolete.** Tool built: `tools/asia_stress_cell.py`.
 [[compression-thesis]], [[ai-financing-fragility]], [[weekly-momentum]], [[demand-destruction]]
+
+##### 2026-07-28 ~8:56pm PT — ★★★ THE ASIA-STRESS CELL RAN. ITS HEADLINE NUMBER IS AN ARTIFACT, ITS VERDICT WAS WRONG, AND THE REAL FINDING IS HONG KONG.
+*(`tools/asia_stress_cell.py`, Jake's run. Three defects in my own tool are corrected first — the cell is
+evidence and evidence gets audited before it gets used.)*
+### DATA — ⚠️ ARTIFACT FIRST (firewall rule 6)
+- **The cell printed "KOSPI −18.12% today." THAT IS NOT A ONE-DAY MOVE. It is TWO DAYS.** Reconciliation
+  against Jake's TradingView capture 30 minutes earlier (5,564.06, −459.60 → **Tuesday close 6,023.66**):
+  the cell's implied prior bar is **6,755.69**, i.e. **yfinance's ^KS11 daily series is MISSING Tuesday's
+  bar** and is differencing Wednesday against MONDAY.
+  **TRUE Wednesday move: −8.17%. Tuesday was −10.84%.** Both enormous; neither is −18%.
+  *(Likely cause: repeated circuit-breaker halts corrupting the daily bar. Any halted market's yfinance
+  daily series is suspect — registered as a standing caution.)*
+- **Corrected sequence, Wednesday Seoul:** −4.65% (7:09pm PT) → −7.63% (8:46pm) → **−8.17%** (8:56pm). The
+  last leg DECELERATED.
+- **KOSPI 5,531.56, −34.2% on the month, −39.3% from the 3-month high. KOSDAQ −29.5% month, −46.8% from high.**
+- **Nikkei −6.16% (−12.1% mo). Taiwan −8.62% (−10.5% mo).**
+- **★ HANG SENG +1.65% TODAY, +13.0% ON THE MONTH, only −3.8% from its 3-month high. Shanghai −1.69%, −6.9% mo.**
+- **USD/KRW 1,451.91, −0.86% today, −6.2% on the month = the WON is STRENGTHENING.** USD/JPY −0.10% (flat).
+  DXY −0.1% on the month, so this is KRW-specific, not dollar weakness.
+- **US futures: NQ −1.52%, ES +0.07%, YM +0.92%, RTY −0.15%.**
+- **Gold −1.24%, Silver −1.44%** (⚠️ both as of the 7/28 US close — STALE relative to Wednesday's Asia move).
+- **THE NAMES: Samsung Elec −7.95% today, −39.4% month. SK hynix −12.97% today, −49.1% MONTH, −53.8% from
+  high. TSMC −2.85%.**
+
+### THESIS (interpretation — NOT fact)
+- *(⛔ THREE DEFECTS IN MY OWN CELL, owned before any conclusion is drawn from it)*
+  **(1) The headline number was a two-day move reported as one day** — and the cell then rendered a verdict off
+  it. **(2) The US-futures gauge is too crude:** I set "NQ worse than −1.0% = the channel opened," and it fired.
+  **But NQ −1.52% alongside YM +0.92% is a 2.44-point spread — that is the SAME dispersion, overnight, not
+  contagion.** An absolute NQ threshold cannot distinguish "tech sold" from "everything sold"; it must read the
+  **NQ-vs-YM spread.** **(3) The KRW interpretation logic is BACKWARDS.** The cell says "KRW firm = domestic,
+  not capital flight = containment." **Wrong direction of causation: foreigners fleeing Korea SELL won
+  (USD/KRW up). Korean institutions repatriating — selling FOREIGN assets to fund domestic margin — BUY won
+  (USD/KRW down).** A won strengthening 6.2% during a −34% equity month is the **repatriation** signature, which
+  is channel (a) FIRING, not containment. **I wrote the logic backwards in the tool and would have read the
+  most important number in the output upside-down.**
+- *(★★★ THE ACTUAL FINDING, and it is the line I did not write a threshold for: HONG KONG IS UP 13% ON THE
+  MONTH)* Korea −34.2%, Taiwan −10.5%, Japan −12.1% — **and Hang Seng +13.0%, sitting 3.8% off its high.**
+  **A systemic Asian funding event does not spare Hong Kong.** Nothing about margin cascades, dollar funding
+  stress or regional contagion produces +13% in the region's most leverage-sensitive, most dollar-funded
+  market. **This is therefore NOT an Asian financial event. It is a CHIP-COMPLEX REPRICING landing hardest on
+  the three economies that ARE the chip complex.** That reconciles with the decomposition rather than
+  contradicting it: recomputed on real constituent numbers — **Samsung −39.4% at ~25% weight plus hynix −49.1%
+  at ~10% contribute −14.8 points, leaving −19.4 points from the other 65%, i.e. the NON-CHIP two-thirds of
+  KOSPI is down ~29.9%.** Korea's non-chip economy IS the chip economy's supply chain, banks and labour. **A
+  memory revaluation of this size is a Korean GDP event without being an Asian credit event.**
+- *(★★ AND CXMT IS THE ASYMMETRY'S NAME — a TRANSFER, not a contagion)* The vault has filed CXMT as a *glut*
+  mechanism (adds supply, compresses price). **The cross-market tape says the market is pricing it as a SHARE
+  TRANSFER:** China's DRAM champion IPO'd, is now worth more than Intel, and Hong Kong is +13% on the month
+  while Korea loses a third of its market. ⚠️ **Held as a hypothesis, not a finding — Shanghai is −6.9% on the
+  month, which cuts against a clean "money rotating into China" story.** The defensible version: **the damage
+  is concentrated in incumbent memory and its host economies, and the one market with the most China-tech
+  exposure is the one market that is up.** [[compression-thesis]], [[memory-regime-question]].
+- *(★★ SK HYNIX HAS HALVED IN A MONTH — the day after +1,242% net profit)* −49.1% on the month, −53.8% from its
+  high, −12.97% on the print. **A company that more than tripled revenue and grew net profit twelvefold has
+  lost half its market value in thirty days.** This is the RECORD-BUT-INSUFFICIENT category registered earlier
+  tonight, in its most extreme form, and it settles [[memory-regime-question]] the hard way: **demand was never
+  the issue; the market is refusing to capitalise the earnings at all.** That is a multiple event, and multiple
+  events do not end because the next quarter is also good.
+- *(★ THE US CHANNEL: still damped, still dispersion, FOURTH consecutive failure — but no longer zero)*
+  Correct arithmetic: **KOSPI worsened ~3.5 points (−4.65 → −8.17) and NQ worsened ~0.78 points (−0.74 →
+  −1.52). Transmission ratio ≈ 0.22.** Damped by roughly four-fifths, and the damping mechanism is visible in
+  the same row: **YM +0.92% while NQ −1.52%.** **The channel did not open; the rotation absorbed it again, for
+  the fourth session running.** But the ratio is nonzero and rising, and this is the first night ES has gone
+  from clearly green (+0.28%) to flat (+0.07%) on the Asia tape. **Registered discriminator for the morning:
+  the NQ-minus-YM spread. It compressing toward zero while both fall = the absorber is exhausted and that is
+  the transmission event; it staying wide = the fifth failure.**
+- *(the gold reading, correctly discounted)* The cell flagged **gold −1.24% with equities = liquidation
+  signature.** ⚠️ **That data is stamped 7/28 — the Tuesday US close — and therefore PRE-DATES Wednesday's
+  Korean leg entirely.** It is evidence about Tuesday, not about tonight. **The referee has not actually ruled
+  yet.** Silver −35.2% from its 3-month high is the more interesting standing fact and is not explained by
+  anything in this note. [[gold-flows]].
+- *(what has NOT happened, which remains the strongest containment argument)* **Still no named casualty.** No
+  Korean securities house, no fund gate, no structured-product failure, no margin-lender rescue. **A −34%
+  month with repeated circuit breakers and zero institutional casualties on the wire is the single most
+  informative absence available** — and it is the thing to watch overnight, not the price.
+[[compression-thesis]], [[ai-financing-fragility]], [[weekly-momentum]], [[_calibration]]
