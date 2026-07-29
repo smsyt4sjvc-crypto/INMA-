@@ -1328,3 +1328,60 @@ evidence and evidence gets audited before it gets used.)*
   [[buildout-bottleneck-map]], [[ai-infra-allocation-map]].
 - *(unchanged and still the thing to watch)* **No named casualty.** Fifth session, repeated halts, a −34% month,
   and not one Korean securities house, fund gate or structured-product failure on the wire.
+
+##### 2026-07-28 ~9:22pm PT (Wed 13:22 KST) — ⛔ RETRACTION: "FUTURES ROSE DURING THE HALT" WAS A STALE-BAR ARTIFACT. THE SPREAD HAS NOW ACTUALLY COMPRESSED.
+### DATA — the correction, shown not asserted
+- Every futures contract's **"as of" stamp moved 7/28 → 7/29 between runs, and the implied prior-session base
+  moved with it:** NQ base 28,189.68 → **27,921.41**; YM 52,384.58 → **52,946.48**; ES 7,448.06 → **7,465.42**.
+  **The bar ROLLED.** The earlier readings were **Tuesday's completed session**; the current ones are the
+  **Wednesday overnight session.** The two are not comparable, and the +23.50 NQ / +14.00 YM I differenced as
+  "futures bid into the halt" were **intra-bar wiggles inside an already-closed Tuesday bar.**
+- **Tuesday's session (what the earlier numbers actually described): NQ −1.44%, YM +0.94%, spread −2.38 pts.**
+- **Wednesday overnight (live): NQ −0.75%, ES −0.24%, YM −0.22%, RTY −0.41%. ALL FOUR RED.
+  Spread −0.53 pts. The absorber (YM) FLIPPED SIGN, +0.94% → −0.22%.**
+- Asia deteriorating further: **Taiwan −9.24%** (from −8.66), **TSMC −3.73%** (from −3.07), **Nikkei −6.50%**
+  (from −6.12). **Hang Seng +1.79%, +13.2% month.** **USD/KRW −1.14% today, −6.5% month** (won strengthening,
+  accelerating).
+- **Referee on FRESH 7/29 data: Gold −0.38%, SILVER +0.54%.** (Previous "liquidation signature" was read off a
+  7/28-stamped bar.)
+- ⚠️ **KOSPI frozen at 5,531.56 for a THIRD run (~23 min) — but KOSDAQ MOVED (649.00 → 644.38).**
+- ⚠️ **WTI prints +4.18% on an implied base of 79.26, against Jake's 7:09pm cell showing 82.64 (+1.32%).
+  CL=F rolls monthly — this is almost certainly a FRONT-MONTH CONTRACT ROLL, not a 4% rally. DO NOT USE.**
+- ⚠️ **MU reverted to 900.20 "as of 2026-07-27"** — yfinance dropped the 7/28 bar. Use **820.53**.
+
+### THESIS (interpretation — NOT fact)
+- *(⛔ the retraction, stated plainly)* **"In the ten minutes Korea spent halted, all four US futures went UP"
+  is withdrawn.** I differenced a stale bar and built a mechanism on it ("the absorber bid into the halt").
+  The mechanism was invented; the data did not say it. **Second stale/artifact error in one hour** — the first
+  was the −18.12% two-day print. **Process note: when a cell reports an "as of" date, DIFF THE DATES BEFORE
+  DIFFERENCING THE VALUES.** Added to the tool.
+- *(★★ AND THE REGISTERED SIGNAL HAS NOW ACTUALLY FIRED — on better data, one message later)* The condition I
+  wrote was: *"the spread COMPRESSING toward zero while BOTH fall = absorber exhausted = that is the
+  transmission event."* **Spread −2.38 → −0.53, and YM went from +0.94% to −0.22%. That is the condition.**
+  My own cell threshold (`ym < −0.5 AND nq < −0.5`) failed to fire it and printed *"mixed; no clean read"* —
+  **fourth defect: the trigger is the absorber FLIPPING SIGN with the spread compressing, not an arbitrary
+  level.** Patched.
+- *(⚠️ THE ALTERNATIVE THAT DESERVES EQUAL WEIGHT — and I have already made this exact error once tonight)*
+  **Overnight futures sessions are structurally lower-dispersion than cash sessions**, because the flows that
+  CREATE dispersion — single-stock rotation, sector switching, earnings reactions — do not trade overnight.
+  **So "Tuesday cash spread −2.38 vs Wednesday overnight spread −0.53" may be measuring the session type, not
+  the market's mind.** This is the same class of error as reading a falling VIX as a judgment when it was
+  correlation arithmetic — **I caught that one three hours ago and am at risk of repeating it.**
+  **The clean test is Wednesday's OVERNIGHT spread against Tuesday's OVERNIGHT spread, which the vault does
+  not have.** Registered as the next data need.
+- *(★ and the magnitudes forbid the dramatic reading anyway)* **NQ −0.75% and YM −0.22% overnight is not a
+  rout.** "Absorber exhausted" is too strong for −0.22%. **The defensible statement: the absorber STOPPED
+  ABSORBING. That is a change in kind, and the magnitude so far is trivial.** Both halves matter.
+- *(★ THE REFEREE HAS NOW RULED, AND IT SAYS NOT A LIQUIDATION)* On fresh 7/29 data: **gold −0.38%, silver
+  +0.54%.** Precious metals are not being sold to meet calls. The earlier "liquidation signature" was read off
+  the 7/28 bar and is withdrawn. **A margin cascade sells what is liquid; silver closing green through an
+  Asian crash says the forced-selling channel is not open.** (Fifth minor cell defect: the −0.3% gold
+  threshold is too tight and ignores silver — now requires both.)
+- *(⚠️ downgrade my own halt claim to UNRESOLVED)* I called the frozen KOSPI a live circuit breaker. **KOSDAQ
+  moved between runs while KOSPI did not** — so it is not a market-wide halt. Either a KOSPI-specific halt
+  (each board has its own breakers) or a stale KOSPI feed. **~23 minutes exceeds the 20-minute CB1 window, so
+  a feed stall is now at least as likely.** Stated too confidently; unresolved.
+- *(what has NOT changed)* **Hang Seng +13.2% on the month with Korea −34%** remains the structural argument
+  that this is a chip-complex repricing rather than an Asian funding event. **The won is strengthening
+  FASTER (−6.5%), which continues to favour export-earnings over repatriation, i.e. channel (a) not firing.**
+  **Still no named casualty.**
