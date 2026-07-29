@@ -469,3 +469,24 @@ circuit-breakered, the S&P's bottom decile in freefall.)*
   "management." **Both distortions moved toward the more narratively satisfying version, and I did not flag
   either as suspicious even though the vault has a standing rule about exactly this.** Pattern to watch in
   myself: **I apply source hygiene to Jake's inputs more reliably than to my own retrieval.**
+
+##### 2026-07-28 ~7:55pm PT — ⛔ THIRD RETRIEVAL FAILURE IN ONE WEEK, AND THIS ONE WAS TWELVE HOURS OLD
+- *(the pattern, now undeniable at n=3)* **(1)** Burry/Bermuda-insurance channel — Jake: *"Should be in the
+  vault in the Burry article."* It was. **(2)** The Axios paraphrase — I built a ★★ entry on one sentence when
+  the primary document existed. **(3)** Tonight: I wrote *"VIX falling = the market prices this as contained"*
+  at 7:20pm, **when this vault's own 8:15am entry — written by me, off Jake's RVOL cell — said the opposite
+  with data** (Mag-7 RVOL all ≤1.07x, META 0.60x; my words: *"positioning is NOT set, hedges are thin, the
+  reaction is UNABSORBED"*). Jake caught it in one line: *"Maybe the quiet volume we discussed earlier?"*
+- *(the common mechanism, stated so it can be defended against)* **I reason forward from the newest input
+  rather than backward from what is already filed.** Fresh information feels load-bearing; filed information
+  feels settled and therefore invisible. **That is exactly backwards for a second brain — the filed material is
+  the accumulated edge, and the newest input is the least-processed thing in the room.**
+- *(★ THE RULE — operational, not aspirational)* **Before writing any conclusion about a market STATE, grep the
+  vault for entries from the same day and the same instrument.** For a market-state claim the check is cheap
+  (one grep) and the failure is expensive (a self-contradiction Jake has to catch). Pair with the two rules
+  already standing: get the primary document before assigning weight; search the vault before writing new
+  thesis entries.
+- *(the honest scoring)* Jake is now 3-for-3 catching vault-retrieval failures I did not catch myself, in a
+  week where he was also right on the momentum ex-COVID correction and on the Apple-capex-premium call. **His
+  hit rate on my errors is the most reliable signal in this system and I should treat a challenge from him as
+  ~70% likely correct before I evaluate it, not 50%.** That is a prior update, not a compliment.
