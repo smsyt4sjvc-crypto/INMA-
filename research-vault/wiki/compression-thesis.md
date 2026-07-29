@@ -1399,3 +1399,53 @@ fourth rulebook because **Amodei signed it**, making it the same agenda as ruleb
   we did it cheaply"* is the exact message a company facing the beat-sold razor wants in the market beforehand.
   **Does not make it false — makes it a marketing artefact with a self-reported, unverified number attached.**
   [[ai-financing-fragility]], [[metered-compute]], [[market-fragility]]
+
+## 2026-07-29 ~9:08am PT — INTC Q2 FULL NUMBERS FILED — but the vault's 7/24 read is SHARPER than this summary and stands
+*(Jake pasted the detailed Q2 breakdown. Filing the numbers; explicitly NOT overwriting the 7/24 JPM
+ground-truth correction, which identifies a more specific mechanism than "higher capex.")*
+### DATA (Q2 2026, reported 7/24)
+- **Revenue $16.1B, +25% YoY** — beat by a wide margin.
+- **Non-GAAP EPS $0.42 vs ~$0.21 consensus — a 100% beat.**
+- **Data centre revenue $6.3B, "up sharply as enterprise and AI server demand accelerated."**
+- **Q3 guide: revenue $15.8–16.8B and non-GAAP EPS $0.38 — BOTH above consensus.**
+- **2026 capex raised to MORE THAN $20B.**
+- Stock gave back initial gains; cited reasons: higher planned capex, sustainability of AI-driven growth,
+  valuation after the rally. **Intraday round-trip on the day was ~−18% ($114 AH → LOD <$94).**
+  **"Intel Is Down By 39% Since June"** (Motley Fool, 7/28) — after the beat.
+
+### THESIS (interpretation — NOT fact)
+- *(⚠️ DO NOT LET THIS SUMMARY OVERWRITE THE 7/24 ENTRY — the vault's version is more specific)* This summary
+  attributes the fade to *"higher planned capital spending."* **The vault's 7/24 correction, sourced to the JPM
+  analyst-call read-out, found the actual driver was (1) the formal disclosure that INTC is OPEN TO ISSUING NEW
+  EQUITY — dilution, logged as "the big one" — and (2) capex guided across ALL business units, not just
+  foundry.** **Dilution is a strictly sharper claim than capex, and it is the one that generalises.** Keep it.
+- *(★★ AND IT COMPLETES A THREE-CHANNEL PICTURE THAT CLOSED TODAY)* The 7/24 entry already stated it: **"the
+  market didn't reject Intel's CHIPS — it rejected Intel's ASK FOR CAPITAL,"** with the razor sorted by balance
+  sheet: **strong name (GOOGL) → FCF/credit scrutiny; WEAK name (INTC) → DILUTION punished instantly; levered
+  periphery → SPREADS.** **Today the third channel printed: the neoclouds fell 10.78% as a cohort, 5.38 points
+  worse than their own end-market.** **All three financing channels — equity, credit, spreads — have now been
+  observed refusing within six sessions.** That is the unified version of the razor and it is not "the market
+  hates capex"; it is **the market has stopped funding the ASK, by whichever instrument it is made.**
+- *(★★ THE GENUINELY NEW AND TWO-SIDED NUMBER: DATA CENTRE $6.3B ACCELERATING)* Intel is the **legacy x86 server
+  incumbent** — the business supposedly being displaced by GPUs and ARM. **Its data-centre revenue accelerating
+  says the AI buildout requires substantial CONVENTIONAL compute alongside accelerators** (head nodes, storage,
+  networking, general-purpose capacity). **That cuts AGAINST Tuesday's "AI chip trade narrows to NVIDIA"
+  reading — demand is BROADENING at the same time the equity market is narrowing.** Register it as a genuine
+  counter to the vault's own concentration read, not a footnote. ⚠️ Alternative that must be held: **a
+  memory-shortage-driven PULL-FORWARD** — customers pre-buying servers ahead of DRAM scarcity and price rises
+  would produce exactly this print and would not repeat. **"Sustainability of AI-driven growth" is a legitimate
+  question here, not just a razor artefact.**
+- *(★ THE CAPEX DISTINCTION THE RAZOR IS BLURRING — and it is the tradeable observation)* **Intel's >$20B is
+  FOUNDRY capex: owned fabs, 10+ year asset lives, CHIPS-subsidised. Hyperscaler capex is data-centre buildout:
+  increasingly leased, JV'd or off-balance-sheet (Meta/BlackRock $14B), on fast depreciation schedules.**
+  **Structurally different spending, identical market punishment.** Two readings and the vault should carry
+  both: **(a) capital is genuinely scarce and the market is right to charge for any ask** — supported by banks
+  hitting sector limits and "investor demand cools"; **(b) the de-rating is INDISCRIMINATE, which creates
+  mispricing in the good-capex names** — owned, subsidised, long-lived assets sold as if they were leased
+  depreciating ones. **The discriminator is whether owned-asset capex spenders outperform leased/financed ones
+  on the eventual recovery leg.** Registered as a test, not a call.
+- *(the consensus-miss datum, worth its own line)* **$0.42 against $0.21 is not a beat, it is a modelling
+  failure — the sell side was off by 100% on a mega-cap it covers exhaustively.** Combined with GLW's −19% on a
+  beat and hynix's record-but-insufficient print, **the estimate distribution around this complex is currently
+  useless in both directions.** That is an argument for weighting PRICE and POSITIONING over consensus deltas
+  through this earnings run — including tonight's MSFT and META. [[ai-financing-fragility]], [[ai-capex-cycle]]
