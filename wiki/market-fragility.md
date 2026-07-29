@@ -1525,3 +1525,58 @@ evidence and evidence gets audited before it gets used.)*
 - *(what is still unfired)* **No named casualty.** Metals not confirming liquidation. **FOMC in ~2h20m**, and
   set #6's kill switch #2 (dovish surprise → violent momentum-basket bounce → my three winning spread calls all
   reverse) remains the single largest risk to the position the vault has been building all week.
+
+##### 2026-07-29 ~9:00am PT — ★★★ THE KOREA MECHANISM IS FULLY NAMED: 3x SINGLE-STOCK LEVERAGED ETFs BOUGHT WITH MORTGAGE LOANS
+### DATA (ZeroHedge feed, ~1-4h before paste)
+- **"80% down in under 2 months. So many bought this 3x levered ETF WITH MORTGAGE LOANS (no, really)."**
+- **"South Korea's finance minister APOLOGIZED on Wednesday after single-stock leveraged ETFs were introduced
+  without careful consideration."**
+- **"From Momentum To Mayhem: Korean 'PLUNGE PROTECTORS' MEET As Leverage Unwind Sparks Chaos."**
+- **"Historic Carnage: WORST DAY FOR HEDGE FUNDS SINCE THE COVID CRASH."**
+- **Goldman traders: "'RECORD SELLING' In Semis & A 'VIOLENT DERISKING'."**
+- **The Market Ear: "One of the FASTEST AI deleveraging events in recent memory has RESET POSITIONING, CRUSHED
+  MOMENTUM and pushed SOX back to its 100-DAY MOVING AVERAGE. Is it finally becoming dangerous to stay
+  bearish?"** And: *"Six weeks. That's all it took for one of the world's hottest AI trades to become one of
+  its ugliest unwinds."*
+- **JPMorgan warns the next round of selling will hit INDEXES beyond just single stocks.**
+- **ZH on JPM: "JPM saying the Korea crash is almost over. They also said it was 'almost over' 2000 KOSPI
+  points higher."**
+- Premarket Mag 7 were ALL modestly GREEN (GOOGL +0.6, META +0.3, AAPL +0.2, MSFT +0.2, TSLA +0.2, NVDA +0.1,
+  AMZN +0.1) — **and all were RED by 8:34am PT.**
+
+### THESIS (interpretation — NOT fact)
+- *(★★★ THE KOREA QUESTION IS CLOSED, and the mechanism explains the currency)* The vault spent last night
+  working out why the won STRENGTHENED 6.7% during a −34% month, holding two readings (repatriation vs export
+  earnings). **The answer is neither, and it is better: the selling was RETAIL MARGIN LIQUIDATION OF 3x
+  SINGLE-STOCK LEVERAGED ETFs FUNDED BY DOMESTIC MORTGAGE BORROWING.** **Won-denominated leverage against
+  won-denominated collateral, unwound domestically. It never touches the FX market in either direction.**
+  That is the complete explanation for a −34% index and a +6.7% currency, and it definitively shuts channel
+  (a): **there is no forced foreign selling because the leverage was never foreign.** Combined with Bloomberg's
+  "two-day burst of retail selling," the decomposition work is finished. **A finance minister apologising for
+  having AUTHORISED the products is the regulatory confirmation.**
+- *(★★ AND IT DOWNGRADES THE CONTAGION TAIL SUBSTANTIALLY — say so even though it costs the bear case)*
+  A leveraged-product blowup in a single jurisdiction, funded by domestic household credit, with the government
+  convening plunge protectors, is **contained by construction.** The transmissible version required foreign
+  leverage, cross-border funding or a levered intermediary. **None is present.** The residual risk is now
+  Korean HOUSEHOLD balance sheets and Korean banks that wrote the mortgages — **a domestic credit story with a
+  long fuse, not a global markets story with a short one.** [[consumption-vs-investment-crux]].
+- *(★★★ THE TACTICAL POINT THAT OUTRANKS ALL OF IT: MY WINNING TRADE IS AT MAXIMUM RISK RIGHT NOW)* **Worst day
+  for hedge funds since the COVID crash. Record selling in semis. Violent derisking. Positioning reset.
+  Momentum crushed. SOX back to its 100-day moving average.** **That is the exact configuration in which
+  set #6's kill switch #2 fires — a dovish FOMC into washed-out books produces a violent momentum-basket
+  bounce, and all three of my spread calls (software over semis +8.56pts, payers over sellers +2.54, staples
+  over tech +2.43) reverse at once.** The Market Ear is asking the right question — *"is it finally becoming
+  dangerous to stay bearish?"* — and the honest answer from the vault's own set-#4 lesson is: **when
+  positioning is this washed out, the pain trade is UP.** I got this exact setup wrong on 7/27 by weighting
+  positioning over the tape; **the symmetric error now is weighting the tape over positioning.** FOMC is in
+  ~2 hours.
+- *(★ JPM appears on BOTH sides of the same tape, which is the source-hygiene rule earning its keep)* **JPM
+  warns the next selling hits indexes beyond single stocks** (bearish, and it happens to be my registered flip
+  condition) **while JPM also says the Korea crash is almost over** (bullish) — **after saying that 2,000 KOSPI
+  points higher.** The vault's standing JPM rule: **treat sell-side directional calls as sentiment data, not
+  evidence.** The index-contagion warning coincides with my own thesis, which is exactly when a
+  source-correlation check matters most. **It does not add independent weight to the flip condition.**
+- *(the intraday shape is its own datum)* **Mag 7 opened green across the board and were red by 8:34.** The
+  overnight bid did not survive the cash session. **Third consecutive session where an early bid was sold** —
+  which is the opposite of the dip-buy reflex the vault has been base-rating since Aug-24, and worth watching
+  as a possible regime change in that base rate. [[dip-buying-base-rates]].

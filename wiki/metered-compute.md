@@ -1424,3 +1424,36 @@ are useless." He is right, and it reframes the document more than anything else 
 - *(the falsifiable version)* If this is real, it shows up as **frontier-tier API revenue growth decelerating
   faster than total token volume**, and as enterprise contracts written on routed/open stacks. **MSFT tonight
   and AMZN Thursday are the first places to look** — Azure/AWS AI revenue mix commentary, not headline growth.
+
+##### 2026-07-29 ~9:05am PT — ⛔ ZUCKERBERG BREAKS MY BUYERS-vs-SELLERS FRAME. THE AXIS IS WHO MONETISES TOKENS.
+### DATA (FT interview via ZeroHedge, ~4h before paste)
+- **Zuckerberg: the US administration SHOULD NOT BLOCK CHINESE MODELS to gain an edge in the AI arms race.**
+- Follows **Huang defending open-weight models** the prior day, and **NVDA + MSFT backing open weights in the
+  US policy fight.** Same tape: **Moonshot AI passes its funding goal at a $35B valuation.**
+- Note: **Meta signed the Pacing-the-Frontier letter via Shengjia Zhao (Chief Scientist, Meta AI) and Dawn Song
+  (VP AI Research) — Zuckerberg did NOT sign.**
+
+### THESIS (interpretation — NOT fact)
+- *(⛔ CORRECTION TO WHAT I FILED 90 MINUTES AGO)* I wrote the regulatory map as **"compute BUYERS want pacing,
+  the compute SELLER wants deployment surface."* **Zuckerberg is a compute buyer — one of the largest — and he
+  is arguing AGAINST blocking Chinese models.** The buyer/seller axis is wrong.
+- *(★★ THE CORRECT AXIS: does your business monetise MODEL ACCESS, or something else?)*
+  **SELL TOKENS — want pacing, chokepoints, restrictions:** OpenAI, Anthropic, Google DeepMind. Their revenue
+  IS the price of frontier access; anything that commoditises models destroys their pricing power, and a
+  "pacing" regime freezes the competitive order in favour of incumbents.
+  **MONETISE SOMETHING ELSE — want models cheap and abundant:** **NVDA** (sells hardware; wants maximum
+  deployment), **Meta** (sells ads; models are a cost line), **Microsoft** (sells cloud and seats; just shipped
+  a harness beating a frontier model with cheap agents), **AT&T** (sells connectivity; routing to open models
+  is margin). **Everyone who does not sell tokens wants tokens cheap.**
+  **This is why Meta's CHIEF SCIENTISTS signed the pacing letter while its CEO argues the opposite** — the
+  researchers' concern is real and the corporation's economics point the other way. **It is also why Amodei is
+  the only frontier CEO who signed.**
+- *(★ what it means for the compression thesis)* **The coalition arguing for cheap, open, commoditised models
+  now includes the largest chipmaker, the largest cloud, one of the largest advertisers and a Fortune-20
+  telco.** Against them: three frontier labs whose revenue depends on the opposite. **That is not a fair fight
+  on economic weight, and it is the strongest structural argument the vault has for per-token price
+  compression continuing regardless of what happens to capability.** [[compression-thesis]].
+- *(⚠️ the steelman)* Zuckerberg's position is also straightforwardly self-serving in a second way: **Meta's
+  Llama strategy depends on open weights being legitimate**, and blocking Chinese open models would invite
+  scrutiny of open weights generally. **His argument for openness is an argument for his own distribution.**
+  Same discount applied to Huang. **Motives do not change the coalition arithmetic, which is what matters.**
