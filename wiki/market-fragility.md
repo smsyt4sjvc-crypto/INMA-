@@ -998,3 +998,39 @@ Source: `raw/2026-07-27-market-events-week.csv` (Jake's event calendar).
 > What survives from that addendum: **the SPEED observation** (near-vertical vs 2016's year-long grind and
 > 2020-21's stepped build) and **the base rate** (both prior episodes were leadership changes) — those were the
 > parts worth having.
+
+##### 2026-07-28 close ~7:20pm PT — ★★★ THE VIX TOLD YOU WHAT THIS IS: VOL FELL WHILE THE EPICENTER BLED
+### DATA (Jake's Tuesday close cell + collector CSV, archived)
+- **Dow +537 pts. SPX 7,428.78 +0.21% (GREEN close). Nasdaq-100 slid INTO correction. SOXX −4.02%.
+  SMH −3.11%. XLK −1.51%.** IWM +0.19%.
+- **VIX 18.21, DOWN 2.46%.**
+- Up on the day: **NOW +4.84%, NFLX +2.26%, GOOGL +2.06%, LLY +2.01%, MSFT +0.99%, AAPL +0.76%.**
+- Down: **MU −7.28%, NBIS −8.65%, IREN −5.93%, WULF −5.00%, CRWV −4.69%, VG −4.56%, APLD −2.87%.**
+- Overnight/Asia (Wed session): **KOSPI −4.65%, Taiwan −2.85%, Nikkei −1.21%** (Japan also handling a
+  **quake with 13+ dead**; TSMC's Japan plant "gradually resuming").
+- Headline framing across sources: *"Dow Ends Higher For Third Straight Session As Oil Cools, Nasdaq Slides On
+  Chipmaker Rout"*; *"Crypto stocks rally thanks to rotation from AI infrastructure."*
+
+### THESIS (interpretation — NOT fact)
+- *(★★★ the single most decision-relevant fact of the session)* **VIX FELL 2.5% on a day the Nasdaq-100 entered
+  correction and the semiconductor complex dropped 4%.** Vol does not fall during liquidations. **This is the
+  market pricing a SECTOR problem, not a SYSTEMIC one** — and it is the strongest independent confirmation yet
+  of Monday's reframe (**momentum factor unwind**, GSPRHIMO −40.98%) over the "AI-complex liquidation" reading
+  the vault started the week with. **Jake's VIX-pop checkpoint did not merely fail to fire — it went backwards.**
+- *(★★ what this does to the fragility read, stated as a cost)* A dispersion regime with a falling VIX is
+  **less** fragile than a correlated one, not more: the index has an absorber (Dow +537 on blue-chip earnings),
+  the losses are contained to an identified group, and hedging demand is falling. **The honest version: the
+  vault's fragility framing has been running hotter than the tape all week, and Tuesday is the third session in
+  a row where the index refused to transmit.** Per WARNING-vs-TRIGGER: the concentration/narrowness STATE is
+  unchanged, and no TRIGGER has fired at the index level. **Downgrade the near-term systemic read; keep the
+  sector read.**
+- *(★ the ONE thing that would flip it, named in advance so it is falsifiable)* **The absorber is blue-chip
+  earnings and the rotation destination is software/staples/health.** If MSFT and META print Wednesday night and
+  the DESTINATION sells too — i.e. the rotation runs out of somewhere to go — then the dispersion collapses into
+  correlation and the VIX repriceS in one session. **Watch the destination, not the victim.** That is the
+  discriminator for Thursday, and it is more informative than anything in the semis tape.
+- *(the neocloud tape is the exception, and it is the financing channel not the equity channel)* **NBIS −8.65,
+  IREN −5.93, WULF −5.00, CRWV −4.69** on a green index day. The neoclouds are levered to DC financing, not to
+  chip demand, and they are bleeding independently of the index — see the Hong Kong bank-limit datum in
+  [[ai-financing-fragility]]. **If the systemic version of this ever arrives, it arrives here first, not in
+  SOXX.** [[compression-thesis]], [[ai-financing-fragility]], [[weekly-momentum]]

@@ -2162,3 +2162,50 @@ shortage, and the tape isn't saying that despite the numbers literally saying it
   PCE reads Thursday ([[new-economy-regime]]). (4) **Strategic**: 311M is the lowest in decades-scale terms
   during an active Gulf war — the option value of the reserve is being spent precisely when the tail risk is
   highest. [[war-board]], [[oil-value-chain]], [[power-not-petroleum]].
+
+##### 2026-07-28 ~7:20pm PT — ★★ THE PHYSICAL/PAPER SPLIT IS NOW BEING WRITTEN BY THE TRADE PRESS, NOT JUST BY US
+### DATA (collector CSV 7/29 02:09 UTC, archived)
+- **OilPrice.com: "Refined Fuels, NOT Crude, Are Driving the Oil Market Crunch."**
+- **OilPrice.com: "Oil Prices Ignore the Warning Signs in Physical Markets."**
+- **OilPrice.com: "US Crude Oil Inventories BUILD AGAIN Despite Hormuz Disruption."**
+- **MarketWatch: "Saudi Arabia has a new, and pricier, workaround to export its oil."**
+- **EnergyNow: "Oil Tankers Steer Clear of Hormuz Ahead of US BLOCKADE."** Reuters: **Bab el-Mandeb shipping
+  RISES** on resolution hopes; Times of Israel: **Red Sea tanker traffic rises.**
+- **Erdogan: Turkey could take 1M bpd from an Iraq energy deal**; Iraq's new PM in Turkey on pipeline/security.
+- **WSJ: "Iran REJECTS Omani Proposal to Share Strait of Hormuz, DEMANDS MORE CONTROL."** NYT: *"As U.S. Pauses
+  Strikes, Iran Is No Rush to Resume Cease-Fire Talks."*
+- **NYT: Houthis claim a strike on ANOTHER Saudi oil tanker.** CENTCOM: IRGC ballistic missiles at US forces,
+  **all intercepted**; **US + Saudi strikes on Iran-backed militias in Iraq.**
+- Tape: WTI settled at a **2-week low (traded below $80, −4% intraday)** then rebounded on the strikes;
+  **close 82.64 (+1.32%), Brent 87.69 (+0.58%)** — both **below the $90 marker.** XLE −1.41%.
+
+### THESIS (interpretation — NOT fact)
+- *(★★ the vault's curve work is now the consensus trade-press read, which is a downgrade to its EDGE and an
+  upgrade to its CORRECTNESS)* We built the crude-curve cell to resolve the Hormuz absorption paradox and it
+  inverted the hypothesis: **steep deferred backwardation said the shortage was real and FLAT PRICE was the
+  misleading instrument.** OilPrice is now printing both halves — *"refined fuels, not crude"* and *"prices
+  ignore the warning signs in physical markets."* **Being right and early is worth something; being right and
+  CROWDED is worth less. Mark the edge down, not the thesis.** The tradeable expression stays where it was:
+  **cracks/products, not flat-price crude.** [[oil-value-chain]].
+- *(★ INVENTORIES BUILDING DESPITE ZERO HORMUZ TRANSITS — the absorption answer holds and is now dated)* This
+  is the third independent confirmation of the SPR-absorber mechanism (104M bbl / −25% in 17 weeks, ~874k bpd
+  avg, peak 1.42M bpd, ~12 weeks to 250M). **Builds during a closure are not evidence there is no shortage —
+  they are evidence someone is paying to hide it, and the payer has a depletion clock.** The clock, not the
+  price, is the falsifiable object. Watch weekly SPR: the tell is the week the release rate *slows*.
+- *(★★ IRAN REJECTING THE OMANI PROPOSAL AND DEMANDING MORE CONTROL IS THE ESCALATION DATUM, AND OIL IGNORED
+  IT)* Sequence Tuesday: crude −4% below $80 on de-escalation hope → Iran fires ballistic missiles at US forces
+  → US+Saudi strike Iraq → Iran rejects the Hormuz-sharing proposal and demands MORE control → **crude closes
+  +1.3% and Brent stays under $90.** **The market is no longer paying for war risk in flat price.** Two
+  readings and the vault should hold both: **(a) correct** — re-routing (Turkey/Iraq 1M bpd, Saudi's pricier
+  workaround, rising Bab el-Mandeb and Red Sea traffic) plus the SPR absorber genuinely neutralise the barrel
+  math; **(b) the most dangerous complacency in the tape** — the physical market is screaming (zero transits,
+  Jazan down to ~Aug 15, tankers avoiding Hormuz ahead of a *blockade*) and paper is deaf. **Reading (a) is
+  supported by the re-routing datapoints; reading (b) is supported by the curve.** They are not reconcilable
+  in flat price — **which is exactly why the position belongs in cracks and calendars, where both readings pay
+  the same way.**
+- *(the "US blockade" phrase is new and unverified — flag it)* EnergyNow refers to tankers steering clear
+  *"ahead of US blockade."* **The vault has no primary confirmation that a US blockade of Hormuz has been
+  declared or is imminent.** ⚠️ **Do not use until sourced.** If real, it is a first-order change: a blockade
+  converts an Iranian threat into an American action and puts the US, not Iran, in control of the chokepoint's
+  closure — with the opposite implication for who bears the escalation cost. [[war/war-board]],
+  [[demand-destruction]], [[oil-value-chain]].

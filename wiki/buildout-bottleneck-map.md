@@ -414,3 +414,42 @@ Analysis below; descriptive, not advisory.)*
   doesn't loosen because the price fell. TTMI −12.4% (the L3 name flagged "best US access") is the one worth a
   fresh health screen when the dust settles — it has never been screened. [[memory-regime-question]],
   [[market-fragility]], [[cluster-shortlist-workup]].
+
+##### 2026-07-28 ~7:20pm PT — ★★★ A NEW HARD CONSTRAINT: THE GRID IS NOW RATIONING DATA CENTRES, NOT JUST PRICING THEM
+### DATA (collector CSV 7/29 02:09 UTC; Reuters + TechCrunch + E&E/POLITICO + Firstpost, all 7/28)
+- **Reuters: "Largest US power grid plans to cover widening electricity shortages as data center demand swells."**
+- **TechCrunch / Firstpost: "Data centers may face temporary power CUTS to prevent blackouts on largest US
+  grid" / "PJM to Cut Power to Large Data Centers During Grid Strain."**
+- **E&E News by POLITICO: "PJM proposes data center registry WITH TEETH."**
+- **Data Center Dynamics: "Israeli Electrical Authority FREEZES grid processing of new data centers for 140
+  days."**
+- Bloomberg (same tape): **"Hong Kong Data Center Loan Sale Shows Banks Hitting Sector Limits."**
+
+### THESIS (interpretation — NOT fact)
+- *(★★★ this is a CATEGORY change in the bottleneck, and the vault should say so plainly)* Every power
+  constraint the vault has logged to date was a **price/queue** constraint: interconnection backlogs, capacity
+  auction clears, LTAs, turbine lead times — all of which a well-capitalised hyperscaler solves with money and
+  patience. **PJM proposing to CURTAIL large data centres during strain, plus a registry "with teeth," is a
+  RATIONING constraint: it caps utilisation, not cost.** Money does not buy through it. **Israel freezing new
+  data-centre grid processing for 140 days is the same instrument in its bluntest form.** Per WARNING-vs-
+  TRIGGER: the "grid is tight" state has been logged for a year and timed nothing; **a curtailment tariff and a
+  140-day freeze are DATED, MECHANICAL and FALSIFIABLE — they are trigger-class.**
+- *(★★ why it hits the financial model harder than the physical one)* A data centre financed on a
+  take-or-pay/contracted-capacity basis is underwritten on **uptime**. **Interruptible power breaks the
+  revenue certainty the debt was sized against** — it converts a utility-like cash flow into a weather- and
+  peak-dependent one. That is a **credit** event mechanism, not a capex one, and it lands on precisely the
+  cohort already bleeding: **NBIS −8.65, IREN −5.93, WULF −5.00, CRWV −4.69 on a GREEN index day.** Pair it
+  with banks hitting sector limits on DC loans and the two constraints compound: **harder to finance AND less
+  certain to run.** [[ai-financing-fragility]], [[power-not-petroleum]].
+- *(★ the pyramid consequence — where value moves if this holds)* If grid access becomes the binding, rationed
+  input, then **behind-the-meter generation, on-site fuel cells and firm power stop being an efficiency story
+  and become an ACCESS story** — the difference between building and not building. Two same-day datapoints
+  consistent with that: **Bloom Energy sales topping $1B** (*"AI proves a validation moment for fuel-cell
+  technology"*) and the standing nuclear-startup funding wave. **Registered as a testable rotation: firm/
+  behind-the-meter power (BE, GEV, VST-type, SMR names) should OUTPERFORM grid-dependent DC operators
+  (neoclouds) if the curtailment path advances.** Tuesday's tape is already consistent — but one session is
+  not evidence. [[power-scarcity-equities]], [[nuclear]], [[oil-value-chain]].
+- *(⚠️ the discipline on this — it is a PROPOSAL)* PJM has **proposed**; it has not implemented. Israel's
+  freeze is 140 days in one small market. **The honest weight: a real new constraint class has appeared in the
+  regulatory record of the largest US grid, which is different from a constraint being imposed.** Do not trade
+  the headline; watch for the FERC filing and the first curtailment event. **That is the dated trigger.**
