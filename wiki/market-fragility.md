@@ -1660,3 +1660,28 @@ evidence and evidence gets audited before it gets used.)*
   VIX read explains it and mine did not:** a market with an event premium does not travel in narrow bands.
 - *(the level, noted without comment)* **Jake's 733 add is now below entry** at 731.95; the day's low of 731.06
   broke through it. Sizing and execution are his — recorded as a fact for [[portfolio-state]], not assessed.
+
+##### 2026-07-29 ~12:45pm PT — ⛔ PRECISION FIX + A CAVEAT THAT WEAKENS MY OWN REVISION (Jake's catch)
+*(Jake: "It's not closed just yet. 12:44. 16 minutes still. Closing volume coming in.")*
+- *(⛔ the error)* The entry above and my response both say **"it CLOSED on its lows."** **The session had not
+  closed.** At the time of writing SPY was **731.95 at 12:41pm PT with ~19 minutes and the closing auction
+  still to come.** **Stating an unfinished session as a completed fact is exactly the failure the DATA/THESIS
+  firewall exists to prevent** — an intraday print is not a close, and the difference is the whole point of
+  the marker. **Corrected: the accurate statement is "trading NEAR the lows with the auction pending."**
+- *(★★ AND THE CAVEAT MATTERS MORE THAN THE WORDING, because it undercuts the revision I just made)* I
+  downgraded the semis gap call from 55/45 up to 45/55 down on the reasoning: *"maximally good news into
+  maximally washed-out positioning produced new lows."* **But a material share of last-hour selling before TWO
+  MEGA-CAP EARNINGS PRINTS is MECHANICAL EVENT-RISK REDUCTION, not a directional view.** Funds square up to
+  avoid a binary overnight; that flow is non-informational by construction. **Reading it as "the market is
+  bearish" is the same family of error as reading a futures base change as a market move — a mechanical effect
+  interpreted as a judgment.** **My revision therefore rests on weaker evidence than I presented it with.**
+  **Holding the 45/55 lean but downgrading my confidence in the REASON for it** — the honest version is that
+  leg (2) is *questioned*, not *broken*, until the market has traded a session without a binary event in front
+  of it.
+- *(what the closing auction actually discriminates, and it is worth watching)* On a day carrying **the largest
+  3-day de-gross on GS Prime records since Nov '22**, the market-on-close imbalance answers a specific
+  question: **was the de-grossing executed intraday, or is it still being worked?** **An auction that takes
+  price BELOW 731.06 on size = the de-gross is still running and has more to do. An auction that lifts price
+  off the low = the day's selling was event-risk positioning and the de-gross was already done.** **That
+  distinction is the single most useful thing available in the next 16 minutes, and it bears directly on
+  tomorrow's gap.**
