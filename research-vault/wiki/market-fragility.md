@@ -1385,3 +1385,58 @@ evidence and evidence gets audited before it gets used.)*
   that this is a chip-complex repricing rather than an Asian funding event. **The won is strengthening
   FASTER (−6.5%), which continues to favour export-earnings over repatriation, i.e. channel (a) not firing.**
   **Still no named casualty.**
+
+##### 2026-07-28 ~9:29pm PT — ★★ FIRST CLEAN EQUAL-BASE READ: DISPERSION **WIDENED**, AND THE KOSPI HALT CLEARED LOWER
+### DATA (two `asia_stress_cell.py` runs, **bases identical to <0.01% — this diff is real, not a re-basing**)
+- **In-window futures moves at equal base:** NQ **−0.208%**, ES −0.054%, RTY −0.041%, **YM +0.002% (FLAT).**
+  **NQ underperformed YM by 0.210 pts.**
+- **NQ-minus-YM spread −0.53 → −0.75 = WIDENED.** Session ratio: **NQ is falling 4.5x as hard as YM**
+  (NQ −0.96% vs YM −0.21% off identical bases).
+- **KOSPI UNFROZE: 5,531.56 (three runs) → 5,434.45, i.e. it resumed −1.76% BELOW the frozen print.**
+  Against Tuesday's real close of 6,023.66 the **true 1-day move is now −9.78%** (from −8.17%).
+  BASE column confirms 6,755.75 = Monday's close, so the printed −19.56% remains the 2-day figure.
+- **SK hynix 1,312,000, −15.35% TODAY** (bar gap 1d — this one IS a genuine single-day move), **−50.5% month,
+  −55.1% from high.** **Samsung Elec 198,200 — broke below 200,000 — −9.91% today, −40.7% month.**
+  TSMC 2,190 −3.95%. Taiwan −9.48%.
+- **USD/KRW −1.29% today, −6.7% month.** Sequence across four runs: **−0.86 → −0.84 → −1.14 → −1.29.
+  The won is strengthening and ACCELERATING.**
+- **Gold −0.40%, Silver +0.47%.** **Hang Seng +1.79%, +13.2% month.**
+- **WTI 82.49, +4.08%, BASE 79.26.**
+
+### THESIS (interpretation — NOT fact)
+- *(★★ THE CORE READ, and it reverses the direction of my last two claims)* **At equal base, over the
+  observation window, the Dow future did not move at all while the Nasdaq future fell 0.21%.** The spread
+  **widened** from −0.53 to −0.75. **The absorber is not exhausted — it is working, and working harder.**
+  Both prior claims (bid-into-the-halt, then absorber-flipped) were base artifacts; **this is the first
+  measurement of the night with a clean denominator, and it says dispersion is INTENSIFYING while Korea gets
+  worse.**
+- *(⛔ sixth cell defect, patched)* The cell still printed *"ABSORBER STOPPED ABSORBING"* because my condition
+  keyed on **YM's SIGN.** **YM −0.21% against NQ −0.96% is a 4.5x ratio — that is the rotation working, not
+  breaking.** Rewritten: the transmission event is **the RATIO collapsing toward 1.0** (everything falling
+  together at similar magnitude), never YM merely printing negative. **Third time tonight a threshold I wrote
+  produced a verdict the underlying numbers contradict — the pattern is that I encode thresholds on LEVELS
+  when the information is in RELATIONSHIPS.**
+- *(★ the halt question is RESOLVED — and it resolved bearishly)* KOSPI was genuinely stalled at 5,531.56 and
+  has now **resumed 1.76% lower.** A halt that clears LOWER is the sell pressure surviving the pause. **True
+  session move −9.78% and still extending.** Korea's own circuit breakers are not finding a clearing price.
+- *(★★ SK HYNIX −15.35% IN A SINGLE SESSION, and this one is not an artifact)* The bar-gap flag reads 1d, so
+  the base is Tuesday's close. **The company posted +1,242% net profit on more than tripled revenue and its
+  stock fell 15% the next day, taking the month to −50.5%.** Samsung breaking 200,000 confirms it is not a
+  single-name story. **This is the RECORD-BUT-INSUFFICIENT category at its terminal extreme.**
+- *(★ the won's ACCELERATION is now the most interesting unexplained series in the vault)* Four consecutive
+  readings strengthening into a deepening crash: −0.86 → −0.84 → −1.14 → −1.29, −6.7% on the month. **A
+  currency appreciating almost 7% while its equity market loses a third of its value is not a capital-flight
+  pattern under any reading.** It continues to favour **export-earnings conversion** — and if that is right,
+  **channel (a) is not merely quiet, it is structurally shut.** ⚠️ Repatriation remains the live alternative
+  and produces the same FX sign; the discriminator is still foreign net-selling of US equities, which the
+  vault cannot observe directly.
+- *(⛔ CORRECTING MY OWN "DO NOT USE" ON WTI — I over-flagged it)* I called **WTI +4.08% "almost certainly a
+  contract roll."** The BASE column now shows **79.26**, and Tuesday's own headline tape corroborates it:
+  *"WTI Plunges 4% Below $80 Mark as Mideast Tensions Ease"* and *"Global oil prices settle at a 2-week low."*
+  **A 79.26 settle is exactly what those headlines describe, so the +4.08% rebound off the IRGC missile
+  attack and the US+Saudi strikes in Iraq is probably REAL.** Upgrade from *do-not-use* to **moderate
+  confidence, real.** Relevant to set #6, which called **WTI +2.5% at 68% up** — that call is currently
+  working and above its point estimate, inside its −3% to +8% range. ⚠️ Residual: it conflicts with Jake's
+  7:09pm cell (82.64, +1.32%, implied base 81.56); do not pin the exact number until the cash settle.
+- *(the referee, third consecutive reading)* **Gold −0.40%, silver +0.47%.** Metals still refuse to confirm
+  forced selling. **Still no named casualty.**
