@@ -1473,3 +1473,43 @@ THESIS (interpretation):
   omission did not cost me on the outcome — the hold happened.** **But three dissents show the tail was real
   and closer than "consensus hold" conveyed.** The process fix already registered stands: **run the collector
   BEFORE writing the nightly set.**
+
+##### 2026-07-29 ~11:15am PT — ★★ CURVE STEEPENS POST-FOMC — and IF it is the bear variety, it is the macro price of the financing refusal
+### DATA
+- **"TREASURY YIELD CURVE STEEPENS AFTER FED RATE DECISION"** (Jake paste, immediately post-statement).
+- Pre-FOMC reference (9:06am PT): **10Y 4.64%, +0.85% on the day; TLT −0.30%; gold +1.19%; DXY 101.44.**
+- ⚠️ **THE LEG BREAKDOWN IS NOT IN HAND.** 2s/10s/30s moves unknown. **The read below is CONDITIONAL and
+  labelled as such — do not use until the legs are checked.**
+
+### THESIS (interpretation — NOT fact)
+- *(the fork, stated before anything is concluded)* **BULL steepening** (2Y falls faster than 10Y/30Y) = the
+  market taking the hold as dovish-relative-to-committee and pricing the hike tail out. Ordinary relief, modest
+  information. **BEAR steepening** (10Y/30Y rise faster than 2Y, or 2Y falls while the long end RISES) = **the
+  market pricing that this Fed will NOT contain an oil-driven inflation impulse.** **The second is the one that
+  matters, and the setup argues for it: a chair who had three votes for a hike in front of him and held
+  anyway reads as inflation-TOLERANT, which is a term-premium event, not a rate event.**
+- *(★★ IF BEAR — it is the macro price of the exact refusal this vault has documented all week)* The financing
+  thread has been: **banks hitting DC sector limits, "hyperscaler debt binge pushes yields up as investor
+  demand cools," Intel punished for an equity ASK, the Meta/BlackRock off-balance-sheet JV, neoclouds −10.78%
+  in a session.** **A steepening long end is the price of long-dated capital going up — which is the same
+  event, expressed in rates instead of in spreads.** **The market rejected Intel's ask; a steeper curve makes
+  every ask more expensive, everywhere, simultaneously.** [[ai-financing-fragility]].
+- *(★★★ AND IT REFINES THE ROTATION'S DISCRIMINATOR — the axis is CAPEX INTENSITY, not duration)* The lazy
+  frame is "steepening hurts long-duration equities," **but that does not survive contact with the tape: NOW
+  is +5.42% today and it is a high-multiple software name.** **The axis that DOES fit is capital intensity.**
+  **Semis, memory and neoclouds must BUILD their assets and must FINANCE the build — a higher long rate hits
+  them directly. Software is capital-light with high free cash flow and does not need to borrow, so a steeper
+  curve is nearly irrelevant to it.** **That reframes the week's rotation from a positioning story into a
+  MACRO story with a rates mechanism underneath it** — and it means my three spread calls
+  (software/payers/staples over semis) would have a fundamental driver, not just a de-grossing one.
+  ⚠️ **Conditional on the bear reading. If it is bull steepening, this paragraph does not apply.**
+- *(★ the cross-check that already fits)* **Gold +1.19% while equities fell** is an inflation/debasement print,
+  not a growth print. **Bear steepening + gold bid + oil through $90 + three hike dissents is one coherent
+  configuration**, and it is the [[new-economy-regime]] thesis rather than the recession thesis.
+- *(★ the cohort most exposed, named)* **Neoclouds — the most levered, longest-dated, most capex-intensive
+  cohort in the vault — fell 10.78% today.** A steepening curve is the single most hostile rate environment
+  for them. **If the steepening persists, today's neocloud move is a repricing, not an overshoot.**
+- *(WHAT TO CHECK, because the whole read turns on it)* **2Y vs 10Y vs 30Y.**
+  **(a) 2Y DOWN + 10Y/30Y UP** → credibility / inflation-tolerance steepening. Everything above applies.
+  **(b) 2Y flat-to-up, 30Y up MORE** → term-premium/supply steepening. Same direction, weaker signal.
+  **(c) 2Y down hard, 10Y roughly flat** → pure dovish relief. Least interesting; ignore the above.
