@@ -928,3 +928,41 @@ Source: `raw/2026-07-27-market-events-week.csv` (Jake's event calendar).
   flush (does the order book confirm the scarcity thesis while the stock trades like a derivative?). **PCE
   Thursday** = the memory-passthrough/inflation-loop thread's first data test, one day after the Fed decides.
   [[compression-thesis]], [[ai-infra-allocation-map]], [[new-economy-regime]].
+
+## 2026-07-28 ~6:15pm PT — ★ THE WEEK, RENAMED: July is the WORST MONTH FOR MOMENTUM ON RECORD (ex-COVID) — the AI liquidation IS a factor unwind
+### DATA (ZH, GS basket chart)
+- **GS high-beta momentum basket (GSPRHIMO) DRAWDOWN: −40.98%** (drawdown-from-peak series, chart spans 2010-2026).
+  ZH: **"July was the worst month for momentum on record (excluding the COVID crash)."**
+- ⚠️ note the call was made IN ADVANCE: ZH posted **7/2/26** — "High Beta Momentum is disintegrating in July.
+  Every July" — a seasonal claim, registered before the month ran.
+### THESIS (interpretation — NOT fact)
+- *(★ the renaming — this is the single most clarifying frame of the week)* The vault has spent two days
+  describing an "AI-complex liquidation": the S&P's bottom decile as the vault's own infra maps, the pyramid
+  selling as one bloc, memory/optics/semicap/power down together. **All of that is one thing viewed from the
+  stock level. Viewed from the factor level it is a MOMENTUM UNWIND — and AI WAS the momentum factor.** GS's
+  desk note (momentum −7% in a single session, "gross down," poor liquidity) was the daily slice; −41% is the
+  cumulative. **Same event, and the factor description is the more useful one because it explains the CROSS-
+  SECTION** (crowdedness, not fundamentals, predicted who fell hardest — SNDK/COHR/GLW/DELL over MSFT/GOOGL).
+- *(★★ what this does to the memory-regime question — it STRENGTHENS the "margin revaluation, not demand crack"
+  read)* [[memory-regime-question]] concluded today's move repriced MARGIN and MULTIPLE, not demand — with GLW
+  as the exhibit (+32% optical, +65% enterprise, stock −19%). **A record momentum drawdown is the mechanism
+  that produces exactly that: forced, indiscriminate, positioning-driven selling that does not read
+  fundamentals.** It is the strongest single piece of evidence that the fundamental theses survived the week
+  intact and the PRICES did not. Filed as confirming.
+- *(⚠️ the honest two-sided read — do NOT let this become "it's just positioning")* Momentum crashes resolve two
+  ways: **(a) POSITIONING FLUSH** — forced sellers finish, fundamentals reassert, the hardest-hit lead the
+  recovery; **(b) LEADERSHIP CHANGE** — the crash IS the regime turning, old momentum becomes value trap, new
+  leaders keep the bid. **This week's cross-section leans (b), not (a):** software +4% vs semis −3.5% (GS desk),
+  payers green and GOOGL described as where chip-rout money HIDES, staples +3.52% and health care +2.58% on the
+  full-index sweep, the median S&P stock +1.61%. **Money did not go to cash; it ROTATED with conviction.** That
+  is what a leadership change looks like, not a liquidation looking for a bottom.
+- *(the discriminator, registered)* **Does the OLD momentum basket lead the bounce, or does the NEW leadership
+  hold?** If SNDK/COHR/MU/semis lead the first sustained rally = (a), positioning flush, and the AI trade
+  resumes. If software/payers/staples keep leading while the old basket bounces weakly = (b), regime change,
+  and every "buy the dip in the AI complex" instinct is fighting the tape. **This is now the most important
+  single question for the book's largest position** — grade it on the first real up-day, not on one green hour.
+- *(⚠️ on the seasonality claim)* "Every July" is a pattern assertion, and one in-advance hit (7/2 → confirmed)
+  is a CALL, not a validated seasonal. Momentum seasonality is real in the literature (the January reversal is
+  the documented one); a July effect is not established. **Treat ZH's call as a good read that landed, not as a
+  calendar rule** — and note the reflexive risk: if a July-momentum-crash meme is now widely known, it front-runs
+  itself next year. [[compression-thesis]], [[ai-infra-allocation-map]], [[_calibration]].
