@@ -411,3 +411,58 @@ to diplomacy and he's asking for $1.5T from Congress.")*
   (400k bpd) is down to ~Aug 15. **The vault's crack-spread expression is being fed by two independent
   conflicts** — which is the strongest argument yet for holding the position in PRODUCTS rather than crude.
   [[demand-destruction]], [[oil-value-chain]].
+
+##### 2026-07-29 ~9:10am PT — ⚠️ CONTESTED: "US-OWNED LNG VESSEL STRUCK AT DAMIETTA, EGYPT" — FILED AS UNRESOLVED, MOVES NOTHING
+*(ZeroHedge, dated Wed 7/29 10:45am ET, itself flagged "details remain scant, this assessment is preliminary."
+Filed under the artifact rule: a CONTESTED report is not evidence and must not move a thesis.)*
+### DATA — ⚠️ THE SOURCES DISAGREE, AND THAT IS THE PRIMARY FACT
+- **CLAIM (Reuters citing maritime security firm Ambrey + "three trading sources" + "two separate security
+  sources"):** the **Energos Winter**, a **US-owned floating storage and regasification unit (FSRU)** moored at
+  **Egypt's Mediterranean port of Damietta**, was struck by a drone; fire spread to a second vessel, **Gaslog
+  Salem**; crew evacuated; fire brought under control. **NO PARTY CLAIMED RESPONSIBILITY.**
+- **CONTRADICTION (Newsquawk alert ~12:09pm ET, citing Al Hadath citing a source):** *"Reports of a drone
+  attack targeting Damietta port are FALSE."*
+- **Third version circulating on X: an INDUSTRIAL ACCIDENT.**
+- ⚠️ Internal timestamp inconsistency in the ZH piece — dated 10:45am ET but citing a 12:09pm ET alert
+  (presumably updated). **Log the discrepancy; do not infer from it.**
+- Market context at 9:06am PT, i.e. immediately before/around: **WTI 84.61 (+2.30%), Brent 90.27 (+2.80%),
+  XLE +1.28%.**
+
+### THESIS (interpretation — NOT fact)
+- *(⚠️ THE DISCIPLINE FIRST — three mutually exclusive accounts is a NON-EVENT until one wins)* Drone strike,
+  no strike, and industrial accident cannot all be true. **Reuters/Ambrey is the strongest chain (a commercial
+  maritime-security firm with skin in the game plus five separate sourced parties), Al Hadath's denial is
+  single-source, and the X accident claim is unsourced.** **That ranking favours "something happened," not
+  "a drone did it."** A fire aboard an FSRU is exactly the kind of event that produces all three accounts
+  simultaneously. **Nothing in the vault changes on this. No kill switch fires. No position implication.**
+- *(★★ BUT IF CONFIRMED IT IS A CATEGORY CHANGE, and the reason is geography, not size)* **Damietta is on
+  Egypt's MEDITERRANEAN coast — WEST of the Suez Canal.** Every energy attack on this board to date sits east
+  of it: **Hormuz/Persian Gulf (IRGC), Bab el-Mandeb/Red Sea (Houthis), Saudi infrastructure (Abqaiq, Jazan),
+  Iraq.** **A strike at Damietta means the conflict has JUMPED THE CHOKEPOINT** — the containment assumption
+  underneath every re-routing calculation in [[demand-destruction]] (Turkey/Iraq 1M bpd, Saudi's East-West
+  workaround, rising Bab el-Mandeb traffic) is that the bypass routes are OUTSIDE the theatre. **If the
+  Mediterranean is inside the theatre, the bypasses are not safe and the Gulf bond boom is buying less
+  protection than it thinks.** Two further aggravators: **the asset is US-OWNED**, and **Egypt is not a
+  combatant** — a strike on Egyptian soil widens the war to a state that controls the Suez Canal.
+- *(★★ AND IT IS GAS, NOT OIL — which exposes a real hole in this vault)* Damietta is an **LNG** outlet for
+  Egyptian and regional gas to **EUROPE**. **The transmission is European gas (TTF), not WTI/Brent.**
+  **The vault tracks crude, products and cracks and has NO European gas instrument at all.** ⚠️ **Registered as
+  a data gap: TTF/JKM belong in the macro block.** If this is confirmed and oil barely moves while TTF spikes,
+  **the vault would miss the entire event on its current instruments** — the same class of error as reading
+  Hormuz through flat-price crude instead of the calendar spreads.
+- *(⛔ AND IT EXPOSES THAT MY OWN KILL SWITCH WAS WRITTEN TOO NARROWLY)* Set #6 kill switch #3 reads: *"Strike
+  on a CRUDE EXPORT node (Abqaiq-class, Ras Tanura, Basra) or Iraqi export infrastructure."* **Damietta is gas,
+  in Egypt. It does not fire the switch as written — and that is a defect in the switch, not a fact about the
+  event.** **I built the escalation trigger around crude because that is the instrument the vault trades, and
+  in doing so I made the trigger blind to the energy system's other export nodes.** The set stands unedited per
+  the rule; **the next set's switch must read "a strike on any ENERGY EXPORT NODE — crude, products or LNG."**
+- *(★ "NO PARTY CLAIMED RESPONSIBILITY" is the most informative line in the report)* The Houthis claim their
+  strikes as policy; the IRGC announces its interdictions publicly. **An unclaimed attack on a US-owned asset
+  is either deliberate deniability — which is an escalation in KIND, not just degree — or it is not an attack.**
+  **The absence of a claim is evidence FOR the accident hypothesis**, and the vault should weight it that way
+  until someone claims it.
+- *(★★ THE REAL-TIME DISCRIMINATOR — the tape is the fact-checker, and it is free)* **If a US-owned LNG asset
+  was hit by a drone in the Mediterranean, European gas and crude both extend hard and immediately. If oil and
+  TTF go quiet, the market has priced it as an accident or a false report.** **Watch the next hour of Brent
+  above $90 and any TTF print.** No further analysis is warranted until one of those two things happens.
+  [[demand-destruction]], [[oil-value-chain]], [[war-confirmed]]
