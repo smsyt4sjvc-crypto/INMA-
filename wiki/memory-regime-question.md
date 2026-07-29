@@ -87,3 +87,45 @@ regime Jake describes is intact and probably under-appreciated (power-constraine
 accelerant). What is ending is the *pricing extreme* that the multiple capitalized. Both can be true at once,
 and the position implication is a question about which variable the stock is being paid for — which is Jake's
 call, not the vault's.
+
+##### 2026-07-29 ~12:30pm PT — ★ PRE-REGISTERED CALL: DO SEMIS GAP UP THURSDAY ON MSFT/META CAPEX? (Jake's question)
+### DATA (setup at time of call, before the prints)
+- **SOXX −5.40% today; SOX back at its 100-DAY moving average; chip stocks have shed >$1 TRILLION.**
+- **Largest 3-day de-gross on GS Prime records since Nov '22. Worst hedge-fund day since the COVID crash.
+  "Record selling" in semis, "violent derisking." Momentum −5.7% today, day 3, still not stabilising.**
+- **MSFT short interest at a DECADE HIGH. META RVOL 0.60x — positioning unset.**
+- **30Y +10bp to 5.19% (bear steepening). Goldman: electronics/memory adding 0.5% to core CPI.**
+- Capex evidence this week: **Meta/BlackRock $14B JV, Amazon $25B bond sale, NextEra/Brookfield $100B campus,
+  Broadcom/Samsung $200B, UMC raising capex, Intel raising to >$20B.**
+- Beat-sold record this season: **MU, GOOGL, INTC, GLW, SK hynix, Vertiv, Bloom — 7 for 7.**
+
+### THESIS (interpretation — NOT fact) — registered BEFORE the prints
+- *(the call, stated plainly)* **YES, lean semis GAP UP — but ~55/45, and I expect the gap to be SOLD.**
+  **Gap up because:** capex guides are near-certain to be enormous given the week's financing evidence;
+  positioning is maximally washed out; SOX sits on its 100-day; and the bounce already began ~1.5h BEFORE the
+  Fed without a catalyst, so buyers are present. **Faded because:** the razor is 7-for-7, the 30Y at 5.19% is
+  directly hostile to capex-intensive names, and breadth has flipped into a de-grossing regime.
+- *(★★ THE ARGUMENT THAT MATTERS MORE THAN THE DIRECTION — capex guidance does not fix what is broken)*
+  **This vault's own decomposition (7/29, off the hynix print) concluded: demand is CONFIRMED and enormous;
+  the drivers of the memory rout are (b) SUPPLY — CXMT — and (c) MULTIPLE.** **A hyperscaler capex raise
+  confirms DEMAND. Demand was never the problem.** **Neither CXMT's capacity nor the market's refusal to
+  capitalise peak cyclical earnings is addressed by anything MSFT or META can say tonight.** **So the
+  fundamental case for a durable semis re-rate is absent even in the bull scenario — which is precisely why
+  the gap should be sold rather than chased.**
+- *(★★ THE TAIL NOBODY IS WATCHING, and it is the one that would crater semis)* **Microsoft publicly marketed
+  a "COST-SAVING," "CHEAPER" cyber model (MAI-Cyber-1-Flash inside the MDASH harness) TWO DAYS BEFORE this
+  print.** Read as message-setting, that is a company pre-positioning a **capex-DISCIPLINE** narrative into an
+  earnings event where capex is the scrutiny and its short interest is at a decade high. **If either MSFT or
+  META signals moderation, optimisation or discipline on capex growth, semis do not gap up — they crater**,
+  because that is the [[metered-compute]] CFO cost-wall thesis arriving from the largest buyer. **Low
+  probability, highest slope.**
+- *(★★★ THE DISCRIMINATOR WORTH MORE THAN THE DIRECTIONAL CALL — watch for a DECOUPLING)* **If MSFT and/or
+  META FALL on a raised capex guide while SEMIS RISE, that is brand-new information:** the market would have
+  separated **"the buildout is real"** from **"the buyers are overpaying for it."** **That is the cleanest
+  possible expression of the vault's financing razor and it has not happened yet this season — every prior
+  instance dragged the complex down together.** **A decoupling would mean the razor is a BUYER problem, not an
+  AI-complex problem, and it would validate the software/payers-over-semis spread structure from the opposite
+  direction.** Watch that pair before watching the index.
+- *(what would make me wrong on the gap)* Korea reopens before the US and is still broken; a de-grossing
+  regime can sell a good print instantly; and the 30Y move is a same-day headwind that did not exist for any
+  prior print this season.
