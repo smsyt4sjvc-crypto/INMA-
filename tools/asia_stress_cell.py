@@ -111,14 +111,18 @@ else:
                     '\n       reached US megacaps in Aug-2024.' if jpy < -0.5 else
                     f'-> yen {jpy:+.2f}%: no carry-unwind signal.'))
 
-print('\n[d] REFEREE — does GOLD sell WITH equities?')
-g1 = val('GC=F')
+print('\n[d] REFEREE — do the METALS sell WITH equities?')
+g1, s1 = val('GC=F'), val('SI=F')
 if g1 is None: print('    Gold NOT AVAILABLE.')
 else:
-    print('    ' + (f'-> GOLD DOWN {g1:+.2f}% WITH equities = LIQUIDATION signature'
-                    ' (margin calls sell what is liquid).' if g1 < -0.3 else
-                    f'-> gold {g1:+.2f}%: bidding or flat while Korea crashes = CONTAINED / rotation, not a'
-                    ' forced-selling event.'))
+    print(f'    Gold {g1:+.2f}%' + (f'   Silver {s1:+.2f}%' if s1 is not None else ''))
+    if s1 is not None and g1 < -0.8 and s1 < -0.8:
+        print('    -> BOTH METALS DOWN HARD WITH equities = LIQUIDATION (calls sell what is liquid).')
+    elif s1 is not None and (s1 > 0 or g1 > -0.5):
+        print('    -> metals NOT being dumped. A margin cascade sells what is liquid; silver green or')
+        print('       gold only marginally lower says the FORCED-SELLING channel is NOT open.')
+    else:
+        print('    -> mixed metals; no clean liquidation read.')
 
 print('\n[GAUGE] US FUTURES — Jake\'s registered contagion gauge')
 nq, es = val('NQ=F'), val('ES=F')
@@ -136,8 +140,14 @@ else:
             print('       working, not the channel opening. An absolute NQ level cannot tell these apart.')
             print('    WATCH: the spread COMPRESSING toward zero while BOTH fall = absorber exhausted =')
             print('       that is the transmission event. A wide spread = another failure to transmit.')
-        elif ym is not None and ym < -0.5 and nq < -0.5:
-            print('    -> BOTH DOWN, SPREAD NARROW = the absorber is gone. THE CHANNEL OPENED.')
+        elif ym <= 0 and nq < 0 and spread > -1.0:
+            print('    -> ABSORBER STOPPED ABSORBING: Dow futures no longer green, spread compressed')
+            print('       toward zero, everything red together. This is the registered transmission')
+            print('       condition - a change IN KIND. But check the MAGNITUDE before calling it a rout:')
+            print(f'       NQ {nq:+.2f} / YM {ym:+.2f} may be trivial in size even when the shape has changed.')
+            print('    !! ALTERNATIVE, equal weight: OVERNIGHT sessions are structurally lower-dispersion')
+            print('       than CASH sessions (single-stock rotation does not trade overnight). Compare an')
+            print('       overnight spread to another OVERNIGHT spread, never to a cash-session spread.')
         else:
             print('    -> mixed; no clean read. Use the spread, not the level.')
 
