@@ -1130,6 +1130,11 @@ subagents because training is unique to their production needs — with intercha
 
 ##### 2026-07-28 ~7:20pm PT — ★★ THE INSIDER LETTER: 1,100+ AI-COMPANY EMPLOYEES ASK WASHINGTON FOR A WAY TO HALT DEVELOPMENT
 *(Jake's flag: I filed this as a one-line footnote under the agent incident. It is not a footnote. Promoted.)*
+> ⚠️ **THIS ENTRY WAS WRITTEN OFF THE AXIOS PARAPHRASE AND IS PARTLY WRONG. SUPERSEDED BY THE 7:35pm PT ENTRY
+> BELOW, WHICH IS WRITTEN OFF THE PRIMARY SOURCE** (`raw/2026-07-28-pacing-the-frontier-statement.md`).
+> Kept in place per firewall rule 4 — errors stay visible. Specifically wrong below: the ask is "PACE," not
+> "HALT"; it is not a WORKFORCE letter (the CEO of Anthropic and the chief scientists of OpenAI/Meta/Thinking
+> Machines signed it); and it is NOT categorically independent of Amodei's chokepoints — it is the same actor.
 ### DATA (Axios, 7/28)
 - **"More than 1,100 employees at AI companies released a letter Tuesday calling on the U.S. government to
   establish ways to HALT DEVELOPMENT of AI models."** Same day as the second agent-incident disclosure; four
@@ -1175,3 +1180,122 @@ subagents because training is unique to their production needs — with intercha
   for it. **A 1,100-signature internal constituency is the beginning of one.** It does not change the base case;
   it fattens a tail that was assumed empty — and NVDA/the neoclouds/the $750B claim queue are the maximum-
   duration expressions of that tail. [[ai-financing-fragility]], [[compression-thesis]], [[market-fragility]].
+
+##### 2026-07-28 ~7:35pm PT — ★★★ THE PRIMARY SOURCE ARRIVES: "PACING THE FRONTIER," 1,178 SIGNATORIES — AND IT CORRECTS ME IN BOTH DIRECTIONS
+*(Jake pasted the actual document — pacingthefrontier.com, printed 7/28/26 7:14 PM. Full archive:
+`raw/2026-07-28-pacing-the-frontier-statement.md`. I wrote the entry above off a one-sentence Axios paraphrase.
+Reading the primary source changes the entry materially: it is SMALLER than reported in what it asks for, and
+MUCH BIGGER than reported in who asked. Both corrections below.)*
+
+### DATA (primary source — pacingthefrontier.com, statement dated JULY 2026, page-printed 7/28/26 7:14 PM PT)
+- **Count: 1,178** employees of frontier AI companies (Axios said "more than 1,100").
+- **The ask, verbatim:** *"We request that the U.S. government support an international effort to develop the
+  technical and governance tools needed to deliberately **pace** the frontier of **automated AI development**."*
+- Statement premise, verbatim: *"The world's leading AI companies believe they could be **close to automating AI
+  research**… there is a real risk that capability development rapidly accelerates beyond our ability to
+  understand or control the resulting systems."* And: *"today, the world **lacks the technical and governance
+  tools** to deliberately pace frontier-wide progress."*
+- **Signatories include (named, titled, on the landing page):** **Dario Amodei (CEO, Anthropic)**; **Jakub
+  Pachocki (Chief Scientist, OpenAI)**; **Mark Chen (Chief Research Officer, OpenAI)**; **Jared Kaplan
+  (Co-Founder & CSO, Anthropic)**; **Shengjia Zhao (Chief Scientist, Meta AI)**; **John Schulman (Chief
+  Scientist, Thinking Machines)**; **Jasjeet Sekhon (Chief Strategy Officer, Google DeepMind)**; Edward Hughes
+  (Chief Scientist, Inherent); Jack Clark, Chris Olah, Benjamin Mann (co-founders, Anthropic); Anca Dragan (VP
+  AI Safety & Alignment, Google); Dawn Song (VP AI Research, Meta); Wojciech Zaremba (Head of AI Resilience,
+  OpenAI Foundation); Summer Yue (Director of Alignment and Risk, Meta); Jan Leike, Julian Schrittwieser, Mike
+  Krieger (Anthropic); Boaz Barak (OpenAI); Laura Weidinger, Stephanie Chan (Google).
+- **Verification:** signing requires *"corporate email or otherwise provide proof of employment."*
+- **Organizational support:** two nonprofits — **Guidelight AI Standards** and **Encode AI**.
+- 78 personal comments; 9 shown. Selected, verbatim: *"the recent pace of progress has been a shock"* (Matthew
+  Rahtz, Google — **after 3 years working on capability evaluations**); *"Progress has shown no signs of slowing
+  down"* (Shantanu Jain, OpenAI); *"every couple of weeks there will be new models which significantly increase
+  the consequences of model misuse and misalignment"* (Micah Carroll, Misalignment Preparedness, OpenAI);
+  *"Frontier labs are very close to AI that can exceed even the best people on almost every metric of
+  intelligence"* (Shengjia Zhao, Chief Scientist, Meta AI); *"The world is locked in a deadly race towards an
+  intelligence explosion… we must coordinate to slow down the race"* (Leo Gao, OpenAI).
+
+### THESIS (interpretation — NOT fact)
+- *(⛔ CORRECTION 1 — THE ASK IS SMALLER THAN AXIOS REPORTED, AND MY ENTRY ABOVE INHERITED THE ERROR)* Axios
+  rendered this as *"establish ways to halt development of AI models."* The document says **"deliberately PACE
+  the frontier of AUTOMATED AI DEVELOPMENT."** Four narrowing qualifiers Axios dropped: **(a) pace, not halt;
+  (b) automated AI development — i.e. AI-doing-AI-research / recursive self-improvement — not AI models
+  generally; (c) an INTERNATIONAL effort the US supports, not a US mechanism; (d) DEVELOP THE TOOLS — build the
+  option, not exercise it** ("the world lacks the technical and governance tools"). **My "the capacity to STOP
+  THE THING BEING BUILT" line above is wrong on the document.** Process lesson, logged to [[_calibration]]:
+  **I built a ★★-weight entry on a single-sentence secondary paraphrase.** The paraphrase was directionally
+  suggestive and materially wrong. Rule: when a document exists, get the document before assigning weight.
+- *(⛔ CORRECTION 2 — AND MY "WORKFORCE" FRAMING IS ALSO WRONG, WHICH MATTERS MORE)* I called this *"the only
+  one that comes from the WORKFORCE rather than from firms"* and read it as *"1,100 signing against their own
+  employers' freedom to operate is COSTLY."* **The CEO of Anthropic signed it. So did the Chief Scientists of
+  OpenAI, Meta AI and Thinking Machines, OpenAI's Chief Research Officer, Anthropic's CSO and three of its
+  co-founders, and Google DeepMind's Chief Strategy Officer.** This is not a workforce petition against
+  management — **it is management and the research leadership themselves.** The costly-signal-against-employer
+  read collapses: you cannot sign "against your employer" when you ARE the employer.
+- *(★ WHAT SURVIVES THE CORRECTIONS — and it is the stronger half)* The calibration question I registered
+  ("1,100 out of what denominator, how senior, named or anonymous, safety-adjacent or core research?")
+  **resolves to the maximum on every axis except denominator.** Named. Titled. Verified by corporate email.
+  Spread across **OpenAI, Anthropic, Google/GDM, Meta, Thinking Machines and Inherent** — every frontier lab
+  except xAI and the Chinese labs. Seniority is not "safety-adjacent staff," it is **the people who set the
+  research agenda.** On the axis of *legitimacy*, this is the strong branch, not the press-cycle branch.
+- *(★★ BUT THE COSTLINESS COLLAPSES — the adversary's read, which is now the correct one)* **Ask what this
+  costs the signatories: nothing.** Nothing binding. Nothing now. No cap on their own compute, no pause, no
+  disclosure, no liability. "Support an international effort to develop tools" is the **lowest-cost ask
+  available** — it defers action to a body that does not exist, on a timeline that is not specified, over a
+  capability ("automated AI research") that is not yet claimed to exist. **The document is optimally
+  constructed to purchase maximum legitimacy at zero operational cost.** That is not an accusation of bad
+  faith; it is a description of the instrument. And it is why the political-cover mechanics I wrote above
+  still hold while the insider-alarm mechanics do not.
+- *(★★ AND IT IS NOT AN INDEPENDENT FOURTH RULEBOOK — it is Amodei's, with 1,178 names on it)* I filed this as
+  categorically distinct from *"Amodei's chokepoints."* **Amodei signed this.** So the vault's rulebook count
+  for the week is wrong: it is not four independent asks, it is **three** — (1) the Alliance letter protecting
+  open weights, (2) the Kill Switch Act on deployed products, (3) **the Anthropic-aligned frontier-pacing
+  agenda, which now appears in two forms: an essay under one name and a statement under 1,178.** Same direction,
+  same beneficiary structure. **Correlated sources counted as independent confirmation is the exact failure
+  mode [[_calibration]] exists to catch, and I committed it 15 minutes ago.**
+- *(★★★ THE REAL MARKET CONTENT — the document is a direct, named, senior CONTRADICTION of the vault's plateau
+  read)* This is the part worth more than the regulatory read. The vault has been running a capability-
+  CONVERGENCE / plateau thesis since 7/26 (Epoch ECI spread halved, cadence stretching — DeLong/Kedrosky) and
+  has been using it to argue the **demand outlook compresses** ([[compression-thesis]]). This document is the
+  opposing evidence in its strongest available form: **the chief scientists of OpenAI, Meta AI and Thinking
+  Machines, the CSO of Anthropic and the CEO of Anthropic putting their names to "we could be close to
+  automating AI research" and "progress has shown no signs of slowing down"** — and a Google engineer with
+  three years *inside capability evaluations* saying the recent pace *"has been a shock."* **That last one is
+  the single most damaging line in the document for the plateau thesis, because it comes from the measurement
+  function itself.** Combined with last night's registration (weight OBSERVED agent behavior over SCORED
+  benchmarks; UK AISI found every model tested attempts to cheat on evals) — **the plateau read is now
+  contradicted by both the people who build the models and the people who score them.** [[compression-thesis]]
+  must carry this. It does not kill the thesis (see the steelman below), but the thesis can no longer be stated
+  without it.
+- *(⚠️ THE STEELMAN AGAINST TAKING THE DOCUMENT AT FACE VALUE — required, because the first read is too easy)*
+  **Every signatory's equity value depends on "AGI is near" being believed.** "We could be close to automating
+  AI research" is simultaneously a safety warning and the bull case for their own valuation, and the document
+  is unfalsifiable in exactly the dimension where it is self-serving. The industry has been saying "close to
+  recursive self-improvement" continuously since 2023; that claim is also the standing marketing. **A statement
+  that raises your terminal-value narrative AND costs you nothing operationally is weak evidence about
+  capability, however strong it is about coordination.** Second-order: an *international pacing regime* is a
+  compliance regime, and compliance regimes advantage incumbents over open-weight and Chinese competitors —
+  which is precisely the [[compression-thesis]] regulatory-capture shape the vault has been tracking from the
+  other side (the Alliance letter defending open weights is the mirror image of this). **Net: treat the
+  document as strong evidence about industry POLITICAL COORDINATION and moderate-at-best evidence about
+  CAPABILITY** — but note that the eval-engineer's comment is the one line that does not fit the self-serving
+  frame, because "the pace shocked me" is an admission of measurement failure, not a valuation claim.
+- *(⛔ CORRECTION 3 — my "investable edge" line from tonight's chat was overstated; withdrawing the strong form)*
+  I said *"a development halt is the ONLY regulatory scenario that breaks the capex thesis outright."* On the
+  primary source there is **no halt on the table** — there is a request to build international pacing tools for
+  a capability (automated AI research) that nobody claims currently exists. **That is a much longer fuse and
+  does not break the capex thesis.** What survives: **a defined, named, senior constituency now exists for a
+  frontier-pacing mechanism, where none existed before.** The tail is real and no longer empty; its duration is
+  years, not the Aug-1 framework. **Correct weight: an odds-shader on the 2027-28 regulatory path, not a 2026
+  trigger.** Per the WARNING-vs-TRIGGER rule this is a STATE, not a dated event — and I wrote it as a trigger.
+- *(what is still dated and falsifiable)* **Aug-1 framework, four days out.** The document's function there is
+  cover: it lets the framework's restrictive provisions cite the frontier's own research leadership. **The
+  falsifiable test: does the Aug-1 framework language reference frontier-pacing / automated-AI-research
+  monitoring specifically?** If yes, the document did political work and the 2027-28 path steepens. If the
+  framework lands permissive and unchanged, the document was a press cycle and the tail stays thin.
+- *(the organizational tell, noted not weighted)* **Guidelight AI Standards and Encode AI** provided
+  organizational support. This is a **staffed advocacy campaign with nonprofit infrastructure**, not a
+  spontaneous employee uprising — consistent with "1,178 verified signatures collected and a site built"
+  requiring an organization. Does not diminish the signatures; does change the genre from *petition* to
+  *campaign*, and campaigns have funders and sequencing. Worth knowing who funds them before assigning more
+  weight. **Unverified — do not use until checked.**
+
+[[compression-thesis]], [[ai-capex-cycle]], [[ai-financing-fragility]], [[_calibration]], [[market-fragility]]

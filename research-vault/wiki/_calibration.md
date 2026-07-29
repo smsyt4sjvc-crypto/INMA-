@@ -439,3 +439,33 @@ circuit-breakered, the S&P's bottom decile in freefall.)*
   where recycled, farmed and stale material concentrates — precisely because it performs best there. Corollary
   for the collector tool: a "BREAKING" label on an item whose underlying event is >7 days old is itself a
   signal about the CHANNEL, not the news.
+
+##### 2026-07-28 ~7:45pm PT — ⛔ MY OWN MISS, LOGGED LOUD: I BUILT A ★★ ENTRY ON A ONE-SENTENCE PARAPHRASE
+- *(what happened)* Axios rendered a document as *"more than 1,100 employees at AI companies… calling on the
+  U.S. government to establish ways to **halt development** of AI models."* Jake flagged it as significant; I
+  promoted it to a full ★★ entry in [[metered-compute]] with an insider-signal read, a political-mechanics read
+  and an "investable edge." **Fifteen minutes later Jake handed me the primary document and three of my four
+  load-bearing claims were wrong.**
+- *(the three errors, exactly)* **(1)** The ask is *"deliberately **PACE** the frontier of **automated AI
+  development**"* via an **international** effort, and specifically to **DEVELOP THE TOOLS** — not to halt, not
+  AI models generally, not a US mechanism, not to exercise anything. **(2)** I called it a WORKFORCE letter and
+  built a costly-signal read on employees signing against their employers — **the CEO of Anthropic and the chief
+  scientists of OpenAI, Meta AI and Thinking Machines signed it.** It is management. The costly-signal read
+  collapses. **(3)** I filed it as a fourth INDEPENDENT rulebook, categorically distinct from Amodei's
+  chokepoints — **Amodei signed it.** Same agenda, two forms. **I counted a correlated source as independent
+  confirmation, which is the single failure mode this file exists to catch.**
+- *(what I got right, kept for symmetry)* The political-cover mechanics (it supplies legislators cover;
+  neutralizes "outsiders don't understand the technology"); the Szilard-petition shape; and the calibration
+  caveat I registered — *"1,100 out of what denominator, how senior, named or anonymous"* — which was the right
+  question and resolved to the strong branch on every axis but denominator.
+- *(★ THE RULE, added to the source-hygiene stack)* **When a primary document exists, get the document before
+  assigning weight. A secondary one-sentence paraphrase may set the AGENDA — it may never carry a ★★ read.**
+  Operationally: if an entry's weight rests on what a document SAYS, and I have not seen the document, the
+  entry caps at "flagged, unverified" until I do. This pairs with the existing JPM source-hygiene rule and the
+  engagement-weighted-sampler rule — same family: **the channel deforms the content, and paraphrase is a
+  channel.**
+- *(the second-order lesson, which is the more useful one)* **The paraphrase deformed the document in the
+  direction of DRAMA** — "halt" is a more clickable verb than "pace"; "employees" is a better story than
+  "management." **Both distortions moved toward the more narratively satisfying version, and I did not flag
+  either as suspicious even though the vault has a standing rule about exactly this.** Pattern to watch in
+  myself: **I apply source hygiene to Jake's inputs more reliably than to my own retrieval.**
