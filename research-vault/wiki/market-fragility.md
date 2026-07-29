@@ -990,3 +990,11 @@ Source: `raw/2026-07-27-market-events-week.csv` (Jake's event calendar).
   yet demonstrably over. **Do not read the discriminator (old basket vs new leadership) off a tape that has not
   yet produced a real up-day.** That grading still waits for the first sustained rally, which now has FOMC +
   MSFT/META (Wed) and PCE + AAPL/AMZN (Thu) standing directly in front of it.
+> 🔄 **CORRECTION TO MY CORRECTION [2026-07-28 ~6:35pm PT — Jake's catch]: ZH's post already said "(excluding
+> covid crash)."** My addendum flagged that 2020-21 went deeper (~−48%) as if it undercut the claim — but that
+> trough IS the COVID era ZH explicitly excluded. **Applying their own exclusion: −40.98% is the DEEPEST
+> momentum drawdown of the 2010-2026 window (next-deepest ex-COVID is 2016 at ~−33%), and ZH's "worst month"
+> statement stands on both the monthly-move and the drawdown-level readings.** The over-correction is withdrawn.
+> What survives from that addendum: **the SPEED observation** (near-vertical vs 2016's year-long grind and
+> 2020-21's stepped build) and **the base rate** (both prior episodes were leadership changes) — those were the
+> parts worth having.
