@@ -1276,3 +1276,55 @@ evidence and evidence gets audited before it gets used.)*
   month with repeated circuit breakers and zero institutional casualties on the wire is the single most
   informative absence available** — and it is the thing to watch overnight, not the price.
 [[compression-thesis]], [[ai-financing-fragility]], [[weekly-momentum]], [[_calibration]]
+
+##### 2026-07-28 ~8:59pm PT (Wed 12:59pm KST) — ★★ KOREA IS HALTED MID-SESSION, AND US FUTURES ROSE DURING THE HALT
+### DATA (two runs of `tools/asia_stress_cell.py` ~10 minutes apart, differenced)
+- **KOSPI 5,531.56 and KOSDAQ 649.00 are IDENTICAL across both runs — Δpx exactly 0.00** — while every other
+  Asian market ticked: Nikkei +23.02 pts, Taiwan −16.64, Hang Seng +1.70, TSMC −5.00. **Seoul time at the
+  second run: 12:59pm KST — mid-session (Seoul trades 09:00-15:30).**
+- **All four US futures IMPROVED across the same window:** NQ −1.52% → **−1.44%**, ES +0.07% → **+0.11%**,
+  YM +0.92% → **+0.94%**, RTY −0.15% → **−0.10%**.
+- **NQ-minus-YM spread −2.39 pts.** Gold −1.22% (⚠️ still stamped 7/28 — pre-dates the Korean leg).
+- **USD/KRW −0.84% today, −6.2% ~1mo (won STRENGTHENING).** **USD/TWD +0.56% today, +2.0% ~1mo (Taiwan dollar
+  WEAKENING)** — and accelerating between runs (+0.38% → +0.56%). USD/JPY flat.
+- **Nikkei −6.12% today, −12.1% month.**
+- Tool verification: all three patched defects fired correctly — the artifact guard flagged KOSPI/KOSDAQ
+  (*"bar gap 2d, 1d% may be MULTI-DAY"*), the KRW note printed both readings with the discriminator, and the
+  futures gauge correctly returned **DISPERSION, NOT CONTAGION** where the old absolute threshold had returned
+  a false *"THE CHANNEL OPENED."*
+
+### THESIS (interpretation — NOT fact)
+- *(★ the frozen print is a LIVE HALT, not stale data)* Two indices frozen to the cent while four other Asian
+  instruments in the same fetch move is not a caching artifact — it is Korea's circuit breaker. **CB1 triggers
+  at −8% and halts for 20 minutes; the corrected KOSPI move is −8.17%.** ⚠️ Alternative held: a KRX-specific
+  feed stall. **The discriminator is trivial — if the next run shows a different price, it was a halt that
+  ended; if it is still frozen an hour later, the feed is broken.**
+- *(★★ AND THIS IS THE CLEANEST TRANSMISSION TEST THE WEEK HAS PRODUCED)* **In the ten minutes Korea spent
+  halted at its worst level of the crash, all four US futures went UP.** Not held — up. That is the **fifth**
+  consecutive failure of the equity channel, and the first observed inside a single intraday window rather than
+  across sessions. **The absorber is not merely intact; it bid into the halt.** The NQ-YM spread stayed at
+  −2.39 — dispersion, not contagion, exactly as the corrected gauge reads it.
+- *(★★★ THE FX DIVERGENCE IS THE NEW FINDING: two chip economies, OPPOSITE currencies)* **The won is
+  STRENGTHENING 6.2% on the month. The Taiwan dollar is WEAKENING 2.0% and accelerating.** Both economies are
+  being repriced by the same chip event, and their currencies are moving in opposite directions. The
+  mechanical difference: **Taiwan's index is dominated by a name with very high FOREIGN ownership (TSMC) —
+  foreign selling there converts TWD to USD and shows as TWD weakness. Korea's selling is domestic and
+  retail-margin driven, which does NOT create a dollar bid.** **Read: foreign capital is leaving TAIWAN;
+  Korean capital is staying home.** That materially favours the **export-earnings** explanation for KRW over
+  the repatriation one — and if it is export earnings, **channel (a) is NOT firing.**
+- *(★★ THE SYNTHESIS, and it is the most useful sentence available tonight)* **Korea's real economy is having
+  its best quarter on record — SK hynix revenue more than tripled, net profit +1,242%, and the currency is up
+  6.2% on the resulting dollar inflows — while its stock market has its worst month in history.** The FX is
+  independent confirmation that **the earnings are real.** Therefore the equity collapse is **pure multiple
+  compression**, not an earnings event. **That settles [[memory-regime-question]]: the drawdown ends when the
+  multiple stops compressing, not when the next print arrives — and a multiple compressing on a competitive
+  threat (CXMT, now worth more than Intel, with a US national-security probe requested) does not stop until the
+  threat is priced.** Directly applicable to MU at $820.53, below the registered $854 line.
+- *(the Japan leg, which belongs to the pyramid work)* **Nikkei −12.1% on the month** is not a memory index —
+  Japan is the **equipment and materials layer** (Tokyo Electron, Advantest, Lasertec; Shin-Etsu, Ibiden,
+  Nittobo — the vault's pyramid L3/L4). **The repricing is propagating DOWN the pyramid, which is the
+  rotation-out reading, not the rotation-down reading** the pyramid tape was built to distinguish.
+  ⚠️ Confounded: Japan also had a fatal earthquake this week (TSMC's Japan plant "gradually resuming").
+  [[buildout-bottleneck-map]], [[ai-infra-allocation-map]].
+- *(unchanged and still the thing to watch)* **No named casualty.** Fifth session, repeated halts, a −34% month,
+  and not one Korean securities house, fund gate or structured-product failure on the wire.
