@@ -1398,3 +1398,29 @@ are useless." He is right, and it reframes the document more than anything else 
   MSFT publicly backing open weights in the US policy fight.** The two-sided regulatory map filed last night —
   **compute BUYERS want pacing, the compute SELLER and the open-weight coalition want deployment surface** —
   is holding, with NVDA and MSFT now explicitly on the seller side. [[compression-thesis]].
+
+##### 2026-07-29 ~8:50am PT — ★★ AT&T: THE ENTERPRISE PROOF THAT OPEN WEIGHTS WIN ON ECONOMICS, NOT IDEOLOGY
+### DATA (Mobile World Live, 7/28-29, via collector)
+- **"AT&T bets on ROUTING, OPEN MODEL to tame AI costs."**
+- Same tape: **Fireworks Nexus** ships a *"drop-in routing and cost-control layer"*; **Microsoft's MDASH** routes
+  across its own cheap model plus a frontier model; **Fortune: "CFOs are hitting a cost wall on AI"**;
+  **Huang and Microsoft both publicly backing open-weight models in the US policy fight**; **Moonshot AI $300M
+  → $35B on open source**; **"How should enterprises and telcos think about open weight AI?"** (Fierce).
+
+### THESIS (interpretation — NOT fact)
+- *(★★ why AT&T specifically is the strongest enterprise datum available)* A telco's AI workload is the
+  **highest-volume, most ROUTINE profile in the economy** — customer service, network operations, billing,
+  field dispatch. **That is precisely the workload where routing to cheap or open models saves the most, and
+  where frontier capability is worth the least.** **The value of open weights to AT&T is not philosophical, it
+  is gross margin on inference at scale.** When the buyer with the most predictable token demand in the market
+  publicly chooses routing + open models, that is demand destruction for FRONTIER tokens specifically — not for
+  compute.
+- *(★ this reframes the open-weight policy fight as a DEMAND fight, which the vault had been treating as a
+  supply/security fight)* NVDA and MSFT backing open weights was filed as the compute-SELLER wanting maximum
+  deployment surface. **AT&T shows the other end of the same trade: the compute BUYER wants open weights
+  because they are cheap.** **Seller and enterprise buyer are aligned AGAINST the frontier labs' pricing** —
+  and the frontier labs are the ones asking Washington to "pace the frontier." **The coalitions in the
+  regulatory map are economic, and this is the second independent confirmation of that.**
+- *(the falsifiable version)* If this is real, it shows up as **frontier-tier API revenue growth decelerating
+  faster than total token volume**, and as enterprise contracts written on routed/open stacks. **MSFT tonight
+  and AMZN Thursday are the first places to look** — Azure/AWS AI revenue mix commentary, not headline growth.
