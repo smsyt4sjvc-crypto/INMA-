@@ -108,6 +108,14 @@ Screens/scanners: `insider_trading_scanner.ipynb`, `vault_headline_scanner.ipynb
 `spy_weekly_poc_scan.ipynb`, `power_equipment_screen.ipynb`, `sp500_health_screen.py`, `cluster_hunter.ipynb`,
 `ignition_filter.py`, `runner_anatomy.py`, `follow_the_money.ipynb`, `structural_pulls.py`, `flow_trackers.py`,
 `monday_flows.py`, `top10_band_test.py`, `weekly_stack.ipynb`, `cluster_backtest.ipynb`, `insider_pull.py`.
+Tape/regime cells (2026-07): `vault_headline_collector.ipynb` (capture-EVERYTHING RSS collector, no keyword gate
+→ CSV), `sp500_full_sweep_cell.py` (whole-index sorted mover sweep; browser-UA + GitHub-CSV fallback for the
+Wikipedia 403), `pyramid_tape_cell.py` (prices all four layers of the server/electrical cascade — is capital
+rotating DOWN the pyramid or OUT?), `crude_curve_cell.py` (9-month WTI/Brent calendar spreads — the
+physical-shortage arbiter that inverted the Hormuz absorption hypothesis),
+**`vix_term_structure_cell.py`** (CALM-or-COILED: VIX9D/VIX with 12-month percentile, VIX/VIX3M backwardation,
+realised index-vs-component vol to test whether a low VIX is just dispersion arithmetic, and the variance risk
+premium — built 7/28 as the falsifiable test of a Jake-vs-Claude disagreement; see [[market-fragility]]).
 
 ## 🎯 Predictions (`predictions/`) — the calibration engine
 Nightly point + 80% range + direction + kill-switch for the core five; graded next session → `_scoreboard.md`.
