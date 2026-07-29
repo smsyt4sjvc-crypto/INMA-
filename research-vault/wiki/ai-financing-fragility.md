@@ -1765,3 +1765,59 @@ is tolerable relatively?")*
 - *(the Korea coda)* **KOSPI closed −5.98% at 5,663 after trading −9.78% at 5,434 — a +4.21% recovery off the
   low** on the day the plunge protectors met. **Consistent with "contained by construction": a leverage flush
   exhausts when the leverage is gone, not when the news improves.**
+
+##### 2026-07-29 ~2:05pm PT — ★★★ THE RAZOR IS NOT "BEAT-SOLD." IT IS "CAPEX-RAISE-SOLD." SAME NIGHT, TWO NAMES, ONE VARIABLE.
+### DATA (after-hours, ZeroHedge headlines)
+- **"MSFT BOUNCES After Revenue Beat On Cloud Strength, CAPEX IN LINE."** MSFT 4Q rev $90.01B vs $87.72B est;
+  adj EPS $4.74 vs $4.25 est.
+- **"META PLUNGES After CAPEX Forecast HIKED Again, But Revenue Guidance Misses Bad."** 3Q rev guide $61–64B
+  vs $63.17B est; **FY capex $130–145B, from $125–145B.**
+- **META's own language: "narrowed from our prior outlook of $125-145 billion."** ZH: *"because NARROWED
+  sounds better than RAISED."*
+- **★★★ MICROSOFT DISCLOSURE: "LEASES THAT HAD NOT COMMENCED — $329.1 BILLION AS OF JUNE 30."**
+  ZH estimate for the complex's off-balance-sheet obligations: *"probably rise by $1TN+ to $3TN."*
+- ZH: **"When is META doing an ATM stock offering."** **"META continues to increase its Capex cash incineration
+  and show nothing for it… ROIC here remains a shitshow."**
+
+### THESIS (interpretation — NOT fact)
+- *(⛔ THE VAULT'S CORE FRAMING NEEDS CORRECTING, AND TONIGHT IS THE CONTROLLED EXPERIMENT)* This note has run
+  the razor as **"BEAT-SOLD"** for five weeks — MU, GOOGL, INTC, GLW, hynix, Vertiv, Bloom, seven for seven.
+  **Tonight breaks the streak in the most informative way possible: MSFT BEAT AND BOUNCED.** Same night, same
+  sector, same tape, two of the largest hyperscalers reporting within minutes of each other — **and the single
+  differentiating variable in the headlines is CAPEX DIRECTION. MSFT held capex IN LINE and was rewarded. META
+  HIKED capex and was destroyed.** **The market is not punishing AI, and it is not punishing beats. It is
+  punishing INCREMENTAL CAPEX, specifically and precisely.**
+- *(★★ and the refined rule fits the back-catalogue better than the old one did)* **GOOGL 7/22: crushed cloud
+  revenue, RAISED capex → fell. INTC 7/24: doubled EPS, guided above, RAISED capex to >$20B → fell ~18% round
+  trip. META tonight: revenue MISS + capex RAISE → plunged. MSFT tonight: revenue BEAT + capex IN LINE →
+  bounced.** **The beat was never the variable. The capex was.** **Rename the mechanism: the CAPEX-RAISE RAZOR.**
+  ⚠️ Unchecked against GLW, Vertiv, Bloom and hynix — **verify the capex line on those four before treating the
+  rule as general.** hynix in particular looks like a different animal (a revenue MISS on a record print).
+- *(★★★ AND IT ANSWERS MY 12:30pm DISCRIMINATOR — the decoupling happened, just not where I looked)* I
+  registered: *"Do MSFT and/or META FALL on a raised capex guide while SEMIS RISE?"* **The decoupling is not
+  between hyperscalers and semis. It is BETWEEN THE TWO HYPERSCALERS, and capex is the axis.** That is a
+  cleaner result than the one I was testing for: **the market has separated "AI is working" (MSFT cloud
+  strength, rewarded) from "the buildout is being overpaid for" (META's floor raise, punished) INSIDE the same
+  cohort on the same night.** **The razor is a SPENDING problem, not an AI problem and not a chip problem.**
+- *(★★★ $329.1 BILLION OF UNCOMMENCED LEASES IS THE NUMBER OF THE WEEK, AND IT IS JAKE'S THESIS IN A
+  DISCLOSURE)* His bear case, verbatim 7/28: *"circular lending compiled of under-the-sheets tranches through
+  VCs, BDCs and PE firms."* The Burry material in `raw/` put **$662B off-balance-sheet** across the complex.
+  **Microsoft alone now discloses $329.1B of leases that HAVE NOT COMMENCED — contractually committed future
+  obligations that are not on the balance sheet as debt today.** **This is the same mechanism as the
+  Meta/BlackRock $14B JV, at 23x the size, disclosed in a filing rather than a press release.**
+  **Sequence the week's financing evidence and it is one story: banks hit sector limits → "investor demand
+  cools" on hyperscaler paper → Amazon prints $25B → Meta moves $14B into a BlackRock JV → Microsoft discloses
+  $329.1B of uncommenced leases.** ⚠️ **Discipline: uncommenced leases are ORDINARY and required disclosure —
+  this is not concealment, and a company with Microsoft's coverage ratios can service it.** **The claim is
+  structural: the buildout's obligations are increasingly recorded where the equity market does not price
+  them, and $329.1B is the size of that gap at ONE company.** [[consumption-vs-investment-crux]],
+  `raw/2026-05-22-burry-heretics-guide-part-3.md`.
+- *(★ the "NARROWED" language is a management tell worth logging)* Meta described raising its capex floor by
+  $5B as **"narrowed from our prior outlook."** **A company that frames a raise as a narrowing knows the raise
+  is a negative.** That is a disclosure-framing signal about how management expects the number to be received —
+  and it was received exactly as they feared. **Watch for the same construction from AMZN and AAPL tomorrow.**
+- *(the ATM question is the INTC channel, asked of a stronger name)* The vault's 7/24 JPM-sourced finding was
+  that **Intel's fade was driven by the disclosure it was OPEN TO ISSUING NEW EQUITY.** ZH asking *"when is
+  META doing an ATM"* is that same equity-channel question applied to a company with vastly better coverage.
+  **If it ever becomes a real question for META, the razor has moved from the weak balance sheets to the strong
+  ones — that is the escalation to watch, and it has not happened.**

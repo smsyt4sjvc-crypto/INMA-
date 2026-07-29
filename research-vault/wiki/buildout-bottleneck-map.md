@@ -453,3 +453,32 @@ Analysis below; descriptive, not advisory.)*
   freeze is 140 days in one small market. **The honest weight: a real new constraint class has appeared in the
   regulatory record of the largest US grid, which is different from a constraint being imposed.** Do not trade
   the headline; watch for the FERC filing and the first curtailment event. **That is the dated trigger.**
+
+##### 2026-07-29 ~2:10pm PT — ★★★ DOE ISSUES AN **EMERGENCY ORDER** TO SECURE THE GRID IN **17 STATES** — one day after I said "proposal, not imposition"
+### DATA
+- **"Energy Department Issues EMERGENCY ORDER To Secure Power Grid In 17 US States"** (ZeroHedge, 7/29).
+- Yesterday's filed items: **PJM PROPOSING to curtail large data centres during strain; PJM registry "with
+  teeth"; Israel freezing new DC grid processing for 140 days.**
+- Yesterday's registered caveat, verbatim: *"⚠️ the discipline on this — it is a PROPOSAL. PJM has proposed;
+  it has not implemented… Do not trade the headline; watch for the FERC filing and the first curtailment event.
+  That is the dated trigger."*
+
+### THESIS (interpretation — NOT fact)
+- *(★★ THE TRIGGER I ASKED FOR ARRIVED IN ONE DAY, AND IT ARRIVED ABOVE THE LEVEL I WAS WATCHING)* I was
+  watching for a FERC filing or a first curtailment. **A DOE EMERGENCY ORDER covering 17 STATES is a federal
+  instrument operating above the RTO level** — it is not one grid operator's tariff proposal, it is the
+  Department of Energy invoking emergency authority across a third of the country. **Per WARNING-vs-TRIGGER:
+  yesterday's item was a state; this is a dated, mechanical, federal action.** ⚠️ **What I do NOT have: the
+  order's actual content.** Emergency orders under §202(c) are most often used to keep generation ONLINE past
+  retirement or environmental limits — **that is the OPPOSITE of curtailing load, and it would mean the
+  government is protecting supply, not rationing demand.** **Both readings are live and they point different
+  ways for the data-centre cohort. Get the order text before assigning direction.**
+- *(★ why it matters either way)* **Both readings confirm the same underlying fact — the grid is at its
+  operating limit across a third of the country** — which is the constraint this note has been building for a
+  year. **The difference is who pays: a keep-generation-online order socialises the cost and protects DC
+  uptime; a curtailment order caps DC utilisation and breaks the uptime assumption the project debt was sized
+  against.** [[ai-financing-fragility]], [[power-not-petroleum]], [[power-scarcity-equities]].
+- *(★ the registered rotation test stands and gets more urgent)* **Firm/behind-the-meter power (fuel cells,
+  gas, SMR) should outperform grid-dependent DC operators if the rationing path advances.** Today: **neoclouds
+  −9.9% to −13.9%** — the grid-dependent cohort — on the same day the DOE declares an emergency across 17
+  states. **Consistent, but a single session and heavily confounded by the financing tape. Not evidence yet.**
