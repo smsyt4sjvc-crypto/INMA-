@@ -530,3 +530,49 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
   intercepted"). **Whole strip lifting = the market repricing RESOLUTION ODDS = the thesis confirming.** The
   zero-casualty outcome is the counterweight that may cap the front while leaving the back to do the work —
   which would be the cleanest possible expression of the finding. [[demand-destruction]], [[war-board]].
+
+### 2026-07-28 — 🔴 US **AND SAUDI** FIGHTER AIRCRAFT STRIKE IRAQ (official, CENTCOM): the response lands on the PROXY, not the principal
+- DATA (CENTCOM statement, verbatim core): **"U.S. Central Command and the SAUDI ARABIAN ARMED FORCES conducted
+  precision strikes IN IRAQ, July 28, against Iran-aligned terrorists that the ISLAMIC REVOLUTIONARY GUARD CORPS
+  (IRGC) DIRECTED to attack U.S. forces AND SAUDI ENERGY INFRASTRUCTURE. U.S. and Saudi FIGHTER AIRCRAFT struck
+  multiple terrorist logistics and weapons sites across EASTERN IRAQ in a strong response to OVER 30
+  IRGC-DIRECTED AERIAL DRONE ATTACKS IN THE LAST 72 HOURS. The unwarranted attacks against U.S. forces were not
+  successful. From February through April 2026, there were MORE THAN 600 ATTEMPTED ATTACKS on U.S. citizens and
+  facilities by Iran-aligned terrorist militias in Iraq. The IRGC and its terrorist proxies MUST CEASE these
+  attacks TO AVOID FURTHER U.S. MILITARY RESPONSE."**
+### THESIS (interpretation — NOT fact)
+- *(★ THE TARGET SELECTION IS THE MESSAGE — this is a CONTROLLED escalation that PRESERVES the ceiling)* Iran
+  fired ballistic missiles from ITS OWN SOIL at US forces hours ago. **The US response struck IRAQ.** Proxies,
+  not the principal; logistics and weapons sites, not Iranian territory. **Washington deliberately took the
+  rung that punishes hard while leaving the US-IRAN STATE-LEVEL exchange capped.** Loud optics (fighter
+  aircraft, "strong response," joint with Riyadh) + a de-escalatory address. **The zero-casualty outcome of
+  Iran's salvo is what made this option available** — the choice-not-compulsion read from 3pm, exercised.
+- *(★★ SAUDI IS NOW FLYING COMBAT MISSIONS — the Gulf coalition consolidates)* The board logged 7/24 that
+  Bahrain and Kuwait had struck Iran, UAE gave intel/air cover, and **Saudi was "evaluating."** Saudi is no
+  longer evaluating: **Saudi fighter aircraft are conducting joint strikes with CENTCOM.** That is a structural
+  change in the war's shape, not another exchange.
+- *(the tempo revelation — the "pause" was never quiet)* **"Over 30 IRGC-directed aerial drone attacks in the
+  last 72 hours"** and **600+ attempted attacks Feb-April.** The vault saw fragments (Jordan drones, N-Iraq,
+  Saudi eastern province ×2 days); the real tempo was an order of magnitude higher. **The pause capped the
+  PRINCIPALS while the proxy war ran hot throughout** — recalibrate every "calm" reading of the last week.
+- *(attribution: the deniability layer is officially removed)* The US now formally states the **IRGC DIRECTED**
+  attacks on **SAUDI ENERGY INFRASTRUCTURE.** Earlier the Saudi MoD said only "Iran-affiliated militias from
+  Iraqi territory." **That upgrade is the legal/political predicate for future action against IRAN ITSELF over
+  energy attacks** — and it is the justification Riyadh would need.
+- *(★ THE OIL READ, and it is NOT the intuitive one)* The strikes hit logistics/weapons, not energy — no direct
+  supply effect. **But the ENERGY axis just got more dangerous, not less:** Saudi is now openly bombing
+  Iran-aligned forces, after two straight days of those forces attacking Saudi petroleum facilities, with the
+  US officially blaming the IRGC for it. **The war is being managed to keep the US-IRAN STATE exchange capped
+  WHILE THE ENERGY-INFRASTRUCTURE exchange escalates — which is exactly backwards from what the oil market
+  wants.** Tell (a) — the export-terminal uncap — gets MORE likely on this, even though today's strikes were
+  restrained.
+- *(★ the underpriced vector nobody is watching: IRAQ ITSELF)* US and SAUDI aircraft striking inside Iraq is a
+  sovereignty event for Baghdad, whose government contains Iran-aligned blocs. **Iraq produces ~4M bpd** —
+  comparable in scale to the Hormuz question, through a different door (Basra via the Gulf; Ceyhan via Turkey
+  as the bypass). Watch: Iraqi government response, any parliamentary move on the US presence, and any
+  militia retaliation against **Iraqi** export infrastructure. **A destabilized Iraq is the one supply shock
+  the deferred curve is even less prepared for than a Hormuz failure.**
+- *(the ultimatum)* "Must cease... to avoid further U.S. military response" = conditional escalation, publicly
+  stated. Combined with Trump's "either talks go fast or not at all," the diplomacy now runs on two clocks:
+  the MoU track and the cease-attacks track, either of which can fail independently. [[war-board]],
+  [[demand-destruction]], [[oil-value-chain]].

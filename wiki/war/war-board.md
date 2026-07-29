@@ -342,3 +342,18 @@ to diplomacy and he's asking for $1.5T from Congress.")*
    engagement doctrine, not statements).
 4. **Whether the "shortage" language survives a decision to re-escalate** — if strikes resume at scale while the
    shortage story stays in the press, it was never binding. [[demand-destruction]], [[_calibration]].
+
+## UPDATE — 2026-07-28 ~6:00pm PT — 🔴 US+SAUDI STRIKE IRAQ: controlled escalation; the ENERGY axis heats while the STATE axis stays capped
+- **Response landed on the PROXY (eastern Iraq, logistics/weapons), NOT on Iran** — Washington took the rung
+  that preserves the US-Iran state-level cap. Iran's zero-casualty salvo is what made that option available.
+- **SAUDI FIGHTER AIRCRAFT FLEW THE MISSION with CENTCOM** — Riyadh moves from "evaluating" (7/24) to combat
+  participant. The Gulf coalition is now operational, not forming.
+- **Tempo revealed: 30+ IRGC-directed drone attacks in 72 HOURS; 600+ attempted attacks Feb-Apr.** The "pause"
+  capped the principals only — the proxy war never stopped. Recalibrate last week's "calm."
+- **Attribution upgraded: the US officially says the IRGC DIRECTED attacks on SAUDI ENERGY INFRASTRUCTURE** =
+  the deniability layer is gone and the predicate for action against Iran over energy now exists on the record.
+- **Tell (a) odds UP despite the restraint:** Saudi and Iran-aligned forces are now trading strikes with energy
+  infrastructure already in the target set. The state axis is capped; the energy axis is climbing.
+- **NEW WATCH — IRAQ AS A SUPPLY VECTOR (~4M bpd):** foreign aircraft striking inside Iraq is a sovereignty
+  event for a government containing Iran-aligned blocs. Watch Baghdad's response, any move on the US presence,
+  and militia retaliation against IRAQI export infrastructure (Basra/Gulf vs Ceyhan/Turkey bypass).
