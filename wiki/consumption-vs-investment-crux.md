@@ -197,3 +197,41 @@ base through early 2026, NOT a live pull; re-verify when Jake can run the Colab 
   outlays → deficits → more debasement — the gold-flows thesis with an actuarial engine). The mental-health cost lands on
   private insurers, employers, and households — off the federal ledger, on the consumption base. [[new-economy-regime]],
   [[gold-flows]], [[trade-down-landing-pads]].
+
+## 2026-07-28 ~5:25pm PT — the AP food-vs-card-debt overlay (Jake's curiosity): right instinct, WEAK instrument — and it merges with the AI thread at the household budget
+### DATA (AP graphic, Phil Holm; BLS + NY Fed; `raw/2026-07-28-ap-food-prices-vs-card-debt.png`)
+- **At-home food prices +33% from 2019 through June 2026** (BLS). AP's own text: **"Consumers now are buying
+  fewer of their favorite foods or less food overall."**
+- **US credit card debt ~$0.62T (2012) → ~$1.4T (2026)**, NY Fed. The graphic annotates: "credit card debt
+  climbed alongside food costs."
+### THESIS (interpretation — NOT fact)
+- *(⚠️ INSTRUMENT WARNING — do not build on this chart)* **Dual-axis overlays of two upward-trending nominal
+  series are the most abused chart form there is.** Both lines rise for 14 years; the visual "coupling" is
+  substantially an artifact of the chosen axis ranges. Nominal card balances at record highs are near-meaningless
+  on their own — balances set records in most non-deleveraging years, and nominal GDP roughly doubled over this
+  window. **Correlation here is not evidence of the causal claim (food inflation → card borrowing);** both
+  series share a common driver (nominal inflation), and card balances also respond to rates, credit supply and
+  spending mix. Filed as ILLUSTRATION, not as evidence.
+- *(★ but the INSTINCT is right, and the vault already holds BETTER evidence for it)* The Hollow Bottom
+  convergence is built on measures this chart lacks: **card delinquency 12.7%**, IRS-941 withholding, DTS
+  receipts, M2 — independent PRIMARY measurements rather than two trending lines on a shared picture. **Jake's
+  read of the picture is correct; the picture is just the weakest exhibit for it.** Use the delinquency and
+  withholding series when the claim needs to carry weight; use this chart when the claim needs to be *communicated*.
+- *(what IS solid in it)* **+33% at-home food since 2019 is a hard BLS number**, and food is a much larger share
+  of the bottom quintile's budget (~15-20%) than of the average (~11%) — so the squeeze is distributionally
+  concentrated exactly where the Hollow Bottom thesis says it is. **And the down-trading behavior the AP names —
+  "fewer favorite foods or less food overall" — is direct confirmation of [[trade-down-landing-pads]]:** trading
+  down is now being observed in the staple category, not just discretionary.
+- *(★★ THE MERGE — the genuinely new thing this makes visible)* Today the vault logged **memory-cost passthrough
+  reaching consumer prices** (Google joining Apple/Microsoft/Nintendo on hikes; "memory costs up sixfold").
+  So: **food +33% since 2019 (a chronic squeeze), AND consumer electronics — a decades-long DEFLATOR — flipping
+  to an inflator (an acute new one), in the same household budget.** The AI-capex thread and the consumption
+  thread, which the vault has run as separate spines, **converge at the household.** That convergence is the
+  political fuse already logged as "AI capital outbidding consumers": it is one thing for datacenters to raise
+  electricity bills, another when they also raise the price of the laptop and the console **while groceries are
+  up a third.** The distributional politics of the buildout get much worse from here, and the ratchet
+  ([[buildout-bottleneck-map]] moratoriums, the DRAM class action) is the mechanism.
+- *(the loop, restated with both halves)* AI buildout → memory crowd-out → consumer goods inflation → **stacked
+  on a food squeeze already running** → stickier core goods CPI → Fed holds higher-for-longer → the discount
+  rate stays high on the debt-funded complex that caused it. **PCE prints THURSDAY 5:30am PT** — the first read
+  where the electronics passthrough could show up in the core-goods line. [[new-economy-regime]], [[cepi]].
