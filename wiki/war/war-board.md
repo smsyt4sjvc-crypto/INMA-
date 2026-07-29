@@ -357,3 +357,57 @@ to diplomacy and he's asking for $1.5T from Congress.")*
 - **NEW WATCH — IRAQ AS A SUPPLY VECTOR (~4M bpd):** foreign aircraft striking inside Iraq is a sovereignty
   event for a government containing Iran-aligned blocs. Watch Baghdad's response, any move on the US presence,
   and militia retaliation against IRAQI export infrastructure (Basra/Gulf vs Ceyhan/Turkey bypass).
+
+##### 2026-07-29 ~8:50am PT — ★★ THE UNDERPRICED ITEM IN TODAY'S FEED: CHINA IS ARMING IRAN, ON A WEEKS TIMELINE
+### DATA (collector 15:31 UTC, 460 items)
+- **Reuters EXCLUSIVE: "Iran to get Chinese SHOULDER-LAUNCHED MISSILE SYSTEMS in WEEKS, sources say."**
+- **Trump: the US will hit Iran hard / give them a "beating"** (Fox quotes: *"beat the f------ s--- out of
+  them"*). **Oil +7%, Brent above $87.**
+- **IRGC Navy "targeted and stopped" THREE oil tankers** for alleged Hormuz route violations (Iranian state
+  media: *"Oil tankers hit after using illegal route"*).
+- **Jordan intercepts Iranian missiles**; US + Saudi strike Iran-backed militias in Iraq.
+- **ABC: "Iraq's balancing act is only getting harder as the war between the US and Iran widens."**
+  **Iraq's Kurdish region has overnight petrol queues** (war-driven fuel shortage).
+- **Ukraine claims hits on 2 major Russian refineries** hours after the Zelenskyy-Trump meeting; a Russian fuel
+  depot "of national importance" struck in Udmurtia. **NYT: Iran considered a retaliatory strike on a Ukrainian
+  seaport.**
+- **WSJ: "Netanyahu Finds Diminished Welcome From Trump as Iran War Drags On."**
+- Adjacent US-China: **US BANS foreign-made humanoid robots targeting China**; **lawmakers demand a
+  national-security probe of CXMT** ("ticking time bomb"); **"The U.S. Army Just Called China's Bluff in the
+  Rare Earth War."**
+
+### THESIS (interpretation — NOT fact)
+- *(★★★ THE MANPADS ITEM IS THE ONE NOBODY IS PRICING, and it is a category change)* Shoulder-launched missiles
+  are **man-portable air-defence systems (MANPADS)** — they do not threaten ships or refineries, they threaten
+  **AIRCRAFT AND HELICOPTERS.** Delivered "in weeks," they raise the **cost and risk of US and allied air
+  operations**, which are currently how this war is being fought at acceptable political cost (intercepts,
+  standoff strikes, no ground exposure). **The mechanism that has kept the US-Iran state exchange CAPPED is
+  cheap, low-casualty air superiority. MANPADS are the cheapest available way to make that expensive.** ⚠️
+  Single-source, sourced-not-confirmed — Reuters citing unnamed sources. **Do not trade it; watch for
+  confirmation or a first shoot-down.**
+- *(★★ AND IT MERGES THE TWO CONFLICTS THE VAULT HAS BEEN TRACKING SEPARATELY)* The vault runs a WAR board and
+  a US-CHINA TECH-RESTRICTION thread as separate files. **In one feed: China arms Iran; the US bans Chinese
+  humanoid robots; lawmakers demand a CXMT probe; the rare-earth fight escalates; Huang is in Washington over
+  China scrutiny.** **These stopped being separate stories.** If Chinese weapons kill Americans, **every
+  China-facing economic restriction the vault tracks — chips, memory, robots, rare earths — gets a political
+  accelerant that has nothing to do with trade policy.** That is a slow fuse and a fat tail, not a trigger.
+  **The names most exposed are the ones with the largest China revenue or China supply dependence: NVDA, AAPL
+  (CXMT lobbying), TSM, and the memory complex.** [[compression-thesis]], [[metered-compute]].
+- *(★ the STRAIT is being converted from a threat into an administered chokepoint)* Iran rejected the Omani
+  sharing proposal demanding **more control**, then the **IRGC Navy began stopping tankers for "route
+  violations."** **That is not sabotage, it is JURISDICTION** — Tehran acting as the strait's traffic
+  authority. The vault's toll-gate reading is being implemented in the open. **Per the registered
+  discriminator, this approaches the CLOSURE branch rather than the export-node branch — and set #6's kill
+  switch #3 (a strike on Abqaiq/Ras Tanura/Basra or Iraqi export infrastructure) STILL HAS NOT FIRED.**
+  Oil +7% is a premium on rhetoric plus enforcement, not on a destroyed asset. Hold the distinction.
+- *(★ Iraq is the vector the vault named and it is now degrading visibly)* We logged Iraq as *"the underpriced
+  vector nobody is watching — ~4M bpd, comparable in scale to the Hormuz question, through a different door."*
+  Today: **US+Saudi aircraft striking inside Iraq, an explicit "balancing act is getting harder" story, and
+  PETROL QUEUES in the Kurdish region.** Fuel queues are the physical-shortage signature arriving at the pump
+  in an OPEC-scale producer. Combined with Erdogan's **1M bpd Turkey-Iraq** talk, Iraq is simultaneously the
+  biggest re-routing HOPE and the biggest supply RISK. **Both legs strengthened today.**
+- *(the products front now has TWO wars on it)* **Ukraine hit two major Russian refineries and a
+  nationally-important fuel depot.** Refining capacity is being destroyed on two theatres at once while Jazan
+  (400k bpd) is down to ~Aug 15. **The vault's crack-spread expression is being fed by two independent
+  conflicts** — which is the strongest argument yet for holding the position in PRODUCTS rather than crude.
+  [[demand-destruction]], [[oil-value-chain]].
