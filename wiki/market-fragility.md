@@ -1135,3 +1135,67 @@ falsifiable test of a disagreement — Jake: coiled/paralysis; Claude: calm/cont
   event.** A +8.2 VRP decays hard on an in-line FOMC. **Nothing here is a reason to own index vol into
   Wednesday; it is a reason to stop reading the VIX as a statement about risk.**
 [[compression-thesis]], [[weekly-momentum]], [[_calibration]]
+
+##### 2026-07-28 ~8:46pm PT — ★★★ KOSPI −7.63% TO 5,564 (−40% FROM THE JULY HIGH). THE DECOMPOSITION SAYS THIS IS NOT A MEMORY STORY.
+*(Jake, "Round 2": KOSPI −8%, down ~−35% on the month. Chart: KOSPI Composite 5,564.06, −459.60, −7.63%.)*
+### DATA
+- **KOSPI 5,564.06, −459.60, −7.63%** (Jake's TradingView capture, Wed 7/29 Seoul session).
+- Chart shows an unbroken staircase from **~9,250 in early July** to 5,564 = **−39.8% peak-to-now**, with the
+  last three candles a violent acceleration (≈6,250 → 5,564). Poster's claim: **−35% on the month.**
+- Earlier the same session: **−4.65%** (Jake's 7:09pm PT cell) → deepened to −7.63% intraday.
+- Prior sessions logged: **−7.6% (post-circuit-breaker reopen), −6.1%, halted 20 min after an 8% decline.**
+- Same session: **Taiwan −2.85%, Nikkei −1.21%.** SK hynix printed net profit **+1,242%**, revenue **more than
+  tripled**, **missed** consensus revenue, **stock fell.**
+
+### THESIS (interpretation — NOT fact)
+- *(★★★ THE DECOMPOSITION — this is the finding, and it kills the convenient explanation)* Samsung Electronics
+  plus SK hynix are roughly **35% of KOSPI** (⚠️ approximate weight — verify before quoting). Run the
+  arithmetic on a −35% index month:
+  **semis −30% → they contribute −10.5%, so the OTHER 65% must be −37.7%**
+  **semis −40% → they contribute −14.0%, so the other 65% must be −32.3%**
+  **semis −45% → they contribute −15.8%, so the other 65% must be −29.6%**
+  **There is no memory drawdown large enough to explain a −35% index month.** Even at −45% for the chip
+  complex, the non-chip two-thirds of the Korean market has to be down ~30%. **This is not the memory
+  revaluation showing up at index level. This is broad Korean equity destruction with the chip rout inside
+  it.** [[memory-regime-question]], [[compression-thesis]].
+- *(⛔ WHAT THIS COSTS MY OWN READ, stated before anything else)* Four hours ago I wrote *"downgrade the
+  near-term systemic read; keep the sector read"* off a green SPX, a falling VIX and Dow +537. **The US
+  market-structure evidence for that is unchanged and still measured. But I applied a US-market-structure
+  finding to a GLOBAL question, and Korea is the answer to the global question.** A **−35% month in a G20
+  index exceeds the monthly drawdown of October 2008 (S&P ≈−17%) and March 2020 (S&P ≈−12.5%).** **Calling
+  that "a sector problem" was a category error.** The precise, defensible pair of statements:
+  **(1) Korea is having a systemic event. (2) The US is not transmitting it.** Both are true; the second does
+  not make the first benign, and I collapsed them into one claim.
+- *(★★ SO THE QUESTION IS THE CHANNEL, NOT THE SIZE — and equity beta has already been tested and failed)*
+  Three consecutive sessions of Asian cascade have produced a green SPX, a falling VIX, and the NDX absorbing
+  it through rotation. **Equity beta is not the transmission channel; it has been tested and it failed.** The
+  channels that could still transmit, in order of the vault's ability to observe them:
+  **(a) FX/funding — KRW.** Korean institutions liquidating FOREIGN assets to meet domestic margin shows up as
+  selling of US assets, not Korean ones. This is the one that reaches the S&P without touching Korean beta.
+  **(b) A named casualty** — a Korean securities house, a leveraged product, a fund gate. **That is what turns
+  a drawdown into a credit event, and there is no such name yet. Its absence is the strongest single argument
+  for containment.**
+  **(c) The carry trade / BOJ** — flagged in Tuesday's own collector (*"The central-bank decision that
+  actually impacts your 401(k) lands in Tokyo"*). The Aug-2024 replay mechanism.
+  **(d) Gold.** Gold **−0.67% at 4,022** Tuesday. **Gold selling WITH equities is the liquidation signature the
+  vault logged Monday; gold bidding while Korea crashes means contained.** Cheapest available referee.
+- *(★ THE STEELMAN FOR "IT'S STILL CONTAINED" — argued because Jake is leaning the other way)* Korea is a
+  small, retail-margin-driven, export-concentrated market with a documented history of violent standalone
+  moves that mean nothing globally (Aug-2024: −8.8% in a day, fully recovered within weeks). Its index is the
+  purest levered expression of exactly the one asset being repriced worldwide. **And the circuit-breaker
+  sequence means price discovery is broken — you cannot read "orderly" OR "disorderly" off a market that keeps
+  halting; each halt makes the next reopen worse mechanically, independent of any new information.** A −35%
+  month in THAT structure is a positioning liquidation, and positioning liquidations end when the positions
+  are gone, not when the fundamentals change.
+- *(⚠️ MY SET-#6 OMISSION, logged loud — the second one tonight)* **Set #6 carries no Korea kill switch.** I
+  registered it at ~6:40pm PT knowing KOSPI was −4.65% in-session, and wrote five kill switches (hawkish Fed,
+  dovish Fed, crude-export strike, MU reclaim, MSFT/META) **with Asia in none of them.** Set #5 had one
+  ("Korea CB2 overnight −15% → global rout mode") and at −7.63% **that threshold is HALF-fired, not fired.**
+  The set stands unedited per the rule. **Two omissions in one set — the Fed hike tail and Korea — both
+  discoverable at registration time. The nightly set needs a standing checklist, not recall.**
+- *(the registered discriminator for tonight, falsifiable by morning)* **NQ futures are the contagion gauge**
+  (Jake's own level-watch line). At 7:09pm PT: **NQ 27,843 −0.74%, ES 7,461 +0.28%** — with KOSPI then at
+  −4.65%. **KOSPI has since deepened ~3 points. If NQ does NOT deepen with it, that is the fourth consecutive
+  failure of the equity channel and the containment case gets materially stronger. If NQ breaks down as Korea
+  accelerates, the channel finally opened and everything above is obsolete.** Tool built: `tools/asia_stress_cell.py`.
+[[compression-thesis]], [[ai-financing-fragility]], [[weekly-momentum]], [[demand-destruction]]
