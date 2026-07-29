@@ -1440,3 +1440,53 @@ evidence and evidence gets audited before it gets used.)*
   7:09pm cell (82.64, +1.32%, implied base 81.56); do not pin the exact number until the cash settle.
 - *(the referee, third consecutive reading)* **Gold −0.40%, silver +0.47%.** Metals still refuse to confirm
   forced selling. **Still no named casualty.**
+
+##### 2026-07-29 ~8:34am PT — ★★ THE CASH TAPE ANSWERS THE TRANSMISSION QUESTION: THE DESTINATION IS STILL BID
+### DATA (Jake's cell, ~2h into the Wednesday cash session, 2.5h BEFORE the 11:00am PT FOMC)
+- **SPX −0.79% / SPY −1.19% / QQQ −1.88% / IWM −1.60%.**
+- **SOXX −4.35% · SMH −3.73% · XLK −2.16% · MU −6.00% ($780.94) · TSM −4.67% · AVGO −3.11% · NVDA −2.69%.**
+- **NOW +4.21% · LLY +0.27% · XLE +1.09% · VG +3.85%.** GLD −0.27%.
+- Megacaps ~flat: **MSFT −0.23%, AAPL −0.34%, GOOGL −0.50%, META −0.99%, AMZN −1.54%, TSLA −1.19%.**
+- ⚠️ Base check: SPX and LLY bases match our Tuesday marks exactly; **everything else drifts +0.3% to +1.25%**
+  — our 7:09pm marks were after-hours prints, not closes. **The cell's implied bases are the official closes
+  and govern.**
+
+### THESIS (interpretation — NOT fact)
+- *(★★ THE DISCRIMINATOR I REGISTERED LAST NIGHT HAS ITS ANSWER, and it is from the cash tape rather than
+  futures artifacts)* The registered test was: **"watch the rotation DESTINATION, not the victim — if the
+  destination sells too, dispersion collapses into correlation."** **Every destination is holding or green:
+  NOW +4.21%, XLE +1.09%, LLY +0.27%, megacaps ~flat at −0.36% average.** **SOXX-minus-SPY spread −3.16 pts;
+  NOW-minus-SOXX +8.56 pts.** **The absorber is absorbing.** The index is down because the victim group finally
+  got large enough to matter, **not because correlation snapped back.** Five sessions, five failures of the
+  correlation channel — now confirmed on cash, not overnight futures.
+- *(★★ THE ONE GENUINELY NEW THING: NVDA IS SELLING)* Tuesday NVDA closed **+0.44%** while AMD −8, MRVL −7,
+  INTC −6 — *"AI chip trade narrows to NVIDIA."* **Today the apex is down 2.69%.** **The last refuge inside
+  semis is gone.** This is the datum that matters for [[ai-financing-fragility]]: the vault filed that the
+  index's AI exposure was collapsing onto one balance sheet, and that balance sheet is the one writing the
+  circular cheques (NVDA→SSI $5-6B; NVDA CDS 77.6, doubled in six weeks). **Concentration risk and policy risk
+  and credit risk were already the same ticker; now the price is participating.** Watch whether NVDA
+  underperforms SOXX from here — that would be the narrowing reversing, i.e. the apex becoming the source of
+  supply rather than the refuge.
+- *(★ MU: the registered line failed and stayed failed)* **$780.94, decisively below the $854 discriminator**,
+  which was set #6's kill switch #4 ("reclaim = the break was a flush"). **No reclaim; the air-pocket regime
+  holds.** The registered next level is ~$652, another −16.5% from here. Consistent with last night's Korea
+  work: **the earnings are real and FX-confirmed; it is the MULTIPLE that is compressing, and multiples do
+  not stop compressing because the next print is good.**
+- *(⛔ set #6's SHAPE call is failing, and the reason is instructive)* I wrote *"quiet, low-volume morning —
+  the freeze holds, nobody sets risk before 11am, vol at 11:00 and 11:30."* **The morning is not quiet: SOXX
+  −4.35% and MU −6% pre-FOMC.** **The overnight Asian event overrode the pre-event freeze** — Korea −9.78%,
+  hynix −15.35%, Samsung −9.91%, Taiwan −9.48%. **Lesson: a pre-event positioning freeze is a US-calendar
+  phenomenon and does not survive a large offshore shock. I modelled the calendar and ignored the clock.**
+- *(★★ but the SPREAD calls — the registered "real content" — are winning by multiples)* Called vs running:
+  **software over semis +1.0pt → +8.56 pts. Payers over sellers +0.7pt → +2.54 pts. Staples/health over tech
+  +0.5pt → +2.43 pts.** All three, all in size. **The set-#5 lesson (in a dispersion regime the index call is
+  the least informative thing on the page) is being validated hard.** ⚠️ Not graded — the set grades on the
+  CASH CLOSE and FOMC has not happened.
+- *(★ the live risk to all of it, named because it is registered)* **Set #6 kill switch #2: a dovish surprise
+  → melt-up and a violent momentum-basket bounce → my spread calls lose.** With the momentum basket at
+  −40.98% and no recovery leg, a dovish Fed is the single event that reverses every spread above at once.
+  **And the tail I omitted at registration is live in 2.5 hours: hike odds near one-in-three, Citadel calling
+  for a surprise hike** — which would land on a semis tape already −4.35% before the statement.
+- *(the energy confirmation, which settles my own over-flag)* **XLE +1.09% green on a red tape** independently
+  corroborates that the overnight WTI move was real and not a contract-roll artifact. That closes the question
+  I flagged last night. Set #6's **WTI +2.5% at 68% up** is working. [[demand-destruction]], [[oil-value-chain]].
