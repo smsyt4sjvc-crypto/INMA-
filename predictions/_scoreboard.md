@@ -119,3 +119,12 @@ Tuesday: **Apple touched $5T and took the most-valuable-company crown from NVIDI
 headline reading *"Apple becomes second $5tn company **as investors flee AI stocks**."* Direction, mechanism
 and the named beneficiary all as-called, five sessions later. Logged to [[compression-thesis]] and
 [[detachment-bid]].
+
+### 2026-07-29 8:34am PT — CORRECTION TO SET #5's MU GRADE (range was NOT breached)
+Wednesday's cell implies MU's **official Tuesday close was 830.79** (780.94 at −6.00%), not the **820.53** we
+recorded at 7:09pm PT — that mark was an after-hours print, the same base bug already registered. With Monday's
+official close at 884.99, **MU's true Tuesday move was −6.12%, not −7.28% or −8.85%.** Set #5 called −3% with a
+−8% to +2% range: **comfortably INSIDE.** **Range score corrects from 4/5 to 5/5.** Direction 3/5 unchanged.
+My "take the harsher reading" instruction produced the wrong grade because BOTH bases I compared were wrong;
+the authoritative base is the NEXT session's `previous_close`, exactly as the fix specified. Applying my own
+rule would have avoided the error.
