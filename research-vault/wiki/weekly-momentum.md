@@ -76,3 +76,59 @@ horizon to test next.
 - The full weekly picture, both studies: NDX weekly returns carry NO exploitable drift or reversal in
   either direction, from any setup — but volatility state persists strongly. Price = efficient;
   energy = predictable. Trade the energy pricing (options), never the direction, at this horizon.
+
+##### 2026-07-29 ~10:50am PT — ★★★ GS MIDDAY: BREADTH FLIPPED. THE ROTATION PHASE HAS BECOME A DE-GROSSING PHASE.
+### DATA (Goldman Sachs midday wrap, Jake paste — GS PRIME BROKERAGE data, not a directional call)
+- **"Momentum still can't stabilize: GSPRHIMO down again with our high beta momentum pair −5.7% TODAY —
+  DAY 3 of the unwind despite the LARGEST 3-DAY DE-GROSS ON GS PRIME RECORDS SINCE NOV '22."**
+- **"Breadth flipped negative: YESTERDAY saw 357 SPX names GREEN with SPW AT ALL-TIME HIGHS; today breadth is
+  negative with 307 names in the RED as de-grossing continues."**
+- Context from the same session: **SOXX −5.40%, SPY −1.46%, NOW +5.42%, XLE +1.28%, LLY +0.25%, VIX +8.74%,
+  neocloud cohort −10.78%.**
+
+### THESIS (interpretation — NOT fact)
+- *(⛔ THE FACT I DID NOT HAVE, AND IT CORRECTS THIS VAULT'S TONE)* **The S&P EQUAL WEIGHT index made an
+  ALL-TIME HIGH on Tuesday, with 357 names green.** The vault spent Tuesday and Tuesday night writing about a
+  rout, a crash, contagion and financing breaks — **while the AVERAGE S&P STOCK PRINTED A RECORD.** **The
+  damage has been entirely concentrated in one cohort, and the market underneath it was at its best level
+  ever.** That is the single most important calibration item of the week and it argues the vault's language has
+  been running hotter than its own data. **Logged as a tone correction, not a thesis change** — the dispersion
+  read was right; the vocabulary around it was not.
+- *(★★★ MY REGISTERED FLIP CONDITION HAS FIRED — on the correct instrument this time)* The condition, filed
+  7/28: **"watch the rotation DESTINATION, not the victim — if the destination sells too, dispersion collapses
+  into correlation."** **Breadth going from 357 green with SPW at an all-time high to 307 red in one session IS
+  the destination selling.** I twice claimed this fired off futures base artifacts and had to retract both
+  times. **This is breadth data from a prime broker — a measurement, not a print I differenced wrongly.**
+  ⚠️ **Precision on magnitude: 307 red of ~503 is 61% — a moderately negative day, not a washout.** The flip is
+  real and it is ONE DAY. **Day 2 confirms or kills it.**
+- *(★★★ THE MECHANISM, and it is the most useful distinction available today: ROTATION → DE-GROSSING)*
+  **Rotation sells A and buys B — it LIFTS the average stock, which is exactly how SPW made an all-time high
+  while semis collapsed.** **De-grossing sells A AND B and holds cash — it takes everything down, which is
+  exactly what negative breadth on day 3 of the unwind looks like.** **The absorber did not fail because the
+  destination lost its thesis; it failed because the buyers stopped buying ANYTHING.** That reframes the whole
+  week: **the vault has been asking "does the rotation destination hold?" when the operative question was
+  "does the gross exposure hold?"** [[market-fragility]], [[concentration]].
+- *(★★ AND THE TWO CLAUSES IN THE FIRST SENTENCE ARE IN TENSION, WHICH IS THE REAL SIGNAL)* **"Momentum still
+  can't stabilize... DESPITE the largest 3-day de-gross since Nov '22."** **A de-gross of that magnitude is
+  normally the capitulation — it is the mechanical event that MARKS a low, because the forced sellers are
+  finished.** **Three days in, at a record de-gross, and momentum is still down 5.7% on the day. The flush is
+  not finding a clearing level.** Two readings, and the vault must hold both: **(a) the positioning unwind is
+  larger than the de-gross has yet cleared, so there is more to come; (b) a record de-gross that has not
+  produced a bounce is precisely the condition under which the bounce, when it comes, is violent.**
+- *(★ what it does to my live calls — stated plainly and BEFORE the close)* **The spread calls are still
+  winning on the named legs** (NOW +5.42 vs SOXX −5.40 = ~10.8 pts) **but the BREADTH under them has turned.**
+  **A de-grossing regime is hostile to long-short spread positions in a way a rotation regime is not** —
+  de-grossing compresses BOTH legs toward cash. **If Goldman is right that this is de-grossing rather than
+  rotation, my three spread calls degrade from here even if their direction stays correct.** Registered before
+  the cash close so the grade is honest.
+- *(★★ AND KILL SWITCH #2 IS NOW AT ITS MAXIMUM, WHICH IS THE OPPOSITE OF COMFORTING)* Largest 3-day de-gross
+  since Nov '22 + worst hedge-fund day since COVID + momentum at a −40%+ drawdown + SOX at its 100-day + VIX
+  bid. **That is the most washed-out configuration the vault has recorded.** Set #6's #2 — a dovish FOMC
+  producing a violent momentum-basket bounce that reverses every spread call at once — **has more fuel behind
+  it now than at registration.** **The one piece of evidence against it firing is Goldman's own first clause:
+  momentum still can't stabilize on day 3.** [[dip-buying-base-rates]], [[market-fragility]].
+- *(source-hygiene note, because the vault discounted a JPM call three hours ago)* **GS PRIME data is
+  MEASUREMENT — de-gross magnitudes, breadth counts, factor returns from their own book.** **JPM's "next
+  selling hits indexes" was a directional OPINION and was discounted as sentiment.** These are different
+  categories and should be weighted differently. **The GSPRHIMO series is the same instrument the vault has
+  been tracking since Monday's reframe, so it is also internally consistent, not a new correlated source.**
