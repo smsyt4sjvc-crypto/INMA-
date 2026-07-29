@@ -1513,3 +1513,70 @@ THESIS (interpretation):
   **(a) 2Y DOWN + 10Y/30Y UP** → credibility / inflation-tolerance steepening. Everything above applies.
   **(b) 2Y flat-to-up, 30Y up MORE** → term-premium/supply steepening. Same direction, weaker signal.
   **(c) 2Y down hard, 10Y roughly flat** → pure dovish relief. Least interesting; ignore the above.
+
+##### 2026-07-29 ~11:20am PT — ★★★ THE STATEMENT REDLINE: WARSH DELETED FORWARD GUIDANCE, CALLED ENERGY A SUPPLY SHOCK, AND DECLARED CAPEX STRONG
+### DATA (FOMC statement text + redline, Jake paste)
+- **Vote line redlined 12 → 9-3.** Prior meeting was unanimous; this one carries three dissents.
+- **"FED SWAPS NO LONGER FULLY PRICE IN A SEPTEMBER RATE HIKE"** — swaps had FULLY priced a September hike
+  going in. **Front end rallied.** And **"TREASURY YIELD CURVE STEEPENS AFTER FED RATE DECISION."**
+- Statement text, the load-bearing lines:
+  - *"Economic activity is expanding at a solid pace **despite elevated uncertainty that owes, in part, to the
+    conflict in the Middle East. PRODUCTIVITY GROWTH AND CAPITAL INVESTMENT ARE STRONG.**"*
+  - *"Inflation remains elevated relative to the Committee's 2 percent goal, **in part reflecting SUPPLY SHOCKS
+    that have driven price increases in certain sectors, including ENERGY.**"*
+  - *"**The Committee WILL DELIVER price stability.**"*
+  - *"The Committee ~~reaffirmed~~ **is continuing** its policy of maintaining ample reserves."*
+  - Dissents: **Hammack, Kashkari, Logan — all preferred +25bp AT THIS MEETING.**
+- **ZH: "the pithiest of redline comparisons in history."** **NO forward-guidance paragraph. No "extent and
+  timing of additional adjustments." No data-dependence language. No risk-balance sentence.**
+
+### THESIS (interpretation — NOT fact)
+- *(⛔ CORRECTING MYSELF FROM 15 MINUTES AGO — I had the polarity backwards)* I wrote: **"this Fed is
+  hike-curious because of OIL while growth undershoots... the textbook policy-error configuration."**
+  **The statement says the opposite.** The MAJORITY explicitly labels inflation as **"supply shocks... including
+  energy"** — **which is central-bank language for "we are going to look through it."** **Only the three
+  dissenters are hike-curious. The committee that wrote the statement is not.** That is why swaps priced OUT
+  the September hike within minutes. **My inference ran off the dissents; the text ran the other way, and the
+  text governs.**
+- *(★★★ AND THAT COMPLETELY EXPLAINS THE STEEPENING — front end gets relief, long end gets the bill)* **Front
+  end: no hike, September priced out, 2Y rallies.** **Long end: a Fed that publicly declines to tighten against
+  energy inflation IS an inflation-tolerant Fed, so inflation compensation and term premium do not improve.**
+  **Steepening is the arithmetic of those two facts, and it resolves my conditional fork to branch (a) —
+  credibility / inflation-tolerance steepening, not dovish relief.** ⚠️ Still want the 2s/10s/30s legs to
+  confirm magnitude, but the direction is no longer ambiguous.
+  **CONSEQUENCE FOR THE ENERGY WORK: the SPR clock is NOT a hike trigger. It is a TERM-PREMIUM trigger.**
+  If oil keeps rising and this Fed keeps looking through it, **the long end prices the inflation instead of the
+  policy response.** That is a steeper curve, not a higher funds rate — **a different trade entirely from the
+  one I wrote 15 minutes ago.** [[demand-destruction]], [[market-fragility]].
+- *(★★★ "PRODUCTIVITY GROWTH AND CAPITAL INVESTMENT ARE STRONG" — THE FED JUST ANSWERED THIS VAULT'S TOP
+  QUESTION)* [[consumption-vs-investment-crux]] is the spine note: **"did post-COVID borrowing BUILD or
+  DRINK?"** **The FOMC has now put "productivity growth and capital investment are strong" into the official
+  statement. That is the Federal Reserve, on the record, saying it BUILT.** From the most authoritative
+  possible source, and it cuts AGAINST the drank/bear reading. ⚠️ **Directly contradicts the Rabobank line from
+  this morning's feed** — *"the link between huge AI CapEx and improved productivity outcomes does not seem to
+  be established in the top level data just yet."* **Two institutions, opposite readings of the same
+  productivity data, same week. The Fed sets policy; Rabobank does not.** **Register the Fed's version as the
+  operative one and the disagreement as the thing to watch.**
+- *(★★ what that sentence does to the capex thesis)* **A central bank that declares capital investment strong
+  AND looks through energy inflation has just described the monetary conditions for the buildout to
+  continue.** For [[ai-capex-cycle]] this is the most supportive policy language available — it removes the
+  rate-shock branch from the capex-stop scenarios. **The buildout's remaining constraints are the ones this
+  vault has documented all week and none of them are the Fed: bank sector limits, cooling investor demand for
+  hyperscaler paper, grid curtailment, and the equity market's refusal to fund an ASK.**
+- *(★★ THE FORWARD-GUIDANCE DELETION IS THE STRUCTURAL EVENT, and it was flagged this morning)* The 8:45am
+  feed carried **"A 'True Shock': Will Warsh Put A Definitive End To Forward Guidance Today."** **He did.**
+  There is no guidance paragraph, no data-dependence, no risk balance — **just a declarative promise: "The
+  Committee WILL DELIVER price stability."** **Assertion has replaced forecast.** Consequences: **(1) every
+  rate-sensitive asset now carries permanently higher variance because there is no anchor between meetings;
+  (2) each individual data print gets MORE market impact, not less, because it is the only input left;
+  (3) the promise is a credibility liability — if inflation does not fall, that sentence is what gets quoted
+  back.** **This is a regime change in Fed communication and it lands on a market already carrying the largest
+  3-day de-gross since Nov '22.**
+- *(★ the war is now formally inside monetary policy)* **"elevated uncertainty that owes, in part, to the
+  conflict in the Middle East"** — the FOMC naming the war in its statement. [[war/war-board]] and
+  [[new-economy-regime]] are now one file in substance if not in form.
+- *(what does NOT change)* **Set #6 kill switch #2 still did not fire** — no cut, no cut signal. The bounce off
+  731.73 began ~1.5 hours BEFORE the statement, so the positioning mechanism fired without the catalyst.
+  **And the capex-intensity discriminator survives intact: the Fed's blessing helps the fundamentals of
+  capital-intensive names while a steeper curve hurts their FINANCING. The split remains between those who must
+  BORROW to build and those who do not.**
