@@ -72,7 +72,7 @@ if '^VIX9D' in lv and '^VIX' in lv:
     a, b = D['^VIX9D'], D['^VIX']
     hs = (a/b.reindex(a.index).ffill()).dropna()
     pct = float((hs < r).mean()*100)
-    print(f'  ratio {r:.3f}    ({pct:.0f}th percentile of the last 12 months)')
+    print(f'  ratio {r:.3f}    ({pct:.0f}th pctile of the last 12 months)')
     if   r >= 1.05: v='COILED — near-dated event premium priced. JAKE: hedges thin, reaction unabsorbed.'
     elif r >= 1.00: v='MILDLY COILED — front end bid. Leans Jake.'
     elif r >= 0.92: v='NORMAL — no event premium priced. Leans Claude (genuine calm).'

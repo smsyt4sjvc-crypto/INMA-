@@ -1086,3 +1086,52 @@ noticing.)*
   **I reason from the newest input instead of searching what is already filed.** Rule reinforced to
   [[_calibration]]: **before writing a conclusion about a market state, grep the vault for the same day.**
   [[compression-thesis]], [[weekly-momentum]], [[_calibration]]
+
+##### 2026-07-28 ~7:45pm PT — ★★★ THE VIX TEST RAN. NEITHER OF US WON, AND THE THIRD ANSWER IS THE USEFUL ONE
+*(`tools/vix_term_structure_cell.py`, Jake's run, all data as of the 7/28 close. This was a pre-registered,
+falsifiable test of a disagreement — Jake: coiled/paralysis; Claude: calm/contained. Scored honestly below.)*
+### DATA (measured, 2026-07-28 close)
+- **Term structure: VIX9D 17.25 · VIX 18.21 · VIX3M 19.86 · VIX6M 21.82.** Textbook upward slope.
+- **VIX9D/VIX = 0.947 — but at the 71st PERCENTILE of the last 12 months.**
+- **VIX/VIX3M = 0.917 = CONTANGO.** No backwardation, no systemic bid.
+- **VVIX 98.51 (−2.38%). SKEW 142.98 (−2.47%).**
+- **Realised 10-day vol: SPX 10.0% vs Mag-7 average 41.2% (7/7 names). INDEX/COMPONENT = 0.24.**
+  Components: TSLA 77.3 · GOOGL 53.0 · NVDA 35.3 · AMZN 31.3 · AAPL 30.7 · META 30.7 · MSFT 29.8.
+- **Variance risk premium: VIX 18.21 − realised10d 10.0 = +8.2 points.**
+
+### THESIS (interpretation — NOT fact)
+- *(SCORING THE DISAGREEMENT — split, and I am not claiming the win)* **Claude's read wins the slope and the
+  VRP:** contango, a normal upward curve, and implied at nearly 2x realised is not a market with thin,
+  underpriced hedges. **Jake's read wins the relative front end:** 0.947 is "no event premium" against the
+  registered threshold, **but it sits at the 71st percentile — the front end is more bid than it is 71% of the
+  time.** The absolute test says calm; the relative test says leaning. **Neither verdict is clean and the
+  pre-registered thresholds hid the nuance — logged as a tool lesson: publish the percentile ALONGSIDE the
+  threshold verdict, never behind it.**
+- *(★★★ THE FINDING THAT DWARFS BOTH — index/component 0.24 against a 0.55 threshold)* **SPX is realising 10%
+  vol while its largest components realise 41%.** That is less than HALF the level at which the cell was set to
+  call "correlation collapse." **My 7/28 concession was right and I under-stated the magnitude: the low VIX is
+  overwhelmingly dispersion arithmetic, not a judgment that risk is contained.** Robustness check — strip the
+  two earnings movers (TSLA 77.3, GOOGL 53.0) and the remaining five average 31.6%, giving 0.32. **Still
+  extreme.** The finding does not depend on outliers.
+- *(★★ SO THE VRP IS MEASURED AGAINST A RIGGED DENOMINATOR — this is the synthesis both of us missed)* The
+  +8.2-point premium says "the hedge is expensive." **But it is expensive relative to an index realised vol
+  that is itself suppressed by the correlation collapse.** If correlation snaps back, SPX realised goes from
+  10 toward 25+ in a session and 18.21 was cheap in hindsight. **You are not being offered an expensive hedge
+  or a cheap one. You are being offered a bet on CORRELATION, priced as if it were a bet on volatility.**
+  That reframes the instrument question entirely: **index vol is the wrong expression of this view.** The
+  exposure that matches the thesis is single-name vol on the rotation DESTINATION, or nothing.
+- *(★ the wings-vs-body tell, which is the one genuinely new observation)* **SKEW 142.98 (high end of its
+  ~110-155 range) with VVIX at a middling 98.5 and ATM index vol at 18.21.** **The market is buying TAILS, not
+  BODIES.** Someone is paying up for crash protection while ATM index vol stays cheap and vol-of-vol is
+  unremarkable. If participants were loading VIX calls into FOMC, VVIX would be elevated — it is not. **Read:
+  the hedging that exists is far out of the money and structural, not event-driven.** That is a partial point
+  for Jake's instinct (protection IS being bid) landing on a different instrument than either of us named.
+- *(what this does NOT change)* The momentum-unwind reframe never depended on the VIX and is untouched. The
+  registered discriminator stands and is now sharpened: **watch the rotation DESTINATION on the MSFT/META
+  prints.** The destination selling is the event that makes correlation snap back — **and the correlation snap
+  is the mechanism, not the index level.** A 0.24 index/component ratio is the numerical statement of how much
+  room there is for that snap.
+- *(⚠️ the counter that still stands against acting on any of it)* **The base rate is VIX crushing after the
+  event.** A +8.2 VRP decays hard on an in-line FOMC. **Nothing here is a reason to own index vol into
+  Wednesday; it is a reason to stop reading the VIX as a statement about risk.**
+[[compression-thesis]], [[weekly-momentum]], [[_calibration]]
