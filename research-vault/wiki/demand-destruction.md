@@ -2248,3 +2248,63 @@ shortage, and the tape isn't saying that despite the numbers literally saying it
   price has been unable to sustain a trend and why the vault's expression sits in cracks and calendars.
   **Ukraine hitting two Russian refineries the same day compounds the PRODUCTS story specifically**, on a
   second front, and Kurdish petrol queues are physical products scarcity already visible at the pump.
+
+##### 2026-07-29 ~9:00am PT — ★★★ THE EIA PRINT PUTS A DATE ON THE ABSORBER: SPR 307.65M, 722k bpd, ~11.4 WEEKS. CUSHING AT TANK BOTTOMS.
+### DATA (DOE/EIA weekly via ZeroHedge, ~1h before paste)
+- **Crude −2.167MM vs expected +1.00MM** → a **3.167MM barrel MISS to the TIGHT side.**
+- **SPR −5.057MM to 307.650MM.** Cushing **−771K**. Distillates **+1.062MM**. Gasoline **+7K (flat)**.
+  Production **−2 kb/d to 13.796MM bpd.**
+- **ZH: "WTI Holds Spike After Big Crude Draw, SPR Drain Continues As Cushing Stocks Stuck 'AT TANK BOTTOMS'."**
+- **WTI HOD $83.34, +5%.** Confirms yesterday's API draw (the vault flagged that as needing EIA confirmation
+  — **confirmed**).
+- **Kyodo: "3 JAPAN-LINKED VESSELS EXIT PERSIAN GULF BY IRAN ROUTE."**
+- **"Gulf Bond Boom: Record Borrowing Fuels Race To Future-Proof Against Hormuz Shutdown."**
+- **Iraq's President rejects the use of Iraqi territory to launch attacks; Iraq calls the Saudi-US strikes
+  "unacceptable, a violation of sovereignty."** Joint US-Saudi strikes killed 20 militants.
+- **Ukraine's foreign minister says an attack on an Iranian ship in the CASPIAN SEA was "unintentional."**
+  *"ENEMY PROJECTILE" HITS IRAN'S WEST AZERBAIJAN PROVINCE* (Fars).
+
+### THESIS (interpretation — NOT fact)
+- *(★★★ THE CLOCK IS NOW DATED, and it tightened)* The vault registered the absorber as **SPR ~311M drawing
+  ~705k bpd, ~12 weeks to 250M.** **Updated on the print: 307.650M, −5.057MM this week = 722k bpd, and 57.6MM
+  barrels to the 250M line = 80 days = ~11.4 WEEKS.** The draw RATE accelerated. **Interim markers, which are
+  the tradeable objects:** **300M in ~1.5 weeks. 275M in ~6.5 weeks. 250M in ~11.4 weeks (~mid-October).**
+  ⚠️ 250M is a chosen reference, not a statutory floor — the real constraint is minimum operating inventory,
+  which is lower and disputed. **The registered TELL is unchanged and now closer: watch for the week the
+  release rate SLOWS. That is the signal, not the level.**
+- *(★★ AND THE CRUDE DRAW CONFIRMS THE CURVE — the vault's calendar-spread work was right and is now
+  fundamentally corroborated)* The crude curve cell showed **steep deferred backwardation ($0.80-1.80/month)**
+  and the vault concluded **"the shortage IS real; flat price was the misleading instrument."** **A 3.17MM
+  barrel miss to the tight side, with Cushing at tank bottoms, is the physical fact under that curve shape.**
+  ⚠️ Discipline: **the SPR is releasing INTO this draw.** A crude draw while the SPR adds 722k bpd of supply
+  means **commercial demand is exceeding supply by more than the headline draw shows.** That is the tighter
+  reading, and it is the one the curve was already pricing.
+- *(★★ CUSHING AT TANK BOTTOMS IS THE MOST IMPORTANT PHRASE IN THE PRINT)* Cushing is the **WTI delivery
+  point.** "Tank bottoms" = the operational minimum below which crude cannot physically be withdrawn.
+  **Deliverable inventory at the settlement hub approaching zero is how a paper contract stops tracking a
+  physical market** — it is the precondition for a squeeze in the front, and it explains why the front has been
+  jumpy while the deferred curve held its shape. **Registered: Cushing is now a first-order series for this
+  vault, alongside SPR.** [[oil-value-chain]].
+- *(★★ JAPAN PAYING FOR PASSAGE — the toll-gate thesis gets its first NAMED PAYER)* The vault's 7/26 read was a
+  **"selective, toll-gated strait"** — China reported negotiating directly with the Houthis for safe passage.
+  **Three Japan-linked vessels exiting the Gulf "by Iran route" is the second nation-state accommodation, and
+  it is a US TREATY ALLY.** **If Tokyo is transiting on Tehran's terms, the strait is not closed — it is
+  ADMINISTERED, and the administrator is Iran.** That is a fundamentally different market structure from
+  blockade: **supply keeps moving, at a price, to whoever pays.** It explains the whole absorption paradox
+  better than any inventory argument — **the barrels are flowing, the toll is invisible in flat price, and it
+  shows up as freight, insurance and CRACKS.** ⚠️ Kyodo single-source, ZH framing is editorial; **verify before
+  upgrading.** But it is the most consequential item in the feed after the EIA numbers.
+- *(★ IRAQ'S SOVEREIGNTY REJECTION IS THE VECTOR THE VAULT NAMED, ARRIVING)* We logged Iraq as *"the underpriced
+  vector nobody is watching — ~4M bpd, comparable in scale to the Hormuz question, through a different door."*
+  **Today the Iraqi President formally rejected the use of Iraqi territory for attacks and called the US-Saudi
+  strikes a sovereignty violation.** That is the first political step on the path from "US operates freely from
+  Iraq" to "US presence contested" — and Iraqi export infrastructure is the OTHER half of set #6's kill switch
+  #3. **Still not fired. Watch parliament and any militia retaliation against Iraqi export nodes specifically.**
+- *(the Gulf bond boom is the re-routing ledger with a financing number attached)* **Record Gulf borrowing
+  explicitly to future-proof against a Hormuz shutdown.** Sovereigns are pricing the bypass as worth funding at
+  scale — which is simultaneously (a) confirmation the risk is real and (b) the mechanism by which the risk
+  gets structurally reduced over 2-5 years. **Bullish crude near-term, bearish the Hormuz premium long-term.**
+- *(⚠️ a THIRD front on Iranian assets)* **Ukraine striking an Iranian ship in the CASPIAN** — "unintentional"
+  per Kyiv — plus a projectile into **West Azerbaijan province.** Iran is now taking fire from Israel/US, and
+  from Ukraine on a second axis, while supplying Russia. **The number of parties able to trigger an oil-market
+  event has increased and none of them are coordinated.** That widens the tail without moving the base case.
