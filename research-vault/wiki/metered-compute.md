@@ -1088,3 +1088,42 @@ subagents because training is unique to their production needs — with intercha
   kind of thing that ends neglect** — watch whether NVDA volume spikes into the close; a legal/regulatory
   re-rating of the apex name is a different animal than the supply-chain liquidation running beneath it.
   Also SMCI (already −7.2% Monday) carries direct case exposure. [[ai-financing-fragility]], [[ai-capex-cycle]].
+
+##### 2026-07-28 ~7:05pm PT — HUANG'S DC TRIP PAID: Warner MOVED on open-weight — and the Moonshot investigation makes the argument circular
+### DATA (Jake's offloaded research digest; readouts as-reported, no transcript — closed meetings)
+- Huang met **Lutnick** and **Sen. Mark Warner (ranking Dem, Senate Intelligence)** plus unidentified members
+  of both parties. Nvidia's stated agenda: **$500B of American technology over four years**, supply chain,
+  US AI leadership, **"keeping America competitive in open-weight/open-source AI."**
+- **★ THE RESULT: after meeting Huang, Warner told reporters Huang "makes a compelling argument"** — and that
+  **six months ago he was more sympathetic to CLOSED models**, but Chinese models like **Moonshot's Kimi K3**
+  changed the landscape; he was **unsure whether the open-source "genie" could be put back in the bottle.**
+- Huang's case (from Nvidia statements + prior interviews, not the closed meetings): lead in open-weight rather
+  than suppress it; don't ban Chinese models merely for being Chinese; **punish IP theft, contract violations
+  and prohibited chip transfers — not the models**; open models improve security via inspectability; **cheaper,
+  widely distributed AI increases total usage and therefore GPU/networking/datacenter demand.**
+- **BIS is investigating allegations involving access to restricted Nvidia Blackwell/GB300 chips AND CHINA'S
+  MOONSHOT AI.** Aug-1 framework reportedly includes **voluntary arrangements giving the federal government
+  early access to certain frontier models before public release.**
+### THESIS (interpretation — NOT fact)
+- *(Jake's frontloading thesis is now paying in VOTES, not just optics)* This is no longer compliance-record
+  building — **Huang moved one of the Senate's most influential AI-security voices, days before the framework
+  lands.** That is the most consequential political event of the week for the open-weight question, and it
+  vindicates reading the DC trip as leverage rather than ceremony.
+- *(the last argument is the business model stated as policy)* "Cheaper models increase total usage → expands
+  GPU demand" is **Jevons, delivered to lawmakers.** The vault logged NVDA's open-source advocacy as lobbying
+  for the distributed-inference topology; it is now explicit in the pitch. Read every line of the case through
+  it: each policy Huang endorses (punish transfers, not models) protects the addressable market while
+  conceding the enforcement point that costs him least.
+- *(★★ THE CIRCULARITY — the sharpest thing in the readout)* **BIS is investigating whether restricted Nvidia
+  chips reached MOONSHOT AI — the maker of Kimi K3 — while Huang cites Kimi K3's existence as proof that the
+  open-weight genie cannot be re-bottled, and Warner cites Kimi K3 as the reason he moved.** If the model being
+  used as evidence that controls are FUTILE was itself trained on chips that EVADED those controls, then the
+  correct inference is not "controls don't work" — it is **"controls were violated."** Those are opposite policy
+  conclusions, and the entire enforcement case sits in the gap. **Registered as the question to watch: does
+  anyone in the hearing chain connect the Moonshot investigation to the Kimi-as-inevitability argument?**
+  (⚠️ the investigation is an allegation; the chip provenance of Kimi K3 is NOT established. Stated as the
+  structural question, not as fact.)
+- *(net)* Two fronts, one objective: prevent Washington from combining Chinese-open-model restrictions + tighter
+  chip export controls + broad frontier safety requirements into a structure that shrinks NVDA's market. **Early
+  evidence says the open-source front is being won; the chip-export front is where the BIS investigation gives
+  Commerce its leverage.** [[compression-thesis]], [[ai-financing-fragility]], [[_calibration]].
