@@ -1612,3 +1612,51 @@ evidence and evidence gets audited before it gets used.)*
   momentum-basket bounce → all three of my winning spread calls reverse at once — is the single largest risk
   in the book right now**, and every additional point of flush makes it larger. **Registered before the event,
   in writing, so the grade is honest either way.**
+
+##### 2026-07-29 ~12:41pm PT (20 min to close) — ★★★ THE PRESSER RALLY WAS FULLY SOLD. NEW LOWS BELOW THE PRE-FOMC LOW.
+### DATA (Jake's SPY 1D chart, 12:41pm PT)
+- **SPY $731.95, −$8.91 (−1.20%).** Path: morning low **731.73 (pre-FOMC)** → statement pop → **HIGH OF DAY
+  742.68 during/after the presser** → **collapse to 731.06 LOW OF DAY.**
+- **HOD → LOD = −11.62 points, −1.56%.** **The low (731.06) is BELOW the pre-FOMC low (731.73) — NEW LOWS
+  after the most capex-supportive Fed statement available.**
+- **Volume 43.7M vs 46M 10-day average, and the volume bars BUILD into the final decline** — real selling, not
+  drift. The only larger single bar was the statement print itself.
+- Concurrent: **30Y +10bp to 5.19%**, Brent $91, S&P turned negative during the presser.
+
+### THESIS (interpretation — NOT fact)
+- *(★★ THE SEQUENCE IS THE INFORMATION, and it is a lagged repricing of the CURVE)* **Front end rallies (hike
+  priced out) → equities rally → 30Y +10bp → equities work out that BEAR steepening is not good news →
+  dump to new lows.** The market took the statement at face value for roughly an hour, then read the long end.
+  **That is the capex-intensity/discount-rate mechanism filed at 11:13am arriving with a lag**, and it is the
+  cleanest confirmation of that read available: **the rally died at the exact moment the curve's message became
+  unambiguous.**
+- *(★★★ THE UPDATE THAT MATTERS MOST — THE WASHED-OUT-POSITIONING BOUNCE WAS TESTED TODAY AND FAILED)* All
+  week the vault has carried: *largest 3-day de-gross since Nov '22, worst hedge-fund day since COVID, SOX at
+  its 100-day, momentum at −40%+ — the pain trade is UP.* **Today the market was handed the most favourable
+  macro package it could plausibly get: no hike, September priced out, inflation labelled a supply shock, and
+  "PRODUCTIVITY GROWTH AND CAPITAL INVESTMENT ARE STRONG" written into the FOMC statement. It closed on its
+  lows.** **Maximally good news into maximally washed-out positioning produced NEW LOWS.** That is not a
+  neutral session — **it is a failed test of the single argument that has been restraining the vault's bear
+  case all week.** [[dip-buying-base-rates]], [[weekly-momentum]].
+- *(⛔ REVISING MY OWN PRE-REGISTERED SEMIS CALL — BEFORE the prints, on evidence, not on the tape's mood)*
+  At 12:30pm I registered **"lean semis GAP UP, ~55/45, expect the gap sold."** **That call rested on two legs:
+  (1) capex guides will be enormous, and (2) positioning is washed out so the bounce is the path of least
+  resistance.** **Leg (2) was tested THIS AFTERNOON and broke.** **Revising to ~45/55 — LEAN GAP DOWN.**
+  Reasoning, stated so it can be graded: **if a Fed that explicitly blesses capital investment and prices out
+  hikes cannot clear a bid in the capex-intensive complex, a hyperscaler capex guide — which is the same
+  category of fundamental good news — is unlikely to clear one either.** **And the 30Y move is not orthogonal
+  to semis; per the capex-intensity discriminator it is directly hostile to them.** Leg (1) survives intact,
+  which is why this is a lean and not a reversal.
+  ⚠️ **Guarding against over-update:** one session is one session, today's driver was rates rather than
+  demand, and tonight's is company-specific. **That is why the revision is 10 points of probability and not a
+  flip in kind.**
+- *(the discriminator from the 12:30 registration is UNCHANGED and still outranks the direction)* **Do MSFT
+  and/or META FALL on a raised capex guide while SEMIS RISE?** That decoupling has not happened once this
+  season. It remains the observation worth more than the gap call.
+- *(⛔ grading my own 11:10am guess, plainly)* I called **736-738, −0.6% to −0.9%.** The path went **737.89
+  (inside) → 742.68 (above) → 731.06 (below).** **My range was breached in BOTH directions inside 90
+  minutes.** **That is a VOLATILITY miss, not a level miss** — and it is the same magnitude-compression bias
+  logged this morning, now demonstrated on the upside and the downside in a single afternoon. **Jake's coiled-
+  VIX read explains it and mine did not:** a market with an event premium does not travel in narrow bands.
+- *(the level, noted without comment)* **Jake's 733 add is now below entry** at 731.95; the day's low of 731.06
+  broke through it. Sizing and execution are his — recorded as a fact for [[portfolio-state]], not assessed.
