@@ -576,3 +576,61 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
   stated. Combined with Trump's "either talks go fast or not at all," the diplomacy now runs on two clocks:
   the MoU track and the cease-attacks track, either of which can fail independently. [[war-board]],
   [[demand-destruction]], [[oil-value-chain]].
+
+##### 2026-07-28 ~9:12pm PT (post time) — NCC GHAZAL: A NAMED SAUDI PRODUCTS TANKER STRUCK, WITH THE AIS TRAIL PUBLISHED
+### DATA (Windward @WindwardAI, X post 7/28/26 9:12pm, 466 views at capture; screenshot in Jake's paste)
+- **NCC GHAZAL — Saudi-flagged, reportedly struck by Houthi forces July 28.**
+- Vessel card: **MMSI 403038000** (the **403** prefix IS the Saudi Arabia MMSI allocation — the flag claim is
+  internally consistent), **Class Commercial, Subclass OIL PRODUCTS TANKER**, destination field reading
+  "KOUSER" (garbled/truncated — do not over-read), position context Red Sea corridor (Egypt / Saudi Arabia).
+- Windward's stated behavioural history: **a 7-day AIS blackout off the Yemen coast**, **multiple
+  ship-to-ship (STS) transfers**, **repeated destination changes**; **went dark again 23 July and has not
+  transmitted since.**
+- **Vendor claim: "Windward's risk models flagged the vessel as a likely target two days before the strike."**
+- Context already in the vault, same tape: **NYT — "Houthis Claim Strike on ANOTHER Saudi Oil Tanker"**;
+  MarketWatch — *"Saudi Arabia has a new, and pricier, workaround to export its oil"*; **Jazan refinery
+  (400k bpd) confirmed shut to ~Aug 15**; OilPrice — *"Refined Fuels, NOT Crude, Are Driving the Oil Market
+  Crunch."*
+
+### THESIS (interpretation — NOT fact)
+- *(★★ JAKE'S AIS INSTINCT, GRADED — this is his thesis with an IMO number attached)* The vault already
+  carries his read at [[demand-destruction]]: *"'Zero tankers' may mean 'zero AIS-visible tankers' — the whole
+  purpose is to not be counted."* **Windward has now published a named vessel that went dark for seven days,
+  ran STS transfers, changed destination repeatedly, went dark again on 23 July and has not transmitted
+  since.** **Transit counts built on AIS are measuring the vessels that WANT to be measured.** Every
+  "zero Hormuz transits" and "Red Sea traffic rises" datapoint in this vault inherits that bias, in both
+  directions. Registered as a standing discount on AIS-derived flow data.
+- *(⚠️ BUT THE BEHAVIOUR IS AMBIGUOUS, AND WINDWARD'S FRAMING PICKS ONE READING)* Dark periods + STS +
+  destination changes are the classic **sanctions-evasion / dark-fleet** signature. **They are also standard
+  DEFENSIVE practice in the Red Sea since 2023** — commercial vessels routinely kill AIS specifically to avoid
+  Houthi targeting. **A Saudi-flagged ship going dark off Yemen is more likely hiding FROM the Houthis than
+  hiding something from regulators.** Windward's product framing ("risk indicators") does not distinguish
+  these, and the distinction is the whole meaning of the datapoint. **Do not import "dark = illicit" into the
+  vault from a vendor's risk taxonomy.**
+- *(⚠️ THE PREDICTION CLAIM IS MARKETING UNTIL A BASE RATE EXISTS)* *"Flagged as a likely target two days
+  before"* is a commercial risk-analytics firm advertising a hit on its own product. **The missing number is
+  the denominator: how many vessels does Windward flag per week, and what fraction are struck?** If the model
+  flags fifty and one is hit, the "prediction" is noise dressed as foresight. **The AIS history is factual and
+  independently checkable; the predictive claim is not.** File the trail, discard the forecast.
+- *(★ WHAT IT ACTUALLY MEANS FOR THE BOOK — and by the vault's OWN framework it is ABSORBED)*
+  [[portfolio-state]] already registers the discriminator: **"tanker strikes + sanctions + military-target
+  strikes get ABSORBED"** — it is the **infrastructure hit or the strait closure** that uncaps. Set #6's kill
+  switch #3 requires a strike on a **crude EXPORT NODE (Abqaiq-class, Ras Tanura, Basra) or Iraqi export
+  infrastructure.** **One products tanker is below that threshold and does NOT fire it.** Stated plainly so
+  the cumulative drumbeat does not smuggle in a trigger that was never met.
+- *(★★ but the VECTOR is the part worth keeping: it is a PRODUCTS tanker, and that is the vault's live trade)*
+  Not crude — **refined product.** Same week: **Jazan (400k bpd of refining) shut to ~Aug 15**, OilPrice
+  writing *"refined fuels, not crude, are driving the crunch,"* and the vault's registered expression already
+  moved to **cracks and calendars rather than flat-price crude.** **A strike on the products LOGISTICS chain
+  is the physical event that matches the paper position.** [[oil-value-chain]], [[demand-destruction]].
+- *(★ the division of labour on the escalation ladder, now visible)* **The Houthi vector attacks Saudi EXPORT
+  LOGISTICS (two tankers, Jazan) while the Iranian vector attacks US MILITARY targets (IRGC ballistic missiles
+  at US forces, all intercepted).** Two campaigns, two target sets, one war. **That structure keeps the
+  US-Iran state exchange capped while the energy-infrastructure exchange escalates** — the pattern already
+  logged here on the US+Saudi Iraq strikes, now with a second confirming instance. **The oil market is priced
+  for the capped exchange and exposed to the escalating one.**
+- *(the transmission mechanism, named so it can be watched)* Tanker strikes do not move flat price; **they
+  move WAR-RISK INSURANCE, and insurance moves freight rates, and freight rates move CRACKS.** That is the
+  chain from this headline to the vault's actual position. **Watch Red Sea war-risk premia and clean-product
+  freight (LR2/MR rates), not WTI.** ⚠️ The vault has no live source for either — registered as the next
+  data need. WTI is separately +4.08% off the IRGC attack, which is a different cause.
