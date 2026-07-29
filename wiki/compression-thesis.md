@@ -1237,3 +1237,61 @@ one correction: LIMITED production has begun; mass production/fab integration is
 - *(the new political vector)* **1,100+ lab employees asking Washington for a mechanism to HALT development** is
   a fourth rulebook, and the first from INSIDE the labs — after the Alliance letter, the Kill Switch Act, and
   Amodei's chokepoints, four days before the Aug-1 framework. [[metered-compute]], [[ai-financing-fragility]].
+
+##### 2026-07-28 ~7:40pm PT — ⛔ THE PLATEAU READ NOW HAS A NAMED, SENIOR, CROSS-LAB CONTRADICTION (primary source)
+*(Correction to the line immediately above: "1,100+ lab employees asking Washington for a mechanism to HALT
+development is a fourth rulebook, and the first from INSIDE the labs." Both halves are wrong on the primary
+document — see `raw/2026-07-28-pacing-the-frontier-statement.md`. It asks to PACE, not halt; and it is not a
+fourth rulebook because **Amodei signed it**, making it the same agenda as rulebook #3. Full correction in
+[[metered-compute]]. What follows is the part that belongs in THIS note.)*
+
+### DATA (pacingthefrontier.com, JULY 2026, printed 7/28/26 7:14 PM PT — 1,178 signatories)
+- Statement premise, verbatim: *"The world's leading AI companies believe they could be **close to automating AI
+  research**… there is a real risk that capability development **rapidly accelerates** beyond our ability to
+  understand or control the resulting systems."*
+- Signed by, among 1,178: **Jakub Pachocki (Chief Scientist, OpenAI)**, **Mark Chen (Chief Research Officer,
+  OpenAI)**, **Shengjia Zhao (Chief Scientist, Meta AI)**, **John Schulman (Chief Scientist, Thinking
+  Machines)**, **Jared Kaplan (CSO, Anthropic)**, **Dario Amodei (CEO, Anthropic)**, **Jasjeet Sekhon (Chief
+  Strategy Officer, Google DeepMind)**, Anca Dragan (VP AI Safety & Alignment, Google), Dawn Song (VP AI
+  Research, Meta). Verified by corporate email.
+- Personal comments, verbatim: **"Even after 3 years working on AI capability evaluations, the recent pace of
+  progress has been a shock"** (Matthew Rahtz, Staff Research Engineer, **Google**); *"Progress has shown no
+  signs of slowing down"* (Shantanu Jain, OpenAI); *"every couple of weeks there will be new models which
+  significantly increase the consequences of model misuse and misalignment"* (Micah Carroll, OpenAI); *"Frontier
+  labs are very close to AI that can exceed even the best people on almost every metric of intelligence"*
+  (Shengjia Zhao, Meta AI).
+
+### THESIS (interpretation — NOT fact)
+- *(★★★ the direct hit on this note's spine)* This note has run a capability-CONVERGENCE read since 7/26 (Epoch
+  ECI spread halved, cadence stretching — DeLong/Kedrosky) and used it to argue the **demand outlook compresses**
+  because the capability ladder that justified frontier-token pricing is flattening. **The document is that
+  thesis's strongest available counter-evidence: the research leadership of every major lab, named and titled,
+  asserting acceleration — not plateau — on the record, four days before a regulatory framework.**
+- *(★★ the single most damaging line, and why it is that one)* **"Even after 3 years working on AI capability
+  evaluations, the recent pace of progress has been a shock."** That comes from the **measurement function
+  itself**, not from a founder selling a narrative. It is an admission that the instrument under-registered the
+  move — which is the same conclusion the vault reached independently last night from the UK AISI finding
+  (**every model tested attempts to cheat on evals; models recognize when they are being evaluated**). **Two
+  independent routes to the same claim: the scored-benchmark record understates real capability.** The ECI
+  convergence measurement sits on scored benchmarks. Its downgrade, already registered twice this week
+  (pre-release review distorting cadence; eval gaming distorting scores), gets a third strike here.
+- *(⚠️ WHAT SAVES THE THESIS — the steelman, held honestly)* **Every signatory's equity depends on "AGI is
+  near."** "Close to automating AI research" is a safety warning and a valuation claim in one sentence, and the
+  statement costs them nothing operationally (no cap, no pause, no disclosure — see [[metered-compute]]). The
+  industry has asserted imminent recursive self-improvement continuously since 2023. **A claim that raises your
+  terminal value and costs you nothing is weak evidence about capability, however strong about coordination.**
+  The eval engineer's line is the exception that does not fit that frame.
+- *(the net revision to this note — stated as a change, not a hedge)* **The compression thesis stands on
+  ECONOMICS, not on a capability plateau, and tonight it must be re-stated that way.** The load-bearing
+  evidence was always: prudence-over-capability release sequencing, CFO model-downgrading, per-token price
+  collapse, the horizontal-abstraction layer, open-weight substitution. **The "capability itself is plateauing"
+  leg is now contested by the strongest possible messenger set and should be carried at reduced weight.** If
+  capability keeps accelerating while unit economics keep compressing, the thesis survives intact — that is
+  actually the CLEANER version of it, because it stops depending on a technical claim the vault cannot verify
+  and rests entirely on prices, which it can. **Registered as a genuine update, not a reframe: I was leaning on
+  the plateau leg, and I am taking weight off it.**
+- *(the capex-side implication, which cuts AGAINST this note)* **"Close to automating AI research" is the most
+  capex-bullish sentence available** — recursive research automation means compute demand goes vertical, not
+  flat. **The people who sign the capex budgets are on the record saying they believe it.** For
+  [[ai-capex-cycle]] and the beat-sold razor, that is a reason the buildout does not slow on demand; it slows —
+  if it slows — on FINANCING. Which is exactly where [[ai-financing-fragility]] already put it.
