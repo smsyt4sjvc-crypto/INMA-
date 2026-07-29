@@ -1699,3 +1699,54 @@ Source: The Next Web report (Jake paste) — secondary tech-media; specifics (6-
   Anthropic renting GPUs) can't match → cheaper Gemini serving → the frontier-lab-economics segmentation
   ([[ai-financing-fragility]] / [[compression-thesis]] price-fork).
 - *(⚠️ discipline)* 2028, experimental, secondary-sourced → a STRUCTURAL VECTOR, not a near-term catalyst. Don't trade it.
+
+##### 2026-07-29 ~1:10pm PT — ★★★ META: REVENUE GUIDE **BELOW** CONSENSUS + CAPEX FLOOR **RAISED**. THE RAZOR'S PUREST FORM.
+### DATA (after the close)
+- **MICROSOFT 4Q: revenue $90.01B vs est $87.72B (+$2.29B beat). Adj EPS $4.74 vs est $4.25 (+11.5%).**
+  A clean double beat.
+- **META 3Q revenue guide $61B–$64B vs est $63.17B — MIDPOINT $62.5B, BELOW CONSENSUS.**
+- **META FY CAPEX $130B–$145B, previously $125B–$145B — THE FLOOR WAS RAISED BY $5B.**
+- **NASDAQ 100 ENTERS CORRECTION: −11% FROM ITS JUNE RECORD.**
+- Cash close: **SOXX −5.90%, MU −11.04% ($739.00), NVDA −3.86%, TSM −5.07%, AVGO −3.65%; MSFT −1.25%,
+  META −1.97%, AMZN −2.32%; NOW +5.20%, GOOGL +0.24%.** **Neoclouds −9.9% to −13.9%.**
+- **VIX 20.10 (+10.44%). Gold +2.62% to 4,126.70. TLT −1.46%. Brent 90.50.**
+- **Goldman (via ZH): "the WORST CASE for the market is hyperscalers AND chips falling at the SAME TIME."**
+
+### THESIS (interpretation — NOT fact)
+- *(★★★ META IS THE PUREST CAPEX-GAP EXHIBIT THE VAULT HAS RECORDED)* **Guide LESS revenue than expected and
+  spend MORE than previously committed, in the same release.** GOOGL (7/22) raised capex on a revenue BEAT.
+  **META raised its capex FLOOR on a revenue MISS.** That is a strictly worse version of the same event:
+  **the capex is now contractually rising while the revenue that services it is guiding down.** For [[cepi]]
+  and the capex-gap razor this is the cleanest single datapoint of the cycle — **and it is the answer to the
+  vault's standing question of whether hyperscalers would blink. Meta did not blink; it raised the floor.**
+- *(★★★ MY 12:30pm DISCRIMINATOR IS RESOLVED, AND THE ANSWER IS NO)* I registered: **"Do MSFT and/or META FALL
+  on a raised capex guide while SEMIS RISE? That decoupling has not happened once this season and it is worth
+  more than the gap call."** **Cash session: hyperscalers AND chips fell together — MSFT −1.25, META −1.97,
+  AMZN −2.32 alongside SOXX −5.90, MU −11.04.** **No decoupling. The razor remains an AI-COMPLEX problem, not
+  a BUYER problem.** **And Goldman's stated worst case — hyperscalers and chips falling simultaneously — is
+  precisely what printed.** ⚠️ The after-hours reaction to both prints is not yet in hand; **the decoupling
+  test properly grades on Thursday's cash session, not on today's.**
+- *(★★ MSFT IS THE 8th TEST OF THE BEAT-SOLD RAZOR AND IT IS THE BIGGEST ONE)* Revenue +$2.29B and EPS +11.5%
+  over consensus is not a marginal beat. **Prior 7: MU, GOOGL, INTC, GLW, SK hynix, Vertiv, Bloom — every one
+  sold.** **If a double beat of this size on the world's largest software franchise cannot hold a bid, the
+  razor stops being an AI story and becomes a market-wide multiple story.** ⚠️ **Unresolved until Thursday.**
+  Note the setup asymmetry: **MSFT carried DECADE-HIGH short interest into this print**, so a squeeze is the
+  live counter-case, and it is the one thing that could break the 7-for-7 streak on mechanics rather than
+  fundamentals.
+- *(★ WHAT META'S CAPEX FLOOR DOES TO MY SEMIS GAP CALL)* I revised to **45/55 lean gap DOWN** at 12:45pm.
+  **META raising the capex floor is unambiguously good for chip ORDERS** — that is leg (1) of the original
+  bull case, confirmed in the hardest possible currency. **But it arrives with a revenue guide below consensus,
+  which is exactly the configuration that has produced selling all season.** **Holding 45/55 and noting the
+  tension honestly: the ORDER BOOK news is bullish semis, the OWNER'S P&L news is bearish the complex, and
+  every prior instance this season resolved toward the second.**
+- *(★★ THE CROSS-ASSET CONFIGURATION IS THE DEBASEMENT TRADE, NOT THE RECESSION TRADE)* **Gold +2.62% while
+  BOTH equities AND bonds fell (TLT −1.46%).** A growth scare bids bonds. **Gold up with stocks and bonds both
+  down is inflation/term-premium/debasement**, and it sits directly on top of the 30Y at 5.19% and a Fed that
+  called energy a supply shock. **[[new-economy-regime]] is the operative frame today, not [[fear-duration]].**
+  It also, for the third consecutive reading, kills the forced-liquidation hypothesis: **margin cascades sell
+  gold; this tape bought it.**
+- *(the neoclouds, fourth day and worsening)* **−9.9% to −13.9% across all six**, again underperforming their
+  own end-market. **The financing cohort is now down two consecutive double-digit sessions** while the vault's
+  registered trigger — **a named casualty** — still has not appeared. **That absence is doing more work in the
+  containment case with every session it persists, and it is the single most informative thing to watch
+  overnight.** [[ai-financing-fragility]].

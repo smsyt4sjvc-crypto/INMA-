@@ -128,3 +128,58 @@ official close at 884.99, **MU's true Tuesday move was −6.12%, not −7.28% or
 My "take the harsher reading" instruction produced the wrong grade because BOTH bases I compared were wrong;
 the authoritative base is the NEXT session's `previous_close`, exactly as the fix specified. Applying my own
 rule would have avoided the error.
+
+## SET #6 GRADED (Wed 7/29 cash close — FOMC + MSFT/META day)
+| Asset | Call | 80% range | Conf | ACTUAL | Dir | Range |
+|---|---|---|---|---|---|---|
+| WTI | +2.5% | −3 to +8 | 68% up | **+2.64%** | ✅ | ✅ |
+| S&P 500 | −0.2% | −1.8 to +1.6 | 52% dn | **−1.51%** (7,316.38) | ✅ | ✅ |
+| NASDAQ (QQQ) | −0.4% | −2.5 to +1.9 | 55% dn | **−2.66%** | ✅ | ⚠️ breached by 0.16 |
+| SOXX | +0.5% | −4 to +5 | 52% up | **−5.90%** | ❌ | ❌ BREACHED |
+| MU | +1% | −6 to +8 | 53% up | **−11.04%** ($739.00) | ❌ | ❌ BREACHED badly |
+
+**DIRECTION 3/5. RANGE 2/5.** WTI landed almost exactly on the point (+2.64 vs +2.5 called, 68% conf — the
+highest-conviction call of the set and the most accurate).
+
+### ★ THE SPREAD CALLS — 3/3, ALL BY MULTIPLES OF THE CALLED SIZE
+| Spread | Called | Actual |
+|---|---|---|
+| Software/app over semis | +1.0 pt (62%) | **+11.10 pts** (NOW +5.20 vs SOXX −5.90) |
+| Payers over sellers | +0.7 pt (60%) | **+3.12 pts** (MSFT/GOOGL/AAPL −0.64 vs NVDA/AVGO −3.76) |
+| Staples-health over tech | +0.5 pt (58%) | **+2.33 pts** (LLY −0.86 vs XLK −3.19) |
+
+**SHAPE: HIT on the close, MISSED on the morning.** I called *"quiet, low-volume morning — the freeze holds;
+vol at 11:00 and 11:30; then de-risking into the close."* **The morning was NOT quiet** (SOXX −4.35% pre-FOMC;
+the overnight Asian shock overrode the pre-event freeze — lesson already logged). **The close was exactly as
+called:** SPY made its high at 742.68 during the presser, then collapsed to a 729.52 close — **through the
+731.06 low I had flagged, on auction size.**
+
+**The registration's own instruction graded correctly:** *"Grade this set primarily on the SPREAD calls and the
+SHAPE, secondarily on WTI, and treat the index points as the humble base case."* **Spreads 3/3, WTI on point,
+close-shape hit. The index levels were the humble base case and the SEMIS calls were catastrophically wrong.**
+
+### ⛔ THE MISS THAT MATTERS: I CALLED A SEMIS BOUNCE AND GOT A ROUT
+**SOXX +0.5% called → −5.90%. MU +1% called → −11.04%.** Both breached their ranges, MU by 5 points.
+**Third consecutive set where I under-called downside magnitude** (set #4 "direction right, size light"; set #5
+"every directional hit under-sized"). **The bias is now demonstrated on both sides in a single week** — I also
+under-called the upside on the 11:10am SPY guess, whose range was breached in BOTH directions inside 90
+minutes. **Registered as the standing calibration defect: I compress magnitude, not direction.** The fix is
+mechanical, not attitudinal: **widen 80% ranges on the epicenter cohort until the coverage rate reaches 80%.**
+Current epicenter range coverage across sets #4-#6: **1 of 6.** That is not an 80% band; it is a 17% band.
+
+### ★★ KILL SWITCHES
+- **#2 (dovish surprise → momentum bounce → my spread calls lose): DID NOT FIRE.** Flagged as the largest risk
+  in the book three times; the spreads survived and won.
+- **#4 (MU reclaims $854): FAILED DECISIVELY.** MU closed $739.00. Registered air pocket ~$652 = another −11.8%.
+- **#1 (hawkish): fired in COMPOSITION only** — 9-3 hold with three dissents FOR a hike; the statement itself
+  was dovish (energy = "supply shocks", capex blessed).
+- **#3 (crude export node): NOT fired.** WTI's +2.64% came from rhetoric and interdiction, not a destroyed node.
+- **#5 (MSFT/META after close): grades Thursday.**
+
+### ★★★ JAKE'S VIX CHECKPOINT — FIRED, AND MY COUNTER-ARGUMENT IS DEAD
+**VIX 20.10, +10.44%** — through his registered 20 threshold. This morning I conceded his coiled-vol read but
+held one objection, registered before resolution: *"the base rate is VIX CRUSHING after the event; if VIX
+crushes from 19.79 my caveat was right, if it HOLDS or EXTENDS his read wins outright."* **It extended.**
+**He wins outright.** The pre-event bid was not an artefact — the vol was genuinely underpriced relative to the
+event's realised magnitude, exactly as his RVOL-based "holding pat" read implied. **Second Jake call graded
+this week (after the Apple-capex-premium call), both against my stated position.**
