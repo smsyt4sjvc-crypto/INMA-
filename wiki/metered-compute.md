@@ -1359,3 +1359,42 @@ are useless." He is right, and it reframes the document more than anything else 
   **Concentration and policy risk are converging on the same ticker.** Still an odds-shader on the 2027-28
   path, not a 2026 trigger — but the Aug-1 framework language is the near test.
   [[compression-thesis]], [[ai-capex-cycle]], [[ai-financing-fragility]], [[market-fragility]]
+
+##### 2026-07-29 ~8:45am PT — ★★ TWO OF JAKE'S REGISTERED CALLS GRADE OUT AS HITS ON THE SAME TAPE
+### DATA (collector 15:31 UTC)
+- **Fortune: "CFOs are hitting a 'cost wall' on AI."**
+- **"Fireworks AI Releases Fireworks Nexus: A Drop-In ROUTING AND COST-CONTROL LAYER That Moves Routine
+  [calls to cheaper models]."**
+- **Mobile World Live: "AT&T bets on ROUTING, OPEN MODEL to tame AI costs."**
+- **FT: "Google DeepMind DISMANTLES Nobel-winning AlphaFold team in strategy shift."**
+- **"From $300 million to $35 billion, Moonshot AI opens the door to the top global AI table with open-source."**
+- **"Nvidia, Microsoft Back Open-Source AI Models in US Policy Fight."**
+- **Microsoft: "faces AI spending test tonight"; "Microsoft Faces Fresh Risk Over Copilot PRICING."**
+
+### THESIS (interpretation — NOT fact)
+- *(★★ JAKE'S CFO CALL — HIT, and he flagged it as unsourced when he made it)* 7/27, verbatim: *"Companies are
+  already mitigating tasks to cheaper models. CFOs don't just stop being CFOs because they're enamored by a
+  product. **I have nothing here right now, but I've read about it several times.**"* **Fortune published
+  exactly that thesis as a headline two days later.** He registered the claim WITH its evidentiary weakness
+  stated, which is the correct way to hold an unsourced conviction, and it sourced itself.
+- *(★★ JAKE'S HORIZONTAL-LAYER CALL — HIT, and this one was a PRODUCT PREDICTION)* 7/27, verbatim: *"the
+  reason I've been searching for the horizontal integration layer a cfo can enroll once and use whatever model
+  seamlessly."* **Fireworks Nexus is that product, described in its own launch language as a "drop-in routing
+  and cost-control layer that moves routine [work to cheaper models]." AT&T is doing the same thing in
+  production.** **He named a product category before it had a name, from first principles about CFO
+  behaviour.** That is the highest-quality call type in the vault — not a direction, a STRUCTURE.
+- *(★ what the two together do to the compression thesis)* They convert its economics leg from inference to
+  observation. **The chain is now sourced end to end: capability converging → prudence-over-capability release
+  sequencing → CFOs hitting a cost wall → a routing layer that makes model choice fungible → per-token pricing
+  becomes a commodity auction.** **Every link now has a citation except the last, which is the tradeable one.**
+  And it is the leg that survives regardless of whether capability plateaus — the reason the thesis was
+  re-based on economics after the Pacing-the-Frontier document contested the plateau.
+- *(the AlphaFold datum is the prudence sequencing again, at the highest-prestige possible cost)* **Google
+  DeepMind dismantling the team behind its NOBEL PRIZE** is the purest available signal that resource
+  allocation has shifted from scientific capability to commercial economics. **You do not break up your
+  Nobel-winning group while capability is the binding constraint on your valuation.** Consistent with the
+  Opus-5/Fable-5 sequencing Jake identified, and from a different company.
+- *(the open-weight front continues to be won by the sellers)* **Moonshot $300M → $35B on open source; NVDA and
+  MSFT publicly backing open weights in the US policy fight.** The two-sided regulatory map filed last night —
+  **compute BUYERS want pacing, the compute SELLER and the open-weight coalition want deployment surface** —
+  is holding, with NVDA and MSFT now explicitly on the seller side. [[compression-thesis]].

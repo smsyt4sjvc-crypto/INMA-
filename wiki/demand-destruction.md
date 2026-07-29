@@ -2209,3 +2209,42 @@ shortage, and the tape isn't saying that despite the numbers literally saying it
   converts an Iranian threat into an American action and puts the US, not Iran, in control of the chokepoint's
   closure — with the opposite implication for who bears the escalation cost. [[war/war-board]],
   [[demand-destruction]], [[oil-value-chain]].
+
+##### 2026-07-29 ~8:40am PT — ★★ OIL +7% ON TRUMP'S THREAT; IRAN NOW INTERDICTING TANKERS DIRECTLY; SPR AT A NEW LOW
+### DATA (collector 15:31 UTC)
+- **CNBC: "Oil prices jump more than 7% after Trump says U.S. will hit Iran hard."** Trump: the US will give
+  Iran a *"beating"*; Fox quotes him saying the US will *"beat the f------ s--- out of them."* Brent above $87.
+- **IRGC Navy says it "TARGETED AND STOPPED" 3 OIL TANKERS** for alleged Hormuz violations (Mehr, Iranian state
+  media: *"Oil tankers hit after using illegal route in Hormuz Strait"*).
+- **OilPrice: "API Reports Sharp U.S. Crude Stock DRAW as SPR HITS NEW LOW."**
+- Erdogan: **Turkey could take 1M bpd** from an Iraq energy deal. **Ukraine claims hits on 2 major Russian
+  refineries** hours after the Zelenskyy-Trump meeting. **Iraq's Kurdish region has overnight petrol queues.**
+- **Reuters exclusive: Iran to receive Chinese shoulder-launched missile systems within weeks.**
+- **XLE +1.09%** on a red equity tape.
+
+### THESIS (interpretation — NOT fact)
+- *(★★ THE ABSORBER IS RUNNING OUT, and this is the first hard evidence of it)* The vault's Hormuz-absorption
+  answer was: **inventories built through a closure because the SPR was releasing ~874k bpd, with a ~12-week
+  clock to 250M.** **Today: a sharp crude DRAW and the SPR at a NEW LOW.** **The build has flipped to a draw.**
+  That is the registered tell arriving early — **the tell was never the price, it was the week the release
+  stopped covering the gap.** ⚠️ One weekly API print is not a trend and API precedes EIA; **confirm on the EIA
+  number before treating it as the turn.** But it is exactly the shape the clock predicted.
+- *(★ IRAN INTERDICTING TANKERS DIRECTLY IS A CATEGORY CHANGE FROM HOUTHI PROXY STRIKES)* NCC GHAZAL and the
+  other Saudi tankers were **proxy attacks on shipping.** **The IRGC Navy stopping three tankers is the STATE
+  exercising control of the strait** — enforcement, not sabotage, and framed by Tehran as policing "illegal
+  routes." **That is Iran claiming jurisdiction over Hormuz transit**, which is what "rejects the Omani
+  proposal, demands MORE control" looked like in words two days ago. **The toll-gate reading of the strait
+  ([[demand-destruction]] 7/26) is being implemented.** It also means the vault's registered discriminator —
+  *tanker strikes get absorbed; export-node strikes and CLOSURE do not* — is being approached from the closure
+  side rather than the infrastructure side.
+- *(⚠️ but hold the discipline: set #6's kill switch #3 STILL has not fired)* It requires a strike on a **crude
+  export NODE** (Abqaiq-class, Ras Tanura, Basra) or Iraqi export infrastructure. **Interdiction is not a
+  strike on a node.** Oil +7% is a war-premium repricing on RHETORIC (Trump's threat) plus interdiction, not on
+  a destroyed asset. **Set #6 called WTI +2.5% at 68% up — running well above the point, still inside the −3%
+  to +8% range.** The call is working; do not upgrade the mechanism beyond what fired.
+- *(★ the re-routing ledger keeps growing, which is the counterweight)* **Turkey/Iraq 1M bpd**, Saudi's pricier
+  workaround, rising Bab el-Mandeb and Red Sea traffic. **Every barrel re-routed is a barrel that does not need
+  the strait — the absorption story and the escalation story are running simultaneously**, which is why flat
+  price has been unable to sustain a trend and why the vault's expression sits in cracks and calendars.
+  **Ukraine hitting two Russian refineries the same day compounds the PRODUCTS story specifically**, on a
+  second front, and Kurdish petrol queues are physical products scarcity already visible at the pump.

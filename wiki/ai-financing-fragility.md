@@ -1672,3 +1672,47 @@ is tolerable relatively?")*
 - *(AVGO/Samsung $200B — the counter-datum, held honestly)* A $200B multi-year AI chip commitment signed while
   the memory complex is down 30% is **not** the behavior of a buildout that is stopping. **File it against the
   capex-cut thesis, not for it.** [[ai-capex-cycle]], [[compression-thesis]], [[market-fragility]]
+
+##### 2026-07-29 ~8:45am PT — ★★★ META MOVES CAPEX OFF BALANCE SHEET INTO A BLACKROCK JV — JAKE'S MECHANISM, NAMED AND PRICED
+### DATA (collector, 460 items, 15:31 UTC)
+- **Meta and BlackRock form a $14 BILLION venture for a Texas (El Paso) AI data centre.** **BLK +5.7%** on it.
+  Framing in the coverage: *"Can It Ease the Cost of Meta's..."*
+- **Amazon sold $25B of bonds to finance its AI data-centre build-out.**
+- **"Hyperscaler debt binge pushes yields up as investor demand COOLS."**
+- **NextEra + Brookfield to build a $100B Kentucky data campus.**
+- **"Wall Street Picks AI Winners and Losers as Credit Swaps Surge"**; **"Big Tech Credit Risk Flashes Urgent
+  Warning Over AI Spending"**; Reuters explainer: *"What are credit default swaps and why are they spooking AI
+  investors?"*
+- **"AI Boom Spurs Insider Selling by Nvidia, CoreWeave Billionaires."**
+- **Chip stocks have shed more than $1 TRILLION in market cap** (CNBC).
+- Beat-sold extending BEYOND semis: **Vertiv beat and FELL**; **Bloom Energy posted record $1.07B revenue and
+  RAISED guidance, gained 11% and gave it all back.**
+
+### THESIS (interpretation — NOT fact)
+- *(★★★ THE META/BLACKROCK JV IS THE SINGLE BEST CONFIRMATION THIS NOTE HAS EVER GOT OF JAKE'S BEAR CASE)* His
+  mechanism, verbatim from 7/28: *"circular lending compiled of under-the-sheets tranches through VCs, BDCs and
+  PE firms."* **A $14B joint venture with the world's largest asset manager is precisely how a hyperscaler
+  builds a data centre WITHOUT the capex appearing as its own capex or the debt as its own debt.** Pair it with
+  last night's Hong Kong datum — **banks hitting sector concentration limits** — and the sequence is now
+  legible: **the bank channel fills → the marginal dollar migrates to asset managers, private credit and JVs →
+  the obligation leaves the balance sheet the market is scrutinising and enters vehicles it is not.** BLK +5.7%
+  says the market is pricing this as good for the intermediary, which is exactly what you would expect if the
+  risk is being transferred rather than eliminated. ⚠️ **Not proof of concealment** — JVs are ordinary
+  infrastructure finance. **The claim is structural, not accusatory: the same buildout now shows up in fewer
+  places the market audits.** [[consumption-vs-investment-crux]], `raw/2026-05-22-burry-heretics-guide-part-3.md`.
+- *(★★ "INVESTOR DEMAND COOLS" is the sentence that matters more than any spread level)* Yields rising on
+  hyperscaler debt **because demand cools** is a different and worse fact than spreads widening on risk
+  repricing. **It is the marginal buyer stepping back, which is the precondition for the funding-stop branch —
+  and it lands the same week banks hit sector limits and Amazon prints $25B.** The vault's registered
+  discriminator (does OCF accelerate toward ~50% and do spreads respond?) grades tonight on MSFT/META.
+- *(★ BEAT-SOLD HAS ESCAPED SEMIS — Vertiv and Bloom are the tell)* The razor's exhibits were MU, GOOGL, INTC —
+  all chips. **Vertiv (power/thermal for data centres) beat and fell. Bloom Energy printed record revenue AND
+  raised guidance, popped 11%, and round-tripped it.** These are the *picks-and-shovels beneficiaries* of the
+  buildout, not its financiers. **When the toll-takers stop being rewarded for good numbers, the market is
+  repricing the BUILDOUT, not the chip cycle.** That widens the razor from a memory story to an infrastructure
+  story. [[buildout-bottleneck-map]], [[compression-thesis]].
+- *(the mainstreaming discount, applied to ourselves)* **"Chip stocks are crashing as the rest of the market
+  barely flinches"** and **"Semiconductor stocks are going up in smoke. But the S&P 500 is holding strong"**
+  are now published headlines. **The dispersion read the vault has been building for four sessions is
+  consensus.** Correct and crowded is worth less than correct and early — **mark the EDGE down, keep the
+  thesis.** Same discipline applied to the oil curve work yesterday.

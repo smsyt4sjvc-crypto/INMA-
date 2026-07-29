@@ -1490,3 +1490,38 @@ evidence and evidence gets audited before it gets used.)*
 - *(the energy confirmation, which settles my own over-flag)* **XLE +1.09% green on a red tape** independently
   corroborates that the overnight WTI move was real and not a contract-roll artifact. That closes the question
   I flagged last night. Set #6's **WTI +2.5% at 68% up** is working. [[demand-destruction]], [[oil-value-chain]].
+
+##### 2026-07-29 ~8:40am PT — ★★ DOW −800: THE DESTINATION IS SELLING, BUT THE CAUSE IS OIL, NOT KOREA
+### DATA (collector 15:31 UTC + headline sequence)
+- **CNBC: "Dow tumbles 800 points as losses mount ahead of Fed decision."** Sequence through the morning:
+  *"Dow Dives 600 Points As Oil Spikes"* → *"Dow Falls 700 Points"* → **"Dow tumbles 800 points."** Accelerating.
+- **Oil +7%** on Trump's threat to hit Iran. **Chip stocks have shed >$1 TRILLION** in market cap (CNBC).
+- **Bloomberg: "Korean Stocks Plunge 16% in TWO-DAY Burst of RETAIL SELLING."**
+- **"Semiconductor stocks are going up in smoke. But the S&P 500 is holding strong."** / **"Chip stocks are
+  crashing as the rest of the market barely flinches."**
+
+### THESIS (interpretation — NOT fact)
+- *(★★ MY REGISTERED FLIP CONDITION HAS PARTIALLY FIRED — say it plainly)* The condition was: *"watch the
+  rotation DESTINATION, not the victim — if the destination sells too, dispersion collapses into
+  correlation."* **The Dow is the destination and it is −800 and accelerating.** At ~52,400 that is roughly
+  **−1.5%** against **SOXX −4.35%** — **a ~3x ratio, so dispersion has NARROWED but is not gone.** **Partial
+  fire, not full.**
+- *(★ AND THE CAUSE MATTERS MORE THAN THE LEVEL — this is a NEW shock, not Korean contagion)* The Dow is not
+  falling because chips finally infected it. **It is falling on OIL +7% and Fed uncertainty**, both of which
+  hit exactly the cyclical/industrial/consumer names that had been ABSORBING the chip rout. **The absorber is
+  being attacked from a different direction.** That is a materially different fact from "correlation snapped
+  back," and it changes what to watch: **if the Dow's weakness is oil-driven, it reverses on a de-escalation
+  headline; if it were contagion-driven, it would not.** Registered discriminator: **does the Dow recover on
+  any Iran de-escalation while semis stay broken? Yes = two separate events. No = one event.**
+- *(★★ BLOOMBERG CONFIRMS THE KOREA DECOMPOSITION AND THE KRW READ, both independently)* *"Korean stocks plunge
+  16% in a TWO-DAY burst of RETAIL selling."* **(1) TWO-DAY** — the vault derived that from the base-artifact
+  reconciliation last night (−10.84% Tuesday, −8.17%/−9.78% Wednesday) rather than accepting the −18.12%
+  print; Bloomberg's framing matches. **(2) RETAIL SELLING** — this is the mechanism, and **retail margin
+  liquidation does not create a dollar bid**, which is precisely why USD/KRW fell 6.7% while the market lost a
+  third of its value. **The "domestic, not capital flight" read is confirmed by a primary outlet, and channel
+  (a) stays shut.**
+- *(the mainstreaming discount)* The dispersion thesis is now the published headline at two outlets. **Correct
+  and crowded. Mark the edge down, keep the thesis** — same treatment applied to the oil-curve work yesterday.
+- *(what is still unfired)* **No named casualty.** Metals not confirming liquidation. **FOMC in ~2h20m**, and
+  set #6's kill switch #2 (dovish surprise → violent momentum-basket bounce → my three winning spread calls all
+  reverse) remains the single largest risk to the position the vault has been building all week.
