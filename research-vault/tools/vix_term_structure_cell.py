@@ -18,22 +18,29 @@ EXTRA = [('^VVIX','VVIX   vol-of-vol'), ('^SKEW','SKEW   tail bid')]
 MAG7  = ['NVDA','MSFT','AAPL','GOOGL','AMZN','META','TSLA']
 ALL   = [t for t,_ in CURVE] + [t for t,_ in EXTRA] + ['^GSPC'] + MAG7
 
-def fetch(tickers, period='1y', tries=4):
-    """One batched call, retried with backoff. Returns {ticker: Series}."""
-    last = None
+def fetch(tickers, period='1y', tries=3):
+    """One batched, THREADED call, retried with backoff. Returns {ticker: Series}.
+    Threaded on purpose: serial fetching 13 tickers behind a throttling Yahoo
+    turns a 5-second cell into a multi-minute hang. Partial results are kept."""
+    last, best = None, {}
     for i in range(tries):
         try:
             df = yf.download(tickers, period=period, progress=False,
-                             auto_adjust=True, threads=False)['Close']
+                             auto_adjust=True, threads=True)['Close']
             if isinstance(df, pd.Series): df = df.to_frame(tickers[0])
             out = {c: df[c].dropna() for c in df.columns if df[c].dropna().size > 2}
-            if out: return out
-            last = 'empty frame'
+            if len(out) > len(best): best = out          # keep the best partial
+            if len(out) >= len(tickers) - 1: return out  # good enough, stop early
+            last = f'{len(out)}/{len(tickers)} tickers returned'
         except Exception as e:
             last = e
         if i < tries-1:
-            print(f'  ...fetch attempt {i+1} failed ({last}); retrying in {2**i}s')
+            print(f'  ...fetch attempt {i+1}: {last}; retrying in {2**i}s')
             time.sleep(2**i)
+    if best:
+        print(f'  !! PARTIAL DATA after {tries} attempts ({len(best)}/{len(tickers)} tickers).'
+              f' Sections below will say what is missing.')
+        return best
     print(f'  !! ALL {tries} FETCH ATTEMPTS FAILED: {last}')
     return {}
 
