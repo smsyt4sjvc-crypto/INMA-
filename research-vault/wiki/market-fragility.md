@@ -1580,3 +1580,35 @@ evidence and evidence gets audited before it gets used.)*
   overnight bid did not survive the cash session. **Third consecutive session where an early bid was sold** —
   which is the opposite of the dip-buy reflex the vault has been base-rating since Aug-24, and worth watching
   as a possible regime change in that base rate. [[dip-buying-base-rates]].
+
+##### 2026-07-29 ~9:06am PT — ★★ JAKE'S VIX READ IS GETTING PAID, AND MY THRESHOLD WAS THE WRONG INSTRUMENT
+### DATA
+- **VIX 18.21 (Tue close, −2.46%) → 19.79 (+8.74%)**, still **~2 hours BEFORE the FOMC statement** and before
+  MSFT/META after the close. **Jake's registered checkpoint is VIX 20+.**
+- Last night's term-structure test: **VIX9D/VIX = 0.947 → my threshold band returned "NORMAL — no event premium
+  priced, leans Claude," while the same ratio sat at the 71st PERCENTILE of 12 months.**
+- Realised-vol context from the same run: **index/component 0.24** — SPX realising 10.0% vs Mag-7 41.2%.
+
+### THESIS (interpretation — NOT fact)
+- *(★★ HE WAS RIGHT AND THE PERCENTILE WAS THE SIGNAL, NOT THE THRESHOLD)* His read was **"the quiet volume we
+  discussed earlier — big week, holding pat"** — vol suppressed by NON-PARTICIPATION, i.e. coiled rather than
+  calm, backed by the Mag-7 RVOL data (META 0.60x, GOOGL 0.69x, none above 1.07x). **My cell's absolute
+  threshold said calm; its percentile said leaning-coiled; the tape has now moved his way by 8.74% before the
+  event even happened.** **Lesson, third of its kind this week: I encode thresholds on LEVELS when the
+  information lives in the DISTRIBUTION.** The percentile should be the verdict line and the band should be
+  the footnote — patched in `tools/vix_term_structure_cell.py` reporting order.
+- *(★ and the VRP argument I used against him inverts on its own terms)* I argued the +8.2-point variance risk
+  premium meant hedges were expensive. **But that premium was measured against an index realised vol suppressed
+  to 10% by a 0.24 correlation ratio — I said at the time this made it "a bet on correlation priced as a bet on
+  volatility."** **Today the VIX repriced without correlation snapping back (dispersion actually WIDENED).**
+  So the bid is **event premium**, exactly as he framed it — not correlation. **His mechanism was right and my
+  own caveat was closer to his conclusion than my verdict was.**
+- *(⚠️ what still stands from my side)* **The base rate remains VIX-crushing after the event.** A coiled VIX
+  pays on MAGNITUDE, and an in-line FOMC still collapses it. **Being right about the direction into the event
+  is not the same as the hedge paying** — and that resolves in about two hours.
+- *(★★★ AND THE TACTICAL WARNING GETS LOUDER, NOT QUIETER)* Worst hedge-fund day since COVID, record semis
+  selling, momentum crushed, SOX at its 100-day, VIX bid into the print. **That is a MORE extreme version of
+  the set-#4 setup I misread on 7/27, not less.** **Set #6's kill switch #2 — dovish FOMC → violent
+  momentum-basket bounce → all three of my winning spread calls reverse at once — is the single largest risk
+  in the book right now**, and every additional point of flush makes it larger. **Registered before the event,
+  in writing, so the grade is honest either way.**

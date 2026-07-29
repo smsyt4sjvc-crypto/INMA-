@@ -1716,3 +1716,52 @@ is tolerable relatively?")*
   are now published headlines. **The dispersion read the vault has been building for four sessions is
   consensus.** Correct and crowded is worth less than correct and early — **mark the EDGE down, keep the
   thesis.** Same discipline applied to the oil curve work yesterday.
+
+##### 2026-07-29 ~9:06am PT (PRE-FOMC) — ★★★ THE NEOCLOUDS BROKE. ALL SIX, DOUBLE DIGITS, IN ONE SESSION.
+### DATA (Jake's cell, ~2.5h into the cash session; FOMC still ~2h away)
+- **Neocloud cohort, this morning → now: NBIS −8.65 → −12.26 · APLD −2.87 → −11.21 · IREN −5.93 → −11.13 ·
+  CORZ +0.95 → −10.67 · WULF −5.00 → −9.98 · CRWV −4.69 → −9.40.**
+  **Cohort average −4.37% → −10.78%. All six double-digit red. CORZ moved −11.62 points intraday.**
+- **Neoclouds are underperforming SOXX by 5.38 points** (−10.78 vs −5.40).
+- Same window: **SOXX −4.35 → −5.40** (−1.05 pts), **MU −6.00 → −7.46 ($768.81)**, **NVDA −2.69 → −3.20.**
+- **DESTINATION STILL BID: NOW +5.42% · XLE +1.28% · LLY +0.25% · AAPL −0.09% · MSFT −0.27%.**
+- **SOXX-minus-SPY spread −3.16 → −3.94 = WIDER.**
+- **VIX 18.21 → 19.79, +8.74%. GOLD +1.19% to 4,069.40. TLT −0.30%, 10Y 4.64% +0.85%. Brent 90.27, ABOVE $90.**
+
+### THESIS (interpretation — NOT fact)
+- *(★★★ THIS IS THE CHANNEL THE VAULT NAMED IN ADVANCE, AND IT IS THE EVENT OF THE SESSION)* Filed 7/28
+  ~7:20pm PT, verbatim: **"The neoclouds are levered to DC financing, not to chip demand, and they are
+  bleeding independently of the index. If the systemic version of this ever arrives, IT ARRIVES HERE FIRST,
+  NOT IN SOXX."** **Today all six went double-digit while semis fell one further point.** A cohort that
+  underperforms its own end-market by 5.4 points in a session is not trading chip demand — **it is trading the
+  cost and availability of ITS DEBT.** Sequence it with the week's other financing datapoints: **banks hitting
+  DC sector limits (Hong Kong), "hyperscaler debt binge pushes yields up as investor demand COOLS," Amazon's
+  $25B bond sale, the Meta/BlackRock $14B off-balance-sheet JV, AI-related CDS soaring, "AAMON" framed as one
+  of the largest IG borrowing cycles in history.** **The equity market is repricing the marginal borrower
+  first — which is exactly how a funding-cost problem shows up before it becomes a funding-availability
+  problem.** [[market-fragility]], [[compression-thesis]].
+- *(⚠️ THE DISCIPLINE, and it is the difference between a read and a panic)* **Still NO named casualty.** No
+  covenant breach, no pulled deal, no gate, no rescue. **A −10.8% cohort day is a repricing of the equity claim
+  on levered assets. It is not yet a credit event, and the vault must not narrate it as one.** The registered
+  trigger remains: **a pulled or hung AI debt deal, or a named institution.** Watch the wires, not the tape.
+- *(★★ AND THE INDEX-LEVEL READ RUNS THE OTHER WAY — the flip condition has NOT fired)* **The
+  SOXX-minus-SPY spread WIDENED (−3.16 → −3.94) and every destination is still bid** — NOW at a fresh high for
+  the move (+5.42%), XLE green, LLY green, AAPL essentially flat. **The rotation absorber is not merely
+  intact; it is absorbing MORE.** My registered condition — *"if the destination sells too, dispersion
+  collapses into correlation"* — **has not fired, and today it moved further from firing.** Two things are true
+  at once: **the financing cohort is breaking AND the index rotation is working.**
+- *(★★★ THREE SEPARATE EVENTS, NOT ONE — and conflating them is the error available right now)*
+  **(1) A sector rotation** (semis/memory → software/health/energy), five sessions old, dispersion widening.
+  **(2) A stagflation repricing** — **oil +2.3%, Brent through $90, bonds selling WITH stocks (TLT −0.30%,
+  10Y +0.85%), gold BID +1.19%.** That is the classic configuration and it is driven by Trump's Iran threat,
+  not by chips. **(3) A financing-channel break in the levered cohort.** **Each has a different cause, a
+  different tell and a different resolution. The vault should resist the single-narrative pull.**
+- *(★ THE GOLD PRINT SETTLES THE LIQUIDATION QUESTION IN THE NON-LIQUIDATION DIRECTION)* **Gold +1.19% while
+  equities fall is a HEDGE bid, not a margin call** — a forced-selling cascade sells what is liquid, and gold is
+  the most liquid thing on the sheet. **Combined with the Korea mechanism (domestic mortgage-funded retail
+  leverage, which never touches FX or global collateral), the forced-selling channel is shut on both ends.**
+  I flagged a "liquidation signature" off a stale bar last night and withdrew it; **this is the clean read and
+  it points the same way as the withdrawal.**
+- *(the Korea coda)* **KOSPI closed −5.98% at 5,663 after trading −9.78% at 5,434 — a +4.21% recovery off the
+  low** on the day the plunge protectors met. **Consistent with "contained by construction": a leverage flush
+  exhausts when the leverage is gone, not when the news improves.**
