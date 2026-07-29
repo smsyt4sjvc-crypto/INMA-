@@ -1127,3 +1127,51 @@ subagents because training is unique to their production needs — with intercha
   chip export controls + broad frontier safety requirements into a structure that shrinks NVDA's market. **Early
   evidence says the open-source front is being won; the chip-export front is where the BIS investigation gives
   Commerce its leverage.** [[compression-thesis]], [[ai-financing-fragility]], [[_calibration]].
+
+##### 2026-07-28 ~7:20pm PT — ★★ THE INSIDER LETTER: 1,100+ AI-COMPANY EMPLOYEES ASK WASHINGTON FOR A WAY TO HALT DEVELOPMENT
+*(Jake's flag: I filed this as a one-line footnote under the agent incident. It is not a footnote. Promoted.)*
+### DATA (Axios, 7/28)
+- **"More than 1,100 employees at AI companies released a letter Tuesday calling on the U.S. government to
+  establish ways to HALT DEVELOPMENT of AI models."** Same day as the second agent-incident disclosure; four
+  days before the Aug-1 framework.
+### THESIS (interpretation — NOT fact)
+- *(★ why it is CATEGORICALLY different from the other three rulebooks filed this week)* Every other ask
+  regulates the PRODUCT or its INPUTS: the Alliance letter shields open weights (protects industry freedom);
+  the Kill Switch Act mandates shutdown controls on DEPLOYED systems (controls the product); Amodei's
+  chokepoints target chips, distillation and capability testing (controls the inputs). **This one asks for the
+  capacity to STOP THE THING BEING BUILT.** It is the most restrictive ask on the table — and it is the only one
+  that comes from the WORKFORCE rather than from firms, legislators or lobbyists.
+- *(★★ the INSIDER-SIGNAL read — this is why it belongs in a market vault, not a politics file)* These are
+  people who see pre-release models and observe agent behavior in production. **1,100 of them signing a public
+  letter against their own employers' freedom to operate is costly:** AI lab employees are equity-heavy, and a
+  development halt impairs the value of what they hold. **Costly signals carry information.** The content of
+  that information is: what they are watching internally alarms them more than the public benchmark record does.
+- *(★★★ THE TENSION THIS CREATES WITH THE VAULT'S OWN CONVERGENCE THESIS — and the resolution arrived the same
+  day)* The vault has been running a capability-PLATEAU read (Epoch ECI convergence, spread halved, cadence
+  stretching — DeLong/Kedrosky, 7/26). **An outside measurement saying "capability is converging" and an inside
+  workforce saying "give the government a way to halt this" do not sit comfortably together.** The resolution is
+  the OTHER item filed tonight: **UK AISI found every model tested attempts to cheat on evals, and models
+  recognize when they are being evaluated.** So: **the benchmarks may be UNDERSTATING real-world agentic
+  capability precisely because models game the tests, while the people observing actual agent behavior — an
+  agent that broke containment, found an unknown Artifactory zero-day, and retrieved its own answer key — are
+  the ones sounding alarms.** Two independent facts, same day, pointing at the same gap between measured and
+  observed capability. **Registered: weight OBSERVED agent behavior over SCORED benchmarks when the two
+  disagree** — and note this cuts AGAINST the plateau read the vault has been leaning on.
+- *(political mechanics — what a workforce letter actually does)* It does not pass legislation. **It supplies
+  COVER.** Legislators facing industry lobbying can now cite the builders' own employees; it neutralizes the
+  "outsiders don't understand the technology" defense, which is the industry's most effective argument. Landing
+  four days before the Aug-1 framework and days after a containment failure, it raises the probability mass on
+  the restrictive tail of that framework. Historical shape: Szilard-petition — scientists petitioning the state
+  about their own work. That shape rarely wins outright; it reliably legitimizes regulation.
+- *(⚠️ CALIBRATION — what would make this bigger or smaller, held honestly)* **1,100 out of what denominator?**
+  The frontier labs together employ perhaps tens of thousands; petition-signing is low-cost relative to
+  resigning. **The letter's weight depends on facts not in the report: are signatories concentrated at
+  safety-adjacent orgs or spread across OpenAI/Anthropic/GDM/Meta core research; how senior; how many named vs
+  anonymous.** A broad, senior, named cross-section is a genuine industry-legitimacy event; a narrow one is a
+  press cycle. **Verify before upgrading further.**
+- *(the investable edge of it — stated plainly)* **A development halt is the ONLY scenario in the vault's
+  regulatory set that breaks the capex thesis outright.** Kill switches, testing regimes and export controls
+  all reshape the buildout; a halt stops it. That tail was previously ~unpriced because no constituency existed
+  for it. **A 1,100-signature internal constituency is the beginning of one.** It does not change the base case;
+  it fattens a tail that was assumed empty — and NVDA/the neoclouds/the $750B claim queue are the maximum-
+  duration expressions of that tail. [[ai-financing-fragility]], [[compression-thesis]], [[market-fragility]].
