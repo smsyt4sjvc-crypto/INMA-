@@ -73,3 +73,49 @@ grading uses the actual open/close prints Jake pastes.
 - Lesson logged: I weighted washed-out positioning (squeeze fuel) over the financing tape's grip; the CDS record
   wides were announced DURING the session and the tape obeyed them, not the ceasefire. The razor outranks
   positioning — write the next set accordingly.
+
+## SET #5 GRADED (Tue 7/28 cash close, Jake's cell prints pasted 7:20pm PT 7/28)
+⚠️ **BASE DISCREPANCY — read this first.** Set #5 pinned Monday bases from the Monday cell's `last_price`.
+Tuesday's cell computes its % from yfinance `previous_close` (the OFFICIAL prior settle) and those two disagree:
+implied official Monday closes are **QQQ ~681.4 (we pinned 682.12), SOXX ~512.0 (we pinned 516.23), MU ~885.0
+(we pinned 900.20)**. Only SPX matched exactly (7,413.18 → +0.21%, identical both ways). **Cause: `fast_info
+last_price` picks up extended-hours and post-close drift; it is NOT the official close.** Graded on BOTH below;
+where they disagree the HARSHER reading governs. **Fix registered: pin bases from the NEXT day's
+`previous_close`, not from the same-evening `last_price`.** (This also means set #4's MU base of $900.20 was
+~1.7% high — the grade outcome there is unchanged, the number was wrong.)
+
+| Asset | Call | Actual (cell %) | Actual (vs pinned base) | Dir | Range |
+|---|---|---|---|---|---|
+| WTI | −2% (60% dn) | **+1.32%** ($82.64) | +0.90% | ❌ | ✅ (−7 to +3) |
+| SPX | −0.8% (70% dn) | **+0.21%** (7,428.78) | +0.21% | ❌ | ✅ (−2.8 to +1.2) |
+| QQQ | −1.3% (70% dn) | **−0.86%** (675.49) | −0.97% | ✅ | ✅ (−3.5 to +1.2) |
+| SOXX | −2.5% (75% dn) | **−4.02%** (491.46) | −4.80% | ✅ | ✅ (−6 to +1.5) |
+| MU | −3% (70% dn) | **−7.28%** ($820.53) | −8.85% | ✅ | ⚠️ cell ✅ / pinned base **BREACHED** (−8 floor) |
+
+**DIRECTION 3/5. RANGE 4/5 (MU breached on the pinned base).** Confidence ordering worked where it mattered:
+the 75% call (SOXX) was the biggest hit; the 60% call (WTI) was the miss. **Magnitude error is the story —
+every hit was UNDER-called.** SOXX −4.0/−4.8 vs −2.5 called; MU −7.3/−8.9 vs −3% called. **Second consecutive
+set where I under-sized a move I got directionally right** (set #4: "direction right, size light"). Registered
+as a standing bias: **in a dispersion regime I am systematically compressing the tails of the LOSING side.**
+
+**SHAPE: MISSED, and the miss is the most informative thing on the page.** Called "gap-down ~0.7-1.2%, morning
+chop, WEAK CLOSE." Actual: **Dow +537, SPX closed GREEN, Nasdaq-100 slid INTO CORRECTION, SOXX −4%.** The
+dip-buy reflex I asked about did show up — **at the index level only.** I forecast an index outcome; the tape
+delivered a DISPERSION outcome. Kill switch **#6 (green reversal close) fired for SPX/Dow** and is logged loud
+as registered: the bear lean was wrong at the index. Kill switch **#4 (MU breaks $854) FIRED** — MU 820.53,
+decisively through; the registered air-pocket branch (~$652) is live. #3 fired POST-CLOSE (IRGC ballistic
+missiles at US forces, all intercepted; US+Saudi strikes in Iraq). #1 did not fire Tuesday but KOSPI is −4.65%
+in Wednesday's session. #2 (Abqaiq wire) unconfirmed. #5 (deal pulled) not fired — but see the Hong Kong
+data-center loan sale below, which is the adjacent datum.
+
+**★ JAKE'S VIX-POP CHECKPOINT: DID NOT FIRE — and the non-event outranks the grade.** VIX **18.21, DOWN 2.46%**,
+on a day SOXX fell 4% and the NDX entered correction. **Vol FELL while the epicenter bled.** That is the
+market pricing a sector problem, not a systemic one — which is the single cleanest confirmation yet of the
+Monday momentum-unwind reframe over the liquidation read. Checkpoint #4 is not building; on Tuesday it went
+backwards.
+
+**★ JAKE'S 7/27 CALL GRADED — HIT.** He wrote: *"any mag 7+ not buried in AI capex is viewed as a premium."*
+Tuesday: **Apple touched $5T and took the most-valuable-company crown from NVIDIA**, with the Guardian's
+headline reading *"Apple becomes second $5tn company **as investors flee AI stocks**."* Direction, mechanism
+and the named beneficiary all as-called, five sessions later. Logged to [[compression-thesis]] and
+[[detachment-bid]].
