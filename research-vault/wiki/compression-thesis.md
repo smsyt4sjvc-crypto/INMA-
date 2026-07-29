@@ -1295,3 +1295,57 @@ fourth rulebook because **Amodei signed it**, making it the same agenda as ruleb
   flat. **The people who sign the capex budgets are on the record saying they believe it.** For
   [[ai-capex-cycle]] and the beat-sold razor, that is a reason the buildout does not slow on demand; it slows —
   if it slows — on FINANCING. Which is exactly where [[ai-financing-fragility]] already put it.
+
+##### 2026-07-28 close ~7:20pm PT — ★★★ SK HYNIX: REVENUE MORE THAN TRIPLED, NET PROFIT +1,242% — AND THE STOCK FELL
+### DATA (Jake's Tuesday-evening collector, 448 items; archived `raw/archive/2026-07-29-0209utc-vault-headlines.csv`)
+- **SK hynix Q2: net profit +1,242% YoY; revenue MORE THAN TRIPLED — but MISSED consensus revenue** (CNBC:
+  *"second-quarter revenue more than triples — but misses estimates"*; Bloomberg: *"Profit Jump Misses Markets'
+  Lofty AI Expectations"*; Investopedia: *"SK Hynix Stock Drops on Disappointing Earnings"*).
+- Consequence tape: **"Leveraged ETFs tied to SK Hynix are getting hammered"**; **Samsung and SK hynix plunge**;
+  **KOSPI −4.65%** in the Wednesday session that opened on the print; **Taiwan −2.85%**.
+- US memory complex Tuesday: **MU −7.28% to $820.53** (below the registered $854 line), **SNDK −11 to −12%**.
+  Barron's: *"AI Memory Boom Goes Bust. Micron, SK Hynix, Sandisk Plunge 30% — and Are Still Falling."*
+  MarketWatch: **MU's worst monthly drop in 11 years.**
+- **Nasdaq-100 slid INTO correction** (not "toward"). AMD **−8%**, Marvell **−7%**, Intel **−6%** — while
+  **NVDA closed +0.44%**: *"AI Chip Trade Narrows to NVIDIA."*
+- **Apple touched $5T and took the most-valuable-company crown from NVIDIA.** Guardian headline verbatim:
+  *"Apple becomes second $5tn company **as investors flee AI stocks**."* IBD: *"Nvidia Loses Crown To Apple."*
+- **CXMT is now worth more than Intel** after the Shanghai debut; **US lawmakers seek a national-security probe
+  of CXMT** (SCMP: *"ticking time bomb"*).
+- Dispersion print: **Dow +537 / SPX +0.21% GREEN / NDX in correction / SOXX −4.02% / VIX 18.21 DOWN 2.46%.**
+
+### THESIS (interpretation — NOT fact)
+- *(⚠️ PRECISION FIRST — this is NOT beat-sold #5, and calling it that would be the easy error)* The vault's
+  razor exhibits (MU 6/25, GOOGL 7/22, INTC 7/24) were **beats** that sold. **Hynix MISSED on revenue.** So the
+  clean razor count stays at three. **But the substitute reading is worse, not better:** the company tripled
+  revenue and grew net profit 1,242% and that was *below the bar.* **Beat-sold says the market ignores good
+  P&L. This says the bar has outrun even hyperbolic fundamentals.** In a beat-sold regime you can still clear
+  expectations; in this one, tripling revenue does not. **Register it as its own category —
+  RECORD-BUT-INSUFFICIENT — and watch whether MSFT/META land in it Wednesday night.**
+- *(★★ THE MEMORY-DEMAND QUESTION IS NOW ANSWERED, AND IT ANSWERS AGAINST THE STOCKS)* Jake's standing question
+  ([[memory-regime-question]]) was: *"We know memory has the demand… is this a dip, or the beginning of a
+  revaluation because of long-term contracts?"* **Hynix is the answer key: demand is real and enormous
+  (+1,242% profit) and the equities fell anyway.** That eliminates the demand-doubt explanation for the memory
+  drawdown. What is left is **(a) price/margin — LTCs capping the upside Morgan Stanley flagged, (b) supply —
+  CXMT, and (c) multiple — the market refusing to capitalize cyclical peak earnings.** The −30% complex-wide
+  drawdown is being driven by (b) and (c), NOT by (a) demand. **This is the revaluation branch, not the dip
+  branch.** [[memory-regime-question]], [[ai-infra-allocation-map]].
+- *(★★ JAKE'S 7/27 CALL, GRADED HIT — the premium for NOT being buried in capex is now the largest market cap
+  in the world)* He wrote it five sessions ago as an aside about Apple's price increases: *"any mag 7+ not
+  buried in AI capex is viewed as a premium."* **The Guardian wrote his thesis as a headline: Apple to $5T "as
+  investors flee AI stocks," passing NVDA.** The market is now paying for capex ABSENCE. That is the
+  [[detachment-bid]] inverted and made explicit, and it is the cleanest single expression of the compression
+  thesis's economics leg: **if the ladder's returns are in doubt, the company that doesn't have to climb it
+  reprices up.** Note the asymmetry it creates for Thursday: **Apple reports 7/30 into a $5T print and Tim
+  Cook's final call as CEO** — maximum expectation, minimum capex excuse.
+- *(★ "AI CHIP TRADE NARROWS TO NVIDIA" — the concentration reading)* NVDA green while AMD −8, MRVL −7, INTC −6,
+  MU −7. **A narrowing inside the narrow trade.** Per the WARNING-vs-TRIGGER rule this is a STATE, not a timing
+  claim — narrowing has persisted for years. **But it is a state with a mechanical consequence: the index's
+  AI exposure is collapsing onto one balance sheet**, and that balance sheet is the one writing the circular
+  cheques ([[ai-financing-fragility]]: NVDA→SSI $5-6B, NVDA CDS 77.6 doubled in 6 weeks). **The concentration
+  and the credit are now the same name.**
+- *(the CXMT leg hardens)* CXMT > Intel by market cap, plus a **US national-security probe request from
+  lawmakers.** Both directions of the vault's CXMT read are live at once: the IPO funds capacity expansion
+  (the glut mechanism) AND the political response raises the odds of restriction (the anti-glut mechanism).
+  **Unresolved — do not pick a side yet; the probe's existence is the near-term tradeable, not its outcome.**
+[[memory-regime-question]], [[ai-capex-cycle]], [[market-fragility]], [[detachment-bid]]

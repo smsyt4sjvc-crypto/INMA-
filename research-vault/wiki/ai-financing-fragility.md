@@ -1625,3 +1625,50 @@ is tolerable relatively?")*
   fundraising totals, and datacenter ABS issuance. If US private-credit fundraising follows Asia's fund-count
   path, the channel thesis graduates from a mechanism to a measured trend. [[compression-thesis]],
   [[new-economy-regime]] (rate leg), [[market-fragility]].
+
+##### 2026-07-28 close ~7:20pm PT — ★★ BANKS HIT SECTOR LIMITS ON DATA-CENTRE LOANS + A ONE-IN-THREE FED HIKE BID
+### DATA (collector CSV 7/29 02:09 UTC, archived `raw/archive/2026-07-29-0209utc-vault-headlines.csv`)
+- **Bloomberg: "Hong Kong Data Center Loan Sale Shows Banks Hitting Sector Limits."**
+- **Bloomberg: "Citadel Securities Sees Warsh Delivering Surprise Fed Rate Hike."**
+- **Tech Times: "Fed Convenes With Rate-Hike Odds Near ONE-IN-THREE After Oil Shock TRIPLED Bets."**
+  Business Insider: *"Investors are bracing for a hawkish Fed meeting."* CNBC: *"Elevated energy prices, AI capex
+  binge puts the Fed and Kevin Warsh in a tough spot."* Trump publicly calling for cuts into the meeting.
+- **Microsoft short interest at a DECADE HIGH ahead of Wednesday's print** (CNBC) — *"as AI spending raises new
+  questions."*
+- **Broadcom lands a $200B Samsung AI chip deal through 2030.**
+- Neocloud tape on a green index day: **NBIS −8.65%, IREN −5.93%, WULF −5.00%, CRWV −4.69%, APLD −2.87%.**
+- 10Y **4.60%** (−0.80%), TLT **+0.65%**, DXY 101.36, gold **4,022 (−0.67%)**.
+
+### THESIS (interpretation — NOT fact)
+- *(★★ THE HONG KONG ITEM IS THE ONE THAT MATTERS, AND IT IS JAKE'S MECHANISM GETTING A PRINT)* His bear case
+  was never the hyperscaler balance sheet — it was **the plumbing**: *"circular lending compiled of under-the-
+  sheets tranches through VCs, BDCs and PE firms."* The counter has been that banks are the senior, cheap,
+  deep layer. **"Banks hitting sector limits" is that layer saying no more — at a CONCENTRATION limit, not a
+  credit-quality judgment.** Mechanically: when the senior lender is full, the marginal data-centre dollar does
+  not disappear, **it migrates to private credit / BDCs / ABS at a wider spread.** That is the exact channel the
+  Burry material described (`raw/2026-05-22-burry-heretics-guide-part-3.md`: MetLife DC-ABS, 200+ Bermuda
+  captives, 36 PE-affiliated, "$662B off-B/S"). **One Hong Kong loan sale is a single datum, not a trend —
+  but it is a datum on the precise mechanism, and the vault had none before tonight.** Falsifiable follow-up:
+  do we see DC-loan syndication break down, or ABS/private-credit DC issuance step up in Q3?
+- *(★★ THE FED TAIL I DID NOT CARRY INTO SET #6 — logged as my omission)* Set #6 was registered ~6:40pm PT
+  Tuesday framing FOMC as *"a HOLD is the consensus expectation."* **That was accurate but incomplete: hike
+  odds near one-in-three, TRIPLED by the oil shock, with Citadel Securities publicly calling for a surprise
+  hike.** The headline was on the wire ~5:09am PT Tuesday — **~13.5 hours before I registered the set** — and
+  I did not have it because the collector CSV arrived after registration. **Process consequence, not an
+  excuse: run the collector BEFORE registering the nightly set, not after.** The set stands unedited per the
+  rule; the omission is logged here.
+- *(what a hike would actually do to this note's thesis — the mechanism, not the vibe)* Jake's own framing:
+  *"if the no-risk rate is 4-5%, how much of this is tolerable relatively?"* **A hike raises the hurdle rate on
+  every levered data-centre dollar simultaneously while the senior bank layer is already at its limit.** That
+  is the combination that turns a spread-widening into a funding stop. **It is a low-probability, high-slope
+  branch — precisely the shape that belongs in this note.** The 10Y FELL to 4.60% Tuesday and TLT rose, so the
+  bond market is NOT pricing the hike; the disagreement between Citadel's call and the curve is itself the
+  tradeable observation.
+- *(the MSFT decade-high short interest cuts AGAINST the bear into Wednesday night)* Maximum short positioning
+  into the biggest capex print of the year is squeeze fuel, and the vault has been burned once this week
+  weighting positioning over the tape (set #4). **Carry it as a two-sided risk on the reaction, not as a
+  direction.** The registered discriminator stands: does hyperscale OCF accelerate toward ~50%, and do spreads
+  respond?
+- *(AVGO/Samsung $200B — the counter-datum, held honestly)* A $200B multi-year AI chip commitment signed while
+  the memory complex is down 30% is **not** the behavior of a buildout that is stopping. **File it against the
+  capex-cut thesis, not for it.** [[ai-capex-cycle]], [[compression-thesis]], [[market-fragility]]
