@@ -1582,3 +1582,46 @@ is tolerable relatively?")*
 > frame** (170bps over a 4.6% risk-free for 3-5yr-life technology risk; the ZIRP-built structure distributed
 > into a 4-5% world); (3) the **live spread confirmation** (G-spread 100→170, CDS panel) that Burry's May piece
 > could only anticipate; (4) the **ordering flag** — stress arriving before the DC channel is wide enough.
+
+### 2026-07-28 ~4:10pm PT — ★ THE CHANNEL NARROWS, MEASURED: Asian private-credit fundraising at a decade low — the rate-tolerance thesis printing at the MARGIN
+### DATA (FT / PitchBook chart, `raw/2026-07-28-asia-private-credit-fundraising-ft.png`)
+- **Asia-based private credit, capital raised: H1-2026 $1.2B** — lowest first-half in 10+ years. Prior years:
+  **2022 peak $20.2B · 2025 $9.5B · 2020 ~$29B (the series high) · 2017-19 ~$8-9B/yr.**
+- **Funds CLOSED: 5 in H1-2026, vs 29 (2025) and 53 (2022 peak).** The fund-count line has fallen for four
+  straight years off the 2022 top.
+- Stated drivers: rising corporate bankruptcies, higher rates, weaker economies pressuring indebted companies.
+  **Allocators are still deploying but "increasingly SELECTIVE, favoring LARGE US MANAGERS with stronger track
+  records over smaller Asian funds."** Summary line: "investor appetite for private credit is weakening globally."
+### THESIS (interpretation — NOT fact)
+- *(★ this is the rate-tolerance frame from 1:35pm, printing — and it dies from the MARGIN inward)* Today's
+  entry argued the structure was "engineered in a ZIRP distribution market and is being distributed into a 4-5%
+  one," so the reach-for-yield bid that absorbs the paper is structurally weaker. **The marginal LP dollar
+  disappears at the marginal fund first** — smaller, shorter-track-record, geographically peripheral vehicles.
+  Asia is that margin. **A 94% collapse from the 2022 peak, and a fund count of 5, is what the demand-for-the-
+  paper problem looks like where it bites first.** Registered as CONFIRMING evidence for the rate leg.
+- *(★★ THE NUANCE THAT CUTS AGAINST THE SIMPLE BEAR READ — hold it honestly)* "Favoring large US managers"
+  means this is partly a **FLIGHT TO QUALITY WITHIN private credit, not an exit FROM it.** Capital consolidating
+  into Apollo/Ares/Blackstone/Blue Owl-class US megafunds is consolidating **into exactly the managers doing the
+  datacenter lending.** So the same datapoint is: bearish the asset class's breadth, **potentially BULLISH the
+  specific channel Jake's thesis targets** (fewer, bigger, better-funded originators). **Do NOT file this as
+  "the datacenter credit channel is closing" — it is not what the data says.**
+- *(what it DOES say, precisely)* (1) **LP appetite for the asset class is contracting at the periphery** —
+  a leading indicator, since fundraising precedes deployment by quarters. (2) **The fund-COUNT collapse
+  (53→29→5) is the sharper signal than the dollars** — the marginal vehicle can no longer raise, which is the
+  definition of a channel narrowing at its edges. (3) The named driver — **rising corporate bankruptcies** — is
+  the credit cycle turning in the region where private credit's underwriting was loosest.
+- *(⚠️ attribution discipline)* Asian private credit is a DIFFERENT market — China property, India, SE Asia
+  corporates. Its distress is largely regional and NOT about AI datacenters. **Evidence about LP APPETITE and
+  the asset class's direction; NOT evidence about datacenter credit specifically.** Overreaching here would
+  repeat the Abqaiq/Jazan conflation error.
+- *(★ the ORDERING flag sharpens — this is the trade-relevant synthesis)* The vault's timing note said stress may
+  arrive BEFORE the DC-plan/TDF channel is wide enough to absorb it. **Now both ends are dated: the retail
+  channel is PENDING (DOL final rule unpublished) while the traditional institutional channel is CONTRACTING at
+  the periphery (this print).** The squeeze is in the middle — the period where the old bid is thinning and the
+  new bid isn't live yet. **That window is NOW, and it is exactly when the $275B permanent-loan takeout (Ropes &
+  Gray, via Burry) and the ~$800B PE/insurance funding requirement (Morgan Stanley) have to clear.**
+- *(the US read-across to WATCH, not to assume)* Whether this reaches the US megafunds is the open question and
+  the observable is already registered: **BDC discounts to NAV** (ARCC/OBDC/BXSL/FSK), US direct-lending
+  fundraising totals, and datacenter ABS issuance. If US private-credit fundraising follows Asia's fund-count
+  path, the channel thesis graduates from a mechanism to a measured trend. [[compression-thesis]],
+  [[new-economy-regime]] (rate leg), [[market-fragility]].
