@@ -1583,7 +1583,7 @@ is tolerable relatively?")*
 > into a 4-5% world); (3) the **live spread confirmation** (G-spread 100→170, CDS panel) that Burry's May piece
 > could only anticipate; (4) the **ordering flag** — stress arriving before the DC channel is wide enough.
 
-### 2026-07-28 ~4:10pm PT — ★ THE CHANNEL NARROWS, MEASURED: Asian private-credit fundraising at a decade low — the rate-tolerance thesis printing at the MARGIN
+### 2026-07-28 ~5:10pm PT — ★ THE CHANNEL NARROWS, MEASURED: Asian private-credit fundraising at a decade low — the rate-tolerance thesis printing at the MARGIN
 ### DATA (FT / PitchBook chart, `raw/2026-07-28-asia-private-credit-fundraising-ft.png`)
 - **Asia-based private credit, capital raised: H1-2026 $1.2B** — lowest first-half in 10+ years. Prior years:
   **2022 peak $20.2B · 2025 $9.5B · 2020 ~$29B (the series high) · 2017-19 ~$8-9B/yr.**
