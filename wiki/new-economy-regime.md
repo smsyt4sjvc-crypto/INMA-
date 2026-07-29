@@ -1413,3 +1413,63 @@ THESIS (interpretation):
   manufactured gain is itself taxed (capital gains). The scheme funds one tax bill by generating another — a recursion
   on top of the venue/exit/self-defeat walls. The only gains that fund taxes efficiently are the ones never realized —
   which is buy-borrow-die, which is what they already do instead.
+
+##### 2026-07-29 ~11:00am PT — ★★★ FOMC: 9-3 HOLD AT 3.50-3.75% WITH **THREE DISSENTS IN FAVOUR OF A HIKE**
+### DATA (FOMC statement, Jake paste via ZeroHedge)
+- **FED VOTES 9-3 TO HOLD the benchmark rate in the 3.50%-3.75% range.**
+- **HAMMACK, KASHKARI and LOGAN DISSENT — ALL THREE IN FAVOUR OF A RATE HIKE.**
+- Statement language: **"REPEATS"** on economic activity expanding at a solid pace, on delivering price
+  stability, and on job gains keeping pace with the workforce. **No language change.**
+- **No dots and no SEP this meeting** — the presser (11:30am PT) is the only forward guidance.
+- Setup context: market priced **~1/3 chance of a HIKE**; first meeting in years without ≥80% market
+  confidence; **BMO (Lyngen): average pre-meeting market error since 2015 is 2.4 BASIS POINTS**; **UBS
+  (Pingle): "hasn't felt this uncertain about an imminent Fed rate decision in 20 years."** **9 committee
+  members saw hikes this year.**
+- Macro backdrop per the same piece: **both growth AND inflation data have surprised to the DOWNSIDE, while
+  OIL's resurgence pushed hike odds significantly higher.**
+- Market immediately prior: **VIX 19.79 (+8.74%), Brent 90.27, WTI 84.61, 10Y 4.64% (+0.85%), TLT −0.30%,
+  gold +1.19%, SPX −1.05%, SOXX −5.40%.**
+
+### THESIS (interpretation — NOT fact)
+- *(★★ SET #6 KILL SWITCH #2 DID NOT FIRE — the largest registered risk to the book is off the table)* The
+  switch read: *"Dovish surprise / cut signaled → melt-up + the momentum basket bounces violently — and my
+  spread calls lose."* **There was no cut, no cut signal, and no dovish language change.** I flagged this as
+  the single largest risk in the book three separate times today, with maximum fuel behind it (largest 3-day
+  de-gross since Nov '22, worst hedge-fund day since COVID). **It did not fire, and the three spread calls
+  survive their biggest test.** Kill switch **#1 fired only in COMPOSITION, not in action** — the outcome was
+  the consensus hold, but three votes wanted to tighten.
+- *(★★★ THREE DISSENTS IS THE ENTIRE INFORMATION CONTENT, and it is more hawkish than a hold implies)* An
+  FOMC typically produces zero or one dissent; **three, all in the same direction, at a meeting with no
+  statement-language change, is a committee that could not agree and papered over it.** **The words did not
+  move and three people broke ranks anyway** — that is strain, not consensus. **Direction of travel: the next
+  move is more likely a hike than a cut, and the market was pricing ~1/3 for that today.** For a vault that has
+  been running a rate-cut-adjacent framing in [[new-economy-regime]], this is the harder branch.
+- *(★★★ THE SYNTHESIS THAT MATTERS: THIS FED IS HIKE-CURIOUS BECAUSE OF **OIL**, WHILE GROWTH UNDERSHOOTS)*
+  The article's own framing: **growth AND inflation data surprised to the DOWNSIDE; it was oil's resurgence
+  that pushed hike odds up.** **Three dissenters wanted to tighten into softening growth because of an
+  energy-supply shock.** That is the textbook policy-error configuration — **tightening against a supply-side
+  price impulse that monetary policy cannot address, while demand is already cooling.**
+  **AND IT PROMOTES THIS VAULT'S ENERGY WORK INTO A MONETARY INPUT:** the **SPR clock (307.65M, 722k bpd,
+  ~11.4 weeks to 250M)**, **Cushing at tank bottoms**, and **Brent through $90** are no longer just an energy
+  trade — **they are the variable that decides whether three dissents becomes a majority.** **If the SPR
+  release stops covering the gap inside that window, this committee has three votes already committed to
+  hiking on it.** [[demand-destruction]], [[market-fragility]], [[consumption-vs-investment-crux]].
+- *(★ THE VIX TEST OF MY OWN COUNTER-ARGUMENT, now live)* I conceded Jake's coiled-VIX read this morning but
+  held one objection: **"the base rate is VIX CRUSHING after the event; a coiled VIX pays on MAGNITUDE and
+  expires worthless on an in-line outcome."** **The outcome was in-line on the action, with the uncertainty
+  itself — the largest pre-FOMC uncertainty in 20 years by UBS's account — now resolved.** **If VIX crushes
+  from 19.79, my caveat was right and his checkpoint was a pre-event artefact. If VIX HOLDS or extends on the
+  dissents and the presser, his read wins outright and the 20 checkpoint fires on substance.** Falsifiable
+  within the hour. **Registered before the resolution.**
+- *(★ where the actual information still is: the presser, because there is no SEP)* **No dots to update means
+  the only forward guidance today is Warsh's mouth**, from a chair with no track record whom UBS says "we
+  really have no idea how he thinks about monetary policy," and who now has **three hawkish dissents giving him
+  cover to sound tight.** The earlier feed flagged *"A 'True Shock': Will Warsh Put A Definitive End To Forward
+  Guidance Today."* **A chair who removes forward guidance raises the permanent variance of every rate-sensitive
+  asset — that is a structural vol event, not a one-day one, and it would land on a market already carrying a
+  record de-gross.**
+- *(⛔ grading my own omission)* At set #6 registration I framed FOMC as *"a HOLD is the consensus
+  expectation"* and did NOT carry the ~1-in-3 hike tail (Citadel publicly calling for a surprise hike). **The
+  omission did not cost me on the outcome — the hold happened.** **But three dissents show the tail was real
+  and closer than "consensus hold" conveyed.** The process fix already registered stands: **run the collector
+  BEFORE writing the nightly set.**
