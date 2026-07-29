@@ -1580,3 +1580,68 @@ THESIS (interpretation):
   **And the capex-intensity discriminator survives intact: the Fed's blessing helps the fundamentals of
   capital-intensive names while a steeper curve hurts their FINANCING. The split remains between those who must
   BORROW to build and those who do not.**
+
+##### 2026-07-29 ~11:20am PT — ★★★ 30Y +10bp TO 5.19%. THE FORK RESOLVES TO BEAR STEEPENING — AND WARSH SAYS HE ENGINEERED THE DISSENTS.
+### DATA (ZeroHedge live feed off the presser)
+- **30Y +10bp to 5.19%** — ZH: *"screaming policy error."* **Simultaneously: "FED SWAPS NO LONGER FULLY PRICE
+  IN A SEPTEMBER RATE HIKE."** **Front end rallies, long end sells = BEAR STEEPENING.**
+- **"S&P 500 TURNS NEGATIVE, NASDAQ 100 PARES GAINS."** **Brent $91.**
+- Warsh, verbatim from the presser:
+  - **"I'VE BEEN TRYING TO GET UNFILTERED MESSAGE FROM MARKETS" / "WE'RE TRYING NOT TO INTERFERE WITH THAT
+    MARKET SIGNAL" / "MARKETS ARE REACTING TO EVENTS MUCH MORE DIRECTLY."**
+  - **"I ASKED FOR A GOOD FAMILY FIGHT AND I GOT ONE."**
+  - **"THERE IS NO SOFT INFLATION TARGET." / "WE WILL DELIVER 2% INFLATION." / "IF INFLATION STAYS HIGH, RATES
+    COULD BE PART OF SOLUTION."**
+  - **"I WOULDN'T CHARACTERIZE WHAT WE DID TODAY LIKE A PAUSE." / "THIS IS A PERIOD OF WATCHFUL THINKING."**
+  - **"MARKETS ARE BROADLY SAYING FED HAS CREDIBILITY"** — said while the 30Y was +10bp.
+- **★ Goldman, via ZH: soaring ELECTRONICS/MEMORY prices are adding 0.5% TO CORE CPI.**
+- **TRUMP: JENSEN HUANG IS IN THE OVAL OFFICE.** **TRUMP: "WILL BE HITTING IRAN HARD, IT'S OUR TURN."**
+- **"Houthis Signal RED SEA SHIPPING TOLLS In Mirror Image Of Iran's Hormuz Plan."**
+
+### THESIS (interpretation — NOT fact)
+- *(★★ THE FORK IS RESOLVED: BRANCH (a), and the conditional read filed 30 minutes ago stands)* I registered:
+  **"2Y DOWN + 10Y/30Y UP → credibility / inflation-tolerance steepening. Everything above applies."**
+  **September priced out (front end down) with the 30Y +10bp to 5.19% is exactly that pattern.** **The market
+  is not celebrating the hold — it is charging for it.** Everything filed under that branch is now live: the
+  SPR clock as a **term-premium** trigger rather than a hike trigger; **capex intensity, not duration**, as the
+  rotation's axis; neoclouds as the most exposed cohort. **The 30Y at 5.19% is also the first time this vault's
+  "5.00% corner" marker has been breached at the long end.**
+- *(⛔ CORRECTION — I OVER-READ THE DISSENTS, AND WARSH JUST SAID SO HIMSELF)* Thirty minutes ago I wrote:
+  **"three dissents is the ENTIRE information content"** and read it as a hawkish direction signal. **Warsh:
+  "I ASKED FOR A GOOD FAMILY FIGHT AND I GOT ONE."** **He engineered the dissent. It is intended process, not
+  committee breakdown.** **Consequence: a 9-3 vote under Warsh carries LESS directional information than a 9-3
+  under a consensus-managing chair, and the vault must not price future dissent counts off historical base
+  rates.** **The dissent signal has been deliberately devalued by the person who produced it.** Second polarity
+  error on this meeting in under an hour — both from reading the committee instead of the chair.
+- *(★★★ THE DOCTRINE IS THE STRUCTURAL EVENT, and he stated it plainly)* **"I've been trying to get an
+  unfiltered message from markets... we're trying NOT TO INTERFERE with that market signal... markets are
+  reacting to events much more directly."** **Warsh deleted forward guidance ON PURPOSE, so that the market
+  prices EVENTS rather than pricing the Fed's REACTION FUNCTION.** For two decades the dominant macro trade has
+  been trading the reaction function. **He is dismantling it deliberately.** Consequences: **(1) rate-sensitive
+  assets carry permanently higher variance; (2) every individual data print gets MORE impact because it is the
+  only input left; (3) the Fed put is not merely struck lower — it has been DISCLAIMED as a signal-distorting
+  mechanism.** **And "markets are broadly saying the Fed has credibility" delivered into a 30Y +10bp is the
+  market answering him in real time.** [[market-fragility]], [[detachment-bid]].
+- *(★★★ THE CROSS-THREAD ITEM OF THE DAY: MEMORY IS ADDING 0.5% TO CORE CPI)* Goldman puts **50 basis points
+  of core CPI** on soaring electronics/memory prices. **This vault has run memory ([[compression-thesis]],
+  [[memory-regime-question]]) and rates ([[new-economy-regime]]) as separate threads all week. They are one
+  thread.** **The AI buildout is SELF-INFLATIONARY** — capex demand drives memory scarcity drives core CPI.
+  **And the statement named ENERGY as the supply shock and did NOT name electronics.** **So the policy-error
+  tail has a specific shape: a Fed that blesses capital investment as "strong" while the same capital
+  investment generates 50bp of core inflation it has chosen not to mention.** **Registered as the single most
+  important thing to watch on the next CPI print** — if the electronics contribution grows while the Fed keeps
+  looking through it, the 30Y keeps going. [[ai-capex-cycle]], [[memory-regime-question]].
+- *(★★ THE TOLL-GATE THESIS IS NOW EXPLICIT AND BILATERAL)* **"Houthis Signal Red Sea Shipping Tolls In Mirror
+  Image Of Iran's Hormuz Plan."** The vault filed the toll-gate reading on 7/26 (China negotiating with the
+  Houthis) and got its first named payer this morning (**three Japan-linked vessels transiting "by Iran
+  route"**). **Now the actors are announcing it.** **Two chokepoints, two actors, both converting military
+  leverage into a TARIFF.** That is not a war risk — **it is a permanent structural tax on the two most
+  important maritime corridors, and it prices in FREIGHT and INSURANCE, not in flat crude.** **It also means
+  the "closure" branch of the vault's discriminator may never arrive: an administered strait earns more than a
+  closed one.** [[demand-destruction]], [[oil-value-chain]].
+- *(the Oval Office item, noted)* **Huang in the Oval Office** while Trump threatens Iran, days after Huang met
+  Lutnick, defended open weights in Washington, and was conspicuously absent from the 1,178-name pacing letter.
+  **The compute seller has the most direct access of any actor in the regulatory map.** [[metered-compute]].
+- *(the tape, and my shape call)* **S&P turned negative and the NDX pared gains** — the FOMC pop is being sold,
+  which is set #6's registered shape (*"de-risking into the close ahead of MSFT/META"*) doing exactly what it
+  said. **The relief lasted minutes.**
