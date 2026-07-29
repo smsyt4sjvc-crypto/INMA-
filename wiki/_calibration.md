@@ -490,3 +490,31 @@ circuit-breakered, the S&P's bottom decile in freefall.)*
   week where he was also right on the momentum ex-COVID correction and on the Apple-capex-premium call. **His
   hit rate on my errors is the most reliable signal in this system and I should treat a challenge from him as
   ~70% likely correct before I evaluate it, not 50%.** That is a prior update, not a compliment.
+
+##### 2026-07-28 ~9:30pm PT — ⛔ THE SAME ARITHMETIC ERROR PRODUCED TWO OPPOSITE CONCLUSIONS IN ONE HOUR
+*(Jake, six words: "Those runs were like 15 minutes apart." That killed both of them.)*
+- *(what happened)* Two runs of `asia_stress_cell.py` ~15-23 minutes apart. **Between them a futures session
+  bar rolled, so every 1d% re-based from Monday's settle to Tuesday's settle.** I read the re-basing as market
+  action **twice, in opposite directions:**
+  **(1) "In the ten minutes Korea spent halted, all four US futures went UP — the absorber bid into the halt."**
+  Bullish-containment story, built on intra-bar wiggles in an already-closed bar.
+  **(2) After retracting (1): "The spread compressed −2.38 → −0.53 and the absorber flipped sign — the
+  registered transmission signal has fired."** Bearish story, built on **the exact same artifact.**
+- *(the arithmetic, which settles it)* Real price action in the window: **NQ −0.258%, YM −0.089% — NQ
+  underperformed by 0.169 pts, i.e. DISPERSION INTACT.** The reported "1.85 pts of compression" is **~11x
+  larger than anything that moved.** The Dow futures BASE rose **+562 points** (Monday settle → Tuesday settle;
+  the Dow gained 537 on Tuesday), which flips YM negative on arithmetic alone.
+- *(★★ THE LESSON, and it is worth more than either conclusion)* **An artifact will happily generate a
+  narrative in whichever direction you are primed for. I produced a containment story and a contagion story
+  from ONE bad number within an hour — which proves neither story was ever coming from the data.** When the
+  same input supports opposite conclusions depending on what you were leaning toward, the input is not
+  evidence.
+- *(the structural fix, applied to the tool rather than to my intentions)* **The cell now prints the implied
+  prior-session BASE next to every 1d%,** plus a standing banner: *compare PRICES across runs; compare
+  percentages only at equal base.* A re-basing cannot masquerade as a move if the base is on screen. **Rules
+  about being careful do not survive a fast tape; a column does.**
+- *(pattern count, stated flatly)* This is the third artifact-driven error tonight — the −18.12% two-day KOSPI
+  print, the stale-bar futures read, and its bearish inverse. **All three were RATE-OF-INGEST failures: Jake
+  pastes a fresh output, I interpret it before auditing it.** Standing rule added: **audit the timestamps and
+  bases of a pasted output BEFORE extracting any conclusion from it.** Jake is now 4-for-4 tonight catching
+  errors I did not catch myself.

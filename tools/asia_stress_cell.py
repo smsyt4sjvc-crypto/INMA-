@@ -59,20 +59,27 @@ def stats(t):
     gap = (s.index[-1] - s.index[-2]).days
     n20 = min(21, len(s)); m = (px/float(s.iloc[-n20])-1)*100
     dd = (px/float(s.max())-1)*100
+    base = float(s.iloc[-2])   # the prior-session reference the 1d% is measured against
     flag = ' <-- CHECK: bar gap %dd, 1d%% may be MULTI-DAY' % gap if (gap > 3 or abs(d1) > 12) else ''
-    return px, d1, m, dd, s.index[-1].date(), flag
+    return px, d1, m, dd, s.index[-1].date(), flag, base
 
 for g, items in GROUPS.items():
     print(f'\n### {g}')
-    print(f'  {"":14}{"last":>12}{"1d%":>9}{"~1mo%":>9}{"vs 3mo hi":>11}   as of')
+    print(f'  {"":14}{"last":>12}{"1d%":>9}{"~1mo%":>9}{"vs 3mo hi":>11}{"BASE":>12}   as of')
     for t, lab in items:
         r = stats(t)
         if r is None: print(f'  {lab:14}   -- NOT AVAILABLE'); continue
-        px, d1, m, dd, dt, flag = r
-        print(f'  {lab:14}{px:>12,.2f}{d1:>+9.2f}{m:>+9.1f}{dd:>+11.1f}   {dt}{flag}')
+        px, d1, m, dd, dt, flag, base = r
+        print(f'  {lab:14}{px:>12,.2f}{d1:>+9.2f}{m:>+9.1f}{dd:>+11.1f}{base:>12,.2f}   {dt}{flag}')
 
 # ---------------- the reads ----------------
 print('\n' + '='*68); print('  THE CHANNELS'); print('='*68)
+print('\n  !! READ THE **BASE** COLUMN BEFORE COMPARING TWO RUNS OF THIS CELL.')
+print('     The 1d%% is measured against that base. When a session rolls, the BASE changes and')
+print('     every 1d%% re-prices WITHOUT THE MARKET MOVING. Two runs 15 minutes apart produced a')
+print('     1.85pt "spread compression" here on 2026-07-28 that was ENTIRELY a base change')
+print('     (Dow futures base +562 pts, Mon settle -> Tue settle) while real price action was')
+print('     NQ -0.26%% / YM -0.09%%. Compare PRICES across runs. Compare %% only at equal base.')
 
 def val(t, i=1):
     r = stats(t); return r[i] if r else None
