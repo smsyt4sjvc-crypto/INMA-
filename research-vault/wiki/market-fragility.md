@@ -1034,3 +1034,55 @@ Source: `raw/2026-07-27-market-events-week.csv` (Jake's event calendar).
   chip demand, and they are bleeding independently of the index — see the Hong Kong bank-limit datum in
   [[ai-financing-fragility]]. **If the systemic version of this ever arrives, it arrives here first, not in
   SOXX.** [[compression-thesis]], [[ai-financing-fragility]], [[weekly-momentum]]
+
+##### 2026-07-28 ~7:55pm PT — ⛔ JAKE'S CATCH ON THE VIX: I CONTRADICTED THIS VAULT'S OWN 8:15am ENTRY, WITH DATA, TWELVE HOURS LATER
+*(Jake: "On VIX: Maybe the quiet volume we discussed earlier? Big week. Holding pat." He is right, and the
+vault had already written his answer this morning — I filed it and then argued against it tonight without
+noticing.)*
+### DATA (already in the vault, [[compression-thesis]] 2026-07-28 ~8:15am PT — Jake's own RVOL cell)
+- **Mag-7 relative volume, 99 minutes in, time-of-day adjusted: NVDA 1.07x · MSFT 0.96x · AAPL 0.90x ·
+  TSLA 0.90x · AMZN 0.84x · GOOGL 0.69x · META 0.60x. ZERO elevated readings across the seven** — on a day the
+  S&P's bottom decile was down 5-19%.
+- My own conclusion that morning, verbatim: *"Volume this LOW into the two biggest capex prints of the year
+  means positioning is NOT set, hedges are thin, and the reaction is UNABSORBED — the move gets amplified in
+  both directions."*
+- Tuesday close: **VIX 18.21, −2.46%**, with **Dow +537 / SPX +0.21% / NDX into correction / SOXX −4.02%.**
+
+### THESIS (interpretation — NOT fact)
+- *(⛔ THE ERROR, stated exactly)* I wrote tonight that a falling VIX on a −4% SOXX day means *"the market is
+  pricing a SECTOR problem, not a SYSTEMIC one."* **That is substantially an arithmetic artifact restated as a
+  market judgment.** **VIX is INDEX volatility, and index vol is a function of component vol AND CORRELATION.**
+  Tuesday was a violent correlation collapse — the Dow up 537 while the NDX entered correction. **When
+  correlation falls, index vol falls MECHANICALLY even if every component becomes more volatile.** So "vol fell
+  while the epicenter bled" is largely a restatement of "dispersion happened," not independent evidence about
+  what the market believes. I presented a tautology as a finding.
+- *(★ Jake's mechanism is the second half, and it has direct data under it)* **A VIX suppressed by
+  NON-PARTICIPATION is not calm, it is paralysis.** His RVOL read — *"people are just holding still for the big
+  week, not just earnings, FOMC"* — is measured, not inferred: **META 0.60x and GOOGL 0.69x on the day before
+  the two biggest capex prints of the year.** Realised index vol is depressed because flows are absent; implied
+  follows realised. **The vault wrote "coiled" at 8:15am off exactly this data and I wrote "contained" at
+  7:20pm off a derivative of it.** The morning entry has the better evidence.
+- *(what survives, held honestly and narrowly)* Falling IMPLIED correlation is still a pricing decision, not
+  pure arithmetic — someone is selling index vol relative to single-name vol. But that is a far narrower claim
+  than the one I made. **And the momentum-unwind reframe does not depend on the VIX at all** — it rests on
+  GSPRHIMO −40.98% and the cross-sectional tape. **Retract the VIX leg; the reframe stands on its own legs.**
+- *(★★ THE CONSEQUENCE IS OPPOSITE ACTIONS, which is why the error matters)* Under my read, a low VIX means
+  hedges are unnecessary. **Under Jake's, a low VIX into FOMC + MSFT/META (Wed) + AAPL/AMZN (Thu) means the
+  hedge is CHEAP at exactly the moment it is most likely to pay.** Those are opposite instructions from the
+  same number, and his has the volume data behind it.
+- *(⚠️ THE COUNTER HE IS UNDER-WEIGHTING — the vol-crush base rate)* **The standard post-event behaviour is VIX
+  CRUSHING, not popping.** A pre-event level embeds an event premium that decays the moment uncertainty
+  resolves — FOMC days are the canonical example. So "coiled" does **not** imply "pops"; it implies the current
+  level contains a premium that pays only on a LARGE outcome in either direction, and expires worthless on an
+  in-line one. **The paralysis read is not a free bet; it is a bet on magnitude.**
+- *(★ THE DISCRIMINATOR — and the vault does not currently have the data)* Spot VIX cannot separate "calm" from
+  "coiled." **The VIX TERM STRUCTURE can:** VIX9D above VIX (and VIX above VIX3M) = a near-dated event premium
+  = Jake's paralysis/coiled read; a normal upward-sloping curve (VIX9D < VIX < VIX3M < VIX6M) = genuine calm =
+  my read, correctly stated for once. **Backwardation would additionally indicate real stress, not just event
+  risk.** Tool built tonight: `tools/vix_term_structure_cell.py`. **This is a registered, falsifiable,
+  next-morning test of a disagreement between us — run it before the 11:00am FOMC.**
+- *(the process lesson, which is the third of its kind this week)* **The vault contained the answer twelve hours
+  before I argued against it.** Same failure shape as the Burry retrieval miss and the Axios-paraphrase miss:
+  **I reason from the newest input instead of searching what is already filed.** Rule reinforced to
+  [[_calibration]]: **before writing a conclusion about a market state, grep the vault for the same day.**
+  [[compression-thesis]], [[weekly-momentum]], [[_calibration]]

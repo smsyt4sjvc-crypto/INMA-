@@ -1299,3 +1299,63 @@ MUCH BIGGER than reported in who asked. Both corrections below.)*
   weight. **Unverified — do not use until checked.**
 
 [[compression-thesis]], [[ai-capex-cycle]], [[ai-financing-fragility]], [[_calibration]], [[market-fragility]]
+
+##### 2026-07-28 ~7:50pm PT — ★★★ JAKE'S CATCH: THE GLARING OMISSION FROM THE SIGNATORY LIST IS NVIDIA — AND HUANG SPENT THE SAME DAY IN WASHINGTON ARGUING THE OPPOSITE
+*(Jake: "There's one glaring omission from the list of signatories, and he was in DC today saying restrictions
+are useless." He is right, and it reframes the document more than anything else filed on it tonight.)*
+### DATA
+- **The 1,178-signature "Pacing the Frontier" list contains ZERO NVIDIA signatories.** Signatory orgs visible on
+  the landing page: OpenAI, Anthropic, Google/Google DeepMind, Meta/Meta AI, Thinking Machines, Inherent.
+  (`raw/2026-07-28-pacing-the-frontier-statement.md`)
+- **Bloomberg, 7/28 ~12:09pm PT:** *"**Nvidia CEO Jensen Huang Urges Support for Open-Weight AI Models** —
+  Nvidia Corp. Chief Executive Officer Jensen Huang defended open-weight artificial intelligence systems as
+  crucial to the nascent AI industry, **sending a cautionary message to officials in Washington**."*
+- Same week, already in the vault: **Huang met Commerce Secretary Lutnick amid China scrutiny** (Axios); NVDA's
+  Taipei office raid; **"Nvidia Assembles AI 'Avengers', Open Secure AI Alliance."**
+- Also absent from the list: **xAI (zero signatories).** And **Amodei is the ONLY frontier CEO who signed** —
+  OpenAI sent Pachocki (Chief Scientist) and Chen (CRO) but not Altman; Google sent Sekhon and Dragan but not
+  Hassabis; Meta sent Zhao and Song but not Zuckerberg.
+- Separately 7/28: **Amodei publicly defended Anthropic's open-weight stance after a critique from Palantir's
+  Karp** — *"says Anthropic has never advocated banning open-weight models."*
+
+### THESIS (interpretation — NOT fact)
+- *(★★★ THE REFRAME — this is a BUYERS' proposal, and the SELLER is the one name missing)* Read the ask
+  functionally instead of morally: *"deliberately pace the frontier of automated AI development"* means **slow
+  the training runs.** **Every signatory organisation BUYS compute. NVIDIA SELLS it.** The one company whose
+  revenue is the direct arithmetic complement of "pacing" has no one on the list, and its CEO spent the same
+  day telling Washington the restrictive frame is wrong. **That is not a coincidence of scope — it is the
+  demand side and the supply side taking opposite positions on the same policy in the same news cycle.**
+- *(★★ AND IT CONNECTS STRAIGHT INTO THIS VAULT'S OWN COMPRESSION THESIS — the convenience is enormous)* Each
+  lab is trapped in a prisoner's dilemma: it must keep buying GPUs because its rivals are. **An internationally
+  sanctioned pacing mechanism is precisely the coordination device that lets all of them stop spending at once
+  WITHOUT losing relative position.** It caps the single largest cost line in the industry and freezes the
+  competitive order in favour of whoever currently leads. **Filed against the vault's standing evidence:**
+  prudence-over-capability release sequencing (Jake's Opus-5/Fable-5 observation), CFO model-downgrading,
+  per-token price collapse, the beat-sold razor punishing capex. **A capex truce is the single most valuable
+  thing this cohort could obtain right now, and this document is a request to build the machinery for one.**
+- *(⚠️ HOLD BOTH — sincerity and structure are not mutually exclusive)* Nothing here says the safety concern is
+  fake; the eval engineer's *"the recent pace has been a shock"* does not fit a cynical frame at all. **The
+  honest statement is structural, not motivational: sincere people can produce a document whose STRUCTURE is a
+  buyers' cartel, and the structure is what the market trades.** Do not upgrade this to an accusation.
+- *(★ the second-order tell Jake's catch exposes — only ONE CEO signed)* Amodei is the sole frontier CEO on the
+  list; OpenAI, Google and Meta all participated at the chief-scientist level while keeping the CEO signature
+  free. **That is hedging: enough participation to claim the legitimacy, not enough to bind the company.** It
+  also means my earlier framing — corrected once already tonight from "workforce" to "management" — needs a
+  third precision: **it is RESEARCH leadership, with corporate leadership largely abstaining.**
+- *(★★ what this does to the vault's regulatory map, restated)* The map is now cleanly two-sided and the sides
+  are economic, not ideological:
+  **PACING SIDE (compute BUYERS):** Anthropic's chokepoints + the 1,178 statement + the Kill Switch Act's
+  direction of travel. Wants: slower frontier, controlled inputs, a coordination mechanism.
+  **UNRESTRICTED SIDE (compute SELLER + open-weight coalition):** Huang urging open weights and cautioning
+  Washington, the Alliance letter shielding open weights, NVDA's Open Secure AI Alliance, xAI's absence.
+  Wants: maximum deployment surface, no development ceiling.
+  **The tell that this is economics and not principle: Amodei is simultaneously pushing chip chokepoints AND
+  defending his open-weight record against Karp.** Positions are being taken on the axis that protects each
+  actor's cost or revenue line, not on a consistent safety philosophy.
+- *(the investable version, stated narrowly)* **NVIDIA is the pure short-interest expression of the pacing
+  tail and the pure long expression of its failure.** Any credible movement toward a pacing mechanism is a
+  direct hit on the demand side of NVDA's order book — which is the one name the index's AI exposure is
+  collapsing onto ("AI chip trade narrows to NVIDIA," NVDA +0.44% while AMD −8/MRVL −7/INTC −6).
+  **Concentration and policy risk are converging on the same ticker.** Still an odds-shader on the 2027-28
+  path, not a 2026 trigger — but the Aug-1 framework language is the near test.
+  [[compression-thesis]], [[ai-capex-cycle]], [[ai-financing-fragility]], [[market-fragility]]
