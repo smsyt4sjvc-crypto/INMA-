@@ -2599,3 +2599,58 @@ LOOP/Houston.** **Any loading suspension, force majeure, or vessel casualty at a
 - *(⚠️ minor measurement note, logged because it bit me before)* **Samsung printed 206,500 in the 06:39 scan and
   207,000 in the 07:13 scan, both labelled the same session.** Even a "closed" foreign price settles after the
   bell. **Do not treat the first post-close print as final.**
+
+## 2026-07-30 ~2:09am PT — ⛔ QUARANTINED DIGEST: the "Q3 2026" Saudi GDP paste is IMPOSSIBLE (Q3 is 30 days old), and the REAL Q2 print released TODAY is materially WORSE than the digest claimed
+
+**THE DATE DEFECT, checked first and before any content:** the paste reports **"Q3 2026 GDP"**. **Q3 2026 runs
+1 Jul – 30 Sep; today is 30 July — 30 days of 92 elapsed.** **No Q3 print can exist.** Format tells confirm an
+LLM digest rather than a wire: bracketed tags (`[energynow]`, `[youtube +1]`), **YouTube cited as a source for
+national accounts**, and a closing offer to do more research.
+
+### DATA (verified — GASTAT via Reuters/FMT, released TODAY 2026-07-30; Saudi Gazette / SPA / economymiddleeast for Q1)
+| | digest CLAIMED | GASTAT ACTUAL |
+|---|---|---|
+| quarter | **Q3 2026** | **Q2 2026** |
+| oil activity | −17% | **−24.7%** |
+| non-oil | +3.6% | **+0.9%** |
+| government | — | +0.6% |
+
+**Q1 2026 for context: +3.0% y/y (oil and non-oil each +2.9%); on a seasonally-adjusted q/q basis −1.2%, with
+oil −6.8%.** ⚠️ **I have not established whether GASTAT's −24.7% is y/y or q/q SA — the Q1 release mixes both
+conventions — so I am NOT computing a headline GDP figure and the digest's −4.5% stays unverified.**
+
+- *(⛔ THE FAILURE MODE IS NOT RANDOM NOISE — the digest SOFTENED both components)* **Oil −17% against an actual
+  −24.7%. Non-oil +3.6% against an actual +0.9%.** Both errors run the same direction. **A digest that
+  systematically understates severity is more dangerous than one that is randomly wrong, because it reads as
+  measured and conservative.**
+- *(★★★ AND THE REAL HEADLINE IS THE ONE THE DIGEST BURIED: NON-OIL GREW 0.9%)* The digest called non-oil
+  *"much softer than prior quarters, though still positive"* at a fabricated +3.6%. **The actual +0.9% is a
+  near-stall.** **Saudi Arabia's entire Vision 2030 proposition is that non-oil diversification insulates the
+  economy from oil.** **It did not.** Non-oil decelerated from +2.9% in Q1 to +0.9% in Q2 while oil collapsed —
+  **the diversification is not absorbing the shock, it is correlated with it.**
+- *(⛔ THIS BREAKS MY OWN ABSORBER EXPLANATION, for the second time in six hours)* On the CPC miss I wrote that
+  the 1.8 mb/d outage must have been covered by *"OPEC+ spare capacity — available in part because Kazakhstan
+  had been overproducing its quota."* **Saudi oil activity contracted 24.7% in the same quarter.** **The largest
+  holder of spare capacity was CONTRACTING, not ramping.** **So spare capacity is not the absorber, and I
+  offered it as one without checking.** What is left: **commercial inventory draws, the SPR, and demand
+  destruction** — which makes the **SPR clock (307.650M, ~11.4 weeks to 250M) more load-bearing, not less.**
+  ⚠️ **I am naming the remaining candidates, not asserting the answer. The last time I named an absorber I was
+  wrong.**
+- *(★★★ THE HOLE IN WHAT I FILED SIX HOURS AGO — Saudi's BYPASS HAS ITS OWN CHOKEPOINT)* I wrote that Oman's
+  storage expansion, QatarEnergy's US cargoes and the **US–Saudi $5B refinery "sited OUTSIDE Hormuz"** were
+  *"three actors committing multi-decade capital on the assumption Hormuz risk is structural"* — **and I treated
+  outside-Hormuz as SAFE.** **Saudi's Hormuz bypass is the East–West pipeline to YANBU, on the RED SEA, and the
+  Houthis are on the Red Sea.** **Both of Saudi Arabia's export routes are compromised simultaneously.**
+  **This reframes tonight's scan: "Saudi Arabia seeks international coalition to protect Red Sea shipping" and
+  "Saudi Arabia, Italy call for maritime security in Hormuz, Red Sea" are NOT a separate Houthi story — they
+  are Saudi trying to secure the route it fled to.** **Two chokepoints, one exporter, no clean path.**
+- *(★★★ THE CRUDE BEAR CASE NOBODY IN THIS VAULT IS RUNNING, and it comes from the fiscal side)* Saudi cut
+  output to support price; **price did not compensate, and the oil economy contracted ~25%.** **A kingdom
+  running that contraction with a near-stalled non-oil sector has a powerful fiscal incentive to STOP CUTTING
+  and defend volume.** **If Saudi abandons the cut, ~1 mb/d returns — potentially at the same moment CPC
+  resolves diplomatically via the Tokayev visit.** **The bear case for crude is SAUDI FISCAL PAIN, not demand
+  destruction, and every thread in this note has been running the war-premium side.** Registered as the
+  strongest available counter to my own framing. [[oil-value-chain]], [[new-economy-regime]].
+- *(★ the peg, noted as a state not a trigger)* Inflation contained ~1.7–2.2% via subsidies and the dollar peg.
+  **The peg imports US monetary policy: a 30Y at 5.14% and a Fed not cutting means tightening into a GDP
+  contraction.** A stress point to watch, not a call. **Per the WARNING-vs-TRIGGER rule this is a STATE.**

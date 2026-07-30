@@ -179,6 +179,9 @@ WATCH = [
         'the 07-28 ATH) while NDX keeps falling? That is the average S&P stock giving back all of '
         'July -- rotation has become a broad de-rate. Currently 215.73, -1.37% away.',
       pat=r'(equal.?weight|equal.?weighted|breadth|rotation|rotat\w+ out|average stock|rsp\b|advance.decline)'),
+ dict(id='F12',pri=1, note='demand-destruction',      since='07-30',
+      q='Saudi Q2 GDP: is GASTAT\'s oil -24.7%% y/y or q/q SA? And does Saudi ABANDON its ~1 mb/d\n        cut to defend volume? An oil economy down ~25%% with non-oil at +0.9%% is fiscal pressure to\n        stop cutting -- the crude BEAR case, and the vault runs only the war-premium side.',
+      pat=r'(saudi|gastat|aramco|opec|quota|production cut|market share|yanbu|east.?west pipeline)'),
  dict(id='F10',pri=3, note='ai-capex-cycle',         since='07-30',
       q='Zhongji InnoLight break SIZE and terms, and whether other AI-supply-chain deals are pulled. '
         'One broken debut is a datum; a second is a primary-market regime.',
