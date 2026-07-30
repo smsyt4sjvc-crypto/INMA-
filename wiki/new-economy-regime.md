@@ -1750,3 +1750,38 @@ prior 187K). Continuing claims 1,782K (exp 1,795K, prior 1,796K).**
 - *(★ the equity setup, stated as mechanics not a call)* **Yesterday's selloff was about the Fed HIKING, not
   about growth.** **A print that removes hike pressure is therefore bullish for the thing that actually broke
   yesterday** — which is why "bad news is good news" applies to this specific print rather than as a slogan.
+
+## 2026-07-30 ~8:45am ET — ⛔ CORRECTION: CORE PCE WAS **−0.1%**, NOT +0.1% (Jake's catch) — and the likely mechanical cause is not disinflation at all
+
+- *(⛔ THE ERROR, twice compounded)* I read *"PCE Core 0.1% MoM"* as **+0.1%** and then applied "magnitude
+  discipline," calling a **0.3pp miss against +0.2% expected a rounding step.** **It is a SIGN CHANGE.
+  Negative core PCE months are rare outside 2020.** **I under-reacted to the largest surprise in the release
+  because I mis-signed it, then used my own calibration rule to justify the under-reaction.** **A discipline
+  rule applied to a misread number launders the error instead of catching it.**
+- *(⛔ AND MY "QUIET FINDING" IS VOID)* I wrote *"headline came in BELOW core, so energy and/or food FELL."*
+  **Headline −0.1% and core −0.1% are EQUAL**, which implies **food and energy fell roughly IN LINE with core,
+  not more than it.** **The conclusion — the oil shock is not reaching US consumer prices — survives, but the
+  evidence path I gave for it does not.** The finding was real; my derivation of it was invented.
+
+### ★★★ THE TECHNICAL POINT THAT MAY EXPLAIN MOST OF THE PRINT — and it is a PCE-only artifact
+**Core PCE contains PORTFOLIO MANAGEMENT AND INVESTMENT ADVICE fees, which are measured off ASSET PRICES.
+CPI does not.** **Equities peaked 2026-06-02 and fell through the month** (verified here: cap SPX −3.72% from
+its 06-02 high). **A falling market mechanically drags that component down, and it is a well-known source of
+core-PCE volatility with NO information about underlying inflation.**
+**⭑ Before treating a negative core month as disinflation, get the BEA detail on financial services and
+portfolio management. If that line is the driver, the print says the stock market fell in June — which we
+already knew — and says nothing about prices.**
+
+- *(⚠️ AN ARITHMETIC TENSION WORTH RESOLVING)* **A 0.3pp monthly miss should move the y/y by roughly 0.3pp,
+  yet core y/y printed 3.3% EXACTLY IN LINE.** **That implies UPWARD REVISIONS to prior months offsetting it**
+  — routine in PCE, but it means **the level path was revised up while the newest month came in down.**
+  **Check the revisions before reading the monthly as a trend break.**
+- *(⛔ AND IT IS A HARDER HIT ON THIS NOTE'S ELECTRONICS THESIS than I allowed)* Goldman's **50bp of core CPI
+  from memory/electronics** was registered as *"the single most important thing to watch."* **Core PCE went
+  NEGATIVE.** ⚠️ PCE≠CPI and June may predate the sharpest memory move — **but I called it "evidence against"
+  when it is stronger than that.** Logged at full weight.
+- *(★★ THE REGISTERED 30Y CALL IS NOW A MUCH SHARPER TEST, in my favour if it holds)* **Negative core PLUS a
+  50bp GDP miss is the most disinflationary combination this cycle has produced.** **If the 30Y does NOT rally
+  on that, the credibility framing is strongly confirmed — the long end is not trading the data at all.**
+  **If it rallies materially, I lose cleanly and the growth/inflation channel beats the credibility channel.**
+  **No reinterpretation either way.**
