@@ -670,3 +670,33 @@ Logged separately, they looked like three independent slips. Together they are o
   night: after the eleven-day CPC blindness and the spare-capacity absorber guess, a softened Saudi print would
   have made the supply picture look better than it is at exactly the moment I was rebuilding it. **The Axios
   rule generalises: when a primary source exists — and GASTAT publishes — go to it before assigning weight.**
+
+## 2026-07-30 ~2:40am PT — ⛔ SECOND STRUCTURAL BLINDNESS IN ONE NIGHT, AND THIS ONE IS WORSE: the vault did not know who runs Iran
+
+Six hours after logging that it had missed an eleven-day, 2%-of-global-supply oil outage, the vault discovered
+it did not know that **Iran's Supreme Leader was assassinated by US–Israeli strikes in late February and that
+his son has held the office since 8 March.** Found in a *passing subordinate clause* of a pasted sanctions
+digest. Full record in [[war/war-board]].
+
+- **THE TWO MISSES ARE THE SAME DEFECT AT DIFFERENT LAYERS.** CPC: a **theatre** never opened. Iran: the
+  **principal** in a theatre I had opened and was actively modelling. **I was writing daily inferences about
+  "what Iran wants" with the actor unidentified — and revised the Hormuz read three times in one day while the
+  answer sat in the new leader's first public statement: the strait is A TOOL OF PRESSURE.** **All three of my
+  readings modelled an economic actor. The principal had declared a coercive one.**
+- **THE COMMON CAUSE IS NOW MEASURED, not suspected.** The scanner asks *"what happened in the last 10 hours."*
+  **Nothing in this vault ever asks "what do I believe that I have never checked."** Both misses are
+  **standing-state** facts, not events: who governs, which corridors carry what. **A news gate cannot surface a
+  standing state, because a standing state generates no headline.** The [[demand-destruction]] export-node
+  checklist was the first defence written for this; **it needs a sibling.**
+- **THE FIX — a STANDING-STATE AUDIT, run on a schedule, independent of the feed.** Not a rule, a list to
+  re-verify: **who holds power in each named actor (Iran, Russia, Ukraine, Saudi, Kazakhstan, Korea, the Fed,
+  the hyperscaler CFOs); which export nodes are flowing; what the live sanctions regime is; what the SPR level
+  is; who has been assassinated, replaced, or arrested.** **Every one of tonight's two misses would have been
+  caught by asking those questions once.**
+- **THE OFFSET WORTH RECORDING, because it is evidence about tooling.** The digest claimed *"the newest US
+  sanctions were July 10."* **Treasury acted July 29, and the acute scanner had it in tier T2 — the live feed
+  beat the offloaded digest on recency.** **The scanner is good at events and blind to states. The digest is
+  the reverse and unreliable at both.** **Neither substitutes for the audit.**
+- **AND JAKE FOUND BOTH.** CPC came from his wire flash; the Supreme Leader from a digest he pasted for a
+  different reason. **He is the discovery mechanism for standing state, and that is not a stable arrangement —
+  it means the vault only learns what it does not know when he happens to paste something adjacent to it.**

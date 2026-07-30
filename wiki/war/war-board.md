@@ -522,3 +522,42 @@ Filed under the artifact rule: a CONTESTED report is not evidence and must not m
   Damietta vessel from "US-owned" to **"US-MANAGED, Marshall Islands-flagged"** is the kind of precision that
   earns the upgrade — flag of convenience versus US registry is a materially different legal and political
   fact, and it means yesterday's "US-owned asset struck" framing was too strong.
+
+## 2026-07-30 ~2:40am PT — ⛔⛔⛔ THE VAULT DOES NOT KNOW WHO RUNS IRAN: ALI KHAMENEI WAS ASSASSINATED BY US-ISRAELI STRIKES AND HIS SON HAS LED SINCE MARCH 8 — and the new leader has PUBLICLY DECLARED HORMUZ A TOOL OF PRESSURE
+
+Jake pasted a sanctions digest whose first line referred, in passing, to *"Iran's new Supreme Leader Ayatollah
+Mojtaba Khamenei."* **I did not know Iran had a new Supreme Leader. It has had one for five months.**
+
+### DATA (verified — Al Jazeera ×2, TIME, Iran International, WBUR)
+- **Ali Khamenei was ASSASSINATED in joint US–Israeli strikes** at the end of February 2026.
+- **Mojtaba Khamenei, 56, assumed office 2026-03-08**, named by the Assembly of Experts about a week later.
+- **He has NEVER held a formal government position** — previously *Vakil* (chief aide), 2008 to Feb 2026.
+- **Key political leaders, the IRGC and the armed forces pledged backing immediately.**
+- **⭑ HIS FIRST PUBLIC MESSAGE CALLED FOR CONTINUED MILITARY RESISTANCE AND SAID THE STRAIT OF HORMUZ SHOULD
+  REMAIN A TOOL OF PRESSURE.**
+- **Questions persist about his health and whereabouts.** TIME, 4/21: *"Iran's Supreme Leader No Longer Reigns
+  Supreme."*
+
+- *(⛔ THIS IS A LARGER STRUCTURAL MISS THAN CPC — and of a different kind)* CPC was a supply event the vault
+  never opened. **This is the POLITICAL STRUCTURE OF THE ADVERSARY in the vault's central geopolitical thread.**
+  **I have spent days modelling Iranian behaviour — toll vs closure, administered vs hostage, "cannot reopen
+  while US threats continue" — without knowing that the US and Israel KILLED THE HEAD OF STATE and that an
+  untested successor now holds the office.** **Every inference about Iranian intent was made with the actor
+  unidentified.**
+- *(★★★ AND IT RESOLVES THE QUESTION I HAVE REVISED THREE TIMES IN ONE DAY — from the principal's own mouth)*
+  I filed *"administered, not closed,"* retracted it, then landed on *"a discretionary permission regime."*
+  **The Supreme Leader has stated the doctrine publicly: Hormuz is A TOOL OF PRESSURE.** **Not a revenue
+  source. A COERCIVE INSTRUMENT.** **That settles it: the strait is not a toll booth that reopens when the
+  price is right — it is leverage that is released on a POLITICAL settlement.** **The reversal function is
+  political, not economic, and I have been modelling it as economic.**
+- *(★★★ THE DE-ESCALATION READ GETS WORSE, not better)* **A leader who has never governed, whose father was
+  killed by the counterparty, whose health and location are in question, and whose authority TIME describes as
+  no longer supreme, is a leader who CANNOT BE SEEN TO CONCEDE.** **A weak centre with an operationally
+  dominant IRGC is the worst configuration for negotiated de-escalation** — there is no one both able to make
+  a deal and able to enforce it. **Registered: reduce the weight on any "diplomatic resolution" branch of the
+  Hormuz thread.** ⚠️ **And apply the same caution to my CPC optimism — the Rubio/Tokayev channel is a
+  different theatre, but the lesson is the same: I assumed negotiated outcomes without knowing the political
+  structure.**
+- *(the timeline now coheres)* Axios dated the war's launch to **Feb 28**; the assassination is the same week.
+  **The war did not merely start then — it DECAPITATED the Iranian state.** Which is why the Hormuz campaign
+  is doctrinal rather than opportunistic. [[demand-destruction]], [[war-confirmed]].
