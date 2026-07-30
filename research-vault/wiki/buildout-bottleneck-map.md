@@ -482,3 +482,30 @@ Analysis below; descriptive, not advisory.)*
   gas, SMR) should outperform grid-dependent DC operators if the rationing path advances.** Today: **neoclouds
   −9.9% to −13.9%** — the grid-dependent cohort — on the same day the DOE declares an emergency across 17
   states. **Consistent, but a single session and heavily confounded by the financing tape. Not evidence yet.**
+
+## 2026-07-29 ~10:55pm PT — ★★ OFGEM PROPOSES COMMITMENT FEES FOR DATA-CENTRE GRID ACCESS: the rationing thread goes international, and it puts a PRICE on the optionality razor (routed from acute-scanner POWER hits)
+
+**DATA:** **Ofgem (UK) proposes COMMITMENT FEES for data-centre grid connections.**
+
+- *(★★ IT INTERNATIONALISES THE US RATIONING QUESTION — and answers it in a way the DOE order did not)* Today's
+  open question on the **DOE 17-state emergency order** was *"protect supply or ration demand?"* — unresolved
+  without the order text. **Ofgem's instrument answers the same question in a second jurisdiction, explicitly:
+  it rations ACCESS by pricing it.** Not curtailment, not new supply — **a toll on the queue.** Two grid
+  regulators on two continents acting on data-centre load in the same week is the constraint moving from
+  engineering into regulation. [[power-not-petroleum]].
+- *(★★★ THE CROSS-THREAD POINT, and it is the most useful thing here: a commitment fee is an ANTI-OPTIONALITY
+  charge)* Hyperscalers have been holding **speculative grid-queue positions for free** — filing interconnection
+  requests for capacity they may never use, which is a **free option on power.** **A commitment fee is precisely
+  a premium charged for that option.** The vault's [[ai-financing-fragility]] razor says the market re-rates
+  companies that can credibly say *"we can stop."* **Regulators are now moving to make stopping expensive.** If
+  commitment fees spread to US ISOs, **the option MSFT was rewarded for holding acquires a cash price**, and
+  the razor's reward mechanism weakens on the power axis at the same time the lease line weakens it on the
+  accounting axis.
+- *(★ the measurement to get)* **The fee LEVEL and whether it is refundable on commencement.** A refundable
+  deposit is an anti-squatting measure and near-costless to a real project; **a non-refundable fee is a genuine
+  tax on optionality** and would show up in project economics. ⚠️ **I do not have the level — do not size this
+  yet.** Same discipline as the MSFT lease footnote: **the instrument is confirmed, the magnitude is not.**
+- *(the queue-squatting inference this supports)* **A regulator does not price a queue unless the queue is full
+  of requests it believes are not real.** Ofgem's action is indirect evidence that **announced UK DC pipeline
+  exceeds intended build** — which is the same phantom-capacity question SemiAnalysis settled the other way for
+  US chips on 7/12. **Registered as open, not resolved.**

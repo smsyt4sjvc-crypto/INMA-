@@ -1645,3 +1645,34 @@ THESIS (interpretation):
 - *(the tape, and my shape call)* **S&P turned negative and the NDX pared gains** — the FOMC pop is being sold,
   which is set #6's registered shape (*"de-risking into the close ahead of MSFT/META"*) doing exactly what it
   said. **The relief lasted minutes.**
+
+## 2026-07-29 ~10:55pm PT — ⛔ MY DISSENT RETRACTION WAS TOO COMPLETE: it is the most early dissent since 1970, and Warsh engineering it does not make it not a 56-year record (routed from acute-scanner FED hits)
+
+**DATA (Reuters):** *"Early dissents versus Fed chief Warsh are the **MOST SINCE 1970**."*
+
+**What I said, in sequence, both wrong in opposite directions:** (1) *"three dissents is the entire information
+content of this meeting"* — overweighted. (2) After Warsh's *"I asked for a good family fight and I got one,"*
+I retracted it wholesale as **a manufactured signal carrying no information.** **The second correction
+overshot.**
+
+- *(⛔ THE ERROR CLASS: I corrected a magnitude error by zeroing the quantity)* A chair *wanting* dissent does
+  not make **56 years without a comparable print** uninformative. **Both facts hold simultaneously: Warsh
+  engineered it, AND it is a record.** My retraction treated intent as a defeater of measurement. **It is not.
+  Standing rule added: when a datum turns out to be intentional, that changes its MEANING, not its MAGNITUDE.
+  Do not retract the number when what needs revising is the interpretation.**
+- *(★★ AND THE CORRECTED INTERPRETATION STRENGTHENS THE THREAD RATHER THAN WEAKENING IT)* **Normally record
+  dissent means a chair LOSING CONTROL of the committee. Here it means a chair MANUFACTURING evidence that the
+  committee is not a bloc.** That is not a contradiction of this note's deliberate-dismantling read — **it is
+  the same act measured in a second currency.** A chair dismantling the reaction function needs the market to
+  stop treating the committee as one voice, and **a 1970-scale dissent count is the loudest available way to
+  say it.** The record corroborates the thesis; my retraction accidentally discarded a confirming datum.
+- *(⚠️ THE CORRELATED-SOURCE CHECK ON THE "REBUKE" CLUSTER — flagging this against MYSELF)* Today produced
+  **Bloomberg ×2 ("Warsh Rebuked by Investors," "Bond Rout Sends Warning"), Reuters ("All Warshed up"), WSJ,
+  MarketWatch ("calling Warsh's bluff"), CNBC/Gundlach** — six desks converging on bear-steepening/policy-error.
+  **This is NOT six pieces of evidence. It is one datum — the 30Y at 5.14–5.19% — and six echoes of it.** I made
+  precisely this error on the Pacing letter three days ago by counting a correlated signatory as an independent
+  rulebook. **The 30Y print is the evidence; the headline count is sentiment ABOUT the evidence.** Recording the
+  cluster because unanimity of framing has its own (weak) information — it tells me the policy-error read is now
+  **consensus, not contrarian**, which changes the risk of holding it, not its truth value.
+- *(the standing watch, unchanged)* **30Y 5.14% into the Q2 GDP advance print and the next CPI, with 50bp of
+  core CPI sitting in electronics the statement declined to name.** [[market-fragility]], [[ai-capex-cycle]].

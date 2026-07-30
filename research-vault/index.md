@@ -115,7 +115,14 @@ rotating DOWN the pyramid or OUT?), `crude_curve_cell.py` (9-month WTI/Brent cal
 physical-shortage arbiter that inverted the Hormuz absorption hypothesis),
 **`vix_term_structure_cell.py`** (CALM-or-COILED: VIX9D/VIX with 12-month percentile, VIX/VIX3M backwardation,
 realised index-vs-component vol to test whether a low VIX is just dispersion arithmetic, and the variance risk
-premium — built 7/28 as the falsifiable test of a Jake-vs-Claude disagreement; see [[market-fragility]]).
+premium — built 7/28 as the falsifiable test of a Jake-vs-Claude disagreement; see [[market-fragility]]),
+`asia_stress_cell.py` (reads Korea/Japan/Taiwan by TRANSMISSION CHANNEL — FX, credit proxy, memory complex —
+rather than by equity beta; prints the prior-session BASE next to every 1d% and flags dropped bars, both fixes
+forced by measured artifact errors on 7/28), **`acute_scanner_cell.py`** (the acute scanner: 10-hour window,
+~40 vault-derived keywords, index + Mag-7 + memory priced independently, headlines gated by keyword and tiered
+financial-wire → networks/Google → fast-and-opinionated. **Every hit prints a `->` line naming the vault note
+its keyword came FROM**, because a hit is evidence for or against a named thesis, not news — an unrouted hit is
+a skipped relevance check).
 
 ## 🎯 Predictions (`predictions/`) — the calibration engine
 Nightly point + 80% range + direction + kill-switch for the core five; graded next session → `_scoreboard.md`.

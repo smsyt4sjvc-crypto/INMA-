@@ -2386,3 +2386,44 @@ shortage, and the tape isn't saying that despite the numbers literally saying it
   Chinese shoulder-fired air-defence systems within weeks** is a squadron-scale threat to helicopters and
   low-altitude aircraft, not a token transfer. Still single-sourced on the count. **Watch for a first
   shoot-down — that is the event that converts this from a supply story into a US-China story.**
+
+## 2026-07-29 ~10:55pm PT — ★★★ THE US GOVERNMENT CALLS IT AN "EXTORTION SCHEME," AND THE CAPEX SAYS EVERYONE EXPECTS IT TO LAST (routed from acute-scanner WAR/OIL hits)
+
+**DATA, one day, financial-wire tier:**
+- **US targets Iran's Hormuz "EXTORTION SCHEME"** + sanctions on **eight shadow tankers**.
+- **Qatar's first LNG cargo through Hormuz in THREE WEEKS.**
+- **QatarEnergy buys 33 US LNG cargoes.**
+- **One tanker detour cost +$5.4M**; **~1,500 ships stalled**; **US says it has helped 1,000 ships through
+  Hormuz since May.**
+- **US–Saudi $5B refinery planned — sited OUTSIDE Hormuz.**
+- **Qeshm Island strike CONFIRMED** (Tasnim, Anadolu, Middle East Eye, FXStreet, Press TV, IRNA).
+
+- *(★★★ THE SHARPEST ITEM IS QATARENERGY BUYING US CARGOES, and it is not obvious why)* **The world's largest
+  LNG exporter is buying 33 cargoes of somebody else's LNG.** That is a producer **hedging its own export
+  corridor** — Qatari molecules can only leave through Hormuz, so US cargoes are the only way Qatar can meet
+  delivery obligations if its own transit fails. **A seller buying the same commodity it sells is the strongest
+  possible statement that it does not trust its own logistics.** This is a physical, balance-sheet action, not
+  a comment — the class of evidence this note has been asking for all week.
+- *(★★★ AND THE $5B REFINERY IS THE DURATION SIGNAL: nobody sites a refinery around a two-week disruption)*
+  **Capital with a 30-year payback is being deliberately positioned outside the chokepoint.** Together with
+  QatarEnergy's hedge, **two independent actors are committing REAL CAPITAL on the assumption that Hormuz risk
+  is PERMANENT.** This note's discriminator — *closure* vs *permanent structural cost* — **resolves further
+  toward the second branch, and now on capex evidence rather than on price behaviour.** The toll thesis has
+  stopped being an inference about freight and become an input to industrial siting decisions.
+- *(★★ THE US NAMING IT SETTLES ATTRIBUTION, and the escort number sizes the counter-move)* **"Extortion
+  scheme" is the US government's own word for what this note filed on 7/26 as the toll-gate reading.** And
+  **1,000 escorted transits since May** means the counter-toll is a **naval subsidy at scale** — the US is
+  paying, in hulls, the fee Iran is charging in cash. **Two protection rackets competing over the same water.**
+  That is why flat crude keeps not going up: **passage is being PRICED and PROVIDED, not denied.**
+- *(★ THE FLOW DATA CONFIRMS ADMINISTERED-NOT-CLOSED, with a number)* **Qatar's first cargo in three weeks =
+  the corridor reopening selectively.** **1,500 stalled ships = the queue.** **$5.4M per detour = the toll's
+  market-clearing price for one voyage.** All three are consistent with a metered gate and inconsistent with a
+  closure. **The vault's absorption paradox stays solved.**
+- *(⛔ QESHM: my kill switch was written too narrowly for the SECOND time in 24 hours, and the confirmation
+  makes that permanent record)* Six outlets including three Iranian state organs now confirm the strike. The
+  vault's registered switches covered **flow interruption** and **vessel attacks** — not **strikes on the
+  toll-collection infrastructure itself.** Damietta exposed the LNG blind spot; Qeshm exposed the
+  chokepoint-control blind spot. **Two narrow-switch failures in one day is a pattern, not two incidents: I
+  keep writing switches around the mechanism I am currently thinking about instead of around the ASSET CLASS.**
+  Corrected switch, deliberately over-broad: **any kinetic event touching Hormuz transit — vessels, terminals,
+  islands, insurers, or the parties collecting or escorting — trips the review.**

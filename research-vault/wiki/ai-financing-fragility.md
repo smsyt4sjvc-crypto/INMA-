@@ -1874,3 +1874,36 @@ is tolerable relatively?")*
   revision.** ⚠️ **The call was about SEMIS specifically, not the index — MSFT +8% does not mechanically lift
   SOXX, and Samsung's record profit plus hynix's capex problem is the semis-specific setup. Not fully graded
   until the semis open.**
+
+## 2026-07-29 ~10:55pm PT — ★★ TWO SPV DEALS IN ONE DAY: the private-credit mechanism this note registered as a MECHANISM is now a DEAL FLOW (routed from acute-scanner FINANCING hits)
+
+**DATA (same day, two separate desks):**
+- **Goldman Sachs is pitching $5.4B of debt for a "Microsoft-tied" data centre.**
+- **Blue Owl is seeking $5.9B for a Melbourne data centre.**
+- **Bloomberg: Meta's free cash flow is the LOWEST IN NEARLY FOUR YEARS.**
+
+- *(★★ WHY TWO DEALS IN ONE DAY IS DIFFERENT FROM TWO DEALS)* This note has carried the SPV / private-credit
+  channel as an **inferred mechanism** — the structural reason hyperscaler balance sheets can look pristine
+  (**debt/assets ~21%, coverage 65–80x**) while the buildout is debt-financed. **$11.3B of it was being
+  syndicated on a single Wednesday.** The mechanism is no longer inferred. **And note the pairing with the
+  $130B lease line at MSFT the same day: a "Microsoft-tied" SPV raising bank debt is exactly what stands BEHIND
+  a lease — the landlord borrows, MSFT signs, and neither the borrowing nor the asset lands on MSFT's balance
+  sheet.** [[ai-capex-cycle]].
+- *(★ THE MEASUREMENT THAT MATTERS, and it is not the size)* **What is the spread?** A $5.4B investment-grade-adjacent
+  deal clearing tight is a containment datum; the same deal repricing wider or getting pulled is the note's
+  registered widen-trigger firing in the primary market rather than in CDS. **⚠️ I do not have the spread, the
+  tenor, or the take-up on either deal, and the size alone supports NEITHER side.** Registered as the thing to
+  get: **primary-market execution on these two deals is now a better fragility read than the CDS series**,
+  because CDS prices existing risk and primary prices marginal risk.
+- *(★★ META'S FCF: the 7/29 cash-flow finding, independently confirmed and put in TIME-SERIES context)* This
+  note computed **$31.9B OCF → $784M retained (97.5% consumed)** from the print. Bloomberg's framing adds what
+  a single quarter cannot: **lowest in nearly four years.** **That converts a level into a TREND** — the answer
+  to *"when does the capex become a problem"* is not merely "FCF is at zero now," it is **"FCF has been
+  descending toward zero for four years and the capex floor was just raised."** The equity-as-call-option-on-capex-discipline
+  framing gets stronger, not weaker, with the time series attached.
+- *(the absence still doing work, fourth night)* **Neoclouds −9.9% to −13.9%, two consecutive double-digit
+  sessions, and STILL no named casualty.** Two large deals actively syndicating on the same day the financing
+  cohort takes its worst two-session drawdown is **evidence the primary market is open while the secondary
+  equity is being de-grossed** — which is the containment case, not the cascade case. **The de-gross explanation
+  keeps outperforming the credit-event explanation, and I should say so plainly rather than keep it as a
+  caveat.**
