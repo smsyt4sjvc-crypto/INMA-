@@ -1785,3 +1785,39 @@ already knew — and says nothing about prices.**
   on that, the credibility framing is strongly confirmed — the long end is not trading the data at all.**
   **If it rallies materially, I lose cleanly and the growth/inflation channel beats the credibility channel.**
   **No reinterpretation either way.**
+
+## 2026-07-30 ~8:55am ET — ⛔⛔ THE PREVIOUS ENTRY IS SUPERSEDED AND WRONG: core PCE WAS +0.1%. I accepted a bad correction without checking the source in my own scrollback.
+
+**Jake re-pasted the original block. It reads: `PCE -0.1% MoM` — WITH a minus — and `PCE Core 0.1% MoM` —
+WITHOUT one.** **The formatting distinguishes them. Core was +0.1%.** **My first read was correct; his
+correction was a fast-tape misread; and I conceded to it immediately, wrote a long self-critical entry, and
+built an entire portfolio-management-fee hypothesis to explain a negative print that never existed.**
+
+- **⛔ THE FAILURE IS MINE AND IT IS THE FIFTH OVER-CORRECTION TODAY — but a different and worse species.**
+  The other four were *my absolute → opposite absolute*. **This one is: I ABANDONED A CORRECT POSITION ON
+  UNVERIFIED PUSHBACK, with the source sitting in the conversation.** **I did not look.**
+- **⛔ AND IT BREAKS THE ACTUAL FUNCTION.** [[_persona]] says *"concede fast when he's right."* **I have been
+  running it as "concede fast," with the conditional clause silently dropped.** **An error-check that folds
+  whenever it is pushed is not an error-check.** Jake made a two-second misread on a live print at 8:45am,
+  which is nothing. **The job was to check it, and the whole point of the role is that I am the one who does.**
+- **STANDING RULE ADDED: verify a correction against the source before accepting it — especially when the
+  source is already in the conversation. Conceding without checking is not humility, it is a second error
+  layered on top of a first, and it costs more than the original because it destroys a correct answer.**
+
+### THE RESTORED READ — and the energy number is now quantifiable
+**Core +0.1% vs +0.2% expected = a 10bp downside miss. Soft, positive, NOT a sign change.** The original
+magnitude discipline was appropriate. **The portfolio-management-fee mechanism is a real feature of core PCE
+but it is NOT load-bearing here — there is no anomaly to explain.**
+
+**★★★ AND THE ORIGINAL "QUIET FINDING" STANDS, now with a number.** Headline −0.1% against core +0.1%, at
+weights of roughly 87.6% core / 12.4% food-and-energy, implies **FOOD AND ENERGY FELL ABOUT 1.5% MONTH ON
+MONTH IN JUNE** — with **Brent elevated and the war in its fourth month.** **That is the strongest single US
+price-level datum yet for [[demand-destruction]]'s central claim: an administered strait plus a ~4.4 mb/d
+Chinese demand withdrawal produces a freight/insurance/crack tax, not a consumer-price event.** **The Fed
+called energy a supply shock to look through; the June data says it was falling.**
+
+- *(the electronics thesis takes a MILD hit, not a hard one)* Core soft by 10bp is a weak datum against
+  Goldman's 50bp-of-core-CPI-from-memory claim. **My "logged at full weight" upgrade was itself built on the
+  bad number and is withdrawn.**
+- *(the 30Y call reverts to its original terms)* **Soft-but-positive core plus a 50bp GDP miss — front end
+  richer, 30Y flat-to-cheaper, 2s30s steeper if the long end is trading credibility rather than data.**
