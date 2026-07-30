@@ -1862,3 +1862,34 @@ multipliers). **And it rises MONOTONICALLY with selectivity while the shuffled n
   it is not a reason to be short — it is a reason to expect a wider path.** Sizing and convexity are Jake's
   call; the vault's contribution is that **the directional read people take from clustering is not in the
   data.** [[detachment-bid]], [[_calibration]].
+
+## 2026-07-30 ~10:05am ET — ★★★ A CHANNEL THIS VAULT HAS NEVER TRACKED JUST LIT UP: THE YEN
+
+**DATA (ZH headlines via Jake):** ***"Japanic: Yen Suddenly Spikes Stoking Intervention Speculation."***
+***"BOJ finally woke up: USDJPY plunging, looks interventiony."*** Context already logged: **BOJ expected to
+hold after last month's hike to 1%, the highest in 31 years**; Japan PM Takaichi funding tax cuts without
+new debt issuance.
+
+- *(★★★ THIS IS A GENUINELY NEW FRAGILITY VECTOR AND IT IS ORTHOGONAL TO EVERYTHING ELSE IN THE VAULT)*
+  **Every thread here — AI capex, private credit, Hormuz, memory — is a US/AI-complex story. The YEN CARRY
+  TRADE is not.** **A sharp yen appreciation forces unwinding of yen-funded positions GLOBALLY, in whatever
+  they were used to buy.** **August 2024 is the precedent: a BOJ hike plus yen spike produced a violent
+  global equity drawdown in days, with the epicentre in exactly the high-beta momentum names now under
+  pressure.**
+- *(★★★ AND THE OVERLAP IS THE DANGER, not the yen itself)* **Yen-funded carry has been a major financing
+  source for levered long books.** **A carry unwind and an AI-complex de-gross hitting the SAME crowded
+  momentum names is the one configuration that could defeat the bilateral-transfer containment mechanism** —
+  because a carry unwind is **not** a single stressed holder who can sell a book to Citadel. **It is
+  thousands of holders deleveraging simultaneously against a currency move, with no counterparty to
+  negotiate with.** **That is the structural difference between what broke today and what could.**
+- *(⚠️ SIZING IT HONESTLY — I have no data)* **I do not have USDJPY levels, the size of the move, BOJ
+  intervention confirmation, or any measure of current yen-funded positioning.** **"Looks interventiony" is
+  commentary, not confirmation.** **Registered as a WATCH with the mechanism named, not as a call.**
+- **⭑ THE TRIGGER, dated and mechanical: the BOJ decision lands TOMORROW (Friday).** Consensus is a hold after
+  the hike to 1%. **A hawkish surprise into an already-spiking yen is the configuration that matters, and it
+  resolves within 24 hours.** [[ai-financing-fragility]], [[detachment-bid]].
+- *(★ two more items filed, lower weight)* **Korea: "not as bearish… it's not the KOSPI, it's KORU"** — KORU
+  is the 3× leveraged Korea ETF, so the argument is about the LEVERAGED-ETF unwind completing, which is
+  precisely this vault's Korea cascade thread. **Get the chart.** And **"CDS Spillover Event To Stock Market
+  Is Starting"** — headline only, no content supplied; relevant to the registered widen-trigger but
+  unusable as given.

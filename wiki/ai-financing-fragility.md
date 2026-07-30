@@ -2145,3 +2145,59 @@ cohort second.** **Free, immediate, and it does not require the fund-level data 
    by this transaction. **That one is still open and it is upstream of the SPV funding for the buildout.**
 3. **THE PRICE**, when it leaks — it sizes the loss and tells you what the bid was actually worth.
 4. **The kill switch is unchanged and still decides everything: RSP below 212.77 while NDX falls.**
+
+## 2026-07-30 ~10:05am ET — ⛔ I SPLIT HAIRS AND JAKE WAS RIGHT: the redemptions had ALREADY happened. But the PRICES invert the conclusion — 99.8% of face is a LIQUIDITY event, not a CREDIT event.
+
+⚠️ **SOURCE: the structured summary below is a ChatGPT digest supplied by Jake. Given the Saudi-GDP
+fabrication earlier today, treat every FIGURE as unverified pending primary confirmation. The DIRECTION is
+corroborated by the Bloomberg headline; the decimals are not.**
+
+### ⛔ THE CORRECTION I OWE
+One hour ago Jake wrote *"fundraising slowdown = redemption acceleration"* and I replied that they were **"not
+identical — one is the LEADING INDICATOR of the other,"** citing BREIT-2022 as the precedent for a future
+gating. **The gating is not in the future. It has already happened, across the industry:**
+
+| vehicle | redemption requests | repurchase cap |
+|---|---|---|
+| Blackstone BCRED | ~$4.4B (~10%) | ~5% |
+| Blue Owl Flagship Direct Lending | ~$3.6B (~19%) | ~5% |
+| **Blue Owl Technology Fund** | **~$1.1B (~38%)** | **~5%** |
+| Ares Private Credit | ~$1.5B (~14% of NAV) | quarterly cap |
+| BlackRock / HPS | ~13% | ~5% |
+| Cliffwater | ~17% | limited windows |
+
+**Q2 industry requests ~$15.6–22B; capital returned ~$5.9B; MORE THAN $14B GATED.**
+**And Blue Owl OBDC II has PERMANENTLY HALTED normal redemptions and is WINDING DOWN.**
+**My "leading indicator" framing was correct as theory and useless as analysis — the lead time had already
+run out while I was explaining that it existed.**
+
+### ★★★ BUT THE PRICES INVERT THE CONCLUSION, AND THIS IS THE FINDING
+- **OBDC II sold ~$600M of loans at ~99.8% OF FACE.** Part of ~$1.4B across three Blue Owl vehicles, **to
+  North American PENSION AND INSURANCE buyers.**
+- **New Mountain Finance sold ~$477M at ~94% of reported fair value.**
+
+**A forced seller in a broken market does not get 99.8%.** **The redemption pressure is enormous AND the
+assets are clearing at near par.** **That combination has a name: a LIQUIDITY event, not a CREDIT event.**
+**The loans are money-good; the WRAPPER was wrong** — quarterly-gated semi-liquid vehicles holding illiquid
+private loans, sold to investors who wanted liquidity the structure could never provide.
+- *(★★★ AND IT IS THE SAME MECHANISM AS THE CITADEL TRADE — two channels, one resolution)* **SA sold its
+  public book bilaterally to a well-capitalised buyer, off-tape, at a clearing price. Blue Owl sold loans
+  bilaterally to pensions and insurers, off-tape, at 99.8.** **Stressed holders, orderly transfers, near-par
+  prints, no supply through the tape.** **That is the containment mechanism operating in BOTH channels
+  simultaneously, and it is the opposite of a cascade.**
+- *(⚠️ THE ONE PRICE THAT IS NOT CLEAN — and it is the thing to watch)* **New Mountain at ~94% of REPORTED
+  FAIR VALUE is a 6-point discount to the manager's own mark.** **That means either the marks were stale or
+  the buyer extracted a liquidity premium.** **99.8 says nothing is wrong; 94 says something is. Watch where
+  the next large loan sale clears — below ~90% is when liquidity becomes credit.**
+
+### ★★ WHAT THE SA DETAIL ADDS — including against my own earlier inference
+- **CNBC: "Situational Awareness has EXITED ALL of its public equity trades."** **~$16B sold to Citadel,
+  facilitated by Goldman and JPMorgan; Millennium also a reported buyer.**
+- **★ THE REVEALING PART: it RETAINED its PRIVATE holdings, including Anthropic.** **Selling the liquid book
+  to protect the illiquid one is textbook liquidity-crisis behaviour — you sell what you CAN, not what you
+  want to.** **It also means SA is now a private-AI book funded by whatever survived.**
+- *(⚠️ AND IT WEAKENS THE TRS INFERENCE I GAVE JAKE THIS MORNING)* I argued that **$13.68bn of 13F notional
+  against $20bn AUM implied exposure hiding off the filing, with TRS the standard vehicle.** **A ~$16B public
+  book now versus $13.68bn at March 31 means the 13F was ROUGHLY COMPLETE.** **There is far less room for a
+  hidden swap book than I implied. Withdrawn as stated.** ⚠️ The ZH claim that PMs will find *"a LOT of
+  unexpected high-beta momentum total return swaps"* is a **prediction, not a report.**
