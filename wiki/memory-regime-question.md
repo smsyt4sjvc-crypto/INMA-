@@ -158,3 +158,46 @@ call, not the vault's.
 - *(the CXMT fork, unchanged and still unresolved)* A **deepening** shortage is the "politically walled out"
   branch; a glut is the other. **Nothing today resolves it, and Apple's public commitment remains the named
   resolver.**
+
+## 2026-07-30 ~12:44am PT / 15:44 KST — ★★★ THE KOREA DISCRIMINATOR RAN AND THE SHORTAGE-BULL HEADLINE FADED — plus the CXMT fork gets a resolver, and it is POLITICAL
+
+**Registered last night, verbatim:** *"KOSPI toward 6000 would mean the Korean bottom is in… The discriminator
+is cheap: Korea's next full unhalted session. A −35%-month index that opens and holds a large gain on a
+shortage headline is a bottom; one that gaps and fades is a short-covering artifact."*
+
+**DATA — Korea closed 15:30 KST, 14 minutes before the scan:** **Samsung Electronics 206,500 (−0.96%). SK hynix
+1,322,000 (−5.64%).** The Chosunbiz *"KOSPI surges toward 6000"* item was published **11:24am KST, mid-session.**
+Corroborating: **Korea JoongAng Daily — "brokerages split on targets for SK hynix after chipmaker MISSES Q2
+market consensus."** Bloomberg — **"Korean Stocks' Record Rout Fails to Tempt Global Investors."**
+
+- *(★★ THE TEST RESOLVED, and it resolved against the bottom)* **The surge did not hold in the two names it was
+  about.** ⚠️ I do not have the KOSPI index level itself — but Samsung and hynix are the dominant weights, and
+  **both closed red with hynix down hard.** **Registered conclusion: no Korean bottom confirmed, and a
+  single-source Korean-language business-daily headline again failed its next-session test.** The refusal to
+  move the thesis on it was correct. [[market-fragility]].
+- *(⛔ AND IT FORCES A REFINEMENT OF THE RULE I WROTE FIVE HOURS AGO — mine was too broad)* Last night: *"memory
+  equity prices carry no idiosyncratic cycle information… use physical prices, contract prints and capacity
+  announcements only."* **hynix falling 5.64% on its OWN earnings MISS is idiosyncratic information by
+  construction.** **Corrected rule: under a de-gross, memory COHORT beta is uninformative; a single name moving
+  on its OWN print still is.** The distinction is between a stock moving because the complex moved and a stock
+  moving because its numbers moved. **I collapsed the two because the de-gross explanation was doing so much
+  work elsewhere — the same over-correction reflex logged this morning on the Fed dissents.**
+- *(★★★ THE CXMT FORK GETS ITS RESOLVER, and it arrives as FORCE rather than as choice)* **Bloomberg + The
+  Information: "US Senators warn Apple not to buy memory chips from Chinese firms."** This vault registered the
+  fork as *glut vs politically walled out*, resolving on **Apple's public commitment.** **The commitment is now
+  being pre-empted: Washington is applying pressure BEFORE Apple decides.** That is the walled-out branch being
+  actively enforced, and it is memory-price BULLISH — a CXMT shut out of the largest single handset buyer cannot
+  produce the glut.
+- *(★★★ AND THE MARKET IS PRICING THE OTHER BRANCH, SIMULTANEOUSLY — this is the trade)* **"SanDisk Stock
+  Crashes Over 50% as CHINA CHIP THREAT and Earnings Loom Large."** **So: Washington is enforcing the
+  walled-out branch while the equity market prices the glut branch, on the same day, in the same names.**
+  **Both branches of this note's registered fork are being expressed at once by two different mechanisms, and
+  exactly one of them is wrong.** That is the sharpest configuration this thread has produced. **Also note the
+  timing: the Senate item landed 8 hours before the scan — i.e. DURING Wednesday's session — and MU still
+  closed −9.94%.** The single most memory-bullish political development of the week landed on the cohort's worst
+  day. **Cohort beta ate the news, which is the corrected rule above, demonstrated.**
+- *(★ the insider datum, noted not weighted)* **"Micron's CEO sold big last week."** ⚠️ Sale size, plan status
+  (10b5-1 or discretionary) and prior cadence all unknown — **a CEO sale without those three facts is not
+  evidence.** Registered as a thing to check, not a thing to use.
+- *(★ the razor, restated by the WSJ in its purest form)* **"Even $64 BILLION in quarterly profit is a
+  disappointment for chip investors."** That is the beat-sold razor written as a headline by a T1 outlet.

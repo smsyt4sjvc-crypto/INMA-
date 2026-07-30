@@ -1907,3 +1907,30 @@ is tolerable relatively?")*
   equity is being de-grossed** — which is the containment case, not the cascade case. **The de-gross explanation
   keeps outperforming the credit-event explanation, and I should say so plainly rather than keep it as a
   caveat.**
+
+## 2026-07-30 ~12:44am PT — ★★ THE PRIMARY-MARKET READ I ASKED FOR ARRIVES, AND IT IS A BROKEN DEAL — plus Meta hints at selling compute
+
+**Registered five hours ago:** *"primary-market execution on these two deals is now a better fragility read than
+the CDS series, because CDS prices existing risk and primary prices MARGINAL risk."*
+
+**DATA:** **"AI data centre supplier Zhongji InnoLight TUMBLES ON HONG KONG DEBUT."** Zhongji InnoLight is an
+optical-transceiver maker — the interconnect layer of the datacenter build.
+
+- *(★★ FIRST PRIMARY-MARKET DATUM IN THE DIRECTION OF STRESS, and it is the right kind)* A **broken IPO in an
+  AI-buildout supplier** is the marginal buyer refusing to fund incremental AI supply-chain capacity at the
+  offered price. **That is exactly the read I said I wanted, and it points the way I did not want.** ⚠️
+  **One deal, in one venue, in a market with its own idiosyncratic listing dynamics — this is a datum, not a
+  regime.** The two deals that matter more are still open: **Goldman's $5.4B "Microsoft-tied" and Blue Owl's
+  $5.9B.** **A broken HK equity debut and a tightly-cleared US private-credit deal would be a very informative
+  pair; do not generalise until both print.**
+- *(★★ META HINTS AT A CLOUD BUSINESS, "with few details" — and the missing detail is the whole story)*
+  Yahoo/Fortune: *"Meta stock drops 10% as free cash flow gets crushed — and Zuckerberg hints at launching a
+  CLOUD BUSINESS with few details."* **Selling compute converts capex from a cost centre into a revenue line,
+  which is the only clean answer to "what is the return on $100B."** **But announcing it vaguely on the same
+  call that raised the capex floor and crushed FCF is capex JUSTIFICATION, not a business plan.** [[metered-compute]]:
+  **Meta moving from compute BUYER to compute SELLER would change the vault's buyers-vs-sellers map materially
+  — and it would put Meta into the same margin structure it just watched the market punish MSFT for hedging.**
+  Registered as a WARNING (a state), not a trigger. **The trigger is a dated disclosure: revenue model, capacity
+  committed, or a named anchor customer.**
+- *(★ sell-side says the quiet part)* **Wedbush: "We're not seeing Meta's capex pay off."** The optionality razor
+  in an analyst note. [[ai-capex-cycle]].
