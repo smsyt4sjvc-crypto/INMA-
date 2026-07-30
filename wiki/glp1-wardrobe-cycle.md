@@ -247,3 +247,44 @@ people lose weight.**
 a loss.** **That is the identical mechanic flagged on the August-21 calls, where the print lands the night
 before expiry.** **The thesis and the instrument are two separate bets and only one of them was ever in
 doubt.**
+
+## 2026-07-30 ~6:10am PT — ⛔ I CRITIQUED THE WRONG STRUCTURE, and the Feb trade is priceable: it would have paid ~3x, and the PATH would have shown −67% to −89% first
+
+- *(⛔ THE STRAWMAN)* Jake said *"a late August call… through earnings."* **I read that as an AUGUST EXPIRY and
+  built a critique around the Aug-21 print landing the night before Aug-21 expiry.** **He meant SEPTEMBER /
+  OCTOBER expiry, entered around the late-August print.** **That is a materially better construction and my
+  expiry-collision argument does not apply to it:** Sept/Oct **retains extrinsic value through the print,
+  survives a date slip, and spans the back-to-school selling season.** ⚠️ **The IV-crush point partially
+  survives — you still pay elevated pre-print vol — but with time value remaining a flat reaction is
+  survivable rather than fatal.**
+- *(★★ THE FEBRUARY TRADE, PRICED — Jake's marks: ~$190 → ~$250 = +31.6%, first-hand, unverified)*
+  **ATM ~8-month call (Feb → Oct), Black-Scholes:**
+
+| entry IV | premium | % of spot | value at $250 (2.5m left) | multiple |
+|---|---|---|---|---|
+| 22% | $16.39 | 8.6% | $61.79 | **3.8×** |
+| 27% | $19.39 | 10.2% | $61.87 | **3.2×** |
+| 32% | $22.39 | 11.8% | $62.09 | **2.8×** |
+| 38% | $25.99 | 13.7% | $62.57 | **2.4×** |
+
+  **So yes — it pays roughly 2.4–3.8×, against +31.6% on the stock. Eight to ten times the underlying's
+  return.** **His instinct that it "would have paid" is arithmetically correct.**
+- *(★★★ BUT THE PATH IS THE WHOLE STORY, and it is why these do not get collected)* **⚠️ TIMING CORRECTION:
+  the war launched 2026-02-28 — TWENTY-FIVE DAYS AFTER the 2026-02-03 file, not "right when it got going."**
+  **So early-Feb premium was probably at the CHEAP end of that range, which makes the multiple better and the
+  path worse.** With a $19.39 entry:
+
+| March drawdown | call mark | vs paid |
+|---|---|---|
+| −15% (to $162) | $6.39 | **−67%** |
+| −25% (to $142) | $2.18 | **−89%** |
+| −35% (to $124) | $0.48 | **−98%** |
+
+  **Within weeks of entry, on a thesis with ZERO confirming data — the first oral cohort was two months into
+  treatment and nothing had printed.** **Holding that requires size small enough to ignore, or conviction that
+  survives a 90% mark-to-market loss before any evidence exists.** **The idea was never the hard part. The
+  drawdown was.** [[defense-not-offense]].
+- *(★ A REFINEMENT ON HIS OWN EXPIRY LOGIC)* Sept/Oct **captures the Aug-21 Q2 print and the BTS SELLING
+  SEASON — but ROST's Q3 print, the one that actually REPORTS back-to-school results, lands in NOVEMBER,
+  after expiry.** **So the structure is a bet on the Q2 print plus BTS sentiment, not on BTS results being
+  reported.** Worth knowing which of the two you are actually buying.
