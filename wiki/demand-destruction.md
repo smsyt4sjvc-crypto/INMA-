@@ -2843,3 +2843,67 @@ Running the ratios the piece declines to compute, from its own table:
   under-evidenced by neglect, and the note title has been doing work the data has not.** **And the curve print
   cuts against demand weakness independently: a demand-destroyed market does not back-wardate 12.7% over six
   months.** [[oil-value-chain]], [[consumption-vs-investment-crux]].
+
+## 2026-07-30 ~2:29am PT — ★★★ THE ABSORBER IS FOUND, PROPERLY THIS TIME: CHINA CUT CRUDE IMPORTS 40%+ — and my hypothesis, filed 20 minutes earlier, had the right country and the WRONG CHANNEL
+
+**DATA (Axios/Matt Phillips, sourced to China's General Administration of Customs; Goldman Sachs report;
+named analysts at Oxford Institute for Energy Studies, Kpler, CSIS, Tony Blair Institute):**
+- **Chinese oil imports down OVER 40% year-on-year through June**, sustained for ~5 months.
+- War launched **Feb 28**; approaching its sixth month.
+- Beijing's levers: **tapped domestic reserves of coal, oil and gas; switched to coal and renewables; the EV
+  fleet absorbed the gasoline shortfall** — *"despite much lower gasoline consumption, traffic congestion
+  remained relatively stable"* (Goldman).
+- Meidan (OIES): *"the surprise has been just how low Chinese demand can go… without impairing the
+  well-functioning of the economy."*
+- Goldman: China *"effectively acting as a shock absorber for global energy prices through reduced demand."*
+- **"Early indications suggest a bit of a bounce in July purchases."**
+
+### ★★★ THE SIZE — this is why Brent is $92 and not $150
+⚠️ China's baseline crude imports are ~11 mb/d **(approximate — verify against customs data).** **A 40% cut is
+~4.4 mb/d of demand withdrawn.** Against it: **CPC 1.80 + SPR draw 0.72 + Saudi cut 1.00 = 3.52 mb/d.**
+**China's withdrawal is LARGER THAN EVERY SUPPLY LOSS THIS NOTE HAS TRACKED, COMBINED.** **The absorption
+paradox is closed — and this time by a quantified, multi-sourced, named mechanism rather than by a mechanism
+I inferred.**
+
+- *(⛔ MY HYPOTHESIS WAS RIGHT ON COUNTRY, WRONG ON CHANNEL — and the error is consequential)* Twenty minutes
+  ago: *"Fifth candidate: a Chinese inventory DRAW. Destocking is prompt SUPPLY that appears in no production
+  series."* **China did draw reserves — that part is confirmed. But the dominant mechanism is not supply
+  addition, it is DEMAND WITHDRAWAL. China did not send barrels to the world market; it STOPPED BIDDING FOR
+  THEM.** **Same sign on price, completely different reversal dynamics** — destocking depletes gradually and
+  reverses gradually; **an absent bid can return in a week on a price level or a policy decision.**
+  **Registered: I have now named five absorbers. Two were wrong (SPR too small, OPEC+ spare contracting), one
+  was a partial mechanism (the toll framing), and this one is right on the actor and wrong on the channel.
+  A 20%-correct hypothesis is not a hit.**
+- *(★★★ WHAT IT DOES TO JAKE'S THESIS — it upgrades it from a hunch to a named, reversible mechanism)* **The
+  shortage is not masked by "fuckery." It is masked by the world's largest buyer standing away from the bid.**
+  That is specific, quantified, and **reversible by decision** — the exact profile of a mask that comes off.
+  **And the reversal signal is already in the article: "a bit of a bounce in July purchases."** **If ~4.4 mb/d
+  of bid returns into a market already in 12.7% six-month backwardation with CPC offline and Hormuz on
+  discretionary permission, that is the configuration for a genuine spike.** **Jake's premise now has the
+  mechanism it was missing, and I was the one arguing it did not have one.**
+- *(★★★ THE COUNTER, AND IT IS THE STRONGEST BEAR CASE THIS NOTE HAS EVER HELD)* **Meidan's line cuts the
+  other way: China ran five months at −40% WITHOUT economic damage.** **If that is durable, this is not a
+  suspension — it is permanent destruction of 4+ mb/d of demand, which is catastrophic for crude on any
+  horizon.** **The entire question reduces to: SUSPENSION or STRUCTURAL SHIFT?**
+- *(★★★ AND THE ARTICLE CONTAINS THE DECOMPOSITION, unstated — the levers have DIFFERENT reversibility)*
+  **REVERSIBLE:** reserve draws (finite, and depletion forces return); coal switching (flips back on relative
+  price); deferred/opportunistic purchasing (returns on a price level). **IRREVERSIBLE:** **the EV fleet.**
+  *"Much lower gasoline consumption with stable traffic congestion"* is **permanent substitution — China's EVs
+  do not un-electrify when oil gets cheap, and the fleet grows every year.** **The trade depends entirely on
+  the split between these two buckets and NOBODY IN THIS ARTICLE GIVES IT.** **Registered as the crux, and it
+  is testable: Chinese gasoline consumption vs EV penetration, and reserve levels vs import recovery.**
+- *(★★ IT ALSO ANSWERS JAKE'S CHALLENGE FROM 40 MINUTES AGO — with a third option he did not name)* He asked
+  whether demand destruction was *"an overreach or partially fabricated by China."* **Neither. It is real,
+  deliberate, Chinese, and POLICY.** Not an analytical overreach and not a fabrication — **a sovereign
+  demand-management decision, executed for domestic reasons, with global price effects as a by-product**
+  (Osman: *"China is doing this for China… but it's not unhelpful that it has become a global public good"*).
+  **And it repairs the hole I admitted 40 minutes ago: this note had no demand data. Now it has the demand
+  datum that dominates every supply datum in it.**
+- *(⚠️ SOURCE DISCIPLINE — this is Axios, and the last Axios paraphrase cost this vault three load-bearing
+  claims on 7/28)* **Materially better constructed than that one: it names its data source (China customs),
+  quotes four analysts with institutional affiliations, and cites a specific Goldman report.** **But the
+  load-bearing number — "down over 40%" — is a paraphrase of customs data, and "oil imports" vs "CRUDE imports"
+  is left ambiguous.** **GET: the Goldman report and the customs series before sizing anything on 4.4 mb/d.**
+- *(★ the timeline anchor, new)* **War launched Feb 28.** Five months of data. Axios characterises Hormuz as
+  *"effective closure"* — a third-party read consistent with the **discretionary permission regime** this note
+  landed on. [[oil-value-chain]], [[consumption-vs-investment-crux]], [[new-economy-regime]].
