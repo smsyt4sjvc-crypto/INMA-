@@ -2438,3 +2438,59 @@ Wells Fargo 309,105 · Holocene 305,770 · Appaloosa 281,250.**
 4. **⭑ THE ONE STEP THAT WOULD CLOSE IT: run the same Historical screen on MU, and on hynix/Samsung proxies.**
    **If the SAME dealer set stepped up in the SAME period across the memory complex, that is a book, not a
    stock.** **If it is only SNDK, it is a name-specific event — index, spin-off, or a single client.**
+
+## 2026-07-30 ~11:45am ET — ★★★ THE NEXUS/ANTHROPIC/GOOGLE DEAL IS THE SPV MECHANISM MADE FULLY EXPLICIT — and it is the LEAST reversible commitment available, in a structure built so it does not appear in the priced number
+
+**VERIFIED (WSJ exclusive, via Reuters/TradingView/Yahoo/Octus/DataCenterDynamics):**
+- Developer **Nexus Data Centers**, campus at **Hubbard, TEXAS**; bank group led by **MORGAN STANLEY**.
+- **~$15bn total: a $14bn BRIDGE LOAN plus a revolving credit facility.**
+- **On-site NATURAL-GAS-FIRED power plant, 1.6 GIGAWATTS.**
+- **Google GUARANTEES billions of Anthropic's LEASE and POWER-PURCHASE obligations if Anthropic defaults** —
+  covering **four data-centre leases** plus the related **PPAs**.
+- **Google receives ~20% EQUITY** in the data-centre and power project, **and supplies the chips.**
+
+### ★★★ GOOGLE HOLDS FOUR ROLES AND THE ONLY ONE IT DOES NOT HOLD IS BORROWER
+**1. INVESTOR in Anthropic. 2. SUPPLIER of the silicon. 3. GUARANTOR of the lease and power obligations.
+4. ~20% EQUITY OWNER of the facility.**
+**Every one of the four is exposed to a single risk: whether Anthropic generates enough revenue to pay.**
+**That is not four positions — it is the same bet four times, structured so that only one of the four lands
+on the balance sheet.** **[[reflection-ai]] logged circular financing as an instance; this is the same shape
+at ~$15bn with a power plant attached.**
+
+### ★★★ THE ESCALATION LADDER — this vault has now documented all three rungs in 48 hours
+| rung | who owes | where it shows |
+|---|---|---|
+| **1. CAPEX** | the hyperscaler | income statement / PP&E — **priced** |
+| **2. LEASES** | the hyperscaler | footnote; **uncommenced leases invisible until commencement** (MSFT $329.1bn + $130bn new) |
+| **3. GUARANTEES of a THIRD PARTY's obligations** | **a developer** | **contingent-liability footnote — Google's exposure without Google's debt** |
+**Each rung moves the commitment further from the priced number while retaining the economic exposure.**
+
+- *(★★★ AND IT IS THE EXACT OPPOSITE OF WHAT THE MARKET PAID +12% FOR YESTERDAY)* **MSFT was rewarded for
+  REVERSIBILITY — "we can rein in spending if needed."** **A GUARANTEE IS THE LEAST REVERSIBLE COMMITMENT
+  THAT EXISTS: you cannot unguarantee a loan.** **And a take-or-pay PPA on a gas plant is a multi-decade
+  fixed obligation regardless of whether the compute is used.** **So either the market has not noticed, or
+  guarantees are not in the number it prices — and they are not, which is the entire point of the
+  structure.** **The optionality razor, applied honestly, says this is the most punishable commitment in the
+  complex and it is the one that will not show up.**
+- *(★★★ THE $14bn BRIDGE IS THE FRAGILITY, and it is dated by construction)* **A bridge loan is a PLACEHOLDER
+  that must be TERMED OUT** — into project bonds, ABS, or private credit. **It creates refinancing risk with
+  a clock on it.** **And the takeout market is exactly where today's stress is: Blue Owl's fundraising
+  slowdown, six vehicles gated at ~5% caps, OBDC II wound down.** **If the private-credit takeout is not
+  there, a $14bn bridge either extends at a worse price or the banks hold it.** **This is F2's mechanism with
+  a much bigger number attached.**
+- *(★★★ 1.6 GW IS ~2.7% OF ALL TEXAS ELECTRICITY, and it BYPASSES the grid constraint entirely)* **12.6 TWh a
+  year at a 90% capacity factor, against ~475 TWh for the state — roughly 1.5 nuclear reactors of continuous
+  output, for ONE campus.** **And it is BEHIND-THE-METER: they are not queuing for interconnection, they are
+  building their own gas plant.** **⭑ That is a real refinement to [[buildout-bottleneck-map]]: grid rationing
+  (Ofgem commitment fees, the DOE 17-state order) does NOT cap the buildout — it raises the cost of entry and
+  favours whoever can finance their own generation.** **The constraint selects for balance sheet, it does not
+  bind volume.** [[power-scarcity-equities]]'s registered firm/behind-the-meter test, executed at $15bn.
+
+### ⚠️ ON THE AGGREGATE FIGURES — the deal is verified, the totals are not
+**GOOGL $826bn · META ~$700bn · "$3+ trillion across all hypers, doubled in one quarter" are ZeroHedge
+AGGREGATIONS.** **"Off-balance-sheet commitments" is NOT a standardised disclosure line** — it can combine
+purchase obligations, lease commitments including uncommenced, guarantees, and take-or-pay contracts.
+**"Doubled in one quarter" depends entirely on that methodology being consistent across periods, and the
+methodology is not stated.** ⚠️ **The order of magnitude is not crazy — MSFT alone is ~$459bn verified from
+filings — but the individual figures are checkable in 10-Qs and the aggregate is arithmetic on an unstated
+definition. Use the company lines; do not quote the $3tn.**
