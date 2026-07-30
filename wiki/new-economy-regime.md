@@ -2050,3 +2050,19 @@ and the strong one cuts against his own Fed thesis.**
 - *(timing, descriptive — [[portfolio-state]])* House + signature + use + effect + passthrough = **quarters.**
   **The tariff channel is outside a Dec-18 window; the oil channel is not.** If Jake wants this to matter to
   the December put, **it matters through Brent, not through the tariff.**
+
+### 2026-07-30 ~4:55pm PT — ★★ THE US-DOMESTIC INFLATION CHAIN, which is what Jake was actually asking about
+Following the "seaborne market = US" correction ([[oil-value-chain]]): **US LNG exports at a record 11.7 Mt
+(March 2026), >16 Bcf/d run-rate.** Export expansion pulls domestic molecules to a global clearing price ⇒
+**Henry Hub converges upward ⇒ US electricity prices rise.**
+- **★★★ AND THAT LANDS ON THE VAULT'S REGISTERED GRIEVANCE, NOT ON A CPI SUBCOMPONENT.** The standing frame:
+  *"the bipartisan ratchet runs on the ELECTRIC BILL, not the index"*; *"the grievance anchored in essentials
+  (electric bills, groceries, memory passthrough)."* **The Iowa entry filed an hour ago is that ratchet
+  executing on bondholders. This is the same ratchet being FED from the other end.**
+- **★★★ AND IT COLLIDES WITH THE BUILDOUT.** **The Graham Act bids up the same molecules the AI data-center
+  complex is bidding for.** Two structural bids — LNG export demand and behind-the-meter data-centre load —
+  on one domestic gas/power supply. [[power-not-petroleum]], [[buildout-bottleneck-map]].
+- *(so, to Jake's "seems inflationary")* **Yes — and the channel is neither the tariff nor even Brent. It is
+  US GAS AND POWER PRICES, which is the one inflation this administration cannot blame on foreigners and the
+  Fed cannot call a foreign supply shock.** ⚠️ **The domestic-price-passthrough link is well-established
+  economics but was NOT independently verified in this session — flagged, not measured.**
