@@ -561,3 +561,33 @@ Mojtaba Khamenei."* **I did not know Iran had a new Supreme Leader. It has had o
 - *(the timeline now coheres)* Axios dated the war's launch to **Feb 28**; the assassination is the same week.
   **The war did not merely start then — it DECAPITATED the Iranian state.** Which is why the Hormuz campaign
   is doctrinal rather than opportunistic. [[demand-destruction]], [[war-confirmed]].
+
+## UPDATE — 2026-07-30 ~4:20pm PT — FOUR NEW ESCALATION ITEMS (Jake's feed) — ALL 🟡, ALL POLITICAL-TIER
+Source: Jake, unsourced feed summary. ⚠️ **NONE VERIFIED — logged as claims, flags provisional.**
+1. **IRGC soldiers killed** (civilians reported, NOT confirmed) — 🟡 `[ODDS-SHADER]`. Casualty events on the
+   Iranian side are already the nightly baseline; a soldier-count print does not move the fuse.
+2. **"Saudis joining"** — 🟡 `[ODDS-SHADER]`. ⚠️ **Likely ALREADY LOGGED**: see 2026-07-24 ~11:16am
+   *"WAR WIDENING (Gulf-Arab coalition)"*. If this is the same story resurfacing it is **not new information**;
+   if it is Saudi *kinetic* participation it is new and should be re-flagged 🔴. **Verify which.**
+3. **China supplying Iran with weapons** — 🟡 `[ODDS-SHADER]`, potentially 🟠. Great-power resupply lengthens
+   the war and raises the ceiling; it does **not** move the oil fuse, which is Kharg/Jask/export-terminal or
+   physical closure. ⚠️ **Sourcing needed — this is the highest-value item of the four if real.**
+4. **Netanyahu in DC** — 🟡 `[ODDS-SHADER]`. Cuts BOTH ways: coordination for escalation, or a de-escalation
+   package. **Directionally ambiguous; do not read it as bearish by default.**
+
+### ★★★ THE READ THAT MATTERS — AND IT IS THE BOARD'S OWN STANDING LINE
+**CURRENT STATUS already says: *"Political escalation is MAXED (18 dead, nightly loop, geography widening,
+attribution doctrine); OIL escalation is CAPPED."*** **All four of Jake's items are POLITICAL-tier. The board
+has been telling us for a week that this tier is saturated and does not move the marker.**
+
+- **★★★ AND THE DECISIVE PRECEDENT IS ALREADY ON THIS BOARD.** 2026-07-24/25 logged
+  **"(c) CLOSURE: EXECUTED IN EFFECT (🔴). ZERO TANKER TRANSITS EITHER DIRECTION"** — the single largest
+  registered trigger on the fuse, and it **FIRED.** **Five days later SPY is 741.69, ~2.5% off the 6/2 ATH
+  (SPX 7610).** **The biggest war trigger this vault ever registered executed, and the equity market absorbed
+  it inside a week.** ⚠️ **Any equity-downside thesis resting on further POLITICAL escalation has to explain
+  why a Hormuz closure did not do it.** That is the bar, and it is high.
+- *(what is NOT saturated — the honest other side)* The board's fuse is **oil**, and it caps out. **The
+  unpriced surprise is in the CREDIT leg, not the war leg** — the dealer-loss disclosure that has been open
+  since the SA/Citadel unwind and remains **unanswered** ([[ai-financing-fragility]]). **Archegos cost dealers
+  ~$10bn disclosed within days; nothing comparable has printed here.** A war headline is priced; a dealer
+  writedown is not.
