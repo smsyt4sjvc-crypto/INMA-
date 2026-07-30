@@ -1484,3 +1484,42 @@ ground-truth correction, which identifies a more specific mechanism than "higher
   a weak outlook, with Apple revenue declining faster** — that is memory-cost inflation reaching a consumer
   device maker's guidance. **The CPI channel Goldman quantified at 50bp now has a named corporate transmission
   path.** [[new-economy-regime]].
+
+## 2026-07-30 ~3:22pm PT — ★★★ THE RAZOR REFINES AGAIN: it is ACCELERATION, not capex direction
+Source: Jake's AMZN Q2-26 / AAPL FQ3-26 summary (`raw/2026-07-30-amzn-aapl-earnings-jake-summary.md`).
+
+**DATA — AMZN Q2-26:** rev **$200.6B (+20%)**, **AWS $42.2B (+37%, ACCELERATING)**, op income **$27.5B (+43%)**,
+net income **~$62.7B**, EPS **$5.75**, ads **+26%**, **capex guide RAISED ~$200B → ~$220B**, **stock +8% AH.**
+**DATA — AAPL FQ3-26:** rev **$109.4B (+16%)**, NI **$29.8B (+27%)**, EPS **$2.02 (+29%)**, GM **50.1%**,
+iPhone **$54.3B (+22%)**, Mac **$10.4B (+29%)**, Services **$30.7B (+12%)**, Greater China **$18.8B (+22%)**,
+**Sept-quarter guide 9–11%**, **stock FELL AH.**
+
+- **★★★ CAPEX DIRECTION DOES NOT SORT THE REACTIONS. ACCELERATION DOES.**
+
+  | name | capex | conversion | reaction |
+  |---|---|---|---|
+  | MSFT | **BELOW** expectations | Azure 43%→45% **ACCELERATING** | **+12%** |
+  | AMZN | **RAISED** 200→220 | AWS **+37% ACCELERATING** | **+8%** |
+  | GOOGL | **RAISED** →205 | Cloud **+10% BEAT** (accel? unknown) | **−3.85%** |
+  | META | **RAISED** | revenue guide **SHORT** | **−8.3%** |
+  | AAPL | minimal | 16% → guide **9–11% DECEL** | **sold** |
+
+  **RAISED capex produced both +8% (AMZN) and −8.3% (META), so capex is not the variable.** Every reward
+  ACCELERATED; every punishment DECELERATED or failed to convert. **The mechanism: a BEAT is backward-looking
+  (your model was low). ACCELERATION is forward-looking. Capex is a FORWARD commitment, so only forward
+  evidence underwrites it.** This supersedes the earlier "demonstrated conversion" phrasing — *conversion* was
+  right but under-specified; the market is grading the **second derivative.**
+- **🚩 F14 (OPEN, DECISIVE, ONE NUMBER):** **was GOOGL Cloud ACCELERATING or merely beating?** GOOGL is the only
+  row that doesn't obviously fit. If Cloud growth **decelerated** while the capex guide rose, the rule goes
+  **5-for-5 and becomes the vault's sorting law for this earnings regime.** If Cloud **accelerated** and the
+  stock still fell −3.85%, the rule is broken and the naked-forward-guide explanation survives instead.
+  **Checkable from the 10-Q / earnings release. Highest-value single lookup on the board.**
+- **⚠️ AAPL — THE THING THE GUIDE IS HIDING: SERVICES SHARE FELL.** Services +12% against a company growing
+  16% ⇒ **services share 29.1% → 28.1%, DOWN 1.0pp.** **Hardware is outgrowing services.** Apple's multiple is
+  built on the mix-shift-to-services **margin expansion** story; this quarter ran that story **in reverse**,
+  with GM 50.1% and **rising memory/component costs** flagged. **That is structural and the 9–11% guide is not
+  — but the guide is what got the coverage.** ([[memory-regime-question]] — the crowd-out loop reaching the
+  largest consumer-hardware P&L on earth.)
+- *(the razor's own scoreboard)* Jake's positive spine holds on the AMZN row: **AWS +37% accelerating is
+  demand exceeding the model, which is the input-deflation-heals branch, not the glut branch.** ⚠️ But note
+  what it costs: **capex $220B = 27.4% of annualised revenue and 2.00x annualised operating income.**

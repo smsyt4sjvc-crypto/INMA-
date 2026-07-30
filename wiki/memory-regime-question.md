@@ -259,3 +259,19 @@ closed lower despite a MORE THAN 250-FOLD year-on-year jump in semiconductor pro
   index.** The cohort is now underperforming its own end-market on a day that end-market rallied 3.2%.
   **Whatever is wrong with memory is memory-specific, and CXMT/glut is the only candidate the vault has.**
   [[compression-thesis]].
+
+## 2026-07-30 ~3:22pm PT — APPLE NAMES MEMORY COSTS AS A MARGIN HEADWIND (the crowd-out loop, largest possible P&L)
+Source: `raw/2026-07-30-amzn-aapl-earnings-jake-summary.md`. AAPL FQ3-26: rev $109.4B (+16%), **GM 50.1%**,
+investors focused on **"rising memory and component costs, supply constraints"**; Sept-quarter guide **9–11%**.
+- **The vault's registered loop — *AI buildout → memory crowd-out → consumer price hikes → stickier core***
+  ([[compression-thesis]], [[consumption-vs-investment-crux]]) — previously evidenced by **Google/Apple/
+  Microsoft/Nintendo price hikes "as memory costs surge sixfold."** **This is the same loop showing up as a
+  named margin headwind at the largest consumer-hardware company on earth, in the guide rather than in a
+  press release.** Price hikes were the *response*; a soft guide is the *cost of the response not covering it.*
+- *(bearing on the MU question — and it cuts the constructive way)* **A downstream buyer publicly flagging
+  memory cost AND supply constraint is demand-side confirmation of shortage, not glut.** It argues branch
+  **(a) revolving/structural demand** over the cliff branch. ⚠️ **But it is a BUYER complaining, which is
+  exactly what a peak looks like too** — the same complaint appears at the top of every memory cycle.
+  **Not decisive. Logged as one datapoint on the shortage side of a question that stays open.**
+- **⚠️ artifact-risk: "rising memory costs" is Jake's summary of investor focus, not an Apple quote.** Verify
+  against the actual call transcript before this carries weight.
