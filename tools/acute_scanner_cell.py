@@ -1,11 +1,14 @@
 
 # ============================================================================
-#  ACUTE SCANNER — 10-hour window, 78 vault keywords / 10 threads, source-tiered
+#  ACUTE SCANNER — 10-hour window, vault keywords / threads, source-tiered
 #  Prints: (1) INDEX prices  (2) MAG 7 alone  (3) MEMORY alone
-#          (4) keyword HITS ONLY, financial outlets first, buzz last.
+#          (4) keyword HITS ONLY, financial outlets first, buzz last
+#          (5) PRIORITY FOLLOW-UP QUEUE — hits grouped by the OPEN VAULT FLAG they
+#              could close, paywalled primary wires marked [GET], with full links.
+#  Two gates: keywords say ON-TOPIC; the flag registry says WORTH READING.
 #  Prints NOTHING for a tier with no hits. No padding. Token-free.
 # ============================================================================
-import subprocess, sys, re, io, time, urllib.request
+import subprocess, sys, re, io, time, textwrap, urllib.request
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 try:
@@ -109,6 +112,75 @@ ROUTE = {
 def tags(text):
     return [th for th, ps in PATS.items() if any(p.search(text) for p in ps)]
 
+# ═══════════════════════════════════════════════════════════════════════════════
+# OPEN FLAGS REGISTRY — the second gate, and the more important one.
+#
+# The keyword gate answers "is this ON-TOPIC". That is not the same question as
+# "is this WORTH READING". A headline earns a follow-up only if it can CLOSE
+# something the vault has registered as UNRESOLVED (⚠️) or LOGGED AS WRONG (⛔).
+#
+# Every entry below is a real, dated, open item from a vault note. `q` states what
+# would actually resolve it — not the topic, the MISSING FACT. `pat` detects a
+# candidate resolver. Retire an entry the moment it closes; a stale registry
+# manufactures false urgency.
+# ═══════════════════════════════════════════════════════════════════════════════
+WATCH = [
+ dict(id='F1', pri=1, note='ai-capex-cycle',        since='07-29',
+      q='Is MSFT $130B new leases a SUBSET of the $329.1B uncommenced total, or ADDITIVE? '
+        'A quarter that created a third of the off-balance-sheet obligation is a rate, not a stock.',
+      pat=r'(lease|uncommenced|off.balance|329|130 ?b|\$130)'),
+ dict(id='F2', pri=1, note='ai-financing-fragility', since='07-29',
+      q='SPREAD, TENOR and TAKE-UP on the Goldman $5.4B MSFT-tied and Blue Owl $5.9B deals. '
+        'Size alone supports neither containment nor cascade. Primary prices MARGINAL risk.',
+      pat=r'(goldman|blue owl|data cent\w* (debt|loan|financ)|private credit|syndicat|spv)'),
+ dict(id='F3', pri=1, note='memory-regime-question', since='07-28',
+      q='The CXMT fork: glut vs politically walled out. Is the Senate action a LETTER or a BILL? '
+        'A letter is noise; an enforcement mechanism is the wall. Apple commitment is the resolver.',
+      pat=r'(cxmt|chinese memory|apple.*(memory|chip)|senator|export control|entity list)'),
+ dict(id='F4', pri=1, note='demand-destruction',     since='07-30',
+      q='CPC/Kazakh loading status AFTER the 7/30 re-attack. Force majeure? August loading program? '
+        'THE VAULT MISSED THIS THEATRE FOR ELEVEN DAYS — treat every CPC item as priority until caught up.',
+      pat=r'(cpc|caspian|novorossiysk|tengiz|kashagan|kazakh|force majeure)'),
+ dict(id='F5', pri=2, note='demand-destruction',     since='07-30',
+      q='Are QatarEnergy\'s 33 US cargoes SPOT or TERM? Spot bridges weeks; term prices permanence. '
+        'This is the cleanest available test of the structural-vs-episodic branch.',
+      pat=r'(qatarenergy|qatar.*(lng|cargo)|33 cargo|term contract|spot cargo)'),
+ dict(id='F6', pri=2, note='new-economy-regime',     since='07-30',
+      q='The actual dissent COUNT and the 1970 comparison set. I retracted a 56-year record because '
+        'it was engineered — intent revises meaning, not magnitude.',
+      pat=r'(dissent|1970|fomc vote|voted against)'),
+ dict(id='F7', pri=2, note='buildout-bottleneck-map', since='07-29',
+      q='Ofgem commitment fee LEVEL, and is it REFUNDABLE on commencement? A refundable deposit is '
+        'anti-squatting; a non-refundable fee is a real price on the optionality MSFT was rewarded for.',
+      pat=r'(ofgem|commitment fee|connection queue|grid access|interconnect)'),
+ dict(id='F8', pri=2, note='ai-financing-fragility',  since='07-29',
+      q='The neocloud NAMED CASUALTY. Five sessions of double-digit drawdown, still nobody named. '
+        'Absence is the strongest datum in the containment case — until it is not.',
+      pat=r'(coreweave|nebius|neocloud|crusoe|lambda|default|covenant|going concern|missed payment)'),
+ dict(id='F9', pri=3, note='memory-regime-question', since='07-30',
+      q='SK hynix Q2 miss MAGNITUDE, and Micron CEO sale size + 10b5-1 status. A CEO sale without '
+        'size, plan status and prior cadence is not evidence.',
+      pat=r'(hynix|10b5|insider sale|mehrotra|micron.*(sold|sale))'),
+ dict(id='F10',pri=3, note='ai-capex-cycle',         since='07-30',
+      q='Zhongji InnoLight break SIZE and terms, and whether other AI-supply-chain deals are pulled. '
+        'One broken debut is a datum; a second is a primary-market regime.',
+      pat=r'(innolight|ipo|debut|listing|pulled|postpon|withdraw)'),
+]
+WPATS = [(w, re.compile(w['pat'], re.I)) for w in WATCH]
+
+# Brands Jake can open behind a paywall — these get marked [GET] in the follow-up queue,
+# because a fetchable primary source outranks a free paraphrase of it. (The Axios/Pacing
+# error was built entirely on a one-sentence paraphrase of a document I could have read.)
+GETTABLE = ('reuters', 'wsj', 'wall street journal', 'bloomberg', 'ft', 'financial times')
+
+def flags(text):
+    return [w for w, p in WPATS if p.search(text)]
+
+def brand(title, src):
+    if src: return src
+    m = re.search(r' [-–] ([^-–]{2,40})$', title)
+    return m.group(1).strip() if m else ''
+
 # ---------------------------------------------------------------- FEEDS BY TIER
 # CNBC: the search.cnbc.com/combinedcms endpoint returns a 682-byte error page with ZERO items.
 # Verified working format is /id/<ID>/device/rss/rss.html (30 items each, fresh dates).
@@ -188,7 +260,7 @@ def parse(name, url):
                 if dt: break
         if dt is None: continue
         if dt.tzinfo is None: dt = dt.replace(tzinfo=timezone.utc)
-        out.append((dt, title, grab('description')[:200], grab('link')))
+        out.append((dt, title, grab('description')[:200], grab('link'), grab('source')))
     return out, None
 
 print('='*74)
@@ -202,28 +274,33 @@ px_block('MEMORY COMPLEX (independent)', MEM)
 
 print('\n'+'='*74); print(f'  KEYWORD HITS ONLY — last {HOURS}h, financial tier first'); print('='*74)
 
-seen, problems, grand = set(), [], 0
-for tier_name, feeds in TIERS:
+seen, problems, grand, QUEUE = set(), [], 0, []
+for tier_idx, (tier_name, feeds) in enumerate(TIERS):
     hits = []
     for name, url in feeds:
         items, err = parse(name, url)
         if err: problems.append(err); continue
-        for dt, title, desc, link in items:
+        for dt, title, desc, link, src in items:
             if dt < CUT: continue
             k = re.sub(r'[^a-z0-9]','', title.lower())[:60]
             if k in seen: continue
             th = tags(title+' '+desc)
             if not th: continue          # <-- the gate: direct keyword hit or it does not print
-            seen.add(k); hits.append((dt, name, th, title, link))
+            seen.add(k)
+            fl = flags(title+' '+desc)   # <-- the SECOND gate: does it close an open flag?
+            hits.append((dt, name, th, title, link, fl))
+            if fl: QUEUE.append((dt, name, th, title, link, fl,
+                                 brand(title, src), tier_idx))
     print(f'\n{"="*74}\n{tier_name}\n{"="*74}')
     if not hits:
         print('  no keyword hits in this tier.')
         continue
     hits.sort(key=lambda x: x[0], reverse=True)
-    for dt, name, th, title, link in hits[:PER_TIER_CAP]:
+    for dt, name, th, title, link, fl in hits[:PER_TIER_CAP]:
         age = (NOW-dt).total_seconds()/60
         agestr = f'{age:.0f}m' if age < 90 else f'{age/60:.1f}h'
-        print(f'\n[{agestr:>5}] {name:<12} {"|".join(th)}')
+        star = ' ***OPEN FLAG '+','.join(w['id'] for w in fl) if fl else ''
+        print(f'\n[{agestr:>5}] {name:<12} {"|".join(th)}{star}')
         print(f'        {title[:150]}')
         print(f'        -> {" ; ".join(ROUTE.get(t,"?") for t in th)}')
         if link: print(f'        {link[:110]}')
@@ -238,4 +315,42 @@ print('  note, or explicitly decide it is noise. An unrouted hit is a skipped re
 if problems:
     print('  feed problems (missing coverage, not errors in the hits above):')
     for p in problems: print(f'    - {p}')
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# PRIORITY FOLLOW-UP QUEUE — the fetch list.
+# Grouped by OPEN FLAG, not by feed, because the unit of work is the QUESTION, not
+# the headline. Within a flag: paywalled primary wires first (they are gettable and
+# they outrank paraphrase), then by tier, then by recency.
+# ═══════════════════════════════════════════════════════════════════════════════
+print('\n'+'='*74)
+print('  PRIORITY FOLLOW-UP QUEUE — fetch these, in this order')
+print('='*74)
+if not QUEUE:
+    print('\n  Nothing in this window touches an open flag. That is a RESULT, not a gap:')
+    print('  it means the news moved and the registered questions did not.')
+else:
+    by_flag = {}
+    for row in QUEUE:
+        for w in row[5]: by_flag.setdefault(w['id'], (w, []))[1].append(row)
+    def rank(r):
+        return (0 if any(g in (r[6] or '').lower() for g in GETTABLE) else 1, r[7], -r[0].timestamp())
+    for fid in sorted(by_flag, key=lambda i: (by_flag[i][0]['pri'], i)):
+        w, rows = by_flag[fid]
+        rows.sort(key=rank)
+        print(f"\n─── {fid}  [pri {w['pri']}]  {w['note']}   (open since {w['since']})")
+        for i, ln in enumerate(textwrap.wrap(w['q'], 84)):
+            print(('    Q: ' if i == 0 else '       ') + ln)
+        print()
+        for dt, name, th, title, link, fl, br, ti in rows[:4]:
+            age = (NOW-dt).total_seconds()/60
+            agestr = f'{age:.0f}m' if age < 90 else f'{age/60:.1f}h'
+            get = '[GET]' if any(g in (br or '').lower() for g in GETTABLE) else '     '
+            print(f'    {get} [{agestr:>5}] {br or name}')
+            print(f'           {title[:120]}')
+            if link: print(f'           {link}')
+        if len(rows) > 4: print(f'    ...{len(rows)-4} more touching {fid}')
+    open_ids = {w['id'] for w in WATCH} - set(by_flag)
+    if open_ids:
+        print(f"\n  OPEN FLAGS WITH NO CANDIDATE THIS WINDOW: {', '.join(sorted(open_ids))}")
+        print('  Still unresolved. Silence is not closure — these stay on the registry.')
 print('='*74)
