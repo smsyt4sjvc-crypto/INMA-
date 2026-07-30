@@ -2770,3 +2770,76 @@ confirmed by the instrument I nominated to test it.**
 - *(★ Brent−WTI holds ~$6–7 ACROSS THE WHOLE STRIP)* Not a front-month dislocation — **the waterborne premium
   is priced as persistent for at least six months.** Consistent with a chokepoint tax that the market expects
   to outlast the acute phase. [[oil-value-chain]].
+
+## 2026-07-30 ~2:35am PT — JAKE CHALLENGES THE DEMAND-DESTRUCTION THREAD (user's thesis) — the challenge is partly right, the cited article is the wrong evidence, and the CHINA half is the good half
+
+**JAKE (user's thesis):** *"I'm not so sure the demand destruction wasn't an overreach or partially fabricated
+by China."* Cited: Edward Ring, *American Greatness* — *"US & Global Reliance On Fossil Fuel Unchanged In 25
+Years"*, sourced to the **Statistical Review of World Energy 2026**.
+
+### ⛔ THE ARTICLE DOES NOT SUPPORT THE CLAIM — it answers a different question on a different clock
+**The article's subject is the fossil SHARE of primary energy: 87% (2000) → 86% (2025).** That is a **secular
+transition** claim. **Demand destruction in this vault is a SHORT-RUN PRICE-ELASTICITY claim**: $92 Brent plus
+elevated freight and war-risk premia causing marginal barrels not to be consumed **this quarter**. **Fossil fuel
+can hold 86% of a growing energy pie while oil demand falls on a six-month view. The two propositions do not
+touch.** ⚠️ **Category error — a structural dataset deployed against a cyclical claim.**
+
+### ★★★ AND THE ARTICLE'S OWN NUMBERS ARGUE THE OTHER WAY — it publishes the counter-evidence and buries it
+Running the ratios the piece declines to compute, from its own table:
+
+| | 2000 → 2025 | |
+|---|---|---|
+| **US oil consumption** | 37.6 → 36.4 EJ | **−3.2% ABSOLUTE** |
+| US GDP | $13.9T → $24.1T | +73% |
+| US population | 282M → 343M | +22% |
+| **US oil per unit GDP** | | **−44.2%** |
+| US oil per capita | | **−20.4%** |
+| **World oil** | 147.3 → 201 EJ | **+36% — the SLOWEST of the three fossil fuels** |
+| World gas / coal | | +67% / +79% |
+| **World oil per unit GDP** | | **−40.1%** |
+| World oil share of energy | | **38.7% → 33.5%** |
+
+- *(★★★ THE FINDING)* **US oil consumption FELL 3.2% in absolute terms while the economy grew 73% and the
+  population grew 22%.** That is **the single cleanest demonstration of structural oil demand destruction
+  available**, and the article prints it as an aside on the way to *"fossil fuels are indispensable."*
+  **Oil demand grew at 1.25%/yr globally for 25 years while GDP grew 3.3%/yr.** **Whatever else is true, oil
+  is the fossil fuel LOSING share inside the fossil complex.**
+- *(⚠️ SOURCE CLASS: T3 — take the data, drop the inference)* American Greatness is an advocacy outlet and the
+  piece closes with *"we must justifiably question their motives"* — a conclusion, not a finding. **But the
+  underlying Statistical Review of World Energy is a legitimate primary series.** ⚠️ Small care-tell: **$13.9T
+  → $24.1T is +73%, which the article calls "nearly doubled."**
+- *(⚠️ A METHODOLOGY CAVEAT THE ARTICLE NEVER RAISES, and it moves the headline number by ~2.5x)* **Primary-energy
+  accounting counts fossil fuels at GROSS THERMAL content — of which ~60–65% is lost as waste heat in power
+  generation and ~70–75% in internal combustion — while non-fossil electricity is counted differently depending
+  on convention (direct-equivalent vs substitution).** **Whether "renewables = 6%" understates or overstates
+  useful energy delivered depends entirely on which convention the 2026 edition uses.** **Do not quote the 6%
+  without establishing it.**
+- *(⛔ AND THE BATTERY ARGUMENT — the article's rhetorical crescendo — IS A UNITS ERROR)* It compares **1.2 TWh
+  of storage (a STOCK) against annual energy consumption in exajoules (a FLOW)** and concludes you need
+  10,000×. **Storage is sized for BALANCING, not for total supply** — grids use overbuild, transmission,
+  demand response and dispatchable backup alongside it. **You no more need storage equal to annual consumption
+  than you need a bank balance equal to annual spending.** **When the crescendo of a piece is a units error,
+  discount its reasoning everywhere the data does not stand alone.**
+
+### ★★★ THE CHINA HALF IS THE GOOD HALF — and the article says nothing about it
+- *(★★★ THE CONCERN IS LEGITIMATE AND SPECIFIC)* **Chinese "apparent oil demand" is a RESIDUAL: refinery runs
+  plus net product imports, backed out of crude imports.** **China does not publish commercial or strategic
+  inventory data.** **So consumption and STOCKPILING are structurally conflated in every published Chinese
+  demand figure.** Strong apparent demand can be barrels going into tanks; weak apparent demand can be tanks
+  being drawn. **This is a real, widely-held analyst concern, and Jake reached it without the article's help.**
+- *(★★★ AND REDIRECTED, IT MAY BE THE ABSORBER I HAVE FAILED TO FIND TWICE)* The open problem: **CPC ~1.8 mb/d
+  offline, Hormuz at historic lows, Saudi cutting — and Brent at $92.** Candidates named and killed: **the SPR
+  (722k bpd — less than half of CPC alone) and OPEC+ spare capacity (Saudi was contracting 24.7%).**
+  **FIFTH CANDIDATE: a Chinese inventory DRAW. Destocking is prompt supply that appears in no production
+  series.** **And it fits the curve print: steep backwardation is exactly the signal that INCENTIVISES
+  destocking, and an unmeasurable drawdown is exactly what would keep flat price calm while physical stays
+  tight.** ⚠️ **This is the THIRD absorber I have named. The first two were wrong. Hold it loosely and treat it
+  as a hypothesis to test, not a finding.** **Test: Chinese crude imports vs refinery runs, and onshore/floating
+  storage estimates (Kpler/Vortexa) — a gap between imports and runs IS the stock change.**
+- *(⛔ THE HONEST ADMISSION ON THE THREAD ITSELF — Jake is directionally right)* **This note is named
+  `demand-destruction` but its recent content is almost entirely supply, chokepoints and tolls.** Two hours ago
+  I registered: *"the vault has no demand data adequate to reject [the demand-weakness hypothesis]."* **The
+  reverse is also true — it has none adequate to SUPPORT a demand-destruction claim either. The thread is
+  under-evidenced by neglect, and the note title has been doing work the data has not.** **And the curve print
+  cuts against demand weakness independently: a demand-destroyed market does not back-wardate 12.7% over six
+  months.** [[oil-value-chain]], [[consumption-vs-investment-crux]].
