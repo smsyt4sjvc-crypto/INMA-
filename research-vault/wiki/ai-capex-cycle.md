@@ -1787,3 +1787,42 @@ leases**.* Yesterday, from the filing: **$329.1B of UNCOMMENCED leases.**
 - *(the convergence with Jake's own thesis)* **This is the off-balance-sheet thesis he registered before the
   filing existed, now measured twice in one quarter: $329.1B uncommenced + $130B newly signed.** [[ai-financing-fragility]],
   [[cepi]], [[consumption-vs-investment-crux]].
+
+## 2026-07-30 ~10:40am ET — META AT A 52-WEEK LOW: the bear case is this vault's own line, and the bull case has a TEMPLATE AT THIS EXACT COMPANY
+
+**Jake:** *"I wonder if meta is a buy right now at almost 52W low."* (Descriptive only — sizing and execution
+are his. [[_persona]] rule 7.)
+
+**STATE:** **−8.3/10% on the print. Q3 guide $61–64bn vs $63.17bn consensus (midpoint BELOW). Raised the LOW
+END of both capex and total expense. Lowest FCF in nearly four years. Already −11% YTD BEFORE this print.**
+Revenue +28% to ~$60bn.
+
+- *(THE BEAR CASE IS MY OWN REGISTERED SENTENCE)* **"Solvency is not the risk; the risk is that the equity
+  becomes a CALL OPTION ON CAPEX DISCIPLINE that management has just promised not to exercise."** **$31.9B OCF
+  → $784M retained = 97.5% consumed.** And the optionality razor's cleanest pairing printed today: **MSFT +12%
+  for spending LESS than modelled with cloud accelerating; META −8.3% for spending MORE with revenue
+  decelerating.**
+- *(★★★ BUT THE BULL CASE HAS A TEMPLATE AT THIS SPECIFIC COMPANY, and it is the most useful thing here)*
+  **2022: Meta fell ~77% on precisely this fear — capex with no visible return (metaverse) — then re-rated
+  enormously after the "year of efficiency."** **The sequence "market punishes capex → management pivots →
+  stock re-rates" has already run once at this exact ticker.** **Anyone treating today as unprecedented is
+  ignoring the company's own four-year-old precedent.**
+- *(★★★ AND THE DISANALOGY IS THE WHOLE ARGUMENT — same fact, two readings)* **Metaverse capex was
+  DISCRETIONARY: it had no revenue path, so cutting it cost nothing but face.** **AI capex is NOT — it feeds
+  ad ranking and targeting, which IS the business, and cutting it means conceding the race.** **So the 2022
+  fix may be unavailable.** **Bearish for "they'll just cut it." Bullish for "the spending is productive."
+  The same sentence supports both and that is exactly why the stock is where it is.**
+- *(★★★ THE DISCRIMINATOR, and Meta DISCLOSES IT)* **Does the capex show up in AD PRICING?** **Meta reports
+  ad impressions and PRICE PER AD separately.** **If AI-driven targeting is working, price per ad rises even
+  as impression growth slows.** **If impressions carry the growth while price per ad is flat or falling, the
+  capex is not converting and the bear case is right.** **That is a published, quarterly, falsifiable test
+  and it beats every narrative on either side.** ⚠️ **I do not have this quarter's split — GET IT.**
+- *(★★ A TIMELY MECHANICAL POINT — the largest forced seller in this complex just FINISHED)* **Situational
+  Awareness exited its ENTIRE ~$16B public equity book to Citadel today.** **Mega-caps get sold for
+  LIQUIDITY, not for view, in a forced unwind.** **Whatever share of the AI complex's weakness was that
+  seller is now behind the tape, not ahead of it.** ⚠️ **Does not make anything cheap; it removes one
+  identified supply overhang.**
+- *(★ the vault already owns the screen for this setup)* **[[deep-value-reclaim]] — furthest under the
+  200-SMA that has RECLAIMED the 20-SMA.** **Jake built it for exactly this configuration, and its own
+  backtest finding was that the 20-day reclaim filter is the part that works.** **A 52-week low is the first
+  half of that screen and not the second.** [[dip-buying-base-rates]], [[buying-at-highs]].
