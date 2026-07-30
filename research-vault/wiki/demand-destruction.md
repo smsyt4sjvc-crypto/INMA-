@@ -3031,3 +3031,45 @@ sourced to Wikipedia in the digest — **verify before use**).
   may be partly SUPPLY COERCION rather than voluntary price-sensitivity — which changes the reversal function
   completely: coerced restraint does not come back on a lower price, it comes back on sanctions relief.**
   **Registered under F13, which now has two sub-questions: (a) customs vs tracked, (b) voluntary vs coerced.**
+
+## 2026-07-30 ~6:30am PT — ★★★ THE NON-RESPONSE IS NOW EXTREME, AND "WITH IRAN'S PERMISSION" IS THE VERBATIM CONFIRMATION
+
+**⚠️ ARTIFACT CHECK FIRST — I nearly compared incomparable prices.** The wrap quotes **"Brent crude futures
+for OCTOBER… around $87.70."** **My scan and curve cell quoted the FRONT MONTH (September) at 91.40–92.20.**
+**My own curve cell printed Brent Oct at 87.88 — so $87.70 is the OCTOBER contract behaving normally, NOT a
+$4.50 collapse.** **Contract-month mismatch, caught before use.** The standing rule holds: *compare prices at
+equal base.*
+
+### DATA — everything escalated and oil went DOWN
+- **CPC: drone attacks on TWO MORE tankers. Loading SUSPENDED again. And "tankers intending to load at the
+  CPC terminal are DEPARTING the Black Sea."**
+- **CENTCOM struck DOZENS of IRGC targets** — command centres, missile/drone facilities, coastal surveillance,
+  maritime capabilities. **Commander Cooper has proposed a TWO-WEEK PLAN to escalate.** **"About twice as
+  large in intensity and scope as previous operations."**
+- **Iran fired on Jordan (5 missiles intercepted). RIYADH AIRPORT SUSPENDED after two explosions in the Saudi
+  capital.** **Poland: a Russian missile fell on Polish territory.**
+- **AND: "Energy and Metals LOWER while Ags remain bid."** The wrap's own words: **"Commodities are so
+  confused, they are not even responding to the latest MidEast escalation."**
+
+- *(★★★ THIS IS THE ABSORPTION PARADOX AT ITS MOST EXTREME — and the vault now has the answer)* **Two more
+  tankers hit at a 1.8 mb/d terminal, loading suspended, owners FLEEING the Black Sea rather than waiting,
+  dozens of IRGC targets struck, explosions in Riyadh — and crude is LOWER.** **A market analyst writing the
+  wrap calls it "confused." It is not confused. China withdrew ~4.4 mb/d of bid, which is larger than every
+  supply loss this note tracks combined.** **The paradox that looked inexplicable four days ago now has a
+  named, quantified mechanism, and today is its strongest demonstration.**
+- *(★★★ "WITH IRAN'S PERMISSION" — the third formulation confirmed VERBATIM)* Newsquawk: *"a Qatari ship
+  carrying LNG passed the Strait of Hormuz WITH IRAN'S PERMISSION."* **I filed "administered, not closed,"
+  retracted it to "closed," then landed on a DISCRETIONARY PERMISSION REGIME — closed by default, opened case
+  by case.** **That is the wire's own word. The third formulation was the right one and the two absolutes were
+  both wrong.**
+- *(★★ F4 UPDATE — the diplomatic channel exists and is producing NOTHING, which is what I said to expect)*
+  **Pakistan's MFA: "discussions between Tehran and Washington are ongoing regarding the Strait of Hormuz and
+  de-escalation."** **Al Arabiya: "no tangible results."** And **CENTCOM is planning a two-week escalation in
+  parallel.** **Consistent with the Mojtaba read: a leader who cannot be seen to concede produces talks
+  without outcomes.** ⚠️ **Talks existing at all is a mild point against my "reduce weight on the diplomatic
+  branch" call — logged.**
+- *(★★★ THE BYPASS HOLE I FLAGGED THIS MORNING IS NOW NAMED BY REUTERS)* Three hours ago I wrote that I had
+  wrongly treated "outside Hormuz" as safe, since Saudi's bypass runs to **Yanbu on the Red Sea** where the
+  Houthis are. **Reuters today: the Damietta strike raises "the prospect of threats to navigation through the
+  SUEZ CANAL, A LAST REMAINING SAFE EXPORT ROUTE FOR SAUDI OIL."** **Same finding, their words, and it makes
+  the two-chokepoint bind explicit.** [[war-board]], [[oil-value-chain]].
