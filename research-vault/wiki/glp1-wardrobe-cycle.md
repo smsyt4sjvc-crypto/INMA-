@@ -75,3 +75,30 @@ Links: [[consumption-vs-investment-crux]], [[retail-edge]], [[trade-down-landing
   fills concentrated MA/NJ/DE/NH, Vermont highest combined).
 - Detroit News (Florida county start dates, Aug 10); us-school-calendar / publicschoolscalendar (state guide,
   NY Sept 10, national Aug 15–20 modal window); Jackson MS July 29.
+
+## 2026-07-30 ~4:55am PT — ⚠️ ROST AT A 52-WEEK HIGH (Jake, first-hand, unverified from container) — this is NOT evidence for this note
+
+- *(⛔ THE ERROR I AM DECLINING TO MAKE)* I named Ross as a structural beneficiary of transitional sizing
+  **twenty minutes ago.** **A stock sitting at a high twenty minutes after I list it is not a confirmation and
+  it is not a call.** **A 52-week high is a PRICE FACT with no attached cause**, and it is consistent with
+  trade-down macro, comps, margin, index flows, short covering, or nothing.
+- *(★★★ AND THE COMPETING EXPLANATION IS ALREADY MEASURED, FROM THREE HOURS AGO)* Tonight's verified work:
+  **EW S&P at an all-time high (07-28) while cap NDX is −11.2% from its 06-02 high; EW SPX +1.39% MTD vs cap
+  SPX −2.32%.** **Money is rotating out of the AI complex into the other 400+ names, and ROST is one of those
+  names.** **The rotation explains a 52-week high in an off-price retailer completely, with no GLP-1 content
+  whatsoever.** Attributing it to a thesis I had just written would be manufacturing a narrative to fit a
+  price — the same failure class as the KOSPI and futures-base artifacts.
+- *(★★ THE DISCRIMINATOR, and it is cheap)* **Is ROST outperforming its OWN peer group, or moving with it?**
+  **If ROST, TJX and BURL are all at or near 52-week highs together → sector/rotation, not GLP-1 and not
+  Ross-specific.** **If ROST is at a high while TJX and BURL are not → something idiosyncratic worth
+  investigating.** Second control: **how BROAD are new highs across the S&P today** — a wide new-high list
+  makes ROST unremarkable.
+- *(★★★ WHAT WOULD ACTUALLY BE EVIDENCE — it is in the disclosure, not the tape)* Transitional-sizing demand
+  shows up as **APPAREL UNITS**, not price: **units per transaction, TRAFFIC vs TICKET, and apparel comps
+  outrunning home.** **Dated trigger: ROST Q2 earnings, ~late August.** **Until then this note has a
+  hypothesis and no data, and the tape cannot supply the missing piece.**
+- *(⚠️ THE POSITIONING POINT, argued against my own read)* **The rotation has been running EIGHT WEEKS** —
+  cap indices peaked 06-02, EW S&P 07-28. **Off-price at 52-week highs is that rotation at a mature point, not
+  its start.** ⚠️ **But do NOT convert that into a warning: this vault's own [[buying-at-highs]] and
+  [[ath-clustering]] work says new highs carry POSITIVE base rates and are not a sell signal.** **Mature ≠
+  over. Both statements hold and the note should carry both.**
