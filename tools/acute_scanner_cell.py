@@ -84,18 +84,20 @@ def tags(text):
     return [th for th, ps in PATS.items() if any(p.search(text) for p in ps)]
 
 # ---------------------------------------------------------------- FEEDS BY TIER
-CNBC = 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01_2000&id='
+# CNBC: the search.cnbc.com/combinedcms endpoint returns a 682-byte error page with ZERO items.
+# Verified working format is /id/<ID>/device/rss/rss.html (30 items each, fresh dates).
+CNBC = 'https://www.cnbc.com/id/{}/device/rss/rss.html'
 GN   = 'https://news.google.com/rss/search?q={}&hl=en-US&gl=US&ceid=US:en'
 YF   = 'https://feeds.finance.yahoo.com/rss/2.0/headline?s={}&region=US&lang=en-US'
 
 TIERS = [
  ('T1  FINANCIAL WIRE  (least partisan — read these first)', [
    ('MW-top',    'https://feeds.content.dowjones.io/public/rss/mw_topstories'),
-   ('MW-pulse',  'https://feeds.content.dowjones.io/public/rss/mw_marketpulse'),
    ('MW-bulletins','https://feeds.content.dowjones.io/public/rss/mw_bulletins'),
-   ('CNBC-mkts', CNBC+'20910258'),
-   ('CNBC-fin',  CNBC+'10000664'),
-   ('CNBC-econ', CNBC+'20910258'),
+   # MW-marketpulse DROPPED: live-tested 30 items whose newest pubDate was Jul-2025.
+   # Dead/static feed, not a parser bug — the dates really are a year old.
+   ('CNBC-mkts', CNBC.format('20910258')),
+   ('CNBC-fin',  CNBC.format('10000664')),
    ('SeekAlpha', 'https://seekingalpha.com/market_currents.xml'),
    ('Reuters-biz',GN.format('site:reuters.com+when:1d')),
    ('Bloomberg', GN.format('site:bloomberg.com+when:1d')),
@@ -107,7 +109,7 @@ TIERS = [
    ('YF:META',   YF.format('META')),
  ]),
  ('T2  NETWORKS + GOOGLE  (broad, mixed reliability)', [
-   ('CNBC-top',  CNBC+'100003114'),
+   ('CNBC-top',  CNBC.format('100003114')),
    ('ABC-money', 'https://abcnews.go.com/abcnews/moneyheadlines'),
    ('ABC-intl',  'https://abcnews.go.com/abcnews/internationalheadlines'),
    ('GN-business','https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en'),
@@ -122,6 +124,15 @@ TIERS = [
    ('Fox-biz',   'https://moxie.foxbusiness.com/google-publisher/markets.xml'),
  ]),
 ]
+
+# FEED HEALTH, live-tested from this container 2026-07-29 ~10:50pm PT (fresh = within 10h):
+#   T1  MW-top 10/10 · MW-bulletins 10/9 · SeekAlpha 7/7 (newest 2m) · Reuters 100/41 ·
+#       Bloomberg 100/38 · WSJ 100/39 · FT 100/31 · YF:MU 20/11 · YF:NVDA 20/20 · CNBC 30 each
+#   T2  ABC-money 25/7 · ABC-intl 25/4 · GN-business 26/17 · GN-world 34/13 ·
+#       GN-hormuz 100/47 (newest 12m) · GN-memory 100/10
+#   T3  ZeroHedge 25/20 · Fox-biz 25/1 (low yield, kept for coverage)
+# The Google-News site: queries for Reuters/Bloomberg/WSJ/FT are the T1 backbone — 31-41 fresh
+# items each — because those outlets' own RSS is discontinued or paywalled.
 
 def parse(name, url):
     try:
