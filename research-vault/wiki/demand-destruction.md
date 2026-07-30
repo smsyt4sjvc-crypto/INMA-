@@ -3123,3 +3123,52 @@ Source: `raw/2026-07-30-amzn-aapl-earnings-jake-summary.md`. AAPL FQ3-26 **Great
   weak. (2) A tough prior-year comp inflates the growth rate; **the comp base is not in hand.** (3) Crude
   imports are dominated by **industrial/transport/petchem**, none of which Apple observes.
   **Directional evidence, not a refutation. F13 stays open, weight moved.**
+
+### 2026-07-30 ~4:50pm PT — 🔴 THE GRAHAM ACT PASSES SENATE 86-12 — and it is the **RUSSIA *AND IRAN*** Act
+Source: Jake paste (social-format post) + verification (Congress.gov S.5025, ABC, CNN, The Hill, Senate GOP
+leader). Archived: `raw/2026-07-30-graham-act-senate-vote-post.md`.
+
+### DATA (verified)
+- **Senate passed 86-12** the **"Lindsey O. Graham Sanctioning Russia AND IRAN Act of 2026."** ✓
+- **Graham died in July 2026; the vote followed his funeral at Washington National Cathedral.** ✓
+- Authorizes tariffs **up to 100%** on the **five largest purchasers of Russian oil and natural gas.**
+  **China + India ≈ 70% of Russia's energy export revenue.**
+- **Earlier drafts were 500%**, negotiated down to 100% and narrowed to the largest buyers.
+- **★ Trump DEMANDED the Iran tariff power be added** (The Hill). He had **earlier urged the Senate to
+  POSTPONE** the vote. Zelenskyy appeared at the Capitol around the vote.
+- Mandatory sanctions on Russian leadership, financial institutions, energy sector, evasion networks.
+
+### ★★★ THE VAULT-CRITICAL FACT THE POST OMITTED ENTIRELY: **IRAN IS IN THE BILL'S NAME**
+The pasted post says "Russia Sanctions Bill" throughout and **never mentions Iran once.** This vault's
+registered mechanism, logged weeks ago: **"China is the near-exclusive buyer of sanctioned Iranian crude
+(Shandong teapots)"** and **"tightening US sanctions would close China's discount channel and force its bid
+back to [the seaborne market]."**
+- **⇒ This bill does to RUSSIAN crude what the Iran sanctions did to IRANIAN crude — it closes the discount
+  channel — and it ADDS Iran authority on top, at Trump's explicit demand.** It lands with **Hormuz closure
+  executed in effect** and **Brent ~$90-91.**
+- **🚩 AND IT BEARS DIRECTLY ON F13** (was China's ~40% crude-import cut demand destruction or strategic?).
+  **A China that saw this bill coming had a reason to cut visible Russian/Iranian seaborne intake in
+  ADVANCE.** ⚠️ Speculative — mechanism proposed before measurement, flagged as such per [[_calibration]].
+  **Test: does the cut's TIMING lead the bill's legislative milestones?** That is checkable.
+- 🟡 `[ODDS-SHADER]` on the oil fuse, **not** 🔴 on the marker: **authority granted ≠ tariffs imposed.**
+  Still needs House passage, signature, and then USE. **WARNING-vs-TRIGGER: this is a state, not a date.**
+
+### ⚠️ THE POST IS WRONG ON THE ONE THING IT CALLS "THE CRITICAL DETAIL BEING BURIED"
+| | claim |
+|---|---|
+| **The post** | exemption for countries importing **"less than 15% of THEIR natural gas from Russia"** |
+| **The bill** | exemption where the country's purchases are **< 15% of RUSSIA'S TOTAL gas EXPORTS** |
+
+**Different denominator, opposite test.** The post's version measures the **buyer's dependency**; the bill
+measures the **buyer's share of Russia's export book.** **Under the post's reading, India diversifying to "41
+countries" helps it qualify. Under the actual text, buying more gas elsewhere does nothing** — only cutting
+absolute Russian volume moves the ratio. **The post's error makes India look far more exemptible than the
+statute does, on the single point it claims to be uniquely revealing.**
+- **🚩 F15 (OPEN, and possibly the real story):** **the exemption is keyed to NATURAL GAS; the target list is
+  keyed to OIL *and* GAS. India's Russian exposure is overwhelmingly CRUDE, not gas** (no pipeline). **Does a
+  gas-share exemption spring a country whose exposure is oil?** If yes, India may have a technical off-ramp
+  that has nothing to do with diversification — which would explain the "quiet, calculating" posture better
+  than the post's version does. ⚠️ **Requires the bill text. Not resolved.**
+- *(source grading)* **Accurate on both easily-checkable headline facts (86-12, the funeral) and wrong on the
+  proprietary-sounding "buried detail."** That shape — **verifiable scaffolding around a manufactured
+  insight** — is the signature to watch for ([[_assumption-filters]], narrative-tiers).

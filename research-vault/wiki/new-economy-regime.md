@@ -2018,3 +2018,35 @@ Resolved on re-ask in **two web searches**; it was checkable the whole time.
   statute.** Same epistemics as the volume-step finding (*"a spike is a market event; a STEP is a source
   change until proven otherwise"* — [[_calibration]]). **The rule now has two independent confirmations in
   unrelated domains.**
+
+## 2026-07-30 ~4:50pm PT — "SEEMS INFLATIONARY" (Jake, on the Graham Act) — yes, and it is the WRONG KIND
+Jake's read on the 86-12 Senate passage. **Directionally right; the channel he is pointing at is the weaker one,
+and the strong one cuts against his own Fed thesis.**
+
+- **★★ WHERE HE IS RIGHT, AND MORE RIGHT THAN HE ARGUED — the OIL channel, not the tariff channel.** Forcing
+  China and India off Russian **and Iranian** crude **closes the discount channels** and pushes ~70% of
+  Russia's energy customer base back into the **seaborne market.** The vault already concluded this mechanism
+  tightens the market ([[demand-destruction]]). **That is a genuine, fast, price-level-raising channel and it
+  can move on headlines, not on implementation.** Stacks on Goldman's **memory/electronics +0.5% to CORE CPI**
+  and Brent ~$90.
+- **★★★ BUT "INFLATIONARY" AND "HIKE-INDUCING" ARE DIFFERENT, AND WARSH DREW THE LINE EXACTLY BETWEEN THEM
+  YESTERDAY.** The 7/29 statement: *"Inflation remains elevated... in part reflecting **SUPPLY SHOCKS** that
+  have driven price increases in certain sectors, including **ENERGY**."* **A tariff is the single most
+  textbook look-through-able supply shock there is, and an oil-price rise is the one this committee named in
+  writing.** ⇒ **This raises CPI in precisely the category the Fed has pre-declared it will ignore.**
+  **⛔ THIS IS A TENSION INSIDE JAKE'S OWN BOOK: it is bullish for his inflation read and BEARISH for his hike
+  thesis, simultaneously.** The hike case needs inflation the Fed *cannot* dismiss — which is why the **memory
+  50bp on CORE** is the better card than tariffs or oil.
+- **⚠️ AUTHORITY IS NOT ACTION (WARNING-vs-TRIGGER).** The post's own words: *"a loaded gun... safety still
+  on."* Needs House + signature + a decision to USE it. **And Trump earlier urged the Senate to POSTPONE this
+  vote, then demanded Iran power be added** — a transactional posture, not an eager one. **A president who
+  wants a bill on his desk does not ask for a delay.** The exemption architecture also means the bill
+  "succeeds" if **nobody pays the tariff** — it is a compliance instrument, not a revenue one.
+- **⚠️ THE COUNTER-CHANNEL: a 100% tariff is a real-income shock.** Tariffs historically print as a **one-time
+  price-LEVEL shift, not sustained inflation**, and the demand destruction is disinflationary at the margin.
+  **India supplies roughly half of US generic prescriptions** — the most politically explosive possible
+  passthrough, and therefore the most likely to be carved out. *Carve-outs are the base case for visible
+  consumer categories.*
+- *(timing, descriptive — [[portfolio-state]])* House + signature + use + effect + passthrough = **quarters.**
+  **The tariff channel is outside a Dec-18 window; the oil channel is not.** If Jake wants this to matter to
+  the December put, **it matters through Brent, not through the tariff.**
