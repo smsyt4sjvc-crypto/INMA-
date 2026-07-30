@@ -124,6 +124,11 @@ financial-wire → networks/Google → fast-and-opinionated. **Every hit prints 
 its keyword came FROM**, because a hit is evidence for or against a named thesis, not news — an unrouted hit is
 a skipped relevance check).
 
+**`glp1-wardrobe-cycle.md`** — Jake's GLP-1 apparel question, worked: the weight-loss-indication map
+(MA/NJ/DE/NH/VT) is NOT the total-GLP-1 map (KY/WV/MS/LA), and it runs ANTI-correlated to early school
+starts. What survives is transitional sizing (off-price + resale) and a timing variable that is the
+GLP-1 new-start curve lagged two quarters, not the school calendar.
+
 ## 🎯 Predictions (`predictions/`) — the calibration engine
 Nightly point + 80% range + direction + kill-switch for the core five; graded next session → `_scoreboard.md`.
 
