@@ -186,3 +186,64 @@ Secondary: **units per transaction and TRAFFIC vs TICKET.**
   Adjacent, sizing-dependent and repeat-purchase: **intimates/bras**, where fit is the product.
   ⚠️ **Descriptive only — and note a short carries the mirror risk: a small-cap single name with a crowded,
   well-known story and borrow cost, which is a different risk profile from a call on a mega-cap retailer.**
+
+## 2026-07-30 ~5:55am PT — ⛔ I WAS WRONG ABOUT THE SOURCING: the primary documents arrived and two of my "unverifiable" flags are verbatim in a USDA memo
+
+Jake sent his **original February file**, the derived table, and **the USDA source**. Archived:
+`raw/2025-12-30-usda-fns-snap-food-restriction-waiver-compliance-memo.txt`,
+`raw/2026-02-03-jake-glp1-catalyst-map-ORIGINAL.csv`, `…-DERIVED-TABLE.csv`.
+
+### ⛔ THE CORRECTIONS I OWE — the provenance one first, because it was an accusation
+- **I said the table had "the signature" of an LLM confabulation and called it "the third artifact tonight."**
+  **He wrote it, in February, from primary sources.** **That was a provenance accusation and it was wrong.**
+  Pattern-matching a human's sourced work to the failure mode of two bad digests earlier the same night is
+  exactly the error the [[_calibration]] file warns about: **a frame that explains what you see also determines
+  what you look at.**
+- **I said "18 states" was unverifiable.** **USDA FNS memo, 2025-12-30, verbatim: "As of December 30, 2025, FNS
+  has approved 18 State agency requests to implement a SNAP Food Restriction Waiver."** Exact.
+- **I said the April 1 grace-period date was unverifiable.** **It is the memo's OWN WORKED EXAMPLE:** *"if a
+  State agency's implementation… begins on January 1, 2026, the one-time grace period begins on this date and
+  ends April 1, 2026."* **He did not approximate it — he read it out of the source.**
+
+### ★★★ WHAT THE PRIMARY DOCUMENT ADDS THAT NEITHER OF US HAD USED
+- **THE ENFORCEMENT HAS REAL TEETH.** 90-day grace → **first offence Warning Letter** → **second offence
+  INVOLUNTARY WITHDRAWAL from SNAP authorisation** (7 CFR 278.1(l)(1)(i)). **ROC runs UNDERCOVER
+  INVESTIGATIONS beginning 90 days after each implementation date**, and retailers must re-tool POS.
+  **A non-compliant store loses SNAP acceptance entirely.** That is a materially harder mechanism than
+  "junk food ban."
+- **★★ THE WAREHOUSE PROVISION IS THE SHARPEST ITEM IN THE MEMO AND IT CUTS AGAINST HIS OWN LOGISTICS ROW.**
+  Walk-in stores restrict by **store address**; **warehouse-fulfilled online orders restrict by the EBT card's
+  STATE, via BIN** — so **national online fulfilment must comply with MULTIPLE states' waivers at once,
+  per-order.** **That is a compliance burden falling hardest on Amazon/Walmart e-commerce**, which is the
+  opposite of the frictionless "official rails" framing in his LillyDirect row.
+
+### ★★★ AND THE STRONGEST ITEM IS ONE I HAD NOT SEEN — the $149 was PREDICTED, not observed
+His **original** file (not the derived table) carries: **"Policy, Price Cap Agreement, 2025-10-01, $149/month
+oral pill deal in exchange for 3-year tariff relief."** **Written into a file dated 2026-02-03.**
+**Actual outcome: Wegovy pill launched at $149/mo cash; orforglipron self-pay $149/mo. BOTH.** **He had the
+mechanism (MFN/tariff-relief pricing deal) AND the exact number, months ahead of the Lilly launch.** That is
+the single best call in the document and it is sourced to a policy agreement, not a guess. **Also note the
+"27-29 BMI range" detail — he was modelling WHERE ON THE CURVE the wardrobe demand sits, not merely that
+people lose weight.**
+
+### WHAT REMAINS WRONG — and the original is cleaner than the summary of it
+- **PDUFA 2026-04-10 vs actual approval 2026-04-01.** Nine days, and **the FDA came in EARLY.** Right window.
+- **⭑ THE ONE OMISSION THAT COST HIM: the Wegovy pill.** His explanation is fair — in February it had already
+  launched and he was mapping *forward* catalysts. **But the cohort clock runs off the JANUARY 5 launch, and
+  his map is anchored to the APRIL approval.** **That is precisely why "Re-Wardrobing Peak 2026-04-15" was too
+  early: anchoring to Lilly instead of carrying Novo's already-live cohort forward.** **Carry the January
+  launch at a 4–8 month lag and the peak lands JULY–AUGUST 2026 — i.e. now.** **The map was right and the
+  clock was set from the wrong starting gun.**
+- **The SNAP→weight conflation is in the DERIVED table, NOT the original.** Original: *"SNAP Grace Period Ends
+  → hits Dollar General revenue"* and separately *"Re-Wardrobing Cycle → mass weight loss."* **Two rows, two
+  mechanisms.** The summary fused them into *"mass weight loss from SNAP diet and oral pills."* **His original
+  reasoning was cleaner than the table I criticised.** ⚠️ **The substitution objection still stands against the
+  fused version: restricting EBT purchase of candy moves the payment method, not the consumption.**
+- **"Amazon and Walmart exclusive" remains unverified** — and the memo's BIN provision argues the other way.
+
+### ★★ THE LESSON THAT SURVIVES FOR THE TRADE, and it is the same one as the August calls
+**He was right in February and did not buy it.** **ROST is at a 52-week high today — the DIRECTION paid.**
+⚠️ **But whether a February call paid depends entirely on its EXPIRY: a right thesis inside a wrong expiry is
+a loss.** **That is the identical mechanic flagged on the August-21 calls, where the print lands the night
+before expiry.** **The thesis and the instrument are two separate bets and only one of them was ever in
+doubt.**
