@@ -2654,3 +2654,57 @@ conventions — so I am NOT computing a headline GDP figure and the digest's −
 - *(★ the peg, noted as a state not a trigger)* Inflation contained ~1.7–2.2% via subsidies and the dollar peg.
   **The peg imports US monetary policy: a 30Y at 5.14% and a Fed not cutting means tightening into a GDP
   contraction.** A stress point to watch, not a call. **Per the WARNING-vs-TRIGGER rule this is a STATE.**
+
+## 2026-07-30 ~2:25am PT — JAKE'S HIDDEN-SHORTAGE THESIS, STRESS-TESTED (user's thesis — interpretation, not fact)
+
+**THESIS (Jake, user's thesis):** *"A Q2 2027 call on XOM or Brent, when whatever fuckery that's masking this
+shortage — or at least the price — comes off."* Physical crude is tighter than price reflects; something is
+suppressing the print; long-dated optionality survives the wait.
+
+### THE SUPPLY LEDGER THAT SUPPORTS THE PREMISE (all DATA, all logged in this note)
+- **CPC ~1.8 mb/d** offline intermittently since 7/19; Kazakh output more than halved; **re-attacked 7/30.**
+- **Hormuz at historically low flow**, discretionary permission regime, first Qatari LNG in three weeks.
+- **Saudi oil activity −24.7% in Q2**, output cut ~1 mb/d below its decade average.
+- **SPR 307.650M, drawing 5.057 MM/wk (722k bpd).** **US commercial inventories drawing.**
+- **Brent $92.20.** **That is a great deal of supply removed for a $92 print, and the premise deserves the
+  weight Jake is giving it.**
+
+### WHERE THE THESIS IS WEAKEST — and it is not the direction, it is the WORD "MASKING"
+- *(⛔ I HAVE NAMED AN ABSORBER TWICE AND BEEN WRONG TWICE — discount a third mechanism claim from me heavily)*
+  **(1)** The toll/administered framing — explained one leg of a two-leg outage. **(2)** OPEC+ spare capacity —
+  **Saudi was contracting 24.7% in the same quarter.** **"Masking" is a mechanism claim. Name the mask and it
+  becomes testable and DATABLE; leave it unnamed and the reveal has no date — and an option needs a date.**
+- *(★★★ THE STEELMAN AGAINST, and it is the one this note has never run)* **Maybe nothing is masking it.** This
+  vault has run supply almost exclusively. **If demand is genuinely weaker — Goldman's 0.8pp Q2 GDP cut, six
+  weeks of elevated freight rationing marginal barrels, China — then $92 against that supply loss is a BALANCE,
+  not a suppression.** **In that world there is no reveal, because there is no hidden shortage: supply and
+  demand contracted together.** Registered as the primary competing hypothesis and **the vault has no demand
+  data adequate to reject it.**
+- *(★★★ THE EXPIRY/CATALYST MISMATCH — every registered trigger fires BEFORE Q2 2027)* **SPR to 300M ≈ 2026-08-09;
+  275M ≈ 09-13; 250M ≈ 10-17; 240M ≈ 10-31.** **Tokayev's US visit: weeks.** **OPEC+ decisions: monthly.**
+  **Hormuz permission: daily.** **If the SPR IS the mask, the reveal is Q4 2026 — the drawdown cannot run to
+  Q2 2027 at this rate without going through levels the DOE has historically defended.** **A thesis whose
+  catalysts are Q3–Q4 2026 expressed in Q2 2027 is paying for time it may not need.** The legitimate case for
+  the far date is survival — these situations always take longer — **but that is a vol/carry judgement, and
+  the input for it is the one number nobody in this vault has: long-dated Brent IMPLIED vol vs realised, and
+  the shape of the vol term structure.** ⚠️ **Not held. Do not size on a curve nobody has looked at.**
+- *(★★ XOM AND BRENT ARE NOT THE SAME TRADE — descriptive, not advisory)* **An integrated is long crude upstream
+  and SHORT crude downstream:** a supply-driven spike compresses refining margin and raises chemical feedstock
+  cost. **XOM's crude beta is well under 1 and it DEGRADES in precisely the scenario the thesis describes** —
+  integrateds underperform pure E&Ps in a supply shock. **XOM is a different thesis (capital discipline,
+  buybacks, Guyana/Permian volume), not a levered crude expression.**
+- *(★★★ THE SCENARIO THAT KILLS IT, and it is registered in this note as of an hour ago)* **Saudi fiscal pain →
+  abandons the ~1 mb/d cut. CPC resolves via the Tokayev channel → ~1.8 mb/d returns.** **That is ~2.8 mb/d
+  capable of returning on POLITICAL decisions rather than on price.** **Both counter-mechanisms have specific,
+  dated triggers. The thesis has an unnamed "fuckery."** **Asymmetry of specificity is the honest scoreboard
+  here, and it currently favours the counter.**
+
+### ★★★ THE ARBITER ALREADY EXISTS AND ITS PRIOR IS AGAINST THE THESIS
+**`tools/crude_curve_cell.py` — the 9-month WTI/Brent calendar-spread cell, built as "the physical-shortage
+arbiter," and it INVERTED the Hormuz absorption hypothesis the last time it ran.** **A genuine physical
+shortage shows up in BACKWARDATION before it shows up in flat price** — the front bid over deferred is the
+market paying for prompt barrels. **Steep, deepening backwardation with a dead flat price IS the mask thesis
+with evidence. A flat or contango curve means there is nothing hidden — the market is telling you it is
+balanced, and the reveal never comes.** **Re-run it before anything else. It settles the premise, and it costs
+one cell.** Secondary reads: **Brent–Dubai EFS** (light-sweet premium from the CPC Blend loss) and
+**Brent–WTI ~$7** (waterborne premium). [[oil-value-chain]], [[portfolio-state]].
