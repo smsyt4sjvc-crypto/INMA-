@@ -1930,3 +1930,31 @@ then Europe.
   **So Situational Awareness alone could be a THIRD TO A HALF of this record bar.** ⚠️ **I do not have GS's
   gross MV and this is arithmetic on an assumption — but if roughly right, the "record" is substantially ONE
   FUND, and that fund has now exited.** **Which is testable: the next 3-day print should normalise sharply.**
+
+## 2026-07-30 ~11:15am ET — THE KOREA SYMMETRY: not cross-contamination, SHARED CROWDING — and it is a better version of the circularity thesis
+
+**The observation (via ZH replies):** *"We had a South Korean blowing up American markets, and now an American
+blowing up South Korean markets."* **Hwang/Archegos 2021 (TRS) ↔ Aschenbrenner/Situational Awareness 2026.**
+
+- *(⚠️ THE CAUSALITY IN THE JOKE IS WRONG, and this vault already has the decomposition)* **SA's named book is
+  CoreWeave, Nebius, Bloom Energy, crypto miners, power — US-listed.** **Korea's collapse was decomposed here
+  on 7/28 as a DOMESTIC retail-leverage event: 3× single-stock leveraged ETFs bought with MORTGAGE LOANS, −80%
+  in under two months, with the finance minister apologising for authorising them.** **Won-denominated
+  leverage against won-denominated collateral never touched FX — which is why a −34% index sat alongside a
+  +6.7% currency.** **Korea blew up Korea.**
+- *(★★★ BUT THE CORRECTED VERSION IS SHARPER THAN THE JOKE — and better supported than the five-fund claim)*
+  **The two blow-ups are not causally linked; they are CROWDED INTO THE SAME UNDERLYING FROM OPPOSITE
+  DIRECTIONS.** **US AI-long funds and Korean retail leveraged ETFs were both levered long the SEMICONDUCTOR /
+  MEMORY complex, and both deleveraged into each other through it.** **That is a real circularity — not
+  fund-to-fund through dealers, but GEOGRAPHY-TO-GEOGRAPHY through a shared position.** ⚠️ **And unlike the
+  "five hedge funds with TRS at dealers" claim, BOTH SIDES of this one are DOCUMENTED: the Korean ETF cascade
+  with an official apology, and SA with WSJ/Bloomberg/CNBC confirmation.**
+- *(⚠️ THE TESTABLE PIECE, and the instrument cannot answer it)* **Did SA hold Korean names at all?** **A 13F
+  would not show it — SK hynix has no 13F-reportable US line and Samsung trades as a GDR.** **So the direct
+  link is untestable from filings, which is itself the answer: the connection runs through the TRADE, not
+  through the holdings.**
+- *(★★ AND THE DECISIVE QUESTION REMAINS UNANSWERED AFTER AN HOUR OF COVERAGE)* **No dealer has disclosed a
+  loss.** **In Archegos, Credit Suisse and Nomura disclosed within days and their SHARE PRICES moved within
+  hours.** **A feed full of takes with no dealer disclosure and no prime-broker equity break is itself a
+  datum** — it is the difference between a fund failure and a systemic event, and so far only the first is
+  evidenced. [[ai-financing-fragility]].
