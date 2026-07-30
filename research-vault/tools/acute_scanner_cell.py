@@ -171,10 +171,13 @@ WATCH = [
       q='SK hynix Q2 miss MAGNITUDE, and Micron CEO sale size + 10b5-1 status. A CEO sale without '
         'size, plan status and prior cadence is not evidence.',
       pat=r'(hynix.{0,40}(miss|consensus|target|guidance|shortfall)|10b5|mehrotra|(insider|ceo).{0,20}(sold|sale|selling))'),
+ # F11 CLOSED 07-30: cap SPX -2.32% MTD vs EW SPX +1.39% -- inversion confirmed, and the
+ # EW-vs-cap test returned the OPPOSITE sign from my prediction (damage is in the mega-caps,
+ # not the crowded tail). Replaced by the live containment trigger, which is now a PRICE.
  dict(id='F11',pri=1, note='market-fragility',       since='07-30',
-      q='Cap-weighted SPX month-to-date, and whether EW S&P holds its all-time high. EW SPX at a '
-        'record while NDX falls means money is ROTATING, not leaving — the containment case. '
-        'EW SPX losing that high is the trigger that kills it.',
+      q='CONTAINMENT KILL SWITCH: does RSP close below 212.77 (the 2026-06-30 close, -2.3% from '
+        'the 07-28 ATH) while NDX keeps falling? That is the average S&P stock giving back all of '
+        'July -- rotation has become a broad de-rate. Currently 215.73, -1.37% away.',
       pat=r'(equal.?weight|equal.?weighted|breadth|rotation|rotat\w+ out|average stock|rsp\b|advance.decline)'),
  dict(id='F10',pri=3, note='ai-capex-cycle',         since='07-30',
       q='Zhongji InnoLight break SIZE and terms, and whether other AI-supply-chain deals are pulled. '
