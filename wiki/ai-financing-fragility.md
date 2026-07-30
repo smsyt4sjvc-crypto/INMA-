@@ -2388,3 +2388,53 @@ across multiple dealers in the same quarter is the Archegos signature** — that
 was reverse-engineered after the fact. **A flat or gradually rising dealer line is inventory. A step-change
 across five or six dealers at once is a swap book.** **That comparison costs one keystroke and it is the
 difference between a screenshot and a finding.**
+
+## 2026-07-30 ~11:30am ET — ★★★ THE HISTORICAL TAB: EVERY TOP-28 HOLDER ADDED, DEALERS LED, AND SEVEN POSITIONS CAME FROM ZERO
+
+**DATA (Bloomberg HDS, SNDK, sorted by Latest Chg):** **All 28 of the top 28 changes are POSITIVE. Not one
+net seller in the top 30.**
+
+| bucket | shares added | % of shares out |
+|---|---|---|
+| **DEALERS + MARKET MAKERS** | **8,748,229** | **5.91%** |
+| index / passive | 3,373,218 | 2.28% |
+| other funds | 3,540,603 | 2.39% |
+| **dealer : passive ratio** | **2.59×** | |
+
+**Multiples on implied prior positions:** **HRT 66,060 → 892,172 = 13.5×. SIG 113,382 → 986,344 = 8.7×.
+Goldman 658,656 → 2,042,540 = 3.1×.** Jane Street 2.1×, SG Americas 2.1×, Credit Agricole 1.8×, JPMorgan
+1.6×, BNP 1.5×, UBS 1.5×.
+**FROM ZERO:** **Clear Street 1,224,583 · Anther Capital 889,568 · Assenagon 621,849 · Marex UK 554,438 ·
+Wells Fargo 309,105 · Holocene 305,770 · Appaloosa 281,250.**
+
+- *(★★★ THIS IS THE PATTERN I NAMED IN ADVANCE AS THE DISCRIMINATOR)* One message earlier: *"a SIMULTANEOUS
+  JUMP across multiple dealers in the same quarter is the Archegos signature… flat or gradually rising is
+  inventory; a step-change across five or six dealers at once is a swap book."* **Goldman, Clear Street, Jane
+  Street, SIG, HRT, JPMorgan, TD, SG Americas, BNP, Credit Agricole, HSBC, UBS and Wells Fargo ALL stepped up
+  in the same period.** **Thirteen dealers and market makers, one quarter, one name.** **Jake's TRS thesis
+  now has its first piece of genuine positional evidence, and it is not from ZeroHedge.**
+- *(★★★ THE MARKET-MAKER MULTIPLES ARE THE SHARPEST PART)* **HRT 13.5× and SIG 8.7× are not inventory
+  patterns.** **A market maker is structurally supposed to be FLAT — it warehouses risk transiently.**
+  **Holding an 8–13× larger position across a reporting date means the risk was not transient: it was
+  HEDGING something with duration.** **That is exactly what a swap hedge looks like and exactly what
+  inventory does not.**
+- *(⚠️ THE COMPETING EXPLANATION, and it is strong — INDEX INCLUSION or a SPIN-OFF)* **Direct evidence of an
+  index event is on the screen: a "Victory NASDAQ-100 INDEX FUND" line, plus Geode, State Street, Exchange
+  Traded Concepts and Voya all adding.** **And SanDisk was separated from WESTERN DIGITAL — which still
+  appears as a 13G holder — so a recent spin-off would make many positions new BY CONSTRUCTION.**
+  **⭑ BUT THE RATIO ARGUES AGAINST BOTH BEING THE WHOLE STORY: dealers and market makers added 2.59× what
+  index and passive added.** **In a pure index-inclusion event passive should DOMINATE, and market makers
+  should FACILITATE the rebalance and end up FLAT — not holding 8–13× more across the date.**
+- *(★★ AND SEVEN FROM-ZERO POSITIONS INCLUDE DISCRETIONARY FUNDS, which is not mechanical)* **Appaloosa
+  (Tepper), Holocene and Castle Hook initiating new positions is FUNDAMENTAL buying, not index plumbing.**
+  **A spin-off or index add does not make Tepper open a position.**
+
+### ⚠️ WHAT THIS STILL DOES NOT SHOW — stated so the finding is not over-read
+1. **The reporting period is not labelled on this view.** **"Latest Chg" is filer-dependent; get the AS-OF
+   dates before assigning this to a quarter.** ⚠️ **If it spans the spin-off, the whole picture changes.**
+2. **It still cannot separate a swap hedge from inventory ON ANY SINGLE LINE.** **The evidence is the
+   SIMULTANEITY and the market-maker MULTIPLES, not any one holder.**
+3. **It is stale.** These are filing-date positions; the July collapse is not in them.
+4. **⭑ THE ONE STEP THAT WOULD CLOSE IT: run the same Historical screen on MU, and on hynix/Samsung proxies.**
+   **If the SAME dealer set stepped up in the SAME period across the memory complex, that is a book, not a
+   stock.** **If it is only SNDK, it is a name-specific event — index, spin-off, or a single client.**
