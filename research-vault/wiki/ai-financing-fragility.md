@@ -1960,3 +1960,47 @@ forecasts**, **lowest free cash flow in years**. **HY spreads +7bps to their wid
   parties' words, and this vault has a measured answer neither of them used: cap indices peaked 06-02, EW S&P
   07-28 — the rotation is EIGHT WEEKS old and the de-gross is a spike on top of it.** Both JPM and its critic
   are arguing about the spike while ignoring the base flow.
+
+## 2026-07-30 ~10:10am ET — ⚠️ "ARCHEGOS 2.0" (Jake): the supporting document is a 5-day-old TAUNT with no evidence in it, and my own T1 tooling returns a systematic negative
+
+**JAKE (user's thesis):** *"SA is just the first. Prelim analysis shows there are at least 5 hedge funds with
+massive TRS exposure at Dealers to memory/momentum stocks. This now becomes a circular liquidation squad."*
+**Supporting item supplied: @zerohedge, 5 days old — *"ok Archegos 2.0... you can come out now."***
+
+- *(⚠️ THE SOURCE CONTAINS NO EVIDENCE)* **"You can come out now" is a victory lap on a prior call, not
+  analysis.** It names no fund, no dealer, no notional, and no mechanism. **T3 by this vault's own tiering
+  (*speed over neutrality — verify before weighting*), and ZH's base rate on "Archegos 2.0" calls specifically
+  is poor — they have made it repeatedly since 2021.** ⚠️ **Its one useful property: it is dated ~July 25,
+  BEFORE Goldman's "day 3 / largest 3-day de-gross since Nov '22" comment on the 29th — so it is not a
+  post-hoc explanation.**
+- *(⚠️ "SA" IS UNIDENTIFIED — asked twice, then searched, and still unresolved.)* **Not guessing a fund name.**
+- *(★★ AND MY OWN TOOLING RETURNS A SYSTEMATIC NEGATIVE, which is the most useful thing I can add)* **The
+  acute scanner ran THREE times last night across Reuters, Bloomberg, WSJ and FT with a FINANCING thread
+  carrying `neocloud`, `private credit`, `cds`, `spv`, `bond sale`, `free cash flow`.** **Open flag F8 —
+  the named neocloud/financing casualty — reported "NO CANDIDATE THIS WINDOW" on every run.** **A hedge fund
+  failing with dealer TRS exposure is T1 wire news within hours; it would also be in the dealers' share
+  prices.** **Absence across three T1 sweeps is not proof, but it is a systematic negative from tooling built
+  for exactly this question, and it outranks a taunt.**
+- *(★★★ WHAT IS ACTUALLY CONFIRMED, and it is not nothing)* **Korea's single-stock leveraged ETFs: −80% in
+  under two months, bought on mortgage loans, with the FINANCE MINISTER APOLOGISING for authorising them.**
+  **That is a documented forced-liquidation event with an official admission.** **So the MECHANISM exists in
+  at least one venue — the open question is whether it extends to US dealer swap books, not whether forced
+  selling is real.**
+- *(★★ AND JAKE'S READ EXPLAINS ONE THING BETTER THAN MINE DID — conceded)* I filed the memory/semis split
+  (**SOX +3.2% while memory fell; Samsung down on a 250-FOLD profit rise**) as *the market refusing to
+  capitalise peak cyclical earnings.* **That is weak, because a multiple-derate should hit semis too and semis
+  rallied.** **A cohort falling while its own end-market rises is the signature of FORCED SELLING.** His
+  hypothesis fits that tape better than mine.
+- *(⚠️ THE COUNTER TO HOLD: Archegos was a circular liquidation AND it was contained)* Five dealers, same
+  names, none able to see the others, ~$10bn of dealer losses — **and the S&P did not blink, because it was
+  concentrated.** **EW S&P is at an all-time high right now.** **"Circular liquidation" and "contained sector
+  event" are not alternatives; Archegos was both.**
+
+### THE BETTER THREAD TO PULL — a rating agency, not a taunt
+**S&P has published a warning on bank counterparty exposure to hedge funds — "four banks, eight times
+leverage."** ⚠️ **Date and details not verified; that is the item to get, because it is a systemic-risk
+assessment from a rated source rather than social-media rhetoric.**
+**And the live public tell remains DEALER EQUITIES: in 2021, Credit Suisse and Nomura shares broke BEFORE
+either disclosed anything.** **Free, real-time, and it does not require knowing which funds.** Secondary:
+**block trades printing at discounts in MU / SNDK / hynix ADRs** — the actual mechanism of a forced unwind,
+visible on the tape.
