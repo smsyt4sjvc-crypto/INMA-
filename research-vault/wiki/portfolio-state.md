@@ -525,3 +525,46 @@ supplied, every bracket collapses and **the conclusion inverts.** Prior text kep
   robust across the whole range. (2) **5-month SPY IV of 15.7% is LOW for a tape that just moved ±2% on
   consecutive days.** Realized is running far above implied. That is the `vix_term_structure_cell.py`
   question, now with a live data point, and it belongs in [[market-fragility]].
+
+### 2026-07-30 3:20pm PT — ✅ CLOSED: Jake "pretty sure it was ATM when I bought." System fully determined.
+Entry spot 745 + entry price $33.3667 + 189 DTE ⇒ **entry IV solves uniquely at 18.3%.** No free parameters
+left. This supersedes BOTH entries above (kept visible, rule 4) and is the final read.
+
+| | date | spot | DTE | price | IV | intrinsic | extrinsic |
+|---|---|---|---|---|---|---|---|
+| ENTRY | Jun-12 | **745 (ATM)** | 189 | 33.37 | **18.3%** | **0.00** | **33.37** |
+| NOW | Jul-30 | 742 | 141 | 26.11 | **15.7%** | 3.00 | 23.11 |
+
+**THE 48-DAY ATTRIBUTION** (sequential; reverse order gives the same answer to 0.03pts — interaction is nil):
+
+| step | $ |
+|---|---|
+| 1. SPOT 745 → 742 | **+130** ← direction HELPED |
+| 2. TIME 189d → 141d | **−381** |
+| 3. VOL 18.3% → 15.7% | **−474** |
+| **TOTAL** | **−726** (screen: −725.67) |
+
+- **⛔ CORRECTS THE 3:09pm ENTRY ON TWO COUNTS.** "Wrong on direction" — **wrong**: SPY fell 3 points, direction
+  contributed **+$130**. "Extrinsic rose $188" — **wrong**: extrinsic drained **$33.37 → $23.11 = −$1,026.**
+  Both errors trace to one bad assumption (entry IV = today's 15.7%), which the ATM anchor now kills.
+- **★★★ THE DAY AND THE POSITION ARE DIFFERENT QUESTIONS AND BOTH ANSWERS STAND.**
+
+  | | spot | vol | time |
+  |---|---|---|---|
+  | THE DAY (−805) | **−789** | −16 | — |
+  | THE POSITION (−726) | +130 | **−474** | −381 |
+
+  **The −$805 session was ~all delta. The −$726 position is ~all extrinsic.** I flipped between these as if
+  one had to be false. Neither is. *This is the actual resolution of the whole thread.*
+- **★★★ THE ATM FACT, which is the transferable lesson: an ATM option is 100% EXTRINSIC.** He paid $33.37 for
+  **zero intrinsic** — pure time-and-vol premium, no cushion. ATM is simultaneously the peak of gamma, vega
+  AND theta on the strike ladder. **Buying ATM is buying the most expensive optionality per unit of intrinsic
+  that exists**, and it maximises exposure to exactly the two things that then went against him.
+- **★★ THE SYMMETRIC HALF (descriptive, rule 7).** Vega **$182/pt**. **The entire −$474 vol loss reverses on
+  ~2.6 IV points with spot unchanged** — i.e. on implied merely returning to where he bought it. He is now
+  long a marked-down vol position as well as short SPY. Theta −$7/day, 141 days, breakeven SPY < **711.63**
+  (−4.09%).
+- **⚠️ AND THE ANOMALY WORTH CHASING.** Implied on his strike is **15.7%** while the last two sessions ran
+  **−1.9% and +2.2%** — those annualise to roughly **30–35%.** n=2 so it is not a measurement, but implied at
+  half of realised on a 5-month tenor is the exact configuration `tools/vix_term_structure_cell.py` was built
+  to arbitrate. **Escalated to [[market-fragility]] as a live, dated data point.**
