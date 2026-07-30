@@ -1821,3 +1821,24 @@ called energy a supply shock to look through; the June data says it was falling.
   bad number and is withdrawn.**
 - *(the 30Y call reverts to its original terms)* **Soft-but-positive core plus a 50bp GDP miss — front end
   richer, 30Y flat-to-cheaper, 2s30s steeper if the long end is trading credibility rather than data.**
+
+## 2026-07-30 ~9:05am ET — ⚠️ A REAL ALTERNATIVE TO MY OWN 30Y CALL: the long end may be FORWARD-looking, not credibility-driven
+
+**Jake's timing point — June quiet, July escalating — supplies a competing explanation I should have generated
+myself.** I framed the 30Y's refusal to rally as **credibility**: the market doubts Warsh's willingness to
+fight inflation, so good data does not help. **But June PCE is BACKWARD-looking and the long end is
+FORWARD-looking.** **If July energy is materially higher than June, the bond market may be pricing the JULY
+and AUGUST prints that this release does not contain — which is not a credibility story at all, it is an
+ordinary forward-pricing story.**
+
+- **BOTH EXPLANATIONS PREDICT THE SAME THING TODAY** — a soft June print that fails to rally the long end.
+  **So today's tape CANNOT discriminate between them, and I should stop treating the outcome as a test of my
+  framing.** ⚠️ **My registered call may be "right" for a reason that has nothing to do with why I made it.**
+- **THE DISCRIMINATOR THAT WOULD SEPARATE THEM:** **credibility** implies the long end stays cheap even when
+  forward inflation expectations FALL; **forward-pricing** implies it tracks them. **Watch 5y5y breakevens and
+  the 30Y together: if breakevens fall and the 30Y does not follow, it is credibility. If they move together,
+  it is data.** **Registered as the actual test — today's print is not one.**
+- **AND IT SHARPENS THE THREE DISSENTS.** Hammack, Kashkari and Logan wanted a hike into a quarter whose
+  energy was FALLING. **If July energy reverses that, the dissenters look prescient by September rather than
+  hawkish-for-its-own-sake** — which is a different reading of the most-since-1970 record than either of my
+  previous two. [[demand-destruction]].
