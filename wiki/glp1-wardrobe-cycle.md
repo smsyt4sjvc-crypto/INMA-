@@ -102,3 +102,56 @@ Links: [[consumption-vs-investment-crux]], [[retail-edge]], [[trade-down-landing
   its start.** ⚠️ **But do NOT convert that into a warning: this vault's own [[buying-at-highs]] and
   [[ath-clustering]] work says new highs carry POSITIVE base rates and are not a sell signal.** **Mature ≠
   over. Both statements hold and the note should carry both.**
+
+## 2026-07-30 ~5:10am PT — ⛔ JAKE IS RIGHT AND MY GEOGRAPHIC CORRECTION WAS WRONG: the ORAL approvals reset the whole thesis
+
+**Jake:** *"The thesis isn't new. The oral pills FDA approved early 2026 are."*
+
+### DATA (verified)
+| | approved | launched | price |
+|---|---|---|---|
+| **Wegovy pill** (oral semaglutide 25mg, Novo) | **2025-12-22** | **2026-01-05** | **$149/mo** cash starting dose; 9mg/25mg **$299**; insured co-pay **~$25**; **70,000+ pharmacies** (CVS, Costco) |
+| **Foundayo** (orforglipron, Lilly) | **2026-04-01** | LillyDirect **2026-04-06** | self-pay **$149/mo**; some insured **$25/mo**; **Medicare Part D $50/mo from 2026-07-01** |
+
+**Efficacy: oral semaglutide 16.6% mean weight loss at 64 weeks (full adherence); orforglipron up to 12.4%
+(~27 lb) at 72 weeks.** **Orforglipron is a SMALL MOLECULE with no food/water/timing restrictions.**
+
+### ★★★ THE TIMING IS THE FINDING, and it is now
+**This note's own stated lag: wardrobe replacement runs 4–8 months after initiation.**
+- **Wegovy pill launched 2026-01-05 = 6.8 MONTHS AGO. The first mass-market oral cohort is in the DEAD CENTRE
+  of the replacement window RIGHT NOW.** At ~7 months into a 16.6%-at-64-weeks curve they are roughly 10–12%
+  down — **two-plus sizes, which is the wardrobe-forcing point.**
+- **Foundayo launched 2026-04-06 → its cohort enters the window AUGUST 2026 and runs into 2027.**
+- **Two waves, both dated, and the first one is landing this month.** **That is the part that is new — not the
+  thesis, the COHORT CLOCK.**
+
+### ⛔ AND IT INVERTS THE GEOGRAPHIC CORRECTION I GAVE HIM
+I told Jake the weight-loss-indication map was **Northeast (MA/NJ/DE/NH/VT)**, not the South, and that his
+intuitive Southern answer was the wrong distribution. **That map was an ARTIFACT OF THE OLD COST STRUCTURE.**
+The Northeast skew existed because weight-loss GLP-1s required **$1,000+/month, prior authorisation, cold
+chain, and constrained injector fill-finish capacity** — so uptake tracked **coverage and affluence**, not
+obesity.
+
+**The orals demolish every one of those constraints: $149 cash, $25 insured, $50 Medicare from July 1, 70,000+
+retail pharmacies, no cold chain, and — for orforglipron — small-molecule manufacturing with no peptide
+capacity ceiling.** **So the two maps CONVERGE toward where the obesity actually is: KY, WV, MS, LA, AL.**
+**Jake's original instinct was right; my correction was built on a distribution that the January and April
+approvals dissolved.** ⚠️ **Registered as a lesson: a geographic distribution shaped by a BINDING CONSTRAINT
+is not a preference map — when the constraint lifts, the map moves.**
+
+- *(★★ IT ALSO PUSHES THE BUYER DOWN THE INCOME SPECTRUM, which sharpens the retail read)* **At $149–299 cash
+  and $25–50 insured, this is a mass-market consumer, not an affluent early adopter** — and **Medicare Part D
+  at $50 from 1 July adds an older, more value-oriented cohort.** **That strengthens the off-price/value leg
+  specifically (ROST, TJX, BURL, Old Navy, Walmart) and weakens any premium expression.**
+- *(⚠️ THE SCHOOL OVERLAY PARTIALLY RECOVERS BUT STAYS THE WEAKEST LEG)* If demand redistributes South, the
+  anti-correlation with early school starts (Jackson MS Jul 29, FL Aug 10, TX Aug 12) weakens. **But the
+  adult-vs-child population mismatch is untouched and remains the real objection.** **Do not over-correct: the
+  strong leg is the COHORT CLOCK, which has nothing to do with schools.**
+
+### ★★★ THE TEST THAT STRIPS OUT THE ROTATION CONFOUND — an INTERNAL control
+**Off-price retailers sell APPAREL and HOME out of the same stores, to the same customer, under the same
+macro.** **Home does not care about body size.** **So: does APPAREL comp outrun HOME comp?** **If yes, it is
+not trade-down macro and it is not the rotation — those lift both. If apparel and home move together, there is
+no GLP-1 content in the number.** **Same store, same customer, same tape, different category — the cleanest
+control available, and it needs no external data.** **Dated: ROST / TJX / BURL Q2 reports, ~late August.**
+Secondary: **units per transaction and TRAFFIC vs TICKET.**
