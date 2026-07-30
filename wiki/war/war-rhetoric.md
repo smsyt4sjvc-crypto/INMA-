@@ -58,3 +58,37 @@ still ⚪; do not let repetition inflate it to a trigger (WARNING-vs-TRIGGER rul
 - SAID: state-media "informed source" language accompanying the six-ship turn-back claim.
 - 🟡 `[ODDS-SHADER]` — mining-by-language: the verbal fence around the gated channel (backs the southern-corridor
   mining claim without confirming it). Belligerent-source; the tracker data remains the referee.
+
+### 2026-07-29 07:05 ET — WHITE HOUSE X ACCOUNT POSTS THE LAB-LEAK PAGE: "The truth." → 74 MILLION VIEWS
+- **SAID:** official @WhiteHouse account, 7:05 AM 7/29/26, linking **COVID.GOV** — which redirects to the
+  lab-leak page. **74M views** (Jake, first-hand).
+- **THE DOCUMENT IS OLD; THE ACT IS NEW.** The page reproduces the **House Select Subcommittee on the
+  Coronavirus Pandemic FINAL REPORT, dated 4 December 2024** — and says so on its face: *"Content on this page
+  sourced from the House Oversight Committee website."* The page itself carries **no date**. (Jake's Safari
+  capture, 7/30/26 3:28 AM, is the only other timestamp in the PDF.)
+  **TIMELINE: Dec 4 2024 report → the page (⚠️ believed ~Apr 2025, unverified) → RE-AMPLIFIED 29 Jul 2026.**
+- 🟠 `[ODDS-SHADER — CHINA]` **The signal is the amplification, not the content.** An administration choosing to
+  push a 20-month-old China-blame document to a mass audience on a specific morning is a **messaging decision**,
+  and the question is *why that morning*. **Note also that the vehicle is COVID.GOV — the federal public-health
+  information domain repurposed to host it.** That is a durable institutional act, not a tweet.
+- **⭑ THE SAME-DAY CLUSTER, which is why this is filed rather than dismissed.** On 29 July the vault also
+  recorded: **Treasury sanctions on Iran's Hormuz "extortion scheme" and eight shadow tankers** (Bloomberg /
+  Treasury sb0507, and the Persian Gulf Marine Insurance + Hormuz Safe Marine Services designations); and
+  **US Senators pressing Apple not to buy Chinese memory chips** (Bloomberg, The Information). **Three
+  China-adjacent pressure actions inside one day.** ⚠️ **Government does many things daily and three items do
+  not prove a coordinated campaign — registered as a PATTERN TO WATCH, not a finding.** The test is whether the
+  cluster repeats.
+- **WHY IT MATTERS TO LIVE THREADS — three, all China-dependent:**
+  **(1) [[memory-regime-question]] — the CXMT fork.** An escalating anti-China posture raises the odds of the
+  *politically walled out* branch, which is memory-price bullish and cuts against the glut branch the tape is
+  pricing.
+  **(2) [[demand-destruction]] — the China oil bid.** The registered chain is *sanctions close China's discount
+  channel → China returns to the seaborne market → ~4.4 mb/d of bid returns.* A hardening posture makes that
+  chain more likely, and it is the mechanism under Jake's deferred-crude thesis.
+  **(3) tariffs** — the February EO authorising up to 25% tariffs on countries trading with Iran (⚠️ still
+  unverified, Wikipedia-sourced) points at China by construction.
+- **⚠️ WHAT THIS IS NOT.** Not an executive determination, not an intelligence finding, and not new evidence
+  on origins. The underlying report is a **subcommittee MAJORITY product** — political by construction — and
+  its origin claims are inference while its strongest material (EcoHealth debarment, Morens's deleted records
+  and leaks to Daszak, HHS non-responsiveness) is documents-in-hand oversight work. **The page presents both
+  in one voice; hold them apart.** The IC remains split at low-to-moderate confidence in both directions.
