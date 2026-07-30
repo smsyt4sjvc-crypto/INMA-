@@ -941,3 +941,37 @@ generalise a one-day attribution to a multi-week position, or the reverse. They 
 they routinely have opposite answers.*
 
 **Score: 3 readings, 3 overturned, 0 caught by me. Jake supplied every correcting fact.**
+
+### 2026-07-30 ~4:05pm PT — ⛔⛔ I ARGUED AGAINST AN ENTRY I WROTE 29 HOURS EARLIER, ON THE EXACT QUESTION
+
+I told Jake the strongest evidence against a hike was that **the FOMC statement's language didn't move** —
+*"this Fed pre-commits through wording; a committee preparing September edits the words in July."*
+Jake: *"this committee actually doesn't pre-commit to anything because they've completely cut off dots and
+guidance very adamantly."*
+
+**He is right, and [[new-economy-regime]] 7/29 ~11:20am — MY ENTRY — is titled "WARSH DELETED FORWARD
+GUIDANCE."** It records: no forward-guidance paragraph, no "extent and timing of additional adjustments," no
+data-dependence language, no risk-balance sentence. Plus Warsh verbatim: *"we're trying NOT TO INTERFERE with
+that market signal."* **I concluded, in writing: "he is dismantling the reaction-function trade deliberately."**
+
+**Then I argued the opposite, out loud, one day later, from memory.**
+
+**★★★ THE FAILURE IS NOT REASONING — IT IS NOT READING.** Every prior calibration entry this session is about
+inference: precision theatre, underdetermined systems, over-correction. **This one is simpler and worse. The
+answer was written down, by me, on this exact question, and I argued from recall instead of opening the
+file.** The vault exists specifically so that this cannot happen, **and I did not use it until Jake pushed
+back.** Note the asymmetry: **I searched the vault to build my case FOR the argument (grep'd hike/2Y/breakevens
+and quoted the dissents), then did not search the one file that would have killed it.** *Confirmation search.*
+
+**Also falsified in the same push:** my *"only OIL argues hawkish."* The same 7/29 entry carries **Goldman:
+electronics/memory adding 0.5% to CORE CPI** — a non-energy impulse on the Fed's own target measure, sourced
+from this vault's own compression thread. **Two independent errors, both refuted by ONE entry I had already
+written.**
+
+**RULE (new, and it outranks the others because it is upstream of them).** *Before arguing any position on a
+dated event this vault has logged, OPEN THE ENTRY FOR THAT DATE. Not a keyword grep — the entry.* Grep finds
+what I am looking for; **it does not find what I am about to contradict.** Corollary: *when I search to
+support a claim, run the search that would kill it in the same breath, or the search was advocacy.*
+
+**Score: Jake has now supplied the correcting fact in 4 of the last 5 exchanges.** The pattern is consistent —
+**I model and recall; he checks.** ⚠️ **That division of labour is backwards and is itself the finding.**

@@ -73,3 +73,70 @@ maintain 66%"). That is the direct, token-free calibration check: **if the marke
 November, my 30% is the outlier and I should move, not him.**
 
 **GRADE:** at the September meeting, at the November meeting, and finally 2026-12-11.
+
+---
+
+## REVISION 1 — 2026-07-30 ~4:05pm PT: **30% → 40% before December · 40% → 50% inside the put's life**
+Jake: *"this committee actually doesn't pre-commit to anything because they've completely cut off dots and
+guidance very adamantly."* **He is right, and the vault says it harder than he did.**
+
+### ⛔ MY #1 ARGUMENT IS NOT WEAK — IT IS INVERTED, AND I WROTE THE REFUTATION YESTERDAY
+[[new-economy-regime]] 7/29 ~11:20am, my own entry: **"WARSH DELETED FORWARD GUIDANCE."**
+- Redline: **"NO forward-guidance paragraph. No 'extent and timing of additional adjustments.' No
+  data-dependence language. No risk-balance sentence."** ZH: *"the pithiest redline comparison in history."*
+- Warsh, verbatim: **"I'VE BEEN TRYING TO GET UNFILTERED MESSAGE FROM MARKETS" / "WE'RE TRYING NOT TO
+  INTERFERE WITH THAT MARKET SIGNAL" / "MARKETS ARE REACTING TO EVENTS MUCH MORE DIRECTLY."**
+- My own conclusion, filed: **"Warsh deleted forward guidance ON PURPOSE, so that the market prices EVENTS
+  rather than the Fed's REACTION FUNCTION... For two decades the dominant macro trade has been trading the
+  reaction function. He is dismantling it deliberately."**
+
+**I argued "no language change ⇒ no hike telegraphed" about a statement whose telegraph apparatus had been
+surgically removed. That is inference from a blank page.** ⚠️ And the failure was not reasoning — **the answer
+was in the vault, on this exact question, written by me 29 hours earlier, and I did not consult it before
+arguing the opposite.**
+
+### ⛔ SECOND ARGUMENT ALSO FALLS: "only OIL argues hawkish" is FALSE
+Same 7/29 entry: **Goldman — soaring ELECTRONICS/MEMORY prices are adding 0.5% TO CORE CPI.** That is **50bp on
+the Fed's own target measure**, it is **not energy**, and it is **this vault's own compression/crowd-out thread
+feeding straight into the mandate.** The statement's supply-shock look-through names **energy**; it does not
+cover memory. **Two of my five arguments are gone. That is worth the 10 points.**
+
+### WHAT IS HOLDING THE NUMBER DOWN — measured, not inferred
+1. **★★★ SWAPS. "FED SWAPS NO LONGER FULLY PRICE IN A SEPTEMBER RATE HIKE" — and they had FULLY priced one
+   going IN.** The market entered this meeting expecting September and left pricing it *down*. **That is a
+   measured repricing on the exact question, not my inference from a norm.** It replaces the 2Y argument as
+   the load-bearing one.
+2. **★★ THE TEXT, not the votes.** The majority wrote: *"Inflation remains elevated... in part reflecting
+   **SUPPLY SHOCKS** that have driven price increases in certain sectors, including **ENERGY**."* **Central-bank
+   language for "we will look through it."** Filed yesterday: *"Only the three dissenters are hike-curious.
+   The committee that wrote the statement is not."*
+3. **★★ WARSH DEVALUED HIS OWN DISSENTS: "I ASKED FOR A GOOD FAMILY FIGHT AND I GOT ONE."** Engineered
+   process, not committee breakdown. ⚠️ Counterweight already logged: Reuters, *"early dissents versus Warsh
+   are the MOST SINCE 1970"* — engineering them does not make a 56-year record uninformative. Both hold.
+
+### ★★★ WHERE JAKE GAINS MORE GROUND THAN HE CLAIMED — the argument he did NOT make
+**Deleting guidance does not raise P(hike) much. It raises P(the hike arrives UNPRICED).** My own filed
+consequences: **"(1) rate-sensitive assets carry permanently higher variance; (2) every individual data print
+gets MORE impact because it is the only input left; (3) the Fed put has been DISCLAIMED."**
+**Jake owns convexity. Warsh has deliberately raised the variance of the underlying process.** **He does not
+need to win the hike call — he needs the market to REPRICE the probability, and under a no-guidance Fed
+repricings are violent because nothing pre-announces them.** *That is the strongest form of his position and
+it is structural, not directional.*
+
+### ★★★ THE DISAGREEMENT RESTATED — it was never about inflation
+**30Y +10bp to 5.19%, later 5.24% — a TWO-DECADE HIGH.** The market **agrees** with Jake that inflation is a
+problem. Filed 7/29: *"the 30Y is at a two-decade high because the market doubts Warsh's WILLINGNESS to fight
+inflation."* **The market has priced Warsh as inflation-TOLERANT. Jake is betting that pricing is wrong.**
+That is a **reaction-function** trade, not an inflation trade — and Warsh keeps it live himself:
+**"THERE IS NO SOFT INFLATION TARGET" / "IF INFLATION STAYS HIGH, RATES COULD BE PART OF SOLUTION" /
+"I WOULDN'T CHARACTERIZE WHAT WE DID TODAY LIKE A PAUSE" / "THIS IS A PERIOD OF WATCHFUL THINKING."**
+⚠️ **Vehicle mismatch (descriptive):** a reaction-function view is expressed cleanly in RATES. A SPY put is a
+noisy proxy for it — but it is what Tier 1 / ~$1k of capital permits ([[portfolio-state]]).
+
+### KILL SWITCHES — REVISED
+1. ~~"Statement language change in September"~~ **VOID — there is no forward-guidance paragraph to change.**
+   Replaced by: **★ SWAPS-IMPLIED SEPT/NOV HIKE ODDS.** Directly quoted, no inference. **Still not in hand.**
+2. **Core CPI ex-energy accelerating** (the memory 50bp) — the impulse the look-through does NOT cover.
+3. Jackson Hole ~late August — ⚠️ **weakened**: a chair who deleted guidance may decline to use the venue.
+4. A credit event resolving first → thesis dies outright.
+5. Brent sustained >$100 → my number is too low.
