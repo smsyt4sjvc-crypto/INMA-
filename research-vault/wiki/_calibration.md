@@ -759,3 +759,34 @@ missing fact: the @WhiteHouse account posted it 7:05 AM on 7/29/26 to 74 MILLION
   information on what put it in front of you, and that is where any signal would live."** **Instead of naming
   the gap, I reasoned past it to a confident negative.** Same class as the CPC and Supreme-Leader misses:
   **a confident conclusion drawn over an unexamined hole.**
+
+## 2026-07-30 ~4:15am PT — RULE: a LEVEL SHIFT in a data series is a SOURCE CHANGE until proven otherwise (Jake's .SPX volume chart)
+
+Jake's monthly .SPX chart shows monthly volume stepping from **<1K to 4–5K at Dec-2016** and never reverting —
+now ~9K. He asked whether it was online platforms / free trading / retail.
+
+- **⚠️ THE PRIMARY OBJECTION: .SPX IS AN INDEX AND HAS NO VOLUME.** The index does not trade. **Any volume
+  printed on an index chart is SYNTHESISED** — summed constituents, a mapped proxy, or a vendor computation —
+  **and a synthetic series can be re-specified at any time without anything happening in the market.**
+- **THE SHAPE IS THE TELL.** Real volume is **event-driven and MEAN-REVERTING**: it spiked in 2008 and came
+  back down, visible on the same chart. **A permanent ~5× step holding for a decade is not a behaviour, it is a
+  re-basing.** **Standing rule: a spike is a market event; a STEP is a source change until proven otherwise.**
+- **THE DECISIVE CONTRADICTION — 2017.** A permanent volume eruption beginning Dec-2016 would run straight
+  through **2017, the quietest year in decades: record-low VIX, lowest realised vol since the 1960s.** **The
+  chart's claim is inconsistent with the single best-documented feature of the period it covers.** ⚠️ **When a
+  data series contradicts a well-established fact about its own window, suspect the series, not the fact.**
+- **THE LEADING HYPOTHESIS, and it is sized right.** A switch from **PRIMARY-EXCHANGE volume to CONSOLIDATED-TAPE
+  volume** produces an instantaneous **~4–5× step with no reversion** — which matches the chart's magnitude.
+  **Falsifiable and cheap:** `tools/volume_step_test_cell.py` checks whether the break exists in a different
+  vendor's SPX volume, whether **SPY/QQQ/IWM — real instruments with real consolidated volume — step on the
+  same date** (they should not), and whether the ratio is a **clean constant** (a rescale) or not.
+- **⛔ AND THE RETAIL EXPLANATION FAILS ON TIMING, which is worth stating because it is the intuitive one.**
+  **Zero-commission at the major brokers was OCTOBER 2019, not 2016.** **Retail's actual eruption was 2020–21**
+  (COVID, stimulus, meme complex). **A Dec-2016 step predates the cause by three years.** The real
+  market-structure shifts of the era — passive/ETF share, off-exchange share rising from ~35% to ~45%, retail
+  going from ~10–15% to ~20–25% at the 2021 peak, and **0DTE options from ~5% to >50% of SPX options volume
+  after 2022** — are all **gradual or later. None of them is a Dec-2016 step.**
+- **(why this belongs in the calibration file)** This is the **fifth artifact-class item this week**, after the
+  dropped-bar KOSPI print, the stale futures base, its bearish inverse, and the 15-minute base change. **Every
+  one produced a plausible story before it produced a check.** Here the story was pre-written and persuasive —
+  *retail and free trading* — **and it is wrong by three years.**
