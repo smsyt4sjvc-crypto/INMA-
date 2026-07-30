@@ -129,3 +129,32 @@ call, not the vault's.
 - *(what would make me wrong on the gap)* Korea reopens before the US and is still broken; a de-grossing
   regime can sell a good print instantly; and the 30Y move is a same-day headwind that did not exist for any
   prior print this season.
+
+## 2026-07-29 ~10:55pm PT — ★★★ MEMORY EQUITY PRICES ARE CURRENTLY NOT INFORMATION ABOUT THE MEMORY CYCLE (routed from acute-scanner MEMORY hits)
+
+**DATA, same session, pointing opposite ways:**
+- **Chosunbiz: "Samsung forecast DEEPENS chip shortage, KOSPI surges toward 6000."** ⚠️ **Single source, no
+  corroboration in the T1 financial-wire tier. Not verified.**
+- **The tape: MU 739.00 −9.94%, SNDK −7.32%, SK hynix −5.42%, Samsung flat/halted.**
+
+- *(★★★ THE CONTRADICTION IS THE FINDING — and it disqualifies my own preferred evidence source)* **If a
+  deepening shortage is real, memory names should be BID. They were crushed.** Two readings: **(a)** the
+  Chosunbiz report is wrong or promotional; **(b)** memory equities have **decoupled from the memory cycle** and
+  are trading as high-beta AI-complex proxies inside a de-gross. **(b) is far better supported: Goldman records
+  the largest 3-day de-gross since Nov '22, day 3 of a momentum unwind, breadth negative with 307 SPX names
+  red.** In that regime **a memory stock is a beta expression, not a cycle read.**
+- *(★★★ THE CONSEQUENCE, stated as a rule because it costs me something)* **This week I must stop reading MU's
+  tape as evidence for or against the compression thesis.** I have leaned on memory equity moves repeatedly as
+  the cheapest available read on the DRAM cycle. **Under a de-gross, that channel is closed** — the same way
+  won-denominated leverage closed the FX channel in Korea. **Rule: when a cohort's dispersion collapses into
+  index beta, its individual prints carry no idiosyncratic information. Use physical prices, contract prints and
+  capacity announcements only, until dispersion returns.** [[compression-thesis]], [[market-fragility]].
+- *(★ WHAT WOULD MAKE THE CHOSUNBIZ REPORT MATTER — a dated test)* **KOSPI toward 6000 would mean the Korean
+  bottom is in**, which directly contradicts this vault's Korea leverage-cascade read being mid-unwind. **The
+  discriminator is cheap: Korea's next full unhalted session.** A −35%-month index that opens and holds a large
+  gain on a shortage headline is a bottom; one that gaps and fades is a short-covering artifact in a market that
+  has been halted three times. **Do not move either thesis on a single Korean-language business-daily headline —
+  this is the exact profile of the Axios/Pacing error.** [[market-fragility]].
+- *(the CXMT fork, unchanged and still unresolved)* A **deepening** shortage is the "politically walled out"
+  branch; a glut is the other. **Nothing today resolves it, and Apple's public commitment remains the named
+  resolver.**

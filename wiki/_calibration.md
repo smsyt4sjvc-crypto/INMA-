@@ -518,3 +518,33 @@ circuit-breakered, the S&P's bottom decile in freefall.)*
   pastes a fresh output, I interpret it before auditing it.** Standing rule added: **audit the timestamps and
   bases of a pasted output BEFORE extracting any conclusion from it.** Jake is now 4-for-4 tonight catching
   errors I did not catch myself.
+
+## 2026-07-29 ~10:55pm PT — TWO NEW ERROR CLASSES, both found by ROUTING the scanner hits back to their originating notes rather than by reading them as news
+
+- **(1) THE RETRACTION OVERSHOOT.** I called three FOMC dissents *"the entire information content of this
+  meeting,"* then — on learning Warsh had **engineered** the dissent (*"I asked for a good family fight"*) —
+  **retracted the datum wholesale.** Reuters: **most early dissents against a Fed chief since 1970.** I
+  corrected a magnitude error by **zeroing the quantity.** **Standing rule: when a datum turns out to be
+  INTENTIONAL, that revises its MEANING, not its MAGNITUDE.** Intent is not a defeater of measurement. This is
+  the mirror image of my usual failure — I normally over-weight fresh data; here I discarded a confirming
+  record because I was embarrassed about having over-weighted it an hour earlier. **Over-correction is a
+  calibration error with the same cost as under-correction and I have now demonstrated both inside one day.**
+- **(2) NARROW KILL SWITCHES, twice in 24 hours — a pattern, not two incidents.** Damietta exposed an LNG blind
+  spot; Qeshm exposed a chokepoint-control blind spot. **Both times I wrote the switch around the mechanism I
+  happened to be thinking about instead of around the ASSET CLASS.** Fix applied in
+  [[demand-destruction]]: the Hormuz switch is now deliberately over-broad (*vessels, terminals, islands,
+  insurers, escorts, collectors*). **A switch that only fires on the scenario you imagined is not a switch, it
+  is a restatement of your thesis.**
+- **(3) THE CORRELATED-SOURCE CHECK, applied to myself BEFORE Jake had to.** Six desks published Fed-rebuke
+  framing today (Bloomberg ×2, Reuters, WSJ, MarketWatch, CNBC/Gundlach). **That is one datum — the 30Y print —
+  and six echoes.** I made this exact error on the Pacing letter on 7/28 by counting Amodei as an independent
+  rulebook when he was a signatory. **First instance this week of catching a source-independence error at
+  ingest rather than after a correction.** Recording it as the intended function of the routing discipline:
+  a hit routed to a named thesis gets asked *"is this NEW evidence for that thesis?"* — a hit read as news does
+  not get asked anything.
+- **(the routing discipline earned its keep on the first run, and this is the measurable claim)** Three findings
+  came out of routing that would not have come out of reading: the **$130B lease line closing the capex
+  conflict I had explicitly refused to resolve**; the **MU-down-on-shortage-up contradiction** that disqualifies
+  memory equity prices as cycle evidence this week; and the **Ofgem commitment fee** landing on the optionality
+  razor rather than on the power thread where its keyword lives. **All three came from asking which NOTE a
+  headline belonged to, and two of them contradicted the note they belonged to.** [[_persona]].

@@ -1750,3 +1750,40 @@ Source: The Next Web report (Jake paste) — secondary tech-media; specifics (6-
   registered trigger — **a named casualty** — still has not appeared. **That absence is doing more work in the
   containment case with every session it persists, and it is the single most informative thing to watch
   overnight.** [[ai-financing-fragility]].
+
+## 2026-07-29 ~10:55pm PT — ★★★ THE $130B LEASE LINE: the capex conflict I refused to resolve is resolved, and BOTH headlines were true (routed from acute-scanner CAPEX/FINANCING hits — Bloomberg, FT)
+
+**Yesterday I registered an open conflict and refused to pick a side, verbatim:** *"⚠️ THE CAPEX HEADLINES
+CONFLICT AND I AM NOT PICKING ONE: CNBC — 'Microsoft jumps 8% as it BOOSTS capital spending plans.' Barron's —
+'Most Important, CapEx HOLDS STEADY.' … Do not use a capex direction for MSFT until the actual guide figure is
+in hand."*
+
+**DATA (Bloomberg and FT, independently, same day):** *Microsoft reports over **$130 BILLION in new data centre
+leases**.* Yesterday, from the filing: **$329.1B of UNCOMMENCED leases.**
+
+- *(★★★ THE RESOLUTION: it was never a media discrepancy, it was an ACCOUNTING one)* **Both headlines describe
+  real lines and they are different lines.** Guided **capex** — the PP&E number analysts model and the number
+  Barron's read — **held steady.** **Total commitment rose by $130B through the LEASE line**, which is what CNBC
+  was reading. **There is no contradiction to adjudicate: MSFT increased its commitment without increasing the
+  number the market watches.** The conflict resolved by discovering that the two sources were quoting different
+  accounts, which is the single most common way a "contradiction" in this vault dissolves.
+- *(★★★ AND IT CUTS AGAINST MY OWN OPTIONALITY RAZOR — hard)* The razor says the market rewarded MSFT for
+  **reversibility** and punished META for **commitment**. **A signed lease is a contractual obligation.** You can
+  slow-walk your own construction schedule; **you cannot unsign a multi-year lease, and you cannot resell a
+  leasehold the way you can resell owned equipment.** On substance, **the lease line is LESS reversible than
+  PP&E, not more.** So the honest reading is worse than the razor: **the market may have rewarded MSFT for the
+  PRESENTATION of optionality while the company was signing away the option.** The CFO's *"we can rein in
+  spending if needed"* was delivered in the same quarter as $130B of new leases.
+- *(⚠️ THE NUMBER I DO NOT HAVE, and it is the load-bearing one)* **Is the $130B a SUBSET of the $329.1B
+  uncommenced total, or ADDITIVE to it?** If $130B of $329.1B was signed **this quarter**, then more than a
+  third of the entire off-balance-sheet obligation was created in ninety days — a Q/Q acceleration, not a stock.
+  **Do not state a growth rate for the lease line until the 10-Q lease footnote is read.** Same failure mode as
+  the Axios/Pacing error: a number in a headline is not a number in a filing.
+- *(★★ THE FALSIFIABLE TEST THIS CREATES — and it discriminates between my two readings)* **If MSFT's
+  reversibility is REAL, the +8% holds as the lease disclosure gets read. If it was PRESENTATIONAL, the gain
+  decays over the days it takes sell-side to work through the lease footnote.** That is a clean, dated,
+  falsifiable discriminator between "the market priced substance" and "the market priced framing," and it grades
+  on MSFT's next three sessions. **Registered.**
+- *(the convergence with Jake's own thesis)* **This is the off-balance-sheet thesis he registered before the
+  filing existed, now measured twice in one quarter: $329.1B uncommenced + $130B newly signed.** [[ai-financing-fragility]],
+  [[cepi]], [[consumption-vs-investment-crux]].
