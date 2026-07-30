@@ -52,16 +52,25 @@ def px_block(title, rows):
 # ~45 terms, thread-tagged. \b-anchored so short acronyms don't false-match
 # (SPR must not hit "spread", CDS must not hit "CDSL", etc).
 THREADS = {
- 'MEMORY':    ['dram','hbm','nand','cxmt','micron','hynix','sandisk','memory price','memory chip'],
+ 'MEMORY':    ['dram','hbm','nand','cxmt','micron','hynix','sandisk','memory price','memory chip',
+               'chip shortage'],
  'SEMIS':     ['wafer','foundr','lithograph','advanced packaging','chip capex'],
  'CAPEX':     ['capex','capital expenditure','data center','data centre','hyperscaler',
                'off-balance','uncommenced','not commenced','depreciation'],
  'FINANCING': ['credit default','cds','private credit','bdc','spv','neocloud','coreweave',
                'nebius','free cash flow','bond sale','off balance sheet'],
  'POWER':     ['pjm','curtail','grid emergency','turbine','interconnection','smr',
-               'behind-the-meter'],
+               'behind-the-meter','ofgem','grid access','connection queue','commitment fee',
+               'grid operator','transmission'],
  'WAR/OIL':   ['hormuz','qeshm','tanker','houthi','irgc','abqaiq','jazan','transit fee',
                'war risk','crack spread','refiner','lng'],
+ # BLACK SEA — added 7/30 after the vault missed an ELEVEN-DAY, ~2%-of-global-supply outage
+ # (CPC/Novorossiysk under drone attack from 7/19; Kazakh output more than halved by 7/26).
+ # The gate was not the failure — 'tanker' would have tagged it WAR/OIL. The FEED was: every
+ # oil query was scoped to Hormuz, so a second theatre could not surface. Named as its own
+ # thread so a Black Sea hit can never again be read as a Hormuz hit.
+ 'BLACK SEA': ['cpc','caspian pipeline','novorossiysk','tengiz','kashagan','karachaganak',
+               'kazakh','kazakhstan','black sea','primorsk','ust-luga','druzhba','ceyhan'],
  'INVENTORY': ['spr','cushing','strategic petroleum','crude draw','crude build','tank bottoms'],
  'FED':       ['warsh','term premium','forward guidance','steepen','core cpi','supply shock','dissent'],
  'MODEL-ECON':['open-weight','open weight','routing layer','per-token','inference cost','agentic'],
@@ -74,7 +83,7 @@ THREADS = {
 #   verb forms far more than base forms — "data centerS", "steepenS", "tankerS", "refinerIES".
 #   Anchoring those with a hard \b silently drops most real hits. (Caught by the offline
 #   unit test below; 3 of 14 cases failed before this fix.)
-STRICT = {'spr','cds','bdc','spv','hbm','pjm','smr','irgc','dram','nand','lng'}
+STRICT = {'spr','cds','bdc','spv','hbm','pjm','smr','irgc','dram','nand','lng','cpc'}
 def _pat(k):
     return re.compile(r'\b'+re.escape(k)+(r's?\b' if k in STRICT else r'\w{0,3}\b'), re.I)
 PATS = {th: [_pat(k) for k in ks] for th, ks in THREADS.items()}
@@ -90,6 +99,7 @@ ROUTE = {
  'FINANCING': 'ai-financing-fragility',
  'POWER':     'buildout-bottleneck-map / power-not-petroleum',
  'WAR/OIL':   'demand-destruction / war-board / oil-value-chain',
+ 'BLACK SEA': 'demand-destruction (CPC/Kazakh outage) / oil-value-chain',
  'INVENTORY': 'demand-destruction (SPR clock)',
  'FED':       'new-economy-regime / market-fragility',
  'MODEL-ECON':'metered-compute / compression-thesis',
@@ -131,6 +141,9 @@ TIERS = [
    ('GN-business','https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en'),
    ('GN-world',  'https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en'),
    ('GN-hormuz', GN.format('Hormuz+OR+Qeshm+OR+tanker+when:1d')),
+  # Second theatre. Do NOT fold this into GN-hormuz: a Hormuz-scoped query ranks Hormuz
+  # results and buried an 1.8 mb/d Black Sea outage for eleven days. One feed per theatre.
+  ('GN-blacksea', GN.format('CPC+OR+Novorossiysk+OR+Tengiz+OR+Kazakh+oil+export+when:1d')),
    ('GN-memory', GN.format('DRAM+OR+HBM+OR+CXMT+OR+memory+chip+when:1d')),
    ('GN-capex',  GN.format('hyperscaler+capex+OR+data+center+capex+when:1d')),
    ('GN-grid',   GN.format('PJM+OR+grid+curtail+data+center+when:1d')),
