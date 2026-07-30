@@ -3107,3 +3107,19 @@ skipped the strikes last Friday because gas was approaching a politically unbear
   The July escalation lands in JULY CPI (~Aug 12–13) and JULY PCE (~Aug 28).** **Registered: those are the
   prints that test whether the chokepoint tax reaches the US consumer, and until then the transmission
   question is OPEN, not answered.**
+
+### 2026-07-30 ~3:22pm PT — 🚩 F13 EVIDENCE: Apple Greater China **+22%** — Chinese END-DEMAND is not weak
+Source: `raw/2026-07-30-amzn-aapl-earnings-jake-summary.md`. AAPL FQ3-26 **Greater China $18.8B, +~22%.**
+- **The open flag (F13): was China's ~40% crude-import cut DEMAND DESTRUCTION, or a strategic/structural
+  shift?** Jake's own read: *"I'm not so sure the demand destruction wasn't an overreach or partially
+  fabricated by China."*
+- **★★ This is the first INDEPENDENT read on Chinese end-demand this vault has had** — a US-reported,
+  audited, non-Chinese-sourced revenue line. **+22% on premium consumer hardware is not the demand profile of
+  an economy cutting crude imports because it cannot afford them.** It shifts weight toward **strategic /
+  structural** (stockpile management, sanctioned-barrel arbitrage, pipeline substitution) and **away from a
+  consumption collapse** — i.e. **toward Jake's suspicion, which I under-weighted at the time.**
+- **⚠️ THE LIMITS, STATED.** (1) iPhone buyers are not the marginal barrel of Chinese diesel — premium
+  consumer electronics is a **thin, top-decile** slice and is routinely strong while industrial demand is
+  weak. (2) A tough prior-year comp inflates the growth rate; **the comp base is not in hand.** (3) Crude
+  imports are dominated by **industrial/transport/petchem**, none of which Apple observes.
+  **Directional evidence, not a refutation. F13 stays open, weight moved.**

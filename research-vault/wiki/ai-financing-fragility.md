@@ -2494,3 +2494,34 @@ purchase obligations, lease commitments including uncommenced, guarantees, and t
 methodology is not stated.** ⚠️ **The order of magnitude is not crazy — MSFT alone is ~$459bn verified from
 filings — but the individual figures are checkable in 10-Qs and the aggregate is arithmetic on an unstated
 definition. Use the company lines; do not quote the $3tn.**
+
+## 2026-07-30 ~3:22pm PT — ★★★ THE LOOP CLOSES INSIDE A HYPERSCALER'S NET INCOME: AMZN's $53B Anthropic mark
+Source: `raw/2026-07-30-amzn-aapl-earnings-jake-summary.md`.
+
+**DATA:** AMZN Q2-26 net income **~$62.7B**, EPS **$5.75** — including **~$53B of non-operating investment
+gains, primarily tied to ANTHROPIC.** Operating income **$27.5B**. **Free cash flow under pressure.**
+
+- **★★★ STRIP THE MARK AND TWO-THIRDS OF THE EARNINGS GO WITH IT.** Implied shares 62.7/5.75 = **10.90B**.
+  Taxing the gain at 21–25%: after-tax **$39.8–41.9B**, leaving underlying net income **$20.8–23.0B** and
+  **underlying EPS ~$1.91–2.11 against a reported $5.75 — the print is 2.7–3.0× the recurring number.**
+  **Cross-check: operating income $27.5B taxed 21–25% = $20.6–21.7B, which brackets it. Internally consistent.**
+- **★★★ THIS IS THE CIRCULAR-FINANCING THESIS ARRIVING AS AN ACCOUNTING LINE, NOT A NARRATIVE.** Amazon
+  **sells Anthropic compute (revenue)** and **marks its Anthropic equity up (profit)**. Google holds the same
+  hand on the other side — logged this session: **investor, chip supplier, guarantor, ~20% equity**, plus banks
+  in talks to lend **$15B** for an Anthropic data centre **backed by Google**. **Anthropic's private valuation
+  is now a material input to TWO hyperscalers' reported earnings, and that valuation is set by rounds led by
+  those same counterparties.** The loop was previously visible in *financing*; it is now visible in *the P&L*.
+- **★★ AND THE REVERSAL IS CORRELATED, WHICH IS THE WHOLE POINT.** The mark is **non-cash, unrealised, on a
+  private company.** If it reverses, it reverses in the P&L of the firms that **simultaneously lose the
+  revenue** — the equity gain and the compute contract fail together, because they are the same counterparty.
+  **That is not diversified exposure booked twice; it is one exposure booked twice.**
+- **★★ RECORD NET INCOME + DETERIORATING FCF is the classic quality-of-earnings divergence**, and it arrives
+  with **capex raised $200B → $220B = 2.00× annualised operating income.**
+- **★ THE VAULT BUILT THE TOOL FOR THIS BEFORE IT HAPPENED.** `tools/sec_hyperscaler_scanner.ipynb` ships an
+  **"unrealized-equity-gain catcher"** in its earnings-quality dashboard. **Run it on AMZN's 10-Q when filed** —
+  it will pull the actual gain line, the tax treatment and the FCF proxy, replacing every estimate above with
+  the filed number. ⚠️ **All figures here are derived from a summary, not from the filing.**
+- **⚠️ THE MARKET DID NOT PRICE ANY OF THIS.** AMZN's headline overstates recurring EPS by ~**200%** and it
+  rose **+8%**. AAPL's overstates by **5.4%** (an $0.11 tariff refund on a $2.02 print) and it **fell.**
+  **Earnings quality was not the traded variable in either name** — AWS's growth rate and Apple's guide were.
+  Descriptive, not a claim that the market is wrong; a claim about **what it was actually pricing.**
