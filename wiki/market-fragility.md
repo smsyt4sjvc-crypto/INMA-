@@ -1798,3 +1798,67 @@ ENTIRE July gain.** At that price the rotation has stopped absorbing the AI comp
 and every containment argument in this vault fails together — the absent neocloud casualty, the open primary
 market, and the "it is a sector event, not a market event" read all depend on the other 400 names holding.
 **Current: 215.73. Distance to the switch: −1.37%.** [[detachment-bid]], [[ai-financing-fragility]].
+
+## 2026-07-30 ~3:20am PT — ★★★ RED-DAY CLUSTERING RESULT (Jake's design, `tools/red_day_clustering_cell.py`): clustering is REAL, but it is a VOLATILITY signal, not a DIRECTION signal
+
+**Design:** 30-day rolling median of red-day magnitudes; a *significant* red day is ≥ MULT× that median;
+measure spacing between events; test whether tight spacing precedes drawdowns. **SPX 1927–2026 (24,760
+sessions), NDX 1985– (10,285), SPXEW/RSP 2003– (5,848). Multiplier swept 1.0–4.0. 168 conditional comparisons.**
+
+### ★★★ [1] CLUSTERING EXISTS — decisively, and it is not the design's own artifact
+**Real dispersion sits at the 100th percentile of 200 shuffled controls in 21 of 21 cells** (3 indices × 7
+multipliers). **And it rises MONOTONICALLY with selectivity while the shuffled null stays flat:** SPX **0.97 →
+1.66** real vs **0.70 → 1.09** shuffled. **The rarer the event, the more clustered it is relative to chance.**
+**Jake's premise — that significant red days bunch — is confirmed at every threshold on every index.**
+
+### ★★★ [2] THE FINDING, AND IT IS NOT WHAT THE HYPOTHESIS PREDICTED
+**Tight spacing predicts a DEEPER HOLE and an EQUAL-OR-BETTER RETURN.**
+
+| tight-bucket EDGE vs base rate | cells negative | mean edge |
+|---|---|---|
+| **5-day forward max drawdown** | **20 / 21** | **−0.25%** |
+| **21-day forward max drawdown** | **20 / 21** | **−0.54%** |
+| 21-day forward RETURN | 6 / 21 | **+0.13%** |
+
+- *(★★★ SO THE ANSWER TO "DOES TIGHTER GROUPING SIGNAL FURTHER DRAWDOWNS" IS: YES ON THE DRAWDOWN, NO ON THE
+  DIRECTION.)* **You get a worse PATH to the same-or-better DESTINATION.** At 2.5× on SPXEW the 21-day
+  drawdown edge is **−1.15% against a base rate of −2.74% — a 42% deeper hole — while the 63-day return edge is
+  +2.89% against a +2.98% base, i.e. roughly DOUBLE the normal forward return.** **That is a higher-variance
+  regime, not a bearish one.** Which is exactly what vol clustering IS: **GARCH says vol begets vol and says
+  nothing whatsoever about the sign of returns.** The data reproduces the theory.
+- *(★★ IT SURVIVES THE MULTIPLE-TESTING OBJECTION, and that objection was mine)* I warned that ~8 of 168 cells
+  would look significant on noise. **The drawdown result is not one cell — it is 20 of 21 with the same sign,
+  deepening monotonically with the multiplier on SPX and SPXEW.** ⚠️ **The cells are NOT independent (nested
+  multipliers, overlapping windows), so no clean p-value — but a systematic pattern is a different object from
+  a winning cell, and this is the former.**
+- *(⚠️ THE CONFOUND I HAVE TO NAME, and it may be fatal to the finding)* **Tight clusters OCCUR in high-vol
+  regimes. High-vol regimes have deeper drawdowns BY DEFINITION.** **So "tight clustering predicts deeper
+  drawdowns" may be tautological — conditioning on high vol and then observing high vol.** **THE TEST:
+  normalise the forward drawdown by contemporaneous realised vol. If the edge vanishes, the result is an
+  identity dressed as a signal; if it survives, it is information beyond the vol level.** **Registered as the
+  required next step — do not use this result until that runs.**
+- *(★ direction is genuinely absent, and the inconsistency is the proof)* **21-day return edge, tight bucket:
+  SPX ≈ 0, NDX mildly NEGATIVE in the middle multipliers, SPXEW consistently POSITIVE.** **Three indices
+  pointing three ways is not a weak signal — it is no signal**, and the positive tail is likely the
+  well-documented short-term reversal effect after selloffs rather than anything new.
+
+### ★★★ [3] THE LIVE READING IS THE PAYOFF — and it independently confirms tonight's equal-weight work
+| 2026-07-29 | 30d median RED day | trailing-60d events | vs expectation |
+|---|---|---|---|
+| **SPX** | **0.41%** | 11 | **−3% — exactly normal** |
+| **NDX** | **1.32%** | 15 | **+36% — HOT** |
+| **SPXEW** | **0.35%** | 13 | +19% |
+
+- *(★★★ THE MEDIAN NDX DOWN DAY IS 3.22× THE MEDIAN SPX DOWN DAY — and 3.77× the median EQUAL-WEIGHT down day)*
+  **Normal NDX/SPX vol ratio is ~1.3–1.4×. This is more than double that.** **A completely independent metric,
+  built for a different question, reproduces this morning's equal-weight finding: the damage is concentrated in
+  the NDX and the broad index is not participating.** **SPX's significant-red-day rate is INDISTINGUISHABLE
+  FROM ITS OWN 99-YEAR NORM while NDX runs 36% hot.**
+- *(★★ AND THE MOST RECENT GAPS ARE WIDE, NOT TIGHT — the cluster is behind us, not around us)* **Last gap
+  before yesterday's event: SPX 4 sessions, SPXEW 8, NDX 12.** **SPXEW's last ten gaps run 2,2,10,2,3,5,6,7,7,8
+  — steadily WIDENING.** **So the elevated 60-day counts are a cluster that has already decayed, followed by
+  quiet, then a single fresh event.** **On this measure the tape is NOT in an active cluster tonight.**
+- *(the expression, descriptive only)* **If tight clustering is a variance signal with no directional content,
+  it is not a reason to be short — it is a reason to expect a wider path.** Sizing and convexity are Jake's
+  call; the vault's contribution is that **the directional read people take from clustering is not in the
+  data.** [[detachment-bid]], [[_calibration]].
