@@ -1842,3 +1842,36 @@ ordinary forward-pricing story.**
   energy was FALLING. **If July energy reverses that, the dissenters look prescient by September rather than
   hawkish-for-its-own-sake** — which is a different reading of the most-since-1970 record than either of my
   previous two. [[demand-destruction]].
+
+## 2026-07-30 ~9:30am ET — "WHAT HAPPENS WHEN THE 30Y GOES ABOVE 5%?" (Jake) — the question cannot be answered as posed, and the reason is the vault's own standing rule
+
+- *(⚠️ 5% IS A ROUND NUMBER, NOT AN ECONOMIC THRESHOLD)* **Nothing activates at 5.00% that does not at 4.95%.**
+  A result keyed to a round level is **a data-mined threshold, not a mechanism.**
+- *(⚠️ THE SAMPLE INVERTS ON THE START DATE — which is the tell)* **The 30Y was above 5% almost continuously
+  from 1977 to 1998**, a window containing the greatest equity bull run on record. **Include it and ">5%" is
+  bullish by construction.** Restrict to the post-2000 low-rate regime and there are roughly **four episodes:
+  2000, 2006–07, Oct-2023, mid-2025. Two preceded catastrophes; two preceded large rallies.** **n=4, split
+  2-2.** ⚠️ **A condition whose SIGN depends on where you start the sample is a start-date artifact.**
+- *(⛔ AND IT IS A STATE, NOT A TRIGGER — the WARNING-vs-TRIGGER rule applies directly)* A level condition
+  persists for years and times nothing. **"30Y above 5%" is precisely the class of unfalsifiable marker that
+  rule was written to ban.** The same logic that banned "late-cycle signature" bans this.
+
+### ★★★ WHAT IS ACTUALLY ANSWERABLE — and it points at THIS episode specifically
+**`tools/long_yield_regime_cell.py`** (FRED DGS30/DGS10/DGS2/T10YIE + SPX) tests four framings, every figure
+against the unconditional base rate, with **forward MAX DRAWDOWN alongside forward return** because *"what
+happens"* is a path question:
+**[A]** the naive level — printed so its uselessness is **visible** rather than asserted, including the
+sign-flip between full-sample and 2000+.
+**[B]** **relative not absolute** — 30Y at a 1/3/5/10-year high.
+**[C]** **SPEED** — +50/75/100/150bp over 63 trading days. **Rate of change breaks things; the same level
+reached slowly does not.**
+**[D]** **THE DRIVER, which is the only split carrying a mechanism** — bear-steepening vs bear-flattening, and
+**breakeven-driven (inflation) vs REAL-yield-driven (term premium/growth)**.
+
+- *(★★★ AND THE VAULT ALREADY KNOWS WHICH CELL THIS EPISODE OCCUPIES)* **Bear STEEPENING** (2s30s widest in a
+  year, 5s30s +3.3bp), **term-premium/credibility driven rather than growth driven**, arriving with **Q2 GDP
+  decelerating to 1.5%.** **So the operative question is not "30Y over 5%" — it is "long rates RISING while
+  growth is FALLING," and that combination does not need a 5% handle to be the bad one.**
+  **The level is the headline; the divergence is the mechanism.**
+- *(⚠️ multiple testing)* ~40 conditional comparisons; expect ~2 to look significant on noise. **A result that
+  strengthens monotonically as the speed threshold tightens is real; one appearing at a single cut is not.**
