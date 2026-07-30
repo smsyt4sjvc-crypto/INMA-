@@ -1676,3 +1676,35 @@ overshot.**
   **consensus, not contrarian**, which changes the risk of holding it, not its truth value.
 - *(the standing watch, unchanged)* **30Y 5.14% into the Q2 GDP advance print and the next CPI, with 50bp of
   core CPI sitting in electronics the statement declined to name.** [[market-fragility]], [[ai-capex-cycle]].
+
+## 2026-07-30 ~8:30am ET — JUNE PCE: core soft by a rounding step, y/y EXACTLY in line — and the non-obvious read is that a SOFT print is BAD for the long end
+
+**DATA (Jake, live):** **Headline PCE −0.1% m/m (exp −0.1%). Core PCE +0.1% m/m (exp +0.2%). Headline 3.7%
+y/y (exp 3.7%). Core 3.3% y/y (exp 3.3%).**
+
+- *(⚠️ MAGNITUDE DISCIPLINE FIRST — this is a rounding step, not a regime)* **0.1 vs 0.2 on a monthly series
+  is ~10bp, inside this series' own revision noise.** **Both y/y figures — the numbers policy actually runs
+  on — printed EXACTLY in line.** **Registered: do not build a story on one monthly core miss of one decimal.**
+  This vault's standing defect is over-reacting to single prints; the calibration file has four instances
+  today alone.
+- *(★★★ THE NON-OBVIOUS READ: soft data may HURT the long end, because the problem is not the data)* **The 30Y
+  is at a two-decade high (5.24%) because the market doubts Warsh's WILLINGNESS to fight inflation, not
+  because it doubts the inflation numbers.** **A soft core print gives him COVER NOT TO HIKE — which is
+  precisely what the bond market is afraid of.** **So the mechanical expectation is: front end RALLIES on soft
+  data, long end does NOT, and the curve steepens FURTHER.**
+  **⭑ REGISTERED CALL, resolving within the session: 2s richer, 30Y flat-to-cheaper, 2s30s steeper. If the 30Y
+  RALLIES hard on this print, the credibility framing is wrong and it is a data-driven market after all.**
+- *(★★ THE ENERGY NON-TRANSMISSION IS THE QUIET FINDING)* **Headline (−0.1%) came in BELOW core (+0.1%) — so
+  energy and/or food FELL in June, with Brent elevated and the war in its fourth month.** **The oil shock is
+  not reaching the US consumer price level.** Consistent with [[demand-destruction]]: **an administered strait
+  plus a ~4.4 mb/d Chinese demand withdrawal produces a freight/insurance/crack tax, not a CPI event.**
+  **The Fed called energy a supply shock to look through, and one month of data says there was less to look
+  through than either side assumed.**
+- *(⚠️ AND IT IS A DATUM AGAINST THIS NOTE'S OWN ELECTRONICS THESIS — logged as such, not explained away)*
+  Registered 7/29: **Goldman's 50bp of core CPI from soaring electronics/memory prices**, filed as *"the single
+  most important thing to watch on the next print."* **Core PCE came in SOFT.** ⚠️ **PCE is not CPI — different
+  weights, chain-weighting, employer-paid healthcare — and electronics is a small weight in both.** **But this
+  is evidence against, and it goes in the ledger as evidence against.**
+- *(still pending in the same 8:30 release)* **Q2 advance GDP (est 2.0%), Q2 core PCE q/q (est 3.5% vs 4.4%
+  prior — a large expected deceleration), jobless claims (est 200k vs 187k prior).** **The quarterly core
+  deceleration is the bigger number than the monthly.**
