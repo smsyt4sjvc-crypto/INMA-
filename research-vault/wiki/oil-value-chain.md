@@ -102,3 +102,43 @@ Related: [[power-not-petroleum]], [[demand-destruction]] (the crack thread + the
   capacity (bullish cracks) vs the eventual end of subsidized input (bearish cracks). **Which dominates is
   exactly what XOM/CVX refining segments print FRIDAY** — the test this note already registered for 7/30-31,
   now with the SPR clock attached to it. [[demand-destruction]] (the absorber + the curve), [[war-board]].
+
+## 2026-07-30 ~4:55pm PT — ★★★ "SEABORNE MARKET = US" (Jake) — CORRECT ON GAS, WRONG ON CRUDE, AND THE SPLIT IS THE FINDING
+Jake's one-liner on my phrasing. **He is right that "seaborne market" was a euphemism hiding the content of
+the sentence.** Verified where the displaced molecules actually go — and gas and crude go to different places.
+
+### GAS — HE IS EXACTLY RIGHT, AND IT IS THE BILL'S DESIGN
+- **US is the world's largest LNG exporter: >16 Bcf/d in 2026; record 11.7 Mt in March 2026**, driven by
+  Middle East disruption, Europe taking the majority (EIA / DOE).
+- **★★★ AND THE GRAHAM ACT'S EXEMPTION IS DENOMINATED IN *NATURAL GAS*.** A compliance test keyed to Russian
+  **gas** export share, in a world where the **US is the dominant alternative gas supplier**, is mechanically
+  a **US LNG export-promotion instrument with a Ukraine wrapper.** **Jake's read is not cynicism; it is what
+  the exemption's denominator does.**
+
+### CRUDE — HE IS WRONG, AND THE BENEFICIARY IS THE GULF, NOT THE US
+- **Urals ≈ 32° API, ~1.4% sulphur — MEDIUM SOUR.** Indian hydrocrackers and cokers are configured for it.
+- **Closest-quality substitutes: BASRAH MEDIUM/HEAVY and ARAB MEDIUM** — **Iraq and Saudi Arabia.** ADNOC
+  **Murban** is lighter but blends well. **US crude carries "a meaningful freight cost premium for Indian
+  refiners due to shipping distance."**
+- **⇒ US light sweet is a poor drop-in for Urals on BOTH grade and freight.** The vault already carries the
+  grade principle ("CPC Blend and Kashagan are LIGHT SWEET"). **On crude the displaced Indian barrel is a
+  GULF barrel.**
+
+### ★★★ AND THAT IS THE COLLISION — THE SUBSTITUTE BARRELS SIT BEHIND THE CLOSED CHOKEPOINT
+**Basrah and Arab Medium transit HORMUZ. Hormuz is logged 🔴 CLOSURE EXECUTED IN EFFECT — zero tanker
+transits (7/25).** **The Graham Act's crude leg routes India's displaced demand INTO the strait that is
+currently shut, at a moment when the Gulf states are belligerents in the same war** (Gulf-Arab coalition,
+7/24; "Saudis joining," today). **This is a sharper inflationary mechanism than the generic
+"sanctions-tighten-the-market" argument, and neither Jake nor I named it before the check.**
+[[demand-destruction]], [[war/war-board]].
+
+### ⚠️ THE DATA ALSO KILLS THE POST'S "INDIA IS QUIETLY DIVERSIFYING" STORY — ON CRUDE
+**India's Russian share went 20.4% (Feb) → 46.8% (March 2026); Russian oil imports +94% in March; flows at
+near-record levels.** A US waiver lapsed ~May 2026. **India has been INCREASING Russian crude, not reducing
+it.**
+- **🚩 F15 SHARPENS INTO SOMETHING LARGER.** The exemption is **gas**-keyed. **India buys almost no Russian
+  GAS and near-record Russian CRUDE.** ⇒ **India may qualify for the exemption while continuing to buy Russian
+  crude at record volumes — which would make the bill toothless against its single largest target.**
+  **That explains "India's response has been characteristically quiet, calculating" far better than the post
+  does: not anxiety — they may have already read the loophole.** ⚠️ **Requires the bill text. Highest-value
+  open lookup on this thread.**
