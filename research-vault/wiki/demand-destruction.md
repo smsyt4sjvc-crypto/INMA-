@@ -2334,3 +2334,55 @@ shortage, and the tape isn't saying that despite the numbers literally saying it
   headline will read as a growth scare; the composition says otherwise.** Register it before the print:
   **watch final sales to private domestic purchasers, not the headline** — that is the line that strips out
   inventories, trade and the SPR effect. [[consumption-vs-investment-crux]], [[new-economy-regime]].
+
+##### 2026-07-29 ~10:35pm PT — ★★★ THE TOLL IS NOW OFFICIAL: **US SANCTIONS IRGC-LINKED FIRMS OVER HORMUZ TRANSIT FEES**
+### DATA (overnight feed)
+- **"US Sanctions IRGC-Linked Firms Over Strait of Hormuz TRANSIT FEES"** (IndexBox). **"US issues new
+  Iran-related sanctions targeting INSURERS, more TANKERS"** (Reuters). **"US targets insurers and tankers
+  linked to Iran."**
+- **Lloyd's List: "THE PRICE OF PASSAGE through the Strait of Hormuz."**
+- **Reuters EXCLUSIVE: "Yemen's Houthis considering FEES for ships sailing through Red Sea."**
+- **NYT: "TWO TANKERS HIT IN APPARENT DRONE STRIKE IN EGYPT."** (The Damietta report the vault filed as
+  CONTESTED yesterday.) **NYT: "Shipping Risks Spread Across Crucial Middle East Oil Routes."** CNBC: *"The
+  Strait of Hormuz is just ONE trade chokepoint facing a new era of maritime warfare."*
+- **Times of Israel: "Iran set to receive UP TO 400 Chinese shoulder-fired air-defense systems within weeks."**
+- **"Crude prices retreat as oil continues flowing through Hormuz ALTERNATIVES"**; Brent back near/below $90
+  after the 8% surge; **"US Crude Stockpiles Hit MULTI-YEAR LOW."**
+- **"Saudi Arabia seeks INTERNATIONAL COALITION to protect Red Sea shipping from Houthis"** (Reuters).
+- **"US and Iran are seeking allies to solidify control in the Strait of Hormuz. NEITHER is making much
+  progress."**
+
+### THESIS (interpretation — NOT fact)
+- *(★★★ THE TOLL-GATE THESIS IS NO LONGER A READ — IT IS THE OBJECT OF US SANCTIONS POLICY)* The vault filed
+  the toll-gate reading on **7/26** off a report that China was negotiating directly with the Houthis. It got a
+  first named payer on **7/29** (three Japan-linked vessels transiting *"by Iran route"*). **Now the US Treasury
+  is sanctioning IRGC-linked firms specifically over HORMUZ TRANSIT FEES, and Lloyd's List — the shipping
+  industry's paper of record — is publishing "the price of passage."** **A toll cannot be sanctioned unless it
+  is being collected.** **Registered as CONFIRMED: the strait is administered, not closed, and Iran is charging
+  for access.** Reuters separately has the **Houthis considering Red Sea fees** — the mirror image, on the second
+  chokepoint. **Two corridors, two collectors, one business model.**
+- *(★★ AND IT EXPLAINS THE PRICE BEHAVIOUR BETTER THAN ANY INVENTORY ARGUMENT — the vault's absorption paradox
+  is solved)* *"Crude prices RETREAT as oil continues FLOWING THROUGH HORMUZ ALTERNATIVES."* **Barrels are
+  moving. The disruption is being priced as a TAX, not a SHORTAGE.** A tax shows up in **freight, war-risk
+  insurance and CRACKS** — never in flat price, which is exactly what six weeks of tape has shown and exactly
+  why the vault moved its expression to cracks and calendars. **The sanctioning of INSURERS is the tell: the US
+  is attacking the payment mechanism, which concedes the mechanism exists.**
+- *(★★ THE STRATEGIC CONSEQUENCE, and it inverts the vault's closure branch)* **"US and Iran are seeking allies
+  to solidify control… NEITHER is making much progress"** plus **Saudi seeking an international coalition** =
+  a contested, monetised chokepoint with no resolution mechanism. **An administered strait EARNS MORE THAN A
+  CLOSED ONE, so the closure branch of the vault's discriminator becomes LESS likely the more entrenched the
+  toll becomes.** **The tail risk shifts from "closure" to "permanent structural cost" — worse for cracks and
+  freight, better for flat crude, and permanently inflationary at the margin.** That lands directly on a Fed
+  that just labelled energy a supply shock it intends to look through. [[new-economy-regime]], [[oil-value-chain]].
+- *(⛔ RESOLVING YESTERDAY'S CONTESTED DAMIETTA REPORT — it happened, and my "no claim of responsibility"
+  weighting was wrong)* I filed it as three mutually exclusive accounts and leaned on the **absence of a claim
+  as evidence FOR the accident hypothesis.** **NYT now reports TWO tankers hit in an apparent drone strike.**
+  **The lean was wrong: in a theatre with multiple unattributed actors, the absence of a claim is NOT evidence
+  of absence of an attack.** The Al Hadath denial was the weaker source and I gave it too much weight by
+  building the accident case around the missing claim. **What the vault got right: refusing to move any thesis
+  on it. What it got wrong: the direction of the lean.** **And the geographic point now stands — the conflict
+  has JUMPED SUEZ, and every re-routing calculation in this note assumed the bypasses were outside the theatre.**
+- *(★ the MANPADS number arrives: 400 units)* Yesterday's Reuters exclusive was unquantified. **Up to 400
+  Chinese shoulder-fired air-defence systems within weeks** is a squadron-scale threat to helicopters and
+  low-altitude aircraft, not a token transfer. Still single-sourced on the count. **Watch for a first
+  shoot-down — that is the event that converts this from a supply story into a US-China story.**
