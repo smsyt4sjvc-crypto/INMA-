@@ -2708,3 +2708,65 @@ with evidence. A flat or contango curve means there is nothing hidden — the ma
 balanced, and the reveal never comes.** **Re-run it before anything else. It settles the premise, and it costs
 one cell.** Secondary reads: **Brent–Dubai EFS** (light-sweet premium from the CPC Blend loss) and
 **Brent–WTI ~$7** (waterborne premium). [[oil-value-chain]], [[portfolio-state]].
+
+## 2026-07-30 ~2:20am PT — ⛔ THE ARBITER RAN AND I WAS WRONG: STEEP BACKWARDATION CONFIRMS PHYSICAL TIGHTNESS — but it also says the market prices the shortage in the FRONT and its RESOLUTION in the BACK
+
+**Two hours ago I wrote that the curve cell's *"prior is currently against"* Jake's hidden-shortage thesis and
+that a flat or contango print would mean *"nothing is hidden."* **It printed the opposite. Jake's premise is
+confirmed by the instrument I nominated to test it.**
+
+### DATA (`crude_curve_cell.py`, 2026-07-30)
+| | Sep | Oct | Nov | Dec | Jan-27 | Feb | Mar |
+|---|---|---|---|---|---|---|---|
+| **Brent** | 91.40 | 87.88 | 84.41 | 82.13 | **81.96** | 80.76 | 79.75 |
+| **WTI** | 84.44 | 81.32 | 78.48 | 76.27 | 74.71 | 73.67 | 72.84 |
+| Brent−WTI | +6.96 | +6.56 | +5.93 | +5.86 | +7.25 | +7.09 | +6.91 |
+
+**M1−M7: Brent +11.65, WTI +11.60. Brent M1−M7 = 12.7% of front over six months (~31% annualised).**
+
+**ARTIFACT CHECKS RUN FIRST, per this week's record:**
+- **The 404s are NOT a data failure.** CLN26 (July) and CLQ26 (August) are **expired** — August WTI came off the
+  board ~7/21. **CLU26/September is correctly the front month on 7/30.** ✓
+- **The front reconciles with spot:** curve Brent 91.40 vs scanner BZ=F 92.20; WTI 84.44 vs CL=F 84.83.
+  **Sub-1% gaps consistent with different snapshot times. No base artifact.** ✓
+- **⚠️ ONE STALE QUOTE: Brent Jan-27 at 81.96 is only −0.17 from Dec** while every other step is $1.00–3.52.
+  **That single month is out of line with the curve's own shape** — almost certainly a stale last-trade on
+  BZF27. Shape is unaffected; **do not use that month.**
+- **⚠️ Yahoo returns LAST TRADE, not settlement, and deferred crude is thinly quoted. Verify the far months
+  against CME settlements before sizing anything.** The internal consistency of the strip argues the data is
+  real; that is not the same as confirmed.
+
+### ★★★ WHAT IS CONFIRMED, AND WHAT IS NOT — the distinction is the whole finding
+- *(⛔ CONCEDED, EXACTLY)* **The physical market is genuinely tight.** Prompt barrels bid 12.7% over
+  six-month-forward is not a balanced market. **My competing hypothesis — "supply and demand contracted
+  together, so $92 is a balance not a suppression" — is substantially damaged.** A balanced market does not
+  pay $11.65 for prompt delivery. **Jake's premise survives its own test; mine did not.**
+- *(★★★ WHAT THE CURVE DOES **NOT** SAY — and this is the part that matters for how the view gets expressed)*
+  **Steep backwardation means the shortage is ALREADY IN THE PRICE — in the FRONT.** And the curve states,
+  explicitly, that the market expects it **resolved by Q1 2027: Brent Mar-27 at $79.75.** **The tape is not
+  "wrong" and the shortage is not "masked." The front is doing exactly what a shortage makes it do. What is
+  contestable is DURATION, not level.**
+- *(★★★ SO THE REGISTERED THESIS IS REDEFINED, not refuted — and the new version is the stronger one)*
+  **(a)** *"flat price is suppressed and will spike"* — **a FRONT-month view, and the front has already paid
+  for it.** **(b)** *"the disruption lasts LONGER than the curve implies"* — **a DEFERRED view, and Q2-2027 is
+  precisely where it is expressed, because that is the part of the strip the market has marked ~$12 lower.**
+  **Jake's instinct to go long-dated may be right for a reason he did not state: not that the reveal takes
+  time, but that the DEFERRED curve is where the mispricing sits if the disruption is structural.**
+- *(★★★ AND THE VAULT HAS INDEPENDENT EVIDENCE ON EXACTLY THAT QUESTION — pointing the other way from the
+  curve)* **The curve prices EPISODIC (resolved by Q1-27). The capital-siting evidence says STRUCTURAL:** Oman
+  expanding storage outside Hormuz, QatarEnergy buying 33 US cargoes, the US–Saudi $5B refinery sited outside
+  the strait — **multi-decade paybacks committed by parties with physical exposure.** **Two independent bodies
+  of evidence disagree about DURATION, and the deferred curve is the instrument that expresses the
+  disagreement.** **Registered as the sharpest open question this note contains.**
+- *(★★ THE MECHANICAL POINT NOBODY HAS STATED: backwardation makes a deferred call CHEAP IN STRIKE TERMS)*
+  **A Q2-2027 option strikes off a forward ~$12–13 BELOW spot.** The reference is ~$79, not ~$92. **The bar is
+  materially lower than the spot print implies** — and in backwardation a long futures roll EARNS rather than
+  bleeds. **Descriptive only; the offsetting cost is implied vol, which nobody here has looked at.**
+- *(★★ WHAT STILL CUTS AGAINST, undiminished)* **The ~2.8 mb/d political-return scenario — Saudi abandoning its
+  cut under fiscal pressure plus a CPC resolution via the Tokayev channel — IS the episodic case, and it is
+  exactly what the deferred curve is pricing.** **The curve is not naive about this; it is the consensus
+  expression of it.** Being long deferred is a bet against that consensus, not a bet the consensus does not
+  exist.
+- *(★ Brent−WTI holds ~$6–7 ACROSS THE WHOLE STRIP)* Not a front-month dislocation — **the waterborne premium
+  is priced as persistent for at least six months.** Consistent with a chokepoint tax that the market expects
+  to outlast the acute phase. [[oil-value-chain]].
