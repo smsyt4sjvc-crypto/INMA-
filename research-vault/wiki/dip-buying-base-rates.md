@@ -61,3 +61,31 @@ dips further?"* Two are **war-tape** base rates (this war only); one is a **regi
   drawdown resets to 0 and the ladder resets.
 - Book context at build: +2 SPY @ 738.46, names (VG/CRCL/LLY/NOW) held indefinite, rest SPAXX (cash = the dry powder this
   ruler is sizing). See [[portfolio-state]].
+
+## 2026-07-30 ~4:20pm PT — APPLIED: "I just need 2%, that's not uncommon" (Jake) — the base rates, against the claim
+- **THE MATH IS HIS.** SPY 741.69, Dec-745 put marked $26.11, cost $33.3667, 141 days left, IV ~15.6%.
+  **Breakeven TODAY = SPY 726.82 = −2.01%.** (The −4.05% figure I quoted is the **EXPIRY** breakeven, SPY
+  711.63, and only binds if held to December. **With 141 days of extrinsic on it, he needs 2%. He is right.**)
+- **★★ AND THE VEGA MAKES HIS CASE BETTER THAN HE ARGUED IT.** Vega $182/pt:
+
+  | SPY move | IV +0 | IV +3 | IV +6 | IV +10 |
+  |---|---|---|---|---|
+  | **−2%** | **+$724** | +$1,261 | **+$1,798** | +$2,516 |
+  | −5% | +$2,049 | +$2,537 | +$3,037 | +$3,714 |
+
+  **−2% with a 6-point IV pop is +$1,798 — it does not merely recover the loss, it clears the $3,337 basis.**
+  **~60% of a shock payoff is the VOL leg, not the spot leg.** ⇒ **The position needs VIOLENCE, not
+  direction.** A grinding −2% over three weeks pays ~$724 less ~$150 of theta; a violent −2% in one session
+  with vol bid pays 2.5×. **That distinction is the whole trade and it is not what "I need 2%" describes.**
+- **⛔ THE COUNTER IS IN HIS OWN ACCOUNT, 48 HOURS OLD.** `SPY 740.40 → 729.46 (−1.48%) → 741.69 (+1.68%)`;
+  `put 27.16 → 34.16 → 26.11`. **He ALREADY GOT the shock day. It paid +$700 and was gone in 24 hours; the
+  round trip netted −$105.** **He does not need a 2% move — he needs a 2% move that STICKS, or an exit taken
+  INTO it.** *(Descriptive: the payoff here is governed by exit discipline, not by the forecast. He was up
+  $700 on the thesis working.)*
+- **STUDY 1 recall (war down-days):** *"most windows drift/chop; the few that rip pay big... magnitude yes,
+  sign no."* **Chop is the enemy of a long option in either direction.** **STUDY 2 (war weekends): 67% UP
+  Fri→Mon close, big up-gaps outnumber big down-gaps 3-to-1** — though **both hot-phase weekends closed RED**,
+  which is the one base rate on Jake's side.
+- **STUDY 3 update:** ATH 7610 (6/2/26); SPX ≈ **7417** now = **−2.5%**. His 2% takes it to −4.5% — **still
+  inside "wobble," a quarter of the −18.9% median real correction.** Cuts both ways: shallow moves are common
+  (his point), *and* nothing about the current tape says a real correction has begun (mine).
