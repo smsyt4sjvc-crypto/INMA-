@@ -1685,3 +1685,57 @@ evidence and evidence gets audited before it gets used.)*
   off the low = the day's selling was event-risk positioning and the de-gross was already done.** **That
   distinction is the single most useful thing available in the next 16 minutes, and it bears directly on
   tomorrow's gap.**
+
+## 2026-07-30 ~1:40am PT — ★★★ THE INDEX AND THE AVERAGE STOCK HAVE INVERTED: EW S&P at an ALL-TIME HIGH while EW Nasdaq has its worst relative month on record (Jake's paste — ⚠️ UNVERIFIED, source is a stats-aggregator account)
+
+**CLAIMED DATA (⚠️ not independently verified — yfinance is blocked from the container; verification cell
+`tools/equal_weight_check_cell.py` shipped to Jake):**
+- **EW Nasdaq 100 underperforming EW S&P 500 by 6.8pp month-to-date — "worst relative month on record."**
+- **No month in 20 years worse than 5pp.** Follows **4 consecutive months of EW tech OUTperformance.**
+- **EW S&P +2.2% MTD, AT AN ALL-TIME HIGH. EW NDX −4.6%, near its mid-May low.**
+
+- *(★★★ THE ONE LINE THAT MATTERS, and the source buried it as colour: MONEY IS NOT LEAVING THE MARKET)*
+  **An equal-weighted S&P at an all-time high is definitionally not a de-gross.** If capital were exiting, the
+  average stock would not be printing a record. **The money coming out of tech is ROTATING INSIDE the index.**
+  **This is the strongest containment datum the vault has recorded this week** — stronger than the absent
+  neocloud casualty, because it is a positive measurement rather than an absence.
+- *(⛔ AND IT WEAKENS A FRAME I HAVE BEEN LEANING ON ALL WEEK)* I have used **"de-gross"** to explain the
+  neocloud drawdown, the memory rout, the momentum unwind, and — last night — to argue that **memory equity
+  prices carry no cycle information.** **A de-gross and a rotation are different mechanisms with different
+  implications, and I have been using one word for both.** If a material share of this is rotation, then
+  **selling MU to buy the other 400 names IS a relative judgment about MU — which is information, not noise.**
+  That is the SECOND defect found in that rule in six hours (the first: hynix falling on its own miss).
+  **Registered: the rule was over-general and I should have said "part de-gross, part rotation, and I cannot
+  yet split them."**
+- *(★★ THE RECONCILIATION — both are true, in different pools of money)* Goldman's own wrap had it: *"357 SPX
+  names green with SPW at all-time highs"* **on the same day as** *"the largest 3-day de-gross on GS Prime
+  records since Nov '22."* **The hedge-fund complex is de-grossing crowded momentum longs while long-only and
+  passive money rotates into the rest of the index.** **The de-gross explains the VELOCITY of the tech
+  decline; the rotation explains why index-level damage is contained.**
+- *(★★★ THE REGIME OBSERVATION, and it is the first of this cycle)* For two years the complaint was **"the
+  index is up but the average stock is not."** **It has inverted: the average stock is at a record and the
+  cap-weighted index is falling.** ⚠️ **I do not have cap-weighted SPX month-to-date in hand and will not
+  assert the inversion until I do — that number is the confirmation and it is in the shipped cell.**
+  **Registered as OPEN FLAG F11.**
+- *(⚠️ WHERE THE SOURCE'S OWN CONCLUSION IS UNSUPPORTED — two separate problems)* **(1) "Investors are taking
+  profits at a historic pace" is a MOTIVE claim read off a price series.** The same −6.8pp is equally
+  consistent with risk reduction, forced deleveraging, mandate rebalancing and index flows. **Prices do not
+  carry intent.** **(2) "The average tech stock" is not what EW NDX measures.** The Nasdaq 100 is the largest
+  100 non-financial Nasdaq listings — **PEP, COST, AMGN, GILD, MDLZ sit in it** — and equal-weighting it
+  sharply raises the weight of the SMALLEST, most crowded members. **A big EW-vs-cap gap would mean the damage
+  is in the high-beta tail, which is a momentum unwind, not "tech profit-taking."** The shipped cell prints
+  that spread.
+- *(★ the extreme is real, and the WARNING-vs-TRIGGER rule applies to it anyway)* **6.8pp against a 20-year max
+  of 5pp is ~36% beyond the prior record — a genuine tail reading, not a framing trick.** Conceded. **But
+  "worst on record" is a STATE.** Per this vault's standing rule an extreme reading **shades odds and times
+  nothing**, and the direction is genuinely ambiguous: a record cohort drawdown is as consistent with
+  **exhaustion of the unwind** as with the start of a regime change. **The post implies the second without
+  argument.** ⚠️ Note also that QQQE launched in 2012, so a "20 years" claim cannot come from that series.
+
+### ★★★ THE TRIGGER THIS CREATES (dated, mechanical, falsifiable — not a warning)
+**The containment case now rests on one measurable thing: the equal-weighted S&P holding its all-time-high
+level.** **KILL SWITCH: if EW S&P (RSP) breaks decisively below its all-time high while NDX continues lower,
+the rotation has become a broad de-rate and every containment argument in this note dies at once** — the
+absent casualty, the open primary market, and the "it is a sector event" read all depend on the rest of the
+index absorbing the AI complex. **Watch RSP's `vs ATH%` line, not the VIX and not the neoclouds.**
+[[detachment-bid]], [[ai-financing-fragility]], [[ai-capex-cycle]].
