@@ -873,3 +873,35 @@ true per day (~$6–8 theta), **false over the 48 days he has held it**: freezin
 
 **Score.** Jake did not catch this one — the screenshot did. **Self-caught on contact with data, which is the
 right outcome but not the same as not having done it.**
+
+### SAME DAY, 3:09pm PT — the rule fired within minutes, and the answer was outside my whole bracket
+
+Jake supplied one number — **spot 742** — and the entry above resolves: **IV moved −0.05 points. The move was
+98% delta.** So the score on the split I reported as "~73% delta / 27% vol":
+
+| what | delta share |
+|---|---|
+| what I asserted | 73% |
+| my "honest" bracket, printed one message later | 26%–98% |
+| **measured** | **98%** |
+
+**The true value sat at the extreme edge of the range I drew, and my point estimate was off by 25 points.**
+The new rule (print the range) worked — it kept me from being flatly wrong twice — **but "inside a bracket
+that wide" is not a result.** Printing a range is the floor, not the fix. **The fix was to ask Jake for spot,
+which cost one sentence and settled it completely.** I had a human with a live broker screen and I modelled
+instead of asking.
+
+**★★★ AND THE DEEPER PATTERN, which is the actual finding here.** Across three consecutive messages I
+explained a price move with **vol** — IV crush, then "the forecast got cheaper," then "the extrinsic bill
+outran the underlying." **All three were wrong, in the same direction.** The tape did something simple
+(SPY +2.2%) and I kept reaching for the sophisticated mechanism. **Greeks knowledge became a bias: knowing
+vega exists made me spend it.** Cf. the CPC miss and the "portfolio-management-fee" hypothesis built for a
+negative PCE print that never existed — *same failure, different domain: a mechanism assembled before the
+measurement.*
+
+**RULE (sharpened).** *When a human is holding the instrument, ask for the observable before modelling it.*
+And: *when the simple explanation (price went up) and the sophisticated one (vol regime shifted) both fit,
+the burden is on the sophisticated one — check it FIRST, not last.*
+
+**Score: 3 wrong readings, 1 self-caught on data, 2 caught only because Jake volunteered a number I should
+have requested.**
