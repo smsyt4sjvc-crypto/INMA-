@@ -466,3 +466,59 @@ Filed under the artifact rule: a CONTESTED report is not evidence and must not m
   TTF go quiet, the market has priced it as an accident or a false report.** **Watch the next hour of Brent
   above $90 and any TTF print.** No further analysis is warranted until one of those two things happens.
   [[demand-destruction]], [[oil-value-chain]], [[war-confirmed]]
+
+##### 2026-07-29 ~10:45pm PT — ★★★ QESHM ISLAND HIT. SOMEONE IS ATTACKING THE **TOLL BOOTH**, AND THAT IS NOT BULLISH FOR SHIPPING.
+### DATA (wire items, minutes old at paste)
+- **"RESIDENTIAL AREA HIT IN ATTACK ON IRAN'S QESHM ISLAND"** (Tasnim — IRGC-affiliated). **No attacker named.**
+- **"IRAN: 2 TANKERS SUFFERED FIRES OVERNIGHT IN HORMUZ SOUTH ROUTE."**
+- Context from the same news cycle: **"U.S. strikes Iran after surprise missile attack, dashing hopes of
+  de-escalation"** (CNBC); **"United States completes strikes against Iran, explosions heard across region"**
+  (Jerusalem Post); **Trump: "we'll be hitting Iran hard, it's our turn."**
+- **Windward, confirming Damietta with new precision: "A drone struck the LNG floating storage unit ENERGOS
+  WINTER (U.S.-MANAGED, MARSHALL ISLANDS-FLAGGED) at Damietta, Egypt on the evening of 29 July."**
+- Prior wire in the same sequence (Mehr, Iranian state): **"Oil tankers hit after using ILLEGAL ROUTE in
+  Hormuz Strait."**
+- **"Trump Admin Set To Ban Chinese Robots In 'Economic Security' Push."**
+
+### THESIS (interpretation — NOT fact)
+- *(★★★ WHY QESHM IS DIFFERENT FROM EVERY PRIOR TARGET ON THIS BOARD)* **Qeshm is Iran's largest island and it
+  sits INSIDE the Strait of Hormuz**, opposite the UAE, hosting Iranian naval and missile infrastructure. **It
+  is not an export node — Iran exports crude from Kharg, not Qeshm. It is a CONTROL node.** Every prior energy
+  target logged here was about **producing or shipping oil** (Abqaiq, Jazan, tankers, Iraqi militias). **Qeshm
+  is about GOVERNING THE PASSAGE.** ⚠️ Tasnim is IRGC-affiliated and the report is a residential-casualty claim
+  with no attacker named; **treat the target set as unconfirmed.** But the timing sits inside a US retaliation
+  the President announced in advance.
+- *(★★★ THE COUNTER-INTUITIVE CONSEQUENCE, and it is the most useful thing in this entry: DEGRADING THE TOLL
+  COLLECTOR MAKES SHIPPING WORSE, NOT BETTER)* The vault confirmed yesterday that **Hormuz is ADMINISTERED, not
+  closed** — the US is sanctioning IRGC firms over **transit fees**, Lloyd's List is publishing **"the price of
+  passage,"** and Japan-linked vessels are transiting *"by Iran route."* **If the strait is a toll gate, Qeshm
+  is the toll booth.** **Destroying the collector does NOT reopen the strait — it removes the COUNTERPARTY.**
+  **Insurance and freight markets can price a toll. They cannot price an UNGOVERNED chokepoint.** A shipowner
+  can pay a fee and sail; a shipowner facing an authority that has been bombed out of its command-and-control
+  has no one to pay and no guarantee to buy. **So a successful strike on Iran's Hormuz control apparatus is
+  BULLISH war-risk premia, freight rates and CRACKS — the opposite of how "US degrades Iran's ability to close
+  Hormuz" reads as a headline.** **Registered as the inverted read: the vault should NOT treat strikes on
+  Iranian chokepoint infrastructure as de-escalatory for shipping costs.** [[demand-destruction]],
+  [[oil-value-chain]].
+- *(★★ AND THE TWO TANKER FIRES SHOW THE TOLL HAS ENFORCEMENT)* Sequence across 48 hours: **IRGC Navy "targeted
+  and stopped" three tankers → Iranian state media says tankers were hit "after using an ILLEGAL ROUTE" → two
+  more tankers burn overnight on the "HORMUZ SOUTH ROUTE."** **Iran is designating legal routes and enforcing
+  against vessels that use others.** That is not harassment — **it is a tariff regime with a penalty schedule**,
+  and it is the operational detail that makes the toll thesis mechanical rather than metaphorical. **Watch for
+  a published route designation or a fee schedule; that is the document that would settle it entirely.**
+- *(⛔ MY KILL SWITCH HAS NOW BEEN SHOWN TOO NARROW TWICE IN 24 HOURS)* Set #6 #3 reads: *"strike on a CRUDE
+  EXPORT node (Abqaiq-class, Ras Tanura, Basra) or Iraqi export infrastructure."* **Yesterday Damietta showed it
+  was blind to LNG. Tonight Qeshm shows it is blind to CHOKEPOINT CONTROL infrastructure.** Neither fires the
+  switch as written, and in both cases the event is arguably larger than the one I specified — **a strike that
+  degrades governance of ~20% of seaborne oil outranks a strike on one country's export terminal.**
+  **Rewriting for set #7: "a strike on any node that PRODUCES, PROCESSES, SHIPS or GOVERNS energy flow —
+  export terminal, refinery, LNG facility, or chokepoint control infrastructure."** **The lesson is general: I
+  wrote the trigger around the instrument I trade instead of the system that moves it.**
+- *(★ Windward is now 2-for-2 on named-vessel incidents, which partially rehabilitates a claim I discounted)*
+  I dismissed their *"flagged as a likely target two days before"* claim as vendor marketing with no
+  denominator. **That objection still stands — but they have now correctly identified and detailed two separate
+  incidents (NCC GHAZAL, ENERGOS WINTER) ahead of or alongside the wires.** **Upgrade them from "discard the
+  forecast" to "a credible incident source whose predictive claims remain unscored."** Their correction of the
+  Damietta vessel from "US-owned" to **"US-MANAGED, Marshall Islands-flagged"** is the kind of precision that
+  earns the upgrade — flag of convenience versus US registry is a materially different legal and political
+  fact, and it means yesterday's "US-owned asset struck" framing was too strong.
