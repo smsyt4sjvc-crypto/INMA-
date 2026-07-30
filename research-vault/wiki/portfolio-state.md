@@ -440,3 +440,52 @@ Source: scanner digest (`raw/2026-07-16-scanner-digest-eve.md`).
 - **Powder discipline (descriptive):** day one of the crack, VIX only 18.7. If doom ACCELERATES (oil holds $100, the 7/29-30
   capex gauntlet sells, credit leg fires) there's more dip below → keep tranches for the VIX-28 EXECUTE zone. 2 shares is
   right-sized precisely because it preserves powder. [[market-fragility]] (VIX zones), [[metered-compute]] (the demand floor).
+
+## 2026-07-30 3:01pm PT — SPY Dec-745 PUT: the full P&L decomposition (Fidelity screen, 5:58pm ET)
+Source: Jake's position screen — `raw/2026-07-30-spy-dec745-put-position-screen.md`. Underlying confirmed SPY
+via the 7/23 entry above ("the Dec-745 SPY puts are now ITM, SPY 738 < 745"). Expiry taken as **Dec-18-2026**.
+
+**DATA (from the screen, no modelling):**
+| field | value |
+|---|---|
+| contracts | 1 |
+| average cost | $33.3667 → **cost basis $3,336.67** (acquired **Jun-12-2026**, 189 DTE) |
+| total value now | **$2,611.00** ($26.11) |
+| total gain/loss | **−$725.67 (−21.75%)** |
+| today's gain/loss | **−$805.00 (−23.57%)** |
+
+**DERIVED (arithmetic only):** prior close = 2611 + 805 = **$3,416.00 ($34.16)**. Jake's stated "+$700
+yesterday" ⇒ the close before = **$2,716.00 ($27.16)**.
+
+- **★★★ THE ROUND TRIP, IN HIS OWN ACCOUNT.** `27.16 → 34.16 → 26.11`. **+$700 (+25.8%), then −$805 (−23.6%),
+  NET −$105 (−3.9%).** Two sessions containing a +26% day and a −24% day paid the holder **−3.9%**. This
+  requires *no* assumption about spot or vol — it is the cleanest available demonstration that **realized
+  volatility is not income to a naked long option.** Path value exists but is only harvestable by
+  delta-hedging ([[options-reference-natenberg]]); unhedged, a round trip pays the round-trip.
+- **★★★ THE LOSS IS AN IDENTITY, AND IT RESOLVES EXACTLY.** Total P&L ≡ ΔIntrinsic + ΔExtrinsic. Today
+  (spot ≈735): intrinsic **$10.00**, extrinsic **$16.11**. Entry: $33.37 total. Across every plausible entry
+  IV the two columns re-split but the sum is **−$726 every time**:
+
+  | entry IV | implied SPY Jun-12 | Δ intrinsic | Δ extrinsic | total |
+  |---|---|---|---|---|
+  | 16% | 734.2 | −$82 | −$643 | **−$726** |
+  | 18% | 743.4 | +$845 | −$1,570 | **−$726** |
+  | 20% | 753.5 | +$1,000 | −$1,726 | **−$726** |
+
+  **In every branch the extrinsic bill EXCEEDS whatever the underlying handed over.** The 7/23 note's "*now*
+  ITM" wording puts SPY above 745 for most of the hold ⇒ the 18–20% rows. Read that way: **the underlying fell
+  ~18 points toward the strike, the put went from OTM to $10 ITM, and the position still lost $726.**
+  **The position has been RIGHT on direction and DOWN on P&L for 48 days.** That is the whole lesson.
+- **⚠️ THE CLOCK IS A BIGGER SHARE THAN THE PER-DAY THETA SUGGESTS.** Freeze spot *and* vol at entry and roll
+  189d → 141d: **−$305 (16% IV) to −$495 (22% IV)** — i.e. **42–68% of the total loss is pure decay**, even
+  though daily theta is only ~$6–8. 48 small numbers integrate. *(Corrects a same-session claim of mine that
+  "decay is not your problem" — true per day, false over 48 of them.)*
+- **STANDING (descriptive, not advice — rule 7):** 141 days left. Breakeven at expiry = **SPY below $711.63**
+  (−3.18% from 735). Extrinsic still to be paid between now and Dec-18: **$16.11 ($1,611)**. Vega ≈ **$181 per
+  IV point** ⇒ a +3pt IV move with spot unchanged is **+$543**; the position is now roughly as much a long-vol
+  position as a short-SPY one.
+- **⚠️ artifact-risk / OPEN:** spot (~735) and today's IV are **inferred**, not read off the screen. Backing IV
+  out of $26.11 at spot 735 gives **~13.9%**, and ~15.8% at yesterday's 726 — **low for a tape that crashed and
+  bounced this hard.** Either the spot inference is off, or index IV is genuinely suppressed while dispersion
+  runs hot — which is exactly the question `tools/vix_term_structure_cell.py` was built to arbitrate
+  ([[market-fragility]]). **Two numbers from the broker screen (spot + the contract's IV) close this exactly.**
