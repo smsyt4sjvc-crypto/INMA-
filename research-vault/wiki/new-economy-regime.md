@@ -1875,3 +1875,46 @@ reached slowly does not.**
   **The level is the headline; the divergence is the mechanism.**
 - *(⚠️ multiple testing)* ~40 conditional comparisons; expect ~2 to look significant on noise. **A result that
   strengthens monotonically as the speed threshold tightens is real; one appearing at a single cut is not.**
+
+## 2026-07-30 ~9:00am ET — 20s30s IS INVERTED (Jake's screen, Jul-30 8:58am ET) — but it is a CONVEXITY signal, not a growth signal, and his own screenshot contains the proof
+
+**DATA (broker "Bond & CD yields", ⚠️ HIGHEST-YIELD tab — an inventory screen, not the curve):**
+
+| | 10Y | 20Y | 30Y+ | 20s30s |
+|---|---|---|---|---|
+| **US Treasury standard** | 4.68 | **5.30** | **5.22** | **−8bp INVERTED** |
+| **US Treasury ZEROS** | 4.84 | **5.49** | **5.26** | **−23bp INVERTED** |
+| Agency GSE | 5.45 | 5.91 | 5.73 | −18bp |
+| Corp Aaa | 5.23 | 5.93 | 6.08 | **+15bp** |
+| Corp Aa | 5.87 | 6.79 | 7.10 | **+31bp** |
+| Corp A | 5.87 | 6.76 | 7.05 | **+29bp** |
+| Corp Baa | 6.86 | 7.60 | 7.96 | **+36bp** |
+
+- *(⚠️ CAVEAT FIRST — this is the "HIGHEST YIELD" tab)* **That is the best available OFFER in each maturity
+  bucket, not a constant-maturity curve point**, and "30 YR+" is a BUCKET. **Verify against FRED DGS20 vs
+  DGS30 before using the number.** ⚠️ **That said, the 10Y (4.68) and 30Y (5.22) both reconcile with this
+  morning's wire prints (4.69–4.71 and 5.24), so the Treasury rows look close to real curve points.**
+- *(⛔ 20s30s IS NOT THE RECESSION PAIR — do not read it as one)* **The predictive inversion literature is
+  2s10s and 3m10y.** **There is no comparable body of work on 20s30s and no mechanism connecting it to
+  growth.** A long-end inversion is a **convexity and supply/demand** phenomenon.
+- *(★★ THE 20Y HAS BEEN STRUCTURALLY CHEAP SINCE IT WAS REINTRODUCED IN MAY 2020)* No natural investor base
+  after its long absence; **liability-driven buyers target the 30Y for maximum duration**; it is not the
+  liquid benchmark and sits outside the main futures complex. **A 20Y trading above the 30Y has been close to
+  the NORMAL state of that pair for six years — it is not a new signal.**
+- *(★★★ AND JAKE'S OWN SCREENSHOT CONTAINS THE PROOF, in the ordering)* **The inversion SCALES WITH
+  CONVEXITY.** **ZEROS are the most inverted at −23bp** — a zero-coupon bond has a single terminal cash flow
+  and therefore **the most convexity available at a given maturity.** **Coupon Treasuries invert less (−8bp).
+  Corporates do not invert at all (+15 to +36bp), because credit spread and call features dominate their long
+  end.** **A signal that scales with convexity IS convexity.** ⚠️ Agency at −18bp does not fit cleanly —
+  agencies are frequently callable, which is NEGATIVE convexity — **most likely the highest-yield screen
+  selecting callables; noted as unexplained rather than forced into the story.**
+- *(★★★ THE CORPORATE ROWS ARE THE CONTROL GROUP, and they settle it)* **If a 20s30s inversion were a MACRO
+  or growth signal it would appear across credit. It does not — every rating band is normally sloped.**
+  **The inversion is confined to the instruments where the 20Y sector's structural cheapness and 30Y
+  convexity/LDI demand live.** **Jake supplied the control group in the same screenshot without it being the
+  point of the screenshot.**
+- *(★★★ WHAT IT DOES SIGNAL — and it is on-thread)* **Convexity is worth more when RATE VOLATILITY is
+  higher.** **So a widening long-end inversion is a rate-VOL signal.** That lands directly on this note's
+  registered thesis: **Warsh has removed forward guidance, Slok describes yields moving "up and down like a
+  yo-yo," and the deliberate dismantling of the reaction function RAISES rate variance by construction.**
+  **The 20s30s inversion is a price for that variance, not a forecast of recession.** [[market-fragility]].
