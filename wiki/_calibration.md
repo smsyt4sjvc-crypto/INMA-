@@ -574,3 +574,45 @@ router sends them to the WRONG note.** Both defects, from run 2 of `acute_scanne
 - **(the meta-point, and it is the reason the route line earns its place)** **A tag says what a headline is
   ABOUT. A route says what it is EVIDENCE FOR.** The two defects above were invisible while the scanner printed
   only tags, because *Ofgem → CAPEX* is not obviously wrong until you see it addressed to the wrong note.
+
+## 2026-07-30 ~1:00am PT — ⛔⛔⛔ THE LARGEST MISS THIS VAULT HAS RECORDED: an eleven-day, 2%-of-global-supply oil outage that never entered the notes
+
+Jake pasted two wire flashes about **CPC**. **I did not know what CPC was.** It is the Caspian Pipeline
+Consortium — **~1.8 mb/d, >80% of Kazakh exports, ~2% of global crude supply** — and it has been under
+Ukrainian drone attack **since July 19**, with **Kazakhstan's output more than halved by July 26.** Full record
+in [[demand-destruction]]. The honest accounting, itemised:
+
+1. **NEVER FILED AT ALL.** Eleven days, four-plus tanker attacks, a producing nation cutting output more than
+   50%, a public "global energy security" warning from Kazakhstan. **Zero entries.** Every other error in this
+   file is a wrong reading of something I saw. **This is the first one that is a failure to SEE.**
+2. **I DECLARED A PARADOX "SOLVED" USING HALF THE DATA.** *"THE ABSORBER FOUND… the absorption paradox is
+   solved"* was written while a second, larger outage was running. **A mechanism explaining one leg of a
+   two-leg problem is not a solution, and I marked it CONFIRMED.** ⚠️ **Standing rule: "solved" requires that
+   I have enumerated the inputs, not that I have found AN explanation.** A sufficient story is not a complete one.
+3. **THE SPR ARITHMETIC NEVER WORKED AND I DID NOT CHECK IT.** SPR draw **722k bpd** against a CPC outage of
+   **~1.8 mb/d.** **The absorber I identified is less than half the size of one of the two outages.** I had both
+   numbers available and never divided them. **A one-line sanity check would have exposed that the absorber
+   story was incomplete, three days before Jake's flash did.**
+4. **I NAMED A DRIVER FOR TONIGHT'S BRENT MOVE ONE HOUR AGO.** Attributed +2.25% to IRGC escalation. **The CPC
+   re-attack was on the same tape.** The concession that flat price moved stands; **the attribution was
+   unsupported and I stated it as fact.**
+5. **KILL SWITCH FAILURE #3 IN 48 HOURS — committed AFTER diagnosing the pattern.** I wrote that I *"keep
+   writing switches around the mechanism I am currently thinking about instead of around the ASSET CLASS,"*
+   then wrote a "deliberately over-broad" switch scoped to **Hormuz** — the geography I was thinking about.
+   **I fixed the specific instance and reproduced the general defect one level up.** **Sentences fail; the
+   replacement is a standing CHECKLIST of export loading nodes, checked on a schedule independent of the news.**
+6. **I SKIPPED A CORRECTLY-ROUTED T1 HIT ON THE FIRST RUN OF THE ROUTING TOOL.** The scan I read one hour ago
+   contained, in the FINANCIAL WIRE tier: **`[2.1h] FT WAR/OIL — "How Putin's refinery dream became Ukraine's
+   target" -> demand-destruction / war-board / oil-value-chain.`** **The scanner found the theatre, tagged it,
+   and addressed it to the right note. I wrote nothing about it.** Jake's instruction was *"they should be read
+   and associated with their originating thread so we don't skip relevance"* — **I skipped relevance on the
+   first run, on a T1 source, on the item that would have opened the theatre.**
+
+- **(THE PATTERN UNDERNEATH ALL SIX, and it is not carelessness)** **Every one of these is a consequence of
+  having a strong frame.** The Hormuz toll thesis was good, and it made every oil item legible as a Hormuz item.
+  **A frame that explains what you see also determines what you look at.** The vault's defences — routing,
+  BASE columns, kill switches — all operate on data that has already entered. **None of them protect against a
+  theatre never being opened.** The checklist in [[demand-destruction]] is the first defence written for that
+  failure mode.
+- **(what the tool must do, concretely)** Add a **BLACK SEA / CPC** thread to `acute_scanner_cell.py` with its
+  own feed, and stop relying on *tanker* inside a Hormuz-scoped query to surface a Novorossiysk story.

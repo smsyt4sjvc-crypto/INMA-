@@ -2472,3 +2472,84 @@ discriminator becomes LESS likely."* **Tonight's flow and rhetoric data cut agai
 - *(the inventory link, and it dates the SPR clock harder)* **"US oil inventories SINK as Hormuz traffic
   remains subdued."** The absorber is still absorbing. **Every week of subdued transit spends the clock this
   note dated at ~11.4 weeks to 250M.**
+
+## 2026-07-30 ~12:00am PT — ⛔⛔⛔ THE VAULT MISSED A SECOND OIL WAR: CPC has been under drone attack since JULY 19, Kazakhstan's output MORE THAN HALVED, and ~2% OF GLOBAL CRUDE SUPPLY went offline while this note was "solving" the absorption paradox
+
+**Jake's wire flash:** *"CPC SAYS TANKER WAS ATTACKED BY DRONES JULY 30 / NISSOS SIFNOS TANKER ATTACKED
+OVERNIGHT WHILE LOADING CPC OIL."* **I did not recognise CPC and had to look it up. What the search returned
+is an eleven-day supply event this vault has never once recorded.**
+
+### DATA (verified, multiple independent outlets — Reuters via Meduza, Bloomberg, S&P Global, Moscow Times, Times of Central Asia, Astana Times, Rigzone)
+- **CPC = Caspian Pipeline Consortium.** Carries **Tengiz, Kashagan and Karachaganak** crude from Kazakhstan
+  across Russia to the **CPC Marine Terminal at Novorossiysk**, Black Sea. **>80% of Kazakhstan's oil exports.
+  ~2% of GLOBAL daily crude supply. ~1.8 mb/d loaded in May and June.**
+- **Jul 19:** Ukrainian drones hit tankers **ASIA** and **NISSOS IOS** while loading Kashagan crude. Loadings
+  suspended, resumed same evening.
+- **Jul 20:** tanker **NELSA** struck aft starboard — fires on deck and in compartments, **22 crew evacuated**
+  except master and chief officer. **Loadings suspended again.**
+- **Jul 22:** **Kazakh output −21% to 1.63 mb/d** from a July average of 2.07.
+- **Jul 26:** **output ~1.0 mb/d — MORE THAN HALVED. Tengiz alone fell to ~406k bpd from 925k.**
+- **Jul 27:** loadings **RESUME**.
+- **Jul 30 (tonight):** **NISSOS SIFNOS attacked while loading.** *(The "NIFFOS" in the flash is NISSOS — an
+  Okeanis-fleet naming convention; two Greek-owned tankers were among the earlier casualties.)*
+- **Kazakhstan has publicly warned the attacks "risk global energy security."**
+
+### ⛔ WHAT THIS DOES TO THIS NOTE'S OWN WORK
+- *(⛔⛔ "THE ABSORBER FOUND / THE ABSORPTION PARADOX IS SOLVED" WAS DECLARED ON HALF THE PROBLEM)* On 7/28 I
+  wrote that the paradox — *total closure and a shrugging tape* — was **SOLVED** by the toll framing plus the
+  SPR draw. **I solved it while ~1.8 mb/d of Kazakh exports were offline and I did not know.** The real question
+  was never "why is crude flat with Hormuz disrupted." It was **"why is crude flat with Hormuz disrupted AND 2%
+  of global supply physically removed."** **A mechanism that explains one leg of a two-leg outage is not a
+  solution, and I labelled it CONFIRMED.**
+- *(⛔ AND THE TOLL FRAMING CANNOT EXPLAIN THE CPC LEG AT ALL)* **Nobody is charging for passage at
+  Novorossiysk. This is pure physical denial — the mechanism I spent three days arguing Hormuz was NOT.** Two
+  theatres, two opposite mechanisms, running concurrently. **The vault has been treating "the oil war" as a
+  synonym for Hormuz.**
+- *(⛔ THE SPR CLOCK IS UNDER MORE LOAD THAN I MODELLED, and the arithmetic says the SPR was never the main
+  absorber)* **SPR draw = 722k bpd. CPC alone was ~1.8 mb/d.** **The SPR could not have covered CPC — it is
+  less than half the size of that single outage.** So something else absorbed it: OPEC+ spare (available in
+  part *because Kazakhstan had been overproducing its quota*), floating storage, and commercial draws —
+  tonight's **"US oil inventories SINK"** is that, visible. **The 11.4-week clock to 250M stands, but my story
+  about what it was buying was wrong.**
+- *(⛔ AND I MAY HAVE MIS-ATTRIBUTED TONIGHT'S BRENT MOVE ONE HOUR AGO)* I conceded flat price was moving —
+  **Brent 92.78, +2.25%** — and attributed it to **IRGC escalation and the Qeshm strikes.** **The CPC re-attack
+  happened overnight on the same tape.** **I do not know the split, and I should not have named a driver.**
+  Registered: **the concession stands, the attribution does not.**
+
+### ★★★ THE ANALYSIS THAT ACTUALLY MATTERS — THE TWO THEATRES ARE COUPLED THROUGH THE REPLACEMENT CHANNEL
+**Kazakh barrels lost at Novorossiysk are replaced by Gulf barrels — which transit Hormuz.** **So a Black Sea
+outage mechanically increases dependence on the corridor that is simultaneously at historically low flow.**
+**That is the configuration that would actually break flat price, and it has not yet.** Either the SPR plus
+commercial stocks are still covering it, or the market has not connected the two theatres. **This is now the
+single most important open question in this note, and it replaces the absorption paradox as its central
+problem.**
+
+- *(★★ THE STRUCTURE OF THE THREAT IS REPETITION, NOT DAMAGE)* **Loadings resumed 7/27 and were attacked again
+  7/30.** The attacker has demonstrated it can **re-suspend a 1.8 mb/d artery at will.** **No resumption can be
+  priced as durable.** That is a fundamentally different risk shape from a one-off terminal strike and it is why
+  the July 27 restart headline is not the end of this.
+- *(★★ THE NAMED EQUITY CONSEQUENCE — the first clean one this war has produced)* **Tengiz is Chevron-operated
+  and it more than halved, to ~406k bpd from 925k.** ExxonMobil, Shell and Eni also hold CPC/Kazakh interests.
+  **Unlike Hormuz, this outage lands on identifiable S&P 500 production.** [[oil-value-chain]].
+- *(★ GRADE MATTERS FOR THE CRACK EXPRESSION)* **CPC Blend and Kashagan are LIGHT SWEET.** Losing them tightens
+  naphtha/gasoline and light distillate differentials specifically — **the vault's registered expression is
+  cracks and calendars, and this is a direct input to it.** Watch **Brent–Dubai EFS** for the light-sweet
+  premium.
+- *(★ the policy link)* The FOMC named energy a supply shock to look through. **There are now TWO concurrent
+  energy supply shocks and the statement named neither.** [[new-economy-regime]].
+- *(⚠️ attribution, stated properly this time)* **Ukrainian drones, consistently reported across Reuters,
+  Bloomberg, S&P Global and Ukrainian outlets, with an established 2025–26 pattern of strikes on
+  Novorossiysk-area energy infrastructure.** **This attribution is well-supported — unlike Damietta, where I
+  leaned on an absence of claims and was wrong.** Note the third-party structure: **Kazakh oil, Russian
+  territory, a non-belligerent's exports destroyed** — which is its own escalation vector.
+
+### THE KILL SWITCH, REWRITTEN A THIRD TIME — AND THIS TIME NOT AS A SENTENCE
+**Nine hours ago I rewrote the switch "deliberately over-broad": *any kinetic event touching HORMUZ transit.*
+I scoped my anti-narrowness fix to the geography I happened to be thinking about. Third narrow-switch failure
+in 48 hours, and the first one committed AFTER diagnosing the pattern.**
+
+**Sentences do not work. A checklist does.** Standing obligation — **check these export nodes on a schedule,
+independent of what is in the news**, because the failure mode is reacting to whichever theatre is in front of
+me: **Ras Tanura · Basrah · Kharg · Fujairah/Das · CPC-Novorossiysk · Primorsk/Ust-Luga · Ceyhan (BTC + Iraq-Turkey)
+· Yanbu · Bonny/Forcados · Es Sider/Zueitina · Ras Laffan · Sabine/Corpus/Freeport/Cameron · Damietta/Idku ·
+LOOP/Houston.** **Any loading suspension, force majeure, or vessel casualty at any of these trips the review.**
