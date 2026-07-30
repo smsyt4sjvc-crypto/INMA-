@@ -2247,3 +2247,53 @@ private loans, sold to investors who wanted liquidity the structure could never 
    BlackRock/HPS ~13%, Cliffwater ~17%, "Q2 requests $15.6–22B" — CARRIES NO DATE AND IS NOW SUSPECT AS TO
    VINTAGE.** **Do not use them until dated.** **New Mountain's ~94% print is in the same category and it was
    the one number I flagged as the warning signal.**
+
+## 2026-07-30 ~10:30am ET — ★★★ THE SCALE REVISES: $45bn NAV ON JULY 1, "CRISIS MODE" (WSJ) — and the crisis is NOT the losses, it is the ILLIQUID RUMP left behind
+
+**NEW (WSJ via Jake):** **Sold "THE BULK" of its stock portfolio to Citadel after "big losses in AI."**
+**NAV $45 BILLION on JULY 1. Now in "CRISIS MODE."**
+
+⚠️ **RECONCILIATION FLAG: earlier reporting (Bloomberg/FT, verified this morning) said ~$20bn AUM. WSJ says
+$45bn NAV on 1 July. AUM vs NAV, different dates, or one figure is wrong — DO NOT silently adopt the larger
+number. The analysis below uses $45bn and is conditional on it.**
+
+| | |
+|---|---|
+| NAV 2026-07-01 | **$45bn** |
+| max drawdown to 07-28 | **38.31%** |
+| **NAV destroyed** | **~$17.2bn** |
+| NAV remaining | ~$27.8bn |
+| public equity book sold | ~$16bn |
+| **implied ILLIQUID rump** | **~$29bn = 64% of NAV** |
+| Archegos, for scale | ~$20bn capital wiped, ~$10bn dealer losses |
+
+### ★★★ THE FINDING: THEY SOLD EVERYTHING LIQUID AND KEPT EVERYTHING THAT CANNOT BE SOLD
+**If NAV was $45bn and the public equity book was ~$16bn, roughly $29bn — 64% — is PRIVATE holdings and
+other illiquid assets, and they explicitly RETAINED those (including Anthropic).** **So the crisis is not the
+loss. The loss is realised and transferred. The crisis is the ASSET–LIABILITY MISMATCH they just created:
+having sold the only thing that could be sold, any further redemption or margin call has nothing left to meet
+it except a fire sale of private stakes that have no daily price.**
+- *(★★★ AND IT IS THE SAME MECHANISM AS BLUE OWL, ON THE SAME DAY, AT A DIFFERENT INSTITUTION)* **Sell the
+  liquid sleeve to meet obligations; the illiquid rump is what remains and it is now a larger share of a
+  smaller fund.** **Two different institutions, one structure. That is not a coincidence, it is what a
+  liquidity event looks like from the inside.**
+- *(★★ "CRISIS MODE" IS AN ESCALATION FROM THIS MORNING'S "SEEKING CAPITAL")* **Selling the bulk of the public
+  book and STILL being in crisis means the problem is not in the public book.** **It is in the leverage, the
+  redemption queue, or the private marks — and none of those were touched by the Citadel trade.**
+- *(★★ GOLDMAN AND JPMORGAN "FACILITATING" IS NOT A NEUTRAL SERVICE)* **Prime brokers arranging a client's
+  exit to a third party is prime brokers managing DOWN THEIR OWN EXPOSURE.** **Read it as counterparty risk
+  reduction, not as advisory.**
+
+### ⛔ NARROWING MY OWN CALL FROM FOUR MESSAGES AGO — the scale requires it
+I wrote: **"a bilateral block sale is the OPPOSITE of a forced liquidation, and it kills the cascade thesis."**
+**That remains true FOR THE PUBLIC EQUITY CHANNEL and only for it.** **At $45bn NAV with ~$17bn destroyed —
+comparable to Archegos in absolute capital terms — the channels the Citadel trade does NOT touch are much
+larger than I was reasoning about at $20bn.** **Narrowed, not withdrawn: the cascade is dead in the tape and
+open in the leverage and the private marks.**
+- *(★★ AND THE FORCING FUNCTION IS UNRESOLVED)* **A fund up 439% through June with $45bn of NAV grew that NAV
+  overwhelmingly through PERFORMANCE-CHASING INFLOWS at high-water marks.** **Most of that capital is now
+  deeply underwater and will redeem.** **Selling stocks does not fix that; it only determines what is left
+  when the redemptions arrive.**
+- *(⚠️ JAKE'S FIVE-FUND CLAIM: the crowding argument strengthens with scale, the evidence does not)* **A fund
+  this size running an AI-long book means peers running the same book made the same enormous returns and are
+  taking the same drawdown.** **Still no second name.**
