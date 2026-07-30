@@ -80,6 +80,22 @@ def _pat(k):
 PATS = {th: [_pat(k) for k in ks] for th, ks in THREADS.items()}
 NKEY = sum(len(v) for v in THREADS.values())
 
+# THREAD -> ORIGINATING VAULT NOTE. Every keyword in this scanner came OUT of a vault note,
+# so every hit must be routed BACK to the note it came from. Printing the destination stops
+# relevance being skipped: a hit is not "news", it is evidence for or against a named thesis.
+ROUTE = {
+ 'MEMORY':    'memory-regime-question / compression-thesis',
+ 'SEMIS':     'ai-infra-allocation-map / buildout-bottleneck-map',
+ 'CAPEX':     'ai-capex-cycle / cepi',
+ 'FINANCING': 'ai-financing-fragility',
+ 'POWER':     'buildout-bottleneck-map / power-not-petroleum',
+ 'WAR/OIL':   'demand-destruction / war-board / oil-value-chain',
+ 'INVENTORY': 'demand-destruction (SPR clock)',
+ 'FED':       'new-economy-regime / market-fragility',
+ 'MODEL-ECON':'metered-compute / compression-thesis',
+ 'KOREA':     'market-fragility (leverage cascade)',
+}
+
 def tags(text):
     return [th for th, ps in PATS.items() if any(p.search(text) for p in ps)]
 
@@ -196,6 +212,7 @@ for tier_name, feeds in TIERS:
         agestr = f'{age:.0f}m' if age < 90 else f'{age/60:.1f}h'
         print(f'\n[{agestr:>5}] {name:<12} {"|".join(th)}')
         print(f'        {title[:150]}')
+        print(f'        -> {" ; ".join(ROUTE.get(t,"?") for t in th)}')
         if link: print(f'        {link[:110]}')
     grand += len(hits)
     if len(hits) > PER_TIER_CAP:
@@ -203,6 +220,8 @@ for tier_name, feeds in TIERS:
 
 print('\n'+'='*74)
 print(f'  TOTAL KEYWORD HITS: {grand}   (a low number is a real signal, not a broken scanner)')
+print('  Every hit carries a "->" line naming the vault note it belongs to. Read it into that')
+print('  note, or explicitly decide it is noise. An unrouted hit is a skipped relevance check.')
 if problems:
     print('  feed problems (missing coverage, not errors in the hits above):')
     for p in problems: print(f'    - {p}')
