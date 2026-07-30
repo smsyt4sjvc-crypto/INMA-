@@ -489,3 +489,39 @@ yesterday" ⇒ the close before = **$2,716.00 ($27.16)**.
   bounced this hard.** Either the spot inference is off, or index IV is genuinely suppressed while dispersion
   runs hot — which is exactly the question `tools/vix_term_structure_cell.py` was built to arbitrate
   ([[market-fragility]]). **Two numbers from the broker screen (spot + the contract's IV) close this exactly.**
+
+### 2026-07-30 3:09pm PT — ⛔ SUPERSEDES THE ENTRY ABOVE: Jake supplied spot (742). It was DELTA, not vol.
+The entry above bracketed spot at ~735 and built its reading on that. **Jake: "742 after hours."** With spot
+supplied, every bracket collapses and **the conclusion inverts.** Prior text kept visible per rule 4.
+
+| | spot | put | implied vol |
+|---|---|---|---|
+| Jul-29 | 726 | $34.16 | **15.8%** |
+| Jul-30 | **742** | $26.11 | **15.7%** |
+
+- **★★★ IMPLIED VOL MOVED −0.05 POINTS. The −$805 is 98% SPOT, 2% everything else.** Not IV crush, not
+  "vol got cheaper," not a 73/27 or a 57/43 split. **Delta.** SPY ran **+16 points (+2.20%)** in a session and
+  a −0.45-delta put did precisely what −0.45 deltas do. *Both* of my framings this session were wrong, in the
+  same direction: I kept reaching for a vol explanation for a price move.
+- **★★★ THE IMPLIED SPOT PATH, and it validates Jake's own description of the week:**
+  `SPY ~740.4 → 726.1 → 741.9`  (−14.2, then +15.8). **NET +1.5 points, +0.27%.**
+  Against: `put 27.16 → 34.16 → 26.11`, **NET −$105 (−3.9%).**
+  **~1.5 points of net drift plus two days of clock IS the entire −$105.** The violence was real and it
+  netted to nothing. **This is the round-trip lesson in its purest form — and it is cleaner than the version
+  I told him, because there was no vol move to muddy it.** ([[options-reference-natenberg]])
+- **⛔ CORRECTION — "right on direction, down on P&L" was WRONG.** With entry IV set at today's measured
+  15.7%, SPY on Jun-12 implies **732.9**. SPY is now **742 — up 9.1 points AGAINST the position.** He has
+  been **wrong on direction**, not right. And extrinsic did **not** drain: it went $21.23 → $23.11, **+$188**,
+  because spot walking toward 745 moved the option TOWARD at-the-money, where extrinsic peaks. **The loss is
+  intrinsic ($914 of it), not extrinsic.** The reading in the entry above is inverted.
+- **The clock, corrected:** freeze spot at 732.9 and IV at 15.7%, roll 189d→141d = **−$294, 41% of the loss.**
+  The other **−$431 is SPY going up.** (The 42–68% range above was right in magnitude, wrong in what it left over.)
+- **★★ THE STANDING FACT JAKE MAY NOT BE HOLDING: ITM ≠ PROFITABLE.** Position now: intrinsic **$300**,
+  extrinsic **$2,311** — **88% of the position's value is time-and-vol premium.** Breakeven at expiry is SPY
+  below **$711.63, i.e. −4.09% from 742.** Being $3 in the money reads as "nearly there"; he needs **$33.37**
+  of intrinsic and has **$3.00**. Delta −0.45, vega $182/pt, theta −$7/day, 141 days.
+- **⚠️ two open caveats.** (1) SPY options stop at 4:15pm ET, so $26.11 is a 4:15 mark; if 742 is a post-close
+  print the true 4:15 spot was lower — but **the delta share only falls to 75% at 738**, so the conclusion is
+  robust across the whole range. (2) **5-month SPY IV of 15.7% is LOW for a tape that just moved ±2% on
+  consecutive days.** Realized is running far above implied. That is the `vix_term_structure_cell.py`
+  question, now with a live data point, and it belongs in [[market-fragility]].
