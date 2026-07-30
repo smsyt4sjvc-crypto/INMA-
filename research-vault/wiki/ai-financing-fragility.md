@@ -2058,3 +2058,52 @@ visible on the tape.
   rescue capital, and the EQUAL-WEIGHT S&P is at an all-time high.** **That is the same shape as Archegos: a
   circular, concentrated unwind that the broad index absorbed.** **The registered kill switch is unchanged and
   it is still the thing that decides this: RSP below 212.77 while NDX falls.**
+
+## 2026-07-30 ~9:35am ET — ★★★ BLUE OWL FUNDRAISING SLOWDOWN (BBG, Jake): this is F2 getting information, and it is the SECOND primary-market stress datum in 48 hours
+
+**JAKE:** *"'fundraising slowdown' = 'redemption acceleration'."*
+
+- *(⚠️ NOT IDENTICAL — but the direction is right and the refinement makes it MORE useful)* **Most of Blue Owl's
+  capital sits in DRAWDOWN funds (committed, locked for fund life — no redemption exists) and GP-stakes
+  vehicles (long-dated, illiquid).** **For those, fundraising and redemptions are structurally independent.**
+  **The translation holds specifically for the SEMI-LIQUID sleeve — non-traded BDCs and non-traded REITs with
+  CAPPED QUARTERLY TENDERS (typically ~5% of NAV).** **Those vehicles fund redemptions out of new inflows, so
+  when inflows slow the redemption queue becomes the binding constraint and the manager must sell assets or
+  gate.**
+- *(★★ THE PRECEDENT IS EXACT: BREIT, late 2022)* **Blackstone's non-traded REIT hit its 5% quarterly cap and
+  gated — and the PRECURSOR was slowing fundraising.** **So "fundraising slowdown" is the LEADING INDICATOR of
+  a redemption problem in semi-liquid vehicles, not a synonym for one.** **Jake is right about significance
+  and sequence; wrong only about identity — and "one predicts the other" is the more tradeable version.**
+
+### ★★★ WHY IT MATTERS FAR MORE THAN THE SEMANTICS — this is the F2 flag
+**Registered 7/29:** *"Goldman pitches $5.4B for a Microsoft-tied data centre; BLUE OWL SEEKS $5.9B for
+Melbourne… I do not have the spread, tenor or take-up, and primary-market execution is now a better fragility
+read than the CDS series, because CDS prices EXISTING risk and primary prices MARGINAL risk."*
+**Blue Owl is one of the two named deals.** **A fundraising slowdown at the sponsor speaks directly to whether
+the $5.9B gets funded.**
+
+- *(★★★ AND IT IS THE SECOND PRIMARY-MARKET DATUM IN 48 HOURS)* **Zhongji InnoLight broke on its Hong Kong
+  debut — the EQUITY side. This is the DEBT side.** **Two independent primary channels showing stress inside
+  two days, in the exact place I said to look.** **One deal is a datum; two channels is a pattern forming.**
+- *(★★★ THE MECHANISM, stated as a chain)* **This note's core thesis is that hyperscaler balance sheets look
+  pristine (debt/assets ~21%, coverage 65–80×) because the buildout debt sits in SPVs funded by PRIVATE
+  CREDIT.** **If private credit's own fundraising is slowing, the funding channel for the buildout is
+  narrowing AT THE SOURCE.** **That is upstream of spreads, upstream of CDS, and upstream of any hyperscaler
+  disclosure — it is the marginal lender getting smaller.** [[ai-capex-cycle]], [[cepi]].
+
+### THE COUNTERS, and they are real
+- **⚠️ IT MAY BE MACRO-WIDE RATHER THAN AI-SPECIFIC.** Private-credit fundraising has been slowing broadly on
+  rate levels and competition from public credit. **A sector-wide slowdown says much less about the AI
+  buildout than an AI-specific one.** **Get whether the pullback is concentrated in the digital-infrastructure
+  sleeve or across all strategies.**
+- **⚠️ COMMITTED CAPITAL IS UNAFFECTED.** A fundraising slowdown constrains FUTURE deployment. **The Melbourne
+  deal may already be underwritten out of existing dry powder.**
+- **⚠️ AND IT COULD BE RATIONAL UNDERWRITING, WHICH IS HEALTHY.** Allocators declining new vehicles at current
+  spreads is discipline, not distress. **"Investors won't fund it at this price" and "investors are fleeing"
+  look identical in a fundraising headline and mean opposite things.**
+
+### ★★ THE LIVE PUBLIC CHECK — same shape as the dealer-equity tell
+**The large alternative managers are LISTED: OWL, ARES, APO, BX, KKR.** **They are the real-time public
+expression of private-credit health, exactly as dealer equities were the public tell on Archegos.** **If the
+market reads this as a redemption problem rather than a fundraising cycle, it prices in OWL first and the
+cohort second.** **Free, immediate, and it does not require the fund-level data nobody has.**
