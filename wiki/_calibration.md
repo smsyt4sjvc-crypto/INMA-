@@ -790,3 +790,40 @@ now ~9K. He asked whether it was online platforms / free trading / retail.
   dropped-bar KOSPI print, the stale futures base, its bearish inverse, and the 15-minute base change. **Every
   one produced a plausible story before it produced a check.** Here the story was pre-written and persuasive —
   *retail and free trading* — **and it is wrong by three years.**
+
+### RESULT (same session, ~4:35am PT): CONFIRMED — the step is unique to Jake's platform, and it is in the PRE-2016 data
+
+`tools/volume_step_test_cell.py` ran. **Nothing stepped. Every control went DOWN.**
+
+| 24m pre → post Dec-2016 | ratio |
+|---|---|
+| SPX index (yfinance ^GSPC) | **0.92×** |
+| SPY | **0.69×** |
+| IWM | 0.75× |
+| QQQ | 1.15× |
+
+**And the 36-month dispersion check: sd/mean 0.12 pre vs 0.09 post, ratio of means 0.97×. No level shift, and
+variability slightly FELL.** **A second vendor's SPX volume series, same concept, shows no break whatsoever at
+the date where Jake's platform shows a 5× eruption.**
+
+- **★★ 2017 CONFIRMS IT IN THE OTHER DIRECTION.** The prediction was that a real Dec-2016 eruption is
+  incompatible with the quietest year in decades. **Measured: SPX share volume 2017 −12.7% vs 2016; SPY
+  −33.0%.** **2017 was a TROUGH across SPX, SPY, QQQ and IWM.** The chart claims the opposite of what happened.
+- **★★★ AND THE ARTIFACT IS IN THE HISTORY, NOT THE RECENT DATA — which is the useful diagnosis.** Real SPX
+  volume is **~80 billion shares/month**. Jake's chart prints **4.00K for Dec-2016**, so a chart unit is
+  **~20 million shares**. At that scale his **post-2016 bars reconcile with reality, while his pre-2016 bars
+  (<1.00K ≈ <20bn/month against a real ~96bn in 2010) are UNDERSTATED BY ROUGHLY 4–5×.** **The most likely
+  cause is a SPLICE: a thin purchased historical file joined to the vendor's own live consolidated capture,
+  with the join at Dec-2016. The "eruption" IS the splice.**
+- **⚠️ THE PRACTICAL CONSEQUENCE, and it is the reason this matters beyond one chart.** **Any study on that
+  platform that touches .SPX volume across the 2016 boundary is corrupted** — volume profile, OBV,
+  volume-weighted studies, any backtest spanning it. **Not slightly wrong: wrong by a factor of four on one
+  side of a join.**
+- **★★★ THE SECONDARY FINDING IS BIGGER THAN THE ARTIFACT — US equity SHARE volume has been FLAT FOR TWELVE
+  YEARS.** **SPX 2010: 1,151bn shares. SPX 2022: 1,159bn. +0.7%.** **SPY fell 55%** (52.8bn → 23.8bn), and
+  **even the 2020 COVID peak was 52% BELOW 2010.** **The "retail eruption" narrative does not survive contact
+  with share-volume data.** ⚠️ **But state the measure: with SPX ~1,250 → ~4,000 over the same span, flat share
+  volume means DOLLAR volume roughly TRIPLED.** **"Volume is up" and "volume is flat" are both true depending
+  on the unit — which is precisely the class of ambiguity that produced this question.**
+- **(the rule held)** *A spike is a market event; a STEP is a source change until proven otherwise.* **Written
+  before the test, confirmed by it, at a cost of one cell.**
