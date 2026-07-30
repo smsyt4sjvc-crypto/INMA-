@@ -3073,3 +3073,37 @@ equal base.*
   Houthis are. **Reuters today: the Damietta strike raises "the prospect of threats to navigation through the
   SUEZ CANAL, A LAST REMAINING SAFE EXPORT ROUTE FOR SAUDI OIL."** **Same finding, their words, and it makes
   the two-chokepoint bind explicit.** [[war-board]], [[oil-value-chain]].
+
+## 2026-07-30 ~9:05am ET — ⛔ MY JUNE-PCE FINDING MEASURED THE LULL, NOT THE TRANSMISSION (Jake) — and his gasoline point is a FOURTH absorber I had not considered
+
+**Jake:** *"June was quiet. July Iran escalated again and prices went up again. There was speculation Trump
+skipped the strikes last Friday because gas was approaching a politically unbearable $4.50 a gallon."*
+
+- *(⛔ THE FINDING IS DEFLATED, and by the same defect as the CPC and Supreme-Leader misses)* Ten minutes ago
+  I wrote that **food and energy falling ~1.5% m/m in June, "with Brent elevated and the war in its fourth
+  month,"** was *"the strongest US price-level datum yet"* for this note's central claim. **If June was a LULL
+  in the conflict, the −1.5% measures a quiet month and the transmission test was never run.** **I asserted a
+  test had been passed without checking whether the test conditions obtained.** **Third instance today of a
+  confident conclusion over an unexamined hole.** ⚠️ **Corroborating: Brent was BELOW $90 before yesterday's
+  +7.91% spike, so the June price path was materially lower than the late-July path I had in my head.**
+- *(★★★ THE $4.50 MECHANISM IS THE VALUABLE PART, and it inverts a direction I have been assuming)* I have
+  treated **escalation as EXOGENOUS to price** — strikes happen, oil responds. **Jake's point makes escalation
+  ENDOGENOUS to price: the administration escalates when gasoline is cheap and defers when it approaches a
+  political threshold.** **That is a NEGATIVE FEEDBACK LOOP with oil price as the governor.**
+  **★ FOURTH ABSORBER CANDIDATE, and the first that is POLITICAL rather than physical:** alongside the SPR
+  (too small), OPEC+ spare (contracting), and China's ~4.4 mb/d withdrawal (the dominant one), **there is a
+  self-limiting escalation function that caps the tail from the demand side of the CONFLICT rather than the
+  demand side of the barrel.** **It would explain part of why flat price keeps failing to run away: the war
+  throttles itself at the pump.**
+  ⚠️ **This is Jake reporting SPECULATION, not a datum. The specific instance is unverified. The MECHANISM is
+  what gets registered.**
+- *(★★ AND IT IS TESTABLE AGAINST THIS VAULT'S OWN LOGS — a real study, cheap)* **[[civilian-infra-strike-log]]
+  holds 23 dated entries and [[war/war-confirmed]] 33.** **Test: does US strike frequency/intensity correlate
+  INVERSELY with US retail gasoline (EIA weekly, free)?** **If strikes cluster at low pump prices and pause
+  above a threshold, the governor is real and the ~$4.50 level is a soft ceiling on escalation.** ⚠️ **I do
+  not have the current US retail average — that is the number to get, and it is a POLITICAL indicator, not a
+  market one.**
+- *(★★★ THE TRANSMISSION TEST IS NOW PROPERLY DATED, and it is not this print)* **June PCE cannot answer it.
+  The July escalation lands in JULY CPI (~Aug 12–13) and JULY PCE (~Aug 28).** **Registered: those are the
+  prints that test whether the chokepoint tax reaches the US consumer, and until then the transmission
+  question is OPEN, not answered.**
