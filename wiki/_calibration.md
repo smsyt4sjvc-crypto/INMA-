@@ -647,3 +647,26 @@ Logged separately, they looked like three independent slips. Together they are o
 - **(the scoreboard consequence)** The vault's registered calibration defect has been **magnitude compression** —
   80% bands covering 17%. **This is the same defect in a different medium: my revisions are as over-sized as my
   ranges are under-sized.** Both are failures to represent uncertainty. **Not two problems. One.**
+
+## 2026-07-30 ~2:09am PT — THE DATA-SOURCING PLAYBOOK NEEDS A CALENDAR GATE (an offloaded digest reported a quarter that has not ended)
+
+[[data-sourcing-playbook]] says to hand heavy retrieval to Perplexity/Grok/Gemini and paste the digest back.
+**A digest arrived reporting "Saudi GDP shrank 4.5% in Q3 2026." Q3 2026 is 30 days old.** The real release —
+**GASTAT Q2 2026, published the same day** — had **oil −24.7% (digest: −17%)** and **non-oil +0.9% (digest:
++3.6%)**. Full record in [[demand-destruction]].
+
+- **THE GATE, and it goes FIRST — before reading the content:** **can this print exist yet?** A quarter that has
+  not ended has no GDP. A filing before its deadline has no figures. An earnings number before the call has no
+  source. **Thirty seconds with a calendar, ahead of any analysis.** Had I read the content first, the internal
+  arithmetic would have passed — **oil −17% at a ~40% weight against non-oil +3.6% reconciles to about −4.5%.**
+  **A fabricated set can be internally consistent. Only the calendar catches it.**
+- **THE FORMAT TELLS, worth naming because they are free:** bracketed source tags (`[energynow]`, `[youtube +1]`),
+  **YouTube cited for national accounts**, and a closing offer to do further research. **That is a chat
+  transcript, not a wire.** A wire never asks what you would like next.
+- **THE ERROR DIRECTION IS THE DANGEROUS PART.** Both wrong figures **understated severity**. **A digest that
+  softens is worse than one that scatters** — it reads as measured and conservative, and it would have entered
+  the vault as the cautious version of a story that is actually worse.
+- **(the cost if this had passed)** It would have been the **third** compounding error on the oil thread in one
+  night: after the eleven-day CPC blindness and the spare-capacity absorber guess, a softened Saudi print would
+  have made the supply picture look better than it is at exactly the moment I was rebuilding it. **The Axios
+  rule generalises: when a primary source exists — and GASTAT publishes — go to it before assigning weight.**
