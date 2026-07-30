@@ -2107,3 +2107,41 @@ the $5.9B gets funded.**
 expression of private-credit health, exactly as dealer equities were the public tell on Archegos.** **If the
 market reads this as a redemption problem rather than a fundraising cycle, it prices in OWL first and the
 cohort second.** **Free, immediate, and it does not require the fund-level data nobody has.**
+
+## 2026-07-30 ~9:50am ET — ★★★ CITADEL BUYS SITUATIONAL AWARENESS'S STOCK PORTFOLIO (WSJ, via Jake) — a bilateral block sale is the OPPOSITE of a forced liquidation, and it kills the cascade thesis
+
+- *(★★★ THIS IS THE RESOLUTION MECHANISM, NOT THE CRISIS)* **Archegos was a cascade because dealers SEIZED
+  collateral and dumped it into the tape over days, competing with each other, with no coordinated buyer.**
+  **One informed buyer taking the whole book in a negotiated transaction is the precise inverse: the positions
+  move from a stressed holder to a well-capitalised one and NO SUPPLY HITS THE MARKET.** **"Circular
+  liquidation squad" requires an absent marginal buyer. The marginal buyer just showed up and it is Citadel.**
+- *(★★ AND IT CONFIRMS THE READ I REGISTERED THIS MORNING, on the detail everyone skipped)* The FT/Bloomberg
+  report said SA had **"offered investors the option to purchase assets in its portfolio."** I filed:
+  *"that is the tell in the OTHER direction — moving positions off-tape is the ANTI-fire-sale mechanism…
+  stressed, not seized, and the dealers have not pulled the plug."* **That is exactly what happened.**
+- *(★★★ THE CALIBRATION FINDING, and it is the most valuable thing here — I HAD THE WRONG VARIABLE)*
+  For four sessions I argued containment from **the ABSENCE of a named casualty.** **F8 fired this morning and
+  the cascade did not follow.** **So absence-of-casualty was never the right variable — DEPTH OF THE BID was.**
+  **A named casualty with a deep bid is a transfer; a named casualty with no bid is a cascade. I was tracking
+  the wrong half of the pair for four days.** **Standing rule: for liquidation risk, measure the BUYER, not
+  the seller.** [[_calibration]].
+- *(★★ WHAT IT DOES NOT RESOLVE — and this is where Jake's thesis survives)* **A "STOCK PORTFOLIO" is the 13F
+  book: long US-listed equity.** **SWAPS DO NOT TRANSFER BY SELLING A STOCK PORTFOLIO.** **If dealer TRS
+  exposure exists, it is a separate unwind and this transaction does not touch it.** ⚠️ Also unresolved:
+  **the PRICE (which sizes the damage), whether SA survives as a going concern, and whether the $8.46bn of
+  PUTS went with the equity** — "stock portfolio" suggests it did not.
+- *(★★ IT ALSO EXPLAINS THE TAPE THIS VAULT HAS BEEN PUZZLING OVER)* **The de-gross was real; the liquidation
+  was NEGOTIATED.** **That is how memory and the AI complex could fall 10–50% on forced-selling dynamics
+  WITHOUT a disorderly cascade, while EW S&P printed an all-time high.** **Both facts were true and the
+  bilateral bid is the bridge between them.**
+- *(⚠️ AND CITADEL BUYING IS NOT AN ENDORSEMENT OF THE NAMES AT CURRENT PRICES)* **They almost certainly took a
+  discount** — that is the point of being the buyer of last resort. **What it establishes is that a
+  sophisticated, well-informed party found a CLEARING PRICE, which is exactly what a cascade prevents.**
+  **Do not read "Citadel bought it" as "the bottom is in."**
+
+### WHAT NOW CARRIES THE RISK — the channels this does NOT close
+1. **DEALER SWAP BOOKS** — untouched by an equity block sale. **Dealer equities remain the tell.**
+2. **PRIVATE CREDIT** — [[Blue Owl]] fundraising slowdown is a *different* channel and completely unaffected
+   by this transaction. **That one is still open and it is upstream of the SPV funding for the buildout.**
+3. **THE PRICE**, when it leaks — it sizes the loss and tells you what the bid was actually worth.
+4. **The kill switch is unchanged and still decides everything: RSP below 212.77 while NDX falls.**
