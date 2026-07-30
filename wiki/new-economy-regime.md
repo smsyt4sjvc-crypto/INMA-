@@ -1974,3 +1974,47 @@ honest placement is "the benign steepening cell for the wrong reason."**
   **If this move is ≥+100bp over 63 sessions, the −2.66 drawdown edge applies and the six-month path is the
   risk. If it is ≤+50bp, the effect is negligible.** **Everything else in this study is secondary to that
   single figure.**
+
+## 2026-07-30 ~4:35pm PT — ⛔ BACKFILL: "S&P LOWERS RATINGS ON 21 IA SCHOOL DISTRICTS" — answered in chat, NEVER FILED
+Jake pasted this earlier with *"What does this even mean?"*, I answered in conversation, and **it was never
+written to the vault** — so when he asked again there was nothing to check. **Process failure, logged as one.**
+Resolved on re-ask in **two web searches**; it was checkable the whole time.
+
+### DATA (verified — S&P Global Ratings, Bond Buyer, Iowa Legislature, Governing)
+- **Cause: Iowa SF 2472**, comprehensive property-tax reform, **approved 2026-05-03**.
+- **SAVE = "Securing an Advanced Vision for Education"** — the statewide **1-cent sales tax** for school
+  infrastructure. **SAVE revenue SECURES certain Iowa school-district bond issuances.**
+- **SF 2472 DIVERTS up to 25% of SAVE revenue to PROPERTY TAX RELIEF, phased over five years.** SAVE per
+  student falls to **$1,254**. SAVE extended to **2071** to let districts refinance.
+- **Enrollment projected DOWN 8,000 students over five years** → a second cut to the same revenue line.
+- **S&P placed 112 Iowa school districts on CreditWatch negative.** ⚠️ **The specific 21-district downgrade
+  action is NOT independently verified — the CAUSE is. Treat "21" as Jake's headline, consistent with
+  CreditWatch resolving in batches.**
+- Also from S&P, national context: *"U.S. K-12 School Districts Are Facing A Confluence Of Credit Pressures."*
+- Effective 7/1/26, Iowa local governments are **barred from issuing property-tax-backed debt for general
+  operations** (salaries, benefits, services).
+
+### THESIS
+- **★★★ IT IS NOT A CREDIT-CYCLE SIGNAL, AND READING IT AS ONE IS THE ERROR.** These districts did not
+  deteriorate. **A legislature redirected the pledged revenue stream by statute.** Different market, different
+  investors, different driver from private credit / AI financing. **Nothing here corroborates
+  [[ai-financing-fragility]]**, and it should not be counted as if it did.
+- **★★★ WHAT IT ACTUALLY IS — AND IT IS THIS VAULT'S OWN THESIS EXECUTING.** The registered frame:
+  *"the bipartisan ratchet runs on the electric bill, not the index"*; *"the grievance anchored in essentials."*
+  **Iowa is that ratchet, executed — and the bill was handed to BONDHOLDERS.** A revenue stream **pledged to
+  debt service** was diverted to deliver **property-tax relief to voters.** **Bondholders are a diffuse,
+  non-voting constituency; property taxpayers vote.** ⇒ **In a cost-of-living-grievance regime, dedicated
+  revenue pledges are politically available collateral.** *This is the mechanism the vault predicted, arriving
+  in a market the vault was not watching.*
+- **★★ THE TEMPLATE RISK (the transferable part):** if the grievance ratchet keeps running, **this is a
+  repeatable move across states** — slow, structural muni-credit risk with a **political** driver rather than
+  an economic one. **WATCH: copies in other states diverting pledged sales-tax streams for property-tax
+  relief.** Not tradeable at Jake's size; it is a **regime tell**.
+- **★★ THE DOUBLE SQUEEZE:** SAVE per-student cut **AND** enrollment −8,000. **Political diversion and
+  demographic decline cutting the same line simultaneously** — the demographic leg also speaks to the
+  labour-force thread ("record number not in the workforce").
+- **★ A VAULT RULE HELD, IN A NEW DOMAIN.** Before searching, the read was: *a simultaneous multi-issuer
+  action is a CRITERIA or POLICY event, not N independent deteriorations.* **Confirmed — 112 districts, one
+  statute.** Same epistemics as the volume-step finding (*"a spike is a market event; a STEP is a source
+  change until proven otherwise"* — [[_calibration]]). **The rule now has two independent confirmations in
+  unrelated domains.**
