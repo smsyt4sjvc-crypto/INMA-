@@ -155,3 +155,34 @@ not trade-down macro and it is not the rotation — those lift both. If apparel 
 no GLP-1 content in the number.** **Same store, same customer, same tape, different category — the cleanest
 control available, and it needs no external data.** **Dated: ROST / TJX / BURL Q2 reports, ~late August.**
 Secondary: **units per transaction and TRAFFIC vs TICKET.**
+
+## 2026-07-30 ~5:30am PT — PRIORITY, TIMESTAMPED: Jake's file predates the second approval by two months
+
+**Artifact (iCloud metadata, Jake):** text file, 1 KB, `iCloud Drive > Investing > GLP1`.
+**Created 2026-02-03 20:35. Never modified. Last opened 2026-04-22 14:47.**
+
+- **THE DATES ESTABLISH REAL PRIORITY.** **Wegovy pill launched 2026-01-05; the file was created 29 DAYS LATER.
+  Orforglipron was approved 2026-04-01 — 57 days AFTER the file existed.** **He was working the theme one month
+  into the first oral launch and two months before the second approval.** And the **re-open on 2026-04-22, three
+  weeks after the Lilly approval,** is consistent with someone returning to a thesis when its second catalyst
+  landed. **Credit where it is due: he identified the inflection essentially as it happened, and I told him the
+  thesis was not new.**
+- *(⚠️ what the metadata does and does not establish)* It establishes **a dated folder and file on the theme**.
+  **It does not establish the file's CONTENT** — 1 KB is a few hundred words at most, and could be a ticker
+  list, a link, or a paragraph. **Not a criticism, a filing instruction: get the contents into `raw/` with the
+  2026-02-03 timestamp so the priority is a RECORD rather than an argument from memory.** That is precisely
+  what the evidence locker is for.
+- *(★★★ THE QUESTION THAT MATTERS NOW — being early and being PAID are different)* **Five and a half months
+  have passed. Orforglipron approved, Medicare Part D at $50 from 1 July, and ROST at a 52-WEEK HIGH.** **The
+  live question is not whether he was right — it is what the interval has already priced.** And tonight's
+  measured work says part of ROST's move is the **eight-week rotation out of the AI complex**, not the thesis.
+- *(★★★ AND THE THESIS HAS A MUCH CLEANER EXPRESSION THAN LONG OFF-PRICE — it is the SHORT side)*
+  **Off-price has ten drivers: trade-down macro, tariffs, distressed inventory buying, the rotation, comps,
+  freight, shrink. The GLP-1 effect is one small input among them and will never be separable in a print.**
+  **PLUS-SIZE APPAREL has essentially ONE driver, and this thesis points a gun at it.** **If the cohort clock
+  is right, plus-size is a structural short, and the signal-to-noise is far better than the long.**
+  **Torrid (CURV) is the listed plus-size pure-play; Lane Bryant is private (Sycamore).** **Same thesis,
+  cleaner instrument** — the effect is the whole business rather than a rounding error inside it.
+  Adjacent, sizing-dependent and repeat-purchase: **intimates/bras**, where fit is the product.
+  ⚠️ **Descriptive only — and note a short carries the mirror risk: a small-cap single name with a crowded,
+  well-known story and borrow cost, which is a different risk profile from a call on a mega-cap retailer.**
