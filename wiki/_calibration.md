@@ -905,3 +905,39 @@ the burden is on the sophisticated one — check it FIRST, not last.*
 
 **Score: 3 wrong readings, 1 self-caught on data, 2 caught only because Jake volunteered a number I should
 have requested.**
+
+### SAME DAY, 3:20pm PT — the "ATM" anchor: THIRD revision, and the failure was structural, not careless
+
+Jake: *"I'm pretty sure it was ATM when I bought."* Entry IV solves to **18.3%**, and the 3:09pm reading
+inverts again — direction **helped** (+$130), extrinsic **drained** ($1,026), vol was the single biggest
+line (−$474).
+
+**Three published point-readings of the same −$726, each overturned by one fact Jake volunteered:**
+
+| # | anchor I used | verdict on direction | verdict on extrinsic |
+|---|---|---|---|
+| 1 | spot guessed at 735 | right on direction | drained |
+| 2 | spot 742, entry IV **assumed** = today's | **wrong** on direction | **rose $188** |
+| 3 | spot 742 + **ATM entry** (measured) | right, +$130 | drained $1,026 |
+
+**★★★ THE DIAGNOSIS, and it is not "I was sloppy."** One equation (P&L = −$726), three unknowns (spot path,
+vol path, time). **The system was underdetermined until Jake's third fact, and I published a point estimate
+at every stage anyway.** Reading #2 was the worst: having just written a rule about not treating chosen
+inputs as measured, **I immediately chose entry IV = today's IV** — a substantive assumption, made silently,
+one message after the rule. **The rule did not fail; I applied it to the input I had been caught on and not
+to the next one.**
+
+**★★★ THE THING I GOT RIGHT AND THEN TALKED MYSELF OUT OF.** My first instinct was that vol mattered. Reading
+#2 killed vol entirely ("my IV crush framing is dead") on the strength of a **single day** where IV genuinely
+did not move. **Vol was the largest term in the position all along (−$474 of −$726).** The over-correction
+pattern from `_calibration` fires again: *absolute → opposite absolute, instead of absolute → narrower
+description.* The narrow, correct statement was available and I skipped it: **"the DAY was delta; the
+POSITION is vol." Both true, different questions.** Conflating a session with a holding period is what
+produced three reversals.
+
+**RULE (final form).** *Count the unknowns before publishing a decomposition. If unknowns > measurements,
+say so and stop — do not pick values for the remainder and present the output as a reading.* And: *never
+generalise a one-day attribution to a multi-week position, or the reverse. They are different questions and
+they routinely have opposite answers.*
+
+**Score: 3 readings, 3 overturned, 0 caught by me. Jake supplied every correcting fact.**
