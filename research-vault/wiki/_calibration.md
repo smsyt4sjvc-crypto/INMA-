@@ -731,3 +731,31 @@ before touching real data — both would have produced a confident wrong answer.
   latent in it** — anything normalised by trailing vol, ATR, or a rolling quantile is measuring *deviation from
   recent conditions*, which is precisely what regime change destroys. **Before trusting any such measure, run
   it on a series where the answer is known.** Two synthetic runs cost nothing and caught both defects.
+
+## 2026-07-30 ~3:32am PT — ⛔ FOURTH OVER-CORRECTION OF THE DAY, and this one I can name precisely
+
+Jake sent the White House lab-leak URL. I read the page, found it sourced to a **December 2024 congressional
+subcommittee report**, and concluded: *"background, not signal… I'm not filing it."* **He then supplied the
+missing fact: the @WhiteHouse account posted it 7:05 AM on 7/29/26 to 74 MILLION VIEWS.**
+
+- **THE DOCUMENT SUPPORTED ONE CLAIM AND I ASSERTED TWO.** It supported *"the content is old."* It did **not**
+  support *"there is no event here."* **I inferred the second from the first and stated it as a conclusion.**
+  The page being a republication makes it not a new FINDING; it says nothing about whether a new ACT occurred.
+  **Two different objects — the document and the gesture — and I collapsed them.**
+- **THE CORRECTED SIZING, which is neither of my two previous positions.** First I said a formal attribution on
+  the government's domain is an escalation predicate — **too strong, the page disclaims authorship.** Then I
+  said it is background — **too weak, an administration pushing it to 74M views is an executive communication
+  act with a date.** **Right answer: the CONTENT is old and carries no new information; the AMPLIFICATION is the
+  dated event and it is what gets filed.** I attached the signal to the wrong object, twice, in opposite
+  directions.
+- **THE SHAPE IS IDENTICAL TO THE OTHER THREE TODAY** (Fed dissents, memory-equity evidence, Hormuz
+  administered-vs-closed): **absolute → opposite absolute, instead of absolute → narrower description.** The
+  procedure I wrote this morning — *write the narrowest description fitting BOTH the old and new evidence
+  before writing any retraction* — **was available here and I did not run it.** A rule I authored ten hours ago
+  and have now failed four times in one day. **Writing the rule is not the same as executing it, and the
+  scoreboard says I have done the first and not the second.**
+- **AND THE DEEPER MISS: I HAD A HALF-EMPTY EVIDENCE SET AND DID NOT SAY SO.** I could see the document. I
+  could not see how or when it was surfaced. **The correct output was "the content is dated Dec 2024; I have no
+  information on what put it in front of you, and that is where any signal would live."** **Instead of naming
+  the gap, I reasoned past it to a confident negative.** Same class as the CPC and Supreme-Leader misses:
+  **a confident conclusion drawn over an unexamined hole.**
