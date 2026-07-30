@@ -1918,3 +1918,59 @@ reached slowly does not.**
   registered thesis: **Warsh has removed forward guidance, Slok describes yields moving "up and down like a
   yo-yo," and the deliberate dismantling of the reaction function RAISES rate variance by construction.**
   **The 20s30s inversion is a price for that variance, not a forecast of recession.** [[market-fragility]].
+
+## 2026-07-30 ~9:45am ET — ★★★ THE 30Y STUDY RAN: speed is the real variable, and PANEL D INVERTS WHAT I IMPLIED
+
+**`tools/long_yield_regime_cell.py`, FRED 1977-02-15 → 2026-07-28, 12,357 daily obs.**
+⚠️ **FRED lags: it prints 30Y at 5.09% for 07-28 while the wire has 5.22–5.24% today — the "current" line is
+two sessions stale and UNDERSTATES the level.**
+
+### [A] THE NAIVE LEVEL IS DEAD, and the sign flip is exactly as predicted
+**Full sample (n=6,949): 21d −0.07, 63d −0.06, 126d +0.01, 252d +0.12, and every DRAWDOWN edge POSITIVE.
+Nothing.** **Post-2000 (n=1,251): 21d −1.37, 63d −3.46, 126d −6.55, 252d −13.11.**
+- *(⚠️ AND THE POST-2000 NUMBER IS TWO EVENTS, NOT 1,251 OBSERVATIONS)* **Those days cluster into roughly FOUR
+  episodes (2000, 2006-07, 2023, 2025), and overlapping daily observations inside one episode are nearly
+  perfectly correlated.** **The effective n is ~4.** **A −13% annual edge is "the dot-com bust and the GFC
+  happened," not a statistical property of 5% yields.** **Do not quote that number as a base rate.**
+
+### [B] MULTI-YEAR HIGHS ARE HISTORICALLY FINE — which inverts the naive fear
+**1-year high: mildly NEGATIVE (126d −1.53/−1.18). But 5-year high: +1.35 at 63d with DRAWDOWN edges POSITIVE
+(+0.52, +0.70, +2.02). 10-year high: the same shape.** **A 30Y at a decade high has historically preceded
+SHALLOWER holes than normal** — consistent with such highs marking the LATE stage of a repricing rather than
+its start. ⚠️ n≈140 days across few episodes.
+
+### ★★★ [C] SPEED IS THE FINDING, and it is monotone in DRAWDOWN
+| 63-day change | 126d drawdown EDGE |
+|---|---|
+| +50bp | −0.56 |
+| +75bp | −1.26 |
+| **+100bp** | **−2.66** |
+| +150bp | −0.23 ⚠️ breaks, n=125 |
+**Monotone deepening from +50 → +100bp across the 21d, 126d and 252d drawdown columns.** **That is the pattern
+I said in advance would constitute a finding, and it is the only one in the study that behaves that way.**
+**Note WHERE the damage sits: 63-day forward RETURNS are mostly POSITIVE (+0.09 to +1.90). The pain shows up
+at ~126 DAYS.** **The lag is about six months, and it is a PATH effect rather than a return effect.**
+
+### ⛔ [D] THE DRIVER PANEL INVERTS WHAT I IMPLIED THIS MORNING
+I framed **bear steepening, term-premium-driven, into decelerating growth** as *"the bad configuration."*
+**The data says the opposite on the first leg:**
+| | 126d ret / maxDD edge |
+|---|---|
+| **rising 30Y + BEAR STEEPENING** | **+2.56 / +0.47** ← benign |
+| rising 30Y + bear FLATTENING | **−3.60 / −1.35** ← the bad one |
+| **BREAKEVEN-driven (inflation)** | **+4.75 / +2.64** ← the good cell |
+| **REAL-yield-driven (term premium)** | +1.41 / −0.11 ← mediocre |
+- *(⛔ CONCEDED)* **Bear FLATTENING is the dangerous configuration, not bear steepening.** Economically
+  sensible in hindsight: flattening means the FRONT end is leading, i.e. the Fed actively tightening into the
+  curve, which is what ends expansions. **Steepening is term premium and reflation, which equities have
+  historically absorbed.** **I asserted the reverse without checking, and the study I commissioned refuted me.**
+
+### ★★★ WHERE THIS EPISODE ACTUALLY SITS — and it straddles two cells
+**30Y 5.09% (FRED) with a 2.20% breakeven → ~2.89% REAL. 2s30s +0.83pp.**
+**So: BEAR STEEPENING (benign, +2.56/+0.47) but REAL-YIELD-DRIVEN (mediocre, +1.41/−0.11) — NOT the
+breakeven-driven cell that carries the strong positive.** **The study does not test that intersection, so the
+honest placement is "the benign steepening cell for the wrong reason."**
+- **⭑ THE ONE NUMBER STILL NEEDED, and Panel C says it is the one that matters: the 30Y's 63-DAY CHANGE.**
+  **If this move is ≥+100bp over 63 sessions, the −2.66 drawdown edge applies and the six-month path is the
+  risk. If it is ≤+50bp, the effect is negligible.** **Everything else in this study is secondary to that
+  single figure.**
