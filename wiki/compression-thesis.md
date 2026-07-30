@@ -1449,3 +1449,38 @@ ground-truth correction, which identifies a more specific mechanism than "higher
   beat and hynix's record-but-insufficient print, **the estimate distribution around this complex is currently
   useless in both directions.** That is an argument for weighting PRICE and POSITIONING over consensus deltas
   through this earnings run — including tonight's MSFT and META. [[ai-financing-fragility]], [[ai-capex-cycle]]
+
+## 2026-07-29 ~10:35pm PT — ★★ JAKE'S APPLE-CXMT CALL GRADED: THE SENATE ISSUES AN ULTIMATUM
+### DATA (overnight feed)
+- **"U.S. SENATE ISSUES ULTIMATUM TO APPLE to pledge NOT to use Chinese memory chips."**
+  **"Senators warn Apple not to buy memory from Chinese companies ON THE PENTAGON LIST"** (Bloomberg, Business
+  Times, 9to5Mac). **"Apple faces BIPARTISAN Senate pushback over plans to buy Chinese memory chips."**
+- Also: **"Chinese company Apple has been lobbying for… called a 'ticking time bomb' in America."**
+- **Qualcomm to RAISE PRICES during the memory crunch**; QCOM −8% after hours on a weak Q4 outlook,
+  *"memory woes weigh on earnings,"* and an expected **acceleration in the Apple revenue decline.**
+- **"SKHY, MU, Samsung's memory technology lead over China's CXMT UNLIKELY TO NARROW SOON"** (Futurum).
+- **Together AI hits an $8.3B valuation "as enterprises FLEE CLOSED AI models for OPEN SOURCE."**
+
+### THESIS (interpretation — NOT fact)
+- *(★★ JAKE'S 7/27 CALL, GRADED — HIT, and it went further than he framed it)* His words: *"Apple is
+  petitioning Trump to work with CXMT… If that falls through it could motivate them to pursue at least the
+  THREAT of legal action barring MU giving them priority pricing once again."* **Three days later the US SENATE
+  has issued a BIPARTISAN ULTIMATUM to Apple not to buy Chinese memory, referencing the Pentagon list.** He
+  identified the correct vector (Apple↔CXMT as a political flashpoint) before it had a political existence.
+  **What he did NOT call, and it is the bigger consequence: the block is coming from CONGRESS, not from
+  Commerce or the White House.** A legislative-branch ultimatum is harder for Apple to negotiate around than an
+  executive one — and it removes the cheap-memory option from Apple's cost structure at the exact moment
+  memory prices are adding **50bp to core CPI** and Qualcomm is publicly **raising prices** on the crunch.
+- *(★ the mechanism this creates, stated as the falsifiable version)* **If Apple is politically barred from
+  CXMT, the incumbents' pricing power is politically PROTECTED.** That is bullish MU/hynix/Samsung on price and
+  bearish Apple on gross margin — **the exact opposite of the "CXMT glut destroys memory pricing" branch the
+  vault has been carrying since the IPO.** **Both branches are now live and they are mutually exclusive:
+  (a) CXMT capacity floods the market and compresses DRAM pricing; (b) CXMT is politically walled out of the
+  Western supply chain and incumbent pricing is protected.** **The Senate ultimatum is direct evidence for (b),
+  and Futurum's "lead unlikely to narrow soon" supports it on technology grounds.** **Registered
+  discriminator: watch whether Apple publicly commits either way — that single decision resolves the fork.**
+  [[memory-regime-question]], [[ai-infra-allocation-map]].
+- *(★ Qualcomm is the pass-through channel arriving in a P&L)* **QCOM raising prices because of memory costs, on
+  a weak outlook, with Apple revenue declining faster** — that is memory-cost inflation reaching a consumer
+  device maker's guidance. **The CPI channel Goldman quantified at 50bp now has a named corporate transmission
+  path.** [[new-economy-regime]].

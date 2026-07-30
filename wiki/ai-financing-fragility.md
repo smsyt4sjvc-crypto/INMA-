@@ -1821,3 +1821,56 @@ is tolerable relatively?")*
   META doing an ATM"* is that same equity-channel question applied to a company with vastly better coverage.
   **If it ever becomes a real question for META, the razor has moved from the weak balance sheets to the strong
   ones — that is the escalation to watch, and it has not happened.**
+
+##### 2026-07-30 ~5:35am UTC feed / ~7:00am PT — ★★★ THE RAZOR REFINES AGAIN: IT IS CAPEX **OPTIONALITY**, NOT CAPEX DIRECTION. AND META'S FCF IS ~ZERO.
+### DATA (overnight feed, 491 items)
+- **★★★ META: "Generated $31.9 BILLION in operating cash flow last quarter and KEPT ONLY $784 MILLION of it."**
+  **97.5% of OCF consumed.** Coverage: *"Meta stock drops 10% as FREE CASH FLOW GETS CRUSHED"*; *"Meta cash flow
+  craters as Zuckerberg doubles down on AI spending"*; *"Why Meta is down 6.6% after AI costs squeeze Q2
+  profitability"*; Wedbush: *"We're Not Seeing Its Capex Pay Off."* Revenue **+28% to ~$60B**.
+- **★★★ MSFT CFO: "DISMISSES AI OVERCAPACITY NARRATIVE, SAYS CAN REIN IN SPENDING IF [needed]."**
+  **MSFT +8% after hours.** Azure **crossed $100B annual revenue**; profit **+31%**; record revenue **$331B FY**.
+- ⚠️ **THE CAPEX HEADLINES CONFLICT AND I AM NOT PICKING ONE:** CNBC — *"Microsoft jumps 8% as it BOOSTS capital
+  spending plans, citing demand."* Barron's — *"Most Important, CapEx HOLDS STEADY."* Stocktwits — *"UNCHANGED
+  2026 Capex Outlook"* AND separately *"LOWER-THAN-EXPECTED Q4 Capex."* **Three readings of the same guide.
+  Do not use a capex direction for MSFT until the actual guide figure is in hand.**
+- **★★ SK HYNIX RESOLVED: "Profits Explode 550%, but its $31 BILLION SPENDING PLAN Sends Investors Running."**
+- **Samsung: chip profit "soars over 250-FOLD on AI memory shortages"; record profit; operating profit BEAT.**
+  **WSJ: "Even $64 Billion in Quarterly Profit Is a Disappointment for Chip Investors."**
+- **ARM shares DIVE after hours DESPITE forecasts ABOVE estimates.** **Caterpillar downgraded on "growing data
+  centre buildout BACKLASH."** **Amazon stock fell as the $25B bond sale "signals AI debt fatigue."**
+- **NYT: "Government Borrowing Cost Hits TWO-DECADE HIGH After Fed Rate Decision."** Dow **−1,153**, worst day
+  in over a year.
+
+### THESIS (interpretation — NOT fact)
+- *(★★★ THE REFINEMENT — and it is sharper than yesterday's version)* Last night I renamed the mechanism the
+  **CAPEX-RAISE RAZOR.** The MSFT CFO line forces one more turn: **"we CAN REIN IN SPENDING IF needed" is an
+  OPTION. Meta's "$130–145B, narrowed from $125–145B" is a COMMITMENT.** **The market paid 8% for the option
+  and took 10% off the commitment.** **The variable is not the level of capex, nor even its direction — it is
+  whether the spending is REVERSIBLE.** That is a materially different and more useful rule: it explains MSFT
+  vs META, it explains why Meta's *"narrowed"* framing failed (narrowing a range REDUCES optionality by design),
+  and it predicts that any company able to credibly say *"we can stop"* gets re-rated regardless of the number.
+  **Registered as: the OPTIONALITY RAZOR.**
+- *(★★ AND IT CLOSES THE HYNIX GAP I FLAGGED LAST NIGHT)* I wrote: *"verify the capex line on GLW, Vertiv, Bloom
+  and hynix before treating the rule as general — hynix in particular looks like a different animal."* **It is
+  not a different animal: "$31 BILLION SPENDING PLAN sends investors running."** hynix's fade was capex, not the
+  revenue miss. **Four confirmed exhibits now run on the capex/optionality axis: GOOGL, INTC, hynix, META — with
+  MSFT as the control that went the other way.** That is a rule with a control case, which is the strongest
+  form of evidence this vault has produced on the razor.
+- *(★★★ $31.9B OCF → $784M RETAINED IS THE ANSWER TO THE VAULT'S OWN STEELMAN)* On 7/28 the WF exhibits forced
+  this note to stop implying hyperscaler SOLVENCY risk: **debt/assets ~21%, interest coverage 65–80x.** Those
+  are BALANCE-SHEET metrics and they remain true. **This is the CASH-FLOW metric, and it says Meta now consumes
+  97.5% of its operating cash flow.** **The registered question was "when does the capex become a problem?" The
+  answer is "when free cash flow reaches zero," and Meta is there NOW** — with the capex floor contractually
+  RAISED for next year. **Solvency is not the risk; the risk is that the equity becomes a call option on capex
+  discipline that management has just promised not to exercise.** [[cepi]], [[consumption-vs-investment-crux]].
+- *(⛔ MY SEMIS CALL IS LOSING, AND I OVER-UPDATED EXACTLY AS I WARNED MYSELF I MIGHT)* At 12:30pm I registered
+  **55/45 lean semis GAP UP.** At 12:45pm I revised to **45/55 lean gap DOWN** off the close. **Futures are UP
+  overnight with MSFT +8% and "traders hope to recover from Fed Day sell-off."** **The original call was better
+  than the revision.** And I had already identified the defect at the time, verbatim: *"a material share of
+  last-hour selling before TWO MEGA-CAP EARNINGS PRINTS is MECHANICAL EVENT-RISK REDUCTION, not a directional
+  view… my revision therefore rests on weaker evidence than I presented it with."* **I diagnosed the error and
+  committed it anyway.** **Standing rule added: when I can name the flaw in my own revision, do not make the
+  revision.** ⚠️ **The call was about SEMIS specifically, not the index — MSFT +8% does not mechanically lift
+  SOXX, and Samsung's record profit plus hynix's capex problem is the semis-specific setup. Not fully graded
+  until the semis open.**
