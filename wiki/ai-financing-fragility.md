@@ -2343,3 +2343,48 @@ watch GS, JPM, MS, and any Japanese or European PB.**
   requires a baseline nobody has published.** **This is the same class as the five-fund claim: a forward
   extrapolation from an outlet whose FACTUAL reporting has been strong today and whose CAUSAL claims remain
   unsourced.** **Use it as a hypothesis, never as a size.**
+
+## 2026-07-30 ~11:20am ET — ★★ THE SNDK HOLDER SCREEN: SA IS ON IT, and the European delta-one banks are the real tell (Bloomberg HDS via Jake)
+
+**DATA (SANDISK CORP, CUSIP 80004C200; shrs out 148.1M, SI 5.31% of shares out):**
+
+| | shares | % out | source |
+|---|---|---|---|
+| Morgan Stanley | 2,839,492 | 1.92% | ULT-AGG |
+| Goldman Sachs | 2,042,540 | 1.38% | ULT-AGG |
+| JPMorgan | 1,428,862 | 0.96% | 13F, **Opt=Y** |
+| BNP Paribas | 1,295,654 | 0.87% | ULT-AGG |
+| UBS | 1,174,925 | 0.79% | ULT-AGG |
+| Deutsche Bank | 1,027,144 | 0.69% | ULT-AGG |
+| SG Americas | 944,503 | 0.64% | 13F |
+| Credit Agricole | 924,243 | 0.62% | ULT-AGG |
+| **DEALER TOTAL** | **11,677,363** | **7.88%** | **~$11.9bn** |
+| + market makers (Jane St, Clear St, SIG, HRT) | 4,890,754 | 3.30% | all Opt=Y |
+| **DEALER + MM** | | **11.19%** | |
+| **⭑ SITUATIONAL AWARENESS LP** | **1,140,119** | **0.77%** | **13F, Opt=Y, ~$1.16bn** |
+
+- *(★★★ SA IS A NAMED HOLDER OF SANDISK — the loop closes)* **The fund is directly linked to the memory
+  complex and specifically to SNDK, the name Jake first pointed at.** **And its line carries Opt=Y — it held
+  OPTIONS, consistent with the $8.46bn of puts in its Q1 13F.**
+- *(★★★ THE REAL TELL IS NOT THE US DEALERS — IT IS THE FIVE EUROPEAN BANKS)* **BNP Paribas, Société
+  Générale, Credit Agricole, Deutsche Bank and UBS together hold 3.61% of a US mid-cap memory stock.**
+  **These are not natural long-term holders of SanDisk. They are among the largest DELTA-ONE and EQUITY-SWAP
+  desks in the world** — BNP and SocGen in particular dominate European structured-equity and swap provision.
+  **Five of them in the top 30 of a US mid-cap is not a normal holder base**, and it is the single most
+  swap-suggestive feature of this screen.
+- *(⚠️ BUT THIS IS EXACTLY THE ANALYSIS I TOLD JAKE CANNOT SEPARATE A SWAP HEDGE FROM INVENTORY — and that
+  has not changed)* **A dealer holding is an undifferentiated blob: market-making inventory, options delta
+  hedges, structured-note hedges, prime-brokerage stock, ETF creation baskets, and the asset-management arm's
+  client money.** **There is no line item for "TRS hedge."** **7.88% in dealer hands is SUGGESTIVE and it is
+  not evidence.** ⚠️ **Also stale — 13F lines are as of the last filing (Q1); ULT-AGG aggregates multiple
+  filing regimes with different dates.**
+- *(★ context that argues AGAINST a squeeze story)* **Short interest is only 5.31% of shares out, and the
+  passive core (Vanguard, FMR, BlackRock, State Street, Geode) holds 31.5%.** **This is not a heavily shorted
+  name — whatever happened to SNDK was not a short squeeze unwinding.**
+
+### ⭑ THE ONE STEP THAT WOULD TURN THIS FROM SUGGESTIVE INTO EVIDENCE — and it is on the same screen
+**Tab 2, "Historical."** **Pull dealer positions for Q4-2025 → Q1-2026 → Q2-2026.** **A SIMULTANEOUS JUMP
+across multiple dealers in the same quarter is the Archegos signature** — that is precisely how the 2021 book
+was reverse-engineered after the fact. **A flat or gradually rising dealer line is inventory. A step-change
+across five or six dealers at once is a swap book.** **That comparison costs one keystroke and it is the
+difference between a screenshot and a finding.**
