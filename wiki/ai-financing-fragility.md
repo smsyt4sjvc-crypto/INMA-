@@ -1934,3 +1934,29 @@ optical-transceiver maker — the interconnect layer of the datacenter build.
   committed, or a named anchor customer.**
 - *(★ sell-side says the quiet part)* **Wedbush: "We're not seeing Meta's capex pay off."** The optionality razor
   in an analyst note. [[ai-capex-cycle]].
+
+## 2026-07-30 ~6:30am PT — ★★★ THE OPTIONALITY RAZOR GETS ITS CLEANEST TEST AND CONFIRMS — and it makes F1 MORE urgent, not less
+
+**DATA (premarket, DB/Newsquawk wrap via Jake):** **MSFT +8.4/9%** — Azure **+43% y/y**, fastest in four years,
+guided to accelerate to **+45%**, and **capital expenditures came in LOWER THAN EXPECTED**. **META −8.3%** —
+Q3 revenue guide **$61–64bn vs $63.17bn est**, **raised the low end of BOTH capex and total expense
+forecasts**, **lowest free cash flow in years**. **HY spreads +7bps to their widest since early April.**
+
+- *(★★★ THIS IS THE RAZOR IN ITS PUREST FORM YET, and it is better than "held the line")* Not merely capex
+  discipline — **MSFT SPENT LESS THAN THE STREET MODELLED while growing cloud at the fastest rate in four
+  years.** **Revenue accelerating on lower-than-expected spend is the exact opposite of Meta's configuration:
+  revenue guide short on raised spend.** **+9% vs −8.3% on the same tape, same night, same sector.** The
+  reversibility read is confirmed by the sharpest available pairing.
+- *(⚠️ AND IT SHARPENS OPEN FLAG F1 RATHER THAN CLOSING IT)* **MSFT's REPORTED capex came in BELOW
+  expectations in the same quarter it signed $130 BILLION of new data-centre leases, on top of $329.1B
+  uncommenced.** **Under-spending on the line the market watches while committing $130B on a line it does
+  not is the off-balance-sheet thesis stated as plainly as it can be stated.** **The market paid +9% for the
+  number it could see. F1 — subset or additive — is now the most valuable unanswered question in the vault.**
+- *(★★ FIRST REAL CREDIT CONFIRMATION FOR THIS NOTE)* **US HY spreads +7bps to the widest since early April.**
+  This note's registered widen-trigger has been running on CDS; **cash HY widening on an equity-up day is a
+  cleaner signal** — risk appetite is not uniformly recovering. ⚠️ **One session. Not a regime.**
+- *(⚠️ THE COUNTER-VIEW, LOGGED WITH ITS OWN REBUTTAL ATTACHED)* **JPM says the deleveraging is COMPLETE.**
+  The wrap's own narrator: *"it is far from completed."* **That is the de-gross-vs-rotation question in third
+  parties' words, and this vault has a measured answer neither of them used: cap indices peaked 06-02, EW S&P
+  07-28 — the rotation is EIGHT WEEKS old and the de-gross is a spike on top of it.** Both JPM and its critic
+  are arguing about the spike while ignoring the base flow.

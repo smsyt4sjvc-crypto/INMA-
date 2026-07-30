@@ -233,3 +233,29 @@ Corroborated by Tech in Asia, Technology Org, varindia (*"despite record semicon
   Investors"* almost certainly refers to Samsung given the same-day *"record semiconductor profits"* framing —
   **but I do not have the article, the currency, or the period, and a headline number is not a filing number.**
   Stays on **F9** until fetched.
+
+## 2026-07-30 ~6:30am PT — ★★ THE DECOUPLING DISCRIMINATOR FIRED — semis UP, memory DOWN, and Samsung's 250-FOLD profit rise got SOLD
+
+**Registered as *"the discriminator worth more than the directional call"*:** *"If MSFT and/or META FALL on a
+raised capex guide while SEMIS RISE, that is brand-new information: the market would have separated 'the
+buildout is real' from 'the buyers are overpaying for it.'"*
+
+**DATA:** **SOX ETF +3.2%** premarket after a **16% five-day selloff**. **LRCX +8%, FORM +16%.** **META −8.3%
+on a RAISED capex floor.** **But: "Semis are higher, MEMORY are LOWER."** **SK hynix −5%+ again; Samsung
+closed lower despite a MORE THAN 250-FOLD year-on-year jump in semiconductor profit.**
+
+- *(★★★ THE DISCRIMINATOR FIRED, and it is the configuration I said had never happened this season)* **A
+  hyperscaler fell on raised capex while the semis that receive that capex ROSE.** **The market separated "the
+  buildout is real" from "the buyers are overpaying for it."** **Registered conclusion: the razor is a BUYER
+  problem, not an AI-complex problem** — which validates the payers-over-semis spread structure from the
+  opposite direction. UBS, independently: *"there's clearly a rotation ongoing from chips to hyperscalers."*
+- *(★★★ BUT MEMORY DID NOT PARTICIPATE, AND THAT IS THIS NOTE'S FINDING)* **Semis +3.2% and memory still
+  lower.** **Samsung's semiconductor profit rose MORE THAN 250-FOLD and the stock closed DOWN.** **That closes
+  F9's identification: the WSJ "$64 billion quarterly profit is a disappointment" item is SAMSUNG.**
+  **A 250-fold earnings increase sold is the beat-sold razor at a magnitude that cannot be explained by
+  positioning or de-grossing.** **It is the market refusing to capitalise peak cyclical earnings, which is
+  exactly the mechanism this note registered last night — and it now has its extreme case.**
+- *(⚠️ what it does to the compression thesis)* **Memory is decoupling DOWNWARD from semis, not just from the
+  index.** The cohort is now underperforming its own end-market on a day that end-market rallied 3.2%.
+  **Whatever is wrong with memory is memory-specific, and CXMT/glut is the only candidate the vault has.**
+  [[compression-thesis]].
