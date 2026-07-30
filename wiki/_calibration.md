@@ -827,3 +827,49 @@ the date where Jake's platform shows a 5× eruption.**
   on the unit — which is precisely the class of ambiguity that produced this question.**
 - **(the rule held)** *A spike is a market event; a STEP is a source change until proven otherwise.* **Written
   before the test, confirmed by it, at a cost of one cell.**
+
+---
+
+## 2026-07-30 3:01pm PT — ⛔ I REPORTED A PRECISE SPLIT OF A NUMBER I COULD NOT MEASURE (SPY Dec-745 put)
+
+**What I said** (same session, one message earlier): *"on a December put the loss is **~73% delta, ~27% vol**."*
+Stated flat, with a table, as a decomposition of Jake's actual −$805 day.
+
+**Why it was wrong.** That split is a function of the spot move, and **I did not know the spot move.** I had
+"almost $20 under strike" (⇒ ~726 yesterday) and "still below the strike" (⇒ anything under 745 today), then
+picked 735 and reported the answer as if 735 were data. Re-run across the range Jake's own words actually permit:
+
+| spot now | Δ from 726 | $ from spot | $ from IV | delta share | vol share |
+|---|---|---|---|---|---|
+| 730 | +4 | −$210 | −$595 | **26%** | **74%** |
+| 735 | +9 | −$461 | −$344 | 57% | 43% |
+| 740 | +14 | −$698 | −$107 | 87% | 13% |
+| 742 | +16 | −$789 | −$16 | **98%** | **2%** |
+
+**The answer swings from 26/74 to 98/2 inside the range I was entitled to.** It is not a noisy estimate — it is
+**not identified at all** by what I had. And my reported 73/27 is not even in the table: I generated it from
+an *assumed* 1-point IV drop rather than solving for IV from the price Jake actually paid.
+
+**The class of error.** This is not the PCE reversal (conceding to a correction without checking) or the GLP-1
+provenance call (accusing a real source). It is a **third, quieter failure: precision theatre.** A table with
+two decimals reads as measurement. The mechanism I described was right; **the weights were manufactured**, and
+the formatting is what made them look measured. Nobody pushed back, because a precise-looking number invites
+belief, not challenge — which is exactly what makes this one dangerous.
+
+**★★★ AND THE HONEST VERSION WAS AVAILABLE, AND WAS STRONGER.** Total P&L ≡ ΔIntrinsic + ΔExtrinsic is an
+**identity** — it needs no spot estimate, no vol estimate, no model. It resolves to **−$726 exactly** on every
+branch, and it delivers the better finding: *the underlying moved toward the strike and the position still
+lost, because the extrinsic bill outran it.* **I reached for a model when arithmetic would have closed it.**
+
+**RULE (new).** *Before reporting a decomposition, ask what inputs it is a function of, and whether I measured
+them or chose them. If any input was chosen, either (a) print the answer across the range that input can take,
+or (b) find the identity that does not need it.* Never report a chosen input as a measured one. Corollary:
+**decimal places are a claim about precision** — spending them on an assumption is a false statement about
+what is known.
+
+**Also corrected in the same message** (smaller, same direction): *"decay is not your problem right now"* —
+true per day (~$6–8 theta), **false over the 48 days he has held it**: freezing spot and vol and rolling
+189d → 141d costs **$305–495, i.e. 42–68% of the entire loss.** I read a per-day greek as a per-position fact.
+
+**Score.** Jake did not catch this one — the screenshot did. **Self-caught on contact with data, which is the
+right outcome but not the same as not having done it.**
