@@ -1708,3 +1708,45 @@ y/y (exp 3.7%). Core 3.3% y/y (exp 3.3%).**
 - *(still pending in the same 8:30 release)* **Q2 advance GDP (est 2.0%), Q2 core PCE q/q (est 3.5% vs 4.4%
   prior — a large expected deceleration), jobless claims (est 200k vs 187k prior).** **The quarterly core
   deceleration is the bigger number than the monthly.**
+
+## 2026-07-30 ~8:35am ET — THE FULL 8:30 SET: this is a SLOWDOWN, not stagflation — and the number that matters is not in the release
+
+**DATA:** **Q2 advance GDP 1.5% (exp 2.0%, prior 2.1%).** **Core PCE +0.1% m/m (exp 0.2%); 3.3% y/y in line.**
+**Personal income 0.2% (exp 0.3%). Personal spending 0.3% (exp 0.4%).** **Initial claims 197K (exp 200K,
+prior 187K). Continuing claims 1,782K (exp 1,795K, prior 1,796K).**
+
+- *(★★ IT IS NOT STAGFLATION AND THE DISTINCTION IS THE WHOLE READ)* **Stagflation = weak growth + HOT
+  inflation. This is weak growth + IN-LINE inflation.** **GDP missed by 50bp and decelerated; core y/y printed
+  exactly at 3.3%.** **The hike case rested on inflation being STICKY, and today it was merely high and
+  behaving.** **That takes pressure off the September/December hikes the market has been pricing.**
+- *(⚠️ BEFORE CALLING IT A GROWTH SCARE — there was a KNOWN, QUANTIFIED one-off drag on this exact quarter)*
+  This vault logged on 7/29: **Goldman cut Q2 GDP by 0.8pp on the oil/SPR disruption.** **The miss is 0.5pp.**
+  ⚠️ **I do not know whether the 2.0% consensus had already absorbed that cut.** **If it had, 1.5% is a real
+  miss on top of a known drag. If it had not, the print is BETTER than the pre-announced drag implied.**
+  **Do not label this a growth scare until that is established — it is the difference between a slowing
+  economy and an energy-shocked quarter.**
+- *(★★★ THE NUMBER THAT MATTERS IS THE COMPOSITION, AND IT IS THE VAULT'S #1 QUESTION)* **Was the miss in
+  CONSUMPTION or in INVESTMENT?** **[[consumption-vs-investment-crux]] is the top note in the spine, and AI
+  capex is the investment line.** **If business fixed investment drove the shortfall, the AI capex cycle is
+  showing up in the NATIONAL ACCOUNTS for the first time — which would be the single biggest event in
+  [[ai-capex-cycle]] since it opened.** **If consumption drove it, it is a consumer story.** ⚠️ **Note the
+  set-up: consensus expected personal consumption to ACCELERATE to 2.3% from 0.5%. GET THE BEA COMPONENT
+  TABLE.** **Registered as the highest-value follow-up of the morning.**
+- *(★★ THE CONSUMER DETAIL NOBODY WILL LEAD WITH: SPENDING RAN ABOVE INCOME)* **Income +0.2%, spending +0.3%.**
+  **The savings rate fell — consumers held their spending by saving less.** **Both figures missed, and the one
+  that missed less is the one being funded out of savings.** That is a fragility datum, not a strength datum,
+  and it sits directly on the consumption-vs-investment crux. [[trade-down-landing-pads]].
+- *(★★★ THE LABOUR DATA DOES NOT FIT, AND THE MISMATCH IS THE STAGFLATION CHANNEL THAT IS *NOT* IN THE PRICE
+  DATA)* **Claims 197K and CONTINUING CLAIMS FELL to 1,782K.** **You do not run 1.5% GDP alongside falling
+  continuing claims for long.** **Weak output with a tight labour market means PRODUCTIVITY is falling — and
+  falling productivity raises UNIT LABOUR COSTS, which is inflationary at the margin.** **So the stagflation
+  risk is real but it is in the OUTPUT-PER-HOUR channel, not in today's PCE.** **Registered as the thing to
+  watch that this release does not price.**
+- *(⚠️ MY REGISTERED CALL IS NOW UNDER A HARDER TEST AND I MAY LOSE IT)* Twenty minutes ago: *"front end
+  richer, 30Y flat-to-cheaper, 2s30s steeper — the problem is credibility, not data."* **A 50bp GDP miss is
+  real growth news, not a rounding step, and the growth channel bids the WHOLE curve including the long end.**
+  **If the 30Y rallies materially here, the credibility framing loses to the growth channel and I should say
+  so plainly rather than reinterpret.**
+- *(★ the equity setup, stated as mechanics not a call)* **Yesterday's selloff was about the Fed HIKING, not
+  about growth.** **A print that removes hike pressure is therefore bullish for the thing that actually broke
+  yesterday** — which is why "bad news is good news" applies to this specific print rather than as a slogan.
