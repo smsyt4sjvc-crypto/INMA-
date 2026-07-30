@@ -1739,3 +1739,62 @@ the rotation has become a broad de-rate and every containment argument in this n
 absent casualty, the open primary market, and the "it is a sector event" read all depend on the rest of the
 index absorbing the AI complex. **Watch RSP's `vs ATH%` line, not the VIX and not the neoclouds.**
 [[detachment-bid]], [[ai-financing-fragility]], [[ai-capex-cycle]].
+
+## 2026-07-30 ~12:40am PT — ⛔ THE EW-vs-CAP TEST RETURNED THE OPPOSITE SIGN: the damage is in the MEGA-CAPS, not the crowded tail — my mechanism is falsified, the extreme is confirmed
+
+**VERIFIED (`tools/equal_weight_check_cell.py`, base 2026-06-30 close → last 2026-07-29):**
+
+| | MTD% | vs ATH% | ATH date |
+|---|---|---|---|
+| **EW S&P 500** (RSP) | **+1.39** | **−0.90** | **2026-07-28** |
+| EW NDX 100 (QQQE) | −5.33 | −5.73 | 2026-06-15 |
+| cap S&P 500 (SPY) | −2.32 | −3.72 | 2026-06-02 |
+| cap NDX 100 (QQQ) | −10.14 | −11.22 | 2026-06-02 |
+
+**EW NDX−SPX: −6.72pp** (claim −6.80 ✓). **CAP NDX−SPX: −7.82pp. EW-minus-CAP: +1.10pp.**
+**171 complete months (2012-04 → 2026-06): worst prior −4.93pp (2021-03), months below −5pp: ZERO, σ 2.18pp.
+Current = 3.1σ.**
+
+- *(⛔ THE FALSIFICATION, stated first because it is mine)* Three hours ago I wrote: *"If EW is much worse than
+  cap, the damage is in the SMALL/CROWDED tail of the NDX — a momentum unwind, not profit-taking."* **EW is
+  BETTER than cap by 1.10pp. Cap NDX −10.14% vs EW NDX −5.33%: the largest names are falling roughly TWICE as
+  hard as the average NDX name.** **The mega-caps are the epicentre and my tail hypothesis is dead for this
+  episode.** I proposed the test, named the sign in advance, and got the sign backwards — which is the test
+  working, and the cheapest possible way to learn it.
+- *(★★★ THE CORRECT CHARACTERISATION — narrower than either my read OR the source's)* Not a tail unwind; not
+  generic "tech profit-taking" either. **The NDX damage is concentrated in its LARGEST WEIGHTS, and those
+  largest weights are disproportionately AI SEMIS** — NVDA and AVGO sit in the top five, with AMD and MU
+  behind them, on a day of **SOXX −5.38%, MU −9.94%, TSMC −4.50%, AVGO −2.78%.** **A specific complex that
+  happens to occupy the top of the index.** That is consistent with every other thread in this vault and it
+  required no new hypothesis. **Writing the NARROWER description instead of flipping to the opposite pole —
+  the procedure registered in [[_calibration]] four hours ago, applied on its first live test.**
+- *(★★★ THE PEAK SEQUENCE IS THE FIND, and it reframes the whole week)* **cap SPX and cap NDX both peaked
+  2026-06-02. EW NDX peaked 06-15. EW S&P peaked 2026-07-28 — EIGHT WEEKS LATER.** **The rotation has been
+  running for two months, not two weeks.** Goldman's *"largest 3-day de-gross since Nov '22"* is therefore
+  **the violent phase of a two-month rotation, not the event itself.** **The de-gross-vs-rotation question
+  resolves: rotation is the base flow, the de-gross is a spike layered on top of it in the last week.** That
+  is a measured answer to a question I had been arguing from narrative.
+- *(★★ THE INVERSION IS CONFIRMED — F11's missing number is in hand)* **EW SPX +1.39% MTD vs cap SPX −2.32%
+  MTD = a 3.71pp gap in favour of the average stock.** After two years of *"the index is up but the average
+  stock isn't,"* it has flipped. **Registered as measured, not inferred. F11 CLOSED.**
+- *(★★ THE EXTREME IS REAL AND I CONCEDE IT FULLY)* **Zero months below −5pp in 171, and this is −6.72 = 3.1σ.**
+  The source's headline claim survives verification. **The "20 years" span does not** — QQQE launched 2012-04,
+  so the checkable record is **14.25 years**. Substance right, span inflated.
+- *(⚠️ AND THE POST IS ONE SESSION STALE, which explains the leg mismatch)* Source: EW SPX **+2.2% at an
+  all-time high**, EW NDX **−4.6%**. Measured: **+1.39% and −5.33%.** The spread matches (−6.8 vs −6.72) but
+  both legs are off by ~0.8pp in the same direction. **EW SPX's ATH of 217.69 on 07-28 is +2.31% from the June
+  base — which is their +2.2%.** **The post is as of 7/28. "Trading at an all-time high" was true yesterday;
+  EW SPX has since given back 0.90%.** Not an error in the post, but it matters: **the containment condition
+  is already one session past its peak and last session's direction was down.**
+
+### THE TRIGGER, REWRITTEN AS A PRICE — because "decisively below" is not a trigger, it is an adjective
+Yesterday's version said the containment case dies if EW S&P *"breaks decisively below its all-time high."*
+**That is exactly the loose-switch defect logged three times in 48 hours.** Replaced with a number:
+
+> **KILL SWITCH — CONTAINMENT: RSP closes below 212.77 (the 2026-06-30 close) while NDX is still falling.**
+
+**That level is −2.3% from the 07-28 ATH and it is the point at which the average S&P stock has given back its
+ENTIRE July gain.** At that price the rotation has stopped absorbing the AI complex and become a broad de-rate,
+and every containment argument in this vault fails together — the absent neocloud casualty, the open primary
+market, and the "it is a sector event, not a market event" read all depend on the other 400 names holding.
+**Current: 215.73. Distance to the switch: −1.37%.** [[detachment-bid]], [[ai-financing-fragility]].
