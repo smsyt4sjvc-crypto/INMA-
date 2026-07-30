@@ -2907,3 +2907,80 @@ I inferred.**
 - *(★ the timeline anchor, new)* **War launched Feb 28.** Five months of data. Axios characterises Hormuz as
   *"effective closure"* — a third-party read consistent with the **discretionary permission regime** this note
   landed on. [[oil-value-chain]], [[consumption-vs-investment-crux]], [[new-economy-regime]].
+
+## 2026-07-30 ~2:45am PT — "HOW LONG CAN CHINA GO?" (Jake) — the depletion clock does NOT bind, the manufacturing intuition INVERTS, and his best argument is the one he only half-made
+
+**JAKE (user's thesis):** *"How long can they go without significant impact? US re-sanctioned Iran, making
+daylight channels harder. They had to be faking the front to some degree. You're not just using that much oil
+one day and just… stop. Reserves will run low. Shadow fleets will be interrupted. Coal and LNG will dwindle.
+It's the manufacturing epicenter of the world."*
+
+### ★★ WHERE HE IS RIGHT, AND IT IS A CONSISTENCY POINT IN HIS FAVOUR
+**"Faking the front to some degree" applies his own argument consistently.** Forty minutes ago he argued
+**Chinese demand data is unreliable.** *"Without impairing the well-functioning of the economy"* is **Meidan's
+characterisation resting on Chinese economic data — which is opaque by the same logic.** **If apparent demand
+is a residual you cannot trust, "no impairment" is a claim you cannot verify.** ⚠️ **Registered: the vault
+should not treat "no economic damage" as DATA. It is one analyst's read of a series China controls.**
+**Harder-to-fake proxies: electricity consumption, rail freight, port throughput, PMI sub-indices — and the
+one the article already supplies, TRAFFIC CONGESTION STABLE, which is a physical measure and does support the
+no-impairment claim on the transport side specifically.**
+
+### ⛔ WHERE THE CENTRAL INTUITION INVERTS — Chinese factories do not burn oil
+**"It's the manufacturing epicenter of the world" is the reason China CAN do this, not the reason it cannot.**
+**Chinese industry runs on ELECTRICITY, and Chinese electricity is coal-dominated.** ⚠️ **Oil is roughly
+18–20% of China's primary energy (verify) — far below the fossil share overall, because COAL carries the
+load.** **In China, oil is predominantly TRANSPORT FUEL and PETROCHEMICAL FEEDSTOCK, not industrial process
+heat or power generation.** **A coal-based, heavily electrified manufacturing economy is the single best-placed
+large economy on earth to absorb an oil shock. The economies that cannot absorb one are oil-dependent transport
+economies — the US being the archetype.**
+
+### ⛔ AND "STOP USING IT" IS THE WRONG FRAME — consumption ≠ imports
+⚠️ Approximate, verify: **China produces ~4.3 mb/d domestically.** Pre-war supply ≈ **11.0 imports + 4.3
+domestic = 15.3 mb/d.** At −40% imports: **6.6 + 4.3 = 10.9.** **The gap to close is 4.4 mb/d — 29% of total
+supply, not 40% of consumption.** **They did not stop using it; they stopped IMPORTING it, and domestic
+production never moved.**
+
+### ⛔ THE DEPLETION CLOCK DOES NOT BIND — this is the part of his argument that feels strongest and is weakest
+⚠️ Chinese crude inventories are unpublished; analyst estimates cluster **~0.8–1.3 billion barrels** (wide).
+**But the binding variable is not the stock, it is what SHARE of the 4.4 mb/d gap stocks are covering — and the
+article names FOUR levers, of which stocks are one:**
+
+| stocks cover | draw | 1.0B bbl lasts |
+|---|---|---|
+| 100% of gap | 4.40 mb/d | **7.5 months** |
+| 50% | 2.20 mb/d | **15 months** |
+| **25% (one of four levers)** | **1.10 mb/d** | **~30 months** |
+
+**Five months in, if stocks are one lever among four, the runway is measured in YEARS.** **"Reserves will run
+low" is arithmetically the weakest of his four constraints, not the strongest.** ⚠️ **The real unknown is the
+DRAW-RATE limit and minimum operating level, not total volume — the same distinction that governs the US SPR —
+and no Chinese figure for either is public.**
+
+### RANKING HIS FOUR NAMED CONSTRAINTS, because they are not equivalent
+1. **⛔ COAL — WRONG, and it is the clearest error.** ⚠️ China produces roughly **4.7–4.8 billion tonnes/yr,
+   about half of world output (verify).** **China is coal SELF-SUFFICIENT at enormous scale. Coal does not
+   "dwindle" for China; coal is its strategic depth.**
+2. **LNG — PARTIAL.** China imports LNG but also takes Russian pipeline gas (Power of Siberia). A cost
+   constraint, not an acute physical one.
+3. **RESERVES — see above. Years, not months, on the realistic split.**
+4. **★★★ SHADOW FLEET / SANCTIONS — THE LIVE ONE, and it is the argument he only half-made.**
+
+### ★★★ HIS BEST POINT, COMPLETED — sanctions hit China's SUPPLY, not its demand
+**China is the near-exclusive buyer of sanctioned Iranian crude (Shandong teapots).** **So tightening US
+sanctions — including tonight's "US targets Iran's Hormuz extortion scheme AND EIGHT SHADOW TANKERS" — attacks
+the channel supplying China's DISCOUNT barrels.** **If the discounted channel closes, China must either return
+to the SEABORNE market (bringing that bid back — the bullish mechanism) or cut consumption deeper.**
+**That is the cleanest identified path from a policy event to China's return, and it does not require anything
+to deplete.** [[war-board]].
+
+### ★★★ THE REFRAME THAT ANSWERS THE QUESTION HE ACTUALLY ASKED
+**"How long" is the wrong axis. China is a PRICE-SENSITIVE buyer — the article says so explicitly — and it
+stepped away at high prices.** **It returns on (a) a price level, or (b) the closure of a cheaper channel.
+Neither is a calendar date.** **So the reversal trigger is a PRICE or a SANCTIONS EVENT, not a depletion
+date** — which is more tractable and more tradeable than a countdown. **Registered under F13.**
+
+### ★★ THE VULNERABILITY THAT IS REAL AND MORE SPECIFIC THAN "MANUFACTURING"
+**PETROCHEMICAL FEEDSTOCK.** Lower crude imports mean lower refinery runs mean less **naphtha and LPG** — and
+that IS a manufacturing input, unlike transport fuel. **Watch Chinese petrochemical output, plastics/resin
+exports, and naphtha/LPG imports.** **If China is being hurt anywhere, it shows up there before it shows up in
+GDP.** [[consumption-vs-investment-crux]].
