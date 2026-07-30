@@ -201,3 +201,35 @@ market consensus."** Bloomberg — **"Korean Stocks' Record Rout Fails to Tempt 
   evidence.** Registered as a thing to check, not a thing to use.
 - *(★ the razor, restated by the WSJ in its purest form)* **"Even $64 BILLION in quarterly profit is a
   disappointment for chip investors."** That is the beat-sold razor written as a headline by a T1 outlet.
+
+## 2026-07-30 ~12:19am PT — ★★★ REUTERS CONFIRMS THE SHORTAGE CALL AND ADDS THE PART THAT MATTERS: SAMSUNG IS SIGNING LONG-TERM SUPPLY DEALS THROUGH 2028
+
+**Five hours ago I wrote:** *"⚠️ Single source, no corroboration in the T1 financial-wire tier. Not verified…
+Do not move either thesis on a single Korean-language business-daily headline."* **The corroboration arrived.**
+
+**DATA — Reuters (T1): "Samsung sees chip shortage extending to 2028, SIGNS LONG-TERM SUPPLY DEALS."**
+Corroborated by Tech in Asia, Technology Org, varindia (*"despite record semiconductor profits"*).
+
+- *(★★★ THE CLAUSE THAT CARRIES THE WEIGHT IS "SIGNS LONG-TERM SUPPLY DEALS," NOT "2028")* A forecast is an
+  opinion. **A signed multi-year supply agreement is a counterparty putting volume and price on paper.** Last
+  night I closed the memory-EQUITY channel as evidence and said to use **"physical prices, contract prints and
+  capacity announcements only."** **This is a contract print — the exact evidence class I named, arriving on
+  the first day I asked for it.**
+- *(★★★ AND IT RESOLVES THE CXMT FORK FROM THE COMMERCIAL SIDE, INDEPENDENTLY OF WASHINGTON)* **Buyers do not
+  pre-commit through 2028 if they expect Chinese supply to fill the gap.** The Senate pressure on Apple is
+  POLITICAL evidence for the walled-out branch; **the long-term agreements are COMMERCIAL evidence for the same
+  branch, from parties with money at stake rather than votes.** **Two independent mechanisms, same direction.**
+  The glut branch is now the weaker side of the fork for the first time.
+- *(★★★ SO WHY DID MU FALL 9.94%? — and the answer is better than "the market is wrong")* This vault already
+  contains the explanation, written before the news: *"the market's refusal to CAPITALISE PEAK CYCLICAL EARNINGS
+  is not addressed by anything MSFT or META can say."* **A shortage extended to 2028 is peak-cycle-EXTENSION
+  news. It raises the E and lowers the multiple applied to it** — the standard semis pattern where the highest
+  P/E prints at the trough and the lowest at the peak. **Registered reading: Samsung's 2028 call is bullish
+  memory EARNINGS and bearish memory MULTIPLES, and the multiple is winning.** That is a materially different
+  claim from "the equities are mispriced," and it is falsifiable: **if this is a multiple story, memory names
+  fall on good news and keep falling; if it is a de-gross, they re-rate the moment gross exposure stops
+  contracting.**
+- *(⚠️ the $64B, still unidentified)* WSJ's *"Even $64 Billion in Quarterly Profit Is a Disappointment for Chip
+  Investors"* almost certainly refers to Samsung given the same-day *"record semiconductor profits"* framing —
+  **but I do not have the article, the currency, or the period, and a headline number is not a filing number.**
+  Stays on **F9** until fetched.
