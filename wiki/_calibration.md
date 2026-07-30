@@ -700,3 +700,34 @@ digest. Full record in [[war/war-board]].
 - **AND JAKE FOUND BOTH.** CPC came from his wire flash; the Supreme Leader from a digest he pasted for a
   different reason. **He is the discovery mechanism for standing state, and that is not a stable arrangement —
   it means the vault only learns what it does not know when he happens to paste something adjacent to it.**
+
+## 2026-07-30 ~3:05am PT — METHODS: a vol-adaptive threshold ANTI-CLUSTERS by construction (Jake's red-day study, caught before the study ran)
+
+Jake proposed: 30-day rolling median of red-day magnitudes; a *significant* red day is ≥1.30× that median;
+measure spacing; test whether tight spacing precedes drawdowns. **Two defects found in synthetic controls
+before touching real data — both would have produced a confident wrong answer.**
+
+- **(1) THE MEASURE FIGHTS THE PHENOMENON.** The rolling median is a **volatility-adaptive bar**. A cluster of
+  hard red days **raises the median, raises the threshold, and suppresses the next signal.** **The definition
+  normalises away exactly the vol clustering it is built to detect.** Measured on a 20,000-day random walk with
+  **no** clustering, the index of dispersion came out **SUB-Poisson — 0.67 at 1.3×, 1.01 at 2.0×.** **The
+  design anti-clusters by construction, so dispersion must NEVER be compared to the Poisson 1.00.**
+- **(2) 1.30× IS NOT SELECTIVE — it is not a tail, it is a coin flip.** On the random walk it fired on **19.2%
+  of ALL days, ~48/yr, median gap 4 days.** That is *a slightly-worse-than-typical down day*, not a significant
+  one. Selectivity: **1.3× → 19.2% of days · 2.0× → 10.2% · 2.5× → 6.3% · 3.0× → 3.8%.** **Jake asked whether
+  1.30 was too much or not enough. Measured answer: not enough, by a wide margin.**
+- **THE FIX — a SHUFFLED CONTROL rather than a theoretical null.** Permute the actual returns (destroys
+  time-ordering, preserves the return distribution), rerun the identical pipeline, and compare. Any excess
+  clustering in real data is then **vol clustering and nothing else.** **Validated against a known answer:**
+
+| series | 1.3× | 2.0× | 3.0× |
+|---|---|---|---|
+| random walk (no clustering) | **0%** | 8% | 13% |
+| GARCH(1,1) (known clustering) | **100%** | **100%** | **100%** |
+
+  **The test discriminates.** And note the null lands **LOW, not at 50%** — so a theoretical midpoint would
+  have been the wrong reference. **The calibrated reference values are printed inside the cell.**
+- **(the general lesson, and it is the reusable one)** **Every adaptive-threshold indicator has this defect
+  latent in it** — anything normalised by trailing vol, ATR, or a rolling quantile is measuring *deviation from
+  recent conditions*, which is precisely what regime change destroys. **Before trusting any such measure, run
+  it on a series where the answer is known.** Two synthetic runs cost nothing and caught both defects.
