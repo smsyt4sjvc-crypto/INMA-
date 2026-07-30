@@ -2201,3 +2201,49 @@ private loans, sold to investors who wanted liquidity the structure could never 
   book now versus $13.68bn at March 31 means the 13F was ROUGHLY COMPLETE.** **There is far less room for a
   hidden swap book than I implied. Withdrawn as stated.** ⚠️ The ZH claim that PMs will find *"a LOT of
   unexpected high-beta momentum total return swaps"* is a **prediction, not a report.**
+
+## 2026-07-30 ~10:25am ET — ⛔ THE OBDC II MATERIAL IS FIVE MONTHS OLD: verified to FEBRUARY 19-20, 2026, and the digest presented it as current
+
+**VERIFIED (CNBC 2026-02-19, 24/7 Wall St 2026-02-19, Private Debt Investor, WealthManagement, AltsWire):**
+- **Blue Owl permanently halted quarterly redemptions in OBDC II** ✓
+- **~$600M of loans sold from 128 companies across 27 industries at 99.7% of par** ✓ (digest said 99.8 —
+  immaterial)
+- **Part of a $1.4B sale across three Blue Owl funds** ✓
+- **Return-of-capital distribution of up to $2.35/share, ~30% of NAV as of DEC 31 2025, expected by MARCH 31
+  2026.**
+- **Redemption requests ~$150M in the FIRST NINE MONTHS OF 2025, up 20% y/y.**
+- **OBDC II launched 2017 with an expected ~10-YEAR HORIZON — "in line with a potential wind-down around
+  2027."**
+
+- *(⛔ THE ANALYSIS I BUILT ON IT IS DOWNGRADED, and the load-bearing number is stale)* Twenty minutes ago I
+  concluded: *"enormous redemption pressure AND assets clearing at near par — that combination has a name: a
+  LIQUIDITY event, not a CREDIT event."* **The 99.7% print is from FEBRUARY. There is no JULY print.** **The
+  entire question is whether private credit is still clearing at par NOW, after the AI complex broke — and
+  that is precisely what a five-month-old price cannot answer.** **Corrected: it WAS a liquidity event in
+  February. The current state is UNKNOWN.**
+- *(★★★ AND THE CAUSALITY MAY RUN OPPOSITE TO WHAT EITHER OF US SAID)* Jake said *fundraising slowdown =
+  redemption acceleration.* I said *fundraising slowdown LEADS redemptions.* **The dated sequence is:
+  GATE IN FEBRUARY → FUNDRAISING SLOWDOWN IN JULY.** **You gate one vehicle and five months later nobody
+  wants to fund the new ones.** **That is reputational transmission, and it runs backwards from both our
+  framings.** **Today's Bloomberg headline is the CONSEQUENCE of February's gate, not its precursor.**
+- *(★★ AND OBDC II LOOKS SUBSTANTIALLY LIKE A SCHEDULED WIND-DOWN, which reframes "permanent halt")* **A 2017
+  vintage with a ~10-year horizon winding down in 2026-27 is doing what it was DESIGNED to do.** **Redemption
+  requests of ~$150M over nine months, +20% y/y, are not panic numbers.** The contemporaneous coverage asked
+  exactly this — *"Rugpull Or Business As Usual?"* **⚠️ Not dismissing it: the halt is real and permanent and
+  the market marked OWL down on it. But an end-of-life fund accelerating its wind-down is a materially
+  different object from a healthy vehicle gating under a run, and the digest's framing collapsed the two.**
+- *(★ THE CALENDAR GATE CAUGHT IT — the process worked)* The rule written this morning after the Saudi
+  "Q3 2026" digest: **check whether a print can exist, and when it is dated, BEFORE reading its content.**
+  **Applied here, it caught a five-month displacement in a summary explicitly requested as "CONFIRMED
+  events."** ⚠️ **The digest did not fabricate — every fact checks out. It omitted DATES, and undated true
+  facts read as current.** **That is the failure mode to watch in offloaded research: not invention,
+  DISPLACEMENT.**
+
+### WHAT IS ACTUALLY CURRENT — a much shorter list
+1. **Today: Bloomberg — Blue Owl fundraising slowdown amid credit pullback.** ⚠️ The only genuinely July datum
+   in the private-credit block.
+2. **Today: SA sells ~$16B public book to Citadel** (WSJ/CNBC) — verified separately, and unaffected.
+3. **⚠️ EVERY OTHER FIGURE in that digest — BCRED ~10%, Blue Owl Flagship ~19%, Blue Owl Tech ~38%, Ares ~14%,
+   BlackRock/HPS ~13%, Cliffwater ~17%, "Q2 requests $15.6–22B" — CARRIES NO DATE AND IS NOW SUSPECT AS TO
+   VINTAGE.** **Do not use them until dated.** **New Mountain's ~94% print is in the same category and it was
+   the one number I flagged as the warning signal.**
