@@ -568,3 +568,47 @@ left. This supersedes BOTH entries above (kept visible, rule 4) and is the final
   **−1.9% and +2.2%** — those annualise to roughly **30–35%.** n=2 so it is not a measurement, but implied at
   half of realised on a 5-month tenor is the exact configuration `tools/vix_term_structure_cell.py` was built
   to arbitrate. **Escalated to [[market-fragility]] as a live, dated data point.**
+
+### 2026-07-30 3:34pm PT — 📈 THE STOCK SCREEN IS A PRICE FEED. Real spots ⇒ the day was 73/27, not 98/2.
+Jake's SPY **share** position, pasted whole: total value $2,225.07, avg cost $736.96, total cost $2,210.89,
+total +$14.18 (+0.64%), today +$36.69 (+1.67%). Archived: `raw/2026-07-30-spy-shares-position-screen.md`.
+
+- **★★★ IT YIELDS EXACT SPOT, TWICE.** $2,210.89 / $736.96 = **3.0000 shares.** Therefore
+  **SPY now = 2225.07/3 = `741.69`** and **SPY yesterday = (2225.07−36.69)/3 = `729.46`** (+12.23, +1.68%;
+  screen says +1.67% ✓). A position screen with cost, value and day-change is a **two-point price feed** —
+  worth remembering, since this vault has no market-data terminal.
+- **⛔ MY INFERRED 726.1 WAS OFF BY 3.36 POINTS, AND THAT ONE ERROR PRODUCED THE "98% DELTA" CALL.** It
+  inflated the session move from 12.23 → 16 points (+31%), which ate the whole vol residual. Redone on the
+  real prints: **IV 16.8% → 15.6% (−1.14 pts); spot −$590 (73%), vol+time −$215 (27%).**
+- **★★★ THE ORIGINAL 73/27 WAS RIGHT, AND NOT BY LUCK.** An attribution *ratio* depends on the **changes**,
+  not the levels. Assumed: +10 spot, −1.0 IV. Actual: +12.23 spot, −1.14 IV. **Levels wrong by miles,
+  deltas close, ratio survives.** The retraction was the error, and its cause was **treating a colloquial
+  phrase ("almost $20 under strike") as a measurement.** ⚠️ Standing: *verbal approximations are not data —
+  a 3-point slop on a 12-point move is a 28% error in the driver.*
+- **ENTRY STATE, on Jake's "guess it was ITM even"** (supersedes the ATM read; system stays determined):
+
+  | entry spot | state | entry IV | vol P&L | time P&L | spot P&L |
+  |---|---|---|---|---|---|
+  | 745 | ATM | 18.3% | −488 | −381 | **+143** |
+  | 743 | ITM | 17.9% | −413 | −370 | **+57** |
+  | **741.69** | **← breakpoint: SPY IS HERE NOW** | | | | **0** |
+  | 739 | ITM | 17.1% | −260 | −346 | **−120** |
+  | 735 | ITM | 16.2% | −100 | −322 | **−303** |
+
+  Deeper ITM at entry ⇒ lower entry IV ⇒ smaller vol loss, larger spot term. **"ITM" alone does NOT settle
+  the sign of the direction term — `741.69` does.** One lookup (SPY's Jun-12 close) closes it permanently.
+- **★★★ ⛔ THE BOOK IS NET SHORT, AND THE 7/23 NOTE HAS IT BACKWARDS.**
+
+  | leg | today $ | deltas | $ exposure |
+  |---|---|---|---|
+  | 3 SPY shares | +36.69 | +3.00 | +2,225 |
+  | 1 Dec-745 put | −805.00 | **−45.11** | **−33,457** |
+  | **NET** | **−768.31** | **−42.11** | **−31,232** |
+
+  **The 3 shares are 7% of the put's delta.** The 2026-07-23 entry above called this *"HEDGED-long adding
+  small delta under the protection"* — **inverted.** The stock is a **stub**; the put **is** the position,
+  and the book carries ~$31k of net short SPY exposure against a $2,225 share line. Today the shares
+  recovered **4.6%** of what the put lost. *(Rule 7: descriptive. Flagged because the vault was mis-describing
+  the risk, not to suggest an action.)*
+- Share lot detail: 3 shares @ $736.96 avg, **+$14.18 (+0.64%) — effectively flat.** The 7/23 note records
+  2 @ $738.46, so a third was added at ≈**$733.97** (2210.89 − 1476.92). Not previously logged.
