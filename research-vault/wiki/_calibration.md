@@ -548,3 +548,29 @@ circuit-breakered, the S&P's bottom decile in freefall.)*
   memory equity prices as cycle evidence this week; and the **Ofgem commitment fee** landing on the optionality
   razor rather than on the power thread where its keyword lives. **All three came from asking which NOTE a
   headline belonged to, and two of them contradicted the note they belonged to.** [[_persona]].
+
+## 2026-07-30 ~12:44am PT — SCANNER DEFECTS FOUND BY THE ROUTING LINE ITSELF (the tool auditing the tool)
+
+The `->` route line was added so hits land in the right note. **Its first real payoff was showing me where the
+router sends them to the WRONG note.** Both defects, from run 2 of `acute_scanner_cell.py`:
+
+- **RECALL GAP — the POWER thread never fired on a power story.** *"Ofgem Proposes Commitment Fees for UK Data
+  Centre Grid Access"* came in on the **GN-grid** feed, tagged **CAPEX**, and routed to `ai-capex-cycle`. **It
+  belongs to [[buildout-bottleneck-map]] / [[power-not-petroleum]].** Cause: *ofgem*, *grid access*, *connection
+  queue*, *commitment fee*, *interconnection*, *curtail* are not in the POWER keyword list, so *data centre*
+  fired CAPEX instead. **A dedicated feed found the story and the gate misfiled it** — worse than missing it,
+  because a misrouted hit looks handled.
+- **RECALL GAP #2 — *chip shortage* is not a MEMORY keyword.** *"Samsung forecast deepens chip shortage, KOSPI
+  surges toward 6000"* arrived on **GN-memory** and tagged **KOREA only**, routing to `market-fragility` when its
+  primary destination is [[memory-regime-question]].
+- **PRECISION PROBLEM, confined to T2/T3 and to CAPEX.** *"Tesla Delivered 480,126 Vehicles…"*, *"Overlooked AI
+  stock is growing faster than Nvidia"*, *"Nvidia is Winning AI Capex Wars So I Continue Loading Up" (AOL)*,
+  *"Best AI Memory Stocks to Buy in 2026" (Mitrade)* — retail-SEO content clearing a keyword gate. **T1 precision
+  was good; the noise is entirely in the broad tiers**, which is the tier design working as intended and worth
+  saying so rather than only logging the failures.
+- **CNBC IS FIXED.** All three CNBC feeds returned zero items and 682-byte error pages on run 1; the URL change
+  to the `/id/{}/device/rss/rss.html` endpoint worked — **CNBC-fin delivered the Gundlach item and CNBC-top the
+  maritime-chokepoint piece.** Confirmed by output, not by assumption.
+- **(the meta-point, and it is the reason the route line earns its place)** **A tag says what a headline is
+  ABOUT. A route says what it is EVIDENCE FOR.** The two defects above were invisible while the scanner printed
+  only tags, because *Ofgem → CAPEX* is not obviously wrong until you see it addressed to the wrong note.

@@ -2427,3 +2427,48 @@ shortage, and the tape isn't saying that despite the numbers literally saying it
   keep writing switches around the mechanism I am currently thinking about instead of around the ASSET CLASS.**
   Corrected switch, deliberately over-broad: **any kinetic event touching Hormuz transit — vessels, terminals,
   islands, insurers, or the parties collecting or escorting — trips the review.**
+
+## 2026-07-30 ~12:44am PT — ⛔ "ADMINISTERED, NOT CLOSED" WAS OVER-WEIGHTED: the IRGC uses the word REOPEN, flow is at historic lows, and BRENT IS MOVING
+
+**I registered this as CONFIRMED yesterday:** *"the strait is administered, not closed, and Iran is charging
+for access… an administered strait EARNS MORE THAN A CLOSED ONE, so the closure branch of the vault's
+discriminator becomes LESS likely."* **Tonight's flow and rhetoric data cut against it.**
+
+**DATA (T2 Hormuz sweep, all inside 3 hours):**
+- **IRGC: "Strait of Hormuz CANNOT REOPEN while US 'threats' continue"** (Anadolu). **The word is REOPEN.**
+- **"Shipping through the Strait of Hormuz remains at a HISTORICALLY LOW level"** (UNN).
+- **"Iran's Guards say TWO TANKERS TURNED BACK in Hormuz after one caught fire"** (Times of Israel).
+- **Qatar's LNG cargo was the FIRST IN THREE WEEKS** — i.e. three weeks of none.
+- **US military says it hit DOZENS of IRGC targets** (Reuters). **Trump: "will hit Iran hard after attack, was
+  briefed on Egypt tanker"** (Reuters). **Jerusalem Post: Damietta "reportedly Iranian drone attack."**
+
+- *(⛔ THE CONCESSION, stated exactly)* **A metered gate collecting a toll and a corridor that "cannot reopen"
+  pending US military concessions are not the same object.** The toll evidence was real and remains real — the
+  sanctions on transit-fee firms, Lloyd's List's *"price of passage,"* the US calling it an **extortion scheme.**
+  **What I got wrong was the INFERENCE I built on top: that entrenchment of the toll made closure LESS likely.**
+  IRGC is now conditioning reopening on US behaviour, which makes the strait **a hostage, not a toll booth** —
+  and a hostage's price is not a fee schedule. **Closure and taxation are not alternatives on a spectrum; Iran
+  is running both, and the escalation to "dozens of IRGC targets" removes the negotiated equilibrium my read
+  assumed.**
+- *(⛔ AND FLAT PRICE IS MOVING, which my framework said it would not)* I wrote: *"a tax shows up in freight,
+  war-risk insurance and CRACKS — NEVER in flat price."* **Brent 92.78, +2.25% on the session and +$1.34 in
+  PRICE since the prior scan (91.44). WTI 85.79 +1.57%.** **That is flat price.** Conceded.
+- *(★★ THE REFINEMENT THAT SURVIVES — and I am flagging that it must not be used to escape the concession)*
+  **Brent–WTI is ~$7.00, wide against a normal $3–5.** The waterborne barrel is bid against the landlocked one.
+  **So the chokepoint IS still expressing itself relationally rather than in a global flat-price shock — I
+  named the wrong vehicle (cracks/freight) rather than the wrong mechanism.** ⚠️ **I do not have the prior
+  scan's WTI, so I cannot state whether the SPREAD widened — only its level. Do not claim a widening.**
+  **The concession stands on its own terms: "never in flat price" was falsified, and a partial rescue of the
+  mechanism does not undo it.**
+- *(★★★ THE CAPITAL EVIDENCE KEEPS BUILDING ON THE PERMANENCE SIDE — third actor in two days)* **Oman seeks to
+  expand oil storage OUTSIDE Hormuz.** With **QatarEnergy buying 33 US cargoes** and the **US–Saudi $5B refinery
+  sited outside the strait**, that is **three separate actors committing multi-decade capital on the assumption
+  that Hormuz risk is structural.** **This is the one part of the thesis tonight's data strengthens rather than
+  weakens** — and note it is now the LITTORAL STATES themselves, not just buyers, building the bypass.
+- *(★ the counter-toll and the coalition, sized)* **1,000 US-escorted transits since May**, **Saudi + Italy
+  calling for maritime security**, **Saudi seeking a "coalition of the willing"** for the Red Sea. **The
+  protection is being nationalised on both corridors while Iran prices access on one.** [[war-board]],
+  [[oil-value-chain]], [[new-economy-regime]].
+- *(the inventory link, and it dates the SPR clock harder)* **"US oil inventories SINK as Hormuz traffic
+  remains subdued."** The absorber is still absorbing. **Every week of subdued transit spends the clock this
+  note dated at ~11.4 weeks to 250M.**
