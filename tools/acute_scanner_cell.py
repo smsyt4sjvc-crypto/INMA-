@@ -161,6 +161,11 @@ WATCH = [
       q='SK hynix Q2 miss MAGNITUDE, and Micron CEO sale size + 10b5-1 status. A CEO sale without '
         'size, plan status and prior cadence is not evidence.',
       pat=r'(hynix|10b5|insider sale|mehrotra|micron.*(sold|sale))'),
+ dict(id='F11',pri=1, note='market-fragility',       since='07-30',
+      q='Cap-weighted SPX month-to-date, and whether EW S&P holds its all-time high. EW SPX at a '
+        'record while NDX falls means money is ROTATING, not leaving — the containment case. '
+        'EW SPX losing that high is the trigger that kills it.',
+      pat=r'(equal.?weight|equal.?weighted|breadth|rotation|rotat\w+ out|average stock|rsp\b|advance.decline)'),
  dict(id='F10',pri=3, note='ai-capex-cycle',         since='07-30',
       q='Zhongji InnoLight break SIZE and terms, and whether other AI-supply-chain deals are pulled. '
         'One broken debut is a datum; a second is a primary-market regime.',
