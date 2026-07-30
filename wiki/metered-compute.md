@@ -1457,3 +1457,46 @@ are useless." He is right, and it reframes the document more than anything else 
   Llama strategy depends on open weights being legitimate**, and blocking Chinese open models would invite
   scrutiny of open weights generally. **His argument for openness is an argument for his own distribution.**
   Same discount applied to Huang. **Motives do not change the coalition arithmetic, which is what matters.**
+
+## 2026-07-30 ~11:05am ET — ★★★ OPENAI CUTS GPT-5.6 PRICES 80% ON THE CHEAP TIER, 20% MID, ZERO ON FLAGSHIP — the STRUCTURE is the finding, not the direction
+
+**DATA (Axios/Ina Fried, today):** **GPT-5.6 Luna −80% → $0.20/M input, $1.20/M output. Terra −20% → $2/M in,
+$12/M out. Sol (flagship) NO CUT.** **Three weeks after launch.** OpenAI attributes it to serving efficiency;
+Axios adds: *"cheaper Chinese open-weight models have increased pressure on OpenAI and Anthropic to prove
+their models justify their higher costs."* Same-day: **DeepSeek pauses fundraising after leaked founder
+remarks.**
+
+- *(★★★ THE SHAPE IS PRICE DISCRIMINATION WIDENING, NOT DEFLATION)* **Output pricing: the Terra/Luna ratio
+  goes from roughly 2× to 10×.** **The commodity tier is being COMMODITISED while the frontier tier HOLDS
+  PRICE.** **"AI prices are falling" is the wrong summary. The correct one is that the market is being SPLIT:
+  a race-to-zero floor and a protected ceiling.** That is a vendor defending frontier margin by conceding the
+  bottom — which is what you do when the bottom is under attack and the top is not.
+- *(★★★ AND 80% IN THREE WEEKS IS NOT AN EFFICIENCY GAIN — it is a REPRICING)* **You do not price a model,
+  then discover an 80% serving improvement 21 days later.** **Either the launch price carried ~80% margin —
+  in which case "compute is scarce and expensive" was substantially PRICING POWER, not physics — or they are
+  now selling near/below cost to hold share.** **Both readings are consequential and they are not
+  reconcilable with the efficiency framing.**
+- *(⚠️ JAKE'S TIMING READ — plausible, but the mechanism is weaker than for a listed company)* **OpenAI is
+  PRIVATE: no earnings date, no disclosure duty, no share price to protect.** The classic bury-bad-news logic
+  needs a stock. **What OpenAI CAN manage is NARRATIVE — and dropping an 80% cut on the single day the market
+  was actively repricing AI capex economics (MSFT +12% for spending less, META −8.3% for spending more) is
+  either poor timing or deliberate counter-programming.** **Registered as plausible and unfalsifiable; the
+  substance does not depend on it.**
+
+### ★★★ IT CUTS BOTH WAYS ACROSS THIS VAULT AND THE TENSION IS THE POINT
+- **BUYER SIDE — this is [[compression-thesis]]'s input-deflation heal, arriving at scale.** Anyone building
+  ON the API just had their unit cost cut 80% at the fast tier. **That is the mechanism by which the AI-capex
+  corner resolves without a bust.**
+- **⛔ SELLER SIDE — it is a forward risk to exactly what the market rewarded yesterday.** **MSFT got +12%
+  because Azure revenue ACCELERATED on LOWER capex.** **If inference prices are collapsing, revenue per
+  GPU-hour falls and that acceleration gets harder to sustain.** **The razor's winner is the party most
+  exposed to token-price deflation.** [[ai-capex-cycle]].
+- *(★★★ BUT THE JEVONS CASE IS STRONG AND THE ARTICLE SUPPLIES THE MECHANISM)* *"Newer reasoning models
+  consume far more tokens during longer-running agentic tasks."* **Agentic demand is highly PRICE-ELASTIC —
+  cost is the binding constraint on how many tokens an agent is allowed to burn.** **Cutting the FAST model
+  80% while holding the frontier is precisely a VOLUME LAND-GRAB aimed at unlocking agentic workloads.**
+  **That is this note's structural-demand thesis being acted on by the seller.**
+- **⭑ THE TEST, and it is the only thing that settles it: does REVENUE PER MODEL rise or fall after the cut?**
+  **−80% needs >5× volume to break even; −20% needs >1.25×.** **If OpenAI discloses nothing, the proxy is
+  whether Anthropic and Google match on the cheap tier within weeks — a fast match means competitive
+  repricing; no match means OpenAI genuinely found efficiency and is spending it on share.**
