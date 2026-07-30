@@ -2984,3 +2984,50 @@ date** — which is more tractable and more tradeable than a countdown. **Regist
 that IS a manufacturing input, unlike transport fuel. **Watch Chinese petrochemical output, plastics/resin
 exports, and naphtha/LPG imports.** **If China is being hurt anywhere, it shows up there before it shows up in
 GDP.** [[consumption-vs-investment-crux]].
+
+## 2026-07-30 ~2:40am PT — ★★★ THE TOLL IS AN INSTITUTION, VERIFIED — and Jake's "fabricated by China" instinct is VINDICATED in a precise form: the 40% is CUSTOMS data
+
+### DATA (verified — Treasury press release sb0507, Bloomberg, Washington Times, gCaptain, marineinsight, Fortune)
+- **The PERSIAN GULF STRAIT AUTHORITY IS REAL**: an Iranian body **set up to manage passage requests and charge
+  transit fees**, added to the OFAC SDN list in **May 2026**. Treasury: it works **with the IRGC to extort
+  commercial vessels**, forcing them onto **Iranian-designated routes near Iran's coast** while charging fees.
+- **JULY 29 (yesterday): Treasury sanctioned Iran's PERSIAN GULF MARINE INSURANCE CO. and the HORMUZ SAFE
+  MARINE SERVICES AUTHORITY** for coercive *"insurance"* schemes.
+- **Fortune (May 30): the US says DEALS WITH IRAN FOR SAFE HORMUZ TRANSIT ARE PROHIBITED.**
+
+- *(★★★ THE TOLL THESIS WAS RIGHT AND IT IS BUREAUCRATIC)* This vault inferred a toll from freight, insurance
+  and the phrase *"the price of passage."* **The reality is a built-out administrative apparatus: a strait
+  authority, a marine insurance company, and a safe-passage services authority.** **Iran has institutionalised
+  the monetisation of Hormuz, and the US has made PAYING it illegal.** **Both the toll and the counter-toll are
+  now formal.** That is a structurally different world from a militia charging what it can get.
+- *(⚠️ the digest's headline claim is WRONG, and the scanner beat it)* It asserts *"the newest US sanctions were
+  issued July 10."* **Treasury acted JULY 29** — and **tonight's acute scanner already carried it** (*"US
+  targets Iran's Hormuz 'extortion scheme' and eight shadow tankers,"* Splash247, 1.9h). **The live feed
+  out-performed the offloaded digest on recency.** ⚠️ Also unverified from the digest: the **"~$2M/vessel"**
+  fee figure. **Do not use that number.**
+
+### ★★★ JAKE'S "PARTIALLY FABRICATED BY CHINA" — I dismissed the framing; the mechanism is real and specific
+**The sanctions timeline he supplied shows a sustained campaign aimed at the CHINA–IRAN CHANNEL specifically:**
+**Apr 28 — OFAC alert on the sanctions risk of dealing with "TEAPOT" refineries. May 1 — two rounds tightening
+Iran–China oil trade. Feb — an EO authorising up to 25% tariffs on countries trading with Iran** (⚠️ that last
+sourced to Wikipedia in the digest — **verify before use**).
+
+- *(★★★ SO THE 40% IMPORT DECLINE MAY PARTLY MEASURE CONCEALMENT, NOT CONSUMPTION)* **The Axios chart's source
+  is China's GENERAL ADMINISTRATION OF CUSTOMS — reported data.** **Chinese customs has long shown near-zero
+  Iranian crude while tanker-trackers observe ~1–1.5 mb/d reaching Shandong relabelled as Malaysian or Emirati
+  origin.** **Escalating sanctions on teapots raise the incentive to hide, so REPORTED imports can fall faster
+  than LANDED barrels.** **Jake said "partially fabricated by China." Not fabricated demand destruction —
+  potentially UNDER-REPORTED IMPORTS. That is a precise, sourced version of his instinct and I gave the framing
+  too little credit.**
+- *(★★ IT CUTS BOTH WAYS AND THAT IS WHY IT MATTERS)* **If landed barrels fell less than 40%, China withdrew
+  less demand than believed — the absorber shrinks, the paradox partly REOPENS, and there is less pent-up bid
+  to return (bearish for the spike case).** **If landed barrels really did fall ~40%, the absorber stands.**
+  **THE TEST IS DIRECT: Kpler/Vortexa tanker-tracked China arrivals vs customs-reported imports. The gap is the
+  answer.** Note Kpler's own economist is quoted in the Axios piece — **so ask specifically whether the 40% is
+  customs or tracked; those are different numbers and the article conflates them.**
+- *(★★★ AND MY CHINA-RETURNS CHAIN WAS ALREADY RUNNING, THREE MONTHS BEFORE I HYPOTHESISED IT)* I argued an
+  hour ago that tightening sanctions would close China's discount channel and force its bid back to the
+  seaborne market. **That campaign began 28 April. China's import decline began in March.** **So the decline
+  may be partly SUPPLY COERCION rather than voluntary price-sensitivity — which changes the reversal function
+  completely: coerced restraint does not come back on a lower price, it comes back on sanctions relief.**
+  **Registered under F13, which now has two sub-questions: (a) customs vs tracked, (b) voluntary vs coerced.**
