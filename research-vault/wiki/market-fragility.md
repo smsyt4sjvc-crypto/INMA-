@@ -1893,3 +1893,40 @@ new debt issuance.
   precisely this vault's Korea cascade thread. **Get the chart.** And **"CDS Spillover Event To Stock Market
   Is Starting"** — headline only, no content supplied; relevant to the registered widen-trigger but
   unusable as given.
+
+## 2026-07-30 ~10:50am ET — ★★★ GS PRIME: RECORD TECH SELLING — but the FOURTH LINE INVERTS THE HEADLINE, and the dates make it STALE
+
+**DATA (Goldman Sachs Prime, chart via Jake):** *"Prime Book: Global Info Tech as % of Gross MV — 3-Day LONG
+Trading Flow."* **The July 24 + 27 + 28 bar sits at roughly −2.7%, marginally deeper than a single early-2021
+spike (~−2.65%) and the deepest since the series began in 2016.** Also: **largest 3-day reduction in TOTAL
+equity exposure since November 2022**; single stocks the 5th-largest 3-day sale in five years; North America
+then Europe.
+
+- *(★★★ THE FOURTH LINE INVERTS THE HEADLINE AND ALMOST NOBODY WILL READ IT)* **"The unwind was primarily
+  driven by SHORT COVERING in macro products, such as index futures and ETFs."** **SHORT COVERING IS BUYING.**
+  **So the composition is: LONG TECH SOLD (the chart is explicitly a LONG flow) + MACRO SHORTS COVERED.**
+  **That is de-grossing BOTH SIDES simultaneously — the signature of RISK REDUCTION, not of a directional
+  bearish view.** **And covering index shorts is a BUY-side flow that SUPPORTS the index** — which is
+  mechanically part of how the equal-weight S&P printed an all-time high while tech was destroyed.
+  **"Hedge funds are aggressively moving to the sidelines" is the correct summary. "Hedge funds are bearish"
+  is not, and the two get conflated constantly.**
+- *(★★★ THE DATES MAKE IT A LAGGING DESCRIPTION — July 24, 27, 28)* **This flow PRECEDES the Fed (Wed 29th),
+  the MSFT/META prints (Wed night), and the SA→Citadel transfer (today).** **It is 2–6 sessions stale, and the
+  largest identified seller has since moved its remaining ~$16bn book BILATERALLY, off-tape.** **The selling
+  in this chart is behind the market, not ahead of it.** ⚠️ **That does not mean it is over — it means this
+  particular dataset cannot tell you.**
+- *(★★ AND THE BASE RATE CUTS HARD AGAINST THE BEARISH READ)* **"Largest 3-day reduction since NOVEMBER 2022."**
+  **The S&P bottomed in October 2022. November 2022 de-grossing sat at the START of a major bull run, not
+  before a decline.** **And the one comparable spike on the chart is early 2021 — the meme-squeeze forced
+  covering — also not a top.** **Both reference points for "most extreme de-gross" preceded rallies.** ⚠️
+  **n=2. And per the standing WARNING-vs-TRIGGER rule this is a STATE: it shades odds and times nothing.**
+- *(★★★ IT CORROBORATES THIS MORNING'S EQUAL-WEIGHT FINDING FROM A COMPLETELY INDEPENDENT DATASET)* I measured
+  **cap NDX −10.14% MTD vs EW NDX −5.33% — damage concentrated in the MEGA-CAPS, not the crowded tail**, and
+  said my tail hypothesis was refuted. **A record prime-book LONG TECH liquidation is exactly what produces
+  mega-cap-concentrated damage, because hedge-fund tech longs sit in the largest names.** **Two unrelated
+  datasets, same conclusion. That is the strongest form of confirmation available here.**
+- *(⚠️ AN ORDER-OF-MAGNITUDE INFERENCE, flagged as such)* **GS prime-book gross MV is plausibly $1–2tn. A
+  ~$16bn public-equity liquidation over these same days would be ~1% of gross MV against a −2.7% print.**
+  **So Situational Awareness alone could be a THIRD TO A HALF of this record bar.** ⚠️ **I do not have GS's
+  gross MV and this is arithmetic on an assumption — but if roughly right, the "record" is substantially ONE
+  FUND, and that fund has now exited.** **Which is testable: the next 3-day print should normalise sharply.**
