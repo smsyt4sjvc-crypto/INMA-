@@ -616,3 +616,34 @@ in [[demand-destruction]]. The honest accounting, itemised:
   failure mode.
 - **(what the tool must do, concretely)** Add a **BLACK SEA / CPC** thread to `acute_scanner_cell.py` with its
   own feed, and stop relying on *tanker* inside a Hormuz-scoped query to surface a Novorossiysk story.
+
+## 2026-07-30 ~12:19am PT — ⛔ THE OVER-CORRECTION IS NOW A MEASURED PATTERN: THREE IN ONE DAY, ON THREE UNRELATED SUBJECTS
+
+Logged separately, they looked like three independent slips. Together they are one defect:
+
+1. **FED DISSENTS** — over-weighted ("the entire information content"), then **zeroed the datum** on learning
+   Warsh engineered it. Reuters: most since 1970. *Intent revises meaning, not magnitude.*
+2. **MEMORY EQUITY EVIDENCE** — closed the channel entirely (*"memory equity prices carry no idiosyncratic
+   cycle information"*), then had to reopen it twice inside six hours: hynix fell on **its own earnings miss**,
+   and the EW-index data showed part of the move is **rotation**, which is a relative judgment and therefore
+   information.
+3. **HORMUZ** — filed *"administered, not closed"* as CONFIRMED, conceded it wholesale on IRGC's *"cannot
+   reopen"*, then hit **"Iran LETS first Qatari LNG tanker exit."** Both the claim and the concession were too
+   absolute. The accurate object is a **discretionary permission regime**.
+
+- **(THE SHAPE OF THE DEFECT)** In all three I moved from **one absolute to the opposite absolute** when
+  contradicting evidence arrived, instead of moving to a **narrower, more accurate description.** **A correction
+  is supposed to reduce error, not relocate it.** Each of my three corrections was itself falsified within
+  hours — which means the corrections were as over-confident as the original claims.
+- **(WHY IT HAPPENS, and this is the useful part)** Jake catches my errors, and I have been correcting hard and
+  fast to demonstrate that the error-check is working. **Speed of concession is a virtue in [[_persona]]; SIZE
+  of concession is not, and I have been treating them as the same thing.** Conceding fast means admitting the
+  error immediately. **It does not mean abandoning the strongest available version of the claim.**
+- **(THE FIX, stated as a procedure rather than an intention)** When contradicting evidence arrives, **write the
+  narrowest description that fits BOTH the original evidence and the new evidence, before writing any
+  retraction.** If no such description exists, then and only then retract. **All three cases above had one
+  available and I skipped past it to the opposite pole:** *engineered AND a record*; *cohort beta uninformative
+  BUT own-print informative*; *closed by default AND opened selectively*.
+- **(the scoreboard consequence)** The vault's registered calibration defect has been **magnitude compression** —
+  80% bands covering 17%. **This is the same defect in a different medium: my revisions are as over-sized as my
+  ranges are under-sized.** Both are failures to represent uncertainty. **Not two problems. One.**

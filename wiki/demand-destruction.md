@@ -2553,3 +2553,49 @@ independent of what is in the news**, because the failure mode is reacting to wh
 me: **Ras Tanura · Basrah · Kharg · Fujairah/Das · CPC-Novorossiysk · Primorsk/Ust-Luga · Ceyhan (BTC + Iraq-Turkey)
 · Yanbu · Bonny/Forcados · Es Sider/Zueitina · Ras Laffan · Sabine/Corpus/Freeport/Cameron · Damietta/Idku ·
 LOOP/Houston.** **Any loading suspension, force majeure, or vessel casualty at any of these trips the review.**
+
+## 2026-07-30 ~12:19am PT — ★★★ TWO MORE TANKERS HIT AT CPC AND BRENT WENT DOWN — plus the resolution mechanism appears: RUBIO IS DISCUSSING CPC WITH KAZAKHSTAN AHEAD OF A PRESIDENTIAL VISIT
+
+**DATA, this scan (34 minutes after the prior one):**
+- **"TWO MORE oil tankers reportedly targeted by drones near CPC terminal in Novorossiysk"** (Apa.az, Report.az,
+  trend.az) — **the 7/30 event is TWO vessels, not the one in the flash.**
+- **"Rubio and Kosherbayev Discuss CPC Ahead of Tokayev's U.S. Visit"** (Times of Central Asia); **"Kazakhstan
+  and U.S. discuss cooperation, situation around CPC"** (Kursiv Media).
+- **PRICES ACROSS RUNS (the vault's own rule): Brent 92.20 vs 92.78 → −$0.58. WTI 84.83 vs 85.79 → −$0.96.
+  Gold 4,101.70 vs 4,087.90 → +$13.80.**
+
+- *(★★★ THE TAPE OBSERVATION IS THE FINDING: crude FELL on the session two more tankers were hit at a 1.8 mb/d
+  terminal)* **The market is not pricing the Black Sea at all.** Two readings: **(a)** eleven days in, the
+  outage is fully discounted; **(b)** the market expects the diplomatic channel to resolve it. **Either way, the
+  absorption question returns in its HARDER form** — and it is now measured rather than inferred, because I have
+  the same-window price comparison instead of a narrative.
+- *(★★★ THE DIPLOMATIC CHANNEL IS THE DATED, FALSIFIABLE TRIGGER — better than "monitor the loading program")*
+  **The US Secretary of State is discussing CPC with Kazakhstan's foreign minister ahead of a Tokayev state
+  visit.** The structure is unusual and it is the leverage point: **Kazakhstan, a non-belligerent, is asking the
+  United States to restrain strikes being carried out by a US partner against Russian-sited infrastructure
+  carrying Kazakh oil.** **TRIGGER: Tokayev's US visit. If CPC attacks stop after it, that is the resolution
+  mechanism and the outage is episodic. If they continue through a state visit, no diplomatic path exists and
+  the outage is structural.** Registered — this replaces "watch the August loading program" as the primary watch.
+- *(⛔ AND I OVER-CORRECTED ON HORMUZ — for the THIRD time today on a different subject)* Two hours ago I
+  conceded *"administered, not closed"* was over-weighted, on IRGC's *"cannot reopen"* plus historically low
+  flow. **This scan: "Iran LETS first Qatari LNG tanker exit Hormuz."** **That is administration — discretionary
+  permission, granted selectively.** **Both my original claim and my concession were too absolute.** Corrected
+  and registered: **Iran runs a DISCRETIONARY PERMISSION REGIME — closed by default, opened case by case.**
+  Not a toll booth with a posted price anyone can pay; not a closure. **A gate with a gatekeeper.** That
+  description fits every datum on both sides and neither of my previous two did.
+- *(★★ THE PRICE PROOF THAT THE CORRIDOR IS THE VARIABLE — and it is in GAS, a vehicle I had not named)*
+  **"European gas prices FALL as Iran lets first Qatari LNG tanker exit Hormuz."** European TTF was carrying a
+  Hormuz premium and it came out on a single transit. **The disruption prices in freight, insurance, cracks —
+  and now in EUROPEAN GAS.** Add it to the expression list. [[oil-value-chain]].
+- *(★★ THE ATTRIBUTION QUESTION I GOT WRONG NOW CLOSES FROM IRAN'S OWN SIDE)* **"Iran claims Egypt tanker strike
+  proves it can disrupt global energy routes"**; **jpost: "drones launched FROM IRAN."** **Iran is claiming the
+  capability publicly.** My Damietta accident-lean was wrong, the NYT confirmed the strike, and the actor is now
+  advertising it. **The error is fully closed and the lesson stands: absence of a claim is not evidence of
+  absence of an attack — especially when the claim arrives four days late.**
+- *(★ A CHANNEL I HAVE NOT BEEN WATCHING: FERTILIZER)* StoneX — **"Fertilizer's hidden chokepoints stretch from
+  Hormuz to Nord Stream."** Qatar, Saudi, Iran and Oman are major ammonia/urea exporters. **A Hormuz constraint
+  is a FOOD-input inflation channel, not only an energy one** — and it lands on the same Fed that named energy
+  as the supply shock to look through. **New sub-thread; no position taken until sized.** [[new-economy-regime]].
+- *(⚠️ minor measurement note, logged because it bit me before)* **Samsung printed 206,500 in the 06:39 scan and
+  207,000 in the 07:13 scan, both labelled the same session.** Even a "closed" foreign price settles after the
+  bell. **Do not treat the first post-close print as final.**

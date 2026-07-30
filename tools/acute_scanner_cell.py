@@ -16,11 +16,18 @@ try:
 except Exception:
     subprocess.run([sys.executable,'-m','pip','install','-q','yfinance']); import yfinance as yf
 
-HOURS  = 10                       # <-- the window. change to 6 / 24 as needed
+HOURS  = 10                       # <-- the DISPLAY window for the hit tiers
+# The FLAG window is deliberately WIDER than the display window. An open question does not
+# age out because the news cycle did: on run 3 the two PRI-1 flags (F1 MSFT leases, F2 the
+# Goldman/Blue Owl deals) showed "no candidate" purely because their evidence had scrolled
+# past 10h. The highest-priority questions were the ones the window hid. Feeds using
+# Google's when:1d cap out around 24h regardless; this takes whatever the others still hold.
+FLAG_HOURS = 30
 PER_TIER_CAP = 40                 # safety cap so a bad feed can't wall you
 UA = {'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'}
 NOW = datetime.now(timezone.utc)
 CUT = NOW - timedelta(hours=HOURS)
+FCUT= NOW - timedelta(hours=FLAG_HOURS)
 
 # ---------------------------------------------------------------- PRICES
 INDEX = [('^GSPC','S&P 500'), ('^NDX','Nasdaq 100'), ('^RUT','Russell 2000'),
@@ -135,8 +142,11 @@ WATCH = [
       pat=r'(goldman|blue owl|data cent\w* (debt|loan|financ)|private credit|syndicat|spv)'),
  dict(id='F3', pri=1, note='memory-regime-question', since='07-28',
       q='The CXMT fork: glut vs politically walled out. Is the Senate action a LETTER or a BILL? '
-        'A letter is noise; an enforcement mechanism is the wall. Apple commitment is the resolver.',
-      pat=r'(cxmt|chinese memory|apple.*(memory|chip)|senator|export control|entity list)'),
+        'A letter is noise; an enforcement mechanism is the wall. Second, COMMERCIAL evidence on '
+        'the same fork: buyers signing multi-year supply deals are pre-committing AGAINST Chinese '
+        'supply filling the gap — money at stake rather than votes.',
+      pat=r'(cxmt|chinese memory|apple.*(memory|chip)|senator|export control|entity list|'
+            r'long.?term supply|supply (deal|agreement)|multi.?year (supply|contract))'),
  dict(id='F4', pri=1, note='demand-destruction',     since='07-30',
       q='CPC/Kazakh loading status AFTER the 7/30 re-attack. Force majeure? August loading program? '
         'THE VAULT MISSED THIS THEATRE FOR ELEVEN DAYS — treat every CPC item as priority until caught up.',
@@ -160,7 +170,7 @@ WATCH = [
  dict(id='F9', pri=3, note='memory-regime-question', since='07-30',
       q='SK hynix Q2 miss MAGNITUDE, and Micron CEO sale size + 10b5-1 status. A CEO sale without '
         'size, plan status and prior cadence is not evidence.',
-      pat=r'(hynix|10b5|insider sale|mehrotra|micron.*(sold|sale))'),
+      pat=r'(hynix.{0,40}(miss|consensus|target|guidance|shortfall)|10b5|mehrotra|(insider|ceo).{0,20}(sold|sale|selling))'),
  dict(id='F11',pri=1, note='market-fragility',       since='07-30',
       q='Cap-weighted SPX month-to-date, and whether EW S&P holds its all-time high. EW SPX at a '
         'record while NDX falls means money is ROTATING, not leaving — the containment case. '
@@ -169,7 +179,7 @@ WATCH = [
  dict(id='F10',pri=3, note='ai-capex-cycle',         since='07-30',
       q='Zhongji InnoLight break SIZE and terms, and whether other AI-supply-chain deals are pulled. '
         'One broken debut is a datum; a second is a primary-market regime.',
-      pat=r'(innolight|ipo|debut|listing|pulled|postpon|withdraw)'),
+      pat=r'(innolight|zhongji|(ipo|debut|listing|offering).{0,40}(tumbl|slump|break|below|flop|pull|postpon|withdraw|price[ds] at))'),
 ]
 WPATS = [(w, re.compile(w['pat'], re.I)) for w in WATCH]
 
@@ -286,14 +296,16 @@ for tier_idx, (tier_name, feeds) in enumerate(TIERS):
         items, err = parse(name, url)
         if err: problems.append(err); continue
         for dt, title, desc, link, src in items:
-            if dt < CUT: continue
+            if dt < FCUT: continue       # widest window anything is considered in
             k = re.sub(r'[^a-z0-9]','', title.lower())[:60]
             if k in seen: continue
             th = tags(title+' '+desc)
             if not th: continue          # <-- the gate: direct keyword hit or it does not print
             seen.add(k)
             fl = flags(title+' '+desc)   # <-- the SECOND gate: does it close an open flag?
-            hits.append((dt, name, th, title, link, fl))
+            if dt >= CUT: hits.append((dt, name, th, title, link, fl))
+            # A flagged item enters the QUEUE on the WIDE window even when it is too old to
+            # print in the tiers above -- the question is what is open, not what is fresh.
             if fl: QUEUE.append((dt, name, th, title, link, fl,
                                  brand(title, src), tier_idx))
     print(f'\n{"="*74}\n{tier_name}\n{"="*74}')
@@ -328,7 +340,7 @@ if problems:
 # they outrank paraphrase), then by tier, then by recency.
 # ═══════════════════════════════════════════════════════════════════════════════
 print('\n'+'='*74)
-print('  PRIORITY FOLLOW-UP QUEUE — fetch these, in this order')
+print(f'  PRIORITY FOLLOW-UP QUEUE — fetch these, in this order  (flag window {FLAG_HOURS}h)')
 print('='*74)
 if not QUEUE:
     print('\n  Nothing in this window touches an open flag. That is a RESULT, not a gap:')
