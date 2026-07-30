@@ -2004,3 +2004,57 @@ assessment from a rated source rather than social-media rhetoric.**
 either disclosed anything.** **Free, real-time, and it does not require knowing which funds.** Secondary:
 **block trades printing at discounts in MU / SNDK / hynix ADRs** — the actual mechanism of a forced unwind,
 visible on the tape.
+
+## 2026-07-30 ~9:20am ET — ★★★ F8 FIRES: THE NAMED CASUALTY IS SITUATIONAL AWARENESS LP — verified, and it is STRESSED, not LIQUIDATING. The distinction is the entire question.
+
+**VERIFIED (Bloomberg citing FT, published TODAY 2026-07-30; corroborated Investing.com/Yahoo/Startup Fortune):**
+- **Situational Awareness LP** (Leopold Aschenbrenner, ex-OpenAI, launched after his April-2024 dismissal),
+  **~$20bn AUM, grown from $225m in under two years — 89×.**
+- **+439% after fees in 2026 through end-June. Max drawdown 38.31% on 2026-07-28.**
+- **Seeking fresh capital after the July AI selloff. Approached existing investors AND LENDERS.**
+- **Some investors offered the option to BUY ASSETS IN ITS PORTFOLIO.** Aschenbrenner framing the selloff as
+  the best opportunity since early 2025, inviting commitments from **August 1**.
+- **Q1-2026 13F: ~$13.68bn notional, of which ~$8.46bn (62%) is PUTS.** Long book named in reporting:
+  **CoreWeave, Nebius, Bloom Energy, crypto miners, power.**
+
+- *(⛔ F8 FIRES AND I LOSE MY STRONGEST CONTAINMENT PILLAR — conceded without qualification)* For four sessions
+  I wrote that **"the absence of a named casualty is doing more work in the containment case with every
+  session it persists."** **It appeared today, and its long book is EXACTLY the cohort this vault has been
+  watching fall 9.9–13.9% a session: CoreWeave, Nebius, Bloom.** **The absence argument is dead and I am not
+  reaching for a replacement.**
+- *(★★★ BUT "SEEKING CAPITAL" IS NOT "LIQUIDATING," AND THAT IS THE WHOLE QUESTION)* **Archegos DEFAULTED ON
+  MARGIN CALLS and dealers seized and dumped collateral within days.** **SA is running a CAPITAL RAISE,
+  negotiating with lenders, and offering investors the chance to buy positions bilaterally.** **A fund being
+  liquidated by its prime brokers does not get to run a capital raise.** **The bilateral asset-sale offer is
+  the tell in the OTHER direction: moving positions off-tape is the ANTI-fire-sale mechanism.** **Registered:
+  stressed, not seized — and the dealers have not pulled the plug.**
+- *(★★ THE +439% IS THE NUMBER EVERYONE WILL MISREAD)* **5.39× through June, −38.31% drawdown → still ~3.33×,
+  about +233% on the year.** **This is not redemption panic on bad performance; it is a drawdown from an
+  extraordinary peak.** **⚠️ But that profile is PRECISELY what manufactures forced selling: 89× AUM growth
+  means most capital entered near the highs and is underwater immediately, and leverage and margin were sized
+  against the PEAK, not the average.** **And approaching LENDERS rather than only investors is the leverage
+  tell — you go to lenders for financing, not for equity.**
+- *(★★★ THE 13F DETAIL SUPPORTS JAKE'S TRS INFERENCE, and I should say so)* **$13.68bn of 13F notional against
+  $20bn of AUM.** **A 13F captures only US-listed long equity and long options — it does NOT capture total
+  return swaps.** **A $20bn AGI-thesis fund reporting less notional than its own AUM is either barely levered
+  or holds exposure off the 13F, and TRS is the standard vehicle.** **That is the strongest available support
+  for the swap framing, and it comes from the filing's SILENCE rather than its content** — exactly the point
+  made here on 13F limits days ago.
+- *(⚠️ AND THE $8.46bn OF PUTS CUTS THE OTHER WAY — 62% of reported notional)* **13F shows LONG put positions;
+  short options are not reported.** **So as of March 31 this fund was substantially HEDGED, which would
+  explain both the 439% (levered longs) and why the drawdown is 38% rather than catastrophic.** **A hedged
+  book does not margin-call like Archegos.** ⚠️ **Q1 data is four months stale and the book may be
+  unrecognisable now — but it is the only position data that exists and it argues AGAINST the cascade.**
+- *(★★★ THE CROSS-THREAD POINT: this is the OPTIONALITY RAZOR at the ALLOCATOR level)* MSFT was rewarded for
+  reversibility; META punished for commitment. **SA is the same trade one layer up — a concentrated,
+  irreversible, peak-sized bet on the AI buildout.** **The fund that most purely expressed this vault's own
+  [[ai-infra-allocation-map]] and [[power-scarcity-equities]] theses is the one that broke first.** **The
+  razor applies to capital allocators, not just to capex.**
+- *(⚠️ JAKE'S "AT LEAST 5 HEDGE FUNDS" REMAINS UNSOURCED)* **The news confirms ONE fund in difficulty.** The
+  five-fund claim, the TRS notional, and the dealer identities are still his assertion. **The PRECONDITION for
+  circularity is real — every AI-thesis fund owns CoreWeave, Nebius and Bloom, which is the crowding — but the
+  TRIGGER (forced liquidation) is not established.**
+- *(★★ AND THE CONTAINMENT FACT IS NOW MORE STRIKING, NOT LESS)* **A $20bn fund is down 38% and seeking
+  rescue capital, and the EQUAL-WEIGHT S&P is at an all-time high.** **That is the same shape as Archegos: a
+  circular, concentrated unwind that the broad index absorbed.** **The registered kill switch is unchanged and
+  it is still the thing that decides this: RSP below 212.77 while NDX falls.**
