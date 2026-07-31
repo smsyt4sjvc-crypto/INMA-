@@ -2015,3 +2015,39 @@ Jake's live-price tool vs the acute scanner (11:04 ET), same session, same names
   tenor. And the 2Y is the Fed-call kill switch. **Same patch as the scanner needs.**
 - *(the book, descriptive)* **SPY 744.51 vs the 745 strike — $0.49 ITM, effectively AT-THE-MONEY, delta ≈ −0.50.**
   SPX/SPY = 10.032 vs 10.028 yesterday, so the quote is internally consistent. Breakeven ~726.8 (−2.38%).
+
+### 2026-07-31 ~10:10am PDT — ⛔ CORRECTION TO THE ENTRY ABOVE: Jake named the convention, and I OVER-CORRECTED
+Jake: **"Ones prior close ones live."** **Correct, and it reconciles everything.** The scanner measures from
+the **PRIOR CLOSE**; the live tool measures from the **7/31 OPEN**. **Neither tool is broken — they answer
+different questions**, and the live-implied "bases" I reconstructed ARE the opens.
+
+| | 7/30 cls | 7/31 opn | gap | 12:48 ET | from OPEN | from CLOSE |
+|---|---|---|---|---|---|---|
+| **MU** | 874.66 | 902.87 | **+3.2%** | 832.36 | **−7.81%** | **−4.84%** |
+| SOXX | 504.53 | 519.22 | +2.9% | 508.58 | −2.05% | +0.80% |
+| AAPL | 333.43 | 312.32 | −6.3% | 300.55 | −3.77% | **−9.86%** |
+| AMZN | 235.50 | 257.96 | +9.5% | 270.70 | +4.94% | **+14.95%** |
+| MSFT | 451.10 | 448.46 | −0.6% | 463.57 | +3.37% | +2.76% |
+| GOOGL | 333.66 | 335.67 | +0.6% | 353.33 | +5.26% | +5.90% |
+
+- **⛔ MY "IT IS AN ARTIFACT, THE TAPE IS MILD" WAS WRONG.** I evidenced it with the 11:04→12:48 window — but
+  **that window is the TAIL of the move, not the move. MU had done 66% of its decline before 11:04; AAPL 93%;
+  AMZN 99%; GOOGL 98%.** **I sampled the quiet stretch and declared the day quiet.** The invalid-comparison
+  point stands; **the conclusion I drew from it does not.** *Textbook over-correction — absolute → opposite
+  absolute — the exact pattern already logged five times in [[_calibration]].*
+- **★★★ THE ROTATION IS REAL, AND IT IS THE CAPEX-INTENSITY AXIS FIRING HARD.**
+  **GAPPED UP AND EXTENDED (capital-light, self-funding):** GOOGL **+5.26% from the open**, AMZN **+4.94%**,
+  MSFT **+3.37%**.
+  **GAPPED UP AND GOT SOLD (capital-intensive builders):** SOXX **−2.05% from the open** after gapping +2.9%;
+  **MU −7.81% from the open** after gapping +3.2% — **a ~8% round trip off the gap high**, and it opened UP on
+  the *"AI Frenzy Returns... Micron... rally up to 7%"* headlines before reversing all of it.
+  **Plus the entire neocloud cohort −3.9% to −8.7%.**
+- **★★★ AND IT HAPPENED ON THE MORNING KASHKARI NAMED DATA CENTRES AS AN INFLATION SOURCE**
+  ([[ai-capex-cycle]] 7/31). **The loop filed two hours ago — capex named inflationary → rate pressure →
+  capex-intensive names hit hardest — printed on the tape the same session.** ⚠️ **Coincidence in timing is
+  not causation, and one session is not evidence. Registered as a DATED observation to grade forward, not as
+  a mechanism confirmed.**
+- **★ THE THREE-WINDOW FRAME IS THE REUSABLE PART.** *close→now* is the net; *open→now* is the intraday
+  verdict; *last-run→now* is the tail. **MU is +3.2% / −4.8% / −1.7% depending on which you pick — all true.**
+  ⇒ **Do not ask "how is it doing"; ask "since when."** *(Same shape as the AVWAP STATE-vs-TRANSITION result:
+  one condition, two populations, opposite answers.)*
