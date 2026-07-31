@@ -13,8 +13,43 @@ survives in git (the repo is the persistence layer — the container is ephemera
 - `trading-system/` — the SEPARATE Alpaca-Claude project (its own `CLAUDE.md`/laws), staged here to transplant.
 - `CLAUDE.md` — this file. How the vault runs.
 
+## ⛔ STEP ZERO — THE ROUTER (standing, set 2026-07-31 — Jake's spec, after 3 breaches in one day)
+
+**BEFORE analysing ANY inbound paste — wire, chart, position screen, article, question — RUN THIS FIRST:**
+
+```
+python3 tools/vault_router.py <<'EOF'
+<the pasted text>
+EOF
+```
+
+**It costs one local call and no network.** It reads `wiki/` and returns, per matched thread:
+**⛔ corrections already made** (the re-derivations that waste the session) · **★★★ standing conclusions**
+(do not re-argue) · **🚩 open flags** (test the new data against the question it might ANSWER) ·
+**📅 recent dated entries** — every line with `FILE:LINE`. **The brief is an INDEX, not a substitute:
+if a line touches the paste, OPEN THE ENTRY.**
+
+**WHY THIS IS A STEP AND NOT A RULE.** On 7/30 I filed a rule in `_calibration`: *"before arguing any position
+on a dated event this vault has logged, OPEN THE ENTRY."* **I broke it three times the next day** — searched
+the web instead of the vault on the Anthropic blacklist (four relevant entries existed); missed that **Hammack
+made the data-centre-inflation argument a MONTH before Kashkari** and called the later one a discovery; and
+answered the cement question **from a chart instead of the cell I had built 20 minutes earlier.**
+**A rule that only fires when remembered is an INTENTION. A command in the workflow is a CONTROL.**
+
+- **The thread→keyword map is PARSED FROM `tools/acute_scanner_cell.py`** so this vault has exactly ONE
+  keyword map and it cannot drift. Adding a thread = edit the scanner; the router inherits it.
+- **NO MATCH is information, not permission.** It means either genuinely new territory (open a note) or a gap
+  in the keyword map (fix the scanner). **It never means the vault is silent.**
+- **`(n)*` = single-keyword match = weak.** Kept for recall; verify it is not a homonym.
+- **For a large multi-thread dump**, one sub-agent per thread to read its note in full is the sanctioned
+  escalation (Jake, 7/31: *"even if each thread needs its own agent"*). The router is the cheap default;
+  agents are for when the brief is not enough.
+- **THE PRINCIPLE:** *the web knows what HAPPENED. Only the vault knows what Jake and I already CONCLUDED
+  about it — including which calls were graded and which were wrong.* **Retrieval is not the cost. Re-deriving
+  is the cost.**
+
 ## Session flow (the compounding loop)
-Start: read this file → `index.md` (the map) → the relevant spine notes. Work. End: file new knowledge into
+Start: read this file → **run STEP ZERO on the inbound** → `index.md` (the map) → the relevant spine notes. Work. End: file new knowledge into
 `wiki/` (firewall-split), update any note touched, extend `index.md` if notes were added, commit + push. Every
 session leaves the vault smarter for the next. (This is the Karpathy/Obsidian second-brain pattern — which the
 vault already implements; we add the DATA/THESIS firewall + the predictions calibration loop on top.)
