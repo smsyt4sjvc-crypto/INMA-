@@ -1857,3 +1857,51 @@ which he said has added a **NEW DEMAND ELEMENT to the inflation outlook**."*
   RECORD inside the Fed, not that it is decisive.** 🚩 **NEW FLAG F16: does data-centre/electricity demand
   appear in the SEP commentary, the Beige Book, or a Warsh speech? Committee adoption is the test; one
   president's statement is the leading indicator.**
+
+### 2026-07-31 ~11:35am PDT — JAKE'S LOCAL-DEMAND LEG — and ⛔ the vault had a Fed VOTER on this A MONTH before Kashkari
+Jake: *"my assessment is also the LOCAL demand. Small towns that suddenly have high-paying, union construction
+jobs. Utilities taking in more revenue. Counties taking in property taxes… not even mentioning materials."*
+
+- **⛔ MY 7/31 "KASHKARI NAMED DATA CENTRES" ENTRY WAS LATE, AND [[buildout-bottleneck-map]] SAYS SO.**
+  Logged **2026-07-10**: ***"a Fed VOTER cites the switchgear order book as her hike case"*** — **Hammack
+  (Cleveland, 2026 voter), CNBC 6/30**, citing a district switchgear-for-data-centers manufacturer,
+  **"attested by a Fed president using it to justify HIKES."** ⇒ **Kashkari was the second Fed official to do
+  this, not the first, and Hammack was MORE specific (an order book, not a general reference).** And the vault
+  tracked the propagation explicitly: ***"vault (May-June) → sell-side → Fed testimony (Hammack's switchgear)
+  → retail newsletter."*** **This vault registered the bottleneck, then watched a Fed president cite it as a
+  hiking justification.**
+- **WHAT IS ALREADY HERE vs WHAT JAKE ADDS.** Already covered: **materials** (transformers **128-144 wk**, GSUs
+  **4-5 YEARS**, switchgear **sold out through 2028**), **ratepayer cost-shift** as the cost-side mode,
+  **behind-the-meter**, **tax-exemption removal** as a live policy lever, and the **electric bill as the
+  red/blue universal grievance.** **NEW from Jake: the CONSTRUCTION-LABOUR INCOME channel** — high-wage union
+  build jobs landing in small towns — **which the vault does not have.**
+- **★★★ AND THE STRONGEST FORM OF HIS ARGUMENT IS ONE HE DID NOT STATE: GEOGRAPHIC CONCENTRATION INTO
+  INELASTIC LOCAL SUPPLY.** The same dollars are **far more inflationary** dropped into a rural county with a
+  fixed housing stock, a fixed labour pool and fixed services than spread across a metro. **That is the
+  mechanism behind Hammack's own district evidence — "pricing pressures BROADENING rather than fading" and
+  consumers "expressing DESPAIR."** *Concentration, not size, is what makes it print.*
+- **★★★★ AND THE BEST VERSION OF THE WHOLE ARGUMENT — IT ANSWERS LOGAN'S DISSENT DIRECTLY.** Logan:
+  ***"Labor, consumption and financial market conditions indicate that monetary policy is NOT RESTRAINING the
+  economy."*** ⇒ **A ~$600bn/yr capex programme funded from CORPORATE CASH FLOW and PRIVATE CREDIT — not bank
+  lending at the policy rate — is DEMAND THE FUNDS RATE DOES NOT TOUCH.** **That is a mechanical reason policy
+  is less restrictive than the rate level implies, and it argues for a HIGHER rate to restrain everything
+  else.** ⇒ **Jake's local-demand point is not a colour story; it is the transmission-failure argument, and it
+  is the strongest form of the hike case in this vault.** *(≈2% of GDP by rough scale — large for one
+  investment category, ~1/3 of residential construction at its 2005 peak. ⚠️ ratio approximate, not measured.)*
+
+### ⚠️ THE THREE PLACES HIS VERSION IS WEAKER THAN HE PUT IT
+1. **"Counties taking in property taxes" — mostly they are NOT.** **Abatements are how counties WIN these
+   projects**; 10-20 year exemptions are standard, which is precisely why the vault lists **"tax-exemption
+   REMOVAL"** as an active policy lever. **The fiscal leg is the weakest of his four.**
+2. **The labour shock is a PULSE, not a level.** Thousands of construction workers on site; **~50-150 permanent
+   operating staff.** Each site booms for 2-3 years and then busts. ⚠️ **His save: the aggregate PIPELINE is
+   continuous** (AMZN alone $220B/yr), **so the flow is sustained even though every individual site pulses.**
+3. **"Utilities taking in more revenue" is only household-inflationary in the GRID-CONNECTED case.**
+   **Behind-the-meter load brings its own generation and does NOT raise ratepayer costs.** The vault already
+   splits these; the split decides the sign.
+- **★★ AND THE MEASUREMENT DISCIPLINE, WHICH DECIDES WHETHER THE FED CAN ACT ON ANY OF IT.** *"It stimulated
+  demand"* and *"it prints in core PCE"* are different claims. **Construction WAGES are not in CPI.** Local
+  services inflation in boom counties carries **negligible national weight.** ⇒ **The channels that actually
+  reach the target measure are ELECTRICITY (direct CPI line) and MATERIALS (PPI → CPI, slowly).** **Everything
+  else is real economics that may never show up in the index Warsh targets** — which is exactly why the
+  dissenters reach for *"policy is not restraining"* instead of pointing at a CPI component.
