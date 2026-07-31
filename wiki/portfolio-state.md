@@ -724,3 +724,41 @@ AAPL 16%→9-11% decel = **sold**.
 (AWS/Azure/Cloud growth RATE), checkable QUARTERLY.** **That converts "until capex slows" into a dated,
 falsifiable exit condition for a basket that currently has none.** 🚩 **Same problem on nuclear: what does
 "shaken out" look like, in a form that can print?**
+
+### 2026-07-31 ~1:25pm PDT — THE INDEX COMPLEX MARKED: SPY basis 736.96, QQQM basis 283.58
+| leg | basis | now | cost | value | P&L |
+|---|---|---|---|---|---|
+| 3 SPY | 736.96 | 747.51 | 2,210.88 | 2,242.53 | **+31.65** |
+| 3 QQQM | 283.58 | 283.82 | 850.74 | 851.46 | **+0.72** |
+| 1 SPY 745 put Dec-18 | 33.37 | 24.10 | 3,336.67 | 2,410.00 | **−926.67** |
+| **NET** | | | **6,398.29** | **5,503.99** | **−894.30** |
+
+- **The longs made +$32. The put lost −$927. The hedge has cost 29× what the longs earned.**
+- **⚠️ QQQM IS FLAT — +$0.24/share, +$0.72 total.** Bought on a July drawdown after a **200-day recapture**;
+  ~3 weeks later it has gone nowhere. *The rule fired; the trade has not yet paid. Not a criticism of the
+  rule — a note that the entry signal and the outcome are separate things, and one datum grades neither.*
+- **★ THE ONE GENUINELY WELL-PLACED THING IN THE STRUCTURE: THE STRIKE SITS ABOVE THE STOCK BASIS.**
+  **745 vs 736.96** ⇒ the put goes ITM **8.04 points BEFORE** the SPY shares go underwater. **There is an
+  8-point band where both legs are profitable at expiry.** Whether by design or accident, it is correct.
+
+### PAYOFF AT DEC-18 EXPIRY (QQQM at beta 1.20 to SPY — ⚠️ assumption, not measured)
+| SPY | move | 3 SPY | 3 QQQM | put | **TOTAL** |
+|---|---|---|---|---|---|
+| 800 | +7.0% | +189 | +72 | −3,337 | **−3,075** |
+| 760 | +1.7% | +69 | +18 | −3,337 | **−3,250** |
+| **747.51** | today | +32 | +1 | −3,337 | **−3,304** |
+| 736.96 | −1.4% | 0 | −14 | −2,533 | **−2,546** |
+| **711.63** | **−4.8%** | −76 | −48 | 0 | **−124** ← breakeven |
+| 700 | −6.4% | −111 | −64 | +1,163 | **+988** |
+| 650 | −13.0% | −261 | −133 | +6,163 | **+5,770** |
+
+- **★★★ THE SHAPE IS THE FINDING: THE MAXIMUM-LOSS ZONE IS THE MODAL OUTCOME.** **Above the strike the total
+  is a FLAT ~−$3,100 to −$3,300 across the ENTIRE upside** — from 745 to 800 the loss barely changes, because
+  three shares of each cannot offset a full premium write-off. **And the loss band runs from ~712 all the way
+  up**, which is most of the plausible December distribution. ⇒ **The structure pays only in the left tail,
+  loses a near-constant amount everywhere else, and three shares of SPY plus three of QQQM cannot bend that
+  curve in either direction.** *This is what "the put IS the book" looks like as a payoff diagram.*
+- **⚠️ ONE BASIS MISMATCH, NAMED — immaterial at this size.** **The LONG is NDX (QQQM); the HEDGE is SPX (SPY
+  put).** [[dip-buying-base-rates]] STUDY 3: *"rate/tech-driven selloffs hit NDX HARDER (−36%, −23% vs SPX
+  −25%, −19%)."* ⇒ **in a tech-led drawdown the long falls more than the hedge is paid for.** **$851 of QQQM
+  against ~$31k of put notional makes it rounding today — it would matter if the equity sleeve ever scaled.**
