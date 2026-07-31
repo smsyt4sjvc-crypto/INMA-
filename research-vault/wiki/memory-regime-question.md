@@ -313,3 +313,60 @@ Source: acute scanner 7/31 15:04 UTC.
   also carries **"Korea's Kospi Logs RECORD DAILY GAIN"** (WSJ, 7/31) **next to hynix −5.64% (7/30)** —
   reading those as simultaneous would invent a divergence that may not exist. **The `as of` column is doing
   real work; it must be read.**
+
+## 2026-07-31 ~8:40am PT — ★★★ PRICING ≠ AVAILABILITY: the detail that INVERTS the bull read (Jake's ChatGPT verification pass)
+Source: Jake paste, a ChatGPT "Market Verification Summary." **Its two citations are REDDIT links carrying
+`utm_source=chatgpt.com`.** ⚠️ **Graded below — but it surfaced one detail worth more than the rest of it.**
+
+### ★★★ THE DETAIL, AND IT IS THE BEST THING IN THE DOCUMENT
+- **"Cook complained about PRICING — not AVAILABILITY."** ⇒ **memory is OBTAINABLE at a price. That is a
+  PRICING market, not a RATIONING market**, and the two have opposite implications for a downstream buyer's
+  volumes.
+- **"Apple would WELCOME ADDITIONAL DRAM SUPPLIERS because the market remains highly concentrated."**
+- "Apple expects memory costs to increase AGAIN next quarter"; "existing inventory partially cushions costs,
+  but that benefit FADES."
+
+### ★★★ FOLLOW IT THROUGH AND IT REVERSES THE SUMMARY'S OWN CONCLUSION
+The summary reads Cook as **"bullish for memory pricing and suppliers"** — **while quoting the sentence in
+which the largest hardware buyer on earth says it wants the oligopoly broken.**
+- **Cook wants more suppliers. CXMT just raised $9.8bn and popped 466%. Those are the SAME EVENT from two
+  sides: the buyer signalling it will pay to break the concentration, and the capital markets funding the
+  breaker.** ⇒ **On the 2028 clock this is BEARISH for memory pricing, not bullish.** The near-term tightness
+  and the medium-term supply response are not in tension — **the near-term tightness is what FINANCES the
+  supply response.**
+- **⛔ AND IT CORRECTS MY OWN READ FROM 25 MINUTES AGO.** I wrote: *"Cook is the DEMAND side saying the
+  shortage is structural and durable."* **Too strong. He said PRICES are rising, not that he cannot get
+  parts.** *"Structural shortage confirmed by the buyer"* overstates what a complaint about cost establishes.
+  **Jake's source supplied the distinction that fixed it.**
+- *(minor, noted lightly)* **A 100-year flood RECEDES.** Cook's chosen metaphor is a transient extreme, even
+  as he says it will not recede "anytime soon." The frame concedes more than the quote does.
+
+### ⚠️ SOURCE GRADING — 7 of 7 items marked "✓ CONFIRMED," which is itself the finding
+1. **The Cook claim says "Source: Apple earnings call transcript quoted widely by financial media" and then
+   cites `reddit.com/r/SKHynix` — a thread titled "even Apple remains bullish for us."** **That is not the
+   transcript; it is a holders' subreddit for the stock that benefits from the claim** — the most
+   conflicted venue available. **The underlying claim is probably true; the citation does not establish it.**
+2. **The CXMT citation is `r/EverHint` — "Stock Market News JULY 27, 2026 morning update."** **The debut is
+   dated 7/31 in the scanner window. A 7/27 post cannot confirm a 7/31 IPO.** **Date mismatch invalidates it.**
+3. **It says "rapid inclusion in major CHINESE equity indexes." The scanner says MSCI.** **MSCI is a GLOBAL
+   provider and forces GLOBAL passive money; Chinese index inclusion forces only domestic.** **The summary
+   softened the more consequential fact.**
+4. **NEBIUS is listed as a "primary AI infrastructure beneficiary" with no mention of its drawdown.**
+   **Nebius IS 🚩F8** — the neocloud under watch for a named casualty after five sessions of double-digit
+   losses. **The Zacks list-aggregation junk flagged in the 7/31 scanner read, laundered into a "confirmed"
+   beneficiary list.**
+5. **It never checks the tape.** It concludes "bullish for memory pricing and suppliers" **on a session where
+   MU −3.23%, SNDK −1.74%, SK hynix −5.64%.** The same scanner window carried *"Memory Stocks Are Crashing"*
+   **and** *"memory chip stocks are rallying"* — **a direct contradiction the summary resolved silently, in
+   the bullish direction, without noting that it existed.**
+6. **★ THE STAR RATINGS ARE UNFALSIFIABLE AND VIOLATE RULE 7.** *"AI: ★★★★★ Extremely Bullish"* — no horizon,
+   no price, no falsifier, and **the scale is undefined** (5 stars for AI = bullish; 2 stars for Fed = bearish?
+   risky?). **They also do not reconcile with the text beneath them:** the CXMT section concludes
+   *"competitive headwind for global commodity DRAM"* and is then rated ★★★☆☆.
+7. **★★ A VERIFICATION PASS THAT CONFIRMS 7 OF 7 HAS NOT VERIFIED ANYTHING.** Nothing was downgraded,
+   contradicted, dated-out or found stale. **That is the signature of narrative AGREEMENT, not verification**
+   — and the tell is that the two items it bothered to cite are the two that are weakest.
+   ([[_assumption-filters]], narrative-tiers.)
+- **⚠️ Energy section flattens the tier change:** "continued monitoring of Strait of Hormuz shipping" is not a
+  description of **tankers under US naval escort being struck with Trump convening cabinet on war**
+  ([[war/war-board]] 7/31). **No escalation-tier awareness.**
