@@ -82,6 +82,37 @@ amended and where to go. Read tonight's, see what it retired. **That is the "bra
 - **THE PRINCIPLE:** *appending is learning. Amending is understanding. A vault that only appends gets bigger,
   not smarter — and it will hand you its own retired conclusions with a straight face.*
 
+## 📅 CHRONOLOGY — GIT IS ALREADY THE TIMESTAMP (standing, set 2026-07-31 — Jake's Q)
+
+**Jake: "is there a way, without checking each time, to put a time and date filter on every inclusion…
+so they're chronological instead of just a pile?"** **THERE ALREADY WAS, and I was not using it.**
+**Git has stamped every line of this vault since day one.**
+
+```
+git blame --date=format:'%Y-%m-%d %H:%M' -L 21,23 -- wiki/war/war-board.md
+  05dc57ac (2026-07-24 01:33) - (a) Export-terminal strike — … Brent $120-147
+  3438cb4f (2026-07-31 22:27)     ⟲ SUPERSEDED → war-board.md:L748 — the band is ABQAIQ-only
+```
+**That IS "back in March we thought X, but instead Y" — verified, per-line, free, already in the repo.**
+
+**`python3 tools/vault_timeline.py`** surfaces it: every dated entry across `wiki/`, **sorted by GIT commit
+time (the authority) rather than by the header (what I typed)**, with mismatches classified.
+`--days N` · `--file F` · `--check` (mismatches only).
+
+- **THE HEADER IS WHAT I TYPED. THE COMMIT IS WHAT HAPPENED.** When they disagree, the header is wrong —
+  **except for legitimate backfills, where a note about an EARLIER event correctly carries an older date.**
+  **The dangerous direction is a header AHEAD of its own commit: that is a clock error.**
+- **★ RESULT OF THE FIRST FULL RUN (862 dated entries): ZERO clock errors.** **The timestamp rule has been
+  working.** 89 backfills, all legitimate — the two largest (**+144d**, **+43d**) are historical notes about
+  past events, which is what a backfill should look like.
+- **⚠️ AND A CALIBRATION FIX THE FIRST RUN FORCED: it flagged 216 entries as "BACKFILL +1d." They were not.**
+  **A header stamped "~10:35pm PT" commits at ~05:35 UTC the NEXT calendar day — PT is UTC-7/8, so every
+  evening-PT entry lands one UTC day later BY DESIGN.** **A check that cries wolf 216 times trains you to
+  ignore it, which is worse than no check.** Now normalised; **237 flags → 89 real ones.**
+- **⛔ NO GIT HOOK, AND THE DATA IS THE REASON.** A pre-commit validator would be machinery for a failure that
+  **is not occurring** (0 errors in 862 entries). **Build the check, read the result, and let the result
+  decide whether the machinery is warranted.** It was not. *(Revisit if `--check` ever shows a FUTURE flag.)*
+
 ## Session flow (the compounding loop)
 Start: read this file → **run STEP ZERO on the inbound** → `index.md` (the map) → the relevant spine notes. Work. End: file new knowledge into
 `wiki/` (firewall-split), update any note touched, extend `index.md` if notes were added, commit + push. Every
