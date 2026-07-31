@@ -69,3 +69,37 @@ hard to fight momentum." A process/edge principle, worth stamping.
   marry the doom. Momentum is never your friend — it's a force you position AHEAD of, then step out of the way of.
 - Ties [[defense-not-offense]] (respect the tape), [[detachment-bid]] (the standing bull momentum), [[_assumption-filters]]
   (narrative-tiers: early = edge, mainstream = spent), [[market-fragility]] (states persist until a trigger; then act).
+
+## 2026-07-30 ~5:10pm PT — ANCHORED VWAP: "the ultimate sentiment-driven statistic"? (Jake's question, worked)
+Tool built: `tools/anchored_vwap_test_cell.py`. **Verdict registered BEFORE the test runs, so it is gradeable.**
+
+- **THE OBJECT IS REAL; THE STORY IS THE CLAIM.** AVWAP = Σ(typical price × volume) / Σ(volume) from an anchor
+  date. **It is a deterministic function of price and volume — there is no sentiment input.** Sentiment is
+  put/call, AAII, positioning, flows. **"Ultimate" is a superlative, not a claim, and an unfalsifiable
+  superlative is the tell** ([[_assumption-filters]], narrative-tiers).
+- **★★★ THE INTERPRETATION FAILS ON SPY SPECIFICALLY, AND THAT IS THE STRONGEST OBJECTION.** The claim
+  "AVWAP = average cost basis of everyone who transacted" requires **volume ≈ position-taking.** In SPY it is
+  not: (1) volume is dominated by **intraday churn that ends flat**, which enters the denominator while
+  representing zero holding; (2) **creation/redemption happens at NAV, off-tape** — shares outstanding change
+  daily without printing; (3) **ES futures dwarf it**, and (4) **option delta-hedging transacts without a
+  view.** **The part of AVWAP that makes it a SENTIMENT statistic is exactly the part SPY's market structure
+  destroys.** It is more defensible on a small illiquid single name, which is not what was asked.
+- **★★ THE ANCHOR IS A FREE PARAMETER CHOSEN AFTER SEEING THE CHART.** Hundreds of plausible anchors ⇒ **one
+  is always near price**, and the failures are never published. **Same class as the sorting artifact caught
+  this session** (descending sort guarantees "all top 28 changes positive"). ⇒ the cell uses **mechanical
+  anchors only**: every ATH, every 52-week low, every quarter start, every −5% drawdown trough.
+- **★★ AND IT DECAYS INTO A HORIZONTAL LINE.** As the anchor recedes Σvolume grows, so each new session moves
+  the AVWAP less. **A long-anchored AVWAP is a nearly-static level dressed as a dynamic one** — the cell
+  prints AVWAP next to a matched-window SMA so the convergence is visible rather than asserted.
+- **★★★ THE DECISIVE TEST — SHUFFLED VOLUME.** Recompute AVWAP with the volume series randomly permuted, 200×.
+  **If the edge survives random volume, volume was never doing any work and AVWAP is a price average with a
+  narrative bolted on.** Same design as the shuffled control in `red_day_clustering_cell.py`. Plus control
+  **[A]**: a plain SMA over the *identical* window — isolates the volume weighting alone.
+- **📌 REGISTERED PREDICTION (grade when Jake runs it):** **AVWAP will NOT beat the matched-window SMA by a
+  meaningful margin, and the shuffled-volume percentile will land BELOW ~80%** — i.e. **volume is noise here
+  and the "cost basis" story does not survive.** *Confidence 70%.* **If the shuffle percentile comes back
+  ≥95% on multiple anchors and horizons, I am wrong and AVWAP carries information a price average does not.**
+- *(what AVWAP IS legitimately good for — stated so this is not a dismissal)* It is a **real execution
+  benchmark** (institutions are measured against VWAP), and **"the average price paid since date X" is a
+  FACT** — a descriptive framing device. **Fact ≠ forecast.** [[seeing-vs-predicting]]: it tells you WHERE,
+  which is free; it does not tell you which way, which is what the claim asserts.
