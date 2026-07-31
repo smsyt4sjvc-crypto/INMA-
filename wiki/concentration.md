@@ -111,3 +111,46 @@ YTD%s live (yfinance); weights approximate (mine, ~3mo stale, AVGO overstated po
   index-provider treatment do the rest. **Vault convention going forward: "top-10 ≈ 37-43% depending
   on share-class treatment — roughly 1.5-2.5x the 30-year average either way."** The analytical
   content (single-engine concentration at/near records) is identical at any number in the range.
+
+## 2026-07-31 ~1:55pm PDT — WHY HEDGE SPY AND NOT NDX: right answer, wrong reason
+Jake: *"that's why spy is hedged instead of ndx. Because the hyperscalers move it more. Ndx concentration can
+have nbis Amat gain 40% and wipes out nvidia falling 3% because there's only 100/500 companies."*
+
+### ✓ HIS ARITHMETIC IS RIGHT ON THE PAIR — and it is the non-obvious part
+| index | NVDA wt | AMAT wt | ratio | AMAT +40% | NVDA −3% | net |
+|---|---|---|---|---|---|---|
+| **NDX** | ~9.0% | ~0.80% | 11:1 | +0.32pp | −0.27pp | **+0.05pp — offset WORKS** |
+| **SPX** | **7.0%** | ~0.25% | 28:1 | +0.10pp | −0.21pp | **−0.11pp — offset FAILS** |
+⚠️ **SPX NVDA 7.0% is vault-verified (Slickcharts ~2026-03-30). Every other weight is approximate and NOT
+verified this session — directions hold, digits do not.**
+**A mid-cap semi CAN offset NVDA inside NDX and CANNOT inside SPX. He is right about that.**
+
+### ⛔ BUT THE MECHANISM IS NOT "100 vs 500 COMPANIES"
+**Both indexes are CAP-WEIGHTED. Constituent COUNT is irrelevant — only the WEIGHT RATIO matters.**
+**If NDX held 1,000 names at the same top weights, the offset math would be identical.**
+**The actual reason: NDX excludes financials, healthcare, energy and staples, so every tech name gets a
+bigger slice of a smaller pond.** *AMAT is a bigger fish, not a fish in a smaller school.*
+
+### ⛔ AND THE HEADLINE PREMISE IS INVERTED
+*"the hyperscalers move it more"* — **they move NDX MORE, not SPX.** **SPX top-10 = 36-43%
+(verified 7/12, above). NDX is materially higher** — 100 tech-tilted names, cap-weighted, so the megacaps own
+more of it. ⚠️ **No NDX figure cited: the search returned a broken constituent list (DXCM at 10.97%), so the
+direction is certain and the number is not established.**
+**[[dip-buying-base-rates]] STUDY 3 already measured the consequence: *"rate/tech-driven selloffs hit NDX
+HARDER — −36%, −23% vs SPX −25%, −19%."*** ⇒ **if the thesis is "the AI trade breaks," QQQ is the
+HIGHER-BETA hedge, not SPY.**
+
+### ★★★ AND YET SPY IS PROBABLY STILL CORRECT — FOR THREE REASONS HE DID NOT GIVE
+1. **★ HE IS LONG QQQM.** A QQQ put would directly neutralise the index long he says he wants to hold
+   forever. **Hedging SPY leaves the NDX long INTACT.** **That is the strongest argument for SPY and it is
+   structural, not a preference.**
+2. **The vault's actual feared break is RATES/CREDIT, not tech-specific** — bear steepening, private-credit
+   stress, the Warsh reaction function. **Financials and cyclicals are IN SPX and are where credit lands.**
+   SPX is the right instrument for the break this vault actually forecasts.
+3. SPY options are the deepest listed book in existence.
+
+- **★★ WHY "RIGHT ANSWER, WRONG REASON" IS WORTH FIXING: the reason tells you WHEN TO CHANGE THE POSITION.**
+  **If the break turns out to be TECH-SPECIFIC rather than macro, SPY under-hedges exactly when it is needed
+  most** — the NDX-falls-harder asymmetry runs against him precisely in the scenario his capex basket is
+  most exposed to. **Held on the correct reason, the SPY choice has a named failure mode. Held on the
+  inverted one, it does not — which is the whole cost of a wrong reason.**
