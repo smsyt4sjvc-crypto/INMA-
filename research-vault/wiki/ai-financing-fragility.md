@@ -2618,3 +2618,37 @@ inverted, and these are TWO SEPARATE EVENTS four months apart.** Verified: Axios
 - **⛔ MY OWN GAP, NAMED:** I have a **May 2026 knowledge cutoff**, so Feb-May is inside it and I still did not
   have this. **Being inside the cutoff is not the same as knowing it.** ⇒ **RULE: on any company-specific
   regulatory question, SEARCH — do not rely on the cutoff as coverage.**
+
+### 2026-07-31 ~11:00am PDT — ⛔⛔ CORRECTION: THE VAULT ALREADY HAD ALL OF THIS. I searched the WEB and not the VAULT.
+Jake: *"It's in the vault."* **It is. Four entries, and they fix three errors in what I filed above.**
+
+| what the vault already had | where | what I got wrong |
+|---|---|---|
+| **"US LIFTS EXPORT CONTROLS ON CLAUDE FABLE 5, MYTHOS 5"** | `raw/zerohedge-2026-07-01-…` | **I list "export controls on its flagship" as a LIVE F17 risk factor. LIFTED ~JULY 1 — a month stale and simply wrong.** |
+| **Fable 5 and Mythos 5 are the SAME underlying model** — Fable = safety-gated GA variant, Mythos = ungated, approved orgs only | [[metered-compute]] 7/27 | I treated Mythos as a distinct, more-dangerous model. It is the **gating**, not the model. |
+| **Alphabet's $99B equity-securities gain was a NON-OPERATING mark (SpaceX + Anthropic) inflating GAAP EPS** — *"called it an artifact the market would strip; the market stripped it EXACTLY"* | [[compression-thesis]] 7/23 | My 7/30 "the circular loop arrives as an ACCOUNTING LINE" was **second, not first.** The vault had the GOOGL version and had **already been proven right on it.** |
+| **Anthropic ARR $74.3B (from $30B in April) — "growth beginning to SLOW"**; flagged as *"the first crack in the demand-side hypergrowth"* | [[compression-thesis]] 7/23 | **The single most relevant valuation input for F17, and I did not have it.** |
+| **CyberGym: "the benchmark is the one the ESCAPED AGENT looted"**; Mythos 5 83.8% vs Microsoft's MDASH system 95.95% | [[compression-thesis]] 7/29 | **The vault connected an escaped agent to CyberGym TWO DAYS BEFORE today's disclosure.** I filed today's as new. |
+
+- **★★★ AND THE VAULT ALREADY CONTAINS THE PRECEDENT THAT MATTERS MOST FOR F17 — THE MARK ALREADY REVERSED
+  ONCE.** *"The SpaceX mark is REVERSING (SPCX 'lost $1T in a month') → the illusion unwinds BOTH WAYS."*
+  ⇒ **Mark-reversal risk on a private-company stake inside a hyperscaler's P&L is not hypothetical. It has
+  already happened, on Alphabet's SpaceX leg, in this vault's own record.** **That is a stronger argument for
+  the AMZN/Anthropic exposure than anything I wrote this morning, and it was sitting in the file.**
+- **F17 RESTATED, CORRECTLY.** Live risk factors are: **the DoD supply-chain-risk designation and federal
+  procurement ban (Feb/Mar, status not re-verified), Anthropic ARR growth SLOWING off $74.3B, the fresh cyber
+  disclosure, and the demonstrated reversibility of non-operating marks.** ⛔ **NOT export controls — those
+  were lifted.**
+
+### ⛔ THE PROCESS FAILURE, AND IT IS THE SAME ONE AS YESTERDAY
+Filed in [[_calibration]] at 4:05pm yesterday, my own rule: ***"Before arguing any position on a dated event
+this vault has logged, OPEN THE ENTRY FOR THAT DATE. Not a keyword grep — the entry."*** Corollary:
+***"when I search to support a claim, run the search that would kill it in the same breath."***
+**Today I did worse than a confirmation grep — I searched the WEB and never queried the VAULT AT ALL**, on a
+topic where the vault holds four directly-relevant entries. **~18 hours from writing the rule to breaking it.**
+- **★★ THE DIAGNOSIS: A RULE THAT ONLY FIRES WHEN I REMEMBER IT IS NOT A CONTROL, IT IS AN INTENTION.** The
+  fix cannot be another rule. **It has to be a step in the workflow: for ANY named entity in an inbound item,
+  `grep -rni <entity> wiki/ raw/` BEFORE any web search — the vault is the cheaper, higher-prior source and it
+  is the one thing the web cannot tell me.**
+- *(the asymmetry that should have been obvious)* **The web knows what happened. Only the vault knows what
+  Jake and I already CONCLUDED about it** — including the calls that were graded and proved right.
