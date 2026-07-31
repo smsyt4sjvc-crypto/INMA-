@@ -687,3 +687,45 @@ Source: WSJ (Ward / Gordon / Wegmann), updated 7/31 5:14pm ET.
 - **WHAT TO WATCH, unchanged and now sharper:** **Saudi eastern-region export/processing nodes** (probed twice
   this week from Iraqi territory), **Kharg/Jask**, a **hull-stop-and-abandon**, and the **casualties branch /
   a US warship hit** — still the one kill switch that voids everything.
+
+## ⛔ 2026-07-31 ~6:00pm PDT — STRUCTURAL CORRECTION (Jake): I CITED A FRAME I HAD SUPERSEDED NINE HOURS EARLIER
+Jake: *"Iran fired on U.S. guided ships. You said that raised the conflict barrier."* **Correct, and the two
+entries contradict each other inside one file, one day.**
+- **08:15 PDT (line ~620):** *"Political escalation was logged as MAXED; **this is a rung ABOVE that tier** and
+  it needs its own line."*
+- **17:30 PDT (line ~656):** *"**Political escalation is MAXED**… a campaign against Iran's missile capability
+  does not hit an export terminal."*
+**I retired "MAXED" in the morning and then invoked it as authority in the evening to downgrade a bigger
+event. The 5:30pm flag rests on a frame the 8:15am entry had already voided.**
+
+### ★★★ AND THE DEEPER POINT IS BIGGER THAN THE BOOKKEEPING — THE BOARD IS LATE BY CONSTRUCTION
+**Six escalation rungs in one week, and the marker state reads IDENTICAL across all six:**
+1. Iran attacks US troops in **JORDAN** → 2. US retaliation Wednesday → 3. **Tankers under US NAVAL ESCORT
+struck** → 4. Iran claims a strike on a **US airbase in KUWAIT** → 5. **Iraqi militias fire on SAUDI
+EASTERN-REGION PETROLEUM FACILITIES, two consecutive days** → 6. **Trump orders a campaign with a SURRENDER
+objective.**
+**Every one filed as "raises the odds, marker unchanged."** ⇒ **A pure threshold model fires only on the
+physical cutoff — which is the event that CAUSES the move. It CONFIRMS; it cannot ANTICIPATE. It will read
+"unchanged" on day 1 and on the day before the terminal event, and those are not the same world.**
+**Jake's challenge exposes that, and it is a design flaw, not a disagreement about facts.**
+
+### 🔧 TWO FIXES TO THE BOARD, ADOPTED
+1. **★★★ "UNFIRED" AND "NOT ATTEMPTED" ARE DIFFERENT STATES AND THE BOARD CONFLATES THEM.**
+   **Trigger (a) — the export-terminal strike — was ATTEMPTED TWICE THIS WEEK and INTERCEPTED** (Saudi MoD,
+   drones aimed at eastern-region petroleum facilities, launched from Iraqi territory by Iran-affiliated
+   militias, 7/28 entry). **The status line says "UNFIRED," which is true and throws that away.**
+   ⇒ **NEW STATUS VOCABULARY: `UNFIRED / ATTEMPTED-INTERCEPTED / FIRED`.**
+   **Trigger (a) is now `ATTEMPTED-INTERCEPTED`, not `UNFIRED`.** *That is a material change to the board's
+   top line and it has been true since Tuesday without being recorded.*
+2. **★★ THE BOARD TRACKS STATE BUT NOT ACCUMULATED PROBABILITY.** Each rung raises P(trigger a) without
+   firing it, and **nothing on the board records the accumulation** — so twelve rungs and zero rungs render
+   the same. ⇒ **every escalation entry must now state its effect on P(trigger a) as UP / FLAT / DOWN**, so
+   the ladder is visible even while the threshold holds. **Tonight's entry: UP** (a surrender-objective
+   campaign maximises Iran's incentive to reach for the one lever that hurts, and the reach is already
+   in progress).
+
+### RE-GRADE OF TONIGHT'S ENTRY
+**The 🟠 flag stands on the OIL MARKER — the campaign genuinely does not hit an export node.** ⚠️ **But the
+justification was wrong: not "political escalation is maxed" (retired), but "this rung is military-political,
+and the oil fuse is physical."** **Same conclusion, valid reasoning.** ⇒ **And with trigger (a) re-classified
+as ATTEMPTED-INTERCEPTED, the board is materially closer to the uncap than any entry today admitted.**
