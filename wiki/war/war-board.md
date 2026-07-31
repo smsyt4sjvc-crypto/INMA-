@@ -635,3 +635,55 @@ Source: acute scanner 7/31. Multi-outlet, including Guardian, Washington Times, 
   registered answer is the former (*"political escalation is MAXED; oil escalation is CAPPED"* — the fuse is
   export-terminal capacity, not transit). **The escort strike does not touch export capacity. Marker
   unchanged; the tier above it is what moved.**
+
+## UPDATE — 2026-07-31 5:14pm ET (Fri, AFTER cash close) — 🟠 TRUMP ORDERS A FRESH CAMPAIGN "TO GET TEHRAN TO SURRENDER"
+Source: WSJ (Ward / Gordon / Wegmann), updated 7/31 5:14pm ET.
+
+### DATA
+- **Trump has ORDERED a fresh attack, could begin AS SOON AS THIS WEEKEND, lasting "a few days."** Option on
+  the table: a **two-week intensive air campaign** to blunt Iran's **missile** capabilities.
+- Verbatim: *"We will be hitting them very hard… at some point they're going to say, 'We just can't take it
+  anymore.'"* Objective stated as getting Tehran to **SURRENDER**; regime will **"peter out."**
+- **Reverses his own line from days earlier** (*"very friendly negotiations"* enabling a pause). Trigger:
+  **Iran's surprise attack on US troops in JORDAN** → US retaliation Wednesday.
+- **"Dwindling munitions… cited by Trump's military advisers as a potential risk."**
+- **War enters its SIXTH MONTH.** Trump's terms unchanged: relinquish the nuclear programme AND abandon
+  control of Hormuz. **Iran dug in on both.** IRGC vowed renewed attacks Thursday.
+- *"Some US officials believe Iran will drag out negotiations, banking that Trump abandons the war in the face
+  of mounting DOMESTIC POLITICAL OPPOSITION."*
+
+### THESIS
+- **🟠 `[SHOULD-MOVE]`, NOT 🔴 — AND THE BOARD'S OWN ONE-LINE READ SAYS WHY.** *"Political escalation is MAXED…
+  OIL escalation is CAPPED… The market prices BARRELS not BODIES."* **A campaign against Iran's MISSILE
+  capability does not hit an export terminal. It is bodies, not barrels.** **Marker unchanged: trigger (a)
+  remains UNFIRED.**
+- **★★★ BUT THE TRANSMISSION IS PRECISE: THE STRIKE IS OFF-FUSE; THE RETALIATION IS ON-FUSE.** Iran's
+  counter-options when hit at this intensity are **exactly the four tells** — Saudi/Gulf export nodes, Hormuz
+  mining, hull-stops. **And the probe is already running: Iraqi militias fired on Saudi eastern-region
+  PETROLEUM FACILITIES on two consecutive days this week** (7/28 entry). ⇒ **This raises P(trigger (a)) without
+  itself being trigger (a). That is the whole read.**
+- **★★ TIMING IS THE 7/10 STRUCTURE AGAIN: A BINARY SCHEDULED INTO A CLOSED MARKET.** **Friday 5:14pm ET,
+  after the cash close, crude reopens Sunday evening.** [[dip-buying-base-rates]] STUDY 2: **war weekends run
+  67% UP Fri→Mon close with big up-gaps outnumbering down 3-to-1 — BUT both HOT-PHASE weekends closed RED
+  (7/10→7/13 −0.77%, 7/17→7/20 −0.16%).** **This is maximally hot-phase.** *(Descriptive for
+  [[portfolio-state]]: the highest-probability weekend gap event of the Dec-745 put's life. The base rate is
+  against it; the hot-phase sub-sample is for it. n=2.)*
+- **★★★ AND IT RE-CONFIRMS JAKE'S INSTRUMENTALISM THESIS, THREE DAYS ON.** The 7/28 entry graded his read:
+  *"the munitions shortage is being SIGNALED more than suffered… every element of the depletion story runs
+  through ANONYMOUS OFFICIALS… same technique as the 'deal is close' hype, different objective."*
+  **The munitions caveat recurs HERE, in the WSJ, attached to the decision — via "Trump's military advisers,"
+  the same unnamed channel, at the exact moment a two-week campaign is being weighed.** ⇒ **The shortage
+  narrative surfaces whenever an escalation decision needs framing. That is the second instance and it is
+  what his thesis predicted.**
+- **⚠️ "SURRENDER" REMOVES THE OFF-RAMP FROM THE BOARD.** The registered OFF-RAMP is *"a credible ceasefire /
+  de-escalation announcement."* **A stated objective of SURRENDER — with Iran dug in on both terms — is
+  incompatible with a negotiated off-ramp for the duration of the campaign.** ⇒ **the de-escalation branch is
+  suspended, not merely unlikely.**
+- **★ THE NEW DATED CONSTRAINT — AN ELECTORAL CLOCK.** *"banking that Trump abandons the war… in the face of
+  mounting domestic political opposition."* **US midterms are ~Nov 3, 2026 — INSIDE the Dec-18 window.**
+  ⇒ **Iran's stated strategy is to outlast a political clock that expires before Jake's expiry.** **That is a
+  dated, falsifiable constraint and the board has not carried one before.** 🚩 **NEW: does escalation tempo
+  fall after early November? If Iran's read is right, it should.**
+- **WHAT TO WATCH, unchanged and now sharper:** **Saudi eastern-region export/processing nodes** (probed twice
+  this week from Iraqi territory), **Kharg/Jask**, a **hull-stop-and-abandon**, and the **casualties branch /
+  a US warship hit** — still the one kill switch that voids everything.
