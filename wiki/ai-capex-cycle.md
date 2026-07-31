@@ -1826,3 +1826,34 @@ Revenue +28% to ~$60bn.
   200-SMA that has RECLAIMED the 20-SMA.** **Jake built it for exactly this configuration, and its own
   backtest finding was that the 20-day reclaim filter is the part that works.** **A 52-week low is the first
   half of that screen and not the second.** [[dip-buying-base-rates]], [[buying-at-highs]].
+
+## 2026-07-31 ~8:50am PT — ★★★★★ A SITTING FED PRESIDENT NAMED DATA CENTERS AS AN INFLATION SOURCE
+Source: Axios (Courtenay Brown), "Fed rate dissenters make their case for higher rates" — quoting the three
+dissent statements directly. Archived: `raw/2026-07-31-axios-fed-dissenters-statements.md`.
+
+**THE LINE:** *"Kashkari pointed to one additional factor — the **'massive investment in data centers,'**
+which he said has added a **NEW DEMAND ELEMENT to the inflation outlook**."*
+
+- **★★★★★ THIS IS THE COLLISION THIS VAULT HAS BEEN BUILDING TOWARD, AND IT ARRIVED FROM THE FED SIDE.**
+  Every thread converges here: [[compression-thesis]]'s registered loop (*AI buildout → memory crowd-out →
+  consumer price hikes → stickier core*), **Goldman's memory/electronics +0.5% to CORE CPI**,
+  [[power-not-petroleum]] (data centres bidding for power), the Graham Act's LNG channel bidding for the same
+  molecules, and [[new-economy-regime]]'s *"grievance anchored in essentials — electric bills."*
+  **A Minneapolis Fed president has now connected AI capex directly to the rate decision.**
+- **★★★ CONSEQUENCE 1 — THE BUILDOUT IS NOW A MONETARY VARIABLE, NOT ONLY AN EQUITY STORY.** Every prior
+  vault framing treated AI capex as something that happens *to* earnings and *to* the power market. **If it
+  is an input to the reaction function, it is something that happens to the DISCOUNT RATE.**
+- **★★★ CONSEQUENCE 2 — THE BUILDOUT FINANCES ITS OWN HEADWIND. A self-limiting loop the vault had NOT
+  registered:** **AI capex → inflation → higher rates → higher cost of capital → the capex gets harder to
+  fund.** ⇒ **[[ai-financing-fragility]] gains a MONETARY transmission channel on top of the private-credit
+  one.** The buildout does not need a demand failure to stall; **it can be throttled by the rate response to
+  its own demand.**
+- **★★★ CONSEQUENCE 3 — IT REINFORCES THE 7/29 ROTATION AXIS INTO A LOOP.** The vault found the rotation
+  sorts on **CAPEX INTENSITY, not duration.** Now: **capex is named as an inflation source → which argues for
+  higher rates → which hits capex-intensive names hardest → which is the same axis.** **Cause and consequence
+  are the same variable.** Neoclouds and memory sit at the centre; capital-light software does not.
+- **⚠️ WHAT THIS IS NOT.** One dissenter's statement, not a committee view, not in the FOMC statement, and
+  **not quantified** — no share of core, no elasticity. **It establishes that the channel is now ON THE
+  RECORD inside the Fed, not that it is decisive.** 🚩 **NEW FLAG F16: does data-centre/electricity demand
+  appear in the SEP commentary, the Beige Book, or a Warsh speech? Committee adoption is the test; one
+  president's statement is the leading indicator.**
