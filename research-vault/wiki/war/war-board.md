@@ -785,3 +785,54 @@ are reportedly running.** ⇒ **Maximum pressure at minimum commitment, at the m
 - *(descriptive, [[portfolio-state]])* **This is the first weekend of the Dec-745 put's life where the ON-FUSE
   trigger is the headline rather than the retaliation branch.** ⚠️ **And the vault's standing razor still
   governs: *"words/threats don't hold crude up; only a physical export cutoff does."* A leak is words.**
+
+## ⛔⛔ 2026-07-31 ~7:25pm PDT — **THE BOARD DID NOT KNOW KHARG HAS ALREADY BEEN STRUCK.** (Found re-checking a duplicate paste.)
+Jake re-pasted the Axios piece. Rather than re-run it I went to quantify a figure I had hand-waved
+("Kharg carries the overwhelming majority of Iran's exports") — **and the search surfaced a Wikipedia article
+titled "2026 Kharg Island attack."** Verified: WaPo, Jerusalem Post, AOL, NPR, NewsOnAir.
+
+### DATA (verified)
+- **13 MARCH 2026: the USAF conducted a LARGE BOMBING RAID ON KHARG ISLAND — 90+ Iranian MILITARY sites —
+  and DELIBERATELY AVOIDED THE OIL AND GAS INFRASTRUCTURE.** Trump announced it publicly. Iran vowed
+  retaliation. *(WaPo: "Trump says U.S. bombed Kharg Island, striking core of Iran's oil economy.")*
+- **15 JULY 2026: further US strikes on Iran AND on an oil tanker BOUND FOR Kharg** (NPR).
+- **The war began 28 FEBRUARY 2026 with JOINT US–ISRAELI strikes.** *(Reconciles exactly with the board's
+  "day 145" on 7/23. ✓)*
+- **Kharg: ~90-96% of Iranian crude exports. ~1.52 mb/d actual** (Kpler: 553mn of ~587mn barrels, 12m to
+  Mar-2026). **Loading capacity ~7 mb/d — so it runs at ~22% utilisation, sanctions-constrained.**
+- **Abqaiq: ~7 mb/d capacity, operating ~4.9 mb/d.**
+
+### ★★★ WHAT THIS CHANGES — AND IT IS NOT THAT THE TRIGGER FIRED
+- **✓ TRIGGER (a) CORRECTLY READS UNFIRED.** The March raid hit **military** sites and **spared** the energy
+  infrastructure. **The status line is right.**
+- **★★★ BUT THE BOARD IS BLIND TO THE MOST INFORMATIVE FACT IN THE WAR: THE US HAS ALREADY BOMBED KHARG AT
+  SCALE AND CHOSE TO LEAVE THE OIL ALONE.** **90+ sites, and a deliberate carve-out.** ⇒ **That is a REVEALED
+  PREFERENCE, executed once, at scale, four months ago.**
+- **⇒ TONIGHT'S REPORT IS THEREFORE NOT ABOUT A NEW TARGET OR A NEW CAPABILITY. IT IS ABOUT REMOVING A
+  RESTRAINT THE US ALREADY DEMONSTRATED.** **The threshold is POLITICAL, not military. They can hit it
+  whenever they choose; in March they chose not to.** **The escalation being weighed is a TARGET-LIST change
+  on an operation already run.** *That is a far shorter distance to the trigger than the board implied, and
+  the board could not have said so.*
+- **★★★ AND IT RE-SIZES TRIGGER (a), DOWNWARD.** The **$120-147** estimate was built around **Abqaiq-class
+  (~4.9 mb/d actual)**. **Kharg is ~1.52 mb/d — 3.2× SMALLER.** **On the vault's own absorption arithmetic
+  that is CPC-sized (1.80 mb/d) — and the CPC outage ran ELEVEN DAYS without producing $120 oil.**
+  ⇒ **"Kharg struck" and "Abqaiq struck" are NOT the same event and trigger (a) currently treats them as one.
+  The $120-147 band belongs to Abqaiq, not to Kharg.**
+- **⚠️ TWO REASONS THE PRICE EFFECT STILL EXCEEDS THE VOLUME — held honestly:** **(1) ~90% of Kharg's barrels
+  go to CHINA. Destroying it forces China's discount channel into the seaborne market** — the identical
+  mechanism the vault registered for the Graham Act, now kinetic instead of legislative.
+  **(2) Striking Iran's export lifeline is the maximum possible provocation for retaliation against Saudi/Gulf
+  nodes, which ARE Abqaiq-class.** ⇒ **Kharg is the trigger for the bigger trigger.**
+
+### 🔧 BOARD FIXES
+1. **TRIGGER (a) MUST BE SPLIT BY VOLUME, not treated as one class:**
+   **(a1) IRANIAN export node (Kharg, ~1.5 mb/d)** → CPC-scale supply loss + the China-channel repricing.
+   **(a2) SAUDI/GULF node (Abqaiq-class, ~5 mb/d)** → the catastrophic uncap, **$120-147**.
+   **Only (a2) carries the band the board has been quoting.**
+2. **ADD A PRIOR-ACTIONS LEDGER.** The board tracks triggers and status but **has no record of what has
+   ALREADY been struck.** **A four-month-old raid on the single most important node in the theatre was absent
+   from a board built around that node.** ⇒ **every trigger now carries a "prior strikes on this node" line.**
+3. **⚠️ AND THE PROCESS LESSON: THIS SURFACED FROM A DUPLICATE PASTE.** I nearly answered *"same article,
+   already filed."* **The value came from going to VERIFY A NUMBER I HAD HAND-WAVED** — *"the overwhelming
+   majority"* — instead of restating it. **The vault's largest gap tonight was found by quantifying an
+   adjective.** *Standing: an unquantified magnitude in a load-bearing sentence is an unrun check.*
