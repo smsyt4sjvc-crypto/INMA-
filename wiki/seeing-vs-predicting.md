@@ -164,3 +164,34 @@ average that matches a plain SMA to 0.01pp, whose distance metric is non-monoton
 large numbers come from the drawdown state of the anchor rather than from volume. **Volume is measurably
 non-random and economically irrelevant at ~0.02pp.** *What survives is narrower and more useful than either
 starting position: **anchor selection is a real research question; the VWAP part is decoration.***
+
+### 2026-07-30 ~5:45pm PT — "does below stay below or bounce?" (Jake) — the TRANSITION test
+Tool: `tools/avwap_cross_persistence_cell.py`. **This is a different question from the last cell** and the
+distinction is the point: that one measured a **STATE** ("while below, what happens?"), which averages
+day-1-below together with day-200-below. **This measures the TRANSITION** — the day price crosses. **They can
+disagree, and the transition is the relevant one when you are sitting AT the line, which SPY is** (−0.19% vs
+the ATH anchor, −0.43% vs the quarter anchor).
+
+- **⚠️ THE QUESTION IS UNDERSPECIFIED AS ASKED, AND THAT IS NOT PEDANTRY.** Over a long enough window SPY
+  re-crosses everything, because it drifts up; over one day it is a coin flip. **"Stays below or bounces" is
+  entirely a function of the horizon** ⇒ the cell **sweeps 1/3/5/10/21/63d** rather than picking one.
+- **★★★ THE MEASUREMENT NOBODY MAKES: THE LINE MOVES.** A re-cross above the AVWAP can happen **without price
+  rising**, because new low-priced volume drags the AVWAP **down** to meet price. **That is not a bounce — it
+  is the level surrendering.** Block [C] classifies every re-cross as **PRICE RECOVERED** (close back above
+  the cross-day close) vs **LINE CAME DOWN**. ⚠️ **For a long put those are opposite outcomes and the standard
+  chart read cannot tell them apart.**
+- **📌 REGISTERED PREDICTION (grade on the output).** **The answer is NEITHER.** I expect **chop**: median
+  time-below **≤5 sessions** with a **mean several times the median** and a long right tail; **cross EDGE
+  near zero at every horizon** on the ATH and quarter anchors; and **AVWAP ≈ SMA again**, since the state test
+  put them within 0.01pp. **Confidence 65%** — deliberately lower than last time, because I just took a
+  falsifier on this exact indicator and volume turned out to be measurably non-random.
+  **Falsifier: median time-below >10 sessions, or a cross EDGE beyond ±0.5pp that survives at BOTH the 21d
+  and 63d horizons.**
+- **★ IF CHOP IS THE ANSWER, IT HAS A DIRECT READ FOR THE BOOK** (descriptive, rule 7): **a cross below is not
+  a signal to hold through — it is the environment that cost $105 on the 7/29–7/30 round trip.** Rapid
+  re-crossing is precisely the regime in which a naked long option bleeds while being directionally right.
+  [[portfolio-state]], [[options-reference-natenberg]].
+- *(design note carried forward from the last result)* Block [B] and [C] are **descriptive facts about the
+  tape**, not conditional bets — **they do not suffer the multiple-testing problem** that [A] and [D] do
+  (~90 comparisons ⇒ expect 4-5 false positives). **Read B and C first.** And per the correction filed an
+  hour ago, **effect size is printed next to every significance-flavoured claim.**
