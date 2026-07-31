@@ -591,3 +591,47 @@ has been telling us for a week that this tier is saturated and does not move the
   since the SA/Citadel unwind and remains **unanswered** ([[ai-financing-fragility]]). **Archegos cost dealers
   ~$10bn disclosed within days; nothing comparable has printed here.** A war headline is priced; a dealer
   writedown is not.
+
+## UPDATE — 2026-07-31 ~8:15am PT — 🔴 **TANKERS UNDER US MILITARY ESCORT STRUCK** + the strait is REOPENING under fire
+Source: acute scanner 7/31. Multi-outlet, including Guardian, Washington Times, CNBC, ZeroHedge.
+
+### DATA
+- **🔴 IRGC struck TWO oil tankers in Hormuz that were UNDER US MILITARY ESCORT.** *(Washington Times: "IRGC
+  says it struck two tankers in the Strait of Hormuz that were escorted by U.S. military"; Guardian: "Iran
+  strikes tankers under US escort in Hormuz strait as **TRUMP GATHERS CABINET TO DISCUSS WAR**.")*
+- **Iran also claims a strike on a US airbase in KUWAIT** (ZeroHedge, AOL) — *"despite no new US operations
+  overnight."*
+- **US Treasury action against Iran's Hormuz "EXTORTION" network**; separately a US action on an Iran-linked
+  Bitcoin scheme tied to Hormuz shipping.
+- **Iran REJECTS Oman's Gulf-backed 50-50 Hormuz plan — wants FULL CONTROL of the strait.**
+- **⚠️ AND SIMULTANEOUSLY, THE OPPOSITE:** Bloomberg *"Hormuz Oil-Tanker Shuttling Trade Is Picking Up Again
+  After Lull"*; Firstpost *"Strait of Hormuz sees BUSIEST SHIPPING DAY IN TWO WEEKS as LNG traffic resumes"*;
+  **QatarEnergy LNG tanker exits Hormuz for the FIRST TIME IN THREE WEEKS**; *"WTI drifts lower to $80 amid
+  gradual increase in Hormuz traffic."* Against Iranian-agency claims that transit "remains suspended."
+- **🔴 F4: "CPC PIPELINE HALTS AGAIN AFTER DRONE ATTACK ON BLACK SEA TANKERS."** Plus Ukraine attacking
+  **Lukoil's Volgograd refinery** and a Russian city "enveloped in smoke and darkness."
+- Tape: **WTI 85.68 +2.50%, Brent 90.04 +1.13%.** Barchart: *"Crude UNDERPRICED in the 80s."*
+
+### THESIS
+- **★★★ THE ESCORT STRIKE IS A CATEGORY CHANGE AND IT IS ONE STEP SHORT OF THE REGISTERED KILL SWITCH.** The
+  board's standing line: ***"a US warship taking a hit = the casualties branch — the one kill switch that
+  voids everything."*** **Striking vessels UNDER US NAVAL PROTECTION is a direct engagement with the
+  protective mission without yet hitting the warship.** **+ "Trump gathers cabinet to discuss war."**
+  ⇒ **This is the closest the board has come to the void condition. Political escalation was logged as MAXED;
+  this is a rung ABOVE that tier and it needs its own line.**
+- **★★★ THE REGIME HAS CHANGED AND "CLOSED" IS NO LONGER THE RIGHT WORD.** Traffic resuming (busiest day in
+  two weeks, LNG back, QatarEnergy transiting) **WHILE Iran attacks the traffic that resumes** is not a
+  closure and not a reopening — **it is a CONTESTED CORRIDOR WITH A KINETIC TOLL.** **That is precisely the
+  outcome Iran's rejected-then-restated demand describes: not to close the strait but to CONTROL it.**
+  ⇒ **The marker framework needs a third state between OPEN and CLOSED. Transit volume is no longer the
+  measure; INSURANCE and ESCORT COST are.** *(The vault already found the insurance market is the real
+  gatekeeper — "Lloyd's is the meta-toll Iran can't capture." That thread is now the live one.)*
+- **★★ F5 PARTIALLY ANSWERED:** the QatarEnergy LNG channel **reopened** — a tanker exited for the first time
+  in three weeks. **Spot-vs-term on the 33 US cargoes is STILL unanswered**, but the premise that the LNG
+  route was durably shut is now false.
+- **★★ AND THE PRICE IS THE PUZZLE. Hormuz contested + CPC halted AGAIN + Russian refineries burning + Black
+  Sea fighting lifting wheat — four simultaneous supply disruptions — and Brent is $90.04.** **Either the
+  market has fully absorbed multi-theatre disruption as the baseline, or it is mispriced.** The vault's own
+  registered answer is the former (*"political escalation is MAXED; oil escalation is CAPPED"* — the fuse is
+  export-terminal capacity, not transit). **The escort strike does not touch export capacity. Marker
+  unchanged; the tier above it is what moved.**

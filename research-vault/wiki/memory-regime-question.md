@@ -275,3 +275,41 @@ investors focused on **"rising memory and component costs, supply constraints"**
   **Not decisive. Logged as one datapoint on the shortage side of a question that stays open.**
 - **⚠️ artifact-risk: "rising memory costs" is Jake's summary of investor focus, not an Apple quote.** Verify
   against the actual call transcript before this carries weight.
+
+## 2026-07-31 ~8:15am PT — 🚩 F3 GETS EVIDENCE ON BOTH SIDES IN ONE WINDOW — and they resolve on DIFFERENT CLOCKS
+Source: acute scanner 7/31 15:04 UTC.
+
+### DATA
+- **★★★ CXMT IPO'd at $9.8bn and rocketed +466% IN ONE DAY**; **MSCI FAST-TRACKED it into the indexes.**
+  *("Chinese Chip Giant CXMT Debuts After $9.8 Billion IPO"; "MSCI Fast-Tracks Chinese Chipmaker CXMT Into
+  Indexes After Mega IPO"; "burned through $5 billion in a decade — then made it all back in a single
+  quarter"; "Meet the Micron and SK Hynix Competitor That Just Rocketed 466% Higher in 1 Day.")*
+- **★★★ TIM COOK: the memory situation is a "100-YEAR FLOOD" that "WON'T BE RECEDING ANYTIME SOON."**
+  AAPL **−9.26%** on the session. *("Micron Stock Is Rising on What Apple's Tim Cook Didn't Say.")*
+- Prices: **MU −3.23%, SNDK −1.74%, SK hynix −5.64%** (7/30 close) — against **SOXX +1.56%, SMH +1.07%,
+  WDC +3.48%, STX +1.77%, TSMC +1.07%.**
+
+### THESIS
+- **★★★ THE F3 FORK RESOLVES AS *BOTH*, ON A LAG — AND THAT IS A REAL ANSWER, NOT A DODGE.** **Cook is the
+  DEMAND side saying the shortage is structural and durable; CXMT is the SUPPLY side being funded at scale to
+  end it.** **Shortage now (2026-27); the supply response lands 2028.** **A $9.8bn raise plus a 466% pop is
+  capex firepower, and DRAM capacity takes ~18-24 months to convert cash into wafers.** ⇒ *the constructive
+  memory case has a DATE on it, and it is not open-ended.*
+- **⛔ AND IT WEAKENS THE "POLITICALLY WALLED OUT" BRANCH — partially.** **MSCI fast-track inclusion is
+  financial integration, the opposite of walling out**, and it forces passive money to buy. ⚠️ **But MSCI is
+  not BIS: index inclusion and export controls are DIFFERENT WALLS.** CXMT can be index-included and
+  still tool-constrained. **F3's original question — "is the Senate action a LETTER or a BILL?" — remains
+  unanswered and is now the binding one.**
+- **★★ THE TAPE SPLIT IS THE TELL, AND IT IS NEW: DRAM/NAND DOWN, EVERYTHING ELSE UP.** MU/SNDK/hynix red
+  while SOXX, SMH, TSMC, WDC and STX are green. **Memory de-coupled from semis on the day CXMT priced.**
+  That is not a semis-cycle move; **it is a memory-specific supply repricing**, and it is the first session
+  this vault has logged where the two came apart cleanly.
+- **⚠️ HEADLINE CONTRADICTION INSIDE ONE WINDOW, and the price is the arbiter.** *"Memory Stocks Are
+  Crashing"* vs *"Why memory chip stocks are rallying again: Micron and Sandisk surge"* vs *"AI Frenzy
+  Returns: SK Hynix, AMD, Micron... Rally Up To 7% In Second Day Of Surge."* **MU closed −3.23%. The rally
+  headlines are stale or futures-based.** *Standing: when the wire and the tape disagree, the tape is the
+  measurement and the wire is the story.*
+- **⚠️ SCANNER ARTIFACT — Samsung and SK hynix print "as of 2026-07-30" beside 7/31 US quotes.** The window
+  also carries **"Korea's Kospi Logs RECORD DAILY GAIN"** (WSJ, 7/31) **next to hynix −5.64% (7/30)** —
+  reading those as simultaneous would invent a divergence that may not exist. **The `as of` column is doing
+  real work; it must be read.**
