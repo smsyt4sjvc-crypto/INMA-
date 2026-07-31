@@ -48,6 +48,40 @@ answered the cement question **from a chart instead of the cell I had built 20 m
   about it — including which calls were graded and which were wrong.* **Retrieval is not the cost. Re-deriving
   is the cost.**
 
+## ⟲ STEP ZERO-B — AMEND, DON'T ONLY APPEND (standing, set 2026-07-31 — Jake's spec)
+
+**"The vault should evolve like a brain: learn new information AND amend old information — so it's easy to
+go 'back in March we thought X, but instead they did Y.'"**
+
+**THE DEFECT THIS FIXES: the vault was APPEND-ONLY.** Every entry is `cat >>`, so a RETIRED conclusion sits
+in the file with exactly the same authority as a live one. **That failed twice on 7/31 alone:** I cited
+*"political escalation is MAXED"* nine hours after retiring it, and trigger (a)'s **$120-147** band still read
+as current after being re-sized 700 lines below. **A log is not a memory. Memory has STATE.**
+
+**WHY NOT EDIT THE OLD LINE:** rule 4 — **wrong calls stay VISIBLE.** The calibration value of this vault is
+that the errors are readable. **So: markers, never deletions.** The old text survives; its STATUS becomes
+explicit.
+
+**WHENEVER A NEW ENTRY CHANGES AN OLD CONCLUSION, RECORD IT:**
+```
+python3 tools/vault_amend.py --supersede wiki/<file>.md:<OLD_LINE>         --by wiki/<file>.md:<NEW_LINE> --why "<one line: what changed>"
+python3 tools/vault_amend.py --check              # all pointers resolve?
+python3 tools/vault_amend.py --stale wiki/<file>.md   # ★★★ nothing has ever revisited
+```
+It writes **bidirectional** markers — `⟲ SUPERSEDED <date> → file:Lnn` at the old line, `⟲ SUPERSEDES
+file:Lnn` at the new one — **so the trail is traversable from either end.** Read the March claim, see it was
+amended and where to go. Read tonight's, see what it retired. **That is the "brain" behaviour.**
+
+- **`vault_router.py` PRINTS THE ⟲ TRAIL FIRST, ABOVE ★★★ and ⛔.** A retired claim resurfacing as live is
+  worse than no claim — it is the precise failure of 7/31. **The router now refuses to hand one back clean.**
+- **AMEND ON: superseded conclusions · re-sized magnitudes · a status line the new entry contradicts · a
+  trigger/kill-switch definition proven too narrow · any "I was wrong about X" that touches an EARLIER entry.**
+  **NOT on: ordinary new information that merely ADDS.**
+- **⚠️ LINE NUMBERS DRIFT when a file is appended to.** `--check` is a pointer check, not a guarantee; **the
+  marker TEXT is the durable part.** Re-run `--check` after any session that appended heavily.
+- **THE PRINCIPLE:** *appending is learning. Amending is understanding. A vault that only appends gets bigger,
+  not smarter — and it will hand you its own retired conclusions with a straight face.*
+
 ## Session flow (the compounding loop)
 Start: read this file → **run STEP ZERO on the inbound** → `index.md` (the map) → the relevant spine notes. Work. End: file new knowledge into
 `wiki/` (firewall-split), update any note touched, extend `index.md` if notes were added, commit + push. Every

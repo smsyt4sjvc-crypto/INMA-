@@ -84,7 +84,12 @@ def files_for(thread):
             if os.path.exists(p) and p not in out: out.append(p)
     return out
 
-MARKS = [('⛔', 'CORRECTIONS ALREADY MADE — do NOT re-derive'),
+# ⟲ FIRST, deliberately. The amendment trail is the thing Jake asked the vault to
+# express: "back in March we thought X, but instead Y." A retired claim that still
+# READS as live is worse than no claim -- it is how "political escalation is MAXED"
+# got cited nine hours after being retired. Show what changed BEFORE what stands.
+MARKS = [('⟲ SUPERSEDED', 'AMENDED / RETIRED — what we thought THEN vs now. READ FIRST.'),
+         ('⛔', 'CORRECTIONS ALREADY MADE — do NOT re-derive'),
          ('★★★', 'STANDING CONCLUSIONS — do NOT re-argue'),
          ('🚩', 'OPEN FLAGS — test new data against these')]
 DATE = re.compile(r'^#{2,6}\s*.*?(\d{4}-\d{2}-\d{2})')
@@ -106,7 +111,16 @@ def brief(paths, per_mark=6, recent=5):
             print(f'     {mark} {label}  ({len(hits)} total, newest {min(per_mark,len(hits))}):')
             for ln, l in hits[-per_mark:]:
                 txt = re.sub(r'\s+', ' ', l.strip().lstrip('-*# ')).replace('**', '')
-                print(f'        L{ln:<6} {txt[:104]}')
+                # SUPERSESSION CHECK. Without this the router hands back RETIRED
+                # conclusions as live -- which is exactly how "political escalation is
+                # MAXED" got cited nine hours after being retired (7/31).
+                nxt = lines[ln] if ln < len(lines) else ''
+                if '⟲ SUPERSEDED' in nxt:
+                    tgt = re.search(r'→\s*(\S+)', nxt)
+                    print(f'        L{ln:<6} ⟲ RETIRED → {tgt.group(1) if tgt else "?"}  |  {txt[:66]}')
+                    print(f'        {"":<7} ⟲ DO NOT CITE. {re.sub(chr(10)," ",nxt.strip())[:96]}')
+                else:
+                    print(f'        L{ln:<6} {txt[:104]}')
 
 def main():
     if '--rebuild' in sys.argv:

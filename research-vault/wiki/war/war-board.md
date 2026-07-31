@@ -20,6 +20,7 @@ note). This folder is the SCANNABLE index; that note is the reasoning.
 The war-marker razor: **words/threats don't hold crude up; only a physical export cutoff does.** Four uncapping tells:
 - **(a) Export-terminal strike** — Saudi/Gulf crude EXPORT/processing node hit (Abqaiq-class, or Kharg). → the catastrophic
   uncap, Brent $120-147. **THE trigger.**
+    ⟲ SUPERSEDED 2026-07-31 → war-board.md:L748 — the $120-147 band is ABQAIQ-only (~4.9mb/d); Kharg is ~1.5mb/d = CPC-scale. Split into a1/a2.
 - **(b) Hull-stopped / abandoned vessel** — a tanker physically stopped/abandoned in the strait (not just rerouted).
 - **(c) Chokepoint closure — EXECUTED** — Hormuz OR Bab-el-Mandeb actually shut (kinetic block, mining, or the
   NON-kinetic route: broad insurer adoption of the Lloyd's toll-voids-cover clause).
@@ -43,6 +44,7 @@ The war-marker razor: **words/threats don't hold crude up; only a physical expor
 
 ## THE ONE-LINE READ (thesis)
 *Political escalation is MAXED (18 dead, nightly loop, geography widening, attribution doctrine); OIL escalation is CAPPED
+  ⟲ SUPERSEDED 2026-07-31 → war-board.md:L620 — escort strike put escalation a rung ABOVE 'maxed'; frame retired 7/31 08:15
 (no export-terminal strike in 13 nights). The market prices barrels not bodies — so the tape shrugs. The ENTIRE fork is one
 line: does someone aim at an export terminal / actually shut a strait. Everything else is pressure on that line, not a
 crossing of it.* Watch items: Kuwait-facility ID · Kharg/Saudi-terminal strike · executed Bab-el-Mandeb closure · a fresh proposal.
@@ -618,6 +620,7 @@ Source: acute scanner 7/31. Multi-outlet, including Guardian, Washington Times, 
   voids everything."*** **Striking vessels UNDER US NAVAL PROTECTION is a direct engagement with the
   protective mission without yet hitting the warship.** **+ "Trump gathers cabinet to discuss war."**
   ⇒ **This is the closest the board has come to the void condition. Political escalation was logged as MAXED;
+    ⟲ SUPERSEDES war-board.md:L45 — escort strike put escalation a rung ABOVE 'maxed'; frame retired 7/31 08:15
   this is a rung ABOVE that tier and it needs its own line.**
 - **★★★ THE REGIME HAS CHANGED AND "CLOSED" IS NO LONGER THE RIGHT WORD.** Traffic resuming (busiest day in
   two weeks, LNG back, QatarEnergy transiting) **WHILE Iran attacks the traffic that resumes** is not a
@@ -744,6 +747,7 @@ kill-switch corrections below, which is what makes this readable at all.*
 
 ### ★★★ THIS IS CATEGORICALLY DIFFERENT FROM THE 5:14pm WSJ ITEM, AND MY OWN ENTRY 90 MINUTES AGO IS WRONG ON IT
 **At 5:30pm I filed: *"THE STRIKE IS OFF-FUSE; THE RETALIATION IS ON-FUSE."*** **That was correct for a
+  ⟲ SUPERSEDES war-board.md:L22 — the $120-147 band is ABQAIQ-only (~4.9mb/d); Kharg is ~1.5mb/d = CPC-scale. Split into a1/a2.
 campaign against MISSILE capability. It is WRONG for a campaign against ENERGY targets.**
 - **TRIGGER (a) READS, VERBATIM: *"Saudi/Gulf crude EXPORT/processing node hit (Abqaiq-class, or KHARG)."***
   **KHARG IS IRANIAN** — it handles the overwhelming majority of Iran's crude exports. ⇒ **Iranian export
