@@ -157,3 +157,58 @@ co-authored by 4 Meta hardware engineers). Vendor collateral — read DATA as "w
 - 2026-07-01 session; portfolio memory `data/jake-bishop-project-memory.csv`.
 - 2026-07-26: `raw/archive/2026-07-26-micron-meta-lpddr-dc-whitepaper.pdf` (Micron/Meta LPDDR5X white paper, Rev A 07/2026).
 - 2026-07-26: WebSearch — 9to5Mac 7/24 (Apple/Micron clash before Trump), Electronics Weekly 6/29 (CXMT petition), MacDailyNews 7/1+7/8 (lobbying, testing), wccftech (iPhone 18 memory costs), cryptobriefing (lawmakers urge ban).
+
+## 2026-07-31 ~12:55pm PDT — ★★★ JAKE'S "2ND ORDER CAPEX" BASKET, GRADED AGAINST THE VAULT'S OWN MAP
+23 names, **$497.06**, target weights summing to **exactly 100.0%**, with live drift vs target.
+**⛔ THIS CORRECTS MY 12:40pm READ.** I called the fractional holdings *"a watchlist you paid for."*
+**It is a target-weighted, rebalanced basket — a real construction.** ⇒ **The absolute size is trivial, so the
+question is not "does this matter" but "IS THE DESIGN RIGHT" — because the design is what he gets if he
+scales it.** *(Descriptive throughout — rule 7. This grades a construction against this vault's own research,
+and recommends nothing.)*
+
+| bucket | target | names |
+|---|---|---|
+| **compute silicon** | **35.5%** | NVDA 7, AVGO 5, TSM 5, INTC 5, AMD 5, MU 4.5, GFS 2, ARM 2 |
+| **neocloud** | **13.5%** | IREN, CRWV, NBIS |
+| semicap | 9.0% | AMAT, LRCX |
+| optical | 8.5% | COHR, LITE |
+| **RF / handset** | **7.0%** | QRVO 5, SWKS 2 |
+| hyperscaler/debt | 5.0% | ORCL |
+| analog broad-cycle | 5.0% | TXN |
+| **POWER** | **4.5%** | RNW |
+| EV | 4.5% | RIVN |
+| Korea/memory proxy | 4.5% | EWY |
+| materials | 3.0% | MP |
+
+- **★★★ THE CENTRAL DESIGN PROBLEM: 44.5% SILICON, 4.5% POWER, 0% ELECTRICAL EQUIPMENT.**
+  [[buildout-bottleneck-map]]: *"layer 1 memory REPRICED… the bottom is UNREPRICED = **where the asymmetry
+  lives**"*; the named constraints are **transformers 128-144wk, GSUs 4-5yr, switchgear SOLD OUT THROUGH
+  2028, turbines**, with US access named as **CLF / TTMI / ROG**.
+  ⇒ **This is a "WHAT CAPEX BUYS" basket, not a "WHAT CAPEX NEEDS" basket.** It owns the compute layer and
+  almost none of the physical layer the vault identifies as the actual bottleneck — **and the electrical
+  stack is the one leg that SURVIVED today's cement test.**
+- **⚠️ ~16.5% IS ARGUABLY OFF-THESIS.**
+  **QRVO 5% + SWKS 2% = 7% RF FRONT-END — smartphone content, not data centre.** Both are Apple/Android
+  handset derivatives. **AAPL guided 9-11% and fell 9.26% this week.** ⇒ **7% of a "capex" basket is levered
+  to the handset cycle, which is the one end market that just took the hit.**
+  **RIVN 4.5% — an EV manufacturer.** Not second-order AI capex under any reading; **needs a stated thesis or
+  it is the odd one out.** **TXN 5% — analog/embedded, industrial+auto.** Fine as "semis broadly," weak as
+  "AI capex."
+- **⚠️ THREE POSITIONS THE VAULT HAS ALREADY FLAGGED.**
+  **ORCL 5.0%** — [[ai-financing-fragility]]: *"Burry's Feb 'banks selling down Oracle construction loans' →
+  now a **RECORD CDS**."* **The debt-financed hyperscaler.** Deliberate high-beta if known; a landmine if not.
+  **EWY 4.5%** — Korea is **Samsung + SK hynix ≈30%+ of KOSPI**. ⇒ **effective MEMORY weight is ~9%, not
+  4.5%**, and it imports the Korean leverage cascade the vault tracks as a fragility.
+  **NEOCLOUDS 13.5%** — *"the most levered, longest-dated, most capex-intensive cohort in the vault."*
+  **🚩F8 open six sessions, whole cohort red.** **Highest-beta bucket in the basket, and the purest
+  expression of "the buildout continues."**
+- **★★ AND THE BASKET IS THE SAME BET AS THE PUT, TWICE.** The basket is **long the AI capex complex**; the
+  **SPY Dec-745 put is short the index whose marginal driver IS that complex.** ⇒ **They net against each
+  other — at an 85:1 size ratio** ([[portfolio-state]] 12:40pm). **If the AI trade breaks, the basket loses
+  ~$497 of exposure and the put gains on ~$31k of notional.** *That is not a hedge; it is the put with a
+  decorative long attached.*
+- **★ WHAT THE DESIGN GETS RIGHT, stated because the critique is not the whole picture.** **Weights sum to
+  exactly 100 with disciplined drift tolerance** — the construction is real. **Optical at 8.5% (COHR/LITE) is
+  a genuine second-order pick** the vault's server-stack cascade supports. **MP at 3%** maps to the rare-earth
+  fight on [[war/war-board]]. **RNW at 4.5%** is the only power expression — small, but present, and the
+  vault has no US-listed pure-play objection to it.
