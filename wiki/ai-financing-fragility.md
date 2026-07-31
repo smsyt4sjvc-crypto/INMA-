@@ -2652,3 +2652,53 @@ topic where the vault holds four directly-relevant entries. **~18 hours from wri
   is the one thing the web cannot tell me.**
 - *(the asymmetry that should have been obvious)* **The web knows what happened. Only the vault knows what
   Jake and I already CONCLUDED about it** — including the calls that were graded and proved right.
+
+## 2026-07-31 ~2:10pm PDT — ★★★ "DOES A FINANCING BREAK HAVE THE BREADTH TO REACH SPY?" — it reaches SPX iff it reaches DEALERS
+Jake's question, and the best one he has asked about this position. **The answer is a MECHANISM, not a
+probability — which makes it watchable.**
+
+### FIRST: HIS "2-3% WEEKLY DROP BEFORE DECEMBER" IS A BASE RATE, NOT A FORECAST
+⚠️ *Estimated from a 16% vol assumption, NOT measured — Yahoo rate-limited. Fat tails make −3% conservative.*
+| threshold | P(any week) | **P(≥1 in 20 weeks)** |
+|---|---|---|
+| −2.0% | 16.6% | **97.3%** |
+| −3.0% | 7.8% | **80.1%** |
+| −5.0% | 1.0% | 18.4% |
+**"Fairly confident" is UNDER-confident: a −2% week is ~97% likely by December.** ⇒ **The claim as stated is
+nearly free — and that is the problem, not the comfort.** **Breakeven today is −2.8%; at expiry −4.8%.**
+**A −2.5% week that mean-reverts pays nothing — which is literally what 7/29-30 did (+$700, −$805, net
+−$105).** `avwap_cross_persistence`: **median time-below 2-3 sessions, 55-61% back above within TWO DAYS.**
+⇒ **He does not need a 2-3% week. He needs one that STICKS, or an exit taken INTO it.**
+
+### THE BREADTH QUESTION, BOTH SIDES
+**YES — it spreads:** **SPX top-10 = 36-43% AND THAT TOP-10 IS THE AI COMPLEX.** You cannot break the complex
+without moving SPX — **arithmetic, not correlation.** Plus the vault's own: *"the circularity makes
+diversification across Mag-7 ILLUSORY… they snap TOGETHER when the circle breaks."* And **financials ~13% of
+SPX are where private-credit losses land.**
+**NO — it stays contained, AND THIS SIDE IS CURRENTLY WINNING:**
+- **TODAY IS THE LIVE TEST: SOXX −2.05%, MU −7.81%, neoclouds −4 to −9% — and SPX +0.42%.** **The complex
+  broke and the index went UP.**
+- [[concentration]]: **MSFT −18.9% YTD, META −11.5%, TSLA −12.5%** — *"the other 490 names carried 2026."*
+  **SPX has ALREADY absorbed enormous megacap drawdowns without breaking.**
+- 7/29: the rotation sorts on **capex intensity**, and **software RALLIED** (NOW +5.42%) into the steepener.
+
+### ★★★ AND THE HEDGE FUND THAT WENT DOWN IS EVIDENCE FOR CONTAINMENT, NOT AGAINST IT
+**ARCHEGOS transmitted:** dealers ate **~$10bn, DISCLOSED within days** → the loss landed on balance sheets
+that fund everyone → it became a *market* event.
+**SA (Situational Awareness) did NOT:** **Citadel bought the book BILATERALLY, off-tape, at clearing prices.**
+Blue Owl loans cleared at **99.7% of par.**
+⇒ **A fund can DIE without TRANSMITTING if a rival or a dealer absorbs the book.** **The vault already logged
+*"I conflated ORDERLY with SURVIVABLE"* — and that correction cuts BOTH ways: orderly bilateral absorption is
+exactly what containment IS.**
+
+### ⇒ THE ANSWER, AND THE SIGNAL
+**A sector break stays a sector break. It becomes a MARKET break when the losses land on DEALERS, because
+dealers fund everyone.** ⇒ **The tell is not another fund failing. It is a DEALER WRITEDOWN.**
+**🚩F8 is open SIX SESSIONS: no named casualty, and NO DEALER LOSS DISCLOSED.** ⇒ **That silence is the single
+best evidence that the answer to Jake's question is currently NO — and the first disclosed dealer loss flips
+it to YES.** *One observable, binary, published in earnings and 8-Ks. Better than any breadth statistic.*
+- *(and it is the honest counterweight to the position)* **His put needs the transmission he is asking about,
+  and the vault's own evidence says transmission has been FAILING all year** — 2026's megacap drawdowns were
+  absorbed by breadth, and today's complex break was absorbed in a single session. **The bull case for the put
+  is not "the AI trade breaks." It is "the AI trade breaks AND the dealers eat it."** *Two conditions, and
+  only the first has any evidence.*
