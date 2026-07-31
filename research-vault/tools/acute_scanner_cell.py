@@ -58,6 +58,46 @@ def px_block(title, rows):
             print(f'  {lab:13}   -- n/a')
     print('  (chg% is vs the BASE column = prior session close. Compare PRICES across runs.)')
 
+# ---------------------------------------------------------------- FRONT END
+# Yahoo has no clean 2Y ticker (^FVX=5Y, ^IRX=13wk), so the 2Y comes from FRED.
+# THIS IS NOT DECORATION: the 2Y is the registered KILL SWITCH on the Fed-hike
+# call (predictions/2026-07-30-fed-hike-before-december.md). The scanner ran a
+# full window on 7/31 WITHOUT it, which is the one number the call turns on.
+#   2Y RISING while the 30Y stalls  = BEAR FLATTENING = the market pricing hikes
+#   2Y FALLING while the 30Y rises  = inflation-TOLERANCE steepening (the 7/29 read)
+def front_end_block():
+    import urllib.request, io as _io
+    print('\n### FRONT END / CURVE  (FRED — the Fed-call kill switch)')
+    out = {}
+    for sid in ('DGS2', 'DGS10', 'DGS30'):
+        try:
+            raw = urllib.request.urlopen(
+                f'https://fred.stlouisfed.org/graph/fredgraph.csv?id={sid}', timeout=25).read().decode()
+            d = pd.read_csv(_io.StringIO(raw)); d.columns = ['date', sid]
+            d[sid] = pd.to_numeric(d[sid], errors='coerce')
+            d = d.dropna()
+            out[sid] = (float(d[sid].iloc[-1]), float(d[sid].iloc[-2]), d['date'].iloc[-1])
+        except Exception as e:
+            print(f'  {sid:13}   -- FRED fetch failed ({type(e).__name__})')
+    if not out:
+        print('  !! front end unavailable — the Fed kill switch CANNOT be read this run'); return
+    print(f'  {"":13}{"last":>12}{"chg bp":>9}{"BASE":>12}   as of')
+    for sid, lab in (('DGS2','US 2Y'), ('DGS10','US 10Y (FRED)'), ('DGS30','US 30Y (FRED)')):
+        if sid in out:
+            l, b, dt = out[sid]
+            print(f'  {lab:13}{l:>12.2f}{(l-b)*100:>+9.0f}{b:>12.2f}   {dt}')
+    if 'DGS2' in out and 'DGS30' in out:
+        l2, b2, _ = out['DGS2']; l30, b30, _ = out['DGS30']
+        sp, spb = l30 - l2, b30 - b2
+        print(f'  {"2s30s":13}{sp:>+12.2f}{(sp-spb)*100:>+9.0f}{spb:>+12.2f}')
+        d2, d30 = (l2-b2)*100, (l30-b30)*100
+        if   d2 > 0 and d30 <= d2: verdict = 'BEAR FLATTENING — front end leading = market pricing HIKES'
+        elif d2 < 0 and d30 > 0:   verdict = 'inflation-TOLERANCE steepening — 2Y down, long end up'
+        elif d2 > 0 and d30 > d2:  verdict = 'bear steepening — long end leading'
+        else:                      verdict = 'no clean signal this session'
+        print(f'  -> {verdict}')
+    print('  (FRED lags ~1 session vs the Yahoo quotes above. Compare LEVELS, not timestamps.)')
+
 # ---------------------------------------------------------------- KEYWORDS
 # ~45 terms, thread-tagged. \b-anchored so short acronyms don't false-match
 # (SPR must not hit "spread", CDS must not hit "CDSL", etc).
@@ -293,6 +333,7 @@ print(f'  run {NOW:%Y-%m-%d %H:%M} UTC   cutoff {CUT:%Y-%m-%d %H:%M} UTC')
 print('='*74)
 
 px_block('INDEX / MACRO', INDEX)
+front_end_block()
 px_block('MAG 7 (independent)', MAG7)
 px_block('MEMORY COMPLEX (independent)', MEM)
 
