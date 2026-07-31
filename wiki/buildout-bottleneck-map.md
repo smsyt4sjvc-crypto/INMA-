@@ -509,3 +509,50 @@ Analysis below; descriptive, not advisory.)*
   of requests it believes are not real.** Ofgem's action is indirect evidence that **announced UK DC pipeline
   exceeds intended build** — which is the same phantom-capacity question SemiAnalysis settled the other way for
   US chips on 7/12. **Registered as open, not resolved.**
+
+## 2026-07-31 ~11:50am PDT — 🚩 THE MISSING CASCADE: the CIVIL stack. And it has the OPPOSITE geography from the other two.
+Jake: *"I meant BUILDING materials. Concrete. Lumber. Landscaping."* **Checked: the vault maps TWO cascades —
+ELECTRICAL (turbines→switchgear/transformers→electrical steel) and SERVER (memory→MLCCs→substrates/PCBs→base
+materials). There is no concrete, cement, aggregate, rebar or earthwork anywhere in this vault.**
+**A hyperscale data centre is a CIVIL project before it is an electrical or a server project — you pour the
+foundation before you set the switchgear. The map skipped layer one.**
+
+- **★★★ AND THE CIVIL STACK'S GEOGRAPHY IS THE INVERSE OF THE ELECTRICAL STACK'S — THAT IS THE FINDING.**
+
+  | | ELECTRICAL | CIVIL |
+  |---|---|---|
+  | market | **global, wrong-shored** (China ~60% of transformers) | **county-level** |
+  | constraint | 128-144wk lead times; switchgear sold out to 2028 | **physics of delivery** |
+  | arbitrage | possible, just slow | **IMPOSSIBLE** |
+  | price propagation | **NATIONAL** | **LOCAL ONLY** |
+
+  **Ready-mix concrete has roughly a 90-MINUTE DELIVERY RADIUS. Aggregate is too heavy and too cheap per ton
+  to travel.** ⇒ **Ready-mix is arguably the most geographically CAPTIVE major industrial input in the
+  economy. You cannot import it into a county. A demand shock in a county IS a price shock in that county,
+  with no relief valve.** *That is the inelastic-local-supply mechanism in its purest available form —
+  stronger than the labour example, because the boundary is PHYSICAL rather than frictional.*
+- **★★★ AND IT EXPLAINS THE SHAPE OF THE TWO FED DISSENTS.** **Hammack cites DISTRICT BUSINESSES** — *"pricing
+  pressures broadening,"* the **switchgear order book** (7/10 entry) — **the local/civil channel, which is
+  anecdotal by nature and never aggregates.** **Kashkari cites AGGREGATE investment.** ⇒ **Two different
+  transmission paths. The one that generates the district anecdotes is the one that does NOT print in the
+  national index; the one that reaches CPI is electrical equipment and electricity.** **That is why the
+  dissenters argue "policy is not restraining" instead of pointing at a CPI line — the evidence they actually
+  have is structurally un-indexable.**
+- **⚠️ LUMBER IS THE WEAK LEG OF JAKE'S THREE, AND IT SHOULD BE SAID PLAINLY.** Data centres are **steel and
+  concrete tilt-up** structures; lumber is formwork and temporary works — modest. **Lumber is priced by
+  housing starts, mill capacity and Canadian duties, not by data centres.** ⚠️ **His second-order save is
+  real but indirect: worker influx → local housing demand → residential construction → lumber.**
+  **Landscaping is real but small** *(though zoning screening/berm requirements are often substantial)*.
+- **★★★★ THE ADVERSARIAL POINT, AND IT CUTS BOTH WAYS — IN A CAPACITY-CONSTRAINED LOCAL MARKET THIS IS NOT
+  STIMULUS, IT IS CROWD-OUT WITH A PRICE SIGNAL.** If a data centre absorbs a county's ready-mix capacity,
+  **the local housing, roads and commercial work does not get built — it gets repriced or deferred.**
+  ⇒ **Net local OUTPUT may barely rise; local PRICES certainly do.** **A demand shock into inelastic supply is
+  definitionally almost all price and almost no quantity.**
+  - **STRENGTHENS his inflation claim** — this is the maximally inflationary form of a demand shock.
+  - **UNDERCUTS his "it stimulated demand" framing** — it is reallocation, not addition.
+  **Both at once, and the tension is the honest state of it.**
+- **📌 IT IS TESTABLE, AND CHEAPLY — the vault should not hold this on reasoning alone.** **If the civil-cascade
+  story is right, ready-mix/cement/aggregate PPI should be running HOT while LUMBER runs FLAT-to-cool**
+  (because lumber is housing-driven and housing is not booming). **If both are hot it is a general
+  construction cycle and the data-centre attribution is unearned; if both are flat the whole leg is a story.**
+  Cell built: `tools/civil_materials_cascade_cell.py`.
