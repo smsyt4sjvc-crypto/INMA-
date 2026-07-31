@@ -556,3 +556,42 @@ foundation before you set the switchgear. The map skipped layer one.**
   (because lumber is housing-driven and housing is not booming). **If both are hot it is a general
   construction cycle and the data-centre attribution is unearned; if both are flat the whole leg is a story.**
   Cell built: `tools/civil_materials_cascade_cell.py`.
+
+### 2026-07-31 ~12:20pm PDT — ⛔ THE CEMENT DATA GOES AGAINST THE CIVIL LEG. Jake pulled the chart; it mostly answers it.
+Source: FRED, *PPI by Industry: Cement and Concrete Product [Mfg]*, Dec-2003=100.
+Archived: `raw/2026-07-31-fred-cement-concrete-ppi-chart.md`. **Values read off the image, ±3.**
+
+| segment | change | annualised |
+|---|---|---|
+| 2003 → 2020 (pre-COVID trend) | +68.0% | **+3.1%/yr** |
+| **2021 → 2023 (the surge)** | +34.9% | **+16.1%/yr** |
+| **2023 → Dec-2025** | +9.3% | **+3.6%/yr** |
+| 2020 → Dec-2025 | +51.0% | +7.1%/yr |
+
+- **★★★ THE SHAPE IS THE ANSWER, AND THE TIMING IS WRONG FOR THE CLAIM.** **~16%/yr in 2021-23, then ~3.6%/yr
+  in 2023-25 — and 3.6% is essentially the PRE-COVID trend rate of 3.1%.** **Cement had already normalised
+  DURING the period AI data-centre capex was accelerating.**
+  **The surge is 2021-2023 = COVID supply chains, stimulus, housing, IIJA. The AI build ramp is 2024-2026.**
+  ⇒ **If data centres drove cement, the acceleration would be LATE. It is EARLY.** **The civil leg's NATIONAL
+  attribution is not demonstrated, and on this evidence it is contradicted.**
+- **★ AND THE SERIES PASSES ITS OWN CONTROL, WHICH IS WHY THE NULL IS USABLE.** **2008-2012: cement went
+  FLAT/DOWN for ~4 years when construction collapsed.** **The series demonstrably RESPONDS to construction
+  demand** ⇒ the 2024-25 flattening is a real signal, not insensitivity.
+- **⚠️ THREE REASONS IT DOES NOT CLOSE THE QUESTION.**
+  1. **THE CHART ENDS DEC-2025 — SEVEN MONTHS STALE, and 2026 IS THE WINDOW THAT MATTERS** (AMZN $200→$220B
+     and GOOGL $205B are **FY26** numbers). **The test has not been run on the relevant period. → re-pull
+     through May/Jun 2026.**
+  2. **National PPI averages away local dispersion** — the limitation written into the cell header *before*
+     this chart arrived. **A county-level spike cannot appear in a national index.** Flat national is
+     consistent with a large local effect. **Weak disconfirmation, as designed.**
+  3. **A flat high level is still a high level: 2.5× 2003, +51% vs 2020.** The cost BASE is permanently
+     elevated even with the RATE normalised.
+- **★★★ NET REVISION, STATED AS A CHANGE.** **Jake's MECHANISM stands and is still the best explanation for
+  why Fed presidents hear district anecdotes that never print** — ready-mix has a ~90-minute radius and
+  cannot be arbitraged, so local shocks are local prices. **What is NOT supported is the national-magnitude
+  attribution.** ⇒ **The materials leg of the inflation case rests on the ELECTRICAL stack — transformers
+  128-144wk, GSUs 4-5yr, switchgear sold out to 2028 — not on the CIVIL stack.** *Which is where this note
+  had it before Jake's clarification; the clarification improved the mechanism and weakened the magnitude.*
+- **★ AND IT SHARPENS THE FED READ RATHER THAN WEAKENING IT.** Hammack cites a **switchgear** order book, not
+  a concrete plant. **The dissenters are pointing at the electrical stack, which is exactly the one with
+  national price propagation.** **The evidence they use is better-chosen than the argument I built for them.**
