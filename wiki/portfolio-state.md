@@ -612,3 +612,60 @@ total +$14.18 (+0.64%), today +$36.69 (+1.67%). Archived: `raw/2026-07-30-spy-sh
   the risk, not to suggest an action.)*
 - Share lot detail: 3 shares @ $736.96 avg, **+$14.18 (+0.64%) — effectively flat.** The 7/23 note records
   2 @ $738.46, so a third was added at ≈**$733.97** (2210.89 − 1476.92). Not previously logged.
+
+## 2026-07-31 12:40pm PDT — ★★★ THE FULL BOOK, 45 POSITIONS. Structure ≠ intent.
+Jake: *"I bought some stuff. Just probably gonna hold most of it long term."* Full holdings pasted.
+⚠️ **Supersedes the "trading capital ~$1,000" line in ACCOUNT CONSTRAINTS — that was scoped to the
+trading-system project. Real book: $12,813.**
+
+| sleeve | $ | % | names |
+|---|---|---|---|
+| **CASH (SPAXX)** | **5,313.23** | **41.5%** | 1 |
+| **SPY 745 PUT Dec-18** | **2,410.00** | **18.8%** | 1 |
+| SPY + QQQM (index long) | 3,094.00 | 24.1% | 2 |
+| **LLY** | 1,147.81 | 9.0% | 1 |
+| other thematic | 411.62 | 3.2% | 8 |
+| **SEMIS/AI basket** | **369.18** | **2.9%** | **29** |
+| NEOCLOUDS (CRWV/IREN/NBIS) | 67.41 | 0.5% | 3 |
+| **TOTAL** | **12,813.25** | | **45** |
+
+- **★ SPY CROSSED THE STRIKE. SPY = 2242.53/3 = 747.51 → the Dec-745 put is $2.51 OUT of the money.**
+  **Intrinsic $0. All $2,410 is extrinsic.** IV **16.0%**, delta **−0.42**, vega **$180/pt**, theta **−$8/day**,
+  **140 days**. **2,611 (7/30) → 2,410 = −$201 today**; total −$927 from a $3,336.67 basis. Breakeven at expiry
+  SPY **< 711.63 = −4.80%** from here.
+- **★★★ THE PUT IS 6.2× ALL LONG EQUITY IN THE BOOK — IT IS NOT A HEDGE, IT IS THE POSITION.**
+
+  | | $ delta |
+  |---|---|
+  | every share + ETF combined | **+5,090** |
+  | SPY 745 put | **−31,436** |
+  | **NET** | **−26,346** |
+
+  **vs the semis basket alone ($369): the put is 85×.** ⇒ **The 29-name AI basket and the put are the same
+  view expressed twice in opposite directions, at a 85:1 size ratio.** **Nothing in the equity book can move
+  the net delta.** *(Descriptive — rule 7. This is what the position IS, not what it should be.)*
+- **⚠️ THE BASKET IS A THIRD OF ONE LLY SHARE.** 29 names, **$369.18 total**, median position **$9.68**.
+  **14 of 29 are under $5** (ADI, ALAB, ASX, CRDO, DELL, KLAC, MCHP, MPWR, MRVL, MTSI, NXPI, ON, QCOM, TER).
+  **A 100% move in ALL FOURTEEN together = $20.48.** ⇒ **"Hold long term" does not change this: a position
+  that cannot matter at any size cannot matter at any horizon.** **★ BUT THE HONEST OTHER SIDE: owning a name
+  makes you READ it. As a paid watchlist this is cheap and effective, and the vault already blesses the
+  pattern ("a learning/proof vehicle, NOT income"). The issue is only that watchlist and sleeve have different
+  success criteria — and 45 positions is a lot of manual surface area.**
+- **✓ 41.5% CASH IS CONSISTENT WITH HIS OWN REGISTERED DISCIPLINE.** [[dip-buying-base-rates]]: *"small/none
+  here, more at −7/−10%, the big tranche reserved for the −15%+ washouts."* **SPX ~7,475 vs the 6/2 ATH 7,610
+  = ~−1.8%.** The ladder says wait, and the book is waiting.
+- **★★★ THE GAP BETWEEN THE BOOK AND THE VAULT'S OWN HIGHEST-CONVICTION FINDING.**
+  [[buildout-bottleneck-map]] states: ***"Layer 1 memory REPRICED; 2 MLCC/passives REPRICING; 3 substrates/PCB
+  NEXT"*** and ***"both cascades bottom out in wrong-shored base materials with no clean US ticker = why the
+  bottom is UNREPRICED = WHERE THE ASYMMETRY LIVES."*** Named US access: **TTMI, ROG**, and **CLF** (*"the only
+  US grain-oriented-electrical-steel producer; every transformer needs GOES"*).
+  **The book holds MU + 28 semis = LAYER 1, the layer the vault says is ALREADY REPRICED.**
+  **It holds ZERO of layer 3, zero electrical stack (turbines/switchgear/transformers/GOES), zero utilities,
+  zero nuclear** — despite [[power-not-petroleum]] and [[nuclear]] being live notes and the ELECTRICAL cascade
+  being the leg that survived today's cement test. ⇒ **He bought the repriced layer and skipped the unrepriced
+  one.** *Stated as a description of the gap between research and book, not as a recommendation.*
+- *(threads already represented, worth crediting)* **VG** = Venture Global LNG → **this morning's Graham-Act /
+  US-LNG-export thread**, already owned before the analysis. **MP** → rare earths ([[war/war-board]]).
+  **EWY** → the Korea leverage cascade. **CRCL** → [[agentic-payments]] (stablecoin float). **LLY** →
+  [[glp1-wardrobe-cycle]]. **The thematic names map to live vault notes; the semis basket is the one sleeve
+  that maps to a CLOSED question.**
