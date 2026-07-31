@@ -158,3 +158,44 @@ Source: ZeroHedge/Bloomberg (Jake paste), Tue 6:20pm ET. Details possibly Wed at
   demand premise is most contested. Counterweight, honestly: nuclear demand is not only AI (grid retirement,
   industrial heat, defense), and the vault's own physical evidence (PJM 7GW short) is AI-independent.
   [[power-scarcity-equities]], [[memory-regime-question]], [[detachment-bid]].
+
+### 2026-07-31 ~2:25pm PDT — DOE NLIC SHORTLIST (5 states) — ⛔ NOT the shake-out, by this note's OWN falsifier
+Source: ZeroHedge, 7/31 12:20pm. ⚠️ **Heavily editorialised** (*"anti-nuclear activists… the opening scene of
+a disaster movie"*). The underlying events are checkable and likely sound; the framing is opinion.
+
+**DATA:** DOE selected **Utah, Tennessee, Oklahoma, Louisiana, Idaho** from **28 applications across 26
+states**. Sec. Wright signed **MOUs**. Each campus: *"up to $50B capital, ~$10B state/local tax revenue,
+25,000 jobs."* Scope is the **FULL FUEL CYCLE** — enrichment, fabrication, reprocessing, final disposition —
+**plus advanced reactors, manufacturing, and CO-LOCATED DATA CENTRES.**
+**Absent: TEXAS** (fought Orano/WCS interim storage to the Supreme Court; Abbott cited Permian risk) **and
+NEW MEXICO** (fought Holtec's HI-STORE; Holtec quit, calling NM *"untenable"* — while NM funded Kairos'
+Albuquerque expansion with $4.8M).
+
+- **⛔ JAKE ASKED FOR THE SHAKE-OUT. THIS IS NOT IT, AND THIS NOTE ALREADY SAID SO.** Registered falsifier,
+  above: ***"Watch FIRST-CONCRETE / NRC-APPROVAL milestones, NOT ANNOUNCEMENTS."*** **An MOU that "allows the
+  parties to continue EXPLORING potential campuses" is the purest form of announcement** — no site, no
+  capital committed, no reactor ordered, no NRC filing. **WARNING-state, not a trigger.** *(And note the
+  number: this note already logs **"US leads SMR SITING ANNOUNCEMENTS with 28."* The announcement pile is the
+  thing the vault decided not to trade.)*
+- **★★★ BUT THE ARTICLE'S REAL INSIGHT IS GENUINELY NEW TO THIS NOTE: THE BACK END IS THE FILTER.** This note
+  covers reactors, SMR designs and NRC readiness. **It contains NOTHING on enrichment, fuel fabrication,
+  reprocessing or storage.** **DOE just made accepting the full lifecycle the PRICE OF ADMISSION — and the two
+  loudest "pro-nuclear" states failed that test.** ⇒ **The binding constraint on US nuclear is not reactor
+  technology or NRC throughput. It is WHO WILL HOUSE THE WASTE.** **~95,000 metric tons stranded at reactor
+  sites is the measure of how long that has been unsolved.** 🚩 **NEW GAP: the vault has no back-end map —
+  enrichment (Centrus/LEU is the listed US name), fabrication, dry-cask, reprocessing. That is the layer this
+  policy actually rewards, and the note is blind to it.**
+- **★ AND THE READINESS LEADER IS STILL PRIVATE — the pattern repeats.** This note's #1 on NRC readiness is
+  **Kairos (Hermes), PRIVATE, with a GOOGL PPA**, and the article shows New Mexico paying to expand it while
+  fighting storage. **Same shape as the base-materials cascade: the best-positioned asset has no clean US
+  ticker.** Listed exposure remains **GEV** (most-advanced investable), with OKLO/SMR/NNE as Tier-C
+  optionality — **unchanged by this news.**
+- **★★ THE CROSS-THREAD ITEM — IT COLLIDES WITH JAKE'S OWN LOCAL-DEMAND ARGUMENT FROM THIS MORNING.**
+  **25,000 jobs per campus, in UTAH / TENNESSEE / OKLAHOMA / LOUISIANA / IDAHO — rural states with inelastic
+  local supply**, which is exactly the mechanism he identified. **And the campuses can include CO-LOCATED DATA
+  CENTRES.** ⇒ **Nuclear campuses and data centres will bid for the SAME welders, electricians, ready-mix and
+  switchgear, in the same counties.** **That is additive to the skilled-trades and civil-materials pressure,
+  not separate from it** ([[buildout-bottleneck-map]], [[ai-capex-cycle]]).
+- **📌 WHAT WOULD MAKE IT A SHAKE-OUT (registered, so it can be graded):** a **site selected** from the five;
+  **capital actually committed** (not "up to"); an **NRC construction application** for a campus reactor; or
+  **first concrete**. **Until one of those prints, this is 28 announcements becoming 5 announcements.**
