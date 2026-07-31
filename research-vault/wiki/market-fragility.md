@@ -1958,3 +1958,60 @@ blowing up South Korean markets."* **Hwang/Archegos 2021 (TRS) ↔ Aschenbrenner
   hours.** **A feed full of takes with no dealer disclosure and no prime-broker equity break is itself a
   datum** — it is the difference between a fund failure and a systemic event, and so far only the first is
   evidenced. [[ai-financing-fragility]].
+
+## 2026-07-31 9:48am PDT — ⛔ THE TOOLS DISAGREE ON THE BASE. The "violent rotation" is mostly an ARTIFACT.
+Jake's live-price tool vs the acute scanner (11:04 ET), same session, same names.
+
+### DATA — implied prior-close from each tool
+| ticker | scanner base | live-implied base | gap |
+|---|---|---|---|
+| **^GSPC** | 7,437.63 | 7,437.61 | **−0.00%** |
+| **VIX** | 17.09 | 17.08 | **−0.06%** |
+| AMZN | 235.50 | 257.96 | **+9.54%** |
+| AAPL | 333.43 | 312.32 | **−6.33%** |
+| MU | 874.66 | 902.87 | **+3.23%** |
+| SOXX | 504.53 | 519.22 | **+2.91%** |
+| WTI | 83.59 | 82.36 | −1.47% |
+| MSFT / GOOGL / NVDA | — | — | ±0.6-0.9% |
+
+- **★★★ THE INDICES AGREE TO ZERO; THE SINGLE STOCKS AND ETFs DO NOT.** ^GSPC and ^VIX match to two decimals.
+  **That is the diagnosis: indices have no extended-hours session, so their prior close is unambiguous.
+  Stocks and ETFs do, and the two feeds resolve it differently.** Leading hypothesis: **the live tool's base
+  already contains the AFTER-HOURS move; the scanner uses the REGULAR-session close** — which is why the two
+  earnings names gap most and in opposite directions (AMZN +9.5%, AAPL −6.3%). ⚠️ **MU (+3.2%, no earnings)
+  and SOXX (+2.9%) do not fit that cleanly. I cannot determine which tool is CORRECT — only that they
+  disagree, systematically, and only outside the indices.**
+- **⛔ AND IT WOULD HAVE PRODUCED A FALSE FINDING.** The percentage columns show SOXX **+1.56% → −2.05%** and
+  AAPL **−9.26% → −3.77%** across 1h45m — which reads as a violent rotation out of semis and a sharp Apple
+  recovery. **Priced against price, neither happened:**
+
+  | 11:04 ET → 12:48 ET | move |
+  |---|---|
+  | MSFT | **+2.64%** ← the only real mover |
+  | MU | −1.66% |
+  | SOXX | −0.75% |
+  | **AAPL** | **−0.66% — FLAT, not recovering** |
+  | AMZN / GOOGL / NVDA | +0.20 / +0.12 / +0.20% |
+  | ^GSPC | +0.33% · VIX **−2.93%** · WTI −1.17% |
+
+  **The SOXX "3.6-point reversal" and the "Apple recovery" are BASE ARTIFACTS.** The real tape is mild:
+  **MSFT +2.6% and everything else drifting**, with vol bleeding out.
+- **📌 THE FIX, AND THE SCANNER ALREADY KNEW.** `acute_scanner_cell.py` prints *"Compare PRICES across runs"*
+  in its own footer. **The live tool carries no such warning and prints no BASE column.** ⇒ **Both tools must
+  print BASE + timestamp convention (regular close vs extended), and cross-tool reads must use PRICES only.**
+- *(what survives, correctly stated)* **SPX +0.42% with QQQ −0.28% and IWM −0.76%, VIX 16.90.** **Index calm,
+  composition split — that is DISPERSION, and `tools/vix_term_structure_cell.py` exists precisely to test
+  whether a low VIX is dispersion arithmetic. This is that configuration, live.**
+- **🚩 F8 — SIX SESSIONS NOW, AND THE WHOLE COHORT IS RED:** CRWV −6.00, IREN −8.67, NBIS −6.03, APLD −4.71,
+  WULF −3.91, CORZ −4.31. ⚠️ **Single-source, on the same suspect base — direction credible, MAGNITUDE
+  UNVERIFIED.** **Still no named casualty and still no dealer loss.** *(The ChatGPT summary an hour ago listed
+  NBIS as a "primary AI infrastructure beneficiary.")*
+- **⚠️ AND THE MEMORY NARRATIVE JUST INVERTED ON THE TAPE.** That summary called Cook's remarks *"bullish for
+  memory pricing and suppliers... Bullish for MU."* **MU is the worst name on the screen.** Meanwhile **AAPL —
+  the cost-squeezed BUYER — is roughly flat.** ⇒ **The market is trading the CXMT supply response, not the
+  Cook shortage.** Consistent with the pricing-≠-availability finding filed this morning.
+- **⚠️ LEVEL WATCH GAPS: the 30Y and the 2Y are absent.** It checks the **10Y** against the "5.00% corner,"
+  but **the corner was breached at the LONG end (30Y 5.26%)** — the marker is being tested against the wrong
+  tenor. And the 2Y is the Fed-call kill switch. **Same patch as the scanner needs.**
+- *(the book, descriptive)* **SPY 744.51 vs the 745 strike — $0.49 ITM, effectively AT-THE-MONEY, delta ≈ −0.50.**
+  SPX/SPY = 10.032 vs 10.028 yesterday, so the quote is internally consistent. Breakeven ~726.8 (−2.38%).

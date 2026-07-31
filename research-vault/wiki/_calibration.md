@@ -975,3 +975,24 @@ support a claim, run the search that would kill it in the same breath, or the se
 
 **Score: Jake has now supplied the correcting fact in 4 of the last 5 exchanges.** The pattern is consistent —
 **I model and recall; he checks.** ⚠️ **That division of labour is backwards and is itself the finding.**
+
+### 2026-07-31 ~9:55am PDT — ✅ NEAR-MISS CAUGHT: I was one paragraph from a "violent rotation" that never happened
+Jake's live tape showed **SOXX +1.56% → −2.05%** and **AAPL −9.26% → −3.77%** against the scanner 1h45m
+earlier. **I had the write-up forming: "violent intraday rotation out of semis into hyperscalers."** Checking
+price-against-price first: **SOXX −0.75%, AAPL −0.66% (flat), MSFT +2.64%.** **The rotation was a base
+artifact. The tools do not share a prior close.**
+
+- **★★ WHAT MADE IT CATCHABLE WAS A HABIT, NOT INSIGHT: reconstruct the base from `last / (1+chg%)` before
+  comparing anything across two tools.** Ten lines of arithmetic. **The indices agreed to 0.00% and the single
+  names gapped up to 9.5% — that split IS the diagnosis**, and it only appears if you compute it.
+- **THE LINEAGE.** This is the same failure family as: the **volume STEP** (a level shift is a source change
+  until proven otherwise), the **sorting artifact** (descending sort guarantees "all changes positive"), the
+  **stale KOSPI base** and **dropped bars** on 7/28, and **"almost $20 under strike"** yesterday — where a
+  3.4-point base error turned a 73/27 attribution into a false 98/2. **Five instances. Every one is a BASE or
+  REFERENCE error, not a reasoning error.**
+- **★★★ THE PATTERN IS NOW STRONG ENOUGH TO PROMOTE TO A STANDING RULE.** *This vault's dominant failure mode
+  is not bad inference. It is comparing two numbers that were measured against different references.*
+  **RULE: before any cross-source or cross-run comparison, reconstruct and match the BASE. If the bases
+  differ, compare LEVELS only and say so out loud.**
+- *(credit where due)* **The scanner already prints "Compare PRICES across runs" — a fix I wrote after the
+  7/28 base errors. It worked. The live tool lacks it, which is exactly where this one came from.**
