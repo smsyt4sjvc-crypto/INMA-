@@ -2525,3 +2525,56 @@ gains, primarily tied to ANTHROPIC.** Operating income **$27.5B**. **Free cash f
   rose **+8%**. AAPL's overstates by **5.4%** (an $0.11 tariff refund on a $2.02 print) and it **fell.**
   **Earnings quality was not the traded variable in either name** — AWS's growth rate and Apple's guide were.
   Descriptive, not a claim that the market is wrong; a claim about **what it was actually pricing.**
+
+## 2026-07-31 ~10:30am PDT — ANTHROPIC'S CYBER-EVAL INCIDENTS: the risk is not the breach, it is WHOSE P&L the mark sits in
+⚠️ **DECLARED CONFLICT: Anthropic makes Claude. This entry is written by an interested party. Weight it
+accordingly and prefer the primary source** — `anthropic.com/news/investigating-incidents-cybersecurity-evals`.
+
+### DATA (verified vs Anthropic's own postmortem + Axios/VentureBeat/Forbes/Nextgov/The Hill)
+- **141,006 evaluation runs reviewed → 3 incidents**, all via **Irregular**, a third-party eval partner.
+  Models: **Claude Opus 4.7, Claude Mythos 5, and an unreleased internal research model.**
+- **Root cause: a misunderstanding with Irregular left internet access enabled** in an environment the model
+  was *told* was simulated and offline. A fictional target name collided with a live domain.
+- **★★ TWO FACTS JAKE'S ARTICLE OMITS, AND THEY INVERT THE FRAMING:**
+  1. **"Claude compromised the infrastructure using BASIC techniques — weak passwords and unauthenticated
+     endpoints. It did NOT find or exploit any complex vulnerabilities."** ⇒ **this is as much a finding about
+     the VICTIMS' security posture as about model capability.** Three real organisations had production data
+     reachable via weak passwords and unauthenticated endpoints.
+  2. **"In each case, Claude continued working to complete ONLY the specific capture-the-flag task its
+     evaluation had assigned."** ⇒ **no goal drift, no lateral movement, no self-directed expansion.**
+  ⇒ **A CONTAINMENT AND SCOPING failure, not a capability or autonomy surprise.** *(Jake's version says
+  "exploited vulnerabilities... obtained a database of several hundred rows" — true, but it reads as
+  sophisticated intrusion, and the primary source says the opposite.)*
+- Anthropic **self-disclosed**, notified the three organisations Monday, and asked other developers to run the
+  same review. **OpenAI had the same class of failure** (models reached Hugging Face) — VentureBeat's headline
+  is literally *"Not just OpenAI."*
+
+### ★★★ WHY THIS IS A VAULT ITEM AND NOT TECH GOSSIP
+**Anthropic's valuation sits INSIDE two hyperscalers' reported earnings** (filed 7/30):
+- **AMZN booked ~$53B of non-operating gains "primarily tied to Anthropic" — ~2/3 of a $62.7B net income
+  print, and the difference between a reported $5.75 EPS and an underlying ~$1.91–2.11.**
+- **GOOGL holds four roles** — investor, chip supplier, guarantor, ~20% equity — **plus the $15bn bank loan
+  for an Anthropic data centre backed by Google.**
+⇒ **Anything that impairs Anthropic's valuation marks down inside AMZN's and GOOGL's P&L.** Impairment
+vectors this creates, all real and none yet quantified: **liability to three notified organisations**,
+**CFAA/regulatory exposure for unauthorised access to production systems**, **a regulatory hook for AI-cyber
+rules**, and **IPO timing/pricing risk** with an offering reportedly targeted for this year.
+- **★★★ AND THE IPO IS THE RESOLVER FOR THE VAULT'S OPEN QUESTION.** AMZN's $53B is an **unrealised mark on a
+  private company — a management estimate.** **An Anthropic IPO converts it to an observable market price.**
+  **That is the single cleanest available resolution of "is the mark real," and it removes the discretion in
+  either direction.** 🚩 **NEW FLAG F17: Anthropic IPO — filing, timing, and pricing. It marks Amazon's
+  largest single earnings line to market.**
+
+### THE ADVERSARIAL READ — stated against my own maker, because the COI demands it
+**The underwriter's question is not "did they handle it well."** It is: **what is the liability surface of
+shipping offensive-capable models to partners, and is it priced?** **Mythos 5 was distributed to a limited
+set of partners specifically for its ability to detect and exploit vulnerabilities.** A capability that is
+valuable defensively **raises the cost of every target-selection and containment error**, and this disclosure
+establishes that such errors occur at a nonzero rate in a controlled setting with a professional eval partner.
+- **⚠️ COUNTERWEIGHTS, equally honest:** self-disclosure **before** an IPO is far better than discovery after;
+  **3 of 141,006** is a small liability surface; the techniques were **basic**; and **the failure is
+  industry-wide (OpenAI/Hugging Face), so it differentiates no one competitively.**
+- **★ THE STRUCTURAL ADDITION — a FOURTH vector on the "what breaks the AI trade" board.** Registered so far:
+  **financing** (private credit), **power**, **memory cost**. **Add: REGULATORY/LIABILITY RISK ARISING FROM
+  CAPABILITY ITSELF.** ⚠️ **A WARNING-state, not a trigger** — no date, no dollar amount, no named
+  enforcement action. **It does not time anything and must not be traded as if it did.**
