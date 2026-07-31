@@ -729,3 +729,59 @@ physical cutoff — which is the event that CAUSES the move. It CONFIRMS; it can
 justification was wrong: not "political escalation is maxed" (retired), but "this rung is military-political,
 and the oil fuse is physical."** **Same conclusion, valid reasoning.** ⇒ **And with trigger (a) re-classified
 as ATTEMPTED-INTERCEPTED, the board is materially closer to the uncap than any entry today admitted.**
+
+## 🔴🔴 UPDATE — 2026-07-31 ~7:05pm PDT — **THE FIRST ON-FUSE ITEM OF THE WAR: US WEIGHING STRIKES ON IRANIAN *ENERGY* TARGETS**
+Source: **Axios, Barak Ravid** (CBS/WSJ first reported). *Routed via STEP ZERO — the router surfaced the two
+kill-switch corrections below, which is what makes this readable at all.*
+
+### DATA
+- **Trump "seriously considering" attacks on ENERGY targets in Iran within days. NO FINAL ORDERS GIVEN.**
+  Single anonymous **"U.S. official."**
+- Purpose: force Iran to accept US terms **"in ongoing CEASEFIRE NEGOTIATIONS."**
+- **Could involve the ISRAELI military for the first time in many weeks** → *"would likely lead to Iranian
+  missile attacks on Israel."*
+- Leavitt, on record: *"the United States will win, and Iran will not have a nuclear weapon under his watch."*
+
+### ★★★ THIS IS CATEGORICALLY DIFFERENT FROM THE 5:14pm WSJ ITEM, AND MY OWN ENTRY 90 MINUTES AGO IS WRONG ON IT
+**At 5:30pm I filed: *"THE STRIKE IS OFF-FUSE; THE RETALIATION IS ON-FUSE."*** **That was correct for a
+campaign against MISSILE capability. It is WRONG for a campaign against ENERGY targets.**
+- **TRIGGER (a) READS, VERBATIM: *"Saudi/Gulf crude EXPORT/processing node hit (Abqaiq-class, or KHARG)."***
+  **KHARG IS IRANIAN** — it handles the overwhelming majority of Iran's crude exports. ⇒ **Iranian export
+  terminals are ALREADY INSIDE trigger (a). The US strike itself would fire THE trigger — not the retaliation.**
+- **AND THE SET-#7 REWRITE THE VAULT DRAFTED TWICE ALREADY COVERS THIS WORD FOR WORD:** *"a strike on any node
+  that PRODUCES, PROCESSES, SHIPS or GOVERNS energy flow — export terminal, refinery, LNG facility, or
+  chokepoint control infrastructure."* **The vault rewrote the trigger for exactly this event before the event
+  existed** — after Damietta (blind to LNG) and Qeshm (blind to chokepoint control). **This is why the rewrite
+  was pending.**
+- **⇒ BILATERALLY ON-FUSE FOR THE FIRST TIME.** Every prior rung was Iran acting or the US hitting military
+  targets. **This is the US considering the destruction of Iranian export capacity — supply destruction that
+  unambiguously removes barrels — WHILE Iran's retaliation menu (Saudi nodes, Hormuz) is also on-fuse.**
+  **P(trigger a): UP, materially. Not a rung. The stair.**
+
+### ⚠️ THREE THINGS THAT ARGUE IT IS PRESSURE, NOT A PLAN — and they are strong
+1. **"HASN'T GIVEN FINAL ORDERS."** WARNING-vs-TRIGGER: **considering ≠ executed. The marker fires on the
+   strike, not the leak.** **Trigger (a) status remains `ATTEMPTED-INTERCEPTED`** (per tonight's correction),
+   **NOT `FIRED`.**
+2. **★★★ SINGLE ANONYMOUS "U.S. OFFICIAL" — THE EXACT CHANNEL THE VAULT HAS INDICTED TWICE.** Jake's
+   instrumentalism thesis (7/28, graded): *"every element of the depletion story runs through ANONYMOUS
+   OFFICIALS… if anonymous officials hyping a deal is a market tool, anonymous officials hyping depletion is a
+   policy tool."* ⇒ **A LEAKED THREAT TO DESTROY IRAN'S OIL EXPORTS, published before final orders, IS ITSELF
+   THE NEGOTIATING INSTRUMENT.** **Third instance of the same technique in four days.**
+3. **AXIOS CONTRADICTS THE WSJ ON THE DECISIVE POINT — SAME DAY.** WSJ framed the objective as **SURRENDER**;
+   **Axios says the strikes are to force terms "in ONGOING CEASEFIRE NEGOTIATIONS."** ⇒ **⛔ My 5:30pm call
+   that *"'surrender' REMOVES the off-ramp from the board"* is partially reversed: if negotiations are
+   ongoing, the OFF-RAMP is LIVE, and the threat is leverage inside it.** *Two tier-1 outlets, same hours,
+   incompatible framings — do not treat either as settled.*
+
+### THE STRUCTURE, PLAINLY
+**A leaked threat to destroy Iranian oil exports, released Friday night, into a closed crude market that
+reopens Sunday evening, with no final orders given, sourced to one anonymous official, while ceasefire talks
+are reportedly running.** ⇒ **Maximum pressure at minimum commitment, at the moment of maximum gap risk.**
+**If it is a bluff it costs nothing; if it is real the market cannot price it until Sunday.**
+- **WATCH, in order:** *(1)* **KHARG** — named in trigger (a), and Iran's export chokepoint; *(2)* an
+  **Israeli participation confirmation** (widens the war and triggers the Iranian-missile branch); *(3)* the
+  **Sunday crude open** as the first priced verdict; *(4)* **on-the-record** confirmation replacing the
+  anonymous leak — that is what separates instrument from intent.
+- *(descriptive, [[portfolio-state]])* **This is the first weekend of the Dec-745 put's life where the ON-FUSE
+  trigger is the headline rather than the retaliation branch.** ⚠️ **And the vault's standing razor still
+  governs: *"words/threats don't hold crude up; only a physical export cutoff does."* A leak is words.**
