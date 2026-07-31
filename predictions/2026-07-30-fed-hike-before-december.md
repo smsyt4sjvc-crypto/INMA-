@@ -172,3 +172,57 @@ market's 'RED FLAG'"** and FT **"What Warsh is (probably) up to."**
 - *(supporting, unchanged direction)* **WTI +2.50% to 85.68, Brent 90.04**, with Hormuz contested, **CPC
   halted again**, and Russian refineries burning. Oil keeps pushing the hawkish case — and remains the
   category Warsh named in writing as look-through-able.
+
+---
+
+## REVISION 3 — 2026-07-31 ~8:50am PT: **45% → 50% before December · 55% → 58% inside the put's life**
+Source: Axios, the three dissent statements **verbatim** — the most primary Fed material this vault has on the
+7/29 meeting. **Third upward revision in 24 hours. Every one of them came from evidence Jake supplied.**
+
+### ⛔ MY STRONGEST REMAINING ARGUMENT IS DIRECTLY REBUTTED — BY NAME
+I told Jake the supply-shock language was decisive: *"Warsh wrote 'supply shocks... including ENERGY' —
+central-bank code for look-through. Tariff and oil inflation is the WEAKEST kind for your hike thesis."*
+**Kashkari's statement is a point-by-point answer to exactly that:**
+> *"I increasingly believe that monetary policy DOES have an important role to play in addressing a series of
+> successive supply shocks that might lead to ENTRENCHED higher inflation."*
+He concedes the Fed **usually** looks through supply shocks, then argues that **after the pandemic, Ukraine,
+tariffs and the Middle East, the doctrine has an expiry date — and invokes THE 1970s.** ⇒ **The look-through
+argument is not a fact about this Fed; it is a contested position, and the contest is now on the record.**
+
+### ★★★ AND THE OTHER TWO SIDESTEP THE SUPPLY DEBATE ENTIRELY — THIS IS THE STRONGER MOVE
+- **Hammack: "inflationary pressures coming from the DEMAND side of the economy, as well."** Cleveland-district
+  businesses report pricing pressure **"broadening rather than fading"**; consumers **"expressing DESPAIR over
+  persistently higher prices."**
+- **Logan: "Labor, consumption and financial market conditions indicate that monetary policy is NOT
+  RESTRAINING the economy."**
+**⇒ They are not arguing "hike because of oil." They are arguing POLICY IS NOT RESTRICTIVE.** **That claim is
+immune to the carve-out logic I used** — you cannot look through demand-side inflation. **My entire
+supply-shock counter only ever engaged one of the three dissents.**
+
+### ★★★ THE TACTICALLY DECISIVE DETAIL: THE ASK IS DELIBERATELY CHEAP
+> Kashkari: *"a potential series of SMALL policy moves would be better than waiting and eventually concluding
+> that even BOLDER actions were necessary."* Logan: *"MODEST action in the near term would reduce the
+> likelihood of needing to take SHARPER action later."*
+**They are not asking for a tightening campaign. They are asking for 25bp as INSURANCE, while the labour
+market is healthy.** ⇒ **An insurance hike is far easier for a committee to join than a cycle — it requires
+no one to concede the hold was wrong.** **And Jake's claim was never a cycle. It is ONE hike before December.
+The dissenters have framed the exact ask his position needs, in the cheapest available form.**
+
+### ⚠️ WHAT STILL HOLDS THE NUMBER AT 50 AND NOT HIGHER — THE VOTE ARITHMETIC
+**Three of twelve. A hike needs SEVEN.** Flipping four votes across two-to-three meetings is a large move, and
+**Axios frames it as an open question — "whether that argument PERSUADES more policymakers"** — not a done
+deal. **Swaps priced September OUT after the meeting.** And ⚠️ **the 2Y is STILL not in hand.**
+
+### ★★★ KILL SWITCH REPLACED — THIS IS BETTER THAN THE 2Y
+**WATCH THE DISSENT COUNT AT THE SEPTEMBER MEETING.**
+- **3 → 4 or 5 = the argument is spreading; the hike is coming and my 50% is too low.**
+- **3 → 3 = it stalled; the hawks are a permanent minority and Jake is wrong.**
+- **3 → 2 or fewer = the majority won the argument; thesis dead.**
+**A vote count is unambiguous, dated, published, and requires no interpretation** — strictly better than
+reading a yield curve, and it is the one instrument Warsh's no-guidance regime cannot suppress.
+*(2Y and swaps-implied odds stay as secondary confirmations; scanner now prints DGS2.)*
+
+### 📌 AND THE CROSS-THREAD ITEM IS BIGGER THAN THE RATE CALL
+**Kashkari named "massive investment in DATA CENTERS" as a new demand element in the inflation outlook**
+([[ai-capex-cycle]] 7/31). **If this thesis pays, it may pay through the AI buildout being the thing that
+forces the Fed's hand — which is not the mechanism Jake or I started with.**
