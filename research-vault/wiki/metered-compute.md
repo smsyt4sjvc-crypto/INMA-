@@ -1500,3 +1500,42 @@ remarks.**
   **−80% needs >5× volume to break even; −20% needs >1.25×.** **If OpenAI discloses nothing, the proxy is
   whether Anthropic and Google match on the cheap tier within weeks — a fast match means competitive
   repricing; no match means OpenAI genuinely found efficiency and is spending it on share.**
+
+##### 2026-07-31 ~11:15am PDT — THE PACING LETTER × TODAY'S ANTHROPIC THREAD: the frame was here; today supplies the first INSTANCE
+Jake pointed at the letter while we were on the Anthropic blacklist/Mythos thread. **Vault-first this time** —
+the letter is already worked above, including two of my own corrections. **Nothing below restates it; this is
+only what today's facts do to it.**
+
+- **✓ JAKE'S PHRASING WAS MORE ACCURATE THAN THE WIRE'S.** He said *"slow the pace of AI SELF RESEARCH"* —
+  which is the document's actual scope (**"deliberately PACE the frontier of AUTOMATED AI DEVELOPMENT"**).
+  **Axios rendered it "halt development of AI models," and I inherited that error into a ★★ entry.** Logged
+  above as Correction 1. *He has now been closer to the primary source than the secondary coverage three times
+  in this session.*
+- **★★★ THE LETTER RECONTEXTUALISES TODAY'S DISCLOSURE BEHAVIOUR.** Anthropic's **CEO, CSO and three
+  co-founders signed** it. Two days ago Anthropic published a postmortem of its own containment failure and
+  **"encouraged other AI developers to perform similar reviews."** ⇒ **That is a signatory building the
+  disclosure norm it asked for.** ⚠️ **It is equally consistent with establishing a standard incumbents can
+  meet and open-weight distributors cannot** — which is the vault's registered read: *"a compliance regime
+  advantages incumbents over open-weight and Chinese competitors."* **Both readings survive; the behaviour
+  does not discriminate between them.**
+- **★★★ BUT THE CAPTURE READ NOW HAS A COUNTEREXAMPLE IN THIS VAULT'S OWN RECORD, AND IT IS TODAY'S.** If the
+  pacing regime were regulatory capture working, the signatories would be its beneficiaries. **Instead:
+  Anthropic was declared a DoD supply-chain risk and banned from federal procurement in February, then had
+  Mythos EXPORT-CONTROLLED in June — triggered by A RIVAL'S JAILBREAK CLAIM — and suspended its own flagship.**
+  ⇒ **Anthropic signed for pacing and was bitten twice by the apparatus.** **Those are not the returns of
+  successful capture.** ⚠️ **Counter-counter, held honestly: limited release was restored 6/26 and controls
+  were LIFTED ~7/1. The apparatus bit and then let go — which reads as a NEGOTIATION, not as capture and not
+  as enforcement.**
+- **★★ WHAT IS GENUINELY NEW TODAY vs WHAT WAS ALREADY HERE.** The vault already held the **frame** —
+  *compliance regimes advantage incumbents; the Alliance open-weights letter is the mirror image.* **What it
+  did NOT hold is a concrete INSTANCE.** **The June Mythos export controls, triggered by a competitor's
+  jailbreak demonstration, are the first observed case of the mechanism operating on a named firm.** ⇒ my
+  "jailbreak claims are a regulatory attack surface" note this morning was **not a new mechanism — it was the
+  vault's existing frame, finally with a data point.** *(File it as evidence, not as discovery.)*
+- **★ AND IT TOUCHES THE FED THREAD, WHICH NOTHING ELSE HAS.** **Kashkari named "massive investment in DATA
+  CENTERS" as a new demand element in the inflation outlook** ([[ai-capex-cycle]] 7/31). **The letter asks to
+  pace AUTOMATED AI DEVELOPMENT — the one thing that, per the vault's own reading, makes "compute demand go
+  vertical, not flat."** ⇒ **A pacing regime is a CAPEX-DEMAND regime, and capex demand is now on the record
+  as an inflation input.** **Pacing AI self-research would be disinflationary through the data-centre channel.**
+  ⚠️ **Speculative, unpriced, no date, and no mechanism connects them today. Registered as a link to watch —
+  NOT as a claim.** [[compression-thesis]], [[new-economy-regime]].
