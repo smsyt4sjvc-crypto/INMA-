@@ -195,3 +195,55 @@ the ATH anchor, −0.43% vs the quarter anchor).
   tape**, not conditional bets — **they do not suffer the multiple-testing problem** that [A] and [D] do
   (~90 comparisons ⇒ expect 4-5 false positives). **Read B and C first.** And per the correction filed an
   hour ago, **effect size is printed next to every significance-flavoured claim.**
+
+### 2026-07-30 ~6:00pm PT — ★★★ RESULT: CHOP CONFIRMED, falsifier MET, and STATE vs TRANSITION give OPPOSITE SIGNS
+`tools/avwap_cross_persistence_cell.py` ran. SPY, 7,946 sessions.
+
+| # | registered claim | verdict |
+|---|---|---|
+| 1 | "the answer is NEITHER — it is chop" | **✓ CONFIRMED decisively** |
+| 2 | "cross EDGE ~0 on the ATH and quarter anchors" | **✓ CONFIRMED** (all within ±0.25pp) |
+| 3 | "AVWAP ≈ SMA again" | **✓ CONFIRMED, and stronger than claimed** |
+| 4 | falsifier: "EDGE beyond ±0.5pp surviving at 21d AND 63d" | **⛔ MET — I lose** |
+| 5 | (framing) "the line comes down = the hidden problem" | **⛔ OVERSTATED — it is 13-19%** |
+
+- **✓ CHOP, AND IT IS NOT CLOSE.** Median time-below **2-3 sessions**; **55-61% back above within 2 days,
+  71-80% within 5**; mean **5.7-10.6** = **1.9-5.3× the median**; **max 687 sessions (~2.7 years).**
+  **Neither "stays below" nor "bounces" — it re-crosses almost immediately, except for the rare episode that
+  runs for years, and that tail is where all the P&L is.**
+- **⛔ FALSIFIER MET, AS WRITTEN.** −5% trough anchor: **21d +0.90 and 63d +2.50** (SMA: **+1.26 / +2.90**),
+  both past ±0.5pp at both horizons. ⚠️ **My prediction was SCOPED to the ATH and quarter anchors; my
+  falsifier was not.** **I wrote a falsifier broader than the claim it was testing. Taking the loss as
+  written — the drafting error is a separate lesson, not an escape hatch.**
+  **RULE: a falsifier must be scoped to exactly the claim it tests, or it grades a different prediction.**
+- **★★★ THE FINDING, AND IT IS THE WHOLE POINT OF BUILDING A SECOND CELL: THE SIGNS ARE OPPOSITE.**
+
+  | −5% trough anchor, 63d | EDGE |
+  |---|---|
+  | **STATE** — while below the line | **−3.55** |
+  | **TRANSITION** — the day it crosses below | **+2.50** |
+
+  **A 6.05pp swing on the same anchor, same data, same horizon.** **Crossing below is BULLISH; being below is
+  BEARISH.** ⇒ **Mechanism, and the survival stats supply it: 61% of crosses reverse within 2 days, so the
+  TRANSITION sample is dominated by ordinary dips inside uptrends, while the STATE sample is dominated by the
+  long grinds — 2008, 2022 — where you sit below for hundreds of sessions.** *"Below the VWAP" is two
+  completely different populations and the standard chart read collapses them into one.*
+- **✓ #3 IS STRONGER THAN I CLAIMED — VOLUME WEIGHTING IS MARGINALLY HARMFUL.** On the trough anchor the
+  **plain SMA BEATS the AVWAP**: 21d **+1.26 vs +0.90**, 63d **+2.90 vs +2.50**. Combined with the state
+  test's 0.01pp median gap: **volume weighting adds nothing and here subtracts.**
+- **⛔ #5 — I OVERSTATED THE "LINE CAME DOWN" PROBLEM.** Measured: **81-87% of re-crosses are PRICE
+  RECOVERED; only 13-19% are the line surrendering.** Real, worth knowing, **not the hidden dominant effect I
+  framed it as.** *Second time this session I have built a mechanism up before measuring it.*
+- **🚩 THE HIGHEST-VALUE OPEN RESULT, WITH THE CAVEAT THAT MAY KILL IT.** Block [D]: on the trough anchor,
+  breaking a level **held LONGER** is **MORE** bullish, monotonically — 3d **+1.33**, 10d **+1.90**, 21d
+  **+2.31**, 63d **+3.33** (n=66) — versus held-short (n=76) which chops and goes **−0.32 at 21d.**
+  **That inverts the standard chart intuition that a long-held support breaking is bearish.**
+  ⚠️ **BUT: 142 crosses in 31 years, split to n=66, with OVERLAPPING 63-day windows, and crosses CLUSTER in
+  volatile periods. The +3.33 may be a handful of episodes — 2009, 2020 — restated 66 times.**
+  **NOT USABLE until the episode count is measured. That is the next cell, and it is a one-line addition:
+  print the DATES and count distinct episodes.**
+- *(LIVE, descriptive — [[portfolio-state]])* SPY **741.69**: **BELOW the ATH line (743.08) for 6 sessions**
+  and **the quarter line (744.92) for 7** — **already past the 75th percentile (5-6 sessions) of how long
+  these last**, though short of the 90th (9-14). **ABOVE the −5% trough line (723.25) by +2.55%.**
+  ⚠️ **And the uncomfortable read for a long put: the ONE anchor carrying a real cross signal points the
+  WRONG WAY — a cross below 723.25 historically preceded 63-day returns 2.5pp ABOVE base rate.**
