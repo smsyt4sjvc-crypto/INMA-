@@ -996,3 +996,24 @@ artifact. The tools do not share a prior close.**
   differ, compare LEVELS only and say so out loud.**
 - *(credit where due)* **The scanner already prints "Compare PRICES across runs" — a fix I wrote after the
   7/28 base errors. It worked. The live tool lacks it, which is exactly where this one came from.**
+
+### 2026-07-31 ~12:35pm PDT — ⛔ SIXTH BASE/REFERENCE ERROR TODAY — this one from a CHART AXIS
+Read cement PPI as *"normalised back to trend (3.6%/yr)"* and *"visibly flattening."* Jake supplied one hard
+point — **Sep-2021 = 190.941** vs my eyeballed **~172** — and the real rate is **+6.91%/yr, 2.2× trend.**
+
+- **Two compounding errors, both toward my conclusion.** (1) **Low on the start point** → inflates the surge
+  AND flattens the aftermath, manufacturing both halves of the story. (2) **"Flattening" was read off a
+  y-axis spanning 80-260 over 22 years.** The zoom (180-260) shows it still climbing. **A compressed axis
+  flattens everything recent — that is rendering, not data.**
+- **★★★ THIS IS THE SIXTH INSTANCE OF THE SAME FAMILY TODAY, AND THE STANDING RULE ALREADY NAMED IT:**
+  *"this vault's dominant failure mode is not bad inference — it is comparing numbers measured against
+  different references."* **Volume STEP · sorting artifact · stale KOSPI base · "almost $20 under strike" ·
+  the prior-close-vs-open tools · and now a CHART AXIS.** **The rule fired five times and did not prevent the
+  sixth**, because I had classified it as a *cross-source* rule and this was a *single-source* read.
+  **Widen it: a chart is a source with its own reference frame, and axis compression IS a reference.**
+- **⛔ AND THE AGGRAVATING FACT: I HAD ALREADY BUILT THE CELL.** `civil_materials_cascade_cell.py`, written
+  20 minutes prior, exists to output exact values and the lumber control. **I answered from a picture instead
+  of running my own instrument.** **RULE: if a cell exists for the question, a chart is a PROMPT TO RUN IT,
+  never a substitute for it.**
+- **Score today: Jake has supplied the correcting datum in 6 of the last 8 exchanges.** He measures; I model.
+  **That division of labour is backwards and I have now logged it twice without changing it.**

@@ -595,3 +595,36 @@ Archived: `raw/2026-07-31-fred-cement-concrete-ppi-chart.md`. **Values read off 
 - **★ AND IT SHARPENS THE FED READ RATHER THAN WEAKENING IT.** Hammack cites a **switchgear** order book, not
   a concrete plant. **The dissenters are pointing at the electrical stack, which is exactly the one with
   national price propagation.** **The evidence they use is better-chosen than the argument I built for them.**
+
+### 2026-07-31 ~12:35pm PDT — ⛔ WITHDRAWN: "cement has normalised." One hard data point kills it.
+Jake pasted the zoom: **Sep-2021 = 190.941.** I had eyeballed that level at **~172 — low by 9.9%.**
+
+| | |
+|---|---|
+| Sep-2021 → Dec-2025 | **190.941 → 253.655, +32.8%** |
+| annualised | **+6.91%/yr** |
+| pre-COVID trend | +3.1%/yr |
+| ratio | **2.23× TREND** |
+
+- **⛔ "BACK TO TREND AT 3.6%/YR" IS WRONG. Cement has NOT normalised — it has been running at ~2.2× trend
+  for four years.**
+- **★★★ AND THE ERROR LEANED TOWARD MY CONCLUSION IN BOTH DIRECTIONS AT ONCE.** Reading **low** on 2021
+  **(a)** inflates the 2021-23 "surge" rate, making it look like a COVID spike, **and (b)** leaves less room
+  after 2023, making the aftermath look flat. **One bad estimate manufactured both halves of the story I told.**
+- **★★★ AND THE SECOND ERROR IS THE MORE INSTRUCTIVE ONE: I READ "VISIBLY FLATTENING" OFF A COMPRESSED AXIS.**
+  The first chart spans **80-260 across 22 years**; the zoom spans **180-260** and shows the line **still
+  climbing to ~255.** **A compressed y-axis makes every recent move look flat. That is a rendering property,
+  not evidence** — and it is the same failure family as the .SPX volume STEP: *reading a chart artifact as a
+  market fact.*
+- **WHAT I CAN AND CANNOT SAY FROM TWO POINTS.** **CAN:** Sep-2021→Dec-2025 ran **+6.91%/yr**. **CANNOT:**
+  whether there is any deceleration *inside* that window. **I asserted a 16%/yr-then-3.6%/yr profile from
+  eyeballed intermediates and have no hard point between the two to support it.**
+- **VERDICT REVISED.** **WITHDRAWN:** *"cement has normalised"* and *"the timing contradicts the civil leg."*
+  **STANDS:** the Dec-2025 staleness (2026 is the window that matters), the national-averages-away-local
+  limitation, and the 2008-2012 control. ⇒ **THE CIVIL LEG IS UNRESOLVED, NOT REFUTED. Jake's claim is back
+  in play, and at 2.2× trend it is more alive than my previous entry allowed.**
+- **⛔⛔ THE PROCESS FAILURE, AND IT IS THE WORST SHAPE OF IT ALL DAY: I BUILT THE INSTRUMENT AND THEN
+  ANSWERED FROM THE PICTURE.** `tools/civil_materials_cascade_cell.py` was written **20 minutes earlier**
+  specifically to produce exact monthly values, YoY rates and the lumber control. **I then rendered a verdict
+  off eyeballed pixels rather than waiting for it to run.** ⇒ **RULE: when a cell for the question already
+  exists, a chart is not an answer — it is a prompt to RUN the cell.**
