@@ -103,3 +103,64 @@ Tool built: `tools/anchored_vwap_test_cell.py`. **Verdict registered BEFORE the 
   benchmark** (institutions are measured against VWAP), and **"the average price paid since date X" is a
   FACT** — a descriptive framing device. **Fact ≠ forecast.** [[seeing-vs-predicting]]: it tells you WHERE,
   which is free; it does not tell you which way, which is what the claim asserts.
+
+### 2026-07-30 ~5:30pm PT — ⛔ RESULT: PREDICTION SPLIT — 1 right, 2 WRONG. And the real finding is neither.
+`tools/anchored_vwap_test_cell.py` ran. SPY 1995-01-03 → 2026-07-30, 7,946 sessions.
+
+| # | registered claim | verdict |
+|---|---|---|
+| 1 | "AVWAP will NOT beat the matched-window SMA meaningfully" | **✓ CONFIRMED, decisively** |
+| 2 | "shuffle percentile lands BELOW ~80% ⇒ volume is noise" | **⛔ FALSIFIED on my own named falsifier** |
+| 3 | (cell commentary) "AVWAP and SMA CONVERGE as the anchor recedes" | **⛔ FALSIFIED — they DIVERGE** |
+
+- **⛔ #2 — I NAMED THE FALSIFIER AND IT WAS MET EXACTLY.** I wrote: *"if the shuffle percentile comes back
+  ≥95% on multiple anchors and horizons, I am wrong."* **Result: 5 of 12 cells ≥95%, including ATH at 100%
+  on ALL THREE horizons**, plus 52w-low 5d (96%) and −5%-trough 5d (100%). **Volume is doing something real
+  and systematic. It is not noise.**
+- **★★★ BUT THE SHUFFLE TEST ANSWERS THE WRONG QUESTION, AND THE OUTPUT SHOWS IT.** ATH 5d: **real −0.06 vs
+  shuffled −0.07 → percentile 100%.** **The effect is 0.01 percentage points.** Effect sizes across the five
+  "volume MATTERS" cells: **0.01, 0.08, 0.14, 0.01, 0.02 pp — median 0.02pp.** With 200 shuffles against
+  4,277 observations the shuffled distribution is razor-tight, so **a consistent but economically meaningless
+  difference lands at the 100th percentile.** ⇒ **Statistical significance without economic significance.**
+  **I was wrong that volume does nothing; I was right that it does not matter.** ⚠️ **DESIGN LESSON: my own
+  shuffle control — reused from `red_day_clustering_cell.py` — reports DISTINGUISHABILITY, not MAGNITUDE.
+  Every future shuffle test must print the effect size next to the percentile.**
+- **✓ #1 HOLDS AND IT IS THE LOAD-BEARING ONE.** AVWAP vs matched-window SMA, "above" rows at 63d:
+  ATH **+0.30 vs +0.19**; 52w-low **−0.35 vs −0.34**; quarter **−0.07 vs −0.06**; trough **+0.68 vs +0.67**.
+  **Median gap 0.01pp.** **AVWAP and a plain average of the same window are the same object to within a
+  rounding error.**
+- **★★★ THE ACTUAL FINDING, WHICH NEITHER OF US WAS ARGUING ABOUT: THE SIGNAL IS IN THE ANCHOR, NOT THE VWAP.**
+
+  | anchor, "below" side | 21d EDGE | 63d EDGE |
+  |---|---|---|
+  | quarter-start | +0.08 | **+0.14** |
+  | ATH | −0.01 | **−0.35** |
+  | 52w-low | −1.35 | **−2.44** |
+  | **−5% trough** | **−1.35** | **−3.55** |
+
+  **A 25× spread across anchors, versus a 0.01pp spread between AVWAP and SMA within an anchor.** ⇒
+  **AVWAP's apparent power is entirely BORROWED from the event you chose to anchor to.** This vindicates the
+  free-parameter critique from an unexpected direction: **the anchor is not merely a degree of freedom to
+  abuse — it is where 100% of the information lives.** *(And the SMA version of the trough anchor gives
+  −3.25 vs AVWAP's −3.55, so even there volume contributes ~8% of the effect.)*
+- **⚠️ AND THE BIG NUMBERS ARE MOSTLY ONE FACT REPEATED.** n=1,511 with **overlapping 63-day** windows ⇒
+  **effective independent n ≈ 24**, clustered in a handful of episodes (2000-02, 2008-09, 2020, 2022, 2025).
+  **"−3.55pp" restates *drawdowns persist*** — a known, weak effect — **not an AVWAP result.**
+- **✓ BLOCK C IS CLEAN AND CONFIRMS THE SCEPTICAL READ.** Distance-from-AVWAP quintiles, 63d:
+  **Q1 −1.39, Q2 +0.66, Q3 −0.03, Q4 +0.88, Q5 −0.10. NON-MONOTONIC.** The pre-registered rule was *"a real
+  level effect is monotonic; a single hot bucket is noise."* **Distance from AVWAP carries no usable
+  information.**
+- **⛔ #3 — MY CONVERGENCE CLAIM IS BACKWARDS.** Block D, AVWAP−SMA gap by anchor age: **20 sessions 0.65pt ·
+  40 sessions 1.00pt · 84 sessions 4.52pt · 951 sessions 10.92pt.** **They DIVERGE as the anchor recedes**,
+  because volume weighting pulls the average toward high-volume periods and that tilt compounds. Both series
+  flatten; they flatten to **different levels.** *Asserted in the cell's own commentary without checking.*
+- *(LIVE, descriptive — [[portfolio-state]])* SPY **741.69** sits **BELOW** the ATH-anchored VWAP (743.08,
+  −0.19%) and the quarter-anchored (744.92, −0.43%), **ABOVE** the −5%-trough-anchored (723.25, +2.55%). The
+  ATH-below state carries a 63d edge of **−0.35pp** — real, tiny, and identical to its SMA. The 52w-low anchor
+  (2022-10-12, 951 sessions, +38%) is exactly the dead horizontal line predicted.
+
+**NET VERDICT ON THE ORIGINAL CLAIM.** *"Ultimate sentiment-driven statistic"* — **no.** It is a moving
+average that matches a plain SMA to 0.01pp, whose distance metric is non-monotonic noise, and whose only
+large numbers come from the drawdown state of the anchor rather than from volume. **Volume is measurably
+non-random and economically irrelevant at ~0.02pp.** *What survives is narrower and more useful than either
+starting position: **anchor selection is a real research question; the VWAP part is decoration.***
