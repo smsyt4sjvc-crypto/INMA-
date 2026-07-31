@@ -140,3 +140,35 @@ noisy proxy for it — but it is what Tier 1 / ~$1k of capital permits ([[portfo
 3. Jackson Hole ~late August — ⚠️ **weakened**: a chair who deleted guidance may decline to use the venue.
 4. A credit event resolving first → thesis dies outright.
 5. Brent sustained >$100 → my number is too low.
+
+---
+
+## REVISION 2 — 2026-07-31 ~8:15am PT: **40% → 45% before December · 50% → 55% inside the put's life**
+Trigger: the 7/31 acute-scanner window. **The three dissenters went PUBLIC across every major wire inside 48
+hours of the meeting** — CNBC *"Fed officials who voted to hike rates say action is needed NOW against
+inflation"*; Bloomberg *"Fed Dissenters Say Rate Hikes Needed to Tame High Inflation"*; FT *"Federal Reserve
+rate dissenters warn of challenges in taming inflation"*; MarketWatch *"why waiting to raise rates could make
+inflation harder to tame."* Plus Reuters: **"Fed chief Warsh faces hard choice on inflation after bond
+market's 'RED FLAG'"** and FT **"What Warsh is (probably) up to."**
+
+- **★★★ THIS PARTIALLY REVERSES MY "THE DISSENTS ARE DEVALUED" ARGUMENT.** I discounted the 9-3 on Warsh's
+  *"I asked for a good family fight and I got one"* — engineered process, not breakdown. **A coordinated
+  press campaign 48 hours later is NOT engineered.** ⇒ **Warsh deleted forward guidance so the market would
+  price events instead of the Fed's reaction function. The dissenters are now supplying the guidance he
+  removed — through the wires.** *If the Chair will not guide, the committee guides around him.* That is a
+  structural consequence of the no-guidance regime that I did not anticipate and that Jake's original
+  instinct did.
+- **⚠️ THE COUNTER, STATED SO THE MOVE IS NOT AN OVER-CORRECTION.** **A public dissent campaign is what the
+  LOSING side does.** They lost 9-3; press is the remaining channel. It signals the intensity of the
+  disagreement, **not that they win in September.** And **the equity market is not paying for it: SPX +0.09%,
+  VIX 17.41.** ⇒ **+5 points, not +15.** (Per the logged over-correction pattern: *absolute → narrower
+  description*, never *absolute → opposite absolute*.)
+- **⚠️⚠️ AND THE KILL SWITCH WAS NOT READABLE THIS WINDOW. The scanner does not print the 2Y.** I registered
+  the 2Y as *"the whole test"* and then ran a full scan without it. **30Y 5.26% (+5bp, a fresh two-decade
+  high) and 10Y 4.73% (+7bp) are in hand; DGS2 is not.** **10Y rising FASTER than the 30Y is mid-curve
+  flattening — suggestive of the front end leading — but 10s30s is not 2s30s and I will not read it as such.**
+  **FIXED: `tools/acute_scanner_cell.py` now pulls DGS2/DGS10/DGS30 from FRED and prints 2s30s with an
+  explicit bear-flattening vs inflation-tolerance verdict line.**
+- *(supporting, unchanged direction)* **WTI +2.50% to 85.68, Brent 90.04**, with Hormuz contested, **CPC
+  halted again**, and Russian refineries burning. Oil keeps pushing the hawkish case — and remains the
+  category Warsh named in writing as look-through-able.
