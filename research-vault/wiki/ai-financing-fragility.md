@@ -2578,3 +2578,43 @@ establishes that such errors occur at a nonzero rate in a controlled setting wit
   **financing** (private credit), **power**, **memory cost**. **Add: REGULATORY/LIABILITY RISK ARISING FROM
   CAPABILITY ITSELF.** ⚠️ **A WARNING-state, not a trigger** — no date, no dollar amount, no named
   enforcement action. **It does not time anything and must not be traded as if it did.**
+
+### 2026-07-31 ~10:45am PDT — ⛔ THE ENTRY ABOVE WAS WRITTEN WITHOUT THE REGULATORY HISTORY. It is already TWO actions deep.
+Jake: *"It was the model that caused the black list for government and 'national security threat' BS in Feb."*
+**He is right that both a February blacklist and a national-security designation exist. The CAUSALITY is
+inverted, and these are TWO SEPARATE EVENTS four months apart.** Verified: Axios ×2, CNBC ×2, CNN ×2, Fortune.
+
+| when | action | actual cause |
+|---|---|---|
+| **Feb 2026** | **DoD moves to cut off Anthropic; Hegseth declares it a SUPPLY CHAIN RISK. Trump orders ALL federal agencies to stop using Anthropic models.** | **A CONTRACT DISPUTE — NOT Mythos.** Anthropic refused Pentagon terms that models could be used *"for any lawful purpose"*, seeking carve-outs from **autonomous weapons systems and mass domestic surveillance.** |
+| **early Mar** | Pentagon formalises **"supply chain risk"**: military must cease use; **defense contractors barred from using it on government contracts.** | same |
+| **Apr 19** | **NSA is using Mythos Preview ANYWAY, despite the DoD blacklist** (Axios scoop). | — |
+| **May 1** | Pentagon tech chief: Anthropic **still blacklisted**, but **"Mythos is a separate issue."** | — |
+| **Jun 12-13** | **Trump admin blocks FOREIGN access to Mythos and Fable; Anthropic SUSPENDS ALL ACCESS to Mythos.** Framed as export controls / national-security threat. | **A rival company claimed it could JAILBREAK Mythos**, alarming the administration. |
+| **Jun 26** | **Limited release restored** to some companies and government agencies. | — |
+
+- **★★★ SO THE COMPANY WHOSE VALUATION IS ~2/3 OF AMAZON'S REPORTED NET INCOME IS: under a DoD SUPPLY-CHAIN-RISK
+  designation, BANNED FROM FEDERAL PROCUREMENT since February, and has its flagship model under EXPORT
+  CONTROLS.** **I filed an analysis of Anthropic's regulatory exposure 20 minutes ago and treated the
+  regulatory hook as HYPOTHETICAL. It is not hypothetical — the apparatus is already engaged and has already
+  acted twice.** ⚠️ **That is a materially larger valuation risk than the containment incident**, and it flows
+  into the same two P&Ls (AMZN's ~$53B mark; GOOGL's four roles + the $15bn loan).
+- **★★ IT ALSO RE-FRAMES THE CYBER DISCLOSURE.** Self-publishing a cyber-incident postmortem **while already
+  designated a supply-chain risk and with the flagship under export control** is a far higher-stakes act than
+  I framed it. **F17 (the IPO) now carries: a DoD designation, a federal procurement ban, export controls, and
+  a fresh cyber disclosure — four nameable risk factors, not one.**
+- **★★ JAKE'S "BS" IS DEFENSIBLE ON FEBRUARY AND NOT ON JUNE, AND THE SPLIT IS THE POINT.** **February is a
+  PROCUREMENT FIGHT dressed as a security finding** — the designation followed a refusal to sell for
+  autonomous weapons and mass domestic surveillance, not a technical finding. **And the government contradicted
+  itself in public: the NSA kept using Mythos through the blacklist, and the Pentagon's own tech chief said
+  "Mythos is a separate issue."** **A designation one agency ignores and another carves out is contested, not
+  settled.** **June is different in kind** — an actual export-control response to a demonstrated jailbreak.
+- **🚩 NEW, AND IT IS A GENERAL MECHANISM: A RIVAL'S JAILBREAK CLAIM TRIGGERED EXPORT CONTROLS ON A
+  COMPETITOR'S FLAGSHIP.** **Jailbreak claims are now a REGULATORY ATTACK SURFACE between labs.** ⚠️ Motive
+  not established and not asserted — **but the structural fact is that demonstrating a rival's model is
+  unsafe now has a policy payoff.** **Cross-ref [[reflection-ai]] (the Nvidia-backed "American open-weight
+  champion") and the MAGA-framed open-weight lobbying already logged: one lab's blacklist is another's
+  opening.** ⇒ **This is a competitive-political vector the vault had not registered.**
+- **⛔ MY OWN GAP, NAMED:** I have a **May 2026 knowledge cutoff**, so Feb-May is inside it and I still did not
+  have this. **Being inside the cutoff is not the same as knowing it.** ⇒ **RULE: on any company-specific
+  regulatory question, SEARCH — do not rely on the cutoff as coverage.**
