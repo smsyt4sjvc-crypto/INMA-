@@ -762,3 +762,44 @@ falsifiable exit condition for a basket that currently has none.** 🚩 **Same p
   put).** [[dip-buying-base-rates]] STUDY 3: *"rate/tech-driven selloffs hit NDX HARDER (−36%, −23% vs SPX
   −25%, −19%)."* ⇒ **in a tech-led drawdown the long falls more than the hedge is paid for.** **$851 of QQQM
   against ~$31k of put notional makes it rounding today — it would matter if the equity sleeve ever scaled.**
+
+### 2026-07-31 ~4:55pm PDT — 90-DAY PLAN, PRE-WORK: capital map, the theta hurdle, and the screen
+Jake: *"We can sell positions… choosing 3/4 stocks that see 8-10% selling, buying dips… trades are free…
+ETF puts… reason through which stocks should move the most, and how to capture the money."* Then:
+**"Half into long options or holds that can be managed."** ⇒ **the objective is MOVEMENT CAPTURE, not income.
+Level 1 barely binds — buying shares and buying puts are both permitted.** *(⛔ my earlier CSP/covered-call
+framing was aimed at the wrong problem: he owns NO 100-share lot, so covered calls were never available.)*
+
+| | $ |
+|---|---|
+| **LOCKED** (3 SPY + 3 QQQM "own anyhow" + the Dec-745 hedge) | **5,504** |
+| **DEPLOYABLE** (SPAXX 5,313 + basket 497 + LLY 1,148 + odds) | **7,262** |
+| **half → managed positions** | **3,631** → at 3-4 names = **~$1,037 each, ~$346 per tranche in thirds** |
+| half → reserve | 3,631 |
+
+- **★★ "HOLDS THAT CAN BE MANAGED" MECHANICALLY MEANS CONCENTRATE.** Median basket position is **$9.68** —
+  **you cannot scale into $9.** Managing requires size; his own words force the opposite of the 23-name book.
+- **★★★ THE HURDLE RATE NOBODY HAD PRICED — THE THETA BILL.** Existing put **$8/day = $720/90d**. At *"half
+  into long options"* (~$3,631) the total runs **~$1,805 over 90 days = 25% OF DEPLOYABLE CAPITAL, paid
+  whether or not the thesis works.** ⇒ **Any long-option sleeve must clear 25% just to break even. That is
+  the number that should size the split, and it argues for weighting toward the MANAGED-HOLDS half.**
+- **⛔ AND "HALF/HALF" HIDES TWO DIFFERENT LOSS PROFILES.** **Long options: worst case ZERO — −100%, = 28% of
+  the whole book.** **Managed holds: worst case a DRAWDOWN** (−20% on a bad quarter = −$726).
+  ⇒ **The loss constraint binds almost entirely on the OPTIONS sleeve. That sleeve needs the number; the
+  plan as a whole does not.** *Still unanswered.*
+- **★★★ THE CAPSTONE CONSTRAINT, AND WHY HIS INSTINCT IS ALREADY RIGHT.** [[seeing-vs-predicting]]:
+  **movement predicts MAGNITUDE, not SIGN.** **He is not forecasting the 8-10% drop — he is REACTING to one
+  that already happened.** That is magnitude-based and sign-agnostic, which is the correct response to the
+  vault's own capstone. **The plan needs a TRIGGER, a FILTER and an EXIT — not a forecast.**
+- **✓ AND THE VAULT ALREADY HAS THE SUPPORTING RESULT.** [[weekly-momentum]] (549 weeks, 2,725 events):
+  ***"the barbell — prior-week quintiles = bottom 27% / 17% / 15% / 16% / top 26%."*** **Both tails beat the
+  middle and the LOSER tail beats the winner tail.** A measured basis for buying the drops.
+  Plus [[deep-value-reclaim]]: *"the 20-SMA reclaim requirement added ~3 points of CAGR while CUTTING VOL
+  NEARLY IN HALF"* — **the tested entry filter**, and [[median-line-dip]]: *"genuinely better SHORT-horizon
+  (1-3 month)"* — **90 days is exactly the window where it works.**
+- **🔧 BUILT: `tools/movement_capture_screen_cell.py`** — per name: **dips/yr (opportunity rate) · median depth ·
+  HEAT (median worst drawdown in the next 21d = the position-sizing input) · forward EDGE vs its own base rate ·
+  20-SMA reclaim rate and lag · EDGE measured FROM the reclaim.** **Measures the TRANSITION, not the STATE** —
+  the AVWAP work found those give opposite signs. **Survivorship flagged in the output, not hidden.**
+- **📌 DELEGATION (the token plan): the screen runs in COLAB, free, BEFORE the 8pm reset.** **Fable must not
+  spend its budget fetching prices — it reasons over a finished table.**
