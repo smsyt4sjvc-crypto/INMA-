@@ -1963,6 +1963,7 @@ Log as PASTE-time, not event-time, until the underlying appearance is dated. **F
   federal procurement ban → Jun 12-13 foreign access to Mythos/Fable blocked as export controls → Jun 26 limited
   restore → **Jul 1 export controls LIFTED** → Jul 24 NVDA open-weights letter → **Jul 31 this clip.**
   **Direction of travel is consistent: maximum restriction to public deregulation in ~7 months.** *(Analysis.)*
+    ⟲ SUPERSEDED 2026-08-01 → ai-financing-fragility.md:L2734 — Trump said 'we're looking at controls' on 7/30 -- the arc turned; and the clip anchoring the endpoint was UNDATED, which I flagged in the same entry and then ignored
 
 **Links:** [[metered-compute]] · [[ai-financing-fragility]] · [[compression-thesis]] · [[market-fragility]] · [[portfolio-state]]
 
