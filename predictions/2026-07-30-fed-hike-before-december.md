@@ -226,3 +226,60 @@ reading a yield curve, and it is the one instrument Warsh's no-guidance regime c
 **Kashkari named "massive investment in DATA CENTERS" as a new demand element in the inflation outlook**
 ([[ai-capex-cycle]] 7/31). **If this thesis pays, it may pay through the AI buildout being the thing that
 forces the Fed's hand — which is not the mechanism Jake or I started with.**
+
+---
+
+## REVISION 4 — 2026-08-01 ~12:40pm PDT: **50% → 55% before December · 58% → 62% inside the put's life**
+**Trigger: a REGISTERED KILL SWITCH FIRED.** Original file L71-73: *"if the market prints >45% for a hike by
+November, my 30% is the outlier and I should move, not him."* **Polymarket "Fed Decision in September?" prints
+25bps increase 60% · no change 39% · 25bps decrease 1.8% · 50+bps increase 1.6% ⇒ P(hike) = 61.6% for
+SEPTEMBER ALONE**, a strictly narrower window than the switch specified. Source: Kobeissi Letter screenshot
+(**T3 — promotional framing, real underlying data**), Jake paste.
+
+### WHY ONLY +5 AND NOT STRAIGHT TO THE MARKET
+- **★★ TWO MARKETS DISAGREE, AND MY OWN FILE RECORDS IT.** REVISION 2 L214: **"Swaps priced September OUT
+  after the meeting."** **Polymarket is thin and crypto-native; swaps/fed-funds futures are where size trades.**
+  **Adopting an event-market print as "the market" while the deeper market says otherwise is not calibration,
+  it is source-shopping.** 🚩 **CME FedWatch / swaps-implied September odds is the resolving pull.**
+- **⚠️ "RECORD 60%" IS CONTRADICTED BY THIS FILE'S OWN EVIDENCE TABLE.** L21, listed as a reason FOR the hike:
+  *"Sept odds touched ~60% mid-month."* **60% was reached two weeks ago and faded. This is the TOP OF AN
+  ESTABLISHED RANGE, not a new regime** — unless "record" means this specific Polymarket contract, a much
+  smaller claim than the framing carries.
+- **⚠️ THE CHART CANNOT ADJUDICATE IT: both plotted series are BLUE** (25bps increase AND no change). **I
+  cannot reliably tell which line held ~75-80% in June. Not read; not used.**
+
+### ⛔ THE CALIBRATION FINDING IS ABOUT ME, NOT THE FED
+**FOUR consecutive upward revisions (30→40→45→50→55), and L180 already noted every one came from evidence
+JAKE supplied — none from my own search.** **That is the signature of an anchor set too low and paid down in
+installments, not of good updating. A calibrated forecaster needs ONE correction, not four in the same
+direction.** ⇒ **Logged to [[_calibration]] as a bias, not a process win.**
+
+### ★★★ WHAT THE MARKET IS ACTUALLY PRICING — A GESTURE, NOT A CYCLE
+**25bp takes fed funds 3.63 → 3.88.** Against **core PCE 3.4% ⇒ real +0.48%**. Against **CPI 4.2% ⇒ real
+−0.32%.** **Not restrictive by any standard.** And the distribution says it too: **60% for 25bp vs 1.6% for
+50+.** ⇒ **JAKE'S FISCAL-DOMINANCE READ (7/31 ~11pm) SURVIVES THIS INTACT.** **A bank that hikes 25bp while
+real rates sit near zero and M2 keeps growing is not leaning against the fiscal leg — it is RATIFYING it
+while defending credibility.** **That IS the Fed Trap: $39T means they can gesture, not tighten.**
+**What would refute him: a CYCLE taking real fed funds meaningfully positive (~150bp+). Nobody prices that.**
+
+### ★★ AND THE POSITION CONSEQUENCE INVERTS THE GOOD NEWS
+**At 60% priced, a September hike delivers only ~40% of the surprise; a HOLD delivers ~60% of it in the
+BULLISH direction** — the outcome that hurts the SPY put. **The put needed an UNPRICED hawkish shock; this is
+a priced one.** ⇒ **Jake's directional call is looking RIGHT and the instrument expressing it is looking
+WORSE, for the same reason.** [[portfolio-state]].
+
+### ⛔⛔ THREE FAILURES TO READ ONE NUMBER — THE 2Y
+**L63 (7/30): "Current 2Y level NOT IN HAND."** **L166 (7/31): "the kill switch was NOT READABLE this
+window."** **Today: FRED timed out twice.** **Three days, three failures, on the switch I called "THE WHOLE
+TEST."** And the replacement — the September dissent count — **was established dead twice over on 7/31**
+(devalued by design per [[new-economy-regime]] L1610; unobservable if Warsh cuts meeting frequency).
+⇒ **★★★ I HAVE NOW BUILT TWO KILL SWITCHES I CANNOT READ. A SWITCH YOU CANNOT READ IS NOT A SWITCH — it is a
+comfort. The switch that DID work was none of mine: it was the market-price threshold at L72, which fired
+cleanly and unambiguously.** **Prefer market-price thresholds over interpretive ones.**
+
+### KILL SWITCHES — REVISED AGAIN
+1. **★ CME/swaps-implied September odds** (NOT Polymarket). **>55% there = move to the market. <35% = the
+   event market is the outlier and 55% is too high.** *(Market-price threshold — the only kind that has worked.)*
+2. **DGS2 via the patched scanner** when FRED is reachable. Rising 2Y = confirmation.
+3. **Jackson Hole (~late Aug)** — where a September move gets pre-committed.
+4. **A credit event resolving first** → the Fed goes the other way and this dies outright.
