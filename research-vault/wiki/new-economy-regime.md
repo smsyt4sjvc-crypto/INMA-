@@ -2127,3 +2127,59 @@ Source: NYT via **Reuters (6.7h) AND Bloomberg (7.1h)** — two wires on one NYT
   to anything."* **Both changes reduce the number of scheduled, readable signals the Fed emits.** *(Analysis.)*
 
 **Links:** [[market-fragility]] · `predictions/2026-07-30-fed-hike-before-december.md`
+
+## 2026-07-31 ~10:13pm PDT — M2 CHART (Jake) × THE ABSENT-FED QUESTION: ⛔ HE WAS RIGHT AND I ANSWERED THE WEAKER VERSION
+
+Source: FRED `M2` screenshot, Jake, phone clock 10:13pm PDT. `raw/fred-m2-chart-2026-07-31.png`.
+⚠️ **FRED WAS UNREACHABLE THROUGH THE PROXY — two timeouts on `M2SL`. Every number below is the VAULT's
+dated figure, NOT a refresh, and NOTHING is eyeballed off the chart.** *(Six base/reference errors today came
+from reading values off compressed images. The chart contributes SHAPE only.)*
+
+### DATA (observed — vault figures, dated; chart contributes shape only)
+- **M2 record $23.05T (2026-06); YoY +5.6% (2026-05)**, reaccelerating from negative. *(vault L19)*
+- **Fed balance sheet $6.66T (2025-06) → $6.74T (2026-06) = +1.2% in a year.** *(vault L21)*
+- **CPI YoY 4.2%, core PCE 3.4% (both 2026-05); real fed funds +0.2–0.5%; fed funds 3.63 (2026-06).**
+- **`financial_gravity.ipynb` (2026-07-19): R² log-SPX on log-M2 = 0.94, ELASTICITY 1.60** (vs Fed BS 0.72 /
+  0.91). **SPX moved 2.40x; SPX/M2 moved 1.72x; SPX/M2 trend +4.2%/yr.**
+- **CHART SHAPE ONLY:** 2022 peak → 2023 trough → recovery crossing the old high → **terminal segment visibly
+  steeper than the middle of the recovery.** ⚠️ **The terminal SLOPE is NOT quantified and must not be.**
+
+### THESIS (interpretation — NOT fact)
+- **⛔ CONCEDED — JAKE'S ABSENT-FED-IS-STIMULUS THESIS IS RIGHT THROUGH A CHANNEL I DISMISSED.** 85 minutes
+  earlier I answered *"not stimulus, variance"* — but I was refuting the **PSYCHOLOGICAL** version (traders
+  stop fearing interference, so they bid), which is the version he happened to phrase and the weak one.
+  **The MECHANICAL version is strong and this chart is its evidence:** the vault's own decomposition is
+  **M2 = Fed + bank credit + fiscal**, and **the Fed's balance sheet grew 1.2% while M2 hit a record.**
+  ⇒ **The money growth is NOT the Fed's. A Fed that has stopped leaning against credit creation PERMITS
+  monetary expansion from the private and fiscal channels — literal stimulus requiring ZERO basis points of
+  cuts.** *(Analysis. ★ Method note: I refuted the phrasing instead of steelmanning the claim. The stronger
+  form was available in this vault's own M2 decomposition.)*
+- **★★★ AND THE SAME SERIES IS THE STRONGEST EVIDENCE FOR THE 50% HIKE CALL. Both readings live off one
+  chart, and that is not a contradiction — it is the Fed Trap stated in a single series:** *the money is
+  growing because they cannot afford to stop it, and it will keep growing until it forces them to.*
+  **Tonight's tape is the bond market pricing exactly that: 10Y +8bp to 4.74, 30Y +7bp to 5.28** — rising
+  term premium **is** the charge for money growth nobody is offsetting. **And Musalem said it out loud the
+  same evening: the Treasury selloff means the Fed must earn credibility "with interest rate increases."**
+  *(Analysis.)*
+- **⚠️ THE CORRECTION THAT MATTERS MOST — NOMINAL vs REAL. M2 +5.6% against CPI +4.2% is ~+1.3% REAL.**
+  **A nominal quantity charted through 4% inflation will ALWAYS look vertical.** The steepness is mostly the
+  price level. **This is a base/reference trap in chart form, and it is the seventh of the day.**
+  🚩 **NEXT DATA STEP: pull `M2REAL` and re-read the same window.** *(Analysis.)*
+- **⚠️ THE MARKET ALREADY OUTRAN IT.** SPX 2.40x vs SPX/M2 1.72x, **SPX/M2 at a trend high.** *"Equities are
+  cheap on a liquidity basis"* **is not available here.** And **elasticity 1.60 is SYMMETRIC** — M2 rolling
+  over hits 1.6x as hard. *(Analysis.)*
+- **★ THIS IS A REGISTERED FALSIFIER NOT TRIGGERING, i.e. CONFIRMATION, NOT NEWS.** L132: *"M2 YoY rolls back
+  negative / WALCL resumes falling → debasement read weakens."* **It has not. The debasement base case
+  holds.** *(Analysis. Filed so the chart is not double-counted as fresh evidence later.)*
+- **★★ FOR THE BOOK, IT SPLITS: M2 acceleration is BULLISH the long AI-capex basket via liquidity and
+  BEARISH it via the policy response it provokes. The SPY put hedges the second and not the first** — the
+  liquidity melt-up is precisely what it loses to. **Unchanged: $1,805 theta, flat −$3,100/−$3,300 across the
+  upside.** **What resolves the fork is the Act-3 arithmetic — real fed funds +0.2–0.5% and $39T of debt
+  unserviceable above 5%.** If the Trap binds, M2 runs and the hike is a gesture. **If the debt constraint is
+  looser than this vault assumes, they lean, and 1.60 works against everything he owns.** *(Analysis.)*
+
+**Links:** [[market-fragility]] · [[detachment-bid]] · [[portfolio-state]] · [[consumption-vs-investment-crux]]
+
+### Sources
+- FRED M2 chart, Jake paste 2026-07-31 ~10:13pm PDT — `raw/fred-m2-chart-2026-07-31.png`
+- Vault figures: `new-economy-regime.md` L19-27 (Act 3), L1155-1172 (financial_gravity), L132 (falsifiers)
