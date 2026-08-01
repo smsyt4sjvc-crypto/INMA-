@@ -42,7 +42,7 @@ MEM   = [('MU','Micron'), ('SNDK','SanDisk'), ('STX','Seagate'), ('WDC','WestDig
 def px_block(title, rows):
     print(f'\n### {title}')
     print(f'  {"":13}{"last":>12}{"chg%":>9}{"BASE":>12}   as of')
-    tick = [t for t,_ in rows]
+    tick = [t for t,_ in rows]; moves = []
     try:
         df = yf.download(tick, period='5d', progress=False, auto_adjust=True, threads=True)['Close']
     except Exception as e:
@@ -53,10 +53,42 @@ def px_block(title, rows):
             s = df[t].dropna()
             if len(s) < 2: print(f'  {lab:13}   -- n/a'); continue
             last, base = float(s.iloc[-1]), float(s.iloc[-2])
-            print(f'  {lab:13}{last:>12,.2f}{(last/base-1)*100:>+9.2f}{base:>12,.2f}   {s.index[-1].date()}')
+            ch = (last/base-1)*100; moves.append((lab, ch))
+            print(f'  {lab:13}{last:>12,.2f}{ch:>+9.2f}{base:>12,.2f}   {s.index[-1].date()}')
         except Exception:
             print(f'  {lab:13}   -- n/a')
     print('  (chg% is vs the BASE column = prior session close. Compare PRICES across runs.)')
+    _price_alarms(title, moves)
+
+# ── PRICE ALARMS — added 8/1 after the scanner printed SK hynix +29.95% (0.05pp off the
+#    KRX daily limit) next to Micron -5.90% and raised NOTHING. Every alarm below is
+#    PRICE-ONLY. The keyword tier could not have caught it: the KOREA thread's words are
+#    kospi/circuit breaker/de-gross/margin call, and the wire said "SK Hynix Surged 30% in
+#    South Korea." A limit-up is not a vocabulary event.
+#    ⇒ THE GAP WAS STRUCTURAL: the scanner held prices and headlines in the same run and
+#      NEVER CROSSED THEM. A move can be the story even when no headline says so.
+LIMIT_UP = {'Samsung Elec': 30.0, 'SK hynix': 30.0}      # KRX daily price limit, +/-30%
+def _price_alarms(title, moves):
+    if not moves: return
+    out = []
+    for lab, ch in moves:
+        lim = LIMIT_UP.get(lab)
+        if lim and abs(ch) >= lim - 0.5:
+            out.append(f'!! {lab} {ch:+.2f}% — WITHIN 0.5pp OF THE {lim:.0f}% DAILY LIMIT. '
+                       f'A limit move is a FLOW event until proven fundamental. Check the ADR: '
+                       f'if it disagrees, the local move is positioning, not news.')
+        elif abs(ch) >= 10:
+            out.append(f'!! {lab} {ch:+.2f}% — DOUBLE-DIGIT SINGLE SESSION on a mega-cap. '
+                       f'Confirm it is not a split/dividend/currency artifact BEFORE reading it.')
+    hi, lo = max(moves, key=lambda x: x[1]), min(moves, key=lambda x: x[1])
+    spread = hi[1] - lo[1]
+    if spread >= 15:
+        out.append(f'!! DISPERSION {spread:.1f}pp INSIDE ONE BLOCK — {hi[0]} {hi[1]:+.2f}% vs '
+                   f'{lo[0]} {lo[1]:+.2f}%. Same industry moving opposite is a SORT, not a drift: '
+                   f'name the axis it sorted on before reading any single name.')
+    if out:
+        print(f'  {"-"*72}')
+        for o in out: print(f'  {o}')
 
 # ---------------------------------------------------------------- FRONT END
 # Yahoo has no clean 2Y ticker (^FVX=5Y, ^IRX=13wk), so the 2Y comes from FRED.
@@ -133,7 +165,8 @@ THREADS = {
  'AI-POLICY': ['export control','entity list','blacklist','huawei','huang','jensen',
                'chip ban','chip export','tech transfer','sovereign ai','ai regulation',
                'ai policy','diffusion rule','deregulat','preempt','smic','state ai law'],
- 'KOREA':     ['kospi','circuit breaker','de-gross','degross','leveraged etf','margin call'],
+ 'KOREA':     ['kospi','kosdaq','circuit breaker','de-gross','degross','leveraged etf',
+               'margin call','south korea','limit up','limit-up','daily limit','krx'],
 }
 # TWO KEYWORD CLASSES — this distinction is the whole gate and it was WRONG on first build.
 # STRICT: short acronyms where a suffix creates a false positive. \bKWs?\b only.
