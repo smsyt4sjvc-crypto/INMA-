@@ -89,3 +89,46 @@ dips further?"* Two are **war-tape** base rates (this war only); one is a **regi
 - **STUDY 3 update:** ATH 7610 (6/2/26); SPX ≈ **7417** now = **−2.5%**. His 2% takes it to −4.5% — **still
   inside "wobble," a quarter of the −18.9% median real correction.** Cuts both ways: shallow moves are common
   (his point), *and* nothing about the current tape says a real correction has begun (mine).
+
+## 2026-07-31 ~5:20pm PDT — ★★★ MOVEMENT-CAPTURE SCREEN, RUN 1 (Jake's Colab, 34 names, 2015→)
+`tools/movement_capture_screen_cell.py`. Dip = **≥8% off a 63d high**, transition-measured, 21d cooloff.
+
+- **⛔ FIRST: A BUG IN MY CELL INVALIDATES THE `rec%` / `r*` / `score` COLUMNS.** The reclaim loop started at
+  the **TRIGGER DAY**, so a name 8% off its high but **still ABOVE its 20-SMA** logged *"reclaimed, lag 0."*
+  **It filtered nothing — rec% came back 100% on 29 of 34 names, lag 0 on six** (IREN, NBIS, RIVN, AMD, ARM,
+  MP). **[[deep-value-reclaim]] requires BELOW the 20-SMA first, THEN a cross back above.** **Patched: events
+  that never go below are now EXCLUDED. Re-run required.** ✓ **The `e*` columns never touch the SMA and are
+  UNAFFECTED — everything below rests on those.**
+
+### ★★★ THE HEADLINE, AND IT INVERTS A FOLK RULE — DO NOT BUY THE MEGACAP-LEADER DIP
+| name | n | e21 | e63 | HEAT |
+|---|---|---|---|---|
+| **NVDA** | **53** | **−3.0** | **−3.6** | −5.4 |
+| AVGO | 44 | −1.2 | −1.6 | −4.3 |
+| TSM | 41 | −1.1 | −0.9 | −3.8 |
+| SWKS | 46 | −2.2 | −1.9 | −6.5 |
+| COHR | 47 | +0.2 | **−4.4** | −6.5 |
+**NVDA is NEGATIVE at EVERY horizon on n=53.** ⇒ **Buying NVDA dips has UNDERPERFORMED simply holding NVDA.**
+Mechanism: **its drift is so strong that the dip-conditional return is WORSE than the unconditional one** —
+the dip is not an opportunity, it is a sample of the name's bad days. **"Buy the leader on weakness" is
+measurably wrong here, n=53.**
+
+### THE USABLE RANKING — EDGE PER UNIT OF HEAT (n≥19; HEAT = median worst 21d drawdown after entry)
+| tkr | n | e63 | HEAT | e63/HEAT |
+|---|---|---|---|---|
+| **AMAT** | 46 | **+8.8** | **−2.4** | **3.67** |
+| **IWM** | 33 | +2.8 | −0.9 | **3.11** |
+| **SPY** | 19 | +3.6 | −1.2 | **3.00** |
+| XLK | 35 | +3.7 | −2.3 | 1.61 |
+| SMH | 37 | +3.9 | −2.6 | 1.50 |
+| LRCX | 53 | +4.2 | −3.1 | 1.35 |
+- **★★ AMAT IS THE STANDOUT: +8.8% edge at 63d on n=46 with only −2.4% HEAT.** Best in the table by a wide
+  margin, **and it is already a 5% basket position.** **LRCX (4%) is the same cluster.** ⇒ **SEMICAP EQUIPMENT
+  beats the megacaps it sells to, on dip-buying, decisively.**
+- **★ IWM and SPY: small edge, almost NO heat.** The low-drama expression — and **SPY only gives 1.6 dips/yr**,
+  so the opportunity rate is the binding constraint, not the edge.
+- **⚠️ THE TOP OF THE `score` COLUMN IS A TRAP.** IREN scored 3.30 on **n=14, 119% vol, −10.3% HEAT**; NBIS on
+  **n=8**. **Both used the BROKEN r21, and survivorship hits the neoclouds hardest — the ones that FAILED are
+  not in the sample at all.** **Lottery tickets, not strategies.**
+- **📌 FOR THE 90-DAY PLAN: HEAT IS THE SIZING INPUT.** At $1,037/name, **AMAT's −2.4% HEAT = sit through
+  −$25**; **MP's −9.0% = −$93**; **IREN's −10.3% = −$107.** *Size for the heat, not the entry.*
