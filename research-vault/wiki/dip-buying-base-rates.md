@@ -201,6 +201,7 @@ test — not that he does not already own it.**
   2. **HORIZON CONSISTENCY** — e21 and e63 must agree in sign. One hot cell is a coin flip.
   3. **MIN n ≥ 25** events.
 - **★★ AND THE SCREEN GRADES ITSELF: a pure-noise universe would leave ~12% of names "surviving" all three.**
+  ⟲ SUPERSEDED 2026-08-01 → dip-buying-base-rates.md:L229 — the ~12% was 0.5^4 doubled by hand; E63/L63 are subsets of the e63 events so the tests are correlated and the true null is higher -- replaced by a measured permutation null
   **If the survivor count comes back near 12%, the whole exercise is noise and should be discarded.** *That
   number is printed in the output so the result cannot be read without its own null.*
 - **★ SECTOR TALLY ADDED — the question the 34-name run could not ask.** If survivors **cluster in one or two
@@ -210,3 +211,70 @@ test — not that he does not already own it.**
   ≥12d WAIT FOR THE RECLAIM.**
 - **⚠️ SURVIVORSHIP IS WORSE HERE, NOT BETTER.** This is **TODAY's** S&P 500 — every deleted name is absent.
   **The ranking is usable; the LEVEL is optimistic.** Stated in the output, not buried.
+
+---
+
+## 2026-07-31 ~7:55pm PT — RUN 3 GRADED (whole S&P 500) + ⛔ THE NULL WAS A GUESS
+
+### DATA (observed)
+- **`dip_universe_screen_cell.py` run: 525 tickers → 500 passed n≥25 → 96 survivors = 19.2%.**
+- **Sector survivor RATE (not count — the count just tracks sector size):**
+  `ETF 8/18 = 44%` · `Materials 10/26 = 38%` · `Staples 12/32 = 38%` · `Utilities 10/30 = 33%` ·
+  `Financials 14/72 = 19%` (= universe average) · `Health Care 5/57 = 9%` · `Comm Svcs 1/23 = 4%`.
+- **Nine of the top 30 degrade badly when measured by MAGNITUDE rather than sign** (post-2021 e63 as a
+  fraction of pre-2021): **MRNA 0.11** (+25.3 → +2.8), ROP 0.09, MOS 0.16, ECL 0.29, IEX 0.31, KDP 0.35,
+  HON 0.40, FAST 0.43, WM 0.57.
+- **14 names clear a STRICTER test** (post ≥ 0.6× pre **and** e63/HEAT ≥ 1.5), by ratio:
+  `CSCO 4.29 · SO 3.73 · AMAT 3.67 · CINF 2.92 · PCAR 2.75 · DG 2.11 · JNJ 2.05 · MRK 2.00 · TJX 1.90 ·
+   DTE 1.86 · LIN 1.62 · XLK 1.61 · XLRE 1.54 · SMH 1.50`
+- **⛔ CORRECTION — the "~12% pure-noise floor" printed by my own cell was a GUESS, not a computation.**
+  ⟲ SUPERSEDES dip-buying-base-rates.md:L203 — the ~12% was 0.5^4 doubled by hand; E63/L63 are subsets of the e63 events so the tests are correlated and the true null is higher -- replaced by a measured permutation null
+  Derived as `0.5^4 = 6.25%` and **doubled by hand because it felt too tight.** It is wrong in a KNOWN
+  direction: **E63 and L63 are computed from SUBSETS of the same events that produce e63**, so the four
+  tests are **correlated by construction** and the true null is **higher** than 6.25%.
+- **⛔ SECOND ERROR, FOUND WHILE FIXING THE FIRST — my first permutation design was ALSO wrong.**
+  Shuffling each name independently gives a null universe with **no shared crashes**, while the real
+  universe has 500 names that **all dipped in Mar-2020 and all recovered together.** That makes the null's
+  spread far too tight and the p-value flattered. Fixed by adding **[SYNC]** — one calendar reordering
+  applied to **every name at once**.
+- **`dip_permutation_test_cell.py` (built, VALIDATED, NOT YET RUN ON REAL DATA).** Three nulls (IID /
+  BLOCK / **SYNC ★**) × three questions (survivor rate / best single e63 / ETF subgroup) × 100 shuffles.
+  **End-to-end validated against known truth on synthetic universes:** random walks → *"INDISTINGUISHABLE
+  FROM NOISE"* (p=0.500); **+4bp/day post-dip drift injected → *"REAL"* (p=0.038, the floor at 25 shuffles).**
+  **The cell has power to detect an edge and correctly rejects when there is none.**
+- **★ CALIBRATION FROM THE SYNTHETIC RUN (420 names, common market factor):** null mean **13.4%**,
+  **SD 3.4pp**, **95th percentile 17.8%** — versus the IID null's SD of only **1.9pp**. **The per-name
+  shuffle understates the spread by ~1.8×, exactly as predicted.**
+
+### THESIS (interpretation — NOT fact)
+- **🚩 THE REAL 19.2% IS PROBABLY MARGINAL, NOT A PASS.** On the synthetic calibration the [SYNC] null's
+  95th percentile is **17.8%** and 19.2% sits just past it — that is **p ≈ 0.05–0.10 territory, not p < 0.01.**
+  *(Analysis. The synthetic universe's parameters are not the market's, so this is a PRIOR, not the result.
+  The real run decides. But it means the honest expectation is "weak/marginal," and I should not be
+  surprised into re-explaining a fail.)*
+- **★★ THE RATE IS THE SIGNAL, NOT THE LIST.** Health Care 9% and Comm Svcs 4% are **below** the universe
+  average — those sectors are where an 8% drop is more often a **permanent repricing** (an FDA letter, a
+  lost ad cycle) than a dislocation. Staples/Utilities/Materials at 33-38% are where an 8% drop is more
+  often just **flow**. *(Analysis.)*
+- **★★ ETFs AT 44% IS THE TOP RATE AND THE ONLY ONE WITH A CLEAN MECHANISM: an ETF CANNOT HAVE
+  IDIOSYNCRATIC BAD NEWS.** A single stock down 8% may be permanently repriced; an **index** down 8% is a
+  market event, and market events mean-revert. **This cuts directly against the shape Jake asked for**
+  ("3/4 stocks that see 8-10% selling") — the best dip-buy base rate belongs to a vehicle that **isn't a
+  stock**. *(Analysis. n=18 ETFs is a SMALL subgroup — Q3 in the permutation cell exists to test exactly
+  this, and it is the claim most likely to evaporate.)*
+- **★ AMAT SURVIVES THE 500-NAME UNIVERSE *AND* THE STABILITY TEST (3.67).** Its #1 finish in the 34-name
+  run was **not** an artifact of a small universe — the one result from run 2 that held up. *(Analysis.)*
+- **⚠️ THE "BOTH HALVES POSITIVE" OOS FILTER IS TOO WEAK — it is a SIGN test where it needed to be a
+  MAGNITUDE test.** MRNA topped the entire e63 ranking **on COVID** and passed because +2.8 > 0.
+  *(Analysis. Fix: require post ≥ 0.6× pre, which is what produced the 14-name list.)*
+- **⚠️ NONE OF THE ABOVE MEANS ANYTHING IF THE PERMUTATION TEST FAILS Q1.** The 96 survivors, the sector
+  rates, and the 14-name shortlist are all downstream of a survivor count that **may be what noise
+  produces.** *(Analysis.)*
+- **⚠️ AND A PASS STILL DOES NOT MEAN MONEY.** Survivorship is present in **both** arms, so it **cancels
+  out of the p-value and survives intact in the level.** And run 2's arithmetic is unchanged: **$226 of
+  expected dip edge against an $1,805 theta bill.** *(Analysis. Statistical reality and tradeability are
+  two different claims; the permutation test only settles the first. See [[portfolio-state]].)*
+
+### Sources
+- `tools/dip_universe_screen_cell.py` run 1, pasted output, 2026-07-31 ~7:30pm PT
+- `tools/dip_permutation_test_cell.py` — built + synthetic validation, 2026-07-31 ~7:55pm PT
