@@ -132,3 +132,54 @@ measurably wrong here, n=53.**
   not in the sample at all.** **Lottery tickets, not strategies.**
 - **📌 FOR THE 90-DAY PLAN: HEAT IS THE SIZING INPUT.** At $1,037/name, **AMAT's −2.4% HEAT = sit through
   −$25**; **MP's −9.0% = −$93**; **IREN's −10.3% = −$107.** *Size for the heat, not the entry.*
+
+## 2026-07-31 ~5:45pm PDT — ★★★ RUN 2 (filter fixed): the reclaim filter HURTS the best names, and the EV collides with the theta bill
+
+### ★★★ FINDING 1 — THE FILTER IS A TRADE OF RETURN FOR SAFETY, AND THE **LAG** COLUMN TELLS YOU WHICH
+| tkr | n | lag | e63 | r63 | Δ |
+|---|---|---|---|---|---|
+| **AMD** | 53 | 13 | +1.2 | **+5.1** | **+3.9** |
+| **INTC** | 46 | 11 | +2.3 | **+4.8** | **+2.5** |
+| QQQ | 27 | 11 | +2.2 | +3.9 | +1.7 |
+| **LRCX** | 53 | 9 | **+4.2** | +1.6 | **−2.6** |
+| **QRVO** | 45 | 10 | +3.9 | +0.3 | −3.6 |
+| **AMAT** | 46 | **6** | **+8.8** | +4.1 | **−4.7** |
+**The filter CUTS AMAT's edge — the best in the table — IN HALF. It QUADRUPLES AMD's and DOUBLES INTC's.**
+**MECHANISM: waiting for the reclaim means entering LATER and HIGHER. On a name that SNAPS BACK you forfeit
+the move; on a name that GRINDS you dodge the knife.**
+⇒ **DECISION RULE, and the lag is the selector: LAG ≤9d → BUY THE DIP DIRECTLY. LAG ≥12d → WAIT FOR THE
+RECLAIM.** Fast: **AMAT(6), AVGO(8), LLY(9), LRCX(9), NVDA(6)**. Slow: **AMD(13), MU(12), XLK(12), ORCL(12),
+COHR(12), SWKS(12), ARM(12), IREN(17)**.
+- **★★ THIS REFINES [[deep-value-reclaim]], IT DOES NOT CONTRADICT IT.** That note measured the filter at
+  **PORTFOLIO** level: *"+3 points of CAGR while CUTTING VOL NEARLY IN HALF."* **Per NAME it is not uniform —
+  it buys safety with return, and whether the trade is worth it is READABLE FROM THE LAG.** The portfolio
+  result and the per-name result are both true; the vault only had the first.
+- *(and rec% is still ~94-100% everywhere even after the fix — so the reclaim is near-UNIVERSAL after an 8%
+  dip. It is therefore a **TIMING device, not a selector**. It never told you WHICH name; it tells you WHEN.)*
+
+### FINDING 2 — 90 DAYS BUYS YOU ABOUT **FOUR SETUPS**
+AMAT 0.99 · LRCX 1.13 · MU 1.16 · SMH 0.79 = **4.07 expected entries.**
+⇒ **This is not an active-trading plan. It is WAIT-AND-STRIKE with long idle stretches. Budget patience,
+not screen time.** *(HEAT at $1,037/name: AMAT −$25 · LRCX −$32 · SMH −$27 · MU −$65.)*
+
+### ⛔⛔ FINDING 3 — THE DECISIVE ONE: THE DIP EDGE DOES NOT COVER THE OPTION CARRY
+**All four firing once at $1,037 and capturing their full e63 edge = `+$226` on $4,148 = `+5.4%`/90d.**
+**The theta bill on "half into long options" = `−$1,805`.**
+⇒ **THE OPTION SLEEVE'S CARRY IS 8× THE DIP SLEEVE'S ENTIRE EXPECTED EDGE.**
+- **★★★ AND NO AMOUNT OF DIP-BUYING AT THIS ACCOUNT SIZE FIXES IT.** Deploying the **whole** $7,262 at the same
+  rate yields ~**$392** — still a fifth of the carry. **The problem is not the strategy. It is that the option
+  position is LARGE RELATIVE TO THE BOOK** (the Dec put alone is **19%** of $12,766; adding another $1,800
+  makes decaying instruments **~33%**).
+- **⇒ THE REFRAME: THESE ARE NOT TWO HALVES OF ONE PLAN. THEY ARE TWO INDEPENDENT BETS WITH OPPOSITE CARRY.**
+  **Sleeve A (dip capture): ~$4,148, ~+5%/90d, low heat, 4 setups — this is the EDGE.**
+  **Sleeve B (the put): $2,410 committed, −$720 carry, pays only below SPY 711.63 — this is a WAGER.**
+  **Adding to B doubles the carry without touching the edge.** *(Descriptive, rule 7: this is the arithmetic,
+  not an instruction. Jake has already said B is a deliberate, accepted risk.)*
+- **⚠️ EVERY REASON +5.4% IS TOO HIGH:** edge is over each name's OWN base rate · **survivorship — the failures
+  are absent** · assumes all four caught and held 63d · overlapping windows ⇒ optimistic t-stats.
+
+### THE SHORTLIST, FROM MEASUREMENT
+**AMAT** — best in table: **e63 +8.8, HEAT −2.4, n=46, 4 dips/yr, lag 6 ⇒ BUY DIRECT, DO NOT WAIT.**
+Already a 5% basket position. **LRCX** (+4.2, lag 9, direct) · **MU** (+4.9, lag 12 ⇒ wait for reclaim, HEAT
+−6.3 so size smaller) · **SMH/XLK** (ETF expression, lowest heat).
+**AVOID on measurement: NVDA (−3.6, n=53), AVGO, TSM, SWKS, COHR, MP, ARM.**
