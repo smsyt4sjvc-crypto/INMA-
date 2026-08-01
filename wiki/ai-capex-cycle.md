@@ -1968,3 +1968,45 @@ Log as PASTE-time, not event-time, until the underlying appearance is dated. **F
 
 ### Sources
 - Yahoo Finance TikTok (Reuters footage), 3 frames — Jake paste 2026-07-31 ~8:22pm PT
+
+### Addendum 2026-07-31 ~8:40pm PT — ★★ THE AI ADVISORY COUNCIL: who has the President's ear, and who does NOT
+
+Jake asked who the third man in the clip was. **I could not identify him** (best guess **Larry Ellison, ~60-65%**,
+on the bald-crown-plus-white-beard match; **NOT filed as fact** — this is the same compressed-image evidence class
+flagged in the entry above). **But the search to settle it surfaced something the vault did not have:**
+
+#### DATA (as-reported — web search 2026-07-31 ~8:35pm PT)
+- **March 2026: Trump named Mark Zuckerberg (Meta), Jensen Huang (NVDA), and Larry Ellison (Oracle) to a White
+  House AI advisory panel / tech council.** (Forbes 2026-03-25; Fortune 2026-03-25; AOL/AP)
+- **Elon Musk and Sam Altman were EXCLUDED.** (Fortune headline states this explicitly.)
+- ⚠️ **Not yet verified from a primary source** — three secondary outlets on the same date, one of them
+  ("report says") sourced to another outlet. **Treat membership as well-supported, the full roster as unconfirmed.**
+- Also surfaced, undated relative to the clip: **May 2026 — Huang was initially OFF the roster for Trump's China
+  state visit** (Tom's Hardware) **and then added as a last-minute addition after Trump called him** (CNBC,
+  Bloomberg, 2026-05-13). **The clip itself remains UNDATED and UNLOCATED — no search result matched either quote.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★ THIS UPGRADES THE CLAIM I MADE 25 MINUTES AGO.** I wrote that the podium message was *"the message NVDA
+  paid to place,"* citing the 7/24 open-weights letter — an OUTSIDE lobbying channel. **Huang also holds a FORMAL
+  SEAT advising the President on AI policy.** That is a materially stronger channel than a signed letter.
+  *(Analysis. Strengthens the prior entry; does not retire it — the letter is still the public artifact.)*
+- **★★★ THE EXCLUSIONS ARE THE FINDING. The council's members and the 7/24 letter's signatories are close to the
+  SAME GROUP — and the same two firms are missing from both.** [[metered-compute]] L143 logs the letter's notable
+  absentees as **OpenAI, Anthropic, Google — the pure closed-frontier labs.** The council excludes **Altman**.
+  **Open-weight / infrastructure interests have the President's ear; closed-frontier labs do not.** *(Analysis.)*
+- **★★ AND IT COMPOUNDS THE ANTHROPIC REGULATORY THREAD.** [[ai-financing-fragility]] L2596: a company under a DoD
+  **supply-chain-risk designation** and a **federal procurement ban since February**. **Add: no seat at the table
+  where AI policy is being shaped, while its competitors-by-business-model hold three of them.** *(Analysis.
+  Bears on **F17** — the IPO. Regulatory exposure is not just an active apparatus, it is an apparatus being advised
+  by parties with an interest in the outcome.)*
+- **⚠️ MUSK IS EXCLUDED TOO, AND HE SIGNED NOTHING — BUT HE ENDORSED THE LETTER.** [[metered-compute]] L137:
+  Musk gave *"full support"* to the 7/24 letter the day it dropped. **So the coalition-vs-council mapping is NOT
+  clean, and I should not over-fit it.** *(Analysis. The pattern is suggestive, not a rule.)*
+- **⚠️ AND A COUNCIL SEAT IS STILL A STATE, NOT A TRIGGER.** Membership shapes odds; it dates nothing and decides
+  nothing. Same discipline as the entry above. *(Analysis.)*
+
+**Links:** [[metered-compute]] · [[ai-financing-fragility]] · [[compression-thesis]]
+
+#### Sources
+- Forbes 2026-03-25 · Fortune 2026-03-25 · AOL/AP — via web search, 2026-07-31 ~8:35pm PT
+- CNBC / Bloomberg / Tom's Hardware 2026-05-12-13 (Huang and the China state visit)
