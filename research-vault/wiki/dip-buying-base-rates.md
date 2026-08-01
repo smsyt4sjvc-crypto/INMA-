@@ -183,3 +183,30 @@ not screen time.** *(HEAT at $1,037/name: AMAT −$25 · LRCX −$32 · SMH −$
 Already a 5% basket position. **LRCX** (+4.2, lag 9, direct) · **MU** (+4.9, lag 12 ⇒ wait for reclaim, HEAT
 −6.3 so size smaller) · **SMH/XLK** (ETF expression, lowest heat).
 **AVOID on measurement: NVDA (−3.6, n=53), AVGO, TSM, SWKS, COHR, MP, ARM.**
+
+## 2026-07-31 ~6:05pm PDT — ⛔ UNIVERSE ERROR, AND THE FIX: `dip_universe_screen_cell.py`
+Jake: ***"It doesn't have to be my names. Where do I put the money. I don't care what the names are."***
+**He is right and the constrained universe was my error.** `movement_capture_screen_cell.py` ran **34 tickers
+— his own basket plus ETFs.** ⇒ **AMAT topping THAT list may only mean it is the best of 34.** **At $1,037 a
+position, liquidity excludes nothing in the S&P 500. The only reason to drop a name is that it FAILS the
+test — not that he does not already own it.**
+
+- **🔧 BUILT: the whole S&P 500 + 22 liquid ETFs**, same dip definition, reusing the constituent fetcher from
+  `sp500_full_sweep_cell.py` (browser-UA → GitHub-CSV fallback for the Wikipedia 403).
+- **★★★ AND WIDENING THE UNIVERSE CREATES THE PROBLEM THE CELL EXISTS TO SOLVE. 500 names × 4 horizons ≈
+  2,000 comparisons ⇒ ~100 "significant" on pure noise. THE TOP OF ANY 500-NAME RANKING IS NOISE UNLESS
+  CONTROLLED.** Three controls, and they are the point:
+  1. **★ OUT-OF-SAMPLE SPLIT at 2021-01-01 — the load-bearing one.** The edge must hold in **BOTH** halves.
+     **A name that worked 2015-20 and died 2021-26 is a REGIME ARTIFACT, not an edge.**
+  2. **HORIZON CONSISTENCY** — e21 and e63 must agree in sign. One hot cell is a coin flip.
+  3. **MIN n ≥ 25** events.
+- **★★ AND THE SCREEN GRADES ITSELF: a pure-noise universe would leave ~12% of names "surviving" all three.**
+  **If the survivor count comes back near 12%, the whole exercise is noise and should be discarded.** *That
+  number is printed in the output so the result cannot be read without its own null.*
+- **★ SECTOR TALLY ADDED — the question the 34-name run could not ask.** If survivors **cluster in one or two
+  sectors**, this is a **SECTOR trade wearing single-name clothes**, and it should be sized as **ONE position,
+  not four.** *(The 34-name run hinted at exactly this: AMAT + LRCX + SMH + SOXX are all one bet.)*
+- **Carries forward from run 2:** `e63/HEAT` as the sizing-aware ranking, and the **lag rule — ≤9d BUY DIRECT,
+  ≥12d WAIT FOR THE RECLAIM.**
+- **⚠️ SURVIVORSHIP IS WORSE HERE, NOT BETTER.** This is **TODAY's** S&P 500 — every deleted name is absent.
+  **The ranking is usable; the LEVEL is optimistic.** Stated in the output, not buried.
