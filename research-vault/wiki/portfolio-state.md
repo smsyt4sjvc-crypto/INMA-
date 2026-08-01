@@ -803,3 +803,44 @@ framing was aimed at the wrong problem: he owns NO 100-share lot, so covered cal
   the AVWAP work found those give opposite signs. **Survivorship flagged in the output, not hidden.**
 - **📌 DELEGATION (the token plan): the screen runs in COLAB, free, BEFORE the 8pm reset.** **Fable must not
   spend its budget fetching prices — it reasons over a finished table.**
+
+## 2026-08-01 ~1:05pm PDT — ★★★ THE LOSS NUMBER LANDS: 35%, AND IT DELETES THE PLAN'S SHAPE
+
+**Jake, asked four times since 7/29, answered today: 35%** — max acceptable loss on the options sleeve
+at day 90. **This was the binding constraint; every screen built around it was substitution for asking.**
+
+### DATA (arithmetic on figures already in this vault — no new pull)
+- Sleeve = **$3,631** (portfolio-state L776, "half → managed positions"). Theta bill = **$1,805**
+  (dip-buying-base-rates L167). Put premium paid = **$3,336** (L34). Measured put loss = **−$726**.
+- **A) THE NEW SLEEVE:** 35% budget **$1,271** vs theta **$1,805** ⇒ **OVER BY $534 (+42%) BEFORE THE
+  MARKET MOVES.**
+- **★★★ AND SIZING DOWN CANNOT FIX IT, BECAUSE BOTH ARE RATES:** decay **$1,805/$3,631 = 49.7%** vs
+  tolerance **35%.** They scale together. `3,631→BREACH · 2,500→BREACH · 1,500→BREACH · 800→BREACH`.
+- **B) THE EXISTING PUT:** 35% budget **$1,168**; **already −$726 = 21.8% of premium**; **room left $442**;
+  **62% of the stop is already spent.** **Base case at expiry (SPY > 711.63) ≈ −$3,200 = 96% of premium
+  = 2.7× the limit.**
+- **C) ROBUST TO INTERPRETATION — all three readings of "35% of what" fail:** sleeve ($1,271, breached by
+  theta) · put+sleeve ($2,438, breached by the put's base case alone at $3,200) · whole book ($4,468,
+  breached by $3,200 + $1,805 = $5,005). **No clarification needed.**
+
+### THESIS (interpretation — NOT fact)
+- **★★★ 90-DAY LONG OPTIONS ARE STRUCTURALLY EXCLUDED AT EVERY POSITION SIZE. Not "too big" — the WRONG
+  INSTRUMENT.** A 49.7% decay rate cannot fit inside a 35% loss tolerance, ever. ⇒ **Jake's own risk
+  number deleted the shape he asked for ("half into long options or holds that can be managed") without
+  any argument about edge.** *(Analysis. ★ Note the economy of it: the constraint I spent three days
+  building screens around would have settled the instrument question in one line on day one.)*
+- **★★ THE PUT IS RECLASSIFIED. The book files it under LOCKED (L774, with 3 SPY + 3 QQQM). A 35% stop
+  says it is not locked** — it is a position with **$442 of room** and a base case that breaches by
+  **2.7×.** *(Analysis. **Rule 7: describing the arithmetic, not recommending an action. The decision
+  is Jake's.** What is NOT a judgment call is that "LOCKED" and "35% stop" cannot both be true of the
+  same position.)*
+- **★★ WHAT SURVIVES THE CONSTRAINT:** **shares** (no carry; 35% is an ordinary stop rather than an
+  impossibility) · **optionality ONLY around dated catalysts with a short defined hold** — paying days
+  of decay instead of 90, which is the FOMC-concentration structure flagged 7/31 as the one that argues
+  FOR itself · **the $3,631 reserve untouched.** *(Analysis.)*
+- **🔴 AND THE REMAINING BLOCKER IS UNCHANGED AND NOW ISOLATED: NO OPTIONS CHAIN DATA.** Everything above
+  is arithmetic on vault figures. **The catalyst-dated trade cannot be sized without IV, strikes and
+  premiums** — four days open. **It is now the ONLY thing between this and an executable plan.**
+  *(Analysis. Needs Alpaca keys, a market-data MCP, or an explicit "shares and index puts only.")*
+
+**Links:** [[dip-buying-base-rates]] · [[new-economy-regime]] · [[market-fragility]]
