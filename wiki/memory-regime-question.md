@@ -370,3 +370,46 @@ which the largest hardware buyer on earth says it wants the oligopoly broken.**
 - **⚠️ Energy section flattens the tier change:** "continued monitoring of Strait of Hormuz shipping" is not a
   description of **tankers under US naval escort being struck with Trump convening cabinet on war**
   ([[war/war-board]] 7/31). **No escalation-tier awareness.**
+
+## 2026-08-01 ~04:56 UTC (7/31 ~9:56pm PDT) — ★★★ A 33.9-POINT MEMORY SPLIT IN ONE SESSION, AND THE SCANNER SAID NOTHING
+
+Source: `acute_scanner_cell.py` run, Jake paste. Prices are Friday 7/31 closes vs 7/30.
+
+### DATA (observed — scanner price block)
+```
+Samsung Elec  +26.81%   207,000 -> 262,500 KRW
+SK hynix      +29.95% 1,322,000 -> 1,718,000 KRW    <- KRX daily limit is +30.00%
+Micron         -5.90%      874.66 -> 823.03
+SanDisk        -5.09%    1,279.96 -> 1,214.83
+Seagate +0.52% · WestDigital +2.21% · TSMC +0.23% · Broadcom +0.37%
+```
+- **KOREA pair mean +28.38% · US DRAM/NAND pair mean −5.50% · SPREAD 33.9 PERCENTAGE POINTS.**
+- **SK hynix closed 0.05pp from the KRX daily limit.**
+- **Barron's, same window: "SK Hynix Stock Surged 30% in South Korea. It's Dropping in the U.S."**
+- Everything else in the complex (STX/WDC/TSM/AVGO) moved <2.3%. **The split is DRAM/NAND-specific.**
+
+### THESIS (interpretation — NOT fact)
+- **★★★ THE ADR IS THE TELL.** Identical assets, identical news, opposite direction, same session:
+  **that is not a fundamental repricing, it is a LOCAL FLOW event.** A fundamental re-rate shows up in
+  both listings. **A limit-up that the US market sells is positioning.** *(Analysis. The cheap alternative
+  — a split, dividend or FX artifact — is NOT ruled out and must be checked before this is load-bearing.)*
+- **★★ THIS BELONGS TO THE [[market-fragility]] KOREA THREAD, NOT ONLY TO MEMORY.** The KOREA thread exists
+  for **leverage cascades** — kospi, circuit breaker, de-gross, leveraged ETF, margin call. **A ±30% limit
+  move in the two largest KOSPI constituents is a leverage/flow observable by definition.** *(Analysis.)*
+- **⛔⛔ THE SCANNER HELD THE ANSWER AND COULD NOT SEE IT, AND THE GAP IS STRUCTURAL.** It printed
+  **+29.95%** and **−5.90%** eight lines apart and raised **nothing**. **The keyword tier could not have
+  caught it** — KOREA's words are *kospi/circuit breaker/de-gross/margin call*, and the wire said
+  *"Surged 30% in South Korea."* **A limit-up is not a vocabulary event.**
+  ⇒ **★★★ THE REAL DEFECT: THE SCANNER CARRIED PRICES AND HEADLINES IN THE SAME RUN AND NEVER CROSSED
+  THEM.** **A MOVE CAN BE THE STORY EVEN WHEN NO HEADLINE SAYS SO.** *(Analysis. FIXED — see below.)*
+- **★ FIX SHIPPED, and it is price-only by design:** `_price_alarms()` now flags (1) any name within 0.5pp
+  of a known daily limit, (2) any double-digit single-session move on a mega-cap, (3) **≥15pp dispersion
+  inside one block** — the divergence detector, which is what would have caught this. Plus KOREA gains
+  `kosdaq / south korea / limit up / limit-up / daily limit / krx`. **Router now fires KOREA(3) on the
+  Barron's headline; it fired NOTHING before.**
+- **🚩 WHAT THIS DOES TO F3 AND F9 — it does NOT resolve either, and I am not going to pretend it does.**
+  F3 (CXMT: glut vs walled out) and F9 (SK hynix Q2 miss magnitude) both need the numbers, and a flow event
+  is not a number. **If anything a limit-up on the Korean names ARGUES AGAINST reading F9's "miss" off
+  price.** *(Analysis.)*
+
+**Links:** [[market-fragility]] · [[compression-thesis]] · [[ai-capex-cycle]]

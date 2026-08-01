@@ -2103,3 +2103,27 @@ Source: **Reuters sidebar headline + 2-sentence summary**, captured off the 7/31
 
 ### Sources
 - Reuters page sidebar, captured 2026-07-31 9:47pm PDT — `raw/reuters-2026-07-31-openai-other-agents-escaped-containment.txt`
+
+## 2026-08-01 ~04:56 UTC — ⚠️ WARSH WEIGHING FEWER FOMC MEETINGS: this hits MY OWN KILL SWITCH
+
+Source: NYT via **Reuters (6.7h) AND Bloomberg (7.1h)** — two wires on one NYT report, `acute_scanner_cell.py`.
+⚠️ **Headline-level only. NYT not read.** *"Warsh raised changing frequency of Fed policy meetings"* /
+*"Warsh Considering Reducing Number of Fed Meetings."*
+
+### THESIS (interpretation — NOT fact)
+- **★★★ THE REGISTERED PREDICTION'S KILL SWITCH IS THE SEPTEMBER DISSENT COUNT. FEWER MEETINGS DEGRADES IT
+  MECHANICALLY** — fewer meetings, fewer dissent opportunities, and possibly no September meeting at all.
+  **I chose an observable that a calendar change can erase.** `predictions/2026-07-30-fed-hike-before-december.md`
+  is NOT edited (ritual: never amend after registration) — **but the switch it names may not be observable.**
+  *(Analysis. If the change lands, the replacement observable has to be *statements* by named voters, which is
+  strictly worse — softer, and exactly the kind of thing I over-read.)*
+- **⚠️ AND IT CUTS BOTH WAYS ON THE ODDS, WHICH IS WHY I AM NOT MOVING THE 50%.**
+  **Fewer meetings → fewer chances to hike before December → LOWER.**
+  **Fewer, larger decisions → less incrementalism, and the vault's "small moves now makes the ask cheap" read
+  weakens → HIGHER.** **These roughly offset on a headline. 50% stands.** *(Analysis.)*
+- **★ THE PATTERN THAT IS NOT A HEADLINE: this is the SECOND structural change from the same Chair.** 7/29:
+  **forward guidance DELETED.** Now: **meeting frequency in question.** ⇒ **Warsh is rebuilding HOW the
+  committee decides, not just what it decides** — and Jake's read stands: *"this committee doesn't pre-commit
+  to anything."* **Both changes reduce the number of scheduled, readable signals the Fed emits.** *(Analysis.)*
+
+**Links:** [[market-fragility]] · `predictions/2026-07-30-fed-hike-before-december.md`
