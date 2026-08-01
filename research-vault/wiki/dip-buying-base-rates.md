@@ -201,9 +201,11 @@ test — not that he does not already own it.**
   2. **HORIZON CONSISTENCY** — e21 and e63 must agree in sign. One hot cell is a coin flip.
   3. **MIN n ≥ 25** events.
 - **★★ AND THE SCREEN GRADES ITSELF: a pure-noise universe would leave ~12% of names "surviving" all three.**
+  ⟲ SUPERSEDED 2026-08-01 → dip-buying-base-rates.md:L315 — permutation test: SYNC null mean 19.7% vs real 19.7%, p=0.446 -- the edge is 80% vol clustering, 20% co-movement, 0% residual
   ⟲ SUPERSEDED 2026-08-01 → dip-buying-base-rates.md:L229 — the ~12% was 0.5^4 doubled by hand; E63/L63 are subsets of the e63 events so the tests are correlated and the true null is higher -- replaced by a measured permutation null
   **If the survivor count comes back near 12%, the whole exercise is noise and should be discarded.** *That
   number is printed in the output so the result cannot be read without its own null.*
+    ⟲ SUPERSEDED 2026-08-01 → dip-buying-base-rates.md:L315 — permutation test: SYNC null mean 19.7% vs real 19.7%, p=0.446 -- the edge is 80% vol clustering, 20% co-movement, 0% residual
 - **★ SECTOR TALLY ADDED — the question the 34-name run could not ask.** If survivors **cluster in one or two
   sectors**, this is a **SECTOR trade wearing single-name clothes**, and it should be sized as **ONE position,
   not four.** *(The 34-name run hinted at exactly this: AMAT + LRCX + SMH + SOXX are all one bet.)*
@@ -246,18 +248,22 @@ test — not that he does not already own it.**
   **SD 3.4pp**, **95th percentile 17.8%** — versus the IID null's SD of only **1.9pp**. **The per-name
   shuffle understates the spread by ~1.8×, exactly as predicted.**
 
+  ⟲ SUPERSEDED 2026-08-01 → dip-buying-base-rates.md:L315 — permutation test: SYNC null mean 19.7% vs real 19.7%, p=0.446 -- the edge is 80% vol clustering, 20% co-movement, 0% residual
 ### THESIS (interpretation — NOT fact)
 - **🚩 THE REAL 19.2% IS PROBABLY MARGINAL, NOT A PASS.** On the synthetic calibration the [SYNC] null's
   95th percentile is **17.8%** and 19.2% sits just past it — that is **p ≈ 0.05–0.10 territory, not p < 0.01.**
   *(Analysis. The synthetic universe's parameters are not the market's, so this is a PRIOR, not the result.
+    ⟲ SUPERSEDED 2026-08-01 → dip-buying-base-rates.md:L315 — permutation test: SYNC null mean 19.7% vs real 19.7%, p=0.446 -- the edge is 80% vol clustering, 20% co-movement, 0% residual
   The real run decides. But it means the honest expectation is "weak/marginal," and I should not be
   surprised into re-explaining a fail.)*
 - **★★ THE RATE IS THE SIGNAL, NOT THE LIST.** Health Care 9% and Comm Svcs 4% are **below** the universe
+  ⟲ SUPERSEDED 2026-08-01 → dip-buying-base-rates.md:L315 — permutation test: SYNC null mean 19.7% vs real 19.7%, p=0.446 -- the edge is 80% vol clustering, 20% co-movement, 0% residual
   average — those sectors are where an 8% drop is more often a **permanent repricing** (an FDA letter, a
   lost ad cycle) than a dislocation. Staples/Utilities/Materials at 33-38% are where an 8% drop is more
   often just **flow**. *(Analysis.)*
 - **★★ ETFs AT 44% IS THE TOP RATE AND THE ONLY ONE WITH A CLEAN MECHANISM: an ETF CANNOT HAVE
   IDIOSYNCRATIC BAD NEWS.** A single stock down 8% may be permanently repriced; an **index** down 8% is a
+    ⟲ SUPERSEDED 2026-08-01 → dip-buying-base-rates.md:L315 — permutation test: SYNC null mean 19.7% vs real 19.7%, p=0.446 -- the edge is 80% vol clustering, 20% co-movement, 0% residual
   market event, and market events mean-revert. **This cuts directly against the shape Jake asked for**
   ("3/4 stocks that see 8-10% selling") — the best dip-buy base rate belongs to a vehicle that **isn't a
   stock**. *(Analysis. n=18 ETFs is a SMALL subgroup — Q3 in the permutation cell exists to test exactly
@@ -278,3 +284,75 @@ test — not that he does not already own it.**
 ### Sources
 - `tools/dip_universe_screen_cell.py` run 1, pasted output, 2026-07-31 ~7:30pm PT
 - `tools/dip_permutation_test_cell.py` — built + synthetic validation, 2026-07-31 ~7:55pm PT
+
+---
+
+## 2026-07-31 ~8:05pm PT — ⛔⛔ THE SCREEN IS DEAD. THE EDGE WAS 100% VOLATILITY CLUSTERING.
+
+### DATA (observed)
+- **`dip_permutation_test_cell.py` run, 300 shuffles (100 per null), 517 series / 473 with complete history.**
+- **Q1 SURVIVOR RATE — the headline, and it is a dead-centre match:**
+
+  | null | null mean | null SD | null 95th | REAL | p | read |
+  |---|---|---|---|---|---|---|
+  | IID | 13.1% | 1.6 | 15.6 | 19.2% | **0.010** | "REAL" |
+  | BLOCK | 18.4% | 1.9 | 21.7 | 19.2% | 0.356 | noise |
+  | **SYNC ★** | **19.7%** | 6.5 | 31.9 | **19.7%** | **0.446** | **NOISE** |
+
+- **★★★ THE DECOMPOSITION — hand the null back each piece of real structure and watch the edge vanish:**
+  ```
+  IID   (no structure at all)      13.1%
+    + volatility clustering        18.4%   (+5.3pp)
+    + cross-sectional correlation  19.7%   (+1.3pp)
+  REAL DATA                        19.7%   (+0.0pp)  <-- RESIDUAL
+  ```
+  **Total gap IID→real 6.6pp: volatility clustering 80%, market co-movement 20%, ACTUAL EDGE 0%.**
+  **p degrades monotonically 0.010 → 0.356 → 0.446 as structure is restored.**
+- **Q2 BEST SINGLE e63 — 1.08σ.** SYNC real 8.85 vs null 6.89 ± 1.81, p=0.119. **A shuffled universe
+  produced a name at +18.80** — random data threw up a top pick twice as good as the real ranking's best.
+- **Q2 DETAIL: full-universe best e63 = +11.64, complete-history best = +8.85.** The **#1 name in the
+  500-name ranking (MRNA) lacks full history since 2015 and drops out of the SYNC universe entirely.**
+- **Q3 ETF SUBGROUP — 0.94σ.** SYNC real 41.2% vs null **25.7% ± 16.5pp**, p=0.178.
+  **The ETF null mean (25.7%) is ABOVE the full-universe null (19.7%)** — ETFs are where noise produces
+    ⟲ SUPERSEDES dip-buying-base-rates.md:L265 — permutation test: SYNC null mean 19.7% vs real 19.7%, p=0.446 -- the edge is 80% vol clustering, 20% co-movement, 0% residual
+  the MOST false survivors. **SD 16.5pp ≈ 2.8 ETFs out of 17.**
+    ⟲ SUPERSEDES dip-buying-base-rates.md:L259 — permutation test: SYNC null mean 19.7% vs real 19.7%, p=0.446 -- the edge is 80% vol clustering, 20% co-movement, 0% residual
+- Runtime 0.2s/pass; 300 shuffles in ~1 min reusing `px` from the prior cell.
+  ⟲ SUPERSEDES dip-buying-base-rates.md:L255 — permutation test: SYNC null mean 19.7% vs real 19.7%, p=0.446 -- the edge is 80% vol clustering, 20% co-movement, 0% residual
+
+  ⟲ SUPERSEDES dip-buying-base-rates.md:L250 — permutation test: SYNC null mean 19.7% vs real 19.7%, p=0.446 -- the edge is 80% vol clustering, 20% co-movement, 0% residual
+### THESIS (interpretation — NOT fact)
+  ⟲ SUPERSEDES dip-buying-base-rates.md:L207 — permutation test: SYNC null mean 19.7% vs real 19.7%, p=0.446 -- the edge is 80% vol clustering, 20% co-movement, 0% residual
+- **★★★ THE 8%-DIP SCREEN HAS NO EDGE. NOT WEAK — ZERO.** The null mean and the real value agree to one
+  ⟲ SUPERSEDES dip-buying-base-rates.md:L203 — permutation test: SYNC null mean 19.7% vs real 19.7%, p=0.446 -- the edge is 80% vol clustering, 20% co-movement, 0% residual
+  decimal place. **Dips cluster in volatile periods; volatile periods are followed by more volatility in
+  BOTH directions; the screen read that back as predictive power.** *(Analysis. RETIRES: the 96 survivors,
+  the sector survivor rates, the 14-name shortlist, AMAT-survives-both-universes, and ETFs-at-44%.)*
+- **⛔⛔ THE NEAR-MISS IS THE LESSON, AND IT WAS ONE DESIGN DECISION WIDE.** The FIRST null I wrote — the
+  obvious per-name shuffle — returned **p=0.010 "REAL."** Shipping it would have handed Jake a screen
+  "validated at p=0.01" and a shortlist to put ~$6,400 into. **★★★ ON CORRELATED DATA THE STANDARD
+  PERMUTATION TEST IS NOT CONSERVATIVE — IT IS WRONG IN THE DIRECTION THAT CONFIRMS YOU.** Shuffling each
+  series independently builds a null with no shared crashes; the real universe's 500 names all crashed
+  together, so its spread is far wider (SYNC SD **6.5pp** vs IID **1.6pp**, ~4×). **The null must contain
+  every structure the real data has that you are NOT claiming as your edge.** *(Analysis. STANDING RULE.)*
+- **⛔ I OFFERED A MECHANISM AS EVIDENCE WHEN IT WAS THE REASON THE FINDING COULDN'T BE TESTED.**
+  I argued ETFs-at-44% was the most credible finding because *"an index cannot have idiosyncratic bad
+  news."* True as a mechanism — **and it is exactly why ETFs co-move, why the null is 16.5pp wide, and why
+  44% is 0.94σ.** SPY/QQQ/XLK/SMH/SOXX are largely one bet: **n_effective ≈ 4, not 17.** *(Analysis. A
+  plausible mechanism raises a PRIOR; it is never a substitute for the test, and it can be the thing that
+  makes the test powerless.)*
+- **★★ WHAT IT DOES TO THE 90-DAY PLAN: run 2's "$226 of edge vs $1,805 of theta" was too generous,
+  because the $226 was computed FROM the edge that just tested at zero. THE REAL LINE IS $0 vs $1,805** —
+  on "half into long options," a certain **−14% on the sleeve over 90 days** before the market moves, with
+  nothing measured on the other side to pay for it. *(Analysis. See [[portfolio-state]].)*
+- **★★ A NEGATIVE RESULT ARGUES FOR A SMALLER PLAN, NOT A DIFFERENTLY-SHAPED ONE.** The tempting move is
+  to fall back on the vault's theses to fill the hole left by the failed screen. **That is the move that
+  makes the failure invisible** — swapping a falsified measurement for an unfalsifiable narrative and
+  calling it the same evidence. *(Analysis. Rule 7 + the WARNING-vs-TRIGGER rule both point the same way.)*
+- **WHAT SURVIVES TODAY, and it is all arithmetic rather than fitting:** the put's attribution
+  (spot +$130 / time −$381 / vol −$474 — an identity), its payoff shape (flat −$3,100 to −$3,300 across
+  the upside, breakeven SPY < 711.63), the **theta bill itself as the one reliably measurable quantity in
+  the plan — and it is a cost**, and the Fed call at 50% (judgment from primary sources, never a backtest).
+
+### Sources
+- `tools/dip_permutation_test_cell.py` — full run pasted by Jake, 2026-07-31 ~8:03pm PT

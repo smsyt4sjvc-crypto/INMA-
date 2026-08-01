@@ -1017,3 +1017,39 @@ point — **Sep-2021 = 190.941** vs my eyeballed **~172** — and the real rate 
   never a substitute for it.**
 - **Score today: Jake has supplied the correcting datum in 6 of the last 8 exchanges.** He measures; I model.
   **That division of labour is backwards and I have now logged it twice without changing it.**
+
+---
+
+## 2026-07-31 ~8:05pm PT — ★★★ STANDING RULE: A NULL MUST CONTAIN EVERY STRUCTURE YOU ARE NOT CLAIMING
+
+**THE NEAR-MISS.** The dip screen returned 96/500 = 19.2% survivors. To test it I wrote the obvious
+permutation null — **shuffle each name's returns independently.** It returned **p=0.010, "REAL."**
+It was wrong. The correct null — **one calendar reordering applied to every name at once** — returned
+**19.7% vs a real 19.7%, p=0.446.** *Nothing.* One design decision separated a false positive that would
+have driven ~$6,400 of allocation from the true answer.
+
+**WHY THE OBVIOUS NULL FAILED.** 500 S&P names are **not 500 independent experiments** — they all crashed
+in Mar-2020 and all recovered together. A per-name shuffle builds a null universe with **no shared
+crashes**, so its survivor count barely varies (**SD 1.6pp**) while the real universe's varies enormously
+(**SD 6.5pp, ~4×**). Comparing a wide real number to a narrow null manufactures significance out of
+nothing but the mis-specification.
+
+**★★★ THE RULE: the null must reproduce EVERY structure the real data has EXCEPT the one you are claiming
+as your edge.** Anything you accidentally destroy — volatility clustering, cross-sectional correlation,
+autocorrelation, seasonality — **gets credited to you as signal.** In this case: vol clustering was **80%**
+of the apparent edge and co-movement **20%**; the residual was **0%.**
+
+**⛔ AND THE COROLLARY THAT BITES HARDEST: on correlated data the standard permutation test is NOT
+CONSERVATIVE. It is wrong in the direction that confirms you.** The instinct that "a shuffle test is the
+skeptical thing to do" is what makes this dangerous — it feels like rigour while delivering the opposite.
+**Always report the null's SD, not just its mean and the p-value. A null SD far below the real quantity's
+plausible spread is the tell.**
+
+**⛔ SECOND LESSON, SAME RUN: a plausible mechanism is a PRIOR, never evidence — and it can be the exact
+reason the test has no power.** I argued ETFs-at-44% was the most credible finding because *"an index
+cannot have idiosyncratic bad news."* True. **And it is precisely why ETFs co-move, why their null is
+16.5pp wide, and why 44% is 0.94σ.** SPY/QQQ/XLK/SMH/SOXX are largely one bet — **n_effective ≈ 4, not 17.**
+**When a mechanism explains why observations are correlated, it is simultaneously an argument for the
+finding and an argument that you cannot measure it. Check which one dominates BEFORE citing it as support.**
+
+**Links:** [[dip-buying-base-rates]] · `tools/dip_permutation_test_cell.py`
