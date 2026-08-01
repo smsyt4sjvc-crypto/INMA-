@@ -2066,3 +2066,40 @@ Following the "seaborne market = US" correction ([[oil-value-chain]]): **US LNG 
   US GAS AND POWER PRICES, which is the one inflation this administration cannot blame on foreigners and the
   Fed cannot call a foreign supply shock.** ⚠️ **The domestic-price-passthrough link is well-established
   economics but was NOT independently verified in this session — flagged, not measured.**
+
+## 2026-07-31 ~7:12pm PDT — ★★ A FOURTH FED VOICE FOR HIKES: MUSALEM (St. Louis) TO THE FT
+
+Source: **Reuters sidebar headline + 2-sentence summary**, captured off the 7/31 Reuters page at 9:47pm PDT.
+⚠️ **I HAVE NOT READ THE FT PIECE.** Headline-plus-summary only. Logged for the thread; specifics unconfirmed.
+
+### DATA (as-reported)
+- **"Treasury selloff signals need to bolster Fed's inflation credibility, Musalem tells FT."**
+  Finance · **2026-07-31 7:12pm PDT**.
+- Summary text: *"A selloff in U.S. Treasuries this week signaled the need for the Federal Reserve to earn its
+  inflation-fighting **'credibility' with interest rate increases**, St. Louis Fed President **Alberto Musalem**
+  told the Financial Times."*
+- Same page, 4 hours prior: **"US Treasury intervenes to support yen after Japan steps in, FT reports."**
+  *(Headline only — no body. Flagged, not analysed.)*
+
+### THESIS (interpretation — NOT fact)
+- **★★ MUSALEM IS A NEW NAME ON THE HAWKISH SIDE.** The registered prediction
+  (`predictions/2026-07-30-fed-hike-before-december.md`, **50%**) rests on **Kashkari (Minneapolis), Hammack
+  (Cleveland), Logan (Dallas)**. **Musalem is the fourth, and the phrasing is explicit — "with interest rate
+  increases," not hedged.** *(Analysis.)*
+- **⚠️ BUT IT PROBABLY DOES NOT MOVE THE KILL SWITCH, AND THE REASON IS MECHANICAL.** The registered kill switch
+  is **the September DISSENT COUNT** — and **only VOTERS dissent.** The three names already logged
+  (Minneapolis/Cleveland/Dallas) look like a 2026 voter set, which would make **St. Louis a NON-voter this
+  year**. If so, Musalem is **additive to the ambient hawkishness and NOT to the count I said would decide it.**
+  🚩 **VERIFY THE 2026 FOMC VOTER ROTATION BEFORE TREATING THIS AS PREDICTION-MOVING.** *(Analysis — inference
+  from who has been vocal, NOT a checked roster. Do not act on it either way until confirmed.)*
+- **★ THE MECHANISM IS NEW EVEN IF THE NAME WEREN'T.** Kashkari/Hammack/Logan argued **demand-side** and
+  **data-centre inflation**. Musalem is arguing from **the bond market's verdict on Fed credibility** — hike to
+  ratify what the long end already did. **That is a different and more self-reinforcing argument: it makes the
+  selloff itself the case for hiking.** *(Analysis. Ties [[market-fragility]] — the term-premium thread.)*
+- **NOT EDITING THE REGISTERED PREDICTION.** Per the nightly ritual, a registered call is never amended after
+  the fact. This is evidence to grade it against, filed separately. *(Analysis.)*
+
+**Links:** [[market-fragility]] · [[ai-capex-cycle]] · `predictions/2026-07-30-fed-hike-before-december.md`
+
+### Sources
+- Reuters page sidebar, captured 2026-07-31 9:47pm PDT — `raw/reuters-2026-07-31-openai-other-agents-escaped-containment.txt`
