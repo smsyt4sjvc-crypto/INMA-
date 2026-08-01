@@ -142,10 +142,12 @@ print('   dips/yr  how often it hands you an 8% entry      = your OPPORTUNITY RA
 print('   medDip   median depth AT the trigger              = is "8%" really 8% for this name?')
 print('   HEAT     median worst drawdown in the NEXT 21d    = the pain you must sit through')
 print('   e*       EDGE after the dip, no filter')
-print('   rec%     how often it goes BELOW the 20-SMA and then RECLAIMS it within 63d.
-            v1 was BROKEN here (counted "never went below" as a reclaim) -> ~100% everywhere.
-            If rec% is still near 100 for a name, that name rarely loses its 20-SMA on an
-            8% dip at all -- which is itself a finding about WHICH dips are shallow.')
+print('   rec%     goes BELOW the 20-SMA then RECLAIMS it within 63d; lag = median days')
+print('            ⛔ v1 was BROKEN here: it counted "never went below" as a reclaim, so')
+print('               rec% came back ~100% on 29 of 34 names. FIXED — events with no')
+print('               below-SMA setup are now EXCLUDED. If rec% is STILL near 100 for a')
+print('               name, that name simply rarely loses its 20-SMA on an 8% dip — which')
+print('               is itself a finding about which dips are shallow.')
 print('   r*       EDGE measured FROM THE RECLAIM  <- deep-value-reclaim\'s tested filter')
 print('   score    opportunity rate x r21 edge x reclaim rate. NOT raw return -- that would')
 print('            just rank whichever name drifted up most.')
