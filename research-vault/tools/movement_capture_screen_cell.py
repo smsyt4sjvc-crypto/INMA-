@@ -78,9 +78,18 @@ def analyse(s):
     mae = np.array(mae, float)
 
     # the 20-SMA RECLAIM filter (deep-value-reclaim's finding), per name
-    rec_idx, rec_lag = [], []
+    # ⛔ FIXED 2026-07-31 (v1 was WRONG). v1 started the search at j=t, the TRIGGER DAY,
+    # so a name 8% off a 63d high that was STILL ABOVE its 20-SMA logged "reclaimed, lag 0."
+    # That filtered NOTHING -- rec% came back ~100% on 29 of 34 names, lag 0 on six.
+    # deep-value-reclaim requires price BELOW the 20-SMA first, THEN a cross back above.
+    # Events that never go below are EXCLUDED: there is no reclaim to filter on.
+    rec_idx, rec_lag, no_setup = [], [], 0
     for t in ev:
+        below = None
         for j in range(t, min(t+63, n)):
+            if not np.isnan(sma20[j]) and v[j] < sma20[j]: below = j; break
+        if below is None: no_setup += 1; continue
+        for j in range(below+1, min(t+63, n)):
             if not np.isnan(sma20[j]) and v[j] > sma20[j]:
                 rec_idx.append(j); rec_lag.append(j-t); break
     rec_idx = np.array(rec_idx, int)
@@ -91,7 +100,7 @@ def analyse(s):
         vol=r.std()*np.sqrt(252)*100,
         med_dd=np.nanmedian([dd[t]*100 for t in ev]),
         mae=np.nanmedian(mae),
-        rec_pct=len(rec_idx)/len(ev)*100, rec_lag=np.median(rec_lag) if rec_lag else np.nan)
+        rec_pct=len(rec_idx)/len(ev)*100, no_setup=no_setup, rec_lag=np.median(rec_lag) if rec_lag else np.nan)
     for h in HOR:
         x = fwd[h][ev]; x = x[~np.isnan(x)]
         out[f'e{h}'] = x.mean()-base[h] if len(x) >= 5 else np.nan
@@ -133,7 +142,10 @@ print('   dips/yr  how often it hands you an 8% entry      = your OPPORTUNITY RA
 print('   medDip   median depth AT the trigger              = is "8%" really 8% for this name?')
 print('   HEAT     median worst drawdown in the NEXT 21d    = the pain you must sit through')
 print('   e*       EDGE after the dip, no filter')
-print('   rec%     how often it reclaims the 20-SMA within 63d;  lag = median days to reclaim')
+print('   rec%     how often it goes BELOW the 20-SMA and then RECLAIMS it within 63d.
+            v1 was BROKEN here (counted "never went below" as a reclaim) -> ~100% everywhere.
+            If rec% is still near 100 for a name, that name rarely loses its 20-SMA on an
+            8% dip at all -- which is itself a finding about WHICH dips are shallow.')
 print('   r*       EDGE measured FROM THE RECLAIM  <- deep-value-reclaim\'s tested filter')
 print('   score    opportunity rate x r21 edge x reclaim rate. NOT raw return -- that would')
 print('            just rank whichever name drifted up most.')
