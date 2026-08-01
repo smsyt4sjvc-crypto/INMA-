@@ -8,6 +8,7 @@ survives in git (the repo is the persistence layer — the container is ephemera
 - `raw/`  — drop zone for sources: PDFs, transcripts, pasted commentary, screenshots, article text. Never edited, just stored. This is the evidence locker.
 - `wiki/` — the notes I write and maintain. One idea per file. Cross-linked with `[[wiki-links]]`.
 - `index.md` — the MAP: table of contents of the wiki, grouped by theme + the spine. Read it after this file to know what exists and where. **Keep it current** — regenerate/extend when notes are added or renamed (a stale map is worse than none).
+- `chat-log/` — ONE FILE PER CALENDAR DAY: conversational state, open questions, corrections, continuity vs the prior day. Read FIRST after a compaction (STEP ZERO-C).
 - `predictions/` — nightly calibration (point + range + kill-switch), graded next session → `_scoreboard.md`.
 - `tools/` — token-free Colab notebooks/scripts (screens, scanners, backtests).
 - `trading-system/` — the SEPARATE Alpaca-Claude project (its own `CLAUDE.md`/laws), staged here to transplant.
@@ -113,8 +114,44 @@ time (the authority) rather than by the header (what I typed)**, with mismatches
   **is not occurring** (0 errors in 862 entries). **Build the check, read the result, and let the result
   decide whether the machinery is warranted.** It was not. *(Revisit if `--check` ever shows a FUTURE flag.)*
 
+## 📖 STEP ZERO-C — THE DAILY CHAT LOG (standing, set 2026-08-01 — Jake's spec)
+
+**"A branch for chat context that's summarized and logged daily, then read each day to keep the
+conversation going through any chat compaction. Just each calendar day."**
+
+```
+python3 tools/chat_log.py            # RESUME BRIEF — today + prior 2 days. RUN AFTER ANY COMPACTION.
+python3 tools/chat_log.py --open     # only the 🔴 open items, last 14 days
+python3 tools/chat_log.py --stale 3  # items carried >3 days — the nag list
+python3 tools/chat_log.py --new      # scaffold today (Pacific date, per the timestamp rule)
+```
+
+**WHY THIS IS NOT THE WIKI, AND WHY THE ROUTER DOES NOT COVER IT.** `wiki/` holds CONCLUSIONS;
+`vault_router.py` retrieves them by keyword. **Neither can hold the conversation's STATE** — what was
+asked and never answered, what I was mid-argument on, which correction caused which. **A conclusion
+survives compaction because it is a file. An OPEN QUESTION does not, because nobody writes a note
+titled "the thing Jake asked three times that I keep not answering."**
+
+**⛔ THE FAILURE IT FIXES, from the session that commissioned it:** in one long session I broke STEP
+ZERO **four times**, contradicted my own vault **four times**, and had to re-read my own registered
+prediction because I could not recall whether it said 30% or 50%. **Every one is a STATE failure, not
+a knowledge failure — the knowledge was on disk throughout.** And the single most expensive item was
+not a wrong answer: **it was a question Jake asked three times (the loss number on the options sleeve)
+that I never answered, because nothing in the vault was shaped like an unanswered question.**
+
+- **🔴 OPEN is the load-bearing section.** Carry unresolved items forward **VERBATIM with their
+  ORIGINAL date**, so the AGE is visible. An item that survives days is either genuinely blocked or
+  being **avoided** — `--stale` separates them. **Say which; do not let it sit.**
+- **↩ THE CONTINUITY CHECK IS THE POINT OF THE DATING.** Each day, test today's claims against
+  yesterday's. **When they conflict, that is a STEP ZERO-B amendment, not a note to self.**
+- **Conclusions go in as POINTERS ONLY** (`→ wiki/<file>.md`). If it is not worth a wiki note, it is
+  not a conclusion. **This file must never become a second, worse copy of the vault.**
+- **Order of operations after a compaction: `chat_log.py` FIRST, then `vault_router.py` on the
+  inbound.** The log gives you the CONVERSATION; the router gives you the VAULT. **Neither
+  substitutes for the other, and the log is the one that tells you what you still owe.**
+
 ## Session flow (the compounding loop)
-Start: read this file → **run STEP ZERO on the inbound** → `index.md` (the map) → the relevant spine notes. Work. End: file new knowledge into
+Start: read this file → **`chat_log.py` (STEP ZERO-C: what is still OPEN)** → **run STEP ZERO on the inbound** → `index.md` (the map) → the relevant spine notes. Work. End: file new knowledge into
 `wiki/` (firewall-split), update any note touched, extend `index.md` if notes were added, commit + push. Every
 session leaves the vault smarter for the next. (This is the Karpathy/Obsidian second-brain pattern — which the
 vault already implements; we add the DATA/THESIS firewall + the predictions calibration loop on top.)
