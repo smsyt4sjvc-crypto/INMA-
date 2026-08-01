@@ -124,6 +124,15 @@ THREADS = {
  'INVENTORY': ['spr','cushing','strategic petroleum','crude draw','crude build','tank bottoms'],
  'FED':       ['warsh','term premium','forward guidance','steepen','core cpi','supply shock','dissent'],
  'MODEL-ECON':['open-weight','open weight','routing layer','per-token','inference cost','agentic'],
+ # AI-POLICY — added 7/31 after the router returned NO THREAD MATCHED on a Trump/Huang
+ # clip about export controls and beating China. The vault had FOUR live threads on this
+ # (the Feb-Jul Anthropic blacklist timeline, the Jul-1 export-control LIFT, the Jul-24
+ # NVDA open-weights letter, the China-retaliates entry) and NOT ONE keyword reached them.
+ # The gap was structural: policy was only ever tagged through its SECOND-order effects
+ # (capex, model economics), never as its own thread.
+ 'AI-POLICY': ['export control','entity list','blacklist','huawei','huang','jensen',
+               'chip ban','chip export','tech transfer','sovereign ai','ai regulation',
+               'ai policy','diffusion rule','deregulat','preempt','smic','state ai law'],
  'KOREA':     ['kospi','circuit breaker','de-gross','degross','leveraged etf','margin call'],
 }
 # TWO KEYWORD CLASSES — this distinction is the whole gate and it was WRONG on first build.
@@ -133,7 +142,7 @@ THREADS = {
 #   verb forms far more than base forms — "data centerS", "steepenS", "tankerS", "refinerIES".
 #   Anchoring those with a hard \b silently drops most real hits. (Caught by the offline
 #   unit test below; 3 of 14 cases failed before this fix.)
-STRICT = {'spr','cds','bdc','spv','hbm','pjm','smr','irgc','dram','nand','lng','cpc'}
+STRICT = {'spr','cds','bdc','spv','hbm','pjm','smr','irgc','dram','nand','lng','cpc','smic'}
 def _pat(k):
     return re.compile(r'\b'+re.escape(k)+(r's?\b' if k in STRICT else r'\w{0,3}\b'), re.I)
 PATS = {th: [_pat(k) for k in ks] for th, ks in THREADS.items()}
@@ -153,6 +162,7 @@ ROUTE = {
  'INVENTORY': 'demand-destruction (SPR clock)',
  'FED':       'new-economy-regime / market-fragility',
  'MODEL-ECON':'metered-compute / compression-thesis',
+ 'AI-POLICY': 'ai-financing-fragility (blacklist timeline) / metered-compute (the NVDA letter) / compression-thesis (two-bloc)',
  'KOREA':     'market-fragility (leverage cascade)',
 }
 
