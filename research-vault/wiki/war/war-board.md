@@ -974,3 +974,54 @@ days.** Watch in order: **(1) the Windward/Kpler daily transit count · (2) whet
 **Sanctioned-share is the quality check: a real opening shows LEGITIMATE tonnage returning, not more dark hulls.**
 
 **Links:** [[demand-destruction]] · [[oil-value-chain]] · [[portfolio-state]] · [[new-economy-regime]]
+
+### Addendum 2026-08-01 ~9:10pm PDT — JAKE: "fully open post-war may not be the same capacity" — HE BREAKS MY OWN TEST
+
+**Jake:** *"Permanent workarounds, alternative routes ect are in place and being orchestrated? I don't think
+big oil likes the idea of Iran having economic control over the stability of oil markets."*
+
+- **★★ HE IS RIGHT AND THE VAULT ALREADY REGISTERED IT.** L157-158: *"the pipeline-rewiring stack (7 bypass
+  projects, US-backed Iraq-Syria line, Dubai east-coast port) = the long-clock erosion of Iran's Hormuz
+  leverage — **every month of war ACCELERATES the bypass buildout**."* *(Analysis.)*
+- **⛔⛔ AND IT BREAKS THE TEST I BUILT TWO HOURS AGO.** I set the bar at **~140/day = "Complete and Total."**
+  **That silently assumes the PRE-crisis baseline IS the POST-crisis equilibrium.** If bypass is permanent,
+  full normalisation may settle STRUCTURALLY BELOW 140 — **and my test would read a genuine reopening as a
+  failure.** ⇒ **THE BAR MUST BE A RANGE, NOT A POINT, and the QUALITY checks (sanctioned share, LNG-specific
+  count, flag mix) carry more weight than the level.** *(Analysis. An unlabelled assumption inside a
+  falsifiable test is the same defect as an unreadable kill switch — it looks rigorous and is not.)*
+- **★★★ BUT THE VAULT'S COUNTER IS PHYSICAL AND ALREADY LOGGED: THE BYPASS IS BEING DELIBERATELY ATTACKED.**
+  **L134: "Yanbu (the Hormuz-BYPASS terminus) loadings −40% since 7/19."** **L141: "bypass degrading."**
+  **L211: "the East-West/Petroline PUMPING STATION named as a second fire site = a surgical set (processing
+  node + bypass artery)."** ⇒ **Iran understands precisely what Jake understands and is hitting the workaround.
+  The buildout is a RACE against deliberate degradation of the same assets, not an unopposed trend.**
+  **And the geography compounds it: Petroline terminates at YANBU, on the RED SEA — the second warzone.
+  A bypass whose OUTLET is also blockaded is not a bypass.** *(Analysis.)*
+- **⚠️ CAPACITY CEILING — PRE-2026 FIGURES FROM RECOLLECTION, NOT VAULT DATA AND NOT A LIVE PULL. VERIFY
+  BEFORE USE.** Petroline ~5 mb/d + ADCOP/Habshan-Fujairah ~1.5-1.8 mb/d ≈ **6.5-7 mb/d** vs **~17-20 mb/d**
+  normally through Hormuz = **under 40% at full utilisation, with both routes already under fire.**
+  **★ AND QATARI LNG HAS ZERO BYPASS — no pipeline exists; ~1/5 of global LNG, every cargo through Hormuz.
+  That is the piece that cannot be orchestrated around at any price or on any timeline.** *(Analysis.)*
+- **⚠️ 3.5 MONTHS DOES NOT BUILD INFRASTRUCTURE.** What persists from a short closure is **CONTRACTUAL and
+  BEHAVIOURAL** — term deals with non-Gulf suppliers, higher inventory norms, war-risk premia in charter
+  rates. **Sticky, real, and worth maybe 5-15%. Pipelines are multi-year and do not reach FID during an
+  active blockade.** *(Analysis.)*
+- **⛔ WHERE THE ARGUMENT INVERTS, AND IT IS THE PART TO PUSH ON: "BIG OIL" IS THE WRONG BENEFICIARY.**
+  **The Western majors' asset base is largely NON-GULF** — US shale, Guyana, Brazil, West Africa.
+  ⇒ **A PERMANENT HORMUZ RISK PREMIUM IS A SUBSIDY TO EVERY BARREL THEY OWN.** The vault already has the
+  print: **L280 "the refiner complex sits at 52-week highs."** **Their REVEALED interest is Hormuz being
+  RISKY, not Hormuz being BYPASSED — they capture the premium and carry almost none of the transit exposure.**
+  **The actors who genuinely want it de-risked are ASIAN BUYERS and GULF PRODUCERS** — whose cargoes are
+  actually in the strait. *(Analysis. Argues the side Jake is under-weighting, per [[_calibration]].)*
+- **★★★ AND THE VAULT ALREADY NAMED THE ACTOR WITH MOTIVE *AND* CAPITAL.** L254: *"CHINA NEGOTIATING
+  DIRECTLY WITH THE HOUTHIS… China cuts a private safe-passage deal with a non-state actor… a structural
+  cost advantage bought outside the US-led maritime order. **Watch for any confirmed Chinese-flagged transit
+  during a closure — that would be the sharpest possible evidence.**"*
+  **⇒ WINDWARD, 31 JULY: the dominant cargo was a 2.14M-bbl crude lift by VLCC NOBLE — HONG KONG-FLAGGED —
+  fully AIS-transmitting, on a day when 3 of 5 transits were OFAC SDN and the strait ran at 3.6% of normal.**
+  ⚠️ **HONG KONG IS A DISTINCT REGISTRY FROM THE PRC FLAG — PARTIAL HIT, NOT THE CLEAN CONFIRMATION THE TELL
+  SPECIFIED.** **But it is the right direction, on the right day, doing the largest lift in a near-closed
+  strait.** ⇒ **The orchestration Jake senses may be real and may not be American.** *(Analysis.)*
+- **🚩 NEW FLAG — F18: WHAT IS THE POST-WAR HORMUZ EQUILIBRIUM?** Not "does it reopen" but "**to what
+  level.**" **Resolvers: Petroline + ADCOP throughput vs nameplate · Yanbu loadings recovering off −40% ·
+  the 7 bypass projects' actual FID/completion status · Qatari LNG transit count (the un-bypassable leg) ·
+  flag mix of returning tonnage.** *(Analysis.)*
