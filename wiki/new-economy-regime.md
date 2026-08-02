@@ -2183,3 +2183,73 @@ from reading values off compressed images. The chart contributes SHAPE only.)*
 ### Sources
 - FRED M2 chart, Jake paste 2026-07-31 ~10:13pm PDT — `raw/fred-m2-chart-2026-07-31.png`
 - Vault figures: `new-economy-regime.md` L19-27 (Act 3), L1155-1172 (financial_gravity), L132 (falsifiers)
+
+## 2026-08-01 ~11:15pm PDT — ★★★ NY FED DESK SCHEDULE: THE FED *IS* BUYING (I WAS WRONG) — AND THE TAPER IS THE BEST FED OBSERVABLE IN THIS VAULT
+
+Source: **PRIMARY — newyorkfed.org, "Treasury Securities Operational Details," two views pulled by Jake
+8/1/26 ~11:11-11:13pm.** Archived `raw/nyfed-2026-08-01-treasury-operational-details-{amounts,schedule}.pdf`.
+**FIRST-USE:** SOMA = System Open Market Account; FOMC = Federal Open Market Committee; MBS = mortgage-backed
+securities; QT = quantitative tightening.
+
+### DATA (primary source, verbatim where quoted)
+- **THE DIRECTIVE:** *"the FOMC directed the Desk to, when appropriate, **INCREASE SOMA securities holdings**
+  to maintain an ample level of reserves **through purchases of Treasury bills** and, if needed, other Treasury
+  securities with **remaining maturities of 3 years or less**."* Plus: *"continue to reinvest all principal
+  payments received from the Federal Reserve's holdings of **AGENCY** securities into **Treasury BILLS**."*
+- **MONTHLY PLAN ($B).** *Reinvestment = balance-sheet NEUTRAL (replaces maturities). Reserve management =
+  NET ADDITIONS.*
+
+  | period | reinvest | **reserve mgmt** | total |
+  |---|---|---|---|
+  | 1/15-2/12 | 15.4 | **40** | 55.4 |
+  | 2/13-3/12 | 13.4 | **40** | 53.4 |
+  | 3/13-4/13 | 13.8 | **40** | 53.8 |
+  | 4/14-5/13 | 15.5 | **25** | 40.5 |
+  | 5/14-6/11 | 16.3 | **10** | 26.3 |
+  | 6/12-7/13 | 16.5 | **10** | 26.5 |
+  | **7/14-8/13** | **17.6** | **10** | **27.6** |
+
+- **★ RESERVE MANAGEMENT CUT 75% IN FOUR MONTHS (40→10). REINVESTMENT ROSE 14% (15.4→17.6).**
+- **Scheduled ops are ALL BILL PURCHASES:** 7/20 $5.180B (1-4mo) · 7/22 $3.453B (4-12mo) · 7/30 $5.179B ·
+  8/04 $5.179B · 8/06 $3.453B · 8/11 $5.179B. *"The Desk will not operate in securities with 4 weeks or less
+  to maturity."*
+
+### THESIS (interpretation — NOT fact)
+- **⛔⛔ THIS CORRECTS ME ON THE FACT. On 7/31 ~11pm I wrote: "the money growth is NOT the Fed's… the Fed's
+  balance sheet grew 1.2% while M2 hit a record."** **THE FED IS BUYING, under an ACTIVE DIRECTIVE TO
+  INCREASE HOLDINGS.** **That is past "QT is done" — it is expansion.** *(Analysis. I inferred "not buying"
+  from a NET balance-sheet number without checking the OPERATIONS. Net figures net out gross flows — the
+  ninth base/reference-family error, and the same shape: an unstated denominator, here "net of runoff.")*
+- **★★ BUT THE CONCLUSION SURVIVES, AND THE ARITHMETIC IS WHY.** Net-additive pace: **Q1 $480B/yr → now
+  $120B/yr.** Against **M2 $23.05T** that is **2.08%/yr → 0.52%/yr**, i.e. **~37% of M2's +5.6% growth at the
+  Q1 pace → ~9% NOW.** ⇒ **The Fed is a real contributor and not the DRIVER.** *(Analysis.)*
+- **★★★ AND THE DIRECTION IS THE FINDING — IT STRENGTHENS JAKE'S FISCAL-DOMINANCE READ. THE FED'S
+  CONTRIBUTION FELL 75% *WHILE* M2 ACCELERATED TO A RECORD.** ⇒ **The bank-credit and fiscal legs are
+  carrying MORE than the headline implies, because they absorbed the Fed's withdrawal and still accelerated.**
+  **Better support for his thesis than the M2 chart he sent to make it.** *(Analysis.)*
+- **★★★ THE COMPOSITION CLOSES THE LOOP ON THE BILL CHANNEL.** On 7/31 I argued the strongest form of his
+  Treasury claim was **issue short → tap money-market cash**. **THE FED IS BUYING THE BILLS — every scheduled
+  operation, capped at ≤3yr.** ⇒ **Treasury issues short; the Desk buys the paper in the secondary market;
+  reserves are created. It is labelled "reserve management," not QE, but THE MECHANICAL EFFECT ON BASE MONEY
+  IS IDENTICAL.** **That was the missing link in his mechanism and it is on the Fed's own page.** *(Analysis.)*
+- **★★★ THE TAPER IS HAWKISH, AND IT IS THE BEST FED OBSERVABLE THIS VAULT HAS.** 40→10 is the Fed
+  withdrawing liquidity into a selling long end (30Y 5.28), four presidents talking hikes, and 60% priced for
+  September. **AND IT IS OPERATIONS, NOT RHETORIC: published monthly, on a FIXED URL, with AMOUNTS, on a
+  SCHEDULE.** Compare what I have been using: **a dissent count Warsh devalued BY DESIGN, and a 2Y I have
+  failed to read FOUR times.** *(Analysis.)*
+
+### ★★★ KILL SWITCH — REPLACES BOTH FAILED ONES (registered 2026-08-01)
+**THE RESERVE MANAGEMENT AMOUNT FOR THE 8/14-9/13 PERIOD, published BEFORE the September meeting:**
+- **> $10B** → the Fed is ADDING liquidity → **dovish; the hike is less likely and 55% is too high.**
+- **= $10B** → unchanged → **no information.**
+- **< $10B or ZERO** → the Fed is DRAINING before it hikes → **hawkish confirmation; 55% is TOO LOW.**
+**A number the Desk publishes on a URL, ahead of the meeting, that nobody can reframe, devalue, or fail to
+read.** ⇒ **★ THE RULE THIS VINDICATES: prefer observables that are OPERATIONS over observables that are
+STATEMENTS. Three switches built this weekend, and the two that failed were both interpretive.**
+
+- **⚠️ ONE INFERENCE, FLAGGED AS SUCH: the AGENCY→BILLS rotation SHORTENS the Fed's asset duration, and a
+  central bank shortening duration takes less mark-to-market damage if rates rise** — consistent with a
+  hike-preparing posture. **This is reasoning about MOTIVE from a balance-sheet choice. Suggestive, not
+  evidence.** *(Analysis.)*
+
+**Links:** [[market-fragility]] · [[ai-financing-fragility]] · `predictions/2026-07-30-fed-hike-before-december.md`
