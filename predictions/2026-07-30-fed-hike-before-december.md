@@ -283,3 +283,55 @@ cleanly and unambiguously.** **Prefer market-price thresholds over interpretive 
 2. **DGS2 via the patched scanner** when FRED is reachable. Rising 2Y = confirmation.
 3. **Jackson Hole (~late Aug)** — where a September move gets pre-committed.
 4. **A credit event resolving first** → the Fed goes the other way and this dies outright.
+
+---
+
+## REVISION 5 — 2026-08-02 ~2:30pm PDT: **55% → 65% before December · 62% → 70% inside the put's life**
+**Trigger: the 2Y finally arrived, and it kills MY OWN load-bearing objection.** Source: external-retrieval
+handoff (FRED DGS2/10/30, 30 daily values), `raw/handoff-reply-2026-08-02-hormuz-macro.txt`.
+
+### ⛔⛔ THE CASE-AGAINST ITEM I CALLED "THE SINGLE STRONGEST DISCONFIRMATION" WAS A ONE-DAY MOVE
+**Original L64-67: "★★★ THE 2Y FELL… the bond market saw the same three dissents Jake did and moved its Fed
+forecast DOWN, not up. This is the single strongest disconfirmation and it comes from his own data."**
+```
+        2Y      10Y     30Y
+06-17   4.20    4.49    4.93
+07-28   4.26    4.61    5.09
+07-29   4.22    4.67    5.20   <- MY datapoint: -4bp on FOMC day
+07-30   4.23    4.68    5.21
+SIX WEEKS:  2Y +3bp   10Y +19bp   30Y +28bp
+```
+- **TRUE FOR ONE DAY. FALSE OVER THE TREND.** Six weeks is a **CLEAN BEAR STEEPENER**, which this vault's own
+  30Y study grades **+2.56/+0.47 = the BENIGN cell**, not the dangerous flattening one.
+- **★★★ AND THE LEVEL BEATS THE CHANGE: 2Y 4.23 vs fed funds 3.63 = +60bp ≈ 2.4 × 25bp of tightening ALREADY
+  PRICED IN THE FRONT END.** **The 2Y is not fading the hike — it is carrying it.**
+- ⇒ **THE ERROR CLASS IS THE SAME ONE AS THE OTHER NINE: I chose the measurement WINDOW that produced my
+  answer** (one session), **and never stated it.** *(The 8/1 rule — name the baseline in the same sentence —
+  would have caught it: "the 2Y fell **versus yesterday**.")*
+
+### THE OTHER INPUTS THAT MOVED, ALL SAME DIRECTION
+- **★ M2 3-MONTH ANNUALISED: nominal 3.10 → 8.72 in five months; REAL flipped −0.26 → +5.78 in ONE month.**
+  **On 8/1 I dismissed M2 as "~1.3% real, barely growing" — that was the YoY rate. WITHDRAWN.**
+- **★ CME-derived 67.00% probability of ANY hike (2026-08-01)** vs Polymarket 61.6% for September.
+  ⚠️ **Not the 25bp bucket and the horizon is unstated — but REVISION 4's switch said ">55% on CME/swaps ⇒ go
+  to the market." BOTH markets now clear it.**
+- **★ VOTER ROSTER CONFIRMED: Williams (NY), Paulson (Philadelphia), Hammack (Cleveland), Logan (Dallas),
+  Kashkari (Minneapolis).** ⇒ **ALL THREE DISSENTERS ARE VOTERS.** **Musalem (St. Louis) is NOT** — the 7/31
+  inference was right, and his FT comments do not touch the vote count.
+- **★ NY FED 8/14-9/13 reserve-management amount NOT YET PUBLISHED** — the registered kill switch is intact
+  and still pending.
+- **⚠️ COUNTERWEIGHT, HELD HONESTLY: F5 came back SPOT** (QatarEnergy's 33 cargoes) and **F3 came back a
+  LETTER**, both of which argue EPISODIC rather than structural — and the Hormuz de-escalation is dovish for
+  crude. **The oil leg of the hawkish case is the one that can still break.**
+
+### WHY +10 AND NOT MORE
+**Four upward revisions were already flagged (REVISION 4) as a dragged anchor.** **This one is different in
+kind — it does not ADD evidence, it REMOVES the objection I weighted most.** ⇒ **A bigger step is warranted
+precisely because the move is a subtraction from the case AGAINST, not another item on the case FOR.**
+**Capped at 65% because the CME number is not the September 25bp bucket and the oil leg remains live.**
+
+### KILL SWITCHES — UNCHANGED, plus one demotion
+1. **NY Fed reserve-management amount, 8/14-9/13** *(the primary — operations, not statements).*
+2. **CME/swaps SEPTEMBER 25bp BUCKET specifically** — still not in hand.
+3. **⛔ THE 2Y IS RETIRED AS A SWITCH.** **It has now been read once in five attempts and it refuted the
+   person who registered it. It stays as context, never again as a test.**
