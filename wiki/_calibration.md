@@ -1053,3 +1053,50 @@ cannot have idiosyncratic bad news."* True. **And it is precisely why ETFs co-mo
 finding and an argument that you cannot measure it. Check which one dominates BEFORE citing it as support.**
 
 **Links:** [[dip-buying-base-rates]] · `tools/dip_permutation_test_cell.py`
+
+---
+
+## 2026-08-02 ~10:05am PDT — ⛔ EIGHTH BASE/REFERENCE ERROR: I CHOSE THE COMPARISON CLASS THAT PRODUCED MY ANSWER
+
+**THE INCIDENT.** Scanner: *"Iraq and Turkey strike a 1-YEAR oil pipeline deal to boost exports during ongoing
+Hormuz closures."* **I read the term as a forecast — "a one-year term is what you sign when you expect the
+disruption to end" — and graded it as evidence AGAINST Jake's permanent-bypass thesis.**
+**Jake: *"or what you sign when there's uncertainty and you're grasping for some remnants of short term
+stability."*** **He is right, and the error has three layers.**
+
+- **⛔ LAYER 1 — A CONTRACT TERM IS JOINTLY DETERMINED AND I READ ONE CAUSE INTO IT.** Short terms come from:
+  **(1) expected short disruption** *(the only one I claimed)* · **(2) uncertainty too high to price longer** ·
+  **(3) counterparty risk** · **(4) financing constraints** · **(5) preserved optionality.**
+  **FOUR OF FIVE POINT AWAY FROM MY CONCLUSION.** And the act itself favours Jake: **if you expected a quick
+  fix you might not sign at all — you would wait. Signing means you need throughput NOW.**
+  **Plus a parochial cause I skipped: Iraq and Turkey have a litigious pipeline history (repeated shutdowns
+  over arbitration/payment). The term may be about THEM, not about Hormuz.**
+- **⛔⛔ LAYER 2 — THE REAL ERROR: I PICKED THE YARDSTICK THAT PRODUCED MY ANSWER.** **1 year is SHORT against
+  a 20-year greenfield throughput contract. It is LONG against spot cargoes.** **I benchmarked a COMMERCIAL
+  REACTIVATION OF EXISTING PIPE against GREENFIELD CAPEX TERMS** — no new steel, no FID, no 15-25y payback to
+  compare to. **The comparison class was never stated, so its invalidity was never visible.**
+- **⛔ LAYER 3 — AND THE VAULT ALREADY HELD THE RIGHT DISCRIMINATOR. I APPLIED IT WITH THE OPPOSITE SIGN.**
+  **F5, registered in `acute_scanner_cell.py`: *"Spot bridges weeks; TERM prices PERMANENCE."*** **By F5's own
+  logic a 1-year TERM deal codes toward PERMANENCE, not away from it.** **I made the error the flag exists to
+  prevent, on the same thread, in the same window.**
+
+### ★★★ THE FIX — STATE THE COMPARISON CLASS BEFORE THE CONCLUSION, NOT AFTER
+**This is the EIGHTH instance of this class in ~48 hours** (six logged 7/31, the M2 nominal-vs-real on 8/1,
+this one). **Logging it a ninth time will not fix it. The failure is always the same shape: the BASELINE
+STAYS IMPLICIT, so it is never audited.**
+⇒ **RULE: any comparative claim ("short", "small", "flat", "cheap", "a lot") must NAME its baseline IN THE
+SAME SENTENCE.** *"One year is short compared to a 20-year greenfield pipeline contract"* — **written out, the
+invalidity is visible immediately, because that line is not a greenfield pipeline.** **The error hides in the
+unstated denominator, every time.**
+
+### ★★ AND THE SUBSTANTIVE UPGRADE: CAPEX, NOT CONTRACTS, IS THE BRIDGE-vs-REWIRING TEST
+- **A contract is cheap. Steel in the ground is not.** **Reactivating idle capacity = zero sunk cost, fully
+  reversible ⇒ tells you NOTHING about permanence. New-build FID = sunk, irreversible, underwritten on a
+  15-25 year payback ⇒ tells you EVERYTHING.**
+- **★ AND THERE IS A FORCING CONSTRAINT THAT MAKES IT CHECKABLE: project finance for new pipe REQUIRES
+  long-dated throughput agreements — banks will not lend against one-year contracts.** ⇒ **Absent long
+  contracts ⇒ no new-build being financed. Present new-build ⇒ the long contracts EXIST and can be found.**
+- ⇒ **🚩F18's resolver is NOT the Iraq-Turkey deal. It is: of the "7 bypass projects" logged at
+  [[war-board]] L157, HOW MANY HAVE REACHED FID, AND AT WHAT CONTRACT TENOR?**
+
+**Links:** [[war-board]] · [[demand-destruction]] · [[oil-value-chain]]
