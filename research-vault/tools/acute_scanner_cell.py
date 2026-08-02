@@ -39,6 +39,42 @@ MAG7  = [('AAPL','Apple'), ('MSFT','Microsoft'), ('GOOGL','Alphabet'), ('AMZN','
 MEM   = [('MU','Micron'), ('SNDK','SanDisk'), ('STX','Seagate'), ('WDC','WestDigital'),
          ('005930.KS','Samsung Elec'), ('000660.KS','SK hynix'), ('TSM','TSMC'), ('AVGO','Broadcom')]
 
+
+# ── EVENT CLUSTERING — added 8/2 after Jake caught me presenting a ZeroHedge re-report of a
+#    Truth Social post HE HAD ALREADY PASTED as fresh corroboration. The run printed 95 HITS;
+#    it carried ~15-18 DISTINCT EVENTS. The Hormuz block alone was ~50 headlines over ~9 things.
+#    ⛔ THE DEFECT: the scanner counted SYNDICATION as SIGNAL. Forty outlets reprinting one
+#    statement is one datum, not forty — and a big hit-count READS as high signal, which is the
+#    opposite of true. war-board.md L572 already registered the rule: "if this is the same story
+#    resurfacing it is NOT NEW INFORMATION." The scanner had no way to apply it.
+STOP = set("""the a an of of to in on for and or at by from with as is are was be been says say said
+after over amid new more than that this it its us u.s. reuters bloomberg report reports news will would
+could may might near into out up down but not no yes he she they his her their who what when where why
+live day update breaking exclusive""".split())
+def _stem(w):
+    for suf in ("'s", "ies", "ing", "ed", "es", "s"):
+        if w.endswith(suf) and len(w) - len(suf) >= 4: return w[:-len(suf)]
+    return w
+def _toks(t):
+    import re as _re
+    return {_stem(x) for x in _re.findall(r"[a-z0-9']+", t.lower())
+            if x not in STOP and len(x) > 2}
+def cluster_hits(hits, thresh=0.60, minshare=3):
+    """Group same-EVENT headlines. CONTAINMENT (inter / smaller set), not Jaccard --
+       headlines vary wildly in length and Jaccard punishes long-vs-short pairs, which is
+       exactly the wire-vs-aggregator case we need to catch."""
+    out = []
+    for h in hits:
+        tk = _toks(h[3]); placed = False
+        for rep, dupes, rtk in out:
+            inter = len(tk & rtk)
+            if inter >= minshare and inter / max(1, min(len(tk), len(rtk))) >= thresh:
+                dupes.append(h); rtk |= tk          # widen the cluster as members join
+                placed = True; break
+        if not placed:
+            out.append((h, [], set(tk)))
+    return [(r, d) for r, d, _ in out]
+
 def px_block(title, rows):
     print(f'\n### {title}')
     print(f'  {"":13}{"last":>12}{"chg%":>9}{"BASE":>12}   as of')
@@ -391,6 +427,7 @@ px_block('MEMORY COMPLEX (independent)', MEM)
 print('\n'+'='*74); print(f'  KEYWORD HITS ONLY — last {HOURS}h, financial tier first'); print('='*74)
 
 seen, problems, grand, QUEUE = set(), [], 0, []
+distinct = 0
 for tier_idx, (tier_name, feeds) in enumerate(TIERS):
     hits = []
     for name, url in feeds:
@@ -414,7 +451,12 @@ for tier_idx, (tier_name, feeds) in enumerate(TIERS):
         print('  no keyword hits in this tier.')
         continue
     hits.sort(key=lambda x: x[0], reverse=True)
-    for dt, name, th, title, link, fl in hits[:PER_TIER_CAP]:
+    clustered = cluster_hits(hits)
+    dup_tot = sum(len(d) for _, d in clustered)
+    if dup_tot:
+        print(f'  [{len(hits)} headlines -> {len(clustered)} DISTINCT EVENTS. '
+              f'{dup_tot} are syndication of an event already shown below.]')
+    for (dt, name, th, title, link, fl), dupes in clustered[:PER_TIER_CAP]:
         age = (NOW-dt).total_seconds()/60
         agestr = f'{age:.0f}m' if age < 90 else f'{age/60:.1f}h'
         star = ' ***OPEN FLAG '+','.join(w['id'] for w in fl) if fl else ''
@@ -422,12 +464,18 @@ for tier_idx, (tier_name, feeds) in enumerate(TIERS):
         print(f'        {title[:150]}')
         print(f'        -> {" ; ".join(ROUTE.get(t,"?") for t in th)}')
         if link: print(f'        {link[:110]}')
-    grand += len(hits)
-    if len(hits) > PER_TIER_CAP:
-        print(f'\n  ...{len(hits)-PER_TIER_CAP} more in this tier (capped at {PER_TIER_CAP}).')
+        if dupes:
+            srcs = ', '.join(sorted({d[1] for d in dupes}))[:90]
+            print(f'        (+{len(dupes)} same-event reprints: {srcs})')
+    grand += len(hits); distinct += len(clustered)
+    if len(clustered) > PER_TIER_CAP:
+        print(f'\n  ...{len(clustered)-PER_TIER_CAP} more DISTINCT events in this tier (capped at {PER_TIER_CAP}).')
 
 print('\n'+'='*74)
-print(f'  TOTAL KEYWORD HITS: {grand}   (a low number is a real signal, not a broken scanner)')
+print(f'  TOTAL KEYWORD HITS: {grand}   ->   DISTINCT EVENTS: {distinct}'
+      f'   ({grand-distinct} syndicated reprints, {(grand-distinct)/max(grand,1)*100:.0f}%)')
+print('  ** READ THE DISTINCT COUNT, NOT THE HIT COUNT. Forty outlets reprinting one statement is')
+print('     ONE datum. A big hit-count reads as high signal and is usually the opposite. **')
 print('  Every hit carries a "->" line naming the vault note it belongs to. Read it into that')
 print('  note, or explicitly decide it is noise. An unrouted hit is a skipped relevance check.')
 if problems:
