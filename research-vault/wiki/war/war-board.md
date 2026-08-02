@@ -840,3 +840,63 @@ titled "2026 Kharg Island attack."** Verified: WaPo, Jerusalem Post, AOL, NPR, N
    already filed."* **The value came from going to VERIFY A NUMBER I HAD HAND-WAVED** — *"the overwhelming
    majority"* — instead of restating it. **The vault's largest gap tonight was found by quantifying an
    adjective.** *Standing: an unquantified magnitude in a load-bearing sentence is an unrun check.*
+
+## 2026-08-01 ~7:05 PM (tz UNSTATED) — TRUMP CANCELS THE IRAN ATTACK FOR "PERIMETERS OF A DEAL"
+
+Source: Trump post, pasted by Jake ~8:30pm PDT. ⚠️ **Timestamp reads "8/1/26, 7:05 PM" — ET or PT NOT
+established.** If ET, ~4.5h before paste; if PT, ~1.5h. Logged as PASTE-time-anchored.
+
+### DATA (as-reported — the post's own words)
+- **"Locked and loaded… at levels of Military Terror, Strength, and Power not seen since World War II."**
+- **"We have just been asked by Iran, and other Middle Eastern Countries, to hold off any attack in that the
+  perimeters of a deal has been agreed to."**
+- **The deal WOULD include: "the Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT, and an end to
+  Iran's nuclear threat."**
+- **"I have agreed… to cancel the attack, SUBJECT TO BEING ABLE TO RAPIDLY MAKE A DEAL."** Israel "joins."
+- Context, 7/31 scanner: **Brent 90.12 / WTI 84.67, both set for a ~20% MONTHLY surge**; Kpler traffic down
+  sharply; 30 ships rerouted; tanker struck off Oman; Cabinet convened at Camp David.
+
+### THESIS (interpretation — NOT fact)
+- **★★★ A REGISTERED TEST PRINTED, AND IT RESOLVES TO HYPOTHESIS A.** [[demand-destruction]] L78-80 registered
+  the fork: *"fig leaf and declares victory → hypothesis A (he wanted the WORDS, oil suppression). If the
+  goalposts MOVE → B (he wanted the refusal). Goalpost behaviour after a partial response is the tell — log it
+  when it prints."* **He took a partial response ("perimeters… agreed to") and cancelled the attack. That is
+  A.** And L83 named the motive in advance: **"Oil suppression IS his anti-hike policy."** *(Analysis.)*
+- **⛔⛔ AND THE OPERATING INSTRUCTION IS A CORRECTION I ALREADY MADE ONCE ON THIS EXACT SUBJECT.**
+  [[portfolio-state]] L137 (2026-07-05): *"Earlier intraday read ('war premium faded') leaned on REPORTED
+  Hormuz recovery (Saudi 90%, 10M bbl/day) — **the physical vessel count contradicts it.**"* **This post is
+  the same object: a DECLARATION of an opening, not an opening.** **Jake's "reported ≠ physical" bezzle
+  pattern.** And the standing conclusion, L86: **"Words alone still don't move the marker: the $90 leg
+  remains Kharg/Jask/PHYSICAL closure, not declarations."** *(Analysis.)*
+- **★★★ THE FALSIFIABLE TEST IS A VESSEL COUNT, AND IT IS CRISP.** Pre-war **~3,000/month ≈ 100/day**; April
+  **191/month ≈ 6/day (6%)**; 7/16 Kpler **13 in one day (13%)**; official **~11/day (11%)**.
+  ⇒ **"IMMEDIATE, COMPLETE, AND TOTAL" MEANS ~100/DAY. A 9× INCREASE, PUBLISHED BY KPLER, WITHIN DAYS.**
+  **Nothing has to be argued — the number shows up or it does not.** *(Analysis.)*
+- **⚠️ THE LANGUAGE IS CONDITIONAL AND PRECISELY SO. "Perimeters of a deal has been AGREED TO" → "SUBJECT TO
+  being able to RAPIDLY MAKE A DEAL."** **Parameters agreed ≠ deal made.** The Hormuz opening and the nuclear
+  provision are what the deal WOULD include, not what has occurred. *(Analysis.)*
+- **★★ THE TIMING IS THE STRUCTURE THE VAULT ALREADY DESCRIBED.** L84: *"this binary is SCHEDULED INTO a
+  CLOSED MARKET (deadline Saturday; crude reopens Sunday evening) — WEEKEND GAP RISK ON A KNOWN DATE."*
+  **Written about a different deadline; identical structure. ~18 hours of closed market between the post and
+  the first crude print (Sun ~3pm PT).** *(Analysis.)*
+- **★★★ FED LINK — A DOVISH INPUT TO A CALL I REVISED **UP** SIX HOURS EARLIER, AND I AM NOT TOUCHING IT.**
+  The registered file's case-against #4: **"Only OIL argues hawkish."** Brent at 90 with a 20% monthly surge
+  is the sole non-fiscal leg of the hike case. **If crude gaps down Sunday, that leg weakens.**
+  ⇒ **BUT REVISING ON A DECLARATION IS EXACTLY THE 7/05 ERROR, against my own logged correction on this same
+  subject.** **The revision waits for the VESSEL COUNT or a SUSTAINED crude move — not the announcement, and
+  not Sunday night's first tick.** *(Analysis. REVISION 4 stands at 55%/62%.)*
+- **★ TRIGGER (a) EXPORT-TERMINAL STRIKE — STAYS UNFIRED, AND THE TAIL THINS.** A cancelled attack means it
+  does not fire. The $120-147 band was already re-sized to Abqaiq-only (L750); **this pushes the catastrophic
+  tail FURTHER OUT, not closer.** *(Analysis.)*
+- **(book — descriptive, not advisory)* Risk-ON if it holds. **The Dec put has $442 of room against the 35%
+  stop and a base case at 2.7× the limit** ([[portfolio-state]] 8/1). **A Sunday crude gap feeding a Monday
+  risk-on session thins that room without SPY doing anything dramatic.** *(Analysis.)*
+
+### 🚩 WHAT TO WATCH, IN ORDER
+1. **Kpler / UKMTO transit counts — the only thing that settles "opened."** ~11-13/day → ~100/day or it did not.
+2. **GOALPOST BEHAVIOUR from here** (per the registered test): does "rapidly make a DEAL" get extended, or do
+   new conditions appear? **Movement = the words were the product.**
+3. **Sunday ~3pm PT crude open** — gap size, and whether it HOLDS through Monday.
+4. **Iranian confirmation.** The post asserts Iran asked. **No Iranian source in hand.**
+
+**Links:** [[demand-destruction]] · [[oil-value-chain]] · [[new-economy-regime]] · [[portfolio-state]]
