@@ -1100,3 +1100,35 @@ unstated denominator, every time.**
   [[war-board]] L157, HOW MANY HAVE REACHED FID, AND AT WHAT CONTRACT TENOR?**
 
 **Links:** [[war-board]] · [[demand-destruction]] · [[oil-value-chain]]
+
+
+---
+
+## 2026-08-02 ~4:10pm PDT — ★★★ NEW ERROR CLASS: EVIDENTIARY DRIFT
+
+**A claim gaining confidence through RESTATEMENT rather than through EVIDENCE.**
+
+**THE INSTANCE.** A 60-day Hormuz fee holiday, sourced to *Israeli media reporting that mediators SEEK* a
+*proposal* to *revive* an MOU — four removes from a fact. Across three messages, with **no new information
+arriving between them**, it went: *"the deal being mediated"* → *"the ACTUAL SUBSTANCE"* → *"what the mediated
+substance ACTUALLY IS."* **Then I used it as the benchmark to grade a −6.70% crude move, and pronounced the
+market's pricing disciplined because it matched a term that may not exist.** Jake: *"I don't think there's an
+actual 60 day holiday. I think that's been floated for discussion."*
+
+- **HOW IT DIFFERS FROM THE BASE/REFERENCE FAMILY** (nine instances this session): **there, the DENOMINATOR is
+  unstated. Here, the PROVENANCE DECAYS with each retelling.** The first mention is honest; the third is a
+  fabrication assembled entirely from my own prior sentences.
+- **★ THE TELL, AND IT IS THE USEFUL PART: THE EXPLANATION FIT TOO WELL.** A −6.70% move matching a 60-day
+  partial deal *exactly* is the kind of neat reconciliation that should trigger suspicion, **because the neat
+  part came from the unverified input.** ⇒ **WHEN AN EXPLANATION IS UNUSUALLY SATISFYING, AUDIT THE INPUT
+  THAT MADE IT SATISFYING.**
+- **★★★ THE FIX: carry the QUALIFIER with the CLAIM, not just at first use.** "Reportedly," "floated,"
+  "proposed" must survive every restatement or the claim is not the same claim. ⇒ **AND MAINTAIN AN EXPLICIT
+  ESTABLISHED-vs-FLOATED SPLIT in any note where a negotiation is live** — one is now standing at
+  [[war-board]]. **A list forces the status to be re-asserted; prose lets it decay silently.**
+- **⚠️ RELATED, SAME EPISODE: I PICKED THE VAULT PRECEDENT THAT FAVOURED MY POSITION.** Two registered lines
+  applied — *"the PRICE is the referee"* (update) and the 7/05 *physical-beats-reported* correction (hold) —
+  **and I reached for the one that let me hold a call I had just revised up.** **Having two applicable
+  precedents is a REASON TO NAME BOTH, not a licence to choose.**
+
+**Links:** [[war-board]] · [[demand-destruction]] · `predictions/2026-07-30-fed-hike-before-december.md`

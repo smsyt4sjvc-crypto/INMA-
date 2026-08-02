@@ -1072,3 +1072,49 @@ big oil likes the idea of Iran having economic control over the stability of oil
   added: stemmed-token CONTAINMENT matching, prints DISTINCT EVENTS alongside hits and marks reprints.**
   **⚠️ DELIBERATELY TUNED TO UNDER-MERGE — a dedup that over-merges HIDES REAL NEWS; less compression is the
   safe failure.** Tested on this run's Hormuz block: **22 → 12, 45% flagged as reprints.** *(Analysis.)*
+
+### Addendum 2026-08-02 ~4:10pm PDT — ⛔ EVIDENTIARY DRIFT: I hardened a FLOATED PROPOSAL into a TERM SHEET
+
+**Jake:** *"I don't think there's an actual 60 day holiday. I think that's been floated for discussion."*
+**He is right. Logging the mechanism because nothing new arrived between the three restatements.**
+
+- **⛔ THE DRIFT, verbatim across three messages:** *"the deal BEING MEDIATED"* → *"the ACTUAL SUBSTANCE being
+  mediated is a 60-day fee holiday"* → *"the market priced roughly WHAT THE MEDIATED SUBSTANCE ACTUALLY IS."*
+  **No new evidence entered. The claim firmed through REPETITION and then became the YARDSTICK I graded the
+  crude move against.** **Source chain is FOUR REMOVES: Israeli media → reporting that mediators SEEK → a
+  PROPOSAL → to REVIVE an MOU. Both headlines carry "seek", "being mediated", "report". I sanded off all
+  three qualifiers.** *(Analysis. ⇒ **NEW ERROR CLASS FOR [[_calibration]]: EVIDENTIARY DRIFT — a claim
+  gaining confidence through restatement rather than evidence. Distinct from the base/reference family: there
+  the denominator is unstated; here the PROVENANCE decays with each retelling.**)*
+- **⛔ AND IT VOIDS THE READ I BUILT ON IT.** I called −6.70% *"consistent with a 60-day fee holiday, not with
+  a reopening."* **If the holiday is a proposal, the reconciliation is empty.** ⚠️ **AND THE TELL WAS THAT IT
+  FIT TOO WELL — a very satisfying explanation whose satisfying part was the unverified input.**
+- **★ WHAT SURVIVES vs WHAT DOES NOT.** **SURVIVES: the measurement — WTI 84.67 → <79.00 = −6.70%, ~a third
+  of the war premium out on a $68 baseline, two-thirds left.** **DOES NOT: the interpretation.** **At least
+  four mechanisms produce the same −6.70% — partial belief in a full reopening · full belief in a partial one
+  · position-squaring into a headline · thin Sunday liquidity. I cannot distinguish them and I wrote as though
+  I could.** *(Analysis.)*
+- **★★ THE VAULT REGISTERED THIS GAP ALREADY (L250):** *"A prediction market with skin in the game says 87%
+  NO; the crude tape acts like reopening is imminent. One of them is wrong… the cleanest
+  positioning-vs-probability gap of the war. ZH's cynical read (anonymous deal-hype exists to push oil down)
+  is a motive claim, unverifiable, logged as texture."* ⇒ **Today is that gap, WIDER: a declaration Iran
+  DENIES + a floated proposal from Israeli media + crude −6.70%, six weeks before a Fed meeting the
+  administration wants quiet. [[demand-destruction]] L83 named the motive in advance: "Oil suppression IS his
+  anti-hike policy."** **Still unverifiable, still texture — but it has had a very good day.** *(Analysis.)*
+- **⚠️⚠️ AND ONE THAT CUTS AGAINST ME, NAMED RATHER THAN AVOIDED.** **The SAME line says "the discipline says
+  the PRICE is the referee."** **That is a registered vault position arguing the market has spoken and I
+  should update. I instead reached for the 7/05 physical-vs-reported precedent, which is ALSO registered and
+  which supports HOLDING my call.** ⇒ **I picked the vault precedent that favoured my position — the same
+  move as picking the comparison class.** **RESOLUTION, offered as principled rather than convenient: the
+  price is a referee on WHAT THE MARKET BELIEVES, not on WHAT IS TRUE. Those coincide when the market has
+  information; here it has a headline, and the physical data (5 vessels/day, LNG carriers struck THROUGH the
+  announcement) has not moved.** **65% holds and the Wednesday-close test governs — but the reasoning is now
+  EXPLICIT instead of assumed.** *(Analysis.)*
+
+### 📌 HORMUZ DEAL — ESTABLISHED vs FLOATED (maintain this split; it is what drifted)
+**ON RECORD:** Trump's cancellation + "perimeters of a deal" (his own post) · **Araghchi: Iran-Oman talks in
+"final stages," a "mutual mechanism," "respects sovereignty of both"** · **Iran FM spokesman: "Hormuz will not
+return to pre-war status"** · **Iran DENIES a deal** · **~$2M/vessel transit charge** (Lloyd's List 2026-03-18)
+· **LMA5708 toll-voids-cover clause exists** (LMA 2026-07-23).
+**FLOATED / UNCONFIRMED:** **the 60-day fee holiday** (Israeli media, "mediators seek") · **that IRAN asked
+for the pause** (Trump's claim; Iran denies) · **the MBS call** (ZeroHedge, T3).
