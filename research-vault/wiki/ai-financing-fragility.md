@@ -2854,3 +2854,67 @@ Follows the 7/31 sidebar flag *"US Treasury intervenes to support yen after Japa
   *(Analysis.)*
 
 **Links:** [[market-fragility]] · [[new-economy-regime]] · [[portfolio-state]] · [[ai-capex-cycle]]
+
+## 2026-08-02 ~3:20pm PDT — ★★★ BIG TECH AS A DURATION-SUPPLY SHOCK: a channel this vault never had
+
+Source: **ZeroHedge/Tyler Durden, 2026-08-02 1:55pm**, full text pasted by Jake. `raw/zerohedge-2026-08-02-japan-bretton-woods-2.txt`
+⚠️ **T3 SOURCE — the conclusion is "central bankers need to CUT" and dissenters have "Keynesian dogma." Advocacy.**
+
+### ⛔ FIRST: FIVE MISREADS OFF THE COMPRESSED SCREENSHOT, ONE OF THEM LOAD-BEARING
+Jake sent a screenshot first (**668×8000 rendered at 167×2000, a ~4× downscale**), then the clean text.
+| I read | actual |
+|---|---|
+| "weakest since 1998" | **"weakest since 1986"** — a 40-year low |
+| "since the 1990s" | "since the 1980s" |
+| "largest holder of U.S. debt" | **"largest FOREIGN holder"** |
+| "banker stagnation" | **"secular stagnation"** — I invented a phrase |
+| "pensions/insurers losing duration" | **"BIG TECH's pivot from providing savings to demanding credit"** |
+**The last is not a detail — it is the most vault-relevant paragraph in the piece, and I replaced it with a
+generic pensions story that appears nowhere in the text.** ⇒ **The flag I attached ("reading off a ~4×
+downscale, treat with uncertainty") was CORRECT AND INSUFFICIENT. The right move on a compressed long-form
+image is to ASK FOR THE TEXT, not to read it carefully.** *(Standing: this is the same failure family as the
+cement-PPI axis — nine-plus instances now.)*
+
+### DATA (as-reported, clean text)
+- **Katayama to announce US-Japan FX coordination as early as Monday** (Bloomberg, person familiar).
+  Reuters: she would confirm joint action. **Operation "still ongoing."**
+- **Yen 157.40 at NY close Friday, strongest since early May. Two days earlier: weakest since 1986.**
+- **Bessent's Camp David notepad, PHOTOGRAPHED BY REUTERS: "To Do — Buy Japanese Yen (JPY) $5-10 bil."**
+- **★ "Adding to that pressure is Big Tech's pivot from PROVIDING SAVINGS to DEMANDING CREDIT. The same
+  companies that once ABSORBED DURATION are now ISSUING DEBT to finance AI infrastructure, data centers,
+  chips, and power."**
+- Thorne (Wellington Altus): the long end is **flows, not inflation**; "breakevens remain anchored."
+
+### THESIS (interpretation — NOT fact)
+- **★★★ THE BIG TECH PARAGRAPH IS A TRANSMISSION CHANNEL THIS VAULT HAS NEVER HAD.** **Every AI-capex entry
+  here treats the buildout as a CREDIT FRAGILITY question — can they fund it, what breaks, where is the dealer
+  loss. NONE treats it as a DURATION-SUPPLY question: WHO BUYS THE PAPER.** **Big Tech ran huge securities
+  portfolios; they were duration BUYERS. Issuing to fund capex is a DOUBLE SWING — lose a large buyer, gain a
+  large issuer, same market.** **The numbers were already on file and never pointed at the long end:**
+  **MSFT $196.6B→$329.1B in ONE quarter (+$132.5B = 40%)** · **the "$2.5T IOU"** · **$170B of datacenter cost
+  in a quarter** · **AMZN FCF −$26B and META FCF cratering — the saver→borrower flip printed in the cash flow
+  statements** · **"hyperscaler capex binge is issuing near junk."** ⚠️ **Leases/commitments ≠ bond issuance;
+  direction and scale hold, the identity does not.** *(Analysis. Same facts, second channel.)*
+- **⛔ AND IT CROWDS OUT THE THING JAKE AND I ARGUED ABOUT ON 7/31.** I said deficits create M2 only if BANKS
+  absorb the issuance. **Big Tech corporate issuance competes for the SAME duration buyers as Treasury.**
+  ⇒ **Two large new claimants (Treasury + hyperscalers) on a buyer base that is simultaneously losing its
+  largest foreign participant.** *(Analysis.)*
+- **★ "1986" REFRAMES PLAZA AND I DISMISSED IT OFF A MISREAD.** Plaza was **Sept 1985**, coordinated
+  intervention to WEAKEN the dollar. **A yen at its weakest since 1986 is a ~40-YEAR ROUND TRIP to just after
+  Plaza.** ⇒ **The $5-10B SIZING objection STANDS (9-19% of Japan's ~$53B = symbolic participation). The
+  HISTORICAL framing does NOT deserve the dismissal I gave it.** *(Analysis.)*
+- **⇒ THE FLOW CASE IS NOW TWO INDEPENDENT DURATION SHOCKS, NOT ONE, AND DESERVES MORE WEIGHT THAN I GAVE IT
+  25 MINUTES AGO.** ⚠️ **But "flows, therefore not inflation" remains a FALSE DICHOTOMY — CPI 4.2%, core PCE
+  3.4%, memory ~50bp of core, M2 3m ann +8.72% nominal / +5.78% REAL. Both can push the long end.**
+  **And "breakevens remain anchored" is STILL UNVERIFIED and still decides the argument.** 🚩 **FRED T5YIE /
+  T10YIE / T5YIFR — cheapest outstanding pull.** *(Analysis.)*
+- **★★★ THE STRONGEST CASE AGAINST MY OWN 65%, AND IT IS BUILT FROM THIS VAULT'S OWN MEASURED CELLS.**
+  **If the long end is rising on DURATION SUPPLY rather than inflation expectations, hiking the front end does
+  not fix it — it converts BEAR STEEPENING into BEAR FLATTENING.** `long_yield_regime_cell.py`, 12,357 obs:
+  **steepening +2.56/+0.47 (benign, and where we are: 2Y +3bp vs 30Y +28bp) → flattening −3.60/−1.35 (the bad
+  one).** ⇒ **A September hike into a flow-driven selloff moves the market from the benign cell to the
+  dangerous one.** ⚠️ **DOES NOT MOVE THE 65%: that forecasts what they WILL do, not what is optimal, and four
+  voters argue the other way. But it is the best argument against the call that has been made, and it belongs
+  on the record NEXT TO IT.** *(Analysis. Registered as a standing counter, not a revision.)*
+
+**Links:** [[new-economy-regime]] · [[market-fragility]] · [[ai-capex-cycle]] · `predictions/2026-07-30-fed-hike-before-december.md`
