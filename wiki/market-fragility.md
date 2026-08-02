@@ -2051,3 +2051,51 @@ different questions**, and the live-implied "bases" I reconstructed ARE the open
   verdict; *last-run→now* is the tail. **MU is +3.2% / −4.8% / −1.7% depending on which you pick — all true.**
   ⇒ **Do not ask "how is it doing"; ask "since when."** *(Same shape as the AVWAP STATE-vs-TRANSITION result:
   one condition, two populations, opposite answers.)*
+
+## 2026-08-02 ~3:05pm PDT — GS PRIME BOOK: BIGGEST NET BUYING SINCE NOV '20 — and it is SHORT COVERING, not conviction
+
+Source: **ZeroHedge/X, 8/2/26 3:05pm, 11K views** — chart credited to **Goldman Sachs Prime Book, "US Info
+Tech (Positive Value = Net Buying), % of Sector Gross Market Value, Weekly Net Trading Flow."**
+⚠️ **T3 SOURCE. The GS prime data is real and widely circulated; "Crushing" is ZeroHedge's word.**
+Jake's question: *"What does this mean? GS buying shorts?"*
+
+### DATA (as-charted)
+- **Weekly net trading flow ~+3.5% of sector gross market value for July 24-30**, marked with a red line —
+  **the highest reading on a chart spanning 2021 → 2026 (range roughly −5% to +5%)**, and described as the
+  **biggest buying since November 2020.**
+- ⚠️ **THE FLOW WEEK IS 7/24-7/30. Friday was 7/31.** ⇒ **This PREDATES the 33.9pp memory split and AMZN
+  +15.32%. Stale by 2-4 sessions relative to the tape.**
+
+### THESIS (interpretation — NOT fact)
+- **★★ ANSWERING JAKE DIRECTLY: NOT GS, AND NOT "BUYING SHORTS."** The **prime book** is what Goldman's
+  **hedge-fund CLIENTS** hold and trade through GS as broker. **GS is the custodian reporting client flow, not
+  the principal.** And the flow is **BUYING BACK existing shorts — COVERING**, which is the opposite of
+  initiating one. *(Analysis.)*
+- **★★★ AND IT RECONCILES WITH A DATAPOINT THIS VAULT ALREADY HELD, INTO ONE FACT.**
+  [[ai-financing-fragility]] L1974: **Goldman's "largest 3-day DE-GROSS since Nov '22" on JULY 29** —
+  **the same week.** **De-gross and record net BUYING sound contradictory and are not: COVERING A SHORT IS A
+  BUY THAT REDUCES GROSS EXPOSURE.** ⇒ **Both can only be true simultaneously if the net buying is almost
+  entirely SHORT COVERING rather than new longs. The two prints are one event.** *(Analysis. ★ This is the
+  vault doing what it is for — two separately-filed observations resolving each other.)*
+- **★★ AND THE SETUP WAS REGISTERED BEFORE IT FIRED.** [[_calibration]] L329: *"Bearish NARRATIVE (consensus)
+  + **de-grossed-but-UNHEDGED books (AI at 25th %ile, macro hedges reduced) → near-term PAIN**."*
+  [[ai-capex-cycle]] L1733: *"**MSFT carried DECADE-HIGH short interest into this print**, so a squeeze is
+  the…"* **MSFT printed +3.02% Friday.** *(Analysis.)*
+- **★★★ WHY IT IS NOT BULLISH: FORCED BUYING IS INFORMATIONALLY EMPTY AND NON-REPEATING.** Those funds did
+  not conclude tech was cheap — **they hit risk limits.** **And a short can only be covered ONCE: the bid that
+  produced this rally is SPENT.** What remains is whatever real demand sits underneath, **about which this
+  chart says nothing.** ⚠️ **The comparison class is the tell — Nov 2020 was the vaccine announcement, the
+  most violent forced unwind on record.** *(Analysis.)*
+- **★★★ AND IT SHARPENS LAST NIGHT'S GS VOL-DESK NOTE ([[memory-regime-question]] L425).** They wrote
+  *"increasing inbounds from LO… Semis is a CLEAN place to reload. We saw vol compress on YESTERDAY'S RALLY."*
+  ⇒ **THE RALLY THEY CALLED CLEAN WAS THE SQUEEZE.** **Sequence: hedge funds get squeezed out of shorts →
+  long-only demand arrives AFTER the forced move → the desk publishes "clean place to reload."**
+  **I filed last night that the note was sourcing the other side of LO demand. This chart names what that
+  other side is: the tail end of a short squeeze.** **Vol compressing into a squeeze is not calm — it is the
+  mechanical result of forced two-way flow finishing.** *(Analysis.)*
+- **(book — descriptive, not advisory)* A squeeze-driven rally is LOWER QUALITY than a demand-driven one, and
+  this is mildly FAVOURABLE for the SPY put: the forced bid that pushed the index up is exhausted rather than
+  ongoing.** **Unchanged: $721 of $1,168 stop used (62%), Dec-18 745 put last $26.16 on 7/30, 5,098 OI.**
+  *(Analysis. See [[portfolio-state]].)*
+
+**Links:** [[ai-financing-fragility]] · [[_calibration]] · [[memory-regime-question]] · [[portfolio-state]]
