@@ -1056,7 +1056,7 @@ finding and an argument that you cannot measure it. Check which one dominates BE
 
 ---
 
-## 2026-08-02 ~10:05am PDT — ⛔ EIGHTH BASE/REFERENCE ERROR: I CHOSE THE COMPARISON CLASS THAT PRODUCED MY ANSWER
+## 2026-08-01 ~9:55pm PDT — ⛔ EIGHTH BASE/REFERENCE ERROR: I CHOSE THE COMPARISON CLASS THAT PRODUCED MY ANSWER
 
 **THE INCIDENT.** Scanner: *"Iraq and Turkey strike a 1-YEAR oil pipeline deal to boost exports during ongoing
 Hormuz closures."* **I read the term as a forecast — "a one-year term is what you sign when you expect the
