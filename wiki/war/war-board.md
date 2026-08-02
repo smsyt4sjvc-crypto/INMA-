@@ -900,3 +900,77 @@ established.** If ET, ~4.5h before paste; if PT, ~1.5h. Logged as PASTE-time-anc
 4. **Iranian confirmation.** The post asserts Iran asked. **No Iranian source in hand.**
 
 **Links:** [[demand-destruction]] · [[oil-value-chain]] · [[new-economy-regime]] · [[portfolio-state]]
+
+## 2026-08-01 ~8:50pm PDT — ★★★ WINDWARD PHYSICAL DATA: 5 VESSELS vs A ~140/DAY BASELINE (data as of 31 JULY)
+
+Source: **Windward AI Daily Intelligence**, `insights.windward.ai`, page dated 1 Aug, **DATA AS OF 31 JULY 2026**.
+Archived `raw/windward-2026-08-01-hormuz-daily-intelligence.txt`. **FIRST-USE:** AIS = Automatic Identification
+System; OFAC = Office of Foreign Assets Control; SDN = Specially Designated National; MIOC = Windward's Maritime
+Intelligence Operations Center; EO = electro-optical (satellite); VLCC = Very Large Crude Carrier.
+⚠️ **COMMERCIAL PRODUCT on a marketing URL (UTM campaign "2026-Iran-War")** — **but it DEBUNKED a dramatic claim
+against its own interest and FLAGGED its own detection artifact. That is an analytic shop, not a hype feed.**
+
+### DATA (as-reported, dated 31 July 2026)
+- **★ ONLY 5 VESSELS TRANSITED HORMUZ in the 24h ending 21:00 UTC 31 July (4 outbound, 1 inbound), against a
+  "roughly 140 vessels/day PRE-CRISIS baseline" = 3.6% OF NORMAL.**
+- **3 of the 5 carry OFAC SDN designations** — inbound Iran-flagged container vessel + 2 outbound tankers, one
+  dark-fleet AND false-flag. **MIOC: "sanctioned tonnage accounting for the majority of an already-thin transit
+  volume."** Dominant cargo: **2.14M-bbl crude lift by a VLCC loaded at Al Basrah, Iraq**, fully AIS-transmitting.
+- **~A DOZEN DISTINCT DARK VESSELS** (no AIS) identified by EO satellite transiting Hormuz **both directions**
+  since the crisis began — small cargo through VLCC-class.
+- **★ IRGC ACTIVELY TURNING SHIPS BACK: a Liberia-flagged bulk carrier reversed 31 July 09:21 UTC after an IRGC
+  VHF warning.** MIOC: *"vessels declining to commit to the southern corridor… reinforced by direct IRGC
+  intervention."*
+- **★★ TIMELINE MARKERS ON THE JAMMING CHART: "Epic Fury (28 Feb) · Ceasefire (7 Apr) · BLOCKADE (13 Apr)"**,
+  with a live counter reading **"⚠️ US BLOCKADE ACTIVE."**
+- **★ GPS JAMMING, PERSIAN GULF: 66 vessels jammed = ↓85.0% vs the 7-day average** (of 6,200 transmitting);
+  62 false ship-to-ship meetings. **Red Sea: 30 jammed, ↓44.6%.** Cumulative since Epic Fury: **68,940 unique
+  vessels jammed, 2,944,075 false ship-to-ship meetings.**
+- Gulf fleet **791 vessels** (140 product tankers, 45 crude, 78 bulk, 45 container, 35 LNG/LPG); **130 High /
+  203 Moderate / 460 Low** smuggling risk. **Top flag: IRAN 156**, then Comoros 103, UAE 98, Panama 73.
+- Red Sea 31 Jul: **Bab-el-Mandeb 15 in / 26 out; Suez 25 in / 11 out**; Red Sea fleet 537.
+- **Damietta, Egypt 29 July: drone strike hit gas carriers ENERGOS WINTER and GASLOG SALEM**, unclaimed; Houthis
+  publicly denied. **MIOC: an Iran/Ukraine-retaliation link is MORE LIKELY than Houthi origin.**
+- **KAVOMALEAS** (struck 20 July, abandoned near Larak I.) **showed renewed smoke on a 31 July pass** — active
+  fire + spill risk 11 days on.
+- **Saudi Arabia announced a 14-country Red Sea maritime coalition HQ'd in Riyadh**, after Saudi-led strikes on
+  Houthi sites near Hodeidah 24-25 July.
+
+### THESIS (interpretation — NOT fact)
+- **⛔⛔ MY BASELINE WAS WRONG IN BOTH DIRECTIONS, AND I GAVE JAKE THE WRONG BAR TWO HOURS AGO.** I said
+  **~100/day pre-war and ~11-13/day now = 11-13% of normal, needing a 9× increase.** **Windward: ~140/day
+  pre-crisis and 5/day = 3.6%, needing 28×.** ⇒ **The strait is ~3× MORE closed than I stated, and the bar
+  Trump's post must clear is ~3× HIGHER.** *(Analysis. ⚠️ The two baselines differ ~40% — vault ~3,000/mo vs
+  Windward ~4,200/mo — almost certainly ALL-VESSEL vs MERCHANT-ONLY. **DO NOT MIX THEM. The RATIO is the
+  durable number and both say "a few percent of normal."**)*
+- **★★★ THIS IS THE *BEFORE* PICTURE. Data 31 JULY; Trump's post 1 AUGUST 7:05 PM.** **It does not test the
+  announcement — it SETS THE BAR the announcement must clear.** *(Analysis. Do not read it as refutation.)*
+- **★★★ AND IT DATES THE CLOSURE THE VAULT ALREADY FRAMED. L138 registered: *"Oman talks = negotiating TWO
+  closures at once (Iran's mining + America's blockade). A deal that lifts BOTH = huge."*** **Windward dates
+  the US blockade to 13 APRIL — ~3.5 months.** ⇒ **Trump presents "the Immediate, Complete, and Total OPENING
+  OF THE HORMUZ STRAIT" as an IRANIAN concession. A large part of it is the US agreeing to STOP DOING WHAT IT
+  HAS BEEN DOING SINCE 13 APRIL.** ⚠️ **BUT NOT ALL OF IT — the IRGC turned a bulk carrier around by VHF on
+  31 July. BOTH closures are live; an opening requires BOTH to stand down.** *(Analysis. Neither "Iran closed
+  it" nor "the US closed it" is the whole picture — and the vault had that before the data arrived.)*
+- **★★ THE ONE FORWARD-LOOKING PHYSICAL SIGNAL, AND IT PREDATES THE ANNOUNCEMENT: GPS jamming ↓85% in the
+  Gulf on 31 JULY.** **Physical, dated, and independent of anyone's statement** — the only evidence here
+  consistent with something changing behind the scenes before Trump posted. ⚠️ **One day; could be noise or a
+  collection artifact. Watch whether it PERSISTS.** *(Analysis.)*
+- **★★ THE RESIDUAL TRADE IS MOSTLY SANCTIONED. 3 of 5 OFAC SDN + ~a dozen dark hulls.** ⇒ **Legitimate
+  commercial traffic is nearer 2/day than 5.** **"Thin" understates it: the strait is thin AND the majority of
+  what moves is shadow fleet.** *(Analysis.)*
+- **★★ THE REPORTED-vs-PHYSICAL GAP IS NOW DOCUMENTED WITH A NUMBER.** Last night's scanner: *"US says Strait
+  of Hormuz OPEN as 30 ships rerouted."* **Windward measures 5 against 140.** ⇒ **Jake's bezzle pattern, and
+  the direct vindication of the 7/05 correction that governs how to read Trump's post.** *(Analysis.)*
+- **★ TWO GRADES ON LAST NIGHT'S SCANNER: (1) the 7/31 "second Hormuz tanker strike" is assessed UNLIKELY** —
+  no candidate vessel transiting, no blast damage on same-day collection; **the smoke was the already-burning
+  KAVOMALEAS.** **That headline was FALSE.** **(2) The Damietta strike is assessed Iran/Ukraine-linked rather
+  than Houthi** — which moves it from the Red Sea thread toward the Iran thread. *(Analysis.)*
+
+### 🚩 THE TEST, NOW PROPERLY CALIBRATED
+**"Immediate, Complete, and Total" = ~140/day. As of 31 July: 5. That is a 28× increase, publishable within
+days.** Watch in order: **(1) the Windward/Kpler daily transit count · (2) whether GPS jamming stays ↓ ·
+(3) whether the US blockade counter STOPS · (4) IRGC VHF turn-backs ceasing · (5) goalpost behaviour.**
+**Sanctioned-share is the quality check: a real opening shows LEGITIMATE tonnage returning, not more dark hulls.**
+
+**Links:** [[demand-destruction]] · [[oil-value-chain]] · [[portfolio-state]] · [[new-economy-regime]]
