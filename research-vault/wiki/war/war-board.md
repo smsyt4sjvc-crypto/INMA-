@@ -1111,7 +1111,13 @@ big oil likes the idea of Iran having economic control over the stability of oil
   announcement) has not moved.** **65% holds and the Wednesday-close test governs — but the reasoning is now
   EXPLICIT instead of assumed.** *(Analysis.)*
 
-### 📌 HORMUZ DEAL — ESTABLISHED vs FLOATED (maintain this split; it is what drifted)
+### 📌 HORMUZ DEAL — STATUS LEDGER  ⟲ SUPERSEDED 2026-08-02: the two-column split below was TOO COARSE.
+**Use FOUR states: IN FORCE · TEXT EXISTS BUT INOPERATIVE · PROPOSED · ASSERTED.**
+**The 60-day no-toll language is TEXT EXISTS BUT INOPERATIVE — real text in the 6/18 MoU, which Iran declared
+DEAD 7/18. See [[demand-destruction]] 2026-08-02 ~5:00pm.** *(Original two-column version kept below per
+rule 4 — the binary could not hold a breached agreement, which is the commonest state in a live negotiation.)*
+
+### 📌 (superseded) HORMUZ DEAL — ESTABLISHED vs FLOATED
 **ON RECORD:** Trump's cancellation + "perimeters of a deal" (his own post) · **Araghchi: Iran-Oman talks in
 "final stages," a "mutual mechanism," "respects sovereignty of both"** · **Iran FM spokesman: "Hormuz will not
 return to pre-war status"** · **Iran DENIES a deal** · **~$2M/vessel transit charge** (Lloyd's List 2026-03-18)
