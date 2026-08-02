@@ -3228,3 +3228,39 @@ language* · **PROPOSED** (floated, never agreed) · **ASSERTED** (one party's c
   governs.** *(Analysis.)*
 
 **Links:** [[war-board]] · [[oil-value-chain]] · [[_calibration]] · `predictions/2026-07-30-fed-hike-before-december.md`
+
+### Addendum 2026-08-02 ~5:15pm PDT — JAKE: "Brent goes down much quicker now than it rises"
+
+**Jake:** *"the escalator/elevator, rocket/feather thing with gas/oil inverted after Trump called out American
+gas retailers… Brent goes down much quicker now than it rises… inclines me to think he's applied that same
+pressure elsewhere."*
+
+- **⛔ THE STATED MECHANISM CANNOT TRANSFER.** Rockets-and-feathers is a **RETAIL** phenomenon requiring an
+  **INTERMEDIARY holding a margin** — the station adjusts slowly downward because it can. **Brent futures have
+  no such intermediary.** A persistent directional asymmetry in a deep two-way futures market is an
+  arbitrage, and no president has a lever on ICE. *(Analysis.)*
+- **★★★ BUT THE OBSERVATION MAY STILL BE RIGHT, VIA A BETTER MECHANISM — NEWS FLOW, NOT PRICE.**
+  **DE-ESCALATION IS ANNOUNCED** — discrete, timed, droppable into a closed market (7:05pm Saturday; −6.70%
+  at the Sunday open). **ESCALATION IS DISCOVERED** — a tanker is hit, UKMTO reports, confirmation trickles
+  out intraday. ⇒ **ANNOUNCED EVENTS GAP; DISCOVERED EVENTS GRIND.** **That produces "down faster than up"
+  with NO manipulation of the price mechanism — only control over the timing of ONE DIRECTION of news.**
+  **And it survives the objection above, because it requires no power over Brent at all.** *(Analysis. This
+  is a strictly better version of Jake's claim than the one he made.)*
+- **★ AND A THIRD CANDIDATE THAT IS NOT POLITICAL AT ALL: OPTION-VALUE DECAY.** A war premium is a **tail
+  bid**. **Building a tail is gradual** (probability and severity both drift); **removing one is DISCRETE**
+  (the attack is cancelled). **Option value collapses faster than it accretes** — same asymmetry, no
+  political input. *(Analysis.)*
+- **★ THE VAULT REGISTERED THE ENABLING CONDITION ALREADY (L70):** *"prices fall into November; **with the
+  SPR EMPTY, jawboning Iran is the cheapest suppression tool left**."* ⇒ **Physical tools exhausted, verbal
+  tools remain. Jake is observing the SIGNATURE of a conclusion this vault already reached.** *(Analysis.)*
+- **★★ IT IS TESTABLE AND I BUILT THE TEST RATHER THAN ARGUING — `tools/oil_asymmetry_cell.py`.**
+  **SIGN-FLIP NULL: hold the magnitude distribution EXACTLY, randomise only the up/down ASSIGNMENT.** That
+  tests precisely the claim and nothing else. **VALIDATED on known-truth synthetic data: calls a random walk
+  SYMMETRIC (p=0.063), detects a 40%-injected down-skew (p=0.008), and correctly REFUSES to call an up-skew a
+  down-skew (p=0.453).**
+  **★ THE DISCRIMINATING OUTPUT IS THE GAP-vs-INTRADAY SPLIT:** **down-moves loaded into OVERNIGHT GAPS ⇒
+  news timing [A]. Asymmetry present in INTRADAY returns too ⇒ price pressure [C]. Neither ⇒ option decay
+  [B], or nothing.** *(Analysis.)*
+- **⛔ AND THE DISCIPLINE: TODAY IS ONE OBSERVATION.** A −6.70% Sunday gap is a data point, not a pattern, and
+  the war window is a few months overlapping ONE regime. **This vault killed a 500-name screen for reading
+  structure into a sample like that. Even a significant result here is ONE EPISODE, not a law.** *(Analysis.)*
