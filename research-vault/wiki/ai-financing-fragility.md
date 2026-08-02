@@ -2792,3 +2792,65 @@ Relative times anchored to the 2026-07-31 9:47pm PDT capture.
 - **🚩 "What is AI model distillation and why is it becoming a US-China flashpoint?"** — World, ~2:47am PDT.
   The 7/24 NVDA open-weights letter **explicitly defended distillation as legitimate "vs unlawful extraction"**
   ([[metered-compute]] L141). **The letter's specific ask is now a named flashpoint.**
+
+## 2026-08-01 ~1:20pm PDT — ⛔ THE YEN INTERVENTION: Jake's 7/19 TELL MOVED — and it may be what sold the long end
+
+Source: **unattributed digest pasted by Jake** (ChatGPT-style formatting). ⚠️ **NO SOURCE ON ANY FIGURE.**
+**The chart it discusses was NOT attached** — I am reading someone's reading of a chart I cannot see.
+Follows the 7/31 sidebar flag *"US Treasury intervenes to support yen after Japan steps in, FT reports."*
+**FIRST-USE:** MOF = Ministry of Finance; UST = US Treasury security; ESF = Exchange Stabilization Fund.
+
+### DATA (as-reported by an UNSOURCED digest — treat the MECHANISM as solid, every SPECIFIC as unverified)
+- **Japan intervened, ~$53B.** **US Treasury "appears to have joined," "likely $5–10B, no official amount
+  released"** — explicitly unconfirmed by the digest itself.
+- **USD/JPY 164 → 157 = −4.27% (yen STRONGER).** Chart labels reported as *"Bank of Japan saves yen"* then
+  *"U.S. Treasury saves yen."* No dates given in the paste.
+- **Vault comparison:** registered tell **¥162 (7/19)** → **¥157** = **−3.09%.** **Aug-2024 replay for scale
+  was ~−12% over ~3 weeks; this is ~1/3 of that so far.**
+- **Japan = largest foreign UST holder ~$1.1T+** (vault L491). **$53B ≈ 4.8% of that stock.**
+
+### THESIS (interpretation — NOT fact)
+- **★★★ JAKE'S 7/19 REGISTERED TELL HAS MOVED, AND THE CARRY-ISN'T-UNWINDING EVIDENCE WITH IT.** L496-497:
+  *"Tell: yen still weak ¥162 post-June-hike… RESILIENT + LOADED, NOT sprung"* and L501: *"weak-yen-post-hike
+  PROVES the carry isn't unwinding."* **At ¥157 that specific proof is 3% weaker.** **And L500 says "BOJ
+  gradualism is PRECISELY to avoid the Aug-2024 replay" — a $53B intervention is NOT gradualism.**
+  ⇒ **PARTIAL fire on the registered trigger "BOJ surprise." Precise: an FX intervention is not a rate hike,
+  and −4.3% is a third of an Aug-2024 move. Sprung is NOT established.** *(Analysis.)*
+- **⛔⛔ AND IT CORRECTS WHAT I FILED LAST NIGHT ABOUT THE LONG END.** I attributed 7/31's **10Y +8bp / 30Y
+  +7bp** to term premium — *"the bond market charging for money growth nobody is offsetting."*
+  **YOU CANNOT DEFEND A CURRENCY WITH DOLLARS YOU DO NOT HAVE. A yen defence is FUNDED BY LIQUIDATING DOLLAR
+  RESERVES, and Japan's are UST-heavy.** ⇒ **~$53B of dollar-asset selling landed in the SAME SESSION as the
+  long-end move. That is a more MECHANICAL cause than a repricing of inflation risk.** ⚠️ **I cannot separate
+  them without flow data — but I asserted one and never considered the other.** *(Analysis.)*
+- **★★ THE PASTE'S BIGGEST ERROR IS A TIMING ERROR, AND TIMING IS THE WHOLE QUESTION.** It says *"Treasury
+  demand from Japanese investors may weaken OVER TIME."* **It is not over time — THE INTERVENTION IS THE
+  UST SELLING.** It treats as a slow second-order consequence the thing that is the immediate mechanical
+  funding source. *(Analysis.)*
+- **★★★ I DISAGREE WITH THE PASTE ON DIRECTION: THIS IS CONTAINMENT, NOT UNWIND.** It frames intervention as
+  *"the start of a sustained effort to unwind years of cheap-yen leverage."* **Official intervention does not
+  force deleveraging — it converts a potentially DISORDERLY unwind into a MANAGED one.** **This is the vault's
+  own framework at sovereign scale** — L2685: *"orderly bilateral absorption is exactly what containment IS."*
+  **Citadel absorbing the SA book was containment; official sectors absorbing carry pressure is the same
+  structure.** *(Analysis.)*
+- **★★ THE US JOINING IS THE EXTRAORDINARY PART AND THE PASTE UNDER-WEIGHTS IT.** The US intervenes in FX
+  almost never. **If confirmed, the signal is NOT the dollar level — it is that Washington now treats a
+  disorderly yen move as a US FINANCIAL-STABILITY problem and will spend reserves on it.** ⇒ **That is a PUT
+  UNDER the carry trade, not a war on it.** *(Analysis. ⚠️ Unconfirmed by the digest's own admission.)*
+- **⇒ ★★ BEARISH FOR THE PUT, ON THIS VAULT'S OWN LOGIC.** L503: *"This IS the correlation-snap the Dec SPY
+  puts are long."* **The carry unwind is the put's best case, and official-sector containment is precisely
+  what stops it becoming a market event.** **Same tell as 🚩F8: it breaks when losses land on DEALERS. Seven
+  sessions, no dealer writedown.** *(Analysis. See [[portfolio-state]] — and note the 35% stop.)*
+- **★★ AND IT FEEDS THE FISCAL-DOMINANCE QUESTION FROM 7/31.** I argued deficits create M2 only if **BANKS**
+  absorb the issuance; foreign buying is rotation, not creation. **If Japan is now a net UST SELLER, the
+  DOMESTIC absorption share rises — pushing toward the bank channel that makes Jake's mechanism operative,
+  and pushing yields up.** ⇒ **The yen story and the M2 question are one question from two ends. H.8 + TIC
+  settle both.** *(Analysis.)*
+- **⛔ ROUTER GAP #3 IN TWO DAYS, AND THE SHAPE REPEATS.** The paste returned **KOREA(1)\*** — a weak single
+  keyword — while the vault held Jake's 7/19 entry with a registered tell AND trigger. **Same failure as
+  AI-POLICY (7/31) and KOREA/limit-up (8/1): a live thread with no keywords of its own, because it was only
+  ever tagged through its EFFECTS.** **FIXED: `FX/CARRY` thread, 15 keywords. Router now fires FX/CARRY(7).**
+  ⇒ **★ THE PATTERN TO CHECK FOR: any thread the vault reasons about but never NAMES is invisible to the
+  router. Audit by asking "what do we discuss that has no keyword?" rather than waiting for a miss.**
+  *(Analysis.)*
+
+**Links:** [[market-fragility]] · [[new-economy-regime]] · [[portfolio-state]] · [[ai-capex-cycle]]

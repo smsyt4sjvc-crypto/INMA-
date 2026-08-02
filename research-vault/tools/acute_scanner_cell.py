@@ -162,6 +162,13 @@ THREADS = {
  # NVDA open-weights letter, the China-retaliates entry) and NOT ONE keyword reached them.
  # The gap was structural: policy was only ever tagged through its SECOND-order effects
  # (capex, model economics), never as its own thread.
+ # FX/CARRY — added 8/1 after the router returned KOREA(1)* on a yen-intervention paste while
+ # the vault held Jake's 7/19 "yen carry CORNERS the Fed" entry with a REGISTERED TELL (¥162) and
+ # a REGISTERED TRIGGER ("BOJ surprise"). Third router gap in two days, same shape every time:
+ # a live thread with no keywords of its own because it was only ever tagged through its effects.
+ 'FX/CARRY':  ['yen','jpy','usd/jpy','usdjpy','boj','bank of japan','carry trade','repatriation',
+               'currency intervention','fx intervention','fx reserves','ministry of finance',
+               'dxy','dollar index','ueda'],
  'AI-POLICY': ['export control','entity list','blacklist','huawei','huang','jensen',
                'chip ban','chip export','tech transfer','sovereign ai','ai regulation',
                'ai policy','diffusion rule','deregulat','preempt','smic','state ai law'],
@@ -175,7 +182,7 @@ THREADS = {
 #   verb forms far more than base forms — "data centerS", "steepenS", "tankerS", "refinerIES".
 #   Anchoring those with a hard \b silently drops most real hits. (Caught by the offline
 #   unit test below; 3 of 14 cases failed before this fix.)
-STRICT = {'spr','cds','bdc','spv','hbm','pjm','smr','irgc','dram','nand','lng','cpc','smic'}
+STRICT = {'spr','cds','bdc','spv','hbm','pjm','smr','irgc','dram','nand','lng','cpc','smic','yen','jpy','boj','dxy','ueda'}
 def _pat(k):
     return re.compile(r'\b'+re.escape(k)+(r's?\b' if k in STRICT else r'\w{0,3}\b'), re.I)
 PATS = {th: [_pat(k) for k in ks] for th, ks in THREADS.items()}
@@ -195,6 +202,7 @@ ROUTE = {
  'INVENTORY': 'demand-destruction (SPR clock)',
  'FED':       'new-economy-regime / market-fragility',
  'MODEL-ECON':'metered-compute / compression-thesis',
+ 'FX/CARRY':  'ai-financing-fragility (yen-carry corners the Fed, L491) / market-fragility / new-economy-regime',
  'AI-POLICY': 'ai-financing-fragility (blacklist timeline) / metered-compute (the NVDA letter) / compression-thesis (two-bloc)',
  'KOREA':     'market-fragility (leverage cascade)',
 }
