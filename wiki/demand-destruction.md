@@ -3172,3 +3172,59 @@ statute does, on the single point it claims to be uniquely revealing.**
 - *(source grading)* **Accurate on both easily-checkable headline facts (86-12, the funeral) and wrong on the
   proprietary-sounding "buried detail."** That shape — **verifiable scaffolding around a manufactured
   insight** — is the signature to watch for ([[_assumption-filters]], narrative-tiers).
+
+## 2026-08-02 ~5:00pm PDT — ★★★ THE JUNE MoU IS A NATURAL EXPERIMENT AND IT FAILED WHILE ALIVE
+
+**Jake:** *"The 60-day no-toll language still exists in the text of the June MoU, but the MoU has been
+materially breached and effectively superseded by renewed conflict. There is no dependable active 60-day
+toll-free restriction governing Hormuz today."* **Correct — and THIS NOTE already held the whole arc.**
+
+### ⛔ I READ PAST "REVIVE" TWICE, IN OPPOSITE DIRECTIONS
+Headline: *"Mediators seek to **REVIVE** US-Iran **MOU**, open Hormuz for 60 days without fees."*
+**First I called the 60 days "the actual substance being mediated." Then, correcting, "a floated proposal."**
+**NEITHER. It is REAL TEXT IN A DEAD DOCUMENT — and the word "revive" was in the headline both times.**
+⇒ **THE ESTABLISHED-vs-FLOATED SPLIT I BUILT ONE MESSAGE EARLIER IS TOO COARSE.** Replace with FOUR states:
+**IN FORCE** (agreed + operative) · **TEXT EXISTS, INOPERATIVE** (agreed once, breached/lapsed) ← *the 60-day
+language* · **PROPOSED** (floated, never agreed) · **ASSERTED** (one party's claim, disputed).
+*(A binary cannot hold a breached agreement, which is the most common state in a live negotiation.)*
+
+### DATA (all previously in this vault, never assembled)
+- **MoU SIGNED 2026-06-18 and "REOPENED THE STRAIT"** (L274). **Iran formally declared it DEAD 2026-07-18**
+  (L1234). **30 days alive.**
+- **★★★ LLOYD'S WEEKLY TRANSITS — EVERY WEEK INSIDE THE MoU's LIFE** (from the 8/2 handoff, >10k dwt,
+  non-Iran-affiliated):
+  ```
+  6/22-6/28   218/wk  (31.1/day)   <- MoU IN FORCE
+  6/29-7/05   158/wk  (22.6/day)   <- MoU IN FORCE
+  7/06-7/12    89/wk  (12.7/day)   <- MoU IN FORCE
+              ... declared DEAD 7/18 ...
+  7/31         ~5/day  (Windward, all-AIS — DIFFERENT methodology, do not mix levels)
+  ```
+  **218 → 89 = −59% IN THREE WEEKS WHILE THE AGREEMENT WAS ALIVE.**
+- **THE CLOCK: 6/18 + 60 days = 2026-08-17 = 15 days from today.**
+
+### THESIS (interpretation — NOT fact)
+- **★★★ THE MoU DID NOT HOLD TRAFFIC EVEN WHILE NOMINALLY IN FORCE.** Transits were collapsing for weeks
+  BEFORE Iran declared it dead. ⇒ **"Reviving the MoU" is reviving a term with a 100% OBSERVED FAILURE RATE
+  in its one trial. The object being priced today is WEAKER than either "a new deal" or "a proposal."**
+  *(Analysis. ★ This is the vault's best-supported claim about the deal, and it was assembled from data
+  ALREADY HELD — the MoU dates here plus the Lloyd's series from the 8/2 handoff. Neither had been placed
+  next to the other.)*
+- **★★ AND THE CLOCK IS UNSPECIFIED IN EVERY REPORT: does "revive the 60-day window" RESTART it (a fresh 60
+  days) or REVIVE THE REMAINDER (15 days)? A 4× difference, and nobody says which.** *(Analysis. 🚩 Add to
+  the next handoff.)*
+- **★★★ IT IS THE DATED INSTANCE OF JAKE'S 8/1 COUNTERPARTY ARGUMENT.** He argued an erratic counterparty
+  cannot be reliably negotiated with, therefore only PHYSICAL bypass buys predictability. **The June MoU is
+  that argument's named case study: signed, reopened the strait on paper, traffic −59% while in force, dead in
+  30 days.** **He supplied the principle on 8/1; this vault held the case study the whole time.** *(Analysis.)*
+- **⚠️ AND IT REFRAMES THE TOLL AS THE DEFAULT, NOT THE EMERGENT STATE.** A no-toll clause implies tolls
+  existed to suspend — and the **~$2M/vessel charge is dated 2026-03-18 (Lloyd's List), THREE MONTHS BEFORE
+  the MoU.** ⇒ **Timeline: tolls (Mar) → MoU suspends them (Jun 18) → MoU dead (Jul 18) → tolls presumably
+  resume.** **The gated-transit regime is not emerging; it is the BASELINE that one failed agreement briefly
+  interrupted.** *(Analysis.)*
+- **(book — descriptive)* Today's −6.70% WTI move repriced on the revival of an agreement that demonstrably
+  failed while alive. **I still cannot distinguish the four mechanisms behind the move and am not claiming to.
+  But if I were revising the 65% Fed call, this pushes the other way.** **65% holds; the Wednesday-close test
+  governs.** *(Analysis.)*
+
+**Links:** [[war-board]] · [[oil-value-chain]] · [[_calibration]] · `predictions/2026-07-30-fed-hike-before-december.md`
