@@ -1025,3 +1025,50 @@ big oil likes the idea of Iran having economic control over the stability of oil
   level.**" **Resolvers: Petroline + ADCOP throughput vs nameplate · Yanbu loadings recovering off −40% ·
   the 7 bypass projects' actual FID/completion status · Qatari LNG transit count (the un-bypassable leg) ·
   flag mix of returning tonnage.** *(Analysis.)*
+
+### Addendum 2026-08-02 ~1:40pm PDT — ★★★ JAKE: "PRE-WAR STATUS" MEANS FREE TRANSIT, NOT CAPACITY — and the vault said so weeks ago
+
+**Jake:** *"I think pre war status might mean free and clear transit and not so much capacity."*
+**He is right, and L206-209 of THIS FILE already said it — I walked past it. Fifth STEP ZERO break this session.**
+
+- **★★★ THE VAULT'S OWN WORDS (L206-209):** *"Iran's Oman track said the quiet part (Baghaei): rounds of
+  'useful' talks on **'the MANAGEMENT of ship traffic in Hormuz'** — **management = the supervise-transit/TOLL
+  language, from Iran's own podium.** The **GATED-TRANSIT REGIME is being institutionalized in the open**…
+  **diplomacy negotiating their TERMS, not their EXISTENCE.**"* ⇒ **I read today's "final stages" as news about
+  REOPENING. The vault had already established the track is about INSTITUTIONALISING THE GATE.**
+- **★★ AND TODAY'S WIRE CONFIRMS THE READING THREE WAYS:** **(1) "open Hormuz for 60 days WITHOUT FEES"** —
+  *there are fees, and they resume.* **(2) "mutual MECHANISM… respects SOVEREIGNTY of both"** — a mechanism is
+  a PROCESS, and a sovereignty claim over a waterway is precisely the rejection of free innocent passage.
+  **(3) "Hormuz will not return to pre-war status" (FM spox)** reads naturally as *the free-transit REGIME will
+  not return*, not *the tonnage will not return.* *(Analysis.)*
+- **★★★ THE TWO READINGS ARE COMPLETELY DIFFERENT MARKET OBJECTS.**
+  **CLOSURE (my read):** removes barrels → price spike → demand destruction → eventual resolution.
+  **TOLL (Jake's read):** **volumes NORMALISE while every barrel pays a permanent tax.** **Not a supply shock —
+  a COST/MARGIN TRANSFER to the gatekeeper, with flows CONTINUING.** *(Analysis.)*
+- **★★★ AND A TOLL IS FAR MORE DURABLE THAN A BLOCKADE, WHICH IS WHY IT MIGHT STICK.** **A blockade is an act
+  of war and invites a military answer. A toll is commerce — nobody bombs a tariff.** ⇒ **Iran trades an act
+  of war for a REVENUE STREAM.** **And it fits what I argued 7/31: the majors will accept a HIGH STABLE
+  premium and hate VOLATILITY. A toll IS a stable, priceable premium.** ⇒ **A gated-transit regime is the
+  equilibrium where every party except the END CONSUMER is fine.** *(Analysis.)*
+- **★★★ THE SYNTHESIS THAT EXPLAINS THE WINDWARD COMPOSITION DATA.** L26 registers the **Lloyd's
+  "toll-voids-cover" clause** — *paying the toll VOIDS your war-risk insurance.* ⇒ **A toll regime forces a
+  binary: PAY AND SAIL UNINSURED, or DO NOT SAIL. Legitimate insured tonnage CANNOT PARTICIPATE.**
+  ⇒ **THE GATE SELECTS FOR SHADOW FLEET** — and that is exactly what Windward measured on 31 July:
+  **3 of 5 transits OFAC-SDN, plus ~a dozen dark hulls.** **The composition was not a coincidence; it is the
+  regime's signature.** ⇒ **AND IT REFRAMES "60 days without fees": that is the WINDOW IN WHICH INSURED CARGO
+  CAN MOVE AT ALL.** *(Analysis. Strongest item in this entry.)*
+- **⛔ SO F18's RESOLVER CHANGES A THIRD TIME.** (1) vessel count vs 140/day → (2) a RANGE, after Jake's 8/1
+  catch → **(3) NOT THE COUNT AT ALL — THE FEE.** **Is there a toll · who collects it · how much · is it
+  permanent · and does paying it void cover?** **Measurable in WAR-RISK QUOTES and CHARTER RATES, which is
+  also the faster tell.** *(Analysis.)*
+- **⛔ AND A DOUBLE-COUNT, CAUGHT BY JAKE.** I presented ZeroHedge's *"Trump Says 'Perimeters Of A Deal
+  Reached'"* as fresh corroboration. **It re-reports the Truth Social post Jake pasted 8/1 ~8:30pm — the same
+  event, counted twice.** **L572 already registers the rule: *"if this is the same story resurfacing it is NOT
+  NEW INFORMATION."*** *(The only genuinely new element is ZeroHedge's "after call with Saudi Crown Prince,"
+  which the post does not mention — a T3 detail wrapped around an ingested primary, not a second event.)*
+- **★ WHICH EXPOSED A SCANNER DEFECT AND IT IS NOW FIXED.** The run reported **95 HITS**; it carried roughly
+  **15-18 DISTINCT EVENTS** — ~50 Hormuz headlines over ~9 things. **The scanner counted SYNDICATION as
+  SIGNAL, and a large hit-count READS as high signal, which is the opposite of true.** **`cluster_hits()`
+  added: stemmed-token CONTAINMENT matching, prints DISTINCT EVENTS alongside hits and marks reprints.**
+  **⚠️ DELIBERATELY TUNED TO UNDER-MERGE — a dedup that over-merges HIDES REAL NEWS; less compression is the
+  safe failure.** Tested on this run's Hormuz block: **22 → 12, 45% flagged as reprints.** *(Analysis.)*
