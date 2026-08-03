@@ -432,3 +432,55 @@ more — [[new-economy-regime]] 8/3)* · **SanDisk earnings** *(straight into th
 **GS forecast +0.5%, consensus +0.2%, ACTUAL −0.1% (last +0.1%). The best-informed forecast missed by 60bp.**
 ⇒ **Whatever is happening in physical construction is not what the capex headlines describe.** Still needs
 two more months before it means anything. [[ai-capex-cycle]].
+
+---
+
+## 2026-08-03 ~7:45am PT — ⛔ CORRECTION TO 7:00am: S&P GLOBAL DOES NOT CORROBORATE — IT DIVERGES
+Source: ZeroHedge, *"US ISM Manufacturing Survey Surges To Strongest In 4 Years, S&P Global Sees 'Warning
+Signs'"*, 2026-08-03 7:10am. Archived `raw/zerohedge-2026-08-03-ism-vs-sp-global-divergence.txt`.
+**65% / 70% STILL UNCHANGED.**
+
+### ⛔ THE ERROR, 45 MINUTES OLD
+**I wrote: *"Corroborated independently: S&P Global final PMI 53.9. Two surveys, not one survey's noise."***
+**ACTUAL: S&P Global 53.9 is FLAT vs June and a THREE-MONTH LOW. ISM 55.6 is a FOUR-YEAR HIGH (since May
+2022). That is a DIVERGENCE — it is the article's entire headline — and I called it a confirmation.**
+- **★ HOW: I compared 53.9 to EXPECTATIONS (53.8) and read "in line ⇒ confirming." Against the TREND it is a
+  three-month low.** **SAME NUMBER, OPPOSITE MEANING, ON A BASELINE I NEVER STATED.** ⇒ **This is the 8/1
+  standing rule — "name the baseline in the same sentence" — broken inside 48 hours, on a number I had in
+  hand.**
+- **⚠️ SOURCE DISCREPANCY: ZH has June ISM at 53.8. Jake's paste, DB and GS all say 53.3.** **3-to-1 ⇒ the
+  move is +2.3, not +1.8. ZH is wrong and the print is STRONGER than ZH frames it.**
+
+### ★★ THE DIVERGENCE RECONCILES — S&P GLOBAL SUPPLIES THE MECHANISM ITSELF
+> *"reduced inventory building after the especially strong **PRECAUTIONARY STOCK ACCUMULATION** reported in
+> the SECOND QUARTER"*
+⇒ **Firms stockpiled ahead of the disruption in Q2 and are now DRAWING DOWN. A pull-forward reversing gives
+exactly this signature: STRONG CURRENT ACTIVITY + WEAKENING FORWARD INDICATORS.** **The two surveys are not
+in conflict; they are measuring different points on the same inventory cycle.** *(Analysis.)*
+
+### S&P GLOBAL'S INTERNALS — three of them land on live vault threads
+- **"One of the SHARPEST DETERIORATIONS IN VENDOR PERFORMANCE over the past four years."**
+  ⇒ **the physical signature of Hormuz (3.6-13.6% of normal transits) AND the memory shortage (Samsung: runs
+  to 2028).** [[demand-destruction]], [[memory-regime-question]].
+- **"FALLING EXPORTS… further PUSHBACK ON HIGH PRICES FROM CUSTOMERS."** ⇒ **demand destruction showing up in
+  a US manufacturing survey**, not just in oil.
+- **"inflationary pressures remained elevated thanks principally to the combination of HIGH ENERGY PRICES AND
+  TARIFFS"** · **"another month of HIGH FACTORY GATE PRICE INFLATION and SUBDUED JOB GAINS"** ·
+  **"business optimism… LOWEST SINCE LAST OCTOBER."**
+
+### ⛔ AND IT PARTIALLY WALKS BACK MY 7:30am RETIREMENT OF THE OIL TEST
+**Cook said *"not ONLY an energy price story"* — NOT *"not an energy story."* S&P Global names ENERGY + TARIFFS
+as the principal drivers.** ⇒ **Energy remains a CONTRIBUTOR.** **The flaw in the WTI-below-$80 test was
+making a BINARY out of a CONTRIBUTING factor, not that oil stopped mattering. Retiring it outright was an
+OVER-CORRECTION; the Friday labour test replaces it as the PRIMARY, with oil demoted to context.**
+
+### ★★★ THE SHARPEST ITEM: THE TWO SURVEYS CONTRADICT EACH OTHER ON EMPLOYMENT, FOUR DAYS BEFORE PAYROLLS
+**ISM Employment 52.8 vs 50.0 expected (big beat). S&P Global: "SUBDUED JOB GAINS."**
+⇒ **Friday's labour report now arbitrates a live disagreement between the two surveys** — which makes the
+registered Friday test (unemployment 4.3%+ AND payrolls below consensus ⇒ dovish) **load-bearing rather than
+routine.**
+
+### ⇒ NET: "UNAMBIGUOUSLY HAWKISH" AT 7:00am WAS TOO STRONG
+**The strike on case-against #4 SURVIVES — ISM's strength is not oil-driven and that item stays falsified.**
+**But the picture is STAGFLATIONARY, not simply hot: decelerating forward momentum with elevated prices, from
+supply disruption and tariffs.** **NEITHER SURVEY IS DOVISH — both have prices elevated.** **65% holds.**
