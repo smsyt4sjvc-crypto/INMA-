@@ -2309,3 +2309,63 @@ falsifier ever coming into play, treat the absorption as a WARNING, not a confir
 **MoF publishes intervention data monthly. The SIZE is the whole tell.**
 
 **Links:** [[ai-financing-fragility]] · [[market-fragility]] · [[demand-destruction]] · [[portfolio-state]]
+
+## 2026-08-03 ~Asia open (filed 8/2 ~8:25pm PDT) — ⛔ THE BOJ ALREADY HIKED: my chain was backwards, and the REPO FACILITY is the real news
+
+Source: **Reuters, Ankur Banerjee, 2026-08-02 6:03pm PDT / Aug 3 Singapore.** Jake paste.
+
+### ⛔⛔ THE BROKEN LINK IN MY OWN CHAIN, FILED TWO HOURS EARLIER
+**I built:** *Japan's imported inflation → BOJ pressured to HIKE → the hike is the registered carry-unwind
+trigger → **so the US intervenes to PREVENT it**.*
+**REUTERS: "a rate hike in JUNE by the Bank of Japan provided little boost."** **THE BOJ ALREADY HIKED.**
+**And [[ai-financing-fragility]] L496 says so: *"yen still weak ¥162 POST-JUNE-HIKE… RESILIENT + LOADED, NOT
+sprung."* I QUOTED THAT LINE YESTERDAY and then built a mechanism that ignores it.**
+**⇒ AND IT INVERTS: "Bessent repeating his calls for FURTHER INTEREST-RATE HIKES BY THE BOJ."**
+**THE US IS NOT PREVENTING THE TRIGGER. IT IS ASKING TOKYO TO PULL IT.**
+
+### ★★ THE CORRECTED READ — THE US IS THE ACTIVE UNWINDER, NOT THE PROTECTOR
+- **INTERVENTION = THE FLOOR** (stops a disorderly yen collapse). **BOJ HIKES = THE MECHANISM** (narrows the
+  differential, deflates the trade). **Together the position unwinds GRADUALLY instead of detonating.**
+- **The 2-YEAR JGB at 1.545%, HIGHEST SINCE 1995**, with markets pricing an early hike, **is the market
+  pricing exactly what Bessent asked for.**
+- ⇒ **Still CONTAINMENT — which is the weekend's standing read — but with the ACTOR and INTENT inverted.
+  Different cause, same outcome.** *(Analysis.)*
+
+### ★★★ THE MOST IMPORTANT SENTENCE IS THE REPO FACILITY, AND IT SOLVES THE DURATION PROBLEM
+**"Bessent also said the US would consider INCREASING IN COMING MONTHS THE SIZE OF THE FEDERAL RESERVE'S
+REPURCHASE FACILITY providing temporary dollar liquidity, calling the tool an 'IMPORTANT BACKSTOP'."**
+- **MECHANISM: a yen defence is funded by selling dollar assets, and Japan's are UST-heavy — the
+  duration-supply problem this vault has been building since 8/1.** **A LARGER REPO FACILITY LETS JAPAN
+  PLEDGE ITS TREASURIES FOR DOLLARS INSTEAD OF LIQUIDATING THEM.**
+  ⇒ **Japan gets the dollars, the Treasuries NEVER HIT THE MARKET, and the long end absorbs no supply.**
+- **★ AND IT REFINES WHAT I FILED AT ~5:20pm.** I argued they would **front-load official UST selling to
+  prevent private repatriation.** **They are trying to AVOID THE SELLING ENTIRELY by LENDING AGAINST THE
+  COLLATERAL.** *(Analysis.)*
+- **★ It also explains the odd jurisdiction: a TREASURY SECRETARY discussing the size of a FED facility.
+  The funding problem is Treasury's; the tool is the Fed's.** *(Analysis.)*
+
+### DATA (as-reported)
+- **Brent −4%+ to $83.88** after Trump said Iran talks happen Monday. **S&P futures +0.6%, Nasdaq +0.8%.**
+- **Nikkei −1%; KOSPI −5%+; MSCI Asia ex-Japan −1%.** *(KOSPI is the [[market-fragility]] KOREA thread.)*
+- **Yen +0.5% to 156.49; intraday high 155.2 (strongest since early May); 40-year low was 163.99.**
+- **Japan's MoF CONFIRMED coordinated US-Japan yen-buying and "will not hesitate to take further action."**
+- **Trump: the US is helping Japan "as a sign of friendship and to help the world economy."**
+- **Tokyo's SOLO intervention (late Apr-early May) caused only a brief rebound.** **June BOJ hike: little boost.**
+- **CFTC net short yen ≈ $12.5bn, highest in two years.**
+- **155 = "the market floor/resistance post-May intervention"** (Masahiko Loo, State Street).
+- **30Y UST −3.7bp to 5.238%, easing from a 19-YEAR HIGH last week.**
+
+### THESIS (interpretation — NOT fact)
+- **⚠️ REUTERS ARITHMETIC ERROR — the 30Y "had jumped 372 basis points in July" IS IMPOSSIBLE.**
+  **FRED DGS30 (pulled today): 7/01 4.97 → 7/30 5.21 = +24bp; 5.28 on 7/31 = +31bp.** **372bp is out by ~12×
+  and even 37.2bp is 20-50% too high. DO NOT USE THE FIGURE.** *(The 19-year-high CONTEXT is real; the
+  magnitude is a typo. ★ Caught only because the FRED series arrived this morning — the handoff paid for
+  itself twice in one day.)*
+- **⚠️ THE $12.5bn NET SHORT IS CFTC FUTURES POSITIONING ONLY.** **The actual carry runs through bank loans,
+  cross-currency swaps and structured product — this is the VISIBLE TIP, not the trade.** **But MAXIMUM
+  visible shorts INTO a coordinated intervention is a SQUEEZE SETUP — the same structure as the GS prime-book
+  squeeze filed this morning, different asset.** *(Analysis.)*
+- **★ 155 IS THE TESTABLE LEVEL.** Monday's high touched **155.2** and bounced to 156.49. **Holding below 155
+  = the intervention has changed the regime; failing back toward 160+ = it was a spike.** *(Analysis.)*
+
+**Links:** [[ai-financing-fragility]] · [[market-fragility]] · [[demand-destruction]] · [[portfolio-state]]
