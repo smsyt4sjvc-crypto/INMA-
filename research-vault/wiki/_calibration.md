@@ -1132,3 +1132,29 @@ actual 60 day holiday. I think that's been floated for discussion."*
   precedents is a REASON TO NAME BOTH, not a licence to choose.**
 
 **Links:** [[war-board]] · [[demand-destruction]] · `predictions/2026-07-30-fed-hike-before-december.md`
+
+## 2026-08-03 ~8:40am PDT — ⛔ NINTH STEP ZERO-C BREAK, and the failure mode is specific: **the log is skipped on the days it is most needed**
+
+**`chat-log/2026-08-02.md` NEVER EXISTED.** 8/2 was the heaviest day of the session — the oil-asymmetry
+cell, the Japan/Bretton-Woods thread, the yen sequence, both Windward LNG strikes, REVISION 5, the
+Sable/DPA backfill, **and a new error class (evidentiary drift)** — and **none of its conversational state
+was written down.** A compaction landed the next morning. **The resume brief handed back 8/1 and jumped
+straight to nothing.**
+
+- **★★★ THE PATTERN IS NOT RANDOM AND THAT IS THE FINDING. The log gets written on QUIET days and skipped
+  on BUSY ones** — because on a busy day every turn ends with a `wiki/` entry and a commit, which *feels*
+  like filing. **It is not filing. `wiki/` holds CONCLUSIONS; the log holds STATE.** A day with twelve
+  commits and no log is a day whose OPEN QUESTIONS are gone.
+- **★★★ AND THE BACKFILL PROVES THE ASYMMETRY EMPIRICALLY.** Reconstructing 8/2 from git recovered the
+  conclusions **faithfully** — every one had a commit message. **It could NOT reliably recover the open
+  items, because an unanswered question leaves no commit.** ⇒ **Exactly the loss the log was commissioned
+  to prevent** (Jake, 8/1: *"nothing in the vault was shaped like an unanswered question"*).
+- **⇒ RULE, and it is a WORKFLOW rule not an intention, per the STEP ZERO doctrine: `chat_log.py --new`
+  RUNS AT THE FIRST INBOUND OF A CALENDAR DAY, before the first `wiki/` entry — not at the end of the day.**
+  **An empty scaffold sitting in the directory is a prompt; a missing file is silent.** The scaffold then
+  accumulates through the day instead of being reconstructed after it.
+- **⚠️ AND THE HONEST CAVEAT ON THE ONE I JUST WROTE: `chat-log/2026-08-02.md` IS MARKED BACKFILLED AT ITS
+  HEAD, and its 🔴 OPEN section is the section to distrust.** Per rule 4 the reconstruction stays visible
+  rather than being passed off as contemporaneous.
+
+**Links:** [[../CLAUDE.md]] (STEP ZERO-C) · `tools/chat_log.py`
