@@ -1124,3 +1124,62 @@ return to pre-war status"** · **Iran DENIES a deal** · **~$2M/vessel transit c
 · **LMA5708 toll-voids-cover clause exists** (LMA 2026-07-23).
 **FLOATED / UNCONFIRMED:** **the 60-day fee holiday** (Israeli media, "mediators seek") · **that IRAN asked
 for the pause** (Trump's claim; Iran denies) · **the MBS call** (ZeroHedge, T3).
+
+## 2026-08-02 ~7:10pm PDT — ★★★ THE CHINA TELL FIRES: vessels BROADCASTING "CHINESE CREW / OWNER" as armor
+
+Source: **PRIMARY — Windward, "A Second Qatari LNG Carrier Struck as 22 Chinese Vessels Cross the Red Sea
+Unharmed," 2026-08-02.** Jake sent an okt.to shortlink and asked me to check it; **resolved to windward.ai,
+fetched, and every claim in his summary VERIFIED.** Archived `raw/windward-2026-08-02-second-qatari-lng-chinese-vessels.txt`.
+
+### ★★★ THE REGISTERED TELL (L254) FIRED — AND HARDER THAN IT ASKED FOR
+**L254 (filed ~7/26):** *"Watch for any confirmed **Chinese-flagged transit during a closure** — that would be
+the sharpest possible evidence."*
+**WINDWARD:** *"A **Hong Kong-flagged VLCC** of approximately 333 meters transited the Strait of Hormuz
+outbound on July 30 to 31 with continuous AIS transmission **while broadcasting the destination field
+'CHINESE CREW / OWNER'**, **a RECURRING SIGNAL PATTERN observed across MULTIPLE vessels in BOTH the Hormuz and
+Red Sea corridors this July.**"*
+⇒ **THIS IS STRONGER THAN THE TELL SPECIFIED. It is not an OUTCOME inferred from who got hit — it is REVEALED
+BEHAVIOUR. Operators BELIEVE Chinese affiliation confers protection and are ACTING on it, repeatedly, across
+two corridors.** **Windward's own assessment: "differential access rules VISIBLY OPERATING for Chinese-linked
+tonnage on both fronts."**
+- **⚠️ AND IT RESOLVES MY OWN HEDGE FROM 8/1.** I flagged this same vessel (333m HK-flagged VLCC, 2.14M bbl
+  Basrah Medium from Al Basrah) as *"a PARTIAL hit — Hong Kong is a distinct registry from the PRC flag."*
+  **The caution was right in FORM; the fuller data resolves it well past what I allowed.** *(★ Logged as the
+  correct handling: hedge on thin evidence, then let better evidence move you — not the reverse.)*
+
+### DATA (as-reported, primary)
+- **GASLOG SHANGHAI** — Bermuda-flagged LNG tanker, 285m, **IMO 9600528**, Qatari LNG loaded ~7/27, **struck
+  by a likely Iranian projectile ~11nm NE of Limah, Oman on 7/31**, engine room damaged, no casualties.
+  **UKMTO confirmed; GasLog confirmed directly. No group has claimed it as of 8/2.** **SECOND confirmed hit on
+  Qatari LNG cargo in a month.**
+- **IRGC claims it struck and disabled TWO tankers attempting the southern corridor UNDER U.S. AIR ESCORT, and
+  forced FOUR more to turn back. CENTCOM has NOT confirmed.**
+- **MINOAN GLORY** (Liberia, 225m, IMO 9364447) **forced into a real-time U-turn by the IRGC Navy — in video
+  the IRGC RELEASED ITSELF** — AIS-dark since 7/31 09:21 UTC.
+- **★ 22 CHINESE-LINKED VESSELS transited Bab el-Mandeb AND called at Saudi ports 7/20-8/2 WITHOUT A SINGLE
+  INCIDENT.** **Same window: Houthis struck FOUR Saudi tankers — ENCELIA, LAYLA, NCC MASA, NCC GHAZAL.**
+  ⇒ **A control group, not an anecdote.**
+- **★ TRANSITS ROSE: 7/31 = 5 in 24h (3.6% of the ~140/day baseline) → 8/1 = 19 in 24h (13.6%), 6 of them
+  DARK (32%).**
+- **Yanbu King Fahd Industrial Port: FULLY DARK operations continuously since 7/27.** *(Yanbu is the
+  PETROLINE BYPASS TERMINUS — the vault had "loadings −40% since 7/19" at L134. Now dark.)*
+- **Six Saudi-flagged tankers routing via the CAPE OF GOOD HOPE; one Taiwan→Yanbu voyage 24 → 56 days (+133%).**
+- **DAMIETTA REASSESSED: Iranian retaliation linked to the Ukraine-Caspian strike, NOT Houthi** — *"extending
+  Iranian action beyond the Gulf and Red Sea theaters for the first time."* **Three theatres simultaneously.**
+- US naval blockade enforcement zone **REIMPOSED 7/14**. KAVOMALEAS still burning, 12 days on.
+
+### THESIS (interpretation — NOT fact)
+- **★★ MY REGISTERED TRANSIT TEST MOVED, BUT THE TIMING CUTS AGAINST THE DEAL AS THE CAUSE.** 5 → 19 is 3.8×.
+  **⚠️ TWO DAYS IS NOT A TREND: at a 12/day rate, P(≥19 on a day) ≈ 0.037 — suggestive, thin. And 19 is still
+  14% of normal against an "Immediate, Complete, Total" bar of ~140.** **CRITICALLY: the 8/1 24-hour window
+  LARGELY PRE-DATES Trump's ~7:05 PM post — as did the 7/31 GPS-jamming collapse (−85% vs the 7-day average).**
+  ⇒ **Something was moving BEFORE the announcement, not because of it.** *(Analysis.)*
+- **★★ THE BYPASS IS GOING DARK WHILE THE MAIN GATE IS TOLLED.** Yanbu dark since 7/27 + six VLCCs via the
+  Cape + a +133% voyage extension ⇒ **F18's rerouting cost now has a NUMBER, and it is being paid in TIME
+  rather than infrastructure** — consistent with the 8/2 finding that capex, not contracts, is the
+  bridge-vs-rewiring test. *(Analysis.)*
+- **⚠️ SOURCE, HELD CONSISTENTLY: Windward is a commercial product on a marketing URL. Same caveat as 8/1 —
+  and the same credit: it reassessed Damietta AGAINST the simpler Houthi story, and it labels its own
+  assessments as assessments.** *(Analysis.)*
+
+**Links:** [[demand-destruction]] · [[oil-value-chain]] · [[compression-thesis]] · [[portfolio-state]]
