@@ -3323,3 +3323,58 @@ was genuinely new; the STRUCTURE was not.**
   **Treat the frame as powerful and UNDER SUSPICION, not as established.** *(Analysis.)*
 
 **Links:** [[new-economy-regime]] · [[ai-financing-fragility]] · [[war-board]] · [[oil-value-chain]]
+
+## 2026-03-13 (BACKFILL, filed 2026-08-02 ~7:40pm PDT) — ★★★ DPA INVOKED ON CALIFORNIA OIL THE SAME DAY THE US BOMBED KHARG
+
+Source: **PRIMARY — Energy.gov press release, "Secretary Wright Directs Sable Offshore to Restore the Santa
+Ynez Unit and Pipeline," dated 2026-03-13.** Pasted by Jake 2026-08-02. **⚠️ BACKFILL — a 5-month-old
+document entering the vault now; the DATE is the finding.** **FIRST-USE:** DPA = Defense Production Act;
+EO = executive order; SPR = Strategic Petroleum Reserve.
+
+### DATA (as-published)
+- **Energy Secretary Chris Wright DIRECTED Sable Offshore Corp. to restore the Santa Ynez Unit and Pipeline
+  System**, under **DEFENSE PRODUCTION ACT** authority delegated via EO *"National Defense Resources
+  Preparedness,"* as amended by Trump's EO *"Adjusting Certain Delegations Under the Defense Production Act."*
+- **~50,000 bbl/day = "a 15 percent increase to California's in-state oil production"** ⇒ implies CA in-state
+  ≈ **333,000 bbl/d**. Framed as replacing **"nearly 1.5 million barrels of foreign crude each month."**
+- **">60 percent of the oil refined in California comes from overseas, with a SIGNIFICANT SHARE TRAVELLING
+  THROUGH THE STRAIT OF HORMUZ."** California "largely disconnected from interstate crude pipelines."
+  Routing: Las Flores Pipeline System → Pentland Station → interstate pipelines. West Coast military
+  installations named as the readiness rationale.
+- California "once supplied nearly 40 percent of U.S. oil production." Sable: 100+ employees, ~400 contractors.
+- **Page footer teases the NEXT release: "Energy Department Initiates Strategic Petroleum Reserve Em[ergency]…"**
+
+### THESIS (interpretation — NOT fact)
+- **★★★ THE DATE IS THE FINDING. [[war-board]] L798, verified against WaPo/Jerusalem Post/AOL/NPR:
+  "13 MARCH 2026: the USAF conducted a LARGE BOMBING RAID ON KHARG ISLAND — 90+ Iranian MILITARY sites — and
+  DELIBERATELY AVOIDED THE OIL AND GAS INFRASTRUCTURE."** ⇒ **THE US BOMBED THE CORE OF IRAN'S OIL EXPORT
+  COMPLEX AND INVOKED THE DPA TO RESTART CALIFORNIA OFFSHORE OIL ON THE SAME DAY.**
+  ⇒ **That is not a REACTION to a supply crisis. It is PREPARATION for one** — and it reframes the target
+  discipline the vault already flagged as remarkable (military sites hit, oil infrastructure spared):
+  **the same administration was managing the oil market on BOTH ENDS of the same day.**
+  ⚠️ **THE TWO FACTS ARE SEPARATELY SOURCED AND BOTH VERIFIED. THE SIMULTANEITY IS MINE — no source connects
+  them. Hold as a STRONG INFERENCE, not an established link.** *(Analysis.)*
+- **⛔ AND THE RELEASE IS BUILT NOT TO BE SIZED — the denominators were CHOSEN.**
+  **50,000 bbl/d against California's ~1,050,000 bbl/d of imported crude = 4.8%. Against refining runs
+  (~1.75M) = 2.9%.** **The release instead offers a MONTHLY total ("1.5 million barrels") and a share of a
+  SMALL BASE ("15% of in-state production") — both read large, neither is expressed against the gap being
+  fixed.** ⇒ **This is the base/reference error the vault has logged nine times this session, except HERE IT
+  IS IN THE SOURCE AND IT IS DELIBERATE. Read every official percentage for its denominator first.**
+  *(Analysis.)*
+- **★★ GENUINELY NEW FOR THIS VAULT: CALIFORNIA IS HORMUZ-EXPOSED, ON THE DOE's OWN RECORD.** *">60% from
+  overseas, a significant share through the Strait of Hormuz,"* plus West Coast military readiness. ⇒ **A US
+  DOMESTIC exposure to the strait the vault has not carried** — the Hormuz thread has been entirely about
+  Asian and European buyers. *(Analysis.)*
+- **★★★ THE DPA PRECEDENT IS THE STRUCTURAL ITEM AND IT REACHES JAKE'S BOOK.** **Using the DPA to override
+  STATE energy policy is a TEMPLATE, and the authority is already delegated by EO.** ⇒ **[[buildout-bottleneck-map]]
+  and the power thread turn on exactly this question: whether federal authority gets used to force grid,
+  generation and transmission past state/local resistance for AI datacentres.** **This is proof the
+  administration will reach for that tool, and has pre-positioned the delegation.** *(Analysis. The vault has
+  the local-backlash thread and "federal 'beat China' preemption is the live counter" — this is the same
+  counter with a working example.)*
+- **🚩 FETCH: the adjacent SPR release.** The vault's standing read is *"with the SPR EMPTY, jawboning Iran is
+  the cheapest suppression tool left" (L70)*. **If an SPR emergency action ran in March, that plausibly DATES
+  the moment the administration exhausted its physical tools and switched to verbal ones** — which is the
+  hinge of the whole oil-suppression thesis. *(Analysis.)*
+
+**Links:** [[war-board]] · [[oil-value-chain]] · [[buildout-bottleneck-map]] · [[new-economy-regime]]
