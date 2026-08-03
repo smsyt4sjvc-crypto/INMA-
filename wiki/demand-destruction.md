@@ -3265,7 +3265,7 @@ pressure elsewhere."*
   the war window is a few months overlapping ONE regime. **This vault killed a 500-name screen for reading
   structure into a sample like that. Even a significant result here is ONE EPISODE, not a law.** *(Analysis.)*
 
-## 2026-08-02 ~5:35pm PDT — ★★★ THE JOIN: JAPAN IS WHERE THE HORMUZ TOLL AND THE CARRY TRADE MEET
+## 2026-08-02 ~6:25pm PDT — ★★★ THE JOIN: JAPAN IS WHERE THE HORMUZ TOLL AND THE CARRY TRADE MEET
 
 **Jake, correcting my read of his "boost Japanese imports":** *"I meant more for Japan's overall imports.
 Like oil…"* **That is upstream of everything I said, and it JOINS TWO THREADS THIS VAULT KEPT SEPARATE.**
