@@ -3264,3 +3264,62 @@ pressure elsewhere."*
 - **⛔ AND THE DISCIPLINE: TODAY IS ONE OBSERVATION.** A −6.70% Sunday gap is a data point, not a pattern, and
   the war window is a few months overlapping ONE regime. **This vault killed a 500-name screen for reading
   structure into a sample like that. Even a significant result here is ONE EPISODE, not a law.** *(Analysis.)*
+
+## 2026-08-02 ~5:35pm PDT — ★★★ THE JOIN: JAPAN IS WHERE THE HORMUZ TOLL AND THE CARRY TRADE MEET
+
+**Jake, correcting my read of his "boost Japanese imports":** *"I meant more for Japan's overall imports.
+Like oil…"* **That is upstream of everything I said, and it JOINS TWO THREADS THIS VAULT KEPT SEPARATE.**
+
+### ⛔ SEVENTH STEP ZERO BREAK — THE TOLL-GATE THESIS WAS ALREADY CONFIRMED, WITH JAPAN NAMED
+**L2288 (filed 7/29):** *"Three **Japan-linked vessels** exiting the Gulf 'by Iran route' is the second
+nation-state accommodation, and **it is a US TREATY ALLY**… the strait is not closed — **it is ADMINISTERED,
+and the administrator is Iran**… supply keeps moving, **at a price, to whoever pays**."*
+**L2355:** *"**A toll cannot be sanctioned unless it is being collected.** Registered as **CONFIRMED**…
+**the disruption is being priced as a TAX, not a SHORTAGE**."*
+⇒ **Everything I "discovered" on 8/1-8/2 about the toll — administered-not-closed, the shadow-fleet selection,
+the tax framing — was FILED A WEEK EARLIER, with Japan as the FIRST NAMED PAYER.** **The ~$2M/vessel figure
+was genuinely new; the STRUCTURE was not.**
+
+### ★★★ THE CHAIN, ASSEMBLED (steps 1-2 lived in this note; step 7 in [[ai-financing-fragility]]; nothing joined them)
+```
+1. Hormuz is ADMINISTERED by Iran and TOLLED                    <- this note, CONFIRMED 7/29
+2. JAPAN is the first named nation-state PAYER                  <- this note, CONFIRMED 7/29
+3. Japan imports ~ALL its energy through that gate
+4. Japan pays in USD, earns in JPY — yen at a 40-YEAR LOW
+5. -> imported energy inflation
+6. -> BOJ pressured to HIKE
+7. -> a BOJ hike is the REGISTERED carry-unwind trigger         <- ai-financing-fragility L502
+8. -> carry unwind = FORCED SELLING OF US ASSETS
+=> THE US INTERVENES AT STEP 4, BECAUSE STEP 8 IS A US PROBLEM
+```
+- **★★★ AND IT IS UPSTREAM OF THE ANSWER I GAVE 15 MINUTES AGO.** I argued intervention **front-loads
+  official UST selling to prevent private repatriation** — a **FLOW** argument, downstream of the trigger.
+  **Jake's is a CAUSE argument: fix Japan's imported inflation so the BOJ never has to hike, and the unwind
+  never starts.** ⇒ **You do not MANAGE the trigger. You REMOVE it.** *(Analysis. Both can be true; his is
+  the operative one because it acts on the cause.)*
+
+### DATA (arithmetic on figures already held)
+- **Yen cost of a barrel: 90.12 × 164.00 = 14,780 JPY → 84.08 × 157.40 = 13,235 JPY = −10.5% in ~72 HOURS.**
+  **Decomposition: oil −6.7% × FX −4.0% — they COMPOUND.** *(Brent post-move approximated from WTI's −6.7%;
+  flagged as derived, not a Brent print.)*
+- ⇒ **THE HORMUZ DE-ESCALATION AND THE YEN INTERVENTION ARE THE SAME POLICY FOR JAPAN, and both landed
+  inside three days.**
+- **★ AND IRAN'S TOLL IS PRICED IN DOLLARS TOO ⇒ the FX leg DISCOUNTED THE TOLL BY 4%.**
+  **Strengthening the yen makes it cheaper for Japan to pay Tehran.**
+
+### THESIS (interpretation — NOT fact)
+- **★★ THE CONTRADICTION THAT IS NOT ONE.** **The US Treasury is SANCTIONING IRGC-linked firms specifically
+  over Hormuz transit fees (L2355) — while its treaty ally PAYS them, and while the US spends dollars making
+  those payments CHEAPER.** ⇒ **Two tools at one problem: SANCTION THE COLLECTOR, SUBSIDISE THE PAYER'S
+  CURRENCY.** **Coherent only if the objective is neither punishment nor trade, but KEEPING JAPAN SOLVENT
+  ENOUGH THAT THE BOJ DOES NOT HAVE TO MOVE.** *(Analysis.)*
+- **★ WHY JAPAN IS THE PRESSURE POINT AND NOT AN INCIDENTAL PARTY: it is simultaneously the most
+  Hormuz-exposed major economy AND the funding source for the global carry trade.** **The two crises are one
+  crisis at Japan, and Japan is where the US can act on both with a single instrument.** *(Analysis.)*
+- **⚠️ AND THE DISCIPLINE, SINCE THIS IS THE FOURTH ITEM TO RESOLVE INTO THE FISCAL-DOMINANCE FRAME THIS
+  WEEKEND** (M2 chart · Big Tech duration · the yen defence · now this): **[[new-economy-regime]] 8/2 flagged
+  that a fourth absorption without the registered falsifier ever engaging should read as a WARNING, not a
+  confirmation. THIS IS THE FOURTH.** **Falsifier stands: M2 YoY negative / WALCL resuming its decline.**
+  **Treat the frame as powerful and UNDER SUSPICION, not as established.** *(Analysis.)*
+
+**Links:** [[new-economy-regime]] · [[ai-financing-fragility]] · [[war-board]] · [[oil-value-chain]]
