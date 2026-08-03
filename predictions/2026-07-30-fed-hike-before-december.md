@@ -376,3 +376,59 @@ PHYSICAL CONSTRUCTION data than the capex headlines imply, or it is being swampe
 ⚠️ **Monthly construction spending is noisy and heavily revised — needs two more months before it means
 anything. But it is the right series: it is where the AI-capex thread and the rate-sensitivity thread
 INTERSECT, and this vault has NO observable there at all.**
+
+---
+
+## 2026-08-03 ~7:30am PT — ⛔ THE WEDNESDAY OIL TEST IS RETIRED: a VOTING GOVERNOR says it is not an energy story
+Source: DB/GS week-ahead via ZeroHedge (Jake paste). **65% / 70% UNCHANGED — this replaces a TEST, not the number.**
+
+### ⛔⛔ WHY THE TEST DIES
+**Registered 8/1: "WTI holding below $80 at Wednesday's close" = the dovish trigger**, on the logic that oil
+was the hawkish leg (old case-against #4) and its collapse would weaken the case.
+**GOVERNOR LISA COOK — a PERMANENT VOTER, not a regional president — 2026-07-15:**
+> *"The risks from high inflation concern me more at this time… **rising core goods prices underscore the fact
+> that the recent acceleration in inflation is NOT ONLY AN ENERGY PRICE STORY.**"*
+⇒ **CRUDE AT $83.88 DOES NOT REMOVE THE HAWKISH CASE. MY TEST WAS MEASURING A VARIABLE THE FED HAS PUBLICLY
+TOLD ME IT IS NOT WEIGHTING.** *(★ And it is the same defect as the 2Y and the dissent count: I picked an
+observable from MY model of their reaction function rather than from THEIR stated one.)*
+- **★★ AND COOK IS DESCRIBING THIS VAULT'S OWN THREAD FROM THE FOMC TABLE.** *"Rising core goods prices"* =
+  **memory ~50bp of core CPI · device prices soaring · ISM Prices Paid 71.1.** **The mechanism the vault has
+  tracked for weeks is a voting Governor's stated reason for concern.** *(Analysis.)*
+
+### ★ REGISTERED IN ITS PLACE — built from THEIR reaction function
+**FRIDAY 8/7: unemployment at 4.3%+ **AND** payrolls below consensus ⇒ DOVISH, revise DOWN.**
+**Unemployment holding 4.2% **AND** payrolls beating ⇒ 65% is TOO LOW.**
+**Why Friday is the real dovish risk and oil is not:**
+```
+Nonfarm payrolls   GS  75k   consensus 85k   last 57k    GS -10k vs consensus
+Private payrolls   GS  70k   consensus 83k   last 49k    GS -13k
+Unemployment       GS 4.3%   consensus 4.2% last 4.2%    GS expects a TICK UP
+DB payrolls +65k — BELOW GS and BELOW consensus
+```
+**GS flags the skew explicitly: "July payrolls have MISSED consensus in recent years and have been coupled
+with LARGE NEGATIVE REVISIONS to prior months."** ⇒ **Friday skews DOVISH from seasonality and revisions
+BEFORE any economics.**
+
+### ★★ THE HAWKISH SIDE GAINED THREE NAMED VOICES AND A HOUSE CALL
+- **★ DEUTSCHE BANK: "two further 25bp rate increases THIS YEAR, in SEPTEMBER and DECEMBER."**
+  ⇒ **A major house is effectively at CERTAINTY on both. I am at 65%.** **Third time this week I have been
+  below the better-informed: CME 67% (any hike), Polymarket 61.6% (Sept), now DB at two.**
+- **MUSALEM (7/31, NON-voter):** *"expressed a preference for raising rates at the JULY meeting"* given
+  *"very large and meaningful supply shocks… and PERSISTENT DEMAND PRESSURES."* Plus the September argument
+  verbatim: *"**EARLIER, INCREMENTAL, GRADUAL** interest-rate action is preferable, less costly, and less
+  disruptive than potentially later, larger, and abrupt actions."*
+- **SCHMID (7/16, non-voter):** *"uncomfortable ever assuming that a burst of inflation is likely to be
+  temporary."* **BARKIN (7/31, non-voter):** *"a close call"* on whether rates are high enough.
+- ⚠️ **VOTER DISCIPLINE: of this week's SIX speakers, only COOK (Wed) and BOWMAN (Sat) are PERMANENT VOTERS.**
+  Schmid, Daly, Musalem, Barkin are all non-voters. **Weight accordingly.**
+
+### 📅 WEDNESDAY 8/5 IS THE STACKED DAY
+**ISM Services (GS 55.0 / cons 54.5 / last 54.0 — services is ~70% of the economy, so it CONFIRMS OR BREAKS
+Monday's manufacturing print)** · **ADP (GS +65k / cons +68k / last +98k)** · **COOK speaks** ·
+**BoJ MINUTES OF THE JUNE MEETING** *(the hike that "provided little boost," landing while Bessent demands
+more — [[new-economy-regime]] 8/3)* · **SanDisk earnings** *(straight into the memory thread)*.
+
+### 🚩 AND THE CONSTRUCTION FLAG SHARPENS RATHER THAN DISSOLVES
+**GS forecast +0.5%, consensus +0.2%, ACTUAL −0.1% (last +0.1%). The best-informed forecast missed by 60bp.**
+⇒ **Whatever is happening in physical construction is not what the capex headlines describe.** Still needs
+two more months before it means anything. [[ai-capex-cycle]].
