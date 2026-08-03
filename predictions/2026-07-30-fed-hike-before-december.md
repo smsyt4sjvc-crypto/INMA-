@@ -484,3 +484,50 @@ routine.**
 **The strike on case-against #4 SURVIVES — ISM's strength is not oil-driven and that item stays falsified.**
 **But the picture is STAGFLATIONARY, not simply hot: decelerating forward momentum with elevated prices, from
 supply disruption and tariffs.** **NEITHER SURVEY IS DOVISH — both have prices elevated.** **65% holds.**
+
+---
+
+## 2026-08-03 ~8:35am PDT — 📌 A **DOWNWARD** TRIGGER REGISTERED, AGAINST MY OWN CALL. **65% / 70% UNCHANGED TODAY.**
+
+Source: **ISM July respondent comments (verbatim, Jake paste)** + ZeroHedge divergence explainer.
+Full analysis → `wiki/ai-capex-cycle.md` (2026-08-03).
+
+### WHAT THE COMMENTS CHANGE
+**ZH's conclusion: *"the AI supply chain is booming; the rest is not."*** Green comments cluster in
+AI/semis/electronics/machinery/defense; red in metals/transport/chemicals/consumer.
+⇒ **ISM 55.6 is a HEADCOUNT OF WHICH INDUSTRIES THE AI BUILDOUT TOUCHES, not a measure of aggregate demand.**
+A diffusion index counts *how many* respondents expand, one vote each. **The "broad demand strength" leg of
+the hawkish case is therefore WEAKER than I read it at 7:00am.**
+
+### WHY THE NUMBER DOES NOT MOVE TODAY
+1. **I explicitly declined to revise UP on this morning's ISM (L341: "NO REVISION — 65%/70% STAND").
+   So I do not get to revise DOWN on the mechanism FOR it.** Symmetry is the whole point.
+2. **Manufacturing is roughly a tenth of the economy.** The Fed does not set policy off ISM manufacturing
+   in either direction. **Wednesday (services, ~70%) and Friday (payrolls) are the actual inputs.**
+3. **The PRICE leg is unchanged-to-firmer and now has three mechanisms with numbers:** tariff
+   OVER-pass-through (*"foreign steel purchases… domestic mills are getting greedy"* — protection has raised
+   domestic prices past the point where importing AND paying the tariff is cheaper), **board/component
+   inflation (5-25% PCB assembly, 15-45% bare boards)**, and **freight** (*"rerouted shipments due to
+   conflicts in the Red Sea, Strait of Hormuz and Suez Canal"* — **the first appearance of the war thread
+   inside a domestic survey**).
+
+### ⛔ THE DISCIPLINE PROBLEM, STATED PLAINLY
+**SIX consecutive upward moves on this call, every one triggered by evidence JAKE supplied.** Today is the
+first item in a while that cuts AGAINST the demand leg. **If evidence-for moves the number and
+evidence-against never does, this is not a forecast — it is a RATCHET.** Hence:
+
+### 📌 REGISTERED DOWNWARD TRIGGER — **WEDNESDAY 2026-08-05, ISM SERVICES**
+- **Services is ~70% of the economy — the level at which composition actually matters.**
+- **IF the services print shows the SAME BIFURCATION** — data-centre/AI-adjacent services strong, the rest
+  weak, headline carried by a narrow set of industries — **THEN the "hot economy" leg of 65% is a
+  composition artifact where it counts, and THE CALL COMES DOWN.**
+- **A BROAD services beat leaves 65% intact. A NARROW one does not.**
+- **Readable inputs:** the headline vs GS 55.0 / cons 54.5 / last 54.0, **and the industry-level
+  expanding/contracting split (ISM publishes the roster) — the split is the test, not the headline.**
+
+### ⚠️ AND THE HALF THAT CUTS AGAINST THE HAWKISH READ
+**Supply-constrained cost-push is the textbook case a central bank LOOKS THROUGH, because hiking does not
+produce bare boards.** The counterargument is 2021-22 — they looked through it and were wrong. **But
+"we were burned last time" is a LESSON, not a MECHANISM, and I must not let it do a mechanism's work.**
+
+**⇒ 65% before December / 70% inside the put's life. UNCHANGED. Wednesday can move it DOWN.**

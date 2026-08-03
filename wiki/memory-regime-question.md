@@ -460,3 +460,50 @@ constituent dispersion is at extremes, that is a correlation collapse, not calm 
 differently.**
 
 **Links:** [[compression-thesis]] · [[market-fragility]] · [[portfolio-state]] · [[ai-financing-fragility]]
+
+## 2026-08-03 ~8:35am PDT — ★★★ BARE BOARDS +15-45%: the cost-push reaches a NON-MEMORY component, and a participant calls it unsustainable
+
+Source: **ISM Manufacturing July 2026 respondent comments (verbatim, Jake paste).** Full entry and the
+composition finding live in [[ai-capex-cycle]] (2026-08-03). **This note carries the COST-PUSH half.**
+**FIRST-USE:** PCB = printed circuit board; "bare board" = the unpopulated laminate before components mount.
+
+### DATA (as-reported)
+- **[Electrical Equipment, Appliances & Components]:** *"pricing volatility and lead-time extensions…
+  arguably **worse than the pandemic era**… **5-percent to 25-percent price increases for printed circuit
+  board assembly components and 15-percent to 45-percent increases for bare boards** are negatively
+  impacting **customer demand outlook into next year**. This isn't sustainable."*
+- **[Transportation Equipment]:** *"Competing for **scarce supply — electronics, certain critical
+  minerals**… is challenging on-time fulfillment… **expected to get worse.**"*
+- Same release: **ISM Prices Paid 71.1** (exp 71.0, i.e. **flat vs expectation**).
+
+### THESIS (interpretation — NOT fact)
+- **★★★ THIS EXTENDS THE COST-PUSH BEYOND MEMORY FOR THE FIRST TIME.** This note's whole thread has been
+  DRAM/NAND — a supply-consolidated commodity with a known cycle. **A bare board is not memory.** It is
+  laminate, copper foil, and drilling capacity. **+15-45% on the SUBSTRATE says the bottleneck is broader
+  than the memory oligopoly** — it is the whole electronics input stack, which is what
+  [Transportation Equipment] independently reports as *"scarce supply — electronics, certain critical
+  minerals."* *(Analysis. Two respondents, different sectors, same constraint.)*
+- **★★★ AND THE REPORTED FORM IS THE STRONGEST ONE AVAILABLE: NOT "OUR COSTS ARE UP" BUT "OUR CUSTOMERS ARE
+  CUTTING NEXT YEAR."** *"Negatively impacting customer demand outlook into next year. This isn't
+  sustainable."* **That is [[demand-destruction]] measured on the SELL side of the price increase, by the
+  party who raised the price.** Everything else on this thread has been price data plus an inference about
+  demand. **This is the demand response, stated.** *(Analysis.)*
+- **★★ "WORSE THAN THE PANDEMIC ERA" IS THE CALIBRATION LINE AND IT DESERVES A CAVEAT.** It is one
+  respondent's recollection of 2021-22, unquantified, in an anonymous survey — **a strong claim carried by
+  a weak instrument.** ⚠️ **Treat the NUMBERS (5-25%, 15-45%) as the evidence and the COMPARISON as colour.**
+  *(Analysis. Per the 7/31 rule: name what is measured vs what is recalled.)*
+- **★★ IT PUTS NUMBERS ON COOK'S "RISING CORE GOODS PRICES"** — the vault has carried that as a Fed
+  governor's characterisation with no magnitudes attached. **Now it has two ranges and a named component.**
+  ⚠️ **But note the direction of the Fed implication is NOT clean: supply-constrained cost-push is the
+  textbook case a central bank is supposed to LOOK THROUGH, because hiking does not produce bare boards.
+  The counterargument is 2021-22 — they looked through it and were wrong. That is a LESSON, not a
+  MECHANISM, and it must not be allowed to do a mechanism's work.** *(Analysis.)*
+- **🚩 THE CHECK THAT WOULD MAKE THIS TRADEABLE RATHER THAN ANECDOTAL:** bare-board/laminate pricing is
+  quoted (Prismark, N.T. Information, TTM/Zhen Ding earnings commentary). **If a second, non-survey source
+  puts the substrate increase in the same 15-45% band, this stops being one respondent and becomes an input
+  cost with a level.** *(Register alongside F19.)*
+
+**Links:** [[ai-capex-cycle]] · [[cepi]] · [[demand-destruction]] · [[compression-thesis]] · [[market-fragility]]
+
+### Sources
+- ISM Manufacturing July 2026 respondent comments (verbatim) — Jake paste 2026-08-03 ~8:15am PDT
