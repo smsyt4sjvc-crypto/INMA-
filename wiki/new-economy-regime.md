@@ -2253,3 +2253,59 @@ STATEMENTS. Three switches built this weekend, and the two that failed were both
   evidence.** *(Analysis.)*
 
 **Links:** [[market-fragility]] · [[ai-financing-fragility]] · `predictions/2026-07-30-fed-hike-before-december.md`
+
+## 2026-08-02 ~5:20pm PDT — ★★★ WHY BESSENT AND NOT THE FED: the yen defence is LONG-END POLICY
+
+Source: wire — **"BESSENT: WON'T HESITATE TO CONDUCT MORE YEN JOINT INTERVENTION."** Jake's questions:
+*"But they already did spend. If a weak yen hurts U.S. markets, that's the incentive on strengthening it?
+Boost Japanese imports?"*
+
+### ⛔ MY JAWBONING FRAME WAS WRONG AND JAKE CORRECTED IT
+I wrote *"the whole point of saying 'won't hesitate' is to avoid having to spend."* **THEY ALREADY SPENT.**
+**"Won't hesitate to do MORE," from a party with a completed operation and a PHOTOGRAPHED to-do list behind
+it, is categorically different from words alone.** ⇒ **The correct frame is JAWBONING BACKED BY DEMONSTRATED
+WILLINGNESS — the expensive kind, and the kind that works.** **Verbal FX intervention fails when it is
+UNTESTED; this one has been tested once.** *(Analysis. I imported the oil-jawboning template — L70, "with the
+SPR empty, jawboning is the cheapest suppression tool left" — onto a case where the spending had ALREADY
+happened. Pattern-matching to a vault precedent without checking whether its precondition held.)*
+
+### THE MOTIVE STACK (Jake's two, plus the one that dominates)
+- **★★ (a) FINANCIAL STABILITY — and it is sharper than "a weak yen hurts US markets": THE CARRY TRADE'S
+  ASSETS ARE US ASSETS.** Yen borrowed cheap → converted → parked in Treasuries, AI equities, private credit.
+  **A disorderly unwind is forced selling of exactly what Americans own** (Aug-2024 precedent).
+  ⇒ **The US is not helping Japan; it is protecting the collateral.** *(Analysis. Jake's motive, upgraded.)*
+- **★★ (b) NOT CLASSIC PLAZA — TARIFF ENFORCEMENT.** Export-promotion logic is slow and does not fit an
+  administration that does trade policy through tariffs. **But a DEPRECIATING YEN OFFSETS TARIFFS — a 20%
+  depreciation cancels a 20% tariff.** ⇒ **Currency intervention IS tariff enforcement**, which fits revealed
+  priorities far better. *(Analysis. Jake's second motive, re-specified.)*
+- **★★★ (c) THE ONE THAT DOMINATES, AND IT EXPLAINS WHY IT IS TREASURY: THE LONG END.**
+  **NO intervention → Japanese institutions repatriate VOLUNTARILY and CONTINUOUSLY** (hedging costs blow
+  out) = a slow, large, open-ended UST sale. **Intervention → the MoF sells USTs NOW in size, but the PRIVATE
+  flow STOPS.** ⇒ **YOU FRONT-LOAD A SMALL OFFICIAL SALE TO PREVENT A LARGER PRIVATE ONE.**
+  **THE ARITHMETIC (⚠️ order-of-magnitude, not a model — only the ROLLING portion reprices):**
+  **~$8T of debt rolled/refinanced per year × 10bp of term premium = ~$8B PER YEAR, RECURRING.**
+  **Intervention cost $5-10B, ONE TIME ⇒ pays back in ~1.2 years and keeps paying.**
+  ⇒ **THE FED OWNS INFLATION; TREASURY OWNS FUNDING COSTS. A 30Y at 5.28 against $39T is TREASURY's problem,
+  and if Japanese selling is a real driver of term premium, DEFENDING THE YEN IS CHEAPER THAN PAYING IT.**
+  **That is why it is Bessent and not Warsh.** *(Analysis.)*
+- **★ AND IT FITS THORNE'S LINE FROM THE SAME DAY** ([[ai-financing-fragility]] 8/2): *"Treasury understands
+  the long end is being driven by FLOWS, not by the inflation scare."* ⇒ **If Bessent believes that, YEN
+  POLICY IS LONG-END POLICY WEARING A CURRENCY COSTUME.** *(Analysis.)*
+
+### ★★★ AND IT FOLDS INTO JAKE'S FISCAL-DOMINANCE THESIS — THE THIRD TIME THIS WEEKEND
+**Every motive above except tariff-enforcement reduces to DEBT FINANCING: protect the collateral · stop the
+repatriation · hold down the term premium — all so $39T stays serviceable.**
+⇒ **THREE ITEMS I FILED AS SEPARATE STORIES HAVE NOW RESOLVED INTO HIS ONE: the M2 chart (8/1), Big Tech's
+duration pivot (8/2), the yen defence (8/2).** **That is a thesis earning its keep — it keeps absorbing
+inputs I did not route to it.** *(Analysis. ⚠️ AND THE DISCIPLINE THAT GOES WITH IT: a frame that explains
+EVERYTHING is also a frame that cannot be FALSIFIED by anything. The registered falsifier stays L132 —
+"M2 YoY rolls back negative / WALCL resumes falling." If the thesis absorbs a fourth item without that
+falsifier ever coming into play, treat the absorption as a WARNING, not a confirmation.)*
+
+### 🚩 THE TRIGGER (state claims time nothing)
+**"Won't hesitate" is a STATE. The falsifiable version is a SECOND DATED OPERATION WITH A SIZE.**
+- **US share rising above the 9-19% it carried on the first ⇒ the commitment is real.**
+- **USD/JPY drifting back toward 164 with no action ⇒ it was words.**
+**MoF publishes intervention data monthly. The SIZE is the whole tell.**
+
+**Links:** [[ai-financing-fragility]] · [[market-fragility]] · [[demand-destruction]] · [[portfolio-state]]
