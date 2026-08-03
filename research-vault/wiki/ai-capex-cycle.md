@@ -1992,6 +1992,7 @@ flagged in the entry above). **But the search to settle it surfaced something th
   SEAT advising the President on AI policy.** That is a materially stronger channel than a signed letter.
   *(Analysis. Strengthens the prior entry; does not retire it — the letter is still the public artifact.)*
 - **★★★ THE EXCLUSIONS ARE THE FINDING. The council's members and the 7/24 letter's signatories are close to the
+  ⟲ SUPERSEDED 2026-08-03 → ai-capex-cycle.md:L2135 — the three closed-frontier labs DID get the framework draft -- no council seat, but a text-editing channel
   SAME GROUP — and the same two firms are missing from both.** [[metered-compute]] L143 logs the letter's notable
   absentees as **OpenAI, Anthropic, Google — the pure closed-frontier labs.** The council excludes **Altman**.
   **Open-weight / infrastructure interests have the President's ear; closed-frontier labs do not.** *(Analysis.)*
@@ -2122,3 +2123,30 @@ Source: **ISM Manufacturing July 2026 respondent comments (verbatim, Jake paste)
 ### Sources
 - ISM Manufacturing July 2026 respondent comments (verbatim) — Jake paste 2026-08-03 ~8:15am PDT
 - ZeroHedge, *"Here's Why The US Manufacturing Surveys Are Diverging So Dramatically…"* — PDF, Jake paste 2026-08-03
+
+### Addendum 2026-08-03 ~9:15am PDT — ⟲ THE 7/31 "EXCLUSIONS" FINDING WAS TOO STRONG. Two channels, and the labs hold the narrower one.
+
+Source: Axios 2026-08-03 (full entry → [[ai-financing-fragility]], same date).
+
+**L1994 says: *"Open-weight / infrastructure interests have the President's ear; closed-frontier labs do
+not."*** **Today's report says *"the three labs gave the administration feedback on a draft of the
+framework"* — Anthropic, OpenAI and Google, the exact three this note named as the council's absentees.**
+⇒ **The claim that they are WITHOUT A CHANNEL is falsified. I am not saving it.**
+
+**THE VERSION THAT SURVIVES, and it is what should have been written on 7/31 — THERE ARE TWO CHANNELS:**
+  ⟲ SUPERSEDES ai-capex-cycle.md:L1994 — the three closed-frontier labs DID get the framework draft -- no council seat, but a text-editing channel
+- **A COUNCIL SEAT IS AGENDA-SETTING** — it shapes **what gets regulated, and whether.** *(Zuckerberg,
+  Huang, Ellison — one model developer and two infrastructure providers.)*
+- **DRAFT FEEDBACK IS TEXT-EDITING** — it shapes **how an already-decided instrument reads.**
+  *(Anthropic, OpenAI, Google.)*
+⇒ **The labs were consulted ON the instrument. They were not in the room where it was decided the
+instrument would EXIST.** *(Analysis. A refinement, not a rescue — the original overstated.)*
+
+- **★★ AND THE ASYMMETRY THE ORIGINAL ENTRY MISSED IS SHARPER THAN THE ONE IT CLAIMED: THE BURDEN AND THE
+  SEATS SIT ON DIFFERENT PARTIES.** A model-evaluation framework lands on **model developers**. Of the three
+  council members, **only Meta develops models** — and Meta is the open-weights defector ([[metered-compute]]
+  L1590: signed the 7/24 letter, shipped a CLOSED model in seven days). **NVDA and Oracle are infrastructure;
+  the framework does not reach them at all.** ⇒ **The regulated parties hold the editing channel; the
+  unregulated parties hold the agenda-setting one.** *(Analysis.)*
+
+**Links:** [[ai-financing-fragility]] · [[metered-compute]]
