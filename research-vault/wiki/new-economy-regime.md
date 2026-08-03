@@ -2369,3 +2369,62 @@ REPURCHASE FACILITY providing temporary dollar liquidity, calling the tool an 'I
   = the intervention has changed the regime; failing back toward 160+ = it was a spike.** *(Analysis.)*
 
 **Links:** [[ai-financing-fragility]] · [[market-fragility]] · [[demand-destruction]] · [[portfolio-state]]
+
+## 2026-08-03 ~5:03am ET (filed ~7:55am PT) — ★★★ FIMA NAMED: the "Japan as forced UST seller" thesis is DEAD
+
+Source: **WSJ, Jason Douglas, "The Worries That Drove Uncle Sam to Buy Yen," 2026-08-03 5:03am.** Jake paste.
+**FIRST-USE:** FIMA = Foreign and International Monetary Authorities (repo facility).
+
+### ★★★ THE CONFIRMATION, AND IT KILLS A THESIS THIS VAULT SPENT TWO DAYS BUILDING
+**WSJ:** *"Katayama said Monday that Japan planned to use a pandemic-era borrowing facility to get dollars
+from the Federal Reserve **RATHER THAN SELL DOWN ITS TREASURY HOLDINGS** to finance future intervention.
+Bessent said he would encourage the Fed to **'UPSIZE' the little-used FOREIGN AND INTERNATIONAL MONETARY
+AUTHORITIES REPO FACILITY.**"*
+**I called the mechanism last night (8/2 ~11:50pm) off a vague Reuters line about "the Fed's repurchase
+facility": *"A larger repo facility lets Japan PLEDGE its Treasuries for dollars INSTEAD OF LIQUIDATING them…
+the Treasuries NEVER HIT THE MARKET."* MECHANISM CONFIRMED, FACILITY NAMED.**
+⇒ **IT KILLS "JAPAN AS FORCED UST SELLER," WHICH WAS THREE THINGS AT ONCE:**
+  **(a)** the **Thorne/ZeroHedge piece's CENTRAL mechanism** (8/2) · **(b) MY OWN 8/1 correction** — *"the yen
+  defence may be what sold the long end"* · **(c)** the **duration-supply channel** built on both.
+- **⚠️ SCOPE, HELD HONESTLY: WSJ says Japan "PLANNED TO USE" it for FUTURE intervention. The ~$50bn already
+  spent may still have been UST-funded. PAST = OPEN. FUTURE = EXPLICITLY NOT.** *(Analysis.)*
+
+### DATA (as-reported, WSJ)
+- **Japan spent ~$70bn in APRIL-MAY to prop the yen "only to have it WEAKEN AGAIN."** ⇒ **the base rate on
+  SOLO intervention, and why the JOINT framing carries the weight.**
+- **~$50bn (preliminary) in this latest burst.** **US: $5-10bn per the photographed notepad** (Daniel
+  Heuer/Reuters) = **10-20% of the current burst.** **Japan's ~4-month total ≈ $120bn.**
+- **Yen ~156 Monday Asia, from a pre-intervention low near 164 — weakest since 1986.**
+- **US intervention on another country's behalf is RARE: last yen-STRENGTHENING op was 1998 (Asian financial
+  crisis) — 28 years. In 2011 the US helped WEAKEN it after the earthquake.**
+- **Bessent on X: the US "wouldn't hesitate to intervene again to CORRECT THE SUBSTANTIAL UNDERVALUATION of
+  the Japanese yen."** Setser (CFR, ex-Treasury): *"it will now be much more costly to be short the yen."*
+- **ARGENTINA PRECEDENT: the US set up a swap line and Treasury BOUGHT PESOS under Bessent.**
+- Trump: *"They wanted a little bit of help and we're always there for Japan."* PM **Takaichi** (Abe-aligned);
+  Bessent likened her plans to **Abenomics**. **Bessent made ~$1bn in 2013 betting AGAINST the yen at Soros.**
+
+### THESIS (interpretation — NOT fact)
+- **★★ A FOURTH MOTIVE, MORE CONCRETE THAN THE THREE I GAVE JAKE: THE $550 BILLION.** *"A weak Japanese
+  currency also makes it harder for Japanese firms to finance a planned **$550 billion in investments in the
+  U.S.**, a cornerstone of a 2025 trade pact and a priority for Trump."* ⇒ **A dollar-denominated commitment
+  with the President's name on it that a 40-year-low yen makes unaffordable.** *(Analysis. My three were
+  collateral protection, tariff enforcement, the long end. This one has a number and a deliverable.)*
+- **★★★ AND THE LOOP I HAD NOT CLOSED — THE AI BOOM IS THE FX STRESS.** WSJ: *"the yen has also been
+  struggling as **CAPITAL RACES TO THE U.S. IN SEARCH OF HIGHER RETURNS FROM THE ARTIFICIAL-INTELLIGENCE
+  BOOM.**"* Same paragraph names the **KOREAN WON and INDIAN RUPEE** — and **KOSPI fell 5% today.**
+  ⇒ **AI CAPEX DRAINS ASIAN CAPITAL → ASIAN CURRENCIES WEAKEN → INTERVENTION → PRESSURE ON THE LONG END →
+  RAISES THE COST OF FINANCING THE AI BUILDOUT.** **This vault's biggest thread and its FX thread are the
+  same flow.** *(Analysis. [[ai-capex-cycle]], [[market-fragility]].)*
+- **★ ARGENTINA + JAPAN = A DOCTRINE, NOT A ONE-OFF.** *"Trump is showing that he's prepared to help allies
+  who are battling financial markets, a contrast to the hands-off approach long favored by U.S.
+  policymakers."* ⇒ **The US as FX backstop for aligned governments. Watch for a third.** *(Analysis.)*
+- **⚠️ AN INCONSISTENCY WORTH HOLDING: Bessent praised Takaichi's plans by likening them to ABENOMICS — which
+  was explicitly a WEAK-YEN policy — while intervening to STRENGTHEN the yen.** ⇒ **Either the endorsement is
+  diplomatic courtesy, or the intervention is a FLOOR rather than a TREND. That distinction decides whether
+  155 holds.** *(Analysis. 155 remains the registered level.)*
+- **✓ AND IT CONFIRMS JAKE'S ENERGY-IMPORT CHANNEL DIRECTLY:** *"sparking anxiety in Tokyo about faster
+  inflation and a BIGGER IMPORT BILL FOR ENERGY as war with Iran strangles oil supplies"* and *"the war with
+  Iran has piled pressure on the currencies of Japan and other ENERGY IMPORTERS."* **His 8/2 read, in the WSJ's
+  words.** *(Analysis.)*
+
+**Links:** [[ai-financing-fragility]] · [[demand-destruction]] · [[market-fragility]] · [[ai-capex-cycle]]
