@@ -207,7 +207,15 @@ THREADS = {
                'dxy','dollar index','ueda'],
  'AI-POLICY': ['export control','entity list','blacklist','huawei','huang','jensen',
                'chip ban','chip export','tech transfer','sovereign ai','ai regulation',
-               'ai policy','diffusion rule','deregulat','preempt','smic','state ai law'],
+               'ai policy','diffusion rule','deregulat','preempt','smic','state ai law',
+               # ROUTER GAP #4 (2026-08-03) — the Axios "White House finalizes AI framework"
+               # story returned NO THREAD MATCH on all 17 keywords above. The map covered the
+               # CHIP-EXPORT half of AI policy and had NOTHING for the MODEL-GOVERNANCE half:
+               # executive orders, evaluation frameworks, pre-release access, safety testing.
+               'executive order','white house','ai framework','voluntary framework',
+               'model evaluation','capabilities testing','pre-release','frontier model',
+               'ai safety','ai executive','classified threshold','trusted partner',
+               'ai act','model access','safety institute','nist ai','red team'],
  'KOREA':     ['kospi','kosdaq','circuit breaker','de-gross','degross','leveraged etf',
                'margin call','south korea','limit up','limit-up','daily limit','krx'],
 }
@@ -239,7 +247,7 @@ ROUTE = {
  'FED':       'new-economy-regime / market-fragility',
  'MODEL-ECON':'metered-compute / compression-thesis',
  'FX/CARRY':  'ai-financing-fragility (yen-carry corners the Fed, L491) / market-fragility / new-economy-regime',
- 'AI-POLICY': 'ai-financing-fragility (blacklist timeline) / metered-compute (the NVDA letter) / compression-thesis (two-bloc)',
+ 'AI-POLICY': 'ai-financing-fragility (blacklist timeline, F17 risk stack) / metered-compute (the NVDA letter, the council) / ai-capex-cycle (advisory council) / compression-thesis (two-bloc)',
  'KOREA':     'market-fragility (leverage cascade)',
 }
 

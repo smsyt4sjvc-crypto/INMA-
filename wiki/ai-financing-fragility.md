@@ -2918,3 +2918,112 @@ cement-PPI axis — nine-plus instances now.)*
   on the record NEXT TO IT.** *(Analysis. Registered as a standing counter, not a revision.)*
 
 **Links:** [[new-economy-regime]] · [[market-fragility]] · [[ai-capex-cycle]] · `predictions/2026-07-30-fed-hike-before-december.md`
+
+## 2026-08-03 ~9:15am PDT — ★★★ THE AI FRAMEWORK ARRIVES **VOLUNTARY AND UNPUBLISHED** — a registered F17 risk downgrades in form, and a new evidence rung is needed
+
+Source: **Axios, Maria Curi — *"White House finalizes AI framework behind closed doors"*, 2026-08-03**
+(Jake paste; archived `raw/axios-2026-08-03-white-house-ai-framework.txt`).
+**FIRST-USE:** EO = executive order; NDA = non-disclosure agreement; IP = intellectual property.
+⛔ **ROUTER RETURNED "NO THREAD MATCHED" — AI-POLICY's 17 keywords covered the CHIP-EXPORT half of AI
+policy and had NOTHING for the MODEL-GOVERNANCE half. Router gap #4, patched (`acute_scanner_cell.py`);
+thread now fires AI-POLICY(6) on the same text.**
+
+### DATA (as-reported)
+- **A White House official: *"The voluntary framework outlined in the June 2nd executive order was complete
+  by the deadline."*** **The White House will not say what it contains, who has seen it, or when companies
+  start using it.**
+- *"Discussions with industry about next steps are underway"* — same official.
+- **The framework is meant to specify the confidentiality, cybersecurity, insider-risk, IP-protection and
+  NDA requirements applying when the government gets access to models for UP TO 30 DAYS BEFORE RELEASE.**
+- **It is also supposed to name which *"trusted partners"* get early access to models.** *(Not disclosed.)*
+- **By the EO's own terms, CLASSIFIED: (1) the benchmarking process for advanced CYBER capabilities;
+  (2) the THRESHOLD for which models are covered** — shared with developers/researchers *"as appropriate."*
+- **The EO does NOT designate the framework itself as classified.** *"Policymakers and other observers
+  expected to see details."*
+- **Official, on withholding it: *"Just because things are unclassified that doesn't mean we are going to
+  broadcast them to everyone."***
+- **★ *"Leading up to the deadline, the three labs gave the administration feedback on a draft of the
+  framework"* — Anthropic, OpenAI and Google.** Official adds the administration engages *"many more"*
+  partners than those three.
+- **📅 DATED: a staff-level meeting with companies on TUESDAY 2026-08-04 to review the framework**
+  (*"a source familiar"*).
+- ⛔ **THE VAULT HAS NOTHING ON THE JUNE 2, 2026 EXECUTIVE ORDER.** Two months old, frontier-AI evaluation,
+  absent from `wiki/`. **That is an INGEST failure, not a retrieval one.** *(Added to the open list.)*
+
+### THESIS (interpretation — NOT fact)
+- **★★★ A NEW EVIDENCE RUNG, AND IT SITS BELOW EVERY EXISTING ONE: ASSERTED-COMPLETE vs PUBLISHED.**
+  The vault's ladder is LETTER vs BILL · ANNOUNCED vs FID · REPORTED vs MEASURED · ESTABLISHED vs FLOATED.
+  **This is weaker than all of them: a completion CLAIM with no artifact, no roster, no start date.**
+  **From outside, a deadline met this way is not distinguishable from a deadline missed.** *(Analysis.
+  Add to the handoff rules block — this class will recur.)*
+- **★★ AND THE INTERNAL TELL IS IN THE ADJACENT SENTENCE.** *"Discussions with industry about NEXT STEPS
+  are underway."* **If a framework were complete AND OPERATIVE, the next steps would be defined BY the
+  framework.** That, plus the unanswered *"when will companies start using it,"* is the difference between
+  **a policy existing and a FILE existing.** *(Analysis.)*
+- **★★★ THE SECRECY HAS THREE LAYERS AND ONLY TWO ARE REQUIRED — the third is the finding.** Coverage
+  threshold: **classified by the EO.** Cyber benchmarking: **classified by the EO.** The framework itself:
+  **UNCLASSIFIED — and withheld anyway.** ⇒ **Non-publication is DISCRETION, not compliance**, and the
+  official concedes exactly that (*"just because things are unclassified…"*) — a statement about
+  PREFERENCE, not about secrecy law. *(Analysis.)*
+- **★★★★ THE COMMERCIALLY EXPENSIVE ITEM IS THE THRESHOLD, NOT THE FRAMEWORK. A lab cannot determine EX
+  ANTE whether a model it is training will be covered.** If it is, the government **plus unnamed "trusted
+  partners"** hold it up to **30 days pre-release**. **That is a CAPITAL-ALLOCATION problem, not a
+  compliance problem** — 30 days of deferred revenue and 30 days handed to any uncovered competitor,
+  **unpriceable at the training decision because coverage is unknowable.**
+  ⇒ **UNCERTAINTY ABOUT THE THRESHOLD COSTS MORE THAN THE THRESHOLD. Coverage you know about can be
+  planned around.** *(Analysis. Strongest point in the piece.)*
+- **★★ "TRUSTED PARTNERS" IS UNDISCLOSED, AND THE RISK PRICES OFF THE DISCLOSURE, NOT THE REALITY.**
+  *"An unnamed third party receives your unreleased weights for up to 30 days"* is material **regardless of
+  how benign the actual list is.** *(Analysis.)*
+- **★★★ A REGISTERED F17 RISK JUST DOWNGRADED IN FORM, AND I AM STATING IT AS A DOWNGRADE.**
+  [[metered-compute]] L1602 lists **"mandatory-capabilities-testing proposed by name"** in Anthropic's risk
+  stack. **What shipped is VOLUNTARY.** ⇒ **On its face that is good news for the registered risk**, and
+  reframing it as bad news without saying so would be the [[_calibration]] "evidentiary drift" failure
+  (8/2). *(Analysis.)*
+- **★★★ BUT "VOLUNTARY" FRAMEWORKS BIND THROUGH PROCUREMENT, NOT STATUTE — AND FOR ANTHROPIC SPECIFICALLY
+  THE READ DOES NOT RESOLVE.** The vault holds **a federal procurement ban since February** + a **DoD
+  supply-chain-risk designation** (L2596, L2765).
+  - **(a) IT DOESN'T BIND THEM.** Already outside federal procurement ⇒ **the enforcement lever has nothing
+    to pull. Being banned is immunity from the mechanism.**
+  - **(b) IT BINDS THEM HARDEST.** If the objective is getting the ban **LIFTED**, participation is the
+    price of readmission — and **declining a "voluntary" framework while carrying a supply-chain-risk
+    designation reads as confirming the designation.**
+  ⇒ **WHICH ONE HOLDS DEPENDS ENTIRELY ON WHETHER THEY ARE CONTESTING THE BAN. The vault does not know.
+  🚩 THAT IS NOW THE SHARPEST SINGLE UNKNOWN ON F17.** *(Analysis.)*
+- **★★ THE OFFICIAL'S DILUTION IS THE STANDARD TELL, WORTH ONLY WHAT IT IS WORTH.** *"Many more industry
+  partners than just Anthropic, OpenAI and Google."* **You do not say "more than just X, Y, Z" unless
+  X, Y, Z is the accurate baseline. It disputes EXCLUSIVITY while conceding the FACT** — and exclusivity is
+  not what Axios claimed. ⚠️ **Fair reading: it could also be literally true and Axios's framing merely
+  incomplete. The concession is the durable part.** *(Analysis.)*
+- **★★★ THE SIDE UNDER-WEIGHTED, and this vault's AI-policy posture has drifted the other way:
+  A SECRET, VOLUNTARY FRAMEWORK WITH A CLASSIFIED THRESHOLD IS AMONG THE WEAKEST REGULATORY INSTRUMENTS
+  AVAILABLE.** No statute cited, no penalties, no covered-entity list, no enforcement mechanism, no start
+  date. **If you had something strong you would PUBLISH it — publication is how you bind parties you cannot
+  otherwise reach.** *(Analysis. Argues against the vault's own drift.)*
+- **⚠️ AND THE COMPETING READ IS COHERENT: the secrecy may be FUNCTIONAL.** Publishing a capability
+  threshold tells adversaries what level of capability triggers US attention — **and the EO's explicit
+  classification of the CYBER benchmarking supports that motive.** *(Analysis. Do not dismiss it.)*
+
+### 🚩 NEW FLAG F20 — **WHICH SECRECY IS THIS?** (thin-and-hiding-it, or real-and-functional)
+**A cheap separator with a date on it: TUESDAY 2026-08-04, the staff-level review meeting.**
+- **REAL ⇒** the confidentiality / insider-risk / IP / NDA requirements are detailed and expensive, and
+  **at least one covered lab complains — publicly, in a filing, or via a leak — about compliance cost or
+  the 30-day window.**
+- **THIN ⇒** the meeting is a briefing, nothing follows, and the framework is not heard from again.
+- **★ THE PRINCIPLE: A FRAMEWORK NOBODY COMPLAINS ABOUT IS NOT BINDING ANYBODY.**
+  **Resolution window ~2 weeks.**
+
+### ⚠️ WHAT THIS IS NOT — the WARNING-vs-TRIGGER discipline
+**This is a STATE, not a TRIGGER.** No compliance date, no penalty, no covered-entity list, no start date —
+**nothing dated, mechanical or falsifiable that bears on a 90-day book.** The only dated item is Tuesday's
+meeting, whose output is likely also unpublished. **It shades odds on F17; it times nothing.**
+- **The one place it touches something real, DESCRIPTIVELY (rule 7): you cannot write a risk factor about a
+  document you have not seen.** *"We may become subject to a voluntary framework whose terms and coverage
+  criteria are not public"* **is a materially worse S-1 disclosure than a description of actual
+  obligations — and worse in the direction underwriters price, because it is UNQUANTIFIABLE.**
+
+**Links:** [[metered-compute]] · [[ai-capex-cycle]] · [[compression-thesis]] · [[_calibration]]
+
+### Sources
+- Axios, Maria Curi, *"White House finalizes AI framework behind closed doors"*, 2026-08-03 —
+  `raw/axios-2026-08-03-white-house-ai-framework.txt` (Jake paste ~9:15am PDT)
