@@ -335,3 +335,44 @@ precisely because the move is a subtraction from the case AGAINST, not another i
 2. **CME/swaps SEPTEMBER 25bp BUCKET specifically** — still not in hand.
 3. **⛔ THE 2Y IS RETIRED AS A SWITCH.** **It has now been read once in five attempts and it refuted the
    person who registered it. It stays as context, never again as a test.**
+
+---
+
+## 2026-08-03 ~7:00am PT — ⛔ CASE-AGAINST #4 STRUCK (falsified). **NO REVISION — 65% / 70% STAND.**
+**Data:** ISM Manufacturing **55.6** (exp 53.9, last 53.3 — **FOUR-YEAR HIGH**) · Employment **52.8** (exp 50.0)
+· Prices Paid **71.1** (exp 71.0) · New Orders **56.7** (exp 56.7) · S&P Global Mfg PMI final **53.9** (exp 53.8)
+· **Construction spending −0.1% MoM (exp +0.2%) — the only miss.**
+
+### ⛔ THE FALSIFIED ITEM
+**Original case-against #4: *"Only OIL argues hawkish — the textbook look-through case, and the
+administration is actively suppressing it."*** ⇒ **ISM at a four-year high, employment +2.8 vs expectation,
+and Prices Paid at 71.1 have NOTHING TO DO WITH OIL. THE ITEM IS FACTUALLY WRONG. STRUCK.**
+**And the timing is the point: it printed on the morning Brent fell >4% to $83.88.**
+⇒ **The hawkish case ROTATED ITS SOURCE rather than losing it — the oil leg weakened and the domestic leg
+strengthened in the same session.**
+
+### ★ THE SPLIT, WHICH MATTERS MORE THAN THE HEADLINE
+**The INFLATION component came IN LINE (71.0 exp / 71.1 act). The GROWTH components did not (+1.7, +2.8).**
+⇒ **This is a GROWTH surprise, not an inflation surprise — the market already knew prices were hot.**
+**But a growth surprise at Prices Paid 71 is hawkish anyway: it removes "the slowdown will cool prices,"
+and the employment beat removes the labour-softening version of the same argument.**
+**Corroborated independently: S&P Global final PMI 53.9. Two surveys, not one survey's noise.**
+
+### ⛔⛔ WHY NO REVISION — AND THIS IS THE DISCIPLINE, NOT A JUDGEMENT CALL
+1. **A SPECIFIC TEST IS ALREADY REGISTERED AND UNRESOLVED: "WTI holding below $80 at Wednesday's close."**
+   Registered 8/1, before the crude gap. **It has not resolved. Pre-commitment means waiting for it.**
+2. **★★★ THIS WOULD BE THE SIXTH CONSECUTIVE UPWARD MOVE.** **REVISION 5 justified a bigger step because it
+   REMOVED AN OBJECTION rather than adding evidence. This print ALSO removes an objection.**
+   **⇒ USING THE SAME JUSTIFICATION TWICE IN 24 HOURS IS NOT UPDATING — IT IS FINDING NEW REASONS TO GO THE
+   DIRECTION I WAS ALREADY GOING.** REVISION 4 already logged the dragged-anchor problem; this is exactly it.
+3. **One month, one print.**
+⇒ **65% before December / 70% inside the put's life. UNCHANGED. Wednesday governs.**
+
+### 🚩 THE ONE WEAK PRINT IS THE RATE-SENSITIVE ONE, AND IT TOUCHES THE CAPEX THREAD
+**Construction spending −0.1% (exp +0.2%). Construction is where higher rates bite FIRST, and nonresidential
+structures includes DATA CENTRES.** ⇒ **A flat-to-negative national print sits oddly against a claimed
+~$170B/quarter datacentre buildout** ([[ai-capex-cycle]], 8/2 scanner). **Either the buildout is smaller in
+PHYSICAL CONSTRUCTION data than the capex headlines imply, or it is being swamped by weakness elsewhere.**
+⚠️ **Monthly construction spending is noisy and heavily revised — needs two more months before it means
+anything. But it is the right series: it is where the AI-capex thread and the rate-sensitivity thread
+INTERSECT, and this vault has NO observable there at all.**
