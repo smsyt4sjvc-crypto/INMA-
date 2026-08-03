@@ -36,6 +36,9 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 - [[cepi]] — Capex → Earnings → Price Intensity
 - [[trade-down-landing-pads]] — who catches the falling customer
 - [[concentration]] — concentration & breadth
+- [[ai-evaluation-framework]] — **EO 14409 / "covered frontier model" — a DATED LEDGER, not a read.**
+  The framework was reported complete 2026-08-03 and is UNPUBLISHED. **DATA accumulates; THESIS does not,
+  until the text is public.**
 
 ## ⚡ Power / energy / oil
 - [[power-not-petroleum]] — the core energy-rotation thesis

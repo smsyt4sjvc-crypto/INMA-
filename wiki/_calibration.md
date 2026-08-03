@@ -1158,3 +1158,37 @@ straight to nothing.**
   rather than being passed off as contemporaneous.
 
 **Links:** [[../CLAUDE.md]] (STEP ZERO-C) · `tools/chat_log.py`
+
+## 2026-08-03 ~10:05am PDT — ⛔⛔ I INVENTED AN EVIDENCE RUNG AND THEN VIOLATED IT IN THE SAME ENTRY
+
+**At ~9:15am I filed a new rung: ASSERTED-COMPLETE vs PUBLISHED** — *"a completion CLAIM with no artifact,
+no roster and no start date is weaker than LETTER-vs-BILL, ANNOUNCED-vs-FID, REPORTED-vs-MEASURED, and
+indistinguishable from a missed deadline."* **Then I wrote ~3,000 words about what the unpublished document
+means, across two messages, including a correction pass on my own interpretation of a text nobody has read.**
+
+**Jake, ~10:05am: *"I hadn't assigned it bearish or bullish or good or bad in my mind whatsoever. I just
+want a date marked and stamped in the vault as today the day being reported that it's complete. We don't
+know enough about it yet to know what it even is."***
+
+- **★★★ THE FAILURE IS NOT THE ANALYSIS BEING WRONG — IT IS ANALYSIS BEING THE WRONG ACT.** Two of the
+  claims *were* wrong (the 30-day clock's anchor, the procurement lever), **and I caught both myself off the
+  primary source within 30 minutes.** ⇒ **Self-correction is not the fix here. Nothing I could have written
+  about an unread document would have been worth writing.** *(This is the distinction I have been missing:
+  the vault grades ACCURACY well and grades WHETHER-TO-OPINE not at all.)*
+- **★★★ AND THE TELL WAS AVAILABLE, IN MY OWN TEXT, BEFORE THE ANALYSIS: I had already written that the
+  contents, the roster and the start date were all undisclosed.** **I listed the unknowns and then reasoned
+  past them.** **Enumerating what you do not know is not the same as being constrained by it.**
+- **⇒ NEW STANDING RULE — THE ARTIFACT TEST. Before interpreting any reported document, policy, deal or
+  agreement: NAME THE ARTIFACT I HAVE READ. If the answer is "a report ABOUT it," the entry is a DATED
+  LEDGER — timeline, verbatim quotes, and an explicit ⬜ NOT-KNOWN list — and the THESIS section says
+  the vault holds no read.** **A dated stamp is a complete deliverable. It does not need a thesis attached
+  to be worth filing.**
+- **⚠️ AND NOTE WHERE THE DISCIPLINE HELD AND WHERE IT DID NOT: I applied evidence discipline to the WHITE
+  HOUSE's claim (inventing a rung for it) and NONE to AXIOS's paraphrase — reasoning freely from the source
+  I was not skeptical of.** **That is the tenth base/reference error, in a new form: I graded the source I
+  distrusted and not the source I was standing on.**
+- **★ THE FIX IS FILED, NOT JUST STATED:** `wiki/ai-evaluation-framework.md` is a DATA-only ledger with a
+  ⬜ NOT-KNOWN list; the 9:15am entry is marked PREMATURE at its head and four of its ★★★ conclusions are
+  ⟲ superseded to it. **Per rule 4 the premature analysis stays visible.**
+
+**Links:** [[ai-evaluation-framework]] · [[ai-financing-fragility]] · [[../CLAUDE.md]]

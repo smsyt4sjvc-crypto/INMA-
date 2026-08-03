@@ -2919,7 +2919,20 @@ cement-PPI axis — nine-plus instances now.)*
 
 **Links:** [[new-economy-regime]] · [[market-fragility]] · [[ai-capex-cycle]] · `predictions/2026-07-30-fed-hike-before-december.md`
 
-## 2026-08-03 ~9:15am PDT — ★★★ THE AI FRAMEWORK ARRIVES **VOLUNTARY AND UNPUBLISHED** — a registered F17 risk downgrades in form, and a new evidence rung is needed
+## 2026-08-03 ~9:15am PDT — THE AI FRAMEWORK ARRIVES **VOLUNTARY AND UNPUBLISHED**
+
+⛔⛔ **THIS WHOLE ENTRY IS MARKED PREMATURE — 2026-08-03 ~10:05am PDT. THE DATED RECORD LIVES AT
+[[ai-evaluation-framework]]; THIS IS INTERPRETATION OF A DOCUMENT NOBODY HAS READ.**
+**Jake: *"I hadn't assigned it bearish or bullish or good or bad in my mind whatsoever. I just want a date
+marked and stamped in the vault as today the day being reported that it's complete. We don't know enough
+about it yet to know what it even is."*** **He is right, and the rule he is applying is the one I filed
+IN THIS ENTRY two hours earlier — ASSERTED-COMPLETE vs PUBLISHED. I invented the rung and then built
+~3,000 words on top of the thing it warns about.**
+**RETAINED PER RULE 4 (premature and wrong calls stay visible). ⇒ NOTHING BELOW IS A STANDING CONCLUSION.
+Two of its claims were falsified by the primary source within 30 minutes (see the ~9:45am correction).**
+**★ THE DURABLE CONTENT OF THIS ENTRY IS THE VERBATIM DATA BLOCK AND THE ROUTER-GAP FIX. Nothing else.**
+
+### (original header, retained) ★★★ a registered F17 risk downgrades in form, and a new evidence rung is needed
 
 Source: **Axios, Maria Curi — *"White House finalizes AI framework behind closed doors"*, 2026-08-03**
 (Jake paste; archived `raw/axios-2026-08-03-white-house-ai-framework.txt`).
@@ -2952,6 +2965,7 @@ thread now fires AI-POLICY(6) on the same text.**
 
 ### THESIS (interpretation — NOT fact)
 - **★★★ A NEW EVIDENCE RUNG, AND IT SITS BELOW EVERY EXISTING ONE: ASSERTED-COMPLETE vs PUBLISHED.**
+  ⟲ SUPERSEDED 2026-08-03 → ai-evaluation-framework.md:L1 — premature -- interpretation of an unpublished document; the dated ledger supersedes the read
   The vault's ladder is LETTER vs BILL · ANNOUNCED vs FID · REPORTED vs MEASURED · ESTABLISHED vs FLOATED.
   **This is weaker than all of them: a completion CLAIM with no artifact, no roster, no start date.**
   **From outside, a deadline met this way is not distinguishable from a deadline missed.** *(Analysis.
@@ -2965,6 +2979,7 @@ thread now fires AI-POLICY(6) on the same text.**
   **UNCLASSIFIED — and withheld anyway.** ⇒ **Non-publication is DISCRETION, not compliance**, and the
   official concedes exactly that (*"just because things are unclassified…"*) — a statement about
   PREFERENCE, not about secrecy law. *(Analysis.)*
+    ⟲ SUPERSEDED 2026-08-03 → ai-evaluation-framework.md:L1 — premature -- interpretation of an unpublished document; the dated ledger supersedes the read
 - **★★★★ THE COMMERCIALLY EXPENSIVE ITEM IS THE THRESHOLD, NOT THE FRAMEWORK. A lab cannot determine EX
   ANTE whether a model it is training will be covered.** If it is, the government **plus unnamed "trusted
   partners"** hold it up to **30 days pre-release**. **That is a CAPITAL-ALLOCATION problem, not a
@@ -2979,6 +2994,7 @@ thread now fires AI-POLICY(6) on the same text.**
   [[metered-compute]] L1602 lists **"mandatory-capabilities-testing proposed by name"** in Anthropic's risk
   stack. **What shipped is VOLUNTARY.** ⇒ **On its face that is good news for the registered risk**, and
   reframing it as bad news without saying so would be the [[_calibration]] "evidentiary drift" failure
+    ⟲ SUPERSEDED 2026-08-03 → ai-evaluation-framework.md:L1 — premature -- interpretation of an unpublished document; the dated ledger supersedes the read
   (8/2). *(Analysis.)*
 - **★★★ BUT "VOLUNTARY" FRAMEWORKS BIND THROUGH PROCUREMENT, NOT STATUTE — AND FOR ANTHROPIC SPECIFICALLY
   THE READ DOES NOT RESOLVE.** The vault holds **a federal procurement ban since February** + a **DoD
@@ -2993,6 +3009,7 @@ thread now fires AI-POLICY(6) on the same text.**
 - **★★ THE OFFICIAL'S DILUTION IS THE STANDARD TELL, WORTH ONLY WHAT IT IS WORTH.** *"Many more industry
   partners than just Anthropic, OpenAI and Google."* **You do not say "more than just X, Y, Z" unless
   X, Y, Z is the accurate baseline. It disputes EXCLUSIVITY while conceding the FACT** — and exclusivity is
+    ⟲ SUPERSEDED 2026-08-03 → ai-evaluation-framework.md:L1 — premature -- interpretation of an unpublished document; the dated ledger supersedes the read
   not what Axios claimed. ⚠️ **Fair reading: it could also be literally true and Axios's framing merely
   incomplete. The concession is the durable part.** *(Analysis.)*
 - **★★★ THE SIDE UNDER-WEIGHTED, and this vault's AI-policy posture has drifted the other way:
