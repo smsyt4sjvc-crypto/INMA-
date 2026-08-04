@@ -218,6 +218,16 @@ THREADS = {
                'ai act','model access','safety institute','nist ai','red team'],
  'KOREA':     ['kospi','kosdaq','circuit breaker','de-gross','degross','leveraged etf',
                'margin call','south korea','limit up','limit-up','daily limit','krx'],
+ # LABOR — gap #5 (2026-08-04): JOLTS returned NO MATCH while Friday payrolls is the Fed
+ # call's PRIMARY registered trigger. The map had no labor thread at all.
+ 'LABOR':     ['payroll','jolts','job openings','unemployment','jobless','nonfarm',
+               'hires','quits rate','layoffs','labor market','labour market','wage growth',
+               'initial claims','continuing claims','adp employment'],
+ # MUNITIONS — gap #6 (2026-08-04): the Erin Banco stockpile leak returned NO MATCH.
+ # WAR/OIL covered tankers and Hormuz, nothing for the ordnance side of the same war.
+ 'MUNITIONS': ['atacms','tomahawk','munition','stockpile','prsm','precision strike',
+               'defense production act','missile inventory','replenish','ordnance',
+               'supplemental appropriation','arms sale'],
 }
 # TWO KEYWORD CLASSES — this distinction is the whole gate and it was WRONG on first build.
 # STRICT: short acronyms where a suffix creates a false positive. \bKWs?\b only.
@@ -249,6 +259,8 @@ ROUTE = {
  'FX/CARRY':  'ai-financing-fragility (yen-carry corners the Fed, L491) / market-fragility / new-economy-regime',
  'AI-POLICY': 'ai-financing-fragility (blacklist timeline, F17 risk stack) / metered-compute (the NVDA letter, the council) / ai-capex-cycle (advisory council) / compression-thesis (two-bloc)',
  'KOREA':     'market-fragility (leverage cascade)',
+ 'LABOR':     'predictions/2026-07-30-fed-hike (the registered Friday trigger) / new-economy-regime',
+ 'MUNITIONS': 'war/war-board (escalation ceiling, the A-vs-C fork) / ai-capex-cycle (defense-AI crowding)',
 }
 
 def tags(text):

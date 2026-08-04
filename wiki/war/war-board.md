@@ -1183,3 +1183,73 @@ tonnage on both fronts."**
   assessments as assessments.** *(Analysis.)*
 
 **Links:** [[demand-destruction]] · [[oil-value-chain]] · [[compression-thesis]] · [[portfolio-state]]
+
+## 2026-08-04 ~10:45am PDT — ★★★ THE MUNITIONS LEAK: "virtually all" precision strike missiles expended — content likely REAL, release almost certainly SIGNALING, audience WASHINGTON
+
+Source: **@ErinBanco (Reuters national-security correspondent), tweet ~4:40am PDT 2026-08-04** ("6h" at
+~10:41am paste; 2.8M views). *"EXCLUSIVE: The U.S. has used 'virtually all' of its precision strike missiles
+during the war in Iran. Stockpiles on ATACMs and Precision Strike Missiles are almost depleted. And we have
+used about half of our Tomahawks, per new data circulating inside the admin."*
+**FIRST-USE:** ATACMS = Army Tactical Missile System; PrSM = Precision Strike Missile (its successor);
+DPA = Defense Production Act.
+⛔ **ROUTER: NO THREAD MATCHED — the WAR/OIL keyword map had NOTHING for munitions/stockpiles. Gap #6,
+patched this commit** (`atacms/tomahawk/munition/stockpile/prsm/missile defense` etc.).
+
+### DATA (as-posted)
+- The tweet text above, verbatim. **"Per new data circulating inside the admin" = a DOCUMENT leak, not a
+  source characterisation.** The underlying Reuters article NOT read — artifact is the tweet.
+- ⚠️ **Inventory context (RECALLED, not pulled):** ATACMS ~few thousand ever built, drawn down for years by
+  Ukraine transfers pre-war; PrSM in low-rate initial production; Tomahawk inventory ~4,000 class.
+  **"Almost depleted" requires NO exaggeration for the two shallow-magazine systems.**
+- War duration at leak: ~5.2 months (Operation Epic Fury 2026-02-28).
+
+### THESIS (interpretation — NOT fact)
+- **★★★ JAKE'S BINARY ("signaling, or real?") IS FALSE — CONTENT AND RELEASE ARE SEPARATE QUESTIONS.**
+  A leak can be accurate AND placed. **Content: LIKELY REAL** (the depleted systems are exactly the ones that
+  were shallow going in; observed strike tempo supports ~half of Tomahawks). **Release: ALMOST CERTAINLY
+  SIGNALING**, and the tell is the INFORMATION ASYMMETRY: **Iran can count launches — air-defence radars
+  exist; the marginal information to Tehran is small. The marginal information to CONGRESS is enormous.
+  You don't leak to tell the enemy what it already knows.** *(Analysis.)*
+- **★★★ WHAT THE LEAK DOES DOMESTICALLY: IT DISARMS THE HAWK CASE FOR RESUMING STRIKES.** "Resume the
+  attacks" stops being an argument about will and becomes arithmetic. **Cheapest possible cover for a deal.**
+  **Three candidate leakers, different intents, identical content:** (1) deal faction — *we're not choosing
+  to stop, we're out*; (2) budget faction — a supplemental writes itself ([[ai-capex-cycle]] 8/3: [Machinery]
+  *"defense is at an all-time high"*); (3) **anti-Trump faction — the leak reframes the 8/1 cancellation as
+  FORCED, not magnanimous.** **⚠️ (1) and (3) are opposites in intent and indistinguishable in content.
+  NOT resolved.** *(Analysis.)*
+- **⚠️⚠️ OPENS A RIVAL TO A REGISTERED CONCLUSION — flagged, not superseded.** L860 resolved the 8/1
+  cancellation fork **to hypothesis A** (*"he wanted the WORDS — oil suppression"*). **This supplies a
+  MECHANISM C the fork never listed: the attack was cancelled because the magazine was empty.** **A and C
+  predict the SAME 8/1 behaviour** (partial response taken, victory declared). **They differ in what happens
+  NEXT: A ⇒ strikes can resume if oil spikes; C ⇒ they cannot at scale, regardless.**
+  **DISCRIMINATOR: does US kinetic activity (mine-laying strikes, escort engagements) continue, or taper on
+  its own?** *(Analysis. A's evidence is now consistent with C — no longer uniquely supported.)*
+- **★★★ F18 UPDATE — THE BIGGEST ONE, AND IT FAVOURS THE TOLL.** The 8/4 Press TV corridor account has Iran
+  holding sovereign authority over INBOUND traffic. **A US that cannot sustain precision strikes cannot
+  CONTEST an administered strait — the corridor becomes durable BY DEFAULT.** The vault's standing *"a toll
+  is far more durable than a blockade"* (L1048) gains a mechanical enforcement argument: **the party that
+  would break the toll is short the ammunition to do it.** *(Analysis.)*
+- **★★ THE ESCALATION LADDER NOW HAS A HARD CEILING.** The 7/31 re-frame put escalation "a rung above
+  maxed." **A depleted precision magazine caps the US side MECHANICALLY** — scenarios assuming sustained US
+  precision campaigns (the Abqaiq-response branch) re-weight DOWN. *(Analysis.)*
+- **★★★ THE DEFENSE-AI CROWDING THREAD GETS ITS FORCING FUNCTION.** [[ai-capex-cycle]] 8/3:
+  [Transportation Equipment] *"competing for scarce supply — electronics, certain critical minerals…
+  EXPECTED TO GET WORSE."* **Replenishing thousands of precision missiles is a multi-year bid for exactly
+  the PCBs, chips and rare-earths the AI buildout bids for — at DPA priority** ([[demand-destruction]] L3327
+  precedent). ⇒ feeds the bare-board cost-push ⇒ the Fed's core-goods problem. **Hawkish at the margin,
+  slow-burning.** *(Analysis. State, not trigger.)*
+
+### 📌 DISCRIMINATING TESTS (dated where possible)
+| observation | reads as |
+|---|---|
+| Admin DENIES/disputes numbers, leak-hunt noised | involuntary — faction (3) |
+| Silence, officials echo "capacity to sustain" | sanctioned — faction (1) |
+| Supplemental appropriation request ~2-3 weeks | faction (2), content real |
+| DPA invoked for munitions production | content real, urgency real |
+| LMT/RTX guidance or order announcements | the money confirming it |
+**⭐ NO DENIAL BY WEDNESDAY 8/5 IS ITSELF INFORMATIVE — a false claim this damaging gets denied in hours.**
+
+**Links:** [[demand-destruction]] · [[ai-capex-cycle]] · [[market-fragility]] · [[../ai-financing-fragility]]
+
+### Sources
+- @ErinBanco tweet (screenshot) — Jake paste 2026-08-04 ~10:41am PDT; tweet ~4:40am PDT
