@@ -2892,6 +2892,7 @@ cement-PPI axis — nine-plus instances now.)*
   portfolios; they were duration BUYERS. Issuing to fund capex is a DOUBLE SWING — lose a large buyer, gain a
   large issuer, same market.** **The numbers were already on file and never pointed at the long end:**
   **MSFT $196.6B→$329.1B in ONE quarter (+$132.5B = 40%)** · **the "$2.5T IOU"** · **$170B of datacenter cost
+    ⟲ SUPERSEDED 2026-08-04 → ai-financing-fragility.md:L3121 — the do-not-add rule retires summed off-balance-sheet totals; the unit of account is the chain
   in a quarter** · **AMZN FCF −$26B and META FCF cratering — the saver→borrower flip printed in the cash flow
   statements** · **"hyperscaler capex binge is issuing near junk."** ⚠️ **Leases/commitments ≠ bond issuance;
   direction and scale hold, the identity does not.** *(Analysis. Same facts, second channel.)*
@@ -3044,3 +3045,127 @@ meeting, whose output is likely also unpublished. **It shades odds on F17; it ti
 ### Sources
 - Axios, Maria Curi, *"White House finalizes AI framework behind closed doors"*, 2026-08-03 —
   `raw/axios-2026-08-03-white-house-ai-framework.txt` (Jake paste ~9:15am PDT)
+
+## 2026-08-04 ~12:10pm PDT — ★★★★ THE FIELD REPORT: SA's filed book was 62% PUTS — the "levered AI long" frame dies on the 13F, and the vault's wrapper-cancellation finding is the leading candidate for what killed it
+
+Source: **"Private Capital Field Report" (.docx, ~8,200 words, 50-source register), Jake upload 2026-08-04**
+— archived `raw/ai-private-capital-field-report-2026-08-04.docx` + extracted text. **Follows the 8/2 handoff
+ruleset (FILED/ANNOUNCED/REPORTED/DERIVED, do-not-add warnings, baselines named).** Read in full per Jake:
+*"Read every word."*
+**FIRST-USE:** BDC = business development company; DDTL = delayed-draw term loan; RPO = remaining
+performance obligations; TPU = tensor processing unit.
+
+### DATA (from the report; provenance labels are the report's)
+**SITUATIONAL AWARENESS 13F (FILED, Mar 31 2026, filed 5/18; S5/S6):**
+- **Reported table $13.677B: PUTS $8.459B = 61.85% · common $3.856B = 28.19% · calls $1.362B = 9.96%.**
+- **Puts:** SMH $2,043M · NVDA $1,568M · ORCL $1,073M · AVGO $1,006M · AMD $969M · MU $584M · TSM $535M ·
+  INTC $159M · GLW $21M · Infosys $7M.
+- **Longs:** Bloom $879M · SanDisk $724M · CoreWeave $556M · IREN $401M · Core Scientific $389M ·
+  APLD $320M · Riot $142M · CleanSpark $105M (+ tail).
+- **Calls:** MU $422M · SanDisk $389M · TSM $355M · CRWV $141M.
+- ⚠️ 13F option "value" = value of the UNDERLYING, not premium paid. No shorts/swaps/financing visible.
+  Press AUM ~$20B vs $13.677B table — unreconcilable. **The 67% July loss is REPORTED, not filed.**
+**PRIVATE-CREDIT GATES (FILED tender documents; S31-S35, S45-S46):**
+- **Q2 industry: $15.6B requested / $5.9B paid / $9.7B unmet = 37.8% payout; +12.2% vs Q1's $13.9B.**
+- **OTIC: 38.1% of shares tendered; 5% honored (~13% of tenders). $1.3B liquidity, 0.78x net debt/equity.**
+- OCIC ~18.8% requested; **BCRED headline mark 96.1 with the bottom 5% marked 68.3**; ADS 16.8% requested,
+  offshore 12.5% vs onshore 4.3%.
+- **Blue Owl: direct lending → 35% of assets (from ~50%); real assets $12B (2021) → $89.4B (Jun 2026);
+  holds 80% of Meta's Hyperion through managed funds.**
+**THE CAPITAL CHAINS (FILED unless noted):**
+- **Meta:** $278.99B uncommenced leases (Jun 30) + **$68B signed in July** (18-20yr terms) + $349.31B
+  noncancelable commitments + $84B notes + $89.4B future interest. **Hyperion: Blue Owl 80/Meta 20,
+  ~$27B, 4-year initial lease, Meta residual guarantee for FIRST 16 YEARS. El Paso: ~$14B, $12.5B debt,
+  ~$13B declining residual guarantee, 4-year initial + options to 20.**
+- **Alphabet:** $811.0B purchase/contractual obligations ($707B energy/service subset — DO NOT ADD) ·
+  $7.6B guarantees · **$43.785B credit-derivative/backstop notional** · **$24.1B est. future backstops,
+  agreement NOT FINALIZED at filing** · **$20.0B contingent private-company capital commitment through
+  2030 (counterparty unnamed in filing).**
+- **Anthropic chain (S12 = FT 2026-08-04, TODAY: "Inside Google's $200bn Wall Street finance machine"):**
+  $35B initial TPU SPV (Apollo/Blackstone/banks; ~1GW / ~1M TPUs) · **Broadcom $128B purchase commitments
+  for 3.5GW + ~$30B senior-tranche residual support** · **Google max reported exposure ~$44B vs ~$815M
+  identified on balance sheet** · TeraWulf/Cipher/Hut 8 site SPVs ~$15B across ~2.4GW.
+- **Amazon:** $569.28B total contractual commitments (Mar 31) · OpenAI $35B letter ($15B funded) ·
+  **Q2 net income $62.65B incl. $53.4B pretax private-mark gain, "largely Anthropic"** (confirms the
+  vault's ~2/3-of-net-income figure) · 2026 capex $220B (raised from $200B).
+- **Oracle:** FY26 capex $55.66B vs CFO $31.98B ⇒ **FCF −$23.69B** · $42.7B notes + $5B preferred ·
+  ~$40B FY27 planned · RPO $638B · reported OpenAI contract $300B/5yr (REPORTED).
+- **Microsoft:** $196.6B uncommenced **at MAR 31** · finance leases $62.9B (from $46.2B in 12mo) ·
+  $190B calendar-2026 capex incl. **~$25B component-pricing impact.**
+- **CoreWeave:** $11.2B debt · DDTLs to ~$12.5B more · **Anthropic-linked $2.6B loan repriced to ~9.1%
+  after investor pushback, with revenue lockbox** (FT) · 3-5yr contracts vs ~15yr site obligations.
+- **xAI (REPORTED):** $20B GPU SPV — $12.5B debt (Apollo/Diameter) + $7.5B equity (Valor) + NVDA up to
+  $2B equity; 5-year GPU rental.
+**RESTRUCTURINGS:** Medallia ($6.4B 2021 take-private) → Blackstone-led creditors take ownership, $150M
+new money; **Proofpoint ~$5B refi at ~9.3% vs ~3% prior**; Affordable Care ~$1.4B loan marked ~69.8.
+**JEFFERIES/POINT BONITA (FILED):** $715M First Brands receivables **possibly fabricated or
+double-pledged, marked to ZERO**; ~$3.0B portfolio; Jefferies pretax loss $30M; Western Alliance $126M
+claim, nonrecourse.
+**AIRTABLE:** identical to the vault's 8/4 morning arithmetic — equity −80.83%, EV vs pre-money −88.32%,
+equity/raised 1.65x, EV/ARR 2.68x. New: **Bending Spoons pre-deal debt $4.4B; Q1 rev $601M, NI $27.5M.**
+
+### THESIS (interpretation — NOT fact)
+- **★★★★ THE HEADLINE FINDING: SA WAS A DISPERSION BOOK, NOT AN AI LONG — short mega-cap semis via puts,
+  long the high-beta periphery.** July hit BOTH legs: **the longs are yesterday's scanner wreckage verbatim
+  (SanDisk −47%, IREN/APLD/Core Scientific −30% cohort)** while the put targets rallied into month-end.
+  ⇒ **The vault's 8/1 wrapper-cancellation finding is the natural mechanism: an index put does not pay when
+  winners hold the wrapper up — while the periphery you are long collapses underneath it. SA died of the
+  DISPERSION, not the direction.** ⚠️ **HYPOTHESIS with two named holes: the 13F is three months stale and
+  SMH's July path is still unpulled.** *(Analysis.)*
+- **★★★ AND IT MAKES "ARCHEGOS 2.0" PRECISELY WRONG ON THE FILED EVIDENCE.** Archegos was concentrated
+  UNHEDGED longs via swaps. **SA's visible book was 62% puts — a hedged structure whose hedge failed.**
+  Different disease. *(Analysis. Third independent strike on the ZH lineage claim.)*
+- **★★★ THE 8/3 NEOCLOUD RIP REFRAMES: CRWV +20.3 / IREN +8.3 / CORZ +10.7 / APLD +8.7 — EVERY ONE A
+  FORMER SA LONG, days after the forced seller finished (Citadel 7/30).** **A post-liquidation bounce is
+  the signature of a COMPLETED liquidation — the opposite of "more cockroaches coming."** Upgrades the 8/3
+  falsification. *(Analysis. Descriptive.)*
+- **★★★ F1 AMENDED: the ARCHITECTURE is confirmed and itemized; the SINGLE SUMMED NUMBER is retired.**
+  ⟲ SUPERSEDES ai-financing-fragility.md:L2894 — the do-not-add rule retires summed off-balance-sheet totals; the unit of account is the chain
+  The report's measurement rule — *"overlapping categories are not added"* — kills any "$2.5T
+  off-balance-sheet" style figure: a lease can back SPV debt while the cloud contract is the lessee's
+  revenue; summing counts one obligation three times. **The unit of account is the CHAIN, not the total.**
+  *(Analysis. ⟲ amendment below.)*
+- **⛔ AND THE REPORT IS ONE FILING STALE ON MICROSOFT — THE VAULT'S NUMBER IS BETTER.** Its flagship table
+  carries **$196.6B (Mar 31 10-Q)**; `ai-financing-fragility.md:L1777` has **$329.1B AS OF JUNE 30** from
+  the FY2026 10-K — **+$132.5B (+67%) in one quarter**, which is the 8/2 handoff's "40% created in one
+  quarter." The report's own forward checklist lists the 10-K as next data. **Cross-document
+  reconciliation: both correct, different dates; the JUNE number governs.** *(Analysis.)*
+- **★★★ THE DOCUMENTED STRESS LOCUS IS THE GATES, NOT THE DEALERS.** $15.6B/$5.9B/37.8%, requests
+  +12.2% QoQ, **OTIC at 38.1% of shares in ONE quarter.** BCRED's dispersion (96.1 headline / bottom-5%
+  at 68.3) matters more than NAV. ⚠️ **Discipline: 5% gates functioning as designed are a contractual
+  feature, not default — the signal is PERSISTENT oversubscription, and Q3 tenders are the resolver.**
+  **⇒ F8's DEALER LEG STAYS OPEN — nothing in 8,200 words shows a dealer loss.** *(Analysis.)*
+- **★★★ THE BLUE OWL CONFLICT IS THE PRIVATE-SECTOR TWIN OF THIS MORNING'S TREASURY FINDING.** Wealth
+  vehicles owing quarterly liquidity fund 15-30-year infrastructure (80% of Hyperion) — **short-duration
+  liabilities against long-duration assets, the same mismatch as bills-vs-coupons at Treasury.** *(Analysis.)*
+- **★★★ THE ANTHROPIC CHAIN LANDS ON F17 WITH NUMBERS:** a ~$200B reported machine where **Google's ~$44B
+  max exposure shows as ~$815M on balance sheet**; Broadcom carries $128B of purchase commitments plus
+  residual support; **CoreWeave's Anthropic-linked paper already repriced to 9.1% on investor pushback —
+  the first market-price signal INSIDE the chain, and it moved AGAINST the borrower.** The unnamed $20B
+  Alphabet contingent commitment fits Anthropic's shape (⚠️ inference, filing does not name it). *(Analysis.)*
+- **★★ JEFFERIES/FIRST BRANDS IS WHAT A REAL COCKROACH LOOKS LIKE, AND IT IS NOT IN AI: collateral
+  EXISTENCE failure** — receivables possibly fabricated/double-pledged, marked to zero. Valuation resets
+  and liquidity gates are visible risks; **invoices that never existed are the class that produces sudden
+  dealer losses.** *(Analysis. Comparator for F8.)*
+- **★★ MY 8/4 MORNING AIRTABLE ARITHMETIC VALIDATED TO THE DECIMAL** (−80.83% / −88.32% / 1.65x / 2.68x)
+  by a document holding the press release. *(The 1.65x vs my 1.67x: the report uses $1.36B raised vs my
+  $1.35B.)*
+- **★★★ ADOPTED VERBATIM AS THE THREAD'S SURVEILLANCE FRAME** (the report's closing): *"who signs the
+  customer contract; who owns the asset; who issues the debt; who guarantees payment or residual value;
+  who holds the paper; what vehicle promises liquidity; and what happens when the customer contract
+  expires before the asset or lease obligation."* **Better than "which company has the most debt," and
+  better than F1's current framing.**
+
+### 🚩 FORWARD FILINGS (from the report, vault-prioritized)
+**Q3 BDC tender percentages (the gates' resolver) · Alphabet's finalized $24.1B backstop + the $20B
+contingent counterparty · Meta lease commencements + residual-guarantee measurement · MSFT FY2026 10-K
+(already have: $329.1B) · CoreWeave debt maturities/lockboxes · any SA amended 13F · Jefferies Point
+Bonita recoveries.**
+
+**Links:** [[market-fragility]] (SA/Coatue/ZH lineage) · [[compression-thesis]] · [[metered-compute]] ·
+[[ai-capex-cycle]] · [[portfolio-state]]
+
+### Sources
+- `raw/ai-private-capital-field-report-2026-08-04.docx` (+ extracted .txt) — Jake upload 2026-08-04 ~12pm PDT
+- Report's own register S1-S50, incl. FT 2026-08-04 (S12), Meta 10-Q Jun 30 (S10), Alphabet 10-Q (S13),
+  Amazon 10-Q Mar 31 (S16), SA 13F (S5/S6), BDC tender filings (S31-S35, S45-S46)
