@@ -2099,3 +2099,61 @@ Jake's question: *"What does this mean? GS buying shorts?"*
   *(Analysis. See [[portfolio-state]].)*
 
 **Links:** [[ai-financing-fragility]] · [[_calibration]] · [[memory-regime-question]] · [[portfolio-state]]
+
+## 2026-08-03 ~10:30am PDT — 📅 DATED STAMP: COATUE'S HEDGE FUND −8%, "worst drop in more than a year" — **NOT INTERPRETABLE WITHOUT THE BENCHMARK, AND THE BENCHMARK FAILED TWICE**
+
+Source: **headline only, Jake paste (prefixed "#3" — likely one item of a list).**
+⚠️ **ARTIFACT TEST APPLIED** (rule filed [[_calibration]] 2026-08-03 ~10:05am, **first live case**):
+**the artifact I have is a HEADLINE, not a reported number with a period attached.**
+⇒ **This entry is a DATED LEDGER. The THESIS section holds one conditional and no read.**
+
+### DATA (observed)
+- **Verbatim, in full: *"COATUE'S HEDGE FUND SINKS 8% IN WORST DROP IN MORE THAN A YEAR."*** That is the
+  entire artifact.
+- **Paste time: 2026-08-03 ~10:30am PDT** (verified clock).
+
+### ⬜ WHAT IS NOT KNOWN — and item 1 is load-bearing
+1. **⛔ THE BENCHMARK OVER THE SAME WINDOW.** **8% means nothing on its own.** Flat market + Coatue −8% ⇒
+   **the crowded book blew up (idiosyncratic, positioning).** Market −7% + Coatue −8% ⇒ **beta, and the
+   headline is a nothing.** **TWO PULLS FAILED: yfinance (connection reset, SSLError) and stooq (empty).
+   Third and fourth data-source failure this session. NOT GUESSED.**
+2. **The period.** Not stated. **INFERENCE ONLY, flagged as such:** hedge-fund performance is reported
+   monthly in the first days of the following month, and today is 8/3 ⇒ **most likely JULY 2026 monthly.
+   Unconfirmed.**
+3. **Which vehicle.** Coatue runs multiple. **The headline says "HEDGE FUND" — see the thesis note below.**
+4. **The source.** No outlet named. **Not cross-checked; a single unattributed headline.**
+5. **Gross vs net; whether the 8% is a drawdown from a high-water mark or a period return.**
+
+### THESIS (interpretation — NOT fact)
+- **★ THE ONE CLAIM THE HEADLINE SUPPORTS, and it carries its own baseline: *"worst drop in more than a
+  year"* is COATUE vs COATUE'S OWN 12-MONTH HISTORY.** ⇒ **Whatever happened did something to a
+  concentrated tech book that NO month in the prior twelve did — including every drawdown this vault
+  logged in that span.** *(Analysis. This survives without the benchmark; nothing else does.)*
+- **⛔⛔ THIS IS NOT F8, AND I AM STATING IT BEFORE ANYTHING DRIFTS.** **F8 asks for a DEALER WRITEDOWN —
+  a named casualty on the LENDING side of the AI-financing chain.** **Coatue's hedge fund is a HOLDER of
+  public equity risk that marks daily.** **A long book losing 8% is not a lender taking a mark; they are
+  different objects on opposite sides of the same trade.**
+  **★ AND THE HEADLINE MAKES THE DISTINCTION ITSELF: it says "COATUE'S *HEDGE FUND*," not the venture
+  book.** **The vehicle it names is the one whose marks were never in question. Coatue's private AI
+  positions — the ones that would speak to F8 — sit in different vehicles and are not what dropped 8%.**
+  ⇒ **F8 REMAINS OPEN, NINE SESSIONS.** ⚠️ **Nine sessions of an open flag creates pressure to close it
+  with whatever arrives — the same shape as the 8/2 "picked the vault precedent that favoured my
+  position" error.** *(Analysis.)*
+- **⭑ CONDITIONAL, AND ONLY IF THE BENCHMARK COOPERATES: this would be the FIRST P&L CONFIRMATION of a
+  rotation the vault has so far seen ONLY in flows and prices.** L1897 (GS prime record tech selling,
+  7/30) · L1934 (Korea de-gross, 7/31) · L2055 (GS prime record net buying = short covering, 8/2) are all
+  **flow and price**. **A fund drawdown is the first number that says someone LOST MONEY doing it.**
+  ⚠️ **HELD AS CONDITIONAL, NOT FILED AS A CONCLUSION — it requires the July index return, which failed
+  to pull twice.** *(Analysis.)*
+
+### 🚩 RESOLVERS — cheap, in order
+1. **July 2026 return for SPY / QQQ / SMH / ARKK.** Any working source. **Without it this entry cannot
+   be read.** *(→ same blocked-pull class as the SMH 100dma item, open since 8/1.)*
+2. **The reporting outlet and the exact period** — is 8% a July monthly, a YTD, or a peak-to-trough?
+3. **Whether other tech-concentrated funds printed similar July numbers.** **One fund is a fund. Three is
+   a de-gross.**
+
+**Links:** [[compression-thesis]] · [[ai-financing-fragility]] · [[memory-regime-question]] · [[portfolio-state]]
+
+### Sources
+- Headline, unattributed — Jake paste 2026-08-03 ~10:30am PDT ("#3")
