@@ -2221,3 +2221,39 @@ the table's figures to the dollar.** All numbers $M, per the table.
 ### Sources
 - SpaceX Q2 2026 segment table (screenshot) — Jake upload 2026-08-04 ~1:15pm PDT → `raw/`
 - @zerohedge tweets ~1:12-1:20pm PDT (SPCX AI capex confirm · BTC 18,712 · AMD 3Q guide) — Jake paste
+
+### Addendum 2026-08-04 ~2:06pm PDT — STARMIND AI-1: one rack in orbit, announced into the earnings cycle
+
+Source: **unsourced "BREAKING" paste (Jake, ~2:05pm PDT)** — *"SpaceX announces a new partnership with
+Nvidia to design its Starmind AI-1 payload, bringing data center-class compute into orbit… Rubin GPUs and
+Vera CPUs… increasing SpaceX's peak satellite computing capacity to 250 kW."*
+**ANNOUNCED, pre-FID: no dollar figure, no date, operative verb "design." ⚠️ No outlet named — treat as
+REPORTED pending the press release.**
+
+### DATA (as-pasted) + DERIVED
+- **The one number: 250 kW peak satellite computing capacity.** *(Ambiguous per-satellite vs fleet.)*
+- **DERIVED, both baselines named:** as a SATELLITE ≈ 2x the ISS's ~120 kW total power budget *(recalled)*
+  = the most power-dense compute platform flown, with RADIATIVE-ONLY heat rejection as the unmentioned
+  constraint. As a DATA CENTER ≈ **one Rubin-class rack** (GB200 NVL72 ~120-130 kW, recalled) =
+  **0.025% of a 1GW campus.** vs the program: AI capex $15.8B/qtr; the Anthropic SPV bought ~1GW for ~$35B
+  ⇒ **a rounding error in the capex program at any plausible $/W.**
+
+### THESIS (interpretation — NOT fact)
+- **★★ "DATA CENTER-CLASS" IS THE PHRASE DOING THE WORK** — literally true (Rubin is DC hardware),
+  and it borrows the data-centre frame to size a satellite number. **Impressive spacecraft; negligible
+  data centre; both at once.** *(Analysis. The named-baseline rule applied BEFORE filing, for once.)*
+- **★★★ THE STRATEGIC READ IS THE VAULT'S OWN POWER-BOTTLENECK THREAD** (L15: *"power/grid is the physical
+  bottleneck"*; NIMBY in 28 states; the ousted Missouri council; Hammack/Kashkari on data-centre
+  inflation): **orbit is the one venue with no grid queue, no neighbours, no council, 24/7 solar.**
+  ⇒ **This is an OPTION on the constraint worsening, not capacity** — evidence the thesis is taken
+  seriously, not evidence it works (cooling physics and launch-mass economics unpriced). *(Analysis.)*
+- **★★ THIRD NODE IN THE NVDA-SPACEX RELATIONSHIP:** the field report has NVDA ≤$2B equity in the $20B
+  xAI GPU SPV (*"vendor potentially finances demand for its own chips"*); now NVDA co-designs the orbital
+  payload. **🚩 WATCH: does NVDA INVEST in Starmind or just SELL to it?** A second vendor-financing
+  instance in the same family would make the pattern structural. *(Analysis.)*
+- **★ TIMING IS ITS OWN DATAPOINT:** dollar-free and future-facing, released within hours of disclosing
+  $15.8B/qtr AI capex and a −$14.8B/qtr FCF proxy, the same afternoon AMD fell 10% "for capex."
+  **Announcements are free and timed; this one cost nothing and was timed well.** *(Observation, not
+  accusation.)*
+
+**Links:** [[power-not-petroleum]] · [[buildout-bottleneck-map]] · [[ai-financing-fragility]] · [[cepi]]
