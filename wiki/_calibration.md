@@ -1192,3 +1192,23 @@ know enough about it yet to know what it even is."***
   ⟲ superseded to it. **Per rule 4 the premature analysis stays visible.**
 
 **Links:** [[ai-evaluation-framework]] · [[ai-financing-fragility]] · [[../CLAUDE.md]]
+
+## 2026-08-04 ~11:05am PDT — ⛔ ASYMMETRIC SOURCE GRADING, SECOND INSTANCE IN TWO DAYS — and the fix is a rule with a cell in it
+
+**Jake: *"To be fair, her account is clearly anti-Trump & liberal skewed"* (the Banco munitions leak).**
+**He is right that I graded asymmetrically: Press TV got granular treatment the same morning (weakest rung
+for the deal terms / PRIMARY for Iran's position) while Banco got a pass on "a real Reuters national
+security correspondent."** Same shape as 8/3 (skeptical of the White House claim, credulous of Axios's
+paraphrase). **Two instances, two days.**
+
+- **⇒ RULE: the source-class split applies to EVERY source, not only the ones that look partisan.
+  For any reporter/outlet: WHAT IS THE NUMBER vs WHAT IS THE CHARACTERISATION. Numbers survive slanted
+  channels (fabrication is career-ending at a wire); ADVERBS are where slant lives. Grade them separately.**
+- **⇒ AND THE TABLE RULE: any registered discriminating test with "deny vs silence" MUST carry the third
+  cell — NON-SPECIFIC PUSHBACK — because it is the most common real outcome and it is INFORMATIVE
+  (capability answers to inventory questions ⇒ consistent with content-real).** The munitions table
+  shipped without it and the missing cell is the one that fired.
+- **★ AND THE INVERSION IS WORTH KEEPING: a perceived-hostile source makes a specific denial CHEAPER and
+  its absence LOUDER.** Bias, once named, sharpens the test instead of dulling the story.
+
+**Links:** [[war/war-board]] (2026-08-04 addendum) · [[_persona]]

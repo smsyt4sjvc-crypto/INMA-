@@ -1253,3 +1253,50 @@ patched this commit** (`atacms/tomahawk/munition/stockpile/prsm/missile defense`
 
 ### Sources
 - @ErinBanco tweet (screenshot) — Jake paste 2026-08-04 ~10:41am PDT; tweet ~4:40am PDT
+
+### Addendum 2026-08-04 ~11:05am PDT — ⭐ THE DENIAL TEST FIRED INSIDE 24 HOURS, and it returned the cell my table did not have
+
+Trigger: **Jake — *"To be fair, her account is clearly anti-Trump & liberal skewed."*** Fair, twice over:
+⛔ **I graded Press TV granularly this morning (weakest rung for terms / primary for position) and gave
+Banco a PASS on institutional affiliation alone — the same asymmetry as the 8/3 EO error: careful with the
+source I distrust, credulous with the one I don't.** → also logged to [[_calibration]].
+
+### DATA (web search 2026-08-04 ~11:00am PDT)
+- **The story is a Reuters WIRE EXCLUSIVE citing plural "sources"** — syndicated via CNBC, Navy Times,
+  Yahoo, ynet, HuffPost. **Syndication rule: ONE origin.**
+- **★ SECOND ORIGIN: Washington Post, own sourcing** — *"US uses hundreds of Tomahawk missiles on Iran,
+  ALARMING SOME AT PENTAGON."*
+- **Pentagon (chief spokesperson Sean Parnell):** *"America's military is the most powerful in the world and
+  has everything it needs to execute at the time and place of the President's choosing… a deep arsenal of
+  capabilities to protect our people and our interests."*
+- **White House / Trump:** *"far more munitions than anyone in the world… far more than we need"* — and:
+  ***"Our defense companies are, at this moment, making more munitions than they have ever made before."***
+- Reuters body (per syndication): internal admin discussions of **how much longer strikes can continue
+  without drawing stockpiles below the level needed for other crises.**
+
+### THESIS (interpretation — NOT fact)
+- **⛔ MY DISCRIMINATING TABLE WAS A BINARY (deny vs silence) AND REALITY RETURNED THE THIRD VALUE:
+  NON-SPECIFIC PUSHBACK.** The non-denial denial is the most common real-world outcome and I left the cell
+  out. **Registered now: a false NUMERICAL claim gets a NUMERICAL denial. Both responses answer an
+  INVENTORY question with CAPABILITY claims. Neither disputes a single number.** ⇒ **Consistent with
+  content-REAL.** *(Analysis.)*
+- **★★★ TRUMP'S PRODUCTION LINE CORROBORATES THE STORY IT REBUTS.** *"Making more munitions than they have
+  ever made before"* is the REPLENISHMENT leg, from the principal, on the record. **You do not surge
+  production of what you have "far more than we need."** ⇒ strengthens the defense-AI crowding join.
+  *(Analysis.)*
+- **★★ THE INVERSION — JAKE'S BIAS POINT MAKES THE TEST STRONGER.** Against a reporter perceived as
+  hostile, *"fake numbers from a known anti-Trump account"* was the CHEAPEST, most politically satisfying
+  rebuttal available — this administration attacks unfavourable reporting by name routinely. **They had the
+  play and did not run it.** Non-specific reassurance where specific debunking was free is LOUDER given the
+  skew, not quieter. *(Analysis.)*
+- **★ WHERE THE BIAS POINT KEEPS FORCE:** skew lives in the ADVERBS, not the numbers — *"about half"* is a
+  figure; *"virtually all" / "almost depleted"* are characterisations, exactly where a motivated channel
+  shades. **Hold the number harder than the adverbs.** And leaker-outlet matching modestly upweights
+  faction (3) — though WaPo's *"alarming some at Pentagon"* reads as genuine internal concern, blurring it.
+  *(Analysis.)*
+- **⇒ NET: content "likely real" → "likely real, with a second origin and a non-denial." FIRMER.**
+  Signaling read stands. A-vs-C discriminator unchanged (does kinetic activity taper on its own).
+
+### Sources
+- Web search 2026-08-04 ~11:00am PDT: cnbc.com/2026/08/04 · navytimes.com/2026/08/04 · WaPo via aol.com ·
+  yahoo.com (Reuters wire) · ynetnews.com · huffpost.com
