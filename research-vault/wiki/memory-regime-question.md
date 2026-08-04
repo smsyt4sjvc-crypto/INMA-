@@ -507,3 +507,25 @@ composition finding live in [[ai-capex-cycle]] (2026-08-03). **This note carries
 
 ### Sources
 - ISM Manufacturing July 2026 respondent comments (verbatim) — Jake paste 2026-08-03 ~8:15am PDT
+
+## 2026-08-04 ~1:55pm PDT — 🚩 F3: "WORLD'S LARGEST PC MAKERS START **USING** CXMT" — a full rung above "Apple tests," and the walled-out branch is nearly dead
+
+Source: ZH headline block (Jake paste ~1:55pm). Companion: *"CXMT is already bigger than Intel and more
+than half the size of Samsung Electronics and SK Hynix. When will it overtake them to become the largest
+memory stock?"*
+
+### DATA (as-headlined — bodies not read)
+- **"World's Largest PC Makers Start Using Memory Chips From China's CXMT"** — USING, not testing.
+- CXMT market value **> Intel**; **> half of Samsung / SK hynix** (per the companion headline).
+
+### THESIS (interpretation — NOT fact)
+- **★★★ THE EVIDENCE LADDER MOVED A RUNG: 8/3 "Apple TESTS" → 8/4 "PC makers USING."** Lenovo/HP/Dell-class
+  commercial adoption is the demand-side BILL to yesterday's LETTER. **F3's walled-out branch is nearly
+  dead; the surviving read is GLUT-WITH-BIFURCATION** — commodity DRAM glutting (CXMT) while the high end
+  stays short (the 8/3 MacBook-shortage headline), the split that reconciles both headlines. *(Analysis.)*
+- **⚠️ THE PRICE DISAGREES SO FAR:** MU +7.9% on 8/4; the market is not yet trading CXMT as a MU-killer.
+  A 466% IPO pop on a Chinese exchange remains a policy verdict as much as a market one. **F3 stays OPEN —
+  the resolver is now a PRICE print (DRAM contract pricing / MU guidance), not another adoption headline.**
+  *(Analysis.)*
+
+**Links:** [[compression-thesis]] · [[ai-capex-cycle]] · [[market-fragility]]
