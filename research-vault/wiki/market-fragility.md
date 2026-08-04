@@ -2157,3 +2157,60 @@ Source: **headline only, Jake paste (prefixed "#3" — likely one item of a list
 
 ### Sources
 - Headline, unattributed — Jake paste 2026-08-03 ~10:30am PDT ("#3")
+
+### Addendum 2026-08-03 ~7:05pm PDT — ⛔ THE COATUE SOURCE IS A ZEROHEDGE TWEET, AND IT RESTATES A CALL THIS VAULT ALREADY TESTED AND FAILED
+
+Source: **@zerohedge, ~4pm PDT 2026-08-03** — `raw/zerohedge-2026-08-03-coatue-trs-cockroaches.jpeg` (Jake).
+**FIRST-USE:** TRS = total return swap; SA = Situational Awareness LP.
+
+### DATA (as-posted, verbatim)
+- **"#3"** — **ZH's OWN numbering, not Jake's.** ⇒ **#1 and #2 EXIST AND ARE UNSEEN.** *(Registered as an ask.)*
+- ***"*COATUE'S HEDGE FUND SINKS 8% IN WORST DROP IN MORE THAN A YEAR"*** — still no period, no outlet, no
+  attribution. **The headline is unchanged from the 10:30am stamp above.**
+- ***"Plenty more TRS cockroaches to come"*** — **ZH editorial. No source, no reporting.**
+- Quote-tweeting **ZH's own post from 4 days prior**: ***"Archegos 2.0 it was."*** +
+  ***"*SITUATIONAL AWARENESS ASSETS SAID TO FALL TO $10 BILLION…"*** **("said to" = unattributed.)**
+- Engagement: 25 replies / 24 reposts / 380 likes / 223K views.
+
+### THESIS (interpretation — NOT fact)
+- **⛔⛔ MY CARRIED DESCRIPTION OF F8 WAS STALE AND I ARGUED FROM IT THIS MORNING.** The chat log has read
+  *"F8 open nine sessions — no named casualty, no dealer writedown"* for days. **WRONG:
+  [[ai-financing-fragility]] L2008 — *"2026-07-30 ~9:20am ET — F8 FIRES: THE NAMED CASUALTY IS SITUATIONAL
+  AWARENESS LP."*** **L2697 states the actual open half: *"no dealer loss disclosed."***
+  ⇒ **The 10:30am "this is NOT F8" call was RIGHT, and right for the vault's own reason — but derived from
+  a definition I had let rot in the log while the wiki moved on. STEP ZERO-B failure aimed at the LOG.**
+- **⛔ AND MY PHRASING WAS SLOPPY IN A WAY THAT MATTERS.** I wrote that a hedge fund and a dealer are
+  *"opposite sides of the same trade."* **IN A TRS THEY ARE NOT: the dealer holds the security on its own
+  balance sheet and the fund posts margin.** ⇒ **That IS the channel by which a fund drawdown becomes a
+  dealer writedown — it is what cost Credit Suisse $5.5B and Nomura $2.9B in 2021.** **ZH's TRS framing
+  names a real mechanism and my sentence understated it.** *(Conceded. The conclusion still stands, below.)*
+- **★★★ BUT THE REGISTERED TEST IS UNFIRED, AND THIS VAULT RAN THIS EXACT ARGUMENT ON 7/30.**
+  [[ai-financing-fragility]] L1964: *"'ARCHEGOS 2.0' (Jake): the supporting document is a 5-day-old TAUNT
+  with no evidence in it, and my own T1 tooling returns a systematic negative."* **L1981 registered the
+  test: *"a fund failing with dealer TRS exposure is T1 wire news within hours; it would also be in the
+  dealers' share prices."*** ⇒ **The 8/3 scanner ran 135 hits with the financial-wire tier FIRST and
+  returned ZERO dealer items.** *(Analysis.)*
+- **★★★★ AND THERE IS A SAME-DAY FALSIFICATION IN THE PRICE TAPE, WHICH IS THE STRONGEST COUNTER AVAILABLE.**
+  *"Plenty more TRS cockroaches to come"* predicts **forced liquidation in the most levered corner of the AI
+  complex.** **On the same session: CRWV +20.32% · NBIS +13.83% · CORZ +10.68% · APLD +8.74% · IREN +8.25% ·
+  WULF +6.44%.** **The highest-beta, most-shorted, most-levered names in the trade had their best day in
+  weeks WHILE THE POST WAS UP. Cascades do not look like that.** *(Analysis.)*
+- **★★★ "ARCHEGOS 2.0 IT WAS" IS ZH GRADING ITS OWN HOMEWORK — ON AN EVENT THAT RESOLVED THE OTHER WAY.**
+  L2111: *"a bilateral block sale is the OPPOSITE of a forced liquidation, and it kills the cascade
+  thesis."* L2688: *"SA did NOT [default]: Citadel bought the book BILATERALLY, off-tape, at clearing
+  prices."* ⇒ **ARCHEGOS DEFAULTED. SITUATIONAL AWARENESS SOLD. That distinction is the entire question and
+  the vault settled it 7/30.** **A vindication claim on a call whose named event settled against it.**
+  *(Analysis. And the vault already scored ZH's base rate on this specific call — L1972.)*
+- **★★ "$10 BILLION" IS CONSISTENT WITH THE VAULT'S OWN VERSION AND IS NOT A BLOWUP.** L2194: SA
+  *"EXITED ALL of its public equity trades,"* **~$16B sold to Citadel.** **A fund that liquidated a ~$16B
+  public book and retains privates and cash falling to $10B is a SHRINK, not a failure.** *(Analysis.)*
+- **⭑ WHAT THE POST SUPPLIES THAT IS GENUINELY NEW: NOTHING REPORTED.** It asserts a TRS linkage to Coatue
+  **with no source**; Coatue's leverage structure is unstated; **no dealer has disclosed anything.**
+  ⇒ **F8's dealer leg REMAINS OPEN. Do not close it, and do not fire it, on this.** *(Analysis.)*
+
+### 🚩 THE ASK
+**"#3" IS ZH'S NUMBERING ⇒ GET #1 AND #2.** **If they name a SECOND or THIRD distinct fund, that is a
+PATTERN and the dealer test becomes materially more interesting. If they restate the SAME fund, it is one
+event wearing three numbers** — the syndication tell (*"N outlets, one origin"*) already in the handoff rules.
+
+**Links:** [[ai-financing-fragility]] (F8) · [[compression-thesis]] · [[portfolio-state]]
