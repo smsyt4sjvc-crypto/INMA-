@@ -2150,3 +2150,74 @@ instrument would EXIST.** *(Analysis. A refinement, not a rescue — the origina
   unregulated parties hold the agenda-setting one.** *(Analysis.)*
 
 **Links:** [[ai-financing-fragility]] · [[metered-compute]]
+
+## 2026-08-04 ~1:20pm PDT — ★★★★ SPACEX Q2: AI CAPEX $15.8B/QTR AGAINST $2.6B OF AI REVENUE — the cleanest CEPI specimen the vault has, and it out-strains Oracle at double speed
+
+Source: **SpaceX Q2 2026 "Second Quarter Financial Highlights" segment table (screenshot, Jake upload
+~1:15pm PDT)** — archived `raw/spacex-q2-2026-segment-highlights.png`. **Identity was INFERRED from the
+segment structure + the 8/3 scanner (Cathie Wood $26M "days before earnings"; "Meta a better bet than
+SpaceX") and CONFIRMED within the hour by @zerohedge: *"SPCX AI CapEx Q2 $15.828BN, up from 749MM YoY"* —
+the table's figures to the dollar.** All numbers $M, per the table.
+**FIRST-USE:** D&A = depreciation and amortization; AH = after hours.
+
+### DATA (as read from the table; ZH-confirmed on the AI capex line)
+| segment (Q2'26 / Q1'26 / Q2'25) | revenue | op income | adj EBITDA | capex |
+|---|---|---|---|---|
+| **Space** | 962 / 619 / 746 | −542 / −662 / −369 | −205 / −351 / −93 | 1,174 / 1,052 / 946 |
+| **Connectivity** | 4,291 / 3,257 / 2,588 | **+1,656** / +1,188 / +923 | **+2,597** / +2,087 / +1,583 | 1,367 / 1,332 / 1,130 |
+| **AI** | **2,561** / 818 / 737 | **−1,257** / −2,469 / −1,524 | **+1,146** / −609 / −276 | **15,828** / 7,723 / **749** |
+| **Total** | 7,814 / 4,694 / 4,071 | −143 / −1,943 / −970 | 3,538 / 1,127 / 1,214 | **18,369** / 10,107 / 2,825 |
+- 6-month: revenue 12,508 vs 8,138 · EBITDA 4,665 vs 2,944 · **capex 28,476 vs 6,965** · Space 6-mo revenue
+  **DOWN** (1,581 vs 1,611) with the 6-mo op loss tripled (−1,204 vs −439).
+- **@zerohedge (~1:15pm): "SPACEX HELD 18,712 UNITS OF BITCOIN AS OF JUNE 30."** *(Not priced here — no
+  verified BTC quote in session; an asset that is liquidity only if sold.)*
+
+### DERIVED (arithmetic on the table)
+- **AI capex / AI revenue = 6.18x. AI capex / AI EBITDA = 13.8x.** AI capex **21x YoY**, 2.05x QoQ.
+- AI revenue **+213% QoQ / +247% YoY**; EBITDA margin 44.7%; **D&A-etc wedge (EBITDA − op inc) =
+  $2,403M/qtr, and the H1 $23.55B of capex has barely begun depreciating.**
+- Connectivity: +66% YoY, **60.5% EBITDA margin** — and its entire quarterly EBITDA funds **14%** of the
+  quarter's capex.
+- **Company FCF proxy: EBITDA 3,538 − capex 18,369 = −$14.8B/QTR. H1: −$23.8B — Oracle's FULL-YEAR hole
+  (−$23.69B, the field report's "most direct cash-flow strain") in SIX months.**
+- **Total capex = 2.35x total revenue.** Comparators from the 8/4 field report: Oracle ~1x, Microsoft ~0.7x.
+  **Nothing else in the vault's table is above ~1x.**
+
+### THESIS (interpretation — NOT fact)
+- **★★★★ THE JOIN THAT DATES SOMETHING: THE FIELD REPORT'S xAI FINANCING IS ALREADY TOO SMALL.** The $20B
+  GPU SPV (Apollo/Diameter $12.5B debt + Valor $7.5B equity + NVDA ≤$2B) **is smaller than H1 AI capex
+  ($23.55B) and covers ~4 months at the current run-rate (~$63B/yr annualized).** ⇒ **More vehicles, leases
+  or equity are arithmetically required.** Same-day cross-document finding. *(Analysis.)*
+- **★★★ THE EBITDA SWING IS REAL AND IT IS ALSO THE TRAP** — the CoreWeave pattern at larger scale:
+  **"adjusted EBITDA" for a GPU business excludes the depreciation of the thing generating the revenue.**
+  Op loss halving while capex doubles = gross economics improving fast, capital nowhere near covered, and
+  the D&A wave from H1 mostly ahead. *(Analysis.)*
+- **★★★ THREE COMPANIES IN ONE FILER:** the engine (Starlink, 60% margins), the furnace (AI, 6.2x
+  capex/revenue), the drifting namesake (Space: shrinking revenue, tripling losses). *(Analysis.)*
+- **⚠️ REVENUE-QUALITY UNKNOWN:** who pays the AI segment $2.56B/qtr is not shown; any affiliated component
+  (X, Tesla, related entities) would open the circularity question the field report tracks at Amazon.
+  **No evidence either way.** ⚠️ "Segment Adjusted EBITDA" adjustments undefined. *(Flags, not claims.)*
+- **⚠️ WARNING-vs-TRIGGER: a burn rate is a STATE.** The trigger form is a FAILED FINANCING — a pulled SPV,
+  a repriced loan (CoreWeave's Anthropic paper at 9.1% is the template), a lease that doesn't close.
+  *(Discipline.)*
+
+### Addendum ~1:25pm PDT — AMD −10% AH ON A GUIDE THAT BEAT AT EVERY POINT OF THE RANGE
+- **@zerohedge: "AMD SEES 3Q REV. $12.70B TO $13.30B, EST. $12.51B" — low end +1.5%, mid +3.9%, high
+  +6.3% vs consensus. Stock −10% after hours.**
+- **★★ FIRST LIVE TEST OF THE McELLIGOTT MECHANICS (filed 8/4 am): "buyers are higher" ⇒ good news is
+  pre-owned ⇒ the beat gets sold.** Two candidate reads, undistinguishable from two tweets: **(a)
+  positioning/whisper** (the printed consensus was not the real bar after SOXX +6.4%/MU +7.9% yesterday);
+  **(b) something not in the headline** (margins, data-center mix). ⚠️ **Magnitude unstable — 50-second-old
+  AH print.** *(Analysis.)*
+- **★★ THE SA IRONY:** the 13F carried **$969M of AMD puts — 7.1% of the book, 5th-largest position** —
+  force-sold to Citadel 7/30, **five days before the put leg fired.** Whether Citadel retained them is
+  unknowable. **The dispersion trade's thesis was not wrong; its financing was.** *(Analysis.)*
+- **★ THE CHURN LEDGER EXTENDS A 4TH CONSECUTIVE SESSION:** 8/1 SMH hides 33.9pp → 8/3 neoclouds +6-20 →
+  8/4 day MU +7.9/AVGO +6.1 → **8/4 AH AMD −10 on a beat.** *(State, not trigger.)*
+
+**Links:** [[cepi]] · [[ai-financing-fragility]] (the field report, the xAI SPV) · [[market-fragility]] ·
+[[compression-thesis]] · [[metered-compute]]
+
+### Sources
+- SpaceX Q2 2026 segment table (screenshot) — Jake upload 2026-08-04 ~1:15pm PDT → `raw/`
+- @zerohedge tweets ~1:12-1:20pm PDT (SPCX AI capex confirm · BTC 18,712 · AMD 3Q guide) — Jake paste
