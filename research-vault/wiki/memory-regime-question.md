@@ -537,7 +537,11 @@ memory stock?"*
   range's TOP touches consensus; midpoint $10.55B ≈ −2.3% vs street — and still +17.6% QoQ.**
 - **WDC: Q4 revenue $3.75B vs est $3.70B; EPS $3.56 vs est $3.30 (+7.9%); Q1 outlook $4.1B vs est
   $4.06B (~+9% QoQ implied).** Clean on all three lines.
-- No after-hours reaction in the paste. **Jake: "Oops"** (the SNDK guide).
+- No after-hours reaction in the paste. **"Oops" is @zerohedge's OWN tail on the SNDK tweet** (screenshot
+  received after first filing: `raw/zh-sndk-wdc-tweets-2026-08-05.jpeg`; 196K views SNDK / 58K WDC).
+  ⛔ *First filing attributed "Oops" to Jake — corrected same hour when the screenshot arrived. It is ZH
+  dialect, which makes the grading below a straight application of the standing source rule (strip the
+  editorial, keep the numbers), not pushback on Jake's read.*
 
 #### THESIS (interpretation — NOT fact)
 - **★★★ THE PRINT CORROBORATES BETA-MISMATCH FROM THE FUNDAMENTAL SIDE.** The name that fell **−47% in
