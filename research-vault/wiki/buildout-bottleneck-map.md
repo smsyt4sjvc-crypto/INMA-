@@ -628,3 +628,60 @@ Jake pasted the zoom: **Sep-2021 = 190.941.** I had eyeballed that level at **~1
   specifically to produce exact monthly values, YoY rates and the lumber control. **I then rendered a verdict
   off eyeballed pixels rather than waiting for it to run.** ⇒ **RULE: when a cell for the question already
   exists, a chart is not an answer — it is a prompt to RUN the cell.**
+
+## 2026-08-04 ~7:45pm PDT — ★★★ THE MAGNET CHOKEPOINT GETS ITS SELL-SIDE NOTE — and Jake's March position front-ran it by five months
+
+Source: **Bernstein (analyst Dien Wang) via ZH article, 2026-08-04** — `raw/zerohedge-2026-08-04-bernstein-physical-ai-magnet-chokepoint.pdf` (+ text extract). Exhibits read from rendered pages.
+**FIRST-USE:** NdFeB = neodymium-iron-boron (the permanent-magnet alloy); Dy/Tb/Pr = dysprosium, terbium,
+praseodymium (heavy/light rare earths for heat resistance); OEM = original equipment manufacturer.
+
+### DATA (as-reported — Bernstein/IEA)
+- **China's share: 59% of magnet rare-earth MINING · 91% of REFINING · 94% of MAGNET MANUFACTURING.**
+- **IEA: China holds >50% mining and >75% refining THROUGH 2040; recycling immaterial near-term.**
+- **Intensity: humanoids need 3.5-4.0 kg NdFeB/unit vs 1-3 kg per EV motor** (+ Dy/Tb/Pr criticality).
+  Humanoid shipments expected to accelerate 2027.
+- **CHINA'S WRENCH, DATED: 2025 — controls on seven medium/heavy rare-earth products, licensing extended
+  to overseas transactions, exports restricted to dozens of US/EU/JP companies → immediate (temporary)
+  collapse in Chinese magnet exports.**
+- **Capacity (Exhibits 10-13, IEA/Bernstein, kt NdFeB/yr):** China ~205 (2025E) → ~285 (2030E) ·
+  Asia ex-China ~16.5 → ~19.5 · **US ~5 → ~19** (MP Materials, E-Vac, Noveon, Star Group US, Quantum
+  Magnetics, USA Rare Earths) · EU ~2 → ~14 (Vacuumschmelze, Neorem, Magneti, NP Materials Estonia,
+  GKN, Solvay). **Ex-China total: ~23.5 → ~52.5.**
+- **Exhibit 17 (ex-China chain): MP MATERIALS APPEARS IN THREE OF FOUR STAGES** (mining, refining, magnet
+  production) — the only US name spanning the chain. Recycling: HyProMag/GeoMega/Cyclic/Ionic.
+- Bernstein's three conclusions: Chinese OEMs (BYD) + actuator/motor suppliers (Tuopu, Sanhua, Inovance)
+  gain share; non-Chinese magnet players benefit from diversification.
+- Article cross-ref (fetch registered): *"China LLMs Now Dominate Western Models Token Usage — Goldman
+  Warns Market Is Oblivious."*
+
+### DERIVED (from the exhibit values — no recalled numbers)
+- **China = ~90% of listed capacity in 2025, still ~84% in 2030 AFTER the US quadruples.**
+- **Humanoid demand vs the denominators: 1M units/yr = 3.5-4kt ≈ 70-80% of TOTAL US 2025 capacity;
+  10M units/yr = 35-40kt ≈ 1.5x the ENTIRE ex-China world's 2025 capacity (~70% of its 2030E).**
+  ⇒ **The chokepoint binds at the FIRST real production ramp** (10M units ≈ 11% of annual auto volume).
+
+### THESIS (interpretation — NOT fact)
+- **★★★ JAKE'S PRECEDENCE, STAMPED HONESTLY: "I had magnets as a chokepoint in March" is corroborated ON
+  DISK** — MP at 3% in [[ai-infra-allocation-map]] (L181, L212 *"maps to the rare-earth [thread]"*),
+  [[portfolio-state]] L668 *"MP → rare earths,"* this note's own L65 *"Jake's MP-adjacent intersection
+  confirmed,"* [[war/war-board]] L379 "Rare Earth War." **The correct frame: China's 2025 controls were the
+  public demonstration; Jake read it and positioned; Bernstein wrote it up 2026-08-04. He front-ran the
+  SELL-SIDE by ~5 months, not the event — which is the right kind of early.** *(Analysis.)*
+- **★★★ THE CHINA-WRENCH TIMELINE SPLITS BY COMMODITY: ATOMS 2025 (this note's export controls), TOKENS
+  2026-07-31 (DeepSeek V4 Flash matching the index's late-July steepening). MAY 2026 REMAINS UNATTRIBUTED
+  in both.** Same strategy, two theatres: choke or commoditize the edge the West needs next. *(Analysis.)*
+- **★★★ THREE BIDDERS NOW CONVERGE ON 23.5kt OF EX-CHINA CAPACITY: defense (munitions replenishment at
+  DPA priority — same NdFeB/Dy/Tb in missile actuators), EVs (1-3 kg/unit), and humanoids (3.5-4 kg from
+  2027).** The ISM [Transportation Equipment] respondent — *"scarce supply — electronics, certain critical
+  minerals… expected to get worse"* — was reporting from inside this market. → [[ai-capex-cycle]] (8/3),
+  [[war/war-board]] (munitions 8/4). *(Analysis.)*
+- **⚠️ DISCIPLINE: capacity forecasts are ANNOUNCEMENTS (IEA's own note: "indicative… based on current
+  announcements"), the same evidence class as uncommenced leases — the US 4x assumes projects execute.
+  And a sell-side "how to profit" list marks the IDEA as distributed: the easy phase of the trade is the
+  part that ended today.** *(Analysis — the counterweight, per the calibration rules.)*
+- **🚩 FETCH (high value, feeds TWO threads): the "China LLMs dominate token usage" piece — token usage
+  share by bloc is the Jevons dashboard's missing VOLUME leg and the two-bloc compression thesis's demand
+  data.** *(Registered.)*
+
+**Links:** [[ai-infra-allocation-map]] · [[portfolio-state]] · [[war/war-board]] · [[power-not-petroleum]] ·
+[[metered-compute]] · [[compression-thesis]] · [[ai-capex-cycle]]

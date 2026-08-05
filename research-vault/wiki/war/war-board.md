@@ -1300,3 +1300,10 @@ source I distrust, credulous with the one I don't.** → also logged to [[_calib
 ### Sources
 - Web search 2026-08-04 ~11:00am PDT: cnbc.com/2026/08/04 · navytimes.com/2026/08/04 · WaPo via aol.com ·
   yahoo.com (Reuters wire) · ynetnews.com · huffpost.com
+
+### 📌 LEDGER 2026-08-04 ~7:21pm ET — AXIOS: "US NEARS HORMUZ DEAL, AIMING FOR WEDNESDAY ANNOUNCEMENT"
+**Stamped, no read (Jake: "just ingest").** The object moved again: Trump/Bessent *"opens tomorrow"* →
+Axios *"ANNOUNCEMENT Wednesday."* An announcement is words; **the registered referee is unchanged — the
+transit count vs ~140/day** — and Iran's same-morning Press TV rejection (Oman "intermediate corridor,"
+Iran sovereign over inbound) stands against the framing. **Wednesday's test #3 now has a claimed
+deliverable to grade.** *(Source: tweet-relayed Axios headline, 23K views, timestamp 7:21pm 8/4.)*
