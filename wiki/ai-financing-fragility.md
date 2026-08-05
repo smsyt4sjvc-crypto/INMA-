@@ -3109,6 +3109,7 @@ equity/raised 1.65x, EV/ARR 2.68x. New: **Bending Spoons pre-deal debt $4.4B; Q1
   long the high-beta periphery.** July hit BOTH legs: **the longs are yesterday's scanner wreckage verbatim
   (SanDisk −47%, IREN/APLD/Core Scientific −30% cohort)** while the put targets rallied into month-end.
   ⇒ **The vault's 8/1 wrapper-cancellation finding is the natural mechanism: an index put does not pay when
+    ⟲ SUPERSEDED 2026-08-05 → ai-financing-fragility.md:L3182 — global semis fell 13.2% in July -- the wrapper did not hold up; the kill was relative (periphery 3x the index), beta mismatch not cancellation
   winners hold the wrapper up — while the periphery you are long collapses underneath it. SA died of the
   DISPERSION, not the direction.** ⚠️ **HYPOTHESIS with two named holes: the 13F is three months stale and
   SMH's July path is still unpulled.** *(Analysis.)*
@@ -3178,3 +3179,16 @@ Bonita recoveries.**
 - **★★ THE DATUM IS THE MAINSTREAMING:** footnotes → FT (8/4) → field report (8/4) → daytime television
   (8/5) in one week. Same signal class as Bernstein publishing the magnet thesis: **the discovery phase of
   the off-balance-sheet story is over.** *(Analysis.)*
+
+### ⟲ AMENDMENT 2026-08-05 ~9:20am PDT — ⛔ THE SA "WRAPPER-CANCELLATION" HYPOTHESIS CORRECTED TO **BETA MISMATCH**
+  ⟲ SUPERSEDES ai-financing-fragility.md:L3111 — global semis fell 13.2% in July -- the wrapper did not hold up; the kill was relative (periphery 3x the index), beta mismatch not cancellation
+**New input (JPM AM via Jake's handoff): GLOBAL SEMICONDUCTORS FELL −13.2% IN JULY.** My 8/4 hypothesis
+said SA's index puts failed *"because the wrapper held up."* **A wrapper down 13% did not hold up — the
+SMH/NVDA-class puts PAID SOMETHING in July.** The book died because the LONGS fell **30-47% — three times
+the index decline — with leverage.** ⇒ **The kill survives in RELATIVE form and dies in ABSOLUTE form:
+not "the index stayed calm" but "the periphery fell 3x the index." BETA MISMATCH, not wrapper
+cancellation.** The spread between the high-beta long leg and the low-beta short wrapper is what executed
+the fund. *(⚠️ "Global semis −13.2%" is JPM AM's index, not SMH exactly — bounds, not the print; the SMH
+July number stays open.)* **Same correction propagates to the Coatue stamp: −8% vs the epicenter's −13.2%
+with energy +8.8/financials +6.5 as offsets = "muted, not extreme" CONFIRMED in part; SPY July still owed
+for the full grade.**
