@@ -228,6 +228,9 @@ THREADS = {
  'MUNITIONS': ['atacms','tomahawk','munition','stockpile','prsm','precision strike',
                'defense production act','missile inventory','replenish','ordnance',
                'supplemental appropriation','arms sale'],
+ # LEVANT — gap #9 (8/5): the Ravid Israel-Lebanon Rome item returned NO MATCH.
+ 'LEVANT':    ['lebanon','hezbollah','israel','litani','leviathan','karish','rome talks',
+               'framework agreement','ceasefire','idf','beirut','northern front'],
  # TOKEN-ECON — gap #7 (2026-08-04): the Silicon Data token-index chart routed to OPTIONS
  # via a homonym. The metered-compute thread had NO keywords of its own.
  'TOKEN-ECON':['token cost','token price','per token','tokens per','inference cost',
@@ -270,6 +273,7 @@ ROUTE = {
  'KOREA':     'market-fragility (leverage cascade)',
  'LABOR':     'predictions/2026-07-30-fed-hike (the registered Friday trigger) / new-economy-regime',
  'MUNITIONS': 'war/war-board (escalation ceiling, the A-vs-C fork) / ai-capex-cycle (defense-AI crowding)',
+ 'LEVANT':    'war/war-board (talks-while-shooting; MoU Article 1 broke via Lebanon -- portfolio-state L143)',
  'TOKEN-ECON': 'metered-compute (the Jevons/elasticity-1 test) / compression-thesis / cepi',
 }
 
