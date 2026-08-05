@@ -3192,3 +3192,42 @@ the fund. *(⚠️ "Global semis −13.2%" is JPM AM's index, not SMH exactly �
 July number stays open.)* **Same correction propagates to the Coatue stamp: −8% vs the epicenter's −13.2%
 with energy +8.8/financials +6.5 as offsets = "muted, not extreme" CONFIRMED in part; SPY July still owed
 for the full grade.**
+
+## 2026-08-05 ~9:55am PDT — ★★★ GOOGLE'S LEADERSHIP RESET + THE DEAN/GHEMAWAT EXIT: the circularity thread extends from CAPITAL to TALENT
+
+Source: **handoff-quality digest (Jake paste ~9:50am)** — Hassabis exits day-to-day (remains GDM Chair +
+new Alphabet Chief Scientist + Isomorphic); **Kavukcuoglu → SVP running Gemini/frontier research,
+reporting to Pichai**; **Jeff Dean + Sanjay Ghemawat leave after ~27 years to found DISCOVERY LOOP**
+(independent public-benefit AI co; **Google = founding investor + cloud partner**); Vinyals + Quoc Le
+reported joining. **GOOGL −4%.** Ghemawat's stated reason: *"automated scientific research requires
+different infrastructure."* Hassabis: AGI *"close at hand."*
+
+### THESIS (interpretation — NOT fact)
+- **★★★ THE ORG CHART IS THE COMPRESSION THESIS DRAWN AS A DIAGRAM.** The vault holds Google as the price
+  war's fastest aggressor (matched DeepSeek −80% in ONE DAY — [[metered-compute]] L1568). **The scientist
+  exits operations, the operator reports to the CEO: the posture of a company whose frontier product
+  became a commodity knife-fight.** Operators run the war; scientists leave to find a new frontier.
+  *(Analysis.)*
+- **★★★★ THE CIRCULARITY PATTERN EXTENDS FROM CAPITAL TO TALENT — the durable finding.** The field
+  report's signature (investor+lender+vendor+beneficiary at once) now has a talent instance: **Google is
+  founding investor AND cloud provider to the company its four most foundational builders left to
+  create.** *"Keep the departing talent inside its economic orbit"* — the digest's own words.
+  **Second ex-DeepMind diaspora in vault records** ([[reflection-ai]]: Laskin/Antonoglou, NVDA-backed) +
+  the xAI SPV (NVDA equity) ⇒ **the incumbent financing its own diaspora is now the DOMINANT founding
+  pattern. Nobody leaves; they re-lease themselves back through the cap table and the compute contract.
+  The talent layer now has the capital layer's property: risk distributed, not extinguished — on the
+  same balance sheets.** *(Analysis.)*
+- **★★ THE AGI-TIMELINE TELL, BOTH EDGES FILED:** Hassabis says AGI "close at hand" while exiting ops;
+  the four with the deepest view of Google's capabilities leave the largest AGI budget on earth to build
+  *"infrastructure for automated scientific research."* **(a)** revealed preference: the model race isn't
+  where AGI arrives; the AI-for-science layer is (Hassabis→Isomorphic, this group→Discovery Loop — ALL
+  rotating the same direction). **(b)** says nothing about timelines, everything about where
+  post-commoditization VALUE accrues — the telecom frame: when handsets commoditize, the best engineers
+  build what runs ON them. **Ghemawat's "different infrastructure" supports (b).** *(Analysis.)*
+- **★★ KEY-PERSON CONCENTRATION PRICED, ONCE:** GOOGL −4% ≈ **$150-200B** *(estimate; ~12.3B shares
+  RECALLED, unverified)* **attributed to four researchers and one reporting line.** The concentration
+  thread's first clean print of TALENT concentration as a fragility vector — invisible until it moves,
+  then nine figures per person. → [[concentration]] *(Analysis. Descriptive; GOOGL on Jake's watchlist.)*
+
+**Links:** [[compression-thesis]] · [[reflection-ai]] · [[metered-compute]] · [[ai-capex-cycle]] ·
+[[concentration]] · [[market-fragility]]
