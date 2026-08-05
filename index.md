@@ -39,6 +39,8 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 - [[ai-evaluation-framework]] — **EO 14409 / "covered frontier model" — a DATED LEDGER, not a read.**
   The framework was reported complete 2026-08-03 and is UNPUBLISHED. **DATA accumulates; THESIS does not,
   until the text is public.**
+- [[danger-disclosure-playbook]] — the "our model escapes/hacks" announcement genre: one move, three
+  payoffs (capability projection / liability cover / gates-not-brakes) + the grading rubric. Conflict-flagged.
 
 ## ⚡ Power / energy / oil
 - [[power-not-petroleum]] — the core energy-rotation thesis
