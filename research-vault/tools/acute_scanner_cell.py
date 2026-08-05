@@ -228,6 +228,12 @@ THREADS = {
  'MUNITIONS': ['atacms','tomahawk','munition','stockpile','prsm','precision strike',
                'defense production act','missile inventory','replenish','ordnance',
                'supplemental appropriation','arms sale'],
+ # TOKEN-ECON — gap #7 (2026-08-04): the Silicon Data token-index chart routed to OPTIONS
+ # via a homonym. The metered-compute thread had NO keywords of its own.
+ 'TOKEN-ECON':['token cost','token price','per token','tokens per','inference cost',
+               'api pricing','price per million','intelligence per watt','tokens per watt',
+               'token expenditure','compute cost','gpu rental','jevons','price war',
+               'inference revenue','cost per task'],
 }
 # TWO KEYWORD CLASSES — this distinction is the whole gate and it was WRONG on first build.
 # STRICT: short acronyms where a suffix creates a false positive. \bKWs?\b only.
@@ -261,6 +267,7 @@ ROUTE = {
  'KOREA':     'market-fragility (leverage cascade)',
  'LABOR':     'predictions/2026-07-30-fed-hike (the registered Friday trigger) / new-economy-regime',
  'MUNITIONS': 'war/war-board (escalation ceiling, the A-vs-C fork) / ai-capex-cycle (defense-AI crowding)',
+ 'TOKEN-ECON': 'metered-compute (the Jevons/elasticity-1 test) / compression-thesis / cepi',
 }
 
 def tags(text):
