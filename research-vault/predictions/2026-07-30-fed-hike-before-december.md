@@ -568,3 +568,13 @@ ADP +44k + services employment 47.4 raise the odds the registered Friday test fi
 AND payrolls below consensus ⇒ revise DOWN**). GS's own forecast satisfies both legs. **If Friday fires
 dovish, the call comes down despite Kashkari; if labor holds, Kashkari + prices >70 in both surveys argue
 the next move is UP from 65.**
+
+### 2026-08-05 ~9:35am PDT — TREASURY TEST GRADED: NULL RESULT; THE PUT'S EVENT MIGRATES TO 8/13
+Coupons unchanged (3Y $58B 8/11 · 10Y $42B 8/12 · **30Y $25B 8/13, 1pm ET** · $125B total / $28.7B new
+cash) + **"at least the next several quarters" guidance — the bills-over-coupons regime is now COMMITTED,
+not just chosen.** 30Y ~5.18% unchanged on the session — **but 5.28→5.18 on the WEEK: the relief was
+pre-traded; a zero reaction to a zero-surprise announcement is a NULL RESULT, not weak demand** *(sharpens
+the handoff's "yellow")*. **REGISTERED: the 8/13 30Y auction is the put's single dated event** —
+stop-through + indirects ~70%+ = the duration backstop validated; **>2bp tail + elevated dealer take =
+"the put exists rhetorically but not in marginal demand," transmitting to SPX at −0.48.** *(Base rates,
+recalled+flagged: 30Y auctions tail ~half the time; indirects typically 60-70% — red must clear these.)*

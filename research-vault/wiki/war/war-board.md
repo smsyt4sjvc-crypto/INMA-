@@ -1320,3 +1320,32 @@ deliverable to grade.** *(Source: tweet-relayed Axios headline, 23K views, times
 - **F18's toll-gate equilibrium now carries: ministry confirmation + a munitions constraint preventing
   contest + the SPR at terminal (see [[demand-destruction]] 8/5) ⇒ the administered strait is the
   equilibrium BY CAPABILITY on both sides.**
+
+### 📌 LEDGER 2026-08-05 ~9:40am PDT — ROME: Israel-Lebanon IMPLEMENTATION talks adjourned early by "security events on the ground"
+
+Source: **Barak Ravid (translated from Hebrew), quoting a senior US State Department official** — Jake
+paste ~9:38am. High-quality diplomatic sourcing; official-anonymous channel.
+
+**DATA (as-reported):** Rome round ended **15:30 Rome time, earlier than planned, "due to the security
+events on the ground"**; resumes tomorrow morning; teams recorded progress on **"implementation of the
+framework agreement between Israel, Lebanon, and the United States"** — i.e., **a framework already
+exists; this is the implementation stage.** "Highly productive" *(adverb class — the facts are the early
+adjournment and the stage)*.
+
+**THESIS (analysis):**
+- **★★ NOT A NEW THREAD:** [[../portfolio-state]] L143 already registers **"MoU breaks — Article 1
+  already VIOLATED (Lebanon)."** Rome is the diplomatic track of the front where the June MoU's
+  Article 1 broke.
+- **★★★ THE PATTERN CONFIRMS ON A SECOND FRONT: TALKS-WHILE-SHOOTING.** Hormuz: a week of strikes on
+  vessels mid-diplomacy. Lebanon: implementation talks adjourned by same-day kinetics. **The regional
+  signature is diplomacy and ordnance in parallel everywhere — frameworks and corridors from the talks
+  track, incidents from the ground track.** The June MoU *"failed while alive"*; every new agreement
+  inherits that question.
+- **★★ THE SAME-WEEK SYNCHRONY = THE INVENTORY-URGENCY POSTURE:** Hormuz pushed to a "Wednesday or
+  Thursday" announcement + Lebanon declared "highly productive" **in the same 48h the SPR printed
+  terminal (3.05MM) and munitions printed exhausted.** Settle-everything-now, on every track at once.
+- ⚠️ **Market sizing, honest: LOW direct impact** (Lebanon is not an oil chokepoint); relevance =
+  de-escalation-narrative breadth + Leviathan/Karish gas adjacency if the maritime dimension surfaces.
+
+**🚩 FETCHES:** (1) **what were today's "security events"** on the Israel-Lebanon front; (2) **the
+framework agreement itself** — contents, date, parties' obligations (ingest gap, June-2-EO class).
