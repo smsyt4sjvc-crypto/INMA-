@@ -1365,3 +1365,55 @@ proximity"* — **near-miss, lowest severity rung**; crew safe, no damage stated
   ⇒ **The flat-price disinflation trade prices Hormuz; the freight/insurance cost stack requires all
   three theatres — and no negotiation touches the third.** The standing gap between the crude tape and
   the goods-inflation channel.
+
+### 📌 LEDGER 2026-08-05 ~10:50am PDT — THE CORRIDOR GETS A TENOR: "2-4 MONTHS" (IRNA) — Iran answers three of the four terms before Washington says a word; Aden fires again within hours
+
+**DATA (ZH relay of IRNA wires; source stamps ~9:45-10:10am PDT):**
+- **"IRAN SAYS NEW HORMUZ ROUTE TO BE VALID FOR 2-4 MONTHS" — IRNA** (state wire).
+- **"IRAN SAYS IT WON'T ACCEPT FOREIGN INTERFERENCE IN STRAIT" — IRNA.**
+- ZH: Iran-Oman route "agreed to"; Iran warns against US "interference" *(headline verbs — the two wires
+  above are the content, per the source rule)*.
+- **Second foreign vessel attacked off Yemen "within hours"** of UKMTO 106-26 (L1353); Houthi framing:
+  **"siege for siege" blockade.** Details unfetched; ZH pairs the item with Brent in the slug.
+- Same feed, other threads: *"Short covering is there to next take Nasdaq to new highs"* (positioning —
+  matches the 8/2 GS prime-book finding, nothing new); Market Ear tease *"Remember hyperscaler CDS
+  spreads?"* (chart unseen → fetch filed at [[../ai-financing-fragility]]).
+
+**THESIS (analysis):**
+- **★★★ THE TENOR IS THE NEW FACT, AND IT RE-TYPES THE OBJECT: THE CORRIDOR IS A LEASE, NOT A
+  SETTLEMENT.** An administered strait with an expiry is a renewable option Iran holds — the toll-gate
+  now monetizes TWICE: per-transit fees (8/4) + renewal leverage every 2-4 months. **Expiry window
+  ≈ 10/5–12/5 — inside the Dec-18 745 put's life.** A dated war-premium repricing event joins the 8/13
+  30Y auction inside the option window. *(Note the range itself: "2-4 months" is a 2× spread — the same
+  deliberate vagueness class as "revive the 60 days," L1214.)*
+- **★★ THE STEELMAN CUTS THE OTHER WAY (the under-weighted side): PAPER TENOR ≠ STRUCTURAL TENOR.** The
+  capability floor that produced the corridor — interceptors rebuilt ~2029-30 (L1213), SPR at 3.05MM
+  ([[../demand-destruction]] L3382) — does not expire in four months. Temporary structures under a
+  durable constraint tend to roll (the armistice pattern). **The paper says 2-4 months; the capability
+  says longer. Both registered; the first renewal date is the test.**
+- **★★★ THE FOUR-TERM SCORECARD (Jake's test, adopted 8/4) — IRAN HAS ANSWERED THREE ON THE RECORD;
+  THE US HAS ANSWERED NONE:**
+  1. **Fees: answered 8/4** — "security or environmental service fees" (Iranian sourcing).
+  2. **Sovereignty vs coordination: answered today** — "won't accept foreign interference" = sovereign
+     control claimed on the state wire.
+  3. **Security guarantor: OPEN** — and Aden is the live demonstration of the question, on the
+     diversion route, before anyone asks it inside the strait.
+  4. **US ops/sanctions: staked in Iran's favor today** — "no foreign interference" demands US ops stay
+     OUT; nothing printed on sanctions either way (the collision at L1317 stands).
+  **The 8/4→8/5 escalation chain is itself the datum: "informed source" → FM ministry → IRNA-with-terms —
+  each rung more official, each rung ADDS an Iranian term.** Wednesday was the claimed US announcement
+  day (L1304); by mid-morning the only terms printed are Tehran's. **Announcement warfare: whoever
+  speaks first sets the frame the other side must confirm or publicly contradict.**
+- **★★ ADEN: THE STANDING-TEMPO LINE (L1358) IS NOW STRAINED.** One near-miss = standing rate; **two
+  vessels within hours + an explicit "siege for siege" blockade framing is a tempo CLAIM by the
+  attacker.** Registered fork, falsifiable: **(a) MIGRATION — pressure exits the settled theatre and
+  concentrates in the uncovered one** (corridor holds AND Red Sea tempo runs above the 7/20-8/2
+  baseline of ~4 incidents/13 days); **(b) STANDING RATE** (tempo reverts to baseline). ⚠️ Attribution
+  and the Houthi-Tehran coupling stay unconfirmed — **the fork is about the RATE, not the chain of
+  command.** Either branch, the L1362 conclusion hardens: the corridor settles ONE of three chokepoints,
+  and the freight/insurance stack prices all three.
+- **Clock inventory, three deep, none the same object:** corridor tenor (~10/5-12/5, Iran-Oman) ·
+  MoU 60-day (8/17, US-Iran, the fee-holiday question) · 30Y auction (8/13, the put's funding event).
+  **The corridor's clock is now the live one for the strait; 8/17 stays on watch as a separate object.**
+
+**Links:** [[../demand-destruction]] · [[../portfolio-state]] · [[../ai-financing-fragility]]

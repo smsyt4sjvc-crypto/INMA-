@@ -3231,3 +3231,11 @@ different infrastructure."* Hassabis: AGI *"close at hand."*
 
 **Links:** [[compression-thesis]] · [[reflection-ai]] · [[metered-compute]] · [[ai-capex-cycle]] ·
 [[concentration]] · [[market-fragility]]
+
+### 📌 2026-08-05 ~10:50am PDT — 🚩 FETCH: Market Ear, "Remember hyperscaler CDS spreads?" — chart unseen, not graded
+A credit-default-swap (CDS) tease on the hyperscalers lands squarely on this file's stack — the field
+report's debt wall (L3049) and F8's tell (*"it breaks when losses land on DEALERS,"* L2841). **Not
+graded: the chart was not shown, and the artifact test applies to charts too.** If the spreads have in
+fact moved, it would be the first CREDIT-market print on the AI debt stack since the field report —
+the exact instrument class the equity tape doesn't carry. **Get the chart before a word of read.**
+*(ZH relay of The Market Ear, source stamp ~10:05am PDT, 2026-08-05.)*
