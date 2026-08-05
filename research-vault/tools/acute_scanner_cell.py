@@ -233,7 +233,10 @@ THREADS = {
  'TOKEN-ECON':['token cost','token price','per token','tokens per','inference cost',
                'api pricing','price per million','intelligence per watt','tokens per watt',
                'token expenditure','compute cost','gpu rental','jevons','price war',
-               'inference revenue','cost per task'],
+               'inference revenue','cost per task',
+               # gap #8 (8/5): the Anthropic in-house-chip item returned NO MATCH
+               'custom chip','in-house chip','custom silicon','asic','tpu','trainium',
+               'co-design','custom accelerator'],
 }
 # TWO KEYWORD CLASSES — this distinction is the whole gate and it was WRONG on first build.
 # STRICT: short acronyms where a suffix creates a false positive. \bKWs?\b only.

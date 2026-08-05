@@ -1694,3 +1694,47 @@ reading; Silicon Data's other products are price indices) or (b) TOTAL SPEND (pr
 ### Sources
 - Silicon Data LLM Token Expenditure Index chart — Jake upload 2026-08-04 ~6:10pm PDT → `raw/`
 - BBG earnings-call note (Anmuth/Musk "intelligence per watt") — Jake paste, same time
+
+## 2026-08-05 ~9:30am PDT — ANTHROPIC IN-HOUSE CHIPS (ANNOUNCED, pre-design) — the winner is the PARTNER, and the marginal fact is the LABS joining a ten-year trend
+
+*(Conflict flag, standing and prominent: this entry is written by Fable 5 about its own maker. Descriptive
+only; graded skeptically on purpose.)*
+Source: Jake paste (~9:25am, unattributed BREAKING + confirmation details). **FIRST-USE:** ASIC =
+application-specific integrated circuit; HBM = high-bandwidth memory.
+
+### DATA (as-announced)
+- **Anthropic confirms building in-house custom chips for Claude** — "currently hiring engineers" ·
+  will **"co-design hardware and models"** to run *"at the scale our customers need"* · **"multi-chip
+  approach": AWS, Google, Nvidia, AMD "remain essential."**
+- Vault-held context: Anthropic already rents ~1M TPUs via the **$35B SPV**; **Broadcom holds $128B of
+  purchase commitments (3.5GW) + ~$30B residual support inside the existing chain** (field report 8/4,
+  L3085/L3143).
+
+### THESIS (interpretation — NOT fact)
+- **★★★ JAKE'S QUESTION ("who wins in-house chips — Nvidia or the custom-silicon partner?") ANSWERED:
+  THE PARTNER, STRUCTURALLY.** Broadcom co-designs TPU (Google), MTIA (Meta), OpenAI's reported program —
+  and already sits inside Anthropic's chain with nine figures of commitments. **The partner collects on
+  the TREND, not on any single lab winning. Marvell distant #2** (named as collateral damage in the 8/4
+  AMD piece, not beneficiary — the seat is concentrated). **Socket-agnostic winners underneath: TSMC
+  (every die) + HBM/memory (every accelerator).** *(Analysis.)*
+- **★★★ NVIDIA: CAPPED, NOT BROKEN — the base rate is the discipline.** TPU is a TEN-year-old program;
+  Trainium six; NVDA data-centre revenue grew ~20x across exactly that decade — **the market grew faster
+  than the share shifted (Jevons at the socket level).** In-house caps the MARGINAL socket (inference);
+  the frontier-training seat has not moved, and the announcement's own language concedes it ("remains
+  essential"). **The trend attacks the "Nvidia Tax" (8/3 scanner headline); the LOSER is the second-tier
+  merchant** — AMD's 8/4 arms-dealer→arms-buyer repricing is this fear live. *(Analysis.)*
+- **★★ THE MARGINAL FACT IS NARROWER THAN THE HEADLINE:** not "in-house chips are the next trend" (a
+  decade old) but **the MODEL LABS — not just the clouds — now design silicon.** The trend extended one
+  layer down the stack. *(Analysis.)*
+- **★★ "MULTI-CHIP / EVERYONE REMAINS ESSENTIAL" IS LANDLORD DIPLOMACY, structurally constrained:** a lab
+  financed by its compute vendors (AMZN $53.4B mark; Google ~$44B max exposure) **cannot announce
+  independence from them.** Read the hedged framing as a financing constraint, not strategic ambivalence.
+  *(Analysis.)*
+- **★★ CO-DESIGN = THE APPLE SILICON PLAYBOOK = the tokens-per-watt thread:** one workload, 2-5x per-watt
+  gains ⇒ **deflationary for token costs on a 2-3 YEAR fuse** ("hiring engineers" = pre-tape-out;
+  near-term financial content ≈ zero). Feeds the Jevons dashboard's cost leg, eventually. *(Analysis.)*
+- **🚩 F17 pointer:** one more capex-intensity layer on an SPV-financed company — one more thing an S-1
+  must explain. → [[ai-financing-fragility]]
+
+**Links:** [[ai-financing-fragility]] (the chain, F17) · [[compression-thesis]] · [[ai-capex-cycle]] ·
+[[buildout-bottleneck-map]]
