@@ -578,3 +578,36 @@ the handoff's "yellow")*. **REGISTERED: the 8/13 30Y auction is the put's single
 stop-through + indirects ~70%+ = the duration backstop validated; **>2bp tail + elevated dealer take =
 "the put exists rhetorically but not in marginal demand," transmitting to SPX at −0.48.** *(Base rates,
 recalled+flagged: 30Y auctions tail ~half the time; indirects typically 60-70% — red must clear these.)*
+
+### 2026-08-05 ~10:55am PDT — THE MARKET'S SEPTEMBER BUCKET PRINTS: **47%, DOWN FROM A ~70% PEAK — the same morning a confirmed voter said "time to start moving up"**
+
+**DATA (as-pasted, unattributed "BREAKING" — venue/instrument NOT stated; Kobeissi-style):** September
+hike odds **47%**, *"after rising to as high as 70%"* (peak timing unstated); hold would extend *"the
+Fed's longest rate pause since 2008."* Morning entry's reference was *"market ~60%."*
+
+**GRADING:**
+- **PARTIALLY CLOSES THE 8/1 OPEN ITEM** (the September 25bp bucket): a NUMBER is finally in hand —
+  **but no venue** (CME FedWatch vs swaps vs prediction market unstated). The item that stayed open
+  precisely because a handoff returned the WRONG bucket does not fully close on an unattributed one.
+- **⚠️ BUCKET DISCIPLINE — the 47 and the 65 are NOT the same object.** 47% is SEPTEMBER-ONLY;
+  REVISION 5's 65% is CUMULATIVE before December (Sept + Oct + Dec meetings). Market cumulative through
+  December is necessarily ABOVE its September bucket. **The visible divergence is real but smaller than
+  47-vs-65 reads.** *(The 8/1 error class, resisted this time.)*
+- **NUMBERS-VS-ADVERBS FIRES ON THE HEADLINE ITSELF:** *"no longer expects"* ≠ 47%. **A coin flip on a
+  hike that would end the longest pause since 2008 is an enormous priced probability, not an
+  expectation withdrawn.** The adverb does to 47 what "virtually all" did to "about half."
+- **THE DIVERGENCE IS THE DATUM (Jake's catch): voter rhetoric UP, market odds DOWN, same morning.**
+  Read: the market weighs the same two-sided tape the vault graded at 8:35 and CHOSE the labor side —
+  pricing Powell's reaction function on employment, not Kashkari's on prices. Three public hike votes
+  ≠ seven; the median decides. Mechanically this is also a FRONT-RUN OF FRIDAY: ADP +44k + services
+  employment 47.4 moved the priced odds the way the registered Friday test would move the call.
+- **⇒ RULING: 65% / 70% UNCHANGED — and the call is now explicitly ABOVE MARKET.** Market pricing is
+  kill-switch INPUT #2, not a revision trigger; the registered trigger is FRIDAY. Stated for the
+  scoreboard without hedging: **if Friday fires dovish, the market beat the vault by two days; if labor
+  holds and the committee follows its three public votes, the vault beat the market.** Gradeable either
+  way — that is the point of registering.
+- **THE PUT-RELEVANT MIGRATION:** hold-at-47% + Prices Paid >70 in BOTH surveys = the market pricing
+  "on hold into sticky prices" — the configuration where inflation risk premium migrates to the LONG
+  end ([[../wiki/new-economy-regime]] −0.48; six levers). **A no-hike world is not the benign world for
+  the tape; it is the fiscal-dominance branch — which sharpens 8/13 as the put's event rather than
+  relaxing it.**
