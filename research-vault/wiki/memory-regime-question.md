@@ -529,3 +529,39 @@ memory stock?"*
   *(Analysis.)*
 
 **Links:** [[compression-thesis]] · [[ai-capex-cycle]] · [[market-fragility]]
+
+### 2026-08-05 ~2:40pm PDT — SNDK/WDC JUNE-QUARTER PRINTS: the boom prints on; the guide midpoint lands under the street — treadmill test #2 in three days
+
+#### DATA (ZH tweets ~1h before paste ≈ 4:35pm ET, after today's close; fiscal Q4 = June qtr, "Q1" guide = Sept qtr)
+- **SNDK: Q4 revenue $8.97B vs est $8.48B (+5.8% beat). Q1 outlook $10.3-10.8B vs est $10.8B — the
+  range's TOP touches consensus; midpoint $10.55B ≈ −2.3% vs street — and still +17.6% QoQ.**
+- **WDC: Q4 revenue $3.75B vs est $3.70B; EPS $3.56 vs est $3.30 (+7.9%); Q1 outlook $4.1B vs est
+  $4.06B (~+9% QoQ implied).** Clean on all three lines.
+- No after-hours reaction in the paste. **Jake: "Oops"** (the SNDK guide).
+
+#### THESIS (interpretation — NOT fact)
+- **★★★ THE PRINT CORROBORATES BETA-MISMATCH FROM THE FUNDAMENTAL SIDE.** The name that fell **−47% in
+  July** ([[compression-thesis]]; an SA long liquidated into the fall) just printed **+5.8% over street
+  and guided +17.6% QoQ.** A fundamentals crack looks like a guide CUT; this is a guide midpoint 2%
+  under a street that spent July marking estimates UP while the stock halved. **July was flows —
+  SA's forced book + retail selling 20x — not earnings.** ([[ai-financing-fragility]] ⟲ beta-mismatch;
+  seller-exhaustion entry.) *(Analysis.)*
+- **★★★ TREADMILL TEST #2 — THE AMD TEMPLATE, 72 HOURS LATER.** AMD beat with an in-line guide Monday
+  and took **−10%** ([[ai-capex-cycle]] 8/4). SNDK now beats with a midpoint-light guide. **The
+  REACTION, not the print, is the datum: if beats-without-raises get sold twice in one week, the
+  expectations ALTITUDE is the regime fact** — the demand-side mirror of [[cepi]] (est $10.8B = the
+  street pricing the TOP of management's own range as the base case). **🚩 WATCH: tomorrow's tape on
+  both tickers — that grades the test, not tonight's numbers.** *(Analysis.)*
+- **★★ THE COST-PUSH THREAD READS THROUGH UNTOUCHED:** NAND guiding +17.6% QoQ while HDD guides +9% =
+  the storage complex's pricing boom intact in both media; nothing here touches the
+  pricing≠availability inversion (L317) or the bare-boards extension (L464). **The boom's data keeps
+  printing; only the expectations math tightened.** *(Analysis.)*
+- **⚠️ "OOPS," GRADED:** a guide range whose top TOUCHES consensus is sandbag-shaped, not crack-shaped.
+  **The oops becomes real only if the tape sells it — which is the treadmill test, not a demand
+  signal.** *(Analysis; numbers-vs-reaction discipline.)*
+
+**Links:** [[compression-thesis]] · [[ai-financing-fragility]] · [[ai-capex-cycle]] · [[cepi]] ·
+[[market-fragility]]
+
+#### Sources
+- @zerohedge tweets (SNDK Q4/Q1 · WDC Q4/Q1) — Jake paste 2026-08-05 ~2:35pm PDT, tweets ~1h prior
