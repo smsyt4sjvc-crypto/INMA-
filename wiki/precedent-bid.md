@@ -138,3 +138,43 @@ yesterday. The rotation IS the breadth, and the breadth IS the bull.**
   vol = the funding event beginning = T2's trigger form.**
 
 **Links (added):** [[market-fragility]] · [[ai-financing-fragility]] (SA wrapper kill) · [[portfolio-state]]
+
+## 2026-08-05 ~1:00am PDT — ★★★ FIRST FLOW-DATA EVIDENCE: retail semis flows at RECORD AMPLITUDE BOTH DIRECTIONS — the reflex's fingerprint, and the survivorship-trap counter firing in miniature
+
+Source: **retail-flow chart + digest (Jake paste ~12:55am; source unattributed in paste)** →
+`raw/retail-semis-flow-20x-2026-08-05.png`.
+
+### DATA (as-reported, source unattributed)
+- **Week ended 7/30: retail SOLD semis+memory at ~20x the 2-year average weekly flow.** 3rd sale in
+  4 weeks after 10 consecutive weekly buys. **2-year max sale before this: 5x** (March pullback: 3x).
+- **June: retail BOUGHT at 23x** the 2-year average.
+- ⚠️ **NO DOLLAR FIGURE ANYWHERE** — "x-times average NET weekly flow" can sit on a tiny base (buys
+  netting sells). The RELATIVE claim (4x the 2-yr record) stands; the economic size is unknown.
+
+### THESIS (interpretation — NOT fact)
+- **★★★ THIS IS THE FLOW SIDE OF THE CHURN LEDGER** — four sessions of documented price churn (8/1
+  dispersion → 8/3 neocloud rip → 8/4 memory bought back → 8/4 AH AMD sold on a beat) now have their
+  capital identified. **Same phenomenon, two measurements.** *(Analysis.)*
+- **★★★ THE SEQUENCE COMPLETES THE WEEK'S PICTURE: retail sold 20x into the SAME WEEK as the SA forced
+  liquidation (7/29-30) and the July memory lows; GS prime's record short-covering (8/2) absorbed;
+  the +6-20% rip followed AFTER both sellers finished.** ⇒ **The 8/3-8/4 bounce = seller exhaustion,
+  every seller now named. Also retires any residual "cockroach" read of that week: capitulation
+  COMPLETING, not beginning.** *(Analysis.)*
+- **★★★ FOR THE PRECEDENT BID — EVIDENCE BOTH WAYS, filed at equal weight:**
+  **(a) THE FINGERPRINT:** Jake's first rotation example was verbatim *"sell semis"* — documented at 20x.
+  23x buy → 20x sell inside five weeks = **the reflex's AMPLITUDE expanding** — exactly what AI-coached,
+  zero-latency execution predicts. *"Sentiment more volatile than ever"* = the amplitude series making
+  new highs.
+  **(b) THE COUNTER, the note's own trap in miniature:** this cycle the taught cohort **bought the June
+  highs (23x) and sold the July lows (20x) — procyclical, both legs wrong.** The precedent engine teaches
+  the rip and panics at the first sustained drawdown outside its sample. **T2's failure mode, early and
+  small.** *(Analysis.)*
+- **📌 THE DESTINATION PANEL IS NOW THE BEST SINGLE TEST OF THIS NOTE:** the chart shows only the semis
+  SELL leg. **The rotation thesis predicts the 20x proceeds landed in OTHER sectors that same week**
+  (gold rose $4,049→$4,145 across the window); **plain capitulation predicts cash.** 🚩 **FETCH: the same
+  retail-flow series for energy/gold/other sectors, week ended 7/30.** *(Registered.)*
+- **⚠️ Contrarian observation, one sentence with its caveat: within this chart's own two years, both flow
+  extremes marked local turns — n≈2, no validated signal, an observation only.** *(Analysis.)*
+
+**Links (this entry):** [[market-fragility]] (churn ledger) · [[ai-financing-fragility]] (SA liquidation) ·
+[[memory-regime-question]] · [[dip-buying-base-rates]]
