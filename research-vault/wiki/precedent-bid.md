@@ -66,6 +66,7 @@ of loss, the other removes the anticipation of it.
   simultaneously.** The behavioral layer is pro-cyclical in BOTH directions, like McElligott's flows one
   level down. *(Analysis.)*
 - **★★★ HOMOGENIZATION IS THE FRAGILITY FLIP SIDE OF THE SAME COIN.** Uniform precedent-lookup
+  ⟲ SUPERSEDED 2026-08-05 → precedent-bid.md:L89 — Jake's correction: the reflex ROTATES -- uniform reflex, moving target; fragility relocates to the funding, not the price
   CORRELATES responses across millions of actors. Correlated response = gaps, not grinds.
   **Jake's "resilience" and [[market-fragility]]'s thesis are one structure viewed from its two sides —
   this note does not contradict the fragility read; it supplies its mechanism.** *(Analysis.)*
@@ -85,3 +86,55 @@ of loss, the other removes the anticipation of it.
 
 **Links:** [[detachment-bid]] · [[market-fragility]] · [[dip-buying-base-rates]] · [[ai-capex-cycle]] ·
 [[metered-compute]] · [[portfolio-state]]
+
+## ⟲ AMENDMENT 2026-08-04 ~10:00pm PDT — JAKE CORRECTS THE EMPHASIS: NOT "DIP-BUYING WORKS" — **THE REFLEX ROTATES, AND THE ROTATION IS THE BROADENING**
+  ⟲ SUPERSEDES precedent-bid.md:L68 — Jake's correction: the reflex ROTATES -- uniform reflex, moving target; fragility relocates to the funding, not the price
+
+**Jake, verbatim:** *"I'm not saying buy the dip works. I'm saying people DO it. I'm saying it has evolved
+into the market broadening. Sell semis, buy the dip on oil. When oil rips, buy the dip in memory. When
+memory rips, buy gold dip etc… the market broadening in real time was [a] bull [I] never considered, let
+alone reconciled or hedged against."*
+
+**⛔ MY ORIGINAL FILING CARRIED THE WEAK VERSION (index-dip resilience). THE ACTUAL CLAIM: the AI-taught
+reflex is a cross-sector ROTATION ENGINE. Capital never leaves the market; it rotates to whatever fell
+yesterday. The rotation IS the breadth, and the breadth IS the bull.**
+
+### DATA — the vault photographed this mechanism for four straight sessions before naming it
+- **8/1:** SMH flat on **33.9pp** constituent dispersion. **8/3:** neoclouds +6-20% while AAPL/XLE/LLY red
+  on a green day, **IWM led SPY**. **8/4:** **MU +7.9 / SOXX +6.4 / AVGO +6.1 — July's wreckage bought —
+  while META/AMZN red and crude −7% into ripping equities.** **8/4 AH:** AMD −10 on a beat (the sell side).
+- Same-day narrativization: **GS chief strategist's "Great Broadening disrupting 15 years of concentration"
+  (8/4).** Same-day extreme: Callahan's NDX +945bp/4 sessions at record highs.
+- Precedent older than the participants: *"rotation is the lifeblood of a bull market"* (pre-war Street
+  saw) — **the mechanism is canonical; the SPEED (weekly round trips), the EXECUTOR (retail), and the
+  COACH (AI + auto-execution) are what is new.**
+
+### THESIS (Jake's, sharpened) + ANALYSIS (mine, labeled)
+- **★★★ THE REFINEMENT PARTIALLY DEFEATS MY OWN HOMOGENIZATION COUNTER (above): the reflex is uniform but
+  its TARGET is moving** — "the dip" de-correlates flows day-to-day; selling in one sector IS the buying
+  in another, **and gold sits INSIDE the rotation, not outside it.** *(Analysis.)*
+- **★★★ THE FRAGILITY RELOCATES, IT DOES NOT DISAPPEAR.** The correlation-1 event is not "everyone sells
+  the same asset" — it is **the day the rotation loses its FUNDING**: a margin/liquidity contraction that
+  removes the marginal dip-buyer from EVERY sector at once, because it was the same capital all along.
+  ⇒ **A LIQUIDITY trigger, not a price trigger — which is where [[market-fragility]] already locates the
+  real triggers. The bull mechanism and the fragility thesis now share one spine.** *(Analysis.)*
+- **★★★★ THE BOOK IMPLICATION, STATED PLAINLY (descriptive, rule 7): a rotation regime is the WORST
+  environment for an INDEX put.** The 745 put pays on CORRELATION; the rotation guarantees its absence —
+  every sector dip is bought before it propagates to the wrapper. **FOURTH loss channel on the put, beneath
+  delta/theta/skew, and the deepest: dispersion cancels inside the index BY CONSTRUCTION OF THE FLOW.**
+  **The vault holds a fresh corpse demonstrating it: SA died holding index puts against a churning complex
+  (the wrapper-cancellation kill, [[ai-financing-fragility]] 8/4).** **Jake's own hedge is structurally
+  SA's losing leg. The hedge that works in this regime is dispersion-aware (sector-level), not the
+  wrapper.** *(Analysis.)*
+- **⚠️ "NEVER CONSIDERED" is true of this vault and of Jake's framework — not of markets** (the lifeblood
+  saw). The honest novelty claim is the FORM: speed + retail execution + AI coaching. *(Analysis.)*
+
+### 📌 TESTS, REVISED (both buildable in one cell)
+- **T1′ — SECTOR dip half-life** (−5% sector-ETF drawdowns, days to recover, by year): the rotation thesis
+  predicts post-2023 compression at the SECTOR level even where the index shows nothing.
+- **T4 — THE ROTATION SIGNATURE: average pairwise correlation across sector ETFs FALLING while index
+  realized vol compresses and constituent vol stays high.** This is the 8/1 GS vol-desk observation
+  ("vol compression") re-explained — one cell measures both. **Rising pairwise correlation + rising index
+  vol = the funding event beginning = T2's trigger form.**
+
+**Links (added):** [[market-fragility]] · [[ai-financing-fragility]] (SA wrapper kill) · [[portfolio-state]]
