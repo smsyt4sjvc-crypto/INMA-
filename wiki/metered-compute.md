@@ -1614,3 +1614,83 @@ DeepSeek V4 Flash  $0.28      (Kimi K3, Gemini 3.6 Flash, Grok 4.5 unpriced in t
 
 ### Sources
 - Axios, Zachary Basu + Madison Mills, 2026-07-31 — Jake paste 2026-08-01 ~9:28am PDT
+
+## 2026-08-04 ~6:15pm PDT — ★★★★ THE TOKEN COST CHART + JEVONS: the registered −80%/5x test IS the elasticity-1 Jevons threshold, and the index is its scoreboard
+
+Source: **"Silicon Data LLM Token Expenditure Index — Last Price 1.2901"** (chart, Jake upload; Dec 2025 →
+early Aug 2026) → `raw/silicon-data-token-expenditure-index-2026-08-04.png` · **BBG note (Jake paste):
+Doug Anmuth (JPM) asks about computing deals; Musk answers in "intelligence per watt."** · **Jake:
+*"So Jevons [winning] the token battle against efficiency['s] token cost crush."***
+**FIRST-USE:** Jevons paradox = efficiency gains RAISING total consumption of a resource (Jevons, coal, 1865);
+IR = investor relations.
+
+### DATA (chart read — clean image, low density)
+| point | level |
+|---|---|
+| Dec 2025 base | ~1.00 |
+| Mid-Jan peak | ~1.80 (+80% in ~6 wks) |
+| Feb trough | ~1.28 |
+| **Mid-May peak** | **~2.05 (+105% from Dec)** |
+| **Last (print)** | **1.2901 — −37% from May, back to the Feb floor** |
+- Two full ±40-80% cycles in eight months.
+- Musk's "intelligence per watt" offered to a sell-side analyst ON AN EARNINGS CALL (BBG).
+
+### ⚠️ THE LOAD-BEARING DEFINITIONAL FORK — UNRESOLVED
+**"Expenditure Index" can be (a) COST TO COMPLETE A FIXED BASKET (CPI-style price index — the likely
+reading; Silicon Data's other products are price indices) or (b) TOTAL SPEND (price × volume).**
+**Opposite implications: (a) falling = deflation; (b) falling = demand contraction (anti-thesis).**
+**🚩 RESOLVER: Silicon Data methodology page — one-shot external pull, registered for the next handoff.**
+**Everything below assumes (a), labeled.**
+
+### THESIS (interpretation — NOT fact)
+- **★★★★ THE UNIFICATION (exact, not rhetorical): the standing test at L1498 — "−80% needs >5x volume" —
+  is PRECISELY the elasticity-1 boundary** (P×0.2, Q×5 ⇒ PQ×1.0; arc elasticity = 1.0). **Elasticity >1 =
+  Jevons regime (efficiency grows total spend); <1 = saturation (efficiency shrinks it). The registered
+  metered-compute test, this chart, and the 1865 coal paradox are one question in three costumes.**
+  *(Analysis.)*
+- **★★★ THE PRECISION ON JAKE'S FRAME: efficiency is not Jevons' opponent — it is the TRIGGER.** The fight
+  is between two RESPONSES to the cost crush: consumption exploding faster than price falls (Jevons) vs
+  demand saturating. **Under reading (a): Dec→May +105% = Jevons winning at the INTENSIVE margin —
+  tokens-per-task (reasoning chains, agent loops) grew faster than per-token prices fell, and those
+  workloads exist BECAUSE tokens got cheap. May→now −37% = the crush ahead on points** (price war
+  transmitting — the late-July slope steepens where DeepSeek V4 Flash and Google's same-day match land —
+  and/or routing to cheap models, and/or token-efficiency gains; the index cannot separate the three).
+  *(Analysis. Jake's thesis, named properly.)*
+- **★★★ THE BASE RATE IS THE STRONGEST ARGUMENT FOR THE THESIS: computing is the canonical 70-year Jevons
+  regime.** Cost per unit of compute fell ~10 orders of magnitude since the 1950s; total compute spend rose
+  the entire time. **If tokens are compute, the prior sits heavily on elasticity >1.** Every capex guide,
+  Altman's stated volume bet, and Huang's "the more you buy, the more you save" are underwritten by it;
+  the premium holdout is a bet on segmentation instead. *(Analysis.)*
+- **★★★★ THE CAVEAT THAT KEEPS THIS FROM BECOMING A COMFORT BLANKET: JEVONS PROTECTS THE COMMODITY'S
+  DEMAND AND HAS NEVER PROTECTED A SUPPLIER.** Compute spend rose for seventy years while mainframes,
+  minis, and each incumbent generation were destroyed inside the rising total. **Jevons is the BRIDGE
+  between this note (aggregate demand grows) and [[compression-thesis]] (who captures it, at what margin) —
+  SanDisk went −47% in July inside a Jevons regime. Both can be true forever.** *(Analysis.)*
+- **★★★ WHAT THE INDEX CANNOT SEE: the EXTENSIVE margin.** A fixed-basket index is structurally blind to
+  task COUNT — CPI does not measure whether people drive more when gas gets cheap. **⇒ The −37% decline is
+  NOT evidence against Jevons: if cheaper tasks spawn proportionally more tasks, total spend rises through
+  the falling line.** The missing volume series is the registered test's missing leg, unchanged. *(Analysis.)*
+- **★★ "INTELLIGENCE PER WATT" ENTERING IR VOCABULARY IS METRIC SELECTION AS ARGUMENT** — a ratio moves
+  from engineering keynotes to earnings calls when management wants to be graded on it, and a per-watt
+  scoreboard favours an asset mix built on energy access (Colossus power deals, an orbital payload whose
+  pitch is 24/7 solar) over a per-dollar scoreboard (the same call disclosed −$1.26B/qtr op loss).
+  **True of every CEO and every metric; priced as an argument, not a datum.** Huang's tokens-per-watt
+  precedes it by two years — Jake is right that it is not new. *(Analysis.)*
+- **★★★ THE JEVONS DASHBOARD (the regime test, and it is a real TRIGGER for once):** falling unit cost
+  (this index) **PLUS** any rising volume proxy (hyperscaler token disclosures, capex guides, GPU units,
+  data-centre watts) = **regime intact**. Falling cost + FLATTENING total spend = **the crossover — the
+  actual top-caller for the capex cycle.** The only vault datapoint gesturing at crossover: Anthropic ARR
+  *"growth beginning to slow"* (7/23) — one company, one phrase. *(Analysis. Dated, falsifiable, unlike
+  every "late-cycle" state.)*
+- **★ THE INDEX EXISTING IS ITSELF THE UTILITY-IZATION EVIDENCE** (Jake's "at the utility level"):
+  commodities get indices when they standardize; indices → benchmark-priced contracts → hedges. **The
+  settlement-toll thread's unit of account is being built. And it trades like wildcat-era natural gas
+  (±40-80% cycles), not like a regulated utility — the financialization stage, not the mature one.**
+  *(Analysis.)*
+
+**Links:** [[compression-thesis]] · [[ai-capex-cycle]] · [[cepi]] · [[power-not-petroleum]] ·
+[[agentic-payments]] · [[ai-financing-fragility]]
+
+### Sources
+- Silicon Data LLM Token Expenditure Index chart — Jake upload 2026-08-04 ~6:10pm PDT → `raw/`
+- BBG earnings-call note (Anmuth/Musk "intelligence per watt") — Jake paste, same time
