@@ -3378,3 +3378,27 @@ EO = executive order; SPR = Strategic Petroleum Reserve.
   hinge of the whole oil-suppression thesis. *(Analysis.)*
 
 **Links:** [[war-board]] · [[oil-value-chain]] · [[buildout-bottleneck-map]] · [[new-economy-regime]]
+
+## 2026-08-05 ~8:40am PDT — ★★★ SPR 3.05 MILLION BARRELS — the registered "SPR empty" line gets its terminal number, and the jawboning-only regime starts on a countdown
+
+Source: EIA weekly via Jake paste (~8:15am ET data). **FIRST-USE:** SPR = Strategic Petroleum Reserve.
+
+### DATA (as-reported)
+- **SPR 3.05MM barrels, −2.8MM on the week — "lowest since Feb 1983."** Capacity ~714MM ⇒ **≈4 HOURS of
+  US consumption (~20MM b/d). Operationally ZERO, and still draining: literal zero in ~1 week at this pace.**
+- Commercial: **crude +2.479MM** (exp −1.5MM) · gasoline −1.643MM · **distillates −3.473MM** · Cushing
+  +2.356MM (*"just off tank bottoms"* — rebuilding from operational minimum).
+- **US imports of Mexican crude +160% (EIA)** — the physical system rerouting around the Gulf.
+
+### THESIS (interpretation — NOT fact)
+- **★★★ THE 7/10 REGISTERED READ (L70) NOW HAS A NUMBER, A DATE, AND A COUNTDOWN:** *"with the SPR empty,
+  jawboning Iran is the cheapest suppression tool left."* **The physical tool exhausts NEXT WEEK,
+  mechanically.** *(The 8/2 open item — dating the exhaustion — resolves: it is NOW.)*
+- **★★★★ THE SYNTHESIS WITH MONDAY'S MUNITIONS LEAK: BOTH PHYSICAL ARSENALS — BARRELS AND ORDNANCE — ARE
+  EXHAUSTED SIMULTANEOUSLY.** Everything the administration holds on both boards is words and deals.
+  ⇒ **The cleanest explanation on record for the deal-push timing** (Bessent "today or tomorrow," the
+  "Wednesday announcement"): **the urgency is INVENTORY-DRIVEN.** → [[war/war-board]] *(Analysis.)*
+- **★ The commercial internals cut against demand-panic:** big product draws = refiners pulling hard;
+  the crude build is a supply/import story, not a demand collapse. *(Analysis.)*
+
+**Links:** [[war/war-board]] · [[oil-value-chain]] · [[new-economy-regime]] (the six levers)
