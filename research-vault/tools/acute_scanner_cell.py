@@ -190,7 +190,13 @@ THREADS = {
  'BLACK SEA': ['cpc','caspian pipeline','novorossiysk','tengiz','kashagan','karachaganak',
                'kazakh','kazakhstan','black sea','primorsk','ust-luga','druzhba','ceyhan'],
  'INVENTORY': ['spr','cushing','strategic petroleum','crude draw','crude build','tank bottoms'],
- 'FED':       ['warsh','term premium','forward guidance','steepen','core cpi','supply shock','dissent'],
+ # GAP #10 (2026-08-05): "market no longer expects September hike, 47% from 70%" returned NO
+ # MATCH. The FED keywords covered the COMMENTARY layer (warsh, term premium, dissent) and had
+ # NOTHING for the CALL's own subject — the vault's primary registered prediction (hike before
+ # December) was unreachable by the words that describe it.
+ 'FED':       ['warsh','term premium','forward guidance','steepen','core cpi','supply shock','dissent',
+               'rate hike','rate cut','rate pause','rate decision','fomc','fed funds','fedwatch',
+               'hike odds','basis point','powell','hawkish','dovish','fed meeting','rate expectations'],
  'MODEL-ECON':['open-weight','open weight','routing layer','per-token','inference cost','agentic'],
  # AI-POLICY — added 7/31 after the router returned NO THREAD MATCHED on a Trump/Huang
  # clip about export controls and beating China. The vault had FOUR live threads on this
