@@ -30,6 +30,7 @@ blackmail-scenario disclosure cycle, May 2025, was the genre's biggest press eve
      The selection effect is the tell: escape stories are only ever told about models marketed as
      frontier.
   2. **LIABILITY FRONT-RUNNING (real; explains the DISCLOSURE, not the AMPLIFICATION).** Duty-of-care
+    ⟲ SUPERSEDED 2026-08-05 → danger-disclosure-playbook.md:L79 — Jake 8/5: liability upgraded from disclosure-as-cover (secondary) to culpability-accumulation forcing the shield regime (co-primary)
      record (tested/warned/mitigated) + socializing the risk class (industry-wide behavior ≠ your
      defect). Meta adds a securities texture: public-company material-risk disclosure. The system card
      serves liability; the press cycle serves #1.
@@ -67,3 +68,47 @@ blackmail-scenario disclosure cycle, May 2025, was the genre's biggest press eve
 - Jake question 2026-08-05 ~3:25pm PDT (Meta item referenced, unread — 🚩 paste wanted)
 - Vault: ai-evaluation-framework.md (EO 14409 ledger); genre precedents from model training corpus
   (pre-2026, labeled)
+
+## ⟲ AMENDMENT 2026-08-05 ~3:40pm PDT — ⛔ JAKE'S PUSHBACK UPGRADES THE LIABILITY ANGLE, AND HE IS RIGHT: DISCLOSURE ACCUMULATES CULPABILITY, IT DOES NOT SHELTER FROM IT
+
+**Jake (verbatim intent):** *"I think you're dismissing the liability angle too easily. If they genuinely
+think constraints are needed, and these models genuinely pose a threat to [connected] systems — the
+letter from Huang, the public discourse about the ability to hack — they're laying the foundation to be
+culpable."*
+
+**⛔ CONCEDED. The original entry graded liability in its WEAKEST form (disclosure-as-cover) and ranked
+it secondary. The stronger form inverts the sign:**
+  ⟲ SUPERSEDES danger-disclosure-playbook.md:L32 — Jake 8/5: liability upgraded from disclosure-as-cover (secondary) to culpability-accumulation forcing the shield regime (co-primary)
+
+- **★★★ THE CULPABILITY INVERSION.** Under product-liability doctrine, documented knowledge of a hazard
+  + continued shipping is not the defense — **it is the punitive-damages fact pattern** (the Pinto memo,
+  tobacco's internal research: the company's own documentation becomes the plaintiff's Exhibit A).
+  A jury does not hear "responsible disclosure"; it hears *"they announced the model could hack systems,
+  then sold it."* **Every escape announcement is scienter, self-published.** The Huang letter and the
+  whole public hack-capability discourse ([[metered-compute]] pacing-letter thread) put INDUSTRY-WIDE
+  knowledge on the record — foreseeability established by the defendants, collectively.
+- **★★★ AND THERE IS NO SHIELD TO STAND UNDER — WHICH FUSES HYPOTHESES #2 AND #3.** No Section-230
+  analog exists for AI; the EO is voluntary, anti-mandate, non-preemptive. **The industry is generating
+  scienter into a statutory vacuum. The only exit is a federal regime whose compliance becomes the
+  defense** (state-of-the-art defense + eventual preemption of state tort/AI suits — the 'preempt'
+  discourse the AI-POLICY thread already tracks). ⇒ **The culpability accumulation IS the lobbying:
+  it makes the gate-regime legally NECESSARY for everyone who has been disclosing.** They are not
+  choosing between liability management and regulatory capture — the first forces the second.
+- **★★★ THE RACE FINALLY GETS ITS DEADLINE (the original entry explained crowding, not urgency).** The
+  norm-cascade explains why disclosure spreads; **Jake's frame explains why it is a RACE: the clock is
+  the first major AI-attributed breach.** Pre-incident disclosure reads as responsibility; post-incident
+  disclosure reads as cover-up. **Everyone needs their record established before an event whose date
+  nobody knows.** *(Analysis; this supersedes the entry's norm-cascade line as the primary race
+  mechanism — cascade demoted to amplifier.)*
+- **★★ THE SINCERITY PREMISE CUTS DEEPEST AT THE SINCERE LAB (conflict flag, again, my maker):** the
+  more detailed and convincing a lab's threat assessment, the more complete its self-published
+  admission record when it ships anyway. **Vague marketing-grade disclosures are legally cheap; sincere
+  detailed ones are expensive.** The lab that most believes the risk builds the strongest case against
+  itself — unless the shield arrives. *(Analysis.)*
+- **⛔ AND MY RUBRIC-ITEM-4 FACT ("costly restraint base rate nearly empty") DOES NOT DISCRIMINATE THE
+  WAY I USED IT.** Shipping-despite-documented-danger is predicted by BOTH the marketing read AND the
+  scienter-accumulation read. **What discriminates is SHIELD-SEEKING: 🚩 REGISTERED TEST — watch for
+  lab lobbying for safe-harbor/preemption tied to framework compliance** (F17/F20 channels, the 8/4
+  meeting's outputs, comment letters). **Marketing-read labs are indifferent to shields; Jake's-read
+  labs push hard for them.** Secondary discriminator: mitigation documentation attached to disclosures
+  (patches, capability restrictions — what actually discharges duty) vs bare capability announcements.
