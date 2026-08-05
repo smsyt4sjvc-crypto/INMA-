@@ -2428,3 +2428,51 @@ the Treasuries NEVER HIT THE MARKET."* MECHANISM CONFIRMED, FACILITY NAMED.**
   words.** *(Analysis.)*
 
 **Links:** [[ai-financing-fragility]] · [[demand-destruction]] · [[market-fragility]] · [[ai-capex-cycle]]
+
+## 2026-08-05 ~12:55am PDT — ★★★ YIELD-EQUITY CORRELATION −0.48, REPORTED MOST NEGATIVE SINCE 1999 — the fiscal-dominance signature in cross-asset form, and the transmission coefficient of the whole Bessent program
+
+Source: **unattributed correlation digest (Jake paste ~12:50am).** Claims: 90-day correlation of 10Y yield
+vs S&P 500 = **−0.48**, most negative since 1999; more negative than 2022's −0.42; positive for the decade
+pre-2020. ⚠️ **Figures UNVERIFIED; presumably daily-change correlation (levels would trend-contaminate).
+Computable exactly — T5 below.**
+**FIRST-USE:** 60/40 = the stock/bond balanced-portfolio convention.
+
+### DATA (as-reported, labeled)
+- 90d corr(Δ10Y yield, SPX) = **−0.48** · 2022 low −0.42 · most negative since **1999** · positive
+  2010-2020. *(All as-reported, unverified.)*
+- Vault-held context: **30Y +28bp vs 2Y +3bp over six weeks** (the curve decomposition) · Monday: crude −7%
+  → 10Y 4.74→4.63 → **S&P first record close since June**.
+
+### THESIS (interpretation — NOT fact)
+- **★★★ THE DIGEST BURIES ITS OWN HEADLINE: negative yield-stock correlation = POSITIVE stock/bond-PRICE
+  correlation ⇒ BONDS AMPLIFY EQUITY RISK RATHER THAN HEDGING IT.** The pre-2020 regime it describes is
+  the one where 60/40 worked. At −0.48 there is no diversifier in the pair — the bond market is
+  TRANSMISSION, not refuge. *(Analysis.)*
+- **★★★ THE VAULT'S CURVE DECOMPOSITION SHARPENS THE ATTRIBUTION THE DIGEST LUMPS.** "Inflation
+  uncertainty AND fiscal concerns" are different regimes. **30Y +28 / 2Y +3 = the rises are TERM PREMIUM
+  (supply/fiscal/flows), not inflation expectations** ⇒ **−0.48 is the FISCAL-DOMINANCE SIGNATURE in
+  cross-asset form: rising yields with no growth offset, pure discount-rate pain.** Breakevens
+  (T5YIE/T10YIE, open since 8/3) remain the formal decider; the curve has voted. *(Analysis.)*
+- **★★★★ IT EXPLAINS THE ADMINISTRATION'S PROGRAM IN ONE NUMBER.** Six Bessent levers aim at the long end
+  (yen, Hormuz timeline, FIMA, balance-sheet encouragement, bills-over-coupons, jawboning). **At −0.48,
+  managing the long end IS managing the equity market** — Monday's record close ran crude→yields→SPX
+  through exactly this channel. **−0.48 is the transmission coefficient of the policy apparatus this note
+  has documented for a week.** *(Analysis.)*
+- **★★★ THE BOOK: THE FIRST REGIME FINDING THIS WEEK THAT RUNS TOWARD THE 745 PUT.** In this regime the
+  thing that breaks stocks is a YIELD SPIKE ⇒ **the put's trigger has an address (the long end) and a
+  calendar (today's auction-size test: coupons flat + a 30Y selloff anyway = the problem Treasury cannot
+  fix — and at −0.48 it transmits straight into SPX).** **Joins [[precedent-bid]]'s amendment: the
+  rotation's funding shock and the put's payoff event are plausibly the SAME event.** *(Analysis,
+  descriptive per rule 7.)*
+- **⚠️ DISCIPLINES: STATE, NOT TRIGGER** — 1999's reading preceded the top by ~a year. **MAGNITUDE:**
+  2022's −0.42 came with a 500bp cycle; a 25bp gesture is not 2022 — the correlation sets the SIGN of
+  transmission, the yield move sets the SIZE. **SOURCE:** unattributed; verify before citing the specific
+  values. *(Analysis.)*
+
+### 📌 T5 — THE REGIME DIAL (fold into the T4 cell; same data pull)
+**Rolling 90d correlation of Δ(10Y yield) vs SPX daily returns.** One cell then reads BOTH dials governing
+the put: **T4 (rotation signature: pairwise sector corr ↓ + index vol ↓ + constituent vol high)** and
+**T5 (transmission: yield-stock corr).** **T5 near −0.5 + T4 inverting = the funding event arriving through
+the long end — the configuration the put exists for.**
+
+**Links:** [[market-fragility]] · [[portfolio-state]] · [[precedent-bid]] · [[ai-financing-fragility]]
