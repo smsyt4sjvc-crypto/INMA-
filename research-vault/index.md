@@ -59,6 +59,8 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 - [[fragility-engine]] — "the brain" (the score)
 - [[new-economy-regime]] — the macro-DB read
 - [[detachment-bid]] — the standing bull vector
+- [[precedent-bid]] — **bull vector #2 (Jake, 8/4/26 personal note): AI compressed the learning curve →
+  precedent-on-demand + instant control = taught dip-buying = the V-shaped "resilience."** Counterpart to detachment-bid.
 - [[bull-bear-ledger]] — the whole debate, counted honestly (+ the mechanical-bid & VRP studies)
 - [[buying-at-highs]] — the ATH framework
 - [[ath-clustering]] — do all-time-high clustering/spacing/droughts predict?
