@@ -1044,6 +1044,7 @@ Source: scanner digest (`raw/2026-07-16-scanner-digest-eve.md`).
   printing. The easing mechanism is directionally LOSING right now (a warning, not yet a verdict — one day).
 
 ### 2026-07-17 ~11:50pm PT — Labor market FREEZING (JOLTS-vs-hiring); a viral "cover-up" claim, filtered
+  ⟲ SUPERSEDED 2026-08-05 → new-economy-regime.md:L2487 — 8/4 Irwin/BLS reversed the freeze frame: hires ROSE 96k, openings fell because FILLED; wiki record completed 8/5
 Source: **Jake's OWN post** (revealed 7/17 — "that's me, it was a post lol"; originally logged as a viral
 paste). Numbers CLAIMED, NOT independently verified here. Logging the STRUCTURE + the real signal. NOTE: the
 stock/flow correction below stands regardless of author — the analysis was run blind before attribution.
@@ -2483,3 +2484,46 @@ mortgage rates follow → housing demand prints down (30Y sat ~5.18% at the 8/4 
 **Demand-side rate sensitivity ALIVE = a dovish-leg input for Friday's payroll ledger, in tension with
 Prices Paid 70.3 — the two-sided configuration again.** Content unfetched; headline class. *(Axios via
 Jake, source stamp ~10:10am PDT.)*
+
+### 2026-08-05 ~12:55pm PDT — JUNE JOLTS, THE COMPLETE RECORD: the breakdown names WHO stopped posting — and the paste's own ratio line contradicts its own conclusion
+  ⟲ SUPERSEDES new-economy-regime.md:L1046 — 8/4 Irwin/BLS reversed the freeze frame: hires ROSE 96k, openings fell because FILLED; wiki record completed 8/5
+
+**Third pass over one print** (first paste 8/4 → frozen-read ⛔ dead in 40 min → Irwin correction 8/4 →
+this breakdown). Filed to the wiki now because the 8/4 reversal lived only in the chat log while the
+7/17 "FREEZING" header above still read live — the exact amend-debt STEP ZERO-B exists for.
+
+#### DATA (observed — Kobeissi-style paste + ZH chart, Jake ~12:50pm PDT; JOLTS June, BLS release 8/4)
+- **Openings −178k to 7.36M** (lowest since March); 2nd consecutive decline, **−226k cumulative.**
+- **Named decliners — ALL SERVICES: private education & health −133k · leisure & hospitality −86k ·
+  wholesale trade −74k · professional & business services −71k. Named sum = −364k vs net −178k ⇒ the
+  UNNAMED industries ADDED ~+186k openings** *(arithmetic residual; the paste omits the gainers).*
+- **Vacancies exceed unemployed by 265k — 2nd-largest gap since Jan 2025. Openings/unemployed = 1.0 —
+  "highest since January 2025."** ⇒ implied unemployed ≈ **7.095M**; implied unemployment rate ≈
+  **~4.16%** *(derived: ~170.7M labor force — labelled derived).*
+- **Chart** (`raw/jolts-june-2026-openings-chart-zh.png`, ZH): 7.36M sits at the **2018-19 normal
+  (~7.0-7.5M)** after the descent from the 12.0M 2022 peak; **2024-2026 is a ~7M plateau — "lowest
+  since March" is a wiggle inside it**, and the two declines follow two ~+700k monthly gains.
+- Editorial line, logged as editorial: *"The labor market is becoming increasingly unstable."*
+- **★ STANDING (8/4 Irwin/BLS — formally filed here from the chat log): HIRES ROSE 96k** ("essentially
+  unchanged" in the first-pass paste was wrong); hires/opening 0.690→0.720; **construction hires rate
+  3.4→3.9%, durables 2.2→2.7%. Openings fell because they were FILLED.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★ THE PASTE'S LAST DATA LINE CONTRADICTS ITS OWN CONCLUSION.** Openings at a 3-month low WITH
+  the openings-per-unemployed ratio at a **19-month HIGH** means the unemployed count fell FASTER than
+  openings — **the tightness metrics moved TIGHTER while the level fell.** "Increasingly unstable"
+  read as *weakening* is not what these numbers say; what they support is **BIFURCATING** — all four
+  named decliners are services; the +186k residual sits elsewhere — the ISM composition finding
+  ([[ai-capex-cycle]] L2111) in the openings data. **Numbers-vs-adverbs fires on "unstable."** *(Analysis.)*
+- **★★★ THE ONE GENUINELY NEW, FRIDAY-RELEVANT FACT: EDUCATION & HEALTH −133k IS THE LARGEST
+  DECLINER — the sector that has carried the payroll headline for two years.** Its openings rolling
+  over two consecutive months is the first forward-looking crack in the engine that makes the monthly
+  number. **⇒ ARMS the Friday trigger's MISS leg (payrolls below consensus). The U-RATE leg (4.3%+)
+  stays the hard one: from implied ~4.16%, July needs unemployed +~250k — a real deterioration, not
+  drift.** *(Analysis; trigger registered at [[../predictions/2026-07-30-fed-hike-before-december]].)*
+- **⚠️ MEASURE DISCIPLINE:** openings (STOCK, June) ≠ hires (FLOW, June) ≠ payrolls (July, prints
+  Friday). The +186k openings residual and the 8/4 construction/durables HIRES-RATE gains point the
+  same direction but are different measures — corroborating, not identical. **Third pass, no call
+  movement: WARNING-vs-TRIGGER — this print is a state; Friday is the trigger. 65/70 unchanged.**
+
+**Links:** [[ai-capex-cycle]] · [[market-fragility]] · [[../predictions/2026-07-30-fed-hike-before-december]]
