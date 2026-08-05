@@ -2476,3 +2476,10 @@ the put: **T4 (rotation signature: pairwise sector corr ↓ + index vol ↓ + co
 the long end — the configuration the put exists for.**
 
 **Links:** [[market-fragility]] · [[portfolio-state]] · [[precedent-bid]] · [[ai-financing-fragility]]
+
+### 📌 2026-08-05 ~10:50am PDT — TRANSMISSION LEDGER: mortgage applications fall as rates spike (Axios, headline only)
+Filed because it is the −0.48 regime's real-economy leg arriving on schedule: long end sells off →
+mortgage rates follow → housing demand prints down (30Y sat ~5.18% at the 8/4 refunding handoff).
+**Demand-side rate sensitivity ALIVE = a dovish-leg input for Friday's payroll ledger, in tension with
+Prices Paid 70.3 — the two-sided configuration again.** Content unfetched; headline class. *(Axios via
+Jake, source stamp ~10:10am PDT.)*
