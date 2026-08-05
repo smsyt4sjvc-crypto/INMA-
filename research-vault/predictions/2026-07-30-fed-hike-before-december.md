@@ -531,3 +531,40 @@ produce bare boards.** The counterargument is 2021-22 — they looked through it
 "we were burned last time" is a LESSON, not a MECHANISM, and I must not let it do a mechanism's work.**
 
 **⇒ 65% before December / 70% inside the put's life. UNCHANGED. Wednesday can move it DOWN.**
+
+---
+
+## 2026-08-05 ~8:35am PDT — 📌 THE DOWNWARD TRIGGER GRADED: **PARTIAL FIRE, OFFSET. 65% / 70% HOLD.** And KASHKARI — A CONFIRMED 2026 VOTER — CALLS FOR HIKES ON THE RECORD.
+
+### THE REGISTERED TEST (8/3): ISM Services — broad beat ⇒ intact; bifurcated/narrow ⇒ DOWN; the split is the test
+**PRINTED:** headline **54.1** (exp 54.5, GS 55.0 — MISS; last 54.0 flat) · **Employment 47.4** (exp 51.2 —
+**CONTRACTION**) · **Prices Paid 70.3** (exp 65.0 — **massive beat; BOTH surveys now >70**) · New Orders
+57.2 (exp 55.9, beat). Same morning: **ADP +44k vs ~65-75k.**
+- **FIRED (downward):** the "broad beat" leg did NOT print; the hot-economy leg is weaker than it looked —
+  outright softness, not even the bifurcation the test anticipated. **The demand leg exits the hawkish case.**
+- **OFFSET (upward, same morning):** services Prices Paid +5.3 vs expectations; the mix is STAGFLATIONARY
+  (activity flat, employment contracting, prices ripping in both sectors) — and REVISION 5's load-bearing
+  legs were never ISM demand (the 2Y, operations, market pricing, price mechanisms). **Symmetry with the
+  8/3 refusal to revise UP on the manufacturing beat.**
+- ⚠️ **INCOMPLETE: the test's specific input — the industry expanding/contracting ROSTER — is not yet in
+  hand.** The bifurcation question stays open until it arrives.
+**⇒ RULING: 65% before December / 70% inside the put's life — UNCHANGED. Evidence moved BOTH directions
+and the number moved neither. The registered structure worked.**
+
+### ★★★ KASHKARI (NBC, on record): "NOW IS TIME TO START SLOWLY MOVING UP RATES" + "WARSH TOLD ME TO DO WHAT I THINK IS RIGHT FOR ECONOMY"
+- **✅ 5-DAY-OLD OPEN ITEM CLOSED (web search, Econoday/Briefing/fiisual): the 2026 rotating voters are
+  LOGAN (Dallas), HAMMACK (Cleveland), KASHKARI (Minneapolis), PAULSON (Philadelphia) — three of four
+  hawkish-leaning. KASHKARI VOTES.** *(Musalem does NOT rotate in — the 7/31 question answered.)*
+- **THE MESSENGER IS THE SIGNAL: the committee's decade-long arch-dove — the 2017 serial dissenter AGAINST
+  hikes — saying "time to move up."** The dove capitulating outweighs a third hawk repeating himself.
+- **THE WARSH LINE CONFIRMS THE DOCTRINE FROM INSIDE** (no coordination, everyone speaks for himself) —
+  which makes this GENUINE INDIVIDUAL CONVICTION, not chair-blessed signaling: weaker as guidance,
+  **stronger as a vote count. On-record hike camp: Logan, Hammack, Kashkari = three votes public before
+  September, market ~60%.** **Argues 65% is TOO LOW — logged as upward evidence, absorbed into today's
+  offset rather than moved on, pending FRIDAY.**
+
+### 📌 FRIDAY IS NOW THE LIVE DECIDER, ARMED DOVISH
+ADP +44k + services employment 47.4 raise the odds the registered Friday test fires (**unemployment 4.3%+
+AND payrolls below consensus ⇒ revise DOWN**). GS's own forecast satisfies both legs. **If Friday fires
+dovish, the call comes down despite Kashkari; if labor holds, Kashkari + prices >70 in both surveys argue
+the next move is UP from 65.**

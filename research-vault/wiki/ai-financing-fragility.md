@@ -3169,3 +3169,12 @@ Bonita recoveries.**
 - `raw/ai-private-capital-field-report-2026-08-04.docx` (+ extracted .txt) — Jake upload 2026-08-04 ~12pm PDT
 - Report's own register S1-S50, incl. FT 2026-08-04 (S12), Meta 10-Q Jun 30 (S10), Alphabet 10-Q (S13),
   Amazon 10-Q Mar 31 (S16), SA 13F (S5/S6), BDC tender filings (S31-S35, S45-S46)
+
+### 2026-08-05 ~8:40am PDT — EISEN'S $3T: the do-not-add error at broadcast scale — and the mainstreaming IS the datum
+- **CNBC (Sara Eisen, on air): hyperscaler off-balance-sheet obligations "$3 trillion."** ⛔ **This is the
+  summed-total arithmetic F1 RETIRED yesterday under the field report's measurement rule** — a lease backs
+  SPV debt whose revenue is the cloud commitment; one obligation, counted three times. **The number is
+  unsound; the architecture is real.**
+- **★★ THE DATUM IS THE MAINSTREAMING:** footnotes → FT (8/4) → field report (8/4) → daytime television
+  (8/5) in one week. Same signal class as Bernstein publishing the magnet thesis: **the discovery phase of
+  the off-balance-sheet story is over.** *(Analysis.)*

@@ -1307,3 +1307,16 @@ Axios *"ANNOUNCEMENT Wednesday."* An announcement is words; **the registered ref
 transit count vs ~140/day** — and Iran's same-morning Press TV rejection (Oman "intermediate corridor,"
 Iran sovereign over inbound) stands against the framing. **Wednesday's test #3 now has a claimed
 deliverable to grade.** *(Source: tweet-relayed Axios headline, 23K views, timestamp 7:21pm 8/4.)*
+
+### 📌 LEDGER 2026-08-05 ~8:40am PDT — TEST #3 GRADES: **IRAN'S FM CONFIRMS THE OMAN ROUTE — the corridor printed, not the US deal**
+- **"IRAN FOREIGN MINISTRY SAYS AGREED ON SHIPPING ROUTE WITH OMAN."** The Press TV corridor account
+  (8/4, *"informed source"*) is now **ministry-level, on the record — a full evidence rung up.** What
+  Iran confirmed is an agreement **WITH OMAN, not with the US.**
+- **The claimed Wednesday deliverable (Trump/Bessent "US deal") vs what printed:** either **(a)** the US
+  "deal" IS this corridor rebranded — hypothesis-A behavior, the words — or **(b)** a separate US
+  announcement is still pending today. **Referee unchanged: the transit count vs ~140/day; an administered
+  corridor settles well below it.** WTI "maintains losses" = the market pricing barrels returning
+  through it.
+- **F18's toll-gate equilibrium now carries: ministry confirmation + a munitions constraint preventing
+  contest + the SPR at terminal (see [[demand-destruction]] 8/5) ⇒ the administered strait is the
+  equilibrium BY CAPABILITY on both sides.**
