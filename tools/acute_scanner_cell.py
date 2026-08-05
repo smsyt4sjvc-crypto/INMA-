@@ -174,9 +174,14 @@ THREADS = {
                'chip shortage'],
  'SEMIS':     ['wafer','foundr','lithograph','advanced packaging','chip capex'],
  'CAPEX':     ['capex','capital expenditure','data center','data centre','hyperscaler',
-               'off-balance','uncommenced','not commenced','depreciation'],
+               'off-balance','uncommenced','not commenced','depreciation',
+               'spacex','spcx','starlink'],   # gap #11: the vault's own ★★★★ filer had no name keyword
+ # GAP #11 (2026-08-05): "SpaceX next tranche eligible shares release" returned NO MATCH while
+ # the vault held a ★★★★ SpaceX mega-entry — reachable only through generic capex words. Company
+ # names of vault-tracked filers + supply-mechanics terms (lockup/tender/unlock) had no keywords.
  'FINANCING': ['credit default','cds','private credit','bdc','spv','neocloud','coreweave',
-               'nebius','free cash flow','bond sale','off balance sheet'],
+               'nebius','free cash flow','bond sale','off balance sheet',
+               'lockup','lock-up','tender offer','share unlock','secondary sale','follow-on'],
  'POWER':     ['pjm','curtail','grid emergency','turbine','interconnection','smr',
                'behind-the-meter','ofgem','grid access','connection queue','commitment fee',
                'grid operator','transmission'],

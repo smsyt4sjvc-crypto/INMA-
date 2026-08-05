@@ -2257,3 +2257,70 @@ REPORTED pending the press release.**
   accusation.)*
 
 **Links:** [[power-not-petroleum]] · [[buildout-bottleneck-map]] · [[ai-financing-fragility]] · [[cepi]]
+
+### Addendum 2026-08-05 ~12:45pm PDT — ⛔ SPACEX IS A PUBLIC COMPANY, AND THE 8/4 TABLE WAS ITS FIRST EARNINGS REPORT — the tell was the ticker in the vault's own confirming quote
+
+**Jake's Q ("next tranche of eligible private investors shares release?") forced the search that caught
+this.**
+
+**DATA (web search 2026-08-05 ~12:40pm PDT — secondary/aggregator tier, prospectus-shaped, NOT verified
+against the 424B4):**
+- **SpaceX IPO'd June 11-12, 2026 (sources differ by a day): 555.6M new Class A at $135 = ~$75.0B raised
+  (arithmetic checks: 555.6M × 135 = $75.006B), reported as the largest IPO in history; valuation
+  ~$1.8T at pricing; now ~$1.98T (~$149/sh implied on ~13.3B shares).** Ticker **SPCX** (Nasdaq).
+- Prior PRIVATE marks via tender offers, for the record: **$350B Dec 2024 → $400B Jul 2025 ($212/sh) →
+  $800B Dec 2025 ($421/sh)** — the tender mechanism ENDED at the IPO.
+- **Q2 2026 earnings: reported AFTER THE CLOSE, TUESDAY AUG 4 — the company's first as a public filer.**
+  Jake's "segment table" screenshot hit this vault at **~1:15pm PDT 8/4 = 4:15pm ET = minutes after
+  release.** The 8/3 scanner's Cathie Wood hit even said *"days before earnings."*
+- **THE LOCKUP LADDER (as-reported; a ladder, not a 180-day cliff):**
+  | date/trigger | tranche |
+  |---|---|
+  | **Aug 6 (2 trading days post-Q2-earnings)** | **up to 20% of restricted holdings unlock** — reported ~$123B class of newly tradable shares begins |
+  | conditional bonus | **+10% IF ≥$175.50 (IPO+30%) on ≥5 of the 10 sessions ending at Q2 earnings** |
+  | Aug → Oct | **7% tranches every 2-4 weeks** |
+  | **Q3 earnings (late Oct/Nov)** | **28% of the 180-day block (~1.3B shares) — the single largest release** |
+  | **Dec 8, 2026** | **full 180-day expiry** — all remaining non-Musk, non-extended shares |
+  | Musk (~6.4B shares) | **366-day lock, NO early release → ~June 2027** |
+  | certain investors | extended schedule into **Q2 2027** |
+- ⚠️ Derived inference, price-basis stated: at ~$149 implied today, the $175.50 bonus condition over
+  Jul 21-Aug 4 was **likely NOT met** (would require ~+18% vs today through late July, no evidence of
+  such a round trip). **Unverified — needs the SPCX daily closes.**
+
+**⛔ THE CORRECTION (process, not numbers):** the 8/4 entry INFERRED identity from segment structure and
+filed the table as a mystery screenshot — **while quoting @zerohedge writing "SPCX," a TICKER, at L2159.
+Wires don't assign tickers to private companies. The public-company tell sat inside the entry's own
+confirmation line, unread.** Eleventh instance of the pattern: grading the exotic explanation (leaked
+private financials) without testing the mundane one (it was earnings day). **The numbers all survive**
+(ZH-confirmed to the dollar); what was wrong was the EVENT'S NATURE: scheduled public disclosure, not a
+leak — **and it started a lockup clock.**
+
+**THESIS (interpretation — NOT fact):**
+- **★★★ THE FINANCING FRAME SHIFTS CATEGORY: from private-vehicle-dependence to public-market-dependence.**
+  The L2187 join survives VERBATIM (it said "more vehicles, leases **or equity** are arithmetically
+  required") — but the menu now includes public follow-ons, and **the $100B cash is substantially JUNE
+  IPO PROCEEDS** (raised $75B ~7 weeks before the CFO quoted $100B). The runway math (L2181, ~6.7 qtr at
+  −$14.8B/qtr) stands; its provenance is now dated. **Public-market-dependence is a DIFFERENT fragility:
+  the funding window is priced daily and closes faster than a private one — but it is also deeper while
+  open.** *(Analysis.)*
+- **★★★ THE LOCKUP LADDER IS A DATED SUPPLY CALENDAR ON AN ~$2T NAME — the calendar keeps concentrating
+  into the put's window.** Q3's 28% (~1.3B shares) and the Dec 8 full expiry both land inside the Dec-18
+  window, alongside the 8/13 30Y auction, the corridor tenor expiry (~10/5-12/5), and the Fed path.
+  **SPCX is likely NOT S&P 500-eligible yet** (index requires positive GAAP earnings, most recent quarter
+  and trailing four summed — total op income printed −$143M in Q2), **so the supply is index-ADJACENT:
+  not inside SPY, but a draw on the same AI-capital pool the rotation's funding depends on**
+  ([[precedent-bid]] — the rotation's fragility is its FUNDING). *(Analysis; index-eligibility is a rule
+  inference, not checked against S&P's committee discretion.)*
+- **⚠️ SOURCE DISCIPLINE:** the ladder's parameters (20%/10%-conditional/7%/28%/Dec 8/366d) are
+  consistent across multiple retail-tool aggregators + Investing.com — **prospectus-shaped but "N outlets,
+  one origin": the origin should be the 424B4, which this vault has NOT read. 🚩 FETCH: the 424B4 lockup
+  section (primary) + SPCX daily closes Jul 21→now (settles the bonus tranche + gives the ladder a price).**
+
+**Links:** [[ai-financing-fragility]] · [[precedent-bid]] · [[market-fragility]] · [[cepi]]
+
+### Sources (8/5 addendum)
+- Investing.com, *"SpaceX IPO lockup expiry: $123B in shares set to unlock in early August 2026"*
+- CryptoBriefing, *"SpaceX's IPO lockup begins expiring in August"* · StockAlarm / BiyaPay /
+  PurePowerPicks / DayTradingToolkit lockup-schedule explainers (aggregator tier, parameters consistent)
+- ValueAddVC, *"SpaceX Valuation 2026: From a $350B Tender Offer to a $2 Trillion Nasdaq Market Cap"*
+  (tender history) · Forge Global (tender cadence, pre-IPO)
