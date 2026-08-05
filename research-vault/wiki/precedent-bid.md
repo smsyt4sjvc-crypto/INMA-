@@ -178,3 +178,41 @@ Source: **retail-flow chart + digest (Jake paste ~12:55am; source unattributed i
 
 **Links (this entry):** [[market-fragility]] (churn ledger) · [[ai-financing-fragility]] (SA liquidation) ·
 [[memory-regime-question]] · [[dip-buying-base-rates]]
+
+## 2026-08-05 ~9:20am PDT — ★★★★ THE DESTINATION PANEL RETURNS: **WRAPPER ROTATION** — the third door neither fork anticipated, and the mechanism that closes the note's loop
+
+Source: **Jake's handoff reply (external research, ~9:15am).** Key sourcing: the 20x = **JPM proprietary
+retail-flow work amplified by Kobeissi**; 20x confirmed via secondary reporting; **the same-week sector
+chart is CLIENT-ONLY.** Vanda = the second source.
+
+### DATA (as-established by the handoff)
+- **JPM: technology ETF outflows SECOND LARGEST ON RECORD; single-stock selling concentrated in MICRON,
+  SANDISK, MARVELL.**
+- **Vanda: selectivity, not abandonment — shifting from volatile single names toward diversified ETFs;
+  STILL NET BUYERS OF THE DRAM-THEMED ETF while dumping the individual memory names.**
+- **July whole-market prices (JPM AM): energy +8.8% · financials +6.5% · GLOBAL SEMICONDUCTORS −13.2%.**
+  ⚠️ Price performance across ALL investors — not retail flow attribution.
+- ⚠️ Tension pinned: JPM (tech-ETF outflows record) vs Vanda (into ETFs) reconciles only with wrapper
+  precision — **out of SECTOR wrappers + single names, into BROAD wrappers + selected thematics.**
+
+### THESIS (interpretation — NOT fact)
+- **★★★★ WRAPPER ROTATION IS A THIRD HYPOTHESIS — exposure RETAINED, idiosyncratic risk SHED.** Not
+  sector rotation, not capitulation: **de-dispersion at the retail level.** The DRAM-ETF detail is the
+  tell: they kept the THEME and shed the NAME. *(Analysis.)*
+- **★★★★ AND IT IS THE SHARPEST PRECEDENT-BID CONFIRMATION YET: the modal AI answer to "should I hold
+  Micron?" is "consider diversified exposure." THE TAUGHT BEHAVIOR IS WRAPPERIZATION.** A coached cohort
+  executing "don't stock-pick, index it" at record scale in one week. *(Analysis. Jake's mechanism,
+  extended.)*
+- **★★★ IT CLOSES THE NOTE'S LOOP: wrapper rotation FEEDS THE INDEX-PINNING MACHINE.** Single-name capital
+  converting to cap-weighted wrapper flow = more mechanical index bid = more dispersion cancelling inside
+  calm wrappers = the V-shapes. **The coached cohort is structurally converting itself into passive flow —
+  which DEEPENS the put's fourth loss channel (the flow cancelling dispersion inside the index is
+  GROWING).** *(Analysis. Descriptive per rule 7.)*
+- **📌 THE PANEL SPEC — ADOPTED VERBATIM (Jake's 7 lines):** ① semi/memory single stocks · ② tech+semi
+  ETFs · ③ broad-market ETFs · ④ energy+financial stocks/ETFs · ⑤ gold/miners/commodity ETFs ·
+  ⑥ **T-bill/cash-like ETFs (the capitulation detector)** · ⑦ **total retail net equity purchases (the
+  participation check).** **Access reality: the JPM chart is client-only ⇒ the buildable version = PUBLIC
+  weekly ETF flows (lines 2-6) + Vanda summaries; line 1 (single-stock attribution) stays paywalled with
+  Vanda as the only proxy.**
+
+**Links:** [[market-fragility]] · [[ai-financing-fragility]] · [[memory-regime-question]] · [[portfolio-state]]
