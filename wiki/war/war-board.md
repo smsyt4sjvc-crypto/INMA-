@@ -1349,3 +1349,19 @@ adjournment and the stage)*.
 
 **🚩 FETCHES:** (1) **what were today's "security events"** on the Israel-Lebanon front; (2) **the
 framework agreement itself** — contents, date, parties' obligations (ingest gap, June-2-EO class).
+
+### 📌 LEDGER 2026-08-05 ~9:42am PDT — UKMTO 106-26: tanker NEAR-MISS 95NM SE of Aden — the standing Houthi rate, and the corridor trade's uncovered third theatre
+**DATA:** UKMTO 106-26 (report time 1430 UTC, incident time unstated): *"loud explosion in close
+proximity"* — **near-miss, lowest severity rung**; crew safe, no damage stated, attribution unconfirmed
+→ `raw/ukmto-106-26-aden-2026-08-05.txt`.
+**ANALYSIS:**
+- **Consistent with the STANDING tempo (four Saudi tankers struck 7/20-8/2, L1160), not an acceleration.
+  One observation moves nothing.**
+- **★★ Talks-while-shooting: THIRD theatre inside 24h** (Hormuz strikes-during-talks · Rome adjourned by
+  ground events · now Aden). The pattern filed this morning re-confirmed before the ink dried.
+- **★★★ THE LOCATION IS THE MESSAGE FOR F18: 95NM SE of Aden sits ON the diversion route.** The Oman
+  corridor covers Hormuz; **the Houthis are not party to it.** Even the acceptance branch settles ONE of
+  the three chokepoints the ISM respondent priced (*"Red Sea, Strait of Hormuz and Suez Canal"*).
+  ⇒ **The flat-price disinflation trade prices Hormuz; the freight/insurance cost stack requires all
+  three theatres — and no negotiation touches the third.** The standing gap between the crude tape and
+  the goods-inflation channel.
