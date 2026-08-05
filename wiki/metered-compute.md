@@ -1738,3 +1738,25 @@ application-specific integrated circuit; HBM = high-bandwidth memory.
 
 **Links:** [[ai-financing-fragility]] (the chain, F17) · [[compression-thesis]] · [[ai-capex-cycle]] ·
 [[buildout-bottleneck-map]]
+
+### Addendum 2026-08-05 ~2:30pm PDT — TOKEN INDEX UPDATE: 1.2723, THROUGH THE FEB FLOOR — and the fork's stakes are higher than yesterday's entry stated
+
+**DATA** (chart, Jake upload ~2:30pm, ZH-styled "Token Cost Index" — same Silicon Data series as L1618's
+entry): **last 1.2723** (8/4 print: 1.2901); chart's own annotation **−38.39% from the May ~2.05 peak
+(−92.57% annualized** — an annualized 3-month drawdown, logged as the chart's theater, not a rate);
+**at/marginally through the ~1.28 Feb trough (chart-read precision ±0.02) = lowest since early January;
+the year's +105% is nearly round-tripped.** Late-July slope still steep, no flattening.
+→ `raw/silicon-data-token-index-2026-08-05.png`. Jake: *"Down 40% from May ATH."*
+
+**THESIS (interpretation — NOT fact):**
+- **★★★ THE FORK'S STAKES, SHARPENED (refines L1641):** yesterday framed reading (b) (total spend) as
+  "falling = demand contraction." **More precisely: spend can fall 38% while VOLUME still grows** (P×0.4,
+  Q×1.55 ⇒ PQ×0.62) — **and that configuration is not "anti-thesis," it is THE CROSSOVER ITSELF:
+  elasticity < 1, efficiency shrinking total spend — the Jevons dashboard's registered capex top-caller
+  (L1679). ⇒ Under (a) this chart is the price war's scoreboard and says NOTHING about the dashboard;
+  under (b) the top-caller FIRED IN MAY.** The methodology pull is not merely first in the fetch queue —
+  it is the difference between "no signal" and "the registered trigger fired a quarter ago." *(Analysis.)*
+- **★★ EXPANDING AMPLITUDE:** cycle 1: 1.00→1.80→1.28; cycle 2: 1.28→2.05→1.27-and-falling — **higher
+  high, lower low, both legs bigger.** A commodity index maturing toward benchmark status should
+  COMPRESS its oscillation; this one is widening — the wildcat/financialization stage (L1685) with
+  structure, not a settled utility print. *(Analysis; two cycles = two observations.)*
