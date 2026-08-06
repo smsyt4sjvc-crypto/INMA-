@@ -677,3 +677,29 @@ in the direction that HELPS the defendants.
 #### Sources
 - Wccftech (undated, ~8/5) relaying Digital Daily (Korea), anonymous industry sources — single origin,
   archived `raw/wccftech-digital-daily-cxmt-refuses-apple-2026-08-05.txt` (Jake paste ~9:10pm PDT)
+
+#### Addendum 2026-08-05 ~9:45pm PDT — JAKE SHARPENS: APPLE AS PLAINTIFF ("if Apple can't get pricing... they may be inclined to join the lawsuit seeking damages")
+- **★★★ THE PRECEDENT IS EXACT, NOT ANALOGICAL: Apple was a NAMED VICTIM in DRAM cartel #1** — the
+  2004-06 DOJ prosecutions specified the OEMs prices were fixed against (Apple/Dell/HP/Compaq/Gateway/
+  IBM). And mega-OEMs don't join classes — **they opt out and sue individually** (Apple in the LCD
+  cartel litigation; Apple v. Qualcomm). Direct purchasers = strongest standing + the biggest damages
+  pool. The architecture for Jake's scenario is pre-built and Apple has walked it twice. *(Analysis.)*
+- **★★★ THE TIMING INVERSION DECIDES *WHEN*, NOT *WHETHER*: you don't sue your ALLOCATOR mid-shortage.**
+  Cartel #1 was prosecuted out of a GLUT (buyers held leverage; suing cost nothing operationally).
+  Today the trio decides who gets memory at all — the retaliation for filing is allocational, not
+  legal. Apple's revealed posture (lobbying for CXMT access, asking for cuts) = supplicant mode.
+  **Rational play: DOCUMENT NOW, SUE AT THE CYCLE TURN** (~4yr Sherman window; file at the ~2028 supply
+  response when leverage flips and the MU-champion politics cool). Cartel #1's own lag — conduct
+  1999-2002, pleas 2004-06, civil recoveries after — is the base rate: **antitrust litigation follows
+  the cycle, it does not lead it.** Today's refusal is Exhibit-building for that future case: refused
+  by every supplier INCLUDING the entrant. *(Analysis.)*
+- **⚠️ THE PARADOX:** CXMT parity that documents Apple's desperation also WEAKENS the conspiracy
+  element Apple would need. Apple's sharpest theory is not price-fixing but **COORDINATED ALLOCATION**
+  — the two-tier structure as agreed conduct disfavoring consumer-electronics buyers; as the
+  disfavored tier's largest member, Apple's specific injury fits that theory best. Same
+  coordination-vs-parallelism wall, but the right wall. *(Analysis.)*
+- **🚩 REGISTERED TELLS (scenario activating EARLY):** (1) Apple opts out of the class (public docket
+  event) · (2) DOJ/FTC cooperation or subpoena disclosure in Apple's 10-Q · (3) 10-Q memory risk-factor
+  language shifts from "component costs" to "pricing practices" (legal-predicate vocabulary) · (4)
+  Apple steers the Capitol Hill probe's aim from CXMT toward the trio. Any one ⇒ the sue-later clock
+  moved up.
