@@ -1417,3 +1417,34 @@ proximity"* — **near-miss, lowest severity rung**; crew safe, no damage stated
   **The corridor's clock is now the live one for the strait; 8/17 stays on watch as a separate object.**
 
 **Links:** [[../demand-destruction]] · [[../portfolio-state]] · [[../ai-financing-fragility]]
+
+### 📌 LEDGER 2026-08-06 ~9:00am PDT — THE CORRIDOR GOES TO PARLIAMENT — and FARS claims the deal PROHIBITS US/ISRAELI VESSELS: term 4 answered in its maximal Iranian form
+
+**DATA (ZH wires, source stamps ~8:57-8:58am PDT):**
+- **"IRAN-OMAN DEAL ON STRAIT OF HORMUZ UNDER REVIEW IN PARLIAMENT."**
+- **"US, ISRAEL VESSELS HORMUZ PASSAGE PROHIBITED UNDER DEAL: FARS."** ⚠️ **Fars = IRGC-adjacent,
+  weakest rung for negotiated TERMS** (the vault's Iranian-outlet grading: primary for POSITION,
+  weakest for terms). This is Iran's CLAIM of a term, not a confirmed term.
+
+**THESIS (analysis):**
+- **★★★ THE FOUR-TERM SCORECARD, TERM 4, NOW CARRIES IRAN'S MAXIMAL VERSION:** not merely "no foreign
+  interference" (8/5) but an explicit **US/Israeli-flag EXCLUSION from passage.** The asymmetry
+  deepens: **Iran has now publicly staked terms 1, 2, and 4 (twice); the US has printed NOTHING.** A US
+  government could not plausibly AGREE to a term barring its own vessels — so the likelier readings:
+  **(a)** the prohibition covers the ADMINISTERED CORRIDOR (the fee-for-lane structure), which the US
+  is not party to anyway — Iran describing its own lane rules as a "ban"; **(b)** domestic packaging
+  for the parliamentary review (announce a win to the Majlis). **The deny-vs-silence-vs-nonspecific
+  table is registered: a US that stays SILENT on "US vessels prohibited" is loud.**
+- **★★★ IF THE EXCLUSION HOLDS IN ANY FORM, THE FREIGHT MARKET GOES TWO-TIER BY FLAG:** everyone else
+  buys the corridor pass and sheds war premium; **US-flagged and Israeli-linked shipping — the exact
+  target set of the Houthi campaign — stays war-priced in BOTH theatres** (excluded from the Hormuz
+  corridor per Fars; hunted on the Aden diversion route per 106-26 and "siege for siege"). **The
+  hawkish freight residue (L1362's three-chokepoint gap) sharpens into a flag-specific premium** — the
+  disinflation the crude tape prices is for OTHER people's cargoes. *(Analysis.)*
+- **★★ PARLIAMENT CUTS BOTH WAYS:** ratification institutionalizes the corridor (durability ↑ — the
+  lease acquiring treaty texture) AND adds a veto/renegotiation point + a stage for maximal terms like
+  the Fars claim (headline risk ↑). **The 2-4 month tenor now has a legislative clock inside it.**
+- **🚩 WATCH:** the Majlis outcome; any US response to the Fars claim (the silence cell); whether
+  corridor FEES get a parliamentary number (term 1's missing figure).
+
+**Links:** [[../demand-destruction]] · [[../ai-financing-fragility]] · [[../portfolio-state]]
