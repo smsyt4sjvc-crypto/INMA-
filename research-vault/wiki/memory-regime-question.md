@@ -617,3 +617,63 @@ its highest scrutiny. CXMT IPO right when memory trio are leveraged to the max."
 #### Sources
 - CNBC 7/27 (debut +466%) · TechNode 7/27 ($8.6B, most valuable A-share) · TechTimes 7/28 (Micron/
   Capitol Hill) · CNBC 7/24 (cash-drain fears) · IndexBox (subscription window) — search 8/5 ~8:55pm PDT
+
+### 2026-08-05 ~9:05pm PDT — ★★★ CXMT REFUSES APPLE'S PRICE CUT — the entrant joins the umbrella instead of breaking it; and it is DEFENSE EVIDENCE in the DRAM class action
+
+**Jake: "CXMT told Apple to piss off. That matters. That could have rippling effects, including the
+MU/Samsung/Hynix lawsuit?"** — graded below; he is right that it matters, and right about the lawsuit,
+in the direction that HELPS the defendants.
+
+#### DATA (as-reported — Wccftech relaying Korea's DIGITAL DAILY, anonymous sources; ⚠️ SINGLE ORIGIN, Korean-press frame flatters the home team twice) → `raw/wccftech-digital-daily-cxmt-refuses-apple-2026-08-05.txt`
+- **Apple asked CXMT for a price cut** (citing smartphone pricing pressure + the 2026 iPhone). **CXMT
+  REFUSED — and quoted prices AT OR ABOVE Samsung/SK hynix.**
+- Mechanism: **US sanctions led Huawei/Xiaomi and others to LOCK IN CXMT's DRAM output IN ADVANCE at
+  high prices** — the same contract form the Korean firms use — leaving CXMT nothing to concede.
+- The article's own structural claims: the "quote-cheap-Chinese-inputs-as-leverage" sourcing strategy
+  is DEAD; Samsung/hynix freed from low-priced commodity commitments to Chinese firms → full HBM focus;
+  industry official: **"CXMT is effectively controlling the price floor of the commodity DRAM market."**
+- Sidebar (unverified, sidebar-grade): Google's coding hopes "rest on a $1.5B deal with a startup." 🚩
+
+#### THESIS (interpretation — NOT fact)
+- **★★★ THE LAWSUIT RIPPLE (Jake's question) — DEFENSE-FRIENDLY, MATERIALLY.** The complaint's theory
+  (this file L15-21): +700% commodity DRAM, two-tier allocation (LTAs for preferred buyers, spot
+  residual for the rest). This item hands the trio two exhibits: **(1) the entrant with EVERY incentive
+  to undercut — state-subsidized, sanctioned, hungry for the largest design win on earth — independently
+  quotes AT-OR-ABOVE cartel-alleged prices.** If the level were conspiracy-inflated, CXMT's dominant
+  strategy is undercutting to win Apple; refusal reads as the price being market-clearing. **(2) The
+  alleged CONDUCT (advance lock-ins at high prices) is now practiced by a NON-DEFENDANT** — Huawei/
+  Xiaomi×CXMT reproduce the two-tier structure exactly, re-typing it from "coordination" to "the
+  equilibrium response to shortage."** Plaintiffs keep an umbrella-pricing argument (a cartel lifts
+  non-members' prices too — parity is CONSISTENT with an umbrella, proves nothing either way), but
+  umbrella goes to damages breadth, not to proving the agreement. ⚠️ The vault has NOT read the
+  complaint itself (filed ~week of 7/10, same week as the SKHY IPO/Burry short); defendant roster and
+  claim period unverified. **⚠️ AND the historical base rate cuts the other way: these exact firms
+  (MU/Samsung/Hynix/Infineon) settled the 1999-2002 DRAM price-fixing cartel — Samsung's $300M criminal
+  fine was then one of the largest ever — which is WHY the plaintiffs' bar filed fast. Priors are not
+  evidence, but juries hear them.** *(Analysis.)*
+- **★★★ THE SANCTIONS BOOMERANG COMPLETES:** the policy aimed at containing Chinese memory **(a)
+  pre-sold CXMT's book at high prices via the domestic lock-up, (b) deleted the West's cheap-China
+  negotiating lever, (c) freed Samsung/hynix for HBM margin, and (d) firmed MU's commodity pricing.**
+  Sanctions built the price umbrella they were supposed to prevent. Same structure class as the
+  Graham-Act gas-keyed exemption and the blacklist→Broadcom win. *(Analysis.)*
+- **★★★ THE APPLE THREAD RE-READS: THE LOBBYING WAS NEVER ABOUT CHEAP — IT WAS ABOUT ALLOCATION.**
+  Sequence on file: Apple lobbies Washington for CXMT access (7/26) → Senate ultimatum (7/29) → Cook's
+  "100-YEAR FLOOD" (7/31, AAPL −9.26%) → PC makers USING CXMT (8/4) → **CXMT refuses the discount
+  (today).** In a flood you lobby for access to the marginal producer AT ANY PRICE — the cut request
+  was the try-on; the access is the need. **Cook's flood quote and this refusal are one event from two
+  angles.** F3's integration branch strengthens again; the price-relief premise is dead. *(Analysis.)*
+- **★★ YESTERDAY'S HARVEST ENTRY GETS ITS INTERIM TERM:** the 2028 supply-response date stands (L296,
+  and the bull case's expiry = CXMT shipping competitive leading-edge, L56) — **but until then CXMT is
+  a price-floor CONTROLLER, not a price breaker. The naive MU-bear (entrant undercuts) is dead
+  near-term: the entrant's book is pre-sold at parity-or-above.** For the margin-durability axis
+  (L31-33): first hard evidence FOR near-term margin durability — the umbrella gained a member. The
+  same fact feeds the POLITICAL channel (Capitol Hill probe + iPhone price transmission): courts need
+  agreements; politicians need headlines. Both can run on +700%. *(Analysis; MU 28% of book —
+  descriptive only.)*
+
+**Links:** [[compression-thesis]] · [[ai-infra-allocation-map]] · [[ai-financing-fragility]] ·
+[[portfolio-state]] · [[market-fragility]]
+
+#### Sources
+- Wccftech (undated, ~8/5) relaying Digital Daily (Korea), anonymous industry sources — single origin,
+  archived `raw/wccftech-digital-daily-cxmt-refuses-apple-2026-08-05.txt` (Jake paste ~9:10pm PDT)
