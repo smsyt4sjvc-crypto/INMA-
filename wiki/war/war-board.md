@@ -1448,3 +1448,50 @@ proximity"* — **near-miss, lowest severity rung**; crew safe, no damage stated
   corridor FEES get a parliamentary number (term 1's missing figure).
 
 **Links:** [[../demand-destruction]] · [[../ai-financing-fragility]] · [[../portfolio-state]]
+
+### 📌 LEDGER 2026-08-06 ~9:05am PDT — ★★★ THE FULL FARS TEXT DISENTANGLES TWO OBJECTS: the "prohibition" is a DRAFT MAJLIS BILL, not a deal term — and clause 3 legally COUPLES the three theatres
+
+**DATA (Fars-posted initial text of the Majlis plan "Strategic Action to Ensure the Security and
+Sustainable Progress of the Strait of Hormuz and the Persian Gulf" — Jake paste ~9:00am →
+`raw/fars-majlis-hormuz-strategic-plan-2026-08-06.txt`; status per Salimi, Majlis Presidency: EXPERT
+REVIEW at the National Security Commission, experts asked for suggestions):**
+1. US / "Zionist regime" / "other hostile countries" vessels: passage PROHIBITED.
+2. Israel-related consignments, military OR civilian: no transit rights.
+3. **Vessels/cargoes "that play a role in actions against the Resistance Front": banned.**
+4. Countries/individuals that "caused damage to Iran": no passage through Hormuz AND the Persian Gulf
+   **until COMPENSATION is paid.**
+5. **Fines up to 20% OF CARGO VALUE** for violators.
+6. Government responsibilities: **guiding navigation, monitoring traffic, protecting Gulf security and
+   environment, "in cooperation with the armed forces."**
+
+**THESIS (analysis):**
+- **★★★ TWO OBJECTS, NOW SEPARATED — the hour-ago wire conflated them and the 9:00am entry's
+  discipline line ("Iran's CLAIM of a term, not a confirmed term") is CONFIRMED: the US/Israel
+  prohibition is a clause of a DRAFT DOMESTIC BILL at expert-review stage, not a term of the Iran-Oman
+  corridor.** The evidence ladder's **LETTER-vs-BILL rung applies literally — this IS a bill,
+  pre-committee-passage, the weakest rung for enacted policy.** Do not harden (the 8/2 evidentiary-
+  drift lesson, by name). **Structure: the EXECUTIVE corridor is the 2-4 month lease; the LEGISLATIVE
+  plan is the candidate for what comes AFTER the tenor — the lease's permanent successor. The pilot
+  and the institution.**
+- **★★★★ CLAUSE 3 IS THE STRUCTURALLY NEW ITEM: HORMUZ ACCESS CONDITIONED ON NON-ACTION AGAINST THE
+  "RESISTANCE FRONT" — the three theatres get LEGALLY COUPLED.** The corridor settles one chokepoint
+  and leaves the Houthis party to nothing (L1362); **this bill would make the Red Sea war carry a
+  Hormuz price: strike the Houthis anywhere, lose strait access everywhere.** Cross-theatre deterrence,
+  codified. If any version survives to law, the three-chokepoint freight stack stops being three
+  independent premiums and becomes ONE legally-linked system priced at Iran's discretion. *(Analysis.)*
+- **★★★ THE TOLL ARCHITECTURE, CODIFIED:** clause 6 writes the fee's LEGAL BASIS (navigation guidance +
+  environmental protection = the "security or environmental service fees" of 8/4, now as statutory
+  services) with **IRGC enforcement in the text** ("cooperation with the armed forces"); clause 5
+  prices enforcement (**20% of cargo ≈ ~$28M per laden VLCC at ~$70 crude**); clause 4 prices
+  RE-ADMISSION (**compensation/reparations as the ban's exit fee — the exclusion is not absolute, it
+  is FOR SALE**). The toll-gate thesis now has its full legal skeleton: services in, fines around,
+  reparations out. *(Analysis.)*
+- **★★ THE TWO-TRACK READ:** executive pragmatism (fee corridor, works with Oman) + legislative
+  maximalism (bans, reparations) = Iran negotiating against its own hardening statutory backdrop —
+  and the internal Iranian negotiation (Majlis vs executive) now visible in public. The US's silence
+  gets more expensive per day: every unanswered Iranian text becomes the de facto record. *(Analysis.)*
+- **🚩 WATCH:** the bill's committee text (do the bans survive expert review?); whether the CORRIDOR
+  deal is ratified separately from the bill; the transit-fee NUMBER (term 1's missing figure — the
+  20% is the fine, not the fee); any US response (the registered silence cell).
+
+**Links:** [[../demand-destruction]] · [[../oil-value-chain]] · [[../portfolio-state]]
