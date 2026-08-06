@@ -703,3 +703,40 @@ in the direction that HELPS the defendants.
   language shifts from "component costs" to "pricing practices" (legal-predicate vocabulary) · (4)
   Apple steers the Capitol Hill probe's aim from CXMT toward the trio. Any one ⇒ the sue-later clock
   moved up.
+
+### 2026-08-06 ~9:20am PDT — ★★★ NVDA WEIGHS LESS HBM ON RUBIN ULTRA (The Information): the demand side starts ENGINEERING AROUND the price — the thrifting signal, aimed at the PROTECTED tier
+
+#### DATA (ZH relay of The Information, wires ~9:20am PDT; consideration-stage)
+- *"NVIDIA CONSIDERS LESS HIGH-BANDWIDTH MEMORY FOR RUBIN ULTRA GPU"* · *"WEIGHING A RADICAL STEP TO
+  DEAL WITH A SHORTAGE OF ADVANCED HIGH-BANDWIDTH MEMORY CHIPS"* · *"SEEKS REDUCED MEMORY IN UPCOMING
+  RUBIN ULTRA."* Single outlet (The Information); **"considers/weighing" = DELIBERATION, not decision
+  (the ANNOUNCED-vs-FID rung, below announced).** ZH's tag ("Not good for memory") = dialect, stripped.
+- Context on file, same 24h: CXMT refuses Apple's price cut (seller power, commodity tier) · SNDK/WDC
+  beats with the reaction grading TODAY · HBM shortage named by NVDA itself as the driver.
+
+#### THESIS (interpretation — NOT fact)
+- **★★★ THE THRIFTING SIGNAL — the demand-side top mechanism, distinct from the supply-side one, and
+  it targets the PROTECTED tier.** This file's two-tier structure: HBM/leading edge = oligopoly pricing
+  (the bull case), commodity = the shock absorber. **CXMT attacks the commodity tier from SUPPLY
+  (2028); NVDA thrifting attacks the HBM tier from DEMAND — the largest buyer redesigning content-per-
+  unit down is what +700%-class pricing eventually manufactures.** In commodity cycles the top's
+  demand-side mechanism (substitution/thrifting) historically precedes the supply glut. **Both expiry
+  mechanisms are now visible: the customer redesigns before the entrant ships.** *(Analysis.)*
+- **★★★ BUT THE TOTAL-DEMAND ARITHMETIC IS AMBIGUOUS AND CUTS THE BEAR READ:** if HBM availability is
+  the binding constraint on GPU output, **less HBM per GPU = MORE GPUS from the same wafer supply** —
+  content down, units up, total HBM demand ~unchanged, and the memory makers still sell every wafer
+  into the shortage. **The thrift matters for the NEXT cycle: when supply normalizes (2028), the
+  thrifted spec means demand does not snap back proportionally. It caps the boom's DURATION, not its
+  present.** *(Analysis.)*
+- **★★ THE NEGOTIATION-LEVERAGE ALTERNATIVE (live, not exotic):** a "we might use less of your
+  product" leak from the mega-buyer, mid-pricing-cycle, is the mirror of CXMT refusing Apple 24 hours
+  earlier — **the top-of-cycle pricing war conducted through the press: sellers refusing buyers,
+  buyers threatening substitution.** Deliberation leaks are cheap; redesigns are expensive. The FID
+  test: an actual Rubin Ultra SPEC published with reduced stacks. *(Analysis.)*
+- **⚠️ TREADMILL TEST #2 CONTAMINATED:** today's memory tape now carries a real fundamental headline —
+  the SNDK/WDC reaction can no longer be read as a clean expectations-only experiment. Grade today's
+  moves as HEADLINE + expectations jointly; the clean treadmill read moves to the next beat-and-guide
+  print. *(Discipline.)*
+
+**Links:** [[compression-thesis]] · [[ai-capex-cycle]] · [[cepi]] · [[ai-infra-allocation-map]] ·
+[[portfolio-state]] (MU 28%)
