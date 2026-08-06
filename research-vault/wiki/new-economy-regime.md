@@ -2572,3 +2572,40 @@ this vault's version of the same regime came from the correlation data first, �
 
 **Links:** [[../predictions/2026-07-30-fed-hike-before-december]] · [[ai-financing-fragility]] ·
 [[market-fragility]] · [[demand-destruction]] (the Japan join) · [[portfolio-state]]
+
+### 2026-08-06 ~8:55am PDT — ★★★ ONE FLOW, BOTH ENDS, ONE MORNING: the 2nd-LARGEST YEN OPERATION IN HISTORY ($85bn, GS) bought less than a week — while Alphabet drew a $115bn BOOK in hours
+
+#### DATA
+- **GS Exhibit 3 (Haver/GS GIR/MoF/BoJ — Jake upload → `raw/gs-exhibit3-japan-fx-intervention-85bn-2026-08-06.jpeg`):
+  "Japanese authorities purchased up to $85bn of yen over July 30-31 — the largest 2-day operation
+  since 2011 (Fukushima)."** ZH: *"2nd largest in history, second only to Fukushima."* Chart context:
+  2011 ~$105bn · 2022 ~$43bn · 2024 ~$38/35bn · **2026 shows TWO bars: ~$74bn (dark) + $85bn (red,
+  the 7/30-31 GS estimate).** ⚠️ **Sizing note: yesterday's Piepenburg "$73B" ≈ the dark bar — either a
+  separate earlier-2026 op or a prior estimate of the same one; AMBIGUOUS on this chart, flagged, not
+  resolved.** Funding mechanism (UST sale vs FIMA pledge, L2373) still UNRESOLVED → TIC referees.
+- **ZH 8/6: "Yen Weakens Beyond 158 Per USD for First Time in Nearly a Week."** Sequence: ~¥162+
+  pre-op → sub-158 post-op → **back through 158 by 8/6. The operation bought ~5 days.**
+- **ZH 8:49am: "ALPHABET DRAWS ABOUT $115 BILLION OF DEMAND FOR JUMBO BOND SALE"** — ~4.6x the $25bn.
+- *(ZH's joke — "could have bought 64GB of RAM instead" — is the memory cost-push (+700%,
+  [[memory-regime-question]]) as a meme; the dialect confirms the datum's mainstreaming, nothing more.)*
+
+#### THESIS (interpretation — NOT fact)
+- **★★★ THE TWO HEADLINES ARE ONE FLOW.** The bid that defeats the Ministry of Finance IS the bid in
+  Alphabet's book: global (including Japanese) capital chasing dollar AI-duration — the vault's
+  *"the AI boom IS the FX stress"* (L2412) printed as a same-morning pair. **$85bn of official yen
+  buying versus a $115bn order book for ONE corporate borrower — the state's defense is smaller than a
+  single hyperscaler's morning.** The intervention failed because the carry/AI-duration flow it fights
+  is bigger than the tool. *(Analysis.)*
+- **★★★ THE ESCALATION LADDER SHORTENED (the 8/2 precondition now MET):** on 8/2 Jake corrected my
+  jawboning import — *"but they already did spend."* Now the spend is sized (2nd-largest ever) and
+  graded (<1 week of effect). **Post-$85bn-failure, the remaining tools ARE the vault's list: BOJ hikes
+  (Bessent's stated ask — long-end policy by proxy), FIMA pledging, capital-flow measures.** Each is a
+  step toward the carry unwind the fragility thread prices. *(Analysis.)*
+- **★★ THE ALPHABET BOOK GRADES THIS MORNING'S ABSORPTION READ: DEEP AT THE NEW PRICE.** Spreads
+  widened ~10bp INTO the deal — that WAS the price discovery — and at the wider level demand was ~4.6x.
+  The "intermediate state between deep and shut" (ai-financing-fragility 8/6) resolves today toward
+  DEEP. **Registered follow-through (ZH's own prediction, now a test): final pricing vs +155bp talk,
+  and whether the bonds SLIDE in secondary post-issue.** *(Analysis.)*
+
+**Links:** [[ai-financing-fragility]] · [[demand-destruction]] (the Japan/Hormuz join) ·
+[[market-fragility]] · [[../predictions/2026-07-30-fed-hike-before-december]]
