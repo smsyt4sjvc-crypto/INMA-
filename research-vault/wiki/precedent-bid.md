@@ -302,3 +302,11 @@ events belong to the web. *Vault for conclusions, web for events.*
 #### Sources
 - KED Global 7/16 · Korea Times 7/15 · Korea JoongAng Daily (criminal complaint) · BigGo/bloomingbit
   aggregators (Aug-5 effective dates, 20% cap) — web search 2026-08-05 ~8:22pm PDT
+
+### Addendum 2026-08-06 ~9:00am PDT — THE ROTATION CROSSES A BORDER: Eurozone EPS revisions above the US for the first time since Jan '25
+**Market Ear (ZH relay, headline-class): Eurozone earnings-per-share revisions up 17 CONSECUTIVE WEEKS,
+now ABOVE the US for the first time since January 2025.** → The rotation thesis's missing dimension:
+the reflex documented sector-to-sector (8/4 amendment) and wrapper-to-wrapper (8/5) now has a
+REGION-to-region print — 17 weeks is a trend, not a blip, and it feeds the destination panel a line the
+7-line spec didn't carry: **ex-US as a rotation destination.** *(Analysis; revisions ≠ flows — this is
+the earnings side, the flow confirmation would be EU-fund inflows. Headline-class, chart unseen.)*
