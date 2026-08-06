@@ -1495,3 +1495,12 @@ REVIEW at the National Security Commission, experts asked for suggestions):**
   20% is the fine, not the fee); any US response (the registered silence cell).
 
 **Links:** [[../demand-destruction]] · [[../oil-value-chain]] · [[../portfolio-state]]
+
+**📌 TAPE ADDENDUM ~9:08am PDT — "OIL JUMPS TO INTRADAY HIGH, BRENT ABOVE $82" (ZH wire stamped 9:03am
+PT, minutes after the Majlis text hit).** The timing points at the bill (legislative maximalism repricing
+the strait the corridor was supposed to have settled) — **attribution honest: minutes-correlation, one
+wire, no spread data; alternates (dollar, positioning) unexcluded. The registered Hormuz instrument
+remains the BRENT-WTI SPREAD, not flat price — 🚩 fetch today's spread to grade whether this is a
+Hormuz-specific bid or a beta move.** Either way the sequence is on record: corridor prints → crude
+falls (8/5, "maintains losses"); Majlis maximal text prints → crude jumps. **The tape is pricing the
+TWO-TRACK structure in real time — the lease calms it, the statute spooks it.**
