@@ -3347,3 +3347,48 @@ LARGEST funding source; debt is ~40% of the guide at most. **The true statement 
 than the false one: with FCF negative for the first time since 2004, the MARGINAL capex dollar is now
 externally funded — debt AND equity.** "All" is the dialect; the margin is the regime change.
 *(Numbers-vs-adverbs, applied to the fast-and-reliable source per the standing rule.)*
+
+### 2026-08-06 ~10:40am PDT — ★★★★ THE GS "YOU ARE HERE" CHART: five hyperscalers COMBINED go FCF-NEGATIVE this quarter — the aggregate of everything this file holds, with a dated tunnel and a modeled exit
+
+**Source: GS GIR/FactSet, "The US Hyperscalers Quarterly FCF" (Meta+MSFT+GOOGL+AMZN+ORCL, 2009→2029E),
+"You are here" circled at 2026 Q3(E)** — Jake upload ~10:35am ("😬😬") →
+`raw/gs-hyperscaler-quarterly-fcf-you-are-here-2026-08-06.png`.
+
+#### DATA (chart read; ⚠️ bars LEFT of the circle = FactSet actuals, RIGHT = GS MODEL — the visual
+smuggles estimates into the same series as history; firewall applied)
+- History: combined ~$10-40bn/qtr 2009-19 → ~$65-68 peak 2020-21 → **AMZN's 2021-22 negative episode**
+  (sector still net positive) → **all-time peak ~$104bn/qtr (2024)** → fading through 2025 (~$76-85) →
+  2026 Q1 ~$57.
+- **"YOU ARE HERE": 2026 Q3(E) combined ≈ −$20bn — the first COLLECTIVE negative in the series'
+  history** (GOOGL ~zero — today's "first negative FCF since 2004" — Meta and Oracle negative).
+- **The modeled tunnel: negative ~−$20 to −$30bn/qtr through ~2027 year-end (~5-6 quarters), then a V:
+  positive by 2028, ~$59-88 through 2029, final bar ~$122bn/qtr = NEW RECORD.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ THE FUNDING QUESTION GETS ITS DENOMINATOR: ~$100-150bn of aggregate external need through the
+  tunnel** (−$20-30bn/qtr × 5-6 qtrs) — **which is exactly the observed bond cadence** (Google $25bn ×3
+  since Nov + Amazon $25bn + Meta-SPV $12.5bn ≈ monthly supply). This morning's "the spread is the
+  price of the next $25B" now has a total: **the market must absorb roughly $100-150bn MORE before the
+  modeled trough passes.** The absorption-limit question has a size and an end date — GS's end date.
+  *(Analysis.)*
+- **★★★ THE NEW FACT VS THE 2021-22 PRECEDENT IS CORRELATION-OF-NEED.** Amazon ran this exact
+  playbook alone in 2021-22 (deep negative → −50% stock → recovery) while MSFT/GOOGL/META gushed —
+  the sector netted positive and could in principle self-fund. **Now all five enter together: no
+  internal offset, the whole cohort hits the external market simultaneously — WHY the $25bn/month
+  cadence exists.** The individually-survivable playbook, run collectively, is a different object.
+  *(Analysis.)*
+- **★★★ THE RIGHT SIDE OF THE CHART IS THE BULL CASE DRAWN AS DATA.** The 2028-29 V to a record
+  $122bn/qtr embeds GS's revenue model — the "EBITDA surge" arriving on schedule. **The vault's
+  Jevons-crossover fork is the live test of those bars:** under the Silicon-Data spend reading (the
+  8/5 sharpening), the crossover already fired and the right side is wrong. The chart does not resolve
+  the fork; it ILLUSTRATES the stakes of it. *(Analysis.)*
+- **★★ WARNING-vs-TRIGGER, applied:** collective negative FCF is a STATE (a chosen one — capex is
+  discretionary). **The trigger form remains a CAPEX CUT, which on this chart would make the tunnel
+  SHALLOWER and the 2029 bars LOWER** — the standing paradox: the FCF-bullish act is the AI-trade-
+  bearish one. **The put's window (Dec 18) sits at the tunnel's ENTRY — the first collective-negative
+  prints hit as reported earnings Oct-Jan, at record equity valuations, during $25bn/month issuance.**
+  Whether "the market knows" (it is a published GS chart) survives contact with five simultaneous
+  negative-FCF prints is the CEPI question. *(Analysis; descriptive.)*
+
+**Links:** [[ai-capex-cycle]] · [[cepi]] · [[new-economy-regime]] (duration supply) ·
+[[metered-compute]] (the fork) · [[market-fragility]] · [[portfolio-state]]
