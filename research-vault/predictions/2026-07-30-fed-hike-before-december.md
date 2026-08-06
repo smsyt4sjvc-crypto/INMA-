@@ -611,3 +611,21 @@ Fed's longest rate pause since 2008."* Morning entry's reference was *"market ~6
   end ([[../wiki/new-economy-regime]] −0.48; six levers). **A no-hike world is not the benign world for
   the tape; it is the fiscal-dominance branch — which sharpens 8/13 as the put's event rather than
   relaxing it.**
+
+### 2026-08-06 ~8:45am PDT — FRIDAY-EVE CLAIMS: INITIALS NEAR 57-YEAR LOWS — the trigger's U-RATE leg argued AGAINST; "low hire, no fire" confirmed on both sides
+
+**DATA (ZH 8/6 5:40am, chart piece → `raw/zh-2026-08-06-initial-claims-57yr-lows.pdf`):** initial
+claims **below 200k again — "hovering at its lowest since 1969"** (57-year lows); continuing claims
+ticked up to **just above 1.8M** (historically low; mild uptick); PA/NJ rose most, NC/OH fell most.
+
+**GRADING vs the registered Friday trigger (unemployment 4.3%+ AND payrolls below consensus ⇒ DOWN):**
+- **The NO-FIRE side is confirmed at a 57-year extreme ⇒ the U-RATE leg is UNLIKELY to fire via
+  layoffs.** Getting to 4.3% needs unemployed +~250k (the 8/5 JOLTS-implied ~4.16% base); with initials
+  <200k the layoff channel is shut — the leg could only fire via labor-force entry or household-survey
+  noise. *(Claims are June-July-vintage weekly data; the leg is argued against, not closed.)*
+- **The LOW-HIRE side stays armed** (ADP +44k, svcs employment 47.4, ed/health openings rolling) ⇒ the
+  MISS leg remains live.
+- **⇒ Most likely Friday configuration on today's data: SOFT PAYROLLS + STABLE UNEMPLOYMENT = the
+  trigger does NOT fire (it needs BOTH legs) = 65/70 HOLDS.** The market's 47% front-run priced the
+  dovish outcome; claims push back. **The whole week is one configuration: demand cooling, nobody
+  fired.** The two-sided regime again — every leg that softens is offset by a leg that holds.
