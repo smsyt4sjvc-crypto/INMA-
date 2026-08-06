@@ -1780,3 +1780,55 @@ the year's +105% is nearly round-tripped.** Late-July slope still steep, no flat
   open-weight commoditization captured the routed demand it created). *(Analysis on sourced data.)*
 - Also: RedCloud signs the open-weights letter "alongside Microsoft, NVIDIA and OpenAI" (scanner) —
   the Huang letter now a coalition document. Ledger line.
+
+### 2026-08-06 ~2:30pm PDT — ★★★★ THE PRICE WAR'S INSTIGATOR RETREATS: DeepSeek hikes API rates "SIGNIFICANTLY" (2nd hike in a month) because **"demand has overwhelmed its infrastructure"** — Jake: "raging bull potentially." Graded: YES, with layer precision
+
+**Source: ZH 8/6 2:20pm (Caijing/The Standard on the raise; TechNode on July's hike; the pricing notice
+posted to DeepSeek's own developer platform Thursday)** → `raw/zh-2026-08-06-deepseek-74b-raise-price-hike.pdf`.
+
+#### DATA
+- **The raise: ~50B yuan at 500B yuan (~$74B) valuation — resumed two weeks after shelving, ~6 weeks
+  after the FIRST external round ($7.4B in June from Tencent/CATL/state AI fund/NetEase/JD/Monolith/IDG
+  at ~$52B).** A ~40% markup on a weeks-old deal. Signing target: end of month. **Shanghai STAR IPO
+  hoped to FILE THIS YEAR.**
+- **The hike: API rates rising "across the board," increase "significant" — the SECOND in under a
+  month** (mid-July: peak/off-peak DOUBLED rates in Chinese business hours). No rate card/date yet.
+  **This is the $0.14/M-token lab that dragged ByteDance, Tencent, and the US majors into the war.**
+- **The stated cause: "demand has reportedly overwhelmed its infrastructure"** + bargain tokens "a hard
+  pitch to pre-IPO investors."
+- **The leaked Liang transcript (May 20, via GitHub; froze round 1):** China trails the US on COMPUTE +
+  CAPITAL, not talent · DeepSeek "heavily dependent" on NVDA; **Huawei substitutes "falling well
+  short"** · frontier scale ≈ **50,000 NVIDIA GB300s OR 200,000 Huawei Ascend 950s (a 4:1 ratio, from
+  the Chinese champion)** · would convert the entire war chest to NVDA hardware if supply allowed ·
+  admits access to "noncompliant" processors (House Select Committee's 2025 conclusion, founder-
+  corroborated) · hiring chip designers for in-house inference silicon.
+- **Structure: round 1 routed through an LP Liang PERSONALLY controls — 5-year lockup, ZERO voting
+  rights; only Beijing's state fund holds direct equity + a vote. Liang ~84%.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ JAKE'S "RAGING BULL" — RIGHT, AND HERE IS THE PRECISION: THE BULL IS IN THE COMPUTE LAYER,
+  NOT THE MODEL LAYER.** The instigator hiking twice in a month because volume overwhelmed subsidized
+  supply = **the Jevons volume leg (61% of OpenRouter's >20T tokens/week, filed this morning) has
+  outrun the cheap tier — elasticity revealed at the bottom of the price curve. The price floor
+  RETURNS at the cheap end first.** For the token index (a PRICE index, resolved this morning): the
+  hike will print DIRECTLY in the basket — **REGISTERED TEST: SDLLMTK inflects within weeks of the
+  hike's effective date ⇒ the war's end-state confirmed; keeps falling ⇒ the hike didn't stick.**
+  *(Analysis; Jake's read, sharpened.)*
+- **★★★ THE CEILING (ZH's own caveat, and it is load-bearing): THE WEIGHTS ARE OPEN — any datacenter
+  can serve the same models,** so the hosted-API price cannot rise far above commodity serving cost.
+  **This is NOT model-layer pricing power returning; it is COMPUTE SCARCITY repricing.** The
+  compression thesis survives intact at the model layer; **what turns up is the infrastructure toll
+  (NVDA, power, memory — the vault's whole physical-layer stack).** Jake's telecom analogy lands
+  exactly: the minute-price war ended when the discounter's network saturated. *(Analysis.)*
+- **★★★ THE TRANSCRIPT IS THE CLEANEST INDEPENDENT VALIDATION OF THE US CAPEX THESIS ON FILE** — the
+  competitor states the frontier's bill of materials (50k GB300-class before experiments), rates
+  Huawei 4:1 worse, and would spend his entire raise on NVDA. **The $205B capex guides are what the
+  frontier COSTS, per the adversary. NVDA's moat confirmed from inside the sanctions wall — and the
+  wall leaks ("noncompliant" channels, founder-admitted).** *(Analysis; [[ai-capex-cycle]].)*
+- **★★ THE PRE-IPO MOTIVE IS REAL AND DOES NOT CANCEL THE SIGNAL:** pricing for the prospectus is the
+  same act as pricing for scarcity — both end the subsidy. And the round's structure (governance-free
+  LP capital, Liang 84%, Beijing the only outside vote) = **the Chinese mirror of the circularity
+  thread: capital in, control stays, the state holds the seat.** *(Analysis;
+  [[ai-financing-fragility]].)*
+- ⚠️ Evidence rungs: the hike is POSTED (real, dated) but "significant" is an adverb until the rate
+  card; the raise is Caijing-reported, pre-signing. 🚩 The rate card + effective date = the test's clock.

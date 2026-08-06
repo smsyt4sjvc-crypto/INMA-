@@ -3415,3 +3415,12 @@ smuggles estimates into the same series as history; firewall applied)
   NON-EXCLUSIVE license, Mechanize stays independent; not final.** The Reflection-AI/Discovery-Loop
   structure a third time: **don't acquire — license and hire; risk distributed, not extinguished.**
   The circularity playbook is now the standard M&A form. *(Analysis.)*
+
+### 📌 2026-08-06 ~2:35pm PDT — 🚩 HEADLINE-CLASS FLAG: GS reportedly finds "HALF the S&P's 'record' earnings growth is Big Tech marking up its own stock portfolio" (ZH slug; article unread)
+
+If the GS math holds, **the circularity thread reaches the EARNINGS-QUALITY level: mark-to-market gains
+on strategic stakes (the vendor-financing web's equity legs) flowing through GAAP net income = the
+index's "record growth" partly the circular financing marking ITSELF up.** The BXSL print this morning
+is the same accounting fact inverted (marks crushed its income; marks inflate Big Tech's). **Unread —
+the artifact test applies: 🚩 FETCH the GS note's actual decomposition (which line items, which
+stakes, what % precisely) before a word of thesis.** *(Headline via Jake, ZH slug, ~2:20pm.)*

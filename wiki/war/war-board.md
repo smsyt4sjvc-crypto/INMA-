@@ -1560,3 +1560,21 @@ spread maxima are the comparison to pull before calling magnitude.)*
   not a counter-proposal.
 - Majlis: committee PRELIMINARY review, specialists invited, text not final (post-8/6 action beyond
   the cutoff).
+
+### 📌 LEDGER 2026-08-06 ~2:35pm PDT — **FARS 12:58pm: "IRAN STRUCK 'HOSTILE TARGETS' IN STRAIT OF HORMUZ"** — the bill's vocabulary goes kinetic while the bill is still in committee
+
+**DATA:** Fars wire, 12:58pm PT (Jake relay): Iran struck **"hostile targets"** in the strait. No target
+identity, no damage report, no second source at paste time. Same day: the Majlis bill (whose categories
+are *"hostile countries"*) in preliminary committee review; corridor talks in "final stage"; Brent
++5.3% into the print.
+**THESIS (analysis):**
+- **★★★ THE VOCABULARY JOIN IS THE DATUM: "hostile targets" is the DRAFT BILL'S category, enforced
+  kinetically the day the bill entered committee.** The two-track structure's legislative track just
+  went live-fire — **talks-while-shooting in its maximal form: striking inside the strait DURING
+  "final stage" corridor talks.** The tape had it first (the afternoon crude acceleration).
+- ⚠️ Fars = Iran's own claim; could be signaling-sized or exaggerated; **the deny-vs-silence table
+  arms on the TARGET's identity** — a real strike has a victim who speaks (a shipowner, a navy, an
+  insurer). **No named victim within ~24h = signaling-first read strengthens.** 🚩 UKMTO/insurer
+  bulletins = the referee.
+- Book note: the flag-tier freight read only sharpens — "hostile" targeting BY CATEGORY is the
+  two-tier market enforced by ordnance. [[../portfolio-state]]
