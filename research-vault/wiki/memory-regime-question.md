@@ -755,3 +755,25 @@ INTRADAY V (−16→−11, −11→−4.8, −6→−0.35) is the precedent-bid 
 buyer both showed up same-session; (3) **the DISPERSION is the sharpest datum: STX +3.6 while WDC −11
 (HDD pair split), Korea +2.5/+5.8 while US storage sold, SOXX +1.1 — this is rotation INSIDE the
 complex, not a memory dump.** *(Analysis; scanner prints are intraday, not closes.)*
+
+### 2026-08-06 ~12:15pm PDT — HANDOFF: F9 CLOSES (hynix miss = 5.4-5.6%, HBM4 TIMING) — and the ★★★ finding: **the suppliers are the boom's cash accumulators ($263B by year-end)**
+
+- **✅ F9 CLOSED:** SK hynix fiscal Q2: op profit ₩60.54T vs ₩64T consensus (**−5.41%**); revenue
+  ₩79.32T vs ₩84T (**−5.57%**); **HBM4 revenue TIMING cited** — a schedule miss, not a demand miss.
+  **MU CEO Form 4: Mehrotra sold 31,285 shares 7/24 at $906-942 under a 10b5-1 ADOPTED JAN 30; prior
+  sale under the same plan: 2,561 shares (5/29).** Plan-based (signal reduced) — **but 12x the prior
+  tranche, days from the high; plans permit size ladders. Logged both ways.**
+- **★★★ THE CASH-MOUNTAIN JOIN (Reuters): Samsung + SK hynix projected at ~$263B COMBINED NET CASH by
+  year-end; both target payouts of 50% of FCF; hynix weighing more.** Against this morning's GS chart
+  (five hyperscalers COMBINED FCF-negative): **the AI capex cycle's cash flows INTO memory balance
+  sheets — the suppliers are the boom's creditors-in-kind, cash-rich while their customers issue $25bn
+  a month.** The shareholders demanding payouts are asking the boom's winners to distribute what the
+  boom's spenders borrowed. *(Analysis; [[ai-financing-fragility]] GS-chart entry is the mirror.)*
+- **AMEC TOOLS (Reuters exclusive, DENIED specifically by both):** Samsung/hynix testing Chinese etch
+  (AMEC, vs Lam/AMAT) — ~2 years, EVALUATION stage, hedge for China fabs; **both companies issued
+  SPECIFIC denials** (the deny-cell fires, unlike the US's non-specific Hormuz pushback — grade:
+  contested single-outlet exclusive; evaluation-stage even if true). Tooling-wall crack: CLAIMED, denied,
+  unresolved. 🚩
+- iPhone-18: ~$1B of A20 Pro chips "awaiting packaging" on mobile-DRAM constraint — analyst-sourced
+  (Culpan via MacRumors), no Apple/TSMC confirmation. The 100-year-flood's product-level artifact,
+  analyst-grade. Cook separately: "very significant constraints."

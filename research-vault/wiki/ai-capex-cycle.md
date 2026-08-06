@@ -2268,6 +2268,7 @@ against the 424B4):**
 - **SpaceX IPO'd June 11-12, 2026 (sources differ by a day): 555.6M new Class A at $135 = ~$75.0B raised
   (arithmetic checks: 555.6M × 135 = $75.006B), reported as the largest IPO in history; valuation
   ~$1.8T at pricing; now ~$1.98T (~$149/sh implied on ~13.3B shares).** Ticker **SPCX** (Nasdaq).
+    ⟲ SUPERSEDED 2026-08-06 → ai-capex-cycle.md:L2330 — handoff closes: SPCX trades 108-125, ~18-20% BELOW the 135 IPO -- the ~1.98T/~149-implied secondary-source claim refuted by the tape
 - Prior PRIVATE marks via tender offers, for the record: **$350B Dec 2024 → $400B Jul 2025 ($212/sh) →
   $800B Dec 2025 ($421/sh)** — the tender mechanism ENDED at the IPO.
 - **Q2 2026 earnings: reported AFTER THE CLOSE, TUESDAY AUG 4 — the company's first as a public filer.**
@@ -2324,3 +2325,24 @@ leak — **and it started a lockup clock.**
   PurePowerPicks / DayTradingToolkit lockup-schedule explainers (aggregator tier, parameters consistent)
 - ValueAddVC, *"SpaceX Valuation 2026: From a $350B Tender Offer to a $2 Trillion Nasdaq Market Cap"*
   (tender history) · Forge Global (tender cadence, pre-IPO)
+
+### Addendum 2026-08-06 ~12:20pm PDT — ⛔ SPCX TRADES 18-20% BELOW ITS IPO — the 8/5 "~$1.98T (~$149/sh)" line was WRONG; the lockup schedule CONFIRMED from filing-class sources; and the unlock landed into a −13.6% day
+
+**Handoff (SEC filing index + price history):**
+  ⟲ SUPERSEDES ai-capex-cycle.md:L2270 — handoff closes: SPCX trades 108-125, ~18-20% BELOW the 135 IPO -- the ~1.98T/~149-implied secondary-source claim refuted by the tape
+- **⛔ THE CORRECTION: SPCX closes July 21→Aug 5 ran $108.27-$125.33 — the stock trades ~18-20% BELOW
+  the $135 IPO price.** The 8/5 entry's "now ~$1.98T (~$149/sh implied)" came from a bad secondary
+  source (valueaddvc's market-cap claim); **the tape refutes it.** Supersession marker filed on L2270.
+- **The tape into the unlock: Aug 4 $125.33 → Aug 5 $108.27 = −13.6% THE DAY BEFORE THE 20% TRANCHE
+  UNLOCKED; today ~$110.60 intraday.** With the bonds simultaneously repricing ("the fulcrum bond
+  security"), **both sides of the capital structure sold off INTO the supply event — the unlock lands
+  on underwater insiders** (IPO buyers −18%; June-tender privates far worse).
+- **✅ The lockup ladder CONFIRMED from the 424B4-class sources** (the aggregator schedule was right):
+  20% at Q2+2 trading days · **+10% conditional CONFIRMED NOT MET** (no session ≥$175.50 in the test
+  window — the provisional inference verified, and the $175.50 bar vs a $110 tape is its own testimony)
+  · 7% on **Aug 20 / Sep 9 / Sep 24 / Oct 9 / Oct 24** (now DATED) · 28% at Q3+2 days · Dec 8 all
+  remaining · extended group: 20% post-Q4, 10% Mar 18 '27, 20% post-Q1, 10% May 17 '27, 20% Jun 12
+  '27, remainder post-Q2 '27 · Musk/affiliates locked through Jun 12 2027.
+- **Alphabet deal detail (registered test, partial): 10 tranches (8 fixed/2 FRN); final pricing NOT
+  FOUND at cutoff; existing GOOGL 5.65% '56 widened +95→+104bp into the deal.** Test stays open on
+  final pricing + day-1 secondary.

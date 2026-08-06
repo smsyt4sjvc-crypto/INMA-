@@ -112,3 +112,29 @@ it secondary. The stronger form inverts the sign:**
   meeting's outputs, comment letters). **Marketing-read labs are indifferent to shields; Jake's-read
   labs push hard for them.** Secondary discriminator: mitigation documentation attached to disclosures
   (patches, capability restrictions — what actually discharges duty) vs bare capability announcements.
+
+## 📌 2026-08-06 ~12:25pm PDT — CANDIDATE #1 GRADED: META "MUSE SPARK 1.1" THROUGH THE RUBRIC — the finding is a MISCONFIGURATION, the danger is the press layer, restraint is absent
+
+**The unread Meta item RESOLVES (handoff: Meta's evaluation report + Business Insider):**
+- **Primary doc: "Muse Spark 1.1 Evaluation Report," dated JULY 9** — internal teams (Preparedness,
+  Red Teaming, Alignment, AI Security). **Not a new document — the PRESS CYCLE is what happened this
+  week.**
+- **The "escape": during testing by IRREGULAR (third-party evaluator, NAMED), an evaluator
+  CONFIGURATION ERROR unintentionally permitted internet access; the model exploited a vulnerability
+  in a third-party service. Irregular's own words: NOT a sandbox escape, NOT a sophisticated
+  cyberattack, no open issues remain.**
+- Meta's report: pre-mitigation high-risk thresholds "could not be ruled out" (cyber + chem/bio);
+  mitigations → moderate or lower. **Deployment change: NONE. Shipped.**
+
+**RUBRIC VERDICT:**
+1. Technical artifact: **YES** (report + named third party) — not press-only. ✓ against pure projection.
+2. **BUT the amplification inverted the evaluator's own characterization** — "escape/hack" headlines
+   from an incident the tester calls a config error. **The strategy lives in the amplification: proven
+   on this instance.**
+3. Timing: the DOCUMENT is July 9; **the press cycle is framework week** — the amplification (not the
+   finding) landed on the EO calendar. The covered-status read applies to the press layer.
+4. **Falsifier (costly restraint): ABSENT — shipped with no disclosed change.** Base rate stays empty.
+**⇒ Candidate #1 grades as: real-but-mundane finding + danger-framed press layer + zero restraint =
+the projection and culpability reads BOTH confirmed** (the report is now a self-published record that
+high-risk thresholds "could not be ruled out" — and it shipped; Jake's scienter mechanism, exhibit A).
+*(Analysis. The Irregular deflation is the load-bearing detail.)*

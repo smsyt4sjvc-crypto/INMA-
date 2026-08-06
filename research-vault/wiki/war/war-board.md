@@ -1537,3 +1537,26 @@ spread maxima are the comparison to pull before calling magnitude.)*
 - Bypass thread (F18): Bloomberg "Bypass the Strait of Hormuz? Why That's Not So Easy" + ZH "Iraq-Syria
   pipeline could be revived within 3 YEARS" — the no-FID bypass now carries a 3-year revival claim.
   🚩 both queued in the handoff.
+
+### 📌 LEDGER 2026-08-06 ~12:10pm PDT — HANDOFF: **THE FEE GETS ITS NUMBER (5-7% of cargo) — and the insurance mechanism that makes the corridor SELF-BLOCKING**; the spread's war-comp arrives
+
+- **★★★★ TERM 1'S MISSING FIGURE ARRIVES (Reuters/Kitco via handoff): Iranian charges proposed at
+  5-7% OF CARGO VALUE (vs ~3% via the Omani lane).** A laden VLCC (~$140M) ⇒ **$7-10M per transit.**
+  The fee and the 20% fine are confirmed as SEPARATE proposals.
+- **★★★★ WHY "NOT FEASIBLE" — THE MECHANISM: Lloyd's Market Association war-risk wording can
+  TERMINATE coverage when a vessel PAYS a toll to Iran; add US sanctions/asset-freeze exposure on any
+  payment, and doubt the IRGC can guarantee passage.** ⇒ **The corridor is SELF-BLOCKING for Western
+  shipping: use it and lose your war cover + touch sanctions. The freight verdict is not attitude —
+  it is contract wording.** The flag-tier freight structure now has its legal machinery on BOTH sides
+  (Iran's bill excludes; the insurers' wording punishes participation). *(Analysis on sourced terms.)*
+- **THE SPREAD'S WAR-COMP (closes this morning's fetch): war maximum +$9.08 intraday / +$8.50 close
+  (JULY 23); 8/4 close +$4.96; TODAY INTRADAY +$6.24 (1:34pm ET).** From a ~$3.4 base: **~half the
+  war-period premium is REBUILT, and it accelerated intraday today.** ⚠️ Discrepancy flagged: the
+  vault's 8/4 mark was $3.45 (from live-paste math) vs the handoff's $4.96 close — contract-month or
+  source mismatch suspected; the SHAPE (violent re-widening toward war levels) is robust across all
+  sources. 🚩 settle the basis next prices pull.
+- **US position (via handoff, slightly more specific than CNBC's paraphrase): Iran "lacks authority
+  to impose tolls"; passage "must remain unimpeded."** Still zero US terms offered — a legal position,
+  not a counter-proposal.
+- Majlis: committee PRELIMINARY review, specialists invited, text not final (post-8/6 action beyond
+  the cutoff).
