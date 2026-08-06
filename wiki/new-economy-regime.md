@@ -2527,3 +2527,48 @@ this breakdown). Filed to the wiki now because the 8/4 reversal lived only in th
   movement: WARNING-vs-TRIGGER — this print is a state; Friday is the trigger. 65/70 unchanged.**
 
 **Links:** [[ai-capex-cycle]] · [[market-fragility]] · [[../predictions/2026-07-30-fed-hike-before-december]]
+
+### 2026-08-06 ~9:00am PDT — ★★★ WARSH SAYS THE QUIET PART: "MARKETS HAVE MADE DECISIONS BECAUSE WE STEPPED BACK" — the term-premium regime confirmed from the top; the yen piece's other claims graded
+
+Source: **Piepenburg/VonGreyerz via ZH** (Jake PDF 8/6 ~8:45am → `raw/zh-piepenburg-2026-08-06-boj-fed-gold.pdf`).
+**Gold-dealer advocacy — numbers-vs-adverbs applied in full: quotes and figures kept, characterizations
+dropped, independence graded LOW for its gold conclusion** (a gold seller reaching a gold conclusion;
+this vault's version of the same regime came from the correlation data first, −0.48 at L2432).
+
+#### DATA (kept from the piece)
+- **Warsh, July presser (quote-class): "Rates are higher today than they were 42 days ago. Markets have
+  made decisions because we stepped back in part from trying to influence those. Market judgements have
+  moved up on what nominal rates are across the Treasury curve… Monetary policy matters not by just
+  what we say, or even what we do."** July FOMC: 9-3 hold at 3.50-3.75% (→ predictions file, 8/6).
+- **Yen at its weakest vs USD in ~four decades** (consistent with the vault's ¥162+ post-June-hike);
+  **BOJ hiked to 1% in June** — highest since the 1990s (level precision new to the vault).
+- **Japan's yen intervention sized: ~$73B** — the piece asserts it was funded by "massive Japanese sale
+  of USTs." *(Assertion, unsourced — see grading.)*
+- Fiscal: $40T public debt · **$8T refinancing inside 12 months** · interest "$3B/day" (~$1.1T/yr).
+- Claimed (unverified here): record card delinquencies/repo rates vs GFC; lowest UMich print ever;
+  "15 months of consecutive downward payroll revisions"; NASDAQ's worst July in decades.
+
+#### THESIS (interpretation — NOT fact)
+- **★★★ THE CHAIR CONFIRMED THE VAULT'S DECOMPOSITION, FROM THE TOP.** "Stepped back... market
+  judgements moved up" IS the term-premium attribution (30Y +28bp/2Y +3bp, L2451) in the chairman's own
+  words: **the long end is repricing on its own, and the Fed is describing itself as a spectator.**
+  That is the strongest corroboration the −0.48 thread has received — and it upgrades 8/13 from "a
+  Treasury auction" to **a test the Fed has publicly declined to backstop.** *(Analysis.)*
+- **⛔ THE REPATRIATION ATTRIBUTION IS REJECTED AS FILED:** the piece attributes July's tech decline to
+  "Japanese firms selling tech stocks... bringing money home." **Unevidenced, and the CONVERSE of the
+  vault's documented flow** (L2412: *"the AI boom IS the FX stress"* — Japanese capital chasing US AI is
+  what weakens the yen). July's sellers are already NAMED on tape: SA's forced book, retail at 20x,
+  credit-supply indigestion, the China pair (CXMT 7/27 + V4 7/31). **A fifth seller needs evidence, not
+  assertion. 🚩 TIC decides — and this piece raises the TIC fetch's priority AGAIN** (it is now the
+  referee for BOTH the sale-vs-FIMA-pledge fork on the $73B intervention AND the repatriation claim).
+  *(Analysis.)*
+- **⚠️ RECONCILE FLAG: the piece's "$3B/day" interest (~$1.1T/yr) vs the vault's 8/4 ratio-rule
+  implication (~$1.6-1.7T/yr from "bills×25bp = $16-17B ≈ 1%").** Both cannot be right; the 8/4 "1%"
+  may have been loose. 🚩 One-line fetch: FY gross interest expense, settle the denominator the ratio
+  rule uses.
+- **★ THE $8T-REFI-IN-12-MONTHS number is the sharpest fiscal datum in the piece** — it is the
+  mechanical reason the bills-over-coupons regime (committed "several quarters," 8/5) cannot rotate to
+  duration without meeting the exact long end Warsh just declined to manage. Feeds 8/13. *(Analysis.)*
+
+**Links:** [[../predictions/2026-07-30-fed-hike-before-december]] · [[ai-financing-fragility]] ·
+[[market-fragility]] · [[demand-destruction]] (the Japan join) · [[portfolio-state]]

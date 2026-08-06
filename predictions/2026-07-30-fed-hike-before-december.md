@@ -635,3 +635,27 @@ expected** (beat — FEWER layoffs than forecast); continuing **1,801K vs 1,789K
 staying on benefits than forecast). **The low-hire/no-fire asymmetry is inside the consensus misses
 themselves: the fire-side beat expectations, the hire-side missed them.** The configuration is now
 confirmed against consensus, not just against history. Grading above unchanged.
+
+### 2026-08-06 ~8:55am PDT — THE JULY FOMC RECORD ARRIVES (via a gold-advocacy piece, numbers kept, dialect dropped): **9-3 HOLD at 3.50-3.75% — WARSH IN THE NINE**
+
+**Source: Piepenburg/VonGreyerz via ZH (Jake PDF → `raw/zh-piepenburg-2026-08-06-boj-fed-gold.pdf`) —
+gold-seller advocacy, maximal editorial; the FOMC facts are quote/transcript-class and kept:**
+- **July FOMC: 9-3 to hold at 3.50-3.75%.** Presser quotes: *"impressive resilience"*; *"job gains have
+  kept pace with the workforce"*; and the load-bearing one — **"Rates are higher today than they were
+  42 days ago. Markets have made decisions because we stepped back in part from trying to influence
+  those. Market judgements have moved up on what nominal rates are across the Treasury curve."**
+- Post-presser reaction (as-reported): Dow −1000, long-end yields sharply up.
+
+**GRADING:**
+- **✅ THE VAULT'S VOTE ARITHMETIC CONFIRMS AT THE MEETING LEVEL: 3 dissents = the counted hike camp
+  (Logan/Hammack/Kashkari, all public).** The camp is now MEASURED: 3 of 12, needs 7.
+- **⚠️ DOWNWARD WEIGHT, absorbed honestly: THE CHAIR HELD — and his own words explain why: he prefers
+  the LONG END to do the tightening** ("markets... stepped back... judgements have moved up"). A chair
+  outsourcing restriction to the term premium has less reason to move the funds rate. **65% before
+  December requires 4 more members INCLUDING effectively the chair inside 2-3 meetings.** Absorbed, not
+  moved on: Friday remains the registered decider; Kashkari's "time to start" came AFTER this hold
+  (8/5), i.e., the camp is still recruiting in public.
+- **The same quote is UPWARD evidence for the PUT** (filed at [[../wiki/new-economy-regime]] 8/6): the
+  chair confirming market-led long-end repricing = the −0.48 channel validated from the top. **The Fed
+  call and the put are now explicitly on DIFFERENT instruments: the call is the funds rate; the put's
+  event is the term premium (8/13).**
