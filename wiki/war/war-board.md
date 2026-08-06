@@ -1504,3 +1504,13 @@ remains the BRENT-WTI SPREAD, not flat price — 🚩 fetch today's spread to gr
 Hormuz-specific bid or a beta move.** Either way the sequence is on record: corridor prints → crude
 falls (8/5, "maintains losses"); Majlis maximal text prints → crude jumps. **The tape is pricing the
 TWO-TRACK structure in real time — the lease calms it, the statute spooks it.**
+
+**📌 ~9:25am PDT — THE SPREAD FETCH RESOLVES IN 20 MINUTES (Jake pull): Brent $82.64 / WTI $77.84 /
+SPREAD +$4.80.** On-file sequence: **$3.37 (8/2) → $3.45 (8/4) → $4.80 (8/6) — +$1.35 IN TWO DAYS.**
+⇒ **The 9:08am question answers HORMUZ-SPECIFIC, not beta:** the seaborne leg is re-pricing against
+landlocked WTI — the registered instrument (immune to the flat-price base defect) confirms the strait
+premium REBUILDING while the corridor still operates. **The two-track read now has its price print:
+the lease drained the premium (8/2-8/5); the statute is re-charging it (~$1.35 of identifiable strait
+premium restored since the tenor + Majlis text + Aden #2 sequence began).** The flag-tier freight
+analysis has its market corroboration. *(Levels vs the war-period wides: not marked here — the July
+spread maxima are the comparison to pull before calling magnitude.)*
