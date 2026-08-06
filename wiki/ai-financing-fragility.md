@@ -3277,3 +3277,64 @@ amend/extend → PIK (the hiding stage) → **non-accrual (hiding stops)** → r
 #### Sources
 - OBDC June-30 2026 results (PRNewswire/StockTitan/MarketScreener; SEC 8-K ex-99.1) — search 8/6
   ~8:28am PDT · Jake wire paste 8/6 ~8:25am PDT
+
+### 2026-08-06 ~8:40am PDT — ★★★★ THE CREDIT MARKET HAS PRINTED ON THE AI DEBT STACK: CDS record-wides (July), spreads re-widening on GOOGLE'S THIRD $25B — and Alphabet's FIRST NEGATIVE-FCF QUARTER SINCE ITS 2004 IPO
+
+**Yesterday's 🚩 fetch (Market Ear "Remember hyperscaler CDS spreads?") RESOLVES — ZH full piece, Jake
+PDF upload ~8:35am** → `raw/zh-2026-08-06-hyperscaler-bond-spreads-google-25b.pdf`. ZH dialect stripped
+per the source rule; numbers below.
+
+#### DATA (as-reported, ZH 8/6 ~morning; Bloomberg-sourced on the offering)
+- **JULY: hyperscaler CDS went to THE WIDEST ON RECORD; AI-linked cash bond spreads to ALL-TIME WIDES.**
+  Catalysts named: Alphabet raising 2026 capex guidance to **as much as $205B (>2x 2025)**; **BlackRock's
+  $12.5B Meta data-center-SPV bond sale met "very poor" initial demand**; a soft Amazon offering.
+  **⚠️ SEQUENCING: the rout is dated "pre-Situational Awareness"** — the credit leg of July had its OWN
+  catalyst (capex guides + supply indigestion), parallel to the equity flows, not caused by SA.
+- Then a **~20bp tightening** into August ("historic short squeeze... sparked by nobody really knows" —
+  ZH's words); **since Tuesday, re-widened ~10bp — half the tightening gone — as supply returns.**
+- **ALPHABET: third IG offering since November** — Nov 2025 $25B (quadrupled LT debt to $46B) → Feb
+  2026 $30B+ (plus CHF/GBP/EUR/CAD/JPY tranches) → **now $25B in up to 10 parts, 2-40yr maturities,
+  initial talk +155bp over Treasuries on the longest tranche.** Total debt **>$100B**; **>$50B sold in
+  H1 2026 alone**; **~$85B of EQUITY issued ~June**; every major bank underwriting.
+- **★ ALPHABET POSTED ITS FIRST QUARTER OF NEGATIVE CASH FLOW SINCE ITS 2004 IPO** (capex-driven).
+- **Amazon issued an identical $25B one month ago.**
+- **SpaceX bonds — "the fulcrum bond security of the AI world" (ZH) — PLUNGING this morning** on the
+  Google supply news; the prior SpaceX offering described as upsized-then-ill-fated.
+- ZH close references its own overnight piece: **Chinese open-weight models dominating token usage** —
+  the vault's TOP fetch item now confirmed to exist as a ZH piece. 🚩 searchable.
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ THE FIRST CREDIT PRINT'S CAUSE IS SUPPLY, NOT DEFAULT — and that is its own regime.** Record
+  CDS + all-time cash wides arrived via CAPEX GUIDES and INDIGESTION (a $12.5B SPV placing poorly), not
+  a credit event. **The spread is currently the price of the NEXT $25B, not of default odds** — but a
+  market that reprices on every new deal is a market at its absorption limit, and the deal cadence
+  (Google $25B, Amazon $25B, Meta-SPV $12.5B, ~monthly) is the fastest in corporate history.
+  **The funding window is open AND visibly repricing per use — the intermediate state between "deep"
+  and "shut."** *(Analysis.)*
+- **★★★ GOOGLE IS THE CREDIT NEXUS, AND MONDAY'S ENTRY GAINS ITS MISSING LEG:** the same company, one
+  week: scientists exit (the compression-thesis org chart, L3196) + **first negative FCF since IPO +
+  $100B debt + $205B capex + $85B equity.** Nine months from net-cash fortress to serial multi-currency
+  borrower. **The circularity thread now runs capital → talent → CREDIT.** *(Analysis.)*
+- **★★★ THE DURATION-SUPPLY JOIN — the 8/2 finding ("Big Tech's pivot from providing savings to
+  demanding credit") NOW HAS A CADENCE AND A CALENDAR:** 40-year Google tranches at +155bp price the
+  SAME WEEK as the 8/13 $25B Treasury 30Y. **Sovereign and hyperscaler duration supply land on the same
+  long end simultaneously, at −0.48 transmission** ([[new-economy-regime]]). The put's channel has a
+  corporate co-supplier. *(Analysis.)*
+- **★★★ SPACEX, BOTH BARRELS, TODAY:** the bond market names it the AI cycle's fulcrum security and
+  reprices it DOWN the same day its **first equity lockup tranche (20%) unlocks** ([[ai-capex-cycle]]
+  8/5 addendum). **Both sides of the marginal AI credit's capital structure under supply pressure on
+  one date.** The fundamental underneath is on file: 6.18x capex/revenue, −$14.8B/qtr FCF proxy.
+  *(Analysis.)*
+- **★★ ZH'S "NOBODY REALLY KNOWS" SQUEEZE — THE VAULT KNOWS:** seller exhaustion (retail 20x + SA
+  liquidation complete, 8/4-8/5 entries) + GS prime-book short-covering (8/2) + the record close. Filed
+  as the answer to the rhetorical question. *(Analysis.)*
+- **⚠️ NOT F8 — still no dealer writedown. But the Meta-SPV poor-demand line is the closest print yet
+  to the off-balance-sheet paper's market test.** 🚩 FETCH: where the BlackRock/Meta SPV bonds TRADE
+  now (secondary level = the off-BS stack's first mark).
+
+**Links:** [[new-economy-regime]] · [[ai-capex-cycle]] · [[metered-compute]] · [[market-fragility]] ·
+[[compression-thesis]] · [[portfolio-state]]
+
+#### Sources
+- ZH, *"Hyperscaler Bond Spreads Blow Out After Google Shocks With Another $25 Billion Bond Offering,"*
+  2026-08-06 (Bloomberg-sourced) — Jake PDF ~8:35am PDT → raw/
