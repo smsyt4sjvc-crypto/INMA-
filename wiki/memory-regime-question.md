@@ -740,3 +740,18 @@ in the direction that HELPS the defendants.
 
 **Links:** [[compression-thesis]] · [[ai-capex-cycle]] · [[cepi]] · [[ai-infra-allocation-map]] ·
 [[portfolio-state]] (MU 28%)
+
+### 2026-08-06 ~11:00am PDT — TREADMILL TEST #2 GRADED: **SOLD** — with the contamination caveat, and an intraday V that muddies the verdict
+
+**DATA (acute scanner 17:57 UTC prints + its own headlines):** SNDK **−4.79%** ($1,285.85) · WDC
+**−11.13%** ($461.40) on CLEAN beats · MU **−0.35%** · Seagate **+3.62%** · Samsung **+2.50%** /
+SK hynix **+5.77%** (Korea UP) · SOXX **+1.11%**. Intraday headline (4.5h prior): *"WDC sinks 16%,
+SanDisk falls 11%, Micron drops 6%"* ⇒ **all three closed WELL off the lows — the dip was bought
+intraday, again.**
+**VERDICT:** beats-without-raises sold for the second time in one week (AMD template) — **the
+expectations-altitude regime fact CONFIRMED, with stated caveats:** (1) the NVDA HBM-thrifting headline
+contaminated the session (WDC −11 on clean beats is too big for thrifting-only, but not clean); (2) the
+INTRADAY V (−16→−11, −11→−4.8, −6→−0.35) is the precedent-bid reflex inside the wreckage — seller and
+buyer both showed up same-session; (3) **the DISPERSION is the sharpest datum: STX +3.6 while WDC −11
+(HDD pair split), Korea +2.5/+5.8 while US storage sold, SOXX +1.1 — this is rotation INSIDE the
+complex, not a memory dump.** *(Analysis; scanner prints are intraday, not closes.)*

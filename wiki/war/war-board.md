@@ -1514,3 +1514,26 @@ the lease drained the premium (8/2-8/5); the statute is re-charging it (~$1.35 o
 premium restored since the tenor + Majlis text + Aden #2 sequence began).** The flag-tier freight
 analysis has its market corroboration. *(Levels vs the war-period wides: not marked here — the July
 spread maxima are the comparison to pull before calling magnitude.)*
+
+### 📌 LEDGER 2026-08-06 ~11:00am PDT — scanner sweep: THE US RESPONSE LANDS IN THE THIRD CELL; the freight industry issues its verdict; the Houthis go to GROUND ASSAULT
+
+**DATA (scanner 17:57 UTC, headline-class unless noted):**
+- **CNBC: Iran's plan "reportedly blocks U.S., Israeli ships; US rejects any 'impediments'"** ⇒ **the
+  registered table fills: NON-SPECIFIC PUSHBACK (cell 3)** — a generic rejection, no counter-terms, no
+  denial of the corridor/fee structure itself. **The US's first printed word on ANY term is a rejection
+  of Iran's maximal bill, not a term of its own. Scorecard: Iran 3 terms staked, US 0 offered, 1 generic
+  rejection.**
+- **Reuters: "Proposed Hormuz passage deal NOT FEASIBLE for shipping industry, sources say" + Lloyd's
+  List: risk will remain "EXTREME" + Fortune: "shipowners are OUTRAGED by its plan to charge fees"** ⇒
+  the freight-market verdict arrives industry-wide: **the corridor's paper de-escalation does not clear
+  the insurance/operational bar — the flag-tier/freight-residue read confirmed by the trade press.**
+- **Saudis CUT main oil price to Asia (2nd cut)** — competing for Asian barrels ahead of returning
+  Iranian flow = the physical market pricing the corridor as REAL supply even as freight rejects it.
+  The flat-price/freight divergence is now three-sided: crude softens (supply), spread widens (strait
+  premium: **82.25−77.24 = $5.01 at scanner prints**), freight stays extreme (insurance).
+- **Houthis: ≥30 Yemeni government troops killed; ZH slug "Houthis Intensify Saudi Shipping Attacks,
+  Ground Assault"** ⇒ **the migration fork's (a)-branch gains: tempo AND mode escalation (sea → ground)
+  in the uncovered theatre while the covered one de-escalates.**
+- Bypass thread (F18): Bloomberg "Bypass the Strait of Hormuz? Why That's Not So Easy" + ZH "Iraq-Syria
+  pipeline could be revived within 3 YEARS" — the no-FID bypass now carries a 3-year revival claim.
+  🚩 both queued in the handoff.
