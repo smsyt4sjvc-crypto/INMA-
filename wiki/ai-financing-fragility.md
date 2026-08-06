@@ -3239,3 +3239,41 @@ graded: the chart was not shown, and the artifact test applies to charts too.** 
 fact moved, it would be the first CREDIT-market print on the AI debt stack since the field report —
 the exact instrument class the equity tape doesn't carry. **Get the chart before a word of read.**
 *(ZH relay of The Market Ear, source stamp ~10:05am PDT, 2026-08-05.)*
+
+### 📌 2026-08-06 ~8:30am PDT — OBDC Q2: LOPAREX TO NON-ACCRUAL — the legacy book confesses inside the AI lending machine (NOT F8; stated before drift)
+
+**Jake pasted the wire ("*BLUE OWL'S OBDC PLACED LOPAREX ON NON-ACCRUAL STATUS") + asked for the
+mechanics.** Non-accrual = the lender stops recognizing interest income, reverses accrued-unpaid,
+marks the loan — its own accounting confessing collection is doubtful. Sequence position:
+amend/extend → PIK (the hiding stage) → **non-accrual (hiding stops)** → restructuring → realized loss.
+
+#### DATA (OBDC June-30 Q2 release, via search 8/6 ~8:28am PDT)
+- **Non-accruals 2.8% of portfolio AT COST (from 2.0% at 3/31); 0.8% at FAIR VALUE (from 1.0%)** — the
+  wide cost-vs-FV gap = sour names already marked down hard. Portfolio **$15.0B, 229 companies.**
+- **NII rose: $0.36 GAAP / $0.34 adjusted (vs $0.31 prior qtr); dividend $0.33 covered (9.3% yield).**
+- Loparex: PE-owned specialty films/release-liner maker (labels/tapes/medical) — **an industrial,
+  pre-AI-vintage LBO credit.** *(Sponsor unverified; not needed for the read.)*
+
+#### THESIS (interpretation — NOT fact)
+- **⛔ NOT F8, AND NOT AN AI CREDIT — stated before anything drifts (the L2132 discipline).** F8 needs a
+  DEALER writedown; a BDC non-accrual is locked capital eating credit pain = the private-credit system
+  working as designed. And Loparex is the ORDINARY cycle (2019-21 LBO vintage × floating rates × soft
+  industrial demand) confessing on schedule. **2.8% at cost = upper-NORMAL (BDC range 1-3%), rising,
+  not crisis-shaped — one more confession in a book whose income still grew.** *(Analysis.)*
+- **★★★ THE JOIN THAT SURVIVES DISCIPLINE: the same vehicles carry BOTH books.** Legacy LBO paper
+  confessing + OTIC's 38.1% redemption queue (the field report's gates, L3049) + record-pace AI/DC
+  lending from the same complex ⇒ **legacy confessions → redemption pressure → gates → LESS new-lending
+  capacity exactly when the AI borrowers need the vehicles most. The marginal data-center dollar comes
+  from vehicles whose old book is starting to confess.** Reflexive; feeds the registered Q3 BDC-tender
+  watch. *(Analysis.)*
+- **🚩 THE FORWARD METRIC: PIK SHARE OF INCOME, complex-wide.** PIK is the waiting room for future
+  non-accruals — a rising PIK% = the pipeline loading. **FETCH: OBDC's PIK% this quarter (in the 10-Q) +
+  the same line at OTIC/peers.** Secondary: whether Q3 non-accrual adds skew from industrial vintage
+  toward anything tech-adjacent — the first AI-era name on a non-accrual list is a dated event for this
+  file. *(Analysis.)*
+
+**Links:** [[market-fragility]] (F8, distinct) · [[ai-capex-cycle]] · [[portfolio-state]]
+
+#### Sources
+- OBDC June-30 2026 results (PRNewswire/StockTitan/MarketScreener; SEC 8-K ex-99.1) — search 8/6
+  ~8:28am PDT · Jake wire paste 8/6 ~8:25am PDT
