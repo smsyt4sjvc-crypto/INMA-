@@ -216,3 +216,40 @@ chart is CLIENT-ONLY.** Vanda = the second source.
   Vanda as the only proxy.**
 
 **Links:** [[market-fragility]] · [[ai-financing-fragility]] · [[memory-regime-question]] · [[portfolio-state]]
+
+### 2026-08-05 ~8:20pm PDT — KOREA: THE PRECEDENT BID WITH A PRESIDENTIAL SEAL — the state as dip-coach, and the wrapper inverted
+
+#### DATA (as-reported — Jake relay, no article pasted; the specific item is UNREAD)
+- **Jake (verbatim intent):** *"The PRESIDENT of Korea was a day trader and encouraged and ran his
+  campaign on literally promising stock market gains. Then pushed single-stock leveraged ETFs. You
+  can't make this shit up."* **🚩 The "pushed single-stock leveraged ETFs" item: paste wanted.**
+- Corroborable from the general record *(training-era, labeled)*: Lee Jae-myung's 2025 campaign carried
+  an explicit **"KOSPI 5000"** pledge + the "Korea discount" capital-markets agenda; Korea's revealed
+  toolkit includes **full short-selling bans (Nov 2023→Mar 2025)** and National Pension Service (NPS)
+  support operations; **Korean retail is the dominant foreign buyer of US-listed single-stock leveraged
+  ETFs** (the TSLL/NVDL class). The day-trader biography: Jake's characterization, not verified here.
+- **Vault join:** McElligott 8/4 — leveraged ETFs "6th largest," **negative gamma, skew defenestrated**
+  ([[market-fragility]]).
+
+#### THESIS (interpretation — NOT fact; analysis unless tagged)
+- **★★★ THE STRONGEST-FORM PRECEDENT BID: THE PRECEDENT IS POLICY.** In the US the dip-reflex is taught
+  by apps, AI, and survivorship; **in Korea the coach is the head of state, with an index target as a
+  campaign promise.** Dip-buying under an explicit political put is not irrational retail behavior —
+  **it is a rational bet on a counterparty with legitimacy on the line and a pension fund for a balance
+  sheet.** The taught-behavior thesis's national-scale specimen.
+- **★★★ SINGLE-STOCK LEVERAGED ETFs = WRAPPERIZATION INVERTED.** This file's wrapperization finding
+  (single names → broad wrappers = idiosyncratic risk SHED) meets its mirror: **a wrapper FORM carrying
+  anti-diversification CONTENT** — one name + leverage + daily-rebalance mechanics that mechanically buy
+  strength and sell weakness (the negative-gamma flow in the McElligott datum). **The state blessing the
+  highest-octane retail instrument = amplitude machinery sponsored from the top.** Two wrapper species
+  now on the board: the risk-shedding wrapper (US retail, 8/5am entry) and the risk-concentrating one.
+- **★★ STEELMAN — the side "you can't make this up" under-weights, and it is STRONG: state-sponsored
+  equity programs run for a decade and WORK.** BOJ ETF buying + governance reform doubled the Nikkei;
+  Korea's value-up lineage is the same family. Absurdity is not a timing signal. **WARNING-vs-TRIGGER:
+  presidential dip-coaching is a STATE. The trigger form is CAPACITY — foreign outflows exceeding NPS
+  firepower, or the funding event — and neither is dated here.** *(Analysis.)*
+- **★★ THE GLOBAL PATTERN LINE:** Japan (index via reform), Korea (index target + retail instruments),
+  US (six levers at the long end, −0.48) — **asset prices as explicit policy deliverables across the
+  bloc. Fiscal dominance has a retail-equity face.** ([[new-economy-regime]].)
+
+**Links:** [[market-fragility]] · [[new-economy-regime]] · [[detachment-bid]] · [[ai-financing-fragility]]
