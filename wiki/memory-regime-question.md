@@ -569,3 +569,51 @@ memory stock?"*
 
 #### Sources
 - @zerohedge tweets (SNDK Q4/Q1 · WDC Q4/Q1) — Jake paste 2026-08-05 ~2:35pm PDT, tweets ~1h prior
+
+### 2026-08-05 ~9:00pm PDT — JAKE'S TIMING THESIS GRADED: "China has extraordinary timing" — the symmetric test says HARVEST, not war-room; and the harvest logic is the actionable part
+
+**Jake:** *"Seems like China has extraordinary timing. Open source models right when capex/revenue is at
+its highest scrutiny. CXMT IPO right when memory trio are leveraged to the max."*
+
+#### DATA (web search ~8:55pm PDT + vault records)
+- **CXMT: priced 7/27 on Shanghai STAR — RMB 57.92B (~$8.6B; scanner headlines said $9.8B — source
+  spread flagged), +466% day one (531% midday), most valuable mainland-listed company (~RMB 3.66T),
+  MSCI fast-tracked (this file L283), Capitol Hill probe triggered, Micron "spooked"** (CNBC/TechNode/
+  TechTimes). Proceeds: "mass-producing memory wafers."
+- **The cluster: CXMT 7/27 → DeepSeek V4 Flash −80% cut 7/31 — FOUR DAYS.** Capital wrench + token
+  wrench in one week, into earnings-season capex scrutiny. The 8/4 chronology (atoms 2025 · tokens
+  7/31/26 · May unattributed) **gains a CAPITAL leg: 7/27.**
+- **The symmetric datapoint (vault, [[ai-capex-cycle]] SKHY workup): SK HYNIX did the identical thing
+  17 DAYS EARLIER** — 7/10 Nasdaq, $26.5B, largest foreign US share sale ever, at peak HBM enthusiasm,
+  "demand is enormous" on debut day.
+- Standing (this file, 7/31): shortage-now / **supply response lands 2028** (18-24mo cash→wafers);
+  memory de-coupled from semis ON CXMT's pricing day (MU −3.23/SNDK −1.74/hynix −5.64 vs SOXX +1.56).
+
+#### THESIS (interpretation — NOT fact)
+- **★★★ THE SYMMETRIC TEST KILLS "STRATEGIC TIMING" FOR THE IPO LEG.** If CXMT listing at the memory
+  top is Chinese strategy, SK Hynix listing at the same top for 3x the size is Korean strategy — or,
+  parsimoniously, **both are issuers harvesting the same peak** (this vault's own SKHY read: *"record
+  listings cluster at tops because that's when sellers get record prices"* — the AT&T Wireless 2000
+  rhyme). *(Analysis.)*
+- **★★★ WHAT SURVIVES IS THE WHAT, NOT THE WHEN — and it is sharper than timing:** SK Hynix's raise
+  funds an incumbent defending its pricing; **CXMT's raise converts peak-enthusiasm capital into the
+  capacity that ENDS the peak (the dated 2028 supply response). China did not time the top; it let the
+  top FINANCE the thing that kills the top.** Open source, same shape: the strategy is not releasing
+  during earnings week, it is releasing OPEN at all ([[compression-thesis]] as national strategy; the
+  scrutiny window is continuous since 2025, so every release lands in one). ⚠️ The R1-days-after-
+  Stargate precedent keeps a tactical prior alive — that one was too clean. *(Analysis.)*
+- **★★★ THE ACTIONABLE FORM (Jake's observation, mechanism-corrected): CHINA-EVENT RISK ON THE MEMORY
+  COMPLEX IS PROCYCLICAL.** War-room or harvest incentive, the observable is identical — **Chinese
+  capital and price events cluster at the Western complex's maximum-leverage moments, predictably,
+  because that is when harvesting pays most.** The trio's (and MU's) China-event density is highest
+  exactly when the boom looks best. **Risk-geometry: the tail thickens at local maxima, not uniformly.**
+  *(Analysis; no coordination claim required.)*
+- ⚠️ WARNING-vs-TRIGGER: procyclical event-density is a STATE. The dated trigger stays 2028-supply
+  (this file L296) and any BIS/tooling action on F3.
+
+**Links:** [[ai-capex-cycle]] (SKHY workup) · [[compression-thesis]] · [[metered-compute]] ·
+[[buildout-bottleneck-map]] · [[market-fragility]]
+
+#### Sources
+- CNBC 7/27 (debut +466%) · TechNode 7/27 ($8.6B, most valuable A-share) · TechTimes 7/28 (Micron/
+  Capitol Hill) · CNBC 7/24 (cash-drain fears) · IndexBox (subscription window) — search 8/5 ~8:55pm PDT
