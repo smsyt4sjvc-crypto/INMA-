@@ -2214,3 +2214,39 @@ PATTERN and the dealer test becomes materially more interesting. If they restate
 event wearing three numbers** — the syndication tell (*"N outlets, one origin"*) already in the handoff rules.
 
 **Links:** [[ai-financing-fragility]] (F8) · [[compression-thesis]] · [[portfolio-state]]
+
+### 2026-08-06 ~2:20pm PDT — TAPE READ: **THE FUNDING LADDER PRICES INSIDE TECH** — GOOGL taxed on its own issuance day, neoclouds crushed, MSFT at $500; the amplify-regime live; NBIS −11.7% is F8's sharpest candidate yet
+
+**DATA (live prices ~15m delayed, ~2:05pm PDT; changes vs prior close):**
+- **The ladder, top to bottom: MSFT +2.90 ($499.86) / NOW +3.85** · **GOOGL −1.90 ON ITS $25B PRICING
+  DAY** · neoclouds: **NBIS −11.71** / CRWV −4.12 / APLD −3.22 / WULF −2.89 / CORZ −2.77 / IREN −1.74.
+- Indexes barely moved over it: SPX −0.18 / SPY −0.33 / QQQ −0.27 / IWM −0.61 · **VIX 15.15 −4.24%
+  (crushed, on a red day)** · SOXX +0.46 / SMH +0.26 / **MU +0.60 GREEN** the day after the SNDK/WDC
+  wreck.
+- **Crude ripping: Brent 83.55 +5.27 / WTI 78.23 +4.32 — spread $5.32 on the vault's own (Yahoo)
+  basis: 3.37→3.45→4.80→5.01→5.32.** *(Basis note partially resolved: the handoff's $6.24 runs on
+  Investing.com's series ~$1 wider; the vault's own series is internally consistent — same-source
+  comparisons only from here.)* XLE +1.43 · **GLD −0.74 (the war bid is in oil, not gold, today)** ·
+  VG +8.64 (LNG leg).
+- **The amplify-regime LIVE: SPY −0.33 AND TLT −0.64 both red; 10Y 4.67 (+1.15%)** — the long end
+  selling into the duration-supply week (Google 40yr priced; 8/13 30Y ahead). Levels: SPX 7,710 vs CTA
+  7,446 (+264); Brent < $90 marker; 10Y < 5.00 corner; gold 4,299.
+
+**THESIS (analysis):**
+- **★★★ THE DAY'S STRUCTURE IS THE FUNDING HIERARCHY PRICED INSIDE MEGA-CAP TECH — new granularity:
+  the market taxed each name by its DISTANCE FROM THE BOND MARKET.** Cash-fortress software (MSFT,
+  NOW) green; the credit nexus (GOOGL) −1.9% on the day it priced $25B; the private-credit-dependent
+  neoclouds −2 to −12%. **The credit repricing cascades DOWN the capital-access ladder — the equity
+  market is now doing per-name what the CDS market did per-sector.** ([[ai-financing-fragility]] GS
+  chart = the map; today = the territory.)
+- **★★★ THE PUT'S WORLD ASSEMBLING UNDER A FLAT INDEX:** SPX −0.18 hides: long end selling (T5's
+  both-red day at −0.48), the ladder repricing, ~half the war premium rebuilt in crude — **while VIX
+  gets CRUSHED 4%.** The index put is cheap-vol exposure to a tape whose internals are all moving the
+  put's direction. *(Descriptive; the 745s.)*
+- **★★ F8: NBIS −11.7% IN A SESSION — the sharpest single-name candidate in the flag's life** (cohort
+  red across the board on the funding-cost day). **Still price, not EVENT — F8 needs a named
+  writedown/casualty; test expires ~8/10.** 🚩 catalyst check on NBIS next scanner pass.
+- **★ Crude-up + equities-calm + vol-crushed = the flag-tier read printing:** the strait repricing is
+  a FREIGHT/crude event, not (yet) an equity event — exactly the divergence the freight-residue thread
+  predicted. WARNING-vs-TRIGGER: the configuration is a state; 8/7 payrolls and 8/13 are the dated
+  events.
