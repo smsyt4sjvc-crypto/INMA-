@@ -629,3 +629,9 @@ ticked up to **just above 1.8M** (historically low; mild uptick); PA/NJ rose mos
   trigger does NOT fire (it needs BOTH legs) = 65/70 HOLDS.** The market's 47% front-run priced the
   dovish outcome; claims push back. **The whole week is one configuration: demand cooling, nobody
   fired.** The two-sided regime again — every leg that softens is offset by a leg that holds.
+
+**Addendum ~8:55am — the precise prints (ZH tweet 5:30am, Jake paste):** initials **199K vs 205K
+expected** (beat — FEWER layoffs than forecast); continuing **1,801K vs 1,789K expected** (miss — MORE
+staying on benefits than forecast). **The low-hire/no-fire asymmetry is inside the consensus misses
+themselves: the fire-side beat expectations, the hire-side missed them.** The configuration is now
+confirmed against consensus, not just against history. Grading above unchanged.
