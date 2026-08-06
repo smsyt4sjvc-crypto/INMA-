@@ -242,6 +242,7 @@ chart is CLIENT-ONLY.** Vanda = the second source.
   anti-diversification CONTENT** — one name + leverage + daily-rebalance mechanics that mechanically buy
   strength and sell weakness (the negative-gamma flow in the McElligott datum). **The state blessing the
   highest-octane retail instrument = amplitude machinery sponsored from the top.** Two wrapper species
+    ⟲ SUPERSEDED 2026-08-06 → precedent-bid.md:L253 — web search: the blessing was revoked -- launch May 27, brake July, cash-gate effective Aug 5, criminal complaint; ten-week arc
   now on the board: the risk-shedding wrapper (US retail, 8/5am entry) and the risk-concentrating one.
 - **★★ STEELMAN — the side "you can't make this up" under-weights, and it is STRONG: state-sponsored
   equity programs run for a decade and WORK.** BOJ ETF buying + governance reform doubled the Nikkei;
@@ -251,5 +252,53 @@ chart is CLIENT-ONLY.** Vanda = the second source.
 - **★★ THE GLOBAL PATTERN LINE:** Japan (index via reform), Korea (index target + retail instruments),
   US (six levers at the long end, −0.48) — **asset prices as explicit policy deliverables across the
   bloc. Fiscal dominance has a retail-equity face.** ([[new-economy-regime]].)
+    ⟲ SUPERSEDES precedent-bid.md:L244 — web search: the blessing was revoked -- launch May 27, brake July, cash-gate effective Aug 5, criminal complaint; ten-week arc
 
 **Links:** [[market-fragility]] · [[new-economy-regime]] · [[detachment-bid]] · [[ai-financing-fragility]]
+
+### Addendum 2026-08-05 ~8:25pm PDT — ⛔ LOOKED UP (Jake: "Did you look it up?" — I hadn't): THE FULL ARC IS BETTER THAN THE CLAIM, AND IT ENDS TODAY
+
+**⛔ PROCESS ERROR FIRST: I graded Jake's claim against training priors and asked HIM for the paste while
+holding a working search tool I had used an hour earlier for SpaceX.** The 7/31 error inverted: then I
+searched the web when the vault had the answer; tonight I used priors when the claim was an EVENT — and
+events belong to the web. *Vault for conclusions, web for events.*
+
+#### DATA (web search 2026-08-05 ~8:22pm PDT — KED Global, Korea Times, Korea JoongAng Daily, BigGo/bloomingbit aggregators)
+- **Launch: single-stock leveraged ETFs listed in Korea May 27, 2026** — rushed to market **less than
+  five months after presidential policy chief KIM YONG-BEOM raised the issue with the FSC**, on a
+  US/Hong-Kong access-parity argument. **⇒ Jake's "pushed" = CONFIRMED, at the presidency level.**
+- **~12 TRILLION WON (~$8.1B) of market cap in under two months.**
+- **The reversal, dated:** Korea Times 7/15: **"President orders swift measures on RISKS of single-stock
+  leveraged ETFs"** (Lee, at a presidential-office briefing; regulators produced a package within a day)
+  · KED 7/16: cash deposit TRIPLED · 7/29 emergency market review (Finance Minister Koo Yun-cheol):
+  individual investment limits + **retail cap at 20%** · **EFFECTIVE ~AUG 5 (TODAY): 30M won (~$20.3k)
+  CASH-ONLY base deposit (securities collateral eliminated), minimum trading unit 1→20 shares, NEW
+  LISTINGS SUSPENDED.**
+- **Kim Yong-beom faces a CRIMINAL COMPLAINT over the leveraged semiconductor ETFs** (JoongAng Daily).
+- Products named in the complaint: **leveraged SEMICONDUCTOR ETFs** — the underlyings are the chip names.
+
+#### THESIS (interpretation — NOT fact)
+- **⟲ THE "STATE BLESSING" LINE (L244) IS SUPERSEDED BY THE ARC: blessed (May 27) → $8.1B in seven
+  weeks → braked (July) → CASH-GATED EFFECTIVE TODAY → the push-man criminally complained-against.
+  Launch-to-emergency-brake: TEN WEEKS.** The state didn't just sponsor the amplitude machine — it
+  sponsored it, watched it fill, and slammed it shut. *(Analysis on sourced dates.)*
+- **★★★ THE JULY JOIN — the third structure detonated by the same event.** Global semis fell −13.2% in
+  July ([[ai-financing-fragility]] beta-mismatch). A 2x single-stock chip wrapper is −25/30% in that
+  month — **$8.1B of seven-week-old retail money, levered onto semis, into the exact drawdown that
+  killed SA's longs and triggered US retail's 20x selling. The president ordered measures JULY 15 —
+  mid-drawdown.** One July event, three casualties: the levered fund, the US retail flow, and Korea's
+  brand-new instrument class. *(Analysis.)*
+- **★★★ THE POLITICAL PUT'S COROLLARY — the entry's put logic gains its missing half: a president who
+  PROMISED the index cannot afford a retail WIPEOUT either.** Legitimacy fused to the tape cuts both
+  ways — he is long the index AND short retail catastrophe. **The crackdown is not the put failing; it
+  is the put's risk management: suppress the instrument that could deliver losses too violent to
+  absorb politically.** The state manages BOTH tails of its citizens' P&L. *(Analysis.)*
+- **★★ LIVE FLOW NOTE: the cash-gate effective today forcibly de-participates small retail from a
+  ~$8.1B complex in KR chip names** (30M won cash + 20-share minimums prices out the base). Where the
+  de-leveraging flow lands — orderly runoff vs forced unwind in the underlyings (SK Hynix/Samsung
+  class) — is unobserved. **🚩 WATCH: KR semis tape this week vs the wind-down.** *(Analysis; the
+  memory complex link — [[../memory-regime-question]].)*
+
+#### Sources
+- KED Global 7/16 · Korea Times 7/15 · Korea JoongAng Daily (criminal complaint) · BigGo/bloomingbit
+  aggregators (Aug-5 effective dates, 20% cap) — web search 2026-08-05 ~8:22pm PDT
