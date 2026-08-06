@@ -3338,3 +3338,12 @@ per the source rule; numbers below.
 #### Sources
 - ZH, *"Hyperscaler Bond Spreads Blow Out After Google Shocks With Another $25 Billion Bond Offering,"*
   2026-08-06 (Bloomberg-sourced) — Jake PDF ~8:35am PDT → raw/
+
+**Addendum 2026-08-06 ~9:05am PDT — ⛔ ZH's "GOOGL funding ALL of its capex with debt" (tweet 5:22am,
+232K views) FAILS ITS OWN ARITHMETIC — filed before the adverb hardens into a fact:** debt raised since
+November ≈ **$80B** (25+30+25) against a capex guide of **up to $205B**, and the same entry's tape has
+**~$85B of EQUITY issued in June** — which the tweet omits entirely. Operating cash flow remains the
+LARGEST funding source; debt is ~40% of the guide at most. **The true statement underneath is sharper
+than the false one: with FCF negative for the first time since 2004, the MARGINAL capex dollar is now
+externally funded — debt AND equity.** "All" is the dialect; the margin is the regime change.
+*(Numbers-vs-adverbs, applied to the fast-and-reliable source per the standing rule.)*
