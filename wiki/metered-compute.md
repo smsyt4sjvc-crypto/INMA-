@@ -1760,3 +1760,23 @@ the year's +105% is nearly round-tripped.** Late-July slope still steep, no flat
   high, lower low, both legs bigger.** A commodity index maturing toward benchmark status should
   COMPRESS its oscillation; this one is widening — the wildcat/financialization stage (L1685) with
   structure, not a settled utility print. *(Analysis; two cycles = two observations.)*
+
+### 2026-08-06 ~12:05pm PDT — ★★★★ HANDOFF RESOLVES THE FORK **AND** DELIVERS THE VOLUME LEG: the index is a PRICE index — and Chinese open-weights are 61% of OpenRouter's >20 TRILLION tokens/week
+
+**Source: handoff reply (docx, cutoff 10:51am PT) → `raw/handoff-reply-2026-08-06.docx`.**
+- **★ THE FORK RESOLVES → (a) PRICE INDEX.** Silicon Data's own methodology: *"The LLM Token
+  Expenditure Index (SDLLMTK) is the Silicon Data benchmark for large language model inference token
+  PRICING"* — normalized blended rate, USD per million tokens; usage only as a weighting input.
+  **⇒ The Jevons dashboard did NOT fire in May. The −38% is the price war's scoreboard, not spend
+  contraction. The 8/4 entry's assumption (a) VALIDATED; the crossover question stays open — decided
+  by a volume series, and one just arrived:**
+- **★★★★ THE VOLUME LEG (Wing VC analysis of OpenRouter): Chinese open-weight models = ~61% of
+  OpenRouter tokens by May 2026; 4 of the top 5 models Chinese; Xiaomi MiMo alone ~21% of all tokens
+  and ~22% of coding traffic; OpenRouter processing >20 TRILLION tokens/WEEK.** ⚠️ Dataset caveat (the
+  handoff's own): router traffic ≠ global usage — OpenRouter selects for cost-sensitive routing
+  developers; "dominate global token usage" overstates coverage. **But directionally: volume is
+  enormous and GROWING through the price collapse — the Jevons regime's volume precondition is visibly
+  met at the router margin; and the SHARE went to the price-cutters** ([[compression-thesis]]: the
+  open-weight commoditization captured the routed demand it created). *(Analysis on sourced data.)*
+- Also: RedCloud signs the open-weights letter "alongside Microsoft, NVIDIA and OpenAI" (scanner) —
+  the Huang letter now a coalition document. Ledger line.

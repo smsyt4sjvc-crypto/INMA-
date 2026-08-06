@@ -3402,3 +3402,18 @@ Source: EIA weekly via Jake paste (~8:15am ET data). **FIRST-USE:** SPR = Strate
   the crude build is a supply/import story, not a demand collapse. *(Analysis.)*
 
 **Links:** [[war/war-board]] · [[oil-value-chain]] · [[new-economy-regime]] (the six levers)
+
+### 📌 2026-08-06 ~12:10pm PDT — HANDOFF CLOSES F4'S GAP: **TENGIZ AT HALF OUTPUT (454kb/d vs ~961 June avg)** — the second theatre is a real supply hole
+
+**DATA (handoff, Reuters-derived/Times of Central Asia):** CPC intermittent — post-7/30 attack: 4
+tankers loaded, 2 departed, **terminal CLOSED AGAIN 8/5**; receiving ~100k tons/day (~730kb/d) into
+storage 8/1; **Tengiz ~454kb/d on 7/31 vs ~961kb/d June average — output HALVED**; TCO railing ~100k
+tons to Batumi in August; formal force majeure NOT FOUND. Exxon-Kazakhstan: talks link Kashagan-west
+development + Tengiz license extension past 2033 to settling the ~$5B environmental-penalty dispute;
+a binding "$80B" agreement NOT FOUND (headline-class).
+**THESIS:** ★★★ ~500kb/d of Kazakh supply is offline while the market prices Hormuz barrels RETURNING
+— **the Black Sea theatre is quietly subtracting what the corridor adds.** The Saudi OSP cuts and the
+flat-price softness sit on the Hormuz story; the PHYSICAL balance carries a Kazakh hole the tape isn't
+pricing loudly. Shipowners' pullback (TradeWinds) = the same insurance mechanism as Hormuz — war cover,
+not capacity, is the binding constraint in BOTH theatres. *(Analysis.)* 🚩 F4: August loading program +
+FM status still open.

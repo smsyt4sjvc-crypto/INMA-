@@ -659,3 +659,25 @@ gold-seller advocacy, maximal editorial; the FOMC facts are quote/transcript-cla
   chair confirming market-led long-end repricing = the −0.48 channel validated from the top. **The Fed
   call and the put are now explicitly on DIFFERENT instruments: the call is the funds rate; the put's
   event is the term premium (8/13).**
+
+### 2026-08-06 ~12:05pm PDT — HANDOFF: THE STRIP CLOSES THE 8/1 ITEM — **September 54.4%, CUMULATIVE-BY-DECEMBER 80.1% — the call is now 15 points BELOW market**; Warsh "open to a September hike"; breakevens ANCHORED
+
+- **✅ (8/1 item CLOSED, day 6): CME FedWatch (via FXBus, 8/6 06:07): September +25bp = 54.4%;
+  unchanged-through-December = 19.9% ⇒ CUMULATIVE ≥1 hike by December = 80.1%.**
+- **CALIBRATION, stated plainly: yesterday the call was ABOVE the (unattributed) 47% September print;
+  today it is 15 points BELOW the CME cumulative.** The September bucket has swung ~70→47→54 inside
+  ~30 hours — **the market itself has no conviction; a coin-flip meeting violently repriced on each
+  data point. The registered structure holds: market pricing is input #2, not a trigger. 65/70
+  UNCHANGED into tomorrow's 5:30am PT decider.** *(If Friday passes without firing, the gap to 80.1%
+  becomes the next revision question — noted for the scoreboard.)*
+- **WARSH (FT, via handoff): "open to a September hike if inflation remained elevated," "would resist
+  political pressure."** Partially offsets this morning's chair-prefers-long-end downward weight: the
+  July holdout names his condition, and BOTH ISM price gauges sit >70.
+- **TRUMP-WARSH CALLS (WSJ): about "the Iran war, AI, and the economy" — "no indication Trump has
+  discussed monetary policy directly."** Trump publicly wants cuts ("rocket fuel") — separate channel.
+  The independence-panic frame deflates on the primary detail; logged, no call impact.
+- **BREAKEVENS (T5's decider, L2910 item CLOSED): T5YIE 2.18% (−9bp/30d) · T10YIE 2.22% (−2bp) ·
+  T5YIFR 2.26% (+5bp) — ANCHORED, easing at the front.** Two edges: the hawks LOSE the unanchoring
+  argument (the hike case must rest on realized prices, not expectations); and the −0.48 long-end
+  selloff is CONFIRMED as term-premium, not inflation-expectations — the vault's decomposition passes
+  its formal test. → [[../wiki/new-economy-regime]]

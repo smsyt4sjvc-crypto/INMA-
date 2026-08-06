@@ -2372,6 +2372,7 @@ REPURCHASE FACILITY providing temporary dollar liquidity, calling the tool an 'I
 **Links:** [[ai-financing-fragility]] · [[market-fragility]] · [[demand-destruction]] · [[portfolio-state]]
 
 ## 2026-08-03 ~5:03am ET (filed ~7:55am PT) — ★★★ FIMA NAMED: the "Japan as forced UST seller" thesis is DEAD
+  ⟲ SUPERSEDED 2026-08-06 → new-economy-regime.md:L2613 — TIC Feb-May: Japan sold 96B net -- FIMA remains available but revealed behavior was selling; thesis bounded not killed
 
 Source: **WSJ, Jason Douglas, "The Worries That Drove Uncle Sam to Buy Yen," 2026-08-03 5:03am.** Jake paste.
 **FIRST-USE:** FIMA = Foreign and International Monetary Authorities (repo facility).
@@ -2609,3 +2610,27 @@ this vault's version of the same regime came from the correlation data first, �
 
 **Links:** [[ai-financing-fragility]] · [[demand-destruction]] (the Japan/Hormuz join) ·
 [[market-fragility]] · [[../predictions/2026-07-30-fed-hike-before-december]]
+
+### 2026-08-06 ~12:20pm PDT — HANDOFF: **TIC SHOWS JAPAN SOLD $96B OF TREASURIES FEB→MAY** — the FIMA-pledge thesis takes its first data hit; breakevens anchored; the interest-expense denominator settles
+  ⟲ SUPERSEDES new-economy-regime.md:L2374 — TIC Feb-May: Japan sold 96B net -- FIMA remains available but revealed behavior was selling; thesis bounded not killed
+
+- **★★★ TIC (the registered referee's first verdict): Japan's UST holdings — Feb $1,239.3B → Mar
+  $1,191.6 (−$47.7) → Apr $1,209.9 (+$18.3) → May $1,143.1 (−$66.8). NET −$96B Feb→May.** The
+  **spring intervention period was financed at least substantially by SALES, not pledging** — the 8/3
+  "FIMA kills the forced-UST-seller thesis" entry (L2374) is NOT killed but is now BOUNDED: FIMA
+  remains available; **the revealed behavior through May was selling.** The JULY $85bn op cannot be
+  tested until the June print (**Aug 17, registered**) and July's later. ⟲ caveat marker filed on the
+  FIMA entry. *(Piepenburg's "massive Japanese sale of USTs" claim: PARTIALLY CORROBORATED for spring;
+  July still open.)*
+- **★★ BREAKEVENS (T5's formal test, CLOSED): T5YIE 2.18 (−9bp/30d) · T10YIE 2.22 (−2bp) · T5YIFR
+  2.26 (+5bp) — ANCHORED.** The 30Y selloff decomposes to TERM PREMIUM by the market's own pricing —
+  the vault's decomposition (30Y +28bp/2Y +3bp) passes its formal test; Warsh's "stepped back" quote
+  and this print are the same fact from two altitudes.
+- **⛔ INTEREST-EXPENSE DENOMINATOR SETTLED: FY2025 gross interest = $1,215.6B** — Piepenburg's
+  "$3B/day" ≈ right; **the vault's 8/4 implied ~$1.6T was WRONG.** Corrected ratio: bills×25bp
+  ($16-17B) ≈ **1.35%** of gross interest, not "1%" — **the argument's conclusion (a hike is fiscally
+  small) SURVIVES; the denominator is now sourced.**
+- **MMF split (fetch closed): 7/29 total $7,853.9B (govt $6,472.7) — retail $3,077.8 / institutional
+  $4,776.1.** Totals −$99B over 3 weeks — a slow LEAK from the cash pool, destination unobserved
+  (the panel question). **NY Fed 8/14-9/13: NOT YET ANNOUNCED (kill-switch #1 still pending); prior
+  period baseline: $10B reserve-management + $17.6B reinvestment.**

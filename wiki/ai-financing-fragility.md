@@ -3392,3 +3392,26 @@ smuggles estimates into the same series as history; firewall applied)
 
 **Links:** [[ai-capex-cycle]] · [[cepi]] · [[new-economy-regime]] (duration supply) ·
 [[metered-compute]] (the fork) · [[market-fragility]] · [[portfolio-state]]
+
+### 2026-08-06 ~12:15pm PDT — HANDOFF: the off-BS paper's first mark is STRONG (Meta SPV +3pts/70bp tighter), the PIK pipeline is NOT loading, banks are NOT the channel — three containment-side prints in one digest
+
+- **★★★ THE META SPV IDENTIFIED AND MARKED: "Sopaipilla Investor LLC," $12.547B, 7.534% due 2048,
+  issued at par/+287.5bp — and by 7/28 traded ~103+/+217bp = 3 POINTS HIGHER, 70bp TIGHTER than
+  issue.** The "very poor initial demand" deal RALLIED hard in secondary. **The off-balance-sheet
+  stack's first market mark is positive** *(as of 7/28 — pre-this-week's re-widening; current level
+  NOT FOUND — 🚩 still open at today's levels)*. Both-ways: primary indigestion + secondary strength =
+  a pricing problem at ISSUE, not a credit problem in SEASONING. *(Analysis.)*
+- **★★★ THE PIK PIPELINE IS NOT LOADING (yesterday's forward metric, answered): OBDC PIK = 7.87% of
+  investment income (vs 7.93% prior — FLAT); BXSL 6.6% (flat).** And **BXSL's "94% profit drop" is a
+  MARKS event, not an income event: ~$137M unrealized + ~$28M realized losses with NII UNCHANGED at
+  ~$174M.** The write-downs are being RECOGNIZED inside locked vehicles without income breaks — the
+  containment case's mechanics working as designed, for now. *(Analysis.)*
+- **★★ H.8 (top macro fetch CLOSED): total bank credit ~$19.72T, +5.9-6.4% YoY — growing; C&I
+  ~$2.88T, FLAT-to-down over the window.** ⇒ **The AI buildout is NOT bank-funded — banks' business
+  books are flat while the bond market absorbs $25bn/month.** The fragility lives in capital markets
+  and private credit, not the banking system — which is both the containment (no deposit-run channel)
+  and the concentration (one funding market, repriced daily). *(Analysis.)*
+- **Google-Mechanize (the "$1.5B coding deal" sidebar resolved): TALKS >$1.5B — hire-some-staff +
+  NON-EXCLUSIVE license, Mechanize stays independent; not final.** The Reflection-AI/Discovery-Loop
+  structure a third time: **don't acquire — license and hire; risk distributed, not extinguished.**
+  The circularity playbook is now the standard M&A form. *(Analysis.)*
