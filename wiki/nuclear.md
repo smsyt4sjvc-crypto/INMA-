@@ -323,3 +323,12 @@ from both political spectrums as well as public opinion. Trumps the wild card an
   resistance is exactly the configuration that has stalled US infrastructure for fifty years.** ⇒ **That
   is precisely WHY the scarcity persists: the constraint is political geography, and political geography
   does not clear on a schedule.** *(Analysis.)*
+
+**📌 Addendum ~10:55am PDT — THE CO-LOCATION THESIS GETS A SECOND, INDEPENDENT LEG (and one liability).**
+Jake's Spokane primary ([[power-not-petroleum]] 8/7) says the local objection is **COST-ALLOCATION, not
+environmental** — *"pay your way and prove it."* **Behind-the-meter generation satisfies that objection
+literally** (no ratepayer subsidy, no grid draw), where an environmental objection would fight the
+reactor too. ⇒ **co-location is now supported from BOTH ends: engineering (bypasses transmission) and
+politics (defuses the rate fight).** **⚠️ The exception, logged against the thesis: WATER. Thermal
+generation needs MORE cooling — so self-supply defeats the cost objection and AGGRAVATES the aquifer
+one, which is also the litigable one.**
