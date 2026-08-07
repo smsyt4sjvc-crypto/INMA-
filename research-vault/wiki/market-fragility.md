@@ -2290,3 +2290,13 @@ event wearing three numbers** — the syndication tell (*"N outlets, one origin"
 
 **Links:** [[precedent-bid]] · [[detachment-bid]] · [[portfolio-state]] · [[new-economy-regime]] ·
 [[ai-financing-fragility]] · [[bull-bear-ledger]]
+
+**Chart addendum ~1:08am PDT** (ZH, "S&P 500 INDEX — Total Call Volume 4.017M," 2001→2026 →
+`raw/spx-total-call-volume-4017k-2026-08-07.png`): exact print **4.017M**. **The SHAPE is the tell the
+number alone hid: flat ~0.2-0.5M for TWO DECADES (2001-2020), a first step-change to ~1M into 2021,
+then a PARABOLA from ~2022 (0DTE-listing era) going near-VERTICAL 2025-26.** This is not a cyclical
+high in a stationary series — it is a STRUCTURAL regime change in how the index is traded (0DTE/retail
+call mechanization), which is why WARNING-not-TRIGGER binds doubly: a parabolic structural series has
+no "mean" to revert to and no level that has ever marked a top (there was no prior 4M to fail at).
+**The chart is the [[precedent-bid]]'s instrument-level proof: taught upside-reaching became the
+market's dominant option flow in ~4 years.** *(Analysis.)*
