@@ -681,3 +681,38 @@ gold-seller advocacy, maximal editorial; the FOMC facts are quote/transcript-cla
   argument (the hike case must rest on realized prices, not expectations); and the −0.48 long-end
   selloff is CONFIRMED as term-premium, not inflation-expectations — the vault's decomposition passes
   its formal test. → [[../wiki/new-economy-regime]]
+
+---
+
+## 2026-08-07 ~7:40am PDT — REVISION 6: JULY PAYROLLS **−23K**, REVISIONS **−103K** — THE REGISTERED TRIGGER DID NOT FIRE BY THE LETTER (u-rate went the WRONG way), THE SUBSTANCE IS OVERWHELMINGLY DOVISH ⇒ **65→40% before December / 70→45% inside the put's life**
+
+### DATA (BLS July, Jake paste + ChatGPT digest; household + establishment)
+- **Payrolls −23,000** (consensus ~+75-100k) — **outright CONTRACTION.**
+- **Revisions: May +129→+63 (−66k); June +57→+20 (−37k); combined −103k. 3-MONTH AVG now ~+20k.**
+- **Unemployment 4.1%, DOWN from 4.2%.** Household employment −87k; **labor force −264k**; not-in-labor-force +381k; participation 61.5→61.4%.
+- **Part-time for economic reasons +123k → 4.804M.**
+- Private +30k; **government −53k** (local-gov education); retail −19.4k; leisure −40k; financial −14k; **construction +22k; health care +22.6k.**
+
+### GRADING THE REGISTERED TRIGGER (L399: "unemployment 4.3%+ AND payrolls below consensus ⇒ revise DOWN")
+- **Payroll leg: FIRED HARD** (−23k + −103k revisions).
+- **U-rate leg: FAILED — 4.1%, the WRONG direction** (required 4.3%+).
+- **⇒ BY THE LETTER (the AND), THE TRIGGER DID NOT FIRE.**
+- **⛔ BUT THE TRIGGER WAS MIS-SPECIFIED, AND I FLAGGED THE FRAGILITY IN ADVANCE** (8/6 claims entry, verbatim: *"the leg could only fire via labor-force entry or household-survey noise"*). **The weakness came through PARTICIPATION COLLAPSE (labor force −264k), which mechanically LOWERS the rate even as employment fell −87k.** I keyed the dovish signal to the wrong variable — the rate can fall in a *weak* report when people exit. **Honoring the letter of a bad proxy over the overwhelming substance would be the "dragged anchor" failure the vault warns about. ⇒ REVISE ON SUBSTANCE; the mis-specification is the calibration lesson, filed loud (rule 4).** *(A rate-based dovish trigger must be OR'd with a payroll/participation leg — the redesign, registered for the next cycle.)*
+
+### THE SUBSTANCE: unambiguously weakening
+Every measure except the headline rate says softening; **the rate fell for a BEARISH reason.** −23k + −103k + +20k 3-mo + participation exit + part-time-for-economic-reasons +123k. ⚠️ **NOT one print** — the −103k revisions and the 3-mo average, converging with the week's JOLTS ("filled not frozen") and claims ("low hire no fire"), make this a TREND confirmation, not a single observation. **ADP said +44k Wednesday; BLS said −23k — ADP overstated by ~67k.**
+
+### ⇒ REVISION 6: **40% before December / 45% inside the put's life** (from 65/70)
+- **WHY DOWN HARD (−25pts):** hiking into outright payroll contraction + −103k revisions + stall-speed trend is extraordinary; a Warsh Fed that "stepped back" to let the long end tighten has even less reason to *actively* hike; **and breakevens are ANCHORED AND FALLING (T5YIE 2.18, −9bp/30d, closed 8/6) — the hawks' unanchoring argument is gone.** **Both legs of the "inflation forces the Fed's hand" thesis weakened at once: growth collapsed AND expectations softened.** Hike demoted from MODAL to TAIL; **HOLD is now the base case; CUT odds rose sharply.**
+- **WHY NOT LOWER (the fat tail):** the REALIZED-inflation leg is untouched (**both ISM prices >70**); the **labor-scarcity steelman** (participation −264k = shrinking labor SUPPLY = wage-push risk) is a genuine stagflation-hike argument; **Kashkari/Logan/Hammack still vote and are inflation-focused**; and **HOLD ≠ CUT** — the call fails as easily to a hold as to a cut. **The stagflation squeeze keeps a real ~40% tail.**
+
+### THE REGIME: the stagflation squeeze, printed
+Weakening labor (−23k) + sticky realized prices (>70) = the Fed's worst box. **Forced to choose, the modern (post-2019-framework, Warsh-"stepped-back") Fed weights the EMPLOYMENT mandate when hiking risks recession.** The vault's call was an *inflation-driven* hike; the inflation leg survives, but the growth collapse makes the hike far harder to execute. → [[../wiki/new-economy-regime]]
+
+### BOOK (descriptive, rule 7 — sizing is Jake's)
+- **"Bad news is good news" TODAY:** dovish jobs → cut hope → likely melt-up (stocks up, yields down). **In the −0.48 regime this runs the BENIGN direction today** (yields down + stocks up = the amplify-regime HELPING stocks) ⇒ **a HEADWIND for the Dec 745 put today.**
+- **The put's scenario is UNCHANGED and it is NOT today:** the put pays on the **8/13 fiscal/supply side** (yields UP + stocks down = the amplify-regime's MALIGN direction), not the growth scare. **"Bad news becomes bad news" (recession fear) is the put's eventual friend but HAS NOT FLIPPED** — ChatGPT's tug-of-war, correctly named.
+- Cleaner dovish-print beneficiaries: **bonds (yields down) and gold.**
+
+### KILL-SWITCH UPDATE
+Friday test GRADED (trigger mis-fired on its u-rate leg; revised on substance). **Live remaining: (1) 8/13 30Y auction [the put's event]; (2) NY Fed 8/14-9/13 reserve schedule (still unannounced); (3) September FOMC itself; (4) August CPI.** The register now watches for the CUT that this print puts in play — the call can be wrong in TWO directions (hold OR cut), which is why 40%, not lower.
