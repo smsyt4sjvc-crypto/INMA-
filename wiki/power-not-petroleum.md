@@ -73,6 +73,7 @@ rates ect… less environmental from what ~I'm~ seeing. Mostly cost."*
 - Utility **Avista** (investor-owned; Spokane + parts of ID/OR). Water: **Spokane River / Rathdrum
   Prairie aquifer.** Object of the backlash: **a data centre** *(answers the 10:45am open question)*.
 - Public demand: **"pay your way and prove it"** + **a ONE-YEAR MORATORIUM.**
+  ⟲ SUPERSEDED 2026-08-07 → power-not-petroleum.md:L100 — precise ledger: the CITY moratorium PASSED 6-1 on 6/22 (Ord C36887); the COUNTY's 9-month proposal was NOT adopted; project likely in unincorporated county
 - **Republicans pushing to "get this done by August."**
 - **Stated driver: already-elevated WA power costs — CETA, CCA, clean-energy initiatives, top-tier gas
   taxes. Jake's emphasis: "less environmental… MOSTLY COST."**
@@ -98,6 +99,7 @@ rates ect… less environmental from what ~I'm~ seeing. Mostly cost."*
   inside Avista's own service footprint.** ⇒ **the buildout's geography is being set by RATE POLITICS as
   much as by land, water and fibre — and a load rejected in Spokane moves east across a STATE LINE, not
   across the country.** *(Analysis; [[buildout-bottleneck-map]].)*
+    ⟲ SUPERSEDES power-not-petroleum.md:L75 — precise ledger: the CITY moratorium PASSED 6-1 on 6/22 (Ord C36887); the COUNTY's 9-month proposal was NOT adopted; project likely in unincorporated county
 - **★★★ THE POLITICAL INVERSION IS THE DURABILITY TELL.** Republicans want it done by August; **the
   PUBLIC wants the moratorium.** **The national script (right = build, left = block) does not describe
   the county-level coalition, which is RATEPAYERS OF BOTH PARTIES against a GROWTH COALITION OF BOTH
@@ -125,3 +127,57 @@ rates ect… less environmental from what ~I'm~ seeing. Mostly cost."*
   would template nationally? **(3) does the project MIGRATE TO IDAHO?** Each is dated, local, observable.
 
 **Links:** [[nuclear]] · [[buildout-bottleneck-map]] · [[ai-capex-cycle]] · [[cepi]] · [[power-scarcity-equities]]
+
+## ⟲ AMENDMENT 2026-08-07 ~11:05am PDT — THE SPOKANE LEDGER, PRECISE: **THE CITY MORATORIUM PASSED; THE COUNTY'S DID NOT — AND THE PROJECT IS PROBABLY IN THE COUNTY.** The 500MW number is the whole story
+**Source: research digest via Jake (Spokesman-Review cited for the load comparison; named ordinance,
+votes, dates, officials — all checkable).** ⛔ **CORRECTS MY 10:55am ENTRY, which recorded the
+moratorium as REQUESTED. It is LAW in one jurisdiction and DEAD in the other, and that split is the
+finding.**
+
+#### DATA (the ledger)
+| item | status |
+|---|---|
+| **City of Spokane** | **1-YEAR MORATORIUM PASSED** — emergency **Ordinance C36887, June 22, council 6-1**; immediately halts accepting/processing/approving new-or-expanded data-centre applications; the year is for building a permanent framework covering **water, grid/electricity, environment, RATEPAYERS, siting** |
+| **Spokane County** | **9-month moratorium PROPOSED July 20 (Waldref, Jordan) — NOT ADOPTED.** July 21: **Kerns + French opposed** (say they are drafting regulations instead); **Chair Mary Brooks the swing**, worried a moratorium signals *"closed for business"* |
+| **The project** | **Avista nonbinding MOU with an UNIDENTIFIED company: ~125MW in 2029 → ~500MW by 2032**, somewhere in its Eastern WA/Spokane County territory |
+| **Scale** | **~500MW ≈ HALF the combined residential + business electricity consumption of ALL of Spokane County** (Spokesman-Review) |
+| **Avista** | **PAUSED negotiations June 12** — before the city's vote — pending *"broader policy and community alignment"* |
+| **Siting** | Early speculation: old **Kaiser site, Mead** (near BPA's **Bell Substation**). Late July: **Commissioner Al French had been in talks OVER A YEAR** with a company wanting a **West Plains** data centre — **not previously public (disclosed ~July 24)** |
+| **⚠️ NOT MERGED** | **The digest explicitly declines to equate the West Plains developer with Avista's 500MW customer — no evidence they are the same entity. That discipline is adopted here verbatim.** Customer identity and exact site: **still undisclosed** |
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ THE 500MW/HALF-THE-COUNTY RATIO IS WHY THE COST OBJECTION IS RATIONAL, NOT NIMBY.** One
+  customer seeking **half of an entire county's current consumption** leaves exactly two roads: **build
+  enormous new generation/transmission (someone pays for it) or ration existing supply (price rises).**
+  **Both terminate at the ratepayer.** ⇒ *"Pay your way and prove it"* is not sentiment — **it is the
+  correct question at that ratio**, and it is why this objection class does not respond to mitigation
+  packages. *(Analysis; strengthens the 10:55am cost-vs-environment finding with its magnitude.)*
+- **★★★★ JURISDICTIONS ARE ARBITRAGEABLE; THE AQUIFER AND THE SUBSTATION ARE NOT.** The city froze
+  permitting — **and the project is likely in UNINCORPORATED COUNTY, where the freeze does not reach.**
+  This is the state-line point (Spokane → Idaho) **one level down: city → county → state.** ⇒ **No
+  single jurisdiction is the binding constraint; the porousness is structural.** **BUT the city is
+  building a framework anyway because an out-of-city project may still need CITY WATER** — **which is
+  the tell: water is the chokepoint that DOESN'T move when the project does.** ⇒ **The 10:55am
+  "cost supplies the coalition, water supplies the legal vehicle" read is now MECHANIZED: the city's
+  leverage over a facility outside its limits IS its water utility.** *(Analysis.)*
+- **★★★ AVISTA PAUSED *BEFORE* THE CITY VOTED (June 12 vs June 22) — THE UTILITY IS THE SWING ACTOR,
+  NOT THE COMMISSION.** A regulated monopoly walked away from a 500MW customer pending *"community
+  alignment"* — i.e. it judged it could not carry the rate case. ⇒ **The real veto is not a
+  moratorium; it is the UTILITY'S WILLINGNESS TO SIGN, governed by its rate-case risk at the WUTC.**
+  **That upgrades registered tell #2 (a large-load rate class) from "worth watching" to THE DECISION
+  POINT** — a tariff that lets the utility charge the load its true cost is what un-pauses this. *(Analysis.)*
+- **★★ THE FRENCH DISCLOSURE IS A PROCESS FAILURE, AND PROCESS FAILURES HARDEN COST FIGHTS INTO TRUST
+  FIGHTS.** A commissioner in **year-plus of undisclosed talks** who then **votes against the pause**
+  is the fact pattern that converts a soluble "who pays" negotiation into an intractable "who decided,
+  and behind whose back" one. **No allegation of wrongdoing — a mechanism observation: the surest way
+  to lose a cost argument is to be discovered negotiating it privately.** *(Analysis.)*
+- **★★ THE DATES CONFIRM JAKE'S "NO AFTER THE CRUNCH WINDOW": 125MW in 2029 → 500MW by 2032.** The load
+  being fought over TODAY is contracted for delivery **years out, into a grid that cannot serve it** —
+  demand queued far in advance of supply is the definition of a constraint that does not clear on a
+  calendar. **And 500MW is REACTOR-SCALE, not grid-increment scale** (≈7 Oklo Aurora units) — **the
+  exact size band where behind-the-meter stops being exotic.** → [[nuclear]] *(Analysis.)*
+- **📌 TELLS, SHARPENED:** **(1)** does the **COUNTY** adopt anything (Brooks is the swing)? **(2)**
+  **does the WUTC create a LARGE-LOAD RATE CLASS** — now the primary decision point, since the utility
+  paused itself; **(3)** does Avista **resume** the MOU (and on what tariff)? **(4)** **WHO IS THE
+  CUSTOMER** — a named hyperscaler would convert this from local politics into a dated capex-timing
+  datum for [[ai-capex-cycle]]; **(5)** is the West Plains developer the same entity (explicitly OPEN).
