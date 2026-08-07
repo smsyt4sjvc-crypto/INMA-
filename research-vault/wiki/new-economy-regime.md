@@ -2680,3 +2680,17 @@ prices. **The −0.48 regime runs BENIGN today** (dovish → yields down + stock
 debasement/fiscal-dominance thread is untouched; the growth leg just weakened, which if anything
 *raises* the fiscal-dominance risk (weaker growth → wider deficits → more issuance into the same long
 end). *(Analysis.)*
+
+### 2026-08-07 ~7:50am PDT — ★★★ THE CROSS-THREAD JOIN: **THE DOLLAR DID FOR FREE WHAT $85 BILLION COULD NOT**
+**DATA:** post-payroll tape (ZH headline): *"Bonds & Bullion Jump, Dollar Dumps As Rate-Hike Odds
+Slump."* Context on file: Japan's 7/30-31 operation = **~$85bn, 2nd largest in history, bought ~5 days**
+(yen back through 158 by 8/6); April 30's ¥6.28T record single day bought ~6.
+**THESIS (analysis):** **★★★ A SINGLE SOFT US PAYROLL PRINT DELIVERED THE YEN RELIEF TOKYO SPENT THE
+SECOND-LARGEST INTERVENTION IN HISTORY FAILING TO BUY.** ⇒ **The yen was never Tokyo's variable to
+control — it is a US-rate-DIFFERENTIAL trade, and the MoF has been fighting the wrong side of it.**
+**This materially changes the carry-unwind tail the fragility thread prices: a dovish US path narrows
+the differential and lets the yen recover ORDERLY (the benign resolution), rather than through a
+disorderly BOJ-forced unwind.** ⇒ **A genuine REDUCTION in one of the vault's registered tail risks —
+logged as such, and against my own prior lean.** ⚠️ One print; the differential must actually narrow
+(the Fed must deliver, not just be priced), and 8/17's TIC + the next MoF quarterly still referee the
+funding question. *(Analysis; [[ai-financing-fragility]] · [[market-fragility]].)*
