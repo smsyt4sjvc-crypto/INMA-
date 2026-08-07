@@ -181,3 +181,67 @@ finding.**
   paused itself; **(3)** does Avista **resume** the MOU (and on what tariff)? **(4)** **WHO IS THE
   CUSTOMER** — a named hyperscaler would convert this from local politics into a dated capex-timing
   datum for [[ai-capex-cycle]]; **(5)** is the West Plains developer the same entity (explicitly OPEN).
+
+### 2026-08-07 ~11:15am PDT — ★★★★ THE SPOKANE COMPLEX FIRES: **Jake's arson claim CONFIRMED on one of three by ARREST** — but the thesis impact runs through POLITICS AND LIABILITY, not targeting
+
+**Jake (first-hand, Watch Duty screenshot 11:09am → `raw/watchduty-spokane-complex-fires-2026-08-07.png`):**
+*"Now, I'm not saying these fires are related, but I am saying they were intentionally set and remarkably
+accurate to the locations."* **Checked (web search 11:12am — KREM/OPB/Spokesman/InciWeb/CNN).**
+
+#### DATA
+- **Spokane Complex Fires**, ignited ~**Aug 1**: **Autumn Lane 5,738.3 ac · Old Trails 3,561.4 ac ·
+  Fairview 992.5 ac** (screenshot values). **700+ STRUCTURES DESTROYED; tens of thousands evacuated**
+  (KREM/OPB). Extensive **Level 2/3 evacuation zones** across north county and the West Plains.
+- **✅ OLD TRAILS: Spokane County Sheriff identified a suspect and ARRESTED a man for ARSON 1st DEGREE
+  on Aug 3.** *(Official action — the strongest evidence rung available.)*
+- **AUTUMN LANE + FAIRVIEW: investigators say both were "started by people, though not necessarily
+  deliberately" — HUMAN-CAUSED, INTENT UNDETERMINED, active investigation.**
+- **Geography vs the siting thread (8/7 ledger): OLD TRAILS ≈ Airway Heights / WEST PLAINS** (French's
+  year-plus undisclosed discussions); **FAIRVIEW ≈ Colbert/Mead** (the Kaiser-site / BPA **Bell
+  Substation** speculation).
+
+#### THESIS (interpretation — NOT fact)
+- **✅ THE CHECKABLE HALF OF JAKE'S CLAIM IS CONFIRMED, AND ON THE MOST RELEVANT FIRE.** Old Trails —
+  the **West Plains** fire — **was intentionally set, per an arson arrest.** The other two are the
+  **standard accidental-human category** (equipment, vehicles, sparks, debris), not evidence of
+  deliberation. **Graded honestly: one of three, by official action.**
+- **⚠️ BUT INTENTIONAL ≠ TARGETED, AND THAT GAP IS THE ENTIRE INFERENCE.** An arson arrest establishes
+  that someone set a fire; **it establishes nothing about motive or objective.** Two structural reasons
+  to hold the targeting read at LOW confidence: **(1) an actor attacking infrastructure hits the
+  SUBSTATION, not a grass fire miles upwind** — substation attacks are the documented playbook (Moore
+  County NC, 2022) **and they are precise; a wind-driven grass fire that destroys 700 homes is the
+  opposite of precise, and would be an absurdly unreliable instrument for stopping a land deal.**
+  **(2) a suspect identified in ~48 hours is consistent with a local individual, not an operation.**
+- **★★★ AND THE SPATIAL COINCIDENCE IS CONFOUNDED BY CONSTRUCTION — the base-rate discipline:
+  candidate data-centre sites and fire-prone land are selected by THE SAME VARIABLES** — open,
+  undeveloped, cheap, outside city limits, adjacent to big transmission. **The West Plains and the
+  Mead/Bell corridor attract data centres BECAUSE they are open ground beside heavy wires; open ground
+  beside heavy wires in August is also what burns.** ⇒ **the overlap would appear with RANDOM ignition
+  points.** *(This does not disprove targeting — it removes the geographic coincidence as EVIDENCE for
+  it. The arson arrest is evidence of arson; nothing yet is evidence of purpose.)*
+- **★★★★ THE THESIS IMPACT IS LARGE AND DOES NOT DEPEND ON CAUSE AT ALL — THE POLITICAL ENVIRONMENT WAS
+  TRANSFORMED BY AN EXOGENOUS EVENT, ELEVEN DAYS AFTER THE COUNTY VOTED.** Sequence: **city moratorium
+  passes 6/22** (citing water, grid, ratepayers) → **county moratorium REJECTED 7/21** (Kerns/French
+  opposed; Brooks feared *"closed for business"*) → **fires ignite ~8/1 and destroy 700+ structures
+  across the exact terrain in dispute.** ⇒ **Any revisit of that county vote now happens in a county
+  that just lost 700 buildings, with mass evacuations on the West Plains.** **"Closed for business" is
+  a far harder sentence to say now; "prove you won't strain our water and grid" is a far easier one.**
+  **This is the vault's "political geography does not clear on a schedule" finding in its sharpest
+  form: it does not merely fail to improve — IT CAN DETERIORATE ON NO SCHEDULE AT ALL.** *(Analysis.)*
+- **★★★ NEW RISK VECTOR REGISTERED — WILDFIRE LIABILITY AS A CONSTRAINT ON LARGE-LOAD INTERCONNECTION.**
+  **Wildfire liability is the existential risk class for Western utilities (PG&E's bankruptcy is the
+  precedent; Hawaiian Electric the recent one).** **A utility carrying fresh wildfire exposure has LESS
+  balance-sheet capacity for a 500MW customer's interconnection capex, not more** — and its rate case
+  gets harder, not easier. ⇒ **Avista's June-12 pause becomes MORE likely to persist, for a reason
+  entirely unrelated to the data centre.** ⚠️ **No evidence in hand that utility equipment caused any of
+  the three** — the registered point is the CHANNEL, which applies to every Western utility serving a
+  large load. *(Analysis; [[power-scarcity-equities]].)*
+- **★★ AND THE WATER ARGUMENT JUST ACQUIRED A VISCERAL LOCAL PROOF:** a county that spent a week
+  watching water fight fire is a county that will hear *"how many million gallons a day for cooling?"*
+  very differently. **The aquifer objection — already the litigable one — is now emotionally
+  load-bearing too.**
+- **📌 TESTS (dated, checkable):** **(1)** official cause determinations on **Autumn Lane and Fairview**;
+  **(2)** the Old Trails suspect's **stated motive** when charging documents surface — **the ONLY thing
+  that could convert this from arson to targeting**; **(3)** does the **county revisit the moratorium**
+  post-fire (and does Brooks move)? **(4)** any **utility-equipment finding** in any of the three;
+  **(5)** does Avista's paused MOU resume, and on what terms.
