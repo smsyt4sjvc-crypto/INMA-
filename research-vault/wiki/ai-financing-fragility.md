@@ -3424,3 +3424,62 @@ index's "record growth" partly the circular financing marking ITSELF up.** The B
 is the same accounting fact inverted (marks crushed its income; marks inflate Big Tech's). **Unread —
 the artifact test applies: 🚩 FETCH the GS note's actual decomposition (which line items, which
 stakes, what % precisely) before a word of thesis.** *(Headline via Jake, ZH slug, ~2:20pm.)*
+
+### 2026-08-07 ~2:55pm PDT — ★★★★ **THE AI CREDIT BASIS IS BORN AND QUANTIFIED (25bp vs 6bp) — and the "20x synthetic" line is PROXY-HEDGING, which contaminates the signal in both directions**
+
+**Source: GS Sales & Trading desk color, relayed unlinked (Jake, stamp 2:46pm 8/7):** *"AI-related USD
+IG spreads widening relative to non-AI peers (25bp gap vs 6bp historical). Synthetic CDS volumes
+trading 20x reference obligations, indicating heavy hedging demand."*
+⚠️ **SOURCE GRADE: desk commentary — the desk SEES THE FLOW (high informational value) but it is SALES
+material describing flow it wants traded on, not research with methodology.** The **25/6** are specific
+and checkable-shaped; **"20x" is a round desk approximation.** Unverified here. 🚩 fetch below.
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ THE BASIS IS BORN: 25bp vs 6bp HISTORICAL = the market has created an "AI CREDIT" RISK
+  FACTOR.** Hyperscaler paper is **no longer priced as generic high-grade credit** — a ~4x widening of
+  the basis means AI-relatedness is now its own pricing variable. **This QUANTIFIES the 8/6 entry's
+  "record wides," which had direction but no magnitude.** *(Two readings live: bearish — the market is
+  pricing AI-specific default/downgrade risk that did not exist before; structural — you cannot issue
+  $25B a month and remain "generic IG," so a sector being priced as a sector is what maturation looks
+  like. The supply-not-default read from 8/6 still carries much of it.)*
+- **★★★★ THE 20x IS THE REAL FINDING, AND IT IS NOT "HEDGING" — IT IS PROXY-HEDGING.** **True hedging
+  demand is BOUNDED BY EXPOSURE: own $1B of bonds, buy ~$1B of protection — call it ~1x.** **20x means
+  the liquid hyperscaler CDS is absorbing hedging demand for the ENTIRE AI credit complex INCLUDING THE
+  PARTS THAT DO NOT TRADE** — the data-centre SPVs, the private-credit paper, the neocloud loans, the
+  BDC books. **You cannot buy protection on Blue Owl's book, so you buy it on Alphabet.** ⇒ **THE BASIS
+  IS CONTAMINATED, AND IN BOTH DIRECTIONS: Alphabet's CDS is pricing Alphabet's risk PLUS everyone's
+  inability to hedge everything else.** **It is therefore NOT a clean read on hyperscaler default risk
+  — and it is a BROADER signal than its name suggests.** *(Analysis — this is the sharpest thing in
+  the datum and the desk's own one-word gloss "hedging" hides it.)*
+- **⚠️ GROSS ≠ NET — THE DO-NOT-ADD RULE, APPLIED TO DERIVATIVES NOTIONAL.** **20x GROSS notional is
+  NOT 20x net risk.** Every protection buyer has a seller; post-2008 central clearing and netting mean
+  gross notional massively overstates net exposure. **⛔ DO NOT convert "20x" into a loss estimate —
+  that is the AIG-analogy error, and this vault has already been burned once by summing gross figures
+  (the $3T off-balance-sheet do-not-add).** **What 20x DOES establish: the intensity of two-way
+  interest and the CROWDING of the hedge.**
+- **★★★ F8'S CHANNEL BECOMES VISIBLE — AND F8 HAS *NOT* FIRED.** **Someone is SELLING that protection.**
+  If dealers are net short protection into a widening basis, **that is precisely the dealer-loss
+  mechanism F8 registered on 7/29 — arriving through CREDIT DERIVATIVES rather than through a neocloud
+  equity casualty.** ⚠️ **Positioning is not loss; a crowded hedge is a STATE.** **📌 F8's test,
+  sharpened and re-dated: a dealer disclosing CDS/credit-trading losses, or a Q3 10-Q showing a
+  materially widened credit-trading VaR.** *(The 8/10 expiry stands on the original formulation.)*
+- **★★★ AND IT ANSWERS THE 8/6 SUPPLY-vs-DEFAULT QUESTION: NEITHER, PURELY — THE THIRD COMPONENT IS
+  HEDGING DEMAND.** The widening now decomposes into **(a) new-issue supply concession** (8/6's read),
+  **(b) genuine AI default/downgrade premium**, and **(c) PROXY-HEDGE DEMAND for an unhedgeable
+  complex.** **Only (b) is a solvency signal, and (c) may be the largest term.** ⇒ **treat the 25bp as
+  an upper bound on perceived AI credit risk, not a measure of it.**
+- **★★★★ THE SYMMETRY THAT MAKES THIS PERSONALLY INSTRUCTIVE, filed for the book: JAKE'S SPY PUT IS TO
+  HIS AI-ADJACENT BOOK WHAT HYPERSCALER CDS IS TO THE AI CREDIT COMPLEX — a LIQUID PROXY for an
+  exposure that cannot be hedged directly.** **Both carry the identical defect: THE PROXY CAN FAIL TO
+  TRACK.** The vault already registered this as the put's **fourth loss channel** (rotation cancels
+  dispersion inside the wrapper, [[precedent-bid]] 8/4). **The credit market is now running the same
+  trade at scale — and paying 25bp for the privilege.** *(Descriptive; rule 7. The instructive part:
+  the crowd is making Jake's trade in another instrument, which is both validation of the instinct and
+  a warning about the crowding.)*
+- **🚩 VERIFICATION FETCH (unlinked desk color needs a public anchor):** any published **AI-credit basis
+  index**, or **CDX IG vs a hyperscaler basket** spread history; and **DTCC gross vs net CDS notional**
+  on the named single-names — the one series that would settle whether 20x gross is 1x net or something
+  worse.
+
+**Links:** [[ai-capex-cycle]] · [[cepi]] · [[market-fragility]] (F8) · [[precedent-bid]] ·
+[[new-economy-regime]] · [[portfolio-state]]
