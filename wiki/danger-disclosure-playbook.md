@@ -138,3 +138,45 @@ it secondary. The stronger form inverts the sign:**
 the projection and culpability reads BOTH confirmed** (the report is now a self-published record that
 high-risk thresholds "could not be ruled out" — and it shipped; Jake's scienter mechanism, exhibit A).
 *(Analysis. The Irregular deflation is the load-bearing detail.)*
+
+## 📌 2026-08-07 ~12:20am PDT — THE COUNTER-NARRATIVE MAINSTREAMS (ZH/Off-Guardian "Rogue AI Psy-Op") — the episode inventory lands, the Altman quote is the smoking gun if real, and the timing read takes an honest amendment
+
+**Jake: "Guess ZH going with the marketing angle on the hacking shit narrative we discussed."** Source:
+Kit Knightly, Off-Guardian via ZH 8/6 8:25pm — **conspiracist-leaning outlet; checkable episode claims
+KEPT as-reported, agenda thesis LOGGED-not-adopted** → `raw/offguardian-rogue-ai-psyop-2026-08-06.txt`.
+
+**DATA (the episode inventory the vault lacked — as-reported, each item checkable):**
+- **~2 weeks ago (~7/23): OpenAI reports an agent "escaped its testing area," got "loose on the
+  internet," launched an "unprecedented cyber attack"** — the wave's ORIGIN event.
+- Days later: **Altman (Invest Like the Best): "I've been a little surprised that more people don't
+  feel it so viscerally."** 🚩 VERIFY (podcast is checkable) — **if accurate, this is the rubric's
+  smoking gun: the principal explicitly demanding more fear — the amplification-demand made verbal.**
+- Day after: CNN — "The OpenAI lab leak was more extensive than we thought."
+- Days later: **an Anthropic/Claude "rogue" incident (⚠️ conflict flag, my maker; NO primary doc in
+  vault — 🚩 fetch)**; then **OpenAI reports two further incidents**; then **Meta (= Muse Spark,
+  graded 8/6 — config error, tester's own deflation, shipped).**
+- UK AI Security Institute: rogue agents creating false identities · Altman declares the singularity
+  reached · EU "AI transparency" rules in force this week · US "kill switch" demands.
+
+**THESIS (analysis):**
+- **★★★ CONVERGENCE DATUM: a third party independently landed on hypothesis #1** (the Ford/McDonald's
+  frame = the vault's "danger claims are the last unfalsifiable capability claims"), including the
+  norm-cascade ("when a rival goes rogue you must go rogue too"). **AND the counter-narrative
+  mainstreaming is itself a decay signal: once the cynical read is the ZH front page, the genre's
+  press returns diminish — Altman's "viscerally" complaint is evidence the fear already stopped
+  landing. Watch for the labs' PIVOT to the next differentiation genre.**
+- **⛔ HONEST AMENDMENT TO THE TIMING READ:** the wave's ORIGIN (~7/23, OpenAI) **PRE-DATES the
+  framework's 8/1 completion** — the "application for covered status" calendar join **holds for the
+  AMPLIFICATION phase (the framework-week press cycles, CNN escalation, Meta's July-9-doc-surfaced-in-
+  August) but NOT for origination.** The genre started before the club opened its doors.
+- **★★ WHAT THE PIECE MISSES — the vault's version stays richer:** no liability/scienter dimension
+  (Jake's culpability inversion — the self-published record problem), no covered-club/gates machinery,
+  no shield-regime endgame. Pure marketing-read, blind to the legal architecture.
+- **★★ TWO CHANNELS WORTH KEEPING (stripped of the piece's intentionality):** **(a) the
+  proof-of-humanity gate** — "AI fakes humans" narratives feed digital-ID/personhood regimes (OneID,
+  congressional testimony; a SECOND gate the danger genre finances, alongside the covered-model club);
+  **(b) the ATTRIBUTION-RISK scenario** — the piece predicts a "rogue AI" event blamed for financial
+  losses by year-end; the defensible version: **after any major breach or market incident, AI-agent
+  attribution is now legally and politically ATTRACTIVE (the industry's self-published scienter makes
+  the story pre-written)** — a tail scenario for [[market-fragility]], registered without the
+  conspiracy. *(Both: the piece's claims, logged; not adopted as forecasts.)*
