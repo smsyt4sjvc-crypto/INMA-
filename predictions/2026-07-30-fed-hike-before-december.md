@@ -716,3 +716,51 @@ Weakening labor (−23k) + sticky realized prices (>70) = the Fed's worst box. *
 
 ### KILL-SWITCH UPDATE
 Friday test GRADED (trigger mis-fired on its u-rate leg; revised on substance). **Live remaining: (1) 8/13 30Y auction [the put's event]; (2) NY Fed 8/14-9/13 reserve schedule (still unannounced); (3) September FOMC itself; (4) August CPI.** The register now watches for the CUT that this print puts in play — the call can be wrong in TWO directions (hold OR cut), which is why 40%, not lower.
+
+### Addendum 2026-08-07 ~7:50am PDT — THE COMPOSITION CHALLENGE (World Cup + school-calendar): it DEFLATES THE HEADLINE, it does NOT touch the TREND — **REVISION 6 HOLDS AT 40/45**, and this is logged as the first evidence arguing back UP
+
+**DATA (as-claimed, tweet 6:13am PT; sector detail is BLS-checkable, the ATTRIBUTION is the analyst's):**
+Leisure & hospitality **−40K** (of which **restaurants −26.1K**, **performing arts/sports/amusement/rec
+−16.1K** — sums to −42.2K, so other subsectors ~+2K: internally consistent) — *"mostly World Cup
+driven."* Local government **−50K, "entirely due to education, i.e. vacation"** (vs the −53K total
+government decline: consistent).
+
+**GRADING:**
+- **✅ CONCEDED — THE HEADLINE'S SHOCK VALUE IS INFLATED.** Maximum add-back: **−23 + 40 + 50 = +67K.**
+  A one-off sporting event and a school-calendar seasonal residual are exactly the noise classes that
+  belong in a footnote, not a regime read. **⚠️ BUT EVEN AT FULL ADD-BACK (an upper bound — some of
+  those declines would have occurred anyway), +67K sits AT OR BELOW the low end of the ~+75-100K
+  consensus. The maximally-charitable reconstruction is an in-line-to-soft print, not a strong one.**
+- **★★★★ THE STRUCTURAL ANSWER, AND IT IS WHY THE CALL DOES NOT MOVE: A TRANSITORY BOOST-AND-GIVEBACK
+  WASHES OUT OF A 3-MONTH AVERAGE.** If the World Cup ADDED to June and DRAINED from July, then June's
+  (already revised) **+20K is FLATTERED by the tournament** — strip it and June underlying is WORSE.
+  **The artifact REDISTRIBUTES employment across months; it does not create or destroy trend.** The
+  number REVISION 6 was keyed to — **the ~+20K three-month average** — is the level-invariant measure
+  and survives this argument almost entirely. *(The revision's own text: "NOT one print — the −103k
+  revisions and the 3-mo average… make this a TREND confirmation.")*
+- **✅ UNTOUCHED ENTIRELY: the −103K of MAY/JUNE REVISIONS** (May predates any July give-back) **and the
+  ANCHORED-AND-FALLING BREAKEVENS** (T5YIE 2.18, −9bp/30d). Those were two of the three load-bearing
+  legs. **Nothing in this challenge reaches them.**
+- **⚠️ WHERE IT DOES LAND A SECOND HIT (conceded): the PARTICIPATION exit.** Ended event-work sends
+  people OUT of the labor force rather than into unemployment — which would explain part of the −264K
+  labor-force drop **and** why the rate fell. **That weakens my "participation collapse = structural
+  weakness" reading by some unquantified amount.** Logged; it does not reach the revisions or the trend.
+- **⚠️ NUMBERS-VS-ADVERBS: "mostly" and "entirely" are the analyst's attribution — BLS publishes the
+  sector deltas, NOT the causes.** And a TIMING question the claim does not address: **the establishment
+  survey's reference period is the pay period including the 12th; if the tournament ran past mid-July,
+  the July window still contained World Cup activity and the give-back would be INCOMPLETE — landing
+  again in August.** 🚩 Unresolved; it makes the August print a real test rather than a formality.
+- **⛔ CALIBRATION SYMMETRY, filed as the lesson: apply the 8/2 "the explanation fit too well" rule to
+  DEFLATING explanations, not only confirming ones.** A tidy story that rescues the prior read is
+  exactly as suspect as a tidy story that confirms a new one. That is why this addendum concedes the
+  headline and defends only the trend — the part that survives regardless of who is right about soccer.
+
+**⇒ RULING: REVISION 6 HOLDS — 40% before December / 45% inside the put's life. UNCHANGED.**
+Stated honestly for the scoreboard: **had the composition been in hand at 7:40am I would plausibly have
+landed 42-45 rather than 40 — inside the noise of a number carried at 5-point granularity, so no
+cosmetic revision.** This is registered as **the first evidence arguing the call back UP**, and the
+resolver is dated:
+- **📌 AUGUST PRINT (early Sept): does L&H REBOUND (⇒ July was artifact, argues the call back toward
+  50) or FALL AGAIN (⇒ give-back was incomplete/demand is genuinely soft, confirms 40)?**
+- **📌 SEPTEMBER: does local-government education REVERSE on back-to-school** (the seasonal residual's
+  standard behavior)? **Failure to reverse converts "vacation timing" into real public-sector cuts.**
