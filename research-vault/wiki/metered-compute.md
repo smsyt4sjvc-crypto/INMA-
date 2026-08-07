@@ -1850,3 +1850,36 @@ fully round-tripped** (base ~1.00-1.05, Dec '25). Late-July/August slope near-ve
   market's cutting. The index will likely inflect only when the WAR broadly ends (multiple providers
   hiking), not when one does.** A single-provider hike showing nowhere in a blended price index is
   itself evidence of how commoditized the basket is. *(Analysis.)*
+
+### 2026-08-06 ~6:15pm PDT — THE MVNO STAGE ARRIVES: cheaperinference.com — a reseller of "EXCESS INFERENCE CAPACITY" at up to 30% off the frontier tier (Jake find, bare URL)
+
+**DATA (site fetch ~6:15pm):** "Cheaper Inference" (operator: Keak) — an OpenAI-compatible API gateway
+that **"aggregates excess inference capacity from providers and resells it"** at **"up to 30%"**
+discounts; usage-based, $5 minimum, $10 free credits, referral program; **catalog includes CLOSED
+frontier models (Claude Opus 4.6, GPT-5.4, Grok, Kimi K3, Nano Banana)**; no prompt/response storage;
+retry + fallback routing; "real-time model availability and pricing tracking."
+
+**THESIS (interpretation — NOT fact):**
+- **★★★ THE STRUCTURE IS THE DATUM: THE COMMODITIZATION STACK ADDS ITS RESALE LAYER.** The vault has
+  the index (Silicon Data, 8/4: "commodities get indices when they standardize"); **this is the next
+  stage — capacity resellers/arbitrageurs. In Jake's own telecom frame: an MVNO FOR INTELLIGENCE** —
+  branded resale of wholesale capacity, the exact structure that appeared when minute pricing collapsed
+  and networks ran excess. Next stage after this, historically: forwards/hedging on the index. The
+  financialization sequence is assembling in order. *(Analysis; one small site ≠ volume — the CATEGORY
+  existing is the evidence, weight accordingly.)*
+- **★★★ THE FORK THAT MATTERS: WHERE DOES CLOSED-MODEL "EXCESS CAPACITY" COME FROM?** You cannot serve
+  Opus/GPT from a random datacenter — the capacity is either **(a) AIRLINE-MODEL WHOLESALE: the labs/
+  authorized clouds quietly dumping off-peak inventory through a discount channel that preserves list-
+  price integrity** (price discrimination done right — SUPPORTS the segmentation thesis: the premium
+  tier segmenting by channel, like carriers using Boost/Cricket without cutting Verizon's list), or
+  **(b) COMMITMENT RESALE: enterprises reselling over-purchased committed spend** — the 2001-bandwidth-
+  resale tell, evidence of OVER-COMMITMENT leaking out (bearish the scarcity story at the margin).
+  **🚩 DISCRIMINATOR: authorized-partner disclosures (⇒ a) vs TOS-violation gray market (⇒ b); and
+  whether the discounts are time-of-day-shaped** — note DeepSeek's July peak/off-peak scheme: the
+  time-of-day price curve (the utility structure) forming at BOTH ends of the market. *(Analysis.)*
+- **★ EITHER BRANCH, "EXCESS CAPACITY" EXISTS AT −30% — the pricing implies utilization below what
+  scarcity rhetoric suggests, at least off-peak.** Joins the thrifting signal (NVDA/HBM) as the week's
+  second demand-side-adaptation print. *(Analysis.)*
+
+**Links:** [[compression-thesis]] (the segmentation thesis / CAN-WILLING axes) · [[ai-capex-cycle]] ·
+[[cepi]] · [[agentic-payments]]
