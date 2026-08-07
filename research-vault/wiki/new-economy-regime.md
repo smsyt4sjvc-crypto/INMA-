@@ -2694,3 +2694,75 @@ disorderly BOJ-forced unwind.** ⇒ **A genuine REDUCTION in one of the vault's 
 logged as such, and against my own prior lean.** ⚠️ One print; the differential must actually narrow
 (the Fed must deliver, not just be priced), and 8/17's TIC + the next MoF quarterly still referee the
 funding question. *(Analysis; [[ai-financing-fragility]] · [[market-fragility]].)*
+
+### 2026-08-07 ~12:50pm PDT — ★★★★ Q2 PRODUCTIVITY +1.4% / ULC +1.3%: **THE HEADLINE FAILS ITS OWN CHART** — and the wage-push hike case dies while the AI-productivity bull case gets NO support
+
+**Source: Bloomberg/BLS chart + Kobeissi-style caption (Jake paste ~12:45pm) →
+`raw/bloomberg-q2-2026-productivity-ulc.png`.** Caption claims: *"productivity growth is
+accelerating… the productivity boom is gaining momentum."*
+
+#### DATA (as-reported + chart-read)
+- **Labor productivity +1.4% annualized (exp +0.6%)**; **Q1 revised UP to +0.8%**; **5th consecutive
+  quarterly gain.**
+- **Manufacturing productivity +1.9% on OUTPUT +4.6%** — strongest output increase since Q4 2021.
+- **Inflation-adjusted compensation −3.2% — largest quarterly decline since Q4 2022.**
+- **Unit labor costs +1.3% vs +2.1% expected.**
+- **⚠️ CHART-READ (approximate bar heights, the qualitative pattern is unmistakable): 2023-2025
+  repeatedly printed +3.0% to +4.4% quarters; the series then DECELERATED (~+1.2 → ~+0.5); Q2 2026's
+  boxed bar sits ~+1.4% — WELL BELOW the 2023-25 cluster.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ "ACCELERATING" AND "BOOM GAINING MOMENTUM" ARE CONTRADICTED BY THE BLOOMBERG SERIES IN THE
+  SAME POST.** **+1.4% is approximately the US LONG-RUN TREND (~1.5%) and far below the 2023-25 run of
+  3-4%+.** ⇒ **this is a BOUNCE WITHIN A DECELERATION, not an acceleration to new highs.** **"More than
+  double the +0.6% expected" is doubling a LOW EXPECTATION** — numbers-vs-adverbs, and the adverb is
+  doing all the work. **The "5 consecutive quarters" claim is TRUE and the MAGNITUDES ARE FALLING.**
+  *(The vault's chart-vs-caption discipline: read the series, not the sentence.)*
+- **★★★★ AND THE AWKWARD FACT FOR THE AI-PRODUCTIVITY BULL CASE: measured productivity growth
+  DECELERATED across exactly the window in which AI CAPEX EXPLODED (2025→2026).** If AI were delivering
+  economy-wide measurable productivity at scale, **this is the series where it would appear — and it is
+  going the other way.** Three readings, all live: **(a)** the J-curve/lag standard for general-purpose
+  technologies (real, and historically 5-15 years for electricity/IT); **(b)** the gains accrue in ways
+  the national accounts under-measure; **(c)** they are simply smaller than the capex implies. ⇒ **the
+  vault's CEPI question — does the capex earn a return — gets NO support from this print and mild
+  evidence AGAINST.** *(Analysis; the direction the bullish caption under-weights.)*
+- **★★★★ THE FED READ — ULC IS THE ITEM, AND IT KILLS THE WAGE-PUSH LEG.** Unit labor cost IS the
+  transmission channel from wages to inflation. **+1.3% vs +2.1% expected means productivity is
+  ABSORBING wage growth — labor is not the inflation source.** Stack today's prints: **breakevens
+  anchored/falling (T5YIE 2.18) + payrolls −23K + full-time −106K + ULC undershoot** ⇒ **the hike case
+  is now ALMOST ENTIRELY A GOODS-PRICE CASE (ISM prices >70), with NO labor transmission and NO
+  expectations unanchoring.** **That is the canonical LOOK-THROUGH configuration** — a supply/tariff
+  goods shock with anchored expectations and falling unit labor costs is what central banks look
+  through by doctrine. **⇒ 40%/45% HOLDS (no third revision on one day's flow), but the COMPOSITION
+  narrowed again. 📌 If August CPI shows the GOODS leg fading too, 40 comes down hard.**
+  → [[../predictions/2026-07-30-fed-hike-before-december]]
+- **★★★ THE PRODUCTIVITY NUMBER IS PARTLY THE JOB LOSSES, MEASURED FROM THE OTHER SIDE — the mechanical
+  link the caption does not name.** Productivity = output ÷ hours. **Today's payroll report shed
+  LEISURE/HOSPITALITY (−40K) and RETAIL (−19.4K) — among the LOWEST output-per-hour sectors.** **Cutting
+  the lowest-productivity hours RAISES measured aggregate productivity with ZERO efficiency gain — the
+  batting-average effect.** ⇒ **the same composition that made the jobs report weak mechanically
+  INFLATES the productivity print. The two releases are not independent observations.**
+- **★★★ BUT MANUFACTURING IS THE REAL ONE, AND IT IS A NUMERATOR GAIN: output +4.6%, strongest since Q4
+  2021 — MORE OUTPUT, not fewer hours.** **Composition effects cannot manufacture a 4.6% output
+  surge.** ⇒ **genuine productivity exists in manufacturing; the economy-wide number is the contaminated
+  one.** *(And it is the sector where tariff-driven reshoring + automation would show up first.)*
+- **★★★★ THE −3.2% REAL COMPENSATION DECLINE IS THE SIGNATURE ITEM, AND THE VAULT'S THREADS CONVERGE ON
+  IT: productivity +1.4% while real pay −3.2% ⇒ workers producing more and receiving less — the surplus
+  is accruing to CAPITAL, not labor.** Four joins: **(1)** it is the [[compression-thesis]] question at
+  the MACRO level (who captures the gain); **(2)** it is the shareholder-side answer the AI-capex ROI
+  case needs — *if* the productivity is real, capital keeps it; **(3)** it is the
+  **[[detachment-bid]]'s economic substrate** — falling real compensation IS the "nothing to lose"
+  condition that thesis rests on, now printing in the national accounts; **(4)** it is a **consumption
+  headwind** into a −23K payroll print. *(Analysis.)*
+- **⚠️ REVISION DISCIPLINE: productivity is among the most heavily REVISED series in the national
+  accounts** (Q1 was just revised up 0.2pp). **The 5-quarter TREND is the evidence; any single quarter,
+  including this one, is noise.** And **attribution to AI is an INFERENCE, not a measurement** — the
+  same window carries tariff reshoring, post-COVID capex maturation, and the labor-shedding composition
+  above.
+- **📌 TESTS:** **(1)** does **manufacturing output** growth persist (the clean numerator signal)?
+  **(2)** does **real compensation** recover, or is the capital/labor split structural? **(3)** **August
+  CPI goods component** — the last surviving leg of the hike case; **(4)** Q3 productivity with a
+  stabilised employment denominator (strips the batting-average effect).
+
+**Links:** [[cepi]] · [[ai-capex-cycle]] · [[compression-thesis]] · [[detachment-bid]] ·
+[[market-fragility]] · [[../predictions/2026-07-30-fed-hike-before-december]]
