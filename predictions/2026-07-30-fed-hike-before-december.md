@@ -764,3 +764,45 @@ resolver is dated:
   50) or FALL AGAIN (⇒ give-back was incomplete/demand is genuinely soft, confirms 40)?**
 - **📌 SEPTEMBER: does local-government education REVERSE on back-to-school** (the seasonal residual's
   standard behavior)? **Failure to reverse converts "vacation timing" into real public-sector cuts.**
+
+### Addendum 2026-08-07 ~7:50am PDT (2nd) — **THE HOUSEHOLD SURVEY BREAKS THE TIE: FT −106K / PT +138K, FULL-TIME DOWN 6 OF 7 MONTHS** — the composition challenge is CONTAINED to the establishment survey, and the 40% floor LOSES A LEG
+
+**DATA (ZH relay of BLS household detail, ~6:13-6:20am PT — the SAME account/hour as the deflating
+composition note):** **Full-time −106K, part-time +138K.** **Full-time down 6 of the past 7 months;
+level 133.6M = lowest since Dec 2024.** **Total employed down 6 of 7 months; 162.2M = lowest in 2
+years.** Payroll print was **below the LOWEST estimate** in the survey range. Market: *"Bonds & Bullion
+Jump, Dollar Dumps As Rate-Hike Odds Slump."* ZH methodological claim: payrolls *"gamed with seasonals/
+multiple jobholders."*
+
+**THESIS (interpretation — NOT fact):**
+- **★★★★ THE TWO ZH ARGUMENTS ARE ABOUT DIFFERENT SURVEYS — AND THAT RECONCILES THEM.** The same
+  account, inside one hour, posted **(a)** "World Cup/education artifact, don't panic" and **(b)**
+  "full-time employment collapsing for seven months." Contradictory as FRAMINGS; complementary as DATA:
+  **(a) is the ESTABLISHMENT survey (payrolls −23K); (b) is the HOUSEHOLD survey (employment, FT/PT).**
+  **⇒ THE COMPOSITION CHALLENGE IS CONTAINED — it deflates July's payroll headline and touches NOTHING
+  in the household series.** *(Analysis.)*
+- **★★★★ A SEVEN-MONTH TREND CANNOT BE A ONE-MONTH ARTIFACT.** World Cup schedules and school calendars
+  explain July. They do not explain full-time employment falling in **6 of 7 months**, nor total
+  employed at a **2-year low while the population grew** (the employment-population ratio is eroding
+  underneath the 4.1% headline). **This is the strongest single piece of evidence yet that the
+  weakness is trend, not noise — and it arrived from the source arguing the opposite 7 minutes
+  earlier.** *(Analysis.)*
+- **★★★ THE 40% FLOOR LOSES A LEG — THE LABOR-SCARCITY STEELMAN.** REVISION 6 rested the tail on four
+  pillars; one was *"participation −264K = shrinking labor SUPPLY = wage-push risk."* **That argument
+  requires a TIGHT market. FT→PT substitution + involuntary part-time +123K is the signature of SLACK,
+  not scarcity** — people taking part-time because full-time is unavailable. **The wage-push hike case
+  weakens materially.** Surviving pillars: **realized ISM prices >70 · three inflation-focused voters ·
+  hold≠cut.** *(Analysis.)*
+- **⇒ RULING: 40% / 45% HOLDS — but ON FEWER LEGS.** **NO SECOND REVISION: this is the SAME PRINT read
+  deeper, not a second observation — revising twice on one report double-counts it.** Two honest
+  ledger entries instead: **(1) this REPAIRS most of the participation concession made 20 minutes ago;
+  (2) the 40% is now MORE FRAGILE DOWNWARD than it was at 7:40 — if August confirms the household
+  trend, the call goes to 30 or below.** *(Calibration, stated in advance.)*
+- **⚠️ HOUSEHOLD-SURVEY DISCIPLINE, BOTH WAYS:** the household sample (~60K) is far noisier
+  month-to-month than the establishment sample — **a single month's FT/PT split is weak evidence. SIX
+  OF SEVEN MONTHS IS NOT.** A persistent direction in a noisy series outweighs any single print in a
+  clean one. **That is precisely why the TREND claim survives here and the monthly number does not.**
+- **🚩 FETCH — MULTIPLE JOBHOLDERS (BLS publishes it).** ZH's "payrolls gamed with multiple jobholders"
+  is dialect around a real mechanism: **the establishment survey counts JOBS, the household survey
+  counts PEOPLE** — rising multiple-jobholding makes payrolls overstate employment health and would
+  QUANTIFY the two surveys' divergence. Checkable; registered.
