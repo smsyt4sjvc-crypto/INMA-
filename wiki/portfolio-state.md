@@ -844,3 +844,12 @@ at day 90. **This was the binding constraint; every screen built around it was s
   *(Analysis. Needs Alpaca keys, a market-data MCP, or an explicit "shares and index puts only.")*
 
 **Links:** [[dip-buying-base-rates]] · [[new-economy-regime]] · [[market-fragility]]
+
+### 2026-08-07 ~10:35am PDT — 🚩 THE NUCLEAR BASKET'S MISSING EXIT CONDITION IS NOW REGISTERED (closes the L725 open flag)
+L725 flagged that the nuclear sleeve — Jake, 7/31: *"waiting on nuclear to shake out"* — **had no falsifiable
+exit condition.** It now has a dated one, from the regulatory layer rather than the price tape:
+**📌 NRC PART 57 ADOPTED AS DESCRIBED (license-once → mass-produce) BY EARLY 2027.** **Adopted ⇒ SMRs become a
+manufactured product and the basket has a thesis. Delayed / narrowed / gutted ⇒ the names are priced on a
+promise and the exit is defined.** Full grade + the five-criticality context → [[nuclear]] (2026-08-07).
+⚠️ **And the calendar discipline that bears on sizing: power DELIVERY is 2028-2035, i.e. AFTER the 2026-28
+crunch this book's other positions price.** *(Descriptive; sizing is Jake's — rule 7.)*

@@ -199,3 +199,78 @@ Albuquerque expansion with $4.8M).
 - **📌 WHAT WOULD MAKE IT A SHAKE-OUT (registered, so it can be graded):** a **site selected** from the five;
   **capital actually committed** (not "up to"); an **NRC construction application** for a campus reactor; or
   **first concrete**. **Until one of those prints, this is 28 announcements becoming 5 announcements.**
+
+### 2026-08-07 ~10:35am PDT — ★★★★ **THE REGISTERED FALSIFIER FIRES** — 5 reactors CRITICAL since June, greenfield-to-criticality in <1 YEAR on PRIVATE land — but it fired on the **DOE** track, not the NRC/commercial one
+Source: Epoch Times (Haughey) via ZH. Specific and checkable (dates, dimensions, named officials, on-record
+DOE/company statements); *"nuclear renaissance"* framing is editorial — **numbers kept, adverbs dropped.**
+
+#### DATA (as-reported)
+- **Oklo "Groves" Isotope Test Reactor: CRITICALITY 2026-08-05**, Lockhart, TX. 22.5-ft-diameter unit,
+  truck/rail-shippable, set in a 35-ft reinforced-concrete cavity. **Produces ISOTOPES** (medical,
+  manufacturing, research, space, defense) — **not electricity.**
+- **Built greenfield on PRIVATE land: construction began Sept 2025 → DOE "substantial completion" cert in
+  April (227 days) → criticality Aug 5 = under one year.** Oklo: *"manufactured or commercially procured all
+  components, including fuel, and developed its operating programs in-house."*
+- **5th new reactor type to reach criticality since June; the FIRST since 1973 was Antares' Mark-0 (June 4);
+  Aalo Atomics' Aalo-X was 4th on JULY 4** — hitting the EO's 250th-anniversary incentive date.
+- Trump May-2025 "Nuclear Renaissance" EOs: **10 reactors licensed by 2030, capacity QUADRUPLED by 2050**;
+  DOE (Aug 2025) picked **10 companies / 11 "first mover" innovations**; Sec. Wright: **up to 7 critical by
+  year-end**; the 10-type goal is *"already halfway."*
+- **NRC PART 57** (micro-reactor framework), comment closed **7/15**, adoption expected **fall→no later than
+  early 2027**: license review **>10 years → 6-12 months**, and **once the NRC licenses a prototype, the
+  developer needs NO further approval to MASS PRODUCE it.**
+- Oklo elsewhere: **Aurora Powerhouse 75MW** at INL, *"commercial operations"* **2028**; EBR-II fuel-recycling
+  prototype; **NVIDIA co-partnership on FUEL at Los Alamos**; **Sept-2025 contract with META to power a
+  200-acre data-centre campus in PIKE COUNTY, OHIO with a small reactor by the EARLY 2030s.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ THE FALSIFIER FIRES, FIRST TIME — AND ON A DIFFERENT TRACK THAN IT WAS WRITTEN FOR.** Registered
+  7/31: ***"watch FIRST-CONCRETE / NRC-APPROVAL milestones, NOT ANNOUNCEMENTS."*** Groves is **excavation →
+  construction → fuel load → criticality**: first-concrete AND BEYOND, physical not paper. **The
+  announcement-pile era is over for at least three developers.** ⚠️ **BUT the NLIC 5-state CAMPUS falsifier
+  (site selected / capital committed / NRC application / first concrete) has NOT fired — Groves belongs to
+  the separate REACTOR PILOT PROGRAM. Two programs; graded separately.**
+- **★★★★ THE MECHANISM OF THE SPEED IS THE REAL FINDING: THE PILOT ROUTES AROUND THE NRC.** Groves was
+  cleared by **DOE "substantial completion" certification**, not NRC licensing — on private land. **Five
+  criticalities in two months, ZERO through NRC commercial licensing.** ⇒ **The demonstrated speed is NOT
+  yet commercially replicable:** a reactor selling power to a data centre needs the NRC (or Part 57).
+  **The pilots prove ENGINEERING is not the bottleneck; they say nothing yet about the LICENSING bottleneck
+  that governs REVENUE.** *(Analysis.)*
+- **★★★★ PART 57 IS THE ACTUAL STORY — AND IT SUPPLIES THE BASKET'S MISSING EXIT CONDITION (🚩 CLOSES
+  [[portfolio-state]] L725).** *License the prototype once → mass-produce without further approval* converts
+  nuclear from **BESPOKE MEGAPROJECT** (the AP1000/Vogtle cost-overrun model) into **MANUFACTURED PRODUCT** —
+  the largest change to US nuclear economics since the 1970s **if adopted as described.**
+  **📌 REGISTERED, DATED, FALSIFIABLE: PART 57 ADOPTED AS DESCRIBED BY EARLY 2027.** **Adopted ⇒ the
+  mass-production economics arrive and the basket has a real thesis. Delayed, narrowed or gutted ⇒ the names
+  are priced on a promise, and the exit is defined.** Evidence rung: **proposed rule, comment CLOSED — above
+  a letter, below law.**
+- **★★★ CRITICALITY ≠ POWER ≠ REVENUE, and the CALENDAR is the discipline.** Groves makes isotopes; **Aurora
+  (75MW, the actual power unit) is "commercial operations by 2028"; the Meta Pike County SMR is "early
+  2030s."** **The AI power crunch this vault prices is 2026-2028 (the negative-FCF tunnel). SMR delivery is
+  2028-2035. THE SUPPLY RESPONSE ARRIVES AFTER THE CRUNCH WINDOW.** ⇒ **SMRs do not relieve the near-term
+  bottleneck; they CAP THE LONG-RUN POWER PRICE.** Gas turbines + interconnect queues remain the binding
+  near-term constraint. Bullish the theme, **irrelevant to the 2026-27 capex crisis, and mildly BEARISH the
+  long-run rent of today's scarcity-sellers** (this note's L105 read, unchanged).
+- **★★★ 🚩 RECONCILIATION REQUIRED — JAKE'S 7/26 OHIO QUESTION MAY HAVE BEEN ANSWERED WRONG.** The 7/26 entry
+  graded *"Is this Oklo indicated?"* as **"Directly indicated: NO"** and registered the tell *"any Piketon
+  phase-2 power announcement naming SMRs/Oklo/Centrus."* **This piece reports an Oklo-META contract dated
+  SEPTEMBER 2025 for a 200-acre data-centre campus in PIKE COUNTY, OHIO — the county containing Piketon, and
+  signed TEN MONTHS BEFORE that entry.** Either **(a)** the 7/26 research missed an existing contract, or
+  **(b)** the Meta 200-acre site is a SEPARATE campus from the OpenAI/SoftBank 10GW project in the same
+  county. **Not adjudicated here — but "Oklo holds a signed hyperscaler SMR contract in Pike County"
+  materially changes the adjacency-not-revenue framing, and it is checkable.** 🚩 **FETCH: the Oklo-Meta
+  Sept-2025 contract terms + whether the two Ohio sites are the same land.**
+- **★★ THE POLITICAL-TIMELINE TELL:** the EOs incentivised criticality **by July 4** for the 250th
+  anniversary, and **Aalo-X hit July 4.** **A politically-chosen date met on schedule is the same evidence
+  class as an asserted-complete framework: the PACE IS POLICY-DRIVEN.** Policy-driven paces revert with
+  administrations, and both the 2030 licensing goal and the 2050 quadrupling outlive this one. *(Not fraud —
+  a durability discount.)*
+- **★★ THE CIRCULARITY PATTERN REACHES THE FUEL CYCLE:** **NVIDIA co-partnering with Oklo on FUEL at Los
+  Alamos**; Meta contracting reactor power **5+ years forward.** **Hyperscalers are integrating UPSTREAM into
+  fuel, not merely signing PPAs — the same move as custom silicon: when an input is scarce, the buyer moves
+  into it.** The forward-contract LENGTH is itself their scarcity estimate. → [[ai-financing-fragility]]
+- **⚠️ AND THE 7/31 BACK-END FINDING STILL GOVERNS:** none of five criticalities addresses **who houses the
+  waste** (~95,000 t stranded). **Reactors got faster; the back end did not.** *(Unchanged.)*
+
+**Links:** [[power-not-petroleum]] · [[buildout-bottleneck-map]] · [[ai-capex-cycle]] · [[portfolio-state]] ·
+[[ai-financing-fragility]] · [[cepi]]
