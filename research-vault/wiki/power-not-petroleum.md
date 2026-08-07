@@ -245,3 +245,88 @@ accurate to the locations."* **Checked (web search 11:12am — KREM/OPB/Spokesma
   that could convert this from arson to targeting**; **(3)** does the **county revisit the moratorium**
   post-fire (and does Brooks move)? **(4)** any **utility-equipment finding** in any of the three;
   **(5)** does Avista's paused MOU resume, and on what terms.
+
+## ⟲ AMENDMENT 2026-08-07 ~11:25am PDT — ★★★★ JAKE INVERTS THE FIRE READ: **THE REBUILD IS THE ENTRY POINT** — his mechanism CONFIRMS on the filings, and it amends my 11:15 "politics got worse" as ONE-SIDED
+
+**Jake:** *"Avista is already reserving rights to pass onto customers the cost to their infrastructure.
+A large load customer could swoop in with a cash cape and help that recovery effort. And since they're
+rebuilding it anyhow, why not run some additional lines out into this field that just burned down."*
+
+#### ✅ VERIFIED (web search 11:22am — Spokesman-Review, KHQ, Avista IR, AppleValleyNewsNow)
+- **✅ Avista may ask the WUTC to DEFER wildfire-induced costs for later recovery from customers**
+  (management: costs do not yet reach WA's **securitization** threshold). **Jake's premise confirmed.**
+- **✅ REAL T&D DAMAGE IN *WEST* SPOKANE**; a **key transmission line repaired early to mitigate
+  capacity-driven outages**; ~7,300 electric + 5,300 gas customers still out; 20+ crews across Spokane
+  and Stevens counties (Indian Trail, Riverside State Park, Mead).
+- **★ THE NUMBER THAT REFRAMES THE WHOLE FIGHT — AND IT PRE-DATES THE FIRES: Avista filed a FOUR-YEAR
+  general rate case in JANUARY 2026 seeking +13.9% in 2027, then +4.7%, +3.5%, +2.8%.** **Jake's
+  "already skyrocketing energy costs" is a FILED DOCKET, not a mood.**
+- **⚠️ AVISTA STATES THE SPOKANE-AREA FIRES DID NOT START FROM ITS POWER LINES** — which **weakens my
+  own 11:15 alternative (a) utility-caused ignition** ⚠️ *from the party with the most to lose from the
+  opposite finding; investigation is the referee.*
+- Separately: **the fires have reignited talk of a Washington wildfire VICTIMS FUND** (state policy).
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ THE MECHANISM IS REAL AND NEW TO THIS VAULT. THE CHAIN:** fire destroys T&D → **utility MUST
+  rebuild** → **rebuild costs are deferred/recovered from ratepayers** → **RATES RISE REGARDLESS** ⇒
+  **THE COUNTERFACTUAL THAT POWERED "PAY YOUR WAY AND PROVE IT" IS GONE.** The objection's force came
+  from *"my bill rises BECAUSE of them."* **Post-fire — and post-13.9%-filing — the bill rises anyway.**
+  **A large-load customer arriving with capital reframes from BURDEN to OFFSET: not "who funds their
+  power" but "who helps fund our rebuild."**
+- **★★★★ AND THE ENGINEERING HALF IS SHARPER THAN THE POLITICS: YOU UPSIZE WHEN YOU REBUILD.** Nobody
+  strings a corridor for marginal capacity. **You add it while crews are mobilised, right-of-way is
+  cleared — by fire — and emergency/disaster provisions streamline permitting and siting.** **The
+  marginal cost of incremental capacity is at its LIFETIME MINIMUM during a rebuild.** ⇒ **the
+  post-fire environment is materially MORE favourable to large-load interconnection than the pre-fire
+  one.** *(Jake's; adopted.)*
+- **⟲ THIS AMENDS MY 11:15 READ, WHICH WAS ONE-SIDED.** I filed the fires as politically WORSE for the
+  project (700 structures, water, trust). **Both are true, and they run through DIFFERENT ACTORS ON
+  DIFFERENT CLOCKS: the EMOTIONAL/POLITICAL channel (county commission, public comment) is LOUD, SLOW,
+  and PEAKS NOW; the ECONOMIC/REGULATORY channel (Avista's capital plan + the WUTC docket) is QUIET,
+  TECHNICAL, and resolves over 12-24 MONTHS.** ⇒ **the quiet channel usually wins after the loud one
+  has had its moment — and the fire gives Avista a REASON TO NEED CAPITAL that it did not have on June
+  12 when it paused itself.** **Jake's channel probably dominates on the timeline that decides.**
+- **★★★★ AND THE RESOLUTION OF THE WHOLE FIGHT IS NOW VISIBLE: "PAY YOUR WAY AND PROVE IT" IS
+  ANSWERABLE — BY A TARIFF.** If the large load pays **full incremental cost** (own interconnection,
+  own generation, dedicated rate class), it is **neutral-to-POSITIVE for ratepayers** — more contribution
+  to fixed costs without added cost. If it pays **average embedded cost**, existing ratepayers subsidise
+  it. **The public demand is literally the correct policy question, and it has a technical answer.**
+  ⇒ **CONFIRMS the registered decision point: the WUTC LARGE-LOAD RATE CLASS is the object that decides
+  this, not the moratorium.** *(Analysis.)*
+- **★★★★ GENERALISE — NEW MECHANISM FOR THE BUILDOUT THREAD: THE POST-DISASTER INTERCONNECTION WINDOW.**
+  **Any disaster that forces a utility infrastructure rebuild opens a window in which large-load
+  interconnection is CHEAPER (marginal capacity on a rebuild), FASTER (emergency permitting/siting), and
+  MORE PALATABLE (a funding partner in a recovery, against a rate baseline that already moved).**
+  ⇒ **WATCH FOR LARGE LOADS CLUSTERING IN POST-DISASTER REBUILD ZONES** — testable, national, and the
+  vault had nothing on it. → [[buildout-bottleneck-map]], [[ai-capex-cycle]]
+
+#### ⚠️ THE INFERENCE, GRADED SEPARATELY FROM THE MECHANISM — the two must not be merged
+- **"WHO BENEFITS" IDENTIFIES SUSPECTS; IT DOES NOT IDENTIFY CAUSES.** In any large disaster SOMEONE
+  benefits — **the existence of a beneficiary is not evidence of design. Every element of the mechanism
+  above is true whether the ignition was arson, a dragging chain, or lightning.**
+- **⛔ AND JAKE'S OWN BASE RATE DEFLATES HIS SPECIFIC INFERENCE — the sharpest point available:**
+  *"They've been happening since before Covid. People are caught and arrested constantly."* **CORRECT —
+  and that is exactly why an arson arrest near a candidate site carries LOW INFORMATION. The more
+  common arson is, the LESS any individual arson says about motive.** A high base rate is the enemy of
+  specific attribution. *(He supplied the deflator himself.)*
+- **⚠️ *"You don't know the whole story"* IS THE MOST AMBIGUOUS CLASS OF DETAIL THERE IS** — equally
+  consistent with hidden context, self-justification (*"I didn't mean it to spread"*), grandiosity, or
+  nothing. **It FEELS like evidence and carries almost none** — the *"explanation fit too well"* rule,
+  applied to a quote rather than a theory. **"Ominous" is the adverb; the CHARGING DOCUMENTS are the
+  numbers.** 🚩 **The probable-cause affidavit — motive, accelerant, ignition point, prior record — is
+  the only object that moves this.**
+- **⚠️ AND THE PHYSICAL OBJECTION IS UNANSWERED: an August grass fire in wind is not a targeting
+  instrument.** It went where the wind took it — **700 structures, not one parcel.** Nobody seeking a
+  specific field cleared picks the least controllable tool available in the driest month.
+- **★★★ THE LANDING THAT MAKES THIS ACTIONABLE: THE VALUABLE VERSION OF JAKE'S INSIGHT NEEDS NO
+  CONSPIRACY AT ALL. Opportunism after the fact is common, cheap, requires no planning — and unlike
+  conspiracy, IT IS OBSERVABLE IN FILINGS.** ⇒ **Watch for OPPORTUNISM, not design.**
+
+#### 📌 TESTS (dated, checkable, public)
+1. **★ DOES THE REBUILD SCOPE INCLUDE CAPACITY UPSIZING BEYOND LIKE-FOR-LIKE REPLACEMENT?** — **the
+   single observable that separates opportunism from coincidence, and it lands in a regulatory filing.**
+2. Avista's **wildfire-cost DEFERRAL petition** at the WUTC — filed? amount? recovery mechanism?
+3. **The large-load rate class** (the decision point).
+4. **Charging documents** on the Old Trails suspect (motive).
+5. Does the **paused MOU resume** — and **does any announced route touch burned corridor?**
+6. Does the **county revisit** the moratorium post-fire (Brooks the swing)?
