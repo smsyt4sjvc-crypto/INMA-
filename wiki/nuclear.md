@@ -248,6 +248,7 @@ DOE/company statements); *"nuclear renaissance"* framing is editorial — **numb
   (75MW, the actual power unit) is "commercial operations by 2028"; the Meta Pike County SMR is "early
   2030s."** **The AI power crunch this vault prices is 2026-2028 (the negative-FCF tunnel). SMR delivery is
   2028-2035. THE SUPPLY RESPONSE ARRIVES AFTER THE CRUNCH WINDOW.** ⇒ **SMRs do not relieve the near-term
+    ⟲ SUPERSEDED 2026-08-07 → nuclear.md:L278 — Jake 8/7: no 'after the crunch window' -- scarcity is structural (local/backlash/transmission), and if transmission binds, co-located SMRs BYPASS the constraint rather than arriving late
   bottleneck; they CAP THE LONG-RUN POWER PRICE.** Gas turbines + interconnect queues remain the binding
   near-term constraint. Bullish the theme, **irrelevant to the 2026-27 capex crisis, and mildly BEARISH the
   long-run rent of today's scarcity-sellers** (this note's L105 read, unchanged).
@@ -274,3 +275,51 @@ DOE/company statements); *"nuclear renaissance"* framing is editorial — **numb
 
 **Links:** [[power-not-petroleum]] · [[buildout-bottleneck-map]] · [[ai-capex-cycle]] · [[portfolio-state]] ·
 [[ai-financing-fragility]] · [[cepi]]
+
+## ⟲ AMENDMENT 2026-08-07 ~10:45am PDT — ⛔ JAKE: **"THERE IS NO 'AFTER THE CRUNCH WINDOW'"** — CONCEDED; I turned a STRUCTURAL constraint into a CALENDAR one, and the correction INVERTS the SMR read
+  ⟲ SUPERSEDES nuclear.md:L250 — Jake 8/7: no 'after the crunch window' -- scarcity is structural (local/backlash/transmission), and if transmission binds, co-located SMRs BYPASS the constraint rather than arriving late
+
+**Jake, verbatim:** *"There is no 'after the crunch window'. The vault was constructed for ROI for
+2026-28. Power isn't suddenly going to become robust because of the calendar. Increasingly difficult
+local jurisdictions, public backlash (I'm watching it in Spokane right now) and a lack of transmission
+lines exceed the desire for and physical allocation of power. Also the nuclear story is gaining steam
+from both political spectrums as well as public opinion. Trumps the wild card and he's all-in."*
+
+- **⛔ CONCEDED, AND THE ERROR IS SPECIFIC: I treated the crunch as a WINDOW THAT CLOSES.** Power does
+  not become robust because a date passes. **Demand compounds while the binding constraints — local
+  jurisdictions, public backlash, transmission — get HARDER, not easier.** A supply response landing in
+  2028 into a market that is TIGHTER in 2028 is not "late"; **it arrives into a shortage that has
+  DEEPENED.** The 2028-2035 delivery dates are unchanged; **the FRAMING was wrong, and the framing was
+  doing the analytical work.**
+- **★★★★ AND THE STRONG FORM OF JAKE'S ARGUMENT INVERTS MY READ: IF TRANSMISSION IS THE BINDING
+  CONSTRAINT, CO-LOCATED SMRs ARE NOT A LATE SUPPLY RESPONSE — THEY ARE THE ONLY ARCHITECTURE THAT
+  ROUTES AROUND IT.** A gas turbine needs interconnection and wires; **a reactor planted on the campus
+  needs neither.** ⇒ **The SMR proposition was never megawatts-on-a-date — it is BYPASSING THE THING
+  THAT CANNOT BE FIXED.** My *"gas turbines + interconnect queues remain the binding near-term
+  constraint"* line understated it: **gas is faster to build AND still hostage to the same grid
+  politics. Behind-the-meter nuclear is the only generation class that is not.** *(Analysis — this
+  supersedes the entry above it, not merely qualifies it.)*
+- **⛔ AND THE DURABILITY DISCOUNT I APPLIED IS WRONG ON THE POLITICS.** I discounted the pace as
+  *"policy-driven, reverts with administrations."* **Nuclear is one of the few genuinely BIPARTISAN US
+  industrial policies** (climate-left decarbonisation + security-right energy independence), **public
+  opinion has moved with it, and the sitting president is all-in with EOs already executing.**
+  ⇒ **WITHDRAW the reversion discount as the base case.** Narrower version retained: **the FUNDING
+  VEHICLE and the SPEED are administration-specific; the DIRECTION survives a change of administration.**
+- **★★★ WHAT THIS DOES TO THE 2026-28 ROI WINDOW — the honest version, because delivery dates did NOT
+  move:** cash flows still begin 2028+. **But a scarcity that is LONGER-LIVED and MORE CERTAIN than I
+  framed does not pay through earnings in the window — it pays through RE-RATING: a longer, more certain
+  runway raises the multiple the market pays TODAY for the assets that will serve it.** ⇒ **For a
+  2026-28 horizon the nuclear sleeve is a MULTIPLE story, not an EARNINGS story — and PART 57 IS THE
+  RE-RATING EVENT** (the exit condition registered above, unchanged and now more load-bearing).
+- **📌 JAKE'S SPOKANE OBSERVATION — REGISTERED AS PRIMARY, FIRST-HAND EVIDENCE; THE VAULT HAS NOTHING
+  LOCAL.** The Pacific Northwest is the highest-signal place to watch this (hydro-anchored data-centre
+  cluster + existing WA SMR activity). **🚩 WORTH CAPTURING PRECISELY: which object is the backlash
+  aimed at — a DATA CENTRE, a TRANSMISSION LINE, or GENERATION? The answer changes the read:
+  transmission backlash STRENGTHENS the co-location thesis; data-centre/generation backlash CONSTRAINS
+  it.** *(Jake's live observation is data this vault cannot source elsewhere.)*
+- **★★ THE TWO-SIDED EDGE ON BACKLASH, kept visible (and it does NOT contradict Jake — it is the
+  MECHANISM of his point):** the same NIMBY dynamic that blocks wires blocks reactors. **Polling is
+  pro-nuclear in the abstract; siting fights are local and specific — national support plus county-level
+  resistance is exactly the configuration that has stalled US infrastructure for fifty years.** ⇒ **That
+  is precisely WHY the scarcity persists: the constraint is political geography, and political geography
+  does not clear on a schedule.** *(Analysis.)*
