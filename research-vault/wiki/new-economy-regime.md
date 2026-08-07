@@ -2634,3 +2634,38 @@ this vault's version of the same regime came from the correlation data first, �
   $4,776.1.** Totals −$99B over 3 weeks — a slow LEAK from the cash pool, destination unobserved
   (the panel question). **NY Fed 8/14-9/13: NOT YET ANNOUNCED (kill-switch #1 still pending); prior
   period baseline: $10B reserve-management + $17.6B reinvestment.**
+
+### 2026-08-06 ~6:25pm PDT — MoF QUARTERLY DATA: the two-bar ambiguity RESOLVES, the TIC mechanism CONFIRMS — and the new fact: last week's op was **"IN COORDINATION WITH WASHINGTON"**
+
+**DATA (Tokyo wire on the MoF quarterly release, Jake paste ~6:20pm →
+`raw/mof-quarterly-intervention-data-2026-08-06.txt`):**
+- **April 30: ¥6.28T ($39.64B) — the RECORD single-day yen-buying op** (tops ¥5.92T of 4/29/2024; MoF
+  series back to 1991). Three intervention days 4/30-5/6 (Golden Week liquidity). **Campaign total:
+  ¥11.7T (~$74B), April 28 - May 27** — now with daily breakdown.
+- Effect: 160.725 → ~155 by 5/6, **then failed**; July slide to **40-year lows below 163**; last
+  week's op; **now 158.42.**
+- **"Tokyo… intervene[d] again last week, THIS TIME IN COORDINATION WITH WASHINGTON."**
+
+**THESIS (analysis):**
+- **✅ YESTERDAY'S GS TWO-BAR AMBIGUITY CLOSES:** the dark ~$74bn bar = the April-May ¥11.7T campaign
+  (now official); the red $85bn = last week's op (GS estimate pending official data). Piepenburg's
+  "$73B" = the April-May total, mislabeled as the recent op.
+- **✅ THE TIC MECHANISM CONFIRMS (strengthens yesterday's ⟲ FIMA amendment):** May's −$66.8B TIC
+  decline ≈ the ¥11.7T campaign's funding window — **the interventions are UST-SALE-funded, now
+  double-corroborated (MoF size + TIC flow). Revealed preference: they sell, they do not pledge.**
+  The Aug-17 June print previews the July op's funding — expect sales.
+- **★★★ THE NEW FACT: COORDINATION WITH WASHINGTON.** If full joint intervention (Treasury/Fed selling
+  dollars), it is the rarest tool class in FX — and it FAILED within a week (158 recrossed). ⚠️ The
+  wire's phrase spans "joint operations" to "coordinated timing/blessing" — 🚩 second source; US ESF
+  operations data is the eventual referee. **Either reading joins the Bessent program: Washington
+  selling dollars into the yen defense = the weak-dollar preference operationalized — while US
+  hyperscaler bond books absorb the same Japanese capital that weakens the yen. The state now fights,
+  in FX, the flow it feeds in credit** (the one-flow entry's contradiction, now with the US on both
+  sides of it).
+- **★★★ THE PATTERN, NOW MEASURED TWICE: record-scale op → ~5-6 days of lift → trend resumes.**
+  April's record single day bought six days; July's coordinated $85bn bought five. **Intervention is
+  a failed tool at record AND coordinated scale — the escalation ladder (BOJ hikes / FIMA / capital
+  measures) is not a forecast anymore; it is the remainder.**
+
+**Links:** [[demand-destruction]] (the Japan/Hormuz join) · [[ai-financing-fragility]] ·
+[[market-fragility]] · [[../predictions/2026-07-30-fed-hike-before-december]]
