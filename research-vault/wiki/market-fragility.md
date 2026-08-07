@@ -2250,3 +2250,43 @@ event wearing three numbers** — the syndication tell (*"N outlets, one origin"
   a FREIGHT/crude event, not (yet) an equity event — exactly the divergence the freight-residue thread
   predicted. WARNING-vs-TRIGGER: the configuration is a state; 8/7 payrolls and 8/13 are the dated
   events.
+
+### 2026-08-07 ~1:05am PDT — RECORD S&P CALL VOLUME (4.0M) + SKEW'S LARGEST 2-DAY DROP SINCE 2017 — the detachment/precedent bid QUANTIFIED at an extreme, and it CONFIRMS the McElligott read I got backwards on 8/3
+
+**DATA (Kobeissi-style paste, ~overnight; "Tuesday" = 8/4):**
+- **S&P 500 CALL option volume: record 4.0M contracts (8/4); MORE THAN DOUBLED over "the last several
+  weeks."** Historical ladder: **never exceeded 2M until Q4 2023; averaged ~700k/day in 2020-21** —
+  so ~5.7x the 2020-21 mean, 2x the pre-2023 ceiling.
+- **Put/call SKEW (downside-protection demand relative to upside): LARGEST TWO-DAY DECLINE SINCE 2017.**
+
+**THESIS (interpretation — NOT fact):**
+- **↩ CONTINUITY — THIS CONFIRMS THE 8/4 McELLIGOTT READ AND MY OWN 8/3 CORRECTION.** On 8/3 I read
+  "skew collapsing + VIX up" as downside hedging; McElligott corrected it to **UPSIDE-WING BID**
+  (calls, not puts). This print is that thread's HARD NUMBER: record call volume + skew's steepest
+  2-day fall in 7 years = **demand stampeding to the UPSIDE wing.** The 8/3 backwards read stays
+  visible (rule 4); this is its quantified refutation. *(Analysis.)*
+- **★★★ IT IS THE DETACHMENT/PRECEDENT BID PRINTED IN THE OPTIONS TAPE.** [[precedent-bid]] (risk
+  appetite from manufactured familiarity — "nothing to fear") + [[detachment-bid]] ("nothing to
+  lose") predict exactly this: the marginal buyer reaching for convex UPSIDE, not protection. Record
+  call volume IS the behavioral bid, instrumented. **The Korea single-stock-levETF and US
+  wrapperization entries are the same appetite in different vehicles; this is its index-options face.**
+  *(Analysis.)*
+- **⛔ WARNING, NOT TRIGGER — AND THE RULE IS LOAD-BEARING HERE.** Record call volume / skew collapse /
+  "risk appetite exploding" are BULL-MARKET STATE features (the [[bull-bear-ledger]] melt-up column),
+  present through entire up-legs; they time NOTHING. **At an extreme they shade forward-drawdown ODDS
+  slightly — an odds-shader, NEVER a top-caller** (the 7/14 rule, by name). The Kobeissi "exploding"
+  framing is the exact real-time-late-cycle-tag the vault bans. *(Discipline.)*
+- **★★★ THE REAL DATUM IS THE DIVERGENCE, filed against today's tape:** record UPSIDE-option demand
+  (8/4) sits ON TOP of the funding-ladder stress printed 8/6 (GOOGL −1.9 on its pricing day, NBIS
+  −11.7, credit repricing, five-hyperscaler negative-FCF chart). **The behavioral/positioning tape and
+  the funding/credit tape are telling opposite stories at once** — the precise precedent-bid structure:
+  the bid is real AND it is buying into deteriorating internals. **T2 (the failure mode) is what
+  reconciles them: the taught-upside cohort is maximally exposed via calls exactly as the funding
+  strains — a correlated unwind if the lesson fails.** *(Analysis.)*
+- **⚠️ FOR THE BOOK (descriptive, rule 7): skew's largest 2-day drop = DOWNSIDE PROTECTION GETTING
+  CHEAPER.** Two edges on the Dec 745 put, unsized: it BLEEDS relative value as skew compresses (the
+  registered skew loss-channel, McElligott "defenestrated") — AND re-hedging/rolling downside is
+  cheaper here than it has been. **The vault notes both; sizing is Jake's.** *(Analysis.)*
+
+**Links:** [[precedent-bid]] · [[detachment-bid]] · [[portfolio-state]] · [[new-economy-regime]] ·
+[[ai-financing-fragility]] · [[bull-bear-ledger]]
