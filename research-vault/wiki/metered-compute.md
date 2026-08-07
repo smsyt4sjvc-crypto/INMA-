@@ -1832,3 +1832,21 @@ posted to DeepSeek's own developer platform Thursday)** → `raw/zh-2026-08-06-d
   [[ai-financing-fragility]].)*
 - ⚠️ Evidence rungs: the hike is POSTED (real, dated) but "significant" is an adverb until the rate
   card; the raise is Caijing-reported, pre-signing. 🚩 The rate card + effective date = the test's clock.
+
+### Addendum 2026-08-06 ~6:15pm PDT — TOKEN INDEX **1.1997, 2026 LOWS** — the DeepSeek test's baseline is set, and hike #1's INVISIBILITY refines the test
+
+**DATA:** SDLLMTK **1.1997** ("Token costs tumble to 2026 lows," ZH chart, Jake upload ~6:10pm) →
+`raw/silicon-data-token-index-2026-08-06-1197.png`. Sequence: **1.2901 (8/4) → 1.2723 (8/5) → 1.1997
+(8/6)** — decisively through the Feb floor; **−41.5% from the May ~2.05 peak; the year's +105% nearly
+fully round-tripped** (base ~1.00-1.05, Dec '25). Late-July/August slope near-vertical.
+**THESIS (analysis):**
+- **The registered inflection test ARMS AT 1.1997** — the index printed 2026 lows the SAME DAY the
+  war's instigator announced "significant" hikes. If the hike sticks, this is the level it turns from;
+  the clock starts at the rate card's effective date.
+- **⚠️ TEST REFINEMENT FORCED BY THE CHART: DeepSeek's JULY hike (peak/off-peak, DOUBLED business-hours
+  rates) is INVISIBLE in this series** — the index fell through it without a wiggle. Either the
+  normalized-blend methodology absorbed it, or competitors kept cutting faster than DeepSeek hiked.
+  **⇒ The inflection test's bar rises: hike #2 must overcome BOTH the blend and the rest of the
+  market's cutting. The index will likely inflect only when the WAR broadly ends (multiple providers
+  hiking), not when one does.** A single-provider hike showing nowhere in a blended price index is
+  itself evidence of how commoditized the basket is. *(Analysis.)*
