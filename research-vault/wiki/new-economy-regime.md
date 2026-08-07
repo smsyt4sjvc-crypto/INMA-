@@ -2669,3 +2669,14 @@ this vault's version of the same regime came from the correlation data first, �
 
 **Links:** [[demand-destruction]] (the Japan/Hormuz join) · [[ai-financing-fragility]] ·
 [[market-fragility]] · [[../predictions/2026-07-30-fed-hike-before-december]]
+
+### 2026-08-07 ~7:45am PDT — THE STAGFLATION SQUEEZE PRINTS: payrolls −23k into ISM prices >70 — pointer
+Full grade + REVISION 6 (Fed-hike 65→40%) live at [[../predictions/2026-07-30-fed-hike-before-december]].
+**Regime note for this file:** the −23k payroll + −103k revisions + participation collapse (labor force
+−264k) alongside **both ISM price gauges >70 and ANCHORED-but-falling breakevens (T5YIE 2.18)** is the
+stagflation box in one morning — weak real economy, sticky *realized* prices, softening *expected*
+prices. **The −0.48 regime runs BENIGN today** (dovish → yields down + stocks up); the MALIGN side
+(yields up + stocks down) is the 8/13-auction/fiscal scenario, not this growth scare. The
+debasement/fiscal-dominance thread is untouched; the growth leg just weakened, which if anything
+*raises* the fiscal-dominance risk (weaker growth → wider deficits → more issuance into the same long
+end). *(Analysis.)*
