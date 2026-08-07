@@ -2300,3 +2300,16 @@ call mechanization), which is why WARNING-not-TRIGGER binds doubly: a parabolic 
 no "mean" to revert to and no level that has ever marked a top (there was no prior 4M to fail at).
 **The chart is the [[precedent-bid]]'s instrument-level proof: taught upside-reaching became the
 market's dominant option flow in ~4 years.** *(Analysis.)*
+
+**⚠️ MECHANICS CAVEAT ~1:11am PDT (Jake's Q: "is that volume the shares controlled, 100/contract?") —
+AND IT TEMPERS THE READ ABOVE.** Volume = CONTRACTS traded, ×100-share reference (equity) or ×$100-per-
+index-point (SPX = cash-settled, this chart's "S&P 500 INDEX" ⇒ ~$770k notional/contract at ~7,700 ⇒
+4.017M ≈ ~$3T notional/day; SPY-style would be ~$77k/contract). **THE LOAD-BEARING DISTINCTION:
+VOLUME ≠ OPEN INTEREST.** Volume counts every open AND close; **0DTE contracts (the parabola's era,
+2022→) open and close intraday — inflating VOLUME without adding lasting POSITIONS.** ⇒ **"Record call
+volume" is record ACTIVITY/TURNOVER, not proven record net-long positioning. The detachment/precedent-
+bid read above SURVIVES (churn still requires upside-reaching buyers) but its MAGNITUDE is
+overstated by volume alone.** 🚩 FETCH — the actual positioning gauges: SPX call OPEN INTEREST trend +
+aggregate net options DELTA/GEX (dealer positioning), which is what McElligott's LevETF/negative-gamma
+thread actually measures. **Grade appetite by OI + net-delta, not headline volume.** *(Analysis;
+corrects the implicit volume=positioning assumption in the 1:05am entry.)*
