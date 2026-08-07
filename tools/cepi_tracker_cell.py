@@ -220,6 +220,51 @@ else:
     print("\n    Note: META's finance leases are NOT DISCLOSED, so true capex is a FLOOR and")
     print("    the aggregate OCF/C above is a CEILING. The real number is at or below it.")
 
+    # ── DIFFUSION — an aggregate can cross while most names do not. Count them. ──
+    print("\n  ⭐ DIFFUSION — how many names are individually below 1.00?")
+    print("     (an aggregate is one number; it hides whether this is broad or concentrated)")
+    for q in sorted({f["q"] for f in FILINGS}):
+        rows = [f for f in FILINGS if f["q"] == q and f["grp"] == "HYPER"
+                and f["ocf"] is not None and true_capex(f)[0]]
+        if not rows:
+            continue
+        vals = sorted(((f["tkr"], f["ocf"] / true_capex(f)[0]) for f in rows), key=lambda x: x[1])
+        below = [v for v in vals if v[1] < 1.0]
+        above = [v for v in vals if v[1] >= 1.0]
+        print(f"    {q}   BELOW {len(below)}/{len(rows)}: "
+              + ", ".join(f"{t} {v:.2f}" for t, v in below)
+              + "   |   above: " + ", ".join(f"{t} {v:.2f}" for t, v in reversed(above)))
+
+    # ── QoQ ATTRIBUTION — WHICH BLADE MOVED? falling cash and rising capex are
+    #    not the same problem and do not resolve the same way. ──
+    qs = sorted({f["q"] for f in FILINGS})
+    if len(qs) >= 2:
+        qa, qb = qs[-2], qs[-1]
+        print(f"\n  ⭐ QoQ ATTRIBUTION {qa} → {qb} — which blade moved?")
+        print("     capex step-up = a SPENDING CHOICE (reversible in a quarter)")
+        print("     OCF decline   = a CASH problem (not reversible by decision)")
+        print(f"\n{'TKR':<7}{'OCF/C '+qa:>12}{'OCF/C '+qb:>12}{'Δ':>8}{'OCF Δ%':>10}{'capex Δ%':>11}   driver")
+        print("-" * 96)
+        for t in sorted({f["tkr"] for f in FILINGS if f["grp"] == "HYPER"}):
+            a = [f for f in FILINGS if f["tkr"] == t and f["q"] == qa]
+            b = [f for f in FILINGS if f["tkr"] == t and f["q"] == qb]
+            if not (a and b):
+                continue
+            a, b = a[0], b[0]
+            ca, cb = true_capex(a)[0], true_capex(b)[0]
+            if None in (ca, cb, a["ocf"], b["ocf"]) or not (ca and a["ocf"]):
+                continue
+            r1, r2 = a["ocf"] / ca, b["ocf"] / cb
+            do, dc = (b["ocf"] / a["ocf"] - 1) * 100, (cb / ca - 1) * 100
+            drv = ("★ BOTH blades" if do < -5 and dc > 15 else
+                   "OCF decline"   if do < -5 else
+                   "capex step-up" if dc > 15 and do <= 15 else
+                   "OCF recovery"  if do > 15 else "flat")
+            if r2 > r1 and drv == "capex step-up":
+                drv += " (outgrown by OCF)"
+            print(f"{t:<7}{r1:>12.2f}{r2:>12.2f}{r2-r1:>+8.2f}{do:>+9.1f}%{dc:>+10.1f}%   {drv}")
+        print("-" * 96)
+
     # ── THE CASH-QUALITY SCREEN ──
     print("\n  ⭐ CASH-QUALITY SCREEN — CQ = (OCF − NI) / D&A")
     print("     ≥1.0 = normal (cash flow exceeds earnings by at least depreciation)")

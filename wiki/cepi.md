@@ -80,6 +80,7 @@ flow** · 5. **D&A** · 6. *(optional)* **remaining performance obligations / pu
 
 ---
 
+  ⟲ SUPERSEDED 2026-08-07 → cepi.md:L174 — aggregate crossing decomposed: 3/5 diffusion, only GOOGL on both blades, META's fall is pure capex step-up
 ## 2026-08-07 ~5:00pm PDT — ★★★★ THE SERIES EXISTS: 11 COMPANY-QUARTERS, AND THE COMPLEX CROSSED THE SELF-FUNDING LINE IN CALENDAR Q2
   ⟲ SUPERSEDES cepi.md:L70 — fetch RETURNED 2026-08-07: 11 company-quarters loaded; flag closed, series exists
 **Closes the 🚩 fetch flag above.** Jake returned the digest (`raw/sec-line-items-2026Q1-Q2-handoff-reply-2026-08-07.docx`
@@ -172,3 +173,58 @@ from headline capex**, and **Oracle's fiscal quarters explicitly labelled as NOT
 
 **Instrument:** `tools/cepi_tracker_cell.py` v2 — 5 ratios, headline-vs-true capex, calendar-alignment
 gating, self-reporting coverage gaps. Adding a filing is one `dict(...)` line.
+  ⟲ SUPERSEDES cepi.md:L82 — aggregate crossing decomposed: 3/5 diffusion, only GOOGL on both blades, META's fall is pure capex step-up
+
+### Addendum 2026-08-07 ~4:55pm PDT — ⟲ THE "COMPLEX CROSSED THE LINE" HEADLINE IS TRUE OF THE AGGREGATE AND FLATTENS THE PICTURE. Three additions the aggregate hid.
+The 5:00pm entry above led with **OCF/C 1.106 → 0.999** and read it as the complex crossing. That number is
+right, but an aggregate is one number and it cannot say whether the move is **broad or concentrated**, or
+whether it came from **falling cash or rising spending**. Instrument extended (diffusion + QoQ attribution
+blocks); all three findings below are printed by the cell, not asserted.
+
+### DATA (observed)
+- **DIFFUSION — the crossing is SEQUENTIAL BY NAME, not a simultaneous event.** Individually below 1.00:
+  **2026Q1 = 2 of 5** (ORCL 0.38, AMZN 0.57) → **2026Q2 = 3 of 5** (ORCL 0.81, AMZN 0.83, GOOGL 0.86).
+  Above in Q2: **MSFT 1.34, META 1.06** *(META's leases undisclosed ⇒ its 1.06 is a ceiling)*.
+- **ATTRIBUTION Q1→Q2 — only ONE name deteriorated on both blades.**
+
+  | tkr | OCF/C Q1 | OCF/C Q2 | Δ | OCF Δ% | capex Δ% | driver |
+  |---|---|---|---|---|---|---|
+  | GOOGL | 1.28 | 0.86 | **−0.42** | **−14.7%** | **+27.1%** | ★ **BOTH blades** |
+  | META | 1.70 | 1.06 | **−0.64** | −1.1% | **+58.5%** | capex step-up |
+  | MSFT | 1.31 | 1.34 | +0.03 | +18.8% | +16.4% | OCF recovery |
+  | AMZN | 0.57 | 0.83 | **+0.26** | **+74.4%** | +19.7% | OCF recovery |
+  | ORCL ⚠️ | 0.38 | 0.81 | **+0.43** | +104.4% | −3.3% | OCF recovery |
+- **THE LARGEST SINGLE MOVE WAS META's −0.64, AND ITS OPERATING CASH FLOW BARELY CHANGED** (32,226 → 31,862,
+  −1.1%). Its capex went **18,997 → 30,116, +58.5%.** The entire fall is the denominator.
+- **CASH QUALITY WENT NEGATIVE A QUARTER BEFORE THE FUNDING LINE BROKE.** Aggregate CQ **−0.02 in 2026Q1**,
+  when aggregate OCF/C was a comfortable **1.106**. Q2: CQ **−1.23**, OCF/C 0.999.
+- Two of the five (AMZN, ORCL) **improved** Q1→Q2; a third (MSFT) improved slightly.
+
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **⟲ THE CORRECTION TO MY OWN HEADLINE: "the complex is not self-funding" invites a
+  cash-collapse reading, and the decomposition does not support that reading yet.** Four of five names show
+  flat-to-strongly-rising operating cash flow. **The aggregate crossed mostly because spending accelerated,
+  not because cash generation failed.** The direction is real and the threshold is real; the MECHANISM is
+  mostly deliberate.
+- *(analysis)* **AND THAT DISTINCTION DECIDES HOW IT RESOLVES, WHICH IS THE WHOLE POINT OF SEPARATING THE
+  BLADES.** A capex step-up is a **decision** — reversible in one quarter by guidance, which is precisely
+  what [[ai-capex-cycle]]'s capex-cut trigger is watching for. An OCF decline is **not** reversible by
+  decision. **META at 1.06 is a company choosing to outspend its cash flow. GOOGL at 0.86 is a company whose
+  cash flow fell 14.7% while it spent 27.1% more.** Those are different objects and the aggregate merges them.
+- *(analysis)* **GOOGL IS THE ONLY NAME THAT LOOKS LIKE THE BEAR CASE, AND IT IS ALSO THE NAME WITH THE
+  WORST CASH QUALITY (CQ −10.29).** Both blades moving *and* $73.1B of earnings that generated no cash is a
+  single coherent picture in one name — not a sector state. → [[ai-financing-fragility]].
+- *(analysis)* **CQ MAY BE THE LEADING INDICATOR AND OCF/C THE CONFIRMING ONE.** Cash quality was already
+  negative in Q1 while the funding ratio still read comfortably above 1.00. **One observation of a lead is
+  not a lead** — this is a hypothesis with n=1, registered so the next two quarters can kill it.
+- *(⚠️ the honest limit on the diffusion count)* **n=5, and one of them (ORCL) is fiscal-misaligned with
+  fully derived numbers.** "3 of 5" is a count, not a rate; do not annualise it or read a trend into two
+  quarters of a five-name basket.
+
+### 📌 REGISTERED — two more tests, both falsifiable
+4. **Does CQ lead OCF/C again?** If 2026Q3 shows a name's CQ turning negative while its OCF/C is still >1.00,
+   the lead survives. If CQ and OCF/C break together, **the lead was an artifact of Q2's mark-ups** and this
+   hypothesis dies. ⬜ NOT KNOWN.
+5. **Does META's capex step-up reverse on guidance?** +58.5% QoQ with flat OCF is the most reversible
+   configuration in the table. A guided-down Q3/Q4 capex number puts META back above 1.00 without any change
+   in cash — and would be the first hard datapoint for [[ai-capex-cycle]]'s capex-cut trigger. ⬜ NOT KNOWN.
