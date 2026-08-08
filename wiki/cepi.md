@@ -319,7 +319,86 @@ capex or not."* Both answers are computed by the cell (new **reported-vs-cash + 
   origin" error in ratio form** — one name restated four ways. → [[_calibration]].
 
 ### 📌 TEST #3 RE-PRICED — from hygiene to load-bearing
+  ⟲ SUPERSEDED 2026-08-08 → cepi.md:L329 — test #3 RESOLVED 8/8: GOOGL Q2 NI was not a digest error — $98B unrealized equity gain, pre-tax; CQ fully reconciles
 **GOOGL 2026Q2 net income 112,193, against the primary 10-Q.** ⬜ NOT KNOWN. It now decides: (a) whether the
 reported-vs-cash gap is widening or stable, (b) whether the 44%-of-net-income wedge is real, (c) whether
 aggregate reported E/C is above or below 1.00 (1.32 vs 0.87). **Every ex-GOOGL row in this vault is robust to
 it; no "all four" row is.**
+
+---
+
+## 2026-08-08 ~7:05am PDT — ★★★★ TEST #3 RESOLVES, AND THE MECHANISM IS NAMED: ALPHABET $98B UNREALIZED, AMAZON $53B ON ANTHROPIC
+  ⟲ SUPERSEDES cepi.md:L321 — test #3 RESOLVED 8/8: GOOGL Q2 NI was not a digest error — $98B unrealized equity gain, pre-tax; CQ fully reconciles
+Jake pasted an S&P-500 earnings-season summary (`raw/sp500-earnings-beat-margin-paste-2026-08-08.txt`)
+that **names the two gains the CQ screen inferred from the cash flow statements the day before.**
+⚠️ **ARTIFACT TEST: the artifact read is a PASTE with no named provider** — not FactSet, not a 10-Q.
+The gain FIGURES are third-hand. What is first-hand is the reconciliation below, run against filed cash flows.
+
+### DATA (observed)
+- **The paste's claims, verbatim:** S&P 500 beating EPS estimates by **+29.2% aggregate** ("biggest ever");
+  **5-year average +7.0%** ⇒ ~4.2x; **blended net margin 16.9%**, all-time high; and — *"even if you removed
+  **Alphabet's $98 billion gain from unrealized equity investments** and **Amazon's $53 billion gain from
+  Anthropic**, S&P 500 earnings growth would STILL be **+32.0% year-over-year**."*
+- **⭐ THE GAINS RECONCILE THE CQ FLAG, AND THE TAX TREATMENT IS DETERMINABLE FROM THE MARGINS.** Treating
+  the stated gains as **PRE-TAX** (×0.79 at a 21% rate) returns sector-normal margins for both names;
+  treating them as after-tax does not:
+
+  | | ex-gain NI | net margin | CQ | vs vault comparator |
+  |---|---|---|---|---|
+  | GOOGL, gain PRE-tax | 34,773 | **29.0%** | 0.60 | ~30% normal ✓ |
+  | GOOGL, gain after-tax | 14,193 | 11.8% | 3.50 | implausible ✗ |
+  | AMZN, gain PRE-tax | 20,777 | **10.4%** | 1.23 | ~8-11% normal ✓ |
+  | AMZN, gain after-tax | 9,647 | 4.8% | 1.79 | implausible ✗ |
+- **⭐ AGGREGATE, CALENDAR-ALIGNED FOUR, 2026Q2 — the whole finding in three lines:**
+  - **reported E/C 1.32 → ex-gains E/C 0.62**
+  - **OCF/C UNCHANGED at 0.999** — the cash never moved, which is the entire point
+  - **aggregate CQ −1.23 → +1.45** (normal). **Strip these two gains and cash quality fully normalises**,
+    i.e. CQ was detecting these two items and essentially nothing else.
+- **THE 8/7 ROBUSTNESS TEST LANDED WITHIN 3.4%.** It assumed a sector-normal 30% GOOGL margin ⇒ NI 35,939.
+  The disclosed pre-tax gain implies **34,773**. *(The stress-test methodology is validated, not just the
+  conclusion.)*
+- **⛔ TEST #3 IS RESOLVED, AND NOT THE WAY I WEIGHTED IT.** I flagged GOOGL Q2 NI 112,193 (93.7% net margin)
+  as *"the single most likely place for a digest error."* **It was not an error. The digest was right and the
+  number is real** — a 93.7% net margin is what a $98B unrealized mark does to a $119.8B revenue quarter.
+
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **THE 8/6 GOLDMAN CLAIM IS NOW MEASURED, NAMED AND SIZED — a full climb of the evidence
+  ladder in 48 hours.** 8/6: REPORTED ("half the S&P's record earnings growth is Big Tech marking up its own
+  stock portfolio"). 8/7: MEASURED but unattributed (CQ negative for exactly two names, mechanism labelled
+  THESIS). 8/8: **the two names are confirmed and the two amounts are stated.** The ratio found the right
+  companies before the vault had any disclosure naming them.
+- *(analysis)* **⚠️ THE PASTE CORRECTS ONE OF ITS THREE SUPERLATIVES, AND IT IS NOT THE MOST CONTAMINATED
+  ONE.** The ex-gains adjustment is applied to the **growth** figure (+32.0%). It is NOT applied to the
+  **+29.2% "biggest beat ever"** or the **16.9% "all-time-high net margin"** — and those two are the ones
+  most mechanically distorted by an unrealized mark:
+  - **The BEAT.** A beat is actual-vs-ESTIMATE. Analysts do not forecast unrealized marks on private
+    stakes — they are unforecastable by construction. **A beat driven by them is not an earnings surprise
+    in the informative sense; it is a category of income sitting outside the estimate.** "Biggest beat ever"
+    is partly measuring the biggest thing analysts don't model.
+  - **The MARGIN, which is worse.** A mark-up adds to net income with **ZERO revenue** — numerator up,
+    denominator untouched. It inflates a net-margin ratio *mechanically*. **A record net margin computed
+    with unrealized equity gains in the numerator is not a record in operating profitability.**
+- *(concession — this is the strong part of the paste)* **THE +32.0% EX-GAINS FIGURE IS THE HONEST MOVE AND
+  IT SURVIVES.** Whoever wrote it ran the adjustment unprompted and in the conservative direction (stripping
+  current-period gains lowers the growth rate). **Earnings growth ex-gains being genuinely strong does not
+  conflict with anything in this vault** — our finding is about CASH against CAPEX, not about earnings
+  growth. Both can be true, and per the arithmetic above **OCF/C is unchanged at 0.999 by construction.**
+- *(analysis — the join the paste does not make)* **THE MARKS ARE ON THE AI COMPANIES THESE FIRMS ARE ALSO
+  FUNDING AND SELLING COMPUTE TO.** Amazon's gain is explicitly **on Anthropic**. Alphabet's is
+  "unrealized equity investments," composition ⬜ NOT STATED. **A material slice of record Big Tech earnings
+  is the mark-to-market of private stakes whose valuations are set by funding rounds the same firms
+  participate in** — which is the vendor-financing/circular-revenue thread in [[ai-capex-cycle]] arriving in
+  the earnings line rather than the revenue line. *(⚠️ Composition unknown; this is a structural read, not a
+  claim about any specific round.)*
+- *(⚠️ what I am NOT claiming)* Not that the beat is fake, not that the boom is fake, not that the +32%
+  is wrong. **The claim is narrower: two of the three superlatives are computed on a base that includes
+  unrealized marks, and only the third was corrected for them.**
+
+### 📌 REGISTERED — replaces test #3, which is now closed
+6. **The primary 10-Q line item.** ⬜ NOT KNOWN: is Alphabet's $98B stated **pre-tax**, and what is its
+   COMPOSITION by holding? The margin reconciliation above says pre-tax; the filing would settle it and
+   name the stakes. **Every ex-gains number in this entry moves if the tax treatment is other than assumed.**
+7. **Q3 reversal risk.** Unrealized marks run **both ways**. If private-AI marks flatten or reverse in
+   calendar Q3, the same mechanism that produced a record beat produces a miss **with no operational
+   change whatsoever** — and the DA/C deferral and MSFT's 15→25y life extension land in the same quarter.
+   ⬜ NOT KNOWN. **This is the single most asymmetric registered item in the CEPI thread.**
