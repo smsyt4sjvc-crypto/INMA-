@@ -1957,3 +1957,38 @@ Market Is Oblivious."* The vault had the CLAIM as reported; this is the underlyi
    migration? Track the FAMILY, never the SKU.
 4. Ties the armed SDLLMTK inflection test (1.1997): **falling token PRICE plus Chinese volume DOMINANCE in
    the price-sensitive segment is the same phenomenon read from two sides.** → [[compression-thesis]], [[cepi]].
+
+### Addendum 2026-08-08 ~9:10am PDT — THE BOARD'S AS-OF DATE (Jake: *"Last edited 8:54 AM • 8/7/26"*) — it closes half of test #1 and lands the snapshot inside a week the vault already has priced
+### DATA (observed)
+- **The leaderboard card carries "Last edited 8:54 AM • 8/7/26."** Timezone NOT STATED.
+  ⇒ **The board is as of 2026-08-07, ~24h stale at paste time (2026-08-08 ~9:00am PDT).** Per timestamp
+  rule #4 the SOURCE date is 8/7; the entry above was filed under the paste date and is corrected here.
+- **⚠️ "Last edited" is a REFRESH stamp, not a measurement window.** It says when the numbers were updated,
+  **not what period they cover.** Test #1's window/definition half remains ⬜ OPEN.
+- **⭐ THE VERSION STAMP TIES TO AN EVENT THE VAULT ALREADY DATED INDEPENDENTLY.** `metered-compute` L1545
+  holds **Axios, 2026-07-31, "DeepSeek's new bargain model accelerates AI's race to zero."**
+  **DeepSeek V4 Flash *0731* is that model.** ⇒ **it reached 6.15T and the #2 slot within ~7 days of launch**,
+  measured to the board's 8/7 stamp.
+- **THE SAME WEEK, PRICED:** SDLLMTK (Silicon Data LLM token expenditure index) **1.2901 (8/4) → 1.2723 (8/5)
+  → 1.1997 (8/6, 2026 lows)** — against a May peak of ~2.05.
+
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **THE PRICE LEG AND THE VOLUME LEG ARE NOW THE SAME WEEK, AND THAT IS THE ELASTICITY TEST
+  ARRIVING AS DATA RATHER THAN AS A REGISTERED HOPE.** The vault logged the token index falling to 2026 lows
+  on 8/6 and had no matching volume series. **The board's 8/7 stamp puts the new model's climb to #2 in the
+  same seven days as a −7% index move to the lows.** ⇒ **falling price WITH rising volume at the same
+  vendor** is the Jevons shape, not a demand-collapse shape — **and it is the first time this vault has both
+  sides of that pair inside one dated window.**
+- *(⚠️ and the honest limit on it)* **Without the board's measurement window, "6.15T in ~7 days" is a
+  RANKING claim, not a RATE claim.** If the board reports a trailing month, 0731's 6.15T spans a period
+  longer than its life and the implied run-rate is higher than stated; if it reports a week, the figure is
+  the rate. **The direction is safe; the magnitude is not, and test #1 is what settles it.**
+- *(⚠️ a staleness discipline worth keeping)* **A 24-hour-old board is fine for a share statistic and
+  useless for a momentum one.** The +900%/+466% deltas are the volatile half of this artifact; **any
+  re-read must compare same-stamp to same-stamp**, which is what registered test #2 now requires.
+
+### 📌 REGISTERED — updated
+1. **PARTIALLY CLOSED.** As-of date = **2026-08-07 08:54** (timezone unstated). ⬜ Still open: the
+   measurement WINDOW and the token DEFINITION — every derived percentage inherits both.
+2. **Sharpened:** the ~30-day re-read must capture the **"Last edited" stamp** alongside the numbers, so the
+   comparison is stamp-to-stamp rather than paste-to-paste.
