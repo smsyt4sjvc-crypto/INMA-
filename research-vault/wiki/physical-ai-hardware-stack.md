@@ -81,3 +81,62 @@ only in bank forecasts?** That is a measurement, and it is now in a fetch handof
 **Links:** [[buildout-bottleneck-map]] (⭐ THE magnet/rare-earth entry — read it FIRST) · [[ai-capex-cycle]] ·
 [[power-not-petroleum]] · [[demand-destruction]] · [[war/war-board]] · [[ai-infra-allocation-map]] ·
 [[portfolio-state]]
+
+---
+
+## 2026-08-08 ~8:45am PDT — ★★★ THE REDUCER QUEUE IS REAL AND ACCELERATING — but only the FLOW is public, not the QUEUE
+Source: `raw/rare-earths-magnets-actuators-digest-2026-08-08.docx`. This closes the note's registered
+question — *"does the reducer constraint show up in ACTUAL order books, or only in bank forecasts?"* —
+**partially. Orders: yes, and hard. Backlog and lead time: not disclosed by either company.**
+
+### DATA (observed — company filings)
+**Nabtesco, Precision Reduction Gears segment** *(⚠️ fiscal year ends **DECEMBER**, so H1 = Jan-Jun):*
+- **Order intake JPY 48.0bn (Jan-Jun 2026) vs JPY 38.1bn (Jan-Jun 2025) = +26.0% YoY.**
+- **Book-to-bill DERIVED 1.064x** (48.0/45.1) vs **1.044x** a year ago. Source: FY2026 H1 briefing, 2026-08-05.
+- **Backlog: NOT DISCLOSED. Quoted lead time: NOT DISCLOSED** (prior Q&A called it "short," no number).
+- ⚠️ **SERIES SCOPE CHANGE:** Hydraulic Equipment classified as discontinued from FY2025/12 and removed
+  from the order-trend presentation. Pre-2025 segment comparisons are not like-for-like.
+
+**Harmonic Drive Systems** *(⚠️ fiscal year ends **MARCH 31**):*
+- **Non-consolidated bookings JPY 10,605m for FY2026 Q4 = Jan-Mar 2026, +32.1% YoY.**
+- **Book-to-bill DERIVED 1.101x** (10,605/9,634).
+- **Backlog: NOT DISCLOSED. Quoted lead time: NOT DISCLOSED.**
+- ⚠️ **The latest separately published booking statistics are still Jan-Mar 2026** — Q1 of the current
+  fiscal year (Apr-Jun 2026) has financials but no accessible English booking stats. **The freshest reducer
+  order print is ~5 months old.**
+
+**Humanoid deliveries — the denominator this note lacked:**
+- **Unitree 2025: >5,500 units actually sold and delivered**; >6,500 total mass-production output
+  (company clarification, 2026-01-22). 2026 YTD: NOT DISCLOSED.
+- **UBTECH 2025: 1,079 units sold**, >1,000 delivered and revenue-recognised (FY2025 disclosure, 2026-07-13).
+- **AGIBOT: 10,000th unit off the line 2026-03-30 — CUMULATIVE, not annual.** 2026-only count NOT DISCLOSED.
+- **Humanoid actuator ASP: NOT DISCLOSED. Reducer share of actuator cost: NOT DISCLOSED.** Neither reducer
+  maker publishes a humanoid-specific figure.
+
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **THE QUEUE TEST PASSES ON FLOW AND IS SILENT ON LENGTH, AND THAT DISTINCTION MATTERS.**
+  Both makers show orders growing 26-32% with book-to-bill above 1.0 and *rising* — that is a real,
+  audited demand acceleration, not a forecast. **But book-to-bill >1 tells you the queue is GROWING; it
+  cannot tell you whether it is LONG.** A constraint that binds shows up as lead times, and neither company
+  discloses one. **I called this "the cheapest falsifiable test in the whole thread." It was cheap and it
+  half-answered.**
+- *(analysis)* **⛔ AND THE ORDERS ARE ALMOST CERTAINLY NOT HUMANOID ORDERS.** [[buildout-bottleneck-map]]
+  (8/8 ~8:40am) derives total 2025 humanoid volume at **6,579 disclosed units = 23-26 t of NdFeB, ~0.01% of
+  Chinese magnet capacity.** Precision reducers at that volume are a rounding error against Nabtesco's
+  JPY 48bn half-year book, which is industrial robotics, machine tools and construction machinery.
+  **Rising reducer orders are evidence of an industrial-automation cycle; reading them as a physical-AI
+  signal is the same category error the magnet price invites.**
+- *(analysis)* **THE ACTUATOR BILL-OF-MATERIALS CLAIM REMAINS UNTESTED AND IS NOW THE THREAD'S WEAKEST
+  LINK.** Barclays' *"40-70 actuators, 30-50% of the material bill"* has **no public ASP and no public
+  reducer cost-share** behind it. Two of six ⬜ items closed elsewhere; **these two did not close, and
+  everything downstream of "actuators are the biggest hardware prize" rests on them.**
+- *(⚠️ a freshness caveat that will bite if unlogged)* **The most recent public reducer order print is
+  Jan-Mar 2026 for Harmonic Drive.** Any claim about "current" reducer demand from that name is a claim
+  about last winter.
+
+### 📌 REGISTERED
+1. **Harmonic Drive FY2027 Q1 (Apr-Jun 2026) booking statistics** — does the +32.1% hold? ⬜ Not yet published
+   in accessible English disclosure.
+2. **Either maker disclosing a BACKLOG or a LEAD TIME** — the only figures that convert "growing queue"
+   into "binding constraint." ⬜
+3. **A humanoid actuator ASP or reducer cost-share from any primary source** — closes the 30-50% BOM claim. ⬜
