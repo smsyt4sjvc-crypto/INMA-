@@ -10,8 +10,14 @@
 #   C/R   = capex / revenue ............. intensity (SPCX 2.35x vs MSFT ~0.4x)
 #   E/C   = net income / capex .......... Jake's ask. GAAP profit per $ of capex.
 #   OCF/C = operating cash flow / capex . THE LINE THAT MATTERS. <1.00 = NOT self-funding.
-#   DA/C  = D&A / capex ................. the CATCH-UP ratio. Near 0 = the capex wave
-#                                         has not hit the P&L yet. Toward 1.0 = it has.
+#   DA/C  = D&A / capex ................. the CATCH-UP ratio, where D&A = DEPRECIATION AND
+#                                         AMORTIZATION: the non-cash accounting charge for
+#                                         assets bought in PAST years. (The cash itself left
+#                                         at capex; D&A just spreads that cost over the years
+#                                         the asset is used.) DA/C therefore compares what is
+#                                         being SPENT now against what is being EXPENSED now.
+#                                         Near 0 = the capex wave has not hit the P&L yet.
+#                                         Toward 1.0 = steady state, it has.
 #   CQ    = (OCF − NI) / D&A ............ ★ CASH QUALITY. Normally ≥1.0: cash flow should
 #                                         exceed earnings by AT LEAST depreciation. Below
 #                                         1.0 = something non-cash is inflating earnings.
@@ -122,6 +128,7 @@ def ratios(f, use_true=True):
 
 print("=" * 96)
 print("  CEPI TRACKER v2 — E/C, the self-funding line, and the cash-quality screen".center(96))
+print("  D&A = depreciation and amortization · OCF = operating cash flow · C = capex".center(96))
 print("=" * 96)
 
 if not FILINGS:
