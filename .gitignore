@@ -9,3 +9,6 @@ Thumbs.db
 # Python bytecode cache — build artifact, never source
 __pycache__/
 *.py[cod]
+
+# Generated chart output — regenerates from tools/cepi_chart_cell.py
+cepi_panels.png
