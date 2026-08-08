@@ -1883,3 +1883,77 @@ retry + fallback routing; "real-time model availability and pricing tracking."
 
 **Links:** [[compression-thesis]] (the segmentation thesis / CAN-WILLING axes) · [[ai-capex-cycle]] ·
 [[cepi]] · [[agentic-payments]]
+
+## 2026-08-08 ~9:05am PDT — ★★★★ THE VOLUME LEG ARRIVES AS A MEASUREMENT: CHINESE MODELS ARE 77% OF OPENROUTER'S TOP-9 TOKEN VOLUME — and this is the 8/4 registered fetch, answered
+Source: OpenRouter "LLM Leaderboard" screenshot, pasted by Jake 2026-08-08 ~9:00am PDT →
+`raw/openrouter-llm-leaderboard-2026-08-08.png`. **This is the artifact behind the fetch registered in
+[[buildout-bottleneck-map]] on 8/4** — *"China LLMs Now Dominate Western Models Token Usage — Goldman Warns
+Market Is Oblivious."* The vault had the CLAIM as reported; this is the underlying board.
+
+### DATA (observed — as displayed; period/window NOT STATED on the card)
+| # | model | lab | bloc | tokens | Δ |
+|---|---|---|---|---|---|
+| 1 | DeepSeek V4 Flash 0423 | deepseek | CN | 6.31T | −17% |
+| 2 | DeepSeek V4 Flash 0731 | deepseek | CN | 6.15T | **new** |
+| 3 | Hy3 | tencent | CN | 5.69T | +19% |
+| 4 | MiMo-V2.5 | xiaomi | CN | 5.30T | −40% |
+| 5 | GPT-5.6 Luna | openai | US | 4.15T | **+900%** |
+| 6 | GLM 5.2 | z-ai | CN | 2.99T | −8% |
+| 7 | DeepSeek V4 Pro | deepseek | CN | 2.64T | −27% |
+| 8 | Nemotron 3 Ultra **(free)** | nvidia | US | 2.33T | −13% |
+| 9 | Gemini 3.6 Flash | google | US | 2.00T | **+466%** |
+
+- **DERIVED — bloc split of the 37.56T listed: CHINESE 29.08T = 77.4% (6 of 9 models, and the top FOUR).
+  US 8.48T = 22.6% (3 of 9).**
+- **DERIVED — one lab: DeepSeek is 15.10T across three models = 40.2% of listed volume.**
+- **DERIVED — excluding the one explicitly FREE model (Nemotron, 2.33T): Chinese share rises to 82.5%,
+  US falls to 17.5%.**
+- **⭐ DERIVED — DeepSeek Flash 0423's −17% IS NOT A DECLINE.** Back out the move: 0423 was ~7.60T and is
+  now 6.31T; **0731 is NEW at 6.15T. The Flash FAMILY went ~7.60T → 12.46T = +64%.**
+- **⚠️ The card states no measurement window** (day/week/month), no paid-vs-free split beyond Nemotron's
+  label, and no definition of "tokens" (prompt+completion?). ⬜ ALL THREE NOT STATED.
+
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **THE 8/4 CLAIM IS CONFIRMED AND SIZED — and it climbs the ladder from REPORTED to MEASURED.**
+  Goldman's assertion that Chinese models dominate Western token usage is not merely directional: **on this
+  board it is 77.4%, rising to 82.5% once the free model is removed, with the top four slots all Chinese.**
+- *(analysis — ⭐ THE MOST IMPORTANT LINE, AND IT CUTS AGAINST THE HEADLINE)* **THE LEVEL IS CHINESE. THE
+  DELTA IS AMERICAN.** The two fastest movers on the board are **GPT-5.6 Luna +900%** and **Gemini 3.6
+  Flash +466%** — both US. Every falling model except Nemotron is Chinese (MiMo −40%, DeepSeek Pro −27%,
+  0423 −17%, GLM −8%); the sole rising Chinese model is Tencent's Hy3 at +19%. **A share statistic read
+  without its derivative says "China won." The derivative says the US labs are taking share fast off a
+  much lower base.** Both are true and they point opposite ways.
+- *(⚠️ AND THE DERIVATIVE HAS ITS OWN TRAP, WHICH I NEARLY WALKED INTO)* **DeepSeek 0423's −17% is
+  CANNIBALISATION BY ITS OWN SUCCESSOR, not share loss.** The family grew +64% while its flagship version
+  printed a red number. **This is the volume-vs-open-interest error in a new costume: a per-SKU delta is
+  not a franchise delta when the franchise ships versioned SKUs.** Any read of this board that sums red
+  arrows is measuring release cadence, not demand.
+- *(analysis — ⭐ WHAT OPENROUTER ACTUALLY MEASURES, and why it is the RIGHT instrument for this vault)*
+  **OpenRouter is an aggregator/router. It does NOT capture direct enterprise API, Azure OpenAI, AWS
+  Bedrock, or on-prem — i.e. most Western enterprise spend.** So this is **NOT global market share.** It is
+  a near-pure read on the **price-sensitive, switching-willing segment** — developers who route by cost.
+  **That is precisely the "WILLING" half of Jake's CAN/WILLING segmentation in [[compression-thesis]].**
+  ⇒ **The correct statement is narrower and stronger than "China dominates LLM usage": in the segment that
+  will actually switch on price, China is at 77-82%.** The enterprise segment that CAN'T switch is not in
+  this picture at all — and the gap between those two numbers IS the compression thesis.
+- *(analysis)* **AND THAT IS THE CEPI JOIN.** [[cepi]]'s question is whether Western capex is discounting
+  returns the cash flows do not support. **If the price-sensitive segment routes 77-82% of its tokens to
+  Chinese open models, the addressable base for Western per-token monetisation is the enterprise segment
+  alone** — which is the segment paying for the buildout the vault measured going below self-funding on
+  8/7. *(Structural read; this board cannot size enterprise demand and does not try.)*
+- *(⚠️ against over-reading)* **NVIDIA's Nemotron entry is FREE and still fell 13%.** Free tokens in a
+  volume ranking are not the same economic object as paid tokens — 6.2% of this board's volume carries no
+  revenue by construction. **Any revenue inference from a token-volume leaderboard is unsound without a
+  paid/free split, and only one row here is labelled.**
+
+### 📌 REGISTERED
+1. **⬜ What window and what token definition does this board use?** Day/week/month; prompt+completion or
+   completion only; paid vs free. **Every DERIVED percentage above inherits the answer.**
+2. **⭐ ⬜ Does the US delta persist or was it a launch spike?** GPT-5.6 Luna +900% and Gemini 3.6 Flash
+   +466% off low bases. **Re-read this board in ~30 days: if both hold their new levels, "the level is
+   Chinese, the delta is American" becomes a trend rather than two launches.** This is the cheapest
+   recurring test in the thread.
+3. **⬜ Does DeepSeek's Flash family keep growing across version rollovers**, or was 0423→0731 a one-time
+   migration? Track the FAMILY, never the SKU.
+4. Ties the armed SDLLMTK inflection test (1.1997): **falling token PRICE plus Chinese volume DOMINANCE in
+   the price-sensitive segment is the same phenomenon read from two sides.** → [[compression-thesis]], [[cepi]].
