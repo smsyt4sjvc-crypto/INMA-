@@ -687,6 +687,7 @@ praseodymium (heavy/light rare earths for heat resistance); OEM = original equip
 [[metered-compute]] · [[compression-thesis]] · [[ai-capex-cycle]]
 
 ## 2026-08-08 ~7:30am PDT — ★★★ THE MAGNET CHOKEPOINT GETS A POLICY RESPONSE, DATED AND PRICED — and one deal is ~2x current US capacity
+  ⟲ SUPERSEDED 2026-08-08 → buildout-bottleneck-map.md:L756 — 8/8 fetch: the $750M Vulcan/ReElement was announced 2025-11-03 and is FINANCING not a supply agreement; 10kt is a company target
 Jake: *"Trump recently mentioned magnets as well. A thread I've been following loosely since February. The
 China/rare earths/tariffs/geopolitics is the story with magnets specifically."* **Looked up rather than
 asked** (vault for conclusions, WEB for events). Extends the 8/4 Bernstein entry above; supersedes nothing.
@@ -751,3 +752,105 @@ asked** (vault for conclusions, WEB for events). Extends the 8/4 Bernstein entry
 [The National — $3bn mining projects](https://www.thenationalnews.com/business/energy/2026/08/07/trump-mining-critical-minerals/) ·
 [Yahoo — 'do magnets' / Don Jr stake](https://www.yahoo.com/news/politics/articles/trump-call-defense-contractors-magnets-171452187.html) ·
 [CSIS — rare earths deal analysis](https://www.csis.org/analysis/trump-strikes-deal-restore-rare-earths-access)
+
+## 2026-08-08 ~8:40am PDT — ★★★★ THE FETCH LANDS, AND IT SPLITS THE CHOKEPOINT IN TWO — plus ⛔ TWO ERRORS IN MY OWN 8/8 ENTRY, ONE OF THEM A DATE
+Source: `raw/rare-earths-magnets-actuators-digest-2026-08-08.docx` (+ `.txt`), returned against
+  ⟲ SUPERSEDES buildout-bottleneck-map.md:L689 — 8/8 fetch: the $750M Vulcan/ReElement was announced 2025-11-03 and is FINANCING not a supply agreement; 10kt is a company target
+`handoffs/2026-08-08-physical-ai-supply-fetch.md`. **The digest honoured all four traps and caught one I
+got wrong.** Prices are Shanghai Metals Market (SMM) assessments; company figures from filings/releases.
+
+### ⛔ CORRECTIONS TO THE 8/8 ~7:30am ENTRY ABOVE — read these before the new data
+1. **⛔ DATE ERROR. The ~$750M Vulcan Elements / ReElement package was announced 2025-11-03, NOT in the
+   August 2026 window.** I sourced it from a line reading *"earlier this year"* and filed it among the 8/7
+   announcements. **Nine months off.** The genuinely-new August 2026 item is the **Niron $150M (2026-08-07)**.
+2. **⛔ CLASS ERROR, and it is the same mistake the handoff was built to prevent. It is NOT A SUPPLY
+   AGREEMENT.** The digest classifies it as **conditional government FINANCING** — DERIVED as $620m Vulcan
+   Office of Strategic Capital (OSC) loan + $80m ReElement OSC loan + $50m Commerce incentives. **The
+   10,000 t/yr is a COMPANY TARGET, not contracted tonnage.** My derived line *"one deal is ~2x current US
+   capacity"* compared a **target capacity** against a **capacity base** and called it a deal. It stands only
+   as target-vs-base, never as contracted supply.
+3. **⚠️ AND THERE ARE TWO DIFFERENT 10,000 t/yr FIGURES — do not merge them.** MP Materials' is *total US
+   capacity after 10X*; Vulcan's is *its own plant target*. Distinct claims, distinct owners.
+
+### DATA (observed — SMM spot, company filings; as-of 2026-08-08)
+**⭐ THE LIGHT/HEAVY SPLIT — China domestic spot, YoY, units normalised to RMB/kg:**
+| | Aug 2026 | Aug 2025 | YoY |
+|---|---|---|---|
+| **NdPr oxide** | 736 RMB/kg | 522-525 | **+40.2% to +41.0%** |
+| **Dysprosium oxide** | 1,390 RMB/kg | 1,610-1,620 | **−14.2% to −13.7%** |
+| **Terbium oxide** | 6,650 RMB/kg | 7,000-7,040 | **−5.5% to −5.0%** |
+*(⚠️ the year-ago Dy/Tb figures were published as RMB/tonne and are reproduced by the digest unconverted;
+normalised here. All are "delivered works China, VAT included.")*
+
+- **⭐ THE EXPORT SPREAD — Dy is the ONLY commodity where both sides are published.** China domestic
+  1,390 RMB/kg vs **China export FOB USD 279-331/kg, average USD 305/kg** (2026-08-05).
+  **DERIVED at 7.10 RMB/USD: +56% export premium over VAT-inclusive domestic, +76% over ex-VAT.**
+  *(⚠️ FX rate is a STATED ASSUMPTION, not from the digest. VAT taken at 13%.)*
+- **THE PRICE FLOOR IS NEARLY OUT OF THE MONEY.** MP Materials/DoD: **USD 110/kg NdPr floor, 10 years**,
+  announced 2025-07-10, price-protection economics commenced 2025-10-01. **DERIVED:** the floor stood
+  **+49% above** China domestic NdPr in Aug 2025 (~$74/kg) and is now only **+6% above** it (~$104/kg).
+- **Ex-China NdPr price series DO NOT EXIST with history.** SMM launched FOB-China and CIF-Rotterdam NdPr
+  assessments **2026-08-05 — three days ago.** No year-ago comparison is possible. Tb export and all
+  finished-magnet ex-China series: **NOT DISCLOSED.**
+- **Finished NdFeB (SMM 45UH grade): 401 RMB/kg** (2026-08-07); year-ago login-restricted.
+- **CONTRACTED SUPPLY, 19 arrangements Jan-2025→now, classified:** **10 binding offtake · 5 MOU/LOI
+  non-binding · 3 not supply agreements at all (financing/tax credit) · 1 ambiguous.**
+  **COMMISSIONED AND DELIVERING: essentially Noveon's three** (Nidec, GM, ABB) plus Solvay supply from 2026.
+- **⭐ DISCLOSED FIRM ANNUAL TONNAGE ACROSS ALL 19: ~600 t/yr NdPr** (Arafura-Traxys Europe 100 t/yr firm
+  +200 optional; Arafura-Traxys NA 500 t/yr NdPr + 7.5 t/yr DyTb) **plus Noveon-Nidec's >1,000 tons TOTAL
+  over 5 years.** Every other agreement's tonnage is **NOT DISCLOSED.**
+- **NIRON, the registered falsifier, now quantified: "up to 36 MGOe" — and it is a TARGET** from a white
+  paper filed with NIST stating the magnet *"will have"* that energy product. **SMM NdFeB 45UH DERIVED at
+  42.98-45.99 MGOe** (from published 342-366 kJ/m³, 1 MGOe = 7.957747 kJ/m³). **Niron's target is 16-22%
+  BELOW a mid-grade NdFeB's actual specification.** Sartell Plant 1: **UNDER CONSTRUCTION, NOT
+  COMMISSIONED**; 1,500 t/yr and 2027 operation are **COMPANY TARGETS**; delivered tonnage NOT DISCLOSED.
+
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **⭐ FALLING CHINESE HEAVY-RARE-EARTH PRICES ARE EVIDENCE **FOR** BINDING EXPORT CONTROLS,
+  NOT AGAINST THEM — and the naive read inverts.** Dy −14% and Tb −5% inside China look like a chokepoint
+  easing. They are not. **An export control dams supply INSIDE the country: domestic prices FALL because
+  the material cannot leave, while the export price RISES.** The Dy pair is the proof — **+56% to +76%
+  export premium over domestic.** **The control is priced in the SPREAD, not the LEVEL**, and any read that
+  quotes only the Chinese domestic print will get the sign of this thread backwards.
+- *(analysis)* **THE MP/DoD FLOOR IS ABOUT TO STOP BEING A SUBSIDY, AND THAT IS ITSELF THE SCARCITY SIGNAL.**
+  A floor struck 49% above market in July 2025 sits 6% above market today. **The market closed a 49% gap in
+  thirteen months.** ⇒ **a dated mechanical threshold: if China domestic NdPr rises ~6% more, the floor goes
+  out of the money and MP sells at market.** That is a cleaner scarcity test than any forecast in either
+  bank note, and it is checkable weekly.
+- *(analysis — ⛔ THE ONE THAT CUTS HARDEST AGAINST THIS WHOLE FRAMING)* **HUMANOIDS ARE A ROUNDING ERROR IN
+  MAGNET DEMAND TODAY, SO THE +40% NdPr MOVE CANNOT BE A PHYSICAL-AI STORY.** Disclosed 2025 deliveries:
+  **Unitree >5,500 units, UBTECH 1,079** *(AGIBOT's 10,000 is CUMULATIVE, not annual — excluded)*.
+  **DERIVED: 6,579 units × 3.5-4.0 kg = 23-26 tonnes of NdFeB. That is 0.011-0.013% of China's ~205,000 t/yr
+  capacity, and ~0.1% of ex-China's ~23,500 t.** **The 10M-unit case this note derived on 8/4 is 1,500x
+  current actual volume.** ⇒ **The rare-earth price action is being driven by EVs, wind and defense. Reading
+  it as physical-AI scarcity is a category error, and it is the error this thread's framing invites.**
+  *(Per [[_calibration]] — the side Jake is under-weighting, and he is long this thread.)*
+- *(analysis)* **THE CHOKEPOINT IS REAL BUT ITS CLOCK IS NOT 2026.** Everything measured says the same
+  thing: the *constraint* is structural and priced (export spread), the *humanoid demand* that would make it
+  bind is ~0.01% of capacity, and the *Western supply response* is 19 announcements carrying ~600 t/yr of
+  disclosed firm tonnage. **Real chokepoint, wrong decade for the humanoid leg specifically.**
+- *(analysis)* **NIRON RESOLVES AS "NOT AN IMMINENT FALSIFIER" — the standard objection HELD, and is now
+  measured rather than assumed.** On 8/8 ~7:30am I registered it as a live falsifier and explicitly warned
+  the vault had *"NOT read a spec sheet and must not assume the objection holds."* It does: **36 MGOe target
+  vs 43-46 MGOe actual spec, plant not commissioned, zero delivered tonnage.** ⚠️ **But do not over-read it
+  the other way:** 36 MGOe is adequate for many motor applications, and being rare-earth-FREE carries
+  strategic value independent of performance. **The claim that survives: not a near-term threat to NdFeB in
+  HIGH-PERFORMANCE applications. Nothing stronger.**
+- *(⚠️ the discipline, and the digest enforced it better than the vault did)* **19 arrangements, and the
+  disclosed firm annual tonnage is ~600 t/yr NdPr.** Against ex-China capacity of ~23,500 t/yr, **the
+  contracted book is ~2.5% of existing capacity.** ANNOUNCED ≠ FID ≠ COMMISSIONED ≠ CONTRACTED-WITH-A-NUMBER,
+  and the fourth category is where nearly all of this evaporates.
+
+### 📌 REGISTERED — updated against the 8/8 ~7:30am list
+1. **Jan 1 2027 "end reliance" target** — unchanged, ⬜ open. The ~600 t/yr of disclosed contracted tonnage
+   makes a visible miss or a quiet redefinition materially more likely than on 7:30am's evidence.
+2. **⭐ RESOLVED, against the falsifier.** Niron 36 MGOe target vs 43-46 actual. Re-arm ONLY on a delivered-
+   product spec sheet or disclosed tonnage from a commissioned Sartell.
+3. **Vulcan 10 kt/yr → FID → COMMISSIONING** — unchanged, ⬜ and now correctly dated to a 2025-11-03
+   financing announcement rather than a 2026 supply deal.
+4. **Don Jr. stake** — ⬜ still unverified; the digest did not cover it and was not asked to.
+5. **⭐ NEW, and the cheapest weekly test in the thread: does China domestic NdPr rise ~6% and push the
+   MP/DoD floor out of the money?** Floor $110/kg; domestic ~$104/kg equivalent. ⬜
+6. **⭐ NEW: does an ex-China NdPr series (SMM FOB-China / CIF-Rotterdam, both launched 2026-08-05) build
+   enough history to price the Western premium directly?** Right now the Dy export spread is the only
+   window onto it. ⬜
