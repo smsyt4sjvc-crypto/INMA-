@@ -685,3 +685,69 @@ praseodymium (heavy/light rare earths for heat resistance); OEM = original equip
 
 **Links:** [[ai-infra-allocation-map]] · [[portfolio-state]] · [[war/war-board]] · [[power-not-petroleum]] ·
 [[metered-compute]] · [[compression-thesis]] · [[ai-capex-cycle]]
+
+## 2026-08-08 ~7:30am PDT — ★★★ THE MAGNET CHOKEPOINT GETS A POLICY RESPONSE, DATED AND PRICED — and one deal is ~2x current US capacity
+Jake: *"Trump recently mentioned magnets as well. A thread I've been following loosely since February. The
+China/rare earths/tariffs/geopolitics is the story with magnets specifically."* **Looked up rather than
+asked** (vault for conclusions, WEB for events). Extends the 8/4 Bernstein entry above; supersedes nothing.
+
+### DATA (observed — web pull 2026-08-08, sources listed; ⚠️ these are ANNOUNCEMENTS, see the discipline line)
+- **DoD/Commerce + Vulcan Elements + ReElement Technologies: ~$750M toward US rare-earth magnet
+  production, targeting 10,000 metric tons/yr.**
+- **Niron Magnetics (Minnesota): $150M from the Department of War for RARE-EARTH-FREE permanent magnets.**
+  Plus a **$150M conditional loan** to scale rare-earth-free capacity, and **$80M for mining schools.**
+- **Trump, 2026-08-07: ~$3bn in new mining projects** announced; White House fact sheet same window
+  ("billions in new deals and investments to power American mining").
+- **Stated policy target: end US reliance on Chinese critical minerals BY JANUARY 1, 2027.**
+- Reported cumulative: "tens of billions" across **~150 minerals companies.**
+- **⚠️ CONFLICT-OF-INTEREST REPORTING, logged as reported, not endorsed:** multiple outlets report Trump's
+  call for defense contractors to *"do magnets"* came **after Donald Trump Jr. reportedly took a stake in a
+  rare-earth magnet company.** ⬜ NOT VERIFIED here — company, size and date all unread.
+
+### DERIVED (against this note's own 8/4 exhibit values — no recalled numbers)
+- **The Vulcan/ReElement 10 kt/yr target is ~2x the ENTIRE US 2025E capacity of ~5 kt**, and ~53% of the
+  ~19 kt US 2030E figure. **One deal is a material fraction of the announced US 4x.**
+- **It is still ~4.9% of China's ~205 kt 2025E**, and ~3.5% of China's ~285 kt 2030E.
+- Against the humanoid demand math already derived above: **10 kt ≈ 2.5-2.9M humanoids/yr** at 3.5-4.0 kg
+  NdFeB/unit — i.e. one US deal covers roughly a quarter of the 10M-unit ramp that this note found would
+  otherwise consume ~1.5x the entire ex-China world's 2025 capacity.
+
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **JAKE'S FEBRUARY/MARCH THREAD IS NOW CORROBORATED A SECOND TIME, BY A DIFFERENT CLASS OF
+  EVIDENCE.** The 8/4 entry stamped his precedence against the SELL SIDE (~5 months). This stamps it against
+  **POLICY**: the administration is now spending against the same chokepoint he positioned into. **Two
+  independent confirmations of a call is the point at which the interesting question stops being "was he
+  right" and becomes "is it still early."** → the discipline line below.
+- *(analysis — THE ONE THAT COULD BREAK THE WHOLE THESIS)* **NIRON IS NOT MORE SUPPLY, IT IS A DIFFERENT
+  PHYSICS.** Rare-earth-FREE magnets (iron-nitride class) bypass the chokepoint rather than widening it.
+  **If they work at scale, the magnet thesis does not get relieved — it gets OBSOLETED**, and every ex-China
+  NdFeB capacity number in the 8/4 exhibits becomes a bet on a technology being displaced. ⚠️ The standard
+  objection is that rare-earth-free magnets are materially lower energy-product, which is why they have
+  stayed niche — **but the vault has NOT read a spec sheet and must not assume the objection holds.**
+  **Registered as a falsifier, not dismissed.**
+- *(analysis)* **THE JANUARY 1, 2027 TARGET IS A DATED, FALSIFIABLE POLITICAL CLAIM — the rarest useful kind.**
+  Against this note's own numbers it is not achievable on capacity: ex-China total goes ~23.5 → ~52.5 kt only
+  by **2030**, and China is ~90% of listed 2025 capacity. **A target that the supply curve says cannot be met
+  will resolve as either a quiet redefinition of "reliance" or a visible miss** — and both are observable.
+- *(⚠️ THE DISCIPLINE, UNCHANGED AND NOW MORE BINDING)* **Every number in the DATA block above is an
+  ANNOUNCEMENT** — the same evidence class the 8/4 entry flagged for the IEA capacity forecasts and the vault
+  flags for uncommenced leases. **ANNOUNCED ≠ FID ≠ COMMISSIONED.** A $750M commitment targeting 10 kt/yr is
+  a press release until there is a plant. **The correct next measurement is not more announcements — it is
+  PRICING, BACKLOGS and CONTRACTED SUPPLY**, which is precisely Jake's ask and is now a fetch handoff.
+- *(⚠️ against the bullish read)* **POLICY MONEY ARRIVING IS ALSO THE IDEA BECOMING CONSENSUS.** Sell-side
+  notes 8/4, ~$3bn of announcements 8/7, a named conflict-of-interest story the same week. **The
+  informational edge in "magnets are a chokepoint" is now approximately zero; what is left is execution
+  and price.** *(Per [[_calibration]] — argue the side Jake is under-weighting, and he is long this thread.)*
+
+### 📌 REGISTERED — dated and falsifiable
+1. **Jan 1 2027 "end reliance" target** — met, quietly redefined, or visibly missed? ⬜
+2. **Niron rare-earth-free magnets: energy product (MGOe) and delivered tonnage vs NdFeB.** If competitive at
+   scale, the NdFeB scarcity thesis is obsoleted rather than relieved. ⬜ NOT KNOWN.
+3. **Vulcan/ReElement: does the 10 kt/yr reach FID and then COMMISSIONING?** ⬜ Announced only.
+4. **Don Jr. stake: company, size, date, and whether it preceded the "do magnets" remarks.** ⬜ Unverified.
+
+**Sources (web pull 2026-08-08):** [White House fact sheet](https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-billions-in-new-deals-and-investments-to-power-american-mining/) ·
+[The Hill — $750M Vulcan/ReElement](https://thehill.com/policy/energy-environment/5587038-trump-rare-earth-magnets-vulcan-reelement/) ·
+[The National — $3bn mining projects](https://www.thenationalnews.com/business/energy/2026/08/07/trump-mining-critical-minerals/) ·
+[Yahoo — 'do magnets' / Don Jr stake](https://www.yahoo.com/news/politics/articles/trump-call-defense-contractors-magnets-171452187.html) ·
+[CSIS — rare earths deal analysis](https://www.csis.org/analysis/trump-strikes-deal-restore-rare-earths-access)
