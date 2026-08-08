@@ -818,6 +818,7 @@ normalised here. All are "delivered works China, VAT included.")*
   out of the money and MP sells at market.** That is a cleaner scarcity test than any forecast in either
   bank note, and it is checkable weekly.
 - *(analysis — ⛔ THE ONE THAT CUTS HARDEST AGAINST THIS WHOLE FRAMING)* **HUMANOIDS ARE A ROUNDING ERROR IN
+  ⟲ SUPERSEDED 2026-08-08 → buildout-bottleneck-map.md:L858 — AGIBOT exclusion bounded — conclusion insensitive; but 'rounding error therefore market is early' does NOT follow: blocked Western supply fits the same number
   MAGNET DEMAND TODAY, SO THE +40% NdPr MOVE CANNOT BE A PHYSICAL-AI STORY.** Disclosed 2025 deliveries:
   **Unitree >5,500 units, UBTECH 1,079** *(AGIBOT's 10,000 is CUMULATIVE, not annual — excluded)*.
   **DERIVED: 6,579 units × 3.5-4.0 kg = 23-26 tonnes of NdFeB. That is 0.011-0.013% of China's ~205,000 t/yr
@@ -854,3 +855,68 @@ normalised here. All are "delivered works China, VAT included.")*
 6. **⭐ NEW: does an ex-China NdPr series (SMM FOB-China / CIF-Rotterdam, both launched 2026-08-05) build
    enough history to price the Western premium directly?** Right now the Dy export spread is the only
    window onto it. ⬜
+
+### Addendum 2026-08-08 ~8:55am PDT — ⛔ JAKE CHALLENGED THE AGIBOT EXCLUSION. The arithmetic survives; the FRAMING does not.
+  ⟲ SUPERSEDES buildout-bottleneck-map.md:L820 — AGIBOT exclusion bounded — conclusion insensitive; but 'rounding error therefore market is early' does NOT follow: blocked Western supply fits the same number
+Jake: *"Dismissed the cumulative 10,000. Why? Could it be that they're surprised because of import controls?"*
+**Two separate challenges. The first I answer and keep. The second lands, and it changes what the number means.**
+
+### DATA (observed — sensitivity on the 8:40am "rounding error" claim)
+- **WHY IT WAS EXCLUDED:** AGIBOT's 10,000 is **cumulative production to 2026-03-30**, not annual deliveries.
+  Mixing a cumulative-to-date figure into a sum of two ANNUAL figures double-counts across years. That is
+  correct method — **but dropping a major producer to ZERO is not the same as bounding it, and I did the
+  former while claiming the latter's precision.** Bounded now:
+
+  | treatment | units | t NdFeB | % China cap (205,000 t) | % ex-China (23,500 t) |
+  |---|---|---|---|---|
+  | as filed (Unitree 5,500 + UBTECH 1,079) | 6,579 | 23-26 | 0.011-0.013% | 0.10-0.11% |
+  | + AGIBOT at a plausible 2025 slice (~4,000) | 10,579 | 37-42 | 0.018-0.021% | 0.16-0.18% |
+  | **+ AGIBOT's FULL cumulative as if all 2025** | 16,579 | 58-66 | **0.028-0.032%** | 0.25-0.28% |
+  | **5x disclosed — i.e. most of China unreported** | 82,895 | 290-332 | **0.142-0.162%** | 1.23-1.41% |
+- **⇒ THE EXCLUSION WAS NOT LOAD-BEARING.** The most aggressive honest treatment moves the answer from
+  0.013% to 0.032% of Chinese capacity. **Same order of magnitude, same conclusion.**
+- **⭐ WHAT WOULD IT TAKE TO BIND (at 3.75 kg/unit):** 1% of Chinese capacity needs **~547,000 units/yr = 83x**
+  the disclosed 2025 total · 10% of *ex-China* capacity needs **~627,000 units/yr = 95x** · 10% of Chinese
+  capacity needs **~5.5M units/yr = 831x**.
+- **THE TWO-TIER INPUT COST, from the export spread filed at 8:40am.** A Chinese builder buys dysprosium at
+  ~$196/kg domestic; a Western builder pays ~$305/kg FOB. **A +56% input-cost penalty on the Western side.**
+  ⚠️ **At an assumed ~0.1 kg Dy per humanoid that is only ~$11/unit — trivial against a robot's price.**
+  *(Dy loading per unit is MY ASSUMPTION, not sourced. The percentage is robust; the per-unit dollar is not.)*
+- **⬜ ALL THREE DISCLOSED PRODUCERS ARE CHINESE.** Unitree, UBTECH, AGIBOT. **There is no Western humanoid
+  production anywhere in this data.**
+
+### THESIS (interpretation — NOT fact)
+- *(analysis — the concession)* **THE ARITHMETIC HOLDS AND I SHOULD HAVE SHOWN THIS INSTEAD OF ASSERTING IT.**
+  A conclusion that survives its own worst-case treatment is worth more than one that merely excluded the
+  awkward number, and the sensitivity table costs one cell. **Excluding a data point because it is the wrong
+  SHAPE is not the same as it being ZERO** — and I presented it as though it were.
+- *(analysis — ⭐ JAKE'S SECOND CHALLENGE LANDS, AND IT BREAKS MY FRAMING WITHOUT TOUCHING MY NUMBER)*
+  **"Humanoids are a rounding error" measures VOLUME. I then read it as "the market is EARLY." That
+  inference does not follow, and the number cannot support it.** An identical 0.01% is produced by two very
+  different worlds:
+  **(a) DEMAND IS EARLY** — nobody wants many humanoids yet; or
+  **(b) WESTERN SUPPLY IS BLOCKED** — the only firms able to build at scale are Chinese, so observed volume
+  is Chinese capacity and Chinese choice, not global demand.
+  **The fact that every disclosed producer is Chinese is evidence for (b) that I did not weigh.**
+- *(analysis)* **AND THE MECHANISM IS LICENSING, NOT PRICE — which is why the small dollar figure above does
+  NOT dismiss the point.** This note's own 8/4 entry records China's 2025 controls as *"licensing extended to
+  overseas transactions, exports restricted to dozens of US/EU/JP companies → immediate collapse in Chinese
+  magnet exports."* **You cannot commit a production line to an input you may not be licensed to receive.**
+  That is a planning constraint, and a planning constraint suppresses volume long before a +56% price does.
+  **⇒ China's export control functions as industrial policy for Chinese physical AI**, and the vault's
+  [[compression-thesis]] two-bloc frame is the right home for that read.
+- *(⚠️ what still survives unchanged, and it is the load-bearing claim)* **THE +40% NdPr MOVE STILL CANNOT BE
+  A HUMANOID STORY.** 23-66 tonnes cannot move a 205,000-tonne market **regardless of WHY the tonnage is
+  small.** Whether humanoids are early or blocked, they are not the marginal buyer. EVs, wind and defense are.
+- *(⚠️ against myself again)* **"Rounding error today" is a STATE, not a TIMING** — the vault's own
+  WARNING-vs-TRIGGER rule. It shades the odds that the humanoid leg binds soon; it dates nothing. The 83x-831x
+  thresholds above are the honest form.
+
+### 📌 REGISTERED — added
+7. **⬜ US import controls / tariffs on Chinese humanoids and robotics.** If Western deployment is
+   restricted by IMPORT policy as well as by input licensing, that is a second suppressor of observed
+   volume — and it would be a third explanation for the same 0.01%. **Not checked; not in the digest;
+   the fetch never asked.**
+8. **⬜ Is there ANY Western humanoid unit production?** Figure One, Tesla Optimus, Agility — disclosed
+   delivered units for 2025/2026. **If the answer is ~zero while three Chinese firms ship thousands, read
+   (b) strengthens sharply against read (a).** This is the cheapest test of the two-world question.
