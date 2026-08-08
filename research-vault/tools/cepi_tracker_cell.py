@@ -265,6 +265,40 @@ else:
             print(f"{t:<7}{r1:>12.2f}{r2:>12.2f}{r2-r1:>+8.2f}{do:>+9.1f}%{dc:>+10.1f}%   {drv}")
         print("-" * 96)
 
+    # ── REPORTED vs CASH EARNINGS AGAINST CAPEX ──
+    #    "Do earnings exceed capex?" has two answers and they disagree. Print both,
+    #    and print the basket with the biggest non-cash contributor REMOVED, because
+    #    an aggregate answer that one name produces is not an answer about the group.
+    print("\n  ⭐ DO EARNINGS EXCEED CAPEX? — reported vs cash, and the concentration test")
+    print("     cash earnings = OCF − D&A.  ⚠️ a PROXY: in a buildout D&A lags the asset base,")
+    print("     so the eventual depreciation charge is LARGER and this proxy is GENEROUS.")
+
+    def basket(rows, label):
+        rows = [f for f in rows if None not in (f["ni"], f["ocf"], f["da"]) and true_capex(f)[0]]
+        if not rows:
+            return
+        NI = sum(f["ni"] for f in rows); DA = sum(f["da"] for f in rows)
+        OCF = sum(f["ocf"] for f in rows); C = sum(true_capex(f)[0] for f in rows)
+        short = NI + DA - OCF
+        print(f"{label:<30}{NI/C:>10.2f}{(OCF-DA)/C:>10.2f}{OCF/C:>9.2f}{short:>15,}{short/NI*100:>7.0f}%")
+
+    # who is the biggest non-cash contributor? (largest NI − OCF gap, latest quarter)
+    qs = sorted({f["q"] for f in FILINGS})
+    hyp = [f for f in FILINGS if f["grp"] == "HYPER" and f["cal_ok"]]
+    latest = [f for f in hyp if f["q"] == qs[-1] and None not in (f["ni"], f["ocf"])]
+    worst = max(latest, key=lambda f: f["ni"] - f["ocf"])["tkr"] if latest else None
+
+    print(f"\n{'BASKET':<30}{'rep E/C':>10}{'cash E/C':>10}{'OCF/C':>9}{'non-cash gap':>15}{'of NI':>8}")
+    print("-" * 96)
+    for q in qs:
+        basket([f for f in hyp if f["q"] == q], f"{q}  all cal-aligned")
+        if worst:
+            basket([f for f in hyp if f["q"] == q and f["tkr"] != worst], f"{q}  ex-{worst}")
+    print("-" * 96)
+    if worst:
+        print(f"    If 'rep E/C' crosses 1.00 between the two rows, the answer to \"do earnings")
+        print(f"    exceed capex\" is a statement about {worst}, not about the group.")
+
     # ── THE CASH-QUALITY SCREEN ──
     print("\n  ⭐ CASH-QUALITY SCREEN — CQ = (OCF − NI) / D&A")
     print("     ≥1.0 = normal (cash flow exceeds earnings by at least depreciation)")

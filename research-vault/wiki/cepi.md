@@ -228,3 +228,50 @@ blocks); all three findings below are printed by the cell, not asserted.
 5. **Does META's capex step-up reverse on guidance?** +58.5% QoQ with flat OCF is the most reversible
    configuration in the table. A guided-down Q3/Q4 capex number puts META back above 1.00 without any change
    in cash — and would be the first hard datapoint for [[ai-capex-cycle]]'s capex-cut trigger. ⬜ NOT KNOWN.
+
+### Addendum 2026-08-07 ~4:58pm PDT — ★★★★ "DO EARNINGS EXCEED CAPEX?" HAS TWO ANSWERS, THEY DISAGREE, AND THE ONE THAT SAYS YES IS ONE COMPANY (Jake's Q)
+Jake asked the question the whole instrument was built for, plainly: *"So are the earnings exceeding the
+capex or not."* Both answers are computed by the cell (new **reported-vs-cash + concentration** block).
+
+### DATA (observed — calendar-aligned hyperscalers MSFT+GOOGL+AMZN+META, $M, on TRUE capex)
+| basket | reported E/C | cash E/C | OCF/C | non-cash gap | as % of NI |
+|---|---|---|---|---|---|
+| **2026Q1 all** | 1.11 | 0.80 | 1.11 | 42,250 | 28% |
+| **2026Q1 ex-GOOGL** | **0.89** | 0.70 | 1.05 | 18,980 | 21% |
+| **2026Q2 all** | **1.32** | **0.74** | 1.00 | **99,165** | **44%** |
+| **2026Q2 ex-GOOGL** | **0.90** | 0.75 | 1.05 | 18,937 | 17% |
+
+- **REPORTED: YES.** 2026Q2 net income **226,454** vs true capex **171,904** ⇒ **E/C 1.32** (Q1: 1.11).
+- **CASH: NO.** Cash earnings (OCF − D&A) **127,289** vs the same capex ⇒ **cash E/C 0.74** (Q1: 0.80).
+  **The two answers move in OPPOSITE directions Q1→Q2** — reported up 1.11→1.32, cash down 0.80→0.74.
+- **THE WEDGE: 99,165 — 44% of reported net income did not become cash**, up from 42,250 (28%) in Q1.
+  *(Wedge = (NI + D&A) − OCF: what operating cash flow WOULD have been if nothing in earnings were non-cash.)*
+- **★ THE CONCENTRATION TEST — REMOVE ONE NAME AND THE "YES" DISAPPEARS. Ex-GOOGL reported E/C is 0.90 in
+  Q2 and 0.89 in Q1** — below 1.00 in both quarters, and **flat**. The rise from 1.11 to 1.32 is Alphabet.
+- **THE SAME NAME MOVES THE FUNDING RATIO. Ex-GOOGL OCF/C = 1.05 in BOTH quarters** — steady and above the
+  line. The aggregate's 1.106 → 0.999 crossing is Alphabet too.
+- **THE CASH ANSWER IS UNIFORM, THE REPORTED ANSWER IS NOT.** Cash E/C: **0.74 with GOOGL, 0.75 without.**
+  Removing the outlier barely moves it. Reported E/C: **1.32 with, 0.90 without.**
+- ⚠️ **`cash earnings = OCF − D&A` is a PROXY, and it is a GENEROUS one.** D&A lags the asset base during a
+  buildout (**DA/C is only 0.26**), so the eventual depreciation charge is larger than what currently runs
+  through the P&L. The true cash coverage is at or below 0.74.
+
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **THE ANSWER TO JAKE'S QUESTION IS: ON CASH, NO — AND THAT ANSWER IS THE GROUP'S. ON REPORTED
+  EARNINGS, YES — AND THAT ANSWER IS ALPHABET'S.** Two rows of the same table, and which one gets quoted
+  decides whether the complex looks like it is comfortably out-earning its buildout or quietly under-funding it.
+- *(analysis)* **THE CONCENTRATION TEST IS THE GENERALISABLE FINDING, NOT THE ALPHABET FACT.** An aggregate
+  that crosses a threshold because of ONE constituent is a statement about that constituent. This is the same
+  defect as the ⟲ 4:55pm addendum (aggregate hid diffusion) showing up a second time in one hour, on a
+  different ratio. **Both are now blocks in the cell rather than things I have to remember to check** —
+  consistent with STEP ZERO's founding logic: *a rule that only fires when remembered is an intention.*
+- *(analysis)* **WHY THE CASH ANSWER IS THE ONE THAT BINDS.** Reported earnings can be raised by a mark-up
+  (CQ) or by a depreciation-schedule change (MSFT's 15→25y, landing calendar Q3) without a dollar of cash
+  moving. Capex must be paid in cash. **A coverage question settled in reported earnings can be answered
+  "yes" by an accounting entry; settled in cash it cannot.** → [[ai-financing-fragility]].
+- *(⚠️ standing caveat, restated because the question invites forgetting it)* **contemporaneous E/C is NOT a
+  return measure** — 2026 capex earns in 2028-30. Both numbers answer *"how much current profit is consumed
+  by forward bets,"* which is the CEPI question. Neither answers *"is this capex paying off."*
+- *(⚠️ and the GOOGL magnitude is still unverified)* Test #3 above is unclosed: **GOOGL Q2 NI 112,193 has not
+  been checked against the primary 10-Q.** Every "ex-GOOGL" row here is robust to that — it removes the name.
+  Every "all" row is not. **If the digest is wrong on GOOGL, the 1.32 and the 44% both fall; 0.90 and 0.75 stand.**

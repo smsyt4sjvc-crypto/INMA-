@@ -5,3 +5,7 @@ mailers/*.ttf
 # OS junk
 .DS_Store
 Thumbs.db
+
+# Python bytecode cache — build artifact, never source
+__pycache__/
+*.py[cod]
