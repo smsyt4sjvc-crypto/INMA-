@@ -226,7 +226,15 @@ THREADS = {
  'FED':       ['warsh','term premium','forward guidance','steepen','core cpi','supply shock','dissent',
                'rate hike','rate cut','rate pause','rate decision','fomc','fed funds','fedwatch',
                'hike odds','basis point','powell','hawkish','dovish','fed meeting','rate expectations'],
- 'MODEL-ECON':['open-weight','open weight','routing layer','per-token','inference cost','agentic'],
+ # gap #15 (2026-08-08): MODEL NAMES and USAGE-SHARE vocabulary were absent from BOTH model threads.
+ # An OpenRouter leaderboard screenshot — the exact artifact answering the fetch registered in
+ # buildout-bottleneck-map on 8/4 ("China LLMs Now Dominate Western Models Token Usage") — returned
+ # NO MATCH. The threads could be reached by PRICE words but never by WHO or by HOW MUCH.
+ 'MODEL-ECON':['open-weight','open weight','routing layer','per-token','inference cost','agentic',
+               'deepseek','qwen','kimi','glm','minimax','tencent','hunyuan','xiaomi','mimo',
+               'llama','mistral','nemotron','gpt-5','gpt5','gemini','claude','grok',
+               'openrouter','leaderboard','token usage','token share','token volume',
+               'market share','usage share','model ranking','trillion tokens'],
  # AI-POLICY — added 7/31 after the router returned NO THREAD MATCHED on a Trump/Huang
  # clip about export controls and beating China. The vault had FOUR live threads on this
  # (the Feb-Jul Anthropic blacklist timeline, the Jul-1 export-control LIFT, the Jul-24
