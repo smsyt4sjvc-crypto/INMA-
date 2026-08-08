@@ -1578,3 +1578,75 @@ are *"hostile countries"*) in preliminary committee review; corridor talks in "f
   bulletins = the referee.
 - Book note: the flag-tier freight read only sharpens — "hostile" targeting BY CATEGORY is the
   two-tier market enforced by ordnance. [[../portfolio-state]]
+
+## 📌 LEDGER 2026-08-08 ~12:55pm PDT — ★★★★ THE MECCA JOINT DEFENCE AGREEMENT IS REAL AND VERIFIED — and the two things the paste omitted are what change the read
+Source paste: `raw/mjda-mecca-defense-pact-paste-2026-08-08.txt` — **unattributed social-post format, no
+outlet, no byline.** Given the size of the claim it was **VERIFIED BEFORE INGEST** (vault for conclusions,
+WEB for events). **It checks out**, across named outlets with independent origins.
+
+### DATA (observed — the paste's factual claims, each CONFIRMED by named sources)
+- **The Mecca Joint Defence Agreement (MJDA), signed 2026-08-07 in Mecca**, by **Saudi Arabia, Pakistan and
+  Turkey** — signatories **Mohammed bin Salman, Shehbaz Sharif, Recep Tayyip Erdoğan.** ✓
+- **Collective-defence clause: an armed attack against any one of the three is treated as an attack against
+  all three.** ✓
+- Turkey = NATO's second-largest military ✓ · Saudi Arabia = top oil exporter ✓ · Pakistan = the only
+  Muslim-majority nuclear-weapons state ✓
+- Sourced: [Al Jazeera ×2](https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it) ·
+  [CBS News](https://www.cbsnews.com/news/saudi-arabia-turkey-pakistan-defense-agreement/) ·
+  [Breaking Defense](https://breakingdefense.com/2026/08/saudi-arabia-turkey-pakistan-ink-joint-defense-agreement/) ·
+  [Atlantic Council](https://www.atlanticcouncil.org/dispatches/why-saudi-arabia-pakistan-and-turkey-just-signed-a-defense-pact/) ·
+  [Wikipedia — MJDA](https://en.wikipedia.org/wiki/Mecca_Joint_Defence_Agreement)
+
+### ⭐ DATA THE PASTE OMITTED — and both cut against its framing
+- **⭐ THIS IS AN EXTENSION, NOT A CREATION. Saudi Arabia and Pakistan signed a bilateral *Strategic Mutual
+  Defence Agreement* in SEPTEMBER 2025** — eleven months ago. MJDA extends that commitment to include Turkey.
+- **⭐ TURKEY'S ACCESSION WAS PUBLICLY REPORTED AS BEING SOUGHT IN JANUARY 2026** ("Turkey seeks to join
+  Saudi-Pakistan military pact mirroring NATO," 2026-01-10) — **seven months of telegraphing.**
+- **THE OPERATIONAL SCOPE IS NARROWER THAN "ARTICLE 5" IMPLIES.** Turkish media report the agreement covers
+  **joint exercises and training, technology transfers, and intelligence sharing**, described as **"purely
+  defensive in nature."**
+- Context confirmed: the regional war involving Iran **began February 2026**; Gulf states came under
+  repeated missile and drone attack.
+- **⬜ THE PASTE'S CLAIM "America's stockpiles are nearly depleted" IS NOT VERIFIED HERE** and does not
+  appear in the coverage read. It is the paste's assertion. *(The vault's own munitions thread is the place
+  to test it; this entry does not.)*
+
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **THE FACT IS SOLID; THE FRAMING IS THE WEAKEST PART OF THE PASTE.** *"Into that vacuum,
+  three nations just created their own Article 5"* is the line to discount: **two of the three already had
+  one, signed eleven months earlier, and the third's accession was reported seven months ago.** This is the
+  **completion of a telegraphed process**, not a bolt from the blue. **A dated event is still a trigger —
+  but a trigger the market has had two quarters to price is a different object from a surprise.**
+- *(analysis — ⭐ THE DISTINCTION THAT MATTERS MOST)* **ARTICLE 5 *LANGUAGE* IS NOT ARTICLE 5 *CAPABILITY*.**
+  NATO's Article 5 rests on integrated command (SACEUR), standing multinational forces, common procurement
+  and decades of interoperability. **MJDA's disclosed scope is exercises, training, technology transfer and
+  intelligence sharing.** A collective-defence clause without the machinery underneath it is a
+  **declaration of intent**, and the vault's own ladder applies: **ANNOUNCED vs FID.** The clause is
+  announced; the command structure is not evidenced.
+- *(analysis — ⭐ AND HERE IS THE GENUINELY NOVEL STRUCTURAL FACT, WHICH THE PASTE UNDERSELLS)*
+  **A NATO MEMBER HAS JOINED A MUTUAL-DEFENCE PACT WITH A NON-NATO NUCLEAR POWER, AND THE OBLIGATIONS ARE
+  ASYMMETRIC.** If Turkey is attacked, both NATO Article 5 and MJDA are nominally live. **If Saudi Arabia is
+  attacked, Turkey owes a commitment that its NATO allies do not** — a member state carrying a defence
+  obligation the alliance never voted on. **That asymmetry, not the pact's existence, is the part with no
+  clean precedent**, and it is where the second-order consequences would come from.
+- *(⚠️ FOR THE OIL BOOK — AND I AM NOT GOING TO CALL A DIRECTION, BECAUSE IT CUTS BOTH WAYS)*
+  **Deterrence FLOOR rises:** Iran now faces a broader declared coalition ⇒ lower probability of further
+  escalation against Saudi infrastructure. **Escalation CEILING also rises:** any future Saudi-Iran exchange
+  nominally implicates a nuclear-armed state and a NATO member ⇒ higher severity conditional on occurrence.
+  **Lower probability × higher severity is ambiguous for the crude risk premium**, and anyone claiming this
+  is cleanly bullish or bearish oil is reading one half of it. → [[demand-destruction]], [[oil-value-chain]].
+- *(⚠️ per the standing source rule and the ARTIFACT TEST)* **The paste's interpretive claims are its own,
+  not the outlets':** "no longer fully trust America," "NATO's future is uncertain," "most significant
+  geopolitical development of this entire war," and the stockpile claim. **The facts survived verification;
+  the editorial was never sourced and is not carried into this vault as fact.**
+
+### 📌 REGISTERED — dated and falsifiable
+1. **⬜ Does MJDA acquire COMMAND MACHINERY?** A named joint command, a standing force, a combined HQ, or a
+   ratified basing agreement inside 12 months would move it from declaration toward capability. **Absent
+   that by ~August 2027, treat the Article 5 language as declaratory.**
+2. **⬜ Does any NATO body address the Turkey asymmetry?** A NATO statement, a North Atlantic Council
+   discussion, or a US comment on Turkey's dual obligation. **Silence is itself informative.**
+3. **⬜ Iranian response within 30 days** — rhetorical only, or a change in targeting/posture toward Gulf
+   infrastructure. **This is the cleanest near-term test of whether the deterrence floor actually rose.**
+4. **⬜ The paste's "US stockpiles nearly depleted" claim** — unverified here; test against the munitions
+   thread rather than carrying it forward.

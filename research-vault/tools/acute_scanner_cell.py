@@ -268,6 +268,14 @@ THREADS = {
                'initial claims','continuing claims','adp employment'],
  # MUNITIONS — gap #6 (2026-08-04): the Erin Banco stockpile leak returned NO MATCH.
  # WAR/OIL covered tankers and Hormuz, nothing for the ordnance side of the same war.
+ # gap #16 (2026-08-08): a VERIFIED trilateral defence pact (Saudi/Turkey/Pakistan, Mecca 8/7)
+ # returned MUNITIONS(1)* + LEVANT(1)* — two weak single-keyword hits — because the map had no
+ # vocabulary for ALLIANCES at all. War was reachable through weapons, oil and theatres, never
+ # through treaties or the states signing them. Kept separate from MUNITIONS: a pact is not ordnance.
+ 'ALLIANCE':  ['defense pact','defence pact','mutual defense','mutual defence','collective defense',
+               'collective defence','article 5','joint defence','joint defense','security guarantee',
+               'saudi','pakistan','turkey','turkiye','erdogan','bin salman','sharif','mecca',
+               'riyadh','islamabad','ankara','nato','treaty','accession'],
  'MUNITIONS': ['atacms','tomahawk','munition','stockpile','prsm','precision strike',
                'defense production act','missile inventory','replenish','ordnance',
                'supplemental appropriation','arms sale'],
@@ -317,6 +325,7 @@ ROUTE = {
  'KOREA':     'market-fragility (leverage cascade)',
  'LABOR':     'predictions/2026-07-30-fed-hike (the registered Friday trigger) / new-economy-regime',
  'MUNITIONS': 'war/war-board (escalation ceiling, the A-vs-C fork) / ai-capex-cycle (defense-AI crowding)',
+ 'ALLIANCE':  'war/war-board (⭐ MJDA 8/8 — verified; Article 5 language vs Article 5 capability) / demand-destruction / oil-value-chain',
  'LEVANT':    'war/war-board (talks-while-shooting; MoU Article 1 broke via Lebanon -- portfolio-state L143)',
  'TOKEN-ECON': 'metered-compute (the Jevons/elasticity-1 test) / compression-thesis / cepi',
 }
