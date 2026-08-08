@@ -883,6 +883,7 @@ Jake: *"Dismissed the cumulative 10,000. Why? Could it be that they're surprised
   ⚠️ **At an assumed ~0.1 kg Dy per humanoid that is only ~$11/unit — trivial against a robot's price.**
   *(Dy loading per unit is MY ASSUMPTION, not sourced. The percentage is robust; the per-unit dollar is not.)*
 - **⬜ ALL THREE DISCLOSED PRODUCERS ARE CHINESE.** Unitree, UBTECH, AGIBOT. **There is no Western humanoid
+  ⟲ SUPERSEDED 2026-08-08 → buildout-bottleneck-map.md:L924 — two-world question SETTLED: US ships ≲600 vs China ≥11,079; and the FCC banned Chinese humanoid imports 2026-07-29 — cause is manufacturing capability, not rare-earth licensing
   production anywhere in this data.**
 
 ### THESIS (interpretation — NOT fact)
@@ -920,3 +921,73 @@ Jake: *"Dismissed the cumulative 10,000. Why? Could it be that they're surprised
 8. **⬜ Is there ANY Western humanoid unit production?** Figure One, Tesla Optimus, Agility — disclosed
    delivered units for 2025/2026. **If the answer is ~zero while three Chinese firms ship thousands, read
    (b) strengthens sharply against read (a).** This is the cheapest test of the two-world question.
+
+### Addendum 2026-08-08 ~9:00am PDT — ⛔⛔ THE VAULT MISSED A BAN. Jake said "DISPERSED," I read "surprised," and the word he actually used pointed at an event ten days old that neither I nor the scanner had.
+  ⟲ SUPERSEDES buildout-bottleneck-map.md:L885 — two-world question SETTLED: US ships ≲600 vs China ≥11,079; and the FCC banned Chinese humanoid imports 2026-07-29 — cause is manufacturing capability, not rare-earth licensing
+Jake: *"Not surprised. **Dispersed**."* — correcting my misreading of his prior message. His question was
+whether AGIBOT's units are **dispersed because of import controls.** Looked up rather than theorised.
+
+### DATA (observed — web pull 2026-08-08, sources below)
+- **⭐ THE US BANNED IMPORTS OF NEW CHINESE HUMANOID ROBOTS, ROBOT DOGS AND POWER INVERTERS.** The **Federal
+  Communications Commission (FCC)** announced it **2026-07-29**; rules **took effect immediately**.
+- **⭐⭐ THE GRANDFATHER CLAUSE IS THE WHOLE STORY: the ban applies ONLY to models NOT YET AUTHORISED for US
+  sale — and Unitree cleared its ENTIRE CURRENT LINEUP through FCC certification WEEKS BEFORE the decision.
+  Those grants STAND.**
+- The Pentagon separately added **Unitree** to a list of companies it alleges have links to China's military.
+- **⭐ GLOBAL 2025 HUMANOID SHIPMENTS ≈ 15,000 UNITS. Unitree and AGIBOT EACH shipped MORE THAN 5,000.
+  Tesla and Figure AI EACH shipped "a few hundred or less."**
+- China's Foreign Ministry accused Washington of "overstretching the concept of national security."
+- **⛔ THE VAULT HAD NONE OF THIS.** `grep` across `wiki/` for FCC / import ban / robot ban returns **zero**
+  prior hits. A dated, market-relevant policy action in a thread Jake has followed since February sat
+  unlogged for **ten days**, and the acute scanner did not surface it.
+
+### DERIVED (against this note's own values)
+- **Revised magnet demand: 15,000 units × 3.5-4.0 kg = 52-60 t NdFeB = 0.026-0.029% of China's 205,000 t.**
+- **My 8:55am "worst case" of 16,579 units OVERSHOT the real 15,000.** The bound held; the conclusion is
+  unchanged and now rests on a global figure rather than a two-company basket.
+- **REGISTERED TEST #8 IS ANSWERED, AND DECISIVELY.** Chinese three ≥ **11,079** units; US two ≲ **600**.
+  **The two US names together are ≲5% of the three Chinese names and ≲4% of the global total.**
+
+### THESIS (interpretation — NOT fact)
+- *(analysis — ⭐ JAKE'S HYPOTHESIS IS CONFIRMED, AND IN A SHARPER FORM THAN "DISPERSED" IMPLIED)*
+  **Unitree certified its whole catalogue with the FCC weeks before the door closed, and the ban
+  grandfathers exactly what was already authorised.** That is not dispersion as an accident of logistics —
+  **it is deliberate pre-positioning against a known-coming import control**, and it converts a permanent
+  regulatory barrier into a permanent competitive MOAT for the incumbent that beat it. **A ban written to
+  spare already-authorised models protects the very firm it was aimed at, and blocks its Chinese
+  successors and any new entrant equally.**
+- *(analysis — ⭐ THIS SETTLES THE TWO-WORLD QUESTION FROM 8:55am, AGAINST MY ORIGINAL FRAMING)* I offered
+  **(a) demand is early** vs **(b) Western supply is blocked**, and said the 0.01% could not distinguish
+  them. **It can now: Tesla and Figure ship a few hundred each while two Chinese firms ship 5,000+ each.**
+  **The West is not supply-blocked by materials — it is simply not building humanoids at competitive
+  scale**, and the US response to that gap was to close the border rather than close the gap. **Read (b)
+  is right about the OUTCOME (no Western volume) and wrong about the CAUSE I proposed (rare-earth
+  licensing). The binding constraint on Western humanoid volume is manufacturing capability, not inputs.**
+- *(analysis)* **AND THE BAN MAKES THE MAGNET-DEMAND QUESTION WORSE, NOT BETTER, FOR THE BULL CASE.**
+  The only humanoids shipping in volume are now barred from the largest Western market except for
+  pre-authorised models. **That suppresses the demand curve that would have to grow 83x to make magnets
+  bind.** ⇒ the humanoid leg of the magnet thesis just got a dated, mechanical headwind — **and it is a
+  TRIGGER (an event, 2026-07-29), not a state.**
+- *(⚠️ the process failure, which is the expensive part)* **I registered "US import controls on Chinese
+  humanoids" as ⬜ NOT KNOWN at 8:55am and then answered it with one search at 9:00am.** The item was never
+  unknown — it was **unlooked-up**. This is the *vault for conclusions, WEB for events* rule failing in its
+  original shape: I reached for a registered-test placeholder where a search was the correct move.
+  **A registered test that a single query resolves is not a test. It is a chore.**
+
+### 📌 REGISTERED — updated
+7. **⭐ RESOLVED 2026-08-08.** US import controls exist: FCC, effective 2026-07-29, new models only.
+8. **⭐ RESOLVED 2026-08-08.** Western humanoid production is ≲600 units across Tesla + Figure vs ≥11,079
+   across the Chinese three.
+9. **⬜ NEW — does the grandfather clause hold?** Unitree's existing FCC grants stand today. **A revocation,
+   a Pentagon-list consequence, or an FCC re-review would remove the moat and is the live risk to the
+   pre-positioning read.**
+10. **⬜ NEW — what did the ~15,000 global figure count?** Shipments vs deliveries vs production, and by
+    whose tally. It is the denominator under every ratio in this addendum and its provenance is one news
+    line. **⚠️ N outlets, one origin — the figure recurs across CNN/CBS/Al Jazeera coverage of the same
+    FCC action.**
+
+**Sources (web pull 2026-08-08):** [Al Jazeera](https://www.aljazeera.com/economy/2026/7/29/us-bans-imports-of-new-chinese-robots-over-security-concerns) ·
+[CBS News](https://www.cbsnews.com/news/humanoid-robots-imports-us-ban-china-national-security-concerns/) ·
+[CNN Business](https://www.cnn.com/2026/07/29/tech/us-china-robot-ban-intl-hnk) ·
+[PBS NewsHour](https://www.pbs.org/newshour/world/u-s-bans-foreign-made-humanoid-robots-targeting-china-over-national-security) ·
+[The Robot Report](https://www.therobotreport.com/industry-reacts-fcc-ban-u-s-imports-new-humanoid-quadruped-robots/)
