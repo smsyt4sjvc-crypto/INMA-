@@ -173,9 +173,21 @@ THREADS = {
  'MEMORY':    ['dram','hbm','nand','cxmt','micron','hynix','sandisk','memory price','memory chip',
                'chip shortage'],
  'SEMIS':     ['wafer','foundr','lithograph','advanced packaging','chip capex'],
+ # gap #11 (2026-08-05): the vault's own 4-star filer had no NAME keyword — "SpaceX next
+ # tranche eligible shares release" returned NO MATCH, reachable only via generic capex words.
+ # gap #12 (2026-08-08): the EARNINGS-QUALITY vocabulary. A paste naming Alphabet's $98bn
+ # unrealized equity gain and Amazon's $53bn Anthropic gain returned NO MATCH while cepi.md
+ # held the CQ screen that had flagged BOTH names off the cash flow statements the day before.
+ # ⚠️ KEEP COMMENTS OUT OF THE LIST LITERAL. The router parses keywords with a single-quote
+ # regex, so an apostrophe inside an in-list comment ("vault's") breaks quote pairing and the
+ # real keywords after it parse as bare commas. That is how gap #12 silently failed once.
  'CAPEX':     ['capex','capital expenditure','data center','data centre','hyperscaler',
                'off-balance','uncommenced','not commenced','depreciation',
-               'spacex','spcx','starlink'],   # gap #11: the vault's own ★★★★ filer had no name keyword
+               'spacex','spcx','starlink',
+               'unrealized','unrealised','mark-to-market','marked up','equity investment',
+               'equity securities','earnings quality','net margin','earnings beat',
+               'operating cash flow','free cash flow','net income','self-funding',
+               'finance lease','useful life','useful-life'],
  # GAP #11 (2026-08-05): "SpaceX next tranche eligible shares release" returned NO MATCH while
  # the vault held a ★★★★ SpaceX mega-entry — reachable only through generic capex words. Company
  # names of vault-tracked filers + supply-mechanics terms (lockup/tender/unlock) had no keywords.
