@@ -299,6 +299,26 @@ else:
         print(f"    If 'rep E/C' crosses 1.00 between the two rows, the answer to \"do earnings")
         print(f"    exceed capex\" is a statement about {worst}, not about the group.")
 
+    # ── ROBUSTNESS: how much of the conclusion rests on the LEAST-VERIFIED number? ──
+    #    A conclusion that inverts on one unconfirmed datapoint is not a conclusion yet.
+    #    Set `stress` below to re-run the headline with a suspect figure replaced.
+    STRESS = dict(tkr="GOOGL", q=qs[-1], field="ni", alt_note="~30% net margin (sector-normal)",
+                  alt=lambda f: int(f["rev"] * 0.30))
+    tgt = [f for f in hyp if f["tkr"] == STRESS["tkr"] and f["q"] == STRESS["q"]]
+    if tgt and tgt[0]["rev"]:
+        print(f"\n  ⭐ ROBUSTNESS — does the answer survive if {STRESS['tkr']} {STRESS['q']} "
+              f"{STRESS['field']} is wrong?")
+        rows = [f for f in hyp if f["q"] == STRESS["q"]]
+        for lab, override in [("as digested", None), (STRESS["alt_note"], STRESS["alt"](tgt[0]))]:
+            NI = sum((override if (override is not None and f["tkr"] == STRESS["tkr"]) else f[STRESS["field"]])
+                     for f in rows)
+            DA = sum(f["da"] for f in rows); OCF = sum(f["ocf"] for f in rows)
+            C = sum(true_capex(f)[0] for f in rows)
+            print(f"    {lab:<34} rep E/C {NI/C:>5.2f}   gap {NI/C-(OCF-DA)/C:>5.2f}   "
+                  f"wedge {NI+DA-OCF:>10,} ({(NI+DA-OCF)/NI*100:>3.0f}% of NI)")
+        print("    If the two rows disagree on the SIGN or the verdict, the headline is")
+        print("    unconfirmed — quote it with the caveat, not as a finding.")
+
     # ── THE CASH-QUALITY SCREEN ──
     print("\n  ⭐ CASH-QUALITY SCREEN — CQ = (OCF − NI) / D&A")
     print("     ≥1.0 = normal (cash flow exceeds earnings by at least depreciation)")

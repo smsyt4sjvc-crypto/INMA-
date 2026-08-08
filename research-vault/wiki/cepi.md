@@ -275,3 +275,51 @@ capex or not."* Both answers are computed by the cell (new **reported-vs-cash + 
 - *(⚠️ and the GOOGL magnitude is still unverified)* Test #3 above is unclosed: **GOOGL Q2 NI 112,193 has not
   been checked against the primary 10-Q.** Every "ex-GOOGL" row here is robust to that — it removes the name.
   Every "all" row is not. **If the digest is wrong on GOOGL, the 1.32 and the 44% both fall; 0.90 and 0.75 stand.**
+
+### Addendum 2026-08-07 ~5:02pm PDT — IS THE GAP CLOSING OR WIDENING? WIDENING ON THE AGGREGATE, NARROWING EVERYWHERE EXCEPT ALPHABET — AND THE ANSWER INVERTS ON ONE UNVERIFIED NUMBER (Jake's Q)
+### DATA (observed — reported E/C minus cash E/C, calendar-aligned hyperscalers, on TRUE capex)
+| basket | gap Q1 | gap Q2 | Δ | direction |
+|---|---|---|---|---|
+| **all four** | 0.31 | **0.58** | +0.27 | **WIDENING (+86%)** |
+| **ex-GOOGL** | 0.19 | **0.15** | −0.04 | **NARROWING (−21%)** |
+
+- **Non-cash wedge, all four: 42,250 → 99,165** (+56,915); **28% → 44% of net income** (+16pp).
+- **Non-cash wedge, ex-GOOGL: 18,980 → 18,937** — **FLAT in dollars** (−43) while net income grew,
+  so it **FELL as a share: 21% → 17%** (−5pp).
+- **PER NAME the split is two and two.** Widening: **GOOGL 0.65 → 1.76** (+1.11), **AMZN 0.51 → 0.68**
+  (+0.17). Narrowing: **MSFT −0.13 → −0.21**, **META 0.03 → −0.32** (−0.35). *(A NEGATIVE gap means cash
+  earnings EXCEED reported earnings — the normal state for a capital-intensive filer.)*
+- **⭐ SENSITIVITY — the whole answer turns on GOOGL Q2 net income.** Re-run with that one figure replaced
+  by a sector-normal ~30% margin (35,939 vs the digested 112,193):
+  **reported E/C 1.32 → 0.87 · gap 0.58 → 0.13 · wedge 44% → 15% of net income.**
+  **The verdict flips from "widening sharply" to "small and stable."**
+- **THE ONE THING THAT WIDENS IN EVERY CUT: DA/C. All four 0.31 → 0.26; ex-GOOGL 0.35 → 0.30.** Depreciation
+  is falling further behind capex in both baskets, independent of Alphabet.
+- ⚠️ **n = 2 quarters.** Two points give a DIRECTION, not a trend; a step-change and a slope are
+  indistinguishable here.
+
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **THE HONEST ANSWER IS "WIDENING, UNCONFIRMED," AND THE UNCONFIRMED HALF IS LOAD-BEARING.**
+  Test #3 (GOOGL Q2 NI vs the primary 10-Q) was registered an hour ago as a data-hygiene item. It is now
+  the **pivot of an analytical conclusion**: the same unread filing decides whether the complex's earnings
+  quality is deteriorating fast or barely moving. **A registered test that starts as hygiene and becomes
+  load-bearing should be re-priced as urgent — this one has been.**
+- *(analysis)* **THE DA/C WIDENING IS THE ROBUST FINDING AND IT POINTS THE OTHER WAY IN TIME.** The
+  reported-vs-cash gap is about earnings quality *now*; DA/C is about the earnings drag *ahead*. It fell in
+  both baskets, so **the 2024-26 capex wave is still outrunning its own depreciation schedule** — the P&L
+  hit is being deferred, not absorbed. **That is the one direction this data establishes without depending
+  on Alphabet.** → [[ai-capex-cycle]].
+- *(analysis)* **AND IT COMPOUNDS WITH MSFT'S 15→25y EXTENSION.** DA/C falling is the *mechanical* deferral
+  (assets not yet depreciating); the life extension is a *discretionary* deferral landing calendar Q3. Both
+  push the same charge further out. **Two deferrals stacking is a different object from one, and neither
+  changes a dollar of cash.**
+- *(⚠️ against my own read)* **THE EX-GOOGL NARROWING IS A REAL RESULT AND DESERVES EQUAL BILLING.** Three of
+  four names are flat-to-improving on earnings quality, and two have cash earnings *exceeding* reported. **A
+  bear framing that quotes 44% while the ex-outlier number is 17% and falling would be the "N outlets, one
+  origin" error in ratio form** — one name restated four ways. → [[_calibration]].
+
+### 📌 TEST #3 RE-PRICED — from hygiene to load-bearing
+**GOOGL 2026Q2 net income 112,193, against the primary 10-Q.** ⬜ NOT KNOWN. It now decides: (a) whether the
+reported-vs-cash gap is widening or stable, (b) whether the 44%-of-net-income wedge is real, (c) whether
+aggregate reported E/C is above or below 1.00 (1.32 vs 0.87). **Every ex-GOOGL row in this vault is robust to
+it; no "all four" row is.**
