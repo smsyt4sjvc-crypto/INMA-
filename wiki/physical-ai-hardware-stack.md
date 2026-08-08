@@ -1,76 +1,83 @@
-# Physical AI — the humanoid hardware stack (DATED LEDGER, no thesis yet)
+# Physical AI — the humanoid hardware stack (ACTUATOR/REDUCER layer)
 
-Opened 2026-08-08 ~7:10am PDT. Jake: *"Just ingest, set alert for discussion tomorrow."*
-Source: `raw/zh-barclays-bernstein-humanoid-hardware-stack-2026-08-07.pdf` (+ `.txt`), ZeroHedge,
-footer stamp **8/7/26 11:29 PM** (as printed; timezone not stated on the page).
+Opened 2026-08-08 ~7:10am PDT. **⟲ GUTTED AND REWRITTEN ~7:25am PDT — the first version was a DUPLICATE.**
 
-> ⛔ **THE ARTIFACT TEST GOVERNS THIS ENTIRE FILE.** The artifact read is a **ZeroHedge article ABOUT two
-> bank notes** — Barclays (William Thompson, note dated Thursday) and Bernstein (Dien Wang, "earlier this
-> week"). **Neither note has been read.** The article explicitly routes the substance — *"how to profit
-> from the humanoid robotic value chain by subcategory"* and Bernstein's *"Exhibit 3"* — to a paywalled
-> portal. **So this is a DATED LEDGER with a NOT-KNOWN list. NO THESIS until a primary note is in hand.**
-> Per the standing source rule, ZH is treated as a data feed: claims kept, editorial stripped.
+> ⛔ **THE MAGNET/RARE-EARTH LAYER IS NOT HERE. IT LIVES IN [[buildout-bottleneck-map]] (L632+), FILED
+> 2026-08-04** — four days before this note was opened. That entry read the **Bernstein (Dien Wang) note
+> in full, exhibits included**, and it already holds China's 59/91/94% mining/refining/manufacturing split,
+> the 2025 export controls, the kt-NdFeB capacity tables (Exhibits 10-13), the ex-China chain (Exhibit 17),
+> and **Jake's March precedence stamped on disk**. **Do not re-derive any of it here. Go there.**
+>
+> **Why this file was nearly a second, worse copy of the vault:** the 8/7 ZeroHedge piece was ingested
+> **without running STEP ZERO**, so a note was opened listing "the Bernstein note" and "magnet content per
+> humanoid in absolute terms" as ⬜ NOT KNOWN — **when the vault had both, sourced and dated, since 8/4.**
+> (Absolute intensity was never unknown: **3.5-4.0 kg NdFeB per humanoid vs 1-3 kg per EV motor.**)
+> Logged loudly per rule 4; the correction and its cause are in `chat-log/2026-08-08.md`.
 
-## DATA (observed — what the article states, attributed)
-**Market size (attributed to Barclays / Thompson):**
-- Humanoid market **~$2-3bn today**.
-- Forecasts **$10-25bn by 2030**; "more optimistic scenarios" reaching **~$200bn by 2035**.
-- Cites a prior Barclays piece, *"Global Macro — AI gets physical: Ten things to know about humanoids."*
+**What this note IS:** the **actuator, reducer and motion-control** layer — the part of the 8/7 Barclays
+note that is genuinely NEW against the 8/4 magnet entry. Nothing else belongs here.
 
-**Bill of materials (attributed to Barclays / Thompson):**
-- **Actuators are the biggest hardware prize.** A humanoid may require **40 to 70 actuators**, representing
-  roughly **30% to 50% of the material bill**.
-- Therefore motors, **reducers**, bearings and motion-control systems are the critical subcategories.
-- **Reducers** = high-precision gearing embedded in actuators; **high barriers to entry**; led by Japanese
-  players — **Harmonic Drive Systems** and **Nabtesco** are the two named.
-- **Rare-earth materials**, particularly **magnets for high-performance motors**, create strategic
-  dependencies; supply chains **heavily concentrated in China**.
+Source: `raw/zh-barclays-bernstein-humanoid-hardware-stack-2026-08-07.pdf` (+ `.txt`), ZeroHedge, footer
+stamp **8/7/26 11:29 PM** (as printed; timezone not stated).
 
-**Chokepoints (attributed to Bernstein / Wang, "earlier this week"):**
-- Named chokepoints: **high-performance motors, robotic actuators, rare-earth minerals** — "mostly
-  dominated by China."
-- **"A humanoid robot can consume more than TWICE as much magnetic material as an EV motor (Exhibit 3)"** —
-  direct quote. ⚠️ Exhibit 3 itself not seen.
-- Wang frames China's rare-earth-magnet dominance as troubling in an *"increasingly multipolar world."*
+> ⚠️ **ARTIFACT TEST:** the artifact read is a **ZeroHedge article ABOUT a Barclays note** (William
+> Thompson, dated Thursday). **The Barclays note itself has NOT been read** — and the article routes its
+> by-subcategory "how to profit" map to ZH's own paywalled Marketdesk.ai portal, i.e. the paywall sits
+> exactly where the actionable content would be. Per the standing source rule, claims kept, editorial stripped.
 
-**Supply-chain structure (attributed to the article's synthesis of both):**
-- China currently leads in **humanoid deployment volumes** and holds positions across **rare-earth
-  processing, motors, batteries, and robot manufacturing**.
-- US/European scrutiny "could influence market access, procurement decisions, localization requirements";
-  supply chains "may become increasingly **regionalized**," with parallel ecosystems across China and the West.
+## DATA (observed — attributed to Barclays / Thompson unless noted)
+**The actuator layer — the genuinely new content:**
+- **Actuators are the biggest hardware prize. A humanoid may require 40 to 70 actuators, representing
+  roughly 30% to 50% of the material bill.**
+- Critical subcategories named: **motors, reducers, bearings, motion-control systems.**
+- **Reducers** = high-precision gearing embedded in actuators. **High barriers to entry.** Led by Japanese
+  players — **Harmonic Drive Systems** and **Nabtesco** are the two named. *(This is a SECOND chokepoint,
+  distinct from magnets, and it is JAPANESE-concentrated rather than Chinese-concentrated.)*
 
-**⚠️ EDITORIAL — STRIPPED, LOGGED SEPARATELY (this is ZH's voice, NOT either bank's):**
-- *"The Trump admin must accelerate the development of domestic production…"* — advocacy, not analysis.
-- *"If Beijing moves on Taiwan… America's physical-AI ambitions could grind to an instant halt."* — a
-  conditional with no probability, no date and no mechanism attached. **Not a finding.**
-- The piece closes by routing readers to ZH's own **Marketdesk.ai** subscription portal. **The paywall sits
-  exactly where the actionable content would be** — note that when weighing how much the free text carries.
+**Market size (attributed):**
+- Humanoid market **~$2-3bn today**; forecasts **$10-25bn by 2030**; "more optimistic scenarios" **~$200bn
+  by 2035**. Cites a prior Barclays piece, *"Global Macro — AI gets physical: Ten things to know about humanoids."*
 
-## ⬜ NOT KNOWN (the list that must shrink before any thesis)
-1. ⬜ **The Barclays note itself** — specifically the by-subcategory value-chain map. The article says
-   Thompson "provided a deep understanding… by subcategory" and then does not reproduce it.
-2. ⬜ **The Bernstein note itself**, and **Exhibit 3** (the magnetic-material comparison).
-3. ⬜ **What the $2-3bn "market" measures** — units shipped × ASP? revenue of which firms? Unstated.
-4. ⬜ **Whose forecast** the $10-25bn/2030 and ~$200bn/2035 numbers are — Barclays' own, or cited from
-   third parties. The article's phrasing ("forecasts range… more optimistic scenarios") suggests a survey,
-   which would make them **N forecasts, possibly one origin.**
-5. ⬜ **Any named Western supplier** beyond the two Japanese reducer makers. The "how to profit" list is
-   behind the portal.
-6. ⬜ **Rare-earth magnet content per humanoid in absolute terms.** "More than twice an EV motor" is a
-   RATIO with no base — and an EV motor's magnet mass is itself a range, not a constant.
-7. ⬜ **Whether either bank has a position, mandate or banking relationship** with any named supplier.
+**Chinese positioning (attributed; overlaps [[buildout-bottleneck-map]] — kept only as the actuator cut):**
+- Chinese actuator/motor suppliers named: **Tuopu, Sanhua, Inovance**; OEM **BYD**. *(Already in the 8/4
+  entry as Bernstein's conclusion — recorded here only because the Barclays note reaches the same names
+  independently, which is a convergence worth having, not a new fact.)*
 
-## Cross-links (why this is in the vault at all)
-- [[ai-capex-cycle]] — physical AI is the demand story that would EXTEND the capex cycle past the data
-  centre. If real, it changes the terminal-demand question; if not, it is another announced-not-FID vector.
-- [[power-not-petroleum]] — the vault's standing finding that the binding constraint is physical, not
-  narrative. **This article proposes a SECOND physical constraint (magnets/reducers) with the same
-  structure as the first (power/transmission).** Whether it binds like power does is exactly the open question.
-- [[demand-destruction]], [[compression-thesis]] — where a robotics demand curve would land.
-- [[memory-regime-question]] — the other China-concentration supply thread, for structural comparison.
+**⚠️ EDITORIAL — STRIPPED (ZH's voice, NOT either bank's):** *"The Trump admin must accelerate…"*;
+*"If Beijing moves on Taiwan… America's physical-AI ambitions could grind to an instant halt"* — a
+conditional with no probability, date or mechanism. **Not a finding.**
+
+## ⬜ NOT KNOWN (revised — the two items the vault already answered have been REMOVED)
+1. ⬜ **The Barclays note itself** — the by-subcategory value-chain map, behind the portal.
+2. ⬜ **What the $2-3bn "market" measures** — units × ASP? revenue of which firms? Unstated.
+3. ⬜ **Whose forecast** the $10-25bn/2030 and ~$200bn/2035 figures are — Barclays' own or surveyed. The
+   phrasing ("forecasts range… more optimistic scenarios") suggests a survey ⇒ possibly **N forecasts,
+   one origin.**
+4. ⬜ **Reducer capacity, lead times and order books.** Harmonic Drive and Nabtesco are both listed
+   Japanese companies that report backlog — **this is checkable and is not yet checked.**
+5. ⬜ **Actuator unit economics** — cost per actuator, and what the 30-50% BOM share is a share OF.
+6. ⬜ Whether either bank has a position, mandate or banking relationship with any named supplier.
+
+## THESIS (interpretation — NOT fact)
+- *(analysis)* **THE REDUCER CHOKEPOINT IS STRUCTURALLY DIFFERENT FROM THE MAGNET CHOKEPOINT, AND THAT IS
+  THE REASON THIS NOTE EXISTS SEPARATELY.** Magnets are a **materials** constraint concentrated in **China**
+  and therefore a geopolitical instrument — the vault has China using it as one, dated 2025. Reducers are a
+  **precision-manufacturing** constraint concentrated in **Japan** — an ALLY. Same word ("chokepoint"),
+  different risk class: one is a weapon, the other is a queue. **Conflating them would overstate the
+  political risk and understate the delivery risk.**
+- *(analysis)* **A QUEUE IS MEASURABLE IN A WAY A WEAPON IS NOT.** Harmonic Drive and Nabtesco publish
+  order backlogs. **If the reducer constraint is real it shows up as book-to-bill and lead times, in public
+  filings, now** — not as a forecast. That makes this the cheapest falsifiable test in the whole physical-AI
+  thread, and it is exactly what Jake asked for (pricing / backlogs / contracted supply).
+- *(⚠️ the discipline, carried over from the 8/4 entry and still binding)* **A sell-side "how to profit"
+  list marks the IDEA as distributed.** Two banks publishing the same value chain inside one week is
+  evidence the trade is being socialised, not that it is early.
 
 ## 📌 STATUS
-**DATED LEDGER — NO THESIS REGISTERED.** Flagged for discussion (see `chat-log/2026-08-08.md`). The one
-question worth opening with: **does the magnet/reducer chokepoint have the same evidentiary standing as the
-power chokepoint, or is it an ANNOUNCED constraint on an ANNOUNCED market?** The vault's own ladder —
-ANNOUNCED vs FID, REPORTED vs MEASURED — applies to the constraint just as hard as to the buildout.
+**DATED LEDGER — NO THESIS REGISTERED on market size or timing.** The one registered question:
+**does the reducer/actuator constraint show up in Harmonic Drive and Nabtesco's ACTUAL order books, or
+only in bank forecasts?** That is a measurement, and it is now in a fetch handoff.
+
+**Links:** [[buildout-bottleneck-map]] (⭐ THE magnet/rare-earth entry — read it FIRST) · [[ai-capex-cycle]] ·
+[[power-not-petroleum]] · [[demand-destruction]] · [[war/war-board]] · [[ai-infra-allocation-map]] ·
+[[portfolio-state]]

@@ -181,6 +181,16 @@ THREADS = {
  # ⚠️ KEEP COMMENTS OUT OF THE LIST LITERAL. The router parses keywords with a single-quote
  # regex, so an apostrophe inside an in-list comment ("vault's") breaks quote pairing and the
  # real keywords after it parse as bare commas. That is how gap #12 silently failed once.
+ # gap #13 (2026-08-08): the RARE-EARTH / MAGNET / HUMANOID vocabulary had NO thread at all.
+ # A ZeroHedge piece on the humanoid hardware stack was ingested and a DUPLICATE note opened,
+ # listing as unknown two facts buildout-bottleneck-map.md had held since 8/4 (the Bernstein
+ # note; magnet intensity 3.5-4.0 kg NdFeB/humanoid). The magnet thread was reachable only
+ # through POWER/SEMIS, which route elsewhere. This is the thread that failure needed.
+ 'MATERIALS': ['rare earth','rare-earth','magnet','ndfeb','neodymium','dysprosium','terbium',
+               'praseodymium','humanoid','actuator','reducer','harmonic drive','nabtesco',
+               'mp materials','lynas','vulcan elements','reelement','niron','critical mineral',
+               'permanent magnet','robotics','physical ai','motion control','tuopu','sanhua',
+               'inovance'],
  'CAPEX':     ['capex','capital expenditure','data center','data centre','hyperscaler',
                'off-balance','uncommenced','not commenced','depreciation',
                'spacex','spcx','starlink',
@@ -286,6 +296,7 @@ ROUTE = {
  'CAPEX':     'ai-capex-cycle / cepi',
  'FINANCING': 'ai-financing-fragility',
  'POWER':     'buildout-bottleneck-map / power-not-petroleum',
+ 'MATERIALS': 'buildout-bottleneck-map (⭐ the magnet chokepoint, 8/4 + 8/8 policy) / physical-ai-hardware-stack (actuators/reducers) / war-board',
  'WAR/OIL':   'demand-destruction / war-board / oil-value-chain',
  'BLACK SEA': 'demand-destruction (CPC/Kazakh outage) / oil-value-chain',
  'INVENTORY': 'demand-destruction (SPR clock)',

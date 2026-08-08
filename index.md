@@ -20,7 +20,7 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 3. [[market-fragility]] — the top-level regime read (narrow-market STATE, timed by triggers)
 4. [[ai-capex-cycle]] → [[cepi]] — the fragility's fundamental driver (Capex→Earnings→Price Intensity)
 5. [[power-not-petroleum]] → [[demand-destruction]] — the energy rotation / oil
-- [[physical-ai-hardware-stack]] — the humanoid hardware stack (actuators/reducers/rare-earth magnets). DATED LEDGER, no thesis; 7 ⬜ NOT-KNOWNs, neither bank note read.
+- [[physical-ai-hardware-stack]] — the ACTUATOR/REDUCER layer only (Harmonic Drive, Nabtesco; Japan-concentrated = a queue, not a weapon). ⚠️ The magnet/rare-earth layer is NOT here — it lives in [[buildout-bottleneck-map]] L632+ (8/4 Bernstein) and L689 (8/8 policy).
 6. [[fragility-engine]] — the code that scores it all into one number
 6b. [[memory-regime-question]] — dip vs cliff vs revolving demand: THE question for the MU position (opened 7/28)
 7. [[portfolio-state]] — the running truth of the book (+ account constraints)
