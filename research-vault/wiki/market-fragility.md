@@ -2416,7 +2416,7 @@ tape 8/5-6 via the short-covering wire (Nasdaq highs named explicitly; S&P at/ne
   kills the distortion story** (3-mo avg +20K implies May+June were net positive, so July is currently the
   only negative month; August negative = consecutive).
 
-### Addendum 2026-08-09 ~12:05am PDT — JAKE NAMES THE MECHANISM, AND HIS OWN PREMISE CUTS BOTH WAYS
+### Addendum 2026-08-08 ~11:55pm PDT — JAKE NAMES THE MECHANISM, AND HIS OWN PREMISE CUTS BOTH WAYS
 Jake: *"Losing jobs usually signals deflation/recessionary. Except jobs aren't particularly the driver of
 inflation this go round. AI spending (and bid up) and energy are. So weak jobs reduces hike odds. Well at
 least the expectation."*
