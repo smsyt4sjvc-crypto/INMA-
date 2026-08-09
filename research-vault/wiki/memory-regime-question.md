@@ -777,3 +777,25 @@ complex, not a memory dump.** *(Analysis; scanner prints are intraday, not close
 - iPhone-18: ~$1B of A20 Pro chips "awaiting packaging" on mobile-DRAM constraint — analyst-sourced
   (Culpan via MacRumors), no Apple/TSMC confirmation. The 100-year-flood's product-level artifact,
   analyst-grade. Cook separately: "very significant constraints."
+
+## 2026-08-09 ~1:50pm PDT — RADAR CYCLE 1 FEEDS THE F3 FORK FROM BOTH SIDES (two isolated branches argued it without seeing each other)
+Source: `raw/thesis-radar-report-1-2026-08-09.md` ([[thesis-radar]]). The glut-vs-walled fork got argued
+across two branches that could not see each other — and got COMMERCIAL evidence of the kind F3 asks for.
+- **WALLED-SIDE EVIDENCE (F3's own test — buyers pre-committing against Chinese supply):** **Micron
+  5-YEAR supply lock-ins** reported (HN branch) · **CoreWeave exploring memory-price DERIVATIVES** —
+  hedging demand for a spot exposure is itself term-structure evidence · TSMC June +67.9% (filings-
+  confirmed via the SK Hynix verification) · demand-intact read of the July memory-stock break (Hormuz
+  positioning, not demand — Reddit branch).
+- **GLUT-SIDE EVIDENCE:** **Korea's $1T package decomposed: $585B FABS / $357B datacenters / $5.8B
+  humanoids** (HN read: the textbook state-scale supply response that lands 2027+ as overcapacity) ·
+  **Qimonda patent estate → CXMT for ~$30M** — a direct China-capability datapoint.
+- **⚠️ CORRECTIONS carried from the filings check:** the SK Hynix ADR piece has the venue WRONG (Nasdaq
+  "SKHY," not NYSE) and "no conversion mechanism" OVERSTATED (two-way facility exists; only above-deposit
+  creation is restricted — the premium-persistence claim survives partially, on the filed restriction).
+- **AND THE TWIST (Reddit branch, IBM −25%):** memory-price inflation crowding fixed enterprise-IT
+  budgets — **tightness destroying ADJACENT demand while it persists.** The fork's both-can-be-true cell.
+- *(analysis)* **The fast money's re-gross refusal (8/9 MS PB entry — memory ~1/8th restored) now has its
+  argument map: both sides are live, argued independently, with the commercial evidence (5-yr lock-ins,
+  derivatives interest) leaning WALLED while the state-capex wave (Korea $585B) leans GLUT-later.**
+  F3's resolution stays dated to enforcement-vs-letter + lock-in disclosures — now with named artifacts
+  to fetch. 🚩 Micron lock-in terms (tenor, volume, price mechanism) = the single best fetch.
