@@ -1739,6 +1739,11 @@ Source: TikTok claim (`raw/tiktok-claude-corps-claim-2026-08-09.png`) → verifi
   funding 1,000 no-degree-required jobs at $85K in the same tape where full-time employment is down 6 of 7
   months. 1,000 placements against a −23K month is symbolic scale — **the lab is subsidising the
   transition NARRATIVE, which belongs beside [[danger-disclosure-playbook]]'s remedy-monetisation frame.**
-- *(⚠️ for Jake specifically)* Eligibility is open regardless of background, but the program *prioritises
-  early-career*, is full-time in-person for a year, and cohort 1's window is closed. **"In" means watching
-  for the next application window, not applying today.**
+- *(⚠️ for Jake specifically — CORRECTED ~8:30am after reading Anthropic's own FAQ)* My first filing said
+  the program "prioritises early-career." **Wrong: it is a HARD CAP — "under two years of full-time work
+  experience" is an eligibility REQUIREMENT** (anthropic.com/claude-corps/fellow, fetched 8/9), alongside
+  18+, US work authorization, willingness to relocate, and already using AI tools daily. **Cohort 3
+  applications reopen SEPTEMBER 2026 for an August 2027 start — but Jake is ineligible on the experience
+  cap.** The program is an on-ramp for career-starters, not a door for career-switchers. *(The aggregator
+  sites said "minimal work experience welcomed" — the primary source says under two years. N outlets
+  softening one origin's hard clause.)*
