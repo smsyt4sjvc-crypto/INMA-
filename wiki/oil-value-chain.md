@@ -188,3 +188,43 @@ country is the checkable primary — fetch registered).
 2. ⬜ **China vs US split of Venezuelan exports** (Vortexa-class data) — resolves the L1469 collision:
    new production, redirected flows, or stale claim.
 3. ⬜ **Current license structure** — who besides Chevron holds lifting rights, and on what terms.
+
+### Addendum 2026-08-09 ~9:40am PDT — ★★★★ THE FETCHES CLOSE IN AN HOUR — and they carry a fact bigger than the Venezuela story: THE US RAN ~50 DAYS AT ZERO MIDDLE EAST CRUDE IMPORTS
+Source: `raw/venezuela-me-imports-digest-2026-08-09.txt` (digest-style reply against this entry's three
+registered fetches; figures digest-reported as EIA — spot-check open).
+
+### DATA (digest-reported)
+- **Fetch #1 CLOSED — the adverb is sized: Venezuela imports 137K b/d (Dec 2025) → 429K b/d (April 2026)**,
+  ~3x in four months; industry reporting has current liftings at rates "not seen since ~2018." Peak
+  reference confirmed: **~1.4M b/d (1997)** ⇒ current ≈ **30% of the all-time high.**
+- **⭐⭐ THE FACT THE VAULT DID NOT HAVE: US crude imports from the MIDDLE EAST stopped for ~50 DAYS this
+  summer — JULY REPORTEDLY AT ZERO** — on the US-Iran conflict and Hormuz disruption. **Resumed; August
+  arrivals projected >600K b/d.**
+- **Fetch #2 CLOSED — the L1469 collision resolves to (b) REDIRECTED:** Venezuelan barrels moved **away
+  from China, toward the US, Europe and the Caribbean**, while Middle East flows were disrupted. Not new
+  production (primarily); re-routed flows.
+- Fetch #3 (license structure) — ⬜ still open.
+
+### THESIS (interpretation — NOT fact)
+- *(analysis — ⭐ the headline)* **A FULL MONTH AT ZERO MIDDLE EAST CRUDE IMPORTS IS THE ENERGY-INDEPENDENCE
+  CLAIM ACTUALLY TESTED — and it passed on SUPPLY while failing on nothing visible.** The market barely
+  registered it: domestic output + Canada + the Venezuela redirect covered the physical gap. **This is the
+  measured proof of this note's own L14 principle: for the US, Hormuz is a PRICE event, not a SUPPLY event.**
+  Iran cannot physically cut the US off; it can only tax everyone through the Brent-linked price.
+- *(analysis — and the corridor consequence)* **That asymmetry IS Washington's negotiating posture.** The
+  corridor fee taxes ALLIES' barrels (Asia, Europe) — not America's. A US that just ran 50 days at zero
+  Gulf imports can wait out maximalist demands in a way import-dependent Asia cannot — consistent with
+  "Trump surprisingly quiet" (8/9 war-board) while Tehran's list grows. **The corridor lease is leverage
+  against Tokyo, Seoul, Delhi and Brussels far more than against Washington.**
+- *(analysis — the China second-order, from the redirect)* **Chinese teapots LOST a discounted heavy
+  stream.** Venezuela's dark-fleet barrels going west means China's discount diet (Russia / Iran /
+  Venezuela) drops a leg — **raising the marginal value of IRANIAN dark-fleet crude to China precisely
+  while Iran needs the revenue** — a tightening of the Iran-China energy linkage as a by-product of US
+  licensing. → [[compression-thesis]] (two-bloc), [[war/war-board]].
+- *(⚠️ discipline)* July-at-zero is **digest-reported, single-origin**; a 50-day zero is a strong claim
+  wanting one EIA spot-check (weekly imports by origin). Registered. August >600K is a PROJECTION.
+
+### 📌 REGISTERED — updated
+1. ⭐ CLOSED (series sized). 2. ⭐ CLOSED (redirected). 3. ⬜ license structure — open.
+4. ⬜ NEW: **EIA spot-check of the July-zero claim** (weekly US imports from Persian Gulf). Single-origin
+   until checked.
