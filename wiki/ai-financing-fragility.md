@@ -3528,3 +3528,47 @@ analysis. This entry EXTENDS L3281 — nothing there becomes wrong; this adds th
 2. ⬜ **Does the per-name CDS ordering track the NEXT CEPI quarter?** If Q3 moves a name's OCF/C materially
    and its CDS re-ranks the same way, the join graduates from correlation-on-one-print to a working model.
 3. F8 (dealer credit-trading leg, ~8/10) unchanged — a dealer disclosing CDS losses is the flag's resolver.
+
+### Addendum 2026-08-08 ~11:45pm PDT — THE CHART BEHIND THE PASTE: assessor RESOLVED, the numbers DATED 7/28, and the paste was ONE ORIGIN, not a second source
+  ⟲ EXTENDS ai-financing-fragility.md:L3487 (2026-08-09) — chart behind the paste: assessor S&P Global-Markit/LSEG, data as-of 7/28 (11 days stale), one origin not two; two-wave structure + Apple/Intel control group added [old entry stays LIVE]
+Source: `raw/cds-ytd-chart-sp-markit-lseg-2026-07-28.png` — "Credit worries seep into AI stocks,"
+**S&P Global-Markit / LSEG-Reuters (Amanda Cooper), dated JULY 28, 2026.** 10-name panel, **YTD performance
+in bp** (deltas, not levels). Red box on the late-July breakout is the sharer's annotation, origin unknown.
+
+### DATA (observed — chart-read; ⚠️ non-labelled endpoints are eyeballed)
+- **Endpoints match the 11:40pm paste**: ORCL **+70** · AVGO **+48** · META **+39** — exactly the paste's
+  numbers. Others (chart-read): AMZN ~+30 · GOOGL ~+30 · IBM ~+27 · NVDA ~+27-32 · **MSFT ~+18** ·
+  **AAPL ~+9** · **INTC ~+4, and NEGATIVE for most of the year.**
+- **⭐ THE SHAPE, which the paste's YTD framing hides: TWO WAVES.** Oracle spiked to **~+54 in April**,
+  **retraced to ~+10 by early June**, then re-widened to **+70 by late July — the second wave EXCEEDED the
+  first.** And the waves differ in breadth: **April was Oracle nearly ALONE; late July is ORCL + AVGO +
+  META breaking out TOGETHER** (the boxed region).
+- **⭐⭐ RESOLVES registered test #1 (11:40pm entry) — assessor = S&P Global-Markit/LSEG. AND IT RE-DATES THE
+  PASTE: the numbers are as of JULY 28, not August 8.** The paste's "+70 YTD" is this chart's endpoint to
+  the basis point ⇒ **the paste was DERIVED from this chart/article. One origin, not two confirmations** —
+  the 11:40pm entry and this addendum describe a SINGLE source, and the per-name levels (~215/95/82) are
+  best read as ~7/28 levels, **~11 days stale at paste time.**
+
+### THESIS (interpretation — NOT fact)
+- *(analysis — ⭐ the control group makes the AI credit basis VISIBLE)* **The two names with no AI-debt
+  story barely moved — AAPL +9, INTC ~+4 and negative most of the year — while every AI-capex name widened
+  25-70bp.** That is the 8/7 basis finding (25bp vs 6bp historical) drawn as a picture: **the market is
+  pricing an AI-CAPEX factor, not a tech factor.** MSFT at ~+18, the mildest of the capex names, matches
+  its CEPI position (OCF/C 1.34, the clean name). The join holds across all ten, including the controls.
+- *(analysis)* **THE APRIL WAVE MEAN-REVERTED; THE JULY WAVE IS BROADER AND HIGHER.** A first spike that
+  unwound fully and a second that exceeds it with participation is a different object from one scare:
+  the 7/24 entry's "idiosyncratic Oracle widen" (L894) was the FIRST wave's read, and it was right THEN —
+  **the boxed late-July co-movement is the transition from idiosyncratic to broad.** ⚠️ Per WARNING-vs-
+  TRIGGER: breadth of widening is a STATE. The registered systemic line stays where the vault put it
+  (a junk-cut / a dealer loss / a funding break), not at any bp level.
+- *(⚠️ my own 11:40pm entry, refined not retired)* It filed the paste as undated and the levels as
+  "soft until sourced." **Deltas now sourced; the DATING sharpens: everything in it is ~7/28 data.**
+  Eleven days in this tape (Alphabet's $25B priced 8/5-6; the 30Y auction 8/13) is long — **anything
+  citing "current" CDS from these numbers is citing late July.** Fresh-print fetch registered.
+
+### 📌 REGISTERED — updated
+1. **⭐ CLOSED (assessor + date): S&P Global-Markit/LSEG-Reuters, as of 2026-07-28.** Successor item:
+   ⬜ **a POST-8/5 print** (after Alphabet's jumbo priced) — does the late-July breakout extend, hold, or
+   retrace like April's? The two-wave history says retracement is a live outcome, not a tail case.
+2. (unchanged) Does the per-name ordering track the next CEPI quarter?
+3. (unchanged) F8 dealer leg.
