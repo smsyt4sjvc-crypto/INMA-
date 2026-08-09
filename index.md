@@ -13,6 +13,7 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 - [[_origin-assessment]] — the first-message ChatGPT profile of Jake, graded against months of reality
 - [[_assumption-filters]] — pre-flight for any load-bearing thesis (Goodhart/Hanlon/Occam/Chesterton + narrative-tiers)
 - [[data-sourcing-playbook]] — offload heavy fetching, keep the chat lean
+- [[thesis-radar]] — the confirmation loop: isolated ecosystem scouts → filings verification → convergence-only reconciliation. Cycle 1: 2026-08-09.
 
 ## 🧭 The thesis spine (start here)
 1. [[consumption-vs-investment-crux]] — THE top question: did post-COVID borrowing build or drink?

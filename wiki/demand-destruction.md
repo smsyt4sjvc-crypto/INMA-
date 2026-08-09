@@ -3417,3 +3417,18 @@ flat-price softness sit on the Hormuz story; the PHYSICAL balance carries a Kaza
 pricing loudly. Shipowners' pullback (TradeWinds) = the same insurance mechanism as Hormuz — war cover,
 not capacity, is the binding constraint in BOTH theatres. *(Analysis.)* 🚩 F4: August loading program +
 FM status still open.
+
+## 2026-08-09 ~1:45pm PDT — RADAR CYCLE 1 DELIVERS A FILED CRUDE NUMBER: WTI AVERAGED $92.79 IN Q2 — plus SPR exchanges returning at premium and Venezuela ~1.0M b/d
+Source: `raw/thesis-radar-report-1-2026-08-09.md` (the confirmation-loop workflow; [[thesis-radar]]).
+- **⭐ FILINGS-CONFIRMED, found incidentally in Greenfire's Q2 release: "WTI averaged US$92.79/bbl in
+  Q2 2026."** A primary-document average for the war quarter — harder than any chart-read this note holds.
+  *(Context: both crude-long authors' reference decks — PauloMacro's $79-85 WTI, SafetyinNumbers' "$70
+  floor" — sat BELOW the realized filed average.)*
+- **Doomberg (preview-sourced, ⚠️ paywall-truncated):** SPR exchange RETURNS of 35-40M bbl arriving with
+  **up-to-24% premiums** (the SPR-clock thread's next mechanical datapoint — exchanges reversing =
+  government demand ADDING to the tape) · **Venezuela ~1.0M b/d in July, third consecutive month, from
+  ~500K b/d in Dec-25** — doubling in seven months, consistent with and SIZING the 8/9 redirect finding
+  ([[oil-value-chain]]).
+- *(analysis)* The three together tighten one picture: realized Q2 crude ran ~$93 average while the
+  replacement-barrel machinery (Venezuela ramp, SPR returns) built underneath — **the premium was real
+  AND the supply answer is arriving.** Both legs now carry numbers.
