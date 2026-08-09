@@ -3572,3 +3572,22 @@ in bp** (deltas, not levels). Red box on the late-July breakout is the sharer's 
    retrace like April's? The two-wave history says retracement is a live outcome, not a tail case.
 2. (unchanged) Does the per-name ordering track the next CEPI quarter?
 3. (unchanged) F8 dealer leg.
+
+### Addendum 2026-08-09 ~12:35pm PDT — SWEEP #1 ON THE CDS TAPE: the origin is NAMED, the fresh print does NOT exist yet — and the first post-issuance mark on Alphabet's jumbo is WIDER
+Source: `raw/grok-sweep-digest-1-2026-08-09.txt` (Grok/X sweep, item 1).
+- **⭐ THE 8/8 PASTE'S ORIGIN IS NAMED: @KobeissiLetter, Sat 8/8 16:11 GMT** — same numbers to the bp,
+  "widely quoted/reposted... multiple secondary accounts recirculating." **And Grok found NO independent
+  primary CDS screen confirming levels vs 7/28.** ⇒ the ONE-ORIGIN read from the 8/8 addendum is now
+  confirmed by an independent sweep: **everything circulating is still the 7/28 S&P/LSEG data wearing
+  different handles. The post-8/5 print test stays OPEN — the fresh print does not exist in public yet.**
+- **NEW (single-handle, unverified): Alphabet's 30y — spread ~83bp AT ISSUANCE → >100bp now** (June low
+  ~70bp) per @silenceisduck. **First post-issuance secondary mark on the 8/5 jumbo: WIDER within days,
+  despite the $115bn book.** *(Strong demand at pricing + immediate secondary widening = the book was
+  price-sensitive, not price-insensitive — consistent with the AI-basis read, not against it.)*
+- **⚠️ SERIES TENSION, kept visible:** the vault's open fetch has "+155bp TALK" for the long tranche;
+  this claim says ~83bp at issuance. Different tranche, different benchmark, or one figure wrong.
+  ⬜ Register: final pricing by tranche from the prospectus/pricing wire — do NOT merge these numbers.
+### 📌 updated
+- Post-8/5 CDS print: **OPEN** (sweep confirms no public fresh print). Successor: re-sweep midweek.
+- ⬜ NEW: GOOGL jumbo final pricing by tranche vs the 83bp/+155bp tension; day-N secondary from a
+  bond screen, not a repost.

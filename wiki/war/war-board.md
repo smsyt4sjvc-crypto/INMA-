@@ -1713,3 +1713,22 @@ demand list from his own reading — **verified against the PDF's Bloomberg-sour
 - **⬜ NEW: does the "Islamabad Agreement" naming surface in Iranian state media generally** — if the June
   MoU now carries Pakistan's capital in its formal name while Pakistan signs a pact in Mecca with Saudi
   Arabia, the two-theatre linkage (Majlis clause 3) has a new edge. Flag, not claim.
+
+## 📌 LEDGER 2026-08-09 ~12:40pm PDT — SWEEP #1: the MJDA baseline gets its day-2 count, and an EASTERN-PROVINCE anomaly enters unconfirmed
+Source: `raw/grok-sweep-digest-1-2026-08-09.txt` (items 2-4).
+### DATA (as-swept; X claims, handles + stamps in the raw file)
+- **HOUTHI TEMPO COUNT (30-day baseline from 8/7, day ~2):** Jazan = 1 confirmed fire + Houthi claim
+  (ministry cause-silent, per this morning's entry). **NEW: claimed fire at BERRI GAS PLANT (Jubail,
+  Eastern Province) with a thermal anomaly noted — attribution MIXED/UNCONFIRMED.** Mocha port =
+  Yemen-side, not counted against Saudi assets. **No multi-strike cascade visible in the window.**
+- **⚠️ IF Berri is real and hostile, the VECTOR is the story, not the count:** Jubail is the PERSIAN GULF
+  coast — Abqaiq's neighborhood, the trigger-(a) geography — far from Yemen. A Yemen-launched drone
+  reaching Berri is a range statement; anything else is a different actor. **UNCONFIRMED; watch for
+  ministry statement or satellite-fire data. Do not count it in the tempo baseline yet.**
+- **CORRIDOR: no concrete step.** No Majlis vote, no signed text, no Mojtaba approval surfaced. "Final
+  stages" talk against Iran's standing demand list (sole control claimed in one account). Trump
+  wind-down-without-nuclear-deal posture recirculating (already held from the 8/9 ZH PDF). "Islamabad
+  Agreement" naming did NOT surface — flag stays open, weight lowered.
+- **REFUNDING CALENDAR CONFIRMED WITH SIZES: $58bn 3Y Tue 8/11 · $42bn 10Y Wed 8/12 · $25bn 30Y Thu
+  8/13** ($125bn quarterly refunding). The vault's registered 8/13 test now has its two lead-in auctions
+  named — **the 3y and 10y are the rehearsal reads for Thursday's registered thresholds.**
