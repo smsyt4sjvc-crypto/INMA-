@@ -2449,3 +2449,45 @@ least the expectation."*
 - **⇒ The rare configuration needs all three: dovish repricing + labor-insensitive index earnings +
   inflation drivers the Fed cannot reach by watching payrolls. The first two are measured. The third is
   what decides whether this resolves like 2017 or breaks the reaction-function assumption.**
+
+## 2026-08-09 ~11:50am PDT — RE-GROSS vs DE-GROSS IN AI THEMES: the fast money has NOT come back — and the vault's two-cohort divergence gets its second leg
+Source: `raw/ms-pb-regross-vs-degross-ai-themes-2026-08-09.png` — Morgan Stanley PB-class thematic indices
+(MSXX/MSAPJ tickers), Jake paste ~11:45am. Paste's conclusion: *"Not a lot of re-grossing."*
+  ⟲ EXTENDS market-fragility.md:L682 (the June-July de-gross ledger) and L575 (the 7/22 gearing frame).
+
+### DATA (chart-read; magnitudes in % — ⚠️ UNITS: share of PB book gross, presumed, NOT stated on chart)
+| theme | de-gross (late Jun→end Jul) | re-gross (past few days) | ratio back |
+|---|---|---|---|
+| Global Memory (MSXXGMEM) | ~0.33% | ~0.04% | **~1/8** |
+| Semis (MSXXSEM) | ~0.19% | ~0.08% | ~2/5 |
+| Global Networking (MSXXGNET) | ~0.07% | ~0.04% | ~1/2 |
+| JP Semis (MSAPJSEM) | ~0.06% | ~0.03% | ~1/2 |
+| Semi Caps (MSXXSCAP) | ~0.045% | ~0.04% | **~fully back** |
+
+### THESIS (interpretation — NOT fact)
+- *(analysis — the composition is the finding, not the total)* **The re-gross is INVERSELY ordered to the
+  de-gross: the harder a theme was purged, the less has come back.** Memory — the biggest purge — is ~1/8th
+  restored; semi caps, the smallest, are ~fully back. **Fast money returned to the EQUIPMENT layer and is
+  still refusing the MEMORY layer** — precisely where [[memory-regime-question]]'s CXMT fork sits unresolved
+  and where NVDA's Rubin-Ultra HBM trim landed (8/6). The refusal maps to the vault's open uncertainty,
+  name for name.
+- *(⚠️ against the paste's conclusion — the WINDOWS are unequal)* "Not a lot of re-grossing" compares
+  **a few days against six weeks.** A few days mechanically cannot match a six-week purge even at identical
+  daily intensity. The honest statement: **re-grossing is EARLY, not refused** — except in memory, where
+  the ratio is extreme enough to survive the window mismatch.
+- *(analysis — ⭐ the two-cohort divergence now has both legs measured)* **Record retail/fund inflows
+  ($130bn YTD actual, 8/8 entry) INTO the same complex the fast money has not re-entered.** The 7/22 frame
+  said washed-out HF positioning is chase fuel; L682 said HFs purged half the semis overweight; this chart
+  says the chase has NOT happened. ⇒ **the melt-up's marginal buyer is retail + systematic, not hedge
+  funds — and the HF re-gross remains an UNSPENT bid above the market.** Symmetrically: light fast-money
+  positioning DAMPENS the cascade if a trigger fires (less to de-gross). **Both directions load on the
+  gearing, per the standing frame: a STATE, not a timer.**
+- *(⚠️ units discipline)* Magnitudes are small absolute numbers (~0.3% max) because they are theme-slices
+  of total book gross. **Do not quote these as "HFs cut memory 0.33%" without the denominator caveat** —
+  the denominator is the entire PB book, and the chart does not define it.
+
+### 📌 REGISTERED
+1. ⬜ **The same chart in ~2-3 weeks**: does memory's re-gross ratio close toward semis', or does the
+   refusal persist? Persistence = the fast money is expressing the CXMT-glut view in positioning.
+2. Ties: the 30-day OpenRouter re-read (8/8), the post-8/5 CDS print, and L682's sequence — if re-grossing
+   resumes, does it follow the de-gross sequence in reverse (equipment → semis → memory last)?
