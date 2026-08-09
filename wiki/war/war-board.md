@@ -1650,3 +1650,66 @@ WEB for events). **It checks out**, across named outlets with independent origin
    infrastructure. **This is the cleanest near-term test of whether the deterrence floor actually rose.**
 4. **⬜ The paste's "US stockpiles nearly depleted" claim** — unverified here; test against the munitions
    thread rather than carrying it forward.
+
+## 📌 LEDGER 2026-08-09 ~8:00am PDT — ★★★ JAZAN BURNS TWO DAYS AFTER MECCA — MJDA test #3 gets its first datapoint, via the one vector the pact can't easily answer
+Source: `raw/zh-2026-08-09-jazan-fire-houthi-claim-iran-demands.pdf` (+`.txt`), ZH stamp 8/9 7:50 AM; Saudi
+Energy Ministry via Bloomberg; Houthi claim via their military spokesperson on X. Jake also relayed Iran's
+demand list from his own reading — **verified against the PDF's Bloomberg-sourced list below.**
+
+### DATA (observed)
+- **Fire broke out EARLY SUNDAY 8/9 at the 400,000 b/d Jazan refinery; extinguished; no injuries; ministry
+  gave NO cause. Houthis subsequently CLAIMED a drone attack.** ⚠️ Claim ≠ confirmed cause — the ministry
+  statement and the Houthi claim are separate objects. Same morning: Houthis attacked the port of **Mocha**
+  (western Yemen) — explosions, smoke (i24 correspondent).
+- **Jazan context (already in this note, L263-273):** a REFINERY, not an export terminal — the 7/28
+  disambiguation stands. $21B facility, ~44mi from the Yemen border, **exports refined products via the Red
+  Sea WITHOUT transiting Hormuz.** Previously logged SHUT during the tanker campaign (L241).
+- **IRAN'S DEMAND LIST for reopening Hormuz (per US officials via Bloomberg, in the PDF):** compensation
+  for US violations of the **"Islamabad Agreement"** (= the June MoU, now given a formal name — signed in
+  Islamabad; note the Pakistan echo against Mecca 8/7) · **sanctions lifting** · **billions in war
+  damages** · **⭐ US NAVY WARSHIPS BARRED from Hormuz transit** (attributed to IRGC-hardliner influence).
+  *(Jake's paraphrase — withdraw fully / unfreeze assets / pay damages / remove blockade — matches in
+  substance; the Navy-exclusion is the sharpest form of "withdraw.")*
+- **Corridor status:** Iran "very close" to the Oman deal **BUT it would NOT immediately reopen the
+  waterway** · Bessent backs the deal; Trump "surprisingly quiet" · any agreement needs **Mojtaba
+  Khamenei's approval — officials "struggle to reach him"; not seen in public since the war began**; Mehr
+  released OLD footage as new · **Mohsen Rezaee (ex-IRGC) appointed Khamenei's rep on the SNSC** ·
+  hardliners "pushing to keep Iran at war" · Araghchi: direct talks "currently impossible," messages via
+  intermediaries only.
+- **Tape:** Brent closed Friday **$83.55** (bounced off $80). Hormuz crossings **still ultra-low** (Sunday
+  Bloomberg data). *(Clock-derived: crude reopens ~3pm PT today — this news lands BEFORE the first print.)*
+
+### THESIS (interpretation — NOT fact)
+- *(analysis — ⭐ THE MJDA JOIN, and it is test #3's first datapoint)* **Saudi energy infrastructure was
+  hit within ~48 HOURS of the Mecca pact signing — via the PROXY vector.** A Houthi drone is precisely the
+  channel a collective-defence clause struggles to answer: deniable attribution, sub-state actor, and no
+  clean Article-5-style tripwire. **Test #3 asked whether the deterrence floor actually rose. First
+  evidence: NOT against the proxy channel — which is the channel that actually shoots at Saudi Arabia.**
+  ⚠️ One datapoint; the Houthi op-tempo predates the pact (L241), so "would have happened anyway" is live.
+  What would settle it: does Houthi targeting of Saudi assets ACCELERATE, hold, or stop over the 30-day
+  window — now measurable against a dated baseline.
+- *(analysis — ⭐ THE TARGET CHOICE IS COHERENT WITH THE NEGOTIATION)* **Jazan is Hormuz-BYPASS
+  infrastructure** — product exports via the Red Sea, no strait transit. Striking the bypass while Tehran
+  sells a Hormuz corridor is closing the alternatives to the door they're monetising — the same logic as
+  the corridor's fee structure (the vault's 5-7% lease read). **A refinery hit is a PRODUCT/crack-spread
+  story, not a crude-export story** (the 7/28 disambiguation doing its job): the trigger-(a) export bands
+  do NOT apply.
+- *(analysis)* **THE DEMAND LIST IS BUILT TO BE REJECTED — or to be an IRGC opening bid.** Navy-exclusion
+  from an international strait is a term no US administration can sign; war damages + sanctions relief +
+  compensation stack on top. Paired with Rezaee's elevation, the old-footage incident, and an unreachable
+  Supreme Leader, **the visible pattern is hardliner consolidation of the negotiation channel** — the
+  corridor "very close" headline and the demand list point opposite ways, and the demands are the newer
+  signal.
+- *(⚠️ discipline)* Fire cause NOT confirmed as the drone; the Houthi claim is a claim. The vault's
+  standing deny-vs-silence cell applies: **the ministry's no-cause statement is the non-specific-pushback
+  column, not a denial.**
+
+### 📌 REGISTERED — updated
+- **MJDA test #3 → now BASELINED: Houthi strikes on Saudi energy assets, 30 days from 8/7.** Jazan 8/9 =
+  datapoint one. Accelerating tempo = deterrence floor refuted on the proxy channel; cessation = evidence
+  the pact (or the corridor diplomacy) binds.
+- **⬜ NEW: does Jazan's fire produce a PRODUCT-export disruption** (Red Sea refined flows, crack spreads)
+  — or was the facility already effectively offline (L241)? Damage assessment unread.
+- **⬜ NEW: does the "Islamabad Agreement" naming surface in Iranian state media generally** — if the June
+  MoU now carries Pakistan's capital in its formal name while Pakistan signs a pact in Mecca with Saudi
+  Arabia, the two-theatre linkage (Majlis clause 3) has a new edge. Flag, not claim.
