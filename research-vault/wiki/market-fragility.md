@@ -2370,3 +2370,37 @@ Source: **BofA Global Investment Strategy / EPFR, "Chart 10: Inflows to tech fun
 3. **⬜ Do flows persist through the next drawdown?** That is the only test that separates "structural
    reallocation into tech" from "momentum chasing." **Flows that survive a −10% tape are a different object
    from flows that caused it.**
+
+## 2026-08-08 ~11:50pm PDT — JAKE'S QUESTION: "how common is −30K jobs and an S&P ATH the same week?" — TWICE IN THE MODERN RECORD, and both precedents had an out this case lacks
+*(Premise note: July payrolls printed **−23K** (his 30K rounds the wire); the vault logged the record-high
+tape 8/5-6 via the short-covering wire (Nasdaq highs named explicitly; S&P at/near record per Jake's tape).)*
+
+### DATA (historical base rate — from release history, week-level alignment stated with confidence)
+- Since 1990: ~60 negative monthly payroll prints in ~440 releases, **clustered almost entirely in
+  1990-91 / 2001-03 / 2008-10 / 2020** — regimes with the S&P 20-50% below its high.
+- **Clean joint occurrences (negative print + S&P record close same week): TWO.**
+  1. **2017-10-06** — Sep payrolls **−33K** (Harvey/Irma; first negative in 7 yrs); **S&P record close the
+     same day.** Print later **revised UP to positive.**
+  2. **2021-01-08** — Dec payrolls **−140K** (COVID winter wave); **S&P record close the same day** on
+     stimulus expectations; $1.9T arrived within weeks.
+  *(Possible third: spring 1995, weak initial print inside that year's ATH streak — week-level alignment
+  NOT confirmed; not counted.)*
+- **⇒ ~2 in ~35 years ≈ 3% of negative prints ≈ 0.5% of months. Structurally rare, not incidentally rare:
+  negative prints and ATH regimes are anti-correlated by construction.**
+
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **THE JOINT EVENT REQUIRES THE MARKET TO TREAT THE LABOR PRINT AS FALSE OR AS FRIENDLY.
+  Both precedents were BOTH:** demonstrably transitory distortions (hurricane / virus wave) AND policy
+  support in hand or unneeded. **Both resolved with the print as the anomaly, not the market.**
+- *(analysis — the distinguishing feature, from this vault's own entries)* **The current print is neither.**
+  3-mo average +20K, full-time down 6 of 7 months, household survey narrowing the legs (8/7 entries);
+  the distortion defence (World Cup/education) survived only partially. And the Fed is PAUSING, not easing
+  — 47% hike odds fading is relief, not 2021 stimulus. **⇒ the ATH is resting on the third mechanism:
+  the index is no longer long the domestic labor market.** The week's own measurements say the same —
+  earnings beat carried partly by unrealized marks ([[cepi]]), record tech inflows ([[market-fragility]]
+  8/8), $200B AI issuance ([[ai-financing-fragility]]). **Jake's question is the one-line form of
+  [[detachment-bid]]: the S&P and the payroll survey are measuring different economies.**
+- *(⚠️ discipline)* **A 2-precedent base is an anecdote base** — n=2 supports "rare," it does not support
+  any outcome distribution. And per WARNING-vs-TRIGGER this divergence is a **STATE**: 2017's resolved
+  bullishly. Falsifiers already registered elsewhere: **August payroll** (a second consecutive negative
+  kills the distortion story), **8/13 30Y auction**, **post-8/5 CDS print**.
