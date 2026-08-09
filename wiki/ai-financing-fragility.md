@@ -3483,3 +3483,48 @@ and checkable-shaped; **"20x" is a round desk approximation.** Unverified here. 
 
 **Links:** [[ai-capex-cycle]] · [[cepi]] · [[market-fragility]] (F8) · [[precedent-bid]] ·
 [[new-economy-regime]] · [[portfolio-state]]
+
+### 2026-08-08 ~11:40pm PDT — ★★★ THE CDS TAPE GOES PER-NAME — and the ordering matches the CEPI decomposition, not a uniform sector shift
+  ⟲ EXTENDS ai-financing-fragility.md:L3281 (2026-08-09) — per-name CDS levels+deltas land; 8/6 record-wides entry stays live, this adds the name-level layer [old entry stays LIVE]
+Source: `raw/big-tech-cds-per-name-paste-2026-08-08.txt` (unattributed paste; ⚠️ **no CDS assessor named** —
+levels are soft until sourced). First inbound through the new librarian gate; it surfaced the 7/24 Oracle
+record (~203bp), the 8/6 record-wides entry (L3281), the 8/7 basis entry (L3428), and the L3456 ⛔ before
+analysis. This entry EXTENDS L3281 — nothing there becomes wrong; this adds the per-name layer.
+
+### DATA (as-pasted; 5-year CDS, YTD 2026)
+| name | Δ YTD | level | note in paste |
+|---|---|---|---|
+| ORCL | **+70bp** | **~215bp, record** | largest increase in Big Tech |
+| AVGO | +48bp | n/s | |
+| META | +39bp | **95bp** | **highest since trading BEGAN Oct 2025** |
+| NVDA | +32bp | **~82bp** | **highest since trading BEGAN Nov 2025** |
+| AMZN | +30bp | n/s | |
+| GOOGL | +29bp | n/s | |
+- **Big Tech bond issuance ~$200B YTD ≈ 2x the FULL-YEAR 2025 total** (as pasted).
+- Coherence check vs vault: Oracle record ~203bp on 7/24 (L894) → ~215 here. Consistent, extends the record.
+
+### THESIS (interpretation — NOT fact)
+- *(analysis — ⭐ the join)* **THE CREDIT MARKET IS PRICING THE SAME PER-NAME DECOMPOSITION THE CEPI TRACKER
+  MEASURED, not "Big Tech" as one object.** Widest/most-widened where self-funding stress is worst — **ORCL**
+  (OCF/C 0.38-0.81 fiscal, FY FCF −$23.7B, C/R ~1.0x). Next **META** (+39bp), the name with the largest capex
+  step-up (+58.5% QoQ on flat OCF). Least-widened: **AMZN/GOOGL** (+30/+29), the two biggest balance sheets —
+  *despite* being the two CQ-negative names, i.e. **credit is pricing CASH-VS-CAPEX, not earnings quality.**
+  The 8/7 diffusion finding (the crossing is name-by-name) now shows up in traded credit. → [[cepi]].
+- *(analysis)* **THE INSTRUMENT'S OWN BIRTHDATE IS A DATUM: META CDS only began trading OCT 2025, NVDA NOV
+  2025.** Single-name protection did not exist on these names until the debt stack got big enough to need
+  hedging. **The market built the hedge when the financing regime turned** — the L3300 category shift
+  (private-vehicle → public-market dependence) with a date stamp on it.
+- *(⚠️ the standing correction, carried at these levels too)* **Per L3428/L3456: part of this widening is
+  PROXY-HEDGING demand for an unhedgeable complex, not default probability** — the only liquid hedge on the
+  AI debt stack is these six tickers' CDS. **A level bid up by hedgers is a price of PROTECTION DEMAND;
+  do not read 215bp as a clean solvency print, and do not convert any of this into loss estimates.**
+- *(⚠️ the editorial line, stripped)* *"Credit markets are becoming increasingly worried"* is the paste's
+  voice. The measured content is: levels, deltas, issuance. **$200B ≈ 2x full-year 2025 is the other side of
+  the identity the vault already measured — OCF/C 0.999 in Q2 means the marginal capex dollar comes from a
+  bond desk, and here is the bond desk.** Same fact, funding side.
+
+### 📌 REGISTERED
+1. ⬜ **Assessor + as-of date for these levels** (Bloomberg/ICE/Markit). Levels soft until sourced.
+2. ⬜ **Does the per-name CDS ordering track the NEXT CEPI quarter?** If Q3 moves a name's OCF/C materially
+   and its CDS re-ranks the same way, the join graduates from correlation-on-one-print to a working model.
+3. F8 (dealer credit-trading leg, ~8/10) unchanged — a dealer disclosing CDS losses is the flag's resolver.
