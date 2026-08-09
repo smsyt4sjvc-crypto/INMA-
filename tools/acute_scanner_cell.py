@@ -169,176 +169,164 @@ def front_end_block():
 # ---------------------------------------------------------------- KEYWORDS
 # ~45 terms, thread-tagged. \b-anchored so short acronyms don't false-match
 # (SPR must not hit "spread", CDS must not hit "CDSL", etc).
+# ═══════════════ THREAD MAP BEGIN — single source of truth ═══════════════
+# The router EXECS this block as real Python (sentinel-delimited), so comments and
+# apostrophes are safe — the 8/8 regex-parser bug class is structurally dead.
+# DESIGN (rebuilt 2026-08-08 after FIVE gaps in one day, #13-#17):
+#   Every thread carries THREE vocabulary layers, because each missed for a different reason:
+#   1. CONCEPTS  — what the thread is about        (the original map had only these)
+#   2. ENTITIES  — proper nouns: tickers, companies, people, places, models, agencies
+#                  (gaps #13/#14/#15/#16: materials, robotics policy, model names, alliances)
+#   3. MEASURES  — the data vocabulary that REPORTS on the thread: series names, assessors,
+#                  ratio/flow words (gap #17: flows/positioning; gap #12: earnings quality)
+#   Layers are merged per-list (the matcher is flat); the discipline is in AUTHORING:
+#   when adding a thread, fill all three layers or say why one is empty.
+#   Duplicates ACROSS threads are fine — a hit can legitimately tag two threads.
+#   Gap history stays here as comments; it is the map's calibration record.
 THREADS = {
- 'MEMORY':    ['dram','hbm','nand','cxmt','micron','hynix','sandisk','memory price','memory chip',
-               'chip shortage'],
- 'SEMIS':     ['wafer','foundr','lithograph','advanced packaging','chip capex'],
- # gap #11 (2026-08-05): the vault's own 4-star filer had no NAME keyword — "SpaceX next
- # tranche eligible shares release" returned NO MATCH, reachable only via generic capex words.
- # gap #12 (2026-08-08): the EARNINGS-QUALITY vocabulary. A paste naming Alphabet's $98bn
- # unrealized equity gain and Amazon's $53bn Anthropic gain returned NO MATCH while cepi.md
- # held the CQ screen that had flagged BOTH names off the cash flow statements the day before.
- # ⚠️ KEEP COMMENTS OUT OF THE LIST LITERAL. The router parses keywords with a single-quote
- # regex, so an apostrophe inside an in-list comment ("vault's") breaks quote pairing and the
- # real keywords after it parse as bare commas. That is how gap #12 silently failed once.
- # gap #13 (2026-08-08): the RARE-EARTH / MAGNET / HUMANOID vocabulary had NO thread at all.
- # A ZeroHedge piece on the humanoid hardware stack was ingested and a DUPLICATE note opened,
- # listing as unknown two facts buildout-bottleneck-map.md had held since 8/4 (the Bernstein
- # note; magnet intensity 3.5-4.0 kg NdFeB/humanoid). The magnet thread was reachable only
- # through POWER/SEMIS, which route elsewhere. This is the thread that failure needed.
- 'MATERIALS': ['rare earth','rare-earth','magnet','ndfeb','neodymium','dysprosium','terbium',
-               'praseodymium','humanoid','actuator','reducer','harmonic drive','nabtesco',
-               'mp materials','lynas','vulcan elements','reelement','niron','critical mineral',
-               'permanent magnet','robotics','physical ai','motion control','tuopu','sanhua',
-               'inovance',
-               'unitree','agibot','ubtech','figure ai','optimus','quadruped','robot dog',
-               'fcc','import ban','import control','entity list','section 232','embodied'],
+ # ── MEMORY ──
+ 'MEMORY':    ['dram','hbm','nand','memory price','memory chip','chip shortage',
+               'cxmt','micron','hynix','sk hynix','samsung','sandisk','sndk','kioxia',
+               'western digital','wdc',
+               'contract price','spot price','bit growth','wafer input'],
+ # ── SEMIS ──
+ 'SEMIS':     ['wafer','foundr','lithograph','advanced packaging','chip capex',
+               'tsmc','asml','nvidia','nvda','amd','broadcom','avgo','intel','qualcomm',
+               'rubin','blackwell','h100','h200','gb200','cowos'],
+ # gap #13 (2026-08-08): rare-earth/magnet/humanoid had NO thread; duplicate note filed.
+ # gap #14 (2026-08-08): robotics POLICY vocabulary (fcc, import ban, producer names).
+ 'MATERIALS': ['rare earth','rare-earth','magnet','ndfeb','ndpr','neodymium','dysprosium',
+               'terbium','praseodymium','critical mineral','permanent magnet','mgoe',
+               'humanoid','actuator','reducer','robotics','physical ai','motion control',
+               'robot dog','quadruped','embodied',
+               'harmonic drive','nabtesco','mp materials','lynas','vulcan elements',
+               'reelement','niron','tuopu','sanhua','inovance','unitree','agibot','ubtech',
+               'figure ai','optimus','noveon','vacuumschmelze','energy fuels','ucore',
+               'arafura','niocorp','serra verde','torngat','pensana','traxys','nidec',
+               'solvay','shanghai metals','smm',
+               'fcc','import ban','import control','entity list','section 232',
+               'price floor','offtake','fob china','book-to-bill','order intake'],
+ # gap #11 (8/5): filer names. gap #12 (8/8): earnings-quality measures.
  'CAPEX':     ['capex','capital expenditure','data center','data centre','hyperscaler',
-               'off-balance','uncommenced','not commenced','depreciation',
-               'spacex','spcx','starlink',
+               'off-balance','uncommenced','not commenced','depreciation','useful life',
+               'useful-life','finance lease','self-funding',
+               'spacex','spcx','starlink','microsoft','msft','alphabet','googl','google',
+               'amazon','amzn','meta','oracle','orcl','openai','anthropic','stargate','xai',
                'unrealized','unrealised','mark-to-market','marked up','equity investment',
                'equity securities','earnings quality','net margin','earnings beat',
-               'operating cash flow','free cash flow','net income','self-funding',
-               'finance lease','useful life','useful-life'],
- # GAP #11 (2026-08-05): "SpaceX next tranche eligible shares release" returned NO MATCH while
- # the vault held a ★★★★ SpaceX mega-entry — reachable only through generic capex words. Company
- # names of vault-tracked filers + supply-mechanics terms (lockup/tender/unlock) had no keywords.
+               'operating cash flow','free cash flow','net income'],
  'FINANCING': ['credit default','cds','private credit','bdc','spv','neocloud','coreweave',
-               'nebius','free cash flow','bond sale','off balance sheet',
-               'lockup','lock-up','tender offer','share unlock','secondary sale','follow-on'],
+               'nebius','bond sale','off balance sheet','vendor financing',
+               'lockup','lock-up','tender offer','share unlock','secondary sale','follow-on',
+               'blue owl','apollo','blackstone','ares','oaktree','diameter','valor','obdc',
+               'ig spread','high yield','spread widen','non-accrual','downgrade','issuance'],
  'POWER':     ['pjm','curtail','grid emergency','turbine','interconnection','smr',
                'behind-the-meter','ofgem','grid access','connection queue','commitment fee',
-               'grid operator','transmission'],
+               'grid operator','transmission','substation','ratepayer','moratorium',
+               'nuclear','reactor','criticality','part 57','nrc',
+               'avista','spokane','oklo','westinghouse','vistra','constellation','nextera',
+               'ge vernova','ercot','caiso','datacenter power','megawatt','gigawatt'],
  'WAR/OIL':   ['hormuz','qeshm','tanker','houthi','irgc','abqaiq','jazan','transit fee',
-               'war risk','crack spread','refiner','lng'],
- # BLACK SEA — added 7/30 after the vault missed an ELEVEN-DAY, ~2%-of-global-supply outage
- # (CPC/Novorossiysk under drone attack from 7/19; Kazakh output more than halved by 7/26).
- # The gate was not the failure — 'tanker' would have tagged it WAR/OIL. The FEED was: every
- # oil query was scoped to Hormuz, so a second theatre could not surface. Named as its own
- # thread so a Black Sea hit can never again be read as a Hormuz hit.
+               'war risk','crack spread','refiner','lng',
+               'iran','oman','majlis','fars','aramco','opec','brent','wti','kharg',
+               'corridor','flag state','insurance premium'],
  'BLACK SEA': ['cpc','caspian pipeline','novorossiysk','tengiz','kashagan','karachaganak',
                'kazakh','kazakhstan','black sea','primorsk','ust-luga','druzhba','ceyhan'],
- 'INVENTORY': ['spr','cushing','strategic petroleum','crude draw','crude build','tank bottoms'],
- # GAP #10 (2026-08-05): "market no longer expects September hike, 47% from 70%" returned NO
- # MATCH. The FED keywords covered the COMMENTARY layer (warsh, term premium, dissent) and had
- # NOTHING for the CALL's own subject — the vault's primary registered prediction (hike before
- # December) was unreachable by the words that describe it.
- # gap #17 (2026-08-08): FLOWS/POSITIONING vocabulary was absent. A BofA/EPFR record-tech-inflows
- # chart returned PORTFOLIO(1)* while market-fragility held the 7/22 positioning-extremes entry that
- # governs exactly this class. Note this gap is NOT the proper-noun defect of #13-#16 — these are
- # ordinary concept words the map simply never had. The map covers the vault's THESES but not its
- # MEASUREMENT vocabulary.
+ 'INVENTORY': ['spr','cushing','strategic petroleum','crude draw','crude build','tank bottoms',
+               'eia','api inventory','days of supply'],
+ # GAP #10 (8/5): the call's own subject. Entities + auction/liquidity measures added 8/8.
+ 'FED':       ['warsh','term premium','forward guidance','steepen','core cpi','supply shock',
+               'dissent','rate hike','rate cut','rate pause','rate decision','fomc','fed funds','raise rate','cut rate','the fed',
+               'fedwatch','hike odds','basis point','powell','hawkish','dovish','fed meeting',
+               'rate expectations',
+               'hammack','kashkari','waller','bostic','goolsbee','jefferson','bowman','daly',
+               'treasury auction','30y auction','auction tail','bid-to-cover','indirect',
+               'reserve balances','reverse repo','rrp','qt','tic data','dot plot','sep'],
+ # gap #17 (8/8): measurement vocabulary — flows/positioning. NOT the proper-noun defect.
  'FLOWS':     ['fund flow','inflow','outflow','epfr','allocation','net buying','net selling',
-               'retail flow','institutional flow','positioning','percentile','exposure','de-gross',
-               'cta','systematic','risk parity','buyback','short interest','put/call','skew',
-               'sentiment','aaii','bull-bear','cash levels','fund manager survey'],
- 'FED':       ['warsh','term premium','forward guidance','steepen','core cpi','supply shock','dissent',
-               'rate hike','rate cut','rate pause','rate decision','fomc','fed funds','fedwatch',
-               'hike odds','basis point','powell','hawkish','dovish','fed meeting','rate expectations'],
- # gap #15 (2026-08-08): MODEL NAMES and USAGE-SHARE vocabulary were absent from BOTH model threads.
- # An OpenRouter leaderboard screenshot — the exact artifact answering the fetch registered in
- # buildout-bottleneck-map on 8/4 ("China LLMs Now Dominate Western Models Token Usage") — returned
- # NO MATCH. The threads could be reached by PRICE words but never by WHO or by HOW MUCH.
+               'retail flow','institutional flow','positioning','percentile','exposure',
+               'de-gross','cta','systematic','risk parity','buyback','short interest',
+               'put/call','skew','sentiment','aaii','bull-bear','cash levels',
+               'fund manager survey','bofa','hartnett','record inflow','annualized'],
+ # gap #15 (8/8): model NAMES + usage-share measures.
  'MODEL-ECON':['open-weight','open weight','routing layer','per-token','inference cost','agentic',
                'deepseek','qwen','kimi','glm','minimax','tencent','hunyuan','xiaomi','mimo',
                'llama','mistral','nemotron','gpt-5','gpt5','gemini','claude','grok',
                'openrouter','leaderboard','token usage','token share','token volume',
                'market share','usage share','model ranking','trillion tokens'],
- # AI-POLICY — added 7/31 after the router returned NO THREAD MATCHED on a Trump/Huang
- # clip about export controls and beating China. The vault had FOUR live threads on this
- # (the Feb-Jul Anthropic blacklist timeline, the Jul-1 export-control LIFT, the Jul-24
- # NVDA open-weights letter, the China-retaliates entry) and NOT ONE keyword reached them.
- # The gap was structural: policy was only ever tagged through its SECOND-order effects
- # (capex, model economics), never as its own thread.
- # FX/CARRY — added 8/1 after the router returned KOREA(1)* on a yen-intervention paste while
- # the vault held Jake's 7/19 "yen carry CORNERS the Fed" entry with a REGISTERED TELL (¥162) and
- # a REGISTERED TRIGGER ("BOJ surprise"). Third router gap in two days, same shape every time:
- # a live thread with no keywords of its own because it was only ever tagged through its effects.
  'FX/CARRY':  ['yen','jpy','usd/jpy','usdjpy','boj','bank of japan','carry trade','repatriation',
                'currency intervention','fx intervention','fx reserves','ministry of finance',
-               'dxy','dollar index','ueda'],
+               'dxy','dollar index','ueda','mof','kanda','jgb','japan sold','tic shows'],
  'AI-POLICY': ['export control','entity list','blacklist','huawei','huang','jensen',
                'chip ban','chip export','tech transfer','sovereign ai','ai regulation',
                'ai policy','diffusion rule','deregulat','preempt','smic','state ai law',
-               # ROUTER GAP #4 (2026-08-03) — the Axios "White House finalizes AI framework"
-               # story returned NO THREAD MATCH on all 17 keywords above. The map covered the
-               # CHIP-EXPORT half of AI policy and had NOTHING for the MODEL-GOVERNANCE half:
-               # executive orders, evaluation frameworks, pre-release access, safety testing.
                'executive order','white house','ai framework','voluntary framework',
                'model evaluation','capabilities testing','pre-release','frontier model',
                'ai safety','ai executive','classified threshold','trusted partner',
                'ai act','model access','safety institute','nist ai','red team'],
  'KOREA':     ['kospi','kosdaq','circuit breaker','de-gross','degross','leveraged etf',
-               'margin call','south korea','limit up','limit-up','daily limit','krx'],
- # LABOR — gap #5 (2026-08-04): JOLTS returned NO MATCH while Friday payrolls is the Fed
- # call's PRIMARY registered trigger. The map had no labor thread at all.
+               'margin call','south korea','limit up','limit-up','daily limit','krx','korea'],
  'LABOR':     ['payroll','jolts','job openings','unemployment','jobless','nonfarm',
                'hires','quits rate','layoffs','labor market','labour market','wage growth',
-               'initial claims','continuing claims','adp employment'],
- # MUNITIONS — gap #6 (2026-08-04): the Erin Banco stockpile leak returned NO MATCH.
- # WAR/OIL covered tankers and Hormuz, nothing for the ordnance side of the same war.
- # gap #16 (2026-08-08): a VERIFIED trilateral defence pact (Saudi/Turkey/Pakistan, Mecca 8/7)
- # returned MUNITIONS(1)* + LEVANT(1)* — two weak single-keyword hits — because the map had no
- # vocabulary for ALLIANCES at all. War was reachable through weapons, oil and theatres, never
- # through treaties or the states signing them. Kept separate from MUNITIONS: a pact is not ordnance.
+               'initial claims','continuing claims','adp employment',
+               'bls','household survey','participation rate','multiple jobholders',
+               'full-time','part-time','productivity','unit labor cost'],
+ 'MUNITIONS': ['atacms','tomahawk','munition','stockpile','prsm','precision strike',
+               'defense production act','missile inventory','replenish','ordnance',
+               'supplemental appropriation','arms sale','patriot','interceptor','thaad'],
+ # gap #16 (8/8): alliances had no vocabulary — war was reachable only via weapons/oil/theatres.
  'ALLIANCE':  ['defense pact','defence pact','mutual defense','mutual defence','collective defense',
                'collective defence','article 5','joint defence','joint defense','security guarantee',
                'saudi','pakistan','turkey','turkiye','erdogan','bin salman','sharif','mecca',
-               'riyadh','islamabad','ankara','nato','treaty','accession'],
- 'MUNITIONS': ['atacms','tomahawk','munition','stockpile','prsm','precision strike',
-               'defense production act','missile inventory','replenish','ordnance',
-               'supplemental appropriation','arms sale'],
- # LEVANT — gap #9 (8/5): the Ravid Israel-Lebanon Rome item returned NO MATCH.
+               'riyadh','islamabad','ankara','nato','treaty','accession','mjda'],
  'LEVANT':    ['lebanon','hezbollah','israel','litani','leviathan','karish','rome talks',
                'framework agreement','ceasefire','idf','beirut','northern front'],
- # TOKEN-ECON — gap #7 (2026-08-04): the Silicon Data token-index chart routed to OPTIONS
- # via a homonym. The metered-compute thread had NO keywords of its own.
  'TOKEN-ECON':['token cost','token price','per token','tokens per','inference cost',
                'api pricing','price per million','intelligence per watt','tokens per watt',
                'token expenditure','compute cost','gpu rental','jevons','price war',
                'inference revenue','cost per task',
-               # gap #8 (8/5): the Anthropic in-house-chip item returned NO MATCH
                'custom chip','in-house chip','custom silicon','asic','tpu','trainium',
-               'co-design','custom accelerator'],
+               'co-design','custom accelerator',
+               'silicon data','sdllmtk','cheaperinference'],
 }
-# TWO KEYWORD CLASSES — this distinction is the whole gate and it was WRONG on first build.
-# STRICT: short acronyms where a suffix creates a false positive. \bKWs?\b only.
-#   spr must NOT match "spread"; cds must NOT match "CDSL"; dram must NOT match "drama".
-# STEM: everything else gets up to 3 trailing chars, because headlines use plurals and
-#   verb forms far more than base forms — "data centerS", "steepenS", "tankerS", "refinerIES".
-#   Anchoring those with a hard \b silently drops most real hits. (Caught by the offline
-#   unit test below; 3 of 14 cases failed before this fix.)
-STRICT = {'spr','cds','bdc','spv','hbm','pjm','smr','irgc','dram','nand','lng','cpc','smic','yen','jpy','boj','dxy','ueda'}
-def _pat(k):
-    return re.compile(r'\b'+re.escape(k)+(r's?\b' if k in STRICT else r'\w{0,3}\b'), re.I)
-PATS = {th: [_pat(k) for k in ks] for th, ks in THREADS.items()}
-NKEY = sum(len(v) for v in THREADS.values())
 
-# THREAD -> ORIGINATING VAULT NOTE. Every keyword in this scanner came OUT of a vault note,
-# so every hit must be routed BACK to the note it came from. Printing the destination stops
-# relevance being skipped: a hit is not "news", it is evidence for or against a named thesis.
+# THREAD -> ORIGINATING VAULT NOTE. Every hit routes BACK to the note it came from.
 ROUTE = {
  'MEMORY':    'memory-regime-question / compression-thesis',
  'SEMIS':     'ai-infra-allocation-map / buildout-bottleneck-map',
+ 'MATERIALS': 'buildout-bottleneck-map (the magnet chokepoint, 8/4 + 8/8) / physical-ai-hardware-stack (actuators/reducers) / war-board',
  'CAPEX':     'ai-capex-cycle / cepi',
  'FINANCING': 'ai-financing-fragility',
- 'POWER':     'buildout-bottleneck-map / power-not-petroleum',
- 'MATERIALS': 'buildout-bottleneck-map (⭐ the magnet chokepoint, 8/4 + 8/8 policy) / physical-ai-hardware-stack (actuators/reducers) / war-board',
+ 'POWER':     'buildout-bottleneck-map / power-not-petroleum / nuclear',
  'WAR/OIL':   'demand-destruction / war-board / oil-value-chain',
  'BLACK SEA': 'demand-destruction (CPC/Kazakh outage) / oil-value-chain',
  'INVENTORY': 'demand-destruction (SPR clock)',
- 'FED':       'new-economy-regime / market-fragility',
- 'FLOWS':     'market-fragility (⭐ the 7/22 gearing frame + 8/8 record tech inflows) / detachment-bid / portfolio-state',
+ 'FED':       'new-economy-regime / market-fragility / predictions (the registered hike call)',
+ 'FLOWS':     'market-fragility (the 7/22 gearing frame + 8/8 record tech inflows) / detachment-bid / portfolio-state',
  'MODEL-ECON':'metered-compute / compression-thesis',
  'FX/CARRY':  'ai-financing-fragility (yen-carry corners the Fed, L491) / market-fragility / new-economy-regime',
  'AI-POLICY': 'ai-financing-fragility (blacklist timeline, F17 risk stack) / metered-compute (the NVDA letter, the council) / ai-capex-cycle (advisory council) / compression-thesis (two-bloc)',
  'KOREA':     'market-fragility (leverage cascade)',
  'LABOR':     'predictions/2026-07-30-fed-hike (the registered Friday trigger) / new-economy-regime',
  'MUNITIONS': 'war/war-board (escalation ceiling, the A-vs-C fork) / ai-capex-cycle (defense-AI crowding)',
- 'ALLIANCE':  'war/war-board (⭐ MJDA 8/8 — verified; Article 5 language vs Article 5 capability) / demand-destruction / oil-value-chain',
+ 'ALLIANCE':  'war/war-board (MJDA 8/8 — verified; Article 5 language vs Article 5 capability) / demand-destruction / oil-value-chain',
  'LEVANT':    'war/war-board (talks-while-shooting; MoU Article 1 broke via Lebanon -- portfolio-state L143)',
- 'TOKEN-ECON': 'metered-compute (the Jevons/elasticity-1 test) / compression-thesis / cepi',
+ 'TOKEN-ECON':'metered-compute (the Jevons/elasticity-1 test) / compression-thesis / cepi',
 }
+# ═══════════════ THREAD MAP END ═══════════════
+
+# TWO KEYWORD CLASSES — this distinction is the whole gate and it was WRONG on first build.
+# STRICT: short acronyms where a suffix creates a false positive. \bKWs?\b only.
+#   spr must NOT match "spread"; cds must NOT match "CDSL"; dram must NOT match "drama".
+# STEM: everything else gets up to 3 trailing chars, because headlines use plurals and
+#   verb forms far more than base forms. (3 of 14 offline unit-test cases failed before this fix.)
+STRICT = {'spr','cds','bdc','spv','hbm','pjm','smr','irgc','dram','nand','lng','cpc','smic',
+          'yen','jpy','boj','dxy','ueda','mof','qt','sep','bls','nrc','smm','eia','rrp','mjda',
+          'wti','glm','tpu','fcc','krx','idf'}
+def _pat(k):
+    return re.compile(r'\b'+re.escape(k)+(r's?\b' if k in STRICT else r'\w{0,3}\b'), re.I)
+PATS = {th: [_pat(k) for k in ks] for th, ks in THREADS.items()}
+NKEY = sum(len(v) for v in THREADS.values())
 
 def tags(text):
     return [th for th, ps in PATS.items() if any(p.search(text) for p in ps)]

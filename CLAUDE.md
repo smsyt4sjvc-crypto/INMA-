@@ -14,14 +14,68 @@ survives in git (the repo is the persistence layer — the container is ephemera
 - `trading-system/` — the SEPARATE Alpaca-Claude project (its own `CLAUDE.md`/laws), staged here to transplant.
 - `CLAUDE.md` — this file. How the vault runs.
 
+## §0 — THE RULEBOOK (restated 2026-08-08, Jake's spec: "reorganize the vault… restate rules")
+**Every standing rule, one place, one line each. Details and origin stories live in the sections below —
+this block is the checklist. When a rule here conflicts with memory, THIS text wins.**
+
+### THE INGEST PROTOCOL — every upload, every paste, no exceptions
+```
+python3 tools/librarian.py <<'EOF'
+<the pasted text, or the EXTRACTED TEXT of the upload>
+EOF
+```
+**ONE command replaces the old multi-step STEP ZERO.** It prints, in order: the **verified clock** ·
+the **router brief** (⟲ trail → ⛔ corrections → ★★★ standing → 🚩 flags) · the **map-independent
+full-text sweep** (catches vocabulary the map missed — flags "MAP COULD NOT REACH THIS" only when the
+router failed) · the **artifact dupe check** against raw/ + handoffs/ (would have caught the 8/8
+duplicate note) · the **🔴 open items** the inbound might close.
+1. **Run it BEFORE analysis. On documents, run it on the EXTRACTED TEXT, not just the filename** —
+   the 8/8 duplicate happened because a PDF was ingested without the gate.
+2. **The brief is an INDEX, not a substitute: if a line touches the inbound, OPEN THE ENTRY.**
+3. **Upload or multi-thread dump → spawn the LIBRARIAN SUBAGENT**: it reads every surfaced entry in
+   full and reports prior state + corrections + flags the inbound might close, then the main session
+   analyses. Spawned per-inbound INSIDE the session — **no standing daemon, no cron** (spending rule;
+   and the container is ephemeral, so an "idle" agent cannot survive between sessions anyway).
+4. **A NO MATCH from the router with sweep hits = a MAP GAP. Fix the map in the same turn** (three
+   layers: concepts / entities / measures — see the THREAD MAP block in `tools/acute_scanner_cell.py`).
+
+### WRITING RULES
+5. **Firewall**: DATA (observed, sourced) and THESIS (interpretation, attributed) never blend. When in
+   doubt, it is thesis. Wrong calls stay VISIBLE (strike/falsify, never delete).
+6. **Amend vs extend — THE TEST: does the old line become WRONG?** Wrong → `vault_amend.py --supersede`.
+   Merely less complete → `--extends` (old stays live). Set 8/8 after a live entry was falsely retired.
+7. **One idea per file · claims not prose · every note links · every DATA line dated + sourced.**
+8. **ARTIFACT TEST**: before interpreting any reported document, name the artifact actually read. A
+   report ABOUT a thing → DATED LEDGER with a ⬜ NOT-KNOWN list, NO thesis.
+9. **Evidence ladder**: LETTER vs BILL · ANNOUNCED vs FID · REPORTED vs MEASURED · target vs contracted ·
+   numbers vs adverbs · "N outlets, one origin." A capacity TARGET is never contracted supply (8/8).
+10. **WARNING vs TRIGGER**: states shade odds and time NOTHING; timing claims come only from dated,
+    falsifiable events. "Late-cycle" is banned. A registered test one query can resolve is not a test —
+    **look it up now** (vault for conclusions, WEB for events).
+
+### TIME RULES
+11. **Clock runs as its OWN call, output READ, before composing any dated entry.** Label in Pacific.
+    Verify the zone string echoed back ("PDT"/"PST" — a typo silently falls back to UTC, caught 8/8).
+12. **Source time ≠ paste time — log both.** A board stamped 8/7 ingested 8/8 is 8/7 data.
+13. **New calendar day → `chat_log.py --new` BEFORE any writing.**
+
+### CONDUCT / MONEY RULES
+14. **Rule 7 — descriptive, not advisory. No trade recommendations. Sizing is Jake's.**
+15. **SPENDING RULE**: nothing automated/unattended (cron, Routine, background job) without Jake's
+    explicit yes in that same conversation. Librarian = per-inbound subagent, never a daemon.
+16. **No pandering (_persona) · calibrated pushback (_calibration): argue the side Jake is
+    UNDER-weighting · concede fast · Independence score + Steelman on theses.**
+17. **Code delivery: COMPLETE cells only** (iPhone/Colab). Acronyms spelled out at first use.
+18. **End of session: file → link → index → chat-log → commit → push. Every turn pushes.**
+
 ## ⛔ STEP ZERO — THE ROUTER (standing, set 2026-07-31 — Jake's spec, after 3 breaches in one day)
 
 **BEFORE analysing ANY inbound paste — wire, chart, position screen, article, question — RUN THIS FIRST:**
 
 ```
-python3 tools/vault_router.py <<'EOF'
-<the pasted text>
-EOF
+python3 tools/librarian.py <<'EOF'          # ⟵ since 2026-08-08 the librarian IS step zero
+<the pasted text>                            #    (router+sweep+dupe+open items in one call;
+EOF                                          #     vault_router.py still works standalone)
 ```
 
 **It costs one local call and no network.** It reads `wiki/` and returns, per matched thread:
@@ -37,8 +91,10 @@ made the data-centre-inflation argument a MONTH before Kashkari** and called the
 answered the cement question **from a chart instead of the cell I had built 20 minutes earlier.**
 **A rule that only fires when remembered is an INTENTION. A command in the workflow is a CONTROL.**
 
-- **The thread→keyword map is PARSED FROM `tools/acute_scanner_cell.py`** so this vault has exactly ONE
-  keyword map and it cannot drift. Adding a thread = edit the scanner; the router inherits it.
+- **The thread map lives in ONE sentinel-delimited block in `tools/acute_scanner_cell.py`**, executed as
+  real Python by the router (regex-scraping died 8/8 — an apostrophe in a comment silently ate keywords).
+  **Three layers per thread: CONCEPTS / ENTITIES / MEASURES** — five gaps in one day (#13-#17) proved the
+  original concept-only map could not see proper nouns or data vocabulary. Adding a thread = fill all three.
 - **NO MATCH is information, not permission.** It means either genuinely new territory (open a note) or a gap
   in the keyword map (fix the scanner). **It never means the vault is silent.**
 - **`(n)*` = single-keyword match = weak.** Kept for recall; verify it is not a homonym.
