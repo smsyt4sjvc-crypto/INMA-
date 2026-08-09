@@ -2404,3 +2404,14 @@ tape 8/5-6 via the short-covering wire (Nasdaq highs named explicitly; S&P at/ne
   any outcome distribution. And per WARNING-vs-TRIGGER this divergence is a **STATE**: 2017's resolved
   bullishly. Falsifiers already registered elsewhere: **August payroll** (a second consecutive negative
   kills the distortion story), **8/13 30Y auction**, **post-8/5 CDS print**.
+
+### Addendum 2026-08-08 ~11:55pm PDT — ⚠️ NAMING PRECISION (Jake: "We just had August payroll. Last week.") — the report he means is the JULY report, and my falsifier line invited exactly that reading
+- **What released Friday 2026-08-07 was the JULY Employment Situation** (−23K; BLS names reports by DATA
+  month, first-Friday release). **The registered falsifier is the AUGUST report — the NEXT one — released
+  Friday 2026-09-04.** My entry above said "August payroll" bare, which reads as the report-released-in-
+  August. Same trap class as MSFT's June-30 fiscal year and Nabtesco's December year: **a bare month name
+  on a data series is ambiguous between data-period and release-date.**
+- **RULE ADOPTED for registered tests: name the RELEASE DATE and the DATA MONTH, never a bare month.**
+  The falsifier above now reads: **2026-09-04 release (August data) — a second consecutive negative print
+  kills the distortion story** (3-mo avg +20K implies May+June were net positive, so July is currently the
+  only negative month; August negative = consecutive).
