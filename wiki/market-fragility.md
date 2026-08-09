@@ -2491,3 +2491,85 @@ Source: `raw/ms-pb-regross-vs-degross-ai-themes-2026-08-09.png` — Morgan Stanl
    refusal persist? Persistence = the fast money is expressing the CXMT-glut view in positioning.
 2. Ties: the 30-day OpenRouter re-read (8/8), the post-8/5 CDS print, and L682's sequence — if re-grossing
    resumes, does it follow the de-gross sequence in reverse (equipment → semis → memory last)?
+
+## 2026-08-09 ~2:40pm PDT — THE WEEK (8/11-8/14) GETS ITS CALENDAR AND ITS CONSENSUS: the inflation prints land ON the auction days, and the registered CPI test is now dated with a baseline
+  ⟲ EXTENDS market-fragility.md:L2441 (2026-08-09) — kill-condition CPI test dated: nearest instance = 8/12 RELEASE of JULY data, consensus 3.4/2.5 baseline [old entry stays LIVE]
+Source: Reuters "Wall St Week Ahead" (Krauskopf), article dated 8/7 3:02am PDT →
+`raw/reuters-week-ahead-inflation-2026-08-07.md`. Paste 8/9 ~2:35pm PDT (source 8/7 ≠ paste 8/9 — the
+oil/Iran framing is two days stale, see below). ⟲ EXTENDS the L2374 jobs/ATH entry and its L2441 kill
+condition; extends [[new-economy-regime]]'s 8/7 goods-price-case test.
+
+### DATA (observed — Reuters unless noted)
+- **The week's stack, days verified against the war-board refunding ledger (L1732):**
+  **Tue 8/11 $58bn 3Y · Wed 8/12 $42bn 10Y + JULY-data CPI release · Thu 8/13 $25bn 30Y (the registered
+  test) + JULY-data PPI · Fri 8/14 July retail sales.**
+- **CPI consensus (Reuters poll): headline +3.4% Y/Y, core +2.5% Y/Y** — core sits **0.9pp BELOW
+  headline**: the expected inflation is in the food/energy components core excludes.
+- **September hike odds 44% as of Friday 8/7 (Reuters), down after the −23K July payroll release.**
+  *(The vault's Friday wire snapshot logged 70→47% — two same-day sources, 44 vs 47; same direction,
+  don't quote either as THE number.)*
+- **July FOMC: held, with 3 of 12 dissents IN FAVOR OF A HIKE.** Inflation above the 2% target "for
+  several years" (Reuters framing).
+- **Tape into the week:** S&P first ATH close in two months (week of 8/3-8/7); **four sessions ending
+  Tue 8/4 +5.75%, biggest 4-day surge since April 2025**; YTD +13%. Friday: stocks GAINED on the
+  negative payroll print. **10Y at 4.64%, off a late-July peak that was the highest since Jan 2025.
+  WTI traded below $80 during the week.** SOX **+70% YTD yet >15% below its late-June high.**
+- **Next week's reports: AMAT, CSCO, CRWV** (earnings lull otherwise).
+- Attributed color: Miskin (Manulife) *"the market has inflation anxiety"*; Orton (Raymond James): the
+  July sell-off was crowding *"worked off during the month"*; Pappalardo (Morningstar): above-forecast
+  CPI → *"stocks sell off on that news."*
+
+### THESIS (interpretation — NOT fact)
+- *(analysis — the week's structure IS the registered malign scenario's timetable)* [[new-economy-regime]]
+  8/7 named the benign regime (weak data → yields down + stocks up) and its MALIGN inverse as "the
+  8/13-auction/fiscal scenario." **The schedule now stacks an inflation print ON each auction morning:
+  a hot CPI Wednesday hits the long end from BOTH sides at once — inflation repricing plus $42bn of
+  10Y supply to absorb the same day; hot PPI Thursday does it again onto the $25bn 30Y.** The
+  configuration where the −0.48 regime flips malign is not hypothetical timing anymore; it is printed
+  on the calendar twice in consecutive days.
+- *(analysis — the kill-condition test gets its DATE and BASELINE, and the naming rule gets enforced)*
+  L2441 registered the bad-news-is-good-news kill condition as *"a hot CPI landing on top of weak
+  jobs"* and called it "August CPI" — **the bare-month trap again (L2408 rule): the NEAREST instance is
+  the 8/12 RELEASE of JULY data, consensus 3.4/2.5.** The weak-jobs leg is already in hand (−23K).
+  **Above-consensus driven by the goods/energy components = the pairing fires this Wednesday.** The
+  September-released (August-data) print and the 9/4 payroll remain the SECOND gate. At/below
+  consensus → per the 8/7 test, the goods leg was the hike case's LAST leg — "40 comes down hard."
+- *(analysis — the consensus wedge carries Jake's premise inside it)* Core 0.9pp below headline means
+  the market's own forecast locates the inflation in energy/goods, not labor — the same composition as
+  the surviving hike case (ISM prices >70, ULC undershoot, no expectations unanchoring). **44-47%
+  September hike odds INTO a negative-payroll month is the Fed Trap expressed as a price: a coin-flip
+  hike priced against an economy shedding jobs, with three dissenters already on record** — because
+  the inflation the committee fears is the kind payroll weakness does not cool.
+- *(analysis — the side the fragility lean under-weights)* **44% is also a lot of odds to BLEED.** An
+  at/below-consensus Wednesday takes the hike case's last leg out, and the relief path runs into a
+  market where the fast money is measurably NOT re-grossed (L2453's unspent bid), retail inflows are
+  record ($130bn YTD), and the radar's isolated branches independently surfaced benign near-term
+  liquidity (TGA drain, benign QRA) and the state-backstop read. **The modal outcome of a consensus
+  print is the detachment bid's next leg, not the break.** Both directions load on Wednesday; that is
+  what makes it a real test rather than a fixture.
+- *(analysis — sponsorship of the surge, now three-way corroborated)* The +5.75%/4-day surge — biggest
+  since April 2025 — printed while HFs had restored only ~1/8 to ~2/5 of the de-gross (L2453). Orton's
+  "crowding worked off" is the sell-side voicing of the same ledger. **The melt-up's marginal buyer was
+  retail/systematic/short-covering, and the HF re-gross remains overhead fuel.** One sharpened edge:
+  **the single ~fully-re-grossed theme (semi caps, MSXXSCAP) is the layer that reports next week —
+  AMAT. The freshest gross in the book sits directly in front of the week's main tech print.**
+- *(⚠️ staleness flag — the oil leg of the story moved AGAINST the article over the weekend)* Reuters'
+  Friday framing — "calming of U.S.-Iran tensions," WTI under $80 easing inflation worry — predates
+  **Sunday's Jazan strike (war-board L1654), Iran's escalated demands, and Hormuz crossings still at
+  ultra-low levels.** The disinflation-from-oil leg the rally leans on is a [[war/war-board]] variable,
+  not a settled macro input — and Miskin's own conditional ("if oil prices keep going up… the Fed
+  needs to hike") is the WARNING side of the same door. WTI <$80 spot vs the filed $92.79 Q2 AVERAGE
+  ([[demand-destruction]] L3421) measures how much war premium has already bled out.
+
+### 📌 REGISTERED (release-date + data-month, per the L2408 rule)
+1. **Wed 8/12: July-data CPI vs 3.4 headline / 2.5 core — WITH the component read** (energy/goods vs
+   shelter/services). Hot-on-goods + the in-hand weak jobs = the L2441 kill-condition pairing fires.
+2. **Thu 8/13: July-data PPI + the $25bn 30Y auction, same day** — thresholds for the 30Y already
+   pre-registered (war-board).
+3. **CRWV earnings next week** (day not stated in article): touches 🚩 F8's red cohort (L2005) AND the
+   radar's memory-price-derivatives datum. **AMAT**: the print lands on the only fully-re-grossed theme.
+4. **SOX −15%-from-high gap** — Orton's "technical recovery" is a named, checkable state: does the gap
+   close while the index makes ATHs?
+
+**Links:** [[new-economy-regime]] · [[detachment-bid]] · [[ai-financing-fragility]] ·
+[[demand-destruction]] · [[war/war-board]] · [[cepi]] · [[memory-regime-question]] · [[portfolio-state]]

@@ -25,7 +25,8 @@ and whether N accounts trace to ONE origin. Numbers beat adverbs; screenshots of
 > Agreement" Iran US, Iran demands Navy warships barred Hormuz, Majlis strait vote, Hormuz vessel
 > crossings data. What's the newest CONCRETE step — signed, voted, approved, rejected?
 
-**4. Wednesday 8/13: the 30-year Treasury auction**
+**4. THURSDAY 8/13: the 30-year Treasury auction** *(day label fixed 8/9 — I wrote "Wednesday"; 8/13 is a
+Thursday. The full stack: Tue 8/11 $58bn 3Y · Wed 8/12 $42bn 10Y + July-data CPI · Thu 8/13 $25bn 30Y + PPI.)*
 > Search X for: 30-year Treasury auction results August 13, auction tail, bid-to-cover, indirect bidders,
 > dealer takedown. Numbers only.
 
