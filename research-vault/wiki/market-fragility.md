@@ -2415,3 +2415,37 @@ tape 8/5-6 via the short-covering wire (Nasdaq highs named explicitly; S&P at/ne
   The falsifier above now reads: **2026-09-04 release (August data) — a second consecutive negative print
   kills the distortion story** (3-mo avg +20K implies May+June were net positive, so July is currently the
   only negative month; August negative = consecutive).
+
+### Addendum 2026-08-09 ~12:05am PDT — JAKE NAMES THE MECHANISM, AND HIS OWN PREMISE CUTS BOTH WAYS
+Jake: *"Losing jobs usually signals deflation/recessionary. Except jobs aren't particularly the driver of
+inflation this go round. AI spending (and bid up) and energy are. So weak jobs reduces hike odds. Well at
+least the expectation."*
+
+### THESIS (interpretation — Jake's mechanism + analysis, labelled)
+- *(Jake's mechanism — CONFIRMED by the tape and the vault)* Weak jobs → hike odds down is the documented
+  reaction: **Sept hike odds 70→47% on the print; the vault's own call REVISION 6, 65→40%.** And the
+  premise is not merely his read — **the vault holds it as a Fed-internal position**: Hammack (Sintra,
+  6/30, 2026 VOTER) and Kashkari a month later, both naming **data-centre investment as an inflation
+  driver** ([[new-economy-regime]] L260; [[ai-capex-cycle]] L1834; flag F16).
+- *(analysis — the rates channel is only HALF of why the ATH survives the print)* If weak jobs only
+  lowered hike odds, a consumer-heavy index would still sell off on −23K — weak employment is weak
+  revenue. **The configuration works because the index's marginal earnings dollar is AI capex, not
+  consumption** — measured all week (the beat, the marks, $200B issuance, record inflows). **Both legs
+  required: dovish repricing AND labor-insensitive index earnings.** 2017/2021 had the second leg by
+  different routes (print false; stimulus incoming).
+- *(analysis — ⭐ THE TRAP: his premise cuts both ways)* **If inflation's drivers are AI capex and energy —
+  not labor — then weak jobs don't COOL inflation either.** The dovish repricing assumes the Fed keeps a
+  **labor-centric reaction function** while inflation runs on labor-insensitive drivers — and the
+  committee already contains the opposing view (Hammack/Kashkari). **Jake's "well at least the
+  expectation" is the load-bearing clause: the market has priced the REACTION FUNCTION, not the inflation
+  path.** ⇒ **KILL CONDITION for the bad-news-is-good-news regime, now paired and dated: a hot CPI
+  (goods/electricity components — August CPI test already registered) landing ON TOP OF weak jobs.**
+  That pairing = the [[new-economy-regime]] Fed Trap arriving on schedule, and the trade inverts.
+- *(hypothesis, NOT established)* **The third reading: weak jobs as the AI trade's own SIGNATURE rather
+  than its contradiction.** Q2 productivity accelerating with unit labor costs flat (8/7 entry) is what
+  output-without-labor looks like at macro scale; full-time down 6 of 7 months. If displacement is the
+  cause, **payrolls weaken WHILE capex inflation persists — scenario-2 fuel, not relief.** Distortion
+  candidates (L&H, education) still live; the productivity print leans this way but does not decide it.
+- **⇒ The rare configuration needs all three: dovish repricing + labor-insensitive index earnings +
+  inflation drivers the Fed cannot reach by watching payrolls. The first two are measured. The third is
+  what decides whether this resolves like 2017 or breaks the reaction-function assumption.**
