@@ -261,3 +261,18 @@ is the load-bearing bridge. Expect the survivor table empty most weeks; the reje
   scanner missed the CNBC CFO-blindsided story + CXMT items by construction — keyword-gated). The scanner
   notebook stays for the filtered quick-read + LEVEL WATCH prices. Division of labor per this playbook:
   Jake fetches free; Claude reasons on upload.
+
+## 2026-08-09 ~12:55pm PDT — THE RESEARCH-ECOSYSTEM MAP (Jake's ranking) + the thesis-radar loop it commissioned
+Source: `raw/research-ecosystem-ranking-2026-08-09.txt`. Jake's ranked map of where serious theses publish:
+**VIC → SumZero → author-selected Substacks → CoBF → r/SecurityAnalysis → Seeking Alpha (as database) →
+Bogleheads (implementation only) → Hacker News (engineer-grade tech dissection).** His usage stack:
+ideas (VIC/SumZero/Substacks) · **anti-thesis (CoBF, r/SecAnalysis, SA bears)** · industry (specialist
+Substacks, HN) · implementation (Bogleheads) — **then always primary documents.**
+- **The standing loop this created (run on request, NOT scheduled — spending rule):** isolated scouts per
+  ecosystem → filings confirmation via EDGAR on the best theses → reconciliation where **convergence
+  only counts across ISOLATED branches**, filings verdicts outrank forum consensus, and results are
+  checked against the vault's live threads. First run: `wf_7c8e88d5` (2026-08-09).
+- *(analysis)* The ranking's own sharpest line is the closer: *"the more useful people arguing about one
+  obscure assumption buried in a company's gross-margin model becomes."* That is this vault's firewall
+  philosophy stated from the other direction — and the anti-thesis leg (his #2 use) is [[_calibration]]'s
+  argue-the-underweighted-side, outsourced.
