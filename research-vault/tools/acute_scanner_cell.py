@@ -226,10 +226,15 @@ THREADS = {
                'nuclear','reactor','criticality','part 57','nrc',
                'avista','spokane','oklo','westinghouse','vistra','constellation','nextera',
                'ge vernova','ercot','caiso','datacenter power','megawatt','gigawatt'],
+ # gap #18 (2026-08-09): Western-hemisphere replacement-barrel vocabulary — a Venezuela-imports
+ # paste weak-matched ALLIANCE(1)* while demand-destruction held the +1.6M b/d offset line and the
+ # China-routing prior. The oil map covered the DISRUPTED side, never the REPLACEMENT side.
  'WAR/OIL':   ['hormuz','qeshm','tanker','houthi','irgc','abqaiq','jazan','transit fee',
                'war risk','crack spread','refiner','lng',
                'iran','oman','majlis','fars','aramco','opec','brent','wti','kharg',
-               'corridor','flag state','insurance premium'],
+               'corridor','flag state','insurance premium',
+               'venezuela','pdvsa','chevron','merey','heavy sour','heavy crude','guyana',
+               'gulf coast','official selling price','crude import','import license'],
  'BLACK SEA': ['cpc','caspian pipeline','novorossiysk','tengiz','kashagan','karachaganak',
                'kazakh','kazakhstan','black sea','primorsk','ust-luga','druzhba','ceyhan'],
  'INVENTORY': ['spr','cushing','strategic petroleum','crude draw','crude build','tank bottoms',
