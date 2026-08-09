@@ -223,6 +223,15 @@ THREADS = {
  # MATCH. The FED keywords covered the COMMENTARY layer (warsh, term premium, dissent) and had
  # NOTHING for the CALL's own subject — the vault's primary registered prediction (hike before
  # December) was unreachable by the words that describe it.
+ # gap #17 (2026-08-08): FLOWS/POSITIONING vocabulary was absent. A BofA/EPFR record-tech-inflows
+ # chart returned PORTFOLIO(1)* while market-fragility held the 7/22 positioning-extremes entry that
+ # governs exactly this class. Note this gap is NOT the proper-noun defect of #13-#16 — these are
+ # ordinary concept words the map simply never had. The map covers the vault's THESES but not its
+ # MEASUREMENT vocabulary.
+ 'FLOWS':     ['fund flow','inflow','outflow','epfr','allocation','net buying','net selling',
+               'retail flow','institutional flow','positioning','percentile','exposure','de-gross',
+               'cta','systematic','risk parity','buyback','short interest','put/call','skew',
+               'sentiment','aaii','bull-bear','cash levels','fund manager survey'],
  'FED':       ['warsh','term premium','forward guidance','steepen','core cpi','supply shock','dissent',
                'rate hike','rate cut','rate pause','rate decision','fomc','fed funds','fedwatch',
                'hike odds','basis point','powell','hawkish','dovish','fed meeting','rate expectations'],
@@ -319,6 +328,7 @@ ROUTE = {
  'BLACK SEA': 'demand-destruction (CPC/Kazakh outage) / oil-value-chain',
  'INVENTORY': 'demand-destruction (SPR clock)',
  'FED':       'new-economy-regime / market-fragility',
+ 'FLOWS':     'market-fragility (⭐ the 7/22 gearing frame + 8/8 record tech inflows) / detachment-bid / portfolio-state',
  'MODEL-ECON':'metered-compute / compression-thesis',
  'FX/CARRY':  'ai-financing-fragility (yen-carry corners the Fed, L491) / market-fragility / new-economy-regime',
  'AI-POLICY': 'ai-financing-fragility (blacklist timeline, F17 risk stack) / metered-compute (the NVDA letter, the council) / ai-capex-cycle (advisory council) / compression-thesis (two-bloc)',

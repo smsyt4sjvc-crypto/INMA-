@@ -2313,3 +2313,60 @@ overstated by volume alone.** 🚩 FETCH — the actual positioning gauges: SPX 
 aggregate net options DELTA/GEX (dealer positioning), which is what McElligott's LevETF/negative-gamma
 thread actually measures. **Grade appetite by OI + net-delta, not headline volume.** *(Analysis;
 corrects the implicit volume=positioning assumption in the 1:05am entry.)*
+
+## 2026-08-08 ~6:40pm PDT — TECH FUND FLOWS AT A RECORD: $216bn ANNUALIZED — a STATE, filed as gearing per the 7/22 precedent, and it points AGAINST the book
+  ⟲ EXTENDS market-fragility.md:L575 (7/22 positioning extremes) — SAME frame, NOT a supersession.
+  That entry is fully LIVE: positioning is the GEARING on tracked triggers, not a timer.
+Source: **BofA Global Investment Strategy / EPFR, "Chart 10: Inflows to tech funds on pace for record year"**
+→ `raw/bofa-tech-fund-flows-record-2026-08-08.png`. Jake paste 2026-08-08 ~6:35pm PDT.
+
+### DATA (observed — chart-read; ⚠️ values below the headline are eyeballed off the plot, label them so)
+- **Headline printed on the chart: $216bn, 2026 — and the asterisk says "*2026 YTD ANNUALIZED."**
+- Prior annual cumulative peaks (⚠️ chart-read, approximate): **2025 ~$78bn · 2021 ~$65bn · 2022 ~$60bn ·
+  2024 ~$50bn · 2023 ~$28bn.** Everything 2015-2020 sits under ~$20bn.
+- **⇒ $216bn is ~2.8x the prior record.**
+- **⭐ DERIVED — THE ANNUALIZATION IS DOING REAL WORK. 60.3% of the year had elapsed at 2026-08-08 ⇒ implied
+  ACTUAL year-to-date ≈ $130bn, with ~$86bn projected and not yet observed.**
+- **DERIVED — even UN-annualized, ~$130bn vs 2025's ~$78bn = 1.67x. The record is real without the
+  projection; only its SIZE depends on it.**
+- The 2026 line's slope is near-vertical into the print — **flows accelerated late**, which is precisely the
+  shape where annualizing is least reliable in either direction.
+- **⬜ NOT KNOWN: EPFR coverage drift.** EPFR tracks a SAMPLE of funds and its reporting universe has
+  expanded over the years. **A cumulative series compared across a decade can be flattered by coverage
+  growth**, and the chart does not disclose whether the universe is held constant. Magnitude unknown.
+
+### THESIS (interpretation — NOT fact)
+- *(the discipline FIRST, because this is exactly the class the rule was written for)* **THIS IS A STATE,
+  NOT A TIMER.** Per WARNING-vs-TRIGGER, record inflows sit in the same family as narrow breadth, retail
+  FOMO and melt-up: **bull-market features present through the ENTIRE up-leg.** ⟲ It belongs with the 7/22
+  entry above (L575) — *"positioning is the GEARING on the triggers already tracked… it sets how BIG the
+  move is IF a spark fires, not whether/when."* **$216bn annualized is an odds-shader on drawdown
+  MAGNITUDE. It is not a top-call and must never be quoted as one.**
+- *(analysis — ⭐ AND PER [[_calibration]], THIS CUTS AGAINST JAKE'S BOOK, WHICH IS THE SIDE HE IS
+  UNDER-WEIGHTING)* The book is **net short** ([[portfolio-state]] L600: *"THE BOOK IS NET SHORT"*; the SPY
+  Dec-745 puts are the hedge). **Record inflows are FUEL for the bull case, not the bear one** — and the
+  7/22 entry already names the bullish resolution: *"washed-out HF positioning = underinvested, must chase."*
+  **A record wall of money arriving is the mechanism by which a melt-up outlives every warning attached to
+  it.** [[detachment-bid]] is the standing bull and this is direct evidence for it.
+- *(analysis — ⭐ THE JOIN TO [[cepi]], STATED CAREFULLY BECAUSE THE SLOPPY VERSION IS WRONG)*
+  **Fund inflows buy SECONDARY shares. They do NOT fund capex.** So this is not "investors financing the
+  buildout" — Alphabet and Amazon funded theirs with BONDS. **The correct statement is a divergence:**
+  in the same quarters the complex fell below the self-funding line (OCF/C 1.106 → 0.999, [[cepi]] 8/7),
+  a record wall of equity money arrived. **Investors are paying up for the sector precisely as its cash
+  statements stopped covering its own spending.** The indirect link is real but second-order — a supported
+  equity price lowers the cost of capital and supports the credit that IS funding the buildout.
+  **That gap between what the market is paying for and what the cash statements show IS the CEPI question,
+  now visible from the flows side.**
+- *(⚠️ the caveat that most weakens the headline)* **$216bn is a PROJECTION, not a print.** ~$86bn of it has
+  not happened. And the annualization is taken off an accelerating segment — **which overstates if the
+  acceleration is transient and understates if it continues.** The defensible claim is the un-annualized
+  one: **~$130bn YTD, already 1.67x the prior full-year record.** Quote that number.
+
+### 📌 REGISTERED
+1. **⬜ Does the actual full-year 2026 print land near $216bn?** The annualization is falsifiable by
+   December. **A large miss would be a lesson about accelerating-series annualization, not about tech.**
+2. **⬜ EPFR universe constancy** — is the decade-long cumulative comparison coverage-adjusted? Until known,
+   treat the multi-year ranking as directionally right and the MULTIPLE (2.8x) as soft.
+3. **⬜ Do flows persist through the next drawdown?** That is the only test that separates "structural
+   reallocation into tech" from "momentum chasing." **Flows that survive a −10% tape are a different object
+   from flows that caused it.**
