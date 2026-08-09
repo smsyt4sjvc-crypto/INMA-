@@ -56,6 +56,22 @@ def supersede(old, new, why, today):
     print(f'  ⟲ {of}:L{ol}  SUPERSEDED BY  {nf}:L{nl}')
     print(f'    why: {why}')
 
+def extends(old, new, why, today):
+    """The NON-retiring link — added 2026-08-08 after --supersede was misapplied to a
+    live entry (market-fragility L575). THE TEST: does the old line become WRONG?
+    YES -> --supersede.  NO, it merely becomes less complete -> --extends.
+    Writes a marker at the NEW entry only; the old entry stays clean (it is still live)."""
+    of, ol = loc(old); nf, nl = loc(new)
+    N = rd(nf)
+    if nl < 1 or nl > len(N): sys.exit(f'ERROR: {nf} has {len(N)} lines, asked for L{nl}')
+    if '⟲ EXTENDS' in N[nl-1] or (nl < len(N) and '⟲ EXTENDS' in N[nl]):
+        print(f'  already marked: {nf}:L{nl}'); return
+    ind = re.match(r'\s*', N[nl-1]).group(0)
+    N.insert(nl, f'{ind}  ⟲ EXTENDS {os.path.basename(of)}:L{ol} ({today}) — {why} [old entry stays LIVE]')
+    wr(nf, N)
+    print(f'  ⟲ {nf}:L{nl}  EXTENDS  {of}:L{ol}   (no supersession; both live)')
+    print(f'    why: {why}')
+
 def walk():
     for dp, _, fn in os.walk(os.path.join(ROOT, 'wiki')):
         for f in fn:
@@ -105,5 +121,12 @@ if __name__ == '__main__':
     elif '--supersede' in a:
         supersede(a[a.index('--supersede')+1], a[a.index('--by')+1],
                   a[a.index('--why')+1] if '--why' in a else '(no reason given)', today)
+    elif '--extends' in a:
+        extends(a[a.index('--extends')+1], a[a.index('--by')+1],
+                a[a.index('--why')+1] if '--why' in a else '(no reason given)', today)
     else:
-        print(__doc__ or 'see header'); print('  --supersede F:L --by F:L --why "..."  |  --check  |  --stale F')
+        print(__doc__ or 'see header')
+        print('  --supersede OLD_F:L --by NEW_F:L --why "..."   (old conclusion becomes WRONG)')
+        print('  --extends   OLD_F:L --by NEW_F:L --why "..."   (old stays LIVE; new adds to it)')
+        print('  --check  |  --stale F')
+        print('  THE TEST: does the old line become WRONG? yes=supersede, no=extends.')

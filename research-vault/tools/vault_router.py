@@ -36,20 +36,24 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SCANNER = os.path.join(ROOT, 'tools', 'acute_scanner_cell.py')
 
 def parse_scanner_maps():
-    """Single source of truth: THREADS + ROUTE live in the scanner."""
+    """Single source of truth: the sentinel-delimited THREAD MAP block in the scanner,
+    executed as REAL PYTHON — not regex-scraped. (The 8/8 parser bug class: an apostrophe
+    in an in-list comment broke quote pairing and keywords silently parsed as commas.
+    exec of the actual block makes comments safe by construction.)"""
     try:
         src = open(SCANNER, encoding='utf-8').read()
     except Exception:
         return {}, {}
-    def grab(name):
-        m = re.search(rf'^{name}\s*=\s*\{{(.*?)^\}}', src, re.S | re.M)
-        return m.group(1) if m else ''
-    th, ro = {}, {}
-    for k, v in re.findall(r"'([A-Z /\-]+)':\s*\[(.*?)\]", grab('THREADS'), re.S):
-        th[k] = re.findall(r"'([^']+)'", v)
-    for k, v in re.findall(r"'([A-Z /\-]+)':\s*'([^']+)'", grab('ROUTE')):
-        ro[k] = v
-    return th, ro
+    m = re.search(r'THREAD MAP BEGIN.*?\n(.*?)# ═+ THREAD MAP END', src, re.S)
+    if not m:
+        return {}, {}
+    ns = {}
+    try:
+        exec(compile(m.group(1), '<thread-map>', 'exec'), {}, ns)
+    except Exception as e:
+        print(f'  !! THREAD MAP FAILED TO PARSE: {e} — fix acute_scanner_cell.py before trusting output')
+        return {}, {}
+    return ns.get('THREADS', {}), ns.get('ROUTE', {})
 
 THREADS, ROUTE = parse_scanner_maps()
 
