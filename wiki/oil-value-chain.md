@@ -142,3 +142,49 @@ it.**
   **That explains "India's response has been characteristically quiet, calculating" far better than the post
   does: not anxiety — they may have already read the loophole.** ⚠️ **Requires the bill text. Highest-value
   open lookup on this thread.**
+
+## 2026-08-09 ~9:35am PDT — VENEZUELA AS THE REPLACEMENT BARREL: the value-chain claim is structurally right, and it collides with a vault prior worth keeping visible
+Source: `raw/venezuela-crude-imports-paste-2026-08-09.txt` — unattributed paste, **no numbers** ("highest
+levels in years" is an adverb, not a volume; ⚠️ evidence-ladder: numbers-vs-adverbs. EIA weekly imports by
+country is the checkable primary — fetch registered).
+
+### DATA (as-pasted + vault priors)
+- **Paste claim 1:** US imports of Venezuelan crude at multi-year highs, "helping replace barrels disrupted
+  from the Middle East"; explicitly NOT near all-time highs *(honest cap in the source — the late-1990s
+  peak was ~1.5-1.8M b/d; "multi-year high" against a ~zero 2019-2023 sanctions base is a LOW bar)*.
+- **Paste claim 2 (analytical):** Venezuelan barrels differ economically because Washington controls the
+  transaction (licenses) and US companies capture part of the value chain.
+- **Vault priors that touch this:** [[demand-destruction]] L14 — US/UAE/Russia/Brazil/**Venezuela** exports
+  +~1.6M b/d y-o-y already logged as the war's supply offset. **L1469 — Venezuela routes DISCOUNTED DARK
+  CRUDE TO CHINA** (Vortexa). Both live.
+
+### THESIS (interpretation — NOT fact)
+- *(analysis — the paste's point, sharpened into mechanics)* **The value-capture asymmetry is real and it
+  is a LICENSE structure.** A Saudi barrel: bought at the official selling price (OSP), value accrues to
+  Aramco upstream; the US captures only the refining margin. A Venezuelan barrel under license: **the
+  license itself is the control point** — Washington decides WHO lifts (historically Chevron), sanctioned-
+  adjacent pricing means a DISCOUNT to comparable grades, and the heavy-sour quality is exactly what Gulf
+  Coast refiners are configured for. **⇒ US entities capture discount + freight proximity + crack spread,
+  and the administration holds an on/off switch no OPEC relationship gives it.** This slots directly into
+  this note's layer map: it is the only import stream where the US holds BOTH the toll and the tap.
+- *(analysis — the geometry, which the paste undersells)* **Venezuelan barrels transit NO chokepoint Iran
+  can touch.** No Hormuz, no Bab el-Mandeb, no war-risk premium — Caribbean to Gulf Coast. With Hormuz
+  crossings at ultra-low levels and Jazan (the Red Sea bypass) just hit, **every Western-hemisphere
+  replacement barrel directly depreciates the asset Iran is trying to monetise in the corridor
+  negotiation.** The re-routing map in [[demand-destruction]] gains a leg that is not merely alternative
+  ROUTING but alternative HEMISPHERE.
+- *(⚠️ the collision with the vault's own prior — keep it visible)* **L1469 has Venezuela selling
+  discounted dark-fleet crude to CHINA. The paste has Venezuela at multi-year highs to the US.** If both
+  hold, the reconciliations are: (a) production is UP enough to serve both; (b) flows REDIRECTED
+  China→US (licensing displacing the dark fleet — which would be a real sanctions-policy win and a real
+  loss of discounted supply for Chinese teapots); or (c) one claim is stale. **⬜ WHICH of the three is
+  true is the fetch that matters** — it decides whether this is new supply or re-shuffled supply.
+- *(⚠️ discipline)* No volumes, no grade split, no license detail in the paste. **Until EIA numbers are in
+  hand this is a DIRECTION with a mechanism, not a sized flow.**
+
+### 📌 REGISTERED
+1. ⬜ **EIA weekly/monthly US crude imports from Venezuela** — the actual b/d series, vs the ~2019 sanctions
+   cliff and the 1990s peak. Sizes the adverb.
+2. ⬜ **China vs US split of Venezuelan exports** (Vortexa-class data) — resolves the L1469 collision:
+   new production, redirected flows, or stale claim.
+3. ⬜ **Current license structure** — who besides Chevron holds lifting rights, and on what terms.
