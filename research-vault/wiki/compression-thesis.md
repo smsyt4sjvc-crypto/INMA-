@@ -1713,3 +1713,32 @@ Same yardsticks; flagged at the sentence.**
 **Links:** [[danger-disclosure-playbook]] (payoff #4 = the go-to-market) · [[metered-compute]]
 (open-weight commoditization = the excluded category) · [[ai-financing-fragility]] (AI-POLICY /
 China) · [[ai-evaluation-framework]] (the club = procurement vehicle) · [[agentic-payments]]
+
+## 2026-08-09 ~8:15am PDT — CLAUDE CORPS: $150M to seed 1,000 operators into the WILLING segment (Jake: "I'm in lol" — verified, with two catches)
+Source: TikTok claim (`raw/tiktok-claude-corps-claim-2026-08-09.png`) → verified via web
+([Forbes 6/18](https://www.forbes.com/sites/michaeltnietzel/2026/06/18/anthropic-invests-150-million-to-launch-1000-claude-corps-fellowships/), EdTech Innovation Hub, fellowship aggregators).
+
+### DATA (observed)
+- **REAL: Anthropic's Claude Corps — $150M initial, 1,000 fellowships, $85K/yr + benefits**, no degree
+  required, 18+, minimal-experience welcome; relocation support >100mi. Announced ~June 2026.
+- **THE TIKTOK'S TWO DISTORTIONS:** (1) it is NOT "get paid to use Claude / train their AI" — it is a
+  **full-time, in-person, year-long PLACEMENT inside a US nonprofit**, deploying AI for the org (bootcamp:
+  prompt design, Claude API, evals; +5 hrs/wk structured training). (2) **Applications for cohort 1 closed
+  JULY 17** — the video (Aug 7) farms an expired window. Cohort 1 = **100** starting October 2026; the
+  remaining 900 imply later windows. ⬜ next application date NOT stated.
+- **DERIVED: $150M ÷ 1,000 ≈ $150K/fellow all-in** — consistent with salary+benefits+training+relocation.
+
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **This is a DISTRIBUTION expense wearing a workforce program's clothes — and it lands
+  exactly on this note's WILLING segment.** Nonprofits are price-sensitive, capability-hungry, and
+  unserved; seeding 1,000 Claude-trained operators into them builds the org-adoption layer and the
+  switching-cost moat the frontier labs need (the 8/6 conversation: *"they need to offer something only
+  they can — or are willing to — offer"*). $150M is a rounding error against $200B of complex-wide bond
+  issuance; the notable part is the SHAPE, not the size.
+- *(analysis)* **And it is the counter-PR to yesterday's displacement hypothesis, dated:** an AI lab
+  funding 1,000 no-degree-required jobs at $85K in the same tape where full-time employment is down 6 of 7
+  months. 1,000 placements against a −23K month is symbolic scale — **the lab is subsidising the
+  transition NARRATIVE, which belongs beside [[danger-disclosure-playbook]]'s remedy-monetisation frame.**
+- *(⚠️ for Jake specifically)* Eligibility is open regardless of background, but the program *prioritises
+  early-career*, is full-time in-person for a year, and cohort 1's window is closed. **"In" means watching
+  for the next application window, not applying today.**
