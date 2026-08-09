@@ -991,3 +991,18 @@ whether AGIBOT's units are **dispersed because of import controls.** Looked up r
 [CNN Business](https://www.cnn.com/2026/07/29/tech/us-china-robot-ban-intl-hnk) ·
 [PBS NewsHour](https://www.pbs.org/newshour/world/u-s-bans-foreign-made-humanoid-robots-targeting-china-over-national-security) ·
 [The Robot Report](https://www.therobotreport.com/industry-reacts-fcc-ban-u-s-imports-new-humanoid-quadruped-robots/)
+
+### Addendum 2026-08-09 ~12:45pm PDT — SWEEP #1 ON THE NdPr FLOOR: AT/NEAR THE THRESHOLD — but the series is ambiguous and the call is NOT made
+Source: `raw/grok-sweep-digest-1-2026-08-09.txt` (item 5). Single Korean-language handle
+(@gwigiul860721, 8/8), **no SMM screenshot** — weak sourcing, logged as a claim.
+- **Claim: NdPr oxide ~$110-113/kg current — AT or ABOVE the MP/DoD $110 floor.** "Roughly doubled from
+  ~$63/kg a year earlier."
+- **⚠️ TWO SERIES TENSIONS BEFORE ANY CROSSING IS CALLED:** (a) the vault's China-DOMESTIC derivation is
+  ~$104/kg (736 RMB/kg ÷ 7.10) — $110-113 is 6-9% above that, which is EXACTLY the remaining gap the 8/8
+  entry said would close it… or it is a DIFFERENT SERIES (the new FOB-China/CIF-Rotterdam assessments
+  launched 8/5, which SHOULD print above domestic per the export-spread finding). (b) "$63/kg a year ago"
+  vs the vault's ~$74 domestic equivalent — same ambiguity, other end.
+- **⇒ STATUS: the floor test is AT-THRESHOLD, SERIES-AMBIGUOUS. One SMM screenshot (domestic RMB/kg AND
+  the FOB USD/kg, same date) resolves it.** If the DOMESTIC series is ≥$110-equivalent, the floor is out
+  of the money and the registered weekly test FIRES — the market caught up to the subsidy in ~13 months.
+  **Not called on one unscreenshotted post.**
