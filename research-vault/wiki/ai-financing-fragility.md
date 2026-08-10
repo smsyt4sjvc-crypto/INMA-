@@ -4179,3 +4179,79 @@ why we should sell chips to China, & Nvidia's supply chain moat," Dwarkesh Podca
 - *(delegation protocol, first cost datum)* Tier-1 works as designed: verification that would have
   burned Fable context ran on Sonnet for ~52K tokens and returned 400 words. Standing default
   confirmed.
+
+## 2026-08-10 ~4:10pm PDT — THE PRIMARY DOCUMENT LANDS (Huang's X post): THE WRAP GOES VISIBLE AT ≤25% RVG — Jake's test resolves BOTH WAYS, the sponsor publishes the NBIS bull leg, and the duration entry gets its rebuttal
+Source: Huang's full post, "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class" →
+`raw/huang-x-post-investable-asset-class-2026-08-10.md`. **This is the sponsor's own framing document —
+every measurement claim in it is conflicted-class (12:50 rule); every STRUCTURAL disclosure is
+primary-class. Both extracted below.**
+
+### DATA (primary-class structural disclosures)
+- **★★ THE WRAP, DISCLOSED WITH SHAPE AND CAP: "NVIDIA may provide a RESIDUAL-VALUE SUPPORT MECHANISM
+  for UP TO 25% OF AN OPPORTUNITY, assessed project-by-project… limited, residual-value based."**
+- **The aside that sizes the EXISTING stock: "This is SUBSTANTIALLY LOWER than other compute-financing
+  arrangements"** ⇒ the sponsor states that current compute-financing deals carry support ABOVE 25%.
+  The vault's pre-program backstop items (Ohio, the AMD-Anthropic template class) just got a floor
+  from the horse's mouth.
+- Structure clarified: "independent financing platforms" (plural) · ">$500B = aggregate third-party
+  capital the platforms are DESIGNED TO MOBILIZE over time — not NVIDIA revenue, not a single fund,
+  not a commitment to a single customer" · underwriting criteria named: customer, demand, utilization,
+  cash flow, RESIDUAL VALUE (twice).
+- **The self-posed FAQ: "Is this circular financing?"** — the sponsor pre-butting the bear case BY
+  NAME in its own launch document. (Fink acknowledged "negativity"; Huang names the charge.)
+- Admission, verbatim: *"Access to capital is uneven. Many great AI companies… have demand for compute
+  but do NOT yet have access to financing at the scale or cost required"* — the FCF-gap/credit-
+  constrained marginal buyer, confirmed by the seller.
+- New platform branding: **DSX AI factories** (map entity added).
+
+### DATA (conflicted-class measurement claims — checkable, sponsor-selected)
+- **Rental prices, NVDA-published: 1-yr H100 ~$1.70/GPU-hr (Oct-25) → ~$2.35 (Mar-26) = +38% ·
+  cross-provider on-demand median ~$2.00 (Oct-25) → $2.70 (Jun-26) = +35% · B200 ~$5.30-7.05.**
+- **A100 (2020): "six years later… active commercial use… economic life toward a DECADE"** + CUDA
+  software-appreciation claim ("improves performance, efficiency, TCO of already-installed
+  infrastructure").
+- Doctrine quotes: "In AI, compute is revenue" · the virtuous cycle ("more compute → better AI →
+  more usage → more revenue → more compute").
+
+### THESIS (interpretation — NOT fact)
+- *(★★ Jake's "aren't visible" test scores BOTH WAYS, and the split is precise)* **FOR his read: the
+  chosen shape is exactly the not-a-guarantee instrument the flipped null predicted — an RVG, the
+  Moody's-failure-mode structure, not an ASC-460 guarantee** — and the AGGREGATE stays invisible
+  ("up to," "some cases," project-by-project, no total disclosed). **AGAINST his read: the sponsor
+  PRE-ANNOUNCED the mechanism publicly** — more visible than the engineered-invisibility hypothesis
+  expected. Net: the SHAPE was predicted right; the DISCLOSURE POSTURE was more forthcoming than
+  predicted; **the NUMBER that matters (aggregate RVG exposure) remains exactly as invisible as he
+  said.** The NVDA 10-Q four-roles test sharpens: look for RVG-class contingency language, not
+  guarantee-note totals.
+- *(the envelope arithmetic, up-to caveats loud)* 25% of $500B = **up to ~$125B of NVDA residual-
+  value support if the platforms fill at cap** — against the board's NVDA sheet: $42B net cash,
+  $195B equity. An "up to" ENVELOPE, not an exposure — but it is the largest contingent line the
+  sheets board can now name, and "substantially lower than other arrangements" implies the EXISTING
+  arrangement stock runs hotter than 25% on smaller bases. ⬜ aggregate RVG at each 10-Q.
+- *(★★ the squeeze pair now has NUMBERS ON BOTH LEGS — published the same afternoon)* Sponsor's own
+  pitch: **rental input +35-38% (Oct→spring)**. Terminal chart, same day: **token output (SDLLMTK)
+  −43% from May.** Input up, output down = the LAB-LAYER SQUEEZE ([[metered-compute]] 3:20pm) —
+  **and the input leg's evidence now comes from the party financing the labs' purchases.** ⚠️ the
+  rental numbers are sponsor-selected in a financing pitch: periods chosen (Oct→Mar/Jun), sources
+  unnamed — **SDH100RT (the Silicon Data H100 rental index, Bloomberg) is the independent check —
+  Grok item registered.** Also: NVDA publishing rental-price strength THE DAY BEFORE CRWV reports
+  and two days before NBIS = the radar's bull leg armed by the most conflicted possible source.
+- *(the A100-decade claim vs this thread's duration entry — the rebuttal, graded)* Huang's counter
+  to the 2:15pm duration-mismatch entry is CUDA-extends-life + A100-still-working. **Directionally
+  real (utilization persists six years) — but "in active use" ≠ value retention: the underwriting
+  question is the RATE CURVE (an A100 rents today at a fraction of launch rates), and "economic
+  life toward a decade" at declining rates is precisely what an RVG at 25% is priced against.**
+  ⬜ registered: A100 current rental rates vs 2020-21 (the value-curve datum that grades the claim).
+  The tension stands: CUDA extends the tail while NVDA's own cadence obsoletes the frontier.
+- *(the virtuous cycle vs the day's own tape)* "More usage creates more revenue" — the blended price
+  of the revenue leg fell 43% in ten weeks. The cycle's arithmetic now runs through the Jevons bar
+  (volume +75%/qtr to hold revenue). The sponsor's doctrine and the terminal's chart are the same
+  object, opposite signs, same day.
+
+### 📌 REGISTERED
+1. ⬜ **Aggregate RVG exposure** at each NVDA 10-Q (RVG-class contingency language — the four-roles
+   test, sharpened) + which "other compute-financing arrangements" exceed 25%.
+2. ⬜ **SDH100RT prints vs NVDA's rental claims** (Grok/terminal item — same source as SDLLMTK).
+3. ⬜ **A100 rate curve** (2020→now $/GPU-hr) — grades the decade-life claim.
+4. **CRWV tomorrow / NBIS Wednesday**: receiver-side support language + rental-rate disclosures now
+   read against the sponsor's published numbers.

@@ -80,3 +80,8 @@ SemiAnalysis picks paywalled (not reconstructed). **BRK Q2 10-Q was the company 
 > ⟲ Update 2026-08-10 ~11:20am: the NBIS clash gains a THIRD lens before Wednesday's print — a named
 > independent bear series (kakashiii111 Substack) opens with Nebius; NVDA's own ACIE re-segmentation
 > (verified: AI-cloud revenue >3× Y/Y) now frames the sector. → [[ai-financing-fragility]] 8/10 entry.
+
+> ⟲ Update 2026-08-10 ~4:10pm: the NBIS clash's BULL leg (rental prices rising) got sponsor-published
+> numbers — NVDA's own launch document claims H100 1-yr $1.70→$2.35 (Oct→Mar), on-demand median
+> $2.00→$2.70 (Oct→Jun) — **the day before the receiver prints, from the maximally conflicted source.**
+> Independent check = SDH100RT. → [[ai-financing-fragility]] 4:10pm entry.
