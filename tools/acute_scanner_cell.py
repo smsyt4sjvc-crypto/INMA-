@@ -256,7 +256,7 @@ THREADS = {
  # gap #15 (8/8): model NAMES + usage-share measures.
  'MODEL-ECON':['open-weight','open weight','routing layer','per-token','inference cost','agentic',
                'deepseek','qwen','kimi','glm','minimax','tencent','hunyuan','xiaomi','mimo',
-               'llama','mistral','nemotron','gpt-5','gpt5','gemini','claude','grok',
+               'llama','mistral','nemotron','gpt-5','gpt5','gemini','claude','grok','astra',
                'openrouter','leaderboard','token usage','token share','token volume',
                'market share','usage share','model ranking','trillion tokens'],
  'FX/CARRY':  ['yen','jpy','usd/jpy','usdjpy','boj','bank of japan','carry trade','repatriation',
