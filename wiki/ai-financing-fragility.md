@@ -4063,3 +4063,27 @@ conflicted-class per the 12:50 rule, read through the 1:00pm two-ledger split.
 #### 📌 REGISTERED
 1. ⬜ Interview venue/date-stamp (cheap; likely CNBC/Bloomberg today).
 2. The "negativity" acknowledgment → sentiment ledger: principals now RESPOND to the fragility tape.
+
+### Addendum 2026-08-10 ~1:50pm PDT — THE FLOWS-LEDGER PERSONIFIED: retail bull reads the Fink tape ("we did not even start... government funding is coming too. you're bearish??") — filed as specimen + one category error named
+Source: @RealNickMugalli tweet (Jake paste ~1:45pm) quoting the Fink lines.
+#### THESIS (classification, not argument)
+- *(what it gets RIGHT — and it is Jake's 1:00pm argument in the wild)* On the FLOWS ledger the tweet
+  is correct: $2T advertised + backstop expectation = path fuel, and "we did not even start" is
+  literally true of COMMITTED capital ($0 closed). The two-ledger rule counts this reading; it is
+  the [[detachment-bid]]'s fuel line, spoken by its marginal buyer.
+- *(the category error, named once)* **"You're bearish??" mistakes the SIZE OF THE FINANCING for the
+  QUALITY OF THE ASSET. Raise scale is evidence of NEED, not of return** — the trillions are required
+  precisely because the complex cannot self-fund the buildout ([[balance-sheet-board]]: ex-GOOGL NET
+  ≈ −$13B; [[cepi]] at the self-funding ceiling). Record capital was raised INTO telecom through the
+  1999-2000 top; flow scale is a STATE present on both sides of every boom's peak — it times nothing
+  and grades nothing. Return on the capex decides which reading was right, and no raise size answers
+  that.
+- *("We did not even start" cuts both ways)* Early-innings for flows ⟺ nothing-yet-funded for the
+  borrowers currently bridging FCF gaps. Same sentence, both ledgers.
+- *(the checkable claim)* **"Government funding is coming too"** — the state-backstop expectation has
+  propagated from the radar's policy branch (Capital Flows) to RETAIL within days, stated as
+  certainty with no program named ⬜. If it lands: runway extends (bull) AND private risk socializes
+  (the submerged-state / deeper-in-real-shallower-in-nominal frame). Watch for a NAMED program.
+- *(sentiment pair, same day, filed)* Fink acknowledging "quite a bit of negativity" while retail is
+  incredulous anyone is bearish = **both sentiment poles on tape simultaneously** — the divergence
+  texture this note tracks.
