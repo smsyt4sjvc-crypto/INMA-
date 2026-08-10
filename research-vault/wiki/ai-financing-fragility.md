@@ -4141,3 +4141,41 @@ Source: transcript excerpt, same event as Fink's → `raw/huang-transcript-500b-
 2. $50-60B/GW adopted as the thread's conversion factor (Huang, 8/10) — pending any breakdown of
    the compute share ⬜.
 3. ⬜ Venue/date-stamp for both transcripts (same interview? CNBC/Bloomberg special?).
+
+### Addendum 2026-08-10 ~3:45pm PDT — SONNET FETCH #1 RETURNS: both Huang quotes VERBATIM-CONFIRMED (Dwarkesh, April 15 2026) — and the same transcript holds the APRIL DOCTRINE that today's $500B executes
+Source: Tier-1 delegation (rule 19), Sonnet subagent, ~2min/52K tokens/15 fetches — Fable never read
+the haystack. Closes the 11:20am entry's ⬜ verbatim check. Interview: "Jensen Huang — TPU competition,
+why we should sell chips to China, & Nvidia's supply chain moat," Dwarkesh Podcast, **April 15, 2026**
+(dwarkesh.com/p/jensen-huang).
+
+#### DATA (verified)
+- **Quote A (support-to-exist: CoreWeave/Nscale/Nebius) — VERBATIM-CONFIRMED** against the transcript
+  + two independent clip-transcriptions. **Quote B ("don't pick winners… take care of all of them") —
+  CONFIRMED, moderate** (minor transcription variance across sources; adjacent formulation: *"We don't
+  pick winners. We need to support everyone… we go out of our way not to pick winners. So when I
+  invest in one of them, I invest in all of them."*)
+- **★ THE APRIL DOCTRINE, same interview:** *"[Do we want to be in] the financing business? The answer
+  is no. There are people in the financing business, and we'd rather WORK WITH all the people in the
+  financing business than be a financier ourselves."*
+- Neocloud eligibility, Huang: *"They need to WANT to exist, and they come to ask us for help… a
+  business plan, expertise, and the passion for it."*
+- Honest contradiction to the SPV framing, filed: **"SPV" never appears in the transcript**; Huang
+  frames neoclouds as self-originating and explicitly denies the financier role; Dwarkesh pressed the
+  tension (per a recap) and it went unresolved.
+
+#### THESIS (interpretation — NOT fact)
+- *(★★ the April quote PREDICTS today's structure, four months early)* "Work with all the people in
+  the financing business rather than be a financier ourselves" IS the $500B consortium's exact shape:
+  **NVDA convenes six financiers, keeps its own sheet clean (debt 8.5B flat on the board), and the
+  risk lands in the financial system — which is precisely why this is a fragility-thread object and
+  not an NVDA-credit object.** Announced-in-August, doctrined-in-April: the structure was designed,
+  not improvised.
+- *(the SPV framing, graded after verification)* Huang's words simultaneously SUPPORT the
+  orchestration read (support-to-exist, invest-in-all, convene-the-financiers) and RESIST the
+  control read (self-originating counterparties, not-a-financier). **Keep "de-facto demand-SPVs" as
+  the FUNCTIONAL description and drop any implication of formal control** — the risk transfer is
+  real either way, and the receiver-side filings (CRWV Tue / NBIS Wed) remain where the support
+  terms surface.
+- *(delegation protocol, first cost datum)* Tier-1 works as designed: verification that would have
+  burned Fable context ran on Sonnet for ~52K tokens and returned 400 words. Standing default
+  confirmed.
