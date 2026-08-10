@@ -3591,3 +3591,70 @@ Source: `raw/grok-sweep-digest-1-2026-08-09.txt` (Grok/X sweep, item 1).
 - Post-8/5 CDS print: **OPEN** (sweep confirms no public fresh print). Successor: re-sweep midweek.
 - ⬜ NEW: GOOGL jumbo final pricing by tranche vs the 83bp/+155bp tension; day-N secondary from a
   bond screen, not a repost.
+
+## 2026-08-10 ~12:25am PDT — THE CURRENT SOURCE ARRIVES: WSJ's Q2 BDC-filings analysis — strain CONFIRMED in filed numbers, gating still UNCONFIRMED — and the asset class is long BOTH sides of the AI event
+  ⟲ EXTENDS ai-financing-fragility.md:L964 (2026-08-10) — the wanted current source arrives: WSJ 8/9 Q2 BDC filings — strain confirmed current, gating still unconfirmed [old entry stays LIVE]
+Source: WSJ (Wirz), 8/9 9:00pm → `raw/wsj-private-credit-strain-2026-08-09.md`. Paste 8/10 ~12:15am.
+⟲ EXTENDS ai-financing-fragility.md:L964 — the 8/5 status line ("corroborated-but-stale… still want a
+current source") gets its current source: a filings-derived, same-week analysis. Bears directly on L937
+(the Dowd-gating vs GS-Prime-"healthy reset" fork).
+
+### DATA (observed — WSJ analysis of PUBLIC quarterly reports; listed BDCs, so disclosure is mandatory)
+- **Nonaccruals at FIVE-YEAR HIGHS at all four analyzed funds — Ares Capital, Golub Capital BDC, Blue Owl
+  Capital Corp (2.8% in Q2), Blackstone Secured Lending — EXCEEDING the 2023 hike-era levels.** Highest
+  since at least 2021.
+- **Watchlists** (internal deteriorating-borrower ratings): **Ares, Golub, KKR funds all UP this year —
+  highest since 2022-23.** **Blue Owl is the OUTLIER** — Lipschultz: *"no meaningful change in our
+  watchlist"* + *"credit health remains strong"* — in the same quarter his fund printed the 2.8%.
+- **Sector composition of the bad loans, NAMED: healthcare** (Affordable Care, dental services) **and
+  higher-oil-price casualties (Loparex, plastic film).** The FEAR (not yet the data): spread to
+  **software = 20%+ of many funds' books**, already flagged "at risk of disruption by AI" — software-loan
+  alarm + fraud defaults are what triggered individuals' redemption requests.
+- **Returns: routine 10%+ → stronger funds struggling for 7%; a KKR fund −6.55%** (12mo through June;
+  −9.17% prior period).
+- Mechanisms WSJ names: PE dealmaking slowdown (fewer new loans) · **writedowns on loans still PAYING
+  interest** (public-market marks) · benchmark rates off peak trimming income.
+- **The loop, in WSJ's own words: fewer investors → harder fundraising → "shrinking the supply of capital
+  to refinance existing corporate loans when they come due."**
+- Honest counters kept: defaults **below COVID-peak and 2015-oil-crash levels**; losses could abate on
+  lower rates + robust activity; Golub: *"clearly in a credit cycle. It's not a particularly bad one."*
+- Context line: the stress is printing **while the US economy performs well**.
+
+### THESIS (interpretation — NOT fact)
+- *(the L937/L964 fork splits down the middle — status updated)* **Stress: CONFIRMED, current, filings-
+  derived** — no longer permabear-framed (Dowd) or April-stale (Sarin). **Gating/seizure: STILL NOT
+  CONFIRMED** — this piece has redemption requests and slower fundraising, not gates. So Dowd's strain leg
+  corroborates while his "effectively paused" stays unverified, and GS Prime's "healthy reset" now sits
+  against five-year-high nonaccruals. **On the pace-tell scale: WIDENING, not no-bid.**
+- *(★ the structural statement this thread lacked: PRIVATE CREDIT IS LONG BOTH SIDES OF THE AI EVENT)*
+  The same manager complex lends to the **BUILDOUT** (the datacenter/neocloud leg — this note's founding
+  object, ~$800B-to-50% of external financing per MS) **and to legacy SOFTWARE** (20%+ of direct-lending
+  books, disruption-exposed). **If AI disappoints, the datacenter leg strains; if AI succeeds, the software
+  leg defaults. The class is short AI-VARIANCE and long the muddle-through** — and the WSJ shows the
+  software fear ALONE already moved redemptions. One capital pool, both tails. *(Analysis; the books are
+  distinct but the fundraising channel and sponsor balance sheets are shared.)*
+- *(the gauges this note pre-registered at L150 now have prints)* nonaccruals ✓ (5-yr highs) ·
+  watchlists ✓ (2022-23 highs) · returns ✓ (10→7) · **PIK share ⬜ absent from the piece** · **BDC
+  price-to-NAV ⬜** (only "modest rebound" qualitative). Two gauges still unfilled; fetch shape known.
+- *(numbers-vs-adverbs — the cleanest instance the vault holds)* "Credit health remains strong" + the
+  outlier flat watchlist vs the SAME fund's five-year-high nonaccrual print, in one disclosure cycle.
+  WSJ did filings-over-statements — the CEPI discipline applied to lenders. Either the watchlist
+  methodology differs (checkable next quarter) or the adverb is doing the work.
+- *(cross-print for [[demand-destruction]], with a name)* Q2 defaults attributed to HIGHER OIL PRICES
+  (Loparex) in the same quarter WTI AVERAGED $92.79 (the filed Greenfire number, 8/9). The war premium
+  transmitting to mid-market credit — dated, named, small-n, primary-derived.
+- *(the refi loop is the funding-chain shape, private-credit instance — WARNING not TRIGGER)* redemptions
+  → fundraising ↓ → refi capital ↓ → maturing loans roll harder → defaults ↑ → redemptions. Every link
+  now named by a primary-derived source. **No F-flag fires here** (no gate, no dealer loss, no named
+  casualty) — this is FUEL LOAD rising on a pre-mapped chain, filed per the L1042 discipline: measure the
+  fuel, don't assert the fire. The "if growth abates" clause stays in the conditional column.
+
+### 📌 REGISTERED
+1. ⬜ **PIK share + BDC price/NAV, current prints** — the two L150 gauges the WSJ didn't fill. Fetchable.
+2. ⬜ **Software-sector nonaccrual share by fund** — "spread to software" needs its own NUMBER (Q3 filings).
+3. ⬜ **Any named fund actually GATING today** — the Dowd residual; still the fork's live wire.
+4. **Blue Owl outlier test**: next quarter the watchlist moves, or the divergence from Ares/Golub/KKR
+   explains itself (methodology vs book quality).
+
+**Links:** [[cepi]] · [[compression-thesis]] · [[market-fragility]] · [[demand-destruction]] ·
+[[ai-capex-cycle]] · [[metered-compute]] · [[new-economy-regime]]
