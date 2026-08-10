@@ -76,3 +76,7 @@ SemiAnalysis picks paywalled (not reconstructed). **BRK Q2 10-Q was the company 
 
 > ⟲ Update 2026-08-10: the cycle-1 NBIS clash resolver is now DATED — **Nebius reports Wednesday 8/12**
 > (GPU rental price direction on the call). → [[market-fragility]] week-ahead addendum.
+
+> ⟲ Update 2026-08-10 ~11:20am: the NBIS clash gains a THIRD lens before Wednesday's print — a named
+> independent bear series (kakashiii111 Substack) opens with Nebius; NVDA's own ACIE re-segmentation
+> (verified: AI-cloud revenue >3× Y/Y) now frames the sector. → [[ai-financing-fragility]] 8/10 entry.

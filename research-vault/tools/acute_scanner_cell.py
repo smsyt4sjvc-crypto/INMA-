@@ -221,6 +221,7 @@ THREADS = {
                'blue owl','apollo','blackstone','ares','oaktree','diameter','valor','obdc',
                'ig spread','high yield','spread widen','non-accrual','downgrade','issuance',
                'trs','total return swap','13f','situational awareness','aschenbrenner',
+               'acie','nscale','neocloud spv','dwarkesh',
                'coatue','citadel','prime brokerage','prime book','swap position'],
  'POWER':     ['pjm','curtail','grid emergency','turbine','interconnection','smr',
                'behind-the-meter','ofgem','grid access','connection queue','commitment fee',
