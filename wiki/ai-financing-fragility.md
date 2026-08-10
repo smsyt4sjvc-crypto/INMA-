@@ -4087,3 +4087,57 @@ Source: @RealNickMugalli tweet (Jake paste ~1:45pm) quoting the Fink lines.
 - *(sentiment pair, same day, filed)* Fink acknowledging "quite a bit of negativity" while retail is
   incredulous anyone is bearish = **both sentiment poles on tape simultaneously** — the divergence
   texture this note tracks.
+
+### Addendum 2026-08-10 ~2:15pm PDT — HUANG'S HALF OF THE TAPE: $50-60B PER GIGAWATT (the conversion factor), "investable... LONG LIFE" (the load-bearing claim), and "independent" (the tell)
+Source: transcript excerpt, same event as Fink's → `raw/huang-transcript-500b-2026-08-10.md`.
+
+#### DATA (verbatim)
+- **"Each gigawatt is something like 50, 60 billion dollars"** — energy + land + power + shell +
+  computing, all-in. **THE UNIT COST, from the principal — the vault's conversion factor for every
+  big number in this thread.**
+- **The repositioning, explicit:** *"We used to build chips that we sell… technology components…
+  But now, NVIDIA's AI factory platform is really an INVESTABLE ASSET, an infrastructure asset…
+  productive, revenue-generating, FUNGIBLE… broad, deep reach in OFF-TAKERS… investable, LONG LIFE,
+  and productive."*
+- *"Partnerships are going to pull together INDEPENDENT long-term capital"* — vs Fink, same day:
+  NVDA *"bringing all these firms together."* Both on tape.
+- Framing: first platform shift in ~60 years; computer as infrastructure "like electricity, like the
+  internet"; every company powered by it, every country builds it.
+
+#### THESIS (interpretation — NOT fact)
+- *(the conversion factor makes the day's numbers commensurable — arithmetic filed)* At $50-60B/GW:
+  **the "unprecedented" $500B raise ≈ ONE 10-GW Ohio-class project.** MS's $3.5T 2026-28 spend ≈
+  ~64GW. Zelter's >$8T ≈ ~145GW. SemiAnalysis's 40GW+ behind-the-meter by 2028 alone ≈ $2-2.4T.
+  **The raise that stunned the tape this morning funds roughly one flagship campus.** "We did not
+  even start" (Mugalli) is, at this unit cost, arithmetically true — in both directions.
+- *(★★ "LONG LIFE" IS THE LOAD-BEARING CLAIM OF THE ENTIRE $2T PROGRAM — and the claimant controls
+  the obsolescence rate)* Infrastructure capital (Brookfield is IN the consortium) flows to
+  long-duration assets; the pitch words are chosen for that gate. **But the computing part —
+  ~60-70% of the $50-60B/GW — carries 3-6yr economic life, and NVDA itself sets that life via its
+  ANNUAL product cadence.** The same company asking financiers to underwrite GPUs as long-life
+  infrastructure obsoletes GPUs yearly by roadmap. This is [[cepi]]'s depreciation question
+  arriving at the FINANCING layer: the complex spent 2020-2025 stretching useful lives in its
+  ACCOUNTING (the MSFT 15→25y extension signature is a registered test); now the DEBT is being
+  termed out on the same stretched claim. **If GPUs depreciate like technology while the paper
+  amortizes like infrastructure, SPV asset coverage erodes faster than the debt — the Moody's
+  $662B RVG failure mode, stated as a duration mismatch.** THE underwriting crux of the program.
+- *(the "fungible" claim, graded)* True WITHIN a generation (runs every model, every CSP → real
+  secondary market → collateral/repossession value — the RVG logic). **The risk is
+  INTER-generational: fungible across users, obsoleted across generations — and the generation
+  clock is NVDA's own.** Collateral value is a function of the borrower's supplier's roadmap.
+- *(the vocabulary migration IS the financialization)* "Off-takers," "investable asset,"
+  "infrastructure" — power-purchase-agreement language applied to compute. The linguistic packaging
+  is what lets insurance/pension capital hold it (this note's founding pipe). File the words as the
+  mechanism.
+- *("independent" vs "brought together" — the SPV doctrine in one word-pair)* Huang stresses the
+  capital's independence the same day Fink credits NVDA's convening. Both true = the structure:
+  **nominally independent, functionally convened** — the kakashiii SPV thesis, now speakable in the
+  principals' own juxtaposed words.
+#### 📌 REGISTERED
+1. **THE DURATION TEST at first tranche close: the paper's TENOR vs the collateral's generation
+   clock.** 10yr+ debt against GPU-heavy assets = the mismatch is live and priced; short-tenor or
+   power/shell-collateralized = the underwriting respected the split. THE single most informative
+   term to fetch.
+2. $50-60B/GW adopted as the thread's conversion factor (Huang, 8/10) — pending any breakdown of
+   the compute share ⬜.
+3. ⬜ Venue/date-stamp for both transcripts (same interview? CNBC/Bloomberg special?).
