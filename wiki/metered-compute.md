@@ -1992,3 +1992,57 @@ Market Is Oblivious."* The vault had the CLAIM as reported; this is the underlyi
    measurement WINDOW and the token DEFINITION — every derived percentage inherits both.
 2. **Sharpened:** the ~30-day re-read must capture the **"Last edited" stamp** alongside the numbers, so the
    comparison is stamp-to-stamp rather than paste-to-paste.
+
+## 2026-08-10 ~3:20pm PDT — SDLLMTK GETS ITS CHART AND ITS METHODOLOGY: the effective price of intelligence −43% from the May peak — and the WEIGHTING is what makes it profound
+Source: Bloomberg chart via Jake → `raw/sdllmtk-bloomberg-chart-2026-08-10.md`. Methodology checked
+same-hour (Silicon Data product page, CIO, Carmen Li/X): **daily EFFECTIVE PRICE per 1M inference
+tokens, USAGE-WEIGHTED** — blended across a basket covering 95% of trailing SPEND (14-day window).
+**It moves when spend-share MIGRATES, not when price lists change. It is a revealed-preference gauge.**
+
+### DATA (chart-read + methodology)
+- **Last: 1.1635. May 2026 peak ~2.05 → now = −43% in ~10 weeks.** Dec-2025 base ~1.00-1.05 → still
+  **+~14% over 8 months, round-trip shaped**: Dec→May near-DOUBLING, May→Aug collapse.
+- Jan-26 spike ~1.80 → Feb ~1.30 (an earlier mini-cycle of the same shape).
+- Methodology property (Li, on the Dec→May leg): the index **"rose ~76% in five months despite the
+  most aggressive frontier release cadence in history — running against the 'AI is getting cheaper
+  every quarter' narrative… a frontier open-source release only moves the index once it accumulates
+  spend share."**
+
+### THESIS (interpretation — NOT fact)
+- *(★★ the two-regime read — the chart DATES the vault's whole token thread)* **Dec→May: spend
+  CONCENTRATED into premium frontier/reasoning models — effective willingness-to-pay for intelligence
+  nearly doubled** even as list prices fell (usage-weighting captures the premium mix-shift).
+  **May→Aug: the migration REVERSED — real spend share moved to cheap/open-weight models**, and the
+  steepest leg sits exactly on the vault's dated commoditization events (Kimi K3 7/27, DeepSeek
+  cuts). **This is not list-price deflation and not demand contraction: it is REVEALED-PREFERENCE
+  migration, measured daily.** The PINS CEO's fiduciary-default quote (8/10) is this chart in CEO
+  language; the L466 toll-is-model-agnostic conclusion is its winner map.
+- *(★ the Jevons arithmetic is now THE registered test, with numbers)* Blended realized price −43%
+  in a quarter ⇒ **token VOLUME must grow ~75%+ per quarter for aggregate token REVENUE to hold
+  flat.** ⬜ the volume leg (OpenRouter usage totals, provider disclosures) is the decisive fetch —
+  registered. If volume clears the bar: revenue holds and commoditization is the bull case
+  (intelligence too cheap to meter, usage explodes). If it does not: **the lab-revenue pool shrinks
+  while rental input costs hold — the FCF gap today's $2T bridges WIDENS as it is bridged.**
+- *(the underwriting join — the seam-watcher moved TODAY)* The 2:25pm [[detachment-bid]] entry
+  listed token end-demand among the interim's dated seams. **The PRICE leg of that seam is already
+  moving (−43%); the VOLUME leg now decides whether the seam is broken or the bull case is
+  confirmed.** Huang's "productive, revenue-generating… off-takers" and this chart are the same
+  object priced by two different rooms, same day.
+- *(NBIS Wednesday, framed as an input-output pair)* The radar clash asks whether GPU RENTAL prices
+  are rising. **If rentals rise while the output (tokens) deflates 43%, the squeeze concentrates at
+  the LAB layer — precisely the borrowers whose gap the financing bridges.** Wednesday's print now
+  reads both prices at once.
+- *(instrument credibility, filed in its favor)* The index has embarrassed BOTH camps inside one
+  year — ran AGAINST "AI gets cheaper" Dec→May, against "pricing power" May→Aug. A gauge that cuts
+  both ways on schedule is a gauge, not a narrative.
+
+### 📌 REGISTERED
+1. ⬜ **THE VOLUME LEG** — token usage growth vs the ~75%/qtr bar (OpenRouter totals, provider
+   disclosures). Decisive between "Jevons rescue" and "revenue-pool contraction."
+2. **SDLLMTK level → standing Grok/handoff item UPGRADED** (item 10): request level + WoW Δ + any
+   basket-change notes. Current mark: **1.1635 (8/10)**, May peak ~2.05, Dec base ~1.0.
+3. Cross: NBIS Wed (rental-vs-token price pair) · the OpenRouter 30-day re-read (now the volume
+   companion to this price gauge) · CEPI next prints (the revenue side's filings check).
+
+**Links:** [[compression-thesis]] · [[ai-financing-fragility]] · [[detachment-bid]] ·
+[[thesis-radar]] · [[cepi]] · [[memory-regime-question]] · [[data-sourcing-playbook]]
