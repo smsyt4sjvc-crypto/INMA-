@@ -4020,3 +4020,46 @@ note or none — **was his actual point, not a caveat to it.**
 #### 📌 REGISTERED (amended)
 The NVDA Q2 FY2027 four-roles test stands **with the flipped null above**; primary windows reordered:
 CRWV/NBIS this week → rating reports → NVDA commitments Δ → ASC-460 note.
+
+### Addendum 2026-08-10 ~1:40pm PDT — FINK ON TAPE: the convener CONFIRMED, "raise as fast as possible," and the two-ledger rule gets its first live specimen
+Source: transcript excerpt (Jake paste; venue/time unstated ⬜, evidently post-announcement TV today) →
+`raw/fink-transcript-500b-2026-08-10.md`. Speaker = BlackRock CEO, **consortium principal** —
+conflicted-class per the 12:50 rule, read through the 1:00pm two-ledger split.
+
+#### DATA (verbatim claims)
+- **"I applaud what NVIDIA has done BRINGING ALL THESE FIRMS TOGETHER and saying we have a common
+  goal, we need to RAISE 500 billion dollars."** ⇒ from a principal's mouth: **NVDA CONVENED the
+  consortium** (the seller organized its customers' financing), and **$500B is a RAISE TARGET — a
+  fundraising goal, not committed capital.** Ladder rung self-confirmed: ANNOUNCED.
+- **"We're going to have to raise TRILLIONS of dollars over the coming years"** — matches Zelter's
+  >$8T and MS's up-to-$1.5T; the funding side's own aggregate ask is now plural-trillions.
+- **"There is quite a bit of negativity around AI and data centers right now"** — a principal
+  acknowledging the sentiment backdrop WHILE launching the raise (the CDS records, VARA, the BDC
+  strain — the vault's tape, acknowledged from inside).
+- **"We need to raise this money AS FAST AS POSSIBLE."** Urgency, from the arranger class.
+- **Jobs: "even 100 megawatts of a data center requires as much as 3 MILLION HOURS of workers."**
+- "It has to flow through the AMERICAN capital markets" + US-must-lead-in-AI framing throughout.
+
+#### THESIS (interpretation — NOT fact)
+- *(the two-ledger split, applied for the first time in the wild)* **FLOWS ledger: heavily positive**
+  — a principal with the world's largest asset gatherer publicly committing to maximum-speed raising
+  is exactly Jake's "people respond" mechanism operating. **HEALTH/RETURN ledger: zero weight** —
+  "enormous financial opportunity" from the arranger grades nothing. The rule works as designed.
+- *(the jobs number, checked — numbers vs adverbs)* 3M hours ÷ ~2,000 hr/yr ≈ **1,500 job-YEARS per
+  100MW — a CONSTRUCTION-phase number** (arithmetic ✓ plausible for a ~$1-1.5B build). **Frame
+  selection flagged: steady-state DC operations run ~50-150 permanent jobs per 100MW.** Fink cites
+  the build-phase numerator, not the operate-phase one — and the [[compression-thesis]] holds the
+  deeper asymmetry: the CAPEX hires construction labor while the TECHNOLOGY compresses white-collar
+  labor (the productivity/real-comp −3.2% divergence). Both numbers filed; his is not wrong, it is
+  chosen.
+- *(the flag wrapper = the state-backstop leg's rhetorical scaffolding)* "American capital markets" +
+  "imperative the US leads" wraps a private raise in national-security cloth — softening ground for
+  policy support if needed (the submerged-state frame; the radar's Capital Flows leg). A principal
+  pre-building the public-interest case is consistent with BOTH genuine race and future-backstop
+  positioning.
+- *(urgency discipline — WARNING not TRIGGER)* "As fast as possible" from issuers/arrangers is a
+  STATE observation. The vault times nothing from rhetoric; the dated objects remain the first closed
+  tranche and the receiver-side filings (CRWV tomorrow, NBIS Wednesday).
+#### 📌 REGISTERED
+1. ⬜ Interview venue/date-stamp (cheap; likely CNBC/Bloomberg today).
+2. The "negativity" acknowledgment → sentiment ledger: principals now RESPOND to the fragility tape.
