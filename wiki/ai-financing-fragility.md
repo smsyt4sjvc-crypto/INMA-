@@ -3658,3 +3658,49 @@ current source") gets its current source: a filings-derived, same-week analysis.
 
 **Links:** [[cepi]] · [[compression-thesis]] · [[market-fragility]] · [[demand-destruction]] ·
 [[ai-capex-cycle]] · [[metered-compute]] · [[new-economy-regime]]
+
+## 2026-08-10 ~8:35am PDT — 13F FRIDAY (8/14): PRE-REGISTERING WHAT THE BATCH CAN AND CANNOT SHOW ABOUT THE TRS QUESTION
+Jake: *"13Fs due Friday: we learn who else besides Leopold is massively exposed/levered to semis via
+TRS."* Q2 deadline = June 30 + 45 days = **Friday 8/14** ✓. Filed BEFORE the batch so Friday's reads are
+graded against pre-stated mechanics, not hindsight. (TRS = total return swap; SA = Situational Awareness.)
+
+### DATA (disclosure mechanics — statutory, checked)
+- **13F reports Section 13(f) securities ONLY: listed equities, listed options (at underlying share
+  count), convertibles. TOTAL RETURN SWAPS ARE NOT 13(f) SECURITIES AND DO NOT APPEAR — on the fund's
+  filing or anywhere else.** That is the Archegos invisibility mechanism this vault already holds
+  (market-fragility L1937 parallel; L2183: the dealer holds the security, the fund posts margin).
+- **The post-Archegos fix DIED: SEC proposed Rule 10B-1** (large security-based-swap position reporting,
+  proposed 12/2021, bifurcated + comment period reopened 6/2023) **was never adopted and was FORMALLY
+  WITHDRAWN in 2025** (checked 8/10: Jones Day 6/2023 "…but not proposed Rule 10B-1"; withdrawal 2025).
+  **⇒ There is NO public swap-position disclosure regime. "Who else is swap-levered" is structurally
+  invisible in filings — same as 2021.**
+- **Timing: the batch is a JUNE 30 snapshot, 45 days stale** — it predates the late-Jun→Jul de-gross,
+  SA's ~7/30 block sale, and the 7/28 CDS breakout. **Q2 13Fs = the near-peak BEFORE photo.**
+- **Citadel's Q2 13F will NOT contain the SA book** (bought late July, after the snapshot date). It
+  prints in the Q3 filing (~11/16). **Pre-stated so its absence Friday is not misread as a mystery.**
+- **SA's own Q2 13F (if filed) = the last full photo of the book Citadel bought** — the long-listed side
+  only; any swap overlay invisible per the above.
+
+### THESIS / THE FRIDAY READ PROTOCOL (what the batch CAN yield — analysis)
+1. **DEALER 13Fs are the one legible TRS footprint.** The hedge leg of a client swap sits on the
+   dealer's balance sheet as long stock, and dealers file (Goldman, MS, UBS, JPM entities). **Q/Q change
+   in dealer holdings of the F8-cohort names (CRWV, NBIS, CORZ, APLD, IREN, WULF) + top semis ≈
+   aggregate swap-financing demand — client-anonymous, and noisy** (market-making + ETF plumbing mix
+   in). Read the DELTA, not the level. **The real measurement is Q3-vs-Q2 (the unwind print), in
+   November** — Friday sets the baseline.
+2. **Option-notional leverage IS visible** — calls report at underlying shares. "Who else is levered"
+   is answerable Friday for the OPTIONS cohort, never the swap cohort.
+3. **SA's filing vs the reported ~$16B block** — line-item the before photo.
+4. **Burry's Q2 puts** — the "goes bigger" headline (8/1, sizing unverified) gets dated and sized.
+5. **What Friday CANNOT do: name a single swap-levered fund.** The instrument named in the ask is the
+   one class the form excludes — which is WHY "who else" stayed unknowable in 2021 until dealer losses
+   printed. **F8's open dealer leg remains the hard-way disclosure channel; a dealer's own loss
+   announcement is how a swap book becomes public.**
+
+### 📌 REGISTERED
+1. **Fri 8/14 batch** → run the protocol above; file dealer-Δ baseline for the November comparison.
+2. **Q3 13F (~11/16): the dealer unwind print** — the actual TRS-footprint measurement.
+3. ⬜ Whether SA files a Q2 13F at all (a wound-down adviser may file late or seek confidential treatment).
+
+**Links:** [[market-fragility]] (L1937 Archegos symmetry, L2453 re-gross) · [[thesis-radar]] ·
+[[cepi]] · [[memory-regime-question]] (the 62% BOM join — dealer semis inventory is the same names)
