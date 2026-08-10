@@ -3788,3 +3788,63 @@ without them. They're a buyer of their own customers."* Sharpened against what t
   owns/finances/backstops?** Partially fetchable: 10%-customer concentration disclosures, related-party
   notes, the CRWV/NBIS filings' NVDA-relationship sections, analyst neocloud-mix estimates. The morning's
   $500B program — if NVDA participates — grows this share by construction.
+
+## 2026-08-10 ~11:20am PDT — THE SNIPPET DELIVERS THREE OBJECTS: Huang's quote gets its venue, NVDA's OWN 50/50 re-segmentation surfaces (⛔ missed since May), and "renting to each other" hardens the Lucent test
+Source: kakashiii111.substack.com neocloud-series intro (paywalled; public intro) →
+`raw/kakashiii-neocloud-series-intro-2026-08-10.md`. Author: unknown independent. Chart sourced to NVDA
+Q1 FY2027 results — **numbers verified same-hour against the actual release (below).**
+
+### DATA (observed)
+- **The 10:45 addendum's ⬜ CLOSES: Huang, April 2026, Dwarkesh Patel interview** (as quoted; public
+  interview, ⬜ verbatim-check cheap): *"If we didn't support CoreWeave to exist… these AI clouds wouldn't
+  exist… If we didn't support Nebius, they wouldn't be what they are today."* And the portfolio doctrine:
+  *"Don't pick winners. Either let them all take care of themselves, or take care of all of them."*
+- **⛔ VAULT GAP, admitted loudly: NVIDIA re-segmented Data Center revenue at the Q1 FY2027 print
+  (reported 2026-05-20) into TWO customer market platforms — and the vault had ZERO coverage for ~2.5
+  months** (grep: no ACIE, no "customer market platform" anywhere). This morning's affiliated-revenue
+  fetch had its envelope sitting in NVDA's own disclosures the whole time.
+- **VERIFIED (NVIDIA release/commentary, checked 8/10):** Q1 FY2027 DC revenue **$75.2B** (+92% Y/Y):
+  **Hyperscale ~$38B (~50% of DC, +12% Q/Q)** = public clouds + largest consumer-internet companies;
+  **ACIE ~$37B (+31% Q/Q), with AI-CLOUD revenue inside it MORE THAN TRIPLING Y/Y.** ACIE = "AI
+  purpose-built data centers and AI factories across industries and countries." (Chart's $37.9/$37.4 ≈
+  the company's ~$38/$37 rounding.)
+- Author's five structural observations (attributed, per-name ⬜): NVDA-exclusive racks · leased
+  facilities + project JV-SPVs ("why carry that debt directly if it can sit outside") · crypto-veteran
+  origins · **1-3 customer concentration where the customer is a hyperscaler renting onward to the same
+  lab OR ANOTHER NEOCLOUD — "many are renting to each other"** · MOU/terminable-deal revenue promises.
+- Series opens with **NEBIUS — which reports WEDNESDAY 8/12** (the radar resolver date).
+
+### THESIS (interpretation — NOT fact)
+- *(the growth attribution is the datum, not the 50/50)* Half the DC business being non-hyperscale is
+  the level; **the marginal dollar is the story: ACIE growing 2.6× hyperscale's rate Q/Q, and its
+  fastest slab (AI clouds, >3× Y/Y) is exactly where the SPV/support structure lives.** The author's
+  tell (re-segmenting to feature the category meant to carry growth) and the neutral read (transparency)
+  both stay filed — but either way, **NVDA's growth story now runs through the channel it
+  finances/owns/backstops.** ⚠️ ACIE ≠ affiliated: it bundles genuine industrial/enterprise/sovereign —
+  **ACIE is the UPPER BOUND on the circular slice; ⬜ the intra-ACIE mix is the sharpened fetch.**
+- *(★ "renting to each other" hardens the 10:45 separating test)* The Lucent test was "third-party cash
+  revenue covering cost of capital." **If neocloud customers are hyperscalers renting onward to the same
+  labs, or other neoclouds re-renting, then CUSTOMER revenue can be intra-complex — the same GPU-hour
+  booked at multiple hops.** The test hardens to: **END-DEMAND tokens sold to non-circular buyers.
+  Utilization can be laundered through a rental chain; token receipts cannot.** [[metered-compute]] owns
+  that measurement — the OpenRouter/SDLLMTK series just became the neocloud sector's solvency gauge.
+- *(series-scope discipline)* The re-segmentation makes NVDA's DC revenue history non-comparable across
+  the split without restatement — same alarm class as Nabtesco's discontinued segment. Any "hyperscaler
+  share of NVDA revenue" claim now needs a WHICH-SEGMENTATION stamp.
+- *(the Wednesday convergence — three lenses, one print, pre-stated)* NBIS Wednesday now carries: the
+  radar's CoBF bull (rental prices rising) vs HN bear ($6.3B funding gap in circular financing) vs this
+  named bear series opening on it. **The print's read: rental $/GPU-hr direction · customer concentration
+  disclosure · funding math vs the $6.3B claim · any NVDA-relationship line items.**
+- *(source discipline)* Independent author, body paywalled, thesis-motivated ("acknowledged MY thesis" =
+  victory-lap risk). The Huang quotes and the segment numbers are the checkable spine — quotes ⬜ against
+  the public interview; numbers ✓ verified against the release. Claims kept, framing attributed.
+
+### 📌 REGISTERED
+1. ⬜ **Intra-ACIE mix** (AI-cloud vs industrial vs enterprise slabs) — the sharpened affiliated-revenue
+   fetch; NVDA's next print (Q2 FY2027, ~late Aug) may quantify it again.
+2. **NBIS Wednesday: the three-lens read above.**
+3. ⬜ Huang/Dwarkesh verbatim check (public interview; cheap).
+4. ⬜ The paywalled Nebius deep-dive — handoff fetch if wanted.
+
+**Links:** [[cepi]] · [[metered-compute]] · [[compression-thesis]] · [[market-fragility]] ·
+[[memory-regime-question]] · [[thesis-radar]] · [[ai-capex-cycle]]
