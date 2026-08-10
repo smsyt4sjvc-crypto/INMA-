@@ -73,3 +73,6 @@ SemiAnalysis picks paywalled (not reconstructed). **BRK Q2 10-Q was the company 
 
 **Links:** [[data-sourcing-playbook]] · [[ai-financing-fragility]] · [[memory-regime-question]] ·
 [[demand-destruction]] · [[market-fragility]] · [[cepi]] · [[buildout-bottleneck-map]]
+
+> ⟲ Update 2026-08-10: the cycle-1 NBIS clash resolver is now DATED — **Nebius reports Wednesday 8/12**
+> (GPU rental price direction on the call). → [[market-fragility]] week-ahead addendum.

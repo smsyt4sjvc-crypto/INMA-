@@ -1732,3 +1732,9 @@ Source: `raw/grok-sweep-digest-1-2026-08-09.txt` (items 2-4).
 - **REFUNDING CALENDAR CONFIRMED WITH SIZES: $58bn 3Y Tue 8/11 · $42bn 10Y Wed 8/12 · $25bn 30Y Thu
   8/13** ($125bn quarterly refunding). The vault's registered 8/13 test now has its two lead-in auctions
   named — **the 3y and 10y are the rehearsal reads for Thursday's registered thresholds.**
+
+> 📌 LEDGER one-liner 2026-08-10 ~8:05am PDT (DB week-ahead via `raw/zh-db-gs-week-ahead-2026-08-10.pdf`):
+> Araghchi calls Oman corridor talks **"final stages"** — but **"any technical agreement on shipping routes
+> would not by itself lead to a full reopening."** ⇒ the registered corridor tests must distinguish a
+> TECHNICAL-corridor signing from REOPENING (sanctions/compensation/warship demands still attached) — a
+> signed corridor ≠ the fee holiday ≠ Hormuz open. Brent +0.8% this morning. [[demand-destruction]]
