@@ -2,7 +2,10 @@
 
 Commissioned 2026-08-10 ~10:35am PDT, Jake's spec: *"an explicit mag7 + Oracle, SpaceX, Broadcom and
 hyperscaler financial branch. We need to know exactly what their sheets are, how they're evolving, and
-contrast with off-sheet, CDS, bonds and PCs [purchase commitments]. Start in 2023."*
+contrast with off-sheet, CDS, bonds and SPVs. Start in 2023."* *(Spec corrected by Jake 8/10:
+autocorrect had turned "SPVs" into "pcs" — the first draft read it as purchase commitments. The PC
+ledger below STAYS — it earned its place on the first pull ($183B META, $128B AVGO, the $811B scope
+trap) — but SPVs are the explicit fourth contrast layer, now a per-name ledger of their own.)*
 
 **How this branch runs:** `tools/balance_sheet_ledger_cell.py` (EDGAR XBRL, free, no key — Colab or
 in-session) prints the ON-SHEET quarterly series 2023→latest per name; this board holds the summary,
@@ -57,8 +60,17 @@ are designed as a pair. Full run output: `raw/sheets-ledger-run-2026-08-10.txt`.
 - **Purchase commitments, TEXT-note scope (⚠️ NOT comparable to the XBRL tags):** GOOGL **$811B total
   contracted commitments** (+$500B in Q2 alone — L691) vs its $76B XBRL tag = **the tag captures ~9% of
   the text-note total. NEVER sum XBRL PC tags as "the commitments."** MSFT/TSLA don't tag at all.
-- **SPVs/RVGs:** Meta-Hyperion + BlackRock SPV bonds (🚩 L3332 where-do-they-trade fetch still open);
-  the $662B RVG/Moody's item; "$1.65T SPV debt" claim UNVERIFIED (radar).
+- **SPVs — the per-name ledger (the explicit fourth layer; by construction the LEAST visible — an
+  SPV's job is to not be on the sheet, so this ledger is disclosed-instances + registered fetches):**
+  | name | known SPV/JV structures (vault-sourced) | status |
+  |---|---|---|
+  | META | **Hyperion-class DC JVs** (Blue Owl et al.); BlackRock/Meta SPV BONDS exist and trade somewhere (🚩 L3332 fetch OPEN) | disclosed pattern; terms partial |
+  | ORCL | **Stargate-class JV exposure** (w/ OpenAI/SoftBank) — the on-sheet shadow is the lease explosion (op 0→30, fin 0→8) | structure ⬜ (JV vs SPV vs lease commitments) |
+  | NVDA | **the neocloud class as de-facto demand-SPVs** (8/10 entry: Huang's portfolio doctrine; "independently capitalized, independently indebted") + project JV SPVs INSIDE neoclouds | thesis + disclosed stakes; per-vehicle debt ⬜ |
+  | MSFT | apparently the OPPOSITE route — on-sheet finance leases 16→67 substitute for SPVs | ⬜ verify no material JV vehicles |
+  | AMZN / GOOGL / AVGO / AAPL / TSLA / SPCX | ⬜ no vault-documented SPV structures yet — absence of coverage, NOT absence of vehicles | fetch |
+  Complex-wide claims held: **$662B off-B/S w/ RVG failure mode (Moody's)** · **"$1.65T SPV debt"
+  (UNVERIFIED, radar — stays REPORTED-class)** · funding-ladder steps 2-3 (private credit/SPV → ABS/RVG).
 - **The $500B FT program (8/10, announced-class)** — would sit in NONE of these lines until tranches
   close. Ladder rung: ANNOUNCED.
 
