@@ -226,6 +226,7 @@ THREADS = {
                'ig spread','high yield','spread widen','non-accrual','downgrade','issuance',
                'trs','total return swap','13f','situational awareness','aschenbrenner',
                'acie','nscale','neocloud spv','dwarkesh','venture capital','venture debt','vc fund','venture round',
+               'dsx','residual value','gpu-hour','investable asset',
                'coatue','citadel','prime brokerage','prime book','swap position'],
  'POWER':     ['pjm','curtail','grid emergency','turbine','interconnection','smr',
                'behind-the-meter','ofgem','grid access','connection queue','commitment fee',
@@ -336,7 +337,7 @@ ROUTE = {
 #   verb forms far more than base forms. (3 of 14 offline unit-test cases failed before this fix.)
 STRICT = {'spr','cds','bdc','spv','hbm','pjm','smr','irgc','dram','nand','lng','cpc','smic',
           'yen','jpy','boj','dxy','ueda','mof','qt','sep','bls','nrc','smm','eia','rrp','mjda',
-          'wti','glm','tpu','fcc','krx','idf','trs','13f'}
+          'wti','glm','tpu','fcc','krx','idf','trs','13f','rvg'}
 def _pat(k):
     return re.compile(r'\b'+re.escape(k)+(r's?\b' if k in STRICT else r'\w{0,3}\b'), re.I)
 PATS = {th: [_pat(k) for k in ks] for th, ks in THREADS.items()}

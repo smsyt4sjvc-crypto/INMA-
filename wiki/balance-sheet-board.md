@@ -66,7 +66,7 @@ are designed as a pair. Full run output: `raw/sheets-ledger-run-2026-08-10.txt`.
   |---|---|---|
   | META | **Hyperion-class DC JVs** (Blue Owl et al.); BlackRock/Meta SPV BONDS exist and trade somewhere (🚩 L3332 fetch OPEN) | disclosed pattern; terms partial |
   | ORCL | **Stargate-class JV exposure** (w/ OpenAI/SoftBank) — the on-sheet shadow is the lease explosion (op 0→30, fin 0→8) | structure ⬜ (JV vs SPV vs lease commitments) |
-  | NVDA | **the neocloud class as de-facto demand-SPVs** (8/10 entry: Huang's portfolio doctrine; "independently capitalized, independently indebted") + project JV SPVs INSIDE neoclouds | thesis + disclosed stakes; per-vehicle debt ⬜ |
+  | NVDA | **the neocloud class as de-facto demand-SPVs** (8/10 entry: Huang's portfolio doctrine; "independently capitalized, independently indebted") + project JV SPVs INSIDE neoclouds | **SELF-DISCLOSED 8/10: RVG support "up to 25% of an opportunity," project-by-project — envelope ≤$125B at cap; aggregate ⬜ per 10-Q** |
   | MSFT | apparently the OPPOSITE route — on-sheet finance leases 16→67 substitute for SPVs | ⬜ verify no material JV vehicles |
   | AMZN / GOOGL / AVGO / AAPL / TSLA / SPCX | ⬜ no vault-documented SPV structures yet — absence of coverage, NOT absence of vehicles | fetch |
   Complex-wide claims held: **$662B off-B/S w/ RVG failure mode (Moody's)** · **"$1.65T SPV debt"
