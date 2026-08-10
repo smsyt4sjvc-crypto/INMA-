@@ -71,6 +71,17 @@ are designed as a pair. Full run output: `raw/sheets-ledger-run-2026-08-10.txt`.
   | AMZN / GOOGL / AVGO / AAPL / TSLA / SPCX | ⬜ no vault-documented SPV structures yet — absence of coverage, NOT absence of vehicles | fetch |
   Complex-wide claims held: **$662B off-B/S w/ RVG failure mode (Moody's)** · **"$1.65T SPV debt"
   (UNVERIFIED, radar — stays REPORTED-class)** · funding-ladder steps 2-3 (private credit/SPV → ABS/RVG).
+  **⛔ ROUTING RULE (Jake, 8/10: "the vault should already have an extensive branch on SPVs and
+  off-balance-sheet debt" — IT DOES):** [[ai-financing-fragility]] IS that branch — the FUNDING side of
+  the pipe: who originates and HOLDS the SPV paper (Blackstone/Blue Owl/Apollo/PIMCO/BlackRock
+  origination L12 · the funding-migration ladder L194 · the PE-insurance capture mechanics L952-1042:
+  five extraction channels, 36 PE-affiliated insurers, Apollo/Athene archetype, Bermuda shadow
+  reinsurance >90% of new fixed-annuity shadow cover, RBC/ratings arbitrage, the guaranty-fund→taxpayer
+  backstop that can fire QUIETLY · MS ~$800B-to-50% funding need L62 · the BDC gauges L150 + the 8/10
+  WSJ strain entry L3595). **THIS board holds the ISSUER side only** — which of the 10 names uses which
+  vehicle and what shadow it casts on their sheet. New SPV-structure facts → here; new facts about who
+  FUNDS/HOLDS/prices the paper → [[ai-financing-fragility]]. Two ends of one pipe; never duplicate
+  (the 8/8 duplicate-note rule).**
 - **The $500B FT program (8/10, announced-class)** — would sit in NONE of these lines until tranches
   close. Ladder rung: ANNOUNCED.
 
