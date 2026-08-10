@@ -88,6 +88,7 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 - [[growth-ignition-anatomy]] — the starts of 3x runs dissected vs control (capitulation not breakout; RSI 28/below-200SMA/relvol 121%; 200-SMA reclaim day ~44; base rate 18% vs 10%)
 - [[deep-value-reclaim]] — Jake's screen: furthest under 200-SMA + reclaimed 20-SMA (21% CAGR but survivorship-flattered, worse Sharpe than SPY; the 20-day filter is the finding)
 - [[dip-buying-base-rates]] — the ruler for adding on weakness (war down-day + weekend base rates + ATH-drawdown ruler; SPY/QQQ)
+- [[balance-sheet-board]] — ⭐ THE SHEETS BRANCH (Jake 8/10): mag7+ORCL+AVGO+SPCX on-sheet vs off-sheet vs CDS, 2023→ (EDGAR ledger cell; ~$356B stake web; spenders already net-negative)
 - [[who-gets-paid-12m]] — the next-12-months synthesis
 - [[cluster-shortlist-workup]] — E-path workup on the 15 names
 - [[quiet-health-screen]] — value × health × no-story
