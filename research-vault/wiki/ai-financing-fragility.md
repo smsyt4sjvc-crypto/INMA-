@@ -3756,3 +3756,35 @@ participants, structure, timeframe, and what the $500B COUNTS are all ⬜ unknow
 
 **Links:** [[cepi]] · [[market-fragility]] · [[compression-thesis]] · [[memory-regime-question]] (the
 62% BOM: the financed purchases are majority-memory) · [[detachment-bid]] · [[thesis-radar]]
+
+### Addendum 2026-08-10 ~10:45am PDT — JAKE CLOSES THE CIRCLE ON THE $500B ENTRY: NVDA's FOUR ROLES against one counterparty set
+Jake: *"Nvidia is the seller and buyer. Huang already stated CoreWeave and Nebius would [not] exist
+without them. They're a buyer of their own customers."* Sharpened against what the vault holds:
+
+- **The circle is documented, not speculative — L517 states it verbatim** (*"neoclouds raise debt → buy
+  NVDA → NVDA invests in the neoclouds that buy from it"*), and L195's ladder has *"vendor financing
+  (NVDA stakes = already live)"* at step 4. Jake's frame is the vault's frame.
+- **But it is FOUR roles, not two, and each has an anchor:** **(1) SELLER** of the chips; **(2)
+  SHAREHOLDER** of the buyers (CRWV pre-IPO stake; NBIS round participation — L517/L97);
+  **(3) GUARANTOR** — the guarantee thread (NVDA "in talks" to back OpenAI Ohio ~$250B) + the
+  AMD-Anthropic LEASE-BACKSTOP template (L676: *"backstops are the CONDUIT that turns correlated
+  counterparties into one node's lease is another's liability"*); **(4) CUSTOMER OF ITS CUSTOMERS** —
+  NVDA committing to buy/rent capacity BACK from neoclouds (⚠️ from memory, REPORTED-class, not yet
+  vault-verified: the 2023 CRWV capacity commitment and a reported ~$6.3B order backstop — 🚩 fetch).
+  **Seller + shareholder + guarantor + customer, one counterparty pair. Demand, financing, and the
+  safety net all originate at the same node.**
+- *(the Huang quote, evidence-graded)* "Wouldn't exist without us" is real-in-class (Huang has said
+  versions publicly; exact venue unverified here ⬜). **It cuts both ways: an admission of dependency AND
+  the standard platform-seeding claim** — Microsoft seeded its ISVs; seeding is not automatically
+  pathological. What distinguishes seeding from Lucent is scale-vs-revenue and the DEBT inside the loop.
+- *(the historical anchor, both directions held)* **Lucent/Nortel 1999-2001 is the canonical vendor-
+  financing blowup**: equipment makers financed carrier customers; when carriers died, receivables became
+  losses and the financed revenue was retroactively fictitious demand. **Differences that matter:** NVDA
+  finances from fortress cash (Lucent from leverage), and end-demand (tokens) is measurably real and
+  growing. **The separating TEST, stated once: does the financed capacity generate THIRD-PARTY cash
+  revenue covering its cost of capital?** That is the token-economics thread's job ([[metered-compute]],
+  OpenRouter re-read) and [[cepi]]'s question at one remove.
+- 🚩 **THE MEASURABLE OBJECT, registered: what % of NVDA revenue traces to counterparties NVDA
+  owns/finances/backstops?** Partially fetchable: 10%-customer concentration disclosures, related-party
+  notes, the CRWV/NBIS filings' NVDA-relationship sections, analyst neocloud-mix estimates. The morning's
+  $500B program — if NVDA participates — grows this share by construction.
