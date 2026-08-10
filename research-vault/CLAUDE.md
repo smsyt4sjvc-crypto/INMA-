@@ -38,6 +38,11 @@ duplicate note) · the **🔴 open items** the inbound might close.
    and the container is ephemeral, so an "idle" agent cannot survive between sessions anyway).
 4. **A NO MATCH from the router with sweep hits = a MAP GAP. Fix the map in the same turn** (three
    layers: concepts / entities / measures — see the THREAD MAP block in `tools/acute_scanner_cell.py`).
+5. **DEBT / PRIVATE-CREDIT / VC / OFF-SHEET / EARNINGS inbounds cross-check BOTH SIDES OF THE PIPE**
+   (Jake, 8/10): [[ai-financing-fragility]] = the FUNDING side (who holds/prices the paper — private
+   credit → insurance → Bermuda) and [[balance-sheet-board]] = the ISSUER side (whose sheet, which
+   vehicle). The router now prints BOTH briefs on any FINANCING/SHEETS/CAPEX match — read both before
+   filing; file to ONE per the board's ⛔ routing rule, cross-link the other.
 
 ### WRITING RULES
 5. **Firewall**: DATA (observed, sourced) and THESIS (interpretation, attributed) never blend. When in
