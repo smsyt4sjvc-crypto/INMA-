@@ -83,7 +83,15 @@ are designed as a pair. Full run output: `raw/sheets-ledger-run-2026-08-10.txt`.
   FUNDS/HOLDS/prices the paper → [[ai-financing-fragility]]. Two ends of one pipe; never duplicate
   (the 8/8 duplicate-note rule).**
 - **The $500B FT program (8/10, announced-class)** — would sit in NONE of these lines until tranches
-  close. Ladder rung: ANNOUNCED.
+  close. Ladder rung: ANNOUNCED. **Consortium named same-day (FT via ZH): Apollo, Blackstone,
+  BlackRock, Brookfield, Goldman, KKR** → [[ai-financing-fragility]] 12:35pm addendum.
+- **⭐ THE COMPLEX-WIDE OFF-SHEET SIZING ARRIVES (FT's Wigglesworth, 8/10 5:46am tweet): US hyperscalers
+  have signed ~$1 TRILLION of lease commitments that DO NOT APPEAR in their financial data, plus ~$1T
+  of future purchase commitments.** Join to the ledger: the board's VISIBLE lease liabilities sum to
+  ~$300B — **the $1T is the signed-not-yet-commenced layer, the MSFT-vs-META disclosure fork sized for
+  the whole complex.** ⚠️ SCOPE TENSION held: GOOGL's text-note total alone is $811B (L691 scope =
+  "contracted future spending commitments") vs FT's ~$1T complex-wide PC figure — the definitions
+  differ; ⬜ the FT article behind the tweet is the reconciling fetch.
 
 ## THESIS (interpretation — NOT fact)
 - *(the composition IS the fragility read)* The complex's +$129B aggregate NET is **one company's

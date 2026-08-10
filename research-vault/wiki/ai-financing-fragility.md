@@ -3848,3 +3848,45 @@ Q1 FY2027 results — **numbers verified same-hour against the actual release (b
 
 **Links:** [[cepi]] · [[metered-compute]] · [[compression-thesis]] · [[market-fragility]] ·
 [[memory-regime-question]] · [[thesis-radar]] · [[ai-capex-cycle]]
+
+### Addendum 2026-08-10 ~12:35pm PDT — THE $500B FETCH RETURNS SAME-DAY (ZH full piece, Jake upload): CONSORTIUM NAMED — and the framing split between FT's words and ZH's matters
+Source: `raw/zh-nvda-500b-spv-consortium-2026-08-10.pdf` (ZH, 11:52am ET, reporting the FT story "six
+people briefed"). ⟲ Extends the 9:40am entry above (L3708). **⚠️ Artifact: ZH-about-FT — the FT primary
+is STILL unread; FT-attributed facts below are one hop from primary, ZH glosses are labeled.**
+
+#### DATA (observed)
+- **THE CONSORTIUM (FT-attributed): Apollo, Blackstone, BlackRock, Brookfield, Goldman, KKR — a
+  "$500bn funding package for AI infrastructure development... the biggest AI lending effort to date
+  of any kind."** vs this note's L12 origination list: Apollo/Blackstone/BlackRock carried over;
+  **Brookfield, Goldman, KKR new; Blue Owl and PIMCO absent.**
+- **FRAMING SPLIT, held per the evidence ladder:** FT's quoted language = *"partnership"* / *"funding
+  package"* / *"invest in the AI build-out."* **"Off-balance-sheet SPV deal" is ZH's characterization**
+  — no vehicle structure, tranche, or capital split is disclosed anywhere in the piece. **Ladder rung
+  UNCHANGED: ANNOUNCED.** The first closed tranche remains the FID test.
+- **Tape attribution corroborated:** NVDA *"slid as much as 2% on the FT report, wiping out more than
+  $70bn in market capitalisation."* The registered sign-flip test still grades at THE CLOSE.
+- **The Ohio guarantee gets a spec:** NVDA "in talks to provide a massive guarantee for a **10-gigawatt**
+  data centre project in Ohio leased to OpenAI" (prior vault: ~$250B in-talks). Role-3 corroborated the
+  same day roles 1-2-4 were quantified on the board.
+- **Apollo's Zelter, earnings call: ">$8tn of capital expected to be invested"** in the buildout — the
+  funding side's own sizing; MS: hyperscalers $3.5T 2026-2028.
+- **ZH self-cites a ~June piece: "The $1.8 Trillion Off-Balance-Sheet Time Bomb"** — ⬜ registered as
+  the CANDIDATE ORIGIN of the radar's unverified "$1.65T SPV debt" claim family (the numbers are close, likely the same family, different snapshot — reconcile via fetch).
+- **ZH's FCF chart claim ("only MSFT has positive free cash flow now") CHECKED against [[cepi]]'s own
+  table (rule 10):** Q2 OCF/C — MSFT 1.34 ✓ clearly positive · **META 1.06 = marginally positive
+  AS-DISCLOSED (biased HIGH by undisclosed leases — the ceiling caveat)** · GOOGL 0.86, AMZN 0.83,
+  ORCL 0.81, SPCX 0.13 all negative. **ZH's chart is directionally OUR instrument's finding, slightly
+  overstated on META.** Convergent, independently derived.
+- ZH's open-weight kicker ("FCF hockeystick never happens if open-weight wins") = the vault's 9:55am
+  PINS pairing, arrived at independently. Related-links noted: "Intel selling $15B in stock to fund AI."
+
+#### THESIS (interpretation — NOT fact)
+- *(the consortium composition is the WSJ-pairing with names)* The anchors of the $500B are the SAME
+  manager class whose listed BDC books printed five-year-high nonaccruals two days ago (L3595) and
+  whose retail vehicles face redemptions. **"Retail exits, institutions double down" now has a roster.**
+  And the long-both-sides statement compounds: these managers would add datacenter-leg exposure at
+  maximum scale while the legacy leg deteriorates.
+- *(what would move the ladder rung)* Vehicle structure + first closed tranche + whose balance sheet
+  holds what. Until then this is the state-backstop leg's PRIVATE version (the radar's Capital Flows
+  contradiction) — or fragility syndicated wider. Both live; the FT primary is the fetch that starts
+  deciding.
