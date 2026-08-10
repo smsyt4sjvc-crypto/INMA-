@@ -846,3 +846,57 @@ first noted in May" is a self-citation — one origin.**
 
 **Links:** [[ai-capex-cycle]] · [[market-fragility]] · [[compression-thesis]] · [[cepi]] ·
 [[ai-infra-allocation-map]] · [[buildout-bottleneck-map]] · [[thesis-radar]]
+
+### 2026-08-10 ~10:25am PDT — SKH −15% ON THE WEEK: the thrifting signal PRICED, Jake's capex template FIRED, and three dated catalysts land by Sep-end
+Source: JPM "SK hynix: Addressing key investor questions" (excerpt via screenshot) →
+`raw/jpm-skh-investor-questions-2026-08-10.md`. ⚠️ Artifact: a partial sell-side excerpt defending a
+covered name post-crash; factual corrections kept, the "worst is behind us" soothe is posture, not data.
+
+#### DATA (observed — JPM as excerpted)
+- **SKH −15% this week vs Kospi −5% and Samsung −9%.** Context on file: SKH printed **+29.95% (0.05pp off
+  the KRX limit) ~8/1** at 1,718,000 KRW — **limit-up to −15%-week inside ~seven sessions.**
+- The three named drivers: **(1) HBM content cut + pricing uncertainty** ("50% discount headlines"
+  circulating — JPM calls them inaccurate; ⬜ whether the 50% claimed CONTENT cut or PRICE discount is
+  unstated); **(2) unclear shareholder-return timing while potentially seeking a SUBSIDIARY IPO**;
+  **(3) a sizable infrastructure capex plan** — JPM: fab-space securing toward **1mn-wafer capacity by
+  2030E**.
+- **Dated catalysts (JPM's list): shareholder-return update by SEP-END · HBM CONTRACT PRICE update by
+  SEP-END · US subsidiary listing plan update within ~ONE MONTH.** ⬜ which subsidiary is unnamed.
+
+#### THESIS (interpretation — NOT fact)
+- *(★ the thrifting signal is now PRICED — the vault's sequence held)* L707 (8/6) filed NVDA's
+  Rubin-Ultra "less HBM" deliberation as *"the demand side engineering around the price, aimed at the
+  PROTECTED tier."* **Four days later the most HBM-levered supplier on earth is −15% on "HBM content
+  cut" headlines.** The deliberation alone — no published spec yet (the L735 test remains open) — moved
+  the price. And this morning's 62%-BOM entry supplies the WHY: **when memory is ~5/8 of the flagship's
+  cost, content cuts are the platform's counterattack in the margin war. SKH's week is the first
+  casualty print of that war.**
+- *(Jake's own 7/22 template fired, third instance)* Compression-thesis L527: *"Memory capex fear =
+  future GLUT (supply-side self-harm)… a blowout sells because the guide signals the next down-cycle."*
+  Driver (3) is exactly it — **the 1mn-wafer-by-2030 plan is the SUPPLY-RESPONSE leg of the fork**
+  (the Korea-$585B/HN-branch read) **disclosed by the maker itself, and the stock did what the template
+  says.** JPM's bullish "securing fab space" frame and the glut read describe the SAME capex.
+- *(the whiplash is itself the datum)* Limit-up to −15% in ~seven sessions = **fork-unresolved variance:
+  a name priced simultaneously for walled-scarcity and glut swings violently on each new input.** The
+  fast money's memory re-gross refusal (~1/8 restored, 8/9) looks prescient this week — the refused
+  theme delivered the drawdown.
+- *(the US subsidiary listing is a NEW object — paper supply into the boom)* Interacts with two filed
+  threads: the SKHY ADR premium mechanics (radar corrections — new US paper changes the scarcity
+  premium) and the **listing-cluster texture** (CXMT debut, SPCX — memory adding US listings at the
+  top of its pricing cycle is supply of PAPER arriving with supply of WAFERS). ⬜ subsidiary unnamed;
+  Solidigm-class NAND unit vs a US fab entity are different stories.
+- *(⭐ the Sep-end HBM CONTRACT PRICE update is the fork's next HARD input)* Registered tests to date
+  are mostly indirect (lock-in terms, derivatives, re-gross ratios). **A published contract-price
+  update from the HBM leader is a direct measurement: firm/up = walled holds despite thrifting;
+  down/concessions = the content-cut pressure is transmitting into PRICE and the protected tier is
+  cracking.** Dated, company-confirmed-class, ~7 weeks out.
+
+#### 📌 REGISTERED
+1. **Sep-end: SKH HBM contract price update** — the fork's next direct measurement (with the Micron
+   lock-in TERMS fetch feeding the same question from the buyer side).
+2. **Sep-end: shareholder-return update · ~1 month: US subsidiary listing plan** (⬜ which subsidiary).
+3. ⬜ What the "50% discount headlines" actually claimed (content vs price) — cheap fetch, disciplines
+   the L735 spec test when it lands.
+
+**Links:** [[market-fragility]] (re-gross) · [[compression-thesis]] (L527 template) ·
+[[ai-capex-cycle]] · [[cepi]] · [[thesis-radar]] (SKHY corrections) · [[buildout-bottleneck-map]]
