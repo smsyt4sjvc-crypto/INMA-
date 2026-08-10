@@ -2574,6 +2574,7 @@ condition; extends [[new-economy-regime]]'s 8/7 goods-price-case test.
 **Links:** [[new-economy-regime]] · [[detachment-bid]] · [[ai-financing-fragility]] ·
 [[demand-destruction]] · [[war/war-board]] · [[cepi]] · [[memory-regime-question]] · [[portfolio-state]]
 
+  ⟲ EXTENDS market-fragility.md:L1928 (2026-08-10) — VARA -44% July = second multi-billion AI-concentration book in the purge window; the bar was the cohort, not one fund [old entry stays LIVE]
 ### Addendum 2026-08-10 ~8:05am PDT — THE DECOMPOSITION ARRIVES (ZH/DB/GS week-ahead) — ⛔ my wedge reading corrected, two new transmission mechanisms filed, and the week's tests get times and names
 Source: `raw/zh-db-gs-week-ahead-2026-08-10.pdf` (+.txt) — ZH reprint of DB week-ahead + GS US day-by-day,
 captured 8/10 7:58am. Extends the 8/9 entry above (L2495).
@@ -2646,3 +2647,56 @@ electricity sub-component — where F16 actually lives — is not broken out in 
 3. **Thursday = GS-vs-consensus PPI resolution ON the 30Y auction morning** — thresholds already registered.
 4. ⬜ **CPI electricity sub-component Wednesday** — the F16 series neither preview breaks out. Read it from
    the BLS table when the print lands.
+
+## 2026-08-10 ~12:25pm PDT — VARA −44% IN JULY: the de-gross bar gets its SECOND NAME — the "substantially one fund" inference extends to a COHORT, and contagion-without-cascade gets its cleanest print
+Source: Bloomberg (Kumar/Burton) via ZH tweet → `raw/bloomberg-vara-44pct-july-2026-08-10.md`. Paste
+~12:20pm. ⟲ EXTENDS market-fragility.md:L1928 (the "record de-gross bar could be substantially ONE FUND"
+inference — SA was the largest identified seller; VARA is now the second multi-billion book in the same
+window, so the bar was the STYLE COHORT, not one fund).
+
+### DATA (observed — Bloomberg, "person familiar" sourcing)
+- **Value Aligned Research Advisors (VARA), NJ: flagship $20B "AI Fund" fell 44% IN JULY**; YTD pared
+  to **+65% through July**. *(Derived arithmetic, flagged as mine: (1+X)·0.56 = 1.65 ⇒ X ≈ **+195%
+  YTD through June** — a near-tripling given back to a still-up-65 year in one month.)*
+- Firm AUM **~$26.4B at end-June, 16 months after launching** (≈ $0→26B AUM velocity since ~Mar-2025).
+- Bloomberg's causal frame, verbatim: whipsawed *"first by general pressure on AI stocks, then by the
+  volatility triggered by upheaval at its better-known rival"* — **SA's unwind named as a CAUSE of
+  VARA's loss.** Philosophy/portfolio "similar to" SA (transformative-AI concentration).
+- ZH framing: *"Many more to go."* (Claim class: prediction, no evidence attached — scored below.)
+
+### THESIS (interpretation — NOT fact)
+- *(the L1928-30 inference, revised by its own test)* The 7/30 read was "the record 3-day de-gross
+  could be 1/3-to-1/2 ONE FUND." **VARA's July means the purge window contained AT LEAST TWO
+  multi-billion AI-concentration books under pressure simultaneously — the GS bar was the COHORT
+  liquidating/marking together.** The registered "next 3-day print should normalise" test gains a
+  modifier: normalization requires the cohort done, not just SA sold.
+- *(★ contagion WITHOUT cascade — both prior conclusions survive, and this is the print that separates
+  them)* L2111 stands: SA's BILATERAL block sale killed the fire-sale spiral (the cohort ripped +8-20%
+  on 8/3 while ZH called cascade). **AND YET Bloomberg names SA's upheaval as a cause of VARA's −44%.**
+  ⇒ **A cleanly-executed unwind still marks down the style neighbor holding the same names. Cascade
+  (forced selling begetting forced selling) was avoided; CROWDING CONTAGION (same-book P&L transmission)
+  ran anyway.** The Korea-symmetry entry's "crowded into the same underlying" frame, now with two US
+  names in one month.
+- *(the arithmetic IS the leverage measurement — and it says structure, not scandal)* −44% in a month
+  the vault has global semis −13.2% ⇒ **~3.3x effective exposure** — the SA-class levered-concentration
+  structure, measured from returns alone. And +195%→+65% is a DRAWDOWN on a massively up year, **not a
+  failure**: no gate, no liquidation, no dealer loss in the excerpt. ZH's "blowing up" overstates the
+  print it sits on.
+- *(ZH scorecard, graded fairly — direction partial credit, mechanism still unshown)* The 8/3
+  same-day falsification (L2193) stands for THAT day's cascade claim. But "plenty more TRS cockroaches"
+  now has a second stressed name within a week — **directional partial credit, logged honestly.** The
+  MECHANISM leg stays unshown: no TRS/swap detail on VARA, no forced selling reported, **F8's dealer
+  leg remains UNFIRED** (fund P&L ≠ dealer writedown).
+- *(the AUM-velocity datum feeds the gearing frame)* $0→$26.4B in 16 months is the fast-capital
+  vehicle class the 7/22 gearing frame described. **The next test is REDEMPTIONS: a −44% month against
+  a +65% YTD splits investors by entry vintage** — 2025 subscribers are still up big; 2026 subscribers
+  are deeply down. Redemption behavior decides whether July's marks become September's supply.
+
+### 📌 REGISTERED
+1. ⬜ **VARA August performance + redemption reports** — the vintage-split test above.
+2. ⬜ Any TRS/swap/prime-broker detail on VARA — would move ZH's mechanism claim from unshown to shown.
+3. The GS de-gross normalization test now reads: **cohort-done, not SA-done.**
+4. F8 dealer leg: UNCHANGED (open, unfired). The 13F-Friday dealer-Δ baseline covers this cohort's names.
+
+**Links:** [[ai-financing-fragility]] (F8, the SA arc L2008/L2111) · [[detachment-bid]] ·
+[[thesis-radar]] · [[balance-sheet-board]] (the names these books hold are the issuer side) · [[cepi]]
