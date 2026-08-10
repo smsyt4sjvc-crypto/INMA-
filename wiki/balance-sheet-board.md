@@ -85,6 +85,8 @@ are designed as a pair. Full run output: `raw/sheets-ledger-run-2026-08-10.txt`.
 - **The $500B FT program (8/10, announced-class)** — would sit in NONE of these lines until tranches
   close. Ladder rung: ANNOUNCED. **Consortium named same-day (FT via ZH): Apollo, Blackstone,
   BlackRock, Brookfield, Goldman, KKR** → [[ai-financing-fragility]] 12:35pm addendum.
+- **PLUS (wire, 12:45pm): "MORGAN STANLEY TO FACILITATE UP TO $1.5T OVER 10 YRS"** — separate program,
+  arranger role, capacity language ("up to"). Day's announced total ≈ $2T; committed: $0. → same addendum.
 - **⭐ THE COMPLEX-WIDE OFF-SHEET SIZING ARRIVES (FT's Wigglesworth, 8/10 5:46am tweet): US hyperscalers
   have signed ~$1 TRILLION of lease commitments that DO NOT APPEAR in their financial data, plus ~$1T
   of future purchase commitments.** Join to the ledger: the board's VISIBLE lease liabilities sum to
