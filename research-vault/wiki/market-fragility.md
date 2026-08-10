@@ -2573,3 +2573,76 @@ condition; extends [[new-economy-regime]]'s 8/7 goods-price-case test.
 
 **Links:** [[new-economy-regime]] · [[detachment-bid]] · [[ai-financing-fragility]] ·
 [[demand-destruction]] · [[war/war-board]] · [[cepi]] · [[memory-regime-question]] · [[portfolio-state]]
+
+### Addendum 2026-08-10 ~8:05am PDT — THE DECOMPOSITION ARRIVES (ZH/DB/GS week-ahead) — ⛔ my wedge reading corrected, two new transmission mechanisms filed, and the week's tests get times and names
+Source: `raw/zh-db-gs-week-ahead-2026-08-10.pdf` (+.txt) — ZH reprint of DB week-ahead + GS US day-by-day,
+captured 8/10 7:58am. Extends the 8/9 entry above (L2495).
+
+**⛔ MY 8/9 WEDGE READING CONFLATED LEVEL WITH IMPULSE, AND THE CONSENSUS'S OWN MoM STRUCTURE EXPOSES IT.**
+I wrote that core 0.9pp below headline means *"the expected inflation is in energy/goods… the inflation the
+market fears is non-core."* **True of the Y/Y LEVEL** (the trailing year's energy inflation — the war
+premium — is in the index). **Wrong as a statement about THIS print's impulse: the MoM consensus has energy
+as a DRAG** — GS headline **+0.05% with energy −2.0%** (gasoline), DB **+0.15% headline vs +0.26% CORE** —
+headline running BELOW core at the margin. June headline was **−0.42%** (a big negative month; core flat),
+so July's expected move is **payback UP from an unusual June**, not fresh energy push. **Retained:** the
+level statement, and Jake's premise for the trailing year. **Corrected:** the live marginal driver into
+Wednesday is CORE (shelter-slowing vs goods/services payback), with gasoline pulling headline DOWN. The
+electricity sub-component — where F16 actually lives — is not broken out in either preview. ⬜
+
+### DATA (observed — DB forecasts + GS previews as printed)
+- **CPI Wed 8/12 8:30am ET:** DB +0.15% headline / +0.26% core MoM → Y/Y ~3.45 / 2.51. **GS +0.05% /
+  +0.19% — BELOW consensus (+0.1/+0.2) on both.** GS components: used cars +0.5, new +0.1, car insurance
+  −0.5, **OER +0.23 / rent +0.16 ("continued slowdown in underlying trends")**, airfares +2, hotels −1,
+  food +0.2, energy −2.0.
+- **⭐ GS, verbatim mechanism: "slight upward pressure on the communications category from recently
+  announced price increases for consumer electronics worth 1-2bp on core CPI."** = the Apple/Microsoft/
+  Google/Nintendo memory-cost hikes ([[compression-thesis]] L926, "memory costs surge sixfold") **reaching
+  the CPI basket — the first NAMED, SIZED CPI-basket transmission of the AI buildout.** 1-2bp is small;
+  the channel now exists in print. → [[memory-regime-question]] [[new-economy-regime]] (F16's goods cousin).
+- **⭐ GS: core PCE forecast +0.26% > core CPI +0.19% partly on "a sharp increase in the portfolio
+  management component — reflecting the increase in equity prices in Q2, which flow through with a lag."**
+  **The rally itself lifts the Fed's preferred gauge** — the detachment bid feeding back into the Fed Trap
+  arithmetic. → [[detachment-bid]] [[new-economy-regime]].
+- **PPI Thu 8/13 8:30am ET: GS +0.4% headline AND +0.4% core = DOUBLE consensus (+0.2/+0.3)**; DB tracking
+  +0.22% / 3.3% Y/Y. Focus categories feed core PCE: healthcare, airfares, portfolio management. **Lands
+  the same morning as the $25bn 30Y** — if GS is right, Thursday = hot pipeline print INTO the auction,
+  the malign-configuration test live.
+- **Hammack IS one of the three dissenters, dissent text quoted (7/31):** *"given the stability of the
+  labor market, with the unemployment rate near my estimate of maximum employment, I view high inflation
+  as the more pressing problem… I do not see the current policy stance as appropriately restrictive."*
+  **She speaks TWICE: Mon 8/10 3:00pm ET (Yahoo Finance, Q&A) and Thu 8/13 8:15am ET — 15 minutes before
+  PPI.** Barkin (non-voter) Thu 8:40am ET: labor market *"not loose, not tight… a weak balance."*
+- **Labor counter-frame (DB read of Friday):** private payrolls +30k; weakness concentrated L&H (−40k) +
+  **local-government education (−50k)** (the two distortion sectors flagged 8/7 ✓); goods-producing +
+  construction strongest in months; **unemployment rate DOWN to 4.1% — lowest since early 2025**; DB:
+  "broadly stable labor market," demographics weigh on participation.
+- **Earnings, dated:** **USA Rare Earth TODAY** (magnet thread) · Tue: **CoreWeave** (F8 cohort +
+  memory-derivatives), Super Micro, Lumentum, Venture Global · Wed: **NEBIUS — the radar's lone
+  two-branch clash gets its resolution event** (GPU rental price direction on the call), + Cerebras,
+  Tencent, Cisco · Thu: **AMAT** (the one fully-re-grossed theme) · Fri: BYD. 400/500 S&P reported.
+- Other: RBA expected hold 4.35% (Tue) · Norges 25% hike odds (Thu) · UK Q2 GDP (Thu) · **BoJ summary of
+  opinions TODAY** (carry thread) · retail sales Fri: GS −0.1% headline vs consensus +0.1% (Prime-Day
+  timing payback −0.2pp on core) · UMich Fri (GS 55.0; 5-10y infl exp 3.3%).
+- Iran (DB framing): Araghchi corridor talks "final stages," **but "any technical agreement on shipping
+  routes would not by itself lead to a full reopening"** — filed to the war-board ledger.
+
+### THESIS (interpretation — NOT fact)
+- *(the week's shape, sharpened)* **GS sits BELOW consensus on Wednesday and DOUBLE consensus on
+  Thursday.** If both prints land GS's way, the sequence is: CPI relief (hike odds bleed) → PPI shock into
+  the 30Y (pipeline heat + supply, same morning). **The two-day pair could run the benign and malign
+  configurations back-to-back** — which would test whether the bad-news-is-good-news regime flips on
+  PIPELINE data with the retail print still ahead Friday.
+- *(the reflexive pair is the filing that outlasts the week)* Two mechanisms now in print from GS: the
+  AI buildout's cost side entering core CPI (memory→electronics, 1-2bp) and the rally entering core PCE
+  (portfolio management). **Both push the Fed's gauges UP as functions of the AI trade itself** — the
+  Fed Trap's transmission now has two named, sized channels. Small today; the CHANNELS are the datum.
+- *(Hammack's week)* The vault's F16 flag-holder dissented FOR a hike, says policy isn't restrictive, and
+  speaks 15 minutes before the PPI print she'd call confirmation if GS is right. **Two dated F16 checks
+  this week** (does data-centre/electricity inflation enter her public case?). Register both.
+
+### 📌 REGISTERED (updates)
+1. **NBIS resolver now DATED: Wednesday 8/12 earnings** (was "🚩 fetchable" in [[thesis-radar]]).
+2. **Hammack F16 checks: Mon 3pm ET + Thu 8:15am ET.**
+3. **Thursday = GS-vs-consensus PPI resolution ON the 30Y auction morning** — thresholds already registered.
+4. ⬜ **CPI electricity sub-component Wednesday** — the F16 series neither preview breaks out. Read it from
+   the BLS table when the print lands.
