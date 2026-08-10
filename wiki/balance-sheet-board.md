@@ -1,0 +1,100 @@
+# THE SHEETS BOARD — the AI complex's balance sheets, on-sheet vs off-sheet vs market-priced
+
+Commissioned 2026-08-10 ~10:35am PDT, Jake's spec: *"an explicit mag7 + Oracle, SpaceX, Broadcom and
+hyperscaler financial branch. We need to know exactly what their sheets are, how they're evolving, and
+contrast with off-sheet, CDS, bonds and PCs [purchase commitments]. Start in 2023."*
+
+**How this branch runs:** `tools/balance_sheet_ledger_cell.py` (EDGAR XBRL, free, no key — Colab or
+in-session) prints the ON-SHEET quarterly series 2023→latest per name; this board holds the summary,
+the OFF-SHEET/CDS/BONDS curated ledgers (text-note and market items XBRL can't reach), the artifacts
+list, and the registered tests. FLOWS (OCF/capex/self-funding) stay in [[cepi]] — the two instruments
+are designed as a pair. Full run output: `raw/sheets-ledger-run-2026-08-10.txt`.
+
+## DATA — THE LEDGER (EDGAR XBRL pull 2026-08-10, cell v1.2; $B; each name on ITS OWN fiscal grid)
+| name | as of | cash+STI | debt | **NET narrow** | NET broad | opLease | finLease | stake book | PC (XBRL tag) |
+|---|---|---|---|---|---|---|---|---|---|
+| MSFT | 6/30/26 | 77 | 40 | **+37** | +73 | 22 | **67** | 12 | not tagged |
+| GOOGL | 6/30/26 | 242 ⚠️ | 100 | **+142 ⚠️** | +142 | 18 | 3 | **124** | 76 @Q1 |
+| AMZN | 6/30/26 | 123 | 133 | **−10** | −10 | 96 | 13 | **122** | 32 (stale '24) |
+| META | 3/31/26 | 81 | 59 | **+22** | +22 | 25 | 1 | 25 | **183** |
+| NVDA | 4/26/26 | 50 | 8 | **+42** | +42 | 4 | 0 | **73** | 23 |
+| AAPL | 6/27/26 | 62 | 84 | **−22** | +62 | 12 | 1 | — | 28 |
+| TSLA | 6/30/26 | 44 | 8 | **+36** | +36 | 6 | 0 | — | not tagged |
+| ORCL | 5/31/26 | 32 | **130** | **−98** | −98 | **30** | 8 | 1 | 13 |
+| AVGO | 5/3/26 | 20 | 65 | **−45** | −45 | 1 | 0 | — | **128** |
+| SPCX | 6/30/26 | 100 | 38 | **+62** | +62 | 0 | 1 | — | — |
+| **SUM** | mixed | — | **665** | **+129** | — | — | — | **~356** | — |
+
+**Δ since 2023 (start → latest), the evolution Jake asked for:**
+- **MSFT**: debt 48→40 but **finance leases 16→67 (+$51B)** — the AI datacenter buildout rides the
+  LEASE line, now 1.7× its bond debt. **F1 (MSFT leases) gets its series.** NET +51→+37.
+- **GOOGL**: debt **0→100** (the jumbo era); NET +114→+142 ⚠️ but the Q2 jump (+$95B NET q/q) rides a
+  +$98B q/q spike in current marketable securities — **likely post-IPO marked stakes (SPCX-class)
+  reclassified marketable, i.e., a MARK arriving in the liquidity line, not cash generation. ⬜ verify
+  composition in the Q2 10-Q.** Equity +162B in ONE quarter (the [[cepi]] test-#3 gains on the sheet).
+- **AMZN**: **+$54B net cash (Dec-25) → −$10B (Jun-26) in six months — debt 69→133 (+$64B in two
+  quarters)**, the complex's fastest levering and its only negative narrow NET among hyperscalers.
+  opLease 69→96.
+- **META**: debt 10→59; finance leases ~0 — **the buildout runs OFF-sheet (Hyperion-class SPVs) — the
+  mirror image of MSFT's on-sheet lease route. Same machines, opposite disclosure.** PCs $183B = 2.3×
+  its liquid assets, the complex's largest tagged commitment stack.
+- **NVDA**: fortress (debt 8.5 flat, NET +42) — **the leverage lives in its COUNTERPARTIES; its own
+  sheet carries the EQUITY leg: stake book 73 (42 non-marketable + 30 FVNI), investment gains $15.9B
+  in Q1 FY27 alone.** The four-roles structure, tagged.
+- **AAPL**: the control — debt 111→84, buyback deleveraging, no AI-capex signature. NET −22 narrow /
+  +62 broad (the LT securities portfolio).
+- **ORCL**: **the levered one: debt 5→130, NET +3→−98, opLease 0→30, finLease 0→8** — Stargate-era
+  obligations stacking on EVERY line at once. Sheet ordering matches its CDS (widest, ~215bp).
+- **AVGO**: debt 39→76 at the VMware close (Feb-24) → 65 now; NET −27→−45; **PCs $128B vs $20B cash.**
+- **SPCX**: newly filed — IPO quarter: equity 2.6→127, cash 25→100, debt 22→38. Two data points only.
+
+## DATA — CURATED OFF-SHEET / CREDIT-MARKET LEDGER (items XBRL can't reach; sources = vault entries)
+- **CDS (8/8 per-name entry, [[ai-financing-fragility]] L3487):** ORCL ~215 (+70) · AVGO +48 · META 95
+  (+39) · NVDA ~82 (+32) · AMZN +30 · GOOGL +29. **Ordering matches the ledger: worst NET (ORCL −98,
+  AVGO −45) = widest CDS. The credit market and the sheets agree.**
+- **Bonds:** ~$200B complex issuance YTD ≈ 2× prior year (8/8); GOOGL $25B jumbo 8/6 (83bp vs +155bp
+  tension unresolved); AMZN's +$64B H1 shows on-sheet above ✓ cross-confirmed.
+- **Purchase commitments, TEXT-note scope (⚠️ NOT comparable to the XBRL tags):** GOOGL **$811B total
+  contracted commitments** (+$500B in Q2 alone — L691) vs its $76B XBRL tag = **the tag captures ~9% of
+  the text-note total. NEVER sum XBRL PC tags as "the commitments."** MSFT/TSLA don't tag at all.
+- **SPVs/RVGs:** Meta-Hyperion + BlackRock SPV bonds (🚩 L3332 where-do-they-trade fetch still open);
+  the $662B RVG/Moody's item; "$1.65T SPV debt" claim UNVERIFIED (radar).
+- **The $500B FT program (8/10, announced-class)** — would sit in NONE of these lines until tranches
+  close. Ladder rung: ANNOUNCED.
+
+## THESIS (interpretation — NOT fact)
+- *(the composition IS the fragility read)* The complex's +$129B aggregate NET is **one company's
+  marks wide**: strip GOOGL's ⚠️ +142 and the rest of the complex nets ~−13B. **The spenders are
+  already net-negative (AMZN, ORCL, AVGO, AAPL-narrow) — the "cash-rich hyperscalers" frame is 2023's
+  fact, not 2026's.** The buildout has already consumed the aggregate net-cash position.
+- *(the ~$356B stake web is the circularity number)* GOOGL 124 + AMZN 122 + NVDA 73 + META 25 + MSFT 12
+  = the complex holds a third of a trillion in marks on the labs and each other — **the marks carried
+  Q2's earnings beat ([[cepi]] $98B/$53B), sit OUTSIDE my NET, and are the transmission line by which
+  one node's repricing becomes everyone's income statement.**
+- *(the disclosure fork: MSFT's leases vs META's SPVs)* Identical buildouts, opposite visibility —
+  MSFT's is measurable on-sheet (16→67), META's requires the curated ledger. **Any complex-wide
+  leverage claim that reads only bond debt misses BOTH.**
+- *(what this board is FOR)* One place where the sheet, the off-sheet, and the credit market's price of
+  the sheet sit side by side, per name, with dates — so "who funds the buildout and who's exposed"
+  stops being vibes. Rule 7: descriptive; sizing is Jake's.
+
+## ⚠️ ARTIFACTS (rule-6 ledger — known instrument limits, v1.2)
+1. GOOGL Q2 STI/NET ⚠️ mark-contamination (above) — ⬜ 10-Q composition check.
+2. Lease zeros in non-annual quarters for some filers = TAG GAPS, not zero leases (AAPL/META/TSLA).
+3. AMZN PC tag stale (2024) — text-note curation needed.
+4. AVGO equity rows pre-2024 read 0 in v1.0-1.1 (fixed v1.2 via consolidated-equity tag).
+5. Mixed fiscal ends — never read the SUM row as a point-in-time complex balance sheet.
+
+## 📌 REGISTERED
+1. ⬜ **GOOGL Q2 10-Q: composition of the +$98B marketable-securities jump** (SPCX-class reclass?).
+2. ⬜ **Text-note PC totals for all 10 names** (the GOOGL-$811B-scope number per name) — handoff fetch;
+   the XBRL tags are the floor, not the number.
+3. ⬜ **META lease/SPV structures** (the CEPI ceiling caveat, now visible as the MSFT-META fork).
+4. **Quarterly re-run cadence: after each name's 10-Q lands** (manual, per spending rule — no cron).
+5. ⬜ SPCX 2023-2024 retrospective from the S-1 (pre-IPO era not in companyfacts).
+6. Cross: the Sep-end SKH HBM contract print (input costs), the $500B program's first closed tranche,
+   Q3 dealer 13Fs (Nov).
+
+**Links:** [[cepi]] · [[ai-financing-fragility]] · [[ai-capex-cycle]] · [[market-fragility]] ·
+[[memory-regime-question]] · [[compression-thesis]] · [[metered-compute]] · [[detachment-bid]] ·
+[[portfolio-state]] · [[thesis-radar]]
