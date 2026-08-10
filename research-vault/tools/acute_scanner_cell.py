@@ -224,6 +224,7 @@ THREADS = {
                'coatue','citadel','prime brokerage','prime book','swap position'],
  'POWER':     ['pjm','curtail','grid emergency','turbine','interconnection','smr',
                'behind-the-meter','ofgem','grid access','connection queue','commitment fee',
+               'wolfspeed','silicon carbide','empower semiconductor','ionic digital',
                'grid operator','transmission','substation','ratepayer','moratorium',
                'nuclear','reactor','criticality','part 57','nrc',
                'avista','spokane','oklo','westinghouse','vistra','constellation','nextera',

@@ -212,3 +212,43 @@ and recommends nothing.)*
   a genuine second-order pick** the vault's server-stack cascade supports. **MP at 3%** maps to the rare-earth
   fight on [[war/war-board]]. **RNW at 4.5%** is the only power expression — small, but present, and the
   vault has no US-listed pure-play objection to it.
+
+## 2026-08-10 ~8:45am PDT — 8/19 IS THE POWER LAYER'S EVIDENCE DAY — three confirmed prints on the basket's thinnest leg
+Source: Jake's earnings alert (company-confirmed dates only — the evidence-ladder discipline applied to
+calendar data; estimated earnings dates are routinely wrong, confirmed-only is the correct filter).
+
+### DATA (dates confirmed per the alert; AI-relevance claims are the ALERT's characterization)
+- **Wed 8/19: Analog Devices (ADI)** — Q3 FY2026, 7:00am ET, call 10:00am. Alert: supplying
+  power-management for AI infrastructure; "expanded its high-density AI power portfolio **through Empower
+  Semiconductor**" — ⬜ **relationship CLASS unverified** (investment / partnership / acquisition — ADI was
+  a named Empower investor pre-2026; whether this became an acquisition is a one-line fetch).
+- **Wed 8/19: Ionic Digital (IOND)** — Q2 2026 after close, call 5:00pm ET. Powered data-center/HPC sites.
+- **Wed 8/19: Wolfspeed (WOLF)** — **fiscal Q4/FY2026 = APRIL-JUNE 2026 data (fiscal year ends June** —
+  naming rule applied), call 5:00pm ET. Silicon-carbide power devices; alert language: *"being DEVELOPED
+  specifically around"* AI data-center power density — **development-stage phrasing, not shipping revenue.**
+- Vault prior state: ADI in the semis sector map (~22% analog/diversified block, [[_calibration]] L108) and
+  Jake's options screen universe ([[portfolio-state]] L648). **WOLF and IOND: zero prior vault coverage.**
+
+### THESIS (interpretation — NOT fact)
+- *(the join)* **The L183 design problem — 44.5% silicon / 4.5% power / 0% electrical equipment — gets a
+  measurement day.** All three names sit on the power layer the map calls the unrepriced bottleneck. The
+  prints are a cheap test of whether "AI power" is ORDERS or ADJACENCY at the component layer — the same
+  queue-vs-forecast test the reducer thread ran on Harmonic/Nabtesco.
+- *(per-name read, pre-stated so the prints grade against it)* **ADI:** does AI/datacenter power get a
+  NUMBER (revenue, design-win pipeline, book-to-bill) or stay prose? ADI is diversified industrial-heavy —
+  its industrial orders line doubles as a general capex-cycle read. **WOLF:** is "AI data center" a
+  quantified design-win segment or a pivot narrative from a restructured balance sheet? (⚠️ from-memory,
+  not vault-verified: WOLF went through Chapter 11 restructuring in 2025, debt-to-equity — read the print
+  against the POST-restructuring share count and cash, not the old story.) **IOND:** contracted MW with
+  NAMED counterparties and $/MW economics vs "designed for AI workloads" prose — the powered-land class
+  lives or dies on contracts.
+- *(calendar slot)* 8/19 lands after 8/17 (TIC + the MoU 60-day clock) and inside the run-up to the NVDA
+  print (late August, date not yet confirmed here — do not assert it).
+
+### 📌 REGISTERED
+1. **Wed 8/19 triple print — run the three reads above.**
+2. ⬜ **ADI-Empower relationship class** (investment vs acquisition) — one-line fetch before 8/19.
+3. ⬜ WOLF post-restructuring capital structure (share count, net debt) — needed to read the print at all.
+
+**Links:** [[buildout-bottleneck-map]] · [[power-not-petroleum]] · [[ai-capex-cycle]] · [[cepi]] ·
+[[physical-ai-hardware-stack]] (the queue-vs-forecast template) · [[portfolio-state]]
