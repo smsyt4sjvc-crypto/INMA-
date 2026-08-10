@@ -128,8 +128,7 @@ are designed as a pair. Full run output: `raw/sheets-ledger-run-2026-08-10.txt`.
 6. Cross: the Sep-end SKH HBM contract print (input costs), the $500B program's first closed tranche,
    Q3 dealer 13Fs (Nov).
 7. **NVDA Q2 FY2027 10-Q (~late Aug): the FOUR-ROLES filing test** — guarantees/ASC-460 note Δ +
-   commitments Δ + stake-book Δ in the first filing after the $500B/Ohio announcements (Jake's
-   "guarantees are probably visible," 8/10 → [[ai-financing-fragility]] 1:10pm addendum).
+   commitments Δ + stake-book Δ in the first filing after the $500B/Ohio announcements (Jake, 8/10: guarantees "probably AREN'T visible" — engineered invisibility; null flipped, windows reordered → [[ai-financing-fragility]] 1:10pm addendum).
 
 **Links:** [[cepi]] · [[ai-financing-fragility]] · [[ai-capex-cycle]] · [[market-fragility]] ·
 [[memory-regime-question]] · [[compression-thesis]] · [[metered-compute]] · [[detachment-bid]] ·

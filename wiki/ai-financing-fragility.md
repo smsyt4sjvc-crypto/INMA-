@@ -3991,3 +3991,32 @@ upgrading it from ZH-about-FT to wire class) · **"MORGAN STANLEY TO FACILITATE 
 1. **NVDA Q2 FY2027 10-Q (~late Aug): guarantees/commitments/indemnification note Δ** — the wrap test.
 2. ⬜ CRWV (Tue) + NBIS (Wed) prints/filings: any NVDA credit-support language — this WEEK's early read.
 3. ⬜ Rating-agency reports on any AI project/ABS bonds naming sponsor support — the third window.
+
+### ⛔ Correction 2026-08-10 ~1:20pm PDT — JAKE'S WORD WAS "AREN'T" VISIBLE (autocorrect, again) — THE READING INVERTS AND THE TEST'S NULL FLIPS
+The 1:10pm addendum conceded "guarantees that probably ARE visible." **His claim was the opposite and
+stronger: the $2T requires guarantees that probably AREN'T visible — credit support engineered to
+avoid guarantee treatment and therefore the disclosure.** The mechanics filed remain correct AS
+MECHANICS (ASC 460 forces disclosure of what is LEGALLY a guarantee); the caveat-#2 list —
+take-or-pay offtakes, capacity purchase commitments, first-loss equity, RVGs, each in a different
+note or none — **was his actual point, not a caveat to it.**
+- *(the null hypothesis flips on the NVDA 10-Q test)* Under the 1:10 reading, a small guarantees-note
+  Δ would read "not signed yet." **Under Jake's reading, a small Δ is the EXPECTED outcome even if the
+  wrap is huge** — the support migrates to whatever shape isn't disclosable as a guarantee. So:
+  **big ASC-460 Δ → wrap visible, engineered-invisibility too cynical. Small/no Δ WHILE tranches
+  close anyway → his reading strengthens, and absence-in-the-note is NOT absence-of-support.**
+  The test stays registered; the interpretation table is now two-sided.
+- *(the vault already holds this logic in three places — his correction unifies them)* The
+  **disclosure fork** (META's SPV route vs MSFT's lease line: identical economics, structured visible
+  or invisible) · the **submerged-state point** (backstops that fire quietly; no bailout headline) ·
+  **this morning's Archegos/TRS lesson** (the levered choose the instrument BECAUSE it doesn't
+  report). Engineered-invisibility of credit support is the same selection principle, sponsor edition.
+- *(where the wrap IS likely visible under his reading — the windows reorder)* **(1) THE RECEIVER
+  SIDE FIRST**: a neocloud RECEIVING sponsor support has the opposite incentive — it advertises the
+  support (equity story) and its lenders require it documented; CRWV/NBIS filings and prints (Tue/Wed)
+  outrank NVDA's own note. **(2) Rating-agency reports** on project/ABS paper — agencies see the
+  support documents whatever they're called. **(3) NVDA's COMMITMENTS note** (offtake/capacity shapes
+  are still disclosable as commitments even when not guarantees — and the purchase-obligation tag
+  exists). The ASC-460 note drops to LAST.
+#### 📌 REGISTERED (amended)
+The NVDA Q2 FY2027 four-roles test stands **with the flipped null above**; primary windows reordered:
+CRWV/NBIS this week → rating reports → NVDA commitments Δ → ASC-460 note.
