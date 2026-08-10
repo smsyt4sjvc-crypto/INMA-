@@ -94,6 +94,7 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 - [[runner-anatomy]] — what 200%+ 12-mo runners looked like at ignition
 - [[weekly-momentum]] — NDX top-5 weekly winners: carry, duration, threshold
 - [[median-line-dip]] — the median/LAD line as a dip trigger (wins 1-3mo, loses 12mo; test-run result)
+- [[momentum-extrapolation-backtest]] — Jake's trailing-3-mo-trend-as-forecast via option breakevens, 1995-2026 (hit 27.5%, slope +0.02; only the drift bucket survives; GFC the lone paying era)
 
 ## 📜 Process / policy
 - [[ioss-proposal]] — iOSS policy project (Jake's)
@@ -105,6 +106,7 @@ Edge/premium: `vol_risk_premium.ipynb`, `vol_risk_premium_decay.ipynb`, `passive
 `body_momentum_carry.ipynb`, `sma_20_50_regime_backtest.ipynb`, `memory_intraday_close.ipynb`,
 `median_line_dip_study.ipynb` (straight LAD/median trend vs SMA/%-off-high/rolling-median as a dip trigger),
 `median_fan_drawdown.ipynb` (10/5/2y median-line fan; drawdown-depth ruler + acceleration),
+`momentum_extrapolation_backtest_cell.py` (trailing 3-mo trend extrapolated via solved option breakevens, CBOE SPX + FRED VIX, 375 trades 1995-2026),
 `growth_ignition_anatomy.ipynb` (maps every >=3x-in-3y S&P run since 2015, dissects ignition anatomy vs control + base-rate cell),
 `deep_value_reclaim.ipynb` (Jake's deep-value screen backtest: furthest-under-200-SMA + above-20-SMA, monthly rebalance vs SPY + today's-picks cell — survivorship caveat baked into the header),
 `sector_brain.ipynb` (sectors as a firing correlation network; animation + running record for rotation/stress),
