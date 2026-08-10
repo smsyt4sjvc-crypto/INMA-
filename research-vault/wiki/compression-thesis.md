@@ -1862,3 +1862,43 @@ or adjacent interview presumed — ⬜ primary transcript is the fetch). REPORTE
 
 **Links:** [[metered-compute]] · [[ai-financing-fragility]] · [[cepi]] · [[ai-capex-cycle]] ·
 [[memory-regime-question]] · [[detachment-bid]]
+
+## 2026-08-10 ~2:00pm PDT — JAKE'S ADDITION TO THE JOBS LEDGER: the buildout as a TRADES ENTRY POINT "for millions of young men watching their parents' degrees burn" — the compression ledger's other side
+Context: the Fink jobs-numerator exchange ([[ai-financing-fragility]] 1:40pm). Jake: *"Even if he chose
+the right numerator for jobs, it's also a tremendous training and entry point for millions of young men
+that are watching their parents' degrees burn."*
+
+### THESIS (Jake's thesis + analysis, labelled)
+- *(Jake's frame, and it is the compression thesis's MISSING half)* This note has tracked where
+  cognitive labor gets COMPRESSED (Claude Corps' under-2-years hard cap; the −3.2% real-comp print;
+  productivity-without-labor). **His point names where the displaced/never-entering cohort GOES: the
+  buildout is a trades on-ramp — electricians, pipefitters, HVAC, linemen — arriving exactly as the
+  credential path devalues.** The same technology compressing the desks is financing the hands.
+- *(★ and the rotation is ALREADY PRINTING — this is not speculative)* The 8/10 week-ahead filing
+  carries DB's read of Friday's payrolls: **goods-producing and construction employment posted their
+  strongest gains in several months WHILE leisure/hospitality and education shed.** The composition
+  shift Jake describes is in the current employment data, same week.
+- *(the bottleneck join — his entry point is the SUPPLY RESPONSE to a priced constraint)*
+  [[buildout-bottleneck-map]] holds skilled trades inside the electrical-stack constraint. **The
+  entry-point effect is how that bottleneck eventually clears** — rising trades wages pull the cohort
+  in — **with an apprenticeship lag (~4-5 years) and a cost: the mechanism WORKS by bidding up trades
+  wages, which lands directly in the datacenter construction bill** (the capex-inflation line; F16's
+  construction cousin). Eases the labor constraint tomorrow, raises the build cost today.
+- *(arithmetic on "millions," held honestly)* Fink's 1,500 job-years/100MW × a US pipeline of
+  50-100GW over ~5 years ≈ 0.75-1.5M job-YEARS ≈ **150-300K sustained construction positions, plus
+  grid/transmission buildout beyond DCs. "Millions of entry points" over a decade with churn and
+  adjacent trades: defensible. Millions of simultaneous jobs: no.** Both filed.
+- *(the political-economy consequence — strengthens the backstop expectation)* A program giving young
+  men trades careers while their parents' credentials devalue has a DURABLE constituency — "jobs" is
+  the chosen defense (Fink) because it is the politically load-bearing one. **This makes the
+  "government funding is coming" expectation MORE plausible** (the state-backstop leg gains a
+  constituency) and softens the regulation-backlash vector this note tracks.
+- *(⚠️ the counterweight Jake's frame under-weights — DURATION)* Construction employment is
+  project-tied: **a capex cliff (the fragility scenario) hits this cohort as brutally as it hired
+  them** — post-2008 trades unemployment exceeded 20%. Partial mitigation is real: an electrician's
+  ticket is portable across the economy in a way datacenter-specific work is not, and grid
+  investment outlasts any single capex cycle. The entry point is genuine; the SECURITY of it is a
+  bet on the buildout's duration — the same bet everything else in this complex is.
+
+**Links:** [[buildout-bottleneck-map]] · [[new-economy-regime]] · [[ai-financing-fragility]] ·
+[[power-not-petroleum]] · [[market-fragility]]
