@@ -3890,3 +3890,46 @@ is STILL unread; FT-attributed facts below are one hop from primary, ZH glosses 
   holds what. Until then this is the state-backstop leg's PRIVATE version (the radar's Capital Flows
   contradiction) — or fragility syndicated wider. Both live; the FT primary is the fetch that starts
   deciding.
+
+### Addendum 2026-08-10 ~12:50pm PDT — WIRE CONFIRMATION + A SECOND PROGRAM: "MORGAN STANLEY TO FACILITATE UP TO $1.5T OVER 10 YRS" — and Jake's conflict read forces a SOURCE-REWEIGHTING
+Source: wire headline flashes (Jake paste ~12:45pm; terminal-flash class, outlet unstamped):
+*"NVIDIA TO MOBILIZE OVER $500B WITH SIX FINANCE FIRMS"* · the six named (matches the ZH/FT list ✓,
+upgrading it from ZH-about-FT to wire class) · **"MORGAN STANLEY TO FACILITATE UP TO $1.5T OVER 10 YRS."**
+
+#### DATA (observed)
+- The consortium list CONFIRMED on the wire: Apollo, BlackRock, Blackstone, KKR, Goldman, Brookfield.
+- **NEW AND SEPARATE: MS "to facilitate up to $1.5 TRILLION over 10 years"** — MS is NOT one of the
+  six; "facilitate" = arranger/underwriter role, not principal. **Announced-class arithmetic for the
+  day: $500B consortium + up-to-$1.5T MS facilitation = ~$2T of AI-financing PROGRAMS announced in one
+  session; committed capital disclosed so far: $0.** "Up to… over 10 years" ≈ $150B/yr ambition
+  run-rate — capacity language, the softest rung on the ladder.
+- Context on file: **MS is the house whose RESEARCH sized the need** (~$800B private-credit share by
+  2028; $3.5T hyperscaler spend 2026-28) — the bank now announces facilitating the financing its
+  research sized.
+
+#### THESIS (interpretation — NOT fact)
+- *(Jake's read, graded: "this explains why they went so bullish on credit in the past 3 months")*
+  **CONCEDED as the working hypothesis, with high independence** — the join is his, not the wire's.
+  The talks predate today ("six people briefed"), so the formation window overlaps exactly with the
+  May-July run of sell-side credit optimism the vault logged: **GS Prime's "healthy reset, buyers
+  resurfacing" (the anti-Dowd leg), manager "fears are overdone" testimony (WSJ), MS's own
+  funding-need research.** The houses grading private credit healthy were, during the same window,
+  assembling the largest private-credit product in history.
+- *(★ THE CONSEQUENCE IS A STANDING SOURCE-REWEIGHTING, not just a gotcha)* From today, **sell-side
+  and manager testimony on AI-credit HEALTH is CONFLICTED-CLASS evidence: the speakers are now
+  identified arrangers/principals of the product they grade.** Applies retroactively to the
+  Dowd-vs-GS fork (the GS leg carries a disclosed conflict now; Dowd's leg carries permabear framing —
+  BOTH legs discounted, the FILED numbers decide) and prospectively to every "credit is fine" quote
+  from the six + MS. The WSJ's filings-over-statements method is the only clean instrument left.
+- *(steelman, held)* Causality can run the other way — genuinely benign conditions attract programs;
+  arrangers are structurally constructive; a conflicted view isn't automatically wrong. And Jake's
+  mechanism doesn't require deceit: a house building a $1.5T pipeline SEES flows others don't.
+  Conflicted ≠ false; it means WEIGHT the testimony, don't ban it.
+- *(what settles it)* First CLOSED tranche (size, vehicle, balance-sheet location) · MS's arrangement
+  economics when disclosed · whether the six's own BDC marks stay "strong" through the next two
+  quarterly prints while they deploy.
+
+#### 📌 REGISTERED
+1. ⬜ MS $1.5T: structure, fee economics, principal-vs-agent split — nothing disclosed yet.
+2. **Standing: quote-weighting rule above** — conflicted-class tag on arranger credit-health testimony.
+3. The close test (NVDA) still pending today; first-tranche FID test unchanged.
