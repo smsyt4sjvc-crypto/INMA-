@@ -1823,3 +1823,42 @@ non-capability reasons" — now has its NAMED INSTANCE).
 
 **Links:** [[ai-capex-cycle]] · [[ai-financing-fragility]] · [[market-fragility]] · [[metered-compute]] ·
 [[cepi]] · [[ai-evaluation-framework]] · [[ai-infra-allocation-map]] · [[data-sourcing-playbook]]
+
+## 2026-08-10 ~9:55am PDT — THE DEMAND SIDE SPEAKS IN FIDUCIARY LANGUAGE: PINS CEO — closed-model spend is "wasting shareholders' money"
+Source: Jake paste ~9:50am — quote attributed to **Pinterest CEO Bill Ready**: *"Any CEO that's not taking
+advantage of open source models is almost certainly wasting a lot of their shareholders' money."* Attached:
+ZH tweet (4d, ~8/6): *"What If Open-Weight Models Win The AI War: Here Are The Winners And Losers"* —
+**⚠️ the ZH piece is UNREAD (headline only); the quote's DATE/VENUE unstated in the paste** (PINS Q2 call
+or adjacent interview presumed — ⬜ primary transcript is the fetch). REPORTED class on both.
+
+### DATA (observed — as pasted)
+- The quote, verbatim as above. A sitting US public-company CEO framing closed-model spend as a
+  **governance failure**, not a technical preference.
+- Prior state it lands on: **L466 ★★★ the toll is MODEL-AGNOSTIC** (NVDA runs Kimi tokens on Azure same
+  as GPT tokens; the loser is the closed-lab private mark) · the HF-hack open-weight-sovereignty read ·
+  DeepSeek/Kimi token-price commoditization · the OpenRouter share re-read (~30d, registered 8/8).
+
+### THESIS (interpretation — NOT fact)
+- *(★ the same-morning pairing IS the entry)* **Within one news cycle: Wall Street organizes $500B to
+  finance the CLOSED-lab buildout (FT flash, 9:40am entry, [[ai-financing-fragility]]) while a mid-cap
+  CEO declares open weights the fiduciary DEFAULT.** The financing bridges the closed labs' FCF gap; the
+  quote attacks the future revenue line that gap is supposed to be repaid from. **Both sides of [[cepi]]'s
+  return question, printed the same day.** If the Ready position generalizes, the $500B is funding
+  capacity whose pricing power is being commoditized while it builds — the compression thesis's core loop.
+- *(discipline — a quote is a CLAIM about behavior, not measured spend)* "Taking advantage" is
+  unquantified; enterprises routinely say open-friendly things while production spend concentrates on
+  closed APIs (procurement reality vs interview). **The measured versions already registered: OpenRouter
+  token share, DeepSeek/SDLLMTK pricing, and PINS's own disclosed model mix if the transcript has one.**
+  Numbers over adverbs; this quote is a directional anecdote from a credible seat, not a series.
+- *(who wins if he's right — the vault's standing decomposition, not re-derived)* Open-weight default =
+  toll survives (compute/cloud/NVDA), model-margin dies (closed-lab marks), self-host/neocloud demand
+  grows — the L466 conclusion; the ZH winners/losers piece presumably walks the same map. ⬜ read it
+  before crediting it.
+
+### 📌 REGISTERED
+1. ⬜ **PINS Q2 transcript** — date the quote, and check for a disclosed model mix / AI-cost line.
+2. ⬜ **The ZH open-weight winners/losers piece** (~8/6) — grok/handoff fetch; grade against L466.
+3. Standing: the ~30-day OpenRouter re-read remains the MEASURED test of this quote's claim.
+
+**Links:** [[metered-compute]] · [[ai-financing-fragility]] · [[cepi]] · [[ai-capex-cycle]] ·
+[[memory-regime-question]] · [[detachment-bid]]
