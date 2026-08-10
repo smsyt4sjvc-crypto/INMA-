@@ -72,6 +72,15 @@ duplicate note) · the **🔴 open items** the inbound might close.
     UNDER-weighting · concede fast · Independence score + Steelman on theses.**
 17. **Code delivery: COMPLETE cells only** (iPhone/Colab). Acronyms spelled out at first use.
 18. **End of session: file → link → index → chat-log → commit → push. Every turn pushes.**
+19. **DELEGATION TIERS (Jake, 8/10 — "sonnet fetches, fable interprets"): all fetch/chew work runs at
+    the CHEAPEST capable tier.** Tier 0 = scripts/cells, ZERO tokens (EDGAR, FRED, CBOE, OpenRouter —
+    any structured API; the sheets/CEPI/backtest pattern). Tier 1 = **Sonnet/Haiku SUBAGENTS spawned
+    in-session** for UNSTRUCTURED chewing (long filings, transcripts, article batches, multi-source
+    verification) — per-task, background, results return as compact digests; Fable never reads the
+    raw haystack. Tier 2 = a sibling Sonnet CCR session bound to the repo, ON REQUEST only, for
+    parallel batch work (segregation is by-convention — both sessions hold repo creds; hard isolation
+    needs a GitHub branch-protection rule). Fable does INTERPRETATION and writing only. No standing
+    fetcher daemons/schedules ever without explicit same-conversation approval (rule 15).
 
 ## ⛔ STEP ZERO — THE ROUTER (standing, set 2026-07-31 — Jake's spec, after 3 breaches in one day)
 
