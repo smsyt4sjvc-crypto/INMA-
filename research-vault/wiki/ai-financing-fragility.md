@@ -3960,3 +3960,34 @@ upgrading it from ZH-about-FT to wire class) · **"MORGAN STANLEY TO FACILITATE 
   OCF/C (the complex at the ceiling), the BDC nonaccrual prints, the first closed tranche's terms,
   and the token-economics end-demand gauge. **Until a seam-watcher moves, Jake's read governs the
   PATH; the filed numbers govern the STATE.**
+
+### Addendum 2026-08-10 ~1:10pm PDT — JAKE: "this is corroboration — that typically requires GUARANTEES that probably are VISIBLE" — conceded, sharpened into a dated filing test
+#### THESIS (graded + mechanics)
+- *(the corroboration claim, CONCEDED)* Institutional private capital does not mobilize $500B-$2T into
+  vendor-adjacent infrastructure on merchant risk. **Apollo/Brookfield-class money prices against
+  CONTRACTED or GUARANTEED cash flows — so the program's existence is itself evidence that a credit
+  wrap exists at scale, and the investment-grade sponsor available to write it is NVDA (+ hyperscaler
+  offtakes).** The announcement corroborates the guarantee thread (Ohio 10GW, the AMD-Anthropic
+  lease-backstop conduit, the RVG structures) from the DEMAND side: the money showing up implies the
+  wrap the money requires.
+- *(the visibility mechanics — where "probably visible" is exactly right, and where it lags)*
+  **ASC 460 requires a GUARANTOR to disclose the nature and MAXIMUM POTENTIAL FUTURE PAYMENTS of
+  guarantees in its filings.** Signed NVDA guarantees must surface in NVDA's own
+  guarantees/indemnifications + commitments notes. Three caveats that shape the fetch: **(1) talks ≠
+  signed** — disclosure lands the first 10-Q AFTER execution; **(2) support is often STRUCTURED to
+  not be a guarantee legally** — take-or-pay offtakes, capacity purchase commitments, first-loss
+  equity, RVGs — each sits in a DIFFERENT note with different measurement (the vault's $662B RVG item
+  and the L3121 do-not-add rule exist because these come fragmented by design); **(3) counterparty
+  visibility**: CRWV/NBIS related-party + commitments notes, and project-bond RATING reports, name
+  sponsor support the sponsor's own note may not aggregate.
+- *(★ THE DATED TEST THIS CREATES — the first filing AFTER the program)* **NVDA reports Q2 FY2027
+  ~late August — the first 10-Q filed after the $500B/Ohio announcements. The guarantees +
+  commitments + indemnification notes' Δ vs the prior quarter is now a registered board test.** With
+  the stake book already tagged ($73B) and cloud-capacity commitments in the commitments note, that
+  one filing can show ALL FOUR ROLES moving at once: seller (revenue), shareholder (stakes Δ),
+  guarantor (ASC 460 Δ), customer (commitments Δ). **The four-roles structure becomes quarterly-
+  measurable in a single document.**
+#### 📌 REGISTERED
+1. **NVDA Q2 FY2027 10-Q (~late Aug): guarantees/commitments/indemnification note Δ** — the wrap test.
+2. ⬜ CRWV (Tue) + NBIS (Wed) prints/filings: any NVDA credit-support language — this WEEK's early read.
+3. ⬜ Rating-agency reports on any AI project/ABS bonds naming sponsor support — the third window.
