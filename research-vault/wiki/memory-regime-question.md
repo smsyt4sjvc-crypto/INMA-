@@ -900,3 +900,9 @@ covered name post-crash; factual corrections kept, the "worst is behind us" soot
 
 **Links:** [[market-fragility]] (re-gross) · [[compression-thesis]] (L527 template) ·
 [[ai-capex-cycle]] · [[cepi]] · [[thesis-radar]] (SKHY corrections) · [[buildout-bottleneck-map]]
+
+> 📌 One-liner 2026-08-10 ~3:05pm PDT (incidental, from a Silicon Data site probe): **Silicon Data
+> lists a RAM INDEX product — Bloomberg ticker "--" (not yet assigned).** Second independent sign of
+> memory-price FINANCIALIZATION being built (first: CRWV exploring memory-price derivatives, radar
+> C-leg). An index vendor productizing DRAM pricing = the instrument layer arriving before the
+> Sep-end SKH contract-price test. ⬜ watch for the ticker going live.
