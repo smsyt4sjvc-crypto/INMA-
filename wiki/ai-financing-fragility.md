@@ -3704,3 +3704,55 @@ graded against pre-stated mechanics, not hindsight. (TRS = total return swap; SA
 
 **Links:** [[market-fragility]] (L1937 Archegos symmetry, L2453 re-gross) · [[thesis-radar]] ·
 [[cepi]] · [[memory-regime-question]] (the 62% BOM join — dealer semis inventory is the same names)
+
+## 2026-08-10 ~9:40am PDT — HEADLINE FLASH: "WALL STREET FIRMS, NVIDIA PARTNER ON $500B AI FINANCING DEAL: FT" — and NVDA falls to session low ON the news
+Source: ZH headline flash + ZH tweet ("3m" old at paste ~9:35am): *"NVIDIA EXTENDS DROP TO SESSION-LOW
+−2.6%."* Jake endorses ZH's frame: *"more circle jerk financing to make up for lack of fcf… This time the
+ZH commentary is accurate."* **⚠️ ARTIFACT: a two-line headline citing FT. The FT piece is UNREAD. Terms,
+participants, structure, timeframe, and what the $500B COUNTS are all ⬜ unknown. Headline-class only.**
+
+### DATA (observed)
+- FT (per flash): Wall Street firms + NVIDIA partnering on a **$500B AI financing deal**. No further detail.
+- Tape at ~9:35am PDT: **NVDA −2.6%, session low, extending THROUGH the headline** (intraday; the close
+  decides whether this attribution survives).
+- Prior state this lands on: the **funding-migration ladder step 2 at scale** (L194: concessions → private
+  credit/SPVs); the **NVDA guarantee thread** (7/25→8/2: NVDA "in talks" to back OpenAI Ohio ~$250B); MS's
+  **~$800B-by-2028 private-credit funding need**; last night's WSJ entry (L3595): **retail REDEEMING from
+  private credit while this program would add institutional money.**
+
+### THESIS (interpretation — NOT fact)
+- *(Jake/ZH's circularity read, graded: mechanism RIGHT and vault-documented — one precision correction)*
+  The circular-financing pattern is this note's founding object: NVDA equity stakes + guarantees + its
+  chips as loan collateral in the same books that fund its customers. **But "to make up for lack of FCF"
+  needs an owner: NVIDIA is the cash-RICH leg. The FCF deficit is the BUYERS'** — OpenAI-class labs,
+  neoclouds, sovereign projects — whose purchases outrun their generation ([[cepi]]: the complex at
+  OCF/C ≈ 1.0 is the CEILING; the marginal buyer is below it). **Vendor-adjacent financing exists to
+  bridge exactly that gap — which is why it is a REVENUE-QUALITY question for the seller**: financed
+  demand books the same as cash demand until the financing leg wobbles. Precision matters because the
+  risk lands on the seller's ecosystem, not its balance sheet line.
+- *(★ the tape is the datum, if it holds to the close: FINANCING-AS-CONFESSION replaces
+  FINANCING-AS-DEMAND)* Through July, demand-support announcements were treated as bullish confirmations
+  (the guarantee thread). **A $500B financing program printing and the stock making session LOWS on it is
+  the interpretive SIGN FLIP** — the same inversion the CDS tape showed when the credit market built a
+  per-name AI basis (L3487). If it closes that way, file it next to the basis as the equity market's
+  version. ⚠️ One intraday tick; graded at the close, not before.
+- *(the pairing with last night's WSJ entry is the asset-class story)* **Retail redeeming from private
+  credit (WSJ, filed 12:25am) while institutions organize a $500B AI program (FT, this morning) — the
+  Dowd-vs-GS fork at asset-class scale: the exit and the double-down are simultaneous, in different
+  capital pools.** And it deepens the LONG-BOTH-SIDES statement: the managers strained on legacy software
+  books would be ADDING datacenter-leg exposure.
+- *(evidence ladder, pre-stated before the terms arrive)* **An announced financing PROGRAM is not
+  committed capital** — the ANNOUNCED-vs-FID rung. Expect the $500B to be a multi-year FRAMEWORK/target;
+  the checkable objects are the vehicle structure (SPV? fund? facility?), the first CLOSED tranche, and
+  whose balance sheet holds what. The radar's state-backstop leg (Capital Flows: policy flows make the
+  constraint non-binding) gets its PRIVATE-sector version if this is real — or its fragility-syndication
+  version. Both readings stay live until terms print.
+
+### 📌 REGISTERED
+1. ⬜ **FETCH: the FT piece** — participants, structure, what $500B counts, over what period. Grok item.
+2. **NVDA close today** — does the session-low-on-the-news attribution survive? (Sign-flip test.)
+3. **First CLOSED tranche** with named sizes = when ANNOUNCED becomes FID on the ladder.
+4. Cross: **Q3 dealer 13Fs (Nov)** + the L3332 SPV-bond-trading fetch — where this paper eventually shows.
+
+**Links:** [[cepi]] · [[market-fragility]] · [[compression-thesis]] · [[memory-regime-question]] (the
+62% BOM: the financed purchases are majority-memory) · [[detachment-bid]] · [[thesis-radar]]
