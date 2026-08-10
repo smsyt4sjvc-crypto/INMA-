@@ -799,3 +799,50 @@ across two branches that could not see each other — and got COMMERCIAL evidenc
   derivatives interest) leaning WALLED while the state-capex wave (Korea $585B) leans GLUT-later.**
   F3's resolution stays dated to enforcement-vs-letter + lock-in disclosures — now with named artifacts
   to fetch. 🚩 Micron lock-in terms (tenor, volume, price mechanism) = the single best fetch.
+
+### 2026-08-10 ~8:15am PDT — GS via ZH TWEET: MEMORY ≈ 62% OF THE VERA RUBIN BOM — and the BIGGER cost share is CPU-side SOCAMM2, not HBM4
+Source: ZH tweet (~8:13am, "1m" old at paste) → `raw/zh-tweet-gs-vera-rubin-memory-bom-2026-08-10.md`,
+citing a GS note + ZH's own 5/21/26 piece ("Vera Rubin rack $7.8MM, double a Blackwell rack").
+**⚠️ ARTIFACT TEST: a TWEET about a GS note. Neither the note nor the May piece has been read; the vault
+never ingested the 5/21 original (grep: zero Vera-Rubin-BOM coverage). All numbers REPORTED-class; "as we
+first noted in May" is a self-citation — one origin.**
+
+#### DATA (claims, attributed)
+- GS per ZH: **memory ≈ 62% of total bill of materials for NVIDIA's next-gen "Vera Rubin" superchip.**
+- **CPU-side SOCAMM2 module = "significantly larger cost share" than GPU-side HBM4.**
+- ZH 5/21/26 headline: **Vera Rubin rack $7.8MM ≈ 2× a Blackwell rack.**
+- On file for context: SOCAMM gen-1 = LPDDR5X-class attached-memory modules (the Micron/Meta hyperscale
+  LPDDR qualification, [[ai-infra-allocation-map]] L55). **SOCAMM2 spec ⬜ unverified here** (presumed
+  LPDDR6-class successor — presumption, not fact).
+
+#### THESIS (interpretation — NOT fact)
+- *(★ the join: 62% converts the F3 fork into THE NVDA-MARGIN QUESTION)* If memory is ~5/8 of the
+  flagship's BOM, **NVDA's gross margin and memory pricing are one trade.** Walled outcome (lock-ins hold,
+  prices firm) = the memory makers capture NVDA's economics from inside its own rack. Glut outcome (CXMT
+  floods) = NVDA's input bill deflates. The fork stops being a memory-sector question.
+- *(★ and SOCAMM2 > HBM4 moves the cost center onto the SPOT-EXPOSED leg)* HBM is the oligopoly-contracted
+  PROTECTED tier — the leg NVDA is already thrifting (L707, Rubin Ultra "less HBM," 8/6). LPDDR/
+  conventional is where Chinese supply actually competes and where the sixfold consumer-cost surge lives.
+  If the bigger cost share is LPDDR-class: **(a)** the buildout's memory demand is eating CONVENTIONAL
+  DRAM, not just HBM — the consumer-electronics price hikes (→ the 1-2bp core-CPI channel filed this
+  morning, [[market-fragility]]) and the datacenter BOM are the SAME squeeze, two ends of one shortage;
+  **(b)** the glut-vs-walled resolution matters MORE, because the contested commodity leg is the bigger
+  line item; **(c)** the 8/6 thrifting signal and this compose: NVDA engineers around the PROTECTED tier
+  while its LARGER exposure sits on the CONTESTABLE one.
+- *(both-ways discipline)* **A BOM share is price × quantity at the prices GS assumed** — 62% at
+  surge prices deflates mechanically if memory mean-reverts; the share is not a constant of the design.
+  ⬜ whether GS priced at spot or contract is exactly what the unread note would settle.
+- *(positioning cross-print)* The fast money's memory re-gross refusal (~1/8 restored, 8/9 entry) now
+  reads as: **the refused theme IS the input that is (reportedly) 62% of the flagship's cost.** The
+  refusal and the platform's cost structure are the same object seen from two desks.
+
+#### 📌 REGISTERED
+1. ⬜ **FETCH: the GS note** (memory priced at spot or contract? SOCAMM2 capacity per Vera CPU?) **+ the
+   ZH 5/21 original.** Grok/handoff item.
+2. ⬜ **SOCAMM2 spec** — LPDDR6-class? Determines how much of the 62% sits on the CXMT-contestable leg.
+3. **This week's already-dated events now double-load:** CRWV Tue (memory-price derivatives) · NBIS Wed ·
+   **the Micron 5-yr lock-in TERMS fetch (radar's best) — the lock-ins would be walling exactly the leg
+   that is reportedly the majority of the flagship BOM.**
+
+**Links:** [[ai-capex-cycle]] · [[market-fragility]] · [[compression-thesis]] · [[cepi]] ·
+[[ai-infra-allocation-map]] · [[buildout-bottleneck-map]] · [[thesis-radar]]
