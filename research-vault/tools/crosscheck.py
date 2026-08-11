@@ -31,6 +31,10 @@ TICKERS = set("""MSFT GOOGL AMZN META NVDA AAPL TSLA ORCL AVGO TSM MU AMD INTC D
 LRCX AMAT MRVL TXN ADI NXPI MPWR QCOM TER ALAB MCHP CRDO ASML ASX MTSI CRWV NBIS IREN
 APLD WULF CORZ SPCX COHR LITE MP SWKS ARM GFS QRVO RNW RIVN EWY SPY QQQ IWM SOXX SMH""".split())
 SUBJECTS = ["fab construction", "data centre", "data center", "brent", "wti", "gold",
+            # gap found 8/11: the tool could not check its own headline index. Subjects must
+            # cover the vault's named INSTRUMENTS, not just tickers.
+            "sdllmtk", "sdllmcs", "sdllmos", "token price", "tokens", "openrouter",
+            "gpu rental", "swaption", "payer skew", "repo",
             "hormuz", "payroll", "cpi", "vix", "electric", "office"]
 
 NUM = re.compile(r"[-+]?\$?\d[\d,]*\.?\d*\s*(?:%|B\b|bn\b|billion|M\b|bp\b)?")
