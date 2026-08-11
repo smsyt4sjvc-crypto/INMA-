@@ -2875,3 +2875,61 @@ Closes leg 1 of the auction stack registered at L2495 (Tue 3Y $58bn · Wed 10Y $
   caveat on the 8/11 basket screenshots (9:21-9:23 = PDT).** *(Analysis — one less unknown on every
   future upload timestamp.)*
 **Links:** [[new-economy-regime]] · [[ai-financing-fragility]] · [[portfolio-state]]
+
+### 2026-08-11 ~12:05pm PDT — 📌 JAKE'S ASSET-DURATION ARGUMENT: HIS BEST ONE YET (Independence 7/10, up from 3/10 this morning) — and it is simultaneously the strongest case AGAINST the financing
+**THE THESIS (Jake, verbatim):** *"This clearly will have another cycle, the 2000 internet comparison
+falls short in duration of the asset. It was a once in a decade at most installation. Chips are not.
+Which means fabs will be cyclical. And the demand for compute obviously isn't going away because it's
+becoming increasingly involuntary."* Asked: *"Is it time to accumulate?"* — **DECLINED under rule 7
+(descriptive, not advisory; sizing is Jake's). What follows grades the ARGUMENT.**
+
+#### DATA (observed — Census C30, same file, put in the same units)
+- **THE DOTCOM ANALOGUE IN CONSTRUCTION DOLLARS: Communication construction (c57)** — Jun-99 $16.9B ·
+  Jun-00 $18.9B · **Jun-01 $19.4B (the local peak)** · Jun-02 $19.2B · **Jun-03 $14.7B = −24% from the
+  2001 level.** Latest (Jun-26) $28.4B = **146% of the dotcom-era level, 25 years on.**
+- **★★★★ THE DECISIVE COMPARISON: telecom CONSTRUCTION fell ~24% peak-to-trough while telecom EQUITIES
+  fell ~90%.** **The equity drawdown was roughly 4× the physical drawdown.**
+- **SCALE:** data-centre peak $68.3B = **2.9×** the dotcom communication peak · fab peak $126.4B =
+  **5.3×** · **the two together at their peaks = 8.1×.** ⚠️ nominal, uninflated, different categories.
+- **AMPLITUDE — the caution on "fabs will be cyclical":** current fabs $52.9B are **6.2× the AVERAGE
+  pre-2021 fab PEAK ($8.6B).** Prior troughs ran **$1.2-7.9B.** ⇒ **reaching a prior cycle PEAK means
+  −82% from here; a prior cycle TROUGH means −97%. The pulse has no precedent amplitude to revert to.**
+- ⚠️ **INSTRUMENT LIMIT, stated up front: C30 "Communication" is TOWERS AND CENTRAL OFFICES, not
+  FIBRE.** The 1999-2001 glut was cable and equipment, which C30 does not capture. **So the −24% is a
+  floor on the physical drawdown, not a measure of the fibre overbuild.** The equity/construction
+  RATIO is the durable finding; the level is not.
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ HE IS RIGHT ON THE ASSET-DURATION POINT, AND IT IS THE BEST ARGUMENT IN THIS FILE. Fibre laid
+  in 2000 was still being lit in 2015 — a ~20-25 year asset, which is why the overhang took a decade to
+  clear. A GPU is a 3-6 year asset** (Krishna's stated 5-year scrap, NVDA's annual cadence). ⇒ **An
+  overbuild in chips SELF-CLEARS in a third of the time.** The "15-year hangover" implication of the
+  2000 analogy **does not transfer**, and this vault has been leaning on that analogy. *(Analysis.)*
+- **★★★★★ AND THAT EXACT PROPERTY IS THE STRONGEST CASE AGAINST THE FINANCING — the same fact, both
+  directions. A short-lived asset clears fast (bullish the cycle) AND YIELDS NO ANNUITY (bearish the
+  credit).** Fibre from 2000 still earns in 2026; **a GPU bought in 2026 earns until ~2031 and then you
+  must spend again to stand still.** ⇒ **Terminal value is far lower, and "investable asset… LONG LIFE"
+  — the claim the $2T program is being underwritten on — is FALSE ON JAKE'S OWN ARGUMENT.** **He has
+  just made the duration-mismatch case better than I did.** *(Analysis.)* [[ai-financing-fragility]]
+- **★★★★ "INVOLUNTARY" IS THE SHARPEST WORD HE USED AND IT ARGUES FOR A UTILITY, WHICH IS A BAD
+  EQUITY. Involuntary demand is the DEFINITION of a utility** — and utilities trade at low multiples on
+  modest returns precisely BECAUSE demand is captive and therefore regulated, commoditised and
+  price-competed. ⇒ **Involuntary demand supports the VOLUME thesis and says NOTHING about the PRICE at
+  which it clears.** The vault has the price leg numbered: **SDLLMTK −43% from its May peak against
+  rentals +35-38%.** **His baskets are EQUITY = margin × multiple, not volume.** *(Analysis.)*
+  [[metered-compute]]
+- **★★★ "FABS WILL BE CYCLICAL" — CONFIRMED (7 peaks/33 yrs, median 4.8yr) BUT THE AMPLITUDE REFERENCE
+  IS BROKEN.** Cyclicality tells you it returns; it does not tell you from what level. **A 13.3× policy
+  pulse has no historical amplitude to mean-revert toward, so prior troughs cannot size this downside.**
+  *(Analysis.)*
+- **★★★★ THE GAP BETWEEN BEING RIGHT AND BEING PAID, which is the whole of the accumulate question:
+  every constraint this vault measured today lands 2027-2029** (fab-supply thinning from the −58%
+  collapse; the power ratio at 0.51 and worsening). **His instruments are 2× SPY-beta equities at
+  40-45% vol that must survive 2026 to collect on a 2027-29 thesis.** **In 2000-03 the physical cycle
+  fell 24% and the equities fell 90% — being right about the buildout did not protect the holder.**
+  *(Analysis. Descriptive — rule 7.)*
+- **📊 INDEPENDENCE 7/10, UP FROM 3/10 THIS MORNING, and the improvement is real: this argument is HIS
+  OWN REASONING OFF MEASURED SERIES** (the C30 pulls, his own basket run) **rather than the principals
+  — Huang, Fink, the consortium — who supplied the 8am version.** **Credit where due: he replaced
+  testimony with data inside one session.** *(Analysis.)*
+**Links:** [[ai-capex-cycle]] · [[cepi]] · [[metered-compute]] · [[power-not-petroleum]] · [[portfolio-state]]
