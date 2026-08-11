@@ -2046,3 +2046,87 @@ tokens, USAGE-WEIGHTED** — blended across a basket covering 95% of trailing SP
 
 **Links:** [[compression-thesis]] · [[ai-financing-fragility]] · [[detachment-bid]] ·
 [[thesis-radar]] · [[cepi]] · [[memory-regime-question]] · [[data-sourcing-playbook]]
+
+### 2026-08-11 ~3:15pm PDT — ★★★★★ PRIMARY DOCUMENT: ZUCKERBERG COMMITS META TO AUCTION-PRICED INFERENCE — the most bearish sentence for compute economics is inside the most bullish document of the year, and it is a COMMITMENT, not a forecast
+Source: **Mark Zuckerberg, "The Future is for Everyone"** — full text, Jake paste 2026-08-11 ~1:30pm PDT
+→ `raw/zuckerberg-future-is-for-everyone-2026-08-11.md`. **ARTIFACT TEST: the actual document, not a
+report about it.** ⚠️ Map gap #18 fixed same-turn: MODEL-ECON 0→7 hits, TOKEN-ECON 0→2.
+
+#### DATA (verbatim, from the principal)
+- **★★★★★ THE PRICING MECHANISM: *"there will be a DYNAMIC AUCTION MECHANISM that will guarantee that
+  everyone gets the LOWEST PRICE POSSIBLE for the intelligence and compute they're using while also
+  ensuring the capacity is used for whatever people collectively find most valuable."*** Paired with:
+  ***"We will offer FREE VERSIONS that will be accessible to billions of people."***
+- **★★★★ THE MOAT, NUMBERED BY A PRINCIPAL: *"AI is likely the most competitive industry in history.
+  Innovations are quickly copied and absorbed WITHIN MONTHS… maintaining even a TWO-MONTH ADVANTAGE is
+  incredibly valuable."***
+- **★★★★ BEHIND-THE-METER, CONFIRMED: *"We help keep electricity prices low by BUILDING OUR OWN
+  ENERGY-GENERATING INFRASTRUCTURE WHEREVER WE INVEST. This ensures that not only are we not consuming
+  energy that could have gone to the local communities, but in some cases we even SUPPLY A SURPLUS of
+  low-cost energy back to the communities."***
+- **OPEN SOURCE RESUMES: *"Now that Meta Superintelligence Labs are up and running, we will RESUME
+  RELEASING SOME OPEN SOURCE MODELS SOON."*** Plus a policy ask to protect distillation: *"you can learn
+  from anything you can observe."*
+- **★★ EFFICIENCY CLAIM THAT DESTABILISES THE $/GW DENOMINATOR: a self-improving system optimising its
+  own compute efficiency *"could theoretically invent ways to squeeze 100x OR MORE INTELLIGENCE OUT OF
+  EACH GIGAWATT."***
+- **⬜ CHECKABLE CLAIM, UNVERIFIED: *"Countries like China are bringing online 1GW+ of NUCLEAR capacity
+  EVERY OTHER WEEK."*** ⇒ implies **~26GW/yr**. 🚩 **FETCH — that is a very large number.**
+- **LABOUR: *"there is a SHORTAGE of skilled tradespeople like carpenters, electricians, and
+  construction workers to support the demand for infrastructure buildout."*** Meta launches **America's
+  Workforce Academy** (free trades training + guaranteed jobs) and a **Future Is For Everyone Fund.**
+- **COMMUNITY, specific and checkable: Richland Parish, Louisiana — *"teachers received a $50,000 bonus
+  this year because of the increased tax revenue."*** Water-positive by 2030; **200% restoration** in
+  high-water-stress areas.
+- **GOVERNANCE: *"Meta is implementing a governance structure that gives our INDEPENDENT BOARD OF
+  DIRECTORS the power to approve the safety criteria for releasing models."***
+- **JOBS PREDICTION, gradeable: *"I predict that this will not only lead to much greater economic growth,
+  but also MORE EMPLOYMENT OVER TIME rather than less."*** With the mechanism: *"Company sizes may
+  shrink… It implies a LARGER NUMBER OF COMPANIES with fewer people each."*
+- Policy asks: intermediate training checkpoints to government · reduce US training-data restrictions ·
+  **continue silicon export controls** · do NOT restrict foreign open-source models.
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ THE AUCTION IS THE STORY, AND IT IS THIS NOTE'S CENTRAL MECHANISM ANNOUNCED BY A PRINCIPAL.
+  "Lowest price possible," guaranteed, by design, from the #4 AI capex spender.** ⇒ **Meta is not
+  forecasting inference-price deflation. It is COMMITTING TO CAUSE IT.** **[[metered-compute]] has
+  SDLLMTK at −43% from its May peak; this is the supply-side actor announcing that the decline is
+  policy.** ⇒ **The most bearish sentence for anyone long compute MARGIN sits inside the year's most
+  optimistic manifesto — and Jake is long compute margin through both baskets.** *(Analysis.)*
+- **★★★★ PAIR IT WITH THE TWO-MONTH MOAT AND THE TERMINAL ECONOMICS ARE THIN BY THE PRINCIPAL'S OWN
+  ARITHMETIC. An 8-week advantage + auction-cleared pricing + free tiers for billions = a commodity with
+  a two-month lead time.** **That is the compression thesis stated by someone spending tens of billions
+  a year to make it true.** [[compression-thesis]] *(Analysis.)*
+- **★★★★ IT PARTLY CLOSES MY OWN 11:55am CAVEAT — AND I FLAGGED IT BEFORE HE CONFIRMED IT.** This
+  morning's power entry registered: *"⚠️ BEHIND-THE-METER GENERATION MAY NOT LAND IN THE 'ELECTRIC'
+  LINE… if a large share of new compute power is self-generated, the 0.51 ratio OVERSTATES the
+  shortfall."* **Zuckerberg states Meta builds its own generation WHEREVER it invests, and sometimes
+  exports surplus.** ⇒ **The utility-side DC/Electric ratio DOES overstate the grid shortfall for at
+  least one major buyer.** ⚠️ **It does not quantify how much, and Meta is one name.** **The
+  Musk/Bezos grid warning survives but is WEAKER than the 0.51 ratio alone implied.**
+  [[power-not-petroleum]] *(Analysis.)*
+- **★★★ THE CONFLICT, DISCLOSED RATHER THAN WEIGHED — and per Jake's 8/10 rule it does not invalidate
+  the flow. Meta is BEHIND on frontier models, so commoditising the layer it trails in is the rational
+  competitive move**, and every policy ask serves the follower: **protect distillation** (learn from
+  leaders), **loosen training-data rules** (Meta's constraint), **keep export controls** (slow China).
+  ⇒ **Motive explains WHY he wants zero-margin inference. It does not make the auction less real — a
+  well-capitalised player with a strategic interest in zero margin is exactly what makes the
+  compression thesis mechanical rather than speculative.** *(Analysis.)*
+- **★★ THE 100x-PER-GIGAWATT LINE CUTS AT THIS MORNING'S $/GW DISPUTE.** [[ai-financing-fragility]]
+  L4271 carries Huang's $50-60B/GW all-in against Krishna's $60-80B/GW chips-only, **with NVDA
+  revenue ÷ commissioned GW registered as the arbiter.** ⇒ **If intelligence-per-gigawatt is itself
+  a moving target by 100x, the GW denominator is not a stable unit and BOTH men's figures are
+  measuring a shrinking thing.** *(Analysis. Speculative — he said "theoretically.")*
+- *(the labour join, three-way)* **A principal names a SKILLED-TRADES SHORTAGE** — which matches
+  Friday's payroll internals (**goods-producing and construction strongest in months**) and this
+  morning's C30 pull (**data-centre construction at an all-time record, +45.8% YoY**). ⇒ **Three
+  independent sources, one conclusion: the tightness in this labour market is in the trades building
+  the AI infrastructure.** [[new-economy-regime]] *(Analysis.)*
+- 📌 **REGISTERED, GRADEABLE: "more employment over time rather than less."** Filed against a tape where
+  **payrolls printed −23k with 21 of 30 months revised lower.** **The mechanism he offers — more
+  companies, fewer people each — is an ASSERTION with no supporting series.** Grade it forward.
+- ⬜ **NOT KNOWN: the auction's DATE, scope, or whether it applies to API/enterprise or only consumer
+  tiers.** ⚠️ **A "dynamic auction" with free tiers may be a rationing device for a capacity-constrained
+  consumer product, NOT a wholesale price mechanism.** **Do not treat it as an API price cut until the
+  scope is stated.** 🚩 **FETCH: any Meta pricing/product page defining the auction.**
+**Links:** [[compression-thesis]] · [[power-not-petroleum]] · [[ai-financing-fragility]] · [[ai-capex-cycle]] · [[new-economy-regime]]
