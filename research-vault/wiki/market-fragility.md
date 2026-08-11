@@ -2700,3 +2700,85 @@ window, so the bar was the STYLE COHORT, not one fund).
 
 **Links:** [[ai-financing-fragility]] (F8, the SA arc L2008/L2111) · [[detachment-bid]] ·
 [[thesis-radar]] · [[balance-sheet-board]] (the names these books hold are the issuer side) · [[cepi]]
+
+### 2026-08-11 ~9:50am PDT — 📌 JAKE'S DURATION THESIS REGISTERED: "another 18-24 months of bullish push" — Independence 3/10 on the bull leg, and ONE PREMISE IS FACTUALLY WRONG
+**THE THESIS (Jake, verbatim):** *"It's abundantly clear this buildout is in its adolescence at best,
+they're doubling down hard, new institutional money is getting involved, there seems to be very little
+regard to credit risk and while FCF is negative, it's still attainable. I'm think we see another 18-24
+months of bullish push since the feds seemingly refuse to do literally anything."*
+
+#### STEELMAN (built at full strength before any pushback — the case is genuinely strong)
+- **The leverage is ANNOUNCED, not DRAWN. Committed capital in the $500B consortium is $0.** You cannot
+  have a credit event on undrawn commitments. **The mechanically earliest stress date is: tranches close
+  → assets underperform → marks move.** Neither leg has happened. That alone buys quarters.
+- **Private credit's STRUCTURE delays the signal by design** — no daily marks, no margin calls, PIK
+  toggles, hold-to-maturity accounting. **The pipe this vault has been mapping is the pipe that is
+  SLOWEST to force a repricing.** That is not a bug in Jake's thesis; it is the thesis.
+- **The buyers have real sheets, unlike 1999 telecom.** [[balance-sheet-board]]: NET **+129B** across ten
+  names, stakes **~356B**, GOOGL NET **+142**, NVDA **+42**, MSFT **+37**. There is genuine equity cushion
+  ahead of the paper.
+- **Institutional involvement is a FLOW datum, not sentiment** — Apollo, Blackstone, BlackRock, Brookfield,
+  Goldman, KKR plus MS "up to $1.5T/10yrs." **Per Jake's own 8/10 rule, the conflict does not matter if
+  the outcome is the same: convened capital still moves.**
+- **The dotcom precedent supports DURATION: vendor financing extended that boom ~2 years past the point
+  the arithmetic stopped working.**
+
+#### ⛔ THE PREMISE THAT IS FACTUALLY WRONG — "very little regard to credit risk"
+**The CREDIT market has been discriminating for months, with per-name ordering that matches CEPI:**
+**ORCL +70bp YTD to ~215bp (RECORD)** · **META +39bp to 95bp (highest since CDS began trading Oct 2025)** ·
+**NVDA +32bp to ~82bp (highest since trading began Nov 2025)** · **AVGO +48bp** (L3487). And the
+**AI-credit basis is 25bp vs 6bp historical — a ~4x widening that means AI-relatedness is now its own
+priced risk factor** (L3428). ⇒ **It is the EQUITY market with little regard to credit risk. Credit
+already has regard, and has had it since at least June.** *(Analysis. This does not kill the thesis — a
+widening basis with no default is exactly what a long grind looks like — but the premise as stated is
+inverted, and the bull case must rest on something other than "nobody is watching.")*
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ THE WEAK LINK IS THE INFERENCE, NOT THE PREMISES: "the buildout has 18-24 months" does NOT
+  imply "the equities have 18-24 months."** **Telecom capex kept RISING into 2001; the equities topped
+  March 2000.** Equities price **margin × multiple**; capex prices **revenue**. The vault already holds
+  the configuration that separates them (L2091): *"demand at records with SUPPLY as the binding
+  constraint… REVENUE keeps climbing and MARGIN rolls over. Jake's basket is EQUITY — not revenue."*
+  ⇒ **Jake can be completely right about the buildout's duration and still be wrong about his baskets.**
+  *(Analysis.)*
+- **★★★ THE FED PREMISE AIMS AT THE WRONG FUNDING CHANNEL.** This buildout is not financed at fed funds —
+  it is financed at **private-credit/SPV coupons** (Krishna's own implied ~10%, L4271). **A Fed that holds
+  does not hold that spread down**; the basis above is widening with the Fed on hold. **And the Fed is not
+  even neutral: Hammack DISSENTED in July preferring a 25bp HIKE**, on record that she does *"not see the
+  current policy stance as appropriately restrictive."* *(Analysis.)*
+- **★★★ "FCF NEGATIVE BUT ATTAINABLE" IS THE LOAD-BEARING CLAIM, AND THE UNIT ECONOMICS ARE MOVING AWAY
+  FROM IT.** The squeeze pair, both legs numbered: **GPU rentals +35-38% (sponsor-published) against
+  SDLLMTK −43% from its May peak.** Input cost UP, output price DOWN. **"Attainable" requires VOLUME to
+  outrun price deflation — the vault registered the bar at ~75%/quarter.** That is the falsifiable form of
+  Jake's word, and it is measurable. [[metered-compute]] *(Analysis.)*
+- **⛔ AND THE METHOD POINT, WHICH IS JAKE'S OWN RULE: "18-24 months" is a TIMING claim derived from
+  STATES** — adolescence, doubling down, institutional money, no credit regard. **Rule 10: states shade
+  odds and time NOTHING.** *"Adolescence"* is *"late-cycle"* with the sign flipped — **unfalsifiable in
+  real time, obvious only in hindsight.** The vault BANNED the bearish version; the bullish version gets
+  the same treatment. *(Analysis.)*
+- **🚩 F19 IS EXACTLY THIS QUESTION AND HAS NEVER BEEN RUN** (ai-capex-cycle L2076, registered 8/5):
+  **shell vs fit-out. If shells were built 2024-25 and 2026 is the fill, data-centre CONSTRUCTION spending
+  decelerates while electrical-equipment and semiconductor orders ACCELERATE. A clean divergence DATES
+  the buildout** — i.e. it answers "adolescence?" with a series instead of an adjective. **Resolver:
+  Census data-centre construction line vs durable-goods orders for computers/electronic products.**
+  **THIS IS THE INSTRUMENT THE THESIS NEEDS. Registered as the next Tier-0 build.**
+- **⚠️ COUNTERWEIGHT ALREADY IN THE VAULT, from a participant, with numbers (L2083):** electrical-equipment
+  respondents report costs up *"enough that our CUSTOMERS are cutting next year's plans… This isn't
+  sustainable"* (5-25% PCB assembly, 15-45% bare boards). **That is demand destruction firing INSIDE the
+  AI supply chain — against "doubling down hard" persisting unbroken.** *(Analysis.)*
+- **📊 INDEPENDENCE SCORE — 3/10 on the BULL leg, 8/10 on the Fed observation.** The duration case draws
+  on **Huang, Fink, the consortium's own announcement, and Mugalli — every one a principal who NEEDS
+  18-24 more months.** The bear-side inputs (CDS tape, SDLLMTK, CEPI, Krishna) are measured series or a
+  conflicted-the-other-way critic. **⚠️ Per Jake's 8/10 rule the conflict does not invalidate the FLOW
+  prediction — but it does mean the thesis has not yet been tested against a source that does not profit
+  from it.** *(Analysis.)*
+
+#### 📌 THE DATED TESTS THAT SETTLE IT — all inside 8 weeks, none 18-24 months out
+1. **FIRST TRANCHE CLOSE of the $500B: TENOR vs the GPU generation clock** (registered 8/10 as *"THE single
+   most informative term to fetch"*). 10yr+ paper on GPU-heavy collateral = the mismatch is live from day
+   one. Short-tenor or power/shell-collateralised = the underwriters respected the split and **Jake's
+   duration case gets materially stronger.**
+2. **~late Aug: NVDA Q2 FY2027 10-Q** — the four-roles filing test, RVG-class contingency language.
+3. **Sep-end: SK hynix HBM contract price** — resolves the memory leg his basket is 8% long.
+4. **F19 run** — dates the buildout with a series instead of an adjective.
+**Links:** [[ai-financing-fragility]] · [[ai-capex-cycle]] · [[cepi]] · [[metered-compute]] · [[_calibration]]
