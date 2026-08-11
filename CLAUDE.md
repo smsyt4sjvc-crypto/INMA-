@@ -44,6 +44,18 @@ duplicate note) · the **🔴 open items** the inbound might close.
    vehicle). The router now prints BOTH briefs on any FINANCING/SHEETS/CAPEX match — read both before
    filing; file to ONE per the board's ⛔ routing rule, cross-link the other.
 
+6. **⛔ CROSSCHECK MY OWN OUTPUT, NOT JUST JAKE'S INPUT** (Jake, 8/11: *"the vault is supposed to
+   remember things better than I can"*). **The librarian gates the DOOR. Nothing gated the WINDOW —
+   numbers I generate myself.** On 8/11 the vault held the right answer FOUR TIMES and I did not
+   consult it (Hormuz blockade record · FRED transport-vs-naming · F19 run on one leg · META FCF).
+   **Before citing ANY fresh data pull or stating any number:**
+   ```
+   python3 tools/crosscheck.py --claim "META FCF +13.2B"     # or pipe a whole table in
+   ```
+   It gates on ENTITY **and** METRIC and returns a dated READ LIST, newest first. **A disagreement is
+   usually a different period or definition — and sometimes it is the fresh pull being wrong.**
+   ⚠️ Its extracted-value column is noisy; **the LINE TEXT is the product, not the number.**
+
 ### WRITING RULES
 5. **Firewall**: DATA (observed, sourced) and THESIS (interpretation, attributed) never blend. When in
    doubt, it is thesis. Wrong calls stay VISIBLE (strike/falsify, never delete).

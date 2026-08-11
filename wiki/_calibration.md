@@ -1212,3 +1212,44 @@ paraphrase). **Two instances, two days.**
   its absence LOUDER.** Bias, once named, sharpens the test instead of dulling the story.
 
 **Links:** [[war/war-board]] (2026-08-04 addendum) · [[_persona]]
+
+### 2026-08-11 ~4:35pm PDT — ⛔⛔ THE DAY'S DOMINANT FAILURE MODE, NAMED AND INSTRUMENTED: the gate was on the door, not the window
+**Jake, 8/11:** *"The vault is supposed to remember things better than I can."* **It did. Four times.
+I did not ask it.**
+
+#### DATA (observed — four instances, one session)
+| # | I claimed | the vault already held | where |
+|---|---|---|---|
+| 1 | *"first US-weapons-on-merchant event of the standoff"* | disabling-fire blockade record since **7/26**, plus the identical mis-filing already logged | `war-confirmed:L112` · `war-board:L128` |
+| 2 | FRED series IDs are wrong → widened the list twice | `NEWORDER`/`TTLCONS` failing = **transport dead**, not naming | inferable from the first probe |
+| 3 | fabs rolling over vs data centres — "capital rotating" | **F19 IS the shell-vs-fit-out test**; I ran it on one leg only | `ai-capex-cycle:L2076` |
+| 4 | **META FCF +13.2B** | ***"META'S FCF IS ~ZERO"*** — $31.9B OCF, **kept $784M** | `ai-financing-fragility:L1825-1827` |
+- **ALL FOUR ARE THE SAME SHAPE: my own work product contradicting something already on disk.**
+- **NONE were retrieval failures. The knowledge was on disk throughout — three of four were findable
+  by a single grep.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ THE DIAGNOSIS IS STRUCTURAL, NOT ATTENTIONAL, WHICH IS WHY ANOTHER RULE WOULD NOT HAVE
+  HELPED. `librarian.py` gates INBOUND — every paste from Jake goes through it, and today every paste
+  DID.** **Nothing gated OUTBOUND: a number I compute, a probe I write, an instrument I already own.**
+  ⇒ **I built a door and left the window open, then spent the day climbing through it.**
+  **The vault's own Step Zero principle applies verbatim: *a rule that only fires when remembered is
+  an INTENTION; a command in the workflow is a CONTROL.*** *(Analysis.)*
+- **📌 INSTRUMENTED, NOT JUST RULED: `tools/crosscheck.py`.** Gates on **entity AND metric**, returns a
+  dated read-list newest-first. **Validated against the real 8/11 failure: given `"META FCF +13.2B"` it
+  surfaces `ai-financing-fragility:L1827` — the literal *"Generated $31.9 BILLION… KEPT ONLY $784
+  MILLION"* — in the top four.** **It would have caught this morning.** Added to `CLAUDE.md` §0 as
+  ingest rule 6.
+- **⚠️ TWO BUILD FAILURES WORTH KEEPING, because they are the same lesson recursively: v1 matched on
+  ENTITY ALONE and returned pure noise while MISSING the target line** — a number near a ticker is not
+  a claim about the same thing. **v2 ranked by SIZE OF DISAGREEMENT, which buried the relevant entry
+  under extreme unrelated values** — a read list wants RECENCY, not magnitude. ⇒ **The tool built to
+  catch "looks related but is not" failed twice by exactly that error.** *(Analysis.)*
+- **⚠️ HONEST LIMIT: the extracted-value column is unreliable** (dates, line refs and ranges still leak
+  through as numbers). **The LINE TEXT is the product. The tool's job is to put the right paragraph in
+  front of me, not to adjudicate.** *(Analysis.)*
+- **★★★ WHAT THIS DOES NOT FIX: instances 2 and 3 were not numeric.** Crosscheck catches #1 and #4.
+  **#2 (misdiagnosing a transport failure) and #3 (owning an instrument and not pointing it at the
+  second object) are reasoning failures a grep cannot reach.** ⬜ **Unsolved, and stated as unsolved
+  rather than papered over.** *(Analysis.)*
+**Links:** [[_persona]] · [[data-sourcing-playbook]] · [[cepi]] · [[ai-capex-cycle]]
