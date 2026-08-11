@@ -402,3 +402,20 @@ The gain FIGURES are third-hand. What is first-hand is the reconciliation below,
    calendar Q3, the same mechanism that produced a record beat produces a miss **with no operational
    change whatsoever** — and the DA/C deferral and MSFT's 15→25y life extension land in the same quarter.
    ⬜ NOT KNOWN. **This is the single most asymmetric registered item in the CEPI thread.**
+
+### 2026-08-11 ~7:50am PDT — DA/C GETS TESTIMONY FROM THE DEMAND SIDE: a large enterprise buyer models a FIVE-YEAR SCRAP CYCLE, on the record, eight months before the $2T program that needs "long life"
+- DATA: **IBM CEO Arvind Krishna** (The Verge *Decoder*, ~1-2 Dec 2025, convergent-secondary — primary
+  paywalled): on AI hardware, **"you've got to use it all in FIVE YEARS, because at that point you've got
+  to THROW IT AWAY and refill it."** Restated with returns math (NBIM/Tangen, ~6 May 2026): a **seven-year
+  payback** on $6-8T needs **"an extra 1 to 2 trillion a year of revenue… even if it is high margin, would
+  be 20 to 30%. So that much incremental revenue, I don't believe is there."**
+- **WHY IT LANDS HERE AND NOT ONLY IN THE FINANCING NOTE:** L56 of this note is the standing conclusion
+  that **DA/C is mandatory because earnings are AFTER depreciation** — the ratio exists precisely to catch
+  a complex whose reported earnings depend on the useful life it assigns itself. **L309: the 2024-26 capex
+  wave is still outrunning its own depreciation schedule.** Krishna supplies the counterparty's own
+  assumed life (5yr) against the accounting lives the buyers book — **a buyer's scrap estimate is evidence
+  about the DENOMINATOR the sellers control.**
+- ⚠️ NOT a measurement. It is one executive's stated assumption, from a company with a disclosed conflict
+  (Q2 2026 Z-mainframe revenue −42% YoY as client capex diverted to GPU-adjacent kit). **Filed as
+  TESTIMONY on the depreciation question, weighted accordingly.** Full ledger, the conflict, and the
+  colliding $/GW figures: [[ai-financing-fragility]] L4271. [[ai-capex-cycle]]

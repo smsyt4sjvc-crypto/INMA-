@@ -4139,6 +4139,7 @@ Source: transcript excerpt, same event as Fink's → `raw/huang-transcript-500b-
    power/shell-collateralized = the underwriting respected the split. THE single most informative
    term to fetch.
 2. $50-60B/GW adopted as the thread's conversion factor (Huang, 8/10) — pending any breakdown of
+  ⟲ SUPERSEDED 2026-08-11 → ai-financing-fragility.md:L4271 — the compute-share breakdown ARRIVED and contradicts the factor: Krishna's chips-only $60-80B/GW exceeds Huang's all-in $50-60B/GW — do not use $50-60B/GW as a settled conversion factor without the dispute flag
    the compute share ⬜.
 3. ⬜ Venue/date-stamp for both transcripts (same interview? CNBC/Bloomberg special?).
 
@@ -4267,3 +4268,105 @@ print (4,444). The flows went somewhere Monday; it wasn't equities. Tuesday open
 outlier. **Sellers-over-buyers is the squeeze pair expressed in relative price.** CRWV reports AFTER
 CLOSE TODAY — receiver window #1. *(One day; the divergence file holds it, [[detachment-bid]]
 unchanged until seams move.)*
+
+### 2026-08-11 ~7:45am PDT — ★★★★ REGISTERED ITEM #2 CLOSES FROM THE OTHER SIDE: IBM's CEO PUT A NUMBER ON THE COMPUTE SHARE — AND HIS CHIPS-ONLY FIGURE EXCEEDS HUANG'S ALL-IN FIGURE
+  ⟲ SUPERSEDES ai-financing-fragility.md:L4141 — the compute-share breakdown ARRIVED and contradicts the factor: Krishna's chips-only $60-80B/GW exceeds Huang's all-in $50-60B/GW — do not use $50-60B/GW as a settled conversion factor without the dispute flag
+Source: T1 Sonnet fetch (54 tool calls), commissioned to find Krishna's arithmetic. L4141 registered
+*"$50-60B/GW adopted as the thread's conversion factor (Huang, 8/10) — pending any breakdown of the
+compute share ⬜."* **It is no longer pending. It is DISPUTED.**
+
+#### DATA (observed — verbatim, convergent secondary; primary paywalled, see grade)
+- **ARVIND KRISHNA, IBM Chairman/CEO — venue #1: The Verge's *Decoder*, host Nilay Patel, ~1-2 Dec 2025**
+  (Techmeme indexed 12/2/25). Verbatim, word-for-word convergent across independent Benzinga / Futurism /
+  Fortune extractions: **"There's no way you're going to get a return on that… because $8 trillion of
+  capex means you need roughly $800 billion of profit just to pay for the interest."**
+  - **"$80 billion to fill up a one-gigawatt data center."**
+  - A single company committing 20-30GW = **"$1.5 trillion of capex."** Total AGI-chasing commitments
+    ~100GW = **"$8 trillion of capex."**
+  - **On hardware life: "you've got to use it all in FIVE YEARS, because at that point you've got to
+    THROW IT AWAY and refill it."**
+  - **"I am not convinced… we're talking like 0 to 1 percent — that the current set of known
+    technologies gets us to AGI."**
+- **VENUE #2, RESTATED WITH NEW NUMBERS: *In Good Company with Nicolai Tangen* (Norges Bank Investment
+  Management), ~6 May 2026** — **"$60 to 80 billion dollars worth of SEMICONDUCTORS"** per gigawatt →
+  **"$6-8 trillion"** total. New framing: **"If you say that's got a SEVEN-YEAR PAYBACK, you are going to
+  need an extra 1 to 2 TRILLION A YEAR of revenue… even if it is high margin, would be 20 to 30%. So that
+  much incremental revenue, I don't believe is there."**
+- **⚠️ SOURCE GRADE, stated plainly:** theverge.com and web.archive.org both **refused fetch (403)** — the
+  **primary transcript was NOT read.** These quotes rest on **convergent independent secondary extraction**,
+  which is the rung below primary. **The widely-circulated fragment "the math isn't adding up" could NOT be
+  verified against any primary** — headline phrasing *"the math just doesn't add up"* (Yahoo/Futurism/dnyuz,
+  all 12/5/25) reads as **outlet paraphrase, not confirmed verbatim. Do not quote that line as his.**
+- **NOT STATED BY HIM ANYWHERE, checked: an interest RATE · an explicit ROIC threshold · inference-cost-curve
+  figures · any $/MEGAWATT figure** (only $/GW). ⬜ Whether the "20-30 GW single company" example named a
+  company: NOT FOUND.
+- **DIFFUSION (the lag, per the 8/10 convention):** said ~12/1/25 → mass wire 12/5/25 → **recycled Jan-Feb
+  2026 by templated syndication (financialcontent.com, near-identical titles, byline "tokenring") = textbook
+  N-outlets-one-origin** → restated with NEW figures 5/6/26, picked up narrowly, mainstream ~4 weeks later →
+  **spiked again after IBM's OWN stock rout 7/14-22/26.** ⇒ **Eight months old. The vault did not have it.**
+- **THE CONFLICT, disclosed rather than weighed:** IBM builds **no** frontier GPU fleet. Krishna, Q3 2025
+  call (10/23/25): **"we are one of CoreWeave's LARGE CLIENTS. We also tend to use a lot of infrastructure
+  at AWS, at Azure as well as at GCP."** IBM H1 2026 capex **$743M net / $461M PP&E** (8-K) — four orders of
+  magnitude below what he critiques. And the boom is **actively cannibalising him: Q2 2026 Z-mainframe
+  revenue −42% YoY** on client capex diverted to GPU-adjacent memory/servers; **IBM fell ~25-26% intraday
+  (~$68B) around 7/14/26.** Gen-AI "book of business" >$12.5B cumulative BOOKINGS (not capex) as of Q4 2025;
+  ⬜ no updated figure in the Q2 2026 print.
+- **PUSHBACK, searched for and NOT FOUND:** no NVIDIA/hyperscaler executive or analyst replied **by name, on
+  record, to this quote.** Altman's *"if you want to sell your shares, I'll find you a buyer,"* Nadella's
+  *"not a single business plan… they've put in and not beaten it,"* Huang's *"we see something very
+  different"* (CNBC 11/19/25) are **pre-existing general defences from separate interviews — NOT replies.**
+  In-interview, Patel raised Altman's ROI confidence; Krishna: **"That's a belief. That's what some people
+  like to chase."**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ THE COLLISION, AND IT IS THE POINT OF FILING THIS. Put the two principals' numbers on one line:**
+  | | figure | scope | direction it flatters |
+  |---|---|---|---|
+  | **Huang (8/10)** | **$50-60B/GW** | **ALL-IN** — energy + land + power + shell + computing (L4096) | LOW all-in ⇒ more GW per dollar, buildout affordable, *"we did not even start"* |
+  | **this vault (8/10, L4116)** | ~$30-42B/GW implied | compute = ~60-70% of Huang's all-in | — |
+  | **Krishna (5/6/26)** | **$60-80B/GW** | **SEMICONDUCTORS ALONE** | HIGH chip-only ⇒ $8T unpayable |
+  **KRISHNA'S CHIPS-ONLY NUMBER IS LARGER THAN HUANG'S ENTIRE ALL-IN NUMBER — and ~2× the vault's implied
+  compute share.** Both men sell into this market and neither is guessing. **They cannot both be right, and
+  the gap is not a rounding difference — it is the difference between a buildout that pencils and one that
+  does not.** *(Analysis.)*
+- **★★★ AND THE BIAS RUNS THE WAY YOU WOULD PREDICT, WHICH IS WHY NEITHER NUMBER IS EVIDENCE ON ITS OWN.**
+  The seller quotes the low all-in; the critic quotes the high chip-only. **Each figure is the one that
+  makes its speaker's argument work.** ⇒ **Register the DISPUTE, not a winner.** *(Analysis.)*
+- **📌 THE ARBITER EXISTS AND IT IS CHECKABLE, which promotes this from opinion to test: NVDA data-centre
+  revenue ÷ GW actually commissioned = observed $/GW of silicon.** Both denominators are partially
+  available — NVDA reports the numerator quarterly (now split Hyperscale/ACIE since Q1 FY2027), and
+  commissioned-GW estimates exist from SemiAnalysis. **Neither man's number survives contact with that
+  ratio if it is off by 2×.** 🚩 **FETCH/BUILD: the implied $/GW from NVDA's own revenue line.** *(Analysis.)*
+- **★★★★ THE DEPRECIATION LEG IS THE ONE THAT REACHES THIS NOTE'S CRUX DIRECTLY, and it is a BUYER
+  contradicting the SELLER on the load-bearing word.** L4116 registered the underwriting crux as **"LONG
+  LIFE" vs a 3-6yr economic life on the compute share.** **Krishna, from the demand side, says FIVE YEARS
+  and "throw it away."** ⇒ **The infrastructure-capital pitch requires long life; a large enterprise BUYER
+  publicly models a 5-year scrap cycle.** That is the duration mismatch stated by the counterparty, eight
+  months before the $2T program that depends on the opposite claim. **It does not resolve registered test
+  #1 (the tranche TENOR) — but it means the mismatch was voiced on the record before the paper was
+  written.** *(Analysis.)* [[cepi]] — this is the DA/C ratio arriving as testimony.
+- **⚠️ THE IMPLIED INTEREST RATE HE DID NOT STATE — arithmetic on his own numbers, labelled as such:
+  $800B ÷ $8T = 10%.** He gave no rate. **10% is not an investment-grade coupon (≈5% would give $400B) —
+  it is a PRIVATE-CREDIT/SPV-paper coupon**, i.e. this note's entire pipe. **Two readings and I cannot
+  separate them: either he deliberately priced the debt where it is actually going, or he used a round
+  number.** ⬜ **Do not present 10% as his assumption.** But note the coincidence: **his headline figure only
+  works at the rate this thread has been documenting.** *(Analysis.)*
+- **⛔ ON THE CONFLICT — APPLY JAKE'S 8/10 RULE SYMMETRICALLY, WHICH CUTS AGAINST DISCOUNTING HIM.** Jake,
+  on bullish conflicted analysts: *"Conflicted doesn't mean anything… the incentive doesn't matter if the
+  outcome is the same."* **The symmetric application: Krishna's conflict does not discount his ARITHMETIC,
+  because arithmetic is checkable independent of motive.** Use the **two-ledger split** (8/10): his NUMBERS
+  are one ledger, his MOTIVE another. **The motive ledger is loud** — the AI boom cost him 42% of his
+  mainframe line and a quarter of his market cap — **and it explains why he says it, not whether it is
+  true.** The numbers stand or fall on the NVDA-revenue arbiter above. *(Analysis.)*
+- *(the small item with today's date on it)* **Krishna is on record as "one of CoreWeave's large clients"
+  — and CRWV reports AFTER THE CLOSE tonight.** A named large enterprise client whose CEO publicly models
+  a 5-year scrap cycle and doubts the returns is a **customer-concentration/renewal datum**, not just
+  colour. 🚩 **Listen for enterprise (non-hyperscaler) renewal language.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. **⬜ CLOSED-AS-DISPUTED: the compute share of $/GW.** Huang $50-60B all-in vs Krishna $60-80B chips-only.
+   **The vault carries BOTH, flagged as irreconcilable, until the NVDA-revenue arbiter is computed.**
+2. **🚩 NEW: build the implied $/GW of silicon from NVDA's own reported data-centre revenue ÷ commissioned
+   GW.** Tier-0 candidate (EDGAR numerator; GW denominator needs a source ⬜).
+3. **⬜ The Q2 2026 IBM gen-AI book-of-business figure** (absent from the 7/22/26 print as fetched).
+4. **⬜ Primary Verge transcript — still unread (403).** Quotes are convergent-secondary. Upgrade if reachable.

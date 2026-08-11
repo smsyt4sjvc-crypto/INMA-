@@ -1750,6 +1750,7 @@ gold not equities).
   sticking point. Qatar/Pakistan still voicing optimism = the two-track texture continues.
 - **⬜ ESCALATION CLASS, needs T1 primary: "US forces fire on Panama-flagged vessel near Hormuz" (WSJ
   per Fox pickup; Washington Examiner phrasing: "trying to cross through the blockade").** Direction
+    ⟲ SUPERSEDED 2026-08-11 → war-board.md:L1771 — NOT the first US-weapons-on-merchant event — it is the 12th since 13 Apr; mechanism is routine blockade disabling fire (Hellfire), and it occurred in the Gulf of Oman ~71nm off Pakistan, not near Hormuz
   ambiguous as written (warning shots enforcing a cordon? preventing a runner?) — DO NOT infer
   mechanism; fetch the WSJ piece. First reported US-weapons-on-merchant event of the standoff.
 - **The 8/10 DB-note sharpening ("technical agreement ≠ reopening") is aging exactly right**: talks
@@ -1765,3 +1766,72 @@ gold not equities).
   Hormuz shut."
 - Calendar: **3Y auction ($58bn) TODAY · July-CPI + 10Y tomorrow · PPI + 30Y Thursday.** Oil re-firming
   INTO the inflation prints = the malign-configuration risk the week-ahead entry framed.
+
+---
+
+## ⛔ CORRECTION — 2026-08-11 ~7:45am PDT — THE "FIRST US-WEAPONS-ON-MERCHANT EVENT" IS FALSE. It is the 12th, the mechanism is ROUTINE BLOCKADE ENFORCEMENT, and it did not happen near Hormuz
+  ⟲ SUPERSEDES war-board.md:L1752 — NOT the first US-weapons-on-merchant event — it is the 12th since 13 Apr; mechanism is routine blockade disabling fire (Hellfire), and it occurred in the Gulf of Oman ~71nm off Pakistan, not near Hormuz
+**Cause: STEP ZERO break.** I wrote L1752 ("⬜ ESCALATION CLASS… **first reported US-weapons-on-merchant
+event of the standoff**") off an aggregated headline without opening [[war-confirmed]] L112-117 — which
+has carried the disabling-fire enforcement record since 7/26. **The vault answered this question sixteen
+days ago.** Worse: **L128 of THIS FILE already logs the identical mis-filing** *("the vault had mis-filed
+enforcement as generic strikes")*. Same error, same thread, second time. Fetch: Sonnet T1, 42 tool calls.
+
+### DATA (observed — WSJ via Reuters/Washington Examiner; CENTCOM primary; AIS registries)
+- **THE VESSEL: *VELA NOVA*, IMO 9136228 — a CONTAINER SHIP, not a tanker.** Panama flag confirmed
+  independently across three AIS registries (VesselFinder, MarineTraffic, VesselTracker). UKMTO and TASS
+  **first misreported "tanker," then corrected.** Owner / manager / charterer / cargo: **NOT FOUND**
+  (VesselFinder ownership fields blank, no manifest reported).
+- **THE MECHANISM — NOT warning shots.** *"Attacked by a U.S. helicopter which fired a **Hellfire missile
+  at the ship's rudder**"* (WSJ via Reuters, Ghobari/Saul/Abdallah, 8/11) — *"fired at the ship's rudder
+  to disable it after the crew ignored multiple warnings to stop"*; **the missile hit, caused a fire,
+  later extinguished** (WSJ via Washington Examiner, 8/11 10:20am ET). Ship struck and damaged; **not
+  seized.** No unit or platform named anywhere.
+- **⚠️ THE GEOGRAPHY WAS WRONG: Gulf of Oman, ~71nm off PAKISTAN'S coast — NOT inside the Strait of
+  Hormuz**, despite headlines branding it a Hormuz-blockade incident. Predawn Tue; 0715 UTC 8/11 per
+  Sunday Guardian Live. **My entry filed it into the Hormuz-traffic ledger. It belongs ~500nm east.**
+- **CASUALTIES CONFLICT, UNRECONCILED: Reuters / Washington Examiner / cryptobriefing (all 8/11) —
+  17 crew accounted for, no casualties, crew transferred off.** **UKMTO alert (via Sunday Guardian) —
+  ship *"hit by an unknown projectile resulting in casualties."*** Not resolved.
+- **NO OFFICIAL CONFIRMATION.** Reuters, explicitly: *"There was no immediate comment from U.S. Central
+  Command."* No Pentagon / Navy / CENTCOM / Iran statement located for this vessel.
+- **★★★ IT IS NOT A FIRST — AND CENTCOM'S OWN PRESS RELEASE SAYS SO.** 11 Jun 2026, primary: *"U.S.
+  Forces Disable 3rd Oil Tanker Violating Blockade in Gulf of Oman"* (M/T *Jalveer*) — **"fired two
+  Hellfire missiles into the ship's engine room."** **Tally as of that release: 9 vessels DISABLED, 135
+  REDIRECTED since the blockade began 13 Apr 2026.**
+- **THE RUNNING COUNT (Reuters' own hedge, 8/11): *Vela Nova* is the **12th vessel attacked** since the
+  blockade was announced in April and the **3rd since it was reimposed 14 July.*** Named priors: *Hasna*
+  (5/6), *Sevda* + *Sea Star III* (5/8), *Lian Star* (5/29), *Lexie* (6/2), *Marivex* (6/8), ***Settebello*
+  (6/9 — 3 INDIAN CREW KILLED**, the only fatal precedent found), *M/T Jalveer* (6/11), *M/T Lavine*
+  (7/24-25, engine room, **CENTCOM's Capt. Tim Hawkins on record via AP, 23+ outlets from one origin**).
+- **⬜ THE FOX PICKUP I CITED AT L1752: NOT FOUND.** Repeated targeted search of foxnews.com returned no
+  8/10-8/11 article on this vessel. **wsj.com itself unreachable (paywall) — no byline or timestamp
+  independently recovered.** Closest verbatim headline is a Forex Factory wire mirror: *"US forces fire on
+  Panama-flagged ship attempting to run blockade of Iranian ports — WSJ, citing US official."*
+- **DESTINATION CONFLICTS:** VesselFinder AIS shows Nhava Sheva, India (dep. 8/6) → **Jebel Ali, UAE**;
+  one account says Umm Qasr, Iraq. Sanctions / shadow-fleet designation: **NOT FOUND** as official — only
+  an advocacy claim (United Against a Nuclear Iran: had *"been in port alongside other Iran-linked ships"*).
+
+### THESIS (interpretation — NOT fact)
+- **★★★ THE REAL CORRECTION IS NOT THE VESSEL, IT IS THE DENOMINATOR ON MONDAY'S TRAFFIC NUMBER.** L1746
+  filed **six Hormuz transits** under a corridor-optimism-dying / Iranian-threat frame. **But there is an
+  active AMERICAN blockade with kinetic enforcement and 135 vessels redirected by mid-June.** A material
+  share of the suppression is US enforcement, not Iranian deterrence — **and this vault already said so**
+  (L136: *"Oman talks = negotiating TWO closures at once — Iran's mining AND America's blockade"*). **I
+  under-weighted the American leg this morning and read a two-sided closure as one-sided.** *(Analysis.)*
+- **THE ONE GENUINELY NEW FACT IS THE HULL TYPE: a CONTAINER SHIP.** Every named prior is a tanker or
+  LPG/product carrier — the enforcement thesis has been about **Iranian oil export**. Striking a
+  **containerized** hull bound (per AIS) for **Jebel Ali** widens the cordon from oil to general cargo, if
+  it holds up. **That is the escalation to watch — not the weapons use, which is routine.** ⚠️ Weak: hull
+  type is registry-confirmed but the CARGO is NOT FOUND, so "containerized trade is now targeted" is a
+  hypothesis, not a finding. *(Analysis.)*
+- **CENTCOM'S SILENCE IS THE SECOND DATUM.** *Lavine* (7/24) was announced on the record by name, with a
+  named spokesman. *Vela Nova* draws no comment. **Announced enforcement is deterrence; unannounced
+  enforcement is not** — either the case is weaker (no sanctions designation found), the casualty question
+  is unresolved internally, or a non-oil hull is harder to justify publicly. 🚩 **WATCH: whether CENTCOM
+  posts a *Vela Nova* release in the next 72h. A named release retires this reading.** *(Analysis.)*
+- **⛔ THE PROCESS LESSON, which is the expensive part.** The aggregated headline said "near Hormuz" and
+  "fire on" — **I preserved the mechanism ambiguity correctly and still imported the geography and the
+  novelty claim uncorrected.** Hedging ONE variable while passing three others through unexamined is not
+  discipline. **The ⬜ marker made the entry look careful while three separate errors rode inside it.**
+  *(Analysis.)*
