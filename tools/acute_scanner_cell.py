@@ -267,7 +267,12 @@ THREADS = {
                'deepseek','qwen','kimi','glm','minimax','tencent','hunyuan','xiaomi','mimo',
                'llama','mistral','nemotron','gpt-5','gpt5','gemini','claude','grok','astra',
                'openrouter','leaderboard','token usage','token share','token volume',
-               'market share','usage share','model ranking','trillion tokens'],
+               'market share','usage share','model ranking','trillion tokens',
+               # gap #18 (8/11): Zuckerberg manifesto matched POWER/CAPEX but NOT model-econ —
+               # 'open source' (vs 'open-weight'), distillation and checkpoint vocabulary missing.
+               'open source','open-source','distillation','distill','training checkpoint',
+               'intermediate checkpoint','personal superintelligence','superintelligence',
+               'recursive self-improvement','rsi','frontier lab','model release'],
  'FX/CARRY':  ['yen','jpy','usd/jpy','usdjpy','boj','bank of japan','carry trade','repatriation',
                'currency intervention','fx intervention','fx reserves','ministry of finance',
                'dxy','dollar index','ueda','mof','kanda','jgb','japan sold','tic shows'],
@@ -301,7 +306,11 @@ THREADS = {
                'inference revenue','cost per task',
                'custom chip','in-house chip','custom silicon','asic','tpu','trainium',
                'co-design','custom accelerator',
-               'silicon data','sdllmtk','cheaperinference'],
+               'silicon data','sdllmtk','cheaperinference',
+               # gap #18 (8/11): an explicit AUCTION-PRICED inference mechanism was announced by a
+               # principal and TOKEN-ECON could not see it. Pricing MECHANISM vocabulary was absent.
+               'auction','dynamic auction','lowest price','compute auction','spot price',
+               'marginal cost of intelligence','per gigawatt','intelligence per gigawatt'],
 }
 
 # THREAD -> ORIGINATING VAULT NOTE. Every hit routes BACK to the note it came from.
