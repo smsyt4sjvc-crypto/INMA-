@@ -1979,3 +1979,49 @@ GA" is the org's answer regardless of title.
 
 📌 STATUS: **UNRESOLVED — do not close. Registered watch: (1) Bakalar/ethics backfill identity or fold;
 (2) whether the merged safety-under-research structure can gate Astra deployment.**
+
+### 2026-08-11 ~3:25pm PDT — ★★★★ JAKE'S FRAME GRADED: the MECHANISM is right, the LABEL points at the wrong actor — and the open-source posture is a REVEALED POSITION INDICATOR
+**Jake, 8/11:** *"Meta is the socialist arm that wants equality by dragging the ceiling down."*
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ THE MECHANISM HE NAMES IS REAL AND CORRECTLY IDENTIFIED: Meta is destroying the price of the
+  thing its competitors SELL.** Open weights + auction-cleared inference + free tiers for billions =
+  **margin destruction in the model layer, dressed in egalitarian language** ("everyone," "distribute
+  widely," "balance of power favouring individuals"). **The gap between the rhetoric and the
+  competitive function is the observation, and it holds.** *(Analysis.)*
+- **⛔ BUT "SOCIALIST" IS THE WRONG LABEL AND THE ERROR IS NOT COSMETIC — IT POINTS AT THE WRONG ACTOR
+  AND THE WRONG RENT.** Socialism is collective ownership of production. **This is the opposite: a
+  private firm using private capital to commoditise a rival's product.** The precise name is
+  **COMMODITISE YOUR COMPLEMENT** — the most aggressively capitalist play in the book. **Google
+  open-sourced Android to commoditise the OS layer and keep search on mobile. Meta is open-sourcing
+  models to commoditise INTELLIGENCE and keep the AGENT/ATTENTION layer.** *(Analysis.)*
+- **★★★ AND THE "CEILING" BEING DRAGGED DOWN IS PRICE, NOT CAPABILITY — the document is explicitly
+  ANTI-restriction.** He argues against capability limits throughout. ⇒ **Capability ceiling UP, price
+  ceiling DOWN.** That is not levelling; **it is what competitive capitalism does to a commodity.**
+  *(Analysis.)*
+- **★★★★★ THE VERSION OF JAKE'S INSTINCT THAT SURVIVES AND IS SHARPER: IT IS NOT EQUALITY, IT IS RENT
+  RELOCATION. If intelligence is free, the returns do not vanish — they move to whoever owns the
+  SCARCE COMPLEMENT.** Meta's scarce complements are **distribution (~3.5B users), attention, and
+  behavioural data.** ⇒ **The "equality" is real at the model layer and creates a NEW CONCENTRATION at
+  the distribution layer.** **He is not flattening the pyramid; he is moving its apex to the floor he
+  already owns.** *(Analysis.)*
+- **★★★ THE ARGUMENT IS STRUCTURALLY SELF-EXEMPTING, and that is checkable rather than rhetorical.
+  "No single entity should control superintelligence" is being made by the entity that would control
+  the largest single DISTRIBUTION CHANNEL for it.** His definition of concentration counts model
+  weights and excludes reach. **Not hypocrisy — a definition drawn where his own power does not
+  register.** *(Analysis.)*
+- **★★★★★ THE MOST USEFUL THING HERE IS AN INDICATOR, NOT AN OPINION: THE OPEN-SOURCE POSTURE IS A
+  REVEALED POSITION SIGNAL. Meta open-sourced Llama when it was BEHIND. It STOPPED** — the document
+  says *"we will RESUME releasing some open source models soon,"* which concedes a halt — **during the
+  window it believed it might LEAD (Llama-4 / Meta Superintelligence Labs formation). It is RESUMING
+  NOW.** ⇒ **Read the posture as guidance: OPEN when behind, CLOSED when it thinks it can win.**
+  **The resumption announcement is Meta telling the market it does not expect to lead the frontier.**
+  📌 **REGISTERED AS A TRACKABLE INDICATOR — the open/closed toggle is public, dated and repeatable.**
+  ⬜ **VERIFY: the exact dates of the pause and the resumption, and what shipped in between.**
+  *(Analysis. This is new to the vault.)*
+- **⚠️ THE COUNTERWEIGHT TO MY OWN READ, because the position-tracking frame can be over-applied: a
+  strategy being self-interested does not make it ineffective.** **Android worked. The complement got
+  commoditised and the rent did move.** ⇒ **For [[metered-compute]] the motive is irrelevant to the
+  outcome — per Jake's own 8/10 rule. Auction-priced inference compresses margins whether or not the
+  philosophy is sincere.** *(Analysis.)*
+**Links:** [[metered-compute]] · [[ai-financing-fragility]] · [[ai-capex-cycle]]
