@@ -308,3 +308,46 @@ Substacks, HN) · implementation (Bogleheads) — **then always primary document
   have reached is late in its information cycle; a thread they haven't is where the vault's edge
   still lives (current examples: the NdPr/magnet silence, the SDLLMTK squeeze pair, the duration
   mismatch — unmapped by any major as of tonight).
+
+### 2026-08-11 ~11:10am PDT — 🔴 INFRASTRUCTURE: FRED IS DOWN FOR PROGRAMMATIC ACCESS, AND FOUR VAULT CELLS DEPEND ON IT
+Discovered building F19. **Not a bad-series-ID problem — a FRED problem.**
+
+#### DATA (observed — two independent networks, same result)
+- **Container (via proxy) and Jake's Colab both TIME OUT on every FRED series tried.** Not 404s —
+  **timeouts**, i.e. the request hangs rather than being rejected.
+- **The IDs are not the issue and this is the proof: `NEWORDER`, `AMTMNO` and `TTLCONS` all failed.**
+  Those unquestionably exist. **When a canonical series fails, stop debugging the ID.**
+- Both endpoint forms fail: `fred.stlouisfed.org/graph/fredgraph.csv?id=` and `/data/{id}.txt`.
+- **Adjacent sources, tested the same hour:** ✅ **SEC EDGAR XBRL — WORKING** (the FCF pull ran fine).
+  ✅ **census.gov STATIC FILES — WORKING** (C30 xlsx served with no key). ❌ **Census API — "Missing
+  Key"** (was keyless, now is not). ❌ **Census currentdata CSV export — 400 on every parameter
+  combination tried.** ❌ **DBnomics — 404 on its series endpoints.** ❌ census.gov root — 520.
+
+#### ⚠️ BLAST RADIUS — cells that will silently degrade or fail
+| cell | FRED dependency | consequence |
+|---|---|---|
+| **`acute_scanner_cell.py`** | macro series via fredgraph | **⚠️ THE DAILY DRIVER. Its macro block is dead.** Jake ran it 8/11 14:26 UTC — **⬜ unknown whether the FRED legs were already failing then or degraded after.** |
+| `momentum_extrapolation_backtest_cell.py` | VIXCLS, DTB3 | backtest cannot re-run (CBOE SPX leg still fine) |
+| `long_yield_regime_cell.py` | yield series | dead |
+| `civil_materials_cascade_cell.py` | materials series | dead (was already never-run — see chat-log 7/31) |
+
+#### THESIS (interpretation — NOT fact)
+- **★★★ THE LESSON IS A DIAGNOSTIC RULE, not a fact about FRED: WHEN A CANONICAL IDENTIFIER FAILS,
+  THE TRANSPORT IS BROKEN, NOT THE IDENTIFIER.** I spent two rounds widening a candidate list from 17
+  IDs to 27 — **treating a transport failure as a naming problem** — and only Jake's paste of the full
+  ✗ block (showing `NEWORDER` and `TTLCONS` failing) made it unmistakable. **A probe that cannot
+  distinguish "wrong ID" from "no connection" is a badly designed probe: 404 and timeout mean opposite
+  things and mine collapsed both into `✗`.** 📌 **FIX FORWARD: every future probe prints the EXCEPTION
+  TYPE, not just pass/fail.** *(Analysis.)*
+- **★★★ GO TO THE ORIGINAL SOURCE, NOT THE AGGREGATOR. FRED does not produce a single series in this
+  vault — it MIRRORS Census, BLS and Treasury.** The C30 data-centre line was available direct from
+  census.gov the whole time, **at higher resolution than FRED carries** (FRED has no data-centre
+  series at all; Census breaks it out as its own column). ⇒ **The aggregator was both the fragile leg
+  AND the lossy one.** *(Analysis. This generalises: prefer the issuing agency.)*
+- 🚩 **OPEN: whether this is an outage, a UA/bot block, or a permanent access change.** Retest before
+  assuming any FRED-dependent cell works. **⬜ If it is a UA block, a browser-like header set may pass
+  — untested.** *(Analysis.)*
+- 🚩 **STILL UNSOLVED: a keyless M3 source** (manufacturers' new orders, NAICS 334) for F19's orders
+  leg. Every route tried is walled. **A free Census API key (instant signup) is the obvious unlock and
+  needs Jake's yes — it is a registration, not a charge.**
+**Links:** [[ai-capex-cycle]] · [[fragility-engine]]
