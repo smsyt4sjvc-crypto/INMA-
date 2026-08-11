@@ -2933,3 +2933,49 @@ becoming increasingly involuntary."* Asked: *"Is it time to accumulate?"* — **
   — Huang, Fink, the consortium — who supplied the 8am version.** **Credit where due: he replaced
   testimony with data inside one session.** *(Analysis.)*
 **Links:** [[ai-capex-cycle]] · [[cepi]] · [[metered-compute]] · [[power-not-petroleum]] · [[portfolio-state]]
+
+### 2026-08-11 ~1:15pm PDT — ★★★★ THE SPLIT GOES THREE-WAY AND IT MAPS TO THE FCF TABLE: sellers UP, receivers UP, PAYERS DOWN — into CRWV after the close
+Source: Jake's live-price run (~15m delayed, at/after the 1:00pm PDT close).
+
+#### DATA (observed — 2026-08-11 late session)
+- **COMPUTE SELLERS bid:** SOXX **+0.95** · SMH +0.41 · TSM +0.80 · MU +0.79 · NVDA −0.22 (flat).
+- **COMPUTE RECEIVERS ripping, into two prints:** **NBIS +4.67** (reports WED) · **CRWV +3.06**
+  (reports TONIGHT) · WULF +3.16 · APLD +2.31 · IREN +2.00 · CORZ −0.30.
+- **COMPUTE PAYERS sold: GOOGL −3.58** · **AMZN −1.79** · MSFT −0.29 · META +0.83 (outlier again).
+- Index: SPX 7,728 **−0.32%** · QQQ −0.21 · **IWM +0.48** (small caps outperforming) · VIX **15.30**.
+- Macro: **WTI 83.46 +1.63 · Brent 89.17 +1.70** (vs the $90 marker, **below by 0.83**) · XLE +1.20 ·
+  **GOLD 4,426 −1.14%** · 10Y **4.68%** ~unchanged · DXY 99.81 flat.
+- SPX **+282 above the 7,446 CTA short-term trigger** (~3.6% cushion).
+- Singles: CRCL **+6.75** · **VG −7.80** (Venture Global reported today) · NFLX −2.00.
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ THE THREE-WAY SPLIT IS THE CLEANEST EXPRESSION THIS VAULT HAS SEEN OF ITS OWN THESIS, AND IT
+  MAPS TO THIS MORNING'S EDGAR PULL. Today's ranking — META +0.83 > NVDA −0.22 > MSFT −0.29 > AMZN
+  −1.79 > GOOGL −3.58 — puts the TWO CASH-POOREST PAYERS AT THE BOTTOM.** [[cepi]] 8/11: **AMZN FCF
+  −8.8B (capex 119% of OCF)**, **GOOGL capex/OCF 78% and rising from 27% in 2023.** ⇒ **The market sold
+  the two balance sheets actually absorbing the capex, bid the seller's toolchain, and bid the
+  intermediaries hardest.** *(Analysis.)*
+- **⚠️ BUT THE MAPPING IS NOT CLEAN AND I WILL NOT PRETEND IT IS: GOOGL (−3.58) has BETTER FCF than
+  AMZN (−1.79) and fell twice as hard.** **A −3.58% move in a mega-cap needs a NAMED cause and I do not
+  have one.** ⬜ **FETCH: what hit GOOGL today.** Until then the FCF ordering is suggestive, not
+  established — **one day, five names, and the biggest mover is the one the frame explains worst.**
+  *(Analysis.)*
+- **★★★ THE RECEIVERS RIPPING CUTS AGAINST THE MARGIN-COMPRESSION READ, ON THE DAY. CRWV +3.06 into its
+  own print and NBIS +4.67 into tomorrow's** — the two names most levered to vendor financing led the
+  tape. **Consistent with the 8/11 drift table (CRWV +0.36 overweight, i.e. already running hot).**
+  ⚠️ **Rallying INTO a print is POSITIONING, not information. The information arrives after the close.**
+  *(Analysis.)*
+- **⛔ AND A CORRECTION TO MY OWN EMPHASIS YESTERDAY: I weighted gold +1.9% to 4,444 on the $2T
+  announcement day as "the only asset that moved with conviction." Today it gives back −1.14% to
+  4,426.** **Up one day, down the next is NOISE, and I over-read a single print.** The debasement thread
+  is unaffected — **but the specific claim that gold "voted" on the financing structure does not survive
+  a two-day window.** *(Analysis.)*
+- *(the malign-configuration watch, live)* **Oil re-firming INTO the CPI print: Brent +1.70 to 89.17,
+  now $0.83 from the $90 marker, with XLE +1.20 leading.** ⇒ **[[new-economy-regime]]'s malign box
+  (yields up + stocks down) needs a hot CPI on top of a firming energy tape. Both legs are now in
+  position for tomorrow 8:30am ET — and the $42bn 10Y prices AFTER it.** *(Analysis.)*
+- *(a quiet contradiction worth logging)* **VIX 15.30 and SPX −0.32% on a day the labour-revision story
+  went viral, oil firmed, and a mega-cap fell 3.6%.** **The index is absorbing single-name damage
+  without transmitting it** — narrow damage, calm surface. **That is a dispersion observation, not a
+  warning; it times nothing.** *(Analysis.)*
+**Links:** [[cepi]] · [[ai-financing-fragility]] · [[portfolio-state]] · [[new-economy-regime]]
