@@ -359,3 +359,31 @@ dated/timed vault entry or making any market-hours claim:
    time from those + the verified clock at paste time; don't guess.
 7. Session texture: Jake works in 10-30 minute ambient check-ins through the day, not marathon
    sessions — don't narrate workload drama ("burnout", "go to sleep") off cumulative chat length.
+
+## 🗂️ ENTITY VIEWS, NOT ENTITY FOLDERS (standing, set 2026-08-11 — Jake's Q)
+
+**Jake: "Is the vault setup with folders? Can we create folders and a search function like a typical OS?
+If I upload meta earnings you search 'meta' and the folder comes up? Easier than scanning?"**
+
+```
+python3 tools/vault_find.py META --raw        # the "folder" for any entity, generated on demand
+python3 tools/vault_find.py "data centre" --days 30
+```
+**IT RETURNS: 📂 WHERE IT LIVES (notes ranked by coverage) · 📅 dated entries newest-first ·
+⛔ corrections · ★★★ standing conclusions · 🚩 open flags · 🗃️ matching raw/ artifacts.**
+
+- **WHY NOT REAL FOLDERS — the structural reason: A FILE LIVES IN EXACTLY ONE FOLDER; AN ENTITY APPEARS
+  IN MANY THREADS.** META alone runs to **486 mentions across 36 notes** — earnings in `ai-capex-cycle`,
+  the BlackRock JV in `ai-financing-fragility`, FCF in `cepi`, open-source strategy in
+  `compression-thesis`, the tape in `market-fragility`, basket weight in `portfolio-state`.
+  **A `wiki/meta/` folder forces a choice: fragment the THREADS or duplicate the entries.** The threads
+  ARE the product; entities cut across them. **The view keeps one-idea-per-file AND lets one entry
+  appear under every entity it touches.**
+- **THE MECHANICAL COST OF MOVING FILES, stated so it is not re-proposed: every `[[wiki-link]]` and all
+  67 `vault_amend` pointers are path-based.** A reorganisation breaks the amendment trail — **the exact
+  feature that makes this a brain rather than a pile.**
+- **⚠️ THE ONE PLACE A REAL FOLDER IS WARRANTED: `raw/` IS 178 FLAT FILES** with inconsistent names.
+  Nothing links INTO raw/ by path (the librarian scans it by content), **so raw/ can be foldered by
+  month without breaking anything.** ⬜ **Not done — proposed, not executed.**
+- **THE PRINCIPLE:** *organise storage by IDEA, retrieve by ENTITY. Folders are exclusive; the questions
+  are not.*
