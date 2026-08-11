@@ -419,3 +419,57 @@ The gain FIGURES are third-hand. What is first-hand is the reconciliation below,
   (Q2 2026 Z-mainframe revenue −42% YoY as client capex diverted to GPU-adjacent kit). **Filed as
   TESTIMONY on the depreciation question, weighted accordingly.** Full ledger, the conflict, and the
   colliding $/GW figures: [[ai-financing-fragility]] L4271. [[ai-capex-cycle]]
+
+### 2026-08-11 ~10:00am PDT — ★★★★ MEASURED: JAKE'S FCF CLAIM IS RIGHT AND THE ZH CHART CLAIM IS FALSE — plus the seller/buyer split in CASH, which is starker than in price
+Jake clarified 8/11: *"When I said FCF is available I meant to Amazon, Google, msft, nvda etc."* — i.e.
+**the buildout is being funded by companies that actually generate cash**, not 1999-telecom shells.
+**Checkable. Checked.** EDGAR XBRL companyfacts, quarterly duration facts (80-100 day periods), 10-Q/10-K
+only. FCF = NetCashProvidedByUsedInOperatingActivities − PaymentsToAcquirePropertyPlantAndEquipment.
+
+#### DATA (observed — SEC filings, latest reported quarter per filer, $B)
+| name | quarter-end | OCF | capex | **FCF** | capex/OCF |
+|---|---|---|---|---|---|
+| **NVDA** | 2026-04-26 | 50.3 | 1.8 | **+48.6** | **3%** |
+| **MSFT** | 2026-03-31 | 46.7 | 30.9 | **+15.8** | 66% |
+| **META** | 2026-03-31 | 32.2 | 19.0 | **+13.2** | 59% |
+| **GOOGL** | 2026-03-31 | 45.8 | 35.7 | **+10.1** | 78% |
+| **ORCL** | 2025-08-31 | 8.1 | 8.5 | **−0.4** | 104% |
+| **AMZN** | 2026-06-30 | 45.4 | 54.2 | **−8.8** | 119% |
+- **ORCL'S SWING: +5.1B (2024-08) → −0.4B (2025-08).** capex/OCF 31% → 104% in one year.
+- **AMZN'S PATH: −8.0 (2026-03 qtr… note 2025-03 −8.0) → +0.3 → +0.4 → −18.2 (2026-03) → −8.8 (2026-06).**
+  **Four of the last five quarters negative or ~zero.**
+- **GOOGL's capex/OCF ran 27% (2023-03) → 42% → 48% → 78% (2026-03).** Cushion shrinking fast, still positive.
+
+#### ⛔ FALSIFIED — a claim this vault ingested on 8/10 and did not check
+**ZH, embedded tweet in the $500B SPV piece (`raw/`, 2026-08-10): *"only MSFT has positive free cash flow
+now."*** **FALSE on the filings. FOUR of these six are FCF-positive, and MSFT is not even the largest —
+NVDA is, by 3×.** ⚠️ **ARTIFACT TEST, stated honestly: I never saw the chart itself, only the tweet text
+quoted inside the PDF.** The chart is described in the article as a **PROJECTION** (*"the free cash flow
+hockeystick projected in the chart below"*), so it may plot forward or adjusted FCF on a definition that
+differs from cash-flow-statement FCF. **What is falsified is the SENTENCE as written and as I filed it.**
+⇒ **The lesson is the cheap one: it took a single Tier-0 pull to check, and I filed it for a day without.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ THE SELLER/BUYER SPLIT IS FAR STARKER IN CASH THAN IN PRICE. NVDA spends 3% of operating cash
+  flow on capex and keeps +48.6B a quarter. AMZN spends 119% and runs −8.8B.** The 8/11 open showed this
+  split as a few tenths of a percent in relative price; **the cash statements show it as a ~40× ratio in
+  capex intensity.** ⇒ **The compute seller is not merely winning — it is structurally exempt from the
+  cost of the thing it sells.** *(Analysis.)* [[ai-financing-fragility]]
+- **★★★ AND THE CREDIT TAPE RANKED THEM CORRECTLY, WHICH IS THE STRONGEST VALIDATION THIS VAULT HAS OF
+  THE CDS SIGNAL. ORCL carries the widest spread in Big Tech (+70bp YTD to ~215bp, a record) AND is the
+  name whose FCF just went negative.** AMZN is the deepest negative on cash. **The market did not widen
+  the sector uniformly — it widened the names where the cash actually disappeared, and it did so BEFORE
+  this vault measured it.** *(Analysis.)* ⟲ this strengthens L3487's per-name ordering finding.
+- **⚠️ THE ADJUSTMENT THAT CUTS AGAINST THE HEADLINE, and it is not small: FINANCE LEASES ARE NOT IN
+  `PaymentsToAcquirePropertyPlantAndEquipment`.** MSFT and AMZN fund large tranches of data-centre
+  capacity through leases — **the sheets ledger shows MSFT finance-lease liability at $67B** and the vault
+  holds Wigglesworth's **~$1T of hyperscaler lease commitments that "don't appear in their financial
+  data."** ⇒ **Reported FCF OVERSTATES the true cushion for the lease-heavy names.** NVDA (3% capex/OCF,
+  no DC leases) is unaffected; **MSFT's +15.8B and AMZN's −8.8B are both flattered.** 🚩 **NEXT: re-run
+  with capex + finance-lease additions to get economic FCF.** *(Analysis. Registered, not asserted.)*
+- *(what this does to the duration thesis)* **Jake's premise survives the check and is stronger than the
+  version I argued against: the funders DO generate cash.** But the cash is concentrated in the names
+  that **SELL** compute and in the **ad-funded** (META, GOOGL) — **not in the names doing the building.**
+  **AMZN and ORCL, the two actually running capex above operating cash flow, are the two the credit market
+  has already marked.** *(Analysis.)* [[market-fragility]]
+**Links:** [[ai-financing-fragility]] · [[balance-sheet-board]] · [[ai-capex-cycle]] · [[market-fragility]]
