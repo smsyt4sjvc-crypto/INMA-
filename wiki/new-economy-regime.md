@@ -2766,3 +2766,51 @@ accelerating… the productivity boom is gaining momentum."*
 
 **Links:** [[cepi]] · [[ai-capex-cycle]] · [[compression-thesis]] · [[detachment-bid]] ·
 [[market-fragility]] · [[../predictions/2026-07-30-fed-hike-before-december]]
+
+### 2026-08-11 ~1:00pm PDT — 📌 THE PAYROLL-REVISION POST: the −103k is FOUR DAYS OLD AND ALREADY FILED. The genuinely new number is the 30-month aggregate — and it is a MEASUREMENT claim, not a cycle claim.
+Source: viral post + Bloomberg ECONGECC chart (Kevin Gordon, Charles Schwab), chart stamped
+**10-Aug-2026 09:14:39** (Jake paste 8/11 ~12:58pm PDT).
+
+#### ⛔ ARTIFACT TEST FIRST — WHAT IS ACTUALLY NEW HERE
+- **THE −103k IS NOT NEW.** It is Friday's (8/7) payroll report, **filed in this note on 8/7** (L2675:
+  *"the −23k payroll + −103k revisions + participation collapse"*) and decomposed on 8/10
+  ([[market-fragility]] L2617, [[compression-thesis]] L1878). **"BREAKING" is a four-day-old print.**
+- **DIFFUSION LADDER, logged per the 8/10 convention: report 8/7 → Schwab chart 8/10 09:14 →
+  viral post 8/11. Four days.** The vault held it on day zero.
+- **GENUINELY NEW (3 items): (1) the 30-month aggregate — 21 of 30 months revised lower, −1.05M total,
+  avg −35,067/mo.** **(2) The MAY DOUBLE-REVISION CHAIN: initially +172k → −43k → +129k → −66k → +63k
+  = −109k from first print.** **(3) The forward claim** that June (+20k after −37k) could revise
+  negative and pair with July's −23k for two consecutive declines, first since 2020.
+- ✓ ARITHMETIC CHECKED: 172−43=129; 129−66=63 ✓. June −37k to +20k ⇒ was +57k ✓. 37+66=103 ✓.
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ THE AGGREGATE IS A MEASUREMENT CLAIM AND THE POST READS IT AS A CYCLE CLAIM. A PERSISTENT
+  one-directional revision bias is a MODEL problem** — the birth-death model overstating business
+  formation. **A WIDENING bias is a cycle problem.** The two require different evidence and the post
+  supplies only the first. *(Analysis.)*
+- **★★★ AND THE CHART JAKE PASTED REFUTES THE "ONE-DIRECTIONAL" FRAMING ON ITS OWN FACE. "21 of 30
+  lower" means NINE WERE HIGHER — and the green bars are LARGE: ~+120 (Sep-23), ~+128 (Dec-23), ~+100
+  (Dec-24), and ~+95 in mid-2026.** ⇒ **This is a NEGATIVELY SKEWED distribution, not a one-way ratchet.
+  Extrapolating "if these revisions continue" treats a skew as a constant.** **If the bias were a stable
+  −35k/month it would be arbitraged into consensus and BLS would re-benchmark the model.** *(Analysis.)*
+- **★★★★ THE VAULT'S OWN DECOMPOSITION CUTS AGAINST "ALARMING," AND TODAY'S WORK EXPLAINS WHY. Filed
+  8/7-8/10: the weakness was CONCENTRATED in leisure/hospitality (−40k) and local-government education
+  (−50k) — two distortion sectors — while GOODS-PRODUCING AND CONSTRUCTION posted their strongest gains
+  in months, and the UNEMPLOYMENT RATE FELL to 4.1%, its lowest since early 2025.**
+  ⇒ **★ CROSS-THREAD JOIN available only because of this morning's C30 pull: construction employment is
+  strong because DATA-CENTRE CONSTRUCTION IS AT AN ALL-TIME RECORD (+45.8% YoY).** **The one leg of the
+  labour market that is unambiguously strong is the leg this vault just measured from the other side.**
+  *(Analysis.)* [[ai-capex-cycle]] · [[power-not-petroleum]]
+- **★★★★ THE MARKET ALREADY VOTED, AND IT WENT THE OTHER WAY — the fact that most contradicts the
+  post's framing. Sept-cut odds FELL ~10pp on the release to 44%**, and **today's 3Y auction printed
+  4.291%, the highest since Feb 2025** ([[market-fragility]] 8/11). ⇒ **A deteriorating labour print
+  produced a HIGHER front-end yield and FEWER priced cuts.** Either the market disbelieves the
+  revisions, or it is pricing something that dominates them — and **tomorrow's CPI is the discriminator.**
+  *(Analysis.)*
+- 📌 **THE RESOLVER IS TOMORROW, NOT NEXT MONTH'S REVISION. Weak labour + hot CPI = the MALIGN box this
+  note already defined (L2683: yields up + stocks down).** Weak labour + tame CPI = the benign one.
+  **The revision story only matters through which box it lands in.** *(Analysis.)*
+- ⬜ **NOT KNOWN: whether the negative skew is WIDENING.** The 30-month aggregate is a level, not a
+  trend. 🚩 **Cheap next step: revision size regressed on time — is the bias growing, or has it been
+  ~−35k throughout?** Only the first is a cycle signal.
+**Links:** [[market-fragility]] · [[compression-thesis]] · [[ai-capex-cycle]] · [[predictions]]
