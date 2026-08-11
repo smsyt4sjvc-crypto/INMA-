@@ -4255,3 +4255,15 @@ primary-class. Both extracted below.**
 3. ⬜ **A100 rate curve** (2020→now $/GPU-hr) — grades the decade-life claim.
 4. **CRWV tomorrow / NBIS Wednesday**: receiver-side support language + rental-rate disclosures now
    read against the sponsor's published numbers.
+
+### 2026-08-11 ~7:45am PDT — GRADED: the sign-flip test HELD TO THE CLOSE — and the $2T day closed FLAT
+Scanner base math: **NVDA closed Monday at 217.55 (≈ −2.4%)** — the session-low-on-the-announcement
+attribution SURVIVED the close. The financing-as-confession read is now a graded print, not an
+intraday tick. **And the S&P closed Monday at 7,753 — DOWN 0.06% on the maximal-flow-news day.** The
+"interim clearly bullish" path read stands (flows are commitments, not day-one prices), but the
+honest ledger line: the $2T announcement day produced a flat index, a down sponsor, and a +1.9% GOLD
+print (4,444). The flows went somewhere Monday; it wasn't equities. Tuesday open: the SPLIT — NVDA
++0.9/SOXX +1.5 (compute SELLERS) vs MSFT/GOOGL/AMZN −1.1 to −1.6 (compute BUYERS), META +2.5 the
+outlier. **Sellers-over-buyers is the squeeze pair expressed in relative price.** CRWV reports AFTER
+CLOSE TODAY — receiver window #1. *(One day; the divergence file holds it, [[detachment-bid]]
+unchanged until seams move.)*
