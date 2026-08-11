@@ -853,3 +853,55 @@ manufactured product and the basket has a thesis. Delayed / narrowed / gutted �
 promise and the exit is defined.** Full grade + the five-criticality context → [[nuclear]] (2026-08-07).
 ⚠️ **And the calendar discipline that bears on sizing: power DELIVERY is 2028-2035, i.e. AFTER the 2026-28
 crunch this book's other positions price.** *(Descriptive; sizing is Jake's — rule 7.)*
+
+### 2026-08-11 ~9:30am PDT — 📌 TWO BASKETS ENTER THE BOOK RECORD: full holdings, current vs target weights, and an instrument to chart each as a single index
+Source: four "Basket details" screenshots (Jake paste, this session). Screenshot clock reads **9:21-9:23**
+with the **zone not legible**; the in-app "As of …" stamp is partially obscured (⬜ date/zone unresolved —
+paste time is the verified anchor). **VERIFICATION THAT THE CAPTURE IS COMPLETE: both baskets' CURRENT
+weights sum to 100.0% (99.99 / 100.01).** Nothing is cut off below the fold.
+
+#### DATA (observed — ticker: current% / target%)
+- **BASKET 1 — SEMIS / HARDWARE, 24 names, ~$536 total** (implied: TXN $21.76 ÷ 4.06%):
+  NVDA 8.36/7.80 · MU 7.65/8.00 · AVGO 7.35/7.10 · AMD 7.32/8.00 · DELL 5.87/6.00 · INTC 5.77/5.70 ·
+  AMAT 5.10/5.20 · KLAC 4.93/4.70 · MRVL 4.59/4.60 · TSM 4.48/4.40 · LRCX 4.34/4.30 · TXN 4.06/4.00 ·
+  ADI 3.99/3.80 · NXPI 3.67/3.60 · MPWR 3.14/3.20 · QCOM 3.10/3.00 · TER 2.63/2.80 · ALAB 2.48/2.80 ·
+  MCHP 2.43/2.30 · CRDO 2.31/2.20 · ASML 2.00/2.30 · ON 1.93/1.90 · ASX 1.25/1.20 · **MTSI 1.24/⚠️1.10**
+  — **MTSI's target was cut off by the screen edge; 1.10 is DERIVED as the residual** (other 23 targets
+  sum to 98.90). Flagged as derived everywhere it appears.
+- **BASKET 2 — AI BUILDOUT, FULL STACK, 23 names, ~$1,031 total** (implied: IREN $46.83 ÷ 4.54%):
+  NVDA 7.12/7.00 · ORCL 5.13/5.00 · QRVO 5.00/5.00 · AVGO 5.00/5.00 · INTC 4.98/5.00 · TSM 4.90/5.00 ·
+  **CRWV 4.86/4.50** · TXN 4.85/5.00 · COHR 4.82/4.50 · AMAT 4.79/5.00 · AMD 4.66/5.00 · RNW 4.60/4.50 ·
+  IREN 4.54/4.50 · EWY 4.44/4.50 · RIVN 4.44/4.50 · MU 4.31/4.50 · **NBIS 4.30/4.50** · LITE 4.07/4.00 ·
+  LRCX 3.88/4.00 · MP 3.37/3.00 · SWKS 2.02/2.00 · ARM 2.00/2.00 · GFS 1.93/2.00. **All 23 targets read
+  directly; they sum to exactly 100.00.**
+- **OVERLAP: 8 names in both** — NVDA, AVGO, AMD, INTC, AMAT, TSM, LRCX, MU, TXN (9 by count).
+  **The combined book is more concentrated than either basket reads alone.**
+- **INSTRUMENT: `tools/basket_index_cell.py`** — builds each basket into ONE index series (Jake's spec:
+  *"a chart… as if it's an etf or singular chart"*), charts vs SOXX/SPY/QQQ, prints the drift table, a
+  per-name contribution decomposition, and a **COVERAGE panel**. Unit-tested four ways (flat-growth
+  rebalance-is-a-no-op to 1e-13 at M/Q/W/None · buy-and-hold beats rebalanced on divergent inputs ·
+  single-name reproduces the price · coverage tracks an IPO step). **A rebalance-ordering bug was caught
+  by test 1 and fixed before shipping** — marking to market must precede the weight reset, or every
+  rebalance date silently drops that day's return (~0.9% over two years on a monthly schedule).
+
+#### THESIS (interpretation — NOT fact)
+- **★★★ THE TWO BASKETS ARE NOT TWO BETS ON THE SAME THING, AND THE DIFFERENCE IS THIS VAULT'S OWN
+  SQUEEZE PAIR.** Basket 1 is almost entirely **compute SELLERS and their toolchain** (chips, equipment,
+  test, analog). Basket 2 keeps the sellers but adds the layer the vault has been arguing is where the
+  margin goes to die: **the neoclouds (CRWV, NBIS, IREN), the optics (COHR, LITE), the power (RNW), the
+  materials (MP), and a country proxy for memory (EWY).** ⇒ **Basket 2 ÷ Basket 1 is a live, priced read
+  on seller-vs-buyer** — the same split the 8/11 open showed intraday (sellers up / buyers down). The
+  ratio chart in the cell is that instrument. *(Analysis.)*
+- **⚠️ THE COMPARISON HAS A HISTORY PROBLEM AND THE CELL REFUSES TO HIDE IT.** CRWV lists 2025; NBIS,
+  ALAB, ARM, GFS, RIVN all list well after a 2021-23 start. **Any backtest spanning those dates compares
+  two different portfolios**, so the cell renormalises over live names and plots the coverage fraction
+  underneath. **Read no cross-era conclusion through a coverage step.** *(Analysis.)*
+- *(the drift is a datum, not noise)* Current-vs-target says what has run since the last rebalance. In
+  Basket 1 **NVDA is the largest overweight (+0.56) and AMD the largest underweight (−0.68)**; in Basket
+  2 **CRWV (+0.36) and COHR (+0.32) are the overweights** — i.e. **the neocloud and optics legs have been
+  outrunning the policy**, which is the opposite of what a margin-compression thesis expects from the
+  neoclouds. 🚩 **WATCH whether that survives CRWV's print tonight.** *(Analysis.)*
+- **Rule 7: descriptive only. This entry records composition and builds the measuring instrument.
+  Weights, rebalancing and sizing are Jake's.**
+
+**Links:** [[ai-financing-fragility]] · [[ai-capex-cycle]] · [[memory-regime-question]] · [[metered-compute]]
