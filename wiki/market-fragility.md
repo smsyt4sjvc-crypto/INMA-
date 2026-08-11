@@ -2678,6 +2678,7 @@ window, so the bar was the STYLE COHORT, not one fund).
   ran anyway.** The Korea-symmetry entry's "crowded into the same underlying" frame, now with two US
   names in one month.
 - *(the arithmetic IS the leverage measurement — and it says structure, not scandal)* −44% in a month
+  ⟲ EXTENDS market-fragility.md:L2620 (2026-08-11) — Jake clarified: equities, and the PRIVATE credit financing it — the credit-regard counter cited the wrong segment [old entry stays LIVE]
   the vault has global semis −13.2% ⇒ **~3.3x effective exposure** — the SA-class levered-concentration
   structure, measured from returns alone. And +195%→+65% is a DRAWDOWN on a massively up year, **not a
   failure**: no gate, no liquidation, no dealer loss in the excerpt. ZH's "blowing up" overstates the
@@ -2782,3 +2783,44 @@ inverted, and the bull case must rest on something other than "nobody is watchin
 3. **Sep-end: SK hynix HBM contract price** — resolves the memory leg his basket is 8% long.
 4. **F19 run** — dates the buildout with a series instead of an adjective.
 **Links:** [[ai-financing-fragility]] · [[ai-capex-cycle]] · [[cepi]] · [[metered-compute]] · [[_calibration]]
+
+### 2026-08-11 ~10:05am PDT — ⛔ MY OWN PUSHBACK ANSWERED THE WRONG QUESTION: Jake clarified he meant the PRIVATE credit financing the buildout, not hyperscaler IG — and on that, HE IS RIGHT
+⟲ AMENDS the 9:50am thesis entry above. Jake, 8/11: *"When I said 18-24 months I meant equities. I meant
+the credit financing it."*
+
+#### ⛔ TWO CORRECTIONS TO MY OWN 9:50am ENTRY
+1. **I argued "buildout duration ≠ equity duration" as though he had conflated them. He had not — he
+   meant EQUITIES from the start.** The telecom analogy (capex rose into 2001, equities topped March 2000)
+   is still a real risk to his call, **but it was not the error I framed it as.** The point stands as a
+   RISK, not as a correction of his reasoning.
+2. **★★★ THE CREDIT-REGARD POINT IS THE ONE I GOT WRONG, AND THE VAULT'S OWN DATA SAYS SO.** I answered
+   "little regard to credit risk" with **hyperscaler IG CDS** — ORCL, META, NVDA, AVGO. **He meant the
+   PRIVATE paper financing the SPVs and neoclouds. That paper has NO OBSERVABLE SPREAD AT ALL.** And this
+   note's own thread already established exactly that: **the 20× proxy-hedging finding (L3445) says the
+   liquid hyperscaler CDS is absorbing hedging demand for *"the ENTIRE AI credit complex INCLUDING THE
+   PARTS THAT DO NOT TRADE — the data-centre SPVs, the private-credit paper, the neocloud loans."***
+   ⇒ **I cited the one segment that DOES reprice as evidence about the segment that CANNOT. That is a
+   category error, and the counter-evidence was in the same file.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★ THE HONEST RECONCILIATION, which is sharper than either of our original claims.** *"Little regard
+  to credit risk"* **cannot be falsified by a spread on the private paper, because there is no spread —
+  it is marked by model, not by market.** **But it IS contradicted by BEHAVIOUR: the 20× proxy-hedging
+  means holders of the untraded paper are buying protection through the only liquid instrument available
+  to them.** ⇒ **The regard exists and is measurable — just not in a price. It is visible in a HEDGING
+  RATIO instead.** **Both of us were reaching for the wrong instrument: he for a price that does not
+  exist, me for a price that measures someone else.** *(Analysis.)*
+- **★★ AND THAT MAKES HIS DURATION CASE MECHANICALLY STRONGER, WHICH I SHOULD SAY PLAINLY.** Paper with
+  no observable mark **cannot force a repricing event.** No mark → no margin call → no forced sale → no
+  cascade. **The stress has to arrive through a CASH-FLOW miss at a borrower, or a tranche that fails to
+  close — not through a spread.** **That is a materially slower transmission channel than the one I was
+  implicitly pricing, and it supports 18-24 months better than my counter did.** *(Analysis.)*
+- **📌 WHAT THIS DOES TO THE INDEPENDENCE SCORE: unchanged at 3/10 on the bull leg** — the correction is
+  to my argument, not to his sourcing. **His premises are now 2-for-2 on the checkable ones** (FCF
+  confirmed → [[cepi]] 2026-08-11; credit-opacity confirmed here). **The unchecked leg is still the
+  INFERENCE to 18-24 months, which remains a timing claim built from states.** *(Analysis.)*
+- **🚩 THE MEASURABLE THAT REPLACES BOTH OUR ARGUMENTS: track the PROXY-HEDGING RATIO over time, not the
+  level of any spread.** 20× was a round desk approximation on 8/7 (⚠️ never verified — L3435). **If that
+  ratio is RISING, regard is increasing on paper nobody can price. If it is falling, Jake's "little
+  regard" is winning.** ⬜ Needs a repeatable source for CDS notional vs reference obligations.
+**Links:** [[ai-financing-fragility]] · [[cepi]] · [[_calibration]]
