@@ -2824,3 +2824,54 @@ the credit financing it."*
   ratio is RISING, regard is increasing on paper nobody can price. If it is falling, Jake's "little
   regard" is winning.** ⬜ Needs a repeatable source for CDS notional vs reference obligations.
 **Links:** [[ai-financing-fragility]] · [[cepi]] · [[_calibration]]
+
+### 2026-08-11 ~10:40am PDT — 3Y AUCTION GRADED (leg 1 of 3 closes): STRONG CLEARING, BUT ZH'S INFERENCE DOES NOT FOLLOW — the yield is the HIGHEST SINCE FEB 2025
+Source: ZH, *"Solid 3Y Auction Stops Through Ahead Of Tomorrow's CPI Report"* → `raw/zerohedge-2026-08-11-3y-auction-stops-through.txt`.
+Closes leg 1 of the auction stack registered at L2495 (Tue 3Y $58bn · Wed 10Y $42bn · Thu 30Y $25bn).
+
+#### DATA (observed — Treasury auction results, 1:00pm ET 2026-08-11)
+- **High yield 4.291%**, up from **4.179%** in July = **+11.2bp M/M**, and **the highest since Feb 2025.**
+- **STOPPED THROUGH the 4.296% When-Issued by 0.5bp — the 2nd consecutive through auction.**
+- **Bid-to-cover 2.712**, up from 2.600, **highest since November**; six-auction average 2.606.
+- **Indirects 64.24%** (from 67.50% last month) · **Directs 24.0%** vs 21.7% average ·
+  **DEALERS LEFT HOLDING 11.7% — one of the lowest of the year.**
+- ⚠️ **SOURCE TYPO, flagged not propagated:** ZH writes indirects were *"in line with the recent average
+  of 3.729%."* **An indirect share cannot be 3.729%** — almost certainly **63.729%.** Do not cite the
+  figure as printed.
+- ZH's stated read: *"rock solid… should eliminate any concerns that the bond market (at least) is
+  worried about tomorrow's CPI print."* Plus an embedded forecast: CPI *"will come in tame thanks to
+  continued housing disinflation."*
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ THE INFERENCE DOES NOT FOLLOW, AND IT IS THE WHOLE POINT OF THE ARTIFACT TEST. A through-stop
+  measures the CLEARING PROCESS, not the market's inflation view.** It says demand met supply **0.5bp
+  better than dealers expected minutes before** — a statement about the WI setup, not about CPI. **The
+  statement about inflation is the LEVEL: 4.291%, the highest 3Y print in ~18 months.** ⇒ **Buyers showed
+  up strongly BECAUSE they are being paid the most since Feb 2025 — that is not an inflation-relaxed bond
+  market, it is a well-priced one.** *(Analysis. Numbers vs adverbs: "rock solid" describes the internals
+  and is fair; "eliminates concerns about CPI" is an unsupported leap from a different measurement.)*
+- **★★★ THE GENUINELY STRONG INTERNAL IS THE DEALER LINE, AND IT IS THE ONE ZH UNDERPLAYS. 11.7% takedown,
+  one of the lowest this year, means the auction did NOT need the dealers** — end-user demand (indirect +
+  direct = 88.2%) absorbed the size. **Directs at 24.0% vs a 21.7% average is real domestic money.**
+  📌 **This is the DEALER-Δ BASELINE the 13F protocol registered for Friday** — a low-takedown auction is
+  the clean prior against which any dealer-balance-sheet stress later in the week reads. *(Analysis.)*
+- **★★★★ AND IT CUTS AT JAKE'S FED PREMISE FROM THIS MORNING, on his own terms. He argued duration on
+  "the feds seemingly refuse to do literally anything."** **The 3Y is the Fed-path tenor, and it just
+  printed its highest yield since Feb 2025.** ⇒ **The front end is repricing FEWER cuts / a higher
+  terminal regardless of what the committee does. The market is doing the tightening.** With **Hammack
+  dissenting in July for a HIKE** and Sept at ~44%, *"refuses to do anything"* describes the policy rate
+  and **not the cost of money.** *(Analysis.)* ⟲ EXTENDS the 9:50am thesis entry (L2705).
+- *(what is actually at stake tomorrow, stated so the grade is honest)* **The 3Y was the EASY leg — it
+  prices BEFORE the CPI print.** **Tomorrow inverts the order: CPI at 8:30am ET, then $42bn of 10Y at
+  1:00pm ET — the auction has to absorb the number rather than front-run it.** Thursday is harder still:
+  **$25bn 30Y after a PPI where GS carries +0.4% against +0.2% consensus (2×).** **A strong 3Y tells you
+  almost nothing about either.** 🚩 **THE TEST: does the 10Y tail after the CPI print?** *(Analysis.)*
+- *(ZH's CPI aside, logged as gradeable)* *"Tame thanks to continued housing disinflation"* is consistent
+  with GS's shelter forecast (**OER +0.23%, rent +0.16%**, "continued slowdown in underlying trends") and
+  with GS core **+0.19% MoM vs +0.2% consensus.** ⚠️ **Do not re-derive the wedge** — L2582's ⛔ already
+  settled that the LEVEL/IMPULSE distinction is where the 8/9 read went wrong. *(Analysis.)*
+- 📌 **⬜ CLOSED — JAKE'S DEVICE TIMEZONE IS PACIFIC.** The PDF footer stamps **10:36 AM** on an article
+  about a **1:00pm ET** auction. 10:36 PDT = 13:36 ET ⇒ Pacific. **This retires the "zone not legible"
+  caveat on the 8/11 basket screenshots (9:21-9:23 = PDT).** *(Analysis — one less unknown on every
+  future upload timestamp.)*
+**Links:** [[new-economy-regime]] · [[ai-financing-fragility]] · [[portfolio-state]]
