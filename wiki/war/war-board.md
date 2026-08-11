@@ -1738,3 +1738,30 @@ Source: `raw/grok-sweep-digest-1-2026-08-09.txt` (items 2-4).
 > would not by itself lead to a full reopening."** ⇒ the registered corridor tests must distinguish a
 > TECHNICAL-corridor signing from REOPENING (sanctions/compensation/warship demands still attached) — a
 > signed corridor ≠ the fee holiday ≠ Hormuz open. Brent +0.8% this morning. [[demand-destruction]]
+
+📌 LEDGER 2026-08-11 ~7:35am PDT — THE CORRIDOR OPTIMISM DIES IN ONE TAPE: SIX vessels, US warning shots, Trump hardens, reparations standoff — and the REFINERY-STRIKE pattern hits three countries in four days
+Source: acute scanner run 14:26 UTC (Jake paste) — T1 wire cluster + T2, routed. Prices: WTI 82.13,
+Brent 87.71 (headlines cite ~$89-90 intraday), gold +1.89% to 4,444, VIX 15.46 (calm tape, war bid in
+gold not equities).
+- **Hormuz traffic: SIX VESSELS Monday (Reuters) — two-month low** (from "ultra-low" Sunday). "A dozen
+  ships switch oil OUTSIDE Hormuz — dark transits" (Bloomberg/Transport Topics).
+- **"Trump hardens stance on Iran, clouding hopes for Hormuz deal" (Bloomberg)** + US and Iran "trade
+  REPARATION demands" — the compensation clause the vault filed as Term-class is now the named
+  sticking point. Qatar/Pakistan still voicing optimism = the two-track texture continues.
+- **⬜ ESCALATION CLASS, needs T1 primary: "US forces fire on Panama-flagged vessel near Hormuz" (WSJ
+  per Fox pickup; Washington Examiner phrasing: "trying to cross through the blockade").** Direction
+  ambiguous as written (warning shots enforcing a cordon? preventing a runner?) — DO NOT infer
+  mechanism; fetch the WSJ piece. First reported US-weapons-on-merchant event of the standoff.
+- **The 8/10 DB-note sharpening ("technical agreement ≠ reopening") is aging exactly right**: talks
+  "progressing" per Oman/Qatar while traffic hits lows and Washington hardens — a signed corridor was
+  never the reopening, and the tape now prices that.
+- **REFINERY-STRIKE PATTERN, 3 countries/4 days: Jazan (8/9, Houthi) · ORSK, Russia (Ukrainian strike,
+  today) · ZAWIYA, Libya (drone blaze, today).** + Houthi Red Sea attack kills 3 crew. WSJ headline
+  same tape: "the real oil squeeze is happening in REFINERIES" — the vault's crack-spread/refiner
+  thread ([[oil-value-chain]] L74) getting its confirmation cycle. 🚩 crack spreads = the gauge, not
+  flat price.
+- Second-order: **aluminum 7-week high** (smelter energy exposure) · **ADNOC weighs east-coast gas
+  terminal to BYPASS Hormuz** (infrastructure voting on duration) · Uniper: high gas "as long as
+  Hormuz shut."
+- Calendar: **3Y auction ($58bn) TODAY · July-CPI + 10Y tomorrow · PPI + 30Y Thursday.** Oil re-firming
+  INTO the inflation prints = the malign-configuration risk the week-ahead entry framed.

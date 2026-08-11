@@ -906,3 +906,11 @@ covered name post-crash; factual corrections kept, the "worst is behind us" soot
 > memory-price FINANCIALIZATION being built (first: CRWV exploring memory-price derivatives, radar
 > C-leg). An index vendor productizing DRAM pricing = the instrument layer arriving before the
 > Sep-end SKH contract-price test. ⬜ watch for the ticker going live.
+
+> 📌 2026-08-11 ~7:40am PDT (scanner, T1): **MICRON ON THE RECORD: customers "SCRAMBLING for memory
+> even at 'very high' prices"; market "could stay TIGHT BEYOND 2027"; "booked solid through 2026."**
+> The walled-side case now has the MAKER's public voice (talking its book — but checkable-class
+> claims), landing days before the Sep-end SKH contract-price test. **And the divergence IS the
+> datum: MU −28% from highs while management claims multi-year tightness** — the fast money's memory
+> refusal, visible in one name. Samsung +4.1% today, SKH stabilizing (+0.35 after the −15% week).
+> ⬜ Apple-CXMT testing "weighs on sentiment" (F3 resolver moving — Apple commitment still THE test).
