@@ -2018,6 +2018,7 @@ tokens, USAGE-WEIGHTED** — blended across a basket covering 95% of trailing SP
   migration, measured daily.** The PINS CEO's fiduciary-default quote (8/10) is this chart in CEO
   language; the L466 toll-is-model-agnostic conclusion is its winner map.
 - *(★ the Jevons arithmetic is now THE registered test, with numbers)* Blended realized price −43%
+  ⟲ SUPERSEDED 2026-08-11 → metered-compute.md:L2062 — the SDLLMTK decline is a MIX SHIFT, not price deflation: both sub-indices are up 120-146% from base while the composite is up 29%
   in a quarter ⇒ **token VOLUME must grow ~75%+ per quarter for aggregate token REVENUE to hold
   flat.** ⬜ the volume leg (OpenRouter usage totals, provider disclosures) is the decisive fetch —
   registered. If volume clears the bar: revenue holds and commoditization is the bull case
@@ -2060,6 +2061,7 @@ report about it.** ⚠️ Map gap #18 fixed same-turn: MODEL-ECON 0→7 hits, TO
 - **★★★★ THE MOAT, NUMBERED BY A PRINCIPAL: *"AI is likely the most competitive industry in history.
   Innovations are quickly copied and absorbed WITHIN MONTHS… maintaining even a TWO-MONTH ADVANTAGE is
   incredibly valuable."***
+    ⟲ SUPERSEDES metered-compute.md:L2020 — the SDLLMTK decline is a MIX SHIFT, not price deflation: both sub-indices are up 120-146% from base while the composite is up 29%
 - **★★★★ BEHIND-THE-METER, CONFIRMED: *"We help keep electricity prices low by BUILDING OUR OWN
   ENERGY-GENERATING INFRASTRUCTURE WHEREVER WE INVEST. This ensures that not only are we not consuming
   energy that could have gone to the local communities, but in some cases we even SUPPLY A SURPLUS of
@@ -2130,3 +2132,65 @@ report about it.** ⚠️ Map gap #18 fixed same-turn: MODEL-ECON 0→7 hits, TO
   consumer product, NOT a wholesale price mechanism.** **Do not treat it as an API price cut until the
   scope is stated.** 🚩 **FETCH: any Meta pricing/product page defining the auction.**
 **Links:** [[compression-thesis]] · [[power-not-petroleum]] · [[ai-financing-fragility]] · [[ai-capex-cycle]] · [[new-economy-regime]]
+
+### 2026-08-11 ~5:00pm PDT — ⛔⛔★★★★★ THE DECISIVE FETCH LANDS AND IT OVERTURNS THIS NOTE'S CENTRAL READING: SDLLMTK IS NOT FALLING BECAUSE PRICES FALL. BOTH SUB-INDICES ARE UP 120-146%. IT IS A MIX SHIFT.
+Source: Silicon Data's own published 3-index chart + Peter Walker's OpenRouter series (Jan 5 – Aug 9,
+2026), Jake paste 2026-08-11 ~4:55pm PDT. **Both legs of the registered "decisive fetch" arrive together
+— the price index WITH sub-indices, and the volume series.**
+
+#### DATA (observed — read off the source's own chart)
+| index | Dec-2025 base | latest | from base | from peak |
+|---|---|---|---|---|
+| **SDLLMCS** closed/proprietary | ~$1.25 | **$3.07** | **+146%** | −27% (peak ~$4.22 early Jul) |
+| **SDLLMOS** open-weight | ~$0.30 | **$0.66** | **+120%** | **at/near its high** |
+| **SDLLMTK** composite (expenditure-weighted) | $1.00 | **$1.29** | **+29%** | −36% (peak ~$2.01 Jun) |
+- **VOLUME (OpenRouter, weekly): 6.4T → 69.1T tokens, >10× since Jan 5.** ~30 weeks ⇒ **~+182% per
+  QUARTER compounded.**
+- **COMPOSITION: "primarily built by Chinese labs."** Latest week ~69.1T total, US ~25.5T ⇒ **China
+  ≈ 63% of TOKENS.** Open-weight names named: DeepSeek, Xiaomi, Tencent, Minimax.
+- ⚠️ **CONFLICT WITH THIS NOTE'S OWN PRIOR NUMBERS, surfaced by crosscheck and NOT resolved by
+  assertion:** L2003 (8/10) recorded *"Last: 1.1635. May 2026 peak ~2.05 → −43%."* **This chart shows a
+  JUNE peak ~$2.01 and a latest of $1.29.** L1972 has **1.2901 (8/4) → 1.2723 (8/5)**. ⇒ **$1.29 ≈ the
+  8/4 print, so THIS CHART IS PROBABLY AS-OF ~AUG 4 AND THE 1.1635 BLOOMBERG READ IS MORE RECENT.**
+  ⬜ **NOT ESTABLISHED. The chart's own end-date is not legible.** **Both readings stay on the record.**
+
+#### ⛔ THE CORRECTION — and it is this note's headline claim
+- **BOTH SUB-INDICES ROSE. THE COMPOSITE BARELY MOVED. That is arithmetically ONLY possible if
+  EXPENDITURE WEIGHT MIGRATED from the expensive tier to the cheap one.** ⇒ **The SDLLMTK decline this
+  vault has been citing as "the effective price of intelligence is collapsing" is NOT PRICE DEFLATION.
+  It is SUBSTITUTION.** *(Closed prices ARE −27% off their July peak, so some genuine decline exists in
+  the recent window — but from base, both tiers got MORE expensive, not less.)*
+- **⛔ THIS CHANGES THE INVESTMENT IMPLICATION, which is why it matters and not just the wording.**
+  **PRICE DEFLATION compresses everyone's margin.** **SUBSTITUTION means the closed labs lose VOLUME
+  SHARE while their own realised price RISES** — a very different failure mode, and one that hurts
+  OpenAI/Anthropic-type sellers far more than it hurts the compute stack underneath.
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ THE JEVONS TEST RESOLVES, AND IT RESOLVES AGAINST THE COMPRESSION READ AT THE AGGREGATE.
+  Registered bar: ~75% volume growth per quarter to offset price decline. DELIVERED: ~+182%/quarter —
+  2.4× the bar.** Expenditure ≈ price × volume ⇒ **composite price +29% from base × volume +980% ⇒ total
+  token SPEND up roughly 14×.** ⇒ **The token market is exploding in DOLLAR terms. "Falling token
+  prices are eating the industry" is not what this data says.** *(Analysis.)*
+- **★★★★ BUT TOKENS ARE NOT DOLLARS, AND THE DOLLAR SPLIT INVERTS THE HEADLINE. An open token at $0.66
+  is worth ~1/4.6 of a closed token at $3.07.** Applying the token split as a rough weighting:
+  **0.63 × $0.66 ≈ 0.42 vs 0.37 × $3.07 ≈ 1.14** ⇒ **China/open ≈ 27% of DOLLARS while being ~63% of
+  TOKENS; closed still takes ~73% of the money.** ⚠️ Rough — the country split and the open/closed split
+  are not the same partition. ⇒ **"Chinese models take pole position" is TRUE IN TOKENS AND FALSE IN
+  REVENUE, and the chart title does not say which.** *(Analysis.)*
+- **⚠️ THE SAMPLE PROBLEM THAT BOUNDS EVERY SHARE NUMBER ABOVE: OPENROUTER IS A ROUTER, NOT THE MARKET.**
+  Its users skew developer, experimental and price-sensitive — **exactly the population that would
+  over-represent cheap open models.** **Enterprise spend contracted directly with Anthropic/OpenAI/Google
+  never touches it.** ⇒ **Every share figure here is "share OF OPENROUTER," and the vault must never
+  restate it as global.** ⬜ **UNKNOWN: what fraction of global inference routes through OpenRouter.**
+  **Without that denominator these are trend shapes, not levels.** *(Analysis.)*
+- **★★★ THE OPEN-PRICE RISE IS THE MOST UNDER-DISCUSSED LINE ON THE CHART AND IT JOINS THE COST FLOOR.
+  Open-weight token prices went $0.30 → $0.66, +120%, and are AT THEIR HIGH.** Open weights are free;
+  **what is not free is SERVING them** — and this vault has GPU rentals **+35-38%** and data-centre
+  construction **+45.8% YoY.** ⇒ **The floor under token prices is the physical cost of inference, and
+  it is rising fast enough to push even free-weight models' prices up.** **That is the barbell's input
+  end showing up directly in the price data** (filed 3:30pm). *(Analysis.)* [[power-not-petroleum]]
+- **⚠️ AND THE DEFLATOR NOBODY APPLIES: TOKENS PER TASK IS RISING.** Walker's own caption credits *"better
+  models and agents"* — **agents burn multiples of the tokens per unit of work.** ⇒ **10× token growth is
+  NOT 10× demand growth**, and the gap between them is entirely unmeasured here. ⬜ **The single most
+  valuable missing series.** *(Analysis.)*
+**Links:** [[compression-thesis]] · [[cepi]] · [[ai-financing-fragility]] · [[power-not-petroleum]] · [[portfolio-state]]
