@@ -276,3 +276,35 @@ Substacks, HN) · implementation (Bogleheads) — **then always primary document
   obscure assumption buried in a company's gross-margin model becomes."* That is this vault's firewall
   philosophy stated from the other direction — and the anti-thesis leg (his #2 use) is [[_calibration]]'s
   argue-the-underweighted-side, outsourced.
+
+## 2026-08-10 ~6:50pm PDT — THE MAJORS' LAG, CODIFIED INTO A CONVENTION (Jake: "WSJ/Reuters… writing about things we've had mapped for weeks")
+### DATA (the dated receipts, this month alone)
+- Private-credit strain: vault's Dowd/gating fork + BDC gauges registered JULY (L150 fragility); Sarin
+  corroboration 8/5; **WSJ's filings analysis arrived 8/9** — printing three of our five pre-registered
+  gauges.
+- SPV/off-B/S architecture: the fragility thread's FOUNDING frame (private credit → insurance →
+  Bermuda); **ZH itself wrote 8/10 the FT "caught up with today."**
+- Circularity: L517's verbatim circle filed weeks before **Huang pre-butted "circular financing" by
+  name in his own launch FAQ (8/10)**.
+- Disclosure fork (MSFT leases vs META SPVs): board-filed the MORNING BEFORE Wigglesworth's $1T tweet.
+- Memory thrifting → SKH −15%: vault 8/6; JPM's defense note post-crash 8/10.
+### THESIS (both sides, deliberately)
+- *(why it is STRUCTURAL, not brilliance)* The majors' unit of production is the VERIFIED EVENT —
+  publication requires a peg and two sources; their lag is the PRICE of their accuracy standard. The
+  vault's unit is the REGISTERED QUESTION — a question registered in July makes August's answer-event
+  coverage look "late." Different products. **And the vault FEEDS on their output** — the WSJ filings
+  analysis was our explicitly-wanted "current source"; the FT's "six people briefed" is reporting we
+  cannot do. Their access + our synthesis-speed are complementary, not competitive.
+- *(⚠️ the trap, stated before it compounds)* "The news is behind us" is ALSO what an echo chamber
+  feels like from inside. The viral layer was "ahead of" WSJ on today's OpenAI-exodus story too — and
+  it was WRONG; the majors' slowness would have been accuracy. **Early and right are only
+  distinguishable at GRADING time** — the scoreboard, not the feeling, arbitrates. (⛔ _calibration
+  L342: "clear-eyed one; everyone else spins" = ego-bait.)
+- *(★ THE CONVENTION — the applicable version of Jake's observation)* **Major-outlet arrival on a
+  vault thread is a DIFFUSION DATUM, not an information datum.** It marks the thesis being socialized
+  to the widest audience — the same class as "a sell-side how-to-profit list marks the idea as
+  distributed," one ring further out. **RULE: when WSJ/FT/Reuters land on a mapped thread, log the
+  LAG (vault-filed date → majors date) in the thread as a diffusion marker.** A thread the majors
+  have reached is late in its information cycle; a thread they haven't is where the vault's edge
+  still lives (current examples: the NdPr/magnet silence, the SDLLMTK squeeze pair, the duration
+  mismatch — unmapped by any major as of tonight).
