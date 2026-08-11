@@ -2814,3 +2814,54 @@ Source: viral post + Bloomberg ECONGECC chart (Kevin Gordon, Charles Schwab), ch
   trend. 🚩 **Cheap next step: revision size regressed on time — is the bias growing, or has it been
   ~−35k throughout?** Only the first is a cycle signal.
 **Links:** [[market-fragility]] · [[compression-thesis]] · [[ai-capex-cycle]] · [[predictions]]
+
+### 2026-08-11 ~4:50pm PDT — 📌 THE RATES-VOL SURFACE ENTERS THE VAULT: 3y10y payer skew at multi-year highs, vol-of-vol near 2019 levels — the malign box is being PRICED, and the ratio has an alternative reading ZH does not name
+Source: two ZH posts (6m/16m before paste) + the underlying charts, Jake paste 2026-08-11 ~4:45pm PDT.
+⚠️ **MAP GAP #19 FIXED SAME-TURN: the rates-VOL surface was entirely absent from the thread map** —
+this inbound returned only single-keyword matches and the vault holds **two lines total** on repo/SRF.
+**The malign box (yields up + stocks down) is priced on this surface and the map could not see it.**
+FED thread now 1 → 12 hits.
+
+#### DATA (observed — read off the charts, not from ZH's captions)
+- **CHART 1 — `3y10y payer+100 / 3y10y receiver−100`.** A RATIO of out-of-the-money payer swaption
+  vol to out-of-the-money receiver vol on the 3-year-into-10-year tenor. **Now ~1.155, the highest on
+  the visible series** (prior peaks ~1.148 in the post-Aug-2020 spike and ~1.150 in 2024).
+  ZH caption: *"SKEW BLOWING-OUT TO MULTI YEAR LEVELS, TILTING SHARPLY TO HIGH-STRIKE PAYERS."*
+- **CHART 2 — `3y10y p+100 + 3y10y r−100 − 2×3y10y`.** A **BUTTERFLY on the vol surface** (wings minus
+  twice the at-the-money) = **"vol of vol."** **Now ~0.072-0.074 vs a 2019 peak of ~0.076** — near, not
+  at, the high. ZH: *"Last time it was here repo market broke and Fed started NOT QE."*
+- **TERMS, per the acronym rule:** a **PAYER swaption** pays off if rates RISE; a **RECEIVER** pays off
+  if rates FALL. **Payer skew > 1 = the market pays more to insure against higher rates than lower.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ THE ALTERNATIVE READING ZH DOES NOT NAME, AND IT IS THE FIRST THING TO CHECK: A RATIO CAN RISE
+  FROM ITS DENOMINATOR. `payer/receiver` blows out EITHER because payer vol is bid OR because RECEIVER
+  vol has COLLAPSED.** If the market has stopped pricing any chance of large cuts, receiver vol dies and
+  the ratio spikes **with no new payer demand at all.** ⇒ **"Tilting sharply to high-strike payers" is
+  ASSERTED, not shown — the chart cannot distinguish the two.** 🚩 **RESOLVER: the payer and receiver
+  legs plotted SEPARATELY, or absolute payer vol.** ⬜ Not available from these images.
+  *(Analysis. This is the single most load-bearing unknown in the post.)*
+- **★★★ IF IT IS GENUINELY PAYER-LED, IT CORROBORATES TODAY'S FRONT END rather than adding to it.** The
+  3Y auction printed **4.291%, the highest since Feb 2025** ([[market-fragility]] 8/11), Hammack
+  **dissented in July for a HIKE**, and the registered Fed-hike call sits at **40%**
+  ([[../predictions/2026-07-30-fed-hike-before-december]]). **Payer skew is the OPTIONS market pricing
+  the same thing the cash market printed at 1pm.** ⇒ **Not an independent signal — a second expression
+  of one view. Do not count it twice.** *(Analysis.)*
+- **⛔ THE "REPO BROKE LAST TIME" CLAIM IS n=1 AND OMITS THE STRUCTURAL CHANGE THAT ANSWERS IT.** The
+  Sept-2019 repo blowup led to the Fed's bill purchases. **But the STANDING REPO FACILITY was created in
+  2021 EXPLICITLY to prevent a repeat** — a permanent, always-available backstop that did not exist in
+  2019. ⇒ **Citing 2019 without naming the facility built in response to 2019 is the analytic error.**
+  ⚠️ **AND THE COUNTER-COUNTER, kept because it is real: the SRF carries usage stigma and has been
+  tested only lightly.** **A backstop that institutions avoid using is not the same as one they use.**
+  ⇒ **Mitigant, not immunity.** *(Analysis.)*
+- **★★ WHAT VOL-OF-VOL ACTUALLY MEASURES, stated so it is not over-read: the market paying up for TAIL
+  vol relative to at-the-money vol.** That is a statement about **uncertainty ABOUT the uncertainty** —
+  a plumbing/positioning signature, **not a directional view and not a timing claim.** **Per the
+  WARNING-vs-TRIGGER rule this is a STATE.** It shades odds; it times nothing. *(Analysis.)*
+- *(the calendar this lands on, which is the only part that is dated)* **CPI 8:30am ET tomorrow, then
+  the $42bn 10Y at 1pm — the auction must ABSORB the print rather than front-run it, unlike today's
+  3Y.** **Thursday: PPI (GS +0.4% vs +0.2% consensus, 2×) then the $25bn 30Y.** ⇒ **If payer skew is
+  real, the 30Y after a hot PPI is where it gets tested.** 🚩 **THE TEST: does the 10Y TAIL after CPI?**
+- **📌 "BESSENT WILL BE BUSY" is the one part that needs no interpretation:** heavy coupon supply into a
+  market demanding term premium is a Treasury-refunding problem before it is a Fed problem.
+**Links:** [[market-fragility]] · [[ai-financing-fragility]] · [[predictions]] · [[fragility-engine]]

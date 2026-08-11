@@ -255,7 +255,14 @@ THREADS = {
                'rate expectations',
                'hammack','kashkari','waller','bostic','goolsbee','jefferson','bowman','daly',
                'treasury auction','30y auction','auction tail','bid-to-cover','indirect',
-               'reserve balances','reverse repo','rrp','qt','tic data','dot plot','sep'],
+               'reserve balances','reverse repo','rrp','qt','tic data','dot plot','sep',
+               # gap #19 (8/11): the RATES-VOL SURFACE was entirely absent. A ZH post on 3y10y
+               # swaption payer skew + vol-of-vol returned only single-keyword matches, and the
+               # vault holds just two lines on repo/SRF. The malign box (yields up + stocks down)
+               # is priced HERE, and the map could not see the instrument that prices it.
+               'swaption','payer','receiver','vol of vol','skew','3y10y','payer skew',
+               'rate vol','rates vol','move index','repo market','standing repo facility','srf',
+               'not qe','bessent','refunding','coupon auction','duration supply','term premium'],
  # gap #17 (8/8): measurement vocabulary — flows/positioning. NOT the proper-noun defect.
  'FLOWS':     ['fund flow','inflow','outflow','epfr','allocation','net buying','net selling',
                'retail flow','institutional flow','positioning','percentile','exposure',
