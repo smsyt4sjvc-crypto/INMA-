@@ -426,6 +426,7 @@ Jake clarified 8/11: *"When I said FCF is available I meant to Amazon, Google, m
 **Checkable. Checked.** EDGAR XBRL companyfacts, quarterly duration facts (80-100 day periods), 10-Q/10-K
 only. FCF = NetCashProvidedByUsedInOperatingActivities − PaymentsToAcquirePropertyPlantAndEquipment.
 
+  ⟲ SUPERSEDED 2026-08-11 → cepi.md:L470 — the 10:00am FCF table used an 80-100 day filter that only ever catches Q1: META's real latest quarter is +0.8B (97.5% of OCF consumed), not +13.2B
 #### DATA (observed — SEC filings, latest reported quarter per filer, $B)
 | name | quarter-end | OCF | capex | **FCF** | capex/OCF |
 |---|---|---|---|---|---|
@@ -468,8 +469,61 @@ differs from cash-flow-statement FCF. **What is falsified is the SENTENCE as wri
   no DC leases) is unaffected; **MSFT's +15.8B and AMZN's −8.8B are both flattered.** 🚩 **NEXT: re-run
   with capex + finance-lease additions to get economic FCF.** *(Analysis. Registered, not asserted.)*
 - *(what this does to the duration thesis)* **Jake's premise survives the check and is stronger than the
+  ⟲ SUPERSEDES cepi.md:L428 — the 10:00am FCF table used an 80-100 day filter that only ever catches Q1: META's real latest quarter is +0.8B (97.5% of OCF consumed), not +13.2B
   version I argued against: the funders DO generate cash.** But the cash is concentrated in the names
   that **SELL** compute and in the **ad-funded** (META, GOOGL) — **not in the names doing the building.**
   **AMZN and ORCL, the two actually running capex above operating cash flow, are the two the credit market
   has already marked.** *(Analysis.)* [[market-fragility]]
 **Links:** [[ai-financing-fragility]] · [[balance-sheet-board]] · [[ai-capex-cycle]] · [[market-fragility]]
+
+### 2026-08-11 ~4:05pm PDT — ⛔⛔ THE 10:00am FCF TABLE HAD A SYSTEMATIC BUG: an 80-100 day filter ONLY EVER CATCHES Q1. META's real latest quarter is +$0.8B, not +$13.2B — and the vault had it right on 7/30.
+Jake pasted a META chart showing the 7/29 earnings crash and said *"we have it in the vault for sure."*
+**He was right, and checking it broke my own table.**
+
+#### ⛔ THE BUG, NAMED SO IT IS NOT REPEATED
+- **MOST FILERS REPORT CASH-FLOW ITEMS YEAR-TO-DATE, NOT PER-QUARTER.** META's actual filed durations:
+  **Q1 = 89-90d · H1 = 180-181d · 9M = 272-273d · FY = 364-365d.** ⇒ **A "discrete quarter" filter of
+  80-100 days matches ONLY THE FIRST QUARTER OF EACH YEAR, every year, forever.**
+- **THE TELL WAS VISIBLE IN MY OWN OUTPUT AND I DID NOT READ IT: every META row was a MARCH-31; every
+  GOOGL row was a MARCH-31; every NVDA row was an APRIL; every ORCL row was an AUGUST.** **That is not
+  "the last five quarters," it is "the last five FIRST-quarters."** *(Analysis.)*
+- **THE FIX: DISCRETE Q2 = (6-month figure) − (Q1 figure); Q3 = 9M − 6M; Q4 = FY − 9M.** Only filers
+  that tag discrete quarters (AMZN, MSFT) were unaffected.
+
+#### DATA (corrected — META Q2 2026, from the vault's own 7/30 entry, sourced to the earnings release)
+- **META Q2 2026: OCF $31.9B, KEPT ONLY $784M — 97.5% of operating cash flow consumed.**
+  ⇒ **capex ≈ $31.1B, up from $19.0B in Q1 = +64% in one quarter.** Revenue +28% to ~$60B.
+- **⛔ SUPERSEDES the 10:00am row "META | 2026-03-31 | +13.2B | 59%".** That was **Q1, one quarter
+  stale, and it inverted the name's position.**
+- **⚠️ EDGAR COMPANYFACTS DOES NOT YET CARRY IT.** META's H1-2026 duration is absent; the last point is
+  2026-03-31. **The 8-K earnings release (7/29) is ahead of the 10-Q's XBRL.** ⇒ **THE VAULT'S 7/30
+  ENTRY IS MORE CURRENT THAN THE SEC's STRUCTURED DATA.** *(This is a general property, not a one-off:
+  companyfacts lags the release by the 10-Q filing gap.)*
+- **BLAST RADIUS on the 10:00am table: META row WRONG (Q1 for Q2) · GOOGL row STALE (Q1; its June
+  quarter was reported late July) · ORCL row A YEAR STALE (2025-08-31) · NVDA row correct by accident
+  (Q1 FY2027 genuinely is its latest reported) · AMZN and MSFT unaffected (discrete filers).**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ THE CORRECTED PICTURE INVERTS META'S POSITION AND WEAKENS MY OWN AFTERNOON CLAIM. I wrote at
+  3:30pm that META "has the second-best FCF in the group." IT HAS THE WORST CAPEX/OCF RATIO OF ANY
+  PAYER — 97.5%, worse than AMZN's 119%… no: AMZN 119% is worse. META is SECOND-WORST at 97.5%,
+  against GOOGL 78% and MSFT 66%.** ⇒ **The two most capex-strained payers are AMZN and META** — and
+  **META was the only mega-cap UP today.** **That makes Jake's dip-buying explanation stronger still:
+  META rallied while being the second-most cash-strained name in the group, which is not what a
+  fundamental bid looks like.** *(Analysis.)*
+- **★★★ AND IT PARTLY RESCUES THE ZH CLAIM I CALLED FALSE THIS MORNING. "Only MSFT has positive free
+  cash flow now" is STILL false — NVDA is enormously positive and MSFT/GOOGL are clearly positive.
+  But META at +$784M is POSITIVE ONLY BY A ROUNDING ERROR, not by $13.2B.** ⇒ **The sentence remains
+  wrong; my REBUTTAL was overstated.** **Both things are true and I filed only one of them.**
+  *(Analysis.)*
+- **⛔ THE PROCESS ITEM, AND IT IS THE FOURTH INSTANCE OF ONE SHAPE TODAY: THE VAULT ALREADY HELD THE
+  CORRECT NUMBER (7/30, ai-financing-fragility L1825, headline "META'S FCF IS ~ZERO") AND I RAN A
+  FRESH PULL THAT WAS WORSE.** Today's list: Hormuz (vault had the blockade record) · FRED (canonical
+  IDs failing meant transport, not naming) · F19 (ran shell-vs-fit-out on one leg only) · **this one.**
+  **All four are the same failure: NEW RETRIEVAL PREFERRED OVER EXISTING KNOWLEDGE.** **Step Zero exists
+  precisely for this and I ran it on the inbound, not on my own instrument.** 📌 **NEW RULE CANDIDATE:
+  before trusting a fresh data pull, GREP THE VAULT FOR THE SAME NUMBER — a disagreement is the cheapest
+  bug detector available.** *(Analysis.)*
+- 🚩 **REBUILD REQUIRED: the FCF puller needs YTD-differencing before any of its output is cited again.**
+  ⬜ **GOOGL and ORCL latest-quarter FCF remain UNKNOWN pending that fix or their release figures.**
+**Links:** [[ai-financing-fragility]] · [[ai-capex-cycle]] · [[market-fragility]] · [[portfolio-state]]
