@@ -2074,6 +2074,7 @@ Source: **ISM Manufacturing July 2026 respondent comments (verbatim, Jake paste)
   servers, power gear, networking and photonics is **EQUIPMENT, NOT STRUCTURES** — it lands in ISM new
   orders and equipment capex and **never touches the construction release at all.** *(Analysis.)*
 - **🚩 NEW FLAG F19 — WHERE IN THE CYCLE IS THE BUILDOUT? SHELL vs FIT-OUT.** If the shells were built
+  ⟲ SUPERSEDED 2026-08-11 → ai-capex-cycle.md:L2351 — F19 RESOLVED on the shell leg: the data-centre line EXISTS in Census C30 and construction is at a record, re-accelerating — the 2026-is-the-fill hypothesis is dead
   2024-25 and 2026 is the fill, **data-center construction spending should be DECELERATING while
   electrical-equipment and semiconductor orders ACCELERATE.** **Resolver:** the Census data-center line
   inside private office construction *(⚠️ verify the series exists and is broken out)*, against durable-goods
@@ -2346,3 +2347,69 @@ leak — **and it started a lockup clock.**
 - **Alphabet deal detail (registered test, partial): 10 tranches (8 fixed/2 FRN); final pricing NOT
   FOUND at cutoff; existing GOOGL 5.65% '56 widened +95→+104bp into the deal.** Test stays open on
   final pricing + day-1 secondary.
+
+### 2026-08-11 ~11:05am PDT — ★★★★★ F19 RESOLVES ON THE SHELL LEG, AND IT GOES AGAINST MY FRAMING: DATA-CENTRE CONSTRUCTION IS AT AN ALL-TIME PEAK AND RE-ACCELERATING. The 2026-is-the-fill-year hypothesis is DEAD.
+⟲ CLOSES 🚩 F19 (L2076, registered 2026-08-05, unrun for six days). Commissioned by Jake 8/11 to test
+  ⟲ SUPERSEDES ai-capex-cycle.md:L2076 — F19 RESOLVED on the shell leg: the data-centre line EXISTS in Census C30 and construction is at a record, re-accelerating — the 2026-is-the-fill hypothesis is dead
+his own word *"adolescence."* **The flag's own caveat — *"⚠️ verify the series exists and is broken out"*
+— RESOLVES YES: Census C30 carries "Data center" as its own column, monthly, SA, back to 2014.**
+Instrument: `tools/f19_shell_vs_fitout_cell.py` v3. Source: Census C30 private SA time series, pulled
+direct from census.gov (**no API key**). Run end-to-end 2026-08-11.
+
+#### DATA (observed — Census C30, Value of Private Construction Put in Place, $B SAAR)
+| month | data centre $B | YoY | 3m ann | 6m ann |
+|---|---|---|---|---|
+| Dec-25 | 55.5 | +24.1% | +43.2% | +40.1% |
+| Mar-26 | 58.1 | +24.7% | +20.6% | +31.4% |
+| Apr-26 | 61.9 | +17.1% | +46.7% | +30.0% |
+| May-26 | 63.8 | +32.4% | +53.5% | +44.9% |
+| **Jun-26** | **68.3** | **+45.8%** | **+90.7%** | **+51.6%** |
+- **THE LATEST PRINT IS THE ALL-TIME PEAK.** YoY **troughed at +17.1% in Apr-26 and RE-ACCELERATED to
+  +45.8%.** 3m-annualised sits ABOVE YoY ⇒ accelerating INTO the most recent month.
+- **★★★★★ THE CONTRAST IS THE FINDING. Six-month change, every private category:**
+  **DATA CENTRE +23.1%** · office ex-data-centre **−8.7%** · manufacturing **−5.8%** · commercial
+  **−1.4%** · nonresidential **−0.7%** · **TOTAL PRIVATE CONSTRUCTION −3.5%.**
+  ⇒ **DATA CENTRES ARE THE ONLY GROWING CATEGORY IN US PRIVATE CONSTRUCTION. Everything else is
+  contracting.** Office (total) is +8.2% ONLY because data centres drag it up while its own core falls.
+- **Data centres = 59% of private office construction, up from 21% three years ago.**
+- ✓ INTEGRITY CHECK PASSED: 68.3 (data centre) + 44.2 (general office) = 112.5 vs Office total 115.8,
+  remainder = financial. Subcategories reconcile to the parent.
+
+#### ⛔ WHAT THIS KILLS — including my own read
+- **F19's hypothesis was: shells built 2024-25, 2026 is the fill ⇒ construction DECELERATES while
+  orders accelerate. THE CONSTRUCTION LEG DOES NOT DECELERATE. It is at a record and speeding up.**
+  **The configuration is SHELL, not FIT-OUT.** *(The orders leg is still missing — see below — so
+  "both rising" cannot yet be separated from "shell." Either reading kills fit-out.)*
+- **⛔ MY 8/11 9:50am PUSHBACK CALLED "ADOLESCENCE" AN UNFALSIFIABLE STATE-CLAIM, THE BULLISH TWIN OF
+  THE BANNED "LATE-CYCLE."** The methodological point stands — **but it was falsifiable after all, by
+  this series, and the series supports JAKE.** ⇒ **Conceded on the substance.** *(The rule survives:
+  the adjective was still worthless until a number replaced it. That is what F19 was for.)*
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ AND YET IT DOES NOT DELIVER THE 18-24 MONTHS ON EQUITIES, FOR THE SAME REASON THE BEARISH
+  VERSION NEVER DID. CONSTRUCTION PEAKS LATE. Telecom capex peaked 2000-01; the equities topped March
+  2000.** **An accelerating capex flow is a STATE. It shades odds and times nothing** — the identical
+  WARNING-vs-TRIGGER discipline, applied to the bull side. **What this buys Jake is the DENIAL of the
+  "it's already over" case, which is real and which I was leaning on. It does not buy a date.**
+  *(Analysis.)*
+- **★★★★ IT IS A FLOW OF CAPEX, NOT A MEASURE OF RETURNS — and pairing it with [[cepi]] makes it
+  WORSE for the equity case, not better.** Construction accelerating at +45.8% YoY while token prices
+  fall (SDLLMTK −43% from May) and AMZN/ORCL run capex ABOVE operating cash flow is **the fragility
+  configuration stated precisely: the spend is compounding into an output price that is deflating.**
+  ⇒ **The bull reading ("the buildout has legs") and the bear reading ("the hole is getting deeper")
+  are THE SAME DATUM.** *(Analysis.)*
+- **★★★ THE SLEEPER IS MANUFACTURING CONSTRUCTION AT −5.8% OVER SIX MONTHS. The CHIPS-fab buildout is
+  ROLLING OVER while the data-centre buildout accelerates.** Two legs of the same complex moving
+  opposite directions ⇒ **the capital is rotating from FABS to DATA CENTRES — from making the chips to
+  housing them.** 🚩 **NEW: does that divergence hold, and does it lead or lag the memory cycle?**
+  *(Analysis. New, not previously in the vault.)*
+- ⚠️ **THREE HONEST DISCOUNTS. (1) NOMINAL** — part of +45.8% is the input-cost inflation this note
+  already logged (5-25% PCB assembly, 15-45% bare boards); real volume growth is smaller.
+  **(2) REVISIONS** — Jun-26 is preliminary, Apr/May revised; the +90.7% 3m-annualised leans hardest on
+  the least settled prints. **The YoY (+45.8%) and 6m (+51.6%) use settled months and both confirm, so
+  the acceleration survives the discount.** **(3) SAAR** — an annualised rate, not a monthly outlay.
+- **⬜ STILL OPEN: THE ORDERS LEG.** FRED timed out on EVERY series including `NEWORDER` and `AMTMNO`,
+  which unquestionably exist ⇒ **FRED was the failure, not the IDs.** Census API now returns
+  **"Missing Key"**; DBnomics 404s. **🚩 FIND A KEYLESS M3 (manufacturers' new orders, NAICS 334)
+  source** — with it, "shell" separates cleanly from "both rising."
+**Links:** [[cepi]] · [[ai-financing-fragility]] · [[market-fragility]] · [[buildout-bottleneck-map]]
