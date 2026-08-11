@@ -330,3 +330,61 @@ rebuilding it anyhow, why not run some additional lines out into this field that
 4. **Charging documents** on the Old Trails suspect (motive).
 5. Does the **paused MOU resume** — and **does any announced route touch burned corridor?**
 6. Does the **county revisit** the moratorium post-fire (Brooks the swing)?
+
+### 2026-08-11 ~11:55am PDT — ★★★★ "ARE FABS REVERSING BECAUSE THEY CAN'T PLUG THEM IN?" — NO, AND THE TIMING PROVES IT. But the ratio vindicates Musk/Bezos on a DIFFERENT clock, and that one is live.
+Jake, 8/11: *"Now energy. Are fabs reversing because they can't plug them in? As Elon, Bezos etc have
+been saying for 3 years? (Elon for a decade)"* **Testable in the same Census C30 file** — it carries
+**Power inc. gas/oil (c58)** and **Electric (c59)** as their own lines. Tested.
+
+#### DATA (observed — Census C30, private, $B SAAR)
+| series | latest | 6m Δ | YoY | peak | vs peak |
+|---|---|---|---|---|---|
+| **DATA CENTRE** | 68.3 | **+23.1%** | **+45.8%** | Jun-26 | **at peak** |
+| **FABS (c66)** | 52.9 | **−25.3%** | **−46.9%** | Jun-24 | **−58.2%** |
+| **ELECTRIC (c59)** | 134.0 | +2.4% | +5.2% | **Jun-26** | **at peak** |
+| **POWER inc gas/oil (c58)** | 157.9 | +1.2% | +4.3% | **Jun-26** | **at peak** |
+- **★★★ PEAK DATES ARE THE WHOLE ARGUMENT: FAB peak Jun-24 · ELECTRIC peak Jun-26 · POWER peak Jun-26 ·
+  DATA CENTRE peak Jun-26.** **Power construction NEVER TURNED. It is at its all-time high today, two
+  years AFTER fabs rolled.**
+- **ELECTRIC YoY through the fab reversal:** Jun-23 **+15.6%** · Jun-24 **+14.5%** · Jun-25 **+4.3%** ·
+  Jun-26 **+5.2%**. Positive throughout; **decelerating, never contracting.**
+- **★★★★★ THE RATIO — data-centre construction ÷ electric construction, each June:**
+  2015 **0.05** · 2020 **0.10** · 2022 **0.13** · 2023 **0.18** · 2024 **0.29** · 2025 **0.37** ·
+  **2026 0.51.** **From 5% to 51% in eleven years, and it DOUBLED in the last three.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ NO — POWER DID NOT CAUSE THE FAB REVERSAL, on three independent grounds.**
+  **(1) TIMING IS BACKWARDS.** For power to be the cause it must bind BEFORE the effect. **Fabs peaked
+  Jun-24; electric and power construction are BOTH at all-time highs in Jun-26.** Nothing turned down
+  in front of the fab turn. **(2) THE CONSTRAINT DISCRIMINATES THE WRONG WAY.** If "can't plug them in"
+  were binding, it would hit the THIRSTIEST load hardest. **A 1GW data-centre campus is ~1,000MW; a
+  leading-edge fab is ~100-200MW.** **Data centres are the far more power-hungry use of a construction
+  dollar, and data centres are AT A RECORD while fabs are −58%.** A constraint that spares the bigger
+  consumer and kills the smaller one is not a power constraint. **(3) THE CAUSE IS ALREADY IDENTIFIED
+  AND IT IS 13.3×** — the Jun-24 fab peak was 13.3× the prior all-time peak ([[ai-capex-cycle]] 8/11).
+  **That is the CHIPS Act pulse completing, not a grid refusal.** *(Analysis.)*
+- **★★★★★ BUT MUSK AND BEZOS ARE BEING VINDICATED — ON THE DATA-CENTRE CLOCK, NOT THE FAB CLOCK, AND
+  THE RATIO IS THE PROOF. Data-centre construction has gone from 5% of electric construction to 51%.**
+  **Electric grew ~4-5%/yr while its single largest new load grew ~45%/yr.** ⇒ **The warning was never
+  "fabs will stall"; it was "the grid will not be there for the compute." That claim is not refuted
+  here — it is QUANTIFIED, and it is worsening at an accelerating rate.** *(Analysis.)*
+- **★★★★ AND THE SHARPEST LINE IN THE TABLE: ELECTRIC CONSTRUCTION DECELERATED FROM ~15% YoY (2023-24)
+  TO ~4-5% (2025-26) EXACTLY AS DATA CENTRES RE-ACCELERATED TO +45.8%.** **The power build slowed down
+  precisely when it needed to speed up.** That is the opposite of a system responding to a price signal
+  — and this note already holds the mechanism: **utilities have "balance-sheet capacity for a 500MW
+  customer's interconnection capex, not more" (L234), and the unresolved question is who pays the
+  incremental cost (L290).** ⇒ **The constraint is not physics, it is UTILITY BALANCE SHEETS AND
+  TARIFF DESIGN.** *(Analysis.)*
+- **⚠️ THE CAVEAT THAT CUTS AGAINST MY OWN READ, stated because it is material: BEHIND-THE-METER
+  GENERATION MAY NOT LAND IN THE "ELECTRIC" LINE.** C30's Electric category is utility-side
+  construction. **The vault holds SemiAnalysis's 40GW+ behind-the-meter by 2028** — self-built gas
+  turbines and on-site generation could be captured under the data-centre line itself, under Power, or
+  under manufacturing. **If a large share of new compute power is self-generated, the 0.51 ratio
+  OVERSTATES the shortfall.** 🚩 **RESOLVER: the split between utility interconnection and
+  behind-the-meter capacity additions — the ratio's honesty depends on it.** *(Analysis.)*
+- *(what this does to the duration thesis)* **It removes one bear argument and sharpens another.** The
+  "fabs already stalled" reading is dead. **But a power build growing 4-5% under a load growing 45%
+  is a constraint that binds LATER and HARDER — and it binds on the DATA-CENTRE side, which is the
+  side still accelerating.** ⇒ **Not a 2026 problem. A 2027-2029 problem, arriving in the same window
+  as the fab-supply thinning.** *(Analysis.)* [[buildout-bottleneck-map]] · [[market-fragility]]
+**Links:** [[ai-capex-cycle]] · [[buildout-bottleneck-map]] · [[memory-regime-question]] · [[nuclear]]
