@@ -1748,9 +1748,9 @@ gold not equities).
 - **"Trump hardens stance on Iran, clouding hopes for Hormuz deal" (Bloomberg)** + US and Iran "trade
   REPARATION demands" — the compensation clause the vault filed as Term-class is now the named
   sticking point. Qatar/Pakistan still voicing optimism = the two-track texture continues.
+    ⟲ SUPERSEDED 2026-08-11 → war-board.md:L1772 — NOT the first US-weapons-on-merchant event — it is the 12th since 13 Apr; mechanism is routine blockade disabling fire (Hellfire), and it occurred in the Gulf of Oman ~71nm off Pakistan, not near Hormuz
 - **⬜ ESCALATION CLASS, needs T1 primary: "US forces fire on Panama-flagged vessel near Hormuz" (WSJ
   per Fox pickup; Washington Examiner phrasing: "trying to cross through the blockade").** Direction
-    ⟲ SUPERSEDED 2026-08-11 → war-board.md:L1771 — NOT the first US-weapons-on-merchant event — it is the 12th since 13 Apr; mechanism is routine blockade disabling fire (Hellfire), and it occurred in the Gulf of Oman ~71nm off Pakistan, not near Hormuz
   ambiguous as written (warning shots enforcing a cordon? preventing a runner?) — DO NOT infer
   mechanism; fetch the WSJ piece. First reported US-weapons-on-merchant event of the standoff.
 - **The 8/10 DB-note sharpening ("technical agreement ≠ reopening") is aging exactly right**: talks
