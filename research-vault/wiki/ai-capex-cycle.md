@@ -2413,3 +2413,71 @@ direct from census.gov (**no API key**). Run end-to-end 2026-08-11.
   **"Missing Key"**; DBnomics 404s. **🚩 FIND A KEYLESS M3 (manufacturers' new orders, NAICS 334)
   source** — with it, "shell" separates cleanly from "both rising."
 **Links:** [[cepi]] · [[ai-financing-fragility]] · [[market-fragility]] · [[buildout-bottleneck-map]]
+
+### 2026-08-11 ~11:40am PDT — ★★★★ JAKE'S INVERSION QUESTION, TESTED: IT DOES INVERT AND THE FAB CYCLE IS ~4.8 YEARS — but that period is NOT chip lifespan, and the 2024 peak is a POLICY PULSE, not a cycle peak
+Jake, 8/11: *"If we follow this backwards, does it invert at some point and is that indicative of the
+chips' physical and economic lifespan?"* **Testable with the C30 file already pulled. Tested.**
+⚠️ **Better series found: column 66 is "Computer/ electronic/ electrical" manufacturing construction —
+the FAB line, back to 1993.** The 8/11 11:05am entry used c60 (ALL manufacturing, −5.8%/6mo), which
+buries fabs inside autos/pharma/chemicals. **c66 is the right instrument and the picture is far more
+violent.**
+
+#### DATA (observed — Census C30, $B SAAR, private)
+- **FAB CONSTRUCTION PEAKED AT $126.4B IN JUN-24. It is now $52.9B — **−58% from peak.** (Smoothed
+  peak $123.9B.) **Data centres peaked in the SAME series' latest month, Jun-26, at $68.3B.**
+- **★ THE FAB SERIES HAS A REAL CYCLE OVER 33 YEARS. Peaks: Sep-96 · May-98 · Jan-01 · Jun-06 ·
+  Jan-12 · Apr-20 · Jun-24.** Peak-to-peak intervals: **1.7, 2.7, 5.4, 5.6, 8.2, 4.2 years — mean 4.6,
+  median 4.8.** Troughs: Nov-99 · May-03 · Feb-08 · Jan-17 · Feb-21.
+- **★★★ BUT THE 2024 PEAK IS A CATEGORY BREAK, NOT A CYCLE PEAK: $123.9B against a prior all-time peak
+  of $9.5B (Apr-20) = 13.3×.** Every peak in the preceding 30 years sat between **$4.3B and $11.1B.**
+- **⚠️ AND THE "COLLAPSE" NEEDS THE SAME DISCIPLINE APPLIED BACK: −58% still leaves fab construction at
+  $52.9B = 5.5× the highest level ever recorded before 2021.** ⛔ **This CORRECTS my own framing three
+  entries up** — I called it "rolling over" and the number is a normalisation off a 13× spike, **not a
+  bust.** Both statements are true and only the pair is honest.
+- **CROSS-CORRELATION (YoY growth, 138 months 2015-01→2026-06):** strongest **positive r=+0.41 at
+  +21 months (fabs lead data centres)**; strongest **negative r=−0.62 at −15 months (data-centre growth
+  inversely leads fab growth).** ⚠️ **EFFECTIVE SAMPLE ≈ 12 INDEPENDENT OBSERVATIONS** (12-month
+  overlapping YoY on monthly data). **Neither r is significant. Indicative only — do not quote as a
+  finding.**
+- **SIGN INVERSIONS of (data-centre YoY − fab YoY), 2015→now: 8 crossings, median gap 6 months, several
+  ONE MONTH APART (Nov-19→Dec-19, Nov-20→Dec-20).** ⛔ **REJECTED AS ARTIFACT** — those are a noisy
+  spread crossing zero, not a cycle. The mechanical "implied 1.0-year cycle" the script produced is
+  meaningless and is recorded here only so it is not re-derived. **The one clean regime flip in the
+  usable sample is JAN-24: fabs led from Jun-21, data centres have led since.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ THE ANSWER TO THE QUESTION AS ASKED: IT INVERTS, THERE IS A ~4.8-YEAR RHYTHM, AND IT IS NOT
+  CHIP LIFESPAN. Three reasons, in order of force.** **(1) The fab cycle PREDATES data centres
+  entirely** — it is visible 1996-2020, before hyperscale existed. It is **the classic silicon capital
+  cycle** (node transitions, fab depreciation, demand cycles), not the replacement rate of chips inside
+  buildings. **(2) The 21-month lead is better explained by BUILD DURATION than by asset life** — fabs
+  take ~2-4 years from groundbreaking to production, data centres ~12-24 months; the lag is roughly the
+  DIFFERENCE, which is a construction fact, not an economic one. **(3) The current observation is
+  dominated by a POLICY PULSE at 13.3× trend.** Reading an asset life out of the CHIPS Act's
+  disbursement schedule is reading the subsidy, not the silicon. *(Analysis.)*
+- **⚠️ THE COINCIDENCE TO NAME AND NOT OVER-READ: the fab cycle (~4.8yr) and the vault's GPU economic
+  life (3-6yr; Krishna's stated 5-year scrap) are similar numbers.** **Similar magnitudes are not
+  evidence of a common mechanism** — two things can both be ~5 years for unrelated reasons. **Filed as a
+  coincidence worth watching, explicitly NOT as a finding.** *(Analysis.)*
+- **★★★★ THE VERSION OF JAKE'S INTUITION THAT SURVIVES, AND IT IS BETTER THAN THE LIFESPAN READING:
+  THE DIVERGENCE DATES THE MIGRATION OF THE BOTTLENECK.** 2021-24 the binding constraint was chip
+  SUPPLY → capital went to fabs. 2024-26 the constraint is chip HOUSING — power, shells, cooling → capital
+  went to data centres. **Capital flows to whatever is binding, so the inversion timestamps WHERE THE
+  SCARCITY MOVED, not how long the asset lasts.** That is a real, reusable instrument and it lines up
+  with this vault's standing power-bottleneck thread. *(Analysis.)* [[buildout-bottleneck-map]]
+- **★★★★★ THE FORWARD IMPLICATION IS THE VALUABLE PART, AND IT IS INDEPENDENT CORROBORATION OF A
+  CONFLICTED CLAIM. Fabs take ~3 years to reach production. New-capacity decisions made 2024-2026
+  produce output in 2027-2029 — and those decisions are down 58%.** The 2022-24 wave is still coming
+  online through 2026-27, **so near-term supply is fine and the THINNING IS IN THE OUT-YEARS.**
+  ⇒ **This is a mechanical reason, from construction data, why Micron's *"market could stay tight beyond
+  2027"* (8/11) might be right — and C30 has no book to talk.** **Micron is maximally conflicted; the
+  Census construction file is not.** ⇒ **RAISES the weight on [[memory-regime-question]], which matters
+  because Basket 1 carries MU at an 8% target and the Sep-end SK hynix contract print is the registered
+  resolver.** *(Analysis. This is new to the vault.)*
+- ⚠️ **INSTRUMENT LIMIT: c66 is "computer/electronic/ELECTRICAL," i.e. NAICS 334 + 335 — not pure
+  semiconductor fabs.** The 2021-24 surge was overwhelmingly fabs (TSMC Arizona, Intel Ohio, Samsung
+  Taylor, Micron NY), so the recent window is fab-dominated; **the 1990s-2010s history is not, and the
+  4.8-year cycle is measured mostly on the contaminated part.** *(Analysis.)*
+- 🚩 **REGISTERED: does the fab/data-centre divergence lead or lag the memory cycle?** Now answerable —
+  fab construction is monthly and free; memory contract prices arrive Sep-end.
+**Links:** [[memory-regime-question]] · [[cepi]] · [[buildout-bottleneck-map]] · [[market-fragility]]
