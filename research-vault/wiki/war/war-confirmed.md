@@ -634,3 +634,23 @@ chronological log — preserved, not deleted. Migrate on request; this ledger se
   chain from this headline to the vault's actual position. **Watch Red Sea war-risk premia and clean-product
   freight (LR2/MR rates), not WTI.** ⚠️ The vault has no live source for either — registered as the next
   data need. WTI is separately +4.08% off the IRGC attack, which is a different cause.
+
+### 2026-06-11 (BACKFILL, filed 2026-08-11 ~7:50am PDT) — ★★★ CENTCOM PRIMARY: THE BLOCKADE TALLY. "U.S. Forces Disable 3rd Oil Tanker Violating Blockade in Gulf of Oman" — 9 DISABLED, 135 REDIRECTED since 13 April
+- DATA (CENTCOM press release, 11 Jun 2026 — surfaced by T1 fetch 8/11, the vault had the blockade but never
+  the OFFICIAL COUNT): **M/T *Jalveer*** — US forces **"fired two Hellfire missiles into the ship's engine
+  room."** **Running tally stated in the release: 9 vessels DISABLED, 135 REDIRECTED since the blockade began
+  13 April 2026.** ⇒ **This is the denominator the vault was missing.** Prior entry (7/26, L112) had Windward's
+  "12 redirected / 2 disabled / 2 boarded" as of 7/25 — **that was a WEEKLY slice, not the campaign total.**
+- DATA (Reuters, 8/11, and the named-vessel record assembled with it): vessels attacked under the blockade —
+  *Hasna* (5/6) · *Sevda* + *Sea Star III* (5/8) · *Lian Star* (5/29) · *Lexie* (6/2) · *Marivex* (6/8) ·
+  ***Settebello* (6/9 — THREE INDIAN CREW KILLED**, the only fatality found in the enforcement series) ·
+  *M/T Jalveer* (6/11) · *M/T Lavine* (7/24-25, engine room, **CENTCOM's Capt. Tim Hawkins on record via AP**) ·
+  ***Vela Nova* (8/11)**. **Reuters count: the 12th vessel attacked since April, the 3rd since the blockade was
+  REIMPOSED 14 July.**
+- ⚠️ SOURCE GRADE: the CENTCOM release and the Hawkins quote are **OFFICIAL/PRIMARY**. The *Vela Nova* mechanism
+  is **WSJ citing an unnamed US official, reached via Reuters** — one origin, redistributed. **CENTCOM has NOT
+  commented on *Vela Nova*.** The vessel-by-vessel list beyond the CENTCOM-named ships rests on aggregation.
+- ⛔ THE CORRECTION THIS FORCED, in full: [[war-board]] — the 8/11 "first US-weapons-on-merchant event" claim
+  was FALSE by eleven prior instances, and the event was in the **Gulf of Oman ~71nm off Pakistan**, not near
+  Hormuz. **A blockade that has redirected 135 vessels is a second, American closure operating alongside
+  Iran's — traffic collapse cannot be attributed to Iranian deterrence alone.** [[demand-destruction]]
