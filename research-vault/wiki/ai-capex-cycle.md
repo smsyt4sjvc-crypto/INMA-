@@ -2350,6 +2350,7 @@ leak — **and it started a lockup clock.**
 
 ### 2026-08-11 ~11:05am PDT — ★★★★★ F19 RESOLVES ON THE SHELL LEG, AND IT GOES AGAINST MY FRAMING: DATA-CENTRE CONSTRUCTION IS AT AN ALL-TIME PEAK AND RE-ACCELERATING. The 2026-is-the-fill-year hypothesis is DEAD.
 ⟲ CLOSES 🚩 F19 (L2076, registered 2026-08-05, unrun for six days). Commissioned by Jake 8/11 to test
+  ⟲ SUPERSEDED 2026-08-11 → ai-capex-cycle.md:L2415 — the fab construction decline is a shell-to-tool-in phase change, not an investment decline: equipment revenue rose 23-89% over the same window — the 2027-29 supply-thinning claim is retracted
   ⟲ SUPERSEDES ai-capex-cycle.md:L2076 — F19 RESOLVED on the shell leg: the data-centre line EXISTS in Census C30 and construction is at a record, re-accelerating — the 2026-is-the-fill hypothesis is dead
 his own word *"adolescence."* **The flag's own caveat — *"⚠️ verify the series exists and is broken out"*
 — RESOLVES YES: Census C30 carries "Data center" as its own column, monthly, SA, back to 2014.**
@@ -2413,6 +2414,7 @@ direct from census.gov (**no API key**). Run end-to-end 2026-08-11.
   **"Missing Key"**; DBnomics 404s. **🚩 FIND A KEYLESS M3 (manufacturers' new orders, NAICS 334)
   source** — with it, "shell" separates cleanly from "both rising."
 **Links:** [[cepi]] · [[ai-financing-fragility]] · [[market-fragility]] · [[buildout-bottleneck-map]]
+  ⟲ SUPERSEDES ai-capex-cycle.md:L2352 — the fab construction decline is a shell-to-tool-in phase change, not an investment decline: equipment revenue rose 23-89% over the same window — the 2027-29 supply-thinning claim is retracted
 
 ### 2026-08-11 ~11:40am PDT — ★★★★ JAKE'S INVERSION QUESTION, TESTED: IT DOES INVERT AND THE FAB CYCLE IS ~4.8 YEARS — but that period is NOT chip lifespan, and the 2024 peak is a POLICY PULSE, not a cycle peak
 Jake, 8/11: *"If we follow this backwards, does it invert at some point and is that indicative of the
@@ -2481,3 +2483,59 @@ violent.**
 - 🚩 **REGISTERED: does the fab/data-centre divergence lead or lag the memory cycle?** Now answerable —
   fab construction is monthly and free; memory contract prices arrive Sep-end.
 **Links:** [[memory-regime-question]] · [[cepi]] · [[buildout-bottleneck-map]] · [[market-fragility]]
+
+### 2026-08-11 ~12:15pm PDT — ⛔⛔ THE FAB "COLLAPSE" IS A SHELL→TOOL-IN PHASE CHANGE, NOT AN INVESTMENT DECLINE. Jake caught the baseline; the deeper error was mine — I applied F19's own logic to data centres and never applied it to fabs.
+**Jake, 8/11:** *"Pre-2021 is doing a lot of work. That's pre chips act. Pre AI. It would be like looking
+at the fiber rollout for the internet boom and contrasting it against prior cycles."* **Conceded — and
+testing it surfaced a larger error.**
+
+#### ⛔ TWO CORRECTIONS, THE SECOND BIGGER THAN THE FIRST
+1. **THE BASELINE OBJECTION IS RIGHT AND MY OWN CAVEAT DID NOT NEUTRALISE IT.** I wrote *"a 13.3× policy
+   pulse has no historical amplitude to mean-revert toward"* and **then quoted −82% / −97% reversion
+   figures anyway.** You cannot call something a category break and price its downside off the prior
+   category. **The numbers did the rhetorical work the caveat disclaimed.** Also structural, not just
+   statistical: **C30 measures US construction, and pre-2021 nearly all fab capex went to
+   Taiwan/Korea/China.** The CHIPS Act changed the **GEOGRAPHY** of fab investment; a relocation does
+   not mean-revert.
+2. **★★★★★ THE REAL ERROR: A FAB IS ~20-30% SHELL AND ~70-80% EQUIPMENT. When a wave of fabs finishes
+   its BUILDINGS and moves to TOOL-IN, construction spending falls toward zero WHILE INVESTMENT PEAKS.**
+   **F19 is literally the shell-vs-fit-out test. I ran it on data centres and never ran it on fabs.**
+
+#### DATA (observed — SEC EDGAR XBRL, quarterly revenue $B, semiconductor equipment)
+| | 8 qtrs ago | latest | change | latest YoY |
+|---|---|---|---|---|
+| **AMAT** | 6.42 (Jul-23) | **7.91** (Apr-26) | **+23.1%** | +11.4% |
+| **LRCX** | 3.48 (Sep-23) | **5.84** (Mar-26) | **+67.8%** | +23.8% |
+| **KLAC** | 2.40 (Sep-23) | **3.42** (Mar-26) | **+42.5%** | +11.5% |
+| **TER** | 0.70 (Oct-23) | **1.33** (Jun-26) | **+88.8%** | **+103.9%** |
+- **US fab CONSTRUCTION peaked Jun-24 and fell 58%. Across that exact window, semiconductor EQUIPMENT
+  revenue rose 23-89% and every one of the four is at or near a record.** **Teradyne DOUBLED YoY.**
+- ⚠️ **NOT THE SAME DENOMINATOR, stated plainly: equipment revenue is GLOBAL and includes replacement,
+  upgrades and China pull-forward; C30 is US BUILDINGS only.** The two cannot be differenced. **What
+  they jointly refute is "fab investment is collapsing" — the direction is unambiguous.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ THE COMPLEX'S TWO LEGS ARE IN OPPOSITE PHASES OF THE SAME CYCLE, and that is the clean
+  finding: FABS ARE IN FIT-OUT** (shells finished ~2024, tools going in now — construction down,
+  equipment revenue at records) **while DATA CENTRES ARE IN SHELL** (construction at an all-time peak,
+  their tool-in still ahead in 2027-28). **The "divergence" filed at 11:05am was never fabs dying and
+  data centres living — it is one wave two years ahead of the other, measured at different points of
+  the same sequence.** *(Analysis. This supersedes the rotation framing.)*
+- **⛔⛔ AND IT SUBSTANTIALLY WEAKENS THE ARGUMENT I BUILT AN HOUR AGO. At 11:40am I claimed fab
+  construction −58% ⇒ thinner chip supply in 2027-29 ⇒ *independent, unconflicted corroboration of
+  Micron's "tight beyond 2027."*** **THE TOOLS MAKE THE CHIPS, NOT THE BUILDINGS.** Equipment at records
+  says capacity is **ARRIVING**, which argues the opposite. ⇒ **RETRACTED as stated.** ⚠️ **A weaker
+  residual survives:** equipment revenue is global and China-inclusive, so it does not establish that
+  **leading-edge memory** capacity specifically is arriving. **But it can no longer be cited as support
+  for the tightness thesis.** **This matters to the book — Basket 1 carries MU at an 8% target, and I
+  told Jake this raised the weight on that leg. It does not.** *(Analysis.)*
+- **★★★ THE METHOD LESSON, which is the third instance today of the same shape: I HELD THE RIGHT TOOL
+  AND DID NOT POINT IT AT THE SECOND OBJECT.** Step Zero on the Hormuz vessel (the vault had the
+  answer), the FRED probe (canonical IDs failing meant transport, not naming), and now F19 (ran the
+  shell/fit-out test on one leg only). **All three are failures to apply an instrument I had already
+  built.** *(Analysis.)*
+- **📌 DATED RESOLVER, TWO DAYS OUT: AMAT REPORTS THURSDAY 8/13.** **If fabs are truly in tool-in, AMAT
+  guides UP on WFE and says so about leading-edge/memory mix. A miss or a soft guide reopens the
+  investment-decline reading.** 🚩 **Listen for the WFE (wafer fab equipment) 2027 outlook and the
+  memory-vs-logic split.** *(Analysis.)*
+**Links:** [[memory-regime-question]] · [[cepi]] · [[power-not-petroleum]] · [[portfolio-state]]
