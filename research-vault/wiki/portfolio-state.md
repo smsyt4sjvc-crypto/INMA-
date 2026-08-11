@@ -905,3 +905,61 @@ weights sum to 100.0% (99.99 / 100.01).** Nothing is cut off below the fold.
   Weights, rebalancing and sizing are Jake's.**
 
 **Links:** [[ai-financing-fragility]] · [[ai-capex-cycle]] · [[memory-regime-question]] · [[metered-compute]]
+
+### 2026-08-11 ~9:35am PDT — ★★★★ THE BASKETS RUN: SAME RETURN, MORE RISK — the extra 15 non-semi names in Basket 2 did NOT diversify, they LEVERED
+Instrument: `tools/basket_index_cell.py`, target weights, monthly rebalance, 2023-01-03 → 2026-08-11
+(904 rows, yfinance, 41 tickers).
+
+#### DATA (observed — measured, not asserted)
+| | total | CAGR | vol | ret/vol | maxDD | beta(SPY) |
+|---|---|---|---|---|---|---|
+| **BASKET 1 — semis/hardware** | **+647.8%** | 74.8% | 40.1% | **1.87** | −37.4% | 2.04 |
+| **BASKET 2 — AI buildout** | **+664.7%** | 75.9% | **44.7%** | **1.70** | −38.1% | 2.11 |
+| SOXX | +374.9% | 54.1% | 38.0% | 1.42 | −41.4% | 1.96 |
+| SPY | +111.9% | 23.2% | 15.1% | 1.53 | −18.8% | 1.00 |
+| QQQ | +177.2% | 32.7% | 20.3% | 1.61 | −22.8% | 1.27 |
+- **CONCENTRATION (static-weight contribution decomposition):** Basket 1 — **MU +129.9 · NVDA +111.7 ·
+  DELL +63.6 = 48% of the basket's entire return from 3 of 24 names.** Basket 2 — **IREN +144.8 ·
+  NVDA +100.3 · MU +73.1 · LITE +57.3 = 58% from 4 of 23.** **IREN alone (+3,218% return) supplied ~23%
+  of Basket 2's whole return from a 4.5% slot.**
+- **DEAD WEIGHT IN BASKET 2:** ORCL (+80.7%), MP (+126.6%), RNW (+34.8%), QRVO (+8.5%), GFS (−1.6%),
+  SWKS (−15.0%), RIVN (−6.7%) = **~28% of policy weight producing ~9pp of ~642pp.** Four names are
+  net-negative or flat across the largest semiconductor bull run on record.
+- **COVERAGE, per the cell's own panel:** Basket 2 opens at ~80% coverage. Listing dates — **ARM
+  2023-09-14 · ALAB 2024-03-20 · NBIS 2024-10-21 · CRWV 2025-03-28.** **CRWV has 17 months of history and
+  contributed +5.5pp; its behaviour before 2025-03 is unknowable, not zero.**
+- **DRIFT vs POLICY (from the screenshots, no market data):** Basket 1's two joint-largest target weights
+  — **MU 8.00% and AMD 8.00% — are its two largest UNDERWEIGHTS (−0.35 and −0.68).** Basket 2's largest
+  underweight is also **AMD (−0.34)**; its largest overweights are **MP +0.37, CRWV +0.36, COHR +0.32.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ THE HEADLINE IS A NON-RESULT, AND THAT IS THE RESULT. +648% vs +665% over 3.6 years is a
+  17pp spread on ~650pp — indistinguishable.** But Basket 2 paid **4.6pp more annualised vol and a deeper
+  max drawdown** for it, so **on risk-adjusted terms Basket 1 WON (1.87 vs 1.70).** ⇒ **Adding the
+  neoclouds, optics, power and materials did not add a FACTOR — it added LEVERAGE TO THE EXISTING ONE.**
+  CRWV, NBIS, IREN, COHR, LITE, RNW, MP are all the same AI-capex impulse expressed at higher beta.
+  **A basket cannot diversify against itself.** *(Analysis.)*
+- **★★★★ THE RELATIVE TRADE HAS ALREADY ROUND-TRIPPED — visible in the ratio panel.** Basket 2's entire
+  outperformance was earned in roughly **four months of H2 2025** (the relative-to-SOXX line peaks
+  ~Oct-Nov 2025) and has been **given back over the nine months since**; Basket 1 ÷ Basket 2 is back to
+  approximately where it started. ⇒ **Through 2026 the compute SELLERS have been beating the BUILDOUT
+  names** — the same direction as the 8/11 intraday split, but at 9-month scale. **The mean reversion in
+  this pair is largely complete, not pending.** *(Analysis.)* [[metered-compute]]
+- **★★★ WHERE THE ALPHA ACTUALLY IS, and it is real: beta is ~equal to SOXX's (2.04/2.11 vs 1.96) while
+  return is 1.7-1.8× SOXX's.** That is **selection, not leverage** — it survives beta adjustment. The
+  source is identifiable: **overweighting MEMORY (MU at 8%, +1,624%) and NVDA, plus two names SOXX does
+  not carry the same way (DELL +1,061%, CRDO +1,765%).** *(Analysis.)*
+- **⛔ THE CALIBRATION CAVEAT THAT DOMINATES EVERY RATIO ABOVE: the window STARTS 2023-01-03, immediately
+  AFTER the 2022 semiconductor bear market.** A 74.8% CAGR at ret/vol 1.87 is measured **entirely inside
+  an up-cycle with no bear market in the sample.** The −37% drawdown is the *only* stress observation.
+  **These numbers are a start-date artifact as much as a portfolio property.** 🚩 **THE SINGLE MOST
+  INFORMATIVE RE-RUN: `START="2021-01-01"`, which puts the 2022 drawdown inside the sample.** *(Analysis.)*
+- *(the mechanical observation, stated because the policy is doing it automatically)* **A monthly
+  rebalance to target is currently BUYING MU and AMD** — the two largest policy weights in Basket 1 are
+  also its two largest underweights, i.e. its biggest bets are its recent losers. **MU is separately
+  −28% from its highs with the maker claiming tightness on record** ([[memory-regime-question]], 8/11),
+  and the **Sep-end SK hynix HBM contract-price print is the registered resolver.** ⇒ **the basket is
+  mechanically adding to the memory drawdown into the test that settles it.** **Descriptive — rule 7.
+  Sizing and rebalance policy are Jake's.** *(Analysis.)*
+
+**Links:** [[ai-financing-fragility]] · [[memory-regime-question]] · [[ai-capex-cycle]] · [[market-fragility]]
