@@ -351,3 +351,44 @@ Discovered building F19. **Not a bad-series-ID problem — a FRED problem.**
   leg. Every route tried is walled. **A free Census API key (instant signup) is the obvious unlock and
   needs Jake's yes — it is a registration, not a charge.**
 **Links:** [[ai-capex-cycle]] · [[fragility-engine]]
+
+### 2026-08-11 ~4:20pm PDT — ★★★ JAKE'S API RULE, IMPLEMENTED AND MEASURED: "batch smaller requests" — the EDGAR win is 137x, and it fixes the Q1-only bug as a side effect
+**Jake, 8/11:** *"I think with data fetch through APIs we should batch smaller requests."* **Correct,
+and on EDGAR it is measurable.** Built `tools/edgar_batch_cell.py`; run end-to-end 2026-08-11.
+
+#### DATA (observed — measured this session)
+| endpoint | scope | size | note |
+|---|---|---|---|
+| `companyfacts` | one company, **EVERY tag** | **2.70 MB** | what every prior vault pull used |
+| `companyconcept` | one company, **ONE tag** | **0.020 MB** | **137× smaller** |
+| `frames` | **ONE tag, EVERY filer** | 0.03-0.69 MB | **4,548 companies in ONE call** |
+- **THE OLD PATTERN SCALED WITH THE NUMBER OF COMPANIES** (8 names = 8 blobs ≈ 22 MB to read two
+  lines each). **`frames` scales with the number of PERIODS instead** — adding names is free.
+- **⚠️ THE FILING-LAG GRADIENT, which the old script could not see and which silently lies:**
+  **CY2026Q1 = 4,548 filers · CY2025Q3 = 407 · CY2025Q4 = 340 · CY2026Q2 = 168.**
+- **⛔ AND THE GRADIENT EXPOSES THAT `frames` INHERITS THE SAME YTD DEFECT — do not oversell it.**
+  Q1 is fat and every other quarter is thin **for the same reason the 80-100 day filter only caught
+  Q1: most filers tag cash flow YEAR-TO-DATE, so only Q1 is a discrete quarter.** ⇒ **`frames` fixes
+  the BATCHING, not the DURATION problem. YTD-differencing (Q2 = H1 − Q1) is still required**, and is
+  built in as an explicit fallback.
+- Multi-tag merge added after the first run returned "no capex" for AMZN — **AMZN tags capex as
+  `PaymentsToAcquireProductiveAssets`.** A single-tag pull returns a silent blank, not an error.
+
+#### THESIS (interpretation — NOT fact)
+- **★★★ THE GENERALISABLE RULE IS NOT "SMALLER" — IT IS "BATCH ACROSS ENTITIES, NARROW ACROSS FIELDS."**
+  Both moves shrink the payload, but they solve different problems: **narrow** stops downloading a
+  company's whole history to read two lines; **batch** stops paying per-company round-trips. **Most
+  agency APIs offer both and the vault was using neither.** *(Analysis.)*
+- **★★★★ THE SECOND-ORDER WIN IS DIAGNOSTIC, AND TODAY PROVED IT MATTERS MORE THAN THE BYTES. Short
+  timeouts + fail-fast turn an unreachable host into a 12-second answer instead of a 40-minute hang**
+  — the exact failure Jake hit on the F19 cell. **And separating "HTTP status" from "timeout" is the
+  distinction that would have diagnosed FRED in one call: a 404 means the ID is wrong, a TIMEOUT means
+  the host is gone, and my probe rendered both as `✗`.** *(Analysis.)*
+- **★★★ REPORT COVERAGE, NOT JUST VALUES. A period with 168 filers and one with 4,548 are not the same
+  evidence.** A table that prints only numbers cannot tell you whether a blank means *no data* or *not
+  filed yet* — **and today that difference was the whole META error.** ⇒ **Any cross-sectional pull
+  from now on prints its own denominator.** *(Analysis.)*
+- 📌 **MIGRATION LIST — cells still on the `companyfacts` blob pattern:** `cepi_tracker_cell.py` ·
+  `balance_sheet_ledger_cell.py`. ⬜ **Not yet migrated. Their numbers stand** (they read INSTANT
+  balance-sheet concepts, which have no YTD problem) **but they should move for speed.**
+**Links:** [[cepi]] · [[balance-sheet-board]] · [[ai-capex-cycle]]
