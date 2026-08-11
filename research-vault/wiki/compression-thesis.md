@@ -1954,3 +1954,28 @@ turn lean toward "containment-arc beat five") did not survive it.
 3. Calibration note for the scoreboard: viral-doom screenshot deflated on verification; Sonnet Tier-1.
 
 **Links:** [[ai-financing-fragility]] · [[market-fragility]] · [[metered-compute]] · [[_calibration]]
+
+### Addendum 2026-08-10 ~6:35pm PDT — STATUS: UNRESOLVED UNTIL BACKFILLED (Jake: "who Altman hires matters") — and TWO of the three seats already voted
+Jake's register: the departure is noise; the REPLACEMENT is the signal. Correct — and it sharpens, because
+the three seats are at different stages of that test:
+- **Safety systems (Heidecke):** NOT backfilled as an independent seat — **absorbed into research under Mia
+  Glaese.** That IS the answer: consolidation, not replacement = safety-independence downgrade already fired.
+- **Mission alignment (Achiam):** team **disbanded in February** — the seat structurally no longer exists to
+  fill. Also already answered: eliminated, not vacated.
+- **Ethics (Bakalar):** the ONE genuinely OPEN seat, un-backfilled as of today. **This is the live test.**
+⇒ **So the backfill signal is TWO-THIRDS already printed, and both prints say "absorb/eliminate, not
+replace."** Only the ethics chair is undecided — which makes WHO fills it (or whether it's quietly folded
+into policy/comms) the cleanest remaining read on whether these were personnel events or a direction.
+
+**Pre-stated signatures so the hire grades the thesis, not hindsight:**
+- **External safety/ethics heavyweight with real gating authority** → exits were personnel; independence intact.
+- **Internal loyalist / commercial-aligned promote, or absorption into policy/comms/legal** → direction
+  confirmed; the [[L1228]] contamination-vector-#1 read (cadence hollows the non-capability functions)
+  strengthens.
+- **No backfill / silent fold** → strongest downgrade; the function existed for optics.
+**The load-bearing cross-test:** does whoever owns safety post-reorg have the STANDING TO GATE ASTRA's
+release? That is where this thread and the containment arc actually join — an owner who can't say "no to
+GA" is the org's answer regardless of title.
+
+📌 STATUS: **UNRESOLVED — do not close. Registered watch: (1) Bakalar/ethics backfill identity or fold;
+(2) whether the merged safety-under-research structure can gate Astra deployment.**
