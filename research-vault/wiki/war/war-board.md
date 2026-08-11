@@ -1835,3 +1835,76 @@ enforcement as generic strikes")*. Same error, same thread, second time. Fetch: 
   novelty claim uncorrected.** Hedging ONE variable while passing three others through unexamined is not
   discipline. **The ⬜ marker made the entry look careful while three separate errors rode inside it.**
   *(Analysis.)*
+
+---
+
+## 📌 LEDGER 2026-08-11 ~1:15pm PDT — THE DELEGATED IRAN RUN CLOSES TWO OF MY OWN OPEN ITEMS — one of them AGAINST my reading — and the pressure goes TWO-CHOKEPOINT
+Source: Jake's delegated 36-hour Iran sweep (1:09am PT 8/10 → 1:09pm PT 8/11), Reuters/WSJ/UKMTO/JMIC/
+CENTCOM/Bloomberg/FT prioritised, Fox and CNN excluded by the requester. **Tier-2 delegation — Fable
+read the digest, not the haystack (rule 19).**
+
+### ⛔ SELF-REGISTERED TEST RESOLVES AGAINST ME
+- **THIS MORNING (L1771 THESIS) I WROTE: *"CENTCOM'S SILENCE IS THE SECOND DATUM… announced enforcement
+  is deterrence; unannounced enforcement is not"* and registered the falsifier myself: *"🚩 WATCH:
+  whether CENTCOM posts a Vela Nova release in the next 72h. A named release RETIRES this reading."*
+  **CENTCOM HAS NOW PUBLICLY TAKEN RESPONSIBILITY**, stating the ship was attempting to violate the
+  blockade of Iranian ports. ⇒ **THE SILENCE READING IS RETIRED, inside 6 hours, by the test I wrote.**
+  **There was no silence — only a lag I mistook for a signal.** *(Filed as a calibration specimen: I
+  built a thesis on the ABSENCE of a statement roughly three hours after the event.)*
+- **⬜ CASUALTY CONFLICT CLOSED — NO INJURIES.** UKMTO/JMIC independently record the **master's own
+  report**: missile from a helicopter hit the **stern/steering compartment**, **vessel lost command**,
+  fire **extinguished**, **all crew accounted for, no injuries.** ⇒ The earlier "resulting in
+  casualties" line (Sunday Guardian citing UKMTO) does not survive. **Mechanism and geography from my
+  8/11 correction both CONFIRMED** (helicopter-launched missile, steering gear, Gulf of Oman).
+
+### DATA (observed — new since this morning)
+- **★★ SECOND CHOKEPOINT OPENS: a cargo vessel attacked in the BAB EL-MANDEB off Yemen, Tuesday.**
+  **Casualty count MOVED WITH INFORMATION: UKMTO initially 2 fatalities → Reuters citing Yemen's
+  Transport Ministry, 4 KILLED.** Suspected Houthi; **not claimed at the time of the Reuters report.**
+  ⚠️ **RECONCILIATION NEEDED: my 7:35am entry logged "a Houthi Red Sea attack kills 3 crew." Same event
+  at a different point in the revision chain, or a second vessel — NOT ESTABLISHED.** ⬜
+- **JMIC ADVISORY 8/11 — THREAT RATED *SEVERE*.** Commercial Hormuz traffic **"heavily suppressed,"
+  single-digit tankers each direction** (✓ corroborates the six-vessel datum with an official maritime
+  source). **IRGC activity continues: ship hailing, UAV overflights, targeted surveillance. GNSS/GPS
+  interference persistent.**
+- **★★★ THE PRINCIPAL CONFIRMS THE VAULT'S 8/10 SHARPENING IN HIS OWN WORDS. Mohsen Rezaei: Hormuz
+  STAYS CLOSED unless Washington accepts Iranian conditions — ending the war and releasing frozen
+  assets. Tehran explicitly DISTINGUISHES an Iran-Oman navigation agreement from REOPENING THE STRAIT.**
+  ⇒ *"Technical agreement ≠ reopening"* was filed 8/10 as analysis; **it is now the Iranian negotiating
+  position stated directly.**
+- **★★ TRUMP ADDED A US DEMAND FOR IRANIAN COMPENSATION** — answering Iran's reparations demand with a
+  counter-demand. Against: Pakistan's defence minister (Bloomberg) "close to some sort of arrangement"
+  and Qatar calling Iran-Oman talks advanced.
+- **PRICE: Brent settled ~$88.91 (+1.4%), WTI ~$83.20 (+1.3%) — and Brent BRIEFLY PRINTED $90.03
+  INTRADAY.** ⛔ **AMENDS my 1:15pm tape read**, which used the 89.17 quote to say "below the $90 marker
+  by 0.83." **THE $90 MARKER WAS TOUCHED TODAY.** Both benchmarks dumped on the Pakistan peace headline
+  then recovered on the Iranian statements.
+- **EUROPEAN GAS BRIEFLY >€62/MWh, near its Iran-war highs** (FT: heat demand + Norwegian maintenance +
+  tight LNG aggravated by Hormuz).
+
+### THESIS (interpretation — NOT fact)
+- **★★★★ THE TRADEABLE OBSERVATION IS THE REFLEX, NOT THE HEADLINE: *peace headline = immediate oil
+  dump; Iranian-condition / blockade / attack headline = immediate oil bid* — and both fired inside one
+  session.** ⇒ **The market is trading DIPLOMATIC ADJECTIVES at high frequency while PHYSICAL THROUGHPUT
+  has not moved.** **Single-digit tankers is the same number as "fully suppressed" was.** ⇒ **Until
+  throughput rises, the oil tape is a headline-reflex machine, not a supply signal — which makes the
+  reflex itself the thing to model.** *(Analysis. Descriptive — rule 7.)*
+- **★★★★ TWO CHOKEPOINTS AT ONCE IS A CATEGORY CHANGE THE SINGLE-STRAIT FRAME MISSES.** Hormuz +
+  Bab el-Mandeb under simultaneous pressure means **the bypass routes and the primary artery are
+  degraded together** — this note's L998 already held *"a bypass whose OUTLET is also blockaded is not a
+  bypass."* **That line is now describing two arteries, not one.** *(Analysis.)*
+- **★★★ THE NEGOTIATION STRUCTURE JUST GOT WORSE, AND THE MECHANISM IS SYMMETRIC COMPENSATION CLAIMS.
+  Iran demands reparations; Trump now demands compensation.** **Both sides have converted the endgame
+  into a payment dispute** — and payment disputes are the class of deadlock that outlasts security
+  arrangements, because neither side can concede cash without it reading as defeat. ⇒ **"Advanced" and
+  "close" (Qatar, Pakistan) describe the NAVIGATION file; the COMPENSATION file just opened.**
+  *(Analysis.)*
+- *(the second-order energy channel, logged)* **European gas near war highs on an LNG tightness FT ties
+  partly to Hormuz** = the war reaching European industrial cost through gas, not oil. 🚩 **Watch the
+  gas leg independently — it transmits to European industrial output faster than crude does.**
+  [[demand-destruction]] *(Analysis.)*
+- 📌 **THE STANDING DISCIPLINE THIS RUN VINDICATES: weight SHIPPING DATA over diplomatic adjectives.**
+  JMIC's "severe / heavily suppressed / single-digit" is the measurement; "close to an arrangement" is
+  an adjective from an interested mediator. **The vault has now been right twice running by preferring
+  the tanker count.**
+**Links:** [[demand-destruction]] · [[oil-value-chain]] · [[market-fragility]] · [[war-confirmed]]
