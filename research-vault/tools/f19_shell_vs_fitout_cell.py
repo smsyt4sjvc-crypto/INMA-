@@ -32,35 +32,60 @@ warnings.filterwarnings("ignore")
 # ═══════════════════════════ CONFIG ═════════════════════════════════════════════════════════
 START   = "2015-01-01"    # long enough to see a prior cycle, not just this one
 SMOOTH  = 3               # months of smoothing on the growth lines (M3/C30 are noisy)
+
+# MANUAL OVERRIDE — if a leg reports NOTHING RESOLVED, look the series up on FRED (the cell
+# prints a tappable search link for you) and paste the ID here. Leave "" to auto-probe.
+MANUAL = {"construction": "", "orders_compute": "", "orders_electrical": ""}
 # ════════════════════════════════════════════════════════════════════════════════════════════
 
 UA = {"User-Agent": "Mozilla/5.0"}
 
 # ── Candidate FRED IDs per leg. Ordered best-guess first; the probe keeps ALL that resolve.
+#   ⚠️ v2: the v1 list was too narrow and a leg came back empty. FRED's C30 naming convention is
+#   TL<category>CONS (total) / PR<category>CON(S) (private) — both spellings exist depending on
+#   vintage, so BOTH are tried. Data centres were only broken out of Office recently and may not
+#   be on FRED at all; F19 itself flagged that ("⚠️ verify the series exists and is broken out"),
+#   so OFFICE is the sanctioned proxy — data centres are the marginal driver of office
+#   construction right now, which is exactly why the divergence is worth measuring.
 CANDIDATES = {
-    "CONSTRUCTION — data centre (the shell leg, most specific first)": [
-        ("TLDCCONS",  "Total construction: data center"),
-        ("PRDCCONS",  "Private construction: data center"),
-        ("TLOFCONS",  "Total construction: office (data centres sit inside this)"),
-        ("PROFCONS",  "Private construction: office"),
-        ("OFFCONS",   "Construction: office"),
-        ("TLCOMCONS", "Total construction: commercial"),
-        ("PNRESCONS", "Private nonresidential construction (fallback aggregate)"),
-        ("TLPRVCONS", "Total private construction (fallback aggregate)"),
-        ("TTLCONS",   "Total construction (last-resort aggregate)"),
+    "CONSTRUCTION — data centre / office (the shell leg, most specific first)": [
+        ("TLDCCONS",   "Total construction: data center"),
+        ("PRDCCON",    "Private construction: data center"),
+        ("PRDCCONS",   "Private construction: data center (alt spelling)"),
+        ("TLOFCONS",   "Total construction: office ← DATA CENTRES SIT INSIDE THIS"),
+        ("PROFCON",    "Private construction: office"),
+        ("PROFCONS",   "Private construction: office (alt spelling)"),
+        ("TLCOMCONS",  "Total construction: commercial"),
+        ("PRCOMCON",   "Private construction: commercial"),
+        ("TLMFGCONS",  "Total construction: manufacturing (the CHIPS-fab leg, cross-check)"),
+        ("PRMFGCON",   "Private construction: manufacturing"),
+        ("PNRESCONS",  "Private nonresidential construction (fallback aggregate)"),
+        ("TLNRESCONS", "Total nonresidential construction (fallback aggregate)"),
+        ("TLPRVCONS",  "Total private construction (fallback aggregate)"),
+        ("PRIVCONS",   "Private construction (alt spelling)"),
+        ("TTLCONS",    "Total construction (last-resort aggregate)"),
     ],
     "ORDERS — computers & electronics (the fit-out leg)": [
         ("A34SNO",   "New orders: computers & electronic products (NAICS 334)"),
-        ("A34SVS",   "Shipments: computers & electronic products"),
+        ("AMDMNO",   "New orders: durable goods"),
         ("NEWORDER", "New orders: nondefense capital goods ex aircraft"),
+        ("A34SVS",   "Shipments: computers & electronic products"),
+        ("ACOGNO",   "New orders: consumer goods (fallback)"),
         ("AMTMNO",   "New orders: total manufacturing"),
-        ("UMTMNO",   "New orders: total manufacturing (unfilled/alt)"),
+        ("UMTMNO",   "New orders: total manufacturing (alt)"),
+        ("A34SUO",   "Unfilled orders: computers & electronic products (backlog proxy)"),
     ],
     "ORDERS — electrical equipment (the power/gear leg)": [
         ("A35SNO", "New orders: electrical equipment, appliances & components (NAICS 335)"),
         ("A35SVS", "Shipments: electrical equipment"),
         ("A31SNO", "New orders: primary metals (adjacent input)"),
+        ("A33SNO", "New orders: fabricated metal products (adjacent input)"),
     ],
+}
+SEARCH = {  # printed as a tappable link when a leg resolves nothing
+    "CONSTRUCTION": "https://fred.stlouisfed.org/searchresults?st=construction+spending+office",
+    "ORDERS — computers": "https://fred.stlouisfed.org/searchresults?st=new+orders+computers+electronic",
+    "ORDERS — electrical": "https://fred.stlouisfed.org/searchresults?st=new+orders+electrical+equipment",
 }
 
 def fred(sid, timeout=45):
@@ -93,27 +118,44 @@ print("=" * 94)
 print("  F19 — SHELL vs FIT-OUT.  Probing FRED for the resolver series (no API key needed)")
 print("=" * 94)
 
+MANKEY = {"CONSTRUCTION": "construction", "ORDERS — computers": "orders_compute",
+          "ORDERS — electrical": "orders_electrical"}
+def mankey(leg):
+    for k, v in MANKEY.items():
+        if leg.startswith(k[:12]):
+            return v
+    return None
+
 found = {}
 for leg, cands in CANDIDATES.items():
     print(f"\n── {leg}")
     hits = []
-    for sid, label in cands:
+    mk = mankey(leg)
+    ordered = ([(MANUAL[mk], "◀ MANUAL OVERRIDE")] if mk and MANUAL.get(mk) else []) + cands
+    for sid, label in ordered:
         s = fred(sid)
         if s is None:
-            print(f"   ✗ {sid:<10} —")
+            print(f"   ✗ {sid:<11} —")
             continue
         s = s[s.index >= START]
         if len(s) < 24:
-            print(f"   ✗ {sid:<10} resolved but too short after {START}")
+            print(f"   ✗ {sid:<11} resolved but too short after {START}")
             continue
-        print(f"   ✓ {sid:<10} {s.index[0].date()} → {s.index[-1].date()}  "
+        print(f"   ✓ {sid:<11} {s.index[0].date()} → {s.index[-1].date()}  "
               f"n={len(s):<4} last={s.iloc[-1]:,.0f}   {label}")
         hits.append((sid, label, s))
     if hits:
         found[leg] = hits
     else:
-        print(f"   ⚠️ NOTHING RESOLVED FOR THIS LEG — the chart below will be incomplete.")
-        print(f"      Check the series IDs on fred.stlouisfed.org and add them to CANDIDATES.")
+        key = next((k for k in SEARCH if leg.startswith(k[:12])), None)
+        print(f"   ⚠️ NOTHING RESOLVED FOR THIS LEG.")
+        print(f"      → This leg is DROPPED. Everything else still charts — a missing leg must")
+        print(f"        not silently contaminate the others, so nothing is substituted for it.")
+        if key:
+            print(f"      → Find the real ID here, then paste it into MANUAL at the top:")
+            print(f"        {SEARCH[key]}")
+        print(f"      → And paste the ✓/✗ lines above back to me — that tells me exactly which")
+        print(f"        IDs your FRED serves, which is the thing I could not test from here.")
 
 if not found:
     raise SystemExit("\n⛔ No series resolved at all. FRED unreachable or every ID is wrong — "
