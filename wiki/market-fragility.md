@@ -2979,3 +2979,36 @@ Source: Jake's live-price run (~15m delayed, at/after the 1:00pm PDT close).
   without transmitting it** — narrow damage, calm surface. **That is a dispersion observation, not a
   warning; it times nothing.** *(Analysis.)*
 **Links:** [[cepi]] · [[ai-financing-fragility]] · [[portfolio-state]] · [[new-economy-regime]]
+
+### 2026-08-11 ~3:40pm PDT — ⛔ JAKE KILLS THE META DATUM, AND THE FLAW IS BIGGER THAN THAT ONE LINE: a one-day cross-section measures CHANGE, not STATE
+**Jake, 8/11:** *"Meta also tanked 2 weeks ago after earnings. Dip buyers contribute."*
+
+#### ⛔ CONCEDED, AND THE CORRECTION GENERALISES BEYOND THE ITEM HE FLAGGED
+- **THE SPECIFIC ITEM: I logged META +0.83 as "consistent with the distribution end capturing" while
+  hedging it as one day with two explanations. HE SUPPLIES A THIRD THAT IS MORE PARSIMONIOUS THAN
+  EITHER OF MINE: META sold off on earnings ~2 weeks ago, so today's print is MEAN REVERSION IN A
+  DRAWN-DOWN NAME.** ⚠️ **Unverified here — stooq and every price source I can reach is down (see
+  data note below) — but it needs no verification to defeat my claim: an ALTERNATIVE MECHANISM that
+  requires no new structure beats a structural read built on a single session.**
+- **★★★★ THE GENERALISATION IS THE REAL FINDING, AND IT CONTAMINATES MY WHOLE 1:15pm TAPE READ. A
+  ONE-DAY CROSS-SECTION COMPARES DAILY CHANGES ACROSS NAMES THAT ARE AT DIFFERENT POINTS IN THEIR OWN
+  DRAWDOWNS.** META +0.83, NVDA −0.22, AMZN −1.79, GOOGL −3.58 **only rank as evidence if they share
+  an anchor. They do not.** ⇒ **A name bouncing off an earnings hole and a name breaking to new lows
+  can print the same daily number and mean opposite things.** **I ranked them as if the daily change
+  were the state.** *(Analysis.)*
+- **★★★ AND JAKE'S MECHANISM IS ALREADY A VAULT THREAD: dip buyers MECHANICALLY manufacture green days
+  in drawn-down names** ([[dip-buying-base-rates]]). ⇒ **In a market with a reflexive dip bid, the
+  cross-section of daily changes is partly a map of WHO FELL RECENTLY, not who is winning.** **That is
+  a systematic contaminant, not a one-off.** *(Analysis.)*
+- **📌 THE FIX, REGISTERED AS A STANDING METHOD: read the tape as % FROM A COMMON ANCHOR — pre-earnings
+  date, 3-month high, or a fixed start — NOT as the one-day change.** **The FCF-ordering claim from
+  1:15pm (cash-poorest payers at the bottom) must be RE-RUN anchored before it counts as anything.**
+  ⚠️ **It is not retracted — it is UNTESTED, which is a different status and a weaker one than I gave
+  it.** 🚩 **Add anchored % -from-high columns to `tools/basket_index_cell.py`'s drift output.**
+- **⚠️ DATA-ACCESS DEGRADATION, logged because it now bounds what can be checked in-session: STOOQ IS
+  ALSO DOWN.** Running tally today — ❌ FRED (timeouts, both networks) · ❌ Census API ("Missing Key")
+  · ❌ Census currentdata CSV (400) · ❌ DBnomics (404) · ❌ stooq · ✅ **SEC EDGAR XBRL** · ✅
+  **census.gov STATIC FILES**. ⇒ **Two working sources left, both filings/agency files, NEITHER carries
+  PRICES.** **Price-based claims now depend on Jake's own live-price runs — which makes the anchored
+  columns above worth building into the cell he can actually run.** [[data-sourcing-playbook]]
+**Links:** [[dip-buying-base-rates]] · [[portfolio-state]] · [[cepi]] · [[data-sourcing-playbook]]
