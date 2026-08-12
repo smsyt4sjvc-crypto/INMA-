@@ -3012,3 +3012,54 @@ Source: Jake's live-price run (~15m delayed, at/after the 1:00pm PDT close).
   PRICES.** **Price-based claims now depend on Jake's own live-price runs — which makes the anchored
   columns above worth building into the cell he can actually run.** [[data-sourcing-playbook]]
 **Links:** [[dip-buying-base-rates]] · [[portfolio-state]] · [[cepi]] · [[data-sourcing-playbook]]
+
+### 2026-08-12 ~8:45am PDT — 📌 THE REGENERATED MARKET-OPEN BRIEF, GRADED: markers all check out, and the ONE NUMBER IN IT THAT MATTERS IS NBIS +8% BEFORE IT HAS REPORTED ANYTHING
+Source: `Vault_Market_Open_20260812_regenerated.docx` (Jake upload) → `raw/2026-08-12-vault-market-open.txt`.
+Sources cited inside it: Barron's, MarketWatch, AP, Investopedia (all 8/12).
+
+#### ✓ WHAT CHECKS OUT AGAINST THE VAULT
+- **Tuesday closes reconcile with my 1:15pm tape entry: SPX 7,728.20 (−0.32%) · Nasdaq 26,445.45 (−0.60%)
+  · Russell 3,027.12 (+0.32%) · VIX 15.29 · Brent 88.91.** ✓ **Small caps outperforming ✓.**
+- **All four vault markers correctly stated: SPX +282 above the 7,446 CTA trigger · VIX below the 18
+  DECIDE zone · Brent below $90 · 10Y 4.667% below the 5.00% corner.** ✓
+- **CRWV ~+18.5% premarket** — extends last night's +13-16% after-hours.
+- **F1-F10 all STILL OPEN** — consistent with the vault's registry, including **F8 (named neocloud
+  casualty), open ~8 sessions.**
+
+#### ⛔ WHAT IT IS MISSING, AND THREE OF THE FOUR ARE TODAY'S BIGGEST ITEMS
+1. **THE CPI NUMBERS THEMSELVES.** It calls July CPI *"the dominant scheduled catalyst"* and describes
+   PRE-release positioning, while its own MarketWatch source line says *"S&P 500 near a record… AFTER
+   CPI."* ⇒ **The brief straddles the release without reporting it: 0.1/0.2/3.4/2.5, in line on all four.**
+2. **THE 45% SEPTEMBER **HIKE** ODDS** — the single most important rate datum on the tape today, and the
+   one that reorganises the whole rate complex ([[new-economy-regime]] 8/12).
+3. **THE $42bn 10Y AUCTION AT 1:00pm ET** — today's actual test, and the one the vault flagged as
+   structurally harder than Tuesday's 3Y because **it must ABSORB the CPI print rather than front-run it.**
+4. **THE 17.4MM CRUDE BUILD.** ⇒ **The brief has the EFFECT without the CAUSE: it reports "oil slipped
+   intraday" and never says why.** **The biggest inventory surprise since Jan 2023 is the why.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ THE ONE NUMBER THAT CHANGES SOMETHING: NBIS IS UP AT LEAST 8% PREMARKET AND HAS NOT REPORTED
+  YET.** ⇒ **That is a SYMPATHY move on CRWV's print, not a response to Nebius's own numbers.**
+  **⚠️ AND IT CREATES A GRADING HAZARD ON THE PREDICTION I REGISTERED EIGHT HOURS AGO** (*"if Nebius
+  shows the same pattern… they will also run up 10-20%"*): **half the predicted move is being paid IN
+  ADVANCE, on someone else's results.** ⇒ **The prediction risks scoring CORRECT FOR THE WRONG REASON —
+  the conditional ("if Nebius shows the same pattern") has not been tested, and may never be if sympathy
+  alone satisfies the price target.** 📌 **GRADE IT ON THE MOVE FROM THE PREMARKET LEVEL, NOT FROM
+  TUESDAY'S CLOSE.** **That is the only version that tests what the call actually claimed.** *(Analysis.
+  This is the kind of thing that quietly corrupts a scoreboard.)*
+- **⚠️ AND IT RAISES NBIS'S OWN BAR: a name that has already gained 8% into its print must now BEAT to
+  hold the gain.** **CRWV's read-through has front-run the catalyst.** *(Analysis.)*
+- **⛔ AN UPDATE I OWE ON GOLD, AGAINST MY OWN 1:15pm CALL. I wrote that gold "+1.9% then −1.14% is
+  NOISE, and I over-read a single print." The sequence is now 4,444 (Mon) → 4,426 (Tue) → ~4,475
+  (+0.65%, Wed AM) — described as a TWO-MONTH HIGH.** ⇒ **The one-day dismissal was right; the
+  three-day read is not noise — it is a LEVEL.** **Gold making a two-month high THROUGH an in-line CPI
+  and a 45% hike probability is the item worth watching, because both of those should be gold-negative.**
+  🚩 **A gold breakout against a hawkish rate path is a debasement signal, not an inflation one.**
+  *(Analysis.)*
+- *(on the artifact itself)* **The brief is well-formed and its market data reconciles — but it is
+  ASSEMBLED FROM SECONDARY FINANCIAL MEDIA (Barron's, MarketWatch, AP, Investopedia), which is why it
+  carries prices accurately and MISSES the mechanism underneath them.** ⇒ **Useful as a tape
+  reconciliation; not a substitute for the primaries.** **Its honest line — *"no high-confidence
+  primary-source item… conclusively closed the F1-F10 registry"* — is the right call and should be
+  read as the brief marking its own limits.** *(Analysis.)*
+**Links:** [[new-economy-regime]] · [[metered-compute]] · [[ai-financing-fragility]] · [[predictions]]
