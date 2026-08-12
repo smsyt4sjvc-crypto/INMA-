@@ -330,3 +330,119 @@ not. **⬜ NOT-KNOWN items 1, 2 and 3 above are now CLOSED, and the first one cl
   seen.** Verify before citing as a vault number.
 - ⬜ **177 `Untitled*` files are unexamined.** At 61% of the folder they are most of it; the 54 sub-1 KB ones
   are certainly noise, but **the remaining ~123 are not** — several exceed 100 KB (largest **421 KB**).
+
+---
+
+## 2026-08-12 ~4:10pm PDT — IDEA-LEVEL READ OF THE REMAINING 39 (Jake: *"just read the code and assess the idea"*)
+No runs. Code and prose read; judged on whether the IDEA is sound, novel, already covered, or broken at
+the concept level — a different question from whether the backtest lies.
+
+### ★★★★ THE BEST ORIGINAL IDEA IN THE FOLDER IS JAKE'S OWN: THE MEDIAN FAN (LAD)
+- `median_line_dip_study` + `median_fan_drawdown` (2026-07-19). **Fit ONE straight line through ~10y of
+  log-price by least-absolute-deviations (median) regression instead of using a rolling average.**
+- **Why the idea is good and not obvious:** a rolling median lags exactly like an SMA — it is a *window*
+  statistic, so it inherits the window. **A fitted LAD line does not lag**, because it is a single global
+  fit, and it is *robust*: minimising absolute deviation means spikes do not drag the trend the way OLS
+  squared error does. **"Where is price against its own robust long-run path" is a genuinely different
+  question from "where is price against its recent average,"** and almost every retail dip signal
+  (200-SMA, %-off-high) asks only the second.
+- **The fan is the better half.** Fitting at 10y/5y/2y and reading **the SPREAD between the lines as trend
+  ACCELERATION** is elegant — 2y steeper than 10y means growth sped up, i.e. price is extended against its
+  own long-run path rather than against an arbitrary moving average. Then building a **distribution of how
+  deep past drawdowns bottomed below each line** turns it into a base-rate ruler instead of a signal.
+- **The design discipline is already right:** walk-forward refit (`TRAIL_YEARS=5`, `REFIT_DAYS=21`, no
+  lookahead), **matched firing frequency** (`MATCH_PCT=0.15`) so MEDLINE races SMA200 and %-off-high at
+  equal trigger counts, and `COMMON_SUPPORT=True` so all four are compared on the same name-days.
+  **That is a fair horse race, and it is the only fair one in the folder.** *(Result already filed:
+  [[median-line-dip]] — wins 1-3mo, loses 12mo.)*
+
+### ★★★ THE RIGHT QUESTION, THE WRONG ESTIMATOR: THE ROIC GAP
+- 5 notebooks, 2026-04-04, no prose — the idea is in the code: **`roic = (nopat×4)/invested_capital`;
+  `roic_gap = roic.pct_change(4) − capex.pct_change(4)`.** Two-stage: take the top-10 capex growers, rank by
+  gap, compare forward-12m returns of POSITIVE-gap vs NEGATIVE-gap vs SPY (2021-2024).
+- **★★★ THE CONCEPT IS EXACTLY WHAT [[cepi]] EXISTS TO MEASURE AND HAS NEVER MEASURED.** [[buying-at-highs]]
+  has carried *"the market reprices BUILDERS until capex ROI shows up (Bain: <10%)"* as an unmeasured
+  assertion since 7/09. **And the form is right: not "is ROIC high" (a level, which is what everyone screens
+  on) but "is ROIC growing as fast as the spending" (a rate DIFFERENCE).** That framing is the whole
+  AI-capex question in one column.
+- **⛔ BUT THE ESTIMATOR IS BROKEN THREE WAYS, AND ALL THREE ARE FIXABLE:**
+  1. **`pct_change` OF A RATIO.** ROIC 0.5% → 1.5% prints **+200% growth**; a ROIC crossing zero prints
+     nonsense. **The metric ends up dominated by companies with tiny denominators.** Fix: a DIFFERENCE in
+     percentage points (Δ ROIC), not a percent change.
+  2. **CAPEX IS LUMPY.** A company that finished a fab last year shows −60% capex growth, mechanically
+     manufacturing a large positive "gap" with no economic content. **This is the shell→tool-in problem from
+     [[ai-capex-cycle]] L2487 arriving as a screening artifact.**
+  3. **`nopat×4` ANNUALISES ONE QUARTER** — noisy, and seasonal for anything with a Q4 skew.
+  Plus **top-10 × 4 years ≈ 40 observations** for the pos/neg split, and current-membership survivorship.
+- **🚩 VERDICT: rebuild the metric, keep the question.** Δ ROIC in points against a 3-yr capex CAGR, whole
+  S&P, and it becomes the number [[cepi]] has been arguing about without.
+
+### ★★ REVENUE INTENSITY IS A REDISCOVERED WEAK FACTOR, AND THE "FIX" MADE IT WORSE
+- 5 notebooks, 2026-01-29. **`Revenue Intensity = (revenue / market cap) × 100` — that is the reciprocal of
+  price-to-sales.** Not a new metric: it is 1/(P/S), one of the oldest and *weakest* value factors, and the
+  most sector-confounded of them (a distributor on 5% net margin always screens "cheap" against software).
+- **The motivating examples are survivorship anecdote:** SNDK 132% → +1,127%, STX 40% → +21%, NVDA 4% →
+  "boat already sailed." **Three winners named after the fact, with no denominator of low-P/S names that
+  went nowhere.**
+- **⛔ AND THE ITERATION IS A TEXTBOOK OVERFIT, PRINTED AS A FINDING.** The unfiltered backtest is honest.
+  The next notebook opens: *"Key Discovery from Unfiltered Backtest: ALL losers were e-commerce/media…
+  Revenue intensity ONLY works IN THE RIGHT SECTORS"* → then hard-codes
+  `EXCLUDE_TICKERS = ['JD','PDD','TCOM','NTES','BIDU','BABA']` **plus an AI-infrastructure-only industry
+  filter. Excluding the names that lost is not a discovery about the factor; it is a description of the
+  sample.** The unfiltered version is the one with information in it.
+- ⚠️ **The honest reading of what it actually found is still worth keeping:** *low P/S is a sector bet, not
+  a stock signal.* That is the standard result, arrived at independently.
+
+### ★★ THREE TOOLS WORTH LIFTING, ON THE IDEA ALONE
+- **`sec_hyperscaler_scanner` (2026-07-25, 3 forks) — the strongest UNREAD tool.** Keyless EDGAR XBRL, and
+  its headline check is **the depreciation-schedule test: implied useful life = PP&E ÷ depreciation.** Real
+  forensic accounting, aimed straight at the vault's own thread (the Dowd/Goldman useful-life claim, 7/24).
+  It also pulls purchase obligations and lease liabilities — **the off-sheet columns
+  [[balance-sheet-board]] was built to hold.** Its tag lists are already multi-candidate, i.e. it
+  independently solved the AMZN `PaymentsToAcquireProductiveAssets` problem that broke `edgar_batch_cell`.
+- **`nvda_squeeze_analyzer` — the right control, by instinct.** *"NVDA-in-squeeze vs NVDA-NOT-in-squeeze
+  (its own baseline)."* **That is precisely the unconditional control the KRE notebook lacked** — same
+  author, same folder. It also carries a straddle-breakeven cell, i.e. it asks whether the move clears
+  premium rather than merely whether a move happens.
+- **`power_equipment_screen` (2026-07-16) — "the bottleneck within the bottleneck."** The IPPs
+  (CEG/VST/TLN) already ran on consensus; the untraded layer is transformers/switchgear/grid construction.
+  **This is [[buildout-bottleneck-map]]'s thesis as a valuation screen** (52-wk position + 1yr return
+  against fwd P/E, EV/EBITDA, FCF yield), with IPPs and regulated utilities held as reference groups.
+
+### ⚠️ SOUND IN STRUCTURE, UNPROVEN IN SIGNAL
+- **`spy_weekly_poc_scan` — 2/3 rides untouched, 1/3 trades around the weekly Point of Control.** The
+  *structure* is well-designed: capping the tradeable sleeve bounds what a bad rule can cost, and it
+  backtests 15 years against just holding — the comparison EMA5 omits. **But the POC (most-traded price of
+  the week) is a futures volume-profile convention with no established forward-return content.**
+  ⚠️ **A rebalancing rule around ANY line harvests volatility, not information: it beats buy-and-hold in
+  chop and loses in trend, and 15 years of SPY is mostly trend.** The result will describe the period.
+- **`squeeze_screener` / `squeeze_screenercsb` — the listed corrections are each individually right**
+  (anchored VWAP over daily-reset VWAP; **IV RANK over IV percentile**; HV percentile for context; an
+  explicit entry-slippage estimate). **A well-informed checklist — not a tested signal.** Nothing scores
+  the checklist against forward returns.
+- **`watchlist_screener` — five archetypes on one universe** (`buy_and_hold`, `momentum_chase`,
+  `mean_reversion`, `volatility_harvest`, `trend_follow`). **Racing archetypes on identical data is the
+  right way to ask "which regime is this,"** and it is the only notebook that frames the question that way.
+- **`sector_brain` — sectors as a correlation network,** node colour = daily return, edge = trailing
+  |corr| ≥ 0.6. **Correlation networks are legitimate systemic-risk methodology**, and it is honest that
+  *"the animation is intuition candy; the running record matters more."* **What it actually produces is a
+  dated wiring/dispersion measure — a regime gauge** ("all wired = risk-on/off; fragmenting = rotation"),
+  which [[concentration]] and [[market-fragility]] both want and neither has.
+- **`memory_intraday_close` — gap-and-go vs gap-and-fade on MU/WDC/STX/SNDK.** Narrow but well-posed, and
+  correctly two-pronged: daily OHLC for the robust sample, 30-min bars for the recent regime.
+
+### ⛔ BROKEN AT THE CONCEPT LEVEL, OR NOT MARKETS AT ALL
+- **`weekly_stack` — "what did top-5 winners look like at week −1."** **Selecting on the outcome and then
+  describing the antecedents is survivorship by construction** — losers with identical week-−1 profiles are
+  never counted. [[runner-anatomy]] and [[growth-ignition-anatomy]] already do this properly *with a control
+  group*, which is the entire difference.
+- **`SP500 Recession Screener` v4 / FINAL / NUCLEAR_OPTION — a SOURCING idea, not a research idea**, and a
+  good one: *"Raw Finviz scrape. No yfinance. No APIs. ~30 seconds."* **That is the answer to the yfinance
+  429 problem**, arrived at in March.
+- **🚩 TWO MORE FILENAME/CONTENT MISMATCHES — FIVE NOW.** `slv_quarterly_cyclical_analysis` contains
+  **BTC/ccxt** code (`EXCHANGE_ID="binance"`, 3× leverage, ATR stops) — no silver in it.
+  `seasonal10_dashboard` is an **Aaron Rodgers NFL gamelog scraper.** *(Joining `BB10_2_..._EndToEnd` = the
+  BTC 2× strategy, and the two different `cluster_hunter`s.)* **In a 289-file folder where 61% are
+  `Untitled`, the filenames that DO exist cannot be trusted either.**
+- **Super Bowl LX (4 notebooks, 2026-01-31)** — Monte Carlo on nflfastR EPA. Competent, not markets.
+  **`InlandNW_Modernization` (3)** — Idaho/Washington migration data. Not markets.
