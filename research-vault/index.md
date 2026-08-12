@@ -101,6 +101,7 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 - [[ioss-proposal]] — iOSS policy project (Jake's)
 - [[data-sourcing-playbook]] — (also under meta)
 - [[colab-archive-audit]] — the Drive Colab folder read + graded (50 files): what the vault already had, the 4-bug hiccup taxonomy, `tools/`=code vs Drive=runs
+- [[quarterly-regime-gauge]] — which archetype fits the quarter (structural metrics, not hand-tuned rules) + does Q predict Q+1
 
 ## 🛠 Tools (`tools/`, 69 files — run in Colab, token-free)
 Edge/premium: `vol_risk_premium.ipynb`, `vol_risk_premium_decay.ipynb`, `passive_bid_fingerprint.ipynb`,
