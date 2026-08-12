@@ -291,3 +291,22 @@ Source: Claude ran it in-session (Yahoo daily API + volume, freed environment). 
   bid hold up; price-pattern eyeballs don't). When gut vs tape disagree, trust the flow read.
 - *(discipline)* 1.1x on fading volume is a WHISPER, not a signal; volume-distribution reads are among the noisiest.
   Real whisper, leaning his way — but not tradeable alone. Book unchanged (hedged; SPY 742 now below the 745 put strike).
+
+### 2026-08-12 ~2:45pm PDT — 🚩 THE ≥2018 DECAY TEST HAS AN UNRUN NOTEBOOK SITTING NEXT TO IT (26 days)
+Source: [[colab-archive-audit]] — Drive folder read 8/12, 50 files parsed with saved outputs.
+#### DATA (observed)
+- `body_momentum_carry.ipynb` exists in the Colab archive with **ZERO saved output — written, never run.**
+  It tests whether the month BODY (day 3-22, excluding the first 2 and last 2 days so it cannot swallow the
+  turn) carries into (a) the same month's tail, (b) the turn, (c) next month's day-1 — **with the quintile
+  monotonicity check built in**, i.e. the Q4-noise-hole discipline this ledger already imposed at L217.
+- `first_of_month_options.ipynb`'s saved run **matches L190/L212 exactly** (day-1 +18.7bp, 61% win, drift
+  not vol). That entry's conclusions are confirmed to have come from a real run, not a recollection.
+#### THESIS (interpretation — NOT fact)
+- **The two open calendar questions and the one unrun notebook are not the same question, and both are
+  cheap.** L185/L205-207 owes *"rerun T1/T2 on ≥2018 only — is the month-turn tilt still alive or arbitraged
+  to zero?"* since 7/17. `body_momentum_carry` asks a **different** thing (does within-month momentum carry
+  through the turn) and neither has been answered. **A registered test with the code already written is not
+  a research project; it is an errand.** *(Analysis. Rule 10.)*
+- ⚠️ **Both are Jake-side runs, not container runs** — Yahoo returns HTTP 429 to this container's egress IP
+  and stooq is unreachable (8/12 test). Colab runs them clean. 🚩 **Next Colab session: run
+  `body_momentum_carry` as-is, then re-run the day-1/payday atlas with `START='2018-01-01'`.** *(Analysis.)*

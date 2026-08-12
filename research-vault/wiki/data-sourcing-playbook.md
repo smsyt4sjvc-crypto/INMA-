@@ -392,3 +392,24 @@ and on EDGAR it is measurable.** Built `tools/edgar_batch_cell.py`; run end-to-e
   `balance_sheet_ledger_cell.py`. ⬜ **Not yet migrated. Their numbers stand** (they read INSTANT
   balance-sheet concepts, which have no YTD problem) **but they should move for speed.**
 **Links:** [[cepi]] · [[balance-sheet-board]] · [[ai-capex-cycle]]
+
+## 2026-08-12 ~2:35pm PDT — ⛔ A 429 IS NOT A TIMEOUT AND NOT AN AUTH WALL. THREE FAILURES, THREE TRIAGES.
+Source: reachability tests during the [[colab-archive-audit]] ingest.
+### DATA (observed — this container, 2026-08-12)
+- `query1.finance.yahoo.com` / `query2.finance.yahoo.com` v8 chart API → **HTTP 429 "Too Many Requests."**
+  Persists with a browser User-Agent, on both hosts.
+- `stooq.com` CSV endpoint → **connection failure (curl code 000, zero bytes).**
+- `drive.google.com` public folder HTML + `uc?export=download` → **HTTP 200**, 50 files, 5.60 MB pulled clean.
+### THESIS (interpretation — NOT fact)
+- **The failure MODE dictates the triage, and conflating them wastes sessions.** *(Analysis.)*
+  - **HTTP 4xx/5xx = the host answered.** 429 specifically = a *shared-egress rate limit on a live service*
+    — it can clear by itself, and a different network (Colab) resolves it immediately. **Never mark the
+    host dead.**
+  - **Timeout / connection failure = the host is unreachable from here.** FRED and stooq. Retrying is pure
+    cost; `edgar_batch_cell.py`'s fail-fast marks the host dead for the run, which is correct here.
+  - **"Missing Key" = an auth wall.** Census API. No amount of retrying or waiting fixes it; only a key does.
+- **This is the same lesson as the 8/11 FRED misdiagnosis, stated as a rule instead of a war story: a probe
+  that renders all three as `✗` will send you to fix the wrong layer.** On 8/11 that cost two rounds and a
+  17→27 ID expansion against a transport failure. *(Analysis.)*
+- **Standing consequence: yfinance-dependent cells are JAKE-SIDE, not container-side, until 429 clears.**
+  23 of the 50 archived notebooks and `tools/acute_scanner_cell.py` are in that set.

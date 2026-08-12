@@ -35,7 +35,16 @@ SUBJECTS = ["fab construction", "data centre", "data center", "brent", "wti", "g
             # cover the vault's named INSTRUMENTS, not just tickers.
             "sdllmtk", "sdllmcs", "sdllmos", "token price", "tokens", "openrouter",
             "gpu rental", "swaption", "payer skew", "repo",
-            "hormuz", "payroll", "cpi", "vix", "electric", "office"]
+            "hormuz", "payroll", "cpi", "vix", "electric", "office",
+            # gap #3, found 8/12 on the Drive-folder ingest: the tool had NO vocabulary for
+            # the macro spine or for any calendar/seasonality claim, so two headline findings
+            # scanned as "nothing to check". Absence of vocabulary is not absence of prior.
+            "balance sheet", "walcl", "m2", "money supply", "liquidity", "reserves",
+            "s&p", "spx", "nasdaq", "ndx", "soxx", "index",
+            "day-1", "day 1", "first of month", "seasonal", "turn of the month",
+            "straddle", "breakeven", "win rate", "drawdown", "52-week high", "52w high",
+            "layoff", "mean reversion", "half-life", "hurst", "autocorr",
+            "bollinger", "compression", "squeeze", "kre", "regional bank"]
 
 NUM = re.compile(r"[-+]?\$?\d[\d,]*\.?\d*\s*(?:%|B\b|bn\b|billion|M\b|bp\b)?")
 # Dates masquerade as numbers: "2026-08-11" and "Jun-26" both scan as values and the first
@@ -133,7 +142,17 @@ def main():
     METRICS = metric_terms(text)
     claims = extract(text)
     if not claims:
-        print("  crosscheck: no (subject, number) pairs found — nothing to check.")
+        # ⛔ 8/12: "nothing to check" was rendering TWO OPPOSITE conditions identically —
+        # exactly the failure that made the FRED probe show 404 and timeout as the same ✗.
+        # A claim with numbers but no SUBJECT vocabulary is a GAP IN THIS FILE, not a clean pass.
+        has_num = bool(NUM.search(strip_dates(text)))
+        if has_num:
+            print("  ⛔ crosscheck: THE TEXT HAS NUMBERS BUT NO SUBJECT THIS FILE KNOWS.")
+            print("     That is a VOCABULARY GAP in crosscheck.py, NOT a clean bill of health —")
+            print("     the vault was never searched. Add the subject to TICKERS/SUBJECTS above and")
+            print("     re-run, or check by hand:  python3 tools/vault_find.py \"<subject>\"")
+        else:
+            print("  crosscheck: no numbers in the text — nothing to check.")
         return
 
     seen, conflicts = set(), 0

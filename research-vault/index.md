@@ -1,7 +1,7 @@
 # Vault Index — the map (read after CLAUDE.md)
 
 Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), then this (what exists + where).
-53 notes, 70 raw sources, 30 tools. Last built: 2026-07-23. Regenerate when notes are added/renamed.
+54 notes, 178 raw sources, 69 tools. Last built: 2026-08-12. Regenerate when notes are added/renamed.
 (+ `wiki/war/` containment added 2026-07-23: war-board / war-confirmed / war-rhetoric — the scannable war index.)
 
 > Two domains, two brains: THIS vault = markets research. The **trading system** is a SEPARATE repo
@@ -100,11 +100,13 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 ## 📜 Process / policy
 - [[ioss-proposal]] — iOSS policy project (Jake's)
 - [[data-sourcing-playbook]] — (also under meta)
+- [[colab-archive-audit]] — the Drive Colab folder read + graded (50 files): what the vault already had, the 4-bug hiccup taxonomy, `tools/`=code vs Drive=runs
 
-## 🛠 Tools (`tools/`, 30 files — run in Colab, token-free)
+## 🛠 Tools (`tools/`, 69 files — run in Colab, token-free)
 Edge/premium: `vol_risk_premium.ipynb`, `vol_risk_premium_decay.ipynb`, `passive_bid_fingerprint.ipynb`,
 `mechanical_bid_patterns.ipynb`, `first_of_month_options.ipynb`, `momentum_through_first.ipynb`,
 `body_momentum_carry.ipynb`, `sma_20_50_regime_backtest.ipynb`, `memory_intraday_close.ipynb`,
+`broad_value_screen.ipynb` (S&P-1500 two-stage value screen, recovered 8/12 — NOT the same tool as `cluster_hunter.ipynb`), `csp_screen.ipynb` (the laws as filters, recovered 8/12),
 `median_line_dip_study.ipynb` (straight LAD/median trend vs SMA/%-off-high/rolling-median as a dip trigger),
 `median_fan_drawdown.ipynb` (10/5/2y median-line fan; drawdown-depth ruler + acceleration),
 `momentum_extrapolation_backtest_cell.py` (trailing 3-mo trend extrapolated via solved option breakevens, CBOE SPX + FRED VIX, 375 trades 1995-2026),
