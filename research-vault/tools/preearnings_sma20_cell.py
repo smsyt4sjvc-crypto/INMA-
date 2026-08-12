@@ -348,19 +348,39 @@ print("     belongs at E+0, not after. That converts the idea into a 15-day pre-
 print("\n" + "=" * 100)
 print("  BY YEAR — is this a setup, or is it the 2023-24 AI tape wearing a setup's clothes?")
 print("=" * 100)
+# ⛔ v2 BUG, CAUGHT ON THE v2 RUN: this panel tested the UNGATED trigger — and the ungated
+# suppression gate is INERT (α is flat at +2.3→+3.1% across the 50-90% band, because the metric's
+# own null is 62%). So v2's by-year table was measuring the leg that does nothing, and its verdict
+# ("positive in 3 of 6 years") was a verdict on the wrong thing. The gated cell is what must be
+# tested by year, because the gated cell is the only thing that showed an effect.
 ev["yr"] = ev["edate"].dt.year
-print(f"  {'year':<7}{'ALL n':>7}{'ALL α':>9}{'TRIG n':>8}{'TRIG α':>9}{'TRIG win':>10}   marginal α")
-print("  " + "-" * 74)
-for y in sorted(ev["yr"].unique()):
-    a = ev[ev["yr"] == y]; t = a[a["frac"] >= 0.70]
-    if len(a) == 0: continue
-    ta = t["alpha_1"].mean() if len(t) else float("nan")
-    tw = (t["ret_1"] > 0).mean() if len(t) else float("nan")
-    marg = ta - a["alpha_1"].mean() if len(t) else float("nan")
-    print(f"  {y:<7}{len(a):>7}{a['alpha_1'].mean():>9.2%}{len(t):>8}"
-          f"{ta:>9.2%}{tw:>10.0%}   {marg:>+7.2%}")
-print("  ⇒ the MARGINAL column is the only one that matters: how much the trigger adds OVER the")
-print("     universe's own base rate that year. If it is positive in 2 of 6 years, it is the era.")
+for glab, gsupp, gvol in [("TRIGGER ONLY  (supp≥70%, no vol gate)", 0.70, 0.0),
+                          ("VOL GATE ONLY (supp≥50% × RV≥60%)",     0.50, 0.60),
+                          ("BOTH          (supp≥70% × RV≥60%)",     0.70, 0.60)]:
+    print(f"\n  ── {glab}")
+    print(f"  {'year':<7}{'ALL n':>7}{'ALL α':>9}{'sel n':>7}{'sel α':>9}{'win':>7}   marginal α")
+    print("  " + "-" * 70)
+    pos = neg = 0
+    for y in sorted(ev["yr"].unique()):
+        a = ev[ev["yr"] == y]
+        t = a[a["frac"] >= gsupp]
+        if gvol: t = t[t["rvpct"] >= gvol]
+        if len(a) < 10:            # 2020 has n=3 — do not let a 1-event year vote
+            print(f"  {y:<7}{len(a):>7}{a['alpha_1'].mean():>9.2%}{len(t):>7}"
+                  f"{'—':>9}{'—':>7}   (n too small)")
+            continue
+        ta = t["alpha_1"].mean() if len(t) else float("nan")
+        tw = (t["ret_1"] > 0).mean() if len(t) else float("nan")
+        marg = ta - a["alpha_1"].mean() if len(t) else float("nan")
+        if marg == marg:
+            pos += marg > 0; neg += marg <= 0
+        print(f"  {y:<7}{len(a):>7}{a['alpha_1'].mean():>9.2%}{len(t):>7}"
+              f"{ta:>9.2%}{tw:>7.0%}   {marg:>+7.2%}")
+    print(f"     → marginal α positive in {pos} of {pos+neg} scoreable years")
+print("\n  ⇒ THE MARGINAL COLUMN IS THE ONLY ONE THAT MATTERS — how much the selection adds OVER")
+print("     the universe's own base rate THAT YEAR. Compare the three blocks: if BOTH beats")
+print("     TRIGGER-ONLY in most years, the interaction is real; if all three wander together,")
+print("     the whole thing is the tape. A leg that is positive in ≤3 of 6 years is regime-bound.")
 
 # ── per-name, so one ticker's run cannot masquerade as an effect
 print("\n" + "=" * 100)
