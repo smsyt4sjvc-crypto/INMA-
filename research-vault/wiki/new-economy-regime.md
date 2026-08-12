@@ -3049,3 +3049,54 @@ Source: BLS-sourced compilation, *US Inflation July 2026* → `raw/2026-08-12-cp
   informative than it reads, and the market trades decimal places the series cannot resolve.**
   📌 **Standing: quote 3-month annualised, not single-month surprises.** *(Analysis.)*
 **Links:** [[market-fragility]] · [[war/war-board]] · [[predictions]] · [[compression-thesis]]
+
+### 2026-08-12 ~10:30am PDT — ★★★★★ THE INTERVENTION ROUND-TRIPPED ON PRICE AND SUCCEEDED ON POSITIONING — which DOWNGRADES the carry-unwind tail risk and makes the yen MORE vulnerable, not less
+Source: compiled market snapshot → `raw/2026-08-12-bond-yields-yen.txt` (CFTC COT futures-only as of
+**Aug 4**; Treasury levels via Tradeweb/FactSet in WSJ/MarketWatch, 8/12; FOMC 7/29; BoJ since 6/17).
+
+#### DATA (observed)
+- **THE POST-CPI CURVE MOVE IS THE PRINT OF THE DAY, NOT THE CPI: 2Y ~4.17-4.18% DOWN · 10Y ~4.65-4.67%
+  roughly steady (prior day ~4.70%) · 30Y ~5.216%, UP from ~5.185% IMMEDIATELY BEFORE THE RELEASE.**
+  **2s10s ≈ +48bp · 2s30s ≈ +104bp.** ⇒ **A STEEPENER on an in-line print.**
+- **POLICY GAP: Fed 3.50-3.75% (midpoint 3.625%) vs BoJ ~1.00% (since 17 Jun 2026) = ~2.625pp.**
+- **USD/JPY ~159.28-159.34.** Intervention-day low **~157.40**; pre-intervention close **~159.50**.
+- **★★★★★ CFTC YEN, positions dated Aug 4: NET NON-COMMERCIAL −45,473 CONTRACTS, versus −163,412 the
+  week before — A +117,939-CONTRACT SWING IN ONE WEEK.** Shorts **−71,982** to 192,701; longs **+45,957**
+  to 147,228; open interest 419,393 (−12,973). **Net notional ≈ ¥568B ≈ $3.6B.**
+- **Japan and the US ran COORDINATED yen-support operations; press estimates put Japan's spend in the
+  tens of billions, with US participation via yen purchases.** ⚠️ Totals vary by source; the document
+  deliberately avoids a single figure.
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ THE INTERVENTION FAILED ON PRICE AND SUCCEEDED ON POSITIONING, AND ALMOST NOBODY SCORES IT
+  THAT WAY. 159.50 → 157.40 → 159.30: tens of billions, with US participation, and the pair sits within
+  ~20 pips of where it started.** **But the speculative net short was CUT BY 72%.** ⇒ **Officials did
+  not buy a level. They bought a POSITIONING RESET.** *(Analysis.)*
+- **★★★★★ WHICH DOWNGRADES A STANDING VAULT RISK: THE CARRY-UNWIND TAIL IS MATERIALLY SMALLER THAN IT
+  WAS TWO WEEKS AGO. The August-2024 unwind detonated from a net short near −180k contracts; −163,412
+  was in that zone. −45,473 IS NOT.** ⇒ **The forced-covering fuel that made 2024 violent has largely
+  been spent.** **A yen rally from here has far less mechanical cascade behind it, so the cross-asset
+  contagion channel is narrower.** 📌 **Standing risk DOWNGRADED, with the caveat that COT is
+  futures-only and lagged — it does not see bank/real-money FX forwards or structured carry.**
+  *(Analysis.)*
+- **★★★★ AND THE PARADOX THAT MATTERS FOR THE NEXT MOVE: A CLEANER BOOK AT THE SAME PRICE MEANS LESS
+  RESISTANCE TO A BREAK THROUGH 160. Short-covering is a source of yen STRENGTH; with the shorts
+  already covered, that support is gone.** ⇒ **"Less crowded" is being read as safer. For the YEN it is
+  the opposite: the squeeze is spent, the 2.625pp carry is intact, and the next push at 160 meets a
+  thinner bid.** **The constraint is now purely OFFICIAL — intervention risk, not positioning.**
+  *(Analysis.)*
+- **★★★★ THE STEEPENER IS THE MALIGN LEG LOADING, AND IT IS SPECIFIC RATHER THAN GENERAL: the front end
+  eased (hike odds trimmed) while the 30Y ROSE THROUGH THE RELEASE to ~5.22%.** ⇒ **The market took
+  near-term policy pressure OFF and put term-premium/fiscal-supply pressure ON, in the same hour.**
+  **📌 AND THE 30Y IS ALREADY ABOVE 5.00% — the vault's "corner" marker, which is set on the 10Y (4.65%,
+  still below).** **Tomorrow: PPI with GS at +0.4% vs +0.2% consensus, THEN the $25bn 30Y.**
+  ⇒ **A long-end auction into a hot PPI, with the 30Y already at 5.22% and steepening.** 🚩 **THAT is
+  the malign-box test, and it is tomorrow — not today.** *(Analysis.)*
+- ⬜ **NOT IN THIS DOCUMENT AND LIVE RIGHT NOW: TODAY'S $42bn 10Y RESULT (1:00pm ET).** **The registered
+  test was whether it TAILS after the CPI print.** 🚩 **That number is out and the vault does not have
+  it.** *(The snapshot predates the auction.)*
+- *(the next dated resolver on the yen)* **The CFTC report for positions dated Aug 11 lands later this
+  week** — **it answers whether short-covering CONTINUED after the intervention or stopped at −45k.**
+  **Continued covering with the pair back at 159.3 would be a genuine capitulation signal; a re-shorting
+  print says the carry trade simply reloaded at a better level.** *(Analysis.)*
+**Links:** [[market-fragility]] · [[predictions]] · [[ai-financing-fragility]]
