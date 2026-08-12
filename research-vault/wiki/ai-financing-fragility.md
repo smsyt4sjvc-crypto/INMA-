@@ -4498,3 +4498,48 @@ same collateralized chips?"*
   ourselves"*** (the April doctrine, L4145). ⇒ **The structure is chosen to avoid BOTH consolidation AND
   channel conflict. The 25% guarantee is the price of keeping both.** *(Analysis.)*
 **Links:** [[metered-compute]] · [[balance-sheet-board]] · [[cepi]] · [[ai-capex-cycle]]
+
+### 2026-08-11 ~11:10pm PDT — ★★★★ "IS IT CO-SIGNING? CAN THEY DICTATE THE PROCEEDS? SOUNDS ILLEGAL" — GRADED: wrong on form, right on substance, and the legal exposure is ACCOUNTING, not antitrust
+**Jake:** *"So Nvidia, in a complex manner, is co-signing for its customers. Can they dictate a % of the
+loan be spent with them? Sounds illegal."*
+
+#### THESIS (interpretation — NOT fact; ⚠️ ANALYSIS, NOT LEGAL ADVICE)
+- **⛔ NOT CO-SIGNING, AND THE DIFFERENCE IS THE WHOLE STRUCTURE. A CO-SIGNER is jointly and severally
+  liable for the ENTIRE debt from day one.** A **RESIDUAL-VALUE GUARANTEE** covers only the **shortfall
+  between collateral value and a floor, at a point in time.** ⇒ **It is a written PUT on the hardware's
+  residual, not a promise to service the loan.** **NVDA's exposure is capped, contingent, and shrinks as
+  the asset amortises** — Broadcom's disclosure says exactly that: *"an amount that DECREASES as lease
+  payments come in."* *(Analysis.)*
+- **★★★ BUT THE ECONOMIC READ IS CORRECT AND IT HAS A NAME: VENDOR FINANCING — a supplier
+  credit-enhancing its own customers so they can afford its product.** ⇒ **Wrong on the legal form,
+  right on the substance.** **The 1999-2001 precedent is exact: Lucent and Nortel extended billions in
+  vendor financing to CLECs, and Lucent RESTATED REVENUE.** *(Analysis.)*
+- **⛔ "CAN THEY DICTATE THE PROCEEDS BE SPENT WITH THEM?" — YES, AND IT IS THE MOST ORDINARY FEATURE OF
+  SECURED LENDING, NOT A SCHEME. A purchase-money loan is BY DEFINITION restricted to the asset it
+  finances.** You cannot take a car loan and buy a boat; you cannot take a mortgage and buy stocks.
+  **Use-of-proceeds covenants are universal.** **A loan collateralised by GPUs that must be spent on
+  GPUs is the definition of a purchase-money security interest.** ⇒ **NOT ILLEGAL. Not close.**
+  ⚠️ **The version that WOULD raise antitrust questions is EXCLUSIVITY — financing conditioned on buying
+  ONLY NVDA — which is a different arrangement and NOT what the WSJ describes.** ⬜ **Whether any
+  exclusivity term exists is NOT KNOWN.** *(Analysis.)*
+- **★★★★★ THE REAL LEGAL EXPOSURE IS REVENUE RECOGNITION, AND IT EXPLAINS WHY THE STRUCTURE IS SO
+  ELABORATE. If a vendor funds and guarantees a sale so completely that it retains substantially all the
+  risk, the transaction is IN SUBSTANCE A FINANCING, NOT A SALE — and the revenue is not recognisable
+  when booked.** **That is what Lucent restated over.** ⇒ **THE THIRD-PARTY CAPITAL IS NOT JUST MONEY.
+  IT IS THE ACCOUNTING FIREWALL:** an independent credit decision by Apollo/BlackRock/KKR between NVDA
+  and its customer is what makes the sale ARM'S-LENGTH and the revenue CLEAN. **Morgan Stanley's Moore
+  said the quiet part: third-party capital "should arguably ALLEVIATE CIRCULARITY CONCERNS."**
+  ⇒ **The complexity IS the product. It converts a revenue-recognition problem into a contingent-liability
+  footnote.** *(Analysis.)*
+- **★★★★★ AND THE CONVERGENCE THAT MAKES THE 25% LOOK OVER-DETERMINED: the same threshold serves BOTH
+  tests. Guarantee too much and (a) you consolidate the vehicle (VIE primary-beneficiary) AND (b) you
+  retain substantially all risk, so the SALE stops being a sale.** ⇒ **"Up to 25%" is plausibly the
+  number where NVDA's auditors said both tests still pass.** **Broadcom at 83% is the informative
+  contrast: at that level you cannot hide, which is why Broadcom DISCLOSED $29B** — ⬜ **and it would be
+  worth knowing how Broadcom recognised the associated revenue.** 🚩 **FETCH: Broadcom's revenue-
+  recognition language on the Anthropic package.** *(Analysis.)*
+- 📌 **THE TEST THIS SHARPENS, restated with both legs: NVDA's late-August 10-Q. (1) ASC 460 maximum
+  potential payment — disclosed or not? (2) ANY change in revenue-recognition language around
+  guaranteed or backstopped sales.** **Leg 2 is the one nobody is watching and it is where Lucent
+  actually broke.** *(Analysis.)*
+**Links:** [[balance-sheet-board]] · [[cepi]] · [[ai-capex-cycle]] · [[market-fragility]]
