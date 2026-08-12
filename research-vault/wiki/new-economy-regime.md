@@ -2803,6 +2803,7 @@ Source: viral post + Bloomberg ECONGECC chart (Kevin Gordon, Charles Schwab), ch
   *(Analysis.)* [[ai-capex-cycle]] · [[power-not-petroleum]]
 - **★★★★ THE MARKET ALREADY VOTED, AND IT WENT THE OTHER WAY — the fact that most contradicts the
   post's framing. Sept-cut odds FELL ~10pp on the release to 44%**, and **today's 3Y auction printed
+    ⟲ SUPERSEDED 2026-08-12 → new-economy-regime.md:L2925 — the 44-45% is SEPTEMBER HIKE odds, not cut odds — the vault's own registered prediction is titled 'they raise rates before December'
   4.291%, the highest since Feb 2025** ([[market-fragility]] 8/11). ⇒ **A deteriorating labour print
   produced a HIGHER front-end yield and FEWER priced cuts.** Either the market disbelieves the
   revisions, or it is pricing something that dominates them — and **tomorrow's CPI is the discriminator.**
@@ -2911,6 +2912,7 @@ Census CSV 400, DBnomics 404, stooq down).
   SLACK, WHICH MAKES THE PAYROLL WEAKNESS LESS DISINFLATIONARY THAN IT LOOKS.** −23k jobs into a
   labour force down 2M is a different macro object than −23k into a growing one. ⇒ **HAWKISH at the
   margin — consistent with Hammack's July dissent for a hike, today's 3Y at 4.291% (an 18-month high),
+    ⟲ SUPERSEDED 2026-08-12 → new-economy-regime.md:L2925 — same inversion: hike odds, not cut odds
   and Sept-cut odds FALLING ~10pp on a weak print.** 📌 **Bears directly on tomorrow's CPI: less slack
   raises the odds that a hot print is read as persistent rather than transitory.** *(Analysis.)*
 - **★★★ AND THE INSTRUMENT POINT WORTH KEEPING: THE UNEMPLOYMENT RATE CANNOT MEASURE AI DISPLACEMENT IN
@@ -2920,3 +2922,76 @@ Census CSV 400, DBnomics 404, stooq down).
   the prime-age employment-population ratio (80.7 → 80.4), the HIRES rate, and occupation-level data.**
   *(Analysis.)*
 **Links:** [[market-fragility]] · [[compression-thesis]] · [[data-sourcing-playbook]] · [[predictions]]
+
+### 2026-08-12 ~8:45am PDT — ⛔⛔⛔ I HAD THE FED BACKWARDS ALL SESSION: THE 44-45% IS **HIKE** ODDS, NOT CUT ODDS. And it makes the payer skew, Hammack's dissent and the 3Y print ONE story instead of three.
+  ⟲ SUPERSEDES new-economy-regime.md:L2914 — same inversion: hike odds, not cut odds
+Source: ZH X-feed capture (CPI morning) + the BofA piece → `raw/2026-08-12-zh.txt`, `raw/2026-08-12-bofa.txt`.
+  ⟲ SUPERSEDES new-economy-regime.md:L2805 — the 44-45% is SEPTEMBER HIKE odds, not cut odds — the vault's own registered prediction is titled 'they raise rates before December'
+**Caught by the tape quoting itself: *"TRADERS KEEP BETS ON 45% CHANCE OF SEPTEMBER FED RATE HIKE."***
+
+#### ⛔ THE ERROR, NAMED AND SCOPED
+- **I WROTE "Sept-CUT odds" TWICE** — `new-economy-regime.md:L2805` and `:L2914`. **BOTH ARE WRONG. The
+  44% figure in the 8/10 week-ahead was SEPTEMBER **HIKE** ODDS.**
+- **THE VAULT'S OWN REGISTERED PREDICTION IS LITERALLY TITLED *"They raise rates before December"***
+  (`predictions/2026-07-30-fed-hike-before-december.md`) — **7/29 FOMC: 9-3 hold with THREE dissents ALL
+  FOR A HIKE (Hammack, Kashkari, Logan); nine members saw hikes this year; Waller flipped dove→hawk.**
+  ⇒ **The prediction file, the dissents and the auction were all pointing the same way and I read the
+  probability upside-down anyway.**
+- **⛔ AND IT MADE ME MANUFACTURE AN INFERENCE I DID NOT NEED.** On the payrolls entry I wrote that a weak
+  print with FALLING cut odds meant *"the market ranks inflation above employment."* **With the sign
+  corrected the behaviour is utterly ordinary: WEAK PAYROLLS ⇒ HIKE ODDS FALL.** **No exotic
+  interpretation required. The convoluted reading was the tell that the input was wrong.**
+
+#### DATA (observed — 2026-08-12)
+- **CPI: 0.1% MoM (exp 0.1%) · CORE 0.2% MoM (exp 0.2%) · 3.4% YoY (exp 3.4%) · CORE 2.5% YoY (exp
+  2.5%). IN LINE ON ALL FOUR.** ZH: *"Everything in-line."*
+- **⇒ GOLDMAN'S BELOW-CONSENSUS CALL MISSED; CONSENSUS NAILED IT.** GS had **+0.05% headline / +0.19%
+  core / 3.35% / 2.47%** ([[market-fragility]] L2495). **The print came in AT consensus, ABOVE GS.**
+- **THE COMPONENT GS LEANED ON FAILED SPECIFICALLY: motor-vehicle insurance −0.3% in July after −2.0%
+  in June.** GS had forecast *"the biggest drop in car insurance prices since covid"*; **ZH called that
+  in advance — *"would be great, if this was even remotely true"* — and ZH was right.**
+- **SHELTER 3.18% YoY (from 3.28%), +0.1% MoM. RENT 2.86% YoY — UP from 2.84% — +0.23% MoM.**
+  ⇒ **Shelter decelerating on the aggregate while RENT re-accelerated. The disinflation is in OER/imputed,
+  not in cash rent.**
+- **RATE PATH: *"Rate-Hike Odds Slide As US Consumer Price Inflation Slowest Since Pre-War"* — AND YET
+  *"TRADERS KEEP BETS ON 45% CHANCE OF SEPTEMBER FED RATE HIKE."***
+- **UBS: *"consistent with our view that US inflation peaked in May and is edging down, though that
+  slowing is likely to be uneven."***
+- **CRUDE INVENTORIES: +17.423MM vs exp −1.8MM — BIGGEST BUILD SINCE JAN 2023** (a ~19MM surprise).
+  **Gasoline −968K · Distillates −10K · Cushing +1.611MM · Production 13.805MM b/d (+1kb/d).**
+- **BofA: an 18-month initiative to *"mobilize and deploy"* $250B across US infrastructure** — digital
+  (data centres, computing, chips, semis, telecom), energy/power, and core (transport, transmission,
+  grid, water, critical minerals). **Days after MS's $1.5T/10yr.** Karen Fang, global head of
+  infrastructure and sustainable finance.
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ WITH THE SIGN FIXED, FOUR SEPARATE "SIGNALS" COLLAPSE INTO ONE VIEW: a 45% September HIKE
+  probability EXPLAINS (1) Hammack/Kashkari/Logan dissenting FOR a hike, (2) the 3Y clearing at 4.291%,
+  the highest since Feb 2025, (3) the 3y10y PAYER skew at multi-year highs — payers pay off when rates
+  RISE — and (4) hike odds falling on weak payrolls.** ⇒ **The swaption skew was never exotic. It is the
+  options market pricing the same hike the cash market and the committee are pricing.** **I filed it as
+  a mysterious signal because I had the rate direction inverted.** *(Analysis.)*
+- **📌 AND MY OWN NUMBER IS NOW CLEARLY TOO LOW — a calibration update I owe on the record. I registered
+  30% for a hike BEFORE December (two meetings) and 40% including December. THE MARKET IS AT 45% FOR
+  SEPTEMBER ALONE**, which implies **≥45% for "before December."** ⇒ **JAKE'S CALL IS BEING PRICED
+  BETTER THAN MY ESTIMATE OF IT.** ⚠️ **The prediction file is NEVER edited (standing rule); this is a
+  logged revision against it, not a rewrite.** *(Analysis.)*
+- **★★★ THE CPI PRINT IS THE BENIGN BOX, NOT THE MALIGN ONE — the 8/11 setup resolves DOVISH-ISH.**
+  In-line on all four with **shelter decelerating** means **no hot-CPI trigger for the yields-up-and-
+  stocks-down configuration.** ⚠️ **BUT THE MALIGN LEG IS NOT DEAD, IT IS DEFERRED: PPI lands tomorrow
+  with GS at +0.4% against +0.2% consensus — DOUBLE — and the $25bn 30Y prices after it.** **Today
+  removed one leg; tomorrow supplies the other.** *(Analysis.)*
+- **★★★★ THE CRUDE BUILD IS THE VAULT'S REFINERY THESIS PRINTING, NOT A DEMAND SIGNAL. +17.4MM of CRUDE
+  while GASOLINE AND DISTILLATES BOTH DREW is the exact signature of a REFINING bottleneck: crude piles
+  up because it cannot be processed, products draw because demand continues against constrained
+  output.** ⇒ **Consistent with the three-country refinery-strike pattern (Jazan 8/9 · Orsk · Zawiya) and
+  WSJ's *"the real oil squeeze is happening in refineries."*** **This is why the vault's registered gauge
+  is CRACK SPREADS, not flat price** ([[war/war-board]] 8/11). ⚠️ **One week, and a build that large can
+  be import-timing; do not build a trend on a single print.** 🚩 **The confirming series is refinery
+  UTILISATION, not inventories.** *(Analysis.)*
+- *(the financing pile, updated)* **NVDA $500B consortium + MS $1.5T/10yr + BofA $250B/18mo.** ⚠️ **These
+  are ANNOUNCEMENT numbers over different horizons and CANNOT be summed** — the vault's do-not-add rule
+  (L2895). **What IS comparable: three of the largest US financial institutions have made
+  capital-mobilisation announcements inside four days.** ⇒ **The flow datum is the CLUSTERING, not the
+  total.** [[ai-financing-fragility]] *(Analysis.)*
+**Links:** [[market-fragility]] · [[ai-financing-fragility]] · [[war/war-board]] · [[predictions]]
