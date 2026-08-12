@@ -414,3 +414,52 @@ Related: [[bull-bear-ledger]], [[median-line-dip]], [[buying-at-highs]], [[portf
   print, the thesis is *"the market expects a big move"* = **absolute IV**, and the ratio actively
   mislabels a name that just moved hard. Fixed in v2: absolute-IV flag, with IV/RV<0.75 relabelled
   **"the move already happened."** *(Analysis.)*
+
+### Addendum 2026-08-12 ~6:20pm PDT — ⛔⛔ THE v2 RUN REVERSES MY HEADLINE. THE PRINT DOES PAY — ONCE GATED.
+Source: Jake's v2 run, same 434 events. **The DRIFT-vs-EVENT panel I added is what overturns my own
+5:40pm conclusion**, which is exactly what it was built to test.
+
+#### DATA (observed — PRINT-window α, i.e. E+0 → E+1)
+| suppression | no vol gate | RV≥60% | RV≥70% |
+|---|---|---|---|
+| **≥70%** | **−0.27%** (n=156) | **+1.49%** (n=55) | **+1.13%** (n=38) |
+| **≥80%** | **−0.64%** (n=91) | **+0.54%** (n=32) | **+2.68%** (n=21) |
+| **≥90%** | **+0.02%** (n=54) | **+2.47%** (n=19) | **+3.63%** (n=15) |
+- **UNGATED α by suppression level:** ≥50% +2.33% · ≥60% +2.78% · ≥70% +2.80% · ≥80% +2.76% ·
+  ≥90% +3.10% · **≥95% +1.46%.**
+- **VOL-GATE LIFT (no gate → RV≥70%) by suppression:** ≥50% **+0.91pp** · ≥60% +1.53 · ≥70% +3.74 ·
+  ≥80% +5.72 · **≥90% +7.33pp** · ≥95% +3.31.
+- **|t| > 2 in 15 of 48 swept cells** (chance at 5% two-sided ≈ 2.4). Largest credible cell:
+  **supp≥60% × RV≥50%, n=98, α +5.63%, t +2.17.**
+- **BY YEAR, ungated trigger, marginal α:** 2021 +0.02 · 2022 −0.09 · 2023 +2.14 · **2024 −2.20** ·
+  2025 +3.59 · 2026 +2.31.
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ I WAS WRONG AT 5:40pm, AND THE ERROR HAS A NAME: I READ THE UNCONDITIONAL ROW AND STATED IT AS
+  THE CONDITIONAL RESULT.** "The earnings print pays nothing, exit at E+0" is true **only ungated**.
+  **In every suppression band the print's contribution RISES with the vol gate** — −0.27 → +1.49 →
+  +1.13 at ≥70%, −0.64 → +0.54 → **+2.68** at ≥80%, +0.02 → +2.47 → **+3.63** at ≥90%. **Jake's
+  original spec — "buy it then and THROUGH earnings" — is vindicated in the gated cells, and my
+  correction of it was the thing that needed correcting.** *(Same failure class as the single-path
+  simulation this morning: generalising from one row to a structure.)*
+- **★★★ THE SUPPRESSION GATE IS INERT ON ITS OWN, AND THE SIMULATION PREDICTED IT.** Ungated α is
+  **flat from ≥60% to ≥90% (+2.78 → +3.10)** and *worse* at ≥95%. **That is exactly what a metric with
+  a 62% null does: ≥60% is barely a filter.** ⇒ **The trigger by itself is not the edge and never was
+  — t = +1.48 said so.** *(Analysis.)*
+- **★★★★ WHAT IS REAL IS THE INTERACTION, AND IT IS MONOTONE ACROSS FIVE LEVELS.** The vol gate's lift
+  **grows with suppression: +0.91 → +1.53 → +3.74 → +5.72 → +7.33pp.** **Neither leg works alone;
+  together they compound.** Mechanistically coherent — *a beaten-down name the market expects to move
+  is a different object from a beaten-down name nobody is pricing a move in.* **This is the part of
+  Jake's construction that survives, and it is his ORIGINAL two-condition design, not either half.**
+- **⚠️ 15 of 48 cells clear |t|>2 against ~2.4 expected — BUT THE CELLS ARE NESTED** (≥95%⊂≥90%⊂…,
+  RV≥90⊂RV≥80⊂…), so this is nowhere near 48 independent tests; the effective count is ~4-6.
+  **Suggestive well beyond nesting-plus-noise. Not proof, and no holdout exists.**
+- **⛔ AND A DEFECT IN MY OWN v2: THE BY-YEAR PANEL TESTED THE WRONG LEG.** It ran the **ungated**
+  trigger — the leg just shown to be inert — so its verdict ("marginal α positive in 3 of 6 years,
+  −2.20% in 2024") is a verdict on the part that does nothing. **The regime question is still OPEN.**
+  🚩 v3 now runs by-year on **three** legs: trigger-only, vol-gate-only, and BOTH. **If BOTH beats
+  trigger-only in most years the interaction is real; if all three wander together it is the tape.**
+- **⚠️ THE REGIME WORRY IS NOT RETIRED, ONLY RE-AIMED.** The universe base rate rises through the
+  sample (2021 −0.95% → 2026 +6.52%), and the three years the ungated trigger "worked" (2023/25/26)
+  are the three highest-base-rate years. **Until the gated leg is tested by year, the honest position
+  is that the interaction is real IN SAMPLE and its regime-dependence is unmeasured.** *(Analysis.)*
