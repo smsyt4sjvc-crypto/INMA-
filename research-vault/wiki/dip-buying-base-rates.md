@@ -356,3 +356,61 @@ test — not that he does not already own it.**
 
 ### Sources
 - `tools/dip_permutation_test_cell.py` — full run pasted by Jake, 2026-07-31 ~8:03pm PT
+
+## 2026-08-12 ~5:40pm PDT — ★★★★ JAKE'S PRE-EARNINGS 20-SMA SETUP RUNS: THE MOVE IS BEFORE THE PRINT, NOT AT IT
+Source: `tools/preearnings_sma20_cell.py` run by Jake in Colab. **434 usable earnings events, 22 names
+of the 2nd-order basket ([[ai-infra-allocation-map]]:L161), 2020-11-18 → 2026-08-05.** Setup = LOW pierces
+SMA20 on ≥70% of trading days [E−45, E−15), enter E−15 close, hold through the print.
+Related: [[bull-bear-ledger]], [[median-line-dip]], [[buying-at-highs]], [[portfolio-state]].
+
+### DATA (observed — the run)
+- **Suppression distribution:** p10 17% · p25 37% · **p50 60%** · p75 76% · p90 90%. A 70% gate keeps
+  **156 of 434 (36%)**. *(The empirical median 60% sits right on the simulated driftless null of ~62% —
+  the pre-run simulation was calibrated.)*
+- **CONTROLS:** ALL 434 events α **+2.04%**, win 54% · TRIGGERED (≥70%) n=156 α **+2.80%**, win 58% ·
+  NOT triggered n=278 α **+1.61%**, win 52%. **Triggered − not = +2.65% raw, t = +1.48.**
+- **BOTH SWEEPS MONOTONE.** At supp ≥70%: no gate α +2.80% (n=156) → RV≥50% +6.06% (n=68) →
+  RV≥70% **+6.54%** (n=38) → RV≥80% +5.61% (n=24) → RV≥90% +4.50% (n=14).
+- **HOLD HORIZON, triggered ≥70%, n=156:** E+0 α **+3.07%** · E+1 α **+2.80%** · E+3 +2.92% · E+5 +3.20%.
+- **DROP-THE-BEST-NAME:** removing NBIS (n=1, +63.1%) moves the mean only **+4.89% → +4.52%.**
+- **PER-NAME dispersion, triggered:** IREN +16.9 (n=6), NVDA +16.0 (n=9), GFS +15.4 (n=9) … versus
+  RIVN **−7.8** (n=9), TSM −1.8 (n=8), MP −1.6 (n=9), QRVO −0.1 (n=9).
+- **LIVE, 8/12:** MU 93% suppressed (30d to ER, RV 108%, IV 64%) · IREN 93% (11d, RV 164%, **IV 85%**) ·
+  RNW 87% (4d, IV 39%) · ORCL 67% · NVDA 63% (10d) · AVGO 57%.
+
+### THESIS (interpretation — NOT fact)
+- **★★★★★ THE FINDING THAT REFRAMES THE IDEA: THE EARNINGS PRINT PAYS NOTHING. α is +3.07% by E+0 and
+  +2.80% by E+1 — the announcement GIVES BACK 0.27pp**, and E+1→E+5 adds only +0.40pp. **The entire
+  move is already in the 15 days BEFORE the report.** ⇒ **This is a pre-announcement DRIFT trade that
+  Jake has specified as an earnings trade.** *(Analysis.)* **Carrying the print is uncompensated
+  variance** — same shape as the vault's standing options finding, arrived at from the share side.
+  🚩 **The exit belongs at E+0, and the v2 cell now decomposes PRE / PRINT / POST explicitly.**
+- **⛔ THE TRIGGER ALONE IS NOT SIGNIFICANT AND MUST NOT BE QUOTED AS IF IT WERE. t = +1.48.** The
+  vault's own rule: |t| < 2 on this sample is noise. **The honest statement is that the 70% suppression
+  gate, by itself, does not separate.** *(Analysis.)*
+- **★★★ WHAT *IS* REAL IS THE INTERACTION, AND IT IS BIGGER THAN EITHER LEG.** Decomposed against the
+  universe base: suppression alone **+0.76pp** · vol gate alone (supp≥50% × RV≥70%) **+1.20pp** ·
+  **both together +4.50pp** ⇒ **interaction +2.54pp.** **Beaten-down AND volatile is not the sum of
+  beaten-down and volatile.** That is the part of Jake's construction that survives. *(Analysis.)*
+- **⚠️ BUT THE UNIVERSE'S OWN BASE RATE IS DOING MOST OF THE WORK, AND IT IS A REGIME FACT.**
+  **Every event, unfiltered, earns α +2.04% over ~16 trading days with a 54% win rate.** Four prints a
+  year ⇒ **~8% α/yr per name for simply holding these 22 names through their earnings windows.** That is
+  **the 2020-2026 AI/semi tape**, not a setup. 🚩 **The per-year MARGINAL column (v2) is the test that
+  decides it:** if the trigger only adds in 2023-24, the "setup" is the era. *(Analysis.)*
+- **⛔ THE 100%-WIN CELLS ARE THE NULL, NOT THE RESULT.** At a 55% base rate, P(6/6) = 2.8%; across a
+  48-cell sweep you EXPECT ~1.3 such cells. **supp≥90% × RV≥90% (n=6, 100%) and supp≥80% × RV≥90%
+  (n=7, 100%) are exactly what multiple testing manufactures.** The n=13 at 92% is the only tail cell
+  that is even mildly unusual — and it is nested inside the others, not independent. **Read the SHAPE
+  of the monotonicity, never the corner cell.** *(Analysis.)*
+- **⚠️ THE WINNERS ARE THE AI-THESIS NAMES AND THE LOSERS ARE THE OFF-THESIS ONES — the same split
+  [[ai-infra-allocation-map]] flagged in the basket on 7/31.** IREN/NVDA/GFS/AMAT/MU carry it; **RIVN
+  (−7.8), MP, QRVO, SWKS drag** — precisely the ~16.5% the vault called *"arguably off-thesis"* (EV,
+  materials, handset RF). ⇒ **The setup may be selecting "high-beta AI name in an AI bull market"
+  rather than "beaten-down name mean-reverts."** The drop-the-best-name test rules out ONE name
+  carrying it; **it does not rule out one THEME carrying it.** 🚩 *(Analysis.)*
+- **⛔ AND A CORRECTION TO MY OWN LIVE SCREEN: "IV not rich" WAS THE WRONG LABEL.** It fired on IV/RV<1
+  — but **IREN printed ATM IV 85%, enormous in absolute terms**, and only scored low because its
+  REALISED vol was 164% after a huge move. **IV/RV is the option-SELLER's gauge.** Buying SHARES into a
+  print, the thesis is *"the market expects a big move"* = **absolute IV**, and the ratio actively
+  mislabels a name that just moved hard. Fixed in v2: absolute-IV flag, with IV/RV<0.75 relabelled
+  **"the move already happened."** *(Analysis.)*
