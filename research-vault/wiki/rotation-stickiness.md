@@ -159,3 +159,69 @@ Related: [[market-fragility]], [[concentration]], [[new-economy-regime]], [[deta
 - *(test link)* Bears on the [[quiet-health-screen]] basket-vs-SPY benchmark: HFs just re-bought chips.
   Chips re-sold into this bounce while the basket holds → rotation sticky; V-bounce holds → base rate
   wins. The next 2 weekly GS Prime prints = the scoreboard.
+
+## 2026-08-12 ~8:40pm PDT — ★★★★ QUARTERLY REGIME GAUGE, FIRST REAL RUN: NOTHING PREDICTS THE NEXT QUARTER, AND "WHICH ARCHETYPE WINS" WAS THE WRONG QUESTION
+Source: `tools/quarterly_regime_gauge_cell.py`, Jake's Colab run. 99 large caps + SPY, 12 complete
+quarters 2023Q3–2026Q2 (+2026Q3 partial, excluded). Rebuild of the Drive `watchlist_screener`.
+Related: [[bull-bear-ledger]] · [[concentration]] · [[market-fragility]] · [[where-the-edge-is]] · [[buying-at-highs]]
+
+### DATA (observed — the run)
+- **ARCHETYPE RACE, quarters won:** mean_revert 6 · momentum 5 · trend_follow 1 · **buy_hold 0 ·
+  vol_harvest 0.**
+- **⛔ CUMULATIVE (the scoreboard the run did NOT print — computed after):**
+  | archetype | cumulative | ann. | mean/q | sd/q | **Sharpe** | worst q |
+  |---|---|---|---|---|---|---|
+  | mean_revert | **+106.2%** | 27.3% | +6.42% | 6.64% | 0.97 | −1.23% |
+  | buy_hold | +76.7% | 20.9% | +4.92% | 3.68% | **1.34** | −0.69% |
+  | trend_follow | +73.5% | 20.2% | +4.75% | 3.34% | **1.42** | −0.08% |
+  | momentum | +46.2% | 13.5% | +3.40% | 6.24% | 0.55 | −6.67% |
+  | **vol_harvest** | **−0.4%** | −0.1% | −0.03% | 0.65% | −0.05 | −1.43% |
+- **mean_revert's 4 best quarters (23Q4, 24Q3, 25Q2, 26Q3*) = +61.0pp of its +77.0pp total = 79%.**
+  Excluding them it averages **+2.01%/q vs buy_hold's +3.43%.** ⚠️ one of the four is the PARTIAL quarter.
+- **vol_harvest negative in 8 of 12 quarters**, max +1.14%.
+- **DISPERSION ROSE 1.29 → 2.17 %/day (+68%) across the sample; corr(dispersion, TIME) = +0.89.**
+- **PERSISTENCE (a):** only dispersion cleared — AR(1) **+0.85, shuffle p=0.000**. Every other metric
+  p>0.29. **AR(1) of dispersion's FIRST DIFFERENCES = +0.17.**
+- **PERSISTENCE (b):** `eff_ratio(Q) → momentum−meanRevert spread(Q+1)`, **r = +0.718, n=10**;
+  shuffle p **0.023**; **family-wise across the 6 metrics tested p = 0.128**; leave-one-out r spans
+  **+0.66 … +0.83**.
+- **PERSISTENCE (c):** winner repeats **6 of 11 (55%)**; shuffle-null mean 4.16; **P = 0.187.**
+
+### THESIS (interpretation — NOT fact)
+- **★★★★★ "WHICH ARCHETYPE WINS" IS THE WRONG QUESTION, AND IT INVERTED THE ANSWER.** mean_revert won
+  **6 of 12 quarters and buy_hold won ZERO** — yet buy_hold's Sharpe is **1.34 vs 0.97**, and
+  **trend_follow's is 1.42 on the SMALLEST drawdown (worst quarter −0.08%)**. **Cross-sectional legs
+  have fatter tails, so they take more quarters AND give more back: the winner-count measures VARIANCE,
+  not skill.** *(Analysis. The same shape as the pre-earnings sweep earlier today — a count that looks
+  like evidence and is actually dispersion.)*
+- **★★★ AND MEAN REVERSION'S APPARENT WIN IS FOUR QUARTERS.** 79% of its return is its best four, one
+  of which is an INCOMPLETE quarter. **Strip them and it UNDERPERFORMS buy-and-hold (+2.01 vs +3.43
+  %/q).** ⇒ **Mean reversion here is a fat-tailed lottery, not a steady edge** — and that is exactly
+  the profile [[where-the-edge-is]] says not to confuse with getting paid to bear risk.
+- **★★★★ VOLATILITY HARVESTING IS FLATLY DEAD IN THIS TAPE: −0.4% CUMULATIVE OVER THREE YEARS**,
+  negative in 8 of 12 quarters. **This was PREDICTED by the unit test** (rebalancing is a drag in a
+  trend because it sells the winner) and the tape has trended. ⇒ **The rebalancing premium is not
+  available in a market this trend-dominated. That is a clean, useful NO.** *(Analysis.)*
+- **⛔⛔ THE ONE METRIC THAT "PERSISTED" IS A TREND, NOT A REGIME — AND THE SHUFFLE NULL CANNOT SEE IT.**
+  Dispersion posted AR(1) **+0.85, p=0.000** — but **corr(dispersion, TIME) = +0.89 and the AR(1) of
+  its first differences is +0.17.** **Shuffling destroys ORDER, so any monotone drift scores as
+  enormous persistence.** **This is a SECOND false-positive class after breadth's window overlap, and
+  my null did not catch it.** Fixed: every metric now also reports corr-with-time and the differenced
+  AR(1). *(Analysis. The general rule: a null that randomises order tests "is there structure", not
+  "is the structure a REGIME".)*
+- **★★ BUT THE DISPERSION TREND IS ITSELF THE MOST INTERESTING NUMBER IN THE RUN, AS A FACT RATHER
+  THAN A SIGNAL: single-stock dispersion has risen 68% in three years.** Names are pulling apart. That
+  is the measurable form of what [[concentration]] and [[ai-capex-cycle]] describe narratively, and it
+  says **selection matters more now than in 2023** — which is a statement about opportunity, not about
+  timing. 🚩 **Register: does dispersion keep rising, and does it break when the AI complex does?**
+- **⛔ NOTHING SURVIVES AS A PREDICTOR OF THE NEXT QUARTER.** The winner sequence has no memory
+  (**p=0.187** — 55% repeats against a shuffle mean of 4.16/11). The best candidate,
+  **efficiency ratio → next-quarter momentum tilt (r=+0.718)**, is mechanistically sensible (a cleanly
+  trending quarter is followed by a momentum-friendly one) and **leave-one-out STABLE (+0.66…+0.83,
+  so not one point)** — **but six metrics were tested and its family-wise p is 0.128.**
+  ⇒ **A REGISTERED TEST, NOT A FINDING.** 🚩 **Re-run at N_QUARTERS ≥ 20; if it holds there it is
+  real.** *(Analysis. Descriptive — rule 7.)*
+- **⚠️ THE HONEST SUMMARY FOR THE BOOK: over these 12 quarters the risk-adjusted winner was
+  TREND-FOLLOWING and the second was DOING NOTHING.** Both beat every clever cross-sectional leg on
+  Sharpe. **That is the same answer [[how-to-get-paid]] and [[seeing-vs-predicting]] already carry**,
+  reached from a fifth independent direction. *(Analysis.)*
