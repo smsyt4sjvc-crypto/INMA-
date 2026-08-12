@@ -2194,3 +2194,72 @@ Source: Silicon Data's own published 3-index chart + Peter Walker's OpenRouter s
   NOT 10× demand growth**, and the gap between them is entirely unmeasured here. ⬜ **The single most
   valuable missing series.** *(Analysis.)*
 **Links:** [[compression-thesis]] · [[cepi]] · [[ai-financing-fragility]] · [[power-not-petroleum]] · [[portfolio-state]]
+
+### 2026-08-12 ~12:15am PDT — ★★★★★ THE CRWV CALL DETAIL LANDS: it RESOLVES the debt-cost contradiction I filed 90 minutes ago, CONFIRMS the power thesis from the operator side — and its two strongest claims both measure DURATION where PRICE is the question
+Source: Jake's detailed breakdown of the CRWV Q2 call (reported 8/11 after close; filed 8/12 ~12:15am).
+⚠️ **ARTIFACT TEST: a breakdown OF the call, not the transcript. Figures below are as-relayed.**
+
+#### DATA (as-relayed from the call)
+- **A100 CONTRACTS RUNNING THROUGH 2029** — a five-year-old chip still taking long-dated commitments.
+- **~25% ACROSS-THE-BOARD PRICE INCREASE IN JULY**, after margins were already improving.
+- **VERA RUBIN driving most of the new margin gains.**
+- **★ MANAGED INFERENCE ARR: ~$1M → $100M+ IN ONE QUARTER; >$250M expected by year-end.**
+- **★★ POWER: 300+ MW ACTIVATED IN JUNE ALONE** (more than any prior full quarter); **4.2 GW UNDER
+  CONTRACT + 1.5 GW in options/LOI.**
+- **★★ AVERAGE DEBT COST DOWN ~300bp YoY ⇒ ~$1.1B/YEAR of interest saved.**
+- **Adjusted EBITDA margin ~59% (CRWV) vs ~45% (NBIS last quarter). NBIS owns >75% of its contracted
+  power** vs CRWV's colocation route (Core Scientific).
+
+#### ⛔ THE CONTRADICTION THIS RESOLVES — and it was mine, filed 90 minutes earlier
+- **At 12:05am I filed: interest = 24.9% of revenue, 5.0× adjusted operating income, and cited the WSJ's
+  $2.6B facility clearing 125bp WIDE of guidance.** **This says average debt cost FELL ~300bp YoY.**
+  ⇒ **BOTH ARE TRUE AND THEY MEASURE DIFFERENT THINGS: the AVERAGE cost of the debt STOCK fell (refis,
+  maturing expensive paper, better terms) while the MARGINAL new facility priced WIDE OF ITS OWN
+  GUIDANCE.** **Average improving, marginal disappointing versus expectation.** ⇒ **The equity/credit
+  divergence I filed still stands, but it is narrower than I put it: credit is repricing at the MARGIN,
+  not repudiating the name.** *(Analysis. Partial self-correction.)*
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ CREDIT WHERE IT IS DUE: THE POWER ARGUMENT IS THIS VAULT'S OWN THESIS, CONFIRMED FROM THE
+  OPERATOR SIDE. "Power, not chips, is the real bottleneck and the real moat"** — and today's Census pull
+  measured the same thing from the other end: **data-centre construction at an all-time record (+45.8%
+  YoY) while ELECTRIC construction grows only 4-5%** ([[power-not-petroleum]] 8/11). **4.2 GW contracted
+  is the operator-side print of the constraint.** *(Analysis.)*
+- **⚠️ AND THE ARITHMETIC INSIDE IT THAT NOBODY RAN: 4.2 GW of contracted power, filled at even ~$30B/GW
+  of compute, implies ~$126B OF CAPEX — MORE THAN THE $104.2B BACKLOG IT WOULD SERVE.** ⚠️ Rough: the
+  power fills over years, backlog grows, and the $/GW figure is itself disputed ([[ai-financing-fragility]]
+  L4271). **But the ratio is the question the call did not answer: is contracted power an ASSET or a
+  CAPEX OBLIGATION?** 🚩 **ASK: capex required to energise the 4.2 GW, and how much is committed.**
+- **⛔ THE A100-THROUGH-2029 CLAIM MEASURES CONTRACT DURATION WHERE THE QUESTION IS PRICE. A contract
+  running to 2029 tells you the chip is still USED. It tells you NOTHING about the RATE.** **Steeply
+  discounted A100 hours through 2029 are fully consistent with FAST economic depreciation — you keep
+  monetising a wasting asset at a falling price.** ⇒ **⬜ THE MISSING NUMBER: $/GPU-hour on A100
+  contracts vs current-generation rates.** ⚠️ **And note whose argument this is: HUANG MADE THE IDENTICAL
+  ONE ON 8/10** (*"customers are still using old-generation chips, a sign the hardware maintains its
+  value"*) — **the party that sets the obsolescence rate, arguing the asset does not obsolete.**
+  *(Analysis.)*
+- **★★★★ THE MARGIN CLAIM CONTAINS ITS OWN REFUTATION, AND THE AUTHOR STATES IT: if margin gains come
+  from being FIRST on new hardware, and "that edge resets every year or so," THEN THE MARGIN IS NOT
+  HARVESTABLE — IT IS BORROWED FROM THE NEXT CAPEX CYCLE.** ⇒ **A 59% EBITDA margin sustained by
+  perpetual re-equipping is a capex treadmill wearing a margin's clothes.** **The test is not this
+  quarter's margin; it is whether margin holds through a generation in which CRWV is NOT first.**
+  *(Analysis.)*
+- **⚠️ THE 25% PRICE HIKE, WEIGHED AGAINST INPUT INFLATION RATHER THAN AGAINST ZERO: GPU rentals
+  +35-38%, data-centre construction +45.8% YoY, memory tight into the Sep-end contract print.** **A 25%
+  price increase into 35-45% input inflation is INCOMPLETE PASS-THROUGH, not pricing power** — **unless
+  margin expands anyway, which it did (59%).** ⇒ **CONCEDED PARTIALLY: the margin expansion is real. But
+  it is attributed to VERA RUBIN (better silicon), not to the price hike — which puts it back in the
+  borrowed-margin bucket above.** *(Analysis.)*
+- **★★★ THE INFERENCE NUMBER IS THE MOST IMPRESSIVE GROWTH RATE AND THE SMALLEST BASE. $100M ARR ≈ $25M
+  a quarter against $2,575M of revenue = ~1%.** **Spectacular slope, trivial level.** ⇒ **And it moves
+  CRWV UP THE STACK INTO INFERENCE ON THE SAME DAY META COMMITTED TO A DYNAMIC AUCTION GUARANTEEING
+  "the lowest price possible" for inference** (8/11, this note). ⇒ **THE MARGIN CRWV IS CLIMBING TOWARD
+  IS THE MARGIN THE LARGEST PLAYER JUST ANNOUNCED IT WILL COMPETE TO ZERO.** 🚩 **Watch inference GROSS
+  MARGIN, not ARR.** *(Analysis.)*
+- **📌 REGISTERED FOR GRADING TOMORROW (Jake's/the author's call, verbatim): "if Nebius shows the same
+  pattern of newer chips lifting margins and inference revenue taking off, then they will also run up
+  10-20%."** **Dated, falsifiable, gradeable at Wednesday's close.** ⚠️ **The prediction embeds a
+  conditional — grade BOTH legs: did NBIS show the pattern, AND did the stock move 10-20%?** **A right
+  call on the fundamentals with a wrong price outcome is the more instructive result.**
+  *(Rule 7: registered for calibration, not endorsed.)*
+**Links:** [[ai-financing-fragility]] · [[power-not-petroleum]] · [[cepi]] · [[compression-thesis]]
