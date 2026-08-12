@@ -105,6 +105,7 @@ SCAFFOLDING behind conclusions this vault has been carrying for weeks, not new t
   version needs an exogenous event source (WARN filings / Layoffs.fyi), which makes it a real build, not a
   rerun. *(Analysis.)*
 - **★ WHAT IS WORTH SALVAGING, RANKED — and the ranking is by what the VAULT lacks, not by code quality.**
+  ⟲ SUPERSEDED 2026-08-12 → colab-archive-audit.md:L175 — salvage was ranked by what the vault lacks — wrong axis for backtests; re-ranked on backtest validity (holdout, costs, benchmark, sample)
   1. **`body_momentum_carry`** — unrun, and it closes a 26-day-old registered question. Cheapest real win.
   2. **`mean_reversion_screener`** — the only tool here that measures a name's *behaviour* (Hurst,
      half-life, lag-1 autocorr, R² to SPY) rather than its level. Nothing in `tools/` does this, and it
@@ -169,3 +170,91 @@ SCAFFOLDING behind conclusions this vault has been carrying for weeks, not new t
   `structural-pull-log.md:111,139` · `buying-at-highs.md` · `ath-clustering.md:25-27`
 - Reachability tests 2026-08-12 ~2:35pm PDT: Yahoo chart API HTTP 429 (both hosts, with and without
   browser UA); stooq.com connection failure.
+
+---
+
+## 2026-08-12 ~3:05pm PDT — ⛔ RE-GRADED ON THE RIGHT AXIS: THESE ARE TRADING BACKTESTS, NOT RESEARCH ARTIFACTS
+  ⟲ SUPERSEDES colab-archive-audit.md:L107 — salvage was ranked by what the vault lacks — wrong axis for backtests; re-ranked on backtest validity (holdout, costs, benchmark, sample)
+
+Jake, 2026-08-12: *"It's all python code / Colab trading backtests."* **He is right and the audit above
+graded them on the wrong criterion.** I ranked salvage by *"what does the vault lack"* — a research-archive
+question. **For a backtest the only question that matters is whether the backtest LIES.** Re-read all 14
+backtest/screen notebooks against the standard defect list. *(Analysis. Concede.)*
+
+### DATA (observed — verified in the source, not inferred from filenames)
+- **ZERO of the 14 implement a train/test split, walk-forward, or any out-of-sample validation.** Not one.
+  ⚠️ **Two of my own first-pass regex hits were FALSE POSITIVES and are corrected here:**
+  `bb squeeze pop scanner`'s "walk-forward validation" is item 5 on a **markdown TODO list** ("Next
+  Iterations"), not code; `kalshi edge finder v2`'s hit was the variable name `sample_markets`.
+- **Costs/slippage modelled: 4 of 14.** `BB10_2_EndToEnd` (5 bps/side, fees=0), `mean_reversion_screener`,
+  `btc 2x strategy eval`, `Layoff` (benchmark only). **The other 10 model zero friction.**
+- **Benchmark/buy-and-hold comparison: 4 of 14** (`bb squeeze pop`, `mean_reversion_screener`, `Layoff`,
+  `csp_screen`). **`EMA5` — the most trade-intensive strategy here — has none.**
+- **`EMA5_TP7_SL4_Backtest*` config:** `TICKERS = ["STX","MU","WDC","MRVL","CRDO"]`, `LOOKBACK_MONTHS = 6`,
+  `TP_PCT = 7.0`, `SL_PCT = 4.0`, `MAX_HOLD_DAYS = 30`, immediate rebuy, `auto_adjust=False`,
+  `end = pd.Timestamp.today()`.
+- **`BB10_2_Squeeze_SP500_EndToEnd_NoDrive.ipynb` does not contain a squeeze backtest.** Its settings are
+  `LONG_TICKER="BITX"` / `SHORT_TICKER="BTCZ"` / `PERIOD="3mo"` / `MA_N=10` — **it is the BTC 2× leveraged
+  strategy.** Filename and content disagree.
+- **`BB10_2_Squeeze_SP500_Filters_ForwardReturns` filters HISTORICAL squeeze events on CURRENT
+  `trailingPE`** — stated plainly in its own markdown twice ("not historical as-of event date").
+
+### THESIS (interpretation — NOT fact)
+- **⛔⛔ THE WORST DEFECT IS IN `EMA5`, AND IT IS NOT ON THE STANDARD LIST — IT IS CONSERVATISM THEATRE.**
+  The notebook advertises one conservative assumption loudly (*"If both TP and SL hit same day, assume STOP
+  first"*) while making a much larger optimistic one silently: **the stop FILLS AT EXACTLY `entry×0.96`
+  whenever `low <= sl_price`.** A limit order at +7% genuinely fills when the high trades through it — that
+  side is fair. **A stop does not: it becomes a market order and gaps.** So **TP fills are realistic and SL
+  fills are fictional, in the same engine.** The advertised conservatism is about *sequencing within a day*;
+  the unadvertised optimism is about *price*, and it is the bigger of the two by an order of magnitude.
+  **A backtest that names its small conservatism and not its large optimism reads as careful and is not.**
+- **★ THE ARITHMETIC THAT MAKES THE WIN RATE UNINFORMATIVE: TP 7 / SL 4 has a breakeven win rate of
+  4/11 = 36.4%.** Any dip-buy rule in an uptrend clears that easily, so **a high win rate here is evidence
+  of the payoff ratio, not of the signal.** The number that would be informative — expectancy net of costs
+  against buy-and-hold on the same five names over the same six months — **is exactly the number the
+  notebook does not compute.**
+- **⛔ AND THE UNIVERSE AND WINDOW ARE BOTH SELECTED AFTER THE FACT.** Five memory/storage names
+  (STX, MU, WDC, MRVL, CRDO) over *the trailing six months* — the strongest stretch that complex has had,
+  and the exact names [[memory-regime-question]] exists to track. **A long-only dip-buy on a basket that
+  went vertical will print a good hit rate no matter what the rule is.** With no benchmark leg, the
+  notebook cannot distinguish its signal from the beta it was pointed at.
+- **⚠️ THREE MECHANICAL BUGS UNDER THAT, each individually small:** (1) **`auto_adjust=False`** means
+  unadjusted OHLC — **dividend ex-dates inject synthetic price drops straight into a −4% stop**, and STX/MU/
+  WDC pay dividends; (2) `end = pd.Timestamp.today()` makes the window **slide with the run date**, so no
+  two runs are the same experiment and no result is reproducible; (3) zero costs against **immediate
+  rebuy + a 30-day max hold**, i.e. the highest-turnover design in the folder is the one modelling no
+  friction. At ~0.1% round-trip spread, ~15 round trips per name over six months is ~1.5% of capital —
+  material against a 7% target.
+- **⛔ THE 3-MONTH BTC 2× TEST IS BELOW THE SAMPLE FLOOR AND SHOULD NOT BE READ AT ALL.** `PERIOD="3mo"`
+  ≈ 63 daily bars; a 10-day MA signal on 63 bars yields single-digit round trips **on a 2× leveraged pair
+  where volatility decay is the dominant term over any horizon longer than the test.** Ironically this is
+  one of the four notebooks that *does* model slippage — **careful execution assumptions wrapped around an
+  unfalsifiable sample.** *(The general shape: the notebooks that model costs are testing the wrong things,
+  and the notebook testing the most interesting thing models no costs.)*
+- **★★ WHERE THE FOLDER IS ACTUALLY STRONGEST IS THE PART THAT ISN'T A BACKTEST.**
+  `mean_reversion_screener` measures a name's *behaviour* — lag-1 autocorrelation, Hurst, reversion
+  half-life, R² to SPY — over a 2y S&P-100 sample, models costs, benchmarks against buy-and-hold, and its
+  markdown states the killer limit itself: *"behaviour is NOT stationary… MU almost certainly screened as a
+  clean mean-reverter at \$400, right before its 4×."* **That is the one notebook here whose honesty box
+  names the failure mode that would actually kill it.** Its Stage-2 bracket backtester still has no
+  out-of-sample split, but **its Stage 1 is a measurement, not a strategy, and measurements do not overfit.**
+- **★★★ THE STRUCTURAL VERDICT, AND IT IS ONE SENTENCE: the folder has no HOLDOUT anywhere, so every
+  performance number in it is in-sample by construction.** Combined with the earlier finding that five files
+  named `Call Put Scanner v5` hold five different bodies, **the archive is a record of iterating a rule
+  against a fixed dataset until it looked good, with no mechanism that could ever tell you that you had.**
+  **That is not a code-quality problem and no amount of debugging touches it.** [[momentum-extrapolation-backtest]]
+  and [[deep-value-reclaim]] are the vault's own examples of the honest version — both reported the result
+  that killed the idea (hit 27.5%; "survivorship-flattered, worse Sharpe than SPY"). *(Analysis.)*
+- **🚩 THE ONE CHEAP FIX THAT WOULD CHANGE EVERY NUMBER IN THE FOLDER: add a benchmark leg and a date split.**
+  For `EMA5` specifically: run the identical rule on the same five names, then run buy-and-hold on the same
+  five names over the same window, and report the difference — **and split the window in half, fit nothing
+  on the second half.** That is a config change and about twenty lines, not a rebuild.
+
+### ⬜ NOT-KNOWN (backtest leg)
+- ⬜ **EMA5's actual expectancy versus buy-and-hold** on its own universe/window. Not computable here —
+  Yahoo returns HTTP 429 to this container. **Colab run.**
+- ⬜ Whether the stop-fill optimism is material at these names' gap frequency — measurable as
+  *"how often did the open gap through `entry×0.96`?"*, one column in the same loop.
+- ⬜ Whether any of the five `Call Put Scanner v5` forks was ever backtested at all. **Its own markdown says
+  not:** *"V4 z-score composite is computed in parallel for reference but does not drive the signal until
+  backtested."* **The scoring engine driving the output is the un-backtested one.**
