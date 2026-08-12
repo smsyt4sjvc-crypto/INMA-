@@ -2263,3 +2263,50 @@ Source: Jake's detailed breakdown of the CRWV Q2 call (reported 8/11 after close
   call on the fundamentals with a wrong price outcome is the more instructive result.**
   *(Rule 7: registered for calibration, not endorsed.)*
 **Links:** [[ai-financing-fragility]] · [[power-not-petroleum]] · [[cepi]] · [[compression-thesis]]
+
+### 2026-08-12 ~10:45am PDT — 📌 NBIS Q2 GRADED (leg 1 of 2): THE MARGIN CONDITIONAL CONFIRMS — and the EBITDA beat is 40% against a revenue beat of 2%
+Source: Jake's metrics table. **Grades the prediction registered 8/12 ~12:15am** (*"if Nebius shows the
+same pattern of newer chips lifting margins and inference revenue taking off, then they will also run up
+10-20%"*), **under the hazard flagged at 8:45am: NBIS was already +8% premarket on CRWV sympathy, so the
+price leg must be graded FROM THE PREMARKET LEVEL, not Tuesday's close.**
+
+#### DATA (observed)
+| Q2 metric | actual | street |
+|---|---|---|
+| Revenue | **$582.3M** | ~$571-573M (**beat ~1.6-2%**) |
+| **Adj. EBITDA** | **$236.2M** | **~$168.9M (BEAT +39.8%)** |
+| AI-cloud revenue | **$575M** | — |
+| AI-cloud adj. EBITDA margin | **~50%** | — |
+| AI-cloud ARR | **$3.0B** | — |
+
+#### THESIS (interpretation — NOT fact)
+- **📌 LEG 1 CONFIRMED: "newer chips lifting margins" IS in the print. AI-cloud adj. EBITDA margin ~50%
+  versus ~45% last quarter** (the 8/12 comparison) ⇒ **+5pp in one quarter**, closing the gap to CRWV's
+  ~59% from **14pp to 9pp.** ⬜ **LEG 2 — "inference revenue taking off" — IS NOT IN THIS TABLE.**
+  **Token Factory is not broken out.** **Half the conditional is untested.** 🚩 **FETCH the Token Factory
+  line.**
+- **★★★★ THE SHAPE OF THE BEAT IS THE FINDING: revenue beat ~2%, ADJ. EBITDA BEAT ~40%.** ⇒ **This is
+  almost entirely MARGIN, not volume.** **Demand came in as expected; profitability came in far ahead.**
+  **That is operating leverage arriving, and it is the cleanest instance of it in the neocloud complex
+  so far.** *(Analysis.)*
+- **★★★ NEBIUS IS NOW A PURE NEOCLOUD AND THE DIVERSIFICATION STORY IS GONE: AI-cloud is $575M of
+  $582.3M = 98.7% of revenue.** Avride/Toloka/TripleTen are ~$7M combined. ⇒ **Any "optionality"
+  valuation argument on the non-cloud assets is now rounding error.** *(Analysis.)*
+- **AI-CLOUD ARR $3.0B against Q2 AI-cloud revenue annualising to ~$2.3B ⇒ ARR sits ~30% ABOVE the
+  current run-rate**, i.e. exit-momentum, not realised revenue. ⚠️ **ARR is a forward measure and is not
+  comparable to CRWV's $104.2B BACKLOG — different objects, different durations. Do not rank them.**
+- **★★★★★ THE NUMBER THAT IS NOT IN THIS TABLE IS THE ONE THAT DECIDES IT: INTEREST EXPENSE AND CAPEX.
+  ADJUSTED EBITDA IS PRECISELY THE LINE THAT EXCLUDES FINANCING COST — and financing cost is the entire
+  CRWV finding from last night (interest $640M = 24.9% of revenue and 5.0× adjusted operating income).**
+  ⇒ **A 50% EBITDA margin tells you NOTHING about whether the business funds itself.** **The market is
+  grading these companies on the one metric that hides the thing crushing the sector.** 🚩 **FETCH:
+  NBIS interest expense, capex, and total debt.** *(Analysis. This is the whole comparison.)*
+- **⚠️ AND THE STRUCTURAL DIFFERENCE THAT SHOULD SHOW UP THERE: NBIS OWNS >75% OF ITS CONTRACTED POWER**
+  (vs CRWV's colocation route through Core Scientific). ⇒ **Owning should mean MORE capex and MORE debt
+  up front, but LOWER ongoing lease/host cost and better long-run unit economics.** **If NBIS's interest
+  burden is proportionally lighter than CRWV's despite owning its power, that is a genuinely different
+  business. If it is heavier, the 50% EBITDA margin is financed.** **Neither is established.**
+- **📌 PRICE LEG STILL OPEN. Grade from the ~+8% premarket level.** **A move to +10-20% measured from
+  TUESDAY'S CLOSE would be substantially satisfied by CRWV sympathy already banked — scoring the call
+  correct for the wrong reason.** *(Analysis.)*
+**Links:** [[ai-financing-fragility]] · [[cepi]] · [[power-not-petroleum]] · [[predictions]]
