@@ -4636,3 +4636,54 @@ investors to loan vendors money to set up vending machines."*
   not as a solvency signal.** *(Analysis. New instrument framing — this is the tradeable form of Jake's
   sentence.)*
 **Links:** [[balance-sheet-board]] · [[cepi]] · [[market-fragility]] · [[metered-compute]]
+
+### 2026-08-12 ~12:05am PDT — ★★★★ RECEIVER WINDOW #1 GRADED: CRWV's PRINT IS A BACKLOG STORY THE EQUITY MARKET BOUGHT AND THE CREDIT MARKET REPRICED THE SAME MONTH
+Source: Jake's summary of the CRWV Q2 print, **reported 2026-08-11 after the close** (filed 8/12
+~12:05am PDT). ⚠️ **ARTIFACT TEST: a SUMMARY, not the release or the call transcript.** **All three
+items I registered this morning as the receiver-window test are ABSENT from it** — see ⬜ below.
+
+#### DATA (as-summarised)
+- **Revenue $2.575B, +112% YoY**, slightly above ~$2.56B consensus. **EPS −$1.14** vs ~−$1.20 expected.
+- **Net loss $626M** · adjusted net loss $567M · **adjusted operating income $128M** ("substantially
+  ahead").
+- **BACKLOG $104.2B**, plus **$25B of customer commitments added early Q3.**
+- **2026 revenue guidance raised to ~$12.4-13.2B** · Q3 ~$3.45-3.60B.
+- **Q2 CAPEX ~$9.4B · Q2 INTEREST EXPENSE $640M.**
+- **Stock +13-16% after hours.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ THE THREE RATIOS THAT ARE NOT IN THE SUMMARY AND CARRY THE STORY:**
+  **(1) INTEREST / REVENUE = $640M ÷ $2,575M = 24.9%. A quarter of every revenue dollar goes to
+  lenders.**
+  **(2) INTEREST / ADJUSTED OPERATING INCOME = $640M ÷ $128M = 5.0×. The company earns $128M at the
+  adjusted operating line and owes $640M in interest — a $512M gap before anything else.**
+  **(3) CAPEX / REVENUE = $9.4B ÷ $2.575B = 3.65×.**
+  ⇒ **Annualising the interest at the CURRENT drawn balance gives ~$2.56B against 2026 guidance of
+  $12.4-13.2B — roughly a FIFTH of full-year revenue, and it is understated because Q2's $9.4B of capex
+  was largely debt-funded and prices into LATER quarters.** *(Analysis.)*
+- **⛔ AGAINST THE "THREE NUMBERS THAT MATTER MOST" FRAMING (backlog + guidance + new commitments): THOSE
+  ARE THE THREE NUMBERS THAT DESCRIBE DEMAND. NONE OF THEM DESCRIBE WHETHER THE COMPANY CAN AFFORD TO
+  SERVE IT.** **A $104.2B backlog is a COMMITMENT TO DELIVER COMPUTE THAT MUST BE PRE-FUNDED AT ~9-10%**
+  — and the WSJ reported TODAY that **CRWV's $2.6B facility this month, backed by its CONTRACTS (Anthropic,
+  Jane Street), cleared at over 9%, 125bp WIDE of where bankers marketed it.** ⇒ **THE BACKLOG IS AN
+  ASSET AND A LIABILITY IN THE SAME NUMBER.** *(Analysis. Rule 7 — descriptive; sizing is Jake's.)*
+- **★★★★★ THE DIVERGENCE THAT IS THE REAL FINDING, AND BOTH LEGS PRINTED IN THE SAME MONTH: THE EQUITY
+  MARKET BID CRWV +13-16% ON THE BACKLOG WHILE THE CREDIT MARKET DEMANDED 125bp MORE THAN GUIDANCE TO
+  FUND IT.** **Same company, same weeks, opposite conclusions.** ⇒ **Equity is trading the numerator
+  (revenue, backlog); credit is trading the denominator (the cost of the capital that produces it).**
+  **When those two disagree this sharply about one balance sheet, the credit market is the one with the
+  cash-flow claim.** 🚩 **THE RESOLVER: the next CRWV facility's spread vs guidance. Tighter = equity was
+  right; wider again = credit is compounding its own warning.** *(Analysis.)*
+- **★★★ IT ALSO SETTLES ONE LEG OF THE 3:30pm BARBELL AND UNSETTLES ANOTHER. FOR the squeezed-middle
+  thesis: interest at 5× adjusted operating income IS the squeeze, arithmetically.** **AGAINST it:
+  revenue +112% and adjusted operating income POSITIVE at $128M means operating leverage is arriving
+  faster than the compression read implied.** ⇒ **The middle is being squeezed on FINANCING cost, not on
+  OPERATING margin — which is a different failure mode than [[metered-compute]] predicted, and slower.**
+  *(Analysis. Conceded partially.)*
+- **⬜ ALL THREE REGISTERED RECEIVER-WINDOW ITEMS ARE MISSING FROM THIS SUMMARY, and they are the reason
+  the window was registered:** **(1) NVDA credit-support / RVG language** · **(2) realised rental rates
+  vs the sponsor's published +35-38%** · **(3) memory-derivative exposure.** **Plus (4) enterprise
+  renewal language — Krishna is on record as "one of CoreWeave's LARGE CLIENTS" while modelling a
+  five-year scrap cycle.** 🚩 **FETCH THE RELEASE AND THE CALL TRANSCRIPT. The summary answers the
+  market's questions, not the vault's.**
+**Links:** [[metered-compute]] · [[cepi]] · [[market-fragility]] · [[balance-sheet-board]]
