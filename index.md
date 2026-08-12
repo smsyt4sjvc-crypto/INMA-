@@ -70,6 +70,7 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 - [[ath-clustering]] — do all-time-high clustering/spacing/droughts predict?
 - [[fear-duration]] — does how LONG the market stays afraid predict bear vs recovery?
 - [[rotation-stickiness]] — when a tech→defensive rotation persists vs snaps back
+  · 2026-08-12 quarterly regime gauge: trend-follow + buy-hold win on Sharpe; vol-harvest DEAD (−0.4%/3y); nothing predicts Q+1 (best candidate family-wise p=0.128)
 
 ## 💰 Where the edge is (→ the trading system)
 - [[how-to-get-paid]] — the four buckets, and which one is Jake's (keystone)

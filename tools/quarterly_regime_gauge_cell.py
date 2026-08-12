@@ -182,6 +182,25 @@ for k, r in R.iterrows():
     print(f"  {k:<9}" + "".join(f"{r[n]:>+12.2%}" for n in NAMES) + f"   {wn}")
 wins = R[NAMES].idxmax(axis=1).value_counts()
 print("\n  quarters won: " + " · ".join(f"{k} {v}" for k, v in wins.items()))
+# ⛔ ADDED 8/12 AFTER THE FIRST REAL RUN: "quarters won" IS THE WRONG SCOREBOARD and it inverted the
+# answer. mean_revert won 6 of 12 and buy_hold won ZERO — yet buy_hold's SHARPE was 1.34 vs 0.97.
+# Cross-sectional legs have fatter tails, so they take MORE quarters and give MORE back. Winner-count
+# measures VARIANCE, not skill. Cumulative + Sharpe is the honest scoreboard.
+_full_q = [k for k in R.index if not bool(S.loc[k, "partial"])] if "partial" in S else list(R.index)
+RF = R.loc[[k for k in R.index if k in _full_q]]
+print("\n  ⛔ CUMULATIVE — the scoreboard that matters (COMPLETE quarters only, n=%d)" % len(RF))
+print(f"  {'archetype':<14}{'cumulative':>12}{'ann.':>9}{'mean/q':>9}{'sd/q':>8}{'Sharpe':>8}{'worst':>9}{'top4 %':>9}")
+print("  " + "-" * 80)
+for nme in NAMES:
+    a = RF[nme].dropna().values
+    if len(a) < 4: continue
+    cum = float(np.prod(1 + a) - 1); ann = (1 + cum) ** (4 / len(a)) - 1
+    sh = a.mean() / a.std() if a.std() else 0
+    top4 = np.sort(a)[-4:].sum() / a.sum() if a.sum() else np.nan
+    print(f"  {nme:<14}{cum:>11.1%}{ann:>9.1%}{a.mean():>+8.2%}{a.std():>7.2%}{sh:>8.2f}"
+          f"{a.min():>+8.2%}{top4:>8.0%}")
+print("  top4% = share of the archetype's TOTAL return coming from its 4 best quarters.")
+print("  A leg above ~70% there is a fat-tailed lottery, not a steady edge — read it next to Sharpe.")
 print(f"  ⚠️ {len(R)} quarters across 5 archetypes — the modal winner having {wins.iloc[0]} of "
       f"{len(R)} is what you would expect from noise unless it exceeds ~{int(len(R)*0.2)+3}.")
 
@@ -241,18 +260,52 @@ for c in ["autocorr", "eff_ratio", "dispersion", "avg_corr", "rvol", "volvol", "
     print(f"     {c:<12} AR(1) r = {v:>+6.2f}{tag}")
     if c in MECHANICAL:
         print(f"     {'':<12} ⛔ DISCOUNT THIS ONE: {MECHANICAL[c]}")
+    # ⛔⛔ SECOND FALSE-POSITIVE CLASS, FOUND ON THE FIRST REAL RUN AND NOT CAUGHT BY THE SHUFFLE:
+    # A SHUFFLE NULL DOES NOT PROTECT AGAINST A TREND. Shuffling destroys order, so ANY monotone
+    # drift scores as enormous "persistence". Dispersion ran 1.29 → 2.17 (+68%) over the sample and
+    # posted AR(1) +0.85, p=0.000 — but AR(1) of its FIRST DIFFERENCES is only +0.17. The series
+    # TRENDS; it does not revert to a regime. So every metric is now also tested against TIME.
+    vv = SF[c].dropna()
+    if len(vv) > 4:
+        tt = np.arange(len(vv))
+        rt = float(np.corrcoef(tt, vv.values)[0, 1])
+        dv = np.diff(vv.values)
+        rd = float(np.corrcoef(dv[:-1], dv[1:])[0, 1]) if len(dv) > 3 else float("nan")
+        if abs(rt) > 0.7:
+            print(f"     {'':<12} ⛔ TREND, NOT REGIME: corr(metric, TIME) = {rt:+.2f}; "
+                  f"AR(1) of first differences = {rd:+.2f}")
+            print(f"     {'':<12}    the raw AR(1) above is the drift, not memory. Read the diff.")
 
 print("\n  (b) DOES QUARTER Q's METRIC PREDICT Q+1's ARCHETYPE SPREAD?")
 print("      spread = momentum − mean_revert. >0 ⇒ momentum quarter.")
 print("  " + "-" * 78)
 sp = (R["momentum"] - R["mean_revert"]).reindex(SF.index).dropna()
-for c in ["autocorr", "eff_ratio", "dispersion", "avg_corr", "rvol", "breadth"]:
+# ⛔ v2: this panel shipped with NO null and NO multiple-testing correction, so its one "← CLEARS"
+# went out unqualified. Six metrics are tested here; at n=10 the family-wise false-positive rate is
+# ~26%. Both are now computed, plus leave-one-out, because on n=10 a correlation can be one point.
+_TESTED = ["autocorr", "eff_ratio", "dispersion", "avg_corr", "rvol", "breadth"]
+_rng2 = np.random.default_rng(7)
+for c in _TESTED:
     x = SF[c].reindex(sp.index).values[:-1]; y = sp.values[1:]
     ok = ~(np.isnan(x) | np.isnan(y))
     if ok.sum() < 4: continue
-    rr = float(np.corrcoef(x[ok], y[ok])[0, 1])
-    tag = "  ← CLEARS" if abs(rr) > rcrit else ""
-    print(f"     {c:<12} → next-quarter mom−MR spread:  r = {rr:>+6.2f}  (n={ok.sum()}){tag}")
+    xx, yy = x[ok], y[ok]
+    rr = float(np.corrcoef(xx, yy)[0, 1])
+    nullr = [abs(float(np.corrcoef(_rng2.permutation(xx), yy)[0, 1])) for _ in range(4000)]
+    pv2 = float(np.mean([v >= abs(rr) for v in nullr]))
+    fam = 1 - (1 - pv2) ** len(_TESTED)
+    lo = []
+    for j in range(len(xx)):
+        a2, b2 = np.delete(xx, j), np.delete(yy, j)
+        if a2.std() and b2.std(): lo.append(float(np.corrcoef(a2, b2)[0, 1]))
+    verdict = "  ← SURVIVES family-wise" if fam < 0.05 else ("  raw-p only" if pv2 < 0.05 else "")
+    print(f"     {c:<12} r = {rr:>+6.2f} (n={ok.sum()})  shuffle p={pv2:.3f}  "
+          f"family-wise p={fam:.3f}{verdict}")
+    if pv2 < 0.05 and lo:
+        print(f"     {'':<12}    leave-one-out r spans {min(lo):+.2f} … {max(lo):+.2f}"
+              f"  {'(STABLE — not one point)' if min(lo) > 0.5 * rr or max(lo) < 0.5 * rr else '(FRAGILE — one point carries it)'}")
+print(f"\n     ⚠️ {len(_TESTED)} metrics tested ⇒ family-wise is the column to read. A raw p<0.05 with")
+print("        family-wise p>0.05 is a REGISTERED TEST for a bigger sample, not a finding.")
 
 print("\n  (c) DOES THE WINNING ARCHETYPE REPEAT?")
 print("  " + "-" * 78)
