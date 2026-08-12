@@ -87,6 +87,12 @@ def efficiency_ratio(s):
     d = s.diff().abs().sum()
     return abs(s.iloc[-1] - s.iloc[0]) / d if d else np.nan
 
+# ⛔ PARTIAL-QUARTER GUARD, added after the first synthetic run put the in-progress quarter in the
+# 92nd percentile on four metrics at once. An unfinished quarter has fewer bars, so its cumulative
+# return and efficiency ratio are NOT comparable to complete ones. It is shown, labelled, and
+# EXCLUDED from every persistence test.
+_bars = {qq: int((q == qq).sum()) for qq in quarters}
+_full = int(np.median(list(_bars.values())))
 rows = []
 for i, qq in enumerate(quarters):
     m = (q == qq)
@@ -106,6 +112,8 @@ for i, qq in enumerate(quarters):
         rvol=r.mean(axis=1).std() * math.sqrt(252) * 100,
         volvol=r.mean(axis=1).rolling(10).std().std() * math.sqrt(252) * 100,
         breadth=(px[m].iloc[-1] > px.rolling(200).mean()[m].iloc[-1]).mean() * 100,
+        bars=_bars[qq],
+        partial=_bars[qq] < 0.85 * _full,
     ))
 S = pd.DataFrame(rows).set_index("qtr")
 
@@ -115,9 +123,14 @@ print("=" * 100)
 print(f"  {'qtr':<9}{'SPY':>8}{'autocorr':>10}{'effRatio':>10}{'disp%/d':>9}{'avgCorr':>9}"
       f"{'rvol%':>8}{'volvol':>8}{'breadth':>9}")
 print("  " + "-" * 80)
+# ⛔ BRACKET ACCESS, NOT DOTS — AND THIS IS NOT STYLE. A column named `autocorr` COLLIDES with
+# `pandas.Series.autocorr`, which is a real method: `row.autocorr` silently returns the BOUND METHOD
+# instead of the value, and you only find out at format time ("unsupported format string passed to
+# method.__format__"). Caught on Jake's first run, 8/12. `row["autocorr"]` cannot collide.
 for k, r in S.iterrows():
-    print(f"  {k:<9}{r.bench_ret:>+7.1%}{r.autocorr:>+10.3f}{r.eff_ratio:>10.2f}{r.dispersion:>9.2f}"
-          f"{r.avg_corr:>9.2f}{r.rvol:>8.1f}{r.volvol:>8.1f}{r.breadth:>8.0f}%")
+    print(f"  {k:<9}{r['bench_ret']:>+7.1%}{r['autocorr']:>+10.3f}{r['eff_ratio']:>10.2f}"
+          f"{r['dispersion']:>9.2f}{r['avg_corr']:>9.2f}{r['rvol']:>8.1f}{r['volvol']:>8.1f}"
+          f"{r['breadth']:>8.0f}%" + ("   ⚠️ PARTIAL (%d bars vs %d)" % (r['bars'], _full) if r['partial'] else ""))
 print("\n  autocorr  <0 ⇒ daily mean reversion · >0 ⇒ daily continuation")
 print("  effRatio  high ⇒ the index travelled in a straight line (trend-following fuel)")
 print("  disp      high ⇒ names moving apart (stock-picking + vol-harvest fuel)")
@@ -176,10 +189,14 @@ print(f"  ⚠️ {len(R)} quarters across 5 archetypes — the modal winner havi
 print("\n" + "=" * 100)
 print("  PART 3 — PERSISTENCE: does quarter Q tell you anything about Q+1?")
 print("=" * 100)
-n = len(S) - 1
+SF = S[~S["partial"]]                       # complete quarters only — see the partial guard above
+n = len(SF) - 1
 rcrit = 0.576 if n <= 12 else (0.514 if n <= 15 else 0.444)
-print(f"  ⛔ POWER FIRST. n = {n} paired quarters ⇒ |r| must exceed ~{rcrit:.2f} for p<0.05 two-sided.")
-print(f"     Anything smaller is UNRESOLVABLE at this sample size — not absent, UNRESOLVABLE.\n")
+print(f"  ⛔ POWER FIRST. n = {n} paired COMPLETE quarters ⇒ |r| must exceed ~{rcrit:.2f} for p<0.05.")
+print(f"     Anything smaller is UNRESOLVABLE at this sample size — not absent, UNRESOLVABLE.")
+print(f"     ⚠️ AND THE FIXED THRESHOLD IS NOT ENOUGH. On a synthetic run over INDEPENDENT random")
+print(f"     walks this panel flagged two metrics as 'PERSISTS' — one from pure n=12 noise, one")
+print(f"     MECHANICAL. So every AR(1) below is also scored against its OWN shuffle null.\n")
 
 def ar1(series):
     x = series.values[:-1]; y = series.values[1:]
@@ -187,19 +204,50 @@ def ar1(series):
     if ok.sum() < 4: return np.nan
     return float(np.corrcoef(x[ok], y[ok])[0, 1])
 
+_rng = np.random.default_rng(1)
+def ar1_pval(series, iters=4000):
+    """Empirical p: how often does SHUFFLING the quarter order reproduce |r| this large?
+    Shuffling destroys time structure while preserving the marginal distribution exactly.
+
+    ✅ CALIBRATION VERIFIED 2026-08-12, 600 trials on 12 i.i.d. normals (a TRUE null):
+         P(shuffle p < 0.05) = 0.058   ← nominal 0.05, so it does NOT over-reject
+         P(shuffle p < 0.10) = 0.118   ← nominal 0.10
+         mean observed AR(1) = −0.086  ← matches the Kendall small-sample bias of −1/n = −0.083
+       ⚠️ THAT BIAS IS WHY A FIXED THRESHOLD IS THE WRONG TOOL HERE: AR(1) on 12 points is
+       NEGATIVELY BIASED by construction, so a raw −0.4 reading is much less impressive than it
+       looks. The shuffle absorbs the bias automatically because the permuted series carries it too.
+       On genuinely independent random walks the per-quarter autocorr metric returns p=0.667 —
+       i.e. it correctly declines to fire."""
+    obs = ar1(series)
+    if obs != obs: return np.nan, np.nan
+    v = series.dropna().values
+    if len(v) < 5: return obs, np.nan
+    hits = 0
+    for _ in range(iters):
+        sh = pd.Series(_rng.permutation(v))
+        r = ar1(sh)
+        if r == r and abs(r) >= abs(obs): hits += 1
+    return obs, hits / iters
+
 print("  (a) DO THE REGIME METRICS THEMSELVES PERSIST?  corr(metric in Q, metric in Q+1)")
 print("  " + "-" * 78)
+MECHANICAL = {"breadth": "200-day window OVERLAPS consecutive quarters ⇒ autocorrelated BY "
+                         "CONSTRUCTION. Its AR(1) is arithmetic, not memory."}
 for c in ["autocorr", "eff_ratio", "dispersion", "avg_corr", "rvol", "volvol", "breadth"]:
-    v = ar1(S[c])
-    tag = "  ← PERSISTS" if abs(v) > rcrit else "  (unresolvable at n=%d)" % n
+    v, pv = ar1_pval(SF[c])
+    if v != v:
+        print(f"     {c:<12} AR(1) r =     —  (insufficient data)"); continue
+    tag = f"  shuffle p={pv:.3f}" + ("  ← SURVIVES ITS OWN NULL" if pv < 0.05 else "  (noise)")
     print(f"     {c:<12} AR(1) r = {v:>+6.2f}{tag}")
+    if c in MECHANICAL:
+        print(f"     {'':<12} ⛔ DISCOUNT THIS ONE: {MECHANICAL[c]}")
 
 print("\n  (b) DOES QUARTER Q's METRIC PREDICT Q+1's ARCHETYPE SPREAD?")
 print("      spread = momentum − mean_revert. >0 ⇒ momentum quarter.")
 print("  " + "-" * 78)
-sp = (R["momentum"] - R["mean_revert"]).reindex(S.index).dropna()
+sp = (R["momentum"] - R["mean_revert"]).reindex(SF.index).dropna()
 for c in ["autocorr", "eff_ratio", "dispersion", "avg_corr", "rvol", "breadth"]:
-    x = S[c].reindex(sp.index).values[:-1]; y = sp.values[1:]
+    x = SF[c].reindex(sp.index).values[:-1]; y = sp.values[1:]
     ok = ~(np.isnan(x) | np.isnan(y))
     if ok.sum() < 4: continue
     rr = float(np.corrcoef(x[ok], y[ok])[0, 1])
@@ -228,20 +276,24 @@ print("     ⇒ this is the test that matters. A repeat count that a shuffle rep
 print("\n" + "=" * 100)
 print("  PART 4 — WHERE THE CURRENT QUARTER SITS (percentile within these 12)")
 print("=" * 100)
-cur = S.iloc[-1]
+cur = S.iloc[-1]     # a Series — bracket access only, see the collision note above
+if bool(cur["partial"]):
+    print(f"  ⚠️ THE CURRENT QUARTER IS INCOMPLETE ({int(cur['bars'])} bars vs {_full} in a full one).")
+    print(f"     Its cumulative return and efficiency ratio are NOT comparable to the others —")
+    print(f"     percentiles below are indicative only, and it is excluded from Part 3 entirely.\n")
 for c in ["autocorr", "eff_ratio", "dispersion", "avg_corr", "rvol", "breadth"]:
     pct = (S[c] < cur[c]).mean()
     bar = "█" * int(pct * 30)
     print(f"     {c:<12}{cur[c]:>+8.2f}   {pct:>4.0%}ile  {bar}")
 print("\n  ARCHETYPE IMPLIED BY THE CURRENT READING (descriptive mapping, NOT a backtested rule):")
 sig = []
-if cur.autocorr < S.autocorr.median():   sig.append("daily mean reversion (autocorr below median)")
+if cur["autocorr"] < S["autocorr"].median():   sig.append("daily mean reversion (autocorr below median)")
 else:                                     sig.append("daily continuation (autocorr above median)")
-if cur.eff_ratio > S.eff_ratio.median(): sig.append("clean trend (efficiency above median) → trend-follow")
+if cur["eff_ratio"] > S["eff_ratio"].median(): sig.append("clean trend (efficiency above median) → trend-follow")
 else:                                     sig.append("choppy path (efficiency below median) → fade extremes")
-if cur.dispersion > S.dispersion.median(): sig.append("HIGH dispersion → stock-picking + vol-harvest fuel")
+if cur["dispersion"] > S["dispersion"].median(): sig.append("HIGH dispersion → stock-picking + vol-harvest fuel")
 else:                                      sig.append("LOW dispersion → selection pays little")
-if cur.avg_corr > S.avg_corr.median():   sig.append("HIGH correlation → macro regime, rebalancing pays less")
+if cur["avg_corr"] > S["avg_corr"].median():   sig.append("HIGH correlation → macro regime, rebalancing pays less")
 else:                                     sig.append("LOW correlation → rebalancing premium available")
 for s in sig: print(f"     · {s}")
 
