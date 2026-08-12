@@ -4687,3 +4687,51 @@ items I registered this morning as the receiver-window test are ABSENT from it**
   five-year scrap cycle.** 🚩 **FETCH THE RELEASE AND THE CALL TRANSCRIPT. The summary answers the
   market's questions, not the vault's.**
 **Links:** [[metered-compute]] · [[cepi]] · [[market-fragility]] · [[balance-sheet-board]]
+
+### 2026-08-12 ~11:55am PDT — ★★★★★ THE $9B PREPAYMENT LINE IS A THIRD FUNDING CHANNEL THIS VAULT HAS NOT BEEN TRACKING — and it is the CUSTOMER financing the SUPPLIER
+Source: NBIS Q2 detail (Jake). **Answers the fetch I registered 20 minutes ago** (*"the number that
+decides it is interest expense and capex"*) **from a direction I did not consider.**
+
+#### DATA (observed)
+- **Revenue +454% YoY** (vs CRWV's +112%). **Adj. EBITDA beat the Visible Alpha estimate by ~40%.**
+- **2026 targets REAFFIRMED: revenue $3.0-3.4B · ARR $7-9B · ~40% adj. EBITDA margin.**
+- **★★ YEAR-END CONTRACTED POWER GUIDANCE RAISED TO 5 GW.**
+- **★★★★★ MORE THAN $9B OF CUSTOMER PREPAYMENTS EXPECTED.**
+- **MORE THAN $40B OF CUSTOMER COMMITMENTS.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ PREPAYMENTS ARE THE CHEAPEST CAPITAL IN THE COMPLEX AND THE VAULT HAS BEEN ANALYSING THE
+  OTHER TWO CHANNELS ONLY. The thread has tracked DEBT (CRWV's $2.6B at 9%+, the $500B pipeline, RVGs)
+  and EQUITY. CUSTOMER PREPAYMENT BYPASSES BOTH — it is capex funded at ~0% by the buyer.**
+  ⇒ **$9B against a $3.0-3.4B full-year revenue guide is ~3× ANNUAL REVENUE. That is not a
+  working-capital item; it is a PRIMARY funding source.** **CRWV borrows at 9%+; NBIS is being handed
+  ~$9B at zero.** *(Analysis. This is new to the vault.)*
+- **★★★★★ AND THE JOIN THAT MAKES IT MATTER BEYOND NBIS: ONLY VERY LARGE, VERY WELL-CAPITALISED
+  COUNTERPARTIES CAN PREPAY $9B — i.e. hyperscalers and major labs.** ⇒ **THIS IS VENDOR FINANCING
+  RUNNING BACKWARDS: THE CUSTOMER FINANCING THE SUPPLIER.** **The capex burden does not vanish — it
+  MIGRATES ONTO THE PREPAYER'S BALANCE SHEET.** ⇒ **The neocloud's cheap funding IS the hyperscaler's
+  cash outflow** — and this vault measured that outflow this morning: **AMZN FCF −$8.8B (capex 119% of
+  OCF), GOOGL capex/OCF 27%→78%** ([[cepi]] 8/11). **Two ends of one transfer.** *(Analysis.)*
+- **⚠️ AND THE SIDE OF IT NOBODY CALLS A RISK: A PREPAYMENT IS A LIABILITY, NOT INCOME. It is deferred
+  revenue — a binding obligation to deliver compute, repayable if undelivered.** ⇒ **It concentrates
+  counterparty power: whoever wired $9B holds enormous leverage over NBIS's roadmap, pricing and
+  priority.** **And it FIXES THE PRICE TODAY** — protective if compute prices fall, costly if they rise,
+  **and GPU rentals are running +35-38%.** ⬜ **The prepayment TERMS — refundability, delivery
+  milestones, price resets, concentration — are unknown and matter more than the headline.** 🚩 **FETCH.**
+- **★★★★ THE POWER NUMBER CREATES A MISMATCH THAT SHOULD BE STATED PLAINLY: NBIS'S 5 GW YEAR-END
+  GUIDANCE NOW EXCEEDS CRWV'S 4.2 GW UNDER CONTRACT — from a company with ~1/4 THE REVENUE ($582M vs
+  $2,575M, CRWV 4.4× larger).** ⇒ **NBIS has more contracted power than a company more than four times
+  its size.** ⚠️ **AND THE CAPEX IMPLICATION IS EXTREME: 5 GW at even ~$30B/GW of compute implies
+  ~$150B TO FILL, against a $3.0-3.4B 2026 revenue guide — roughly 45× annual revenue in eventual
+  capex.** **Even amortised over a decade that is the largest forward-commitment ratio in the complex.**
+  ⇒ **Contracted power is being reported as an ASSET; it is at least as much a CAPEX OBLIGATION.**
+  *(Analysis. Same question I put to CRWV's 4.2 GW, far more extreme here.)*
+- **★★★ THE TARGETS WERE REAFFIRMED, NOT RAISED — after a 40% EBITDA BEAT. That is conservative on the
+  top line, and the reason is worth asking about: $3.0-3.4B for the year against Q2's $582M requires
+  roughly a DOUBLING to ~$1.0-1.2B per quarter by Q4.** **Beating profitability by 40% while holding
+  revenue guidance flat usually means DELIVERY is the constraint, not demand.** 🚩 **Listen for
+  supply/energisation timing language.** *(Analysis.)*
+- *(scale, for the record)* **$40B+ commitments against a $3.0-3.4B revenue guide ≈ 12× revenue; CRWV's
+  $104.2B against $12.4-13.2B ≈ 8×.** ⇒ **NBIS is MORE forward-sold relative to size.** ⚠️ **Different
+  contract definitions — do not treat "commitments" and "backlog" as the same object.**
+**Links:** [[cepi]] · [[metered-compute]] · [[power-not-petroleum]] · [[balance-sheet-board]]
