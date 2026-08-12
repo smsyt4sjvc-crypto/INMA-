@@ -447,6 +447,7 @@ Source: Jake's v2 run, same 434 events. **The DRIFT-vs-EVENT panel I added is wh
   a 62% null does: ≥60% is barely a filter.** ⇒ **The trigger by itself is not the edge and never was
   — t = +1.48 said so.** *(Analysis.)*
 - **★★★★ WHAT IS REAL IS THE INTERACTION, AND IT IS MONOTONE ACROSS FIVE LEVELS.** The vol gate's lift
+  ⟲ SUPERSEDED 2026-08-12 → dip-buying-base-rates.md:L490 — by-year panel: the interaction is 11 events in 3 thin years (20% of sample, 68% of alpha); in years with n>=10 it adds +0.27pp
   **grows with suppression: +0.91 → +1.53 → +3.74 → +5.72 → +7.33pp.** **Neither leg works alone;
   together they compound.** Mechanistically coherent — *a beaten-down name the market expects to move
   is a different object from a beaten-down name nobody is pricing a move in.* **This is the part of
@@ -463,3 +464,61 @@ Source: Jake's v2 run, same 434 events. **The DRIFT-vs-EVENT panel I added is wh
   sample (2021 −0.95% → 2026 +6.52%), and the three years the ungated trigger "worked" (2023/25/26)
   are the three highest-base-rate years. **Until the gated leg is tested by year, the honest position
   is that the interaction is real IN SAMPLE and its regime-dependence is unmeasured.** *(Analysis.)*
+
+### Addendum 2026-08-12 ~6:55pm PDT — ⛔⛔⛔ THE BY-YEAR PANEL KILLS THE INTERACTION. IT WAS 11 EVENTS IN TWO THIN YEARS.
+Source: Jake's v3 run, same 434 events. **This retires my 6:20pm conclusion — the second time in two
+hours this study has been called and then corrected by the next panel.** *(That pattern is itself the
+finding; see the method note below.)*
+
+#### DATA (observed — v3 by-year, BOTH leg = supp≥70% × RV≥60%, 55 events total)
+| year | n | sel α | win | marginal α |
+|---|---|---|---|---|
+| 2021 | **1** | +5.61% | 100% | +6.56% |
+| 2022 | 22 | +0.82% | 55% | **+0.34%** |
+| 2023 | **4** | +20.62% | **50%** | +18.34% |
+| 2024 | 10 | −1.30% | 50% | **−2.45%** |
+| 2025 | 12 | +7.60% | 83% | **+4.23%** |
+| 2026 | **6** | +19.94% | 83% | +13.42% |
+- **The three thin years (2021 n=1, 2023 n=4, 2026 n=6) are 11 of 55 events = 20% of the sample and
+  contribute 68% OF ALL THE ALPHA.** 2023's +20.62% carries a **50% win rate on n=4** — two events.
+- **HEAD-TO-HEAD in the only years with n≥10 (2022/2024/2025): BOTH − TRIGGER-ONLY = +0.43 / −0.25 /
+  +0.64 pp, mean +0.27pp.**
+- **TRIGGER-ONLY is the only leg adequately powered every year (n=18-43):** marginal α +0.02 · −0.09 ·
+  +2.14 · −2.20 · +3.59 · +2.31. **Mean +0.96%, sd 2.10%, t ≈ +1.12 on 6 yearly observations.**
+- **corr(universe base α that year, marginal α that year) = +0.62.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔⛔ THE INTERACTION DOES NOT SURVIVE. My 6:20pm "★★★★ the interaction is the result, monotone
+  ⟲ SUPERSEDES dip-buying-base-rates.md:L449 — by-year panel: the interaction is 11 events in 3 thin years (20% of sample, 68% of alpha); in years with n>=10 it adds +0.27pp
+  across five levels" is RETIRED.** Once the years too thin to score are excluded, **the interaction
+  adds +0.27pp** — nothing. The monotone in-sample lift (+0.91 → +7.33pp) was **not monotone in signal;
+  it was monotone in CONCENTRATION.** *(Analysis.)*
+- **★★★★★ THE METHOD LESSON, AND IT GENERALISES TO EVERY SWEEP THIS VAULT WILL EVER RUN: A MONOTONE
+  SWEEP IS NOT EVIDENCE OF SIGNAL WHEN THE TIGHTENING AXIS ALSO CONCENTRATES THE SAMPLE ONTO A FEW
+  PERIODS.** Each turn of the gate kept fewer events, and the survivors were increasingly the handful
+  of 2023/2026 outliers — **so α rose monotonically because the filter was progressively selecting the
+  outliers, not because the condition was progressively more informative.** **Monotonicity and
+  concentration are observationally identical in a sweep table. Only a by-period panel separates them**,
+  and it must be run on the GATED leg with an n-floor. 🚩 **Add an n-floor + by-period panel to every
+  future sweep in `tools/`.** *(Analysis. This is the single most transferable thing the study produced.)*
+- **⛔ AND THE TRIGGER ALONE — the only well-powered leg — IS NOT SIGNIFICANT EITHER: t ≈ +1.12 on six
+  yearly marginals** (mean +0.96%/yr, sd 2.10%). Two years ≈ zero (2021, 2022), one clearly negative
+  (**2024, −2.20%**), three positive. **That is a coin-flip with a good story.** *(Analysis.)*
+- **★★★ WHAT THE +0.62 CORRELATION MEANS, AND IT IS THE REAL DESCRIPTION OF THE SETUP: the marginal α
+  is largest in the years the COMPLEX was already paying most** (2023/2025/2026 base rates +2.28 /
+  +3.37 / +6.52%). **This is not stock selection. It is a beta amplifier on the AI-capex trade** — it
+  levers a good year and it costs you in a bad one (2024: base +1.15%, marginal −2.20%). **Jake already
+  owns that beta** ([[ai-infra-allocation-map]], [[portfolio-state]]); **the setup does not add an
+  independent return stream, it re-expresses one he has.** *(Analysis. Descriptive — rule 7.)*
+- **★★ WHAT SURVIVES, STATED SO THE WHOLE THING IS NOT DISCARDED:** (1) **the universe base rate is
+  real and robust — 434 events, α +2.04%, win 54% over ~16 trading days**, i.e. these 22 names have
+  paid simply for being held through their earnings windows across this sample; that is a **regime
+  fact about the AI complex, not an edge**, and it is the honest headline of the whole exercise.
+  (2) **The PRE-drift structure is robust at n=156** (α +3.07% by E+0 on the ungated trigger) — the
+  move is mostly before the print even where the gated cells later show the print adding.
+- **⬜ AND THE FALSIFIER FOR ANYONE WHO WANTS TO REVIVE IT: this needs an out-of-universe test.** The
+  same rules on a NON-AI universe (S&P 100 ex-tech, or the same 22 names 2010-2019) would separate
+  "beaten-down + high-vol into earnings pays" from "the AI complex paid 2020-2026." **Until that runs,
+  the null — that this is the tape — is not rejected.** 🚩
+
+**Links:** [[bull-bear-ledger]] · [[ai-infra-allocation-map]] · [[portfolio-state]] · [[_assumption-filters]]
