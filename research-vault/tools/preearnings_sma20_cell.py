@@ -58,16 +58,50 @@ UNIVERSE = ["NVDA","AVGO","TSM","INTC","AMD","MU","GFS","ARM",      # compute si
 LOOKBACK_START = 45      # window opens this many trading days before earnings
 ENTRY_OFFSET   = 15      # window closes / we enter this many trading days before earnings
 SMA_LEN        = 20
-TOUCH_MODE     = True    # True = Low < SMA20 (Jake's spec). False = Close < SMA20 (stricter).
-# ⚠️ ONE GENUINE AMBIGUITY IN THE SPEC, EXPOSED RATHER THAN BURIED. "30 days from the 45 day mark"
-# spans E−45 → E−15. That is 30 bars EXCLUSIVE of the decision bar, or 31 INCLUSIVE of it. Both are
-# defensible: at the E−15 close you already know that bar's low, so counting it is legitimate.
-# It only matters at the boundary — 70% is 21/30 but 22/31 (21/31 = 67.7% would fail). Flip and
-# compare; if the result moves on this, the result was the boundary, not the setup.
+# ⛔⛔ JAKE, 2026-08-12: "wouldn't being under the 20 SMA for that many days imply the volatility on
+#     its own — if it's flat, the SMA would catch up to it." HE IS RIGHT ABOUT THE MECHANISM, and it
+#     is the single most important thing to know before reading any number this cell prints.
+#
+#       Low < SMA20   rearranges to   (Close − SMA20) < (Close − Low)
+#                                     displacement above the mean  <  own intraday range
+#
+#     Both sides scale with volatility, so the condition is NOT a clean trend reading.
+#
+#  SIMULATED, 400 independent paths per cell, one 30-bar window each (2026-08-12):
+#
+#     metric            flat/20vol  flat/80vol   down−40%   up+50%   |  separation (down − up)
+#     LOW<SMA  (spec)       62%        66%       73% / 70%  51% / 60% |  +21 pts @35vol, +9 @80vol
+#     CLOSE<SMA             51%        54%       62% / 58%  39% / 49% |  +22 pts @35vol, +10 @80vol
+#     (Close−SMA)/σ       −0.12      −0.54      −0.95 /−0.86 +0.65/−0.14| −1.60σ @35, −0.72σ @80
+#
+#  ⇒ THREE CONCLUSIONS, INCLUDING ONE THAT CORRECTS MY OWN FIRST READ:
+#   1. **THE FLAT-STOCK PROBLEM IS REAL.** In the limiting case Jake describes — a perfectly constant
+#      close — SMA20 converges to that price and the LOW is beneath it **100% of days**. In practice a
+#      driftless stock reads **62-66%**, which sits uncomfortably close to a 70% gate: on 30 bars the
+#      standard error is ~9 points, so **a flat name clears 70% a large share of the time by chance.**
+#      The gate has weak SPECIFICITY, and that is his point landing.
+#   2. **⛔ BUT SWITCHING TO CLOSE<SMA DOES NOT FIX DISCRIMINATION — I OVERSTATED THAT.** Touch and
+#      close separate downtrend from uptrend **almost identically** (+21 vs +22 pts). What close has
+#      is a **lower, interpretable null (~51% vs ~62%)**. So the metric is not the error — **THE
+#      THRESHOLD IS.** 70% is a sensible gate on TOUCH (≈ the downtrend mean) and far too strict on
+#      CLOSE, where the downtrend mean is only ~58-62%. **A threshold is meaningless without its null.**
+#   3. **⚠️ THE VOL GATE HALVES THE SIGNAL, AND THIS IS THE REAL DESIGN CONFLICT.** Separation falls
+#      from ~21 pts at 35% vol to ~9 pts at 80% vol, for EVERY metric. **The high-IV names the second
+#      filter is meant to select are precisely the names where the first filter stops working.**
+#      Expect the sweep's high-vol cells to be noise even where n survives. That is not a bug to fix —
+#      it is the honest shape of the idea, and it is why the sweep exists.
+#
+# All three metrics are computed and swept side by side, each against its OWN null, so the original
+# spec stays visible and gradeable instead of being quietly overwritten.
+METRIC = "touch"   # "touch" = Jake's spec (null ~62%) | "close" (null ~51%) | "z" (null ~0σ)
+TOUCH_MODE = (METRIC == "touch")   # the live screen reads the same switch
 INCLUDE_ENTRY_BAR = False
 YEARS          = 6       # price history to pull
 EXIT_OFFSETS   = [0, 1, 3, 5]   # trading days after the earnings date; 1 is the headline
-SUPPRESS_SWEEP = [0.50, 0.60, 0.70, 0.80, 0.90]     # his 70% is the middle of this
+SUPPRESS_SWEEP = [0.50, 0.60, 0.70, 0.80, 0.90, 0.95]  # extended UP: the flat-stock null is
+                                                       # ~62% on touch, so 70% is only +8 pts
+                                                       # above neutral. 85-95% is where a touch
+                                                       # gate becomes genuinely selective.
 VOL_SWEEP      = [0.0, 0.20, 0.40, 0.50, 0.60, 0.70, 0.80, 0.90]   # RV-percentile floor; 0 = no gate
 BENCH          = "SPY"
 PAUSE          = 0.4     # be polite to Yahoo; raise if you get rate-limited
@@ -94,6 +128,7 @@ def load_px(tkr, years=YEARS):
     df["SMA20"] = df["Close"].rolling(SMA_LEN).mean()
     r = df["Close"].pct_change()
     df["RV20"] = r.rolling(20).std() * math.sqrt(252)
+    df["SD20"] = r.rolling(20).std() * df["Close"]   # 1σ in PRICE units, for the z-metric
     # RV percentile = where today's 20d realised vol sits in its OWN trailing year. Self-referential
     # on purpose: "elevated for THIS name", not elevated vs the market.
     df["RVpct"] = df["RV20"].rolling(252).rank(pct=True)
@@ -116,18 +151,30 @@ def load_earnings(tkr):
     today = pd.Timestamp.today().normalize()
     return sorted([d.normalize() for d in idx if d.normalize() < today]), None
 
-def suppressed_fraction(df, i_e):
-    """Fraction of the MEASURE window whose LOW pierced the 20-SMA.
-    Window = [i_e-45, i_e-15) → exactly 30 bars, ending on the entry bar (exclusive)."""
+# Null baselines from the 2026-08-12 simulation — printed alongside every gate so a threshold is
+# always read against NEUTRAL rather than against zero. A gate below its own null selects nothing.
+# Simulated nulls (driftless stock, 400 paths). A gate is only meaningful RELATIVE to these.
+NULLS = {"touch": 0.62, "close": 0.51, "z": 0.0}
+DOWN_MEAN = {"touch": 0.73, "close": 0.62, "z": -0.95}   # what a −40%/yr drifter reads
+
+def window_metrics(df, i_e):
+    """All three suppression metrics over the MEASURE window.
+    Window = [i_e-45, i_e-15) → exactly 30 bars, ending on the entry bar (exclusive).
+      touch = frac(Low   < SMA20)   — Jake's spec. Null 65%, and vol-blind at high vol.
+      close = frac(Close < SMA20)   — null 52%, ~2σ discrimination at a 70% gate.
+      z     = mean (Close − SMA20)/σ20 — scale-free; uses DEPTH, not just sign, so it does not
+              throw away the difference between grazing the mean and sitting 3σ under it."""
     lo = i_e - LOOKBACK_START
     hi = i_e - ENTRY_OFFSET + (1 if INCLUDE_ENTRY_BAR else 0)
     if lo < SMA_LEN + 1 or hi <= lo:
-        return None, 0
+        return None
     w = df.iloc[lo:hi]
-    if w["SMA20"].isna().any():
-        return None, 0
-    below = (w["Low"] < w["SMA20"]) if TOUCH_MODE else (w["Close"] < w["SMA20"])
-    return float(below.mean()), len(w)
+    if w["SMA20"].isna().any() or w["SD20"].isna().any() or (w["SD20"] <= 0).any():
+        return None
+    return dict(touch=float((w["Low"] < w["SMA20"]).mean()),
+                close=float((w["Close"] < w["SMA20"]).mean()),
+                z=float(((w["Close"] - w["SMA20"]) / w["SD20"]).mean()),
+                nbars=len(w))
 
 def build_events():
     rows, notes = [], []
@@ -151,15 +198,16 @@ def build_events():
             pos = df.index.searchsorted(e)
             if pos <= 0 or pos >= len(df): continue
             i_e = int(pos)
-            frac, n = suppressed_fraction(df, i_e)
-            if frac is None: continue
+            m = window_metrics(df, i_e)
+            if m is None: continue
             i_entry = i_e - ENTRY_OFFSET
             if i_entry < 0 or i_e + max(EXIT_OFFSETS) >= len(df): continue
             entry_px = float(df["Close"].iloc[i_entry])
             rvp = df["RVpct"].iloc[i_entry]
             rvp = float(rvp) if pd.notna(rvp) else np.nan
             rec = dict(ticker=t, edate=df.index[i_e], entry_date=df.index[i_entry],
-                       frac=frac, rvpct=rvp, entry=entry_px)
+                       frac=m[METRIC], f_touch=m["touch"], f_close=m["close"], f_z=m["z"],
+                       rvpct=rvp, entry=entry_px)
             for k in EXIT_OFFSETS:
                 px = float(df["Close"].iloc[i_e + k])
                 rec[f"ret_{k}"] = px / entry_px - 1.0
@@ -205,11 +253,25 @@ print(f"\n  → {len(ev)} usable earnings events across {ev.ticker.nunique()} na
 print("\n" + "=" * 100)
 print("  WHERE DOES THE 70% BAR ACTUALLY SIT? (distribution of the suppressed fraction)")
 print("=" * 100)
-q = ev["frac"].quantile([.1,.25,.5,.75,.9])
-print("  deciles: " + "  ".join(f"p{int(k*100)}={v:.0%}" for k, v in q.items()))
-for th in SUPPRESS_SWEEP:
-    n = (ev["frac"] >= th).sum()
-    print(f"     ≥{th:.0%} suppressed: {n:>4} events ({n/len(ev):>4.0%} of sample)  {'█'*int(40*n/len(ev))}")
+print(f"  ACTIVE METRIC = {METRIC!r}   simulated null (zero-drift stock) = "
+      f"{NULLS[METRIC]:.0%}" if METRIC != "z" else f"  ACTIVE METRIC = 'z'   null = 0.00σ")
+print("  ⛔ READ EVERY GATE AGAINST ITS NULL, NOT AGAINST ZERO. Simulated, 400 paths, 30-bar window:")
+print("        metric        flat(null)   −40%/yr   +50%/yr    SE on 30 bars")
+print("        touch            62%         73%       51%          ~9 pts")
+print("        close            51%         62%       39%          ~9 pts")
+print("     ⇒ on TOUCH a 70% gate is only +8 pts above flat — barely 1 SE, so flat names leak through.")
+print("     ⇒ on CLOSE a 70% gate sits ABOVE the downtrend mean (62%) and is far too strict.")
+print("     ⇒ SEPARATION HALVES AT HIGH VOL (21 pts @35vol → 9 pts @80vol) FOR BOTH. The vol gate")
+print("        selects exactly the names where this metric stops working — read those cells sceptically.")
+for lab, col in [("touch  Low<SMA", "f_touch"), ("close  Close<SMA", "f_close")]:
+    q = ev[col].quantile([.1,.25,.5,.75,.9])
+    print(f"\n  {lab:<18} deciles: " + "  ".join(f"p{int(k*100)}={v:.0%}" for k, v in q.items()))
+    for th in SUPPRESS_SWEEP:
+        n = int((ev[col] >= th).sum())
+        print(f"     ≥{th:.0%}: {n:>4} events ({n/len(ev):>4.0%})  {'█'*int(40*n/len(ev))}")
+qz = ev["f_z"].quantile([.1,.25,.5,.75,.9])
+print(f"\n  z      (Close−SMA)/σ deciles: " + "  ".join(f"p{int(k*100)}={v:+.2f}" for k, v in qz.items()))
+print("     (more negative = deeper under the mean in its OWN volatility units)")
 
 # ── the headline table: BOTH sweeps, with n printed everywhere
 print("\n" + "=" * 100)
@@ -218,7 +280,7 @@ print("  a gate that rejects its way to a good number is the failure mode, not t
 print("=" * 100)
 for th in SUPPRESS_SWEEP:
     trig = ev[ev["frac"] >= th]
-    print(f"\n  ── suppressed ≥ {th:.0%}   ({len(trig)} events before the vol gate)")
+    print(f"\n  ── {METRIC} ≥ {th:.0%}   ({len(trig)} events before the vol gate)"        + (f"   [null {NULLS[METRIC]:.0%}]" if METRIC != "z" else ""))
     if len(trig) == 0:
         print("     none"); continue
     for vg in VOL_SWEEP:
