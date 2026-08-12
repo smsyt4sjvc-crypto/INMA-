@@ -44,7 +44,10 @@ SUBJECTS = ["fab construction", "data centre", "data center", "brent", "wti", "g
             "day-1", "day 1", "first of month", "seasonal", "turn of the month",
             "straddle", "breakeven", "win rate", "drawdown", "52-week high", "52w high",
             "layoff", "mean reversion", "half-life", "hurst", "autocorr",
-            "bollinger", "compression", "squeeze", "kre", "regional bank"]
+            "bollinger", "compression", "squeeze", "kre", "regional bank",
+            # gap #4, 8/12: the pre-earnings study had no vocabulary either.
+            "earnings", "pre-earnings", "alpha", "drift", "suppress", "sma", "20-sma",
+            "base rate", "t-stat", "significance", "iv", "implied vol", "realised vol"]
 
 NUM = re.compile(r"[-+]?\$?\d[\d,]*\.?\d*\s*(?:%|B\b|bn\b|billion|M\b|bp\b)?")
 # Dates masquerade as numbers: "2026-08-11" and "Jun-26" both scan as values and the first

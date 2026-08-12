@@ -223,17 +223,27 @@ def build_events():
         print(f"  {t:<7}{len(df):>7}{len(eds):>10}{used:>8}")
     return pd.DataFrame(rows), notes
 
-def stat_block(d, k=1):
+def stat_block(d, k=1, ctrl=None):
     if len(d) == 0: return None
     r, a = d[f"ret_{k}"], d[f"alpha_{k}"]
-    return dict(n=len(d), win=(r > 0).mean(), mean=r.mean(), med=r.median(),
-                amean=a.mean(), amed=a.median(), beat=(a > 0).mean(), sd=r.std())
+    out = dict(n=len(d), win=(r > 0).mean(), mean=r.mean(), med=r.median(),
+               amean=a.mean(), amed=a.median(), beat=(a > 0).mean(), sd=r.std())
+    # ⛔ 8/12 GAP THIS CLOSES: v1 printed a t-stat for the headline trigger ONLY, so every GATED
+    # cell — the ones that look best — went out with no significance attached at all.
+    out["t"] = float("nan")
+    if ctrl is not None and len(ctrl) > 1 and len(d) > 1:
+        cr = ctrl[f"ret_{k}"]
+        se = math.sqrt(r.var()/len(r) + cr.var()/len(cr))
+        if se > 0: out["t"] = (r.mean() - cr.mean()) / se
+    return out
 
 def line(lab, s):
     if s is None or s["n"] == 0:
         return f"  {lab:<26}{'—  no events':>12}"
-    return (f"  {lab:<26}{s['n']:>5}  win {s['win']:>5.0%}  mean {s['mean']:>+7.2%}  "
-            f"med {s['med']:>+7.2%}  α-mean {s['amean']:>+7.2%}  beat-SPY {s['beat']:>5.0%}")
+    t = s.get("t", float("nan"))
+    tf = "  t —" if (t != t) else f"  t{t:>+5.2f}{'' if abs(t) >= 2 else ' ·noise'}"
+    return (f"  {lab:<24}{s['n']:>5}  win {s['win']:>5.0%}  mean {s['mean']:>+7.2%}  "
+            f"α {s['amean']:>+7.2%}  beat {s['beat']:>4.0%}{tf}")
 
 print("=" * 100)
 print("  PRE-EARNINGS 20-SMA SUPPRESSION — 2nd-order basket")
@@ -278,6 +288,8 @@ print("\n" + "=" * 100)
 print(f"  THE SWEEP — entry E−{ENTRY_OFFSET} → exit E+1.  n IS SHOWN AT EVERY CELL ON PURPOSE:")
 print("  a gate that rejects its way to a good number is the failure mode, not the result.")
 print("=" * 100)
+CTRL = ev[ev["frac"] < 0.70]     # the not-triggered control, fixed, for every cell's t-stat
+print("  every t is vs the NOT-TRIGGERED control (<70%). |t|<2 is tagged ·noise.\n")
 for th in SUPPRESS_SWEEP:
     trig = ev[ev["frac"] >= th]
     print(f"\n  ── {METRIC} ≥ {th:.0%}   ({len(trig)} events before the vol gate)"        + (f"   [null {NULLS[METRIC]:.0%}]" if METRIC != "z" else ""))
@@ -286,7 +298,7 @@ for th in SUPPRESS_SWEEP:
     for vg in VOL_SWEEP:
         sub = trig if vg == 0 else trig[trig["rvpct"] >= vg]
         lab = "no vol gate" if vg == 0 else f"RV pctile ≥ {vg:.0%}"
-        print(line(lab, stat_block(sub, 1)))
+        print(line(lab, stat_block(sub, 1, CTRL)))
 
 # ── THE CONTROLS. Without these the table above is unreadable.
 print("\n" + "=" * 100)
@@ -311,6 +323,45 @@ for k in EXIT_OFFSETS:
     s = stat_block(trig70, k)
     print(line(f"triggered ≥70%, exit E+{k}", s))
 
+# ── ⛔ THE DECOMPOSITION THE 8/12 RUN MADE ESSENTIAL: pre-announcement DRIFT vs the EVENT itself.
+# Jake's thesis is "buy it then and THROUGH earnings" — the print is meant to be the catalyst. The
+# first run said otherwise: α was +3.07% by E+0 and +2.80% by E+1, i.e. the print gave BACK 0.27pp.
+# If that holds, this is a pre-earnings drift trade and the announcement is uncompensated variance.
+print("\n" + "=" * 100)
+print("  DRIFT vs EVENT — does the PRINT pay, or is the move already in before it?")
+print("=" * 100)
+for th in [0.70, 0.80, 0.90]:
+    for vg in [0.0, 0.60, 0.70]:
+        sub = ev[ev["frac"] >= th]
+        if vg: sub = sub[sub["rvpct"] >= vg]
+        if len(sub) < 5: continue
+        pre = sub["alpha_0"].mean()                      # entry → E+0, before most prints
+        evn = sub["alpha_1"].mean() - sub["alpha_0"].mean()   # the announcement itself
+        post = sub["alpha_5"].mean() - sub["alpha_1"].mean()  # E+1 → E+5
+        gate = "no vol gate" if vg == 0 else f"RV≥{vg:.0%}"
+        print(f"  supp≥{th:.0%} · {gate:<12} n={len(sub):>4}   "
+              f"PRE-drift α {pre:>+6.2%}   PRINT α {evn:>+6.2%}   POST α {post:>+6.2%}")
+print("  ⇒ if PRINT is ~0 or negative, the earnings event is RISK WITHOUT RETURN and the exit")
+print("     belongs at E+0, not after. That converts the idea into a 15-day pre-drift trade.")
+
+# ── ⛔ THE REGIME TEST. 2020-2026 in AI/semis is ONE tape. If the effect is only 2023-24, it is the era.
+print("\n" + "=" * 100)
+print("  BY YEAR — is this a setup, or is it the 2023-24 AI tape wearing a setup's clothes?")
+print("=" * 100)
+ev["yr"] = ev["edate"].dt.year
+print(f"  {'year':<7}{'ALL n':>7}{'ALL α':>9}{'TRIG n':>8}{'TRIG α':>9}{'TRIG win':>10}   marginal α")
+print("  " + "-" * 74)
+for y in sorted(ev["yr"].unique()):
+    a = ev[ev["yr"] == y]; t = a[a["frac"] >= 0.70]
+    if len(a) == 0: continue
+    ta = t["alpha_1"].mean() if len(t) else float("nan")
+    tw = (t["ret_1"] > 0).mean() if len(t) else float("nan")
+    marg = ta - a["alpha_1"].mean() if len(t) else float("nan")
+    print(f"  {y:<7}{len(a):>7}{a['alpha_1'].mean():>9.2%}{len(t):>8}"
+          f"{ta:>9.2%}{tw:>10.0%}   {marg:>+7.2%}")
+print("  ⇒ the MARGINAL column is the only one that matters: how much the trigger adds OVER the")
+print("     universe's own base rate that year. If it is positive in 2 of 6 years, it is the era.")
+
 # ── per-name, so one ticker's run cannot masquerade as an effect
 print("\n" + "=" * 100)
 print("  PER-NAME (triggered ≥70%) — concentration check")
@@ -327,8 +378,10 @@ if len(trig70):
 # ── LIVE SCREEN, with REAL implied vol (the thing the backtest could not use)
 print("\n" + "=" * 100)
 print("  LIVE — who is in the setup NOW, with ACTUAL implied vol from the chain")
-print("  IV/RV > 1 = options priced above what the stock has been doing = 'elevated' in the sense")
-print("  that matters. This is the real gate; the backtest above only had the RV half of it.")
+print("  ⛔ READ ABSOLUTE IV, NOT IV/RV, FOR THIS TRADE. Buying shares into a print, the thesis is")
+print("  'the market expects a big move' — that is absolute IV. IV/RV is the option-SELLER's gauge")
+print("  and it mislabels a name that just moved hard (high RV drags the ratio down while IV is")
+print("  objectively elevated). IV/RV < 0.75 is flagged as 'the move already happened', not 'cheap'.")
 print("=" * 100)
 def atm_iv(tkr, spot):
     try:
@@ -375,8 +428,17 @@ for t in UNIVERSE:
     rvp = df["RVpct"].iloc[-1]; rvp = float(rvp) if pd.notna(rvp) else np.nan
     iv, _ = atm_iv(t, spot); time.sleep(PAUSE)
     ratio = iv / rv if (rv and not np.isnan(iv)) else np.nan
+    # ⛔ CORRECTED 8/12 AFTER THE FIRST LIVE RUN. v1 tagged every setup "IV not rich" when IV/RV<1
+    # and that is the WRONG GAUGE FOR THIS TRADE. IREN printed ATM IV 85% — enormous in absolute
+    # terms — but IV/RV 0.52 only because its REALISED vol was 164% after a huge move. IV/RV is the
+    # OPTION-SELLER's question (are options dear vs what the stock does). Jake is buying SHARES and
+    # wants "the market expects a big move" — that is ABSOLUTE IV, and IV/RV<1 actively mislabels it.
     st = "SETUP" if frac >= 0.70 else ("watch" if frac >= 0.55 else "")
-    if st == "SETUP" and not np.isnan(ratio) and ratio < 1.0: st = "SETUP (IV not rich)"
+    if st == "SETUP":
+        if not np.isnan(iv) and iv >= 0.60:   st += "  ·IV HIGH (abs)"
+        elif not np.isnan(iv) and iv <= 0.30: st += "  ·IV low (abs)"
+        if not np.isnan(ratio) and ratio < 0.75:
+            st += "  ·RV>>IV: the move already happened"
     print(f"  {t:<6}{dte:>9}{frac:>10.0%}{rvp:>8.0%}{rv:>8.0%}"
           f"{(f'{iv:.0%}' if not np.isnan(iv) else '—'):>9}"
           f"{(f'{ratio:.2f}' if not np.isnan(ratio) else '—'):>8}  {st}")
