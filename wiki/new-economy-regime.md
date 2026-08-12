@@ -2995,3 +2995,57 @@ Source: ZH X-feed capture (CPI morning) + the BofA piece → `raw/2026-08-12-zh.
   capital-mobilisation announcements inside four days.** ⇒ **The flow datum is the CLUSTERING, not the
   total.** [[ai-financing-fragility]] *(Analysis.)*
 **Links:** [[market-fragility]] · [[ai-financing-fragility]] · [[war/war-board]] · [[predictions]]
+
+### 2026-08-12 ~10:20am PDT — ★★★★★ THE CPI DETAIL RESOLVES THE HIKE-ODDS PUZZLE: THE FED TARGETS PCE, AND CORE PCE IS 3.3% WHILE CORE CPI IS 2.5%. Plus ⛔ my shelter read this morning was wrong.
+Source: BLS-sourced compilation, *US Inflation July 2026* → `raw/2026-08-12-cpi-july-detail.txt`
+(primaries cited: bls.gov CPI news release + Table 3 + Real Earnings; bea.gov Personal Income & Outlays).
+
+#### ★★★★★ THE RECONCILIATION — why 45% hike odds and a soft CPI are not contradictory
+| | 12-month | note |
+|---|---|---|
+| Headline CPI | **+3.4%** | |
+| **Core CPI** | **+2.5%** | what the tape traded this morning |
+| PCE price index (June) | **+3.7%** | |
+| **CORE PCE (June)** | **+3.3%** | **← WHAT THE FED ACTUALLY TARGETS** |
+- **⇒ CORE PCE IS 80bp ABOVE CORE CPI, AND IT IS THE FED'S INDEX. 3.3% against a 2% target is 130bp
+  ABOVE, not 50bp.** ⇒ **The market is not pricing off the number that printed this morning.**
+  **THAT is the 45% September hike probability, and it stops being a puzzle.** *(Analysis.)*
+- **WHY PCE > CPI RIGHT NOW, mechanically: PCE weights MEDICAL far more heavily and SHELTER far less.
+  July medical-care services +0.6% MoM / +2.7% YoY and hospital services +0.5%, while shelter
+  disinflates.** ⇒ **The two indices are diverging BECAUSE of exactly which components are moving.**
+- **📌 WHICH MAKES TOMORROW'S PPI THE MORE IMPORTANT RELEASE, not today's CPI: the PPI healthcare,
+  airfare and portfolio-management components FEED CORE PCE directly** (GS's own framing, L2495), **GS
+  carries +0.4% against +0.2% consensus — DOUBLE — and the $25bn 30Y prices after it.**
+  **⚠️ And the July PCE itself does not print until AUGUST 26.**
+
+#### ⛔ CORRECTION TO MY OWN 8:45am READ — the shelter deceleration is a HOTEL artifact
+- **I wrote: *"the disinflation is in OER/imputed, not in cash rent."* WRONG. THE DETAIL: RENT OF
+  PRIMARY RESIDENCE +0.3% MoM · OWNERS' EQUIVALENT RENT +0.3% MoM · LODGING AWAY FROM HOME −2.8%.**
+  **Shelter total was only +0.1% BECAUSE LODGING COLLAPSED.**
+  ⇒ **Rent AND OER are both running +0.3% MoM ≈ 3.7% ANNUALISED. Underlying housing inflation did not
+  decelerate at all this month — a small, volatile hotel component masked it.** *(Analysis. This cuts
+  HAWKISH and I had it backwards.)*
+
+#### DATA (observed — the items that carry information)
+- **★★ CORE CPI 3-MONTH ANNUALISED = 1.6%** (May 0.2 · Jun 0.0 · Jul 0.2). **6-month = 2.4%.** Against
+  2.5% YoY. ⇒ **Core CPI is decelerating and running BELOW target on a 3-month basis** — **which is why
+  the CPI/PCE divergence above matters so much: the two indices now tell opposite stories.**
+- **THE WAR IS VISIBLE IN THE MONTHLY PATH AND IT IS UNWINDING. All-items: Jan 0.2 · Feb 0.3 · MAR 0.9 ·
+  APR 0.6 · MAY 0.5 · JUN −0.4 · JUL 0.1.** **Energy: MAR +10.9% · gasoline MAR +21.2%.** **The war
+  began Feb 28.** ⇒ **March-May's inflation spike WAS the energy shock; June-July is the unwind.**
+- **THE LEVEL STILL CARRIES IT: energy +14.7% YoY · gasoline +24.6% · fuel oil +39.1% · energy
+  commodities +24.7%** — while **energy MoM is −1.5%.** ⚠️ **Do NOT re-derive the level-vs-impulse
+  point — settled at [[market-fragility]] L2582.**
+- **★★★ AIRLINE FARES +2.2% MoM, +25.5% YoY, alongside FUEL OIL +39.1%.** ⇒ **That is the DISTILLATE
+  CRACK reaching consumer prices** — the vault's registered gauge (*"crack spreads, not flat price"*)
+  **printing inside the CPI.** [[war/war-board]] · [[oil-value-chain]]
+- **REAL WAGES ARE NEGATIVE: nominal AHE +3.2% YoY against CPI +3.4% ⇒ REAL average hourly earnings
+  −0.2% YoY.** AHE $37.62, weekly $1,290.37, hours 34.3.
+- **"All items less food, shelter and energy" = +1.9% YoY.** Core goods +0.8% · used cars −1.9% YoY ·
+  medical care commodities −2.7% YoY · **medical care SERVICES +2.7% YoY.**
+- **⚠️ THE DISCIPLINE NOTE, from BLS itself: the estimated standard error on the 1-month all-items change
+  is 0.04pp — a 0.2% monthly print carries a 95% CI of 0.12% to 0.28%.** ⇒ **The difference between a
+  0.1% and a 0.2% MoM print is INSIDE the confidence interval.** **"In line on all four" is even less
+  informative than it reads, and the market trades decimal places the series cannot resolve.**
+  📌 **Standing: quote 3-month annualised, not single-month surprises.** *(Analysis.)*
+**Links:** [[market-fragility]] · [[war/war-board]] · [[predictions]] · [[compression-thesis]]
