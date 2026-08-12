@@ -4370,3 +4370,75 @@ compute share ⬜."* **It is no longer pending. It is DISPUTED.**
    GW.** Tier-0 candidate (EDGAR numerator; GW denominator needs a source ⬜).
 3. **⬜ The Q2 2026 IBM gen-AI book-of-business figure** (absent from the 7/22/26 print as fetched).
 4. **⬜ Primary Verge transcript — still unread (403).** Quotes are convergent-secondary. Upgrade if reachable.
+
+### 2026-08-11 ~10:40pm PDT — ★★★★★ THE WSJ PRIMARY ON THE $500B PIPELINE: the mechanism is a RESIDUAL-VALUE GUARANTEE, not a chip pledge — and BROADCOM ALREADY DID IT AT 83%
+Source: WSJ, Pitcher/Gardizy/Rudegeair, *"Why Wall Street and Nvidia Are Building an Exotic Money
+Pipeline for the AI Boom"* → `raw/wsj-2026-08-11-exotic-money-pipeline.txt`. **Closes the 8/10 registered
+fetch for the $500B primary.**
+
+#### DATA (observed — WSJ)
+- **THE PROBLEM STATED PLAINLY: *"Many of his customers CAN'T AFFORD to buy his company's chips."***
+  The concern is **NOT** Meta/Microsoft/Google with fortress sheets — it is **smaller AI labs, clouds and
+  enterprises** who face high rates. **They are being CROWDED OUT by IG supply from Meta, Alphabet, Amazon.**
+- **✓ CONFIRMS THE VAULT'S "COMMITTED CAPITAL $0": *"No money has been raised yet under the new
+  partnerships."*** Goal: sell public and private debt to **pension funds, insurers and sovereign-wealth
+  funds**, proceeds funding dedicated **"platforms."**
+- **★★★★ THE MECHANISM, PRECISELY: Huang said NVDA might backstop *"as much as 25% of the cost of a
+  project"* through a **"RESIDUAL-VALUE SUPPORT MECHANISM."*** WSJ: *"That would likely keep the
+  obligations OFF NVIDIA'S BOOKS INITIALLY but put the chip maker on the hook… a guarantor agrees to
+  make up the difference if the value of a given asset backing a loan FALLS BELOW A CERTAIN FLOOR."*
+- **★★★★★ THE BENCHMARK NOBODY IS QUOTING — BROADCOM ALREADY RAN THIS, BIGGER: a $35B financing package
+  arranged by Apollo, Blackstone and banks to LEASE CHIPS TO ANTHROPIC in June. Broadcom's DISCLOSED
+  maximum exposure under its backstop: $29 BILLION — 83% of the package**, *"an amount that decreases as
+  lease payments come in."*
+- **CREDIT PRICING, three prints:** **AI-related bond issuance $344B by early August** (BofA Global
+  Research), **up >$200B from 2025**; survey expects **~$100B more** this year. **CoreWeave raised a
+  $2.6B facility THIS MONTH backed by ITS CONTRACTS with Anthropic, Jane Street and others at
+  benchmark +5.5pp = OVER 9% — bankers had marketed it up to 1.25pp TIGHTER, so it priced 125bp WIDE
+  of guidance.** **Galaxy Digital $3.5B junk bond last month at ~10%** for a Texas data centre **leased
+  to CoreWeave.**
+- **THE BEAR, NAMED: Michael Burry** (short NVDA): *"Structuring credit is a natural part of the system.
+  Structuring UNNATURAL CREDITS TO PROLONG MOMENTUM LATE IN THE BULL PHASE is where the worry comes in."*
+- **THE BULL FRAME: Fink likens it to the birth of mortgage-backed securities in the 1970s.** Ablin
+  (Cresset, NVDA holder): compute as collateral is *"an asset that's had the SHELF LIFE OF LETTUCE."*
+- **DEFAULT ASSUMPTION, stated as an assumption:** *"If a customer defaults, THE THINKING GOES, a new one
+  will step in quickly."*
+
+#### THESIS (interpretation — NOT fact)
+- **⛔ THE TWO CORRECTIONS TO THE INTUITIVE READ (Jake's chain, graded — he had ~80% of it):**
+  **(1) NVIDIA DOES NOT PLEDGE ITS CHIPS. It writes a GUARANTEE.** The chips belong to the buyer and
+  secure the buyer's loan; NVDA separately promises to cover a shortfall if collateral value breaks a
+  floor. ⇒ **NVDA's risk is a CONTINGENT LIABILITY, not an encumbered asset** — which is exactly why it
+  sits off the books until it triggers. **(2) THE BORROWER IS THE AI COMPANY, NOT THE INVESTOR.**
+  Apollo/BlackRock/Blackstone **arrange and manage**; the CASH comes from pension funds, insurers and
+  sovereign-wealth funds; the LOAN goes to the smaller lab/cloud buying the chips. *(Analysis.)*
+- **★★★★★ AND THE PART OF THE INTUITION THAT IS SHARPER THAN THE ARTICLE: "either you collateralise
+  RECURRING COMPUTE regardless of chip model, or you run an exhausting refinancing game against an
+  eroding LTV." THAT IS THE ACTUAL FORK, AND THE MARKET HAS ALREADY TAKEN THE FIRST BRANCH — AND IT
+  STILL PRICED WIDE. CoreWeave's $2.6B this month is backed by CONTRACTS (Anthropic, Jane Street), not
+  silicon** — cash-flow collateral, exactly the proposed fix — **and it cleared 125bp WIDE of guidance at
+  over 9%.** ⇒ **Substituting compute for chips as collateral does not solve the pricing problem; it
+  relocates it from ASSET risk to COUNTERPARTY risk, and the counterparties are the same
+  capital-hungry AI companies.** *(Analysis.)*
+- **★★★★ HUANG'S 8/10 VOCABULARY IS NOW LEGIBLE AS UNDERWRITING PREP, not philosophy. "Investable asset…
+  productive, revenue-generating, FUNGIBLE… broad, deep reach in OFF-TAKERS… LONG LIFE"** (L4091) is the
+  precise language required to move collateral from **a depreciating machine to a contracted cash
+  flow.** ⇒ **He is arguing the first branch of the fork. "Long life" is not a claim about silicon; it
+  is a claim about the ASSET CLASS.** *(Analysis.)*
+- **★★★★★ BROADCOM AT 83% IS THE MOST USEFUL NUMBER IN THE PIECE AND IT CUTS BOTH WAYS. BULL: a
+  disclosed precedent exists, the accounting treatment is established, and the exposure AMORTISES as
+  lease payments arrive. BEAR: $29B of disclosed maximum exposure on ONE $35B deal means the "up to
+  25%" NVDA floats is the CONSERVATIVE end of a range the industry has already blown through** — and
+  Huang's own X post said existing arrangements run higher (L4183). ⇒ **📌 THE NVDA 10-Q TEST NOW HAS A
+  BENCHMARK: does NVDA disclose a maximum-potential-payment figure at all, and where does it sit
+  between 25% and Broadcom's 83%?** *(Analysis.)* [[balance-sheet-board]]
+- **⚠️ THE ASSUMPTION DOING ALL THE WORK, quoted as an assumption by the WSJ itself: *"if a customer
+  defaults, THE THINKING GOES, a new one will step in quickly."*** **That is the entire recovery
+  assumption of the asset class, and it is stated as a belief.** It holds in a shortage and fails in a
+  glut — **and it fails EXACTLY WHEN you need it, because defaults cluster when demand softens.**
+  **Every securitisation that failed, failed on its recovery assumption, not its default assumption.**
+  *(Analysis.)*
+- *(the Fink analogy, graded)* **MBS in the 1970s is a revealing choice: the structure worked for ~30
+  years and then failed catastrophically ON THE COLLATERAL-VALUE ASSUMPTION.** Fink means the founding;
+  Burry means the ending. **Both are talking about the same instrument.** *(Analysis.)*
+**Links:** [[balance-sheet-board]] · [[cepi]] · [[metered-compute]] · [[ai-capex-cycle]] · [[market-fragility]]
