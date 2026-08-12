@@ -258,3 +258,75 @@ backtest/screen notebooks against the standard defect list. *(Analysis. Concede.
 - ⬜ Whether any of the five `Call Put Scanner v5` forks was ever backtested at all. **Its own markdown says
   not:** *"V4 z-score composite is computed in parallel for reference but does not drive the signal until
   backtested."* **The scoring engine driving the output is the un-backtested one.**
+
+---
+
+## 2026-08-12 ~3:30pm PDT — ⛔⛔ THE FOLDER IS 289 FILES, NOT 50. THE SCRAPE SAW 17% OF IT.
+Jake turned the Drive connector to "always on" at ~3:15pm PDT. The API answers what the public HTML could
+not. **⬜ NOT-KNOWN items 1, 2 and 3 above are now CLOSED, and the first one closed against me.**
+
+### DATA (observed — Drive API, 2026-08-12)
+- **289 unique files · 19.6 MB** in `1emVvnIsxhHGWmFlwDHipr6TVLG6YbWpg`. **The 8/12 audit read 50 (17%).**
+  The public-HTML folder view renders only its first page; **it is not a listing, it is a viewport.**
+- **177 of 289 (61%) are `Untitled*.ipynb`** — Colab's default name. **54 (19%) are under 1 KB**, i.e. opened
+  and abandoned. **The named files are the tip; the folder is mostly scratch.**
+- **Created span 2025-09-27 → 2026-08-10.** Monthly: Sep-25 **15** · Oct-25 **72** · Nov-25 **56** · Dec-25
+  **2** · Jan-26 **30** · Feb-26 **19** · Mar-26 **13** · Apr-26 **19** · May-26 **5** · Jun-26 **6** ·
+  **Jul-26 47** · Aug-26 **5**.
+- **74 distinct named notebooks. 21 are already in `tools/`. 53 are NOT in the repo.**
+- **`vault_headline_scanner.ipynb` exists in NINE versions**, newest **2026-08-11** (58 KB) — a day before
+  this audit, and the repo has none of them.
+
+### THESIS (interpretation — NOT fact)
+- **⛔ THE METHOD ERROR, NAMED: I TREATED A RENDERED PAGE AS A COMPLETE LISTING.** The HTML returned
+  `HTTP 200` and 50 well-formed entries, so it *looked* authoritative. **A 200 with plausible content is the
+  most dangerous failure mode there is — it is the one that does not announce itself.** The audit's ⬜ #1
+  said *"if Drive paginates beyond 50 there are files this audit did not see"*, which was the right doubt
+  registered at the right time — **and I still wrote the headline number as "50 files" rather than "50 seen,
+  total unknown."** *(Analysis. Same family as the crosscheck vocabulary gap logged this morning: the
+  difference between "I looked and found nothing" and "I could not look" must survive into the OUTPUT.)*
+- **★★ THE MONTHLY RHYTHM IS THE MOST INFORMATIVE THING THE METADATA ADDS, AND IT IS NOT ABOUT CODE.**
+  Oct-Nov 2025 = **128 files** (the InlandNW migration work + the Untitled flood). **Dec-25 = 2.** Then a
+  Jan-Apr 2026 research burst, a **May-Jun trough (11 files)**, and **Jul-26 = 47** — which is exactly the
+  vault-tooling era (`mechanical_bid_patterns`, `vol_risk_premium`, `passive_bid_fingerprint`,
+  `momentum_through_first`, `median_fan_drawdown`, `csp_screen`, `alpaca_connection_test`, nine
+  `vault_headline_scanner` builds). **The folder is a work-rate log, and the July spike is this vault
+  learning to build its own instruments.** *(Analysis.)*
+- **⛔ AND IT CORRECTS MY OWN RECOVERY: I PICKED THE BIGGEST FORK, NOT THE NEWEST.** `csp_screen` has three
+  forks modified within 11 minutes on 2026-07-17; I recovered `1srw5H5c` (57 KB, 20:16) because it was
+  largest — **but most of that size is saved OUTPUT, and the three have different CODE.** The last edit is
+  `1DFo8dwo` (20:20). **`tools/csp_screen.ipynb` has been replaced with it.** ✅ ⬜ #2 closed by metadata:
+  newest `Call Put Scanner v5` = `1HRJZsq4` (2026-08-11, 496 KB); newest `ai stock analysis` = `1MwUcxGG`
+  (2026-02-02, 283 KB); newest `Call Put Scanner v4` = `1z9nwEhg` (2026-06-15).
+- **★★★ AND THE REAL COST OF THE 17% VIEW: TWO ENTIRE RESEARCH THREADS THE VAULT HAS NEVER SEEN, BOTH
+  POINTING AT SPINE NOTES.**
+  1. **The ROIC-GAP family — 5 notebooks, all 2026-04-04** (`ROIC Gap Screener` 161 KB, `Winners vs Losers`
+     206 KB, `Top10 Backtest` 133 KB, `CapEx Top10 Backtest`, `v2`). **Return on invested capital against
+     capex is the measurement [[cepi]] is built to make** — and [[buying-at-highs]] has been carrying
+     *"the market reprices BUILDERS until capex ROI shows up (Bain: <10%)"* as an unmeasured claim.
+  2. **The REVENUE-INTENSITY family — 5 notebooks, 2026-01-29** (revenue ÷ market cap; `AI Infrastructure
+     Backtest` 246 KB, `5Year Backtest` 171 KB, `Nasdaq-100 Screener` 142 KB). **Written in JANUARY, before
+     `cepi.md` existed**, and measuring a near-neighbour of the same idea.
+  ⚠️ **The Revenue-Intensity work carries a visible overfit, stated by the notebook as a discovery:**
+  *"Key Discovery from Unfiltered Backtest: ALL losers were e-commerce/media… Revenue intensity ONLY works
+  IN THE RIGHT SECTORS"* → and the next notebook adds an **AI-infrastructure-only filter**. **That is a
+  sector filter chosen after seeing which names lost.** The unfiltered result is the honest one; the
+  filtered one is the unfalsifiable one. 🚩 Read the unfiltered backtest first.
+- **★★★★ THE HIGHEST-VALUE FILE IN THE 239 I HAD NOT READ IS `tdf rebalance backtest.ipynb` (2026-05-03),
+  AND IT CLOSES A 26-DAY-OLD REGISTERED TEST WHILE CORRECTING A VAULT LINE.** Filed in full to
+  [[bull-bear-ledger]] (2026-08-12 ~3:35pm): the TDF mechanism is significant at **month-ends (r=−0.278,
+  p=0.000, n=272)** and **null at quarter-ends (r=+0.056, p=0.596)** — backwards from `bull-bear-ledger:195`'s
+  attribution, now superseded — and **the SPY effect died post-2018 (5.5 bps/trade, 52% win rate)**, which is
+  the Goodhart answer to the decay test open since 7/17.
+
+### ⬜ NOT-KNOWN (revised)
+- ✅ ~~#1 folder size~~ → **289 files.** ✅ ~~#2 which fork~~ → **resolved by modifiedTime.**
+  ✅ ~~#3 dates~~ → **full created/modified metadata now held.**
+- ⬜ **51 named notebooks remain unread**, including `nvda squeeze analyzer` (435 KB), `squeeze screener` ×2,
+  `SP500 Recession Screener v4` (97 KB) / `FINAL` / `SP500_NUCLEAR_OPTION`, `sector_brain`,
+  `spy_weekly_poc_scan`, `weekly_stack`, `power_equipment_screen`, `V4 OPTIONS`, `watchlist screener`,
+  `SLV Quarterly Cyclical Analysis`, `seasonal10_dashboard`.
+- ⬜ **The 5.5 bps / 52% decay figure is quoted from the sector notebook's framing, not from a table I have
+  seen.** Verify before citing as a vault number.
+- ⬜ **177 `Untitled*` files are unexamined.** At 61% of the folder they are most of it; the 54 sub-1 KB ones
+  are certainly noise, but **the remaining ~123 are not** — several exceed 100 KB (largest **421 KB**).

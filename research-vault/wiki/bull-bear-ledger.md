@@ -193,6 +193,7 @@ mechanistically-coherent patterns:
 - **Payday clustering:** calendar **1st (±2d) +17.35 bp, 15th (14–16) +10.21 bp** vs **+2.19 other** — the
   **semi-monthly payroll cadence.** Closest thing to a smoking gun that the bid IS the contribution flow.
 - **Quarter-end > month-end > baseline:** +8.23 > +6.13 > +3.26 bp — the quarterly institutional/TDF rebalance
+  ⟲ SUPERSEDED 2026-08-12 → bull-bear-ledger.md:L314 — the quarter-end>month-end DATA stands, but '(hypothesis supported)' does not: the TDF mechanism tests significant at month-ends (p=0.000) and null at quarter-ends (p=0.60)
   is bigger than the monthly drip (hypothesis supported).
 - **Counterintuitive:** the ACTUAL last day is soft (−1.23 bp) while the penultimate is strong (+11.15) — bid
   front-runs into day −1, true close sags (rebalance sell landing?). And **OpEx week is a DRAG** (+1.84 vs
@@ -310,3 +311,58 @@ Source: [[colab-archive-audit]] — Drive folder read 8/12, 50 files parsed with
 - ⚠️ **Both are Jake-side runs, not container runs** — Yahoo returns HTTP 429 to this container's egress IP
   and stooq is unreachable (8/12 test). Colab runs them clean. 🚩 **Next Colab session: run
   `body_momentum_carry` as-is, then re-run the day-1/payday atlas with `START='2018-01-01'`.** *(Analysis.)*
+
+### 2026-08-12 ~3:35pm PDT — ★★★★ THE ≥2018 DECAY TEST IS ANSWERED, AND THE TDF MECHANISM IS A MONTH-END EFFECT THAT DIES AT QUARTER-ENDS
+  ⟲ SUPERSEDES bull-bear-ledger.md:L195 — the quarter-end>month-end DATA stands, but '(hypothesis supported)' does not: the TDF mechanism tests significant at month-ends (p=0.000) and null at quarter-ends (p=0.60)
+Source: `tdf rebalance backtest.ipynb` (Drive, modified **2026-05-03**, 272 events, SPY/AGG/IEF/TLT
+2003-10-01→2026-05-01) and `sector rebalance signal.ipynb` (same date). **Both were invisible to the 8/12
+audit's first pass** — the public-HTML scrape saw 50 of the folder's **289** files. Recovered once Jake
+turned the Drive connector on. See [[colab-archive-audit]].
+
+#### DATA (observed — the saved runs)
+- **ALL MONTH-ENDS, n=272** — MTD SPY−AGG imbalance measured at T−3 vs the next 3 days:
+  **imbalance → 3d SPY: Pearson r = −0.278 (p=0.000)**; imbalance → 3d SPY−AGG spread: **r = −0.256
+  (p=0.000)**. Sign is the one the rebalance thesis PREDICTS (equities outrun bonds ⇒ funds must sell equities).
+- **QUARTER-ENDS ONLY, n=91** — QTD imbalance → 3d spread: **r = +0.056 (p=0.596)**; → 3d SPY: **r = +0.015
+  (p=0.887)**; Spearman ρ **−0.006 (p=0.957)**. **Nothing.**
+- **Quintiles, all months (imbalance → SPY window return):** Q1 **+0.75%, t=2.13** · Q2 +0.37%, t=1.87 ·
+  Q3 −0.06% · Q4 −0.01% · **Q5 −0.13%, t=−0.87.** ⚠️ **The significant end is Q1, not Q5.**
+- **Parameter sweep, quarter-only vs all-months** (avg bps/trade): 0.5% → 30.8 vs 2.7 · 1.0% → 31.8 vs 7.9 ·
+  1.5% → 35.2 vs 7.4 · **2.0% → 31.4 vs −5.5** · 2.5% → 38.9 vs 8.2 · 3.0% → 47.2 vs 31.9. **All-months beats
+  quarter-only at every single threshold.**
+- **`sector rebalance signal` states the decay figure directly:** *"SPY's effect died in 2018-2025 — **5.5
+  bps/trade, 52% win rate**."* Its rescue attempt (11 SPDR sectors, 2018-2025, n=51/pair) is a **NULL**:
+  best of 55 sector-pair spreads is **t = 1.41** (XLV/XLP).
+
+#### THESIS (interpretation — NOT fact)
+- **⛔ THIS SUPERSEDES THE MECHANISM ATTRIBUTION AT L195-196, THOUGH NOT ITS DATA.** That line reads
+  *"Quarter-end > month-end > baseline: +8.23 > +6.13 > +3.26 bp — the quarterly institutional/TDF rebalance
+  is bigger than the monthly drip **(hypothesis supported)**."* **The daily averages stand; the parenthetical
+  does not.** I inferred a MECHANISM from a CALENDAR AVERAGE. When the mechanism is tested directly — does a
+  large equity-vs-bond imbalance predict the fade the rebalance story requires — **it is present at
+  month-ends (p=0.000) and absent at quarter-ends (p=0.60), which is backwards from the attribution.**
+  Quarter-end days may well run hot for other reasons; **they do not run hot because of rebalancing flow.**
+  *(Analysis. This is the third time a calendar regularity in this vault got a mechanism attached to it
+  before the mechanism was tested.)*
+- **★★★ AND IT CLOSES 🚩 THE ≥2018 DECAY TEST — OPEN SINCE 7/17, AND THE ANSWER IS GOODHART.** L205-207
+  registered: *"the decisive open test = rerun on ≥2018 only (does day-1/payday still pay, or did quants eat
+  it since?)."* **On the month-end leg: eaten. 5.5 bps and a 52% win rate over 2018-2025 is a coin flip.**
+  The full-sample r=−0.278 is carried by the pre-2018 half. **The most-documented anomaly in the book behaved
+  exactly as [[_assumption-filters]]' Goodhart branch says it should.** ⚠️ **The 5.5bps/52% figure is quoted
+  from the sector notebook's own framing of the prior run — I have NOT seen the era-split table that
+  produced it.** ⬜ Verify before it is cited as a vault number.
+- **⚠️ THE SECTOR RESCUE IS A NULL, AND ITS OWN VALIDITY CHECK IS ARITHMETICALLY VACUOUS.** Max t=1.41 across
+  **55 pair combinations** is what noise looks like at that many draws. Worse, the notebook prints a "Bottom 5
+  (worst pairs — **sanity check that the signal isn't random**)" — but **those five ARE the top five with the
+  legs swapped** (XLC/XLP +68.07 bps, t=+1.32; XLP/XLC −68.07 bps, t=−1.32). **Long-A-short-B is the exact
+  negative of long-B-short-A; the check cannot fail, so it validates nothing.** *(Same shape as the EMA5
+  "conservatism theatre" — a check that reads as rigour and is a tautology.)*
+- **★★ THE PART THAT SURVIVES, AND IT IS THE OPPOSITE OF THE TRADE THAT WAS BEING LOOKED FOR: the t-stat
+  lives in Q1, not Q5.** The tested trade was *fade a big equity-over-bond month*. **Q5 (the fade leg) is
+  t=−0.87 — not significant. Q1 is t=+2.13** — i.e. the signal is *"bonds beat stocks into month-end ⇒ buy
+  equities,"* the rebalance running the OTHER way. **Directionally coherent with the same mechanism** (funds
+  underweight equities must buy) **but it is a different trade from the one the notebook set out to test,
+  and it was not the one swept or reported.** 🚩 *(Analysis. Descriptive — rule 7.)*
+- **⚠️ AND THE WHOLE THING INHERITS THE FOLDER'S DISEASE: no holdout.** The 14-cell threshold sweep reports
+  its best cell (3.5%, all months, **55.0 bps, n=93**) from the same data that chose it. **Treat every bps
+  figure above as in-sample.** The correlations (r, p) are the durable part — they are not selected.
