@@ -1908,3 +1908,75 @@ read the digest, not the haystack (rule 19).**
   an adjective from an interested mediator. **The vault has now been right twice running by preferring
   the tanker count.**
 **Links:** [[demand-destruction]] · [[oil-value-chain]] · [[market-fragility]] · [[war-confirmed]]
+
+---
+
+## 📌 LEDGER 2026-08-11 ~5:10pm PDT — REUTERS PRIMARY CLOSES THREE OPEN ITEMS, CORRECTS A CONFLATION OF MINE, AND THE IRANIAN DEMAND SET TURNS OUT TO BE STRUCTURALLY UNSATISFIABLE
+Source: Reuters, *"New attacks on shipping as Iran war talks hit fresh impasse"* (Ramadan/Elwelly,
+filed 8:18am, updated ~1h before paste). **PRIMARY WIRE — supersedes the aggregated versions.**
+
+### ⛔ MY CONFLATION, CORRECTED: THERE WERE **TWO** BAB EL-MANDEB ATTACKS TUESDAY, NOT ONE
+- **(1) A SAUDI SHIP CARRYING MILITARY EQUIPMENT**, attacked in Bab el-Mandeb — **claimed by the
+  Houthi-run Saba agency. ⚠️ NO SAUDI CONFIRMATION.** *(Claim, not event.)*
+- **(2) THE *TIHAMAH*, an EGYPTIAN-OWNED small cargo vessel — FOUR CREW KILLED**, per **Yemen's
+  Transport Ministry**, suspected Houthi.
+- ⇒ **My 7:35am entry ("a Houthi Red Sea attack kills 3 crew") and the 1:15pm digest ("2 → 4") were
+  tracking ONE of these through a revision chain, and I filed them as a single event.** **Two vessels,
+  two sources, one of them unconfirmed.**
+
+### ⬜ ITEMS CLOSED BY THIS WIRE
+1. **⬜ CLOSED — THE PLATFORM AND ORDNANCE: a US Navy **MH-60 helicopter** fired **TWO Hellfire
+   missiles** to disable the **steering gear**, **off Pakistan**, sailing into the Gulf of Oman.**
+   **US military ON THE RECORD.** ⇒ **Every element of my 8/11 correction is confirmed** (helicopter,
+   missile, steering gear, Gulf of Oman, not near Hormuz) — **and the count was TWO missiles, not one.**
+2. **⬜ CLOSED — THE CASUALTY RECONCILIATION, and the precise wording matters. Reuters: the Tihamah
+   deaths *"would be the FIRST DEATHS IN A HOUTHI STRIKE on shipping since the Iran war began."***
+   ⚠️ **That is NOT "first shipping deaths."** The blockade series already carries the ***Settebello*
+   (6/9, three Indian crew killed)** — **a US enforcement action, a different actor and a different
+   category.** ⇒ **Both statements are true. Do not merge them.**
+3. **⬜ CLOSED — the Vela Nova casualty conflict** (Reuters/CENTCOM: crew accounted for, no injuries).
+
+### DATA (observed — new to the vault)
+- **★★ THE JULY-20 DECLARATION THE VAULT NEVER HAD: the Houthis said on **20 JULY** they would impose a
+  **NAVAL BLOCKADE ON SAUDI ARABIA** in the Red Sea.** ⇒ **L1160 logs "four Saudi tankers struck
+  7/20-8/2" and L1358 calls it "the STANDING tempo" — the vault had the SYMPTOM and never the
+  ANNOUNCEMENT. The strikes begin the day of the declaration.**
+- **★★★★ REZAEI'S CONDITIONS ARE BROADER THAN ANY EARLIER VERSION: Hormuz stays shut until the US
+  accepts (a) release of Iran's frozen assets AND (b) *"an end to wars throughout the region,
+  INCLUDING IN LEBANON AND GAZA."*** Rezaei was **appointed Sunday as second-in-command of the body
+  coordinating Iran's security and foreign policy.**
+- **TRUMP, Monday: a new demand that Iran pay COMPENSATION for people killed in 50 years of wars,
+  attacks and protests.** And on tempo: *"I might just BOP ALONG… I'm sort of negotiating. They're
+  very devious negotiators."*
+- **★★ NEW ESCALATION DOCTRINE, on state TV: Mohammad Reza Naqdi, adviser to the IRGC commander —
+  the corps is developing the ability to carry out operations *"ON ENEMY SOIL"*: *"We need to be able
+  to move the operations to the enemy's soil, whenever this is needed and ordered."***
+- **WAR START: Feb 28** (US+Israel attacks on Iran) ✓ matches L563. **Five months.** Iran has struck US
+  assets in **Oman, Jordan, Kuwait, Israel, UAE and Saudi Arabia.**
+- **DENOMINATOR: Hormuz handled A FIFTH of global oil and LNG flow before the war.**
+- **PRICE: Brent settled $88.91 (+1.4%), WTI $83.20 (+1.3%)** ✓ matches the 1:15pm digest.
+
+### THESIS (interpretation — NOT fact)
+- **★★★★★ THE DEMAND SET IS NOW STRUCTURALLY UNSATISFIABLE, AND THAT IS A CATEGORY CHANGE FROM A HARD
+  BARGAIN. "End the wars in Lebanon and Gaza" is not something Washington can deliver UNILATERALLY** —
+  it requires third parties Iran itself does not control either. ⇒ **A demand that cannot be met by the
+  counterparty is not a negotiating position; it is a JUSTIFICATION FOR THE STATUS QUO.** Paired with
+  **Trump's counter-demand for 50 years of compensation** and **"I might just bop along,"** ⇒ **BOTH
+  SIDES HAVE NOW STATED TERMS THE OTHER CANNOT SATISFY, AND NEITHER IS SIGNALLING URGENCY.**
+  ⇒ **The vault's "technical agreement ≠ reopening" (8/10) was too GENEROUS: it implied a reopening
+  was being negotiated on a slower track. This wire says the reopening is not on the table at all.**
+  *(Analysis.)*
+- **★★★ REZAEI'S APPOINTMENT IS THE UNDER-READ ITEM: he was made second-in-command of the security
+  coordination body ON SUNDAY, and delivered the hardest line on Tuesday.** ⇒ **The escalation is
+  PERSONNEL-BACKED, not rhetorical** — a hardliner was installed and then spoke. **That is more durable
+  than a statement.** 🚩 **WATCH: whether Araghchi (the diplomatic track) is contradicted by Rezaei
+  again — two voices with different mandates is how a negotiating position becomes a faction fight.**
+  *(Analysis.)*
+- **★★ "OPERATIONS ON ENEMY SOIL" IS THE FIRST HOMELAND-CLASS SIGNAL IN THIS THREAD, and it is a
+  DOCTRINE statement, not a threat of a specific act.** Per WARNING-vs-TRIGGER: **a stated capability
+  ambition is a STATE. It shades odds and times nothing.** **File it; do not price it.** ⬜ **What
+  "enemy soil" denotes — US homeland, US bases, Israel — is NOT specified in the quote.** *(Analysis.)*
+- *(the tape, unchanged in direction)* **Oil up, global shares down, on "renewed pessimism."** The
+  headline-reflex machine (1:15pm) fired again — **but this time the PHYSICAL claim underneath it
+  hardened, which is the first time this week the reflex and the substance agreed.** *(Analysis.)*
+**Links:** [[demand-destruction]] · [[oil-value-chain]] · [[market-fragility]] · [[war-confirmed]]
