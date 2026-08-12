@@ -2865,3 +2865,58 @@ FED thread now 1 → 12 hits.
 - **📌 "BESSENT WILL BE BUSY" is the one part that needs no interpretation:** heavy coupon supply into a
   market demanding term premium is a Treasury-refunding problem before it is a Fed problem.
 **Links:** [[market-fragility]] · [[ai-financing-fragility]] · [[predictions]] · [[fragility-engine]]
+
+### 2026-08-11 ~5:25pm PDT — ★★★★ BofA's OBSERVATION IS CONFIRMED 11:1 AND ITS MECHANISM IS UNTESTED — plus the rate data CANNOT refute the immigration story, so both explanations survive
+Source: ZH on a BofA note (Stephen Juneau, *"A stock-fueled retirement party"*), Jake paste ~5:20pm PDT.
+**Tested against BLS directly rather than argued.** ⚠️ **NEW WORKING DATA SOURCE: the BLS public API is
+KEYLESS and reachable** — the only macro source that answered today (FRED down, Census API keyed,
+Census CSV 400, DBnomics 404, stooq down).
+
+#### DATA (observed — BLS public API, pulled 2026-08-11, participation rate %)
+| cohort | latest (Jul-26) | Δ 1 year | Δ 2 years |
+|---|---|---|---|
+| **55 and over** | **36.9** | **−1.10pp** | **−1.40pp** |
+| **prime age 25-54** | **83.4** | **−0.10pp** | **−0.30pp** |
+| total 16+ | 61.4 | −0.90pp | −1.20pp |
+- **⇒ THE 55+ DECLINE IS ~11× THE PRIME-AGE DECLINE OVER ONE YEAR.** Prime-age at −0.10pp/yr is noise.
+- Prime-age employment-population ratio: **80.7 → 80.4** over the same window.
+- ⚠️ **MY OWN LABELLING ERROR, corrected in place: I pulled LNS13000000 and printed it as "U-rate."
+  It is the unemployment LEVEL (thousands), not the rate.** On that series unemployed persons went
+  **7,503K (Dec-25) → 6,916K (Jul-26), −587K**, against a labour force down ~2M.
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ BofA'S OBSERVATION IS CORRECT AND IT IS NOT CLOSE. The participation decline IS concentrated
+  in 55+.** ⇒ **The "labour force shrank 264K in the month, 2M since January" is NOT prime-age workers
+  vanishing.** *(Analysis.)*
+- **⛔ BUT JAKE IS DUNKING ON ZH'S HEADLINE, NOT BofA'S CLAIM, AND THE TWO ARE DIFFERENT DOCUMENTS.**
+  **BofA (as quoted): *"there appears to be a MODEST NEGATIVE RELATIONSHIP between equity gains and
+  older workers' participation."*** **ZH's headline: *"The US Unemployment Rate Is Falling Because
+  Americans Are Too Rich."*** ⇒ **A hedged, small, single-cohort claim was rewritten as a
+  whole-economy causal one.** ZH's own body even concedes *"Is BofA right? We don't know."*
+  **The moon-dwelling is in the headline.** *(Analysis.)*
+- **★★★★ THE MECHANISM IS UNTESTED AND THE CONFOUND IS LARGE: COHORT AGING. As the boom cohort moves
+  from 60-64 into 70+, aggregate 55+ participation falls MECHANICALLY through composition with ZERO
+  behavioural change.** The 1955-64 bulk is now 62-71. ⇒ **A wealth-effect story and a pure-demography
+  story predict the SAME aggregate.** 🚩 **RESOLVER: participation WITHIN narrow bands — 55-59, 60-64,
+  65-69. If 55-59 is flat and only 65+ falls, it is aging. If 55-59 and 60-64 fall too, the wealth
+  argument gains.** **BLS publishes these; the API works. Not yet run.** *(Analysis.)*
+- **★★★★★ AND THE POINT BOTH SIDES MISS: THE PARTICIPATION RATE CANNOT REFUTE THE IMMIGRATION STORY AT
+  ALL. Emigration removes a person from the NUMERATOR AND THE DENOMINATOR** (labour force and
+  population) **— so people leaving the country shrink the LEVEL without moving the RATE.** ⇒ **Flat
+  prime-age participation is fully consistent with millions of foreign-born workers exiting.**
+  ⇒ **BOTH EXPLANATIONS SURVIVE SIMULTANEOUSLY: the 55+ RATE decline explains the rate, emigration
+  explains the LEVEL. They are not competing hypotheses and the debate treats them as if they were.**
+  *(Analysis. This is the finding.)*
+- **★★★ THE REGIME IMPLICATION, which is what this note exists for: A SHRINKING LABOUR FORCE MEANS LESS
+  SLACK, WHICH MAKES THE PAYROLL WEAKNESS LESS DISINFLATIONARY THAN IT LOOKS.** −23k jobs into a
+  labour force down 2M is a different macro object than −23k into a growing one. ⇒ **HAWKISH at the
+  margin — consistent with Hammack's July dissent for a hike, today's 3Y at 4.291% (an 18-month high),
+  and Sept-cut odds FALLING ~10pp on a weak print.** 📌 **Bears directly on tomorrow's CPI: less slack
+  raises the odds that a hot print is read as persistent rather than transitory.** *(Analysis.)*
+- **★★★ AND THE INSTRUMENT POINT WORTH KEEPING: THE UNEMPLOYMENT RATE CANNOT MEASURE AI DISPLACEMENT IN
+  A SHRINKING-LABOUR-FORCE REGIME.** If exit exceeds displacement, displaced workers leave the labour
+  force rather than joining the unemployed, and the rate FALLS while the thing is happening. ⇒ **ZH's
+  closing irony is real but the deeper point is that U-3 is the WRONG INSTRUMENT.** 🚩 **Watch instead:
+  the prime-age employment-population ratio (80.7 → 80.4), the HIRES rate, and occupation-level data.**
+  *(Analysis.)*
+**Links:** [[market-fragility]] · [[compression-thesis]] · [[data-sourcing-playbook]] · [[predictions]]
