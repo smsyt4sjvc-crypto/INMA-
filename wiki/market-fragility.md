@@ -3063,3 +3063,51 @@ Sources cited inside it: Barron's, MarketWatch, AP, Investopedia (all 8/12).
   primary-source item… conclusively closed the F1-F10 registry"* — is the right call and should be
   read as the brief marking its own limits.** *(Analysis.)*
 **Links:** [[new-economy-regime]] · [[metered-compute]] · [[ai-financing-fragility]] · [[predictions]]
+
+### 2026-08-12 ~10:40am PDT — 📌 GRADED: THE 10Y TAILED — first since May, and at the HIGHEST AUCTION YIELD SINCE 2007. Test resolved YES on direction, NEGLIGIBLE on magnitude.
+Source: ZH on the $42bn 10Y result (1:00pm ET). **Grades the test registered 8/11 ~10:40am
+([[market-fragility]]): *"🚩 THE TEST: does the 10Y TAIL after the CPI print?"***
+
+#### DATA (observed — $42bn 10Y, 2026-08-12)
+- **HIGH YIELD 4.683%**, up from **4.586%** a month ago. **Wide of the 4.682% When-Issued ⇒ A TAIL —
+  THE FIRST SINCE MAY.**
+- **★★ HIGHEST 10Y AUCTION YIELD SINCE 2007** (~19 years).
+- **Bid-to-cover 2.532**, DOWN from 2.592 last month, **above** the six-auction average of 2.47.
+- **Indirects 76.73%**, DOWN from 81.49% in July (*"one of the highest ever"*), **above** the recent
+  average of 71.33. **Directs 14.67%**, UP from 10.73%, **highest since May.**
+- **DEALERS LEFT WITH 8.6% — "one of the lowest on record."**
+
+#### THESIS (interpretation — NOT fact)
+- **📌 THE GRADE, STATED HONESTLY: DIRECTION CORRECT, MAGNITUDE TRIVIAL. It tailed — 4.683% against a
+  4.682% WI is a 0.1bp tail.** ⇒ **The smallest tail that still counts as one.** **I am not claiming a
+  win on a tenth of a basis point.** **What the test was really asking — whether the auction would
+  struggle to absorb the print — answers NO.** *(Analysis.)*
+- **★★★★ THE HEADLINE FACT IS THE ONE ZH BURIES AS "perhaps more notably": THE HIGHEST 10Y AUCTION YIELD
+  SINCE 2007.** ⇒ **And the internals split cleanly by reference point: versus LONG-RUN AVERAGES
+  everything is fine (b/c above the 6-auction average, indirects above their average, dealers at a
+  record low). Versus LAST MONTH everything DETERIORATED — b/c 2.592→2.532, indirects 81.49→76.73.**
+  ⇒ **The auction cleared well at a 19-YEAR-HIGH YIELD. That is the same structure as Tuesday's 3Y:
+  STRONG DEMAND AT A MUCH HIGHER PRICE — buyers arriving because they are paid, not because they are
+  relaxed.** *(Analysis.)*
+- **★★★ DEALERS AT 8.6% IS THE GENUINELY STRONG INTERNAL AND IT MATTERS FOR FRIDAY.** End users took
+  ~91.4%. **Tuesday's 3Y left dealers with 11.7%; today 8.6%.** ⇒ **Two consecutive auctions in which
+  dealer balance sheets were barely used — the clean dealer-Δ baseline for the 13F batch stands.**
+- **⛔ AND ZH IS RUNNING THE SAME INFERENCE ERROR TWICE — GOT LUCKY ONCE, AND IS NOW BETTING ON IT AGAIN.
+  Yesterday: the 3Y stop-through *"should eliminate any concerns that the bond market is worried about
+  tomorrow's CPI."* I filed that as a non-sequitur — a through-stop measures the CLEARING PROCESS
+  against the WI setup, not an inflation view. TODAY THEY CLAIM VINDICATION: *"we said… nobody was
+  worried about today's CPI print… that was justified, since the CPI came in right as expected."***
+  ⇒ **AN IN-LINE CPI DOES NOT VALIDATE THE CLAIM THAT AN AUCTION PREDICTED IT.** **The two are
+  independent; a coincidence is being scored as confirmation.** **And they immediately re-run it:
+  *"we expect tomorrow's 30Y sale to have no problems finding buyers."*** *(Analysis.)*
+- **📌 WHY THAT EXTRAPOLATION IS WEAKEST EXACTLY WHERE THEY ARE APPLYING IT: the 30Y is the MOST
+  term-premium-sensitive point on the curve, it is ALREADY ~5.22% and ROSE THROUGH the CPI release
+  while the front end fell, and tomorrow it prices AFTER a PPI where GS carries +0.4% against +0.2%
+  consensus.** ⇒ **The 10Y absorbed a KNOWN-BENIGN print. The 30Y must absorb a print GS thinks is
+  double consensus, at the part of the curve that has been steepening all week.** **Two auctions of
+  evidence about the front and belly say little about the long end into a hotter release.**
+  🚩 **TOMORROW'S TEST, registered: does the $25bn 30Y tail — and by how much more than 0.1bp?**
+- *(marker check)* **10Y at 4.683% remains 32bp below the vault's 5.00% corner. The 30Y at ~5.22% is
+  already through it — but the marker is set on the 10Y.** ⬜ **Worth deciding whether the corner should
+  have a 30Y analogue; the long end is where the pressure is and the vault has no marker there.**
+**Links:** [[new-economy-regime]] · [[predictions]] · [[ai-financing-fragility]]
