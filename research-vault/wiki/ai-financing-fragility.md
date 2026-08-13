@@ -5119,3 +5119,71 @@ economic depreciation for older chips … is there potential for a depreciation 
 3. ⬜ **MW growth vs installed-silicon growth** — the counter to eviction; decides glide vs cliff.
 4. ⬜ carried: the recontracted-A100 rate · CRWV active MW · the transcripts.
 **Links:** [[power-not-petroleum]] · [[metered-compute]] · [[cepi]] · [[balance-sheet-board]] · [[compression-thesis]] · [[ai-capex-cycle]]
+
+### 2026-08-12 ~10:20pm PDT — ⚠️ THE DEMAND-CONSTRAINT EVIDENCE: **ALL THREE NUMBERS WERE ALREADY ON DISK, TWO OF THEM FOR THREE WEEKS** — and the grid series settles glide-vs-cliff in the direction Jake is arguing against
+Jake: *"other indicators still scream demand constraint rather than excess supply"* — Alphabet 2026 capex
+$195-205B accelerating delivery to meet demand · Google Cloud backlog +>$50B sequentially to $514B ·
+CRWV $104B backlog + $25B early Q3.
+
+#### DATA (the provenance check first — rule 6, on the inbound this time)
+- **Alphabet $195-205B: `compression-thesis:655`, dated 2026-07-23** — *"Alphabet FY26 capex $195-205B
+  (RAISED from $180-190B)"*, already graded there (*"capex-gap razor, fully cut… JPM floats $400B for
+  2027 = no ceiling"*). ⚠️ **Three weeks old, not "just raised."**
+- **Google Cloud backlog $514B: `:L1134`, dated 2026-07-26** — same entry as the golden-window math.
+- **CRWV $104.2B + $25B: `:L4648`, last night.**
+- **⛔ VERIFIED, and it is the decisive series — `power-not-petroleum:349-353`: ELECTRIC construction YoY
+  Jun-23 +15.6% · Jun-24 +14.5% · **Jun-25 +4.3% · Jun-26 +5.2%.** Data-centre construction Jun-26
+  **+45.8%.** **RATIO data-centre ÷ electric: 0.05 (2015) → 0.29 (2024) → 0.37 (2025) → 0.51 (2026).**
+
+#### THESIS (interpretation — NOT fact)
+- **⚠️ THE PROVENANCE MATTERS FOR THE ARGUMENT, NOT FOR THE SCORE: THESE ARE THE SAME NUMBERS THAT WERE
+  ON DISK WHEN I FORMED THE OVERCAPACITY READ.** ⇒ **They are not what changed my mind tonight. What
+  changed it was the RATE — a PRICE. And that is the whole distinction the demand case has to clear.**
+- **★★★★★ THE CRUX: BACKLOG AND CAPEX ARE *QUANTITY* MEASURES. THE CLIFF IS A *PRICE* QUESTION ABOUT ONE
+  SKU.** All three indicators measure **how much compute is wanted in aggregate.** None measures **what
+  an A100-hour fetches in 2028.** ⇒ **"Everyone wants compute" is fully consistent with "nobody wants an
+  A100" the moment there is a Blackwell available for the same socket.** **Aggregate demand and
+  SKU-level rate can move in opposite directions — that is the entire eviction argument, not a dodge
+  around it.** *(Analysis.)*
+- **★★★★ AND THE CAPEX LINE CUTS THE OTHER WAY FROM HOW IT IS BEING USED: $195-205B "ACCELERATING
+  CAPACITY DELIVERY" IS THE CLIFF'S FUNDING MECHANISM, NOT EVIDENCE AGAINST IT.** The supply response IS
+  the thing that catches up. **Citing the buildout as proof the buildout will not arrive is circular.**
+- **★★★★★ AND THE GRID SERIES SETTLES GLIDE-VS-CLIFF — IN THE DIRECTION JAKE IS ARGUING AGAINST, USING
+  THE ONE THESIS THIS VAULT HOLDS WITH MOST CONVICTION. MEGAWATT SUPPLY IS GROWING ~4-5%/YEAR.** When
+  CoWoS/HBM unblocks (1H-2027 per the article's own sources), **silicon supply grows FAR faster than 5%.**
+  ⇒ **THE NEW SILICON HAS NOWHERE TO GO EXCEPT INTO SOCKETS THAT ARE ALREADY OCCUPIED.** **That is
+  eviction, and it is forced by the GRID rather than by a price.** **`power-not-petroleum:367` already
+  wrote the conclusion under a different question: *"the grid will not be there for the compute."*
+  ⇒ The registered glide-vs-cliff item (MW growth vs silicon growth) is answered: 5% vs a supply
+  normalisation. THE CLIFF SIDE.** *(Analysis.)* ⚠️ **DISCOUNTS: the Census electric series is UTILITY
+  construction and misses behind-the-meter generation, which data centres increasingly self-build; and
+  data-centre construction includes some internal electrical fit-out. Directional, not a clean ratio.**
+- **★★★★★ THE STRONGEST ANTI-CLIFF ARGUMENT AVAILABLE IS THE ONE JAKE'S OWN DATA SUPPLIES, AND NEITHER
+  OF US HAD STATED IT: A BACKLOG SIGNED AT TODAY'S SCARCITY-ELEVATED RATES IS A *HEDGE* AGAINST THE
+  CLIFF.** Multi-year contracted revenue at peak prices insulates the seller from spot normalisation.
+  **$514B and $104B of it.** ⇒ **The cliff hits the UNCONTRACTED fleet and the RE-LEASE, not the
+  contracted book — which is exactly `:L1034`'s "RE-LEASE risk: 15-yr asset vs 5-yr lease."**
+- **★★★★★ AND IT FLIPS THE 2029 A100 RECONTRACT COMPLETELY. LOCKING A SIX-YEAR-OLD CHIP'S RATE OUT TO
+  2029 AT TODAY'S PEAK IS PRECISELY WHAT YOU DO IF YOU EXPECT THE CLIFF.** "Attractive" to CRWV = **above
+  where CRWV thinks spot goes.** ⇒ **A long-dated fixed-price contract on a wasting asset is the
+  SELLER'S protection against the price falling — and Huang is citing it as proof the price will not
+  fall.** **Both readings remain live and THE RATE DISTINGUISHES THEM** (registered item #1). ⚠️ The
+  benign reading: the counterparty wanted duration, or CRWV thinks rates go higher still. *(Analysis.)*
+- **★★★ AND THE QUESTION THAT ACTUALLY DECIDES WHETHER ANY OF THIS IS A CREDIT EVENT IS TIMING VERSUS
+  AMORTISATION — WHICH `:L1034` ALREADY FRAMED: "GPU COLLATERAL DEPRECIATES FASTER THAN THE LOAN
+  AMORTIZES."** ⇒ **A cliff that lands AFTER the 2020-21 fleet's paper matures is a margin story. One
+  that lands BEFORE is a collateral story.** 🚩 **THE FETCH: CRWV/neocloud debt maturity ladder vs fleet
+  vintage. That is the whole question, and it is a schedule, not an opinion.**
+- **⛔ CONCEDED, PLAINLY: ALPHABET IS THE MARGINAL BUYER SAYING IT IS SHORT, AND A $50B SEQUENTIAL
+  BACKLOG JUMP IS ENORMOUS.** **Jake's demand read is correct and my framing has to survive it — it does
+  so ONLY by separating aggregate quantity from SKU-level price, and if that separation fails, the cliff
+  fails with it.** ⬜ **THE FALSIFIER, REGISTERED SO IT CANNOT BE DODGED: if A100 rates hold at or above
+  current levels for TWO QUARTERS AFTER CoWoS/HBM supply normalises, the eviction thesis is WRONG** —
+  the socket economics would have been beaten by demand growth. *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩 **CRWV / neocloud DEBT MATURITY LADDER vs FLEET VINTAGE** — decides margin story vs collateral story.
+2. ⬜ **F-CLIFF-1 (falsifier):** A100 rates flat-or-up for 2 quarters post-supply-normalisation ⇒ thesis dead.
+3. ⬜ What share of Alphabet's $195-205B is silicon vs shell vs power — the grid argument's own denominator.
+4. ⬜ carried: recontracted-A100 rate · CRWV active MW · useful-life extensions · Meta's rented vintage.
+**Links:** [[power-not-petroleum]] · [[compression-thesis]] · [[ai-capex-cycle]] · [[metered-compute]] · [[cepi]]
