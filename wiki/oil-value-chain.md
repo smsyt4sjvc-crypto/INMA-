@@ -331,6 +331,7 @@ futures and equity closes before filing.**
   the true window the crack is +25.68 and the product leg +38.25 — the mechanism is STRONGER than I said
   and the TIMING is far earlier than I implied.** *(Analysis.)*
 - **★★★★★★★ AND THE SECOND ERROR IS THE ONE THAT MATTERS: I CHECKED THE CRACK'S LEVEL AND NEVER CHECKED
+  ⟲ SUPERSEDED 2026-08-13 → oil-value-chain.md:L366 — the decoupling finding does not survive: I measured refiner EQUITY (forward-discounting, quarters) against the SPOT crack (a today-price) over 11 sessions. With the ULSD curve in 29% backwardation and the deferred crack marked 97->56 by Dec-27, an equity advance while spot dips 7% off a record is consistent with forward estimates rising. Fourth instrument-mismatch of the day
   THE EQUITIES AGAINST IT. THE REFINERS HAVE STOPPED TRACKING THE OBJECT THE THESIS SAYS THEY OWN.**
   **MPC/VLO/PSX/PBF are +11.6% to +17.1% SINCE THE CRACK TOPPED, and three of them closed within 0.1% of
   52-week highs today.** ⇒ **That advance is NOT crack capture — the crack fell over the same window. It
@@ -362,3 +363,80 @@ futures and equity closes before filing.**
 3. ⚠️ **PROCESS: `days[-22]` labelled "30 sessions." Trading days ≠ calendar days. Every window label in
    `tools/` should print BOTH the session count and the date span.**
 **Links:** [[demand-destruction]] · [[war/war-board]] · [[ai-infra-allocation-map]] · [[portfolio-state]]
+
+### 2026-08-13 ~12:00pm PDT — ⛔⛔ JAKE'S ULSD-BACKWARDATION ARGUMENT **DEFEATS MY DECOUPLING FINDING** — I measured a SPOT gauge against a FORWARD-DISCOUNTING instrument. Fourth instrument-mismatch of the day. **And the curve hands us a far better monitor than either of us had.**
+  ⟲ SUPERSEDES oil-value-chain.md:L333 — the decoupling finding does not survive: I measured refiner EQUITY (forward-discounting, quarters) against the SPOT crack (a today-price) over 11 sessions. With the ULSD curve in 29% backwardation and the deferred crack marked 97->56 by Dec-27, an equity advance while spot dips 7% off a record is consistent with forward estimates rising. Fourth instrument-mismatch of the day
+Jake's stated thesis: product shortage not crude · utilization mid-90s (no supply response) · distillates
+below normal · Russia impaired · Hormuz constraining · US exporting into it. **"ULSD in steep
+backwardation = the market pricing the shortage as TEMPORARY. If it lasts longer than the curve expects,
+later-month diesel and refinery earnings estimates have to move higher."** Break-point: Hormuz normalizes
++ Russian exports recover + distillates rebuild + cracks collapse to **$40-50 and stay**.
+Ranking: VLO (cleanest) · MPC (highest-quality core) · PBF (highest torque) · PSX (less pure).
+
+#### DATA (ULSD + WTI futures curves, pulled 2026-08-13 ~11:55am PDT)
+| contract | ULSD $/gal | ×42 $/bbl | vs front | **WTI** | **FORWARD CRACK** |
+|---|---|---|---|---|---|
+| **Sep-26** | 4.2437 | 178.24 | — | 81.15 | **97.09** |
+| Dec-26 | 3.8318 | 160.94 | −9.7% | 77.56 | **83.38** |
+| Jun-27 | 3.2336 | 135.81 | −23.8% | 72.24 | **63.57** |
+| **Dec-27** | 3.0134 | 126.56 | **−29.0%** | 70.07 | **56.49** |
+- **BACKWARDATION CONFIRMED AND STEEP: −29.0% front-to-Dec-27 on ULSD.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ CONCEDED, AND IT KILLS MY 11:45am HEADLINE. I MEASURED REFINER EQUITY AGAINST THE *SPOT* CRACK
+  OVER 11 SESSIONS AND CALLED THE GAP "DECOUPLING / MULTIPLE EXPANSION."** **EQUITIES DISCOUNT FORWARD
+  EARNINGS OVER QUARTERS; THE SPOT CRACK IS A TODAY-PRICE.** ⇒ **A 6.9% dip in spot off a record, with
+  the crack still ~3× its year-ago level, is fully consistent with FORWARD estimates still rising.**
+  **My "decoupling" compared a spot gauge to a forward-discounting instrument — the FOURTH
+  instrument-mismatch of the day** (A100 rack vs index · absolute IV vs IV/RV · one PPI series vs another
+  · now spot crack vs forward earnings). ⇒ **The finding does not survive. Superseding.** *(Analysis.)*
+- **★★★★★★ AND THE CURVE MAKES HIS ARGUMENT PRECISE IN A WAY HE DID NOT STATE: THE TRADE IS NOT LONG THE
+  CRACK. IT IS SHORT THE CURVE'S NORMALISATION SCHEDULE.** **The market prices the crack decaying
+  97.09 (Sep-26) → 83.38 (Dec-26) → 63.57 (Jun-27) → 56.49 (Dec-27).** ⇒ **His bet is that the DEFERRED
+  crack is too low — and refiner 2027 earnings power is marked off exactly that deferred strip.**
+  *(Analysis. This is a better statement of his thesis than the one he gave.)*
+- **★★★★★★★ ⇒ AND IT HANDS US THE MONITOR NEITHER OF US HAD: TRACK THE *DEFERRED* CRACK, NOT THE SPOT.**
+  **If the 12-month-forward crack is RISING, his thesis is working regardless of what spot does — the
+  market is repricing the shortage as less temporary. If the deferred crack FALLS while spot holds, the
+  market is pricing FASTER normalisation and the equity is on borrowed time.** ⇒ **One number, and it is
+  the correct gauge for a forward-discounting instrument. My spot pairing rule at `:L90-91` is the wrong
+  tool for the equity leg and should be scoped to the PHYSICAL question only.** *(Analysis.)*
+- **⚠️⚠️ AND THE CURVE ALREADY DISAGREES WITH HIM ON HIS OWN FOURTH BREAK-CONDITION: HE SAYS THE THESIS
+  BREAKS IF CRACKS COLLAPSE TOWARD $40-50 AND STAY. THE Dec-27 FORWARD CRACK IS **56.49** — the market
+  ALREADY prices most of the way there.** ⇒ **That is not a distant break-condition; it is THE BET. It
+  should be stated as "I think the deferred strip is wrong," not filed as a far-off risk.** *(Analysis.)*
+- **⚠️ AND A FOUR-CONDITION CONJUNCTIVE BREAK-POINT IS A MONITORING FRAGILITY, NOT A STRENGTH.** Hormuz
+  normalizes **AND** Russia recovers **AND** distillates rebuild **AND** cracks collapse and stay.
+  ⇒ **A thesis that only breaks when four things happen together is a thesis you hold through the first
+  three.** **The practical break is ANY ONE of them arriving decisively.** *(Analysis.)*
+- **★★★★★★ THE MISSING BREAK-CONDITION, AND IT IS THE ONE THAT CAN MOVE FASTEST BECAUSE IT NEEDS NO
+  GEOPOLITICAL RESOLUTION — ONLY ARBITRAGE: CHINA AS THE SWING REFINER.** **His list is Hormuz, Russia,
+  US inventories, price. CHINA IS NOT ON IT.** **Jefferies named it explicitly (`demand-destruction:3436`):
+  *"with such wide cracks, one wonders how long it will be before the Chinese begin importing more crude
+  to export more refined products"* — against ~5 mmbpd of demonstrated import elasticity and ~3 mmbpd of
+  coiled capacity back to the five-year average.** ⇒ **US utilization at the mid-90s ceiling means the
+  supply response CANNOT come from US refiners — which is his premise — but it says nothing about
+  Chinese product exports.** **A Chinese export surge breaks the thesis without Hormuz opening, without
+  Russia recovering, and without any of his four conditions.** *(Analysis. This is the addition.)*
+- **⛔ AND HIS PREMISE #3 IS STILL UNVERIFIED BY EITHER OF US. "Distillate inventories still well below
+  normal" is the physical load-bearing claim, it is a published EIA weekly number, the vault registered
+  it this morning as THE discriminator — *"a record crack with LOW distillate stocks is a physical
+  shortage; with normal stocks it is a refining-margin story"* — AND IT REMAINS UNANSWERED.** ⇒ **The
+  single cheapest test of the whole thesis is the one nobody has run.** *(Analysis.)*
+- **✅ AND HIS CLOSING DISCIPLINE IS CORRECT AND I SHOULD RECORD IT: *"don't short refiners just because
+  they're at all-time highs — the earnings power underneath can still be accelerating."*** **That is the
+  same rule as WARNING-vs-TRIGGER: a price level is a STATE. "At highs" times nothing.** ⇒ **My
+  already-paid attack was a level argument, and a level argument is exactly what this vault bans.**
+  ⚠️ **What survives of it: `:L83-85`'s "held position vs entry" distinction is about SIZING, not
+  direction — and sizing is his call (rule 7).** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩 **THE 12-MONTH DEFERRED CRACK, TRACKED WEEKLY.** **Replaces the spot crack as the thesis gauge.
+   Rising = the shortage is repricing as durable; falling = faster normalisation priced.** Today's
+   baseline: **Jun-27 63.57 · Dec-27 56.49.**
+2. 🚩🚩 **EIA WEEKLY DISTILLATE INVENTORIES vs the 5-year band** — his premise #3, the registered
+   discriminator, unanswered since 8:55am. **Cheapest test of the thesis.**
+3. 🚩 **CHINESE REFINED-PRODUCT EXPORTS, monthly** — the break-condition missing from his list, and the
+   only one requiring no geopolitical change.
+4. ⬜ Russian refinery runs / product export volumes — his premise #4, also unverified here.
+**Links:** [[demand-destruction]] · [[war/war-board]] · [[power-not-petroleum]] · [[portfolio-state]]
