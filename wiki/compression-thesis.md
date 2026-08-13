@@ -2066,3 +2066,84 @@ Which is basically socializing the revenue lol."*
   that captures — but it is ONE DAY and META also has the second-best FCF in the group.** **Do not
   promote a coincidence.** ⬜ *(Analysis.)*
 **Links:** [[metered-compute]] · [[portfolio-state]] · [[memory-regime-question]] · [[power-not-petroleum]]
+
+## 2026-08-12 ~9:00pm PDT — 🎯 JAKE'S THESIS GRADED: "GOOGLE COMES OUT A CLEAR WINNER; TPU IS THE HARD-TO-CATCH ADVANTAGE"
+Jake, 2026-08-12: *"Google is particularly well positioned I think, and comes out the other end of AI a
+clear winner in my eyes. TPU in particular gives them an advantage where it will be difficult for others
+to catch up."* Related: [[content-toll]] · [[metered-compute]] · [[ai-capex-cycle]] · [[cepi]] · [[_calibration]]
+
+### ⚠️ INDEPENDENCE SCORE: **LOW — and the first reason is me.**
+- **I ARGUED THE PRO-GOOGLE CASE TO HIM ~40 MINUTES EARLIER** ([[content-toll]], 8:30pm: the crawl-access
+  inversion, "fencing the commons raises the wall around whoever is already inside," the unlicensable
+  YouTube/query-log reserve). **He is now extending an argument I supplied.** Under [[_calibration]] that
+  is source-correlation with the worst possible source — **his only error-check agreeing with itself.**
+- **SECOND: "TPU is a moat" is CONSENSUS TMT**, not a differentiated read. A correct consensus view
+  carries little edge even when it is right.
+- ⇒ **Both independence problems point the same way. This needs the hardest available pushback, and the
+  pushback should come from the VAULT'S OWN PRIOR RECORD rather than from me re-deriving.**
+
+### ★ STEELMAN — the strongest form of his claim, which is stronger than the one he stated
+**Not "TPU is cheaper." Rather: Google is the only entity that owns EVERY layer simultaneously — chip,
+datacentre, power contracts, model, and now 1B-user distribution.** Nobody else has all five: NVDA has
+the chip; MSFT has distribution and rents the model; AMZN has chip + datacentre with a weak model; META
+has chip + distribution and no cloud. **And this vault's own barbell says commoditisation pays the ENDS
+— physical inputs and distribution — and squeezes the middle.** Google sits on the distribution end
+*while owning its inputs*. **That is a genuinely good argument and it is not the one about cost.**
+
+### ⛔ THE SIDE HE IS UNDER-WEIGHTING — and four of the five points are ALREADY ON DISK
+1. **★★★★★ THE VAULT'S OWN BASE RATE IS THE DIRECT COUNTER, AND IT IS BRUTAL.** `metered-compute:1720`:
+   *"TPU is a TEN-year-old program; Trainium six; **NVDA data-centre revenue grew ~20x across exactly
+   that decade** — the market grew faster than the share shifted (Jevons at the socket level). In-house
+   caps the MARGINAL socket (inference); **the frontier-training seat has not moved.**"* ⇒ **The
+   custom-silicon threat has been continuously live for ten years and has continuously failed to bite
+   the thing that matters.** "Difficult for others to catch up" assumes catching up is the game; **the
+   record says the market outgrew the share shift.**
+2. **★★★★ THE EMPIRICAL KILLER, WHICH NO MODEL BEATS: GOOGLE HAD THE CHEAPEST COMPUTE ON EARTH IN 2022
+   AND STILL GOT CAUGHT FLAT-FOOTED BY ChatGPT.** Eleven years of TPU produced a scramble, a code-red,
+   and a two-year catch-up. ⇒ **COST HAS NEVER BEEN THE BINDING CONSTRAINT IN THIS RACE — CAPABILITY AND
+   PRODUCT VELOCITY HAVE.** If TPU were decisive, 2022-2024 looks completely different. *(Analysis.)*
+3. **★★★ THE ADVANTAGE IS PARTLY RENTED, AND THE LANDLORD SERVES THE COMPETITION.** `metered-compute:1715`:
+   *"Broadcom co-designs TPU (Google), MTIA (Meta), OpenAI's reported program… **the partner collects on
+   the TREND, not on any single lab winning.**"* **The co-design capability is a MERCHANT SERVICE.**
+   ⚠️ **AND THE VAULT ALREADY READ THE DUAL-SOURCING — but the OPPOSITE way to Jake's thesis.**
+   `ai-capex-cycle:242`: Google moving next-gen TPU design Broadcom → +MediaTek is logged as
+   *"hyperscalers multi-sourcing their ASIC designers to **play them off on price**."* ⇒ **The vault
+   reads it as PROCUREMENT, i.e. Google treats the design as a price-shopped input, not a crown jewel.**
+   🚩 **THE ALTERNATIVE READING IS NOT IN THE VAULT AND IS THE BETTER ONE FOR JAKE'S CASE: if you can
+   swap design partners after a decade, YOU own the architecture and the partner is fungible.** Both
+   readings fit the same fact. **Genuinely ambiguous — flagged rather than resolved.**
+4. **★★★ A COST ADVANTAGE A COMPETITOR CAN OUT-BID IS A PRICE, NOT A MOAT.**
+   `ai-financing-fragility:1295`: *"NVDA just BOUGHT the most prestigious **TPU-native** lab off Google
+   silicon… TPU/Trainium-native labs get flipped by checks — **vendor financing as a competitive weapon**."*
+   **At ~75% gross margin NVDA can subsidise switching indefinitely.** The vault already registered the
+   watch item: *"watch Google's external-TPU program response (pricing, next marquee win)."*
+5. **★★★ THE EXTERNAL TEST HAS ALREADY RUN FOR A DECADE AND FAILED: GCP IS #3.** TPU has been rentable
+   since ~2018. **If it were decisive, cloud share would show it.** ⇒ **The advantage is real INTERNALLY
+   and has not travelled.** That distinction matters enormously for the equity: an internal cost edge
+   shows up in *margin*, not in *share capture*. *(Analysis.)*
+6. **⚠️ AND THE ASYMMETRIC RISK SCALES WITH THE THESIS BEING RIGHT.** Google is the most
+   antitrust-exposed name in the set, mid-remedy on search. **"Google won AI too" is precisely the fact
+   pattern that invites structural remedies** — and [[content-toll]] just logged the crawler bundle as a
+   textbook tying theory. **A win large enough to be a CLEAR win is large enough to be broken up.**
+   *(Analysis.)*
+
+### ★★ WHAT SURVIVES — stated so this does not read as blanket disagreement
+- **"Well positioned" is right and I argued half of it myself.** Full-stack ownership + unlicensable
+  first-party corpus + distribution is a real, rare combination, and the barbell puts Google on the
+  paying end.
+- **⛔ WHAT DOES NOT SURVIVE IS THE WORD "CLEAR," AND THE SPECIFIC MECHANISM.** The vault's own framework
+  says commoditisation means **NOBODY** is a clear winner in the middle — the ends get paid. **"Google is
+  on the right end of the barbell" is supported. "Google is a clear winner because of TPU" is a
+  DIFFERENT claim, and the ten-year base rate is evidence against its mechanism.** *(Analysis.)*
+
+### 🚩 THE FALSIFIER — what would make Jake right, dated and checkable
+- **F-TPU-1: an external, non-Google frontier lab trains a flagship on TPU.** That is the event that
+  converts an internal cost edge into a platform. **Anthropic (TPU + Trainium) is the live candidate.**
+  ⬜ Not verified in this session.
+- **F-TPU-2: GCP share inflects.** The decade-long "hasn't travelled" verdict breaks only here.
+- **F-TPU-3: Google discloses external TPU revenue as a line.** Turns the claim measurable
+  (same test [[metered-compute]] registered for the routing layer).
+- **⛔ THE ANTI-FALSIFIER, so the thesis cannot be graded on the wrong evidence: GEMINI WINNING ON
+  CAPABILITY IS *NOT* EVIDENCE FOR THE TPU CLAIM.** A better model proves the model is better. **The TPU
+  claim is specifically that the SILICON is hard to catch — that is tested by what OTHERS can and cannot
+  do, never by what Google ships.**
