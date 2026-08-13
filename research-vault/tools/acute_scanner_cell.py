@@ -227,7 +227,23 @@ THREADS = {
                'trs','total return swap','13f','situational awareness','aschenbrenner',
                'acie','nscale','neocloud spv','dwarkesh','venture capital','venture debt','vc fund','venture round',
                'dsx','residual value','gpu-hour','investable asset',
-               'coatue','citadel','prime brokerage','prime book','swap position'],
+               'coatue','citadel','prime brokerage','prime book','swap position',
+               # gap #21, 8/12: a paste of CRWV MANAGEMENT'S OWN REALISED A100/H100 PRICING —
+               # the exact transacted datum this thread had registered THREE TIMES — matched
+               # FINANCING(1)* on the single word "coreweave" and nothing else. The whole
+               # SILICON-GENERATION + RATE vocabulary was absent from all three layers, so the
+               # depreciation/collateral thread could not see its own subject matter.
+               # ENTITIES — the generations ARE the proper nouns of this thread:
+               'a100','h100','h200','b200','gb200','ampere','hopper','blackwell','vera rubin',
+               'grace hopper','p4d','p4de','silicon data','sda100rt','lambda labs','crusoe',
+               # CONCEPTS — the depreciation/underwriting argument:
+               'depreciation','useful life','economic life','warranty','rate card','recontract',
+               'sold out','prior-generation','prior generation','older generation','obsolescence',
+               'residual','rvg','fleet life','refresh cycle','scrap',
+               # MEASURES — how the rate is REPORTED:
+               'rental rate','realised pricing','realized pricing','per gpu-hour','$/gpu-hr',
+               'gpu hour','rate curve','active mw','contracted power','utilisation','utilization',
+               'backlog','implied rate','asp','average selling price'],
  'POWER':     ['pjm','curtail','grid emergency','turbine','interconnection','smr',
                'behind-the-meter','ofgem','grid access','connection queue','commitment fee',
                'wolfspeed','silicon carbide','empower semiconductor','ionic digital',
