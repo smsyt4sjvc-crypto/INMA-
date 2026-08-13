@@ -4241,6 +4241,7 @@ primary-class. Both extracted below.**
   to the 2:15pm duration-mismatch entry is CUDA-extends-life + A100-still-working. **Directionally
   real (utilization persists six years) — but "in active use" ≠ value retention: the underwriting
   question is the RATE CURVE (an A100 rents today at a fraction of launch rates), and "economic
+    ⟲ SUPERSEDED 2026-08-13 → ai-financing-fragility.md:L4839 — MEASURED: same-SKU AWS p4d $4.096 (2020-11) -> $2.745 (2026-08) = -33% over 5.8yr, not 'a fraction'; and rates ROSE 35-40% in 2026, so 'at declining rates' is wrong for the current leg
   life toward a decade" at declining rates is precisely what an RVG at 25% is priced against.**
   ⬜ registered: A100 current rental rates vs 2020-21 (the value-curve datum that grades the claim).
   The tension stands: CUDA extends the tail while NVDA's own cadence obsoletes the frontier.
@@ -4810,3 +4811,87 @@ the BI article PDF (Alistair Barr), read in full → `raw/businessinsider-a100-2
   replacement subsidy on the oldest fleet is ending exactly as the 2029 contracts begin.
 - ⬜ **NEW: does NVDA disclose warranty-reserve expense**, and has it risen with the installed base?
   A funded-refresh cost should show up somewhere in the 10-Q.
+
+### 2026-08-12 ~9:50pm PDT — ★★★★★ REGISTERED ITEM #3 CLOSED: THE A100 RATE CURVE, FETCHED. **I WAS WRONG ABOUT ITS MAGNITUDE AND WRONG ABOUT ITS SHAPE — AND THE CORRECTED CURVE IS A BETTER BEAR CASE THAN THE ONE I HAD.**
+Jake, one word: **"Rent."** Rule 10 — a registered test one query can resolve is not a test. Fetched.
+
+#### DATA (observed — $/GPU-hr, each anchor with its instrument named, because the instrument IS the argument)
+| Date | Instrument | $/GPU-hr | Grade |
+|---|---|---|---|
+| **2020-11** | AWS **p4d.24xlarge** on-demand LIST, 8× A100 **40GB**, $32.77/hr | **$4.096** | list · launch · TechCrunch 2020-11-03 |
+| **2026-08** | AWS **p4d.24xlarge** on-demand LIST — **same SKU, same 40GB** — $21.958/hr | **$2.745** | list · Vantage instance DB |
+| 2026-08 | AWS p4d 3-YEAR RESERVED, $9.374/hr | **$1.172** | contracted |
+| 2026-08 | AWS p4d SPOT, $18.326/hr | $2.291 | spot (only −17% vs on-demand) |
+| **2026-08** | **Silicon Data A100 Rental Price Index, neo-cloud, ticker `SDA100RT`** | **$1.29** | ⭐ INDEX · 95% of neo-cloud providers, spec-standardised |
+| 2026-08 | AIMultiple neo-cloud median (49-provider cohort, 25 mo of data) | $1.79 | tracker median |
+| **2026-07/08** | **CoreWeave LIST**, A100 80GB SXM 8-GPU node $21.60/hr | **$2.70** | ⭐ list · **the actual counterparty** |
+| 2026-08 | CoreWeave A100 80GB PCIe | $1.19–$2.21 | list, lesser variant |
+| 2026-08 | market range, all providers | $1.09–$5.07 | list range |
+- **★ LIKE-FOR-LIKE, SAME SKU, LAUNCH → NOW: $4.096 → $2.745 = −33.0% over 5.78 years ≈ −6.6%/yr.**
+- **★ THE 2026 REBOUND IS REAL AND MEASURED:** H100 **$1.70 → $2.35, +40%, Oct-2025 → Mar-2026**;
+  B200 ~$5.00 → $5.50-5.80 YTD; "older models including the A100 seeing stronger pricing." Named cause:
+  **inference demand + NVDA moving wafers off H100 to Blackwell + HBM/CoWoS shortage "at least until
+  the first six months of 2027."**
+- **⛔ AND THE VAULT ALREADY HELD A RENTAL-RATE NUMBER: `metered-compute:2188` and `:2247` carry
+  "GPU rentals +35-38%"** — filed 8/12 under the token-price COST FLOOR, never linked to the A100 thread.
+  ⚠️ `:2247` grades that figure **"(sponsor-published)"**.
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ CONCESSION 1, ON MY OWN LINE: "AN A100 RENTS TODAY AT A FRACTION OF LAUNCH RATES" IS WRONG.**
+  ⟲ SUPERSEDES ai-financing-fragility.md:L4243 — MEASURED: same-SKU AWS p4d $4.096 (2020-11) -> $2.745 (2026-08) = -33% over 5.8yr, not 'a fraction'; and rates ROSE 35-40% in 2026, so 'at declining rates' is wrong for the current leg
+  Same SKU, launch to now, is **−33% in 5.8 years.** That is not "a fraction" — it is a **grind**, and for
+  a chip two generations obsolete it is remarkably **sticky**. ⟲ superseding `:L4243`. *(Analysis.)*
+- **⛔⛔ CONCESSION 2, AND IT IS THE WORSE ONE: I GRADED SILICON DATA'S "STRONG REBOUND IN 2026" AS AN
+  ADVERB WITH NO NUMBER. THE NUMBER EXISTED — IN THIS VAULT — AND I DID NOT RETRIEVE IT.** `:2188`/`:2247`
+  had **+35-38%**; the independent H100 print (**+40%, $1.70→$2.35**) corroborates the direction and
+  magnitude from a source with no position. **The article's one disinterested claim is the one that
+  survives.** ⇒ **This was a RETRIEVAL failure, not a reasoning failure — the crosscheck caught it, which
+  is the entire reason rule 6 exists.** *(Analysis.)*
+- **★★★★★ AND THE CORRECTED SHAPE IS A BETTER BEAR CASE THAN THE ONE I HAD, BECAUSE IT IS DATED AND
+  MECHANICAL INSTEAD OF A DECAY ASSUMPTION.** Both sides have been arguing about the wrong curve. It is
+  **not** a smooth decay (my error) and **not** durable demand for a six-year-old chip (Huang's framing).
+  It is **a −33% grind with a +35-40% spike in the last ten months, and the spike's stated cause is
+  SCARCITY OF NEW SILICON, not demand for old silicon** — wafers moved off H100 to Blackwell, HBM/CoWoS
+  constrained into 1H-2027. ⇒ **The A100 bid is a DERIVATIVE of Blackwell/Rubin supply.** **That converts
+  the residual-value question from an unfalsifiable warning into a TRIGGER with a date on it: the A100
+  rate curve should break when CoWoS/HBM supply normalises — the article's own sources say 1H-2027.**
+  **A rate held up by the scarcity of its replacement is not evidence of durability. It is evidence the
+  replacement hasn't shipped yet.** *(Analysis.)* [[metered-compute]] · rule 10 — this is a TRIGGER.
+- **★★★★★ THE NEW NUMBER THAT PRICES THE PHRASE "AT AN ATTRACTIVE PRICE": CRWV LISTS A100 AT ~$2.70
+  WHILE THE INDEX FOR ITS OWN SEGMENT PRINTS $1.29 AND AWS 3-YEAR RESERVED IS $1.17.** **CRWV's rack rate
+  is ~2.1× the clearing index for the same chip.** ⇒ **"An attractive price" has a 2× band around it and
+  no number inside it.** Attractive vs the $2.70 rack rate is a discount; attractive vs the $1.29 index is
+  **above market.** **The CFO chose the one word that is compatible with both.** 🚩 **This is now the
+  sharpest single question in the thread and it is answerable: CRWV's REVENUE ÷ ACTIVE A100 GPU-HOURS.**
+  *(Analysis.)*
+- **★★★★ IT ALSO INVERTS THE BULL CLAIM AT `:L1396` ON THIS CHIP.** That note logged *"SPOT GPU rental
+  prices are ≥2x CONTRACTED rates ⇒ hyperscalers are UNDEREARNING; contracts reprice up mechanically."*
+  **Inside AWS the arithmetic holds** — on-demand $2.745 vs 3-yr reserved $1.172 = **2.34×.** **But the
+  neo-cloud market CLEARS AT THE CONTRACTED LEVEL, NOT THE ON-DEMAND LEVEL: the index ($1.29) sits within
+  10% of AWS's 3-year reserved rate ($1.17), less than half AWS on-demand.** ⇒ **The repricing-up
+  mechanism is a HYPERSCALER story, not a neo-cloud story. A neo-cloud rolling an expiring A100 contract
+  reprices toward $1.29, not toward $2.75.** **The bull's mechanism belongs to the party that does not
+  need it.** *(Analysis. ⚠️ One chip, one date — a snapshot, not the general case.)*
+- **⚠️ WHAT THIS DOES NOT SETTLE, stated so the close is honest:** every anchor except `SDA100RT` is a
+  **LIST** price, and list prices are administered, not transacted — the H100 series shows hyperscaler list
+  falling only −15% (2023→2025) while the marketplace fell to **$1.92-2.00**, a 65-75% gap that is pure
+  **venue**, not time. ⬜ **I have the LEVEL from a real index. I still do not have the neo-cloud rate SERIES
+  back to 2020-21** — Silicon Data does not publish A100 history on the public page. ⬜ **And a 2020 anchor
+  is the wrong denominator anyway: the fleet under discussion was financed at 2023 prices.**
+- **★★★ IT ALSO SHARPENS THE WARRANTY POINT FROM THIS AFTERNOON.** A 2020-21 A100 is now 5-6 years old
+  ⇒ **at or past warranty expiry — exactly as the rate rebounds.** **The two vendor subsidies now come
+  apart in time: the RVG runs on, the warranty does not.** *(Analysis.)*
+
+#### 📌 REGISTERED (updated)
+- **✅ #3 A100 RATE CURVE — CLOSED on the LEVEL** (`SDA100RT $1.29`; like-for-like −33% since launch;
+  +35-40% rebound). **⬜ REOPENED, NARROWER: the neo-cloud A100 rate SERIES 2021→2026** (only the series
+  grades the 2023-financed fleet).
+- ⬜ **NEW, and it is the sharpest one: CRWV revenue ÷ active A100 GPU-hours** — the only way to price
+  "an attractive price." 🚩 **Does CRWV realise $2.70 or $1.29?**
+- ⬜ **NEW TRIGGER (dated, falsifiable): CoWoS/HBM supply normalisation, stated 1H-2027 by the article's
+  own sources ⇒ the A100 bid's support removed. Grade the A100 index against that date.**
+- ⬜ carried: A100-fleet warranty EXPIRY schedule · does NVDA disclose warranty-reserve expense.
+**Sources:** Silicon Data A100 Rental Price Index (`SDA100RT`) · Vantage AWS instance DB (p4d.24xlarge) ·
+TechCrunch 2020-11-03 (p4d launch $32.77) · AIMultiple GPU Index · Thunder Compute Aug-2026 market
+analysis · ComputeStacker/digitalcitizen 2026 rebound prints · CoreWeave published pricing.
+**Links:** [[metered-compute]] · [[cepi]] · [[balance-sheet-board]] · [[market-fragility]]
