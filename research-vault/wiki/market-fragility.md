@@ -3111,3 +3111,55 @@ Source: ZH on the $42bn 10Y result (1:00pm ET). **Grades the test registered 8/1
   already through it — but the marker is set on the 10Y.** ⬜ **Worth deciding whether the corner should
   have a 30Y analogue; the long end is where the pressure is and the vault has no marker there.**
 **Links:** [[new-economy-regime]] · [[predictions]] · [[ai-financing-fragility]]
+
+### 2026-08-12 ~11:45pm PDT — ⛔ "FEELS COILED" IS THE EXACT INTUITION THIS VAULT BACKTESTED AND REFUTED — and the index being quiet is not the market being quiet
+Jake: *"This silence is gloomy. VIX is like 14. Feels coiled. Too much going on for cruise control.
+Exhaustion, or nothing surprises anyone anymore?"*
+
+#### DATA
+- **VIX closed 15.28 on 2026-08-12** (Cboe, via search — ⚠️ single source, snippet-derived). **Not 14.**
+- **⛔ `where-the-edge-is:73-75`, a study Jake RAN: "Surprise (prior WRONG): filtering on VIX LEVEL fails —
+  'only when VIX>median' HALVED the harvest (2435) and DODGED NONE OF THE TAIL (same −533/−130); stacked
+  on the bull filter it added nothing while halving income again. THE REGIME THAT MATTERS IS TREND
+  (200-day), NOT VOL LEVEL."** **Meta-finding at `:76`: the 200-day is the decisive switch in TWO
+  independent studies — "the master risk-on/off switch."**
+- **THE SAME TAPE, FROM THIS VAULT'S OWN ENTRIES THIS WEEK:** CRWV **+13-16%** after hours then **+20%**
+  Wednesday · SK hynix **−15% on the week** · the neocloud cohort **−6.0 to −8.7% in a single session**
+  (🚩F8, six sessions all red) · NBIS revenue **+454%** · the sellers/receivers **three-way split**
+  (`:L2937`). **None of that is a quiet tape.**
+- `data-sourcing-playbook:112` — the vault's own gauge: **IV/RV (IV30 vs 20-day realised), not absolute IV.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔ THE VAULT HAS ALREADY GRADED THIS QUESTION AND THE ANSWER SURPRISED IT: VOL LEVEL CARRIED NO
+  INFORMATION ABOUT THE TAIL.** Not "less than expected" — **it dodged NONE of it.** ⇒ **"Feels coiled"
+  is the precise intuition that test refuted, and it was Jake's own test.** *(Analysis.)*
+- **★★★★ AND IT IS THE WARNING-VS-TRIGGER RULE IN ITS PUREST FORM. LOW VOL IS A STATE. IT PERSISTS FOR
+  YEARS AND TIMES NOTHING.** **"Coiled" is unfalsifiable by construction — a spring that never uncoils
+  just looks like a spring.** ⇒ **Same class as "late cycle," which this vault BANNED as a tag.**
+- **★★★★★ THE REFRAME THAT MAKES HIS INTUITION CORRECT ABOUT SOMETHING REAL: THE INDEX IS QUIET; THE TAPE
+  IS NOT. INDEX VOL = SINGLE-NAME VOL × CORRELATION.** **Low correlation produces a sleepy index sitting
+  on top of violent constituents — which is exactly what this vault has been logging all week.** ⇒
+  **"Silence" is a CORRELATION artifact, not an absence of activity. He is reading a portfolio statistic
+  as a market temperature.** *(Analysis.)*
+- **★★★★★ ⇒ BETWEEN HIS TWO CANDIDATES, "NOTHING SURPRISES ANYONE" IS CLOSER THAN "EXHAUSTION" — BUT THE
+  PRECISE VERSION IS NEITHER: THE SURPRISES ARE NOT CORRELATED.** Every large move this week was
+  idiosyncratic — an earnings print, a memory miss, a cohort repricing. **An index registers only what is
+  COMMON to its members. A market this split has low index vol BY CONSTRUCTION** (`:L2937`'s three-way
+  split is the same observation from the other side). *(Analysis.)*
+- **⚠️ AND A THIRD EXPLANATION NEITHER OF US NAMED, MECHANICAL RATHER THAN PSYCHOLOGICAL: VOL SUPPLY.**
+  Systematic option selling — covered-call funds, vol-target strategies, 0DTE market-making —
+  **structurally depresses index implied vol regardless of sentiment.** ⇒ **A low VIX can be a
+  SUPPLY-OF-OPTIONS fact, not a FEAR fact.** ⬜ **Asserted as hypothesis, NOT measured here.**
+- **★★★★ WHAT WOULD TURN THE FEELING INTO A CLAIM — AND IT IS THE SAME CORRECTION THIS SESSION ALREADY
+  MADE ONCE TONIGHT ON IREN: THE LEVEL IS NOT THE GAUGE. THE RATIO IS.** **VIX 15.28 against WHAT
+  realised?** If SPX 20-day realised is ~8, that is a large premium; if ~15, there is no premium at all
+  **and "coiled" has no content.** ⇒ **One number, and it is the difference between an observation and a
+  mood.** *(Analysis. Rule 7 — descriptive; no position implied either way.)*
+
+#### 📌 REGISTERED
+1. 🚩 **SPX 20-DAY REALISED VOL vs VIX (the IV/RV ratio) + implied correlation.** **Converts "feels
+   coiled" into a measurement. Tier-0, one cell.**
+2. ⬜ **Where is SPX vs its 200-day** — per `where-the-edge-is:76`, the switch that DID test positive
+   in two independent studies, unlike the VIX level.
+3. ⚠️ **VIX 15.28 is single-sourced from a search snippet — verify against Cboe direct before use.**
+**Links:** [[where-the-edge-is]] · [[options-reference-natenberg]] · [[portfolio-state]] · [[_calibration]]

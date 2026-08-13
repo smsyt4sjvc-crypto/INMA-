@@ -244,6 +244,17 @@ THREADS = {
                'rental rate','realised pricing','realized pricing','per gpu-hour','$/gpu-hr',
                'gpu hour','rate curve','active mw','contracted power','utilisation','utilization',
                'backlog','implied rate','asp','average selling price'],
+ # gap #22, 8/12: "VIX is like 14, feels coiled" matched NOTHING — no thread at all — while the
+ # vault holds a BACKTESTED result on exactly that question (where-the-edge-is:73, "filtering on
+ # VIX LEVEL fails"), a VIX history across four notes, and an options thread. The map could not
+ # see the single most common way a market question gets asked. CONCEPTS/ENTITIES/MEASURES:
+ 'VOL':       ['vix','vvix','move index','volatility index','implied vol','realised vol',
+               'realized vol','iv/rv','iv rank','iv percentile','variance risk premium','vrp',
+               'skew','term structure','contango','backwardation','vol of vol',
+               'dispersion','correlation','implied correlation','cboe','0dte','gamma',
+               'coiled','complacen','quiet market','low vol','vol crush','vol spike',
+               'covered call','vol target','vol selling','put/call','straddle','strangle',
+               '200-day','200 day','drawdown','tail hedge','convexity'],
  'POWER':     ['pjm','curtail','grid emergency','turbine','interconnection','smr',
                'behind-the-meter','ofgem','grid access','connection queue','commitment fee',
                'wolfspeed','silicon carbide','empower semiconductor','ionic digital',
@@ -348,6 +359,7 @@ THREADS = {
 
 # THREAD -> ORIGINATING VAULT NOTE. Every hit routes BACK to the note it came from.
 ROUTE = {
+ 'VOL':       'where-the-edge-is (the VRP/200-day studies) / market-fragility / options-reference-natenberg / portfolio-state',
  'MEMORY':    'memory-regime-question / compression-thesis',
  'SEMIS':     'ai-infra-allocation-map / buildout-bottleneck-map',
  'MATERIALS': 'buildout-bottleneck-map (the magnet chokepoint, 8/4 + 8/8) / physical-ai-hardware-stack (actuators/reducers) / war-board',
