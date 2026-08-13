@@ -2310,3 +2310,24 @@ price leg must be graded FROM THE PREMARKET LEVEL, not Tuesday's close.**
   TUESDAY'S CLOSE would be substantially satisfied by CRWV sympathy already banked — scoring the call
   correct for the wrong reason.** *(Analysis.)*
 **Links:** [[ai-financing-fragility]] · [[cepi]] · [[power-not-petroleum]] · [[predictions]]
+
+### 2026-08-12 ~9:50pm PDT — 🔗 NEW SILICON DATA TICKER IN A FAMILY THIS NOTE ALREADY TRACKS: `SDA100RT` = A100 RENTAL PRICE INDEX, **$1.29/GPU-hr**
+- **DATA:** Silicon Data publishes an **A100 Rental Price Index, neo-cloud ticker `SDA100RT`, currently
+  $1.29/GPU-hr**, spec-standardised across ~95% of neo-cloud providers, with a separate hyperscaler
+  reading. **Same vendor as `SDLLMTK`/`SDLLMCS`/`SDLLMOS`** (the token indices tracked from `:1742`
+  onward) — so the price spine now has a **HARDWARE** leg, not just a token leg. ⬜ **No public history
+  on the index page** — level only, no series.
+- **DATA:** like-for-like AWS **p4d.24xlarge** (8× A100 40GB) on-demand list: **$32.77/hr at launch
+  2020-11 → $21.958/hr now = $4.096 → $2.745/GPU-hr, −33.0% over 5.78 years.** 3-yr reserved
+  $9.374/hr = **$1.172/GPU-hr.**
+- **★★★ THESIS — THIS IS THE DENOMINATOR THIS NOTE HAS BEEN MISSING FOR THE COST FLOOR.** `:2188` argued
+  open-weight token prices ($0.30 → $0.66) are floored by **the physical cost of inference**, citing
+  **"GPU rentals +35-38%"** — a figure `:2247` grades **(sponsor-published)**. **That figure is now
+  independently corroborated: H100 $1.70 → $2.35, +40%, Oct-2025 → Mar-2026, from trackers with no
+  position.** ⇒ **The cost floor under token prices is real and measured, not sponsor-asserted.**
+  ⚠️ **But the stated CAUSE is supply, not demand** — wafers moved off H100 to Blackwell, HBM/CoWoS
+  constrained into **1H-2027**. ⇒ **The token-price floor is propped by a SILICON SHORTAGE with a stated
+  expiry.** **Grade the token indices against that date.** *(Analysis.)*
+- Full curve, the underwriting read, and the CRWV rack-rate-vs-index gap ($2.70 list vs $1.29 index):
+  → [[ai-financing-fragility]] 2026-08-12 ~9:50pm entry.
+**Links:** [[ai-financing-fragility]] · [[cepi]] · [[power-not-petroleum]]
