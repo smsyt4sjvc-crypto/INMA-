@@ -2015,6 +2015,7 @@ checkable and it CHECKS: "oil jumped about 5% on August 10" — my own futures p
   opening "WITHOUT TOLLS" is the tell: you do not negotiate the absence of a thing that is not
   happening.** *(Analysis.)*
 - **★★★★★★ ⇒ AND IT BREAKS JAKE'S "ALL OR NOTHING" FRAMING FROM THIS MORNING — the shape is wrong, and
+  ⟲ SUPERSEDED 2026-08-13 → war-board.md:L2069 — WRONG LAYER: the administered toll (physical) and the all-or-nothing demands (declared) are CONTEMPORANEOUS, not alternatives. Jake's binary claim was about the negotiating layer and it is correct there -- the formal demand list contains INDIVISIBLE dignity items (cease threats, reparations) which cannot be traded against divisible ones
   the real shape is worse for his thesis.** He said it *"decides itself all of a sudden."* **The
   digest's own read is the opposite: Iran is converting the strait FROM A WEAPON INTO LEVERAGE — a
   permanent middle state, not a binary.** ⇒ **A binary resolves and gets priced. AN ADMINISTERED
@@ -2065,3 +2066,56 @@ checkable and it CHECKS: "oil jumped about 5% on August 10" — my own futures p
    **That distinction is the whole difference between a toll and a deconfliction protocol.**
 4. ⬜ Grade `:L1972` (Araghchi-vs-Rezaei) as **RESOLVED toward the hardliners** once a primary confirms.
 **Links:** [[demand-destruction]] · [[oil-value-chain]] · [[market-fragility]] · [[new-economy-regime]] · [[_calibration]]
+
+### 2026-08-13 ~9:10am PDT — ⛔ JAKE IS RIGHT AND MY CORRECTION OPERATED ON THE WRONG LAYER: **the toll and the all-or-nothing demands are CONTEMPORANEOUS, not alternatives** — and the formally-submitted DIGNITY demands are what make the negotiation structurally non-convergent
+  ⟲ SUPERSEDES war-board.md:L2017 — WRONG LAYER: the administered toll (physical) and the all-or-nothing demands (declared) are CONTEMPORANEOUS, not alternatives. Jake's binary claim was about the negotiating layer and it is correct there -- the formal demand list contains INDIVISIBLE dignity items (cease threats, reparations) which cannot be traded against divisible ones
+Jake: *"This is contemporaneous with both parties demanding 'all or nothing' parameters. Iran literally
+wants an apology and for the US to stop talking shit in the formally submitted demands."*
+
+#### THESIS (interpretation — NOT fact; no new data, this is structure)
+- **⛔ CONCEDED — I CORRECTED THE WRONG LAYER. I said "the shape is a permanent middle state, not a
+  binary." HE IS POINTING OUT THAT BOTH ARE TRUE AT ONCE, AND THEY ARE.** **PHYSICAL LAYER: an
+  administered strait, single-digit transits, an Iran–Oman authority framework — a functioning middle
+  state. NEGOTIATING LAYER: maximalist demands on both sides — genuinely binary.** ⇒ **My "not a binary"
+  answered the physical layer against a claim he was making about the declared one.** *(Analysis.)*
+- **★★★★★★ AND THE COEXISTENCE IS THE FINDING, BECAUSE IT MAKES THE ARRANGEMENT AN *UNADMITTED*
+  EQUILIBRIUM.** **Iran cannot say "we settled for a toll." The US cannot say "we accept Iranian
+  authority over the lane" — Trump's demand is explicitly for opening *"WITHOUT TOLLS."*** ⇒ **The de
+  facto regime runs while BOTH principals officially deny it exists.** ⇒ **AN UNADMITTED EQUILIBRIUM IS
+  MORE FRAGILE THAN AN ADMITTED ONE, AND FOR A MECHANICAL REASON: there is no agreed protocol for when
+  something goes wrong.** **A hull gets hit, a boarding goes bad — and there is no deconfliction channel,
+  because officially neither party is in an arrangement.** *(Analysis. This is Jake's point carried one
+  step further and it is better than my version.)*
+- **★★★★★★ AND THE "APOLOGY / STOP TALKING SHIT" OBSERVATION IS ANALYTICALLY LOAD-BEARING, NOT A JOKE:
+  "CEASE THREATS" AND "REPARATIONS" ARE *DIGNITY* DEMANDS, AND DIGNITY DEMANDS ARE INDIVISIBLE.**
+  **Material demands can be split, sequenced, tranched, escrowed — sanctions relief can be partial,
+  frozen assets can be released in stages.** **YOU CANNOT HALF-APOLOGISE. YOU CANNOT PARTIALLY STOP
+  THREATENING.** ⇒ **The presence of INDIVISIBLE items in a formal submission is precisely what makes a
+  bargaining set non-convergent — there is no intermediate point to meet at on those clauses, so they
+  cannot be traded away against the divisible ones.** ⇒ **HE IS RIGHT THAT THE NEGOTIATION IS
+  ALL-OR-NOTHING, AND THE REASON IS IN THE STRUCTURE OF THE DEMAND LIST ITSELF, NOT IN THE RHETORIC.**
+  *(Analysis.)*
+- **★★★★★ AND THE INDIVISIBLE CLAUSE WAS VIOLATED THE SAME WEEK IT WAS SUBMITTED, ON THE RECORD.**
+  **Iran's formal demand includes CEASING THREATS. Trump, Truth Social, Wednesday: the US has "total
+  control" of Hormuz and "I THINK WE WILL KEEP IT"** (Jefferies/ZH artifact, 8/13). ⇒ **That is not a
+  stalemate — it is ACTIVE DIVERGENCE on the one clause that cannot be partially satisfied.**
+  ⇒ **And the market has priced exactly this: POLYMARKET US-IRAN EXTENSION 80% → 25% IN ONE WEEK.**
+  *(Analysis.)*
+- **⚠️ THE SIDE HE IS NOW UNDER-WEIGHTING, AND IT IS THE ONLY THING I KEEP: A NON-CONVERGENT NEGOTIATION
+  SITTING ON TOP OF A FUNCTIONING DE FACTO ARRANGEMENT IS ONE OF THE MOST DURABLE CONFIGURATIONS IN
+  GEOPOLITICS.** **US–Iran itself since 1979 · the Turkish Straits · North Korea · the Taiwan Strait —
+  maximalist declared positions over a working practical accommodation, for DECADES.** ⇒ **"All or
+  nothing" is correct about the SHAPE of the eventual resolution and says NOTHING about WHEN.**
+  **Logical instability is not a clock.** ⇒ **WARNING-vs-TRIGGER, applied to his side this time: the
+  structure is his; the timing is still unowned by either of us, and the ONLY object that moves it from
+  opinion to measurement is the Polymarket series.** *(Analysis.)*
+- **★★★ NET: HE WINS THE SHAPE ARGUMENT; I KEEP ONLY THE TIMING OBJECTION. The corrected joint model:
+  PHYSICAL = administered toll, stable and compounding. DECLARED = binary and non-convergent by
+  construction. THE GAP BETWEEN THE TWO LAYERS IS THE RISK, and it widens every week the toll runs
+  while both sides deny it.**
+#### 📌 REGISTERED
+1. 🚩 **POLYMARKET US-IRAN EXTENSION ODDS — now doubly load-bearing: it is the only measurement of the
+   non-convergence, and its SLOPE (80→25 in a week) is the only timing information in the thread.**
+2. ⬜ **Does the Iran–Oman text create a DECONFLICTION CHANNEL?** **That is the test of whether the
+   equilibrium is becoming admitted — and an admitted arrangement is a materially safer one.**
+**Links:** [[demand-destruction]] · [[oil-value-chain]] · [[market-fragility]]
