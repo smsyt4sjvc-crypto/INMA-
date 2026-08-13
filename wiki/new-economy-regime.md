@@ -3102,6 +3102,7 @@ Source: compiled market snapshot → `raw/2026-08-12-bond-yields-yen.txt` (CFTC 
 **Links:** [[market-fragility]] · [[predictions]] · [[ai-financing-fragility]]
 
 ### 2026-08-13 ~6:45am PDT — ★★★★★★ THE PPI PRINTS **+0.4% CORE — EXACTLY THE VAULT'S PRE-REGISTERED NUMBER, DOUBLE CONSENSUS.** And the headline 0.0% is an energy mask, the second volatile-component mask in two days, both hiding the same direction.
+  ⟲ SUPERSEDED 2026-08-13 → new-economy-regime.md:L3166 — WRONG: the print was COOLER than expected on every measure the market trades -- headline 0.0% vs an expected rebound, core ex-food-and-energy +0.2% vs +0.3%, headline YoY 5.5%->4.7%. I scored an ex-TRADE-SERVICES number against a consensus for a different series and called it a hawkish double-consensus hit
 Source: Jake's paste of the July-2026 PPI, ~6:40am PDT (release 5:30am PDT / 8:30am ET — **~70 minutes
 old, market OPEN**). ⚠️ **ARTIFACT TEST: headline/core/goods/services only — NOT the component table.**
 
@@ -3162,3 +3163,69 @@ old, market OPEN**). ⚠️ **ARTIFACT TEST: headline/core/goods/services only �
 3. ⬜ **The $25bn 30Y auction** — `:L3016` noted it prices after the PPI. Today. Tail vs no-tail.
 4. ⬜ July core PCE, **Aug 26** — the actual target, and the release this one only forecasts.
 **Links:** [[market-fragility]] · [[demand-destruction]] · [[cepi]] · [[compression-thesis]]
+
+  ⟲ EXTENDS market-fragility.md:L5654 (2026-08-13) — partial concession to Jake on 'Fed hike odds low': <1 hike priced across ALL of 2026 is a fair reading of low; my '~38-50% is a coin flip' was the September-only number and the pushback was too strong [old entry stays LIVE]
+### 2026-08-13 ~8:10am PDT — ⛔⛔⛔ **I GOT THE PPI BACKWARDS AN HOUR AGO. IT PRINTED COOLER THAN EXPECTED ON EVERY MEASURE THE MARKET TRADES** — I compared an ex-trade-services number to a consensus for a different series. And the component the vault flagged in advance is where the real story is.
+  ⟲ SUPERSEDES new-economy-regime.md:L3104 — WRONG: the print was COOLER than expected on every measure the market trades -- headline 0.0% vs an expected rebound, core ex-food-and-energy +0.2% vs +0.3%, headline YoY 5.5%->4.7%. I scored an ex-TRADE-SERVICES number against a consensus for a different series and called it a hawkish double-consensus hit
+Source: ZeroHedge, *"Rate-Hike Odds Remain Low As US Producer Prices Print Cooler Than Expected"*, timestamped
+8/13/26 8:05 AM → `raw/zerohedge-ppi-july2026-2026-08-13.txt` (6pp, extracted, BLS text quoted in full).
+⚠️ **ARTIFACT: a ZH wrap that QUOTES the BLS release verbatim — the BLS paragraphs are primary; ZH's framing is not.**
+
+#### DATA (observed — the release as reported)
+- **Headline PPI 0.0% MoM — COOLER than expected** (a modest rebound was expected off June's −0.3%).
+  **Headline YoY: +5.5% → +4.7%.**
+- **★ CORE PPI (ex food and energy) +0.2% MoM vs +0.3% EXPECTED — COOLER. Core PPI YoY +4.2%.**
+- **★★★★★ PORTFOLIO MANAGEMENT +6.5% — the single largest driver of the services increase.**
+- Final demand services +0.2% (ex trade/transport/warehousing **+0.6%**); **transport & warehousing −1.8%**,
+  **trade services −0.1%.** Goods −0.7% (gasoline **−5.7%**, energy −3.1%, foods −0.9%); **goods ex food
+  and energy +0.1%.**
+- **"The recent rapid surge in MEMORY PRICES has stabilized (but is not dropping)."**
+- **"The CPI-PPI spread continues to signal increased pressure on CORPORATE MARGINS."**
+- **"The market is now pricing in LESS THAN ONE rate hike in 2026."** ⚠️ **The body also says rate-hike
+  expectations "remain FLAT from yesterday" — the headline word "PLUMMET" overstates ZH's own text.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔⛔ THE ERROR, NAMED: I TOOK JAKE'S "+0.4% EX FOOD, ENERGY & TRADE SERVICES" AND SCORED IT AGAINST A
+  "+0.2% CONSENSUS" THAT BELONGS TO A DIFFERENT SERIES — CORE EX FOOD AND ENERGY, WHICH PRINTED +0.2%
+  AGAINST +0.3%, i.e. COOLER.** **I then told Jake the vault's pre-registered call "landed on the nose"
+  and that the print was hawkish. It was not.** ⟲ superseding the 6:45am entry. *(Analysis.)*
+- **⛔⛔ AND THE ERROR CLASS IS THE ONE I SPENT THE WHOLE SESSION POLICING: TWO DIFFERENT INSTRUMENTS
+  COMPARED AS IF THEY WERE ONE.** A100 rack rate vs neo-cloud index · absolute implied volatility vs
+  IV/RV · backlog vs contracted power. **I wrote all three of those corrections in the last twelve hours
+  and then made the same mistake on the most-watched macro number of the day.** ⇒ **The lesson is not
+  "check the series" — it is that a MATCHING NUMBER IS THE STRONGEST FORM OF CONFIRMATION BIAS. GS said
+  +0.4%, Jake's paste said +0.4%, and I stopped reading.** *(Analysis.)*
+- **★★★★★★ BUT THE VAULT'S PRE-REGISTERED FRAMING WAS RIGHT ABOUT WHICH LINE TO WATCH, AND IT IS WHERE
+  THE STORY IS: `:L3016` named PORTFOLIO MANAGEMENT as a PPI component that FEEDS CORE PCE DIRECTLY.
+  IT PRINTED +6.5% AND WAS THE LARGEST SINGLE SERVICES DRIVER.** ⇒ **THE RESOLUTION THAT MAKES BOTH
+  READS TRUE: THE PRINT WAS COOL ON THE AGGREGATES THE MARKET TRADES AND HOT ON THE ONE LINE THAT
+  REACHES THE FED'S ACTUAL TARGET.** **Dovish for the tape, hawkish for core PCE — which does not print
+  until Aug 26.** *(Analysis.)*
+- **★★★★★★ AND PORTFOLIO MANAGEMENT FEES ARE CHARGED AS A PERCENTAGE OF ASSETS, WHICH MAKES THIS A
+  SELF-LIMITING INFLATION AND MATERIALLY WEAKENS THE FED'S REACTION FUNCTION TO IT.** **The component is
+  MECHANICALLY a function of the market being at highs.** ⇒ **To suppress it the Fed would have to make
+  stocks fall — at which point the component disappears on its own.** **An inflation that is a
+  derivative of asset prices cannot be tightened away without destroying its own source.** ⇒ **This
+  CUTS FOR Jake's "hike odds low" from a direction neither of us had, and it is the article's best
+  point wearing a rhetorical question: *"should the Fed pop the AI/Memory/Compute bubble?"*** *(Analysis.)*
+- **⚠️ SO I OWE JAKE A PARTIAL CONCESSION FROM 30 MINUTES AGO. He said "Fed hike odds low"; I answered
+  "~38-50% September — a coin flip is not low."** **Both are true of different objects: <1 hike priced
+  across ALL of 2026 vs ~50% odds of ONE September move. "Low" is a fair reading of the first, and my
+  pushback was too strong.** ⚠️ **What survives: today's print did not move it — ZH's own body says
+  expectations are FLAT from yesterday.** *(Analysis.)*
+- **★★★★★ AND THE MEMORY LINE PUTS THIS VAULT'S OWN THREAD INSIDE THE NATIONAL ACCOUNTS: "soaring MEMORY
+  costs and stock portfolio management fees are driving aggregate prices higher."** ⇒ **[[memory-regime-question]]
+  is now a MACRO input, not just a supply-chain thread** — the Hammack/Kashkari data-centre-inflation
+  argument showing up in the PPI itself. ⚠️ **And memory prices have "STABILIZED but are not dropping"
+  — the first deceleration signal in that thread from an outside source.** *(Analysis.)*
+- **★★★★ AND THE CPI-PPI SPREAD IS THE COMPRESSION THESIS, MEASURED RATHER THAN HYPOTHESISED.** I
+  guessed at this an hour ago from the headline gap; **the source states it as an observed spread
+  signalling margin pressure.** ⇒ [[compression-thesis]] gets an aggregate-level confirmation.
+
+#### 📌 REGISTERED
+1. 🚩 **HOW MUCH DOES PORTFOLIO MANAGEMENT +6.5% ADD TO CORE PCE?** It is a known weight and a known
+   pass-through. **This is the number that decides whether Aug-26 core PCE is hot, and it is computable now.**
+2. ⬜ **Healthcare/airfare PPI components** — the other two `:L3016` named; still not in hand.
+3. ⬜ **The $25bn 30Y auction result** (priced after this print).
+4. ⚠️ **RULE FORMING: when a fresh number MATCHES a number already in the vault, that is the moment to
+   check the SERIES DEFINITION — not the moment to declare a hit.**
