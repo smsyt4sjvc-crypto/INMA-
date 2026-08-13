@@ -5439,3 +5439,50 @@ and financeable."* **Recording the segmentation claim as Jake's inference, not a
 3. 🚩 **VC funding to AI startups vs neocloud rental revenue** — tests whether tenant and collateral share
    one cycle. **If the correlation is high, the diversification in this structure is nominal.**
 **Links:** [[metered-compute]] · [[compression-thesis]] · [[market-fragility]] · [[balance-sheet-board]]
+
+### 2026-08-12 ~11:05pm PDT — ⚠️ THE HUANG ATTRIBUTION, RESOLVED HONESTLY — and the vault's own disclosure record CONTRADICTS the segmentation claim at the top of CRWV's book while being SILENT exactly where the claim lives
+Jake, on the "startups can't afford new chips" line: *"something he said in the original $500B thing —
+maybe not startup per se, but it was implied pretty clearly."* **He flagged it himself; recording it the
+way he characterised it.**
+
+#### DATA (checked against the vault, not re-argued)
+- **The $500B thread is `:L3709` / `:L3761` (8/10). NOTHING IN IT CARRIES A HUANG STATEMENT ABOUT
+  CUSTOMER AFFORDABILITY.** ⬜ **Unresolved — status: INFERENCE FROM TONE, not a sourced claim.**
+- **⛔ AND THE DISCLOSED COUNTERPARTIES POINT THE OTHER WAY. `:L4398`: CRWV's $2.6B facility is backed by
+  its contracts with ANTHROPIC, JANE STREET and others.** **Jane Street is among the most profitable
+  private firms in existence; Anthropic among the best-funded companies alive. Neither is a startup that
+  cannot afford frontier silicon.**
+
+#### THESIS (interpretation — NOT fact)
+- **⚠️ RULE 9, APPLIED WITHOUT PEDANTRY BECAUSE HE APPLIED IT FIRST: "IMPLIED PRETTY CLEARLY" IS THE
+  ⟲ EXTENDS ai-financing-fragility.md:L5411 (2026-08-13) — DOWNGRADED finding -> hypothesis: the loop rests on a paraphrase of an impression (Jake flagged it himself), and CRWV's DISCLOSED counterparties (Anthropic, Jane Street) are the opposite of capital-constrained. Survives because the A100 is COLLATERAL not cash flow -- it bites in liquidation, which is exactly when the correlation fires [old entry stays LIVE]
+  WEAKEST RUNG ON THE LADDER, AND I BUILT A STRONG CONCLUSION ON IT TWENTY MINUTES AGO.** The funding-loop
+  finding (`:L5399` — collateral and tenant funded by one cycle) **currently rests on a paraphrase of an
+  impression.** ⇒ **It does not fall, but it is DOWNGRADED from a finding to a HYPOTHESIS until the tenant
+  mix is observed.** *(Analysis.)*
+- **★★★★★ BUT THE REAL POINT IS THE SHAPE OF THE EVIDENCE, AND IT IS WORSE THAN EITHER OUTCOME: WE CAN
+  SEE EXACTLY THE PART OF THE BOOK THAT DOES NOT NEED SCRUTINY AND NONE OF THE PART THE ARGUMENT IS
+  ABOUT.** **A neocloud pledges its BEST contracts to a lender — that is what makes them financeable — so
+  Anthropic and Jane Street are disclosed BECAUSE they are the strong names.** **The A100 long tail is
+  precisely what does NOT appear, because it is not financeable collateral.** ⇒ **Jake's claim is neither
+  confirmed nor refuted; it is UNOBSERVABLE UNDER CURRENT DISCLOSURE — and the unobservability is
+  structural, not accidental.** *(Analysis.)*
+- **★★★★★ AND THE RECONCILIATION THAT MAKES BOTH FACTS TRUE AT ONCE — IT IS A BUCKET DISTINCTION: THE
+  A100 FLEET IS COLLATERAL, NOT CASH FLOW.** The contracted cash flow is Anthropic / Jane Street / MSFT
+  on frontier silicon; **the A100 sits in the RESIDUAL VALUE bucket that backs the asset side.** ⇒ **Its
+  rate matters in a LIQUIDATION, not in the ordinary course.** **Which is exactly the scenario in which
+  Jake's funding-cycle correlation would bite hardest — the long tail stops paying at the same moment
+  the residual has to be marked.** ⇒ **His loop survives in the only state where it matters, even though
+  the disclosed counterparties are strong.** *(Analysis.)*
+- **⛔ AND IT SHARPENS WHAT TO ASK FOR, WHICH IS THE PRODUCT OF THIS EXCHANGE: STOP ASKING WHETHER THE
+  TENANTS ARE STARTUPS. ASK FOR THE REVENUE CONCENTRATION DISCLOSURE** — the 10-K names any customer
+  >10% of revenue. **The RESIDUAL after the named customers IS the long tail, and its SIZE is the whole
+  question.** ⇒ **A number that exists, is audited, and nobody in this thread has quoted.**
+
+#### 📌 REGISTERED
+1. 🚩 **CRWV + NBIS CUSTOMER-CONCENTRATION DISCLOSURE (10-K/20-F): named >10% customers, and the residual
+   share.** **This is the fetch that grades Jake's segmentation claim — the long tail's SIZE is measurable
+   even when its identity is not.** ⬜ **Replaces "is it startups?" which is unanswerable.**
+2. ⬜ The $500B/Huang affordability line: unresolved, filed as inference. Low priority — the concentration
+   disclosure answers the real question without it.
+**Links:** [[metered-compute]] · [[balance-sheet-board]] · [[market-fragility]]
