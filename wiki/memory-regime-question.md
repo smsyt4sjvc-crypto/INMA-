@@ -914,3 +914,40 @@ covered name post-crash; factual corrections kept, the "worst is behind us" soot
 > datum: MU −28% from highs while management claims multi-year tightness** — the fast money's memory
 > refusal, visible in one name. Samsung +4.1% today, SKH stabilizing (+0.35 after the −15% week).
 > ⬜ Apple-CXMT testing "weighs on sentiment" (F3 resolver moving — Apple commitment still THE test).
+
+### 2026-08-12 ~10:40pm PDT — ★★★★★★ THE THREAD-LINK JAKE'S ONE-LINER NAMES: **THIS NOTE AND THE COLLATERAL NOTE HAVE BEEN THE SAME THREAD ALL ALONG, AND NEITHER FILE KNEW IT**
+Jake: *"who would have thought that memory scarcity — and really its lack of power-efficiency gains —
+would tether its scarcity value to A100 chips and compute rental rates."*
+
+#### DATA (the structural observation, verified against the files)
+- **THIS NOTE IS 850+ LINES AND CONTAINS THE WORD "BANDWIDTH" ZERO TIMES.** It has three mentions of
+  rental/collateral/CRWV/neocloud combined. **[[ai-financing-fragility]] has never treated HBM supply as
+  a price driver of the collateral it tracks.**
+- Tonight's result ([[ai-financing-fragility]] 8/12 ~10:30pm): **$/(GB/s)-hour varies 12% across A100 /
+  H100 / B200 while $/TFLOP-hour varies 86%; the A100's $1.29 index price is within 1% of its
+  bandwidth-parity price.** ⚠️ **n=3, unverified — see the falsifier there.**
+- **`:L803` (8/10, already on disk): MEMORY ≈ 62% OF THE VERA RUBIN BILL OF MATERIALS.**
+- **`:L707` (8/6, already on disk): NVDA WEIGHS LESS HBM ON RUBIN ULTRA — "the demand side starts
+  ENGINEERING AROUND the price" (the thrifting signal).**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ IF RENTAL PRICE TRACKS BANDWIDTH AND MEMORY IS 62% OF THE BOM, THEN THE GPU RENTAL MARKET IS
+  ⟲ SUPERSEDED 2026-08-13 → ai-financing-fragility.md:L5263 — the thread-link was explicitly CONDITIONAL on the bandwidth result surviving its falsifier. It did not. The memory/collateral link may still be real but it has lost its stated mechanism
+  SUBSTANTIALLY A MEMORY MARKET WEARING A COMPUTE LABEL — AND THE COLLATERAL VALUE OF THE $500B AI DEBT
+  COMPLEX IS A DERIVATIVE OF THE MEMORY CYCLE.** **This vault has tracked both ends for weeks in separate
+  files: HBM supply/pricing/thrifting here, GPU rental rates and residual-value guarantees there.**
+  ⇒ **The memory cycle is the LEADING indicator for the collateral, and nothing in either file said so.**
+  *(Analysis. Conditional on the bandwidth result surviving its falsifier.)*
+- **★★★★★★ AND IT INVERTS THE THRIFTING SIGNAL AT `:L707`, WHICH NOBODY IS READING THIS WAY. NVDA PUTTING
+  LESS HBM ON RUBIN ULTRA IS A COST MOVE — BUT ITS MECHANICAL EFFECT IS TO SLOW BANDWIDTH-PER-WATT
+  IMPROVEMENT, WHICH BY TONIGHT'S PRICING LOGIC *SUPPORTS THE RESIDUAL VALUE OF THE INSTALLED A100/H100
+  BASE.*** ⇒ **Thrifting is BULLISH for old-chip residuals — and that installed base is exactly the
+  collateral NVDA has written residual-value guarantees against.** **Whether that is coincidence or
+  design is unknowable; the effect is the same either way.** 🚩 **A dated, falsifiable prediction nobody
+  is making: Rubin-Ultra HBM thrifting ⇒ A100/H100 rental rates hold up BETTER than a
+  FLOPS-based obsolescence model predicts.** *(Analysis.)*
+- **★★★★ AND IT EXPLAINS THE PHYSICS UNDERNEATH JAKE'S "TIDE": bandwidth-per-watt has improved ~8%/yr
+  (A100 5.10 → B200 8.00 GB/s/W) while FLOPS-per-watt improved 2.9-5.8×.** **Memory is the axis where
+  Moore's-law-style efficiency gains have NOT arrived** — and it is the axis the price tracks. ⇒ **the
+  old chip's tether is not sentiment, scarcity psychology, or CUDA lock-in. It is DRAM physics.**
+**Links:** [[ai-financing-fragility]] · [[metered-compute]] · [[compression-thesis]] · [[buildout-bottleneck-map]] · [[cepi]]
