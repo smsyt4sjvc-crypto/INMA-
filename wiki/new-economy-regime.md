@@ -3229,3 +3229,67 @@ Source: ZeroHedge, *"Rate-Hike Odds Remain Low As US Producer Prices Print Coole
 3. ⬜ **The $25bn 30Y auction result** (priced after this print).
 4. ⚠️ **RULE FORMING: when a fresh number MATCHES a number already in the vault, that is the moment to
    check the SERIES DEFINITION — not the moment to declare a hit.**
+
+### 2026-08-13 ~10:55am PDT — ★★★★★ THE 30Y AUCTION CLOSES THIS MORNING'S REGISTERED ITEM — **and the headline fuses two different instruments: the TAIL is trivial, the YIELD is a 25-year high. Demand showed up; the PRICE is the story.**
+  ⟲ EXTENDS 2026-07-30-fed-hike-before-december.md:L31 (2026-08-13) — read half a curve: the falling 2Y was cited as the strongest disconfirmer, but 2Y DOWN + 30Y UP is INFLATION-TOLERANCE steepening, not dovishness. Today's 30Y cleared at a 25-year-high yield hours after hike odds fell -- a Fed that will not act into rising long-end compensation is a worse outcome than one that hikes [old entry stays LIVE]
+Source: ZH, *"Tailing 30Y Auction Prices At Highest Yield In 25 Years,"* stamped 8/13 10:35am (PT — the
+1:00pm ET auction) → `raw/zerohedge-30y-auction-2026-08-13.txt`. **Closes registered item #3 from
+`:L3016` this morning: *"the $25bn 30Y prices after it."*** ⚠️ **"Highest since 2001" is ZH's claim, not
+independently verified.**
+
+#### DATA (as reported)
+- **$25BN 30Y at a high yield of 5.216%, TAILING the When-Issued 5.212% by 0.4bp. Highest yield since 2001.**
+- **Bid-to-cover 2.392** (July 2.444 · recent avg 2.429).
+- **Indirects 66.9%** (July **77.7%**, "one of the highest on record"; **six-auction average 67.0%**).
+- **Directs 21.6%** (avg 22.5%) · **Dealers 11.5%** (avg 10.6%, +150bp vs July).
+- **Yesterday's 10Y ALSO TAILED — "highest yield since 2007."** ⇒ **two of the week's three refundings tailed.**
+- Stated mechanism: the 30Y yield **"has shot up in the past week, ever since Warsh's most recent FOMC
+  meeting in which he left the long-end hang out to dry."**
+- ZH's own verdict, in its own text: **"a weak auction IF HARDLY CATASTROPHIC… while demand was there."**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE HEADLINE FUSES TWO INSTRUMENTS AND THEY DISAGREE — AND THIS IS THE SAME ERROR CLASS I
+  MADE THREE TIMES TODAY. A YIELD IS A PRICE. A TAIL IS A DEMAND SIGNAL.** **The tail is 0.4bp — a big
+  tail is 2-3bp. Indirects at 66.9% against a 67.0% six-auction average is DEAD AVERAGE. Directs 21.6%
+  vs 22.5% is average. Dealers 11.5% vs 10.6% is a shrug.** ⇒ **THE INTERNALS ARE UNREMARKABLE. THE
+  HEADLINE IS THE LEVEL.** ⇒ **This is not failed demand. It is demand showing up in normal size at a
+  25-YEAR-HIGH PRICE — which is a much more interesting fact and a different one.** *(Analysis.)*
+- **★★★★★★ AND IT IS THE SOVEREIGN-LEVEL READING OF JAKE'S OWN CONDITION FROM THIS MORNING. He said the
+  financing fragility does not matter "AS LONG AS MONEY KEEPS MOVING." MONEY MOVED — $25bn cleared with
+  average internals — AND THE PRICE IS THE HIGHEST IN 25 YEARS.** ⇒ **His condition is SATISFIED AND
+  SIMULTANEOUSLY DETERIORATING, and it is now the same shape at two levels in one week: CRWV's $2.6B
+  cleared 125bp WIDE of guidance; the US Treasury cleared $25bn at a quarter-century-high yield.**
+  **BOTH CLEARED. BOTH REPRICED.** ⇒ **"Money keeps moving" is not a binary — it is a PRICE, and the
+  price is the signal he asked for.** *(Analysis.)*
+- **★★★★★★★ AND IT REPRINTS A CONFIGURATION THE VAULT ALREADY NAMED: THE 7/29 CURVE FORK —
+  "2Y DOWN + 10Y/30Y UP = INFLATION-TOLERANCE STEEPENING"** (`predictions/2026-07-30-fed-hike-before-december.md`,
+  case-against #2). **TODAY, INSIDE ONE SESSION: hike expectations fell on a cool PPI while the 30Y
+  cleared at the highest yield in 25 years.** ⇒ **NOT A CONTRADICTION. The front end is pricing LESS
+  FED; the long end is pricing MORE inflation/fiscal/duration risk.** ⇒ **THE MARKET IS PRICING A
+  CENTRAL BANK THAT TOLERATES INFLATION RATHER THAN ONE THAT FIGHTS IT** — and the article names the
+  mechanism: **Warsh "left the long-end hang out to dry."** *(Analysis.)*
+- **⛔ AND THAT CORRECTS MY OWN 7/30 READING OF THE SAME SIGNAL. I cited the falling 2Y as *"the bond
+  market saw the same three dissents and moved its Fed forecast DOWN"* and called it **the single
+  strongest disconfirmation** of Jake's hike call.** **The fuller read is that the curve was pricing
+  inflation TOLERANCE — which is not dovish. A Fed that will not act into rising long-end inflation
+  compensation is a WORSE outcome than a Fed that hikes, not a better one.** ⇒ **My disconfirmer was
+  reading half a curve.** *(Analysis. Partial self-correction on a registered prediction.)*
+- **★★★★★★ AND IT CLOSES THE LOOP ON JAKE'S ENTIRE MORNING, BECAUSE THE 30Y IS THE DISCOUNT RATE UNDER
+  THE WHOLE AI BUILDOUT.** **CRWV's facility cleared >9% against a 30Y at 5.216% — a ~390bp spread.**
+  **Every five-year contracted cash flow, every neocloud facility, every GPU lease and every RVG
+  reprices off this curve.** ⇒ **"Financing doesn't matter until it does" — THE LONG END RISING IS THE
+  MECHANISM BY WHICH IT STARTS TO MATTER,** and it does not require a credit event, a default or a
+  headline. **It requires only that the base rate keep going up.** *(Analysis.)*
+- **⚠️ THE DISCIPLINE: TWO TAILS IN A WEEK IS A PATTERN, ONE AUCTION IS NOT AN EVENT, AND A 0.4bp TAIL
+  IS NOISE ON ITS OWN.** **ZH's *"how much higher before something finally breaks"* is editorial and
+  unfalsifiable — it is the same sentence written at every yield level for two years.** ⬜ **The
+  gradeable version: the NEXT refunding's tail and indirect share, and whether dealers keep taking more.**
+
+#### 📌 REGISTERED
+1. ✅ **CLOSED: `:L3016`'s 30Y auction item.** Result: **tailed 0.4bp, 5.216%, internals near average.**
+2. 🚩 **TERM PREMIUM, not the policy path — the 2s30s SPREAD is now the number to watch, not the 2Y
+   alone.** **My 7/30 disconfirmer used the 2Y in isolation and that is what missed the steepening.**
+3. 🚩 **INDIRECT SHARE ACROSS THE NEXT THREE REFUNDINGS** — 77.7% → 66.9% in one month is the only
+   internal that actually moved. **One month is not a trend; three is.**
+4. ⬜ Verify "highest since 2001" against the actual 30Y auction series.
+**Links:** [[market-fragility]] · [[ai-financing-fragility]] · [[cepi]] · [[balance-sheet-board]]
