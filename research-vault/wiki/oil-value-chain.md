@@ -644,3 +644,88 @@ Jake: *"On confidence in potential return in 90 day period. Give each a score 1-
 2. ⬜ Whether the near-identical signal-to-own-noise ratios hold on a longer window — if they do, name
    selection inside this group is not a crack question at all.
 **Links:** [[portfolio-state]] · [[demand-destruction]] · [[_calibration]]
+
+### 2026-08-13 ~2:00pm PDT — ✅ **"IS THERE ROOM TO RUN ON CRACKS?" — ANSWERED. ESTIMATES HAVE NOT FINISHED MARKING: 24 of 24 revision windows POSITIVE, zero downward. But the tension is sharper than the answer: PRICE IS ABOVE TARGET FOR 4 OF 6.**
+Source: Tier-1 agent, Yahoo `quoteSummary` (`earningsTrend`/`financialData`) via authenticated crumb,
+snapshot 2026-08-13 ~20:00 UTC, cross-checked against StockAnalysis.com (different analyst panel, all
+within 3-5%). ⚠️ **One fabrication caught and rejected — see below.**
+
+#### DATA (MEASURED)
+**REVISIONS — the priority item. % change in consensus EPS, 30d / 90d:**
+| tkr | Q3'26 | FY26 | FY27 | FY26 analysts up/down (30d) |
+|---|---|---|---|---|
+| **PBF** | **+98.2 / +176.4** | **+100.8 / +198.7** | **+48.0 / +168.2** | 8 up / 1 down |
+| MPC | +73.9 / +133.3 | +59.6 / +86.1 | +33.3 / +47.8 | **10 up / 0 down** |
+| VLO | +53.1 / +77.3 | +36.2 / +49.0 | +29.3 / +48.6 | 13 up / 2 down |
+| DINO | +47.1 / +126.7 | +31.7 / +77.5 | +17.8 / +50.1 | 11 up / 2 down |
+| PSX | +35.0 / +61.4 | +38.5 / +57.7 | +15.7 / +29.1 | 13 up / 2 down |
+| PARR | +34.8 / +66.8 | +31.7 / +56.9 | +28.4 / +60.4 | 1 up / 0 down |
+- **ALL 24 TICKER-PERIOD COMBINATIONS NET-POSITIVE ON BOTH WINDOWS. ESSENTIALLY ZERO DOWNWARD REVISIONS.**
+
+**CONSENSUS STILL MODELS NORMALISATION — FY27 EPS is BELOW FY26 for every name:**
+| tkr | FY26 EPS | FY27 EPS | **FY27 vs FY26** | FY26 P/E | FY27 P/E |
+|---|---|---|---|---|---|
+| VLO | 41.66 | 27.72 | **−33.5%** | 8.2× | 12.4× |
+| MPC | 51.38 | 32.97 | **−35.8%** | 6.9× | 10.8× |
+| PSX | 25.67 | 20.58 | −19.8% | 9.1× | 11.3× |
+| PBF | 16.92 | 9.19 | **−45.7%** | 4.4× | 8.1× |
+| DINO | 13.83 | 9.55 | −30.9% | 6.6× | 9.6× |
+| PARR | 20.27 | 13.23 | −34.7% | 4.1× | 6.2× |
+
+**PRICE vs AVERAGE TARGET:** VLO **−9.7%** · MPC **−9.6%** · PSX **−6.7%** · PBF **−12.8%** ·
+DINO −0.7% · PARR +2.4%. ⇒ **FOR FOUR OF SIX THE STOCK TRADES ABOVE THE AVERAGE SELL-SIDE TARGET.**
+
+**Q2'26 BEATS, universal and large:** PBF **+51.1%** · MPC +27.1% · PSX +25.5% · PARR +23.9% ·
+VLO +23.8% · DINO +18.3%.
+
+#### THESIS (interpretation — NOT fact)
+- **✅ THE ANSWER IS YES ON THE REVISION CHANNEL, AND IT IS UNAMBIGUOUS: 24 OF 24 POSITIVE, ZERO
+  DOWNWARD, WITH FY27 — THE "SETTLED VIEW" YEAR — STILL BEING MARKED UP DOUBLE DIGITS IN THIRTY DAYS.**
+  **That is the signature of a consensus CHASING the tape, not one that has caught up.** ⇒ **The
+  question Jake asked — "have estimates marked to a ~92 crack?" — answers NO.** *(Analysis.)*
+- **★★★★★★★ AND THE STRUCTURAL FINDING UNIFIES HIS TWO BETS INTO ONE: CONSENSUS FY27 EPS IS 20-46%
+  BELOW FY26 FOR EVERY NAME, WHICH MIRRORS THE FUTURES STRIP ALMOST EXACTLY (crack 97.09 → 56.49 =
+  −41.8%).** ⇒ **THE EQUITY ANALYSTS AND THE FUTURES CURVE ARE PRICING THE SAME NORMALISATION, TO
+  ROUGHLY THE SAME MAGNITUDE.** ⇒ **"The deferred strip is too low" and "FY27 consensus is too low" are
+  NOT two arguments. THEY ARE ONE BET, EXPRESSED IN TWO INSTRUMENTS.** **And that means the equity is a
+  levered, leaky wrapper on precisely the futures view — which is worth knowing before choosing the
+  instrument.** *(Analysis. This is the finding.)*
+- **★★★★★★ AND THE ARITHMETIC OF THE BET, AS A TRANSFER FUNCTION RATHER THAN A FORECAST: IF FY27 EPS
+  SIMPLY HELD FLAT WITH FY26 — i.e. the normalisation does not happen — THE FY27 MULTIPLES COLLAPSE FROM
+  12.4× TO 8.2× (VLO), 10.8× TO 6.9× (MPC), 8.1× TO 4.4× (PBF), 6.2× TO 4.1× (PARR).** ⇒ **That gap IS
+  the room, quantified. It is not a forecast — it is what the current price implies under his own
+  stated assumption.** *(Analysis. Rule 7 — the assumption is his.)*
+- **⚠️⚠️ AND THE TENSION IS SHARPER THAN THE ANSWER, AND IT IS THE MOST INTERESTING THING IN THE PULL:
+  EPS ESTIMATES ARE RACING UP WHILE PRICE TARGETS SIT *BELOW* THE STOCK FOR FOUR OF SIX.** **The
+  mechanism: price targets are typically a MULTIPLE × NORMALISED or OUT-YEAR earnings. Analysts are
+  marking up near-term EPS while keeping their target multiples anchored to a normalised earnings level
+  they still believe in.** ⇒ **THE MARKET HAS ALREADY DECIDED THE NORMALISATION IS WRONG. THE ANALYSTS
+  HAVE NOT.** ⇒ **"Room to run" therefore reduces to WHICH SIDE CONVERGES: do targets rise to price, or
+  does price fall to targets? And that is decided by whether the crack holds — the physical question
+  already answered today (no supply response available inside 12 months).** *(Analysis.)*
+- **★★★★ AND A GENUINE STRUCTURAL ARGUMENT FROM THE VLO CALL, WHICH IS THE FIRST MECHANISM ANYONE HAS
+  OFFERED FOR *WHY* THE LEVEL PERSISTS: *"margins are now set by higher-cost HYDROSKIMMING capacity in
+  EUROPE rather than historical cracking benchmarks."*** ⇒ **If the marginal barrel is priced off the
+  least-efficient European refinery rather than a US complex refiner, the whole benchmark shifts up and
+  "mid-cycle" is mis-specified.** ⚠️ **INTERESTED PARTY — a refiner explaining why its own margin is
+  durable. Recorded as a mechanism to test, not a fact.** *(Analysis.)*
+- **⚠️ AND THE DISCIPLINE: THE MAGNITUDE OF THE REVISIONS IS ALSO THE WARNING. PBF FY26 +198.7% IN 90
+  DAYS IS NOT A FORECAST BEING REFINED — IT IS A MODEL BEING REBUILT AROUND A PRINT.** **Estimates
+  chasing a spot spread up 192% y/y will chase it back down with the same violence if the crack rolls.**
+  **The revision channel is evidence of room; it is NOT evidence of durability, and those are different
+  claims.** ⚠️ **PARR's revision data rests on 1 analyst up / 0 down and a 5-7 name panel — thin.**
+- **⛔ THIRD FABRICATION CAUGHT TODAY, RECORDED SO IT CANNOT RE-ENTER: multiple outlets repeat that
+  "Valero's own commentary points to a 27.7% earnings decline in 2027." THE AGENT COULD NOT ATTACH IT TO
+  ANY NAMED SPEAKER, TRANSCRIPT OR FILING, and one search synthesis mis-attributed it to MARATHON's CEO.
+  ⇒ DO NOT USE.** The measured figure is VLO FY27 consensus **−33.5%**, which is likely what the number
+  is a garbled version of. *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩 **TRACK FY27 CONSENSUS EPS MONTHLY — it is now the single cleanest gauge of Jake's thesis, and it
+   is the same object as the deferred crack strip.** Baseline today: VLO 27.72 · MPC 32.97 · PSX 20.58 ·
+   PBF 9.19 · DINO 9.55 · PARR 13.23.
+2. 🚩 **TRACK AVERAGE PRICE TARGET vs PRICE.** **The convergence direction is the answer to "room to run."**
+3. ⬜ **Test the VLO hydroskimming claim** — is the marginal barrel actually set by European hydroskimming
+   capacity? **It is the only structural argument on offer for a permanently higher benchmark.**
+4. ⬜ Capture rates by name (MPC cited 95% average 2023-25) — still not gathered.
+**Links:** [[demand-destruction]] · [[portfolio-state]] · [[ai-infra-allocation-map]]
