@@ -5149,6 +5149,7 @@ CRWV $104B backlog + $25B early Q3.
   CAPACITY DELIVERY" IS THE CLIFF'S FUNDING MECHANISM, NOT EVIDENCE AGAINST IT.** The supply response IS
   the thing that catches up. **Citing the buildout as proof the buildout will not arrive is circular.**
 - **★★★★★ AND THE GRID SERIES SETTLES GLIDE-VS-CLIFF — IN THE DIRECTION JAKE IS ARGUING AGAINST, USING
+  ⟲ SUPERSEDED 2026-08-13 → ai-financing-fragility.md:L5217 — EFFICIENCY SUBSTITUTES FOR MEGAWATTS -- the same MW with better silicon delivers more compute, so compute supply can normalise without new MW. The 5%/yr grid constraint does NOT force eviction. Jake's catch; the grid argument is demoted
   THE ONE THESIS THIS VAULT HOLDS WITH MOST CONVICTION. MEGAWATT SUPPLY IS GROWING ~4-5%/YEAR.** When
   CoWoS/HBM unblocks (1H-2027 per the article's own sources), **silicon supply grows FAR faster than 5%.**
   ⇒ **THE NEW SILICON HAS NOWHERE TO GO EXCEPT INTO SOCKETS THAT ARE ALREADY OCCUPIED.** **That is
@@ -5187,3 +5188,74 @@ CRWV $104B backlog + $25B early Q3.
 3. ⬜ What share of Alphabet's $195-205B is silicon vs shell vs power — the grid argument's own denominator.
 4. ⬜ carried: recontracted-A100 rate · CRWV active MW · useful-life extensions · Meta's rented vintage.
 **Links:** [[power-not-petroleum]] · [[compression-thesis]] · [[ai-capex-cycle]] · [[metered-compute]] · [[cepi]]
+
+### 2026-08-12 ~10:30pm PDT — ★★★★★★ JAKE'S EFFICIENCY CHALLENGE BREAKS MY GRID ARGUMENT AND PRODUCES THE BEST RESULT OF THE NIGHT: **THE MARKET PRICES GPUs PER UNIT OF MEMORY BANDWIDTH, AND THE A100 IS ALREADY AT PARITY. THERE IS NO TECHNOLOGICAL CLIFF LEFT TO FALL.**
+Jake: *"scarcity and depreciation are running in tandem — scarcity scaled depreciation up, the depreciation
+is still occurring, the tide's just rising. The MW don't necessarily need to be built at warp speed to
+catch up, right? Efficiency drives depreciation more than physical deterioration. If the next chip computes
+the same output on 300% less power, that raises the denominator in the MW/compute equation."*
+
+#### DATA (published specs × current rates)
+| | TFLOP/W (FP16) | low-precision/W | **GB/s per W** | $/TFLOP-hr | **$/(GB/s)-hr ×1000** |
+|---|---|---|---|---|---|
+| **A100 80GB** | 0.78 | 1.56 (INT8) | **5.10** | 0.00413 | **0.633** |
+| H100 SXM | 1.41 | 2.83 (FP8) | 4.79 | 0.00237 | 0.702 |
+| **B200** | 2.25 | 9.00 (FP4) | **8.00** | 0.00222 | **0.625** |
+- **$/TFLOP-hr spread across the three: 86%. $/(GB/s)-hr spread: 12%.**
+- **A100 parity price vs a B200 at $5.00/hr — FP16 compute $0.69 (−46%) · low-precision inference $0.35
+  (−73%) · MEMORY BANDWIDTH **$1.27 (−1% vs the $1.29 index)**.**
+- **THE TWO CLOCKS 2020-11 → 2026-08: A100 $/GPU-hr −68.5% (−18.1%/yr) vs BEST-AVAILABLE $/TOP-hr
+  −91.5% (−34.8%/yr) — a 1.9× gap.**
+- **Vault already held both ends (`:L4474`): GPU rentals +35-38% against closed-model token prices −27%;
+  SDLLMTK 2.05 (May) → 1.1997 (8/6) = −41.5%.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔ CONCEDED — HIS FIRST CLAIM IS SIMPLY RIGHT, AND IT IS THE TEXTBOOK DISTINCTION: FOR SEMICONDUCTORS,
+  FUNCTIONAL OBSOLESCENCE DOMINATES PHYSICAL DETERIORATION.** Appraisal splits value loss three ways —
+  physical deterioration · **functional obsolescence** (something better exists) · economic obsolescence
+  (the market shrank). **Huang's entire argument — warranties, "still working," "in active use" — is
+  about the ONLY one of the three that does not drive the value.** *(Analysis.)*
+- **⛔⛔ CONCEDED — HIS SECOND CLAIM BREAKS MY GRID ARGUMENT, AND HE IS RIGHT ABOUT WHY. I ARGUED MW GROWS
+  ⟲ SUPERSEDES ai-financing-fragility.md:L5151 — EFFICIENCY SUBSTITUTES FOR MEGAWATTS -- the same MW with better silicon delivers more compute, so compute supply can normalise without new MW. The 5%/yr grid constraint does NOT force eviction. Jake's catch; the grid argument is demoted
+  ~5%/yr SO NEW SILICON MUST DISPLACE OLD. EFFICIENCY SUBSTITUTES FOR MEGAWATTS: the same MW with better
+  silicon delivers more compute, so compute supply can normalise WITHOUT new MW.** ⇒ **The grid argument
+  was doing work that efficiency does better. Demote it.** *(Analysis.)*
+- **★★★★★★ BUT RUNNING HIS OWN MECHANISM PRODUCES THE OPPOSITE OF WHAT IT PREDICTS, AND THIS IS THE
+  FINDING: THE EFFICIENCY THAT SETS THE PRICE IS NOT FLOPS PER WATT — IT IS MEMORY BANDWIDTH PER WATT,
+  AND THAT HAS BARELY IMPROVED.** A100 → B200 is **2.9× on FP16/W** and **5.8× on low-precision/W** but
+  only **1.57× on GB/s per W** (5.10 → 8.00, ≈ **8%/yr over six years**). **And price tracks the slow
+  one: $/(GB/s)-hr varies 12% across three generations while $/TFLOP-hr varies 86%.**
+  ⇒ **BANDWIDTH EXPLAINS GPU RENTAL PRICING ROUGHLY 7× BETTER THAN FLOPS DO.** *(Analysis.)*
+- **★★★★★★ ⇒ THE A100's $1.29 INDEX PRICE IS ITS BANDWIDTH-PARITY PRICE AGAINST A B200: $1.27, A 1%
+  MISS. THE MARKET HAS ALREADY DONE THIS CALCULATION.** ⇒ **THE TECHNOLOGICAL DEPRECIATION IS ALREADY IN
+  THE PRICE. There is no obsolescence cliff left to fall — the index took it.** **What is NOT in the
+  index is CRWV's realised ~$2.70, which is 2.1× bandwidth-fair value.** ⇒ **THE CLIFF IS $2.70 → $1.29,
+  AND IT IS A CONTRACT-ROLL CLIFF, NOT AN OBSOLESCENCE CLIFF.** **Two independent methods — the
+  revenue-per-megawatt socket test at ~10:15pm and bandwidth parity now — land on the same $1.29 and the
+  same ~$1.40 of excess.** *(Analysis.)*
+- **★★★★★★ AND THE DEEPEST VERSION, WHICH COLLAPSES TWO OF TONIGHT'S CLAIMS INTO ONE: HBM IS BOTH THE
+  SHORTAGE AND THE THING PROTECTING THE OLD CHIP.** The same HBM/CoWoS constraint that makes new silicon
+  scarce is what keeps bandwidth-per-watt improving at only ~8%/yr — **which is exactly why the A100 holds
+  its price.** ⇒ **"Scarcity is propping up the A100" and "the A100 is fairly priced on bandwidth" are not
+  two facts. They are one fact seen twice.** **My 1H-2027 trigger survives but its MECHANISM CHANGES:
+  what arrives is BANDWIDTH, and the magnitude is bounded by bandwidth/watt (1.57×), not by FLOPS/watt
+  (2.9-5.8×). That is a materially SMALLER cliff than I was implying.** *(Analysis.)*
+- **★★★★ AND IT VINDICATES HIS "RISING TIDE" EXACTLY: the box depreciated 18.1%/yr while COMPUTE
+  depreciated 34.8%/yr.** ⇒ **the A100 owner's revenue per box fell slowly while what that box PRODUCES
+  lost value twice as fast. The vault had both series (`:L4474` — rentals +35-38% vs tokens −27%) and
+  never named the divergence as DEPRECIATION. That naming is Jake's.** *(Analysis.)*
+- **⚠️⚠️ THE DISCIPLINE THIS RESULT NEEDS, STATED BEFORE IT GETS QUOTED: n=3, I CHOSE THE RATE POINTS, AND
+  I FOUND BANDWIDTH ON THE THIRD METRIC I TRIED. THAT IS A MULTIPLE-COMPARISONS PROBLEM** — the same trap
+  as the monotone sweep in the pre-earnings study. **A 12%-vs-86% spread is suggestive, not established.**
+  **Other omissions that could carry the result: memory CAPACITY (80 vs 192 GB), NVLink generation,
+  and the fact that TRAINING is FLOPS-bound — where the A100 genuinely IS obsolete.** ⬜ **FALSIFIABLE AND
+  CHEAP: if GPUs price on bandwidth, $/(GB/s)-hr should be ≈flat across H200, L40S, MI300X, GB200 AND
+  ACROSS TIME. Run it on 8-10 SKUs before this is load-bearing.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩 **THE BANDWIDTH-PARITY TEST ON 8-10 SKUs + BACK THROUGH TIME.** Decides whether tonight's best
+   result is a law or a coincidence. **Cheap, and everything above depends on it.**
+2. 🚩 **The recontracted-A100 rate** — now doubly load-bearing: it measures the $2.70-vs-$1.29 gap directly.
+3. ⬜ Training-vs-inference workload mix on the A100 fleet: bandwidth parity holds only for inference.
+4. ⬜ carried: neocloud debt maturity ladder vs fleet vintage · CRWV active MW · useful-life extensions.
+**Links:** [[metered-compute]] · [[power-not-petroleum]] · [[compression-thesis]] · [[cepi]] · [[memory-regime-question]]
