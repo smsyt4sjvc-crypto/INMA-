@@ -1,7 +1,7 @@
 # Vault Index — the map (read after CLAUDE.md)
 
 Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), then this (what exists + where).
-54 notes, 178 raw sources, 69 tools. Last built: 2026-08-12. Regenerate when notes are added/renamed.
+55 notes, 178 raw sources, 69 tools. Last built: 2026-08-12. Regenerate when notes are added/renamed.
 (+ `wiki/war/` containment added 2026-07-23: war-board / war-confirmed / war-rhetoric — the scannable war index.)
 
 > Two domains, two brains: THIS vault = markets research. The **trading system** is a SEPARATE repo
@@ -32,6 +32,7 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 - [[ai-financing-fragility]] — the debt leg (private credit → the funding squeeze; the tripwire)
 - [[reflection-ai]] — the "American open-weight champion" (Nvidia-backed, private, pre-product; circular-financing instance)
 - [[metered-compute]] — Jake's structural-demand thesis (geometric agentic token consumption = the DEMAND side; shortage-not-glut) + the settlement toll
+- [[content-toll]] — the crawler unbundling: content becoming a PRICED AI input (Google Zero, Cloudflare 9/15, the search/training bundle as the source of leverage)
 - [[agentic-payments]] — the AI payment layer (x402/MPP; own the stablecoin float + COIN toll, not the alt coins)
 - [[ai-infra-allocation-map]] — the names, sorted
 - [[buildout-bottleneck-map]] — the next unrepriced layer

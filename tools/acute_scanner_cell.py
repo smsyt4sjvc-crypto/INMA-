@@ -318,6 +318,16 @@ THREADS = {
                # principal and TOKEN-ECON could not see it. Pricing MECHANISM vocabulary was absent.
                'auction','dynamic auction','lowest price','compute auction','spot price',
                'marginal cost of intelligence','per gigawatt','intelligence per gigawatt'],
+ # gap #20 (2026-08-12): a Goldman TMT note on "Google Zero" / crawler unbundling matched CAPEX(2)
+ # only — the vault had ZERO mentions of crawler, Google Zero, search traffic or content licensing.
+ # CONTENT is the one AI input the map could not see: compute, power, memory and capital all had
+ # threads; the TRAINING CORPUS did not.
+ 'CONTENT-TOLL':['google zero','zero click','zero-click','ai overview','ai overviews',
+                 'crawler','crawlers','googlebot','robots.txt','scraping','scraper',
+                 'search referral','referral traffic','search traffic','organic traffic',
+                 'publisher','publishers','content licensing','licensing deal','pay per crawl',
+                 'training data','data licensing','corpus','opt out','opt-out',
+                 'cloudflare','semrush','nieman','digiday'],
 }
 
 # THREAD -> ORIGINATING VAULT NOTE. Every hit routes BACK to the note it came from.
@@ -343,6 +353,7 @@ ROUTE = {
  'ALLIANCE':  'war/war-board (MJDA 8/8 — verified; Article 5 language vs Article 5 capability) / demand-destruction / oil-value-chain',
  'LEVANT':    'war/war-board (talks-while-shooting; MoU Article 1 broke via Lebanon -- portfolio-state L143)',
  'TOKEN-ECON':'metered-compute (the Jevons/elasticity-1 test) / compression-thesis / cepi',
+ 'CONTENT-TOLL':'content-toll / metered-compute (same metering architecture, different input) / compression-thesis',
 }
 # ═══════════════ THREAD MAP END ═══════════════
 
