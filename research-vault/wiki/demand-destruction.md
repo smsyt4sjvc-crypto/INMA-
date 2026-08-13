@@ -3432,3 +3432,81 @@ Source: `raw/thesis-radar-report-1-2026-08-09.md` (the confirmation-loop workflo
 - *(analysis)* The three together tighten one picture: realized Q2 crude ran ~$93 average while the
   replacement-barrel machinery (Venezuela ramp, SPR returns) built underneath — **the premium was real
   AND the supply answer is arriving.** Both legs now carry numbers.
+
+### 2026-08-13 ~9:10am PDT — ⛔⛔ JEFFERIES' HEADLINE CONFIRMS MY 8:55am READ AND ITS **BODY CORRECTS ME TWICE** — and the vault held the correcting number at LINE 12 of this note the whole time
+  ⟲ SUPERSEDES oil-value-chain.md:L256 — the war-premium-unwind mechanism is WRONG for crude, not just one-legged: demand-destruction:12 (HFI 6/30) has Chinese crude imports -4.9M b/d y-o-y and Brent in steep contango = physical glut. Crude is cheap because the largest buyer stopped buying, not because risk faded
+  ⟲ SUPERSEDES war-board.md:L2023 — TOO STRONG on the crude leg: US commercial crude built 17.4MM bbl last week, largest since Jan-2023, and Chinese demand elasticity is a live ~5 mmbpd absorber. Two buffers spent (SPR, product), two intact (commercial crude, China demand). The convexity lives in the PRODUCT leg only
+Source: ZH carrying Jefferies (Sam Burwell) note dated Wednesday, *"Hormuz Shock Manifesting Itself In
+Cracks, Not Crude"* → `raw/zerohedge-jefferies-cracks-not-crude-2026-08-13.txt`. ⚠️ **ARTIFACT: a ZH
+wrap QUOTING the Jefferies note at length — the block-quoted Burwell text is near-primary; the framing
+around it is not.**
+
+#### DATA (as reported)
+- **★★ CHINA: "the massive ~5 mmbpd DOWNSHIFT in imports following the Hormuz closure demonstrated the
+  extent of China's demand elasticity."** July **+~1 mmbpd m/m** off June's low. **"A return to the ~11
+  mmbpd five-year average would imply ~3 mmbpd of INCREMENTAL DEMAND."**
+- **★★ US COMMERCIAL CRUDE +17.4 MILLION BARRELS last week — the LARGEST BUILD SINCE JANUARY 2023** (weak
+  exports, higher Saudi/Venezuelan imports).
+- **IEA (Wed): 1.8 mmbpd DEFICIT this quarter — MORE THAN DOUBLE its prior estimate; widest annual
+  shortfall in five years; elevated prices "beginning to crush demand."**
+- **US refinery utilization dipped w/w but remains near 20-YEAR SEASONAL HIGHS.**
+- **★★ POLYMARKET "US-Iran 60-day negotiation period extended?" — ~25%, DOWN FROM ~80% ONE WEEK AGO.**
+- Brent ~$90 fading to ~$87 Thu AM, **weekly advance ~5%.** Trump (Truth Social, Wed): US has "total
+  control" of Hormuz and *"I think we will keep it."* BofA: diesel *"tight, volatile and expensive well
+  into next year."* GS's Samantha Dart: the diesel crunch is *"what keeps her up at night."*
+- **Jefferies' own conclusion: "wide cracks suggest refining runs should remain strong, which is POSITIVE
+  FOR CRUDE… this setup is CONSTRUCTIVE for crude."**
+
+#### THESIS (interpretation — NOT fact)
+- **✅ THE HEADLINE MATCHES WHAT I DERIVED INDEPENDENTLY AT 8:55am** from HO×42 − WTI (product leg +9.63
+  vs crude +2.70 over 30 sessions). **And it is genuinely independent: Burwell's note is dated WEDNESDAY,
+  before my computation, from different inputs.** ⚠️ **But `war-board:1762` already had WSJ saying it on
+  ~8/9. So the OBSERVATION is now four-deep and is not the value here.** *(Analysis.)*
+- **⛔⛔ CORRECTION 1 — "EVERY SHOCK ABSORBER IS SPENT" (filed 25 minutes ago) IS TOO STRONG, AND THE
+  CRUDE LEG IS THE PART THAT IS WRONG. US COMMERCIAL CRUDE BUILT 17.4 MILLION BARRELS LAST WEEK, THE
+  LARGEST SINCE JAN-2023.** **The STRATEGIC reserve is empty and PRODUCT is tight — but the COMMERCIAL
+  crude buffer is REBUILDING.** ⇒ **Two buffers spent, two intact. The convexity I claimed lives ENTIRELY
+  IN THE PRODUCT LEG, not across the whole chain.** *(Analysis. Conceded.)*
+- **⛔⛔⛔ CORRECTION 2, AND IT IS THE BIGGER ONE — I NAMED THE WRONG MECHANISM FOR CHEAP CRUDE, AND THE
+  RIGHT ONE IS AT **LINE 12 OF THIS NOTE**.** At 8:45am I told Jake the dovish energy print was a
+  **"war-premium unwind"** and that an Iran escalation would put the premium back. **`demand-destruction:12`
+  (HFI, 2026-06-30) has carried the measured answer for six weeks: "Chinese crude imports −4.9M b/d
+  y-o-y"** — **the same ~5 mmbpd Jefferies reports today** — plus **"Brent 1-2 timespread in STEEP
+  CONTANGO (front cheaper than later = PHYSICAL GLUT)."** ⇒ **CRUDE IS CHEAP BECAUSE THE LARGEST BUYER
+  STOPPED BUYING AND BARRELS ARE ACCUMULATING — NOT because risk faded.** *(Analysis.)*
+- **★★★★★★ AND THE CORRECTED MECHANISM INVERTS THE ASYMMETRY I GAVE HIM. A DEMAND-DESTRUCTION FLOOR IS
+  SELF-STABILISING ON CRUDE: price rises → China stays out → price capped. THAT IS NEGATIVE FEEDBACK.**
+  **The ~3 mmbpd of coiled Chinese demand only returns if prices FALL — so it is a right-tail on crude
+  that fires in the BENIGN state, not the malign one.** ⇒ **Crude has a two-sided, self-correcting
+  structure. DIESEL DOES NOT: refinery utilization is at 20-year seasonal highs, so the binding
+  constraint is CAPACITY, which no price can conjure inside a quarter.** ⇒ **THE CONVEXITY IS IN THE
+  PRODUCT LEG AND ONLY THERE — which is exactly why the shock is "manifesting in cracks, not crude,"
+  and it is a stronger statement than the one I made.** *(Analysis.)*
+- **⛔ AND THE PROCESS FAILURE IS THE THIRD OF THE SESSION AND THE SAME EVERY TIME: I REACHED FOR A FRESH
+  EXPLANATION WHILE THE VAULT HELD THE MEASURED ONE.** (1) the +35-38% GPU rental figure · (2) the Huang
+  $500B transcript · (3) this. **Worse here: `:L2837` explicitly warned me — *"this is the THIRD absorber
+  I have named. THE FIRST TWO WERE WRONG. Hold it loosely and treat it as a hypothesis to test."* I named
+  a fourth this morning and stated it as fact.** *(Analysis.)*
+- **★★★★★ AND JEFFERIES' CONCLUSION IS THE STEP I DID NOT TAKE: THE CRACKS-NOT-CRUDE STATE IS UNSTABLE.**
+  **"Wide cracks suggest refining runs should remain strong, which is POSITIVE FOR CRUDE."** ⇒ **Record
+  margins pull refiners to run harder, which pulls crude demand — so the split RESOLVES toward higher
+  crude rather than persisting.** ⚠️ **Bounded by the same capacity ceiling: at 20-year seasonal-high
+  utilization there is little room to run harder.** *(Analysis.)*
+- **★★★★★ THE ONE DATED, MARKET-PRICED TRIGGER IN THE WHOLE MORNING: POLYMARKET "US-IRAN 60-DAY
+  NEGOTIATION PERIOD EXTENDED?" — 80% → 25% IN ONE WEEK.** ⇒ **Jake's "all or nothing" finally has a
+  probability and a SLOPE, from a market rather than a narrative.** **This is the object the
+  WARNING-vs-TRIGGER rule asks for, and it is the first one this thread has had.** 🚩 **TRACK IT.**
+- **⚠️ AND THE IEA'S 1.8 mmbpd DEFICIT SITS AWKWARDLY AGAINST THE 17.4MM-BARREL BUILD AND THE CONTANGO.**
+  **A forecast deficit and an observed inventory build are not compatible in the same week unless the
+  build is REGIONAL (US-specific, on weak exports) while the deficit is GLOBAL.** ⬜ **Do not net them;
+  they are different objects. Named so it is not smoothed over.**
+
+#### 📌 REGISTERED
+1. 🚩 **POLYMARKET US-IRAN EXTENSION ODDS — the dated trigger. 80%→25% in a week; track the slope.**
+2. 🚩 **CHINESE CRUDE IMPORTS, monthly** — `:L2837`'s registered test, now with a Jefferies baseline:
+   **June low → +1 mmbpd in July → ~11 mmbpd five-year average = ~3 mmbpd of upside.** **The single
+   largest swing factor in the oil balance and the vault has never tracked the series.**
+3. 🚩 **DISTILLATE INVENTORIES + refinery utilization** — the product leg's buffer, where the convexity
+   actually is.
+4. ⬜ Reconcile the IEA 1.8 mmbpd deficit against the US build — regional vs global, not a net.
+**Links:** [[oil-value-chain]] · [[war/war-board]] · [[market-fragility]] · [[new-economy-regime]]

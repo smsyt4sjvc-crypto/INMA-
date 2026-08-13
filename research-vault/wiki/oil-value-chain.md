@@ -254,6 +254,7 @@ spread) **98.169**. ⚠️ **ARTIFACT: a chart, not a series. Verified independe
 
 #### THESIS (interpretation — NOT fact)
 - **⛔⛔ THIS PARTLY REFUTES WHAT I FILED AT ~8:45am. I told Jake the dovish PPI was a WAR-PREMIUM UNWIND,
+  ⟲ SUPERSEDED 2026-08-13 → demand-destruction.md:L3436 — the war-premium-unwind mechanism is WRONG for crude, not just one-legged: demand-destruction:12 (HFI 6/30) has Chinese crude imports -4.9M b/d y-o-y and Brent in steep contango = physical glut. Crude is cheap because the largest buyer stopped buying, not because risk faded
   ⟲ EXTENDS market-fragility.md:L3283 (2026-08-13) — one-legged: the war-premium-unwind read is true for CRUDE and GASOLINE but FALSE for DISTILLATE -- heating oil x42 is 175.46, up +9.63 over 30 sessions vs crude +2.70, with the diesel crack at the top of its 2yr range. The energy deflation is a CONSUMER-fuel story; the industrial fuel never unwound [old entry stays LIVE]
   citing Brent 112 → 88.** **True for CRUDE and GASOLINE. FALSE for DISTILLATE — heating oil ×42 is
   175.46 and UP +9.63 over 30 sessions while crude added only +2.70.** ⇒ **THE ENERGY "DEFLATION" IS A
