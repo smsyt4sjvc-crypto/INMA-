@@ -252,3 +252,67 @@ calendar data; estimated earnings dates are routinely wrong, confirmed-only is t
 
 **Links:** [[buildout-bottleneck-map]] · [[power-not-petroleum]] · [[ai-capex-cycle]] · [[cepi]] ·
 [[physical-ai-hardware-stack]] (the queue-vs-forecast template) · [[portfolio-state]]
+
+### 2026-08-13 ~7:45am PDT (data pulled ~6:58am) — 📊 2ND-ORDER BASKET, DISTANCE BELOW 52-WEEK HIGH: **ORCL −54.4%** — and the DAYS-SINCE-PEAK column splits the basket into two populations that are not in the same regime
+Jake: *"What in our 2nd order is the furthest under 52W high."* All 23 names resolved.
+⚠️ **ARTIFACT: yfinance was reset by the proxy and reported `possibly delisted; no price data found` —
+FALSE. That is a TRANSPORT failure wearing a DATA-CONDITION mask, the same class as the FRED
+404-vs-timeout bug. Re-pulled via the Yahoo chart API directly through urllib. Bars end 2026-08-13,
+intraday — market was ~25 min open.**
+
+#### DATA (observed — Yahoo chart API, 1y daily, pulled 2026-08-13 ~6:58am PDT)
+| # | ticker | bucket | last | 52w high | % below | days since peak |
+|---|---|---|---|---|---|---|
+| **1** | **ORCL** | **hyperscaler/debt** | 157.51 | 345.72 | **−54.4%** | **337d** (2025-09-10) |
+| 2 | MP | materials | 55.11 | 100.25 | −45.0% | 303d |
+| 3 | GFS | compute silicon | 53.40 | 92.55 | −42.3% | 79d |
+| 4 | IREN | neocloud | 47.15 | 76.87 | −38.7% | 281d |
+| 5 | ARM | compute silicon | 289.14 | 452.70 | −36.1% | 56d |
+| 6 | RIVN | EV | 15.94 | 22.69 | −29.7% | 234d |
+| 7 | CRWV | neocloud | 110.99 | 153.20 | −27.6% | 307d |
+| 8-13 | INTC −25.4 · AMAT −24.6 · MU −24.1 · SWKS −23.8 · LRCX −23.6 · COHR −21.0 | | | | | |
+| 14-23 | EWY −19.1 · RNW −17.5 · TXN −17.0 · AMD −15.3 · AVGO −14.4 · LITE −13.1 · QRVO −10.6 · TSM −9.2 · NBIS −9.1 · **NVDA −4.6** | | | | | |
+- **Basket median −23.6% · mean −23.8% · 13 of 23 are more than 20% below.**
+- **PEAK-DATE CLUSTER: 2026-06-30 is the 52w-high date for FIVE names** (INTC, AMAT, LRCX, AMD, TSM);
+  2026-06-18 for two (ARM, EWY); 2026-06-03 for two (COHR, AVGO); 2026-06-22 for two (TXN, NBIS).
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ THE ANSWER IS ORCL, BUT ORCL IS NOT IN THE SAME POPULATION AS THE REST OF THE LIST. THE
+  DAYS-SINCE-PEAK COLUMN SPLITS THE BASKET IN TWO.** **GROUP A (44-93 days): sixteen names that all
+  topped in a two-week window in late June 2026 — five of them on the SAME DAY.** That is one common
+  factor hitting the whole silicon complex at once. **GROUP B (234-337 days): ORCL, RNW, CRWV, MP,
+  SWKS, IREN, RIVN — broken since autumn 2025 and still falling while Group A was making new highs.**
+  ⇒ **"Furthest below" is answering a question about Group B membership, not about depth of selloff.**
+- **★★★★★★ AND GROUP B IS, WITH TWO EXCEPTIONS, THE DEBT-FUNDED LEG — WHICH THIS VAULT NAMED IN
+  ADVANCE.** `ai-financing-fragility:751`: *"the quality-ladder razor firing IN CREDIT: the break is in
+  the levered PERIPHERY (CRWV/neoclouds, **ORCL/SPCX debt-funded**) while the cash-rich CORE
+  (MSFT/GOOG/AMZN) is FINE."* **All three debt-funded names in the basket — ORCL, IREN, CRWV — sit in
+  the top seven drawdowns, and ORCL is #1.** ⇒ **The drawdown ranking IS approximately the leverage
+  ranking, and the "avalanche starts at the levered edge" call is what this table looks like.**
+  ⚠️ **NOT a clean sweep: MP (rare-earth) and RIVN (EV) are in the top seven on their own stories, and
+  GFS/ARM are Group A. Do not over-fit the pattern to the whole list.** *(Analysis.)*
+- **★★★★★ ⚠️ AND THE METRIC ITSELF IS ABOUT TO RESET FOR EXACTLY THE NAMES AT THE TOP — A TRAP WORTH
+  NAMING BEFORE ANYONE SCREENS ON IT AGAIN. A 52-WEEK HIGH THAT IS 337 DAYS OLD ROLLS OUT OF THE WINDOW
+  IN 28 DAYS.** **ORCL's −54.4% will improve sharply with the stock completely unchanged.** **Six names
+  are within ~85 days of their peak leaving the window: ORCL 337d · RNW 316d · CRWV 307d · MP 303d ·
+  SWKS 289d · IREN 281d.** ⇒ **"% below 52-week high" has an EXPIRY DATE, and it expires first for the
+  deepest names. A screen re-run in October will show "improvement" that is pure calendar.** ⇒ **Pair
+  it with drawdown-from-peak on a FIXED start date, or the metric will manufacture a recovery.**
+  *(Analysis. Same defect class as a monotone sweep whose tightening axis concentrates the sample.)*
+- **★★★★★ AND IT MEASURES LAST NIGHT'S DISPERSION CLAIM DIRECTLY: THE BASKET MEDIAN IS −23.6% BELOW ITS
+  52-WEEK HIGH WHILE THE INDEX SITS NEAR ITS OWN AND THE VIX CLOSED 15.28.** ⇒ **The "silence" Jake
+  asked about last night is not calm; it is a market where the median 2nd-order name is a quarter below
+  its high and the index does not register it.** **`market-fragility` 8/12 ~11:45pm registered implied
+  correlation as the test of that claim — this table is a cruder version of the same measurement, and it
+  points the same way.** *(Analysis.)*
+- **⚠️ RULE 7 — descriptive. This is a distance-from-high ranking, not a ranking of anything else.
+  Furthest below a high is not "cheapest," not "most oversold," and not a signal; GFS at −42% and NVDA
+  at −4.6% are different businesses, not different points on one scale.**
+
+#### 📌 REGISTERED
+1. ⬜ **Re-run with drawdown from a FIXED anchor** (e.g. 2025-06-30) alongside the rolling 52w — isolates
+   real decline from window roll-off. **Cheap, and it defuses the October illusion.**
+2. ⬜ **What happened on 2026-06-30** — five basket names share that exact 52-week-high date. **One event.**
+3. 🔧 **`tools/` note: yfinance is currently proxy-blocked; the Yahoo chart API via urllib works.** Any
+   cell in `tools/` that calls `yf.download` will fail the same way and report it as "delisted."
+**Links:** [[ai-financing-fragility]] · [[market-fragility]] · [[portfolio-state]] · [[cepi]]
