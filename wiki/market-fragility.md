@@ -3163,3 +3163,85 @@ Exhaustion, or nothing surprises anyone anymore?"*
    in two independent studies, unlike the VIX level.
 3. ⚠️ **VIX 15.28 is single-sourced from a search snippet — verify against Cboe direct before use.**
 **Links:** [[where-the-edge-is]] · [[options-reference-natenberg]] · [[portfolio-state]] · [[_calibration]]
+
+### 2026-08-13 ~8:00am PDT — ⚖️ JAKE'S BULL PIVOT, GRADED: **ONE OF HIS SIX LEGS IS RIGHT AND THE VAULT ALREADY BACKED IT — the other five are STATES being used to make a TIMING claim, and one is factually contested**
+Jake: *"Everything is now pointing bullish outside financing, which doesn't matter until it does. CRWV,
+NBIS just ripped earnings. CRWV renting A100s through 2029, compute obviously still scarce. Is it
+possible HFs and retail de-levered at highs, reset, and another run is setting up? Fed hike odds low.
+Committed capex up. Yes albeit shady and circular financing, but the more I study the more I find that's
+pretty much how things are built."*
+
+#### ⛔ WHAT THE VAULT ALREADY HOLDS ON HIS STRONGEST LEG — and it is in HIS OWN calibration file
+- **`_calibration:329`: *"(coiled setup — reconciled w/ GS Prime) Bearish NARRATIVE (consensus) +
+  DE-GROSSED-BUT-UNHEDGED books (AI at 25th %ile, macro hedges reduced) → near-term PAIN TRADE IS UP
+  (squeeze); a real shock = violent (unhedged)."***
+- **`ai-financing-fragility:2134`: *"The de-gross was REAL; the liquidation was NEGOTIATED. That is how
+  memory and the AI complex could fall 10-50% on forced-selling dynamics WITHOUT a disorderly cascade,
+  while EW S&P printed an all-time high."*** · **`:1975`: Goldman's *"largest 3-day de-gross since Nov
+  '22,"* 7/29.**
+- **September hike odds TODAY: CME FedWatch ~49.7% · prediction markets ~38%** (search, 8/13).
+  ⚠️ **Venue-dependent, single-pull.** **`new-economy-regime:2926` (8/12): I read this number BACKWARDS
+  TWICE — "44-45%" is SEPTEMBER HIKE odds, not cut odds.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔ CONCEDED FIRST, BECAUSE IT IS THE STRONGEST AND THE VAULT ALREADY AGREED: LEG 4 — "HFs and retail
+  de-levered at highs, reset" — IS CORRECT, DATED, AND ALREADY GRADED IN HIS FAVOUR.** The de-gross was
+  real (7/29, largest 3-day since Nov-22), **AI positioning sat at the 25th percentile**, the liquidation
+  cleared through a negotiated bid rather than a cascade, and **the vault's own conclusion was that the
+  near-term pain trade is UP.** ⇒ **He is not reaching. He is re-deriving a conclusion this vault
+  reached three weeks ago.** *(Analysis.)*
+- **★★★★★★ BUT THE CENTRAL DEFECT IS AN ASYMMETRY IN HIS OWN RULE, AND IT IS THE WHOLE CRITIQUE:
+  "FINANCING DOESN'T MATTER UNTIL IT DOES" IS THE WARNING-VS-TRIGGER RULE APPLIED CORRECTLY — AND IT
+  DISQUALIFIES FOUR OF HIS FIVE REMAINING LEGS THE SAME WAY.** **"Compute is scarce" is a STATE.
+  "Committed capex is up" is a STATE. "Hike odds low" is a PRICE OF A STATE. "Circular financing is
+  normal" is a STATE.** ⇒ **He applied the state-discount to the bear evidence and not to the bull
+  evidence.** **A list of states cannot produce "another run is setting up" — that is a timing claim,
+  and LEG 4 IS THE ONLY ONE WITH THE RIGHT SHAPE.** *(Analysis. This is the side he is under-weighting.)*
+- **⛔ "EVERYTHING IS NOW POINTING BULLISH" IS CONTRADICTED BY THE TABLE I SENT HIM 70 MINUTES AGO.**
+  `ai-infra-allocation-map` 8/13: **the 2nd-order basket median is −23.6% below its 52-week high; 13 of
+  23 are more than 20% below.** **And the two names he cites as proof are −27.6% (CRWV) and −38.7%
+  (IREN) below their own highs AFTER the rip.** ⇒ **The earnings beat happened INSIDE the drawdown. A
+  +20% day off a −40% base is a bounce in a broken structure, not a breakout.** ⚠️ **NBIS is the honest
+  exception at −9.1% — genuinely near its high.** *(Analysis.)*
+- **⛔ "FED HIKE ODDS LOW" IS THE WEAKEST FACTUAL LINK AND IT FAILS ON A ONE-QUERY CHECK: ~38-50%
+  SEPTEMBER *HIKE* ODDS. A COIN FLIP IS NOT LOW.** **And the error runs in the same direction as my own
+  yesterday — I read hike odds as CUT odds twice (`new-economy-regime:2926`).** ⇒ **Two of us have now
+  read a hawkish number as dovish in 24 hours. Worth naming as a shared failure mode, not a gotcha.**
+  **Today's core PPI at +0.4% against +0.2% consensus cuts the same way.** *(Analysis.)*
+- **⚠️ AND THE A100-THROUGH-2029 LEG IS THE ONE WE SPENT FOUR HOURS ON LAST NIGHT: IT MEASURES CONTRACT
+  DURATION WHERE THE QUESTION IS PRICE** (`metered-compute:2247`, `ai-financing-fragility` 8/12 ~9:50pm).
+  **"Compute is scarce" is true and the vault agrees; it is not new information and it does not date
+  anything.** *(Analysis.)*
+- **★★★★★ ON THE CIRCULAR-FINANCING POINT — HE IS HISTORICALLY RIGHT AND THE INFERENCE IS BACKWARDS.**
+  **Vendor financing built the railroads AND was the mechanism of 1873 and 1893; it built the fiber
+  network AND was the mechanism of 2001** — `ai-financing-fragility:3782` already carries the rhyme:
+  *"equipment makers financed carrier customers; when carriers died, receivables became"* the loss.
+  **Aircraft leasing is the genuine counterexample: same structure, survived.** ⇒ **Circular financing
+  is NOT A PREDICTOR. IT IS AN AMPLIFIER.** **It does not make a bust more likely; it makes whichever
+  outcome arrives bigger and faster, because the same balance sheet sits on both sides.** ⇒ **"This is
+  how things get built" and "this is how things break" are the same sentence. Commonality tells you
+  about the MECHANISM, never about the OUTCOME.** *(Analysis.)*
+- **📐 INDEPENDENCE: MEDIUM-LOW, and the reason is the specific bias `_calibration` says to push on.
+  The pivot is SOURCE-CORRELATED WITH HIS OWN BOOK: two beats in names he holds, on a strong tape.**
+  **`_calibration` names "monotone-confirmed" as the flag — and every leg here points one way, which is
+  itself the tell.** ⚠️ **His genuinely independent contribution is the circular-financing base-rate
+  observation, which he reached by STUDYING rather than by watching the tape.**
+- **★ STEELMAN — STRONGER THAN HE PUT IT, AND I THINK IT IS ACTUALLY CORRECT: not "another run is
+  setting up" but "THE FUNDAMENTAL CLOCK HAS NOT TURNED AND THE POSITIONING CLOCK JUST RESET, SO THE
+  BURDEN IS ON THE BEAR TO NAME A DATED TRIGGER."** **That version needs no bullish state-list, survives
+  everything above, and is exactly what `_calibration:331`'s TWO CLOCKS framing implies.**
+- **⛔⛔ AND THE DISCIPLINE THAT STOPS THE FLIP IS ALSO ALREADY IN `_calibration:331`, VERBATIM:
+  *"'Everyone's bearish → bullish' is a LAZY heuristic that FAILED at 2000/2008 (bears were consensus
+  AND right; 2000 squeezed all the way down −78%). CONSENSUS-BEAR MOVES THE POSITIONING CLOCK (squeeze
+  risk), NOT THE FUNDAMENTAL CLOCK (pie growth). TWO CLOCKS."*** ⇒ **He is using positioning evidence
+  (leg 4, correct) to license a fundamental conclusion (legs 1-3, 5-6). The vault's own rule forbids
+  exactly that transfer.** *(Analysis. Rule 7 — descriptive; no position implied, sizing is Jake's.)*
+
+#### 📌 REGISTERED
+1. 🚩 **CURRENT GS PRIME / AI-BASKET POSITIONING PERCENTILE** — leg 4 is his best argument and its
+   evidence is three weeks old. **If books have RE-GROSSED since 7/29, the squeeze fuel is spent and
+   his strongest leg is gone.** ⬜ **The single highest-value check on this thesis.**
+2. ⬜ **A dated trigger for the bull case** — the steelman version demands one from the BEAR, but the
+   run-is-setting-up version needs one from the BULL. Neither side has named one.
+3. ⬜ Verify Sept hike odds from CME directly, not a search snippet.
+**Links:** [[_calibration]] · [[ai-financing-fragility]] · [[new-economy-regime]] · [[ai-infra-allocation-map]] · [[detachment-bid]]
