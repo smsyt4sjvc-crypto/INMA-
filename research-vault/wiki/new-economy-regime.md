@@ -3293,3 +3293,65 @@ independently verified.**
    internal that actually moved. **One month is not a trend; three is.**
 4. ⬜ Verify "highest since 2001" against the actual 30Y auction series.
 **Links:** [[market-fragility]] · [[ai-financing-fragility]] · [[cepi]] · [[balance-sheet-board]]
+
+### 2026-08-13 ~11:00am PDT — ★★★★★ JAKE'S FULL-WEEK REFUNDING READ IS CORRECT — and the three prints together carry **THREE INDEPENDENT TERM-PREMIUM SIGNATURES** he did not claim
+Jake: *"Not a failed-auction / buyers-disappearing story. Buyers are showing up, especially 3Y and 10Y.
+But they increasingly require 4.7-5.2% to hold longer duration. The market is saying fiscal/inflation/
+term-premium risk deserves a higher price even when near-term inflation data is relatively benign."*
+**He supplied the whole week; I had only the 30Y and a mention of the 10Y.**
+
+#### DATA (as supplied — the August refunding, complete)
+| tenor | date | $bn | high yield | BTC | vs its OWN history |
+|---|---|---|---|---|---|
+| 3Y | 8/11 | 58 | **4.291%** | **2.71** | **BEAT** — better than recent averages |
+| 10Y | 8/12 | 42 | **4.683%** | 2.53 | **MET** — roughly in line · highest in ~2 decades |
+| 30Y | 8/13 | 25 | **5.216%** | 2.39 | **MISSED** — below the 2.429 avg · highest since 2001 |
+- **30Y month-over-month: 5.058% → 5.216% = +15.8bp in ONE auction cycle.**
+- **CURVE FROM THE STOPS: 3s10s +39.2bp · 10s30s +53.3bp · 3s30s +92.5bp.**
+
+#### THESIS (interpretation — NOT fact)
+- **✅ HIS READ IS CORRECT AND IT IS THE SECOND HEADLINE HE HAS OUT-CALIBRATED ME ON TODAY.** He rejected
+  the failed-auction framing the ZH headline invites and went straight to the price-vs-demand split.
+  ⚠️ **Worth recording as calibration data: this morning he flagged his OWN mis-attribution before I
+  tested it, corrected me on the wrong LAYER, corrected me on the wrong ACTOR, and has now read past a
+  "tailing auction" headline. That is four.** *(Analysis.)*
+- **★★★★★★ SIGNATURE 1 — THE CURVE'S GEOMETRY PROVES HIS CONCLUSION RATHER THAN ASSERTING IT: 10s30s
+  (53.3bp) IS 1.36× 3s10s (39.2bp). THE STEEPENING IS CONCENTRATED AT THE FAR END.** **A POLICY-PATH
+  steepening concentrates in the BELLY (2s-10s), because that is where rate expectations live. A
+  TERM-PREMIUM / FISCAL steepening concentrates 10s-30s, because that is where duration and supply risk
+  live.** ⇒ **The shape itself says term premium. He asserted it; the geometry confirms it.** *(Analysis.)*
+- **★★★★★★ SIGNATURE 2 — THE BID-TO-COVER LADDER, CORRECTED FOR THE MECHANICAL PART. RAW 2.71 → 2.53 →
+  2.39 IS MONOTONE BUT PARTLY MEANINGLESS: 3Y auctions structurally clear higher covers than 30Y and
+  always have.** **The meaningful read is each tenor against ITS OWN history — and THERE it is monotone
+  too: BEAT / MET / MISSED, front to back.** ⇒ **Demand degradation is real and it is ORDERED BY
+  DURATION.** *(Analysis. This is the version that survives the apples-to-oranges objection.)*
+- **★★★★★ SIGNATURE 3, IN THE TIME DOMAIN AND NEITHER OF US SAID IT: THE FURTHER OUT THE CURVE, THE
+  DEEPER INTO HISTORY THE YIELD REACHES. 10Y → ~2007. 30Y → 2001.** ⇒ **The long end has retraced SIX
+  MORE YEARS of history than the belly.** **Three different measurements — curve convexity, relative
+  demand, historical depth — all ordered by duration and all pointing the same way.** *(Analysis.)*
+- **★★★★★★ AND THIS IS THE SINGLE WORST CONFIGURATION FOR THE AI-BUILDOUT THESIS, AND THE REASON IS
+  PRECISE: THE BUILDOUT IS FINANCED ON LONG-DATED PAPER AGAINST LONG-DATED CONTRACTED CASH FLOWS.
+  A RISING TERM PREMIUM RAISES THE DISCOUNT RATE ON 5-10 YEAR CASH FLOWS *EVEN IF THE FED NEVER HIKES*.**
+  ⇒ **YOU DO NOT NEED A FED HIKE TO BREAK THE FINANCING MATH. YOU NEED THE LONG END TO KEEP GOING.**
+  **CRWV's facility >9% against a 30Y at 5.216% is ~378bp — and BOTH LEGS ARE MOVING THE SAME WAY: the
+  base rate up, and the spread WIDER (125bp wide of guidance).** ⇒ **That is the compounding version,
+  and it is the mechanism by which "financing doesn't matter until it does" becomes false WITHOUT a
+  default, a downgrade or a headline.** *(Analysis.)*
+- **★★★★★ AND IT COMPLETES HIS OWN "MONEY KEEPS MOVING" TEST ACROSS THE FULL SOVEREIGN CURVE. THE ANSWER:
+  MONEY MOVES AT EVERY TENOR, AND THE PRICE RISES MONOTONICALLY WITH DURATION.** ⇒ **His condition is
+  not violated anywhere — and it is most expensive exactly in the tenor the AI buildout borrows in.**
+- **⚠️ THE DISCIPLINE, SO THIS IS NOT A ONE-WAY ENTRY: a term-premium steepening is ALSO what a market
+  prices when it expects GROWTH and NO RECESSION. Higher long yields with strong 3Y demand and equities
+  near highs is not obviously a stress configuration — it is also what a soft landing with heavy issuance
+  looks like.** **The bear version and the benign version are OBSERVATIONALLY IDENTICAL at this point on
+  the curve.** ⬜ **What separates them: BREAKEVENS vs REAL YIELDS. If the move is in REALS, it is
+  growth/supply. If it is in BREAKEVENS, it is the inflation-tolerance read. NEITHER OF US HAS THAT SPLIT
+  AND IT IS ONE FRED PULL.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩 **THE 30Y NOMINAL SPLIT INTO REAL YIELD vs BREAKEVEN (FRED: DFII30 / T30YIEM).** **This is now
+   the decisive test of the whole morning: growth-and-supply steepening vs inflation-tolerance
+   steepening. One pull, and it separates the benign reading from the bear one.**
+2. 🚩 **NEXT REFUNDING: does the BEAT/MET/MISSED ladder repeat?** One week is a shape; two is a regime.
+3. ⬜ 30Y month-over-month +15.8bp — track the monthly stop, not the daily yield.
+**Links:** [[market-fragility]] · [[ai-financing-fragility]] · [[cepi]] · [[_calibration]]
