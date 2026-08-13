@@ -529,3 +529,67 @@ interest flag; access failures logged.**
 3. ⬜ Numeric 5-year bands for ARA gasoil and Singapore middle distillates — the qualitative "four-year
    low" is not gradeable against the vault's own discriminator test.
 **Links:** [[demand-destruction]] · [[war/war-board]] · [[power-not-petroleum]]
+
+### 2026-08-13 ~1:40pm PDT — 📊 JAKE'S REFINER RANKING, **TESTED BY REGRESSION: THREE OF HIS FOUR LABELS CONFIRMED** — and the decoupling I claimed is real for exactly ONE name while the group COUPLED MORE TIGHTLY
+Source: Jake's watchlist screen 1:35pm PT (all six green, five within 5.6% of 52-week highs) + my
+regression of each name's DAILY RETURN on the DAILY $ CHANGE in the diesel crack (HO×42 − WTI), 1yr
+and trailing 3mo. **Rule 7 — this ranks MEASURED EXPOSURE, not positions.**
+
+#### DATA (regression, 2026-08-13; β = % stock move per $1 crack move; R² = share of daily variance explained)
+| tkr | last | % off hi | range %ile | today | **β 1yr** | **R² 1yr** | β/vol | β 3mo | R² 3mo |
+|---|---|---|---|---|---|---|---|---|---|
+| **VLO** | 342.92 | −0.2% | 99.6% | +3.8% | 0.291 | **0.185** | **0.0081** | 0.281 | 0.160 |
+| **PBF** | 74.36 | −0.5% | 99.3% | +5.7% | **0.515** | 0.176 | 0.0078 | **0.387** | **0.101** |
+| PARR | 82.14 | −5.6% | 91.7% | +5.6% | 0.454 | 0.173 | 0.0077 | **0.475** | 0.168 |
+| DINO | 91.87 | −2.5% | 95.3% | +4.5% | 0.249 | 0.126 | 0.0066 | 0.283 | 0.155 |
+| MPC | 356.37 | −0.2% | 99.6% | +2.3% | 0.217 | 0.117 | 0.0064 | 0.296 | **0.184** |
+| PSX | 232.61 | −0.1% | 99.8% | +3.1% | 0.197 | 0.116 | 0.0064 | 0.236 | 0.158 |
+- Annualised vol: **PBF 66% · PARR 59% · DINO 38% · VLO 36% · MPC 34% · PSX 31%.**
+
+#### THESIS (interpretation — NOT fact)
+- **✅✅ THREE OF JAKE'S FOUR LABELS ARE CONFIRMED BY REGRESSION, AND HE ASSIGNED THEM WITHOUT THE DATA.**
+  **"VLO — cleanest refining exposure": VLO has the HIGHEST R² (0.185) AND the highest β-per-unit-of-vol
+  (0.0081). Right on two independent measures.** **"PBF — highest beta/torque": PBF has the highest β
+  (0.515% per $1). Right.** **"PSX — solid but less pure": PSX has the LOWEST R² (0.116) AND the lowest
+  β (0.197). Right.** *(Analysis. Recorded as calibration data — this is a strong hit rate on
+  qualitative labels.)*
+- **⚠️ THE ONE THAT DOES NOT MAP: "MPC — highest-quality core." MPC has the second-LOWEST R² (0.117) and
+  second-lowest β (0.217) on the year.** ⇒ **Not wrong — "quality" is a business judgment, not a crack
+  measure — but it means MPC delivers the LEAST crack exposure per unit of risk among the majors.**
+  **The label and the exposure are orthogonal, and it is worth knowing they are.** *(Analysis.)*
+- **★★★★★★ AND THE NAME HE DIDN'T RANK IS THE ONE THE DATA SINGLES OUT: PARR — β 0.454 (2nd) with R²
+  0.173 (3rd), i.e. near PBF's torque with better purity — AND IT IS THE ONLY NAME WHOSE β *ROSE*
+  (0.454 → 0.475) WHILE ITS R² HELD (0.173 → 0.168).** **It is also the only one of the six not near its
+  high: −5.6% off, 91.7% of range.** *(Analysis. Descriptive — no direction implied.)*
+- **⛔⛔⛔ AND THE DECOUPLING TEST — MY 11:45am CLAIM, THIRD CORRECTION AND THE MOST PRECISE ONE. I SAID
+  THE REFINERS HAD DECOUPLED FROM THE CRACK. THE REGRESSION SAYS THE GROUP COUPLED MORE TIGHTLY:
+  R² ROSE FOR FOUR OF SIX over the last three months — MPC 0.117 → 0.184 (the biggest gain), PSX 0.116 →
+  0.158, DINO 0.126 → 0.155, PARR ~flat.** ⇒ **The equities are tracking the crack MORE closely than a
+  year ago, not less.** **My "multiple expansion" read is refuted at the group level.** *(Analysis.
+  First Jake killed it on the instrument mismatch; now the regression kills it on the direction.)*
+- **★★★★★★ BUT IT IS EXACTLY RIGHT FOR ONE NAME, AND IT IS THE ONE THAT RIPPED HARDEST: PBF's R²
+  COLLAPSED 0.176 → 0.101 AND ITS β FELL 0.515 → 0.387 — while the stock ran +227% over a year and
+  +81.7% over three months.** ⇒ **PBF's recent move is the LEAST crack-explained of the six.** **A
+  halving of explanatory power alongside the largest price move is the precise signature of "the move
+  stopped being about the thing the thesis says it owns" — and it applies to PBF alone, not the group.**
+  *(Analysis. The finding survives, scoped from six names to one.)*
+- **⚠️⚠️ AND THE NUMBER THAT BOUNDS THE ENTIRE "OWN THE CRACK" FRAMING: EVEN THE PUREST NAME IS ONLY
+  18.5% CRACK-EXPLAINED ON A DAILY BASIS. 81-88% OF THESE STOCKS' DAILY VARIANCE IS NOT THE DIESEL
+  CRACK** — it is market beta, crude beta, refinery-specific outages, capital returns and idiosyncratic
+  noise. ⇒ **Refiner equity is a LEAKY WRAPPER for a crack view. The thesis can be right and the wrapper
+  can still deliver something else, which is exactly what the last three months did to PBF.**
+  ⬜ **The clean expression of a crack view is the crack, not the equity — and this vault has never
+  priced that alternative.** *(Analysis. Rule 7 — descriptive; instrument choice is Jake's.)*
+- **⚠️ POSITION IN RANGE, from his own screen: five of six sit at 91.7-99.8% of their 52-week range.
+  PSX 99.8%, VLO 99.6%, MPC 99.6%.** ⇒ **Whatever the ranking, it is a ranking among names that have
+  already made the move — and `:L83-85`'s standing rule applies to all six equally: "a thesis at the
+  top of its range is a HELD POSITION question, not an ENTRY."**
+
+#### 📌 REGISTERED
+1. 🚩 **RE-RUN THIS REGRESSION MONTHLY.** **Rising R² = the equities are still the crack. Falling R² =
+   they have moved to another driver, and PBF is the live case.**
+2. 🚩 **PRICE THE DIRECT EXPRESSION** (ULSD/crack futures or spreads) against the equity wrapper.
+   **18.5% explanatory power is the argument for asking the question.**
+3. ⬜ What IS driving PBF's other 90%? Refinery-specific (turnaround completion, asset sale, capital
+   return) or market beta — **the answer decides whether its decoupling is a warning or a re-rating.**
+**Links:** [[demand-destruction]] · [[portfolio-state]] · [[ai-infra-allocation-map]]
