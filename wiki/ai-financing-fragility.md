@@ -5543,3 +5543,49 @@ Jake pasted the Huang $500B interview in full and asked *"in here?"*
 2. ⬜ **PROCESS: run `vault_router.py` on the QUESTION at the head of any multi-turn thread.** Tonight
    cost four hours of re-derivation that one router call on "GPU collateral value" would have short-cut.
 **Links:** [[metered-compute]] · [[market-fragility]] · [[balance-sheet-board]] · [[cepi]]
+
+### 2026-08-12 ~11:15pm PDT (cont.) — ⛔ JAKE SOURCES IT HIMSELF: **WSJ, THIS WEEK — "many of his customers can't afford to buy."** The attribution change INVERTS the evidence value — and the line supports something LARGER than what it was reached for.
+Jake: *"The WSJ wrote this week that Huang has a problem because 'many of his customers can't afford to
+buy.' So I misquoted a Wall Street Journal narrative."* **His correction, unprompted, in one line.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ THE SOURCE CHANGE IS NOT A DETAIL — IT REVERSES WHAT THE CLAIM IS WORTH, AND I WAS LEANING ON THE
+  ⟲ EXTENDS ai-financing-fragility.md:L5411 (2026-08-13) — source resolved: WSJ narrative, not Huang. An admission-against-interest becomes a journalist's framing of a bear thesis -- same words, much weaker standing. The loop stays a hypothesis; its 'even Huang says so' prop is gone [old entry stays LIVE]
+  STRONGER VERSION.** **HUANG saying it would be an ADMISSION AGAINST INTEREST**: the party with every
+  incentive to assert demand strength conceding customers are capital-constrained. **The WSJ saying it is
+  a JOURNALIST'S FRAMING OF A BEAR THESIS** — an outside characterisation with none of the
+  against-interest weight. ⇒ **Identical words, opposite evidentiary standing. The claim is not weaker in
+  CONTENT; it is much weaker in STANDING.** **My funding-loop hypothesis (`:L5411`) was partly propped by
+  "even Huang says so." That leg is gone.** *(Analysis.)*
+- **★★★★★★ BUT THE LINE SUPPORTS SOMETHING LARGER THAN WHAT IT WAS REACHED FOR, AND IT IS THIS NOTE'S
+  FOUNDING THESIS: "MANY OF HIS CUSTOMERS CAN'T AFFORD TO BUY" IS NOT A CLAIM ABOUT THE A100 SECONDARY
+  MARKET AT ALL. IT IS THE VENDOR-FINANCING THESIS.** **If customers cannot afford to buy, the vendor
+  must finance the purchase — that is the definition.** ⇒ **The WSJ is stating publicly, this week, that
+  NVDA's revenue growth requires NVDA to fund its own customers.** **That is what the $500B program, the
+  residual-value guarantees, the CRWV equity stake and `:L3761`'s "four roles against one counterparty
+  set" have all been circling.** ⇒ **Jake reached for it to explain who rents A100s; its actual force is
+  an order of magnitude bigger and lands on the core.** *(Analysis.)*
+- **⚠️ AND THE DISCIPLINE THAT KEEPS IT FROM BEING A VICTORY LAP: IT IS STILL A NARRATIVE. THE WSJ
+  ASSERTING IT DOES NOT MEASURE IT.** **`:L3782` already logged the historical rhyme — the telecom
+  vendor-financing blowup, "equipment makers financed carrier customers; when carriers died, receivables
+  became" the loss — and `:L792` already has the mechanic: "the vendor eats it 3 ways at once: equity
+  impairs + receivable unpaid + REVENUE REVAPORIZES (it was partly own money)."** ⇒ **The vault has the
+  ANALOGY and the MECHANIC and has never pulled the NUMBER.** *(Analysis.)*
+- **★★★★★ ⇒ THE PRODUCT OF THIS EXCHANGE IS CONVERTING A NARRATIVE INTO A MEASUREMENT, AND IT IS A
+  10-Q LINE ITEM.** **If customers cannot afford to buy, it prints as: RECEIVABLES growing faster than
+  revenue · rising DAYS SALES OUTSTANDING (DSO) · lengthening payment terms · growth in NVDA's
+  investments in its own customers.** **Every one is disclosed and none is in this vault.** ⇒ **NVDA DSO
+  and receivables-to-revenue, by quarter, back four years, is the direct test of the WSJ's sentence —
+  and it grades the founding thesis of this note, not just tonight's argument.** 🚩 **Higher value than
+  the A100 items it displaced.** *(Analysis.)*
+- **★ AND THE CALIBRATION NOTE, RECORDED BECAUSE IT IS DATA: JAKE CAUGHT AND STATED HIS OWN
+  MIS-ATTRIBUTION IN ONE LINE, BEFORE I TESTED IT.** **I had already downgraded the finding on the
+  weaker suspicion; he closed it with the actual source.** *(Analysis.)*
+
+#### 📌 REGISTERED — re-ranked, and the top item CHANGES
+1. 🚩🚩 **NVDA RECEIVABLES / DSO / receivables-to-revenue, quarterly, 4 years — plus vendor-financing and
+   customer-investment balances.** **The measurable form of the WSJ sentence. Grades the note's founding
+   thesis. Tier-0 fetch (EDGAR, zero tokens) — `sec_hyperscaler_scanner` already has the plumbing.**
+2. 🚩 CRWV + NBIS customer-concentration disclosure (was #1; still the test of "fungible across users").
+3. ⬜ The WSJ piece itself — ⚠️ **rule 8: I have a one-line paraphrase of it, not the article.**
+**Links:** [[cepi]] · [[balance-sheet-board]] · [[metered-compute]] · [[market-fragility]]
