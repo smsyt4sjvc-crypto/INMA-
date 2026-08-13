@@ -1980,3 +1980,87 @@ filed 8:18am, updated ~1h before paste). **PRIMARY WIRE — supersedes the aggre
   headline-reflex machine (1:15pm) fired again — **but this time the PHYSICAL claim underneath it
   hardened, which is the first time this week the reflex and the substance agreed.** *(Analysis.)*
 **Links:** [[demand-destruction]] · [[oil-value-chain]] · [[market-fragility]] · [[war-confirmed]]
+
+### 2026-08-13 ~9:00am PDT — ★★★★★★ THE HORMUZ UPDATE CONFIRMS THE TOLL-GATE THESIS AS **POLICY** — and joining it to three facts already on disk gives the finding of the week: **EVERY SHOCK ABSORBER IN THE CHAIN IS SPENT, AND EACH WAS FILED IN A DIFFERENT NOTE**
+Source: Jake — a two-week Iran/Hormuz digest. ⚠️ **ARTIFACT TEST: this is a COMPILED DIGEST, not a
+primary source.** It cites *"X posts and contemporaneous reporting"* and carries paste artifacts; the
+Reuters "absolutely no progress" line is attributed, the embassy-drawdown items are not individually
+sourced. **Treat named vessels/dates as reported-not-verified.** ⬜ **One claim IS independently
+checkable and it CHECKS: "oil jumped about 5% on August 10" — my own futures pull has WTI 78.18 (8/7) →
+82.13 (8/10) = +5.05%. Exact.**
+
+#### DATA (as-digested)
+- **Iran: strait stays closed/controlled until the US ends the war, withdraws forces, lifts the naval
+  blockade, removes sanctions, releases frozen assets, PAYS REPARATIONS, ceases threats, and (in some
+  statements) ends Hezbollah/Hamas/Houthi conflicts.** *"No vessel can transit safely without Iranian
+  authorization."* **Oman route talks ≠ reopening.**
+- **★★ IRAN–OMAN: substantial progress on a shipping arrangement THAT WOULD GIVE TEHRAN AUTHORITY OVER
+  INBOUND GULF TRAFFIC.** US position: immediate complete opening, **"without tolls."**
+- **US: naval blockade, dozens of vessels redirected; M/V Vela Nova (Panama-flag) disabled by Hellfire
+  from an MH-60.** Strikes on Iranian air defences, coastal radars, anti-ship missiles, IRGC boats.
+- **Attacks both ways** — Tihamah (Egyptian-owned, multiple crew dead), earlier Qatari/Saudi hulls;
+  Iranian missiles/drones at US facilities in Kuwait, Bahrain.
+- **SHIPPING: SINGLE-DIGIT DAILY TRANSITS.** State Dept has ordered ME embassies to plan for **prolonged
+  operations, minimal essential staff.**
+- **Mohsen Rezaei (veteran IRGC commander) replaces the top security official** under Supreme Leader
+  Mojtaba Khamenei. **US–Iran talks deadlocked; "absolutely no progress" on reviving the June interim.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THIS IS THE TOLL-GATE THESIS BECOMING AN INSTITUTION, AND THE VAULT FILED IT ON 7/29 WITH THE
+  FIRST PAYER NAMED.** `demand-destruction:3273`: *"the strait is not closed — **it is ADMINISTERED, and
+  the administrator is Iran**… supply keeps moving, **at a price, to whoever pays**"* — **Japan named,
+  a US treaty ally.** And: *"**a toll cannot be sanctioned unless it is being collected**… the
+  disruption is being priced as a TAX, not a SHORTAGE."* ⇒ **An Iran–Oman arrangement granting Tehran
+  AUTHORITY OVER INBOUND TRAFFIC is that toll being written down as a FRAMEWORK.** **Trump's demand for
+  opening "WITHOUT TOLLS" is the tell: you do not negotiate the absence of a thing that is not
+  happening.** *(Analysis.)*
+- **★★★★★★ ⇒ AND IT BREAKS JAKE'S "ALL OR NOTHING" FRAMING FROM THIS MORNING — the shape is wrong, and
+  the real shape is worse for his thesis.** He said it *"decides itself all of a sudden."* **The
+  digest's own read is the opposite: Iran is converting the strait FROM A WEAPON INTO LEVERAGE — a
+  permanent middle state, not a binary.** ⇒ **A binary resolves and gets priced. AN ADMINISTERED
+  CHOKEPOINT WITH A TOLL IS A STRUCTURAL COST THAT NEVER CLEARS.** **He is waiting for an event that
+  already happened and has since become an institution.** *(Analysis.)*
+- **★★★★★★★ THE FINDING OF THE WEEK, AND IT IS A JOIN THIS VAULT HAD NEVER MADE: FOUR SHOCK ABSORBERS,
+  ALL SPENT, EACH FILED IN A DIFFERENT NOTE.**
+  **(1) STRATEGIC RESERVE — `demand-destruction:3382`: SPR 3.05MM barrels, "lowest since Feb 1983,"
+  ≈4 HOURS of US consumption, "operationally ZERO," still draining, and that was EIGHT DAYS AGO.**
+  **(2) REFINING SLACK — the diesel crack at the top of its two-year range** (verified 8/13 ~8:55am),
+  with `:1760`'s refinery strikes in three countries in four days.
+  **(3) ORDNANCE — `demand-destruction:3397`: "BOTH PHYSICAL ARSENALS — BARRELS AND ORDNANCE — ARE
+  EXHAUSTED SIMULTANEOUSLY. Everything the administration holds on both boards is words and deals."**
+  **(4) POSITIONING — `_calibration:329`: books de-grossed but UNHEDGED, "a real shock = VIOLENT."**
+  ⇒ **THE SYSTEM HAS NO BUFFER LEFT IN THE PHYSICAL LAYER, THE REFINING LAYER, THE MILITARY LAYER OR THE
+  PORTFOLIO LAYER — SIMULTANEOUSLY.** **Each was registered as its own observation. None was ever set
+  beside the others.** ⇒ **This does not raise the ODDS of a shock. It raises the CONVEXITY of one —
+  which is a statement about magnitude, not timing, and therefore survives the WARNING-vs-TRIGGER rule.**
+  *(Analysis. Rule 7 — descriptive; the response to convexity is structural and that is Jake's call.)*
+- **★★★★★ AND THE DEADLOCK IS STRUCTURAL, NOT TACTICAL — WHICH MEANS THE TOLL STATE PERSISTS BY DEFAULT.
+  READ IRAN'S LIST AS A PRICE: reparations · full sanctions relief · US withdrawal from the region ·
+  release of frozen assets · ending support for the regional conflicts. NO US ADMINISTRATION GRANTS
+  THAT.** ⇒ **The demand set is not a negotiating position that converges; it is one that HOLDS THE
+  STATUS QUO.** **And the status quo is the toll — which is exactly what improves Iran's position, which
+  is why the digest's own read is that Iran GAINED over two weeks.** *(Analysis.)*
+- **★★★★ THE REZAEI APPOINTMENT GRADES A FLAG THIS BOARD ALREADY REGISTERED.** `:L1972`: *"🚩 WATCH:
+  whether Araghchi (the diplomatic track) is contradicted by Rezaei."* ⇒ **Rezaei has now been ELEVATED
+  to run the security file. The diplomatic track did not win the internal argument.** ⚠️ **A veteran
+  IRGC commander at the top of the SNSC is a COMPOSITION datum, not a behaviour datum — it shades the
+  reaction function, it does not date anything.** *(Analysis.)*
+- **⚠️⚠️ AND IT CUTS AGAINST WHAT THE TAPE HAS BEEN PRICING, WHICH THE VAULT ALSO ALREADY FLAGGED.**
+  `demand-destruction:3414`: *"~500kb/d of Kazakh supply is offline **while the market prices Hormuz
+  barrels RETURNING** — the Black Sea theatre is quietly subtracting what the corridor adds."*
+  ⇒ **Today's digest says the barrels are NOT returning.** **The market has been pricing a reopening,
+  on top of an unpriced Kazakh hole, into an empty SPR.** *(Analysis.)*
+- **⚠️ THE DISCIPLINE, BECAUSE THIS ENTRY IS ONE-DIRECTIONAL: EVERY ITEM ABOVE IS A STATE.** **Buffers
+  spent · a deadlock · a personnel change · single-digit transits.** **None of it dates anything, and
+  the vault has been wrong before by stacking states into a feeling of imminence.** **The ONE dated,
+  falsifiable object in the whole picture is the crack-vs-August-PPI test registered 15 minutes ago.**
+
+#### 📌 REGISTERED
+1. 🚩 **CURRENT SPR LEVEL** — `:3382` said "literal zero in ~1 week at this pace" on 8/5. **It is 8/13.
+   Did it hit zero, or did the draw stop? One EIA number, and it is the buffer question's ground truth.**
+2. 🚩 **HORMUZ DAILY TRANSIT COUNT vs pre-war** — "single-digit" is the digest's word; the number is
+   published. **The toll's throughput is the toll's size.**
+3. ⬜ **The Iran–Oman arrangement's TEXT** — does it name a fee, an authority, or a notification regime?
+   **That distinction is the whole difference between a toll and a deconfliction protocol.**
+4. ⬜ Grade `:L1972` (Araghchi-vs-Rezaei) as **RESOLVED toward the hardliners** once a primary confirms.
+**Links:** [[demand-destruction]] · [[oil-value-chain]] · [[market-fragility]] · [[new-economy-regime]] · [[_calibration]]
