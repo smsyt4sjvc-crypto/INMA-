@@ -47,7 +47,12 @@ SUBJECTS = ["fab construction", "data centre", "data center", "brent", "wti", "g
             "bollinger", "compression", "squeeze", "kre", "regional bank",
             # gap #4, 8/12: the pre-earnings study had no vocabulary either.
             "earnings", "pre-earnings", "alpha", "drift", "suppress", "sma", "20-sma",
-            "base rate", "t-stat", "significance", "iv", "implied vol", "realised vol"]
+            "base rate", "t-stat", "significance", "iv", "implied vol", "realised vol",
+            # gap #5, 8/12: the CONTENT-TOLL inbound had no vocabulary either — the whole
+            # crawler/publisher/search-traffic axis was invisible to the self-check.
+            "google zero", "zero click", "ai overview", "crawler", "googlebot", "publisher",
+            "search traffic", "referral", "content licensing", "training data", "cloudflare",
+            "net", "pay per crawl"]
 
 NUM = re.compile(r"[-+]?\$?\d[\d,]*\.?\d*\s*(?:%|B\b|bn\b|billion|M\b|bp\b)?")
 # Dates masquerade as numbers: "2026-08-11" and "Jun-26" both scan as values and the first
