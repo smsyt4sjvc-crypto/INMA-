@@ -2132,6 +2132,7 @@ game 9/10. Trump needs to be playing chicken with a freight train."*
   first properly-formed trigger set in the whole Iran thread, and the WARNING-vs-TRIGGER rule has been
   asking for one since 7/14.** *(Analysis.)*
 - **⛔⛔ BUT TRIGGER 3 HAS ALREADY FIRED, AND THE EVIDENCE IS THE DIGEST HE PASTED 20 MINUTES AGO.**
+  ⟲ SUPERSEDED 2026-08-13 → war-board.md:L2186 — WRONG ACTOR: the trigger is US-INITIATED lethality against a hull. The Tihamah was IRAN striking; the US action on record is the Vela Nova DISABLED, not sunk, no casualties. T-IRAN-3 never fired -- reindexed as T-US-3 and the Vela Nova disabling is the observable ceiling
   **Tihamah — Egyptian-owned, struck by Iran/proxies, MULTIPLE CREW DEAD.** **M/V Vela Nova — disabled by
   HELLFIRE MISSILES from a US MH-60.** **Plus "earlier Qatari, Saudi hulls."** ⇒ **Hulls have been hit
   and crews killed, in BOTH directions, and the market absorbed it.** ⇒ **Either the threshold is much
@@ -2182,3 +2183,69 @@ game 9/10. Trump needs to be playing chicken with a freight train."*
 - 🚩 **THE MEASURABLE FORM OF "no longer load-bearing": ROLLING CORRELATION OF SPX vs BRENT, and Iran
   headline days vs equity moves.** **If it is near zero, his claim is measured rather than felt.**
 **Links:** [[demand-destruction]] · [[market-fragility]] · [[_calibration]] · [[oil-value-chain]]
+
+### 2026-08-13 ~9:55am PDT — ⛔ WRONG ACTOR: **the triggers are US-SIDE.** My "already fired" objection applied his threshold to Iran. **And his reasoning is one coherent argument I had been reading as three observations.**
+  ⟲ SUPERSEDES war-board.md:L2134 — WRONG ACTOR: the trigger is US-INITIATED lethality against a hull. The Tihamah was IRAN striking; the US action on record is the Vela Nova DISABLED, not sunk, no casualties. T-IRAN-3 never fired -- reindexed as T-US-3 and the Vela Nova disabling is the observable ceiling
+Jake: *"I meant by the US. Iran we know has and will do that shit, has for decades. When the US hits an
+Iranian tanker in the water, kills sailors, spills oil. When the US targets civilian infrastructure at
+scale. It's the only reciprocal device to Iran's all-in demands. Simply saying 'no' and residing in the
+gray area is not tolerable for the US economy. Trump's mistake is thinking the IRGC cares whether its
+people die — it would rather let them migrate or starve than lose this war."*
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ CONCEDED, AND THE OBJECTION COLLAPSES ENTIRELY. T-IRAN-3 HAS **NOT** FIRED.** **The Tihamah was
+  IRAN striking a hull. The US action on record is the Vela Nova — DISABLED by Hellfires "after it
+  ignored orders," not sunk, no reported casualties.** ⇒ **His threshold is US-INITIATED lethality
+  against a hull, and it is intact.** *(Analysis.)*
+- **⛔ AND IT IS THE SECOND TIME IN TWENTY MINUTES I HAVE CORRECTED HIM ON THE WRONG DIMENSION — first
+  the wrong LAYER (toll vs declared positions), now the wrong ACTOR.** **Both times his frame was
+  narrower and better specified than the one I graded.** **Pattern worth naming: when a claim looks
+  loose, the first move is to ask WHICH SIDE / WHICH LAYER it is about, not to test it against the
+  nearest available data.** *(Analysis.)*
+- **★★★★★★ AND HIS THREE POINTS ARE ONE ARGUMENT, WHICH I HAD BEEN READING AS THREE OBSERVATIONS. IT
+  RUNS: IRAN'S DEMANDS ARE INDIVISIBLE (his point, 9:10am) → AN INDIVISIBLE COMMITMENT CANNOT BE
+  ANSWERED WITH A DIVISIBLE ONE → A BLOCKADE IS DIVISIBLE (tightened, loosened, negotiated) AND
+  THEREFORE CANNOT MATCH IT → THE ONLY INDIVISIBLE US MOVES ARE THE ONES ON HIS LIST.** ⇒ **"The only
+  reciprocal device" is not rhetoric; it is what the bargaining structure implies.** *(Analysis. This is
+  the strongest form of his case and he did not state it this way.)*
+- **★★★★★★ AND IT INVERTS MY OWN 9/10 COUNTER INTO HIS PREMISE. I argued Iran wins the GRAY ZONE and
+  loses the OPEN EXCHANGE. HIS POINT IS THAT *BECAUSE* IRAN WINS THE GRAY ZONE, THE US IS FORCED OUT OF
+  IT.** **The gray zone has a running cost that compounds — single-digit transits, an empty SPR, diesel
+  "tight, volatile and expensive well into next year" — and that cost is ASYMMETRIC: cheap for an
+  already-sanctioned Iran, expensive for the US and its Gulf/Japanese partners.** ⇒ **TIME IS THE
+  WEAPON, AND IT POINTS AT WASHINGTON.** **My counter was his premise; he was a step ahead.** *(Analysis.)*
+- **★★★★★ THE IRGC POINT IS RIGHT IN KIND AND NEEDS ONE CORRECTION IN MECHANISM. A PRAETORIAN
+  ORGANISATION'S INTERESTS ARE SEPARABLE FROM THE NATION'S — sanctions pressure targets the POPULATION
+  and the IRGC's power base is not the population's welfare** (North Korea through famine, Iraq through
+  the sanctions decade). **BUT THE REGIME DOES RESPOND TO *UNREST* — 2019's fuel-price protests
+  genuinely frightened it, as did 2022-23.** ⇒ **The transmission is not "they fold to stop suffering."
+  It is "suffering past a threshold produces the one thing that DOES threaten them."** ⇒ **The pressure
+  works, on a timescale measured in years — which is precisely useless to an administration whose clock
+  is measured in months. THE CORRECTION STRENGTHENS HIS CASE RATHER THAN WEAKENING IT.** *(Analysis.)*
+- **★★★★★★ ⇒ AND THAT IS THE CLOCK ASYMMETRY, WHICH IS THE WHOLE ARGUMENT IN ONE LINE: IRAN'S CLOCK IS
+  REGIME SURVIVAL (indefinite). THE US CLOCK IS ELECTORAL AND ECONOMIC (months). IN A CONTEST OF PURE
+  ENDURANCE, THE SIDE WITH THE SHORTER CLOCK MUST ESCALATE OR CONCEDE.** *(Analysis.)*
+- **⚠️⚠️ THE STRONGEST COUNTER, AND IT COMES FROM THIS MORNING'S OWN DATA: THE US POLITICAL PAIN GAUGE IS
+  GASOLINE, AND GASOLINE IS FALLING. GASOLINE −5.7% IN THE JULY PPI; pump prices going the right way.
+  THE PAIN IS IN DIESEL — freight, rail, agriculture, mining — AND DIESEL DOES NOT VOTE.** ⇒ **"Not
+  tolerable for the US economy" is true of the INDUSTRIAL economy and NOT YET true of the CONSUMER
+  economy, and only one of those has electoral salience.** **PLUS the third option he is not counting:
+  THE TOLL CAN BE PAID BY OTHERS — Japan is already the vault's first named payer (`demand-destruction:3273`),
+  and a toll borne by Gulf states and allies is politically survivable in a way a domestic pump spike is
+  not.** ⇒ **THE FORCING CLOCK IS SLOWER THAN HIS ARGUMENT NEEDS. That is the one place his case is
+  soft, and it is a question about WHO BEARS THE COST, not about whether the cost exists.** *(Analysis.)*
+- **★★★★ AND A POINT THAT CUTS *FOR* HIM, FROM THE SAME EVIDENCE I USED AGAINST HIM: THE VELA NOVA WAS
+  DISABLED RATHER THAN SUNK. THAT IS A VISIBLE, SELF-IMPOSED US THRESHOLD.** ⇒ **His trigger is
+  well-chosen precisely BECAUSE it is currently being avoided — crossing it would be a genuine regime
+  change in US conduct, which is exactly the discontinuous, decisive event he is describing.**
+
+#### 📌 REGISTERED — trigger set, corrected to US-INITIATED acts
+- **T-US-1 · US GROUND FORCES committed inside Iran.** ⬜ not fired.
+- **T-US-2 · US STRIKE ON CIVILIAN INFRASTRUCTURE AT SCALE** (power/water/civil refining). ⬜ not fired.
+  ⚠️ still needs a threshold: what distinguishes "at scale" from the coastal-radar/IRGC-boat pattern.
+- **T-US-3 · US SINKS OR LETHALLY STRIKES AN IRANIAN-LINKED TANKER — casualties or a spill, not a
+  disabling.** ⬜ **NOT FIRED. The Vela Nova disabling is the CURRENT ceiling and marks the threshold.**
+  ⇒ **This is now a clean, gradeable trigger and the ceiling is observable.**
+- 🚩 **THE FORCING-CLOCK TEST: US retail gasoline vs diesel, weekly.** **His argument requires the
+  consumer leg to turn. While gasoline falls, the political clock is not running.**
+**Links:** [[demand-destruction]] · [[oil-value-chain]] · [[market-fragility]] · [[new-economy-regime]]
