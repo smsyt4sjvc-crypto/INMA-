@@ -3191,6 +3191,7 @@ pretty much how things are built."*
   near-term pain trade is UP.** ⇒ **He is not reaching. He is re-deriving a conclusion this vault
   reached three weeks ago.** *(Analysis.)*
 - **★★★★★★ BUT THE CENTRAL DEFECT IS AN ASYMMETRY IN HIS OWN RULE, AND IT IS THE WHOLE CRITIQUE:
+  ⟲ SUPERSEDED 2026-08-13 → market-fragility.md:L3266 — the asymmetry critique attacked a claim Jake did not make: 'doesn't matter until it does' meant the fragility is MAINSTREAM/PRICED (a crowding argument), not a WARNING-vs-TRIGGER state-discount. _calibration:327 already carries the crowded-bear flag he was restating
   "FINANCING DOESN'T MATTER UNTIL IT DOES" IS THE WARNING-VS-TRIGGER RULE APPLIED CORRECTLY — AND IT
   DISQUALIFIES FOUR OF HIS FIVE REMAINING LEGS THE SAME WAY.** **"Compute is scarce" is a STATE.
   "Committed capex is up" is a STATE. "Hike odds low" is a PRICE OF A STATE. "Circular financing is
@@ -3245,3 +3246,64 @@ pretty much how things are built."*
    run-is-setting-up version needs one from the BULL. Neither side has named one.
 3. ⬜ Verify Sept hike odds from CME directly, not a search snippet.
 **Links:** [[_calibration]] · [[ai-financing-fragility]] · [[new-economy-regime]] · [[ai-infra-allocation-map]] · [[detachment-bid]]
+
+### 2026-08-13 ~8:45am PDT — ⛔ I MIS-GRADED HIS "DOESN'T MATTER UNTIL IT DOES" — he meant CROWDED, not STATE, and `_calibration` already backs him. **And the Iran clause makes his bull case and his named risk THE SAME VARIABLE WITH OPPOSITE SIGNS.**
+Jake: *"'Doesn't matter until it does' means it's basically mainstream and accounted for now. People are
+pretty much OK with it, and as long as money keeps moving it's not actually a drag. It ~feels~ like a
+reset. Especially if Iran escalates — by the looks of everything, it's going to be all or nothing, so
+that's going to decide itself 'all of a sudden'."*
+
+#### DATA (observed — Yahoo chart API, 2026-08-13 ~8:25am PDT)
+| | last | 1d | 3-mo range | vs 3-mo high |
+|---|---|---|---|---|
+| **Brent** | **88.14** | −0.94% | 71.57 – **112.10** | **−21.4%** |
+| **WTI** | **82.44** | −1.00% | 68.55 – 108.66 | **−24.1%** |
+| **Gasoline** | **2.90** | **−8.00%** | 2.84 – 3.76 | **−22.8%** |
+- **Today's PPI: headline 0.0% with energy −3.1% and GASOLINE −5.7%; goods ex-food-and-energy only +0.1%.**
+- `predictions/2026-07-30-fed-hike-before-december.md`, case FOR: **"Brent 90.27 / WTI 84.61; oil's
+  resurgence pushed hike odds significantly higher."** ⇒ **Brent today (88.14) is BELOW that mark.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔ CONCEDED — I GRADED THE WRONG CLAIM. I read "doesn't matter until it does" as a WARNING-vs-TRIGGER
+  ⟲ SUPERSEDES market-fragility.md:L3193 — the asymmetry critique attacked a claim Jake did not make: 'doesn't matter until it does' meant the fragility is MAINSTREAM/PRICED (a crowding argument), not a WARNING-vs-TRIGGER state-discount. _calibration:327 already carries the crowded-bear flag he was restating
+  state-discount and built the whole asymmetry critique on it. HE MEANS THE FRAGILITY IS MAINSTREAM,
+  PRICED AND ABSORBED — a CROWDING argument, not a timing one.** **And `_calibration:327` already says
+  exactly that: *"the bear is now CROWDED… a consensus meme is worth ~0; the edge was SEEING it early
+  (done), not holding it once GS/Jefferies/Alphaville/Zitron all agree."*** ⇒ **He is restating this
+  vault's own standing calibration flag, and my critique attacked a claim he did not make.** *(Analysis.)*
+- **⚠️ WHAT SURVIVES OF THE CRITIQUE, NARROWED: the SAME `_calibration` entry refuses to let crowding
+  decide.** *"The recognition going mainstream is the LATE-stage tell (2000 Barron's) **AND** the
+  sentiment-washout tell — **the DATA doesn't pick; the fundamental clock does.**"* ⇒ **Consensus-bear is
+  genuinely two-sided in this vault's own framework, and it resolves on data, not on the crowding.**
+- **★★★★★ AND HE NAMED A REAL TRIGGER WITHOUT FLAGGING IT: "AS LONG AS MONEY KEEPS MOVING." THAT IS A
+  MONITORABLE CONDITION, NOT A MOOD — issuance, credit spreads, facility pricing.** ⇒ **His own sentence
+  contains his own falsifier, and the vault has a live reading on it: CRWV's $2.6B facility cleared
+  125bp WIDE of guidance** (`ai-financing-fragility:4670`). ⇒ **Money is still moving — with measurably
+  more friction at the margin. That is the gauge to watch, and it is already ticking.** *(Analysis.)*
+- **★★★★★★ THE IRAN CLAUSE IS THE IMPORTANT ONE, AND IT COLLAPSES HIS TWO ARGUMENTS INTO ONE TRADE HE IS
+  HOLDING AS TWO. TODAY'S DOVISH PRINT *IS* AN ENERGY PRINT.** Headline PPI 0.0% only because energy fell
+  3.1% and gasoline 5.7%; **goods ex-food-and-energy rose 0.1%.** **And the energy deflation is a
+  WAR-PREMIUM UNWIND, not structural disinflation: Brent traded 112.10 within the last three months and
+  sits at 88.14 — MINUS 21.4%.** ⇒ **THE ENTIRE DOVISH CHAIN IS ONE VARIABLE: Brent 112 → 90.27 (7/29,
+  when the vault logged oil pushing hike odds UP) → 88.14 today → gasoline −5.7% in the PPI → headline
+  0.0% → "rate-hike odds remain low."** ⇒ **AN IRAN ESCALATION REVERSES PRECISELY THE COMPONENT THAT
+  MAKES HIS BULL CASE WORK — and the vault's own Fed prediction lists oil as the single hawkish driver.**
+  **He is holding "inflation is cool so hike odds are low" and "Iran may go all-or-nothing" as two
+  separate observations. They are the same variable with opposite signs.** *(Analysis.)*
+- **★★★★ AND THE SECOND-ORDER VERSION IS WORSE THAN THE FIRST: AN IRAN SHOCK WOULD ARRIVE INTO
+  DE-GROSSED-BUT-UNHEDGED BOOKS.** `_calibration:329` says the pain trade is UP *because* books are
+  de-grossed — **and the same entry's second clause is *"a real shock = VIOLENT (unhedged)."*** ⇒ **The
+  positioning that makes his squeeze case also makes the tail fatter. One condition, both directions.**
+- **★★★ HIS "ALL OR NOTHING… DECIDES ITSELF ALL OF A SUDDEN" IS WARNING-VS-TRIGGER APPLIED CORRECTLY, AND
+  BETTER THAN MY VERSION.** **A binary that resolves discontinuously IS a trigger.** ⚠️ **But "by the
+  looks of everything happening" is not a date, and a trigger with no date is not timeable either — it
+  only tells you the DISTRIBUTION is bimodal, which is a statement about shape, not about when.**
+  ⇒ **A bimodal, undateable binary is unhedgeable BY TIMING. Rule 7 — the response to shape is
+  structural, and structure is Jake's call, not mine.** *(Analysis.)*
+#### 📌 REGISTERED
+1. 🚩 **"MONEY KEEPS MOVING" AS A DASHBOARD** — his own condition, made monitorable: neocloud facility
+   spreads vs guidance · IG/HY issuance · CRWV's NEXT raise (`:4676` already registered it as the resolver).
+2. 🚩 **BRENT AGAINST THE PPI ENERGY LINE** — grade the "dovish print = war-premium unwind" read: if Brent
+   re-takes ~100, the next headline CPI/PPI turns and the hike-odds chain reverses in one print.
+3. ⬜ War-board live triggers are 6 open flags deep and none has been graded this week.
+**Links:** [[war/war-board]] · [[new-economy-regime]] · [[_calibration]] · [[demand-destruction]] · [[ai-financing-fragility]]
