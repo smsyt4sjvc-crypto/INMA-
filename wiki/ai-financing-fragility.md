@@ -4960,3 +4960,65 @@ I answered an evidentiary claim he did not make.** *(Conceded. See the artifact 
 - ⬜ Contract-duration disclosure (backlog route's biggest lever: 3-yr → $1.45, 6-yr → $0.50).
 - ⬜ Revenue split: GPU compute vs storage/networking/managed inference (inference ARR $100M+ ⇒ ~1% of Q2).
 **Links:** [[metered-compute]] · [[cepi]] · [[balance-sheet-board]] · [[market-fragility]]
+
+### 2026-08-12 ~10:05pm PDT — ⛔ JAKE SUPPLIES THE **TRANSACTED** ANCHOR I SAID WAS MISSING — and taking it at face value does not break the identity, it PICKS A BRANCH OF IT
+Source: Jake, relaying **CRWV management on the Q4-2025 call (Feb 2026)** and **the Q2-2026 call this
+week**. ⚠️ **ARTIFACT TEST: management characterisations as relayed, not the transcripts.**
+
+#### DATA (as relayed — management's own words about REALISED commercial pricing, explicitly *not* the rate card)
+- **Q4-2025 call (Feb 2026): AVERAGE A100 PRICING *INCREASED* DURING 2025.**
+- **Q4-2025 call: AVERAGE H100 PRICING FINISHED Q4 WITHIN 10% OF WHERE IT BEGAN THE YEAR.**
+- **Q2-2026 call (this week): prior-generation SKU pricing "AT OR ABOVE" HISTORICAL LEVELS · LARGELY
+  SOLD OUT of Ampere/Hopper · RECENTLY *RECONTRACTED* A100 CAPACITY THROUGH 2029 at an "attractive price."**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔ CONCEDED, AND IT IS THE RUNG I SAID WAS MISSING.** At ~9:50pm I wrote *"every anchor except
+  `SDA100RT` is a LIST price, and list prices are administered, not transacted."* **This is the transacted
+  leg — the operator's characterisation of its own realised book, made on a call with securities-law
+  exposure a marketing figure does not carry.** **Not independent (CRWV is the sponsor), but ACCOUNTABLE
+  — a strictly better source than the "+35-38%" I got burned on 90 minutes ago.** *(Analysis.)*
+- **⛔⛔ AND "AVERAGE A100 PRICING INCREASED DURING 2025" IS THE SINGLE STRONGEST DATUM AGAINST THE
+  DEPRECIATION-CURVE BEAR CASE THAT HAS APPEARED IN THIS THREAD.** 2025 is a year I would have predicted
+  decline for a then-four-year-old part. **It did not decline. Concede it plainly.** *(Analysis.)*
+- **⚠️ WHAT IT DOES NOT SETTLE — RULE 9, NUMBERS VS ADVERBS: of the three claims, ONLY THE H100 ONE
+  CARRIES A NUMBER.** *"Increased," "at or above historical," "attractive"* are directions without
+  magnitudes or bases. **A rate that fell 60% and then rose 15% "increased during 2025."** ⇒ **Scope
+  question, not a rebuttal — but it means these cannot close the rate-curve item, only bound its sign.**
+- **★★★★ THE H100 LINE IS QUIETLY THE MORE INFORMATIVE ONE, AND IT IS A *SMOOTHER* TELL. H100 realised
+  flat (±10%) across 2025 — while the independent tracker had spot near its lows and then +40% ($1.70 →
+  $2.35) from Oct-25 to Mar-26.** ⇒ **A CONTRACTED BOOK LAGS SPOT IN BOTH DIRECTIONS.** *Bull now:* they
+  did not eat the 2025 downdraft. *Bear later:* **they do not get the 2026 spike either, and they reprice
+  into whatever the market is AT ROLL.** ⇒ **"At or above historical" is a strong statement about the
+  BOOK and a weak one about the CURVE. The underwriting question is the curve at roll.** *(Analysis.)*
+- **★★★★★ "LARGELY SOLD OUT OF AMPERE/HOPPER" IS THE MECHANISM — AND IT IS *MY* MECHANISM, WHICH MEANS
+  NEITHER SIDE OWNS THIS DATUM.** Sold out of old silicon because **new silicon is scarce** (wafers moved
+  off H100 to Blackwell; HBM/CoWoS constrained into 1H-2027 — `:L4849`). ⇒ **The bull evidence and my
+  1H-2027 trigger are OBSERVATIONALLY IDENTICAL TODAY.** They diverge only after supply normalises.
+  **My trigger is not refuted by this; it is not yet tested by it. Say that rather than claim the datum.**
+- **★★★★★ THE PAYOFF: TAKE THEIR PRICE CLAIM AT FACE VALUE AND THE IDENTITY DOES NOT BREAK — IT RESOLVES.**
+  ⟲ EXTENDS ai-financing-fragility.md:L4934 (2026-08-13) — the backlog route's low answer assumed the $104.2B COVERS all 4.2 GW; CRWV's realised-price claim resolves the ambiguity the other way -- it is the COVERAGE that breaks, not the rate. Arithmetic stands, my inference from it was the weaker branch [old entry stays LIVE]
+  At $2.50-2.70 realised, Q2's $2,575M implies **460-726 MW ACTIVE = 11-17% of the 4.2 GW contracted**,
+  and **the $104.2B backlog covers only 0.9-2.4 GW of that 4.2 GW** (3-5 yr life) ⇒ **1.8-3.3 GW of
+  contracted power carries NO contracted revenue.** **The higher the rate they claim, the smaller the
+  fleet and the thinner the backlog coverage. Price and scale trade off against a FIXED $2,575M.**
+- **★★★ AND IT CORROBORATES A VAULT LINE FROM A DIFFERENT DIRECTION:** `metered-compute` already ran
+  *"4.2 GW filled at ~$30B/GW implies ~$126B OF CAPEX — MORE THAN THE $104.2B BACKLOG IT WOULD SERVE."*
+  **Two independent constructions, same conclusion: the contracted power exceeds what the backlog funds.**
+- **⚠️ THE STRONGEST COUNTER TO MY OWN PINCER, STATED SO IT IS NOT SMUGGLED PAST: CONTRACTED POWER RAMPS
+  OVER YEARS.** 11-17% active is **normal mid-build**, and backlog is signed as capacity energises. ⇒
+  **The finding is NOT "the power is speculative." It is "the capex to energise ~3.5 GW must be PRE-FUNDED
+  at ~9-10% against revenue not yet contracted"** — the same object as interest = 24.9% of revenue
+  (`:L4657`), reached from the capacity side instead of the income statement. *(Analysis.)*
+- **★★★★ THE WORD I ALMOST MISSED, AND IT IS THE BEST TEST IN THE WHOLE THREAD: "*RECONTRACTED*."** Not
+  a new contract — **a ROLL.** ⇒ **An actual A100 repricing event, executed in 2026, running to 2029.**
+  **That is precisely the curve-at-roll datum the underwriting question needs, and it is the one thing
+  described with an adverb only.** 🚩 **The rate on that recontract is now the single highest-value
+  disclosure in this thread — above active MW, because it is the curve rather than an inference from it.**
+
+#### 📌 REGISTERED (re-ranked)
+1. 🚩 **THE RATE ON THE RECONTRACTED A100 CAPACITY** (a roll, priced 2026, to 2029). Ask on the transcript.
+2. 🚩 **CRWV ACTIVE MW** (10-Q) — resolves the price/scale branch by arithmetic.
+3. ⬜ **The Q4-2025 and Q2-2026 TRANSCRIPTS themselves** — the three claims above are relayed, and two of
+   three have no number. ⚠️ **Rule 8: I have a characterisation OF a call, not the call.**
+4. ⬜ A100 base level for "increased during 2025" — increased *from what*.
+**Links:** [[metered-compute]] · [[cepi]] · [[balance-sheet-board]] · [[market-fragility]]
