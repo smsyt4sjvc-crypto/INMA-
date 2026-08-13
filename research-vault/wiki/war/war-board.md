@@ -2119,3 +2119,66 @@ wants an apology and for the US to stop talking shit in the formally submitted d
 2. ⬜ **Does the Iran–Oman text create a DECONFLICTION CHANNEL?** **That is the test of whether the
    equilibrium is becoming admitted — and an admitted arrangement is a materially safer one.**
 **Links:** [[demand-destruction]] · [[oil-value-chain]] · [[market-fragility]]
+
+### 2026-08-13 ~9:15am PDT — ★★★★★ JAKE REGISTERS THE FIRST PROPER TRIGGER LIST OF THE SESSION — **and one of the three has already fired, in his own digest, 20 minutes ago**
+Jake: *"Iran is no longer a load-bearing sentiment on markets, until something breaks — and when it breaks
+enough to move markets it will be DECISIVE. Troops on the ground. Civilian infrastructure targeted at
+scale. Tanker hit directly instead of disabled. They're playing chicken and smothering, and Iran wins that
+game 9/10. Trump needs to be playing chicken with a freight train."*
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ THE TRIGGER LIST IS THE PRODUCT AND IT IS HIS: troops on the ground · civilian infrastructure
+  at scale · a tanker hit rather than disabled. DATED-ABLE, OBSERVABLE, FALSIFIABLE.** **This is the
+  first properly-formed trigger set in the whole Iran thread, and the WARNING-vs-TRIGGER rule has been
+  asking for one since 7/14.** *(Analysis.)*
+- **⛔⛔ BUT TRIGGER 3 HAS ALREADY FIRED, AND THE EVIDENCE IS THE DIGEST HE PASTED 20 MINUTES AGO.**
+  **Tihamah — Egyptian-owned, struck by Iran/proxies, MULTIPLE CREW DEAD.** **M/V Vela Nova — disabled by
+  HELLFIRE MISSILES from a US MH-60.** **Plus "earlier Qatari, Saudi hulls."** ⇒ **Hulls have been hit
+  and crews killed, in BOTH directions, and the market absorbed it.** ⇒ **Either the threshold is much
+  higher than he set it, or fatalities-on-a-hull is not the mechanism at all.** **A trigger the tape has
+  already ignored is not a trigger — it is a state, and this is exactly the test the rule exists to
+  force.** *(Analysis.)*
+- **★★★★★★ AND HIS FIRST CLAIM IS RIGHT BUT NEEDS SPLITTING BY ASSET CLASS — THE SPLIT VERSION IS THE
+  KEEPER, AND IT IS MEASURABLE TODAY. IRAN IS NO LONGER LOAD-BEARING ON *EQUITY* SENTIMENT AND IS VERY
+  MUCH LOAD-BEARING ON *ENERGY*.** **Energy: oil +5% on Aug 10 on Hormuz-settlement odds fading;
+  Polymarket 80%→25% in a week; diesel crack at the top of its two-year range. Equities: VIX 15.28,
+  index near highs, no visible Iran premium.** ⇒ **THE TRANSMISSION CHANNEL IS INTACT IN COMMODITIES AND
+  SEVERED IN EQUITIES.** *(Analysis.)*
+- **★★★★★★ ⇒ AND THAT IS PRECISELY WHY A BREAK WOULD BE "DECISIVE" — HIS WORD, MADE MECHANICAL. EQUITIES
+  CARRY NO IRAN RISK PREMIUM TO UNWIND, SO A REPRICING IS ALL GAP AND NO GLIDE.** **It joins
+  `_calibration:329` exactly: books de-grossed but UNHEDGED, *"a real shock = VIOLENT."*** ⇒ **His
+  "decisive" is not rhetoric — it is the arithmetic of repricing from zero.** *(Analysis.)*
+- **★★★★★ THE CHICKEN ANALYSIS IS CORRECT AND HE HAS ALREADY IDENTIFIED THE MECHANISM WITHOUT CONNECTING
+  IT TO THIS CLAIM. IN CHICKEN THE WINNER IS WHOEVER CAN CREDIBLY COMMIT NOT TO SWERVE — SCHELLING'S
+  MOVE IS TO VISIBLY THROW THE STEERING WHEEL OUT OF THE CAR.** **The INDIVISIBLE demands he flagged ten
+  minutes ago — apologise, cease threats, reparations — ARE THAT THROWN WHEEL: you cannot retreat from
+  "apologise" without visible humiliation, which is what makes the commitment credible.** **Rezaei's
+  elevation is a second one — a hardliner in the security chair is costly and slow to reverse.**
+  ⇒ **His two observations are the same observation, and together they justify the 9/10.** *(Analysis.)*
+- **⛔⛔ BUT THE 9/10 IS ABOUT THE WRONG GAME, AND HIS OWN TRIGGER LIST IS THE PROOF. IRAN'S RECORD IS IN
+  THE *GRAY ZONE* — sub-threshold, deniable, proxy-mediated, ambiguous attribution. THAT is the game it
+  wins.** **EVERY TRIGGER HE NAMED IS AN OPEN-CONFRONTATION EVENT: troops on the ground, infrastructure
+  at scale, a hull struck without deniability.** ⇒ **Iran wins the gray zone and loses the open
+  exchange — 1988 Praying Mantis, 2020 Soleimani, the 2024 direct exchanges.** ⇒ **HIS TRIGGER LIST IS
+  THE BOUNDARY OF HIS OWN PROBABILITY ESTIMATE: the 9/10 holds right up to the moment any of his three
+  fires, and stops holding at exactly that moment, because the game changes.** *(Analysis. This is the
+  side he is under-weighting and it is internal to his own argument.)*
+- **★★★★ "TRUMP NEEDS TO BE PLAYING CHICKEN WITH A FREIGHT TRAIN" — THE EXPENSIVE COMMITMENT ALREADY
+  EXISTS AND IT IS NOT THE TRUTH SOCIAL POST.** *"Total control… I think we will keep it"* is CHEAP —
+  reversible, costless, deniable as bluster. **THE STATE DEPARTMENT ORDERING MIDDLE EAST EMBASSIES TO
+  PLAN FOR PROLONGED OPERATIONS WITH MINIMAL ESSENTIAL STAFF IS THE COSTLY ONE. YOU DO NOT DRAW DOWN
+  EMBASSIES FOR A BLUFF** — it is slow, visible, expensive and hard to reverse without losing face.
+  ⇒ **The freight train is already moving; it is just not the thing being posted about.**
+  ⚠️ **And that cuts against the 9/10 too: both wheels are now out of both cars.** *(Analysis.)*
+
+#### 📌 REGISTERED — the trigger set, formalised so it can be graded
+- **T-IRAN-1 · TROOPS ON THE GROUND** (US ground forces committed inside Iran). ⬜ not fired.
+- **T-IRAN-2 · CIVILIAN INFRASTRUCTURE TARGETED AT SCALE** (power/water/refining, not military-adjacent).
+  ⚠️ **partially ambiguous — refinery strikes in 3 countries in 4 days (`:1760`) are infrastructure but
+  not clearly civilian-at-scale. NEEDS A THRESHOLD BEFORE IT CAN BE GRADED.**
+- **T-IRAN-3 · TANKER HIT DIRECTLY, NOT DISABLED.** ⛔ **ALREADY FIRED (Tihamah, crew killed) AND THE
+  MARKET DID NOT REPRICE.** ⇒ **REWRITE OR RETIRE: what distinguishes the hull that WOULD move markets?
+  Flag state? A US-flagged hull? A VLCC rather than a product carrier? Tonnage? SIZE THE THRESHOLD.**
+- 🚩 **THE MEASURABLE FORM OF "no longer load-bearing": ROLLING CORRELATION OF SPX vs BRENT, and Iran
+  headline days vs equity moves.** **If it is near zero, his claim is measured rather than felt.**
+**Links:** [[demand-destruction]] · [[market-fragility]] · [[_calibration]] · [[oil-value-chain]]
