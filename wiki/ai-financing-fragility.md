@@ -536,6 +536,7 @@ Source: Jake (as-reported; specific announcement + move not independently confir
 - **Meta announced selling/renting EXCESS compute.** Same day, **neoclouds dumped ~6-10%: Nebius, CoreWeave, etc.**
 ### THESIS (interpretation — NOT fact)
 - *(reframe "Meta needs cash" → OVERCAPACITY, which is worse)* Meta has ad FCF — not liquidity distress. Far likelier:
+  ⟲ SUPERSEDED 2026-08-13 → ai-financing-fragility.md:L5052 — the 7/19 overcapacity read FAILED its own registered confirmer: neocloud rental rates did NOT roll over, they ratcheted UP (+35-40%; CRWV A100 realised rose through 2025). Meta was selling into a RISING market. The financing leg of the levered-edge thesis survives; the overcapacity leg does not
   **over-ordered GPUs → excess → monetize by renting.** The tell isn't cash-need, it's **overbuild = the compute glut
   forming** (CEPI air gap made physical).
 - *(why the neoclouds dumped — the mechanism)* Hyperscalers renting excess compute = **they become COMPETITORS to
@@ -5022,3 +5023,99 @@ week**. ⚠️ **ARTIFACT TEST: management characterisations as relayed, not the
    three have no number. ⚠️ **Rule 8: I have a characterisation OF a call, not the call.**
 4. ⬜ A100 base level for "increased during 2025" — increased *from what*.
 **Links:** [[metered-compute]] · [[cepi]] · [[balance-sheet-board]] · [[market-fragility]]
+
+### 2026-08-12 ~10:15pm PDT — ★★★★★ JAKE LINKS META-COMPUTE TO THE RATE CURVE AND ASKS FOR A DEPRECIATION CLIFF. **THE VAULT'S OWN 7/19 TEST HAS SINCE GRADED — AGAINST MY READ — AND IT ALREADY SIZED THE CLIFF AT >$500B UNDER A DIFFERENT QUESTION.**
+Jake: *"clearly there is demand, compute has ratcheted up since mid-2025 … Meta saw this and wants to
+complement ad revenue … scarcity of wafers, memory and usable compute may be outrunning the physical and
+economic depreciation for older chips … is there potential for a depreciation cliff if compute catches up?"*
+
+#### DATA (all from this vault — the point is that none of it needed fetching)
+- **`:L533` (2026-07-19) registered the test and named the confirmers:** *"Bear read REQUIRES the
+  overcapacity interpretation. Confirmers that turn the equity twitch into a credit fact: **neocloud
+  rental rates rolling over** + **the terms on their next debt raise.** Watch those, not the one candle."*
+- **CONFIRMER 1 — GRADED, FAILED.** Rental rates did **not** roll over: A100 realised **rose** through
+  2025 (CRWV mgmt), prior-gen **"at or above historical"**, H100 **+40%** Oct-25→Mar-26 (independent).
+- **CONFIRMER 2 — GRADED, PARTIALLY FIRED.** CRWV's $2.6B facility cleared **125bp WIDE of guidance** (`:L4670`).
+- **`:L1132`: "META capex guide RAISED to $125-145B; no cloud to sell capacity to; margin already
+  slipping; **'Meta Compute' NAMED**."**
+- **★★★★★ `:L1124` (2026-07-26) — THE CLIFF, ALREADY SIZED, 18 DAYS AGO: ">$725B capex in 2026 (vs ~$412B
+  2025) — only ~$211B hits 2026 income statements as depreciation; **>$500B SITS DEFERRED ON BALANCE
+  SHEETS.**" Morgan Stanley (Castagno): "a golden window where everybody looks good."**
+- **NEW ARITHMETIC — REVENUE PER MEGAWATT-HOUR BY GENERATION** (node kW/GPU × PUE 1.25):
+
+| | kW/GPU | low | mid | high |
+|---|---|---|---|---|
+| **A100 80GB** | 1.015 | $1,074 | **$1,271** | **$2,660** |
+| H100 SXM | 1.594 | $1,374 | $1,475 | $1,976 |
+| **B200** | 2.234 | $1,567 | **$2,238** | $2,597 |
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ CONCEDED, AND IT IS THE VAULT GRADING ITSELF: THE 7/19 OVERCAPACITY READ FAILED ITS OWN REGISTERED
+  ⟲ SUPERSEDES ai-financing-fragility.md:L538 — the 7/19 overcapacity read FAILED its own registered confirmer: neocloud rental rates did NOT roll over, they ratcheted UP (+35-40%; CRWV A100 realised rose through 2025). Meta was selling into a RISING market. The financing leg of the levered-edge thesis survives; the overcapacity leg does not
+  TEST.** I wrote *"the tell isn't cash-need, it's overbuild = the compute glut forming"* and named rental
+  rates as the confirmer. **Rates went UP.** ⇒ **Jake's read is the surviving one: Meta was selling into a
+  RISING market, not draining a glut.** **And "Meta Compute" is a NAMED PRODUCT — you do not name a
+  product to dump spillage.** *(Analysis. This is the strongest single correction of the day.)*
+- **⚠️ BUT THE GRADE IS A SPLIT, NOT A SWEEP: confirmer 2 fired.** Debt terms deteriorated at the margin
+  even as rates rose. ⇒ **The levered-edge thesis survives on the FINANCING leg while dying on the
+  OVERCAPACITY leg** — which is the same split as `:L4672` (equity trades the numerator, credit the
+  denominator). *(Analysis.)*
+- **★★★ A THIRD READING OF META'S MOTIVE THAT IS NEITHER "OVERBUILT" NOR "DEMAND FELL" NOR "DIVERSIFY":
+  YOU SELL WHEN THE EXTERNAL PRICE CROSSES ABOVE YOUR INTERNAL SHADOW PRICE.** No distress, no strategy —
+  a price response. **And it has teeth: if Meta's MARGINAL GPU is worth less to Meta than the ~$2/GPU-hr
+  market, that is a disclosure about META'S INTERNAL RETURNS TO COMPUTE, from a filer guiding $125-145B
+  of capex on the premise those returns are high.** ⚠️ **The defeater is VINTAGE: renting out old silicon
+  while buying new is ordinary fleet management and says nothing.** ⬜ **WHAT VINTAGE DOES META RENT OUT
+  — that one fact separates the three readings.** *(Analysis.)*
+- **★★★★★ THE ANSWER TO THE CLIFF QUESTION, AND THE ARITHMETIC IS THE ANSWER: REVENUE PER MEGAWATT IS
+  NEARLY GENERATION-INVARIANT (~$1,100-2,700/MW-hr across A100 → H100 → B200).** ⇒ **POWER, NOT SILICON,
+  IS THE UNIT OF ACCOUNT — this vault's oldest standing thesis, confirmed from a direction it has never
+  been tested from.** [[power-not-petroleum]] *(Analysis.)*
+- **★★★★★ THE SOCKET TEST, AND IT LOCATES THE CLIFF EXACTLY: an A100 at $2.70 earns $2,660/MW-hr and
+  BEATS a B200 at $5.00 ($2,238). The SAME A100 at the $1.29 index earns $1,271 and LOSES BY 1.76×.**
+  ⇒ **THE CLIFF IS PRECISELY THE GAP BETWEEN CRWV'S REALISED RATE AND THE INDEX — a 52% fall in revenue
+  per megawatt that carries the chip from ABOVE new silicon to 1.8× BELOW IT IN THE SAME SOCKET.**
+- **★★★★★ AND THAT IS WHY IT IS A CLIFF AND NOT A GLIDE: THE MECHANISM IS EVICTION, NOT PRICE DECAY.**
+  When the binding constraint is the MEGAWATT, an A100 occupying one carries an opportunity cost equal to
+  what a B200 would earn there. **Today that cost is ~zero because there is no B200 to put in it.**
+  ⇒ **The old chip is not killed by a low price; it is DISPLACED — and it is displaced regardless of
+  whether it still works.** **Huang's five-year warranty keeps the chip ALIVE. It does not keep it in the
+  SOCKET.** *(Analysis.)*
+- **★★★★★ THE STRUCTURAL REASON A CLIFF IS AVAILABLE AT ALL: ONE EVENT MOVES BOTH VARIABLES.** Supply
+  normalisation simultaneously **(a)** supplies the replacement chip and **(b)** removes the scarcity
+  premium holding the old chip's rate up. **A cliff requires a single event to move two variables at once.
+  Here it does — and the article's own sources date it: CoWoS/HBM constrained into 1H-2027.**
+- **★★★★★ AND THE CLIFF IS ALREADY SIZED, IN THIS VAULT, FILED UNDER A DIFFERENT QUESTION: >$500B OF
+  2026 CAPEX SITS DEFERRED RATHER THAN DEPRECIATED (`:L1124`).** **The "golden window" is an ACCOUNTING
+  claim about timing; Jake's "scarcity outrunning depreciation" is the PHYSICAL reason the window stays
+  open. THEY ARE THE SAME OBJECT AND THIS VAULT HAD NEVER LINKED THEM.** ⇒ **Scarcity is not a reprieve
+  from depreciation — it is what DEFERS it, and the deferral compounds:** each quarter the rate holds,
+  no impairment is taken · useful lives get extended (lowering current expense, raising current EPS) ·
+  more capacity is financed against the elevated residual · the RVG writer's contingent liability grows.
+  **The window that makes everybody look good is the mechanism that builds the cliff.** *(Analysis.)*
+- **⚠️ THE TWO COUNTERS, STATED SO THIS IS NOT A ONE-WAY ARGUMENT.** **(1) DEMAND GROWTH CAN ABSORB THE
+  NEW SUPPLY** — eviction only bites if silicon growth outruns MEGAWATT growth. **This vault's own datum
+  cuts against the cliff: CRWV managed-inference ARR ~$1M → $100M+ IN ONE QUARTER.** New demand can fill
+  new MW instead of displacing old chips. **(2) A FULLY-DEPRECIATED A100 HAS A LOW CASH FLOOR** — it need
+  only beat power + opex, so the rate does not go to zero. ⚠️ **But this vault's power thesis says THE
+  FLOOR IS RISING** (data-centre construction +45.8% YoY vs electric +4-5%). ⇒ **falling ceiling, rising
+  floor: the window compresses from BOTH ENDS.** *(Analysis.)*
+- **📐 INDEPENDENCE: MEDIUM-LOW, AND THE REASON MATTERS MORE THAN THE SCORE — A LARGE PART OF THIS THESIS
+  IS MY OWN FRAMING RETURNED TO ME.** At ~9:50pm I wrote that the A100 rate is *"held up by the scarcity
+  of its replacement."* **"Scarcity outrunning depreciation" is that claim generalised. I CANNOT SCORE MY
+  OWN CLAIM COMING BACK AS INDEPENDENT CONFIRMATION** — that is the standard way a research loop fools
+  itself. **WHAT IS GENUINELY HIS, AND BOTH ARE BETTER THAN MY VERSION: (a) THE META LINK**, which I did
+  not make and which retro-grades a 24-day-old registered test; **(b) THE WORD "CLIFF"** — I had a
+  TRIGGER, he asked for a SHAPE, **and the shape question is what produced the per-megawatt result. I
+  would not have computed it.**
+- **★ STEELMAN (stronger than he put it):** not *"scarcity may be outrunning depreciation"* — **scarcity
+  and depreciation are not two independent processes racing. THE SCARCITY IS WHAT DEFERS THE DEPRECIATION,
+  AND THE DEFERRAL IS CUMULATIVE. The longer the reprieve, the larger the cliff it is building.**
+
+#### 📌 REGISTERED
+1. 🚩 **USEFUL-LIFE EXTENSIONS ACROSS THE FILERS** — the cliff's accounting handle, and the vault has had
+   `sec_hyperscaler_scanner`'s useful-life check queued for `balance-sheet-board` unbuilt. **BUILD IT.**
+2. ⬜ **WHAT VINTAGE DOES META RENT OUT** — separates all three Meta readings with one fact.
+3. ⬜ **MW growth vs installed-silicon growth** — the counter to eviction; decides glide vs cliff.
+4. ⬜ carried: the recontracted-A100 rate · CRWV active MW · the transcripts.
+**Links:** [[power-not-petroleum]] · [[metered-compute]] · [[cepi]] · [[balance-sheet-board]] · [[compression-thesis]] · [[ai-capex-cycle]]
