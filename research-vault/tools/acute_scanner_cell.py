@@ -276,7 +276,17 @@ THREADS = {
  'INVENTORY': ['spr','cushing','strategic petroleum','crude draw','crude build','tank bottoms',
                'eia','api inventory','days of supply'],
  # GAP #10 (8/5): the call's own subject. Entities + auction/liquidity measures added 8/8.
- 'FED':       ['warsh','term premium','forward guidance','steepen','core cpi','supply shock',
+ # gap #23, 8/13: a PPI PRINT matched NO THREAD AT ALL. FED carried 'core cpi' and nothing else
+ # from the inflation-release vocabulary — so the vault's own macro spine (new-economy-regime) and
+ # its REGISTERED HIKE CALL were unreachable by the single most routine macro inbound there is.
+ # ENTITIES = the releases and agencies; MEASURES = how a print is reported.
+ 'FED':       ['ppi','producer price','cpi','pce','core pce','deflator','headline cpi',
+               'bls','bea','import price','ism prices','prices paid','unit labor cost',
+               'month-over-month','year-over-year','mom','yoy','annualised','annualized',
+               'trade services','ex-food and energy','core inflation','disinflation',
+               'sticky','supercore','breakeven','tips','2y','2-year','two-year','front end',
+               'dot plot','sep','fomc','dissent','hike','cut','target range','r-star',
+               'warsh','term premium','forward guidance','steepen','core cpi','supply shock',
                'dissent','rate hike','rate cut','rate pause','rate decision','fomc','fed funds','raise rate','cut rate','the fed',
                'fedwatch','hike odds','basis point','powell','hawkish','dovish','fed meeting',
                'rate expectations',
