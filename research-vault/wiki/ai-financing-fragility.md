@@ -5317,3 +5317,67 @@ item, everything above depends on it." It does. It failed.**
 1. 🚩 **REAL RATES FOR 8-12 SKUs — the single blocker.** Every conclusion here waits on it.
 2. 🚩 **The TIME leg** — the cross-section can be flat merely because vendors copy each other's pricing.
 **Links:** [[metered-compute]] · [[memory-regime-question]] · [[_calibration]]
+
+### 2026-08-12 ~10:55pm PDT — ⛔ JAKE'S TIMING CLAIM TESTED AGAINST THE ONE REAL SERIES: **MID-2025 IS WHEN H100 PRICES *FELL*.** But the test surfaces a better fact than either of our stories — and he is right about the deflator, which corrects me.
+Jake: *"mid-2025 is when compute started grinding up — models, tokenmaxxing, massive training and
+adoption, high error rates. Demand simply overwhelmed existing capacity. That doesn't have to imply
+physical constraint, although that's a factor — but because of the demand, not in a vacuum."*
+
+#### DATA (Silicon Data H100 rental series, fetched tonight — the only real time series in this thread)
+| period | hyperscaler | marketplace | neocloud |
+|---|---|---|---|
+| Jan–May 2025 | $8.73–9.30 | $2.27–2.46 | $3.00–4.19 |
+| **Jun 2025** | **$6.94** | **$2.00** | $3.29 |
+| Jul–Dec 2025 | $6.20–6.64 | $1.92–2.00 | $3.01–3.40 |
+| **Oct-25 → Mar-26** | — | **$1.70 → $2.35 (+40%)** | — |
+- **Stated cause of the Jun-2025 break: "AWS reduced H100 pricing by roughly 30%," triggering compression.**
+- **AGAINST IT, SAME YEAR, OPPOSITE DIRECTION: CRWV management — A100 average pricing INCREASED during
+  2025 while H100 average finished Q4 within 10% of where it began.**
+- **NVDA wound down A100 production in 2024** (search, 8/12) ⇒ **A100 supply is a FIXED, DEPLETING STOCK.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔ THE TIMING CLAIM FAILS ON THE H100, AND IT FAILS IN THE OPPOSITE DIRECTION: MID-2025 IS WHEN H100
+  PRICES BROKE *DOWN*** — hyperscaler $8.73-9.30 → $6.94, marketplace $2.27-2.46 → $2.00. **The up-leg is
+  Q4-2025 into 2026, not mid-2025.** ⚠️ **The claim is off by about two quarters, not wrong in kind.**
+  *(Analysis.)*
+- **★★★★★★ BUT THE TEST SURFACES A BETTER FACT THAN EITHER STORY: IN 2025 THE OLD CHIP'S PRICE ROSE WHILE
+  THE NEW CHIP'S FELL. GENERAL DEMAND CANNOT DO THAT — IT LIFTS BOTH.** ⇒ **Neither "demand overwhelmed
+  capacity" (Jake) nor "HBM shortage props the old chip" (me) explains a DIVERGENCE.** **The explanation
+  that does is A100-SPECIFIC AND NEITHER OF US HAD IT: NVDA ENDED A100 PRODUCTION IN 2024, SO A100 SUPPLY
+  IS A CLOSED-END, DEPLETING STOCK WHILE H100 SUPPLY WAS STILL RAMPING.** **A fixed and shrinking float
+  against growing cheap-inference demand rises; an expanding float against the same demand falls. That is
+  one mechanism producing both legs.** *(Analysis.)*
+- **★★★★★★ AND IT REWRITES THE CLIFF A THIRD TIME, MORE CLEANLY: THE A100 DOES NOT FACE A SUPPLY CLIFF,
+  BECAUSE THERE IS NO NEW A100 SUPPLY. IT FACES A *SUBSTITUTION* CLIFF.** A depleting stock with rising
+  demand can hold price indefinitely — **until something cheaper per unit of WORK appears.** ⇒ **The
+  trigger is not CoWoS/HBM normalisation per se; it is the first generation whose $/unit-of-work
+  undercuts a fully-depreciated A100 including its power draw.** **That is a different, later, and more
+  demanding condition than "new chips become available."** *(Analysis. And it survives tonight's
+  retraction because it needs no spec regression — only a $/work comparison at the workload level.)*
+- **⛔⛔ AND HE IS RIGHT ABOUT THE DEFLATOR, WHICH CORRECTS ME. `metered-compute:2192` filed rising
+  ⟲ EXTENDS metered-compute.md:L2192 (2026-08-13) — Jake 8/12: tokens-per-task is a deflator for USER-demand but NOT for HARDWARE demand -- the silicon does not care why a token exists. For compute, tokenmaxxing IS the demand signal. The line stays true for its original question and is wrong if applied to hardware [old entry stays LIVE]
+  TOKENS-PER-TASK as a reason to DISCOUNT token growth as a demand signal** (*"10× token growth is NOT
+  10× demand growth"*). **For HARDWARE demand that is not a discount at all — the silicon does not care
+  whether a token came from a new user or from a reasoning model burning 50× more per query. Same
+  physical load.** ⇒ **Tokenmaxxing is not noise in the demand signal; for compute it IS the demand
+  signal.** *(Analysis. Second time tonight he has caught me reading a metric in the wrong unit.)*
+- **★★★★★ AND THAT RESOLVES A "TENSION" THIS VAULT HAS CARRIED AS A WARNING SINCE 8/11.** `:L4474` reads
+  GPU rentals UP against token prices DOWN (SDLLMTK 2.05 → 1.1997, −41.5%) as *"the renter's input cost
+  rising while its output price falls"* — a margin squeeze pointing at the collateral. **Under the
+  tokens-per-task reading THEY ARE THE SAME FACT: price per token falls while tokens per task explodes,
+  so spend per task holds and TOTAL token volume — which is what sets hardware demand — rips.** ⇒ **A
+  falling token index alongside rising GPU rents is not a contradiction; it is what a volume explosion
+  looks like from the two ends.** ⚠️ **It does NOT dissolve the squeeze — it means the squeeze must be
+  measured in SPEND PER TASK, which this vault has never had.** *(Analysis.)*
+- **★★★ AND HIS FRAMING POINT IS ANALYTICALLY CORRECT AND WORTH KEEPING: A CONSTRAINT ONLY BINDS RELATIVE
+  TO DEMAND.** "HBM shortage" with no denominator is not a claim. ⇒ **Every supply-side story in this
+  thread — mine included — needs the demand growth rate attached to be falsifiable.**
+
+#### 📌 REGISTERED
+1. 🚩 **SPEND PER TASK** — the series that decides whether the token/rental divergence is a squeeze or an
+   artifact. **`metered-compute:2192` already called it "the single most valuable missing series."** Still ⬜.
+2. 🚩 **A100 INSTALLED-BASE ATTRITION RATE** — the float of a closed-end asset. Decides how long a
+   depleting stock can hold price.
+3. ⬜ **$/unit-of-WORK at the workload level** (tokens/sec/$ on a fixed benchmark), not $/FLOP — the
+   substitution-cliff trigger, and the metric that survives tonight's spec-regression retraction.
+**Links:** [[metered-compute]] · [[compression-thesis]] · [[memory-regime-question]] · [[cepi]]
