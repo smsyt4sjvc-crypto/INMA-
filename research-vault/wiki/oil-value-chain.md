@@ -242,6 +242,7 @@ spread) **98.169**. ⚠️ **ARTIFACT: a chart, not a series. Verified independe
 | 2026-08-12 | **97.50** | 180.77 | 83.27 |
 | **2026-08-13** | **93.16** | 175.46 | 82.30 |
 - **★ THE 30-SESSION DECOMPOSITION IS THE FINDING: crack +6.93, of which the PRODUCT leg contributed
+  ⟲ SUPERSEDED 2026-08-13 → oil-value-chain.md:L299 — MISLABELLED WINDOW: days[-22] is 21 trading sessions (7/15), not 30. TRUE 30 sessions (7/01) gives crack +25.68 / product +38.25 / crude +12.57 -- ~76% of the move predates the window I reported. And the bigger miss: the refiners are +11.6% to +17.1% SINCE the crack peaked 7/29 while the crack is -6.9%, so the equities have decoupled from the gauge
   +9.63 and the CRUDE leg +2.70.** **The move is in the PRODUCT.**
 - ⚠️ **CALIBRATION ON THE HEADLINE: my 2-yr window puts the high at 99.08 on 7/29, and TODAY IS 93.16 —
   DOWN $4.34 from yesterday's 97.50.** **The chart shows YESTERDAY.** ⬜ **"Record since 2009" is the
@@ -295,3 +296,69 @@ spread) **98.169**. ⚠️ **ARTIFACT: a chart, not a series. Verified independe
 3. ⬜ Grade `war-board:1766`'s "malign configuration" call: oil re-firmed into the prints, and the July
    data came COOL anyway. **The configuration did not fire on this release.**
 **Links:** [[war/war-board]] · [[new-economy-regime]] · [[compression-thesis]] · [[demand-destruction]] · [[market-fragility]]
+
+### 2026-08-13 ~11:45am PDT — ⛔⛔⛔ TWO CORRECTIONS TO MY OWN 8:55am ENTRY, BOTH VERIFIED — **a mislabelled window, and a DECOUPLING I missed: the refiners are up 12-17% since the crack PEAKED**
+  ⟲ SUPERSEDES oil-value-chain.md:L244 — MISLABELLED WINDOW: days[-22] is 21 trading sessions (7/15), not 30. TRUE 30 sessions (7/01) gives crack +25.68 / product +38.25 / crude +12.57 -- ~76% of the move predates the window I reported. And the bigger miss: the refiners are +11.6% to +17.1% SINCE the crack peaked 7/29 while the crack is -6.9%, so the equities have decoupled from the gauge
+Found by an adversarial pass over the vault's live threads; **both claims re-verified independently from
+futures and equity closes before filing.**
+
+#### DATA (recomputed 2026-08-13 ~1:10pm PDT)
+- **⛔ WINDOW ERROR: my script used `days[-22]` and I LABELLED it "OVER ~30 SESSIONS." `days[-22]` is
+  2026-07-15 = 21 TRADING SESSIONS, i.e. 29 CALENDAR days.**
+  | window | span | crack | product leg | crude leg |
+  |---|---|---|---|---|
+  | **what I reported** (21 sess) | 7/15 → 8/13 | **+6.03** | +7.58 | +1.55 |
+  | **TRUE 30 sessions** | 7/01 → 8/13 | **+25.68** | **+38.25** | +12.57 |
+  ⇒ **~76% OF THE CRACK MOVE HAPPENED BEFORE MY WINDOW OPENED.** Crack 1yr: **31.55 → 92.26 = +192%.**
+- **★★★★★★ THE DECOUPLING — the crack PEAKED 99.08 on 2026-07-29 and is 92.26 today, −6.9%. SINCE THAT
+  PEAK:**
+  | | last | 52w high | % off high | **since 7/29 crack peak** | 1yr |
+  |---|---|---|---|---|---|
+  | **MPC** | 354.42 | 354.74 | **−0.1%** | **+14.8%** | +119% |
+  | **VLO** | 339.86 | 340.21 | **−0.1%** | **+12.8%** | +150% |
+  | **PSX** | 230.87 | 231.21 | **−0.1%** | **+11.6%** | +88% |
+  | **PBF** | 74.19 | 74.74 | −0.7% | **+17.1%** | +221% |
+  | DINO | 91.57 | 94.22 | −2.8% | +1.7% | +103% |
+  | PARR | 81.39 | 86.73 | −6.2% | −2.0% | +182% |
+  | XOM | 158.21 | 176.41 | −10.3% | +0.9% | +47% |
+  | CVX | 197.18 | 214.71 | −8.2% | +2.8% | +27% |
+  **⇒ THE CRACK IS −6.9% AND THE FOUR PURE REFINERS ARE +11.6% TO +17.1% OVER THE IDENTICAL WINDOW.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ CONCEDED: I MISLABELLED THE MEASUREMENT WINDOW AND THE NUMBERS I GAVE JAKE CARRIED THAT LABEL.**
+  **The decomposition (+product / +crude) was directionally right for the window I actually used, but I
+  presented ~21 sessions as ~30 and therefore presented a LATE SLICE of the move as THE move.** ⇒ **On
+  the true window the crack is +25.68 and the product leg +38.25 — the mechanism is STRONGER than I said
+  and the TIMING is far earlier than I implied.** *(Analysis.)*
+- **★★★★★★★ AND THE SECOND ERROR IS THE ONE THAT MATTERS: I CHECKED THE CRACK'S LEVEL AND NEVER CHECKED
+  THE EQUITIES AGAINST IT. THE REFINERS HAVE STOPPED TRACKING THE OBJECT THE THESIS SAYS THEY OWN.**
+  **MPC/VLO/PSX/PBF are +11.6% to +17.1% SINCE THE CRACK TOPPED, and three of them closed within 0.1% of
+  52-week highs today.** ⇒ **That advance is NOT crack capture — the crack fell over the same window. It
+  is MULTIPLE EXPANSION, or a different driver entirely.** **And it breaks this note's OWN daily pairing
+  rule at `:L90-91`: *"crude down + refiners up is the pure crack signal."* Today has no box — the CRACK
+  went down and the refiners went up.** *(Analysis. This is the strongest single observation of the day
+  and I had every input for it at 8:55am and did not run it.)*
+- **★★★★★ AND THE INTEGRATEDS PROVE THE DISPERSION IS FULLY EXPRESSED, NOT FORMING: XOM −10.3% and CVX
+  −8.2% off their highs, BOTH PEAKING IN MARCH, while the pure refiners print highs today.** ⇒ **The
+  entire "own the crack, not the barrel" trade has already been paid out into the equity structure. It
+  is not a spread waiting to widen; it is a spread that has finished widening.** *(Analysis.)*
+- **⛔ AND THIS NOTE ALREADY SAID SO, SIXTEEN DAYS BEFORE THE CLAIM IT NOW UNDERWRITES. `:L74` (7/28) IS
+  TITLED "THE REFINER TAPE: THE CRACK TRADE HAS ALREADY PAID," and `:L83-85` carries the standing rule
+  verbatim: *"a thesis at the top of its range is a HELD POSITION QUESTION, NOT AN ENTRY."*** ⇒ **The
+  vault answered the entry question before the question was asked, and I quoted the paid-already line at
+  8:55am while filing an entry whose framing implied the opposite.** *(Analysis.)*
+- **⚠️ WHAT SURVIVES, STATED SO THE RETRACTION IS BOUNDED: the PHYSICAL claim is intact and stronger on
+  the corrected window** — product-led, capacity-bound, refinery utilization at 20-year seasonal highs,
+  distillates drawing. **What does NOT survive is any inference from the physical claim to the EQUITY,
+  because the equity stopped tracking it two weeks ago.** ⬜ **And the one test that discriminates —
+  DISTILLATE INVENTORIES — remains registered and UNANSWERED since this morning.**
+
+#### 📌 REGISTERED
+1. 🚩🚩 **REFINER EQUITY vs CRACK, ROLLING 20-SESSION CORRELATION.** **A decoupling this large either
+   reverts or means the equities are on a different driver. Either answer is decision-relevant and it is
+   one cell.**
+2. 🚩 **DISTILLATE INVENTORIES (EIA weekly)** — registered 8/13 ~8:55am, still unanswered. **The single
+   discriminator between physical shortage and margin story.**
+3. ⚠️ **PROCESS: `days[-22]` labelled "30 sessions." Trading days ≠ calendar days. Every window label in
+   `tools/` should print BOTH the session count and the date span.**
+**Links:** [[demand-destruction]] · [[war/war-board]] · [[ai-infra-allocation-map]] · [[portfolio-state]]
