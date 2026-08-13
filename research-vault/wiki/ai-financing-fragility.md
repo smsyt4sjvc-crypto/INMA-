@@ -4895,3 +4895,68 @@ Jake, one word: **"Rent."** Rule 10 — a registered test one query can resolve 
 TechCrunch 2020-11-03 (p4d launch $32.77) · AIMultiple GPU Index · Thunder Compute Aug-2026 market
 analysis · ComputeStacker/digitalcitizen 2026 rebound prints · CoreWeave published pricing.
 **Links:** [[metered-compute]] · [[cepi]] · [[balance-sheet-board]] · [[market-fragility]]
+
+### 2026-08-12 ~9:55pm PDT — ★★★★★ JAKE'S QUESTION COLLAPSES THE RATE PROBLEM TO **ONE DISCLOSED NUMBER** — and the identity behind it makes the bull case on PRICE and the bull case on SCALE mutually exclusive
+Jake: *"The curve could be estimated from projected revenue couldn't it? For the earnings report?"*
+**Yes — and better than I registered it.** ⚠️ **He also corrected my read of his 8/12 framing: by
+"corroboration" he meant the BUSINESS INSIDER ARTICLE ITSELF — the publication event — NOT its contents.
+I answered an evidentiary claim he did not make.** *(Conceded. See the artifact read below.)*
+
+#### DATA (arithmetic on vault figures — CRWV Q2 2026, `:4646` and `metered-compute:2203`)
+- Revenue **$2,575M** ÷ (91 d × 24 h) = **$1.179M of revenue per hour.**
+- **IMPLIED ACTIVE FLEET at each candidate realised rate** (650-950 GPU/MW spans node power + PUE):
+
+| realised $/GPU-hr | GPUs implied | implied ACTIVE MW |
+|---|---|---|
+| **$2.70** CRWV list | 436,678 | **460 – 672 MW** |
+| $1.79 AIMultiple median | 658,676 | 693 – 1,013 MW |
+| **$1.29** `SDA100RT` index | 913,976 | **962 – 1,406 MW** |
+| $1.17 AWS 3-yr reserved | 1,007,717 | 1,061 – 1,550 MW |
+
+- **INDEPENDENT SECOND ROUTE — backlog ÷ contracted power** (different numerator, different denominator):
+  **$104.2B ÷ 4.2 GW** = $24.8B/GW ⇒ **3-yr life $0.99-1.45 · 4-yr $0.75-1.09 · 5-yr $0.60-0.87 /GPU-hr.**
+- **SEQUENTIAL DECOMPOSITION — Q3 guide $3.45-3.60B vs Q2 $2.575B = +34.0% to +39.8%.** Against the
+  **~25% across-the-board July price increase**: if fully effective ⇒ **volume only +7.2% to +11.8%**;
+  at half-effective ⇒ +19.1% to +24.3%; price-neutral ⇒ +34-40%.
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ THE IDENTITY, AND IT IS THE WHOLE ANSWER: REVENUE = PRICE × QUANTITY, AND REVENUE IS FIXED AT
+  $2,575M. SO THE BULL CASE ON RATE AND THE BULL CASE ON SCALE CANNOT BOTH BE TRUE.** **CRWV realises
+  ~$2.70 only if its active fleet is ~460-670 MW — which against 4.2 GW contracted means ~85% of the
+  contracted book is UNBUILT and therefore UNFUNDED CAPEX.** **If instead the fleet is ~1 GW+ active,
+  the realised rate is at or below the $1.29 index — and "an attractive price" was ABOVE market.**
+  ⇒ **Every dollar of rate you claim, you give back in scale. This is not a range of views; it is one
+  equation.** *(Analysis.)*
+- **★★★★★ ⇒ THE ENTIRE QUESTION REDUCES TO ONE NUMBER CRWV ALREADY DISCLOSES: ACTIVE MW.** Revenue is
+  reported. The GPU/MW band is engineering. **Active MW is the only free variable, and it is in the
+  filing.** ⬜ **The vault has "300+ MW ACTIVATED IN JUNE ALONE" and "4.2 GW UNDER CONTRACT" — it does
+  NOT have the ACTIVE total.** 🚩 **THAT is the fetch, and it is one line of a 10-Q.**
+- **★★★★ AND THE TWO ROUTES DISAGREE WITH THE LIST PRICE, NOT WITH THE INDEX.** The backlog route
+  ($0.60-1.45) never reaches $2.70 at any plausible contract life. **Two independent constructions land
+  near the index; neither lands near the rack rate.** ⚠️ **Backlog covers UNENERGISED power to be filled
+  with FUTURE silicon at FUTURE rates — the denominator is forward, the numerator is forward, but the
+  coverage may not match. Directional, not a measurement.** *(Analysis.)*
+- **★★★★ THE JULY PRICE HIKE EATS THE VOLUME STORY, AND THE MARKET READ THE GUIDE AS VOLUME.** A ~25%
+  across-the-board increase means the +34-40% Q3 guide contains **at most +11.8% of volume growth if the
+  hike is fully effective.** ⚠️ It is not fully effective — most of the book is under multi-year contract
+  — **but the bound only moves one way: every point of price is a point off volume.** ⇒ **"Guidance
+  raised" and "demand accelerating" are not the same claim, and only one of them is in the number.**
+- **⛔⛔ RULE 9 ON MYSELF, 90 MINUTES OLD: CRWV'S OWN 25% JULY HIKE AND THE "+35-38% GPU RENTALS" FIGURE
+  MAY BE THE SAME EVENT COUNTED TWICE.** `metered-compute:2247` already grades that figure
+  **"(sponsor-published)"** — **and CRWV IS a sponsor.** **I used it at ~9:50pm as corroboration of the
+  2026 rebound.** ⇒ **The real independent corroboration is the H100 tracker print ($1.70 → $2.35, +40%,
+  Oct-25 → Mar-26) from parties with no position — NOT the +35-38%.** The rebound survives; **one of its
+  two legs does not.** *(Analysis. Self-correction.)*
+- **★★★ THE ARTIFACT READ JAKE ACTUALLY MEANT, AND IT IS A DIFFERENT AND VALID CATEGORY: THE PUBLICATION
+  EVENT AS DATA.** The author **states he originated the depreciation-risk thesis before CRWV went
+  public**; the piece reads as a partial walk-back. ⇒ **A bear author's capitulation is a POSITIONING
+  datum, and it is the one thing in that article that is NOT sourced from interested parties — because it
+  is not in the contents at all.** **Paired with Huang amplifying it the week his two largest financed
+  customers report, the publication + amplification is a read on what NVDA wants priced.** ⚠️ **WARNING,
+  not TRIGGER (rule 10): narrative-cycle position shades odds and times nothing.** *(Analysis.)*
+
+#### 📌 REGISTERED
+- 🚩 **THE FETCH THAT RESOLVES THE THREAD: CRWV ACTIVE MW (10-Q). One line. Everything else is arithmetic.**
+- ⬜ Contract-duration disclosure (backlog route's biggest lever: 3-yr → $1.45, 6-yr → $0.50).
+- ⬜ Revenue split: GPU compute vs storage/networking/managed inference (inference ARR $100M+ ⇒ ~1% of Q2).
+**Links:** [[metered-compute]] · [[cepi]] · [[balance-sheet-board]] · [[market-fragility]]
