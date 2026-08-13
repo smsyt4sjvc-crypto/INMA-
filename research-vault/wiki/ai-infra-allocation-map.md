@@ -316,3 +316,70 @@ intraday — market was ~25 min open.**
 3. 🔧 **`tools/` note: yfinance is currently proxy-blocked; the Yahoo chart API via urllib works.** Any
    cell in `tools/` that calls `yf.download` will fail the same way and report it as "delisted."
 **Links:** [[ai-financing-fragility]] · [[market-fragility]] · [[portfolio-state]] · [[cepi]]
+
+### 2026-08-13 ~1:20pm PDT — 📊 FOUR THREADS RANKED BY **EVIDENCE QUALITY** ON A 3-MONTH WINDOW — and the table surfaces a pair that contradicts one of this vault's own theses at the equity level
+Jake: *"So higher conviction right now. Compute, energy, memory or refineries. 3 month window."*
+**Rule 7 — this ranks EVIDENCE, not positions. No direction, no sizing.**
+
+#### DATA (Yahoo chart API, 2026-08-13 ~1:15pm PDT — group medians)
+| group | % off 52w high | **3-MONTH** | 1-YEAR |
+|---|---|---|---|
+| **REFINERIES** (VLO/MPC/PSX/PBF) | **−0.2%** | **+43.1%** | +152.5% |
+| MEMORY (MU/WDC/STX/SNDK) | −24.3% | +12.7% | **+658.1%** |
+| COMPUTE (NVDA/CRWV/NBIS/IREN/ORCL) | **−30.6%** | **−4.5%** | +23.8% |
+| POWER/GRID (VST/CEG/NEE/GEV/ETN) | −12.9% | +1.4% | +19.1% |
+- **★ POWER, name by name: VST −33.4% off its high and −27.7% OVER ONE YEAR · CEG −32.5% off, −14.6% 1yr
+  · NEE −12.9% off, −9.3% over 3 months.** Only ETN (−5.2% off, +8.2% 3mo) is near its high.
+- Refiners individually: **all four within 0.5% of 52-week highs**; PBF **+81.7% in three months.**
+
+#### THESIS (interpretation — NOT fact)
+- **1️⃣ REFINERIES — HIGHEST EVIDENCE QUALITY, BY A WIDE MARGIN, AND IT BECAME TRUE TODAY.** **Every
+  load-bearing premise is now a MEASURED number from a primary series**, pulled from EIA's own
+  `highlights.pdf` rather than a summarizer: distillates **−12% vs the 5-yr average**, days of supply
+  **29.3 vs ~34**, utilization **96.2%**, exports **+34.3% y/y and the highest in EIA records since 2010**,
+  Russian throughput at a **20-24 year low**. **The vault's registered discriminator RESOLVED to the
+  physical-shortage branch.** **And there is no global supply relief inside the window — IEA's own framing
+  is "sparse additions from 2027," Dangote's next CDU is END-2028, and Dangote's July outage made the near
+  term TIGHTER.** **Plus a dated forward curve to disagree with: 97.09 → 56.49 by Dec-27.**
+  ⚠️⚠️ **AND EVERYTHING THE EVIDENCE SAYS IS ALSO IN THE PRICE: +43.1% in three months, all four within
+  0.5% of 52-week highs.** ⇒ **Best-evidenced ≠ best-priced, and this is the clearest case of that gap.**
+- **2️⃣ COMPUTE — MOST NEW INFORMATION TODAY, AND THE ONLY GROUP WHERE THE PRICE HAS NOT RUN (−30.6% off
+  highs, −4.5% three-month). BUT EVERYTHING WE MEASURED TODAY POINTS THE OTHER WAY:** implied realised
+  rate **$0.79-1.81 vs a $2.70 rack**, Hopper rolls at **~10% of original ASP**, **$10.6B maturing inside
+  18 months = 0.83× annual revenue**, a floating **SOFR+5.50%** new facility, and NVDA carrying **$42.3B
+  of customer equity and $3.5B of lease guarantees** while disclosing it was **"asked to offer financing
+  arrangements."** ⇒ **THE DRAWDOWN IS NOT A DISCOUNT — IT IS THE MARKET PRICING WHAT WE JUST MEASURED.**
+  **The evidence quality here is HIGH and its sign is NEGATIVE.** *(Analysis.)*
+- **3️⃣ MEMORY — THE LEAST FRESH DATA, THE LARGEST BANKED MOVE, AND THE FIRST DECELERATION SIGNAL.**
+  **+658% median over one year.** **ZH today, from an outside source: memory prices "have STABILIZED (but
+  are not dropping)"** — the first non-sponsor deceleration datum in that thread. **And we fetched NOTHING
+  on memory today**; the thread's own resolver is *published by the seller mid-negotiation.*
+  ⇒ **Ranking it third is a statement about our EVIDENCE, not about the business.** *(Analysis.)*
+- **4️⃣ POWER — A DURATION MISMATCH, BY JAKE'S OWN FRAMING, NOT A CONVICTION QUESTION.** He wrote it
+  himself hours ago: *"Longer term: power/grid infrastructure remained the better multi-year investment."*
+  **The thread's decision point is self-timed at 12-24 MONTHS.** **A three-month window is shorter than
+  the thesis's own clock.** *(Analysis.)*
+- **★★★★★★★ AND THE TABLE SURFACES A PAIR THAT CONTRADICTS THIS VAULT'S OWN POWER THESIS AT THE EQUITY
+  LEVEL, AND IT IS THE MOST INTERESTING THING HERE. TWO CONFIRMED PHYSICAL-CONSTRAINT THESES, OPPOSITE
+  EQUITY OUTCOMES: refiners are at 52-week highs (+43% in three months) while VST is −27.7% and CEG
+  −14.6% OVER A FULL YEAR — during which data-centre construction ran +45.8% YoY and electric
+  construction only +4-5%.** ⇒ **THE GRID CONSTRAINT IS REAL AND THE GRID EQUITIES WENT DOWN.**
+  **The mechanism: A PHYSICAL CONSTRAINT ONLY PAYS IF THE OWNER CAPTURES THE PRICE OF THE CONSTRAINT.
+  A REFINER OWNS THE SPREAD; A REGULATED UTILITY OWNS A REGULATED RETURN, AND AN IPP SELLS FORWARD.**
+  ⇒ **Scarcity accrues to whoever is short the scarce thing at market price — not to whoever is near it.**
+  🚩 **This should be tested against every "constraint" thesis in the vault, not just power.** *(Analysis.)*
+- **⛔ AND THE STRUCTURAL POINT THAT OVERRIDES THE WHOLE RANKING, FROM LINE 10 OF THIS FILE: *"Everything
+  below is ONE trade — the AI-capex / memory / power complex, all correlated."*** ⇒ **THREE OF HIS FOUR
+  OPTIONS ARE THE SAME EXPOSURE.** **Compute, memory and power are all the AI-capex impulse at different
+  betas. REFINERIES IS THE ONLY ONE OF THE FOUR DRIVEN BY SOMETHING ELSE ENTIRELY** — Russian refinery
+  strikes, Hormuz, distillate physics. ⇒ **On correlation grounds the four choices are really two, and
+  that is true independent of any conviction ranking.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩 **THE CAPTURE TEST, generalised: for every "physical constraint" thesis in this vault, ask WHO IS
+   SHORT THE SCARCE THING AT MARKET PRICE.** **Power failed it for a year while being right.**
+2. 🚩 **MEMORY IS THE EVIDENCE GAP — nothing fetched today.** DRAM/HBM contract prices, SK hynix/Micron
+   guidance, and whether "stabilized" is a top or a pause.
+3. ⬜ Why VST/CEG are −27.7%/−14.6% over a year against a confirmed constraint — **the answer changes how
+   the power thesis should be expressed, and possibly whether it is expressible in equities at all.**
+**Links:** [[power-not-petroleum]] · [[oil-value-chain]] · [[memory-regime-question]] · [[ai-financing-fragility]] · [[portfolio-state]]
