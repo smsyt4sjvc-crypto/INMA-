@@ -3100,3 +3100,65 @@ Source: compiled market snapshot → `raw/2026-08-12-bond-yields-yen.txt` (CFTC 
   **Continued covering with the pair back at 159.3 would be a genuine capitulation signal; a re-shorting
   print says the carry trade simply reloaded at a better level.** *(Analysis.)*
 **Links:** [[market-fragility]] · [[predictions]] · [[ai-financing-fragility]]
+
+### 2026-08-13 ~6:45am PDT — ★★★★★★ THE PPI PRINTS **+0.4% CORE — EXACTLY THE VAULT'S PRE-REGISTERED NUMBER, DOUBLE CONSENSUS.** And the headline 0.0% is an energy mask, the second volatile-component mask in two days, both hiding the same direction.
+Source: Jake's paste of the July-2026 PPI, ~6:40am PDT (release 5:30am PDT / 8:30am ET — **~70 minutes
+old, market OPEN**). ⚠️ **ARTIFACT TEST: headline/core/goods/services only — NOT the component table.**
+
+#### DATA (as pasted)
+- **Headline PPI 0.0% MoM · +4.7% YoY.**
+- **Core (ex food, energy & trade services) +0.4% MoM · +4.7% YoY.**
+- **Goods −0.7%** (energy **−3.1%**) · **services +0.2%.**
+
+#### ⛔ WHAT THIS VAULT SAID YESTERDAY, VERBATIM, AT `:L3016`
+> **"📌 WHICH MAKES TOMORROW'S PPI THE MORE IMPORTANT RELEASE, not today's CPI: the PPI healthcare,
+> airfare and portfolio-management components FEED CORE PCE directly… **GS carries +0.4% against +0.2%
+> consensus — DOUBLE** — and the $25bn 30Y prices after it."*
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE CALL WAS PRE-REGISTERED AND IT LANDED ON THE NOSE. CORE PPI PRINTED +0.4% AGAINST +0.2%
+  CONSENSUS — GOLDMAN'S NUMBER, DOUBLE THE STREET, AND THE HAWKISH SIDE.** **The vault also said WHY it
+  mattered more than the CPI everyone was watching, one day in advance.** ⇒ **This is the ingest loop
+  paying: yesterday's work priced today's release before it printed.** *(Analysis.)*
+- **★★★★★ THE HEADLINE IS A MASK AND THE MASK IS ENERGY. 0.0% headline with core at +0.4% means the
+  entire flat print is the −3.1% energy drop.** **+0.4% MoM annualises to ≈ +4.9%.** **And BOTH headline
+  and core sit at +4.7% YoY — the energy move is a MONTHLY artifact that does not touch the annual rate.**
+  ⇒ **Anyone reading "PPI flat" read the one number in the release with no information in it.**
+- **★★★★★ AND IT IS THE SECOND VOLATILE-COMPONENT MASK IN TWO CONSECUTIVE RELEASES, BOTH HIDING HAWKISH
+  — A PATTERN, NOT A COINCIDENCE.** Yesterday: **shelter printed +0.1% only because LODGING AWAY FROM
+  HOME fell −2.8%, while rent AND owners' equivalent rent both ran +0.3% MoM ≈ 3.7% annualised**
+  (`:L3027`, my own correction). Today: **headline 0.0% only because energy fell −3.1%.** ⇒ **Two
+  releases, two single components, both masking firmer underlying inflation. The headline has been the
+  wrong number twice running.** *(Analysis.)*
+- **★★★★ AND "EX TRADE SERVICES" IS THE TECHNICAL POINT THAT MAKES +0.4% HARDER TO DISMISS: TRADE
+  SERVICES *ARE* WHOLESALE/RETAIL MARGINS.** Stripping them and still printing +0.4% means this is
+  **producer cost pressure, not margin expansion dressed as inflation.** *(Analysis.)*
+- **⚠️⚠️ BUT THE COMPONENT THE VAULT FLAGGED IN ADVANCE IS EXACTLY THE ONE MISSING FROM THIS PASTE.**
+  `:L3016` named **healthcare, airfare and portfolio management** as the PPI lines that feed **core PCE**
+  directly. **A headline/core/goods/services split cannot tell us what happened to them.** ⇒ **⬜ THE
+  PRINT IS NOT YET READ. The number that matters for the Fed is inside a table nobody has opened.**
+  **And core PCE — the actual target — is 3.3% vs core CPI 2.5%, i.e. 130bp above target, and JULY PCE
+  DOES NOT PRINT UNTIL AUGUST 26.** *(Analysis.)*
+- **★★★★★ ON THE REGISTERED HIKE CALL — THIS ATTACKS LEG 3 OF MY OWN CASE AGAINST JAKE.**
+  `predictions/2026-07-30-fed-hike-before-december.md` put me at **30% before December / 40% including
+  it**, and my third argument was *"both growth AND inflation data have surprised to the DOWNSIDE —
+  headline PCE −0.1%, core +0.1%."* **A core PPI at double consensus is an UPSIDE inflation surprise.
+  That leg is weaker today than when I wrote it.** ⚠️ **Legs 1 and 2 are untouched: no FOMC statement
+  language change, and the 2Y.** *(Analysis. Jake's call gains; my 30% is under pressure but the
+  disconfirmers I weighted most are not the ones this print touches.)*
+- **⚠️⚠️ AND THE REGISTERED KILL SWITCH SAYS THE MARKET DID NOT FLINCH — WHICH IS THE REAL TENSION.
+  2Y ≈ 4.21%, roughly FLAT**, and after yesterday's in-line CPI (+0.1% MoM) **traders PARED September
+  hike bets.** ⇒ **A double-consensus core PPI met by an unmoved front end is either the market
+  discounting it, soft PCE-relevant internals, or a reaction that has not happened yet 15 minutes into
+  the session.** ⛔ **DATA QUALITY WARNING: my 2Y figure is one quote line, and the search also returned
+  three CONTRADICTORY PPI-reaction headlines from DIFFERENT release dates. I do not have a reliable read
+  of today's front-end reaction and am not going to manufacture one.** ⬜ **VERIFY DGS2 DIRECTLY.**
+
+#### 📌 REGISTERED
+1. 🚩 **THE PPI COMPONENT TABLE — healthcare services, airfares, portfolio management.** **The only lines
+   that matter for core PCE, flagged in advance yesterday, still unread. Tier-0 (BLS API).**
+2. 🚩 **DGS2 TODAY, verified from FRED, not from a search snippet** — the registered kill switch on the
+   hike call, and the number that grades this print.
+3. ⬜ **The $25bn 30Y auction** — `:L3016` noted it prices after the PPI. Today. Tail vs no-tail.
+4. ⬜ July core PCE, **Aug 26** — the actual target, and the release this one only forecasts.
+**Links:** [[market-fragility]] · [[demand-destruction]] · [[cepi]] · [[compression-thesis]]
