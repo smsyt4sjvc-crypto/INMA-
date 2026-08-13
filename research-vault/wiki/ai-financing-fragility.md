@@ -5190,6 +5190,7 @@ CRWV $104B backlog + $25B early Q3.
 **Links:** [[power-not-petroleum]] · [[compression-thesis]] · [[ai-capex-cycle]] · [[metered-compute]] · [[cepi]]
 
 ### 2026-08-12 ~10:30pm PDT — ★★★★★★ JAKE'S EFFICIENCY CHALLENGE BREAKS MY GRID ARGUMENT AND PRODUCES THE BEST RESULT OF THE NIGHT: **THE MARKET PRICES GPUs PER UNIT OF MEMORY BANDWIDTH, AND THE A100 IS ALREADY AT PARITY. THERE IS NO TECHNOLOGICAL CLIFF LEFT TO FALL.**
+  ⟲ SUPERSEDED 2026-08-13 → ai-financing-fragility.md:L5263 — FALSIFIER RUN AND FAILED: at n=11 bandwidth ranks 4th of 6 (CV 40.8% vs capacity 30.1%), separation 1.1x, leave-one-out not unanimous. The 12-vs-86 percent spread was an artifact of the three chips I picked
 Jake: *"scarcity and depreciation are running in tandem — scarcity scaled depreciation up, the depreciation
 is still occurring, the tide's just rising. The MW don't necessarily need to be built at warp speed to
 catch up, right? Efficiency drives depreciation more than physical deterioration. If the next chip computes
@@ -5259,3 +5260,60 @@ the same output on 300% less power, that raises the denominator in the MW/comput
 3. ⬜ Training-vs-inference workload mix on the A100 fleet: bandwidth parity holds only for inference.
 4. ⬜ carried: neocloud debt maturity ladder vs fleet vintage · CRWV active MW · useful-life extensions.
 **Links:** [[metered-compute]] · [[power-not-petroleum]] · [[compression-thesis]] · [[cepi]] · [[memory-regime-question]]
+
+  ⟲ SUPERSEDES memory-regime-question.md:L934 — the thread-link was explicitly CONDITIONAL on the bandwidth result surviving its falsifier. It did not. The memory/collateral link may still be real but it has lost its stated mechanism
+### 2026-08-12 ~10:50pm PDT — ⛔⛔⛔ **I RAN THE FALSIFIER I REGISTERED 15 MINUTES AGO AND IT KILLED MY OWN HEADLINE FINDING.** The bandwidth result was an n=3 artifact.
+  ⟲ SUPERSEDES ai-financing-fragility.md:L5192 — FALSIFIER RUN AND FAILED: at n=11 bandwidth ranks 4th of 6 (CV 40.8% vs capacity 30.1%), separation 1.1x, leave-one-out not unanimous. The 12-vs-86 percent spread was an artifact of the three chips I picked
+`tools/bandwidth_parity_cell.py`, built and run tonight. **I registered this test at ~10:30pm as "the top
+item, everything above depends on it." It does. It failed.**
+
+#### DATA (the run, 11 SKUs)
+| unit of account | n | CV of $/unit | R² log-log |
+|---|---|---|---|
+| MEMORY CAPACITY | 11 | **30.1%** | 0.828 |
+| POWER (TDP) | 11 | 31.7% | 0.800 |
+| FP16 COMPUTE | 11 | 36.0% | 0.936 |
+| **MEMORY BANDWIDTH** | 11 | **40.8%** | 0.890 |
+| LOW-PRECISION | 10 | 43.6% | 0.921 |
+- **BANDWIDTH RANKS 4th OF 6.** Best-to-runner-up separation **1.1×** — under the 1.5× bar the cell
+  requires before reporting any winner. **LEAVE-ONE-OUT IS NOT UNANIMOUS: three different metrics win
+  depending on which single SKU is dropped.**
+- ⚠️ **8 of the 11 rates are PLACEHOLDERS I invented.** Only A100 SXM ($1.29), A100 PCIe ($1.19) and
+  H100 SXM ($2.35) are sourced.
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔⛔ DEAD: "THE MARKET PRICES GPUs PER UNIT OF MEMORY BANDWIDTH."** The 12%-vs-86% spread was an
+  artifact of **the three chips I happened to pick.** ⟲ superseding the ~10:30pm entry. *(Analysis.)*
+- **⛔⛔ DEAD WITH IT: "the A100's $1.29 IS its bandwidth-parity price ⇒ the technological depreciation is
+  already in the price ⇒ there is no obsolescence cliff left to fall."** **That entire chain rested on
+  the parity coincidence. It has no support now.** *(Analysis.)*
+- **⛔ AND THE DIAGNOSIS IS THE SAME ONE I WROTE INTO THE CELL'S OWN HEADER BEFORE RUNNING IT: I FOUND
+  BANDWIDTH ON THE THIRD METRIC I TRIED, AT n=3.** **I named the multiple-comparisons trap, filed the
+  discipline paragraph, called it "the best result of the night" anyway, and shipped it to Jake.**
+  ⇒ **Writing the caveat is not the same as obeying it. The caveat only did its job because it came
+  with a CELL. The lesson is not "be more careful" — it is BUILD THE FALSIFIER IN THE SAME TURN, because
+  a registered test I intend to run later is a test that ships an unverified headline in the meantime.**
+- **⚠️ AND THIS RUN IS NOT A CLEAN REFUTATION EITHER — 8 OF 11 RATES ARE MINE.** ⇒ **The correct status
+  is NOT "capacity is the unit." It is "THE BANDWIDTH CLAIM IS NOT ROBUST — it does not survive a
+  plausible extension of the sample."** **That is enough to retract the claim and NOT enough to replace
+  it.** *(Analysis.)*
+- **★★★ WHAT THE NULL ITSELF SUGGESTS, held loosely because it is a null on invented data: AT n=11 NO
+  SPEC EXPLAINS RENTAL PRICE WELL — the best coefficient of variation is 30%.** ⇒ **Rental prices are
+  not a clean function of any chip characteristic.** **If price has no spec-based anchor, there is no
+  PHYSICAL floor under the A100's rate — it is set by supply and demand for that particular box.**
+  ⚠️ **I am aware this null re-derives the conclusion I started with, which is exactly when to distrust
+  it. Held as a hypothesis, not a finding.** *(Analysis.)*
+
+#### WHAT SURVIVES THE RETRACTION (stated explicitly so the wreckage is bounded)
+- ✅ **The $2.70 (CRWV realised) vs $1.29 (index) gap is still real and still unexplained** — it has lost
+  its bandwidth explanation, not its existence.
+- ✅ **The revenue-per-megawatt socket test (~10:15pm) reached $1.29 by an INDEPENDENT route** and does
+  not depend on any of tonight's spec analysis.
+- ✅ **Jake's "rising tide" arithmetic: the box depreciated 18.1%/yr while best-available compute
+  depreciated 34.8%/yr.** Rates and dates only — no spec regression in it.
+- ✅ **Functional obsolescence dominates physical deterioration** — appraisal doctrine, not a finding of mine.
+- ✅ **The grid argument stays demoted.** Jake's efficiency-substitutes-for-megawatts point is untouched.
+#### 📌 REGISTERED
+1. 🚩 **REAL RATES FOR 8-12 SKUs — the single blocker.** Every conclusion here waits on it.
+2. 🚩 **The TIME leg** — the cross-section can be flat merely because vendors copy each other's pricing.
+**Links:** [[metered-compute]] · [[memory-regime-question]] · [[_calibration]]
