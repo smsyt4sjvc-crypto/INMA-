@@ -2021,6 +2021,7 @@ checkable and it CHECKS: "oil jumped about 5% on August 10" — my own futures p
   CHOKEPOINT WITH A TOLL IS A STRUCTURAL COST THAT NEVER CLEARS.** **He is waiting for an event that
   already happened and has since become an institution.** *(Analysis.)*
 - **★★★★★★★ THE FINDING OF THE WEEK, AND IT IS A JOIN THIS VAULT HAD NEVER MADE: FOUR SHOCK ABSORBERS,
+  ⟲ SUPERSEDED 2026-08-13 → demand-destruction.md:L3436 — TOO STRONG on the crude leg: US commercial crude built 17.4MM bbl last week, largest since Jan-2023, and Chinese demand elasticity is a live ~5 mmbpd absorber. Two buffers spent (SPR, product), two intact (commercial crude, China demand). The convexity lives in the PRODUCT leg only
   ALL SPENT, EACH FILED IN A DIFFERENT NOTE.**
   **(1) STRATEGIC RESERVE — `demand-destruction:3382`: SPR 3.05MM barrels, "lowest since Feb 1983,"
   ≈4 HOURS of US consumption, "operationally ZERO," still draining, and that was EIGHT DAYS AGO.**
