@@ -228,3 +228,69 @@ registered fetches; figures digest-reported as EIA — spot-check open).
 1. ⭐ CLOSED (series sized). 2. ⭐ CLOSED (redirected). 3. ⬜ license structure — open.
 4. ⬜ NEW: **EIA spot-check of the July-zero claim** (weekly US imports from Persian Gulf). Single-origin
    until checked.
+
+### 2026-08-13 ~8:55am PDT — ★★★★★★ THE DIESEL CRACK CLOSES THE FLAG `war-board:1762` REGISTERED ("crack spreads = the gauge, not flat price") — **and it partly refutes what I told Jake 20 minutes ago: the energy deflation is a CONSUMER-FUEL story, and the INDUSTRIAL fuel is at record margin**
+Source: Jake — ZH chart, *"Diesel Crack hits record high,"* US Diesel Crack (NYMEX 1-mo heating/crude
+spread) **98.169**. ⚠️ **ARTIFACT: a chart, not a series. Verified independently below.**
+
+#### DATA (computed from futures, Yahoo chart API, 2026-08-13 ~9:00am PDT — HO×42 − WTI)
+| date | crack $/bbl | HO ×42 | WTI |
+|---|---|---|---|
+| 2026-07-15 | 86.23 | 165.83 | 79.60 |
+| **2026-07-29** | **99.08 ← 2-yr HIGH** | 183.54 | 84.46 |
+| 2026-08-04 | 82.59 | 158.36 | 75.77 |
+| 2026-08-12 | **97.50** | 180.77 | 83.27 |
+| **2026-08-13** | **93.16** | 175.46 | 82.30 |
+- **★ THE 30-SESSION DECOMPOSITION IS THE FINDING: crack +6.93, of which the PRODUCT leg contributed
+  +9.63 and the CRUDE leg +2.70.** **The move is in the PRODUCT.**
+- ⚠️ **CALIBRATION ON THE HEADLINE: my 2-yr window puts the high at 99.08 on 7/29, and TODAY IS 93.16 —
+  DOWN $4.34 from yesterday's 97.50.** **The chart shows YESTERDAY.** ⬜ **"Record since 2009" is the
+  chart's claim and I cannot verify it from a 2-year pull** — the level is at the top of MY window.
+- Pre-registered, `war/war-board.md:1762`: *"'the real oil squeeze is happening in REFINERIES' — the
+  vault's crack-spread/refiner thread getting its confirmation cycle. 🚩 **crack spreads = the gauge,
+  not flat price.**"* · `:1760`: **REFINERY-STRIKE PATTERN, 3 countries / 4 days — Jazan (Houthi) · ORSK
+  (Ukrainian strike) · ZAWIYA (drone blaze).** · `:1766`: *"PPI + 30Y **Thursday**. Oil re-firming INTO
+  the inflation prints = the malign-configuration risk."* **Today is that Thursday.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ THIS PARTLY REFUTES WHAT I FILED AT ~8:45am. I told Jake the dovish PPI was a WAR-PREMIUM UNWIND,
+  ⟲ EXTENDS market-fragility.md:L3283 (2026-08-13) — one-legged: the war-premium-unwind read is true for CRUDE and GASOLINE but FALSE for DISTILLATE -- heating oil x42 is 175.46, up +9.63 over 30 sessions vs crude +2.70, with the diesel crack at the top of its 2yr range. The energy deflation is a CONSUMER-fuel story; the industrial fuel never unwound [old entry stays LIVE]
+  citing Brent 112 → 88.** **True for CRUDE and GASOLINE. FALSE for DISTILLATE — heating oil ×42 is
+  175.46 and UP +9.63 over 30 sessions while crude added only +2.70.** ⇒ **THE ENERGY "DEFLATION" IS A
+  CONSUMER-FUEL STORY. The industrial fuel never unwound; it is at the top of its two-year range.**
+  *(Analysis. My framing was one-legged.)*
+- **★★★★★★ AND THAT IS THE CPI-PPI MARGIN SPREAD, IDENTIFIED AT THE COMMODITY LEVEL — the mechanism ZH
+  ASSERTED THIS MORNING WITHOUT NAMING.** **GASOLINE is the CONSUMER fuel and it printed −5.7% in the
+  PPI, keeping the headline cool and feeding CPI. DIESEL is the INDUSTRIAL fuel — freight, rail, ag,
+  construction, mining — and it is at record refining margin, which lands in BUSINESS input costs.**
+  ⇒ **One barrel, two fuels, opposite signs, and the split runs exactly along the consumer/producer
+  line the margin-squeeze thesis predicts.** [[compression-thesis]] *(Analysis.)*
+- **★★★★★★ THE TIMING IS THE DECISIVE PART AND IT MAKES THIS MORNING'S PRINT A REAR-VIEW NUMBER. The
+  July PPI reported DIESEL FUEL FALLING and truck transportation of freight −1.8%. But the crack ran
+  86.23 (7/15) → 99.08 (7/29) → 97.50 (8/12).** ⇒ **THE CRACK SPIKE IS LARGELY OUTSIDE THE JULY
+  REFERENCE PERIOD. It lands in the AUGUST print.** ⇒ **The vault's own registered FORWARD gauge is at
+  the top of its range on the same morning its BACKWARD gauge printed cool. Those are not in conflict —
+  they are two different months.** *(Analysis. This is the strongest single reason not to extrapolate
+  today's dovish headline.)*
+- **★★★★★★ AND IT SHARPENS THE IRAN POINT AGAINST MY OWN 8:45am FRAMING: THE SHOCK ABSORBER IS ALREADY
+  SPENT.** I argued an escalation would put the war premium back into CRUDE. **But if the binding
+  constraint is already REFINING — and `:1760` has refinery strikes in three countries in four days —
+  then an Iran event does not need to move crude much to blow out PRODUCT.** ⇒ **Jake's "all or nothing,
+  decides itself all of a sudden" is MORE dangerous than either of us framed it, because the system's
+  slack was consumed BEFORE the event. A record crack IS the absence of buffer.** *(Analysis.)*
+- **⚠️ AND THE DISCIPLINE, BECAUSE THE TRADE IS NOT A DISCOVERY: THIS VAULT CALLED THE REFINER LEG ON
+  7/28 AND IT HAS ALREADY PAID** — MPC **+209%**, VLO **+202%**, PSX **+107%**, group **+82%**, all at
+  or near 52-week highs. ⇒ **A record crack with the refiners at highs is a CONFIRMED thesis, not a new
+  one. Rule 7 — descriptive; the position question is Jake's.** *(Analysis.)*
+- **⚠️ AND TODAY'S −$4.34 MATTERS FOR THE SAME REASON THE CHART DOES NOT: a record printed YESTERDAY and
+  a −4% day today is exactly the tape that produces "hits record high" headlines at local tops.** ⬜
+  **One session is not a turn; the 7/29 high at 99.08 has not been exceeded on my series.**
+
+#### 📌 REGISTERED
+1. 🚩 **DIESEL CRACK vs the AUGUST PPI energy line** — the forward gauge against the backward one, one
+   month out. **This is the cleanest dated test in the macro thread right now.**
+2. 🚩 **DISTILLATE INVENTORIES (EIA weekly)** — a record crack with LOW distillate stocks is a physical
+   shortage; with normal stocks it is a refining-margin story. **Different implications, one number.**
+3. ⬜ Grade `war-board:1766`'s "malign configuration" call: oil re-firmed into the prints, and the July
+   data came COOL anyway. **The configuration did not fire on this release.**
+**Links:** [[war/war-board]] · [[new-economy-regime]] · [[compression-thesis]] · [[demand-destruction]] · [[market-fragility]]
