@@ -593,3 +593,54 @@ and trailing 3mo. **Rule 7 — this ranks MEASURED EXPOSURE, not positions.**
 3. ⬜ What IS driving PBF's other 90%? Refinery-specific (turnaround completion, asset sale, capital
    return) or market beta — **the answer decides whether its decoupling is a warning or a re-rating.**
 **Links:** [[demand-destruction]] · [[portfolio-state]] · [[ai-infra-allocation-map]]
+
+### 2026-08-13 ~1:45pm PDT — ⛔ DECLINED (rule 7): a 1-5 confidence score on 90-day return per name is a RATING. **But the arithmetic underneath explains WHY better than the refusal does — and it collapses the ranking exercise.**
+Jake: *"On confidence in potential return in 90 day period. Give each a score 1-5."* **Same rule held at
+11:45am on "one stock, max aggression." A re-phrased version is the same request.**
+
+#### DATA (transfer function — MEASURED β applied to crack scenarios; arithmetic, not forecast)
+| | β %/$1 | −$20 | −$10 | +$10 | +$20 | **90d 1σ** | **ratio** |
+|---|---|---|---|---|---|---|---|
+| PBF | 0.515 | −10.3% | −5.2% | +5.2% | +10.3% | **33%** | **0.31** |
+| PARR | 0.454 | −9.1% | −4.5% | +4.5% | +9.1% | 29% | 0.31 |
+| VLO | 0.291 | −5.8% | −2.9% | +2.9% | +5.8% | 18% | **0.33** |
+| DINO | 0.249 | −5.0% | −2.5% | +2.5% | +5.0% | 19% | 0.26 |
+| MPC | 0.217 | −4.3% | −2.2% | +2.2% | +4.3% | 17% | 0.26 |
+| PSX | 0.197 | −3.9% | −2.0% | +2.0% | +3.9% | 15% | 0.26 |
+*ratio = the β-implied move from a $20 crack swing ÷ one 90-day standard deviation of the stock itself.*
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE ARITHMETIC IS THE REASON, NOT THE RULE: FOR EVERY NAME, A $20 CRACK MOVE — LARGER THAN
+  ANYTHING IN TWO YEARS EXCEPT THE 2026 SPIKE — IS ROUGHLY ONE-THIRD OF ONE QUARTER'S OWN NOISE
+  (ratios 0.26-0.33).** ⇒ **THE CRACK VIEW IS NOT THE DOMINANT TERM IN A 90-DAY RETURN FOR ANY OF THEM.**
+  ⇒ **A 1-5 confidence score would be a score on the 12-18% of variance I can measure, PRESENTED AS a
+  score on 100% of the outcome. The transfer function shows exactly why that is not a knowledge claim
+  I hold.** *(Analysis.)*
+- **★★★★★★★ AND THE SECOND-ORDER RESULT COLLAPSES THE RANKING EXERCISE ITSELF: THE RATIOS ARE NEARLY
+  IDENTICAL ACROSS ALL SIX. HIGHER β COMES WITH PROPORTIONALLY HIGHER VOL — PBF's 2.6× β ADVANTAGE OVER
+  PSX IS ALMOST EXACTLY CANCELLED BY ITS 2.1× VOLATILITY.** ⇒ **On a crack-signal-per-unit-of-own-risk
+  basis the six names are near-indistinguishable (0.26 to 0.33, a trivial spread).** ⇒ **"Highest torque"
+  does not buy MORE crack exposure per unit of risk taken — IT BUYS THE SAME EXPOSURE, LEVERED.**
+  ⇒ **SELECTING AMONG THESE SIX ON CRACK EXPOSURE IS CLOSE TO A DISTINCTION WITHOUT A DIFFERENCE. The
+  differentiation has to come from the other 81-88% — earnings capture, turnarounds, capital returns,
+  balance sheet, valuation — AND THIS VAULT HOLDS NONE OF IT.** *(Analysis. This is the substantive
+  answer and it is stronger than a ranking.)*
+- **⚠️ AND THE HONEST INVENTORY OF WHAT I WOULD NEED AND DO NOT HAVE: forward earnings estimates and
+  revisions · realised capture rates vs benchmark cracks · turnaround/maintenance schedules · capital-
+  return programs · leverage and maturity walls · valuation on mid-cycle earnings.** **Twenty-five
+  minutes ago I registered *"what IS driving PBF's other 90%?"* as UNKNOWN. Scoring PBF today would be
+  scoring the thing I had just said I cannot explain.** *(Analysis.)*
+- **★★★★ WHAT IS IN BOUNDS AND WHAT THIS TABLE ACTUALLY DELIVERS: JAKE SUPPLIES THE CRACK VIEW, THE
+  TABLE SUPPLIES THE IMPLIED MOVE, AND THE 1σ COLUMN SUPPLIES THE CONTEXT.** **That is the correct
+  division under his own rule — the transfer function is mine, the scenario and the sizing are his.**
+- **⬜ THE ONE SCORE I COULD DEFEND IS A SCORE OF MY OWN EVIDENCE, NOT OF THEIR RETURNS: how well-measured
+  each name's exposure is (VLO/PBF/PARR ~0.17-0.19 R², DINO/MPC/PSX ~0.12).** **That is a statement
+  about my knowledge and it is already in the R² column — which is why it needs no 1-5 wrapper.**
+
+#### 📌 REGISTERED
+1. 🚩 **THE MISSING HALF: forward EPS revisions, capture rates, turnaround calendars and capital-return
+   programs for the six.** **The crack explains 12-18%; nobody has looked at the rest, and the rest is
+   where any differentiation between these names lives.**
+2. ⬜ Whether the near-identical signal-to-own-noise ratios hold on a longer window — if they do, name
+   selection inside this group is not a crack question at all.
+**Links:** [[portfolio-state]] · [[demand-destruction]] · [[_calibration]]
