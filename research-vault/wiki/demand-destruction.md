@@ -3380,6 +3380,7 @@ EO = executive order; SPR = Strategic Petroleum Reserve.
 **Links:** [[war-board]] · [[oil-value-chain]] · [[buildout-bottleneck-map]] · [[new-economy-regime]]
 
 ## 2026-08-05 ~8:40am PDT — ★★★ SPR 3.05 MILLION BARRELS — the registered "SPR empty" line gets its terminal number, and the jawboning-only regime starts on a countdown
+  ⟲ SUPERSEDED 2026-08-13 → demand-destruction.md:L3514 — SPR IS WRONG BY ~100x: actual 298.7 MILLION bbl (EIA w/e 2026-08-07), not 3.05 million. ~15 days of consumption, not 4 hours; ~49-71 weeks to zero at recent pace, not one week. Units/decimal slip -- 3.05 x 100 = 305, close to the 304.8M that printed 7/31
 
 Source: EIA weekly via Jake paste (~8:15am ET data). **FIRST-USE:** SPR = Strategic Petroleum Reserve.
 
@@ -3510,3 +3511,50 @@ around it is not.**
    actually is.
 4. ⬜ Reconcile the IEA 1.8 mmbpd deficit against the US build — regional vs global, not a net.
 **Links:** [[oil-value-chain]] · [[war/war-board]] · [[market-fragility]] · [[new-economy-regime]]
+
+### 2026-08-13 ~12:55pm PDT — ⛔⛔⛔⛔ **THE SPR NUMBER IN THIS NOTE IS WRONG BY A FACTOR OF ~100, AND I BUILT THIS MORNING'S HEADLINE SYNTHESIS ON IT.** Actual: 298.7 MILLION barrels, not 3.05 million.
+  ⟲ SUPERSEDES demand-destruction.md:L3382 — SPR IS WRONG BY ~100x: actual 298.7 MILLION bbl (EIA w/e 2026-08-07), not 3.05 million. ~15 days of consumption, not 4 hours; ~49-71 weeks to zero at recent pace, not one week. Units/decimal slip -- 3.05 x 100 = 305, close to the 304.8M that printed 7/31
+Found by a Tier-1 fetch agent that pulled EIA's own `highlights.pdf` and raw `dnav` series directly
+(WCSSTUS1) rather than trusting a summarizer. **Cross-confirmed by seven outlets independently.**
+
+#### DATA (MEASURED — EIA WPSR, week ending 2026-08-07, released 2026-08-12)
+| | vault said (8/5) | **ACTUAL** | error |
+|---|---|---|---|
+| **SPR level** | **3.05 million bbl** | **298.7 MILLION bbl** (298,694 Mbbl) | **~100×** |
+| implied cover | "≈4 HOURS of US consumption" | **~15 DAYS at ~20 mmb/d** | — |
+| exhaustion | "literal zero in ~1 week" | **~49-71 weeks at recent pace** | — |
+- **SPR −6.1M bbl on the week** (prior 304.8M). **−25.9% y/y from 403.2M.**
+- **★ FIRST TIME BELOW 300 MILLION SINCE JANUARY 1983** — REPORTED, seven outlets agreeing on
+  298.7M/−6.1M (CNBC, The Hill, OPIS/Dow Jones, SupplyChainBrain, Yahoo, 247wallst, qz).
+- Background: **172M-bbl release authorized March 2026** after the Hormuz crisis; SPR was **~415M before
+  the 2026-02-28 strikes.**
+- Recent weekly draws: 3.0 / 5.1 / 3.8 / 2.8 / **6.1** M bbl (avg ≈4.2M/wk).
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔⛔ THE ERROR IS A UNITS/DECIMAL SLIP AND ITS SIGNATURE IS OBVIOUS IN HINDSIGHT: 3.05 × 100 ≈ 305,
+  which is almost exactly the 304.8M that printed on 7/31.** **The 8/5 entry read a 305-ish number and
+  wrote 3.05 million.** ⟲ superseding `:L3382`. *(Analysis.)*
+- **⛔⛔⛔ AND I PROPAGATED IT AS A LOAD-BEARING FACT THIS MORNING WITHOUT CHECKING IT.** At ~9:00am I
+  filed *"FOUR SHOCK ABSORBERS, ALL SPENT"* with the SPR as absorber #1, quoting **"≈4 HOURS of US
+  consumption, operationally ZERO."** **The real figure is ~15 days of total consumption and a 43-year
+  low — serious, but not remotely the same claim.** ⇒ **A synthesis is only as good as its weakest
+  input, and I never audited the input because it was already in the vault.** **THE ROUTER MAKES ME
+  CONSULT THE VAULT; NOTHING MAKES ME AUDIT IT. That is the gap.** *(Analysis.)*
+- **★★★★★ WHAT SURVIVES, AND IT IS STILL A REAL FACT: THE SPR IS AT A 43-YEAR LOW, DOWN 26% YEAR ON YEAR,
+  AND DRAWING ~4-6 MILLION BARRELS A WEEK.** **Below 300M for the first time since Jan-1983, after a
+  172M-bbl crisis release.** ⇒ **The direction and the historic level are intact; the URGENCY was
+  fabricated by a decimal.** **"The buffer is thinning fast" is true. "The buffer is gone next week" was
+  never true.** *(Analysis.)*
+- **⚠️ AND THE CORRECTED NUMBER WEAKENS MY 9:00am CONVEXITY ARGUMENT ON ONE LEG WHILE LEAVING THE OTHERS.
+  A 15-day strategic buffer plus a commercial crude build of 17.4M bbl is a real cushion on the CRUDE
+  leg.** ⇒ **The buffer-exhaustion claim now applies to PRODUCT (distillate −12% vs 5-yr) and to
+  positioning — NOT to crude, on either the strategic or commercial side.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. ⚠️⚠️ **AUDIT PASS ON EVERY LARGE ROUND NUMBER FILED IN THE LAST 30 DAYS.** **A 100× error survived
+   eight days and got used in a headline synthesis. If one units slip got through, the base rate for
+   others is not zero.** 🚩 **Highest-priority housekeeping item in the vault.**
+2. ⬜ **Where did the 8/5 figure come from** — Jake's paste, or my transcription of it? The 8/5 entry
+   says "EIA weekly via Jake paste (~8:15am ET data)." **Determines whether this is a read error or a
+   relay error, and they need different fixes.**
+**Links:** [[oil-value-chain]] · [[war/war-board]] · [[power-not-petroleum]]

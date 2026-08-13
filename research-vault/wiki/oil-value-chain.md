@@ -440,3 +440,92 @@ Ranking: VLO (cleanest) · MPC (highest-quality core) · PBF (highest torque) ·
    only one requiring no geopolitical change.
 4. ⬜ Russian refinery runs / product export volumes — his premise #4, also unverified here.
 **Links:** [[demand-destruction]] · [[war/war-board]] · [[power-not-petroleum]] · [[portfolio-state]]
+
+### 2026-08-13 ~12:25pm PDT — 📡 FETCH #1 BACK (global product supply): **JAKE'S PREMISE #4 IS UNDERSTATED, NOT JUST CONFIRMED — and MY OWN China break-condition is largely refuted**
+Source: Tier-1 subagent sweep (rule 19), 56 tool calls. ⚠️ **Every figure carries a source grade and an
+interest flag; access failures logged.**
+
+#### DATA — RUSSIA (premise #4)
+- **Refinery throughput 3.6-4.1 mmb/d, June-July 2026 — "lowest since 2002-2005."** Seasonal norm for
+  July 2020-25: **5.3-5.6 mmb/d.** ⇒ **~ONE-THIRD BELOW NORM.** *(REPORTED — EA Analytics/Bloomberg, FT.)*
+- **Diesel+gasoil exports ~580 kb/d June 2026**, from a prior steady **900k-1,000 kb/d** run rate. *(KSE
+  — ⚠️ Ukrainian institution, interested party.)*
+- **⚠️⚠️ THE HEADLINE NUMBER AND THE WEAKEST-SOURCED ONE: diesel+gasoil exports 80,000 b/d in the first
+  7 days of August vs >1 million b/d at end-2025** *(Bloomberg 8/13 — **403 on full fetch, search-index
+  only, NOT primary-verified**).* **Do not build on this without a re-fetch.**
+- **CAPACITY OFFLINE — AND THE SPREAD IS THE FINDING: IEA (neutral) says ">20% knocked offline." Ukrainian
+  General Staff / KSE (interested) say 42.7-43%.** ⇒ **THE NEUTRAL SOURCE SAYS HALF WHAT THE INTERESTED
+  ONE DOES.** *(Rule 9, live.)*
+- **30 ATTACKS ON RUSSIAN OIL INFRASTRUCTURE IN JULY 2026, 18 REFINERIES TARGETED — second-highest month
+  on record.** **TODAY 8/13: Gazprom Neftekhim Salavat (10 Mt/yr) struck — 4th attack in 3 days.**
+  **Orsk fully shut 8/11-13; the governor says repairs could take SIX MONTHS.** KINEF (20 Mt/yr) offline
+  since 5/5; Moscow refinery expected offline into 2027.
+- **RUSSIAN DIESEL EXPORT BAN in force since 2026-07-08, extended through 2027-01-31**, with a September
+  carve-out letting refineries (not retailers) export.
+
+#### DATA — CHINA (my break-condition)
+- **2026 cumulative export quota: 32 Mt across two batches = +0.6% y/y. ESSENTIALLY FLAT.**
+- **H1-2026 total product exports −13.2% y/y; diesel YTD −3.5% y/y.** Beijing imposed **EXTRA
+  administrative export restrictions in mid-March 2026.**
+- ⚠️ **The inflection is real but small: June diesel +27.3% y/y** (the only category rising), total
+  products **+29.4% m/m**; August curbs eased to 2.7 Mt (~3.6-3.7 Mt incl. HK/jet).
+- **CRUDE IMPORTS — the Jefferies claim, verified: peak ~12.0 mmb/d (Dec-25/Feb-26) → June 29.27 Mt
+  (≈7.1-7.2 mmb/d, LOWEST SINCE OCT 2016) → July 35.73 Mt = 8.45 mmb/d, +22% m/m.** ⇒ **downshift
+  ~4.8-4.9 mmb/d (vs "~5" claimed ✓); recovery +1.3 mmb/d (vs "~1" claimed — FASTER than reported).**
+  ⚠️ **The "~11 mmb/d five-year average" is NOT FOUND as a stated statistic** (anchors: 2024 = 11.1,
+  2025 = 11.55-11.6, a record).
+
+#### DATA — INVENTORIES (the discriminator, European/Asian leg)
+- **ARA GASOIL 11.19 MILLION BBL early August, −1.05mb (−9%) vs the July average — "LOWEST IN JUST OVER
+  FOUR YEARS."** ARA gasoil imports rose to 228 kb/d from 119 kb/d in June (US 23%, Sweden 21%).
+- **SINGAPORE MIDDLE DISTILLATES 7.34mb early August, −15% month-to-date.**
+- ⚠️ **No numeric five-year average found for either — the "lowest in four years" framing is qualitative.**
+
+#### DATA — CAPACITY RELIEF (premise #2, extended globally)
+- **Most large relief ALREADY LANDED in 2024-25** (Al-Zour 615kb/d full since Jun-2024; Ruwais +140kb/d;
+  Yulong 400kb/d phased) — **embedded in baseline, not forward relief.**
+- **⭐ DANGOTE'S SECOND 700kb/d CDU: MECHANICAL COMPLETION END-2028** — outside the window entirely.
+  **And its JULY 2026 UNPLANNED OUTAGE cut throughput to 350-400 kb/d from ~700 kb/d — a ~40 kb/d GASOIL
+  SHORTFALL vs plan.** ⇒ **The near-term Dangote effect was a REDUCTION in relief, not an addition.**
+- **IEA: "SPARSE ADDITIONS FROM 2027 ONWARD."** Iran (+1.5 mmb/d) and Iraq (+1.2 mmb/d) plans both face
+  financing/delay problems, no confirmed dates.
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ PREMISE #4 IS UNDERSTATED, NOT MERELY CONFIRMED — AND IT IS DETERIORATING TODAY.** Jake said
+  "Russia heavily impaired." **Throughput is a third below its seasonal norm, at a 20-24 year low, and
+  four strikes landed in the last three days including one this morning.** ⇒ **This is not a static
+  impairment priced into a curve; it is an ongoing campaign with a rising monthly attack count.**
+- **⛔⛔ AND MY OWN CHINA BREAK-CONDITION, FILED 25 MINUTES AGO, IS LARGELY REFUTED. I WROTE THAT IT
+  "NEEDS NO GEOPOLITICAL RESOLUTION, ONLY ARBITRAGE." THAT IS WRONG: CHINESE PRODUCT EXPORTS ARE
+  QUOTA-GATED, AND THE 2026 QUOTA IS +0.6% Y/Y.** **China cannot arbitrage the crack even if the
+  economics scream — it needs a Beijing quota decision, and Beijing spent March-June TIGHTENING.**
+  ⇒ **The channel is real but ADMINISTRATIVE and DISCRETIONARY, which makes it slower and less
+  predictable than I framed it — but ALSO means it can arrive as a single policy announcement rather
+  than a gradual response.** **Weaker as a base case, still live as a tail.** *(Analysis. My addition,
+  corrected within half an hour.)*
+- **★★★★★★ AND THE CAPACITY FINDING IS THE STRONGEST SUPPORT HIS THESIS RECEIVED TODAY, FROM A DIRECTION
+  NEITHER OF US HAD: THERE IS ESSENTIALLY NO NEW GLOBAL REFINING CAPACITY ARRIVING IN THE NEXT 6-12
+  MONTHS.** **His premise #2 was about US utilization at the mid-90s ceiling. The global picture is the
+  same and worse — the relief already landed in 2024-25, Dangote's next unit is END-2028, and the IEA's
+  own framing is "sparse additions from 2027."** **Plus Dangote's July outage made the near term
+  tighter, not looser.** ⇒ **The supply-response argument against a sustained crack is materially weaker
+  than a reasonable prior would assume.** *(Analysis.)*
+- **★★★★★ AND THE DISCRIMINATOR IS ANSWERING IN HIS FAVOUR ON THE LEG WE HAVE: ARA GASOIL AT A FOUR-YEAR
+  LOW AND DRAWING 9% IN A MONTH; SINGAPORE −15% MONTH-TO-DATE.** ⇒ **Record crack + drawing stocks = the
+  PHYSICAL-SHORTAGE branch, not the margin-story branch.** ⚠️ **The US leg (EIA weekly) is still out, and
+  no numeric five-year band was obtained for either — "four-year low" is a qualitative framing.**
+- **⚠️⚠️ THE DISCIPLINE, AND IT CUTS AT THE MOST DRAMATIC NUMBER: THE 80,000 b/d RUSSIAN DIESEL FIGURE IS
+  THE WEAKEST-SOURCED ITEM IN THE WHOLE DIGEST** — Bloomberg, 403 on the full fetch, relayed from a
+  search index. **It is also the single most quotable number here, which is exactly the combination that
+  produces a vault error.** ⬜ **Re-fetch before it is used.** **And the capacity-offline spread — IEA
+  >20% vs Ukrainian 43% — should be quoted at the IEA number unless the higher one can be sourced
+  neutrally.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩 **RE-FETCH the Bloomberg Russian diesel-export figure from primary text.** Highest quotability ×
+   lowest verification = the vault's classic failure shape.
+2. 🚩 **CHINESE Q3/Q4 EXPORT QUOTA BATCH 3** — the policy lever. **A step-change there IS the break, and
+   it would arrive as an announcement, not a trend.**
+3. ⬜ Numeric 5-year bands for ARA gasoil and Singapore middle distillates — the qualitative "four-year
+   low" is not gradeable against the vault's own discriminator test.
+**Links:** [[demand-destruction]] · [[war/war-board]] · [[power-not-petroleum]]

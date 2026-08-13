@@ -3262,6 +3262,7 @@ independently verified.**
   **BOTH CLEARED. BOTH REPRICED.** ⇒ **"Money keeps moving" is not a binary — it is a PRICE, and the
   price is the signal he asked for.** *(Analysis.)*
 - **★★★★★★★ AND IT REPRINTS A CONFIGURATION THE VAULT ALREADY NAMED: THE 7/29 CURVE FORK —
+  ⟲ SUPERSEDED 2026-08-13 → new-economy-regime.md:L3359 — REFUTED by the real/breakeven split: the nominal move is fully or more-than-fully explained by REAL yields at both tenors, and breakevens are flat-to-FALLING (30Y -4bp/3m, 10Y -21bp/3m). This is a term-premium/fiscal-supply regime, not inflation tolerance. ACM 10Y term premium +13bp/1m corroborates
   "2Y DOWN + 10Y/30Y UP = INFLATION-TOLERANCE STEEPENING"** (`predictions/2026-07-30-fed-hike-before-december.md`,
   case-against #2). **TODAY, INSIDE ONE SESSION: hike expectations fell on a cool PPI while the 30Y
   cleared at the highest yield in 25 years.** ⇒ **NOT A CONTRADICTION. The front end is pricing LESS
@@ -3355,3 +3356,60 @@ term-premium risk deserves a higher price even when near-term inflation data is 
 2. 🚩 **NEXT REFUNDING: does the BEAT/MET/MISSED ladder repeat?** One week is a shape; two is a regime.
 3. ⬜ 30Y month-over-month +15.8bp — track the monthly stop, not the daily yield.
 **Links:** [[market-fragility]] · [[ai-financing-fragility]] · [[cepi]] · [[_calibration]]
+
+### 2026-08-13 ~12:55pm PDT — ⛔ **THE 30Y SPLIT ANSWERS THE TOP MACRO ITEM AND IT REFUTES MY INFLATION-TOLERANCE READ: IT IS ALL REAL YIELDS. BREAKEVENS ARE FALLING.**
+  ⟲ SUPERSEDES new-economy-regime.md:L3264 — REFUTED by the real/breakeven split: the nominal move is fully or more-than-fully explained by REAL yields at both tenors, and breakevens are flat-to-FALLING (30Y -4bp/3m, 10Y -21bp/3m). This is a term-premium/fiscal-supply regime, not inflation tolerance. ACM 10Y term premium +13bp/1m corroborates
+Source: Tier-1 agent — Treasury.gov daily real/par curves + FRED + NY Fed ACM, cross-reconciled.
+⚠️ **Data-quality note the agent got RIGHT and this vault has been burned on: FRED was REACHABLE. `T30YIE`
+returned 404 = WRONG SERIES NAME (the monthly `T30YIEM` exists); CME returned 403 = BOT BLOCK. Both
+distinguished from timeouts explicitly.** And: **an initial WebSearch synthesis returned self-contradictory
+FedWatch numbers and was DISCARDED as likely hallucinated** — it does not appear below.
+
+#### DATA (MEASURED — as of 2026-08-12 unless noted)
+| | current | Δ1m | Δ3m |
+|---|---|---|---|
+| **30Y REAL yield** | **2.99%** | **+10bp** | **+25bp** |
+| **30Y BREAKEVEN** | **2.25%** | **+4bp** | **−4bp** |
+| **10Y REAL yield** | **2.42%** | **+6bp** | **+43bp** |
+| **10Y BREAKEVEN** | **2.26%** | **0bp** | **−21bp** |
+| 30Y nominal | 5.24% | +14bp | +21bp |
+| 10Y nominal | 4.68% | +6bp | +22bp |
+| 2Y nominal | 4.20% | −6bp | +22bp |
+| 2s30s | 1.04 | +20bp | −1bp |
+| **NY Fed ACM 10Y term premium** | **0.78%** (8/7) | **+13bp** | **+12bp** |
+- **Auction verified from the TreasuryDirect result PDF (CUSIP 912810UW6): high yield 5.216%, BTC 2.39.**
+- **Sept-2026 FOMC: 67% hold / 33% HIKE / 0% cut. ~0.89 hikes priced cumulatively by December. ZERO
+  probability mass on ANY cut at ANY remaining 2026 meeting.** *(REPORTED — investing.com relaying CME
+  futures; cmegroup.com itself 403-blocked.)*
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ CONCEDED: MY 11:00am "INFLATION-TOLERANCE STEEPENING" READ IS REFUTED. THE NOMINAL MOVE IS FULLY
+  OR MORE-THAN-FULLY EXPLAINED BY REAL YIELDS AT BOTH TENORS, AND BREAKEVENS ARE FLAT-TO-FALLING —
+  30Y breakeven −4bp over 3 months, 10Y breakeven −21bp.** **At the 10Y the real move (+43bp) is DOUBLE
+  the nominal (+22bp), i.e. falling inflation compensation partially OFFSET a larger real move.**
+  ⇒ **The market is NOT pricing a Fed that tolerates inflation. It is pricing higher REAL rates —
+  term premium and fiscal supply.** **ACM term premium +13bp/1m and +12bp/3m corroborates independently.**
+  *(Analysis. And the arithmetic reconciles exactly at every point — real + breakeven = nominal.)*
+- **★★★★★★ AND THIS IS THE BENIGN BRANCH ON THE INFLATION AXIS AND THE WORSE ONE ON THE DISCOUNT-RATE
+  AXIS — WHICH MEANS MY AI-BUILDOUT ARGUMENT SURVIVES AND STRENGTHENS.** **A rising REAL rate is exactly
+  what raises the discount rate on long-dated cash flows, and it does so without any inflation
+  offset to revenues.** ⇒ **Nominal contracted cash flows discounted at a higher REAL rate is strictly
+  worse for the buildout than the same nominal move driven by inflation, because inflation would at
+  least lift nominal revenue.** ⇒ **The 11:00am conclusion ("you don't need a Fed hike to break the
+  financing math") is correct for a better reason than I gave.** *(Analysis.)*
+- **★★★★★ AND JAKE WAS RIGHT ON THE FED, FOR THE THIRD CHECK: 33% for September, ~0.89 HIKES PRICED FOR
+  ALL OF 2026.** ⇒ *"Hike odds low"* is fair. **My "a coin flip is not low" pushback used the top of a
+  venue-dependent range against a full-year framing.** ⚠️ **What survives: ZERO cuts priced at any 2026
+  meeting, and cumulative hike-pricing RISING through year-end — a hawkish tilt, but not the driver of
+  the long-end move.** *(Analysis.)*
+- **⚠️ AND THE DISCRIMINATOR CUTS BOTH WAYS ON THE BEAR CASE. Real-yield steepening with FALLING
+  breakevens is ALSO the signature of a market pricing GROWTH and heavy issuance — not stress.**
+  ⇒ **The 9:00am "buffers spent / convexity" framing gets no support here.** **This is a supply-and-real-
+  rates regime, and on the inflation axis specifically the data went the OTHER way from every narrative
+  in this vault today.** *(Analysis.)*
+#### 📌 REGISTERED
+1. ✅ **CLOSED: the 30Y move is REAL-YIELD driven. Breakevens falling at both tenors over 3 months.**
+2. 🚩 **ACM 10Y term premium, weekly** — the cleanest single gauge of the mechanism now identified.
+   **NOTE: ACM publishes 1-10yr ONLY; there is NO 30Y term-premium series.**
+3. ⬜ Re-verify Sept hike odds from CME directly when the 403 clears — current figure is secondary.
+**Links:** [[market-fragility]] · [[ai-financing-fragility]] · [[cepi]]

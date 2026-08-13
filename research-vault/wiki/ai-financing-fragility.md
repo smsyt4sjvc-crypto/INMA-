@@ -5457,6 +5457,7 @@ way he characterised it.**
 - **⚠️ RULE 9, APPLIED WITHOUT PEDANTRY BECAUSE HE APPLIED IT FIRST: "IMPLIED PRETTY CLEARLY" IS THE
   ⟲ EXTENDS ai-financing-fragility.md:L5411 (2026-08-13) — DOWNGRADED finding -> hypothesis: the loop rests on a paraphrase of an impression (Jake flagged it himself), and CRWV's DISCLOSED counterparties (Anthropic, Jane Street) are the opposite of capital-constrained. Survives because the A100 is COLLATERAL not cash flow -- it bites in liquidation, which is exactly when the correlation fires [old entry stays LIVE]
   WEAKEST RUNG ON THE LADDER, AND I BUILT A STRONG CONCLUSION ON IT TWENTY MINUTES AGO.** The funding-loop
+    ⟲ SUPERSEDED 2026-08-13 → ai-financing-fragility.md:L5560 — the segmentation claim is NOT unobservable: CRWV 10-Q Q2'26 discloses 72% named (A 36/B 26/C 10), residual 28%; FY25 10-K names Microsoft at 67%. NBIS residual is 60%. The long tail is sized
   finding (`:L5399` — collateral and tenant funded by one cycle) **currently rests on a paraphrase of an
   impression.** ⇒ **It does not fall, but it is DOWNGRADED from a finding to a HYPOTHESIS until the tenant
   mix is observed.** *(Analysis.)*
@@ -5558,6 +5559,7 @@ buy.' So I misquoted a Wall Street Journal narrative."* **His correction, unprom
   CONTENT; it is much weaker in STANDING.** **My funding-loop hypothesis (`:L5411`) was partly propped by
   "even Huang says so." That leg is gone.** *(Analysis.)*
 - **★★★★★★ BUT THE LINE SUPPORTS SOMETHING LARGER THAN WHAT IT WAS REACHED FOR, AND IT IS THIS NOTE'S
+  ⟲ SUPERSEDES ai-financing-fragility.md:L5459 — the segmentation claim is NOT unobservable: CRWV 10-Q Q2'26 discloses 72% named (A 36/B 26/C 10), residual 28%; FY25 10-K names Microsoft at 67%. NBIS residual is 60%. The long tail is sized
   FOUNDING THESIS: "MANY OF HIS CUSTOMERS CAN'T AFFORD TO BUY" IS NOT A CLAIM ABOUT THE A100 SECONDARY
   MARKET AT ALL. IT IS THE VENDOR-FINANCING THESIS.** **If customers cannot afford to buy, the vendor
   must finance the purchase — that is the definition.** ⇒ **The WSJ is stating publicly, this week, that
@@ -5589,3 +5591,171 @@ buy.' So I misquoted a Wall Street Journal narrative."* **His correction, unprom
 2. 🚩 CRWV + NBIS customer-concentration disclosure (was #1; still the test of "fungible across users").
 3. ⬜ The WSJ piece itself — ⚠️ **rule 8: I have a one-line paraphrase of it, not the article.**
 **Links:** [[cepi]] · [[balance-sheet-board]] · [[metered-compute]] · [[market-fragility]]
+
+### 2026-08-13 ~12:52pm PDT — ★★★★★★★ **THE IDENTITY RESOLVES, AND IT RESOLVES AGAINST THE HIGH-RATE BRANCH.** Plus the depreciation number this thread hunted all night — disclosed by the CFO in FEBRUARY: **prior-generation contracts rolling at ~10% of original ASP.**
+Source: Tier-1 fetch agent, 78 tool calls, primary filings + transcripts pulled and text-extracted
+directly (SEC 8-K exhibits, 10-Q, 10-K, 20-F, call PDFs). ⚠️ **Grades and conflation warnings preserved.**
+
+#### DATA (MEASURED unless noted)
+- **⭐ CRWV ACTIVE POWER, the free variable — 8-K press releases, quarter by quarter:**
+  **Q2'25 470 MW · Q3'25 590 · Q4'25 850 · Q1'26 1,000 · Q2'26 1,500 MW.** CFO verbatim: *"we ended Q2
+  with 1.5 gigawatts of active power, adding close to 500 megawatts in the quarter alone… in June, we
+  brought on more than 300 megawatts."* ⚠️ **Non-GAAP operating KPI — zero hits for "active power" in the
+  10-Q.** Contracted power 3.7 GW at quarter-end → 4.2 GW as of 8/11. FY26 exit guide raised to **>1.85 GW**.
+- **⭐ CUSTOMER CONCENTRATION — CRWV 10-Q Q2'26: Customer A 36% · B 26% · C 10% = 72% NAMED, RESIDUAL 28%.**
+  **FY25 10-K, audited, and it NAMES the customer: *"approximately 67% of our revenue from our top
+  customer, MICROSOFT, for the year ended December 31, 2025"*; FY24 top two 77%; FY23 top three 73%.**
+  ⚠️ The 10-Q's own caveat: *"Customer references A through D may represent different customers than
+  those reported in a previous period."*
+- **NBIS 20-F FY25: Customer A 25% · B 15% ⇒ RESIDUAL 60% — nearly DOUBLE CRWV's 33% (FY25).**
+- **⭐⭐ THE DEPRECIATION NUMBER, Q4'25 CALL (2026-02-26), CFO Agrawal VERBATIM: *"for Hoppers, we are
+  continuing to see incremental demand and demand of RE-CONTRACTING THOSE HOPPERS AT ABOUT 10% OF THE
+  ORIGINAL ASPs WHEN THEY WERE FIRST CONTRACTED, to A100s where the ASPs are actually increasing as we
+  write newer contracts."***
+- **⚠️⚠️ THE CONFLATION TRAP, flagged by the agent and it is a real one: *"average H100 pricing in Q4 was
+  within 10% of where it started the year"* (≈FLAT during 2025) IS A DIFFERENT METRIC from *"re-contracting
+  those Hoppers at about 10% of the ORIGINAL ASPs"* (≈−90% from original). BOTH ARE CFO-SOURCED. THEY
+  ANSWER DIFFERENT QUESTIONS.**
+- **The A100 line, verbatim and NOT what was relayed: *"we recently SIGNED an A100 contract that extends
+  into 2029 at an attractive price."* SIGNED — not "recontracted."** ⇒ ⛔ **my 8/12 ~11:00pm reading of
+  "RECONTRACTED = a roll" was built on a paraphrase. No dollar figure, $/GPU-hr or % was ever given.**
+- **⭐ DEBT LADDER (10-Q Note 10, $M): rest-2026 4,413 · 2027 6,184 · 2028 4,416 · 2029 2,421 · 2030
+  3,221 · thereafter 14,896 · TOTAL 35,551.** Per-facility rates: **DDTL1.0 15% · DDTL2.0 11% · DDTL2.1
+  9% · DDTL3.0 9% · 2030 notes 10% · 2031 notes 9.75% · 2032 notes 9.625%.**
+- **The $2.6B facility = DDTL 5.5, a SUBSEQUENT EVENT (entered August 2026, after quarter-end): SOFR +
+  5.50%, matures Sep-2031, $1.2B drawn immediately, JPMorgan-led.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★★ THE PRICE×QUANTITY IDENTITY FROM 8/12 ~9:55pm IS NOW SOLVED. I wrote: *"CRWV realises ~$2.70
+  only if its active fleet is 460-670 MW; if the fleet is ~1 GW+, the realised rate is at or below the
+  $1.29 index."* THE FLEET IS 1,500 MW AT EXIT AND ~1,000-1,250 MW ON AVERAGE** (the ramp was
+  back-loaded — 300+ of the 500 MW landed in June). **IMPLIED REALISED RATE: $0.79-$1.81/GPU-hr across
+  650-1,200 GPU/MW.** ⇒ **AT OR BELOW THE INDEX. NOWHERE NEAR THE $2.70 RACK RATE.** **And revenue
+  INCLUDES storage, networking and managed inference, so the GPU-only rate is LOWER still.**
+  ⇒ **THE SECOND BRANCH. "An attractive price" was attractive to the BUYER.** *(Analysis.)*
+- **★★★★★★★ AND THE ~10%-OF-ORIGINAL-ASP LINE IS THE DEPRECIATION CLIFF, MEASURED, BY THE OPERATOR, AND
+  DISCLOSED SIX MONTHS AGO. A HOPPER CONTRACT SIGNED AT 2023 PEAK ROLLS AT ROUGHLY ONE-TENTH OF ITS
+  ORIGINAL PRICE.** ⇒ **−90% AT ROLL.** **This vault spent an entire night deriving bandwidth parities,
+  socket economics and substitution cliffs to estimate a number the CFO had already stated.** ⇒ **Fourth
+  retrieval failure of the session, and the worst: the answer was in a transcript, in the public domain,
+  since February.** *(Analysis.)*
+- **★★★★★★ AND IT DISSOLVES THE APPARENT CONTRADICTION THAT DROVE THE WHOLE ARGUMENT — BOTH CRWV
+  STATEMENTS ARE TRUE AT ONCE, BECAUSE THEY PRICE DIFFERENT OBJECTS. "PRIOR-GEN PRICING AT OR ABOVE
+  HISTORICAL" IS THE *NEW-CONTRACT* PRICE AT TODAY'S MARKET. "~10% OF ORIGINAL ASP" IS WHAT A CONTRACT
+  WRITTEN AT THE 2023 PEAK REPRICES TO WHEN IT ROLLS.** ⇒ **THE SPOT PRICE FOR OLD SILICON CAN RISE
+  WHILE THE ROLL IS CATASTROPHIC — and the roll is what the collateral and the RVG are exposed to.**
+  ⇒ **The cliff is not a forecast. It is a disclosed, historical, realised repricing.** *(Analysis.)*
+- **★★★★★★ THE SEGMENTATION QUESTION IS ANSWERED AND JAKE'S READ IS REFUTED AT THE TOP OF THE BOOK AND
+  SIZED AT THE TAIL: 72% OF CRWV REVENUE IS THREE CUSTOMERS, AND THE LARGEST WAS MICROSOFT AT 67% IN
+  FY25. THE RESIDUAL — the long tail where capital-constrained tenants would live — IS 28%.**
+  ⇒ **This morning I said the claim was "unobservable under current disclosure." IT IS OBSERVABLE IN
+  MAGNITUDE: 28%.** **The funding-loop hypothesis applies to at most 28% of CRWV's revenue, not to the
+  franchise.** ⚠️ **NBIS is the opposite: 60% residual. If Jake's segmentation thesis is right anywhere,
+  it is NBIS, not CRWV.** *(Analysis.)*
+- **★★★★★★ AND THE TIMING-VS-AMORTISATION QUESTION — registered 8/12 ~11:00pm as "the whole question" —
+  IS NOW A SCHEDULE, NOT AN OPINION: $10,597M MATURES INSIDE ~18 MONTHS = 30% OF A $35.6B STACK,
+  AGAINST 2026 REVENUE GUIDANCE OF $12.4-13.2B.** ⇒ **THE NEAR-TERM REFINANCING NEED IS ~0.83× ONE FULL
+  YEAR OF REVENUE.** **`:L1034` framed it as "GPU collateral depreciates faster than the loan amortizes."
+  With rolls at ~10% of original ASP and $10.6B due inside 18 months, BOTH LEGS NOW HAVE NUMBERS.**
+  *(Analysis.)*
+- **★★★★★ AND THE NEW FACILITY IS FLOATING: SOFR + 5.50%.** At a 3.50-3.75% target that is ~9.0-9.25%,
+  confirming the ">9%" figure — **but it also means CRWV's marginal funding cost RISES DIRECTLY WITH THE
+  FRONT END.** ⇒ **Combined with today's real-yield-driven long-end move, both ends of the curve now
+  transmit into this balance sheet.** *(Analysis.)*
+- **⚠️ AND THE AGENT CAUGHT A FABRICATION BEFORE IT ENTERED THE VAULT: a web-search synthesis asserted
+  "470,000 active accelerators / 380,000 on order / H100+H200 = 58% of fleet," attributed to the Q4'25
+  call. Full-text search of the actual transcripts returned ZERO matches for any of those figures.**
+  ⇒ **GPU fleet composition is NOT DISCLOSED anywhere; the last real number is ~250,000 GPUs from trade
+  press in March 2025.** **Recorded so the fabricated figure cannot re-enter later.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. ✅ **CLOSED: CRWV active MW (1.5 GW exit) ⇒ implied realised rate $0.79-1.81 ⇒ the identity resolves
+   to the low-rate / large-fleet branch.**
+2. ✅ **CLOSED: customer concentration. 72% named / 28% residual (CRWV); 60% residual (NBIS).**
+3. ✅ **CLOSED: the depreciation number — ~10% of original ASP at Hopper roll, CFO, Feb-2026.**
+4. 🚩 **NEW AND IT IS NOW THE THREAD'S CENTRAL QUESTION: HOW MUCH OF THE $10.6B MATURING INSIDE 18
+   MONTHS IS SECURED ON GPU COLLATERAL WHOSE CONTRACTS ROLL AT ~10% OF ORIGINAL ASP?** **That is the
+   intersection of the two numbers, and it is answerable from the 10-Q's per-facility collateral notes.**
+5. ⬜ Whether "Customer A" at 36% in Q2'26 is still Microsoft — the 10-Q stopped naming it.
+**Links:** [[metered-compute]] · [[balance-sheet-board]] · [[cepi]] · [[market-fragility]]
+
+### 2026-08-13 ~12:55pm PDT — ⛔★ **MY PREDICTED SIGNAL IS ABSENT AND THE REAL ONE IS 12× BIGGER.** NVDA's DSO is FALLING — and its risk factors say customers "have asked us to offer financing," while $3.5B of lease guarantees and $42.3B of customer stakes sit in the same filing.
+Source: Tier-1 agent, SEC EDGAR XBRL company-concept API cross-verified against filed 10-K/10-Q text.
+21 quarters. ⚠️ **Q2 FY2027 not yet filed** (due ~2 weeks).
+
+#### DATA (MEASURED — SEC filings)
+- **⛔ THE TEST I REGISTERED THIS MORNING FAILS. DSO: FY24 low 41-43d → FY26 low-to-mid 50s → **FY26 Q4
+  51.4d → FY27 Q1 45.4d.** FALLING, and near the low end of the two-year range.**
+  **YoY growth gap (AR minus revenue): FY26 Q2 +41.2pp · Q3 +26.2pp — then Q4 −6.4pp · Q1 −1.3pp.
+  THE GAP CLOSED.** ⇒ **Receivables show NO accelerating divergence.**
+- **★★★ NON-MARKETABLE EQUITY SECURITIES (stakes in private companies):**
+  **$3,387M (Jan-25) → $8,187M (Oct-25, +116%) → $22,251M (Jan-26, +172%) → $42,336M (Apr-26, +90%).**
+  **147× since Jan-2023, and ACCELERATING.** **Q1-FY27 NET ADDITIONS ALONE: $17,899M — versus $649M in
+  the year-ago quarter. A 27× YoY jump in fresh capital deployed IN ONE QUARTER.**
+- **★★★ FORWARD INVESTMENT COMMITMENTS (unfunded): $6.5B (Oct-25) → $11.4B (Jan-26) → $27B (Apr-26).**
+- **★★★★ FACILITY LEASE GUARANTEES — NVDA GUARANTEEING PARTNERS' LEASES IN EXCHANGE FOR WARRANTS:**
+  Q3-FY26 verbatim — *"**an agreement** to guarantee **a partner's** facility lease obligations in the
+  event of their default… in exchange for issuing us warrants. The **maximum gross exposure is $860
+  million**."* **FY26 10-K and Q1-FY27, verbatim: *"agreements"* [plural], *"the maximum gross exposure
+  under all agreements is **$3.5 BILLION**."*** ⇒ **$860M → $3.5B in ONE QUARTER.**
+- **⭐⭐ A NEW RISK FACTOR, FY2026 10-K, ABSENT FROM FY2025 — VERBATIM:** *"…and **have been asked to offer
+  financing arrangements to support our customers' and partners' buildout of datacenter infrastructure.
+  We have not entered into any financing arrangements.**"*
+- **TOTAL FORWARD COMMITMENTS: $45.1B (Jan-25) → $84.9B (Oct-25) → $137.0B (Jan-26) → $182B (Apr-26).**
+  **~4× in five quarters.** Manufacturing/capacity alone $30.8B → $119B.
+- **CIRCULAR REVENUE, Q1-FY27 MD&A verbatim: *"one AI research and deployment company contributed to a
+  meaningful amount of our revenue by **purchasing cloud services from our customers**."*** Unnamed.
+- **AR concentration rising: 3 customers = 64% of AR (Apr-26) vs 56% (Jan-26) vs 2 customers 33% (Jan-25).**
+- **⬜ CoreWeave is NAMED NOWHERE** — zero full-text hits across the FY26 10-K and three 10-Qs.
+- Named investees found: **Intel $5B committed · OpenAI (LOI, "no assurance" as of the 10-K) · Anthropic
+  "up to $10 billion," Nov-2025, subject to closing conditions.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ CONCEDED: I NAMED THE WRONG INSTRUMENT. This morning I registered DSO and receivables-to-revenue
+  as "the measurable form of the WSJ sentence." THE RECEIVABLES CHANNEL IS CLEAN AND DSO IS FALLING.**
+  ⇒ **If vendor financing were running through trade credit, it would show there. It does not.**
+  *(Analysis. My predicted signal, absent.)*
+- **★★★★★★★ BUT THE AGENT FOUND IT SOMEWHERE ELSE AND IT IS AN ORDER OF MAGNITUDE LARGER: NVDA IS NOT
+  EXTENDING PAYMENT TERMS — IT IS BUYING EQUITY IN ITS CUSTOMERS AND GUARANTEEING THEIR LEASES.**
+  **$42.3B of non-marketable stakes, $17.9B deployed in a single quarter, $27B more committed, and $3.5B
+  of lease guarantees taken in exchange for WARRANTS.** ⇒ **Same economic function — the vendor funds
+  the customer's ability to buy — through the BALANCE SHEET rather than the INCOME STATEMENT.**
+  **A DSO test could never have seen it, because equity stakes and guarantees do not touch receivables.**
+  *(Analysis. The finding is bigger than the test I designed to catch it.)*
+- **★★★★★★★ AND NVDA CONFIRMS THE WSJ'S PREMISE IN ITS OWN RISK FACTORS, IN A CLAUSE THAT DID NOT EXIST
+  A YEAR AGO: *"WE HAVE BEEN ASKED TO OFFER FINANCING ARRANGEMENTS TO SUPPORT OUR CUSTOMERS' AND
+  PARTNERS' BUILDOUT."*** ⇒ **That IS "many of his customers can't afford to buy," stated by the
+  company, in a filing, as a new risk.** **The WSJ line stops being a journalist's framing the moment
+  the issuer discloses the same fact — this is the admission-against-interest I said we did not have.**
+  *(Analysis. And it upgrades the funding-loop hypothesis from "propped by a paraphrase" to
+  issuer-disclosed.)*
+- **★★★★★★ AND THE DENIAL IN THE SAME SENTENCE IS DOING ENORMOUS WORK: *"WE HAVE NOT ENTERED INTO ANY
+  FINANCING ARRANGEMENTS"* — WHILE THE SAME DOCUMENT DISCLOSES $3.5B OF LEASE GUARANTEES, $42.3B OF
+  CUSTOMER EQUITY AND $27B OF FORWARD INVESTMENT COMMITMENTS.** ⇒ **The denial is about an INSTRUMENT
+  CLASS, not about the ECONOMIC SUBSTANCE.** **A guarantee of a customer's lease, taken in exchange for
+  warrants, is credit support with equity upside — it is vendor financing wearing a different label.**
+  ⚠️ **This is a reading of the disclosure, not an accusation: the statement may be literally accurate
+  under NVDA's definition. THE POINT IS THAT THE LABEL AND THE EXPOSURE HAVE COME APART.** *(Analysis.)*
+- **★★★★★ AND THE CIRCULAR WIRE IS NOW DISCLOSED RATHER THAN INFERRED: *"one AI research and deployment
+  company contributed to a meaningful amount of our revenue by PURCHASING CLOUD SERVICES FROM OUR
+  CUSTOMERS."*** ⇒ **NVDA's own MD&A states that a lab drove NVDA revenue by buying cloud from NVDA's
+  customers — while NVDA holds equity in those customers.** **The vault has argued this shape for weeks
+  from the outside; it is in the filing.** *(Analysis.)*
+- **⚠️ THE DISCIPLINE, BECAUSE THE GROWTH RATES ARE SEDUCTIVE: $42.3B of non-marketable stakes against
+  ~$81.6B of QUARTERLY revenue and an enormous cash position is not, by itself, distress. A dominant
+  supplier taking strategic equity in a fast-growing customer base is ALSO what a rational monopolist
+  does with excess cash.** **What makes it notable is the RATE (27× YoY in fresh deployment), the
+  GUARANTEE structure (4× in a quarter), and the new risk-factor language arriving together.**
+  ⬜ **The disconfirming test: if these stakes are strategic rather than enabling, the investees should
+  be able to raise elsewhere on similar terms. Not knowable from filings.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. ✅ **CLOSED, AGAINST MY OWN PREDICTION: NVDA DSO and receivables show NO vendor-financing signal.**
+2. 🚩🚩 **NEW PRIMARY SERIES FOR THIS NOTE: non-marketable equity securities · investment commitments ·
+   FACILITY LEASE GUARANTEE maximum gross exposure, quarterly.** **These replace DSO as the vendor-
+   financing gauge. Q2-FY27 files in ~2 weeks — the first read on whether $3.5B and $42.3B keep
+   compounding.**
+3. 🚩 **The $3.5B guarantee: WHICH partners, and are the guaranteed leases the same data centres backing
+   the neocloud debt?** If so the same asset is supporting two obligations.
+4. ⬜ Why CoreWeave is named nowhere despite the known stake.
+**Links:** [[balance-sheet-board]] · [[cepi]] · [[metered-compute]] · [[market-fragility]]
