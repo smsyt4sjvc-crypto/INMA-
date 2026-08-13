@@ -194,3 +194,52 @@ Gemini users. Hmmmm…"* *(2) "Is it a revenue [play] as much as **not** paying 
 - ⬜ Whether Google's *training* dependence on the third-party open web is rising or falling as
   YouTube/first-party/synthetic data scale. **This decides layer 3 and nobody has published it.**
 - ⬜ Actual content-licensing spend at any frontier lab as a share of training cost.
+
+### Addendum 2026-08-12 ~9:25pm PDT — ⛔ JAKE DISCARDS THE 1B MAU AS A DEMAND SIGNAL, AND THE DENOMINATOR IS THE POINT I MISSED
+Jake: *"I discarded the 1 billion users. You get Gemini every time you use Chrome or the Google app. The
+top result is always Gemini. And it shows like half the response until you click on it. Poof. You're
+using Gemini."*
+**⛔ I flagged the missing PAID CONVERSION and never questioned the DENOMINATOR. His catch is the better
+one: the metric is measured on surfaces Google owns the default of.**
+
+#### DATA (observed — same 2026-08-11 release)
+- **1B total MAU · >100M active on iOS ⇒ iOS is ~10% of the base** *(a FLOOR — the disclosure is ">100M")*.
+- ⬜ **RECALLED, NOT VERIFIED: iOS ≈ 18-22% of the global smartphone install base** (higher on any
+  ad-value-weighted measure). ⇒ platform-neutral usage would imply **~180-220M on iOS**.
+- **63% of active users interact by VOICE.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ THE iOS NUMBER IS THE ONE TELL IN THE RELEASE GOOGLE DOES NOT CONTROL, AND IT UNDER-INDEXES
+  BY ~2x.** Observed ~10% of users on iOS against a platform-neutral ~18-22%. ⇒ **the ~900M non-iOS
+  users sit on surfaces Google owns the default of: Chrome, Android, the Google app, and the results
+  page itself.** *(Analysis.)*
+  ⚠️ **NOT PROOF — three honest confounds:** ">100M" is a floor; **iOS is NOT a clean control** because
+  Chrome-iOS / the Google app / Search run there too and carry Gemini (it is a *weaker-default* control,
+  not a no-default one); and Android skews to lower-ARPU markets, inflating the non-iOS count for
+  reasons unrelated to defaults. **Directionally consistent with Jake's read; not a measurement.**
+- **★★★ SECOND TELL, SAME RELEASE: 63% BY VOICE.** On Android, voice **is** the Assistant slot — a
+  **replaced default**, not a chosen app. **A product pulled by genuine demand does not have two-thirds
+  of its engagement arriving through the slot its predecessor already occupied.** *(Analysis.)*
+- **★★★ AND THE TRUNCATED-RESPONSE MECHANIC JAKE DESCRIBES IS THE CONVERSION EVENT, BY DESIGN.** Show
+  enough to be useful, cut it off, require a click to expand. **The click is what converts a passive
+  Search user into a counted Gemini user.** ⇒ **1B MAU is a measure of Google's DISTRIBUTION, not of
+  Gemini's DEMAND.** *(Analysis.)*
+- **⚠️ BUT — THE SIDE JAKE IS NOW UNDER-WEIGHTING, BECAUSE HE HAS SWUNG TO DISMISSAL: "IT IS ONLY
+  DEFAULTS" UNDERRATES DEFAULTS.** Distribution is precisely the barbell end [[compression-thesis]]
+  says gets PAID as capability commoditises. **Chrome won on defaults *and* being better; it is still
+  won.** A demand signal would be *better* evidence — but **an owned distribution channel is a more
+  durable asset than a preference**, and if models converge, the default IS the moat. ⇒ **The number is
+  low-quality as DEMAND and high-quality as DISTRIBUTION, and distribution is the thing he should
+  actually care about given his own framework.** *(Analysis.)*
+- **⛔⛔ AND THIS SHARPENS THE REGULATORY POINT FROM A CORRELATION INTO AN IDENTITY.** At 9:00pm I wrote
+  that antitrust risk *scales with* the thesis being right. **Jake's observation makes it tighter than
+  that: if the 1B is a defaults artifact, then Google's AI position IS the antitrust exposure, not
+  merely correlated with it.** **The mechanism producing the 1B — default placement in Chrome, Android,
+  the Google app and the results page — is the SAME mechanism the search remedies target**, and
+  [[content-toll]] already logs the crawler bundle as a second tying theory on the input side.
+  ⇒ **Defaults on the way in (corpus), defaults on the way out (distribution). Both are the remedy's
+  subject matter.** *(Analysis. Descriptive — rule 7.)*
+- **🚩 THE MEASURABLES THAT WOULD SETTLE DEMAND-vs-DEFAULTS, none disclosed:** paid conversion ·
+  **DAU/MAU ratio** (the single best retention tell) · standalone-app usage split from in-Search
+  surface · iOS share stated as a point rather than a floor. **All four are within Google's power to
+  publish and none were. That pattern is itself the evidence.**
