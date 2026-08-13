@@ -4735,3 +4735,78 @@ decides it is interest expense and capex"*) **from a direction I did not conside
   $104.2B against $12.4-13.2B ≈ 8×.** ⇒ **NBIS is MORE forward-sold relative to size.** ⚠️ **Different
   contract definitions — do not treat "commitments" and "backlog" as the same object.**
 **Links:** [[cepi]] · [[metered-compute]] · [[power-not-petroleum]] · [[balance-sheet-board]]
+
+### 2026-08-12 ~9:45pm PDT — ⛔ "CORROBORATION AND HUANG DOUBLES DOWN" — IT IS NOT CORROBORATION. ONE ORIGIN, TWO OUTLETS, AND THE VAULT ALREADY GRADED IT.
+Source: Jake paste — Huang tweet (X, 9:18pm PT 8/12, 38K views, quoting a Business Insider post) +
+the BI article PDF (Alistair Barr), read in full → `raw/businessinsider-a100-2029-crwv-2026-08-12.txt`.
+
+#### DATA (observed — from the article as read)
+- **CRWV CFO Nitin Agrawal, on the call "late Tuesday": "We recently signed an A100 contract that
+  extends into 2029 at an attractive price."** CRWV "largely sold out" of older Nvidia generations.
+- **Silicon Data: A100 rental rates "held up well after a strong rebound in 2026."** ⬜ **NO NUMBER
+  GIVEN.**
+- **⭐ NEW MECHANISM: 5-YEAR WARRANTIES.** Lambda's Matt Rowe — *"observers worrying about depreciation
+  often overlook warranty contracts… typically last five years, so if GPUs fail, they are replaced with
+  new ones, extending the life of the overall GPU FLEET."*
+- Lambda: effective lives "seven or eight years." Crusoe's Erwan Menard: GPUs migrate between workload
+  types as they age.
+- **The $500B partner list, named: Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, KKR.**
+- **CRWV +20% Wednesday.** The author states he *"first raised this depreciation risk before CoreWeave
+  went public."*
+- **Huang's tweet adds the operative word: NVIDIA compute is "rentable, durable and FINANCEABLE."**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔ IT IS NOT CORROBORATION — IT IS THE SAME DATUM FROM THE SAME ORIGIN.** BI's source **IS** the
+  CRWV call, which this vault ingested DIRECTLY on 8/12 ~12:05am (`:L4640`). `metered-compute:2203`
+  already carries *"A100 CONTRACTS RUNNING THROUGH 2029 — a five-year-old chip still taking long-dated
+  commitments."* **Rule 9: N outlets, one origin.** *(Analysis.)*
+- **★★★★★ AND THE VAULT ALREADY GRADED HUANG'S ARGUMENT AND NAMED THE REBUTTAL THIS ARTICLE DOES NOT
+  ANSWER.** `:L4240-4245`: *"'in active use' ≠ value retention: the underwriting question is the RATE
+  CURVE (an A100 rents today at a fraction of launch rates), and 'economic life toward a decade' at
+  DECLINING RATES is precisely what an RVG at 25% is priced against."* **The article gestures at exactly
+  that datum — "rental rates held up well" — AND GIVES NO NUMBER.** ⇒ **Registered item #3 (A100 rate
+  curve 2020→now $/GPU-hr) STAYS OPEN. This piece did not close it; it advertised it.**
+- **★★★★★ THE CONFLATION THE PIECE RUNS ON, RESTATED BECAUSE IT IS ENGINEERED TO BLUR: "USEFUL LIFE"
+  AND "ECONOMIC LIFE" ARE DIFFERENT QUESTIONS.** The bear case was NEVER "the chips stop working." It
+  is **"revenue per chip falls faster than the debt amortises."** **A fully-depreciated A100 renting at
+  a fraction of launch rates is simultaneously (a) still generating revenue and (b) a catastrophe for
+  whoever financed it at 2023 prices.** The article answers (a) throughout and is framed as answering
+  (b). *(Analysis.)*
+- **⛔⛔ FIVE OF SIX SOURCES ARE LONG THE ANSWER, AND THE ONE DISINTERESTED SOURCE IS THE ONE THAT GIVES
+  NO NUMBER.** CRWV's CFO owns the fleet · Crusoe SVP sells AI infra · Lambda exec sells AI infra ·
+  NVIDIA's CEO writes the residual support · **the author states he originated the thesis being
+  vindicated.** **Silicon Data — the only party with no position in the answer — is quoted
+  QUALITATIVELY.** ⇒ **This is not "N outlets, one origin." It is worse: N outlets, ONE INTEREST.**
+  *(Analysis. And `:L4238` already logged the shape: "NVDA publishing rental-price strength THE DAY
+  BEFORE CRWV reports = the radar's bull leg armed by the most conflicted possible source.")*
+- **★★★★ HUANG'S TWEET IS NOT A PRODUCT ARGUMENT. IT IS A COLLATERAL ARGUMENT, AND THE LAST WORD GIVES
+  IT AWAY: "FINANCEABLE."** Rentable → durable → financeable is a chain that terminates in **the
+  residual value of pledged collateral.** ⇒ **The party writing residual-value support is publicly
+  arguing that the residual is durable.** **That is an interested principal talking about the single
+  variable that determines his own contingent liability** — the RVG this note has tracked since
+  `:L58`. *(Analysis. Same genre [[danger-disclosure-playbook]] grades: the claim is not false because
+  it is interested, but the interest must be priced into how much weight it carries.)*
+- **★★★★ THE WARRANTY MECHANISM IS THE ONE GENUINELY NEW THING, AND IT CUTS BOTH WAYS — THE SECOND CUT
+  IS THE INTERESTING ONE.** *Bull:* fleet life ≠ chip life; a 5-year warranty means failures are
+  replaced, so the FLEET outlives its worst units. Real, and the vault did not have it. *Bear:*
+  **THAT DURABILITY IS VENDOR-SUBSIDISED. NVDA pays for the replacements that produce the fleet life
+  NVDA is advertising.** ⇒ **Two distinct vendor subsidies now prop the SAME variable: the RVG (a
+  written put on the residual) and the warranty (a funded refresh of the collateral).** **Neither is
+  free, both sit on NVDA, and both are strongest exactly when the fleet is youngest.** 🚩 **What
+  happens to fleet life in year six, when the warranties on the 2020-21 A100 base have expired?** The
+  article's own logic implies the tail it celebrates is the part with NO warranty left. *(Analysis.)*
+- **⚠️ WHAT GENUINELY UPDATES, stated so this is not blanket dismissal:** (1) **the warranty mechanism**;
+  (2) **Silicon Data's rental-rate direction is a PRICE signal from a disinterested source** — weak in
+  form (no number) but right in kind, and it is the only line in the piece that is evidence rather than
+  assertion; (3) **the $500B partner names** (Apollo, BlackRock, Blackstone, Brookfield, GS, KKR) —
+  note **four of six are the private-credit originators already logged at `:L12` and `:L19-20` as "the
+  same PE firms that bought the life-insurance/annuity industry."** ⇒ **The $500B is being mobilised by
+  the same balance sheets the fragility thread already routes through insurance.** *(Analysis.)*
+
+#### 📌 REGISTERED (updated)
+- ⬜ **#3 A100 RATE CURVE ($/GPU-hr, 2020→now) — STILL OPEN, now for the third time.** Silicon Data has
+  the print; this article quotes it without the number. 🚩 **Highest-value single fetch in this thread.**
+- ⬜ **NEW: A100-fleet warranty expiry schedule.** 2020-21 units are at or past the 5-year mark ⇒ the
+  replacement subsidy on the oldest fleet is ending exactly as the 2029 contracts begin.
+- ⬜ **NEW: does NVDA disclose warranty-reserve expense**, and has it risen with the installed base?
+  A funded-refresh cost should show up somewhere in the 10-Q.
