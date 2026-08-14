@@ -5978,6 +5978,7 @@ writes — and his own theses are this vault's highest-value inbound.** NO MATCH
 - **⚠️ AND ONE PUSH ON "THE LITTLE GUYS": THE WHEEL IS THE SAME SIZE FOR EVERYONE. WHAT DIFFERS IS THE FUNDING
   STRUCTURE, NOT THE PHYSICS.** Hyperscaler capex dwarfs neocloud capex; the difference is **operating cash flow
   vs SECURED DEBT.** ⇒ **SAME OBSOLESCENCE, DIFFERENT ACCOUNTING: the little guy DEFAULTS, the big guy TAKES AN
+    ⟲ SUPERSEDED 2026-08-14 → ai-financing-fragility.md:L6141 — WRONG SPLIT: it is not default-vs-impairment. CRWV debt has a ~3.22yr WAL and amortises, so the LENDER EXITS FIRST and the ~36-point book-vs-recontract gap lands on EQUITY at both ends of the size spectrum - BOTH impair
   IMPAIRMENT.** **If the big guys carry ~6-year useful lives against a compressing cadence, the same physics is
   sitting in their earnings rather than in a credit event** — quieter, not absent. *(Analysis.)*
 - **★★★★★★ AND THE EXTENSION HIS METAPHOR IMPLIES, WHICH IS THE STRONGER VERSION OF IT: THE WOLF IS PLURAL,
@@ -5999,3 +6000,164 @@ writes — and his own theses are this vault's highest-value inbound.** NO MATCH
 4. ⬜ **TSMC CoWoS capacity additions by quarter** — the actual load-bearing forecastable variable, and the
    thing F-CLIFF-1 waits on.
 **Links:** [[compression-thesis]] · [[metered-compute]] · [[balance-sheet-board]] · [[ai-capex-cycle]] · [[cepi]]
+
+### 2026-08-13 ~10:52pm PDT — ⛔★★★★★★★ THE DURATION TEST IS RESOLVED AND IT RESOLVES AGAINST THIS THREAD'S STANDING TONE: ~3.2yr weighted-average LIFE, it AMORTISES against the melting asset, and the collateral is NOT hardware — it is hardware **plus pledged contractual cash flows from investment-grade counterparties**
+Source: **CoreWeave Form 10-Q, quarter ended 2026-06-30, filed with the SEC 2026-08-12** (accession
+0001769628-26-000366), **Note 10—Debt** + MD&A; cross-read vs the FY2025 10-K (filed 2026-03-02) and the Q2-2026
+earnings call (2026-08-11). Fetched by Sonnet subagent per rule 19 (54 tool calls). **All figures MEASURED (SEC
+filings) unless flagged.** Closes registered test #1 at `:L4138` — **registered 8/11, re-registered `:L5186`,
+unfetched twice, fetched on the third asking (rule 10).**
+
+#### DATA (MEASURED — SEC 10-Q, period ended 2026-06-30)
+- **TOTAL DEBT $35,551M gross / $35,068M net.** Prior period **$21,615M gross (12/31/25) ⇒ +64.5% IN SIX MONTHS.**
+  Pro-forma for two August subsequent-event draws (DDTL 5.5 $1.2B + revolver $1.2B) ≈ **$37,951M, +75.6% vs
+  year-end** *(pro-forma is my arithmetic on two measured figures; no post-August balance sheet published).*
+- **MATURITY SCHEDULE (Note 10; sums exactly to gross principal):** rem-2026 **$4,413M** · 2027 **$6,184M** ·
+  2028 **$4,416M** · 2029 **$2,421M** · 2030 **$3,221M** · **2031+ $14,896M (41.9%).** Balance-sheet current
+  portion (≤12mo from 6/30/26) **$7,513M (21.1%)**.
+- **⇒ THE VAULT'S CARRIED "$10.6B INSIDE 18 MONTHS" IS CONFIRMED AND NOW DATED: $10,597M cumulative through
+  2027-12-31** — **a ~16.5-month window, not 18.**
+- **WEIGHTED-AVERAGE LIFE ≈ 3.22 YEARS** *(my calculation from the measured schedule, principal-weighted at
+  bucket midpoints, "2031+" at 5.25yr).* ⚠️ **NOT 5.05 years — that is to STATED FINAL MATURITY and ignores
+  amortisation. The gap between the two IS the finding: this paper pays down before it matures.**
+- **SECURED $18,934M (53.3%) vs UNSECURED $16,617M (46.7%).** **The secured paper is the amortising
+  GPU/equipment-backed DDTL+OEM stack; the unsecured is BULLET notes and converts maturing 2030-2032.**
+  ⇒ **near-term cash demands fall on the hardware-backed AMORTISING facilities, not the bullets.**
+- **★ AMORTISATION RATES: DDTL 1.0 $1,553M → $1,300M = −16.3% in one half-year. DDTL 2.0 $5,037M → $3,190M =
+  −36.7% in one half-year** (retires inside ~18 months at that pace).
+- **⛔★★★ COLLATERAL LANGUAGE, VERBATIM FROM MD&A: *"These delayed draw term loan facilities are collateralized
+  with the assets underlying the contributed contracts AND the pledged contractual cash flows, generally from
+  investment grade counterparties."*** **Security = hardware PLUS contracted revenue. Not hardware alone.**
+- **DDTL 4.0 (Mar-2026, $8.5B committed / $2,837M drawn, NON-RECOURSE) IS RATED A3 (Moody's) / A(low) (DBRS) —
+  INVESTMENT GRADE**; company calls it *"the first investment-grade rated financing secured by HPC
+  infrastructure."* **DDTL 5.5 (Aug-2026, $2.6B) Ba2/BB+. Corporate family Ba3 / B+** *(agency ratings via
+  aggregators, S&P primary 403'd — treat corporate ratings as REPORTED).* SPV pledge pool **$18.2B non-current
+  + $2.6B current**, from $12.7B / $1.8B at 12/31/25.
+- **COUPONS: unsecured 8.50–9.75%; converts 1.75%; DDTL spreads SOFR+2.25% to SOFR+5.50%. DDTL 1.0's EFFECTIVE
+  RATE IS 15%.** Company (Q2 call, MEASURED quote): weighted-average **COST** of debt −~300bp y/y, ≈$1.1B
+  annualised saving. ⚠️ **A COST metric. Not a maturity metric.**
+- **INTEREST EXPENSE Q2-2026 $558M → Q3 GUIDANCE $860-940M = +61% QoQ at midpoint ≈ $3.6B annualised.**
+- **⬜ FILINGS NEVER NAME A GPU GENERATION AS COLLATERAL** — uniformly "GPU servers"/"HPC infrastructure." The
+  one generation-specific datum is **REPORTED, single-origin, three years old** (the-decoder.com 2023-08-15: the
+  $2.3B facility that became DDTL 1.0 was H100-collateralised).
+- **⚠️ TWO FILING INCONSISTENCIES:** (a) DDTL 2.1 maturity reads **Dec-2030 in the FY25 10-K and Mar-2031 in the
+  Q2-26 10-Q**, no 8-K found explaining it; (b) DDTL 5.0 reads **Nov-2031 in the 10-Q's table and May-2031 in
+  the same 10-Q's narrative** three paragraphs later.
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ CONCEDE, ON THIS THREAD'S OWN PRE-REGISTERED CRITERION. `:L4138` named both branches in advance: *"10yr+
+  debt against GPU-heavy assets = the mismatch is live and priced; SHORT-TENOR or power/shell-collateralized =
+  THE UNDERWRITING RESPECTED THE SPLIT."* THE ANSWER CAME BACK ON THE SECOND BRANCH.** **~3.2yr weighted-average
+  life, 53% amortising, the largest tranche rated INVESTMENT GRADE.** ⇒ **The underwriters deleverage against
+  the melting asset FASTER THAN THE ASSET MELTS.** ⇒ **This is not the duration mismatch this note has carried
+  since `:L84`.** *(Analysis. Branches named before the data arrived — that is what makes it a result.)*
+- **★★★★★★★ AND THE COLLATERAL FINDING REFRAMES THE QUESTION, INCLUDING MY OWN ENTRY OF 25 MINUTES AGO. SECURITY
+  = CONTRACTS + HARDWARE ⇒ THE COMPARISON THAT DECIDES THE CREDIT IS NOT TENOR vs GENERATION CLOCK. IT IS
+  TENOR vs CONTRACT TERM.** **A pledged cash flow from an IG counterparty does not care what an A100 is worth —
+  until the contract expires and must be renewed at the recontract price.** ⇒ **THE GENERATION CLOCK BITES AT
+  EXACTLY ONE MOMENT: THE RECONTRACT DATE.** ⇒ **The thesis now rests on one number this vault does not have —
+  CRWV's WEIGHTED-AVERAGE REMAINING CONTRACT TERM. Longer than ~3.2yr debt life ⇒ the lender never touches
+  residual hardware value. Shorter ⇒ the lender eats the ~10%-of-ASP roll.** *(Analysis.)*
+- **⚠️ WHAT SURVIVES IS THE CARRY AND THE GROWTH RATE, NOT THE TENOR.** **+64.5% debt in six months (+75.6%
+  pro-forma), interest +61% QoQ to ~$3.6B annualised, $4.4B due in the remaining 4.5 months of 2026, $10.6B
+  through end-2027, DDTL 1.0 at a 15% effective rate.** ⇒ **The live fragility is CASH-FLOW COVERAGE on a
+  fast-compounding interest burden — NOT collateral value. Different failure mode, different tells, different
+  timing. Re-aim the thread.** *(Analysis.)*
+- **⛔ AND THE SIXTH INSTRUMENT MISMATCH OF THIS SESSION — CAUGHT BY THE AGENT, NOT BY ME. NAMED TRAP:** the
+  circulating figure that CoreWeave's *"weighted-average remaining maturity was less than one year"* is real and
+  is in the filing — **and it describes Note 3—Investments: the $15M of marketable securities CoreWeave HOLDS AS
+  AN ASSET.** **It has nothing to do with $35.5B of debt, and had it entered the vault it would have read as a
+  catastrophic maturity wall.** *(Analysis.)*
+**Links:** [[balance-sheet-board]] · [[metered-compute]] · [[compression-thesis]] · [[ai-capex-cycle]]
+
+### 2026-08-13 ~11:05pm PDT — ★★★★★★★ THE ACCOUNTING MOVED OPPOSITE TO THE PHYSICS, IN THE SAME WINDOW: NVDA HALVED ITS PRODUCT RHYTHM 2yr → 1yr (Huang, on the record, Jun-2024) WHILE EVERY MAJOR OPERATOR LENGTHENED DEPRECIABLE LIFE TO 6 YEARS — and each extension was booked as an EARNINGS BENEFIT
+Source: Sonnet subagent per rule 19 (108 tool calls), **primary SEC XBRL notes fetched directly for all seven
+companies** plus NVIDIA newsroom releases and keynote transcripts. **[M] = MEASURED (SEC filing / official NVIDIA
+release / keynote). [R] = REPORTED.** Answers registered test #2 and #3 from `:L5925`.
+
+#### DATA (MEASURED unless flagged)
+- **THE STATED RHYTHM, BOTH ENDS, VERBATIM.** **Brian Kelleher (NVDA SVP Hardware Eng), Computex 2022-05-24:**
+  *"We will extend our execution excellence and give each of our chip architectures a **two-year rhythm**."*
+  **Jensen Huang, Computex 2024-06-02:** *"Our company is on a **one-year rhythm**… And the rhythm is one year
+  at the limits of technology, all 100% architecturally compatible."* **Huang, GTC 2025-03-18:** *"Once a year
+  like clock ticks, once a year."* *([R] third-party keynote transcripts; NVDA has published no written
+  transcript — the on-demand video is the true primary.)*
+- **⇒ THE CADENCE HALVED ON THE RECORD IN 25 MONTHS.** Announcement timeline **[M, NVIDIA newsroom]**:
+  **V100 2017-05-10 · A100 2020-05-14 (3.0y) · H100 2022-03-22 (1.9y) · H200 2023-11-13 (mid-cycle refresh) ·
+  B200/GB200 2024-03-18 (2.0y) · Blackwell Ultra 2025-03-18 (1.0y) · Vera Rubin — unveiled 2025-03-18, Huang
+  declared *"in full production"* at CES 2026-01-05, ship target H2-2026 · Rubin Ultra H2-2027 · Feynman ~2028.**
+- **★ AND THE SHIPPING LEG IS SOFTER THAN THE ANNOUNCEMENT LEG — the distinction matters.** H100 announced for
+  Q3-2022, DGX shipped Oct-2022 (~1 quarter late) **[R]**. **Blackwell slipped 3+ months on a design flaw** —
+  Huang, Copenhagen, ~2024-10-23 **[R, direct quote]**: *"We had a design flaw in Blackwell, it was functional,
+  but the design flaw caused the yield to be low. **It was 100% Nvidia's fault**."* GB200 mass production
+  slipped to Q2-Q3 2025. ⇒ **the annual rhythm holds at ANNOUNCEMENT and is harder to hold at VOLUME.**
+- **⛔ REGISTERED TEST #2 ANSWERED — AND IT ANSWERS AGAINST NVDA. NO INSTANCE FOUND of NVDA slowing a roadmap to
+  protect installed-base value.** The single documented slip was a **yield defect NVDA publicly owned**, not a
+  protective decision. **The cadence has moved in exactly one direction: faster.**
+- **★★★ USEFUL-LIFE CHANGES — ALL SEVEN CONFIRMED FROM THE COMPANIES' OWN SEC XBRL NOTES [M]:**
+
+  | Company | Server/tech-equipment life | Effective | Disclosed P&L effect |
+  |---|---|---|---|
+  | **NVIDIA** *(its own internal kit)* | **3 → 4-5 yrs** | Feb-2023 (FY24) | +$135M op income, +$114M net |
+  | **Microsoft** | **4 → 6 yrs** | FY2023 | **+$3.7B op income, +$3.0B net, $0.40/sh** |
+  | **Alphabet** | **4 → 6 yrs** | FY2023 | **−$3.9B depreciation, +$3.0B net, $0.24/sh** |
+  | **Amazon** | **5 → 6 yrs** | 2024-01-01 | not isolated in the note |
+  | **Meta** | **4-5 → 5.5 yrs** | 2025-01-29 | ~−$2.9B depreciation (2025E) |
+  | **Oracle** | **5 → 6 yrs** | FY2025 (Jun-2024) | −$733M opex, +$573M net |
+  | **CoreWeave** | **5 → 6 yrs** | 2023 | ⬜ not quantified in the note |
+
+- **⛔★★★ AND THE ONE COUNTER-EXAMPLE IS THE WHOLE TELL. AMAZON WENT THE OTHER WAY: a SUBSET of servers and
+  networking equipment SHORTENED 6 → 5 years effective 2025-01-01, with the reason stated on the record —
+  *"the increased pace of technology development, particularly in AI and machine learning."* COST: +$889M D&A
+  over nine months, −$677M net income.** *([R] well-corroborated; disclosed Feb-2025, not independently
+  re-fetched at primary level for this later change.)*
+- ⚠️ **A CONFLATION THE AGENT CAUGHT AND RESOLVED AT THE PRIMARY SOURCE:** multiple secondary summaries report
+  Meta's change as "5 → 6 years." **Meta's own XBRL note says 4-5 → 5.5.** The "5→6" is a bleed-over from
+  Microsoft's and Alphabet's contemporaneous moves.
+- ⬜ **NVIDIA PUBLISHES NO RECOMMENDED USEFUL LIFE FOR CUSTOMERS' PURCHASED GPUs.** Its 10-K figures cover its
+  own internal equipment only.
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★★ THE ARITHMETIC IS THE ARGUMENT, AND IT IS A 3× DIVERGENCE PRODUCED BY TWO DECISIONS MADE IN
+  OPPOSITE DIRECTIONS IN THE SAME 24 MONTHS.** **In the 2022 world (4-year life, 2-year rhythm) a server sat on
+  the books through 2.0 NVDA generations. In the 2026 world (6-year life, 1-year rhythm) it sits through 6.0.**
+  ⇒ **THE NUMBER OF GENERATIONS A DEPRECIATING ASSET IS CARRIED THROUGH TRIPLED — and not one dollar of that
+  came from the asset lasting longer.** *(Analysis. This is the cleanest statement of the depreciation question
+  this thread has produced.)*
+- **★★★★★★ AND EVERY EXTENSION WAS BOOKED AS AN EARNINGS BENEFIT, WHICH IS WHY IT IS NOT SELF-CORRECTING.**
+  MSFT **+$3.7B op income**, GOOGL **+$3.0B net**, ORCL **+$573M net**, META **−$2.9B depreciation**. ⇒ **The
+  accounting change that widens the gap between book and physics PAYS THE OPERATOR IMMEDIATELY, and reversing
+  it costs reported earnings.** ⇒ **This is not a forecast of an impairment; it is a description of an existing
+  incentive to defer one.** *(Analysis.)*
+- **★★★★★★★ AND ONE OPERATOR HAS ALREADY MARKED IT AND SAID WHY — WHICH CONVERTS "IS THERE A DEPRECIATION
+  CLIFF" FROM SPECULATION INTO A DATED, NAMED, PARTIALLY-OBSERVED EVENT.** **AWS — the operator with the longest
+  history of running its own fleet at scale — shortened a subset 6 → 5 years, took −$677M of net income, and
+  cited the pace of AI technology development by name.** ⇒ **The first slice is booked. The question is no
+  longer whether; it is who follows and when.** ⇒ **🚩 THE LEADING INDICATOR IS NOW A FILING LINE, NOT A PRICE:
+  the next useful-life SHORTENING at any of MSFT / GOOGL / META / ORCL / CRWV.** *(Analysis.)*
+- **★★★★★ AND IT RESOLVES WHERE THE LOSS LANDS, WHICH THIS THREAD HAS HAD WRONG. CRWV DEPRECIATES GPUs OVER
+  6 YEARS. ITS DEBT HAS A ~3.22-YEAR WEIGHTED-AVERAGE LIFE (`:L6003`). ITS CFO SAYS HOPPERS RECONTRACT AT ~10%
+  OF ORIGINAL ASP.** **At the moment the average debt dollar is repaid, straight-line book value is still ~46%
+  of cost against a ~10% recontract market — a ~36-point gap that opens AFTER the lender is substantially
+  out.** ⇒ **THE STRUCTURE PROTECTS THE LENDER AND CONCENTRATES RESIDUAL RISK IN THE EQUITY AND THE INCOME
+    ⟲ SUPERSEDES ai-financing-fragility.md:L5980 — WRONG SPLIT: it is not default-vs-impairment. CRWV debt has a ~3.22yr WAL and amortises, so the LENDER EXITS FIRST and the ~36-point book-vs-recontract gap lands on EQUITY at both ends of the size spectrum - BOTH impair
+  STATEMENT.** ⇒ **This thread has spent weeks looking for a CREDIT event. The evidence says the hit arrives as
+  DEPRECIATION CATCH-UP AND IMPAIRMENT ON EQUITY — quieter, slower, and it does not trigger a default.**
+  *(Analysis. Re-aim.)*
+- **★★★★ AND THE WOLF READING SURVIVES ITS OWN FALSIFIER, WHICH IS RARE ENOUGH TO STATE PLAINLY.** `:L5925`
+  registered *"has NVDA ever slowed a roadmap to protect installed-base value?"* as the test that could break the
+  three-sided reading. **Zero instances. The only slip was a yield defect NVDA publicly owned.** ⇒ **Jake's
+  "hungry wolf" is not refuted by the record — and NVDA extended ITS OWN equipment life 3 → 4-5 years in the
+  same window it halved everyone else's replacement clock.** *(Analysis. Absence of a slowdown is weak evidence,
+  not proof of predation — but it is the evidence the test asked for and it came back one-sided.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **THE NEXT USEFUL-LIFE SHORTENING** at MSFT / GOOGL / META / ORCL / CRWV — **now the highest-value
+   single line in any AI filing, and it is checkable quarterly in the property-and-equipment note.**
+2. 🚩🚩 **CRWV WEIGHTED-AVERAGE REMAINING CONTRACT TERM vs the ~3.22yr debt life** (carried from `:L6003`) —
+   still the load-bearing unknown.
+3. ⬜ **Does CRWV's 6-year life survive its next 10-K?** It is the operator with the shortest cash runway to
+   the recontract price and the longest book life relative to the cadence.
+4. ⬜ **Vera Rubin VOLUME shipping confirmation** — "full production" was claimed 2026-01-05; no independent
+   customer GA found as of 2026-08-13. **The announcement leg and the volume leg have diverged before.**
+**Links:** [[metered-compute]] · [[ai-capex-cycle]] · [[balance-sheet-board]] · [[compression-thesis]] · [[cepi]]
