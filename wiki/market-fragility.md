@@ -3307,3 +3307,55 @@ that's going to decide itself 'all of a sudden'."*
    re-takes ~100, the next headline CPI/PPI turns and the hike-odds chain reverses in one print.
 3. ⬜ War-board live triggers are 6 open flags deep and none has been graded this week.
 **Links:** [[war/war-board]] · [[new-economy-regime]] · [[_calibration]] · [[demand-destruction]] · [[ai-financing-fragility]]
+
+### 2026-08-14 ~7:45am PDT — ★★★★★★ THE REGISTERED TEST IS ANSWERED AND THE ANSWER IS NEGATIVE: bad-news-is-good-news did NOT flip on the worst consumer print in months — and the internal rotation says the market priced the FED, not the ECONOMY
+Source: Yahoo chart API pull, 2026-08-14 ~7:45am PDT (~10:45am ET, ~2h15m after the 8:30am ET retail-sales
+release and ~45m after the 10:00am ET UMich prelim). **Closes the test registered at `:L2630` on 8/11:**
+*"test whether the bad-news-is-good-news regime flips on PIPELINE data with the retail print still ahead Friday."*
+Data → [[new-economy-regime]] (this morning's entry). Instrument caveat: **intraday marks, not a close.**
+
+#### DATA (observed — Yahoo chart API, ~7:45am PDT)
+| | last | prev close | change |
+|---|---|---|---|
+| **S&P 500** | 7,792.82 | 7,757.64 | **+0.45%** |
+| **Nasdaq** | 26,749.55 | 26,690.62 | **+0.22%** |
+| **Russell 2000** | 3,064.34 | 3,034.49 | **+0.98%** |
+| **VIX** | 14.62 | 15.46 | **−5.43%** |
+| **XRT (retail ETF)** | 88.96 | 90.82 | **−2.05%** |
+| Dollar (DXY) | 99.51 | 99.81 | −0.30% |
+| 5Y / 10Y / 30Y yields | | | **−8bp / −4bp / 0bp** |
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ THE TEST REGISTERED 8/11 IS ANSWERED: THE REGIME DID NOT FLIP.** **Headline retail −0.6% vs +0.1%
+  expected, control group −0.4% vs +0.3%, UMich 51.0 vs ~54.5 — and the S&P is UP 0.45% with VIX down 5.4%
+  to 14.62.** ⇒ **Bad-news-is-good-news survived the biggest consumer miss of the cycle so far. Registered,
+  tested, negative — do not re-argue it on the next soft print.** *(Analysis.)*
+- **★★★★★★ AND THE INTERNAL ROTATION IS THE TELL, NOT THE INDEX LEVEL: RUSSELL 2000 +0.98% > S&P +0.45% >
+  NASDAQ +0.22%.** **In a GROWTH SCARE, small caps are hit hardest — they are the most domestically exposed,
+  most leveraged, least profitable cohort in the tape. TODAY THEY LED, AND MEGACAP TECH LAGGED.** ⇒ **That is
+  not a market re-pricing the economy. IT IS A MARKET RE-PRICING THE FED** — the front end rallied 8bp and
+  the most rate-sensitive index took it. *(Analysis. The rotation is the evidence; the index print alone
+  would have been ambiguous.)*
+- **★★★★★★★ AND XRT −2.05% IS THE ONLY HONEST PRICE IN THE TAPE. THE RETAIL ETF IS THE ONE THING THAT
+  TRADED THE ACTUAL DATA.** ⇒ **THE MARKET AGREES WITH JAKE ABOUT THE CONSUMER AND HAS DECIDED IT DOES NOT
+  CARE, BECAUSE IT BELIEVES THE FED PAYS FOR IT.** ⇒ **The disagreement between him and the tape is not about
+  the FACT. It is about the CONSEQUENCE — and the tape's answer is "someone else eats this."**
+  ⇒ **THAT IS THE PRECISE OPERATIONAL FORM OF HIS OWN "DOESN'T MATTER UNTIL IT DOES" (`:L3266`): mainstream,
+  priced, absorbed — and it stops being absorbed the moment the front-end rally stops paying for it.**
+  *(Analysis. His framework, applied to his own datapoint, and it holds.)*
+- **⚠️ WHAT WOULD BREAK THE ABSORPTION, STATED AS A TRIGGER RATHER THAN A STATE (rule 10): a soft consumer
+  print that the FRONT END DOES NOT RALLY ON.** **Today the 5Y paid 8bp for the miss. If a future miss
+  arrives with the front end pinned — because inflation has re-accelerated, or because the Fed has said no —
+  the equity bid loses its funding and the same data prints as a growth scare.** ⇒ **The condition to watch
+  is not the retail number. IT IS WHETHER THE 5Y STILL MOVES.** *(Analysis.)*
+- **⚠️ AND THE HONEST LIMIT ON ALL OF THE ABOVE: these are INTRADAY marks two hours into a session, not
+  closes. Opex is today** (`:L163` logged the expected Friday range at ±1.10%). **A reversal into the close
+  would not refute the rotation reading, but it would weaken the VIX leg.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩 **DOES THE ROTATION HOLD INTO THE CLOSE?** Russell-over-Nasdaq on a weak-data day is the whole
+   inference. **Check the close today; opex is today.**
+2. 🚩🚩 **THE BREAK CONDITION, MADE MONITORABLE: the first soft consumer print where the 5Y does NOT rally.**
+3. ⬜ **XRT vs SPX relative, next 10 sessions** — does the consumer get sold as a sector while the index
+   absorbs it, or does it re-converge?
+**Links:** [[new-economy-regime]] · [[consumption-vs-investment-crux]] · [[detachment-bid]] · [[ai-financing-fragility]]
