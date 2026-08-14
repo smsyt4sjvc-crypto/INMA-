@@ -243,7 +243,17 @@ THREADS = {
                # MEASURES — how the rate is REPORTED:
                'rental rate','realised pricing','realized pricing','per gpu-hour','$/gpu-hr',
                'gpu hour','rate curve','active mw','contracted power','utilisation','utilization',
-               'backlog','implied rate','asp','average selling price'],
+               'backlog','implied rate','asp','average selling price',
+               # gap #25b (8/13): same inbound, same failure on the CREDIT axis. The thread held
+               # 'residual value','rvg','vendor financing','obsolescence' — the credit-desk terms —
+               # and could not see "duration of the loan", "retain values", "hamster wheel". The
+               # phrase "for the duration of the loan" is a DIRECT hit on this note's own
+               # registered test #1 (`:4138` the paper's TENOR vs the collateral's generation
+               # clock) and the router handed back silence.
+               'hamster wheel','treadmill','circular','circular financing','duration of the loan',
+               'loan duration','loan tenor','life of the loan','maturity wall','maturity ladder',
+               'weighted average maturity','retain value','retain values','collateral value',
+               'resale','secondary market','marginal buyer','refinanc','roll the debt'],
  # gap #22, 8/12: "VIX is like 14, feels coiled" matched NOTHING — no thread at all — while the
  # vault holds a BACKTESTED result on exactly that question (where-the-edge-is:73, "filtering on
  # VIX LEVEL fails"), a VIX history across four notes, and an options thread. The map could not
@@ -316,7 +326,19 @@ THREADS = {
                # 'open source' (vs 'open-weight'), distillation and checkpoint vocabulary missing.
                'open source','open-source','distillation','distill','training checkpoint',
                'intermediate checkpoint','personal superintelligence','superintelligence',
-               'recursive self-improvement','rsi','frontier lab','model release'],
+               'recursive self-improvement','rsi','frontier lab','model release',
+               # gap #25a (8/13): Jake's recursive-self-improvement argument scored NO MATCH on the
+               # router AND zero on the full-text sweep — while THIS THREAD ALREADY HELD
+               # 'recursive self-improvement' and 'superintelligence'. The map had the LAB JARGON
+               # and none of the PLAIN ENGLISH. He wrote "learning from its own research and
+               # failures" and "the learning curve … goes vertical"; the map could only see the
+               # paper-title form of the same idea. THE CLASS: the map is keyed to how SOURCES
+               # write, not how JAKE writes — and his own theses are this vault's highest-value
+               # inbound. Fix the register, not just the words.
+               'learning curve','goes vertical','self-improving','self improvement',
+               'improve itself','improves itself','its own research','ai research',
+               'automate research','automating research','research loop','flywheel',
+               'takeoff','scaling law','scaling laws','capability curve','own failures'],
  'FX/CARRY':  ['yen','jpy','usd/jpy','usdjpy','boj','bank of japan','carry trade','repatriation',
                'currency intervention','fx intervention','fx reserves','ministry of finance',
                'dxy','dollar index','ueda','mof','kanda','jgb','japan sold','tic shows'],

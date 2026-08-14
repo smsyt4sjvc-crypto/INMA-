@@ -5921,3 +5921,81 @@ more efficient building consumption threshold."*
    "modification" that triggers new-source review. **If so, the grandfather protects the building and
    traps the fleet inside it.**
 **Links:** [[power-not-petroleum]] · [[metered-compute]] · [[buildout-bottleneck-map]] · [[cepi]]
+
+### 2026-08-13 ~10:26pm PDT — ★★★★★★★ JAKE'S HAMSTER-WHEEL / VERTICAL-CURVE ARGUMENT: the "wolf" insight is a STANDING conclusion of this note that he reconstructed independently by a different route — but his SINGLE SUCCESS MODE CONTAINS THE BEAR CASE, because a vertical capability curve is precisely what obsoletes the collateral FASTER
+Source: Jake, chat 2026-08-13 ~10:23pm PDT. No artifact — his own argument, extending the regulatory-obsolescence
+thread (`:5763`, `:5852`). ⚠️ Router returned **NO MATCH with an EMPTY SWEEP** → **map gap #25, patched same turn**
+(`tools/acute_scanner_cell.py`): the map held `recursive self-improvement`, `superintelligence`, `residual value`,
+`rvg` — **the LAB JARGON and the CREDIT-DESK JARGON — and none of the PLAIN ENGLISH.** He wrote *"learning from its
+own research and failures"* and *"for the duration of the loan"*; **the map could only see the paper-title and
+term-sheet forms of the same two ideas.** ⇒ **THE CLASS OF GAP: the map is keyed to how SOURCES write, not how JAKE
+writes — and his own theses are this vault's highest-value inbound.** NO MATCH → **FINANCING(4), MODEL-ECON(3)**.
+
+#### THESIS (interpretation — NOT fact)
+- **★★★ HIS "FINANCING PORK BY WAY OF PROMISE FROM A HUNGRY WOLF" IS THIS NOTE'S STANDING CONCLUSION IN
+  SUBSTANCE. `:L4128`: *"Collateral value is a function of the borrower's SUPPLIER'S roadmap."*** **He arrived
+  at it from the REGULATORY side; the vault arrived at it from the RVG structure.** ⇒ **Log as CONVERGENCE, not
+  as novelty — two independent routes to one structure is the only kind of corroboration this vault treats as
+  strong** (rule 9, "N outlets, one origin" — this is the inverse: two origins, one conclusion). *(Analysis.)*
+- **★★★★ AND THE PRECISE FORM IS SHARPER THAN "WOLF," BECAUSE NVDA IS ON THREE SIDES OF THE SAME TRADE:
+  it SETS THE CADENCE (which sets the depreciation) · it WRITES THE RVG (the put ON that depreciation, lease
+  guarantees $860M → $3.5B) · and it HOLDS EQUITY IN THE BORROWERS ($3.4B → $42.3B, `:L5682`).** ⇒ **A party
+  that controls the RATE of obsolescence and has also written the PUT on obsolescence is not a guarantor. It is
+  a counterparty whose hedge is its own product roadmap** — it can make the guarantee cheap by slowing the
+  roadmap and expensive by accelerating it, **and its revenue line pays it to accelerate.** *(Analysis.)*
+- **⛔ BUT HIS SINGLE SUCCESS MODE IS TWO CLAIMS BUNDLED, AND A VERTICAL CURVE PULLS THEM OPPOSITE WAYS.**
+  **(a) "AI revenue simply outruns everything" is a DEMAND claim. (b) "capped compute will retain values for the
+  duration of the loan" is a SUPPLY claim.** **A vertical capability curve delivers (a) and DESTROYS (b):** a
+  faster frontier means a COMPRESSED generation cadence, and the compressed cadence is exactly what rolls the
+  A100 at **~10% of original ASP** (CRWV CFO, Feb-2026). ⇒ **THE VERTICAL CURVE IS THE BULL CASE FOR THE WOLF
+  AND THE BEAR CASE FOR THE PORK. His one success mode is not clean — it contains its own failure mode.**
+  *(Analysis. This is the load-bearing objection.)*
+- **★★★★★★ ⇒ AND THEREFORE THE VARIABLE HE NAMES AS UNFORECASTABLE IS NOT THE VARIABLE THAT PRICES HIS
+  COLLATERAL.** **Old-chip value is set by whether NEW supply can be MANUFACTURED fast enough — CoWoS advanced
+  packaging and HBM — not by how fast intelligence improves.** **This note's own read is that today's A100
+  strength is a PACKAGING-CONSTRAINT artifact** (F-CLIFF-1, registered: *if A100 rates hold at or above current
+  levels for two quarters AFTER CoWoS/HBM normalises, the eviction thesis is wrong*). ⇒ **THE LOAD-BEARING
+  UNKNOWN IS TSMC'S PACKAGING CAPACITY, WHICH IS ANNOUNCED IN FAB CAPEX ON 18-24 MONTH LEAD TIMES. IT IS
+  FORECASTABLE.** ⇒ **The scary unknowable is not the load-bearing one.** *(Analysis.)*
+- **★★★★★ AND THE NEOCLOUD SITS ON THE WRONG SIDE OF THIS VAULT'S OWN HEALING TELL. `compression-thesis:L47`:
+  the heal is INPUT DEFLATION — GPU $/FLOP falling. THE NEOCLOUD'S ENTIRE REVENUE LINE IS $/GPU-HOUR.**
+  ⇒ **The thing that mends the AI economy's margins is the thing that deflates the compute owner's top line.**
+  ⇒ **"AI revenue outruns everything" must specify WHOSE: APPLICATION revenue outrunning is fully compatible
+  with COMPUTE revenue deflating — and that combination is the bull case for everyone EXCEPT the party that
+  borrowed against the compute.** ⇒ **This is the capture test again** (open item: *for every "physical
+  constraint" thesis, ask who is SHORT the scarce thing at market price*). *(Analysis.)*
+- **★★★★ AND RECURSIVE SELF-IMPROVEMENT IS A CAPABILITY CLAIM WHILE THE LOAN IS DENOMINATED IN REVENUE.**
+  **The first objective a self-improving system gets pointed at is its own inference cost** — the cheapest,
+  most measurable, most immediately monetisable target, and the one every lab already optimises. ⇒ **Vertical
+  capability WITH collapsing cost-per-token is AMBIGUOUS for revenue and UNAMBIGUOUS for compute-price
+  deflation.** ⇒ **The RSI scenario is not automatically the scenario in which $/GPU-hour holds.** *(Analysis.)*
+- **★★★★★★★ THE FRAMING CORRECTION THAT MAKES HIS "IMPOSSIBLE TO PREDICT" TRACTABLE, AND IT IS THE USEFUL
+  OUTPUT OF THIS EXCHANGE: STRUCTURED CREDIT DOES NOT PRICE THE TERMINAL VALUE. IT PRICES THE PAYMENT DATE.**
+  **A vertical curve arriving in 2029 does not save a 2027 maturity.** ⇒ **THE CURVE'S SHAPE IS UNFORECASTABLE;
+  THE CURVE'S VALUE AT A HANDFUL OF DATES IS ALL THAT MATTERS — AND THOSE DATES ARE PRINTED IN A DEBT
+  FOOTNOTE.** ⇒ **That converts an unbounded unknown into the MATURITY LADDER, which is registered test #1
+  (`:L4138`) and `:L5186` — REGISTERED TWICE, FETCHED NEITHER TIME. Fetching now (rule 10).** *(Analysis.)*
+- **⚠️ AND ONE PUSH ON "THE LITTLE GUYS": THE WHEEL IS THE SAME SIZE FOR EVERYONE. WHAT DIFFERS IS THE FUNDING
+  STRUCTURE, NOT THE PHYSICS.** Hyperscaler capex dwarfs neocloud capex; the difference is **operating cash flow
+  vs SECURED DEBT.** ⇒ **SAME OBSOLESCENCE, DIFFERENT ACCOUNTING: the little guy DEFAULTS, the big guy TAKES AN
+  IMPAIRMENT.** **If the big guys carry ~6-year useful lives against a compressing cadence, the same physics is
+  sitting in their earnings rather than in a credit event** — quieter, not absent. *(Analysis.)*
+- **★★★★★★ AND THE EXTENSION HIS METAPHOR IMPLIES, WHICH IS THE STRONGER VERSION OF IT: THE WOLF IS PLURAL,
+  AND THE NEOCLOUD IS THE VEHICLE BY WHICH THE HYPERSCALER SHEDS RESIDUAL RISK.** **When a neocloud borrows to
+  buy chips and rents them to a hyperscaler, the hyperscaler has converted an OWNED DEPRECIATING ASSET into an
+  OPERATING EXPENSE.** ⇒ **NVDA supplies the obsolescence; the offtaker supplies the demand AND OFFLOADS THE
+  RESIDUAL.** ⇒ **The neocloud is not a competitor who got a worse deal — IT IS THE RISK-WAREHOUSING LAYER OF
+  THE STRUCTURE, and warehousing residual risk is what it is PAID for.** **That is what "the pork" is.**
+  Cross-ref `:L1217` (IPO as risk transfer) · `:L4178` (the risk transfer is the functional description).
+  *(Analysis. Jake's frame, extended — and it makes the hamster wheel a FUNCTION rather than a misfortune.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩 **CRWV DEBT MATURITY LADDER vs FLEET VINTAGE** — registered at `:L4138` and again at `:L5186`,
+   **unfetched twice. This is the single term that converts his unforecastable curve into dated tests.**
+2. 🚩 **HAS NVDA EVER SLOWED A ROADMAP TO PROTECT INSTALLED-BASE VALUE?** — the wolf claim, made falsifiable.
+   **A "no" is not proof of predation; a "yes" would be strong evidence AGAINST the three-sided reading.**
+3. ⬜ **HYPERSCALER STATED USEFUL LIVES** (MSFT/GOOGL/AMZN/META/ORCL/CRWV 10-K property-and-equipment
+   footnotes) — quantifies the impairment channel that the big guys carry instead of a default.
+4. ⬜ **TSMC CoWoS capacity additions by quarter** — the actual load-bearing forecastable variable, and the
+   thing F-CLIFF-1 waits on.
+**Links:** [[compression-thesis]] · [[metered-compute]] · [[balance-sheet-board]] · [[ai-capex-cycle]] · [[cepi]]
