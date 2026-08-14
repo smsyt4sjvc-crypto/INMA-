@@ -3434,3 +3434,57 @@ Re-verified against the daily CLOSE ARRAY (10d/1d), 2026-08-14 ~9:30am PDT. ⟲ 
    read the close ARRAY and are fine; any entry quoting a same-day % change is suspect.** **Folds into the
    standing AUDIT PASS open item.**
 **Links:** [[new-economy-regime]] · [[consumption-vs-investment-crux]] · [[portfolio-state]]
+
+### 2026-08-14 ~3:34pm PDT — 📥 DAILY FEED DIGEST INGESTED (9 items) — filed as REPORTED-class. ⛔ ONE NUMBER IS FLAGGED AND NOT ADOPTED: a "$15 BILLION" one-month Jane Street loss. ★ AND THE DIGEST MISSES THE VAULT'S OWN CONNECTION — **Jane Street is a CoreWeave contract counterparty**
+Source: Jake's paste, chat 2026-08-14 ~9:45am PDT → `raw/daily-feed-digest-2026-08-14.txt`. Aggregated feed
+with per-item "trade read"; **no per-item provenance stated ⇒ REPORTED-class throughout, one origin unknown.**
+Router: MEMORY(7) · WAR/OIL(5) · CONSUMER(2) · SEMIS(1)* · FED(1)* · FLOWS(1)* · MUNITIONS(1)* · PORTFOLIO(1)*.
+**Filed per rule 8 as a DATED LEDGER — no thesis promoted from it.** Ingest only (Jake: usage constrained).
+
+#### DATA (REPORTED — as stated in the digest, NOT verified)
+- **IRAN/HORMUZ:** Trump hardened the US position, described the blockade as effectively controlling maritime
+  access; negotiations stalled; **one tanker reportedly loaded at Kharg Island**, no broad normalisation.
+- **REFINED PRODUCT:** Russia impaired as a product exporter, ME flows disrupted, US refiners near capacity
+  exporting into a tight global diesel market.
+- **⛔⛔ "JANE STREET LOST ROUGHLY $15 BILLION IN JULY"** in violent reversals in crowded/momentum positions;
+  risk since reduced.
+- **NVDA/DC FINANCING:** the >$500B framework is **mobilisation, not committed project financing**;
+  data-centre debt spreads wider, deals slower.
+- **CONSUMER:** July retail sales disappointed; GDP tracking marked lower.
+- **PYPL:** Stripe and Advent reportedly discussed acquiring PayPal; **a $60.50/share proposal was rejected
+  as too low**; talks may continue higher.
+- **CXMT DDR5:** increasingly competitive speeds incl. enthusiast overclocking results.
+- **MQ-9:** reporting indicates a meaningful share of US Reaper inventory lost in the Iran conflict;
+  **General Atomics is private.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ THE $15B IS NOT ADOPTED, AND THE MAGNITUDE IS WHY. Jane Street's FULL-YEAR net trading revenue runs
+  ≈$20B. A $15B ONE-MONTH LOSS WOULD BE ~75% OF ANNUAL REVENUE AND THE LARGEST FUND LOSS EVER RECORDED —
+  larger than Archegos (~$10B, spread across five banks) and an order of magnitude past LTCM.** ⇒ **A firm
+  taking that would not be "reducing risk in affected strategies." It would be gone, and it would be the only
+  story in markets.** ⇒ **SIGNATURE OF A UNIT ERROR OR A CONFLATED QUANTITY — most likely $1.5B, or a GROSS
+  NOTIONAL / position size reported as a loss.** ⇒ **This is the SPR 100× pattern (`demand-destruction:3514`)
+  and it is exactly how that one entered the vault.** **DO NOT CITE THE $15B. ⬜ Verify against a primary
+  outlet before any use.** *(Analysis.)*
+- **★★★★★★ AND THE DIGEST MISSES THE CONNECTION THIS VAULT ALREADY HOLDS, WHICH IS THE ONLY REASON THE ITEM
+  MATTERS HERE: JANE STREET IS A CONTRACT COUNTERPARTY BEHIND CORE WEAVE'S DEBT.** `ai-financing-fragility:4398`
+  / `:4670` / `:5452`: **CRWV's $2.6B facility is collateralised by its CONTRACTS with Anthropic, Jane Street
+  and others — and it cleared at over 9%, 125bp WIDE of where bankers marketed it.** ⇒ **A Jane Street
+  impairment is not a positioning story for this vault. It is a hit to the PLEDGED CONTRACTUAL CASH FLOWS that
+  this morning's ladder work (`:L6003`) established as the actual collateral.** ⇒ **THAT is the thread the
+  digest's "momentum positioning is leveraged" read does not reach — and it raises the stakes on verifying the
+  number rather than lowering them.** *(Analysis. The single highest-value line in this ingest.)*
+- **✓ THE NVDA $500B ITEM MATCHES THE VAULT AND ADDS NOTHING NEW:** "mobilise ≠ committed" is already the
+  standing grading at `ai-financing-fragility:L4091`/`:L4101`/`:L4125` (graded 8/10). **No re-derivation.**
+- **⚠️ AND F8 IS NOT OPEN — the ledger has it firing on 2026-07-30 with the named casualty (Situational
+  Awareness), and "F8 open nine sessions" was itself logged as WRONG at `:L2177`.** **Any Jane Street item
+  read as "F8 finally has its casualty" would be re-opening a closed flag.** *(Analysis.)*
+- **⚠️ THE CONSUMER ITEM IS STALE RELATIVE TO TODAY'S OWN WORK, AND ITS TRADE READ IS THE ONE THE TAPE
+  REFUTED.** The digest says weak retail is *"ordinarily supportive for rates/bonds."* **Today it was not:
+  5Y +3bp, 10Y +5bp, 30Y +6bp — the whole curve SOLD OFF on the print** (`:L3393`). **And the July print is
+  calendar-contaminated (Prime Day moved to June; `new-economy-regime:L3551`).** *(Analysis.)*
+- **⬜ NOT ADOPTED, NEEDING VERIFICATION BEFORE ANY USE:** the $15B · the Kharg Island loading (single tanker,
+  one origin) · the MQ-9 loss share (no number given — an ADVERB, rule 9) · the CXMT claim (**overclocking
+  demos are not yields, cost, HBM capability or mass-production economics — the digest says so itself, which
+  is the correct standard**) · the PYPL $60.50 rejected bid.
+**Links:** [[ai-financing-fragility]] · [[oil-value-chain]] · [[war/war-board]] · [[memory-regime-question]] · [[demand-destruction]]
