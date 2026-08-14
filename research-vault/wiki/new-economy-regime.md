@@ -3445,6 +3445,7 @@ pre-registered call on this exact release was reachable only through the full-te
   VAULT BEFORE THE PRINT.** **The obvious objection is the calendar: nonstore −2.2% is the biggest drag and
   nonstore sits INSIDE the control group. GS sized that effect in advance at −0.2pp on core. THE CONTROL GROUP
   MISSED BY 0.7pp (−0.4% vs +0.3%).** ⇒ **PRIME-DAY TIMING COVERS AT MOST 29% OF THE MISS. ~0.5pp IS NOT
+    ⟲ SUPERSEDED 2026-08-14 → new-economy-regime.md:L3550 — WRONG INPUT: I sized Prime Day off GS's -0.2pp estimate. Prime Day 2026 moved to JUNE 23-26 (Walmart and Target too, no July event at all) and BofA forecast core -0.4% on that basis three days early - it printed -0.4%. The calendar may explain the entire core print
   CALENDAR.** ⇒ **And his autos point is separately confirmed: ex-autos −0.3%, ex-autos&gas −0.2%, control
   −0.4% — every auto-stripped measure is negative.** *(Analysis. The artifact was pre-sized, which is the only
   reason this can be settled today rather than argued.)*
@@ -3490,3 +3491,98 @@ pre-registered call on this exact release was reachable only through the full-te
    Advance Monthly Retail Trade Survey release. ⬜ **Not done.**
 4. ⬜ **APPAREL, NEXT TWO PRINTS, against the [[glp1-wardrobe-cycle]] back-to-school window.**
 **Links:** [[consumption-vs-investment-crux]] · [[market-fragility]] · [[glp1-wardrobe-cycle]] · [[ai-financing-fragility]]
+
+### 2026-08-14 ~7:55am PDT — ⛔⛔⛔ I TOLD JAKE THE CALENDAR EFFECT WAS SMALL. IT IS THE BIGGEST RETAIL-CALENDAR DISTORTION IN THE SERIES' RECENT HISTORY: **PRIME DAY 2026 WAS JUNE 23-26. WALMART AND TARGET MOVED TO JUNE TOO. THERE WAS NO MAJOR JULY EVENT AT ALL** — and BofA, modelling exactly that, forecast core at −0.4% three days early and it printed −0.4%
+Source: Sonnet subagent per rule 19 (73 tool calls), **official retailer press releases + the Census release PDF
+read in full** (CB26-131, released 8:30am EDT 2026-08-14) + Chicago Fed Letter No. 521 + University of Michigan
+primary tables. **[M] = MEASURED (official/primary). [R] = REPORTED.** ⟲ **SUPERSEDES `:L3447` — my
+"Prime-Day covers at most 29% of the miss" was computed off GS's −0.2pp estimate and a different bank got the
+whole thing from the calendar.**
+
+#### DATA
+- **⛔ THE CALENDAR FACT I DID NOT CHECK BEFORE ANSWERING [M — official retailer press releases]:**
+
+  | Event | 2026 | 2025 | 2024 | 2023 |
+  |---|---|---|---|---|
+  | **Amazon Prime Day** | **Jun 23-26** (4d) | Jul 8-11 (4d) | Jul 16-17 (2d) | Jul 11-12 (2d) |
+  | **Walmart Deals** | **Jun 22-28** (7d) | Jul 8-13 (6d) | — | — |
+  | **Target Circle** | **Jun 23-26** (4d) | Jul 6-12 (7d) | — | — |
+
+  ⇒ **ALL THREE MAJOR RETAILERS MOVED THEIR SUMMER EVENT OUT OF JULY AND INTO JUNE IN 2026. Target's next
+  event is ~Oct 4 — there was NO July replacement.** *(Stated rationale [R]: a crowded July calendar — FIFA
+  World Cup + the US semiquincentennial.)*
+- **⛔⛔ AND A BANK THAT MODELLED IT NAILED THE NUMBER. BofA, published 2026-08-11 [R, investing.com citing
+  BofA card data]: forecast core July retail sales **−0.4%**, explicitly *"due to Amazon's Prime Day moving
+  from July to June this year."* **IT PRINTED −0.4%.** BofA also flagged two further July-specific drags: a
+  **post-World-Cup effect** (the 2026 World Cup ended Jul 19 with >75% of games played in June) and an
+  Independence-Day-weekend heat wave.
+- **NONSTORE IS ARITHMETICALLY THE WHOLE PRINT [R, ts2.tech]: the $3.15B nonstore decline = 70.4% of the
+  total $4.47B headline decline.**
+- **⚠️ BUT THE JUNE LEG IS WEAKER THAN THE PULL-FORWARD STORY NEEDS [M — Census CB26-131 Table 2]: JUNE
+  NONSTORE WAS REVISED DOWN FROM +1.9% TO +0.9% MoM.** June's dollar level ($140.0B) sits only modestly above
+  May's revised $138.8B. **If June had absorbed a pulled-forward mega-event, June should have SPIKED. The
+  spike was revised to half its reported size.**
+- **⚠️ AND "CONTROL GROUP" IS NOT A LITERAL CENSUS ROW [M — the agent read the release]. It is a press/analyst
+  convention.** Census's own nearest row (*"excl. motor vehicle & parts & gasoline stations"*) reads **+0.4%
+  June revised → −0.2% July.** June's control group was revised **+0.5% → +0.4%** [R, Globe and Mail].
+  **"Prime Day" and "Amazon" appear ZERO times in the Census release — the attribution is entirely a
+  private-sector construct.**
+- **⛔⛔ AND MICHIGAN AT 51.0 IS NOT NEAR A RECORD LOW — THE RECORD IS 44.8, SET THREE MONTHS AGO
+  [M — FRED UMCSENT / UMich primary]:** Mar-2026 53.3 · **Apr 49.8** · **May 44.8 (RECORD LOW)** · Jun 49.5 ·
+  **Jul 55.2** · **Aug prelim 51.0.** ⇒ **JULY WAS A 5.7-POINT SPIKE OFF JUNE. AUGUST GAVE BACK 4.2 OF IT AND
+  IS STILL ABOVE APRIL, MAY AND JUNE.**
+- **★★★ AND THE FED PUBLISHED THE DECOUPLING TWO MONTHS AGO [M — primary]: Chicago Fed Letter No. 521,
+  Brave/Henken/Jolley, June 2026.** Pre-2020 correlation of UMich sentiment with annual real PCE growth
+  averaged **0.69**; *"since 2020, the correlation of both indexes with annual real PCE growth has declined
+  sharply"* — toward near-zero by 2026. **They built a new composite index because the old one stopped
+  working.**
+- **⚠️ AND THE SURVEY'S OWN MECHANICS [R]: sample now ~50% Democrat / 25% Republican / 25% independent vs a
+  historical ~33/33/33; partisan gap ~53 points (Silver Bulletin, 6/29/26); the Apr-2024 phone→online
+  methodology switch estimated to have cut the index ~8.9 points.** **August's drop was concentrated in
+  REPUBLICANS** — *"the strongest month-to-month decline,"* now 19% below pre-Iran-conflict levels
+  (Hsu, via multiple outlets) — **i.e. driven by the 25% subgroup with the largest partisan swing.**
+  ⬜ **The actual R-vs-D index pair for August was NOT FOUND.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔⛔ MY ANSWER 15 MINUTES AGO WAS WRONG, AND THE ERROR IS THE ONE THIS SESSION KEEPS MAKING: I TOOK A
+  PRE-PRINT ESTIMATE FROM THE VAULT AND TREATED IT AS THE SIZE OF THE EFFECT INSTEAD OF AS ONE BANK'S
+  ESTIMATE OF IT.** **GS said −0.2pp on core; I divided 0.2 by the 0.7pp miss, got 29%, and told Jake ~0.5pp
+  was real. BofA — using card data, three days before the print — said −0.4% on core and hit it exactly.**
+    ⟲ SUPERSEDES market-fragility.md:L3331 — CONTAMINATED TEST: the miss was against an unadjusted consensus, not against forecasters who modelled the calendar shift. 'Biggest consumer miss of the cycle' overstates it and the regime test is not cleanly answered
+  ⇒ **THE ARITHMETIC WAS FINE. THE INPUT WAS ONE FORECASTER'S GUESS, AND A BETTER FORECASTER'S GUESS SAYS
+    ⟲ SUPERSEDES new-economy-regime.md:L3447 — WRONG INPUT: I sized Prime Day off GS's -0.2pp estimate. Prime Day 2026 moved to JUNE 23-26 (Walmart and Target too, no July event at all) and BofA forecast core -0.4% on that basis three days early - it printed -0.4%. The calendar may explain the entire core print
+  THE CALENDAR EXPLAINS THE WHOLE CORE PRINT.** *(Analysis. And the deeper failure is step-zero: I had a
+  checkable calendar fact — WHEN WAS PRIME DAY — and I reasoned about its magnitude without looking it up.
+  Rule 10, verbatim: "a registered test one query can resolve is not a test — look it up now.")*
+- **⇒ WHAT ACTUALLY SURVIVES OF THE "NOT MERELY NOISE" READ, AND IT IS NARROWER: JAKE IS RIGHT THAT IT IS NOT
+  AUTOS. THE NOISE IS CALENDAR, AND THE CALENDAR IS BIGGER THAN AUTOS EVER WAS.** **Ex-autos&gas went +0.4%
+  (June revised) → −0.2% (July) — a real 0.6pp deceleration — but nonstore sits inside that too.** ⇒ **THE
+  PRINT CANNOT CARRY A CONSUMER-ROLLOVER CONCLUSION. It can carry "we will not know until September."**
+  *(Analysis.)*
+- **⚠️ AND ONE PIECE OF EVIDENCE CUTS THE OTHER WAY AND I WILL NOT BURY IT: the pull-forward story REQUIRES a
+  June spike, and June nonstore was revised DOWN from +1.9% to +0.9%.** **If three mega-events moved into
+  June, June should have printed hot and been revised HOTTER. It was revised to half.** ⇒ **The calendar
+  explanation is strongly supported on the JULY side and weakly supported on the JUNE side. That asymmetry is
+  unresolved and it is the honest state of this question.** *(Analysis.)*
+- **⛔⛔ AND MICHIGAN IS THE WEAKEST LEG OF THE WHOLE ARGUMENT — I SHOULD HAVE SAID SO AND DID NOT.**
+  **51.0 is not a collapse; it is the give-back of a one-month 5.7-point spike, and it sits ABOVE April, May
+  and June. The record low was set in MAY at 44.8.** ⇒ **And the Chicago Fed published in JUNE that this
+  series' correlation with real PCE growth has gone from 0.69 to near zero since 2020.** ⇒ **CITING UMICH AS
+  EVIDENCE ABOUT SPENDING IS USING AN INSTRUMENT THE FED ITSELF RETIRED TWO MONTHS AGO FOR THAT PURPOSE.**
+  *(Analysis. This is the strongest single correction in the entry.)*
+- **★★★ AND IT PARTLY EXPLAINS THE TAPE WITHOUT NEEDING THE FED. `market-fragility:L3311` read the equity
+  rally as "bad-news-is-good-news survived." A SIMPLER COMPETING EXPLANATION IS NOW ON THE TABLE: THE STREET
+  KNEW THE PRINT WAS A CALENDAR ARTIFACT AND DISCOUNTED IT IN ADVANCE.** ⇒ **The registered test at `:L2630`
+  is CONTAMINATED, not cleanly answered — the miss was against an unadjusted CONSENSUS, not against the
+  forecasters who had modelled the shift.** ⚠️ **What still needs explaining is the 5Y's −8bp: the RATES
+  market took real signal even if equities did not. Two markets, two readings — do not collapse them.**
+  *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **AUGUST RETAIL SALES (~Sep 15) IS NOW THE ENTIRE TEST, AND IT IS A CLEAN ONE: August 2026 has no
+   displaced mega-event on either side.** **If control-group August prints negative on a clean calendar, the
+   consumer read is real. If it snaps back, July was the calendar.**
+2. 🚩🚩 **DOES JUNE NONSTORE GET REVISED UP** in the next benchmark? The pull-forward story needs it.
+3. ⬜ **The August UMich R-vs-D index pair** (final due Aug 28) — NOT FOUND for the prelim.
+4. ⬜ **Adopt the Chicago Fed C-CSI** as the sentiment instrument in place of headline UMich.
+**Links:** [[consumption-vs-investment-crux]] · [[market-fragility]] · [[glp1-wardrobe-cycle]]

@@ -3329,6 +3329,7 @@ Data → [[new-economy-regime]] (this morning's entry). Instrument caveat: **int
 - **★★★★ THE TEST REGISTERED 8/11 IS ANSWERED: THE REGIME DID NOT FLIP.** **Headline retail −0.6% vs +0.1%
   expected, control group −0.4% vs +0.3%, UMich 51.0 vs ~54.5 — and the S&P is UP 0.45% with VIX down 5.4%
   to 14.62.** ⇒ **Bad-news-is-good-news survived the biggest consumer miss of the cycle so far. Registered,
+    ⟲ SUPERSEDED 2026-08-14 → new-economy-regime.md:L3550 — CONTAMINATED TEST: the miss was against an unadjusted consensus, not against forecasters who modelled the calendar shift. 'Biggest consumer miss of the cycle' overstates it and the regime test is not cleanly answered
   tested, negative — do not re-argue it on the next soft print.** *(Analysis.)*
 - **★★★★★★ AND THE INTERNAL ROTATION IS THE TELL, NOT THE INDEX LEVEL: RUSSELL 2000 +0.98% > S&P +0.45% >
   NASDAQ +0.22%.** **In a GROWTH SCARE, small caps are hit hardest — they are the most domestically exposed,
