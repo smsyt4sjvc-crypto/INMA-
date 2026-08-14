@@ -339,6 +339,29 @@ THREADS = {
                'improve itself','improves itself','its own research','ai research',
                'automate research','automating research','research loop','flywheel',
                'takeoff','scaling law','scaling laws','capability curve','own failures'],
+ # gap #26 (8/14): JULY RETAIL SALES + UMICH SENTIMENT + BUSINESS INVENTORIES scored FED(3) on
+ # inflation vocabulary alone and NOTHING on the consumer. THE MAP HAD ZERO CONSUMER-DEMAND
+ # VOCABULARY -- no 'retail sales', no 'control group', no 'michigan', no 'consumer sentiment',
+ # no 'nonstore'. THE LARGEST COMPONENT OF GDP WAS INVISIBLE TO THE ROUTER, and the vault's own
+ # PRE-REGISTERED call on this exact print (market-fragility:2625, GS -0.1% vs consensus +0.1%,
+ # "Prime-Day timing payback -0.2pp on core") was reachable only through a full-text sweep.
+ # 'INVENTORY' already existed but means SPR/crude -- a homonym, not a consumer thread.
+ 'CONSUMER':  [# CONCEPTS
+               'retail sales','control group','consumer spending','consumer sentiment',
+               'consumer confidence','personal consumption','discretionary','staples',
+               'trade-down','trade down','pull-forward','pull forward','back-to-school',
+               'holiday spend','same-store','comparable sales','foot traffic','wallet share',
+               'delinquenc','subprime auto','buy now pay later','bnpl','revolving credit',
+               'savings rate','excess savings','real income','disposable income',
+               # ENTITIES
+               'michigan','umich','conference board','census bureau','advance retail',
+               'redbook','prime day','black friday','walmart','target','costco','amazon',
+               'dollar general','dollar tree','tjx','ross stores','burlington',
+               # MEASURES
+               'nonstore','ex-autos','ex autos','ex-auto','food services','restaurants and bars',
+               'general merchandise','business inventories','inventory/sales','inventories-to-sales',
+               'retail-only','one-year inflation expectations','five-year inflation expectations',
+               'inflation expectations','sentiment index','expectations index','current conditions'],
  'FX/CARRY':  ['yen','jpy','usd/jpy','usdjpy','boj','bank of japan','carry trade','repatriation',
                'currency intervention','fx intervention','fx reserves','ministry of finance',
                'dxy','dollar index','ueda','mof','kanda','jgb','japan sold','tic shows'],
@@ -413,6 +436,7 @@ ROUTE = {
  'BLACK SEA': 'demand-destruction (CPC/Kazakh outage) / oil-value-chain',
  'INVENTORY': 'demand-destruction (SPR clock)',
  'FED':       'new-economy-regime / market-fragility / predictions (the registered hike call)',
+ 'CONSUMER':  'consumption-vs-investment-crux (THE spine question) / new-economy-regime / market-fragility (the weekly data calendar + GS pre-print forecasts) / glp1-wardrobe-cycle (the apparel line) / trade-down-landing-pads / demand-destruction',
  'FLOWS':     'market-fragility (the 7/22 gearing frame + 8/8 record tech inflows) / detachment-bid / portfolio-state',
  'MODEL-ECON':'metered-compute / compression-thesis',
  'FX/CARRY':  'ai-financing-fragility (yen-carry corners the Fed, L491) / market-fragility / new-economy-regime',

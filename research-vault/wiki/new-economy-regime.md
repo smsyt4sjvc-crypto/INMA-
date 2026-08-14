@@ -3413,3 +3413,80 @@ FedWatch numbers and was DISCARDED as likely hallucinated** — it does not appe
    **NOTE: ACM publishes 1-10yr ONLY; there is NO 30Y term-premium series.**
 3. ⬜ Re-verify Sept hike odds from CME directly when the 403 clears — current figure is secondary.
 **Links:** [[market-fragility]] · [[ai-financing-fragility]] · [[cepi]]
+
+### 2026-08-14 ~7:45am PDT — ★★★★★★★ THE VAULT PRE-REGISTERED THIS PRINT AND SIZED THE ARTIFACT — the calendar effect covers at most 29% of the control-group miss, so Jake's "not merely noise" SURVIVES quantitatively; but the "growth/INFLATION mix" is half wrong, and the CURVE CONFIRMS YESTERDAY'S 30Y CONCLUSION OUT-OF-SAMPLE
+Source: Jake's paste, chat 2026-08-14 ~7:41am PDT (July retail sales 8:30am ET · UMich Aug prelim 10:00am ET ·
+business inventories June). **Pre-print forecasts retrieved from the vault, not from the web —
+`market-fragility:L2625`, filed 2026-08-11.** Curve/tape via Yahoo chart API, 2026-08-14 ~7:45am PDT.
+⚠️ Router scored **FED(3) and NOTHING on the consumer** → **map gap #26, patched same turn: the map had ZERO
+consumer-demand vocabulary. The largest component of GDP was invisible to it,** and the vault's own
+pre-registered call on this exact release was reachable only through the full-text sweep. FED(3) → **CONSUMER(12)**.
+
+#### DATA (as reported by Jake unless noted — REPORTED-class, not yet checked against Census primary)
+- **JULY RETAIL SALES: headline −0.6% MoM vs +0.1% expected** (June +0.2%) · **ex-autos −0.3% vs +0.2%** ·
+  **CONTROL GROUP −0.4% vs +0.3%** · ex-autos&gas −0.2% · ex-gas −0.6% · retail-only −0.8%.
+  **YoY: headline +5.0% · ex-auto +5.8% · ex-auto&gas +4.8%.**
+- **CATEGORIES MoM:** nonstore/online **−2.2%** · autos&parts −1.8% · gas −0.9% · electronics −0.5% ·
+  grocery −0.1% · food&bev 0.0% · sporting/books 0.0% · furniture +0.3% · building materials +0.3% ·
+  general merchandise +0.3% · misc +0.5% · restaurants/bars +0.5% · health/personal care +0.7% ·
+  **clothing +1.9% (the largest positive).** TD: inflation-adjusted volumes ≈ **−0.7% MoM.**
+- **UMICH AUG PRELIM: 51.0 vs ~54.5-54.6 expected** (prior 55.2) · current conditions 51.8 (54.8) ·
+  expectations 50.6 (55.4) · **1-yr inflation expectations 4.3% (4.2%) · 5-yr 3.3% UNCHANGED.**
+- **BUSINESS INVENTORIES, JUNE: 0.0% MoM at $2.740T** (prior +0.3%). ⚠️ **June data — one month stale
+  against a July retail print. It cannot corroborate or contradict July.**
+- **★★★ THE PRE-PRINT NUMBERS THIS VAULT ALREADY HELD (`market-fragility:L2625`, filed 8/11):**
+  *"retail sales Fri: **GS −0.1% headline vs consensus +0.1% (Prime-Day timing payback −0.2pp on core)** ·
+  UMich Fri (**GS 55.0; 5-10y infl exp 3.3%**)."*
+- **CURVE RESPONSE TO THE PRINT (Yahoo, ~7:45am PDT): 5Y −8bp · 10Y −4bp · 30Y 0.00bp — UNCHANGED.**
+  Dollar −0.30%.
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ JAKE'S "NOT MERELY NOISE FROM AUTOS" SURVIVES, AND IT SURVIVES AGAINST A NUMBER THAT WAS IN THE
+  VAULT BEFORE THE PRINT.** **The obvious objection is the calendar: nonstore −2.2% is the biggest drag and
+  nonstore sits INSIDE the control group. GS sized that effect in advance at −0.2pp on core. THE CONTROL GROUP
+  MISSED BY 0.7pp (−0.4% vs +0.3%).** ⇒ **PRIME-DAY TIMING COVERS AT MOST 29% OF THE MISS. ~0.5pp IS NOT
+  CALENDAR.** ⇒ **And his autos point is separately confirmed: ex-autos −0.3%, ex-autos&gas −0.2%, control
+  −0.4% — every auto-stripped measure is negative.** *(Analysis. The artifact was pre-sized, which is the only
+  reason this can be settled today rather than argued.)*
+- **⛔ BUT THE "GROWTH/INFLATION MIX" FRAMING IS HALF WRONG, AND THE SAME PRE-PRINT NOTE PROVES IT. GS
+  FORECAST 5-10yr INFLATION EXPECTATIONS AT 3.3%. IT PRINTED 3.3% — EXACTLY. The 1-year ticked +0.1pp, which
+  is inside the survey's noise.** ⇒ **THERE WAS NO INFLATION SURPRISE. THE ENTIRE SURPRISE IS IN THE GROWTH
+  AND SENTIMENT LEG** (GS 55.0 → actual 51.0, a 4-point miss below an already-below-consensus forecast).
+  ⇒ **This is not a mix DETERIORATING on both axes. It is a one-sided growth miss with the long-run inflation
+  anchor landing on the nose.** *(Analysis.)*
+- **★★★★★★★ AND THE CURVE CONFIRMS YESTERDAY'S 30Y CONCLUSION OUT-OF-SAMPLE, BY A MECHANISM THAT HAD
+  NOTHING TO DO WITH HOW IT WAS REACHED. `:L3392` concluded from the real/breakeven decomposition: *"The
+  market is NOT pricing a Fed that tolerates inflation. It is pricing higher REAL rates — TERM PREMIUM AND
+  FISCAL SUPPLY."* TODAY TESTS THAT WITH A GROWTH SHOCK INSTEAD OF A DECOMPOSITION: the worst consumer data
+  in months moved 5Y −8bp, 10Y −4bp, AND THE 30Y ZERO.** ⇒ **A term-premium/supply-priced long end should
+  IGNORE a growth miss. It ignored it completely.** ⇒ **Two independent routes — a yield decomposition
+  yesterday, a natural experiment today — to the same answer. THE POLICY-PATH RALLY DIES BEFORE THE LONG
+  END.** *(Analysis. ⚠️ Stated precisely because the tempting version — "today refutes my own reading" —
+  would be FALSE: yesterday named term premium and fiscal supply explicitly, and cited ACM +13bp/1m as
+  corroboration. A conclusion surviving an out-of-sample test is a different and better thing than a
+  correction, and the vault should not record it as one.)*
+- **★★★★★ ⇒ 5s30s STEEPENED 8bp ON A SINGLE DATA RELEASE — a BULL-steepener: the front end rallies on cut
+  odds while the long end stays anchored on supply.** ⇒ **AND THAT IS THE CONFIGURATION `:L3333` ALREADY
+  NAMED AS THE WORST ONE FOR THE AI BUILDOUT: weak growth does NOT lower the long-end discount rate the
+  buildout's financing is priced off. Bad news buys the front end and does nothing for the term structure
+  that funds the capex.** *(Analysis. Standing conclusion CONFIRMED by a new mechanism, not re-argued.)*
+- **⚠️ THE TENSION JAKE DID NOT FLAG, AND IT CUTS AGAINST THE ALARM: RETAIL SALES ARE NOMINAL AND THE YoY IS
+  HOT. +5.0% headline, +5.8% ex-auto, +4.8% ex-auto&gas.** **One −0.6% month against that trend is a
+  deviation, not yet a turn** — and the vault's own rule 10 says a state is not a trigger. ⇒ **THE MoM
+  BECOMES THE STORY ONLY IF IT PERSISTS. Registered as a two-print test, not a conclusion.** *(Analysis.)*
+- **⬜ AND ONE CATEGORY IS A DIRECT HIT ON AN EXISTING VAULT THESIS THE ROUTER COULD NOT REACH: CLOTHING
+  +1.9%, THE LARGEST POSITIVE, IN A MONTH WHEN EVERY BROAD MEASURE WAS NEGATIVE.** [[glp1-wardrobe-cycle]]
+  predicted geographically concentrated wardrobe-replacement demand **timed to the back-to-school window**
+  (national modal start **Aug 15-20** — i.e. the weeks immediately after this survey period). **One month is
+  not the test, and apparel is volatile — but the note registered a WINDOW and the window has begun.**
+  *(Analysis. Flagged, not concluded.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩 **DOES THE CONTROL GROUP PRINT NEGATIVE AGAIN IN AUGUST (released ~Sep 15)?** **One print is a
+   deviation; two consecutive is the turn.** This is the falsifier for the "not merely noise" read.
+2. 🚩🚩 **DOES THE 30Y MOVE ON THE *NEXT* GROWTH SHOCK?** Today it did not move at all on the biggest miss
+   in months. **A second non-response converts "supply/term-premium priced" from a read into a regime.**
+3. 🚩 **CENSUS PRIMARY vs THE PASTE** — every figure above is REPORTED-class until checked against the
+   Advance Monthly Retail Trade Survey release. ⬜ **Not done.**
+4. ⬜ **APPAREL, NEXT TWO PRINTS, against the [[glp1-wardrobe-cycle]] back-to-school window.**
+**Links:** [[consumption-vs-investment-crux]] · [[market-fragility]] · [[glp1-wardrobe-cycle]] · [[ai-financing-fragility]]
