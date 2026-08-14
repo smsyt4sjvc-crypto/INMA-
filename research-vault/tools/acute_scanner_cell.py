@@ -320,7 +320,17 @@ THREADS = {
  'FX/CARRY':  ['yen','jpy','usd/jpy','usdjpy','boj','bank of japan','carry trade','repatriation',
                'currency intervention','fx intervention','fx reserves','ministry of finance',
                'dxy','dollar index','ueda','mof','kanda','jgb','japan sold','tic shows'],
- 'AI-POLICY': ['export control','entity list','blacklist','huawei','huang','jensen',
+ 'AI-POLICY': [
+               # gap #24, 8/13: "regulatory depreciation / MW-per-token efficiency standards" matched
+               # SEMIS(2) and nothing on the POLICY axis, while the vault had ZERO coverage of
+               # best-available-technology regulation -- a third depreciation channel it had never
+               # considered. CONCEPTS/ENTITIES/MEASURES for efficiency-standard regulation:
+               'best available technology','bact','mact','laer','ecodesign','energy efficiency directive',
+               'efficiency standard','efficiency mandate','cafe standard','emissions standard',
+               'pue','power usage effectiveness','perf per watt','performance per watt','watts per token',
+               'mw per token','mlperf','benchmark standard','regulatory obsolescence','regulatory depreciation',
+               'data centre moratorium','data center moratorium','ratepayer','interconnection queue reform',
+               'export control','entity list','blacklist','huawei','huang','jensen',
                'chip ban','chip export','tech transfer','sovereign ai','ai regulation',
                'ai policy','diffusion rule','deregulat','preempt','smic','state ai law',
                'executive order','white house','ai framework','voluntary framework',

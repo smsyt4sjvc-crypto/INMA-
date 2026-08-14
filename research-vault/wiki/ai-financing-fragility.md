@@ -5759,3 +5759,91 @@ Source: Tier-1 agent, SEC EDGAR XBRL company-concept API cross-verified against 
    the neocloud debt?** If so the same asset is supporting two obligations.
 4. ⬜ Why CoreWeave is named nowhere despite the known stake.
 **Links:** [[balance-sheet-board]] · [[cepi]] · [[metered-compute]] · [[market-fragility]]
+
+### 2026-08-13 ~10:00pm PDT — ★★★★★★ JAKE OPENS A THIRD DEPRECIATION CHANNEL THE VAULT HAS NEVER CONSIDERED: **REGULATORY OBSOLESCENCE.** It has a legal name, a precedent, and one property that makes it lethal to the residual — **and it is the only channel that defeats his own segmentation defence.**
+Jake: *"Regulatory depreciation is a legitimate [channel] on Nvidia chips, adding to economic and
+physical… If newer, more energy-efficient chips are available, legislation may dictate their use through
+MW consumption limits or other regulatory means. 'If you can, you will' legislation, similar to emissions
+standards on vehicles. Reporting on MW/token, and regulations tightening as new technology lowers the
+standard ratio."* **VERIFIED: the vault has ZERO prior coverage** — no hits on best-available-technology,
+efficiency standard, ecodesign, Energy Efficiency Directive, perf-per-watt or MW/token. **New territory.**
+
+#### THESIS (interpretation — NOT fact; no data in this exchange, this is mechanism)
+- **★★★★★ WHAT HE IS DESCRIBING HAS A NAME AND DECADES OF PRECEDENT: A *BEST AVAILABLE TECHNOLOGY* (BAT)
+  STANDARD.** US Clean Air Act — **BACT** (Best Available Control Technology), **MACT**, **LAER**
+  (Lowest Achievable Emission Rate) · EU **BAT Reference Documents** under the Industrial Emissions
+  Directive · **CAFE** (his own analogy) · the **EU Ecodesign Directive**. **His "if you can, you will"
+  is the exact regulatory doctrine, and it is well-established law in three other industries.**
+- **★★★★★★★ AND THE PROPERTY THAT MAKES IT LETHAL IS THE ONE HE NAMED LAST: A BAT STANDARD IS DEFINED BY
+  WHAT THE BEST AVAILABLE TECHNOLOGY CAN DO — SO EVERY NEW GENERATION AUTOMATICALLY TIGHTENS THE
+  STANDARD FOR EVERYONE ELSE.** ⇒ **NVIDIA'S OWN PRODUCT ROADMAP WOULD SET THE REGULATORY OBSOLESCENCE
+  SCHEDULE FOR ITS OWN INSTALLED BASE.** ⇒ **It converts `:L4125`'s *"the generation clock is NVDA's
+  own"* from a COMMERCIAL observation into a STATUTORY one.** *(Analysis. This is the finding.)*
+- **★★★★★★★ AND IT IS THE ONLY CHANNEL THAT DEFEATS HIS OWN SEGMENTATION DEFENCE FROM 8/12 ~11:00pm.**
+  **Economic obsolescence is VOLUNTARY — a budget-constrained tenant can keep a worse chip if it is
+  cheap enough, which is exactly why he argued the A100's demand is isolated.** **A REGULATION DOES NOT
+  CARE WHETHER THE BUYER CAN AFFORD THE ALTERNATIVE. It removes the option to keep the old asset
+  regardless of the tenant's budget.** ⇒ **He has produced the counter to his own strongest bull
+  argument, and it is the first thing all session that reaches the segmented tail.** *(Analysis.)*
+- **★★★★★ AND THE VAULT'S OWN POWER DATA IS THE POLITICAL PRECONDITION: electric construction +4.3%
+  (Jun-25) / +5.2% (Jun-26) against data-centre construction +45.8%, ratio 0.05 → 0.51**
+  (`power-not-petroleum:349`). ⇒ **When data centres visibly compete with households for power, an
+  efficiency mandate is the CHEAPEST political intervention available — IT REQUIRES BUILDING NOTHING.**
+  **The grid constraint this vault has tracked for weeks is precisely what manufactures demand for the
+  regulation he is describing.** *(Analysis.)*
+- **★★★★★★ AND IT BREAKS HUANG'S ANALOGY A THIRD WAY. *"Like electricity, like the internet"* already
+  failed on obsolescence and on duration. **A MANDATED EFFICIENCY STANDARD IS PRECISELY THE THING THAT
+  CANNOT HAPPEN TO A TRANSMISSION LINE AND CAN HAPPEN TO A COMPUTE ASSET.** Grids do not get banned for
+  being old.** ⇒ **"Investable, LONG LIFE, infrastructure asset" is a claim about an asset class with no
+  regulatory expiry. A chip fleet under a BAT regime is a different class.** *(Analysis.)*
+
+#### ⚠️ THE SIDE HE IS UNDER-WEIGHTING — three real obstacles, and the last one inverts
+- **⚠️⚠️ OBSTACLE 1, THE STRONGEST: EVERY EXISTING DATA-CENTRE EFFICIENCY REGIME TARGETS THE *FACILITY*,
+  NOT THE *COMPONENT*.** **PUE (Power Usage Effectiveness) is a building metric; the EU Energy
+  Efficiency Directive mandates reporting on PUE, water and renewable share — NOT on chip generation.**
+  ⇒ **A facility-level standard is satisfiable by cooling, siting and heat reuse. IT DOES NOT FORCE CHIP
+  REPLACEMENT.** **That is the compliance path of least resistance and it is the one that already
+  exists.** ⬜ **His thesis requires regulation to jump from the building to the silicon — a jump no
+  existing regime has made.**
+- **⚠️⚠️ OBSTACLE 2, THE DEEPEST: MW/TOKEN IS NOT A REGULATABLE UNIT. A "token" is not standardised —
+  it varies by tokenizer, model and task, and each vendor defines its own.** **You cannot write a legal
+  standard on a unit the regulated parties each define differently.** **MPG works because there is a
+  STANDARDISED TEST CYCLE. There is no standardised test cycle for AI inference** — MLPerf is the
+  nearest thing and it is industry-run. ⇒ **The regulation requires a benchmark that does not exist, and
+  building one is itself a multi-year process in which NVDA would have enormous input.**
+- **⚠️ OBSTACLE 3, TIMING — AND HE ALREADY CONCEDED IT BY PUTTING "REPORTING" FIRST. CAFE was 1975. The
+  EU's data-centre requirement is STILL only reporting.** **Reporting precedes standards by years.**
+  ⇒ **WARNING-vs-TRIGGER: this dates nothing inside any horizon this vault trades.**
+- **★★★★★★★ BUT THE RESCUE, AND IT IS WHY THE TIMING OBJECTION DOES NOT DISMISS THIS: REGULATORY
+  DEPRECIATION DOES NOT NEED TO *ARRIVE* TO MATTER. IT NEEDS TO BECOME *CREDIBLE* — BECAUSE RESIDUAL
+  VALUES ARE MARKED ON FORWARD EXPECTATIONS.** **A credible 2030 rule impairs a 2026 residual TODAY.**
+  ⇒ **This is a different transmission from an ordinary trigger: it acts on the DISCOUNTED EXPECTATION,
+  not on the event date.** **Every RVG, every useful-life assumption and every SPV residual in the $500B
+  programme is a forward estimate — and they would all be wrong in the SAME DIRECTION, SIMULTANEOUSLY,
+  the moment such a rule became plausible.** *(Analysis. This is the strongest form of his case.)*
+- **★★★★★★★ AND THE INVERSION HE HAS NOT ARGUED, WHICH MATERIALLY RAISES THE PROBABILITY: A BAT STANDARD
+  WOULD BE ENORMOUSLY BULLISH FOR NVDA *THE SELLER* WHILE BEARISH FOR THE INSTALLED BASE AND ITS
+  FINANCIERS. FORCED REPLACEMENT IS MANDATED DEMAND.** **NVDA writes residual-value support on old chips
+  AND sells the new ones. A rule that obsoletes the old fleet transfers value FROM the guarantee TO the
+  product line — and NVDA sits on both sides of that transfer.** ⇒ **NVDA MIGHT NOT OPPOSE THIS.**
+  **It is the emissions-standard playbook: the incumbent holding the best technology frequently SUPPORTS
+  the standard, because it strands competitors and forces a replacement cycle.** **NVDA has the best
+  perf-per-watt in the industry; a perf-per-watt standard is a MOAT, not a burden.**
+  ⇒ **The lobbying direction is ambiguous and plausibly the OPPOSITE of the naive assumption — which is
+  exactly what makes the regulation more likely than a "industry will block it" prior suggests.**
+  ⚠️ **And note who is harmed: the $500B partners — Apollo, BlackRock, Blackstone, Brookfield, GS, KKR —
+  hold the RESIDUAL, not the product line.** *(Analysis. This is the addition, and it strengthens him.)*
+
+#### 📌 REGISTERED — the first falsifiable markers on this channel
+1. 🚩 **EU ENERGY EFFICIENCY DIRECTIVE data-centre reporting — does the next revision move from FACILITY
+   metrics (PUE) toward COMPONENT or WORKLOAD efficiency?** **That jump is the leading indicator, and
+   Europe moves first on this class of rule.**
+2. 🚩 **ANY STANDARDISED AI-EFFICIENCY BENCHMARK gaining regulatory reference** (MLPerf Power, an ISO/IEC
+   or IEEE workgroup, an EPA/DOE program). **A benchmark is the precondition; no benchmark, no standard.**
+3. 🚩 **US STATE-LEVEL DATA-CENTRE POWER LEGISLATION** — Virginia, Ohio, Texas, Georgia. **The grid fight
+   is state-level first, and "efficiency mandate" is the cheapest thing a legislature can pass.**
+4. ⬜ **Does NVDA's lobbying disclosure show it FOR or AGAINST efficiency standards?** **The inversion
+   above makes this genuinely uncertain, and it is checkable in lobbying filings.**
+5. ⬜ Whether any SPV/RVG in the $500B programme carries a REGULATORY-CHANGE clause. **If the residual
+   guarantees are silent on regulatory obsolescence, the risk sits unpriced with the holder.**
+**Links:** [[power-not-petroleum]] · [[metered-compute]] · [[ai-capex-cycle]] · [[cepi]] · [[balance-sheet-board]]
