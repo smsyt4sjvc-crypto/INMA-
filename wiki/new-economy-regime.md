@@ -3438,6 +3438,7 @@ pre-registered call on this exact release was reachable only through the full-te
   *"retail sales Fri: **GS −0.1% headline vs consensus +0.1% (Prime-Day timing payback −0.2pp on core)** ·
   UMich Fri (**GS 55.0; 5-10y infl exp 3.3%**)."*
 - **CURVE RESPONSE TO THE PRINT (Yahoo, ~7:45am PDT): 5Y −8bp · 10Y −4bp · 30Y 0.00bp — UNCHANGED.**
+  ⟲ SUPERSEDED 2026-08-14 → market-fragility.md:L3393 — same bug: the curve table is wrong on all three tenors and on two of three signs. Actual 5Y +3bp, 10Y +5bp, 30Y +6bp - the whole curve sold off
   Dollar −0.30%.
 
 #### THESIS (interpretation — NOT fact)
@@ -3455,6 +3456,7 @@ pre-registered call on this exact release was reachable only through the full-te
   AND SENTIMENT LEG** (GS 55.0 → actual 51.0, a 4-point miss below an already-below-consensus forecast).
   ⇒ **This is not a mix DETERIORATING on both axes. It is a one-sided growth miss with the long-run inflation
   anchor landing on the nose.** *(Analysis.)*
+    ⟲ SUPERSEDED 2026-08-14 → market-fragility.md:L3393 — right conclusion, wrong mechanism: the long end did not IGNORE a belly rally, the whole curve sold off and the 30Y sold off MOST. Term premium survives on better evidence than I gave
 - **★★★★★★★ AND THE CURVE CONFIRMS YESTERDAY'S 30Y CONCLUSION OUT-OF-SAMPLE, BY A MECHANISM THAT HAD
   NOTHING TO DO WITH HOW IT WAS REACHED. `:L3392` concluded from the real/breakeven decomposition: *"The
   market is NOT pricing a Fed that tolerates inflation. It is pricing higher REAL rates — TERM PREMIUM AND

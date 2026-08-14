@@ -3309,6 +3309,7 @@ that's going to decide itself 'all of a sudden'."*
 **Links:** [[war/war-board]] · [[new-economy-regime]] · [[_calibration]] · [[demand-destruction]] · [[ai-financing-fragility]]
 
 ### 2026-08-14 ~7:45am PDT — ★★★★★★ THE REGISTERED TEST IS ANSWERED AND THE ANSWER IS NEGATIVE: bad-news-is-good-news did NOT flip on the worst consumer print in months — and the internal rotation says the market priced the FED, not the ECONOMY
+  ⟲ SUPERSEDED 2026-08-14 → market-fragility.md:L3393 — EVERY NUMBER WRONG INCLUDING SIGNS: meta.chartPreviousClose is the close before the REQUESTED RANGE, not the prior session. S&P was -0.13% not +0.45%; the 5Y SOLD OFF 3bp, it did not rally 8bp
 Source: Yahoo chart API pull, 2026-08-14 ~7:45am PDT (~10:45am ET, ~2h15m after the 8:30am ET retail-sales
 release and ~45m after the 10:00am ET UMich prelim). **Closes the test registered at `:L2630` on 8/11:**
 *"test whether the bad-news-is-good-news regime flips on PIPELINE data with the retail print still ahead Friday."*
@@ -3360,3 +3361,76 @@ Data → [[new-economy-regime]] (this morning's entry). Instrument caveat: **int
 3. ⬜ **XRT vs SPX relative, next 10 sessions** — does the consumer get sold as a sector while the index
    absorbs it, or does it re-converge?
 **Links:** [[new-economy-regime]] · [[consumption-vs-investment-crux]] · [[detachment-bid]] · [[ai-financing-fragility]]
+
+### 2026-08-14 ~9:30am PDT — ⛔⛔⛔ EVERY MARKET NUMBER I FILED AND PUBLISHED AT 7:45am WAS WRONG, INCLUDING THE SIGNS. ONE BUG PRODUCED ALL OF IT: `meta.chartPreviousClose` IS THE CLOSE BEFORE THE REQUESTED **RANGE**, NOT THE PRIOR SESSION — and the truth INVERTS the read: **yields ROSE across the whole curve and the S&P FELL on the weak print**
+Source: **Jake's screenshot of Fidelity Trader+ at 9:25am PDT — DJIA −0.21% · NASDAQ −0.35% · S&P 500 −0.14%** —
+against my published +0.45% on the S&P. **A retail phone app caught an error my own data pull did not.**
+Re-verified against the daily CLOSE ARRAY (10d/1d), 2026-08-14 ~9:30am PDT. ⟲ **SUPERSEDES `:L3311`
+(the whole entry) and `new-economy-regime:L3440` (the curve table).**
+
+#### DATA (MEASURED — vs the LAST COMPLETED SESSION, Thu 2026-08-13 close)
+| instrument | Thu 8/13 close | now | **actual** | **I FILED** | error |
+|---|---|---|---|---|---|
+| **5Y yield** | 4.313 | 4.346 | **+3bp** | −8bp | **11bp, sign flipped** |
+| **10Y yield** | 4.641 | 4.688 | **+5bp** | −4bp | **9bp, sign flipped** |
+| **30Y yield** | 5.213 | 5.270 | **+6bp** | 0bp | **6bp** |
+| **S&P 500** | 7,798.99 | 7,788.68 | **−0.13%** | +0.45% | **sign flipped** |
+| **Nasdaq** | 26,803.03 | 26,720.13 | **−0.31%** | +0.22% | **sign flipped** |
+| **Russell 2000** | 3,052.85 | 3,062.90 | **+0.33%** | +0.98% | 3× overstated |
+| **VIX** | 14.63 | 14.50 | **−0.89%** | −5.43% | 6× overstated |
+| **XRT** | 89.29 | 88.92 | **−0.42%** | −2.05% | 5× overstated |
+
+- **⛔ THE BUG, EXACTLY: `meta.chartPreviousClose` RETURNS THE CLOSE IMMEDIATELY BEFORE THE REQUESTED RANGE
+  WINDOW. IT IS RANGE-DEPENDENT AND IS ALMOST NEVER THE PRIOR SESSION.** Same ticker, same moment:
+  **`range=5d` → 7,757.64 · `range=10d` → 7,600.50 · `range=1mo` → 7,543.59 · TRUE prior close 7,798.99.**
+- **★ FIX SHIPPED, NOT JUST DIAGNOSED: `tools/tape.py`** — reads the **close array**, excludes today's bar
+  **by DATE not by position** (position breaks pre-open), and prints `chartPreviousClose` in a flagged
+  right-hand column **so the trap stays visible instead of silently absent.** Verified: it reproduces
+  −0.13% against Jake's −0.14%.
+- **✓ SCOPE CHECKED AND CONTAINED: `vault_headline_scanner.ipynb` uses yfinance's `previous_close` with a
+  `close.iloc[-2]` fallback — both CORRECT.** The bug was confined to my ad-hoc inline pulls today.
+
+#### THESIS (interpretation — NOT fact)
+  ⟲ SUPERSEDES new-economy-regime.md:L3458 — right conclusion, wrong mechanism: the long end did not IGNORE a belly rally, the whole curve sold off and the 30Y sold off MOST. Term premium survives on better evidence than I gave
+  ⟲ SUPERSEDES new-economy-regime.md:L3440 — same bug: the curve table is wrong on all three tenors and on two of three signs. Actual 5Y +3bp, 10Y +5bp, 30Y +6bp - the whole curve sold off
+- **⛔⛔⛔ WHAT INVERTS, STATED PLAINLY BECAUSE I PUBLISHED THE OPPOSITE TO JAKE 105 MINUTES AGO:**
+  ⟲ SUPERSEDES market-fragility.md:L3311 — EVERY NUMBER WRONG INCLUDING SIGNS: meta.chartPreviousClose is the close before the REQUESTED RANGE, not the prior session. S&P was -0.13% not +0.45%; the 5Y SOLD OFF 3bp, it did not rally 8bp
+  **(1) "The front end rallied 8bp on the miss" — FALSE. THE 5Y SOLD OFF 3bp. Yields rose across the ENTIRE
+  curve on a −0.6% retail print.** **(2) "Bad-news-is-good-news survived" — FALSE. The S&P is DOWN and the
+  Nasdaq is down harder.** **(3) "The market priced the FED, not the ECONOMY" — FALSE. The rates market
+  priced no Fed relief at all.** **(4) The rotation is real but a THIRD the size I claimed.** *(Analysis.)*
+- **★★★★★★ AND THE READ THAT REPLACES MINE IS JAKE'S, WHICH I ARGUED AGAINST THIS MORNING. A −0.6% RETAIL
+  PRINT AND A 4-POINT MICHIGAN MISS PRODUCED HIGHER YIELDS ACROSS THE WHOLE CURVE AND A LOWER S&P. THE
+  MARKET SOLD BONDS *AND* STOCKS ON WEAK GROWTH DATA.** ⇒ **That is the "ugly growth/inflation mix" expressed
+  in prices — the tape did what he said and the opposite of what I told him.** *(Analysis.)*
+- **★★★★★ AND THE TERM-PREMIUM CONCLUSION SURVIVES AND GETS STRONGER — BY A DIFFERENT MECHANISM THAN THE ONE
+  I DESCRIBED. I said the belly rallied and the long end ignored it. THE TRUTH IS THE WHOLE CURVE SOLD OFF
+  AND THE LONG END SOLD OFF MOST: 5Y +3bp, 10Y +5bp, 30Y +6bp.** ⇒ **5s30s still steepened ~3bp, but by the
+  30Y selling off MORE rather than by the front end rallying.** ⇒ **Weak growth data → the long end sells
+  off. That is a PURER supply/term-premium signature than "the long end failed to rally," because it has no
+  policy-path offset in it at all.** *(Analysis. Right conclusion, wrong mechanism — and the vault should
+  record that distinction rather than let a lucky call stand as a good one.)*
+- **⚠️ AND THE COMPETING EXPLANATION I CANNOT RULE OUT: the Prime-Day contamination means the print may not
+  have been read as NEWS.** **But that cannot explain the 30Y +6bp — a dismissed print should move nothing.**
+  ⇒ **Something other than the data is bidding yields up today, and I do not know what it is.** ⬜ **Do not
+  fill this gap with a mechanism. Register it.** *(Analysis.)*
+- **⛔⛔ THE PROCESS FAILURE, AND IT IS THE ONE THE RULEBOOK ALREADY NAMES. §0.6: *"CROSSCHECK MY OWN OUTPUT,
+  NOT JUST JAKE'S INPUT — the librarian gates the DOOR. Nothing gated the WINDOW: numbers I generate
+  myself."*** **I ran `crosscheck.py` zero times today.** **And the error was SILENT and DIRECTIONALLY
+  PLAUSIBLE — a rally on a weak day is a STORY, so it passed my own smell test and I built two entries and a
+  published answer on top of it.** ⇒ **THE GATE THAT CAUGHT IT WAS A HUMAN WITH A PHONE.** ⇒ **Seventh
+  instrument mismatch of this session, and the first that was MINE, in my own pull, corrupting a filed entry
+  AND a user-facing answer.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **THE REGISTERED TEST AT `:L2630` IS RE-OPENED AND POINTS THE OTHER WAY.** On the corrected tape,
+   **equities did NOT absorb the print.** ⬜ **Grade it at the CLOSE, not intraday — opex is today.**
+2. 🚩🚩 **WHAT IS BIDDING YIELDS UP ON WEAK DATA?** Supply, positioning, opex, or a genuine
+   inflation-tolerance re-price. **Unknown. Do not assert one.**
+3. ⬜ **`tools/tape.py` IS NOW THE ONLY SANCTIONED QUOTE PATH.** Any inline Yahoo pull that computes a
+   change from `meta` is a defect.
+4. ⬜ **AUDIT: the six notes citing "Yahoo chart API" pulls** — `ai-infra-allocation-map`, `oil-value-chain`,
+   `new-economy-regime`, `market-fragility`, `colab-archive-audit`, `bull-bear-ledger`. **The 52-week screens
+   read the close ARRAY and are fine; any entry quoting a same-day % change is suspect.** **Folds into the
+   standing AUDIT PASS open item.**
+**Links:** [[new-economy-regime]] · [[consumption-vs-investment-crux]] · [[portfolio-state]]
