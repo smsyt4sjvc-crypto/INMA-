@@ -5799,6 +5799,7 @@ efficiency standard, ecodesign, Energy Efficiency Directive, perf-per-watt or MW
 
 #### ⚠️ THE SIDE HE IS UNDER-WEIGHTING — three real obstacles, and the last one inverts
 - **⚠️⚠️ OBSTACLE 1, THE STRONGEST: EVERY EXISTING DATA-CENTRE EFFICIENCY REGIME TARGETS THE *FACILITY*,
+  ⟲ SUPERSEDED 2026-08-14 → ai-financing-fragility.md:L5851 — DEFEATED BY ARITHMETIC: PUE floor is 1.0 and frontier operators are at 1.06-1.09, so only ~9% of facility headroom remains, forever, while chip perf/watt improves by multiples per generation. Once PUE approaches 1, the only remaining efficiency variable IS the chip -- the facility metric becomes a chip metric without the regulator naming silicon
   NOT THE *COMPONENT*.** **PUE (Power Usage Effectiveness) is a building metric; the EU Energy
   Efficiency Directive mandates reporting on PUE, water and renewable share — NOT on chip generation.**
   ⇒ **A facility-level standard is satisfiable by cooling, siting and heat reuse. IT DOES NOT FORCE CHIP
@@ -5847,3 +5848,76 @@ efficiency standard, ecodesign, Energy Efficiency Directive, perf-per-watt or MW
 5. ⬜ Whether any SPV/RVG in the $500B programme carries a REGULATORY-CHANGE clause. **If the residual
    guarantees are silent on regulatory obsolescence, the risk sits unpriced with the holder.**
 **Links:** [[power-not-petroleum]] · [[metered-compute]] · [[ai-capex-cycle]] · [[cepi]] · [[balance-sheet-board]]
+
+### 2026-08-13 ~10:10pm PDT — ⛔ **MY OBSTACLE 1 IS DEFEATED, AND ARITHMETIC DOES IT: PUE HAS 9% OF HEADROOM LEFT AT THE FRONTIER, FOREVER.** The facility metric BECOMES a chip metric without the regulator ever mentioning silicon — and the grandfathering objection turns over into the worst outcome for the RVG.
+  ⟲ SUPERSEDES ai-financing-fragility.md:L5801 — DEFEATED BY ARITHMETIC: PUE floor is 1.0 and frontier operators are at 1.06-1.09, so only ~9% of facility headroom remains, forever, while chip perf/watt improves by multiples per generation. Once PUE approaches 1, the only remaining efficiency variable IS the chip -- the facility metric becomes a chip metric without the regulator naming silicon
+Jake: *"if [a] building equipped with newer, much more efficient chips… will lower the thresholds for the
+industry. It will be impossible to not only compete at scale, but to do so without exceeding the new,
+more efficient building consumption threshold."*
+
+#### DATA (REPORTED — industry PUE, verified 2026-08-13 ~10:15pm)
+- **PUE (Power Usage Effectiveness) = total facility energy ÷ IT equipment energy. THEORETICAL FLOOR = 1.0.**
+- **Google fleet-wide 1.09 (2025); best sites 1.06.** **Meta ~1.09.** Hyperscale best-in-class **1.04-1.10**.
+- **INDUSTRY AVERAGE 1.54-1.56** (Uptime Institute 2025 Global Data Center Survey).
+- ⇒ **A FRONTIER OPERATOR AT 1.09 HAS NINE PERCENT OF FACILITY OVERHEAD LEFT TO GIVE — EVER.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ CONCEDED, AND THE NUMBER IS THE ARGUMENT. I said a facility-level standard is "satisfiable by
+  cooling, siting and heat reuse — it does not force chip replacement." THAT ASSUMED THE FACILITY LEVER
+  HAD ROOM. AT THE FRONTIER IT HAS 9%, AND IT IS ASYMPTOTIC TO 1.0.** **Chip performance-per-watt
+  improves by MULTIPLES per generation; facility efficiency has a hard floor nine points away.**
+  ⇒ **ONCE A FACILITY IS AT ~1.09, THE ONLY REMAINING VARIABLE IN ITS ENERGY EFFICIENCY IS THE IT LOAD
+  ITSELF — i.e. THE CHIPS.** ⇒ **THE FACILITY METRIC AND THE CHIP METRIC CONVERGE AS PUE → 1. In the
+  limit they are the same regulation, and the regulator never has to mention silicon.** *(Analysis.
+  Jake's point, and the arithmetic proves it rather than merely supporting it.)*
+- **★★★★★★ AND HIS SECOND CLAUSE IS A COMPETITIVE-EXCLUSION MECHANISM, NOT A COST ONE — WHICH IS A
+  STRONGER THING THAN I CREDITED. UNDER AN ABSOLUTE MW CAP, WORSE CHIPS DO NOT MAKE YOU MORE EXPENSIVE.
+  THEY MAKE YOU SMALLER.** **A fleet with 3× worse perf-per-watt gets ONE-THIRD the compute under the
+  same allocation.** ⇒ **In a business with this much scale economics and winner-take-most dynamics,
+  being capped at a third of the compute is not a margin problem — it is an existential one.**
+  ⇒ **"Impossible to compete at scale" is literally true under a cap, not rhetorically true.** *(Analysis.)*
+- **★★★★★★★ AND THE NEAREST-TERM ROUTE COLLAPSES HIS TIMING PROBLEM, AND IT IS NOT LEGISLATION AT ALL:
+  THE GRID INTERCONNECTION QUEUE IS ALREADY AN MW CAP.** **This vault's own data: electric construction
+  +4.3%/+5.2% against data-centre construction +45.8%** (`power-not-petroleum:349`). **Interconnection
+  capacity is ALREADY being rationed — utilities and state Public Utility Commissions ALREADY decide who
+  gets connected and in what order.** ⇒ **ADDING "COMPUTE DELIVERED PER MEGAWATT" AS AN ALLOCATION
+  CRITERION REQUIRES NO NEW LAW. It is a tariff or queue-reform decision at a state PUC.**
+  ⇒ **That is a ~12-month object, not a CAFE-style decade — and it answers my timing objection
+  completely.** *(Analysis. This is the strongest available form of his thesis.)*
+- **★★★★ AND IT SHRINKS MY OBSTACLE 2 (the measurement problem) TOO: A FACILITY-LEVEL CRITERION DOES NOT
+  NEED "PER TOKEN."** **It needs compute-delivered per MW — and FLOPS is datasheet-verifiable and
+  standardised in a way tokens are not.** ⇒ **The unmeasurability objection was aimed at the wrong
+  denominator. It survives against a token standard and largely dissolves against a FLOPS/watt or
+  rack-density allocation criterion.** *(Analysis.)*
+- **⚠️ THE OBJECTION THAT DOES SURVIVE, AND IT IS SPECIFIC: NEW SOURCE REVIEW. US environmental
+  regulation overwhelmingly GRANDFATHERS existing facilities and binds NEW or MODIFIED sources, and BACT
+  carries an explicit cost-reasonableness test.** ⇒ **A standard set at frontier PUE would be a de facto
+  ban on everyone else, which is legally vulnerable — the real-world version lands below frontier, with
+  existing sites exempted.** ⇒ **The installed base — the thing the RVG is written on — is precisely the
+  thing most likely to be carved out.** *(Analysis.)*
+- **★★★★★★★ BUT THE GRANDFATHERING OBJECTION TURNS OVER INTO THE WORST POSSIBLE OUTCOME FOR THE
+  COLLATERAL, AND THIS IS THE FINDING: GRANDFATHERING PROTECTS THE FACILITY'S RIGHT TO *OPERATE*. IT
+  DOES NOT PROTECT THE ASSET'S *TRANSFER VALUE* — BECAUSE THE MARGINAL BUYER OF A USED A100 IS SOMEONE
+  BUILDING OR EXPANDING, AND THEY FACE THE NEW STANDARD.** ⇒ **GRANDFATHERING PRESERVES THE USE AND
+  KILLS THE RESALE MARKET.** ⇒ **AND A RESIDUAL VALUE GUARANTEE IS A CLAIM ON TRANSFER VALUE, NOT ON USE
+  VALUE.** ⇒ **THE OUTCOME I RAISED AS THE OBJECTION IS STRICTLY WORSE FOR THE RVG THAN A CLEAN BAN
+  WOULD BE.** *(Analysis. My own counter, inverted.)*
+- **★★★★★★★ AND IT LANDS ON THE EXACT PROPERTY HUANG NAMED AS THE REASON THE ASSET IS INVESTABLE.
+  `:L4125` graded his claim: *"the 'fungible' claim — TRUE WITHIN A GENERATION (runs every model, every
+  CSP → real secondary market → collateral/repossession value — THE RVG LOGIC)."*** **REGULATORY
+  GRANDFATHERING WOULD MAKE OLD CHIPS NON-FUNGIBLE BY LAW: operable where they sit, deployable nowhere
+  else.** ⇒ **It does not attack the chip's performance. It attacks the SECONDARY MARKET — which is the
+  precise mechanism `:L4125` identified as what makes the collateral financeable at all.** *(Analysis.)*
+
+#### 📌 REGISTERED — sharpened to the interconnection route
+1. 🚩🚩 **STATE PUC / UTILITY INTERCONNECTION CRITERIA — does any jurisdiction add an EFFICIENCY or
+   COMPUTE-PER-MW test to data-centre interconnection or to a large-load tariff?** **This is now the
+   leading indicator and it needs no legislature.** Watch **Virginia (Dominion), Ohio (AEP), Texas
+   (ERCOT large-load interconnection), Georgia (Georgia Power)** — all four already have active
+   large-load tariff proceedings.
+2. 🚩 **ANY LARGE-LOAD TARIFF THAT PRICES OR RATIONS BY OUTPUT RATHER THAN BY CONNECTED MW.**
+3. ⬜ **Whether any existing data-centre efficiency rule contains a GRANDFATHERING clause and how it
+   treats EQUIPMENT REPLACEMENT** — replacing chips inside a grandfathered shell may itself count as a
+   "modification" that triggers new-source review. **If so, the grandfather protects the building and
+   traps the fleet inside it.**
+**Links:** [[power-not-petroleum]] · [[metered-compute]] · [[buildout-bottleneck-map]] · [[cepi]]
