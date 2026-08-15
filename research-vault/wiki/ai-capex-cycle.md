@@ -2641,3 +2641,99 @@ garbled, CNBC 403) — those rest on secondary paraphrase and are flagged.**
 4. ⬜ **Press GEV/ETN/PWR/TT/EME for a disclosed DC REVENUE share** — currently orders-and-backlog only.
 5. ⬜ **Quanta's exact 2000 peak price**, for a precise 2000-2002 drawdown.
 **Links:** [[market-fragility]] · [[power-not-petroleum]] · [[buildout-bottleneck-map]] · [[cepi]] · [[portfolio-state]]
+
+### 2026-08-15 ~2:05pm PDT — ⭐⭐⭐ THE AI-ADJUSTED BREADTH REPORT: the framework is right and the best statistic in it is not a breadth measure at all — **five companies go from 16% of S&P capex (2023) to ~50% (2027E)**. ⛔ But **RSP > SPY is NOT evidence of independent breadth — equal weighting AMPLIFIES the AI-infrastructure exposure**, and **his "independent" energy breadth is a second single-driver cluster**
+Source: Jake's report, data through 2026-08-14 → `raw/ai-adjusted-breadth-report-2026-08-15.txt`. Cites Slick
+Charts (constituent table), WSJ, FT, FactSet Insight, Axios/Goldman, Bank of America. Router: CAPEX(9) ·
+MEMORY(3) · SEMIS(2) · POWER(2) · WAR/OIL(2) · CONSUMER(2). **⚠️ ARTIFACT TEST: a compiled report with inline
+citations; I have not fetched its underlying sources.**
+
+#### DATA (as presented — REPORTED unless the underlying source is an index/filing)
+- **S&P +13.74% price / +14.54% total YTD. 349 of 503 (69.4%) POSITIVE. 216 of 503 (42.9%) BEATING the index
+  price return** — rank 216 was Amazon at +13.79%. **RSP (equal weight) +17.24% YTD — AHEAD of cap-weighted
+  by 3.50pp.**
+- **≥14 OF THE TOP 20 PERFORMERS ARE AI/DATA-CENTRE ADJACENT:** Sandisk, Dell, Seagate, Micron, Western
+  Digital, Intel, Marvell, Lumentum, HPE, AMD, Teradyne, Applied Materials, Lam Research, NetApp.
+- **INDUSTRIALS YTD: Comfort Systems +90% · Corning +90% · Vertiv +81% · GE Vernova +63% · Quanta +62% ·
+  Generac +61% · Caterpillar +50% · Eaton +42%.**
+- **✓ CLOSES AN OPEN ITEM FROM THE 2:02pm ENTRY: EATON'S DATA-CENTRE-RELATED SALES WERE 21% OF ITS BUSINESS
+  IN 2025 (WSJ).** My agent had this as NOT FOUND — orders and backlog only. **Now disclosed.**
+  **Cummins expects data-centre sales to reach $9B by 2030.**
+- **⭐⭐ THE FINANCING CHANNEL (FactSet Insight): hyperscaler INCREMENTAL DEBT WENT FROM 9% OF CAPEX IN FY24
+  TO 32% OVER THE TRAILING TWELVE MONTHS. AGGREGATE HYPERSCALER DEBT ≈ $700 BILLION. Amazon alone sold $25B
+  of bonds.**
+- **⭐⭐⭐ THE CAPEX CONCENTRATION (Bank of America): 2027E — FIVE data-centre companies ≈ $1.072 TRILLION vs
+  ≈ $1.066 TRILLION for THE OTHER 495 COMBINED. IN 2023 THOSE FIVE WERE ~16% OF S&P 500 CAPEX.**
+  ⇒ **16% → ~50% of index capital spending in four years, concentrated in five issuers.**
+- **GOLDMAN via Axios: AI investment ≈ $600B in 2026 = ~2% of US GDP, 10% of business fixed investment,
+  15% of equipment investment.**
+- **ENERGY YTD: MPC +119 · VLO +110 · PSX +81 · APA +65 · BKR +42 · OXY +42 · SLB +40 · EOG +36 · COP +35 ·
+  XOM +33 · CVX +31.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★★ THE BofA CAPEX STATISTIC IS THE BEST NUMBER IN THIS ENTIRE DEBATE AND IT IS NOT A BREADTH
+  MEASURE. FIVE COMPANIES GOING FROM 16% TO ~50% OF S&P 500 CAPITAL SPENDING IN FOUR YEARS IS A STATEMENT
+  ABOUT THE ECONOMY'S CAPITAL ALLOCATION, NOT ABOUT A STOCK INDEX.** ⇒ **His own line is right: "a far more
+  meaningful concentration statistic than whether 70% of S&P stocks happen to be above some moving
+  average."** ⇒ **AND IT SUPPLIES THE MECHANISM THE BREADTH ARGUMENT WAS MISSING: if half of index capex is
+  five companies' orders, then the counterparties to that spending ARE half the index's incremental revenue
+  growth by construction.** *(Analysis.)*
+- **⛔⛔ BUT THE RSP READING IS BACKWARDS, AND THIS IS THE CORRECTION THAT MATTERS — IT ALSO CORRECTS MY OWN
+  ENTRY FROM TWO HOURS AGO. I registered "RSP vs SPY weekly" as THE monitorable test of whether the breadth
+  is load-bearing. HIS DATA SHOWS RSP +17.24% vs SPX +13.74% AND HE READS IT AS "GENUINE BROADENING BEYOND
+  MEGA-CAPS." IT IS NOT EVIDENCE OF THAT.** **The equal-weight winners he himself lists — Comfort Systems
+  +90%, Corning +90%, Vertiv +81%, GE Vernova +63%, Quanta +62%, Generac +61%, Eaton +42% — ARE THE
+  AI-INFRASTRUCTURE COMPLEX. In RSP each carries the SAME weight as Coca-Cola; in SPY they carry almost
+  nothing.** ⇒ **EQUAL WEIGHTING DOES NOT REMOVE THE AI DEPENDENCY. IT AMPLIFIES IT, because the
+  AI-infrastructure beneficiaries are disproportionately MID-CAP INDUSTRIALS that get a full weight in RSP
+  and a rounding error in SPY.** ⇒ **RSP OUTPERFORMING SPY IS CONSISTENT WITH THE DIFFUSION THESIS, NOT
+    ⟲ SUPERSEDES market-fragility.md:L3898 — POINTED THE WRONG WAY: equal weighting AMPLIFIES mid-cap AI-infrastructure exposure (FIX/GLW/VRT/GEV/PWR/GNRC/ETN all get a full RSP weight and a rounding error in SPY), so RSP>SPY is CONSISTENT with the diffusion thesis rather than evidence against it
+  EVIDENCE AGAINST IT — and my registered test was pointed the wrong way.** *(Analysis. ⟲ corrects
+  `market-fragility` registered item #1 from 2:00pm.)*
+- **★★★★★★ AND HIS "INDEPENDENT BREADTH" IS ITSELF A SECOND SINGLE-DRIVER CLUSTER, WHICH HIS OWN FRAMEWORK
+  SHOULD CATCH BUT DOES NOT. MPC +119 · VLO +110 · PSX +81 · APA +65 · BKR +42 · OXY +42 · SLB +40 · EOG +36
+  · COP +35 · XOM +33 · CVX +31 IS NOT ELEVEN INDEPENDENT BETS. IT IS ONE GEOPOLITICAL EVENT.** **This vault
+  has spent three days establishing that: Hormuz at −91% of normal transits, Kharg dark 25 days, a naval
+  blockade in force, and a Russian product-export ban.** ⇒ **HIS BUCKET D — "would exist if hyperscaler capex
+  stopped tomorrow" — NEEDS A BUCKET E: "WOULD EXIST IF THE IRAN WAR ENDED TOMORROW."** ⇒ **The market has
+  TWO concentrated engines doing the work, not one, and a properly independent breadth measure must net out
+  BOTH.** ⇒ **Which makes his conclusion stronger, not weaker: the genuinely independent breadth is SMALLER
+  than his report says.** *(Analysis. The most useful thing I can add to his framework.)*
+- **★★★★★ AND HIS BUCKET C IS NOT HYPOTHETICAL — THIS VAULT MEASURED IT THIS MORNING, INDEPENDENTLY.
+  HIS FactSet FIGURE: hyperscaler external financing 9% → 32% of capex, ~$700B aggregate. THIS MORNING'S
+  CREDIT ENTRY (`new-economy-regime`, JunkBondInvestor 8/9): hyperscaler/AI paper went from ~3% to ~6% OF THE
+  IG INDEX IN A YEAR, AMAZON IS NOW THE FIFTH-LARGEST ISSUER IN THE INDEX, issuance ~$250B in 2026 heading to
+  ~$400B in 2027, and ~$75B of unexpected supply moved the complex ~15bp.** ⇒ **TWO INDEPENDENT ROUTES, SAME
+  CHANNEL, ARRIVING THE SAME MORNING.** ⇒ **Bucket C is measurable today and it is already large enough to be
+  re-pricing investment-grade credit.** *(Analysis.)*
+- **★★★★★★ AND HIS HOUSING/CREDIT ANALOGY IS BETTER THAN THE 2000 TELECOM ONE I FILED THREE HOURS AGO, FOR A
+  SPECIFIC REASON: HOUSING HAD THE FINANCIAL TRANSMISSION LAYER AT SCALE.** **Homebuilders, banks, materials,
+  brokers and retailers all rising simultaneously constituted technically broad participation over one
+  engine — and the financing layer is what turned a capital-cycle unwind into a systemic one.** ⇒ **The 2000
+  telecom cycle had vendor financing (Lucent, Nortel financing their own customers) but nothing on the scale
+  of $700B and 32% of capex.** ⇒ **BOTH ANALOGIES ARE LIVE AND THEY PREDICT DIFFERENT SEVERITIES: telecom
+  gives you the EQUITY drawdown pattern (and the owner/contractor split); housing gives you the CREDIT
+  transmission. This cycle has both features.** *(Analysis.)*
+- **✓ AND HIS "MARGINAL EARNINGS, NOT REVENUE" POINT IS THE METHODOLOGICAL CORE AND HE IS RIGHT — IT ALSO
+  RESCUES THE CASES MY OWN FETCH COULD NOT SOURCE. "A company can have 10-15% of revenue from data centres
+  while that business is 50% of incremental EBIT growth and most of the multiple expansion."** ⇒ **That is
+  precisely why GEV/ETN/PWR/TT/EME not disclosing a data-centre REVENUE share does not settle anything:
+  revenue share is the wrong denominator, and Eaton at 21% of sales can still be most of the growth.**
+  *(Analysis.)*
+- **⇒ AND HIS PROPOSED WARNING SIGNAL IS THE RIGHT ONE AND IT SUPERSEDES BOTH OF MINE: "not RSP
+  underperforming SPY, but AI-infrastructure earnings revisions, data-centre ORDERS and AI-related CREDIT
+  CREATION rolling over SIMULTANEOUSLY while nominal breadth stays superficially healthy."** ⇒ **That is a
+  THREE-LEG confirmation test on the three channels (B, C and the order book), and it is falsifiable.**
+  ⇒ **It replaces Roberts' divergence trigger AND my RSP/SPY test as this thread's primary watch condition.**
+  *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **THE THREE-LEG ROLLOVER TEST (his): AI-infra earnings revisions · data-centre orders · AI-related
+   credit creation — watched TOGETHER.** **Now the thread's primary watch condition, replacing the divergence
+   trigger and the RSP/SPY test.**
+2. 🚩🚩 **BUCKET E — net out the IRAN/ENERGY cluster as well as the AI cluster.** The eleven energy names are
+   one event. **Independent breadth is smaller than the report concludes.**
+3. 🚩🚩 **BofA's 2027 capex projection at the source** — 16% → ~50% in four years is the load-bearing number
+   in this whole debate and it arrives here third-hand.
+4. ⬜ **MARGINAL EBIT attribution, not revenue share, for GEV/ETN/PWR/TT/EME/FIX** — the right denominator.
+**Links:** [[market-fragility]] · [[new-economy-regime]] · [[ai-financing-fragility]] · [[power-not-petroleum]] · [[oil-value-chain]] · [[portfolio-state]]

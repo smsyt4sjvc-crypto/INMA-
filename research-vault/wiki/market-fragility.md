@@ -3896,6 +3896,7 @@ REPORTED.**
 
 #### 📌 REGISTERED
 1. 🚩🚩🚩 **RSP (equal-weight) vs SPY, weekly.** **The tradeable, monitorable form of "is the breadth
+  ⟲ SUPERSEDED 2026-08-15 → ai-capex-cycle.md:L2689 — POINTED THE WRONG WAY: equal weighting AMPLIFIES mid-cap AI-infrastructure exposure (FIX/GLW/VRT/GEV/PWR/GNRC/ETN all get a full RSP weight and a rounding error in SPY), so RSP>SPY is CONSISTENT with the diffusion thesis rather than evidence against it
    load-bearing." Replaces the % -above-200-DMA reading as the primary breadth instrument.**
 2. 🚩🚩 **S&P-to-NDX correlation, monthly** — 0.98 in March-2026 was an all-time high. **Where is it now?**
 3. 🚩🚩 **RE-SOURCE IT's SHARE OF AGGREGATE S&P NET INCOME, 2026 vs 2000, from a named primary provider.**
