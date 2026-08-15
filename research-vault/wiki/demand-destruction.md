@@ -3558,3 +3558,57 @@ Found by a Tier-1 fetch agent that pulled EIA's own `highlights.pdf` and raw `dn
    says "EIA weekly via Jake paste (~8:15am ET data)." **Determines whether this is a read error or a
    relay error, and they need different fixes.**
 **Links:** [[oil-value-chain]] · [[war/war-board]] · [[power-not-petroleum]]
+
+### 2026-08-14 ~5:40pm PDT — ⭐ ODD-EVEN PLATE RATIONING IS THE HARD DATUM — but the two events pull refining margins in OPPOSITE directions: **Sheskharis is a CRUDE export terminal (raises the refiner's input cost); Orsk is a REFINERY (raises the refiner's output price)**
+Source: ZeroHedge, Fri 2026-08-14 5:30pm ET → `raw/zerohedge-russia-petrol-shortage-2026-08-14.txt`, citing
+Reuters (3 sources), Interfax, regional outlet 7x7, Russian govt post, two regional governors. Router:
+BLACK SEA(3) · WAR/OIL(1)*. **Orsk was already on file** (`war/war-board:L1759`, the 3-country/4-day
+refinery-strike pattern) — **what is new is the SIX-MONTH duration.**
+
+#### DATA (REPORTED unless noted)
+- **ORSK refinery shut SIX MONTHS** after this week's drone strike; ~800 miles from the front line.
+- **SHESKHARIS terminal at Novorossiysk — CRUDE exports SUSPENDED Friday** after a drone attack (Reuters,
+  three sources). ⚠️ **SHESKHARIS ≠ CPC. Both sit at Novorossiysk; Sheskharis is Russian crude, CPC is the
+  Kazakh consortium line (`:L2484`). Do not merge them.**
+- **⭐ ORENBURG, FROM AUG 12 — STATUTORY RATIONING: 30 litres gasoline / 60 litres diesel per purchase, plus
+  an ODD-EVEN system by licence-plate final digit, with police to "coordinate" stations.** **This is a dated
+  administrative act, not an adverb (rule 9) — the hardest datum in the piece.**
+- **SOCHI, Aug 11:** purchase limits "due to logistical disruptions"; residents and tourists asked to
+  **"refrain from using personal vehicles whenever possible."**
+- **12 REGIONS with hours-long queues** (7x7): Krasnodar, Voronezh, Kaluga, Rostov, Ryazan, Tambov, Tula,
+  Saratov, Smolensk, Penza, Ulyanovsk, Primorsky Krai; **plus Arkhangelsk (Arctic).**
+- **Rare federal admission:** "the situation remains tense in several regions."
+- **⛔ DEPUTY PM NOVAK, END-JULY: "the situation is gradually stabilizing… considerably improved." REFUTED
+  INSIDE TWO WEEKS.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE TWO EVENTS ARE NOT THE SAME TRADE AND THE SHORTHAND "RUSSIA IMPAIRED = BULLISH REFINERS"
+  HIDES IT. A CRUDE-EXPORT outage (Sheskharis) REMOVES CRUDE SUPPLY → raises a US refiner's INPUT cost. A
+  REFINERY outage (Orsk) REMOVES PRODUCT SUPPLY → raises a US refiner's OUTPUT price.** ⇒ **THEY PULL THE
+  CRACK IN OPPOSITE DIRECTIONS, and the net depends on which is larger.** ⇒ **This is the same
+  instrument-discipline the crack thesis already runs on: the trade is PRODUCT scarcity, and a crude outage
+  is a tax on it, not a confirmation of it.** *(Analysis.)*
+- **★★★★★ AND THE FORWARD ITEM IS A POLICY TRIGGER, NOT THIS WEEK'S DAMAGE: DOMESTIC RATIONING IS THE
+  PRECONDITION FOR A PRODUCT EXPORT BAN, AND RUSSIA HAS IMPOSED ONE BEFORE.** **Odd-even rationing plus a
+  federal admission is what a government does immediately before it stops exporting the thing it is
+  rationing.** ⇒ **A RUSSIAN PRODUCT-EXPORT BAN IS THE EVENT THAT ACTUALLY TIGHTENS THE GLOBAL DIESEL
+  MARKET — the domestic queues do not.** ⇒ **🚩 That is the dated, falsifiable trigger to watch; today's
+  photos of queues are the WARNING (rule 10).** *(Analysis.)*
+- **★★★★ AND IT REACTIVATES THIS NOTE'S OWN STANDING CHAIN AT `:L2520`: "Kazakh barrels lost at Novorossiysk
+  are replaced by GULF barrels — WHICH TRANSIT HORMUZ."** ⇒ **A Black Sea export outage and a contested
+  Hormuz are not two stories. Substituting away from one chokepoint routes through the other.** ⇒ **Both
+  loaded at once is the configuration this note flagged in advance.** *(Analysis. Standing conclusion, not
+  re-argued.)*
+- **⚠️ AND NOVAK'S TWO-WEEK REFUTATION IS A CALIBRATION DATUM TO CARRY: RUSSIAN OFFICIAL REASSURANCE ON FUEL
+  SUPPLY IS THE WEAKEST EVIDENCE CLASS IN THIS THREAD.** **Discount the next "stabilizing" statement to
+  roughly zero; weight the REGIONAL GOVERNORS and the statutory measures instead — those carry a cost to
+  admit.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩 **DOES RUSSIA RE-IMPOSE A GASOLINE/DIESEL EXPORT BAN, AND ON WHAT DATE?** The trigger. Rationing is
+   the precondition, not the event.
+2. 🚩 **HOW MUCH CRUDE DOES SHESKHARIS MOVE, AND FOR HOW LONG IS IT DOWN?** ⬜ **Neither is in the piece —
+   the crude leg is unquantified and it is the leg that works AGAINST the crack.**
+3. ⬜ **Russian refinery capacity offline, aggregate** — Orsk's 6 months is one plant; the thesis needs the
+   total. **Folds into the standing open item on the Russian diesel-export figure.**
+**Links:** [[oil-value-chain]] · [[war/war-board]] · [[power-not-petroleum]]
