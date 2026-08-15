@@ -3678,3 +3678,11 @@ CAPEX(10) · FED(5) · FINANCING(3) · LABOR(3) · PORTFOLIO(3). **Nothing simil
 5. ⬜ **Alphabet's actual new-issue concession, in bp, Feb vs Aug** — the cleanest single measure of the
    friction and he gives it only as "double-digit."
 **Links:** [[ai-financing-fragility]] · [[market-fragility]] · [[portfolio-state]] · [[cepi]] · [[consumption-vs-investment-crux]]
+
+#### ✓ VERIFIED SAME TURN (rule 10) — 2026-08-15 ~12:45am PDT
+- **THE SEPT-2024 PRECEDENT CHECKS OUT, on both tenors.** FOMC cut 2024-09-18 (50bp). Yahoo daily CLOSE
+  array (per `tools/tape.py` discipline — never `meta`): **10Y 3.685% → 4.073% = +39bp · 30Y 4.008% →
+  4.380% = +37bp, over the month after the cut.** His "roughly 40bps" is right and it holds at the long end
+  specifically. ⇒ **THE EMPIRICAL BACKBONE OF "EASING NEED NOT RALLY THE LONG END" IS NOW MEASURED, NOT
+  QUOTED.** ⚠️ **n=1. One easing cycle is a precedent, not a regularity — and 2024's supply backdrop was
+  lighter than the one he is projecting. Treat it as an existence proof: it CAN happen, not that it MUST.**
