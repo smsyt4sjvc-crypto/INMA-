@@ -2858,3 +2858,57 @@ part B at the drop of a hat."*
 3. 🚩 **DEFERRED / CANCELLED NON-AI PROJECTS attributable to lead times** — utility IRP filings and municipal
    capital plans are where a deferral is documented. **The measure of demand DESTROYED rather than queued.**
 **Links:** [[buildout-bottleneck-map]] · [[power-not-petroleum]] · [[market-fragility]] · [[cepi]] · [[memory-regime-question]]
+
+### 2026-08-15 ~3:08pm PDT — ★★★★★★★ "OR FINANCING PULLED BACK" IS NOT A FIFTH ITEM ON THAT LIST — IT IS A DIFFERENT CLASS, AND IT JOINS THE MORNING'S CREDIT WORK TO THE AFTERNOON'S BREADTH WORK: **the lead time destroys the project through the capital structure, not through customer preference.** ⇒ **The AI cycle is financing its own hedge out of existence**
+Source: Jake, chat 2026-08-15 ~3:06pm PDT — *"Or financing pulled back…."*
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ IT IS A DIFFERENT CLASS FROM THE OTHER FOUR AND THAT IS THE POINT. DEFERRED, REDESIGNED, BOUGHT
+  USED, QUALIFIED ANOTHER SUPPLIER — ALL FOUR ARE CUSTOMER **CHOICES**, i.e. ADAPTATIONS. "FINANCING PULLED
+  BACK" IS NOT A CHOICE. IT IS THE PROJECT DYING BECAUSE THE CAPITAL WOULD NOT FUND A TIMELINE THAT GOT
+  TWELVE MONTHS LONGER.** ⇒ **The mechanics: a project underwritten on a 6-month equipment lead time and
+  re-quoted at 18 carries MORE interest during construction, a LATER first revenue date, a LOWER IRR, and a
+  construction-loan draw schedule that may breach its own milestones and require re-underwriting.**
+  ⇒ **AT SOME LEAD TIME THE PROJECT NO LONGER CLEARS ITS HURDLE AND THE FINANCING SIMPLY DOES NOT FUND.**
+  ⇒ **THE LEAD TIME IS NOT AN INCONVENIENCE. IT IS A COST OF CAPITAL.** *(Analysis. His.)*
+- **★★★★★★★ AND IT IS A DOUBLE HIT ON THE SAME PROJECT, BECAUSE THIS VAULT SPENT THREE DAYS ESTABLISHING THE
+  OTHER HALF: THE LONG END IS PRICED BY TERM PREMIUM AND FISCAL/CORPORATE SUPPLY, BY FOUR INDEPENDENT
+  ROUTES.** ⇒ **The marginal non-AI project is being re-underwritten at a LONGER TIMELINE and a HIGHER
+  DISCOUNT RATE SIMULTANEOUSLY — and the same capital cycle caused both.** *(Analysis.)*
+- **⭐⭐⭐ AND THIS IS THE JOINT BETWEEN THIS MORNING'S CREDIT WORK AND THIS AFTERNOON'S BREADTH WORK. THEY
+  ARE THE SAME ARGUMENT ARRIVING FROM OPPOSITE ENDS. JunkBondInvestor, filed at 12:36am today
+  (`new-economy-regime`), verbatim: *"Housing and everything mortgage-adjacent run on transaction volume
+  that dries up every time the 10-year backs up… For most of these borrowers, THE LEVEL IS BEING SET BY A
+  BORROWER WHOSE FUNDING NEEDS HAVE NOTHING TO DO WITH HOUSING STARTS OR CAP RATES."* And his scenario 1:
+  *"enough investment and refinancing gets curtailed that the slowdown goes economy-wide. In that world,
+  THE BUILDOUT WILL HAVE EXPORTED ITS FINANCING COST ONTO BORROWERS WHO NEVER ASKED FOR THE EXPOSURE."***
+  ⇒ **JAKE'S "OR FINANCING PULLED BACK" IS THAT SCENARIO OBSERVED AT THE PROJECT LEVEL, THROUGH THE EQUIPMENT
+  QUEUE.** ⇒ **The credit desk saw the cost EXPORTED. Jake sees WHERE IT LANDS: a cancelled non-AI project
+  that never appears in anyone's backlog, revision or breadth statistic.** *(Analysis.)*
+- **★★★★★★★ AND THE CONSEQUENCE IS THE COMPLETION OF THE WHOLE AFTERNOON'S ARGUMENT: THE CROWD-OUT IS NOT
+  MERELY PRICING THE ALTERNATIVE DEMAND. IT IS KILLING IT.** **The loop: AI demand extends lead times →
+  marginal non-AI projects lose their financing → non-AI demand disappears from the book → the supplier's
+  AI share RISES → it looks and IS more concentrated → and there is now less diversified demand left to
+  absorb the capacity when the cycle turns.** ⇒ **THE AI CAPITAL CYCLE IS FINANCING ITS OWN HEDGE OUT OF
+  EXISTENCE.** ⇒ **BY THE TIME IT TURNS, THE DIVERSIFIED DEMAND BASE THAT WOULD HAVE CUSHIONED THE FALL HAS
+  BEEN UNDERWRITTEN AWAY — WHICH IS WHY "IT WILL JUST DE-QUEUE INTO OTHER DEMAND" IS THE WRONG MODEL AND WHY
+  NORTEL FELL 64% IN A YEAR.** *(Analysis. This closes the loop between all four channels and the 2000
+  outcome — and it is why the fall is nonlinear rather than a rotation.)*
+- **⚠️ AND IT PARTLY WITHDRAWS MY OWN "ROTATION" CONCLUSION FROM 2:14pm. I argued an AI-capex stop is a
+  ROTATION — suppliers lose the rent, crowded-out buyers get margin relief. THAT REMAINS TRUE FOR BUYERS OF
+  INPUTS (Apple on memory, enterprise IT). IT IS NOT TRUE FOR PROJECT SPONSORS WHOSE PROJECTS WERE
+  CANCELLED — a data centre or a factory that lost its financing in 2026 does not get built in 2028 because
+  transformers became available.** ⇒ **THE ROTATION IS REAL ON THE OPERATING-COST SIDE AND ABSENT ON THE
+  CAPITAL-FORMATION SIDE.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **CANCELLED / DEFERRED NON-AI PROJECTS WITH A NAMED FINANCING CAUSE.** **The one channel that
+   leaves NO trace in backlogs, revisions or breadth — and therefore the one no market statistic will warn
+   on.** Sources: utility IRP filings, municipal capital plans, industrial-project trade press, ABI/Dodge
+   construction starts ex-data-centre.
+2. 🚩🚩 **NON-DATA-CENTRE CONSTRUCTION STARTS, monthly** — the vault already holds electric construction
+   +4.3%/+5.2% against data-centre construction +45.8% (`power-not-petroleum:L349`). **That spread IS this
+   mechanism, already measured, and it has been read as a bottleneck signal rather than as crowd-out.**
+3. ⬜ **Interest-during-construction sensitivity to lead time** — the arithmetic that turns 12 extra months
+   into a killed IRR.
+**Links:** [[new-economy-regime]] · [[buildout-bottleneck-map]] · [[power-not-petroleum]] · [[ai-financing-fragility]] · [[market-fragility]]
