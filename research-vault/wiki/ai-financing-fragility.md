@@ -6225,3 +6225,68 @@ Router: SEMIS(2) · FINANCING(2) · AI-POLICY(2) · TOKEN-ECON(1)*.
 3. ⬜ **HOW MUCH OF THE $500B HAS ACTUALLY PRICED?** A sponsor-announced target with no provenance has an
    obvious falsifier: **dollars closed, by tranche, by date.**
 **Links:** [[balance-sheet-board]] · [[compression-thesis]] · [[metered-compute]] · [[market-fragility]]
+
+### 2026-08-14 ~4:25pm PDT — ★★★★★★★ IT CANNOT SHOW SITUATIONAL AWARENESS — BUT IT SHOWS SOMETHING BIGGER: **JANE STREET OWNS 6.01% OF CORE WEAVE ($2.93BN) AND TRIPLED THE POSITION.** The CRWV relationship is now THREE-SIDED — customer, collateral, and shareholder
+Source: Jake's Bloomberg terminal screenshot, 2026-08-14 ~4:25pm PDT. **ARTIFACT TEST (rule 8): Jane Street
+Group LLC · All Securities · Institution: Brokerage · Management Type: Active · Periodicity QUARTERLY,
+2025 Q4 – 2026 Q3 · Field: Position · Source column reads 13F / 13G · Total Curr Mkt Val $136.0B ·
+Num of Holdings 7,785.** Top 9 rows visible only.
+
+#### DATA (MEASURED — regulatory filings via Bloomberg; share-count arithmetic mine)
+| # | ticker | position (sh) | implied prior | **increase** | % out | mkt val | src |
+|---|---|---|---|---|---|---|---|
+| 1 | SPY | 20,289,599 | 9,969,599 | +104% | 1.91 | **$15.78B** | 13F |
+| 2 | SNDK | 7,409,437 | 1,789,437 | **+314%** | 4.97 | **$11.32B** | 13G |
+| 3 | BE | 14,874,272 | 4,924,272 | **+202%** | **5.05** | $3.51B | 13G |
+| 4 | DELL | 6,100,800 | 810,800 | **+652%** | 1.88 | $3.02B | 13F |
+| 5 | **CRWV** | **27,598,624** | 8,858,624 | **+212%** | **6.01** | **$2.93B** | **13G** |
+| 6 | MRVL | 9,953,890 | 7,833,890 | +27% | 1.14 | $2.21B | 13F |
+| 7 | AVGO | 4,676,806 | 4,214,391 | +11% | 0.10 | $1.95B | 13F |
+| 8 | SMCI | 49,247,798 | 4,417,798 | **+1,015%** | **7.61** | $1.93B | 13G |
+| 9 | MU | 1,777,737 | 1,726,726 | +3% | 0.16 | $1.69B | 13F |
+
+- **Top 9 = $44.34B of a stated $136.0B gross long (33%). EX-SPY, SEVEN OF THE EIGHT SINGLE NAMES ARE
+  AI-INFRASTRUCTURE.** **Four are at or near the 5% beneficial-ownership threshold: SMCI 7.61 · CRWV 6.01 ·
+  BE 5.05 · SNDK 4.97.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔ FIRST, WHAT IT CANNOT DO, BECAUSE THAT IS WHAT JAKE IS ASKING: IT CANNOT SHOW SITUATIONAL AWARENESS.
+  13F/13G cover US-LISTED EQUITY POSITIONS. A limited-partnership stake in a private hedge fund does not
+  appear in either.** ⇒ **This neither confirms nor refutes the $10B → $3-3.5B mark, and it does NOT close
+  the 38.31%-vs-65-70% reconciliation** (`market-fragility:L3496`). *(Analysis.)*
+- **★★★★★★★ BUT IT ANSWERS A BIGGER QUESTION THE VAULT HAS BEEN CIRCLING ALL DAY. THIS MORNING I FILED THAT
+  JANE STREET IS A CONTRACT COUNTERPARTY BEHIND CRWV'S $2.6B FACILITY (`:L4398`/`:L5452`), AND THAT PLEDGED
+  CONTRACTUAL CASH FLOWS ARE THE ACTUAL COLLATERAL (`:L6003`). IT IS ALSO A 6.01% EQUITY HOLDER — $2.93BN,
+  UP 212%.** ⇒ **THE RELATIONSHIP IS THREE-SIDED: (a) CUSTOMER, whose contracts make the debt financeable ·
+  (b) COLLATERAL, because those contracts ARE the security · (c) SHAREHOLDER, owning the equity that the
+  financing enables.** ⇒ **THAT IS THE SAME STRUCTURE THE VAULT MAPPED ON NVDA YESTERDAY (`:L5925`, four
+  sides) — A COUNTERPARTY STANDING ON BOTH SIDES OF ITS OWN COLLATERAL.** ⇒ **The circularity is not an NVDA
+  peculiarity. It is the SHAPE OF THIS COMPLEX, and it now has a second independent instance.**
+  *(Analysis. The highest-value line in this artifact.)*
+- **★★★★★ AND THE ACCUMULATION IS THE STORY: SMCI +1,015% · DELL +652% · SNDK +314% · CRWV +212% ·
+  BE +202%.** **Four positions AT OR THROUGH the 5% threshold — 13G filings, which are a DELIBERATE,
+  LEGALLY-CONSEQUENTIAL disclosure of beneficial ownership, not an incidental print.** ⇒ **Whatever the net
+  exposure, the SIZE is real and it is concentrated in exactly the complex Reuters named as a loss leg
+  ("its own AI exposure").** *(Analysis.)*
+- **⚠️⚠️ TWO CAVEATS DECIDE HOW MUCH THIS IS WORTH, AND BOTH CUT AGAINST OVER-READING IT:**
+  **(a) LAG — 13F files 45 days after quarter-end. The most recent data here is most likely a 2026-06-30
+  snapshot filed mid-August. THE JULY LOSS WOULD NOT APPEAR IN IT.** ⇒ **This is probably the book GOING INTO
+  July, not after it — which makes it MORE useful, not less: it is the pre-drawdown position.**
+  **(b) 13F IS LONGS ONLY — no shorts, no net options delta. FOR A MARKET MAKER THIS IS THE STANDARD
+  MISREADING.** **Much of $136B gross long across 7,785 names is inventory and hedged/offsetting exposure.
+  A $2.93B CRWV long may be delta-hedged against options Jane Street wrote.** ⇒ **DO NOT read these rows as
+  convictions or as directional risk.** *(Analysis.)*
+- **★★★★★★ AND THE CAVEATS PRODUCE A CLEAN, CHEAP, DATED FALSIFIER — BETTER THAN WAITING FOR THE NEXT 13F.
+  REUTERS REPORTS JANE STREET "CLOSED A SIGNIFICANT PORTION OF EXPOSURE IN THE AREAS WHERE IT LOST MONEY."
+  A HOLDER CROSSING BACK BELOW 5% MUST FILE A 13G AMENDMENT — a legally required, dated, public disclosure.**
+  ⇒ **🚩 WATCH FOR 13G/A AMENDMENTS ON CRWV (6.01), SMCI (7.61), BE (5.05). If the de-risking Reuters
+  describes touched the AI complex, it is REQUIRED to show up there — and it arrives faster than the Q3 13F
+  (due ~mid-November).** *(Analysis. This converts a reported adverb into a filing test.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **13G/A AMENDMENTS ON CRWV · SMCI · BE — the dated, legally-compelled falsifier for "closed a
+   significant portion of exposure."** ⬜ Check EDGAR for Jane Street 13G/A since 2026-07-01.
+2. 🚩🚩 **CONFIRM THE AS-OF DATE ON THIS SCREEN.** If it is 6/30/26 it is the pre-loss book. **The whole read
+   depends on which side of July it sits.**
+3. ⬜ **The remaining 7,776 holdings** — top 9 is 33% of gross long; the tail is unseen.
+**Links:** [[market-fragility]] · [[balance-sheet-board]] · [[memory-regime-question]] · [[metered-compute]]
