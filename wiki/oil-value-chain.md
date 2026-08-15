@@ -729,3 +729,35 @@ VLO +23.8% · DINO +18.3%.
    capacity? **It is the only structural argument on offer for a permanently higher benchmark.**
 4. ⬜ Capture rates by name (MPC cited 95% average 2023-25) — still not gathered.
 **Links:** [[demand-destruction]] · [[portfolio-state]] · [[ai-infra-allocation-map]]
+
+### 2026-08-14 ~6:10pm PDT — ⛔ I HANDED JAKE HIS OWN EDGE BACK AS HIS RISK. **The collapsing deferred strip is not the disconfirmer of the thesis — `:L689` already established it IS the thesis** — and "the market prices this as temporary" is a STATE dressed as a warning, which is the rule he wrote
+Source: Jake, chat 2026-08-14 ~6:10pm PDT: *"Of course it's temporary. I know that. Earlier in this process I
+had the elephant that ATHs aren't some unicorn in a market designed to inflate. They're the status quo."*
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ THE RETRIEVAL FAILURE, AND IT IS THIS SESSION'S RECURRING ONE: THE VAULT ALREADY HELD THE RIGHT
+  FRAMING AND I RE-DERIVED A WORSE ONE. `:L689`: *"'The deferred strip is too low' and 'FY27 consensus is too
+  low' are ONE BET IN TWO INSTRUMENTS."*** ⇒ **A strip that collapses 97 → 56 by Dec-27 is not evidence
+  AGAINST the trade. IT IS THE PRICE OF THE TRADE.** ⇒ **If spot stays high while the strip prices
+  normalisation, the gap between them IS the position.** **I offered it back to him as the counterargument
+  10 minutes after the vault unified it as the bet.** *(Analysis.)*
+- **★★★★★★ AND HIS "ATHs ARE THE STATUS QUO, NOT A UNICORN" IS THIS VAULT'S OWN WARNING-vs-TRIGGER RULE —
+  WHICH HE SET (standing, 2026-07-14, his catch).** **"At all-time highs" is a STATE: unfalsifiable,
+  persistent, present through entire up-legs, times NOTHING.** ⇒ **AND "THE MARKET PRICES THIS AS TEMPORARY"
+  IS THE SAME ERROR IN A FORWARD-CURVE COSTUME — a priced expectation deployed as if it were a warning.**
+  ⇒ **A curve in contango/backwardation is a STATE. It shades odds; it dates nothing.** ⇒ **The rule applies
+  to CURVES, not just to price levels. That extension is the durable part of this exchange.**
+  *(Analysis. His frame, generalised.)*
+- **★★★★ AND IT CLARIFIES WHAT A REAL DISCONFIRMER WOULD HAVE TO LOOK LIKE, WHICH IS THE USEFUL OUTPUT:
+  NOT a low deferred strip · NOT all-time-high equity prices · NOT "the market thinks it's temporary."**
+  **It has to be a DATED PHYSICAL OR POLICY EVENT that widens product supply or destroys product demand:**
+  **Russian refining capacity returning · a Chinese export-quota increase (already checked — 2026 quota
+  +0.6% y/y, largely refuted) · US distillate inventories rebuilding into the 5-yr band · a demand
+  break at price.** ⇒ **Everything else is texture.** *(Analysis.)*
+- **⚠️ AND THE MONOTONE-CONFIRMATION FLAG I RAISED STILL STANDS, BUT IT WAS AIMED AT THE WRONG TARGET.**
+  **The bias risk is not that he ignores the strip — he is explicitly trading against it. It is that every
+  INBOUND this week has been scored "thesis intact" while the registered PHYSICAL falsifiers have gone
+  unfetched:** distillate inventories vs the 5-yr band, the 12-month deferred crack weekly, refiner-equity
+  vs crack rolling correlation. ⇒ **The discipline he needs is not doubt. IT IS THE FETCHES.**
+  *(Analysis. Correcting my own pushback to the thing that would actually inform it.)*
+**Links:** [[demand-destruction]] · [[market-fragility]] · [[_calibration]]
