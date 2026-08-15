@@ -3619,3 +3619,86 @@ Source: Jake's paste of the WSJ piece (WSJ credits **FT as first to report** the
 3. ⬜ **Is the $6B CRWV commitment among the contracts PLEDGED in a DDTL facility?** **If yes, a Jane Street
    impairment and CRWV's collateral are the same object.**
 **Links:** [[ai-financing-fragility]] · [[detachment-bid]] · [[metered-compute]]
+
+### 2026-08-15 ~11:17am PDT — ★★★★★★★ THE VAULT'S OWN CALIBRATION SOURCE STATES JAKE'S ATH POINT MORE PRECISELY THAN EITHER OF US DID — and supplies **the TRIGGER this thread has never had: DIVERGENCE, not narrowness.** ⛔ And on today's data the narrow-market STATE is simply **not true**: 72% of members above their 200-DMA, cross-stock correlation near **record lows**
+Source: **Lance Roberts via RealInvestmentAdvice, republished ZeroHedge, SATURDAY 2026-08-15 09:50 AM** →
+`raw/zerohedge-roberts-record-highs-2026-08-15.txt` (15pp, pypdf). **Roberts is the source the vault's own
+WARNING-vs-TRIGGER rule is built on ("the Roberts scorecard").** Router: FED(15) · VOL(4) · PORTFOLIO(4) ·
+FLOWS(3) · CONSUMER(3) · MEMORY(2).
+
+#### DATA (REPORTED — Roberts / Citadel Securities' Scott Rubner, as of 2026-08-14 close)
+- **S&P 500 close 7,785.76** (Thu close 7,801, intraday high 7,817). **~10% ABOVE THE RISING 200-DMA (≈7,076)
+  — one of the widest gaps of the entire cycle.** 3.7% above the 50-day (≈7,510); 20-day ≈7,585.
+  **26th record high of the year.** Has not closed below the 200-day since April.
+- **MONEY FLOW & BREADTH RATIO 80%, up from 75% the prior week — +15pp over four weeks. "Extreme overbought"
+  = 75%+.** Raw breadth signal still BUY; **MFBR is contrarian at extremes → treated as a caution flag.**
+- **⭐ 72% OF S&P MEMBERS ABOVE THEIR OWN 200-DAY — broadest participation since DECEMBER 2024, up from a
+  washed-out 41% this spring. CROSS-STOCK CORRELATION NEAR RECORD LOWS.** Rubner: *"Breadth is rising while
+  cross-stock correlation sits near record lows, indicating a WIDE market, not a narrow pocket of
+  leadership."*
+- **EARNINGS ARE DOING THE WORK, NOT MULTIPLE EXPANSION: Q2 index profits +33%, "one of the steepest revision
+  paths in a quarter century." FORWARD MULTIPLE FELL TO ~20× FROM 23× LAST OCTOBER.**
+- **FLOWS: households pushed a RECORD $350B into ETFs in JULY ALONE, part of $1.6T year-to-date. >$1 TRILLION
+  of buyback authorisations reopen this month, ~70% of it OUTSIDE Technology.**
+- **⚠️ RETAIL IS BACK BUT HEDGED: net buyers across Citadel's platform, reversing late-June selling — while
+  PUT BUYING SITS NEAR ITS HIGHEST SINCE THE MARCH LOWS. Retail's most-bought names over two weeks:
+  SEMICONDUCTORS AND MEMORY — "the exact story trades that got cut hard in the summer washout."**
+- **FED: July CPI +0.1% m/m / +3.4% y/y, core +0.2% / +2.5% (shelter did the lifting). PPI 0.0% vs +0.2%
+  expected; annual cooled to 4.7% FROM 5.5%; final-demand goods −0.7%. ⇒ AFTER CPI, ODDS OF THE FED HOLDING
+  JUMPED TO ~64%. A HIKE ON SEPT 16 IS NOW THE LEAST LIKELY OUTCOME, "particularly following very weak
+  employment and retail sales reports."**
+- **CALENDAR: FOMC minutes Wednesday · JACKSON HOLE Friday · Sept 16 FOMC with a fresh dot plot · midterms
+  Nov 3. VIX 14.6 vs low-30s in the March selloff. September is the weakest month of the year — over the
+  last decade the S&P has AVERAGED A LOSS and finished higher only half the time.**
+- **GOLDMAN YEAR-END TARGET RAISED TO 8,000 (~3% above).** Roberts' asymmetry: **3% upside vs a ~10%
+  mean-reversion air pocket = $3.33 risked per $1.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★★ HE GIVES THIS THREAD THE THING IT HAS NEVER HAD: A FALSIFIABLE TOP-TRIGGER, AND IT IS NOT
+  NARROWNESS. VERBATIM: *"Elevated breadth by itself has NOT reliably preceded corrections. What precedes
+  them is a DIVERGENCE — the index pushing to new highs while fewer stocks tag along. We don't have that
+  today, as breadth is RISING INTO the highs rather than fading beneath them."*** ⇒ **THE MONITORABLE
+  CONDITION IS: % OF MEMBERS ABOVE THEIR 200-DMA **FALLING** WHILE THE INDEX MAKES NEW HIGHS. Today it is
+  72% and RISING.** ⇒ **The vault has correctly labelled narrowness a STATE since 7/14 (`:L448`, `:L1024`)
+  but never named the corresponding EVENT. This is it, and it comes from the source the rule was built on.**
+  *(Analysis. The single most useful line this thread has received in weeks.)*
+- **★★★★★★ AND IT IS JAKE'S "ATHs ARE THE STATUS QUO, NOT A UNICORN" — STATED MORE PRECISELY THAN EITHER OF
+  US MANAGED. Roberts: *"in a real uptrend, overbought stays overbought"* and *"breadth predicts RISK better
+  than it predicts RETURN."*** ⇒ **He is not disagreeing with the bulls about direction; he is separating
+  DIRECTION from ENTRY POINT — which is exactly the WARNING-vs-TRIGGER distinction applied to a price
+  level.** *(Analysis. Jake's frame, independently corroborated by the vault's own calibration source.)*
+- **⛔ AND ON TODAY'S DATA THE NARROW-MARKET *STATE* IS NOT MERELY UNTIMED — IT IS ABSENT. 72% above the
+  200-DMA (broadest since Dec-2024, from 41% in spring) and CROSS-STOCK CORRELATION NEAR RECORD LOWS.**
+  ⇒ **This thread's founding description — a narrow market carried by a handful of names — DOES NOT DESCRIBE
+  THE TAPE OF 2026-08-14.** ⇒ **Do not carry "narrow" forward as a live premise. What survives is
+  VALUATION-EXTENSION (10% above the 200-day) and POSITIONING, which are different claims with different
+  tells.** *(Analysis. The thread needs re-basing, not retiring.)*
+- **★★★★★ AND A FOURTH INDEPENDENT CONFIRMATION OF THE 30Y CONCLUSION, FROM THE POLICY SIDE THIS TIME:
+  ROBERTS REPORTS HIKE ODDS FELL AND HOLD ODDS ROSE TO ~64% ON THE SOFT CPI/PPI AND THE WEAK RETAIL PRINT —
+  WHILE THE VAULT MEASURED THE ENTIRE CURVE SELLING OFF ON 8/14 (5Y +3bp, 10Y +5bp, 30Y +6bp).**
+  ⇒ **THE POLICY PATH EASED AND THE LONG END SOLD OFF ANYWAY. That is the cleanest possible statement that
+  the long end is not trading policy.** ⇒ **Routes now: real/breakeven decomposition (8/13) · natural
+  experiment (8/14) · credit-desk supply arithmetic (JunkBondInvestor) · and now a policy-odds/price
+  divergence. FOUR methods, no overlap.** *(Analysis.)*
+- **⚠️ AND THE RETAIL DATUM IS THE VAULT'S CROWDING THREAD ARRIVING WITH A BEHAVIOURAL SIGNATURE: RETAIL IS
+  NET BUYING **SEMIS AND MEMORY** — the exact names that cut hardest in the summer washout — WHILE PAYING
+  UP FOR PUTS AT THE HIGHEST RATE SINCE THE MARCH LOWS.** ⇒ **PARTICIPATION WITHOUT CONVICTION: buying the
+  thing that already hurt you, and insuring it.** ⇒ **That is not a top signal; it IS a fragility signature,
+  because hedged longs sell faster than unhedged ones when the hedge pays.** *(Analysis.)*
+- **★★★★ AND THE HONEST BULL CASE HE CONCEDES DESERVES EQUAL WEIGHT, BECAUSE IT ATTACKS THE VAULT'S OWN
+  "DETACHMENT" FRAME: THE FORWARD MULTIPLE **FELL** FROM 23× TO ~20× WHILE THE INDEX MADE 26 RECORD HIGHS,
+  BECAUSE Q2 EARNINGS GREW ~33%.** ⇒ **PRICE ROSE AND VALUATION FELL. That is earnings carrying the tape,
+  not liquidity — the opposite of the detachment thesis' core mechanism, and it is measured rather than
+  argued.** *(Analysis. The strongest single fact against this vault's standing bear lean, and it should be
+  weighted as such.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **THE DIVERGENCE TRIGGER, MONITORED WEEKLY: % of S&P members above their 200-DMA (now 72%) against
+   the index level. A NEW INDEX HIGH ON A FALLING BREADTH READING IS THE EVENT.** **This replaces "narrow
+   market" as the thread's watch condition.**
+2. 🚩🚩 **JACKSON HOLE FRIDAY + FOMC MINUTES WEDNESDAY** — Roberts names the hawkish-surprise branch as what
+   tests a 14-handle VIX. **Dated, this week.**
+3. 🚩 **FORWARD MULTIPLE vs INDEX LEVEL, quarterly** — if the multiple keeps falling into new highs, the
+   detachment premise weakens further.
+4. ⬜ **Retail put-buying vs retail cash-equity buying** — the "participation without conviction" spread.
+**Links:** [[detachment-bid]] · [[new-economy-regime]] · [[portfolio-state]] · [[memory-regime-question]]
