@@ -3607,6 +3607,7 @@ refinery-strike pattern) — **what is new is the SIX-MONTH duration.**
 
 #### 📌 REGISTERED
 1. 🚩🚩 **DOES RUSSIA RE-IMPOSE A GASOLINE/DIESEL EXPORT BAN, AND ON WHAT DATE?** The trigger. Rationing is
+  ⟲ SUPERSEDED 2026-08-15 → oil-value-chain.md:L811 — THE TRIGGER HAD ALREADY FIRED: Russia banned diesel exports 2026-07-08, five weeks before I registered it as a future event, and it moved US diesel futures the most in four years that day. The live dated trigger is now the 2026-09-01 PRODUCER EXEMPTION, which points DOWN
    the precondition, not the event.
 2. 🚩 **HOW MUCH CRUDE DOES SHESKHARIS MOVE, AND FOR HOW LONG IS IT DOWN?** ⬜ **Neither is in the piece —
    the crude leg is unquantified and it is the leg that works AGAINST the crack.**
