@@ -848,3 +848,99 @@ standard, so the duplication is salvageable, but the misread is mine.**
 4. ⬜ **30/90-day consensus revision deltas** — NOT FOUND, and it is the leg that would refresh "24 of 24."
 5. ⬜ **Same-series proof for the 98.169 record**, and the 5-/10-year crack range.
 **Links:** [[demand-destruction]] · [[war/war-board]] · [[market-fragility]] · [[new-economy-regime]]
+
+### 2026-08-15 ~12:57am PDT — ★★★★★★ THE INDEPENDENT CROSS-CHECK EARNS ITS KEEP: it **closes a long-standing registered open item** (the Bloomberg 80,000 b/d figure, now sourced), **weakens two claims I filed 15 minutes ago**, and **breaks the FY2027 consensus data entirely** — three of six tickers disagree by 19-42% between the two fetches
+Source: Sonnet subagent (80 tool calls, EIA primary PDF + dnav series read directly), run independently of and
+concurrently with Jake's `Monopolists.docx`. **Two origins on the same questions — the corroboration standard
+this vault treats as strong, and the reason the accidental duplication was worth keeping.**
+
+#### DATA — WHERE THE TWO FETCHES AGREE (treat as confirmed)
+- **Distillate 107,149 kb w/e 2026-08-07 · days of supply 29.3 · refinery utilisation 96.2% (4-wk avg 96.5%,
+  year-ago 96.0%) · distillate exports 4-wk avg 1,802 kb/d.** ✓ **China quota 32.0 vs 31.8 mt = +0.6%.** ✓
+  **Diesel export ban ~2026-07-08.** ✓ **September producer exemption.** ✓ **Orsk shut, "up to six months."** ✓
+- **NEW AND CONFIRMED: gasoline inventories 208,700 kb, ~6% below the 5-yr average** (EIA direct quote).
+
+#### DATA — WHERE THEY DIVERGE, AND WHAT THE DIVERGENCE MEANS
+- **⛔ THE "BELOW THE ENTIRE FIVE-YEAR BAND" CLAIM IS AN ARITHMETIC DERIVATION, NOT AN EIA STATEMENT. EIA says
+  only "about 12% below the five-year AVERAGE."** The agent explicitly could not confirm a below-the-range
+  claim from EIA text. **Jake's doc derived it from five listed comparables (2021 137,814 · 2022 112,256 ·
+  2023 115,743 · 2024 126,123 · 2025 113,685), and 107,149 IS below all five — so the derivation holds IF
+  those comparables are right.** ⇒ **The claim survives; MY ATTRIBUTION OF IT TO EIA DID NOT. Restate as
+  computed, not quoted.** *(⟲ corrects my own 12:44am framing.)*
+- **⛔⛔ A NAMED TRAP THE AGENT CAUGHT: EIA'S NARRATIVE SAYS DISTILLATE "DECREASED BY 0.1 MILLION BARRELS."
+  THE PRECISE SERIES SAYS 107,159 → 107,149 = −10 THOUSAND BARRELS. THE HIGHLIGHTS TEXT IS 10× THE REAL
+  MOVE**, because it is computed off a rounded table. ⇒ **Anyone reading the WPSR narrative rather than the
+  dnav series gets an order-of-magnitude error on the weekly change.** *(Jake's doc had the precise figure.)*
+- **⚠️ AND A CAVEAT NEITHER OF US HAD: EIA states "data for the week ending August 7 reflect BENCHMARKING to
+  the June Petroleum Supply Monthly containing April data."** ⇒ **Part of this week's move is a revision
+  artifact, not organic draw. Label the print ⚠️ accordingly.**
+- **⭐⭐ THE GASOLINE BAN PREDATES THE DIESEL BAN BY THREE MONTHS AND JAKE'S DOC DID NOT HAVE IT: GASOLINE
+  EXPORTS BANNED SINCE 2026-04-01, extended to "end of 2026" (Novak, 7/25-27).** ⇒ **The Russian export
+  restriction regime began in APRIL, not July. The crack's Feb-to-July +129% spans BOTH bans, not one.**
+- **⚠️ THE BAN'S END-DATE IS DISPUTED AND JAKE'S DOC ASSERTED ONE SIDE: Novak said "end of 2026"; Moscow
+  Times (7/30) reports through JANUARY 2027.** **Neither fetch could reach the decree text.** ⬜ **Unresolved
+  — and it matters, because it is the difference between a 4-month and a 5-month runway.**
+- **⭐⭐⭐ THE REGISTERED OPEN ITEM CLOSES — the "Bloomberg Russian diesel-export figure (80,000 b/d)" that
+  this vault flagged as *highest quotability × lowest verification* IS NOW SOURCED: Bloomberg, "Russian
+  Diesel Flows Are Lowest in Years as Drones Hit Refiners," 2026-08-13 — and the critical qualifier is that
+  it covers THE FIRST SEVEN DAYS OF AUGUST, not a month.** **Trajectory, merging both fetches:** pre-ban
+  ~950k → **June ~580k → Jul 1-8 ~187k → July full ~314k → Aug 1-7 80k b/d.** **≈ −92% vs the pre-ban norm.**
+  ⚠️ **Bloomberg's own year-ago comparator is "above a million at the END OF LAST YEAR" — NOT a same-month
+  comparison. Do not quote it as year-over-year.**
+- **⛔ RUSSIAN CAPACITY OFFLINE HAS NO RECONCILED FIGURE — ESTIMATES RUN 20% TO 58%.** IEA **"more than 20%"**
+  (early July) · Jake's doc **"over one-third"** (S&P, 8/5) · **Ukraine's General Staff 42.74% — A
+  BELLIGERENT'S SELF-REPORTED CLAIM** · one aggregator's 58% is uncorroborated. ⇒ **USE THROUGHPUT INSTEAD,
+  BECAUSE IT IS MEASURED RATHER THAN DEFINITIONAL: ~3.6M b/d in July 2026, a 20-24 YEAR LOW (Bloomberg),
+  vs a 5.3-5.5M normal.** *(The 1.3-1.9M b/d shortfall is the agent's arithmetic, not a source's figure.)*
+- **⚠️ ORSK'S "SIX MONTHS" IS THE GOVERNOR'S OWN ESTIMATE AND EVERY OUTLET TRACES TO THAT ONE STATEMENT** —
+  Moscow Times, Kyiv Post, Meduza, Pravda.ua, biz.liga.net. ⇒ **Rule 9: N outlets, one origin. I filed it
+  at 12:44am as though corroborated. It is not, and it is a TARGET not a return date.**
+- **⭐ AND ORSK IS ONE OF THE SMALLER ONES. The agent surfaced refineries neither of us had: KIRISHI ~20-21
+  mt/yr SHUT SINCE 2026-05-05 · RYAZAN 17.1 mt/yr SUSPENDED SINCE 2026-05-15 · Syzran 8.5 mt/yr (struck
+  4/18, 5/21, 7/12) · Volgograd 14.8 mt/yr · Novokuibyshevsk 8.8 mt/yr.** ⇒ **Orsk at 5.76 mt/yr is a
+  QUARTER the size of Kirishi, and the two largest have been down since MAY.** ⇒ **The Orsk headline is the
+  least important part of the Russian supply story and it is the part that got the coverage.**
+- **⛔⛔ THE FY2027 CONSENSUS DATA IS BROKEN — THE TWO FETCHES DISAGREE ON THREE OF SIX BY 19-42%:**
+
+  | | vault baseline | Jake's doc | the agent | |
+  |---|---|---|---|---|
+  | VLO | 27.72 | 29.28 | — | agree |
+  | **MPC** | 32.97 | 32.97 | **NOT FOUND** (paywalled) | unverifiable |
+  | **PSX** | 20.58 | 21.36 | **~12.33** | **−42% vs doc** |
+  | PBF | 9.19 | 9.12 | — | agree |
+  | **DINO** | 9.55 | 9.55 | **~7.78** | **−19%** |
+  | **PARR** | 13.23 | 13.23 | **~10.66** | **−19%** |
+
+  **And the agent found MPC FY2026 at $51.38 in one source vs $21.43-23.18 in older Zacks snippets — a 2×
+  discrepancy on the SAME ticker and year.** ⇒ **NEITHER FETCH SHOULD BE TRUSTED ON FY2027 EPS.** ⇒ **AND
+  THIS RETROACTIVELY UNDERMINES THE "24 OF 24 POSITIVE REVISION WINDOWS" WORK — if the point estimates are
+  this unstable across providers, a revision count built on one provider is measuring the provider.**
+- **⚠️ AND A NEGATIVE FINDING THAT IS WRONG: the agent reports "no unplanned European refinery outage in the
+  last 60 days — explicit negative." JAKE'S DOC HAS ONE: BP GELSENKIRCHEN-SCHOLVEN, diesel desulphurisation
+  unit offline after a fire, reported 2026-07-27 (WDR).** ⇒ **A negative finding from an incomplete search
+  is not a negative finding. Jake's doc wins — it has a named facility, a date and a source.**
+  ⇒ **The two fetches also found DIFFERENT US outages (his: TotalEnergies Port Arthur, P66 Sweeny; the
+  agent's: Marathon Galveston Bay 6/21, Monroe Trainer 6/25). NEITHER LIST IS COMPLETE.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE CROSS-CHECK'S REAL LESSON IS METHODOLOGICAL AND IT SHOULD OUTLIVE THE REFINER TRADE: TWO
+  INDEPENDENT FETCHES OF THE SAME QUESTIONS AGREED ON EVERY EXCHANGE- AND AGENCY-SOURCED NUMBER AND
+  DISAGREED ON ALMOST EVERY AGGREGATOR-SOURCED ONE.** **EIA and CME figures reconciled to the barrel. Analyst
+  consensus, "capacity offline," and outage lists diverged by 19-42% or contradicted outright.** ⇒ **THE
+  EVIDENCE LADDER IS EMPIRICALLY VALIDATED HERE, NOT JUST ASSERTED: primary agency and exchange data is
+  reproducible; aggregated third-party estimates are not.** ⇒ **Weight accordingly, and stop treating a
+  consensus EPS figure as though it were a measurement.** *(Analysis.)*
+- **★★★★ AND THE PHYSICAL LEG OF THE REFINER THESIS SURVIVES INTACT WHILE THE FINANCIAL LEG DEGRADES.**
+  **Inventories, utilisation, days of supply, Russian throughput and export collapse — all confirmed by two
+  origins. FY2027 earnings estimates — unreliable at this resolution.** ⇒ **The scarcity is measured. The
+  earnings translation is not.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩 **THE BAN'S LEGAL END-DATE — "end of 2026" vs "January 2027."** Neither fetch reached the decree.
+   **government.ru/news/59474 is the pointer.**
+2. 🚩🚩 **KIRISHI AND RYAZAN RESTART STATUS** — down since May, ~37 mt/yr combined, and neither fetch has a
+   return date. **Far more material than Orsk.**
+3. 🚩 **RE-BASELINE FY2027 EPS FROM A SINGLE NAMED, DATED PROVIDER** — and re-run the revision test on that
+   provider only. **The current baseline is provenance-unknown.**
+4. ⬜ **Aug-2026 FULL-MONTH Russian diesel exports** — the 80k figure is a 7-day window.
+**Links:** [[demand-destruction]] · [[war/war-board]] · [[market-fragility]]
