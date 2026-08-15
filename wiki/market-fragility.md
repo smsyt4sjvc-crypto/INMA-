@@ -3968,3 +3968,75 @@ point, I think, is power as it always has been. You cannot buy time."*
 3. 🚩 **PPA PRICES PAID BY HYPERSCALERS vs local industrial/retail tariffs** — sizes the distributional
    crowd-out on electrons the way Apple's margin headwind sized it on memory.
 **Links:** [[power-not-petroleum]] · [[buildout-bottleneck-map]] · [[ai-capex-cycle]] · [[ai-financing-fragility]] · [[new-economy-regime]]
+
+### 2026-08-15 ~2:44pm PDT — ⭐⭐⭐ THE FALSIFIER I REGISTERED AT 2:22pm HAS BEEN RUN AND IT DID NOT FALSIFY: **headline 20.0× vs cycle-adjusted 24.7-25.0×.** ★ And the datum his own table contains but does not call out is the strongest ANTI-2000 fact in the vault: **the direct AI basket is 17.7% of market cap and 19% of earnings — it trades at ~18.6×, a DISCOUNT to the index**
+Source: Jake's full report → `raw/ai-adjusted-breadth-report-full-2026-08-15.txt` (docx, 17,231 chars).
+Baselines: FactSet Earnings Insight 2026-08-07; breadth snapshot through 2026-08-14. **He labels his own
+figures "approximate point-in-time estimates" and schedules a refresh for 2026-08-28.**
+
+#### DATA (as presented — his calculations on a FactSet baseline)
+- **2026-08-07: S&P 7,709.96 · headline forward P/E 20.0× · implied forward EPS ≈ $385.5.**
+- **STRICT DIRECT-SUPPLIER BASKET — NVDA, AVGO, MU, AMD, INTC, LRCX, AMAT, DELL, KLAC, ANET, SNDK, STX, APH,
+  MRVL, WDC ≈ 17.7% OF MARKET CAP BUT ≈19% OF FORWARD EARNINGS** ⇒ strip ≈$73.3 → residual ≈$312.2 →
+  **CYCLE-ADJUSTED P/E ≈ 24.7×.** **Expanded infrastructure strip ≈ 25.0×. At the 8/14 close, unchanged
+  denominator ≈ 25.2×.**
+- **⚠️ THE DISTINCTION HE DRAWS AND EXPLICITLY WARNS AGAINST CONFLATING — and he is right:**
+  **"NON-AI PORTFOLIO P/E" (remove BOTH cap and earnings) ≈ 20.2-20.3× — NOT the test.
+  "CYCLE-ADJUSTED INDEX P/E" (FULL price ÷ EPS minus AI EPS) ≈ 24.7-25.0× — THE test.**
+- **SENSITIVITY: AI = 10% of forward EPS → 22.2× · 15% → 23.5% · 20% → 25.0× · 25% → 26.7×.**
+- **⭐ THE TREND TEST, WITH A DERIVED THRESHOLD: Jun-30 → Aug-7, price +2.8%, forward EPS +4.7%, headline P/E
+  20.4× → 20.0×. For the residual P/E to have RISEN, the AI-capex chain must account for ≥ ~52% OF THE TOTAL
+  INCREASE IN FORWARD INDEX EPS.** ✓ **I re-derived it independently: 51%. HIS ARITHMETIC CHECKS OUT.**
+- **He flags the gap himself: "earnings-growth CONTRIBUTION is not identical to the CHANGE IN POINT-IN-TIME
+  FORWARD EPS ESTIMATES. The exact historical series still needs to be computed."** **Refresh scheduled
+  2026-08-28 after the next FactSet release.** A 5-outcome confirm/refute table is pre-registered.
+
+#### THESIS (interpretation — NOT fact)
+- **⭐⭐ THE TEST I NAMED AS THE FALSIFIER 22 MINUTES AGO RAN AND CAME BACK ON THE CONFIRMING SIDE.**
+  I registered: *"index EPS ex-AI-capex-chain — if the multiple compression is capital-cycle earnings, the
+  residual should show a much higher and rising P/E. ⬜ Not computed; this is the falsifier for the whole
+  argument."* **The LEVEL leg is now computed: 20.0× → 24.7-25.0×.** ⇒ **⚠️ BUT ONLY THE LEVEL. HE SAYS SO
+  HIMSELF AND IT IS THE MOST IMPORTANT SENTENCE IN THE REPORT: "The level test is suggestive; THE TREND TEST
+  IS DECISIVE."** ⇒ **A single high residual multiple is consistent with the market simply capitalising real
+  new earnings. Only a RISING residual against a FALLING headline separates the two.** *(Analysis.)*
+- **★★★★★★★ AND THE STRONGEST ANTI-2000 FACT IN THIS VAULT IS SITTING IN HIS OWN TABLE UNREMARKED:
+  THE STRICT AI BASKET IS 17.7% OF MARKET CAP AND 19% OF FORWARD EARNINGS. THAT IMPLIES A BASKET MULTIPLE OF
+  (17.7/19.0) × 20.0 = ~18.6× — A ~7% DISCOUNT TO THE INDEX.** ⇒ **THE DIRECT AI COMPLEX TRADES CHEAPER THAN
+  THE MARKET IT IS SUPPOSEDLY BUBBLING.** ⇒ **IN 2000 THE TECH COMPLEX TRADED AT A LARGE PREMIUM TO THE
+  INDEX. TODAY IT TRADES AT A DISCOUNT.** ⇒ **That is the cleanest single statement of "concentrated but not
+  speculative" the vault has, it is internally consistent with the 22pp→13pp cap-vs-earnings gap closure
+  filed at 2:00pm, and it means THE VALUATION RISK IS NOT IN THE AI NAMES — IT IS IN EVERYTHING ELSE, WHICH
+  MUST THEREFORE TRADE ABOVE 20× TO AVERAGE OUT.** *(Analysis. His number, his table, and it argues against
+  his own conclusion — which is why it is worth surfacing.)*
+- **★★★★★ AND THE CLEANEST WAY TO STATE THE RESULT IS AS A PRICED BET, NOT A VALUATION: 24.7× vs 20.0× MEANS
+  THE INDEX IS PAYING ~4.7 TURNS FOR THE AI-CAPEX EARNINGS BEING PERMANENT RATHER THAN CYCLICAL.**
+  ⇒ **That reframing matters because the cycle-adjusted ratio is NOT a P/E of anything — it divides the full
+  index price by a subset of its earnings, so it is a STRESS TEST, not a valuation. He frames it correctly
+  ("how expensive is today's price IF cycle earnings are not permanent") but the number will be
+  mis-quoted as "the S&P trades at 25×" the moment it leaves this document.** *(Analysis.)*
+- **⚠️⚠️ AND HIS STRIP IS A LOWER BOUND, FOR THE EXACT REASON HE HIMSELF GAVE ME 30 MINUTES AGO. His bucket B
+  strips "attributable" data-centre revenue. IT DOES NOT STRIP THE SCARCITY RENT — the margin inflation on a
+  constrained supplier's NON-AI book created by the AI queue.** **Transformers at 128-144 weeks, switchgear
+  sold out through 2028: the municipal utility's order is non-AI revenue priced by AI demand.**
+  ⇒ **THE TRUE AI-CONTINGENT EARNINGS SHARE IS HIGHER THAN 19-20%, AND HIS OWN SENSITIVITY TABLE SAYS THAT
+  MATTERS: 20% → 25.0×, 25% → 26.7×.** *(Analysis. His crowd-out argument, applied to his own model.)*
+- **⚠️ AND THE SECOND GAP IS BUCKET E, WHICH I RAISED AT 2:05pm AND THE REPORT DOES NOT ADOPT. He is right
+  not to strip energy WHOLESALE — but he does not strip the IRAN-WAR-CONTINGENT portion either.**
+  **MPC +119%, VLO +110%, PSX +81% are as cycle-contingent as the AI earnings; they are just a DIFFERENT
+  cycle.** ⇒ **A residual P/E that strips one concentrated engine and not the other overstates the
+  independent earnings base.** ⇒ **Stripping both would raise the residual further.** *(Analysis.)*
+- **✓ AND THE STRUCTURAL FEATURE THAT MAKES THIS WORK CREDIBLE RATHER THAN CLEVER IS THE SENSITIVITY TABLE:
+  EVEN AT A 10% AI EARNINGS SHARE — HALF HIS ESTIMATE — THE RESIDUAL IS 22.2× AGAINST A 20.0× HEADLINE.**
+  ⇒ **The conclusion does not depend on precise classification, which is exactly the objection that would
+  otherwise sink it.** ⇒ **And he pre-registered a 5-outcome confirm/refute table and a dated refresh
+  (8/28). That is the vault's own discipline applied by Jake to his own thesis.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **THE TREND LEG — 2026-08-28, after the next FactSet Earnings Insight.** **Threshold: does the
+   AI-capex chain account for ≥~52% of the change in forward index EPS? Headline falling + residual RISING
+   is the confirming outcome; headline falling + residual falling materially KILLS the thesis.**
+2. 🚩🚩 **RE-RUN THE STRIP WITH THE SCARCITY-RENT ADJUSTMENT AND A BUCKET E (energy/Iran).** Both push the
+   residual UP; the current 24.7× is a floor.
+3. 🚩 **THE AI BASKET'S OWN MULTIPLE, TRACKED**: 18.6× vs the index's 20.0×. **If the discount CLOSES from
+   above — the AI names re-rating to a premium — that is the 2000 signature arriving late.**
+**Links:** [[ai-capex-cycle]] · [[detachment-bid]] · [[new-economy-regime]] · [[buildout-bottleneck-map]] · [[oil-value-chain]]
