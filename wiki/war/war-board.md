@@ -2638,3 +2638,60 @@ the highest MEASURED class this board has had on the strait.**
 4. ⬜ **Hormuz transits vs a properly-sourced pre-war baseline** — my ~150 is derived from one Windward
    sentence in March, not a published normal.
 **Links:** [[oil-value-chain]] · [[demand-destruction]] · [[market-fragility]]
+
+### 2026-08-15 ~2:15am PDT — ⛔⛔ JAKE IS RIGHT AND THE EVIDENCE WAS IN THE DOCUMENT I FILED SEVEN MINUTES AGO: **7 of the 13 tracked vessels (54%) carry a false-flag, dark-fleet, decoy-destination or no-identity marker** — and my "exports are ~zero" claim is **KHARG-ONLY. The vault has paired "Kharg/JASK" as the export marker six separate times and I used one half of it**
+Source: Jake, chat 2026-08-15 ~2:13am PDT — *"Ya but the dark fleet and shields are changing the signage and
+using other countries?"*
+
+#### DATA (MEASURED — re-read of `raw/windward-daily-hormuz-2026-08-14.txt`)
+- **7 OF 13 TRACKED VESSELS (54%) CARRY AN EVASION MARKER:** **SALUTE** (Madagascar · OFAC-sanctioned ·
+  dark-fleet) · **SEAGATE** (Anguilla · OFAC-sanctioned · dark-fleet · **Iran port call**) · **MAJESTY**
+  (Curaçao · OFAC-sanctioned · **FALSE-FLAG** · dark-fleet) · **MUSIK** (Bahamas · dark-fleet) ·
+  **ARGO MARIS** (Curaçao · **FALSE-FLAG** · **LOADED AT BANDAR ABBAS, IRAN**) · **UNIDENTIFIED DARK CARGO
+  VESSEL** (**flag unknown, NO AIS IDENTITY**, seen only by EO satellite composite) · **the sanctioned VLGC**
+  (laden propane, 136.5 NM inside Iranian waters, **decoy UAE-destination AIS tag**).
+- **Top Gulf flags: IRAN 184, COMOROS 147** — Comoros being a registry heavily associated with the dark
+  trade. **Windward's own Q2-2026 note: 50% sanctioned share of the dark fleet; 21% dark-fleet vessel share
+  by flag.**
+- **⛔ AND THE VAULT'S OWN MARKER IS "KHARG/JASK," NOT KHARG: `:L575`, `:L691`, `:L870`, `demand-destruction:
+  L87`, `:L133`, `:L157` — SIX ENTRIES pair them. `:L157` names "Jask" explicitly as the escalation-under-
+  the-marker channel.** **Windward's brief covers Kharg. IT SAYS NOTHING ABOUT JASK.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ HIS OBJECTION DEFEATS ONE OF MY TWO LEGS CLEANLY, AND IT IS THE ONE I LEANED ON HARDEST. THE
+  BLOCKADE-BREAKER SCREEN COUNTS "CONFIRMED LADEN **IRAN-ORIGIN**" — THAT IS AN ATTRIBUTION, AND THE ENTIRE
+  DARK-FLEET PLAYBOOK EXISTS TO DEFEAT ATTRIBUTION.** **Re-flag to Comoros or Curaçao, spoof the
+  destination, run AIS-dark, transfer ship-to-ship at Sohar — and "Iran-origin" becomes unprovable by
+  construction.** ⇒ **"ONLY 3 CONFIRMED LADEN IRAN-ORIGIN VESSELS" MEASURES WHAT WINDWARD CAN PROVE, NOT
+  WHAT IS MOVING. I read past the word CONFIRMED, and it was doing all the work.** *(Analysis.)*
+- **✓ BUT IT DOES NOT DEFEAT THE OTHER LEG, AND THE DISTINCTION IS THE USEFUL OUTPUT: THE KHARG TERMINAL
+  OBSERVATION IS FLAG-INDEPENDENT. You can re-flag a hull, spoof a destination and switch off AIS — YOU
+  CANNOT LOAD CRUDE AT A BERTH WITH NO SHIP ALONGSIDE IT.** **Windward observed the BERTHS: western idle 25
+  days, eastern and LPG empty 13 of 16.** ⇒ **Berth-occupancy is imagery, not identity. It survives every
+  evasion technique in his question.** *(Analysis.)*
+- **⛔⛔ BUT THE SECOND LEG IS NARROWER THAN I FILED IT, AND THIS IS THE REAL CONCESSION: I WROTE "IRANIAN
+  CRUDE EXPORTS ARE ALREADY ~ZERO." WHAT IS MEASURED IS THAT **KHARG** IS ~ZERO. THIS VAULT HAS PAIRED
+  "KHARG/JASK" AS THE EXPORT MARKER SIX TIMES AND I USED ONE HALF OF IT.** ⇒ **JASK SITS ON THE GULF OF
+  OMAN — IT WAS BUILT PRECISELY TO EXPORT CRUDE WITHOUT TRANSITING HORMUZ. A strait blockade does not reach
+  it the same way.** ⇒ **AND ARGO MARIS LOADED AT BANDAR ABBAS UNDER A FALSE FLAG, SO IRANIAN PORTS ARE
+  DEMONSTRABLY STILL LOADING — just not Kharg's crude berths.** ⇒ **THE CRUDE LEG OF THE REFINER RISK IS
+  NOT CLOSED. IT IS OPEN BY THE WIDTH OF JASK, AND I DO NOT KNOW THAT WIDTH.** *(Analysis. Same retrieval
+  failure as the rest of this session: the vault held the qualifier and I did not consult it.)*
+- **★★★★★★ AND THE ONE MEASUREMENT THAT SURVIVES EVERY VERSION OF HIS OBJECTION IS THE PRICE. You can
+  re-flag a hull, spoof a destination, run dark for 31 days and transfer at sea — YOU CANNOT SPOOF THE CRUDE
+  PRICE. WTI IS $82.40, DOWN 24% FROM MAY, WITH HORMUZ AT −91% OF NORMAL TRANSITS AND A BLOCKADE IN FORCE.**
+  ⇒ **Whatever Iran is or is not exporting through whichever terminal under whichever flag, THE MARKET HAS
+  PRICED IT.** ⇒ **The attribution problem is fatal to the vessel counts and irrelevant to the conclusion
+  that mattered: next week's package is being layered onto a market that has already absorbed the Iranian
+  supply question.** *(Analysis. The price is the attribution-free instrument.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **JASK TERMINAL: berth occupancy and liftings.** **The half of the vault's own marker that this
+   brief does not cover, and the hole in my "exports are zero" claim.** ⬜ Not in the Windward Hormuz brief —
+   may need a separate product or Kpler.
+2. 🚩🚩 **BANDAR ABBAS, SIRRI, LAVAN — loading activity.** ARGO MARIS proves Bandar Abbas is live.
+3. 🚩 **RE-SPECIFY THE REGISTERED TEST: not "Kharg liftings" but "KHARG **AND JASK** liftings."**
+4. ⬜ **How does Windward classify "Iran-origin" for the Tier-1 screen?** **If it requires AIS or documented
+   provenance, the screen systematically undercounts re-flagged tonnage and its six zeros mean less than
+   they appear.**
+**Links:** [[oil-value-chain]] · [[demand-destruction]]
