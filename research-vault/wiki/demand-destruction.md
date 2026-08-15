@@ -13,6 +13,7 @@ Related: [[power-not-petroleum]], [[market-fragility]], [[war-board]]. Source: H
 - Global crude exports −3.8M b/d y-o-y; OPEC+ exports −6.5M b/d y-o-y.
 - US/UAE/Russia/Brazil/Venezuela exports **+~1.6M b/d** y-o-y (supply offset).
 - Brent 1-2 timespread in **steep contango** (front cheaper than later = physical glut).
+  ⟲ SUPERSEDED 2026-08-15 → oil-value-chain.md:L977 — STALE: Brent was in steep contango on 6/30 but BOTH WTI and Brent are in monotonic BACKWARDATION as of 2026-08-14 (13.3%/14.0%). The curve flipped and the vault never logged the date
 - Floating storage releasing out of the Strait of Hormuz (war-premium unwind).
 - HFI's three signals: crude timespreads (physical condition), 3-2-1 crack (product demand/
   refiner margin), onshore inventories (draw=deficit / build=surplus).
