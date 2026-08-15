@@ -3760,3 +3760,64 @@ THE CHART and are approximate except the stated 239%.
 3. ⬜ **Rebuild the ratio with the MEAN as a rolling 20-year rather than a full-sample line** — the
    full-sample mean is an artifact of the 1970s starting point.
 **Links:** [[consumption-vs-investment-crux]] · [[detachment-bid]] · [[new-economy-regime]] · [[_calibration]]
+
+### 2026-08-15 ~11:25am PDT — ★★★★★★★ JAKE ATTACKS THE LEG OF ROBERTS I LET STAND, AND IT PARTLY RETIRES THE TRIGGER I FILED AN HOUR AGO: **cross-stock correlation measures PRICE co-movement, not REVENUE dependence.** If the breadth under the top 10 is carried by AI-derived revenue, **2026 is not the opposite of 2000 — it is 2000 with the dependency DISTRIBUTED instead of concentrated**
+Source: Jake, chat 2026-08-15 ~11:23am PDT — *"In 2000 the market was highly bifurcated. I'm wondering if the
+breadth under the top 10 is also being carried by the same AI and tech-adjacent revenue streams."*
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★★ THE ATTACK IS PRECISE AND IT LANDS ON THE WEAKEST LEG OF ROBERTS' ARGUMENT, WHICH I ACCEPTED
+  WITHOUT CHALLENGE 90 MINUTES AGO. Rubner/Roberts: *"breadth is rising while cross-stock correlation sits
+  near RECORD LOWS, indicating a WIDE market."* ⇒ **CORRELATION MEASURES PRICE CO-MOVEMENT. IT DOES NOT
+  MEASURE SHARED UPSTREAM CUSTOMER.** Two companies can have near-zero price correlation while both depend
+  on the same buyer's capex budget.** ⇒ **AND LOW CORRELATION IS THE EXPECTED READING IN A SHARED-DEPENDENCY
+  STRUCTURE *UNTIL THE SHARED FACTOR MOVES* — at which point it goes to 1.** ⇒ **LOW CORRELATION IS NOT
+  EVIDENCE OF INDEPENDENCE. IT IS EVIDENCE THAT THE COMMON FACTOR HAS NOT MOVED YET.** *(Analysis.)*
+- **⛔ AND THAT PARTLY RETIRES THE TRIGGER I FILED AT 11:17am. I registered Roberts' DIVERGENCE test — a new
+  index high on a FALLING breadth reading — as this thread's replacement watch condition. IT IS DESIGNED TO
+  CATCH 2000-STYLE DISTRIBUTION, IN WHICH THE INDEX RISES WHILE PARTICIPATION NARROWS VISIBLY.** ⇒ **IN A
+  SHARED-DEPENDENCY STRUCTURE THAT TRIGGER NEVER FIRES: breadth stays broad right up until the capex stops,
+  and then everything rolls TOGETHER.** ⇒ **THE DIVERGENCE TEST WOULD MISS EXACTLY THE FAILURE MODE JAKE IS
+    ⟲ EXTENDS market-fragility.md:L3696 (2026-08-15) — NARROWED not retired: the divergence trigger catches classical distribution but would NOT fire in a shared-dependency structure, where breadth stays broad until the common factor moves and then everything rolls together [old entry stays LIVE]
+  DESCRIBING. Keep it — it still catches the classical top — but it is no longer sufficient on its own.**
+  *(Analysis. ⟲ narrows `:L3672` rather than retiring it.)*
+- **★★★★★★ AND THE REFRAME IS THE FINDING: IN 2000 THE BUBBLE WAS *VISIBLE IN THE BREADTH DATA* — the market
+  was bifurcated, tech up and everything else down, and the narrowness was measurable in real time. IN 2026,
+  IF THE SAME DEPENDENCY IS DISTRIBUTED ACROSS UTILITIES, ELECTRICAL EQUIPMENT, HVAC, CONSTRUCTION,
+  MATERIALS AND REITs, IT IS *INVISIBLE IN THE BREADTH DATA BY CONSTRUCTION* — because those sectors do not
+  look like technology.** ⇒ **2026 WOULD NOT BE THE OPPOSITE OF 2000. IT WOULD BE 2000 WITH THE EXPOSURE
+  LAUNDERED THROUGH SECTOR LABELS.** ⇒ **And the measurement that showed the risk last time is the one that
+  would conceal it this time.** *(Analysis. Jake's frame; this is the strongest version of it.)*
+- **★★★★★ AND THE VAULT ALREADY HOLDS THE MECHANISM — IT IS THIS VAULT'S ENTIRE SECOND-ORDER MAP.
+  [[power-not-petroleum]], [[buildout-bottleneck-map]], [[cepi]], [[ai-capex-cycle]] EXIST BECAUSE AI CAPEX
+  IS ARRIVING IN NON-TECH INCOME STATEMENTS.** ⇒ **We have been documenting the transmission from the LONG
+  side for months without ever asking what it does to INDEX-LEVEL DIVERSIFICATION.**
+  ⇒ **AND JAKE'S OWN BOOK IS THE ILLUSTRATION: he holds GEV/ETN/PWR PRECISELY BECAUSE THEY ARE CARRIED BY AI
+  REVENUE. He knows the mechanism from the position side and is now asking whether the index is the same
+  trade at scale.** ⇒ **If the answer is yes, then "diversifying" out of tech into the AI-infrastructure
+  complex is not diversification — IT IS THE SAME BET WITH A LONGER SUPPLY CHAIN.** *(Analysis. This has
+  direct [[portfolio-state]] consequences and they are unflattering to a barbell we have treated as two
+  bets.)*
+- **⚠️ AND THE HONEST COUNTER, WHICH IS NOT WEAK: the non-tech AI beneficiaries have CONTRACTED BACKLOGS AND
+  REGULATED RATE BASES, not order flow. A utility with signed interconnection agreements and a 20-year rate
+  base does not de-rate the way a fabless semiconductor supplier does when orders stop.** ⇒ **The dependency
+  is SHARED but the DURATION and CONTRACTUAL PROTECTION are not.** ⇒ **Which is testable: what share of
+  GEV/ETN/PWR/VRT revenue is BACKLOG versus book-and-ship, and how long is the backlog?** *(Analysis.)*
+- **⇒ AND IT REJOINS THIS MORNING'S CREDIT WORK EXACTLY: `new-economy-regime` (the JunkBondInvestor entry)
+  concluded that *"every aggregate in this market is an average over a bimodal distribution, and the average
+  describes nobody."* JAKE IS APPLYING THE SAME TEST TO BREADTH.** ⇒ **The breadth statistic is an aggregate;
+  the question is what it is averaging.** *(Analysis. Two independent arrivals at the same discipline in one
+  morning.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **AI/DATA-CENTRE REVENUE SHARE FOR NON-TECH S&P CONSTITUENTS** — electrical equipment, utilities,
+   HVAC, construction, materials, REITs. **Dispatched. This is the measurement that decides whether the
+   breadth is real diversification or one bet in many costumes.**
+2. 🚩🚩 **BACKLOG vs BOOK-AND-SHIP, AND BACKLOG DURATION, for GEV/ETN/PWR/VRT** — the counter-argument's
+   falsifier.
+3. 🚩🚩 **THE 2000-2002 ANALOGUE: what happened to the NON-TECH beneficiaries of the telecom/fibre capex
+   cycle when it stopped?** **If they fell as hard as the tech names, the "different sector, same customer"
+   structure has a precedent with a measured drawdown.**
+4. ⬜ **A CORRELATION-REGIME CHECK: has cross-stock correlation ever been at record lows immediately before a
+   shared-factor unwind?** The claim that low correlation is a low-stress reading needs its own evidence.
+**Links:** [[ai-capex-cycle]] · [[power-not-petroleum]] · [[buildout-bottleneck-map]] · [[cepi]] · [[portfolio-state]] · [[detachment-bid]]
