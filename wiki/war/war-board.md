@@ -2249,3 +2249,72 @@ people die — it would rather let them migrate or starve than lose this war."*
 - 🚩 **THE FORCING-CLOCK TEST: US retail gasoline vs diesel, weekly.** **His argument requires the
   consumer leg to turn. While gasoline falls, the political clock is not running.**
 **Links:** [[demand-destruction]] · [[oil-value-chain]] · [[market-fragility]] · [[new-economy-regime]]
+
+### 2026-08-15 ~1:37am PDT — ⛔⛔ THE DIRECTION HAS BEEN THE OPPOSITE FOR MOST OF THIS PERIOD: **the administration EASED oil sanctions on Iran AND Russia** — Russia reportedly gained **$3.3-5B of extra oil revenue** from the relief. ★ The pivot back to economic warfare is real and dated **~2026-08-11** — and it is the exact crack risk registered 40 minutes ago
+Source: Jake's paraphrase, chat 2026-08-15 ~1:30am PDT, **verified by WebSearch**. ⚠️ **ARTIFACT TEST: what I
+read is SEARCH-RESULT SUMMARIES with headlines and URLs, NOT the primary articles. REPORTED-class throughout;
+no primary text fetched.** Router scored **WAR/OIL(1)*** only — weak.
+
+#### DATA (REPORTED — search summaries, primary text NOT fetched)
+- **⛔ THE ADMINISTRATION EASED OIL SANCTIONS ON BOTH IRAN AND RUSSIA.** CFR: *"Trump Gambled by Easing Oil
+  Sanctions on Iran and Russia. Will It Pay Off?"* · Sen. Baldwin press release: *"Presses Trump on
+  Skyrocketing Gas Prices, Decision to Ease Sanctions on Russia and Iran."* · **"sanctions relief likely
+  resulting in increased revenue for Iran and potentially Russia receiving $3.3 to $5 billion in additional
+  oil revenue."** · **"US energy chief defends WAIVER on Russian oil sanctions, blames fear for higher gas
+  prices."**
+- **★ THE PIVOT BACK IS DATED: 2026-08-11.** NPR / US News / Review-Journal, all 2026-08-11: *"Trump pivots
+  back to sanctions for Iran as other strategies to end his war fizzle."* Also carried as *"Trump snaps back
+  to economic warfare in struggle to make Iran tap out."* Trump: **"they can make trouble, but they're
+  broke"; "Iran is broke, totally broke."**
+- **⚠️ THE GAS-PRICE QUOTE APPEARS TO BE MARCH-VINTAGE, NOT RECENT.** Documented: **"short term oil prices,
+  which will drop rapidly when the destruction of the Iran nuclear threat is over, is A VERY SMALL PRICE TO
+  PAY"** and Trump **dismissing soaring gas prices as "a little glitch" of the Iran war** — both traceable to
+  ~March 2026 coverage. ⇒ **Same sentiment as Jake's paraphrase; DIFFERENT DATE.** ⬜ **No verbatim
+  "economic warfare never been seen" + "pay the price in gas prices" pairing located. Do not quote it.**
+- **THE PRICE BACKDROP:** gasoline **stuck at ~$4/gallon**, "a high price for this late in the summer";
+  gasoline **up more than $1/gal since the war began**; **US crude up "more than 40 percent"** since the war
+  began; Hormuz "largely closed" (~20% of global oil supplies pre-conflict); *"Gas prices could give
+  Democrats messaging revenge in 2026 elections."*
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ JAKE'S DIRECTIONAL READ IS RIGHT ABOUT NOW AND BACKWARDS ABOUT THE PAST FIVE MONTHS, AND THE GAP IS
+  THE FINDING. THE ADMINISTRATION DID NOT ESCALATE ECONOMIC PRESSURE INTO THE OIL MARKET — IT RELIEVED IT,
+  ON ITS OWN ADVERSARIES, TO SUPPRESS PUMP PRICES.** ⇒ **AND THAT VINDICATES THIS BOARD'S STANDING CONCLUSION
+  AT `:L74` — *"gas prices may force Trump into talks (the domestic forcing function)"* — MORE STRONGLY THAN
+  IT WAS WRITTEN. The forcing function did not merely shade policy; it made the US grant sanctions relief to
+  the country it is at war with.** *(Analysis.)*
+- **★★★★★★ AND IT NAMES THE TRAP THE ADMINISTRATION IS IN, WHICH IS THE STRUCTURAL READ: IT CANNOT HAVE BOTH
+  IRANIAN CAPITULATION AND CHEAP GASOLINE. Capitulation requires sanctions; cheap gasoline requires relief.
+  IT HAS NOW TRIED BOTH IN SEQUENCE, AND THE 8/11 PIVOT IS THE ADMISSION THAT THE RELIEF BRANCH DID NOT
+  PRODUCE A DEAL.** ⇒ **This is an OSCILLATION, not a policy — and an oscillating sanctions regime is a
+  volatility source for crude with no directional bias.** *(Analysis.)*
+- **★★★★★★★ AND IT IS THE EXACT RISK I REGISTERED 40 MINUTES AGO, ALREADY IN MOTION. `oil-value-chain` (the
+  decomposition entry) named the live threat as *"Chinese buying returning, OPEC+ discipline, OR AN IRAN
+  SUPPLY EVENT — every one of which LIFTS crude and COMPRESSES the crack."* THE 8/11 SANCTIONS PIVOT IS THAT
+  EVENT, DATED, AND IT PRECEDES THE REGISTRATION BY FOUR DAYS.** *(Analysis.)*
+- **★★★★★★ AND THE CRUDE ARC RECONCILES MY 84% FINDING WITH "CRUDE IS UP 40% SINCE THE WAR" — BOTH ARE TRUE
+  AND THE COMBINATION IS THE POINT. WTI: 63.05 (Feb) → 108.99 (May, +73%) → 82.40 (Aug, −24% off the peak,
+  still +31% vs pre-war).** ⇒ **CRUDE SPIKED ON THE WAR AND IS UNWINDING. THE CRACK'S RECORD COINCIDES WITH
+  THE UNWIND, NOT WITH THE SPIKE.** ⇒ **A sanctions snap-back re-runs the spike leg — and 84% of the crack's
+  three-month expansion runs in reverse.** *(Analysis.)*
+- **★★★★★★★ AND IT IDENTIFIES THE PRECISE CONFIGURATION THE REFINER TRADE IS LONG, WHICH NOBODY HAS WRITTEN
+  DOWN: US WAIVERS KEEP RUSSIAN *CRUDE* FLOWING WHILE RUSSIA'S OWN EXPORT BAN KEEPS RUSSIAN *PRODUCTS* OFF
+  THE MARKET.** ⇒ **CHEAP CRUDE INPUT + SCARCE PRODUCT OUTPUT IS THE MAXIMUM-CRACK CONFIGURATION, AND IT
+  EXISTS BECAUSE TWO DIFFERENT GOVERNMENTS ARE RESTRICTING TWO DIFFERENT ENDS OF THE SAME BARREL.**
+  ⇒ **BOTH LEGS ARE POLICY, THEREFORE BOTH ARE REVERSIBLE BY ANNOUNCEMENT — the US waiver snapping back
+  (raises the input) and the Russian producer exemption on 2026-09-01 (raises product supply). BOTH POINT THE
+  SAME WAY: CRACK-NEGATIVE. AND ONE OF THEM HAS A DATE.** *(Analysis. This is the sharpest statement of the
+  refiner risk the vault has produced.)*
+- **⚠️ AND A DISCIPLINE NOTE ON THE INBOUND ITSELF: the quote Jake recalled is real in SENTIMENT and wrong in
+  DATE — "a very small price to pay" / "a little glitch" are ~March.** ⇒ **Rule 12: source time ≠ paste time,
+  and a remembered quote is not a dated one. The 8/11 pivot is the datable event; the quote is texture.**
+  *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **DOES THE US WAIVER ON RUSSIAN OIL SANCTIONS SNAP BACK, AND ON WHAT DATE?** **The single largest
+   crack risk, and it is a policy switch rather than a physical one.**
+2. 🚩🚩 **WHAT EXACTLY DID THE 8/11 PIVOT RE-IMPOSE — Iran only, or Russia too? Crude, products, or shipping?**
+   ⬜ **Not known from search summaries. FETCH THE PRIMARY.**
+3. 🚩 **PUMP PRICES WEEKLY vs the $4 line** — the board's own forcing function, now with a level.
+4. ⬜ **Verify the "economic warfare that's never been seen" quote and its date** — not located.
+**Links:** [[oil-value-chain]] · [[demand-destruction]] · [[new-economy-regime]]
