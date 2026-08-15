@@ -2549,3 +2549,92 @@ Iran, or block the crypto and yuan payments by threatening them with the dollar?
 3. 🚩 **IF IT DOES: watch the 30Y and the TIC data, not just crude.** **The vault's own three-route
    conclusion says that is where the bill lands.**
 **Links:** [[new-economy-regime]] · [[oil-value-chain]] · [[demand-destruction]] · [[market-fragility]]
+
+### 2026-08-15 ~2:08am PDT — ⭐⭐⭐ THE REGISTERED TEST IS ANSWERED WITH VESSEL-LEVEL MEASUREMENT, AND IT SETTLES THE REFINER BINARY: **Kharg's western terminal sat idle 25 days (18 Jul → 12 Aug), eastern and LPG terminals empty 13 of 16 days.** Iranian crude exports are already ~zero — **new sanctions cannot subtract barrels that are not moving**
+Source: **Windward Daily Intelligence / MIOC, "Strait of Hormuz," published 14 August 2026, DATA AS OF
+13 AUGUST 2026** → `raw/windward-daily-hormuz-2026-08-14.txt` (15pp, extracted via pypdf). **Jake supplied
+what I could not fetch two hours ago — the live dashboard is JS-rendered and 403s.** **ARTIFACT TEST: an
+operator's own vessel-tracking product with named vessels, IMO numbers, timestamps and analyst assessments —
+the highest MEASURED class this board has had on the strait.**
+
+#### DATA (MEASURED — Windward vessel tracking, as of 2026-08-13)
+- **⭐⭐⭐ KHARG ISLAND: a dark VLCC-class tanker (333m) began loading at the WESTERN terminal on 12 Aug —
+  THE FIRST OCCUPANT SINCE 18 JULY (25 days idle). EASTERN AND LPG TERMINALS EMPTY 13 OF 16 CONSECUTIVE
+  DAYS. Offshore waiting-area backlog: 17 DARK TANKERS.** MIOC: *"selective, not full, resumption."*
+  ⇒ **Against `:L805` — Kharg is 90-96% of Iranian crude exports, ~1.52 mb/d.**
+- **⭐⭐ BLOCKADE-BREAKER SCREEN, SIXTH CONSECUTIVE ZERO: 115 vessels screened across the Arabian Gulf, Gulf
+  of Oman and Arabian Sea. CONFIRMED LADEN IRAN-ORIGIN FLOATING STORAGE: 3. Closest 85.5 NM against a
+  65 NM Tier-1 threshold.** New standout: a sanctioned VLGC laden with propane, 136.5 NM inside Iranian
+  waters, moving toward Sohar STS **on a decoy UAE-destination AIS tag.**
+- **HORMUZ TRANSITS 13 AUG: 13 total (4 inbound, 9 outbound) — UP FROM 3 THE PRIOR DAY.** ⇒ **Against
+  Windward's own March baseline (~100/24h, itself "about one-third lower than typical" ⇒ ~150 normal):
+  13 = −91%, and the prior day's 3 = −98%.** **4 of 9 OUTBOUND RAN AIS-DARK (44%)** — durations 11 hours to
+  **31 days**. **DOMINICA PROSPERITY** (Liberia, 330m, IMO 9395496) **went dark ~31 days (13 Jul–13 Aug) and
+  reacquired laden with an estimated 2 MILLION BARRELS of Saudi crude loaded at RAS TANURA.**
+- **MIOC assessment, verbatim:** *"The rebound in crossings paired with a rising dark-transit share suggests
+  operators are testing gaps in the current restricted posture rather than a genuine return to routine
+  traffic."*
+- **12 SAUDI STATE-LINKED tankers and bulkers routing via the CAPE OF GOOD HOPE** instead of Bab
+  el-Mandeb/Suez — **+4,000-6,000 nm and 10-14 days per voyage**, several finalising destination only after
+  rounding South Africa.
+- **GULF FLEET: 976 vessels** — 160 product tankers · 112 bulk · 51 container · 42 crude tankers · 37
+  LPG/LNG · 7 chemical · 567 other. **SMUGGLING RISK: 155 HIGH · 240 MODERATE · 582 LOW.**
+  **TOP FLAG OF REGISTRY: IRAN 184**, then **Comoros 147**, UAE 109, Panama 92. **RED SEA: 625 vessels.**
+- **GPS JAMMING: 152 jammed vessels today, −13.8% vs the 7-day average, out of 7,773 transmitting.**
+  **CUMULATIVE SINCE OPERATION EPIC FURY (28 Feb): 72,876 unique vessels jammed · 2,980,985 false
+  ship-to-ship meetings.** ⇒ **vs the vault's 7/31 figures (68,940 / 2,944,075): +3,936 vessels and +36,910
+  false STS in 13 days.**
+- **ATTACKS IN THE ACTIVE THREAT ZONE: 60 incidents — 53 attacks, 7 near-misses.** **NCC WAFA (Saudi-flagged
+  products tanker, 5 Aug, off Yanbu) = THE 8TH SAUDI-LINKED TANKER HIT SINCE THE BLOCKADE BEGAN.**
+  **ADNOC-linked vessel (8 Aug, Hormuz) = IRAN'S 16TH STRIKE ON ADNOC SHIPPING.** **TIHAMAH (11 Aug, Bab
+  el-Mandeb): THREE CREW KILLED** — Houthis claim military cargo, Yemen's government says food.
+- **⚠️ TIMELINE CONFLICT, THREE SOURCES, THREE ANSWERS: Windward's counter reads "BLOCKADE · 123D 19H" and
+  its chart marks "Blockade (13 Apr)" as a single continuous event. Wikipedia has the US blockade running
+  "April 13 – May 29." The vault has it "REIMPOSED 7/14" (`:L1169`, `:L1803`).** ⬜ **Unresolved. Windward is
+  the operator with vessel-level data and I weight it highest, but I am not retiring the vault's entry on a
+  counter widget.**
+
+#### THESIS (interpretation — NOT fact)
+- **⭐⭐⭐ THE REGISTERED TEST — *"watch Kpler/Windward Iranian liftings, not the press release"* — IS ANSWERED,
+  AND IT SETTLES THE REFINER BINARY IN THE DIRECTION I LEANED. KHARG HAS BEEN EFFECTIVELY DARK FOR 25 DAYS.
+  IRAN'S ~1.5 mb/d IS ALREADY OUT OF THE MARKET.** ⇒ **NEXT WEEK'S PACKAGE CANNOT SUBTRACT BARRELS THAT ARE
+  NOT MOVING.** ⇒ **The crude leg of the refiner risk is largely CLOSED — not by argument but by
+  measurement.** ⇒ **AND THE COROLLARY IS THE STRONGEST SINGLE FACT IN THIS THREAD: CRUDE IS $82.40, DOWN
+  24% FROM MAY, WITH IRAN'S EXPORT TERMINAL DARK AND A NAVAL BLOCKADE IN FORCE. THE MARKET HAS ABSORBED A
+  TOTAL IRANIAN OUTAGE AND STILL SOLD OFF.** *(Analysis.)*
+- **★★★★★★ AND IT GUTS JAKE'S "DARK FLEET" INSTRUMENT SPECIFICALLY: 115 VESSELS SCREENED, ONLY 3 CONFIRMED
+  LADEN IRAN-ORIGIN, NONE INSIDE THE THRESHOLD, SIXTH CONSECUTIVE ZERO.** ⇒ **There is almost nothing left
+  to interdict. An instrument aimed at the shadow fleet would be aimed at a fleet that is already not
+  sailing.** ⇒ **Which pushes the "never seen" package further toward PAPER — payments, banks, crypto — and
+  reinforces the lean filed 30 minutes ago.** *(Analysis.)*
+- **⛔ AND IT UPDATES THE BOARD'S "PERMANENT MIDDLE STATE" READ, WHICH I ACCEPTED. Jake, 8/13: *"Iran is
+  converting the strait from a weapon into leverage — a permanent middle state, not a binary."* AT 13
+  TRANSITS AGAINST A ~150 NORMAL (−91%), AND 3 THE DAY BEFORE (−98%), THAT IS NOT A MIDDLE STATE. IT IS
+  CLOSURE.** ⇒ **What is "middle" is the GLOBAL SYSTEM'S ADAPTATION, not the strait: 12 Saudi vessels
+  routing the Cape, +10-14 days per voyage, and 44% of outbound Hormuz traffic running dark.**
+  ⇒ **THE STRAIT IS SHUT AND THE OIL IS MOVING ANYWAY — AROUND IT AND UNDER AIS.** **That distinction is
+  the whole reason crude can be $82 with Hormuz closed.** *(Analysis. His frame was right about the outcome
+  and wrong about the mechanism.)*
+- **★★★★ AND THE EVASION IS THE MEASURED FINDING, NOT AN INFERENCE: 44% OF OUTBOUND TRANSITS DARK, ONE FOR
+  31 DAYS CARRYING 2 MILLION BARRELS OF SAUDI CRUDE FROM RAS TANURA; IRAN IS THE LARGEST SINGLE FLAG IN THE
+  GULF (184 of 976) WITH COMOROS SECOND (147); AND 155 OF 976 VESSELS CARRY A HIGH SMUGGLING-RISK SCORE.**
+  ⇒ **16% of the Gulf fleet is scored high-risk and a third flies Iran or a flag-of-convenience associated
+  with the dark trade.** *(Analysis.)*
+- **⚠️ AND THE ESCALATION LEDGER IS RUNNING FASTER THAN THE BOARD HAS BEEN LOGGING: 53 ATTACKS AND 7 NEAR
+  MISSES; the 8TH Saudi-linked tanker hit; IRAN'S 16TH STRIKE ON ADNOC SHIPPING; AND THE TIHAMAH KILLED
+  THREE CREW.** ⇒ **Against Jake's own escalation triggers (`:L2191`) — "troops on the ground · civilian
+  infrastructure at scale · a tanker hit directly instead of disabled" — THE THIRD HAS NOW HAPPENED EIGHT
+  TIMES TO SAUDI TONNAGE AND SIXTEEN TIMES TO ADNOC, AND IT HAS NOT MOVED MARKETS.** ⇒ **His "9/10 Iran
+  wins the chicken game" read is being confirmed by the absence of a US response to a rising count.**
+  *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **DOES THE 12-AUG KHARG CALLER DEPART LADEN, OR DOES THE TERMINAL GO IDLE AGAIN?** MIOC names this
+   as the test. **It is the single highest-frequency indicator of whether Iranian exports are restarting.**
+2. 🚩🚩 **THE BLOCKADE-BREAKER TIER-1 COUNT, DAILY.** Six zeros is a posture holding; the laden VLGC at
+   136.5 NM on a decoy UAE tag is the thing that would break it.
+3. 🚩 **RESOLVE THE BLOCKADE TIMELINE — Windward's continuous 123 days vs Wikipedia's Apr 13-May 29 vs the
+   vault's 7/14 reimposition.**
+4. ⬜ **Hormuz transits vs a properly-sourced pre-war baseline** — my ~150 is derived from one Windward
+   sentence in March, not a published normal.
+**Links:** [[oil-value-chain]] · [[demand-destruction]] · [[market-fragility]]
