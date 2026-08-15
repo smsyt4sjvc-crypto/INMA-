@@ -235,3 +235,82 @@ base through early 2026, NOT a live pull; re-verify when Jake can run the Colab 
   on a food squeeze already running** → stickier core goods CPI → Fed holds higher-for-longer → the discount
   rate stays high on the debt-funded complex that caused it. **PCE prints THURSDAY 5:30am PT** — the first read
   where the electronics passthrough could show up in the core-goods line. [[new-economy-regime]], [[cepi]].
+
+### 2026-08-15 ~4:17pm PDT — ⭐⭐⭐ JAKE'S COUNTERFACTUAL PARTLY REFUTES HIS OWN THESIS AND HE SAYS SO — **"AI did not push earnings above trend; it MASKED unusually weak breadth."** ★ The number he left on the table makes it worse: **−4.8% nominal is ≈ −20% REAL.** And it answers this note's founding question
+Source: Jake's report → `raw/ai-capex-earnings-valuation-counterfactual-2026-08-15.txt` (docx, 20,108 chars).
+Aggregate GAAP earnings, calendar years. **He labels the figures approximate and lists seven limitations
+himself, including the one that matters most.**
+
+#### DATA (as presented — aggregate S&P 500 GAAP earnings, $B)
+| | 2021 | 2022 | 2023 | 2024 | 2021→24 |
+|---|---|---|---|---|---|
+| **Entire S&P 500** | 1,675.2 | 1,453.4 | 1,610.7 | 1,771.2 | **+5.7%** |
+| **Mag7 + Oracle** | 333.7 | 276.7 | 365.9 | 494.1 | **+48.0%** |
+| **Everything else (~492)** | **1,341.5** | 1,176.8 | 1,244.8 | **1,277.2** | **−4.8%** |
+- **CAGRs 2021-24: total +1.9%/yr · Mag7+ORCL ~+14%/yr · THE REST −1.6%/yr.**
+- **⭐ THE DECOMPOSITION, AND IT DOES NOT DEPEND ON THE BASE YEAR: total index earnings +$96.0B. Mag7+Oracle
+  +$160.4B. THE OTHER ~492 COMPANIES −$64.3B. ⇒ THE EIGHT ACCOUNTED FOR 167% OF NET INDEX EARNINGS GROWTH,
+  because deterioration elsewhere offset part of their increase.**
+- **COUNTERFACTUAL PATHS from the 2021 residual base of $1,341.5B: at 6% → $1,597.7B by 2024; 8% →
+  $1,689.9B; 10% → $1,785.5B; literal 2016-21 CAGR of 13.44% → $1,958.3B.** **Against the actual $1,277.2B,
+  the shortfall is $321B (6%) to $508B (10%).** With a second-stage AI-supplier strip the AI-independent 2024
+  range is **$1.240-1.275T**, widening the 6% shortfall to $323-358B.
+- **He uses 6/8/10% rather than the literal 13.44% because that period contains the 2017 tax cut, the 2020
+  collapse and the 2021 rebound** — his own caveat, and it is the right one.
+
+#### THESIS (interpretation — NOT fact)
+- **⭐⭐⭐ THE INTELLECTUALLY IMPORTANT PART IS THAT HE RAN A TEST THAT PARTLY REFUTED HIM AND HE REVISED IN
+  PUBLIC. VERBATIM: *"The historical test does NOT show that AI pushed total S&P earnings above a normal
+  trend. In fact, through 2024 the evidence points the OTHER WAY… That forces a revision of the strongest
+  version of the original hypothesis. The more defensible interpretation is not 'AI created excessive
+  aggregate S&P earnings.' It is 'AI MASKED UNUSUALLY WEAK UNDERLYING EARNINGS BREADTH.'"*** ⇒ **AND THE
+  REVISED THESIS IS HARDER TO DISMISS THAN THE ORIGINAL, WHICH IS WHY THE REVISION MATTERS: "there is a
+  bubble" invites a valuation argument; "the rest of the index has not grown in three years and one capital
+  cycle is carrying the whole number" invites an arithmetic one.** *(Analysis.)*
+- **★★★★★★ AND IT INVERTS THE 2000 COMPARISON IN A WAY NOTHING ELSE TODAY HAS. 2000 WAS AN EXCESS DISEASE —
+  hundreds of companies with negligible profits at enormous multiples. THIS IS A DEFICIT DISEASE — the
+  profitable concentration is real, and what is missing is everything else.** ⇒ **Different pathology,
+  different treatment, and the 2000 playbook does not apply to it.** *(Analysis.)*
+- **★★★★★ AND THE NUMBER HE LEFT ON THE TABLE MAKES HIS CASE MATERIALLY STRONGER: −4.8% IS NOMINAL.
+  DEFLATED BY ROUGHLY 19% CUMULATIVE CPI OVER 2021-24, THE OTHER ~492 COMPANIES' EARNINGS FELL ABOUT 20% IN
+  REAL TERMS.** ⚠️ **My CPI figure is approximate and UNVERIFIED — registered below. But the direction is
+  not in doubt, and a real-terms series is the correct instrument for a three-year earnings comparison in a
+  high-inflation window.** *(Analysis.)*
+- **⚠️ AND THE FAIREST COUNTER, WHICH HE FLAGS AS A LIMITATION AND THEN UNDER-WEIGHTS: 2022 WAS THE TROUGH,
+  AND THE RESIDUAL HAS BEEN RECOVERING SINCE — 1,176.8 → 1,244.8 → 1,277.2 = +8.5% OVER TWO YEARS.**
+  ⇒ **The trend WITHIN the window is UP. The −4.8% headline is substantially a 2021-BASE artifact, and 2021
+  was peak fiscal stimulus, peak reopening margins and zero rates.** ⇒ **AND THE PRE-PERIOD GROWTH RATE IS
+  CONTAMINATED FROM THE OTHER END: the 13.44% 2016-21 CAGR contains the 2017 corporate tax cut, which was a
+  ONE-TIME LEVEL SHIFT, NOT GROWTH.** ⇒ **BOTH ENDPOINTS ARE COMPROMISED. THE HONEST BASE IS 2019 —
+  post-tax-cut, pre-COVID.** 🚩 **Registered. It is the single test that would most change this result in
+  either direction.** *(Analysis.)*
+- **⭐⭐⭐ AND THE SYNTHESIS OF HIS TWO DOCUMENTS, WHICH NEITHER ONE MAKES: HE HAS A CAUSAL PATHWAY AND HE HAS
+  NOT CONNECTED IT TO THIS RESULT. His limitations section lists the −$64B as possibly reflecting "rates,
+  commodity cycles, post-pandemic normalization, taxes, inflation." BUT HIS OWN CROWD-OUT ARGUMENT — MADE
+  NINETY MINUTES AGO — IS A CAUSAL PATHWAY FROM AI TO NON-AI EARNINGS WEAKNESS: memory prices (Apple named
+  it as a margin headwind), transformer and equipment queues, and — his own line — FINANCING PULLED BACK ON
+  the marginal non-AI project.** ⇒ **IF THE CROWD-OUT IS REAL, AI DID NOT MERELY MASK WEAK BREADTH. IT
+  PARTLY CAUSED IT.** ⇒ **THE −$64B AND THE CROWD-OUT ARE THE SAME PHENOMENON MEASURED AT TWO LEVELS — one
+  in the aggregate earnings series, one in the supply chain and the capital structure.** *(Analysis. This is
+  the strongest available version of the argument and it belongs to him; he just filed the two halves
+  separately.)*
+- **⭐⭐ AND IT ANSWERS THIS NOTE'S FOUNDING QUESTION, WHICH IS WHY IT IS FILED HERE AND NOT IN
+  `market-fragility`. THE SPINE ASKS: "DID POST-COVID BORROWING BUILD OR DRINK?" THE ANSWER IN THIS TABLE IS
+  DRINK — the other ~492 companies produced NO nominal earnings growth and roughly −20% real across three
+  years that contained the largest peacetime fiscal expansion on record.** ⇒ **AND THEN ONE PRIVATE CAPITAL
+  CYCLE ARRIVED AND PRODUCED 167% OF THE INDEX'S NET GROWTH.** ⇒ **THE AI CAPEX CYCLE IS NOT THE SEQUEL TO
+  THE STIMULUS. IT IS THE SUBSTITUTE FOR WHAT THE STIMULUS FAILED TO BUILD — and that reframes it from a
+  bubble question into the crux question this vault was opened to answer.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **RE-RUN THE COUNTERFACTUAL OFF A 2019 BASE.** **Both endpoints of the 2021→24 construction are
+   compromised — 2021 is a stimulus peak, and the 2016-21 CAGR embeds the 2017 tax cut as if it were growth.
+   2019 is post-tax-cut and pre-COVID.** **This is the single test most likely to change the result.**
+2. 🚩🚩 **DEFLATE THE SERIES.** ⬜ **Exact cumulative CPI/PCE deflator 2021→2024 — my ~19% is unverified.
+   The real-terms series is the correct instrument and it strengthens his case by ~15 points.**
+3. 🚩 **DECOMPOSE THE −$64B BY SECTOR.** **If the decline is concentrated in the sectors the crowd-out
+   argument predicts — consumer electronics, enterprise IT, rate-sensitive capital formation — causation
+   gets much harder to dismiss. If it is energy and financials mean-reverting off 2022, it does not.**
+4. ⬜ **The point-in-time 2021-2026 forward-EPS series he names as the highest-value next step** — three
+   lines: headline · ex-Mag7+Oracle · full AI-chain-adjusted.
+**Links:** [[ai-capex-cycle]] · [[market-fragility]] · [[new-economy-regime]] · [[cepi]] · [[detachment-bid]]
