@@ -3821,3 +3821,86 @@ breadth under the top 10 is also being carried by the same AI and tech-adjacent 
 4. ⬜ **A CORRELATION-REGIME CHECK: has cross-stock correlation ever been at record lows immediately before a
    shared-factor unwind?** The claim that low correlation is a low-stress reading needs its own evidence.
 **Links:** [[ai-capex-cycle]] · [[power-not-petroleum]] · [[buildout-bottleneck-map]] · [[cepi]] · [[portfolio-state]] · [[detachment-bid]]
+
+### 2026-08-15 ~2:00pm PDT — ★★★★★★★ THE COUNT ANSWERS JAKE: **98 of 504 names (19.4%) are 53.2% of the index.** Today is MORE concentrated than 2000, not less — **24 stocks now make 50% of index cap vs ~32 at the dot-com peak** — and one number directly refutes Roberts' "record-low correlation = wide market": **the S&P-to-Nasdaq-100 correlation hit an all-time high of 0.98 in March 2026**
+Source: Sonnet subagent (86 tool calls), reading in full: Apollo/Slok *"The extreme weight of AI in the S&P
+500"* (Jan-2026, 39pp) · Bespoke *"Sector Weightings"* (Jul-2023, the 1990-2023 table) · FactSet *Earnings
+Insight* (Butters, 2026-01-30, 39pp) · SPY/IVV/XLK/XLC holdings pages (2026-08-13) · the S&P constituent list
+counted programmatically. **Fund-holdings and index-provider figures are MEASURED; bank and press figures
+REPORTED.**
+
+#### DATA
+- **504 CONSTITUENTS (2026-08-13, four independent counts converge).**
+  **INFORMATION TECHNOLOGY: 73 names, 37.65-37.94% weight. COMMUNICATION SERVICES: 23 names, 9.46-9.48%.**
+  **TECH-ADJACENT (IT + Comm Svcs + AMZN + TSLA): 98 NAMES = 19.4% BY COUNT, ≈53.2% BY WEIGHT.**
+- **⭐ TODAY'S STRICT "INFORMATION TECHNOLOGY" (37.65-37.94%) ALREADY EXCEEDS THE MARCH-2000 PEAK (34.88%,
+  Bespoke) — AND TODAY'S DEFINITION IS STRICTLY NARROWER**, because the Sept-2018 GICS restructure moved
+  Alphabet, Meta and Netflix OUT into Communication Services, and Amazon and Tesla sit in Consumer
+  Discretionary. **On a consistent basis the gap is far wider than the headline sector numbers show.**
+- **TOP-10 WEIGHT, the definition-independent series:** 1990 ~19% · **2000 peak ~27%** · 2007 ~19-23% ·
+  2015 ~18-19% · 2021 ~29-30% · Dec-25/Jan-26 36-41% · **AUG-2026 MEASURED 37.43-37.58%.**
+  ⇒ **+10.5pp vs the 2000 peak = 1.39×.** Top 5 = 26.3-27.2%.
+- **⭐⭐ THE CLEANEST CONCENTRATION STATISTIC (Bloomberg via Finbold, 2026-07-22, REPORTED): 24 STOCKS NOW
+  REACH 50% OF S&P 500 MARKET CAP, VERSUS ~32 AT THE 2000 DOT-COM PEAK.** Goldman (via secondary summary,
+  lower confidence): top-10 at 36% vs a ~20% multi-decade average — **"highest concentration since 1932."**
+  Apollo: combined weight of stocks individually ≥3% of the index hit a record **~28% vs ~9% in 1999.**
+- **⭐⭐⭐ CME Group / Dr. Mark Shore, published 2026-08-10: THE S&P 500-TO-NASDAQ-100 CORRELATION REACHED AN
+  ALL-TIME HIGH OF 0.98 IN MARCH 2026.**
+- **THE EARNINGS TEST: FactSet (Butters, 2026-01-30, MEASURED) — Q4-2025 IT net profit margin 29.0% vs the
+  index's 13.2% (2.2×); IT earnings +29.8% y/y vs the index's +11.9%; IT margin above its own 5-yr average
+  (29.0 vs 25.0).** **RBC (2026-01-22): top-10 = ~41% of weight but ~32% of expected earnings — a 9pp gap.**
+  ⚠️ **IT's share of aggregate index NET INCOME: "over 25%" today vs "~12.5%" in Q1-2000 — from a single
+  thinly-sourced outlet naming no primary provider. USE WITH CAUTION; it is the only figure that directly
+  answers the question and it is the weakest one in the set.**
+- **⚠️ AND A NON-MONOTONIC FINDING THE AGENT REFUSED TO SMOOTH: top-10 concentration read 36-41% in
+  Dec-2025/Jan-2026 and reads 37.4-37.6% NOW. Concentration has been FLAT-TO-DOWN over seven months, not
+  rising.** ⬜ Real decline or a methodology/date-cut difference — unresolved.
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★★ THE DIRECT ANSWER TO JAKE, AND IT IS THE COUNT/WEIGHT SPLIT IN ONE LINE: ONE NAME IN FIVE IS
+  HALF THE INDEX (19.4% of constituents, 53.2% of weight — a 2.7× ratio).** ⇒ **By COUNT the S&P is not a
+  tech index. By WEIGHT it is barely anything else.** *(Analysis.)*
+- **★★★★★★ AND HIS PREMISE NEEDS INVERTING, WHICH IS THE MOST IMPORTANT CORRECTION HERE. HE SAID *"in 2000
+  the market was highly bifurcated"* — TRUE — AND IMPLIED TODAY IS THE LESS CONCENTRATED CASE. IT IS THE
+  MORE CONCENTRATED ONE, ON EVERY DEFINITION-FREE MEASURE. TOP-10: 37.5% vs 27%. STOCKS TO REACH HALF THE
+  INDEX: 24 vs 32. AND TODAY'S NARROWER "IT" SECTOR ALONE OUT-WEIGHS 2000'S BROADER ONE.** ⇒ **2000 WAS
+  BIFURCATED. 2026 IS SIMPLY TOP-HEAVY — and top-heavy is the more extreme state, it just does not LOOK
+  like it in a breadth chart.** *(Analysis.)*
+- **★★★★★★★ AND ONE NUMBER SETTLES THE ROBERTS ARGUMENT JAKE ATTACKED THREE HOURS AGO: THE S&P-TO-NASDAQ-100
+  CORRELATION HIT AN ALL-TIME HIGH OF 0.98 IN MARCH 2026.** ⇒ **Roberts/Rubner: "cross-stock correlation
+  sits near record lows, indicating a WIDE market." BOTH ARE TRUE AND THEY ARE MEASURING DIFFERENT THINGS.
+  INDIVIDUAL STOCKS ARE DECORRELATED FROM EACH OTHER. THE INDEX IS 0.98 CORRELATED WITH THE NASDAQ-100.**
+  ⇒ **THE S&P 500 IS THE NASDAQ-100 WITH A LONG TAIL OF STOCKS THAT DO NOT MOVE IT.** ⇒ **THAT IS JAKE'S
+  QUESTION ANSWERED AT THE INDEX LEVEL: the breadth is real, and it is irrelevant to the index's return.**
+  *(Analysis. The single most important line in this fetch, and it is a direct measured refutation of the
+  inference I let stand at 11:17am.)*
+- **⇒ ★★★★★ THE SYNTHESIS: THE S&P 500 IS NOW TWO DIFFERENT ASSETS WEARING ONE TICKER. An EQUAL-WEIGHT
+  market that is genuinely broad and healthy (72% above their 200-DMA, low pairwise correlation), and a
+  CAP-WEIGHT index that is a concentrated AI bet at 0.98 to the Nasdaq-100.** ⇒ **Roberts is describing the
+  first and calling it the second. Anyone who owns SPY owns the second.** ⇒ **🚩 THE MONITORABLE VERSION:
+  RSP (equal-weight) vs SPY. If breadth is real and load-bearing, RSP keeps pace. If the breadth is a tail
+  that does not move the index, it does not.** *(Analysis.)*
+- **✓ BUT THE BUBBLE COMPARISON DOES **NOT** SURVIVE ON THE EARNINGS AXIS, AND THIS IS THE STRONGEST THING
+  AGAINST THE 2000 ANALOGY: IN 2000 IT WAS ~34.9% OF CAP AGAINST ~12.5% OF NET INCOME — A ~22-POINT GAP.
+  TODAY IT IS ~37.8% OF CAP AGAINST >25% — A ~13-POINT GAP, ROUGHLY HALF.** **Corroborated from a different
+  direction by FactSet: IT's net margin is 2.2× the index and its earnings grew 29.8% vs the index's 11.9%.**
+  ⇒ **TODAY'S CONCENTRATION IS IN COMPANIES THAT EARN THE MONEY. 2000's WAS NOT.** ⇒ **THE INDEX IS MORE
+  CONCENTRATED THAN 2000 AND LESS SPECULATIVE THAN 2000. Both, simultaneously — and any argument that uses
+  only one of those facts is selecting.** ⚠️ **The earnings-share figure is the weakest source in the set;
+  the conclusion leans on it and should be re-sourced before it is load-bearing.** *(Analysis.)*
+- **⇒ AND IT SHARPENS THE REAL RISK, WHICH IS NOT VALUATION: IF THE CONCENTRATION IS IN THE EARNINGS AS WELL
+  AS THE CAP, THEN THE FAILURE MODE IS NOT A MULTIPLE DE-RATE. IT IS AN EARNINGS EVENT AT A HANDFUL OF
+  COMPANIES.** ⇒ **Which routes straight back to Jake's shared-dependency question: the thing that would
+  produce a simultaneous earnings event across both the top 10 AND the "broad" tail is a HYPERSCALER CAPEX
+  CUT.** *(Analysis. The two questions he asked this afternoon converge on one variable.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **RSP (equal-weight) vs SPY, weekly.** **The tradeable, monitorable form of "is the breadth
+   load-bearing." Replaces the % -above-200-DMA reading as the primary breadth instrument.**
+2. 🚩🚩 **S&P-to-NDX correlation, monthly** — 0.98 in March-2026 was an all-time high. **Where is it now?**
+3. 🚩🚩 **RE-SOURCE IT's SHARE OF AGGREGATE S&P NET INCOME, 2026 vs 2000, from a named primary provider.**
+   **The 22pp→13pp gap closure is the strongest anti-bubble argument in the vault and it currently rests on
+   one thinly-sourced article.**
+4. ⬜ **Resolve the top-10 concentration path: 36-41% in Dec-25/Jan-26 vs 37.4-37.6% now.** Flat-to-down over
+   seven months contradicts the melt-up narrative.
+**Links:** [[detachment-bid]] · [[ai-capex-cycle]] · [[cepi]] · [[portfolio-state]] · [[consumption-vs-investment-crux]]
