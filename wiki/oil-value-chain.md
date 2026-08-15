@@ -944,3 +944,78 @@ this vault treats as strong, and the reason the accidental duplication was worth
    provider only. **The current baseline is provenance-unknown.**
 4. ⬜ **Aug-2026 FULL-MONTH Russian diesel exports** — the 80k figure is a 7-day window.
 **Links:** [[demand-destruction]] · [[war/war-board]] · [[market-fragility]]
+
+### 2026-08-15 ~1:00am PDT — ⛔⛔⛔ THE SECOND CROSS-CHECK ATTACKS THE THESIS AT ITS CORE: **84% of the three-month crack expansion is CRUDE FALLING, not diesel rising.** Plus two vault errors — **"29% backwardation" is a computation error (it is 41%)** — and **this is NOT an all-time record: 2022 exceeded $100 multiple times**
+Source: Sonnet subagent (63 tool calls), run independently of Jake's `Monopolists.docx`. **⚠️ Its own sourcing
+caveat, stated up front and worth respecting: CME's settlement pages are JavaScript-rendered and could not be
+fetched; it used Investing.com cross-checked against OilPrice and TradingEconomics — all three IDENTICAL to
+the cent, which "strongly suggests one shared upstream vendor rather than independent verification."**
+⇒ **So the curve is confirmed by TWO ORIGINS ONLY IF Jake's doc used a different vendor. ⬜ Unknown.**
+
+#### DATA — THE CURVE IS CONFIRMED TO THE CENT
+- **Every row of the ULSD strip matches Jake's doc exactly: Sep-26 97.48 · Dec-26 83.97 · Dec-27 57.31.**
+  **ONE discrepancy, and Jake's doc is right: Feb-27 — HO 3.6544 × 42 − 75.82 = 77.66, not the agent's
+  77.76.** *(A 10-cent arithmetic slip, caught by recomputation.)*
+- **⭐⭐ AND THE DATAPOINT NEITHER OF US HAD, WHICH IS THE STORY: WTI WAS $108.99 ON 2026-05-15** (EIA/FRED
+  spot). **It is $82.40 now.** **ULSD spot over the same window: 4.163 → 4.2829 $/gal.**
+- **NEW: WTI AND BRENT ARE BOTH IN BACKWARDATION, monotonically across the whole curve** — WTI front 82.40 vs
+  Sep-27 71.45 = **13.29%**; Brent front 88.52 vs Oct-27 76.09 = **14.04%**.
+- **Historical series (⚠️ MIXED INSTRUMENTS, flagged by the agent): 2025-08-15 SPOT 31.98 · 2026-02-13 SPOT
+  39.18 · 2026-05-15 SPOT 65.86 · 2026-07-15 FUTURES 86.71 · 2026-08-14 FUTURES 97.48.** On 7/15 spot and
+  futures were within 0.3% (86.98 vs 86.71) — **a fair proxy, not an exact substitute.**
+- **⛔ THE RECORD CLAIM IS CONTESTED AT SOURCE: OPIS (late July) says explicitly the 2026 diesel crack "has
+  NOT YET reached the 2022 peak levels," and that >$100 was "eclipsed a few times" in 2022** — against
+  Bloomberg 8/13 "tops $98/bbl" and ZeroHedge/Jefferies "nearly $100." **ZeroHedge dates the prior 2026 record
+  to mid-March at $97 and attributes the 8/13 spike to a HOUTHI ATTACK ON ARAMCO'S JAZAN REFINERY** (the vault
+  has Jazan struck 8/9, `war/war-board:L1759`). ⬜ **"98.169" and "+25.68 over 30 sessions" — BOTH NOT FOUND
+  by either fetch. The agent measures +$10.77 over 23 sessions and +$31.63 over three months.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔⛔ THE FINDING THAT ATTACKS THE THESIS AT ITS CORE. Jake's premise, verbatim from his own statement of
+  it: *"the current opportunity is being driven by an extreme shortage in refined products — especially diesel
+  — NOT CRUDE OIL ITSELF."* DECOMPOSE THE THREE-MONTH MOVE: product leg 174.85 → 179.88 = +5.04 (+2.9%).
+  Crude leg 108.99 → 82.40 = −26.59 (−24.4%). Crack +31.63.** ⇒ **PRODUCT RISING EXPLAINS 16% OF THE CRACK
+    ⟲ SUPERSEDES demand-destruction.md:L15 — STALE: Brent was in steep contango on 6/30 but BOTH WTI and Brent are in monotonic BACKWARDATION as of 2026-08-14 (13.3%/14.0%). The curve flipped and the vault never logged the date
+  EXPANSION. CRUDE FALLING EXPLAINS 84%.** ⇒ **THE CRACK WIDENED MOSTLY BECAUSE CRUDE COLLAPSED, NOT BECAUSE
+  DIESEL RALLIED.** ⚠️ **Instrument caveat is real (May spot vs Aug futures) but the agent's own 7/15
+  spot-vs-futures check puts the error at ~0.3%, nowhere near enough to reverse an 84/16 split.**
+  ⇒ **AND THE VAULT ALREADY OWNS THE CRUDE HALF: `demand-destruction:L12` has Chinese imports −4.9M b/d and
+  the physical glut, and `oil-value-chain:L258` already superseded my war-premium read for exactly this
+  reason. THE TWO NOTES HAVE BEEN TELLING THE SAME STORY FROM OPPOSITE ENDS AND I NEVER JOINED THEM.**
+  *(Analysis. This is the most consequential line in three days of refiner work.)*
+- **⚠️ AND IT DOES NOT KILL THE TRADE — IT RE-SPECIFIES THE RISK, WHICH IS MORE USEFUL. A crack sustained by
+  cheap crude is hostage to a CRUDE RALLY, not to a product build.** ⇒ **The named break condition has been
+  "distillate inventories rebuild into the 5-year band." ON THIS DECOMPOSITION THE LIVE RISK IS CHINESE
+  BUYING RETURNING, OPEC+ DISCIPLINE, OR AN IRAN SUPPLY EVENT — every one of which LIFTS crude and COMPRESSES
+  the crack while product stays tight.** ⇒ **The refiner trade has been carrying an unhedged short-crude
+  exposure that nobody wrote down.** *(Analysis.)*
+- **⛔⛔ VAULT ERROR: "29% ULSD BACKWARDATION" IS A COMPUTATION ERROR AND IT HAS BEEN LOAD-BEARING.**
+  **Measured: (97.48 − 57.31)/97.48 = 41.21%. Even the vault's own rounded anchors give (97−56)/97 = 42.27%.
+  29% reconciles with NEITHER.** ⇒ **It is not a market move that narrowed — the number was never right.**
+  ⇒ **It appears inside the supersede text at `:L334`/`:L368` (the decoupling correction), so a wrong figure
+  has been propagating through an amendment trail.** ⇒ **The error cuts IN JAKE'S FAVOUR — the deferred
+  discount is far steeper than we said — but it is still an error.** *(Analysis.)*
+- **⛔ AND THE "RECORD" FRAMING IS WRONG, WHICH MATTERS BECAUSE 2022 IS THE ANALOG. OPIS SAYS EXPLICITLY THE
+  2026 CRACK HAS NOT REACHED 2022 PEAKS, AND THAT >$100 WAS EXCEEDED SEVERAL TIMES THEN.** ⇒ **This is a
+  multi-year high, not an all-time high.** ⇒ **AND THE PRECEDENT IS THE UNCOMFORTABLE PART: 2022 WAS ALSO A
+  EUROPEAN PRODUCT-SUPPLY SHOCK CAUSED BY RUSSIAN DISRUPTION, IT WENT HIGHER THAN THIS, AND IT DID NOT
+  PERSIST.** ⇒ **"Room to run" arguments that lean on record-ness are leaning on a claim the sources dispute.**
+  *(Analysis.)*
+- **⚠️ AND A CARRIED CLAIM IS NOW STALE: `demand-destruction:L15` has "Brent 1-2 timespread in STEEP CONTANGO
+  (physical glut)" from 6/30. BOTH WTI AND BRENT ARE NOW IN MONOTONIC BACKWARDATION (13.3% / 14.0%).**
+  ⇒ **The curve flipped between 6/30 and 8/14 and the vault never logged it.** ⇒ **A contango-to-backwardation
+  flip is the physical market going from glut to tight — the OPPOSITE of the condition the crude-is-cheap
+  argument rests on, and it is the mechanism that would end the 84%-of-the-move crude leg.** ⬜ **WHEN did it
+  flip? Not known. That date is now the most informative missing number in the oil thread.**
+  *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **WHEN DID BRENT FLIP FROM CONTANGO TO BACKWARDATION?** Weekly 1-2 timespread since 6/30.
+   **If crude is re-tightening, 84% of the crack move is running in reverse.**
+2. 🚩🚩 **RE-RUN THE DECOMPOSITION ON MATCHED INSTRUMENTS** — futures-basis front-month HO and CL for
+   2026-05-15 and 2026-02-13, not spot. **The 84/16 split is the load-bearing number and it is currently
+   spot-to-futures blended.**
+3. 🚩 **THE 2022 EPISODE AS THE ANALOG: peak crack, duration, and what ended it.** The thesis's best
+   historical test and neither fetch went near it.
+4. ⬜ **Correct every downstream use of "29% backwardation" — the figure is 41%.**
+**Links:** [[demand-destruction]] · [[market-fragility]] · [[war/war-board]]
