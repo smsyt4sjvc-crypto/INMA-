@@ -3702,3 +3702,61 @@ FLOWS(3) · CONSUMER(3) · MEMORY(2).
    detachment premise weakens further.
 4. ⬜ **Retail put-buying vs retail cash-equity buying** — the "participation without conviction" spread.
 **Links:** [[detachment-bid]] · [[new-economy-regime]] · [[portfolio-state]] · [[memory-regime-question]]
+
+### 2026-08-15 ~11:20am PDT — ★★★★★★ THE BUFFETT INDICATOR AT 239% AND ROBERTS' FALLING FORWARD MULTIPLE ARE **BOTH TRUE AND NOT IN CONFLICT** — the denominators differ. **Market cap / GDP at a record is a measurement of CORPORATE PROFIT SHARE, not of price-to-earnings.** And per the rule Jake wrote, it times nothing
+Source: Jake's chart (LongtermTrends, Wilshire 5000/GDP, **Dec-1-1970 → Aug-11-2026**) + wire line, pasted
+2026-08-15 ~11:15am PDT. ⚠️ **Chart data runs to 8/11 — four days stale against Friday's close.**
+**ARTIFACT TEST: a ratio chart with a headline, no underlying series supplied.** Levels below are READ OFF
+THE CHART and are approximate except the stated 239%.
+
+#### DATA
+- **Wilshire 5000 / GDP = 239%, described as an all-time high, surpassing 2000, 2007 and 2022.**
+  Chart-read prior peaks: **2000 ≈ 140% · 2007 ≈ 105% · 2022 ≈ 200% · long-run MEAN ≈ 85%.**
+- **Against Roberts, filed 20 minutes ago (`:L3577`): the S&P FORWARD MULTIPLE FELL to ~20× from 23× last
+  October, while the index made 26 record highs, because Q2 index earnings grew ~33%.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★★ THE TWO MEASURES DISAGREE ONLY IF YOU IGNORE THE DENOMINATOR, AND THE RECONCILIATION IS THE
+  FINDING. SAME NUMERATOR (market cap). DIFFERENT DENOMINATORS: GDP grows at nominal ~4-5%; S&P EARNINGS
+  GREW ~33% IN Q2.** ⇒ **MARKET CAP / GDP RISES WHILE MARKET CAP / EARNINGS FALLS — MECHANICALLY, WITH NO
+  CONTRADICTION.** ⇒ **A RECORD BUFFETT INDICATOR ALONGSIDE A FALLING FORWARD P/E IS A MEASUREMENT OF
+  CORPORATE PROFITS CAPTURING A RECORD SHARE OF NATIONAL INCOME — NOT OF STOCKS BEING EXPENSIVE RELATIVE TO
+  THEIR OWN EARNINGS.** ⇒ **Those are two different claims with two different failure modes: the first
+  breaks when the profit share mean-reverts (labour, tax, antitrust, competition); the second breaks when
+  earnings miss. THE HEADLINE CONFLATES THEM.** *(Analysis. This is the seventh instrument-mismatch catch of
+  the session and the first one that resolves in favour of BOTH sources being right.)*
+- **⚠️ AND THE INDICATOR HAS A KNOWN STRUCTURAL DEFECT THAT IS EXACTLY THIS SESSION'S ERROR CLASS: THE
+  NUMERATOR IS GLOBAL AND THE DENOMINATOR IS DOMESTIC.** **US-listed companies earn a large and rising share
+  of revenue abroad; GDP counts only domestic output.** ⇒ **The ratio is structurally higher today than in
+  1970 for reasons that have nothing to do with valuation.** ⬜ **I do not have the current S&P foreign-revenue
+  share and will not assert one — registered below.** *(Analysis.)*
+- **✓ BUT THE STEELMAN SURVIVES THE HAIRCUT AND MUST BE STATED: 239% AGAINST A ~85% MEAN IS ROUGHLY 2.8×,
+  AND NO PLAUSIBLE FOREIGN-REVENUE ADJUSTMENT CLOSES A GAP THAT SIZE.** **The level is genuinely extreme
+  even after every methodological objection is granted.** *(Analysis. Do not use the critique to dismiss the
+  reading — use it to size it.)*
+- **★★★★★★ AND THE RULE JAKE WROTE ON 7/14 ALREADY DISPOSES OF IT, VERBATIM: *"WARNINGS (states):
+  unfalsifiable, persist for years; at EXTREMES they shift forward-drawdown ODDS slightly but TIME
+  NOTHING."* THE RULE EVEN NAMES THIS EXACT CASE — "Druckenmiller: valuation is not a catalyst."**
+  ⇒ **Valuation is the canonical WARNING. File it as an odds-shader; never as a top-caller.**
+  *(Analysis. The vault's own rule, applied to the vault's own inbound.)*
+- **★★★★★ AND THE HARD EMPIRICAL ARGUMENT AGAINST TRADING IT — IT IS IN THE CHART JAKE SENT: THE PRIOR
+  ALL-TIME RECORD (≈140% IN 2000) HAS BEEN EXCEEDED BY ROUGHLY 70%.** ⇒ **"It cannot go higher than the
+  dot-com peak" was falsifiable, was believed, and has been falsified by a margin larger than the entire
+  1995-2000 run.** ⇒ **AND THE CHART SHOWS THE INDICATOR CROSSING ~100% IN 1997-98 — the market then ran
+  ~3 MORE YEARS AND ROUGHLY DOUBLED BEFORE TOPPING.** ⇒ **THAT IS THE COST OF TREATING THIS SERIES AS A
+  TIMER, MEASURED ON THE SAME CHART THAT MAKES THE BEARISH CASE.** *(Analysis.)*
+- **⇒ AND IT IS JAKE'S OWN "ATHs ARE THE STATUS QUO IN A MARKET DESIGNED TO INFLATE," ARRIVING WITH A
+  DENOMINATOR PROBLEM ATTACHED. A ratio whose numerator is a nominal asset price and whose denominator is
+  nominal output will drift UP forever in a system that inflates both — but the asset faster, because it
+  capitalises the flow.** ⇒ **HIS FRAME PREDICTS EXACTLY WHAT THIS CHART SHOWS: a rising mean, not a
+  stationary one. The dashed "MEAN" line on the chart is fitted across a 56-year structural drift and is not
+  a level the series has any reason to return to.** *(Analysis. His frame, applied to the instrument.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩 **CORPORATE PROFITS AS A SHARE OF GDP (FRED: CPATAX/GDP), quarterly.** **If the Buffett Indicator is
+   really measuring profit share, THIS is the series that decides whether it mean-reverts — and it is the
+   falsifiable version of the same worry.**
+2. 🚩 **S&P 500 FOREIGN REVENUE SHARE** — sizes the numerator/denominator mismatch. ⬜ Not held.
+3. ⬜ **Rebuild the ratio with the MEAN as a rolling 20-year rather than a full-sample line** — the
+   full-sample mean is an artifact of the 1970s starting point.
+**Links:** [[consumption-vs-investment-crux]] · [[detachment-bid]] · [[new-economy-regime]] · [[_calibration]]
