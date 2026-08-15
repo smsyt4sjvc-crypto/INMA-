@@ -761,3 +761,90 @@ had the elephant that ATHs aren't some unicorn in a market designed to inflate. 
   vs crack rolling correlation. ⇒ **The discipline he needs is not doubt. IT IS THE FETCHES.**
   *(Analysis. Correcting my own pushback to the thing that would actually inform it.)*
 **Links:** [[demand-destruction]] · [[market-fragility]] · [[_calibration]]
+
+### 2026-08-15 ~12:44am PDT — ⛔⛔⛔ THE TRIGGER I REGISTERED LAST NIGHT HAD ALREADY FIRED FIVE WEEKS EARLIER — **Russia banned diesel exports 2026-07-08** — and the same document contains a **DATED BEARISH CATALYST TWO WEEKS OUT: the ban carries a producer exemption from 2026-09-01**
+Source: Jake's fetch, `Monopolists.docx`, data cutoff 2026-08-15 00:01 PT → `raw/monopolists-crack-fetch-2026-08-15.txt`.
+**ARTIFACT TEST: a compiled research document with per-row MEASURED/REPORTED labels and source URLs — the
+CME/EIA rows are exchange- and agency-sourced; the Russia and record rows are press-sourced and labelled so.**
+⚠️ **I read "now the crack fetch" as an instruction and dispatched two Sonnet agents at data Jake had already
+pulled. Letting them run as an INDEPENDENT cross-check — two origins on the same numbers is the corroboration
+standard, so the duplication is salvageable, but the misread is mine.**
+
+#### DATA (MEASURED — CME/NYMEX settlements, trade date 2026-08-14, unless flagged)
+- **ULSD CRACK FORWARD CURVE, computed HO×42 − WTI:** Sep-26 **97.48** · Oct-26 93.45 · Nov-26 89.03 ·
+  Dec-26 83.97 · Jan-27 80.65 · Mar-27 73.98 · Jun-27 63.94 · Sep-27 60.27 · **Dec-27 57.31.**
+  **Front-to-Dec-27 gap $40.17 · backwardation 41.21%.**
+- **vs the vault's carried baseline (97 / 56 / gap 41.00): front +0.48, Dec-27 +1.31, GAP −0.83.**
+- **ULSD CRACK THROUGH TIME:** 2025-08-15 **29.89** (REPORTED) · 2026-02-13 **37.65** (MEASURED, USDA report
+  carrying CME nearby futures) · 2026-07-15 **86.23** (REPORTED) · 2026-08-14 **97.48** (MEASURED).
+  ⬜ 2026-05-15 NOT FOUND. **RBOB crack 51.33 · 3-2-1 crack 66.72** (both 8/14).
+- **⭐ EIA DISTILLATE, w/e 2026-08-07 (released 8/12): 107,149 kb.** WoW **−10 kb (flat)**. YoY **−6,536 kb /
+  −5.75%**. **Days of supply 29.3. REFINERY UTILISATION 96.2%.** Distillate exports 4-wk avg 1,802 kb/d.
+  **FIVE-YEAR COMPARABLE BAND 112,256–137,814 kb ⇒ CURRENT SITS BELOW THE ENTIRE BAND: −5,107 kb (−4.55%)
+  below the LOWER EDGE, −11.54% vs the five-year mean.** EIA narrative: "about 12% below five-year average."
+- **⭐⭐⭐ RUSSIAN EXPORT RESTRICTIONS: FULL DIESEL EXPORT BAN FROM 2026-07-08** (Reuters headline that day:
+  *"US diesel futures post biggest daily gains in four years after Russia bans exports"*). **Temporary
+  prohibition on gasoline, diesel, marine fuel and gasoil 2026-08-01 → 2027-01-31, announced 2026-07-30
+  (government.ru/news/59474).** **⚠️ PRODUCER EXEMPTION FOR DIESEL / MARINE FUEL / GASOIL FROM 2026-09-01 —
+  direct producer exports exempt.**
+- **RUSSIA, PHYSICAL:** **over one-third of refining capacity impaired** (8/5, REPORTED, S&P Global) · crude
+  runs below 4.0M b/d · **seaborne refined-product exports 1.51M b/d (Jun) → 1.18M b/d (Jul), a decade low** ·
+  **diesel/gasoil loadings 471k → 314k b/d, −157k b/d.** **Orsk ≈115,200 b/d shut 8/11, repairs up to six
+  months. Gazprom Neftekhim Salavat struck 8/13** (lost b/d NOT FOUND).
+- **CHINA QUOTA: 2026 batches 19.0 + 13.0 = 32.0 mt vs 2025's comparable 31.8 mt = +0.63%.** ✓ **Confirms the
+  vault's carried +0.6%.**
+- **CONSENSUS FY2027 EPS vs the vault baseline: VLO 29.28 (+5.63%) · PSX 21.36 (+3.79%) · PBF 9.12 (−0.76%) ·
+  MPC 32.97, DINO 9.55, PARR 13.23 all UNCHANGED.** FY2026: VLO 43.15 · MPC 51.38 · PSX 26.22 · PBF 17.51 ·
+  DINO 13.83 · PARR 20.27. **⬜ 30- and 90-day revision deltas NOT FOUND — the "24 of 24 positive windows"
+  claim cannot be refreshed from this.**
+- **⬜ THE RECORD IS STILL UNPROVEN:** Reuters carried **>$91 (7/16)** then **$93.44 (w/o 7/30)**; the vault's
+  **98.169** chart value has **no same-series proof**, and the 5-yr / 10-yr crack range is NOT FOUND.
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔⛔ THE WORST FINDING IS ABOUT MY OWN PROCESS, AND IT IS THE THIRD RULE-10 BREACH IN 48 HOURS. LAST
+  NIGHT I REGISTERED *"does Russia re-impose a product export ban, and on what date?"* AS **THE** DATED
+  TRIGGER. IT FIRED ON 2026-07-08 — FIVE WEEKS BEFORE I WROTE IT DOWN — AND IT MOVED US DIESEL FUTURES THE
+  MOST IN FOUR YEARS THAT DAY.** ⇒ **I called the Orenburg queues "the precondition" for an event that had
+  already happened, in a piece I had just ingested.** ⇒ **Rule 10 verbatim: *a registered test one query can
+  resolve is not a test — look it up now.* Registering a resolved event as a future trigger is worse than not
+  registering it: it puts a false "not yet" into the vault.** *(Analysis.)*
+- **⭐⭐⭐ AND THE SAME DOCUMENT CONTAINS THE DATED BEARISH CATALYST THE THESIS DID NOT HAVE, TWO WEEKS OUT:
+  ⟲ SUPERSEDES demand-destruction.md:L3609 — THE TRIGGER HAD ALREADY FIRED: Russia banned diesel exports 2026-07-08, five weeks before I registered it as a future event, and it moved US diesel futures the most in four years that day. The live dated trigger is now the 2026-09-01 PRODUCER EXEMPTION, which points DOWN
+  THE BAN CARRIES A PRODUCER EXEMPTION FROM 2026-09-01.** **The prohibition runs to 2027-01-31, but from
+  September 1 direct producer exports of diesel, marine fuel and gasoil are exempt.** ⇒ **THE CONSTRAINT
+  DRIVING THE TRADE IS SCHEDULED TO LOOSEN ON A KNOWN DATE.** ⇒ **This is a genuine TRIGGER in the rule-10
+  sense — dated, mechanical, falsifiable — and it is the first one this thread has that points DOWN.**
+  🚩 **How much of the 1.18M b/d is "direct producer" volume decides whether the exemption is cosmetic or
+  material. ⬜ Not known.** *(Analysis.)*
+- **★★★★★★★ AND THE STRIP IS NOT "TOO LOW" AGAINST HISTORY — IT IS ALREADY WELL ABOVE IT. THIS IS THE
+  STRONGEST PUSHBACK AVAILABLE AND IT COMES ENTIRELY FROM JAKE'S OWN FETCH.** **Dec-27 prices at 57.31.
+  The crack ACTUALLY WAS 29.89 in Aug-2025 and 37.65 in Feb-2026.** ⇒ **The deferred strip already embeds
+  +92% vs a year ago and +52% vs February.** ⇒ **"THE DEFERRED STRIP IS TOO LOW" DOES NOT MEAN "THE MARKET
+  EXPECTS NORMALISATION TO HISTORY." THE MARKET IS ALREADY PRICING A PERMANENT STRUCTURAL RESET TO ROUGHLY
+  TWICE LAST YEAR'S LEVEL. The bet requires the reset to be BIGGER STILL than the one already in the curve.**
+  ⇒ **That is a materially harder claim than the one the thread has been carrying, and it should be stated
+  that way.** *(Analysis.)*
+- **★★★★★ AND THE MOVE DECOMPOSES AROUND THE BAN IN A WAY THAT SAYS IT IS PRICED: Feb-13 37.65 → Jul-15
+  86.23 = +129% (a window that CONTAINS the 7/8 ban). Jul-15 → Aug-14 = +13%, entirely POST-ban.**
+  ⇒ **The bulk repriced before mid-July.** ⇒ **"Russia impaired" is not a forward catalyst for this trade.
+  IT IS THE THING THAT ALREADY HAPPENED.** *(Analysis.)*
+- **✓ BUT THE PHYSICAL CONFIRMER IS CLEAN AND IT IS THE STRONGEST LEG THE THESIS HAS: INVENTORIES ARE BELOW
+  THE ENTIRE FIVE-YEAR BAND, NOT MERELY BELOW THE AVERAGE — 107,149 vs a 112,256 floor — WITH REFINERY
+  UTILISATION AT 96.2%.** ⇒ **There is no domestic slack to rebuild from, and the registered inventory break
+  condition is NOT TRIGGERED.** ⇒ **The scarcity premise is confirmed at the physical level even as the
+  PRICE argument weakens. Those are separate claims and both readings survive.** *(Analysis.)*
+- **⚠️ A DATA-QUALITY FLAG WORTH KEEPING: THREE OF SIX FY2027 CONSENSUS FIGURES MATCH THE VAULT BASELINE TO
+  THE CENT** (MPC 32.97, DINO 9.55, PARR 13.23). **Either nothing moved, or both readings are the same
+  provider snapshot.** ⇒ **A "no change" that is really "same source twice" is not evidence of stability.**
+  ⬜ **And the 30/90-day revision deltas — the actual test — came back NOT FOUND.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **THE 2026-09-01 PRODUCER EXEMPTION — what share of Russia's 1.18M b/d of seaborne product exports
+   qualifies as "direct producer"?** **The first dated downside trigger this thread has. Two weeks out.**
+2. 🚩🚩 **DOES THE DEFERRED STRIP KEEP RISING FASTER THAN THE FRONT?** Dec-27 +1.31 vs front +0.48 is the bet
+   working, marginally. **Track the GAP weekly — it is the position, not the level.**
+3. 🚩 **EIA distillate vs the 5-yr band, weekly** — now a live series with a measured baseline (below the
+   floor by 4.55%). **The break is a REBUILD INTO the band.**
+4. ⬜ **30/90-day consensus revision deltas** — NOT FOUND, and it is the leg that would refresh "24 of 24."
+5. ⬜ **Same-series proof for the 98.169 record**, and the 5-/10-year crack range.
+**Links:** [[demand-destruction]] · [[war/war-board]] · [[market-fragility]] · [[new-economy-regime]]
