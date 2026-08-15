@@ -2449,3 +2449,47 @@ laundered.** ⚠️ **Search summaries + headlines; full articles NOT fetched.**
 3. 🚩 **DOES CRUDE RALLY ON THE ANNOUNCEMENT?** **Vance has publicly staked goal No. 1 on it NOT doing so.
    That is a falsifiable claim by the Vice President with a date attached.**
 **Links:** [[oil-value-chain]] · [[demand-destruction]] · [[market-fragility]]
+
+### 2026-08-15 ~1:58am PDT — ⛔ JAKE READ THE HALF OF BESSENT'S SENTENCE I SKIPPED — **"anything from going IN or out"** — and it DISSOLVES the contradiction I filed six minutes ago: **civilian IMPORT strangulation is the only instrument set that satisfies both stated goals at once**
+Source: Jake, chat 2026-08-15 ~1:56am PDT — *"Probably civilian imports."*
+
+#### THESIS (interpretation — NOT fact)
+- **⛔ CONCEDED, AND THE EVIDENCE WAS INSIDE THE QUOTE I ALREADY FILED. Bessent: the blockade *"will keep
+  anything from going **IN** or out of the Iranian ports."* I READ "OUT" AND ANALYSED CRUDE EXPORTS. THE
+  SENTENCE SAYS BOTH DIRECTIONS AND I WEIGHTED ONE.** ⇒ **My "mechanical self-contradiction" finding assumed
+  the instrument must touch crude supply. It does not have to.** *(Analysis.)*
+- **★★★★★★★ AND HIS ANSWER IS THE ONLY ONE THAT SATISFIES BOTH STATED OBJECTIVES SIMULTANEOUSLY, WHICH IS
+  WHY IT IS PROBABLY RIGHT. Sanctioning Iranian crude EXPORTS removes supply → crude UP → violates Vance's
+  goal No. 1. Strangling Iranian IMPORTS — food, medicine, machinery, refined product, spare parts — imposes
+  maximum civilian and regime cost AND REMOVES NO CRUDE FROM THE MARKET.** ⇒ **VANCE'S RANKING PREDICTS THE
+  INSTRUMENT. If cheap oil outranks non-proliferation, the instrument set is CONSTRAINED to measures that do
+  not touch oil supply — and civilian imports are what remains.** ⇒ **"Measures never seen in the history of
+  economic isolation" is consistent with an import blockade in a way it is not consistent with export
+  sanctions, which have been run against Iran for four decades and are the opposite of unprecedented.**
+  *(Analysis. Jake's read; the ranking is the corroborating logic.)*
+- **★★★★★ AND IT MEANS THE ADMINISTRATION HAS SELECTED THE INSTRUMENT WITH THE HIGHEST HUMANITARIAN COST AND
+  THE LOWEST OIL-PRICE COST — WHICH IS EXACTLY WHAT A PUBLICLY-STATED PREFERENCE FOR CHEAP GASOLINE OVER
+  NON-PROLIFERATION IMPLIES.** ⇒ **The ranking is not rhetoric. It is a CONSTRAINT that selects targets, and
+  it selects this one.** *(Analysis.)*
+- **★★★★★★ AND IT COLLIDES WITH JAKE'S OWN STANDING READ ON THIS BOARD, WHICH IS THE MOST IMPORTANT THING
+  HERE. `:L2192`: *"Trump's mistake is thinking the IRGC cares whether its people die — it would rather let
+  them migrate or starve than lose this war."*** ⇒ **BY HIS OWN PRIOR ANALYSIS, THE INSTRUMENT HE EXPECTS
+  THEM TO CHOOSE IS THE ONE HE HAS ALREADY CONCLUDED WILL NOT WORK.** ⇒ **That is not a contradiction in his
+  reasoning — it is a PREDICTION OF FAILURE, and it is falsifiable: import strangulation either produces
+  capitulation within a definable window or it demonstrates his thesis.** *(Analysis. Registered below as
+  the test.)*
+- **★★★★ AND THE MARKET READ NARROWS TO SOMETHING ALMOST BORING, WHICH IS USUALLY THE SIGN IT IS RIGHT:
+  AN IRANIAN IMPORT BLOCKADE IS CRUDE-NEUTRAL.** ⇒ **The 84% driver of the crack expansion is untouched; the
+  Russian waiver is untouched; the refiner input cost is untouched.** ⚠️ **ONE SECOND-ORDER LEG TO CHECK, AND
+  IT POINTS THE OTHER WAY: IRAN IMPORTS REFINED PRODUCT. Blockading that REMOVES DEMAND from the global
+  product market — crack-NEGATIVE, probably small.** ⬜ **The vault holds NOTHING on Iran's refined-product
+  import/export balance — a genuine gap in a thread this board has run for months.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩 **IRAN'S REFINED-PRODUCT IMPORT AND EXPORT BALANCE, in b/d.** **The only leg of an import blockade
+   that reaches the crack, and the vault has zero coverage of it.**
+2. 🚩🚩 **THE FALSIFIER ON JAKE'S OWN THESIS: if the package is import-side, does Iran move toward
+   capitulation within 90 days?** **His standing read says no. That is now dated and testable.**
+3. 🚩 **CONFIRM THE INSTRUMENT WHEN IT LANDS (week of 8/17)** — import-side vs export-side is the single
+   distinction that decides whether this reaches crude at all.
+**Links:** [[oil-value-chain]] · [[demand-destruction]]
