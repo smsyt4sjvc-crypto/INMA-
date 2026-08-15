@@ -2318,3 +2318,65 @@ no primary text fetched.** Router scored **WAR/OIL(1)*** only — weak.
 3. 🚩 **PUMP PRICES WEEKLY vs the $4 line** — the board's own forcing function, now with a level.
 4. ⬜ **Verify the "economic warfare that's never been seen" quote and its date** — not located.
 **Links:** [[oil-value-chain]] · [[demand-destruction]] · [[new-economy-regime]]
+
+### 2026-08-15 ~1:41am PDT — ⭐⭐⭐ THE PRIMARY SOURCE, DATED YESTERDAY, AND IT SHOWS THE OSCILLATION **INSIDE THE ADMINISTRATION IN A 24-HOUR WINDOW**: Vance calls cheap oil and gas **"goal number one"** on Thursday; Trump says $4 gasoline is **"OK," "I'll never apologize"** on Friday
+Source: **NBC News, Julianne McShane, 2026-08-14 6:02 PM EDT** → `raw/nbc-trump-vance-gas-prices-2026-08-14.txt`.
+**ARTIFACT TEST: a news report carrying VERBATIM quotes attributed to named principals at named venues — the
+strongest form of REPORTED-class, and it supersedes my March dating from 20 minutes ago.**
+
+#### DATA (REPORTED — NBC, verbatim quotes)
+- **TRUMP, Friday 2026-08-14, rally at the Nassau County Police Academy, Garden City NY:** *"For you to pay a
+  tiny little bit more for your gasoline, just remember you're doing it so that a very evil country cannot
+  have a [nuclear weapon]. So remember that when you have to pay a little bit more, **you're at $4. It's
+  OK**."* · *"**I'll never apologize.** I did the right thing."*
+- **VANCE, Fox News, Thursday 2026-08-13 — ONE DAY EARLIER:** *"**That's goal number one, keep oil and gas
+  cheap for Americans** all over our country,"* with **"ensure that Iran never gets a nuclear weapon" named
+  as goal number TWO.**
+- **Gasoline averaging more than $4/gallon (AAA).**
+- NBC: the president has **"repeatedly"** dismissed rising gas prices as **"a very small price to pay."**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔ FIRST, A CORRECTION TO MY OWN CORRECTION 20 MINUTES AGO. I told Jake the "very small price to pay"
+  line was MARCH-VINTAGE and treated his recollection as mis-dated. NBC says the president has used it
+  "REPEATEDLY," and this piece is 2026-08-14.** ⇒ **It is a RECURRING line, not a March one. Jake heard a
+  current instance and I dated it to the first instance I could find.** ⇒ **"I could only source it to March"
+  is not the same as "it is from March," and I stated the second.** *(Analysis.)*
+- **★★★★★★★ AND THE FINDING IS THE 24-HOUR SPREAD BETWEEN THE TWO PRINCIPALS, BECAUSE IT CONVERTS MY
+  "OSCILLATION" INFERENCE FROM A SEQUENCE INTO A SIMULTANEOUS CONTRADICTION. `:L2286` argued the
+  administration "cannot have both Iranian capitulation and cheap gasoline… it has now tried both IN
+  SEQUENCE." THIS IS BETTER EVIDENCE THAN THAT: THE VP RANKS CHEAP FUEL #1 AND IRAN #2 ON THURSDAY; THE
+  PRESIDENT INVERTS IT ON FRIDAY.** ⇒ **The two branches of the trap are being voiced CONCURRENTLY by the
+  two people who decide.** ⇒ **A policy that is genuinely unresolved at the top is not a forecastable
+  variable — it is a VOLATILITY source, and it should be modelled as one rather than handicapped.**
+  *(Analysis.)*
+- **★★★★★ AND IT PUTS THE VAULT'S OWN FORCING FUNCTION IN GENUINE DISPUTE FOR THE FIRST TIME. `:L74` STANDING:
+  "gas prices may force Trump into talks — the domestic forcing function."** **VANCE'S THURSDAY RANKING
+  CONFIRMS IT AS ADMINISTRATION POLICY. TRUMP'S FRIDAY "IT'S OK / I'LL NEVER APOLOGIZE" REJECTS IT AS
+  BINDING ON HIM.** ⇒ **Do not retire `:L74` and do not promote it. ITS STATUS IS NOW CONTESTED ON THE
+  RECORD, and that is a different and more useful thing to know than either resolution.** *(Analysis.)*
+- **★★★★★★ AND THE READ I FIND MOST PERSUASIVE, WHICH IS THE LESS OBVIOUS ONE: "IT'S OK" IS MORE LIKELY THE
+  LANGUAGE OF EXHAUSTED INSTRUMENTS THAN OF CHOSEN TOLERANCE. YOU DO NOT PUBLICLY BLESS A PRICE YOU CAN STILL
+  LOWER — THREE MONTHS BEFORE MIDTERMS.** **And this vault holds what the lowering levers look like now:
+  the SPR is at a 43-YEAR LOW — 298.7M bbl, −26% y/y, below 300M for the first time since Jan-1983
+  (`demand-destruction:L3514`) — and SANCTIONS RELIEF HAS ALREADY BEEN TRIED AND DID NOT PRODUCE A DEAL
+  (`:L2274`, the 8/11 pivot).** ⇒ **THE TWO INSTRUMENTS THAT SUPPRESS PUMP PRICES ARE BOTH SPENT.**
+  ⇒ **"$4 is OK" reads as ACCOMMODATION TO A CONSTRAINT, NOT DEFIANCE OF ONE — and Vance's Thursday framing
+  is the one that reveals the preference, because it is the one that costs something to say.**
+  *(Analysis. ⚠️ This is inference about motive from word choice — the weakest kind of reading in this vault.
+  Flagged as such and NOT to be cited as a finding.)*
+- **★★★★ AND THE MARKET IMPLICATION IS NARROW AND CONCRETE, WHICH IS WHY IT SURVIVES THE WEAK-INFERENCE
+  CAVEAT ABOVE: IF THE PRICE-SUPPRESSION LEVERS ARE SPENT, THE ADMINISTRATION'S REMAINING PATH TO CHEAPER
+  GASOLINE RUNS THROUGH *SUPPLY* — WHICH MEANS MORE WAIVERS, NOT FEWER.** ⇒ **That argues the Russian-crude
+  waiver is MORE likely to persist than to snap back, which is the crack-POSITIVE branch of the risk I
+  registered an hour ago.** ⇒ **The 8/11 Iran pivot and a persisting Russian waiver are compatible: squeeze
+  the adversary you are fighting, keep the barrels you need.** ⇒ **🚩 SO THE TEST NARROWS USEFULLY: it is not
+  "do sanctions snap back," it is "DOES THE *RUSSIAN* WAIVER SPECIFICALLY SURVIVE."** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **DOES THE RUSSIAN-CRUDE WAIVER SURVIVE — separately from the Iran pivot?** **The two can and
+   probably do move in opposite directions, and only the Russian one drives the refiner input cost.**
+2. 🚩🚩 **DOES VANCE RESTATE THE #1/#2 RANKING AFTER TRUMP'S "IT'S OK"?** **If the VP holds the line, the
+   forcing function is live administration policy and the president is the outlier. If he drops it, the
+   constraint has been released and crude has one less political cap.**
+3. 🚩 **AAA national average weekly vs the $4 line, into the midterms.**
+**Links:** [[oil-value-chain]] · [[demand-destruction]] · [[market-fragility]]
