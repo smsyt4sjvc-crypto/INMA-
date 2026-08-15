@@ -2380,3 +2380,72 @@ strongest form of REPORTED-class, and it supersedes my March dating from 20 minu
    constraint has been released and crude has one less political cap.**
 3. 🚩 **AAA national average weekly vs the $4 line, into the midterms.**
 **Links:** [[oil-value-chain]] · [[demand-destruction]] · [[market-fragility]]
+
+### 2026-08-15 ~1:52am PDT — ⭐⭐⭐ BOTH REGISTERED TESTS RESOLVE IN ONE NEWS CYCLE, AND THE ANSWER IS A SELF-CONTRADICTION: **Vance names cheap oil "goal No. 1" while Bessent promises a Hormuz blockade "that will keep anything from going in or out of Iranian ports."** You cannot blockade a major oil exporter and keep oil cheap. **And the announcements land NEXT WEEK.**
+Source: Jake's headline + WebSearch verification, 2026-08-15 ~1:50am PDT. Bloomberg, Washington Times, The
+Hill, Irish Times, NBC, Times of Israel, Breitbart, ZeroHedge — **many outlets, ONE ORIGIN each (Bessent's
+remarks; Vance's Fox interview). That is fine: these are PRIMARY STATEMENTS being reported, not a claim being
+laundered.** ⚠️ **Search summaries + headlines; full articles NOT fetched.**
+
+#### DATA (REPORTED — verbatim quotes)
+- **⭐ BESSENT (Treasury Secretary), 2026-08-14:** *"Watch this space for more announcements **coming next
+  week** because we are going to apply measures like have never been seen in the history of economic
+  isolation on a country."* And: the measures *"will be a combination of **economic isolation like the world
+  has never seen before, and the continued blockade in the Strait of Hormuz that will keep anything from
+  going in or out of the Iranian ports**."* **Trump ordered Treasury to "apply maximum pressure to the
+  Iranian regime."** Framed as a **"one-two punch"**, after ~six months of war. **Bloomberg: "US to roll out
+  'economic isolation' plan for Iran NEXT WEEK."**
+- **⭐ VANCE, Fox News (clip dated 2026-08-13, reported 8/14) — THE FULL QUOTE, WITH HIS REASONING:**
+  *"**I know that oil is down today and it's way down from the highs in the early days of the conflict.**
+  That's goal No. 1 — keep oil and gas cheap for Americans all over our country."* · *"Obviously goal number
+  two is ensure that Iran never gets a nuclear weapon."*
+- **✓ ATTRIBUTION RESOLVED: the "economic warfare that's never been seen" line is BESSENT, not Trump** —
+  and it is dated **2026-08-14**, not March. **Jake had the substance and the recency right and the speaker
+  wrong.** ⬜ My earlier "no verbatim located" is closed.
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★★ THE TWO POLICIES ANNOUNCED IN THE SAME 24 HOURS WORK AGAINST EACH OTHER, AND THIS IS NOT
+  INTERPRETATION — IT IS ARITHMETIC. A BLOCKADE THAT KEEPS "ANYTHING FROM GOING IN OR OUT OF IRANIAN PORTS"
+  REMOVES A MAJOR EXPORTER'S CRUDE FROM THE MARKET. THAT RAISES THE OIL PRICE. VANCE'S GOAL NO. 1 IS TO LOWER
+  IT.** ⇒ **The trap this board named at `:L2286` is no longer an inference from sequence — IT IS TWO STATED
+  OBJECTIVES IN DIRECT MECHANICAL CONFLICT, VOICED BY THE TREASURY SECRETARY AND THE VICE PRESIDENT INSIDE
+  ONE NEWS CYCLE.** *(Analysis.)*
+- **⛔ AND IT SUPERSEDES MY OWN "EXHAUSTED INSTRUMENTS" READ FROM 10 MINUTES AGO, WHICH I FLAGGED AS WEAK AND
+  WAS RIGHT TO. A FAR MORE PARSIMONIOUS EXPLANATION OF TRUMP'S FRIDAY "$4 IS OK / I'LL NEVER APOLOGIZE":
+  HE WAS PRE-BUYING POLITICAL COVER FOR AN ANNOUNCEMENT HIS OWN TREASURY SECRETARY HAD JUST SAID IS COMING
+  NEXT WEEK.** ⇒ **Not accommodation to a spent lever — ADVANCE DEFENCE OF A DELIBERATE ONE.** ⇒ **The
+  sequence fits: Vance claims credit for cheap oil (Thu) → Bessent announces the measure that will raise it
+  (Fri) → Trump pre-emptively blesses the price rise (Fri).** *(Analysis. Motive-from-word-choice was the
+  wrong tool; the CALENDAR was the right one.)*
+- **★★★★★★ AND VANCE'S REASONING CONFIRMS MY CRACK DECOMPOSITION FROM THE POLICY SIDE — HE CITES THE EXACT
+  MOVE I MEASURED. "Oil is down today and it's WAY DOWN FROM THE HIGHS IN THE EARLY DAYS OF THE CONFLICT"
+  IS WTI 108.99 (May) → 82.40 (Aug).** ⇒ **THE WHITE HOUSE IS CLAIMING CREDIT FOR THE 84% DRIVER OF THE
+  CRACK EXPANSION** (`oil-value-chain`, the decomposition entry). ⇒ **THE UNITED STATES GOVERNMENT HAS
+  DECLARED CHEAP CRUDE ITS NUMBER-ONE WAR AIM — which means the refiner trade's dominant input is now
+  EXPLICIT US POLICY rather than an accident of Chinese demand.** *(Analysis.)*
+- **★★★★★ ⇒ AND THAT CUTS BOTH WAYS, WHICH IS WHY IT IS WORTH FILING RATHER THAN CHEERING: (a) CRACK-POSITIVE
+  — an administration whose #1 goal is cheap oil will defend the Russian-crude waiver and fight a crude rally
+  with every instrument, keeping the refiner's input cheap. (b) CRACK-NEGATIVE — the blockade it is
+  simultaneously promising is the single most crude-bullish act available to it.** ⇒ **The trade is long a
+  configuration the US government is BOTH protecting and attacking, with the attack scheduled first.**
+  *(Analysis.)*
+- **★★★★ AND MY REGISTERED TEST NARROWS AGAIN AND CORRECTLY: THE TIGHTENING IS IRAN-SPECIFIC. NOTHING IN
+  BESSENT'S REMARKS TOUCHES RUSSIA.** ⇒ **The Russian-crude waiver — the leg that actually sets the US
+  refiner's input cost — is UNADDRESSED by this announcement, and Vance's goal-No.-1 framing is an argument
+  that it SURVIVES.** ⇒ **Squeeze the adversary you are fighting; keep the barrels you need. The two moves
+  are compatible, and only one of them is scheduled.** *(Analysis.)*
+- **⚠️ AND THE HONEST LIMIT: "MEASURES NEVER SEEN IN THE HISTORY OF ECONOMIC ISOLATION" IS AN ADVERB WITH NO
+  CONTENT (rule 9). NOTHING HAS BEEN ANNOUNCED — a Treasury Secretary said to watch this space.** ⇒ **Until
+  the instruments are named, this is a TARGET, not a policy, and the vault's own ladder says a target is
+  never contracted supply.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **THE ANNOUNCEMENT ITSELF, WEEK OF 2026-08-17. WHAT INSTRUMENTS?** Secondary sanctions on Iranian
+   crude buyers · shipping/insurance designations · financial-messaging cutoff · seizure authority.
+   **Each has a different crude-price signature, and the crude-price signature is the only part that reaches
+   the refiner trade.** **A DATED TRIGGER, DAYS AWAY.**
+2. 🚩🚩 **DOES THE PACKAGE TOUCH RUSSIA AT ALL?** ⇒ **If yes, the input-cost leg fires and 84% of the crack
+   expansion runs backwards. If Iran-only, the crack configuration survives.**
+3. 🚩 **DOES CRUDE RALLY ON THE ANNOUNCEMENT?** **Vance has publicly staked goal No. 1 on it NOT doing so.
+   That is a falsifiable claim by the Vice President with a date attached.**
+**Links:** [[oil-value-chain]] · [[demand-destruction]] · [[market-fragility]]
