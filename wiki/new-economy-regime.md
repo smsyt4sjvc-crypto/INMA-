@@ -3588,3 +3588,93 @@ whole thing from the calendar.**
 3. ⬜ **The August UMich R-vs-D index pair** (final due Aug 28) — NOT FOUND for the prelim.
 4. ⬜ **Adopt the Chicago Fed C-CSI** as the sentiment instrument in place of headline UMich.
 **Links:** [[consumption-vs-investment-crux]] · [[market-fragility]] · [[glp1-wardrobe-cycle]]
+
+### 2026-08-15 ~12:36am PDT — ★★★★★★★ A THIRD INDEPENDENT ROUTE TO THE VAULT'S 30Y CONCLUSION — and it EXTENDS it somewhere the vault never went: **if the long end is priced by SUPPLY, then a Fed cut does not rally it.** Precedent supplied and the vault did not have it: **the September-2024 cut was followed by ~40bp HIGHER long yields**
+Source: **JunkBondInvestor, *"Credit Weekly: What If They Just Keep Borrowing?"*, dated AUG 09 2026**; Jake
+accessed/pasted 2026-08-15 ~12:33am PDT → `raw/junkbondinvestor-credit-weekly-keep-borrowing-2026-08-09.txt`
+(4pp, extracted via pypdf). **ARTIFACT TEST: an independent credit newsletter with disclosed sponsored
+content (9fin) — opinion-class on interpretation, but its market numbers are desk-observable.** Router:
+CAPEX(10) · FED(5) · FINANCING(3) · LABOR(3) · PORTFOLIO(3). **Nothing similar in raw/.**
+
+#### DATA (REPORTED — the piece's figures, dated 2026-08-09 unless noted)
+- **Hyperscaler capex 2027 tracking as high as $1.2 TRILLION** ("six months ago that number was materially
+  lower"). **Debt issuance ~$250B for 2026; street pencilling ~$400B for 2027.**
+- **30Y at 5.20%, highest since 2007, real yields pushing 3%.** ⚠️ **Now stale in our favour: the 30Y closed
+  5.213 on 8/13 and printed 5.27 on 8/14** (`market-fragility:L3393`). **It has gone further since he wrote.**
+- **★ HYPERSCALER/AI PAPER WENT FROM ~3% OF THE IG INDEX A YEAR AGO TO ~6% NOW. AMAZON IS THE 5TH-LARGEST
+  ISSUER IN THE ENTIRE INDEX, behind only the four major banks.** **Data-centre leases run 20-40 YEARS with
+  much of the debt termed out to match — the supply is duration-heavy.**
+- **Hyperscaler spreads 20bp+ WIDER YTD against a FLAT IG index, long end leading.**
+- **★ THE NEW-ISSUE CONCESSION IS THE MEASURED FRICTION: Alphabet's latest deal paid a DOUBLE-DIGIT
+  concession despite a record book — the same borrower paid "essentially nothing" in February and a
+  single-digit concession on its euro deal in spring.** **Alphabet cleared T+85 (10y) / T+130 (40y) against
+  $162.5B cash and securities vs $101B debt.**
+- **⭐ THE EXCHANGE RATE, AND IT IS THE MOST USEFUL NUMBER IN THE PIECE: ~$75B of unexpected supply this
+  summer moved the complex ~15bp.** ⇒ his arithmetic: **$400B next year ≈ 4 jumbo prints per major issuer
+  ≈ another 30-50bp of spread from supply re-rating alone.**
+- **$50-60B queued after Labor Day, "a number that would be bigger except SOME ISSUERS WERE ASKED TO WAIT."**
+  **Alphabet's deal came wrapped in a pledge it is the LAST DOLLAR PRINT OF THE YEAR; Meta promised the same
+  in April, Oracle in February.**
+- **HY aggregate ~260s "looks fine" but is "increasingly a QUALITY index, dominated by the BBs" — the CCC
+  bucket is widening on its own.**
+- **⭐⭐ THE PRECEDENT THE VAULT DID NOT HAVE: "The September 2024 cut was followed by a roughly 40bps
+  INCREASE in long yields over the following month."** And: **"on Friday, one of the worst payroll misses of
+  the cycle bought the 10-year all of a few basis points."**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★★ THIS IS THE THIRD INDEPENDENT ROUTE TO THE SAME CONCLUSION IN THREE DAYS, AND THE ROUTES SHARE
+  NO METHOD. (1) 8/13: the REAL/BREAKEVEN DECOMPOSITION — 30Y real +25bp vs breakeven −4bp ⇒ term premium
+  and fiscal supply (`:L3392`). (2) 8/14: THE NATURAL EXPERIMENT — the worst consumer print in months and
+  the whole curve SOLD OFF (`market-fragility:L3393`). (3) NOW: A CREDIT DESK'S SUPPLY ARITHMETIC, reaching
+  it from issuance calendars and new-issue concessions.** ⇒ **Decomposition, event study, and flow analysis
+  agreeing is the strongest corroboration standard this vault has.** *(Analysis.)*
+- **★★★★★★★ AND IT EXTENDS THE CONCLUSION SOMEWHERE THE VAULT NEVER TOOK IT, WHICH IS THE REASON THIS PIECE
+  MATTERS: IF THE LONG END IS PRICED BY SUPPLY RATHER THAN BY THE POLICY PATH, THEN A FED CUT DOES NOT RALLY
+  IT — IT CAN STEEPEN IT.** **The vault established WHY the 30Y is where it is. It never asked what happens
+  to it when the Fed eases.** ⇒ **"Easing into record supply doesn't have to rally 30-year bonds. It can push
+  long yields higher, as the market adds back inflation risk and term premium at the exact moment the deficit
+  is growing and the hyperscalers are still printing."** ⇒ **AND HE SUPPLIES A PRECEDENT THE VAULT DOES NOT
+  HAVE: SEPT-2024 CUT → ~+40bp LONG YIELDS OVER THE FOLLOWING MONTH.** ⬜ **UNVERIFIED — this is the single
+  most load-bearing empirical claim in the piece and it is one sentence in a newsletter. FETCH IT.**
+  *(Analysis.)*
+- **★★★★★★ AND JAKE'S PULLED LINE IS THE PIECE'S ACTUAL THESIS, WHICH GENERALISES FURTHER THAN HE STATED IT:
+  *"the aggregate data is the average of a boom and a recession."*** **The same structure appears FOUR TIMES
+  in this one piece: the HY index (BBs vs CCCs — "the index averages the two into a number that describes
+  neither") · the IG index (hyperscalers vs everyone else) · the economy (top vs bottom of the K) · and his
+  equity analogy (large caps carrying an index while breadth rots).** ⇒ **EVERY AGGREGATE IN THIS MARKET IS
+  AN AVERAGE OVER A BIMODAL DISTRIBUTION, AND THE AVERAGE DESCRIBES NOBODY.** ⇒ **That is a general reading
+  instruction for this vault, not a fact about credit: WHEN A HEADLINE INDEX LOOKS FINE, ASK WHAT IT IS
+  AVERAGING BEFORE ASKING WHAT IT MEANS.** *(Analysis. Jake's quote, extended.)*
+- **★★★★★ AND THE PORTFOLIO IMPLICATION IS THE ONE THAT SHOULD TRAVEL, BECAUSE IT ATTACKS A DEFAULT
+  ASSUMPTION RATHER THAN A VIEW: "the hedge every portfolio counts on — LONG DURATION PAYING FOR THE CREDIT
+  LOSSES — has to clear a heavier calendar than in any recent cycle to work."** ⇒ **A recession in half the
+  economy, cuts at the front end, and a long end that backs up anyway means the standard 60/40 and
+  credit-hedged-with-duration constructions fail in the exact scenario they are built for.** ⇒ **🚩 That is
+  a testable claim about OUR book, not about the market** → [[portfolio-state]]. *(Analysis.)*
+- **★★★★ AND IT SUPPLIES THE THIRD INDEPENDENT SIGHTING OF THE AI-CREDIT FRICTION THIS WEEK — this time WITH
+  NUMBERS instead of adverbs.** (i) the 8/14 feed digest: *"wider spreads and slower deal progress"* — no
+  number, no names. (ii) the 8/14 wire on the $500B: **named institutions and a duration ("months"), still
+  no number.** (iii) **THIS: a double-digit new-issue concession from a borrower who paid ~zero in February,
+  the complex 20bp+ wider YTD against a flat index, $50-60B queued, and issuers "ASKED TO WAIT."**
+  ⇒ **"Asked to wait" is the sharpest of them — it is a SYNDICATE-DESK CAPACITY CONSTRAINT, i.e. the market
+  rationing issuance rather than pricing it.** *(Analysis.)*
+- **⚠️ AND THE HONEST LIMIT: HE SAYS SO HIMSELF — "where this goes, I don't know, and I don't think anyone
+  does yet," and he lays out THREE paths (squeeze wins → recession · AI growth swamps the drag · nothing
+  happens, spreads cheapen until paper clears).** **All three fit today's numbers. The variables that would
+  sort them — whether AI capex monetises on the timeline its financing assumes, and how much widening pulls
+  new capital in — are the vault's own open questions.** ⇒ **Do not promote his scenario 1 to a forecast
+  because it is the vivid one. HE DIDN'T.** *(Analysis. And the discipline is rule 10: three unfalsifiable
+  paths is a STATE description, not a trigger.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **VERIFY THE SEPT-2024 PRECEDENT: 10Y and 30Y yields on 2024-09-18 (the cut) vs one month later.**
+   **One query. It is the empirical backbone of the "easing steepens" claim and it is currently one sentence
+   in a newsletter.** *(rule 10 — look it up now.)*
+2. 🚩🚩 **THE SUPPLY→SPREAD ELASTICITY: is "$75B ≈ 15bp" reproducible?** If it holds, it is a forecasting
+   tool for the post-Labor-Day $50-60B calendar. **Test it on that calendar in real time.**
+3. 🚩 **HYPERSCALER SHARE OF THE IG INDEX — 3% → 6% in a year.** Verify and start tracking quarterly; and
+   confirm Amazon as the #5 issuer.
+4. ⬜ **CCC vs BB spread series** — his "the aggregate is a quality index" claim, made checkable.
+5. ⬜ **Alphabet's actual new-issue concession, in bp, Feb vs Aug** — the cleanest single measure of the
+   friction and he gives it only as "double-digit."
+**Links:** [[ai-financing-fragility]] · [[market-fragility]] · [[portfolio-state]] · [[cepi]] · [[consumption-vs-investment-crux]]
