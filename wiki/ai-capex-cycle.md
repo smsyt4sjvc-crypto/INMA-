@@ -2539,3 +2539,105 @@ testing it surfaced a larger error.**
   investment-decline reading.** 🚩 **Listen for the WFE (wafer fab equipment) 2027 outlook and the
   memory-vs-logic split.** *(Analysis.)*
 **Links:** [[memory-regime-question]] · [[cepi]] · [[power-not-petroleum]] · [[portfolio-state]]
+
+### 2026-08-15 ~2:02pm PDT — ⭐⭐⭐ JAKE'S SHARED-DEPENDENCY HYPOTHESIS IS CONFIRMED WITH DISCLOSED REVENUE SHARES — and the 2000 precedent is the **same ticker**: **QUANTA SERVICES was a telecom/fibre contractor in 2000 and hit an all-time low of $1.75 on 2002-08-06.** The historical split is **CONTRACTORS died, OWNERS survived** — which cuts his own barbell in half
+Source: Sonnet subagent (77 tool calls), independent of the concentration fetch. Earnings-call and filing
+figures MEASURED; bank baskets and press aggregations REPORTED. ⚠️ **Two primary fetches failed (JPMorgan PDF
+garbled, CNBC 403) — those rest on secondary paraphrase and are flagged.**
+
+#### DATA — DISCLOSED DATA-CENTRE / AI REVENUE SHARE (the only class that answers the question)
+| company | metric | figure | class |
+|---|---|---|---|
+| **Comfort Systems (FIX)** | advanced-tech + DC **% of REVENUE** | **58% (H1-26), from 40% a year earlier** | **MEASURED — cleanest in the set** |
+| nVent (NVT) | DC sales guide ÷ FY26 revenue guide | **~37-38%** | MEASURED inputs, % calculated |
+| **Jacobs (J)** | "direct AI build-out" **% of adj. net revenue** | **11%, +~100bp QoQ** (fiscal Q3-26) | **MEASURED — explicit** |
+| American Tower (AMT) | CoreSite $297M ÷ ~$2.75B | **~10.8%** | MEASURED inputs, % calculated |
+| Carrier (CARR) | ~$2.0B DC revenue (2× 2025) ÷ ~$23B guide | **~8.7%** | MEASURED inputs, % calculated |
+| Vertiv (VRT) | DC share of sales | **~80%** | ⚠️ **REPORTED — not traced to a company statement** |
+- **⚠️ AND FOR THE BIGGEST NAMES THE REVENUE SHARE IS NOT DISCLOSED AT ALL — ONLY ORDERS AND BACKLOG:**
+  **GE Vernova $2.7B DC ORDERS in Q2, >$5B H1 = >2× ALL of FY2025; total backlog $176B.**
+  **EATON: US data-centre BACKLOG 307 GW ≈ 15 YEARS; Electrical Americas DC revenue +65% y/y, orders +85%.**
+  **Vertiv backlog $15.0B (+109% y/y), book-to-bill ~2.9×. Trane applied bookings +130% y/y, backlog $12.1B
+  (+70%). Quanta backlog $53.4B. Jacobs backlog $28.9B (+27%).** ⇒ **Orders and backlog are NOT revenue.**
+- **UTILITIES — CONTRACTED LOAD, and this is the firmest tier: AEP 63 GW systemwide contracted, ~90% DATA
+  CENTRES. Dominion ~53.8 GW in contracting, ~12 GW under signed ESAs. Southern >17 GW contracted, DC load
+  +55% y/y, OpenAI 3.2GW/25-yr. Constellation: MSFT 835MW/20yr, META 1.1GW/20yr, +1.2GW unnamed. Vistra
+  3,800MW META+AWS. NextEra 35.1GW backlog. Entergy 7-12 GW pipeline. Talen 1,920MW AWS to 2042.**
+- **INDEX-LEVEL ESTIMATES SPAN 6% TO 62%, AND THE SPREAD IS ITSELF THE FINDING:** CNBC utilities+industrials
+  in the AI chain **$4.11T ≈ 6%** · Syntax (Sept-2024, stale) **~7.9% of weight** · Morgan Stanley **21% of
+  companies cited an AI benefit on calls, up from 10% in 2024** · Northwestern Mutual summarising GS/DB
+  **~40-45% of market cap** · **JPMorgan/Cembalest: "almost half" of index weight AI-related, and 42
+  companies generated 65-75% of S&P 500 earnings, profits AND capex since Nov-2022** (REPORTED, three
+  outlets, ONE origin) · **BestBrokers/CNBC: 218 companies = $42.4T = 62% of the index**, with **"AI Energy
+  & Power Infrastructure" the LARGEST category by count at 58 companies.**
+- **CORRELATION: the Cboe Implied Correlation Index (COR1M) printed 8.7-9.93 in 2026 — the LOWEST IN AT LEAST
+  23 YEARS.** Both sources framing it call sub-10 **"historically a contrarian indicator,"** noting dispersion
+  trades suppress index volatility **"almost mechanically"** while single-name risk persists. ⬜ **No
+  institutional paper found modelling the precise hypothesis.**
+
+#### DATA — THE 2000 ANALOGUE
+- **⭐⭐⭐ QUANTA SERVICES (PWR) — THE SAME TICKER IN TODAY'S AI-INFRASTRUCTURE BASKET — WAS A TELECOM/FIBRE
+  CONSTRUCTION CONTRACTOR IN 2000 AND HIT AN ALL-TIME LOW OF $1.75 ON 2002-08-06.** ⬜ exact 2000 peak not
+  found, so no precise drawdown %.
+- **DYCOM: contract revenue −24.5% in FY2002 ($826.7M → $624.0M), with $207.3M of the decline EXPLICITLY
+  attributed by the company to telecom-demand collapse** (10-K). Customers Adelphia and WorldCom went
+  bankrupt.
+- **CORNING −96% to −98%. ONE customer responsible for 50% of Corning's optical-component sales CUT AN $800M
+  ORDER TO $80M** (Forbes, 2002-06-19). **Nortel −99.4%, revenue −64% in one year. JDS Uniphase −98/−99%.
+  Level 3 −95%.**
+- **TELECOM CAPEX: communications-equipment investment >$135B/yr (Q4-2000) → under $93B (Q4-2001) = −31% y/y,
+  and it CONTRACTED FOR SEVEN STRAIGHT QUARTERS** (Richmond Fed *Economic Quarterly*, Fall 2003, BEA data —
+  the most rigorous series in the set). **~80 million miles of fibre laid 1996-2001, ~$1T aggregate capital,
+  85-97% of it sat DARK.** Sector-wide telecom market-value loss **>$2 trillion**.
+- **⭐ THE CONTRAST THAT MATTERS: CROWN CASTLE — a tower OWNER — grew site-rental revenue +17.7% in 2002,
+  THROUGH the bust** ($446.0M in 2000 → $677.8M in 2002), while posting large net losses driven by leverage
+  and depreciation rather than contract cancellation.
+
+#### THESIS (interpretation — NOT fact)
+- **⭐⭐⭐ HIS HYPOTHESIS IS CONFIRMED, AND THE CONFIRMING NUMBER IS A NON-TECH CONTRACTOR AT 58% OF REVENUE.
+  COMFORT SYSTEMS — a GICS INDUSTRIALS name, in nobody's tech basket, contributing to the 72%-above-200-DMA
+  breadth statistic — DERIVES 58% OF ITS REVENUE FROM ADVANCED-TECH AND DATA-CENTRE WORK, UP FROM 40% A YEAR
+  AGO.** ⇒ **THE BREADTH IS REAL AS PARTICIPATION AND FALSE AS DIVERSIFICATION.** ⇒ **And the sector label
+  is doing the concealing: it is classified Industrials, so it makes breadth look broad while carrying the
+  same upstream dependency as the top 10.** *(Analysis. Jake's frame, measured.)*
+- **⭐⭐⭐ AND THE 2000 PRECEDENT IS NOT AN ANALOGY — IT IS THE SAME COMPANY. QUANTA SERVICES SAT IN THE
+  TELECOM-CAPEX BASKET IN 2000 AND WENT TO $1.75.** ⇒ **The "different sector, same customer" structure has
+  a precedent, the precedent has a measured outcome, and one of the participants is in the current basket
+  under the same ticker.** *(Analysis. Nothing in this vault is a cleaner historical control.)*
+- **★★★★★★★ AND THE HISTORICAL SPLIT ANSWERS MY OWN COUNTER-ARGUMENT FROM THIS MORNING AND CUTS JAKE'S
+  BARBELL IN HALF. I argued the non-tech beneficiaries are protected by "contracted backlogs and regulated
+  rate bases." THE 2000 DATA SAYS THAT IS TRUE FOR OWNERS AND FALSE FOR CONTRACTORS: order-book-dependent
+  INSTALLERS (Quanta, Dycom) fell nearly in line with the equipment makers BECAUSE THEIR REVENUE WAS
+  CANCELLABLE. CONTRACTED-REVENUE OWNERS (Crown Castle) GREW REVENUE THROUGH THE BUST.**
+  ⇒ **BACKLOG IS NOT DURATION. A signed PPA or a 20-year lease is duration; an order book is a queue of
+  cancellable intentions.** ⇒ **APPLIED TO THE CURRENT BASKET: utilities with signed ESAs/PPAs and the
+  data-centre REITs sit on the CROWN CASTLE side. GEV/ETN/VRT/TT (order books) and PWR/FIX/EME/J
+  (contractors) sit on the QUANTA/DYCOM side.** ⇒ **THIS VAULT HAS BEEN TREATING "AI INFRASTRUCTURE" AS ONE
+  BUCKET. IT IS TWO, AND THE 2000 CYCLE SEPARATED THEM VIOLENTLY.** *(Analysis. Descriptive — the structural
+  distinction, not a recommendation. Sizing is Jake's.)*
+- **★★★★★ AND THE CORRELATION EVIDENCE UNDERCUTS ROBERTS FURTHER THAN I DID THIS MORNING: THE CBOE IMPLIED
+  CORRELATION INDEX AT 8.7-9.93 IS THE LOWEST IN 23+ YEARS, AND THE MARKET-STRUCTURE EXPLANATION IS
+  MECHANICAL — DISPERSION TRADES SUPPRESS INDEX VOL "ALMOST MECHANICALLY" WHILE SINGLE-NAME RISK PERSISTS.**
+  ⇒ **Low correlation is not necessarily evidence of a wide market. IT MAY BE EVIDENCE OF A CROWDED
+  DISPERSION TRADE.** ⇒ **And a record-low reading is described by its own sources as a CONTRARIAN
+  indicator.** ⇒ **That is a second, independent reason not to read "record-low correlation" as
+  diversification — one fundamental (shared customer), one structural (dispersion positioning).**
+  *(Analysis.)*
+- **⚠️ THE HONEST LIMITS, AND THEY ARE REAL: (i) the index-level range is 6% TO 62% — a TEN-FOLD spread that
+  is entirely a definitional artifact, so no single number should be quoted as "the" AI share; (ii) the
+  headline JPMorgan figure could not be verified at primary and three outlets trace to one origin;
+  (iii) for the LARGEST non-tech names — GEV, ETN, PWR, TT, EME — the data-centre REVENUE share is NOT
+  DISCLOSED AT ALL, only orders, backlog and growth rates.** ⇒ **The strongest version of Jake's hypothesis
+  rests on six companies that disclose, and the biggest ones do not.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **THE OWNER/CONTRACTOR SPLIT, APPLIED TO THE BOOK** — which holdings sit on signed multi-year
+   contracted revenue and which on cancellable order books. **The 2000 cycle says this is the distinction
+   that decided survival.** → [[portfolio-state]]
+2. 🚩🚩 **BACKLOG DURATION AND CANCELLATION TERMS for GEV / ETN / VRT / PWR / FIX / J** — the falsifier for
+   the contractor-side risk. **Eaton's "307 GW ≈ 15 years" is a duration claim and needs its cancellation
+   terms attached to mean anything.**
+3. 🚩🚩 **CBOE COR1M/COR3M weekly** — a record-low reading its own sources call contrarian.
+4. ⬜ **Press GEV/ETN/PWR/TT/EME for a disclosed DC REVENUE share** — currently orders-and-backlog only.
+5. ⬜ **Quanta's exact 2000 peak price**, for a precise 2000-2002 drawdown.
+**Links:** [[market-fragility]] · [[power-not-petroleum]] · [[buildout-bottleneck-map]] · [[cepi]] · [[portfolio-state]]
