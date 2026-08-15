@@ -3459,6 +3459,7 @@ Router: MEMORY(7) · WAR/OIL(5) · CONSUMER(2) · SEMIS(1)* · FED(1)* · FLOWS(
 
 #### THESIS (interpretation — NOT fact)
 - **⛔⛔ THE $15B IS NOT ADOPTED, AND THE MAGNITUDE IS WHY. Jane Street's FULL-YEAR net trading revenue runs
+  ⟲ SUPERSEDED 2026-08-15 → market-fragility.md:L3510 — WRONG REJECTION on a stale denominator: I used 2024 revenue (20.5B). Actual 2025 rev 39.6B, 2026 YTD >40B post-loss, members equity ~55B. 15B = 27% of equity. FT/WSJ/Reuters independent, Reuters saw an internal memo, FT says disclosed to lenders
   ≈$20B. A $15B ONE-MONTH LOSS WOULD BE ~75% OF ANNUAL REVENUE AND THE LARGEST FUND LOSS EVER RECORDED —
   larger than Archegos (~$10B, spread across five banks) and an order of magnitude past LTCM.** ⇒ **A firm
   taking that would not be "reducing risk in affected strategies." It would be gone, and it would be the only
@@ -3488,3 +3489,66 @@ Router: MEMORY(7) · WAR/OIL(5) · CONSUMER(2) · SEMIS(1)* · FED(1)* · FLOWS(
   demos are not yields, cost, HBM capability or mass-production economics — the digest says so itself, which
   is the correct standard**) · the PYPL $60.50 rejected bid.
 **Links:** [[ai-financing-fragility]] · [[oil-value-chain]] · [[war/war-board]] · [[memory-regime-question]] · [[demand-destruction]]
+
+### 2026-08-14 ~4:10pm PDT — ⛔⛔ I REJECTED THE $15B ON A STALE DENOMINATOR AND IT IS REAL. ★★★ AND THE VAULT NOW SUPPLIES SOMETHING NONE OF THE THREE OUTLETS DID: **the fund-level drawdown and Jane Street's holder-level mark DO NOT RECONCILE — 38.31% vs ~65-70% — and the ~30-point gap is the liquidity discount**
+Source: Jake, chat 2026-08-14 ~4:10pm PDT, correcting my `:L3461`. ⟲ **SUPERSEDES `:L3461`.**
+
+#### DATA (REPORTED — three outlets, TWO distinct primary channels)
+- **FT, WSJ and Reuters INDEPENDENTLY report ~$15B of July losses.** **Reuters says it SAW AN INTERNAL JANE
+  STREET EMPLOYEE MEMO** discussing the drawdown and subsequent risk reduction. **FT says the figure was
+  DISCLOSED TO LENDERS during Jane Street's debt refinancing.** ⇒ **This is NOT "N outlets, one origin"
+  (rule 9): it is three outlets with two independent primary channels — an internal document and a
+  lender disclosure.**
+- **THE DENOMINATOR, CORRECTED:** my $20B was **2024 ($20.5B)**. Actual: **2025 net trading revenue ≈$39.6B**;
+  **2026 to date >$40B EVEN AFTER the July loss**; **members' equity ≈$55B as of March 2026 (S&P).**
+  ⇒ **$15B = 27% of equity, 38% of this year's revenue-to-date. Not 75%. Not existential.**
+- **ANATOMY: Jane Street's stake in SITUATIONAL AWARENESS fell from ~$10B to ~$3-3.5B ≈ $6.5-7.0B, ~43-47%
+  of the total.** Remainder: its own AI exposure, Asian equities, quant strategies. **Reuters confirms the
+  risk-reduction language verbatim** — closed a significant portion of exposure where it lost money, reduced
+  risk elsewhere.
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ CONCEDED FAST AND THE ERROR IS NAMED: I REJECTED A CORRECT NUMBER USING A TWO-YEAR-OLD DENOMINATOR.**
+  ⟲ SUPERSEDES market-fragility.md:L3461 — WRONG REJECTION on a stale denominator: I used 2024 revenue (20.5B). Actual 2025 rev 39.6B, 2026 YTD >40B post-loss, members equity ~55B. 15B = 27% of equity. FT/WSJ/Reuters independent, Reuters saw an internal memo, FT says disclosed to lenders
+  **The numerator was fine; the BASELINE was stale.** ⇒ **AND THAT IS THE SECOND TIME TODAY — this morning I
+  published a market table off `chartPreviousClose`, a stale BASELINE for a change (`:L3393`).**
+  ⇒ **NAMED ERROR CLASS: STALE REFERENCE VALUE. Both failures had a correct measurement and a wrong thing to
+  measure it against, and both were directionally plausible enough to pass my own smell test.** ⇒ **The
+  magnitude check I ran is a GOOD check — `demand-destruction:L3514` (the SPR 100×) is why it exists. It
+  fails when the denominator itself is not verified.** *(Analysis. The check stays; the denominator gets
+  sourced from now on.)*
+- **★★★★★★★ AND THE VAULT SUPPLIES THE THING THE OUTLETS DID NOT: THE TWO DRAWDOWNS DO NOT RECONCILE.**
+  **`ai-financing-fragility:L2008` (filed 7/30, from Bloomberg citing FT): Situational Awareness — ~$20bn AUM,
+  +439% after fees through end-June, MAX DRAWDOWN 38.31% ON 2026-07-28, seeking fresh capital, approached
+  investors AND LENDERS, and *"some investors offered the option to BUY ASSETS IN ITS PORTFOLIO."*
+  TODAY: Jane Street's mark went $10B → $3-3.5B = a 65-70% DECLINE.** ⇒ **A HOLDER MARKED DOWN ~65-70% ON A
+  FUND THAT REPORTED A 38.31% DRAWDOWN. THE ~30-POINT GAP IS THE FINDING.** ⇒ **Candidate explanations, and
+  the first is the one the 7/30 entry already set up: (a) JANE STREET TOOK THE "BUY ASSETS IN ITS PORTFOLIO"
+  EXIT AND ATE A LIQUIDITY DISCOUNT ON TOP OF THE DRAWDOWN — i.e. the gap is THE COST OF BEING THE ONE WHO
+  HAD TO GET OUT; (b) an illiquid-mark haircut; (c) the drawdown deepened after 7/28; (d) one number is
+  wrong.** ⇒ **🚩 THIS IS THE HIGHEST-VALUE OPEN ITEM IN THE THREAD: if (a), the vault has a MEASURED
+  liquidity discount on a live AI-fund exit — roughly 30 points — which is a number this vault has never had
+  for anything in the AI complex.** *(Analysis. Neither Jake's paste nor any outlet named this; it exists
+  only because the 7/30 entry was on file.)*
+- **⚠️ AND A SIZE CHECK ON THE STAKE ITSELF: a ~$10B position in a ~$20bn-AUM fund is ~HALF THE FUND.**
+  **Possible for an anchor investor, but it is a large claim and neither number is in a filing.** ⬜ **Do not
+  treat the $10B as settled; the AUM figure is 7/30-vintage and the fund had grown 89× in two years.**
+  *(Analysis.)*
+- **★★★★★ AND THE CRWV LINK FROM THIS MORNING NOW HAS A MAGNITUDE — AND IT CUTS TOWARD REASSURANCE, NOT
+  ALARM.** **Jane Street is a contract counterparty behind CRWV's $2.6B facility** (`ai-financing-fragility:
+  L4398`/`:L5452`), and this morning's ladder work established that **CONTRACTED CASH FLOWS FROM
+  INVESTMENT-GRADE COUNTERPARTIES are the actual collateral** (`:L6003`). ⇒ **A counterparty that lost 27% of
+  equity and still holds ~$55B of it, with >$40B of revenue booked this year AFTER the loss, is impaired in
+  PERCEPTION and probably not in CAPACITY.** ⇒ **The pledged cash flow survives this. But the channel is now
+  demonstrated live, which is worth more than the outcome: AI-position losses at a market maker transmit
+  directly into neocloud collateral quality.** *(Analysis.)*
+- **✓ AND F8 STAYS CLOSED. It fired 7/30 with Situational Awareness named** (`:L2177` already logged
+  "F8 open nine sessions" as WRONG). **This is not a new casualty. IT IS THE SIZE OF ONE THE VAULT ALREADY
+  LOGGED, attached for the first time to a NAMED HOLDER AND A DOLLAR MARK.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **RECONCILE 38.31% vs 65-70%.** If it is a liquidity discount, **the vault has a measured exit cost
+   on an AI fund.** Sources: the Reuters memo detail, FT's lender-disclosure detail, any SA investor letter.
+2. 🚩 **IS THE ~$10B STAKE CORROBORATED, AND AGAINST WHAT AUM DATE?**
+3. ⬜ **SOURCE THE DENOMINATOR BEFORE RUNNING A MAGNITUDE CHECK** — added to the crosscheck habit.
+**Links:** [[ai-financing-fragility]] · [[detachment-bid]] · [[portfolio-state]]
