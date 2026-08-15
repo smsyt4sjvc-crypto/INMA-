@@ -2737,3 +2737,62 @@ citations; I have not fetched its underlying sources.**
    in this whole debate and it arrives here third-hand.
 4. ⬜ **MARGINAL EBIT attribution, not revenue share, for GEV/ETN/PWR/TT/EME/FIX** — the right denominator.
 **Links:** [[market-fragility]] · [[new-economy-regime]] · [[ai-financing-fragility]] · [[power-not-petroleum]] · [[oil-value-chain]] · [[portfolio-state]]
+
+### 2026-08-15 ~2:14pm PDT — ★★★★★★★ HE GENERALISES A MECHANISM THIS VAULT ALREADY HAS REGISTERED — **"the crowd-out loop"** — from MEMORY to ORDER BOOKS, and it kills bucket D for any capacity-constrained supplier: **a backlog is a QUEUE, not demand, and the non-AI queue exists at that scale only because AI is consuming the capacity.** The bigger half is the PRICE
+Source: Jake, chat 2026-08-15 ~2:12pm PDT — *"Those order books and backlogs are also subject to the AI
+complex even if they're outside demand. Any increase in demand in excess of productive capacity is a backlog;
+the backlogs for non-AI-adjacent revenue would not exist at the same scale if it was absent."*
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★★ HE IS RIGHT, AND THE VAULT HAS ALREADY NAMED THIS MECHANISM — ON THE WRONG SIDE OF THE LEDGER.
+  `memory-regime-question:L266` carries it verbatim as a REGISTERED LOOP: *"AI buildout → MEMORY CROWD-OUT →
+  consumer price hikes → stickier core."* AND `:L263` HAS THE PROOF AT A NAMED P&L: **APPLE NAMED MEMORY
+  COSTS AS A MARGIN HEADWIND.*** ⇒ **We have been tracking crowd-out as an INFLATION channel for 2+ weeks and
+  never applied it to the SUPPLIERS' REVENUE QUALITY.** ⇒ **Same mechanism, wider scope: he is generalising
+  from wafer capacity to ALL constrained productive capacity.** *(Analysis.)*
+- **★★★★★★ AND THE OBSERVABLE FORM IS ALREADY IN THE VAULT TOO: `buildout-bottleneck-map:L12` — TRANSFORMERS
+  128-144 WEEK LEAD TIMES, GSUs QUOTED 4-5 YEARS, SWITCHGEAR SOLD OUT THROUGH 2028.** ⇒ **A 4-5 year quote to
+  a MUNICIPAL utility replacing a failed transformer is not that utility's demand growth. IT IS THE QUEUE
+  BEHIND THE DATA CENTRES.** ⇒ **The non-AI order sits in the same book at the same lead time, and it is
+  counted in the same backlog number that gets quoted as evidence of broad industrial demand.**
+  *(Analysis.)*
+- **★★★★★★★ AND THE BIGGER HALF IS THE ONE HE DID NOT SAY, THOUGH IT FOLLOWS DIRECTLY: IT IS NOT JUST THE
+  VOLUME IN THE QUEUE — IT IS THE PRICE. A SUPPLIER RUNNING AT CAPACITY WITH A THREE-YEAR BOOK PRICES AT
+  SCARCITY. THE NON-AI CUSTOMER PAYS A PRICE SET BY AI DEMAND.** ⇒ **So the non-AI revenue is inflated
+  TWICE — in volume (it queues) and in margin (it pays the scarcity rent).** ⇒ **AND THAT DETERMINES THE
+  SHAPE OF AN UNWIND: IF AI CAPEX STOPS, CAPACITY FREES UP, LEAD TIMES COLLAPSE AND THE NON-AI BACKLOG DOES
+  NOT VANISH — IT GETS DELIVERED FASTER. THE VOLUME LARGELY SURVIVES. THE SCARCITY RENT DOES NOT.**
+  ⇒ **AN AI-CAPEX STOP IS A MARGIN EVENT FOR THESE SUPPLIERS BEFORE IT IS A VOLUME EVENT — AND THEY
+  RE-RATED ON MARGIN.** ⇒ **That is where the damage lands, and it is worse for multiples than for sales.**
+  *(Analysis. The completion of his argument.)*
+- **⚠️ AND THE VAULT SUPPLIES THE NUANCE THAT MAKES IT PRECISE RATHER THAN ALARMIST: `buildout-bottleneck-
+  map:L230` — "3-4yr queues REALLOCATE ANY CANCELED SLOT INSTANTLY."** ⇒ **The backlog is RESILIENT TO ONE
+  CUSTOMER and FRAGILE TO THE CYCLE. A single hyperscaler cancelling does nothing — the slot is taken. It
+  only drains when AGGREGATE demand falls below capacity.** ⇒ **Which means the order book gives NO EARLY
+  WARNING: it stays full right up to the point the whole cycle turns, and then it empties at once.**
+  ⇒ **THAT IS THE SAME PROPERTY AS THE BREADTH STATISTIC — a measure that looks healthy until it doesn't,
+  for the identical structural reason.** *(Analysis.)*
+- **★★★★★ AND THE INVERSE IS ALREADY MEASURED, WHICH IDENTIFIES WHO WINS THE UNWIND — a question this vault
+  has never asked. THE CROWD-OUT INFLATES THE SUPPLIER'S REVENUE AND DEFLATES THE SQUEEZED BUYER'S MARGIN,
+  SIMULTANEOUSLY. Apple named memory costs as a margin headwind (`memory-regime-question:L263`); memory-price
+  inflation was cited crowding fixed enterprise IT (`:L795`, IBM −25%).** ⇒ **AN AI-CAPEX STOP IS A ROTATION,
+  NOT A MARKET-WIDE EVENT: the suppliers lose the scarcity rent and the crowded-out BUYERS get margin relief.**
+  ⇒ **Consumer electronics, enterprise IT, and every industrial paying 4-5 year transformer quotes are the
+  natural beneficiaries of the thing that breaks the AI-infrastructure complex.** *(Analysis. This is the
+  first constructive output of the whole diffusion argument.)*
+- **⇒ AND IT KILLS BUCKET D FOR A WHOLE CLASS: "revenue that would exist if hyperscaler capex stopped
+  tomorrow" IS NOT A PROPERTY ANY CAPACITY-CONSTRAINED SUPPLIER CAN HAVE.** **Its non-AI revenue would exist
+  — at lower volume in the near term, at a much lower price, and on a shorter book.** ⇒ **Bucket D is only
+  clean for companies that are NOT capacity-constrained and NOT selling into the constrained chain.**
+  ⇒ **That is a much smaller set than the report's residual.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **LEAD TIMES AS THE LEADING INDICATOR, NOT BACKLOG.** **Backlog stays full until the cycle turns;
+   LEAD TIMES SHORTEN FIRST, because they are capacity minus demand in real time.** **Transformers (128-144
+   weeks), GSUs (4-5 years), switchgear (sold out through 2028), gas-turbine slots — watch the QUOTE, not the
+   book.** ⇒ **This is a better early-warning instrument than anything filed today.**
+2. 🚩🚩 **PRICE vs VOLUME IN THE SUPPLIERS' DISCLOSED GROWTH** — how much of GEV/ETN/VRT/HUBB growth is
+   pricing versus units? **The scarcity-rent share is what an unwind takes first.**
+3. 🚩 **THE ROTATION LIST: who is being crowded out and would get margin relief** — Apple (named), enterprise
+   IT (IBM), industrials paying multi-year equipment quotes, municipal utilities.
+**Links:** [[buildout-bottleneck-map]] · [[memory-regime-question]] · [[market-fragility]] · [[cepi]] · [[power-not-petroleum]]
