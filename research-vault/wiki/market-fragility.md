@@ -3494,6 +3494,7 @@ Router: MEMORY(7) · WAR/OIL(5) · CONSUMER(2) · SEMIS(1)* · FED(1)* · FLOWS(
 Source: Jake, chat 2026-08-14 ~4:10pm PDT, correcting my `:L3461`. ⟲ **SUPERSEDES `:L3461`.**
 
 #### DATA (REPORTED — three outlets, TWO distinct primary channels)
+  ⟲ SUPERSEDED 2026-08-15 → market-fragility.md:L3582 — RESOLVED, and the discount was one level down: the FUND sold its book to Citadel. Also the 10B was a PEAK MARK on a 2.5B cost basis - the stake is still +30% vs cost
 - **FT, WSJ and Reuters INDEPENDENTLY report ~$15B of July losses.** **Reuters says it SAW AN INTERNAL JANE
   STREET EMPLOYEE MEMO** discussing the drawdown and subsequent risk reduction. **FT says the figure was
   DISCLOSED TO LENDERS during Jane Street's debt refinancing.** ⇒ **This is NOT "N outlets, one origin"
@@ -3552,3 +3553,69 @@ Source: Jake, chat 2026-08-14 ~4:10pm PDT, correcting my `:L3461`. ⟲ **SUPERSE
 2. 🚩 **IS THE ~$10B STAKE CORROBORATED, AND AGAINST WHAT AUM DATE?**
 3. ⬜ **SOURCE THE DENOMINATOR BEFORE RUNNING A MAGNITUDE CHECK** — added to the crosscheck habit.
 **Links:** [[ai-financing-fragility]] · [[detachment-bid]] · [[portfolio-state]]
+
+### 2026-08-14 ~4:40pm PDT — ★★★★★★★ THE FULL PIECE CLOSES THREE OPEN ITEMS AND INVERTS THE HEADLINE: **~45% OF THE $15B IS GIVING BACK AN UNREALISED MARK-UP ON A POSITION STILL 30% ABOVE COST** — and the April deal documents the circularity I inferred from the 13G an hour ago: **$1B of equity INTO CoreWeave plus $6B committed TO SPEND on its cloud**
+Source: Jake's paste of the WSJ piece (WSJ credits **FT as first to report** the loss), 2026-08-14 ~4:40pm PDT.
+⟲ **SUPERSEDES `:L3496`** (my liquidity-discount hypothesis) **and updates `ai-financing-fragility:L2008`**
+(the ~$20bn AUM figure).
+
+#### DATA (REPORTED — WSJ, "people familiar")
+- **Worst monthly loss in Jane Street's history.** **Still its best trading year: >$40B revenue through July.**
+- **THE STAKE, WITH A COST BASIS FOR THE FIRST TIME: originally invested $2.5B → rose to nearly $10B earlier
+  this year → now $3.0-3.5B.** Loss described as "nearly $7 billion."
+- **SITUATIONAL AWARENESS IS A "$45 BILLION INVESTMENT FIRM" MAKING "AGGRESSIVE, BORROWING-FUELED BETS."**
+- **⭐ ASCHENBRENNER SOLD THE BULK OF SITUATIONAL'S STOCK PORTFOLIO TO KEN GRIFFIN'S CITADEL** after deep
+  losses.
+- **Other legs: the AI-stock selloff, AND "the firm's move to CUT ITS RISK in those stocks"; China trades
+  were losers for a number of quants; AI stocks "tumbled THEN SNAPPED BACK."**
+- **⭐⭐⭐ "In April, Jane Street cut a deal to INVEST $1 BILLION in AI computing company CoreWeave and SPEND
+  $6 BILLION to use its AI cloud platform."**
+- Jane Street: 3,500 employees from a handful 26 years ago; recruiting 500+ this year; "seeks to become an
+  AI powerhouse."
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★★ THE HEADLINE OVERSTATES THE ECONOMICS AND THE COST BASIS PROVES IT. $2.5B in → ~$10B peak mark →
+  $3.0-3.5B now. THE "$7B LOSS" IS PEAK-TO-CURRENT, −68% FROM A MARK. AGAINST COST THE POSITION IS STILL UP
+  ~$0.75B (+30%).** ⇒ **~45% OF THE $15B HEADLINE IS GIVING BACK AN UNREALISED MARK-UP ON A WINNING
+  POSITION.** ⇒ **It is a real P&L hit — they had marked it up and booked it — but it is NOT capital
+  destroyed. Those are different things and the coverage does not separate them.** *(Analysis. This is the
+  distinction the whole story turns on.)*
+- **★★★★★ AND THE 38.31%-vs-65-70% GAP RESOLVES — MY LIQUIDITY-DISCOUNT HYPOTHESIS WAS DIRECTIONALLY RIGHT
+  ⟲ SUPERSEDES market-fragility.md:L3496 — RESOLVED, and the discount was one level down: the FUND sold its book to Citadel. Also the 10B was a PEAK MARK on a 2.5B cost basis - the stake is still +30% vs cost
+  BUT LOCATED IN THE WRONG PLACE.** **I guessed Jane Street took a discount EXITING THE FUND. The discount
+  was taken by THE FUND ITSELF: Aschenbrenner sold the bulk of the stock portfolio to CITADEL.** ⇒ **Three
+  effects stack: (i) the 38.31% was measured 7/28, before month-end; (ii) the fund then liquidated its book
+  into a single buyer at a distressed price; (iii) the $10B was a PEAK mark, so the percentage is measured
+  from a high-water valuation.** ⇒ **A forced block sale to one buyer is the liquidity event — it just
+  happened one level down from where I looked.** *(Analysis.)*
+- **✓ AND THE TWO SIZE FIGURES RECONCILE AS LEVERAGE, NOT AS GROWTH.** Vault 7/30: **~$20bn AUM.** WSJ today:
+  **"$45 billion investment firm," "borrowing-fueled."** **45/20 = 2.25×.** ⇒ **Read $20bn as equity/AUM and
+  $45B as gross — NOT as the fund having more than doubled in two weeks.** ⇒ **And that makes the leverage
+  the story: a fund up 439% through June, running ~2.25× gross, forced to sell its book in one month.**
+  *(Analysis. ⬜ The 2.25× is my inference from two reported figures, not a disclosed leverage ratio.)*
+- **⭐⭐⭐ AND THE APRIL DEAL DOCUMENTS THE CIRCULARITY I INFERRED FROM THE 13G AN HOUR AGO (`ai-financing-
+  fragility:L6300`), IN ONE SENTENCE AND WITH BOTH NUMBERS: $1B OF EQUITY INTO CORE WEAVE, AND $6B COMMITTED
+  TO SPEND ON ITS CLOUD.** ⇒ **JANE STREET BOUGHT 1/6TH AS MUCH EQUITY AS IT PROMISED IN REVENUE. It created
+  $6B of CRWV backlog and then owned a piece of the company that backlog revalues.** ⇒ **AND THIS MORNING'S
+  LADDER WORK ESTABLISHED THAT PLEDGED CONTRACTUAL CASH FLOWS FROM INVESTMENT-GRADE COUNTERPARTIES ARE THE
+  COLLATERAL** (`ai-financing-fragility:L6003`) — **so the $6B commitment is not just revenue, it is SECURITY
+  FOR THE DEBT.** ⇒ **Customer · collateral · shareholder, now with dollar amounts on each leg. The
+  inference from the 13G was right and the primary source confirms it.** *(Analysis.)*
+- **★★★★ AND THE LOSS ANATOMY NAMES THE MECHANISM, NOT JUST THE DIRECTION: AI STOCKS "TUMBLED THEN SNAPPED
+  BACK," AND THE FIRM LOST ON "ITS MOVE TO CUT ITS RISK IN THOSE STOCKS."** ⇒ **THEY SOLD THE LOW. The
+  round trip cost them twice — the drawdown, then the de-risking into the reversal.** ⇒ **That is the
+  crowded-momentum failure mode described precisely, and it is the reason a firm "known for its risk
+  management" shows up in this story: THE RISK MANAGEMENT IS WHAT CRYSTALLISED THE SECOND LEG.**
+  *(Analysis. And it is a caution on reading forced de-risking as evidence a position was wrong.)*
+- **✓ CLOSES THE 7/31 OPEN ITEM, AND IT WAS NOT WHAT THE HEADLINE SAID.** `chat-log/2026-07-31:22` carried
+  *"Citadel/SA 'rides to the rescue AGAIN' — headline only. Bears on F8."* ⇒ **CITADEL DID NOT RESCUE
+  ANYTHING. IT BOUGHT A FORCED SELLER'S BOOK.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩 **WHAT DID CITADEL PAY?** A single buyer taking the bulk of a levered AI book **is the cleanest
+   mark-to-market on the complex that exists.** ⬜ Price/discount not reported.
+2. 🚩🚩 **13G/A on CRWV / SMCI / BE** — carried from `ai-financing-fragility:L6300`; unchanged and still the
+   cheapest dated falsifier for "cut its risk."
+3. ⬜ **Is the $6B CRWV commitment among the contracts PLEDGED in a DDTL facility?** **If yes, a Jane Street
+   impairment and CRWV's collateral are the same object.**
+**Links:** [[ai-financing-fragility]] · [[detachment-bid]] · [[metered-compute]]
