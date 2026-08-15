@@ -2493,3 +2493,59 @@ Source: Jake, chat 2026-08-15 ~1:56am PDT — *"Probably civilian imports."*
 3. 🚩 **CONFIRM THE INSTRUMENT WHEN IT LANDS (week of 8/17)** — import-side vs export-side is the single
    distinction that decides whether this reaches crude at all.
 **Links:** [[oil-value-chain]] · [[demand-destruction]]
+
+### 2026-08-15 ~2:05am PDT — ★★★★★ JAKE'S THREE ALTERNATIVES ARE ALL **EXPORT-SIDE**, WHICH RE-OPENS THE CONTRADICTION — but the board's own data resolves the lean: **the blockade is ALREADY running and crude fell 24% anyway, so the marginal crude effect of NEW FINANCIAL measures on already-interdicted barrels is small.** The payment-rail option is the one that is genuinely "never seen" — and it collides with this vault's 30Y work
+Source: Jake, chat 2026-08-15 ~2:03am PDT — *"Or maybe the dark fleets. If he can get in between China and
+Iran, or block the crypto and yuan payments by threatening them with the dollar?"*
+
+#### THESIS (interpretation — NOT fact)
+- **✓ ALL THREE CHANNELS ARE ALREADY ON THIS BOARD, WITH THE NUMBER — he is naming instruments the vault
+  tracks, not proposing new ones.** **`war-board:L805`: Kharg = ~90-96% of Iranian crude exports, ~1.52 mb/d
+  actual (Kpler).** **`demand-destruction:L1465`: Iran exports ~1.5-2M b/d, ~90%+ to Chinese "TEAPOT"
+  refiners in Shandong, disguised via ship-to-ship.** **`war-board:L1056`: "THE GATE SELECTS FOR SHADOW
+  FLEET" — Windward, 31 July: 68,940 unique vessels jammed, 2,944,075 false STS meetings.**
+  ⇒ **~1.5 M b/d is the supply at stake, and the dark fleet is precisely what is STILL MOVING through the
+  existing blockade.** *(Analysis.)*
+- **⛔ AND ALL THREE ARE EXPORT-SIDE, SO THEY RE-OPEN THE CONTRADICTION HIS "CIVILIAN IMPORTS" ANSWER CLOSED
+  SIX MINUTES AGO. Dark-fleet interdiction, splitting China from Iran, and cutting the payment rail ALL
+  REMOVE IRANIAN BARRELS. That raises crude. That violates Vance's stated goal No. 1.** ⇒ **He has now
+  argued both branches inside four minutes — which is correct behaviour for mapping an option space, but the
+  vault must record that THE TWO BRANCHES HAVE OPPOSITE MARKET IMPLICATIONS.** *(Analysis.)*
+- **★★★★★★ AND THE BOARD'S OWN DATA GIVES THE LEAN, WHICH IS THE USEFUL OUTPUT: THE PHYSICAL BLOCKADE IS
+  ALREADY RUNNING — BESSENT SAID "*CONTINUED* BLOCKADE" — AND CRUDE STILL FELL FROM 108.99 (MAY) TO 82.40
+  (AUG).** ⇒ **THE MARKET HAS ALREADY ABSORBED THE IRANIAN SUPPLY LOSS. That is precisely why Vance can
+  claim credit for cheap oil while a blockade is in force.** ⇒ **SO THE MARGINAL CRUDE EFFECT OF *NEW
+  FINANCIAL* MEASURES ON BARRELS THAT ARE ALREADY BEING INTERDICTED IS SMALL.** ⇒ **LEAN: the package is loud
+  on PAYMENTS, DESIGNATIONS AND CRYPTO and careful about actual barrels — because designating banks and
+  vessels is reversible and deniable, while physically stopping 1.5M b/d is neither, and the political
+  incentive points exactly there.** *(Analysis.)*
+- **★★★★ AND HIS CRYPTO LEG IS THE SHARPEST OF THE THREE FOR THAT REASON: it delivers the ADVERB WITHOUT THE
+  PRICE.** **Tether has frozen wallets at DOJ request before; the precedent exists, the cost is near zero,
+  the symbolism is maximal, and the crude impact is approximately nil.** ⇒ **If the objective is a headline
+  that reads "never seen in the history of economic isolation" while goal No. 1 stays intact, THE PAYMENT AND
+  CRYPTO RAILS ARE THE INSTRUMENT THAT DOES BOTH.** *(Analysis.)*
+- **★★★★★★★ BUT HIS DOLLAR-THREAT VERSION IS THE ONE THAT IS ACTUALLY UNPRECEDENTED, AND IT COLLIDES WITH
+  THIS VAULT'S OWN 30Y WORK FROM THIS WEEK. Threatening Chinese banks with loss of DOLLAR CLEARING to stop
+  yuan-settled Iranian oil payments does three things at once: (i) removes Iranian crude → crude UP;
+  (ii) accelerates the de-dollarisation this vault already tracks (`new-economy-regime:L1257` — Treasuries→
+  gold, "foreigners opting OUT of financing the debt into the neutral reserve asset"); (iii) does so at the
+  precise moment the vault has established — by THREE independent routes this week — that THE LONG END IS
+  PRICED BY TERM PREMIUM AND FISCAL SUPPLY, i.e. by who is willing to hold US debt.** ⇒ **WEAPONISING DOLLAR
+  CLEARING AGAINST THE LARGEST FOREIGN CREDITOR WHILE THE 30Y IS ALREADY BEING PRICED ON WILLINGNESS-TO-FUND
+  IS A TERM-PREMIUM EVENT DRESSED AS A SANCTIONS EVENT.** ⇒ **That is the cross-thread cost nobody in the
+  coverage is pricing, and it is a bigger number than the crude leg.** *(Analysis. The strongest connection
+  in this exchange, and it exists only because the 30Y work was done three days ago.)*
+- **★★★★★ ⇒ AND IT MAKES NEXT WEEK A BINARY FOR THE REFINER TRADE, WHICH IS A SHARPER STATEMENT THAN THE
+  THESIS HAS EVER HAD: IMPORT-SIDE OR FINANCIAL-ONLY ⇒ CRUDE-NEUTRAL ⇒ the 84% driver survives and the crack
+  configuration holds. EXPORT-SIDE WITH REAL BARREL INTERDICTION ⇒ CRUDE UP ⇒ 84% of the three-month crack
+  expansion runs in reverse.** ⇒ **The trade is now a bet on which instrument Treasury picks, and the answer
+  arrives in days rather than quarters.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **WHEN THE PACKAGE LANDS: does it interdict BARRELS or only PAPER?** **Vessel designations and bank
+   cutoffs are paper until the barrels stop. Watch Kpler/Windward Iranian liftings, not the press release.**
+2. 🚩🚩 **DOES IT NAME CHINESE BANKS OR TEAPOT REFINERS DIRECTLY?** **That is the unprecedented line, and it
+   is the one with the term-premium cost.**
+3. 🚩 **IF IT DOES: watch the 30Y and the TIC data, not just crude.** **The vault's own three-route
+   conclusion says that is where the bill lands.**
+**Links:** [[new-economy-regime]] · [[oil-value-chain]] · [[demand-destruction]] · [[market-fragility]]
