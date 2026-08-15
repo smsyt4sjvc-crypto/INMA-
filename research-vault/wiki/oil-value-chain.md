@@ -1019,3 +1019,65 @@ the cent, which "strongly suggests one shared upstream vendor rather than indepe
    historical test and neither fetch went near it.
 4. ⬜ **Correct every downstream use of "29% backwardation" — the figure is 41%.**
 **Links:** [[demand-destruction]] · [[market-fragility]] · [[war/war-board]]
+
+### 2026-08-15 ~2:05am PDT — ⛔⛔ MY 84% FINDING IS WINDOW-DEPENDENT AND THE RECENT WINDOW REVERSES IT: **over the last month the crack expansion is PRODUCT-DRIVEN (+14.05 product vs +3.28 crude) — crude ROSE and the crack widened anyway.** The character of the move changed around mid-July, exactly when the Russian ban (7/8) and the blockade reimposition (7/14) landed
+Source: Windward blog (2026-03-01) + Wikipedia "2026 Strait of Hormuz crisis" via WebFetch, 2026-08-15
+~2:00am PDT, **reconciled against the vault's own timeline.** ⚠️ **`insights.windward.ai` is a JS-rendered
+live dashboard — not fetchable; the subpage 403s. Everything Windward-sourced below is MARCH-VINTAGE and
+5½ months stale. I could not obtain current Windward data with this tooling.**
+
+#### DATA
+- **✓ THE VAULT BEAT THE WEB ON THE TIMELINE, AND IT MATTERS. Wikipedia: "US blockade of Iranian ports:
+  April 13 – May 29, 2026" — which would make Bessent's "CONTINUED blockade" look false.
+  `war-board:L1169`: "US naval blockade enforcement zone **REIMPOSED 7/14**." `:L1803` confirms: "the 3rd
+  since it was **reimposed 14 July**."** ⇒ **Wikipedia's range is the FIRST blockade only. Bessent is
+  accurate. The blockade has been running ~4½ weeks as of his statement.**
+- **THE FULL CRUDE ARC IS DEEPER THAN I HAD IT: Brent hit $100 on 2026-03-08 (first time in 4 years) and
+  PEAKED AT $126** (Wikipedia, refs 7-9); March 2026 was the largest monthly oil price increase on record
+  for the series cited. ⇒ **WTI 108.99 on 5/15 was ALREADY well off the peak.**
+- **TRAFFIC (Feb-Apr 2026): 70% reduction in Hormuz traffic post-2/28 · ~20,000 mariners and 2,000 ships
+  stranded by 4/21 (IMO) · near-zero tankers soon after the conflict began · insurance 4-6× higher by 3/9.**
+- **WINDWARD, 2026-03-01 (STALE): 1,100+ vessels GPS-jammed within 24h · ~10,000 vessels in the area at any
+  time · 21 new AIS jamming clusters · just under 100 Hormuz transits in 24h, ~⅓ below typical · tankers 60%
+  of traffic, bulkers ~17%, containerships 16% · Western-affiliated tankers transiting DARK.**
+  **Search-snippet current figure (unverified): ~7,773 transmitting vessels monitored in the zone "today."**
+- **⭐ THE POST-REIMPOSITION MONTH, MATCHED FUTURES BASIS (7/15 → 8/14): product (HO×42) 165.83 → 179.88 =
+  +14.05 (+8.5%). Crude (WTI) 79.12 → 82.40 = +3.28 (+4.1%). Crack 86.71 → 97.48 = +10.77.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ CONCEDED AND IT IS THE WINDOW-ERROR CLASS AGAIN. MY "84% OF THE CRACK EXPANSION IS CRUDE FALLING"
+  IS TRUE FOR THE THREE-MONTH WINDOW AND FALSE FOR THE LAST MONTH. Over 7/15→8/14 the product leg added
+  +14.05 while crude ROSE +3.28 — the crack widened AGAINST a rising crude.** ⇒ **THE CHARACTER OF THE MOVE
+  CHANGED IN MID-JULY, and the two events that would change it are dated there: the RUSSIAN DIESEL EXPORT
+  BAN (7/8) and the BLOCKADE REIMPOSITION (7/14).** ⇒ **JAKE'S PREMISE — "product scarcity, not crude" — IS
+  CORRECT FOR THE CURRENT REGIME. MY OBJECTION IS CORRECT FOR THE QUARTER. Both true, different windows.**
+  ⇒ **This is the same failure I logged on 8/13 (the 21-vs-30-session crack error): I chose a window and
+  read a regime off it.** *(Analysis. The honest version is that the 84% number describes how the crack GOT
+  here, not what is holding it here.)*
+- **★★★★★★ AND THE BLOCKADE ITSELF NOW HAS A MEASURED PRICE EFFECT, WHICH IS THE EMPIRICAL ANSWER TO THE
+  QUESTION I RAISED AN HOUR AGO: CRUDE IS +4.1% IN THE MONTH SINCE THE 7/14 REIMPOSITION.** ⇒ **A running
+  naval blockade of a ~1.5 mb/d exporter has moved crude by FOUR PERCENT.** ⇒ **My "mechanical
+  contradiction" between Bessent's blockade and Vance's goal No. 1 is real in direction and SMALL IN
+  MAGNITUDE — the market has already absorbed it.** ⇒ **AND IT VINDICATES THE LEAN I FILED: new measures
+  layered on already-interdicted barrels should move crude less than the blockade itself did, i.e. by less
+  than 4%.** *(Analysis.)*
+- **★★★★★ ⇒ AND THAT RESOLVES THE BINARY MORE FAVOURABLY FOR THE REFINER CONFIGURATION THAN I STATED IT
+  30 MINUTES AGO. I called next week "a binary." IT IS ASYMMETRIC: the crude leg has a demonstrated ceiling
+  of roughly 4% for a full physical blockade, while the PRODUCT leg has demonstrated +8.5% in one month on
+  supply loss alone.** ⇒ **Unless the package does something the blockade did not — and it is hard to see
+  what exceeds "nothing in or out of Iranian ports" — the crude response is bounded by an observed
+  precedent.** *(Analysis.)*
+- **⚠️ AND THE LIMIT ON ALL OF IT, STATED PLAINLY: I COULD NOT GET CURRENT WINDWARD DATA. The live dashboard
+  is JS-rendered and the subpage 403s. Every Windward figure above is 2026-03-01 vintage.** ⇒ **The vault's
+  `war-board:L1056` cites Windward 7/31 data (68,940 vessels jammed cumulative), so fresher figures HAVE
+  reached this vault by some other route — probably Jake's own access.** ⇒ **The registered test ("watch
+  Kpler/Windward liftings, not the press release") REMAINS UNFETCHABLE BY ME. It needs Jake's screen or a
+  paid feed.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **CURRENT WINDWARD/KPLER IRANIAN LIFTINGS — still the load-bearing series and still unreachable
+   through this tooling.** ⬜ **Needs Jake's own dashboard access.**
+2. 🚩🚩 **RE-RUN THE PRODUCT-vs-CRUDE DECOMPOSITION WEEKLY.** **The 3-month and 1-month windows disagree;
+   the WEEKLY series is what tells you which regime you are in, and it is the position.**
+3. 🚩 **CRUDE'S RESPONSE TO THE WEEK-OF-8/17 PACKAGE, against the 4.1% blockade precedent.**
+**Links:** [[war/war-board]] · [[demand-destruction]] · [[market-fragility]]
