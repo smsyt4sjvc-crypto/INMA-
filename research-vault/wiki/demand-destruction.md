@@ -3575,6 +3575,7 @@ refinery-strike pattern) — **what is new is the SIX-MONTH duration.**
   administrative act, not an adverb (rule 9) — the hardest datum in the piece.**
 - **SOCHI, Aug 11:** purchase limits "due to logistical disruptions"; residents and tourists asked to
   **"refrain from using personal vehicles whenever possible."**
+    ⟲ SUPERSEDED 2026-08-15 → demand-destruction.md:L3621 — OVERSTATED: US imports ~zero Russian crude since the Mar-2022 ban, so no direct sourcing channel; and a contangoed oversupplied crude market absorbs the outage anyway. The product leg is the one that transmits
 - **12 REGIONS with hours-long queues** (7x7): Krasnodar, Voronezh, Kaluga, Rostov, Ryazan, Tambov, Tula,
   Saratov, Smolensk, Penza, Ulyanovsk, Primorsky Krai; **plus Arkhangelsk (Arctic).**
 - **Rare federal admission:** "the situation remains tense in several regions."
@@ -3612,3 +3613,36 @@ refinery-strike pattern) — **what is new is the SIX-MONTH duration.**
 3. ⬜ **Russian refinery capacity offline, aggregate** — Orsk's 6 months is one plant; the thesis needs the
    total. **Folds into the standing open item on the Russian diesel-export figure.**
 **Links:** [[oil-value-chain]] · [[war/war-board]] · [[power-not-petroleum]]
+
+### 2026-08-14 ~5:55pm PDT — ⛔ JAKE IS RIGHT AND MY CAVEAT WAS OVERSTATED: **the US has imported essentially ZERO Russian crude since the March-2022 ban, so there is NO DIRECT SOURCING CHANNEL** — and in a LOOSE crude market the indirect price channel is small too
+Source: Jake's challenge, chat 2026-08-14 ~5:55pm PDT. ⟲ **SUPERSEDES `:L3577`** (the "raises the refiner's
+input cost" framing).
+
+#### THESIS (interpretation — NOT fact)
+- **⛔ CONCEDED ON THE DIRECT CHANNEL, WHICH IS THE ONE MY WORDING IMPLIED. US imports of Russian crude have
+  ⟲ SUPERSEDES demand-destruction.md:L3577 — OVERSTATED: US imports ~zero Russian crude since the Mar-2022 ban, so no direct sourcing channel; and a contangoed oversupplied crude market absorbs the outage anyway. The product leg is the one that transmits
+  been ~ZERO since Executive Order 14066 (March 2022).** **A Sheskharis outage removes barrels a US refiner
+  was never going to buy.** ⇒ **As written, "raises a US refiner's INPUT cost" implies a sourcing link that
+  does not exist. The mechanism I meant is the GLOBAL BENCHMARK PRICE — a Gulf Coast refiner buys
+  WTI/Brent-linked grades, so a tighter world balance lifts its feedstock cost regardless of the barrel's
+  flag.** **That is a real channel, but it is the SECOND-order one and I stated it as the first.**
+  *(Analysis.)*
+- **★★★★★ AND THE SECOND-ORDER CHANNEL IS ALSO WEAK RIGHT NOW, ON THIS NOTE'S OWN EVIDENCE: A LOOSE CRUDE
+  MARKET ABSORBS A SUPPLY OUTAGE; A TIGHT ONE DOES NOT.** `:L12` — **Chinese imports −4.9M b/d, Brent in
+  steep CONTANGO since 6/30** — and this session already corrected me once for naming a war-premium unwind
+  when the real mechanism was demand-side slack. ⇒ **A Black Sea crude outage into a contangoed, oversupplied
+  crude market is largely absorbed.** ⇒ **BOTH LEGS OF MY OBJECTION ARE WEAKER THAN I FILED THEM, AND JAKE'S
+  ORIGINAL SHORTHAND SURVIVES BETTER THAN MY CAVEAT IMPLIED: the PRODUCT leg (Orsk, 6 months) is the one
+  that transmits.** *(Analysis.)*
+- **⚠️ WHAT THE CAVEAT STILL BUYS, AND IT IS ONLY THIS: the DISCIPLINE of separating crude events from
+  product events before scoring them as refiner-bullish.** **The distinction was right; its APPLICATION to
+  this specific pair was wrong, because the crude side has neither a sourcing channel nor a tight market to
+  transmit through.** *(Analysis.)*
+- **⬜ AND I DID NOT VERIFY THE ZERO — it is not in the vault, and the Sheskharis volume is not either.**
+  **Stated from the standing import ban, not from an EIA pull. Flagged rather than dressed up.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. ⬜ **EIA US crude imports by origin, July 2026 — confirm the zero from primary data.**
+2. 🚩 **The crude-side test is now: does BRENT actually move on the Sheskharis outage?** **If a Black Sea
+   export suspension does not move the benchmark, the crude leg is confirmed absorbed and the refiner read
+   is clean.**
