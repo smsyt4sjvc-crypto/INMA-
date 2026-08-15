@@ -3688,6 +3688,7 @@ FLOWS(3) · CONSUMER(3) · MEMORY(2).
 - **★★★★ AND THE HONEST BULL CASE HE CONCEDES DESERVES EQUAL WEIGHT, BECAUSE IT ATTACKS THE VAULT'S OWN
   "DETACHMENT" FRAME: THE FORWARD MULTIPLE **FELL** FROM 23× TO ~20× WHILE THE INDEX MADE 26 RECORD HIGHS,
   BECAUSE Q2 EARNINGS GREW ~33%.** ⇒ **PRICE ROSE AND VALUATION FELL. That is earnings carrying the tape,
+    ⟲ SUPERSEDED 2026-08-15 → market-fragility.md:L3922 — REVERSED: a falling multiple on CAPITAL-CYCLE earnings is not reassurance - cyclicals print their lowest P/E at peak earnings. The 23x->20x compression and the five-firms-at-50pct-of-capex statistic are the same fact from two ends
   not liquidity — the opposite of the detachment thesis' core mechanism, and it is measured rather than
   argued.** *(Analysis. The strongest single fact against this vault's standing bear lean, and it should be
   weighted as such.)*
@@ -3905,3 +3906,65 @@ REPORTED.**
 4. ⬜ **Resolve the top-10 concentration path: 36-41% in Dec-25/Jan-26 vs 37.4-37.6% now.** Flat-to-down over
    seven months contradicts the melt-up narrative.
 **Links:** [[detachment-bid]] · [[ai-capex-cycle]] · [[cepi]] · [[portfolio-state]] · [[consumption-vs-investment-crux]]
+
+### 2026-08-15 ~2:22pm PDT — ⛔⛔ HIS P/E POINT IS PHRASED BACKWARDS AND IS RIGHT UNDERNEATH, AND IT REVERSES WHAT I CALLED "THE STRONGEST FACT AGAINST OUR BEAR LEAN" THREE HOURS AGO: **a falling multiple on capital-cycle earnings is not reassurance — it is the signature of PEAK-cycle earnings.** ★ And on power, the vault already has the sharper form: **money DOES buy time on a queue. It does not buy through RATIONING**
+Source: Jake, chat 2026-08-15 ~2:20pm PDT — *"it all points to the valuations being so high, hyper earning
+everywhere inflating P/E ratios. The hyperscalers won't stop regardless of spreads I think. The breaking
+point, I think, is power as it always has been. You cannot buy time."*
+
+#### THESIS (interpretation — NOT fact)
+- **⚠️ THE MECHANICS ARE INVERTED AND IT DOES NOT MATTER, BECAUSE THE UNDERLYING POINT IS BETTER THAN THE
+  PHRASING. High earnings DEFLATE a P/E, they do not inflate it — Roberts measured exactly that: the forward
+  multiple FELL from 23× to ~20× BECAUSE Q2 earnings grew ~33%. BUT HIS ACTUAL CLAIM IS THE CYCLICAL-EARNINGS
+  TRAP AND IT IS CORRECT: A 20× MULTIPLE ON PEAK-CAPITAL-CYCLE EARNINGS IS NOT 20×.** *(Analysis.)*
+- **⛔⛔ AND THAT REVERSES THE LINE I FILED AT 11:17am AS "THE STRONGEST SINGLE FACT AGAINST THIS VAULT'S
+  STANDING BEAR LEAN": *"price rose and valuation FELL — earnings carrying the tape, not liquidity, and it is
+  measured rather than argued."*** **IF THE EARNINGS ARE CAPITAL-CYCLE EARNINGS, A COMPRESSING MULTIPLE IS
+  NOT EVIDENCE OF SAFETY. IT IS THE CLASSIC SIGNATURE OF A CYCLICAL AT THE TOP — cyclicals always print
+    ⟲ SUPERSEDES market-fragility.md:L3690 — REVERSED: a falling multiple on CAPITAL-CYCLE earnings is not reassurance - cyclicals print their lowest P/E at peak earnings. The 23x->20x compression and the five-firms-at-50pct-of-capex statistic are the same fact from two ends
+  their LOWEST P/E at peak earnings, and that is precisely when they are most expensive.** ⇒ **The 23× → 20×
+  compression and the "16% → ~50% of index capex in five companies" statistic are THE SAME FACT SEEN FROM
+  TWO ENDS.** ⇒ **I weighted the multiple as a counter to the concentration argument. It is a CONFIRMATION
+  of it.** *(Analysis. ⟲ supersedes the 11:17am line. And the tell that I should have caught it: I filed
+  both facts three hours apart and never multiplied them together.)*
+- **✓ "THE HYPERSCALERS WON'T STOP REGARDLESS OF SPREADS" IS CONFIRMED VERBATIM BY A CREDIT DESK, THIS
+  MORNING, INDEPENDENTLY.** JunkBondInvestor (8/9, filed `new-economy-regime`): *"a hyperscaler chasing the
+  AI race isn't pausing spending over 50bps"* · *"the cost of capital isn't really in the investment equation
+  at all. Capacity you don't build this cycle is capacity a competitor locks up, along with the power, the
+  land, and the customer."* ⇒ **THE CREDIT MARKET IS NOT A BRAKE ON THIS CYCLE. IT IS A TRANSMISSION
+  MECHANISM — it spreads the cost onto OTHER borrowers without slowing the spender.** *(Analysis.)*
+- **⇒ WHICH IS WHY HIS CONCLUSION FOLLOWS: IF PRICE CANNOT STOP IT — not the cost of debt, not the cost of
+  chips, not the cost of land — THEN THE BINDING CONSTRAINT MUST BE SOMETHING MONEY DOES NOT CLEAR.**
+  *(Analysis.)*
+- **★★★★★★★ AND THE VAULT ALREADY HAS THE SHARPER FORM OF "YOU CANNOT BUY TIME," FILED AS A CATEGORY CHANGE.
+  `buildout-bottleneck-map:L429`, verbatim: *"Every power constraint the vault has logged to date was a
+  PRICE/QUEUE constraint: interconnection backlogs, capacity auction clears, LTAs, turbine lead times — ALL
+  OF WHICH A WELL-CAPITALISED HYPERSCALER SOLVES WITH MONEY AND PATIENCE. PJM proposing to CURTAIL large data
+  centres during strain, plus a registry 'with teeth,' is a RATIONING constraint: IT CAPS UTILISATION, NOT
+  COST. MONEY DOES NOT BUY THROUGH IT."*** ⇒ **SO THE CORRECTION TO HIS SENTENCE IS THE USEFUL PART: YOU
+  **CAN** BUY TIME — that is exactly what a nuclear PPA at an above-market rate is, and what a
+  behind-the-meter gas deal is. YOU ARE BUYING SOMEBODY ELSE'S PLACE IN THE QUEUE.** ⇒ **The power
+  constraint is therefore NOT ABSOLUTE. IT IS DISTRIBUTIONAL — the hyperscalers outbid ratepayers,
+  industrials and municipalities for electrons that already exist.** ⇒ **WHICH IS THE CROWD-OUT MECHANISM
+  AGAIN, APPLIED TO POWER: same as memory, same as transformers, third instance today.** *(Analysis.)*
+- **⇒ ★★★★★★ AND THAT MAKES THE BREAKING POINT POLITICAL RATHER THAN PHYSICAL, AND THE VAULT REGISTERED THE
+  DOCKET TWO DAYS AGO FOR A COMPLETELY DIFFERENT REASON. The constraint binds when ratepayers and regulators
+  STOP ALLOWING THE REALLOCATION — and on 8/13 the regulatory-obsolescence work registered as its #1 leading
+  indicator: "STATE PUC / UTILITY INTERCONNECTION CRITERIA — does any jurisdiction add an efficiency or
+  compute-per-MW test to data-centre interconnection or a large-load tariff? Watch Virginia (Dominion), Ohio
+  (AEP), Texas (ERCOT), Georgia (Georgia Power)."** ⇒ **IT IS THE SAME DOCKET. Two independent routes —
+  regulatory depreciation on Thursday, capital-cycle breaking point today — converge on the same filing
+  cabinet.** ⇒ **AND PJM's CURTAILMENT PROPOSAL AND ISRAEL'S 140-DAY FREEZE ARE THE SAME INSTRUMENT ALREADY
+  IN THE WILD — dated, mechanical, falsifiable, TRIGGER-CLASS by this vault's own rule.** *(Analysis. The
+  arc closes.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **RATIONING INSTRUMENTS, NOT QUEUE LENGTH — the trigger class.** PJM curtailment tariff + registry
+   "with teeth" · Israel's 140-day freeze · any state PUC large-load tariff that CAPS UTILISATION rather
+   than pricing it. **Queue length is a WARNING; a curtailment order is a TRIGGER.**
+2. 🚩🚩 **THE PEAK-EARNINGS TEST: index EPS ex-AI-capex-chain.** **If the multiple compression is
+   capital-cycle earnings, then stripping the chain out should show a much higher and rising P/E on the
+   residual.** ⬜ Not computed; this is the falsifier for the whole argument.
+3. 🚩 **PPA PRICES PAID BY HYPERSCALERS vs local industrial/retail tariffs** — sizes the distributional
+   crowd-out on electrons the way Apple's margin headwind sized it on memory.
+**Links:** [[power-not-petroleum]] · [[buildout-bottleneck-map]] · [[ai-capex-cycle]] · [[ai-financing-fragility]] · [[new-economy-regime]]
