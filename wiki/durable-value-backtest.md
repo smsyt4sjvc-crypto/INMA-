@@ -296,3 +296,50 @@ definition of "cheap" changes. **Identity: trend P/E = trailing P/E × trend-dur
   a losing classification, beating the index in 1 window of 7.** That is the finding. It is not the one
   we set out to test, it survived every instrument change, and it is the only claim on this page whose
   sign never moved.
+
+## ★★★★★ DATA — THE PRICE TEST (Jake, 2026-08-16 ~5:05pm). THE UNIFYING RESULT OF THE DAY
+**Jake's correction, and he was right:** *"So what. I don't care about the ratio. I care about the price."*
+I had called *"match the P numerator to the same multiplier"* arithmetically empty. **That is only true if
+you FORM the ratio.** Put the multiplier on the price and keep the price as the object and nothing
+cancels — because there is a SECOND price: **the one that actually printed.**
+
+**Construction:** `m` = year-over-year same-quarter EPS growth rate at formation (median of last 4,
+seasonality-free, winsorised ±150%). Implied 2-quarter price move = `(1+m)^0.5 − 1`. Horizon = the next
+2 quarters, per the spec.
+
+| formation | n | corr(m, next-2q return) | med m | med 2q return | med implied | med GAP |
+|---|---|---|---|---|---|---|
+| 2017-08-15 | 306 | +0.009 | +6% | +10.4% | +3.1% | +10.6% |
+| 2018-08-15 | 308 | −0.052 | +15% | −0.2% | +7.1% | −6.8% |
+| 2019-08-15 | 317 | +0.111 | +9% | +13.9% | +4.6% | +11.2% |
+| 2020-08-14 | 320 | **−0.312** | −5% | +15.7% | −2.5% | **+21.4%** |
+| 2021-08-16 | 327 | **−0.386** | +11% | +1.4% | +5.3% | −4.7% |
+| 2022-08-15 | 329 | −0.060 | +8% | +0.3% | +3.9% | −4.2% |
+| 2023-08-15 | 332 | +0.045 | −1% | +5.9% | −0.3% | +7.8% |
+
+- **★★★ POOLED, n=2,239: corr(m, next-2-quarter return) = −0.160. r² = 0.026.**
+  **EARNINGS GROWTH EXPLAINS 2.6% OF THE NEXT TWO QUARTERS OF PRICE, AND THE SIGN IS NEGATIVE.**
+- **The price does not deliver what the earnings rate implies.** The gap is not a small error around the
+  implied path — it runs +21.4% one date and −6.8% another. There is barely a relationship to err around.
+- **★★ AND THE GAP DOES NOT CLOSE.** Bucketing on the gap and measuring the FOLLOWING 2 quarters:
+  **LAGGED minus RAN-AHEAD = −1.5% mean, lagged wins 3/7, leave-one-out −0.9 to −2.1 — NEGATIVE AT EVERY
+  DROP.** Stocks whose price lagged their earnings kept lagging. **That is momentum, not mean reversion**
+  — and it is the direct opposite of the value intuition that a lagging price must catch up.
+
+## ★★★★★ THESIS — WHY THIS EXPLAINS THE WHOLE DAY (interpretation — NOT fact)
+- ***(the unifying read)*** **If price and earnings are near-orthogonal over the horizon, then NO
+  denominator built out of earnings can sort returns.** Trailing, trend-fitted, CAPE-average,
+  durability-filtered, growth-tercile-matched, consistency-ranked — **every construction tested today was
+  doomed by the same fact, and we discovered it six separate ways before measuring it directly.**
+- ***(what the NEGATIVE sign says, and it is the sharpest sentence available)*** **By the time earnings
+  growth is visible in a filing, the price already has it.** Faster filed growth was associated with
+  slightly WORSE forward returns — consistent with the growth being discounted already and the growth
+  RATE mean-reverting from a high base.
+- ***(⚠️ THE LIMIT, and it is a real one — this does NOT show earnings do not matter)*** **Two quarters is
+  a SHORT horizon and a low r² there is the expected finance result**: short-run returns are dominated by
+  multiple and discount-rate changes, and earnings assert themselves over 5–10 years. **This measures the
+  NEAR-TERM link and finds it weak. It does not measure the long-term one.** ⬜ Blocked in this tool —
+  Yahoo's chart range caps at ~10 years.
+- ***(the methodological point worth keeping)*** Jake's reframe — **stop asking what the multiple says,
+  ask whether the price moved** — is the one that produced a measurable answer. Every ratio question today
+  returned noise. **The first direct question about the price returned an r² and a stable sign.**
