@@ -420,6 +420,23 @@ THREADS = {
                  'publisher','publishers','content licensing','licensing deal','pay per crawl',
                  'training data','data licensing','corpus','opt out','opt-out',
                  'cloudflare','semrush','nieman','digiday'],
+
+ # MAP GAP #27 (2026-08-16). The vault runs SCREENS and BACKTESTS -- quiet-health-screen,
+ # sp500_health_screen.py, durable_value_screen.py, the 52-week scans, bandwidth_parity_cell --
+ # and the map had ZERO vocabulary for the METHOD. A paste describing a point-in-time EDGAR
+ # backtest returned NO THREAD MATCHED while the sweep found six notes.
+ # ⇒ SAME CLASS AS #25/#26: the map was keyed to what the vault CONCLUDES, never to how it
+ #   MEASURES. Screens are a recurring artifact type here; they needed a thread of their own.
+ 'SCREEN-METHOD':['backtest','back-test','point-in-time','point in time','look-ahead',
+                  'lookahead','look ahead bias','survivorship','survivorship bias',
+                  'formation date','holding period','control group','universe',
+                  'edgar','xbrl','companyfacts','10-k','10-q','filed date','as-reported',
+                  'restatement','restated','split-adjusted','split adjusted',
+                  'trailing twelve','ttm','year-to-date','ytd','discrete quarter',
+                  'p/e','pe ratio','earnings yield','trailing e','forward multiple',
+                  'peak earnings','peak-cycle earnings','normalised earnings','normalized earnings',
+                  'median earnings','durability','screen','screener','pass rate',
+                  'sector-neutral','beat-rate','spread vs benchmark'],
 }
 
 # THREAD -> ORIGINATING VAULT NOTE. Every hit routes BACK to the note it came from.
@@ -448,6 +465,7 @@ ROUTE = {
  'LEVANT':    'war/war-board (talks-while-shooting; MoU Article 1 broke via Lebanon -- portfolio-state L143)',
  'TOKEN-ECON':'metered-compute (the Jevons/elasticity-1 test) / compression-thesis / cepi',
  'CONTENT-TOLL':'content-toll / metered-compute (same metering architecture, different input) / compression-thesis',
+ 'SCREEN-METHOD':'quiet-health-screen (the 2026-07-05 snapshot screen + its peak-cycle-earnings caveat) / durable-value-backtest (the point-in-time test of that caveat) / colab-archive-audit (which tools exist and which are trustworthy) / runner-anatomy / market-fragility',
 }
 # ═══════════════ THREAD MAP END ═══════════════
 
