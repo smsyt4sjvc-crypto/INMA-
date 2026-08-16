@@ -794,3 +794,137 @@ def isolation(store=None):
             rest = [d for j, d in enumerate(diffs) if j != i]
             print(f"    without {r[0]}:  mean {sum(rest)/len(rest):+6.1%}")
     return rows_out
+
+
+# ============================================================================
+#  TREND-FITTED DURABILITY — the corrected instrument
+#  ---------------------------------------------------------------------------
+#  ⛔ WHY THE MEDIAN VERSION HAD TO GO. `TTM / median(6 annual EPS)` is a LEVEL
+#  statistic applied to a series with a TREND. On any compounding series the
+#  median sits ~3 years back, so the ratio is approximately (1+g)^3 -- it
+#  measures how far the company has TRAVELLED, not how far it has DEVIATED. A
+#  company with zero spikes growing 27%/yr scored 2.03 and was thrown out as
+#  "spiky"; the 1.60 threshold was, in effect, "reject anything compounding
+#  faster than ~17%/yr". Confirmed empirically at 7 of 7 formation dates.
+#
+#  ⇒ TO DETECT A DEVIATION YOU NEED A MODEL OF THE TREND TO DEVIATE FROM.
+#    Fit log-linear through the annual prints (constant-growth is a straight
+#    line in logs), extrapolate to the TTM window, score TTM against the FITTED
+#    value. A steady compounder now scores ~1.00 AT ANY GROWTH RATE. Only a
+#    genuine departure from its own trend scores high.
+#
+#  ⚠️ AND THE KNOWN FAILURE MODE OF THE FIX, registered before it runs: a trend
+#  fit reads a PERMANENT re-basing -- an acquisition that steps earnings power
+#  up for good, which is one of the cases Jake explicitly named -- as a
+#  deviation, identically to a one-off gain. No single ratio separates a spike
+#  from a re-basing. That needs the SOURCE of the earnings out of the filings.
+# ============================================================================
+def trend_durability(ann_rows, ttm, ttm_end):
+    """TTM EPS ÷ the value its own 6-year trend predicts for the TTM window."""
+    if len(ann_rows) < 4 or ttm is None or not ttm_end:
+        return None
+    rows = ann_rows[-6:]
+    x0 = datetime.fromisoformat(rows[0]["end"])
+    xs = [(datetime.fromisoformat(r["end"]) - x0).days / 365.25 for r in rows]
+    xt = (datetime.fromisoformat(ttm_end) - x0).days / 365.25
+    ys_raw = [r["val"] for r in rows]
+    use_log = all(v > 0 for v in ys_raw)
+    ys = [__import__("math").log(v) for v in ys_raw] if use_log else ys_raw
+    n = len(xs)
+    mx, my = sum(xs) / n, sum(ys) / n
+    den = sum((x - mx) ** 2 for x in xs)
+    if den == 0:
+        return None
+    b = sum((x - mx) * (y - my) for x, y in zip(xs, ys)) / den
+    a = my - b * mx
+    fit = a + b * xt
+    if use_log:
+        fit = __import__("math").exp(min(fit, 700))
+    if fit <= 0:
+        return None
+    return ttm / fit
+
+
+def isolation2(store=None):
+    """Two corrected tests, both of which the median version failed:
+       (1) TREND-fitted durability -- growth-neutral by construction.
+       (2) The ORIGINAL median durability, but split WITHIN growth terciles, so
+           the durable and spiky groups are matched on EPS CAGR. If the effect
+           is real it must survive holding growth constant. Two independent
+           routes to the same question; agreement is the point."""
+    if store is None:
+        store = load_all(UNIVERSE, sp500_tickers())
+    print("\n" + "=" * 100)
+    print("  CORRECTED TEST 1 — TREND-FITTED DURABILITY (growth-neutral)")
+    print("  TTM ÷ the value its OWN log-linear trend predicts. A steady compounder")
+    print("  scores ~1.00 at ANY growth rate; only a departure from trend scores high.")
+    print("=" * 100)
+    print(f"  {'formation':<12}{'SPY':>8}{'cheap':>7}{'ON-TREND n':>12}{'spread':>9}"
+          f"{'ABOVE-TREND n':>15}{'spread':>9}{'diff':>9}")
+    t1, t2 = [], []
+    for formation, hold_end in FORMATIONS:
+        b = prices("SPY")
+        bench = px_on(b, hold_end) / px_on(b, formation) - 1
+        funnel = {k: 0 for k in GATES}
+        rows = []
+        for t, (facts, px, sp) in store.items():
+            try:
+                r = evaluate(t, facts, px, sp, formation, hold_end, funnel)
+            except Exception:
+                continue
+            if not r:
+                continue
+            ar = annual_eps(facts, formation, sp)
+            ttm_end = None
+            if r["stale"] is not None:
+                ttm_end = (datetime.fromisoformat(formation)
+                           - __import__("datetime").timedelta(days=r["stale"])).strftime("%Y-%m-%d")
+            r["td"] = trend_durability(ar, r["ttm"], ttm_end)
+            r["growth3"] = r["growth"]
+            rows.append(r)
+        cut = pctile([r["pe"] for r in rows], PE_PCTILE)
+        cheap = [r for r in rows if r["pe"] <= cut and r["td"]]
+        on = [r for r in cheap if 0.75 <= r["td"] <= 1.35]
+        above = [r for r in cheap if r["td"] > 1.35]
+        if on and above:
+            a1 = sum(r["ret"] for r in on) / len(on) - bench
+            a2 = sum(r["ret"] for r in above) / len(above) - bench
+            t1.append((formation, a1 - a2))
+            print(f"  {formation:<12}{bench:>+8.1%}{len(cheap):>7}{len(on):>12}{a1:>+9.1%}"
+                  f"{len(above):>15}{a2:>+9.1%}{a1-a2:>+9.1%}")
+
+        # ---- test 2: median durability, split WITHIN growth terciles
+        g = [r for r in cheap if r["growth3"] is not None]
+        if len(g) >= 12:
+            g.sort(key=lambda r: r["growth3"])
+            k = len(g) // 3
+            for lo, hi, name in ((0, k, "low-g"), (k, 2 * k, "mid-g"), (2 * k, len(g), "high-g")):
+                band = g[lo:hi]
+                d_ = [r for r in band if DURABLE_LO <= r["durability"] <= DURABLE_HI]
+                s_ = [r for r in band if r["durability"] > DURABLE_HI]
+                if d_ and s_:
+                    t2.append((formation, name,
+                               sum(r["ret"] for r in d_) / len(d_)
+                               - sum(r["ret"] for r in s_) / len(s_), len(d_), len(s_)))
+    if t1:
+        d = [x[1] for x in t1]
+        print(f"\n  ON-TREND minus ABOVE-TREND: mean {sum(d)/len(d):+.1%} · median {median(d):+.1%} · "
+              f"wins {sum(1 for x in d if x>0)}/{len(d)}")
+        print("  ⚠️ LEAVE-ONE-OUT:")
+        for i, x in enumerate(t1):
+            rest = [v for j, v in enumerate(d) if j != i]
+            print(f"    without {x[0]}:  mean {sum(rest)/len(rest):+6.1%}")
+    if t2:
+        print("\n" + "=" * 100)
+        print("  CORRECTED TEST 2 — median durability, split WITHIN growth terciles")
+        print("  (durable minus spiky, holding EPS CAGR roughly constant)")
+        print("=" * 100)
+        for name in ("low-g", "mid-g", "high-g"):
+            band = [x[2] for x in t2 if x[1] == name]
+            if band:
+                print(f"  {name:<8} n_dates={len(band):<3} mean {sum(band)/len(band):+7.1%} · "
+                      f"median {median(band):+7.1%} · durable wins {sum(1 for v in band if v>0)}/{len(band)}")
+        allb = [x[2] for x in t2]
+        print(f"  {'ALL':<8} n={len(allb):<5} mean {sum(allb)/len(allb):+7.1%} · "
+              f"median {median(allb):+7.1%} · durable wins {sum(1 for v in allb if v>0)}/{len(allb)}")
+    return t1, t2
