@@ -242,3 +242,57 @@ mildly negative. **Neither can reject "no effect," and route 2 leans against.**
 ## Sources
 - `tools/durable_value_screen.py`, runs of 2026-08-16 ~10:00am–12:30pm PDT (full spec + isolation).
 - SEC EDGAR XBRL `companyfacts` API; Yahoo Finance chart API (prices + split events).
+
+## ★★★ DATA — THE NEW P/E (Jake, 2026-08-16 ~4:30pm: *"let's create a new P/E"*). RUN ~4:55pm PDT
+Three denominators, same universe, same 7 dates, same 3-year holds, same bottom-quintile rule. Only the
+definition of "cheap" changes. **Identity: trend P/E = trailing P/E × trend-durability** — no new data.
+
+| formation | SPY | n | TRAILING | TREND | AVERAGE | trend−trailing | cohort overlap |
+|---|---|---|---|---|---|---|---|
+| 2017-08-15 | +36.6% | 261 | −29.0% | −30.7% | −22.3% | −1.7 | 74% |
+| 2018-08-15 | +58.3% | 254 | −31.2% | −34.9% | −36.3% | −3.7 | 69% |
+| 2019-08-15 | +50.7% | 269 | −3.5% | −13.3% | −12.8% | −9.8 | 73% |
+| 2020-08-14 | +33.0% | 260 | **+4.4%** | **+8.2%** | **+13.8%** | +3.8 | 58% |
+| 2021-08-16 | +23.7% | 271 | −9.4% | −5.0% | −9.9% | +4.4 | 75% |
+| 2022-08-15 | +50.0% | 281 | −22.0% | −18.5% | −31.3% | +3.5 | 68% |
+| 2023-08-15 | +75.3% | 286 | −8.6% | −14.9% | −19.2% | −6.3 | 64% |
+
+- **TRAILING −14.2% · TREND −15.6% · AVERAGE −16.9% mean spread vs SPY. ALL THREE BEAT THE INDEX IN
+  1 OF 7 WINDOWS.** The one win is the same window for all three (2020, the COVID-trough formation).
+- **★ THE ORDERING IS MONOTONE IN HOW MUCH THE EARNINGS ARE NORMALISED: none −14.2 → trend −15.6 →
+  flat average −16.9. THE MORE THE E WAS NORMALISED, THE WORSE IT DID.**
+- **⇒ THE NEW P/E IS NOT BETTER. It is −1.4pp worse than trailing (median −1.7, wins 3/7).**
+- **★★★ AND THIS NEGATIVE IS THE ONLY STABLE RESULT OF THE DAY: leave-one-out runs −0.0 to −2.4pp,
+  NEGATIVE AT EVERY DROP.** Every other test today flipped sign when a date was removed. **This one does
+  not — which makes it the most trustworthy number produced all day, and it is a negative.**
+- **⚠️ CORRECTING MY OWN SCRIPT'S LABEL: it printed "the two ratios pick DIFFERENT names" at 69% overlap
+  purely because the threshold was set at 70%. That is a threshold artifact and the opposite of the right
+  reading — ~TWO THIRDS OF THE COHORT IS THE SAME NAMES.** The ~31% that differs did not help.
+
+## ⛔⛔ DATA — THE LIMITATION THAT APPLIES RETROACTIVELY TO EVERY TEST ON THIS PAGE
+**7 formation dates one year apart with 3-YEAR holds are NOT 7 independent observations.**
+- Observation-years claimed: **21.** Actual calendar span covered: **9** (2017 → 2026).
+- **Adjacent windows share 2 of their 3 years. ⇒ EFFECTIVE INDEPENDENT SAMPLES ≈ 3, NOT 7.**
+- **Every "wins 4/7" and every leave-one-out on this page is weaker than its notation implies**, and the
+  n=7 confidence bands quoted earlier are too narrow. **This does not change any SIGN — it widens every
+  band.** Filed here rather than in a footnote because it degrades the whole page, not one section.
+
+## THESIS — the new P/E (interpretation — NOT fact)
+- ***(the answer)*** **A new denominator does not rescue the screen, and the direction is informative:
+  normalising the E made it monotonically WORSE.** Whatever is wrong with buying the cheap quintile in
+  this era, **a contaminated denominator was not it.**
+- ***(⚠️ THE STRONGEST CAVEAT AVAILABLE, and it may be fatal to reading ANY of today's negatives as being
+  about the RATIOS)*** **All 7 formation dates and all 7 holding windows sit inside 2017–2026 — the
+  documented value-factor drought and mega-cap concentration era.** *"A value screen underperformed
+  2017–2026"* is very close to a tautology: we already knew value lost. **These tests cannot separate
+  "this ratio is bad" from "this REGIME punished every value ratio."** The one window that beat SPY on
+  all three ratios (formation Aug-2020, the COVID trough) is the one whose hold is least dominated by
+  the concentration trade — **consistent with regime, not with ratio.**
+- ***(what would separate them)*** ⬜ **Run the same three ratios over 1995–2007**, which contains a value
+  drought AND its violent reversal. Blocked here: Yahoo's chart range caps at ~10 years, so the price
+  series does not exist in this tool. **Registered as blocked, not as done.**
+- ***(the one thing all of today's work does establish, robustly and in the same direction every time)***
+  **In this era, cheapness of ANY construction — trailing, trend-normalised, or CAPE-style average — was
+  a losing classification, beating the index in 1 window of 7.** That is the finding. It is not the one
+  we set out to test, it survived every instrument change, and it is the only claim on this page whose
+  sign never moved.
