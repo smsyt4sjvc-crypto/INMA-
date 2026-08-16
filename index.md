@@ -94,6 +94,7 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 - [[who-gets-paid-12m]] — the next-12-months synthesis
 - [[cluster-shortlist-workup]] — E-path workup on the 15 names
 - [[quiet-health-screen]] — value × health × no-story
+- [[durable-value-backtest]] — ⛔ the point-in-time test of that screen; the durability measure was an inverted GROWTH filter (7/7 dates). Jake's hypothesis UNTESTED, not disproven. What survives: cheapness itself lost 2017-2026.
 - [[runner-anatomy]] — what 200%+ 12-mo runners looked like at ignition
 - [[weekly-momentum]] — NDX top-5 weekly winners: carry, duration, threshold
 - [[median-line-dip]] — the median/LAD line as a dip trigger (wins 1-3mo, loses 12mo; test-run result)
