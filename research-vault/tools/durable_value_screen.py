@@ -1051,3 +1051,92 @@ def trend_pe_test(store=None):
             rest = [v for j, v in enumerate(d) if j != i]
             print(f"    without {f}:  mean {sum(rest)/len(rest):+6.1%}")
     return tr, tn
+
+
+# ============================================================================
+#  CONSISTENCY OF THE GROWTH RATE — Jake, 2026-08-16 ~4:35pm
+#  "First we look at how consistent quarter to quarter earning growth RATE is."
+#  ---------------------------------------------------------------------------
+#  ★★★ WHY THIS IS THE BEST VERSION OF THE IDEA SO FAR, and better than anything
+#  built earlier today: EVERY measure tried this morning -- median, log-linear
+#  trend, flat average -- operates on the LEVEL of earnings. Consistency operates
+#  on the RATE, which is an orthogonal axis and is far closer to what "durable
+#  earnings" actually means. A company earning 1.00, 1.05, 1.10, 1.15 and one
+#  earning 0.20, 2.00, 0.30, 1.90 can share a median, a trend and an average.
+#  They do not share a growth-rate variance.
+#
+#  ⛔ TWO DEFECTS IN THE LITERAL SPEC, both demonstrated on real data before
+#  being asserted:
+#  1. SEQUENTIAL QUARTER-OVER-QUARTER IS SEASONALITY, NOT GROWTH. Apple's last
+#     two quarters before 2021-08-16 were 1.40 -> 1.30, a -7% sequential rate;
+#     extrapolating that projects Apple into DECLINE while it was compounding
+#     ~100% year-over-year with its December blowout quarter next. Walmart
+#     printed -141% on one transition. Chevron had FOUR OF EIGHT transitions
+#     undefined because the base quarter was negative.
+#     ⇒ USE YEAR-OVER-YEAR SAME-QUARTER GROWTH. Seasonality cancels by
+#       construction: Q2 is only ever compared to Q2.
+#  2. A GROWTH RATE OFF A NEAR-ZERO BASE EXPLODES. Marathon's Speedway quarter
+#     produced +129,900% and a stdev of 48,438% -- a division artifact, not
+#     information.
+#     ⇒ USE THE SYMMETRIC PERCENT CHANGE: (Et - Et-4) / mean(|Et|, |Et-4|).
+#       Scale-free, defined across sign changes, bounded to +/-200%.
+#
+#  ⛔ AND THE THIRD PART OF THE SPEC IS ARITHMETICALLY EMPTY AS WRITTEN:
+#  "match the P numerator to the same multiplier." If numerator and denominator
+#  are both scaled by m, then (P*m)/(E*m) = P/E IDENTICALLY. No information can
+#  survive that operation. The non-vacuous version -- and what the idea is
+#  plainly reaching for -- is to compare the price's ACTUAL realised move against
+#  the earnings' PROJECTED move. That gap is a real quantity: it says whether the
+#  price has kept up with, lagged, or outrun the company's own earnings path.
+#  Implemented below as `divergence`.
+# ============================================================================
+def quarterly_eps(facts, asof, splits=()):
+    """Complete DISCRETE quarterly EPS series, point-in-time.
+    ⛔ Q4 is NEVER published in a 10-Q. It is DERIVED: Q4 = FY - 9-month YTD."""
+    rows = eps_facts(facts, asof, splits)
+    q = {r["end"]: r["val"] for r in _dedupe([x for x in rows if 80 <= x["span"] <= 100])}
+    ytd9 = {r["start"]: r["val"] for r in rows if 260 <= r["span"] <= 285}
+    for a in annual_eps(facts, asof, splits):
+        if a["end"] in q:
+            continue
+        for astart, yval in ytd9.items():
+            if 340 <= _days(astart, a["end"]) <= 400:
+                q[a["end"]] = a["val"] - yval
+                break
+    return sorted(q.items())
+
+
+def yoy_growth(qs):
+    """Year-over-year same-quarter SYMMETRIC growth. Seasonality-free, sign-safe."""
+    out = []
+    for i in range(4, len(qs)):
+        cur, base = qs[i][1], qs[i - 4][1]
+        scale = (abs(cur) + abs(base)) / 2.0
+        if scale > 0.01:
+            out.append((cur - base) / scale)
+    return out
+
+
+def consistency(facts, asof, splits=(), n=8):
+    """(median growth rate, STDEV of the growth rate) over the last n YoY prints.
+    The stdev IS the measure: low = the growth RATE itself is durable."""
+    g = yoy_growth(quarterly_eps(facts, asof, splits))[-n:]
+    if len(g) < 6:
+        return None, None
+    m = sum(g) / len(g)
+    return median(g), (sum((x - m) ** 2 for x in g) / len(g)) ** 0.5
+
+
+def forward_eps(facts, asof, splits=()):
+    """Jake's denominator, seasonality-corrected: take the recent YoY growth rate
+    and carry the next 2 quarters at it, so E is half ACTUAL and half PROJECTED."""
+    qs = quarterly_eps(facts, asof, splits)
+    if len(qs) < 8:
+        return None
+    g = yoy_growth(qs)[-4:]
+    if not g:
+        return None
+    r = median(g)                                  # median, not mean: one spike must not set the path
+    last4 = [v for _, v in qs[-4:]]
+    proj = [qs[-4 + i][1] * (1 + r) for i in range(2)]   # next 2 quarters vs their year-ago selves
+    return sum(last4[2:]) + sum(proj)              # 2 actual + 2 projected
