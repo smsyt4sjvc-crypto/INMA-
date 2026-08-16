@@ -928,3 +928,126 @@ def isolation2(store=None):
         print(f"  {'ALL':<8} n={len(allb):<5} mean {sum(allb)/len(allb):+7.1%} · "
               f"median {median(allb):+7.1%} · durable wins {sum(1 for v in allb if v>0)}/{len(allb)}")
     return t1, t2
+
+
+# ============================================================================
+#  TREND P/E — price ÷ the earnings the company's OWN trend says is normal
+#  ---------------------------------------------------------------------------
+#  Jake, 2026-08-16 ~4:30pm: "let's create a new P/E."
+#
+#  IDENTITY (so it is clear this invents no new data):
+#        trend P/E  =  trailing P/E  ×  trend-durability
+#  because trailing P/E = P/TTM and trend-durability = TTM/fitted, so the
+#  product is P/fitted. Both terms are already computed.
+#
+#  ★★★ WHY THIS IS NOT A REFINEMENT OF THE TEST THAT FAILED TODAY. The
+#  durability screen was a FILTER applied AFTER a trailing-P/E cheapness cut, so
+#  it could only ever SUBTRACT names from the cheap bucket. A company whose
+#  earnings are temporarily DEPRESSED has a HIGH trailing P/E -- it never
+#  entered the cheap cohort, so the durability test never saw it AND
+#  STRUCTURALLY COULD NOT. That is the half of Jake's own idea that went
+#  untested: not "the E is too high," but "the E is too low."
+#  ⇒ A RATIO RE-RANKS THE WHOLE UNIVERSE. A FILTER ONLY PRUNES A PRE-SELECTED
+#    SLICE. That difference, not the arithmetic, is the reason to build it.
+#
+#  ⚠️ THE VAULT'S OWN STANDARD, from market-fragility:4013 on the cycle-adjusted
+#  ratio: "it is NOT a P/E of anything -- it divides the full index price by a
+#  SUBSET of earnings." Numerator and denominator must cover the same entity.
+#  This one does: same company, same share count, price over its own fitted EPS.
+#
+#  ⚠️ AND THE COST, stated before the run: the trend fit's known failure mode
+#  now sits in the DENOMINATOR rather than merely excluding a name. A permanent
+#  acquisition-driven re-basing reads as "above trend," so the fitted normal is
+#  too low, so the trend P/E is too HIGH and the name is wrongly called dear.
+#  The failure is no longer a missed name -- it is a mispriced one.
+# ============================================================================
+def normal_eps(ann_rows, ttm_end):
+    """The EPS this company's own log-linear trend predicts for the TTM window."""
+    if len(ann_rows) < 4 or not ttm_end:
+        return None
+    rows = ann_rows[-6:]
+    x0 = datetime.fromisoformat(rows[0]["end"])
+    xs = [(datetime.fromisoformat(r["end"]) - x0).days / 365.25 for r in rows]
+    xt = (datetime.fromisoformat(ttm_end) - x0).days / 365.25
+    raw = [r["val"] for r in rows]
+    use_log = all(v > 0 for v in raw)
+    import math
+    ys = [math.log(v) for v in raw] if use_log else raw
+    n = len(xs)
+    mx, my = sum(xs) / n, sum(ys) / n
+    den = sum((x - mx) ** 2 for x in xs)
+    if den == 0:
+        return None
+    b = sum((x - mx) * (y - my) for x, y in zip(xs, ys)) / den
+    fit = (my - b * mx) + b * xt
+    if use_log:
+        fit = math.exp(min(fit, 700))
+    return fit if fit > 0 else None
+
+
+def trend_pe_test(store=None):
+    """HEAD-TO-HEAD: cheap on TRAILING earnings vs cheap on TREND-NORMAL earnings.
+    Same universe, same dates, same holds, same bottom-quintile rule. The only
+    thing that changes is which denominator defines 'cheap'."""
+    if store is None:
+        store = load_all(UNIVERSE, sp500_tickers())
+    print("\n" + "=" * 100)
+    print("  TREND P/E — price ÷ trend-fitted normal EPS   (= trailing P/E × trend-durability)")
+    print("  Bottom quintile on EACH ratio. The two cohorts are allowed to differ completely.")
+    print("=" * 100)
+    print(f"  {'formation':<12}{'SPY':>8}{'n':>6}{'TRAILING':>13}{'TREND':>12}"
+          f"{'AVERAGE':>12}{'T-Tr':>8}{'overlap':>9}")
+    tr, tn, av_l, ov = [], [], [], []
+    for formation, hold_end in FORMATIONS:
+        b = prices("SPY")
+        bench = px_on(b, hold_end) / px_on(b, formation) - 1
+        funnel = {k: 0 for k in GATES}
+        rows = []
+        for t, (facts, px, sp) in store.items():
+            try:
+                r = evaluate(t, facts, px, sp, formation, hold_end, funnel)
+            except Exception:
+                continue
+            if not r or r["stale"] is None:
+                continue
+            import datetime as _dt
+            ttm_end = (datetime.fromisoformat(formation)
+                       - _dt.timedelta(days=r["stale"])).strftime("%Y-%m-%d")
+            ar = annual_eps(facts, formation, sp)
+            ne = normal_eps(ar, ttm_end)
+            av = (sum(a["val"] for a in ar[-6:]) / len(ar[-6:])) if len(ar) >= 4 else None
+            if not ne or not av or av <= 0:
+                continue
+            r["tpe"] = r["pe"] * (r["ttm"] / ne)      # price / TREND-fitted normal EPS
+            r["ape"] = r["pe"] * (r["ttm"] / av)      # price / 6yr AVERAGE EPS (the CAPE analogue)
+            rows.append(r)
+        if len(rows) < 30:
+            continue
+        A = [r for r in rows if r["pe"]  <= pctile([x["pe"]  for x in rows], PE_PCTILE)]
+        B = [r for r in rows if r["tpe"] <= pctile([x["tpe"] for x in rows], PE_PCTILE)]
+        C = [r for r in rows if r["ape"] <= pctile([x["ape"] for x in rows], PE_PCTILE)]
+        a  = sum(r["ret"] for r in A) / len(A) - bench
+        bb = sum(r["ret"] for r in B) / len(B) - bench
+        cc = sum(r["ret"] for r in C) / len(C) - bench
+        shared = len({r["ticker"] for r in A} & {r["ticker"] for r in B}) / max(len(A), 1)
+        tr.append(a); tn.append(bb); av_l.append(cc); ov.append(shared)
+        print(f"  {formation:<12}{bench:>+8.1%}{len(rows):>6}{a:>+13.1%}{bb:>+12.1%}"
+              f"{cc:>12.1%}{bb-a:>+8.1%}{shared:>9.0%}")
+    if tr:
+        d = [x - y for x, y in zip(tn, tr)]
+        print(f"\n  TRAILING-cheap  mean spread vs SPY {sum(tr)/len(tr):+.1%} · "
+              f"beat {sum(1 for x in tr if x>0)}/{len(tr)}")
+        print(f"  TREND-cheap     mean spread vs SPY {sum(tn)/len(tn):+.1%} · "
+              f"beat {sum(1 for x in tn if x>0)}/{len(tn)}")
+        print(f"  AVERAGE-cheap   mean spread vs SPY {sum(av_l)/len(av_l):+.1%} · "
+              f"beat {sum(1 for x in av_l if x>0)}/{len(av_l)}   "
+              f"(the CAPE analogue — flat 6yr mean, no trend extrapolated)")
+        print(f"  ★ TREND minus TRAILING: mean {sum(d)/len(d):+.1%} · median {median(d):+.1%} · "
+              f"wins {sum(1 for x in d if x>0)}/{len(d)}")
+        print(f"  cohort overlap averages {sum(ov)/len(ov):.0%} — "
+              f"{'the two ratios pick DIFFERENT names' if sum(ov)/len(ov) < 0.7 else 'the ratios largely agree'}")
+        print("\n  ⚠️ LEAVE-ONE-OUT:")
+        for i, f in enumerate([x[0] for x in FORMATIONS][:len(d)]):
+            rest = [v for j, v in enumerate(d) if j != i]
+            print(f"    without {f}:  mean {sum(rest)/len(rest):+6.1%}")
+    return tr, tn
