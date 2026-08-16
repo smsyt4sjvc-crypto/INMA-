@@ -724,3 +724,73 @@ if __name__ == "__main__":
     verify()                      # ⛔ ALWAYS. The first version of this file produced a
     print()                       #    complete, plausible, WRONG result set, and the only
     main()                        #    thing that caught it was reading ten numbers by hand.
+
+
+# ============================================================================
+#  ISOLATION TEST — the one that can actually answer the question
+#  ---------------------------------------------------------------------------
+#  ⛔ WHY THIS EXISTS. Jake's full spec produces 1.6 names per formation date.
+#  Across the dates where both groups existed the durable group beat the naive
+#  group by a mean of +22.4pp -- and ALL OF IT is one stock: Dick's Sporting
+#  Goods was the SOLE name in the 2018 durable bucket and returned +201%. Drop
+#  that single date and the filter reads -5.1pp. An effect that inverts when one
+#  observation is removed is not an effect, and reporting the +22.4 without that
+#  sentence would be the most misleading thing this file could do.
+#
+#  The fix is not a better filter, it is a bigger sample. Strip every gate
+#  except cheapness, then split the cheap cohort on durability alone. Same
+#  cheapness rule, same dates, same universe -- the ONLY difference between the
+#  two columns is the thing being tested. ~60 names per date instead of 1.6.
+#
+#  And note what the comparison becomes: not "durable vs everything" but
+#  DURABLE-E vs SPIKY-E *within the cheap cohort*. That is Jake's actual claim --
+#  that a low multiple built on inflated earnings is a different animal from a
+#  low multiple built on normal ones.
+# ============================================================================
+def isolation(store=None):
+    if store is None:
+        store = load_all(UNIVERSE, sp500_tickers())
+    print("\n" + "=" * 100)
+    print("  ISOLATION TEST — cheap cohort SPLIT ON DURABILITY ALONE")
+    print("  no balance-sheet gate, no moving-average gate, no growth gate: the only")
+    print("  difference between the columns is TTM EPS vs its own multi-year median.")
+    print("=" * 100)
+    print(f"  {'formation':<12}{'SPY':>8}{'cheap n':>9}"
+          f"{'DUR n':>7}{'spread':>9}{'SPIKY n':>9}{'spread':>9}{'diff':>9}")
+    rows_out = []
+    for formation, hold_end in FORMATIONS:
+        b = prices("SPY")
+        b0, b1 = px_on(b, formation), px_on(b, hold_end)
+        bench = b1 / b0 - 1
+        funnel = {k: 0 for k in GATES}
+        rows = []
+        for t, (facts, px, sp) in store.items():
+            try:
+                r = evaluate(t, facts, px, sp, formation, hold_end, funnel)
+            except Exception:
+                r = None
+            if r:
+                rows.append(r)
+        pe_cut = pctile([r["pe"] for r in rows], PE_PCTILE)
+        cheap = [r for r in rows if r["pe"] <= pe_cut]
+        dur = [r for r in cheap if DURABLE_LO <= r["durability"] <= DURABLE_HI]
+        spiky = [r for r in cheap if r["durability"] > DURABLE_HI]
+        if not dur or not spiky:
+            continue
+        ds = sum(r["ret"] for r in dur) / len(dur) - bench
+        ss = sum(r["ret"] for r in spiky) / len(spiky) - bench
+        rows_out.append((formation, ds, ss, len(dur), len(spiky)))
+        print(f"  {formation:<12}{bench:>+8.1%}{len(cheap):>9}"
+              f"{len(dur):>7}{ds:>+9.1%}{len(spiky):>9}{ss:>+9.1%}{ds-ss:>+9.1%}")
+    if rows_out:
+        diffs = [r[1] - r[2] for r in rows_out]
+        print("\n  DURABLE-E minus SPIKY-E, across", len(rows_out), "formation dates:")
+        print(f"    mean {sum(diffs)/len(diffs):+.1%} · median {median(diffs):+.1%} · "
+              f"durable wins {sum(1 for d in diffs if d>0)}/{len(diffs)}")
+        print(f"    avg names per date: durable {sum(r[3] for r in rows_out)/len(rows_out):.0f} · "
+              f"spiky {sum(r[4] for r in rows_out)/len(rows_out):.0f}")
+        print("\n  ⚠️ LEAVE-ONE-OUT — an effect that dies when one date is removed is not an effect:")
+        for i, r in enumerate(rows_out):
+            rest = [d for j, d in enumerate(diffs) if j != i]
+            print(f"    without {r[0]}:  mean {sum(rest)/len(rest):+6.1%}")
+    return rows_out
