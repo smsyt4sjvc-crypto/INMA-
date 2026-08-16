@@ -4040,3 +4040,75 @@ figures "approximate point-in-time estimates" and schedules a refresh for 2026-0
 3. 🚩 **THE AI BASKET'S OWN MULTIPLE, TRACKED**: 18.6× vs the index's 20.0×. **If the discount CLOSES from
    above — the AI names re-rating to a premium — that is the 2000 signature arriving late.**
 **Links:** [[ai-capex-cycle]] · [[detachment-bid]] · [[new-economy-regime]] · [[buildout-bottleneck-map]] · [[oil-value-chain]]
+
+### 2026-08-15 ~8:24pm PDT — ⭐⭐⭐ THE THIRD AND DECISIVE STRIKE ON "RECORD-LOW CORRELATION = WIDE MARKET": **it is the print of a $300 BILLION AUTOCALLABLE BOOK.** And McElligott independently names the CROWD-OUT — in the credit market — with **total corporate issuance +61% y/y and AI/hyperscaler/datacentre financing at $269B YTD, ~12× the 2015-24 annual average**
+Source: Jake's paste of the ZeroHedge headline + quoted issuance line, 2026-08-15 ~8:20pm PDT, **verified by
+WebSearch**. ⚠️ **ARTIFACT TEST: a ZeroHedge headline plus search-result summaries of the McElligott note and
+a Substack write-up. THE PRIMARY NOMURA NOTE WAS NOT READ.** Router: **VOL(5)** — the thread added as map
+gap #22 on 8/13, earning its keep.
+
+#### DATA (REPORTED — search summaries; primary note not obtained)
+- **AI / HYPERSCALER / DATACENTRE ISSUANCE (IG + LOANS): ≈$269 BILLION YTD — roughly 12× THE ANNUAL AVERAGE
+  OF THE ENTIRE 2015-2024 PERIOD, AND ALREADY 2× ALL OF 2025.** ⇒ implied series: **2015-24 average ≈$22B/yr
+  → 2025 ≈$135B → 2026 YTD $269B, annualising to ≈$430B.** ⇒ **2025 was 6× the prior decade's average;
+  2026 is annualising at ~3.2× 2025.**
+- **TOTAL CORPORATE DEBT ISSUANCE RUNNING +61% YEAR ON YEAR** — McElligott's own framing is *"supply and
+  crowding-out."*
+- **THE $300B IS THE AUTOCALLABLE COMPLEX:** *"a $300 billion autocallable complex has quietly changed the
+  shape of equity volatility"*; **Asian "WORST-OF" autocallables feeding substantial SHORT-DATED VOLATILITY
+  SUPPLY into the same high-beta names.** Framing: **"grind lower, gap higher."**
+- **His stated conclusion, and it is disciplined: *"not that the market is about to crack, but that THE NEXT
+  MOVE MAY BEHAVE VERY DIFFERENTLY FROM THE LAST ONE."*** **A SHAPE claim, not a direction claim.**
+
+#### THESIS (interpretation — NOT fact)
+- **⭐⭐⭐ THIS IS THE THIRD STRIKE ON THE INFERENCE ROBERTS AND RUBNER MADE THIS MORNING, AND IT IS THE
+  DECISIVE ONE BECAUSE IT SUPPLIES THE MECHANISM AND THE SIZE. Their claim: *"cross-stock correlation sits
+  near record lows, indicating a WIDE market, not a narrow pocket of leadership."*** **THE CHAIN: banks sell
+  worst-of autocallables → to hedge they are SHORT SINGLE-NAME VOLATILITY against the index → that is a SHORT
+  CORRELATION position → and it mechanically SUPPRESSES IMPLIED CORRELATION.** ⇒ **THE CBOE IMPLIED
+  CORRELATION PRINT OF 8.7-9.93 — LOWEST IN 23+ YEARS — IS THE FOOTPRINT OF A $300 BILLION DEALER HEDGING
+  BOOK, NOT A MEASUREMENT OF ECONOMIC DIVERSIFICATION.** ⇒ **The three strikes, in order: (1) Jake's
+  fundamental argument — shared upstream customer, ~11:23am; (2) the structural one — dispersion suppresses
+  index vol "almost mechanically," ~2:02pm; (3) NOW: a named strategist, a named instrument and a size.**
+  ⇒ **A market-structure artifact was being read as evidence about the economy.** *(Analysis. ⚠️ The hedging
+  chain is my inference from the standard autocallable mechanic; the SIZE and the INSTRUMENT are sourced,
+  the transmission to implied correlation is not stated in what I read.)*
+- **★★★★★ AND "GRIND LOWER, GAP HIGHER" INVERTS THE NORMAL EQUITY-VOL ASYMMETRY, WHICH IS WHY IT MATTERS
+  MORE THAN A DIRECTIONAL CALL. Equities normally grind HIGHER and gap LOWER — that asymmetry is what every
+  put-based hedge and every vol-targeting model is calibrated on.** ⇒ **AN INVERTED SHAPE MEANS THE HEDGES
+  ARE MISPRICED FOR THE PATH, not that the path is bearish.** ⇒ **And it is a WARNING-vs-TRIGGER-compliant
+  claim from a sell-side strategist: he explicitly declines to say it cracks, and says only that the NEXT
+  MOVE HAS A DIFFERENT SHAPE.** *(Analysis.)*
+- **⭐⭐⭐ AND HE INDEPENDENTLY NAMES THE CROWD-OUT — IN THE CREDIT MARKET. HIS OWN WORD IS "CROWDING-OUT,"
+  WITH TOTAL CORPORATE ISSUANCE +61% Y/Y.** ⇒ **FOURTH INDEPENDENT ARRIVAL AT THE SAME MECHANISM TODAY:
+  MEMORY (Apple's named margin headwind) · EQUIPMENT (transformer and switchgear queues) · PROJECT FINANCE
+  (Jake's "or financing pulled back") · AND NOW CORPORATE BOND ISSUANCE (McElligott).** ⇒ **Four different
+  markets, four different observers, one mechanism — and none of them cite each other.** *(Analysis.)*
+- **★★★★★★ AND THE ISSUANCE NUMBER IS THE MOST ALARMING SINGLE FIGURE FILED TODAY, BECAUSE IT IS A VERTICAL
+  LINE IN A CREDIT SERIES: ~$22B/yr average across a DECADE → ~$135B in 2025 → ~$430B annualising in 2026.**
+  ⇒ **AND IT CROSS-CHECKS THIS MORNING'S CREDIT WORK IN THE WORST DIRECTION. JunkBondInvestor (8/9, filed
+  12:36am today) had "~$250B for 2026, street pencilling ~$400B for NEXT year." THE 2026 RUN-RATE IS ALREADY
+  AT THE STREET'S 2027 NUMBER.** ⇒ **His supply-elasticity estimate was ~$75B of UNEXPECTED supply moving
+  the complex ~15bp; a $180B overshoot is ~2.4 of those units.** ⇒ **THE 30-50bp SUPPLY RE-RATING HE
+  PROJECTED FOR 2027 MAY BE HAPPENING IN 2026.** *(Analysis.)*
+- **⚠️ AND THE DISCIPLINE THAT STOPS ME OVER-READING IT: "$269B, IG + LOANS" MAY BE A BROADER INSTRUMENT
+  THAN JBI's "$250B."** **Loans versus bonds, and possibly a wider issuer definition.** ⇒ **DO NOT TREAT
+  THEM AS THE SAME SERIES UNTIL THE DEFINITIONS MATCH. This is the session's dominant error class and it has
+  cost me four corrections in three days.** ⬜ **Registered rather than asserted.** *(Analysis.)*
+- **⇒ AND IT CLOSES TODAY'S ARC WITH THE FINANCING LEG THE MORNING WORK PREDICTED. The 12:36am entry filed
+  the hyperscaler complex at 3% → 6% of the IG index in a year with Amazon the fifth-largest issuer. THIS
+  SAYS THE FLOW BEHIND THAT STOCK IS RUNNING AT 12× ITS DECADE AVERAGE.** ⇒ **Jake's "the hyperscalers won't
+  stop regardless of spreads" is not a prediction. IT IS A DESCRIPTION OF A SERIES THAT HAS ALREADY GONE
+  VERTICAL WHILE SPREADS WIDENED 20bp+ AND CONCESSIONS WENT DOUBLE-DIGIT.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **RECONCILE THE ISSUANCE DEFINITIONS: is "$269B IG + loans" the same universe as JBI's "$250B"?**
+   **If yes, the 2026 projection has been exceeded by ~72% with 4.5 months to run.**
+2. 🚩🚩 **THE PRIMARY McELLIGOTT NOTE** — the autocallable→implied-correlation transmission is MY inference,
+   not something I read. **Get the note or drop the mechanism.**
+3. 🚩🚩 **CBOE COR1M AGAINST AUTOCALLABLE ISSUANCE, monthly.** **If correlation is the print of the book, the
+   two series should move together — and that is a falsifiable test of the whole "it's dispersion, not
+   diversification" claim.**
+4. ⬜ **The post-Labor-Day calendar ($50-60B queued, some issuers "asked to wait") against the ~15bp/$75B
+   elasticity** — a live, dated test of the supply-re-rating estimate.
+**Links:** [[new-economy-regime]] · [[ai-financing-fragility]] · [[ai-capex-cycle]] · [[detachment-bid]]
