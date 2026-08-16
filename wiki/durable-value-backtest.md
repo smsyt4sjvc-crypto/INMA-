@@ -93,6 +93,48 @@ FASTER THAN ~17%/YEAR."** The simulated values reproduce the observed bucket med
 buying slow growers and shorting fast growers inside the cheap cohort over 2017–2026. JAKE'S ACTUAL
 HYPOTHESIS REMAINS UNTESTED — the instrument never measured it.**
 
+## ★★★ DATA — THE CORRECTED TESTS. TWO INDEPENDENT ROUTES, RUN 2026-08-16 ~1:15pm PDT
+The growth confound is removed two different ways. **Agreement between them is the point** — either
+alone is one specification.
+
+**ROUTE 1 — TREND-FITTED durability.** TTM ÷ the value its OWN log-linear trend predicts. Validated on
+synthetic series FIRST: a steady compounder scores **1.00 at 5%, 17%, 27% and 45%/yr alike** (the median
+version gave 1.16 / 1.60 / 2.03 / 3.00), and a 10%/yr grower carrying a 1.3× / 1.8× / 2.5× one-off scores
+**1.30 / 1.80 / 2.50**. It reads the deviation itself. On-trend = 0.75–1.35.
+
+| formation | SPY | cheap | ON-TREND n | spread | ABOVE-TREND n | spread | diff |
+|---|---|---|---|---|---|---|---|
+| 2017-08-15 | +36.6% | 55 | 39 | −33.0% | 8 | +5.0% | **−38.0** |
+| 2018-08-15 | +58.3% | 53 | 19 | −20.5% | 31 | −32.7% | +12.2 |
+| 2019-08-15 | +50.7% | 56 | 30 | −4.4% | 16 | +32.6% | **−37.0** |
+| 2020-08-14 | +33.0% | 53 | 27 | +21.1% | 12 | −13.3% | +34.4 |
+| 2021-08-16 | +23.7% | 53 | 26 | −2.4% | 25 | −17.1% | +14.6 |
+| 2022-08-15 | +50.0% | 52 | 27 | −13.3% | 24 | −37.1% | +23.8 |
+| 2023-08-15 | +75.3% | 57 | 31 | −10.1% | 20 | −4.8% | −5.3 |
+
+- **ON-TREND minus ABOVE-TREND: mean +0.7pp · median +12.2pp · wins 4 of 7.**
+- **⛔ stdev of the date-level effect is 28.7pp — FORTY-THREE TIMES the mean. 95% band −21.0 to +22.4pp,
+  straddling zero. Leave-one-out runs −4.9pp to +7.1pp and flips the sign.** That is the signature of
+  noise, not of a small effect.
+
+**ROUTE 2 — the ORIGINAL median measure, split WITHIN growth terciles** so the two groups are matched on
+EPS CAGR. **This is the cleaner falsification: it does not depend on the new instrument at all.**
+
+| growth band | dates | mean | median | durable wins |
+|---|---|---|---|---|
+| low-g | 7 | −3.1% | +4.2% | 4/7 |
+| mid-g | 6 | **−14.0%** | −9.6% | **1/6** |
+| high-g | 7 | −4.7% | −8.2% | 2/7 |
+| **ALL** | **20** | **−6.9%** | −3.3% | **7 of 20** |
+
+- **⇒ HOLDING GROWTH CONSTANT DOES NOT RESCUE THE HYPOTHESIS — it makes it slightly worse.** The growth
+  confound was NOT masking a real effect underneath.
+
+**★★★ THE ANSWER, WITH A PROPERLY-SPECIFIED INSTRUMENT AND TWO INDEPENDENT ROUTES: NOT SUPPORTED.**
+Buying cheap stocks whose earnings sit ON their own trend did NOT beat buying cheap stocks whose earnings
+sat ABOVE it, over 3-year holds, 2017–2026, at ~50 names per date. One route lands on zero, the other
+mildly negative. **Neither can reject "no effect," and route 2 leans against.**
+
 ## ★★★ DATA — WHAT *IS* ROBUST: CHEAPNESS ITSELF LOST
 - **BOTH halves of the cheap cohort underperformed SPY.** Mean 3-year spread vs SPY:
   **durable-E −11.9% · spiky-E −6.9%**, across 7 formation dates at ~55 names per date.
@@ -143,12 +185,22 @@ HYPOTHESIS REMAINS UNTESTED — the instrument never measured it.**
 **Every company with a negative latest annual EPS was being dropped by an exception, not by a filter.**
 
 ## THESIS (interpretation — NOT fact)
-- ***(⛔ THE VERDICT, AND IT IS NOT THE ONE THE RUN APPEARED TO GIVE)*** **The instrument was wrong, so the
-  result is void — in BOTH directions.** The +22.4pp headline was one stock; the −5.0pp isolation figure
-  is an inverted growth screen. **Neither number says anything about whether inflated trailing earnings
-  are a trap. Jake's hypothesis is UNTESTED, not disproven.** ⚠️ **The dangerous version of this note is
-  the one that reports −5.0pp as "we tested it and it does not work."** Measuring the wrong thing
-  precisely is worse than not measuring, because it produces a number, and numbers get quoted.
+- ***(⛔ THE VERDICT — and note it took THREE instruments to earn it)*** The +22.4pp headline was one
+  stock. The −5.0pp isolation figure was an inverted growth screen. **Only the trend-fitted and
+  growth-matched routes measure the actual claim, and both find NOTHING: +0.7pp and −6.9pp.**
+  ⇒ **JAKE'S HYPOTHESIS IS NOT SUPPORTED AT THIS HORIZON.** Not "unmeasurable," not "needs more work" —
+  measured twice, properly, and the effect is not there.
+- ***(⚠️ what "not supported" does and does not mean)*** It does NOT mean peak earnings are not a trap for
+  an individual name — **REGN and MPC are real and verifiable.** It means the trap cannot be harvested
+  MECHANICALLY from a ratio at a 3-year horizon. Those are different claims and the note keeps them apart.
+- ***(the most likely reason, and it is not flattering to the screen)*** **If a low multiple on inflated
+  earnings were reliably a trap, the multiple would not be low.** It would be lower still, or the name
+  would already be priced on normalised earnings. The screen is hunting a free lunch in **the single most
+  scrutinised ratio in finance**, using only inputs every terminal has had for thirty years. **The prior
+  should have been that it is already in the price — and the result is consistent with that prior.**
+- ***(⚠️ the honest limit on the negative result)*** n = 7 formation dates. A 95% band of −21 to +22pp
+  cannot rule out an effect of ±20pp. **This is "no evidence for," not "proof against."** What it does
+  rule out is a LARGE, RELIABLE effect — which is what a mechanical screen would need to be worth running.
 - ***(why a flat median cannot detect a spike)*** A median is a **level** statistic applied to a series
   with a **trend**. On any compounding series the median sits ~3 years back, so `TTM ÷ median` measures
   how far the company has travelled, not how far it has deviated. **To detect a deviation you need a
