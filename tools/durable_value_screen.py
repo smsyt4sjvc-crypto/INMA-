@@ -76,16 +76,14 @@ from datetime import datetime, timezone
 from statistics import median
 
 # ----------------------------------------------------------------- PARAMETERS
-FORMATION = "2021-08-16"      # 5 years back
-HOLD_END  = "2026-08-14"      # last completed session
 SEC_UA    = {"User-Agent": "INMA Research contact@example.com"}   # SEC requires a real UA
 YF_UA     = {"User-Agent": "Mozilla/5.0"}
 
-PE_MAX          = 15.0    # "low P/E"
+PE_PCTILE       = 0.20    # "low P/E" = bottom quintile OF THE DATE'S OWN CROSS-SECTION
 DURABLE_LO      = 0.70    # TTM EPS must be >= 0.70x the multi-year median  (not collapsed)
 DURABLE_HI      = 1.60    # ...and <= 1.60x                                  (not a spike)
 MIN_YEARS       = 4       # need this many annual EPS prints for a median to mean anything
-MAX_DEBT_EQUITY = 1.50    # balance sheet
+MIN_EQUITY_ASSETS = 0.30  # equity as a share of assets -- see the note on total_debt()
 MIN_CURRENT     = 1.00    # current ratio
 REQUIRE_SMA     = True    # price above BOTH the 50d and 200d at formation
 MAX_TTM_STALE   = 200     # days: a TTM built from a bare annual older than this is unusable
@@ -337,80 +335,125 @@ def ttm_eps(facts, asof, splits=()):
     return val, hist, method, stale
 
 
-def instant(facts, tags, asof):
+MAX_BS_AGE = 200          # days: a balance sheet older than this is not a balance sheet
+
+
+def instant(facts, tags, asof, max_age=MAX_BS_AGE):
     """Latest balance-sheet value as of a date, point-in-time. Balance-sheet
-    facts are INSTANTS: they carry an `end` and no `start`."""
+    facts are INSTANTS: they carry an `end` and no `start`.
+
+    ⛔⛔ STALE REFERENCE VALUE — THE THIRD INSTANCE OF THIS ERROR CLASS IN THREE
+    DAYS, and the first two were `meta.chartPreviousClose` (8/14, every sign in a
+    published market table wrong) and a rejection computed off a 2024 denominator
+    (8/14). Same shape every time: THE VALUE IS CORRECT AND THE DATE IS NOT.
+
+    The defect here: this returned the newest fact carrying a tag, however old
+    that was. FILERS ABANDON TAGS. Marathon Petroleum last used
+    `LongTermDebtNoncurrent` on 2012-03-31; the screen cheerfully reported a
+    NINE-YEAR-OLD figure as its 2021 debt and computed a leverage ratio of 0.11
+    from it. Ford's last use was a $0.29B fragment while its actual borrowings
+    sit under a tag this list never checked.
+
+    ⇒ A FACT MUST BE REJECTED ON AGE, NOT JUST ON FILING ORDER. `max_age` is the
+      gate, and it protects every instant read here -- equity, current assets and
+      current liabilities were all exposed to exactly the same failure.
+    """
     us = facts.get("facts", {}).get("us-gaap", {})
     for tag in tags:
         node = us.get(tag)
         if not node:
             continue
-        for unit in ("USD",):
-            rows = [u for u in node.get("units", {}).get(unit, [])
-                    if u.get("filed") and u["filed"] < asof and u.get("val") is not None
-                    and not u.get("start")]
-            if rows:
-                rows.sort(key=lambda r: (r["end"], r["filed"]))
-                return rows[-1]["val"]
+        rows = [u for u in node.get("units", {}).get("USD", [])
+                if u.get("filed") and u["filed"] < asof and u.get("val") is not None
+                and not u.get("start") and _days(u["end"], asof) <= max_age]
+        if rows:
+            rows.sort(key=lambda r: (r["end"], r["filed"]))
+            return rows[-1]["val"]
     return None
+
+
+
+def total_debt(facts, asof):
+    """INTEREST-BEARING DEBT, not the whole right-hand side of the balance sheet.
+
+    ⛔ THE ERROR THIS REPLACES, and it is MY error, not EDGAR's: the first run
+    computed leverage as `Liabilities / StockholdersEquity`. `Liabilities` is
+    EVERYTHING a company owes -- accounts payable, deferred revenue, pension,
+    lease, tax. A perfectly ordinary industrial runs 1.5-2.5x on that measure
+    with no borrowings at all. Gating it at 1.50 cut 14 of the 26 names that had
+    survived the P/E gate, which is not a balance-sheet test, it is a business-
+    model test that happens to punish anyone with working capital.
+    ⇒ INSTRUMENT MISMATCH, the same class that has burned this vault repeatedly:
+      the right number for the wrong instrument. Leverage means BORROWINGS.
+
+    ⚠️ AND THE REASON THE SCREEN DOES NOT ULTIMATELY GATE ON THIS: even with the
+    staleness fix, XBRL debt tagging is too inconsistent to compare across the
+    universe. Measured coverage at 2021-08-16: `LongTermDebt` 85% of names,
+    `LongTermDebtNoncurrent` 72%, `LongTermDebtAndCapitalLeaseObligations` 44%.
+    Chevron reads 0.03, General Motors and Ford read nothing at all -- their
+    borrowings sit in captive-finance tags this list never sees. A gate that can
+    only measure 60% of the field does not screen out the levered; it screens out
+    THE ONES THAT HAPPEN TO TAG THEIR DEBT, which is not a financial property.
+    ⇒ THE GATE USES EQUITY/ASSETS INSTEAD: 100% tagged, unambiguous, identical in
+      meaning at every formation date. It counts operating liabilities as well as
+      borrowings, so it is a blunter instrument -- but it is applied IDENTICALLY
+      to the naive and durable groups, and an identical blunt gate cannot bias a
+      COMPARISON. A gate with holes can. Debt/equity is still reported where it
+      is measurable, as information, never as a filter.
+    """
+    long_ = instant(facts, ["LongTermDebtAndCapitalLeaseObligations",
+                            "LongTermDebtNoncurrent", "LongTermDebt",
+                            "DebtLongtermAndShorttermCombinedAmount"], asof)
+    short = instant(facts, ["LongTermDebtAndCapitalLeaseObligationsCurrent",
+                            "LongTermDebtCurrent", "DebtCurrent",
+                            "ShortTermBorrowings"], asof)
+    if long_ is None and short is None:
+        return None
+    return (long_ or 0.0) + (short or 0.0)
+
+
+def equity(facts, asof):
+    """⚠️ Johnson & Johnson does not tag `StockholdersEquity` at all -- it uses
+    the including-noncontrolling-interests variant. A single-tag lookup returned
+    None and the leverage gate then passed the name by default."""
+    return instant(facts, ["StockholdersEquity",
+                           "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest"],
+                   asof)
 
 
 # --------------------------------------------------------------- THE SCREEN
 GATES = ["no price", "no facts", "no EPS", "TTM stale", "TTM<=0", "too few years"]
 
 
-def evaluate(ticker, cik, funnel):
-    px = prices(ticker)
-    if len(px) < 300:
-        funnel["no price"] += 1
-        return None
-    p0  = px_on(px, FORMATION)                # adjusted -> for the RETURN
-    p1  = px_on(px, HOLD_END)
-    p0t = px_on(px, FORMATION, traded=True)   # as-traded -> for the P/E
+def evaluate(ticker, facts, px, splits, formation, hold_end, funnel):
+    """One name, one formation date. `facts`/`px` are passed in so a multi-date
+    run loads each 5-80MB companyfacts blob ONCE instead of once per date."""
+    p0  = px_on(px, formation)                 # adjusted -> for the RETURN
+    p1  = px_on(px, hold_end)
+    p0t = px_on(px, formation, traded=True)    # as-traded -> for the P/E
     if not p0 or not p1 or not p0t:
         funnel["no price"] += 1
         return None
 
-    facts = edgar_facts(cik)
-    if not facts:
-        funnel["no facts"] += 1
-        return None
-
-    ttm, ann, method, stale = ttm_eps(facts, FORMATION, splits_of(ticker))
+    ttm, ann, method, stale = ttm_eps(facts, formation, splits)
     if ttm is None:
-        funnel["no EPS"] += 1
-        return None
+        funnel["no EPS"] += 1;        return None
     if stale is not None and stale > MAX_TTM_STALE:
-        funnel["TTM stale"] += 1
-        return None
+        funnel["TTM stale"] += 1;     return None
     if ttm <= 0:
-        funnel["TTM<=0"] += 1
-        return None
+        funnel["TTM<=0"] += 1;        return None
     if len(ann) < MIN_YEARS:
-        funnel["too few years"] += 1
-        return None
+        funnel["too few years"] += 1; return None
 
-    pe  = p0t / ttm                              # AS-TRADED price over AS-FILED EPS
     med = median(ann[-6:])                       # multi-year normal
     if not med or med <= 0:
-        funnel["too few years"] += 1
-        return None
-    durability = ttm / med
+        funnel["too few years"] += 1; return None
 
-    eq  = instant(facts, ["StockholdersEquity"], FORMATION)
-    lia = instant(facts, ["Liabilities"], FORMATION)
-    if lia is None:
-        # many filers never tag `Liabilities`; derive it rather than let the
-        # balance-sheet gate silently pass on a missing value
-        tot = instant(facts, ["LiabilitiesAndStockholdersEquity", "Assets"], FORMATION)
-        if tot is not None and eq is not None:
-            lia = tot - eq
-    ca = instant(facts, ["AssetsCurrent"], FORMATION)
-    cl = instant(facts, ["LiabilitiesCurrent"], FORMATION)
-    de = (lia / eq) if (eq and eq > 0 and lia is not None) else None
-    cr = (ca / cl) if (cl and cl > 0 and ca is not None) else None
-
-    s50, s200 = sma(px, FORMATION, 50), sma(px, FORMATION, 200)
+    eq = equity(facts, formation)
+    dbt = total_debt(facts, formation)
+    assets = instant(facts, ["Assets", "LiabilitiesAndStockholdersEquity"], formation)
+    ca = instant(facts, ["AssetsCurrent"], formation)
+    cl = instant(facts, ["LiabilitiesCurrent"], formation)
 
     # 3-year EPS CAGR off the ANNUAL prints.
     # ⚠️ Guarded on BOTH endpoints being positive: Python returns a COMPLEX
@@ -419,32 +462,34 @@ def evaluate(ticker, cik, funnel):
     growth = None
     if len(ann) >= 4 and ann[-4] > 0 and ann[-1] > 0:
         growth = (ann[-1] / ann[-4]) ** (1 / 3) - 1
-    g_ttm = None
-    if len(ann) >= 4 and ann[-4] > 0:
-        g_ttm = (ttm / ann[-4]) ** (1 / 3) - 1        # ttm is >0 by the gate above
 
+    s50, s200 = sma(px, formation, 50), sma(px, formation, 200)
     return dict(
-        ticker=ticker, pe=pe, ttm=ttm, med=med, durability=durability, method=method,
-        stale=stale, de=de, cr=cr,
+        ticker=ticker, pe=p0t / ttm, ttm=ttm, med=med, durability=ttm / med,
+        method=method, stale=stale,
+        de=((dbt / eq) if (eq and eq > 0 and dbt is not None) else None),
+        eq_assets=((eq / assets) if (assets and assets > 0 and eq is not None) else None),
+        cr=((ca / cl) if (cl and cl > 0 and ca is not None) else None),
         above50=(s50 is not None and p0 > s50),
         above200=(s200 is not None and p0 > s200),
-        no_loss=all(e > 0 for e in ann[-3:]), growth=growth, g_ttm=g_ttm,
-        ann=ann, p0=p0t, p1=p1, ret=(p1 / p0 - 1),
+        no_loss=all(e > 0 for e in ann[-3:]), growth=growth,
+        ret=(p1 / p0 - 1),
     )
 
 
 CUTS = ["P/E", "prior loss", "SMA", "D/E", "current", "growth", "durability"]
 
 
-def passes(r, use_durability, cuts=None):
+def passes(r, pe_cut, use_durability, cuts=None):
     def cut(name):
         if cuts is not None:
             cuts[name] += 1
         return False
-    if r["pe"] > PE_MAX:                                     return cut("P/E")
+    if r["pe"] > pe_cut:                                     return cut("P/E")
     if not r["no_loss"]:                                     return cut("prior loss")
     if REQUIRE_SMA and not (r["above50"] and r["above200"]): return cut("SMA")
-    if r["de"] is not None and r["de"] > MAX_DEBT_EQUITY:    return cut("D/E")
+    if r["eq_assets"] is None or r["eq_assets"] < MIN_EQUITY_ASSETS:
+        return cut("D/E")
     if r["cr"] is not None and r["cr"] < MIN_CURRENT:        return cut("current")
     if r["growth"] is None or r["growth"] <= 0:              return cut("growth")
     if use_durability and not (DURABLE_LO <= r["durability"] <= DURABLE_HI):
@@ -452,40 +497,47 @@ def passes(r, use_durability, cuts=None):
     return True
 
 
+def pctile(vals, q):
+    v = sorted(vals)
+    if not v:
+        return None
+    i = max(0, min(len(v) - 1, int(round(q * (len(v) - 1)))))
+    return v[i]
+
+
 # --------------------------------------------------------------------- VERIFY
 VERIFY = ["CVX", "VLO", "MPC", "GM", "F", "JNJ", "PG", "CSCO", "MU", "AAPL"]
 
 
-def verify():
-    """Print the full workings for known names. ⛔ THIS MODE IS NOT OPTIONAL --
-    the previous version of this file produced a complete, plausible, WRONG
-    result set, and the only thing that caught it was reading ten numbers by hand."""
+def verify(formation=None):
+    """Print the full workings for known names. ⛔ NOT OPTIONAL -- the first
+    version of this file produced a complete, plausible, WRONG result set, and
+    the only thing that caught it was reading ten numbers by hand."""
+    formation = formation or FORMATIONS[-1][0]
     cikmap = sp500_tickers()
-    print("=" * 96)
-    print("  HAND-VERIFY — EPS construction at formation", FORMATION)
-    print("=" * 96)
+    print("=" * 100)
+    print("  HAND-VERIFY — EPS construction at formation", formation)
+    print("=" * 100)
     print(f"  {'tkr':<6}{'as-traded':>10}{'TTM EPS':>9}{'P/E':>8}{'method':>8}{'stale':>7}"
-          f"{'splt':>6}{'dur':>7}  annual EPS history (oldest -> newest)")
+          f"{'splt':>6}{'dur':>7}{'D/E':>7}  annual EPS history (oldest -> newest)")
     for t in VERIFY:
         cik = cikmap.get(t)
-        if not cik:
-            print(f"  {t:<6}  no CIK")
-            continue
-        facts, px = edgar_facts(cik), prices(t)
+        facts, px = (edgar_facts(cik) if cik else None), prices(t)
         if not facts or not px:
             print(f"  {t:<6}  no data")
             continue
-        sp = [s for s in splits_of(t) if s[0] <= FORMATION]
-        ttm, ann, method, stale = ttm_eps(facts, FORMATION, splits_of(t))
-        p0t = px_on(px, FORMATION, traded=True)
+        sp = [s for s in splits_of(t) if s[0] <= formation]
+        ttm, ann, method, stale = ttm_eps(facts, formation, splits_of(t))
+        p0t = px_on(px, formation, traded=True)
         pe = (p0t / ttm) if (ttm and ttm > 0) else float("nan")
         med = median(ann[-6:]) if ann else None
         dur = (ttm / med) if (ttm and med and med > 0) else float("nan")
+        eq, dbt = equity(facts, formation), total_debt(facts, formation)
+        de = (dbt / eq) if (eq and eq > 0 and dbt is not None) else float("nan")
         print(f"  {t:<6}{p0t:>10.2f}{(ttm if ttm else float('nan')):>9.2f}{pe:>8.1f}"
               f"{method:>8}{(stale if stale is not None else -1):>7}"
-              f"{(f'{len(sp)}' if sp else '-'):>6}{dur:>7.2f}  "
+              f"{(f'{len(sp)}' if sp else '-'):>6}{dur:>7.2f}{de:>7.2f}  "
               f"{[round(a, 2) for a in ann[-6:]]}")
-        time.sleep(0.1)
     print("\n  TWO THINGS TO READ, and they are the two bugs that got through before:")
     print("  1. The annual history must be YEARS, not quarters. Consecutive small")
     print("     numbers of quarterly magnitude = bug A is back.")
@@ -494,77 +546,133 @@ def verify():
 
 
 # ----------------------------------------------------------------------- MAIN
-def main(limit=None):
-    print("=" * 96)
-    print("  DURABLE-VALUE SCREEN — point-in-time, formation", FORMATION, "-> hold to", HOLD_END)
-    print("=" * 96)
-    print("  ⚠️ SURVIVORSHIP: universe is TODAY'S listed set. Companies that failed or")
-    print("     were acquired since 2021 are ABSENT. Every return here is biased UP.")
-    print("     READ THE SPREAD vs SPY, NEVER THE ABSOLUTE NUMBER.")
-    print("  ✓ LOOK-AHEAD: every fundamental is filtered on EDGAR's `filed` date.")
-    print("  ✓ EPS periods are classified by DATE SPAN, never by form/fp label.\n")
-
-    spx = prices("SPY")
-    b0, b1 = px_on(spx, FORMATION), px_on(spx, HOLD_END)
-    bench = b1 / b0 - 1
-    print(f"  SPY {b0:.2f} -> {b1:.2f} = {bench:+.1%} over the window (price only, no dividends)\n")
-
-    tickers = UNIVERSE[:limit] if limit else UNIVERSE
-    cikmap = sp500_tickers()
-    funnel = {k: 0 for k in GATES}
-    funnel["no CIK"] = 0
-    rows = []
+def load_all(tickers, cikmap):
+    """Load every blob ONCE. This is what makes the multi-date run affordable:
+    the EDGAR facts contain the FULL history, so changing the formation date
+    changes only the `filed <` filter -- no new network at all."""
+    store = {}
     for i, t in enumerate(tickers, 1):
         cik = cikmap.get(t)
         if not cik:
-            funnel["no CIK"] += 1
             continue
+        px = prices(t)
+        if len(px) < 300:
+            continue
+        f = edgar_facts(cik)
+        if not f:
+            continue
+        store[t] = (f, px, splits_of(t))
+        if i % 50 == 0:
+            print(f"    loaded {i}/{len(tickers)} …", flush=True)
+    return store
+
+
+def run_one(store, formation, hold_end, verbose=True):
+    """One formation date. Returns {label: (spread, n, mean, beat)}."""
+    b = prices("SPY")
+    b0, b1 = px_on(b, formation), px_on(b, hold_end)
+    if not b0 or not b1:
+        return {}
+    bench = b1 / b0 - 1
+
+    funnel = {k: 0 for k in GATES}
+    rows = []
+    for t, (facts, px, sp) in store.items():
         try:
-            r = evaluate(t, cik, funnel)
+            r = evaluate(t, facts, px, sp, formation, hold_end, funnel)
         except Exception as exc:                       # noqa: BLE001
-            print(f"    ⚠️ {t}: {type(exc).__name__} {exc}")
+            print(f"    ⚠️ {t} @ {formation}: {type(exc).__name__} {exc}")
             r = None
         if r:
             rows.append(r)
-        if i % 40 == 0:
-            print(f"    ...{i}/{len(tickers)} processed, {len(rows)} with usable data")
-        time.sleep(0.05)
 
-    print(f"\n  UNIVERSE {len(tickers)} -> USABLE {len(rows)}")
-    print("  dropped: " + " · ".join(f"{k} {v}" for k, v in funnel.items() if v))
-    meth = {}
-    for r in rows:
-        meth[r["method"]] = meth.get(r["method"], 0) + 1
-    print("  TTM method: " + " · ".join(f"{k} {v}" for k, v in sorted(meth.items())))
+    # CHEAPNESS IS CROSS-SECTIONAL, NOT ABSOLUTE.
+    # ⛔ The first run gated at an absolute P/E of 15 and cut 149 of 175 names.
+    #   A fixed multiple is not a cheapness test, it is a bet on the ERA: 15x is
+    #   near the median in 2011 and near the bottom decile in 2021. Gate on the
+    #   universe's OWN distribution so the screen means the same thing at every
+    #   formation date -- which is the entire point of running more than one.
+    pe_cut = pctile([r["pe"] for r in rows], PE_PCTILE)
+    out = {}
+    if verbose:
+        print(f"\n  ── FORMATION {formation} -> {hold_end}   "
+              f"SPY {bench:+.1%}   usable {len(rows)}   "
+              f"cheap-cut P/E ≤ {pe_cut:.1f} (bottom {PE_PCTILE:.0%})")
+        print("     dropped: " + " · ".join(f"{k} {v}" for k, v in funnel.items() if v))
 
-    results = {}
-    for label, use_dur in (("NAIVE CHEAP (no durability filter)", False),
-                           ("DURABLE CHEAP (Jake's full spec)", True)):
+    for label, use_dur in (("NAIVE  ", False), ("DURABLE", True)):
         cuts = {k: 0 for k in CUTS}
-        sel = [r for r in rows if passes(r, use_dur, cuts)]
-        print("\n" + "-" * 96)
-        print(f"  {label}   n={len(sel)}")
-        print("    cut by: " + " · ".join(f"{k} {v}" for k, v in cuts.items() if v))
+        sel = [r for r in rows if passes(r, pe_cut, use_dur, cuts)]
         if not sel:
-            print("    no names passed")
+            if verbose:
+                print(f"     {label}  n=0   cut by: "
+                      + " · ".join(f"{k} {v}" for k, v in cuts.items() if v))
+            out[label.strip()] = None
             continue
         rets = [r["ret"] for r in sel]
-        avg, med_r = sum(rets) / len(rets), median(rets)
-        win = sum(1 for x in rets if x > bench) / len(rets)
-        results[label] = (avg, med_r, win, len(sel))
-        print(f"    mean {avg:+.1%} · median {med_r:+.1%} · vs SPY {bench:+.1%} "
-              f"· spread {avg-bench:+.1%} · beat-rate {win:.0%}")
-        print(f"    {'tkr':<7}{'P/E':>7}{'dur':>7}{'D/E':>7}{'g3y':>8}{'5y return':>11}")
-        for r in sorted(sel, key=lambda x: -x["ret"]):
-            print(f"    {r['ticker']:<7}{r['pe']:>7.1f}{r['durability']:>7.2f}"
-                  f"{(r['de'] if r['de'] else 0):>7.2f}{r['growth']:>7.1%}{r['ret']:>+11.1%}")
+        avg = sum(rets) / len(rets)
+        beat = sum(1 for x in rets if x > bench) / len(rets)
+        out[label.strip()] = (avg - bench, len(sel), avg, beat)
+        if verbose:
+            print(f"     {label}  n={len(sel):<3} mean {avg:+7.1%}  vs SPY {bench:+7.1%}  "
+                  f"spread {avg-bench:+7.1%}  beat {beat:.0%}   "
+                  + " ".join(sorted(r["ticker"] for r in sel))[:88])
+    return out
 
-    print("\n" + "=" * 96)
-    print("  THE COMPARISON IS THE RESULT. If DURABLE does not beat NAIVE, the")
-    print("  durability filter is not doing work and the idea is wrong — say so.")
-    print("=" * 96)
-    return results
 
+def main():
+    print("=" * 100)
+    print("  DURABLE-VALUE SCREEN — point-in-time, MULTIPLE FORMATION DATES")
+    print("=" * 100)
+    print("  ⚠️ SURVIVORSHIP: the universe is TODAY'S listed set, at EVERY formation date.")
+    print("     Companies that failed or were acquired are ABSENT from all of them.")
+    print("     READ THE SPREAD BETWEEN THE TWO SCREENS, never the absolute return —")
+    print("     the bias hits NAIVE and DURABLE alike and largely cancels in the difference.")
+    print("  ✓ LOOK-AHEAD: every fundamental filtered on EDGAR's `filed` date.")
+    print("  ✓ EPS periods classified by DATE SPAN, never by form/fp label.")
+    print("  ✓ CHEAPNESS is a percentile of each date's own cross-section, not a fixed multiple.")
+    print("  ✓ LEVERAGE is interest-bearing debt / equity, not total liabilities / equity.\n")
+
+    cikmap = sp500_tickers()
+    print(f"  loading {len(UNIVERSE)} names (cached after the first run) …")
+    store = load_all(UNIVERSE, cikmap)
+    print(f"  loaded {len(store)} with both price and filing history\n")
+
+    agg = {"NAIVE": [], "DURABLE": []}
+    for formation, hold_end in FORMATIONS:
+        res = run_one(store, formation, hold_end)
+        for k, v in res.items():
+            if v:
+                agg[k].append((formation, v))
+
+    print("\n" + "=" * 100)
+    print("  THE COMPARISON IS THE RESULT — spread vs SPY, averaged across formation dates")
+    print("=" * 100)
+    print(f"  {'screen':<10}{'dates':>7}{'avg n':>8}{'avg spread':>13}{'median spread':>15}{'dates won':>11}")
+    for k in ("NAIVE", "DURABLE"):
+        v = agg[k]
+        if not v:
+            print(f"  {k:<10}   no date produced any names")
+            continue
+        sp = [x[1][0] for x in v]
+        ns = [x[1][1] for x in v]
+        print(f"  {k:<10}{len(v):>7}{sum(ns)/len(ns):>8.1f}{sum(sp)/len(sp):>+13.1%}"
+              f"{median(sp):>+15.1%}{sum(1 for s in sp if s > 0)/len(sp):>11.0%}")
+    both = [f for f, _ in agg["NAIVE"] if f in dict(agg["DURABLE"])]
+    if both:
+        dn = dict(agg["NAIVE"])
+        dd = dict(agg["DURABLE"])
+        diffs = [dd[f][0] - dn[f][0] for f in both]
+        print(f"\n  HEAD-TO-HEAD on the {len(both)} dates where BOTH produced names:")
+        print(f"    DURABLE minus NAIVE, mean {sum(diffs)/len(diffs):+.1%} · "
+              f"median {median(diffs):+.1%} · DURABLE wins {sum(1 for d in diffs if d>0)}/{len(diffs)}")
+        for f in both:
+            print(f"      {f}   naive {dn[f][0]:+7.1%} (n={dn[f][1]:<3})   "
+                  f"durable {dd[f][0]:+7.1%} (n={dd[f][1]:<3})   diff {dd[f][0]-dn[f][0]:+7.1%}")
+    print("\n  If DURABLE does not beat NAIVE, the durability filter is not doing")
+    print("  work and the idea is wrong — say so. n is small; read it as a direction,")
+    print("  not a measurement.")
+    return agg
 
 UNIVERSE = """AAPL MSFT NVDA AMZN GOOGL META AVGO TSLA BRK-B JPM LLY V UNH XOM MA COST HD PG
 JNJ WMT NFLX BAC CRM ORCL MRK ABBV CVX AMD KO PEP ADBE TMO LIN CSCO ACN MCD ABT PM DHR
@@ -575,17 +683,44 @@ MPC ICE PSX EMR NOC MCO CSX PNC AON APH ORLY GD MSI USB HCA VLO FCX MAR NSC F GM
 ROP AJG TDG TRV PCAR CTAS PSA AEP CPRT WELL SRE MET DXCM O KMB AIG D EW PRU ALL EXC
 GIS DOW HLT KMI JCI ODFL IDXX SYY RSG A OTIS AME CMI HSY PPG STZ FAST YUM VRSK EA
 KR CTSH GWW ED IQV WMB XEL DD ROK GLW EFX AVB CHTR VICI EBAY MTD DVN HIG WEC ANSS
-KEYS FTV ES CDW TSCO ULTA HPQ PPL AWK BKR NUE STT LYB VTR DTE MLM VMC EIX HPE""".split()
+KEYS FTV ES CDW TSCO ULTA HPQ PPL AWK BKR NUE STT LYB VTR DTE MLM VMC EIX HPE
+CAH COR MOH LH DGX BAX ZBH STE HOLX CNC WAT RVTY CRL TFX BIO PODD ALGN
+AFL TROW NTRS RF CFG KEY HBAN FITB MTB ZION CMA IVZ BEN SEIC RJF AMP PFG LNC UNM GL AIZ
+WRB CINF L ACGL EG RE BRO MMC-X
+NEM FCX-X VMC-X IP PKG WRK SEE AVY BALL CCK SW AMCR ATO NI CNP LNT EVRG AEE CMS PNW POR
+JBHT CHRW EXPD UNP-X LUV DAL UAL ALK
+WHR NWL LEG MHK TPR RL PVH HBI GPS M JWN KSS BBY DKS AAP ORLY-X GPC LKQ
+HRL CAG CPB SJM K MKC CHD CLX KMB-X TSN ADM BG DAR
+XRAY OGN VTRS JAZZ INCY BMRN NBIX SRPT UTHR HALO
+NTAP WDC STX JNPR FFIV AKAM VRSN GEN DXC IT LDOS SAIC BAH CACI
+SWK DOV IEX GGG NDSN LECO RRX ITT FLS PNR XYL WTS AOS
+HES OXY PXD FANG APA MRO CTRA EQT AR RRC SWN CHK MTDR SM
+DINO PBF PARR CVI DK""".split()
+UNIVERSE = [t for t in dict.fromkeys(UNIVERSE) if not t.endswith("-X")]
+
+# FORMATION DATES. ⛔ THE REASON THIS IS A LIST AND NOT A SINGLE DATE:
+# the first run tested ONE date, 2021-08-16, and that date sits at a cyclical
+# TROUGH for exactly the names the durability band excludes -- COVID-depressed
+# energy, travel and industrials about to normalise violently upward. A filter
+# that vetoes "trailing E far below its own history" would have vetoed the best
+# value trade of the following year. Reading a filter's worth off that single
+# draw is reading a coin off one flip.
+# Equal 3-year holds so the dates are comparable to each other. Yahoo's 10y
+# range starts ~2016-08, and a 200-day SMA needs ~10 months before that, so the
+# first usable formation is mid-2017.
+FORMATIONS = [("2017-08-15", "2020-08-14"),
+              ("2018-08-15", "2021-08-13"),
+              ("2019-08-15", "2022-08-15"),
+              ("2020-08-14", "2023-08-14"),
+              ("2021-08-16", "2024-08-15"),
+              ("2022-08-15", "2025-08-15"),
+              ("2023-08-15", "2026-08-14")]
 
 # ------------------------------------------------------------------ ENTRY POINT
 # Colab-safe: in a notebook sys.argv carries the kernel's connection-file path,
 # so a bare int(sys.argv[1]) raises ValueError before a single line of the screen
 # runs. Parse defensively and ignore anything that is not a number.
 if __name__ == "__main__":
-    _lim = None
-    for _a in sys.argv[1:]:
-        if _a.lstrip("-").isdigit():
-            _lim = int(_a.lstrip("-"))
-    verify()                      # ⛔ ALWAYS. The previous version of this file produced a
+    verify()                      # ⛔ ALWAYS. The first version of this file produced a
     print()                       #    complete, plausible, WRONG result set, and the only
-    main(limit=_lim)              #    thing that caught it was reading ten numbers by hand.
+    main()                        #    thing that caught it was reading ten numbers by hand.
