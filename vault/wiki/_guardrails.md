@@ -6,11 +6,6 @@
 
 Related: [[_persona]] · [[brand]] · [[positioning]]
 
-**Scope [2026-08-17]:** these rules govern **customer-facing output** — offers,
-agreements, site copy, marketing, anything with INMA's name on it. They are
-**not** a filter on what I tell Jake in-vault. Internal answers are straight and
-complete; see the answering rules in [[_persona]].
-
 ## DATA (the rules — verbatim from repo-root CLAUDE.md)
 
 ### Say this
