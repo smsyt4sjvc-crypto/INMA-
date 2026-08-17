@@ -6290,3 +6290,70 @@ Num of Holdings 7,785.** Top 9 rows visible only.
    depends on which side of July it sits.**
 3. ⬜ **The remaining 7,776 holdings** — top 9 is 33% of gross long; the tail is unseen.
 **Links:** [[market-fragility]] · [[balance-sheet-board]] · [[memory-regime-question]] · [[metered-compute]]
+
+## 2026-08-16 ~9:00pm PDT — ★★★ WSJ PUTS **$3 TRILLION** OF OFF-BALANCE-SHEET AI COMMITMENTS ON THE FRONT PAGE. **JAKE: "Fashionably late?" — MEASURED BY GIT BLAME: YES, BY 23-43 DAYS, AND THE VAULT IS *MORE* SPECIFIC ON BOTH HEADLINE NUMBERS.** ⛔ But it brings ONE THING THE VAULT DOES NOT HAVE, and it is the sharpest item in the piece
+Source: `raw/wsj-big-tech-ai-spending-3trillion-off-balance-sheet-2026-08-16.txt` — WSJ, *"Why Big Tech's
+AI Spending Is $3 Trillion Higher Than It Seems,"* pulled 2026-08-16 8:56pm PDT. **ARTIFACT: the full
+article text, extracted and archived. WSJ's own analysis of footnotes in nine companies' filings** —
+Alphabet, Amazon, Microsoft, Meta, Oracle, Nvidia, Broadcom, SpaceX, AMD.
+
+### DATA (REPORTED — WSJ analysis of primary filings)
+- **~$3T of off-balance-sheet commitments across nine tech companies**, vs **~$600B of traditional capex**
+  over the past reported year, and **~3× what those companies owe under outstanding leases AND long-term
+  borrowings combined.**
+- **DECOMPOSITION: $1.2T uncommenced leases — "about FOUR TIMES more than disclosed a year earlier" —
+  plus $1.9T purchase obligations.**
+- **Alphabet: $811B purchase commitments/contractual obligations as of 6/30, up from $332B THREE MONTHS
+  EARLIER, and "Alphabet also didn't detail why."** Energy agreements running to **2054**.
+- **Meta: $347B in leases not yet started.** Hyperion (Louisiana, ~1,700 football fields): **Meta is
+  BUILDER but neither the campus nor the $27B financing is on its balance sheet.** Blue Owl funds own the
+  JV majority; **Beignet Investor** raised the construction bonds; Meta is **minority partner + tenant**,
+  4-year lease from **2029**, renewable to 20 years, initial commitment **~$12.3B**.
+- **⭐⭐⭐ THE ITEM THE VAULT DOES NOT HAVE: META GUARANTEED TO MAKE BONDHOLDERS WHOLE IF IT DOES NOT STAY
+  THE FULL TWENTY YEARS — AND HAS RECORDED NO LIABILITY, BECAUSE IT "DOESN'T THINK PAYMENTS UNDER THAT
+  GUARANTEE ARE PROBABLE."**
+- **Nvidia: $27B of equity investments committed** between 4/26 and fiscal year-end Jan-2027.
+- **Alphabet AND Amazon both posted NEGATIVE free cash flow.**
+- **Morgan Stanley accounting analysts, April: *"As these off-balance sheet commitments become more
+  frequent, larger, and more complex, it is becoming increasingly difficult for investors to assess
+  companies' TOTAL POTENTIAL LEVERAGE."***
+
+### DATA — THE PRIORITY LEDGER, BY GIT BLAME (not by recollection)
+| vault element | filed | WSJ | lead |
+|---|---|---|---|
+| Blue Owl/Blackstone/Apollo/PIMCO/BlackRock funding data centres via **off-B/S SPVs** (`:12`) | **2026-07-04** | 08-16 | **43d** |
+| **The "Meta-Hyperion pattern"** named as rung 2 of the funding ladder (`:194`) | **2026-07-13** | 08-16 | **34d** |
+| ~$2T unfunded / off-balance-sheet obligations (`ai-capex-cycle:945`) | **2026-07-13** | 08-16 | 34d |
+| **Alphabet's $811B forward commitment + negative FCF** (`:713`) | **2026-07-23** | 08-16 | **24d** |
+| **BEIGNET by name** (`_calibration:324`, logged as *"validation — we were early"*) | **2026-07-24** | 08-16 | **23d** |
+| GOOGL **negative FCF −$5.9B AND PAUSED BUYBACKS** (`:1134`) | **2026-07-26** | 08-16 | 21d |
+| $329.1B uncommenced + $130B signed in one quarter (`ai-capex-cycle:1778`) | **2026-07-30** | 08-16 | 17d |
+
+### THESIS (interpretation — NOT fact)
+- **★★★ ANSWERING JAKE DIRECTLY: YES, FASHIONABLY LATE — AND ON THE TWO HEADLINE NUMBERS THE VAULT IS
+  MORE SPECIFIC THAN THE WSJ.** (1) WSJ: *"Alphabet didn't detail why those obligations increased so much
+  from $332 billion."* **The vault filed the delta as `+$500B/qtr` on 7/23** (811−332 = 479). (2) WSJ:
+  *"Alphabet and Amazon recently posted negative free cash flow."* **The vault has GOOGL's NUMBER (−$5.9B)
+  and the fact WSJ omits — IT PAUSED BUYBACKS TO FUND THE BUILDOUT.** ⇒ **A buyback pause is a
+  revealed-preference signal about how binding the constraint is; "negative FCF" is a description.**
+- **⛔⛔ BUT THE DISCIPLINE HERE IS NOT THE VICTORY LAP, AND `_calibration:324` ALREADY TOOK ONE ON THIS
+  EXACT THESIS ON 7/24 (Chris Wood reciting it item-for-item). A SECOND "we were early" ON THE SAME CALL
+  IS WORTH NEAR ZERO.** The vault's own rule: *"the edge was SEEING it early (done), not holding it once
+  everyone agrees."* ⇒ **The only thing worth extracting from a confirmation is what is NEW in it.**
+- **★★★★★ AND WHAT IS NEW IS THE META MAKE-WHOLE. It is the sharpest disclosure in the piece and the vault
+  has nothing on it:** Meta guarantees bondholders for twenty years, records **zero liability**, and the
+  ONLY thing standing between a $27B guarantee and a balance-sheet obligation **is Meta's own judgment
+  that payment is "not probable."** ⇒ **That is not off-balance-sheet by STRUCTURE — it is off-balance
+  sheet by MANAGEMENT ESTIMATE.** ⇒ **And unlike a structure, an estimate can be revised in a single
+  filing, with no transaction, no default and no warning.** 🚩🚩🚩 **NEW WATCH ITEM: the probability
+  language on that guarantee in META's next 10-Q. A change from "not probable" is a balance-sheet event
+  that requires nothing to actually happen.** *(Analysis.)*
+- **★★★ THE EVIDENCE-LADDER UPGRADE, and it is real: the vault's aggregate came from a ZEROHEDGE
+  "$1.8T→$2.3T" headline (`:693`). WSJ's $3T comes from FOOTNOTE-LEVEL ANALYSIS OF NINE FILINGS.**
+  ⇒ **REPORTED → substantially closer to MEASURED. Same thesis, better evidence class.** *(Analysis.)*
+- **⭐⭐⭐⭐ AND THE HONEST READ CUTS IN JAKE'S FAVOUR ON THE ARGUMENT I PUSHED BACK ON 90 MINUTES AGO.**
+  He flipped bullish partly on *"it's mainstream and priced."* **THE WSJ PUTTING $3 TRILLION ON THE FRONT
+  PAGE IS THE MAINSTREAMING EVENT.** ⇒ **This paste is evidence FOR his crowding argument, not against
+  it.** ⚠️ **But the two-clocks rule survives intact: mainstreaming moves the POSITIONING clock, not the
+  FUNDAMENTAL one** (`_calibration:327`) — **and the fundamental gauge he himself chose ("money keeps
+  moving") is the one that has been degrading for four days.** *(Analysis — conceded on the crowding leg.)*
