@@ -332,3 +332,36 @@ reactor too. ⇒ **co-location is now supported from BOTH ends: engineering (byp
 politics (defuses the rate fight).** **⚠️ The exception, logged against the thesis: WATER. Thermal
 generation needs MORE cooling — so self-supply defeats the cost objection and AGGRAVATES the aquifer
 one, which is also the litigable one.**
+
+### 2026-08-17 ~9:12am PDT — ★★★★ THE 7/26 PIKETON TELL FIRES, AND IT FIRES **AGAINST** THE NUCLEAR ADJACENCY: PHASE-1 POWER AT THE OHIO SITE IS **SB ENERGY**, NOT AN SMR. THE SITE NAME "PORTS-PIKE" ALSO CONFIRMS THE LAND.
+Source: Jake's upload `News_Verification_Brief_20260817.docx` → `raw/2026-08-17-news-verification-brief-docx.txt`
+(brief's own map: S1 OpenAI · S2 NVIDIA Newsroom · S4 Axios, all 2026-08-17). **REPORTED-class, via a
+third-party verification brief — the releases themselves are unread.** Related: [[ai-financing-fragility]]
+
+#### DATA (REPORTED)
+- [2026-08-17] The OpenAI/NVIDIA Ohio campus is named **"PORTS-Pike."** **PORTS = the Portsmouth Gaseous
+  Diffusion Plant at Piketon, Pike County, Ohio** — the decommissioned uranium-enrichment complex
+  ~50mi south of Columbus that `:L110` identified from the WSJ-class report on 7/26.
+- [2026-08-17] **The named power/development partner is SB ENERGY** (solar + storage developer). NVIDIA is
+  **investing in SB Energy** and is exclusive compute provider. **No SMR, no Oklo, no Centrus named.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ THE REGISTERED TELL IS ANSWERED, AND NEGATIVE.** `:L255` registered on 7/26: ***"any Piketon
+  phase-2 power announcement naming SMRs/Oklo/Centrus."*** **The first big power announcement at that site
+  names a SOLAR-AND-STORAGE developer.** ⇒ **The 7/26 grading of Jake's question — *"Is this Oklo
+  indicated?" → "Directly indicated: NO"* — SURVIVES its first real test.** *(Analysis. Recording a
+  registered test that resolved in favour of the original call, because the vault records those too.)*
+- **★★★ AND IT NARROWS THE OPEN RECONCILIATION WITHOUT CLOSING IT.** `:L255` asked whether the Oklo-META
+  Sept-2025 200-acre Pike County campus is **the same land** as the OpenAI/SoftBank project. **Now the
+  OpenAI site has a name tied to a specific parcel (the PORTS reservation).** ⇒ **Branch (b) —two separate
+  campuses in one county— just got MORE likely: a 200-acre Meta site and a multi-gigawatt PORTS
+  redevelopment are different orders of magnitude.** **Still not adjudicated.** 🚩 **FETCH stands: the
+  Oklo-Meta Sept-2025 contract terms + the PORTS-Pike parcel.**
+- **★★★ AND THE TIMELINE FINDING AT `:L246` IS REINFORCED, NOT WEAKENED.** SMRs at Pike County are *"early
+  2030s."* **The campus being built NOW is being powered by solar+storage plus whatever interconnect it can
+  get.** ⇒ **Consistent with this note's standing read: the 2026-28 crunch is served by gas, solar/storage
+  and queue position; nuclear caps the long-run price and does not relieve the near-term bottleneck.**
+  ⚠️ **Subject to `:L278` (Jake, 8/7): scarcity is structural, and co-located generation BYPASSES the
+  transmission constraint rather than arriving late — which is exactly what an on-site SB Energy build IS.**
+  ⇒ **His amendment is the better frame here: this is co-location, and it is happening at solar's speed,
+  not nuclear's.** *(Analysis.)*
