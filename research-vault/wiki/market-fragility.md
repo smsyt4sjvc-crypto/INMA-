@@ -4203,3 +4203,56 @@ load-bearing question never needed it.** My own flagged inference was testable a
   and it is paywalled. THIS is the real cost of the block — not the thesis, the DENOMINATOR.**
 - ⬜ Whether McElligott himself claims the correlation transmission, or whether that is entirely my
   inference. **Two pastes, still unknown.**
+
+### 2026-08-16 ~10:20pm PDT — ⛔ THE VAULT'S OWN 8/05 LEDGER CORRECTS THE RECOLLECTION ("there wasn't, of course") — **SOMETHING DID PRINT: IRAN'S FOREIGN MINISTRY CONFIRMED A SHIPPING ROUTE WITH *OMAN*.** ★ And the gamma chart's OWN ANNOTATIONS put the cause a day EARLIER than Bessent, on the SUPPLY of gamma rather than the demand for calls
+Source: Jake's paste of an **UNSOURCED** "SPX Dealer Gamma Positioning" heatmap (Jul 28 → Aug 10, ±$20B
+scale) + his read: *"Bessent said on Aug 4 there may be a 'Hormuz deal Tuesday or Wednesday' (there
+wasn't of course) sparking a furious meltup and record call buying… pushed dealers sharply short gamma."*
+
+#### ⛔ ARTIFACT TEST — THE CHART IS A MODEL OUTPUT, NOT A MEASUREMENT
+- **DEALER GAMMA POSITIONING IS NOT OBSERVABLE. Nobody sees dealer books.** It is ESTIMATED from options
+  open interest plus an ASSUMPTION about which side of each strike the dealer sits on (typically: customers
+  buy calls / sell puts, or trade-side inference from bid/ask prints). **Every one of those is a modelling
+  choice.** ⇒ **A heatmap denominated in BILLIONS, by STRIKE, by DAY, presents an ESTIMATE with the visual
+  precision of a MEASUREMENT.** ⚠️ **And no provider is named on the image.** *(Rule 8.)*
+
+#### ⛔ DATA — WHAT THE VAULT LOGGED IN REAL TIME (`war/war-board.md`, filed 2026-08-05)
+- **8/04 7:21pm:** Trump/Bessent *"opens tomorrow"* → Axios *"ANNOUNCEMENT Wednesday."* **The vault
+  registered it as TEST #3 with a referee named in advance: the transit count vs ~140/day.**
+- **8/05 8:40am — TEST #3 GRADED: "IRAN FOREIGN MINISTRY SAYS AGREED ON SHIPPING ROUTE WITH OMAN."**
+  ⇒ **A corridor DID print — ministry-level, on the record, "a full evidence rung up" — but it was an
+  agreement WITH OMAN, NOT WITH THE US.** The vault explicitly left both branches open: *"either (a) the
+  US 'deal' IS this corridor rebranded… or (b) a separate US announcement is still pending."*
+- **⇒ "There wasn't, of course" IS TOO STRONG.** The US deal did not print; **a Hormuz shipping corridor
+  did.** ⇒ **And WTI "maintained losses" = the market pricing barrels returning through it** — so the
+  move was not purely a head-fake on the physical side. *(Correction of Jake's recollection, from the
+  vault's own dated ledger.)*
+
+#### ★★★★ THESIS — THE CHART'S ANNOTATIONS DISAGREE WITH THE CAPTION, AND THE ANNOTATIONS ARE SHARPER
+- **Read the sequence the chart itself prints:** (1) dealers held **LONG upside gamma from a large
+  systematic short 1DTE CONDOR trade** (Jul 28–Aug 3) · (2) **the condor's short call leg was covered
+  INTRADAY on ~Aug 3** · (3) large net call buying **Aug 4** · (4) **"condor call-spread not re-initiated
+  until August 10th and even then, size smaller than before."**
+- **⇒ ★★★★★ THE CONDOR COVER CAME FIRST — A DAY BEFORE BESSENT. The systematic SUPPLIER of upside gamma
+  stepped away, and then stayed away for a week.** ⇒ **Bessent was the SPARK; the absent seller was the
+  FUEL.** **With the condor still on, a dealer long upside gamma SELLS into strength and absorbs the call
+  buying. With it gone, the same flow has nothing to lean against.** ⇒ **The causal weight sits on the
+  SUPPLY of gamma, not the DEMAND for calls — and that is the chart's own text, not my inference.**
+- **★★★ AND IT RECONCILES WITH WHAT I MEASURED AT 7:25pm TONIGHT, which looked contradictory:** VIX fell
+  July-max **20.66 → 14.25** and DSPX **45.69 → 33.45** across exactly this window. **Short dealer gamma
+  normally means HIGHER realised vol — yet implied vol collapsed.** ⇒ **No contradiction: a short-gamma
+  dealer CHASING a one-directional grind higher produces LOW realised vol on the way up (steady buying)
+  and GAP RISK on reversal.** ⇒ **Low VIX + short dealer gamma is not calm. It is the specific signature
+  of a market that is quiet BECAUSE it is rising, and fragile BECAUSE OF WHY.** *(Analysis.)*
+- **🚩🚩🚩 THE MONITORABLE ITEM, and it is the durable part of the whole chart: "RE-INITIATED AUGUST 10th,
+  SIZE SMALLER THAN BEFORE."** ⇒ **The structural condition — reduced systematic upside-gamma supply —
+  PERSISTS.** **The catalyst is spent; the positioning is not.** 🚩 **TEST: is the 1DTE condor size back
+  to pre-Aug-3 levels? Until it is, the market carries less of the dampener that absorbed flow in July.**
+  ⇒ **This is a POSITIONING fact, so per the two-clocks rule it speaks to the POSITIONING clock only.**
+
+#### ⬜ NOT KNOWN
+- ⬜ **Who produced the chart.** Unsourced, and the estimation method decides what the colours mean.
+- ⬜ **Whether the 1DTE condor is one systematic seller or a strategy category.** "Large systematic" implies
+  a single programme; a category behaves differently and re-fills faster.
+- ⬜ **The exact Bessent wording and date-stamp.** Jake's quote is a recollection; the vault's ledger has
+  *"opens tomorrow"* + Axios *"ANNOUNCEMENT Wednesday"* at 8/04 7:21pm, which is close but not identical.
