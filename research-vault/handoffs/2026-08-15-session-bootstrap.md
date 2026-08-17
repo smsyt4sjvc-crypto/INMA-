@@ -1,4 +1,7 @@
 # SESSION BOOTSTRAP — paste this at the top of a new chat
+> ⟲ **SUPERSEDED 2026-08-17 → `handoffs/2026-08-17-session-bootstrap.md`.** Two heavy sessions have
+> landed since (the durable-value backtest, the August refunding, the WSJ $3T piece, Jake's flip to
+> cautiously bullish, the refiner strip). **Use the 8/17 file. This one is kept for the trail.**
 
 *Built 2026-08-14 ~11:58pm PDT, at the end of a very heavy two-day session (8/13–8/14).*
 *⚠️ It is nearly a new calendar day — the next session must run `chat_log.py --new` before writing anything.*
