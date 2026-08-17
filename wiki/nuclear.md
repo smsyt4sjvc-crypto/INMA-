@@ -342,8 +342,15 @@ third-party verification brief — the releases themselves are unread.** Related
 - [2026-08-17] The OpenAI/NVIDIA Ohio campus is named **"PORTS-Pike."** **PORTS = the Portsmouth Gaseous
   Diffusion Plant at Piketon, Pike County, Ohio** — the decommissioned uranium-enrichment complex
   ~50mi south of Columbus that `:L110` identified from the WSJ-class report on 7/26.
-- [2026-08-17] **The named power/development partner is SB ENERGY** (solar + storage developer). NVIDIA is
-  **investing in SB Energy** and is exclusive compute provider. **No SMR, no Oklo, no Centrus named.**
+- [2026-08-17] **The named power/development partner is SB ENERGY.** NVIDIA is **investing in SB Energy**
+  and is exclusive compute provider. **No SMR, no Oklo, no Centrus named.**
+  > ⛔ **SELF-CORRECTION, same session ~9:35am, caught on Jake's per-GW question.** I first wrote
+  > "SB Energy (solar + storage developer)". **THE BRIEF DOES NOT SAY THAT — I SUPPLIED IT.** And the
+  > vault contradicts it: `:L112` and `ai-financing-fragility:1175` both record **SB Energy = SoftBank
+  > Energy (Son-controlled), and the contracted power = a $33B JAPAN-FUNDED NATURAL GAS PLANT.**
+  > ⇒ **The generation is GAS, not solar.** Cause: I pattern-matched a developer name to a technology
+  > instead of reading the entry the vault already had. **Error class 1 — trusting a label over the data —
+  > on a label I invented myself.**
 
 #### THESIS (interpretation — NOT fact)
 - **★★★★ THE REGISTERED TELL IS ANSWERED, AND NEGATIVE.** `:L255` registered on 7/26: ***"any Piketon
@@ -363,5 +370,5 @@ third-party verification brief — the releases themselves are unread.** Related
   and queue position; nuclear caps the long-run price and does not relieve the near-term bottleneck.**
   ⚠️ **Subject to `:L278` (Jake, 8/7): scarcity is structural, and co-located generation BYPASSES the
   transmission constraint rather than arriving late — which is exactly what an on-site SB Energy build IS.**
-  ⇒ **His amendment is the better frame here: this is co-location, and it is happening at solar's speed,
-  not nuclear's.** *(Analysis.)*
+  ⇒ **His amendment is the better frame here: this is co-location, and it is happening at GAS speed,
+  not nuclear's** — an on-site $33B gas plant, phase 1 800MW by 2028. *(Analysis. Corrected 9:35am.)*
