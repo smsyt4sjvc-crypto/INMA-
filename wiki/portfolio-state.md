@@ -1023,3 +1023,55 @@ was a CROWDING argument (the fragility is mainstream/priced/absorbed), not a tim
 moving.** ⇒ **The monitorable set: new-issue concessions · IG/hyperscaler OAS vs the index · whether
 queued deals PRICE or keep WAITING · facility pricing vs guidance.** **Three of four have moved the
 wrong way in four days, and the fourth ("asked to wait") is the most severe form.**
+
+### 2026-08-16 ~9:02pm PDT — ★★★★★ JAKE FORMALISES THE BULL STANCE AS A REGIME-FOLLOWING RULE, AND IT IS CONSISTENT WITH THIS VAULT'S OWN WARNING-vs-TRIGGER LAW. **⛔ BUT HIS OWN TRAILER ANALOGY, TAKEN SERIOUSLY, ARGUES THE OTHER WAY ON ALL THREE OF ITS TERMS — AND THE REAL EXPOSURE IS NOT DIRECTION, IT IS THE EXIT**
+Jake, verbatim: *"I'm bullish exactly on that premise: I'm bullish until I'm not just as the market will
+be bullish until it isn't. When money stops moving. When lenders run dry. The market is pulling a trailer
+in which the payload is moving forward, we just don't know how fast. What we do know is as long as the
+driver (capex) holds steady, we don't see the fishtail that eventually causes the rollover."*
+
+### THESIS — WHAT IS RIGHT, STATED FIRST AND WITHOUT QUALIFICATION
+- **His stance is NOT a fundamental forecast. It is a REGIME-FOLLOWING RULE with a pre-named exit** —
+  and that is **literally this vault's own WARNING-vs-TRIGGER law** (`CLAUDE.md`): *states are
+  unfalsifiable and time nothing; timing claims come only from dated falsifiable events.* ⇒ **Refusing to
+  be positioned SHORT on a state is compliance with the rule, not a lapse from it.** *(Analysis.)*
+- **And "money stops moving / lenders run dry" is a MONITORABLE condition, not a mood** — issuance,
+  concessions, facility pricing vs guidance. **He named his own falsifier again, unprompted.**
+
+### ⛔ THESIS — THE ANALOGY ARGUES AGAINST HIM ON ALL THREE TERMS (trailer dynamics, taken literally)
+- **⛔ (1) A MOVING PAYLOAD IS THE SWAY PRECONDITION, NOT A REASSURANCE.** *"The payload is moving forward,
+  we just don't know how fast"* describes **an unsecured load** — and dynamic load transfer inside a
+  trailer is the classic cause of sway, worse than a heavy load that is fixed. ⇒ **In his own image, the
+  uncertainty about the payload's speed is not neutral. It IS the instability.** *(Analysis.)*
+- **⛔⛔⛔ (2) CAPEX IS NOT THE DRIVER. CAPEX IS THE SPEED — and this is the load-bearing correction.**
+  Trailer sway is governed by **load distribution and SPEED**, not by steering input: below a critical
+  speed perturbations DAMP, above it they AMPLIFY. ⇒ **"The driver holds steady" and "capex holds steady"
+  are different claims, because a steady HIGH speed is not stability — it is fast.** ⇒ **And capex is not
+  merely steady, it is ACCELERATING** ($269B AI issuance ≈12× the 2015-24 average; total corporate
+  issuance +61% y/y; ~$3T off-balance-sheet vs ~$600B capex). **Every quarter of acceleration SHRINKS the
+  margin to critical speed.** ⇒ **Under his own analogy, steady-and-rising capex is the vehicle
+  accelerating toward the sway threshold, not the hand keeping it straight.** *(Analysis.)*
+- **⛔⛔ (3) ABOVE CRITICAL SPEED, THE FIRST FISHTAIL *IS* THE EVENT — the oscillation is self-amplifying,
+  and the driver's instinct (brake, counter-steer) makes it worse.** ⇒ **He is treating the fishtail as a
+  WARNING that precedes the rollover. In the physics they are the SAME EVENT at different amplitudes,
+  seconds apart.** ⇒ **"We don't see the fishtail" is therefore not evidence of stability — it is evidence
+  that nothing has perturbed the system YET.** *(Analysis.)*
+
+### ★★★★★ AND THE EXPOSURE IS NOT DIRECTION — IT IS WHETHER THE EXIT EXISTS AT THE TRIGGER
+- **"Bullish until I'm not" is only as good as the ability to ACTUALLY LEAVE when the condition fires.**
+  Three vault findings say the exit may not be available at the level where his rule triggers:
+  **(i) McElligott's own framing is "GRIND LOWER, GAP HIGHER"** (`market-fragility:4059`) — **a gap does
+  not fill at your trigger price.** **(ii) The standard fallback protection is impaired** — *"long duration
+  paying for the credit losses has to clear a heavier calendar than in any recent cycle to work,"* with a
+  fourth confirmation today (30Y stop 5.216% into $360B of August coupon supply). **(iii) De-grossed but
+  UNHEDGED books** (`_calibration:327`) mean **a real shock is violent precisely because nobody is hedged.**
+  ⇒ **The risk he is carrying is not "wrong about direction." It is "right about direction and unable to
+  act on the trigger."** **Descriptive — sizing and execution are Jake's (rule 14).** *(Analysis.)*
+- **🚩🚩🚩 THE QUESTION THAT DECIDES WHETHER HIS RULE IS OPERABLE, AND IT IS THE ONLY ONE THAT MATTERS:
+  WHAT READING OF "MONEY STOPS MOVING" WOULD ACTUALLY FIRE?** Because the vault does **not** show a
+  binary — it shows **four consecutive days of continuous degradation**: CRWV 125bp wide of guidance ·
+  "wider spreads, slower deal progress" · the $500B as a response to STALLED dealmaking · a double-digit
+  concession, 20bp+ wider YTD against a flat index, $50-60B queued and issuers **ASKED TO WAIT.**
+  ⇒ **If the threshold is "STOPS," it is a binary that reports AFTER the gap. If the threshold is "SLOWS,"
+  IT HAS ALREADY FIRED FOUR TIMES.** ⇒ **In his own analogy: the sway has begun at low amplitude, and he
+  is waiting for a fishtail.** *(Analysis — this is the open question put to Jake, not a conclusion.)*
