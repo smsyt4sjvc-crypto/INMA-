@@ -28,7 +28,15 @@ EOF
 ⭐ **the MAGNITUDE COLLISION + PRIOR-STATEMENT ANCHOR (added 8/17, printed FIRST and before the router
 on purpose)** — every figure in the inbound that the vault has ALREADY stated, oldest first, and per
 entity the number the vault first committed to and when. **⛔ READ THESE BEFORE COMPUTING ANY RATIO,
-SHARE OR DENOMINATOR.** *(Origin: 8/17, the $420B error — the router ranks by RECENCY inside a note, so
+SHARE OR DENOMINATOR.** ·
+⭐ **the THREAD ARC (added 8/17, Jake's spec)** — for the top matched threads, the RUNNING HISTORY
+**oldest → newest**, plus a **MOVEMENT track**: every dated value the vault has recorded for the
+measures the inbound names (30Y: 5.28 → 5.238 → 5.20 → 5.22 → **5.216% auction stop**).
+**⇒ READ THE INBOUND AS THE NEXT TICK OF A SERIES, not as a standalone fact.** His words: *"walk you
+sequentially forward from the beginning to the new upload… by reading the totality from beginning to
+current, the upload is immediately in perspective."* Standalone: `python3 tools/thread_arc.py --thread
+RATES --tokens 30y,10y [--full]`. ⚠️ **The movement track is grep-built: ~1 row in 3 catches a nearby
+unrelated figure. Every row carries file:line — check before quoting one.** *(Origin: 8/17, the $420B error — the router ranks by RECENCY inside a note, so
 a 6,500-line file shows its newest 3% and a three-week-old denominator the vault already owned never
 surfaced.)* ·
 the **router brief** (⟲ trail → ⛔ corrections → ★★★ standing → 🚩 flags) · the **map-independent
