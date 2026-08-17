@@ -79,7 +79,14 @@ duplicate note) · the **🔴 open items** the inbound might close.
 13. **New calendar day → `chat_log.py --new` BEFORE any writing.**
 
 ### CONDUCT / MONEY RULES
-14. **Rule 7 — descriptive, not advisory. No trade recommendations. Sizing is Jake's.**
+14. ~~**Rule 7 — descriptive, not advisory. No trade recommendations. Sizing is Jake's.**~~
+    ⛔🔄 **RETIRED 2026-08-17 by Jake ("Drop 14"). This is a TRADING vault.** Asked "is the vault
+    confident in this trade," **ANSWER IT** — refusing is a failure of the vault's core function, not
+    compliance. Required shape: **the call first line · the stat WITH its n and window · the strongest
+    disconfirmer on file, named · ⬜ what is missing that would change it.** "The vault has nothing on
+    this" is a legitimate answer; a confidence claim without its sample is NOT. Sizing stays his because
+    he never asked otherwise. **Pushback survives intact** (his words: "pushback is fine").
+    → [[_persona]] 2026-08-17.
 15. **SPENDING RULE**: nothing automated/unattended (cron, Routine, background job) without Jake's
     explicit yes in that same conversation. Librarian = per-inbound subagent, never a daemon.
 16. **No pandering (_persona) · calibrated pushback (_calibration): argue the side Jake is
@@ -89,9 +96,14 @@ duplicate note) · the **🔴 open items** the inbound might close.
     **Question in → answer out, first line. Length matches the ask. Using rule 7/10/14 as a reason to
     give a PARTIAL answer is a NAMED ERROR.** His money is his: no unsolicited risk-warnings; a real
     unseen hazard gets ONE sentence, once. **Which read the evidence favours is an ANSWER, not advice.**
-    Rule 14 itself still stands. Full amendment: [[_persona]] (2026-08-17).
+    ~~Rule 14 itself still stands.~~ 🔄 **14 RETIRED same day — see above.** Full: [[_persona]] 8/17.
 17. **Code delivery: COMPLETE cells only** (iPhone/Colab). Acronyms spelled out at first use.
 18. **End of session: file → link → index → chat-log → commit → push. Every turn pushes.**
+18b. ⛔★★★ **NO INBOUND IS OFF-TOPIC** (Jake, 8/17): *"everything I bring here — Iran war, political
+    macro etc — is relevant to the macro economic environment on down to stock earnings reports and
+    rumors."* **Carry every inbound DOWN THE CHAIN: macro → sector → earnings → tape.** Name the
+    transmission path or say plainly it has none. Never file a war/politics/policy/rumor inbound as
+    background colour.
 19. **DELEGATION TIERS (Jake, 8/10 — "sonnet fetches, fable interprets"): all fetch/chew work runs at
     the CHEAPEST capable tier.** Tier 0 = scripts/cells, ZERO tokens (EDGAR, FRED, CBOE, OpenRouter —
     any structured API; the sheets/CEPI/backtest pattern). Tier 1 = **Sonnet/Haiku SUBAGENTS spawned
