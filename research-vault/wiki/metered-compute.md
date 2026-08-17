@@ -2331,3 +2331,57 @@ price leg must be graded FROM THE PREMARKET LEVEL, not Tuesday's close.**
 - Full curve, the underwriting read, and the CRWV rack-rate-vs-index gap ($2.70 list vs $1.29 index):
   → [[ai-financing-fragility]] 2026-08-12 ~9:50pm entry.
 **Links:** [[ai-financing-fragility]] · [[cepi]] · [[power-not-petroleum]]
+
+##### 2026-08-16 ~9:55pm PDT — ★★★★★★★ JAKE'S NUMBERS **RESOLVE THE ELASTICITY TEST THIS NOTE REGISTERED ON 7/24** — and the answer is far tighter than 300× implies: **NET ~2.2×, barely above the "flat revenue" threshold.** ★ And his DECOUPLING formulation is the sharpest bear case of the session, because **it requires no demand failure at all**
+Jake's frame: *"Volume growth ≫ Revenue growth ≫ traditional economic growth… revenue per raw token ↓↓,
+total tokens ↑↑↑, total AI revenue ↑… the infrastructure thesis increasingly depends on Volume growth >
+price decline + compute-efficiency improvement."* ⚠️ **He flags his own comparison as dirty (Google's token
+count spans consumer/internal/free; Cloud revenue contains non-AI). Correct, and quantified below.**
+
+#### DATA (Jake's digest; arithmetic verified this turn)
+- **Google tokens: 9.7T/month (2024) → 3.2 QUADRILLION/month (2026) = 330×.** ✓
+- **⭐ THE DECOMPOSITION HE DID NOT MAKE: Google's model APIs run ~19B tokens/MINUTE = 0.82
+  quadrillion/month = ONLY 26% OF THE 3.2 QUADRILLION TOTAL.** ⇒ **~74% of the volume is NON-API —
+  consumer, internal, free. THE 300× DENOMINATOR IS DOMINATED BY UNMONETISED USAGE.**
+- **Google Cloud $17.7B/qtr, +48% YoY · Azure ~+40% YoY · NVIDIA Data Center $75.2B/qtr, +92% YoY.**
+- **Microsoft: AI infrastructure and growing AI usage are DEPRESSING CLOUD GROSS MARGINS even while
+  efficiency improves; customer demand still exceeds available capacity.**
+
+#### ★★★ THE REGISTERED TEST, RESOLVED (`metered-compute:213`, filed 2026-07-24)
+*"Does VOLUME growth outrun the price cut in REVENUE terms. 2× = flat rev · 3× = Jevons wins · 1.5× =
+deflation wins."*
+- **Volume 330×. Revenue over the same two years: Cloud (1.48)² = 2.19×; Azure (1.40)² = 1.96×.**
+- **⇒ REVENUE PER TOKEN FELL ~151× (Cloud) / ~168× (Azure).**
+- **★★★★★ ⇒ NET ≈ 2.2×. JEVONS IS WINNING — AND BY THE VAULT'S OWN THRESHOLDS IT IS WINNING ONLY
+  MARGINALLY, JUST ABOVE "FLAT REVENUE." THE 300× IS NOT 300× OF ANYTHING THAT PAYS.** ⚠️ Both sides of
+  the ratio are contaminated (unmonetised tokens up top, non-AI cloud below) — **so read 2.2× as the
+  ORDER OF MAGNITUDE, not the measurement.** *(Analysis.)*
+
+#### ★★★★★★ THESIS — HIS DECOUPLING IS A BETTER BEAR CASE THAN THE ONE THIS VAULT HAS BEEN RUNNING
+- **Formalised:** `MW required ∝ tokens ÷ efficiency` · `Revenue ∝ tokens × price` ⇒ **MW growth = token
+  growth − efficiency growth**, while **revenue growth = token growth − price decline.** ⇒ **★ IF
+  EFFICIENCY GROWTH EXCEEDS TOKEN GROWTH, MEGAWATTS REQUIRED FALL WHILE REVENUE STILL RISES.**
+  ⇒ **THERE IS A REGIME IN WHICH THE AI TRADE WORKS AND THE INFRASTRUCTURE TRADE FAILS, WITH NO DEMAND
+  FAILURE ANYWHERE.** ⇒ **That is strictly better than the vault's standing bear case (financing,
+  useful lives, capex cuts), because every one of those requires something to BREAK. This one requires
+  only that two exponentials cross.** *(Analysis — Jake's, formalised. NEW to the vault.)*
+- **★★★★ AND THE DIVERGENCE IS ALREADY MEASURABLE: NVIDIA DC +92% vs the cloud revenue it feeds at
+  +40-48% — the supplier growing 1.3× as fast as the service.** ⇒ **That gap IS
+  buildout-ahead-of-monetisation, expressed as two reported numbers, and it is a monitorable series
+  rather than an argument.** 🚩 **Track the spread quarterly. It closes from one end or the other.**
+- **⛔⛔ THE TERM MISSING FROM HIS BOXED RELATIONSHIP IS MARGIN — AND MICROSOFT SUPPLIED IT AGAINST HIM IN
+  THE SAME PARAGRAPH HE QUOTED.** *"AI infrastructure and growing AI usage are DEPRESSING cloud gross
+  margins EVEN WHILE EFFICIENCY IMPROVES."* ⇒ **"Volume ≫ Revenue ≫ GDP" can be entirely true while PROFIT
+  PER TOKEN FALLS.** ⇒ **Jevons winning on REVENUE is not Jevons winning on PROFIT, and the infrastructure
+  thesis needs `revenue growth > cost-of-capacity growth` — which MSFT is stating is NOT currently true at
+  the gross-margin line.** **The one term he omitted is the one the vendor volunteered.** *(Analysis.)*
+- **⚠️ ARTIFACT TEST ON THE BULL'S BEST FACT: "customer demand still exceeds available capacity" IS AN
+  ADVERB FROM AN INTERESTED PARTY** — and it is precisely what a company would say to justify capex.
+  **Measured versions exist: RPO with DURATION, utilisation rates, queue length.** ⇒ **And it is Jake's
+  OWN "backlogs are queues, not demand" argument (`ai-capex-cycle:2741`) restated from the seller's side.**
+  **He should not accept from Microsoft the claim he refused from the order books.** *(Analysis.)*
+
+#### ⬜ NOT KNOWN
+- ⬜ **AI-only revenue, separated from cloud.** Every ratio above is contaminated until this exists.
+- ⬜ **The efficiency growth RATE** — the single term that decides his decoupling, and nobody publishes it.
+  **Proxy: tokens/sec/GPU per generation, or $/M-tokens at constant model quality.**
