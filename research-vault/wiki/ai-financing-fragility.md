@@ -6359,6 +6359,7 @@ Alphabet, Amazon, Microsoft, Meta, Oracle, Nvidia, Broadcom, SpaceX, AMD.
   moving") is the one that has been degrading for four days.** *(Analysis — conceded on the crowding leg.)*
 
 ### 2026-08-17 ~9:10am PDT — ★★★★★★ THE OHIO BACKSTOP IS ~$105B AND IT DOES NOT FIT NVIDIA'S OWN DISCLOSED CAP. ⇒ EITHER THE INITIAL PHASE OF ONE CAMPUS IS A **$420B "OPPORTUNITY"** — 84% OF THE ENTIRE >$500B PLATFORM TARGET — OR THE 25% CEILING DOES NOT BIND WHERE IT MATTERS
+  ⟲ SUPERSEDED 2026-08-17 → ai-financing-fragility.md:L6434 — the $420B opportunity was derived by solving a CEILING as an equation; the real denominator (>$500B Ohio campus) was already in this file at :1162 since 7/26 -- $105B is ~21%, inside the cap
 Source: Jake's upload `News_Verification_Brief_20260817.docx` → `raw/2026-08-17-news-verification-brief-docx.txt`.
 **ARTIFACT TEST (rule 8): what I read is a THIRD-PARTY VERIFICATION BRIEF *about* the feed, not the feed
 and not the filings.** Its own source map credits **S2 NVIDIA Newsroom · S3 Financial Times ("reporting on
@@ -6430,3 +6431,70 @@ Related: [[ai-capex-cycle]] · [[balance-sheet-board]] · [[nuclear]] · [[compr
    is one fetch away and the vault has not read it.**
 3. 🚩🚩 **SB Energy: is NVIDIA's stake disclosed, and at what size?** That is the equity leg, and equity in
    the developer is the leg `:L5925` says converts a supplier into a sponsor.
+
+### 2026-08-17 ~9:40am PDT — ⛔⛔★★★★★★ JAKE'S PER-GW QUESTION KILLS MY $420B — **THE VAULT HELD THE DENOMINATOR SINCE 7/26 AND I SOLVED FOR IT INSTEAD.** ⇒ $105B IS **~21% OF THE >$500B OHIO CAMPUS — UNDER THE 25% CAP, NOT OVER IT.** AND THE REAL FINDING IS THE OPPOSITE OF MINE: **THE CAP IS VISIBLY BINDING — $250B BLANKET (7/26) → $105B RESIDUAL-VALUE (8/17)**
+  ⟲ SUPERSEDES ai-financing-fragility.md:L6361 — the $420B opportunity was derived by solving a CEILING as an equation; the real denominator (>$500B Ohio campus) was already in this file at :1162 since 7/26 -- $105B is ~21%, inside the cap
+Source: Jake, 2026-08-17 ~9:35am PDT, in-session: *"Huang said that the rate was 50-60b per MW. Maybe the
+500b was the accumulated total of what Nvidia's 25% was meant to be?"* Related: [[nuclear]] · [[ai-capex-cycle]]
+
+#### ⛔ THE CORRECTION — mine, 30 minutes old
+- **I wrote at 9:10am: `$105B ÷ 0.25 = a ~$420B opportunity` = "84% of the entire >$500B platform target."**
+- **⛔ TWO ERRORS, AND THE SECOND IS THE ONE THAT MATTERS.**
+  **(1) I SOLVED AN INEQUALITY AS AN EQUATION.** The disclosure is *"UP TO 25% of an opportunity"* — a
+  **CEILING**. Treating it as a rate and dividing by it manufactures a denominator. **A cap tells you the
+  maximum, never the actual.**
+  **(2) ⛔⛔ AND THE DENOMINATOR WAS ALREADY IN THIS FILE, FILED 7/26, THREE WEEKS BEFORE I INVENTED ONE.**
+  `:L1162`, WSJ-class: the Ohio 10GW SoftBank campus is **">$500B total incl. chips — largest DC project
+  announced."** ⇒ **$105B ÷ >$500B ≈ 21%. INSIDE the 25% ceiling. There is no contradiction and there never
+  was one.** **The "84% of the platform" alarm compared a project cost to a financing-platform capacity —
+  two different measures (error class 4), built on a denominator I had no need to derive.**
+- **⇒ CAUSE, and it is the handoff's one-line version firing on the very next inbound: RE-DERIVING IS THE
+  COST. I read the newest thing and computed, instead of searching for the number the vault already had.**
+
+#### THESIS — what is actually true once the right denominator is used
+- **★★★★★★ THE CAP IS BINDING, AND THE BINDING IS VISIBLE IN THE TAPE. THIS IS THE FINDING.**
+  **7/26 (`:L1162`, pre-program):** NVDA would guarantee **~$250B** of financing vehicles covering OpenAI's
+  **LEASE + buildout debt** — a blanket wrap, **~50% of a >$500B campus.**
+  **8/17 (post-program, 7 days after the 25% disclosure):** **~$105B**, and explicitly **residual-value
+  support, *"rather than a simple blanket guarantee of OpenAI obligations"* — ~21%.**
+  ⇒ **Same project, same sponsor, three weeks apart: the exposure HALVED and the instrument narrowed from
+  guaranteeing the obligation to guaranteeing the RESIDUAL.** ⇒ **The disclosed 25% ceiling did not just
+  describe the program — it appears to have RE-CUT the largest deal in it.** *(Analysis. Falsifiable: if
+  the 10-Q shows $250B-class exposure at Ohio, this is wrong.)*
+- **⚠️ AND THAT CUTS BOTH WAYS, WHICH IS WHY IT IS WORTH MORE THAN MY ALARM WAS.** Bullish read: **real
+  underwriting discipline, disclosed and applied.** Bearish read: **`:L4194` — NVIDIA's own aside says the
+  25% is "substantially lower than other compute-financing arrangements."** ⇒ **If Ohio was re-cut from
+  ~50% to ~21%, THE PRE-EXISTING BOOK IS THE 50% BOOK.** **The cap governs NEW paper; the legacy exposure
+  sits above it and is the part nobody has sized.** *(Analysis.)*
+
+#### JAKE'S HYPOTHESIS, GRADED
+- **⛔ FIRST, THE UNIT — and it is 1,000×: Huang's figure is $50-60B PER GIGAWATT, not per megawatt**
+  (`:L4092`, 8/10). Per MW would put one 800MW phase at $40-48 TRILLION.
+  ⚠️ **AND THE FACTOR CARRIES A LIVE DISPUTE FLAG (`:L4143`): Krishna's SEMICONDUCTORS-ALONE $60-80B/GW
+  EXCEEDS Huang's ALL-IN $50-60B/GW.** Not settled; do not treat as a clean conversion.
+- **THE HYPOTHESIS — "$500B = the accumulated total of what NVIDIA's 25% was meant to be." ⇒ NOT SUPPORTED,
+  and the reason is the sponsor's own words.** `:L4196` quotes the launch document: **">$500B = aggregate
+  THIRD-PARTY capital the platforms are DESIGNED TO MOBILIZE over time — not NVIDIA revenue, not a single
+  fund, not a commitment to a single customer."** ⇒ **It is the whole pie the platforms raise, not NVIDIA's
+  slice of it.** If it were NVIDIA's 25%, the implied total would be **$2T ⇒ 33-40 GW at $50-60B/GW.**
+- **★★★★★ BUT THE INSTINCT BEHIND IT LANDS SOMEWHERE BETTER, AND IT IS A REAL COINCIDENCE THIS VAULT HAD
+  NOT NOTICED: THE ">$500B PLATFORM" AND THE ">$500B OHIO CAMPUS" ARE THE SAME NUMBER.** The vault recorded
+  **">$500B total incl. chips" for Ohio on 7/26 — TWO WEEKS BEFORE the $500B platform was announced.**
+  ⇒ **The entire third-party financing platform is sized at roughly ONE CAMPUS.** ⇒ **Whether that is
+  anchoring, coincidence, or the platform being purpose-built for this deal and dressed as an industry
+  program, the $500B is not the "AI buildout pipeline" number the market is reading it as.** **His
+  suspicion that the $500B is a derived quantity rather than a market estimate is CORRECT — the vault's
+  own 8/14 entry has Bloomberg calling it "a round figure with no obvious provenance." He is asking where
+  it came from, and "roughly one campus" is now the leading candidate.** *(Analysis. His question; the
+  coincidence is the vault's to answer for.)*
+- **⬜ NOT KNOWN — and it is the one number that would settle the whole thread: what does the 8/17 release
+  mean by "INITIAL PHASE"?** `:L1177` has **phase 1 = 800MW by 2028** ⇒ **0.8GW × $50-60B/GW = $40-48B
+  all-in.** **$105B is 2.2-2.6× that.** ⇒ **Either "initial phase" ≫ the 800MW phase, or the $105B is
+  campus-wide and "initial" modifies the FINANCING tranche rather than the BUILD.** **These are not the
+  same claim and the difference is 6× in the ratio that matters.**
+
+#### 🚩 SETTLES IT (unchanged from 9:10am, now sharper)
+1. 🚩🚩🚩 **The NVIDIA newsroom release read DIRECTLY** — the backstop size, the word "opportunity," and
+   **what "initial phase" denominates.** One fetch. Still not done.
+2. 🚩🚩🚩 **NVDA 10-Q guarantees/commitments footnote: is Ohio ~$105B or ~$250B-class?** The falsifier for
+   "the cap re-cut the deal."
