@@ -1101,6 +1101,7 @@ equity prints are INTRADAY MONDAY, not settled closes.** Prior vault state: `:L1
 
 #### THESIS (interpretation — NOT fact)
 - **★★★★ THE ANSWER TO "STILL ROOM?" IS THAT THE GAP THE TRADE WAS BUILT ON HAS CLOSED. The thesis was
+  ⟲ SUPERSEDED 2026-08-17 → oil-value-chain.md:L1120 — WINDOW ERROR (3rd in this file): I used 1-month moves to claim the beta was captured; measured from 8/13 when the vault ANSWERED this, refiners are +0.5-3.4% and the quantified room is unchanged
   "the equity has not priced the crack." Over the month the crack ran +11.9% and the equities ran +9% to
   +23% — THE BETA HAS BEEN CAPTURED.** ⇒ **What is left is not a re-rating to a known crack; it is a bet
   that the CRACK ITSELF goes higher from 96.51.** **Those are different trades with different evidence
@@ -1118,6 +1119,7 @@ equity prints are INTRADAY MONDAY, not settled closes.** Prior vault state: `:L1
   DECIDES "ROOM," AND IT IS THE ONE THING ON THIS PAGE THAT IS BOTH DATED AND UNAMBIGUOUS.** *(Analysis.)*
 - **⚠️ AND THE REGISTERED BREAK CONDITION IS UNMEASURED SINCE 8/13: DISTILLATE INVENTORIES REBUILDING INTO
   THE 5-YEAR BAND.** **That is the one fetch that could kill the trade and it is four days stale.**
+    ⟲ SUPERSEDES oil-value-chain.md:L1103 — WINDOW ERROR (3rd in this file): I used 1-month moves to claim the beta was captured; measured from 8/13 when the vault ANSWERED this, refiners are +0.5-3.4% and the quantified room is unchanged
 - **⚠️ DO NOT RE-MAKE THE 8/14 ERROR: the low deferred strip is NOT a disconfirmer** (`:689` — "the low
   strip IS the trade"). **A real disconfirmer is a dated physical or policy event — and one is now dated.**
 - **⚠️ CALIBRATION, STATED AGAINST MY OWN PRIOR WORK: the vault's bullish framing rested partly on three
@@ -1129,3 +1131,56 @@ equity prints are INTRADAY MONDAY, not settled closes.** Prior vault state: `:L1
 1. 🚩🚩🚩 **EIA distillate inventories vs the 5-year band** — the named break condition, 4 days stale.
 2. 🚩🚩🚩 **The 12-month DEFERRED crack strip** — the actual "is there room" instrument; never fetched.
 3. 🚩🚩 **FY27 consensus EPS from ONE sourced provider** — the current figures are contradictory and unusable.
+
+### 2026-08-17 ~8:16am PDT — ⛔⛔⛔ **I MADE THE WINDOW ERROR THIS NOTE HAS ALREADY LOGGED TWICE, AND IT REVERSED MY ANSWER.** Measured from 8/13 — the date the vault ANSWERED this question — the refiners are **+0.5% to +3.4%**, not the +9-23% I quoted. **THE ROOM, AS THE 8/13 ENTRY QUANTIFIED IT, IS ESSENTIALLY UNCHANGED**
+⟲ SUPERSEDES `oil-value-chain.md:L1103`. Trigger: Jake — *"It has not been 45 days. We went over crack
+spreads extensively last week and this weekend."* **He is right on every count.**
+
+#### ⛔ THREE ERRORS, SMALLEST FIRST
+1. **ARITHMETIC + SELF-CONTRADICTION IN ONE TURN: I wrote "45 hours" in chat and "54 hours" in the vault
+   entry. 54 is correct** (8/15 2:05am → 8/17 8:11am). **A number I generated twice, differently, minutes
+   apart — the §0.6 failure, on my own output.**
+2. **FRAMING: "54 hours without a measurement" reads as NEGLECT. The record is NINE DATED ENTRIES ACROSS
+   8/13-8/15** (four on 8/13, one on 8/14, four on 8/15). ⇒ **This is among the most intensively worked
+   threads in the vault. The defensible claim was narrow — "the last PRICE measurement is 54h old" — and
+   I stated a broad one.**
+3. **⛔⛔⛔ THE REAL ONE: THIS EXACT QUESTION WAS ASKED AND ANSWERED ON 2026-08-13 AT 2:00pm WITH A ✅
+   (`:L648` — "IS THERE ROOM TO RUN ON CRACKS? — ANSWERED"). I RE-DERIVED IT FROM SCRATCH.**
+   ⇒ **`CLAUDE.md`: "Retrieval is not the cost. RE-DERIVING is the cost." The librarian surfaced WAR/OIL
+   and I read the file's TAIL instead of searching for the QUESTION.** **Reading the newest entry is not
+   the same as reading the relevant one.**
+
+#### DATA — THE MEASUREMENT THAT REVERSES MY ANSWER (today's prices vs the 8/13 consensus)
+| tkr | 8/13 px* | now | **move since 8/13** | FY27 P/E now | FY26 P/E now | **the room, if FY27 holds flat** |
+|---|---|---|---|---|---|---|
+| VLO | 343.73 | 347.48 | **+1.1%** | 12.54× | 8.34× | **12.5× → 8.3×** |
+| MPC | 356.08 | 361.88 | **+1.6%** | 10.98× | 7.04× | **11.0× → 7.0×** |
+| PSX | 232.55 | 238.40 | +2.5% | 11.58× | 9.29× | 11.6× → 9.3× |
+| PBF | 74.44 | 74.78 | **+0.5%** | 8.14× | 4.42× | **8.1× → 4.4×** |
+| DINO | 91.68 | 94.81 | +3.4% | 9.93× | 6.86× | 9.9× → 6.9× |
+| PARR | 82.03 | 83.02 | +1.2% | 6.28× | 4.10× | 6.3× → 4.1× |
+
+*back-solved from the 8/13 entry's own FY27 multiple × FY27 EPS. Consensus EPS held at 8/13 values.
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ THE ERROR IS THE WINDOW, AND THIS NOTE HAS LOGGED IT TWICE BEFORE — THIS IS THE THIRD INSTANCE IN
+  THE SAME FILE.** (i) 8/13, the 21-vs-30-session crack error. (ii) 8/15, "my 84% finding is
+  window-dependent." (iii) **NOW: I quoted ONE-MONTH moves (+9% to +23%) to conclude the beta was
+  captured — but the vault's answer is dated 8/13, so the relevant window is FOUR DAYS, and it is
+  +0.5% to +3.4%. MOST OF THE MOVE I CITED HAPPENED BEFORE THE 8/13 ANALYSIS, WHICH ALREADY ACCOUNTED FOR
+  IT AND STILL SAID YES.** *(Analysis.)*
+- **★★★★★ SO THE ANSWER STANDS AS FILED ON 8/13, AND IT IS QUANTIFIED: consensus FY27 EPS models a 20-46%
+  earnings DECLINE for every name. IF THAT NORMALISATION DOES NOT HAPPEN, the FY27 multiple collapses to
+  the FY26 one — VLO 12.5×→8.3×, MPC 11.0×→7.0×, PBF 8.1×→4.4×, PARR 6.3×→4.1×. THAT GAP IS THE ROOM,
+  IT IS THE SAME TODAY AS ON 8/13, AND IT IS A TRANSFER FUNCTION, NOT A FORECAST — the assumption is
+  Jake's** (rule 7). *(Restating `:L648`, not re-deriving it.)*
+- **★★ AND THE CRACK IS HIGHER THAN WHEN THE ANSWER WAS GIVEN.** Jake's 8/13 question was *"have estimates
+  marked to a ~92 crack?"* — answer NO, 24 of 24 revision windows positive. **The crack is 96.51 now.**
+  ⇒ **The condition that produced the YES has not weakened; it has strengthened, while the equities went
+  roughly sideways for four days.**
+- **⚠️ WHAT GENUINELY CHANGED SINCE 8/13, AND IT IS ONLY THIS:** **(a)** the crack STALLED at the anchor
+  (97.48 → 96.51 over two sessions) — a two-day observation, not a regime; **(b)** the FY27 consensus data
+  BROKE on 8/15 (`:L852`), so I cannot verify whether consensus has marked UP since — **that is a loss of
+  MEASURABILITY, not evidence the room closed**; **(c)** the **9/1 producer exemption is 15 days out** and
+  stands as the dated bearish catalyst; **(d)** the 8/13 tension — **price above the average target for 4
+  of 6** — is unmeasured today.
