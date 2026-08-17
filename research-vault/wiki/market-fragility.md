@@ -4112,3 +4112,39 @@ gap #22 on 8/13, earning its keep.
 4. ⬜ **The post-Labor-Day calendar ($50-60B queued, some issuers "asked to wait") against the ~15bp/$75B
    elasticity** — a live, dated test of the supply-re-rating estimate.
 **Links:** [[new-economy-regime]] · [[ai-financing-fragility]] · [[ai-capex-cycle]] · [[detachment-bid]]
+
+### 2026-08-16 ~7:10pm PDT — ⛔ THE CHART ZEROHEDGE CAPTIONED "$300BN IN AUTOCALLABLES" DOES NOT SHOW AN AUTOCALLABLE FOOTPRINT. **BOTH VOL LEGS FELL ~30% TOGETHER — A CORRELATION EVENT REQUIRES THEM TO MOVE APART.** And this tests MY OWN unsourced inference from 8/15, not Jake's input
+Source: Jake's paste, 2026-08-16 ~7:05pm PDT — a ZeroHedge tweet captioned *"$300BN in autocallables"*
+over a **Cboe S&P 500 Constituent Volatility Index** chart (last price **36.37**, Aug-2025→Aug-2026),
+quote-tweeting the 2-day-old McElligott story already filed at `:L4044`.
+⚠️ **ARTIFACT TEST: a screenshot of a tweet containing a chart. Not the Nomura note — still not read.**
+
+#### DATA (MEASURED — `tools/tape.py` + the chart, 2026-08-16 ~7:05pm PDT)
+- **Cboe S&P 500 Constituent Volatility Index: July peak ≈51.0 → 36.37 latest = −28.7%** [chart].
+- **VIX: July max 20.66 → 14.25 (2026-08-14 close) = −31.0%** [M — `tape.py`, close array, not `meta`].
+- **⇒ RATIO index-vol ÷ constituent-vol: 0.405 → 0.392. A ~3% move against ~30% moves in both legs.**
+  ⚠️ **CRUDE PROXY, NOT THE PUBLISHED INDEX**: VIX is 30-day S&P implied; the constituent index is an
+  average of single-name implieds on its own weighting/tenor; CBOE's implied-correlation indices use a
+  weighted pairwise formula. **This ratio is directional evidence, not the correlation print.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ THE CAPTION ASSERTS A CAUSAL LINK THE CHART DOES NOT CARRY. Single-name vol did not fall RELATIVE
+  to index vol — it fell WITH it, and marginally less.** ⇒ **This is a broad volatility collapse, not a
+  dispersion event.** A $300B short-correlation book showing up in the tape would look like the two legs
+  DIVERGING. **They tracked each other to within 2.3 percentage points over a ~30% move.** *(Analysis.)*
+- **★★ AND THIS IS §0.6 WORKING ON MY OWN OUTPUT, WHICH IS THE POINT: on 8/15 I filed the hedging chain
+  (`:L4044`) and flagged it myself — *"the transmission to implied correlation is not stated in what I
+  read."* THE FIRST NEW DATA TO ARRIVE DOES NOT SUPPORT THAT TRANSMISSION.** ⇒ **The inference stays
+  flagged and is now flagged HARDER, not quietly absorbed as confirmation.** *(Analysis.)*
+- **⚠️ WHAT IS NOT REFUTED, stated so this does not over-swing:** the **$300B book** (McElligott, sourced)
+  and the **record-low implied-correlation LEVEL** (CBOE print 8.7-9.93, sourced separately) both stand.
+  **A level claim and a change claim are different objects.** ⇒ **What fails is using THIS CHART as the
+  evidence for either.** The correlation level can be a dealer-book artifact AND this month's vol collapse
+  can be unrelated to it. *(Analysis.)*
+- **★ THE READING RULE THIS EARNS:** *when a chart is captioned with a mechanism, check whether the chart
+  contains the mechanism's SIGNATURE.* **Here the signature is DIVERGENCE between two series and only one
+  series is plotted.** ⇒ **A single-series chart can never evidence a relative-value claim.** *(Analysis.)*
+
+#### ⬜ NOT KNOWN
+- ⬜ **The actual CBOE implied-correlation index today** (COR1M/COR3M) vs the 8.7-9.93 print. **One query.**
+- ⬜ **The primary Nomura note** — still unread across two pastes of this story.
