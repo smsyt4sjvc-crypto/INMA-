@@ -25,6 +25,12 @@ python3 tools/librarian.py <<'EOF'
 EOF
 ```
 **ONE command replaces the old multi-step STEP ZERO.** It prints, in order: the **verified clock** ·
+⭐ **the MAGNITUDE COLLISION + PRIOR-STATEMENT ANCHOR (added 8/17, printed FIRST and before the router
+on purpose)** — every figure in the inbound that the vault has ALREADY stated, oldest first, and per
+entity the number the vault first committed to and when. **⛔ READ THESE BEFORE COMPUTING ANY RATIO,
+SHARE OR DENOMINATOR.** *(Origin: 8/17, the $420B error — the router ranks by RECENCY inside a note, so
+a 6,500-line file shows its newest 3% and a three-week-old denominator the vault already owned never
+surfaced.)* ·
 the **router brief** (⟲ trail → ⛔ corrections → ★★★ standing → 🚩 flags) · the **map-independent
 full-text sweep** (catches vocabulary the map missed — flags "MAP COULD NOT REACH THIS" only when the
 router failed) · the **artifact dupe check** against raw/ + handoffs/ (would have caught the 8/8

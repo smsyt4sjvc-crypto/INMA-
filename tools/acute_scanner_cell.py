@@ -290,6 +290,23 @@ THREADS = {
  # from the inflation-release vocabulary — so the vault's own macro spine (new-economy-regime) and
  # its REGISTERED HIKE CALL were unreachable by the single most routine macro inbound there is.
  # ENTITIES = the releases and agencies; MEASURES = how a print is reported.
+ # gap #22 (2026-08-17, Jake): "we've tracked corporate / 2 / 10 / 30y treasury bond spreads
+ # closely" -- and there was NO thread for it. FED is policy; FINANCING is AI paper. The 8/17
+ # brief's "10Y at 4.71%" matched FED(4) and landed nowhere. 187 curve mentions were buried in
+ # new-economy-regime.md. Thread + wiki/rates-board.md created together.
+ 'RATES':     ['term premium','yield curve','curve steepen','curve flatten','bear steepen',
+               'bull steepen','inversion','inverted curve','2s10s','5s30s','10s30s',
+               'long end','long-end','front end','duration','convexity','real yield',
+               'breakeven','tips','10-year yield','10y yield','30-year yield','30y yield',
+               'treasury yield','treasury yields','coupon supply','refunding','auction',
+               'auction stop','tail','bid-to-cover','bid to cover','indirect bidding',
+               'direct bidding','dealer takedown','bid dispersion','allotted at the stop',
+               'primary dealer','qra','quarterly refunding','debt ceiling','issuance mix',
+               'bills vs coupons','acm','adrian crump','moench',
+               'ig spread','ig oas','high-yield spread','hy oas','credit spread','oas',
+               'investment grade','high yield','spread widening','spread tightening',
+               'corporate spread','cds spread','swap spread','sofr','move index',
+               'jgb','gilt','bund','oat','btp','boj','yield curve control','ycc'],
  'FED':       ['ppi','producer price','cpi','pce','core pce','deflator','headline cpi',
                'bls','bea','import price','ism prices','prices paid','unit labor cost',
                'month-over-month','year-over-year','mom','yoy','annualised','annualized',
@@ -452,6 +469,7 @@ ROUTE = {
  'WAR/OIL':   'demand-destruction / war-board / oil-value-chain',
  'BLACK SEA': 'demand-destruction (CPC/Kazakh outage) / oil-value-chain',
  'INVENTORY': 'demand-destruction (SPR clock)',
+ 'RATES':     'rates-board (THE curve/spread board: level, auction internals, the 4-route long-end conclusion) / new-economy-regime (the argument in full) / market-fragility',
  'FED':       'new-economy-regime / market-fragility / predictions (the registered hike call)',
  'CONSUMER':  'consumption-vs-investment-crux (THE spine question) / new-economy-regime / market-fragility (the weekly data calendar + GS pre-print forecasts) / glp1-wardrobe-cycle (the apparel line) / trade-down-landing-pads / demand-destruction',
  'FLOWS':     'market-fragility (the 7/22 gearing frame + 8/8 record tech inflows) / detachment-bid / portfolio-state',

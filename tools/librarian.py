@@ -9,8 +9,19 @@
 #      <the pasted text, or the extracted text of an upload>
 #      EOF
 #
-#  It replaces the old multi-step STEP ZERO with five checks in one call:
+#  It replaces the old multi-step STEP ZERO with SEVEN checks in one call:
 #    1. CLOCK      — verified PDT + UTC printed first (the timestamp rule, baked in)
+#    1b. COLLISION — ⭐ added 2026-08-17. Figures in the inbound that ALREADY APPEAR in wiki/,
+#                    oldest first. RUNS BEFORE THE ROUTER ON PURPOSE: on 8/17 the router's
+#                    brief ran 1,350 lines and the checks that mattered sat at line 1,359 —
+#                    which is how they get skipped. Most important check, first position.
+#    1c. ANCHOR    — ⭐ added 2026-08-17. Per ENTITY: what number has the vault already
+#                    committed to, and WHEN did it first say so.
+#                    ⇒ BOTH EXIST BECAUSE THE ROUTER RANKS BY RECENCY INSIDE A NOTE.
+#                    ai-financing-fragility.md is 6,500 lines / 160 entries; "newest 5" is 3%.
+#                    On 8/17 the vault had held ">$500B total incl. chips" for the Ohio campus
+#                    since 7/26 (:1163). Nothing surfaced it, a denominator was re-derived,
+#                    and the resulting headline entry was superseded 30 minutes later.
 #    2. ROUTER     — the thread-map brief (⟲ trail, ⛔ corrections, ★★★, 🚩 flags)
 #    3. SWEEP      — full-text scan of wiki/ for the inbound's DISTINCTIVE TOKENS,
 #                    independent of the keyword map. Files the sweep finds that the
@@ -92,6 +103,170 @@ def sweep(tokens):
             hits.setdefault(os.path.relpath(f, ROOT), set()).add(tok)
     return {f: s for f, s in hits.items() if len(s) >= 2}, dropped
 
+MAG_RE = re.compile(r"""(?xi)
+    (?:\$\s?\d[\d,]*(?:\.\d+)?\s*(?:trillion|billion|million|bn|[btm])\b)   # $105B, $2 trillion
+  | (?:\b\d[\d,]*(?:\.\d+)?\s*(?:gw|mw|gigawatt|megawatt)s?\b)              # 10GW, 800MW
+  | (?:\b\d+(?:\.\d+)?\s*(?:bp|bps|basis points?)\b)                        # 33.6bp
+  | (?:\b\d+(?:\.\d+)?\s?%)                                                 # 25%, 19.2%
+""")
+DATE_RE = re.compile(r'(20\d\d-\d\d-\d\d)')
+MAX_ANCHOR_HITS = 60   # above this a token is vocabulary, not an entity (calibrated 8/17)
+# Generic market/status vocabulary that arrives CAPITALISED and therefore looks like an entity.
+# Observed 8/17 polluting the anchor from a verification brief's own status legend and
+# signal table ("CONFIRMED", "PARTIAL", "Bullish", "Net signal"). Extend as new ones appear —
+# this list is a calibration record, same discipline as the thread map's gap history.
+ANCHOR_STOP = set('''bullish bearish confirmed unconfirmed partial commentary duplicate aggregate
+verification status legend theme signal sources source method summary executive brief feed item
+route street index equity net gross yoy mom qoq consensus estimate estimates target targets
+january february march april may june july august september october november december
+monday tuesday wednesday thursday friday weekly monthly quarterly annual
+bullishness risk risks live provisional treat exact separate major minor broad narrow'''.split())
+
+def hot_tokens(text, window=220):
+    """Tokens sitting NEAR a magnitude in the INBOUND. These are the ones where a ratio,
+    share or denominator is about to be computed — so they are the ones worth anchoring.
+    (On 8/17 'ohio' ranked too low to be picked by frequency alone, and 'ohio' was the
+    entity whose denominator the vault already held.)"""
+    hot = set()
+    for m in MAG_RE.finditer(text):
+        seg = text[max(0, m.start() - window): m.end() + window]
+        for w in re.findall(r"[A-Z][A-Za-z0-9&./-]{2,}", seg):
+            lw = w.lower().strip('.-/')
+            if lw not in STOP and lw not in ANCHOR_STOP and len(lw) >= 4:
+                hot.add(lw)
+    return hot
+
+def norm_mag(m):
+    """'$500B' / '$500 billion' / '>$500bn' -> '500b'.  '10GW' -> '10gw'.  '25 %' -> '25%'."""
+    t = m.lower().replace(',', '').replace(' ', '').lstrip('$')
+    t = re.sub(r'(trillion|^t$|t$)', 't', t) if t.endswith(('trillion', 't')) else t
+    t = t.replace('trillion', 't').replace('billion', 'b').replace('bn', 'b').replace('million', 'm')
+    t = t.replace('gigawatts', 'gw').replace('gigawatt', 'gw').replace('megawatts', 'mw').replace('megawatt', 'mw')
+    t = re.sub(r'(basis points?|bps)$', 'bp', t)
+    t = re.sub(r'\.0+([a-z%]*)$', r'\1', t)
+    return t
+
+def collisions(text, rows_all, max_out=8, per_mag=3):
+    """⭐⭐ MAGNITUDE COLLISION — the sharpest form of the anchor, and the one that would
+    have caught the 8/17 error directly.
+
+    The inbound carried '$500B'. The vault had carried '>$500B total incl. chips' for the
+    Ohio campus since 7/26 (ai-financing-fragility:1162). Nothing surfaced it, so the
+    denominator was re-derived and came out wrong. ⇒ MATCH ON THE NUMBER ITSELF, not on
+    the topic: when a figure in the inbound already appears in wiki/, that is the single
+    highest-value line to read before doing any arithmetic with it.
+    """
+    want = {}
+    for m in MAG_RE.finditer(text):
+        want.setdefault(norm_mag(m.group(0)), m.group(0))
+    if not want:
+        return []
+    out = []
+    for key, shown in want.items():
+        if len(key) < 3 or key.endswith('%') and len(key) <= 3:
+            continue                     # bare '5%' collides with everything; needs a subject
+        hits = []
+        for d, f, i, ln, low in rows_all:
+            for m2 in MAG_RE.finditer(low):
+                if norm_mag(m2.group(0)) == key:
+                    hits.append((d, f, i, ln)); break
+        # ⛔ NO UPPER CAP ON MONEY/POWER. Calibrated 8/17: '$500B' carries 103 lines and an
+        # earlier version dropped it at >40 — killing the single collision that mattered.
+        # A figure the vault repeats constantly is MORE load-bearing, not less; we just show
+        # its oldest and newest rather than all of them.
+        # Bare PERCENTAGES are the exception: '3.1%' collides with unrelated tables, so a
+        # percentage only earns a slot if it is rare enough to be about something specific.
+        is_pct = key.endswith('%')
+        if hits and (len(hits) <= 8 if is_pct else True):
+            hits.sort(key=lambda r: r[0])
+            out.append((shown, len(hits), hits))
+    out.sort(key=lambda x: (x[0].endswith('%'), -x[1]))
+    out = out[:max_out]
+    # DE-CLUSTER: two hits 4 lines apart in one note are one statement, not two. Keep the
+    # first of each cluster so the slots go to DIFFERENT statements. (8/17: the $500B
+    # collision spent both its oldest slots on :692 and :696 — adjacent lines, same entry.)
+    final = []
+    for rank, (shown, n, hits) in enumerate(out):
+        seen, keep = {}, []
+        for h in hits:
+            d, f, i, ln = h
+            if any(f == pf and abs(i - pi) < 12 for pf, pi in seen.items()):
+                continue
+            seen[f] = i
+            keep.append(h)
+        # the TOP collision gets a wide window; a wide, load-bearing figure deserves the room.
+        width = 7 if rank == 0 else per_mag
+        pick = keep[:width - 1] + ([keep[-1]] if len(keep) >= width else [])
+        final.append((shown, n, pick))
+    return final
+
+def _mag_lines():
+    """One pass over wiki/: every line carrying a magnitude, tagged with the date of the
+    dated header it sits under. Built once, then matched against candidate tokens."""
+    out = []
+    paths = []
+    for dp, _, fns in os.walk(WIKI):          # wiki/ HAS SUBDIRS (wiki/war/) -- listdir misses them
+        paths += [os.path.join(dp, f) for f in fns if f.endswith('.md')]
+    for path in sorted(paths):
+        fn = os.path.relpath(path, WIKI)
+        cur = ''
+        try:
+            lines = open(path, errors='replace').read().split('\n')
+        except OSError:
+            continue
+        for i, ln in enumerate(lines, 1):
+            if ln.startswith('#'):
+                m = DATE_RE.search(ln)
+                if m:
+                    cur = m.group(1)
+            if MAG_RE.search(ln):
+                out.append((cur or '0000-00-00', f'wiki/{fn}', i, ln.strip(), ln.lower()))
+    return out
+
+def anchors(text, ubiq=(), rows_all=None, per_entity=3, max_entities=8):
+    """⭐ THE PRIOR-STATEMENT ANCHOR — added 2026-08-17 after the $420B error.
+
+    THE FAILURE IT FIXES: the router ranks entries by RECENCY inside a matched note.
+    ai-financing-fragility.md is 6,500 lines / 160 entries; 'newest 5' is 3% of it. On
+    2026-08-17 the vault had held '>$500B total incl. chips' for the Ohio campus since
+    7/26 at :1162 — three weeks old, so nothing surfaced it, and a denominator was DERIVED
+    that the vault already owned. Cost: a wrong headline entry, superseded 30 min later.
+
+    ⇒ CANDIDATES ARE THE TOKENS SITTING NEXT TO A NUMBER IN THE INBOUND — those are the
+    ones a ratio is about to be computed for. For each, show vault lines pairing that
+    entity WITH A MAGNITUDE, OLDEST FIRST. Recency is the router's job; this answers the
+    other question: what has the vault already committed to for this thing, and when first?
+    ⚠️ Ranked by SPAN (oldest→newest gap), because an entity the vault has carried a number
+    on for weeks is exactly where a fresh derivation is most likely to contradict it.
+    """
+    cands = [t for t in hot_tokens(text) if t not in set(ubiq)]
+    rows_all = rows_all if rows_all is not None else _mag_lines()
+    idx = {}
+    for tok in cands:
+        pat = re.compile(rf'\b{re.escape(tok)}\b')
+        hits = [r for r in rows_all if tok in r[4] and pat.search(r[4])]
+        # ⚠️ HIT-COUNT IS THE ENTITY DISCRIMINATOR, measured 8/17 on this vault:
+        #   ohio 23 · cxmt 26 · nvidia 42 · openai 52   ← entities the vault holds numbers on
+        #   index 125 · july 105 · equity 100           ← vocabulary, identifies nothing
+        # Above the ceiling the token is a word, not a subject. Below 1 there is nothing to anchor.
+        if hits and len(hits) <= MAX_ANCHOR_HITS:
+            idx[tok] = sorted(hits, key=lambda r: r[0])
+    def span_days(rows):
+        ds = sorted(d for d, *_ in rows if d != '0000-00-00')
+        if len(ds) < 2:
+            return 0
+        from datetime import date
+        a, b = (date(*map(int, x.split('-'))) for x in (ds[0], ds[-1]))
+        return (b - a).days
+    # rank by SPAN first: an entity the vault has carried a number on for weeks is exactly
+    # where a fresh derivation is most likely to contradict something already committed.
+    scored = sorted(idx.items(), key=lambda kv: (-span_days(kv[1]), -len(kv[1])))[:max_entities]
+    out = []
+    for tok, rows in scored:
+        pick = rows[:per_entity - 1] + ([rows[-1]] if len(rows) >= per_entity else [])
+        out.append((tok, len(rows), [(d, f, i, ln) for d, f, i, ln, _ in pick]))
+    return out
+
 def dupes(tokens, days=60):
     now, out = time.time(), []
     for d in (RAW, HAND):
@@ -118,6 +293,34 @@ def main():
     print(f'  🕐 VERIFIED CLOCK: {pdt}   ({utc}) — stamp entries from THIS, not from vibes.')
     print('═' * W)
 
+    rows_all = _mag_lines()
+    C = collisions(text, rows_all)
+    print('\n' + '─' * W)
+    print('  ⚠️  MAGNITUDE COLLISION — figures in this inbound that ALREADY APPEAR in wiki/')
+    print('     ⛔ READ THESE FIRST. A number the vault has already stated is a number you must')
+    print('        not re-derive. (8/17: the inbound said $500B; the vault had held ">$500B total')
+    print('        incl. chips" for the Ohio campus since 7/26. Missing it cost a wrong entry.)')
+    if not C:
+        print('     no figure in this inbound matches one already on file.')
+    for shown, n, rows in C:
+        print(f'     ── {shown}   ({n} line(s) in wiki/ carry this figure)')
+        for d, f, i, ln in rows:
+            print(f'        {d}  {f}:{i}')
+            print(f'          {ln[:150]}')
+
+    A = anchors(text, ubiq=(), rows_all=rows_all)
+    print('\n' + '─' * W)
+    print('  ⚓ PRIOR-STATEMENT ANCHOR — what number has the vault ALREADY committed to, and WHEN FIRST?')
+    print('     ⛔ Read this BEFORE deriving any denominator, ratio or share from the inbound.')
+    print('     (OLDEST first — the router shows newest. The 8/17 $420B error was an oldest-line miss.)')
+    if not A:
+        print('     no entity in this inbound is paired with a magnitude anywhere in wiki/.')
+    for tok, n, rows in A:
+        print(f'     ── {tok.upper()}  ({n} magnitude-bearing lines in wiki/)')
+        for d, f, i, ln in rows:
+            print(f'        {d}  {f}:{i}')
+            print(f'          {ln[:150]}')
+
     # 2. router brief (thread map)
     r = subprocess.run([sys.executable, os.path.join(ROOT, 'tools', 'vault_router.py')],
                        input=text, capture_output=True, text=True, timeout=120)
@@ -143,6 +346,9 @@ def main():
         print(f'     {len(sset):>2}  {f}{flag}')
         print(f'         tokens: {", ".join(sorted(sset)[:8])}')
 
+    # 3b. PRIOR-STATEMENT ANCHOR — oldest committed numbers, not newest entries
+    wide = [t for t in distinctive_tokens(text, cap=120) if t not in ubiq]
+    hotset = hot_tokens(text)
     # 4. raw/ + handoffs/ dupe check
     D = dupes([t for t in toks if ' ' not in t])
     print('\n' + '─' * W)
