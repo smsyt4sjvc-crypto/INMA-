@@ -4111,6 +4111,7 @@ gap #22 on 8/13, earning its keep.
    diversification" claim.**
 4. ⬜ **The post-Labor-Day calendar ($50-60B queued, some issuers "asked to wait") against the ~15bp/$75B
    elasticity** — a live, dated test of the supply-re-rating estimate.
+     ⟲ SUPERSEDES market-fragility.md:L4131 — OVERCORRECTED: DSPX shows dispersion +44% vs VIX -33% Mar-Jul; the legs DID separate, I judged a regime from one series' right edge
 **Links:** [[new-economy-regime]] · [[ai-financing-fragility]] · [[ai-capex-cycle]] · [[detachment-bid]]
 
 ### 2026-08-16 ~7:10pm PDT — ⛔ THE CHART ZEROHEDGE CAPTIONED "$300BN IN AUTOCALLABLES" DOES NOT SHOW AN AUTOCALLABLE FOOTPRINT. **BOTH VOL LEGS FELL ~30% TOGETHER — A CORRELATION EVENT REQUIRES THEM TO MOVE APART.** And this tests MY OWN unsourced inference from 8/15, not Jake's input
@@ -4129,6 +4130,7 @@ quote-tweeting the 2-day-old McElligott story already filed at `:L4044`.
 
 #### THESIS (interpretation — NOT fact)
 - **⛔⛔ THE CAPTION ASSERTS A CAUSAL LINK THE CHART DOES NOT CARRY. Single-name vol did not fall RELATIVE
+  ⟲ SUPERSEDED 2026-08-17 → market-fragility.md:L4113 — OVERCORRECTED: DSPX shows dispersion +44% vs VIX -33% Mar-Jul; the legs DID separate, I judged a regime from one series' right edge
   to index vol — it fell WITH it, and marginally less.** ⇒ **This is a broad volatility collapse, not a
   dispersion event.** A $300B short-correlation book showing up in the tape would look like the two legs
   DIVERGING. **They tracked each other to within 2.3 percentage points over a ~30% move.** *(Analysis.)*
@@ -4148,3 +4150,56 @@ quote-tweeting the 2-day-old McElligott story already filed at `:L4044`.
 #### ⬜ NOT KNOWN
 - ⬜ **The actual CBOE implied-correlation index today** (COR1M/COR3M) vs the 8.7-9.93 print. **One query.**
 - ⬜ **The primary Nomura note** — still unread across two pastes of this story.
+
+### 2026-08-16 ~7:25pm PDT — ⛔⛔ I OVERCORRECTED 15 MINUTES AGO AND THE PUBLIC DATA SAYS SO. **DISPERSION ROSE 44% WHILE INDEX VOL FELL 33% FROM MARCH TO JULY — that IS the divergence signature I said was missing.** The paywalled Nomura note was never the blocker; **a one-series chart was**
+⟲ SUPERSEDES `market-fragility.md:L4131` — I judged a REGIME from the right-hand edge of ONE series.
+Trigger: Jake, *"the No[mura] note is behind a paywall."* ⇒ **The note is BLOCKED, not avoided — and the
+load-bearing question never needed it.** My own flagged inference was testable against free CBOE data.
+
+#### DATA (MEASURED — Yahoo/CBOE pulls, close arrays not `meta`, 2026-08-16 ~7:25pm PDT)
+- **★ CBOE S&P 500 DISPERSION INDEX (^DSPX) — the direct instrument, 251 sessions of history:**
+
+| 2026 | DSPX avg | VIX avg |
+|---|---|---|
+| Mar | 31.67 | 25.60 |
+| Apr | 37.09 | 19.81 |
+| May | 38.83 | 17.24 |
+| Jun | 41.96 | 17.96 |
+| **Jul** | **45.69** *(1y max 47.51)* | 17.15 |
+| Aug | 37.58 · **latest 33.45** | 15.24 |
+
+- **⇒ MARCH → JULY: DSPX +44.3% (31.67→45.69) WHILE VIX −33.0% (25.60→17.15).** **The two legs separated
+  violently, in opposite directions, for four months.**
+- **⇒ AUGUST REVERSED IT: DSPX −17.7% vs VIX −11.1%.** Dispersion falling FASTER than index vol.
+- **DSPX latest 33.45 = 32nd PERCENTILE of the trailing year**, down from near its 1-year high six weeks ago.
+- **Implied correlation today: COR1M 7.45 · COR30D 8.35 · COR3M 11.03** [M].
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ CONCEDED: MY 7:10pm CORRECTION WAS TOO STRONG AND ZEROHEDGE'S CAPTION WAS CLOSER TO RIGHT THAN MY
+  REBUTTAL.** I said a dispersion event requires the two legs to move apart, they hadn't, therefore no
+  footprint. **The legs DID move apart — enormously — for four months. I could not see it because I was
+  handed ONE series and only checked the same window the chart showed.** ⇒ **THE READING RULE I WROTE AT
+  7:10pm WAS RIGHT AND I APPLIED IT TO MYSELF TOO NARROWLY: "a single-series chart cannot evidence a
+  relative-value claim" ALSO MEANS IT CANNOT REFUTE ONE.** *(Analysis.)*
+- **★★★★ AND THE CORRECTED PICTURE IS MORE INTERESTING THAN EITHER PRIOR READ, BECAUSE IT HAS TWO PHASES:
+  the dispersion regime BUILT from March to July (+44% vs −33%), and has been UNWINDING for six weeks
+  (−17.7% vs −11.1%).** ⇒ **The right-hand edge of that chart — the part ZeroHedge boxed and I over-read —
+  is the UNWIND, not the build.** ⇒ **"Coiled spring" describes the March-July accumulation; the six weeks
+  since are the spring RELEASING, with correlation rising off the floor.** *(Analysis.)*
+- **⚠️ AND THE TRANSMISSION MECHANISM IS *STILL* UNSOURCED — this data does NOT rescue my 8/15 inference.**
+  DSPX moving is a MEASUREMENT that dispersion changed. **It says nothing about WHY, and an autocallable
+  dealer book is only one candidate cause** (others: earnings season, index concentration, single-name
+  event risk, the AI complex de-correlating from the rest). ⇒ **The flag at `:L4044` stands. What has
+  changed is that the PHENOMENON is confirmed; the CAUSAL ATTRIBUTION is not.** *(Analysis.)*
+- **⛔ AND A DEFECT IN MY OWN 8/15 FILING, caught by trying to compare: I filed "implied correlation
+  8.7-9.93, lowest in 23+ years" WITHOUT RECORDING WHICH INDEX OR TENOR.** Today's prints span
+  **7.45 / 8.35 / 11.03** across COR1M / COR30D / COR3M — **so the comparison I wanted to make is
+  impossible against my own note.** ⇒ **A correlation number without a tenor is not a number.** Same class
+  as this session's INSTRUMENT MISMATCH, committed by me, in the vault, four days running. *(Analysis.)*
+
+#### ⬜ NOT KNOWN — and this is what the paywall ACTUALLY costs us
+- ⬜ **$300 BILLION OF *WHAT*?** Notional outstanding · annual issuance · dealer vega · gross vs net?
+  **The vault has carried this number since 8/15 WITHOUT A UNIT.** ⇒ **Only the primary note resolves it,
+  and it is paywalled. THIS is the real cost of the block — not the thesis, the DENOMINATOR.**
+- ⬜ Whether McElligott himself claims the correlation transmission, or whether that is entirely my
+  inference. **Two pastes, still unknown.**
