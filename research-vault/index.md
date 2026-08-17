@@ -59,6 +59,12 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 - [[war-rhetoric]] — rhetoric/verbal ledger (threats/claims/doctrines), one flag each
 - (Scan for market-relevant war items: grep `MARKER-MOVED\|SHOULD-MOVE` across `wiki/war/`.)
 
+## 📉 Rates / curve / credit spreads
+- [[rates-board]] — **THE routing target for any rates inbound** (added 2026-08-17). Level, August
+  refunding internals (30Y stop 5.216%, bid dispersion 33.6bp), the FOUR-ROUTE long-end conclusion,
+  and the open items. **The argument in full still lives in [[new-economy-regime]]; this is the board.**
+  ⬜ Corporate IG/HY as a macro series is the thinnest leg — flagged inside.
+
 ## 🩻 Fragility / regime / breadth
 - [[market-fragility]] — the regime read
 - [[fragility-engine]] — "the brain" (the score)

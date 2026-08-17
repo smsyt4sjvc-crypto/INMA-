@@ -1,0 +1,76 @@
+# rates-board — the curve, term premium and credit spreads, in one place
+
+> **WHY THIS NOTE EXISTS (2026-08-17).** Jake: *"We've tracked corporate / 2 / 10 / 30y treasury
+> bond spreads closely."* **True — and there was nowhere to put it.** 187 mentions of the long end
+> lived inside `new-economy-regime.md` (a note about a FRED macro CSV), 52 in `market-fragility.md`,
+> 27 in `ai-financing-fragility.md`, 4 in `portfolio-state.md`. **The router's 24 threads had no
+> RATES key at all** — `FED` is policy, `FINANCING` is AI paper. So when the 8/17 brief carried
+> *"10Y at 4.71%,"* it matched `FED(4)` and landed nowhere.
+>
+> **This note is the ROUTING TARGET, not a rewrite.** Every line below points at the entry that
+> established it. The detail and the argument stay where they were written; what changes is that a
+> rates inbound now has an address. Corrections still go to the ORIGINATING note first.
+
+Related: [[new-economy-regime]] (the macro series + the 30Y argument in full) · [[market-fragility]]
+(positioning, vol, dispersion) · [[ai-financing-fragility]] (the private-credit / IG-spread side) ·
+[[portfolio-state]] (what Jake holds against this) · [[oil-value-chain]] (the inflation leg)
+
+---
+
+## DATA (observed) — THE LEVEL, most recent first
+- [2026-08-17] **10Y ~4.71-4.712%.** Source: third-party verification brief (S10 Barron's/market
+  data) → `raw/2026-08-17-news-verification-brief-docx.txt`. **Live snapshot, moves fast.**
+  ⚠️ **Consistent with, and slightly below, the 8/16 secondary print below.**
+- [2026-08-16] **10Y 4.696% · 30Y 5.265% (secondary).** → `new-economy-regime.md:3814`
+- [2026-08-16] **30Y AUGUST REFUNDING AUCTION STOP = 5.216% — the highest 30Y auction yield since
+  2001** — into **$360B of August coupon supply.** → `new-economy-regime.md:3752`, `:3767`
+  - **30Y stop 5.216% → 5.265% secondary = +4.9bp since it cleared.** → `:3820`
+- [2026-08-15] **30Y at 5.20%, highest since 2007; real yields pushing 3%.** → `:3592`, `:3602`
+- [2026-08-07] **NY Fed ACM 10Y term premium 0.78%, +13bp on the week.** → `:3379`
+
+## DATA (observed) — AUCTION INTERNALS, 2026-08 refunding
+**These are the numbers that cut AGAINST a simple bearish read, and they are the reason the vault's
+conclusion is about PRICE rather than ABSORPTION.** → `new-economy-regime.md:3778`-`:3790`
+- **BID DISPERSION: 33.6bp at the 30Y vs 11.3bp at the 10Y.** *"The sharpest number nobody flagged"* —
+  term premium is compensation for uncertainty, and this measures that uncertainty directly.
+- **Dealer takedown LOW: 8.6% (10Y) · 11.5% (30Y).** Dealers are the residual buyers; low takedown
+  means real money cleared it.
+- **Indirect bidding at the 30Y (66.8%) EXCEEDED the 3Y (64.2%).**
+- **Only 12.10% allotted at the stop, vs 65.27% at the 10Y** ⇒ a thick wall of bids at 5.216%.
+- ⇒ **Weakness was in PRICE, not in ABSORPTION. The buyers are yield-targeters, not duration-needers.**
+
+## ★★★ STANDING CONCLUSION — do not re-argue
+- **THE LONG END IS PRICED BY TERM PREMIUM AND SUPPLY, NOT BY THE EXPECTED PATH OF POLICY.**
+  **Established by FOUR INDEPENDENT ROUTES**, the fourth being a primary-market clearing event rather
+  than an inference from secondary prices: → `new-economy-regime.md:3460` (route 2, the curve
+  out-of-sample) · `:3592` (route 3) · `:3773` (route 4, the auction).
+- **⇒ THE EXTENSION THE VAULT DID NOT HAVE UNTIL 8/15: IF THE LONG END IS PRICED BY SUPPLY, A FED CUT
+  DOES NOT RALLY IT.** Precedent: **the September-2024 cut was followed by ~40bp HIGHER long yields.**
+  → `:3592`
+- **⛔ THE 30Y IS THE WRONG INSTRUMENT FOR A HOUSEHOLD-COST ARGUMENT.** Jake's bond-yields-in-inflation
+  instinct maps to a real published paper (Summers / NBER w32163) — **but that paper uses mortgage,
+  auto and lease rates, and the vault's own decomposition kills the 30Y version: 30Y REAL +25bp while
+  the BREAKEVEN went −4bp.** → `:3690`
+
+## 🔴 OPEN — rates items owed
+- 🚩🚩 **Japan 3M + JGB 10Y/30Y ⇒ THE HEDGED PICKUP.** Converts the repatriation/yen-carry story from
+  narrative into arithmetic. **JGB 2Y at 1.687% is a 31-year high; registered tell ¥162 → ¥159.05.**
+  Neither Japanese leg is in hand. → handoff `2026-08-17`, [[new-economy-regime]]
+- 🚩 **CBOE implied correlation TODAY, WITH A TENOR**, against the 8.7-9.93 print filed without one.
+  **A correlation number without a tenor is not a number.** → [[market-fragility]]
+- ⬜ **CORPORATE SPREADS ARE THE THINNEST LEG OF THIS BOARD.** Jake named corporate spreads as closely
+  tracked, and the vault's IG/HY material is mostly *inside the AI-paper story*
+  ([[ai-financing-fragility]]: CRWV 125bp wide of guidance, "wider spreads, slower deal progress",
+  issuers ASKED TO WAIT) rather than as a macro series. **A clean IG/HY OAS series is not on file.**
+  🚩 **FETCH: FRED BAMLC0A0CM + BAMLH0A0HYM2, and put the level + 30d change here.**
+
+## IDEAS & DIRECTION (thinking — not fact)
+- [2026-08-17] **The supply-priced long end and the AI-financing thread may be the same story seen
+  from two ends** — Treasury issuance and private AI infrastructure debt competing for the same
+  duration bid. The vault has the crowd-out argument at `ai-capex-cycle.md:2888` ("the crowd-out is
+  not…") and the deficit argument here. **They have never been tested against each other with a
+  number.** *(Direction, not a finding.)*
+
+---
+_Board created 2026-08-17. Seeded from existing entries; nothing here is new research —
+every line carries the pointer to where it was established._
