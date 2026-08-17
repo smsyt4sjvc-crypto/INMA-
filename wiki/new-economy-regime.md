@@ -3802,3 +3802,49 @@ across three auctions plus a supply table is strong evidence of real data — it
 - ⬜ **The 30Y TAIL in basis points** — the digest gives the stop but not the when-issued for the 10Y/30Y,
   so "on the screws" and "tailed" are Jake's characterisations, not computed here. **The 3Y is the only
   one where I can verify the through/tail arithmetic (0.5bp through).**
+
+##### 2026-08-16 ~11:28pm PDT — ★★★★★★ **JGB 2Y AT 1.687%, A 31-YEAR HIGH, IS PART TWO OF A TRAP THE VAULT ALREADY SPECIFIED — AND PART ONE GOT MEASURED AT A PRIMARY AUCTION FOUR HOURS AGO.** The registered TELL has moved: **¥162 → ¥159.05**
+Source: Jake's paste — CNBC-style quote page, **JP2Y:Japan, 1.687%, +0.035, 10:22AM JST**, "highest in
+more than 31 years." **ARTIFACT: a real-time quote page with an ALL-history chart — a price screen, not
+a report about one.** ⚠️ **The "31 years" is the page's claim, not verified here; the chart's left edge
+(~1995, ~2.5-2.6%) is consistent with it.**
+
+#### DATA (MEASURED — `tape.py`-style close-array pulls, 2026-08-16 ~11:28pm PDT)
+- **JGB 2Y 1.687% (+3.5bp)** [Jake's screen] · **USDJPY 159.05** · **US 3M 3.697% · 5Y 4.362% ·
+  10Y 4.696% · 30Y 5.265%.**
+- **THE VAULT'S REGISTERED TELL (`ai-financing-fragility:491`): "yen still weak ¥162 post-June-hike."**
+  ⇒ **NOW ¥159.05 = −1.8%. THE YEN HAS STRENGTHENED. THE TELL IS MOVING.**
+- **⛔ AND THE CARRY GAP CANNOT BE COMPUTED FROM WHAT I HAVE.** US 3M (3.697%) vs JGB **2Y** (1.687%) is a
+  **TENOR MISMATCH — this session's dominant error class.** ⇒ **The 2.01pp figure is NOT the carry
+  differential and must not be quoted as one. It needs JAPAN'S 3M.** ⬜
+- **US 30Y: auction STOP 5.216% (August refunding) → 5.265% secondary today = +4.9bp since it cleared.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THIS IS NOT NEW TERRITORY — IT IS THE SECOND HALF OF A MECHANISM THE VAULT SPECIFIED AND
+  CREDITED TO JAKE.** `ai-financing-fragility:491`, *"yen carry CORNERS the Fed; Jake's sharpest catch"*:
+  **Japan is the largest foreign UST holder (~$1.1T+); a hard BOJ move fires (a) leveraged carry unwind →
+  sell global risk, and (b) REPATRIATION → SELL USTs → US long yields RISE exactly when the risk-off wants
+  them down.** ⇒ **The note's own words: "Same 'long end won't cooperate' trap as the 30Y-5% entry, PLUS A
+  JAPANESE ACCELERANT."** *(Analysis — restating the vault, not re-deriving it.)*
+- **★★★★★ AND PART ONE OF THAT TRAP WAS MEASURED FOUR HOURS AGO, AT A PRIMARY AUCTION.** Tonight's
+  refunding entry: **30Y stop 5.216% into $360B of August coupon supply, with bid dispersion 33.6bp vs
+  11.3bp at the 10Y.** ⇒ **The "long end won't cooperate" leg is no longer an inference from secondary
+  prices — it is a clearing event.** ⇒ **THE JAPANESE ACCELERANT IS THE ONE LEG THAT HAS NOT FIRED, AND
+  TONIGHT'S PRINT IS IT BEGINNING TO LOAD.** *(Analysis.)*
+- **⚠️ AND THE DIVERGENCE WORTH FLAGGING, WITH ITS CAVEAT ATTACHED: the US front end has fallen (~5% → 3.70%)
+  while Japan's has risen (~0 → 1.69% at the 2Y) — ROUGHLY 300bp OF COMPRESSION — AND THE YEN HAS MOVED
+  ONLY 1.8%.** ⇒ **If carry differentials drove the yen mechanically, that compression should have produced
+  far more.** Candidate readings: **(a)** the market does not believe the compression persists;
+  **(b)** non-carry flows dominate; **(c)** the yen has much further to travel and is lagging.
+  ⇒ **⚠️ ALL THREE ARE UNTESTED, AND THE 300bp ITSELF IS TENOR-MISMATCHED. This is a QUESTION raised, not
+  a finding.** *(Analysis.)*
+- **⚠️ WARNING-vs-TRIGGER DISCIPLINE, APPLIED TO MYSELF: a 31-year-high yield is a STATE, not a trigger.**
+  It times nothing. **The dated falsifiable events are: a BOJ policy meeting outcome, and the Japanese
+  fiscal-year-end repatriation window (March).** ⇒ **The state shades odds; only those events time it.**
+
+#### ⬜ NOT KNOWN — and the first two decide whether the repatriation leg is live
+- ⬜ **JAPAN'S 3M RATE** — without it there is no carry differential, only a tenor-mismatched proxy.
+- ⬜ **JGB 10Y and 30Y.** ⇒ **THE ACTUAL TEST IS THE HEDGED PICKUP: a Japanese institution's UST yield
+  MINUS the FX hedge cost, versus the DOMESTIC JGB of the same tenor. When domestic wins, repatriation
+  stops being a story and becomes arithmetic.** **Neither leg is in hand.**
+- ⬜ Independent confirmation of "highest in more than 31 years" — the page's claim, chart-consistent.
