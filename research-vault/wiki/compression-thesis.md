@@ -2201,3 +2201,64 @@ of a smaller portion of yours, only to benefit through your main channels… Fre
   **Two numbers, one deal — take the range, not a point, until it closes.**
 - ⬜ **OpenRouter's revenue**, which would convert the $7-10B into a multiple and make the "price on
   commoditization" claim quantitative rather than directional.
+
+### 2026-08-16 ~9:50pm PDT — ★★★★★★★ JAKE'S OPENROUTER NUMBERS, VERIFIED AND EXTENDED. **THE CAP TABLE IS THE ARGUMENT: CAPITALG (ALPHABET) *LED* AND NVENTURES (NVIDIA) PARTICIPATED — the lane-holders FUNDED the commoditization instrument.** ⛔ But 140× is a STALE DENOMINATOR, and the derived GMV multiple says something neither of us said
+Source: Jake's digest + WebSearch verification (BusinessWire/TechTimes/mlq.ai, round announced 2026-05-26/28).
+
+#### DATA (verified)
+- **CapitalG (Alphabet's growth fund) LED the $113M Series B; NVentures (NVIDIA) participated**, with
+  **ServiceNow · MongoDB · Snowflake · Databricks Ventures**, AMP PBC, Pace Capital, a16z, Menlo.
+- **VALUATION LADDER: $547M (Series A, ~11 months earlier) → $1.3B (May-2026) → $7B+ (Aug-2026, WSJ heard
+  ~$10B).** ⇒ **~13× in ~14 months; 5.4× in ~80 days.**
+- **THROUGHPUT: 5T tokens/wk → 25T/wk (=100T/month) in six months = 5×; now 200T+/month = ~2× since May.
+  "On pace to process over a QUADRILLION tokens this year."** 8M → **10M+ developers**; 400 → **500+ models**.
+- **REVENUE: ~$19M ARR end-2025 → ~$50M ARR March-2026.** Stripe: **$159B** Feb employee tender;
+  **$1.9T processed in 2025, +34%.**
+
+#### THE DERIVATION NEITHER OF US HAD — WHAT 140× ACTUALLY MEANS
+- **$50M ARR ÷ 1 quadrillion tokens/yr = $0.05 of REVENUE per million tokens.** At a blended inference
+  price of ~$1/M (plausible for a mix the vault already measures as **~50% Chinese at the low end**,
+  `:304`), that is a **~5% TAKE RATE on ~$1B of ROUTED GMV.** **The arithmetic reconciles, so use it.**
+- **⇒ STRIPE IS PAYING $7B FOR ~$1B OF ROUTED GMV = 7.0× GMV.**
+- **⇒ STRIPE ITSELF IS VALUED AT $159B ON $1.9T PROCESSED = 0.084× GMV.**
+- **★★★★★ RATIO = 84×. STRIPE IS PAYING ROUGHLY EIGHTY-FOUR TIMES MORE PER DOLLAR OF FLOW FOR
+  AI-INFERENCE ROUTING THAN THE MARKET PAYS FOR ITS OWN PAYMENTS FLOW.** ⇒ **That is the whole deal in
+  one number, and it is a bet on exactly two things: that AI flow grows toward payments scale, and/or
+  that the take rate on inference is structurally defensible at ~5% where payments is ~2-3% and falling.**
+- **⛔ AND 140× IS A STALE DENOMINATOR — the same error class this session has hit four times.** $50M is a
+  **MARCH** figure; **tokens doubled May→Aug alone.** At $100-150M current ARR the multiple is **47-70×
+  forward, not 140×.** ⇒ **Jake flagged "March," so this is a framing lean rather than an error — but the
+  correction STRENGTHENS his conclusion: 50-70× forward on 5×/yr growth is a venture-growth price, not a
+  lunatic one.** *(Analysis.)*
+
+#### ★★★ THESIS — THE CAP TABLE CONFIRMS HIS INCENTIVE THESIS *AND* MY COUNTER, SIMULTANEOUSLY
+- **★★★★★★ HIS THESIS GETS DOCUMENTARY CONFIRMATION, NOT RHETORICAL: he argued the lane-holders benefit
+  from commoditizing the model layer. ALPHABET LED THE ROUND INTO THE ROUTER AND NVIDIA WROTE A CHECK.**
+  **A router's value exists ONLY IF MODELS ARE INTERCHANGEABLE.** ⇒ **Two of the largest lane-holders took
+  equity in the instrument whose value depends on the frontier being commoditized. That is a cap table,
+  not a press release** — and it is far better evidence than "Nvidia is openly working toward integration,"
+  which I graded as *N actors, one bet* ninety minutes ago. **Upgrade it.** *(Analysis.)*
+- **⛔⛔⛔ AND IT CONFIRMS THE COUNTER TOO, WITH A STRUCTURAL REASON I DID NOT HAVE: THE LANE-HOLDERS
+  CANNOT OWN THE TOLL BOOTH, BECAUSE NEUTRALITY IS THE PRODUCT.** A router owned by a model provider is
+  not a router. **Alphabet cannot buy the thing that routes traffic to Anthropic and OpenAI** — on
+  antitrust grounds and on product grounds. ⇒ **THE AGGREGATION RENT IS STRUCTURALLY CAPTURABLE ONLY BY A
+  PARTY OUTSIDE THE MODEL BUSINESS. Which is exactly why a PAYMENTS COMPANY is the natural buyer.**
+  ⇒ **So the commoditizers can FUND the toll booth and take a financial return — CapitalG/NVentures just
+  made ~5× in 80 days — but they cannot OWN it.** ⇒ **"Free albums, fill the stadium" completes: the
+  artists gave away the album, and the distributor got bought for $7B.** *(Analysis — the sharpest form
+  of the counter, and it is stronger than the version I filed at 9:38pm.)*
+- **⚠️ THE FALSIFIABLE PREDICTION THIS GENERATES, which is the useful output:** if aggregation is where the
+  rent lands, **the frontier labs' rational response is to make models NON-INTERCHANGEABLE** — proprietary
+  tool-use, prompt caching that does not port, agentic scaffolding, context formats, enterprise contracts
+  that penalise routing. ⇒ **🚩 WATCH: features shipped by OpenAI/Anthropic/Google whose EFFECT is to break
+  portability.** **Commoditization is contested, not a ratchet, and the $7B is a market bet on which side
+  wins.** *(Analysis.)*
+- **⚠️ AND THE STRIPE ANALOGY HAS A LOAD-BEARING FLAW: payments standardised because they are a REGULATED,
+  low-differentiation utility where the value is reliability. MODELS ARE AGGRESSIVELY DIFFERENTIATING.**
+  ⇒ **"Stripe for AI" holds only if models converge to utility — the same bet as above, restated.**
+
+#### ⬜ NOT KNOWN
+- ⬜ **OpenRouter's ACTUAL take rate.** The ~5% is DERIVED from a $1/M blended price assumption. **One
+  disclosure converts every multiple here from estimate to measurement.**
+- ⬜ **Current ARR.** March's $50M is the last figure on file and throughput has doubled since May.
+- ⬜ **Final deal price** — $7B+ (TechCrunch/Fortune) vs ~$10B (WSJ indication). **Range, not a point.**
