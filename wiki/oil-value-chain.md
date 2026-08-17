@@ -1088,6 +1088,7 @@ equity prints are INTRADAY MONDAY, not settled closes.** Prior vault state: `:L1
 — i.e. this thread ran 54 HOURS without a measurement.**
 
 #### DATA (MEASURED)
+  ⟲ SUPERSEDED 2026-08-17 → oil-value-chain.md:L1145 — CROSS-MONTH CRACK: HO=F and CL=F roll to different delivery months; matched Sep-26 crack is 101.68, not 96.51
 - **ULSD CRACK (HO×42 − WTI): 7/15 = 86.23 → 8/14 = 97.48 → NOW 96.51.** ⇒ **+11.9% over the month, and
   FLAT-TO-DOWN over the last two sessions. The crack has STALLED at the vault's anchor.**
 - **RBOB crack 40.07 · 3-2-1 crack 58.88.**
@@ -1143,6 +1144,7 @@ spreads extensively last week and this weekend."* **He is right on every count.*
 2. **FRAMING: "54 hours without a measurement" reads as NEGLECT. The record is NINE DATED ENTRIES ACROSS
    8/13-8/15** (four on 8/13, one on 8/14, four on 8/15). ⇒ **This is among the most intensively worked
    threads in the vault. The defensible claim was narrow — "the last PRICE measurement is 54h old" — and
+     ⟲ SUPERSEDES oil-value-chain.md:L1090 — CROSS-MONTH CRACK: HO=F and CL=F roll to different delivery months; matched Sep-26 crack is 101.68, not 96.51
    I stated a broad one.**
 3. **⛔⛔⛔ THE REAL ONE: THIS EXACT QUESTION WAS ASKED AND ANSWERED ON 2026-08-13 AT 2:00pm WITH A ✅
    (`:L648` — "IS THERE ROOM TO RUN ON CRACKS? — ANSWERED"). I RE-DERIVED IT FROM SCRATCH.**
@@ -1184,3 +1186,52 @@ spreads extensively last week and this weekend."* **He is right on every count.*
   MEASURABILITY, not evidence the room closed**; **(c)** the **9/1 producer exemption is 15 days out** and
   stands as the dated bearish catalyst; **(d)** the 8/13 tension — **price above the average target for 4
   of 6** — is unmeasured today.
+
+### 2026-08-17 ~8:25am PDT — ✅ **THE DEFERRED STRIP, FETCHED AT LAST** (the ⬜ registered since 8/15 and never closed) — and it converts Jake's "confident for 60-90 days?" into a **PRICED, FALSIFIABLE PROPOSITION.** ⛔ Plus it catches a CROSS-MONTH CRACK in my own number from 40 minutes ago
+Source: matched-month NYMEX pulls (HO/CL by contract code), 2026-08-17 ~8:22am PDT. **This closes
+`:L1085` open item #2 and supersedes the spot-crack figure in `:L1090`.**
+
+#### ⛔ DATA — MY OWN 96.51 WAS A CALENDAR ARTIFACT
+- **`HO=F` and `CL=F` are CONTINUOUS front-month tickers and do NOT roll to the same delivery month**
+  (NYMEX heating oil expires end of the prior month; WTI ~the 20th). ⇒ **matched Sep-26: 184.19 − 82.51 =
+  101.68. My unmatched HO=F − CL=F = 96.51.** ⇒ **5.17 of "crack" was a MONTH MISMATCH.**
+  **INSTRUMENT MISMATCH — same class, same session, and this note already carries the identical warning
+  at `:L1023` ("re-run the decomposition on MATCHED INSTRUMENTS").** *(I wrote that flag and then broke it.)*
+
+#### DATA — THE ULSD CRACK STRIP (MEASURED, matched months)
+| contract | HO×42 | WTI | **crack** | vs front |
+|---|---|---|---|---|
+| **Sep-26 (front)** | 184.19 | 82.51 | **101.68** | — |
+| Oct-26 | 178.84 | 81.74 | 97.10 | −4.5% |
+| **Nov-26** | 172.45 | 80.49 | **91.96** | **−9.6%** ← *inside Jake's window* |
+| **Dec-26** | 165.60 | 79.02 | **86.58** | **−14.9%** ← *inside Jake's window* |
+| Mar-27 | 151.17 | 75.50 | 75.67 | −25.6% |
+| Dec-27 | 129.23 | 71.18 | 58.05 | **−42.9%** |
+- **DECOMPOSITION Sep→Dec: product −18.59 · crude −3.49 · crack −15.10.** ⇒ **The deferred decline is
+  OVERWHELMINGLY PRODUCT — falling crude partly OFFSETS it.** **The market is pricing DIESEL
+  normalisation specifically, INTO heating season.**
+- **★ THE SHAPE IS UNCHANGED SINCE 8/13.** Vault anchor: 97.09 → 56.49 = **−41.8%.** Today: 101.68 →
+  58.05 = **−42.9%.** ⇒ **Four days of tape have not moved what the market prices.**
+
+#### ★★★★★★ THESIS — THE HORIZON QUESTION, ANSWERED AS A PROPOSITION RATHER THAN A FEELING
+- **★★★★★ JAKE'S 60-90 DAYS MAPS TO Nov-26 AND Dec-26, AND THE MARKET PRICES THOSE AT 91.96 AND 86.58
+  AGAINST A 101.68 FRONT.** ⇒ **THE BET, STATED EXACTLY: over the next 60-90 days the crack does NOT fall
+  the 10-15% the curve already has in it.** ⇒ **That is not "is there room" — it is a specific, dated,
+  falsifiable proposition with a market-cleared price on the other side.** *(Analysis. Rule 7 — the
+  proposition is stated, not recommended.)*
+- **⛔⛔ AND ON "ARE WE CONFIDENT": NO — AND THE VAULT'S OWN LAW IS WHY.** The 8/13 answer (`:L648`) is a
+  claim about a **CONDITION** — estimates have not marked, 24 of 24 revision windows positive. **It is NOT
+  a claim about a HORIZON.** ⇒ **Converting "the gap exists" into "the gap closes within 60-90 days" is
+  precisely the WARNING-vs-TRIGGER error this vault bans: STATES SHADE ODDS AND TIME NOTHING.**
+  ⇒ **The evidence supports the GAP. It does not support the CLOCK. Those are different claims and the
+  rulebook says so.** *(Analysis.)*
+- **★★★★★★ AND THE WINDOW IS NOT NEUTRAL — IT CONTAINS BOTH THE BEARISH CATALYST AND THE RESOLUTION
+  EVENT.** **(a) 2026-09-01, 15 days out: the Russian diesel-export ban's PRODUCER EXEMPTION** (`:L765`)
+  — dated, unambiguous, and it partially reverses one of the two events the vault identified as changing
+  the character of the move in mid-July. **(b) Q3 EARNINGS, late October — INSIDE the window — is when
+  FY27 guidance gets marked, i.e. the mechanism that either CONFIRMS or KILLS "estimates have not caught
+  up."** ⇒ **Jake did not pick a random horizon. He picked the one in which his thesis gets SETTLED.**
+  ⬜ **Exact Q3 report dates not verified — "late October" is the pattern, not a checked calendar.**
+- **⚠️ AND THE ONE UNMEASURED THING THAT COULD KILL IT REMAINS UNMEASURED: EIA distillate inventories vs
+  the 5-year band, last read 8/13.** **The strip closes the "is there room" instrument; inventories are
+  still the break condition and they are four days stale.**
