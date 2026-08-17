@@ -200,6 +200,23 @@ def collisions(text, rows_all, max_out=8, per_mag=3):
         final.append((shown, n, pick))
     return final
 
+
+TENOR = re.compile(r'\b(\d{1,2})\s*[-]?\s*(?:y|yr|year)\b', re.I)
+
+def measure_tokens(text, thread, vocab, cap=5):
+    """The measure names to draw a MOVEMENT track for. Taken from the inbound itself
+    (intersected with the thread's own vocabulary) plus any tenor it mentions, so a
+    '10-year Treasury yield' inbound tracks 10y even though the map spells it differently."""
+    low = text.lower()
+    toks = [k for k in vocab if len(k) > 3 and k in low and ' ' not in k]
+    for n in set(TENOR.findall(text)):
+        toks.append(f'{n}y')
+    seen, out = set(), []
+    for t in toks:
+        if t not in seen:
+            seen.add(t); out.append(t)
+    return out[:cap]
+
 def _mag_lines():
     """One pass over wiki/: every line carrying a magnitude, tagged with the date of the
     dated header it sits under. Built once, then matched against candidate tokens."""
@@ -320,6 +337,46 @@ def main():
         for d, f, i, ln in rows:
             print(f'        {d}  {f}:{i}')
             print(f'          {ln[:150]}')
+
+    # 1d. THREAD ARC — the running history, oldest → newest (Jake, 8/17)
+    try:
+        sys.path.insert(0, os.path.join(ROOT, 'tools'))
+        import thread_arc as TA
+        from vault_router import THREADS, ROUTE  # noqa: F401
+    except Exception as _e:
+        TA = None
+        print(f'\n  (thread arc could not load: {_e})')
+    if TA is not None:
+        try:
+            pre = subprocess.run([sys.executable, os.path.join(ROOT, 'tools', 'vault_router.py')],
+                                 input=text, capture_output=True, text=True, timeout=120).stdout
+            mline = next((l for l in pre.split('\n') if 'matched threads:' in l), '')
+            names = re.findall(r'([A-Z][A-Z0-9/_-]+)\((\d+)\)', mline)
+            top = [n for n, c in sorted(names, key=lambda x: -int(x[1])) if int(c) >= 2][:2]
+            print('\n' + '─' * W)
+            print('  📈 THREAD ARC — the running history, BEGINNING → NOW, for the top matched threads.')
+            print('     Jake, 8/17: "walk you sequentially forward from the beginning to the new upload…')
+            print('     by reading the totality from beginning to current, the upload is immediately in')
+            print('     perspective." ⇒ READ THE INBOUND AS THE NEXT TICK, not as a standalone fact.')
+            if not top:
+                print('     (no thread matched strongly enough to arc)')
+            shown = []
+            for th in top:
+                from vault_router import THREADS as _T
+                paths = TA.notes_for_thread(th)
+                # RATES and FED both route to new-economy-regime + market-fragility, so the
+                # second arc was printing the same 40 lines again. Skip a thread whose notes
+                # are already covered — the arc is about the MOVEMENT, not the label.
+                if any(set(paths) <= set(prev) for prev in shown):
+                    print(f'    (arc for {th} skipped — same notes as a thread already shown)')
+                    continue
+                shown.append(paths)
+                mt = measure_tokens(text, th, _T.get(th, []))
+                for ln in TA.render(th, paths, mt):
+                    print('  ' + ln)
+                print()
+        except Exception as e:
+            print(f'     (thread arc unavailable: {e})')
 
     # 2. router brief (thread map)
     r = subprocess.run([sys.executable, os.path.join(ROOT, 'tools', 'vault_router.py')],
