@@ -6357,3 +6357,76 @@ Alphabet, Amazon, Microsoft, Meta, Oracle, Nvidia, Broadcom, SpaceX, AMD.
   it.** ⚠️ **But the two-clocks rule survives intact: mainstreaming moves the POSITIONING clock, not the
   FUNDAMENTAL one** (`_calibration:327`) — **and the fundamental gauge he himself chose ("money keeps
   moving") is the one that has been degrading for four days.** *(Analysis — conceded on the crowding leg.)*
+
+### 2026-08-17 ~9:10am PDT — ★★★★★★ THE OHIO BACKSTOP IS ~$105B AND IT DOES NOT FIT NVIDIA'S OWN DISCLOSED CAP. ⇒ EITHER THE INITIAL PHASE OF ONE CAMPUS IS A **$420B "OPPORTUNITY"** — 84% OF THE ENTIRE >$500B PLATFORM TARGET — OR THE 25% CEILING DOES NOT BIND WHERE IT MATTERS
+Source: Jake's upload `News_Verification_Brief_20260817.docx` → `raw/2026-08-17-news-verification-brief-docx.txt`.
+**ARTIFACT TEST (rule 8): what I read is a THIRD-PARTY VERIFICATION BRIEF *about* the feed, not the feed
+and not the filings.** Its own source map credits **S2 NVIDIA Newsroom · S3 Financial Times ("reporting on
+NVIDIA's >$100B residual-value backstop") · S1 OpenAI · S4 Axios**, all 2026-08-17. ⇒ **The $105B is
+REPORTED-class, FT-attributed, and NOT yet read in a filing or a company document.** Router: FINANCING(6) ·
+CAPEX(5) · FED(4) · WAR/OIL(3) · FLOWS(3) · MODEL-ECON(3).
+Related: [[ai-capex-cycle]] · [[balance-sheet-board]] · [[nuclear]] · [[compression-thesis]]
+
+#### DATA (REPORTED — the new facts only; everything else in the brief the vault already held)
+- [2026-08-17] **OpenAI + SB Energy + NVIDIA announce the "PORTS-Pike" AI campus, Pike County, Ohio.**
+  NVIDIA is **exclusive compute provider**, is **investing in SB Energy** (the developer), and provides
+  **structured credit / residual-value support for the INITIAL PHASE.** Source: S1/S2/S4.
+- [2026-08-17] **Initial backstop exposure reported ~$105B** — *"rather than a simple blanket guarantee of
+  OpenAI obligations."* Source: S3 (FT), via the brief.
+- [2026-08-17] Also confirmed in the brief, already vault-held: **Stripe/OpenRouter >$7B** (`compression-thesis:2205`),
+  **the >$500B six-firm platform** (`:L3901`, `:L6165`), **10Y ~4.712%**, **NAHB 35 vs 33 est (prior 34)**,
+  **China Jan-Jul property development investment −19.2% YoY**, **Navy FY27 request ~$377.5B (+23%)**,
+  **Raytheon ~$22.9B Tomahawk award**, **L3Harris CEO Kubasik out on a conduct review (Sam Mehta in)**,
+  **CXMT now China's most valuable company.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE ARITHMETIC, AND IT IS THE ONLY GENUINELY NEW THING IN A 20,000-CHARACTER DOCUMENT.**
+  `:L4192` holds NVIDIA's **own launch-document disclosure, verbatim**: *"NVIDIA may provide a RESIDUAL-VALUE
+  SUPPORT MECHANISM for **UP TO 25% OF AN OPPORTUNITY**, assessed project-by-project… limited, residual-value
+  based."* **The platform was announced 8/10. PORTS-Pike is 8/17 — SEVEN DAYS INSIDE the program, so the
+  stated ceiling should bind.** ⇒ **$105B ÷ 0.25 = a ~$420B "opportunity" for the INITIAL PHASE of ONE
+  CAMPUS.** ⇒ **That is 84% of the entire ">$500B of third-party capital the platforms are designed to
+  mobilize OVER TIME."** **One phase of one site nearly exhausts the aggregate.** *(Analysis.)*
+- **★★★★★ ⇒ ONE OF THREE THINGS IS TRUE, AND ALL THREE ARE WORTH MORE THAN THE HEADLINE.**
+  **(a)** The 25% ceiling does **not** apply to Ohio (grandfathered/bilateral, outside the platforms) —
+  in which case **the disclosed cap governs the marketing vehicle and not the actual exposure**, and
+  `:L4194`'s aside becomes the operative sentence: *"this is substantially lower than other compute-financing
+  arrangements."* **The sponsor already told us the real book runs hotter than 25%.**
+  **(b)** The ceiling binds and the opportunity really is ~$420B ⇒ **the $500B is not an aggregate ambition,
+  it is roughly ONE DEAL, and the number has been read by the whole market as a pipeline.**
+  **(c)** The ~$105B is a gross/notional figure and the 25%-relevant measure is smaller ⇒ **then the FT number
+  and the NVIDIA number are DIFFERENT MEASURES and every comparison being drawn today is an instrument
+  mismatch (error class 4).** **⬜ NOT KNOWN which. This is a filing question, not a headline question.**
+- **★★★★ AND THE PRIOR PRINT MOVED THE OTHER WAY, WHICH IS ITSELF THE DATA.** `compression-thesis:929` holds
+  **"NVDA *in talks* to back OpenAI Ohio with $250B."** Now: **~$105B, for the initial phase, structured as
+  residual-value support rather than a blanket obligation guarantee.** ⇒ **Read on the evidence ladder that
+  is a move DOWN the ladder in size and UP the ladder in specificity — talks→announced, blanket→structured,
+  $250B→$105B-for-phase-1.** **Do not book it as a cut until the phase denominators are matched: $250B for
+  the whole campus and $105B for phase one are not in conflict.** *(Analysis. Naming this before someone
+  reports "NVIDIA halves Ohio guarantee.")*
+- **⛔⛔ AND THE BRIEF'S HEADLINE MACRO CALL IS THE ONE THIS VAULT ALREADY REVERSED — IT IS READING THE
+  SURFACE OF A FACT THE VAULT DECOMPOSED THREE DAYS AGO.** The brief: *"NVIDIA has recruited major Wall
+  Street firms around a $500B initiative… **strategically bullish for demand visibility**."* **`:L6165`
+  (8/14, ★★★★★★★) established the opposite causality from Bloomberg-class wire text: GS/Blackstone/Apollo
+  had worked the deals "for months" with "slow progress," and Huang went public TO UNSTICK IT.** ⇒ **A
+  number announced to move a stalled book is evidence about the DIFFICULTY of the financing, not about the
+  demand for the chips** — and the reporter independently called it *"a round figure with no obvious
+  provenance."* ⇒ **The brief grades the ANNOUNCEMENT as confirmed (it is) and then infers demand from it
+  (it does not follow).** **Confirming that an announcement happened is not confirming what it means.**
+  *(This is the correction to hand back. The vault's read stands unchanged.)*
+- **★★★ AND THE STRUCTURE IS NOW COMPLETE ON ALL FOUR SIDES AT A SINGLE SITE.** `:L6165` named the four:
+  **sets the cadence · writes the RVG · holds equity in the borrower · publicly markets the paper.**
+  **PORTS-Pike is the first project where NVIDIA visibly does all four AT ONCE** — exclusive compute
+  supplier (cadence), residual-value support (the RVG), **an equity investment in SB Energy** (the
+  borrower/developer), inside a platform it announced (the marketing). ⇒ **This is no longer a pattern
+  assembled across deals. It is one deal.** *(Analysis.)*
+
+#### 🚩 WHAT WOULD SETTLE IT — cheap, dated, filing-based
+1. 🚩🚩🚩 **NVDA's next 10-Q: the guarantees / purchase-commitments / supply-obligations footnote, and
+   whether PORTS-Pike appears with a NUMBER.** Already the standing watch at `:L6223`; this gives it a
+   named project to look for.
+2. 🚩🚩 **The NVIDIA newsroom release (S2) read DIRECTLY** — does it state the backstop size, and does it
+   use the word "opportunity" the 25% cap is denominated in? **The brief is a summary of it; the release
+   is one fetch away and the vault has not read it.**
+3. 🚩🚩 **SB Energy: is NVIDIA's stake disclosed, and at what size?** That is the equity leg, and equity in
+   the developer is the leg `:L5925` says converts a supplier into a sponsor.
