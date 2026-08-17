@@ -3686,3 +3686,65 @@ CAPEX(10) · FED(5) · FINANCING(3) · LABOR(3) · PORTFOLIO(3). **Nothing simil
   specifically. ⇒ **THE EMPIRICAL BACKBONE OF "EASING NEED NOT RALLY THE LONG END" IS NOW MEASURED, NOT
   QUOTED.** ⚠️ **n=1. One easing cycle is a precedent, not a regularity — and 2024's supply backdrop was
   lighter than the one he is projecting. Treat it as an existence proof: it CAN happen, not that it MUST.**
+
+##### 2026-08-16 ~5:46pm PDT — ★★★★★ JAKE: *"Bond yield averages should be part of the inflation calculations."* THE ARGUMENT IS REAL, PUBLISHED, AND BY SUMMERS — BUT THE 30Y TREASURY IS THE WRONG INSTRUMENT FOR IT, AND THIS VAULT'S OWN DECOMPOSITION IS WHY
+
+**ARTIFACT (rule 8): a Bloomberg chart, "US Bond Sale Records Highest Yield Since 2001 — US 30-year bond
+auction yield," sourced to US Treasury.** Bars, not a report about bars. Dashed line at 5%; the current
+print boxed just above it. **⚠️ The 2002→2006 GAP IS NOT MISSING DATA** [M — Treasury/press, verified
+2026-08-16]: **Treasury HALTED 30-year auctions in October 2001 and resumed 2006-02-09.** That is also
+what "since 2001" means — the comparison point is *the last auction before the suspension.*
+
+### DATA (verified this turn — rule 10)
+- **The published argument exists and is not fringe** [R — NBER w32163, Feb-2024]: Bolhuis, Cramer,
+  Schulz & **Summers**, *"The Cost of Money is Part of the Cost of Living: New Evidence on the Consumer
+  Sentiment Anomaly."* Borrowing costs are **not** in traditional price indexes; adding them back
+  **accounts for almost three quarters of the 2023 US consumer-sentiment gap.**
+- **CPI DID include interest costs until 1983** [R — same]: before 1983 the CPI's homeownership measure
+  reflected **mortgage rates and home prices**. **BLS removed interest costs in 1983** on BLS economist
+  **Robert Gillingham's** argument that including mortgage interest **overstated** inflation.
+- **⚠️ WHAT THE PAPER ACTUALLY USES** [R]: **mortgage interest payments · personal interest for car loans
+  and other non-housing consumption · vehicle lease costs.** **It does NOT use a Treasury yield.**
+- **⚠️ AND IT IS A REPLACEMENT, NOT AN ADDITION**: the method **reconstructs the pre-1983 measure** (house
+  prices + mortgage rates *instead of* owners' equivalent rent). Bolting interest onto today's CPI **on
+  top of OER would double-count the housing service** — once as rental-equivalent flow, once as financing.
+- **WHY THE 30Y AUCTION SERIES EXISTS AND DISAPPEARS** [M]: suspended Oct-2001 because the government was
+  running a **surplus** and saw less need to borrow; **reintroduced because the surpluses became large
+  deficits.** **The gap in this chart is a FISCAL artifact, not a price signal.**
+
+### THESIS (interpretation — NOT fact)
+- ***(Jake is directionally right, and it closes a hole the vault already had)*** A cost-of-living index
+  that ignores the cost of money understates what it costs to hold a standard of living. **And this vault
+  registered the puzzle this paper answers WITHOUT an explanation**: 8/14, Chicago Fed Letter 521 — the
+  **sentiment↔real-PCE correlation fell from 0.69 to ~zero.** ⇒ **Summers supplies a candidate MECHANISM
+  for a collapse the vault had logged as a bare fact.** *(Analysis, on Jake's prompt.)*
+- ***(⛔ BUT THE INSTRUMENT IS WRONG, AND IT IS THIS SESSION'S DOMINANT ERROR CLASS)*** **No household
+  borrows at the 30-year Treasury auction yield.** It is the **government's** cost of funds and a
+  benchmark — not a transaction price any consumer pays. The household-facing rates Summers uses (mortgage,
+  auto, lease) are the correct inputs. **INSTRUMENT MISMATCH — same class that has burned this vault
+  repeatedly, now pointed at the input rather than at my own arithmetic.** *(Analysis.)*
+- ***(★★★★★ AND THE VAULT'S OWN TRIPLE-CORROBORATED FINDING IS THE DECISIVE OBJECTION — this is the
+  sentence that matters)*** **The 30Y is priced by TERM PREMIUM and FISCAL SUPPLY, not by the inflation
+  outlook** (`:L3625` — three independent routes: real/breakeven decomposition, natural experiment, credit-
+  desk supply arithmetic). **The decomposition is explicit: 30Y REAL +25bp while the BREAKEVEN went −4bp.**
+  ⇒ **THE ONE COMPONENT OF THAT YIELD THAT *IS* AN INFLATION MEASURE WAS FALLING WHILE THE HEADLINE ROSE.**
+  ⇒ **Feeding the 30Y auction yield into an inflation index would measure THE DEFICIT AS INFLATION.**
+  **And the chart proves the point in its own structure: the series vanishes in 2002 because of a SURPLUS
+  and returns in 2006 because of DEFICITS.** *(Analysis.)*
+- ***(the circularity, which is mine not the historical rationale)*** Put policy rates inside the target
+  and **hiking to fight inflation mechanically RAISES measured inflation.** Any interest-inclusive index
+  needs an answer to that before it can be a *target*, even if it is a better *cost-of-living* measure.
+  **Measurement and target are different jobs — the 1983 removal conflated them and so does the pushback.**
+- ***(where this actually lands for us)*** **The useful version of Jake's claim is not "add bond yields to
+  CPI." It is: THE CONSUMER'S INFLATION IS NOT THE PRINTED CPI, and the gap is financing cost.** ⇒ That is
+  the same bimodal-aggregate instruction already standing at `:L3640` — *"every aggregate in this market is
+  an average over a bimodal distribution."* **A household that financed at 3% and one financing at 7% live
+  in different inflation regimes, and the index reports neither.** → [[consumption-vs-investment-crux]].
+
+### ⬜ NOT KNOWN
+- ⬜ **The actual August-2026 30Y auction yield, high-water and tail** — the chart's headline is read off a
+  boxed bar, not a number. **Rule 8: I have not read the auction result.**
+- ⬜ **Whether a Summers-style reconstruction on 2026 data still shows a large gap**, now that mortgage
+  rates have been elevated for years and the *level* is high but the *change* is small. **The paper's
+  effect is driven by the RATE OF CHANGE of borrowing costs — which is a very different signal in 2026
+  than in 2023.** ⇒ **This is the test that would make the argument live rather than cited.**
