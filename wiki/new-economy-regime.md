@@ -3748,3 +3748,57 @@ what "since 2001" means — the comparison point is *the last auction before the
   rates have been elevated for years and the *level* is high but the *change* is small. **The paper's
   effect is driven by the RATE OF CHANGE of borrowing costs — which is a very different signal in 2026
   than in 2023.** ⇒ **This is the test that would make the argument live rather than cited.**
+
+##### 2026-08-16 ~7:13pm PDT — ★★★★★★★ THE AUGUST REFUNDING RESULTS CLOSE MY ⬜ FROM 90 MINUTES AGO (**30Y stop = 5.216%**) AND SUPPLY A **FOURTH INDEPENDENT ROUTE** TO THE VAULT'S 30Y CONCLUSION — this one a PRIMARY-MARKET CLEARING EVENT. ⛔ But three numbers in the digest cut AGAINST the clean bearish read, and the sharpest one is BID DISPERSION
+**ARTIFACT (rule 8): Jake's pasted auction digest, source NOT NAMED.** ⚠️ I cannot distinguish
+"Treasury auction results" from "a summary of them." **What I CAN do is check it against itself, and it
+passes every test:** all three bid-to-covers reconcile to 4 decimals, both award splits sum exactly to
+accepted competitives, and the supply table sums to the stated $352B / $360B. **Internal consistency
+across three auctions plus a supply table is strong evidence of real data — it is not a source.**
+
+#### DATA (verified arithmetic, 2026-08-16 ~7:13pm PDT)
+- **3Y: stop 4.291% vs WI 4.296% ⇒ STOPPED THROUGH BY 0.5bp.** Cover **2.71**. Split 64.2 / 24.0 / 11.8.
+- **10Y: $106.334B bids / $42.000B ⇒ cover 2.5318.** Accepted competitive $41.822B = 32.088 + 6.136 +
+  3.598 ✓. **Split: indirect 76.7% · direct 14.7% · DEALERS 8.6%.** Price 99.540696.
+  **Low 4.570% · median 4.630% · stop 4.683% ⇒ DISPERSION 11.3bp.** 65.27% allotted at the high.
+- **30Y: $59.801B bids / $25.000B ⇒ cover 2.3920.** Accepted competitive $24.905B = 16.648 + 5.390 +
+  2.867 ✓. **Split: indirect 66.8% · direct 21.6% · DEALERS 11.5%.** Price 98.627017.
+  **Low 4.880% · median 5.150% · stop 5.216% ⇒ DISPERSION 33.6bp.** **Only 12.10% allotted at the high.**
+- **★ 5.216% IS THE HIGHEST 30Y AUCTION YIELD SINCE 2001** — closes the ⬜ registered at ~5:46pm, where I
+  had only a boxed bar on a Bloomberg chart and said so.
+- **AUGUST COUPON/FRN SUPPLY: 69+58+70+44+42+16+25+28 = $352B nominal+FRN; +$8B 30Y TIPS = $360B** ✓
+  **— one month, before bills.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★★ FOURTH INDEPENDENT ROUTE TO THE STANDING CONCLUSION — THE 30Y IS PRICED BY TERM PREMIUM AND
+  FISCAL SUPPLY, NOT THE GROWTH/INFLATION OUTLOOK — AND IT IS THE CLEANEST OF THE FOUR.** Prior three
+  (`:L3625`): real/breakeven decomposition · natural experiment · credit-desk supply arithmetic. **All
+  three are INFERENCES FROM SECONDARY-MARKET PRICES. This one is a PRIMARY-MARKET CLEARING EVENT — the
+  government actually sold the paper and we can see the price it took.** *(Analysis.)*
+- **★★★★★ AND THE SHARPEST NUMBER IN THE DIGEST IS ONE NOBODY FLAGGED: BID DISPERSION. 33.6bp on the 30Y
+  vs 11.3bp on the 10Y — THREE TIMES.** Low-to-high is the spread of views among actual bidders with money
+  up. ⇒ **TERM PREMIUM IS COMPENSATION FOR UNCERTAINTY, AND THIS IS THE UNCERTAINTY MEASURED DIRECTLY,
+  IN THE PRIMARY MARKET, RATHER THAN INFERRED FROM A CURVE.** **Bidders disagree about the 30Y three times
+  as much as about the 10Y.** *(Analysis — this is the vault's addition to Jake's read.)*
+- **⛔ AND THREE NUMBERS CUT AGAINST THE CLEAN BEARISH READ (arguing the side Jake is under-weighting):**
+  **(1) DEALER TAKEDOWN WAS LOW, NOT HIGH — 8.6% at the 10Y, 11.5% at the 30Y.** Dealers are the buyers of
+  last resort; a genuinely failing auction STUFFS them. **This one did not.** ⇒ **The weakness was in
+  PRICE, not in ABSORPTION.** **(2) INDIRECT BIDDING AT THE 30Y (66.8%) WAS *HIGHER* THAN AT THE 3Y
+  (64.2%)** — foreign/official and institutional demand for the long bond was proportionally BETTER than
+  for the three-year. **(3) ONLY 12.10% WAS ALLOTTED AT THE STOP vs 65.27% at the 10Y — meaning a THICK
+  WALL of bids piled at exactly 5.216% and most went unfilled.** ⇒ **There was plenty of demand once the
+  yield got there. The auction had to REACH the level, and at the level it was well bid.** *(Analysis.)*
+- **⇒ ★★★★★ THE SYNTHESIS, AND IT IS NOT "NOBODY WANTS THE LONG END": THE LONG END IS AVAILABLE AT A
+  PRICE, THE PRICE ROSE, AND THE BUYERS ARE YIELD-TARGETERS RATHER THAN DURATION-NEEDERS.** A
+  price-sensitive buyer base is a *different* market structure from an absent one — **it caps the downside
+  in yield terms but removes the automatic bid that used to absorb supply at any level.** *(Analysis.)*
+- **★★★ AND IT FEEDS BACK TO THE 5:46pm INFLATION ENTRY AND STRENGTHENS IT.** 5.216% is a clearing price
+  for **term premium and supply**, and the **33.6bp of bidder disagreement proves it is not a consensus
+  inflation view** — a consensus would be tight. ⇒ **Putting this series into a cost-of-living index would
+  import BIDDER DISAGREEMENT ABOUT FISCAL RISK and call it inflation.** *(Analysis.)*
+
+#### ⬜ NOT KNOWN
+- ⬜ **THE SOURCE OF THIS DIGEST.** Internally consistent ≠ sourced. **One link resolves it.**
+- ⬜ **The 30Y TAIL in basis points** — the digest gives the stop but not the when-issued for the 10Y/30Y,
+  so "on the screws" and "tailed" are Jake's characterisations, not computed here. **The 3Y is the only
+  one where I can verify the through/tail arithmetic (0.5bp through).**
