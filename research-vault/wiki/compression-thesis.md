@@ -2262,3 +2262,61 @@ Source: Jake's digest + WebSearch verification (BusinessWire/TechTimes/mlq.ai, r
   disclosure converts every multiple here from estimate to measurement.**
 - ⬜ **Current ARR.** March's $50M is the last figure on file and throughput has doubled since May.
 - ⬜ **Final deal price** — $7B+ (TechCrunch/Fortune) vs ~$10B (WSJ indication). **Range, not a point.**
+
+## 2026-08-16 ~10:07pm PDT — ★★★★★ JAKE FORMALISES OPEN-vs-CLOSED AS **COMMODITIZE-YOUR-COMPLEMENT** AND BUILDS THE LAYER/RENT TABLE. The frame is right and the OpenAI read is the sharpest item. ⛔ **But the weight-security evidence is an ATTRIBUTION ERROR, and the table omits the one layer that just repriced 5×**
+⚠️ **DISCLOSURE, stated once and not used to soften anything: this analysis is written by Claude, made by
+Anthropic, about Anthropic's own incentives. Structural non-neutrality — flagged, not resolved.**
+Jake's core heuristic: *"Watch what companies give away, not what they say is valuable. Companies tend to
+give away the layer they want commoditized so they can capture rents in the adjacent layer."*
+
+### DATA (REPORTED — Jake's digest, sources cited by him; ⚠️ not independently re-verified this turn)
+- **Meta:** Zuckerberg states selling model access **isn't Meta's business model**; argues Llama inference
+  runs far cheaper than closed alternatives. Monetises **attention + ads + apps + distribution.**
+- **NVIDIA:** ships its own open **Nemotron** families; describes open models as essential to adoption.
+- **Google:** open **Gemma** separated from proprietary **Gemini**; new Gemma generation June-2026 built for
+  efficient LOCAL deployment.
+- **⭐ OpenAI:** **gpt-oss under Apache 2.0 — but deliberately NOT served through the OpenAI API**, run
+  instead on user/host-controlled infrastructure.
+- **Anthropic:** treats model-weight theft as a security threat; escalating safeguards on frontier weights.
+
+### THESIS (interpretation — NOT fact)
+- **★★★★ THE FRAME IS CORRECT AND THE OPENAI READ IS THE SHARPEST ITEM IN IT.** *"Open model ≠ abandon
+  proprietary model economics. It can be DEFENSIVE PRICING."* ⇒ **gpt-oss being walled off from the hosted
+  API is the tell: it is SEGMENTATION, not conversion** — occupy the free tier so Meta/DeepSeek cannot own
+  it, set standards, keep frontier economics intact. **That is a genuinely good read and the vault did not
+  have it.** *(Analysis — Jake's.)*
+- **★★★ AND HIS ANTHROPIC READ IS SUBSTANTIALLY CORRECT, SO IT GETS STATED PLAINLY RATHER THAN SOFTENED:**
+  Anthropic holds no dominant ad network, no OS, no hyperscale cloud, no GPU architecture, no consumer
+  social graph. **Its differentiated asset is the model and the surface around it. It therefore has the
+  least economic incentive of the group to commoditize model capability. That is simply true.**
+- **⛔⛔ BUT THE WEIGHT-SECURITY EVIDENCE IS AN ATTRIBUTION ERROR, AND IT IS THIS SESSION'S RECURRING CLASS.
+  A weight-security posture does NOT discriminate between three different drivers: (a) economic moat,
+  (b) misuse/safety risk, (c) export-control and national-security exposure.** ⇒ **And EVERY frontier lab
+  runs one, INCLUDING the open-weight ones** — Meta guards unreleased checkpoints; **OpenAI defends
+  frontier weights WHILE shipping gpt-oss**, which Jake himself just documented. ⇒ **A fact that is equally
+  consistent with the hypothesis and its alternatives is not evidence for the hypothesis.** **Same shape as
+  "N actors, one bet" (9:38pm) and the incentive-story-fits-everything trap (9:20pm).** *(Analysis.)*
+- **⛔ AND A CATEGORY SLIP IN THE TABLE: the Anthropic row reads "model capability/access," but the argument
+  needs "model WEIGHTS."** Those are different assets. **Serving frontier-scale models is itself hard and
+  capital-intensive — capability-as-a-service can survive open weights.** ⇒ **OpenAI is the existence
+  proof: it released open weights AND defended premium economics, which is the very segmentation Jake
+  praised one paragraph earlier.** ⇒ **"Less incentive to commoditize" is right; "therefore weights stay
+  closed" is a stronger claim than the economics carry.** *(Analysis.)*
+- **★★★★★★ THE STRUCTURAL GAP, AND IT CONNECTS TO TONIGHT'S OPENROUTER WORK: EVERY ROW OF HIS TABLE
+  COMMODITIZES THE MODEL LAYER IN ORDER TO CAPTURE AN ADJACENT LAYER — AND THE ADJACENT LAYER THAT ACTUALLY
+  REPRICED 5.4× IN EIGHTY DAYS IS ONE THAT NONE OF THEM CAN OWN.** ⇒ **Aggregation/routing requires
+  NEUTRALITY as its product, so a model provider structurally cannot hold it** (`:9:50pm entry`).
+  **CapitalG led and NVentures joined — they FUNDED it — and Stripe, a payments company, is buying it.**
+  ⇒ **The table is missing the row where the rent is landing, and the missing row is unownable by everyone
+  in the table.** *(Analysis — the sharpest extension available.)*
+- **⚠️ AND THE HEURISTIC NEEDS A FALSIFIABLE FORM OR IT IS EX-POST ONLY** — the same discipline applied to
+  his incentive framework earlier tonight. *"Watch what they give away"* explains everything after the
+  fact. **The predictive version: WHOEVER'S OPEN MODELS CLIMB CLOSEST TO FRONTIER IS THE ONE WHOSE
+  COMPLEMENT IS MOST VALUABLE.** ⇒ **That is measurable, dated and already tracked here** — the vault has
+  commoditization climbing UP-market (Kimi K3, near-frontier scale, `:456`). 🚩 **THE TEST: rank open-weight
+  releases by frontier-gap over the next two quarters. The ranking should predict the table.**
+
+### ⬜ NOT KNOWN
+- ⬜ **Independent verification of the five company claims above** — taken as REPORTED from Jake's digest.
+- ⬜ **Whether gpt-oss's API exclusion is contractual/licence-driven or purely commercial.** The tell is
+  strong either way, but the mechanism changes how durable it is.
