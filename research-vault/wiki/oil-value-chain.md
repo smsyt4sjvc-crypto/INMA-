@@ -1081,3 +1081,51 @@ live dashboard — not fetchable; the subpage 403s. Everything Windward-sourced 
    the WEEKLY series is what tells you which regime you are in, and it is the position.**
 3. 🚩 **CRUDE'S RESPONSE TO THE WEEK-OF-8/17 PACKAGE, against the 4.1% blockade precedent.**
 **Links:** [[war/war-board]] · [[demand-destruction]] · [[market-fragility]]
+
+### 2026-08-17 ~8:11am PDT — 🚩 STATE READ ON JAKE'S Q: **"still room?"** — **THE MECHANISM IS INTACT, THE EASY MONEY IS GONE, AND BOTH INSTRUMENTS THAT WOULD SIZE THE REMAINDER ARE BROKEN OR STALE.** Equities have CAUGHT the crack; the crack has STALLED; and the dated bearish catalyst is **15 days out**
+Source: live pulls (close arrays, never `meta`), 2026-08-17 ~8:05am PDT, ~1h40m into the session — **so
+equity prints are INTRADAY MONDAY, not settled closes.** Prior vault state: `:L1023`, **2026-08-15 2:05am
+— i.e. this thread ran 54 HOURS without a measurement.**
+
+#### DATA (MEASURED)
+- **ULSD CRACK (HO×42 − WTI): 7/15 = 86.23 → 8/14 = 97.48 → NOW 96.51.** ⇒ **+11.9% over the month, and
+  FLAT-TO-DOWN over the last two sessions. The crack has STALLED at the vault's anchor.**
+- **RBOB crack 40.07 · 3-2-1 crack 58.88.**
+- **REFINER EQUITIES — 1mo / 3mo / vs 3-month high:**
+  **VLO +15.7% / +34.4% / AT THE HIGH · MPC +18.3% / +39.4% / AT THE HIGH · PSX +18.4% / +32.6% / AT THE
+  HIGH · PBF +22.7% / +77.5% / AT THE HIGH · DINO +9.2% / +34.9% / AT THE HIGH · PARR +12.2% / +41.2% /
+  −3.5%.** **XLE +8.9% / +2.5%.**
+- **⇒ ★ FIVE OF SIX SITTING EXACTLY AT THEIR 3-MONTH HIGH, AND IT IS NOT AN ENERGY-SECTOR MOVE: XLE IS
+  +2.5% OVER THREE MONTHS WHILE THE REFINERS ARE +32% TO +77%.** ⇒ **Refiner-specific, and PBF's +77.5%
+  is the high-beta leg doing what high beta does.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ THE ANSWER TO "STILL ROOM?" IS THAT THE GAP THE TRADE WAS BUILT ON HAS CLOSED. The thesis was
+  "the equity has not priced the crack." Over the month the crack ran +11.9% and the equities ran +9% to
+  +23% — THE BETA HAS BEEN CAPTURED.** ⇒ **What is left is not a re-rating to a known crack; it is a bet
+  that the CRACK ITSELF goes higher from 96.51.** **Those are different trades with different evidence
+  requirements, and the vault has been carrying the first one's evidence.** *(Analysis.)*
+- **⛔⛔ AND BOTH INSTRUMENTS THAT WOULD SIZE THE REMAINDER ARE UNUSABLE RIGHT NOW:**
+  **(1) "FY27 CONSENSUS IS TOO LOW" HAS NO VALID BASELINE — the cross-check BROKE IT** (`:L852`, 8/15):
+  *"three of six tickers disagree by 19-42% between the two fetches."* **You cannot measure distance to a
+  number you cannot source.** **(2) "THE DEFERRED STRIP IS TOO LOW" — the 12-month deferred crack has NOT
+  been fetched.** ⇒ **The two legs of the thesis are ONE BET IN TWO INSTRUMENTS (`:689`) and NEITHER is
+  currently measurable.** *(Analysis.)*
+- **⛔⛔⛔ AND THE DATED BEARISH CATALYST IS INSIDE THE WINDOW: THE RUSSIAN DIESEL EXPORT BAN CARRIES A
+  PRODUCER EXEMPTION FROM 2026-09-01 — FIFTEEN DAYS OUT** (`:L765`, registered 8/15). ⇒ **The ban (7/8) is
+  one of the two events the vault identified as changing the character of the move in mid-July. Its partial
+  reversal is dated, falsifiable, and closer than most positions' horizons.** ⇒ **THIS IS THE ITEM THAT
+  DECIDES "ROOM," AND IT IS THE ONE THING ON THIS PAGE THAT IS BOTH DATED AND UNAMBIGUOUS.** *(Analysis.)*
+- **⚠️ AND THE REGISTERED BREAK CONDITION IS UNMEASURED SINCE 8/13: DISTILLATE INVENTORIES REBUILDING INTO
+  THE 5-YEAR BAND.** **That is the one fetch that could kill the trade and it is four days stale.**
+- **⚠️ DO NOT RE-MAKE THE 8/14 ERROR: the low deferred strip is NOT a disconfirmer** (`:689` — "the low
+  strip IS the trade"). **A real disconfirmer is a dated physical or policy event — and one is now dated.**
+- **⚠️ CALIBRATION, STATED AGAINST MY OWN PRIOR WORK: the vault's bullish framing rested partly on three
+  things since corrected — "record crack" (false; 2022 exceeded $100 repeatedly), "29% backwardation"
+  (false; 41%), and "84% of the move is crude falling" (window-dependent).** **The MECHANISM survived all
+  three corrections. The MAGNITUDE claims did not.** *(Analysis.)*
+
+#### 🚩 WHAT WOULD ANSWER "STILL ROOM" PROPERLY — three fetches, none of them expensive
+1. 🚩🚩🚩 **EIA distillate inventories vs the 5-year band** — the named break condition, 4 days stale.
+2. 🚩🚩🚩 **The 12-month DEFERRED crack strip** — the actual "is there room" instrument; never fetched.
+3. 🚩🚩 **FY27 consensus EPS from ONE sourced provider** — the current figures are contradictory and unusable.
