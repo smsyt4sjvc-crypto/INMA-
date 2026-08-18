@@ -231,7 +231,17 @@ def _mag_lines():
             lines = open(path, errors='replace').read().split('\n')
         except OSError:
             continue
+        in_tl = False
         for i, ln in enumerate(lines, 1):
+            # ⛔ SKIP THE AUTO-GENERATED TIMELINE BLOCK. It quotes entry headers verbatim,
+            # so every figure in it would double-count as a fresh vault statement and the
+            # collision check would start matching the vault's own summary of itself.
+            if 'TIMELINE:BEGIN' in ln:
+                in_tl = True; continue
+            if 'TIMELINE:END' in ln:
+                in_tl = False; continue
+            if in_tl:
+                continue
             if ln.startswith('#'):
                 m = DATE_RE.search(ln)
                 if m:

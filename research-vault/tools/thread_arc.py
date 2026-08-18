@@ -81,8 +81,11 @@ def entries(paths, vocab=()):
         except OSError:
             continue
         rel = os.path.relpath(p, ROOT)
+        in_tl = False
         for i, ln in enumerate(lines, 1):
-            if not ln.startswith('#'):
+            if 'TIMELINE:BEGIN' in ln: in_tl = True; continue      # skip the written block
+            if 'TIMELINE:END' in ln: in_tl = False; continue
+            if in_tl or not ln.startswith('#'):
                 continue
             m = DATE.search(ln)
             if not m:
@@ -131,7 +134,12 @@ def series(paths, tokens, per_token=14):
         except OSError:
             continue
         rel, cur = os.path.relpath(p, ROOT), ''
+        in_tl = False
         for i, ln in enumerate(lines, 1):
+            if 'TIMELINE:BEGIN' in ln: in_tl = True; continue      # skip the written block
+            if 'TIMELINE:END' in ln: in_tl = False; continue
+            if in_tl:
+                continue
             if ln.startswith('#'):
                 m = DATE.search(ln)
                 if m:

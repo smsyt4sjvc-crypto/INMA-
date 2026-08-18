@@ -112,7 +112,22 @@ duplicate note) · the **🔴 open items** the inbound might close.
     unseen hazard gets ONE sentence, once. **Which read the evidence favours is an ANSWER, not advice.**
     ~~Rule 14 itself still stands.~~ 🔄 **14 RETIRED same day — see above.** Full: [[_persona]] 8/17.
 17. **Code delivery: COMPLETE cells only** (iPhone/Colab). Acronyms spelled out at first use.
-18. **End of session: file → link → index → chat-log → commit → push. Every turn pushes.**
+18. **End of session: file → link → index → ⏱ TIMELINE → chat-log → commit → push. Every turn pushes.**
+    ⏱ **`python3 tools/timeline_header.py --all --threads` AFTER writing entries, BEFORE committing.**
+    Idempotent (compares the spine, not the stamp), so a no-op run costs nothing.
+18c. ⏱★★★ **THE TIMELINE IS AN ARTIFACT, NOT A PRINTOUT** (Jake, 2026-08-17: *"I don't care about the
+    output. I'll never go in there and read it. I want it archived… date stamping, and filing into a
+    folder… so that when a new 'Iran' piece is uploaded, the gate you enter brings you from the start"*).
+    **Two committed objects, both auto-generated:**
+    **(a) Every note carries a ⏱ TIMELINE block under its H1** — the note from the start, in order,
+    with line refs. **Opening the note IS reading the chronology.** Between `TIMELINE:BEGIN/END`
+    sentinels; `librarian.py` and `thread_arc.py` SKIP the block (it quotes entries verbatim, so
+    counting it would make the collision check match the vault's own summary of itself).
+    **(b) `wiki/_timelines/<thread>.md` is THE GATE** — one merged chronology per thread across every
+    note that carries it. The router prints its path on every match. **⇒ ON ANY INBOUND, READ THE GATE
+    FILE START-TO-FINISH BEFORE RESPONDING.** That is what makes a March line land on an August paste:
+    WAR/OIL opens at 2026-03-13, and nothing in it is ranked by recency.
+    ⚠️ **Never hand-edit either object — edit the ENTRY, then regenerate.**
 18b. ⛔★★★ **NO INBOUND IS OFF-TOPIC** (Jake, 8/17): *"everything I bring here — Iran war, political
     macro etc — is relevant to the macro economic environment on down to stock earnings reports and
     rumors."* **Carry every inbound DOWN THE CHAIN: macro → sector → earnings → tape.** Name the
