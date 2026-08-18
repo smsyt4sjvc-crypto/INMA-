@@ -7,6 +7,14 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 > Two domains, two brains: THIS vault = markets research. The **trading system** is a SEPARATE repo
 > (`Alpaca-Claude`) with its own `CLAUDE.md` — staged in `trading-system/` (one domain per vault).
 
+## ⏱ THE GATES (`wiki/_timelines/`) — READ THE GATE BEFORE THE NOTE
+**29 merged per-thread chronologies, oldest → newest, auto-generated.** When an inbound matches a
+thread, its gate file is the entry point: the whole thread in order across every note that carries it,
+so a March entry lands on an August paste. The router prints the path on every match.
+`war-oil.md` (222 entries, opens 2026-03-13) · `financing.md` · `rates.md` · `capex.md` · `memory.md` …
+**Every note also carries its own ⏱ TIMELINE block under the H1.** Regenerate both with
+`python3 tools/timeline_header.py --all --threads`. Never hand-edit; edit the entry and rebuild.
+
 ## ⭐ Read-first / meta
 - [[_persona]] — response contract (how to engage Jake: no pandering, peer not cheerleader)
 - [[_calibration]] — the pushback filter (argue the side he's under-weighting)

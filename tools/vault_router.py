@@ -161,6 +161,15 @@ def main():
     for t in order:
         fs = files_for(t)
         print(f'\n{"="*92}\n  THREAD: {t}   ->  {ROUTE.get(t,"(unrouted)")}')
+        # ⏱ THE GATE (Jake, 2026-08-17): "when a new 'Iran' piece is uploaded … the gate you
+        # enter brings you from the start." The merged, committed timeline for this thread is
+        # a FILE, not a printout — point at it and read it before the per-note brief below.
+        _slug = __import__('re').sub(r'[^a-z0-9]+', '-', t.lower()).strip('-')
+        _gate = os.path.join(ROOT, 'wiki', '_timelines', f'{_slug}.md')
+        if os.path.exists(_gate):
+            _n = sum(1 for l in open(_gate, errors='replace') if l.startswith('- `2'))
+            print(f'  ⏱ GATE — READ FIRST, WHOLE THREAD OLDEST→NEWEST: wiki/_timelines/{_slug}.md '
+                  f'({_n} dated entries)')
         if not fs:
             print('  ⚠️ no file resolved — ROUTE hint does not map to a path. Fix the map.')
         brief(fs)
