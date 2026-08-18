@@ -2834,3 +2834,65 @@ Source: Reuters, Parisa Hafezi (Dubai) / Katharine Jackson (Washington) / Costas
    as crude rallies, the war is a HEADWIND to this position and that must be said plainly.
 2. 🚩🚩 **GULF REFINED-PRODUCT EXPORT VOLUMES through Hormuz** — the leg that decides which side wins.
 3. 🚩 **Retail DIESEL $/gal** (gasoline now on file; diesel is the thesis).
+
+### 2026-08-19 (UAE time; ~2026-08-18 PDT) — ★★★★★★ **THE UAE HALTS *ALL* TRADE, COMMERCIAL EXCHANGE AND FINANCIAL TRANSACTIONS WITH IRAN. ⛔ THIS INVERTS A REGISTERED VAULT EXPECTATION: `:169` had the UAE as the state that WANTED HORMUZ FULLY OPEN.** ★★★ And it targets a leak the vault had already MEASURED — **UAE flag = #3 smuggling risk, 98 vessels.** ⚠️ **ANNOUNCED, not implemented**
+Source: **UAE MoFA, Afra Al Hameli, Director of Strategic Communications — official statement, dated
+Wed 19/8/2026 (Gulf Standard Time, UTC+4 ⇒ ~2026-08-18 PDT).** ⚠️ **RULE 12: source time ≠ paste time.
+The statement carries TOMORROW'S date on our clock.** Plus Jake's reporting synthesis (Al Jazeera / AP /
+Treasury). Related: [[demand-destruction]] · [[oil-value-chain]] · [[transmission-chain]]
+
+#### DATA (REPORTED)
+- **VERBATIM:** *"in light of regional escalations… all trade, commercial exchanges, and financial
+  transactions with Iran have been halted until further notice."* Paired with reaffirmed commitment to
+  **"dialogue, cooperation and regional integration"** and to **"the integrity of the international
+  financial system."**
+- **SCALE (Iran's own customs, 11-month 2024-25): UAE→Iran $19.1B · Iran→UAE non-oil $6.6B ⇒ ~$25.7B.**
+- **Trump, verbatim (Al Jazeera):** *"There are no talks or conversations going on, or scheduled, with
+  the Islamic Republic of Iran. The Naval Blockade remains in full force and effect."* Plus the claim
+  Hormuz is **"open and operating."**
+- **Treasury campaign named "ECONOMIC FURY."** 8/7 action on Iranian shadow-banking/currency networks
+  (hundreds of millions moved); crypto exchanges sanctioned. **Bessent: *"Iran's shadow banking system
+  is buckling under Economic Fury."***
+- **AP: Hormuz traffic recently −19.5%, with only three vessels crossing on one Sunday.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE VAULT HAD THE UAE ON THE OTHER SIDE, IN WRITING, AND THAT IS THE FINDING.** `:169`:
+  ***"Gulf incentive = OPEN Hormuz (UAE wants 'full opening'; pro-flow = bearish oil IF they
+  succeed)."*** ⇒ **The state the vault modelled as the strongest PRO-FLOW actor has just cut its own
+  flow.** ⇒ **Either the UAE has concluded the war is not endable on its terms, or it has been
+  pressured into the US column.** **Either way the "Gulf wants the strait open, so the bearish path
+  exists" leg of the two-sided read is materially weaker than when it was written.**
+  *(Analysis. Registered expectation, violated — the reason to write expectations down.)*
+- **★★★★★ AND IT AIMS AT A LEAK THIS BOARD ALREADY QUANTIFIED, WHICH IS WHY IT IS NOT SYMBOLIC.**
+  `:1010`: **top smuggling-risk flags — IRAN 156, Comoros 103, UAE 98, Panama 73.** ⇒ **UAE-flagged
+  hulls were the #3 evasion channel by the vault's own vessel data.** ⇒ **A UAE trade-and-finance halt
+  is aimed squarely at the third-largest measured leak, plus the Dubai re-export and correspondent-
+  banking layer.**
+- **★★★★ ⇒ AND IT HITS THE ONE CHANNEL THIS BOARD CANNOT SEE. Windward/AIS measures THE WATER. This
+  measures THE BANK AND THE WAREHOUSE.** `:1039` established that **"the residual trade is mostly
+  sanctioned — 3 of 5 OFAC SDN + ~a dozen dark hulls"** ⇒ **legitimate SEA trade had already
+  collapsed. The $25.7B UAE channel is largely LAND/AIR/RE-EXPORT/FINANCIAL — invisible to every
+  instrument this board runs.** 🚩 **This is a MEASUREMENT GAP, not just a news item.**
+- **⚠️⚠️ EVIDENCE LADDER: THIS IS A LETTER, NOT A BILL — and Jake named the right test himself.**
+  **⬜ NOT KNOWN: exemptions · in-transit cargo · bank circulars · customs treatment · air links ·
+  personal remittances · existing-contract carve-outs.** ⇒ **"Halted until further notice" from a
+  communications directorate is an ANNOUNCEMENT. Implementation is a customs notice and a bank
+  circular.** **The UAE has strong incentives to announce loudly and implement narrowly** — Dubai's
+  entire model is entrepôt trade. ⇒ **Grade REPORTED/ANNOUNCED. Do not book the $25.7B as stopped.**
+- **⛔⛔ AND A HARD NUMBER CONFLICT WITH THIS BOARD'S OWN MEASUREMENT, WHICH MUST NOT BE GLOSSED:
+  AP says Hormuz traffic is DOWN 19.5% — i.e. running at ~80% of normal. `:1100` recorded the strait
+  running at 3.6% OF NORMAL.** ⇒ **Those differ by a factor of ~22.** **Candidate reconciliations:
+  different vessel class (all traffic vs laden tankers) · different window (monthly average vs a single
+  day) · different baseline (pre-war vs recent).** ⬜ **NOT RESOLVED.** 🚩 **Until it is, do NOT quote a
+  single "Hormuz traffic" number — name the class, the window and the baseline or say nothing.**
+- **↔ FOR THE CRACK POSITION ([[oil-value-chain]]): directionally supportive but NOT clean.** A
+  financial/trade cordon degrades Iran's ability to move BOTH crude and refined product ⇒ tighter
+  product. **But the 8/18 caution stands unchanged: a war premium that lifts CRUDE without stopping
+  product flows COMPRESSES the crack.** ⇒ **Still the same open test: does the crack hold at ~102 while
+  Brent runs?**
+
+#### 🚩 REGISTERED
+1. 🚩🚩🚩 **THE IMPLEMENTATION ARTIFACT: a UAE customs circular, a central-bank/bank notice, or a
+   Jebel Ali operational bulletin.** **That is the BILL. Until one appears this is a press statement.**
+2. 🚩🚩 **RECONCILE THE HORMUZ TRAFFIC NUMBERS** (−19.5% vs 3.6%-of-normal). One definition, one window.
+3. 🚩 **Jebel Ali throughput / Iran-facing re-export volumes** — the instrument this board lacks.

@@ -1,6 +1,6 @@
 # ⏱ LEVANT — merged timeline (the gate)
 
-> **103 dated entries across 2 notes · 2026-07-01 → 2026-08-18 · refreshed 2026-08-18 15:07 PDT**
+> **104 dated entries across 2 notes · 2026-07-01 → 2026-08-19 · refreshed 2026-08-18 16:53 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -119,3 +119,4 @@
 - `2026-08-16` [portfolio-state.md:L966](../portfolio-state.md) — 2026-08-16 ~7:38pm PDT — ⚠️⚠️ JAKE FLIPS: BEARISH → **CAUTIOUSLY OPTIMISTIC BULLISH**, citing the 8/13 "doesn't matter until it does" conversation. **
 - `2026-08-16` [portfolio-state.md:L1026](../portfolio-state.md) — 2026-08-16 ~9:02pm PDT — ★★★★★ JAKE FORMALISES THE BULL STANCE AS A REGIME-FOLLOWING RULE, AND IT IS CONSISTENT WITH THIS VAULT'S OWN WARNING-vs-TRIGG
 - `2026-08-18` [war-board.md:L2698](../war/war-board.md) — 2026-08-18 ~10:30am PDT — 📌 THE MoU 60-DAY CLOCK EXPIRED YESTERDAY WITH NO DEAL AND NO EXTENSION — a dated catalyst, FIRED. ⛔ **BUT "BRENT SURGES TO $
+- `2026-08-19` [war-board.md:L2757](../war/war-board.md) — 2026-08-19 (UAE time; ~2026-08-18 PDT) — ★★★★★★ **THE UAE HALTS *ALL* TRADE, COMMERCIAL EXCHANGE AND FINANCIAL TRANSACTIONS WITH IRAN. ⛔ THIS INVERTS 
