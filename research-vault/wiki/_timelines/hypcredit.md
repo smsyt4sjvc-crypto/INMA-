@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **175 dated entries across 3 notes · 2026-05-22 → 2026-08-18 · refreshed 2026-08-18 11:00 PDT**
+> **179 dated entries across 3 notes · 2026-05-22 → 2026-08-18 · refreshed 2026-08-18 15:07 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -193,6 +193,10 @@
 - `2026-08-17` [ai-financing-fragility.md:L6434](../ai-financing-fragility.md) — 2026-08-17 ~9:40am PDT — ⛔⛔★★★★★★ JAKE'S PER-GW QUESTION KILLS MY $420B — **THE VAULT HELD THE DENOMINATOR SINCE 7/26 AND I SOLVED FOR IT INSTEAD.** ⇒
 - `2026-08-17` [rates-board.md:L26](../rates-board.md) — [2026-08-17] **10Y ~4.71-4.712%.** Source: third-party verification brief (S10 Barron's/market
 - `2026-08-17` [rates-board.md:L73](../rates-board.md) — [2026-08-17] **The supply-priced long end and the AI-financing thread may be the same story seen
+- `2026-08-18` [ai-financing-fragility.md:L6501](../ai-financing-fragility.md) — 2026-08-18 ~1:10pm PDT — ✅✅ **THE OHIO ⬜ CLOSES ON NVIDIA'S OWN ANNOUNCEMENT, AND THE ARITHMETIC LANDS ON THE CAP: 4.25 GW INITIAL + 3.75 GW OPTION = 
+- `2026-08-18` [ai-financing-fragility.md:L6509](../ai-financing-fragility.md) — [2026-08-18] **NVIDIA is exclusive AI-compute infrastructure provider for SB Energy's Ohio project:
+- `2026-08-18` [ai-financing-fragility.md:L6512](../ai-financing-fragility.md) — [2026-08-18] **NVIDIA's announcement emphasises the infrastructure relationship and a $1.5B EQUITY
+- `2026-08-18` [ai-financing-fragility.md:L6514](../ai-financing-fragility.md) — [2026-08-18] **The "$105B" is graded QUALIFIED: *"media reporting discussed financing or guarantees
 - `2026-08-18` [hyperscaler-credit.md:L14](../hyperscaler-credit.md) — [2026-08-18] **NVDA 5Y CDS = 80.330bp** (last price on the chart Jake posted; series
 - `2026-08-18` [rates-board.md:L20](../rates-board.md) — [2026-08-18] **30Y ~5.310% (intraday).** ⇒ **A GENUINE NEW HIGH: +4.5bp above the 8/16 secondary
 - `2026-08-18` [rates-board.md:L83](../rates-board.md) — 2026-08-18 ~11:55am PDT — ⛔⛔ **"BEAR STEEPENING PRECEDED 3 OF 4 MAJOR TOPS SINCE 1962" IS THE BASE RATE WITH A STORY. COMPUTED: P(3-or-4 of 4 | pure c

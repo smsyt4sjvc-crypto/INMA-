@@ -57,7 +57,8 @@ def notes_for_thread(thread):
     spec = ROUTE.get(thread, '')
     names = re.findall(r'[a-z0-9][a-z0-9-]{2,}', spec.lower())
     out, seen = [], set()
-    for dp, _, fns in os.walk(WIKI):
+    for dp, dns, fns in os.walk(WIKI):
+        dns[:] = [d for d in dns if d != '_timelines']   # never arc the auto-generated summaries
         for fn in fns:
             if not fn.endswith('.md'):
                 continue

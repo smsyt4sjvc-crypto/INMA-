@@ -222,7 +222,12 @@ def _mag_lines():
     dated header it sits under. Built once, then matched against candidate tokens."""
     out = []
     paths = []
-    for dp, _, fns in os.walk(WIKI):          # wiki/ HAS SUBDIRS (wiki/war/) -- listdir misses them
+    for dp, dns, fns in os.walk(WIKI):        # wiki/ HAS SUBDIRS (wiki/war/) -- listdir misses them
+        # ⛔ EXCLUDE _timelines/. Those files are AUTO-GENERATED SUMMARIES that quote entry headers
+        # verbatim, so counting them makes the vault collide with its own summary of itself.
+        # Same failure class as the TIMELINE:BEGIN/END block, different scope -- caught 8/18 when
+        # a $500B collision returned _timelines/_chain.md instead of the source entry.
+        dns[:] = [d for d in dns if d != '_timelines']
         paths += [os.path.join(dp, f) for f in fns if f.endswith('.md')]
     for path in sorted(paths):
         fn = os.path.relpath(path, WIKI)
