@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **102 dated entries across 3 notes · 2026-07-09 → 2026-08-18 · refreshed 2026-08-18 15:07 PDT**
+> **103 dated entries across 3 notes · 2026-07-09 → 2026-08-19 · refreshed 2026-08-18 16:53 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -118,3 +118,4 @@
 - `2026-08-15` [war-board.md:L2552](../war/war-board.md) — 2026-08-15 ~2:08am PDT — ⭐⭐⭐ THE REGISTERED TEST IS ANSWERED WITH VESSEL-LEVEL MEASUREMENT, AND IT SETTLES THE REFINER BINARY: **Kharg's western termi
 - `2026-08-15` [war-board.md:L2641](../war/war-board.md) — 2026-08-15 ~2:15am PDT — ⛔⛔ JAKE IS RIGHT AND THE EVIDENCE WAS IN THE DOCUMENT I FILED SEVEN MINUTES AGO: **7 of the 13 tracked vessels (54%) carry a 
 - `2026-08-18` [war-board.md:L2698](../war/war-board.md) — 2026-08-18 ~10:30am PDT — 📌 THE MoU 60-DAY CLOCK EXPIRED YESTERDAY WITH NO DEAL AND NO EXTENSION — a dated catalyst, FIRED. ⛔ **BUT "BRENT SURGES TO $
+- `2026-08-19` [war-board.md:L2757](../war/war-board.md) — 2026-08-19 (UAE time; ~2026-08-18 PDT) — ★★★★★★ **THE UAE HALTS *ALL* TRADE, COMMERCIAL EXCHANGE AND FINANCIAL TRANSACTIONS WITH IRAN. ⛔ THIS INVERTS 
