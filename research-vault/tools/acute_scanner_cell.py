@@ -265,6 +265,16 @@ THREADS = {
                'coiled','complacen','quiet market','low vol','vol crush','vol spike',
                'covered call','vol target','vol selling','put/call','straddle','strangle',
                '200-day','200 day','drawdown','tail hedge','convexity'],
+ # gap #24 (2026-08-18): a UBS note on GERMAN GAS STORAGE + the RHINE matched WAR/OIL and CONSUMER only.
+ # war-board:531 had ALREADY registered the gap in words -- "no European gas instrument at all" -- and it
+ # sat open. Thread + wiki/europe-energy-crunch.md created together.
+ 'EUROGAS':   ['ttf','jkm','european gas','eu gas','dutch ttf','mwh','€/mwh','eur/mwh',
+               'gas storage','storage level','storage target','injection season','withdrawal season',
+               'regasification','regasif','fsru','lng terminal','lng cargo','lng import',
+               'trading hub europe','gasunie','uniper','sefe','nord stream','norwegian maintenance',
+               'troll','groningen','rhine','kaub','barge','low water','navigable',
+               'gas-to-oil','gas to oil','fuel switching','switching','gasoil','heating season',
+               'bundesnetzagentur','ehb','aggregate eu storage'],
  'POWER':     ['pjm','curtail','grid emergency','turbine','interconnection','smr',
                'behind-the-meter','ofgem','grid access','connection queue','commitment fee',
                'wolfspeed','silicon carbide','empower semiconductor','ionic digital',
@@ -470,6 +480,7 @@ ROUTE = {
  'BLACK SEA': 'demand-destruction (CPC/Kazakh outage) / oil-value-chain',
  'INVENTORY': 'demand-destruction (SPR clock)',
  'RATES':     'rates-board (THE curve/spread board: level, auction internals, the 4-route long-end conclusion) / new-economy-regime (the argument in full) / market-fragility',
+ 'EUROGAS':    'europe-energy-crunch (THE European gas/Rhine instrument) / war-board / oil-value-chain',
  'FED':       'new-economy-regime / market-fragility / predictions (the registered hike call)',
  'CONSUMER':  'consumption-vs-investment-crux (THE spine question) / new-economy-regime / market-fragility (the weekly data calendar + GS pre-print forecasts) / glp1-wardrobe-cycle (the apparel line) / trade-down-landing-pads / demand-destruction',
  'FLOWS':     'market-fragility (the 7/22 gearing frame + 8/8 record tech inflows) / detachment-bid / portfolio-state',

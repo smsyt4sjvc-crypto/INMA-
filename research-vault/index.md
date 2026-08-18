@@ -54,6 +54,8 @@ so a March entry lands on an August paste. The router prints the path on every m
   payoffs (capability projection / liability cover / gates-not-brakes) + the grading rubric. Conflict-flagged.
 
 ## ⚡ Power / energy / oil
+- [[europe-energy-crunch]] — **European gas + the Rhine, and the gas-to-oil channel into the diesel crack**
+  (created 2026-08-18, closing the `war-board:531` "no European gas instrument" gap). Router key `EUROGAS`.
 - [[power-not-petroleum]] — the core energy-rotation thesis
 - [[power-scarcity-equities]] — the three tiers (and the bottleneck≠hedge correction)
 - [[nuclear]] — the AI-power sleeve
