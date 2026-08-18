@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **232 dated entries across 3 notes · 2026-06-30 → 2026-08-17 · refreshed 2026-08-17 23:57 PDT**
+> **234 dated entries across 3 notes · 2026-06-30 → 2026-08-18 · refreshed 2026-08-18 00:14 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -179,7 +179,7 @@
 - `2026-08-07` [new-economy-regime.md:L2672](../new-economy-regime.md) — 2026-08-07 ~7:45am PDT — THE STAGFLATION SQUEEZE PRINTS: payrolls −23k into ISM prices >70 — pointer
 - `2026-08-07` [new-economy-regime.md:L2683](../new-economy-regime.md) — 2026-08-07 ~7:50am PDT — ★★★ THE CROSS-THREAD JOIN: **THE DOLLAR DID FOR FREE WHAT $85 BILLION COULD NOT**
 - `2026-08-07` [new-economy-regime.md:L2697](../new-economy-regime.md) — 2026-08-07 ~12:50pm PDT — ★★★★ Q2 PRODUCTIVITY +1.4% / ULC +1.3%: **THE HEADLINE FAILS ITS OWN CHART** — and the wage-push hike case dies while the AI
-- `2026-08-07` [rates-board.md:L28](../rates-board.md) — [2026-08-07] **NY Fed ACM 10Y term premium 0.78%, +13bp on the week.** → `:3379`
+- `2026-08-07` [rates-board.md:L34](../rates-board.md) — [2026-08-07] **NY Fed ACM 10Y term premium 0.78%, +13bp on the week.** → `:3379`
 - `2026-08-08` [market-fragility.md:L2316](../market-fragility.md) — 2026-08-08 ~6:40pm PDT — TECH FUND FLOWS AT A RECORD: $216bn ANNUALIZED — a STATE, filed as gearing per the 7/22 precedent, and it points AGAINST the 
 - `2026-08-08` [market-fragility.md:L2373](../market-fragility.md) — 2026-08-08 ~11:50pm PDT — JAKE'S QUESTION: "how common is −30K jobs and an S&P ATH the same week?" — TWICE IN THE MODERN RECORD, and both precedents h
 - `2026-08-08` [market-fragility.md:L2407](../market-fragility.md) — Addendum 2026-08-08 ~11:55pm PDT — ⚠️ NAMING PRECISION (Jake: "We just had August payroll. Last week.") — the report he means is the JULY report, and 
@@ -236,7 +236,7 @@
 - `2026-08-15` [market-fragility.md:L4043](../market-fragility.md) — 2026-08-15 ~8:24pm PDT — ⭐⭐⭐ THE THIRD AND DECISIVE STRIKE ON "RECORD-LOW CORRELATION = WIDE MARKET": **it is the print of a $300 BILLION AUTOCALLABLE
 - `2026-08-15` [new-economy-regime.md:L3591](../new-economy-regime.md) — 2026-08-15 ~12:36am PDT — ★★★★★★★ A THIRD INDEPENDENT ROUTE TO THE VAULT'S 30Y CONCLUSION — and it EXTENDS it somewhere the vault never went: **if the
 - `2026-08-15` [new-economy-regime.md:L3681](../new-economy-regime.md) — ✓ VERIFIED SAME TURN (rule 10) — 2026-08-15 ~12:45am PDT
-- `2026-08-15` [rates-board.md:L27](../rates-board.md) — [2026-08-15] **30Y at 5.20%, highest since 2007; real yields pushing 3%.** → `:3592`, `:3602`
+- `2026-08-15` [rates-board.md:L33](../rates-board.md) — [2026-08-15] **30Y at 5.20%, highest since 2007; real yields pushing 3%.** → `:3592`, `:3602`
 - `2026-08-16` [market-fragility.md:L4116](../market-fragility.md) — 2026-08-16 ~7:10pm PDT — ⛔ THE CHART ZEROHEDGE CAPTIONED "$300BN IN AUTOCALLABLES" DOES NOT SHOW AN AUTOCALLABLE FOOTPRINT. **BOTH VOL LEGS FELL ~30% 
 - `2026-08-16` [market-fragility.md:L4122](../market-fragility.md) — DATA (MEASURED — `tools/tape.py` + the chart, 2026-08-16 ~7:05pm PDT)
 - `2026-08-16` [market-fragility.md:L4153](../market-fragility.md) — 2026-08-16 ~7:25pm PDT — ⛔⛔ I OVERCORRECTED 15 MINUTES AGO AND THE PUBLIC DATA SAYS SO. **DISPERSION ROSE 44% WHILE INDEX VOL FELL 33% FROM MARCH TO J
@@ -247,7 +247,9 @@
 - `2026-08-16` [new-economy-regime.md:L3758](../new-economy-regime.md) — DATA (verified arithmetic, 2026-08-16 ~7:13pm PDT)
 - `2026-08-16` [new-economy-regime.md:L3805](../new-economy-regime.md) — 2026-08-16 ~11:28pm PDT — ★★★★★★ **JGB 2Y AT 1.687%, A 31-YEAR HIGH, IS PART TWO OF A TRAP THE VAULT ALREADY SPECIFIED — AND PART ONE GOT MEASURED AT 
 - `2026-08-16` [new-economy-regime.md:L3811](../new-economy-regime.md) — DATA (MEASURED — `tape.py`-style close-array pulls, 2026-08-16 ~11:28pm PDT)
-- `2026-08-16` [rates-board.md:L23](../rates-board.md) — [2026-08-16] **10Y 4.696% · 30Y 5.265% (secondary).** → `new-economy-regime.md:3814`
-- `2026-08-16` [rates-board.md:L24](../rates-board.md) — [2026-08-16] **30Y AUGUST REFUNDING AUCTION STOP = 5.216% — the highest 30Y auction yield since
-- `2026-08-17` [rates-board.md:L20](../rates-board.md) — [2026-08-17] **10Y ~4.71-4.712%.** Source: third-party verification brief (S10 Barron's/market
-- `2026-08-17` [rates-board.md:L67](../rates-board.md) — [2026-08-17] **The supply-priced long end and the AI-financing thread may be the same story seen
+- `2026-08-16` [rates-board.md:L29](../rates-board.md) — [2026-08-16] **10Y 4.696% · 30Y 5.265% (secondary).** → `new-economy-regime.md:3814`
+- `2026-08-16` [rates-board.md:L30](../rates-board.md) — [2026-08-16] **30Y AUGUST REFUNDING AUCTION STOP = 5.216% — the highest 30Y auction yield since
+- `2026-08-17` [rates-board.md:L26](../rates-board.md) — [2026-08-17] **10Y ~4.71-4.712%.** Source: third-party verification brief (S10 Barron's/market
+- `2026-08-17` [rates-board.md:L73](../rates-board.md) — [2026-08-17] **The supply-priced long end and the AI-financing thread may be the same story seen
+- `2026-08-18` [rates-board.md:L20](../rates-board.md) — [2026-08-18] **30Y ~5.310% (intraday).** ⇒ **A GENUINE NEW HIGH: +4.5bp above the 8/16 secondary
+- `2026-08-18` [rates-board.md:L83](../rates-board.md) — 2026-08-18 ~11:55am PDT — ⛔⛔ **"BEAR STEEPENING PRECEDED 3 OF 4 MAJOR TOPS SINCE 1962" IS THE BASE RATE WITH A STORY. COMPUTED: P(3-or-4 of 4 | pure c
