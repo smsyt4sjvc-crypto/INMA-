@@ -1,6 +1,6 @@
 # ⏱ CAPEX — merged timeline (the gate)
 
-> **100 dated entries across 3 notes · 2026-05-22 → 2026-08-15 · refreshed 2026-08-17 17:01 PDT**
+> **100 dated entries across 3 notes · 2026-05-22 → 2026-08-15 · refreshed 2026-08-17 18:31 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
