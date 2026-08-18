@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **160 dated entries across 2 notes · 2026-03-13 → 2026-08-18 · refreshed 2026-08-17 19:38 PDT**
+> **161 dated entries across 2 notes · 2026-03-13 → 2026-08-18 · refreshed 2026-08-17 23:55 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -182,3 +182,4 @@
 - `2026-08-18` [oil-value-chain.md:L1288](../oil-value-chain.md) — 2026-08-18 ~9:30am PDT — 📌 PBF INSIDER SALES: JAKE PULLED THE FORM 4s AND HIS READ SURVIVES ARITHMETIC CHECK. ⇒ **THREE OF FOUR ARE COMP MONETIZATION,
 - `2026-08-18` [oil-value-chain.md:L1353](../oil-value-chain.md) — 2026-08-18 ~9:50am PDT — ✅⛔ **THE NIMBLEY ITEM IS CLOSED AND IT CLOSES BENIGN. JAKE PULLED TABLE II: BOTH SALES WERE EXERCISE-AND-SELL OFF 2017/2018/2
 - `2026-08-18` [oil-value-chain.md:L1402](../oil-value-chain.md) — 2026-08-18 ~10:10am PDT — ✅🚩🚩🚩 **THE NAMED BREAK CONDITION IS FETCHED AT LAST (open since 8/13) AND IT SPLITS: LEVEL CONFIRMS HARD — 107,149 Mbbl is B
+- `2026-08-18` [oil-value-chain.md:L1471](../oil-value-chain.md) — 2026-08-18 ~11:05am PDT — ⭐⭐⭐⛔ **THE BRIDGE SERIES LANDS AND IT PARTLY REVERSES MY OWN DISCONFIRMER FROM THIS MORNING: US DISTILLATE EXPORTS ARE 1,935
