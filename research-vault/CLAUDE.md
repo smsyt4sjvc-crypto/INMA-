@@ -113,8 +113,15 @@ duplicate note) · the **🔴 open items** the inbound might close.
     ~~Rule 14 itself still stands.~~ 🔄 **14 RETIRED same day — see above.** Full: [[_persona]] 8/17.
 17. **Code delivery: COMPLETE cells only** (iPhone/Colab). Acronyms spelled out at first use.
 18. **End of session: file → link → index → ⏱ TIMELINE → chat-log → commit → push. Every turn pushes.**
-    ⏱ **`python3 tools/timeline_header.py --all --threads` AFTER writing entries, BEFORE committing.**
+    ⏱ **`python3 tools/timeline_header.py --all --threads --chain` AFTER writing entries, BEFORE committing.**
     Idempotent (compares the spine, not the stamp), so a no-op run costs nothing.
+18d. 🔗★★★ **THE TRANSMISSION CHAIN IS THE SPINE** (Jake, 2026-08-18): **Treasuries → hyperscaler
+    CDS/spreads → bank/private-credit appetite → hyperscaler capex commitments → AI supplier orders.**
+    **A CAUSAL ORDER, not a topic list — each stage prices the one below it.** On any inbound that
+    touches the AI complex, **say WHICH STAGE it lands on and whether the shock has PROPAGATED or
+    DIED.** Spine: [[transmission-chain]]. Merged running log across all five stages, oldest first:
+    **`wiki/_timelines/_chain.md`** (`tools/timeline_header.py --chain`). **File evidence to the STAGE
+    note, never to the spine.** ⚠️ **The ordering is a HYPOTHESIS — no lead-lag test has been run.**
 18c. ⏱★★★ **THE TIMELINE IS AN ARTIFACT, NOT A PRINTOUT** (Jake, 2026-08-17: *"I don't care about the
     output. I'll never go in there and read it. I want it archived… date stamping, and filing into a
     folder… so that when a new 'Iran' piece is uploaded, the gate you enter brings you from the start"*).

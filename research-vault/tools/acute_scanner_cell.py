@@ -304,6 +304,18 @@ THREADS = {
  # closely" -- and there was NO thread for it. FED is policy; FINANCING is AI paper. The 8/17
  # brief's "10Y at 4.71%" matched FED(4) and landed nowhere. 187 curve mentions were buried in
  # new-economy-regime.md. Thread + wiki/rates-board.md created together.
+ # gap #25 (2026-08-18, Jake): "Treasuries -> hyperscaler CDS/bond spreads -> bank/private-credit
+ # appetite -> hyperscaler capex commitments -> AI supplier orders. Hierarchy." The vault had all five
+ # subjects and no CAUSAL ORDER, so a propagation question had no address. -> wiki/transmission-chain.md
+ # + wiki/hyperscaler-credit.md (stage 2, which had no note at all) + wiki/_timelines/_chain.md.
+ 'CHAIN':     ['transmission','propagation','pass-through','passthrough','feeds through','knock-on',
+               'second-order','downstream','upstream','cost of capital','discount rate',
+               'financial conditions','fci','conditions index','credit channel','funding channel',
+               'lead-lag','lead lag','causal chain','hierarchy','the chain'],
+ 'HYPCREDIT': ['cds','credit default swap','5y cds','basis points of protection','spread over',
+               'new-issue concession','new issue concession','issue concession','oas',
+               'nvda cds','msft cds','googl cds','meta cds','orcl cds','crwv cds',
+               'ig spread','investment grade spread','secondary spread','bond spread'],
  'RATES':     ['term premium','yield curve','curve steepen','curve flatten','bear steepen',
                'bull steepen','inversion','inverted curve','2s10s','5s30s','10s30s',
                'long end','long-end','front end','duration','convexity','real yield',
@@ -479,6 +491,8 @@ ROUTE = {
  'WAR/OIL':   'demand-destruction / war-board / oil-value-chain',
  'BLACK SEA': 'demand-destruction (CPC/Kazakh outage) / oil-value-chain',
  'INVENTORY': 'demand-destruction (SPR clock)',
+ 'CHAIN':      'transmission-chain (THE SPINE -- read the stage order first) / _timelines/_chain.md (merged running log, all 5 stages)',
+ 'HYPCREDIT':  'hyperscaler-credit (stage 2: CDS/spreads for the AI complex) / ai-financing-fragility / rates-board',
  'RATES':     'rates-board (THE curve/spread board: level, auction internals, the 4-route long-end conclusion) / new-economy-regime (the argument in full) / market-fragility',
  'EUROGAS':    'europe-energy-crunch (THE European gas/Rhine instrument) / war-board / oil-value-chain',
  'FED':       'new-economy-regime / market-fragility / predictions (the registered hike call)',

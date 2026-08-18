@@ -7,6 +7,12 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 > Two domains, two brains: THIS vault = markets research. The **trading system** is a SEPARATE repo
 > (`Alpaca-Claude`) with its own `CLAUDE.md` — staged in `trading-system/` (one domain per vault).
 
+## 🔗 THE SPINE — read the stage order before anything AI-complex
+- [[transmission-chain]] — **Treasuries → hyperscaler CDS/spreads → funding appetite → capex
+  commitments → supplier orders.** Which stage is a shock sitting on, and has it propagated?
+  Merged 5-stage running log: `wiki/_timelines/_chain.md` (544 entries, 2026-05-22 →).
+- [[hyperscaler-credit]] — **stage 2**, created 2026-08-18. NVDA 5Y CDS ~40 → 80bp since late May.
+
 ## ⏱ THE GATES (`wiki/_timelines/`) — READ THE GATE BEFORE THE NOTE
 **29 merged per-thread chronologies, oldest → newest, auto-generated.** When an inbound matches a
 thread, its gate file is the entry point: the whole thread in order across every note that carries it,
