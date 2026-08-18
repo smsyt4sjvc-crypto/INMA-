@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **544 dated entries · 2026-05-22 → 2026-08-18 · refreshed 2026-08-18 11:00 PDT**
+> **548 dated entries · 2026-05-22 → 2026-08-18 · refreshed 2026-08-18 15:07 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -573,3 +573,7 @@
 - `2026-08-18` **[1]** rates-board.md:L83 — 2026-08-18 ~11:55am PDT — ⛔⛔ **"BEAR STEEPENING PRECEDED 3 OF 4 MAJOR TOPS SINCE 1962" IS THE BASE RATE WITH A STORY. COMPUTED: P(3-or-4 of 4 | pure c
 - `2026-08-18` **[1]** rates-board.md:L132 — 2026-08-18 ~12:25pm PDT — ✅⛔⛔⛔ **THE SPREAD SERIES IS BUILT FROM THE PRIMARY SOURCE, AND IT DESTROYS THE CLAIM'S FIRST CLAUSE: BEAR STEEPENING IS NOT 
 - `2026-08-18` **[2]** hyperscaler-credit.md:L14 — [2026-08-18] **NVDA 5Y CDS = 80.330bp** (last price on the chart Jake posted; series
+- `2026-08-18` **[3]** ai-financing-fragility.md:L6501 — 2026-08-18 ~1:10pm PDT — ✅✅ **THE OHIO ⬜ CLOSES ON NVIDIA'S OWN ANNOUNCEMENT, AND THE ARITHMETIC LANDS ON THE CAP: 4.25 GW INITIAL + 3.75 GW OPTION = 
+- `2026-08-18` **[3]** ai-financing-fragility.md:L6509 — [2026-08-18] **NVIDIA is exclusive AI-compute infrastructure provider for SB Energy's Ohio project:
+- `2026-08-18` **[3]** ai-financing-fragility.md:L6512 — [2026-08-18] **NVIDIA's announcement emphasises the infrastructure relationship and a $1.5B EQUITY
+- `2026-08-18` **[3]** ai-financing-fragility.md:L6514 — [2026-08-18] **The "$105B" is graded QUALIFIED: *"media reporting discussed financing or guarantees

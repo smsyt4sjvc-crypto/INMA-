@@ -1,6 +1,6 @@
 # ⏱ EUROGAS — merged timeline (the gate)
 
-> **104 dated entries across 3 notes · 2026-07-23 → 2026-08-18 · refreshed 2026-08-18 11:00 PDT**
+> **105 dated entries across 3 notes · 2026-07-23 → 2026-08-18 · refreshed 2026-08-18 15:07 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -119,4 +119,5 @@
 - `2026-08-18` [oil-value-chain.md:L1402](../oil-value-chain.md) — 2026-08-18 ~10:10am PDT — ✅🚩🚩🚩 **THE NAMED BREAK CONDITION IS FETCHED AT LAST (open since 8/13) AND IT SPLITS: LEVEL CONFIRMS HARD — 107,149 Mbbl is B
 - `2026-08-18` [oil-value-chain.md:L1471](../oil-value-chain.md) — 2026-08-18 ~11:05am PDT — ⭐⭐⭐⛔ **THE BRIDGE SERIES LANDS AND IT PARTLY REVERSES MY OWN DISCONFIRMER FROM THIS MORNING: US DISTILLATE EXPORTS ARE 1,935
 - `2026-08-18` [oil-value-chain.md:L1527](../oil-value-chain.md) — 2026-08-18 ~11:30am PDT — ⭐⭐⭐⭐ **RETAIL DIESEL LANDS (the flag open since 8/18 ~9:00am) AND IT PRODUCES THE SHARPEST NUMBER OF THE WEEK: THE REFINER I
+- `2026-08-18` [oil-value-chain.md:L1581](../oil-value-chain.md) — 2026-08-18 ~1:20pm PDT — ⚠️⚠️ **A THIRD-PARTY VERIFICATION BRIEF GRADES "DIESEL CRACK AT AN ALL-TIME HIGH ~$102.20" AS *CONFIRMED* — WHICH DIRECTLY CO
 - `2026-08-18` [war-board.md:L2698](../war/war-board.md) — 2026-08-18 ~10:30am PDT — 📌 THE MoU 60-DAY CLOCK EXPIRED YESTERDAY WITH NO DEAL AND NO EXTENSION — a dated catalyst, FIRED. ⛔ **BUT "BRENT SURGES TO $

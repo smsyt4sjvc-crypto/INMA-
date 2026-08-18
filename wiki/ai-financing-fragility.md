@@ -6678,3 +6678,50 @@ Source: Jake, 2026-08-17 ~9:35am PDT, in-session: *"Huang said that the rate was
    **what "initial phase" denominates.** One fetch. Still not done.
 2. 🚩🚩🚩 **NVDA 10-Q guarantees/commitments footnote: is Ohio ~$105B or ~$250B-class?** The falsifier for
    "the cap re-cut the deal."
+
+### 2026-08-18 ~1:10pm PDT — ✅✅ **THE OHIO ⬜ CLOSES ON NVIDIA'S OWN ANNOUNCEMENT, AND THE ARITHMETIC LANDS ON THE CAP: 4.25 GW INITIAL + 3.75 GW OPTION = 8 GW. ⇒ $105B IS 22-26% OF THE FULL 8 GW — RIGHT AT THE DISCLOSED 25% CEILING.** ★★ And the equity leg is now sized: **$1.5B into SB Energy.** ⛔ **But the $105B is MEDIA-DERIVED — NVIDIA's own release does not state it**
+Source: Jake's upload `SMTC_Macro_Feed_Verification_20260818.docx` (75-item feed ledger, third-party
+verification) → `raw/2026-08-18-smtc-macro-feed-verification.txt`. **ARTIFACT TEST: a verification
+brief ABOUT the feed. Its Ohio rows cite NVIDIA's own announcement as the basis, which is the first
+company-sourced read the vault has had on this project.** Closes ⬜/🚩 items #2 and #3 of `:6361`ff
+(8/17 9:10am) and the ⬜ "what does INITIAL PHASE denominate" from `:6434` (8/17 9:40am).
+
+#### DATA (REPORTED — the new company-sourced facts)
+- [2026-08-18] **NVIDIA is exclusive AI-compute infrastructure provider for SB Energy's Ohio project:
+  4.25 GW INITIALLY, with a further 3.75 GW OPTION. OpenAI slated as customer for the broader
+  deployment.** Basis: **NVIDIA's own announcement.**
+- [2026-08-18] **NVIDIA's announcement emphasises the infrastructure relationship and a $1.5B EQUITY
+  INVESTMENT** in SB Energy.
+- [2026-08-18] **The "$105B" is graded QUALIFIED: *"media reporting discussed financing or guarantees
+  potentially reaching that scale"* — it is NOT in NVIDIA's own announcement.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE DENOMINATOR QUESTION IS ANSWERED, AND IT ANSWERS IN FAVOUR OF THE CAP BINDING.**
+  At Huang's own $50-60B/GW (`:4092`, dispute flag at `:4143` still noted):
+  | scope | GW | implied cost | 25% of it | $105B as a share |
+  |---|---|---|---|---|
+  | initial phase | 4.25 | $212-255B | $53-64B | **41-49% — ~2× the cap** |
+  | **initial + option** | **8.00** | **$400-480B** | **$100-120B** | **22-26% — AT THE CAP** |
+  | old 7/26 "ambition" | 10.0 | $500-600B | $125-150B | 18-21% |
+  ⇒ **$105B is 25% of the FULL 8 GW OPPORTUNITY, not of the initial phase.** ⇒ **The media framing —
+  "initial backstop exposure ~$105B" — attached a CAMPUS-WIDE number to a PHASE word.** **Read against
+  the right scope the number is not an anomaly at all: it is the disclosed ceiling, applied.**
+  *(Analysis. This is the third denominator error on this one project — mine on 8/17, then the
+  phase/campus mismatch here. The project's scope keeps being restated and the numbers keep being
+  compared across restatements.)*
+- **⭐⭐ AND THE PROJECT HAS BEEN RE-SPECIFIED DOWNWARD, WHICH NOBODY HAS SAID OUT LOUD: 7/26 reporting
+  had a 10 GW campus with an 800 MW first phase. Today NVIDIA's own release says 4.25 GW initial +
+  3.75 GW option = 8 GW.** ⇒ **The headline capacity fell 10 → 8 GW, while the FIRST PHASE rose
+  0.8 → 4.25 GW.** **Smaller total, far bigger start.** ⚠️ **⬜ Whether the 800 MW referred to POWER
+  DELIVERED and the 4.25 GW to CONTRACTED COMPUTE is not established — that would reconcile them
+  without any change at all, and it is the boring explanation that should be ruled out first.**
+- **★★★ THE EQUITY LEG IS SIZED AND IT IS SMALL: $1.5B into SB Energy against a ~$105B wrap.**
+  ⇒ **The four-sided structure (`:6165`: sets the cadence · writes the RVG · owns the borrower ·
+  markets the paper) is confirmed at this site, but the OWNERSHIP leg is ~1.4% of the GUARANTEE leg.**
+  ⇒ **NVIDIA is not primarily an equity holder here. It is a GUARANTOR with a token stake** — which
+  is the more exposed of the two positions, not the less.
+- **⛔ AND THE $105B ITSELF DROPS A RUNG ON THE EVIDENCE LADDER.** It is **media-derived**, not
+  company-stated — the FT attribution from 8/17 stands, but NVIDIA's own release declines to confirm
+  it. ⇒ **Every ratio above is computed on a number the issuer has not owned.** 🚩🚩🚩 **THE 10-Q
+  GUARANTEES FOOTNOTE REMAINS THE ONLY THING THAT SETTLES THE EXPOSURE.** *(Unchanged since 8/17, and
+  now more clearly the binding gap.)*

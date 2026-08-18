@@ -1622,3 +1622,33 @@ week ago $5.300** (AAA-class daily average). **Decomposition below computed here
    **Now co-equal with utilisation as the trade's decisive series.** Unfetched.
 2. 🚩🚩 **Refinery utilisation %** — carried from 11:05am, still unfetched.
 3. 🚩 **Retail diesel next week** — does the lagged pass-through print, and does the +14.5¢/wk pace hold?
+
+### 2026-08-18 ~1:20pm PDT — ⚠️⚠️ **A THIRD-PARTY VERIFICATION BRIEF GRADES "DIESEL CRACK AT AN ALL-TIME HIGH ~$102.20" AS *CONFIRMED* — WHICH DIRECTLY CONTRADICTS THIS NOTE'S OWN 8/15 FINDING. THE CONFLICT IS REGISTERED, NOT RESOLVED.** ✓ And EIA's retail diesel differs from the AAA-class print I decomposed this morning
+Source: `raw/2026-08-18-smtc-macro-feed-verification.txt` (75-item ledger). Related: [[transmission-chain]]
+
+#### ⚠️ THE CONFLICT, STATED WITHOUT PICKING A SIDE
+- **THE BRIEF:** *"Diesel crack spread at record — CONFIRMED. Reporting showed the U.S. diesel crack
+  reaching an all-time high near $102.20/bbl."* Basis given: **Reuters / market reporting.**
+- **THIS NOTE, `:986` (8/15), from a Sonnet subagent's cross-check:** ***"this is NOT an all-time
+  record: 2022 exceeded $100 multiple times."*** And `:1165` lists "record crack" among the things
+  **since corrected**. **I repeated that correction to Jake on 8/18 ~9:00am.**
+- **⛔ BOTH CANNOT BE RIGHT, AND I AM NOT GOING TO QUIETLY PREFER THE ONE THAT IS MINE.**
+- **★★★ THE LIKELY RESOLUTION IS AN INSTRUMENT DEFINITION, WHICH IS ERROR CLASS 4 AND THIS NOTE'S MOST
+  FREQUENT FAILURE.** Candidate axes, any of which flips the answer: **which product leg** (NYH ULSD
+  vs Gulf Coast vs NWE gasoil) · **which crude leg** (WTI vs Brent) · **matched vs unmatched delivery
+  month** — `:1235` already found **5.17 of "crack" was a month mismatch** on this very instrument ·
+  **front-month vs prompt physical** · **daily settle vs intraday.** ⇒ **A $102 print on one definition
+  and a >$100 2022 print on another are both perfectly possible.**
+- ⇒ 🚩🚩🚩 **WHAT SETTLES IT, AND IT IS ONE FETCH: the NYMEX HO-vs-CL matched-month crack series,
+  2022 to date, ONE definition, and read the 2022 maximum off the same series that prints 101.93
+  today.** **Until then the vault says: THE LEVEL IS EXTREME AND THE WORD "RECORD" IS UNSETTLED.**
+  ⚠️ **Do not repeat either claim as established.**
+
+#### ✓ RETAIL DIESEL — a second source, and it does not quite match the first
+- **BRIEF (EIA): $5.454/gal, +$0.197 w/w = +3.75%.**
+- **JAKE'S PRINT (AAA-class daily, 8/18 ~11:30am): $5.445, week-ago $5.300 ⇒ +$0.145 = +2.74%.**
+- ⇒ **LEVEL agrees to within a cent (0.17%) — the decomposition filed at `:1330` is unaffected:
+  the refining margin is 44.5-44.6% of the pump price either way.**
+- ⇒ **But the WEEKLY CHANGE differs by a third (+2.74% vs +3.75%)** — different series, different
+  week-ago baseline (EIA weekly Monday survey vs a rolling daily average). ⚠️ **When quoting the
+  pass-through RATE, name which series. The level is robust; the delta is not.**

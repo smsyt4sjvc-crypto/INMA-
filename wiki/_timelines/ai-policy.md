@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **386 dated entries across 4 notes · 2026-05-22 → 2026-08-17 · refreshed 2026-08-18 11:00 PDT**
+> **390 dated entries across 4 notes · 2026-05-22 → 2026-08-18 · refreshed 2026-08-18 15:07 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -408,3 +408,7 @@
 - `2026-08-17` [ai-financing-fragility.md:L6374](../ai-financing-fragility.md) — [2026-08-17] **Initial backstop exposure reported ~$105B** — *"rather than a simple blanket guarantee of
 - `2026-08-17` [ai-financing-fragility.md:L6376](../ai-financing-fragility.md) — [2026-08-17] Also confirmed in the brief, already vault-held: **Stripe/OpenRouter >$7B** (`compression-thesis:2205`),
 - `2026-08-17` [ai-financing-fragility.md:L6434](../ai-financing-fragility.md) — 2026-08-17 ~9:40am PDT — ⛔⛔★★★★★★ JAKE'S PER-GW QUESTION KILLS MY $420B — **THE VAULT HELD THE DENOMINATOR SINCE 7/26 AND I SOLVED FOR IT INSTEAD.** ⇒
+- `2026-08-18` [ai-financing-fragility.md:L6501](../ai-financing-fragility.md) — 2026-08-18 ~1:10pm PDT — ✅✅ **THE OHIO ⬜ CLOSES ON NVIDIA'S OWN ANNOUNCEMENT, AND THE ARITHMETIC LANDS ON THE CAP: 4.25 GW INITIAL + 3.75 GW OPTION = 
+- `2026-08-18` [ai-financing-fragility.md:L6509](../ai-financing-fragility.md) — [2026-08-18] **NVIDIA is exclusive AI-compute infrastructure provider for SB Energy's Ohio project:
+- `2026-08-18` [ai-financing-fragility.md:L6512](../ai-financing-fragility.md) — [2026-08-18] **NVIDIA's announcement emphasises the infrastructure relationship and a $1.5B EQUITY
+- `2026-08-18` [ai-financing-fragility.md:L6514](../ai-financing-fragility.md) — [2026-08-18] **The "$105B" is graded QUALIFIED: *"media reporting discussed financing or guarantees
