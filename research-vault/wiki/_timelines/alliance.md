@@ -1,6 +1,6 @@
 # ⏱ ALLIANCE — merged timeline (the gate)
 
-> **223 dated entries across 3 notes · 2026-03-13 → 2026-08-18 · refreshed 2026-08-17 18:31 PDT**
+> **224 dated entries across 3 notes · 2026-03-13 → 2026-08-18 · refreshed 2026-08-17 19:03 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -245,3 +245,4 @@
 - `2026-08-17` [oil-value-chain.md:L1135](../oil-value-chain.md) — 2026-08-17 ~8:16am PDT — ⛔⛔⛔ **I MADE THE WINDOW ERROR THIS NOTE HAS ALREADY LOGGED TWICE, AND IT REVERSED MY ANSWER.** Measured from 8/13 — the date 
 - `2026-08-17` [oil-value-chain.md:L1189](../oil-value-chain.md) — 2026-08-17 ~8:25am PDT — ✅ **THE DEFERRED STRIP, FETCHED AT LAST** (the ⬜ registered since 8/15 and never closed) — and it converts Jake's "confident 
 - `2026-08-18` [oil-value-chain.md:L1238](../oil-value-chain.md) — 2026-08-18 ~9:00am PDT — ⛔⛔ "RECORD $102 / ABSOLUTELY UNPRECEDENTED" IS FALSE AND THIS NOTE ALREADY KILLED IT ON 8/15. **THE LEVEL IS +0.25 ON A NUMBE
+- `2026-08-18` [oil-value-chain.md:L1288](../oil-value-chain.md) — 2026-08-18 ~9:30am PDT — 📌 PBF INSIDER SALES: JAKE PULLED THE FORM 4s AND HIS READ SURVIVES ARITHMETIC CHECK. ⇒ **THREE OF FOUR ARE COMP MONETIZATION,
