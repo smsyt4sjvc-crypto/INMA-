@@ -524,3 +524,58 @@ Source: Jake, 2026-08-19 ~2:40pm PDT. **ALL FIGURES MEASURED FROM TREASURY FISCA
    if WAM is falling, the rollover-risk leg of the thesis above is confirmed mechanically.**
 4. ⬜ **Net interest outlay, monthly (MTS)** — the realised expense, versus the 3.447% × stock estimate.
 **Links:** [[ai-financing-fragility]] · [[new-economy-regime]] · [[transmission-chain]] · [[market-fragility]]
+
+## 📖 REFERENCE — WHO IS WHO, AND THE ONE LOOP THAT CONNECTS THEM (added 2026-08-19 ~3:05pm PDT, Jake's framing check)
+Jake's model, verbatim: *"the Treasury is essentially the country's bank account / cash issuance. The
+Federal Reserve system is essentially a 'private' bank appointed by the federal government to insure
+private banks' capital flows and assets are liquid enough to survive if something broke… the rest is
+living on how to accomplish that."* **Mostly right. Four corrections, then the loop — and the loop is the
+part that pays, because this board watched it run TODAY.**
+
+#### ✓ TREASURY — the fiscal agent
+- **Collects taxes, pays bills, borrows the difference by ISSUING SECURITIES, and chooses the MATURITY at
+  which to borrow.** ⇒ **Debt management is Treasury's lever, and it is the lever pulled this morning.**
+- **⭐ ITS "BANK ACCOUNT" IS LITERAL AND IT IS AT THE FED: the TREASURY GENERAL ACCOUNT (TGA), a liability
+  on the Federal Reserve's balance sheet.** **The government banks at the central bank.**
+- **⚠️ "CASH ISSUANCE" IS THE ONE PIECE TO CORRECT: Treasury's BEP prints the notes and the Mint strikes
+  the coins, but a FEDERAL RESERVE NOTE IS A LIABILITY OF THE FED, not of Treasury** (coins are Treasury's).
+  ⇒ **And physical currency is a rounding error. What Treasury actually issues is DEBT.**
+
+#### ⚠️ THE FEDERAL RESERVE — a hybrid, and "private" is a technicality about FORM, not CONTROL
+- **CREATED BY AN ACT OF CONGRESS (Federal Reserve Act, 1913) after the Panic of 1907 — not "appointed."
+  Congress can change it.**
+- **The BOARD OF GOVERNORS is a federal agency** (governors nominated by the President, Senate-confirmed).
+  **The 12 REGIONAL RESERVE BANKS are technically owned by their member commercial banks** — that is where
+  "private" comes from — **but the stock cannot be sold, the dividend is capped by statute, and the Fed
+  REMITS ITS PROFITS TO TREASURY.** ⇒ **Private in ownership form; public in direction and in where the
+  money goes.**
+- **⛔ AND THE FUNCTION HE DESCRIBES IS ONE OF THREE, AND NOT THE ONE THAT DOMINATES TODAY:**
+  **(1) MONETARY POLICY** — set the price of money against the dual mandate. **← the big one now.**
+  **(2) LENDER OF LAST RESORT / financial stability** — discount window, emergency facilities. **← his.**
+  **(3) SUPERVISION AND REGULATION** — examining banks.
+- **⛔ AND A SEPARATION WORTH KEEPING BECAUSE IT IS CONSTANTLY CONFLATED: DEPOSIT INSURANCE IS NOT THE FED.
+  IT IS THE FDIC, a different agency.** ⇒ **FDIC insures the DEPOSITOR. The Fed lends to the BANK.**
+- **✓ "The rest is living on how to accomplish that" — CORRECT. IORB, the ON RRP floor, open-market
+  operations, QE/QT and the balance sheet are all IMPLEMENTATION, not purpose.**
+
+#### ⭐ AND NEITHER OF THEM ISSUES MOST OF THE MONEY — which is his own finding from an hour ago
+- **[[new-economy-regime]]`:L2280`: M2 = Fed + BANK CREDIT + fiscal. Fed balance sheet +1.2% y/y while M2
+  hit a record $23.05T, +5.6%.** ⇒ **Banks create most money by lending. Treasury issues debt; the Fed sets
+  a price; the BANKING SYSTEM sets the quantity.**
+
+#### ★★★★★★ THE LOOP — the reason the two-institution map matters, and this board watched it run today
+- **TREASURY chooses the MATURITY of the borrowing. THE FED chooses the PRICE of short money.**
+- **Today, 2026-08-19: Treasury doubled long-end buybacks and funds them short** (`:L204`) **while the FOMC
+  minutes said financial conditions "might not currently be sufficiently restrictive"** (`:L364`).
+- ⇒ **⭐⭐⭐ EVERY YEAR TREASURY SHORTENS THE DEBT, THE GOVERNMENT'S INTEREST BILL BECOMES MORE SENSITIVE TO
+  THE FED'S POLICY RATE.** **The average rate on the debt is 3.447% on $40.05T** (`:L453`). **Shortening
+  moves more of that stock onto instruments the FOMC reprices directly.**
+- ⇒ **THAT IS THE FISCAL-DOMINANCE CHANNEL IN ONE SENTENCE, AND IT IS THE THING THE VAULT HAS BEEN CIRCLING
+  SINCE [[ai-financing-fragility]]`:L652`: the more the sovereign borrows short, the more a rate hike costs
+  the sovereign, and the harder it becomes for a central bank to raise rates for reasons that have nothing
+  to do with inflation.** ⇒ **Independence is a legal fact and an economic gradient. The gradient is what
+  this board should measure.**
+- 🚩 **REGISTERED: WEIGHTED AVERAGE MATURITY OF THE DEBT, quarterly** (already open at `:L453` item 3).
+  **It is now promoted from a housekeeping item to THE instrument for the fiscal-dominance gradient — a
+  falling WAM against a rising policy rate is the loop tightening, measurably.**
+**Links:** [[ai-financing-fragility]] · [[new-economy-regime]] · [[transmission-chain]]

@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **244 dated entries across 3 notes · 2026-06-30 → 2026-08-19 · refreshed 2026-08-19 13:42 PDT**
+> **245 dated entries across 3 notes · 2026-06-30 → 2026-08-19 · refreshed 2026-08-19 14:00 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -263,3 +263,4 @@
 - `2026-08-19` [rates-board.md:L277](../rates-board.md) — 2026-08-19 ~9:15am PDT — ★★★★★★ **THE SHAPE SETTLES THE ATTRIBUTION AND MY 7:03am CAVEAT WAS TOO WEAK: 5Y −2bp · 10Y −6bp · 30Y −9bp IS A MONOTONIC BU
 - `2026-08-19` [rates-board.md:L342](../rates-board.md) — 2026-08-19 ~12:55pm PDT — ✅★★★★★★ **JAKE'S READ CHECKS OUT VERBATIM AGAINST THE FED'S OWN PRIMARY — AND THE ONE FACT HIS SUMMARY OMITS REVERSES THE TR
 - `2026-08-19` [rates-board.md:L431](../rates-board.md) — 2026-08-19 ~2:45pm PDT — ✅⭐⭐⭐⭐⭐⭐ **$40,047,425,768,420.22 — JAKE'S FIGURE IS EXACT TO THE PENNY AND THE $40T LINE WAS CROSSED YESTERDAY.** ⭐ **The num
+- `2026-08-19` [rates-board.md:L506](../rates-board.md) — 📖 REFERENCE — WHO IS WHO, AND THE ONE LOOP THAT CONNECTS THEM (added 2026-08-19 ~3:05pm PDT, Jake's framing check)
