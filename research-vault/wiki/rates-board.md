@@ -579,3 +579,65 @@ part that pays, because this board watched it run TODAY.**
   **It is now promoted from a housekeeping item to THE instrument for the fiscal-dominance gradient — a
   falling WAM against a rising policy rate is the loop tightening, measurably.**
 **Links:** [[ai-financing-fragility]] · [[new-economy-regime]] · [[transmission-chain]]
+
+### 2026-08-19 ~3:20pm PDT — ⛔⭐⭐⭐⭐⭐ **IT IS THE OTHER WAY ROUND ON BOTH LEGS: TREASURY PAYS A *DISCOUNT* IN CASH (old low-coupon bonds trade far below par at 5.19%) AND ACCEPTS A *HIGHER* RUNNING COST. ⇒ THE STATED PURPOSE IS NOT DEBT SERVICE — IT IS LIQUIDITY, AND THIS BOARD MEASURED THE DISEASE AT `:L61` BEFORE TREASURY ANNOUNCED THE TREATMENT**
+Source: Jake, 2026-08-19 ~3:15pm PDT: *"So they're accomplishing what? Lowering the debt service in exchange
+for a higher dollar amount to buy the note itself now?"* **⟲ EXTENDS `:L204` and `:L453`.**
+
+#### ⛔ LEG ONE — THE CASH PRICE IS A DISCOUNT, NOT A PREMIUM
+- **A long bond issued years ago carries a LOW COUPON. Discounted at today's 5.19%, it trades FAR BELOW
+  PAR** — a ~1-3% coupon bond with 20+ years left is worth roughly half its face value at a 5.19% yield.
+- ⇒ **TREASURY IS BUYING BACK CHEAP PAPER CHEAPLY. It spends well under $1 of cash to retire $1 of face.**
+  ⇒ **The "higher dollar amount to buy the note now" is inverted: HIGH YIELDS MAKE OLD BONDS CHEAP TO
+  REPURCHASE. That is the one thing about this operation that IS favourable, and it is a consequence of the
+  selloff, not a cure for it.**
+- **⚠️ AND IT IS NPV-NEUTRAL BY CONSTRUCTION — buying any bond at its own market price creates no gain.**
+
+#### ⚠️ A MEASUREMENT CAVEAT ON THE DEBT SERIES I STARTED TRACKING AT `:L453` — caught here, so it does not bite later
+- **Debt to the Penny counts marketable securities at FACE/PAR.** ⇒ **Retire $100 of face for $50 cash,
+  then issue $50 of face in bills to fund it ⇒ HEADLINE DEBT FALLS ~$50 WHILE NOTHING ECONOMIC CHANGED.**
+- ⇒ **⛔ BUYBACKS MECHANICALLY SHRINK THE HEADLINE DEBT NUMBER THROUGH PAR ACCOUNTING ALONE.** **At $4B per
+  operation against $40.05T the effect is negligible TODAY — but the series is now tracked, and the caveat
+  belongs on it before someone reads a buyback week as deleveraging.** *(Analysis. Error class 4 in
+  advance: the instrument is par, not market value.)*
+
+#### ⛔ LEG TWO — IT RAISES THE RUNNING COST, AND THE VAULT'S OWN SERIES ALREADY SHOWS IT
+- **Retiring a ~1-3% coupon bond and funding with a bill near 3.75% RAISES cash interest paid.**
+- ✅ **AND THE AVERAGE-RATE SERIES AT `:L453` IS DOING EXACTLY THAT: 3.409% (Jun) → 3.447% (Jul), +9.4bp in
+  two months versus ~+1.3bp/month before.** ⇒ **The rising average rate is not a forecast of this policy —
+  it is the policy, measured.**
+- **⇒ ★★★★★ THE COUNTERFACTUAL IS WHAT SETTLES IT, AND THERE ARE TWO, WHICH IS WHY THE QUESTION FEELS
+  SLIPPERY: vs DOING NOTHING, the buyback is MORE expensive (it destroys a cheap 20-year liability the
+  taxpayer already owned). vs ISSUING A NEW 30Y AT 5.19%, bills near 3.75% are ~140bp CHEAPER.**
+  ⇒ **The operation does BOTH at once: retires cheap paper AND avoids issuing expensive paper.**
+  ⇒ **Net on running cost: WORSE than standing still, BETTER than terming out. That is the whole trade-off
+  and neither headline captures it.** *(Analysis.)*
+
+#### ★★★★★★ SO WHAT IS ACTUALLY BEING BOUGHT? MARKET FUNCTIONING — AND THE VAULT DIAGNOSED IT FIRST
+- **THE STATED PURPOSE IS IN THIS BOARD'S OWN 7:00am ENTRY AND I SHOULD HAVE LED WITH IT: `:L205` — an
+  increase to *"LIQUIDITY-SUPPORT BUYBACKS in the 10-20Y and 20-30Y buckets."*** **Liquidity support, not
+  cash management, not cost reduction.**
+- **THE MECHANISM: off-the-run long bonds sit on DEALER balance sheets consuming capital. Buying them back
+  frees dealer capacity to bid at the NEXT auction.** ⇒ **It supports the long end by restoring the
+  ABSORPTION SIDE, not by lowering the rate directly.**
+- **✅⭐⭐⭐ AND THIS BOARD MEASURED THE SYMPTOM BEFORE THE REMEDY WAS ANNOUNCED. `:L61`, from the August
+  refunding: *"BID DISPERSION: 33.6bp at the 30Y vs 11.3bp at the 10Y — the sharpest number nobody
+  flagged."* Plus DEALER TAKEDOWN of just 8.6% (10Y) and 11.5% (30Y).** ⇒ **Wide dispersion with thin
+  dealer participation is precisely what an impaired long-end intermediation channel looks like.**
+  ⇒ **⭐ The vault named the disease from auction internals; Treasury announced the treatment two weeks
+  later, in the same maturity buckets. That is the strongest predictive hit this board has recorded.**
+  *(Analysis.)*
+- **⇒ AND IT REFINES JAKE'S OWN "BESSENT SCRAMBLED" READ RATHER THAN REFUTING IT: he is right about the
+  URGENCY and right that the long end is the target. The instrument is not debt-service relief — it is
+  DEALER BALANCE-SHEET RELIEF, which is a plumbing fix, and plumbing fixes are what you reach for when the
+  problem is that nobody can warehouse the bonds.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **BID DISPERSION AND DEALER TAKEDOWN AT EVERY LONG-END AUCTION FROM HERE.** **Baseline 8/2026:
+   33.6bp / 11.3bp dispersion, 11.5% / 8.6% takedown.** ⇒ **If the buyback works, DISPERSION NARROWS. That
+   is a cleaner, more direct test of the operation than the yield level, and it is free at every auction.**
+2. 🚩🚩 **WHICH CUSIPs GET BOUGHT, AND AT WHAT PRICE** — Treasury publishes buyback results. **Average
+   purchase price vs par quantifies the discount and the par-accounting effect above.** ⬜ Not fetched.
+3. ⬜ **Primary-dealer Treasury positions (FRBNY weekly)** — the direct measure of the balance-sheet
+   congestion this operation is meant to relieve. **The vault has never pulled it and it is public weekly.**
+**Links:** [[transmission-chain]] · [[market-fragility]] · [[new-economy-regime]]

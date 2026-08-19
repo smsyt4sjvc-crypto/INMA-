@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **566 dated entries · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 14:00 PDT**
+> **567 dated entries · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 14:07 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -585,6 +585,7 @@
 - `2026-08-19` **[1]** rates-board.md:L342 — 2026-08-19 ~12:55pm PDT — ✅★★★★★★ **JAKE'S READ CHECKS OUT VERBATIM AGAINST THE FED'S OWN PRIMARY — AND THE ONE FACT HIS SUMMARY OMITS REVERSES THE TR
 - `2026-08-19` **[1]** rates-board.md:L431 — 2026-08-19 ~2:45pm PDT — ✅⭐⭐⭐⭐⭐⭐ **$40,047,425,768,420.22 — JAKE'S FIGURE IS EXACT TO THE PENNY AND THE $40T LINE WAS CROSSED YESTERDAY.** ⭐ **The num
 - `2026-08-19` **[1]** rates-board.md:L506 — 📖 REFERENCE — WHO IS WHO, AND THE ONE LOOP THAT CONNECTS THEM (added 2026-08-19 ~3:05pm PDT, Jake's framing check)
+- `2026-08-19` **[1]** rates-board.md:L561 — 2026-08-19 ~3:20pm PDT — ⛔⭐⭐⭐⭐⭐ **IT IS THE OTHER WAY ROUND ON BOTH LEGS: TREASURY PAYS A *DISCOUNT* IN CASH (old low-coupon bonds trade far below par
 - `2026-08-19` **[1]** new-economy-regime.md:L3851 — 2026-08-19 ~1:20pm PDT — ⛔⭐⭐⭐⭐ **JAKE'S PCE MECHANISM DOES NOT WORK AS STATED — CONSTRUCTION IS *INVESTMENT*, NOT CONSUMPTION, SO NEITHER COMMERCIAL N
 - `2026-08-19` **[1]** new-economy-regime.md:L3946 — 2026-08-19 ~1:40pm PDT — ✅★★★★★ **JAKE HAS RE-DERIVED THIS NOTE'S OWN `:L2280` FINDING FROM FIRST PRINCIPLES: A RATE CUT IS CASH-NEUTRAL TOO. THE FED 
 - `2026-08-19` **[1]** new-economy-regime.md:L4014 — 2026-08-19 ~1:55pm PDT — ✅⭐⭐⭐⭐⭐ **YES — AND THE MISSING HALF OF THE SENTENCE IS THE SUPPLY SIDE, WHICH IS WHERE THE FOMC ITSELF IS UNCERTAIN. ✓ AND TH
