@@ -1,6 +1,6 @@
 # ⏱ FINANCING — merged timeline (the gate)
 
-> **170 dated entries across 2 notes · 2026-05-22 → 2026-08-18 · refreshed 2026-08-19 06:44 PDT**
+> **171 dated entries across 2 notes · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 06:56 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -192,3 +192,4 @@
 - `2026-08-18` [ai-financing-fragility.md:L6509](../ai-financing-fragility.md) — [2026-08-18] **NVIDIA is exclusive AI-compute infrastructure provider for SB Energy's Ohio project:
 - `2026-08-18` [ai-financing-fragility.md:L6512](../ai-financing-fragility.md) — [2026-08-18] **NVIDIA's announcement emphasises the infrastructure relationship and a $1.5B EQUITY
 - `2026-08-18` [ai-financing-fragility.md:L6514](../ai-financing-fragility.md) — [2026-08-18] **The "$105B" is graded QUALIFIED: *"media reporting discussed financing or guarantees
+- `2026-08-19` [ai-financing-fragility.md:L6548](../ai-financing-fragility.md) — 2026-08-19 ~7:30am PDT — ★★★★★★ **MARVELL ISSUES GOOGLE A $12.18B WARRANT TO WIN TPU-ECOSYSTEM SILICON. ⇒ THE CIRCULARITY THREAD GETS ITS PUREST INSTA

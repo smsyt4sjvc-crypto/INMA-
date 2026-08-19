@@ -6725,3 +6725,68 @@ company-sourced read the vault has had on this project.** Closes ⬜/🚩 items 
   it. ⇒ **Every ratio above is computed on a number the issuer has not owned.** 🚩🚩🚩 **THE 10-Q
   GUARANTEES FOOTNOTE REMAINS THE ONLY THING THAT SETTLES THE EXPOSURE.** *(Unchanged since 8/17, and
   now more clearly the binding gap.)*
+
+### 2026-08-19 ~7:30am PDT — ★★★★★★ **MARVELL ISSUES GOOGLE A $12.18B WARRANT TO WIN TPU-ECOSYSTEM SILICON. ⇒ THE CIRCULARITY THREAD GETS ITS PUREST INSTANCE YET: THE SUPPLIER PAYS THE CUSTOMER, IN EQUITY, CONTINGENT ON THE CUSTOMER BUYING.** ⛔ **And the "revenue visibility" investors bid 8% for is, under ASC 606, most likely CONTRA-REVENUE**
+Source: Marvell regulatory filing via ZeroHedge, 2026-08-19 → `raw/2026-08-19-marvell-google-chips-for-warrants.txt`.
+**ARTIFACT TEST: a ZH post quoting a filing. The share/strike/vesting mechanics are quoted AS FROM THE
+FILING and are specific enough to be checkable; the interpretation around them is ZH's.**
+Related: [[transmission-chain]] (stages 4↔5) · [[etched-inference-challenger]] · [[compression-thesis]]
+
+#### DATA (REPORTED — from the filing as quoted)
+- **Google may purchase up to 58,970,907 MRVL shares at $206.58 ⇒ $12.18B notional.**
+- **~1,400,000 shares (2.4% of the warrant) vest in equal QUARTERLY installments over the first year** —
+  i.e. unconditional, time-based.
+- **The remaining 57,570,907 (97.6%) vest on "DISCRETIONARY PURCHASES," from MRVL fiscal Q3-2027 through
+  end of fiscal 2033 — ONE TRANCHE PER $500 MILLION of revenue from jointly developed products.**
+- **Scope: custom silicon "that attach to the TPU ecosystem" — AI inference accelerators, storage
+  controllers, network interface controllers, memory interface controllers, near-memory compute.**
+- **TAPE 2026-08-19: MRVL 233.37 (+8.04% vs the 8/18 close of 216.00) · AVGO 361.14 (−4.96%).**
+  ⇒ **Warrant struck at 206.58 is already ~13% IN THE MONEY on day one.**
+- **Approx dilution at full exercise ≈ 6.8%** *(on a ~865M share count — ⚠️ APPROXIMATE, not verified
+  from the filing; treat as an order of magnitude only).*
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THIS IS THE CLEANEST SPECIMEN THE CIRCULARITY THREAD HAS: THE VENDOR PAYS THE CUSTOMER TO BUY
+  FROM THE VENDOR, AND PAYS IN ITS OWN STOCK.** `:6165` framed NVIDIA's version as four-sided — sets the
+  cadence · writes the RVG · owns the borrower · markets the paper. **Marvell's version needs only one
+  side: EQUITY AS A VOLUME REBATE.** ⇒ **No cash leaves Marvell, no debt is issued, and the customer's
+  payoff rises with the size of its own orders.** **ZH's own line is the right one and I will not
+  improve on it: *"an off balance sheet (no liquidity required) way to lock in chip supply."***
+- **⛔⛔ AND THE ACCOUNTING IS THE PART NOBODY IN THE TAPE IS PRICING: WARRANTS GRANTED TO A CUSTOMER ARE
+  "CONSIDERATION PAYABLE TO A CUSTOMER" AND UNDER ASC 606 THAT IS NORMALLY A REDUCTION OF REVENUE — NOT
+  AN OPERATING EXPENSE, AND NOT BELOW THE LINE.** ⇒ **Every $500M tranche that vests carries a
+  fair-value charge that lands ON the revenue line it was earned by.** ⇒ **The "multi-year revenue
+  visibility through fiscal 2033" being bid +8% today is GROSS visibility. The NET is gross minus the
+  fair value of the equity handed over to obtain it — and that fair value RISES WITH THE STOCK.**
+  ⇒ **★★★ THE REFLEXIVE TRAP, STATED: the better the program does, the higher MRVL trades, the more
+  each vesting tranche costs in contra-revenue.** ⚠️ **THESIS, not verified: the exact treatment is in
+  the filing's accounting note and I have not read it.** 🚩🚩🚩 **FETCH: MRVL's 8-K/10-Q language on
+  the warrant's classification (contra-revenue vs expense) and the fair-value method. This single item
+  determines whether today's +8% is a repricing or a mistake.**
+- **★★★★★ THE VESTING SPLIT IS THE TELL AND IT IS LOPSIDED: ONLY 2.4% IS UNCONDITIONAL.** **97.6% is
+  contingent on Google's own DISCRETIONARY purchases.** ⇒ **Google has bought a call on Marvell's
+  execution while committing to NOTHING** — "discretionary" is the operative word, and it is Google's
+  discretion. ⇒ **This is not a purchase commitment. It is an OPTION ON A PURCHASE COMMITMENT, and the
+  evidence ladder puts it below "announced" and far below "contracted."** ⚠️ **Anyone counting $12.2B
+  as demand is counting a strike price as an order book.**
+- **★★★★ AVGO −4.96% IS THE READ-THROUGH AND IT IS THE MOST INFORMATION-DENSE PRICE ON THE SCREEN.**
+  Broadcom is the incumbent TPU partner. ⇒ **The market read this as SHARE SHIFT inside Google's custom
+  silicon, not as new spend.** ⇒ **⛔ Which means the AI-supplier stage may be REDISTRIBUTING rather
+  than growing — MRVL +8% and AVGO −5% on the same headline is close to a zero-sum print.**
+  **[[transmission-chain]] stage 5 should not read this as demand confirmation.**
+- **↔ CHAIN PLACEMENT: THIS IS A STAGE-4→5 LINKAGE THAT NEVER APPEARS IN CAPEX.** Google secures supply
+  and pays with Marvell's equity ⇒ **no line in Alphabet's capex, no commitment in its off-balance-sheet
+  note, and the cost sits on the SUPPLIER's income statement.** ⇒ **The chain's stage-4 instrument
+  (capex guides, off-B/S commitments) is structurally blind to this.** 🚩 **Add "customer warrants
+  issued by suppliers" to what stage 4 must be read for — it is capex that shows up as someone else's
+  contra-revenue.**
+- **⚠️ AND THE PRECEDENT MATTERS FOR HOW COMMON THIS GETS: this is the same template as the
+  AMD/OpenAI warrant structure.** ⇒ **Two instances make a pattern; the vault should expect more, and
+  should treat "warrants-for-volume" as a recognised financing FORM rather than a one-off.**
+
+#### 🚩 REGISTERED
+1. 🚩🚩🚩 **THE ACCOUNTING CLASSIFICATION** (above). Decides whether the +8% survives the first print.
+2. 🚩🚩 **MRVL share count and the verified dilution** — my 6.8% is approximate and unverified.
+3. 🚩 **Does AVGO's Google TPU content actually fall?** The zero-sum read is an inference from one day's
+   tape. **A confirmed content loss at Broadcom would make this a share-shift finding rather than a
+   sentiment one.**
