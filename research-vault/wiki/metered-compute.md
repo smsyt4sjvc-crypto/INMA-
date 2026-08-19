@@ -2457,3 +2457,89 @@ deflation wins."*
 - ⬜ **AI-only revenue, separated from cloud.** Every ratio above is contaminated until this exists.
 - ⬜ **The efficiency growth RATE** — the single term that decides his decoupling, and nobody publishes it.
   **Proxy: tokens/sec/GPU per generation, or $/M-tokens at constant model quality.**
+
+### 2026-08-19 ~8:00am PDT — ⭐⭐⭐⭐⭐ **THE BEST DATA THIS NOTE HAS EVER HAD ON ITS OWN REGISTERED TEST: VERCEL JULY-2026 — TOKEN VOLUME +59%, REALIZED $/TOKEN −13.6%, SPEND +37%, AGAINST AN EXACT BREAK-EVEN HURDLE OF 15.7%.** ⇒ **Jevons is winning by ~3.8× the hurdle IN PRODUCTION TRAFFIC.** ⛔ **But this does NOT overturn `:2350`'s "only just above flat" — different window, different sample, and the report says so itself**
+Source: `AI_Token_Economics_Jevons_Report_20260819.docx` → `raw/2026-08-19-ai-token-economics-jevons-report.txt`.
+Underlying: **Vercel August 2026 Production Index** (AI Gateway), plus OpenRouter volume and published
+list prices. **The report's OWN confidence statement: "High for the direction of production spend;
+MEDIUM for a single 'global' elasticity because public datasets are GATEWAY- AND WORKLOAD-BIASED, and
+not every token is billable."** Related: [[compression-thesis]] · [[transmission-chain]] (stage 5)
+
+#### ⭐ THE ARITHMETIC CORRECTION EVERY VERSION OF THIS DEBATE GETS WRONG — INCLUDING THIS VAULT
+**If price falls by d, volume must rise by d/(1−d) to hold revenue flat — NOT by d.**
+| price decline | break-even volume | the naive (wrong) answer |
+|---|---|---|
+| −13.6% | **+15.7%** | +13.6% |
+| −20% | **+25.0%** | +20% |
+| −50% | **+100%** | +50% |
+| −70% | **+233.3%** | +70% |
+| −80% | **+400%** | +80% |
+| −90% | **+900%** | +90% |
+- **⇒ THE ERROR GROWS EXPLOSIVELY AS PRICES FALL. At −90% the naive answer understates the hurdle by
+  10×.** ⇒ **Encode this: any "volume outran price" claim must use d/(1−d).**
+- **✓ THE JULY NUMBERS TIE: 1.59 × 0.864 = 1.374 ⇒ +37.4% spend vs the reported +37%.** **Internally
+  consistent — the three figures are not independently sourced claims, they are one identity.**
+
+#### DATA (REPORTED — Vercel AI Gateway)
+- **JULY 2026: volume +59% MoM · realized $/token −13.6% · spend +37% MoM.** **May→Jul: volume ~2.0×,
+  spend +74%.** **OpenRouter ~Nov-2025→May-2026: 5T → 25T tokens/week (5×), no ASP series.**
+- **THE INTENSIVE MARGIN — the real Jevons channel: requests ending in a TOOL CALL 11.4% (Oct-25) →
+  22.2% (Apr-26); TOKENS inside tool-call requests 31.6% → 58.9%.** ⇒ **22.2% of requests carry 58.9%
+  of tokens.**
+- **OPEN-WEIGHT: 11% of tokens (Apr) → 29% (Jun) → 36% (Jul), but only 8.6% of SPEND** (<4% through
+  June). **DeepSeek <1% of gateway tokens in April → ~25% in July, more than 2× Google's share — with
+  spend share barely moving.**
+- **ANTHROPIC: 65.1% of gateway SPEND on ~30% of tokens; average token priced 4.4× the rest of the
+  market. In CODING AGENTS: >80% of spend while DeepSeek ran ~⅓ of token volume.**
+- **⛔ PRICES ARE NOT MONOTONICALLY COLLAPSING: DeepSeek's V4 PEAK pricing is materially ABOVE its May
+  launch pricing.** **And OpenAI cut Luna 80% on 7/30 to $0.20/$1.20** ⇒ **the commodity floor is
+  converging and is no longer a China-only advantage.**
+- **⚠️ THE ANTI-JEVONS FORCE, WITH A MAGNITUDE: a July-2026 controlled study found an orchestration-layer
+  redesign cut TOKENS PER TASK by 38% and blended task cost by 41% at preserved quality.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ FIRST, THE WINDOW DISCIPLINE, BECAUSE THIS NOTE HAS BEEN BURNED BY IT: THIS DOES NOT OVERTURN
+  `:2350`.** That finding — **volume 330×, revenue ~2.2×, revenue/token −151×, "Jevons winning but only
+  just above flat"** — is a **MULTI-YEAR** measurement. **This is ONE MONTH on ONE GATEWAY.** ⇒ **Both
+  can be true: a long-run ratio barely above flat, containing months where volume massively outruns
+  price.** **⛔ Do not let a 30-day print retire a multi-year one. File as EXTENDS, not SUPERSEDE.**
+- **⚠️⚠️ AND THE SAMPLE BIAS IS THE LOAD-BEARING CAVEAT, WHICH THE REPORT VOLUNTEERS AND THE HEADLINE
+  BURIES: VERCEL'S GATEWAY IS A CODING/AGENTIC DEVELOPER POPULATION.** ⇒ **That is precisely the
+  workload where premium models are LEAST substitutable — which is why Anthropic shows 65.1% of spend
+  at a 4.4× premium and >80% in coding agents.** ⇒ **It UNDERSAMPLES the commodity tier (chat,
+  summarisation, classification) where price collapse actually bites.** **And this note already holds
+  the killer companion fact: `:2360`ff — 74% of Google's token volume is NON-API.** ⇒ **The largest
+  volume pools are not in ANY gateway dataset.** *(Analysis.)*
+- **★★★★★★ THE FINDING I WOULD KEEP IF I KEPT ONE: THE MARKET IS SPLITTING INTO A BARBELL, NOT
+  CONVERGING TO ONE TOKEN PRICE.** **Cheap routing for bulk cognition + expensive premium calls for
+  consequential steps.** ⇒ **⭐ THIS RECONCILES YESTERDAY'S GLM-5.3 CHART WITH TODAY'S JEVONS DATA, AND
+  I TREATED THEM AS ONE QUESTION 24 HOURS AGO.** **A 57× price spread across a 7.2-point capability
+  spread ([[compression-thesis]] 8/18) and "premium captures 65% of spend on 30% of tokens" are the
+  SAME STRUCTURE seen from two ends: capability converges, PRICE SEGMENTS BY TASK STAKES.**
+  ⇒ **The question was never "does the token price collapse." It is "which tier does a given workload
+  route to, and who owns the high-stakes tier."**
+- **★★★★★ THE UPMARKET MOVE IS THE REAL COMPETITIVE THREAT AND THE REPORT NAMES IT CORRECTLY: July's
+  open-weight SPEND increase came overwhelmingly from MOONSHOT and Z.ai — Kimi K3 and GLM-5.2 taking
+  meaningful spend at prices FAR ABOVE DeepSeek.** ⇒ **"DeepSeek takes cheap tokens" is not the
+  threat. "Open-weight families take PREMIUM SPEND" is.** ⚠️ **And note Kimi K3 lists at $3/$15 —
+  the same tier as a Western workhorse. "Cheap China" is the wrong frame.**
+- **★★★★ AND MONETISATION IS MOVING ABOVE THE TOKEN LAYER, WHICH CHANGES THE DENOMINATOR THIS NOTE
+  HAS BEEN USING.** **Tool fees, container runtime, managed-agent session runtime, separately metered
+  search grounding.** ⇒ **`Revenue per task = tokens/task × $/token + tool/runtime/search fees.`**
+  ⇒ **⛔ "Revenue per token" is becoming the WRONG unit — it excludes a growing, deliberately
+  non-token revenue line.** **This note's own 151× revenue/token collapse may partly be measuring
+  a denominator that vendors are migrating away from.** 🚩 **Track SPEND PER COMPLETED TASK instead.**
+- **⚠️ AND THE ONE SENTENCE THAT CONNECTS THIS TO THE WHOLE CAPEX THREAD, stated by the report and
+  worth adopting verbatim: *"REVENUE JEVONS IS NOT THE SAME AS CAPEX SOLVENCY."*** ⇒ **Inference
+  revenue can grow while the buildout still destroys returns if gross profit does not cover
+  depreciation, power, financing and idle capacity.** ⇒ **[[transmission-chain]]: stage 5 revenue
+  growing is NOT evidence that stages 3-4 are solvent. Those are different tests and the vault should
+  stop letting one answer the other.**
+
+#### 📌 THE DASHBOARD — adopted as the standing metric set for this thread
+**Paid token volume growth vs the d/(1−d) hurdle · realized $/token (not list) · TOKENS PER COMPLETED
+TASK · SPEND PER COMPLETED TASK · open-weight SPEND share (not token share) · premium share of
+high-stakes work · inference gross margin & accelerator utilisation.**
+- **⇒ THE FALSIFIER WITH A NUMBER: tokens/task falling faster than task count rises. The 38% harness
+  study is the first measured instance of that force.** 🚩 **If a second independent harness result
+  lands in the 30-40% range, the intensive-margin leg is in trouble.**
