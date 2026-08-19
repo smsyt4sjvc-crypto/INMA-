@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **554 dated entries · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 07:20 PDT**
+> **556 dated entries · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 07:22 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -582,4 +582,6 @@
 - `2026-08-19` **[1]** rates-board.md:L182 — 2026-08-19 ~7:00am PDT — ★★★★★★ **TREASURY DOUBLES LONG-END BUYBACKS ($2B → "AT LEAST" $4B/OPERATION, 10-20Y AND 20-30Y, FROM SEPT 9 TO NOV 4). ⇒ THE 
 - `2026-08-19` **[1]** rates-board.md:L243 — 2026-08-19 ~7:03am PDT (scanner 14:03 UTC) — ⭐⭐⭐⭐⭐ **THE BUYBACK TEST FIRED THE SAME MORNING AND IT FIRED IN FAVOUR: LONG YIELDS FELL SHARPLY, TLT +1.
 - `2026-08-19` **[3]** ai-financing-fragility.md:L6548 — 2026-08-19 ~7:30am PDT — ★★★★★★ **MARVELL ISSUES GOOGLE A $12.18B WARRANT TO WIN TPU-ECOSYSTEM SILICON. ⇒ THE CIRCULARITY THREAD GETS ITS PUREST INSTA
+- `2026-08-19` **[4]** ai-capex-cycle.md:L2915 — 2026-08-19 ~7:03am PDT — ✅ **F1 CLOSES. THE 7/29 READ AT `:1859` WAS RIGHT AND IS NOW UNAMBIGUOUS: THE VALIDATION SUPPLIES THE PRIOR-QUARTER ANCHOR TH
+- `2026-08-19` **[4]** ai-capex-cycle.md:L2933 — 2026-08-19 ~7:05am PDT — ⛔ **F3 DOWNGRADED, AND IT IS A REAL DE-ESCALATION: THE CXMT/YMTC "WALL" IS A BIPARTISAN *LETTER* TO APPLE PLUS AN EXISTING FE
 - `2026-08-19` **[5]** memory-regime-question.md:L1017 — 2026-08-19 ~7:03am PDT — ✅✅ **F9 CLOSES ON THE FORM 4s AND IT CLOSES *AGAINST* THE BEARISH READ: MEHROTRA SOLD 40,000 SHARES (~$37M) UNDER A 10b5-1 PL
