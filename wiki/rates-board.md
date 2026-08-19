@@ -360,3 +360,92 @@ and against the live tape** (`tools/tape.py`, close ARRAY not `meta.chartPreviou
 3. 🚩 **REFINER EQUITY vs THE CRACK, ROLLING CORRELATION** — carried from `oil-value-chain`, still unfetched,
    and today is a clean observation for it: crack-supportive EIA print + long-end rally + refiners red.
 **Links:** [[market-fragility]] · [[oil-value-chain]] · [[transmission-chain]] · [[new-economy-regime]]
+
+### 2026-08-19 ~12:55pm PDT — ✅★★★★★★ **JAKE'S READ CHECKS OUT VERBATIM AGAINST THE FED'S OWN PRIMARY — AND THE ONE FACT HIS SUMMARY OMITS REVERSES THE TRADING IMPLICATION: THE DESK REPORTS THE MARKET WAS *ALREADY FULLY PRICING A SEPTEMBER HIKE* AS OF THE JULY MEETING.** ⇒ The minutes are not new information, which is exactly what the tape says
+Source: **FOMC minutes, July 28-29 2026 meeting, released 2026-08-19 2:00pm ET — FETCHED FROM
+federalreserve.gov PRIMARY** (`.htm` + `.pdf` + extracted text) → `raw/2026-08-19-fomc-minutes/`.
+Jake's Safari upload archived alongside. **⟲ EXTENDS `:L299` (this morning's bull-flattening entry).**
+
+#### DATA (MEASURED — verbatim from the minutes)
+- **⭐ THE HEADLINE SENTENCE, WORD FOR WORD, CONFIRMED:** *"**Many participants assessed that policy
+  tightening would likely be necessary if inflation did not decline.**"* ✓ **Jake's quote is exact.**
+- *"**Some participants** commented that financial conditions might not currently be sufficiently
+  restrictive to facilitate a return of inflation to 2 percent."*
+- *"**A few** of the participants who favored raising the target range… judged that doing so would likely
+  help **forestall the need for a steeper and potentially more costly sequence of tightening moves at a
+  later stage**."*
+- **THE VOTE: 9–3. Target range HELD at 3-1/2 to 3-3/4 percent.** **Dissenting, all preferring +1/4 point
+  AT THIS MEETING: BETH M. HAMMACK · NEEL KASHKARI · LORIE K. LOGAN.** ⇒ **"Several officials favored a
+  hike" is not a characterisation — it is three named dissents in the record.**
+- **⭐⭐⭐ THE OMITTED FACT, FROM THE DESK'S OWN MARKETS REPORT:** *"while investors expected no action at the
+  July FOMC meeting as a base case, the market priced in about a **one-in-three chance** of an increase…
+  At longer horizons, **the market was FULLY PRICING IN a 25 basis point hike by the September meeting and
+  another one by the end of the first quarter of next year**."*
+- **⚠️ AND THE DESK SURVEY DISAGREED WITH MARKET PRICING, WHICH IS ITSELF THE FINDING:** *"The median
+  respondent to the Desk survey, by contrast, expected **no change** in the policy rate this year or the
+  next but expected a **rate CUT in early 2028**."*
+- **"Market-implied policy rates through the end of 2026 increased MORE for the U.S. than for advanced
+  foreign economies" + foreign inflows into US equities ⇒ "the dollar continued to appreciate."**
+- **BALANCE SHEET:** reinvestment of agency-securities holdings **into TREASURY BILLS**; a **task force on
+  balance sheet policy** whose named issues include **"the appropriate MATURITY COMPOSITION of the Federal
+  Reserve's holdings of Treasury securities."**
+
+#### THE TAPE TEST — cheap, decisive, and run
+- **Minutes released 11:00am PDT. Tape pulled 12:46pm PDT (1h46m later): 30Y 5.19 (−9bp) · 10Y 4.65 (−5bp)
+  · 5Y 4.35 (−1bp) · TLT +1.51% · SPY +0.17%.** **Compare this morning's 9:12am pull: 5.19 / 4.65 / 4.35.**
+- ⇒ **⛔ THERE WAS NO FRONT-END SELLOFF. A minutes release that genuinely put hikes back on the table would
+  lift the 2Y and 5Y hardest; the 5Y is still −1bp on the day and the long end is still −9bp.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE RESOLUTION IS IN THE MINUTES' OWN TEXT AND IT IS THE WHOLE ANSWER: THE HAWKISHNESS WAS
+  ALREADY IN THE PRICE THREE WEEKS AGO. The Desk reported the market FULLY PRICED for +25 in September and
+  another by Q1-2027 — AS OF THE JULY MEETING.** ⇒ **A document describing a stance the market had already
+  fully discounted is not new information, and the curve treated it accordingly.**
+  ⇒ **★★★ SO "HIKES ARE BACK ON THE TABLE" IS TRUE AS A STATEMENT ABOUT THE COMMITTEE AND FALSE AS A
+  STATEMENT ABOUT WHAT CHANGED TODAY.** ⇒ **Jake's reading of the document is correct on every clause I
+  checked. What his summary is missing is the DENOMINATOR — what was already priced — and that is the
+  difference between a hawkish document and a hawkish surprise.** *(Analysis. Rule 10: a state is not an
+  event.)* *(Origin: this is the same shape as error class 2 — the reference value, not the reading.)*
+- **⛔⛔ AND IT FORCES A QUALIFIER ONTO THIS BOARD'S OWN FOUR-ROUTE LONG-END CONCLUSION, WHICH I SHOULD SAY
+  BEFORE IT HARDENS: IF THE MARKET IS FULLY PRICED FOR TWO HIKES, THEN PART OF THE LONG-END LEVEL IS
+  EXPECTED POLICY PATH, NOT TERM PREMIUM.** ⇒ **BUT THE SHAPE STILL SEPARATES THEM AND IT SEPARATES THEM
+  IN THIS BOARD'S FAVOUR: hike expectations produce a BEAR FLATTENING (front end leads). This board
+  recorded a BEAR STEEPENING to 2s30s +112bp on 8/17.** ⇒ **Both forces are present and they are
+  distinguishable: the FRONT END carries the hike pricing; the STEEPENING is term premium stacked on top.**
+  ⇒ **That reconciliation is cleaner than either story alone, and it is the first time the board has had a
+  policy-path number to net out.** *(Analysis.)*
+- **⚠️ AND IT WEAKENS WHAT I CAN CLAIM FROM TODAY'S POST-MINUTES STABILITY, WHICH I AM SAYING RATHER THAN
+  LETTING IT PASS. At 9:15am I argued the −2/−6/−9 shape confirmed the buyback attribution. The curve then
+  held that shape THROUGH the minutes — but because the minutes were already priced, there was no shock to
+  survive.** ⇒ **Today's afternoon is NOT additional evidence for the buyback channel. The 9/9 operation
+  dates remain the clean test.** *(Analysis. Correcting the strength of my own morning claim, not its
+  direction.)*
+- **★★★★ THE DESK-SURVEY-vs-MARKET SPLIT IS THE MOST TRADEABLE OBJECT IN THE DOCUMENT AND IT IS A WIDE ONE:
+  MARKET FULLY PRICED FOR TWO HIKES; THE MEDIAN DEALER/ECONOMIST RESPONDENT EXPECTED NO CHANGE THROUGH 2027
+  AND A CUT IN EARLY 2028.** ⇒ **That is not a nuance, it is opposite direction over a two-year horizon,
+  inside the Fed's own report.** ⇒ **One of the two is wrong and the resolution is dated: the September
+  meeting.** 🚩 *(Analysis.)*
+- **⭐⭐ AND A QUIET BALANCE-SHEET LINE CUTS AGAINST THIS MORNING'S BUYBACK ENTRY: THE FED IS REINVESTING
+  AGENCY PROCEEDS INTO TREASURY *BILLS*.** ⇒ **That is duration-SHORTENING — the central bank is putting
+  cash at the front end while Treasury doubles buybacks at the long end.** ⇒ **The two arms are pulling
+  opposite ways on the maturity distribution, and the FOMC has a TASK FORCE explicitly examining "the
+  appropriate MATURITY COMPOSITION" of its holdings.** 🚩 **That task force is now a dated thing to watch:
+  it is the channel through which the Fed could join or offset the Treasury's long-end operation.**
+  *(Analysis.)*
+- **✓ AND THE 9–3 IS THE SECOND MULTI-DISSENT UNDER THIS CHAIR, WHICH THIS VAULT ALREADY HAS A CALIBRATION
+  NOTE ON.** `_calibration:L580` records that Warsh **ENGINEERED** a prior dissent (*"I asked for a good
+  family fight"*), and `:L680` carries **"Reuters: most since 1970."** ⇒ **⚠️ THEREFORE DO NOT READ THIS
+  9–3 AS A PURE MEASURE OF HAWKISH CONVICTION — the vault's own record says this Chair treats visible
+  dissent as a deliberate instrument.** ⇒ **The three names still voted; the SIGNAL VALUE of the count is
+  what is discounted.** *(Analysis. Applying a calibration the vault paid for.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **THE SEPTEMBER MEETING IS NOW A DATED, BINARY, FULLY-PRICED EVENT.** **The market is FULLY priced
+   for +25. ⇒ A hold is a DOVISH surprise; a hike is a non-event.** ⚠️ **That asymmetry is the opposite of
+   the one the headline implies, and it is the single most important line in this entry.**
+2. 🚩🚩 **RE-PRICE THE FRONT END: fetch current fed funds futures / OIS for Sept and Q1-27.** ⬜ **The
+   minutes give JULY's pricing. Three weeks and a −9bp long-end day have passed. NOT FETCHED.**
+3. 🚩 **THE BALANCE-SHEET TASK FORCE** — maturity composition. **Watch for its findings; it is the Fed-side
+   counterpart to the Treasury buyback at `:L204`.**
+4. ⬜ **Current effective fed funds and the 2Y cash yield** — the board still has no 2Y for today.
+**Links:** [[transmission-chain]] · [[market-fragility]] · [[new-economy-regime]] · [[_calibration]]
