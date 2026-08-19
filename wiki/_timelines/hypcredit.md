@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **186 dated entries across 3 notes · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 14:00 PDT**
+> **187 dated entries across 3 notes · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 14:07 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -208,3 +208,4 @@
 - `2026-08-19` [rates-board.md:L342](../rates-board.md) — 2026-08-19 ~12:55pm PDT — ✅★★★★★★ **JAKE'S READ CHECKS OUT VERBATIM AGAINST THE FED'S OWN PRIMARY — AND THE ONE FACT HIS SUMMARY OMITS REVERSES THE TR
 - `2026-08-19` [rates-board.md:L431](../rates-board.md) — 2026-08-19 ~2:45pm PDT — ✅⭐⭐⭐⭐⭐⭐ **$40,047,425,768,420.22 — JAKE'S FIGURE IS EXACT TO THE PENNY AND THE $40T LINE WAS CROSSED YESTERDAY.** ⭐ **The num
 - `2026-08-19` [rates-board.md:L506](../rates-board.md) — 📖 REFERENCE — WHO IS WHO, AND THE ONE LOOP THAT CONNECTS THEM (added 2026-08-19 ~3:05pm PDT, Jake's framing check)
+- `2026-08-19` [rates-board.md:L561](../rates-board.md) — 2026-08-19 ~3:20pm PDT — ⛔⭐⭐⭐⭐⭐ **IT IS THE OTHER WAY ROUND ON BOTH LEGS: TREASURY PAYS A *DISCOUNT* IN CASH (old low-coupon bonds trade far below par
