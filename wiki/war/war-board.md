@@ -2952,3 +2952,68 @@ dated 18 August 2026, DATA AS OF 17 AUGUST 2026.** Fetched and archived
 - **⚠️ AND THE DISCIPLINE THE PAGE ITSELF MODELS: it flags the AMARA boarding as UNCONFIRMED and
   DISPUTES the Houthi claim.** ⇒ **A vendor that marks its own uncertainty is a better source than one
   that does not — but it is still ONE vendor, and the vault has no independent AIS check.**
+
+### 2026-08-18 ~3:00pm PDT — ⭐⭐⭐ **THE FULL WINDWARD DAILY (90-page PDF) UPDATES THE GULF FLEET SERIES LAST MEASURED 31 JULY: 791 → 971 VESSELS (+22.8%) IN 17 DAYS — BUT THE HIGH-RISK *SHARE* IS DILUTING (16.4% → 15.3%).** ★★★★★ **The intensity moved instead: 24 identity-mismatch vessels vs "the usual 1-2 per day."** ✅ **And a UAE-flag baseline of 108 now exists for the trade-halt implementation test**
+Source: Jake's upload — **"Strait of Hormuz | Windward Daily Intelligence", 90-page PDF, dated
+18 August 2026, DATA AS OF 17 AUGUST 2026** → archived `raw/2026-08-18-windward-daily-intelligence-full-pdf.txt`
+(text extracted locally; 531 content streams). **This is the FULL report — the 8/18 web scrape was the
+summary layer.** Related: [[oil-value-chain]] · [[demand-destruction]] · [[europe-energy-crunch]]
+
+#### DATA (MEASURED — Windward, 17 Aug, against this board's own 31 July reading at `:1009`)
+| series | 31 Jul | 17 Aug | Δ | % |
+|---|---|---|---|---|
+| **Gulf fleet** | 791 | **971** | **+180** | **+22.8%** |
+| High-risk | 130 | 149 | +19 | +14.6% |
+| Moderate | 203 | 239 | +36 | +17.7% |
+| Low | 460 | 587 | +127 | +27.6% |
+| **Iran flag** | 156 | **183** | +27 | +17.3% |
+| **Comoros flag** | 103 | **147** | +44 | **+42.7%** |
+| **UAE flag** | 98 | **108** | +10 | +10.2% |
+- **HIGH-RISK SHARE: 16.4% → 15.3%.** ⇒ **The fleet grew faster than its risky tier.**
+- **BLOCKADE COUNTER ON THE PAGE: "127D 11H" ⇒ counting from 2026-04-13** (verified arithmetically).
+- **NEW — IDENTITY FRAUD INTENSITY: 24 vessels transmitting AIS under a name differing from their
+  tracked commercial identity, described as "a marked spike versus the usual 1-2 per day."**
+- **NEW — INTERDICTION RING EMPTY: a screen of 113 Iran-flagged/fraudulent-flag hulls found the
+  innermost 65nm ring empty for a SECOND consecutive reading.**
+- **NEW — OIL SPILL in the SE Hormuz waiting area now ~64nm / 118km long and extending north; source
+  assessed as a 333m VLCC, dark and stationary in that area for a second day.** ⚠️ **Same waiting area
+  as the ~20.7 mmbbl of laden tankers.**
+- **ZOMBIE FLEET DETAIL: the nine VLCCs' call signs were allocated mid-May → early July — "a
+  coordinated effort to manage tonnage rather than organic registration." A tenth is sailing toward
+  northern China. Windward: China is "the sole remaining buyer of Iranian crude."**
+- **AMARA: unconfirmed reports tie the boarding to a "transit-corridor COMPLIANCE AND FEE DISPUTE
+  rather than a cargo seizure; no cargo was aboard."** MIOC corroborates the interruption from track
+  behaviour (progressive non-mechanical slowdown → sharp deviation → course reversal).
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE COMPOSITION FINDING INVERTS THE OBVIOUS READ, AND IT IS THE MOST USEFUL LINE HERE:
+  MORE SHIPS, PROPORTIONALLY CLEANER — BUT FAR MORE AGGRESSIVE IDENTITY FRAUD PER SHIP.** Fleet +22.8%
+  while high-risk share fell 16.4% → 15.3%; **meanwhile alias-switching spiked to 24/day against a
+  1-2/day norm — a 12-24× intensity move.** ⇒ **Evasion is not scaling by ADDING dark hulls; it is
+  scaling by making the SAME hulls harder to identify.** **A vessel-count metric would read this as
+  improving. It is not.** *(Analysis. MIOC reaches the same place independently: operators "leaning
+  more heavily on alias-switching and transshipment rather than the blockade line deterring
+  approaches" — two origins, one conclusion.)*
+- **✅★★★★ AND IT HANDS ME THE IMPLEMENTATION TEST I REGISTERED YESTERDAY, WITH A BASELINE.** The 8/19
+  UAE trade halt entry flagged: *"the implementation artifact… until one appears this is a press
+  statement."* ⇒ **UAE flag = 108 vessels in the Gulf as of 17 AUGUST — two days BEFORE the halt.**
+  🚩🚩🚩 **THE TEST IS NOW MECHANICAL: if the halt is enforced, UAE-flagged Gulf tonnage falls from
+  108. If it holds or rises, the announcement was narrow.** **One number, re-read weekly.**
+- **★★★★ THE AMARA "FEE DISPUTE" IS OPERATIONAL-LEVEL EVIDENCE FOR THE TOLL-GATE THESIS THIS BOARD
+  CONFIRMED AS *POLICY* ON 8/13 (`:2064`).** ⇒ **Policy was established from statements; this is a
+  boarding of a NAMED HULL over compliance and fees, with no cargo aboard.** **A toll regime is
+  enforced one vessel at a time, and this is what that looks like.** ⚠️ **Unconfirmed reports — rung is
+  REPORTED, and the fee characterisation is the part that is weakest.**
+- **⚠️ AND A THREE-WAY CONFLICT ON A BASIC FACT, REGISTERED NOT RESOLVED: the page's counter reads
+  127 DAYS, i.e. CONTINUOUS FROM 13 APRIL — while its own MIOC text says "the REIMPOSED US blockade,"
+  and this board established REIMPOSED 7/14 (`:1169`, `:1803`) against Wikipedia's "April 13 – May 29."**
+  ⇒ **Three positions: continuous-since-April (the counter), first-then-reimposed (this board),
+  ended-in-May (Wikipedia).** **Most likely the counter measures "days since first imposed," not days
+  of continuous enforcement — but that is an inference.** 🚩 **Do not cite "127 days of blockade" as
+  continuous enforcement without resolving it.**
+- **⭐ THE 64nm OIL SPILL IS A SECOND-ORDER ITEM WITH FIRST-ORDER POTENTIAL.** A growing slick from a
+  dark, stationary 333m VLCC **in the same waiting area holding ~20.7 mmbbl** ⇒ **an environmental
+  event inside the floating-storage stack.** **If it forces the waiting area to be cleared or
+  re-routed, the "deferred supply with a known location" read changes — and a spill is the kind of
+  event that pulls in actors (IMO, coastal states, insurers) who are not currently parties.**
+  🚩 **WATCH: any P&I / insurer action or coastal-state response.**

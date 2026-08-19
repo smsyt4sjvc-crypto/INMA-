@@ -1,6 +1,6 @@
 # ⏱ LEVANT — merged timeline (the gate)
 
-> **106 dated entries across 2 notes · 2026-07-01 → 2026-08-19 · refreshed 2026-08-18 18:19 PDT**
+> **107 dated entries across 2 notes · 2026-07-01 → 2026-08-19 · refreshed 2026-08-18 18:23 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -121,4 +121,5 @@
 - `2026-08-17` [war-board.md:L2833](../war/war-board.md) — DATA (MEASURED — Windward, data as of 2026-08-17)
 - `2026-08-18` [war-board.md:L2698](../war/war-board.md) — 2026-08-18 ~10:30am PDT — 📌 THE MoU 60-DAY CLOCK EXPIRED YESTERDAY WITH NO DEAL AND NO EXTENSION — a dated catalyst, FIRED. ⛔ **BUT "BRENT SURGES TO $
 - `2026-08-18` [war-board.md:L2819](../war/war-board.md) — 2026-08-18 ~2:00pm PDT — ✅✅✅ **THE WINDWARD LIVE DASHBOARD IS FETCHABLE — RETIRING A STANDING VAULT LIMITATION THAT HAD US RUNNING ON MARCH-VINTAGE DA
+- `2026-08-18` [war-board.md:L2875](../war/war-board.md) — 2026-08-18 ~3:00pm PDT — ⭐⭐⭐ **THE FULL WINDWARD DAILY (90-page PDF) UPDATES THE GULF FLEET SERIES LAST MEASURED 31 JULY: 791 → 971 VESSELS (+22.8%) I
 - `2026-08-19` [war-board.md:L2757](../war/war-board.md) — 2026-08-19 (UAE time; ~2026-08-18 PDT) — ★★★★★★ **THE UAE HALTS *ALL* TRADE, COMMERCIAL EXCHANGE AND FINANCIAL TRANSACTIONS WITH IRAN. ⛔ THIS INVERTS 
