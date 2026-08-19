@@ -990,3 +990,66 @@ would tether its scarcity value to A100 chips and compute rental rates."*
   Moore's-law-style efficiency gains have NOT arrived** — and it is the axis the price tracks. ⇒ **the
   old chip's tether is not sentiment, scarcity psychology, or CUDA lock-in. It is DRAM physics.**
 **Links:** [[ai-financing-fragility]] · [[metered-compute]] · [[compression-thesis]] · [[buildout-bottleneck-map]] · [[cepi]]
+
+### 2026-08-18 ~4:45pm PDT — ★★★★★ **JAKE ASKS THE RIGHT QUESTION AND THE VOLUME ANSWERS IT: THE AUGUST PULLBACK IS RUNNING AT ~HALF THE JULY DRAWDOWN'S PARTICIPATION. ⇒ JULY CLEARED POSITIONING; AUGUST HAS NOT — AND THAT IS THE WORSE SETUP, NOT THE BETTER ONE**
+Source: **`tools/tape.py`-discipline pull (close+volume arrays, Yahoo chart API, never `meta`), 2026-08-18.**
+Baseline = **median daily volume Mar-Jun 2026** per name. Related: [[market-fragility]] ·
+[[rotation-stickiness]] (the GS prime-book entry, same day) · [[transmission-chain]]
+
+#### DATA (MEASURED — volume vs the Mar-Jun 2026 median)
+| | baseline | 7/29 THE LOW | Jul drawdown avg (7/24-8/3) | Aug pullback avg (8/12-) | **Aug ÷ Jul** | 8/18 |
+|---|---|---|---|---|---|---|
+| **SOXX** | 8.2M | **18.8M = 2.31×** | 14.1M = 1.73× | 6.7M = 0.83× | **0.48×** | 10.0M = 1.22× |
+| **SMH** | 10.2M | 19.4M = 1.91× | 18.8M = 1.85× | 7.8M = 0.76× | **0.41×** | 11.4M = 1.11× |
+| **NVDA** | 161.5M | 147.7M = 0.91× | 135.5M = 0.84× | 96.0M = 0.59× | **0.71×** | 102.8M = **0.64×** |
+| **MU** | 46.4M | 69.8M = 1.51× | 54.2M = 1.17× | 34.4M = 0.74× | **0.63×** | 36.9M = **0.80×** |
+- **⇒ MU FELL 7.02% TODAY ON 0.80× BASELINE VOLUME. NVDA FELL 2.34% ON 0.64×.** **Price is falling on
+  BELOW-AVERAGE participation in the two biggest names.**
+- **⇒ And no semi index or major name has made a lower low than 7/29** (SOXX +11.3%, SMH +11.1%,
+  SOX +12.1%, NVDA +10.0%, MU +12.1% above their July lows).
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE TWO DRAWDOWNS HAVE OPPOSITE MICROSTRUCTURE, AND THAT IS THE ANSWER TO HIS QUESTION.**
+  **JULY = LIQUIDATION.** 2.31× baseline volume AT the low, and this note's own 7/29 entry (`:130`)
+  recorded the mechanism in real time: ***"Largest 3-day de-gross on GS Prime records since Nov '22.
+  Worst hedge-fund day since the COVID crash. 'Record selling' in semis, 'violent derisking.'"***
+  **AUGUST = DRIFT.** ~0.4-0.7× the July participation; today's −5% on 1.1-1.2× for the ETFs and
+  BELOW baseline for NVDA and MU. ⇒ **No capitulation, no forced seller, no volume climax.**
+- **⛔⛔ AND THE OBVIOUS READ OF THAT IS THE WRONG ONE. "Light-volume selloff = healthy" ASSUMES THE
+  SELLERS ARE ABSENT BECAUSE THEY ARE COMFORTABLE. THE ALTERNATIVE IS THAT NOBODY HAS BEEN FORCED TO
+  SELL YET.** **July's 2.31× volume DID something — it cleared positioning.** **August's 0.8× has
+  cleared nothing.** ⇒ **⭐ COMBINED WITH THE SAME-DAY PRIME-BOOK READ ([[rotation-stickiness]] 8/18):
+  hedge funds bought every session LAST WEEK, 2nd-largest weekly buy in 12 months, concentrated in IT
+  and comm services — and today those positions fell 3-7% on light volume WITHOUT being liquidated.**
+  ⇒ **THE POSITIONING REBUILT IN AUGUST IS STILL ON THE BOOKS AT A LOSS. The fuel for a July-style
+  flush is loaded and unspent.** *(Analysis. This is the synthesis of the two 8/18 entries and it is
+  the load-bearing point: a calmer tape with intact leverage is a worse holder's position than a
+  violent tape that already cleared.)*
+- **⚠️ THE HONEST OTHER SIDE, STATED PROPERLY: light-volume declines DO frequently retrace, and the
+  absence of a forced seller is genuinely not the same as a bid disappearing.** **The vault cannot
+  distinguish "no sellers" from "no buyers" with volume alone.** 🚩 **The discriminator is BREADTH and
+  the TAPE'S RESPONSE TO A BOUNCE: if a rally comes on even lighter volume than the decline, it is
+  absence-of-supply, not demand.** ⬜ Not yet observable.
+- **★★★ AND THE DISPERSION IS THE OTHER HALF: NVDA is −6.8% from its 5/14 peak while SOXX is −18.9%
+  (6/22 peak), SOX −18.1%, MU −22.5% (6/25 peak).** ⇒ **NVDA is holding the index up.** **The breadth
+  underneath is far worse than the index level implies** — the same structure this note recorded at
+  `:475`: ***"SMH +0.30% and SOXX +0.07% ONLY because the dispersion CANCELLED INSIDE THE INDEX."***
+  **Memory is the worst leg, again.**
+
+#### 📌 ON HEDGE-FUND INSTRUMENTS (Jake's second question — what the prime book actually measures)
+- **THE GS PRIME BOOK IS CASH EQUITY + ETFs/FUTURES HELD AND FINANCED IN PRIME BROKERAGE. IT DOES NOT
+  MEASURE OPTIONS.** Its own split says so: **"single stocks" (cash long/short) ~70%, "macro products
+  (index + ETF)" ~30%.** ⇒ **"Hedge funds bought" = they bought SHARES and covered CASH SHORTS.**
+- **THE LEVERAGE IS MARGIN FINANCING, NOT OPTIONS.** L/S equity funds typically run **gross exposure
+  well above 100% against a much smaller net**, financed through the PB. **Multi-strat pod platforms
+  run the highest gross of all, with tight per-pod drawdown stop-outs.**
+- **⇒ THAT STRUCTURE IS EXACTLY WHY DE-GROSSING IS VIOLENT AND NON-DISCRETIONARY: a pod at its risk
+  limit must cut GROSS immediately, regardless of view.** **That is the mechanism behind this note's
+  own 7/29 record: "largest 3-day de-gross on GS Prime records since Nov '22."** ⇒ **The July low was
+  made by a RISK SYSTEM, not by an opinion.**
+- **⚠️ SO THE INSTRUMENT ANSWER MATTERS FOR THE READ: because the exposure is CASH-ON-MARGIN rather
+  than defined-risk options, there is no built-in floor.** **An options buyer's loss is capped at
+  premium; a levered cash long's is not, and his risk limit will make the decision for him.**
+- ⬜ **WHAT THIS DATA CANNOT SEE: options positioning, dealer gamma, 0DTE, and any fund not clearing
+  through Goldman.** **It is one prime broker's book presented as "hedge funds."** 🚩 **The vault's
+  options/gamma work lives in [[market-fragility]] and is a SEPARATE dataset — do not merge them.**
