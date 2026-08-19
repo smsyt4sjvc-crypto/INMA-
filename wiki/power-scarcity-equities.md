@@ -145,3 +145,78 @@ Source: UtilityDive/ZeroHedge (Jake paste). PJM = largest US grid operator, 67M 
   GEV 40–80x, and fell hardest 7/16). **Real structural tailwind, likely-priced trade.** And WARNING-vs-TRIGGER:
   grid inadequacy is a multi-YEAR STATE (permitting/build takes a decade) — Jake's "well duh in 2 years" is
   exactly right: obvious in hindsight, slow-burn, times NOTHING. A structural confirmation, not a dated fuse.
+
+## 2026-08-19 ~10:20am PDT — ⭐⭐⭐⭐⭐ **THE NAMED-COUNTERPARTY MAP THE VAULT DID NOT HAVE: 22 hyperscaler→power contracts with capacity, term and status — plus an EVIDENCE LADDER for capex reality that immediately downgrades two names this note carries**
+Source: Jake's compiled research, 2026-08-19 → `raw/2026-08-19-dc-power-money/brief.md`.
+⚠️ **ARTIFACT TEST: compiled SECONDARY research with per-claim attributions. Independently verified: NONE.
+Everything below is REPORTED.** Structural consequences filed at [[transmission-chain]]`:L71`.
+**⚠️ EVERGY (EVRG) HAS NO PRIOR MENTION IN THIS VAULT — a signed ~2.5 GW hyperscaler book was invisible.**
+
+### DATA (REPORTED) — the direct power counterparties, by tier
+- **NUCLEAR / IPP (this note's tier 1):** **Amazon→TALEN up to 1,920 MW through 2042** (Susquehanna; full
+  volume no later than 2032) · **Microsoft→CONSTELLATION ~835 MW 20yr** (Crane/TMI-1 restart target 2028) ·
+  **Meta→VISTRA >2.1 GW 20yr** (Perry + Davis-Besse; uprates ≈ +433 MW early 2030s) · **Meta→CONSTELLATION
+  1,121 MW 20yr from 2027** (Clinton, +~30 MW uprate) · **Google→NEXTERA 615 MW 25yr** (Duane Arnold restart
+  target Q1-2029).
+- **REGULATED UTILITY (tier 2):** **Meta→ENTERGY LOUISIANA** up to 5 GW (Richland Parish/Hyperion) ·
+  **Oracle/Stargate→DTE ~1.4 GW**, approved Dec-2025, ≥17yr · **Google→DTE 1.0 GW through Dec-2047** ·
+  **Google+Meta+Beale→EVERGY ≈2.5 GW aggregate signed peak** · **Amazon→AEP OHIO** · **Equinix→CENTRAL
+  GEORGIA EMC 20yr** (Aug-2026) · **xAI→MLGW/TVA ~150 MW initial, operating.**
+- **BEHIND-THE-METER / CO-LOCATED:** **Microsoft→CHEVRON/Energy Forge One ~2.67 GW 20yr** (Project Kilby,
+  W-Texas, signed 6/22/26, first power 2028) · **Oracle→BLOOM 1.2 GW contracted, framework to 2.8 GW.**
+- **POWERED LANDLORD — a tier this note did not have:** **CoreWeave→GALAXY DIGITAL 526 MW critical IT
+  (~800 MW gross) at Helios, 15yr leases → GALAXY→AEP TEXAS/WETT, >1.6 GW ERCOT-approved.**
+- **SECOND CHECK (equipment):** GEV majority of Kilby turbines; **~116 GW gas backlog PLUS SLOT RESERVATIONS**,
+  **>$5B DC Electrification orders H1-2026, >2× FY2025** · CAT/Solar Turbines on Kilby, plus **~2 GW of gas
+  gensets for Monarch Compute Campus, deliveries Sep-2026→Aug-2027** · **LG Energy Solution Vertech ~$1.6B,
+  1.5 GW / 6 GWh with DTE**, a major portion tied to the Oracle load · Bloom also **AEP up to 1 GW** (initial
+  100 MW) and **AWS/AEP Ohio 72.9 MW, service 2027** · **Generac $1.6B DC backlog** but **⬜ no named
+  customers or campuses.**
+- ⚠️ **BROOKFIELD/BLOOM "$25B" IS A FINANCING FRAMEWORK, NOT BLOOM CONTRACTED REVENUE.** Same for
+  **Microsoft/Brookfield >10.5 GW** — a portfolio procurement program, **not** 10.5 GW on one campus.
+
+### ⭐ THE EVIDENCE LADDER FOR CAPEX REALITY — adopt this; it is WARNING-vs-TRIGGER for buildouts
+**ESA → large-load tariff (reveals minimums/duration/termination) → PPA → interconnection/service agreement
+→ state PUC approval → customer-funded substation/transmission filing → GAS-TURBINE SLOT RESERVATION →
+limited/full NOTICE TO PROCEED → FINAL INVESTMENT DECISION → EQUIPMENT PURCHASE ORDER → take-or-pay.**
+**The further down, the less speculative.**
+
+### THESIS (interpretation — NOT fact)
+- **⛔⛔ THE LADDER IMMEDIATELY DOWNGRADES TWO THINGS, AND ONE OF THEM IS THE DOCUMENT'S OWN HEADLINE
+  EXAMPLE. MICROSOFT→CHEVRON 2.67 GW IS **PRE-FID** — the PPA is signed but Chevron expected final
+  investment decision only "later in 2026."** ⇒ **A signed 20-year PPA with no committed project capital is
+  MID-ladder, not bottom.** ⇒ **Do NOT carry 2.67 GW as committed capacity, and do not carry the GEV turbine
+  award as a booked order.** **Second: the B&W/Siemens ~1 GW Applied Digital project was announced under a
+  LIMITED NOTICE TO PROCEED — below Oracle/Bloom and Microsoft/Chevron in certainty by the ladder's own
+  ordering.** *(Analysis.)*
+- **★★★★★ AND IT GRADES GEV PRECISELY, WHICH THIS NOTE'S TIER-3 FRAMING COULD NOT: "~116 GW of backlog PLUS
+  SLOT RESERVATIONS" IS TWO DIFFERENT OBJECTS REPORTED AS ONE NUMBER.** **A slot reservation sits ABOVE a
+  purchase order on the ladder — it reserves manufacturing capacity, it is not revenue.** ⇒ **The
+  >$5B of DC Electrification orders at >2× FY2025 is the harder half and it is the one to track.**
+  ⇒ **This is consistent with [[ai-capex-cycle]]`:L2717`, which put GEV on the QUANTA/DYCOM (cancellable
+  order-book) side of the 2000 split, not the Crown Castle side.** *(Analysis.)*
+- **★★★★★★ THE TIERING IN THIS NOTE NEEDS ONE CORRECTION AND IT REVERSES A RANKING. `:L38` CALLS REGULATED
+  UTILITIES "LOW BETA… THE DEFENSIVE EXPRESSION" BECAUSE THEY EARN ON RATE BASE AND DO NOT CAPTURE PRICE
+  SPIKES. THAT IS STILL TRUE ON PRICE — AND IT MISSES WHAT CHANGED: THEY NOW CAPTURE **VOLUME** UNDER
+  20-45 YEAR CONTRACTS WITH MINIMUM-PAYMENT FLOORS.** **Evergy: minimums covering ≥80% of contracted
+  capacity, plus collateral and termination charges.** ⇒ **"Low beta to scarcity PRICING" and "high,
+  contractually protected exposure to AI VOLUME" are different statements, and this note only made the
+  first.** ⇒ **On a bust, the merchant IPP loses the capacity price; the regulated utility with an 80%
+  minimum does not lose the volume.** *(Analysis. Correcting this note's own tier logic.)*
+- **⚠️ AND THE HONEST DISCOUNT ON ALL OF IT: THIS IS ONE COMPILED DOCUMENT, UNVERIFIED, AND ITS OWN CLOSING
+  CAVEAT IS THE RIGHT ONE — THE PUBLICLY VISIBLE CONTRACTS ARE A FLOOR, NOT A MAP.** **Gas commodity
+  suppliers, firm pipeline transportation, transformer/switchgear OEMs, EPC contractors and many utility
+  customer names are confidential.** ⇒ **Any "who gets paid" ranking built from public contracts is biased
+  toward the disclosed — which is exactly why Generac looks weaker than Bloom here: not less real revenue,
+  less visible customers.** *(Analysis.)*
+
+### 📌 REGISTERED
+1. 🚩🚩🚩 **EVERGY (EVRG) — OPEN COVERAGE.** ~2.5 GW signed, ≥80% minimums. **Verify from the 10-Q and the
+   large-load tariff.** **A name with a contracted hyperscaler book was invisible to this vault until today.**
+2. 🚩🚩 **GRADE EVERY POWER DEAL IN THIS NOTE AGAINST THE LADDER** — signed-vs-PUC-approved-vs-NTP-vs-FID.
+   **The tiering above is by TECHNOLOGY; the ladder sorts by CERTAINTY, and they disagree.**
+3. 🚩🚩 **GALAXY DIGITAL (GLXY) as a POWERED LANDLORD** — a tier this note lacks entirely. **Contracted power
+   monetised through the lease, without being a utility.** ⬜ No prior vault coverage.
+4. 🚩 **DOES THE MICROSOFT/CHEVRON FID LAND IN 2026?** **A dated, falsifiable trigger on the largest
+   co-located project in the document, and it decides whether the GEV turbine award is real.**
+**Links:** [[transmission-chain]] · [[power-not-petroleum]] · [[ai-capex-cycle]] · [[buildout-bottleneck-map]] · [[nuclear]]
