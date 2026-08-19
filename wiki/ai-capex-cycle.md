@@ -3017,3 +3017,39 @@ Source: Jake, chat 2026-08-15 ~3:06pm PDT — *"Or financing pulled back…."*
 3. ⬜ **Interest-during-construction sensitivity to lead time** — the arithmetic that turns 12 extra months
    into a killed IRR.
 **Links:** [[new-economy-regime]] · [[buildout-bottleneck-map]] · [[power-not-petroleum]] · [[ai-financing-fragility]] · [[market-fragility]]
+
+### 2026-08-19 ~7:03am PDT — ✅ **F1 CLOSES. THE 7/29 READ AT `:1859` WAS RIGHT AND IS NOW UNAMBIGUOUS: THE VALIDATION SUPPLIES THE PRIOR-QUARTER ANCHOR THE VAULT NEVER HAD — $196.6B (Mar 31) → $329.1B (Jun 30) = +$132.5B.** ⇒ **$329.1B is the STOCK; ~$132.5B is the QUARTER'S INCREMENT. They are not additive**
+Source: `Acute_Scanner_Validation_Brief_20260819.docx` → `raw/2026-08-19-acute-scanner-validation-brief.txt`.
+Primaries cited there: **Microsoft 10-Q ($196.6B uncommenced at 2026-03-31)** · **Microsoft FY2026
+annual filing ($329.1B at 2026-06-30)** · **Bloomberg Law, "over $130B in new data-center leases",
+2026-07-29.**
+
+- **⚠️ THIS IS AN `--extends`, NOT A `--supersede`, AND THE DISTINCTION IS THE RULE-6 TEST: DOES THE OLD
+  LINE BECOME WRONG? NO.** `:1871` already said ***"Total commitment ROSE BY $130B through the LEASE
+  line"*** — a CHANGE, correctly stated. **What the entry lacked was the opening balance, so a reader
+  could take "$130B of new leases" and "$329.1B of uncommenced leases" from adjacent sentences and add
+  them.** ⇒ **The validation forecloses that misreading with the number: $196.6B + $132.5B = $329.1B.**
+- **⇒ ⛔ THE STANDING FORM, so it is never re-derived: MSFT UNCOMMENCED LEASES = $329.1B (STOCK, at
+  6/30). The quarter's INCREMENT = ~$132.5B. THE MAXIMUM DEFENSIBLE NUMBER IS $329.1B, NOT $459B.**
+- **★★ AND THE 7/29 THESIS IS UNTOUCHED AND ARGUABLY STRENGTHENED:** *"MSFT increased its commitment
+  without increasing the number the market watches"* — **a +$132.5B quarterly move in the lease line
+  against steady guided capex is a LARGER off-balance-sheet step than the $130B headline conveyed,
+  because now it is measured against its own base rather than quoted as a loose figure.**
+
+### 2026-08-19 ~7:05am PDT — ⛔ **F3 DOWNGRADED, AND IT IS A REAL DE-ESCALATION: THE CXMT/YMTC "WALL" IS A BIPARTISAN *LETTER* TO APPLE PLUS AN EXISTING FEDERAL-PROCUREMENT PHASE-OUT — NOT A BILL, AND NOT A COMMERCIAL BAN**
+Source: same brief. Primaries cited: **US Senate bipartisan letter to Apple, 2026-07-30** · **WSJ,
+2026-08-15, Apple still testing Chinese memory.** Related: [[memory-regime-question]]
+
+- **WHAT IT ACTUALLY IS: (1) a bipartisan LETTER to Apple — a request, carrying no legal force; (2)
+  SEPARATE existing federal law phasing covered Chinese semiconductors out of FEDERAL PROCUREMENT
+  beginning LATE 2027.**
+- **AS OF 2026-08-15 APPLE WAS STILL TESTING CXMT/YMTC MEMORY AND HAD NOT MADE THE REQUESTED
+  COMMITMENT.**
+- ⇒ **★★★★ THE EVIDENCE-LADDER CORRECTION: "wall" implies a BILL. This is a LETTER plus a PROCUREMENT
+  RULE with a 2027+ start.** **Political and regulatory pressure — genuine — but the commercial channel
+  is open and the largest single customer has not closed it.** ⇒ **⛔ Any vault reasoning that treated
+  CXMT as WALLED OUT of Western commercial demand was running ahead of the instrument.**
+- **↔ AND IT CUTS AGAINST THE MEMORY-TIGHTNESS LEG, NOT FOR IT:** **if CXMT/YMTC supply remains
+  commercially available to Apple-class buyers, the marginal supply picture is looser than a
+  walled-out reading implies.** 🚩 **WATCH: whether Apple makes the commitment, and any move from
+  letter → legislation. Those are the two events that would build the actual wall.**

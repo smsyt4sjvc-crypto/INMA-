@@ -1,6 +1,6 @@
 # ⏱ CAPEX — merged timeline (the gate)
 
-> **100 dated entries across 3 notes · 2026-05-22 → 2026-08-15 · refreshed 2026-08-19 07:20 PDT**
+> **102 dated entries across 3 notes · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 07:22 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -122,3 +122,5 @@
 - `2026-08-15` [ai-capex-cycle.md:L2740](../ai-capex-cycle.md) — 2026-08-15 ~2:14pm PDT — ★★★★★★★ HE GENERALISES A MECHANISM THIS VAULT ALREADY HAS REGISTERED — **"the crowd-out loop"** — from MEMORY to ORDER BOOKS,
 - `2026-08-15` [ai-capex-cycle.md:L2799](../ai-capex-cycle.md) — 2026-08-15 ~3:00pm PDT — ⛔⛔ HE CORRECTS MY "VOLUME LARGELY SURVIVES" FROM 45 MINUTES AGO, AND THE 2000 DATA I FILED THREE HOURS EARLIER PROVES HIM RIG
 - `2026-08-15` [ai-capex-cycle.md:L2861](../ai-capex-cycle.md) — 2026-08-15 ~3:08pm PDT — ★★★★★★★ "OR FINANCING PULLED BACK" IS NOT A FIFTH ITEM ON THAT LIST — IT IS A DIFFERENT CLASS, AND IT JOINS THE MORNING'S CRE
+- `2026-08-19` [ai-capex-cycle.md:L2915](../ai-capex-cycle.md) — 2026-08-19 ~7:03am PDT — ✅ **F1 CLOSES. THE 7/29 READ AT `:1859` WAS RIGHT AND IS NOW UNAMBIGUOUS: THE VALIDATION SUPPLIES THE PRIOR-QUARTER ANCHOR TH
+- `2026-08-19` [ai-capex-cycle.md:L2933](../ai-capex-cycle.md) — 2026-08-19 ~7:05am PDT — ⛔ **F3 DOWNGRADED, AND IT IS A REAL DE-ESCALATION: THE CXMT/YMTC "WALL" IS A BIPARTISAN *LETTER* TO APPLE PLUS AN EXISTING FE
