@@ -1652,3 +1652,56 @@ Source: `raw/2026-08-18-smtc-macro-feed-verification.txt` (75-item ledger). Rela
 - ⇒ **But the WEEKLY CHANGE differs by a third (+2.74% vs +3.75%)** — different series, different
   week-ago baseline (EIA weekly Monday survey vs a rolling daily average). ⚠️ **When quoting the
   pass-through RATE, name which series. The level is robust; the delta is not.**
+
+### 2026-08-19 ~8:05am PDT — ⛔⛔ **THE RUSSIAN SHORTAGE IS A *GASOLINE* SHORTAGE, AND THAT CUTS *AGAINST* THE CRACK POSITION TWICE: it is the one product the 9/1 exemption does NOT cover, so the domestic crisis gives Moscow no reason to pull the exemption — and it implies the strike campaign is degrading GASOLINE units, not distillate**
+Source: Reuters via Jake, 2026-08-19 ~7:50am PDT → `raw/2026-08-19-russia-fuel/inbound.md`. Domestic detail
+filed at [[demand-destruction]]`:L3798`. **⟲ EXTENDS `:L809` (the 8/15 decree entry) and bears directly on
+registered trigger #1 at `:L886`.** This entry is the TRADE consequence; that one is the physical arc.
+
+#### THE DECREE ASYMMETRY, RESTATED FROM THIS NOTE'S OWN `:L832` — because it is the whole argument
+- **PROHIBITION 2026-08-01 → 2027-01-31 covers GASOLINE, DIESEL, MARINE FUEL, GASOIL.**
+- **PRODUCER EXEMPTION FROM 2026-09-01 covers DIESEL, MARINE FUEL, GASOIL — *NOT* GASOLINE.**
+- **INBOUND: Rosneft limits 30 L of GASOLINE per vehicle nationwide; Gazprom Neft 40–60 L; Tatneft 50 L;
+  DIESEL GENERALLY LESS RESTRICTED.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE DOMESTIC CRISIS AND THE SCHEDULED LOOSENING SIT IN DIFFERENT PRODUCTS, AND THAT IS THE
+  FINDING. The obvious bullish read — *"Russia is rationing at home, so it cannot open the export gate on
+  9/1"* — REQUIRES THE SHORTAGE TO BE IN DISTILLATE. IT IS NOT.** ⇒ **A gasoline emergency is fully
+  consistent with releasing direct-producer DIESEL exports on schedule; gasoline stays banned to
+  2027-01-31 either way.** ⇒ **THE VAULT'S ONE DATED DOWNSIDE TRIGGER SURVIVES THIS INBOUND INTACT.**
+  ⇒ **Jake's own flagged detail — "diesel remains less restricted" — is the line that does the damage, and
+  it is his, not mine.** *(Analysis.)*
+- **★★★★★ AND THERE IS A REFINING-TECHNICAL REASON TO EXPECT EXACTLY THIS ASYMMETRY, WHICH MAKES IT A
+  MECHANISM RATHER THAN A COINCIDENCE — AND IT GENERALISES BADLY FOR THE POSITION.** **Diesel is largely
+  STRAIGHT-RUN off the crude distillation unit. GASOLINE requires the secondary conversion train — cat
+  cracker, reformer, alkylation — which is more complex, more numerous, and softer to a drone.** ⇒ **A
+  strike campaign that degrades a refinery's secondary units removes GASOLINE yield first and distillate
+  yield second.** ⇒ **"Russian refineries are burning" is systematically WEAKER support for a DISTILLATE
+  crack than the headline implies, and the domestic gasoline-vs-diesel split is the observable that says
+  so.** ⚠️ **Stated as a mechanism from refinery configuration, NOT from any Russian yield data —
+  ⬜ Russian gasoline vs diesel yield loss by unit is NOT IN THE VAULT.** *(Analysis.)*
+- **★★★★ AND THIS IS THE SAME CONCLUSION THIS NOTE ALREADY REACHED BY A DIFFERENT ROUTE ON 8/15, WHICH IS
+  WHY IT SHOULD BE WEIGHTED: `:L873` — *"the bulk repriced before mid-July… 'Russia impaired' is not a
+  forward catalyst for this trade. IT IS THE THING THAT ALREADY HAPPENED."*** ⇒ **Two independent
+  arguments — a price decomposition and a product-chemistry asymmetry — landing on the same side is the
+  corroboration standard. The Russian leg of the crack thesis is the weakest leg it has.** *(Analysis.)*
+- **⚠️ THE ONE LEG THAT STILL POINTS THE OTHER WAY, AND IT IS NOT NOTHING: A STATE **IMPORTING** REFINED
+  PRODUCT AND **WAIVING FUEL SPECS** MAY HAVE NO EXPORTABLE SURPLUS TO EXEMPT.** ⇒ **The exemption could
+  be legally live and PHYSICALLY COSMETIC.** ⇒ **That is the bull case on this inbound, and it is a
+  QUANTITY claim — so it is settled by a number, not by an argument.** *(Analysis.)*
+- **⇒ ★★★★★★ THE DISCRIMINATOR IS ONE SERIES AND THE VAULT ALREADY HAS ITS BASELINE: RUSSIAN SEABORNE
+  DIESEL/GASOIL LOADINGS. Jun 471k b/d → Jul 314k b/d (`:L834`, −157k b/d = −33%).** **If AUGUST keeps
+  falling, the 9/1 exemption is cosmetic and the bearish trigger defuses. If August stabilises or rises,
+  the exemption is material and the trigger fires into a 15-days-out window.** ⇒ **This is now the highest
+  -value unfetched number in the crack thread, ahead of the record-definition question.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **RUSSIAN SEABORNE DIESEL/GASOIL LOADINGS, AUGUST 2026** (Kpler/Vortexa/LSEG class). **Baseline on
+   file: 471k (Jun) → 314k (Jul). PROMOTED to the thread's #1 fetch.** Unfetched.
+2. 🚩🚩 **DOES THE 9/1 PRODUCER EXEMPTION ACTUALLY TAKE EFFECT ON 9/1?** **Thirteen days out. A deferral,
+   narrowing, or quiet non-implementation is the falsifier — and Russian policy on this decree has already
+   changed once (announced 7/30, effective 8/01, after the 7/08 diesel ban).** ⬜ Watch government.ru.
+3. 🚩 **Carried, unchanged and still unfetched:** EIA distillate PRODUCT SUPPLIED · refinery utilisation ·
+   the NYMEX HO-vs-CL matched-month crack series 2022→date that settles the "record" question (`:L1642`).
+**Links:** [[demand-destruction]] · [[war/war-board]] · [[europe-energy-crunch]] · [[transmission-chain]]

@@ -3794,3 +3794,65 @@ input cost" framing).
 2. 🚩 **The crude-side test is now: does BRENT actually move on the Sheskharis outage?** **If a Black Sea
    export suspension does not move the benchmark, the crude leg is confirmed absorbed and the refiner read
    is clean.**
+
+### 2026-08-19 ~7:55am PDT — ⭐⭐⭐ **RATIONING REACHES MOSCOW AND RUSSIA IS NOW *IMPORTING* PRODUCT — but the shortage is a GASOLINE shortage, and the region count is NOT worse than what this note already filed on 8/14**
+Source: Reuters, relayed by Jake, chat 2026-08-19 ~7:50am PDT → `raw/2026-08-19-russia-fuel/inbound.md`.
+Librarian gate: WAR/OIL(1)*, no magnitude collision, no prior-statement anchor. **⟲ EXTENDS `:L3709`**
+(the 8/14 Orenburg odd-even entry) — this is the NEXT TICK of that arc, not a new event.
+
+#### DATA (REPORTED — Reuters; retail limits are company-level, not a decree)
+- **PURCHASE LIMITS AT THE PUMP:** Gazprom Neft **40–60 L** · Tatneft **50 L** · Rosneft **30 L of
+  GASOLINE per vehicle, described as NATIONWIDE** · Lukoil acknowledges **Moscow-region** restrictions.
+- **⭐ DIESEL IS GENERALLY *LESS* RESTRICTED THAN GASOLINE.** Jake's own flag, and it is the load-bearing
+  detail in the whole inbound.
+- **Reuters 2026-08-17: shortages RETURNED to ≥10 regions after easing in late July**; the first wave had
+  spread to most regions by July.
+- **STATE RESPONSE: gasoline + diesel export restrictions · RELAXED FUEL-QUALITY REQUIREMENTS ·
+  PETROLEUM-PRODUCT IMPORTS.**
+- **UFA REFINERY (Bashkortostan) struck again 2026-08-19, >1,000 km from Ukraine.** Head of Bashkortostan
+  **Radiy Khabirov** acknowledged **a unit hit and pipes damaged**; called the damage **minor, repairs "in
+  days."** ⬜ **Ufa group capacity NOT IN THE VAULT and NOT ASSERTED HERE.**
+- **DRONE SCALE — ⚠️ RUSSIAN OFFICIAL COUNTS, NOT INDEPENDENTLY VERIFIABLE:** Sobyanin **~637 drones toward
+  Moscow 8/18**; **~800 nationally.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ THE ONE GENUINELY NEW STRUCTURAL FACT IS *MOSCOW*, AND IT IS THE ONLY PART OF THIS THAT CHANGES
+  THE STATE.** This note's 8/14 list — Krasnodar, Voronezh, Kaluga, Rostov, Ryazan, Tambov, Tula, Saratov,
+  Smolensk, Penza, Ulyanovsk, Primorsky, Arkhangelsk — **is entirely PROVINCIAL.** ⇒ **Rationing in the
+  capital is a different order of event because it changes the regime's cost function, not the barrel
+  count.** *(Analysis.)*
+- **⛔⛔ AND THE "SECOND WAVE" FRAMING MUST NOT BE SCORED AS AN ESCALATION ON BREADTH, BECAUSE THIS NOTE'S
+  OWN COUNT IS HIGHER. Reuters 8/17: ≥10 regions. This note, 8/14: 12 regions + Arkhangelsk = 13.**
+  ⇒ **≥10 today vs 13 five days ago is FLAT-TO-NARROWER on the vault's own record.** ⇒ **The "wave"
+  language describes a TIME pattern (eased late July, returned), not a breadth record — and the 8/14
+  filing and the 8/17 report plausibly describe the SAME ongoing episode.** ⚠️ **Do not double-count
+  them as two shortages.** *(Analysis. Error class 1 — trusting a label over the data.)*
+- **⛔ AND THE "DEEP INSIDE RUSSIA" ANGLE IS NOT A NEW RANGE RECORD ON THIS NOTE'S OWN NUMBERS: Ufa is
+  >1,000 km ≈ >620 miles; ORSK, filed 8/14, is ~800 MILES ≈ 1,290 km.** ⇒ **Ufa is CLOSER to the front
+  than a strike this note already carries. The reach story was told five days ago.** *(Analysis.)*
+- **★★★★★★ WHAT *IS* NEW AND HARD: A STATE THAT IS **IMPORTING REFINED PRODUCT** AND **WAIVING ITS OWN
+  FUEL SPECS** HAS ADMITTED A PHYSICAL BALANCE IT CANNOT COVER.** **Both are costly admissions — specs
+  waivers damage engines and imports cost hard currency under sanctions.** ⇒ **This is the strongest
+  physical evidence in the inbound and it belongs in the evidence ladder well above the queue photos and
+  far above any official's characterisation.** *(Analysis.)*
+- **⭐⭐ AND KHABIROV REFINES THIS NOTE'S OWN CALIBRATION RULE RATHER THAN REPEATING IT.** `:L3752` says
+  weight REGIONAL GOVERNORS over federal reassurance because governors "carry a cost to admit." **Khabirov
+  does BOTH in one statement: he ADMITS (unit hit, pipes damaged) and he MINIMISES (minor, days).**
+  ⇒ **The rule splits: the ADMISSION carries a cost and is credible; the ASSESSMENT carries none and is
+  the same evidence class as Novak's "stabilizing," which this note logged as REFUTED INSIDE TWO WEEKS.**
+  ⇒ **Take the damage, discard the timeline.** *(Analysis.)*
+- **⚠️ AND THE DRONE COUNTS AND THE DAMAGE ASSESSMENT COME FROM THE SAME SOURCE WITH OPPOSITE INCENTIVES,
+  WHICH IS WHY NEITHER IS USABLE AS A LEVEL.** **An air-defence claim of ~637 intercepts flatters the
+  defender; a "minor damage" claim flatters the same defender.** ⇒ **Directionally, official counts of
+  drones LAUNCHED bias HIGH and official counts of damage bias LOW. Use the direction, never the number.**
+  *(Analysis — an inference about incentives, not a measurement.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **RUSSIAN SEABORNE DIESEL/GASOIL LOADINGS, AUGUST.** Vault has Jun **471k b/d** → Jul **314k b/d**
+   (`oil-value-chain:L834`). **This is the single series that decides whether the 9/1 producer exemption is
+   material or cosmetic, and it is unfetched.**
+2. 🚩🚩 **WHAT IS RUSSIA IMPORTING, FROM WHOM, AND HOW MUCH?** ⬜ Volume and counterparty NOT IN THE INBOUND.
+   **An importing Russia is a materially different object than a rationing Russia; the number decides which.**
+3. ⬜ **UFA GROUP NAMEPLATE CAPACITY AND CURRENT RUNS** — folds into the standing open item on aggregate
+   Russian refining capacity offline (`:L3761`, still open since 8/14).
+**Links:** [[oil-value-chain]] · [[war/war-board]] · [[europe-energy-crunch]]
