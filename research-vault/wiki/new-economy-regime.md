@@ -4137,3 +4137,64 @@ into circulation because it's more available if the rates are lower."*
 3. 🚩 **Term-premium estimate (ACM/KW) on the 10Y and 30Y** — **the only way to separate "expected path" from
    "duration compensation," which is the distinction the whole buyback argument turns on.** ⬜ Not in the vault.
 **Links:** [[rates-board]] · [[transmission-chain]] · [[market-fragility]] · [[ai-financing-fragility]]
+
+### 2026-08-19 ~1:55pm PDT — ✅⭐⭐⭐⭐⭐ **YES — AND THE MISSING HALF OF THE SENTENCE IS THE SUPPLY SIDE, WHICH IS WHERE THE FOMC ITSELF IS UNCERTAIN. ✓ AND THE MINUTES CONFIRM JAKE'S CONSTRUCTION-WAGE ARGUMENT FROM 25 MINUTES AGO — IN THE NARROW FORM, NAMING ELECTRICIANS**
+Source: Jake, 2026-08-19 ~1:50pm — *"if there's just money that's easier for people to borrow and have,
+there's more demand, which is inflationary."* **FOMC minutes July 28-29 2026, PRIMARY, passages not
+extracted in the earlier pass** → `raw/2026-08-19-fomc-minutes/`. **⟲ EXTENDS `:L4073` and `:L3978`.**
+
+#### DATA (MEASURED — verbatim, FOMC minutes)
+- **THE SUPPLY-SIDE CONDITIONAL, IN THE COMMITTEE'S OWN WORDS:** *"**Some participants noted that
+  productivity gains associated with adoption of AI would eventually reduce production costs and increase
+  AGGREGATE SUPPLY, a development that should put downward pressure on inflation, though there were a range
+  of views on HOW LONG this effect would likely take to materialize.**"*
+- *"Several participants suggested that AI-related investments would likely increase the growth of
+  productivity and of **potential output** in the coming years… however, that **considerable uncertainty
+  remained regarding both the TIMING and MAGNITUDE** of potential productivity gains."*
+- **⭐⭐⭐ AND THE WAGE LINE, WHICH CLOSES JAKE'S OWN LOOP FROM 25 MINUTES EARLIER:** *"**Several participants
+  observed that, in sectors connected to the ongoing AI buildout, there was strong demand for skilled
+  workers—including ELECTRICIANS, MACHINISTS, AND ENGINEERS—leading to NOTABLE INCREASES IN THEIR WAGES.**"*
+- *"Several participants remarked that uncertainties associated with AI-related developments as well as
+  current and anticipated productivity gains were **keeping both hiring and firing low**."*
+
+#### THESIS (interpretation — NOT fact)
+- **✓★★★★★ HIS SENTENCE IS CORRECT AND INCOMPLETE IN ONE SPECIFIC WAY: DEMAND IS NOT INFLATIONARY —
+  DEMAND *RELATIVE TO SUPPLY CAPACITY* IS.** ⇒ **Cheaper credit → more borrowing → more spending → higher
+  prices ONLY IF output cannot expand to meet it.** **If supply is elastic, the same demand produces more
+  OUTPUT instead of higher PRICES.** ⇒ **That is the missing clause, and it is not a quibble: it is the
+  entire reason the 2008-15 counterexample and the present regime give opposite answers.** *(Analysis.)*
+- **★★★★★★ AND IT LOCATES THE ACTUAL CRUX OF THE AI-INFLATION QUESTION, WHICH THE FOMC STATES BUT CANNOT
+  RESOLVE: THE AI BUILDOUT IS A DEMAND SHOCK **NOW** AND A PROMISED SUPPLY RESPONSE **LATER**. THE GAP
+  BETWEEN THEM IS THE INFLATION.** ⇒ **Chips, steel, electricity and electricians' wages are being bid up
+  TODAY; the productivity gains that would "increase aggregate supply" arrive on an unknown schedule.**
+  ⇒ **⭐ THE WHOLE DISAGREEMENT INSIDE THE COMMITTEE REDUCES TO THE LENGTH OF THAT GAP — they explicitly
+  say the disagreement is about "how long this effect would likely take to materialize" and about "TIMING
+  and MAGNITUDE."** ⇒ **This is the sharpest available framing of the vault's AI-inflation question and it
+  comes from the Fed's own text, not from an analyst.** *(Analysis.)*
+- **✅⭐⭐ AND JAKE'S CONSTRUCTION-WAGE INSTINCT IS CONFIRMED BY THE COMMITTEE — IN EXACTLY THE NARROW FORM
+  `:L4033` ARGUED FOR, NOT THE BROAD ONE HE ORIGINALLY PUT.** **At 1:20pm I filed that the Census data
+  shows no general building boom (residential −4.7%, nonresidential −4.7%, commercial −5.3%, manufacturing
+  −22%, data centres +45.8%) and therefore the wage-push is CONCENTRATED, not general.** ⇒ **The FOMC says
+  the same thing in words: strong demand for skilled workers *"IN SECTORS CONNECTED TO THE ONGOING AI
+  BUILDOUT"* — and it names ELECTRICIANS FIRST, which is the data-centre trade.** ⇒ **✓ His mechanism was
+  right about the LABOUR MARKET and wrong only about the INDEX. Both halves are now settled from primary
+  sources within thirty minutes of each other.** *(Analysis. Conceding the substance of his point while the
+  correction to its plumbing stands.)*
+- **⚠️ AND A DATUM THAT COMPLICATES THE SIMPLE DEMAND STORY, WORTH KEEPING BECAUSE IT CUTS THE OTHER WAY:
+  *"uncertainties associated with AI-related developments as well as current and anticipated productivity
+  gains were keeping both HIRING AND FIRING LOW."*** ⇒ **A FROZEN labour market is not a hot one.** ⇒ **AI
+  is simultaneously bidding up a narrow set of trades AND suppressing hiring everywhere else — which is a
+  wage story with two opposite signs in it, and the aggregate wage data will net them.** ⚠️ **Do not read
+  "electricians' wages rising" as evidence of general wage inflation; the same paragraph says the opposite
+  about breadth.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **THE TIMING GAP IS NOW THE VAULT'S CENTRAL AI-MACRO QUESTION, STATED AS A MEASURABLE:** **when
+   does measured PRODUCTIVITY GROWTH (BLS nonfarm business output per hour) turn up against the AI capex
+   that started in 2023-24?** ⬜ **The series is public and quarterly and the vault has never pulled it.**
+   **It is the single number that decides whether the buildout is inflationary or disinflationary.**
+2. 🚩🚩 **BLS AHE / ECI FOR SPECIALTY TRADE CONTRACTORS AND ELECTRICIANS (OES/CES)** — **the FOMC's claim of
+   "notable increases" is qualitative. Quantify it, and check it against total construction AHE to test
+   CONCENTRATED-vs-GENERAL directly.** *(Supersedes nothing; sharpens the item at `:L4066`.)*
+3. 🚩 **HIRES AND SEPARATIONS RATES (JOLTS)** — the "low hiring AND low firing" claim, measurable.
+**Links:** [[ai-capex-cycle]] · [[transmission-chain]] · [[compression-thesis]] · [[consumption-vs-investment-crux]]
