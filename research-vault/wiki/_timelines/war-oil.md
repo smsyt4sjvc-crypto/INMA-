@@ -1,6 +1,6 @@
 # ⏱ WAR/OIL — merged timeline (the gate)
 
-> **231 dated entries across 3 notes · 2026-03-13 → 2026-08-19 · refreshed 2026-08-18 16:53 PDT**
+> **233 dated entries across 3 notes · 2026-03-13 → 2026-08-19 · refreshed 2026-08-18 17:12 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -244,6 +244,7 @@
 - `2026-08-17` [oil-value-chain.md:L1084](../oil-value-chain.md) — 2026-08-17 ~8:11am PDT — 🚩 STATE READ ON JAKE'S Q: **"still room?"** — **THE MECHANISM IS INTACT, THE EASY MONEY IS GONE, AND BOTH INSTRUMENTS THAT WO
 - `2026-08-17` [oil-value-chain.md:L1135](../oil-value-chain.md) — 2026-08-17 ~8:16am PDT — ⛔⛔⛔ **I MADE THE WINDOW ERROR THIS NOTE HAS ALREADY LOGGED TWICE, AND IT REVERSED MY ANSWER.** Measured from 8/13 — the date 
 - `2026-08-17` [oil-value-chain.md:L1189](../oil-value-chain.md) — 2026-08-17 ~8:25am PDT — ✅ **THE DEFERRED STRIP, FETCHED AT LAST** (the ⬜ registered since 8/15 and never closed) — and it converts Jake's "confident 
+- `2026-08-17` [war-board.md:L2833](../war/war-board.md) — DATA (MEASURED — Windward, data as of 2026-08-17)
 - `2026-08-18` [oil-value-chain.md:L1238](../oil-value-chain.md) — 2026-08-18 ~9:00am PDT — ⛔⛔ "RECORD $102 / ABSOLUTELY UNPRECEDENTED" IS FALSE AND THIS NOTE ALREADY KILLED IT ON 8/15. **THE LEVEL IS +0.25 ON A NUMBE
 - `2026-08-18` [oil-value-chain.md:L1288](../oil-value-chain.md) — 2026-08-18 ~9:30am PDT — 📌 PBF INSIDER SALES: JAKE PULLED THE FORM 4s AND HIS READ SURVIVES ARITHMETIC CHECK. ⇒ **THREE OF FOUR ARE COMP MONETIZATION,
 - `2026-08-18` [oil-value-chain.md:L1353](../oil-value-chain.md) — 2026-08-18 ~9:50am PDT — ✅⛔ **THE NIMBLEY ITEM IS CLOSED AND IT CLOSES BENIGN. JAKE PULLED TABLE II: BOTH SALES WERE EXERCISE-AND-SELL OFF 2017/2018/2
@@ -252,4 +253,5 @@
 - `2026-08-18` [oil-value-chain.md:L1527](../oil-value-chain.md) — 2026-08-18 ~11:30am PDT — ⭐⭐⭐⭐ **RETAIL DIESEL LANDS (the flag open since 8/18 ~9:00am) AND IT PRODUCES THE SHARPEST NUMBER OF THE WEEK: THE REFINER I
 - `2026-08-18` [oil-value-chain.md:L1581](../oil-value-chain.md) — 2026-08-18 ~1:20pm PDT — ⚠️⚠️ **A THIRD-PARTY VERIFICATION BRIEF GRADES "DIESEL CRACK AT AN ALL-TIME HIGH ~$102.20" AS *CONFIRMED* — WHICH DIRECTLY CO
 - `2026-08-18` [war-board.md:L2698](../war/war-board.md) — 2026-08-18 ~10:30am PDT — 📌 THE MoU 60-DAY CLOCK EXPIRED YESTERDAY WITH NO DEAL AND NO EXTENSION — a dated catalyst, FIRED. ⛔ **BUT "BRENT SURGES TO $
+- `2026-08-18` [war-board.md:L2819](../war/war-board.md) — 2026-08-18 ~2:00pm PDT — ✅✅✅ **THE WINDWARD LIVE DASHBOARD IS FETCHABLE — RETIRING A STANDING VAULT LIMITATION THAT HAD US RUNNING ON MARCH-VINTAGE DA
 - `2026-08-19` [war-board.md:L2757](../war/war-board.md) — 2026-08-19 (UAE time; ~2026-08-18 PDT) — ★★★★★★ **THE UAE HALTS *ALL* TRADE, COMMERCIAL EXCHANGE AND FINANCIAL TRANSACTIONS WITH IRAN. ⛔ THIS INVERTS 
