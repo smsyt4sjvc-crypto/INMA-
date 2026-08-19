@@ -1053,3 +1053,53 @@ Baseline = **median daily volume Mar-Jun 2026** per name. Related: [[market-frag
 - ⬜ **WHAT THIS DATA CANNOT SEE: options positioning, dealer gamma, 0DTE, and any fund not clearing
   through Goldman.** **It is one prime broker's book presented as "hedge funds."** 🚩 **The vault's
   options/gamma work lives in [[market-fragility]] and is a SEPARATE dataset — do not merge them.**
+
+### 2026-08-19 ~7:03am PDT — ✅✅ **F9 CLOSES ON THE FORM 4s AND IT CLOSES *AGAINST* THE BEARISH READ: MEHROTRA SOLD 40,000 SHARES (~$37M) UNDER A 10b5-1 PLAN ADOPTED 2026-01-30.** ★★★★★ **And SK HYNIX ANNOUNCED A ₩40.004 TRILLION (~$28.6B) BUYBACK — 3.3% OF SHARES OUT — HOURS AFTER CLOSING −9.7%**
+Source: `Acute_Scanner_Validation_Brief_20260819.docx` → `raw/2026-08-19-acute-scanner-validation-brief.txt`.
+Cited primaries: **two SEC Form 4s (Micron, filed for 2026-07-24)**; **Reuters + WSJ on the SK Hynix
+buyback, 2026-08-19**; **Reuters on Samsung foundry pricing, 2026-08-19**.
+
+#### ✅ F9 — RESOLVED, AND THE VAULT'S OWN RULE DECIDES IT
+- **`:239` set the standard: *"Sale size, plan status (10b5-1 or discretionary) and prior cadence all
+  unknown — a CEO sale without those three facts is NOT EVIDENCE. Registered as a thing to check, not
+  a thing to use."***
+- **NOW KNOWN: direct holdings 344,503 → 304,503 = 40,000 shares sold, ~$37M at reported execution
+  prices. BOTH filings state the sales were under a RULE 10b5-1 PLAN ADOPTED 2026-01-30** — i.e.
+  **~6 months before execution and before the drawdown.**
+- ⇒ **★★★★ TWO OF THE THREE FACTS ARRIVED AND THEY GRADE THE ITEM AS NON-EVIDENCE.** **A pre-scheduled
+  sale adopted in January cannot express a view formed in July.** ⇒ **F9's Micron leg is CLOSED and
+  should not be cited as bearish colour again.** ⚠️ **Prior cadence is still unknown — but with plan
+  status established, cadence can no longer flip the conclusion.**
+- **⇒ AND THE VAULT'S DOCTRINE SURVIVES ITS OWN TEST: the rule said "not evidence until you have the
+  three facts," the facts arrived, and the rule's verdict held.** *(Recording a process win because the
+  vault records process failures.)*
+
+#### DATA (REPORTED — the memory tape and the two corporate actions)
+- **SK HYNIX BUYBACK: ₩40.004 TRILLION (~$28.3-28.7B on FX), ~24.07M shares = 3.3% of shares
+  outstanding, scheduled 2026-08-20 → 2026-11-19.** **Seoul shares had closed ~−9.7% BEFORE the
+  announcement; US-listed shares later rebounded** — which the brief notes explains the apparently
+  contradictory "−9.7%" and "+4-6%" headlines circulating the same day.
+- **SAMSUNG FOUNDRY: price increases of up to 15%; 4nm and 5nm customers cited at roughly +10-15%.**
+- **MEMORY BASKET 8/19: MU −1.65 · SNDK −2.96 · STX −4.40 · WDC −4.71 · Samsung −7.82 · SK Hynix −9.75
+  · TSMC −0.69 · AVGO −4.89. Basket ≈ −4.61% vs Mag-7 ≈ +0.36%.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ THE BUYBACK IS A TIMING SIGNAL, NOT A VALUATION ONE, AND ITS SIZE IS THE ARGUMENT: 3.3% OF
+  SHARES OUT, ANNOUNCED ON THE DAY THE STOCK FELL ~9.7%.** ⇒ **The company chose this level to commit
+  ~$28.6B.** ⚠️ **But this note's own standing caution applies: a buyback is CORPORATE money, not
+  personal — `rotation-stickiness:127`'s distinction — and the vault's razor is that the absence of
+  INSIDER BUYS is the tell, not the presence of corporate ones.** ⇒ **Read it as management's view of
+  the price, weighted by the fact that they are spending shareholders' cash to express it.**
+- **★★★★ AND IT SITS EXACTLY ON THIS NOTE'S CENTRAL TENSION, WHICH THE BRIEF STATES BETTER THAN THE
+  VAULT HAS: *"Memory is simultaneously STRONG FUNDAMENTALLY and FRAGILE FINANCIALLY."*** **Record
+  profits + foundry price hikes + a $28.6B buyback on one side; a −50%-class drawdown, a Q2 expectations
+  miss and violent Korean leverage on the other.** ⇒ **Both legs are true and the vault should stop
+  looking for the one that wins.**
+- **⛔ SAMSUNG'S +10-15% FOUNDRY PRICING IS EVIDENCE OF LEADING-EDGE TIGHTNESS, NOT OF BROAD
+  SEMICONDUCTOR UNDERSUPPLY** — the brief makes the distinction and it is the right one. **4nm/5nm
+  capacity is not the memory market and is not the analog/mature market.**
+- **↔ AND THE CROSS-ASSET CONTEXT MATTERS FOR ATTRIBUTION: on 8/19 long yields FELL, TLT +1.59%, VIX
+  LOWER, S&P and Russell POSITIVE** ([[rates-board]] 8/19). ⇒ **Memory's −4.61% was NOT a rates event.
+  The duration channel went the other way that morning.** ⇒ **This is a SECTOR liquidation with an
+  identified epicentre, which is the same structure this note recorded on 7/28 (`:1141`: VIX fell while
+  the semis complex dropped 4% — "a SECTOR problem, not a SYSTEMIC one").** **Second instance.**
