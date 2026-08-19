@@ -20,7 +20,16 @@ Related: every stage note below · [[market-fragility]] · [[portfolio-state]] �
 | **2** | **Hyperscaler CDS / bond spreads** | what does the AI complex pay OVER risk-free? | 5Y CDS; new-issue concession; OAS | [[hyperscaler-credit]] | **NVDA 5Y CDS ~40 → 80.33bp since late May. DOUBLED. TIGHTENING.** |
 | **3** | **Bank / private-credit appetite** | will anyone actually FUND it, and on what terms? | deal placement, SPV/ABS terms, RVGs, insurance/Bermuda bid | [[ai-financing-fragility]] · [[balance-sheet-board]] | **$500B announced to unstick STALLED deals; issuers ASKED TO WAIT; Ohio wrap restructured $250B blanket → $105B residual-value. RATIONING.** |
 | **4** | **Hyperscaler capex commitments** | does the spending plan change? | capex guides, off-balance-sheet commitments, useful life, project phases | [[ai-capex-cycle]] · [[cepi]] | **Not yet cut. $3T off-B/S commitments; META make-whole with ZERO liability booked. INTACT — so far.** |
-| **5** | **AI supplier orders** | does the revenue actually arrive at the sellers? | NVDA DC revenue, memory contracts, backlog, order intake | [[metered-compute]] · [[memory-regime-question]] · [[compression-thesis]] | **NVDA DC +92% vs cloud +40-48%. STILL ACCELERATING.** |
+| **5** | **AI supplier orders** | does the revenue actually arrive at the sellers? | NVDA DC revenue, memory contracts, backlog, order intake | [[metered-compute]] · [[memory-regime-question]] · [[compression-thesis]] · [[etched-inference-challenger]] | **NVDA DC +92% vs cloud +40-48%. STILL ACCELERATING.** |
+
+## ⛔ AMENDMENT 2026-08-18 — STAGE 3 "RATIONING" NEEDS A QUALIFIER
+**Etched raised $700M at +104% in 26 DAYS** ([[etched-inference-challenger]]) while this table calls
+stage 3 **RATIONING**. ⇒ **Both are true because they are different markets: rationing describes DEBT
+AGAINST DEPRECIATING GPU COLLATERAL; Etched is EQUITY IN THE THING THAT WOULD DEPRECIATE IT.**
+⇒ **Capital is not scarce — it is repricing WHICH SIDE of the inference trade to be on.** **Read that
+way the Etched raise CONFIRMS stage-3 stress rather than contradicting it.**
+⇒ **Stage 5 also gains a second failure mode the original table missed: the incumbent's orders can hold
+while a NEW ENTRANT takes the seat.** Stage 5 is now measured from both sides.
 
 ## ★★★ THE READING THIS ORDERING PRODUCES, AND IT IS THE POINT
 - **★★★★★★ THE SHOCK IS CURRENTLY SITTING AT STAGES 1-3 AND HAS NOT REACHED 4-5.** **Rates are
