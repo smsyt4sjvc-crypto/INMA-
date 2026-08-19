@@ -54,3 +54,61 @@ funding side) · [[ai-capex-cycle]] (stage 4) · [[balance-sheet-board]] · [[ma
 
 ---
 _Created 2026-08-18 as stage 2 of [[transmission-chain]]._
+
+## 2026-08-19 ~4:00pm PDT — ⛔⭐⭐⭐⭐⭐ **"NVIDIA AT DOUBLE THE TREASURY YIELD" IS THE SPREAD-vs-YIELD CONFUSION, AND THIS NOTE'S OWN NUMBER IS WHY: THE *SPREAD* DOUBLED (40 → 80bp). THE *YIELD* IS ~18% HIGHER, NOT 100%.** ⇒ And the real answer to his question is that the SPREAD does the adjusting — **and which way it moves tells you whether the extra yield is opportunity or warning**
+Source: Jake, 2026-08-19 ~3:55pm PDT: *"if an investor in the secondary market is looking at an Nvidia
+corporate bond at double the yield as a US treasury bond, what happens…"* **⟲ EXTENDS `:L14`.**
+
+#### ⛔ THE MAGNITUDE FIRST — because the rest of the answer changes with it
+- **THIS NOTE'S MEASURED NUMBER: NVDA 5Y CDS = 80.330bp (2026-08-18).** **A CDS spread approximates the cash
+  bond's spread over the risk-free curve.**
+- **5Y TREASURY TODAY: 4.35%** ([[rates-board]]`:L299`). ⇒ **NVDA 5Y ≈ 4.35% + 0.80% ≈ 5.15%.**
+  ⇒ **≈ +18%, NOT +100%. "DOUBLE THE YIELD" WOULD BE ~8.7% — DEEP HIGH-YIELD TERRITORY, NOT AN
+  INVESTMENT-GRADE HYPERSCALER.**
+- **⇒ ⭐ WHERE THE "DOUBLE" ALMOST CERTAINLY COMES FROM, AND IT IS THIS NOTE'S OWN HEADLINE AT `:L20`:
+  *"NVDA CREDIT HAS ROUGHLY DOUBLED SINCE LATE MAY (~40 → 80bp)."* THAT IS THE SPREAD DOUBLING — an 40bp
+  ADDITION to the yield, not a doubling OF the yield.** ⇒ **⛔ SPREAD-vs-YIELD IS ERROR CLASS 4 (instrument
+  mismatch) and it is a ~4× magnitude error on the thing being compared. Flagging it here so this note's
+  own phrasing does not keep producing it.** *(Analysis.)*
+
+#### ★★★★★ THE MECHANISM HE IS ASKING ABOUT, WHICH IS THE RIGHT QUESTION EVEN WITH THE NUMBER CORRECTED
+- **IF a spread is genuinely too wide for the risk, capital moves: demand for the corporate rises → its
+  price rises → its yield falls; demand for the Treasury falls → its yield rises.** ⇒ **THE SPREAD
+  COMPRESSES FROM BOTH ENDS.** ⇒ **⭐ THAT IS JAKE'S CROWDING-OUT INVERSION AND *HERE* IT ACTUALLY WORKS —
+  but as a RELATIVE-PRICE mechanism, and it is SELF-LIMITING: it runs until the extra yield no longer
+  compensates for the extra risk.** *(Analysis. Conceding the version of his 3:35pm idea that survives.)*
+- **⛔ BUT IT ONLY HAPPENS IF THE SPREAD IS *MISPRICED*. A wide spread is not free money — it is the market's
+  price for default risk, illiquidity, and (for this complex specifically) EVENT RISK: a debt-funded capex
+  programme impairing the credit.** ⇒ **If investors believe the risk, they do not take the trade and the
+  spread stays wide or widens.**
+- **⇒ ★★★★★★ AND THE TAPE ALREADY TELLS US WHICH REGIME WE ARE IN, FROM THE FOMC'S OWN JULY MINUTES:
+  *"Credit spreads for hyperscaler firms WIDENED FURTHER relative to those for investment-grade bond
+  issuers."*** ⇒ **Investors are NOT arbitraging the pickup away. They are demanding MORE.** ⇒ **THE MARKET
+  IS VOTING "WARNING," NOT "OPPORTUNITY" — and that is the answer to "what happens": the spread widens,
+  because the marginal buyer does not think it is enough.** *(Analysis.)*
+
+#### ⚠️ AND THE CONSTRAINT LAYER IS WHY THE SIMPLE YIELD COMPARISON DOES NOT DRIVE THE MARGINAL BUYER
+- **THE BIGGEST HOLDERS OF CORPORATE BONDS — INSURERS, PENSIONS, BANK PORTFOLIOS — ARE RATING- AND
+  CAPITAL-CONSTRAINED, NOT YIELD-MAXIMISING.** **An insurer's capital charge scales with the rating, so it
+  compares CAPITAL-CHARGED yields, not headline yields.** ⇒ **Spreads can stay "too wide" for a long time
+  because the buyer who would close them is not permitted to.**
+- **⇒ ⛔ AND THAT IS ALSO WHY THE MOVE IS NON-LINEAR ON THE WAY OUT — THIS NOTE'S THREAD ALREADY HAS THE
+  MECHANISM AT [[ai-financing-fragility]]`:L963`: a downgrade to junk *"FORCES insurers/pensions to sell +
+  PROHIBITS holding REGARDLESS OF YIELD → the buyer base structurally VANISHES."*** ⇒ **THE RATING, NOT
+  THE YIELD, IS THE VARIABLE THAT MATTERS — `:L1091`: *"watch the RATING not the CDS."*** *(Analysis.
+  Standing conclusion, not re-argued.)*
+- **⚠️ AND THE TWO INSTRUMENTS ARE NOT SUBSTITUTES EVEN AT EQUAL YIELD: TREASURIES ARE THE COLLATERAL OF
+  THE FINANCIAL SYSTEM.** **They repo at the finest haircut, satisfy HQLA, and post as margin. A corporate
+  bond does none of that as well.** ⇒ **Anyone who needs to FINANCE the position takes the Treasury even
+  at a lower yield — the yield gap is partly a CONVENIENCE YIELD on the Treasury, not pure credit risk.**
+  ⇒ **Which means a naive "just buy the higher yield" trade is levered differently, and that is where
+  forced de-grossing starts.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **STOP QUOTING CDS AS "YIELD." This note tracks a SPREAD.** **When comparing to a Treasury, state
+   BOTH: the 5Y at 4.35% and the spread at 80bp ⇒ ~5.15%.** **Added as a standing convention for this note.**
+2. 🚩🚩 **NVDA / hyperscaler CASH BOND yields and spreads, not just CDS** — ⬜ **the vault has the derivative
+   and not the cash instrument, and Jake's question is about the cash bond.**
+3. 🚩 **THE RATING WATCH IS UNCHANGED AND IS THE REAL TRIGGER** (`ai-financing-fragility:L1091`). **CDS at
+   80bp is an IG-consistent level. A downgrade is the discontinuity; the spread is the thermometer.**
+**Links:** [[ai-financing-fragility]] · [[rates-board]] · [[transmission-chain]] · [[balance-sheet-board]]
