@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **390 dated entries across 4 notes · 2026-05-22 → 2026-08-18 · refreshed 2026-08-18 17:14 PDT**
+> **391 dated entries across 4 notes · 2026-05-22 → 2026-08-18 · refreshed 2026-08-18 18:19 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -412,3 +412,4 @@
 - `2026-08-18` [ai-financing-fragility.md:L6509](../ai-financing-fragility.md) — [2026-08-18] **NVIDIA is exclusive AI-compute infrastructure provider for SB Energy's Ohio project:
 - `2026-08-18` [ai-financing-fragility.md:L6512](../ai-financing-fragility.md) — [2026-08-18] **NVIDIA's announcement emphasises the infrastructure relationship and a $1.5B EQUITY
 - `2026-08-18` [ai-financing-fragility.md:L6514](../ai-financing-fragility.md) — [2026-08-18] **The "$105B" is graded QUALIFIED: *"media reporting discussed financing or guarantees
+- `2026-08-18` [compression-thesis.md:L2323](../compression-thesis.md) — 2026-08-18 ~2:30pm PDT (source 2026-08-13 11:11pm) — ⚠️★★★★ **A 57× PRICE SPREAD ACROSS A 7.2-POINT PERFORMANCE SPREAD — THE COMPRESSION THESIS AS ONE
