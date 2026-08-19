@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **569 dated entries · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 14:22 PDT**
+> **570 dated entries · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 14:30 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -592,6 +592,7 @@
 - `2026-08-19` **[1]** new-economy-regime.md:L4014 — 2026-08-19 ~1:55pm PDT — ✅⭐⭐⭐⭐⭐ **YES — AND THE MISSING HALF OF THE SENTENCE IS THE SUPPLY SIDE, WHICH IS WHERE THE FOMC ITSELF IS UNCERTAIN. ✓ AND TH
 - `2026-08-19` **[2]** hyperscaler-credit.md:L58 — 2026-08-19 ~4:00pm PDT — ⛔⭐⭐⭐⭐⭐ **"NVIDIA AT DOUBLE THE TREASURY YIELD" IS THE SPREAD-vs-YIELD CONFUSION, AND THIS NOTE'S OWN NUMBER IS WHY: THE *SPRE
 - `2026-08-19` **[3]** ai-financing-fragility.md:L6548 — 2026-08-19 ~7:30am PDT — ★★★★★★ **MARVELL ISSUES GOOGLE A $12.18B WARRANT TO WIN TPU-ECOSYSTEM SILICON. ⇒ THE CIRCULARITY THREAD GETS ITS PUREST INSTA
+- `2026-08-19` **[3]** ai-financing-fragility.md:L6613 — 2026-08-19 ~4:25pm PDT — ⭐⭐⭐⭐⭐⭐ **HIS QUESTION IS ANSWERABLE AND I WENT AND ANSWERED IT FROM SEC PRIMARY — AND THE HEADLINE IS NOT DEBT: ⭐⭐⭐ ALPHABET 
 - `2026-08-19` **[4]** ai-capex-cycle.md:L2915 — 2026-08-19 ~7:03am PDT — ✅ **F1 CLOSES. THE 7/29 READ AT `:1859` WAS RIGHT AND IS NOW UNAMBIGUOUS: THE VALIDATION SUPPLIES THE PRIOR-QUARTER ANCHOR TH
 - `2026-08-19` **[4]** ai-capex-cycle.md:L2933 — 2026-08-19 ~7:05am PDT — ⛔ **F3 DOWNGRADED, AND IT IS A REAL DE-ESCALATION: THE CXMT/YMTC "WALL" IS A BIPARTISAN *LETTER* TO APPLE PLUS AN EXISTING FE
 - `2026-08-19` **[4]** ai-capex-cycle.md:L2951 — 2026-08-19 ~2:10pm PDT — ✅⛔⭐⭐⭐⭐⭐ **JAKE DISSOLVES MY ZIRP COUNTEREXAMPLE AND HE IS RIGHT — BUT ZIRP *DID* HAVE A DEBT-FINANCED PHYSICAL BUILDOUT, AND 

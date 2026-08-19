@@ -6790,3 +6790,83 @@ Related: [[transmission-chain]] (stages 4↔5) · [[etched-inference-challenger]
 3. 🚩 **Does AVGO's Google TPU content actually fall?** The zero-sum read is an inference from one day's
    tape. **A confirmed content loss at Broadcom would make this a share-shift finding rather than a
    sentiment one.**
+
+### 2026-08-19 ~4:25pm PDT — ⭐⭐⭐⭐⭐⭐ **HIS QUESTION IS ANSWERABLE AND I WENT AND ANSWERED IT FROM SEC PRIMARY — AND THE HEADLINE IS NOT DEBT: ⭐⭐⭐ ALPHABET ANNOUNCED A PROPOSED *$80 BILLION EQUITY* OFFERING IN JUNE, UPSIZED AND PRICED, PLUS AN "UP TO $40B" PROGRAM ON 8/6.** ⛔ And my own first pass was WRONG — I counted 424B5 filings as debt, and 424B5 covers equity too
+Source: Jake, 2026-08-19 ~4:15pm PDT: *"how do we just find out if that's happening… Google Meta Nvidia are
+issuing all of these higher yield bonds and investors are either running dry or running higher demand."*
+**MEASURED FROM SEC EDGAR PRIMARY** (`data.sec.gov/submissions` + the filed prospectuses themselves) →
+`raw/2026-08-19-edgar-issuance/`. **Filing-header text verified; full prospectuses NOT read.**
+
+#### ⛔ MY OWN ERROR FIRST, BECAUSE I ALMOST FILED IT
+- **First pass: I counted `424B2/424B5/424B3/FWP` filings as "debt offerings" and got GOOGL 2025:12 →
+  2026:29.** ⇒ **⛔ WRONG. A 424B5 IS A SHELF TAKEDOWN OF *ANY* SECURITY. Opening the 8/6 GOOGL document
+  reads: *"Up to $40,000,000,000 Alphabet Inc. CLASS A COMMON STOCK CLASS C CAPITAL STOCK."* That is
+  EQUITY.** ⇒ **Error class 4, instrument mismatch, in my own method — a form-type filter is not a
+  security-type filter. Fixed by opening every document and classifying it.** *(Analysis.)*
+
+#### DATA (MEASURED — SEC EDGAR, 2026 shelf takedowns, classified by reading each filing's header)
+| issuer | 2026 DEBT deals (window · headline size on the 424B2) | 2026 EQUITY |
+|---|---|---|
+| **ALPHABET** | **Feb 9-12 · $20,000,000,000** · **May 5-18 · $8,500,000,000** · **Aug 6-7 · $25,000,000,000** | **⭐ Jun 1-4: FWP *"Alphabet Announces Proposed $80 Bi[llion]"* → *"Announces UPSIZE and Pricing"* → 424B5 **$40,000,000,000 / 167,500,000 shares**. **Aug 6: a further "Up to $40,000,000,000"** |
+| **AMAZON** | Mar 10-13 **$1,750,000,000** · Jun 8-10 **$1,250,000,000** · Jul 7-8 **$750,000,000** | — |
+| **META** | Apr 30-May 1 (one deal) | — |
+| **NVIDIA** | **Jun 15-17 — ONE deal, and its FIRST since 2021** | — |
+| **ORACLE** | Feb 2-4 (multi-tranche, 9 filings) · Jun 23 | — |
+| **MICROSOFT** | **NONE since 2024** | — |
+- **⚠️ THE 424B2 HEADLINE FIGURE IS THE FACE OF THE PROSPECTUS SUPPLEMENT. Tranche detail not parsed;
+  treat as the DEAL SIZE, not as verified proceeds.** ⬜ **Alphabet also shows a $5,500,000,000 line in Feb
+  and a 576,500,000 line in May — tranches or separate, NOT resolved.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★★ THE BIGGEST FACT OF THE DAY IS THAT ALPHABET WENT TO THE *EQUITY* MARKET FOR A PROPOSED $80
+  BILLION.** **One of the most cash-generative companies on earth, with an AA-class balance sheet that can
+  borrow at will, chose to SELL STOCK.** ⇒ **Equity issuance at this scale says the capex programme has
+  outgrown BOTH operating cash flow AND what management is willing to fund with debt.** ⇒ **⭐ That is a
+  far louder signal than any bond spread, because equity is the most expensive capital a company like this
+  can raise and the last one it reaches for.** ⇒ **It belongs at STAGE 3 of [[transmission-chain]] as a
+  channel the chain does not list — and it says the funding constraint is being met by DILUTION.**
+  *(Analysis.)*
+- **⛔⛔ AND IT PARTLY REVERSES THE VAULT'S CARRIED FRAME AT `:L272`: *"AA credits, HUGE FCF"* was the
+  reason this thread treated hyperscaler debt as benign.** ⇒ **A company with huge FCF that is issuing
+  $53.5B of bonds AND ~$80B of equity in one year is not being funded by its FCF.** 🚩 **The FCF-covers-it
+  premise now needs a number, not an adjective.** *(Analysis.)*
+- **⭐⭐ HIS SPECIFIC LIST IS RIGHT ON ONE NAME AND WRONG ON TWO, WHICH IS WORTH SAYING PLAINLY: "GOOGLE
+  META NVIDIA issuing all of these bonds" ⇒ GOOGLE YES AND MASSIVELY (~$53.5B of debt in three 2026
+  deals). META NO — one deal in 2026, an annual cadence unchanged since 2024. NVIDIA ONE DEAL, though it
+  is the first in five years and that itself is the regime change.** *(Analysis.)*
+- **⛔ AND A DATE CORRECTION TO THIS NOTE'S OWN CARRIED FACT: `:L619` and `:L272` cite "Amazon's $25B bond
+  sale." EDGAR puts Amazon's big deal at 2025-11-17/19. AMAZON'S 2026 DEALS ARE SMALL — $1.75B, $1.25B,
+  $0.75B = $3.75B TOTAL.** ⇒ **Amazon is NOT currently a heavy issuer, and the vault has been carrying a
+  ten-month-old deal as if it were current.** *(Analysis. Error class 2 — stale reference.)*
+- **★★★★★ AND MICROSOFT'S ABSENCE IS A FINDING, NOT A GAP: the complex's largest capex spender has NOT
+  tapped the public bond market since 2024.** ⇒ **The AI buildout is NOT uniformly debt-financed. It
+  splits: ALPHABET (debt + equity, heavily), ORACLE (debt, heavily), NVIDIA (re-entered), META (steady),
+  AMAZON (light in 2026), MICROSOFT (absent).** ⇒ **Any statement about "hyperscaler leverage" that does
+  not name the issuer is now known to be wrong for at least two of the six.** *(Analysis.)*
+
+#### ⇒ HOW TO ANSWER HIS QUESTION PROPERLY — the instrument ladder, cheapest first
+1. **✅ DONE — SEC EDGAR shelf takedowns, classified by opening the document.** Free, primary, dated. **The
+   supply side is now measured.**
+2. **🚩🚩🚩 NEW-ISSUE CONCESSION — the direct measure of "are investors running dry."** **How much extra
+   yield an issuer must pay versus its OWN existing curve to place new paper. Rising NIC = the bid is
+   thinning.** ⬜ **[[transmission-chain]] already lists it as a stage-2 instrument and the vault has NEVER
+   had a number for it.** **This is THE answer to his question and it is the one thing still missing.**
+3. **🚩🚩 ORDER-BOOK COVERAGE / oversubscription on these exact deals.** 5× covered = abundant; 1.2× = thin.
+4. **🚩 IG CORPORATE FUND FLOWS (ICI weekly).** ⚠️ **FRED is blocked from this container (bot protection,
+   confirmed again today) — needs another route.**
+5. **✓ ALREADY HAVE THE VERDICT SIGNAL: spreads. FOMC July minutes — hyperscaler spreads WIDENING vs IG.**
+   ⇒ **Supply is heavy AND the bid is demanding more. Both halves of his intuition, confirmed separately.**
+- **⚠️ BUT THE CROWDING-OUT DIRECTION STILL FAILS ITS OWN TEST: `rates-board:L61` — the August 30Y auction
+  had LOW dealer takedown (8.6%/11.5%), which this vault read as *"real money cleared it."*** ⇒ **Corporate
+  supply is not visibly stealing the TREASURY bid. It is competing within CREDIT.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **NEW-ISSUE CONCESSION ON THE 2026 ALPHABET AND ORACLE DEALS.** **The single highest-value
+   unfetched number in this thread. It converts "is the bid drying up" from a story into basis points.**
+2. 🚩🚩 **READ THE ALPHABET JUNE EQUITY PROSPECTUS IN FULL — confirm the $80B, the use of proceeds, and
+   whether the August "up to $40B" is a NEW programme or the same shelf.** ⬜ **Header-verified only.**
+3. 🚩🚩 **RE-RUN THIS EDGAR SWEEP MONTHLY.** **Now a repeatable primary measurement of stage-4 funding, and
+   it cost nothing.**
+4. ⬜ **Total 2026 IG issuance, market-wide** — the denominator that says whether the AI complex is a large
+   share of supply or a rounding error.
+**Links:** [[transmission-chain]] · [[hyperscaler-credit]] · [[ai-capex-cycle]] · [[rates-board]] · [[balance-sheet-board]]
