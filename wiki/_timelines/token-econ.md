@@ -1,6 +1,6 @@
 # ⏱ TOKEN-ECON — merged timeline (the gate)
 
-> **141 dated entries across 3 notes · 2026-07-16 → 2026-08-18 · refreshed 2026-08-19 07:22 PDT**
+> **142 dated entries across 3 notes · 2026-07-16 → 2026-08-19 · refreshed 2026-08-19 07:29 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -157,3 +157,4 @@
 - `2026-08-16` [compression-thesis.md:L2265](../compression-thesis.md) — 2026-08-16 ~10:07pm PDT — ★★★★★ JAKE FORMALISES OPEN-vs-CLOSED AS **COMMODITIZE-YOUR-COMPLEMENT** AND BUILDS THE LAYER/RENT TABLE. The frame is right 
 - `2026-08-16` [metered-compute.md:L2334](../metered-compute.md) — 2026-08-16 ~9:55pm PDT — ★★★★★★★ JAKE'S NUMBERS **RESOLVE THE ELASTICITY TEST THIS NOTE REGISTERED ON 7/24** — and the answer is far tighter than 300×
 - `2026-08-18` [compression-thesis.md:L2323](../compression-thesis.md) — 2026-08-18 ~2:30pm PDT (source 2026-08-13 11:11pm) — ⚠️★★★★ **A 57× PRICE SPREAD ACROSS A 7.2-POINT PERFORMANCE SPREAD — THE COMPRESSION THESIS AS ONE
+- `2026-08-19` [metered-compute.md:L2388](../metered-compute.md) — 2026-08-19 ~8:00am PDT — ⭐⭐⭐⭐⭐ **THE BEST DATA THIS NOTE HAS EVER HAD ON ITS OWN REGISTERED TEST: VERCEL JULY-2026 — TOKEN VOLUME +59%, REALIZED $/TOK
