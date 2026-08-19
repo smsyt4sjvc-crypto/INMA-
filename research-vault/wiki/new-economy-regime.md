@@ -3974,3 +3974,98 @@ a report about one.** ⚠️ **The "31 years" is the page's claim, not verified 
   MINUS the FX hedge cost, versus the DOMESTIC JGB of the same tenor. When domestic wins, repatriation
   stops being a story and becomes arithmetic.** **Neither leg is in hand.**
 - ⬜ Independent confirmation of "highest in more than 31 years" — the page's claim, chart-consistent.
+
+### 2026-08-19 ~1:20pm PDT — ⛔⭐⭐⭐⭐ **JAKE'S PCE MECHANISM DOES NOT WORK AS STATED — CONSTRUCTION IS *INVESTMENT*, NOT CONSUMPTION, SO NEITHER COMMERCIAL NOR RESIDENTIAL BUILDING IS IN PCE AT ALL. ✓ But his CONCLUSION survives by a better route, and ⛔ the CENSUS DATA ALSO BREAKS HIS PREMISE: nonresidential is NOT inflating — it is falling at exactly the same rate as residential. ONLY DATA CENTRES ARE GROWING.**
+Source: Jake's two questions, chat 2026-08-19 ~1:10pm PDT. **Construction figures MEASURED from CENSUS C30
+PRIMARY** (`census.gov/construction/c30/xlsx/privsa.xlsx`, June-2026 preliminary, SAAR $mn) →
+`raw/2026-08-19-construction-pce/`. Buyback half relates to [[rates-board]]`:L204` and `:L364`.
+
+#### DATA (MEASURED — Census C30, private construction put in place, June-2026p, SAAR $mn, y/y)
+| category | Jun-26 | Jun-25 | **y/y** |
+|---|---|---|---|
+| **TOTAL PRIVATE** | 1,622,458 | 1,702,574 | **−4.7%** |
+| **Residential (inc. improvements)** | 877,118 | 920,447 | **−4.7%** |
+| — new single family | 408,864 | 422,981 | −3.3% |
+| — new multifamily | 114,836 | 116,626 | −1.5% |
+| **Nonresidential** | 745,339 | 782,127 | **−4.7%** |
+| — office (total) | 115,808 | 100,575 | **+15.1%** |
+| — **⭐ DATA CENTRE** | **68,297** | **46,850** | **+45.8%** |
+| — general office | 44,241 | 50,328 | **−12.1%** |
+| — commercial (inc. farm) | 115,341 | 121,807 | **−5.3%** |
+| — **manufacturing** | 170,309 | 218,322 | **−22.0%** |
+- **⇒ DATA CENTRES ARE 4.2% OF PRIVATE CONSTRUCTION AND THE ONLY GROWING CATEGORY.** **Their +$21.4B y/y
+  offsets ~1.3pp of the decline: without them total private would be −6.0%, not −4.7%.**
+- ✓ **Consistent with this vault's own June read at [[ai-capex-cycle]]`:L2477`** (data centre +23.1% 6-mo
+  while every other private category contracted). **Two months later, same shape, now on the y/y.**
+
+#### ⛔ THE MECHANISM CORRECTION — and it is a definitional one, not a judgement call
+- **PCE = PERSONAL CONSUMPTION EXPENDITURES. It prices what HOUSEHOLDS CONSUME.**
+- **NONRESIDENTIAL/COMMERCIAL CONSTRUCTION IS *PRIVATE FIXED INVESTMENT → STRUCTURES*. IT IS NOT IN PCE.**
+- **RESIDENTIAL CONSTRUCTION IS *RESIDENTIAL FIXED INVESTMENT*. ALSO NOT IN PCE — a new house is
+  INVESTMENT in the national accounts, not consumption.**
+- **CONSTRUCTION WAGES ARE INCOME, NOT A CONSUMER PRICE.** They reach PCE only indirectly.
+- **What IS in PCE from housing: HOUSING SERVICES — rent of primary residence and owners' equivalent rent.**
+- ⇒ **A mix shift from residential to commercial building does not enter PCE by any direct route, and
+  "commercial workers are paid more" is a wage-level fact about a series PCE does not contain.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE CONCLUSION SURVIVES AND THE BETTER ROUTE IS THE *INVERSE* OF THE ONE HE PROPOSED: IT IS THE
+  RESIDENTIAL *DECLINE*, NOT THE COMMERCIAL *INCREASE*, THAT IS PCE-INFLATIONARY.** **Less new housing
+  supply → tighter rental market → higher rent and OER → and housing services ARE in PCE.** ⇒ **New single
+  family −3.3% and multifamily −1.5% y/y is a supply pipeline shrinking into a shelter component that
+  prices with a 2-3 year lag.** ⇒ **He is right that the construction mix is inflationary. The transmission
+  runs through SHELTER SUPPLY, not through wage levels.** *(Analysis. The instinct is correct; the
+  plumbing is not, and the corrected plumbing is a stronger argument.)*
+- **⚠️⚠️ BUT THIS NOTE MUST IMMEDIATELY DISCOUNT ITS OWN UPGRADE, BECAUSE `:L3139` ALREADY ESTABLISHED THE
+  REASON: *"PCE weights MEDICAL far more heavily and SHELTER far less"* THAN CPI.** ⇒ **The shelter channel
+  is REAL for core PCE and MATERIALLY STRONGER for core CPI.** ⇒ **On the Fed's own index — the one that
+  matters, and the one running 3.3% vs core CPI 2.5% — a shelter-supply story is the WEAKER version of
+  itself.** *(Analysis. Applying the vault's own 8/12 finding against a conclusion it would otherwise
+  flatter.)*
+- **★★★★★ AND THE CHANNEL THAT *DOES* CARRY HIS WAGE INTUITION IS ONE THE FOMC NAMED YESTERDAY IN WRITING —
+  AGGREGATE DEMAND, NOT INDEX COMPOSITION.** [[transmission-chain]]`:L162`: *"several other participants
+  viewed **investment in AI as already having broader effects on prices by pushing up aggregate
+  demand**."* ⇒ **Better-paid construction workers do not enter PCE as a price. They enter it as SPENDING.**
+  ⇒ **That is his mechanism, one step removed, and the Committee is split on its magnitude — which is
+  exactly the honest state.** *(Analysis.)*
+- **⛔⛔ AND THE PREMISE ITSELF NEEDS CORRECTING, WHICH IS THE MORE USEFUL FINDING: "COMMERCIAL CONSTRUCTION
+  INFLATING" IS NOT WHAT THE DATA SAYS. COMMERCIAL IS −5.3%. NONRESIDENTIAL IS −4.7% — IDENTICAL TO
+  RESIDENTIAL. MANUFACTURING IS −22%.** ⇒ **THIS IS NOT A RESIDENTIAL→COMMERCIAL ROTATION. IT IS EVERYTHING
+  FALLING EXCEPT ONE 4.2% CATEGORY.** ⇒ **★★★ Which WEAKENS the aggregate construction-wage-push story and
+  STRENGTHENS the narrow one: there is no broad building boom bidding up trades — there is a data-centre
+  boom bidding trades AWAY from a shrinking everything-else.** ⇒ **The competition-for-labour effect is
+  concentrated, not general, and that is a different and more testable claim.** *(Analysis.)*
+
+#### ON THE BUYBACKS — "potentially inflationary?"
+- **⛔ NOT THROUGH MONEY. It is CASH-NEUTRAL** ([[rates-board]]`:L204`): **Treasury buys back long coupons
+  and funds it with bills. Net cash to the private sector is ZERO.** **The rate effect is a PORTFOLIO-
+  BALANCE effect — less duration for private hands to hold, so a lower term premium — not a liquidity
+  effect.** ⇒ **Jake's own "Not QE" tag this morning was the correct call and it is the reason.**
+- **✓ HIS CHANNEL IS REAL BUT IT IS THE ORDINARY ONE AND IT IS SMALL AND MIS-TENORED. Lower long yields →
+  cheaper borrowing outside the AI complex → more demand → inflationary at the margin.** ⚠️ **Two bounds:
+  (a) MORTGAGES PRICE OFF THE 10Y, NOT THE 30Y** — effective duration ~7yr on prepayment — **and the
+  buyback buckets are 10-20Y and 20-30Y; (b) SIZE: ~$28B over Sept 9-Nov 4 = 7.8% of one month's coupon
+  supply** (`:L217`). *(Analysis.)*
+- **★★★★★★ THE DECISIVE COUNTER IS THE REACTION FUNCTION, AND YESTERDAY'S MINUTES STATE IT: *"some
+  participants commented that financial conditions might not currently be sufficiently restrictive."* AND
+  the Committee explicitly welcomed that conditions had tightened *"partly a reflection of… market
+  expectations that the Committee would adopt a more restrictive policy stance."*** ⇒ **THE FED IS
+  TARGETING FINANCIAL CONDITIONS. Debt management cannot produce SUSTAINED easier conditions against a
+  central bank that wants them tight — it gets offset.** ⇒ **The buyback changes the COMPOSITION of the
+  tightening (less at the long end), not its AMOUNT.** *(Analysis.)*
+- **⭐⭐ WHAT IS GENUINELY WORTH KEEPING IS THE CONFLICT ITSELF, AND JAKE FOUND IT: TREASURY IS EASING THE
+  LONG END WHILE THE FOMC DISCUSSES TIGHTENING.** **And the two even fight inside the duration channel:
+  Treasury REMOVES duration from private hands via buybacks, while the Fed reinvests agency proceeds into
+  BILLS — which leaves MORE coupons for the private sector to absorb** (`rates-board:L364`).
+  ⇒ **Fiscal debt management and monetary policy are pulling opposite directions on the maturity
+  distribution, and the FOMC has a task force on exactly that.** 🚩 *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩 **HOUSING STARTS / COMPLETIONS AND THE RENTAL VACANCY RATE** — the supply pipeline behind the
+   shelter channel. ⬜ Not in the vault. **This is the fetch that makes the corrected mechanism testable.**
+2. 🚩🚩 **CONSTRUCTION EMPLOYMENT AND AVERAGE HOURLY EARNINGS, RESIDENTIAL vs NONRESIDENTIAL SPECIALTY
+   TRADE (BLS CES).** ⬜ **The wage-differential claim is stated but UNMEASURED — neither Jake nor I have a
+   number for "commercial workers are paid substantially more."** **Do not carry it as a fact.**
+3. 🚩 **CENSUS C30 MONTHLY — add to the routine.** Data centre is now a broken-out line and it is the
+   cleanest public monthly read on stage-4 physical spend.
+**Links:** [[ai-capex-cycle]] · [[rates-board]] · [[transmission-chain]] · [[market-fragility]]
