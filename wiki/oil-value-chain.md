@@ -1705,3 +1705,83 @@ registered trigger #1 at `:L886`.** This entry is the TRADE consequence; that on
 3. 🚩 **Carried, unchanged and still unfetched:** EIA distillate PRODUCT SUPPLIED · refinery utilisation ·
    the NYMEX HO-vs-CL matched-month crack series 2022→date that settles the "record" question (`:L1642`).
 **Links:** [[demand-destruction]] · [[war/war-board]] · [[europe-energy-crunch]] · [[transmission-chain]]
+
+### 2026-08-19 ~8:20am PDT — ★★★★★★ **BOTH DECISIVE SERIES RESOLVED IN ONE PRINT AND BOTH LAND ON THE POSITION'S SIDE: refinery utilisation 97.2% (no supply headroom left) and distillate product supplied FLAT y/y (demand destruction has not started)** — and the crack's actual delivery-point inventory, PADD-1 ULSD, drew 1.7MM, MORE than the entire national distillate draw
+Source: **EIA WPSR Table 1 + Table 9, week ending 2026-08-14, fetched from PRIMARY** (`ir.eia.gov/wpsr/overview.pdf`)
+→ `raw/2026-08-19-eia-wpsr/`. Jake's paste arrived first and **every figure in it reconciles to EIA exactly**;
+the primary pull adds the two series this thread has had registered and unfetched since 8/18.
+**⟲ EXTENDS `:L1572`** (the 8/18 11:30am entry that named the two series). **This is their first reading.**
+
+#### DATA (MEASURED — EIA WPSR, w/e 2026-08-14, released 2026-08-19)
+| series | current | week ago | y/y | note |
+|---|---|---|---|---|
+| **REFINERY UTILISATION** | **97.2%** | 96.2% | 96.6% (2yr: 92.3%) | 4-wk **96.8%** vs 96.3% |
+| Operable capacity | 18,027 kb/d | 18,015 | **18,160 (−133)** | *less capacity than a year ago* |
+| Crude inputs to refineries | 17,395 kb/d | 17,179 | 17,208 | +215 w/w |
+| **DISTILLATE PRODUCT SUPPLIED** | **3,953 kb/d** | 3,458 | **3,967 (−15, −0.4%)** | 4-wk **3,719 vs 3,748 = −0.8%** |
+| Total products supplied | 19,538 | 20,635 | 21,506 (−9.1%) | 4-wk **−2.9%** |
+| — jet | 1,613 | 1,982 | 1,899 | 4-wk **−6.3%** |
+| — gasoline | 8,689 | 8,964 | 8,842 | 4-wk −0.9% |
+| **Distillate STOCKS** | **105.6 MMbbl** | 107.1 | 116.0 (**−9.0%**) | −1.5 w/w |
+| — **ULSD (≤15ppm), national** | **95.7** | 96.4 | 106.7 (**−10.3%**) | **only −0.7 of the −1.5** |
+| — **⭐ ULSD, PADD 1 (NYH — the HO delivery point)** | **21.2** | 22.9 | **26.4 (−19.7%)** | **−1.7 w/w; 2yr ago 33.1 = −35.9%** |
+| Product EXPORTS | 8,276 kb/d | 8,669 | 6,896 | **4-wk +19.5% y/y**; YTD +12.5% |
+- **Computed 5-yr comparable band (nearest week to Aug-14, 2021-25, from EIA WDISTUS1): 112,256–137,814,
+  mean 120,930.** ⇒ **105,619 sits −6,637 BELOW THE FLOOR (−5.91%), −12.66% vs the mean.** **Last week the
+  same computation gave −4.55% below the floor. THE GAP WIDENED.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE ANSWER TO "IS THE VAULT CONFIDENT" IS: THIS IS THE FIRST PRINT WHERE BOTH REGISTERED
+  DISCRIMINATORS RESOLVED, AND BOTH RESOLVED FOR THE POSITION.** `:L1611` set them out: **(1) refinery
+  utilisation — how much supply response is left; (2) distillate product supplied — whether $5.45 is
+  already biting.** ⇒ **(1) 97.2% against a practical ceiling near 98% leaves ~0.8pp ≈ 145 kb/d of
+  headroom, and operable capacity is 133 kb/d SMALLER than a year ago — the supply path to the curve's
+  −42.9% is all but closed. (2) Distillate demand is FLAT y/y (−0.4% on the week, −0.8% on the 4-week) at
+  a $5.45 pump — the demand-destruction tripwire is NOT tripped.** ⇒ **The crack does not normalise while
+  supply is maxed and demand has not cracked. The 60-90 day proposition at `:L1262` survives this print
+  with its two named tests answered rather than assumed.** *(Analysis.)*
+- **★★★★★★ AND THE SINGLE BEST DATUM IS ONE THE PASTE DID NOT CARRY, BECAUSE IT IS THE ONLY INVENTORY THAT
+  PRICES THE CONTRACT: PADD-1 ULSD 21.2 MMbbl, −1.7 ON THE WEEK — LARGER THAN THE ENTIRE NATIONAL
+  DISTILLATE DRAW OF −1.5.** ⇒ **Other PADDs BUILT while the New York Harbor delivery region drew hard.**
+  **21.2 vs 26.4 a year ago (−19.7%) and 33.1 two years ago (−35.9%).** ⇒ **My own instrument caveat runs
+  the WRONG WAY here: the headline UNDERSTATES tightness where the HO contract settles, it does not
+  overstate it.** ⚠️ **This is error class 4 caught in the useful direction — but it is still error class
+  4, and it means every past distillate read in this note that used the NATIONAL number was measuring the
+  wrong tank.** *(Analysis.)*
+- **★★★★★ AND THE TRANSMISSION MECHANISM IS MEASURED, NOT INFERRED: US PRODUCT EXPORTS ARE RUNNING +19.5%
+  y/y ON THE FOUR-WEEK AVERAGE (8,221 vs 6,879 kb/d), +12.5% YTD.** ⇒ **This is the physical channel that
+  carries European and Russian product tightness into a US refiner's margin, and it is the leg
+  [[europe-energy-crunch]] and [[demand-destruction]] have been arguing qualitatively.** ⇒ **A refiner
+  running at 97.2% and exporting 20% more product than last year is not a story about US demand at all.**
+  *(Analysis.)*
+
+#### ⚠️ THE DISCONFIRMERS, NAMED — because a print that agrees with the position is where the vault is weakest
+- **⛔ 105.6 IS NOT A 2026 LOW AND MUST NOT BE CALLED ONE. The year's minimum is 100,799 (w/e 2026-05-22)
+  and 7/03 printed 103,619.** **On the vault's own EIA series, distillate stocks have been LOWER twice
+  this year.** *(Error class 1 — a "draw" headline is not a level claim.)*
+- **⚠️⚠️ THE STRONGEST BEAR SIGNAL IN THIS PRINT IS THE AGGREGATE, AND IT IS EASY TO SKIP BECAUSE DISTILLATE
+  IS THE LINE I WAS WATCHING: TOTAL PRODUCTS SUPPLIED −2.9% y/y ON THE FOUR-WEEK, JET −6.3%, PROPANE
+  −17.9%.** ⇒ **Distillate holding FLAT inside a −2.9% aggregate is a thing to WATCH, not to celebrate —
+  if the aggregate softening is real end-demand, distillate follows with a lag rather than being immune.**
+  ⇒ **The demand-destruction mechanism at `:L1603` is intact; the meter simply says it has not started.**
+  ⚠️ **Weekly product-supplied is very noisy; only the 4-week figures above are used here.** *(Analysis.)*
+- **⚠️ AND 97.2% CUTS BOTH WAYS. No headroom is bullish the crack; but it also means the system is making
+  maximum diesel and STILL only drew 1.5MM nationally.** ⇒ **Supply is very nearly keeping up. The read
+  flips hard in the vault's favour only if runs FALL — and autumn turnaround season begins in
+  September-October, inside Jake's window.** 🚩 **That is a forward asymmetry, not a current fact.**
+- **⛔ NOTHING HERE TOUCHES THE 2026-09-01 RUSSIAN PRODUCER EXEMPTION (13 days out), which remains this
+  thread's one dated downside trigger** (`:L1656` this morning, `:L886` since 8/15). **Two supportive
+  series do not retire a scheduled policy loosening.**
+
+#### 📌 REGISTERED
+1. ✅ **CLOSED: refinery utilisation** — 97.2%, open since 8/18 ~11:05am. ✅ **CLOSED: distillate product
+   supplied** — 3,953 kb/d, open since 8/18 ~11:30am. **Both now become WEEKLY TRACKED SERIES, not fetches.**
+2. 🚩🚩🚩 **PADD-1 ULSD STOCKS, WEEKLY — PROMOTED TO THE THREAD'S PRIMARY INVENTORY SERIES.** Baseline
+   **21.2 MMbbl (8/14), 22.9 (8/07), 26.4 (yr ago), 33.1 (2yr ago).** **The national number is the wrong tank.**
+3. 🚩🚩 **DOES DISTILLATE PRODUCT SUPPLIED CONVERGE DOWN TO THE −2.9% AGGREGATE?** **That, not the stock
+   level, is how this position actually loses. Watch the 4-week, not the week.**
+4. 🚩 **Refinery runs into September-October turnaround** — the one path where utilisation FALLS and the
+   draw accelerates. Unfetched: announced autumn turnaround schedule / capacity offline.
+5. ⬜ **Still open, unchanged: the NYMEX HO-vs-CL matched-month crack series 2022→date** (`:L1642`) — and
+   note it should now be read against **PADD-1** ULSD stocks, which is a better-matched pair than national.
+**Links:** [[demand-destruction]] · [[europe-energy-crunch]] · [[war/war-board]] · [[transmission-chain]]

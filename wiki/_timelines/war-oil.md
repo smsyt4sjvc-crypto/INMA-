@@ -1,6 +1,6 @@
 # ⏱ WAR/OIL — merged timeline (the gate)
 
-> **236 dated entries across 3 notes · 2026-03-13 → 2026-08-19 · refreshed 2026-08-19 07:56 PDT**
+> **239 dated entries across 3 notes · 2026-03-13 → 2026-08-19 · refreshed 2026-08-19 08:03 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -229,6 +229,7 @@
 - `2026-08-14` [demand-destruction.md:L3618](../demand-destruction.md) — 2026-08-14 ~5:55pm PDT — ⛔ JAKE IS RIGHT AND MY CAVEAT WAS OVERSTATED: **the US has imported essentially ZERO Russian crude since the March-2022 ban, 
 - `2026-08-14` [oil-value-chain.md:L732](../oil-value-chain.md) — 2026-08-14 ~6:10pm PDT — ⛔ I HANDED JAKE HIS OWN EDGE BACK AS HIS RISK. **The collapsing deferred strip is not the disconfirmer of the thesis — `:L689
 - `2026-08-14` [oil-value-chain.md:L772](../oil-value-chain.md) — DATA (MEASURED — CME/NYMEX settlements, trade date 2026-08-14, unless flagged)
+- `2026-08-14` [oil-value-chain.md:L1670](../oil-value-chain.md) — DATA (MEASURED — EIA WPSR, w/e 2026-08-14, released 2026-08-19)
 - `2026-08-14` [war-board.md:L2645](../war/war-board.md) — DATA (MEASURED — re-read of `raw/windward-daily-hormuz-2026-08-14.txt`)
 - `2026-08-15` [oil-value-chain.md:L764](../oil-value-chain.md) — 2026-08-15 ~12:44am PDT — ⛔⛔⛔ THE TRIGGER I REGISTERED LAST NIGHT HAD ALREADY FIRED FIVE WEEKS EARLIER — **Russia banned diesel exports 2026-07-08** —
 - `2026-08-15` [oil-value-chain.md:L851](../oil-value-chain.md) — 2026-08-15 ~12:57am PDT — ★★★★★★ THE INDEPENDENT CROSS-CHECK EARNS ITS KEEP: it **closes a long-standing registered open item** (the Bloomberg 80,000 
@@ -256,5 +257,7 @@
 - `2026-08-18` [war-board.md:L2819](../war/war-board.md) — 2026-08-18 ~2:00pm PDT — ✅✅✅ **THE WINDWARD LIVE DASHBOARD IS FETCHABLE — RETIRING A STANDING VAULT LIMITATION THAT HAD US RUNNING ON MARCH-VINTAGE DA
 - `2026-08-18` [war-board.md:L2875](../war/war-board.md) — 2026-08-18 ~3:00pm PDT — ⭐⭐⭐ **THE FULL WINDWARD DAILY (90-page PDF) UPDATES THE GULF FLEET SERIES LAST MEASURED 31 JULY: 791 → 971 VESSELS (+22.8%) I
 - `2026-08-19` [demand-destruction.md:L3651](../demand-destruction.md) — 2026-08-19 ~7:55am PDT — ⭐⭐⭐ **RATIONING REACHES MOSCOW AND RUSSIA IS NOW *IMPORTING* PRODUCT — but the shortage is a GASOLINE shortage, and the regio
+- `2026-08-19` [demand-destruction.md:L3713](../demand-destruction.md) — 2026-08-19 ~8:30am PDT — ⛔★★★★★ **THE "BIG CRUDE BUILD" IS AN SPR TRANSFER AND TOTAL US CRUDE ACTUALLY FELL: commercial +4.4 against SPR −5.3 ⇒ −0.9.*
 - `2026-08-19` [oil-value-chain.md:L1611](../oil-value-chain.md) — 2026-08-19 ~8:05am PDT — ⛔⛔ **THE RUSSIAN SHORTAGE IS A *GASOLINE* SHORTAGE, AND THAT CUTS *AGAINST* THE CRACK POSITION TWICE: it is the one product t
+- `2026-08-19` [oil-value-chain.md:L1664](../oil-value-chain.md) — 2026-08-19 ~8:20am PDT — ★★★★★★ **BOTH DECISIVE SERIES RESOLVED IN ONE PRINT AND BOTH LAND ON THE POSITION'S SIDE: refinery utilisation 97.2% (no supp
 - `2026-08-19` [war-board.md:L2757](../war/war-board.md) — 2026-08-19 (UAE time; ~2026-08-18 PDT) — ★★★★★★ **THE UAE HALTS *ALL* TRADE, COMMERCIAL EXCHANGE AND FINANCIAL TRANSACTIONS WITH IRAN. ⛔ THIS INVERTS 

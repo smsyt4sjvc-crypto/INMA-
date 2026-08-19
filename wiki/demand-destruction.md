@@ -3856,3 +3856,67 @@ Librarian gate: WAR/OIL(1)*, no magnitude collision, no prior-statement anchor. 
 3. ⬜ **UFA GROUP NAMEPLATE CAPACITY AND CURRENT RUNS** — folds into the standing open item on aggregate
    Russian refining capacity offline (`:L3761`, still open since 8/14).
 **Links:** [[oil-value-chain]] · [[war/war-board]] · [[europe-energy-crunch]]
+
+### 2026-08-19 ~8:30am PDT — ⛔★★★★★ **THE "BIG CRUDE BUILD" IS AN SPR TRANSFER AND TOTAL US CRUDE ACTUALLY FELL: commercial +4.4 against SPR −5.3 ⇒ −0.9.** ✅ And the absorber's depletion clock, registered 7/29, is still tracking — but ⛔ **−5.3MM is NOT a record weekly draw and this note's own series proves it**
+Source: **EIA WPSR Table 1, w/e 2026-08-14, PRIMARY** (`ir.eia.gov/wpsr/overview.pdf`) → `raw/2026-08-19-eia-wpsr/`.
+Jake's paste (~8:35am) reconciles to EIA line-for-line. **⟲ EXTENDS `:L2399`** (the 7/29 entry that put a
+date on the absorber). The crack consequences are filed separately at [[oil-value-chain]]`:L1709`.
+
+#### DATA (MEASURED — EIA WPSR Table 1, million bbl unless noted)
+| | current 8/14/26 | week ago | Δ | year ago 8/15/25 | Δ y/y |
+|---|---|---|---|---|---|
+| **CRUDE, TOTAL (comm + SPR)** | **722.2** | 723.1 | **−0.9** | 824.1 | **−101.9 (−12.4%)** |
+| Commercial ex-SPR | **428.8** | 424.4 | **+4.4** | 420.7 | **+8.1 (+1.9%)** |
+| **SPR** | **293.4** | 298.7 | **−5.3 (−1.8%)** | 403.4 | **−110.0 (−27.3%)** |
+| Motor gasoline | 209.4 | 208.7 | +0.7 | 223.6 | −14.2 (−6.3%) |
+| Distillate | 105.6 | 107.1 | −1.5 | 116.0 | −10.4 (−9.0%) |
+- **FLOWS (kb/d):** production **13,830** (+25 w/w; **+448 y/y = +3.3%**; 4-wk +3.6%) · crude **exports 4,066**
+  (+1,008 w/w; **YTD +12.1% y/y**) · crude imports 6,593 (−746) · **transfers to crude supply 886 vs 223** ·
+  **adjustment 29 (week ago: 486)** · SPR stock change **−753 kb/d** vs total crude stock change **−123 kb/d**.
+- **THE SPR WEEKLY DRAW SERIES, FROM EIA WCSSTUS1 (this note's own file, `raw/2026-08-19-eia-wpsr/`):**
+  **−5,057 (7/17) · −3,797 (7/24) · −2,841 (7/31) · −6,115 (8/07) · −5,300 (8/14).** 5-week mean **−4,622/wk.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE HEADLINE IS BACKWARDS AND THE ARITHMETIC IS EIA'S OWN, NOT MINE: A +4.405MM COMMERCIAL BUILD
+  AGAINST CONSENSUS OF +200K READS AS A 22× LOOSENING — BUT EIA PRINTS TOTAL CRUDE AT 722.2 vs 723.1, i.e.
+  **DOWN 0.9MM.** The commercial pocket filled because the strategic pocket emptied by MORE than it filled.**
+  ⇒ **Stated as an accounting fact rather than a counterfactual: the week's US crude balance was NEGATIVE,
+  and the "build" is a change in WHICH TANK holds the barrels.** ⇒ **This is the absorber this note found on
+  7/28 (`:L2270`) still absorbing, now visible inside a single week's table.** *(Analysis.)*
+- **⛔⛔ AND THE "RECORD DRAIN" LABEL DOES NOT SURVIVE THIS NOTE'S OWN SERIES, WHICH IS ERROR CLASS 1 AND THE
+  ONE THIS FILE HAS ALREADY PAID FOR ONCE. −5.3MM IS NOT A RECORD WEEKLY DRAW: −6,115 PRINTED LAST WEEK AND
+  −5,057 ON 7/17.** ⇒ **This week's draw was SLOWER than last week's.** ⇒ **What IS at a record is the
+  LEVEL — 293.4MM, a 43-year low, −27.3% y/y, below 300M for the first time since Jan-1983 (`:L3690`).**
+  ⇒ **"Record drain continues" conflates a level record with a rate record. Carry the level; drop the rate.**
+  ⚠️ **Update the vault's carried y/y from −26% to −27.3%.** *(Analysis.)*
+- **✅★★★★ THE 7/29 DEPLETION CLOCK IS BEING GRADED AND IT IS TRACKING.** That entry registered **"250M in
+  ~11.4 weeks (~mid-October)"** off 307.65M at 722 kb/d. **Today: 293.4M, 43.4M to the 250M line, at the
+  5-week mean of 4,622/wk ⇒ 9.4 weeks ⇒ ~2026-10-24.** ⇒ **Roughly nine days later than the registered
+  marker — the call is holding, marginally slow.** ⚠️ **250M remains a CHOSEN reference, not a statutory
+  floor; the binding constraint is minimum operating inventory, which is lower and disputed. Nothing about
+  that caveat has changed.** *(Analysis. Rule: grade the call on the date, not on the vibe.)*
+- **★★★★★ AND THE Y/Y DECOMPOSITION IS THE CLEANEST STATEMENT OF WHAT THE US ACTUALLY DID THIS YEAR:
+  TOTAL CRUDE −101.9MM (−12.4%) IS **−110.0 SPR** AND **+8.1 COMMERCIAL.*** ⇒ **The commercial system is
+  slightly BETTER stocked than a year ago. The entire national drawdown is the strategic reserve.**
+  ⇒ **The country spent the buffer to hold commercial inventories flat.** ⇒ **This is why the crude leg of
+  the refiner trade keeps testing as ABSORBED (`:L3778`) while the strategic picture looks alarming — both
+  are true, of different tanks, and merging them is how this note got a 100× error in the first place.**
+  *(Analysis.)*
+- **✅ THE 8/14 CRUDE-SIDE TEST IS ANSWERED: `:L3794` asked whether BRENT moves on the Sheskharis outage.
+  Commercial crude has built +21.8MM over two weeks (+17.4 then +4.4) WHILE crude exports ran +1,008 kb/d
+  higher and net imports fell 1,754 kb/d.** ⇒ **A crude market that builds into rising exports and falling
+  imports is loose, and the Black Sea outage is absorbed.** ⚠️ **DISCOUNT ONE-FIFTH OF LAST WEEK'S BUILD:
+  the adjustment line ran +486 kb/d (≈+3.4MM/wk) that week versus +29 this week — a balancing plug, not
+  barrels.** ⇒ **~14MM of real build in the prior week is still loose. The conclusion holds on the smaller
+  number.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. ✅ **CLOSED: the 8/14 crude-leg test** (`:L3794`) — crude absorbed, on two weeks of builds into rising
+   exports. **Do not re-argue the crude leg of the refiner trade without new evidence.**
+2. 🚩🚩 **THE SPR CLOCK, WEEKLY.** **293.4M · 5-wk mean draw 4,622 kb/wk · 250M ≈ 2026-10-24.** **The tell
+   registered on 7/29 is unchanged: watch for the week the draw STOPS.** A halt is the policy signal.
+3. 🚩 **US GASOLINE STOCKS −6.3% y/y (209.4 vs 223.6)** while Russia rations gasoline nationwide
+   (`:L3798`). ⬜ **Not yet tested whether these connect through the export channel or are independent.**
+4. ⬜ **Minimum operating inventory for the SPR** — still not in the vault, and it is the number that
+   turns the 250M reference into a real floor. Open since 7/29.
+**Links:** [[oil-value-chain]] · [[war/war-board]] · [[europe-energy-crunch]] · [[market-fragility]]
