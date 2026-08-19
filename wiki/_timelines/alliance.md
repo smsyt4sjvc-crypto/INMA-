@@ -1,6 +1,6 @@
 # ⏱ ALLIANCE — merged timeline (the gate)
 
-> **239 dated entries across 3 notes · 2026-03-13 → 2026-08-19 · refreshed 2026-08-19 08:03 PDT**
+> **240 dated entries across 3 notes · 2026-03-13 → 2026-08-19 · refreshed 2026-08-19 08:09 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -258,6 +258,7 @@
 - `2026-08-18` [war-board.md:L2875](../war/war-board.md) — 2026-08-18 ~3:00pm PDT — ⭐⭐⭐ **THE FULL WINDWARD DAILY (90-page PDF) UPDATES THE GULF FLEET SERIES LAST MEASURED 31 JULY: 791 → 971 VESSELS (+22.8%) I
 - `2026-08-19` [demand-destruction.md:L3651](../demand-destruction.md) — 2026-08-19 ~7:55am PDT — ⭐⭐⭐ **RATIONING REACHES MOSCOW AND RUSSIA IS NOW *IMPORTING* PRODUCT — but the shortage is a GASOLINE shortage, and the regio
 - `2026-08-19` [demand-destruction.md:L3713](../demand-destruction.md) — 2026-08-19 ~8:30am PDT — ⛔★★★★★ **THE "BIG CRUDE BUILD" IS AN SPR TRANSFER AND TOTAL US CRUDE ACTUALLY FELL: commercial +4.4 against SPR −5.3 ⇒ −0.9.*
+- `2026-08-19` [demand-destruction.md:L3777](../demand-destruction.md) — 2026-08-19 ~9:25am PDT — ★★★★★★ **JAKE'S CRUDE-vs-CAPACITY SEPARATION RECONCILES TWO FINDINGS THIS NOTE HAS BEEN CARRYING SIDE BY SIDE WITHOUT JOINING
 - `2026-08-19` [oil-value-chain.md:L1611](../oil-value-chain.md) — 2026-08-19 ~8:05am PDT — ⛔⛔ **THE RUSSIAN SHORTAGE IS A *GASOLINE* SHORTAGE, AND THAT CUTS *AGAINST* THE CRACK POSITION TWICE: it is the one product t
 - `2026-08-19` [oil-value-chain.md:L1664](../oil-value-chain.md) — 2026-08-19 ~8:20am PDT — ★★★★★★ **BOTH DECISIVE SERIES RESOLVED IN ONE PRINT AND BOTH LAND ON THE POSITION'S SIDE: refinery utilisation 97.2% (no supp
 - `2026-08-19` [war-board.md:L2757](../war/war-board.md) — 2026-08-19 (UAE time; ~2026-08-18 PDT) — ★★★★★★ **THE UAE HALTS *ALL* TRADE, COMMERCIAL EXCHANGE AND FINANCIAL TRANSACTIONS WITH IRAN. ⛔ THIS INVERTS 

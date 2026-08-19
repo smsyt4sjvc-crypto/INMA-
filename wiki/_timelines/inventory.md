@@ -1,6 +1,6 @@
 # ⏱ INVENTORY — merged timeline (the gate)
 
-> **133 dated entries across 1 notes · 2026-03-13 → 2026-08-19 · refreshed 2026-08-19 08:03 PDT**
+> **134 dated entries across 1 notes · 2026-03-13 → 2026-08-19 · refreshed 2026-08-19 08:09 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -155,3 +155,4 @@
 - `2026-08-14` [demand-destruction.md:L3618](../demand-destruction.md) — 2026-08-14 ~5:55pm PDT — ⛔ JAKE IS RIGHT AND MY CAVEAT WAS OVERSTATED: **the US has imported essentially ZERO Russian crude since the March-2022 ban, 
 - `2026-08-19` [demand-destruction.md:L3651](../demand-destruction.md) — 2026-08-19 ~7:55am PDT — ⭐⭐⭐ **RATIONING REACHES MOSCOW AND RUSSIA IS NOW *IMPORTING* PRODUCT — but the shortage is a GASOLINE shortage, and the regio
 - `2026-08-19` [demand-destruction.md:L3713](../demand-destruction.md) — 2026-08-19 ~8:30am PDT — ⛔★★★★★ **THE "BIG CRUDE BUILD" IS AN SPR TRANSFER AND TOTAL US CRUDE ACTUALLY FELL: commercial +4.4 against SPR −5.3 ⇒ −0.9.*
+- `2026-08-19` [demand-destruction.md:L3777](../demand-destruction.md) — 2026-08-19 ~9:25am PDT — ★★★★★★ **JAKE'S CRUDE-vs-CAPACITY SEPARATION RECONCILES TWO FINDINGS THIS NOTE HAS BEEN CARRYING SIDE BY SIDE WITHOUT JOINING

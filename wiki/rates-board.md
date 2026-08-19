@@ -295,3 +295,68 @@ after) → `raw/2026-08-19-acute-scanner-validation-brief.txt`. Corroboration ci
   headline: *"sector compression, not generalized liquidation."*** 🚩 **Gold above $4,500 with long
   yields FALLING is a real-rate move; the vault has no gold instrument and this is the second time
   gold has carried information it could not place.**
+
+### 2026-08-19 ~9:15am PDT — ★★★★★★ **THE SHAPE SETTLES THE ATTRIBUTION AND MY 7:03am CAVEAT WAS TOO WEAK: 5Y −2bp · 10Y −6bp · 30Y −9bp IS A MONOTONIC BULL FLATTENING. A growth scare rallies the FRONT end hardest. This is a term-premium move, which is the buyback's own signature.** ⛔ And a direct answer to Jake's question: **the refiners are RED on it**
+Source: Jake's paste (*"30-YEAR TREASURY YIELD FALLS 10 BASIS POINTS ON DAY TO 5.18%"*, tag: **"Not QE"**),
+2026-08-19 ~9:10am PDT → `raw/2026-08-19-30y-rally/`. **Verified against PRIMARY (Treasury par, `tsy0826.csv`)
+and against the live tape** (`tools/tape.py`, close ARRAY not `meta.chartPreviousClose`).
+**⟲ EXTENDS `:L204` (the 7:00am buyback entry) and `:L265` (the 7:03am scanner-validation entry).**
+
+#### DATA (MEASURED — Treasury par close 8/18 + live tape 8/19 ~9:12am PDT)
+| tenor | 8/18 close (Treasury par) | live 8/19 | Δ |
+|---|---|---|---|
+| 5Y | 4.37 | **4.35** | **−2bp** |
+| 10Y | 4.71 | **4.65** | **−6bp** |
+| **30Y** | **5.28** | **5.19** | **−9bp** |
+- **Jake's print is 5.18%; the live tape reads 5.19%.** ⚠️ **Both intraday, ~1bp apart — UNSETTLED until
+  Treasury posts the par close ~3pm ET. Do not file either as the close.**
+- **⭐ THE AUGUST 30Y RANGE, FROM TREASURY PRIMARY: 5.17 (8/05) → 5.31 (8/17). FOURTEEN BASIS POINTS, ALL MONTH.**
+  8/03 5.23 · 8/04 5.18 · **8/05 5.17** · 8/06 5.22 · 8/07 5.19 · 8/10 5.25 · 8/11 5.24 · 8/12 5.24 ·
+  8/13 5.21 · 8/14 5.25 · **8/17 5.31** · 8/18 5.28.
+- **REFINERS, live 8/19: VLO −0.42% · PSX −0.05% · MPC −0.50% · PBF −0.75%.** **TLT +1.58%.**
+- ⚠️ **2YY=F READ 3.96 AGAINST A CASH 2Y OF 4.19 (8/18) — a 23bp gap. THAT IS AN INSTRUMENT MISMATCH
+  (error class 4), NOT A MOVE.** **The 2-year yield FUTURE is not the cash 2Y.** ⬜ **Cash 2Y for today is
+  not available until Treasury posts; the 5Y is used as the front-end proxy below and that is stated.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE TERM STRUCTURE OF THE MOVE IS FAR STRONGER EVIDENCE THAN THE SAME-DAY CO-MOVEMENT I RELIED
+  ON AT 7:03am, AND IT POINTS THE SAME WAY. −2 / −6 / −9 RISING MONOTONICALLY WITH MATURITY IS A LONG-END
+  MOVE.** ⇒ **A GROWTH SCARE PRICES FED CUTS AND RALLIES THE FRONT END HARDEST — the 5Y would lead, not
+  lag by 7bp.** ⇒ **A DURATION-SUPPLY REPRICING MOVES THE END WHERE THE SUPPLY IS. Treasury announced
+  doubled buybacks in the 10-20Y and 20-30Y buckets this morning; the curve moved in the 10-20Y and 20-30Y
+  buckets.** ⇒ **The two hypotheses predict OPPOSITE shapes and the tape delivered the buyback shape.**
+  ⇒ **★★★ THIS IS A STRONGER CONFIRMATION OF THE 7:00am REGISTERED TEST THAN THE ONE I FILED AT 7:03am,
+  AND IT UPGRADES THAT ENTRY'S OWN CAVEAT: the memory-shock/haven-bid alternative predicted a front-end
+  rally and did not get one.** *(Analysis.)*
+- **✓ AND JAKE'S "NOT QE" TAG IS THE BOARD'S OWN CONCLUSION, NOT A NEW CLAIM — `:L204` FILED IT AS CASH-
+  NEUTRAL THIS MORNING: a duration swap, not new demand.** ⇒ **Which is exactly why the SHAPE matters: a
+  cash-neutral operation that still moves the long end is evidence the long end is priced by EXPECTED
+  DURATION SUPPLY rather than by money. That is the four-route conclusion, and it is now shape-confirmed.**
+  *(Analysis. Standing conclusion, not re-argued.)*
+- **⛔⛔ AND THE 8/18 "HIGHEST SINCE 2007 / BEAR STEEPENING" FRAME IS NOW THIRTEEN BASIS POINTS STALE AND
+  MUST NOT BE CARRIED FORWARD UNQUALIFIED. On Treasury's own series the 30Y has traded a 14bp RANGE all
+  month, 5.17-5.31. Today's 5.19 is TWO BASIS POINTS ABOVE THE AUGUST LOW and one basis point above where
+  it closed on 8/04.** ⇒ **The entire 8/05→8/17 rise has round-tripped in two sessions.** ⇒ **"Highest
+  since 2007" describes the LEVEL OF THE RANGE — a real and important fact — NOT a trend, and this board
+  spent 8/18 building an episode study precisely because the trend claim was the weak one (`:L154`: 17
+  episodes since 1990, 18% follow-through, not 4 and 75%).** *(Analysis. Error class 2 — stale reference.)*
+- **⛔★★★★★ DIRECT ANSWER TO "BULLISH REFINED PRODUCTS / REFINERY MARGINS?" — NO, AND THE TAPE SAYS SO
+  TODAY. VLO −0.42%, PSX −0.05%, MPC −0.50%, PBF −0.75%, ALL RED ON A −9bp LONG-END DAY.** ⇒ **Two
+  separate reasons, and the vault already runs on both:** **(1) THE CRACK IS A PHYSICAL SPREAD. A 30Y
+  yield is not an input to HO×42 − WTI. The rates channel touches refiner EQUITY multiples, not the
+  margin — and `oil-value-chain` has kept crack and refiner-equity as different instruments all month.**
+  **(2) THE SIGN OF THE EQUITY CHANNEL DEPENDS ENTIRELY ON *WHY* YIELDS FELL: a growth scare lowers the
+  discount rate AND destroys distillate demand — net bearish; a supply/technical move lowers the discount
+  rate and leaves demand alone — mildly bullish.** ⇒ **Today's SHAPE says technical, which is the
+  favourable case, and the refiners still did not bid.** ⇒ **File that as a small negative datum on
+  refiner equity, not on the crack.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **THE CASH 2Y AND 2s30s AT TODAY'S CLOSE.** **8/17 112bp → 8/18 109bp → today ≈101bp using the 5Y
+   as proxy.** **If the cash 2Y confirms, this board recorded a BEAR STEEPENING on 8/18 and a BULL
+   FLATTENING within two sessions — and `tools/curve.py` should be re-run on the updated series.**
+2. 🚩🚩 **DOES THE FLATTENING HOLD INTO 9/9?** `:L246` registered both branches. **The announcement effect is
+   now shape-confirmed; the FLOW effect is still untested and the operation dates are the clean test.**
+3. 🚩 **REFINER EQUITY vs THE CRACK, ROLLING CORRELATION** — carried from `oil-value-chain`, still unfetched,
+   and today is a clean observation for it: crack-supportive EIA print + long-end rally + refiners red.
+**Links:** [[market-fragility]] · [[oil-value-chain]] · [[transmission-chain]] · [[new-economy-regime]]
