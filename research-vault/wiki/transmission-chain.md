@@ -22,6 +22,13 @@ Related: every stage note below · [[market-fragility]] · [[portfolio-state]] �
 | **4** | **Hyperscaler capex commitments** | does the spending plan change? | capex guides, off-balance-sheet commitments, useful life, project phases | [[ai-capex-cycle]] · [[cepi]] | **Not yet cut. $3T off-B/S commitments; META make-whole with ZERO liability booked. INTACT — so far.** |
 | **5** | **AI supplier orders** | does the revenue actually arrive at the sellers? | NVDA DC revenue, memory contracts, backlog, order intake | [[metered-compute]] · [[memory-regime-question]] · [[compression-thesis]] · [[etched-inference-challenger]] | **NVDA DC +92% vs cloud +40-48%. STILL ACCELERATING.** |
 
+## ⟲ THE CHAIN IS A LOOP, NOT A LADDER (added 2026-08-19 from the FOMC minutes, `:L162`)
+**4 → 1 FEEDBACK ARROW.** The FOMC's own staff attributes part of higher core inflation to **"the surge in
+demand related to the AI buildout,"** naming **chips, steel, computer equipment and ELECTRICITY**.
+⇒ **Stage 4 is an INPUT to the inflation that sets stage 1.** ⇒ **The buildout finances itself into a
+tighter policy stance, which raises its own cost of capital back at stages 2-3.** **Read every stage-1
+print asking how much of the inflation is stage-4's own.**
+
 ## ⛔ AMENDMENT 2026-08-18 — STAGE 3 "RATIONING" NEEDS A QUALIFIER
 **Etched raised $700M at +104% in 26 DAYS** ([[etched-inference-challenger]]) while this table calls
 stage 3 **RATIONING**. ⇒ **Both are true because they are different markets: rationing describes DEBT
@@ -151,3 +158,94 @@ REPORTED. Most are checkable in 8-Ks and PUC dockets; that is the fetch, and it 
    vs private credit/ABS?** **If the regulated share is large, "RATIONING" is a channel finding, not a
    system finding, and the chain's headline needs restating.**
 **Links:** [[power-scarcity-equities]] · [[power-not-petroleum]] · [[ai-capex-cycle]] · [[ai-financing-fragility]] · [[buildout-bottleneck-map]]
+
+## ⭐⭐⭐⭐⭐⭐ 2026-08-19 ~1:05pm PDT — **THE FOMC INDEPENDENTLY DESCRIBES STAGES 2, 3 AND 4 OF THIS CHAIN, IN ITS OWN MINUTES, IN THE SAME ORDER — and it adds a stage-1 feedback loop this chain does not have: THE AI BUILDOUT AS A SOURCE OF THE INFLATION THAT WOULD FORCE THE HIKE**
+Source: **FOMC minutes, July 28-29 2026, released 2026-08-19 — FETCHED FROM federalreserve.gov PRIMARY**
+→ `raw/2026-08-19-fomc-minutes/`. Policy/rates half filed at [[rates-board]]`:L364`.
+**This is the strongest corroboration this chain has ever received, and it did not come from a market
+commentator — it came from the institution that sets stage 1.**
+
+### THE CHAIN, IN THE FOMC'S OWN WORDS (all verbatim)
+- **STAGE 2 — hyperscaler credit:** *"**Credit spreads for hyperscaler firms widened further relative to
+  those for investment-grade bond issuers.**"* ⇒ **The vault's stage-2 state is "NVDA 5Y CDS ~40 → 80.33bp,
+  DOUBLED, TIGHTENING." The Fed's Desk reports the same direction on a different instrument (cash spreads
+  vs IG). ⇒ TWO ORIGINS, ONE FINDING.**
+- **STAGE 3 — funding appetite:** *"**A few participants highlighted the increased degree to which capital
+  spending in the AI sector was being financed by BORROWING, including credit provided by NONBANK INVESTORS
+  OR REGIONAL BANKS.**"* · *"In commenting on the private credit sector, a couple of participants noted that
+  **activity had SLOWED recently** and that developments in private credit **warranted close monitoring**."*
+  · **AND A HARD NUMBER THIS VAULT DID NOT HAVE:** *"recent data confirmed that **redemption requests to
+  business development companies continued to increase in the second quarter**."*
+  ⇒ **The vault's stage-3 state is "RATIONING." The Fed says activity slowed and BDC redemptions rose. ✓**
+- **STAGE 4 — capex commitments:** *"Consumer spending had firmed, and **the AI buildout continued to
+  support business investment**."* · equity prices for **AI-related infrastructure outperformed both the
+  S&P 500 and the hyperscalers**, though *"appreciation of even those firms had **stalled** over the
+  intermeeting period."* ⇒ **The vault's stage-4 state is "Not yet cut. INTACT — so far." ✓ And "stalled"
+  is the first crack, dated to the intermeeting window.**
+- **THE FRAGILITY MECHANISM, STATED BY THE COMMITTEE:** *"**Several participants discussed, as a downside
+  risk, the possibility that AI developments could disappoint, leading to a significant repricing of
+  stocks, with consequent negative effects on consumer spending.**"* · *"…the risk that major downward
+  revisions to those assessments might lead to a **broad-based repricing of assets, generate tighter
+  financial conditions, and create strains in financial institutions directly or indirectly exposed to the
+  sector**."*
+
+### ⇒ THE NEW EDGE: STAGE 4 FEEDS BACK INTO STAGE 1
+- **THE STAFF'S OWN INFLATION ATTRIBUTION NAMES IT:** higher total and core inflation attributed to
+  *"the effects of past tariff increases, higher energy and input costs stemming from the conflict in the
+  Middle East, **and the surge in demand related to the AI buildout**."* **Core GOODS inflation up,
+  *"largely attributable to the effects of tariffs **and AI-related price pressures**."***
+- *"Some participants observed that **materials for data centers, such as CHIPS AND STEEL, had registered
+  large price increases** and that consumer items such as **smartphones, computer equipment, software, and
+  ELECTRICITY** had also been subject to price pressures."*
+- **⚠️ AND THE COMMITTEE IS SPLIT ON THE MAGNITUDE, WHICH IS THE HONEST STATE:** *"**Several participants**
+  assessed that the effects of the AI buildout on consumer prices had so far been **limited to select
+  categories**. However, **several other participants** viewed investment in AI as **already having broader
+  effects on prices by pushing up aggregate demand**."* **A few said it is *"still too early to know if
+  AI-related developments would mainly lead to a shift in RELATIVE PRICES"* or something broader.**
+
+### THESIS (interpretation — NOT fact)
+- **★★★★★★★ THIS CHAIN WAS DRAWN AS A ONE-WAY CASCADE — RATES CAUSE EVERYTHING DOWNSTREAM. THE MINUTES
+  CLOSE THE LOOP: STAGE 4 IS AN INPUT TO THE INFLATION THAT DETERMINES STAGE 1.** ⇒ **If the AI buildout
+  is pushing up core goods prices (chips, steel) and electricity, then AI capex is not merely a VICTIM of
+  higher rates — it is one of the REASONS rates stay high.** ⇒ **⭐ THAT IS A SELF-LIMITING MECHANISM AND
+  IT IS THE MOST IMPORTANT STRUCTURAL THING THIS CHAIN HAS LEARNED: the buildout finances itself into a
+  tighter policy stance, which raises its own cost of capital at stage 2 and 3.** ⇒ **The chain is a LOOP,
+  not a ladder, and every stage-1 reading from here must ask how much of the inflation is stage-4's own.**
+  *(Analysis. Amending the chain's causal structure, not one of its readings.)*
+- **★★★★★ AND THE ELECTRICITY LINE JOINS THIS MORNING'S OTHER FILING, WHICH IS NOT A COINCIDENCE.**
+  **Three hours ago I filed stage 4b — the power counterparty — off Jake's data-centre power research
+  ([[power-scarcity-equities]]`:L149`). The FOMC names ELECTRICITY as a price under pressure.**
+  ⇒ **The utility ESAs and PPAs at stage 4b are the mechanism by which AI load bids up a price that sits
+  inside core CPI.** ⇒ **Stage 4b is therefore not just a credit node — it is the physical transmission
+  from AI capex into consumer inflation, which is to say into stage 1.** *(Analysis.)*
+- **⛔⛔ AND THE 8/18 STAGE-3 QUALIFIER NEEDS A THIRD AMENDMENT, BECAUSE THE FED NAMES A LENDER CLASS THIS
+  CHAIN NEVER LISTED: REGIONAL BANKS.** **Stage 3's instruments are "deal placement, SPV/ABS terms, RVGs,
+  insurance/Bermuda bid" — all nonbank.** ⇒ **"Credit provided by nonbank investors OR REGIONAL BANKS" puts
+  a REGULATED, DEPOSIT-FUNDED, EXAMINED lender in the stack — a completely different failure mode, with a
+  supervisor and a public call report.** ⇒ **🚩 That is also the most FETCHABLE leg in the whole chain and
+  the vault has never pulled it.** *(Analysis. Second stage-3 blind spot found today; see also the
+  regulated-rate-base channel at `:L71`.)*
+- **★★★★ THE BDC REDEMPTION DATUM IS THE HARDEST NEW NUMBER AND IT IS THE ONE TO SERIALISE: *"redemption
+  requests to business development companies CONTINUED TO INCREASE in the second quarter."*** ⇒ **A
+  quantity, a direction, a period, and a repeat ("continued") — that is a series, not an anecdote.**
+  ⇒ **Rising BDC redemptions are stage 3 losing its funding base from the LIABILITY side, which is
+  different from and worse than deals repricing.** 🚩 *(Analysis.)*
+- **⚠️ AND THE DISCIPLINE, BECAUSE A DOCUMENT THAT AGREES WITH THE VAULT IS WHERE THE VAULT IS WEAKEST:
+  THE FOMC IS NOT AN INDEPENDENT OBSERVER OF THE SAME FACTS — IT READS THE SAME PRESS AND THE SAME SPREAD
+  SCREENS THIS VAULT DOES.** ⇒ **Corroboration on INTERPRETATION is worth far less than corroboration on
+  MEASUREMENT.** ⇒ **What genuinely adds information here is the Fed's PRIVILEGED data: BDC redemptions,
+  the Desk survey, the regional-bank exposure — not the parts where the Committee agrees the AI trade
+  looks stretched.** *(Analysis.)*
+
+### 📌 REGISTERED
+1. 🚩🚩🚩 **REGIONAL-BANK EXPOSURE TO AI/DATA-CENTRE LENDING.** ⬜ **Never fetched. Call-report and 10-Q
+   CRE/C&I concentration data is public. The Fed named it; the vault has nothing.** **Highest-value new
+   fetch on the board.**
+2. 🚩🚩🚩 **BDC REDEMPTION REQUESTS, QUARTERLY — build the series.** Baseline: *"continued to increase in
+   the second quarter"* (FOMC, July 2026). **The liability side of stage 3.**
+3. 🚩🚩 **DECOMPOSE HOW MUCH OF CORE-GOODS INFLATION IS AI-ATTRIBUTABLE** — chips, steel, computer
+   equipment, electricity. **The Committee is SPLIT on this; a decomposition would settle a live FOMC
+   disagreement and it is the loop's own magnitude.**
+4. 🚩 **AMEND THE CHAIN TABLE ITSELF** to show the 4→1 feedback arrow, so the loop is visible in the spine
+   and not only in this amendment.
+**Links:** [[rates-board]] · [[ai-financing-fragility]] · [[ai-capex-cycle]] · [[power-scarcity-equities]] · [[market-fragility]]
