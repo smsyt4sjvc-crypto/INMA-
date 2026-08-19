@@ -4069,3 +4069,71 @@ PRIMARY** (`census.gov/construction/c30/xlsx/privsa.xlsx`, June-2026 preliminary
 3. 🚩 **CENSUS C30 MONTHLY — add to the routine.** Data centre is now a broken-out line and it is the
    cleanest public monthly read on stage-4 physical spend.
 **Links:** [[ai-capex-cycle]] · [[rates-board]] · [[transmission-chain]] · [[market-fragility]]
+
+### 2026-08-19 ~1:40pm PDT — ✅★★★★★ **JAKE HAS RE-DERIVED THIS NOTE'S OWN `:L2280` FINDING FROM FIRST PRINCIPLES: A RATE CUT IS CASH-NEUTRAL TOO. THE FED SETS THE *PRICE* OF MONEY; BANKS AND BORROWERS SET THE *QUANTITY*.** ⛔ And it forces a correction to my own "Not QE" framing from this morning — **right on the money leg, OVERSTATED on the duration leg**
+Source: Jake's question, chat 2026-08-19 ~1:35pm PDT: *"when the Fed cuts rates isn't that cash neutral too…
+they're not literally printing cash and injecting it right, but that always causes inflation… more money
+into circulation because it's more available if the rates are lower."*
+**⟲ EXTENDS `:L2280`** (the M2-decomposition entry) and corrects [[rates-board]]`:L204`.
+
+#### ✓ HE IS RIGHT, AND THE PLUMBING CONFIRMS IT
+- **A FED RATE CUT INVOLVES NO ASSET PURCHASE AND CREATES NO BASE MONEY.** In an AMPLE-RESERVES regime the
+  Fed administers the rate with **IORB** and the **ON RRP** floor — it changes two administered rates and
+  the market follows. **⭐ THE JULY MINUTES REAFFIRM THE REGIME IN WORDS: the Committee "reaffirmed the
+  FOMC's policy of maintaining AMPLE RESERVES in the banking system"** (`raw/2026-08-19-fomc-minutes/`).
+  ⇒ **No open-market operation is needed to move the funds rate. A cut is literally a repricing, not an
+  injection.** ⇒ **His premise is correct.**
+- **⭐⭐ AND HIS EXPLANATION FOR WHY IT IS STILL INFLATIONARY IS THE RIGHT ONE: BANKS CREATE DEPOSITS WHEN
+  THEY LEND. That deposit IS new money in circulation, and it is created by the PRIVATE banking system,
+  not by the Fed.** ⇒ **Lower policy rate → more loans clear the hurdle → more deposits → more spending.**
+  ⇒ **THE FED SETS THE PRICE; THE PRIVATE SECTOR SETS THE QUANTITY.**
+- **✅ AND THIS VAULT ALREADY MEASURED IT — HE ARRIVED AT A STANDING CONCLUSION INDEPENDENTLY.** `:L2280`:
+  **M2 = Fed + bank credit + fiscal.** **Fed balance sheet $6.66T → $6.74T = +1.2% in a year, while M2 hit
+  a record $23.05T, +5.6% y/y.** ⇒ ***"The money growth is NOT the Fed's."*** **Two independent routes to
+  one finding.** *(Analysis.)*
+
+#### ⇒ THEN WHAT MAKES THE BUYBACK DIFFERENT FROM A CUT? THREE THINGS, AND ONLY THE THIRD IS DECISIVE
+1. **A CUT MOVES THE ANCHOR; THE BUYBACK MOVES ONLY THE TERM PREMIUM.** **Any yield ≈ expected policy path
+   + term premium.** **A cut lowers the EXPECTED PATH and therefore repricess the whole curve, including
+   the short and intermediate rates that actually govern borrowing.** **A buyback leaves the expected path
+   untouched and compresses only the duration compensation at the long end.**
+2. **MAGNITUDE.** **A 25bp cut re-anchors the entire dollar credit structure. The buyback is ~$28B against
+   $360B of one month's coupon supply = 7.8%** ([[rates-board]]`:L217`).
+3. **★★★★★★ A CUT CANNOT BE OFFSET BY THE FED, BECAUSE IT *IS* THE FED. A BUYBACK CAN BE — AND THE MINUTES
+   SAY THE FED WANTS CONDITIONS TIGHTER** (*"financial conditions might not currently be sufficiently
+   restrictive"*). ⇒ **That is the whole difference in one line: a cut is the reaction function moving; a
+   buyback is something the reaction function reacts TO.**
+
+#### ⛔ THE CORRECTION TO MY OWN FRAMING — "NOT QE" IS HALF RIGHT AND I STATED IT AS FULLY RIGHT
+- **QE = buy long bonds, pay with newly created RESERVES. TREASURY BUYBACK = buy long bonds, pay by issuing
+  BILLS.** ⇒ **THE DURATION LEG IS IDENTICAL. Both remove duration from private hands and compress the term
+  premium — and the post-2008 literature attributes most of QE's yield effect to PORTFOLIO BALANCE, not to
+  reserve creation.** ⇒ **⛔ SO THE BUYBACK DOES A MEANINGFUL SHARE OF WHAT QE DOES. What it does NOT do is
+  create reserves.** ⚠️ **And bills are NEAR-MONEY — the highest-quality liquid collateral there is — so
+  even the funding leg is closer to reserves than "not QE" implies.**
+- ⇒ **RESTATED HONESTLY: "NOT QE" IS CORRECT ON THE MONEY LEG AND OVERSTATED ON THE DURATION LEG. The
+  accurate sentence is: *a cash-neutral operation that works through the same portfolio-balance channel QE
+  works through, at ~8% of one month's supply, into a Fed that wants conditions tight.***
+  ⇒ **That is a smaller claim than "QE" and a larger one than "not QE," and Jake's push is what produced
+  it.** *(Analysis. Correcting the strength of this morning's framing, not its direction.)*
+
+#### ⚠️ AND ONE CALIBRATION AGAINST "THAT ALWAYS CAUSES INFLATION" — because the counterexamples are large
+- **2008-2015: ZIRP PLUS multiple rounds of actual QE, and US core inflation ran BELOW the 2% target for
+  most of a decade. Japan: policy at or near zero for roughly 25 years, with deflation.**
+- ⇒ **RATE CUTS ARE INFLATIONARY *CONDITIONALLY*: they require willing BORROWERS and slack to absorb.
+  When the private sector is DELEVERAGING, cheap money does not create loans — the transmission is the
+  bank-credit channel, and that channel can be shut from the DEMAND side.** ⇒ **"Pushing on a string."**
+- ⇒ **★★★ WHICH IS EXACTLY WHY THE CURRENT SETUP IS DIFFERENT AND WHY THIS NOTE'S THESIS HOLDS: THERE IS A
+  BORROWER. The FOMC just named it — capital spending in the AI sector financed by borrowing, including
+  from nonbank investors and REGIONAL BANKS** ([[transmission-chain]]`:L162`). ⇒ **A credit channel with
+  an eager, price-insensitive borrower is the condition under which the mechanical model Jake described
+  actually holds. It is not a general law; it is a description of THIS regime.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩 **M2REAL** — still open from `:L2294`, still unfetched. **The nominal/real correction on the money
+   series is the load-bearing one for every claim in this section.**
+2. 🚩🚩 **BANK CREDIT GROWTH (H.8), C&I and nonbank-lender lines** — **the actual quantity channel.**
+   **Pairs with the regional-bank fetch registered at [[transmission-chain]]`:L241`.**
+3. 🚩 **Term-premium estimate (ACM/KW) on the 10Y and 30Y** — **the only way to separate "expected path" from
+   "duration compensation," which is the distinction the whole buyback argument turns on.** ⬜ Not in the vault.
+**Links:** [[rates-board]] · [[transmission-chain]] · [[market-fragility]] · [[ai-financing-fragility]]

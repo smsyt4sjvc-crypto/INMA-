@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **241 dated entries across 3 notes · 2026-06-30 → 2026-08-19 · refreshed 2026-08-19 13:13 PDT**
+> **242 dated entries across 3 notes · 2026-06-30 → 2026-08-19 · refreshed 2026-08-19 13:18 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -256,6 +256,7 @@
 - `2026-08-18` [rates-board.md:L132](../rates-board.md) — 2026-08-18 ~12:25pm PDT — ✅⛔⛔⛔ **THE SPREAD SERIES IS BUILT FROM THE PRIMARY SOURCE, AND IT DESTROYS THE CLAIM'S FIRST CLAUSE: BEAR STEEPENING IS NOT 
 - `2026-08-19` [market-fragility.md:L4259](../market-fragility.md) — 2026-08-19 ~5:11am KST (2026-08-18 ~1:11pm PDT) — ⛔ **"SIDECAR ACTIVATED" READS LIKE A CRASH; THE ARC SAYS GIVE-BACK. KOSPI 6,441.39 (−6.24%) IS **+15
 - `2026-08-19` [new-economy-regime.md:L3851](../new-economy-regime.md) — 2026-08-19 ~1:20pm PDT — ⛔⭐⭐⭐⭐ **JAKE'S PCE MECHANISM DOES NOT WORK AS STATED — CONSTRUCTION IS *INVESTMENT*, NOT CONSUMPTION, SO NEITHER COMMERCIAL N
+- `2026-08-19` [new-economy-regime.md:L3946](../new-economy-regime.md) — 2026-08-19 ~1:40pm PDT — ✅★★★★★ **JAKE HAS RE-DERIVED THIS NOTE'S OWN `:L2280` FINDING FROM FIRST PRINCIPLES: A RATE CUT IS CASH-NEUTRAL TOO. THE FED 
 - `2026-08-19` [rates-board.md:L182](../rates-board.md) — 2026-08-19 ~7:00am PDT — ★★★★★★ **TREASURY DOUBLES LONG-END BUYBACKS ($2B → "AT LEAST" $4B/OPERATION, 10-20Y AND 20-30Y, FROM SEPT 9 TO NOV 4). ⇒ THE 
 - `2026-08-19` [rates-board.md:L243](../rates-board.md) — 2026-08-19 ~7:03am PDT (scanner 14:03 UTC) — ⭐⭐⭐⭐⭐ **THE BUYBACK TEST FIRED THE SAME MORNING AND IT FIRED IN FAVOUR: LONG YIELDS FELL SHARPLY, TLT +1.
 - `2026-08-19` [rates-board.md:L277](../rates-board.md) — 2026-08-19 ~9:15am PDT — ★★★★★★ **THE SHAPE SETTLES THE ATTRIBUTION AND MY 7:03am CAVEAT WAS TOO WEAK: 5Y −2bp · 10Y −6bp · 30Y −9bp IS A MONOTONIC BU
