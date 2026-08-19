@@ -3920,3 +3920,91 @@ date on the absorber). The crack consequences are filed separately at [[oil-valu
 4. ⬜ **Minimum operating inventory for the SPR** — still not in the vault, and it is the number that
    turns the 250M reference into a real floor. Open since 7/29.
 **Links:** [[oil-value-chain]] · [[war/war-board]] · [[europe-energy-crunch]] · [[market-fragility]]
+
+### 2026-08-19 ~9:25am PDT — ★★★★★★ **JAKE'S CRUDE-vs-CAPACITY SEPARATION RECONCILES TWO FINDINGS THIS NOTE HAS BEEN CARRYING SIDE BY SIDE WITHOUT JOINING: "crude absorbed" and "product tight" ARE THE SAME EVENT SEEN AT TWO POINTS IN THE CHAIN.** ⛔ But one of his four escalation triggers is CONFOUNDED BY POLICY and cannot be used as a capacity instrument
+Source: Jake's analysis, chat 2026-08-19 ~9:10am PDT → `raw/2026-08-19-30y-rally/inbound.md`.
+**⟲ EXTENDS `:L3798`** (this morning's rationing entry) and **[[oil-value-chain]]`:L1656`** (the gasoline/diesel
+decree asymmetry). **Not a supersession — it operates one level ABOVE the mechanism I filed at 8:05am.**
+
+#### HIS FRAME, STATED AS HE PUT IT (so it can be graded later)
+- **A refinery outage destroys PROCESSING CAPACITY, not crude PRODUCTION.** Russia can divert crude that
+  would have been run domestically into EXPORTS, if ports and pipelines hold. ⇒ **Simultaneously: Russian
+  product shortage → falling product exports → stronger global cracks, WHILE Russian CRUDE exports remain
+  resilient.** ⇒ **Watch throughput, diesel/gasoil exports, gasoline exports, product cracks, and crude
+  exports SEPARATELY. Not Brent alone.**
+- **The policy response is the bigger signal.** Export bans + imports + relaxed quality rules + nationwide
+  purchase caps ⇒ Russia is ALLOCATING scarce product across a priority queue:
+  **military → agriculture → industrial/logistics → civilian motorists → exports.**
+- **Moscow caps mean the GEOGRAPHIC BUFFER is going.** Earlier shortages could be dismissed as peripheral
+  distribution problems; **Moscow rationing substantially weakens that explanation.**
+- **THESIS:** Ukraine's refinery campaign **may be crossing from intermittent asset damage into CUMULATIVE
+  DOWNSTREAM-SYSTEM IMPAIRMENT.** **NOT yet fuel-system failure** — diesel comparatively available, crude
+  production and refining capacity remain enormous, damaged units can return quickly.
+- **ESCALATION TRIGGER — ANY TWO TOGETHER ⇒ structural downstream impairment:** ① persistent DIESEL
+  rationing · ② material refinery-THROUGHPUT decline · ③ sustained product-EXPORT collapse · ④ Moscow
+  restrictions SURVIVING PAST the seasonal-demand peak.
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE RECONCILIATION IS THE VALUABLE PART AND THIS NOTE SHOULD HAVE MADE IT ITSELF. `:L3778`
+  concluded the CRUDE leg is ABSORBED; `oil-value-chain:L1709` this morning measured PADD-1 ULSD at −19.7%
+  y/y, the tightest series in the vault. Those have been filed as two independent findings that happened to
+  point different ways. THEY ARE ONE EVENT.** ⇒ **Strikes remove RUNS, not WELLS. Barrels that cannot be
+  processed are re-routed to export, so the same campaign LOOSENS the crude balance and TIGHTENS the product
+  balance at the same moment.** ⇒ **That is why today's EIA print shows a two-week US commercial crude build
+  of +21.8MM sitting next to a delivery-point distillate inventory at a multi-year low — and why reading
+  Brent as the state variable for this trade has been wrong the whole time.** *(Analysis. Adopted.)*
+- **★★★★★ AND IT STACKS WITH — DOES NOT REPLACE — THE MECHANISM I FILED AT 8:05am** ([[oil-value-chain]]`:L1676`):
+  **straight-run diesel off the CDU vs gasoline off the softer secondary train.** ⇒ **Together: the campaign
+  is (a) crude-neutral-to-LOOSENING at the wellhead, (b) gasoline-destroying at the unit level, (c)
+  distillate-tightening only through lost total runs and the export ban.** ⇒ **Three different signs in one
+  event. Anyone quoting "Russia impaired = bullish diesel" is collapsing all three.** *(Analysis.)*
+- **✓ HIS MOSCOW ARGUMENT IS BETTER THAN MINE AND I AM REPLACING MINE WITH IT.** At 7:55am I filed Moscow as
+  a change in the regime's **political cost function**. **His version is epistemic and stronger: Moscow is
+  the LAST place a rationing state cuts, so cutting it FALSIFIES the "peripheral distribution/logistics"
+  explanation.** ⇒ **That makes Moscow caps evidence about the BALANCE, not merely about politics — a
+  claim with a truth value rather than a mood.** *(Analysis. Conceded and adopted.)*
+- **✓ AND HIS PRIORITY QUEUE PASSES ITS OWN CONSISTENCY CHECK, WHICH IS WORTH RECORDING BECAUSE IT IS
+  CHEAP AND IT PASSED. If exports rank LAST, exports are cut FIRST. Observed order: diesel export ban
+  2026-07-08 → full product prohibition 2026-08-01 → nationwide retail caps mid-August.** ⇒ **Exports were
+  cut roughly five weeks before motorists. The observed sequence matches the stated hierarchy.**
+  ⚠️ **The queue itself is an INFERENCE about allocation priorities, not a measured or published policy.**
+  *(Analysis.)*
+
+#### ⛔ THE CORRECTION — one trigger cannot do the work he assigns it
+- **⛔⛔ TRIGGER ③ "SUSTAINED PRODUCT-EXPORT COLLAPSE" IS CONFOUNDED BY POLICY AND IS NOT A CAPACITY
+  INSTRUMENT RIGHT NOW. RUSSIA *LEGALLY PROHIBITED* THESE EXPORTS: diesel ban 2026-07-08, full gasoline/
+  diesel/marine/gasoil prohibition 2026-08-01 → 2027-01-31** ([[oil-value-chain]]`:L831`). **The measured
+  collapse the vault already holds — seaborne product 1.51M b/d (Jun) → 1.18M b/d (Jul), a decade low;
+  diesel/gasoil loadings 471k → 314k b/d — SPANS THE BAN.** ⇒ **You cannot infer that capacity was
+  destroyed from a volume that was outlawed.** ⇒ **His "any two of four" is really ANY TWO OF THREE clean
+  ones, and ③ re-enters only after 9/1 when the producer exemption removes the legal constraint from
+  diesel.** *(Analysis. This is the single correction I have to his frame.)*
+- **⚠️ THE DISCIPLINE THAT KEEPS BOTH USES ALIVE: EXPORT VOLUME IS STILL THE RIGHT INSTRUMENT FOR THE
+  *POLICY* QUESTION** — this morning I promoted August diesel/gasoil loadings to the crack thread's #1
+  fetch to decide whether the 9/1 exemption is material or cosmetic ([[oil-value-chain]]`:L1700`). **That
+  use is clean, because it asks about a policy change measured in export volume.** ⇒ **Same series, two
+  questions; it answers one and is confounded on the other. Keep them apart.** *(Analysis.)*
+- **⇒ ★★★★★ THEREFORE TRIGGER ② — REFINERY THROUGHPUT — IS THE ONLY CLEAN CAPACITY INSTRUMENT, AND IT IS
+  THE ONE THE VAULT DOES NOT HAVE.** **All it holds is "over one-third of refining capacity impaired"
+  (8/5, REPORTED, S&P Global) and "crude runs below 4.0M b/d"** ([[oil-value-chain]]`:L834`) — **a level
+  with no series behind it.** ⇒ **Promoted alongside the loadings fetch.** *(Analysis.)*
+- **⚠️ AND TRIGGER ④ IS NOT YET FALSIFIABLE BECAUSE THE PEAK IS NOT DATED.** ⬜ **Russian seasonal gasoline
+  demand — harvest plus summer driving, plausibly now through late September — IS NOT IN THE VAULT.**
+  ⇒ **"Surviving past the peak" needs a date before it can fire.** *(Analysis. Rule 10.)*
+- **✓ AND HIS RESTRAINT IS CORRECT ON THIS NOTE'S OWN EVIDENCE: NOT fuel-system failure. Diesel less
+  restricted (`:L3806`) · crude production unimpaired (his point, and today's US crude build is consistent)
+  · Khabirov's "repairs in days" — where `:L3838` already ruled the ADMISSION credible and the TIMELINE
+  worthless.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **RUSSIAN REFINERY THROUGHPUT / CRUDE RUNS, MONTHLY SERIES — PROMOTED. The only unconfounded
+   capacity instrument.** Baseline on file: "<4.0M b/d" and ">1/3 capacity impaired," both REPORTED,
+   neither a series. **Sources to try: Reuters/Interfax monthly runs, Kpler refinery-intake, IEA OMR.**
+2. 🚩🚩 **RUSSIAN CRUDE EXPORTS, weekly/monthly — HIS DIVERSION PREDICTION IS DIRECTLY TESTABLE.** **If
+   throughput falls while crude exports RISE, the frame is confirmed and Brent is decoupled from the crack
+   by construction.** ⬜ Not in the vault.
+3. 🚩🚩 **THE FOUR-PART TRIGGER, TRACKED AS A SCOREBOARD** — ① diesel rationing: NOT SEEN (diesel less
+   restricted) · ② throughput decline: UNMEASURED · ③ export collapse: OBSERVED BUT CONFOUNDED until 9/1 ·
+   ④ Moscow past the peak: PEAK UNDATED. **Current score on clean evidence: ZERO of three.**
+4. ⬜ **Russian seasonal gasoline/diesel demand profile** — needed to date trigger ④.
+**Links:** [[oil-value-chain]] · [[war/war-board]] · [[europe-energy-crunch]] · [[rates-board]]
