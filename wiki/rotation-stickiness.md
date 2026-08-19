@@ -244,3 +244,53 @@ Related: [[bull-bear-ledger]] · [[concentration]] · [[market-fragility]] · [[
   TREND-FOLLOWING and the second was DOING NOTHING.** Both beat every clever cross-sectional leg on
   Sharpe. **That is the same answer [[how-to-get-paid]] and [[seeing-vs-predicting]] already carry**,
   reached from a fifth independent direction. *(Analysis.)*
+
+### 2026-08-18 ~4:00pm PDT — ⛔⛔ **"HEDGE FUNDS ARE DOUBLING DOWN" IS A LEVEL/FLOW ERROR READ OFF THE CHART'S OWN AXIS: THE Y-AXIS IS *CUMULATIVE* YTD FLOW, AND SINGLE STOCKS ARE STILL −2.5% NET SELLERS ON THE YEAR.** ⚠️ **And the data is LAST WEEK — they bought into the top, before the 30Y hit 5.31% and semis broke**
+Source: GS Prime Book US Net Trading Flow chart (Goldman Sachs), Jake's paste 2026-08-18. **Weekly
+commentary: buying every session last week, 2nd-largest weekly purchase in 12 months; single stocks
+~70% of it (long buys > short covers); IT + comm services strongest; 8 of 11 sectors bought; macro
+products ~30%, US-listed ETF shorts reduced for a 6th consecutive week.** Related: [[market-fragility]] ·
+[[transmission-chain]] · [[portfolio-state]] · [[_calibration]]
+
+#### ⛔ THE AXIS IS THE WHOLE ARGUMENT
+- **The Y-axis reads "% of Total US Gross MV at START of 2026."** ⇒ **This is a CUMULATIVE year-to-date
+  net-flow line, NOT a weekly flow bar.** **A steeply rising cumulative line and a big weekly buy are
+  the same fact stated twice.**
+| series | 2026 trough | latest | recovered | **still, vs Jan 1** |
+|---|---|---|---|---|
+| **Single stocks** | ~−5.0% (early Jul) | ~**−2.5%** | +2.5pp | **−2.5% = NET SELLERS ON THE YEAR** |
+| **Macro products** | ~−3.3% (late May) | ~**+0.9%** | +4.2pp | **+0.9% — first positive of 2026** |
+- ⇒ **★★★★★ HEDGE FUNDS HAVE NOT "DOUBLED DOWN" ON SINGLE STOCKS. THEY HAVE BOUGHT BACK ROUGHLY HALF OF
+  WHAT THEY SOLD BETWEEN JANUARY AND JULY, AND ARE STILL 2.5% OF GROSS MV BELOW WHERE THEY STARTED THE
+  YEAR.** **The only series that has actually crossed into net accumulation is MACRO PRODUCTS (index +
+  ETF) at +0.9% — i.e. the BETA sleeve, not stock-picking conviction.**
+- **⇒ THE HONEST HEADLINE: a violent REPAIR of an underweight, expressed mostly through index/ETF, with
+  single-name exposure still below the January baseline.** *(Analysis, read directly off the axis.)*
+
+#### THESIS (interpretation — NOT fact)
+- **⚠️⚠️ AND THE TIMING IS THE SECOND PROBLEM, AND IT IS BIGGER THAN THE FIRST: GS PRIME WEEKLY DATA
+  DESCRIBES *LAST WEEK*.** **Since that window closed: the 30Y printed 5.31% (a genuine new high,
+  primary-sourced), and the 8/18 tape broke semis and duration-sensitive growth hardest
+  ([[transmission-chain]]: the FAST CHANNEL, rates → discount rate → multiple).** ⇒ **"Bought every
+  session last week" describes buying INTO the top of the move, immediately before the repricing.**
+  ⇒ **⛔ This is not evidence about what hedge funds think NOW. It is evidence about what they owned
+  going INTO a shock — which is a positioning RISK, not a confirmation.**
+- **⛔ THE SIX-WEEK ETF SHORT-COVERING STREAK IS FUEL BEING SPENT, NOT DEMAND BEING CREATED.**
+  **Six consecutive weeks of reducing US-listed ETF shorts** ⇒ **short covering is a FINITE bid.**
+  ⇒ **The longer the streak runs, the less of it remains — and a market held up by covering has a bid
+  that ends on a date rather than at a price.** *(Analysis.)*
+- **★★★ AND THE SECTOR DETAIL PUTS THIS DIRECTLY ON THE CHAIN'S LAGGING HALF: "IT and communication
+  services saw the strongest demand."** ⇒ **The prime book added most exactly where
+  [[transmission-chain]] says stages 4-5 are still intact and unrepriced — days before the fast channel
+  hit those same names.** ⇒ **If the chain's ordering is right, this is the crowded side.**
+- **⛔ AND THE VAULT'S STANDING LAW GOVERNS THE INFERENCE, `_calibration:387`: *"Consensus-bear moves
+  the POSITIONING clock (squeeze risk), NOT the FUNDAMENTAL clock (pie growth). TWO CLOCKS."***
+  ⇒ **This chart is a POSITIONING-clock datapoint and nothing more.** **It says the underweight got
+  repaired. It says nothing about earnings, rates or the crack in the credit stage.**
+  ⚠️ **Jake flipped cautiously bullish on 8/16 and this supports that flip ON THE POSITIONING CLOCK
+  ONLY — which is exactly the distinction the vault wrote down BEFORE he flipped.**
+- **↔ AND IT SITS WITH THE 7/11 PRINT RATHER THAN AGAINST IT (`:167`):** semis were then the
+  most-net-bought subsector. ⇒ **Consistent thread: the prime book has been leaning into the AI complex
+  through both the July drawdown and the August recovery.** 🚩 **The next two weekly prints are the
+  scoreboard** — the same test registered at `:180`, still the right one. **Specifically: does the
+  cumulative single-stock line resume falling after 8/18?**
