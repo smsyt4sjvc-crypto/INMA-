@@ -1,6 +1,6 @@
 # ⏱ FX/CARRY — merged timeline (the gate)
 
-> **398 dated entries across 3 notes · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 13:13 PDT**
+> **399 dated entries across 3 notes · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 13:18 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -420,3 +420,4 @@
 - `2026-08-19` [ai-financing-fragility.md:L6548](../ai-financing-fragility.md) — 2026-08-19 ~7:30am PDT — ★★★★★★ **MARVELL ISSUES GOOGLE A $12.18B WARRANT TO WIN TPU-ECOSYSTEM SILICON. ⇒ THE CIRCULARITY THREAD GETS ITS PUREST INSTA
 - `2026-08-19` [market-fragility.md:L4259](../market-fragility.md) — 2026-08-19 ~5:11am KST (2026-08-18 ~1:11pm PDT) — ⛔ **"SIDECAR ACTIVATED" READS LIKE A CRASH; THE ARC SAYS GIVE-BACK. KOSPI 6,441.39 (−6.24%) IS **+15
 - `2026-08-19` [new-economy-regime.md:L3851](../new-economy-regime.md) — 2026-08-19 ~1:20pm PDT — ⛔⭐⭐⭐⭐ **JAKE'S PCE MECHANISM DOES NOT WORK AS STATED — CONSTRUCTION IS *INVESTMENT*, NOT CONSUMPTION, SO NEITHER COMMERCIAL N
+- `2026-08-19` [new-economy-regime.md:L3946](../new-economy-regime.md) — 2026-08-19 ~1:40pm PDT — ✅★★★★★ **JAKE HAS RE-DERIVED THIS NOTE'S OWN `:L2280` FINDING FROM FIRST PRINCIPLES: A RATE CUT IS CASH-NEUTRAL TOO. THE FED 
