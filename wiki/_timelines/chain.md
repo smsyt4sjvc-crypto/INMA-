@@ -1,6 +1,6 @@
 # ⏱ CHAIN — merged timeline (the gate)
 
-> **4 dated entries across 1 notes · 2026-08-18 → 2026-08-19 · refreshed 2026-08-19 13:42 PDT**
+> **4 dated entries across 1 notes · 2026-08-18 → 2026-08-19 · refreshed 2026-08-19 14:00 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
