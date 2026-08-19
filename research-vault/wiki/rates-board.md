@@ -641,3 +641,76 @@ for a higher dollar amount to buy the note itself now?"* **⟲ EXTENDS `:L204` a
 3. ⬜ **Primary-dealer Treasury positions (FRBNY weekly)** — the direct measure of the balance-sheet
    congestion this operation is meant to relieve. **The vault has never pulled it and it is public weekly.**
 **Links:** [[transmission-chain]] · [[market-fragility]] · [[new-economy-regime]]
+
+### 2026-08-19 ~3:40pm PDT — ⛔✅★★★★★★ **THE CAUSAL DIRECTION IS INVERTED — CROWDING OUT RUNS GOVERNMENT→CORPORATE, AND THE TAPE SAYS CORPORATES ARE *LOSING* THE COMPETITION, NOT WINNING IT. ✓ BUT THE INFLATION QUESTION IS REAL, GENUINELY CONTESTED, AND HIS OWN PHRASING CONTAINS THE ERROR THAT MAKES HIS CASE *STRONGER*: THE US DOES NOT PAY INTEREST OUT OF TAX DOLLARS. IT BORROWS TO PAY IT.**
+Source: Jake, 2026-08-19 ~3:35pm PDT: *"…that's because of corporate bonds crowding out treasury bonds —
+isn't that inflationary as well if more of our tax dollars are being spent on debt."*
+**Splits into TWO questions. ⟲ EXTENDS `:L453`, `:L583` and the reference block at `:L528`.**
+
+#### ⛔ QUESTION ONE — "corporate bonds crowding out Treasuries." THE DIRECTION IS BACKWARDS, AND THERE IS A TEST
+- **CROWDING OUT IS DEFINED THE OTHER WAY: GOVERNMENT borrowing absorbs savings and pushes up the rate that
+  PRIVATE borrowers must pay.** **The sovereign is the price-setter; corporates pay a SPREAD OVER it.**
+- **✓ THE VERSION OF HIS IDEA THAT IS REAL, AND THE VAULT HAS BEEN TRACKING IT: a limited pool of
+  DURATION-TAKING CAPACITY** (dealer balance sheets, insurers, pensions) **can be competed for. The AI
+  complex has been issuing heavily into that pool** — [[ai-financing-fragility]]`:L619`: *"AI Debt Spree:
+  How META, NVDA, AMZN Are Reshaping Credit Markets"* **+ Amazon's $25B bond.**
+- **⛔ BUT THE TEST IS CHEAP AND IT POINTS THE OTHER WAY. FOMC minutes, July 2026, VERBATIM: *"Credit
+  spreads for hyperscaler firms WIDENED FURTHER relative to those for investment-grade bond issuers."***
+  ⇒ **A WIDER spread means investors demand MORE compensation to hold corporate paper instead of
+  government paper.** ⇒ **⭐ IF CORPORATES WERE OUT-COMPETING TREASURIES FOR THE BID, SPREADS WOULD BE
+  *TIGHTENING*. THEY ARE WIDENING.** ⇒ **Corporates are losing the competition for capital, not winning
+  it — which is crowding out in the ORTHODOX direction, with the AI complex as the crowded-OUT party.**
+  *(Analysis. This is also stage 2 of [[transmission-chain]], now doing double duty as a causal test.)*
+
+#### ✓ QUESTION TWO — "is a bigger interest bill inflationary?" AND HIS OWN WORDING CONTAINS THE KEY ERROR
+- **⛔ "MORE OF OUR TAX DOLLARS ARE BEING SPENT ON DEBT" IS THE WRONG MODEL, AND CORRECTING IT MAKES HIS
+  CONCLUSION *STRONGER*, NOT WEAKER. THE US RUNS A DEFICIT, SO AT THE MARGIN INTEREST IS NOT PAID OUT OF
+  TAXES — IT IS PAID BY ISSUING MORE DEBT.**
+- ⇒ **THAT CHANGES THE SIGN OF THE ARGUMENT ENTIRELY:**
+  **(a) IF interest were tax-financed, it would be a TRANSFER — taxpayer to bondholder — roughly neutral
+  and plausibly CONTRACTIONARY, since it crowds out other outlays. That is the "diversion" version, and
+  it argues the OPPOSITE of what he intends.**
+  **(b) BECAUSE it is DEBT-financed, it is NET NEW FINANCIAL ASSETS PLACED IN PRIVATE HANDS, matched by no
+  new output. That is an EXPANSIONARY impulse, and it is the strong form of his claim.**
+- **⇒ ★★★★★ SO THE ANSWER IS: YES, PLAUSIBLY INFLATIONARY — BUT NOT BY THE ROUTE HE NAMED, AND THE
+  PROFESSION IS GENUINELY SPLIT ON THE MAGNITUDE. THIS IS NOT A SETTLED QUESTION AND THE VAULT SHOULD NOT
+  PRETEND IT IS.** *(Analysis.)*
+
+#### ⚠️ THE SIZE OF THE CHANNEL — three haircuts, measured where possible
+- **⭐ ONLY 80.6% OF THE DEBT IS HELD BY THE PUBLIC. MEASURED (Treasury, 2026-08-18): total $40.047T =
+  DEBT HELD BY THE PUBLIC $32.266T (80.6%) + INTRAGOVERNMENTAL $7.782T (19.4%).**
+  ⇒ **Interest on the intragovernmental fifth is an internal accounting entry — it never reaches a
+  spender.** ⇒ **Scale the interest-income channel by ~0.8 before anything else.**
+- **⚠️ AND SCALE IT AGAIN FOR WHO HOLDS THE REST: FOREIGN OFFICIAL AND PRIVATE HOLDERS** (a large share
+  that partly leaves the domestic income stream) **and DOMESTIC INSTITUTIONS — pensions, insurers, money
+  funds — whose MARGINAL PROPENSITY TO CONSUME is low.** ⇒ **A dollar of interest to a pension fund is not
+  a dollar of demand.** ⬜ **The holder split is NOT in the vault** (TIC data + Z.1 would give it).
+- **⚠️ AND THE FED'S OWN HOLDINGS REMIT THEIR INTEREST BACK TO TREASURY — a full round trip.**
+- ⇒ **⛔ THEREFORE: THE MECHANISM IS REAL, THE DIRECTION IS EXPANSIONARY, AND THE MAGNITUDE IS
+  UNQUANTIFIED AND PROBABLY MUCH SMALLER THAN THE HEADLINE INTEREST BILL SUGGESTS.** **Do not quote a
+  gross interest number as a demand impulse.** *(Analysis.)*
+
+#### ★★★★★★★ AND THE LOOP THIS CLOSES IS THE SHARPEST THING IN TODAY'S WHOLE SEQUENCE
+- **PUT THE PIECES TOGETHER: $40.05T outstanding · average rate 3.447% and ACCELERATING (`:L453`) ·
+  Treasury SHORTENING the debt via buybacks funded with bills (`:L583`) · a market FULLY PRICED for two
+  hikes (`:L364`).**
+- ⇒ **A SHORTER-DATED DEBT STOCK REPRICES FASTER WITH THE POLICY RATE. SO EACH FED HIKE NOW FEEDS A LARGER
+  AND FASTER-GROWING INTEREST BILL — WHICH, IF THE INTEREST-INCOME CHANNEL IS REAL AT ALL, IS ITSELF
+  MILDLY EXPANSIONARY.**
+- ⇒ **⭐⭐⭐ AT $40T WITH A SHORTENING WAM, RATE HIKES ACQUIRE AN INFLATIONARY SIDE-EFFECT THAT SCALES WITH
+  THE DEBT. THE TIGHTENING IS PARTLY SELF-DEFEATING, AND THE DEGREE IS AN EMPIRICAL QUANTITY NOBODY HAS
+  MEASURED — INCLUDING THE FOMC, WHOSE JULY MINUTES DISCUSS INFLATION RISK AT LENGTH AND NEVER MENTION
+  THE INTEREST BILL.** ⇒ **That is the fiscal-dominance gradient from `:L528` given a MECHANISM instead of
+  a worry, and Jake found it by pushing on "isn't that inflationary too."** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **THE HOLDER SPLIT OF DEBT HELD BY THE PUBLIC** — foreign official / foreign private / Fed / US
+   households / US institutions. **(Treasury TIC + Fed Z.1.)** ⬜ **Not in the vault, and it is the ONLY way
+   to size the interest-income channel. Without it, "interest payments are stimulus" is a story, not a
+   number.**
+2. 🚩🚩 **NET INTEREST OUTLAY, MONTHLY (Treasury MTS)** — the realised bill, and the numerator of everything
+   above. **Already open at `:L453` item 4; PROMOTED.**
+3. 🚩 **CORPORATE IG AND HYPERSCALER SPREADS vs TREASURIES, TRACKED** — **the running test of the
+   crowding-out direction. Widening = orthodox direction; sustained tightening into heavy Treasury supply
+   would be the first evidence for Jake's inversion.**
+**Links:** [[ai-financing-fragility]] · [[transmission-chain]] · [[new-economy-regime]] · [[hyperscaler-credit]]
