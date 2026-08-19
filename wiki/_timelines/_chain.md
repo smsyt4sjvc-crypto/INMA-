@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **564 dated entries · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 13:36 PDT**
+> **565 dated entries · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 13:42 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -583,6 +583,7 @@
 - `2026-08-19` **[1]** rates-board.md:L243 — 2026-08-19 ~7:03am PDT (scanner 14:03 UTC) — ⭐⭐⭐⭐⭐ **THE BUYBACK TEST FIRED THE SAME MORNING AND IT FIRED IN FAVOUR: LONG YIELDS FELL SHARPLY, TLT +1.
 - `2026-08-19` **[1]** rates-board.md:L277 — 2026-08-19 ~9:15am PDT — ★★★★★★ **THE SHAPE SETTLES THE ATTRIBUTION AND MY 7:03am CAVEAT WAS TOO WEAK: 5Y −2bp · 10Y −6bp · 30Y −9bp IS A MONOTONIC BU
 - `2026-08-19` **[1]** rates-board.md:L342 — 2026-08-19 ~12:55pm PDT — ✅★★★★★★ **JAKE'S READ CHECKS OUT VERBATIM AGAINST THE FED'S OWN PRIMARY — AND THE ONE FACT HIS SUMMARY OMITS REVERSES THE TR
+- `2026-08-19` **[1]** rates-board.md:L431 — 2026-08-19 ~2:45pm PDT — ✅⭐⭐⭐⭐⭐⭐ **$40,047,425,768,420.22 — JAKE'S FIGURE IS EXACT TO THE PENNY AND THE $40T LINE WAS CROSSED YESTERDAY.** ⭐ **The num
 - `2026-08-19` **[1]** new-economy-regime.md:L3851 — 2026-08-19 ~1:20pm PDT — ⛔⭐⭐⭐⭐ **JAKE'S PCE MECHANISM DOES NOT WORK AS STATED — CONSTRUCTION IS *INVESTMENT*, NOT CONSUMPTION, SO NEITHER COMMERCIAL N
 - `2026-08-19` **[1]** new-economy-regime.md:L3946 — 2026-08-19 ~1:40pm PDT — ✅★★★★★ **JAKE HAS RE-DERIVED THIS NOTE'S OWN `:L2280` FINDING FROM FIRST PRINCIPLES: A RATE CUT IS CASH-NEUTRAL TOO. THE FED 
 - `2026-08-19` **[1]** new-economy-regime.md:L4014 — 2026-08-19 ~1:55pm PDT — ✅⭐⭐⭐⭐⭐ **YES — AND THE MISSING HALF OF THE SENTENCE IS THE SUPPLY SIDE, WHICH IS WHERE THE FOMC ITSELF IS UNCERTAIN. ✓ AND TH

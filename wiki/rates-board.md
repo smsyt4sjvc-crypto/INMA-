@@ -449,3 +449,78 @@ Jake's Safari upload archived alongside. **⟲ EXTENDS `:L299` (this morning's b
    counterpart to the Treasury buyback at `:L204`.**
 4. ⬜ **Current effective fed funds and the 2Y cash yield** — the board still has no 2Y for today.
 **Links:** [[transmission-chain]] · [[market-fragility]] · [[new-economy-regime]] · [[_calibration]]
+
+### 2026-08-19 ~2:45pm PDT — ✅⭐⭐⭐⭐⭐⭐ **$40,047,425,768,420.22 — JAKE'S FIGURE IS EXACT TO THE PENNY AND THE $40T LINE WAS CROSSED YESTERDAY.** ⭐ **The number that makes his Bessent thesis MEASURABLE is the one nobody quotes: the average rate on the whole debt is 3.447% against a 5.19% 30Y — a 174bp refinancing gap, and the average rate is ACCELERATING** ⚠️ **But +$60.8B in a day is NOT unusual and must not be annualised**
+Source: Jake, 2026-08-19 ~2:40pm PDT. **ALL FIGURES MEASURED FROM TREASURY FISCALDATA PRIMARY**
+(`api.fiscaldata.treasury.gov` — Debt to the Penny + Average Interest Rates) →
+`raw/2026-08-19-debt-40t/`. **⟲ EXTENDS `:L204` (the 7:00am buyback entry) with its FISCAL MOTIVE.**
+
+#### DATA (MEASURED — Treasury FiscalData)
+- **TOTAL PUBLIC DEBT OUTSTANDING, 2026-08-18: $40,047,425,768,420.22.** ✓ **Jake's figure matches to the
+  cent.** **Prior business day (8/17): $39,986,657,878,071.92 ⇒ +$60,767,890,348 = +$60.77B.** ✓
+  ⇒ **THE $40 TRILLION LINE WAS CROSSED ON 2026-08-18.**
+- **YEAR AGO (2025-08-18): $37,144,076,750,410 ⇒ +$2.903T y/y = +7.82%.**
+- **⚠️ THE DAILY SERIES IS LUMPY AND +$60.8B IS NOT A RECORD. Last 11 business days, Δ$bn:**
+  **+89.2 · +1.2 · +60.6 · −5.0 · +6.5 · +50.2 · −28.4 · +21.3 · −1.2 · +53.0 · +60.8.**
+  ⇒ **8/03→8/04 was +$89.2B, larger. THREE of the eleven days were NEGATIVE.** ⇒ **⛔ DO NOT ANNUALISE A
+  DAILY PRINT: settlement clusters at mid-month and quarter-end refundings. The 15-day window would
+  annualise to ~$7.5T, which is ~4× the deficit — the window is not representative and neither is the day.**
+- **⭐⭐⭐ AVERAGE INTEREST RATE ON *ALL* INTEREST-BEARING DEBT (2026-07-31): 3.447%.**
+  **By type: Bills 3.758 · Notes 3.309 · Bonds 3.442 · Total marketable 3.443 · TIPS 1.127 · FRN 3.948.**
+- **⭐ AND IT IS ACCELERATING. Trough 3.280% (2024-12-31) → 3.447% (2026-07-31) = +16.7bp.**
+  **Monthly: Apr 3.340 · May 3.353 · **Jun 3.409 · Jul 3.447** ⇒ +9.4bp in the last two months versus
+  roughly +1.3bp/month before it.** **The refinancing wall has started to bite, and it shows in this series
+  before it shows anywhere else.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE REFINANCING GAP IS THE WHOLE FISCAL ARGUMENT AND IT IS NOW MEASURED RATHER THAN ASSERTED:
+  THE STOCK PAYS 3.447%. THE 30Y IS 5.19% AND THE 10Y IS 4.65%.** ⇒ **Every dollar of long debt rolled
+  today costs 120bp (10Y) to 174bp (30Y) MORE THAN THE PAPER IT REPLACES.** ⇒ **That is the reason a
+  Treasury Secretary cares about the LONG END specifically rather than about rates in general, and it is
+  the motive Jake supplies that this board's 7:00am entry did not have.** *(Analysis.)*
+- **⚠️⚠️ AND THE MAGNITUDE MUST BE STATED CAREFULLY OR IT BECOMES THIS VAULT'S NEXT 100× ERROR. On $40.05T,
+  100bp on the AVERAGE rate ≈ $400B/yr — but that is a STEADY-STATE figure that only arrives once the
+  ENTIRE stock has repriced, which takes years and follows the maturity schedule.** ⇒ **The REALISED
+  number so far is the +16.7bp actually observed since the 2024 trough ≈ $67B/yr of added interest.**
+  ⇒ **$400B is the destination, not the bill. Quote the 16.7bp, not the 100bp.** *(Analysis. Rule: name
+  the window.)*
+- **★★★★★★ AND HERE IS THE NON-OBVIOUS FINDING, WHICH INVERTS THE OBVIOUS READ OF "SHORTEN THE DEBT":
+  ON THE EXISTING STOCK, BILLS ARE THE *MOST EXPENSIVE* CATEGORY — 3.758% versus Notes 3.309% and Bonds
+  3.442%.** **The old long paper was issued years ago at low coupons; bills reprice continuously and
+  already carry the current policy rate.** ⇒ **Shifting to bills does NOT mechanically lower the average
+  rate.** ⇒ **The saving is entirely a MARGINAL one: a new bill near fed funds (3.50-3.75%) against a new
+  30Y at 5.19% ≈ **140-170bp cheaper TODAY**.** *(Analysis.)*
+- **⇒ ★★★★★★★ WHICH STATES BESSENT'S TRADE EXACTLY, AND IT IS A CARRY TRADE RUN BY THE TREASURY AGAINST
+  THE FED'S OWN STATED DIRECTION: RETIRE EXPENSIVE LONG DURATION, FUND IT AT THE FRONT END ~140bp CHEAPER
+  — INTO A MARKET THAT IS *FULLY PRICED* FOR A SEPTEMBER HIKE AND ANOTHER BY Q1-2027** (`:L364`, the Desk's
+  own report). ⇒ **If those hikes land, the front-end funding cost rises and the saving is largely erased,
+  while the rollover frequency has been permanently increased.** ⇒ **He is trading TERM-PREMIUM cost today
+  for ROLLOVER and FRONT-END risk tomorrow, and the counterparty to that trade is the FOMC.**
+  ⇒ **⭐ That is the sharpest single sentence available on today's three separate events — the buyback, the
+  minutes, and the $40T print — and it only appears when all three are on the same page.** *(Analysis.)*
+- **✅ AND IT POPULATES A CHAIN THIS VAULT ALREADY CARRIED BUT COULD NOT NUMBER: [[ai-financing-fragility]]
+  `:L652` — *"5% debt → interest expense compounding → fiscal dominance → the debasement/repression
+  regime."*** ⇒ **The missing quantity was the AVERAGE rate, and it is 3.447% and rising 4.7bp/month.**
+  ⇒ **The gap between 3.447% and 5.19% IS the compounding, and it is now a tracked series.** *(Analysis.)*
+
+#### ⚠️ WHERE HIS CLAIM IS SUPPORTED AND WHERE IT IS NOT
+- **✓ SUPPORTED — THE MOTIVE.** **The arithmetic above is a sufficient fiscal reason to intervene at the
+  long end, and this board independently called the buyback "the first official counterforce" at 7:00am
+  before any of it was measured.**
+- **⛔ NOT ESTABLISHED — THE CAUSATION FROM *THIS* PRINT. "Scrambled" implies the debt number triggered the
+  response. The $40T crossing was 8/18; the buyback expansion was announced 8/19 — one day.** ⚠️ **A
+  quarterly-refunding schedule with a defined Sept 9 – Nov 4 window is not authored overnight, and $40T is
+  a ROUND NUMBER, not a mechanism.** ⇒ **The motive is real and now quantified. The SEQUENCING is
+  suggestive and unproven, and the vault should not upgrade it by repetition.** *(Analysis. Rule 10 —
+  a state is not an event.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **AVERAGE INTEREST RATE ON THE DEBT — MONTHLY TRACKED SERIES, STARTING NOW.** **3.447% (Jul-26),
+   trough 3.280% (Dec-24), pace +4.7bp/month over the last two months.** **The cleanest single measure of
+   fiscal dominance pressure and the vault had NO instrument for it before today.**
+2. 🚩🚩 **THE MATURITY SCHEDULE — how much rolls in the next 12 months, and at what average coupon?** ⬜ **It
+   converts the 174bp gap into an actual dollar bill. Not fetched.**
+3. 🚩 **WEIGHTED AVERAGE MATURITY OF THE DEBT, quarterly.** **The buyback-plus-bills strategy SHORTENS it;
+   if WAM is falling, the rollover-risk leg of the thesis above is confirmed mechanically.**
+4. ⬜ **Net interest outlay, monthly (MTS)** — the realised expense, versus the 3.447% × stock estimate.
+**Links:** [[ai-financing-fragility]] · [[new-economy-regime]] · [[transmission-chain]] · [[market-fragility]]
