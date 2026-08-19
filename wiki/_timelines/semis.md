@@ -1,6 +1,6 @@
 # ⏱ SEMIS — merged timeline (the gate)
 
-> **42 dated entries across 2 notes · 2026-07-09 → 2026-08-13 · refreshed 2026-08-19 00:21 PDT**
+> **42 dated entries across 2 notes · 2026-07-09 → 2026-08-13 · refreshed 2026-08-19 06:44 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before

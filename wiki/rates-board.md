@@ -200,3 +200,64 @@ the 2Y also rose, and 2s30s widened ≥25bp; episodes ≥90 days apart are disti
 - **⬜ WHAT THIS CANNOT SETTLE: the data starts in 1990, so 1986-87 and 1993-94 are outside it.** Two of
   the claim's four episodes are untestable here. 🚩 **A pre-1990 monthly series (GS2/GS30) would close
   it — FRED's CSV endpoint is currently serving bot-protection HTML; needs another route.**
+
+### 2026-08-19 ~7:00am PDT — ★★★★★★ **TREASURY DOUBLES LONG-END BUYBACKS ($2B → "AT LEAST" $4B/OPERATION, 10-20Y AND 20-30Y, FROM SEPT 9 TO NOV 4). ⇒ THE FIRST OFFICIAL COUNTERFORCE TO THIS BOARD'S FOUR-ROUTE STANDING CONCLUSION — AND IT IS A DATED, FALSIFIABLE EVENT.** ⛔ **But it is CASH-NEUTRAL: a duration swap, not QE, not new demand**
+Source: Jake's read of the Treasury announcement, 2026-08-19 morning. **His framing correction is the
+right one and is adopted here: this is NOT "Treasury buying the 10Y and 20Y." It is an increase to
+LIQUIDITY-SUPPORT BUYBACKS in the 10-20Y and 20-30Y buckets.** ⚠️ **"At least" $4B; an updated schedule
+is pending — so any total is a FLOOR, not an announced figure.** Related: [[transmission-chain]] (stage 1)
+
+#### DATA (REPORTED)
+- **Max purchase size per operation: $2B → AT LEAST $4B.** Buckets: **10-20Y and 20-30Y.**
+- **Effective 2026-09-09, running through the end of the current refunding quarter, 2026-11-04.**
+- **Seven relevant long-end operations remain after the change**, roughly alternating between buckets.
+- **⇒ ARITHMETIC CONFIRMED (Jake's): 7 × $2B = $14B → 7 × $4B = $28B.** ~57 days, **~$3.5B/week gross.**
+
+#### SCALE — the discipline before the interpretation
+- **$28B vs the $360B of AUGUST COUPON SUPPLY the 30Y auction cleared into (`:53`) = 7.8%.**
+- **$4B per operation ≈ 16% of a single ~$25B-class 30Y reopening.**
+- ⇒ **Materially larger than before, and still SMALL against gross issuance. This is a marginal-pressure
+  tool, not a supply solution.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ FIRST, THE THING THAT WILL BE GOT WRONG EVERYWHERE TODAY: TREASURY BUYBACKS ARE CASH-NEUTRAL.
+  Treasury funds them by ISSUING ELSEWHERE.** ⇒ **This is NOT QE, NOT central-bank demand, and NOT a
+  reduction in total borrowing.** **It is a MATURITY/DURATION SWAP: retire off-the-run long paper, fund
+  it with shorter or on-the-run issuance.** ⇒ **The correct statement of the effect is narrow and it is
+  still real: it removes DURATION from the market's hands without changing the deficit.**
+  *(Analysis. Anyone calling this "the Fed is back" has skipped the funding side.)*
+- **★★★★★★ AND ON THIS BOARD'S OWN FRAMEWORK, A DURATION SWAP IS EXACTLY THE INTERVENTION THAT BITES.**
+  The standing conclusion, four independent routes: ***the long end is priced by TERM PREMIUM AND
+  SUPPLY, not by the expected path of policy.*** ⇒ **Term premium is compensation for holding duration.
+  Treasury just announced it will absorb ~$28B more of it over eight weeks.** ⇒ **This is the first
+  official action aimed at the precise variable the vault says is doing the pricing.** **It does not
+  falsify the four-route conclusion — it CONFIRMS the mechanism by attacking it.**
+- **★★★★★ AND THE TIMING SAYS THEY ARE RESPONDING TO THE AUCTION INTERNALS THIS BOARD ALREADY FLAGGED.**
+  `:61` recorded **bid dispersion 33.6bp at the 30Y vs 11.3bp at the 10Y** as *"the sharpest number
+  nobody flagged."* **The 30Y then stopped at 5.216% (highest since 2001) and made a new high at 5.31%.**
+  ⇒ **Doubling a LIQUIDITY-SUPPORT facility days later is a policy response to deteriorating long-end
+  liquidity.** ⇒ **⚠️ WHICH CUTS BOTH WAYS, AND THE SECOND WAY IS THE ONE TO KEEP: you do not double a
+  liquidity facility when the market is functioning well.** **Bullish for PRICE, bearish as a SIGNAL
+  about market functioning — the same two-sided structure as the auction internals themselves.**
+- **★★★★ THIS IS A DATED, FALSIFIABLE EVENT — rule 10 satisfied, which almost nothing on this board is.**
+  **📌 REGISTERED: 2026-09-09 start, 2026-11-04 end.**
+  **⬜ IF the 30Y stabilises or richens into September on ~$3.5B/week of buying, the supply channel is
+  confirmed AND shown to be policy-sensitive.**
+  **⬜ IF the 30Y keeps making highs THROUGH the doubled buybacks, that is the stronger finding: supply
+  pressure large enough to absorb an official bid, and the four-route conclusion gets a severity upgrade.**
+- **↔ FOR [[transmission-chain]] — STAGE 1 JUST GOT AN OFFICIAL BUYER, AND STAGE 1 IS WHAT HAS BEEN
+  DRIVING THE FAST CHANNEL.** The 8/18 reading: **stages 1-3 tightening, 4-5 intact, and equity taking
+  it through the DISCOUNT RATE rather than through orders.** ⇒ **If the long end stabilises from 9/9,
+  the fast-channel pressure on stages 4-5 eases without anything changing in the AI complex itself.**
+  ⇒ **🚩 That makes 9/9 a dated catalyst for the EQUITY read, not only the rates read.**
+- **⚠️ AND THE LIMIT, STATED: ~$3.5B/week against a market that just absorbed $360B in a quarter is a
+  THUMB ON THE SCALE, not a floor.** **It can change the marginal clearing price; it cannot fund the
+  deficit.** **Do not let "Treasury is buying" become "the long end is capped."**
+
+#### 🚩 REGISTERED
+1. 🚩🚩🚩 **THE UPDATED SCHEDULE.** "At least $4B" and "schedule coming" ⇒ the $28B is a floor. **The
+   actual per-operation sizes are the number that matters, and they are not published yet.**
+2. 🚩🚩 **30Y and 2s30s on 9/9 and each operation date** — the direct test, cheap, on the primary series
+   already committed to `data/treasury_curve_1990_2026.csv`.
+3. 🚩 **Buyback OPERATION RESULTS** (offers received vs accepted). **A weak offer-to-cover on a
+   liquidity-support buyback would say the dealers are not the ones holding the problem.**
