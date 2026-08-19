@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **163 dated entries across 2 notes · 2026-03-13 → 2026-08-18 · refreshed 2026-08-19 07:29 PDT**
+> **165 dated entries across 2 notes · 2026-03-13 → 2026-08-19 · refreshed 2026-08-19 07:56 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -185,3 +185,5 @@
 - `2026-08-18` [oil-value-chain.md:L1471](../oil-value-chain.md) — 2026-08-18 ~11:05am PDT — ⭐⭐⭐⛔ **THE BRIDGE SERIES LANDS AND IT PARTLY REVERSES MY OWN DISCONFIRMER FROM THIS MORNING: US DISTILLATE EXPORTS ARE 1,935
 - `2026-08-18` [oil-value-chain.md:L1527](../oil-value-chain.md) — 2026-08-18 ~11:30am PDT — ⭐⭐⭐⭐ **RETAIL DIESEL LANDS (the flag open since 8/18 ~9:00am) AND IT PRODUCES THE SHARPEST NUMBER OF THE WEEK: THE REFINER I
 - `2026-08-18` [oil-value-chain.md:L1581](../oil-value-chain.md) — 2026-08-18 ~1:20pm PDT — ⚠️⚠️ **A THIRD-PARTY VERIFICATION BRIEF GRADES "DIESEL CRACK AT AN ALL-TIME HIGH ~$102.20" AS *CONFIRMED* — WHICH DIRECTLY CO
+- `2026-08-19` [demand-destruction.md:L3651](../demand-destruction.md) — 2026-08-19 ~7:55am PDT — ⭐⭐⭐ **RATIONING REACHES MOSCOW AND RUSSIA IS NOW *IMPORTING* PRODUCT — but the shortage is a GASOLINE shortage, and the regio
+- `2026-08-19` [oil-value-chain.md:L1611](../oil-value-chain.md) — 2026-08-19 ~8:05am PDT — ⛔⛔ **THE RUSSIAN SHORTAGE IS A *GASOLINE* SHORTAGE, AND THAT CUTS *AGAINST* THE CRACK POSITION TWICE: it is the one product t

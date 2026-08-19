@@ -1,6 +1,6 @@
 # ⏱ INVENTORY — merged timeline (the gate)
 
-> **131 dated entries across 1 notes · 2026-03-13 → 2026-08-14 · refreshed 2026-08-19 07:29 PDT**
+> **132 dated entries across 1 notes · 2026-03-13 → 2026-08-19 · refreshed 2026-08-19 07:56 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -153,3 +153,4 @@
 - `2026-08-13` [demand-destruction.md:L3515](../demand-destruction.md) — 2026-08-13 ~12:55pm PDT — ⛔⛔⛔⛔ **THE SPR NUMBER IN THIS NOTE IS WRONG BY A FACTOR OF ~100, AND I BUILT THIS MORNING'S HEADLINE SYNTHESIS ON IT.** Actu
 - `2026-08-14` [demand-destruction.md:L3562](../demand-destruction.md) — 2026-08-14 ~5:40pm PDT — ⭐ ODD-EVEN PLATE RATIONING IS THE HARD DATUM — but the two events pull refining margins in OPPOSITE directions: **Sheskharis 
 - `2026-08-14` [demand-destruction.md:L3618](../demand-destruction.md) — 2026-08-14 ~5:55pm PDT — ⛔ JAKE IS RIGHT AND MY CAVEAT WAS OVERSTATED: **the US has imported essentially ZERO Russian crude since the March-2022 ban, 
+- `2026-08-19` [demand-destruction.md:L3651](../demand-destruction.md) — 2026-08-19 ~7:55am PDT — ⭐⭐⭐ **RATIONING REACHES MOSCOW AND RUSSIA IS NOW *IMPORTING* PRODUCT — but the shortage is a GASOLINE shortage, and the regio
