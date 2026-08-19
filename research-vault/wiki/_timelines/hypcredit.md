@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **189 dated entries across 3 notes · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 14:22 PDT**
+> **190 dated entries across 3 notes · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 14:30 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -202,6 +202,7 @@
 - `2026-08-18` [rates-board.md:L83](../rates-board.md) — 2026-08-18 ~11:55am PDT — ⛔⛔ **"BEAR STEEPENING PRECEDED 3 OF 4 MAJOR TOPS SINCE 1962" IS THE BASE RATE WITH A STORY. COMPUTED: P(3-or-4 of 4 | pure c
 - `2026-08-18` [rates-board.md:L132](../rates-board.md) — 2026-08-18 ~12:25pm PDT — ✅⛔⛔⛔ **THE SPREAD SERIES IS BUILT FROM THE PRIMARY SOURCE, AND IT DESTROYS THE CLAIM'S FIRST CLAUSE: BEAR STEEPENING IS NOT 
 - `2026-08-19` [ai-financing-fragility.md:L6548](../ai-financing-fragility.md) — 2026-08-19 ~7:30am PDT — ★★★★★★ **MARVELL ISSUES GOOGLE A $12.18B WARRANT TO WIN TPU-ECOSYSTEM SILICON. ⇒ THE CIRCULARITY THREAD GETS ITS PUREST INSTA
+- `2026-08-19` [ai-financing-fragility.md:L6613](../ai-financing-fragility.md) — 2026-08-19 ~4:25pm PDT — ⭐⭐⭐⭐⭐⭐ **HIS QUESTION IS ANSWERABLE AND I WENT AND ANSWERED IT FROM SEC PRIMARY — AND THE HEADLINE IS NOT DEBT: ⭐⭐⭐ ALPHABET 
 - `2026-08-19` [hyperscaler-credit.md:L58](../hyperscaler-credit.md) — 2026-08-19 ~4:00pm PDT — ⛔⭐⭐⭐⭐⭐ **"NVIDIA AT DOUBLE THE TREASURY YIELD" IS THE SPREAD-vs-YIELD CONFUSION, AND THIS NOTE'S OWN NUMBER IS WHY: THE *SPRE
 - `2026-08-19` [rates-board.md:L182](../rates-board.md) — 2026-08-19 ~7:00am PDT — ★★★★★★ **TREASURY DOUBLES LONG-END BUYBACKS ($2B → "AT LEAST" $4B/OPERATION, 10-20Y AND 20-30Y, FROM SEPT 9 TO NOV 4). ⇒ THE 
 - `2026-08-19` [rates-board.md:L243](../rates-board.md) — 2026-08-19 ~7:03am PDT (scanner 14:03 UTC) — ⭐⭐⭐⭐⭐ **THE BUYBACK TEST FIRED THE SAME MORNING AND IT FIRED IN FAVOUR: LONG YIELDS FELL SHARPLY, TLT +1.

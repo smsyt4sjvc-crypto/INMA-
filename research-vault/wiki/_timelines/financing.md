@@ -1,6 +1,6 @@
 # ⏱ FINANCING — merged timeline (the gate)
 
-> **171 dated entries across 2 notes · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 14:22 PDT**
+> **172 dated entries across 2 notes · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 14:30 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -193,3 +193,4 @@
 - `2026-08-18` [ai-financing-fragility.md:L6512](../ai-financing-fragility.md) — [2026-08-18] **NVIDIA's announcement emphasises the infrastructure relationship and a $1.5B EQUITY
 - `2026-08-18` [ai-financing-fragility.md:L6514](../ai-financing-fragility.md) — [2026-08-18] **The "$105B" is graded QUALIFIED: *"media reporting discussed financing or guarantees
 - `2026-08-19` [ai-financing-fragility.md:L6548](../ai-financing-fragility.md) — 2026-08-19 ~7:30am PDT — ★★★★★★ **MARVELL ISSUES GOOGLE A $12.18B WARRANT TO WIN TPU-ECOSYSTEM SILICON. ⇒ THE CIRCULARITY THREAD GETS ITS PUREST INSTA
+- `2026-08-19` [ai-financing-fragility.md:L6613](../ai-financing-fragility.md) — 2026-08-19 ~4:25pm PDT — ⭐⭐⭐⭐⭐⭐ **HIS QUESTION IS ANSWERABLE AND I WENT AND ANSWERED IT FROM SEC PRIMARY — AND THE HEADLINE IS NOT DEBT: ⭐⭐⭐ ALPHABET 
