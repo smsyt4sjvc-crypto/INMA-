@@ -261,3 +261,37 @@ is pending — so any total is a FLOOR, not an announced figure.** Related: [[tr
    already committed to `data/treasury_curve_1990_2026.csv`.
 3. 🚩 **Buyback OPERATION RESULTS** (offers received vs accepted). **A weak offer-to-cover on a
    liquidity-support buyback would say the dealers are not the ones holding the problem.**
+
+### 2026-08-19 ~7:03am PDT (scanner 14:03 UTC) — ⭐⭐⭐⭐⭐ **THE BUYBACK TEST FIRED THE SAME MORNING AND IT FIRED IN FAVOUR: LONG YIELDS FELL SHARPLY, TLT +1.59%, GOLD >$4,500 (+3.33%) — WITH THE S&P AND RUSSELL POSITIVE AND VIX LOWER.** ⇒ **The supply channel is not just real, it is POLICY-SENSITIVE — and it did not wait for 9 September**
+Source: `Acute_Scanner_Validation_Brief_20260819.docx` (scanner run 14:03 UTC, validation immediately
+after) → `raw/2026-08-19-acute-scanner-validation-brief.txt`. Corroboration cited in the brief:
+**MarketWatch, "gold above $4,500 as long yields fall," 2026-08-19.**
+
+#### DATA (REPORTED — the 8/19 cross-asset tape)
+- **TLT +1.59% · gold +3.33%, above $4,500 · long yields LOWER · VIX LOWER · S&P 500 and Russell 2000
+  POSITIVE.** **Memory basket ≈ −4.61% against Mag-7 ≈ +0.36%.**
+- **⇒ A HAVEN BID AND A LOWER VIX AND A POSITIVE INDEX, SIMULTANEOUSLY.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THIS IS THE 7:00am ENTRY'S OWN TEST, ANSWERED WITHIN HOURS AND WITHOUT WAITING FOR THE
+  9 SEPTEMBER START.** That entry registered: ***"⬜ IF the 30Y stabilises or richens into September on
+  ~$3.5B/week of buying, the supply channel is confirmed AND shown to be policy-sensitive."***
+  ⇒ **Treasury doubled long-end buybacks this morning and long yields fell sharply the same morning.**
+  ⇒ **The market did not wait for a single bond to be purchased. It repriced on the ANNOUNCEMENT.**
+  ⇒ **★★★ THAT IS A STRONGER RESULT THAN THE ONE I REGISTERED: if the announcement alone moves it, the
+  long end is being priced by EXPECTED DURATION SUPPLY, which is exactly the four-route conclusion —
+  and it means the channel runs through expectations, not just through flow.**
+  ⚠️ **ONE MORNING IS NOT A CONFIRMATION. Attribution is inferred from same-day co-movement, and the
+  8/19 tape also contains a large memory-specific shock that could be driving a haven bid on its own.**
+  🚩 **The clean test remains 9/9 and the operation dates.**
+- **⚠️⚠️ AND IT REVERSES THE 8/18 DIRECTION, WHICH MUST BE SAID PLAINLY: yesterday this board recorded
+  the 30Y at 5.310%, a genuine new high, and equities taking it through the discount rate (the FAST
+  CHANNEL).** **Today: yields lower, TLT bid, index green, and the pain concentrated in memory.**
+  ⇒ **The duration story and the semis story DECOUPLED in one session.** ⇒ **⛔ Whatever hit memory on
+  8/19 is NOT the rates channel — the rates channel went the other way.**
+- **★★★★ AND THE COMBINATION IS THE ANOMALY WORTH KEEPING: GOLD +3.33% AND BONDS BID AND VIX LOWER AND
+  SMALL CAPS POSITIVE.** **A haven bid with a falling VIX is not fear — it is a duration/real-rate
+  repricing plus a sector liquidation, running side by side.** ⇒ **Consistent with the brief's own
+  headline: *"sector compression, not generalized liquidation."*** 🚩 **Gold above $4,500 with long
+  yields FALLING is a real-rate move; the vault has no gold instrument and this is the second time
+  gold has carried information it could not place.**
