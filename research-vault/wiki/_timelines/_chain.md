@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **550 dated entries · 2026-05-22 → 2026-08-18 · refreshed 2026-08-19 00:21 PDT**
+> **551 dated entries · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 06:44 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -579,3 +579,4 @@
 - `2026-08-18` **[3]** ai-financing-fragility.md:L6514 — [2026-08-18] **The "$105B" is graded QUALIFIED: *"media reporting discussed financing or guarantees
 - `2026-08-18` **[5]** memory-regime-question.md:L954 — 2026-08-18 ~4:45pm PDT — ★★★★★ **JAKE ASKS THE RIGHT QUESTION AND THE VOLUME ANSWERS IT: THE AUGUST PULLBACK IS RUNNING AT ~HALF THE JULY DRAWDOWN'S P
 - `2026-08-18` **[5]** compression-thesis.md:L2323 — 2026-08-18 ~2:30pm PDT (source 2026-08-13 11:11pm) — ⚠️★★★★ **A 57× PRICE SPREAD ACROSS A 7.2-POINT PERFORMANCE SPREAD — THE COMPRESSION THESIS AS ONE
+- `2026-08-19` **[1]** rates-board.md:L182 — 2026-08-19 ~7:00am PDT — ★★★★★★ **TREASURY DOUBLES LONG-END BUYBACKS ($2B → "AT LEAST" $4B/OPERATION, 10-20Y AND 20-30Y, FROM SEPT 9 TO NOV 4). ⇒ THE 

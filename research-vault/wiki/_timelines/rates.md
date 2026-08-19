@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **236 dated entries across 3 notes · 2026-06-30 → 2026-08-19 · refreshed 2026-08-19 00:21 PDT**
+> **237 dated entries across 3 notes · 2026-06-30 → 2026-08-19 · refreshed 2026-08-19 06:44 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -255,3 +255,4 @@
 - `2026-08-18` [rates-board.md:L83](../rates-board.md) — 2026-08-18 ~11:55am PDT — ⛔⛔ **"BEAR STEEPENING PRECEDED 3 OF 4 MAJOR TOPS SINCE 1962" IS THE BASE RATE WITH A STORY. COMPUTED: P(3-or-4 of 4 | pure c
 - `2026-08-18` [rates-board.md:L132](../rates-board.md) — 2026-08-18 ~12:25pm PDT — ✅⛔⛔⛔ **THE SPREAD SERIES IS BUILT FROM THE PRIMARY SOURCE, AND IT DESTROYS THE CLAIM'S FIRST CLAUSE: BEAR STEEPENING IS NOT 
 - `2026-08-19` [market-fragility.md:L4259](../market-fragility.md) — 2026-08-19 ~5:11am KST (2026-08-18 ~1:11pm PDT) — ⛔ **"SIDECAR ACTIVATED" READS LIKE A CRASH; THE ARC SAYS GIVE-BACK. KOSPI 6,441.39 (−6.24%) IS **+15
+- `2026-08-19` [rates-board.md:L182](../rates-board.md) — 2026-08-19 ~7:00am PDT — ★★★★★★ **TREASURY DOUBLES LONG-END BUYBACKS ($2B → "AT LEAST" $4B/OPERATION, 10-20Y AND 20-30Y, FROM SEPT 9 TO NOV 4). ⇒ THE 
