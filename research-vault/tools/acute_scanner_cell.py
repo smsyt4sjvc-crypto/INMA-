@@ -190,6 +190,13 @@ THREADS = {
                'western digital','wdc',
                'contract price','spot price','bit growth','wafer input'],
  # ── SEMIS ──
+ # gap #26 (2026-08-18, Jake): ETCHED had ZERO vault coverage despite a $5B->$21B ladder in 8 months,
+ # SK Hynix on the cap table and a named production customer. Inference-ASIC challengers had no thread.
+ 'INF-ASIC':  ['etched','sohu','inference asic','inference chip','rack-scale','rack scale',
+               'low voltage inference','cluster scale memory','mlperf','mlcommons',
+               'groq','cerebras','sambanova','tenstorrent','furiosa','rebellions','d-matrix',
+               'tokens per watt','tokens per dollar','tokens-per-watt','decode phase','prefill',
+               'serdes','retimer','optical dsp','co-packaged optics','cpo','substrate','interposer'],
  'SEMIS':     ['wafer','foundr','lithograph','advanced packaging','chip capex',
                'tsmc','asml','nvidia','nvda','amd','broadcom','avgo','intel','qualcomm',
                'rubin','blackwell','h100','h200','gb200','cowos'],

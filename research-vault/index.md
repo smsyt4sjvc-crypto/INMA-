@@ -11,6 +11,8 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 - [[transmission-chain]] — **Treasuries → hyperscaler CDS/spreads → funding appetite → capex
   commitments → supplier orders.** Which stage is a shock sitting on, and has it propagated?
   Merged 5-stage running log: `wiki/_timelines/_chain.md` (544 entries, 2026-05-22 →).
+- [[etched-inference-challenger]] — **stage 5, challenger side** (created 2026-08-18). Etched $5B→$21B
+  in 8 months, Jane Street as customer AND lead investor, no MLPerf. Router key `INF-ASIC`.
 - [[hyperscaler-credit]] — **stage 2**, created 2026-08-18. NVDA 5Y CDS ~40 → 80bp since late May.
 
 ## ⏱ THE GATES (`wiki/_timelines/`) — READ THE GATE BEFORE THE NOTE
