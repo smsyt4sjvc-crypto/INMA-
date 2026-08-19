@@ -67,3 +67,87 @@ while a NEW ENTRANT takes the seat.** Stage 5 is now measured from both sides.
 
 ---
 _Created 2026-08-18 on Jake's hierarchy spec._
+
+## ⛔⛔ AMENDMENT 2026-08-19 ~10:05am PDT — **TWO STRUCTURAL HOLES, AND THE SECOND IS THE MORE IMPORTANT: (a) STAGE 4 IS NOT ONE NUMBER — PART OF IT IS 15-25 YEAR TAKE-OR-PAY CONTRACT, NOT A CANCELLABLE CAPEX GUIDE; (b) STAGE 3 HAS A FUNDING CHANNEL THIS CHAIN HAS BEEN BLIND TO — REGULATED UTILITY RATE BASE**
+Source: Jake's compiled research, *"Where the Data-Center Power Money Is Going — U.S. 2026"*, 2026-08-19
+→ `raw/2026-08-19-dc-power-money/brief.md`. Gate: POWER(13), CAPEX(12), CHAIN(2); **full-text sweep found
+NO multi-token hits — genuinely new territory for the map.**
+⚠️ **ARTIFACT TEST: a COMPILED SECONDARY document with per-claim attributions (Talen, AEP, Chevron, Entergy,
+Evergy, Oracle, Bloom, GE Vernova, IEA…). I verified NONE of it independently. Every figure below is
+REPORTED. Most are checkable in 8-Ks and PUC dockets; that is the fetch, and it is not done.**
+
+### THE HOLE IN STAGE 4 — the instrument list misses the hardest part of the stage
+- **This table's stage-4 instruments are "capex guides, off-balance-sheet commitments, useful life, project
+  phases."** ⇒ **ALL OF THOSE ARE THINGS A HYPERSCALER CAN REVISE.** ⇒ **The document shows a large and
+  growing share of stage-4 spending is instead a SIGNED ELECTRIC SERVICE AGREEMENT OR PPA OF 15-25 YEARS
+  WITH A NAMED COUNTERPARTY, MINIMUM-PAYMENT FLOORS, COLLATERAL AND TERMINATION CHARGES.**
+- **THE HARDEST REPORTED NUMBER IN THE WHOLE DOCUMENT: EVERGY'S LARGE-LOAD STRUCTURE — CUSTOMERS
+  RESPONSIBLE FOR MINIMUM PAYMENTS COVERING AT LEAST 80% OF CONTRACTED CAPACITY, PLUS COLLATERAL AND
+  TERMINATION CHARGES**, across ESAs with Google (×2), Meta and Beale ≈ **2.5 GW aggregate signed peak load**
+  by Q1 2026. **⚠️ EVERGY DOES NOT APPEAR ANYWHERE IN THIS VAULT BEFORE TODAY.**
+- **Same shape elsewhere:** Oracle pays **100%** of energy costs at the DTE Stargate site incl. storage,
+  transmission and dedicated substation · Equinix bears **100%** of the Central Georgia co-op's cost of
+  service incl. new generation, HV substation and two transmission lines · Google pays DTE the **full cost**
+  of generation, storage, transmission and distribution.
+- ⇒ **★★★★★★ STAGE 4 THEREFORE SPLITS INTO A CANCELLABLE HALF (capex guides, project phases) AND A
+  CONTRACTED HALF (ESAs/PPAs with minimums). THIS TABLE'S "INTACT — SO FAR" READS THE CANCELLABLE HALF
+  ONLY.** ⇒ **The contracted half does not have a "so far." It has a term.** *(Analysis.)*
+
+### THE HOLE IN STAGE 3 — and this is the one that changes the chain's headline
+- **Stage 3 asks "will anyone actually FUND it, and on what terms?" and its instruments are all PRIVATE:
+  deal placement, SPV/ABS terms, RVGs, the Bermuda bid. Current state: RATIONING.**
+- ⇒ **⛔ THE DOCUMENT EXHIBITS A FOURTH CHANNEL THAT BYPASSES ALL OF THEM: A REGULATED UTILITY WITH A
+  PUC-APPROVED LARGE-LOAD CONTRACT FINANCES THE GENERATION THROUGH ITS OWN RATE BASE, AT UTILITY COST OF
+  CAPITAL, WITH COST RECOVERY.** **Entergy's Meta-driven plan alone: seven new CCGTs >5.2 GW, ~240 miles of
+  500-kV, storage at three sites, nuclear uprates, up to 2.5 GW of new renewables — structured so Meta bears
+  the cost of serving its load.** **DTE: ~1.4 GW for Oracle plus 1.0 GW for Google through Dec-2047.**
+- ⇒ **★★★★★★ THAT IS THE CHEAPEST CAPITAL IN THE ENTIRE SYSTEM AND THIS CHAIN COULD NOT SEE IT, BECAUSE
+  STAGE 3 WAS BUILT LOOKING ONLY AT PRIVATE CREDIT AND SECURITISATION.** ⇒ **"RATIONING" MAY BE TRUE OF THE
+  CHANNEL THE VAULT WAS WATCHING AND FALSE OF THE SYSTEM.** ⇒ **This is the same class of error as the 8/18
+  Etched amendment above — the stage was measured on one market and generalised to the stage.**
+  ⚠️ **NOT a claim that stage 3 is fine: regulated financing is SLOW, capacity-limited and PUC-gated. It is a
+  claim that the chain's stage-3 instrument set is INCOMPLETE.** *(Analysis.)*
+
+### ⇒ THE CHAIN GAINS A NODE: STAGE 4b — THE POWER COUNTERPARTY
+| # | stage | the question | primary instrument | note |
+|---|---|---|---|---|
+| **4b** | **Power counterparty (utility / generator / powered landlord)** | who holds the CONTRACTUAL CLAIM on the hyperscaler's cash flow, and who then spends it? | ESAs, large-load tariffs, PPAs, PUC dockets, minimum-payment & termination terms, customer-funded substation/transmission filings | [[power-scarcity-equities]] · [[power-not-petroleum]] |
+- **★★★★★ THE POINT OF THE NODE, IN ONE LINE THE DOCUMENT GETS EXACTLY RIGHT: THE UTILITY/GENERATOR HAS A
+  CLAIM ON THE *HYPERSCALER'S CASH FLOW*; THE EQUIPMENT MAKER HAS A CLAIM ON THE *UTILITY'S CAPEX*.**
+  ⇒ **Two different credits, two different durations, two different failure modes — and stage 5 was
+  measuring only the second.** *(Analysis.)*
+- **★★★★★★ AND IT INDEPENDENTLY RE-DERIVES THE VAULT'S OWN 2000 FINDING FROM CONTRACT STRUCTURE RATHER
+  THAN FROM PRICE HISTORY, WHICH IS THE CORROBORATION STANDARD.** `ai-capex-cycle:L2717`: ***"BACKLOG IS NOT
+  DURATION. A signed PPA or a 20-year lease is duration; an order book is a queue of cancellable
+  intentions"*** — **contracted-revenue owners (Crown Castle) grew through the 2000 bust; order-book
+  installers (Quanta, Dycom) fell with the equipment makers.** ⇒ **That note assigned utilities/REITs to the
+  Crown Castle side and GEV to the Quanta side FROM 2000 PRICES. This document reaches the same split FROM
+  2026 CONTRACT TERMS.** ⇒ **And it grades GEV's position on its own ladder: ~116 GW of gas backlog **PLUS
+  SLOT RESERVATIONS** — and a slot reservation is a RESERVATION, not an order.** *(Analysis.)*
+- **⇒ ★★★★★ THE RISK REALLOCATION, WHICH IS THE TRADE-RELEVANT OUTPUT: IF THE AI CAPEX CYCLE DISAPPOINTS,
+  THE LOSS DOES NOT LAND FIRST ON THE UTILITY — IT IS PROTECTED BY MINIMUMS, COLLATERAL AND TERMINATION
+  CHARGES. IT LANDS ON THE HYPERSCALER (which still owes) AND ON THE EQUIPMENT MAKER (whose orders were
+  placed against utility capex that can be deferred).** ⇒ **That INVERTS the intuitive "utilities are the
+  bubble beta" read.** *(Analysis.)*
+
+### ⛔ AND A HOUSEKEEPING HAZARD THE COLLISION CHECK JUST EXPOSED — DO NOT DOUBLE-COUNT THE GIGAWATTS
+- **The document's warning: one campus can carry a utility-service contract + a renewable PPA + a nuclear
+  contract + storage + fuel cells + backup gensets AT ONCE. Those MW DO NOT ADD.** **A 1 GW site drawing
+  from DTE while Google signs matching renewable PPAs is not 2 GW of load.** **Correct unit: CRITICAL IT
+  LOAD / PEAK CAMPUS LOAD first, then ask which resources physically SERVE vs financially MATCH it.**
+- ⇒ **⚠️ THIS VAULT IS EXPOSED TO EXACTLY THIS. Today's collision check found "5 GW" on 12 lines and
+  "800 MW" on 9, across notes that were never reconciled against one another.** 🚩 **A GW audit is now owed,
+  and it is the same class as the 8/13 SPR 100× error: a number reused without checking its unit.**
+
+### 📌 REGISTERED
+1. 🚩🚩🚩 **VERIFY THE EVERGY 80% MINIMUM FROM PRIMARY** (10-Q/10-K or the Kansas/Missouri large-load tariff).
+   **It is the single most load-bearing reported fact here and the vault has zero prior Evergy coverage.**
+2. 🚩🚩🚩 **GW AUDIT ACROSS THE VAULT** — reconcile every GW/MW figure to critical-IT-load vs contracted
+   supply vs financially-matched. **Same discipline as the post-SPR magnitude audit.**
+3. 🚩🚩 **ADD STAGE 4b INSTRUMENTS TO THE ROUTINE:** PUC docket filings, ESAs, customer-funded
+   substation/transmission filings. **These lead 8-Ks; the document's own claim is that the leading
+   indicator sits in a commission docket, not in an earnings release.**
+4. 🚩 **STAGE-3 RE-TEST: what share of announced AI power capex is being funded through REGULATED RATE BASE
+   vs private credit/ABS?** **If the regulated share is large, "RATIONING" is a channel finding, not a
+   system finding, and the chain's headline needs restating.**
+**Links:** [[power-scarcity-equities]] · [[power-not-petroleum]] · [[ai-capex-cycle]] · [[ai-financing-fragility]] · [[buildout-bottleneck-map]]
