@@ -4383,3 +4383,55 @@ wasn't of course) sparking a furious meltup and record call buying… pushed dea
   a single programme; a category behaves differently and re-fills faster.
 - ⬜ **The exact Bessent wording and date-stamp.** Jake's quote is a recollection; the vault's ledger has
   *"opens tomorrow"* + Axios *"ANNOUNCEMENT Wednesday"* at 8/04 7:21pm, which is close but not identical.
+
+### 2026-08-19 ~5:11am KST (2026-08-18 ~1:11pm PDT) — ⛔ **"SIDECAR ACTIVATED" READS LIKE A CRASH; THE ARC SAYS GIVE-BACK. KOSPI 6,441.39 (−6.24%) IS **+15.8% ABOVE** THE 7/28 CRASH PRINT AND **UP +3.23% ON THE WEEK.** ⚠️ But it is still **−30.5%** from the July high, and the ONE series that discriminates the whole Korea thesis is the WON — checkable today
+Source: Jake's screenshots — ZH *"KOREA EXCHANGE ACTIVATES SIDECAR TO HALT KOSPI PROGRAM SELLING"* +
+*"KORU JENKINS with ye olde −25%"*; TradingView **KOSPI 6,441.39, −428.44 = −6.24% today, +3.23% past
+5 days** (prior close 6,869.83). Related: [[transmission-chain]] · [[memory-regime-question]]
+
+#### DATA — TODAY AGAINST THIS NOTE'S OWN KOSPI TRACK
+| date | KOSPI | source |
+|---|---|---|
+| 2026-07-16 | 6,761.86 | `:591` |
+| 2026-07-27 | 6,343.87 | `:948` |
+| 2026-07-28 | **5,564** (−7.63%, *"−40% from the July high"*) | `:1266` |
+| 2026-07-29 | 5,531.56 halt, resumed 1.76% lower, true session **−9.78%** | `:1529`ff |
+| 2026-08-17 | 6,869.83 (implied prior close) | today's print |
+| **2026-08-18/19** | **6,441.39 (−6.24%)** | TradingView |
+- **vs the 7/28 crash print: +15.8%. vs the 7/29 halt level: +16.4%. vs the implied July high (~9,273
+  from the vault's own "−40% at 5,564"): −30.5%.**
+- **The index is UP +3.23% on the WEEK on the day the sidecar fired.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ THE HEADLINE AND THE ARC POINT OPPOSITE WAYS, AND THE ARC IS THE ONE WITH THE DATA.** A
+  sidecar print, a −6.24% day and a −25% leveraged ETF read as a fresh collapse. **The track says KOSPI
+  round-tripped to roughly its 7/16 level after a +24% recovery off the 7/29 halt, and gave back one
+  day of it.** ⇒ **This is a give-back inside a violent recovery, NOT a new low.** ⚠️ **And the other
+  half is equally true and must be said in the same breath: −30.5% from the July high is not a healed
+  market.** *(Analysis. Neither number alone is the picture — this is the arc doing its job.)*
+- **⛔ THE "−25%" ON KORU IS NOT A ONE-DAY MOVE AND THE POST IMPLIES IT IS.** **KORU is 3x daily. 3 ×
+  (−6.24%) ≈ −18.7%, not −25%.** **The posted chart runs 25.34 high → 17.84 = −29.6% and spans several
+  sessions.** ⇒ **What is being shown is MULTI-DAY DRAWDOWN PLUS LEVERAGE DECAY, presented as a single
+  session.** **A 3x fund cannot lose 25% on a −6.24% index day.** *(Analysis. Instrument/period
+  mismatch — the same class as the HO/CL month mismatch.)*
+- **★★★★ AND THE MECHANISM IS THE ONE THIS NOTE ALREADY NAMED ON 7/29: "3x SINGLE-STOCK LEVERAGED ETFs
+  BOUGHT BY RETAIL" (`:1529`).** **KORU is the country-level member of that family.** ⇒ **The vault
+  registered this instrument class as the amplifier before this drawdown; it is amplifying again.**
+  **Not a new finding — a registered one recurring, which is worth more.**
+- **⚠️ SIDECAR ≠ CIRCUIT BREAKER, AND THE DISTINCTION IS THE WHOLE SIGNAL.** A sidecar halts **program /
+  basket** trading briefly on a futures move; a circuit breaker halts the market. ⇒ **This is a much
+  lower bar than the 7/29 event, which was a genuine trading halt that CLEARED LOWER.** **`:1529`'s test
+  applies directly: *"A halt that clears LOWER is the sell pressure surviving the pause."*** 🚩 **The
+  test for today: where did it resume?** ⬜ Not in hand.
+- **★★★★★★ AND THE DISCRIMINATOR FOR THE ENTIRE KOREA THESIS IS THE WON, WHICH `:1529` CALLED "THE MOST
+  INTERESTING UNEXPLAINED SERIES IN THE VAULT."** The July record: **the won STRENGTHENED ~6.7% on the
+  month while equities lost a third** — which the note read as **export-earnings conversion, not
+  capital flight**, and concluded **"channel (a) is structurally shut."** ⇒ **IF THE WON WEAKENS ON
+  TODAY'S −6.24%, THAT READ FLIPS TO CAPITAL FLIGHT AND THE WHOLE KOREA FRAME CHANGES. IF IT
+  STRENGTHENS AGAIN, THE JULY CONCLUSION SURVIVES ITS SECOND TEST.** 🚩🚩🚩 **ONE FETCH: USDKRW today.
+  This is the highest-value item on the Korea thread and it is a single quote.**
+- **↔ CHAIN PLACEMENT ([[transmission-chain]]): Korea is where STAGE 5 is observable.** SK Hynix and
+  Samsung ARE the AI supplier-order stage. ⇒ **If today is memory-led, the shock has finally propagated
+  to stage 5 and the "stages 1-3 only" read from this morning is obsolete. If it is duration/macro-led,
+  it is the FAST CHANNEL again (rates → multiple), bypassing 3-5.** 🚩 **CHECK: SK Hynix and Samsung
+  vs the KOSPI index today. That single comparison assigns this event to a stage.**

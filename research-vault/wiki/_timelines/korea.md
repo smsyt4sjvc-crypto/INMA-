@@ -1,6 +1,6 @@
 # ⏱ KOREA — merged timeline (the gate)
 
-> **114 dated entries across 1 notes · 2026-07-01 → 2026-08-16 · refreshed 2026-08-18 17:12 PDT**
+> **115 dated entries across 1 notes · 2026-07-01 → 2026-08-19 · refreshed 2026-08-18 17:14 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -130,3 +130,4 @@
 - `2026-08-16` [market-fragility.md:L4153](../market-fragility.md) — 2026-08-16 ~7:25pm PDT — ⛔⛔ I OVERCORRECTED 15 MINUTES AGO AND THE PUBLIC DATA SAYS SO. **DISPERSION ROSE 44% WHILE INDEX VOL FELL 33% FROM MARCH TO J
 - `2026-08-16` [market-fragility.md:L4158](../market-fragility.md) — DATA (MEASURED — Yahoo/CBOE pulls, close arrays not `meta`, 2026-08-16 ~7:25pm PDT)
 - `2026-08-16` [market-fragility.md:L4206](../market-fragility.md) — 2026-08-16 ~10:20pm PDT — ⛔ THE VAULT'S OWN 8/05 LEDGER CORRECTS THE RECOLLECTION ("there wasn't, of course") — **SOMETHING DID PRINT: IRAN'S FOREIGN 
+- `2026-08-19` [market-fragility.md:L4259](../market-fragility.md) — 2026-08-19 ~5:11am KST (2026-08-18 ~1:11pm PDT) — ⛔ **"SIDECAR ACTIVATED" READS LIKE A CRASH; THE ARC SAYS GIVE-BACK. KOSPI 6,441.39 (−6.24%) IS **+15
