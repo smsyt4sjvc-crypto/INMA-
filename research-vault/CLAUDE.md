@@ -39,6 +39,16 @@ RATES --tokens 30y,10y [--full]`. ⚠️ **The movement track is grep-built: ~1 
 unrelated figure. Every row carries file:line — check before quoting one.** *(Origin: 8/17, the $420B error — the router ranks by RECENCY inside a note, so
 a 6,500-line file shows its newest 3% and a three-week-old denominator the vault already owned never
 surfaced.)* ·
+⭐ **THE QUOTE-HEADER RECONCILIATION TEST (added 2026-08-19, Jake's catch: *"they never reconcile
+because there's more than one setting"*).** **On ANY pasted chart screenshot, before quoting a single
+figure from it: solve `prior = change_$ ÷ (pct ÷ 100)`, then test `price_shown − change_$ ≈ prior`.**
+**If it fails, the three fields do NOT belong to the same session and NONE of them may be quoted as a
+move.** *(2026-08-19 MRNA: header read "130.52 −1.50 (−2.33%)"; the pair solves to a 62.96 close off a
+~64.46 prior — the PREVIOUS session, verbatim, while the price field had already refreshed to the
+current one. Two different days in one header.)* **⇒ THE CANDLE GEOMETRY IS THE DATUM; THE HEADER IS A
+SEPARATE QUOTE WIDGET AND IS NOT TRUSTED.** **Same failure class as `meta.chartPreviousClose`
+(`market-fragility:L3492`) — a denominator that does not belong to its numerator, i.e. error class 2.**
+**Never derive a % move from a screenshot: re-pull it with `tools/tape.py`.** ·
 the **router brief** (⟲ trail → ⛔ corrections → ★★★ standing → 🚩 flags) · the **map-independent
 full-text sweep** (catches vocabulary the map missed — flags "MAP COULD NOT REACH THIS" only when the
 router failed) · the **artifact dupe check** against raw/ + handoffs/ (would have caught the 8/8

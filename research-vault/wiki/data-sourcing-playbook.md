@@ -448,3 +448,62 @@ Source: reachability tests during the [[colab-archive-audit]] ingest.
   17→27 ID expansion against a transport failure. *(Analysis.)*
 - **Standing consequence: yfinance-dependent cells are JAKE-SIDE, not container-side, until 429 clears.**
   23 of the 50 archived notebooks and `tools/acute_scanner_cell.py` are in that set.
+
+## 2026-08-19 ~10:40am PDT — ⭐⭐⭐⭐ **QUOTE-HEADER RECONCILIATION — Jake is right that these headers never reconcile, and the MRNA one resolves EXACTLY: its change pair is the PREVIOUS SESSION, verbatim, sitting above a price field that already refreshed. Two different days in one header.** ⛔ His interval hypothesis is a real bug — but it is NOT the one that fired here
+Source: Jake, chat 2026-08-19 ~10:35am PDT — *"sometimes it might be up 30% on the day and at the top it
+still shows it down one or 2%… I don't know if that reflects the last candle or whatever you have the
+candle setting to… it seems to never reconcile cause there's more than one setting."*
+**⟲ EXTENDS the `meta.chartPreviousClose` doctrine at [[market-fragility]]`:L3492`** — same failure class,
+different vendor. **Promoted into the ingest protocol at `CLAUDE.md:L42`.**
+
+### THE ARITHMETIC, WORKED — because "charts do funny things" is not a diagnosis
+- **Header as pasted: price `130.52` · change `−1.50` · pct `−2.33%`.**
+- **Step 1 — do the two CHANGE fields agree with each other?** `prior = 1.50 ÷ 0.0233 = 64.38`
+  ⇒ `current = 64.38 − 1.50 = 62.88`. **With display rounding (pct anywhere in −2.325%…−2.335%) the
+  implied current lands in 62.74–63.02.**
+- **Step 2 — MRNA's ACTUAL 2026-08-18 close, from an independent pull (`tools/tape.py`): 62.96.**
+  ⇒ **62.96 SITS INSIDE THAT BAND.** ⇒ **✓ THE CHANGE PAIR IS INTERNALLY CONSISTENT AND IT IS THE 8/18
+  SESSION, not an approximation of it.**
+- **Step 3 — does the PRICE field belong to the same pair?** `130.52 − 1.50 = 129.02 ≠ 64.38`. **No.**
+- ⇒ **⛔ VERDICT: THE PRICE FIELD REFRESHED TO 8/19; THE CHANGE FIELDS DID NOT. A PARTIAL REFRESH, NOT AN
+  INTERVAL MISMATCH.**
+
+### THE REUSABLE TEST — three lines, runs on any pasted quote header
+1. **`prior = change_$ ÷ (pct ÷ 100)`.**
+2. **`price_shown − change_$ ≈ prior`?** **PASS** ⇒ all three fields are one session; still verify `prior`
+   against the real prior close. **FAIL** ⇒ **the fields come from different sessions or instruments and
+   NONE of them may be quoted as a move.**
+3. **Re-pull with `tools/tape.py` regardless. Never derive a % from a screenshot.**
+
+### THESIS (interpretation — NOT fact)
+- **★★★★★ HIS MECHANISM IS REAL AND SHOULD BE KEPT — IT JUST EXPLAINS A DIFFERENT CASE. A header bound to
+  the LAST COMPLETED CANDLE on a 15m/1h/4h setting will happily show −1% while the SESSION is +30%,
+  because the last candle genuinely was −1%.** ⇒ **That case is INTERNALLY CONSISTENT — its change and
+  its pct agree with each other; it just answers a different question than "the day."** ⇒ **THE TEST
+  ABOVE SEPARATES THE TWO: interval mismatch PASSES step 2 and fails only against the daily close;
+  a stale-field bug FAILS step 2.** ⇒ **Two distinct bugs, one diagnostic.** *(Analysis. Adopting his
+  hypothesis as a named case rather than dismissing it because it did not fire today.)*
+- **★★★★★★ AND THE GENERALISATION IS THE POINT: THIS IS NOT A TRADINGVIEW QUIRK, IT IS QUOTE PLUMBING,
+  AND THE VAULT HAS AN INSTANCE FROM A DIFFERENT VENDOR ON THE SAME DAY.** **`market-fragility:L3492`
+  (8/14): `meta.chartPreviousClose` returns the close before the REQUESTED RANGE, not the prior session —
+  it inverted every sign in a published entry.** **And today's own Moderna pull printed VLO live 348.56 /
+  prior close 350.05 / meta `309.65` — a 40-POINT phantom on a stock that did nothing.**
+  ⇒ **Every quote surface — vendor API, charting header, broker widget — ships a "change" field whose
+  DENOMINATOR is chosen by someone else's convention.** ⇒ **ERROR CLASS 2 (stale reference value), and it
+  is the vault's most expensive class because the number LOOKS fine.** *(Analysis.)*
+- **★★★★ THE OPERATIONAL RULE, AND IT IS THE PART WORTH REMEMBERING: THE CANDLE GEOMETRY IS THE DATUM;
+  THE HEADER IS A SEPARATE WIDGET.** **The chart body is drawn FROM the price series — on the MRNA
+  screenshot the pre-gap cluster at ~62-65 and the post-gap top at ~131 were both CORRECT against the
+  tape. Only the header lied.** ⇒ **When Jake pastes a chart, read the AXIS and the CANDLES; treat the
+  header as decoration until it passes step 2.** *(Analysis.)*
+- **⚠️ AND THE HONEST LIMIT: THIS EXPLAINS *THIS* HEADER. Jake reports the pattern across many charts and
+  many settings, and I have tested exactly one.** ⇒ **The test is what generalises; the diagnosis is not
+  claimed to.** *(Analysis.)*
+
+### 📌 REGISTERED
+1. ✅ **STANDING, NO EXCEPTIONS: run the three-step test on every pasted chart header before quoting it.**
+   Added to the ingest protocol (`CLAUDE.md:L42`).
+2. 🚩 **COLLECT THE FAILURE MODES.** **Two known: (a) stale field — fails step 2; (b) interval-bound
+   header — passes step 2, disagrees with the daily close.** **Log the next few so the taxonomy is
+   empirical rather than a pair of examples.**
+**Links:** [[market-fragility]] · [[quiet-health-screen]] · [[_calibration]]
