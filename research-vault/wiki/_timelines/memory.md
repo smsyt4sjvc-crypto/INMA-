@@ -1,6 +1,6 @@
 # ⏱ MEMORY — merged timeline (the gate)
 
-> **98 dated entries across 2 notes · 2026-07-16 → 2026-08-16 · refreshed 2026-08-18 17:14 PDT**
+> **99 dated entries across 2 notes · 2026-07-16 → 2026-08-18 · refreshed 2026-08-18 18:19 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -114,3 +114,4 @@
 - `2026-08-16` [compression-thesis.md:L2150](../compression-thesis.md) — 2026-08-16 ~9:38pm PDT — ★★★★★★ JAKE DECODES THE OPEN-SOURCE INCENTIVE, AND HIS OWN CITED EVIDENCE IS **STRONGER AND CHEAPER THAN HE STATED**: STRIPE 
 - `2026-08-16` [compression-thesis.md:L2204](../compression-thesis.md) — 2026-08-16 ~9:50pm PDT — ★★★★★★★ JAKE'S OPENROUTER NUMBERS, VERIFIED AND EXTENDED. **THE CAP TABLE IS THE ARGUMENT: CAPITALG (ALPHABET) *LED* AND NVEN
 - `2026-08-16` [compression-thesis.md:L2265](../compression-thesis.md) — 2026-08-16 ~10:07pm PDT — ★★★★★ JAKE FORMALISES OPEN-vs-CLOSED AS **COMMODITIZE-YOUR-COMPLEMENT** AND BUILDS THE LAYER/RENT TABLE. The frame is right 
+- `2026-08-18` [compression-thesis.md:L2323](../compression-thesis.md) — 2026-08-18 ~2:30pm PDT (source 2026-08-13 11:11pm) — ⚠️★★★★ **A 57× PRICE SPREAD ACROSS A 7.2-POINT PERFORMANCE SPREAD — THE COMPRESSION THESIS AS ONE

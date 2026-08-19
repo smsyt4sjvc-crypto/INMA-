@@ -2405,3 +2405,60 @@ give away the layer they want commoditized so they can capture rents in the adja
 - ⬜ **Independent verification of the five company claims above** — taken as REPORTED from Jake's digest.
 - ⬜ **Whether gpt-oss's API exclusion is contractual/licence-driven or purely commercial.** The tell is
   strong either way, but the mechanism changes how durable it is.
+
+### 2026-08-18 ~2:30pm PDT (source 2026-08-13 11:11pm) — ⚠️★★★★ **A 57× PRICE SPREAD ACROSS A 7.2-POINT PERFORMANCE SPREAD — THE COMPRESSION THESIS AS ONE TABLE.** ⛔ **But the scores are VENDOR-PUBLISHED BY THE WINNER ("Last reported scores from Z.ai"), and this is the SECOND unverifiable Terminal-Bench claim in two days.** ★★★ And the vault's own PRICE FLOOR is what stops this being "race to zero"
+Source: Cline (@cline) reposting a Z.ai comparison chart, **posted 2026-08-13 11:11pm, 771K views** —
+Jake forwarded 8/18. ⚠️ **RULE 12: source 8/13, paste 8/18 — five days old, and in this thread five days
+is two model releases.** Related: [[metered-compute]] · [[transmission-chain]] (stage 5)
+
+#### DATA (REPORTED — Terminal-Bench 2.1, per the chart)
+| model | score | in $/1M | out $/1M | blended 3:1 | $/point (output) |
+|---|---|---|---|---|---|
+| **GLM-5.3** | **88.2** | 1.40 | 4.40 | 2.15 | 0.0499 |
+| Fable 5 | 88.0 | 10.00 | 50.00 | 20.00 | 0.5682 |
+| **V4-Pro 0813** | 87.9 | **0.435** | **0.87** | **0.544** | **0.0099** |
+| Opus 4.8 | 85.0 | 5.00 | 25.00 | 10.00 | 0.2941 |
+| GLM-5.2 | 81.0 | 1.40 | 4.40 | 2.15 | 0.0543 |
+- **PERFORMANCE SPREAD top-to-bottom: 7.2 points = 8.9%. OUTPUT PRICE SPREAD: 57× ($0.87 → $50).**
+- **GLM-5.3 vs Fable 5: +0.2 points, 11.4× cheaper on output, 7.1× on input.**
+- **V4-Pro vs Fable 5: −0.1 points, 57× cheaper on output.**
+- **GLM-5.2 → 5.3: +7.2 POINTS AT AN IDENTICAL PRICE ($1.40/$4.40 unchanged).**
+
+#### ⛔ THE ARTIFACT TEST FIRST, BECAUSE IT GOVERNS EVERYTHING ABOVE
+- **The chart's own subtitle: *"Last reported scores from Z.ai."*** ⇒ **The scores are published by
+  Z.AI — the vendor of GLM-5.3, the model shown winning.** **This is a vendor comparison, not an
+  independent leaderboard run.** ⚠️ **Every row for a competitor is a number the winner chose to
+  report.**
+- **⛔⛔ AND THE VAULT ALREADY FLAGGED THIS EXACT FAMILY OF CLAIM, YESTERDAY.** The 8/18 SMTC feed
+  ledger graded *"DeepSeek V4 Flash beats Claude / 11× cheaper"* as **UNVERIFIED — "no sufficiently
+  authoritative Terminal-Bench source was located."** ⇒ **Two Terminal-Bench claims in two days, both
+  resting on vendor reporting, neither independently sourced.** 🚩 **FETCH: the Terminal-Bench project's
+  own published leaderboard. Until then these are MARKETING NUMBERS, not measurements.**
+- **⚠️ AND ONE BENCHMARK IS NOT CAPABILITY.** Terminal-Bench is a single AGENTIC/terminal-task suite.
+  **Parity on one agentic benchmark is not parity in general, and the vault should not let a bar chart
+  do the work of a capability claim.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ IF THE SCORES ARE EVEN ROUGHLY RIGHT, THE FINDING IS THE DECOUPLING: 8.9% OF PERFORMANCE
+  SPREAD PRICED ACROSS 57×.** ⇒ **Price is no longer carrying information about capability at the top
+  of the distribution.** **That is the compression thesis stated as a single table, and it is the
+  cleanest version this note has had.** *(Analysis, conditional on the source.)*
+- **★★★★★★ AND THE SHARPEST ROW IS THE ONE NOBODY IS POINTING AT: GLM-5.2 → 5.3 IS +7.2 POINTS AT AN
+  UNCHANGED PRICE.** ⇒ **Quality-adjusted price fell ~9% with no headline price cut.** ⇒ **This is the
+  DEFLATION MECHANISM the revenue/token work has been measuring from the other end** —
+  [[metered-compute]]: **volume 330×, revenue ~2.2×, revenue/token −151×.** **Posted prices are a bad
+  deflator; capability-per-dollar is the real one, and it is falling inside a flat price tag.**
+- **⚠️⚠️ BUT THE VAULT'S OWN FLOOR FINDING IS THE COUNTER, AND IT IS MEASURED: `metered-compute:2217`,
+  `:2259` — OPEN-WEIGHT TOKEN PRICES WENT $0.30 → $0.66, +120%, AND ARE AT THEIR HIGH, "floored by the
+  physical cost of inference" (`:2396`).** ⇒ **"Race to zero" is NOT what this vault's price data
+  shows.** **Open-weight realised prices are RISING toward an inference-cost floor even as capability
+  commoditises.** ⇒ **Reconciliation: the CAPABILITY converges and the HOSTED-API MARGIN collapses,
+  while the PHYSICAL cost of serving tokens sets a hard floor.** **GLM's $4.40 output is ~6.7× the
+  $0.66 open-weight realised average — that gap is margin, and margin is what compresses.**
+  *(Analysis. This is the two-sided version and it is more useful than either slogan.)*
+- **↔ STAGE 5 OF [[transmission-chain]]: this is capability-per-GPU-hour rising, which cuts BOTH ways
+  and the vault has already resolved which side wins — barely.** Cheaper capability ⇒ fewer GPU-hours
+  per unit of delivered value (bearish supplier orders) ⇒ **but Jevons: `metered-compute` measured
+  NET ≈ 2.2×, "Jevons winning, but only just above flat."** ⇒ **A 57× price spread is the kind of
+  input that could tip that balance, and the vault's own threshold work says the margin is thin.**
+  🚩 **This belongs in the next revenue/token update, not as a separate finding.**
