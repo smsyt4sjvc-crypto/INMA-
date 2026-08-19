@@ -1,6 +1,6 @@
 # ⏱ FED — merged timeline (the gate)
 
-> **227 dated entries across 2 notes · 2026-06-30 → 2026-08-19 · refreshed 2026-08-19 12:51 PDT**
+> **228 dated entries across 2 notes · 2026-06-30 → 2026-08-19 · refreshed 2026-08-19 13:13 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -246,3 +246,4 @@
 - `2026-08-16` [new-economy-regime.md:L3805](../new-economy-regime.md) — 2026-08-16 ~11:28pm PDT — ★★★★★★ **JGB 2Y AT 1.687%, A 31-YEAR HIGH, IS PART TWO OF A TRAP THE VAULT ALREADY SPECIFIED — AND PART ONE GOT MEASURED AT 
 - `2026-08-16` [new-economy-regime.md:L3811](../new-economy-regime.md) — DATA (MEASURED — `tape.py`-style close-array pulls, 2026-08-16 ~11:28pm PDT)
 - `2026-08-19` [market-fragility.md:L4259](../market-fragility.md) — 2026-08-19 ~5:11am KST (2026-08-18 ~1:11pm PDT) — ⛔ **"SIDECAR ACTIVATED" READS LIKE A CRASH; THE ARC SAYS GIVE-BACK. KOSPI 6,441.39 (−6.24%) IS **+15
+- `2026-08-19` [new-economy-regime.md:L3851](../new-economy-regime.md) — 2026-08-19 ~1:20pm PDT — ⛔⭐⭐⭐⭐ **JAKE'S PCE MECHANISM DOES NOT WORK AS STATED — CONSTRUCTION IS *INVESTMENT*, NOT CONSUMPTION, SO NEITHER COMMERCIAL N
