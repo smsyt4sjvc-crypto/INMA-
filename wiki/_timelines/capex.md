@@ -1,6 +1,6 @@
 # ⏱ CAPEX — merged timeline (the gate)
 
-> **102 dated entries across 3 notes · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 13:20 PDT**
+> **103 dated entries across 3 notes · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 13:28 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -124,3 +124,4 @@
 - `2026-08-15` [ai-capex-cycle.md:L2861](../ai-capex-cycle.md) — 2026-08-15 ~3:08pm PDT — ★★★★★★★ "OR FINANCING PULLED BACK" IS NOT A FIFTH ITEM ON THAT LIST — IT IS A DIFFERENT CLASS, AND IT JOINS THE MORNING'S CRE
 - `2026-08-19` [ai-capex-cycle.md:L2915](../ai-capex-cycle.md) — 2026-08-19 ~7:03am PDT — ✅ **F1 CLOSES. THE 7/29 READ AT `:1859` WAS RIGHT AND IS NOW UNAMBIGUOUS: THE VALIDATION SUPPLIES THE PRIOR-QUARTER ANCHOR TH
 - `2026-08-19` [ai-capex-cycle.md:L2933](../ai-capex-cycle.md) — 2026-08-19 ~7:05am PDT — ⛔ **F3 DOWNGRADED, AND IT IS A REAL DE-ESCALATION: THE CXMT/YMTC "WALL" IS A BIPARTISAN *LETTER* TO APPLE PLUS AN EXISTING FE
+- `2026-08-19` [ai-capex-cycle.md:L2951](../ai-capex-cycle.md) — 2026-08-19 ~2:10pm PDT — ✅⛔⭐⭐⭐⭐⭐ **JAKE DISSOLVES MY ZIRP COUNTEREXAMPLE AND HE IS RIGHT — BUT ZIRP *DID* HAVE A DEBT-FINANCED PHYSICAL BUILDOUT, AND 

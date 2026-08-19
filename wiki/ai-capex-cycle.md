@@ -3053,3 +3053,72 @@ Source: same brief. Primaries cited: **US Senate bipartisan letter to Apple, 202
   commercially available to Apple-class buyers, the marginal supply picture is looser than a
   walled-out reading implies.** 🚩 **WATCH: whether Apple makes the commitment, and any move from
   letter → legislation. Those are the two events that would build the actual wall.**
+
+### 2026-08-19 ~2:10pm PDT — ✅⛔⭐⭐⭐⭐⭐ **JAKE DISSOLVES MY ZIRP COUNTEREXAMPLE AND HE IS RIGHT — BUT ZIRP *DID* HAVE A DEBT-FINANCED PHYSICAL BUILDOUT, AND IT IS THE BEST HISTORICAL CONTROL THE AI CYCLE HAS: SHALE.** ⇒ It was disinflationary for a reason that SHARPENS the AI question rather than settling it
+Source: Jake, chat 2026-08-19 ~2:05pm PDT: *"ZIRP was a maturation of a tech cycle, not a buildout. And it
+was mostly digital output… the top companies in the world shifted to digital output. So the capex wasn't
+there to drive inflation."* **⟲ EXTENDS `:L2711`** (the 2000/Quanta control) — this note is where the
+vault keeps its historical capital-cycle controls, and this adds the second one.
+
+#### ✓ CONCEDED — THE COUNTEREXAMPLE WAS WEAK AS I STATED IT
+- **At 1:40pm I offered 2008-15 ZIRP as evidence that cheap money is not automatically inflationary.**
+  **His correction is the right one: the credit channel needs a CAPITAL-INTENSIVE BORROWER, and the
+  dominant tech cycle of that decade was asset-light.** **Software and platforms scale on near-zero
+  marginal cost; cheap credit funding a digital business does not bid for steel, turbines or electricians.**
+  ⇒ **"No borrower" and "an asset-light borrower" are different diagnoses and his is the sharper one.**
+- **⚠️ MY OWN REASON STILL STANDS AS A SECOND, INDEPENDENT ONE, AND IT SHOULD NOT BE DROPPED: THE POST-GFC
+  PRIVATE SECTOR WAS DELEVERAGING.** **Credit demand was negative regardless of what the tech sector was
+  doing.** ⇒ **Two blockages, both real. But HIS is the one that has FLIPPED — household deleveraging
+  ended years ago; what is NEW is a capital-intensive borrower.** ⇒ **So his is the better discriminator
+  for the current regime, and that is why I am adopting it as the primary framing.** *(Analysis.)*
+
+#### ⛔ BUT ZIRP WAS NOT CAPEX-FREE — AND THE EXCEPTION IS THE MOST USEFUL PRECEDENT AVAILABLE
+- **US SHALE, ~2010-2015: cheap credit + enormous physical capex + a price-insensitive, capital-hungry
+  borrower.** **This vault already holds it, at [[oil-value-chain]]`:L69`: *"2010s shale = NEGATIVE FREE
+  CASH FLOW, DEBT-FUNDED GROWTH (cash incinerated → enriched Wall Street + services, not investors)."***
+- ⇒ **THAT IS THE SAME SENTENCE THE VAULT NOW WRITES ABOUT AI INFRASTRUCTURE, WORD FOR WORD IN STRUCTURE:
+  negative FCF, debt-funded, and the money landing on the SUPPLIERS rather than the owners.**
+- **⭐⭐ AND IT WAS NOT INFLATIONARY — IT WAS VIOLENTLY DISINFLATIONARY, BECAUSE THE BUILDOUT DELIVERED ITS
+  SUPPLY. Oil went from ~$100 to ~$26.** ⇒ **The supply-side conditional from `new-economy-regime:L4147`
+  did not merely apply; it RAN ITS FULL COURSE, and the capital that funded it was destroyed on the far
+  side.** *(Analysis.)*
+
+#### ★★★★★★ THE STRUCTURE THIS PRODUCES, AND IT IS NEW TO THE VAULT: INPUTS INFLATING WHILE OUTPUTS DEFLATE, AT THE SAME TIME
+- **INPUT SIDE, INFLATING — FOMC verbatim (July minutes):** *"materials for data centers, such as **CHIPS
+  AND STEEL**, had registered large price increases"* · *"**ELECTRICITY**"* under pressure · *"strong demand
+  for skilled workers—including **ELECTRICIANS**, machinists, and engineers—leading to notable increases in
+  their wages."*
+- **OUTPUT SIDE, DEFLATING — this vault's own measurement:** **[[metered-compute]]`:L2484`, Vercel July-2026:
+  realized **$/token −13.6% MoM** while volume +59%.**
+- ⇒ **★★★★★★ THAT IS THE SHALE PATTERN WITH BOTH LEGS LIVE SIMULTANEOUSLY: the buildout bids up its INPUTS
+  today while its OUTPUT price is already collapsing.** ⇒ **Shale ran the two sequentially — capex boom
+  2010-14, price collapse 2014-16. AI is running them CONCURRENTLY, which is faster and gives the funders
+  less time.** *(Analysis.)*
+- **⇒ ⭐⭐⭐ AND IT EXPLAINS THE FOMC SPLIT WITHOUT ANYONE BEING WRONG: the participants who see effects
+  *"limited to select categories"* are looking at the OUTPUT side and at breadth; the participants who see
+  *"broader effects… by pushing up aggregate demand"* are looking at the INPUT side.** **Both are correct
+  about different ends of the same buildout.** ⇒ **The net sign on core inflation is an EMPIRICAL WEIGHTING
+  question — how much of the basket is data-centre inputs versus AI-priced output — and nobody in that room
+  has the decomposition either.** *(Analysis.)*
+
+#### ⚠️ THE DISANALOGY THAT BOUNDS THE PRECEDENT — stated because it cuts against the neat version
+- **SHALE'S OUTPUT WAS A FUNGIBLE COMMODITY WITH A GLOBAL SPOT PRICE. AI COMPUTE'S OUTPUT IS NOT.**
+  **This note's own thread already established that monetisation is moving ABOVE the token layer, which
+  makes "revenue per token" the wrong denominator** ([[metered-compute]], adopted line: ***"Revenue Jevons
+  is not the same as capex solvency."***) ⇒ **A −13.6% realised token price does NOT imply sector revenue
+  collapses the way $26 oil did.** ⇒ **The shale analogy is strong on the CAPITAL STRUCTURE (negative FCF,
+  debt-funded, suppliers paid first) and weak on the OUTPUT MARKET (fungible commodity vs differentiated,
+  repackaged service).** ⇒ **Use it for the funding cycle. Do not use it to forecast the output price.**
+  *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **THE NUMBER THAT WOULD SETTLE JAKE'S CLAIM AND I DID NOT PULL IT: PRIVATE NONRESIDENTIAL FIXED
+   INVESTMENT (STRUCTURES + EQUIPMENT + IP) AS A SHARE OF GDP, 2010-2015 vs 2024-2026** (BEA NIPA 1.1.5 /
+   5.3.5). ⬜ **His "the capex wasn't there" is stated and UNMEASURED by either of us. It is one fetch.**
+2. 🚩🚩 **SHALE AS A DATED CONTROL SERIES:** **E&P capex, high-yield energy issuance and the energy HY
+   default rate 2010→2017, against WTI.** ⇒ **The vault has the 2000/telecom control (`:L2711`) and now a
+   second. Two controls with measured outcomes beat one analogy.**
+3. 🚩 **BASKET DECOMPOSITION: what share of core PCE is data-centre-input-linked (electricity, computer
+   equipment, software) vs AI-priced output?** **The FOMC split is unresolvable without it — and so is the
+   vault's.**
+**Links:** [[metered-compute]] · [[new-economy-regime]] · [[oil-value-chain]] · [[transmission-chain]] · [[ai-financing-fragility]]

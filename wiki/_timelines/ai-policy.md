@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **395 dated entries across 4 notes · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 13:20 PDT**
+> **396 dated entries across 4 notes · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 13:28 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -415,5 +415,6 @@
 - `2026-08-18` [compression-thesis.md:L2323](../compression-thesis.md) — 2026-08-18 ~2:30pm PDT (source 2026-08-13 11:11pm) — ⚠️★★★★ **A 57× PRICE SPREAD ACROSS A 7.2-POINT PERFORMANCE SPREAD — THE COMPRESSION THESIS AS ONE
 - `2026-08-19` [ai-capex-cycle.md:L2915](../ai-capex-cycle.md) — 2026-08-19 ~7:03am PDT — ✅ **F1 CLOSES. THE 7/29 READ AT `:1859` WAS RIGHT AND IS NOW UNAMBIGUOUS: THE VALIDATION SUPPLIES THE PRIOR-QUARTER ANCHOR TH
 - `2026-08-19` [ai-capex-cycle.md:L2933](../ai-capex-cycle.md) — 2026-08-19 ~7:05am PDT — ⛔ **F3 DOWNGRADED, AND IT IS A REAL DE-ESCALATION: THE CXMT/YMTC "WALL" IS A BIPARTISAN *LETTER* TO APPLE PLUS AN EXISTING FE
+- `2026-08-19` [ai-capex-cycle.md:L2951](../ai-capex-cycle.md) — 2026-08-19 ~2:10pm PDT — ✅⛔⭐⭐⭐⭐⭐ **JAKE DISSOLVES MY ZIRP COUNTEREXAMPLE AND HE IS RIGHT — BUT ZIRP *DID* HAVE A DEBT-FINANCED PHYSICAL BUILDOUT, AND 
 - `2026-08-19` [ai-financing-fragility.md:L6548](../ai-financing-fragility.md) — 2026-08-19 ~7:30am PDT — ★★★★★★ **MARVELL ISSUES GOOGLE A $12.18B WARRANT TO WIN TPU-ECOSYSTEM SILICON. ⇒ THE CIRCULARITY THREAD GETS ITS PUREST INSTA
 - `2026-08-19` [metered-compute.md:L2388](../metered-compute.md) — 2026-08-19 ~8:00am PDT — ⭐⭐⭐⭐⭐ **THE BEST DATA THIS NOTE HAS EVER HAD ON ITS OWN REGISTERED TEST: VERCEL JULY-2026 — TOKEN VOLUME +59%, REALIZED $/TOK
