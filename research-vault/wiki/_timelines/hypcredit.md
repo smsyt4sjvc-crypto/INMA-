@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **184 dated entries across 3 notes · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 13:36 PDT**
+> **185 dated entries across 3 notes · 2026-05-22 → 2026-08-19 · refreshed 2026-08-19 13:42 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -206,3 +206,4 @@
 - `2026-08-19` [rates-board.md:L243](../rates-board.md) — 2026-08-19 ~7:03am PDT (scanner 14:03 UTC) — ⭐⭐⭐⭐⭐ **THE BUYBACK TEST FIRED THE SAME MORNING AND IT FIRED IN FAVOUR: LONG YIELDS FELL SHARPLY, TLT +1.
 - `2026-08-19` [rates-board.md:L277](../rates-board.md) — 2026-08-19 ~9:15am PDT — ★★★★★★ **THE SHAPE SETTLES THE ATTRIBUTION AND MY 7:03am CAVEAT WAS TOO WEAK: 5Y −2bp · 10Y −6bp · 30Y −9bp IS A MONOTONIC BU
 - `2026-08-19` [rates-board.md:L342](../rates-board.md) — 2026-08-19 ~12:55pm PDT — ✅★★★★★★ **JAKE'S READ CHECKS OUT VERBATIM AGAINST THE FED'S OWN PRIMARY — AND THE ONE FACT HIS SUMMARY OMITS REVERSES THE TR
+- `2026-08-19` [rates-board.md:L431](../rates-board.md) — 2026-08-19 ~2:45pm PDT — ✅⭐⭐⭐⭐⭐⭐ **$40,047,425,768,420.22 — JAKE'S FIGURE IS EXACT TO THE PENNY AND THE $40T LINE WAS CROSSED YESTERDAY.** ⭐ **The num
