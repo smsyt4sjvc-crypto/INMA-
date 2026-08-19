@@ -2896,3 +2896,59 @@ Treasury). Related: [[demand-destruction]] · [[oil-value-chain]] · [[transmiss
    Jebel Ali operational bulletin.** **That is the BILL. Until one appears this is a press statement.**
 2. 🚩🚩 **RECONCILE THE HORMUZ TRAFFIC NUMBERS** (−19.5% vs 3.6%-of-normal). One definition, one window.
 3. 🚩 **Jebel Ali throughput / Iran-facing re-export volumes** — the instrument this board lacks.
+
+### 2026-08-18 ~2:00pm PDT — ✅✅✅ **THE WINDWARD LIVE DASHBOARD IS FETCHABLE — RETIRING A STANDING VAULT LIMITATION THAT HAD US RUNNING ON MARCH-VINTAGE DATA.** ★★★★★★ **AND IT SETTLES THE HORMUZ CONFLICT WITH THE BASELINE STATED ON THE PAGE: 13 TRANSITS vs A ~140/DAY BASELINE = 9.3% OF NORMAL. AP's "−19.5%" IS THE OUTLIER, BY AN ORDER OF MAGNITUDE**
+Source: **`https://insights.windward.ai/` — "Strait of Hormuz | Windward Daily Intelligence", dashboard
+dated 18 August 2026, DATA AS OF 17 AUGUST 2026.** Fetched and archived
+→ `raw/2026-08-18-windward-insights-hormuz-dashboard.txt` (32,480 chars of extracted text).
+⚠️ **Source time ≠ paste time (rule 12): the data is 8/17; the page is stamped 8/18.**
+
+#### ⛔ FIRST, A STANDING VAULT LIMITATION IS NOW FALSE AND MUST BE RETIRED
+- `oil-value-chain` (8/15) recorded: ***"`insights.windward.ai` is a JS-rendered live dashboard — not
+  fetchable; the subpage 403s. Everything Windward-sourced below is MARCH-VINTAGE and 5½ months
+  stale."*** **That was true for the tooling used then. IT IS NO LONGER TRUE.**
+- **The page returns ~6MB with server-rendered content; a plain curl + tag-strip yields the full daily
+  brief.** ⇒ **The vault's Windward leg is no longer stale by necessity — only by neglect.**
+  🔄 **UPDATED: re-fetch this daily rather than reasoning from March vintage.**
+
+#### DATA (MEASURED — Windward, data as of 2026-08-17)
+- **★★★ HORMUZ TRANSITS: 13 vessels in the 24-hour window — 8 inbound, 5 outbound — described on the
+  page as *"a fraction of the roughly 140-VESSEL DAILY BASELINE."***
+  ⇒ **13 ÷ 140 = 9.3% OF NORMAL = −90.7%.**
+- **DARK SHARE: 5 of 13 transits ran dark (3 inbound, 2 outbound), 3-16 hours.** ⇒ **38% of all
+  transits.** **Outbound: 2 of 5 = 40%** — consistent with `:2618`'s measured **44% of outbound dark**.
+- **KHARG ISLAND: all three terminals vacant. LPG terminal idle 21 days; eastern oil terminal 18 days.
+  Offshore waiting area holds an assessed ~20.7 MILLION BARRELS of laden tankers.**
+- **NINE "ZOMBIE" VLCCs anchored off China** — broadcasting fraudulent flag registries and **the IMO
+  numbers of dead or scrapped ships** — assessed as Iran-trading tonnage stranded by the reimposed
+  US blockade.
+- **Sanctioned LPG carrier under a false registry completed an STS off Oman, then redeclared for China
+  and Sri Lanka.** **Liberia-flagged product tanker AMARA reportedly boarded by Iranian forces near
+  Qeshm — ⚠️ page itself says UNCONFIRMED by outside sources.**
+- **Houthi strike near Mocha hit a commercial vessel moored for maintenance, NOT the underway warship
+  the group claimed** (MIOC assessment; claim disputed).
+- **Q2-2026 context on the page: 50% sanctioned share of the dark fleet; 21% dark-fleet vessel share
+  by flag.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE CONFLICT I REGISTERED THIS MORNING IS RESOLVED, AND THE VAULT'S NUMBER WAS THE RIGHT
+  ONE.** With a stated ~140/day baseline: **today 9.3% of normal · `:1100`'s "3.6% of normal" implies
+  ~5 transits — the SAME measure on a worse day.** ⇒ **Both vault figures are internally consistent.**
+  **AP's "−19.5%" implies ~113 transits/day, roughly 9× today's count. It is NOT daily vessel
+  transits** — it must be tonnage, a different chokepoint, a different window, or wrong.
+  ⇒ **⛔ DO NOT USE THE −19.5% FIGURE. Use 13 transits vs ~140 baseline, and name both.**
+- **★★★★★ AND THE 20.7 MILLION BARRELS FLOATING OFF KHARG IS THE MOST TRADE-RELEVANT NUMBER ON THE
+  PAGE.** **Three terminals vacant for 18-21 days while ~20.7 mmbbl sits laden offshore** ⇒ **this is
+  not destroyed supply, it is DEFERRED supply with a known location and a known size.** ⇒ **It is
+  simultaneously (a) crude currently OFF the market — supportive of the crude leg — and (b) a
+  quantified OVERHANG that returns the moment the blockade lifts.** **⛔ That asymmetry belongs in any
+  Hormuz-resolution scenario: the downside on a deal is not a slow normalisation, it is ~20.7 mmbbl
+  with the paperwork already done.**
+- **★★★★ THE NINE ZOMBIE VLCCs OFF CHINA ARE THE SANCTIONS CAMPAIGN WORKING, MEASURED.** Fraudulent
+  registries plus **dead ships' IMO numbers** is the end-stage of evasion — tonnage that can float but
+  can no longer discharge into a compliant buyer. ⇒ **Pairs directly with the 8/18 UAE trade halt and
+  Treasury's "Economic Fury": the water route and the banking route are being closed at once, and this
+  is what the water route looks like when it clogs.** *(Analysis.)*
+- **⚠️ AND THE DISCIPLINE THE PAGE ITSELF MODELS: it flags the AMARA boarding as UNCONFIRMED and
+  DISPUTES the Houthi claim.** ⇒ **A vendor that marks its own uncertainty is a better source than one
+  that does not — but it is still ONE vendor, and the vault has no independent AIS check.**

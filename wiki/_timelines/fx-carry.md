@@ -1,6 +1,6 @@
 # ⏱ FX/CARRY — merged timeline (the gate)
 
-> **395 dated entries across 3 notes · 2026-05-22 → 2026-08-18 · refreshed 2026-08-18 16:53 PDT**
+> **395 dated entries across 3 notes · 2026-05-22 → 2026-08-18 · refreshed 2026-08-18 17:12 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
