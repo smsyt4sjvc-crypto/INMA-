@@ -473,6 +473,22 @@ THREADS = {
  # backtest returned NO THREAD MATCHED while the sweep found six notes.
  # ⇒ SAME CLASS AS #25/#26: the map was keyed to what the vault CONCLUDES, never to how it
  #   MEASURES. Screens are a recurring artifact type here; they needed a thread of their own.
+ # MAP GAP #28 (2026-08-19). MODERNA GAPPED +125% ON A PHASE 3 CANCER-VACCINE READOUT, MERCK
+ # +10.6% WITH IT, IBB +4.8% -- and the map had ZERO clinical/biotech vocabulary. The sweep
+ # could only reach quiet-health-screen, and only because the word "health" is in the filename.
+ # => Same class as #25/#26/#27: the vault had a HEALTH SCREEN but no thread for the EVENTS
+ #   that reprice health. A binary readout is the single largest one-day repricing mechanism
+ #   in the market and the gate could not see one arrive.
+ 'BIOTECH':['phase 1','phase 2','phase 2b','phase 3','phase iii','readout','topline','top-line',
+            'clinical trial','trial results','primary endpoint','endpoint met','overall survival',
+            'progression-free','recurrence-free','hazard ratio','fda','pdufa','breakthrough therapy',
+            'accelerated approval','biologics license','bla','nda',
+            'approval','label expansion','oncology','immunotherapy','checkpoint','neoantigen',
+            'cancer vaccine','personalized vaccine','individualised','individualized','mrna',
+            'moderna','merck','pfizer','biontech','regeneron','gilead','vertex','lilly',
+            'novo nordisk','keytruda','biotech','biotechnology','xbi','ibb','pipeline',
+            'orphan drug','patent cliff','loss of exclusivity'],
+
  'SCREEN-METHOD':['backtest','back-test','point-in-time','point in time','look-ahead',
                   'lookahead','look ahead bias','survivorship','survivorship bias',
                   'formation date','holding period','control group','universe',
@@ -515,6 +531,7 @@ ROUTE = {
  'LEVANT':    'war/war-board (talks-while-shooting; MoU Article 1 broke via Lebanon -- portfolio-state L143)',
  'TOKEN-ECON':'metered-compute (the Jevons/elasticity-1 test) / compression-thesis / cepi',
  'CONTENT-TOLL':'content-toll / metered-compute (same metering architecture, different input) / compression-thesis',
+ 'BIOTECH':   'quiet-health-screen (the value x health x NO-STORY screen -- a catalyst name is what it EXCLUDES by construction) / rotation-stickiness / dip-buying-base-rates (MRNA is the canonical single-catalyst runner in that note) / structural-pull-log',
  'SCREEN-METHOD':'quiet-health-screen (the 2026-07-05 snapshot screen + its peak-cycle-earnings caveat) / durable-value-backtest (the point-in-time test of that caveat) / colab-archive-audit (which tools exist and which are trustworthy) / runner-anatomy / market-fragility',
 }
 # ═══════════════ THREAD MAP END ═══════════════

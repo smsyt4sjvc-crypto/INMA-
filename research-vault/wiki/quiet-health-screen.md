@@ -153,3 +153,80 @@ Re-run both cells any time (~20 min); paste top-30 + EDGAR lines back → I upda
 - Remaining gate before sizing past basket weight: name-level fundamentals (China/imaging exposure,
   replacement cycle, the −3.8% estimate-cut anatomy). Options chain untradeable (OI 14) — this is an
   EQUITY signal, not a CSP candidate.
+
+## 2026-08-19 ~10:10am PDT — ⭐⭐⭐⭐ **MODERNA +125% ON A PHASE 3 CANCER-VACCINE READOUT, AND THE VAULT-RELEVANT FINDING IS NOT MODERNA: ⛔ IT CONTAMINATES THIS SCREEN'S LIVE PAPER-BASKET TEST, because health re-rated for a reason none of these names caused** — and ✓ **MERCK +10.6% is the tape independently pricing a partner**
+Source: Jake's paste, TradingView/@KOBEISSILETTER screenshot → `raw/2026-08-19-moderna/inbound.md`.
+**Prices MEASURED from `tools/tape.py` (close ARRAY, never `meta.chartPreviousClose`) at ~10:08am PDT.**
+⚠️ **The vault had NO biotech thread before this** — logged as MAP GAP #28 and a `BIOTECH` thread added
+to `tools/acute_scanner_cell.py` (52 keywords). The sweep could only reach this note, and only because
+the word "health" is in its filename.
+
+### DATA (MEASURED — live tape 2026-08-19 ~10:08am PDT vs 8/18 close)
+| | live | 8/18 close | Δ |
+|---|---|---|---|
+| **MRNA** | **141.90** | 62.96 | **+125.4%** |
+| **MRK** | **149.47** | 135.17 | **+10.6%** |
+| **BNTX** | 110.64 | 92.75 | **+19.3%** |
+| PFE | 28.26 | 27.25 | +3.7% |
+| **IBB** | 213.32 | 203.56 | **+4.8%** |
+| **XBI** | 166.69 | 160.11 | **+4.1%** |
+- **THE CLAIM (REPORTED, unverified by the vault):** *"first ever positive Phase 3 results for a
+  personalized cancer vaccine."* ⬜ **No trial name, endpoint, hazard ratio, indication, or n in the
+  paste — and none fetched. The vault holds the PRICE, not the science.**
+
+### ⛔ THE SCREENSHOT DOES NOT RECONCILE WITH ITSELF — flagged before anything is built on it
+- **Header: "130.52 −1.50 (−2.33%)".** **Solve it: −1.50 at −2.33% implies a prior close of 64.38 and a
+  current price of 62.88 — THE PRE-GAP BAND, not 130.52.** ⇒ **The change fields do not belong to the
+  price shown.** ⚠️ **Do NOT cite −2.33% as a move in this name on any day.** *(Error class 1 — the
+  label disagrees with its own arithmetic, and it is the header that is stale, not the chart.)*
+- **The "+110%" is right for the moment it was captured** (130.52 / 62.96 = +107%). **The tape has since
+  gone to 141.90 = +125.4%.** ⇒ **A pasted screenshot is a TIMESTAMP, not a level. The gap is still
+  widening as of the pull.**
+
+### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE FINDING THAT ACTUALLY BELONGS TO THIS NOTE IS A TEST-CONTAMINATION WARNING, AND WITHOUT IT
+  THE PAPER BASKET WILL LOOK LIKE IT WORKED WHEN IT DID NOT.** `:L105` set a clean falsifiable test on
+  **2026-07-07: the quiet-health cohort vs SPY**, and the cohort carries **GILD, REGN, UHS, GEHC, RMD, CI.**
+  ⇒ **IBB +4.8% / XBI +4.1% lifts health names today for a reason that has NOTHING to do with why they
+  were selected.** ⇒ **This screen's entire construction is value × health × NO-STORY — a binary-catalyst
+  name is what it EXCLUDES BY DESIGN.** ⇒ **Any basket gain dated 8/19 is SECTOR BETA FROM SOMEONE ELSE'S
+  READOUT, not screen alpha, and must be marked as such when the benchmark is next scored.**
+  *(Analysis. Registering the contamination on the day it happens, not when the number looks good.)*
+- **★★★★★ AND THE TAPE PRICES A PARTNER WITHOUT ME HAVING TO ASSERT ONE: MERCK DOES NOT MOVE +10.6% ON
+  SOMEONE ELSE'S DRUG.** ⇒ **A large-cap pharma re-rating double digits alongside the sponsor is the
+  market saying the economics are SHARED, and it is corroboration from price rather than from recall.**
+  ⚠️ **The specific structure (which co-development deal, what split) is NOT in the vault and is NOT
+  fetched — stated as an inference from co-movement only.** ⇒ **⭐ AND THE SIZE COMPARISON IS THE
+  NON-OBVIOUS PART: +10.6% on Merck is plausibly a LARGER DOLLAR GAIN than +125% on Moderna, because
+  Merck's base is several times bigger.** ⬜ **Market caps NOT FETCHED (Yahoo returned 401) — so this is
+  a stated hypothesis with a named test, not a computed result.** *(Analysis.)*
+- **★★★★ BNTX +19.3% IS THE READ-ACROSS AND IT IS THE MOST INFORMATIVE SECOND-ORDER PRINT.** **A rival
+  mRNA platform rallying 19% on a competitor's success means the market read the result as
+  PLATFORM-VALIDATING rather than asset-specific.** ⇒ **That is a much larger claim than one drug, and it
+  is the one that would justify the index-level move.** ⚠️ **It is also the classic over-extrapolation:
+  one positive Phase 3 in one indication does not validate a modality across indications.**
+  🚩 **The falsifier is cheap and dated — watch whether BNTX holds the gain after the first week.**
+  *(Analysis.)*
+- **⚠️ AND THE HONEST DISPOSITION: THE VAULT HAS NO EDGE HERE AND SHOULD SAY SO RATHER THAN MANUFACTURE
+  RELEVANCE.** **No position, no prior claim, no thread until today, no access to the trial data.**
+  ⇒ **What the vault legitimately owns is (a) the contamination warning above, (b) the tape, (c) the
+  map gap.** ⇒ **Everything else here would be commentary on a press release I have not read.**
+  *(Analysis. Rule: the vault records what it can check.)*
+- **⭐ ONE GENUINE CALLBACK: `dip-buying-base-rates:300` ALREADY CARRIES MRNA AS ITS CANONICAL
+  SINGLE-CATALYST RUNNER — it "topped the entire e63 ranking ON COVID."** ⇒ **The SAME NAME has now
+  produced a second binary regime change, six years apart, from a different catalyst.** ⇒ **That is a
+  live calibration datum for that note: its ranking methodology keeps surfacing this name because the
+  name genuinely has fat-tailed catalyst structure — which is a property of the BUSINESS, not an
+  artifact of the screen.** 🚩 **Worth re-running that ranking with 8/19 included.** *(Analysis.)*
+
+### 📌 REGISTERED
+1. 🚩🚩🚩 **MARK THE 7/7 PAPER-BASKET BENCHMARK AS CONTAMINATED FROM 2026-08-19.** **When next scored,
+   report the cohort return WITH and WITHOUT the 8/19 sector jump.** **Otherwise the screen gets credit
+   for a catalyst it was built to avoid.**
+2. 🚩🚩 **THE TRIAL ITSELF — name, indication, endpoint, hazard ratio, n, and control arm.** ⬜ Entirely
+   unfetched. **Nothing in this note may be upgraded from "reported" until it is.**
+3. 🚩 **MRK vs MRNA DOLLAR-GAIN COMPARISON** — needs market caps, which failed to fetch today (401).
+   **The hypothesis is stated above; it is unresolved.**
+4. 🚩 **BNTX one-week hold test** — does the platform read-across survive, or retrace? Baseline 110.64
+   from 92.75 (8/18).
+**Links:** [[rotation-stickiness]] · [[dip-buying-base-rates]] · [[structural-pull-log]] · [[rates-board]]
