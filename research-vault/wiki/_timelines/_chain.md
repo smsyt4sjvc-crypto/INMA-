@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **575 dated entries · 2026-05-22 → 2026-08-20 · refreshed 2026-08-20 07:45 PDT**
+> **576 dated entries · 2026-05-22 → 2026-08-20 · refreshed 2026-08-20 07:55 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -604,3 +604,4 @@
 - `2026-08-20` **[1]** new-economy-regime.md:L4075 — 2026-08-20 ~8:10am PDT — ✅⭐⭐⭐⭐ **THE CLAIMS DATA INDEPENDENTLY CONFIRMS THE FOMC MINUTES LINE I FILED YESTERDAY, ONE DAY LATER AND FROM A COMPLETELY D
 - `2026-08-20` **[4]** ai-capex-cycle.md:L3082 — 2026-08-20 ~8:40am PDT — ⛔⛔★★★★★★ **THE PORTFOLIO TAKEAWAY IS THE EXACT INVERSE OF THIS NOTE'S OWN THREE-CYCLE CONTROL, AND THE DISAGREEMENT IS THE MO
 - `2026-08-20` **[4]** ai-capex-cycle.md:L3152 — 2026-08-20 ~8:55am PDT — ⛔⛔⭐⭐⭐⭐⭐ **THE MRVL "$12.2 BILLION" IS THE EXERCISE *COST*, NOT VALUE — intrinsic is ~$2.28B. And the vault's OWN ARCHIVED FIL
+- `2026-08-20` **[4]** ai-capex-cycle.md:L3208 — 2026-08-20 ~9:15am PDT — ✅⭐⭐⭐⭐⭐ **JAKE IS RIGHT: THE VAULT CALLED THIS ON 2026-07-05 AND CALLED IT *BIPARTISAN* EXPLICITLY (`:L441`). ⇒ THE NRSC MEMO 

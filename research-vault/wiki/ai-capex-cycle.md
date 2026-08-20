@@ -3310,3 +3310,80 @@ TRANCHE VESTING FOR EACH $500 MILLION IN REVENUE."**
 3. 🚩 **AVGO AS THE OTHER SIDE.** **MRVL $245.18 (+3.33%) vs AVGO $365.96 (+0.96%) today — the market is
    NOT treating this as a zero-sum transfer. ⬜ Whether Google is dual-sourcing or displacing is unknown.**
 **Links:** [[compression-thesis]] · [[physical-ai-hardware-stack]] · [[ai-financing-fragility]]
+
+### 2026-08-20 ~9:15am PDT — ✅⭐⭐⭐⭐⭐ **JAKE IS RIGHT: THE VAULT CALLED THIS ON 2026-07-05 AND CALLED IT *BIPARTISAN* EXPLICITLY (`:L441`). ⇒ THE NRSC MEMO IS NOT NEW INFORMATION ABOUT SENTIMENT — IT IS THE FIRST EVIDENCE THAT THE POLITICAL *CLASS* HAS PRICED IT, FROM THE SIDE THAT WAS SUPPOSED TO BE FRIENDLY.** ⛔ And it flips the sign on today's summary for GEV/OKLO/SMR
+Source: Jake's correction, 2026-08-20 ~9:10am PDT. **⟲ EXTENDS `:L441`** (the 7/05 bipartisan-ratchet
+entry) and corrects the framing in today's `:L3163` and [[transmission-chain]]`:L288` (stage 4c).
+
+#### ✅ WHAT THE VAULT ALREADY HELD, SIX WEEKS BEFORE THE MEMO — crediting it properly
+- **`:L441`, 2026-07-05 — "THE POLITICAL CONSTRAINT IS A BIPARTISAN RATCHET, NOT PARTISAN NOISE."**
+  *"Normal political risk mean-reverts with elections → markets look through it. This is bipartisan
+  (~17 states restricting/considering bans) → it RATCHETS, DOESN'T REVERT — no coalition to repeal it
+  because BOTH SIDES OWN A VERSION: LEFT (environmental, anti-Big-Tech, ratepayer equity), RIGHT
+  (ratepayer populism, local control, anti-elite). Universal grievance = THE ELECTRIC BILL (hits red/blue
+  identically; the VA $281 bill doesn't check registration)."*
+- **`:L410-411` — 12 STATES with moratorium bills (NY, SD, OK) · Sanders/AOC federal S.4214 AI DATA
+  CENTER MORATORIUM ACT · 230+ environmental orgs demanding a national freeze · 140+ LOCAL GROUPS have
+  blocked or delayed projects.**
+- **`:L470` — THE QTS LEDGER WITH DATES: rezoning approved → Circuit Aug-2025 → Appeals upheld unanimously
+  2026-03-31 → QTS drops appeal 2026-07-02.** ⇒ ***"APPROVED ≠ SAFE"*** — and the vault already drew the
+  financing consequence: **the "approved pipeline" underwriting DC ABS and private credit carries latent
+  LITIGATION-REVERSAL risk.**
+- **`power-not-petroleum:L148` — the SPOKANE ledger, Jake's own county: city moratorium PASSED, county's
+  did NOT.** **Polling 69→35, ousted councils, $281 bills, secret water** (`:L505`).
+
+#### ⇒ SO WHAT IS ACTUALLY NEW TODAY, AND IT IS NOT THE SENTIMENT
+- **★★★★★★ THE NRSC MEMO IS THE RIGHT-HAND HALF OF THE COALITION THE VAULT MAPPED ON 7/05, ARRIVING WITH
+  A BUDGET BEHIND IT.** **A REPUBLICAN campaign committee — the side generally assumed friendly to the
+  buildout — telling its own candidates that data centers are politically radioactive, with "three ads /
+  6,000 TV points" behind the message.** ⇒ **The 7/05 claim was that the ratchet holds because neither
+  party can repeal it. THIS IS THAT THESIS CONFIRMED FROM INSIDE THE GOP'S OWN STRATEGY SHOP.**
+- ⇒ **⭐ THE UPGRADE IS FROM *PUBLIC SENTIMENT* TO *ELECTORAL PRICING*: sentiment is what voters feel;
+  a party committee spending money on it is the sentiment being CAPITALISED.** **That is the step that
+  turns a grievance into a policy.** *(Analysis. This is the honest delta, and it is smaller than the
+  headline but sharper.)*
+
+#### ⛔⛔ AND IT FLIPS THE SIGN ON TODAY'S PORTFOLIO SUMMARY, WHICH HAS IT BACKWARDS FOR THE EQUIPMENT NAMES
+- **TODAY'S SUMMARY (§9): political risk is listed as a NEGATIVE requiring "permitting and political risk
+  need to be priced in" for VST / CEG / TLN / GEV / ETR.**
+- **THE VAULT, 7/05 `:L496-500`: *"Grid interconnection raises ratepayer bills (electoral death) + local
+  approval is a multi-yr gauntlet → the way through is BRING-YOUR-OWN-GENERATION (on-site nuclear/gas,
+  don't touch the grid, don't raise bills)… THE BACKLASH IS THE SINGLE BIGGEST STRUCTURAL CATALYST FOR
+  OKLO/SMR/ON-SITE-GAS/GEV THAT EXISTS — WRITTEN BY THE OPPOSITION, NOT THE INDUSTRY. The people stopping
+  data centers are mandating the nuclear/on-site thesis."***
+- ⇒ **⛔ THE SUMMARY APPLIES ONE SIGN TO A LIST WITH TWO OPPOSITE EXPOSURES. Political risk is BEARISH
+  GRID-DEPENDENT projects and the ratepayer-subsidised model — and BULLISH the on-site/behind-the-meter
+  names that exist BECAUSE of the constraint.** ⇒ **GEV, OKLO, SMR and on-site gas are on the RECEIVING
+  end of the backlash, not the paying end.** *(Analysis. The vault's own six-week-old finding, applied.)*
+
+#### ★★★★★★ AND IT RESOLVES A TENSION BETWEEN THE TWO NODES I ADDED IN THE LAST 24 HOURS
+- **YESTERDAY I ADDED STAGE 4b — the POWER COUNTERPARTY: utilities/generators holding ESAs with ≥80%
+  minimums** ([[transmission-chain]]`:L71`). **TODAY I ADDED STAGE 4c — POLITICAL PERMISSION** (`:L288`).
+- ⇒ **⭐⭐⭐ THEY ARE NOT TWO INDEPENDENT NODES. 4c IS AN ATTACK ON 4b SPECIFICALLY.** **A utility ESA
+  routes the load through the REGULATED GRID and therefore through the ELECTRIC BILL — which the 7/05
+  entry names as the universal grievance. BEHIND-THE-METER BYPASSES IT ENTIRELY.**
+- ⇒ **THE POLITICAL RATCHET PUSHES THE BUILDOUT OFF THE UTILITY CHANNEL AND ONTO ON-SITE GENERATION —
+  WHICH CHANGES WHO HOLDS THE CONTRACTUAL CLAIM ON THE HYPERSCALER'S CASH FLOW.** ⇒ **The 4b finding
+  (the utility has the claim, the equipment maker has a claim on the utility's capex) WEAKENS every year
+  the buildout moves behind the meter, because there is no utility in the middle.**
+- ⇒ **AND THAT IS WHY THE RATEPAYER PROTECTION PLEDGE MATTERS MORE THAN IT LOOKS: "operators bring/buy new
+  generation, fund grid upgrades, shield existing ratepayers" IS THE 7/05 PREDICTION WRITTEN AS FEDERAL
+  POLICY.** *(Analysis. The most consequential thing in this entry.)*
+
+#### ⚠️ THE VAULT'S OWN CALIBRATION CAVEAT STILL BINDS AND I AM NOT DROPPING IT
+- **`:L506`: *"Still WHERE-not-IF: every bearish-site fact = a bullish-Texas/on-site-power fact; demand
+  redirects."*** ⇒ **NONE of this says the buildout stops. It says the buildout RELOCATES and RE-PLUMBS,
+  and the two modes are (1) kill-the-project and (2) TAX-THE-ECONOMICS — with the second "metastasising
+  in friendly states" (`:L446`).** ⇒ **Mode 2 erodes ROI even where the project is ALLOWED, which is the
+  version markets are worst at pricing because there is no headline.**
+
+#### 📌 REGISTERED
+1. 🚩🚩 **UPDATE THE 7/05 STATE COUNT.** **On file: ~17 states restricting/considering, 12 with moratorium
+   bills, 140+ local groups.** ⬜ **Six weeks stale. One fetch refreshes the ratchet's actual slope, which
+   is the whole claim.**
+2. 🚩🚩 **BEHIND-THE-METER SHARE OF NEW ANNOUNCED CAPACITY, over time.** ⇒ **The direct measure of whether
+   4c is pushing the buildout off 4b. Yesterday's counterparty map is the baseline: Microsoft→Chevron and
+   Oracle→Bloom are behind-the-meter; Meta→Entergy and Google→DTE are grid.**
+3. 🚩 **OHIO PUBLIC POLLING AFTER THE AD BLITZ** — the clean read on whether the issue moves votes, versus
+   NRSC internal message testing which is campaign data.
+**Links:** [[transmission-chain]] · [[power-scarcity-equities]] · [[power-not-petroleum]] · [[nuclear]] · [[consumption-vs-investment-crux]]
