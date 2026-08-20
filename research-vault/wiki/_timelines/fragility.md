@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **201 dated entries across 6 notes · 2026-05-22 → 2026-08-20 · refreshed 2026-08-20 12:14 PDT**
+> **202 dated entries across 6 notes · 2026-05-22 → 2026-08-20 · refreshed 2026-08-20 12:25 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -219,6 +219,7 @@
 - `2026-08-19` [transmission-chain.md:L78](../transmission-chain.md) — ⛔⛔ AMENDMENT 2026-08-19 ~10:05am PDT — **TWO STRUCTURAL HOLES, AND THE SECOND IS THE MORE IMPORTANT: (a) STAGE 4 IS NOT ONE NUMBER — PART OF IT IS 15-
 - `2026-08-19` [transmission-chain.md:L162](../transmission-chain.md) — ⭐⭐⭐⭐⭐⭐ 2026-08-19 ~1:05pm PDT — **THE FOMC INDEPENDENTLY DESCRIBES STAGES 2, 3 AND 4 OF THIS CHAIN, IN ITS OWN MINUTES, IN THE SAME ORDER — and it add
 - `2026-08-20` [financing-fragility-gauge.md:L16](../financing-fragility-gauge.md) — ⚖️ CURRENT READING — 2026-08-20 — **TENSING, NOT BREAKING**
+- `2026-08-20` [financing-fragility-gauge.md:L55](../financing-fragility-gauge.md) — ⛔ AMENDMENT 2026-08-20 ~11:45am PDT — **"NO FORCED SELLER" IS THE WRONG CRITERION, AND THIS VAULT ALREADY LEARNED THAT ON 7/30**
 - `2026-08-20` [hyperscaler-credit.md:L116](../hyperscaler-credit.md) — 2026-08-20 ~10:30am PDT — ⭐⭐⭐⭐⭐⭐ **THE CROSS-SECTION ARRIVES AND IT TURNS THIS NOTE FROM ONE NAME INTO A LADDER. ✅ NVDA 82.565 IS A NEW WIDE ON THIS N
 - `2026-08-20` [hyperscaler-credit.md:L206](../hyperscaler-credit.md) — 2026-08-20 ~10:55am PDT — ⛔⛔⛔ **I CALLED ORCL A "NEW WIDE" AGAINST A STALE REFERENCE AND IT IS NOT ONE: the vault's carried ~198bp was 2026-07-12, but
 - `2026-08-20` [rates-board.md:L755](../rates-board.md) — 2026-08-20 ~7:40am PDT — ⛔✅ **THE BRIEF SAYS THE BUYBACK MOVE WAS "LARGELY ERASED." PRIMARY SAYS *HALF*, AND THE SHAPE OF THE GIVE-BACK IS THE FINDING
