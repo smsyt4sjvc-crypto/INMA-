@@ -502,6 +502,18 @@ THREADS = {
               'price cap','embargo','blockade','asset freeze','licence','license','waiver','carve-out',
               'snapback','executive order','federal register','treasury department','economic warfare'],
 
+ # MAP GAP #30 (2026-08-20, Jake's spec). The vault tracks financing stress across FIVE notes
+ # (ai-financing-fragility, hyperscaler-credit, rates-board, transmission-chain, balance-sheet-board)
+ # and had no single STATE reading. Jake: "a running macro read on the financing of all of this...
+ # every upload creates a shift to more, less or neutral on fragility."
+ 'FRAGILITY':['fragility','financing','refinanc','rollover','maturity wall','new-issue concession',
+              'concession','order book','oversubscribed','undersubscribed','pulled deal','postponed',
+              'break issue','syndicate','underwriter','private credit','bdc','business development',
+              'redemption','gated','nav','mark to market','leverage ratio','covenant','downgrade',
+              'outlook change','fallen angel','ig index','mandate','forced selling','spv','abs',
+              'securitis','securitiz','residual value','rvg','guarantee','first loss','offtake',
+              'vendor financing','circular','dilution','equity offering','shelf','atm offering'],
+
  'SCREEN-METHOD':['backtest','back-test','point-in-time','point in time','look-ahead',
                   'lookahead','look ahead bias','survivorship','survivorship bias',
                   'formation date','holding period','control group','universe',
@@ -546,6 +558,7 @@ ROUTE = {
  'CONTENT-TOLL':'content-toll / metered-compute (same metering architecture, different input) / compression-thesis',
  'BIOTECH':   'quiet-health-screen (the value x health x NO-STORY screen -- a catalyst name is what it EXCLUDES by construction) / rotation-stickiness / dip-buying-base-rates (MRNA is the canonical single-catalyst runner in that note) / structural-pull-log',
  'SANCTIONS':  'war/war-rhetoric (threats and un-executed declarations -- the artifact test lives here) / war/war-board / war/war-confirmed / oil-value-chain / demand-destruction',
+ 'FRAGILITY':  'financing-fragility-gauge (THE STATE DIAL -- read this first, it is the one-page reading) / ai-financing-fragility (the detail) / hyperscaler-credit / rates-board / transmission-chain / balance-sheet-board',
  'SCREEN-METHOD':'quiet-health-screen (the 2026-07-05 snapshot screen + its peak-cycle-earnings caveat) / durable-value-backtest (the point-in-time test of that caveat) / colab-archive-audit (which tools exist and which are trustworthy) / runner-anatomy / market-fragility',
 }
 # ═══════════════ THREAD MAP END ═══════════════
