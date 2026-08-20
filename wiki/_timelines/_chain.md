@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **573 dated entries · 2026-05-22 → 2026-08-20 · refreshed 2026-08-20 07:37 PDT**
+> **575 dated entries · 2026-05-22 → 2026-08-20 · refreshed 2026-08-20 07:45 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -602,3 +602,5 @@
 - `2026-08-19` **[5]** memory-regime-question.md:L1017 — 2026-08-19 ~7:03am PDT — ✅✅ **F9 CLOSES ON THE FORM 4s AND IT CLOSES *AGAINST* THE BEARISH READ: MEHROTRA SOLD 40,000 SHARES (~$37M) UNDER A 10b5-1 PL
 - `2026-08-20` **[1]** rates-board.md:L755 — 2026-08-20 ~7:40am PDT — ⛔✅ **THE BRIEF SAYS THE BUYBACK MOVE WAS "LARGELY ERASED." PRIMARY SAYS *HALF*, AND THE SHAPE OF THE GIVE-BACK IS THE FINDING
 - `2026-08-20` **[1]** new-economy-regime.md:L4075 — 2026-08-20 ~8:10am PDT — ✅⭐⭐⭐⭐ **THE CLAIMS DATA INDEPENDENTLY CONFIRMS THE FOMC MINUTES LINE I FILED YESTERDAY, ONE DAY LATER AND FROM A COMPLETELY D
+- `2026-08-20` **[4]** ai-capex-cycle.md:L3082 — 2026-08-20 ~8:40am PDT — ⛔⛔★★★★★★ **THE PORTFOLIO TAKEAWAY IS THE EXACT INVERSE OF THIS NOTE'S OWN THREE-CYCLE CONTROL, AND THE DISAGREEMENT IS THE MO
+- `2026-08-20` **[4]** ai-capex-cycle.md:L3152 — 2026-08-20 ~8:55am PDT — ⛔⛔⭐⭐⭐⭐⭐ **THE MRVL "$12.2 BILLION" IS THE EXERCISE *COST*, NOT VALUE — intrinsic is ~$2.28B. And the vault's OWN ARCHIVED FIL

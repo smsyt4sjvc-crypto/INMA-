@@ -3184,3 +3184,129 @@ revenue in question — they already knew the value of the product."*
 3. 🚩 **⟲ Amend `:L3057` in place is NOT needed — this entry supersedes its disanalogy paragraph and the
    pointer is bidirectional.**
 **Links:** [[oil-value-chain]] · [[metered-compute]] · [[transmission-chain]] · [[ai-financing-fragility]] · [[power-scarcity-equities]]
+
+### 2026-08-20 ~8:40am PDT — ⛔⛔★★★★★★ **THE PORTFOLIO TAKEAWAY IS THE EXACT INVERSE OF THIS NOTE'S OWN THREE-CYCLE CONTROL, AND THE DISAGREEMENT IS THE MOST VALUABLE THING IN THE SUMMARY.** "Favour equipment SELLERS over borrow-to-own" puts the whole list on the QUANTA/DYCOM side. ⇒ **Both are right, about DIFFERENT PHASES — and the phase-switch has a name and an observable**
+Source: Jake's portfolio news/filings summary, 2026-08-20 → `raw/2026-08-20-portfolio-summary/`.
+Prices MEASURED, `tools/tape.py` 2026-08-20 ~08:35 PDT. **⟲ EXTENDS `:L3057` / `:L3104` (the shale and
+telecom-2000 controls, filed last night) and [[transmission-chain]]`:L71`.**
+
+#### ⛔ THE DISAGREEMENT, STATED FLATLY
+- **THE SUMMARY: *"The environment increasingly favors companies SELLING scarce equipment/components into
+  the AI buildout over companies that must borrow enormous amounts of money to BUILD and OWN the
+  infrastructure."*** **Cleaner: MRVL NVDA ALAB CRDO COHR LITE LRCX AMAT KLAC GEV.**
+- **THIS NOTE, LAST NIGHT (`:L3104`), from three independently derived cycles:**
+  **Telecom 2000 — contracted-revenue OWNERS (Crown Castle) grew THROUGH the bust; ORDER-BOOK CONTRACTORS
+  AND EQUIPMENT MAKERS were destroyed.** **Shale 2010-16 — midstream TOLL BOOTHS survived; E&P owners were
+  incinerated AND activity-paid services were crushed when the rigs stopped.**
+- ⇒ **⛔ THE SUMMARY'S ENTIRE "CLEANER" LIST IS THE QUANTA/DYCOM SIDE OF THAT SPLIT.**
+
+#### ★★★★★★ THE RESOLUTION — and it is not a compromise, it is a sequencing
+- **THE SUMMARY'S ARGUMENT IS ABOUT *RATE SENSITIVITY*: at a 4.69% 10Y and a 5.23% 30Y, capital-intensive
+  owners pay more to carry assets. TRUE, AND IT BITES NOW.**
+- **THIS NOTE'S ARGUMENT IS ABOUT *CANCELLABILITY*: an order book is a queue of intentions. TRUE, AND IT
+  BITES AT THE TURN.**
+- ⇒ **★★★★★ THEY ARE NOT COMPETING CLAIMS. THE EQUIPMENT SELLERS OUTPERFORM UNTIL THE ORDERS STOP, AND
+  THEN THEY UNDERPERFORM VIOLENTLY. The summary is describing the current phase correctly and calling it
+  a structural preference.** ⇒ **The question is not WHICH side — it is WHEN THE PHASE SWITCHES.**
+- **⇒ ⭐⭐⭐ AND THE SUMMARY HANDS OVER THE PHASE-SWITCH OBSERVABLE WITHOUT NAMING IT: *"AMAT beat
+  expectations and guided above estimates, but the stock still sold off… Strong earnings alone may no
+  longer be enough."*** ⇒ **THAT IS MULTIPLE COMPRESSION ON AN ORDER-BOOK BUSINESS, AND IT IS THE FIRST
+  THING THAT HAPPENS BEFORE ORDERS TURN — the market re-rating the DURABILITY of a backlog while the
+  backlog is still growing.** ⇒ **The 2000 analogue did exactly this: equipment multiples compressed for
+  months while orders still printed.** 🚩 **Beat-and-fade is now a TRACKED SIGNATURE, not an anecdote.**
+  *(Analysis.)*
+
+#### ⭐ AND GEV'S OWN NUMBER IS THE DISCRIMINATOR — the ladder from yesterday, applied
+- **SUMMARY: Q2 backlog ~$176B · "at least 125 GW of gas equipment UNDER CONTRACT BY YEAR-END" · DC orders
+  >$5B YTD, >2× full-year 2025.**
+- **VAULT, YESTERDAY** ([[power-scarcity-equities]]`:L149`): **"~116 GW of gas-equipment backlog PLUS SLOT
+  RESERVATIONS" and ">$5B DC Electrification orders H1-2026."**
+- ⇒ **⛔ THREE DIFFERENT OBJECTS ARE BEING QUOTED AS ONE: a $176B DOLLAR backlog · a 116 GW figure that
+  EXPLICITLY MIXES BACKLOG WITH SLOT RESERVATIONS · and a 125 GW YEAR-END TARGET, which is a forecast.**
+  ⇒ **On the capex evidence ladder (`power-scarcity-equities:L149`) a SLOT RESERVATION sits ABOVE a
+  purchase order — it reserves manufacturing capacity, it is not revenue. A year-end TARGET is not even
+  on the ladder.** ⇒ **The only hard leg is the >$5B of DC orders at >2× FY2025, and that is the number to
+  carry.** *(Analysis. Error class 4 — three instruments, one headline.)*
+
+#### ✅ ORACLE IS THE SHALE SENTENCE, VERBATIM — the strongest confirmation of last night's control
+- **RPO ~$638B, +363% YoY. FY26 FREE CASH FLOW ≈ NEGATIVE $23.7B.**
+- ⇒ **[[oil-value-chain]]`:L69` on 2010s shale: *"NEGATIVE FREE CASH FLOW, DEBT-FUNDED GROWTH (cash
+  incinerated → enriched Wall Street + services, not investors)."*** ⇒ **A record order book and a
+  −$23.7B cash burn is that sentence with a different commodity.** ⇒ **And it locates ORCL precisely: it
+  is the E&P, not the midstream.** *(Analysis.)*
+- **⭐⭐ AND THE DILUTION PATTERN IS NOW TWO, WHICH MAKES IT A PATTERN: INTC RAISED ITS OFFERING $15B →
+  $20B, 210.5M SHARES AT $95 — one day after ALPHABET'S PROPOSED ~$80B EQUITY** ([[ai-financing-fragility]]
+  `:L6794`). ⇒ **⛔ AND THE TAPE IS THE TELL: INTC TRADES AT $91.22, i.e. 4.0% BELOW ITS OWN OFFERING
+  PRICE. Buyers of the deal are underwater on day one.** ⇒ **That is what an equity market absorbing more
+  paper than it wants looks like, and it is the same finding as stage 3 rationing seen from the equity
+  side.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **BEAT-AND-FADE AS A TRACKED SIGNATURE.** **Baseline 2026-08: AMAT beat + guided above → sold off.
+   Count the instances across AMAT/LRCX/KLAC/GEV/ALAB/CRDO from here.** **If beat-and-fade becomes the
+   norm while backlogs still grow, the phase-switch is underway and the summary's "cleaner" list becomes
+   the exposed one.** **This is the single most valuable thing to watch in the portfolio.**
+2. 🚩🚩 **SEPARATE GEV'S THREE NUMBERS** — dollar backlog vs GW-under-contract vs slot reservations vs
+   year-end target. ⬜ **From the 10-Q, not from a summary.**
+3. 🚩🚩 **NVDA FY27-Q2, 2026-08-26 — SIX DAYS OUT, and the guide (~$91B ±2%) ASSUMED ZERO CHINA DC
+   REVENUE.** ⇒ **China H200 (ByteDance/Tencent ~10k each) is therefore a FORWARD-GUIDE event, not a
+   quarter event — the summary gets this right and it is the sharpest thing in it.**
+4. ⬜ **INTC offering: does it clear? Track vs the $95 print.** **A break-issue mega-raise in this complex
+   is a stage-3 datum the vault has no precedent for.**
+**Links:** [[ai-financing-fragility]] · [[transmission-chain]] · [[power-scarcity-equities]] · [[oil-value-chain]] · [[compression-thesis]]
+
+### 2026-08-20 ~8:55am PDT — ⛔⛔⭐⭐⭐⭐⭐ **THE MRVL "$12.2 BILLION" IS THE EXERCISE *COST*, NOT VALUE — intrinsic is ~$2.28B. And the vault's OWN ARCHIVED FILING SETTLES THE ACCOUNTING QUESTION THE SUMMARY TREATS AS CLOSED: the warrants vest PER $500M OF GOOGLE PURCHASES, which is the textbook ASC 606 "consideration payable to a customer" ⇒ CONTRA-REVENUE**
+Source: Jake's summary, 2026-08-20; **terms from the vault's own archive**
+`raw/2026-08-19-marvell-google-chips-for-warrants.txt`. **MRVL price MEASURED $245.18, 08:35 PDT.**
+**⟲ EXTENDS the 8/19 MRVL entry and CLOSES its registered classification item.**
+
+#### ⛔ THE ARITHMETIC ERROR, AND IT IS A 5× ONE
+- **SUMMARY: "Google received warrants allowing it to buy roughly 59 million MRVL shares at $206.58.
+  Potential value of those shares: about $12.2 billion."**
+- **59,000,000 × $206.58 = $12.19B. THAT IS WHAT GOOGLE *PAYS* TO EXERCISE — the strike cost, not the
+  benefit.** ⇒ **A warrant's value is (market − strike) × shares.**
+- **MEASURED: MRVL $245.18. INTRINSIC VALUE = 59M × ($245.18 − $206.58) = 59M × $38.60 = ~$2.28B.**
+  ⚠️ **Full option value is higher — the tenor runs to FY2033, so time value is large — but it is a
+  fraction of $12.2B, not equal to it.** *(Error class 4: strike notional quoted as value.)*
+- **⚠️ AND THE SUMMARY LISTS DILUTION FOR INTC AND NOT FOR MRVL, THOUGH 59M SHARES IS THE SAME KIND OF
+  EVENT.** ⬜ **MRVL diluted share count NOT VERIFIED here — but the dilution belongs in the sentence.**
+
+#### ⭐⭐⭐ THE VESTING SCHEDULE IS THE WHOLE STORY, AND IT IS ALREADY IN THE VAULT
+From the archived filing coverage, verbatim: **warrants "vest in equal quarterly installments during the
+FIRST YEAR following the execution of the warrant"** and the remainder **"vest based on 'DISCRETIONARY
+PURCHASES' from Marvell's third quarter of fiscal 2027 through the end of its fiscal 2033, WITH ONE
+TRANCHE VESTING FOR EACH $500 MILLION IN REVENUE."**
+- **⇒ ★★★★★★ WARRANTS THAT VEST AS A FUNCTION OF THE CUSTOMER'S OWN PURCHASES ARE THE TEXTBOOK ASC 606
+  CASE: "CONSIDERATION PAYABLE TO A CUSTOMER." THE FAIR VALUE OF EACH VESTING TRANCHE IS RECORDED AS A
+  REDUCTION OF REVENUE, NOT AS AN EXPENSE.** ⇒ **MRVL does not book $500M per tranche. It books $500M
+  MINUS the fair value of the tranche that $500M just vested.** ⇒ **The registered open item from 8/19 —
+  contra-revenue vs expense — RESOLVES TO CONTRA-REVENUE on the vesting language.** ⚠️ **This is a reading
+  of the disclosed structure against the standard, NOT a company statement. The 10-Q will say it
+  explicitly and that is the confirmation.** *(Analysis.)*
+- **⇒ ⭐⭐⭐ AND THE MECHANISM IS SELF-LIMITING IN A WAY NOBODY IS PRICING: THE MORE MRVL STOCK RISES ON
+  THIS DEAL, THE MORE EXPENSIVE EACH FUTURE TRANCHE BECOMES IN CONTRA-REVENUE TERMS.** **Good news lifts
+  the stock; the higher stock raises the fair value of every unvested tranche; that fair value is
+  subtracted from the revenue the deal generates.** ⇒ **The stock move and the accounting cost are
+  MECHANICALLY LINKED, in opposite directions.** *(Analysis. This is the non-obvious part.)*
+- **⚠️ AN ILLUSTRATIVE SIZING, WITH ITS ASSUMPTION NAMED AND NOT HIDDEN: IF the 59M shares vest roughly
+  evenly across a ~$10B cumulative revenue path (20 tranches ≈ 2.95M shares each), each tranche carries
+  ~$114M of fair value at today's $38.60 intrinsic ⇒ ~23% of the $500M it vests against.**
+  ⛔ **THE TRANCHE COUNT IS ASSUMED, NOT KNOWN. Treat the DIRECTION as the finding and the 23% as an
+  illustration that needs the filing.** *(Rule: name the assumption or do not do the arithmetic.)*
+
+#### ⚠️ WHICH MAKES THE SUMMARY'S "POSITIVE MRVL" A HALF-STATEMENT
+- **✓ THE STRATEGIC VALIDATION IS REAL** — Google embedding Marvell in its custom-ASIC path is exactly the
+  revenue visibility the archived coverage describes, and it is a genuine competitive datum against AVGO.
+- **⛔ BUT THE P&L PATH IS NOT CLEAN, AND THE SUMMARY DOES NOT MENTION IT: contra-revenue on every tranche,
+  59M shares of dilution, and an accounting cost that RISES WITH THE STOCK.** ⇒ **"Positive MRVL" may
+  survive. It is not established by the deal announcement, and the +12% pre-market move was priced before
+  anyone modelled the vesting.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. ✅ **CLOSED (pending 10-Q confirmation): contra-revenue, on the vesting language.** 🚩 **Confirm in the
+   next MRVL 10-Q — search "consideration payable to a customer" and "reduction of revenue."**
+2. 🚩🚩 **THE TRANCHE COUNT AND THE FAIR-VALUE METHOD** from the 8-K/S-1 exhibit. ⬜ **Decides the size of
+   the haircut, and the vault currently has only the vesting TRIGGER, not the tranche GRANULARITY.**
+3. 🚩 **AVGO AS THE OTHER SIDE.** **MRVL $245.18 (+3.33%) vs AVGO $365.96 (+0.96%) today — the market is
+   NOT treating this as a zero-sum transfer. ⬜ Whether Google is dual-sourcing or displacing is unknown.**
+**Links:** [[compression-thesis]] · [[physical-ai-hardware-stack]] · [[ai-financing-fragility]]

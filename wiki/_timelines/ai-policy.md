@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **398 dated entries across 4 notes · 2026-05-22 → 2026-08-19 · refreshed 2026-08-20 07:37 PDT**
+> **400 dated entries across 4 notes · 2026-05-22 → 2026-08-20 · refreshed 2026-08-20 07:45 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -420,3 +420,5 @@
 - `2026-08-19` [ai-financing-fragility.md:L6548](../ai-financing-fragility.md) — 2026-08-19 ~7:30am PDT — ★★★★★★ **MARVELL ISSUES GOOGLE A $12.18B WARRANT TO WIN TPU-ECOSYSTEM SILICON. ⇒ THE CIRCULARITY THREAD GETS ITS PUREST INSTA
 - `2026-08-19` [ai-financing-fragility.md:L6613](../ai-financing-fragility.md) — 2026-08-19 ~4:25pm PDT — ⭐⭐⭐⭐⭐⭐ **HIS QUESTION IS ANSWERABLE AND I WENT AND ANSWERED IT FROM SEC PRIMARY — AND THE HEADLINE IS NOT DEBT: ⭐⭐⭐ ALPHABET 
 - `2026-08-19` [metered-compute.md:L2388](../metered-compute.md) — 2026-08-19 ~8:00am PDT — ⭐⭐⭐⭐⭐ **THE BEST DATA THIS NOTE HAS EVER HAD ON ITS OWN REGISTERED TEST: VERCEL JULY-2026 — TOKEN VOLUME +59%, REALIZED $/TOK
+- `2026-08-20` [ai-capex-cycle.md:L3082](../ai-capex-cycle.md) — 2026-08-20 ~8:40am PDT — ⛔⛔★★★★★★ **THE PORTFOLIO TAKEAWAY IS THE EXACT INVERSE OF THIS NOTE'S OWN THREE-CYCLE CONTROL, AND THE DISAGREEMENT IS THE MO
+- `2026-08-20` [ai-capex-cycle.md:L3152](../ai-capex-cycle.md) — 2026-08-20 ~8:55am PDT — ⛔⛔⭐⭐⭐⭐⭐ **THE MRVL "$12.2 BILLION" IS THE EXERCISE *COST*, NOT VALUE — intrinsic is ~$2.28B. And the vault's OWN ARCHIVED FIL

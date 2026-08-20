@@ -1,6 +1,6 @@
 # ⏱ MUNITIONS — merged timeline (the gate)
 
-> **165 dated entries across 2 notes · 2026-05-22 → 2026-08-19 · refreshed 2026-08-20 07:37 PDT**
+> **167 dated entries across 2 notes · 2026-05-22 → 2026-08-20 · refreshed 2026-08-20 07:45 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -187,3 +187,5 @@
 - `2026-08-19` [ai-capex-cycle.md:L2951](../ai-capex-cycle.md) — 2026-08-19 ~2:10pm PDT — ✅⛔⭐⭐⭐⭐⭐ **JAKE DISSOLVES MY ZIRP COUNTEREXAMPLE AND HE IS RIGHT — BUT ZIRP *DID* HAVE A DEBT-FINANCED PHYSICAL BUILDOUT, AND 
 - `2026-08-19` [ai-capex-cycle.md:L3022](../ai-capex-cycle.md) — 2026-08-19 ~2:25pm PDT — ⛔⭐⭐⭐⭐⭐⭐ **HE IS RIGHT AND IT MAKES THE PRECEDENT *WORSE* FOR AI, NOT BETTER: SHALE HAD NO DEMAND RISK. THE PRODUCT HAD A KNOW
 - `2026-08-19` [war-board.md:L2757](../war/war-board.md) — 2026-08-19 (UAE time; ~2026-08-18 PDT) — ★★★★★★ **THE UAE HALTS *ALL* TRADE, COMMERCIAL EXCHANGE AND FINANCIAL TRANSACTIONS WITH IRAN. ⛔ THIS INVERTS 
+- `2026-08-20` [ai-capex-cycle.md:L3082](../ai-capex-cycle.md) — 2026-08-20 ~8:40am PDT — ⛔⛔★★★★★★ **THE PORTFOLIO TAKEAWAY IS THE EXACT INVERSE OF THIS NOTE'S OWN THREE-CYCLE CONTROL, AND THE DISAGREEMENT IS THE MO
+- `2026-08-20` [ai-capex-cycle.md:L3152](../ai-capex-cycle.md) — 2026-08-20 ~8:55am PDT — ⛔⛔⭐⭐⭐⭐⭐ **THE MRVL "$12.2 BILLION" IS THE EXERCISE *COST*, NOT VALUE — intrinsic is ~$2.28B. And the vault's OWN ARCHIVED FIL
