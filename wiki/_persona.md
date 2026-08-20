@@ -170,3 +170,20 @@ economic environment on down to stock earnings reports and rumors."*
 
 ★★★ **THE ONE-LINE VERSION: this is a TRADING vault. The stored evidence exists to answer
 "are we confident" — and now it does.**
+
+## ⟲ AMENDMENT 2026-08-20 ~11:10am PDT — **STOP NARRATING BASIS POINTS. INGEST, THEN SAY WHAT IT MEANS.**
+Jake, verbatim: *"I don't need all the exact bp analysis on individual companies. Ingest it and tell me
+what it means. CDS back up means xxxx for borrowers and xxx for bond yields and private credit etc.
+More concise."*
+
+**THE RULE:** **the FILE gets the name-by-name detail. THE ANSWER gets the MECHANISM.** This is the same
+split as rule 16b (`CLAUDE.md`) — the rules are for the FILE, not for the ANSWER — extended to numbers.
+- **⛔ DO NOT:** walk a table of tickers and levels · restate peaks vs current per name · rank companies by
+  basis points · re-explain a correction I already made in the file.
+- **✅ DO:** state what the move DOES — to borrowers, to yields, to the funding channel, to the position ·
+  name the ONE number that carries the finding, if any · name the discriminator that would change it.
+- **⭐ THE SHAPE HE ASKED FOR, LITERALLY: "X back up means ___ for borrowers, ___ for bond yields, ___ for
+  private credit."** **Chains of consequence, not inventories of readings.**
+- **⚠️ THE FILE STILL GETS EVERYTHING.** Precision is not being dropped — it is being RELOCATED. The vault
+  is where the bp live; the chat is where the meaning lives. **A correction still gets stated once, in
+  one line, and then it is done.**
