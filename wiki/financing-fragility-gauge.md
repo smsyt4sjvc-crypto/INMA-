@@ -52,6 +52,52 @@ Tightening like a boxer who knows a blow is coming he can't dodge."*
 
 ---
 
+## ⛔ AMENDMENT 2026-08-20 ~11:45am PDT — **"NO FORCED SELLER" IS THE WRONG CRITERION, AND THIS VAULT ALREADY LEARNED THAT ON 7/30**
+**Jake: *"Was SA a forced seller? I think that hedged and leveraged positions are relevant here."***
+
+**THE ANSWER, FROM THE RECORD ([[ai-financing-fragility]]`:L2189`, `:L2292`): NO — STRESSED, NOT SEIZED.**
+**Situational Awareness LP ran a CAPITAL RAISE, negotiated with lenders, and sold its stock portfolio to
+CITADEL in a bilateral block.** **Archegos defaulted on margin calls and dealers dumped collateral into the
+tape. SA did the opposite: it moved positions OFF-tape to one informed buyer.**
+
+**⛔ BUT THE EFFECT HAPPENED WITHOUT THE EVENT, AND THAT IS THE CORRECTION TO THIS GAUGE.** The vault's own
+line: ***"The de-gross was real; the liquidation was NEGOTIATED. That is how memory and the AI complex could
+fall 10–50% on forced-selling DYNAMICS without a disorderly cascade, while EW S&P printed an all-time high."***
+⇒ **A dial that waits for a "forced seller" will miss the next one exactly as it missed this one.**
+
+**✅ AND THE VAULT ALREADY WROTE THE RIGHT VARIABLE DOWN, AS A STANDING RULE:**
+***"For liquidation risk, measure the BUYER, not the seller. A named casualty with a DEEP BID is a
+TRANSFER; a named casualty with NO BID is a CASCADE."*** (`:L2292`, logged to [[_calibration]] after four
+sessions of tracking the wrong half of the pair.)
+
+**⇒ THE PANEL GAINS A CHANNEL, AND THE DISCRIMINATOR LIST IS REWRITTEN:**
+| **15** | **⭐ DEPTH OF THE BILATERAL BID** | **July's clearing agent was CITADEL, taking a whole book at a negotiated discount. That bid is what converted a cascade into a transfer.** ⬜ **Untested since. Unknown whether it reappears, and at what price** | **● UNKNOWN — and it is the single most load-bearing unknown on this page** | [[ai-financing-fragility]]`:L2292` |
+
+**⇒ AND JAKE'S SECOND POINT IS THE MECHANISM, ALSO ALREADY ON FILE: A HEDGED + LEVERED BOOK DOES NOT NEED A
+DEFAULT TO SELL.**
+- **SA was HEDGED AND HEAVILY: Q1-26 13F ~$13.68bn notional, of which ~$8.46bn (62%) was PUTS.** Long book:
+  **CoreWeave, Nebius, Bloom Energy, crypto miners, power** — the exact cohort.
+- **AND LEVERED INTO A PEAK: $225m → ~$20bn AUM in under two years, 89×.** The vault's own reading:
+  ***"that profile is PRECISELY what manufactures forced selling — 89× AUM growth means most capital
+  entered near the highs and is underwater immediately, and leverage and margin were sized"*** at the top.
+- ⇒ **⭐ THE HEDGE DOES NOT SAVE THE BOOK AT THE TURN; IT CHANGES *WHO* SELLS AND *WHEN*. The prime broker
+  underwrites GROSS exposure, not net. A stop-out or a margin re-set forces the LONG side down to hold the
+  leverage ratio EVEN WHEN THE PUTS ARE PAYING.** ⇒ **This is the pod-level de-grossing the GS prime-book
+  work already described: cash equity on margin, stopped out at the pod, sold regardless of the view.**
+- ⇒ **SO "HEDGED" IS NOT A FRAGILITY REDUCER AT THE PORTFOLIO LEVEL. IT IS A FRAGILITY *TRANSFORMER* —
+  it converts a solvency event into a liquidity event, which is faster and hits the tape harder.**
+
+**⚠️ AND THE SA EVENT IS ONLY PARTLY RESOLVED, WHICH THIS GAUGE MUST CARRY: a "STOCK PORTFOLIO" IS THE 13F
+BOOK — LONG US-LISTED EQUITY. SWAPS DO NOT TRANSFER BY SELLING A STOCK PORTFOLIO.** ⬜ **Any dealer TRS
+exposure is a SEPARATE unwind the Citadel transaction never touched, and whether the $8.46bn of PUTS went
+with the equity is unknown — "stock portfolio" suggests it did not. THE PRICE was never disclosed either,
+and the price is what sizes the damage.**
+
+**⇒ NET EFFECT ON THE DIAL: ▲ — not because SA broke, but because the criterion that said "nothing broke"
+was measuring the wrong thing, and the thing that DID work (a deep bilateral bid) is untested and unowned.**
+
+---
+
 ## 📊 THE LEDGER — every inbound, its shift, one line
 | date | inbound | shift | why |
 |---|---|---|---|
@@ -68,9 +114,11 @@ Tightening like a boxer who knows a blow is coming he can't dodge."*
 ---
 
 ## 🎯 WHAT WOULD MOVE THE DIAL — the discriminators, ranked
-**▲▲▲ TO "BREAKING":** an ORCL **outlook** change (the step before the notch) · a **pulled or postponed**
-mega-deal · a **gated** private-credit fund · **MSFT** breaking to genuine historical CDS extremes — the
-only name with nothing idiosyncratic to blame, and therefore the systemic tell.
+**▲▲▲ TO "BREAKING" — ⛔ REWRITTEN 8/20 per `:L47`: MEASURE THE BUYER, NOT THE SELLER.** **A stressed fund
+with NO BILATERAL BID** (the SA event resolved because Citadel showed up; the next one may not) · an ORCL
+**outlook** change · a **pulled or postponed** mega-deal · a **gated** private-credit fund · **MSFT**
+breaking to genuine historical CDS extremes.
+**⛔ DELETED AS A CRITERION: "a forced seller." July proved the de-gross happens WITHOUT one.**
 **▼▼ TO "EASING":** the 30Y **holding** a decline through the 9/9 buyback operations · **new-issue
 concessions narrowing** on the next mega-deal · **BDC redemptions turning** · a hyperscaler **cutting its
 capex guide** (paradoxically ▼ for fragility, ▲ for the equity thesis — the funding need falls).
