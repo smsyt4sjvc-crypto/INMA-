@@ -489,6 +489,19 @@ THREADS = {
             'novo nordisk','keytruda','biotech','biotechnology','xbi','ibb','pipeline',
             'orphan drug','patent cliff','loss of exclusivity'],
 
+ # MAP GAP #29 (2026-08-19). Trump's "ECONOMIC D-DAY" post -- an explicit SECONDARY-SANCTIONS threat
+ # naming oil smuggling, swap lines, cash transfers, exchange houses, ship registries and front
+ # companies -- routed as POWER(1)*, WAR/OIL(1)*, NUCLEAR(1)*, all single-keyword. The map had
+ # vocabulary for WAR and for OIL but none for the ENFORCEMENT MACHINERY that connects them.
+ # => Sanctions are how this conflict is actually being fought; the gate could not see the weapon.
+ 'SANCTIONS':['secondary sanctions','sanctions evasion','ofac','sdn list','designation','designated',
+              'export control','entity list','correspondent bank','correspondent banking','swift',
+              'de-risking','exchange house','hawala','front company','front companies','shell company',
+              'ship registry','ship registries','flag state','flag of convenience','deflag','reflag',
+              'shadow fleet','dark fleet','ais spoofing','ship-to-ship','sts transfer','p&i club',
+              'price cap','embargo','blockade','asset freeze','licence','license','waiver','carve-out',
+              'snapback','executive order','federal register','treasury department','economic warfare'],
+
  'SCREEN-METHOD':['backtest','back-test','point-in-time','point in time','look-ahead',
                   'lookahead','look ahead bias','survivorship','survivorship bias',
                   'formation date','holding period','control group','universe',
@@ -532,6 +545,7 @@ ROUTE = {
  'TOKEN-ECON':'metered-compute (the Jevons/elasticity-1 test) / compression-thesis / cepi',
  'CONTENT-TOLL':'content-toll / metered-compute (same metering architecture, different input) / compression-thesis',
  'BIOTECH':   'quiet-health-screen (the value x health x NO-STORY screen -- a catalyst name is what it EXCLUDES by construction) / rotation-stickiness / dip-buying-base-rates (MRNA is the canonical single-catalyst runner in that note) / structural-pull-log',
+ 'SANCTIONS':  'war/war-rhetoric (threats and un-executed declarations -- the artifact test lives here) / war/war-board / war/war-confirmed / oil-value-chain / demand-destruction',
  'SCREEN-METHOD':'quiet-health-screen (the 2026-07-05 snapshot screen + its peak-cycle-earnings caveat) / durable-value-backtest (the point-in-time test of that caveat) / colab-archive-audit (which tools exist and which are trustworthy) / runner-anatomy / market-fragility',
 }
 # ═══════════════ THREAD MAP END ═══════════════

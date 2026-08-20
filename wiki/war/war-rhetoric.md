@@ -112,3 +112,88 @@ still ⚪; do not let repetition inflate it to a trigger (WARNING-vs-TRIGGER rul
   its origin claims are inference while its strongest material (EcoHealth debarment, Morens's deleted records
   and leaks to Daszak, HHS non-responsiveness) is documents-in-hand oversight work. **The page presents both
   in one voice; hold them apart.** The IC remains split at low-to-moderate confidence in both directions.
+
+---
+
+### 2026-08-19 6:59pm ET — ★★★★★★ **"ECONOMIC D-DAY." JAKE IS RIGHT THAT THIS IS A DIFFERENT OBJECT, AND THE PRECISE REASON IS THAT IT IS AIMED AT THIRD PARTIES, NOT AT IRAN — it is a SECONDARY-SANCTIONS threat with an ENFORCEMENT TAXONOMY.** ⛔ **It is still ⚪ WORDS by this ledger's own rule until an EO or OFAC action exists — but the UAE moved ~24 HOURS EARLIER, and that sequence is the thing to watch**
+Source: Truth Social screenshot, Jake, 2026-08-19 ~8:25pm PDT (post timestamped **Aug 19, 2026 6:59 PM**,
+67 ReTruths / 192 Likes at capture) → `raw/2026-08-19-trump-economic-dday/post.md`.
+⚠️ **ROUTER GAP: the librarian matched only POWER(1)*, WAR/OIL(1)*, NUCLEAR(1)* — all single-keyword. The
+map has no SANCTIONS-ENFORCEMENT vocabulary** (secondary sanctions, exchange houses, ship registries, front
+companies, swap lines, correspondent banking). 🚩 **Logged as a map gap.**
+
+#### THE TEXT — the four clauses that matter, verbatim
+- **"ANY country that allows its financial institutions, businesses, AIRPORTS, or government entities to
+  provide any type of lifeline to Iran will itself face TREMENDOUS Economic Consequences."**
+- **"Oil smuggling, SWAP LINES, cash transfers, EXCHANGE HOUSES, SHIP REGISTRIES, front companies — It all
+  needs to stop NOW. YOU KNOW WHO YOU ARE."**
+- **"Their navy is gone, their air force is destroyed, their military factories are now rubble, their
+  currency is worthless."**
+- **"IRAN WILL NEVER HAVE A NUCLEAR WEAPON."**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔ FIRST, THIS LEDGER'S OWN RULE, APPLIED TO A POST I WOULD OTHERWISE BE TEMPTED BY: *"threats don't
+  move the marker."* NO EXECUTIVE ORDER. NO OFAC DESIGNATION. NO FEDERAL REGISTER NOTICE.** ⇒ **"I am
+  announcing" on Truth Social is an ANNOUNCEMENT OF AN INTENTION. It stays ⚪ WORDS until the artifact
+  exists.** *(Rule 10. Stated first so the rest is read against it.)*
+- **★★★★★★ BUT JAKE'S INSTINCT IS RIGHT AND THE REASON IS STRUCTURAL, NOT TONAL: EVERY PRIOR ENTRY IN THIS
+  LEDGER IS A THREAT AGAINST *IRAN*. THIS ONE IS A THREAT AGAINST *EVERYONE ELSE*.** ⇒ **A secondary-
+  sanctions threat does not need Iran to respond in order to work — it needs BANKS AND SHIPOWNERS IN THIRD
+  COUNTRIES to pre-comply.** ⇒ **⭐ AND PRE-COMPLIANCE IS THE MECHANISM THAT DOES NOT REQUIRE ANY US ACTION
+  AT ALL: a compliance officer in Dubai or Singapore de-risks on the HEADLINE, weeks before a designation.**
+  ⇒ **That is why "rhetoric doesn't move things" can be true of the first eight entries in this ledger and
+  false of this one.** *(Analysis. Conceding his framing with a mechanism rather than on tone.)*
+- **★★★★★ AND THE SECOND TELL IS THAT THE LIST IS OPERATIONAL, NOT ORATORICAL. "Oil smuggling · swap lines
+  · cash transfers · exchange houses · ship registries · front companies" IS AN ENFORCEMENT TAXONOMY —
+  each item is a distinct sanctions-evasion channel with its own regulator and its own chokepoint.**
+  ⇒ **Rhetoric does not usually arrive with a target list that reads like an OFAC target plan.** ⇒ **Someone
+  drafted this from an enforcement memo.** ⚠️ **An inference about provenance from structure, not a fact.**
+- **⭐⭐⭐ THE SEQUENCE IS THE MOST IMPORTANT THING HERE AND IT IS ALREADY ON FILE: [[war-board]]`:L2838` —
+  THE UAE HALTED *ALL* TRADE, COMMERCIAL EXCHANGE AND FINANCIAL TRANSACTIONS WITH IRAN, ~24 HOURS BEFORE
+  THIS POST.** ⇒ **Either the UAE was given advance notice, or Washington is now GENERALISING the UAE
+  template to every jurisdiction.** ⇒ **Both readings make the vault's registered question at `:L2895`
+  — *"THE IMPLEMENTATION ARTIFACT: a UAE customs circular, a central-bank/bank notice"* — the single most
+  valuable open item on the board, because the UAE is now the TEST CASE for whether any of this binds.**
+  *(Analysis.)*
+- **⭐⭐ "SHIP REGISTRIES" IS THE ONE CLAUSE THIS VAULT CAN ALREADY PRICE, BECAUSE IT HAS THE INSTRUMENT.**
+  **Windward, filed 8/18: ~20.7 MILLION BARRELS of laden tankers in the Kharg offshore waiting area
+  (`war-board:L2921`) · nine "zombie VLCCs" off China with fraudulent AIS · UAE flag = #3 smuggling risk,
+  98 vessels.** ⇒ **FLAG-STATE DEREGISTRATION IS THE MECHANISM THAT STRANDS THOSE BARRELS: a deflagged
+  VLCC loses class, loses P&I cover, and cannot legally call anywhere.** ⇒ **THAT is the physical
+  transmission from this post to the oil price, and it is measurable in the Windward series the vault
+  already fetches.** 🚩 **Next Windward pull: watch flag composition and the Kharg waiting-area count.**
+- **⛔ AND THE DAMAGE CLAIMS GO IN THIS LEDGER, NOT IN [[war-confirmed]]. "Navy is gone · air force
+  destroyed · factories rubble · currency worthless" are BELLIGERENT CLAIMS BY A PARTY TO THE CONFLICT.**
+  ⇒ **Per the standing info-war discipline: discount to ~zero absent neutral confirmation. The vault has
+  been down this road with Russian official damage claims THIS MORNING** ([[demand-destruction]]`:L3838`).
+  ⚠️ **Note the asymmetry, though: an ATTACKER over-claiming damage and a DEFENDER under-claiming it are
+  the same bias in opposite directions. Use direction, never level.**
+
+#### ⭐ THE TAPE — and it is more informative than the post
+- **MEASURED, `tools/tape.py` 2026-08-19 ~8:30pm PDT vs 8/18 close: BRENT (BZ=F) 91.73, **+0.78%** ·
+  WTI (CL=F) 84.44, **−0.59%** · HO=F 4.30, **−3.27%** · USO +0.19% · XLE −0.16%.**
+- **⇒ ★★★★★★ BRENT UP AND WTI DOWN IS NOT NOISE — IT IS THE MARKET PRICING A *SEABORNE* SUPPLY RISK AND
+  NOTHING ELSE. The Brent-WTI spread went 6.08 → 7.29 = +$1.21, +20% IN A DAY.** ⇒ **Brent is the
+  waterborne benchmark and the one exposed to Hormuz, flag states and tanker insurance; WTI is landlocked
+  Cushing.** ⇒ **THE MARKET DID RESPOND, IN THE CORRECT INSTRUMENT, AND ONLY IN THAT INSTRUMENT.**
+  ⇒ **This is the cleanest available evidence that the post is being priced as a SHIPPING/ENFORCEMENT
+  event rather than a general oil-bullish one.** *(Analysis.)*
+- **⚠️⚠️ AND THE DISCONFIRMER FOR THE CRACK POSITION, WHICH I AM NOT GOING TO BURY: HO=F −3.27% ON THE DAY
+  OF AN EIA PRINT THAT WAS SUPPORTIVE ON BOTH LEGS** ([[oil-value-chain]]`:L1709` — utilisation 97.2%,
+  distillate demand flat, PADD-1 ULSD −19.7% y/y). **Approximate crack HO×42 − WTI ≈ 180.6 − 84.4 ≈ 96.2,
+  against 101.68 on 8/17 ⇒ roughly −5.4%.** ⚠️ **CROSS-MONTH CAVEAT: CL=F and HO=F front months are not
+  necessarily matched — this note has been wrong on exactly that before (`oil-value-chain:L1135`), so
+  treat ~96 as an APPROXIMATION, not the matched-month crack.** ⇒ **But the DIRECTION is unambiguous and it
+  went against the position on its best data day. That is the thing to explain, not to explain away.**
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **THE ARTIFACT: an EXECUTIVE ORDER, an OFAC designation list, or a Federal Register notice.**
+   **Until one exists this entry stays ⚪ WORDS.** **Dated, binary, and one query resolves it.**
+2. 🚩🚩🚩 **MATCHED-MONTH CRACK, TOMORROW.** **Today's −3.27% HO on a supportive EIA print is the sharpest
+   open contradiction in the vault and it must be measured properly, not approximated.**
+3. 🚩🚩 **BRENT-WTI SPREAD AS THE IRAN INSTRUMENT.** **Baseline 6.08 (8/18) → 7.29 (8/19).** **Cleaner than
+   Brent alone: it strips the global demand factor and isolates the seaborne-risk premium.**
+4. 🚩🚩 **NEXT WINDWARD PULL — flag composition and the Kharg waiting-area barrel count.** **"Ship
+   registries" makes flag data the enforcement scoreboard.**
+5. 🚩 **MAP GAP #29 — add SANCTIONS-ENFORCEMENT vocabulary to the thread map.**
+**Links:** [[war-board]] · [[war-confirmed]] · [[oil-value-chain]] · [[demand-destruction]]
