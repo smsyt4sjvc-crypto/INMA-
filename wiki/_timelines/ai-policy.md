@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **401 dated entries across 4 notes · 2026-05-22 → 2026-08-20 · refreshed 2026-08-20 07:57 PDT**
+> **402 dated entries across 4 notes · 2026-05-22 → 2026-08-20 · refreshed 2026-08-20 08:29 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -421,5 +421,6 @@
 - `2026-08-19` [ai-financing-fragility.md:L6613](../ai-financing-fragility.md) — 2026-08-19 ~4:25pm PDT — ⭐⭐⭐⭐⭐⭐ **HIS QUESTION IS ANSWERABLE AND I WENT AND ANSWERED IT FROM SEC PRIMARY — AND THE HEADLINE IS NOT DEBT: ⭐⭐⭐ ALPHABET 
 - `2026-08-19` [metered-compute.md:L2388](../metered-compute.md) — 2026-08-19 ~8:00am PDT — ⭐⭐⭐⭐⭐ **THE BEST DATA THIS NOTE HAS EVER HAD ON ITS OWN REGISTERED TEST: VERCEL JULY-2026 — TOKEN VOLUME +59%, REALIZED $/TOK
 - `2026-08-20` [ai-capex-cycle.md:L3082](../ai-capex-cycle.md) — 2026-08-20 ~8:40am PDT — ⛔⛔★★★★★★ **THE PORTFOLIO TAKEAWAY IS THE EXACT INVERSE OF THIS NOTE'S OWN THREE-CYCLE CONTROL, AND THE DISAGREEMENT IS THE MO
-- `2026-08-20` [ai-capex-cycle.md:L3152](../ai-capex-cycle.md) — 2026-08-20 ~8:55am PDT — ⛔⛔⭐⭐⭐⭐⭐ **THE MRVL "$12.2 BILLION" IS THE EXERCISE *COST*, NOT VALUE — intrinsic is ~$2.28B. And the vault's OWN ARCHIVED FIL
-- `2026-08-20` [ai-capex-cycle.md:L3208](../ai-capex-cycle.md) — 2026-08-20 ~9:15am PDT — ✅⭐⭐⭐⭐⭐ **JAKE IS RIGHT: THE VAULT CALLED THIS ON 2026-07-05 AND CALLED IT *BIPARTISAN* EXPLICITLY (`:L441`). ⇒ THE NRSC MEMO 
+- `2026-08-20` [ai-capex-cycle.md:L3153](../ai-capex-cycle.md) — 2026-08-20 ~8:55am PDT — ⛔⛔⭐⭐⭐⭐⭐ **THE MRVL "$12.2 BILLION" IS THE EXERCISE *COST*, NOT VALUE — intrinsic is ~$2.28B. And the vault's OWN ARCHIVED FIL
+- `2026-08-20` [ai-capex-cycle.md:L3210](../ai-capex-cycle.md) — 2026-08-20 ~9:15am PDT — ✅⭐⭐⭐⭐⭐ **JAKE IS RIGHT: THE VAULT CALLED THIS ON 2026-07-05 AND CALLED IT *BIPARTISAN* EXPLICITLY (`:L441`). ⇒ THE NRSC MEMO 
+- `2026-08-20` [ai-capex-cycle.md:L3299](../ai-capex-cycle.md) — 2026-08-20 ~10:05am PDT — ⛔⛔⛔ **MY OWN CONTRA-REVENUE SIZING FROM YESTERDAY WAS WRONG BY ~12× AND THE CONCLUSION FLIPS: the real tranche count is 240,

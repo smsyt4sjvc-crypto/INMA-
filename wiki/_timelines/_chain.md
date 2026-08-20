@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **576 dated entries · 2026-05-22 → 2026-08-20 · refreshed 2026-08-20 07:57 PDT**
+> **577 dated entries · 2026-05-22 → 2026-08-20 · refreshed 2026-08-20 08:29 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -603,5 +603,6 @@
 - `2026-08-20` **[1]** rates-board.md:L755 — 2026-08-20 ~7:40am PDT — ⛔✅ **THE BRIEF SAYS THE BUYBACK MOVE WAS "LARGELY ERASED." PRIMARY SAYS *HALF*, AND THE SHAPE OF THE GIVE-BACK IS THE FINDING
 - `2026-08-20` **[1]** new-economy-regime.md:L4075 — 2026-08-20 ~8:10am PDT — ✅⭐⭐⭐⭐ **THE CLAIMS DATA INDEPENDENTLY CONFIRMS THE FOMC MINUTES LINE I FILED YESTERDAY, ONE DAY LATER AND FROM A COMPLETELY D
 - `2026-08-20` **[4]** ai-capex-cycle.md:L3082 — 2026-08-20 ~8:40am PDT — ⛔⛔★★★★★★ **THE PORTFOLIO TAKEAWAY IS THE EXACT INVERSE OF THIS NOTE'S OWN THREE-CYCLE CONTROL, AND THE DISAGREEMENT IS THE MO
-- `2026-08-20` **[4]** ai-capex-cycle.md:L3152 — 2026-08-20 ~8:55am PDT — ⛔⛔⭐⭐⭐⭐⭐ **THE MRVL "$12.2 BILLION" IS THE EXERCISE *COST*, NOT VALUE — intrinsic is ~$2.28B. And the vault's OWN ARCHIVED FIL
-- `2026-08-20` **[4]** ai-capex-cycle.md:L3208 — 2026-08-20 ~9:15am PDT — ✅⭐⭐⭐⭐⭐ **JAKE IS RIGHT: THE VAULT CALLED THIS ON 2026-07-05 AND CALLED IT *BIPARTISAN* EXPLICITLY (`:L441`). ⇒ THE NRSC MEMO 
+- `2026-08-20` **[4]** ai-capex-cycle.md:L3153 — 2026-08-20 ~8:55am PDT — ⛔⛔⭐⭐⭐⭐⭐ **THE MRVL "$12.2 BILLION" IS THE EXERCISE *COST*, NOT VALUE — intrinsic is ~$2.28B. And the vault's OWN ARCHIVED FIL
+- `2026-08-20` **[4]** ai-capex-cycle.md:L3210 — 2026-08-20 ~9:15am PDT — ✅⭐⭐⭐⭐⭐ **JAKE IS RIGHT: THE VAULT CALLED THIS ON 2026-07-05 AND CALLED IT *BIPARTISAN* EXPLICITLY (`:L441`). ⇒ THE NRSC MEMO 
+- `2026-08-20` **[4]** ai-capex-cycle.md:L3299 — 2026-08-20 ~10:05am PDT — ⛔⛔⛔ **MY OWN CONTRA-REVENUE SIZING FROM YESTERDAY WAS WRONG BY ~12× AND THE CONCLUSION FLIPS: the real tranche count is 240,

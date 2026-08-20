@@ -3215,6 +3215,7 @@ telecom-2000 controls, filed last night) and [[transmission-chain]]`:L71`.**
   backlog is still growing.** ⇒ **The 2000 analogue did exactly this: equipment multiples compressed for
   months while orders still printed.** 🚩 **Beat-and-fade is now a TRACKED SIGNATURE, not an anecdote.**
   *(Analysis.)*
+    ⟲ SUPERSEDED 2026-08-20 → ai-capex-cycle.md:L3260 — SIZING WRONG BY ~12x: real tranche count is 240 not the ~20 assumed, so contra-revenue is 1.85-3.8% of revenue, not ~23%. Classification (ASC 606 contra-revenue) stands
 
 #### ⭐ AND GEV'S OWN NUMBER IS THE DISCRIMINATOR — the ladder from yesterday, applied
 - **SUMMARY: Q2 backlog ~$176B · "at least 125 GW of gas equipment UNDER CONTRACT BY YEAR-END" · DC orders
@@ -3258,6 +3259,7 @@ telecom-2000 controls, filed last night) and [[transmission-chain]]`:L71`.**
 ### 2026-08-20 ~8:55am PDT — ⛔⛔⭐⭐⭐⭐⭐ **THE MRVL "$12.2 BILLION" IS THE EXERCISE *COST*, NOT VALUE — intrinsic is ~$2.28B. And the vault's OWN ARCHIVED FILING SETTLES THE ACCOUNTING QUESTION THE SUMMARY TREATS AS CLOSED: the warrants vest PER $500M OF GOOGLE PURCHASES, which is the textbook ASC 606 "consideration payable to a customer" ⇒ CONTRA-REVENUE**
 Source: Jake's summary, 2026-08-20; **terms from the vault's own archive**
 `raw/2026-08-19-marvell-google-chips-for-warrants.txt`. **MRVL price MEASURED $245.18, 08:35 PDT.**
+  ⟲ SUPERSEDES ai-capex-cycle.md:L3217 — SIZING WRONG BY ~12x: real tranche count is 240 not the ~20 assumed, so contra-revenue is 1.85-3.8% of revenue, not ~23%. Classification (ASC 606 contra-revenue) stands
 **⟲ EXTENDS the 8/19 MRVL entry and CLOSES its registered classification item.**
 
 #### ⛔ THE ARITHMETIC ERROR, AND IT IS A 5× ONE
@@ -3399,3 +3401,81 @@ entry) and corrects the framing in today's `:L3163` and [[transmission-chain]]`:
 3. 🚩 **OHIO PUBLIC POLLING AFTER THE AD BLITZ** — the clean read on whether the issue moves votes, versus
    NRSC internal message testing which is campaign data.
 **Links:** [[transmission-chain]] · [[power-scarcity-equities]] · [[power-not-petroleum]] · [[nuclear]] · [[consumption-vs-investment-crux]]
+
+### 2026-08-20 ~10:05am PDT — ⛔⛔⛔ **MY OWN CONTRA-REVENUE SIZING FROM YESTERDAY WAS WRONG BY ~12× AND THE CONCLUSION FLIPS: the real tranche count is 240, not the ~20 I assumed, so the haircut is ~1.85–3.8% of revenue, NOT ~23%. THE CLASSIFICATION STANDS; THE MAGNITUDE WAS IMMATERIAL AND I SAID IT WAS MATERIAL.** ✅ And the filing detail makes the $120B structure capacity the real story
+Source: Jake's holdings update, 2026-08-20 ~10:00am, citing the **Marvell 8-K of 2026-08-19**.
+**⟲ SUPERSEDES the sizing paragraph of `:L3217`** (the 8:55am entry). MRVL price MEASURED $245.18.
+
+#### DATA (REPORTED — Marvell 8-K, via Jake's summary)
+- **58.97M total warrant shares @ $206.58.** **1.36M vest on TIME.** **57.61M vest across **240 REVENUE
+  TRANCHES**, one per **$500M of qualifying Google custom-product revenue**, measured **FY27-Q3 → FY33**.
+- ⇒ **240 × $500M = $120B of STRUCTURE CAPACITY.** ✓ **The summary is careful and correct that this is
+  NOT a Google purchase commitment. Carry it as a CAP, never as a forecast.**
+
+#### ⛔ THE CORRECTION, COMPUTED
+| | yesterday (assumed) | today (filed) |
+|---|---|---|
+| tranches | ~20 | **240** |
+| shares per tranche | ~2,950,000 | **240,042** |
+| contra-revenue per $500M @ intrinsic $38.60 | ~$114M = **~23%** | **$9.27M = 1.85%** |
+| if fair value $60 / $80 / $100 per share | — | 2.88% / **3.84%** / 4.80% |
+- ⇒ **⛔ THE HAIRCUT IS LOW SINGLE-DIGIT PERCENT, NOT A QUARTER OF THE REVENUE.** ⚠️ **The charge is booked
+  at FAIR VALUE (intrinsic + time value), and on a multi-year warrant on a high-vol semi that is plausibly
+  2–3× intrinsic — hence the sensitivity table. Even at $100/share it is 4.8%.**
+- **✓ THE PROCESS WORKED AND THE NUMBER STILL FAILED, WHICH IS THE LESSON: I flagged the tranche count as
+  ASSUMED and told the reader to treat the direction as the finding and the 23% as an illustration. That
+  flag is the only reason this is a correction and not a propagated error.** ⇒ **But I should not have run
+  the arithmetic at all on a parameter I did not have — the vault's own rule at `:L3217` says exactly
+  that, and I broke it in the same entry where I wrote it.** *(Analysis. Error class 2 — a reference value
+  I supplied myself.)*
+- **✅ WHAT SURVIVES UNCHANGED: THE CLASSIFICATION. Warrants vesting per $500M of the CUSTOMER'S purchases
+  are ASC 606 "consideration payable to a customer" ⇒ CONTRA-REVENUE. The 240-tranche granularity makes
+  that MORE certain, not less — a per-dollar-of-revenue vesting schedule is the definition.**
+- **✅ AND THE SELF-LIMITING MECHANISM SURVIVES TOO, JUST SMALLER: a higher MRVL price raises the fair
+  value of every unvested tranche, so good news mechanically raises the accounting cost of the deal.**
+  ⇒ **At 1.85–3.8% it is a rounding item, not a thesis. I over-weighted it.** *(Analysis.)*
+
+#### ★★★★★ WHAT THE STRUCTURE ACTUALLY REVEALS, WHICH IS BETTER THAN THE HEADLINE
+- **⭐ NOBODY NEGOTIATES A 240-TRANCHE SCHEDULE RUNNING SIX YEARS FOR A $5B RELATIONSHIP. The tranche
+  COUNT is a revealed statement about the ORDER OF MAGNITUDE both parties consider reachable.**
+  ⇒ **That is not a commitment and it is not nothing — it is the two counterparties' own scale
+  assumption, written into a legal document.**
+- **⚠️ AND THE COUNTER, WHICH BOUNDS IT: A CAP IS CHEAP TO WRITE. Warrant schedules are routinely drafted
+  with generous ceilings that are never approached, precisely because the unvested tranches cost the
+  issuer nothing.** ⇒ **Weak evidence, in a specific direction, and both halves must be said.**
+- **⇒ 🚩 THE ARITHMETIC THAT SIZES IT: $120B over ~6 years is ~$20B/yr from ONE customer.** ⬜ **MRVL's
+  total company revenue is NOT VERIFIED in this vault — but $20B/yr from a single customer would be a
+  multiple of Marvell's entire current business.** ⇒ **On that basis the cap is aspirational by
+  construction, and the useful reading is the SLOPE (how fast tranches actually vest), not the ceiling.**
+  **The first vesting datapoint arrives with FY27-Q3.** *(Analysis. Assumption named, not hidden — again.)*
+- **✓ AND THE SUMMARY'S AVGO REFINEMENT IS RIGHT AND WORTH ADOPTING: the filing says Marvell products
+  "attach to the TPU ecosystem" — inference accelerators, storage/network/memory-interface controllers,
+  near-memory compute.** ⇒ **That is ATTACHMENT, not TPU REPLACEMENT.** ⇒ **The Google silicon wallet is
+  getting BIGGER and MORE DIVERSIFIED at once, which is less zero-sum than the tape implied — consistent
+  with MRVL +3.33% and AVGO +0.96% yesterday, i.e. both up.** *(Analysis.)*
+
+#### ⛔ AND A SECOND GRADE, ON MY OWN RATES CALL FROM YESTERDAY
+- **MEASURED THIS MORNING (`tools/tape.py`, 08:35 PDT): 5Y +3bp · 10Y +4bp to 4.69 · 30Y +4bp to 5.23.**
+  **Treasury par 8/19 close: 2Y 4.19 · 10Y 4.65 · 30Y 5.19.** ⇒ **The 8/19 rally has round-tripped.**
+- ⇒ **⛔ YESTERDAY I TITLED AN ENTRY "THE SHAPE SETTLES THE ATTRIBUTION" ([[rates-board]]`:L299`). THE
+  SHAPE ARGUMENT WAS SOUND — a monotonic −2/−6/−9 IS a term-premium signature and NOT a growth scare —
+  BUT THE LEVEL FULLY REVERSED WITHIN ONE SESSION, AND MY TITLE CLAIMED MORE THAN A ONE-DAY MOVE CAN
+  CARRY.** ⇒ **✅ THE VAULT'S OWN 7:00am SCALE DISCIPLINE WAS RIGHT AND MY 9:15am ENTHUSIASM WAS NOT:
+  `rates-board:L217` — "$28B vs the $360B of AUGUST COUPON SUPPLY = 7.8%… a MARGINAL-PRESSURE TOOL, NOT
+  A SUPPLY SOLUTION."** ⇒ **The hedge was in the entry ("one morning is not a confirmation"; "9/9 is the
+  clean test") — the HEADLINE was not hedged, and headlines are what get carried.**
+  *(Analysis. Grading my own call on the date, per rule.)*
+- **⭐ THE SURVIVING FINDING IS NARROWER AND STILL USEFUL: the ANNOUNCEMENT moved the curve in the
+  buyback's own maturity buckets on day one, and the market took it back on day two. ⇒ BOTH the
+  attribution AND the scale discipline were correct; only the PERSISTENCE claim failed.**
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **THE VESTING SLOPE, FROM FY27-Q3.** **Tranches vested per quarter is the only number that turns
+   the $120B cap into a forecast. Nothing before that print is evidence about size.**
+2. 🚩🚩 **MRVL TOTAL REVENUE AND GOOGLE CONCENTRATION** — ⬜ not in the vault. **Needed to size $20B/yr
+   against the actual business, and to price the customer-concentration risk the deal creates.**
+3. 🚩 **WARRANT FAIR VALUE AS DISCLOSED** in the next 10-Q — replaces the sensitivity table above with the
+   company's own number.
+4. ⬜ **AMD/Google TPU-v10: PRESS CHATTER, NOT CONFIRMED.** ✓ **The summary labels it correctly. Do not
+   file it as a fact; it is a watch item with no artifact.**
+**Links:** [[rates-board]] · [[compression-thesis]] · [[physical-ai-hardware-stack]] · [[transmission-chain]]
