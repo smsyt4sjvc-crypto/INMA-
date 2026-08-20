@@ -71,6 +71,7 @@ TRANSFER; a named casualty with NO BID is a CASCADE."*** (`:L2292`, logged to [[
 sessions of tracking the wrong half of the pair.)
 
 **⇒ THE PANEL GAINS A CHANNEL, AND THE DISCRIMINATOR LIST IS REWRITTEN:**
+| **16** | **⭐ FRONT-END CASH POOL** | **MMF assets $7.93T (ICI, 8/20) vs the vault's carried record $7.95T (7/01)** ⇒ **drew down over the summer, now REBUILDING.** ⚠️ **Not sidelines cash: every MMF dollar is already in T-bills/repo** (`concentration:L79`) | **▲** *(rising = de-risking, per the registered indicator at `concentration:L89`)* | [[concentration]] |
 | **15** | **⭐ DEPTH OF THE BILATERAL BID** | **July's clearing agent was CITADEL, taking a whole book at a negotiated discount. That bid is what converted a cascade into a transfer.** ⬜ **Untested since. Unknown whether it reappears, and at what price** | **● UNKNOWN — and it is the single most load-bearing unknown on this page** | [[ai-financing-fragility]]`:L2292` |
 
 **⇒ AND JAKE'S SECOND POINT IS THE MECHANISM, ALSO ALREADY ON FILE: A HEDGED + LEVERED BOOK DOES NOT NEED A
@@ -101,6 +102,7 @@ was measuring the wrong thing, and the thing that DID work (a deep bilateral bid
 ## 📊 THE LEDGER — every inbound, its shift, one line
 | date | inbound | shift | why |
 |---|---|---|---|
+| 08-20 | **MMF assets $7.93T (ICI)** | **▲** *(modest)* | ⛔ **NOT a record — the vault holds $7.95T at 7/01.** It is a REBUILD off a summer drawdown, and the vault's own registered indicator says rising = de-risking continues. Same money as the rising BDC redemptions |
 | 08-20 | **CDS cross-section + verification** | **▲** | Basket gave back half its August relief; dispersion 16.7× says the market is pricing capital structure, not AI demand |
 | 08-20 | **Portfolio/holdings summaries** | **▲** | ORCL RPO $638B on −$23.7B FCF; INTC $20B breaks issue; NVDA as funder, not just seller |
 | 08-20 | **Morning verification brief** | **▲** | 10Y/30Y round-trip the buyback in one session ⇒ the one official support failed its first test |

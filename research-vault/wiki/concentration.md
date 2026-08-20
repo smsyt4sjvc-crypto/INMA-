@@ -171,3 +171,29 @@ HIGHER-BETA hedge, not SPY.**
   most** — the NDX-falls-harder asymmetry runs against him precisely in the scenario his capex basket is
   most exposed to. **Held on the correct reason, the SPY choice has a named failure mode. Held on the
   inverted one, it does not — which is the whole cost of a wrong reason.**
+
+### 2026-08-20 ~12:00pm PDT — ⛔ **"RISE TO $7.93T" IS NOT A RECORD — THIS NOTE CARRIES $7.95T AT 2026-07-01. It is a REBUILD off a summer drawdown, which is a different and more useful fact.** ✅ And it prints the leading indicator registered at `:L89`
+Source: ICI headline via Jake, 2026-08-20. **Magnitude collision against `:L76`.**
+- **`:L76` (2026-07-01): "Money-market fund assets = RECORD $7.95T (ICI, +$47.7B and still rising)."**
+- **TODAY: $7.93T.** ⇒ **~$20B BELOW the July peak. The headline "rise" is week-over-week; the LEVEL is
+  still short of the record this note already holds.** ⚠️ **Do not carry today's print as an all-time high.**
+- ⇒ **⭐ THE SHAPE IS THE FINDING AND IT IS BETTER THAN A RECORD WOULD BE: PEAK ~7/01 → SUMMER DRAWDOWN →
+  REBUILDING NOW.** **The drawdown coincides with the early-August risk rally; the rebuild coincides with
+  credit re-widening and the 30Y round-trip.** ⇒ **Cash left as risk was bid and is coming back as it is
+  offered — the flow is behaving as a risk gauge, not as a yield trade.**
+- **✅ AND IT PRINTS THIS NOTE'S OWN REGISTERED INDICATOR (`:L89`): *"ICI publishes MMF flows weekly (Thu).
+  STILL RISING = DE-RISKING CONTINUES."*** ⇒ **It is rising. The indicator says de-risking continues.**
+- **✓ THE SIDELINES CORRECTION IS ALREADY ON FILE AT `:L79` AND STANDS: *"every MMF dollar is already
+  invested (T-bills/repo)."*** ⇒ **⭐ AND THAT IS EXACTLY WHY IT MATTERS TODAY: MMFs BUY BILLS, AND TREASURY
+  IS FUNDING ITS BUYBACKS BY ISSUING BILLS** ([[rates-board]]`:L583`). ⇒ **A rebuilding $7.9T front-end pool
+  is the DEMAND BASE that lets Bessent shorten the debt at all.** ⇒ **▼ for the sovereign's immediate
+  funding; ▲ for the rollover dependency it deepens — the same trade, seen from both ends.**
+- **⭐⭐ AND THE BEST CONNECTION IS TO A NUMBER FROM A DIFFERENT SOURCE ENTIRELY: THE FOMC'S JULY MINUTES
+  REPORT *"REDEMPTION REQUESTS TO BUSINESS DEVELOPMENT COMPANIES CONTINUED TO INCREASE IN THE SECOND
+  QUARTER."*** ⇒ **Money leaving private credit and money rebuilding in money-market funds are plausibly
+  THE SAME MONEY.** ⚠️ **Plausibly — the vault has no flow-of-funds linkage and this is an inference from
+  two series moving the right way at the same time.** 🚩 **That linkage is worth a fetch.**
+- **⚠️ AND THE STANDING DENOMINATOR CAVEAT STILL BINDS** ([[market-fragility]]`:L869`): **cash as a SHARE of
+  aggregate investable funds is at a RECORD LOW even as the dollar total sits near a record.**
+  ⇒ **Record dollars, record-low share. Both true. The share is the one that says who can buy.**
+**Links:** [[financing-fragility-gauge]] · [[market-fragility]] · [[rates-board]]
