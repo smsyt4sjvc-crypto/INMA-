@@ -249,3 +249,62 @@ commentator — it came from the institution that sets stage 1.**
 4. 🚩 **AMEND THE CHAIN TABLE ITSELF** to show the 4→1 feedback arrow, so the loop is visible in the spine
    and not only in this amendment.
 **Links:** [[rates-board]] · [[ai-financing-fragility]] · [[ai-capex-cycle]] · [[power-scarcity-equities]] · [[market-fragility]]
+
+## ⭐⭐⭐⭐⭐⭐ 2026-08-20 ~7:55am PDT — **STAGE 4b GETS BOTH A FEDERAL TEMPLATE *AND* A CONSTRAINT THE CHAIN HAS NO NODE FOR: THE "RATEPAYER PROTECTION PLEDGE" MAKES YESTERDAY'S ESA STRUCTURE NATIONAL POLICY — while an NRSC memo says data centres have become "politically radioactive" and could lose Ohio**
+Source: `Morning_Market_Verification_Brief_20260820.docx` → `raw/2026-08-20-morning-brief/`, citing **Axios,
+"Exclusive: GOP warns AI companies that data centers are politically radioactive" (2026-08-19)** and
+**White House Ratepayer Protection Pledge (release Jul-2026, fact sheet Mar-2026)**.
+⚠️ **REPORTED, verified by the brief's own labelling, NOT independently fetched by me.**
+**⟲ EXTENDS `:L71` (the stage 4b amendment, filed yesterday).**
+
+### ✅ THE POLICY LEG — yesterday's finding, elevated to a federal template
+- **THE PLEDGE, as the brief summarises White House materials: large data-centre operators should
+  BRING/BUY NEW GENERATION, FUND GRID UPGRADES, and use structures intended to SHIELD EXISTING
+  RATEPAYERS.** ⚠️ **The brief's own caveat: "no higher costs" is a policy OBJECTIVE, not a guarantee.**
+- ⇒ **★★★★★★ THAT IS PRECISELY THE CONTRACT STRUCTURE `:L71` DERIVED YESTERDAY FROM PRIVATE DEALS — Meta
+  bearing Entergy's cost of service, Oracle paying 100% of energy costs including the dedicated
+  substation, Equinix bearing 100% of the co-op's cost including two transmission lines, Evergy's ≥80%
+  minimum-payment floors.** ⇒ **What looked like utility-by-utility negotiation is a NATIONAL TEMPLATE.**
+  ⇒ **⭐ AND IT STRENGTHENS THE RISK-REALLOCATION CONCLUSION: if federal policy PUSHES the cost onto the
+  operator, then the hyperscaler's take-or-pay obligation is not a negotiated concession it might escape
+  — it is the politically mandated default.** *(Analysis. Independent confirmation, one day later, from a
+  completely different source class — a policy document rather than an SEC/PUC filing.)*
+
+### ⛔ THE CONSTRAINT LEG — and the chain has NO NODE FOR IT
+- **NRSC internal memo, reported by Axios: data centres are a MAJOR LIABILITY in the Ohio Senate race —
+  electricity, water, utility bills and local control.** **RealClearPolitics: Brown 47.8 / Husted 47.2
+  (+0.6, toss-up); latest Fox poll Brown 53-45.** ⚠️ **The memo's private polling, "6,000 TV points" and
+  message-testing are CAMPAIGN CLAIMS, not public facts — and "Brown wants to stop all construction" is
+  campaign framing the brief explicitly refuses to promote.**
+- ⇒ **★★★★★★ THE MEMO'S OWN INFERENCE IS THE LOAD-BEARING ONE FOR THIS CHAIN: an Ohio loss would change
+  NATIONAL politicians' willingness to approve future projects.** ⇒ **THAT IS A CONSTRAINT ON STAGE 4
+  THAT IS NEITHER FINANCIAL NOR PHYSICAL. It is PERMISSION.**
+- ⇒ **⭐⭐⭐ THE CHAIN MEASURES WHETHER THE MONEY EXISTS (stages 1-3) AND WHETHER THE POWER EXISTS (4b). IT
+  HAS NEVER ASKED WHETHER THE *CONSENT* EXISTS.** **A funded, powered, contracted campus still needs a
+  PUC approval, a county zoning vote, and a state political environment that tolerates it.**
+  ⇒ **AND THE VAULT ALREADY HAD A DATED PRECEDENT IT NEVER GENERALISED: [[power-not-petroleum]]`:L148` —
+  the SPOKANE moratorium ledger, "THE CITY MORATORIUM PASSED; THE COUNTY'S DID NOT."** ⇒ **That was
+  filed as a local curiosity. It is the same variable, one jurisdiction earlier.** *(Analysis.)*
+- **⇒ 🚩🚩🚩 ADD STAGE 4c — POLITICAL/REGULATORY PERMISSION.** **Instruments: PUC docket outcomes and
+  DENIALS, county/municipal moratoria, state large-load tariff fights, and — newly — ELECTION RESULTS in
+  data-centre-heavy states.** **Ohio's November race is now a DATED, BINARY, MARKET-RELEVANT event for
+  the AI buildout, and nothing in this vault would have flagged it.**
+- **⚠️ AND THE ASYMMETRY WORTH NAMING: THE RATEPAYER PLEDGE AND THE OHIO BACKLASH ARE THE SAME FORCE AT
+  TWO ALTITUDES. The pledge is the FEDERAL attempt to defuse exactly the LOCAL anger the memo measures.**
+  ⇒ **Whether it works is the question, and the memo is evidence that as of August it has NOT.**
+  ⇒ **Which means the take-or-pay structures at `:L71` are simultaneously the buildout's FINANCIAL
+  strength and its POLITICAL vulnerability: the same clause that protects the utility is the one that
+  raises a voter's bill if implementation slips.** *(Analysis.)*
+
+### 📌 REGISTERED
+1. 🚩🚩🚩 **STAGE 4c INSTRUMENTS — start the series.** **PUC denials/approvals for large-load tariffs ·
+   county and municipal moratoria (the vault has ONE: Spokane) · state legislative action on data-centre
+   siting.** ⬜ **No coverage. This is a first-class gap, not a footnote.**
+2. 🚩🚩 **OHIO SENATE, NOVEMBER 2026 — a dated catalyst for the AI-power complex.** **Track PUBLIC polling
+   (RCP average), not NRSC private message-testing, per the brief's own discipline.**
+3. 🚩🚩 **FETCH THE RATEPAYER PROTECTION PLEDGE PRIMARY** (whitehouse.gov, Jul-2026 release + Mar-2026
+   fact sheet). ⬜ **Currently held second-hand. It is the federal template for every ESA at `:L71` and
+   the vault should hold its actual text.**
+4. 🚩 **DOES THE PLEDGE BIND, OR IS IT HORTATORY?** **"Should bring/buy new generation" is not a rule.
+   Look for an EO, a FERC filing, or DOE conditions — the same artifact test as any other announcement.**
+**Links:** [[power-scarcity-equities]] · [[power-not-petroleum]] · [[ai-capex-cycle]] · [[ai-financing-fragility]] · [[buildout-bottleneck-map]]

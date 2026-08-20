@@ -773,3 +773,65 @@ yield to compete with those corporate bonds?"* **⟲ EXTENDS `:L583` and [[hyper
 3. 🚩 **A GOLD INSTRUMENT.** **Registered for the third time; it is the debasement channel's price and the
    board keeps needing it.**
 **Links:** [[hyperscaler-credit]] · [[transmission-chain]] · [[ai-financing-fragility]] · [[new-economy-regime]]
+
+### 2026-08-20 ~7:40am PDT — ⛔✅ **THE BRIEF SAYS THE BUYBACK MOVE WAS "LARGELY ERASED." PRIMARY SAYS *HALF*, AND THE SHAPE OF THE GIVE-BACK IS THE FINDING: the rally was a MONOTONIC BULL FLATTENING (−2/−6/−9); the retrace is a roughly PARALLEL +3/+4/+4. ⇒ THE FLATTENING IS ~HALF INTACT.** ✅ And Treasury's SETTLED 8/19 close confirms yesterday's intraday read exactly
+Source: `Morning_Market_Verification_Brief_20260820.docx` (Jake) → `raw/2026-08-20-morning-brief/`.
+**Yields MEASURED: Treasury par primary (settled 8/19) + `tools/tape.py` live 2026-08-20 07:34 PDT.**
+**⟲ EXTENDS `:L204` · `:L299` · `:L364`. This entry GRADES all three.**
+
+#### DATA (MEASURED)
+| tenor | 8/18 close | **8/19 close (Treasury, SETTLED)** | 8/20 live 07:34 | Δ 8/18→8/19 | Δ 8/19→now |
+|---|---|---|---|---|---|
+| 2Y | 4.19 | **4.19** | — | **0** | — |
+| 5Y | 4.37 | **4.35** | 4.38 | **−2bp** | +3bp |
+| 10Y | 4.71 | **4.65** | 4.69 | **−6bp** | +4bp |
+| 30Y | 5.28 | **5.19** | 5.23 | **−9bp** | +4bp |
+| **2s30s** | **109bp** | **100bp** | ~104bp | **−9bp** | +4bp |
+- **BRENT 93.04 (+1.55%) · WTI 85.75 (−0.09%) · HO=F 4.34 (−2.58%) · WMT 103.80 (−9.19%) · TLT −0.68%.**
+
+#### THESIS (interpretation — NOT fact)
+- **✅ FIRST, WHAT THE SETTLED DATA CONFIRMS: MY 9:15am READ HELD TO THE CLOSE, NOT JUST INTRADAY.
+  Treasury's own 8/19 par close is 2Y 4.19 (unchanged) · 5Y −2 · 10Y −6 · 30Y −9 — the monotonic bull
+  flattening exactly as filed, and it CLOSES the registered item at `:L299` #1: the cash 2Y confirms
+  2s30s went 109 → 100bp.** *(A registered test, dated and answered.)*
+- **⛔⛔ AND THE BRIEF'S CHARACTERISATION IS TOO STRONG ON THE ARITHMETIC, WHICH MATTERS BECAUSE IT IS THE
+  DOCUMENT'S HEADLINE. It says the 10Y moved "back toward/through 4.70%" and the 30Y to "5.24-5.25%,"
+  i.e. "largely erased." MEASURED: 10Y 4.69 against a 4.71 pre-buyback close — STILL 2bp BELOW. 30Y 5.23
+  against 5.28 — STILL 5bp BELOW.** ⇒ **ROUGHLY HALF THE MOVE HAS RETRACED, NOT MOST OF IT.**
+  ⚠️ **Intraday levels move; the brief's own caveat says treat ticks as time-stamped. But "through 4.70%"
+  and 4.69 are different claims and the direction of the error flatters the brief's thesis.** *(Analysis.)*
+- **★★★★★ AND THE SHAPE IS THE PART NEITHER I NOR THE BRIEF STATED, AND IT IS THE INFORMATIVE ONE: THE
+  RALLY WAS TENOR-SELECTIVE (−2/−6/−9, monotonic in maturity). THE GIVE-BACK IS ROUGHLY PARALLEL
+  (+3/+4/+4).** ⇒ **A parallel sell-off is a REPRICING OF THE WHOLE CURVE — level, not term premium.**
+  ⇒ **So the buyback's TERM-PREMIUM effect is NOT what is being unwound; something curve-wide is pushing
+  yields up on top of it.** ⇒ **2s30s sits ~104bp versus 109 pre-buyback: THE FLATTENING IS ABOUT HALF
+  INTACT while the LEVEL has risen.** ⇒ **Two different forces, separable by shape, and the brief's
+  "buyback failed" collapses them into one.** *(Analysis.)*
+- **⛔ NOW GRADE MY OWN CALL HONESTLY, BECAUSE THIS IS WHAT THE VAULT IS FOR. At 12:55pm I wrote the shape
+  "SETTLES THE ATTRIBUTION." The attribution of the ONE-DAY MOVE survives — the settled close proves the
+  shape. What does NOT survive is any implication of DURABILITY, and half of it was gone within a
+  session.** ⇒ **★★★ AND THE VAULT'S OWN 7:00am SCALE DISCIPLINE BEAT MY 9:15am ENTHUSIASM: `:L217`
+  filed "$28B vs $360B of AUGUST COUPON SUPPLY = 7.8%… a MARGINAL-PRESSURE TOOL, NOT A SUPPLY SOLUTION."**
+  ⇒ **The board predicted the size was too small at 7:00am, then I got excited about a one-day shape at
+  9:15am. THE SIZING WAS RIGHT AND THE ENTHUSIASM WAS THE ERROR.** *(Analysis. Calibration datum:
+  when this board has already sized something as marginal, a single day's confirmation is not an upgrade.)*
+- **✅ AND `:L453` IS INDEPENDENTLY CONFIRMED: the brief cites AP that gross federal debt crossed $40T.**
+  ⚠️ **ONE DATE NUANCE THE VAULT SHOULD KEEP: AP says "crossed on Aug 19" — that is the PUBLICATION date.
+  Treasury's own Debt to the Penny RECORD DATE for $40,047,425,768,420.22 is 2026-08-18.** ⇒ **The vault
+  had the exact figure from primary a day before the wire, and the one-day gap is the standard reporting
+  lag, not a discrepancy.** *(Analysis.)*
+- **⚠️ AND ONE FIGURE I CANNOT CONFIRM: the brief says "Brent moved above $94 in live reporting." I MEASURE
+  93.04.** ⇒ **Do not carry ">$94" without a timestamped source; it may be a different contract or a
+  different moment. Carry 93.04 (measured, 07:34 PDT 8/20) and note the brief's higher figure as
+  unreconciled.** *(Error class 4 discipline — name the instrument and the clock.)*
+
+#### 📌 REGISTERED
+1. ✅ **CLOSED: the cash 2Y / 2s30s item from `:L299`.** 2Y unchanged at 4.19; 2s30s 109 → 100bp.
+2. 🚩🚩🚩 **TRACK THE SHAPE OF THE GIVE-BACK, NOT THE LEVEL.** **If further retrace stays PARALLEL, the
+   buyback's term-premium effect is intact and something else is lifting yields. If it RE-STEEPENS
+   (30Y giving back faster than 5Y), the buyback is genuinely failing. Those are different findings and
+   the daily par curve separates them for free.**
+3. 🚩🚩 **9/9 REMAINS THE CLEAN TEST** and is now more important, not less — the announcement effect
+   half-decayed in one session, so the FLOW effect is the whole remaining question.
+4. ⬜ **Reconcile Brent: 93.04 measured vs ">$94" reported.**
+**Links:** [[transmission-chain]] · [[oil-value-chain]] · [[new-economy-regime]] · [[market-fragility]]
