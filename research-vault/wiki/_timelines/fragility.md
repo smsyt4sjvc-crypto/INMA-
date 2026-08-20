@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **202 dated entries across 6 notes · 2026-05-22 → 2026-08-20 · refreshed 2026-08-20 15:35 PDT**
+> **203 dated entries across 6 notes · 2026-05-22 → 2026-08-20 · refreshed 2026-08-20 15:39 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -223,4 +223,5 @@
 - `2026-08-20` [hyperscaler-credit.md:L116](../hyperscaler-credit.md) — 2026-08-20 ~10:30am PDT — ⭐⭐⭐⭐⭐⭐ **THE CROSS-SECTION ARRIVES AND IT TURNS THIS NOTE FROM ONE NAME INTO A LADDER. ✅ NVDA 82.565 IS A NEW WIDE ON THIS N
 - `2026-08-20` [hyperscaler-credit.md:L206](../hyperscaler-credit.md) — 2026-08-20 ~10:55am PDT — ⛔⛔⛔ **I CALLED ORCL A "NEW WIDE" AGAINST A STALE REFERENCE AND IT IS NOT ONE: the vault's carried ~198bp was 2026-07-12, but
 - `2026-08-20` [rates-board.md:L755](../rates-board.md) — 2026-08-20 ~7:40am PDT — ⛔✅ **THE BRIEF SAYS THE BUYBACK MOVE WAS "LARGELY ERASED." PRIMARY SAYS *HALF*, AND THE SHAPE OF THE GIVE-BACK IS THE FINDING
+- `2026-08-20` [rates-board.md:L817](../rates-board.md) — 2026-08-20 ~12:25pm PDT — ★★★★★★ **TODAY'S OPERATION IS ROUTINE AND SAYS NOTHING — BUT PULLING THE FULL HISTORY TO PROVE THAT FOUND THE REAL STORY: ⭐ 
 - `2026-08-20` [transmission-chain.md:L253](../transmission-chain.md) — ⭐⭐⭐⭐⭐⭐ 2026-08-20 ~7:55am PDT — **STAGE 4b GETS BOTH A FEDERAL TEMPLATE *AND* A CONSTRAINT THE CHAIN HAS NO NODE FOR: THE "RATEPAYER PROTECTION PLEDGE

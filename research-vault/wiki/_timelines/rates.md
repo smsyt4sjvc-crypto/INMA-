@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **250 dated entries across 3 notes · 2026-06-30 → 2026-08-20 · refreshed 2026-08-20 15:35 PDT**
+> **251 dated entries across 3 notes · 2026-06-30 → 2026-08-20 · refreshed 2026-08-20 15:39 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -269,3 +269,4 @@
 - `2026-08-19` [rates-board.md:L696](../rates-board.md) — 2026-08-19 ~4:45pm PDT — ★★★★★★ **YES, AND IT ALREADY HAPPENS — BUT IT SHOWS UP IN *SWAPS*, NOT IN CORPORATE SPREADS, AND THE MECHANISM IS BALANCE SHE
 - `2026-08-20` [new-economy-regime.md:L4075](../new-economy-regime.md) — 2026-08-20 ~8:10am PDT — ✅⭐⭐⭐⭐ **THE CLAIMS DATA INDEPENDENTLY CONFIRMS THE FOMC MINUTES LINE I FILED YESTERDAY, ONE DAY LATER AND FROM A COMPLETELY D
 - `2026-08-20` [rates-board.md:L755](../rates-board.md) — 2026-08-20 ~7:40am PDT — ⛔✅ **THE BRIEF SAYS THE BUYBACK MOVE WAS "LARGELY ERASED." PRIMARY SAYS *HALF*, AND THE SHAPE OF THE GIVE-BACK IS THE FINDING
+- `2026-08-20` [rates-board.md:L817](../rates-board.md) — 2026-08-20 ~12:25pm PDT — ★★★★★★ **TODAY'S OPERATION IS ROUTINE AND SAYS NOTHING — BUT PULLING THE FULL HISTORY TO PROVE THAT FOUND THE REAL STORY: ⭐ 

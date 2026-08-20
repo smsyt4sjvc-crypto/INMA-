@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **106 dated entries across 3 notes · 2026-07-09 → 2026-08-19 · refreshed 2026-08-20 15:35 PDT**
+> **106 dated entries across 3 notes · 2026-07-09 → 2026-08-19 · refreshed 2026-08-20 15:39 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
