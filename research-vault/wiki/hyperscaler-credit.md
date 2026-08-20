@@ -126,6 +126,7 @@ Source: Jake's chart, 2026-08-20 ~10:25am → `raw/2026-08-20-cds-crosssection/`
   TURNING POINTS ONLY.** ⚠️ **Do not quote a plotted position as a level, and do not compute a change
   from two plotted positions.** *(Same class as yesterday's quote-header failure: a displayed number whose
   transform is undisclosed. `CLAUDE.md:L42`.)*
+    ⟲ SUPERSEDED 2026-08-20 → hyperscaler-credit.md:L178 — STALE REFERENCE: I called ORCL 212.6 a new wide vs the vault's 7/12 mark of ~198, but ORCL peaked at ~215-219 in late July -- today is INSIDE the record, not above it. Dispersion finding and ORCL substance unchanged
 
 #### DATA (REPORTED — legend levels, single chart origin, NOT a terminal pull)
 | name | CDS bp | vault's prior mark | read |
@@ -176,6 +177,7 @@ Source: Jake's chart, 2026-08-20 ~10:25am → `raw/2026-08-20-cds-crosssection/`
   ⇒ **THAT IS THE SINGLE HIGHEST-PRIORITY NAME IN THIS VAULT AND THE TRIGGER IS ALREADY WRITTEN.**
   ⚠️ **What S&P did NOT do was attach a negative outlook — "stable at the ledge" (`:L315`) — and that has
   not changed. The trigger is armed, not fired.** *(Analysis.)*
+    ⟲ SUPERSEDES hyperscaler-credit.md:L128 — STALE REFERENCE: I called ORCL 212.6 a new wide vs the vault's 7/12 mark of ~198, but ORCL peaked at ~215-219 in late July -- today is INSIDE the record, not above it. Dispersion finding and ORCL substance unchanged
 
 #### ⭐ AND THE TIMING IS THE SECOND FINDING: STAGES 1 AND 2 TIGHTENED ON THE SAME DAY
 - **TODAY: the 30Y round-tripped its entire buyback rally (+4bp to 5.23, [[ai-capex-cycle]]`:L3261`) AND
@@ -200,3 +202,103 @@ Source: Jake's chart, 2026-08-20 ~10:25am → `raw/2026-08-20-cds-crosssection/`
 4. ⬜ **A PRIMARY SOURCE FOR ANY OF THESE.** **Two chart-class origins now, both via ZeroHedge-style
    panels. The LEVELS have never been terminal-verified.**
 **Links:** [[ai-financing-fragility]] · [[transmission-chain]] · [[ai-capex-cycle]] · [[balance-sheet-board]]
+
+## 2026-08-20 ~10:55am PDT — ⛔⛔⛔ **I CALLED ORCL A "NEW WIDE" AGAINST A STALE REFERENCE AND IT IS NOT ONE: the vault's carried ~198bp was 2026-07-12, but ORCL PEAKED AT ~215-219 IN LATE JULY. TODAY'S 212.6 IS ~6bp *INSIDE* ITS RECORD.** ✅ And the verification brief hands the note the thing it most needed — **the CDS HISTORY START DATES**, which retire the word "all-time" across the whole complex
+Source: Jake's verification brief, 2026-08-20 ~10:50am, citing FT/LSEG, MarketWatch, ICE Data Services via
+Investing.com, Reuters, S&P Global Market Intelligence, Bloomberg-derived data.
+**⟲ SUPERSEDES the ORCL paragraph of `:L128`** (the 10:30am cross-section entry).
+
+#### ⛔ THE CORRECTION, AND IT IS ERROR CLASS 2 — THE VAULT'S MOST-REPEATED FAILURE
+- **I WROTE: "ORCL 212.625 — NEW WIDE," comparing to the vault's carried ~198bp** (`ai-capex-cycle:L889`).
+- **⛔ THAT 198 IS DATED 2026-07-12. ORCL THEN WENT TO ~215-219bp IN LATE JULY** (MarketWatch: ~219).
+  ⇒ **212.6 IS BELOW THE PEAK, NOT ABOVE IT.** ⇒ **"Record" is wrong; "record TERRITORY, ~3% inside the
+  high" is right.**
+- ⇒ **THE MECHANISM OF MY ERROR IS EXACTLY THE ONE THIS VAULT NAMES MOST OFTEN: I HAD A REFERENCE VALUE,
+  I DID NOT CHECK WHETHER A LATER ONE EXISTED, AND THE COLLISION CHECK COULD NOT HELP BECAUSE THE LATER
+  PEAK WAS NEVER IN THE VAULT.** ⇒ **A magnitude collision only catches numbers the vault ALREADY HOLDS.
+  It is blind to the number the vault is MISSING.** 🚩 **That is a real limitation of the ingest gate and
+  it should be written down.** *(Analysis.)*
+
+#### ✅ WHAT SURVIVES FROM THE 10:30am ENTRY, UNCHANGED
+- **THE DISPERSION FINDING IS UNTOUCHED AND IS STRENGTHENED.** **MSFT 46.3 → CRWV 771.9 = 16.7×, and the
+  ordering still maps exactly onto the borrow-to-build-vs-sell-into-it axis.** **Nothing in the brief
+  contests it; the brief's own ranking reproduces the same ladder.**
+- **THE ORCL *SUBSTANCE* IS UNCHANGED AND IS THE POINT: BBB− · CP at A-3 · FY26 FCF −$23.7B against S&P's
+  −$42B FY27 path · CDS in the 210s.** ⇒ **The fallen-angel trigger at [[ai-financing-fragility]]`:L312`
+  is armed exactly as filed. Only my "record today" adjective was wrong.**
+
+#### ⭐⭐⭐ THE MOST VALUABLE THING IN THE BRIEF — THE HISTORY START DATES RETIRE "ALL-TIME"
+- **NVDA CDS began ACTIVELY TRADING ~NOVEMBER 2025** (ICE Data Services). **META ~OCTOBER 2025.**
+  **GOOGL late NOVEMBER 2025.**
+- ⇒ **⛔ EVERY "RECORD" IN THIS COMPLEX IS A 9-10 MONTH RECORD. This note's own series starts January 2026
+  and I flagged that at `:L140` — the brief makes it harder and SOURCED.** ⇒ **"All-time wide" on a
+  ten-month contract is a sentence that sounds like a regime statement and is a range statement.**
+- ⇒ **⚠️ AND IT CUTS BOTH WAYS, WHICH IS THE HONEST READ: a young contract means no history to compare
+  to — but it ALSO means these names had NO ACTIVELY TRADED CDS AT ALL until late 2025.** **The market
+  CREATED protection on hyperscaler credit within the last year.** ⇒ **★ THE EXISTENCE OF THE MARKET IS
+  ITSELF THE SIGNAL, and it is bigger than any level in it.** *(Analysis. New, and it is the strongest
+  frame available for this whole note.)*
+
+#### DATA (REPORTED — the brief's marks vs today, so the note carries PEAKS not just levels)
+| name | late-July PEAK | today | vs peak |
+|---|---|---|---|
+| **ORCL** | **~215-219** | 212.6 | **~3% INSIDE** |
+| **NVDA** | **82 (ICE, dated 2026-07-27)** | 82.565 | **+0.5bp — inside chart-read error** |
+| **META** | **~95** | 90.5 | ~4.5bp inside |
+| **GOOGL** | **~67** | 55.5 | **~11.5bp inside — well off** |
+| AMZN | record per FT/LSEG, level not given | 57.8 | ⬜ |
+| **MSFT** | **NOT among FT's record names; ~highest since 2018** | 46.3 | **multi-year, NOT all-time** |
+- **⛔ SO MY "NVDA CLEARS THE LATE-JULY PEAK" IS TRUE BY HALF A BASIS POINT AGAINST A CHART-READ NUMBER.**
+  ⇒ **Restate: NVDA is AT its record, not through it. The distinction matters because I built a "the dip
+  is fully retraced and exceeded" line on 0.5bp.** *(Analysis. Correcting my own confidence, not the
+  direction.)*
+
+#### ★★★★★★ THE BASKET ARITHMETIC IS THE BEST SINGLE STATEMENT OF "THE RIP IS OVER"
+- **The 5-name basket (AMZN/GOOGL/META/MSFT/ORCL) went from ~115bp toward 162bp in late July · tightened
+  ~20bp in the early-August relief · has now RE-WIDENED ~10bp.**
+- ⇒ **ROUGHLY HALF THE CREDIT RELIEF IS ALREADY SURRENDERED.** ⇒ **That is a quantified version of Jake's
+  read and it is better than any single name, because a basket cannot be an idiosyncratic story.**
+- ⚠️ **AND THE BRIEF'S OWN CAVEAT IS THE RIGHT ONE: this says credit refuses to validate a durable risk-on
+  reset. IT DOES NOT MECHANICALLY END THE EQUITY REBOUND.** *(Analysis.)*
+
+#### ⭐⭐⭐ THE CONTAGION LADDER — adopted, and it is sharper than the framing I filed
+**ORCL alone = IDIOSYNCRATIC** (leverage + negative FCF + BBB−, dismissible) → **NVDA at record = the
+concern has moved into the SUPPLIER / VENDOR-FINANCING ecosystem** → **META/GOOGL/AMZN back at records
+simultaneously = the market is repricing the HYPERSCALER CAPEX MODEL ITSELF** → **MSFT breaking to genuine
+historical extremes = SYSTEMIC.**
+- ⇒ **★★★★★ THEREFORE MSFT IS THE CLEANEST NAME TO WATCH NEXT, AND THAT INVERTS THE OBVIOUS INTUITION:
+  the TIGHTEST name in the complex is the one carrying the most information, because it is the only one
+  with nothing idiosyncratic to blame.** ⇒ **✓ AND IT CONVERGES WITH THE METRIC I REGISTERED 25 MINUTES
+  AGO FROM A DIFFERENT DIRECTION — the MSFT-CRWV dispersion ratio. Two routes, same name.**
+  **MSFT is also the name EDGAR showed has issued NO public bonds since 2024** (`ai-financing-fragility:
+  L6794`) ⇒ **its spread cannot be explained by supply. That is what makes it clean.** *(Analysis.)*
+
+#### ✅ TWO INDEPENDENT CONFIRMATIONS OF THE VAULT'S OWN PRIMARY WORK
+1. **⭐ THE BRIEF'S ZEROHEDGE SOURCE LINE READS "…after Google shocks another $25 BILLION BOND OFFERING."**
+   ⇒ **YESTERDAY I PULLED THAT DEAL OFF EDGAR MYSELF: GOOGL 424B2, filed 2026-08-07, headline
+   $25,000,000,000** (`ai-financing-fragility:L6794`). ⇒ **My EDGAR classification is confirmed by an
+   independent source, and the market is treating that specific deal as the trigger for the re-widening.**
+2. **Reuters via the brief: AMZN/GOOGL/META/ORCL issued ~$194B through early July.** ✓ **Matches the
+   vault's carried "$194B / 9%-of-IG issuance"** (`ai-capex-cycle:L889`). **Two origins, same figure.**
+
+#### ⭐⭐⭐ AND THE BRIEF DELIVERS THE INSTRUMENT I REGISTERED YESTERDAY AS THE #1 UNFETCHED NUMBER
+- **`ai-financing-fragility:L6794` item 2 registered NEW-ISSUE CONCESSION as *"the single highest-value
+  unfetched number in this thread… it converts 'is the bid drying up' from a story into basis points."***
+- ⇒ **THE BRIEF: Amazon's July $25B bond *"required more yield concession and attracted weaker demand than
+  its previous issuance."*** ⇒ **✓ FIRST DIRECT EVIDENCE ON THAT INSTRUMENT, and it points the way the
+  spread ladder implies.** ⚠️ **QUALITATIVE — "more concession" is not a number of basis points.**
+  🚩 **The registered fetch stands; this is the direction, not the magnitude.**
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **CARRY PEAKS, NOT JUST LEVELS.** **This note held current marks and no highs, which is exactly
+   how I called a non-record a record.** **Baseline peaks now on file: ORCL ~215-219 · NVDA 82 (7/27) ·
+   META ~95 · GOOGL ~67 · basket 162.**
+2. 🚩🚩🚩 **MSFT IS THE WATCH NAME.** **Today 46.3, multi-year high, NOT all-time, no bond supply since
+   2024.** ⇒ **A genuine historical break in MSFT is the systemic print. Nothing else in the complex is
+   as clean.**
+3. 🚩🚩 **GATE LIMITATION, LOGGED: the magnitude-collision check can only catch numbers the vault ALREADY
+   HOLDS. It is structurally blind to a missing intervening peak.** ⇒ **For any series the vault tracks,
+   the gate should ask "is my reference the LATEST one?" — it currently cannot.**
+4. ⬜ **A live ICE/LSEG feed.** **Three chart/press origins now, zero terminal pulls. Every level in this
+   note is second-hand.**
+**Links:** [[ai-financing-fragility]] · [[transmission-chain]] · [[ai-capex-cycle]] · [[_calibration]]
