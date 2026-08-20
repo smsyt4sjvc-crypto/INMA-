@@ -4198,3 +4198,61 @@ extracted in the earlier pass** → `raw/2026-08-19-fomc-minutes/`. **⟲ EXTEND
    CONCENTRATED-vs-GENERAL directly.** *(Supersedes nothing; sharpens the item at `:L4066`.)*
 3. 🚩 **HIRES AND SEPARATIONS RATES (JOLTS)** — the "low hiring AND low firing" claim, measurable.
 **Links:** [[ai-capex-cycle]] · [[transmission-chain]] · [[compression-thesis]] · [[consumption-vs-investment-crux]]
+
+### 2026-08-20 ~8:10am PDT — ✅⭐⭐⭐⭐ **THE CLAIMS DATA INDEPENDENTLY CONFIRMS THE FOMC MINUTES LINE I FILED YESTERDAY, ONE DAY LATER AND FROM A COMPLETELY DIFFERENT SOURCE: "LOW-HIRE, LOW-FIRE" IS NOW MEASURED, NOT QUOTED.** ⛔ And Walmart is a QUALITY-of-growth miss, not an earnings miss — which makes it a *better* consumer signal, not a worse one
+Source: `Morning_Market_Verification_Brief_20260820.docx` → `raw/2026-08-20-morning-brief/`, citing DOL
+Weekly Claims (2026-08-20), BLS Employment Situation (July), BEA GDP advance Q2, AP/Barron's on Walmart.
+**⟲ EXTENDS `:L4147`** (the FOMC supply-side entry) **and [[transmission-chain]]`:L162`.**
+
+#### DATA (REPORTED — brief-verified against primary agencies; not re-fetched by me)
+- **INITIAL CLAIMS 206,000** (w/e Aug-15), **−6,000** from a revised 212,000, **below a ~210K consensus.**
+- **CONTINUING CLAIMS 1,799,000** (w/e Aug-8), **+18,000.**
+- **JULY PAYROLLS −23,000. UNEMPLOYMENT 4.1%. Q2 REAL GDP +1.5% annualised** (vs +2.1% Q1).
+- **WALMART: adj EPS $0.81 vs ~$0.74 expected (BEAT) · revenue $187.94B vs ~$186.6B (BEAT) · US COMPARABLE
+  SALES +2.6% vs ~3.8% expected (MISS) · Q3 adj EPS guide $0.62-0.64 vs ~$0.68 (MISS) · FY sales and
+  operating-income ranges RAISED.** **Stock −8.8% on the day (I measure −9.19% live), biggest percentage
+  drop since 2022.**
+- **⛔ THE BRIEF CATCHES A FACTUAL REVERSAL IN THE SUPPLIED ZEROHEDGE PDF: it says Michigan had the largest
+  DECLINE and Kentucky the largest increase. DOL's state table for the cited week shows the OPPOSITE —
+  Michigan the largest INCREASE (+1,931), Kentucky a DECREASE (−87), OHIO the largest decrease (−252).**
+  **The national 206K / 1.799M figures in that PDF are correct.** ⚠️ **Same source class the vault graded
+  on 8/14 — ZH headline numbers reliable, ZH detail not.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE CROSS-CONFIRMATION IS THE FINDING AND IT LANDED IN UNDER 24 HOURS. YESTERDAY I FILED, FROM
+  THE JULY FOMC MINUTES: *"uncertainties associated with AI-related developments as well as current and
+  anticipated productivity gains were keeping both HIRING AND FIRING LOW."*** ⇒ **Today the claims tape
+  says the same thing in numbers: INITIAL claims at 206K BELOW consensus (nobody is firing) while
+  CONTINUING claims RISE +18K and payrolls print −23K (nobody is hiring).** ⇒ **A Fed narrative sentence
+  and a Labor Department series, independent, agreeing.** ⇒ **That is the corroboration standard, and it
+  promotes "low-hire, low-fire" from a quoted phrase to a measured regime.** *(Analysis.)*
+- **★★★★★ AND IT IS THE MECHANISM BEHIND THE THING THE VAULT COULD NOT EXPLAIN YESTERDAY: how AI can bid
+  up ELECTRICIANS' WAGES (FOMC, verbatim) while the aggregate labour market stays frozen.** ⇒ **A narrow
+  trade shortage inside a low-churn economy is not a contradiction — it is what a CONCENTRATED capex boom
+  inside a stalled hiring cycle looks like.** ⇒ **And it matches the Census construction data exactly:
+  everything falling except data centres** (`:L3978`). ⇒ **Three sources — FOMC text, DOL claims, Census
+  C30 — describing one economy: NARROW BOOM, BROAD STALL.** *(Analysis.)*
+- **⛔⛔ AND THE WALMART READ IN THE BRIEF IS RIGHT AND IT INVERTS THE OBVIOUS ONE: BEATING EPS AND REVENUE
+  AND STILL FALLING 9% IS A WORSE SIGNAL THAN A PLAIN MISS, NOT A BETTER ONE.** **A plain miss is one bad
+  quarter. A COMP miss with an EPS beat says the profit came from somewhere other than selling more
+  things to more people — and the market marked down the QUALITY of the growth, not the quantity.**
+  ⇒ **US comps +2.6% against ~3.8% expected, at the defensive bellwether with the broadest low-income
+  exposure in retail.** *(Analysis.)*
+- **⇒ 🚩🚩🚩 AND IT IS A DIRECT READ ON MY OWN REGISTERED CRACK-THESIS TRIPWIRE. [[oil-value-chain]]`:L1781`
+  registered: *"DOES DISTILLATE PRODUCT SUPPLIED CONVERGE DOWN TO THE −2.9% AGGREGATE? That, not the stock
+  level, is how this position actually loses."*** ⇒ **A 120bp comp miss at Walmart with a $5.45 diesel
+  pump is the CONSUMER-side version of that convergence starting.** ⚠️ **ONE RETAILER IS NOT A CONSUMER
+  SIGNAL — the brief says so too. Cross-retailer confirmation is what would make it one.**
+  ⇒ **But it is now the first non-energy datapoint pointing at the same demand leg.** *(Analysis.)*
+- **⚠️ AND THE HONEST COUNTERWEIGHT: 206K INITIAL CLAIMS IS NOT A RECESSION TAPE. Q2 GDP +1.5% is slowing,
+  not contracting. The vault should not let three soft prints and a retail comp become a downturn call —
+  this note has a standing rule against exactly that.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **CROSS-RETAILER CONSUMER CHECK — TGT, COST, HD, LOW, DG, DLTR comps this cycle.** **The brief's
+   own test and the right one. ⬜ Not fetched. A Walmart-only signal is a Walmart story.**
+2. 🚩🚩 **CONTINUING CLAIMS, WEEKLY — start the series.** **1.799M, +18K (w/e 8/8).** **The "low-hire" half
+   is the one that moves first, and the vault has no series for it.**
+3. 🚩 **ZEROHEDGE DETAIL-vs-HEADLINE, second instance logged.** **Headline aggregates have been reliable;
+   the state/detail layer has now been wrong twice. Treat ZH as a HEADLINE relay, never as a detail source.**
+**Links:** [[transmission-chain]] · [[oil-value-chain]] · [[demand-destruction]] · [[market-fragility]]
