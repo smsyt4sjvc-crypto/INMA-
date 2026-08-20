@@ -835,3 +835,77 @@ Source: `Morning_Market_Verification_Brief_20260820.docx` (Jake) → `raw/2026-0
    half-decayed in one session, so the FLOW effect is the whole remaining question.
 4. ⬜ **Reconcile Brent: 93.04 measured vs ">$94" reported.**
 **Links:** [[transmission-chain]] · [[oil-value-chain]] · [[new-economy-regime]] · [[market-fragility]]
+
+### 2026-08-20 ~12:25pm PDT — ★★★★★★ **TODAY'S OPERATION IS ROUTINE AND SAYS NOTHING — BUT PULLING THE FULL HISTORY TO PROVE THAT FOUND THE REAL STORY: ⭐ THE LONG-END BUYBACKS FILL TO THEIR CAP *EVERY SINGLE TIME* WHILE DEALERS OFFER 10-15× WHAT TREASURY CAN TAKE. THE $2B→$4B INCREASE WAS NOT A SIGNAL — IT WAS A BINDING CONSTRAINT BEING RELAXED, AND IT IS STILL TOO SMALL.**
+Source: Jake's headline, 2026-08-20. **ALL FIGURES MEASURED FROM TREASURY FISCALDATA PRIMARY**
+(`buybacks_operations`, 215 operations back to 2000-03-09) → `raw/2026-08-20-buyback-ops/`.
+**✅ CLOSES the item registered at `:L262`** ("Buyback OPERATION RESULTS — offers received vs accepted").
+
+#### ⛔ TODAY FIRST, AND THE ANSWER IS "NOTHING" — because the base rate says so
+- **2026-08-20 · bucket **3Y to 5Y** · Liquidity Support · cap **$4.0B** · offered **$10.159B** ·
+  accepted **$1.860B** = **18.3%.**
+- **BASE RATE, 215 operations since 2000: median accept/offer **20.2%**, mean 22.2%.**
+- **SAME BUCKET, 2026: 3/04 → 23.7% · 5/19 → **18.2%** · today **18.3%**. Offers $10.40B / $9.19B / $10.16B.**
+- ⇒ **⛔ TODAY IS INDISTINGUISHABLE FROM MAY IN THE SAME BUCKET, AND SLIGHTLY BELOW A 26-YEAR MEDIAN.
+  THERE IS NO SIGNAL IN IT.** ⇒ **AND IT IS THE WRONG BUCKET ENTIRELY: 3Y-5Y is not the long end. The
+  doubled buybacks are 10-20Y and 20-30Y and they start 9/9.** **Do not read this operation as evidence
+  about the long-end thesis.** *(Analysis. The headline invites a read the data does not support.)*
+
+#### ⭐⭐⭐ THE REAL FINDING — the last ten operations, by bucket, with the CAP
+| date | bucket | cap | offered | accepted | fill |
+|---|---|---|---|---|---|
+| 07-01 | **10Y-20Y** | $2.0B | $15.72B | **$2.00B** | **AT CAP** |
+| 07-09 | 2Y-3Y | $4.0B | $12.46B | $2.29B | under |
+| 07-16 | **20Y-30Y** | $2.0B | **$30.54B** | **$2.00B** | **AT CAP (6.5%)** |
+| 07-22 | 1Y-10Y | $0.8B | $3.19B | $0.41B | under |
+| 07-23 | **10Y-20Y** | $2.0B | $16.30B | **$2.00B** | **AT CAP** |
+| 07-28 | **20Y-30Y** | $2.0B | $21.93B | **$2.00B** | **AT CAP** |
+| 08-06 | 1Mo-2Y | $4.0B | $35.79B | $4.00B | at cap |
+| 08-11 | **10Y-20Y** | $2.0B | $7.40B | **$2.00B** | **AT CAP** |
+| 08-18 | **20Y-30Y** | $2.0B | $19.87B | **$2.00B** | **AT CAP** |
+| 08-20 | 3Y-5Y | $4.0B | $10.16B | $1.86B | **under** |
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE LONG BUCKETS FILL TO THE CAP SIX TIMES OUT OF SIX. THE SHORT AND INTERMEDIATE BUCKETS DO
+  NOT.** ⇒ **At the long end Treasury takes every dollar it is permitted to take. In the 3Y-5Y bucket today
+  it left $2.14B of a $4B cap on the table.** ⇒ **⭐ THAT IS THE DIFFERENCE BETWEEN *PRICE-SELECTIVE* AND
+  *SIZE-CONSTRAINED*, and the two ends of the curve are in different regimes.** *(Analysis.)*
+- **⇒ ★★★★★★★ WHICH REWRITES WHY THE CAP WAS DOUBLED. I FILED IT ON 8/19 AS "THE FIRST OFFICIAL
+  COUNTERFORCE" AND READ IT AS A POLICY SIGNAL ABOUT YIELDS** (`:L204`). **THE OPERATION DATA SAYS
+  SOMETHING PLAINER: THE $2B LONG-END CAP WAS BINDING ON EVERY SINGLE OPERATION, AND TREASURY RELAXED A
+  CONSTRAINT IT KEPT HITTING.** ⇒ **Less a message to the market than a plumbing fix that had run out of
+  room.** *(Analysis. Amending my own reading of the 7:00am entry — the fact was right, the motive I
+  assigned was more dramatic than the data requires.)*
+- **⭐⭐⭐ AND THE OFFER SIDE IS THE MEASUREMENT THE VAULT HAS BEEN MISSING ALL WEEK: DEALERS OFFERED
+  $30.54B INTO A $2.0B WINDOW ON 7/16, AND $19.87B INTO $2.0B ON 8/18 — 15× AND 10× WHAT TREASURY COULD
+  TAKE.** ⇒ **THE DEALER DESIRE TO OFFLOAD LONG PAPER IS ENORMOUS AND STRUCTURALLY UNMET.**
+  ⇒ **✅ THAT IS `:L61`'s BID-DISPERSION DIAGNOSIS, QUANTIFIED FROM A SECOND, INDEPENDENT INSTRUMENT:
+  33.6bp of 30Y dispersion and a 15× oversubscribed buyback are the same congestion, measured two ways.**
+  ⇒ **The vault named the disease from auction internals on 8/02 and has now measured its pressure from
+  the operation data.** *(Analysis.)*
+- **⇒ ⛔ AND IT SIZES THE FIX AND FINDS IT WANTING: DOUBLING $2B → $4B AGAINST $20-30B OF OFFERS TAKES THE
+  FILL FROM ~7-10% TO ~13-20%. THE CONSTRAINT DOES NOT GO AWAY. IT HALVES.**
+  ⇒ **★★★ THE BUYBACK IS NOT A RATE TOOL. IT IS A DRAINAGE VALVE ON DEALER INVENTORY, AND THE VALVE IS
+  AN ORDER OF MAGNITUDE TOO SMALL FOR THE PRESSURE BEHIND IT.** ⇒ **That is fully consistent with the
+  8/19 rally round-tripping in one session, and it is a better explanation than "the market didn't
+  believe it."** *(Analysis. This is the entry's headline.)*
+- **⚠️ ONE ALTERNATIVE I CANNOT RULE OUT: offering into a buyback is nearly costless — dealers submit
+  widely and let Treasury pick the cheapest. So a large offer/accept ratio is NOT automatically distress.**
+  ⇒ **What defeats that objection here is the ASYMMETRY: if wide offering were just free optionality, it
+  would show up equally across buckets. It does not — the long buckets are pinned at the cap and the
+  short ones are not.** *(Analysis. Objection stated, then answered from the data.)*
+- **✓ AND A SMALL FACT-CHECK ON THE ANNOUNCEMENT ITSELF: $4B CAPS ALREADY EXISTED IN THE SHORT BUCKETS
+  (2Y-3Y on 7/09, 1Mo-2Y on 8/06).** ⇒ **The 9/9 change EXTENDS an existing size to the LONG buckets; it
+  does not invent it.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. ✅ **CLOSED: `:L262`, buyback operation results.** **Base rate established: median 20.2% over 215 ops.**
+   **This is now a TRACKED SERIES from FiscalData primary — the vault's first non-chart, non-press
+   instrument on the buyback.**
+2. 🚩🚩🚩 **THE 9/9 TEST IS NOW SHARPER AND MEASURABLE: at a $4B long-end cap, DOES TREASURY STILL FILL TO
+   THE CAP?** ⇒ **If yes, demand to offload exceeds even the doubled window and the constraint is still
+   binding. If it under-fills like the 3Y-5Y bucket does, the congestion has cleared.** **That is a
+   cleaner test than the yield level and it prints on a known date.**
+3. 🚩🚩 **TRACK OFFER VOLUME AT THE LONG END AS THE CONGESTION GAUGE.** **Baseline: $30.54B (7/16),
+   $21.93B (7/28), $19.87B (8/18), $7.40B (8/11).** **Falling offers = dealers de-stocked. Rising = worse.**
+**Links:** [[financing-fragility-gauge]] · [[transmission-chain]] · [[market-fragility]]
