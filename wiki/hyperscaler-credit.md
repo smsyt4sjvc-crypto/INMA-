@@ -112,3 +112,91 @@ corporate bond at double the yield as a US treasury bond, what happens…"* **�
 3. 🚩 **THE RATING WATCH IS UNCHANGED AND IS THE REAL TRIGGER** (`ai-financing-fragility:L1091`). **CDS at
    80bp is an IG-consistent level. A downgrade is the discontinuity; the spread is the thermometer.**
 **Links:** [[ai-financing-fragility]] · [[rates-board]] · [[transmission-chain]] · [[balance-sheet-board]]
+
+## 2026-08-20 ~10:30am PDT — ⭐⭐⭐⭐⭐⭐ **THE CROSS-SECTION ARRIVES AND IT TURNS THIS NOTE FROM ONE NAME INTO A LADDER. ✅ NVDA 82.565 IS A NEW WIDE ON THIS NOTE'S OWN SERIES. ⭐⭐⭐ AND THE DISPERSION IS THE FINDING: MSFT 46.3 → CRWV 771.9 = 16.7× FOR THE SAME END-DEMAND — the credit market has priced the vault's borrow-to-build-vs-sell-into-it axis exactly.** ⛔ And ORCL at a record 212.6 while rated BBB- is the fallen-angel trigger this vault registered on 7/12
+Source: Jake's chart, 2026-08-20 ~10:25am → `raw/2026-08-20-cds-crosssection/`. **⟲ EXTENDS `:L13`**
+(the NVDA-only series) — this note now has a cross-section, which is what it was missing.
+
+#### ⚠️ CHART DISCIPLINE FIRST — the plotted lines are on an UNDISCLOSED TRANSFORM and must not be read as levels
+- **The right-hand axis runs from about −200 to +350 and several series plot NEGATIVE (MSFT ≈ −140,
+  AMZN/GOOG ≈ −100, NVDA ≈ −5).** ⇒ **⛔ A CDS SPREAD CANNOT BE NEGATIVE.** ⇒ **The lines are rebased,
+  indexed or offset by something the chart does not state, and the offset is NOT constant across series
+  (NVDA legend−line ≈ 87, META ≈ 65, MSFT ≈ 186).**
+- ⇒ **USE THE LEGEND VALUES, WHICH ARE UNAMBIGUOUS LEVELS IN bp. USE THE LINE GEOMETRY FOR DIRECTION AND
+  TURNING POINTS ONLY.** ⚠️ **Do not quote a plotted position as a level, and do not compute a change
+  from two plotted positions.** *(Same class as yesterday's quote-header failure: a displayed number whose
+  transform is undisclosed. `CLAUDE.md:L42`.)*
+
+#### DATA (REPORTED — legend levels, single chart origin, NOT a terminal pull)
+| name | CDS bp | vault's prior mark | read |
+|---|---|---|---|
+| **CRWV** | **771.885** | *(none — new to this note)* | ⚠️ own left-hand scale; ~500 early-Jun → **~975 spike late-Jul** → ~680 early-Aug → 772 |
+| **ORCL (CP)** | **212.625** | **~198** (`ai-capex-cycle:L889`) | **NEW WIDE, and the ticker is ORCL*CP*** |
+| **SPCX** | 167.960 | *(none)* | SpaceX — the vault holds the equity (`ai-capex-cycle:L2376`), never the credit |
+| **META** | 90.535 | *(none)* | Jake: "just shy of record" |
+| **NVDA** | **82.565** | **80.330 (8/18); ~81 late-Jul peak** (`:L19`) | **✅ NEW WIDE — confirmed on this note's own series** |
+| AMZN | 57.750 | — | |
+| GOOG | 55.530 | — | |
+| **MSFT** | **46.340** | — | **the tight end** |
+
+#### ✅ THE ONE CLAIM I CAN CHECK AGAINST THE VAULT CHECKS OUT
+- **`:L19` carries the NVDA track: ~39-40 late-May LOW · ~58 mid-Jul · **~81 peak late-Jul** · ~67
+  early-Aug dip · 80.33 on 8/18.** ⇒ **82.565 CLEARS THE LATE-JULY PEAK.** ⇒ **✓ "NVDA at all-time wides"
+  is correct on the vault's own record, and the early-August dip is now fully retraced.**
+- ⚠️ **"ALL-TIME" IS DOING WORK THE DATA CANNOT SUPPORT: this note's series starts in JANUARY 2026.**
+  ⇒ **Say "widest of the series," not "all-time," until a longer history exists.** *(Error class 1.)*
+
+#### ⭐⭐⭐⭐ THE DISPERSION IS THE FINDING, NOT THE DIRECTION
+- **MSFT 46.3 → CRWV 771.9 = 16.7×. MSFT → ORCL = 4.6×. GOOG → ORCL = 3.8×.**
+- ⇒ **★★★★★★ THIS IS NOT "HYPERSCALER CREDIT IS WIDENING." IT IS THE CREDIT MARKET PRICING AN ENORMOUS
+  QUALITY LADDER *INSIDE* THE AI COMPLEX — AND THE ORDERING IS EXACTLY THE VAULT'S OWN CAPITAL-STRUCTURE
+  AXIS FROM `ai-capex-cycle:L3104`:**
+  **MSFT 46.3 — the name EDGAR showed has NOT ISSUED A BOND SINCE 2024** ([[ai-financing-fragility]]
+  `:L6794`), funding from cash flow · **GOOG 55.5 / AMZN 57.8** — issuing, cash-rich, IG ·
+  **NVDA 82.6** — the SUPPLIER, not the builder · **META 90.5** · **ORCL 212.6** — RPO $638B against
+  **FY26 FCF ≈ −$23.7B**, i.e. the E&P · **CRWV 771.9** — the neocloud, pure borrow-to-build-and-own.
+- ⇒ **⭐⭐⭐ THE CDS CURVE *IS* THE SELL-INTO-THE-BUILDOUT vs BORROW-TO-BUILD-AND-OWN SPLIT, PRICED.
+  16.7× FOR THE SAME END-DEMAND.** ⇒ **Last night that split came from THREE HISTORICAL CYCLES (telecom
+  2000, shale, AI power). This is the SAME finding derived from a live credit market instead of from
+  history — a fourth, contemporaneous derivation.** *(Analysis. Four origins is well past the
+  corroboration standard.)*
+
+#### ⛔⛔⛔ AND THE MOST IMPORTANT LINE ON THE CHART IS ORCL, BECAUSE THE VAULT ALREADY REGISTERED ITS TRIGGER
+- **`ai-financing-fragility:L312`, filed 2026-07-12: ORCL long-term **BBB→BBB−**, short-term CP **A-2→A-3**;
+  S&P raised FY27 capex **$60B→$90-95B** and saw the free operating cash-flow deficit widening to
+  **~−$42B by FY27**; CDS ~198bp then.** **Verbatim: *"BBB− IS THE FALLEN-ANGEL LEDGE: one more notch and
+  ORCL's debt EXITS IG INDICES → forced selling by every mandate-bound holder of the 9%-of-IG-supply
+  hyperscaler stack."***
+- ⇒ **⭐ TODAY: 212.6bp = A NEW WIDE ON THE ONE NAME SITTING ON THE LEDGE. And the chart's series is
+  **ORCL*CP*** — commercial paper, the exact instrument S&P cut to A-3, i.e. the SHORT-TERM funding leg.**
+- ⇒ **AND THE FUNDAMENTAL IS TRACKING S&P'S PATH: this morning's summary gives FY26 FCF ≈ −$23.7B against
+  S&P's projected −$42B by FY27.** ⇒ **The deficit is widening ON SCHEDULE.**
+- ⇒ **★★★★★★ ORCL IS NOW: ONE NOTCH FROM JUNK · AT ITS WIDEST CDS ON RECORD · WITH ITS SHORT-TERM PAPER
+  ALREADY DOWNGRADED · AND A CASH DEFICIT MOVING TOWARD THE RATING AGENCY'S OWN BEAR NUMBER.**
+  ⇒ **THAT IS THE SINGLE HIGHEST-PRIORITY NAME IN THIS VAULT AND THE TRIGGER IS ALREADY WRITTEN.**
+  ⚠️ **What S&P did NOT do was attach a negative outlook — "stable at the ledge" (`:L315`) — and that has
+  not changed. The trigger is armed, not fired.** *(Analysis.)*
+
+#### ⭐ AND THE TIMING IS THE SECOND FINDING: STAGES 1 AND 2 TIGHTENED ON THE SAME DAY
+- **TODAY: the 30Y round-tripped its entire buyback rally (+4bp to 5.23, [[ai-capex-cycle]]`:L3261`) AND
+  the complex's own credit made new wides.** ⇒ **[[transmission-chain]] stage 1 and stage 2 moving
+  together, in the same session, against the one official intervention aimed at stage 1.**
+- ⇒ **✓ JAKE'S "THE POST-JULY RIP IS OVER" IS SUPPORTED BY THE INSTRUMENT, NOT JUST THE TAPE: the
+  early-August dip in NVDA CDS (~67) is fully retraced and exceeded.** *(Analysis.)*
+- **⛔ AND IT PUTS A CRACK IN THIS MORNING'S "EQUIPMENT SELLERS ARE CLEANER" HOUSE VIEW: NVDA — the
+  cleanest seller in the complex — IS ALSO MAKING NEW WIDES.** ⇒ **The ladder is real and NVDA sits high
+  on it, but "cleaner" is RELATIVE, not immune. 82.6bp is double late-May.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **ORCL: THE FALLEN-ANGEL WATCH IS NOW THE VAULT'S #1 CREDIT ITEM.** **Watch: any S&P/Moody's/
+   Fitch OUTLOOK change (the step before the notch) · CP issuance and rollover · the FY27 FCF path vs
+   S&P's −$42B.** **The RATING is the trigger; the CDS is the thermometer** (`:L103` doctrine).
+2. 🚩🚩🚩 **BUILD THIS CROSS-SECTION AS A SERIES, NOT A SNAPSHOT.** **Today is the baseline: CRWV 771.9 ·
+   ORCL 212.6 · SPCX 168.0 · META 90.5 · NVDA 82.6 · AMZN 57.8 · GOOG 55.5 · MSFT 46.3.**
+   ⇒ **TRACK THE MSFT–CRWV RATIO (16.7× today). Dispersion WIDENING is the stress signal; dispersion
+   COMPRESSING would say the market stopped discriminating — and that is the more dangerous state.**
+3. 🚩🚩 **CRWV AND SPCX ARE NEW TO THIS NOTE.** ⬜ **No history for either. CRWV at 771.9 with a ~975
+   late-July spike is the widest thing in the complex by 3.6× and the vault has never priced it.**
+4. ⬜ **A PRIMARY SOURCE FOR ANY OF THESE.** **Two chart-class origins now, both via ZeroHedge-style
+   panels. The LEVELS have never been terminal-verified.**
+**Links:** [[ai-financing-fragility]] · [[transmission-chain]] · [[ai-capex-cycle]] · [[balance-sheet-board]]
