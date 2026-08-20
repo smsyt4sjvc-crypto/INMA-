@@ -3332,6 +3332,18 @@ entry) and corrects the framing in today's `:L3163` and [[transmission-chain]]`:
 - **`power-not-petroleum:L148` — the SPOKANE ledger, Jake's own county: city moratorium PASSED, county's
   did NOT.** **Polling 69→35, ousted councils, $281 bills, secret water** (`:L505`).
 
+#### ⭐ BIPARTISAN, NOT NONPARTISAN — and the difference IS the ratchet
+- **NONPARTISAN = no party owns it. It is apolitical, neutral, unattached.** ⇒ **It has NO VEHICLE.**
+  **Nonpartisan grievances produce polling and nothing else.**
+- **BIPARTISAN = BOTH parties own a version of it, for DIFFERENT reasons.** ⇒ **It has TWO VEHICLES.**
+- ⇒ **★★★★★★ THAT IS PRECISELY WHY `:L441` CALLS IT A RATCHET RATHER THAN NOISE. Normal political risk
+  mean-reverts because the OUT-PARTY campaigns to repeal it. HERE THERE IS NO OUT-PARTY: the LEFT owns
+  environmental/anti-Big-Tech/ratepayer-equity and the RIGHT owns ratepayer-populism/local-control/
+  anti-elite.** ⇒ **No coalition to repeal ⇒ every restriction that passes STAYS.**
+- ⇒ **AND IT SETS THE FALSIFIER, WHICH NONPARTISAN FRAMING WOULD NOT: THE RATCHET BREAKS IF ONE PARTY
+  DEFECTS TO THE BUILDOUT AS A NATIONAL-SECURITY / AI-RACE POSITION AND MAKES IT PARTISAN AGAIN.**
+  🚩 **That — not a polling move — is the thing that would retire this whole thread.**
+
 #### ⇒ SO WHAT IS ACTUALLY NEW TODAY, AND IT IS NOT THE SENTIMENT
 - **★★★★★★ THE NRSC MEMO IS THE RIGHT-HAND HALF OF THE COALITION THE VAULT MAPPED ON 7/05, ARRIVING WITH
   A BUDGET BEHIND IT.** **A REPUBLICAN campaign committee — the side generally assumed friendly to the
