@@ -1,6 +1,6 @@
 # ⏱ SANCTIONS — merged timeline (the gate)
 
-> **289 dated entries across 5 notes · 2026-03-13 → 2026-08-19 · refreshed 2026-08-19 20:34 PDT**
+> **290 dated entries across 5 notes · 2026-03-13 → 2026-08-19 · refreshed 2026-08-19 20:40 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -76,7 +76,7 @@
 - `2026-07-16` [demand-destruction.md:L1050](../demand-destruction.md) — 2026-07-16 ~PM — explosions at AHVAZ (Khuzestan = Iran's oil heartland) — FARS
 - `2026-07-16` [demand-destruction.md:L1060](../demand-destruction.md) — 2026-07-16 ~3:20pm ET — Hormuz ALREADY throttled (Kpler); Basra correction; the inflation note
 - `2026-07-16` [war-confirmed.md:L48](../war/war-confirmed.md) — 2026-07-16 — US hits sanctioned oil tanker near Iran's export terminal; IRAQ SUSPENDS BASRAH loadings
-- `2026-07-16` [war-rhetoric.md:L24](../war/war-rhetoric.md) — 2026-07-16 — Iran: "infrastructure for infrastructure" war; Hormuz an "unbreakable red line"
+- `2026-07-16` [war-rhetoric.md:L30](../war/war-rhetoric.md) — 2026-07-16 — Iran: "infrastructure for infrastructure" war; Hormuz an "unbreakable red line"
 - `2026-07-17` [demand-destruction.md:L1089](../demand-destruction.md) — 2026-07-17 ~9:56pm PT (Fri EU pre-open) — Iran hits US FACILITIES directly (escalation notch)
 - `2026-07-17` [demand-destruction.md:L1105](../demand-destruction.md) — 2026-07-17 ~7:20am PT — THE FUSE CONDITION: US HITS IRAN ENERGY INFRASTRUCTURE
 - `2026-07-17` [demand-destruction.md:L1128](../demand-destruction.md) — 2026-07-17 ~7:43am PT — FUSE STATUS UPDATE (scanner): oil FINALLY moves, but Red Sea STILL OPEN
@@ -124,16 +124,16 @@
 - `2026-07-23` [war-board.md:L29](../war/war-board.md) — CURRENT STATUS — 2026-07-23 ~6:31pm PT (day 145; renewed campaign = night 13)
 - `2026-07-23` [war-confirmed.md:L10](../war/war-confirmed.md) — 2026-07-23 — US begins 13th consecutive night of strikes (CENTCOM)
 - `2026-07-23` [war-confirmed.md:L16](../war/war-confirmed.md) — 2026-07-23 — Iran rejects Iraqi-brokered US ceasefire (NYT)
-- `2026-07-23` [war-rhetoric.md:L11](../war/war-rhetoric.md) — 2026-07-23 — Trump: "hold Iran ACCOUNTABLE for anything the Houthis do in the Red Sea" (attribution doctrine)
-- `2026-07-23` [war-rhetoric.md:L18](../war/war-rhetoric.md) — 2026-07-23 — IRGC threatens UK/NATO bases harboring US forces (RAF Fairford)
+- `2026-07-23` [war-rhetoric.md:L17](../war/war-rhetoric.md) — 2026-07-23 — Trump: "hold Iran ACCOUNTABLE for anything the Houthis do in the Red Sea" (attribution doctrine)
+- `2026-07-23` [war-rhetoric.md:L24](../war/war-rhetoric.md) — 2026-07-23 — IRGC threatens UK/NATO bases harboring US forces (RAF Fairford)
 - `2026-07-24` [war-board.md:L57](../war/war-board.md) — UPDATE — 2026-07-24 ~6:20am PT (Fri pre-market, day 146; night 13 done)
 - `2026-07-24` [war-board.md:L66](../war/war-board.md) — UPDATE — 2026-07-24 ~6:44AM PT (Fri open) — war premium UNWINDING
 - `2026-07-24` [war-board.md:L71](../war/war-board.md) — UPDATE — 2026-07-24 ~9:54AM PT (Fri midday) — OFF-RAMP RE-FORMING (Jake's de-escalation call checkpoint #1 live)
 - `2026-07-24` [war-board.md:L82](../war/war-board.md) — UPDATE — 2026-07-24 ~11:16am PT — WAR WIDENING (Gulf-Arab coalition) — strategic escalation vs the tactical off-ramp
 - `2026-07-24` [war-confirmed.md:L66](../war/war-confirmed.md) — 2026-07-24 — Explosions near US base in northern Iraq after US strikes Iran (13th-night continuation)
 - `2026-07-24` [war-confirmed.md:L72](../war/war-confirmed.md) — 2026-07-24 — Bahrain + Kuwait warplanes struck Iran (early July) — first direct Gulf-Arab retaliation; UAE cover; Saudi "evaluating" (WSJ)
-- `2026-07-24` [war-rhetoric.md:L39](../war/war-rhetoric.md) — 2026-07-24 — Iran IRNA: NYT report on Iraqi PM's ceasefire proposal is "MISLEADING"
-- `2026-07-24` [war-rhetoric.md:L44](../war/war-rhetoric.md) — 2026-07-24 — Trump in "revenge mode," "losing patience" after 13th consecutive night of strikes
+- `2026-07-24` [war-rhetoric.md:L45](../war/war-rhetoric.md) — 2026-07-24 — Iran IRNA: NYT report on Iraqi PM's ceasefire proposal is "MISLEADING"
+- `2026-07-24` [war-rhetoric.md:L50](../war/war-rhetoric.md) — 2026-07-24 — Trump in "revenge mode," "losing patience" after 13th consecutive night of strikes
 - `2026-07-25` [oil-value-chain.md:L47](../oil-value-chain.md) — 2026-07-25 ~10:35pm PT — Jake's Q: reserve-supplied consumption = "already paid for"? How it actually lands in XOM/CVX/VLO prints (Fri 7/31)
 - `2026-07-25` [war-board.md:L98](../war/war-board.md) — UPDATE — 2026-07-25 ~11:01am PT (Sat) — ★ THE OFF-RAMP FIRED (in-window): strike stand-down + Oman reopening talks
 - `2026-07-25` [war-confirmed.md:L82](../war/war-confirmed.md) — 2026-07-25 — Trump ORDERS STAND-DOWN of approved Friday-night strikes; Oman talks on REOPENING HORMUZ resumed (Axios via Kobeissi)
@@ -167,8 +167,8 @@
 - `2026-07-27` [war-confirmed.md:L377](../war/war-confirmed.md) — 2026-07-27 ~7:10am PT addendum 2 — SENTINEL-2 OPTICAL shows Abqaiq BURNING (flame + km-scale plume); "multiple compression tanks taken out" claimed
 - `2026-07-27` [war-confirmed.md:L395](../war/war-confirmed.md) — 2026-07-27 ~7:20am PT addendum 3 — VIIRS detail: OVERNIGHT PERSISTENCE, footprint-wide pixel cluster, and a SECOND-SITE detection consistent with an E
 - `2026-07-27` [war-confirmed.md:L413](../war/war-confirmed.md) — 2026-07-27 ~7:05pm PT addendum 4 — SWEEP RESULT: "hit" is now confirmed-grade; MAGNITUDE is the last contested variable — and the market still says no
-- `2026-07-27` [war-rhetoric.md:L50](../war/war-rhetoric.md) — 2026-07-27 — Baghaei: Iran not seeking talks — "not in our DNA"; US "begging for a deal" claims "fabricated"
-- `2026-07-27` [war-rhetoric.md:L56](../war/war-rhetoric.md) — 2026-07-27 — Iranian state media: non-Iranian routes "are contaminated and have no way out"
+- `2026-07-27` [war-rhetoric.md:L56](../war/war-rhetoric.md) — 2026-07-27 — Baghaei: Iran not seeking talks — "not in our DNA"; US "begging for a deal" claims "fabricated"
+- `2026-07-27` [war-rhetoric.md:L62](../war/war-rhetoric.md) — 2026-07-27 — Iranian state media: non-Iranian routes "are contaminated and have no way out"
 - `2026-07-28` [demand-destruction.md:L2037](../demand-destruction.md) — 2026-07-28 ~12:05pm PT — ★ JAKE'S ABSORPTION PROBLEM: total closure + a shrugging tape = something is moving barrels the trackers can't see
 - `2026-07-28` [demand-destruction.md:L2085](../demand-destruction.md) — 2026-07-28 ~12:25pm PT — ★ THE CURVE ANSWERS: the shortage is REAL. The FLAT PRICE is what's lying — and the market is pricing the shortage as TEMPORA
 - `2026-07-28` [demand-destruction.md:L2123](../demand-destruction.md) — 2026-07-28 ~12:40pm PT — ★★ THE ABSORBER FOUND: the SPR has been drained 104 MILLION BARRELS (−25%) since March — and it has a DEPLETION CLOCK
@@ -192,7 +192,7 @@
 - `2026-07-29` [war-board.md:L362](../war/war-board.md) — 2026-07-29 ~8:50am PT — ★★ THE UNDERPRICED ITEM IN TODAY'S FEED: CHINA IS ARMING IRAN, ON A WEEKS TIMELINE
 - `2026-07-29` [war-board.md:L416](../war/war-board.md) — 2026-07-29 ~9:10am PT — ⚠️ CONTESTED: "US-OWNED LNG VESSEL STRUCK AT DAMIETTA, EGYPT" — FILED AS UNRESOLVED, MOVES NOTHING
 - `2026-07-29` [war-board.md:L471](../war/war-board.md) — 2026-07-29 ~10:45pm PT — ★★★ QESHM ISLAND HIT. SOMEONE IS ATTACKING THE **TOLL BOOTH**, AND THAT IS NOT BULLISH FOR SHIPPING.
-- `2026-07-29` [war-rhetoric.md:L61](../war/war-rhetoric.md) — 2026-07-29 07:05 ET — WHITE HOUSE X ACCOUNT POSTS THE LAB-LEAK PAGE: "The truth." → 74 MILLION VIEWS
+- `2026-07-29` [war-rhetoric.md:L67](../war/war-rhetoric.md) — 2026-07-29 07:05 ET — WHITE HOUSE X ACCOUNT POSTS THE LAB-LEAK PAGE: "The truth." → 74 MILLION VIEWS
 - `2026-07-30` [demand-destruction.md:L2431](../demand-destruction.md) — 2026-07-30 ~12:44am PT — ⛔ "ADMINISTERED, NOT CLOSED" WAS OVER-WEIGHTED: the IRGC uses the word REOPEN, flow is at historic lows, and BRENT IS MOVING
 - `2026-07-30` [demand-destruction.md:L2476](../demand-destruction.md) — 2026-07-30 ~12:00am PT — ⛔⛔⛔ THE VAULT MISSED A SECOND OIL WAR: CPC has been under drone attack since JULY 19, Kazakhstan's output MORE THAN HALVED, a
 - `2026-07-30` [demand-destruction.md:L2557](../demand-destruction.md) — 2026-07-30 ~12:19am PT — ★★★ TWO MORE TANKERS HIT AT CPC AND BRENT WENT DOWN — plus the resolution mechanism appears: RUBIO IS DISCUSSING CPC WITH KAZ
@@ -310,4 +310,5 @@
 - `2026-08-19` [oil-value-chain.md:L1611](../oil-value-chain.md) — 2026-08-19 ~8:05am PDT — ⛔⛔ **THE RUSSIAN SHORTAGE IS A *GASOLINE* SHORTAGE, AND THAT CUTS *AGAINST* THE CRACK POSITION TWICE: it is the one product t
 - `2026-08-19` [oil-value-chain.md:L1664](../oil-value-chain.md) — 2026-08-19 ~8:20am PDT — ★★★★★★ **BOTH DECISIVE SERIES RESOLVED IN ONE PRINT AND BOTH LAND ON THE POSITION'S SIDE: refinery utilisation 97.2% (no supp
 - `2026-08-19` [war-board.md:L2757](../war/war-board.md) — 2026-08-19 (UAE time; ~2026-08-18 PDT) — ★★★★★★ **THE UAE HALTS *ALL* TRADE, COMMERCIAL EXCHANGE AND FINANCIAL TRANSACTIONS WITH IRAN. ⛔ THIS INVERTS 
-- `2026-08-19` [war-rhetoric.md:L97](../war/war-rhetoric.md) — 2026-08-19 6:59pm ET — ★★★★★★ **"ECONOMIC D-DAY." JAKE IS RIGHT THAT THIS IS A DIFFERENT OBJECT, AND THE PRECISE REASON IS THAT IT IS AIMED AT THIRD P
+- `2026-08-19` [war-rhetoric.md:L103](../war/war-rhetoric.md) — 2026-08-19 6:59pm ET — ★★★★★★ **"ECONOMIC D-DAY." JAKE IS RIGHT THAT THIS IS A DIFFERENT OBJECT, AND THE PRECISE REASON IS THAT IT IS AIMED AT THIRD P
+- `2026-08-19` [war-rhetoric.md:L190](../war/war-rhetoric.md) — 2026-08-19 ~8:55pm PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **JAKE'S CORRECTION IS RIGHT AND IT IS VERIFIED: TRUMP MEDIA LAUNCHED "TRUTH API" ON ~2026-08-01 SELLING SUB-SECOND 

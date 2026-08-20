@@ -24,6 +24,12 @@ Words, not actions: Iranian-agency claims (until neutrally confirmed → then th
 threats, doctrines, and un-executed declarations. Per info-war discipline: belligerent adjectives discounted; threats don't
 move the marker. Most entries are ⚪ TEXTURE. Newest on top. Legend + triggers: [[war-board]].
 
+⛔ **AMENDED 2026-08-19 (`:L168`): "THREATS DON'T MOVE THE MARKER" MEANS THE *ESCALATION* MARKER — IT NEVER MEANT THE PRICE.**
+**Since ~2026-08-01, Trump Media's "Truth API" has sold sub-second early access to Truth Social posts at
+$60,000–$100,000/month to 10+ customers, mostly HIGH-FREQUENCY TRADING FIRMS.** ⇒ **Rhetoric's market
+impact is not debatable; it has a price and a customer count.** ⇒ **EVERY ENTRY HERE NOW CARRIES TWO
+COLUMNS: epistemic status (confirmed vs un-executed) AND price impact. They are orthogonal.**
+
 > Flags: 🔴 `[MARKER-MOVED]` · 🟠 `[SHOULD-MOVE]` (should-but-hasn't) · 🟡 `[ODDS-SHADER]` · ⚪ `[TEXTURE]`
 > Rule: a threat gets 🟠/🟡 only if it structurally changes the market's tail; pure saber-rattling is ⚪.
 
@@ -116,6 +122,7 @@ still ⚪; do not let repetition inflate it to a trigger (WARNING-vs-TRIGGER rul
 ---
 
 ### 2026-08-19 6:59pm ET — ★★★★★★ **"ECONOMIC D-DAY." JAKE IS RIGHT THAT THIS IS A DIFFERENT OBJECT, AND THE PRECISE REASON IS THAT IT IS AIMED AT THIRD PARTIES, NOT AT IRAN — it is a SECONDARY-SANCTIONS threat with an ENFORCEMENT TAXONOMY.** ⛔ **It is still ⚪ WORDS by this ledger's own rule until an EO or OFAC action exists — but the UAE moved ~24 HOURS EARLIER, and that sequence is the thing to watch**
+  ⟲ SUPERSEDED 2026-08-20 → war-rhetoric.md:L167 — MARKET-STATUS FRAMING WRONG: 'still WORDS' conflated epistemic status with price impact. Truth API has sold sub-second early access to Trump posts at 60-100k/mo since ~8/01 to 10+ HFT firms -- the market prices the latency. Content analysis stands
 Source: Truth Social screenshot, Jake, 2026-08-19 ~8:25pm PDT (post timestamped **Aug 19, 2026 6:59 PM**,
 67 ReTruths / 192 Likes at capture) → `raw/2026-08-19-trump-economic-dday/post.md`.
 ⚠️ **ROUTER GAP: the librarian matched only POWER(1)*, WAR/OIL(1)*, NUCLEAR(1)* — all single-keyword. The
@@ -165,6 +172,7 @@ companies, swap lines, correspondent banking). 🚩 **Logged as a map gap.**
 - **⛔ AND THE DAMAGE CLAIMS GO IN THIS LEDGER, NOT IN [[war-confirmed]]. "Navy is gone · air force
   destroyed · factories rubble · currency worthless" are BELLIGERENT CLAIMS BY A PARTY TO THE CONFLICT.**
   ⇒ **Per the standing info-war discipline: discount to ~zero absent neutral confirmation. The vault has
+    ⟲ SUPERSEDES war-rhetoric.md:L118 — MARKET-STATUS FRAMING WRONG: 'still WORDS' conflated epistemic status with price impact. Truth API has sold sub-second early access to Trump posts at 60-100k/mo since ~8/01 to 10+ HFT firms -- the market prices the latency. Content analysis stands
   been down this road with Russian official damage claims THIS MORNING** ([[demand-destruction]]`:L3838`).
   ⚠️ **Note the asymmetry, though: an ATTACKER over-claiming damage and a DEFENDER under-claiming it are
   the same bias in opposite directions. Use direction, never level.**
@@ -197,3 +205,73 @@ companies, swap lines, correspondent banking). 🚩 **Logged as a map gap.**
    registries" makes flag data the enforcement scoreboard.**
 5. 🚩 **MAP GAP #29 — add SANCTIONS-ENFORCEMENT vocabulary to the thread map.**
 **Links:** [[war-board]] · [[war-confirmed]] · [[oil-value-chain]] · [[demand-destruction]]
+
+---
+
+### 2026-08-19 ~8:55pm PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **JAKE'S CORRECTION IS RIGHT AND IT IS VERIFIED: TRUMP MEDIA LAUNCHED "TRUTH API" ON ~2026-08-01 SELLING SUB-SECOND EARLY ACCESS TO TRUTH SOCIAL POSTS AT $60,000–$100,000/MONTH, AND HAS SIGNED 10+ CUSTOMERS, MOSTLY HIGH-FREQUENCY TRADING FIRMS.** ⇒ **THE MARKET LITERALLY PRICES THE LATENCY ON TRUMP'S POSTS. This SUPERSEDES my "still ⚪ WORDS" framing at `:L118` and it changes the vault's METHOD, not just one entry.**
+Source: Jake's correction, 2026-08-19 ~8:50pm PDT, **VERIFIED BY WEB SEARCH** — NBC News, CNN Business
+(2026-08-11), NPR (2026-08-01), Fortune (2026-08-01, 2026-08-04), PBS NewsHour.
+**⟲ SUPERSEDES `:L118`'s rhetorical framing** (the analysis of the post's CONTENT stands; the framing of
+its market status does not).
+
+#### DATA (REPORTED — multiple independent outlets)
+- **PRODUCT: "TRUTH API" — a paid, licensed data feed from Trump Media & Technology Group giving banks and
+  trading firms "the fastest" access to posts from influential Truth Social accounts, including the
+  President's.** **Launched ~2026-08-01.**
+- **PRICE: $60,000–$100,000 PER MONTH.**
+- **⭐ CUSTOMERS: 10+ SIGNED AGREEMENTS, "MOSTLY WITH HIGH-FREQUENCY TRADING COMPANIES"** — disclosed by
+  TMTG on its **first-ever earnings call with analysts.**
+- **MECHANISM: delivers posts "split seconds faster than the public sees them." Explicitly framed for
+  algorithms where "milliseconds can mean serious money."**
+- **Sens. Warren and Schiff have asked the SEC to investigate; outside experts quoted calling it insider
+  trading "by definition."** ⚠️ **A legal DISPUTE, not a finding — no regulatory determination on file.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ I CONFLATED TWO DIFFERENT THINGS AND HE CAUGHT IT. THIS LEDGER'S RULE — *"threats don't move the
+  marker"* — IS ABOUT **EPISTEMIC STATUS** (an un-executed threat is not a confirmed action, so it does not
+  advance the ESCALATION marker). I USED IT AS IF IT ALSO MEANT **MARKET IMPACT**. THOSE ARE ORTHOGONAL.**
+  ⇒ **A statement can be ⚪ UNCONFIRMED and simultaneously be a first-order PRICE event.** ⇒ **The ledger
+  tracks the first. The trade cares about the second. From here this note carries BOTH columns.**
+  *(Analysis. The rule survives; my application of it did not.)*
+- **⭐⭐⭐ AND THE PROOF IS A REVEALED-PREFERENCE MEASUREMENT, WHICH IS THE STRONGEST KIND: TEN OR MORE HFT
+  FIRMS ARE PAYING UP TO $100,000 A MONTH FOR A FEW HUNDRED MILLISECONDS.** ⇒ **Nobody buys latency on an
+  information source that does not move prices. The existence of the product IS the evidence, and its
+  price is a lower bound on the expected value of the information.** ⇒ **★★★★★ "DOES TRUMP RHETORIC MOVE
+  MARKETS" IS NO LONGER AN OPINION QUESTION. IT HAS A MARKET PRICE AND A CUSTOMER COUNT.** *(Analysis.)*
+- **⭐⭐ AND MY OWN TAPE READING FROM AN HOUR AGO ALREADY CONTRADICTED MY OWN FRAMING, IN THE SAME ENTRY:
+  `:L118` FILED BRENT +0.78% / WTI −0.59%, THE BRENT-WTI SPREAD +20% IN A DAY, ON A POST WITH NO EXECUTIVE
+  ORDER BEHIND IT.** ⇒ **I measured rhetoric moving a market and then labelled the post as not-yet-market-
+  relevant in the same breath. Jake's correction closed a contradiction that was already inside the
+  entry.** *(Analysis.)*
+
+#### ★★★★★★ THE METHOD CONSEQUENCE — this is the part that outlives the news item
+- **THE TRUTH API WENT LIVE ~8/01. TODAY'S "ECONOMIC D-DAY" POST IS DATED 8/19.** ⇒ **⛔ IT IS THE FIRST
+  MAJOR GEOPOLITICAL POST THIS VAULT HAS INGESTED SINCE THE FEED EXISTED.**
+- ⇒ **⭐⭐⭐ A TRUMP POST'S TIMESTAMP IS NO LONGER THE TIME THE INFORMATION ENTERED THE MARKET. Paying
+  subscribers had it sub-second earlier; Jake and I saw it via a screenshot HOURS later.** ⇒ **ANY TAPE
+  READING THE VAULT RUNS AGAINST A TRUMP-POST TIMESTAMP IS MEASURING THE **SECOND WAVE**, NOT THE FIRST.**
+  ⇒ **The Brent move filed at `:L118` is therefore a LOWER BOUND on the reaction, and the initial impulse
+  is structurally unobservable to this vault.** ⚠️ **Do not read a small post-screenshot move as "the
+  market shrugged." It may mean the move already happened.** *(Analysis. This is the durable finding.)*
+- **⭐ AND IT GIVES THIS VAULT A NEW STANDING QUESTION FOR EVERY TRUMP INBOUND: WHAT WAS THE TAPE DOING IN
+  THE 60 SECONDS AFTER THE POST TIMESTAMP, NOT WHEN I SAW IT?** 🚩 **Intraday 1-minute data on BZ=F / CL=F
+  around the post minute is the fetch that would make this measurable, and the vault has never pulled
+  intraday.**
+- **⚠️ AND THE HONEST LIMIT ON THE WHOLE THING: THE FEED SELLS *LATENCY*, NOT CONTENT. Everyone gets the
+  same post; subscribers get it first.** ⇒ **This changes WHO captures the first move, not WHETHER the
+  vault can analyse the content. The vault was never going to win a millisecond race and does not try to.**
+  ⇒ **The edge available here is INTERPRETATION over hours, not speed over milliseconds — which is what
+  this vault is for.** *(Analysis. Sizing the finding so it does not become an excuse.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **AMEND THIS LEDGER'S HEADER RULE.** *"Threats don't move the marker"* **must read: threats do not
+   move the ESCALATION marker — they may move the PRICE, and since 2026-08-01 there is a market that pays
+   for exactly that.** **Two columns: epistemic status, and price impact.**
+2. 🚩🚩 **INTRADAY 1-MINUTE BZ=F / CL=F AROUND 2026-08-19 22:59 UTC** (the post minute). ⬜ **Would convert
+   "the market responded" from a daily close comparison into the actual impulse.** **The vault has no
+   intraday capability — first time it has needed one.**
+3. 🚩 **SEC / regulatory determination on Truth API** — **a real, dated, binary catalyst for DJT and a
+   genuine market-structure question. Currently a senators' request, not an investigation on the record.**
+4. ⬜ **Does TMTG disclose the customer list?** **10+ HFT firms; names not public. If any surface, they are
+   the counterparty to every Trump-headline move the vault tries to read.**
+**Links:** [[war-board]] · [[market-fragility]] · [[_calibration]] · [[oil-value-chain]]
