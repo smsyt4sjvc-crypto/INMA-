@@ -10,7 +10,7 @@ TICKERS = {
 }
 def pull(tk):
     u = (f'https://query2.finance.yahoo.com/v8/finance/chart/{urllib.parse.quote(tk)}'
-         f'?period1=1640995200&period2=9999999999&interval=1d&includePrePost=false')
+         f'?period1=946684800&period2=9999999999&interval=1d&includePrePost=false')
     r = urllib.request.Request(u, headers=UA)
     d = json.load(urllib.request.urlopen(r, timeout=60))['chart']['result'][0]
     ts = d['timestamp']; q = d['indicators']['quote'][0]
