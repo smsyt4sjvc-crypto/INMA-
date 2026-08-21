@@ -6939,3 +6939,75 @@ the information is private." NOT a filing. No 8-K.**
    stage 4). **A $60-70B guarantee with no booked liability is the single largest instance yet.**
 4. ⬜ **20 GW ties to [[power-scarcity-equities]] stage 4b** — who supplies it, and is any of it contracted?
 **Links:** [[hyperscaler-credit]] · [[financing-fragility-gauge]] · [[transmission-chain]] · [[ai-capex-cycle]] · [[compression-thesis]]
+
+### 2026-08-21 ~8:15am PDT — ⛔⭐⭐⭐⭐⭐ **THE AVGO DEAL IS NOT NEW — IT IS THE SECOND TRANCHE OF A PLATFORM THIS VAULT ALREADY HELD, AND BROADCOM'S CONTINGENT EXPOSURE IS ROUGHLY DOUBLING (~$30B → $60-70B).** ⭐ And the NBIS convert is the sharpest counter-evidence to the tightening thesis — **until you read its own term structure**
+Source: Jake's daily scan, 2026-08-21 (Reuters/Bloomberg, Nebius 6-K, FT, MarketWatch/BCA, UBS, UKMTO).
+**⟲ EXTENDS yesterday's `:L6858`, which treated the AVGO deal as a first-time negotiation. It is not.**
+
+#### ⛔ THE CORRECTION TO MY OWN 8/20 FRAMING — the vault held the precursor and I did not surface it
+- **`:L3266`, filed 2026-08-04 from the FT: *"$35B INITIAL TPU SPV (Apollo/Blackstone/banks; ~1GW / ~1M
+  TPUs) · BROADCOM $128B PURCHASE COMMITMENTS for 3.5GW + ~$30B SENIOR-TRANCHE RESIDUAL SUPPORT."***
+- **TODAY'S SCAN CONFIRMS THE LAUNCH DATE: the AI XPV platform with Apollo/Blackstone opened 2026-06-09
+  with an INITIAL $35B TRANSACTION.**
+- ⇒ **★★★ SO YESTERDAY'S "THIRD CHIPMAKER TO BECOME A BANK" WAS RIGHT ABOUT THE STRUCTURE AND WRONG ABOUT
+  ITS NOVELTY. Broadcom has been providing senior-tranche residual support since at least early August,
+  on a vehicle that has been funded since June.** ⇒ **THE NEWS IS NOT THE MECHANISM. IT IS THE SCALING OF
+  ONE THAT ALREADY WORKS.** *(Analysis. Error class 2 in my own entry — I had the precursor on file.)*
+- **⇒ ⭐⭐⭐ AND THE ESCALATION RATE IS THE FINDING, BECAUSE THE VAULT NOW HAS BOTH ENDS:**
+  **JUNE 9: $35B · ~1GW · AVGO ~$30B residual support.**
+  **AUG 20: up to $100B · >20GW · AVGO guarantees $60-70B.**
+  ⇒ **~3× the money and ~20× the gigawatts in TEN WEEKS, with Broadcom's absolute contingent exposure
+  roughly DOUBLING.** ⚠️ **The GUARANTEE RATIO actually falls (~86% of $35B → ~60-70% of $100B), which is
+  the one thing in it that improves. Say both.** *(Analysis.)*
+- **⚠️ AND THE VAULT'S OWN COMPARABLE MAKES THE SCALE LEGIBLE: `:L3266` also carries "Google max reported
+  exposure ~$44B vs ~$815M IDENTIFIED ON BALANCE SHEET."** ⇒ **That 54:1 gap is the template. The question
+  for AVGO is identical and unanswered: how much of a $60-70B guarantee appears anywhere in the financials?**
+
+#### ⭐⭐⭐ THE NBIS CONVERTIBLE — it looks like the tightening thesis breaking, and its own term structure says otherwise
+- **PRICED (6-K, 8/20), UPSIZED $4.5B → $5.0B: 2030 notes $3.0B at **0.50%** · 2034 notes $2.0B at
+  **4.50%** · up to $5.75B with options · plus $400M of 2029s and $400M of 2031s exchanged for **~15.8M
+  Class A shares.***
+- **✓ THE HONEST BULLISH READ FIRST, BECAUSE IT IS REAL: A NEOCLOUD JUST RAISED $5B AND HAD TO UPSIZE IT.
+  DEMAND WAS THERE. That is genuine counter-evidence to "financing is tightening" and it belongs on the
+  record as such.** ⇒ **▼ on that channel, and the gauge should say so.**
+- **⇒ ⛔ BUT THE TERM STRUCTURE INSIDE THE DEAL IS THE TELL: **0.50% FOR 2030 vs 4.50% FOR 2034 — NINE
+  TIMES THE COUPON FOR FOUR MORE YEARS.*** ⇒ **The market will lend this name money SHORT and CHEAP; long
+  money costs 9×.** ⇒ **★★★ THAT IS NOT A FUNDING SOLUTION. IT IS A MATURITY WALL BEING BUILT.**
+- **⇒ ★★★★★ AND 0.50% IS NOT A CREDIT PRICE AT ALL. The 5Y Treasury is ~4.38%. An investor accepting 50bp
+  is forgoing ~390bp a year — roughly 15% of principal over four years — TO BUY THE EQUITY OPTION.**
+  ⇒ **THE CONVERT MARKET IS FUNDING THE NEOCLOUDS BY BUYING THEIR VOLATILITY, NOT BY UNDERWRITING THEIR
+  CREDIT.** ⇒ **So this says the VOL market is open. It says nothing about whether the BOND market is —
+  and the 4.50% 2034 tranche is what the bond-like leg actually costs.** *(Analysis. This is the entry's
+  sharpest line.)*
+- **⚠️ AND THE MECHANISM HAS AN EQUITY COST THE SCAN NAMES CORRECTLY: convert buyers DELTA-HEDGE BY
+  SHORTING THE STOCK.** ⇒ **The financing works by MANUFACTURING EQUITY SUPPLY.** **Add ~15.8M new Class A
+  shares from the exchange on top.** ⇒ **Cheap debt bought with equity pressure — the same dilution
+  channel as Alphabet and Intel, wearing a bond's clothes.**
+
+#### ✓ THE REST, COMPRESSED — what changes and what does not
+- **NVDA $105B BACKSTOP FOR OPENAI CAPACITY (FT), and a deliberate shift from balance-sheet lending to
+  THIRD-PARTY CAPITAL + GUARANTEES.** ⇒ **✓ That genuinely reduces NVDA's funding need and does NOT reduce
+  its CONTINGENT exposure — the scan states this correctly.** ⇒ **It is the same off-balance-sheet
+  question as AVGO's, at 1.5× the size, and Moody's maintaining the rating is a fact about the RATING,
+  not about the exposure.**
+- **✅ BCA ON NEOCLOUDS (CRWV/NBIS/IREN/APLD/WULF/CIFR): low ROIC, debt-dependent, fast-depreciating
+  hardware, potentially commoditised compute.** ⇒ **That is this vault's borrow-to-build-and-own finding,
+  arriving from a fifth independent direction.** ⇒ **And the scan's framing of it is the correct one:
+  *"AI demand is enormous" and "every company financing AI infrastructure will earn an adequate return"
+  are different claims.*** **Adopted.**
+- **EU GAS STORAGE 62% (8/18) vs 74% a year ago vs a 79% five-year average; injections 2.1 vs 2.3 bcm
+  norm.** ✓ **Consistent with — and wider than — [[europe-energy-crunch]]`:L36`'s GERMAN 48%.** ⚠️
+  **Different geographies. Germany is materially worse than the EU aggregate; do not merge the two.**
+- **NVDA 8/26: consensus ~$92B revenue / ~$2.09 adj EPS / ~$85B+ DC, options pricing ±6%.** ⚠️ **Consensus
+  ~$92B sits ABOVE the company's own ~$91B ±2% guide midpoint, and that guide assumed ZERO China DC.**
+- **UKMTO tanker hijack — ✓ correctly sized by the scan as freight/insurance risk, not supply.**
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **HOW MUCH OF THE AVGO GUARANTEE APPEARS IN THE FINANCIALS?** **The Google template on file is
+   ~$44B of exposure vs ~$815M identified — 54:1.** **Next AVGO 10-Q, search guarantees and contingent
+   obligations.**
+2. 🚩🚩 **THE NEOCLOUD MATURITY LADDER.** **NBIS now: 2029 · 2030 · 2031 · 2034, with 0.50% short and
+   4.50% long.** ⬜ **Build it across CRWV/NBIS/IREN — the wall's DATE is the risk, not the coupon.**
+3. 🚩 **CONVERT ISSUANCE AS ITS OWN FRAGILITY CHANNEL** — it is open while the bond market tightens, and
+   the vault has been reading only the bond market. **When converts close, the last window has shut.**
+**Links:** [[financing-fragility-gauge]] · [[hyperscaler-credit]] · [[ai-capex-cycle]] · [[transmission-chain]]
