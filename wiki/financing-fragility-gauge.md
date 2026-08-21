@@ -102,6 +102,7 @@ was measuring the wrong thing, and the thing that DID work (a deep bilateral bid
 ## 📊 THE LEDGER — every inbound, its shift, one line
 | date | inbound | shift | why |
 |---|---|---|---|
+| 08-20 | **AVGO ~$100B SPV, guarantees $60-70B** | **▲▲** | Third chipmaker in a month to become its customers' credit provider — **the suppliers have become the banks**. And the backstop is the SAME TWO FIRMS (Blackstone/Apollo) as NVDA's $500B ⇒ single point of failure |
 | 08-20 | **Treasury buyback op results (full history, primary)** | **▲** | Long-end buybacks fill **AT CAP 6/6** while dealers offer **10-15×**. The $2B→$4B increase relaxed a BINDING constraint, and even doubled the valve is ~an order of magnitude too small. Today's 3Y-5Y op is routine (18.3% vs a 20.2% 26-yr median) |
 | 08-20 | **MMF assets $7.93T (ICI)** | **▲** *(modest)* | ⛔ **NOT a record — the vault holds $7.95T at 7/01.** It is a REBUILD off a summer drawdown, and the vault's own registered indicator says rising = de-risking continues. Same money as the rising BDC redemptions |
 | 08-20 | **CDS cross-section + verification** | **▲** | Basket gave back half its August relief; dispersion 16.7× says the market is pricing capital structure, not AI demand |

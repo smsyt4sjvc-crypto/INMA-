@@ -302,3 +302,36 @@ historical extremes = SYSTEMIC.**
 4. ⬜ **A live ICE/LSEG feed.** **Three chart/press origins now, zero terminal pulls. Every level in this
    note is second-hand.**
 **Links:** [[ai-financing-fragility]] · [[transmission-chain]] · [[ai-capex-cycle]] · [[_calibration]]
+
+## 📖 REFERENCE — WHAT A CDS SPREAD ACTUALLY IS (added 2026-08-20 ~1:00pm PDT, Jake's question)
+**Three corrections, and the third is the one that changes how this whole note reads.**
+
+**1. THE DIRECTION OF PAYMENT.** **The PROTECTION BUYER pays a premium; the PROTECTION SELLER pays out if
+the company defaults.** **It is insurance.** ⚠️ **And the buyer need not own the bond at all — "naked" CDS
+is most of the market, which is why CDS VOLUME can spike without any bondholder hedging anything.**
+
+**2. ⛔ THE SPREAD *IS* THE PREMIUM. HIGH SPREAD = HIGH PREMIUM, NOT LOW.** **80bp means you pay 0.80% of
+notional per year for protection.** ⇒ **A widening spread means insurance got MORE expensive because the
+market thinks default is MORE likely.** **There is no inverse relationship anywhere in this.**
+
+**3. ⛔⛔ THE COMPANY IS NOT A PARTY TO THE CONTRACT AND COLLECTS NOTHING.** **A CDS is bilateral between a
+protection buyer and a protection seller, REFERENCING the company. The company neither pays nor receives a
+cent.** ⇒ **So "bad for the corporation collecting it" has no referent — nobody at Broadcom or Oracle sees
+this money.**
+- **⇒ ★★★★★ THEN WHY DOES IT MATTER TO THE COMPANY? BECAUSE IT SETS THE REFERENCE PRICE FOR ITS *NEXT*
+  BOND.** **Underwriters price a new issue off where the CDS trades.** ⇒ **THE CDS IS A LEADING INDICATOR
+  OF FUTURE COST OF CAPITAL, NOT A COST TODAY.** **That is exactly why this vault treats it as stage 2 of
+  [[transmission-chain]] — it moves BEFORE the issuance it will price.**
+
+**4. ⛔ AND "SPREAD" IS A NAMING ARTIFACT — THE CDS SPREAD IS NOT A DIFFERENCE BETWEEN TWO THINGS.**
+There are **THREE** distinct objects and conflating them is error class 4:
+| object | definition | is it a difference? |
+|---|---|---|
+| **CDS spread** | the annual premium, in bp of notional | **NO — a standalone price** |
+| **Bond spread (G-spread / OAS)** | **corporate bond yield MINUS the Treasury yield of the same maturity** | **YES** |
+| **CDS-bond BASIS** | CDS spread **minus** bond spread | yes — and its sign is a funding/arbitrage signal |
+- ⇒ **In theory CDS spread ≈ bond spread. The CDS is the CLEANER read because it is not contaminated by
+  the bond's coupon, its liquidity, or scarcity of the specific issue.** ⇒ **That is why this note tracks
+  CDS and not cash bonds — and also why `:L188` registers the cash-bond series as a gap, since the BASIS
+  between them is its own signal.**
+**Links:** [[transmission-chain]] · [[financing-fragility-gauge]] · [[ai-financing-fragility]]
