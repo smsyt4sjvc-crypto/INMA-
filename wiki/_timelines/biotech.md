@@ -1,6 +1,6 @@
 # ⏱ BIOTECH — merged timeline (the gate)
 
-> **35 dated entries across 4 notes · 2026-03-02 → 2026-08-19 · refreshed 2026-08-20 20:08 PDT**
+> **36 dated entries across 4 notes · 2026-03-02 → 2026-08-20 · refreshed 2026-08-20 20:22 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -54,3 +54,4 @@
 - `2026-08-18` [rotation-stickiness.md:L228](../rotation-stickiness.md) — 2026-08-18 ~4:00pm PDT — ⛔⛔ **"HEDGE FUNDS ARE DOUBLING DOWN" IS A LEVEL/FLOW ERROR READ OFF THE CHART'S OWN AXIS: THE Y-AXIS IS *CUMULATIVE* YTD FLOW
 - `2026-08-19` [quiet-health-screen.md:L137](../quiet-health-screen.md) — 2026-08-19 ~10:10am PDT — ⭐⭐⭐⭐ **MODERNA +125% ON A PHASE 3 CANCER-VACCINE READOUT, AND THE VAULT-RELEVANT FINDING IS NOT MODERNA: ⛔ IT CONTAMINATES T
 - `2026-08-19` [quiet-health-screen.md:L144](../quiet-health-screen.md) — DATA (MEASURED — live tape 2026-08-19 ~10:08am PDT vs 8/18 close)
+- `2026-08-20` [dip-buying-base-rates.md:L525](../dip-buying-base-rates.md) — 2026-08-20 ~1:35pm PDT — ✅★★★★★ **JAKE'S CLAIM IS CORRECT AND THE LIFT IS LARGE: 70-73% OF THE TOP-5% TEN-DAY SPIKES HAPPENED BELOW THE 200DMA, AGAINS
