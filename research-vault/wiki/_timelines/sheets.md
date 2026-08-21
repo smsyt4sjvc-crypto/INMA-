@@ -1,6 +1,6 @@
 # ⏱ SHEETS — merged timeline (the gate)
 
-> **172 dated entries across 2 notes · 2026-05-22 → 2026-08-19 · refreshed 2026-08-20 15:39 PDT**
+> **173 dated entries across 2 notes · 2026-05-22 → 2026-08-20 · refreshed 2026-08-20 20:08 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -194,3 +194,4 @@
 - `2026-08-18` [ai-financing-fragility.md:L6514](../ai-financing-fragility.md) — [2026-08-18] **The "$105B" is graded QUALIFIED: *"media reporting discussed financing or guarantees
 - `2026-08-19` [ai-financing-fragility.md:L6548](../ai-financing-fragility.md) — 2026-08-19 ~7:30am PDT — ★★★★★★ **MARVELL ISSUES GOOGLE A $12.18B WARRANT TO WIN TPU-ECOSYSTEM SILICON. ⇒ THE CIRCULARITY THREAD GETS ITS PUREST INSTA
 - `2026-08-19` [ai-financing-fragility.md:L6613](../ai-financing-fragility.md) — 2026-08-19 ~4:25pm PDT — ⭐⭐⭐⭐⭐⭐ **HIS QUESTION IS ANSWERABLE AND I WENT AND ANSWERED IT FROM SEC PRIMARY — AND THE HEADLINE IS NOT DEBT: ⭐⭐⭐ ALPHABET 
+- `2026-08-20` [ai-financing-fragility.md:L6693](../ai-financing-fragility.md) — 2026-08-20 ~1:10pm PDT — ★★★★★★ **BROADCOM IS IN TALKS FOR UP TO $100B — "THE LARGEST SPV DEAL EVER FUNDED" — AND IT WOULD *GUARANTEE* $60-70B OF THE 

@@ -6870,3 +6870,72 @@ issuing all of these higher yield bonds and investors are either running dry or 
 4. ⬜ **Total 2026 IG issuance, market-wide** — the denominator that says whether the AI complex is a large
    share of supply or a rounding error.
 **Links:** [[transmission-chain]] · [[hyperscaler-credit]] · [[ai-capex-cycle]] · [[rates-board]] · [[balance-sheet-board]]
+
+### 2026-08-20 ~1:10pm PDT — ★★★★★★ **BROADCOM IS IN TALKS FOR UP TO $100B — "THE LARGEST SPV DEAL EVER FUNDED" — AND IT WOULD *GUARANTEE* $60-70B OF THE SENIOR TRANCHE. ⇒ THE THIRD CHIPMAKER IN A MONTH TO BECOME ITS CUSTOMERS' CREDIT PROVIDER. THE SUPPLIERS HAVE BECOME THE BANKS.**
+Source: ZeroHedge citing Bloomberg, 2026-08-20 → `raw/2026-08-20-avgo-spv/avgo_clean.txt`.
+⚠️ **REPORTED, deal "still being ironed out," sourced to people who "asked not to be identified because
+the information is private." NOT a filing. No 8-K.**
+
+#### DATA (REPORTED)
+- **>$60B senior debt + a ~$30B JUNIOR tranche ⇒ potentially ~$100B total. "Would make it the LARGEST SPV
+  DEAL EVER FUNDED."**
+- **⭐ BROADCOM WOULD *GUARANTEE* A PORTION OF THE SENIOR-SECURED TRANCHE, "which could range from about
+  $60 BILLION TO $70 BILLION."**
+- **Beneficiary: ANTHROPIC PBC and other companies.** **Senior tranches structured "to win INVESTMENT-GRADE
+  RATINGS at lower borrowing costs."**
+- **⭐ BLACKSTONE AND APOLLO in talks — "the SAME FIRMS that backstopped Nvidia's recent $500B compute-
+  collateralized deal."**
+- **The partnership plans to finance >20 GIGAWATTS of computing — "roughly equal to the output of 20
+  NUCLEAR PLANTS."**
+- **AVGO CEO (March): AI chip sales to top $100B next year. Apple accord >$30B.**
+- **On NVDA's $500B: "only an MOU… intended to provide some comfort to credit markets. IT FAILED, since
+  NVDA CDS is now trading at all-time wides."**
+- **Macro: another "$6-8 TRILLION in capex to be spent by 2030, most of it in the form of corporate debt."**
+- **✅ AND AN INDEPENDENT CONFIRMATION OF MY OWN MEASUREMENT: the buyback move "lasted all of 23 HOURS…
+  yields are now trading 4bps HIGHER than where they were before the Treasury announcement."**
+  ⇒ **I measured 30Y +4bp and 10Y +4bp this morning from the tape. Two origins, same number.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★★ THE PATTERN IS NOW THREE-FOR-THREE AND IT IS A REGIME STATEMENT, NOT A DEAL: NVDA guarantees
+  $500B for its customers' compute · MRVL grants Google warrants that vest per $500M of Google's own
+  purchases · AVGO would GUARANTEE $60-70B so Anthropic can buy AVGO chips.**
+  ⇒ **⭐⭐⭐ THE AI COMPLEX'S CHIPMAKERS HAVE BECOME ITS BANKS.** ⇒ **Two consequences the vault must
+  carry: (1) REVENUE QUALITY DEGRADES — a sale financed by the seller is not the same as a sale; (2) THE
+  SELLER'S CREDIT ABSORBS THE BUYER'S RISK, which is precisely why AVGO's and NVDA's CDS are widening
+  while their income statements look pristine.** *(Analysis. This is the entry's finding.)*
+- **⇒ ⛔ AND IT EXPLAINS THE ONE THING THIS MORNING'S PORTFOLIO SUMMARY COULD NOT: why "the cleanest
+  sellers" are repricing in credit.** **The summary's split — sell equipment vs borrow-to-build — assumed
+  the sellers stay OUT of the financing. They are not out of it. They are underwriting it.**
+  ⇒ **The "cleaner exposure" list is cleaner on the INCOME STATEMENT and increasingly not on the BALANCE
+  SHEET.** *(Analysis. Second amendment to that view today.)*
+- **⭐⭐ THE BACKSTOP CONCENTRATION IS THE FRAGILITY POINT AND IT IS NEW: BLACKSTONE AND APOLLO ARE THE
+  SAME TWO NAMES ON BOTH THE NVDA $500B AND THIS $100B.** ⇒ **The marginal underwriter for the largest
+  private financings in the complex is a set of TWO.** ⇒ **That is a single point of failure the vault
+  has not been tracking, and it is the counterpart to the "depth of the bilateral bid" channel added to
+  [[financing-fragility-gauge]] this morning: the same firms are BOTH the buyer of last resort AND the
+  underwriter of first resort.** 🚩 *(Analysis.)*
+- **⭐ "STRUCTURED TO WIN INVESTMENT-GRADE RATINGS" IS THE MECHANISM TO WATCH, NOT A DETAIL.** **An SPV
+  that reaches IG becomes eligible for mandate-bound buyers — insurers, pensions, IG index funds — which
+  is the ONLY way $100B places.** ⇒ **The rating is the distribution channel.** ⇒ **And it is the same
+  ledge ORCL sits on from the other side: ratings admit you to the buyer base, and losing them evicts you
+  (`:L963`).** *(Analysis.)*
+- **⚠️ AND THE ZH FRAMING TO DISCOUNT, PER STANDING SOURCE CALIBRATION: "the AI bubble will finally burst,"
+  "endless AI boondoggles," "greater fools," "circle jerk."** ⇒ **The FACTS here are Bloomberg-sourced and
+  specific; the ADJECTIVES are ZeroHedge and this vault has a documented base rate on their bearish
+  framing** ([[_calibration]]). **Take the structure, drop the verdict.**
+- **⚠️ AND THE HONEST SIZE CAVEAT: "$60-70B guarantee" and "up to $100B" are RANGES ON AN UNSIGNED DEAL.**
+  ⬜ **No filing, no signed terms, no confirmation from AVGO. NVDA's $500B was an MOU that the same
+  article says "failed."** ⇒ **Treat this as a NEGOTIATION, and note that the vault's own evidence ladder
+  puts an unsigned term sheet near the top of the ladder — i.e. the most speculative rung.**
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **BACKSTOP CONCENTRATION — BLACKSTONE + APOLLO ACROSS EVERY MEGA-SPV.** ⬜ **Never tracked. Build
+   the list: which deals, what size, what seniority.** **If two firms underwrite the complex, their
+   capacity IS the complex's capacity.**
+2. 🚩🚩 **DOES THIS DEAL SIGN, AND AT WHAT SIZE?** **Dated, binary, and the NVDA $500B MOU is the base
+   rate for what "in talks" is worth in this complex.**
+3. 🚩🚩 **AVGO GUARANTEE ACCOUNTING** — on- or off-balance-sheet, and whether a liability gets booked.
+   ⇒ **Same question the vault asked of META's make-whole with ZERO liability booked** (`transmission-chain`
+   stage 4). **A $60-70B guarantee with no booked liability is the single largest instance yet.**
+4. ⬜ **20 GW ties to [[power-scarcity-equities]] stage 4b** — who supplies it, and is any of it contracted?
+**Links:** [[hyperscaler-credit]] · [[financing-fragility-gauge]] · [[transmission-chain]] · [[ai-capex-cycle]] · [[compression-thesis]]

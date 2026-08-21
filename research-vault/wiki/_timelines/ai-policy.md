@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **402 dated entries across 4 notes · 2026-05-22 → 2026-08-20 · refreshed 2026-08-20 15:39 PDT**
+> **403 dated entries across 4 notes · 2026-05-22 → 2026-08-20 · refreshed 2026-08-20 20:08 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -424,3 +424,4 @@
 - `2026-08-20` [ai-capex-cycle.md:L3153](../ai-capex-cycle.md) — 2026-08-20 ~8:55am PDT — ⛔⛔⭐⭐⭐⭐⭐ **THE MRVL "$12.2 BILLION" IS THE EXERCISE *COST*, NOT VALUE — intrinsic is ~$2.28B. And the vault's OWN ARCHIVED FIL
 - `2026-08-20` [ai-capex-cycle.md:L3210](../ai-capex-cycle.md) — 2026-08-20 ~9:15am PDT — ✅⭐⭐⭐⭐⭐ **JAKE IS RIGHT: THE VAULT CALLED THIS ON 2026-07-05 AND CALLED IT *BIPARTISAN* EXPLICITLY (`:L441`). ⇒ THE NRSC MEMO 
 - `2026-08-20` [ai-capex-cycle.md:L3299](../ai-capex-cycle.md) — 2026-08-20 ~10:05am PDT — ⛔⛔⛔ **MY OWN CONTRA-REVENUE SIZING FROM YESTERDAY WAS WRONG BY ~12× AND THE CONCLUSION FLIPS: the real tranche count is 240,
+- `2026-08-20` [ai-financing-fragility.md:L6693](../ai-financing-fragility.md) — 2026-08-20 ~1:10pm PDT — ★★★★★★ **BROADCOM IS IN TALKS FOR UP TO $100B — "THE LARGEST SPV DEAL EVER FUNDED" — AND IT WOULD *GUARANTEE* $60-70B OF THE 

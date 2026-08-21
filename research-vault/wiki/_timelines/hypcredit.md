@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **195 dated entries across 3 notes · 2026-05-22 → 2026-08-20 · refreshed 2026-08-20 15:39 PDT**
+> **197 dated entries across 3 notes · 2026-05-22 → 2026-08-20 · refreshed 2026-08-20 20:08 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -213,7 +213,9 @@
 - `2026-08-19` [rates-board.md:L561](../rates-board.md) — 2026-08-19 ~3:20pm PDT — ⛔⭐⭐⭐⭐⭐ **IT IS THE OTHER WAY ROUND ON BOTH LEGS: TREASURY PAYS A *DISCOUNT* IN CASH (old low-coupon bonds trade far below par
 - `2026-08-19` [rates-board.md:L623](../rates-board.md) — 2026-08-19 ~3:40pm PDT — ⛔✅★★★★★★ **THE CAUSAL DIRECTION IS INVERTED — CROWDING OUT RUNS GOVERNMENT→CORPORATE, AND THE TAPE SAYS CORPORATES ARE *LOSIN
 - `2026-08-19` [rates-board.md:L696](../rates-board.md) — 2026-08-19 ~4:45pm PDT — ★★★★★★ **YES, AND IT ALREADY HAPPENS — BUT IT SHOWS UP IN *SWAPS*, NOT IN CORPORATE SPREADS, AND THE MECHANISM IS BALANCE SHE
+- `2026-08-20` [ai-financing-fragility.md:L6693](../ai-financing-fragility.md) — 2026-08-20 ~1:10pm PDT — ★★★★★★ **BROADCOM IS IN TALKS FOR UP TO $100B — "THE LARGEST SPV DEAL EVER FUNDED" — AND IT WOULD *GUARANTEE* $60-70B OF THE 
 - `2026-08-20` [hyperscaler-credit.md:L116](../hyperscaler-credit.md) — 2026-08-20 ~10:30am PDT — ⭐⭐⭐⭐⭐⭐ **THE CROSS-SECTION ARRIVES AND IT TURNS THIS NOTE FROM ONE NAME INTO A LADDER. ✅ NVDA 82.565 IS A NEW WIDE ON THIS N
 - `2026-08-20` [hyperscaler-credit.md:L206](../hyperscaler-credit.md) — 2026-08-20 ~10:55am PDT — ⛔⛔⛔ **I CALLED ORCL A "NEW WIDE" AGAINST A STALE REFERENCE AND IT IS NOT ONE: the vault's carried ~198bp was 2026-07-12, but
+- `2026-08-20` [hyperscaler-credit.md:L306](../hyperscaler-credit.md) — 📖 REFERENCE — WHAT A CDS SPREAD ACTUALLY IS (added 2026-08-20 ~1:00pm PDT, Jake's question)
 - `2026-08-20` [rates-board.md:L755](../rates-board.md) — 2026-08-20 ~7:40am PDT — ⛔✅ **THE BRIEF SAYS THE BUYBACK MOVE WAS "LARGELY ERASED." PRIMARY SAYS *HALF*, AND THE SHAPE OF THE GIVE-BACK IS THE FINDING
 - `2026-08-20` [rates-board.md:L817](../rates-board.md) — 2026-08-20 ~12:25pm PDT — ★★★★★★ **TODAY'S OPERATION IS ROUTINE AND SAYS NOTHING — BUT PULLING THE FULL HISTORY TO PROVE THAT FOUND THE REAL STORY: ⭐ 
