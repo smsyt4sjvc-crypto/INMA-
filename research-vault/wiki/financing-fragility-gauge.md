@@ -137,3 +137,67 @@ permitting timelines · whether regional-bank AI exposure is material (**never f
 · **BDC redemptions as a series** · **swap spreads** (the balance-sheet channel, zero coverage) ·
 **a terminal CDS feed** (every level here is chart- or press-class) · **weighted average maturity of the
 federal debt**.
+
+---
+
+## ⭐⭐⭐⭐⭐⭐ 2026-08-21 ~9:10am PDT — **THE 9× GAP IS NOT A CREDIT SPREAD. IT IS THE PRICE OF NOT KNOWING — AND IT MAKES THE MATURITY CURVE A DIRECT READING OF THE MARKET'S OWN FORECASTING HORIZON.**
+**Jake:** *"We don't know what chips they'll be financing in 2030, at what price, what the competitive
+landscape will be for Nvidia by then, what that competition does to the economics, if this current
+leveraged bet was profitable or not… so the rollover at 9x relays those uncertainties."*
+**Adopted, and it is a better frame than the depreciation-curve version filed 25 minutes ago at
+[[ai-financing-fragility]]`:L6961`.**
+
+#### ★★★ THE DISTINCTION THAT MAKES IT WORK: RISK vs UNCERTAINTY
+- **RISK has a distribution you can price and hedge. UNCERTAINTY does not.**
+- **The convert market can price FOUR YEARS OF EQUITY VOLATILITY — that is a tractable, tradeable object,
+  and it is why the 2030 tranche cleared at 0.50%.**
+- **It cannot price EIGHT YEARS of an industry whose current generation of hardware, pricing model,
+  competitive structure and end-demand did not exist four years ago.** ⇒ **So it did not try. It charged
+  450bp and moved on.**
+- ⇒ **★★★★★★ THE 400bp GAP IS A KNIGHTIAN UNCERTAINTY PREMIUM, NOT A DEFAULT-PROBABILITY ESTIMATE.**
+  ⇒ **AND IT EXPLAINS THE STRUCTURE'S OWN ASYMMETRY: YOU CAN HEDGE RISK AND YOU CANNOT HEDGE UNCERTAINTY.
+  The 2030 buyer delta-hedges. The 2034 buyer cannot, and has to be PAID instead.**
+
+#### ⇒ ⭐⭐⭐ WHICH TURNS THE MATURITY CURVE INTO AN INSTRUMENT THE VAULT DID NOT HAVE
+**THE POINT ON AN ISSUER'S CURVE WHERE THE COUPON BREAKS IS THE MARKET'S STATED CONFIDENCE HORIZON FOR
+THAT BUSINESS.** **For NBIS it is ~2030 — roughly FOUR YEARS.**
+- **This is measurable for every AI-complex issuer with more than one tenor outstanding, it requires no
+  model, and it is not an opinion — it is a price.** 🚩 **Build it: for CRWV, NBIS, IREN, ORCL, AVGO, find
+  the maturity at which the coupon breaks. That set of dates IS the industry's underwriting horizon.**
+
+#### ★★★★★★ AND IT PRODUCES THE FINDING THIS WHOLE THREAD HAS BEEN CIRCLING: FOUR CLOCKS, AND THE MONEY IS THE SHORTEST
+| what | contracted / useful life | source |
+|---|---|---|
+| **POWER** | **16-25 years** — Google/DTE through **Dec 2047** · Amazon/Talen through **2042** · Meta/Vistra, Microsoft/Constellation, Equinix/CGEMC **20yr** · Google/NextEra **25yr** | [[power-scarcity-equities]]`:L149` |
+| **BUILDINGS / SUBSTATIONS** | ~15-30 years | (asset class norm — ⬜ not vault-measured) |
+| **CHIPS** | **~5-6 years** — the A100's entire observed record | [[ai-financing-fragility]]`:L4996` |
+| **⭐ THE FINANCING** | **~4 years** — where the coupon breaks | NBIS 6-K, 2026-08-20 |
+- ⇒ **★★★★★★★ THE STACK IS FUNDED AT ITS *SHORTEST* TENOR. THE DEBT MUST BE ROLLED FIVE TO TEN TIMES
+  BEFORE THE POWER CONTRACTS IT IS BUILDING AGAINST EVEN EXPIRE.**
+- ⇒ **AND EVERY ONE OF THOSE ROLLS IS AN OPTION THE LENDER HOLDS AND THE BORROWER DOES NOT.** ⇒ **The
+  borrower is short a strip of ~4-year refinancing options, struck at whatever the world looks like on
+  each date.** ⇒ **THAT — not depreciation, not spreads, not the 30Y — IS THE ACTUAL FRAGILITY.**
+- **⇒ ⛔ AND IT REFRAMES THE ESAs I FILED AS A STRENGTH ON 8/19. A 20-45 year take-or-pay power contract
+  with ≥80% minimums is an ASSET to the utility and a 20-45 YEAR OBLIGATION to the hyperscaler — funded
+  by money that has to be re-borrowed every four.** ⇒ **The contract term and the funding term are two
+  decades apart, in the wrong direction.** *(Analysis. This inverts part of the stage-4b reading.)*
+
+#### ⚠️ THE HONEST BOUNDS
+- **This is one issuer's term structure. Two tranches, one deal, one night's pricing.** ⬜ **The
+  cross-issuer curve that would make it a finding rather than an observation has NOT been built.**
+- **Convert coupons are jointly determined with conversion premium and the vol surface — a 0.50%/4.50%
+  split is NOT a pure credit read.** ⚠️ **The gap is directionally the right instrument and quantitatively
+  contaminated. Do not quote 400bp as a clean uncertainty price.**
+- **⭐ AND THE STRONGEST COUNTER, WHICH IS JAKE'S OWN LAST CLAUSE TURNED AROUND: "we don't know if this
+  leveraged bet was profitable" CUTS BOTH WAYS.** **The A100 still earns $1.29-2.70/GPU-hr in year six and
+  H100 marketplace rates ROSE 40% in five months** (`ai-financing-fragility:L5501`). ⇒ **Uncertainty is
+  not a direction. The 450bp is the price of a WIDE distribution, not of a bad one.**
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **THE COUPON-BREAK CURVE.** **For every AI-complex issuer with ≥2 tenors: where does the coupon
+   break?** ⇒ **The industry's underwriting horizon, priced, with no model needed.** **Highest-value new
+   instrument on this page.**
+2. 🚩🚩 **THE ROLL COUNT.** **For each major project: (power contract term) ÷ (financing term) = how many
+   times this must be refinanced before the asset it funds retires.** **NBIS-class: 4-6×.**
+3. ⬜ **Conversion premium and implied vol on the two NBIS tranches** — the only way to decontaminate the
+   400bp into a credit component and a vol component.
