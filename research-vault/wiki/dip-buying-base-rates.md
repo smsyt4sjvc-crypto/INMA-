@@ -548,3 +548,36 @@ finding; see the method note below.)*
   the null — that this is the tape — is not rejected.** 🚩
 
 **Links:** [[bull-bear-ledger]] · [[ai-infra-allocation-map]] · [[portfolio-state]] · [[_assumption-filters]]
+
+## 2026-08-20 ~1:35pm PDT — ✅★★★★★ **JAKE'S CLAIM IS CORRECT AND THE LIFT IS LARGE: 70-73% OF THE TOP-5% TEN-DAY SPIKES HAPPENED BELOW THE 200DMA, AGAINST A ~9% BASE RATE = 7.4-8.0×.** ⛔ **But the precondition is NOT MET TODAY — both indices sit ~9% ABOVE the 200DMA and within 3% of their highs.**
+Source: Jake, 2026-08-20 — *"the most violent spikes occur in downtrends… if this is indeed a downtrend."*
+**MEASURED** from `backtest/data/` (Yahoo daily, 2023-01 → 2026-08-19), script `backtest/spike_regime.py`.
+
+#### DATA (MEASURED — forward 10-day MAX RUN-UP from each day's close)
+| | above 200DMA | below 200DMA | top-5% spikes below 200DMA | base rate | **lift** |
+|---|---|---|---|---|---|
+| **SPX** (n=897) | 1.67% | **4.31%** | 31/44 = **70.5%** | 8.8% | **8.00×** |
+| **NDX** (n=900) | 2.32% | **5.63%** | 33/45 = **73.3%** | 9.9% | **7.42×** |
+| **QQQ** (n=900) | 2.44% | **5.84%** | 28/45 = **62.2%** | 8.4% | **7.37×** |
+- **AND THE GRADIENT IS MONOTONE BY DRAWDOWN (NDX): dd<−10% → mean 4.56%, 95th pct **10.38%** ·
+  −10 to −5% → 3.11% · −5 to −2% → 2.04% · within 2% of high → 2.13%, 95th pct 5.25%.**
+- **✅ AND THE INDEPENDENCE IS BETTER THAN I EXPECTED: 9-10 DISTINCT below-200DMA EPISODES since 2023-01,
+  not one cluster.** ⚠️ **But only 79-89 total days ⇒ episodes average ~9 days. Short and few.**
+
+#### ⛔ THE PART THAT DECIDES WHETHER IT APPLIES TODAY
+- **2026-08-19 CLOSE: SPX **+8.90% above** its 200DMA, **−1.17%** from its 252-day high. NDX **+8.72%
+  above**, **−2.82%** from its high.**
+- ⇒ **⛔ THIS IS NOT A DOWNTREND. IT IS A MILD PULLBACK NEAR HIGHS.** ⇒ **The 7-8× spike statistic is
+  conditioned on a state that is ~9% away.** ⇒ **The mechanism he is describing is real and the vault now
+  has it measured — it simply is not the current regime, and calling it one is the "state-claim" error
+  this vault bans.** *(Analysis. Confirming the claim and denying its application, which are separate.)*
+- **⚠️ AND THE SELF-DEFEATING CAVEAT: the same table shows "within 2% of high" carries a 5.25% 95th-pct
+  10-day run-up on NDX.** ⇒ **Spikes near highs are smaller but NOT rare. "Wait for a downtrend" is not
+  costless — it is a decision to sit out the 385-day state in order to catch the 89-day one.**
+
+#### 📌 REGISTERED
+1. 🚩🚩 **RE-RUN ON SEMIS AND MEMORY SPECIFICALLY (SMH/SOXX/MU/higher-beta), not the index.** ⬜ **His claim
+   is about SEMIS. Index data is a proxy and the beta is different — the lift could be larger or noisier.**
+2. 🚩 **THE 2022 SAMPLE IS EXCLUDED BY THE 2023 START AND IT IS THE ONLY REAL DOWNTREND IN THE FILE.**
+   **Extending to 2022-01 roughly triples the below-200DMA sample. One line of code, not done.**
+**Links:** [[financing-fragility-gauge]] · [[market-fragility]] · [[runner-anatomy]] · [[buying-at-highs]]
