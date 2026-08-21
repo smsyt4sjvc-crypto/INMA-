@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **583 dated entries · 2026-05-22 → 2026-08-21 · refreshed 2026-08-21 10:08 PDT**
+> **585 dated entries · 2026-05-22 → 2026-08-21 · refreshed 2026-08-21 10:18 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -520,6 +520,7 @@
 - `2026-08-12` **[3]** ai-financing-fragility.md:L5442 — 2026-08-12 ~11:05pm PDT — ⚠️ THE HUANG ATTRIBUTION, RESOLVED HONESTLY — and the vault's own disclosure record CONTRADICTS the segmentation claim at th
 - `2026-08-12` **[3]** ai-financing-fragility.md:L5490 — 2026-08-12 ~11:15pm PDT — ⛔⛔ NO, THE STARTUP LINE IS NOT IN THERE — **AND THIS VAULT INGESTED AND GRADED THIS EXACT TRANSCRIPT ON 8/10. TONIGHT I RE-D
 - `2026-08-12` **[3]** ai-financing-fragility.md:L5547 — 2026-08-12 ~11:15pm PDT (cont.) — ⛔ JAKE SOURCES IT HIMSELF: **WSJ, THIS WEEK — "many of his customers can't afford to buy."** The attribution change 
+- `2026-08-12` **[3]** ai-financing-fragility.md:L6840 — THE ONE SIX-YEAR GPU SERIES THE VAULT OWNS — `:L4996`, fetched 2026-08-12
 - `2026-08-12` **[5]** metered-compute.md:L2197 — 2026-08-12 ~12:15am PDT — ★★★★★ THE CRWV CALL DETAIL LANDS: it RESOLVES the debt-cost contradiction I filed 90 minutes ago, CONFIRMS the power thesis 
 - `2026-08-12` **[5]** metered-compute.md:L2266 — 2026-08-12 ~10:45am PDT — 📌 NBIS Q2 GRADED (leg 1 of 2): THE MARGIN CONDITIONAL CONFIRMS — and the EBITDA beat is 40% against a revenue beat of 2%
 - `2026-08-12` **[5]** metered-compute.md:L2313 — 2026-08-12 ~9:50pm PDT — 🔗 NEW SILICON DATA TICKER IN A FAMILY THIS NOTE ALREADY TRACKS: `SDA100RT` = A100 RENTAL PRICE INDEX, **$1.29/GPU-hr**
@@ -612,3 +613,4 @@
 - `2026-08-20` **[4]** ai-capex-cycle.md:L3210 — 2026-08-20 ~9:15am PDT — ✅⭐⭐⭐⭐⭐ **JAKE IS RIGHT: THE VAULT CALLED THIS ON 2026-07-05 AND CALLED IT *BIPARTISAN* EXPLICITLY (`:L441`). ⇒ THE NRSC MEMO 
 - `2026-08-20` **[4]** ai-capex-cycle.md:L3299 — 2026-08-20 ~10:05am PDT — ⛔⛔⛔ **MY OWN CONTRA-REVENUE SIZING FROM YESTERDAY WAS WRONG BY ~12× AND THE CONCLUSION FLIPS: the real tranche count is 240,
 - `2026-08-21` **[3]** ai-financing-fragility.md:L6762 — 2026-08-21 ~8:15am PDT — ⛔⭐⭐⭐⭐⭐ **THE AVGO DEAL IS NOT NEW — IT IS THE SECOND TRANCHE OF A PLATFORM THIS VAULT ALREADY HELD, AND BROADCOM'S CONTINGENT
+- `2026-08-21` **[3]** ai-financing-fragility.md:L6834 — 2026-08-21 ~8:45am PDT — ★★★★★★ **JAKE'S 2030 TIPPING-POINT READ IS RIGHT BY A BETTER ROUTE THAN HE STATED, AND THIS VAULT ALREADY HAS THE NATURAL EXP

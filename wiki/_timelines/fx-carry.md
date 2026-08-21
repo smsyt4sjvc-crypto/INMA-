@@ -1,6 +1,6 @@
 # ⏱ FX/CARRY — merged timeline (the gate)
 
-> **404 dated entries across 3 notes · 2026-05-22 → 2026-08-21 · refreshed 2026-08-21 10:08 PDT**
+> **406 dated entries across 3 notes · 2026-05-22 → 2026-08-21 · refreshed 2026-08-21 10:18 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -352,6 +352,7 @@
 - `2026-08-12` [ai-financing-fragility.md:L5442](../ai-financing-fragility.md) — 2026-08-12 ~11:05pm PDT — ⚠️ THE HUANG ATTRIBUTION, RESOLVED HONESTLY — and the vault's own disclosure record CONTRADICTS the segmentation claim at th
 - `2026-08-12` [ai-financing-fragility.md:L5490](../ai-financing-fragility.md) — 2026-08-12 ~11:15pm PDT — ⛔⛔ NO, THE STARTUP LINE IS NOT IN THERE — **AND THIS VAULT INGESTED AND GRADED THIS EXACT TRANSCRIPT ON 8/10. TONIGHT I RE-D
 - `2026-08-12` [ai-financing-fragility.md:L5547](../ai-financing-fragility.md) — 2026-08-12 ~11:15pm PDT (cont.) — ⛔ JAKE SOURCES IT HIMSELF: **WSJ, THIS WEEK — "many of his customers can't afford to buy."** The attribution change 
+- `2026-08-12` [ai-financing-fragility.md:L6840](../ai-financing-fragility.md) — THE ONE SIX-YEAR GPU SERIES THE VAULT OWNS — `:L4996`, fetched 2026-08-12
 - `2026-08-12` [market-fragility.md:L3015](../market-fragility.md) — 2026-08-12 ~8:45am PDT — 📌 THE REGENERATED MARKET-OPEN BRIEF, GRADED: markers all check out, and the ONE NUMBER IN IT THAT MATTERS IS NBIS +8% BEFORE 
 - `2026-08-12` [market-fragility.md:L3066](../market-fragility.md) — 2026-08-12 ~10:40am PDT — 📌 GRADED: THE 10Y TAILED — first since May, and at the HIGHEST AUCTION YIELD SINCE 2007. Test resolved YES on direction, NEG
 - `2026-08-12` [market-fragility.md:L3070](../market-fragility.md) — DATA (observed — $42bn 10Y, 2026-08-12)
@@ -426,3 +427,4 @@
 - `2026-08-20` [ai-financing-fragility.md:L6693](../ai-financing-fragility.md) — 2026-08-20 ~1:10pm PDT — ★★★★★★ **BROADCOM IS IN TALKS FOR UP TO $100B — "THE LARGEST SPV DEAL EVER FUNDED" — AND IT WOULD *GUARANTEE* $60-70B OF THE 
 - `2026-08-20` [new-economy-regime.md:L4075](../new-economy-regime.md) — 2026-08-20 ~8:10am PDT — ✅⭐⭐⭐⭐ **THE CLAIMS DATA INDEPENDENTLY CONFIRMS THE FOMC MINUTES LINE I FILED YESTERDAY, ONE DAY LATER AND FROM A COMPLETELY D
 - `2026-08-21` [ai-financing-fragility.md:L6762](../ai-financing-fragility.md) — 2026-08-21 ~8:15am PDT — ⛔⭐⭐⭐⭐⭐ **THE AVGO DEAL IS NOT NEW — IT IS THE SECOND TRANCHE OF A PLATFORM THIS VAULT ALREADY HELD, AND BROADCOM'S CONTINGENT
+- `2026-08-21` [ai-financing-fragility.md:L6834](../ai-financing-fragility.md) — 2026-08-21 ~8:45am PDT — ★★★★★★ **JAKE'S 2030 TIPPING-POINT READ IS RIGHT BY A BETTER ROUTE THAN HE STATED, AND THIS VAULT ALREADY HAS THE NATURAL EXP

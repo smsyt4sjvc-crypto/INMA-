@@ -7011,3 +7011,70 @@ Source: Jake's daily scan, 2026-08-21 (Reuters/Bloomberg, Nebius 6-K, FT, Market
 3. 🚩 **CONVERT ISSUANCE AS ITS OWN FRAGILITY CHANNEL** — it is open while the bond market tightens, and
    the vault has been reading only the bond market. **When converts close, the last window has shut.**
 **Links:** [[financing-fragility-gauge]] · [[hyperscaler-credit]] · [[ai-capex-cycle]] · [[transmission-chain]]
+
+### 2026-08-21 ~8:45am PDT — ★★★★★★ **JAKE'S 2030 TIPPING-POINT READ IS RIGHT BY A BETTER ROUTE THAN HE STATED, AND THIS VAULT ALREADY HAS THE NATURAL EXPERIMENT: THE A100 DID NOT GO TO ZERO IN SIX YEARS — IT WENT TO ROUGHLY A THIRD. ⛔ AND A THIRD DOES NOT REPAY PAR.**
+Source: Jake, 2026-08-21 — *"Beyond 2030 may be the tipping point on the viability of the A100 chips
+collateralizing the debt… investors expect another round of supplier financing will be needed and the
+economics of those transactions are unknown."* **⟲ EXTENDS `:L4996` (the A100 rate curve) and today's
+`:L6913` (the NBIS convert term structure).**
+
+#### THE ONE SIX-YEAR GPU SERIES THE VAULT OWNS — `:L4996`, fetched 2026-08-12
+- **SAME SKU, LIST, ACROSS SIX YEARS: AWS p4d.24xlarge (8× A100 40GB) $4.096/GPU-hr (2020-11) →
+  $2.745/GPU-hr (2026-08). −33%.**
+- **Silicon Data A100 index (neocloud, spec-standardised, 95% of providers): $1.29 ⇒ −68.5% vs 2020 list.**
+  **CoreWeave list A100 80GB SXM: $2.70.**
+- ⇒ **★★★ A 2020-VINTAGE CHIP IS STILL EARNING $1.29-$2.70/GPU-hr IN ITS SIXTH YEAR. THE COLLATERAL DOES
+  NOT VANISH.** ⇒ **"GPUs go to zero" is not what happened to the only chip with a six-year record.**
+
+#### ⇒ WHICH IS WHY HIS CONCLUSION SURVIVES ANYWAY, AND THE CORRECTED VERSION IS SHARPER
+- **★★★★★★ A LENDER SECURED ON THAT COLLATERAL DOES NOT NEED THE ASSET TO STILL *FUNCTION*. IT NEEDS THE
+  ASSET TO SERVICE AND REPAY *PAR*.** ⇒ **THE COLLATERAL GOES TO A THIRD, AND A THIRD DOES NOT REPAY
+  PAR.** ⇒ **The smooth-decline reading is MORE dangerous than the cliff reading, because a cliff gets
+  underwritten and a slow bleed gets extended.** *(Analysis. His conclusion, better mechanism.)*
+- **⇒ ⭐⭐ AND THE MATURITY MATH LANDS EXACTLY WHERE HE PUT IT: 2026-vintage silicon financed to **2030** is
+  inside the standard 5-6 year useful-life assumption. Financed to **2034** it is 8 years old — past the
+  A100's entire observed history.** ⇒ **THE 0.50% vs 4.50% COUPON GAP IS THE MARKET PRICING THE DIFFERENCE
+  BETWEEN "INSIDE THE DEPRECIATION SCHEDULE" AND "BEYOND IT" — 400bp/yr for those four extra years.**
+  ⇒ **That is the cleanest read available of what residual-value risk actually costs, and it comes from
+  inside a single deal.** *(Analysis. This is the entry's finding.)*
+- **⚠️ AND THE A100 CURVE IS PROBABLY THE *OPTIMISTIC* BOUND, NOT THE CENTRAL CASE. The A100 aged into a
+  slow product cadence. Blackwell ages into Hopper→Blackwell→Rubin.** ⇒ **Faster successor cadence
+  compresses the curve. Do not read −33% as the forward estimate.**
+
+#### ⛔⛔ THE FINDING THAT BREAKS THE COLLATERAL STORY ENTIRELY — and it is in the vault's own H100 series
+- **`:L5501`: MARKETPLACE H100 WENT $1.70 → $2.35, **+40%**, Oct-2025 → Mar-2026.** ⇒ **GPU rental prices
+  are NOT a monotonic decay. They ROSE 40% in five months because demand outran supply.**
+- ⇒ **★★★★★★ THEREFORE RESIDUAL VALUE IS DEMAND-DRIVEN, NOT AGE-DRIVEN — WHICH MEANS THE COLLATERAL'S
+  VALUE AND THE BORROWER'S ABILITY TO PAY ARE THE SAME VARIABLE.** ⇒ **This is not a secured loan in any
+  diversifying sense. It is a levered bet on one price, twice.** ⇒ **✅ AND IT IS EXACTLY WHY `:L238`
+  CARRIES MOODY'S: *"RVG (Residual Value Guarantee) backstop FAILS IN A CORRELATION EVENT."* The
+  correlation is not a tail assumption — it is the structure.** *(Analysis.)*
+
+#### ✅ AND HIS SECOND CLAUSE IS THE ROLLOVER CHANNEL, STATED CORRECTLY
+- ***"Investors expect another round of supplier financing will be needed and the economics of those
+  transactions are unknown."*** ⇒ **The 2030 notes do not get repaid by 2030 cash flow — they get
+  REFINANCED, against assets that are then four years older, into terms nobody can price today.**
+- ⇒ **⭐ THAT IS CHANNEL 15 OF [[financing-fragility-gauge]] ARRIVING ON A DATED SCHEDULE: at rollover, IS
+  THERE A BID? The vault's only evidence on that question is Citadel showing up once, bilaterally, in
+  July.** ⇒ **And the refinancier of last resort is now visibly the VENDOR — which is what AVGO's
+  $60-70B guarantee and NVDA's $105B backstop ARE.**
+- **⇒ ★★★ SO THE THREE THREADS CLOSE INTO ONE LOOP: the debt is secured on an asset whose value tracks
+  the borrower's revenue · repayment requires refinancing, not cash flow · and the party positioned to
+  provide that refinancing is the chip vendor whose own sales created the exposure.**
+
+#### ⚠️ WHAT I CANNOT SAY
+- ⬜ **NBIS's actual fleet composition and vintage are NOT in the vault.** **The collateral behind a
+  2026 convert is Blackwell/Hopper-generation; A100 is the historical ANALOGUE, not the asset.**
+- ⬜ **Whether these converts are secured on GPUs at all** — a convertible senior note is typically
+  UNSECURED corporate debt. **The GPU-backed structures are a different instrument (CRWV's ABS-style
+  deals).** ⚠️ **Do not merge "convert" and "GPU-backed" without checking the indenture.**
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **EXTEND THE A100 CURVE INTO A DEPRECIATION TEMPLATE AND APPLY IT TO H100/GB200.** **Six years,
+   −33% list / −68.5% index, is the only empirical GPU decay curve that exists. It should be the vault's
+   default prior and it is currently a single entry.**
+2. 🚩🚩 **IS THE NBIS CONVERT SECURED, AND ON WHAT?** ⬜ **Read the 6-K/indenture. Decides whether any of
+   the collateral analysis above applies to THIS instrument.**
+3. 🚩 **GPU RENTAL INDEX AS A LIVE SERIES** (`SDA100RT` + the H100 marketplace series). ⇒ **It is
+   simultaneously the collateral mark AND the revenue line. One series, both sides of the credit.**
+**Links:** [[financing-fragility-gauge]] · [[metered-compute]] · [[ai-capex-cycle]] · [[compression-thesis]]
