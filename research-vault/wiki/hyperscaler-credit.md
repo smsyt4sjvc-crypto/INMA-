@@ -335,3 +335,94 @@ There are **THREE** distinct objects and conflating them is error class 4:
   CDS and not cash bonds — and also why `:L188` registers the cash-bond series as a gap, since the BASIS
   between them is its own signal.**
 **Links:** [[transmission-chain]] · [[financing-fragility-gauge]] · [[ai-financing-fragility]]
+
+---
+
+## 2026-08-22 — ⭐⭐⭐⭐⭐⭐ **AVGO 121.19 IS THE ONLY NAME IN THIS COMPLEX DECISIVELY *THROUGH* ITS HIGH — ~20% ABOVE THE LATE-JULY PEAK — AND IT HAS LEFT THE SUPPLIER TIER OF THE VAULT'S OWN LADDER. ⛔ NVDA DID NOT "BLOW OUT": IT MOVED +2.8bp IN TWO DAYS. THIS IS ONE NAME REPRICING ON ONE DEAL, NOT A COMPLEX CRACKING.** ✅ And it GRADES the 8/20 thesis correct within 48 hours
+Source: Jake's chart, 2026-08-22 → `raw/2026-08-22-avgo-nvda-cds/`. Deal reporting: CNBC 8/21, Qz 8/21,
+Bloomberg via SiliconANGLE 8/20. **⟲ EXTENDS `:L116` (the 8/20 cross-section) and `:L206` (start dates).**
+
+#### DATA (REPORTED — legend levels, single chart origin, NOT a terminal pull)
+| name | 2026-08-22 | vault's prior mark | late-July peak | read |
+|---|---|---|---|---|
+| **AVGO** | **121.190** | **⬜ NONE — vault held only "+48bp" as a CHANGE (`:L68`, 8/8), never a LEVEL** | **~101 (chart-read)** | **⭐ ~+20% THROUGH the peak** |
+| **NVDA** | **85.370** | **82.565 (8/20, `:L116`)** | **82 (ICE, 7/27)** | **+2.8bp / +3.4% in two days** |
+- **✅ CROSS-CHECK PASSES: the chart's NVDA track (~40 late-May · ~82 late-Jul · ~70 early-Aug · 85.4)
+  reproduces the vault's own NVDA series at `:L19` from an unrelated origin.** ⇒ **The chart is good data.**
+- **⭐ THIS IS THE VAULT'S FIRST AVGO CDS *LEVEL* SERIES. The `:L116` cross-section did not carry AVGO at
+  all.** ⇒ **No stale-reference exposure here — but also no vault history to test "record" against.**
+
+#### ⛔⛔ FIRST, THE THING THAT IS NOT TRUE: "NVDA BLOWING OUT TO A NEW ALL-TIME WIDE"
+- **NVDA went 82.565 → 85.370 over two sessions. That is +3.4%.** **AVGO went ~95 → 121.19. That is ~+28%.**
+  ⇒ **PUTTING THEM IN THE SAME SENTENCE MAKES A ONE-NAME EVENT LOOK LIKE A COMPLEX-WIDE ONE.**
+- **⛔ AND "ALL-TIME" IS ALREADY RETIRED ON THIS PAGE.** `:L206`: **NVDA CDS BEGAN ACTIVELY TRADING
+  ~NOVEMBER 2025** (ICE Data Services). ⇒ **"NVDA all-time wide" = a NINE-MONTH wide.** **This is the
+  second time in three days the word has been applied to a ten-month contract. The rule holds.**
+- ⇒ **⚠️ THE CHART ITSELF SHOWS ONLY TWO NAMES. A two-name chart cannot support "credit is cracking."**
+  **The vault's instrument for that claim is the 5-NAME BASKET at `:L260` (~115 → 162 late-July → −20bp
+  early-Aug → re-widened ~10bp).** 🚩 **THAT BASKET HAS NOT BEEN UPDATED SINCE 8/20 AND IT IS THE FETCH
+  THIS ENTRY MOST NEEDS.** ⬜ **Until it is, "the complex is cracking" is UNTESTED, not supported.**
+
+#### ⭐⭐⭐ SECOND, THE THING THAT *IS* TRUE, AND IT IS BIGGER THAN THE HEADLINE
+- **AVGO AND NVDA TRADED ON TOP OF EACH OTHER AT ~40bp FROM AUG 2025 THROUGH MID-MAY 2026 — nine months
+  of near-identical pricing.** ⇒ **The market treated the two merchant AI-silicon sellers as one credit.**
+- **SINCE MID-MAY THEY HAVE DIVERGED TO 121.19 vs 85.37 = 1.42×.** ⇒ **⭐⭐⭐ THE MARKET HAS STOPPED
+  PRICING "CHIP SELLER" AS A CATEGORY AND STARTED PRICING EACH ONE'S GUARANTEE BOOK.**
+- **⇒ ★★★★★★ AND IT MOVES AVGO ON THE VAULT'S OWN QUALITY LADDER (`:L116`).** **On 8/20 the ordering was
+  MSFT 46.3 · GOOG 55.5 · AMZN 57.8 · NVDA 82.6 · META 90.5 · ORCL 212.6 · CRWV 771.9, and the vault said
+  it maps exactly onto SELL-INTO-IT vs BORROW-TO-BUILD.** ⇒ **AVGO AT 121.19 NOW SLOTS *ABOVE META* AND
+  BETWEEN THE BUILDERS. It has departed the tier its income statement says it belongs to.**
+  *(Analysis. This is the entry's finding.)*
+
+#### ✅✅ AND IT GRADES THE 8/20 CALL — CORRECT, IN 48 HOURS, WITH THE MECHANISM NAMED IN ADVANCE
+- **[[ai-financing-fragility]]`:L6904`, filed 2026-08-20 ~1:10pm:** *"THE SELLER'S CREDIT ABSORBS THE
+  BUYER'S RISK, which is precisely why AVGO's and NVDA's CDS are widening while their income statements
+  look pristine."* ⇒ **✅ THE DIVERGENCE IS THE TEST AND IT PASSED — the name doing the BIGGER guarantee
+  ($60-70B vs NVDA's $500B notional but far smaller first-loss) repriced ~8× harder over the same window.**
+- **⇒ ⭐ THE "OFF-BALANCE-SHEET" LABEL IS DOING NO WORK, AND THE CDS IS THE PROOF.** **A parent guarantee
+  is a contingent liability wherever the SPV sits. The accounting moves the debt; the credit market does
+  not care where the accounting put it.** ⇒ **★ THAT IS THE CLEANEST DEMONSTRATION THIS VAULT HAS THAT
+  THE STRUCTURE IS COSMETIC.** *(Analysis.)*
+- **⚠️ THE HONEST TENSION: AVGO TENDERED FOR $2.5B OF ITS OWN 2030-2038 NOTES ON 2026-06-11**
+  (PRNewswire, 4.900-5.200% coupons, six series, cash) — **i.e. it was REDUCING funded debt during the
+  exact window its CDS tripled.** ⇒ **CONFIRMS the read rather than contesting it: the spread is not
+  pricing the balance sheet as reported. It is pricing what is being promised off it.** *(Reported +
+  analysis.)*
+
+#### ⛔ THIRD — THE DEAL SIZE IN THE PREMISE IS THE TOP OF A RANGE, AND THE SOURCED NUMBER HAS COME *DOWN*
+- **8/20 (Bloomberg via ZH/SiliconANGLE): ">$60B senior, could swell to as much as $100B."** ⇒ **The vault
+  filed "up to $100B" at [[ai-financing-fragility]]`:L6874`. Correct as filed.**
+- **⛔ 8/21 (CNBC, sources): "expected to reach UPWARDS OF $70 BILLION" · CNBC video: "SPV tapping debt
+  market for $70 billion" · Qz: "up to $80 billion."** ⇒ **"$100BN deal" IS NOT THE DEAL. It is the high
+  end of a fluid range that has since been reported DOWN. And NOTHING HAS PRICED.**
+- **⚠️⚠️ AND THE TRANCHE ARITHMETIC IN THE REPORTING DOES NOT CLOSE: senior ~$45B + junior ~$35B = $80B,
+  yet AVGO's guarantee is described as "$60-70B OF THE SENIOR-SECURED TRANCHE" — a guarantee LARGER THAN
+  THE TRANCHE IT GUARANTEES.** ⇒ **Either the guarantee spans both tranches, or one figure is wrong.**
+  🚩 **DO NOT QUOTE "$60-70B GUARANTEE ON A $45B SENIOR" AS IF BOTH ARE TRUE. Fetch the structure.**
+- **✅ LINEAGE CONFIRMED, AND IT IS AN EXTENSION NOT A NEW DEAL: this traces to the JUNE Apollo/Blackstone
+  agreement to fund a $35B expansion of Anthropic compute toward >20GW by 2028** — **the same $35B TPU/SPV
+  the vault filed at [[ai-financing-fragility]]`:L3266` on 8/04.** ⇒ **$35B (June) → $70-100B (August).
+  THE SIZE ROUGHLY DOUBLED-TO-TRIPLED IN TEN WEEKS. That escalation rate is the datum, not the level.**
+
+#### ⬜ AND THE WORD "RECORD" ON AVGO IS UNTESTED — WITH A SPECIFIC REASON TO DOUBT IT
+- **The start-date finding at `:L206` retires "all-time" for NVDA/META/GOOGL because their CDS is ~10
+  months old. ⛔ IT DOES NOT TRANSFER TO AVGO.** **Broadcom has been a large, actively-quoted CDS name for
+  years — a serial leveraged acquirer that funded the $61B VMware deal (closed Nov 2023).**
+- ⇒ **⚠️ SO AVGO'S SERIES IS LONG, WHICH MAKES "RECORD 122" A *STRONGER* CLAIM IF TRUE — AND ALSO ONE WITH
+  AN OBVIOUS CHALLENGER: the Oct-2022 IG credit selloff, mid-VMware-financing, when levered-tech CDS was
+  materially wider than today's IG averages.** ⬜ **I COULD NOT SOURCE AVGO'S PRE-2025 CDS HISTORY from
+  this container (multiple searches returned only 2026 re-reporting of the same ZeroHedge item).**
+- 🚩 **REGISTERED FETCH: AVGO 5Y CDS 2022-2024, specifically the Oct-2022 and the VMware-close (Nov-2023)
+  marks.** ⇒ **If 122 clears those, "record" is a regime statement. If it does not, it is a 2026 high and
+  the honest phrasing is "widest since the VMware financing."** **Do not carry "record" as fact until then.**
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **UPDATE THE 5-NAME BASKET** (AMZN/GOOGL/META/MSFT/ORCL). **Two names cannot establish a complex.**
+   **Last mark 8/20. This is the single highest-value fetch on this page.**
+2. 🚩🚩 **AVGO 5Y CDS PRE-2025 HISTORY** — the only thing that can settle "record."
+3. 🚩🚩 **THE AVGO SPV STRUCTURE AS FILED/TERMED** — senior size, junior size, guarantee scope, and whether
+   the guarantee is of principal, of a first-loss slice, or of residual value. **The reporting contradicts
+   itself; only the documents settle it.**
+4. ⬜ **AVGO/NVDA CDS-BOND BASIS.** **If CDS is running well ahead of cash spreads, the move is hedging
+   demand (protection buyers with no bonds), not a cash-market credit judgement.** **That distinction
+   decides whether "credit is cracking" or "credit is being HEDGED" — and they are not the same event.**

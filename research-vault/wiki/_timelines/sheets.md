@@ -1,6 +1,6 @@
 # ⏱ SHEETS — merged timeline (the gate)
 
-> **176 dated entries across 2 notes · 2026-05-22 → 2026-08-21 · refreshed 2026-08-21 19:57 PDT**
+> **176 dated entries across 2 notes · 2026-05-22 → 2026-08-21 · refreshed 2026-08-21 22:12 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -172,7 +172,7 @@
 - `2026-08-12` [ai-financing-fragility.md:L5442](../ai-financing-fragility.md) — 2026-08-12 ~11:05pm PDT — ⚠️ THE HUANG ATTRIBUTION, RESOLVED HONESTLY — and the vault's own disclosure record CONTRADICTS the segmentation claim at th
 - `2026-08-12` [ai-financing-fragility.md:L5490](../ai-financing-fragility.md) — 2026-08-12 ~11:15pm PDT — ⛔⛔ NO, THE STARTUP LINE IS NOT IN THERE — **AND THIS VAULT INGESTED AND GRADED THIS EXACT TRANSCRIPT ON 8/10. TONIGHT I RE-D
 - `2026-08-12` [ai-financing-fragility.md:L5547](../ai-financing-fragility.md) — 2026-08-12 ~11:15pm PDT (cont.) — ⛔ JAKE SOURCES IT HIMSELF: **WSJ, THIS WEEK — "many of his customers can't afford to buy."** The attribution change 
-- `2026-08-12` [ai-financing-fragility.md:L6840](../ai-financing-fragility.md) — THE ONE SIX-YEAR GPU SERIES THE VAULT OWNS — `:L4996`, fetched 2026-08-12
+- `2026-08-12` [ai-financing-fragility.md:L6844](../ai-financing-fragility.md) — THE ONE SIX-YEAR GPU SERIES THE VAULT OWNS — `:L4996`, fetched 2026-08-12
 - `2026-08-13` [ai-financing-fragility.md:L5594](../ai-financing-fragility.md) — 2026-08-13 ~12:52pm PDT — ★★★★★★★ **THE IDENTITY RESOLVES, AND IT RESOLVES AGAINST THE HIGH-RATE BRANCH.** Plus the depreciation number this thread hu
 - `2026-08-13` [ai-financing-fragility.md:L5681](../ai-financing-fragility.md) — 2026-08-13 ~12:55pm PDT — ⛔★ **MY PREDICTED SIGNAL IS ABSENT AND THE REAL ONE IS 12× BIGGER.** NVDA's DSO is FALLING — and its risk factors say custom
 - `2026-08-13` [ai-financing-fragility.md:L5762](../ai-financing-fragility.md) — 2026-08-13 ~10:00pm PDT — ★★★★★★ JAKE OPENS A THIRD DEPRECIATION CHANNEL THE VAULT HAS NEVER CONSIDERED: **REGULATORY OBSOLESCENCE.** It has a legal n
@@ -196,5 +196,5 @@
 - `2026-08-19` [ai-financing-fragility.md:L6548](../ai-financing-fragility.md) — 2026-08-19 ~7:30am PDT — ★★★★★★ **MARVELL ISSUES GOOGLE A $12.18B WARRANT TO WIN TPU-ECOSYSTEM SILICON. ⇒ THE CIRCULARITY THREAD GETS ITS PUREST INSTA
 - `2026-08-19` [ai-financing-fragility.md:L6613](../ai-financing-fragility.md) — 2026-08-19 ~4:25pm PDT — ⭐⭐⭐⭐⭐⭐ **HIS QUESTION IS ANSWERABLE AND I WENT AND ANSWERED IT FROM SEC PRIMARY — AND THE HEADLINE IS NOT DEBT: ⭐⭐⭐ ALPHABET 
 - `2026-08-20` [ai-financing-fragility.md:L6693](../ai-financing-fragility.md) — 2026-08-20 ~1:10pm PDT — ★★★★★★ **BROADCOM IS IN TALKS FOR UP TO $100B — "THE LARGEST SPV DEAL EVER FUNDED" — AND IT WOULD *GUARANTEE* $60-70B OF THE 
-- `2026-08-21` [ai-financing-fragility.md:L6762](../ai-financing-fragility.md) — 2026-08-21 ~8:15am PDT — ⛔⭐⭐⭐⭐⭐ **THE AVGO DEAL IS NOT NEW — IT IS THE SECOND TRANCHE OF A PLATFORM THIS VAULT ALREADY HELD, AND BROADCOM'S CONTINGENT
-- `2026-08-21` [ai-financing-fragility.md:L6834](../ai-financing-fragility.md) — 2026-08-21 ~8:45am PDT — ★★★★★★ **JAKE'S 2030 TIPPING-POINT READ IS RIGHT BY A BETTER ROUTE THAN HE STATED, AND THIS VAULT ALREADY HAS THE NATURAL EXP
+- `2026-08-21` [ai-financing-fragility.md:L6766](../ai-financing-fragility.md) — 2026-08-21 ~8:15am PDT — ⛔⭐⭐⭐⭐⭐ **THE AVGO DEAL IS NOT NEW — IT IS THE SECOND TRANCHE OF A PLATFORM THIS VAULT ALREADY HELD, AND BROADCOM'S CONTINGENT
+- `2026-08-21` [ai-financing-fragility.md:L6838](../ai-financing-fragility.md) — 2026-08-21 ~8:45am PDT — ★★★★★★ **JAKE'S 2030 TIPPING-POINT READ IS RIGHT BY A BETTER ROUTE THAN HE STATED, AND THIS VAULT ALREADY HAS THE NATURAL EXP
