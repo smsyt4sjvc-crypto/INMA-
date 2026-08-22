@@ -1,6 +1,6 @@
 # ⏱ SHEETS — merged timeline (the gate)
 
-> **176 dated entries across 2 notes · 2026-05-22 → 2026-08-21 · refreshed 2026-08-22 08:05 PDT**
+> **177 dated entries across 2 notes · 2026-05-22 → 2026-08-22 · refreshed 2026-08-22 09:03 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -198,3 +198,4 @@
 - `2026-08-20` [ai-financing-fragility.md:L6693](../ai-financing-fragility.md) — 2026-08-20 ~1:10pm PDT — ★★★★★★ **BROADCOM IS IN TALKS FOR UP TO $100B — "THE LARGEST SPV DEAL EVER FUNDED" — AND IT WOULD *GUARANTEE* $60-70B OF THE 
 - `2026-08-21` [ai-financing-fragility.md:L6766](../ai-financing-fragility.md) — 2026-08-21 ~8:15am PDT — ⛔⭐⭐⭐⭐⭐ **THE AVGO DEAL IS NOT NEW — IT IS THE SECOND TRANCHE OF A PLATFORM THIS VAULT ALREADY HELD, AND BROADCOM'S CONTINGENT
 - `2026-08-21` [ai-financing-fragility.md:L6838](../ai-financing-fragility.md) — 2026-08-21 ~8:45am PDT — ★★★★★★ **JAKE'S 2030 TIPPING-POINT READ IS RIGHT BY A BETTER ROUTE THAN HE STATED, AND THIS VAULT ALREADY HAS THE NATURAL EXP
+- `2026-08-22` [ai-financing-fragility.md:L6907](../ai-financing-fragility.md) — 2026-08-22 ~9:00am PDT — ⛔⛔⛔ **THE "$220B vs $12.5B, 17.6×" HEADLINE IS A YEAR-OVER-YEAR COMPARISON, AND THE VAULT'S OWN SEQUENTIAL TRACK SAYS THE ISS

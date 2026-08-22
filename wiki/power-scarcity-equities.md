@@ -220,3 +220,57 @@ limited/full NOTICE TO PROCEED → FINAL INVESTMENT DECISION → EQUIPMENT PURCH
 4. 🚩 **DOES THE MICROSOFT/CHEVRON FID LAND IN 2026?** **A dated, falsifiable trigger on the largest
    co-located project in the document, and it decides whether the GEV turbine award is real.**
 **Links:** [[transmission-chain]] · [[power-not-petroleum]] · [[ai-capex-cycle]] · [[buildout-bottleneck-map]] · [[nuclear]]
+
+---
+
+## 2026-08-22 ~9:00am PDT — ⭐⭐⭐⭐ **NVDA BOUGHT INTO THE POWER BOTTLENECK ITSELF (CLOVERLEAF), AND PENNSYLVANIA TURNED DATA-CENTRE BACKLASH INTO A PERMITTING REGIME THE SAME DAY. STAGE 4b AND STAGE 4c BOTH MOVED, IN OPPOSITE DIRECTIONS, ON THE SAME FRIDAY.**
+Source: Jake's DAILY HOLDINGS SCAN 2026-08-22 → `raw/2026-08-22-holdings-scan/`.
+[S1/S2] Cloverleaf newsroom 8/21 · [S8/S9] Commonwealth of Pennsylvania 8/21.
+
+#### DATA (REPORTED — company disclosure)
+- **NVIDIA took a MINORITY INVESTMENT in Cloverleaf Infrastructure + a strategic partnership.**
+  **⬜ TERMS NOT DISCLOSED — there is no size, no stake, no board seat in this. Treat the SIZE as
+  unknown, not small.**
+- **Cloverleaf's business is exactly the vault's named bottleneck: land · grid access · power
+  availability · permitting · cooling · shovel-ready sites.** **Claims multiple GW-scale projects
+  across North America** *(claimed, not verified — ⬜ no project list, no interconnection queue
+  positions).*
+- **NVIDIA exec Nico Caprez: "land, power and shell" are the foundation of AI factories.**
+
+#### ★★★★ THE FINDING: THE SUPPLIER-AS-BANK PATTERN JUST EXTENDED INTO SUPPLIER-AS-DEVELOPER
+- **[[ai-financing-fragility]]`:L6898` established three-for-three on 8/20: NVDA guarantees $500B ·
+  MRVL grants Google warrants · AVGO would guarantee $60-70B. ⇒ "THE CHIPMAKERS HAVE BECOME BANKS."**
+- ⇒ **★★★ CLOVERLEAF IS THE NEXT RUNG: NVDA IS NOW FUNDING THE *PHYSICAL PRECONDITION* OF ITS OWN
+  DEMAND, not just the customer's balance sheet.** ⇒ **The seller is no longer financing the
+  purchase — it is financing the SITE THE PURCHASE WILL SIT ON.**
+- ⇒ **⚠️ AND IT IS A DEMAND-SIDE TELL, WHICH IS THE UNCOMFORTABLE READING: a company does not buy
+  into land and permitting because chip demand is the constraint. It does so because it has
+  concluded the constraint is PHYSICAL and will bind for long enough to be worth owning.**
+  ⇒ **★ THAT IS BULLISH FOR POWER SCARCITY AND AMBIGUOUS FOR NVDA: it confirms the bottleneck is
+  real, and it is what a seller does when it fears its order book is capped by something it does
+  not control.** *(Analysis. Reads against the scan's straightforwardly positive framing.)*
+
+#### ⭐⭐ PENNSYLVANIA — THE VAULT'S "BIPARTISAN RATCHET" NOW HAS A MECHANISM
+- **Executive Order 2026-05 · GRID framework · public data-centre portal launched 8/21.**
+  **Requirements: local zoning approval FIRST, then the expedited state pathway · energy
+  affordability · community involvement · environmental protection · transparency · workforce
+  commitments.**
+- **⭐⭐⭐ THE LOAD-BEARING PROVISION: developers are pushed to BRING NEW POWER rather than consume
+  existing grid capacity and pass infrastructure costs to existing ratepayers.**
+- ⇒ **★★★★ THIS IS THE COST-ALLOCATION FIGHT RESOLVING AGAINST THE DEVELOPER, IN WRITING, IN A PJM
+  STATE.** ⇒ **The vault's "bipartisan, therefore a ratchet" call gets its first concrete
+  instrument.** ⇒ **AND IT IS NOT A BAN — it is a COST. That distinction is the whole read: it
+  raises the price and the timeline of new supply, which makes EXISTING dispatchable generation
+  in PJM more valuable, not less.** **CEG · TLN · VST are the direct beneficiaries; GEV benefits
+  from the "bring your own power" mandate creating equipment demand.** *(Analysis.)*
+- **⇒ ⛔ AND THE DISTINCTION THE VAULT SHOULD NOW CARRY EVERYWHERE, which is the scan's best line:
+  ANNOUNCED GW ≠ PERMITTED GW ≠ ENERGIZED GW.** ⇒ **Every capacity figure in this vault should be
+  tagged with which of the three it is. Most press numbers are ANNOUNCED.** 🚩 **Registered: audit
+  the vault's held GW figures against that three-way split.**
+
+#### ⚠️ THE HONEST TENSION BETWEEN THE TWO ITEMS
+- **NVDA is buying INTO site development on the same day a major PJM state made site development
+  slower and more expensive.** ⇒ **Either NVDA is buying the scarcity (rational — the permitting
+  moat makes shovel-ready sites MORE valuable), or it is buying into a headwind it has not priced.**
+  ⇒ **⬜ Cloverleaf's project list and interconnection positions would separate those, and neither
+  is disclosed.**

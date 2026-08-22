@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **588 dated entries · 2026-05-22 → 2026-08-22 · refreshed 2026-08-22 08:05 PDT**
+> **591 dated entries · 2026-05-22 → 2026-08-22 · refreshed 2026-08-22 09:03 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -615,5 +615,8 @@
 - `2026-08-21` **[2]** hyperscaler-credit.md:L470 — ⭐⭐ WHAT THE PANEL SAYS TODAY (2026-08-21 clearing)
 - `2026-08-21` **[3]** ai-financing-fragility.md:L6766 — 2026-08-21 ~8:15am PDT — ⛔⭐⭐⭐⭐⭐ **THE AVGO DEAL IS NOT NEW — IT IS THE SECOND TRANCHE OF A PLATFORM THIS VAULT ALREADY HELD, AND BROADCOM'S CONTINGENT
 - `2026-08-21` **[3]** ai-financing-fragility.md:L6838 — 2026-08-21 ~8:45am PDT — ★★★★★★ **JAKE'S 2030 TIPPING-POINT READ IS RIGHT BY A BETTER ROUTE THAN HE STATED, AND THIS VAULT ALREADY HAS THE NATURAL EXP
+- `2026-08-22` **[1]** rates-board.md:L893 — 2026-08-22 ~9:00am PDT — ⭐⭐⭐ **THE 30Y ROUND-TRIPPED IN THREE SESSIONS AND THE VAULT HAS EVERY LEG: 5.28 (8/18) → 5.19 (8/19 buyback) → 5.23 (8/20) → 
 - `2026-08-22` **[2]** hyperscaler-credit.md:L341 — 2026-08-22 — ⭐⭐⭐⭐⭐⭐ **AVGO 121.19 IS THE ONLY NAME IN THIS COMPLEX DECISIVELY *THROUGH* ITS HIGH — ~20% ABOVE THE LATE-JULY PEAK — AND IT HAS LEFT THE
 - `2026-08-22` **[2]** hyperscaler-credit.md:L432 — 2026-08-22 — ⭐⭐⭐⭐⭐⭐⭐ **THE SINGLE-NAME CDS GAP IS CLOSED. ICE CLEAR CREDIT PUBLISHES ALL 12 AI-COMPLEX NAMES FREE, DAILY, KEYLESS — AND THE DERIVED SP
+- `2026-08-22` **[3]** ai-financing-fragility.md:L6907 — 2026-08-22 ~9:00am PDT — ⛔⛔⛔ **THE "$220B vs $12.5B, 17.6×" HEADLINE IS A YEAR-OVER-YEAR COMPARISON, AND THE VAULT'S OWN SEQUENTIAL TRACK SAYS THE ISS
+- `2026-08-22` **[4]** ai-capex-cycle.md:L3379 — 2026-08-22 ~9:00am PDT — **ON/SYNAPTICS S-4: THE HEADLINE IS 12% DILUTION, BUT THE NUMBER THE FILING ACTUALLY DISCLOSES IS THAT *ON'S OWN STOCK FELL 3
