@@ -99,16 +99,38 @@ def main():
 
     if a[0] == "--from-paste":
         txt = " ".join(a[1:])
+        # A date in the paste ALWAYS wins over "today". Quote widgets label a
+        # stale close "today" -- Google printed "+0.22 (0.30%) today" beside a
+        # quote stamped Aug 21 while it was Aug 22. Same failure class as the
+        # MRNA header on 8/19: a field that does not belong to its neighbour.
+        import re
+        m = re.search(r"(\d{4}-\d{2}-\d{2})", txt)
         nums = [t for t in txt.replace(",", " ").split()
-                if t.replace(".", "", 1).replace("-", "", 1).isdigit()]
+                if t.replace(".", "", 1).replace("-", "", 1).isdigit()
+                and not re.fullmatch(r"\d{4}-\d{2}-\d{2}", t)]
         if not nums:
             sys.exit(f"no number found in: {txt!r}")
-        d, v = date.today().isoformat(), float(nums[-1])
+        v = float(nums[-1])
+        if m:
+            d = m.group(1)
+        else:
+            d = date.today().isoformat()
+            print(f"⚠️ No date in the paste -- assuming {d}. If this came off a "
+                  f"quote page, USE ITS TIMESTAMP, not the word 'today'.")
     else:
         if len(a) < 2:
             sys.exit("usage: move_manual.py YYYY-MM-DD VALUE")
         d, v = a[0], float(a[1])
         datetime.strptime(d, "%Y-%m-%d")           # validate or raise
+
+    dt = datetime.strptime(d, "%Y-%m-%d").date()
+    if dt.weekday() >= 5:
+        sys.exit(f"⛔ {d} is a {dt.strftime('%A')} -- the market was CLOSED and MOVE "
+                 f"has no print. A quote page saying 'today' on a weekend is showing "
+                 f"the LAST CLOSE. Use that session's date "
+                 f"({(dt - timedelta(days=dt.weekday() - 4)).isoformat()}), not today's.")
+    if dt > date.today():
+        sys.exit(f"⛔ {d} is in the future.")
 
     if not (20 <= v <= 300):
         sys.exit(f"⛔ {v} is outside any plausible MOVE range (20-300). "
