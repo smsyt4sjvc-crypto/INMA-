@@ -1,6 +1,6 @@
 # ⏱ SCREEN-METHOD — merged timeline (the gate)
 
-> **143 dated entries across 5 notes · 2026-07-01 → 2026-08-19 · refreshed 2026-08-21 19:55 PDT**
+> **144 dated entries across 5 notes · 2026-07-01 → 2026-08-21 · refreshed 2026-08-21 19:57 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -159,3 +159,4 @@
 - `2026-08-19` [market-fragility.md:L4259](../market-fragility.md) — 2026-08-19 ~5:11am KST (2026-08-18 ~1:11pm PDT) — ⛔ **"SIDECAR ACTIVATED" READS LIKE A CRASH; THE ARC SAYS GIVE-BACK. KOSPI 6,441.39 (−6.24%) IS **+15
 - `2026-08-19` [quiet-health-screen.md:L137](../quiet-health-screen.md) — 2026-08-19 ~10:10am PDT — ⭐⭐⭐⭐ **MODERNA +125% ON A PHASE 3 CANCER-VACCINE READOUT, AND THE VAULT-RELEVANT FINDING IS NOT MODERNA: ⛔ IT CONTAMINATES T
 - `2026-08-19` [quiet-health-screen.md:L144](../quiet-health-screen.md) — DATA (MEASURED — live tape 2026-08-19 ~10:08am PDT vs 8/18 close)
+- `2026-08-21` [market-fragility.md:L4311](../market-fragility.md) — 2026-08-21 ~10:45am PDT — ⭐⭐⭐⭐⭐ **THE FMS CASH LEVEL IS THE LOAD-BEARING NUMBER, NOT THE 8.0 SENTIMENT READING — AND IT IS A *CLEANER* INSTRUMENT THAN

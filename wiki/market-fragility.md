@@ -4435,3 +4435,62 @@ Source: Jake's screenshots — ZH *"KOREA EXCHANGE ACTIVATES SIDECAR TO HALT KOS
   to stage 5 and the "stages 1-3 only" read from this morning is obsolete. If it is duration/macro-led,
   it is the FAST CHANNEL again (rates → multiple), bypassing 3-5.** 🚩 **CHECK: SK Hynix and Samsung
   vs the KOSPI index today. That single comparison assigns this event to a stage.**
+
+### 2026-08-21 ~10:45am PDT — ⭐⭐⭐⭐⭐ **THE FMS CASH LEVEL IS THE LOAD-BEARING NUMBER, NOT THE 8.0 SENTIMENT READING — AND IT IS A *CLEANER* INSTRUMENT THAN THE BCA CASH RATIO THIS NOTE ALREADY HOLDS AT `:L869`, BECAUSE IT IS A PORTFOLIO WEIGHT AND NOT A RATIO TO AN EXPLODING DENOMINATOR.** ⛔ And the chart is asymmetric: its troughs are buys, its peaks are not reliably tops
+Source: BofA Global Fund Manager Survey via Jake, 2026-08-21. **180 participants, $525B AUM.**
+**⟲ EXTENDS `:L869`** (the BCA cash-on-the-sidelines denominator work) and [[concentration]]`:L76` (MMF).
+
+#### DATA (REPORTED — BofA FMS, August 2026)
+- **Sentiment index 8.0, +0.8 MoM — 3rd-highest since 2022.** (growth expectations + cash AA + equity AA)
+- **⭐ CASH ALLOCATION 3.5%, −0.1pp MoM — 6th-LOWEST since the survey began in 1998.**
+- **56% OVERWEIGHT EQUITIES — highest since November 2021.** **14th consecutive month of bullish positioning.**
+- **37% expect DOUBLE-DIGIT global EPS growth over the next 12 months — highest since August 2021.**
+
+#### ⛔ FIRST, THE INSTRUMENT'S OWN BASE RATE — read off the chart's own labels
+- **LABELLED TROUGHS: 9/11 · Iraq war · GFC · US/EU debt crisis · CNY deval · trade war · COVID · SVB ·
+  trade war.** **Every one was a buy.**
+- **LABELLED PEAKS: QE1 (2009) · BRICS (2013) · tax cuts (2017) · blue wave (2021) · Trump 2.0 (2025) ·
+  tax cuts (2026) · Aug'26.** ⇒ **⛔ QE1 AND BRICS PRECEDED MULTI-YEAR RALLIES. Only the 2021 peak was a
+  top.**
+- ⇒ **★★★ THE GAUGE IS ASYMMETRIC: EXCELLENT AT BOTTOMS, POOR AT TOPS — and the chart's own annotations
+  demonstrate it.** ⇒ **"Sentiment is at 8.0 therefore top" is a read the instrument's own history does
+  not support.** ⚠️ **This is the extrapolation the chart invites and it should be refused.** *(Analysis.)*
+
+#### ★★★★★★ THE CASH NUMBER IS THE ONE THAT MATTERS, AND IT SURVIVES THE DENOMINATOR TRAP THAT KILLED THE LAST ONE
+- **`:L869` (BCA, 7/24): US investable cash as a % of equity market cap at a record low ~25%.** **This
+  note KILLED that as a signal: *"the ratio is at a record low because EQUITY MARKET CAP grew faster than
+  the money stock… the metric measures the RATIO, not the thing its name claims."***
+- ⇒ **⭐ THE FMS NUMBER IS NOT THAT. 3.5% IS CASH AS A SHARE OF THE MANAGERS' *OWN AUM* — A PORTFOLIO
+  WEIGHT, CHOSEN BY THE MANAGER, WITH NO MARKET-CAP DENOMINATOR IN IT.** ⇒ **The 7/24 objection does not
+  apply, and that makes this the cleaner of the two instruments.** *(Analysis. The vault killed one cash
+  metric on a denominator flaw and should not reflexively kill this one — they are different objects.)*
+- **⇒ AND THE MECHANISM IS NOT "CASH COMES IN," WHICH `:L869` CORRECTLY DEBUNKED (*"the buyer's cash
+  becomes the SELLER's cash"*). IT IS THE OPPOSITE DIRECTION: A MANAGER MOVING FROM 3.5% TO 5% CASH MUST
+  **SELL**.** ⇒ **★★★ LOW FMS CASH DOES NOT MEAN BUYERS ARE COMING. IT MEANS THERE IS NO BUFFER BEFORE
+  SELLING STARTS.** ⇒ **That is the equity-side version of [[financing-fragility-gauge]] CHANNEL 15 —
+  depth of the bid — and it reads THIN.** *(Analysis. This is the entry's finding.)*
+- **✅ AND IT CONFIRMS FROM THE OTHER SIDE WHAT THE MMF PRINT SAID TWO DAYS AGO** ([[concentration]]`:L76`):
+  **money-market assets rebuilding toward $7.93T while professional equity cash sits at 3.5%.**
+  ⇒ **THE ENTITY HOLDING THE CASH IS NOT AN EQUITY BUYER, AND THE EQUITY BUYERS HAVE NO CASH.**
+  ⇒ **Two independent surveys, opposite pools, same conclusion: no equity dry powder.** *(Analysis.)*
+
+#### ⭐⭐ TWO SECOND-ORDER READS THAT BEAT THE HEADLINE
+- **THE 14 CONSECUTIVE MONTHS IS MORE INFORMATIVE THAN THE LEVEL. A single high print is a mood; 14 months
+  is STRUCTURAL positioning.** ⇒ **Structural positioning is SLOW TO REVERSE, which is what makes it
+  fragile — it cannot be unwound as a trade, only as a liquidation.**
+- **⭐ AND 37% EXPECTING DOUBLE-DIGIT GLOBAL EPS GROWTH IS THE LOAD-BEARING EXPECTATION, NOT THE ALLOCATION.**
+  ⇒ **That is precisely the variable the financing thesis puts at risk: if the AI capex cycle is funded by
+  borrowing that is repricing, the earnings justifying a 56% overweight are the ones that do not arrive.**
+  ⇒ **✅ AND IT MAPS EXACTLY ONTO [[transmission-chain]]'s OWN READING: the shock sits at stages 1-3 while
+  4-5 still accelerate. FUND MANAGERS ARE POSITIONED FOR 4-5 TO KEEP ACCELERATING.** ⇒ **They are on the
+  right side of the CURRENT data and the wrong side of the LEADING data — which is the literal definition
+  of "the lagging half is where everything bullish is measured."** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩 **FMS CASH AS A TRACKED MONTHLY SERIES.** **3.5% now, 6th-lowest since 1998. It is monthly, free,
+   and it is the cleanest available proxy for equity-side bid depth.** **The vault has never tracked it.**
+2. 🚩 **THE 14-MONTH STREAK — when does it break?** **A single month of rising cash allocation after 14
+   months is a bigger event than the level, because it means the structural position started unwinding.**
+3. ⬜ **The FMS's own top-vs-bottom hit rate, properly measured** — the base-rate reading above is off the
+   chart's ANNOTATIONS, not off a computed forward-return study. **Asymmetry claimed, not measured.**
+**Links:** [[financing-fragility-gauge]] · [[concentration]] · [[transmission-chain]] · [[buying-at-highs]]

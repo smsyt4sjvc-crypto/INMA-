@@ -1,6 +1,6 @@
 # ⏱ KOREA — merged timeline (the gate)
 
-> **115 dated entries across 1 notes · 2026-07-01 → 2026-08-19 · refreshed 2026-08-21 19:55 PDT**
+> **116 dated entries across 1 notes · 2026-07-01 → 2026-08-21 · refreshed 2026-08-21 19:57 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -131,3 +131,4 @@
 - `2026-08-16` [market-fragility.md:L4158](../market-fragility.md) — DATA (MEASURED — Yahoo/CBOE pulls, close arrays not `meta`, 2026-08-16 ~7:25pm PDT)
 - `2026-08-16` [market-fragility.md:L4206](../market-fragility.md) — 2026-08-16 ~10:20pm PDT — ⛔ THE VAULT'S OWN 8/05 LEDGER CORRECTS THE RECOLLECTION ("there wasn't, of course") — **SOMETHING DID PRINT: IRAN'S FOREIGN 
 - `2026-08-19` [market-fragility.md:L4259](../market-fragility.md) — 2026-08-19 ~5:11am KST (2026-08-18 ~1:11pm PDT) — ⛔ **"SIDECAR ACTIVATED" READS LIKE A CRASH; THE ARC SAYS GIVE-BACK. KOSPI 6,441.39 (−6.24%) IS **+15
+- `2026-08-21` [market-fragility.md:L4311](../market-fragility.md) — 2026-08-21 ~10:45am PDT — ⭐⭐⭐⭐⭐ **THE FMS CASH LEVEL IS THE LOAD-BEARING NUMBER, NOT THE 8.0 SENTIMENT READING — AND IT IS A *CLEANER* INSTRUMENT THAN
