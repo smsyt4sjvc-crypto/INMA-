@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **106 dated entries across 3 notes · 2026-07-09 → 2026-08-19 · refreshed 2026-08-21 10:40 PDT**
+> **107 dated entries across 3 notes · 2026-07-09 → 2026-08-21 · refreshed 2026-08-21 18:45 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -122,3 +122,4 @@
 - `2026-08-18` [war-board.md:L2819](../war/war-board.md) — 2026-08-18 ~2:00pm PDT — ✅✅✅ **THE WINDWARD LIVE DASHBOARD IS FETCHABLE — RETIRING A STANDING VAULT LIMITATION THAT HAD US RUNNING ON MARCH-VINTAGE DA
 - `2026-08-18` [war-board.md:L2875](../war/war-board.md) — 2026-08-18 ~3:00pm PDT — ⭐⭐⭐ **THE FULL WINDWARD DAILY (90-page PDF) UPDATES THE GULF FLEET SERIES LAST MEASURED 31 JULY: 791 → 971 VESSELS (+22.8%) I
 - `2026-08-19` [war-board.md:L2757](../war/war-board.md) — 2026-08-19 (UAE time; ~2026-08-18 PDT) — ★★★★★★ **THE UAE HALTS *ALL* TRADE, COMMERCIAL EXCHANGE AND FINANCIAL TRANSACTIONS WITH IRAN. ⛔ THIS INVERTS 
+- `2026-08-21` [buildout-bottleneck-map.md:L1009](../buildout-bottleneck-map.md) — 2026-08-21 ~10:00am PDT — ⭐⭐⭐⭐ **THE BEST SUPPLIER MAP THE VAULT HAS ON OPTIMUS — NAMED VENDORS, TICKERS, ORDER SIZES AND PER-ROBOT CONTENT. ⛔ AND IT 
