@@ -1108,6 +1108,40 @@ Fremont tour note. Per-claim citations present. Independently verified by the va
   OF ACTUAL OPTIMUS PRODUCTION IN IT.** ⇒ **Order ≠ delivery ≠ revenue, and the ladder was built for
   exactly this.** *(Analysis.)*
 
+#### ⛔ CORRECTION 2026-08-21 ~10:20am — **JAKE IS RIGHT AND I MIS-SORTED THE ONE ITEM THAT CLEARS THE LADDER: PHYSICAL RETOOLING IS NOT A TARGET.**
+**Jake: *"They're revamping 2 entire production lines for Optimus. It's underway. That's a signal of clear
+intention."*** ⚠️ **Small correction to the names: the document says MODEL S/X, not S/Y — Model Y is
+Tesla's volume vehicle and is not being converted. That distinction matters below.**
+- **⛔ I WROTE "there is not one unit of actual production in it" AND THEN TREATED RETOOLING AS PART OF THE
+  SPECULATIVE PILE. THAT IS WRONG BY THIS VAULT'S OWN LADDER.** **Physical line conversion is the direct
+  analogue of *"customer-funded substation/transmission filing: HARD PHYSICAL CAPEX IS MOVING"*
+  ([[power-scarcity-equities]]`:L149`) — which sits NEAR THE BOTTOM of the ladder, i.e. among the LEAST
+  speculative rungs.** ⇒ **A framework order is reversible. A converted assembly line is not.**
+- **✓ AND THE SOURCE GRADE IS HIGH: JPMorgan analysts PHYSICALLY TOURED FREMONT and reported it. That is
+  eyewitness observation by a party with no promotional incentive — not a company press release.**
+- **⇒ ⭐⭐⭐ AND THE STEELMAN IS STRONGER THAN EITHER ITEM ALONE: THE RETOOLING AND THE SANHUA ORDER ARE THE
+  SAME COMMITMENT SEEN FROM TWO ENDS, AND THEIR TIMELINES AGREE.** **Sanhua: ~180k robots of actuator
+  content, deliveries beginning Q1-2026. Tesla: S/X production ended May-2026, ~4-month conversion,
+  Optimus Academy 2H26.** ⇒ **A supplier building inventory and a customer rebuilding a factory, on the
+  same calendar, are two INDEPENDENT physical commitments pointing at one date.** **That is corroboration,
+  and it is the best evidence in the file.** *(Analysis. Conceded and upgraded.)*
+
+#### ⚠️ WHAT IT DOES AND DOES NOT ESTABLISH — the distinction I collapsed
+- **✅ IT ESTABLISHES INTENT, AND INTENT BACKED BY IRREVERSIBLE CAPEX IS THE STRONGEST FORM OF IT.**
+  **What a company DOES beats what it SAYS, and Tesla is doing.**
+- **⛔ IT DOES NOT ESTABLISH VOLUME, AND VOLUME IS WHAT THE MAGNET DISCONFIRMER AT `:L867` IS ABOUT.**
+- **⚠️ AND THE CHOICE OF LINE IS THE CALIBRATION: S/X WERE TESLA'S LOWEST-VOLUME PRODUCTS, ALREADY
+  DISCONTINUED. Tesla retooled the capacity it was ABANDONING ANYWAY.** ⇒ **A genuine, irreversible
+  commitment made at the LOWEST AVAILABLE OPPORTUNITY COST.** ⇒ **Strong evidence of intent; weak evidence
+  of scale. Converting a Model Y line would be the signal that changes the volume question, and that is
+  not what is happening.** *(Analysis.)*
+- **⬜ THE NUMBER THAT WOULD CONVERT INTENT INTO VOLUME IS THE INSTALLED CAPACITY OF THE RETOOLED LINE, AND
+  IT IS NOT IN THE DOCUMENT.** ⚠️ **And it cannot be inferred from the old vehicle capacity — robot takt
+  time, station count and line balance are unrelated to car assembly.**
+- **⇒ ★★★ SO BOTH READINGS SURVIVE AND THEY ANSWER DIFFERENT QUESTIONS: *is Tesla serious* — YES, on
+  physical evidence, and I under-weighted it. *Does the magnet chokepoint bind in 2026* — STILL NO, on
+  6,579 disclosed units. The chokepoint binds when robots SHIP, not when lines are BUILT.**
+
 #### ⇒ SO WHAT IS ACTUALLY INVESTABLE, GIVEN BOTH
 - **✓ THE MAP IS REAL AND VALUABLE — as a WATCHLIST, not a thesis.** **Sanhua, Tuopu, Green Harmonic,
   Zhenyu, Wuzhou Xinchun are the named motion-control chokepoints; JL Mag / Zhong Ke San Huan / Ningbo

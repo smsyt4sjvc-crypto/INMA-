@@ -1,6 +1,6 @@
 # ⏱ SEMIS — merged timeline (the gate)
 
-> **43 dated entries across 2 notes · 2026-07-09 → 2026-08-21 · refreshed 2026-08-21 18:45 PDT**
+> **44 dated entries across 2 notes · 2026-07-09 → 2026-08-21 · refreshed 2026-08-21 19:55 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -59,3 +59,4 @@
 - `2026-08-13` [ai-infra-allocation-map.md:L319](../ai-infra-allocation-map.md) — 2026-08-13 ~1:20pm PDT — 📊 FOUR THREADS RANKED BY **EVIDENCE QUALITY** ON A 3-MONTH WINDOW — and the table surfaces a pair that contradicts one of thi
 - `2026-08-13` [ai-infra-allocation-map.md:L323](../ai-infra-allocation-map.md) — DATA (Yahoo chart API, 2026-08-13 ~1:15pm PDT — group medians)
 - `2026-08-21` [buildout-bottleneck-map.md:L1009](../buildout-bottleneck-map.md) — 2026-08-21 ~10:00am PDT — ⭐⭐⭐⭐ **THE BEST SUPPLIER MAP THE VAULT HAS ON OPTIMUS — NAMED VENDORS, TICKERS, ORDER SIZES AND PER-ROBOT CONTENT. ⛔ AND IT 
+- `2026-08-21` [buildout-bottleneck-map.md:L1063](../buildout-bottleneck-map.md) — ⛔ CORRECTION 2026-08-21 ~10:20am — **JAKE IS RIGHT AND I MIS-SORTED THE ONE ITEM THAT CLEARS THE LADDER: PHYSICAL RETOOLING IS NOT A TARGET.**
