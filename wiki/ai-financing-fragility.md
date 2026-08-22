@@ -6876,9 +6876,13 @@ Source: ZeroHedge citing Bloomberg, 2026-08-20 → `raw/2026-08-20-avgo-spv/avgo
 ⚠️ **REPORTED, deal "still being ironed out," sourced to people who "asked not to be identified because
 the information is private." NOT a filing. No 8-K.**
 
+    ⟲ SIZE SUPERSEDED 2026-08-22 → hyperscaler-credit.md (8/22 entry) — CNBC 8/21 sources put the deal at
+    "upwards of $70B" and the tranche split at ~$45B senior / ~$35B junior. "$100B" was the TOP of a fluid
+    range and the sourced number has come DOWN. Thesis and guarantee mechanism unchanged; only the size is.
+
 #### DATA (REPORTED)
 - **>$60B senior debt + a ~$30B JUNIOR tranche ⇒ potentially ~$100B total. "Would make it the LARGEST SPV
-  DEAL EVER FUNDED."**
+  DEAL EVER FUNDED."** ⟲ **REVISED 8/21: ~$45B senior / ~$35B junior; "upwards of $70B" (CNBC).**
 - **⭐ BROADCOM WOULD *GUARANTEE* A PORTION OF THE SENIOR-SECURED TRANCHE, "which could range from about
   $60 BILLION TO $70 BILLION."**
 - **Beneficiary: ANTHROPIC PBC and other companies.** **Senior tranches structured "to win INVESTMENT-GRADE
