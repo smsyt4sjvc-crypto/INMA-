@@ -1065,6 +1065,7 @@ Fremont tour note. Per-claim citations present. Independently verified by the va
   linear units per robot** · 20 harmonic reducers per robot · 30+ screws per robot.
 - **ORDERS, with sizes — the genuinely new layer:**
   **SANHUA (SZSE 002050): ~$685M (≈RMB 5bn) actuator order Oct-2025, deliveries from Q1-2026, "enough
+    ⟲ SUPERSEDED 2026-08-22 → buildout-bottleneck-map.md:L1160 — SANHUA DENIED IT 2025-10-15: 'the rumour of a large robot order is not true', no undisclosed material matters. Filed as a confirmed order; it is a denied rumour, and 10 months stale
   content for ~180,000 robots"; >$2,000/robot content; RMB 5.4B mass-production orders; Mexico base.**
   **TUOPU (SSE 601689): RMB 4bn framework — lower-limb actuators + dexterous-hand drives, Ningbo +
   Mexico, 200k-unit line, Gen3 through late 2027.**
@@ -1158,8 +1159,78 @@ Tesla's volume vehicle and is not being converted. That distinction matters belo
 1. 🚩🚩🚩 **ACTUAL OPTIMUS UNITS PRODUCED — the number that decides everything here, and nobody has it.**
    **Baseline: industry 6,579 disclosed units in 2025; Sanhua's order implies 180,000.** **Watch Tesla's
    quarterly production/delivery disclosures for an Optimus line item.**
+     ⟲ SUPERSEDES buildout-bottleneck-map.md:L1067 — SANHUA DENIED IT 2025-10-15: 'the rumour of a large robot order is not true', no undisclosed material matters. Filed as a confirmed order; it is a denied rumour, and 10 months stale
 2. 🚩🚩 **HARMONIC DRIVE SYSTEMS (TSE 6324) MARGINS vs THE 30-40% UNDERCUT.** ⬜ **The one liquid Western
    read-across in the document, and it is a SHORT-side fact, not a long one.**
 3. 🚩 **DOES THE SANHUA ORDER GET DRAWN?** **Deliveries began Q1-2026 per the report. Sanhua's own
    disclosed revenue would show it.** ⇒ **Order-to-revenue conversion is the ladder rung that matters.**
 **Links:** [[physical-ai-hardware-stack]] · [[ai-infra-allocation-map]] · [[_calibration]] · [[compression-thesis]]
+
+---
+
+### 2026-08-22 ~9:30am PDT — ⛔⛔⛔ **THE SANHUA RMB 5bn / $685M / 180,000-ROBOT ORDER IS A RUMOUR THE COMPANY PUBLICLY DENIED ON 2025-10-15. THE VAULT FILED IT AS A CONFIRMED ORDER, I BUILT THE ENTRY'S HEADLINE ARGUMENT ON IT, AND I REPEATED IT TO JAKE THIS MORNING.**
+**Jake's catch.** Source: Sanhua 三花智控 (SZSE 002050) announcement 2025-10-15, corroborated across
+财联社 · 腾讯新闻 ×2 · 网易 · 南方都市报 · 21经济网 → `raw/2026-08-22-sanhua-denial/`.
+**⟲ SUPERSEDES `:L1067`.**
+
+#### ⛔ WHAT SANHUA ACTUALLY SAID
+- **「关于获得机器人大额订单的传言不属实」 — "the rumour that the company obtained a large robot order
+  is NOT TRUE."** **Plus: NO material undisclosed matters requiring disclosure.**
+- **The rumour it denied matches the vault's filed line almost word for word: Tesla Optimus LINEAR
+  ACTUATOR order · ~RMB 5bn (≈US$685M) · deliveries from Q1-2026 · content for ~180,000 units.**
+- **⚠️ AND THE MARKET EFFECT IS THE TELL I SHOULD HAVE LOOKED FOR: the rumour put Sanhua's A-shares
+  LIMIT-UP (涨停).** ⇒ **A claim large enough to limit-up a stock is large enough to compel a
+  clarification — and it got one, the same night ("深夜紧急澄清").**
+- **⚠️ Its securities department separately said the robot business was "progressing smoothly" while
+  declining to comment on the rumour.** ⇒ **That is a NON-DENIAL of the business and a DENIAL of the
+  ORDER. Do not let the first sentence launder the second.**
+
+#### ⛔⛔ THE THREE FAILURES, IN ORDER OF SEVERITY
+1. **⛔ I BUILT THE ENTRY'S BEST LINE ON IT.** `:L1112` reads: *"SANHUA'S $685M ORDER IS 'ENOUGH CONTENT
+   FOR ~180,000 ROBOTS'… THE SINGLE ORDER IS ~27× THE WHOLE INDUSTRY'S ANNUAL OUTPUT."* ⇒ **THAT
+   ARGUMENT IS VOID. Its numerator does not exist.** ⚠️ **The CONCLUSION it supported — that humanoid
+   volumes are a rounding error — survives on the 6,579-unit denominator alone, which is independent.
+   But the rhetorical force came from a phantom.**
+2. **⛔ I REPEATED IT TO JAKE THIS MORNING, unflagged, in a printed summary he asked for.** ⇒ **The
+   vault's job is to hold what is true; it handed back a denied rumour with a dollar sign on it.**
+3. **⛔ THE DOCUMENT'S "ORDERS, WITH SIZES" LAYER — WHICH I EXPLICITLY CALLED "THE GENUINELY NEW
+   LAYER" — IS THE EXACT LAYER THAT FAILED.** ⇒ **The thing that made the document feel valuable is
+   the thing that was wrong.**
+
+#### ⛔ AND THE DATE IS ITS OWN LESSON: THIS WAS TEN MONTHS STALE ON ARRIVAL
+- **The order rumour AND its denial are both from OCTOBER 2025. The document presented the order as
+  current in AUGUST 2026 and omitted the denial entirely.**
+- ⇒ **★★★ AN AGGREGATOR THAT REPEATS A RUMOUR WITHOUT ITS RESOLUTION IS WORSE THAN NO SOURCE, BECAUSE
+  IT LAUNDERS AGE INTO NOVELTY.** ⇒ **🚩 NEW CHECK, and it is cheap: FOR ANY "ORDER" SOURCED TO
+  AGGREGATED MEDIA, SEARCH THE COMPANY'S OWN DISCLOSURES FOR A CLARIFICATION — Chinese listed
+  companies are REQUIRED to issue one (澄清公告) when a rumour moves the stock.** **The limit-up IS
+  the trigger that generates the correction. Look for it.**
+
+#### ⛔⛔ CONTAGION — EVERY OTHER ORDER IN THAT DOCUMENT NOW CARRIES THE SAME DOUBT
+**All from the same aggregated secondary set (SCMP, 36Kr, Chosun, Global Times, Substack, LinkedIn,
+Reddit/X). Independent verification by this vault: still NONE. Each is now ⚠️ UNVERIFIED-RUMOUR-CLASS
+until a company disclosure is found:**
+| claim | status |
+|---|---|
+| **SANHUA RMB 5bn / 180k robots** | **⛔ DENIED BY THE COMPANY 2025-10-15** |
+| TUOPU (601689) RMB 4bn framework | ⚠️ **UNVERIFIED — check for a 澄清公告** |
+| GREEN HARMONIC (688017) "primary/SOLE reducer supplier"; 500k/yr Suzhou | ⚠️ **UNVERIFIED — "sole supplier" is exactly the shape of claim that gets denied** |
+| ZHENYU (300953) "Tier-0.5 candidate" | ⚠️ **Self-evidently speculative — "candidate" is not a relationship** |
+| WUZHOU XINCHUN (603667) leg/waist + ball screws | ⚠️ **UNVERIFIED** |
+- **✅ WHAT SURVIVES UNTOUCHED, because it has a different and better source:** **the JPMorgan
+  FREMONT TOUR — S/X lines being converted to Optimus equipment.** ⇒ **Eyewitness observation by a
+  party with no promotional incentive, and the one item that cleared this vault's capex ladder.**
+  **Jake's retooling correction of 8/21 STANDS and is now the ONLY hard evidence in the file.**
+- ⇒ **⛔ BUT THE 8/21 "CORROBORATION" ARGUMENT IS DEAD: I wrote that the Sanhua order and the Fremont
+  retooling were "the same commitment seen from two ends, and their timelines agree… two INDEPENDENT
+  physical commitments pointing at one date."** ⇒ **ONE OF THE TWO ENDS DOES NOT EXIST. There is no
+  corroboration — there is one observation.** **⟲ That paragraph at `:L1125` is void.**
+
+#### ⇒ ★★ WHAT THE VAULT NOW HOLDS ON THE OPTIMUS SUPPLY CHAIN, HONESTLY STATED
+- **✅ Tesla is physically converting the Model S/X lines at Fremont (JPMorgan, eyewitness).**
+- **✅ China holds ~69% RE mining / ~90% processing / ~93% permanent magnets** (IEA/Bernstein exhibits,
+  `:L688-706`) — **structural, well-sourced, unaffected.**
+- **✅ Humanoid magnet demand is ~0.01% of Chinese capacity on 6,579 disclosed 2025 units** (`:L867`) —
+  **unaffected; this was always a denominator argument.**
+- **⛔ THE ENTIRE CHINESE SUPPLIER-ORDER LAYER IS NOW UNVERIFIED, AND ITS HEADLINE ITEM IS FALSE.**
+- ⇒ **THE MAP REMAINS A WATCHLIST OF NAMES. IT IS NOT A LEDGER OF ORDERS, AND I PRESENTED IT AS ONE.**

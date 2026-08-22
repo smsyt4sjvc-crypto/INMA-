@@ -669,3 +669,28 @@ above it, which demoted MOVE to a gap.**
 - ⇒ **★ THE GENERAL RULE, now enforced in code rather than remembered: A QUOTE PAGE'S RELATIVE WORDS
   ("today", "now", "live") ARE NEVER THE DATE. Read the stamp, and on a weekend assume the LAST
   CLOSE.**
+
+---
+
+## 2026-08-22 — 🚩🚩🚩 **NEW STANDING CHECK: A CHINESE-LISTED COMPANY MUST ISSUE A 澄清公告 (CLARIFICATION ANNOUNCEMENT) WHEN A RUMOUR MOVES ITS STOCK. THE LIMIT-UP IS THE TRIGGER THAT GENERATES THE CORRECTION — SO GO LOOK FOR IT.**
+Origin: Jake caught the vault carrying Sanhua's denied RMB 5bn Optimus order as fact
+([[buildout-bottleneck-map]] 2026-08-22).
+
+- **THE MECHANISM, and it is free leverage: exchange rules oblige SSE/SZSE/STAR issuers to publicly
+  clarify market rumours that materially move the price.** ⇒ **A rumour big enough to be worth
+  repeating is big enough to compel a denial.** ⇒ **★ THE BIGGER THE HEADLINE NUMBER, THE MORE
+  CERTAIN A CLARIFICATION EXISTS — the check gets EASIER exactly where the risk is highest.**
+- **⇒ THE PROCEDURE, before filing any China-sourced order/contract claim:**
+  1. **Search the company name + 澄清 / 传言不属实 / 辟谣 + the rumoured figure.**
+  2. **Search in CHINESE. The denial is filed domestically and often never reaches English-language
+     aggregators — which is precisely how a dead rumour survives in translation.**
+  3. **Check the DATE of the original claim. The Sanhua rumour and its denial were both October 2025;
+     the document presented the order as current in August 2026 and omitted the denial.**
+- **⛔ AND THE GENERAL FORM: AN AGGREGATOR THAT REPEATS A RUMOUR WITHOUT ITS RESOLUTION LAUNDERS AGE
+  INTO NOVELTY.** ⇒ **The vault's evidence ladder already grades ANNOUNCED vs FID and REPORTED vs
+  MEASURED. It did not have a rung for CLAIMED-AND-SUBSEQUENTLY-DENIED, which reads exactly like
+  REPORTED unless you look.** 🚩 **Add it: ⛔ DENIED sits BELOW rumour, because it carries a company's
+  own on-record contradiction.**
+- **⚠️ AND A TRAP INSIDE THE DENIAL ITSELF: Sanhua's securities desk said the robot business was
+  "progressing smoothly" while refusing to comment on the rumour.** ⇒ **A warm sentence about the
+  BUSINESS is not a confirmation of the ORDER. Do not let the first launder the second.**
