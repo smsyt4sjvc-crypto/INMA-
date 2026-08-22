@@ -453,3 +453,14 @@ python3 tools/vault_find.py "data centre" --days 30
   month without breaking anything.** ⬜ **Not done — proposed, not executed.**
 - **THE PRINCIPLE:** *organise storage by IDEA, retrieve by ENTITY. Folders are exclusive; the questions
   are not.*
+
+### DAILY: THE FRAGILITY LADDER (run it before answering any "is credit cracking" question)
+`python3 tools/fragility.py`  — scores 16 public credit/funding series against their own
+3-year history and prints which of the 7 transmission stages are lit. Refresh first with
+`python3 tools/fragility_feed.py` (~90s). Page: `docs/index.html`. Data: `data/fragility/`.
+- **NO ABSOLUTE THRESHOLDS.** Everything is a percentile against its own history, and
+  trending series are scored on RATE OF CHANGE ONLY.
+- **⛔ A GAP IS NOT A CALM ROW.** CDX IG/HY, swap spreads and single-name CDS have NO free
+  source and are listed as GAPS. Two of them are where AI-complex stress would appear FIRST.
+  Never report "the ladder is calm" without naming what the ladder cannot see.
+- **⚠️ CHECK THE STALE FLAGS.** A stale number that looks calm is the most dangerous cell.
