@@ -191,16 +191,16 @@ INVERTED = {"ci_all", "ci_large", "ci_small", "cre_all", "cre_large",
             "cre_small", "dep_large", "dep_small"}
 
 GAPS = [
-    {"chart": 4,  "name": "MOVE index — DEMOTED TO A GAP 2026-08-22",
-     "why": "Yahoo's ^MOVE endpoint 429s from BOTH this container AND GitHub "
-            "runners, so the 'the runner has a cleaner IP' fix does not apply. "
-            "Stooq is JS-gated; FRED's VXTYN (implied Treasury vol) was "
-            "DISCONTINUED in May 2020; MOVE itself is ICE BofA proprietary. "
-            "It was left as a live row frozen at 73.40 (2026-08-21) reading "
-            "CALM — the exact 'stale number that looks calm' this vault warns "
-            "about. Stage 4 now runs on the 10Y REALIZED-vol proxy alone: "
-            "realized is not implied, and implied leads.",
-     "status": "NO FREE SOURCE FOUND — proxy only"},
+    {"chart": 4,  "name": "MOVE index — AGENT-FETCHED, NOT IN THE CRON",
+     "why": "Every curl route 429s/403s from a datacentre IP (Yahoo from both "
+            "this container AND GitHub runners, CNBC, WSJ; Stooq is JS-gated; "
+            "FRED's VXTYN died in May 2020). But WebFetch DOES reach Yahoo's "
+            "quote page — it is a different fetcher, not this container's curl. "
+            "So MOVE is a LIVE ROW that Claude refreshes in-session via "
+            "tools/move_manual.py, and the weekday cron CANNOT refresh it. "
+            "Expect it to lag on any day Claude was not asked. The STALE flag "
+            "is the honest signal that it did.",
+     "status": "LIVE — but agent-refreshed, never cron-refreshed"},
     {"chart": 3,  "name": "CDX IG / CDX HY",
      "why": "Markit/S&P proprietary. No free feed exists. The ICE cash-bond OAS "
             "series (charts 1-2) answer the same question more slowly.",

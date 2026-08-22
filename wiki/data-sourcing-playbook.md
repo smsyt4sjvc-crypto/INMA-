@@ -581,3 +581,45 @@ Source: `raw_meta.json` at commit `a5d3447`, the first GitHub Actions run. Jake 
 - 🚩 **REGISTERED: an implied-rates-vol substitute.** **Candidates not yet tested: CME Treasury
   options settlement data · swaption vol from any public source · a VIX-style construction from
   TLT/IEF listed options.** **Until one lands, do not describe stage 4 as instrumented.**
+
+---
+
+## 2026-08-22 (same hour) — ⛔⛔ **I DECLARED MOVE "NO FREE SOURCE" AND BUILT A MANUAL PIPELINE AROUND IT WITHOUT TRYING WEBFETCH. WEBFETCH REACHES IT. JAKE ASKED "can you not literally just search it by query?" AND HE WAS RIGHT.**
+Source: WebFetch on `finance.yahoo.com/quote/%5EMOVE`, 2026-08-22. **⟲ SUPERSEDES the entry directly
+above it, which demoted MOVE to a gap.**
+
+#### ⛔ THE ERROR, AND IT IS A NEW CLASS
+- **I tested SIX curl routes** (Yahoo ×2, Stooq ×2, CNBC, WSJ, Nasdaq, FRED VXTYN) **and concluded
+  "no free source exists."** ⇒ **⛔ I TESTED SIX VARIATIONS OF ONE TOOL AND CALLED IT AN EXHAUSTIVE
+  SEARCH.** **WebFetch is a DIFFERENT FETCHER — it is not this container's curl and does not carry
+  its IP — and I never tried it.**
+- ⇒ **🚩 ERROR CLASS 7: EXHAUSTING VARIATIONS OF ONE TOOL AND CALLING IT EXHAUSTING THE OPTIONS.**
+  **Error class 6 (8/22, earlier) said "vary the transport before declaring a source unreachable."
+  I varied the UA, the HTTP version, the host and the endpoint — but never the TOOL.** ⇒ **The
+  checklist must name the tools, not just the parameters: curl · WebFetch · WebSearch · a runner ·
+  a browser · Jake's own device.**
+- **⇒ AND THE COST WAS NOT ZERO: I built `move_manual.py` and a Colab route-tester on the premise
+  that a HUMAN had to be the fetcher.** **The tool survives and is still correct — but its operator
+  is CLAUDE, not Jake, and I had him do a lookup I could have done myself.**
+
+#### ✅ THE VERIFICATION, WHICH IS UNUSUALLY CLEAN
+| | WebFetch page | stored move.csv | match |
+|---|---|---|---|
+| **2026-08-20** | **73.18** | **73.18** | ✅ exact |
+| **2026-08-19** (stated prev close) | **71.26** | **71.260002** | ✅ exact |
+| **2026-08-21** | *(page was delayed to 8/20)* | **73.40** | ✅ = Jake's phone read |
+- **✅ AND THE QUOTE-HEADER RECONCILIATION TEST PASSES:** `73.18 − 1.92 = 71.26`, matching the
+  stated previous close exactly; `1.92/71.26 = 2.69%` matches the stated percent. ⇒ **All three
+  header fields belong to the same session. This is the test that caught the MRNA error on 8/19,
+  and it is the reason this quote can be trusted.**
+- **⚠️ THE PAGE WAS DELAYED — it served Aug 20 while Aug 21 had already printed.** ⇒ **WebFetch on a
+  delayed quote page gives yesterday, not today. Read the "last updated" field EVERY time; do not
+  assume the top number is current.**
+
+#### ⇒ THE CORRECTED STATUS, WHICH IS NEITHER "LIVE" NOR "GAP"
+- **MOVE IS A LIVE ROW THAT THE CRON CANNOT REFRESH.** **WebFetch works in-session; the weekday
+  GitHub Action cannot call it.** ⇒ **It will lag on any day Claude is not asked, and the STALE
+  flag is the honest signal that it did.** **Cadence set to 5 days so a normal weekend does not
+  trip it.**
+- **★ THE GENERAL LESSON: "unreachable from the container" ≠ "unreachable." The container is ONE
+  caller among several I control.**

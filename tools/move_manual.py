@@ -7,10 +7,15 @@ datacentre IP: Yahoo 429s from this container AND from GitHub runners, CNBC 403s
 WSJ 401s, Nasdaq does not carry it, Stooq is JS-gated, and FRED's VXTYN was
 discontinued in May 2020. MOVE is ICE BofA proprietary and has no free feed.
 
-What is NOT blocked is a residential IP -- i.e. Jake's phone or laptop. So the
-fallback is a human reading one number a day. This tool is what makes that one
-number PERSIST: without it a pasted value is a comment in a chat log, and the
-dashboard stays blind.
+⭐ BUT WebFetch REACHES IT. WebFetch is a different fetcher, not this container's
+curl, and Yahoo's quote page answers it. So the usual operator of this tool is
+CLAUDE, in-session, not Jake -- verified 2026-08-22 against three stored values
+(Aug 20 = 73.18 and Aug 19 = 71.26 both matched the CSV exactly).
+
+⛔ WHAT THIS DOES NOT FIX: the weekday GitHub Action cannot call WebFetch. MOVE
+is therefore a LIVE ROW THAT THE CRON CANNOT REFRESH, and it will lag on any day
+Claude is not asked. The STALE flag is the honest signal that it did. A pasted
+reading from Jake's phone (a residential IP) remains a valid second route.
 
 USAGE
     python3 tools/move_manual.py 2026-08-21 73.40
