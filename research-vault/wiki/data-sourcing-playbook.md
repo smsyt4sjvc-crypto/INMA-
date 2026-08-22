@@ -623,3 +623,22 @@ above it, which demoted MOVE to a gap.**
   trip it.**
 - **★ THE GENERAL LESSON: "unreachable from the container" ≠ "unreachable." The container is ONE
   caller among several I control.**
+
+#### ✅ 2026-08-22 (follow-up) — **JAKE'S GOOGLE SCREENSHOT VALIDATED THE VAULT'S ENTIRE STORED MOVE HISTORY, AND FOUND A BETTER ROUTE**
+- **THE HEADER RECONCILES EXACTLY:** `73.40 − 0.22 = 73.18` vs a stated previous close of **73.18**;
+  `0.22/73.18 = 0.3006%` vs a displayed **0.30%**. ⇒ **All three fields are the same session (Aug 21,
+  4:30pm EDT close).** ⇒ **Confirms the row the vault already held.**
+- **★★★ AND THE 52-WEEK RANGE IS THE REAL PRIZE — IT AUDITS THE WHOLE SERIES AT ITS EXTREMES:**
+| | vault's stored series | Google | |
+|---|---|---|---|
+| **52-week HIGH** | **115.02 on 2026-03-26** | **115.02** | ✅ to the cent |
+| **52-week LOW** | **55.77 on 2026-01-26** | **55.77** | ✅ to the cent |
+- ⇒ **ALL 1,246 STORED ROWS BACK TO 2021-08-23 — the entire series, taken in the single Yahoo pull
+  that succeeded before the 429s began — ARE NOW INDEPENDENTLY CONFIRMED AT BOTH EXTREMES.**
+  ⇒ **★ That history had been carried as UNVERIFIED. A 52-week high/low is a cheap, powerful audit of
+  a long series: it checks the two points that matter most and that a bad pull would corrupt first.**
+  🚩 **GENERALISE IT: whenever a quote page offers a 52-week range, check it against the stored
+  series. It is a free integrity test on years of data.**
+- **⭐ BETTER ROUTE FOUND: `google.com/finance/quote/MOVE:INDEXNYSEGIS` SERVED AUG 21 WHILE YAHOO'S
+  PAGE WAS STILL ON AUG 20.** ⇒ **Google Finance is now the primary WebFetch route; Yahoo is the
+  fallback.** ⚠️ **Google does not display a percent change — compute it, do not quote it.**
