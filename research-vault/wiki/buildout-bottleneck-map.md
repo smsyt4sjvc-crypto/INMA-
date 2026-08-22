@@ -1055,6 +1055,7 @@ Source: `raw/grok-sweep-digest-1-2026-08-09.txt` (item 5). Single Korean-languag
   **Not called on one unscreenshotted post.**
 
 ### 2026-08-21 ~10:00am PDT — ⭐⭐⭐⭐ **THE BEST SUPPLIER MAP THE VAULT HAS ON OPTIMUS — NAMED VENDORS, TICKERS, ORDER SIZES AND PER-ROBOT CONTENT. ⛔ AND IT RUNS STRAIGHT INTO THIS NOTE'S OWN STANDING DISCONFIRMER AT `:L867`, WHICH `_calibration` ALREADY FLAGS AS THE SIDE JAKE UNDER-WEIGHTS.**
+  ⟲ SUPERSEDED 2026-08-22 → buildout-bottleneck-map.md:L1240 — Superseded as the thread's reference entry by the 2026-08-22 consolidated map. Its Fremont/retooling and magnet-mass findings survive INSIDE that consolidation
 Source: Jake's research document, 2026-08-21 → `raw/2026-08-21-optimus-chain/`. **Extracted with the new
 `tools/pdftext.py` — the PDF used subset fonts and the old extractor returned a substitution cipher.**
 ⚠️ **Secondary/aggregated: SCMP, 36Kr, Chosun, Global Times, Substack, LinkedIn, Reddit/X, plus a JPMorgan
@@ -1064,6 +1065,7 @@ Fremont tour note. Per-claim citations present. Independently verified by the va
 - **BOM: ACTUATORS ≈ 56% of the Optimus bill of materials** (Tesla's own comments), **20 rotary + 14
   linear units per robot** · 20 harmonic reducers per robot · 30+ screws per robot.
 - **ORDERS, with sizes — the genuinely new layer:**
+  ⟲ SUPERSEDED 2026-08-22 → buildout-bottleneck-map.md:L1240 — The whole ORDERS layer is retired: its headline was a company-denied rumour and the rest is unverified. The 2026-08-22 consolidated map is the STANDING position for the Optimus supply chain
   **SANHUA (SZSE 002050): ~$685M (≈RMB 5bn) actuator order Oct-2025, deliveries from Q1-2026, "enough
     ⟲ SUPERSEDED 2026-08-22 → buildout-bottleneck-map.md:L1160 — SANHUA DENIED IT 2025-10-15: 'the rumour of a large robot order is not true', no undisclosed material matters. Filed as a confirmed order; it is a denied rumour, and 10 months stale
   content for ~180,000 robots"; >$2,000/robot content; RMB 5.4B mass-production orders; Mexico base.**
@@ -1237,7 +1239,20 @@ until a company disclosure is found:**
 
 ---
 
-### 2026-08-22 ~9:45am PDT — ⚠️⚠️ **THIS DOCUMENT IS A COMPILATION OF *OUR OWN WORKING THREAD*. ROUGHLY HALF OF IT IS THE VAULT'S OUTPUT REFLECTED BACK, AND TREATING IT AS CORROBORATION WOULD BE CIRCULAR. ⭐ WHAT IS GENUINELY EXTERNAL IS THE THAILAND CLUSTER — AND THAT ONE IS GOVERNMENT-APPROVAL GRADE.**
+  ⟲ SUPERSEDES buildout-bottleneck-map.md:L1057 — Superseded as the thread's reference entry by the 2026-08-22 consolidated map. Its Fremont/retooling and magnet-mass findings survive INSIDE that consolidation
+### ★★★ 2026-08-22 — **STANDING POSITION: THE OPTIMUS / MAGNET / PHYSICAL-AI THREAD.** ⛔ **THIS ENTRY IS CANONICAL. IT SUPERSEDES `:L1057` AND `:L1066` AS THE THREAD'S REFERENCE. Read this before any prior Optimus entry; the earlier ones are history, not state.**
+**Jake's intent, stated: *"I just had it put into a clean document so it can kind of supersede and be our current standing and not get conflicted with anything else."*** ⇒ **⛔ I INITIALLY MIS-FRAMED THIS AS AN INBOUND SEEKING CORROBORATION AND GRADED IT FOR INDEPENDENCE. IT IS A CONSOLIDATION SEEKING TO BECOME THE STATE.** ⇒ **For that purpose, the fact that the thread's own conclusions are in it is the POINT, not a defect — a standing position is SUPPOSED to contain what we concluded.** **The provenance split below stays, because it says which parts can be cited as EVIDENCE versus which are our own reasoning — but it is a reading guide, not a demotion.** *(Conceded.)*
+
+#### 🔒 WHAT THE STANDING POSITION IS, IN FIVE LINES
+1. **✅ Tesla is physically converting the Fremont Model S/X lines to Optimus** (JPMorgan eyewitness tour). **Strong evidence of INTENT; weak evidence of VOLUME — S/X were already discontinued, so it cost little. A Model Y conversion is the volume signal, and it is not happening.**
+2. **⛔ THE CHINESE SUPPLIER-ORDER LAYER IS RETIRED.** **Sanhua's RMB 5bn / 180k-robot order was DENIED by the company 2025-10-15; Tuopu, Green Harmonic, Zhenyu and Wuzhou Xinchun are unverified secondary reporting.** **The map is a WATCHLIST OF NAMES, never a ledger of orders.**
+3. **⭐ THE THAILAND BOI CLUSTER IS THE BEST SUPPLIER EVIDENCE THE THREAD HAS** — five Chinese suppliers' first offshore manufacturing, government-approved, ~$302M phase 1. **A− grade: a state agency named Tesla Bot as target; Tesla did not.**
+4. **✅ THE MAGNET CHOKEPOINT IS REAL AND ITS CLOCK IS NOT 2026.** **6,579 disclosed 2025 humanoid units × 3.5-4.0 kg = 23-26 t ≈ 0.01% of Chinese capacity. It binds when robots SHIP, not when lines are BUILT.** **NdPr price action is EVs, wind and defence.**
+5. **⭐ THE INVESTABLE EDGE IS WESTERN MINE-TO-MAGNET CAPACITY BEING RESERVED AND FINANCED AHEAD OF VOLUME** — MP Project Swarm, USAR backlog, Lynas/Japan offtake, and the federal funding stack — **not humanoid unit counts.** ⚠️ **And the vault's own live caveat, which the document omits: MP's $110/kg NdPr floor is NEARLY OUT OF THE MONEY vs ~$104/kg domestic (`:L901`, still OPEN).**
+
+#### ⚠️ PROVENANCE — WHICH PARTS MAY BE CITED AS EVIDENCE
+**THIS DOCUMENT IS A COMPILATION OF *OUR OWN WORKING THREAD*. ROUGHLY HALF OF IT IS THE VAULT'S OUTPUT REFLECTED BACK, AND TREATING IT AS CORROBORATION WOULD BE CIRCULAR. ⭐ WHAT IS GENUINELY EXTERNAL IS THE THAILAND CLUSTER — AND THAT ONE IS GOVERNMENT-APPROVAL GRADE.**
+  ⟲ SUPERSEDES buildout-bottleneck-map.md:L1066 — The whole ORDERS layer is retired: its headline was a company-denied rumour and the rest is unverified. The 2026-08-22 consolidated map is the STANDING position for the Optimus supply chain
 Source: Jake's docx "Optimus Supply-Chain, Magnets & Physical-AI Investability Map," 2026-08-22 →
 `raw/2026-08-22-optimus-map-v2/`. **⟲ EXTENDS `:L1057` and the 8/22 Sanhua supersession.**
 
