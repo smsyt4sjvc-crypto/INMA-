@@ -105,6 +105,7 @@ was measuring the wrong thing, and the thing that DID work (a deep bilateral bid
 | 08-21 | **BofA FMS: cash 3.5%, 56% OW equities, 14th straight bullish month** | **▲** | Equity-side bid depth reads THIN. Low FMS cash doesn't mean buyers are coming — it means **no buffer before selling starts**. Confirms the MMF read from the opposite pool: the cash holder isn't an equity buyer |
 | 08-22 | **AVGO CDS 121.19 — ~20% THROUGH its late-July peak; NVDA 85.37 (+2.8bp in 2 days). AVGO/NVDA traded as ONE credit at ~40bp for 9 months, now 1.42×** | **▲** | The guarantee, not the balance sheet, is being priced — AVGO tendered for $2.5B of its own notes in June while its CDS tripled. **"Off-balance-sheet" is cosmetic and the CDS proves it.** ⚠️ But this is ONE name on a TWO-name chart; the 5-name basket is unrefreshed since 8/20, so "complex cracking" is UNTESTED. ▲ on mechanism, not on breadth |
 | 08-22 | **Public-data ladder, first run: 1 of 7 stages lit. CCC-HY gap 760bp = 100th pctile; HY OAS 275bp = 17th pctile; IG 82bp = 40th; BBB 100bp = 26th** | **▼** | The weakest borrowers are breaking while the index is TIGHT — but **stages 2-7 are calm**. By Jake's own rule this is a repricing, not a chain. ⚠️ ▼ on breadth ONLY; the two charts that would show AI stress first (CDX IG, single-name CDS) have no free source and are GAPS, not calm rows |
+| 08-22 | **Ladder expanded to 24 series; corroboration rule added. 2 stages lit, **0 CORROBORATED**. New: small-bank deposit growth at the 13th percentile (+0.65% vs +1.03% median) while large banks are normal** | **↔** | ⛔ **Net NEUTRAL, and that is the honest call.** Stage 7 lit (small banks decelerating, NOT outflows) = +fragility; but de-duplicating CCC dropped stage 1 to a SINGLE independent series = −confidence. **More coverage, less certainty.** |
 | 08-21 | **AVGO platform is a SECOND tranche, not a first deal** | **▲▲** | Vault already held the $35B June SPV + ~$30B AVGO residual support. **~3× the money and ~20× the GW in ten weeks**; AVGO's contingent exposure roughly doubles |
 | 08-21 | **NBIS $5B convert priced, UPSIZED** | **▼ then ▲** | ✓ Real counter-evidence: a neocloud raised $5B and had to upsize. ⛔ But **0.50% (2030) vs 4.50% (2034)** — the vol market is open, the bond market is not, and it builds a maturity wall while manufacturing equity supply via delta hedging |
 | 08-21 | **BCA on neocloud ROIC** | **●** | Fifth independent derivation of the vault's borrow-to-build finding. Confirms, adds no new state |
@@ -265,3 +266,60 @@ own 10-chart specification. Data: `data/fragility/series/*.csv`. Page: `docs/ind
   and implied leads. Do not read the proxy as MOVE.**
 - ⬜ **One day of readings is not a series. The ladder's value is in SEQUENCE, and sequence needs
   weeks. Treat today's print as a baseline, not as a finding.**
+
+---
+
+## 2026-08-22 (later) — ⭐⭐⭐⭐ **BOTH SOLVABLE GAPS CLOSED: 24 SERIES NOW, DEALER REPO FINANCING AND THE FULL H.8 LARGE-vs-SMALL BANK SPLIT. ⛔ AND ADDING SERIES EXPOSED A BIAS IN THE LADDER THAT WAS INFLATING IT: A STAGE WITH 8 SERIES HAS 8 CHANCES TO LIGHT AND ONE WITH 1 SERIES HAS ONE.**
+Source: NY Fed PD API + FRED, resolved by measurement 2026-08-22. **⟲ EXTENDS the 8/22 build entry.**
+
+#### ✅ GAP 1 CLOSED — DEALER REPO FINANCING (chart 9)
+- **`PDSORA-UTSETTOT` = repo financing, UST ex-TIPS = $3.001TR** · **`PDSIRRA-UTSETTOT` = reverse
+  repo = $2.744TR.** ⚠️ **`UTSETTOT` is ex-TIPS; `UTSTTOT` is TIPS — the instrument-mismatch trap
+  is one character wide.** Both currently CALM (rate percentile 2 and 12).
+
+#### ✅ GAP 2 CLOSED — H.8, AND THE ARITHMETIC CAUGHT A MISLABEL BEFORE IT WAS FILED
+- **Deposits: LARGE 12,284 + SMALL 5,650 = 17,934 = the domestically-chartered total, EXACTLY.**
+  ⇒ **The split is verified by its own sum, not by trusting the series title.**
+- **⛔ AND THAT SAME CHECK KILLED A MISLABEL: I had `CILDCBW027NBOG` as "C&I, LARGE banks." The
+  sum refused — 2,306 (that series) + 735 (small) = 3,042 > 2,933 (ALL banks). Impossible if the
+  first were a subset.** ⇒ **It is C&I DOMESTICALLY CHARTERED, ALL SIZES.** **Large domestic is
+  unpublished and is now DERIVED as domestic − small = 1,571.** *(Error class 1 — trusting a
+  label over data — caught by arithmetic before it reached a note.)*
+- **⚠️ AND A SEASONAL-ADJUSTMENT TRAP: the SA small-bank C&I series was DISCONTINUED IN 2018.
+  Only NSA exists.** ⇒ **Both legs of the derivation are NSA on purpose. Differencing an SA
+  series against an NSA one would have been error class 4.**
+- **⭐ THE NUMBER WORTH KEEPING: SMALL DOMESTICALLY-CHARTERED BANKS HOLD $2,097B OF $3,127B IN
+  CRE — 67% OF ALL COMMERCIAL REAL ESTATE LOANS.** *(Reported. The regional-bank CRE
+  concentration, now a standing series rather than an assertion.)*
+
+#### ⛔⛔ THE BIAS THE EXPANSION EXPOSED, AND IT WAS INFLATING THE LADDER
+- **The ladder took WORST-STATUS-PER-STAGE. Stage 7 now has 8 series and stage 3 has 1.**
+  ⇒ **A stage's chance of lighting was partly a function of HOW MANY SERIES I HAPPENED TO WIRE
+  INTO IT.** ⇒ **That is a measurement artifact masquerading as a reading.**
+- **⇒ FIX: the math is unchanged; the COUNT IS NOW SHOWN. `n/N lit`, and ✦ = CORROBORATED
+  (≥2 independent series agree).**
+- **⇒ ⛔ AND A SECOND FIX THAT MATTERS MORE: THE CCC-MINUS-HY GAP IS ARITHMETIC ON CCC AND HY.
+  Counting it as a third lit series in stage 1 was COUNTING CCC TWICE.** **It is now excluded
+  from the corroboration count — still shown, still scored.**
+- ⇒ **★★★ THE EFFECT ON YESTERDAY'S HEADLINE IS REAL: stage 1 is `1/2 lit`, NOT corroborated.
+  The entire stage-1 signal rests on ONE independent series (CCC OAS), because HY is calm.**
+  ⇒ **The finding survives and its CONFIDENCE drops. That is the correct direction.**
+
+#### ⚖️ REVISED READING — 2 STAGES LIT, 0 CORROBORATED
+| stage | reading |
+|---|---|
+| **1 · Low-quality credit** | **🔴 critical — but 1/2 lit, NOT corroborated** |
+| 2 · Investment grade | calm (0/2) |
+| 3 · Corporate CP funding | calm (0/1) |
+| 4 · Rates vol | calm (0/3) |
+| 5 · Dealers & Treasury | calm (0/5) |
+| 6 · Repo plumbing | calm (0/2) |
+| **7 · Bank credit channel** | **🟡 warning — 1/8 lit, NOT corroborated** |
+- **⭐ THE NEW STAGE-7 LIGHT IS SMALL-BANK DEPOSITS, AND THE FRAMING MATTERS: they GREW +0.65%
+  over 13 weeks against a 3-year median of +1.03% — the 13th percentile of GROWTH.**
+  ⇒ **⛔ THIS IS DECELERATION, NOT DEPOSIT FLIGHT. Small-bank deposits did not contract once in
+  the 3-year window (min +0.24%). Do not write "outflows."** *(Reported + explicitly bounded.)*
+- **⚠️ AND THE CONTRAST IS THE POINT: LARGE banks are at +0.91% vs a +0.83% median — 56th
+  percentile, entirely normal.** ⇒ **The deceleration is SPECIFIC TO SMALL BANKS — which is
+  exactly why Jake asked for the split, and it would have been invisible in the aggregate.**
+- ⬜ **One week is not a trend. Two consecutive prints before this is worth anything.**

@@ -172,15 +172,24 @@ SPEC = [
     ("dgs30",     "30Y Treasury yield",             4, 4, "fred", "DGS30"),
     ("sofr_iorb", "SOFR minus IORB",                6, 7, "derived", None),
     ("repo_ops",  "Fed repo ops accepted ($B)",     6, 7, "nyfed_repo", None),
-    ("pd_ust",    "Dealer UST net position ($mm)",  5, 9, "nyfed_pd", "PDPOSGST-TOT"),
-    ("pd_ftd",    "Dealer UST fails to deliver",    5, 9, "nyfed_pd", "PDFTD-USTET"),
-    ("pd_ftr",    "Dealer UST fails to receive",    5, 9, "nyfed_pd", "PDFTR-USTET"),
-    ("ci_loans",  "H.8 C&I loans ($B)",             7, 10, "fred", "BUSLOANS"),
-    ("deposits",  "H.8 bank deposits ($B)",         7, 10, "fred", "DPSACBW027SBOG"),
+    ("pd_ust",   "Dealer UST net position",        5, 9, "nyfed_pd", "PDPOSGST-TOT"),
+    ("repo_fin", "Dealer UST repo financing",      5, 9, "nyfed_pd", "PDSORA-UTSETTOT"),
+    ("rev_repo", "Dealer UST reverse repo",        5, 9, "nyfed_pd", "PDSIRRA-UTSETTOT"),
+    ("pd_ftd",   "Dealer UST fails to deliver",    5, 9, "nyfed_pd", "PDFTD-USTET"),
+    ("pd_ftr",   "Dealer UST fails to receive",    5, 9, "nyfed_pd", "PDFTR-USTET"),
+    ("ci_all",   "H.8 C&I loans, all banks",       7, 10, "fred", "TOTCI"),
+    ("ci_large", "H.8 C&I loans, LARGE banks",     7, 10, "derived", None),
+    ("ci_small", "H.8 C&I loans, SMALL banks",     7, 10, "fred", "CILSCBW027NBOG"),
+    ("cre_all",  "H.8 CRE loans, all banks",       7, 10, "fred", "CREACBW027SBOG"),
+    ("cre_large","H.8 CRE loans, LARGE banks",     7, 10, "fred", "CRELCBW027SBOG"),
+    ("cre_small","H.8 CRE loans, SMALL banks",     7, 10, "fred", "CRESCBW027SBOG"),
+    ("dep_large","H.8 deposits, LARGE banks",      7, 10, "fred", "DPSLCBW027SBOG"),
+    ("dep_small","H.8 deposits, SMALL banks",      7, 10, "fred", "DPSSCBW027SBOG"),
     ("vix",       "VIX (context, not a stage)",     0, 0, "fred", "VIXCLS"),
 ]
 # indicators where FALLING is the stress direction
-INVERTED = {"ci_loans", "deposits"}
+INVERTED = {"ci_all", "ci_large", "ci_small", "cre_all", "cre_large",
+            "cre_small", "dep_large", "dep_small"}
 
 GAPS = [
     {"chart": 3,  "name": "CDX IG / CDX HY",
@@ -195,14 +204,6 @@ GAPS = [
      "why": "Markit proprietary. This is the panel the AI-debt thesis most wants "
             "and the one with no free source. It stays MANUAL INGEST.",
      "status": "UNOBTAINABLE FREE — keep sending charts"},
-    {"chart": 9,  "name": "Dealer repo FINANCING volumes",
-     "why": "Positions and fails resolved on the NY Fed PD API; the financing "
-            "series keyids did not match the PDFIN pattern. Findable, not yet found.",
-     "status": "OPEN — solvable"},
-    {"chart": 10, "name": "H.8 large-vs-small bank split, CRE loans",
-     "why": "Aggregate C&I and deposits are wired. The large/small split and CRE "
-            "need their own FRED ids confirmed.",
-     "status": "OPEN — solvable"},
 ]
 
 def main():
@@ -237,6 +238,16 @@ def main():
         sofr = fred("SOFR"); iorb = fred("IORB")
         data["sofr_iorb"] = diff(sofr, iorb, 100.0)        # pct -> bp
     except Exception as e: errors.append({"key": "sofr_iorb", "error": str(e)})
+    try:
+        # ⚠️ CILDCBW027NBOG is DOMESTICALLY CHARTERED (all sizes), NOT "large" --
+        # the arithmetic proves it: domestic 2,306 vs small 735 vs all-banks
+        # 2,933. Large domestic is unpublished, so it is DERIVED as domestic
+        # minus small. Both legs are NSA on purpose: the seasonally-adjusted
+        # small-bank series was discontinued in 2018, and differencing an SA
+        # series against an NSA one would be an instrument mismatch.
+        dom = fred("CILDCBW027NBOG"); sml = fred("CILSCBW027NBOG")
+        data["ci_large"] = [(d, a - b) for d, a, b in align(dom, sml)]
+    except Exception as e: errors.append({"key": "ci_large", "error": str(e)})
     try: data["rvol10"] = realized_vol(fred("DGS10"))
     except Exception as e: errors.append({"key": "rvol10", "error": str(e)})
 
