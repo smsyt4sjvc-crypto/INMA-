@@ -1053,3 +1053,79 @@ Source: `raw/grok-sweep-digest-1-2026-08-09.txt` (item 5). Single Korean-languag
   the FOB USD/kg, same date) resolves it.** If the DOMESTIC series is ≥$110-equivalent, the floor is out
   of the money and the registered weekly test FIRES — the market caught up to the subsidy in ~13 months.
   **Not called on one unscreenshotted post.**
+
+### 2026-08-21 ~10:00am PDT — ⭐⭐⭐⭐ **THE BEST SUPPLIER MAP THE VAULT HAS ON OPTIMUS — NAMED VENDORS, TICKERS, ORDER SIZES AND PER-ROBOT CONTENT. ⛔ AND IT RUNS STRAIGHT INTO THIS NOTE'S OWN STANDING DISCONFIRMER AT `:L867`, WHICH `_calibration` ALREADY FLAGS AS THE SIDE JAKE UNDER-WEIGHTS.**
+Source: Jake's research document, 2026-08-21 → `raw/2026-08-21-optimus-chain/`. **Extracted with the new
+`tools/pdftext.py` — the PDF used subset fonts and the old extractor returned a substitution cipher.**
+⚠️ **Secondary/aggregated: SCMP, 36Kr, Chosun, Global Times, Substack, LinkedIn, Reddit/X, plus a JPMorgan
+Fremont tour note. Per-claim citations present. Independently verified by the vault: NONE.**
+
+#### DATA (REPORTED) — what this adds that `:L688-706` did not have
+- **BOM: ACTUATORS ≈ 56% of the Optimus bill of materials** (Tesla's own comments), **20 rotary + 14
+  linear units per robot** · 20 harmonic reducers per robot · 30+ screws per robot.
+- **ORDERS, with sizes — the genuinely new layer:**
+  **SANHUA (SZSE 002050): ~$685M (≈RMB 5bn) actuator order Oct-2025, deliveries from Q1-2026, "enough
+  content for ~180,000 robots"; >$2,000/robot content; RMB 5.4B mass-production orders; Mexico base.**
+  **TUOPU (SSE 601689): RMB 4bn framework — lower-limb actuators + dexterous-hand drives, Ningbo +
+  Mexico, 200k-unit line, Gen3 through late 2027.**
+  **GREEN HARMONIC (STAR 688017): reported PRIMARY (some reports SOLE) harmonic-reducer supplier; new
+  Suzhou plant up to 500k reducers/yr; priced 30-40% BELOW Harmonic Drive Systems.**
+  **ZHENYU (SZSE 300953): "Tier-0.5 candidate," planetary roller screws, ~$3,000/robot content.**
+  **WUZHOU XINCHUN (603667): leg/waist + miniature ball screws.** Plus **Everwin** (sensors),
+  **Zhejiang Huazheng** (thermal), **Munee / Xinzhi / Zhaowei** (micro-motors), **Inovance / Estun** (servo).
+- **JPMorgan Fremont tour: discontinued Model S/X lines being REPLACED BY OPTIMUS EQUIPMENT; ~4-month
+  transition after S/X ended May-2026; "Optimus Academy" 2H26; commercial sales as early as 2H27; target
+  ~1M units/yr Fremont, ~10M Giga Texas long term.**
+- **China: ~69% of RE mining, ~90% of processing, ~93% of permanent magnets. ~70% of the humanoid
+  component chain.** **MOFCOM April-2025 export controls; Musk's "magnet issue" and the licensing
+  process.** ✓ **All consistent with `:L721` and `:L699`.**
+
+#### ⛔ THE MAGNET-MASS DISCREPANCY THE DOCUMENT FLAGS AS "METHODOLOGICAL" IS AN INSTRUMENT MISMATCH, AND IT RESOLVES
+- **The document carries BOTH "~1.3 kg to ~3.5 kg per humanoid" AND "~40 motors and roughly 0.9 kg of
+  NEODYMIUM-PRASEODYMIUM content," and calls the spread a methodology difference.**
+- **This note carries 3.5-4.0 kg NdFeB/unit** (`:L688`).
+- ⇒ **⭐ NdFeB IS ROUGHLY 30-32% Nd/Pr BY WEIGHT. 3.5 kg OF MAGNET × ~0.3 ≈ 1.05 kg OF NdPr ≈ THE 0.9 kg
+  FIGURE.** ⇒ **THEY ARE NOT COMPETING ESTIMATES. ONE IS MAGNET MASS, THE OTHER IS RARE-EARTH CONTENT
+  INSIDE THE MAGNET.** ⇒ **Error class 4, and it means the vault's 3.5-4.0 kg and the "1.3 kg" low end are
+  measuring different objects — do not average them.** *(Analysis. ⚠️ The 30-32% ratio is a materials
+  constant stated from general knowledge, NOT fetched.)*
+
+#### ⛔⛔ AND THE DECISIVE POINT — THIS NOTE ALREADY HOLDS THE COUNTER, AND IT IS ADDRESSED TO JAKE BY NAME
+- **`:L867`, filed 2026-08-08: *"HUMANOIDS ARE A ROUNDING ERROR IN MAGNET DEMAND TODAY."* Disclosed 2025
+  deliveries: UNITREE >5,500 · UBTECH 1,079 (AGIBOT's 10,000 excluded as cumulative). **6,579 units ×
+  3.5-4.0 kg = 23-26 TONNES — 0.011-0.013% of China's ~205,000 t/yr and ~0.1% of ex-China's ~23,500 t.***
+  **"Real chokepoint, WRONG DECADE for the humanoid leg specifically."** **[[_calibration]] tags it: *"the
+  side Jake is under-weighting, and he is long this thread."***
+- **⇒ ★★★★★★ AND THE NEW DOCUMENT'S OWN HEADLINE NUMBER MAKES THE POINT HARDER THAN THE VAULT DID:
+  SANHUA'S $685M ORDER IS "ENOUGH CONTENT FOR ~180,000 ROBOTS." THE ENTIRE DISCLOSED INDUSTRY SHIPPED
+  6,579 UNITS IN 2025.** ⇒ **THE SINGLE ORDER IS ~27× THE WHOLE INDUSTRY'S ANNUAL OUTPUT.**
+  ⇒ **That is either an enormous pre-build against a ramp that has not happened, or an order that will not
+  be drawn. It is not evidence of current demand.** *(Analysis. The document's best fact, read against the
+  vault's denominator.)*
+- **⇒ ⛔ AND EVERY PIECE OF EVIDENCE IN THE DOCUMENT SITS ON THE SPECULATIVE RUNGS OF THIS VAULT'S OWN
+  CAPEX EVIDENCE LADDER** ([[power-scarcity-equities]]`:L149`): **framework orders · capacity expansions ·
+  "designated supplier" · "Tier-0.5 CANDIDATE" · targets of 1M and 10M units.** ⇒ **THERE IS NOT ONE UNIT
+  OF ACTUAL OPTIMUS PRODUCTION IN IT.** ⇒ **Order ≠ delivery ≠ revenue, and the ladder was built for
+  exactly this.** *(Analysis.)*
+
+#### ⇒ SO WHAT IS ACTUALLY INVESTABLE, GIVEN BOTH
+- **✓ THE MAP IS REAL AND VALUABLE — as a WATCHLIST, not a thesis.** **Sanhua, Tuopu, Green Harmonic,
+  Zhenyu, Wuzhou Xinchun are the named motion-control chokepoints; JL Mag / Zhong Ke San Huan / Ningbo
+  Yunsheng the magnet leg.** ⚠️ **Almost all are SZSE/SSE/STAR-listed — Chinese-exchange access, which is
+  a different instrument problem from the vault's existing UUUU/MP/USAR/ALOY sleeve.**
+- **⭐ GREEN HARMONIC PRICING 30-40% BELOW HARMONIC DRIVE SYSTEMS IS THE ONE COMPETITIVE FACT WITH A
+  READ-ACROSS TO A LIQUID WESTERN NAME.** ⇒ **It is bearish HDS margins on a named, quantified undercut —
+  and that is more tradeable than any of the Chinese long ideas.**
+- **⇒ ★★★ THE HONEST POSITION: THE SUPPLY CHAIN IS CHINESE, THE CHOKEPOINT IS REAL, THE VOLUME IS NOT
+  THERE YET, AND THE VAULT'S EXISTING EXPRESSION (US rare-earth names) IS LEVERED TO *POLICY*, NOT TO
+  *HUMANOID UNITS*.** ⇒ **Those are different trades and this document is about the second one.**
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **ACTUAL OPTIMUS UNITS PRODUCED — the number that decides everything here, and nobody has it.**
+   **Baseline: industry 6,579 disclosed units in 2025; Sanhua's order implies 180,000.** **Watch Tesla's
+   quarterly production/delivery disclosures for an Optimus line item.**
+2. 🚩🚩 **HARMONIC DRIVE SYSTEMS (TSE 6324) MARGINS vs THE 30-40% UNDERCUT.** ⬜ **The one liquid Western
+   read-across in the document, and it is a SHORT-side fact, not a long one.**
+3. 🚩 **DOES THE SANHUA ORDER GET DRAWN?** **Deliveries began Q1-2026 per the report. Sanhua's own
+   disclosed revenue would show it.** ⇒ **Order-to-revenue conversion is the ladder rung that matters.**
+**Links:** [[physical-ai-hardware-stack]] · [[ai-infra-allocation-map]] · [[_calibration]] · [[compression-thesis]]

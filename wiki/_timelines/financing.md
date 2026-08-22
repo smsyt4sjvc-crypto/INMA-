@@ -1,6 +1,6 @@
 # ⏱ FINANCING — merged timeline (the gate)
 
-> **176 dated entries across 2 notes · 2026-05-22 → 2026-08-21 · refreshed 2026-08-21 10:40 PDT**
+> **176 dated entries across 2 notes · 2026-05-22 → 2026-08-21 · refreshed 2026-08-21 18:45 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
