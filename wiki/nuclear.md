@@ -398,3 +398,81 @@ third-party verification brief — the releases themselves are unread.** Related
   transmission constraint rather than arriving late — which is exactly what an on-site SB Energy build IS.**
   ⇒ **His amendment is the better frame here: this is co-location, and it is happening at GAS speed,
   not nuclear's** — an on-site $33B gas plant, phase 1 800MW by 2028. *(Analysis. Corrected 9:35am.)*
+
+---
+
+## 2026-08-22 ~12:55pm PDT — ⭐⭐⭐ **RADIANT/KALEIDOS ADDRESSES EXACTLY ONE OF THE THREE CONSTRAINTS THIS NOTE NAMED — FUEL — AND THE ARTICLE ITSELF CONCEDES THE OTHER TWO REMAIN. ⛔ AND THE EQUINIX "20 UNITS" HEADLINE IS 20 MEGAWATTS: 0.8% OF ONE PPA THE VAULT ALREADY HOLDS.**
+Source: Aamir Khollam / Interesting Engineering via ZeroHedge, paste 2026-08-22 →
+`raw/2026-08-22-radiant-kaleidos/`. **⟲ EXTENDS `:L96` and `:L99`. Radiant, Kaleidos, TRISO,
+Standard Nuclear and Oak Ridge are all NEW to this vault; Equinix and HALEU are not.**
+
+#### ⭐ THE RECONCILIATION — THE VAULT ALREADY SPECIFIED WHAT WOULD COUNT, AND THIS CLEARS ONE THIRD OF IT
+- **`:L96`, standing: *"Constraint = LICENSING / HALEU FUEL / FIRST-OF-A-KIND EXECUTION, not
+  frameworks."*** ⇒ **This announcement is a FUEL announcement. It addresses leg two of three.**
+- **✅ AND THE ARTICLE CONCEDES THE OTHER TWO IN ITS OWN CLOSING PARAGRAPH: *"Radiant still needs to
+  complete testing, establish repeatable manufacturing, and navigate regulatory requirements."***
+  ⇒ **That is FOAK EXECUTION and LICENSING, verbatim, from the promoter's own copy.** ⇒ **★ A source
+  that states its own remaining constraints is a better source than one that does not — grade it up
+  for that, and hold the two open legs.**
+- ⇒ **⭐⭐ WHAT MAKES IT MORE THAN A PRESS RELEASE: the DOE granted Radiant EXCLUSIVE ACCESS TO INL's
+  DOME FACILITY FOR ONE YEAR, through a competitive process, and testing uses THE SAME REACTOR DESIGN
+  AND FUEL SPECS intended for customer units.** ⇒ **That is a government allocation of a scarce
+  physical test asset — the same evidence class as the Thailand BOI approval filed this morning:
+  A STATE AGENCY COMMITTING A RESOURCE, not a company describing its plans.** *(Analysis.)*
+
+#### ⛔⛔ THE SCALE DISCIPLINE, AND IT IS THE WHOLE READ ON THE EQUINIX HEADLINE
+- **Kaleidos is a 1 MW reactor. Equinix signed for 20 UNITS. ⇒ 20 UNITS × 1 MW = 20 MEGAWATTS TOTAL.**
+| against a denominator the vault already holds | share |
+|---|---|
+| **Google+Meta+Beale → EVERGY ≈2.5 GW signed peak** (`power-scarcity-equities:L163`) | **0.80%** |
+| a Google/DTE- or Amazon/Talen-class PPA (~1 GW) | **2.0%** |
+| one large hyperscaler campus (~250 MW) | **8.0%** |
+- ⇒ **★★★★ "EQUINIX SIGNS FOR 20 REACTORS" READS LIKE A POWER STRATEGY AND IS A PILOT.** ⇒ **20 MW
+  does not power a data centre; it powers a small PART of one.** ⇒ **⛔ THE UNIT COUNT IS THE
+  MISLEADING FIGURE AND THE MEGAWATTS ARE THE HONEST ONE — a 20-unit order sounds twenty times more
+  impressive than a 20 MW order, and they are the same fact.** *(Analysis. Same shape as the vault's
+  own ANNOUNCED-GW ≠ ENERGIZED-GW rule adopted this morning.)*
+- **⚠️ AND EQUINIX IS ALREADY IN THIS VAULT ON THE OTHER SIDE OF THE TRADE: it bears 100% of Central
+  Georgia EMC's cost including two transmission lines, on a 20-year contract**
+  ([[transmission-chain]]`:L96`, `:L266`). ⇒ **★ THAT IS THE REAL EQUINIX POWER STRATEGY. The
+  microreactors are an option on a second one.** ⇒ **Read the Kaleidos deal as HEDGING the grid
+  dependency the vault already documented, not replacing it.**
+
+#### ✅ WHAT IS GENUINELY NEW AND WORTH CARRYING
+- **STANDARD NUCLEAR will fabricate TRISO fuel for Kaleidos through the EARLY 2030s.** **TRISO =
+  uranium particles in ceramic/carbon layers.** ⚠️ **⬜ NO VOLUME, NO PRICE, NO TAKE-OR-PAY DISCLOSED.
+  "Covering planned deployments" is scoped to a plan, not to a quantity.**
+- **⭐ VERTICAL FUEL-CYCLE CONTROL IS THE MODEL'S REAL DIFFERENTIATOR: customers never handle fresh or
+  spent fuel; Radiant does fueling, refueling and storage at its own facilities.** ⇒ **★★ THAT IS
+  WHAT MAKES A DATA-CENTRE CUSTOMER POSSIBLE AT ALL — Equinix is not becoming a nuclear licensee.**
+  ⇒ **It converts "buy a reactor" into "buy power with the regulatory burden outsourced," which is
+  the only form a colo operator could accept.** *(Analysis. This is the entry's finding.)*
+- **300,000 sq ft Oak Ridge, TN facility** for production, fueling and storage. **20-year reactor
+  life; 5 years between refuelings; transportable by land, sea or air.**
+- **Department of the Air Force + Defense Innovation Unit project at BUCKLEY SPACE FORCE BASE.**
+  ⇒ **⭐ DEFENCE IS THE FIRST-MOVER CUSTOMER FOR MICROREACTORS AND THAT IS THE PATTERN, NOT THE
+  EXCEPTION: a customer that is price-insensitive, security-motivated and already inside the federal
+  regulatory perimeter.** ⇒ **Watch whether commercial follows defence, or whether defence IS the
+  market. The vault should not assume the first implies the second.**
+
+#### ⛔ AND THE STANDING POSITION AT `:L99` AND `:L175` IS NOT OVERTURNED
+- **`:L99`: listed beneficiaries are *"real reactors clearing real licensing (GEV/CEG/OKLO/fuel), NOT
+  private hype."* `:L175`: *"the gas-turbine-analogue winner, not the newest microreactor."*
+  Readiness ranking: GEV > NuScale > OKLO/XE.**
+- ⇒ **✅ THIS DOES NOT MOVE THAT RANKING, AND THE REASON IS STRUCTURAL: RADIANT IS PRIVATE. There is
+  no instrument.** ⇒ **The portfolio's exposure is SMR and OKLO, and neither is Radiant.**
+  ⚠️ **⛔ DO NOT READ A RADIANT MILESTONE AS AN SMR/OKLO CATALYST — that is a category error, and a
+  competitor clearing a constraint is mildly NEGATIVE for the listed names' scarcity premium, which
+  `:L178` already warns about ("more future competitors for the listed SMR names' scarcity premium").**
+- ⇒ **⭐ THE ONE THING THAT WOULD MOVE THE RANKING: if TRISO/HALEU fuel supply is genuinely
+  contracting out to multiple developers, the FUEL leg of the three-part constraint is loosening for
+  everyone — which helps OKLO (TRISO-fuelled) more than it helps GEV (BWRX-300, LEU).**
+  🚩 **REGISTERED: does Standard Nuclear have other fabrication agreements, and what is its actual
+  qualified TRISO capacity in tonnes? Without that, "secured fuel" is a contract, not a supply.**
+
+#### 📌 REGISTERED
+1. 🚩🚩 **STANDARD NUCLEAR'S QUALIFIED TRISO CAPACITY AND CUSTOMER LIST.** **The whole "fuel constraint
+   is easing" read depends on it, and the article gives neither.**
+2. 🚩 **EQUINIX: is the 20-unit order FIRM, OPTIONED, OR AN LOI?** **The article says "commercial
+   agreement," which is not a purchase order.** **Per `:L96`: "converts to real on firm ORDERS, not MOUs."**
+3. ⬜ **Does the Buckley project have appropriated funding, or is it a DIU prototype agreement?**
