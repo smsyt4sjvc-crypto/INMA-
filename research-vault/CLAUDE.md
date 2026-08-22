@@ -467,6 +467,12 @@ python3 tools/vault_find.py "data centre" --days 30
 - **⛔ READ `n/N lit`, NOT JUST THE STAGE COLOUR.** A stage holding 8 series has 8 chances to
   light; one holding 1 has one. **✦ = corroborated (≥2 independent series).** A stage lit on a
   single series is a weak reading and must be reported as one.
+- **⛔ MOVE HAS NO FREE FEED AND IS A DECLARED GAP.** Every datacentre route is blocked
+  (Yahoo 429 from container AND runner, CNBC 403, WSJ 401, Stooq JS-gated, FRED VXTYN dead
+  since 2020). **Jake's phone is a residential IP and works.** When he pastes a reading:
+  `python3 tools/move_manual.py 2026-08-21 73.40`  (or `--from-paste "MOVE 73.40"`).
+  `--status` lists the missing weekdays. **Each missed weekday is unrecoverable — MOVE has
+  no history endpoint at any price.** Colab cell to test his IP: `tools/colab_move_cell.py`.
 - **⚠️ THE VAULT NOW LIVES IN ITS OWN REPO (`wiki-brain`), moved 2026-08-22.** The copy inside
   `INMA-/research-vault/` is STALE. Never edit both. Never touch the INMA business site — Pages
   there serves inmagent.com off `main`, and scheduled Actions only fire from a default branch.
