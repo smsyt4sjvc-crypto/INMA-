@@ -455,7 +455,7 @@ python3 tools/vault_find.py "data centre" --days 30
   are not.*
 
 ### DAILY: THE FRAGILITY LADDER (run it before answering any "is credit cracking" question)
-`python3 tools/fragility.py`  — scores 16 public credit/funding series against their own
+`python3 tools/fragility.py`  — scores 24 public credit/funding series against their own
 3-year history and prints which of the 7 transmission stages are lit. Refresh first with
 `python3 tools/fragility_feed.py` (~90s). Page: `docs/index.html`. Data: `data/fragility/`.
 - **NO ABSOLUTE THRESHOLDS.** Everything is a percentile against its own history, and
@@ -464,3 +464,9 @@ python3 tools/vault_find.py "data centre" --days 30
   source and are listed as GAPS. Two of them are where AI-complex stress would appear FIRST.
   Never report "the ladder is calm" without naming what the ladder cannot see.
 - **⚠️ CHECK THE STALE FLAGS.** A stale number that looks calm is the most dangerous cell.
+- **⛔ READ `n/N lit`, NOT JUST THE STAGE COLOUR.** A stage holding 8 series has 8 chances to
+  light; one holding 1 has one. **✦ = corroborated (≥2 independent series).** A stage lit on a
+  single series is a weak reading and must be reported as one.
+- **⚠️ THE VAULT NOW LIVES IN ITS OWN REPO (`wiki-brain`), moved 2026-08-22.** The copy inside
+  `INMA-/research-vault/` is STALE. Never edit both. Never touch the INMA business site — Pages
+  there serves inmagent.com off `main`, and scheduled Actions only fire from a default branch.
