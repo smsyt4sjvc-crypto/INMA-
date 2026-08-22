@@ -1,0 +1,71 @@
+name: fragility dashboard
+
+# Refreshes the credit/debt fragility ladder and COMMITS the numbers back into
+# this repo. The commit is the point: the dashboard is readable by a person
+# (docs/index.html) and by Claude (data/fragility/*.csv + latest.json) without
+# either one needing to execute JavaScript or hold an API key.
+#
+# ⚠️ SCHEDULES ONLY FIRE FROM THE DEFAULT BRANCH. This file must live on the
+# repo's default branch or `on: schedule` silently never runs. That is exactly
+# why the vault moved out of the INMA- repo -- there, the default branch was the
+# business site and could not be touched.
+#
+# ⚠️ DO NOT ADD A USER-AGENT TO THE FRED CALLS. FRED bot-protects on UA: no UA
+# returns 200, a custom UA resets the stream, a browser UA hangs. Yahoo is the
+# exact inverse and needs one. The per-source rule is in tools/fragility_feed.py.
+
+on:
+  schedule:
+    # 11:20 UTC = 07:20 ET during EDT. Weekdays only.
+    # Deliberately off the hour -- GitHub's scheduler is contended at :00.
+    - cron: '20 11 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fragility
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch series
+        # A single dead source must not fail the run -- the feed merges into the
+        # CSVs already on disk, so the last good value survives and the row is
+        # stamped STALE rather than vanishing.
+        run: python3 -u tools/fragility_feed.py
+        continue-on-error: true
+
+      - name: Score and render
+        run: |
+          python3 tools/fragility.py | tee fragility_report.txt
+          python3 tools/fragility_html.py
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name  "fragility-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/fragility docs/index.html
+          if git diff --cached --quiet; then
+            echo "no change -- nothing to commit"
+          else
+            git commit -m "fragility: $(date -u +%Y-%m-%d) feed refresh"
+            for i in 1 2 3 4; do
+              git push origin HEAD:${{ github.ref_name }} && break
+              echo "push failed, retry $i"; sleep $((2**i))
+            done
+          fi
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: fragility-report
+          path: fragility_report.txt
