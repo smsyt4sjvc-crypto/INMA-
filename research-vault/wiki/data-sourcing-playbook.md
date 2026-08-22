@@ -542,3 +542,42 @@ Source: direct measurement while building `tools/fragility_feed.py`, 2026-08-22.
   UA, and vary the HTTP version. Three tries, then the note.**
 - ⇒ **⛔ AND IT COST REAL COVERAGE: the vault worked around "no FRED" via Treasury FiscalData,
   EIA and Census for months when the primary source was one flag away.**
+
+---
+
+## 2026-08-22 — ⛔ **I PREDICTED THE GITHUB RUNNER WOULD GET THROUGH YAHOO'S RATE LIMIT. IT DID NOT. THE RUN LOG SAYS 429, SAME AS THIS CONTAINER — AND I HAD THAT ANSWER FOR AN HOUR WITHOUT READING IT.**
+Source: `raw_meta.json` at commit `a5d3447`, the first GitHub Actions run. Jake asked.
+
+#### ⛔ THE CALL AND THE GRADE
+- **I WROTE: "The runner has a different IP, so it should succeed there — that would be the one row
+  this environment can't currently produce."** ⇒ **❌ WRONG. The runner returned the identical error:**
+  `curl (22) The requested URL returned error: 429`.
+- ⇒ **THE GENERALISATION FROM FRED DID NOT TRANSFER. FRED blocks on USER-AGENT (a header problem, so a
+  different caller fixes it). Yahoo rate-limits by IP REPUTATION — and a GitHub Actions egress IP is
+  a DATACENTRE IP, which is throttled at least as hard as this container's.**
+  ⇒ **🚩 "The runner sees a different network" is true for HEADER and PROXY problems and FALSE for
+  IP-REPUTATION problems. Those are different failure classes and they do not share a fix.**
+- **⛔ AND THE PROCESS FAILURE IS THE WORSE HALF: the answer was sitting in the run's own committed
+  `raw_meta.json` the whole time. I said "the next scheduled run will tell us" when the LAST run
+  already had.** ⇒ **A job that records its own errors is only useful if the errors get READ.**
+
+#### ⬜ THE SEARCH FOR A SUBSTITUTE, AND IT CAME UP EMPTY
+| candidate | result |
+|---|---|
+| Yahoo `^MOVE` (query1 **and** query2) | **429 from BOTH environments** |
+| Stooq `^move` CSV | **JS-gated — returns a noscript shell** |
+| **FRED `VXTYN`** (CBOE 10Y T-Note Vol Index) | **⛔ DISCONTINUED — last observation 2020-05-15** |
+| MOVE itself | **ICE BofA proprietary; FRED does not carry it** |
+- ⇒ **THERE IS NO FREE IMPLIED-TREASURY-VOL SOURCE. This is a real gap, not a fetch to retry.**
+
+#### ✅ WHAT I DID ABOUT IT, AND WHY IT IS NOT A COSMETIC CHANGE
+- **MOVE was sitting in the ladder as a LIVE ROW frozen at 73.40 (2026-08-21), scored, and reading
+  CALM.** ⇒ **⛔ THAT IS THE EXACT CELL `CLAUDE.md` NAMES AS MOST DANGEROUS: "a stale number that
+  looks calm."** ⇒ **It has been DEMOTED FROM A ROW TO A DECLARED GAP.** **Stage 4 is now `0/2 lit`
+  instead of `0/3` — the ladder honestly reports one fewer instrument rather than counting a corpse.**
+- ⇒ **★ STAGE 4 NOW RUNS ON THE 10Y REALIZED-VOL PROXY ALONE, and that limitation is promoted from a
+  footnote to the operative fact: REALIZED IS NOT IMPLIED, AND IMPLIED LEADS.** **The one stage whose
+  job is to warn early is now the stage with the laggiest instrument.** *(Analysis.)*
+- 🚩 **REGISTERED: an implied-rates-vol substitute.** **Candidates not yet tested: CME Treasury
+  options settlement data · swaption vol from any public source · a VIX-style construction from
+  TLT/IEF listed options.** **Until one lands, do not describe stage 4 as instrumented.**
