@@ -259,10 +259,17 @@ def main():
         if os.path.exists(path):
             with open(path) as fh:
                 for row in csv.DictReader(fh):
-                    try: merged[row["date"]] = float(row["value"])
+                    try: merged[row["date"]] = round(float(row["value"]), 6)
                     except (ValueError, KeyError, TypeError): pass
         before = len(merged)
-        merged.update(dict(s))                     # today's pull wins on collision
+        # ⚠️ ROUND ON WRITE. Derived series (realized vol) are computed, not
+        # fetched, and a different CPU/Python build lands 1 ulp away: the runner
+        # writes 53.1512241776136 where this container writes 53.15122417761359.
+        # Same number to any meaning we care about -- but repr() differs, so git
+        # sees ~1,450 changed lines every time the machine alternates, and the
+        # real changes drown in it. 6 decimals is far past any series' precision
+        # here and makes a diff mean something again.
+        merged.update({d: round(v, 6) for d, v in s})   # today's pull wins
         with open(path, "w", newline="") as fh:
             w = csv.writer(fh); w.writerow(["date", "value"])
             w.writerows(sorted(merged.items()))

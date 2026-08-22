@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-22T06:46:38+00:00",
- "verdict": "2 STAGES LIT (0 corroborated): 1 -> 7. Check whether they lit IN ORDER -- sequence is the signal.",
+ "generated": "2026-08-22T06:55:57+00:00",
+ "verdict": "3 STAGES LIT (0 corroborated): 1 -> 3 -> 7. Check whether they lit IN ORDER -- sequence is the signal.",
  "ladder": [
   {
    "stage": 1,
@@ -25,12 +25,12 @@
   {
    "stage": 3,
    "name": "Corporate short-term funding (CP)",
-   "status": "calm",
+   "status": "warning",
    "n": 1,
    "n_indep": 1,
-   "n_lit": 0,
+   "n_lit": 1,
    "corroborated": false,
-   "lit": false
+   "lit": true
   },
   {
    "stage": 4,
@@ -807,10 +807,10 @@
    "d1": 8.0,
    "d5": -4.0,
    "d20": -8.0,
-   "level_pct": 71.6,
+   "level_pct": 75.4,
    "detrended": false,
-   "rate_pct": 21.9,
-   "status": "calm",
+   "rate_pct": 23.7,
+   "status": "warning",
    "n": 868,
    "age_days": 3,
    "redundant": false,
@@ -2037,7 +2037,7 @@
    "d20": -1.0,
    "level_pct": 73.5,
    "detrended": false,
-   "rate_pct": 29.7,
+   "rate_pct": 37.3,
    "status": "calm",
    "n": 1263,
    "age_days": 2,
