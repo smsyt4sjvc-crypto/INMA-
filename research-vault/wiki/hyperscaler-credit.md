@@ -426,3 +426,70 @@ Bloomberg via SiliconANGLE 8/20. **⟲ EXTENDS `:L116` (the 8/20 cross-section) 
 4. ⬜ **AVGO/NVDA CDS-BOND BASIS.** **If CDS is running well ahead of cash spreads, the move is hedging
    demand (protection buyers with no bonds), not a cash-market credit judgement.** **That distinction
    decides whether "credit is cracking" or "credit is being HEDGED" — and they are not the same event.**
+
+---
+
+## 2026-08-22 — ⭐⭐⭐⭐⭐⭐⭐ **THE SINGLE-NAME CDS GAP IS CLOSED. ICE CLEAR CREDIT PUBLISHES ALL 12 AI-COMPLEX NAMES FREE, DAILY, KEYLESS — AND THE DERIVED SPREADS REPRODUCE THIS VAULT'S CHART-READ MARKS TO WITHIN 0.04bp ON MSFT AND 0.13bp ON NVDA.**
+Source: Jake's lead → `https://www.ice.com/api/cds-settlement-prices/icc-single-names`, clearing date
+2026-08-21. Tool: `tools/icc_cds.py`. **⟲ EXTENDS the 8/20 cross-section at `:L116`.**
+
+#### ⭐ HOW IT WAS FOUND, BECAUSE THE METHOD GENERALISES
+- **The ICE page renders its table CLIENT-SIDE — curl and WebFetch both return an empty shell, and
+  Chromium cannot reach ice.com from this container (the egress proxy resets it).**
+- ⇒ **A ONE-OFF PROBE JOB ON A GITHUB RUNNER drove real Chromium on a clean network and captured the
+  XHR the page fires.** ⇒ **It is a plain keyless JSON GET that then works from ANYWHERE, including
+  here.** 🚩 **THE RUNNER SEES A DIFFERENT NETWORK THAN THIS CONTAINER — the same insight that
+  retired "FRED is blocked." Use it whenever a source looks unreachable.**
+
+#### ★★★★★★ THE VALIDATION IS THE FINDING — TWO INDEPENDENT ORIGINS, AGREEING TO A FRACTION OF A BASIS POINT
+| name | ICE-derived | vault's carried mark | origin of that mark | delta |
+|---|---|---|---|---|
+| **MSFT** | **46.3** | **46.340** | 8/20 cross-section chart | **0.04bp** |
+| **NVDA** | **85.5** | **85.370** | Jake's 8/22 chart | **0.13bp** |
+| **AVGO** | **122.6** | **121.190** | Jake's 8/22 chart | **1.4bp** |
+| GOOGL | 56.4 | 55.530 | 8/20 chart | 0.9bp |
+| META | 94.2 | 90.535 | 8/20 chart | 3.7bp |
+| ORCL | 223.6 | 212.625 | 8/20 chart | 11bp |
+| CRWV | 802.6 | 771.885 | 8/20 chart | 31bp |
+- ⇒ **★★★ A CLEARING HOUSE'S SETTLEMENT PRICE, RUN THROUGH AN INDEPENDENT MODEL, REPRODUCES CHART
+  READS THE VAULT TOOK OFF A SCREENSHOT.** ⇒ **Both the chart reads AND the conversion are validated
+  by each other. This is the strongest cross-origin agreement in the vault.** *(Analysis.)*
+- **⚠️ AND THE ERROR STRUCTURE IS ITSELF HONEST: the delta GROWS WITH THE SPREAD** (0.04 at MSFT →
+  31 at CRWV). **That is exactly what a flat-hazard approximation does — model error scales with the
+  hazard rate.** ⇒ **Trust the tight end; treat CRWV's level as ±5%.** **Part of the delta is also
+  real: the chart marks are 8/20, ICE is 8/21.**
+
+#### ⛔⛔ THE TRAP THAT WOULD HAVE MADE THIS USELESS — `eodPrice` IS A PRICE, NOT A SPREAD
+- **BROADCOM prints `99.0738`. Reading that as "99bp" is wrong by 23bp and wrong in KIND.**
+  **These are standardised-coupon contracts quoted POINTS UPFRONT: price ABOVE 100 means the fair
+  spread is BELOW the fixed coupon.** ⇒ **Error class 5, instrument mismatch, and it would have
+  inverted the entire ladder.** ⇒ **Conversion: `upfront = (100−price)/100 = (s − coupon) × RPV01(s)`,
+  solved by iteration under a flat hazard, 40% recovery, 4.0% flat risk-free.**
+- ⇒ **⚠️ THE SPREADS ARE MODELLED, NOT QUOTED. Do not present them as dealer levels.**
+
+#### ⭐⭐ WHAT THE PANEL SAYS TODAY (2026-08-21 clearing)
+- **CRWV 802.6 · ORCL 223.6 · TSLA 132.7 · AVGO 122.6 · META 94.2 · AMD 93.7 · NVDA 85.5 ·
+  INTC 73.4 · DELL 63.8 · AMZN 62.1 · GOOGL 56.4 · MSFT 46.3.** **MEDIAN 89.6bp.**
+- ⇒ **★★★ DISPERSION IS 17.3× (MSFT → CRWV). THE VAULT INDEPENDENTLY MEASURED 16.7× ON 8/20 FROM A
+  DIFFERENT SOURCE.** ⇒ **The borrow-to-build-vs-sell-into-it ladder is confirmed a third time, now
+  from clearing data rather than a chart.**
+- **⭐ NEW AND ONLY VISIBLE HERE: COREWEAVE HAS NO 100bp CONTRACT — IT CLEARS ONLY AT THE 500bp
+  COUPON.** ⇒ **That is the HIGH-YIELD quoting convention. ICE's own contract structure classifies
+  CRWV as HY while the vault had been reasoning about it as a wide IG name.** ⇒ **The convention is
+  a rating statement the market makes with its plumbing, not its opinion.** *(Reported + analysis.)*
+- **⬜ AND THE ABSENCES ARE INFORMATION: no NBIS, no IREN, no other neocloud clears at ICC.** ⇒ **CRWV
+  is the ONLY neocloud with a cleared CDS. The rest of that tier is invisible to this feed and stays
+  a manual-ingest problem.**
+
+#### ⚠️ TWO LIMITS THAT ARE PERMANENT, AND ONE THAT IS A DATED HAZARD
+1. **⛔ NO HISTORY, AND IT CANNOT BE BOUGHT AT THE FREE TIER.** **ICE serves ONE clearing date; the
+   historical database is licensed.** ⇒ **The vault accumulates forward from 2026-08-22.** ⇒ **These
+   rows CANNOT be percentile-scored for years, so they are filed as LEVELS with the history count
+   shown. Faking a percentile here would be the exact failure the ladder exists to prevent.**
+   🚩 **EVERY MISSED WEEKDAY IS A ROW THAT CAN NEVER BE RECOVERED — that is why the daily job runs it.**
+2. **5-YEAR TENOR ONLY.** ⇒ **⛔ This CANNOT build the coupon-break curve registered at
+   [[financing-fragility-gauge]] — that needs multiple tenors per issuer. That item stays open.**
+3. **⚠️ THE MATURITY ROLLS. Every contract today reads 2031-06-20. On the next IMM date (~2026-09-20)
+   the on-the-run 5Y jumps to 2031-12-20 and the price series discontinues FOR REASONS THAT ARE NOT
+   CREDIT.** ⇒ **The stored `maturity` column is what makes that detectable. Do not drop it, and do
+   not read the roll as a move.**

@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **201 dated entries across 3 notes · 2026-05-22 → 2026-08-22 · refreshed 2026-08-21 23:18 PDT**
+> **203 dated entries across 3 notes · 2026-05-22 → 2026-08-22 · refreshed 2026-08-22 00:19 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -222,4 +222,6 @@
 - `2026-08-20` [rates-board.md:L817](../rates-board.md) — 2026-08-20 ~12:25pm PDT — ★★★★★★ **TODAY'S OPERATION IS ROUTINE AND SAYS NOTHING — BUT PULLING THE FULL HISTORY TO PROVE THAT FOUND THE REAL STORY: ⭐ 
 - `2026-08-21` [ai-financing-fragility.md:L6766](../ai-financing-fragility.md) — 2026-08-21 ~8:15am PDT — ⛔⭐⭐⭐⭐⭐ **THE AVGO DEAL IS NOT NEW — IT IS THE SECOND TRANCHE OF A PLATFORM THIS VAULT ALREADY HELD, AND BROADCOM'S CONTINGENT
 - `2026-08-21` [ai-financing-fragility.md:L6838](../ai-financing-fragility.md) — 2026-08-21 ~8:45am PDT — ★★★★★★ **JAKE'S 2030 TIPPING-POINT READ IS RIGHT BY A BETTER ROUTE THAN HE STATED, AND THIS VAULT ALREADY HAS THE NATURAL EXP
+- `2026-08-21` [hyperscaler-credit.md:L470](../hyperscaler-credit.md) — ⭐⭐ WHAT THE PANEL SAYS TODAY (2026-08-21 clearing)
 - `2026-08-22` [hyperscaler-credit.md:L341](../hyperscaler-credit.md) — 2026-08-22 — ⭐⭐⭐⭐⭐⭐ **AVGO 121.19 IS THE ONLY NAME IN THIS COMPLEX DECISIVELY *THROUGH* ITS HIGH — ~20% ABOVE THE LATE-JULY PEAK — AND IT HAS LEFT THE
+- `2026-08-22` [hyperscaler-credit.md:L432](../hyperscaler-credit.md) — 2026-08-22 — ⭐⭐⭐⭐⭐⭐⭐ **THE SINGLE-NAME CDS GAP IS CLOSED. ICE CLEAR CREDIT PUBLISHES ALL 12 AI-COMPLEX NAMES FREE, DAILY, KEYLESS — AND THE DERIVED SP

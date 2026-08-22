@@ -200,10 +200,15 @@ GAPS = [
      "why": "FRED's DSWP10/DSWP30 were discontinued in 2016 (they return 2000-era "
             "data). Live swap rates are vendor-gated.",
      "status": "UNOBTAINABLE FREE — vault fetch stays open"},
-    {"chart": 11, "name": "Single-name 5Y CDS (AVGO/NVDA/ORCL/META/GOOGL/AMZN/MSFT)",
-     "why": "Markit proprietary. This is the panel the AI-debt thesis most wants "
-            "and the one with no free source. It stays MANUAL INGEST.",
-     "status": "UNOBTAINABLE FREE — keep sending charts"},
+    {"chart": 11, "name": "Single-name 5Y CDS — CLOSED 2026-08-22",
+     "why": "SOLVED via ICE Clear Credit's free daily settlement prices "
+            "(tools/icc_cds.py). All 12 AI-complex names clear, CoreWeave "
+            "included. Two remaining limits, both real: the published number is "
+            "a points-upfront PRICE that must be MODELLED into a spread, and ICE "
+            "serves only one clearing date — history is licensed, so the vault "
+            "accumulates forward from 2026-08-22 and cannot percentile-score "
+            "these rows for years.",
+     "status": "CLOSED — levels only, no baseline yet"},
 ]
 
 def main():
