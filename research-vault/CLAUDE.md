@@ -472,9 +472,11 @@ python3 tools/vault_find.py "data centre" --days 30
   VXTYN dead since 2020) — **but WebFetch reaches `finance.yahoo.com/quote/%5EMOVE`, because it
   is a DIFFERENT FETCHER, not this container's curl.** ⇒ **Refresh it yourself, in-session:**
   WebFetch the quote → `python3 tools/move_manual.py <date> <value>`.
-  **⭐ PRIMARY ROUTE: `google.com/finance/quote/MOVE:INDEXNYSEGIS` — it served Aug 21 while
-  Yahoo's page was still delayed on Aug 20. Yahoo (`finance.yahoo.com/quote/%5EMOVE`) is the
-  fallback.**
+  **ROUTES: `google.com/finance/quote/MOVE:INDEXNYSEGIS` and `finance.yahoo.com/quote/%5EMOVE`.
+  ⬜ WHICH IS FRESHER IS UNTESTED — on 8/22 Google served Aug 21 while Yahoo served Aug 20, but
+  that is ONE observation on a SATURDAY, when a systematic lag and a stale cache look identical
+  because nothing refreshes to correct either. Try Google first, but CHECK BOTH and take the
+  later timestamp.**
   ⚠️ **Either page can be DELAYED — read its "last updated" field and use THAT date, not today's.**
   ⚠️ **Run the QUOTE-HEADER RECONCILIATION TEST on it (`price − change ≈ stated prev close`)
   before recording.** ⛔ **The weekday Action CANNOT call WebFetch, so MOVE lags on any day Claude
