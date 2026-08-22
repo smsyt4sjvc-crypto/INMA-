@@ -1,6 +1,6 @@
 # ⏱ POWER — merged timeline (the gate)
 
-> **53 dated entries across 3 notes · 2026-06-30 → 2026-08-21 · refreshed 2026-08-22 09:03 PDT**
+> **54 dated entries across 3 notes · 2026-06-30 → 2026-08-22 · refreshed 2026-08-22 09:32 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -71,4 +71,5 @@
 - `2026-08-17` [nuclear.md:L341](../nuclear.md) — [2026-08-17] The OpenAI/NVIDIA Ohio campus is named **"PORTS-Pike."** **PORTS = the Portsmouth Gaseous
 - `2026-08-17` [nuclear.md:L344](../nuclear.md) — [2026-08-17] **The named power/development partner is SB ENERGY.** NVIDIA is **investing in SB Energy**
 - `2026-08-21` [buildout-bottleneck-map.md:L1009](../buildout-bottleneck-map.md) — 2026-08-21 ~10:00am PDT — ⭐⭐⭐⭐ **THE BEST SUPPLIER MAP THE VAULT HAS ON OPTIMUS — NAMED VENDORS, TICKERS, ORDER SIZES AND PER-ROBOT CONTENT. ⛔ AND IT 
-- `2026-08-21` [buildout-bottleneck-map.md:L1063](../buildout-bottleneck-map.md) — ⛔ CORRECTION 2026-08-21 ~10:20am — **JAKE IS RIGHT AND I MIS-SORTED THE ONE ITEM THAT CLEARS THE LADDER: PHYSICAL RETOOLING IS NOT A TARGET.**
+- `2026-08-21` [buildout-bottleneck-map.md:L1064](../buildout-bottleneck-map.md) — ⛔ CORRECTION 2026-08-21 ~10:20am — **JAKE IS RIGHT AND I MIS-SORTED THE ONE ITEM THAT CLEARS THE LADDER: PHYSICAL RETOOLING IS NOT A TARGET.**
+- `2026-08-22` [buildout-bottleneck-map.md:L1123](../buildout-bottleneck-map.md) — 2026-08-22 ~9:30am PDT — ⛔⛔⛔ **THE SANHUA RMB 5bn / $685M / 180,000-ROBOT ORDER IS A RUMOUR THE COMPANY PUBLICLY DENIED ON 2025-10-15. THE VAULT FILED
