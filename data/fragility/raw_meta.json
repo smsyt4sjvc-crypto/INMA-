@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-22T05:48:15+00:00",
+ "generated": "2026-08-22T06:15:49+00:00",
  "meta": {
   "ccc_oas": {
    "label": "CCC & lower OAS",
@@ -57,7 +57,17 @@
    "panel": 7
   },
   "pd_ust": {
-   "label": "Dealer UST net position ($mm)",
+   "label": "Dealer UST net position",
+   "stage": 5,
+   "panel": 9
+  },
+  "repo_fin": {
+   "label": "Dealer UST repo financing",
+   "stage": 5,
+   "panel": 9
+  },
+  "rev_repo": {
+   "label": "Dealer UST reverse repo",
    "stage": 5,
    "panel": 9
   },
@@ -71,13 +81,43 @@
    "stage": 5,
    "panel": 9
   },
-  "ci_loans": {
-   "label": "H.8 C&I loans ($B)",
+  "ci_all": {
+   "label": "H.8 C&I loans, all banks",
    "stage": 7,
    "panel": 10
   },
-  "deposits": {
-   "label": "H.8 bank deposits ($B)",
+  "ci_large": {
+   "label": "H.8 C&I loans, LARGE banks",
+   "stage": 7,
+   "panel": 10
+  },
+  "ci_small": {
+   "label": "H.8 C&I loans, SMALL banks",
+   "stage": 7,
+   "panel": 10
+  },
+  "cre_all": {
+   "label": "H.8 CRE loans, all banks",
+   "stage": 7,
+   "panel": 10
+  },
+  "cre_large": {
+   "label": "H.8 CRE loans, LARGE banks",
+   "stage": 7,
+   "panel": 10
+  },
+  "cre_small": {
+   "label": "H.8 CRE loans, SMALL banks",
+   "stage": 7,
+   "panel": 10
+  },
+  "dep_large": {
+   "label": "H.8 deposits, LARGE banks",
+   "stage": 7,
+   "panel": 10
+  },
+  "dep_small": {
+   "label": "H.8 deposits, SMALL banks",
    "stage": 7,
    "panel": 10
   },
@@ -88,8 +128,14 @@
   }
  },
  "inverted": [
-  "ci_loans",
-  "deposits"
+  "ci_all",
+  "ci_large",
+  "ci_small",
+  "cre_all",
+  "cre_large",
+  "cre_small",
+  "dep_large",
+  "dep_small"
  ],
  "errors": [
   {
@@ -115,18 +161,6 @@
    "name": "Single-name 5Y CDS (AVGO/NVDA/ORCL/META/GOOGL/AMZN/MSFT)",
    "why": "Markit proprietary. This is the panel the AI-debt thesis most wants and the one with no free source. It stays MANUAL INGEST.",
    "status": "UNOBTAINABLE FREE \u2014 keep sending charts"
-  },
-  {
-   "chart": 9,
-   "name": "Dealer repo FINANCING volumes",
-   "why": "Positions and fails resolved on the NY Fed PD API; the financing series keyids did not match the PDFIN pattern. Findable, not yet found.",
-   "status": "OPEN \u2014 solvable"
-  },
-  {
-   "chart": 10,
-   "name": "H.8 large-vs-small bank split, CRE loans",
-   "why": "Aggregate C&I and deposits are wired. The large/small split and CRE need their own FRED ids confirmed.",
-   "status": "OPEN \u2014 solvable"
   }
  ],
  "auction_count": 66

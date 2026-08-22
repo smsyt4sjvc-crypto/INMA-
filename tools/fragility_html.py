@@ -94,7 +94,7 @@ ladder_html = "".join(
     f'''<li class="{'lit' if l['lit'] else 'dark'}" style="--c:{SC[l['status']]}">
 <span class="sn">{l['stage']}</span>
 <span class="ln">{escape(l['name'])}</span>
-{chip(l['status'])}<span class="cnt">{l['n']} series</span></li>''' for l in D["ladder"])
+{chip(l['status'])}<span class="cnt">{l['n_lit']}/{l['n_indep']} lit{'&nbsp;✦' if l['corroborated'] else ''}</span></li>''' for l in D["ladder"])
 
 gaps_html = "".join(
     f'<li><b>Chart {g["chart"]} — {escape(g["name"])}</b><span class="gs">{escape(g["status"])}</span>'
@@ -139,7 +139,8 @@ font-size:11px;font-weight:700;background:var(--surface-0);border:1px solid var(
 color:var(--text-secondary)}}
 li.lit .sn{{background:var(--c);border-color:var(--c);color:#fff}}
 .ln{{flex:1;min-width:0}}
-.cnt{{flex:none;color:var(--text-muted);font-size:12px;width:64px;text-align:right}}
+.cnt{{flex:none;color:var(--text-muted);font-size:12px;width:78px;text-align:right;
+font-variant-numeric:tabular-nums}}
 .chip{{display:inline-flex;align-items:center;gap:5px;font-size:11px;font-weight:600;
 color:var(--c);white-space:nowrap}}
 .chip .g{{font-size:9px;line-height:1}}
@@ -182,7 +183,10 @@ baked in at build time, no client-side fetch · scored against each series&rsquo
 
 <div class="card verdict">{escape(D["verdict"])}
 <span class="sub">Stress is supposed to migrate <b>downward</b> through these stages.
-A single lit stage is a repricing. Stages lighting <b>in order</b> is the chain.</span></div>
+A single lit stage is a repricing. Stages lighting <b>in order</b> is the chain.
+<b>n/N lit</b> counts the independent series in a stage at warning or worse — a stage with
+eight series has eight chances to light and one with a single series has one, so the count
+is shown rather than hidden. <b>✦ = corroborated</b> (two or more independent series agree).</span></div>
 
 <div class="card"><h2>Transmission ladder</h2><ol class="ladder">{ladder_html}</ol></div>
 
@@ -208,6 +212,11 @@ own trailing three years, on level and on 20-observation rate of change. Status 
 <i>or</i> rate ≥95th; <code>warning</code> at level ≥75th <i>or</i> rate ≥85th. Trending and
 inverted series are scored on rate alone. Bank C&amp;I loans and deposits are inverted —
 for those, <b>contraction</b> is the stress.</p>
+<p class="note">A series that merely restates another (the CCC-minus-HY gap is arithmetic on
+CCC and HY) is shown and scored but <b>excluded from the corroboration count</b>, so CCC is not
+counted twice. Derived and cross-bank series are held to like-for-like seasonal adjustment:
+large-bank C&amp;I is computed as domestically-chartered minus small, both <b>not</b> seasonally
+adjusted, because the seasonally-adjusted small-bank series was discontinued in 2018.</p>
 <p class="note">Sources, all keyless: FRED public graph CSV · NY Fed markets API ·
 TreasuryDirect auction API · Yahoo (^MOVE). Rebuilt daily by GitHub Actions; the raw
 series live in <code>data/fragility/series/*.csv</code>.</p></div>

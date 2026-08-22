@@ -49,12 +49,20 @@ IND = {
  "rvol10":    ("10Y realized vol (PROXY)",     4, 4, "bp ann", 1, 4,  0, "MOVE proxy, realized not implied"),
  "dgs30":     ("30Y Treasury yield",           4, 4, "%",      1, 4,  0, "dangerous when rising WITH vol"),
  "pd_ust":    ("Dealer UST net position",      9, 5, "$mm",    1, 10, 0, "are dealers getting stuffed"),
+ "repo_fin":  ("Dealer UST repo financing",    9, 5, "$mm",    1, 10, 0, "dealers funding their own inventory"),
+ "rev_repo":  ("Dealer UST reverse repo",      9, 5, "$mm",    1, 10, 0, "cash lent out against collateral"),
  "pd_ftd":    ("Dealer UST fails to deliver",  9, 5, "$mm",    1, 10, 0, "settlement plumbing"),
  "pd_ftr":    ("Dealer UST fails to receive",  9, 5, "$mm",    1, 10, 0, "settlement plumbing"),
  "sofr_iorb": ("SOFR minus IORB",              7, 6, "bp",     1, 4,  0, "overnight secured funding"),
  "repo_ops":  ("Fed repo ops accepted",        7, 6, "$B",     1, 4,  0, "SRF take-up = plumbing tightening"),
- "ci_loans":  ("H.8 C&I loans",               10, 7, "$B",     1, 40, 1, "stress entering the bank channel"),
- "deposits":  ("H.8 bank deposits",           10, 7, "$B",     1, 10, 1, "falling deposits + falling C&I is ugly"),
+ "ci_all":    ("H.8 C&I loans, all banks",    10, 7, "$B",     1, 10, 1, "contraction is the stress here"),
+ "ci_large":  ("H.8 C&I loans, LARGE banks",  10, 7, "$B",     1, 10, 1, "DERIVED: domestic minus small, both NSA"),
+ "ci_small":  ("H.8 C&I loans, SMALL banks",  10, 7, "$B",     1, 10, 1, "NSA -- the SA series died in 2018"),
+ "cre_all":   ("H.8 CRE loans, all banks",    10, 7, "$B",     1, 10, 1, "commercial real estate"),
+ "cre_large": ("H.8 CRE loans, LARGE banks",  10, 7, "$B",     1, 10, 1, "commercial real estate"),
+ "cre_small": ("H.8 CRE loans, SMALL banks",  10, 7, "$B",     1, 10, 1, "67% of ALL CRE sits at small banks"),
+ "dep_large": ("H.8 deposits, LARGE banks",   10, 7, "$B",     1, 10, 1, "funding base"),
+ "dep_small": ("H.8 deposits, SMALL banks",   10, 7, "$B",     1, 10, 1, "deposit flight shows up here first"),
  "vix":       ("VIX",                          0, 0, "pts",    1, 4,  0, "context only -- not a chain stage"),
 }
 STAGES = {
@@ -72,7 +80,13 @@ STAGES = {
 # dealer positions sit high because ISSUANCE is high. For these, status comes
 # from RATE OF CHANGE ONLY. This is Jake's own swap-spread rule generalised:
 # no arbitrary level threshold, watch for dislocation from the recent range.
-DETREND = {"dgs30", "pd_ust", "pd_ftd", "pd_ftr", "ci_loans", "deposits"}
+DETREND = {"dgs30", "pd_ust", "pd_ftd", "pd_ftr", "repo_fin", "rev_repo"}
+
+# Series that RESTATE another series rather than adding evidence. The CCC-minus-HY
+# gap is arithmetic on ccc_oas and hy_oas -- counting it as a third lit indicator
+# in stage 1 would be counting CCC twice. Excluded from the corroboration count,
+# still shown, still scored.
+REDUNDANT = {"ccc_hy_gap": ("ccc_oas", "hy_oas")}
 
 RANK = {"calm": 0, "warning": 1, "serious": 2, "critical": 3}
 ICON = {"calm": "OK", "warning": "!", "serious": "!!", "critical": "!!!"}
@@ -139,6 +153,7 @@ def score(key, s):
             "detrended": key in DETREND or bool(inv),
             "rate_pct": rate_p and round(rate_p, 1),
             "status": st, "n": len(s), "age_days": age,
+            "redundant": key in REDUNDANT,
             "stale": age > cadence,
             "spark": [round(v, 4) for v in vals[-120:]]}
 
@@ -149,22 +164,34 @@ def main():
     if os.path.exists(mp): meta = json.load(open(mp))
 
     # ladder: worst status per chain stage
+    # ⚠️ COUNT BIAS: a worst-of-stage rule makes a stage with 8 series far more
+    # likely to light than a stage with 1, purely from having more chances. The
+    # math is left alone -- the fix is to SHOW how many of the stage's series are
+    # lit, so "1 of 8" is never read as "the stage is lit". CORROBORATED means two
+    # or more NON-REDUNDANT series in that stage agree.
     ladder = []
     for sn in sorted(STAGES):
         rs = [r for r in rows if r["stage"] == sn]
+        indep = [r for r in rs if not r["redundant"]]
         worst = max((r["status"] for r in rs), key=lambda x: RANK[x]) if rs else "calm"
+        n_lit = sum(1 for r in indep if RANK[r["status"]] >= 1)
         ladder.append({"stage": sn, "name": STAGES[sn], "status": worst,
-                       "n": len(rs), "lit": RANK[worst] >= 1})
+                       "n": len(rs), "n_indep": len(indep), "n_lit": n_lit,
+                       "corroborated": n_lit >= 2, "lit": RANK[worst] >= 1})
 
-    lit = [l for l in ladder if l["lit"]]
+    lit  = [l for l in ladder if l["lit"]]
+    corr = [l for l in lit if l["corroborated"]]
     if not lit:
         verdict = "NO STAGE LIT -- no evidence of a credit crack in the public data."
     elif len(lit) == 1:
-        verdict = (f"ONE STAGE LIT (stage {lit[0]['stage']}: {lit[0]['name']}). "
+        c = ("corroborated by %d of its %d independent series"
+             % (lit[0]["n_lit"], lit[0]["n_indep"])) if lit[0]["corroborated"] else \
+            ("on a SINGLE series of %d -- weak" % lit[0]["n_indep"])
+        verdict = (f"ONE STAGE LIT (stage {lit[0]['stage']}: {lit[0]['name']}, {c}). "
                    "Localised repricing, not a chain.")
     else:
-        verdict = (f"{len(lit)} STAGES LIT: " +
-                   " -> ".join(f"{l['stage']}" for l in lit) +
+        verdict = (f"{len(lit)} STAGES LIT ({len(corr)} corroborated): " +
+                   " -> ".join(str(l["stage"]) for l in lit) +
                    ". Check whether they lit IN ORDER -- sequence is the signal.")
 
     payload = {"generated": datetime.now().astimezone().isoformat(timespec="seconds"),
@@ -180,10 +207,13 @@ def main():
     print("  CREDIT / DEBT FRAGILITY DASHBOARD".ljust(70) + payload["generated"][:16])
     print("=" * W)
     print("\n  TRANSMISSION LADDER  (stress migrates downward; SEQUENCE is the signal)")
+    print("  n/N lit = independent series in that stage at warning or worse."
+          "  * = corroborated (2+)")
     for l in ladder:
         bar = "#" * RANK[l["status"]] if RANK[l["status"]] else "."
+        mark = "*" if l["corroborated"] else (" " if l["lit"] else " ")
         print(f"   {l['stage']}  [{bar:<3}] {ICON[l['status']]:<4}"
-              f" {l['name']:<38} ({l['n']} series)")
+              f" {l['name']:<38} {l['n_lit']}/{l['n_indep']} lit{mark}")
     print(f"\n  >> {verdict}\n")
     print(f"  {'indicator':<30}{'value':>11} {'unit':<8}{'chg1p':>10}{'chg20p':>11}"
           f"{'lvl%':>6}{'rate%':>7}  status")
