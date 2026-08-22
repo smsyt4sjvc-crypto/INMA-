@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-22T06:55:44+00:00",
+ "generated": "2026-08-22T14:15:33+00:00",
  "meta": {
   "ccc_oas": {
    "label": "CCC & lower OAS",
@@ -30,11 +30,6 @@
    "label": "A2/P2 minus AA CP, 90d",
    "stage": 3,
    "panel": 8
-  },
-  "move": {
-   "label": "MOVE index",
-   "stage": 4,
-   "panel": 4
   },
   "rvol10": {
    "label": "10Y realized vol (MOVE proxy)",
@@ -137,13 +132,14 @@
   "dep_large",
   "dep_small"
  ],
- "errors": [
-  {
-   "key": "move",
-   "error": "RuntimeError: curl rc=22 curl: (22) The requested URL returned error: 429"
-  }
- ],
+ "errors": [],
  "gaps": [
+  {
+   "chart": 4,
+   "name": "MOVE index \u2014 DEMOTED TO A GAP 2026-08-22",
+   "why": "Yahoo's ^MOVE endpoint 429s from BOTH this container AND GitHub runners, so the 'the runner has a cleaner IP' fix does not apply. Stooq is JS-gated; FRED's VXTYN (implied Treasury vol) was DISCONTINUED in May 2020; MOVE itself is ICE BofA proprietary. It was left as a live row frozen at 73.40 (2026-08-21) reading CALM \u2014 the exact 'stale number that looks calm' this vault warns about. Stage 4 now runs on the 10Y REALIZED-vol proxy alone: realized is not implied, and implied leads.",
+   "status": "NO FREE SOURCE FOUND \u2014 proxy only"
+  },
   {
    "chart": 3,
    "name": "CDX IG / CDX HY",
@@ -158,9 +154,9 @@
   },
   {
    "chart": 11,
-   "name": "Single-name 5Y CDS (AVGO/NVDA/ORCL/META/GOOGL/AMZN/MSFT)",
-   "why": "Markit proprietary. This is the panel the AI-debt thesis most wants and the one with no free source. It stays MANUAL INGEST.",
-   "status": "UNOBTAINABLE FREE \u2014 keep sending charts"
+   "name": "Single-name 5Y CDS \u2014 CLOSED 2026-08-22",
+   "why": "SOLVED via ICE Clear Credit's free daily settlement prices (tools/icc_cds.py). All 12 AI-complex names clear, CoreWeave included. Two remaining limits, both real: the published number is a points-upfront PRICE that must be MODELLED into a spread, and ICE serves only one clearing date \u2014 history is licensed, so the vault accumulates forward from 2026-08-22 and cannot percentile-score these rows for years.",
+   "status": "CLOSED \u2014 levels only, no baseline yet"
   }
  ],
  "auction_count": 66

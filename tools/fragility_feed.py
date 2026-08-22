@@ -167,7 +167,6 @@ SPEC = [
     ("bbb_oas",   "BBB OAS",                        2, 2, "fred", "BAMLC0A4CBBB"),
     ("ig_oas",    "Investment-grade OAS",           2, 2, "fred", "BAMLC0A0CM"),
     ("cp_spread", "A2/P2 minus AA CP, 90d",         3, 8, "derived", None),
-    ("move",      "MOVE index",                     4, 4, "yahoo", "%5EMOVE"),
     ("rvol10",    "10Y realized vol (MOVE proxy)",  4, 4, "derived", None),
     ("dgs30",     "30Y Treasury yield",             4, 4, "fred", "DGS30"),
     ("sofr_iorb", "SOFR minus IORB",                6, 7, "derived", None),
@@ -192,6 +191,16 @@ INVERTED = {"ci_all", "ci_large", "ci_small", "cre_all", "cre_large",
             "cre_small", "dep_large", "dep_small"}
 
 GAPS = [
+    {"chart": 4,  "name": "MOVE index — DEMOTED TO A GAP 2026-08-22",
+     "why": "Yahoo's ^MOVE endpoint 429s from BOTH this container AND GitHub "
+            "runners, so the 'the runner has a cleaner IP' fix does not apply. "
+            "Stooq is JS-gated; FRED's VXTYN (implied Treasury vol) was "
+            "DISCONTINUED in May 2020; MOVE itself is ICE BofA proprietary. "
+            "It was left as a live row frozen at 73.40 (2026-08-21) reading "
+            "CALM — the exact 'stale number that looks calm' this vault warns "
+            "about. Stage 4 now runs on the 10Y REALIZED-vol proxy alone: "
+            "realized is not implied, and implied leads.",
+     "status": "NO FREE SOURCE FOUND — proxy only"},
     {"chart": 3,  "name": "CDX IG / CDX HY",
      "why": "Markit/S&P proprietary. No free feed exists. The ICE cash-bond OAS "
             "series (charts 1-2) answer the same question more slowly.",
