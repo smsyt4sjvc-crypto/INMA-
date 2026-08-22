@@ -177,3 +177,6 @@ Nightly point + 80% range + direction + kill-switch for the core five; graded ne
 ## 📁 Trading system (`trading-system/` → transplants to repo `Alpaca-Claude`)
 `constitution.md` (constraints→vehicle→laws→roadmap), `CLAUDE.md` (the 8 laws), `README.md`,
 `alpaca_connection_test.ipynb`, `.gitignore`, `.env.example`. Separate domain, own brain.
+
+### ★★★ STANDING POSITIONS — read these before the threads that feed them
+- **OPTIMUS / MAGNETS / PHYSICAL AI → [[buildout-bottleneck-map]] `:L1241` (2026-08-22).** Canonical. Supersedes the 8/21 supplier map and its whole ORDERS layer. Earlier Optimus entries are history, not state.
