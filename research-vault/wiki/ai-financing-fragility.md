@@ -7082,3 +7082,67 @@ economics of those transactions are unknown."* **⟲ EXTENDS `:L4996` (the A100 
 3. 🚩 **GPU RENTAL INDEX AS A LIVE SERIES** (`SDA100RT` + the H100 marketplace series). ⇒ **It is
    simultaneously the collateral mark AND the revenue line. One series, both sides of the credit.**
 **Links:** [[financing-fragility-gauge]] · [[metered-compute]] · [[ai-capex-cycle]] · [[compression-thesis]]
+
+---
+
+## 2026-08-22 ~9:00am PDT — ⛔⛔⛔ **THE "$220B vs $12.5B, 17.6×" HEADLINE IS A YEAR-OVER-YEAR COMPARISON, AND THE VAULT'S OWN SEQUENTIAL TRACK SAYS THE ISSUANCE PACE IS *DECELERATING*: $33.8B/mo → $22.8B/mo → $25.0B/mo. ⇒ THE SCAN'S "EXTRAORDINARY CHANGE IN CAPITAL-MARKET DEMAND" IS TRUE OF THE YEAR AND FALSE OF THE QUARTER.**
+Source: Jake's DAILY HOLDINGS SCAN 2026-08-22 (Reuters 8/21, BNY iFlow 8/21) →
+`raw/2026-08-22-holdings-scan/`. **⟲ EXTENDS `:L336` (2026-07-13, search-verified issuance track).**
+
+#### ⛔ THE COLLISION THE GATE CAUGHT — THE VAULT ALREADY OWNED THE INTERMEDIATE POINTS
+- **`:L336-340`, filed 2026-07-13:** **"$152B issued in the first 4.5 months"** · **"hyperscaler bond
+  issuance 2026 YTD ~$195-200B"**. **Scan: $220B through Aug 10.**
+| window | issued | months | **run-rate** |
+|---|---|---|---|
+| Jan 1 → mid-May | $152.0B | 4.5 | **$33.8B / month** |
+| mid-May → mid-July | $45.5B | 2.0 | **$22.8B / month** |
+| **mid-July → Aug 10** | **$22.5B** | 0.9 | **$25.0B / month** |
+- ⇒ **★★★★★ A 17.6× YoY MULTIPLE AND A DECELERATING SEQUENTIAL PACE ARE BOTH TRUE, AND THEY POINT
+  OPPOSITE WAYS.** **The prior-year base ($12.5B) is tiny, so the multiple is arithmetically enormous
+  and says almost nothing about the CURRENT margin.** ⇒ **THE MARGIN IS WHAT PRICES THE NEXT DEAL.**
+  *(Analysis. This is the entry's finding, and it cuts against the scan's own conclusion.)*
+- **⚠️ HONEST BOUNDS: the $152B / $195-200B legs are search-verified secondary reporting, not a
+  primary tally, and "hyperscaler" is UNDEFINED across the three sources — a different constituent
+  list would move the run-rates.** ⬜ **A primary issuance tally by CUSIP has never been built.**
+  **Treat the DIRECTION as the claim and the levels as approximate.**
+
+#### ⛔⛔ AND TWO ITEMS PRESENTED AS NEW ARE SIX WEEKS OLD IN THIS VAULT
+1. **"Alphabet recently had to offer roughly a 10-15bp new-issue concession."** ⇒ **⛔ `:L340` HAS
+   HELD "Alphabet/Meta paying 10-15bp new-issue concessions" SINCE 2026-07-13.**
+   ⇒ **★★★ AND THE FACT THAT IT IS *STILL* 10-15bp SIX WEEKS LATER IS THE ACTUAL FINDING: THE
+   CONCESSION HAS NOT WIDENED.** ⇒ **That is evidence AGAINST accelerating indigestion at the
+   mega-cap end, and it arrives inside an item filed to argue the opposite.** *(Analysis.)*
+   ✅ **This CLOSES the vault's registered fetch "new-issue concession in basis points" — with the
+   answer "unchanged since July," which is more informative than the number.**
+2. **"Amazon's RECENT $25B long-dated deal."** ⇒ **⛔ `:L272` (2026-07-08) carries "AMZN's $25B
+   8-part bond" and `:L619` (7/17) carries "Amazon's $25 Billion Bond Sale."** ⇒ **Almost certainly
+   the same deal, i.e. ~6 weeks old, not recent.** ⚠️ **NOT CERTAIN — the vault also holds a GOOGL
+   $25B offering (`hyperscaler-credit:L277`), and three $25B deals in one complex invites exactly the
+   confusion this line makes.** ⬜ **The ~120bp spread and the "half that last year" comparison ARE
+   new; the DEAL is not.**
+
+#### ⭐⭐ THE ONE GENUINELY NEW AND LOAD-BEARING STATISTIC — AND IT IS THE BEST LINE IN THE SCAN
+- **BNY iFlow: hyperscalers are ~4% OF OUTSTANDING IG DEBT but ~ONE THIRD OF NEW ISSUANCE AT 30+
+  YEAR MATURITIES.**
+- ⇒ **★★★★★★ THAT IS AN EIGHT-FOLD CONCENTRATION AT EXACTLY THE POINT ON THE CURVE UNDER THE MOST
+  STRESS.** ⇒ **The crowding-out argument stops being about TOTAL supply and becomes about TENOR:
+  the Treasury and the hyperscalers are not competing for "capital," they are competing for the
+  SAME SCARCE POOL OF 30-YEAR DURATION BUYERS.** *(Analysis. This sharpens
+  [[rates-board]]'s long-end thread from a volume story into a tenor story.)*
+- **✅ AND THE 4% RECONCILES WITH THE VAULT: `:L340` held "big-5 heading toward >5% of the IG index"
+  (7/13). 4% of OUTSTANDING vs >5% of the INDEX is the same order — different denominators, no
+  conflict.**
+
+#### ✅ INDEPENDENT CORROBORATION FROM THE VAULT'S OWN DASHBOARD
+- **Scan: technology spreads ~89bp, ~9bp wider than broad IG ⇒ implies IG ≈ 80bp.**
+- **The fragility ladder's IG OAS (FRED BAMLC0A0CM, 8/20 close) = 82bp.** ⇒ **✅ Consistent within
+  2bp, from a completely separate origin.** ⇒ **And it locates the AI complex precisely: 89bp tech
+  sits at the vault's 8/21 ICE-derived MSFT (46.3) → CRWV (802.6) ladder's LOW end — the INDEX is
+  dragged by the mega-caps and hides the dispersion entirely.**
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **A PRIMARY HYPERSCALER ISSUANCE TALLY BY CUSIP.** **Three secondary sources, three
+   different implied constituent lists, and the run-rate finding rests on all three.**
+2. 🚩🚩 **THE 30Y+ SHARE AS A SERIES.** **BNY's one-third is a snapshot. If it is RISING, the tenor
+   squeeze is tightening; if flat, it is a structural feature.** **One number, monthly.**
+3. ⬜ **Confirm whether the ~120bp AMZN print is the July 8 deal or a new one.**

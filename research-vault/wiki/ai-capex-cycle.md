@@ -3479,3 +3479,48 @@ Source: Jake's holdings update, 2026-08-20 ~10:00am, citing the **Marvell 8-K of
 4. ⬜ **AMD/Google TPU-v10: PRESS CHATTER, NOT CONFIRMED.** ✓ **The summary labels it correctly. Do not
    file it as a fact; it is a watch item with no artifact.**
 **Links:** [[rates-board]] · [[compression-thesis]] · [[physical-ai-hardware-stack]] · [[transmission-chain]]
+
+---
+
+## 2026-08-22 ~9:00am PDT — **ON/SYNAPTICS S-4: THE HEADLINE IS 12% DILUTION, BUT THE NUMBER THE FILING ACTUALLY DISCLOSES IS THAT *ON'S OWN STOCK FELL 30.2% DURING THE DEAL* — AND A FIXED EXCHANGE RATIO MADE THAT ENTIRELY THE SELLER'S LOSS.** ⭐ Plus NVDA denies the China LPU story
+Source: Jake's DAILY HOLDINGS SCAN 2026-08-22 → `raw/2026-08-22-holdings-scan/`.
+[S3-S6] ON Form S-4 filed 8/21 · [S7] Reuters 8/21.
+
+#### DATA (REPORTED — SEC filing)
+- **Each Synaptics share → 1.350 ON shares. THE RATIO IS FIXED.**
+- **Post-close ownership: ON holders ~88%, former SYNA holders ~12%.**
+- **HSR filed July 17. ⭐ FTC granted EARLY TERMINATION effective Aug 12** — a real reduction in
+  regulatory risk, and early termination is not routine.
+- **S-4 states the all-stock structure avoids incurring significant acquisition debt.**
+- **Valuation illustration in the filing:**
+| date | ON price | implied SYNA value | check |
+|---|---|---|---|
+| announcement 6/24 | **$115.74** | **$156.25** | 1.350 × 115.74 = **156.25** ✅ |
+| 8/4 | **$80.78** | **$109.05** | 1.350 × 80.78 = **109.05** ✅ |
+- **✅ Both legs reconcile to the cent. The filing's arithmetic is internally consistent.**
+
+#### ★★★ THE FINDING THE SCAN UNDER-WEIGHTS
+- **⇒ ON'S SHARE PRICE FELL 30.2% BETWEEN ANNOUNCEMENT AND AUG 4** ($115.74 → $80.78). ⇒ **A FIXED
+  exchange ratio means the entire decline was borne by SYNAPTICS holders: the consideration fell
+  $47.20/share, −30.2%, with no floor and no collar disclosed here.**
+- ⇒ **★★ THAT REFRAMES THE DILUTION LINE. "ON holders accept ~12% dilution" is the pro-forma
+  arithmetic; what the market actually did was RE-PRICE THE ACQUIRER BY A THIRD while the ratio
+  held.** ⇒ **A fixed ratio in a falling-acquirer tape transfers risk to the seller — and it is why
+  a deal can get CHEAPER for the buyer while looking unchanged on paper.** *(Analysis.)*
+- **⚠️ AND THE OPEN QUESTION THE SCAN DOES NOT ASK: DOES SYNAPTICS HAVE A WALK-AWAY RIGHT?** ⬜ **A
+  30% decline in consideration is the territory where a fiduciary out or a MAC clause matters, and
+  the scan reports no collar, no floor, no termination trigger.** 🚩 **REGISTERED: read the S-4's
+  termination and no-solicitation sections. Deal-completion odds turn on that, not on the HSR win.**
+- **✅ THE ALL-STOCK POINT IS SOUND AND IS THE VAULT'S OWN THESIS ARRIVING IN A FILING: with the 30Y
+  at 5.28 ([[rates-board]]) an acquirer choosing equity over debt is exactly the behaviour the
+  financing-fragility thread predicts. FILE IT AS CONFIRMING EVIDENCE.**
+
+#### ⭐ NVDA — THE CHINA LPU STORY IS DENIED BY THE COMPANY
+- **The Information reported small-batch China-tailored LPU shipments by year-end. NVIDIA denies it:
+  NO LPU sales in China, NO China-specific LPU on the roadmap** (Reuters 8/21).
+- ⇒ **A COMPANY DENIAL OUTRANKS A SINGLE-OUTLET REPORT ON THE EVIDENCE LADDER — but it is a denial of
+  a ROADMAP, which is the most revisable object a company owns.** ⇒ **Correct read: remove the
+  speculative LPU line from any China revenue bridge; do NOT treat the denial as durable guidance.**
+- **✅ UNCHANGED AND SEPARATELY SOURCED: H200 approved for a limited set (Alibaba, Tencent,
+  ByteDance), deliveries recently begun.** ⇒ **The real China leg is H200, and the denial does not
+  touch it.**

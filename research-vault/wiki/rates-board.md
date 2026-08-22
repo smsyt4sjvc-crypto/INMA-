@@ -909,3 +909,47 @@ Source: Jake's headline, 2026-08-20. **ALL FIGURES MEASURED FROM TREASURY FISCAL
 3. 🚩🚩 **TRACK OFFER VOLUME AT THE LONG END AS THE CONGESTION GAUGE.** **Baseline: $30.54B (7/16),
    $21.93B (7/28), $19.87B (8/18), $7.40B (8/11).** **Falling offers = dealers de-stocked. Rising = worse.**
 **Links:** [[financing-fragility-gauge]] · [[transmission-chain]] · [[market-fragility]]
+
+---
+
+## 2026-08-22 ~9:00am PDT — ⭐⭐⭐ **THE 30Y ROUND-TRIPPED IN THREE SESSIONS AND THE VAULT HAS EVERY LEG: 5.28 (8/18) → 5.19 (8/19 buyback) → 5.23 (8/20) → 5.28 (8/21). ⛔ FRIDAY IS A RE-TOUCH OF MONDAY'S LEVEL, NOT A NEW HIGH.**
+Source: Jake's DAILY HOLDINGS SCAN 2026-08-22 (Reuters 8/21). **⟲ EXTENDS `:L780` — that entry's own
+table supplies three of the four legs.**
+
+#### DATA (REPORTED / MEASURED)
+| date | 30Y | source |
+|---|---|---|
+| **8/18 close** | **5.28** | `:L788` table, Treasury settled |
+| **8/19 close** | **5.19** | `:L788`, Treasury settled — the buyback day |
+| **8/20** | **5.23** | `:L788` live 07:34; the ladder's FRED DGS30 8/20 close = **5.23** ✅ two origins |
+| **8/21 close** | **~5.28** | scan (Reuters) |
+- **10Y: 4.71 (8/18) → 4.65 (8/19) → 4.69 (8/20, FRED 4.69 ✅) → ~4.74 (8/21).**
+
+#### ⛔ THE CORRECTION, AND IT IS ERROR CLASS 2 IF LEFT UNSAID
+- **The scan says the 30Y is "around its highest level since 2007."** ⇒ **⚠️ THE VAULT HELD 5.28 ON
+  8/18 — FOUR SESSIONS EARLIER. Friday MATCHES that level; it does not exceed it.** ⇒ **"Re-touch of
+  the week's high," not "new high."** **The scan's own phrasing ("close to the week's extreme") is
+  the careful version; the "since 2007" clause is the one that invites the error.**
+- ✅ **WHAT IS FULLY CONFIRMED, AND IT IS THE BETTER STORY: THE BUYBACK RALLY IS ENTIRELY GONE.**
+  **−9bp on the announcement, +9bp back over two sessions. A COMPLETE ROUND TRIP, not "largely
+  reversed."** ⇒ **★ THIS GRADES THE VAULT'S 8/19 SCALE DISCIPLINE CORRECT: the entry that sized the
+  operation at $28B = 7.8% of monthly coupon supply and refused the enthusiasm has now been paid.
+  A buyback that moves the 30Y for two days is a liquidity operation, not a policy shift.**
+  *(Analysis. Registered call, graded.)*
+- **✅ AND THE 8/20 CROSS-CHECK IS CLEAN: the note's live read (5.23) and the fragility ladder's
+  independent FRED DGS30 close (5.23) agree exactly. Same for the 10Y at 4.69.**
+
+#### ⇒ ⭐⭐ THE TENOR FINDING FROM [[ai-financing-fragility]] LANDS HERE AND CHANGES WHAT THE LONG END IS
+- **BNY: hyperscalers ≈4% of outstanding IG but ≈ONE THIRD of new 30Y+ issuance.**
+- ⇒ **THE LONG END IS NOT BEING PRESSURED BY "CORPORATE SUPPLY." IT IS BEING PRESSURED BY A HANDFUL
+  OF AI ISSUERS TAKING A THIRD OF THE 30-YEAR WINDOW.** ⇒ **That is a far more concentrated — and
+  therefore far more reversible — source of pressure than a broad supply story.** ⇒ **⚠️ AND IT CUTS
+  BOTH WAYS: concentrated pressure unwinds fast if those issuers pause, and the vault's own
+  issuance run-rate above shows the pace already flat-to-slower.** *(Analysis.)*
+
+#### 📅 DATED CATALYST
+- **🚩 BESSENT PRESS CONFERENCE, MONDAY 2026-08-24, 2:00pm ET.** **Treasury support and Iran
+  sanctions both flagged.** ⇒ **A DATED, FALSIFIABLE EVENT — the WARNING-vs-TRIGGER rule's kind.**
+  **The 30Y sits at 5.28 having round-tripped the last intervention. ⬜ The test: does a second
+  announcement move it further than the first, or less? A DECAYING response to successive
+  interventions would be the single most informative thing the long end could print.**
