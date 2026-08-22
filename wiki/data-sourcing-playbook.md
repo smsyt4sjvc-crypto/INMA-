@@ -639,6 +639,14 @@ above it, which demoted MOVE to a gap.**
   a long series: it checks the two points that matter most and that a bad pull would corrupt first.**
   🚩 **GENERALISE IT: whenever a quote page offers a 52-week range, check it against the stored
   series. It is a free integrity test on years of data.**
-- **⭐ BETTER ROUTE FOUND: `google.com/finance/quote/MOVE:INDEXNYSEGIS` SERVED AUG 21 WHILE YAHOO'S
-  PAGE WAS STILL ON AUG 20.** ⇒ **Google Finance is now the primary WebFetch route; Yahoo is the
-  fallback.** ⚠️ **Google does not display a percent change — compute it, do not quote it.**
+- **⬜ AND A CLAIM I FILED TOO STRONGLY, CAUGHT BY JAKE IN THREE WORDS — "Because it's Saturday."**
+  **I observed Google serving Aug 21 while Yahoo served Aug 20 and filed "Google Finance is the
+  primary route."** ⇒ **⛔ THAT IS n=1 ON A NON-TRADING DAY.** **The gap is real, but SATURDAY IS
+  EXACTLY WHEN A SYSTEMATIC ONE-DAY LAG AND A STALE CDN CACHE ARE INDISTINGUISHABLE — neither
+  refreshes to correct itself until Monday.** ⇒ **Restated: try Google first, CHECK BOTH, take the
+  later timestamp. Which source is structurally fresher is UNTESTED.**
+  🚩 **THE TEST THAT WOULD SETTLE IT: compare both DURING a weekday session, several days running.**
+- **⇒ ⚠️ AND IT IS THE SAME ERROR SHAPE AS ERROR CLASS 7 EARLIER THE SAME HOUR — concluding from an
+  unrepresentative sample. Class 7 was one TOOL called an exhaustive search; this is one DAY called
+  a pattern.** *(Analysis. The recurrence inside a single session is the point worth keeping.)*
+- ⚠️ **Google does not display a percent change — compute it, do not quote it.**
