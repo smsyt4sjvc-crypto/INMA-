@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **209 dated entries across 6 notes · 2026-05-22 → 2026-08-21 · refreshed 2026-08-21 19:55 PDT**
+> **209 dated entries across 6 notes · 2026-05-22 → 2026-08-21 · refreshed 2026-08-21 19:57 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -230,4 +230,4 @@
 - `2026-08-20` [transmission-chain.md:L253](../transmission-chain.md) — ⭐⭐⭐⭐⭐⭐ 2026-08-20 ~7:55am PDT — **STAGE 4b GETS BOTH A FEDERAL TEMPLATE *AND* A CONSTRAINT THE CHAIN HAS NO NODE FOR: THE "RATEPAYER PROTECTION PLEDGE
 - `2026-08-21` [ai-financing-fragility.md:L6762](../ai-financing-fragility.md) — 2026-08-21 ~8:15am PDT — ⛔⭐⭐⭐⭐⭐ **THE AVGO DEAL IS NOT NEW — IT IS THE SECOND TRANCHE OF A PLATFORM THIS VAULT ALREADY HELD, AND BROADCOM'S CONTINGENT
 - `2026-08-21` [ai-financing-fragility.md:L6834](../ai-financing-fragility.md) — 2026-08-21 ~8:45am PDT — ★★★★★★ **JAKE'S 2030 TIPPING-POINT READ IS RIGHT BY A BETTER ROUTE THAN HE STATED, AND THIS VAULT ALREADY HAS THE NATURAL EXP
-- `2026-08-21` [financing-fragility-gauge.md:L143](../financing-fragility-gauge.md) — ⭐⭐⭐⭐⭐⭐ 2026-08-21 ~9:10am PDT — **THE 9× GAP IS NOT A CREDIT SPREAD. IT IS THE PRICE OF NOT KNOWING — AND IT MAKES THE MATURITY CURVE A DIRECT READING
+- `2026-08-21` [financing-fragility-gauge.md:L144](../financing-fragility-gauge.md) — ⭐⭐⭐⭐⭐⭐ 2026-08-21 ~9:10am PDT — **THE 9× GAP IS NOT A CREDIT SPREAD. IT IS THE PRICE OF NOT KNOWING — AND IT MAKES THE MATURITY CURVE A DIRECT READING

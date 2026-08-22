@@ -102,6 +102,7 @@ was measuring the wrong thing, and the thing that DID work (a deep bilateral bid
 ## 📊 THE LEDGER — every inbound, its shift, one line
 | date | inbound | shift | why |
 |---|---|---|---|
+| 08-21 | **BofA FMS: cash 3.5%, 56% OW equities, 14th straight bullish month** | **▲** | Equity-side bid depth reads THIN. Low FMS cash doesn't mean buyers are coming — it means **no buffer before selling starts**. Confirms the MMF read from the opposite pool: the cash holder isn't an equity buyer |
 | 08-21 | **AVGO platform is a SECOND tranche, not a first deal** | **▲▲** | Vault already held the $35B June SPV + ~$30B AVGO residual support. **~3× the money and ~20× the GW in ten weeks**; AVGO's contingent exposure roughly doubles |
 | 08-21 | **NBIS $5B convert priced, UPSIZED** | **▼ then ▲** | ✓ Real counter-evidence: a neocloud raised $5B and had to upsize. ⛔ But **0.50% (2030) vs 4.50% (2034)** — the vol market is open, the bond market is not, and it builds a maturity wall while manufacturing equity supply via delta hedging |
 | 08-21 | **BCA on neocloud ROIC** | **●** | Fifth independent derivation of the vault's borrow-to-build finding. Confirms, adds no new state |
