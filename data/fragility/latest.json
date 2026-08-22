@@ -1,5 +1,171 @@
 {
- "generated": "2026-08-22T06:55:57+00:00",
+ "cds": {
+  "date": "2026-08-21",
+  "days_of_history": 1,
+  "names": [
+   {
+    "ticker": "CRWV",
+    "issuer": "CoreWeave",
+    "spread_bp": 802.6,
+    "price": 90.4256,
+    "coupon_bp": 500,
+    "maturity": "2031-06-20",
+    "chg": null,
+    "hy_convention": true,
+    "spark": [
+     802.6
+    ]
+   },
+   {
+    "ticker": "ORCL",
+    "issuer": "Oracle",
+    "spread_bp": 223.6,
+    "price": 95.1325,
+    "coupon_bp": 100,
+    "maturity": "2031-06-20",
+    "chg": null,
+    "hy_convention": false,
+    "spark": [
+     223.6
+    ]
+   },
+   {
+    "ticker": "TSLA",
+    "issuer": "Tesla",
+    "spread_bp": 132.7,
+    "price": 98.6661,
+    "coupon_bp": 100,
+    "maturity": "2031-06-20",
+    "chg": null,
+    "hy_convention": false,
+    "spark": [
+     132.7
+    ]
+   },
+   {
+    "ticker": "AVGO",
+    "issuer": "Broadcom",
+    "spread_bp": 122.6,
+    "price": 99.0738,
+    "coupon_bp": 100,
+    "maturity": "2031-06-20",
+    "chg": null,
+    "hy_convention": false,
+    "spark": [
+     122.6
+    ]
+   },
+   {
+    "ticker": "META",
+    "issuer": "Meta Platforms",
+    "spread_bp": 94.2,
+    "price": 100.2391,
+    "coupon_bp": 100,
+    "maturity": "2031-06-20",
+    "chg": null,
+    "hy_convention": false,
+    "spark": [
+     94.2
+    ]
+   },
+   {
+    "ticker": "AMD",
+    "issuer": "Advanced Micro Devices",
+    "spread_bp": 93.7,
+    "price": 100.2597,
+    "coupon_bp": 100,
+    "maturity": "2031-06-20",
+    "chg": null,
+    "hy_convention": false,
+    "spark": [
+     93.7
+    ]
+   },
+   {
+    "ticker": "NVDA",
+    "issuer": "Nvidia",
+    "spread_bp": 85.5,
+    "price": 100.603,
+    "coupon_bp": 100,
+    "maturity": "2031-06-20",
+    "chg": null,
+    "hy_convention": false,
+    "spark": [
+     85.5
+    ]
+   },
+   {
+    "ticker": "INTC",
+    "issuer": "Intel",
+    "spread_bp": 73.4,
+    "price": 101.1131,
+    "coupon_bp": 100,
+    "maturity": "2031-06-20",
+    "chg": null,
+    "hy_convention": false,
+    "spark": [
+     73.4
+    ]
+   },
+   {
+    "ticker": "DELL",
+    "issuer": "Dell",
+    "spread_bp": 63.8,
+    "price": 101.5191,
+    "coupon_bp": 100,
+    "maturity": "2031-06-20",
+    "chg": null,
+    "hy_convention": false,
+    "spark": [
+     63.8
+    ]
+   },
+   {
+    "ticker": "AMZN",
+    "issuer": "Amazon",
+    "spread_bp": 62.1,
+    "price": 101.5904,
+    "coupon_bp": 100,
+    "maturity": "2031-06-20",
+    "chg": null,
+    "hy_convention": false,
+    "spark": [
+     62.1
+    ]
+   },
+   {
+    "ticker": "GOOGL",
+    "issuer": "Alphabet",
+    "spread_bp": 56.4,
+    "price": 101.8337,
+    "coupon_bp": 100,
+    "maturity": "2031-06-20",
+    "chg": null,
+    "hy_convention": false,
+    "spark": [
+     56.4
+    ]
+   },
+   {
+    "ticker": "MSFT",
+    "issuer": "Microsoft",
+    "spread_bp": 46.3,
+    "price": 102.2679,
+    "coupon_bp": 100,
+    "maturity": "2031-06-20",
+    "chg": null,
+    "hy_convention": false,
+    "spark": [
+     46.3
+    ]
+   }
+  ],
+  "median_bp": 89.6,
+  "dispersion": 17.3,
+  "three_month_highs": null,
+  "maturity": "2031-06-20"
+ },
+ "generated": "2026-08-22T07:19:23+00:00",
  "verdict": "3 STAGES LIT (0 corroborated): 1 -> 3 -> 7. Check whether they lit IN ORDER -- sequence is the signal.",
  "ladder": [
   {

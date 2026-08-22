@@ -157,6 +157,50 @@ def score(key, s):
             "stale": age > cadence,
             "spark": [round(v, 4) for v in vals[-120:]]}
 
+def cds_panel():
+    """The 11th panel: ICE Clear Credit single-name 5Y CDS.
+
+    ⛔ SCORED DIFFERENTLY FROM EVERY OTHER ROW, ON PURPOSE. ICE publishes ONE
+    clearing date and licenses the history, so the vault accumulates forward from
+    2026-08-22. There is no 3-year window to rank against and there will not be
+    one for years. Faking a percentile here would be the exact sin this dashboard
+    was built to avoid, so these are LEVELS, and the panel says how much history
+    it actually has."""
+    path = os.path.join(OUT, "cds_panel.csv")
+    if not os.path.exists(path):
+        return None
+    rows = list(csv.DictReader(open(path)))
+    if not rows:
+        return None
+    dates = sorted({r["date"] for r in rows})
+    latest = [r for r in rows if r["date"] == dates[-1]]
+    hist = {}
+    for r in rows:
+        hist.setdefault(r["ticker"], []).append((r["date"], float(r["spread_bp"])))
+    names = []
+    for r in sorted(latest, key=lambda x: -float(x["spread_bp"])):
+        h = sorted(hist[r["ticker"]])
+        prev = h[-2][1] if len(h) > 1 else None
+        names.append({
+            "ticker": r["ticker"], "issuer": r["issuer"],
+            "spread_bp": float(r["spread_bp"]), "price": float(r["price"]),
+            "coupon_bp": int(r["coupon_bp"]), "maturity": r["maturity"],
+            "chg": (round(float(r["spread_bp"]) - prev, 1) if prev is not None else None),
+            "hy_convention": int(r["coupon_bp"]) == 500,
+            "spark": [v for _, v in h][-120:],
+        })
+    sp = sorted(n["spread_bp"] for n in names)
+    med = sp[len(sp)//2] if len(sp) % 2 else (sp[len(sp)//2-1] + sp[len(sp)//2]) / 2
+    return {"date": dates[-1], "days_of_history": len(dates), "names": names,
+            "median_bp": round(med, 1),
+            "dispersion": round(max(sp) / min(sp), 1) if min(sp) else None,
+            # Jake's spec: "number making 3-month highs". Needs 3 months.
+            "three_month_highs": (sum(1 for n in names
+                                      if n["spread_bp"] >= max(n["spark"]))
+                                  if len(dates) >= 60 else None),
+            "maturity": names[0]["maturity"]}
+
+
 def main():
     rows = [r for r in (score(k, load(k)) for k in IND) if r]
     meta = {}
@@ -194,7 +238,8 @@ def main():
                    " -> ".join(str(l["stage"]) for l in lit) +
                    ". Check whether they lit IN ORDER -- sequence is the signal.")
 
-    payload = {"generated": datetime.now().astimezone().isoformat(timespec="seconds"),
+    panel = cds_panel()
+    payload = {"cds": panel, "generated": datetime.now().astimezone().isoformat(timespec="seconds"),
                "verdict": verdict, "ladder": ladder, "rows": rows,
                "gaps": meta.get("gaps", []), "feed_errors": meta.get("errors", []),
                "stages": STAGES}
@@ -232,6 +277,22 @@ def main():
               f"{lvl:>6}"
               f"{(r['rate_pct'] if r['rate_pct'] is not None else 0):>7.0f}"
               f"  {ICON[r['status']]:<4}{r['status']}{flag}")
+    if panel:
+        print(f"\n  ⬜ AI-COMPLEX SINGLE-NAME CDS (ICE Clear Credit, {panel['date']}) "
+              f"-- LEVELS ONLY, {panel['days_of_history']} day(s) of history")
+        print(f"  {'ticker':<8}{'issuer':<24}{'spread':>9}{'chg':>8}   note")
+        print("  " + "-" * 60)
+        for n in panel["names"]:
+            c = "--" if n["chg"] is None else f"{n['chg']:+.1f}"
+            note = "HY convention (no 100bp contract)" if n["hy_convention"] else ""
+            print(f"  {n['ticker']:<8}{n['issuer']:<24}{n['spread_bp']:>9.1f}{c:>8}   {note}")
+        tmh = ("insufficient history" if panel["three_month_highs"] is None
+               else f"{panel['three_month_highs']}")
+        print(f"\n  MEDIAN {panel['median_bp']}bp  ·  dispersion {panel['dispersion']}x  "
+              f"·  3-month highs: {tmh}")
+        print(f"  ⚠️ Spreads are MODELLED from ICE points-upfront prices, not quoted. "
+              f"Maturity {panel['maturity']} rolls on the next IMM date.")
+
     if payload["gaps"]:
         print(f"\n  KNOWN GAPS -- these charts are NOT in the data above:")
         for g in payload["gaps"]:

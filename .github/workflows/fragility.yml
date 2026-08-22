@@ -45,6 +45,14 @@ jobs:
         run: python3 -u tools/fragility_feed.py
         continue-on-error: true
 
+      - name: Fetch ICE single-name CDS
+        # Separate from the main feed on purpose: ICE serves ONE clearing date
+        # and the history is licensed, so every missed weekday is a row the vault
+        # can never recover. continue-on-error keeps a bad ICE day from killing
+        # the rest of the dashboard.
+        run: python3 -u tools/icc_cds.py
+        continue-on-error: true
+
       - name: Score and render
         run: |
           python3 tools/fragility.py | tee fragility_report.txt
