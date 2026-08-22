@@ -1103,3 +1103,88 @@ buyback, 2026-08-19**; **Reuters on Samsung foundry pricing, 2026-08-19**.
   The duration channel went the other way that morning.** ⇒ **This is a SECTOR liquidation with an
   identified epicentre, which is the same structure this note recorded on 7/28 (`:1141`: VIX fell while
   the semis complex dropped 4% — "a SECTOR problem, not a SYSTEMIC one").** **Second instance.**
+
+---
+
+## 2026-08-22 ~1:00pm PDT — ★★★★★★ **THE F3 FORK RESOLVES: NVDA CHOSE PASS-THROUGH, NOT CONTENT CUTS. AND BECAUSE THE VAULT HOLDS MEMORY AT 62% OF THE VERA RUBIN BOM, THE >15% SYSTEM HIKE *IMPLIES A ~24% MEMORY INPUT COST INCREASE* — A DERIVED NUMBER WITH A REGISTERED SEPTEMBER TEST ALREADY WAITING FOR IT.**
+Source: Bloomberg via Jake's paste, 2026-08-22 → `raw/2026-08-22-nvda-price-hike/`.
+**⟲ EXTENDS `:L842` (62% BOM) and `:L906` (the "engineer around the price" fork). ⛔ It RESOLVES the
+branch those two entries left open.**
+
+#### DATA (REPORTED)
+- **NVIDIA is raising prices on MANY SERVERS containing its AI chips by MORE THAN 15%, citing SOARING
+  MEMORY COSTS.** **Effective on systems SHIPPED EARLY NEXT YEAR (early 2027).** **Explicitly includes
+  VERA RUBIN and GRACE BLACKWELL systems.**
+- ⚠️ **">15%" IS A FLOOR, NOT A POINT, AND "MANY SERVERS" IS NOT ALL. ⬜ No per-SKU detail, no base
+  price, no mix.** ⚠️ **Single origin (Bloomberg), relayed. Not a company release.**
+
+#### ⛔⛔ THE FORK THE VAULT REGISTERED, AND WHICH WAY IT BROKE
+- **`:L906`, filed 8/06 and priced 8/10: NVDA's Rubin-Ultra "LESS HBM" deliberation was filed as *"the
+  demand side ENGINEERING AROUND THE PRICE, aimed at the PROTECTED tier."*** **`:L858`: *"when memory
+  is ~5/8 of the flagship's cost, CONTENT CUTS ARE THE PLATFORM'S COUNTERATTACK in the margin war."***
+  **The mere deliberation put SKH −15% on the week.**
+- ⇒ **★★★★★ NVDA HAS NOW DONE THE OPPOSITE. IT IS RAISING PRICE, NOT CUTTING CONTENT.**
+  ⇒ **THE COUNTERATTACK EITHER FAILED OR WAS NEVER THE PLAN — and the thrifting scare that took 15%
+  out of the most HBM-levered supplier on earth was, on this evidence, MISPRICED.** *(Analysis. The
+  vault called the mechanism right and the DIRECTION of NVDA's response wrong.)*
+- ⇒ **⭐⭐ AND IT ANSWERS WHAT `:L858` CALLED "THE NVDA-MARGIN QUESTION" DIRECTLY: NVDA IS DEFENDING
+  MARGIN WITH PRICE.** ⇒ **That is only possible where demand is inelastic — i.e. it is a REVEALED
+  STATEMENT ABOUT NVDA'S PRICING POWER, and a bigger one than the price itself.**
+
+#### ⭐⭐⭐ THE DERIVATION — AND IT IS CHECKABLE
+- **`:L850`: memory ≈ 62% of the total Vera Rubin BOM** (GS via ZH tweet — ⚠️ REPORTED-class, a tweet
+  about a note neither of which the vault has read).
+- **IF the >15% hike is a full pass-through of memory alone at a constant gross-margin PERCENTAGE:**
+  **memory input cost ≈ 15% ÷ 0.62 ≈ +24%.**
+- **⚠️ THE ASSUMPTIONS, STATED SO THE NUMBER CAN BE ATTACKED: full pass-through · margin % held · no
+  other input moving · BOM share unchanged.** ⇒ **If NVDA is ABSORBING part, memory rose MORE than
+  24%. If NVDA is EXPANDING margin, less.** **⬜ DERIVED, NOT REPORTED — never quote ~24% as a fact.**
+- ⇒ **🚩🚩 AND THE TEST IS ALREADY REGISTERED AT `:L934`: "Sep-end: SKH HBM contract price update — the
+  fork's next direct measurement."** ⇒ **★ THE VAULT NOW HAS A DATED, FALSIFIABLE PREDICTION IT DID
+  NOT HAVE THIS MORNING: if HBM/SOCAMM contract prices print materially BELOW ~+24%, NVDA is expanding
+  margin under cover of a memory story. If ABOVE, NVDA is eating part of it.** *(This is the entry's
+  finding, and it converts a WARNING into a TRIGGER.)*
+- **⚠️ AND A COMPOUNDING EFFECT THE 8/10 ENTRY FLAGGED IN ADVANCE: `:L871` — *"a BOM share is price ×
+  quantity AT THE PRICES GS ASSUMED."*** ⇒ **AS MEMORY PRICES RISE, MEMORY'S BOM SHARE RISES, WHICH
+  MAKES THE NEXT PASS-THROUGH ARITHMETICALLY WORSE.** ⇒ **The 62% is a floor for the next round.**
+
+#### ⭐⭐ THE COST-PUSH CASCADE COMPLETES — AND THE "UNSUSTAINABLE" CALL WAS WRONG
+- **`:L503`, 2026-08-03: bare boards +15-45%, PCBA components +5-25%, an ISM respondent calling it
+  *"arguably worse than the pandemic era"* and UNSUSTAINABLE.** **The vault filed it as *"the cost-push
+  reaches a NON-MEMORY component."***
+- ⇒ **★★★ NINETEEN DAYS LATER THE COST-PUSH REACHES THE FINAL SYSTEM PRICE. COMPONENTS → BOARDS →
+  SYSTEMS, and the same >15% magnitude band appears at every rung.**
+- ⇒ **⛔ AND "UNSUSTAINABLE" IS FALSIFIED IN THE ONLY WAY THAT MATTERS: IT IS BEING SUSTAINED, BY
+  PASSING IT ON.** ⇒ **A cost increase is unsustainable only where it cannot be passed through. This
+  one can.** *(Analysis. Grade the ISM participant's call: wrong, and instructively so.)*
+
+#### ⚠️⚠️ THE MACRO — "AI-FLATION" IS REAL AND IT IS IN THE *WRONG INDEX* FOR THE FED, AND DATED 2027
+- **⛔ DATA-CENTRE SERVERS ARE INVESTMENT GOODS, NOT CONSUMER GOODS.** ⇒ **A server price rise lands in
+  the PPI and in the GDP private-fixed-investment deflator. IT DOES NOT ENTER CPI OR PCE DIRECTLY.**
+  ⇒ **★ So "AI-flation" is a genuine price event that the Fed's TARGET INDEX cannot see** — it reaches
+  the target only through (a) the price of AI SERVICES, or (b) capex-driven demand for labour and
+  power, which [[new-economy-regime]] already tracks. *(Analysis. This is the discipline line.)*
+- **⇒ AND THE DATE MATTERS MORE THAN THE NUMBER: "SYSTEMS SHIPPED EARLY NEXT YEAR" = EARLY 2027.**
+  ⇒ **⛔ THIS IS NOT A 2026 INFLATION EVENT. It cannot appear in any print the Fed sees this year.**
+  ⇒ **Per the WARNING-vs-TRIGGER rule: it is a DATED, mechanical, falsifiable future cost — which is
+  the rare kind that times something.**
+- **✅ AND IT SUPPLIES THE MECHANISM THE FOMC MINUTES ASSERTED WITHOUT ONE.** [[new-economy-regime]]
+  `:L4143` holds the July 28-29 minutes discussing the AI buildout as an inflationary force. ⇒ **This
+  is that force with a number, a channel and a date attached — and it is a CAPITAL-GOODS channel, not
+  a wage channel.** ⇒ **⚠️ It does NOT touch the registered item at `:L4195` (productivity growth as
+  the single number deciding inflationary-vs-disinflationary). That stays open.**
+- **⇒ 🔗 AND THE ONE LINK THAT WOULD CARRY IT INTO THE TARGET INDEX: [[metered-compute]]`:L2401` holds
+  that the token-price floor is propped by a silicon shortage.** ⇒ **A >15% server cost increase is
+  cost-push INTO that floor.** ⇒ **⚠️ BUT THE COMPRESSION THESIS SAYS TOKEN PRICES FALL. Those two
+  cannot both keep winning.** 🚩 **REGISTERED, and it is now the sharpest open question in the vault:
+  does the 2027 server cost step SHOW UP in token pricing, or does compression absorb it?**
+
+#### 📌 PORTFOLIO — MU IS 28% OF THE BOOK AND THIS IS THE READ
+- **✅ NVDA PUBLICLY BLAMING MEMORY COSTS IS THE STRONGEST THIRD-PARTY CONFIRMATION AVAILABLE THAT
+  MEMORY PRICING IS HARD.** ⇒ **The buyer with the most leverage on earth just conceded it cannot
+  absorb them.** ⇒ **Bullish MU on the pricing leg, and it directly contradicts the thrifting scare
+  that hit the memory complex on 8/10.**
+- **⚠️ THE DISCONFIRMER, KEPT VISIBLE: this is one Bloomberg report about 2027 shipments. It is not a
+  contract print.** **The Sep-end HBM contract update is the measurement; this is the anticipation.**
+- ⬜ **And it says nothing about the F3 fork's OTHER leg — CXMT and the commodity-DRAM floor
+  (`:L550`). Hard HBM pricing and a collapsing commodity floor can coexist.**
