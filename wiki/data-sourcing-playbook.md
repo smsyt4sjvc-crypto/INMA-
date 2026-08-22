@@ -650,3 +650,22 @@ above it, which demoted MOVE to a gap.**
   unrepresentative sample. Class 7 was one TOOL called an exhaustive search; this is one DAY called
   a pattern.** *(Analysis. The recurrence inside a single session is the point worth keeping.)*
 - ⚠️ **Google does not display a percent change — compute it, do not quote it.**
+
+#### ⛔ 2026-08-22 — **"TODAY" IS A LABEL, NOT A TIMESTAMP — AND MY OWN TOOL WOULD HAVE BELIEVED IT**
+**Jake:** *"In the screenshot it says 'today' but also states 8/21/26 4:30 PM ET. That's yesterday."*
+- **Google's widget printed `+0.22 (0.30%) ↑ today` beside a quote stamped `Aug 21, 4:30 PM EDT`,
+  while it was Aug 22.** ⇒ **⛔ SAME FAILURE CLASS AS THE MRNA HEADER (8/19): a field that does not
+  belong to the data sitting next to it.** ⇒ **On a quote page the TIMESTAMP is the datum and the
+  word "today" is decoration. On a weekend it is reliably WRONG.**
+- **⇒ AND IT EXPOSED A LATENT BUG IN `move_manual.py`, WRITTEN ONE HOUR EARLIER: `--from-paste`
+  DEFAULTED THE DATE TO `date.today()`.** ⇒ **A paste of "MOVE 73.40" on a Saturday would have
+  written a SATURDAY ROW FOR A CLOSED MARKET** — a phantom observation, indistinguishable from real
+  data later, and it would have entered the percentile ranks as a genuine session.
+- **⚠️ IT DID NOT HAPPEN — the stored series is correct at 8/21 and provenance shows the explicit-date
+  form was used. But that was CARE, NOT A GUARDRAIL, and care does not survive a tired session.**
+- ✅ **FIXED, three guards:** (1) **any weekend date is REFUSED**, and the error names the correct
+  prior session to use instead; (2) **a date found IN the paste always beats `today`**; (3) **a paste
+  with no date WARNS loudly before defaulting.** Future dates refused.
+- ⇒ **★ THE GENERAL RULE, now enforced in code rather than remembered: A QUOTE PAGE'S RELATIVE WORDS
+  ("today", "now", "live") ARE NEVER THE DATE. Read the stamp, and on a weekend assume the LAST
+  CLOSE.**
