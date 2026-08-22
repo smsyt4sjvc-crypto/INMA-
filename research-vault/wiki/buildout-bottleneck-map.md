@@ -1234,3 +1234,99 @@ until a company disclosure is found:**
   **unaffected; this was always a denominator argument.**
 - **⛔ THE ENTIRE CHINESE SUPPLIER-ORDER LAYER IS NOW UNVERIFIED, AND ITS HEADLINE ITEM IS FALSE.**
 - ⇒ **THE MAP REMAINS A WATCHLIST OF NAMES. IT IS NOT A LEDGER OF ORDERS, AND I PRESENTED IT AS ONE.**
+
+---
+
+### 2026-08-22 ~9:45am PDT — ⚠️⚠️ **THIS DOCUMENT IS A COMPILATION OF *OUR OWN WORKING THREAD*. ROUGHLY HALF OF IT IS THE VAULT'S OUTPUT REFLECTED BACK, AND TREATING IT AS CORROBORATION WOULD BE CIRCULAR. ⭐ WHAT IS GENUINELY EXTERNAL IS THE THAILAND CLUSTER — AND THAT ONE IS GOVERNMENT-APPROVAL GRADE.**
+Source: Jake's docx "Optimus Supply-Chain, Magnets & Physical-AI Investability Map," 2026-08-22 →
+`raw/2026-08-22-optimus-map-v2/`. **⟲ EXTENDS `:L1057` and the 8/22 Sanhua supersession.**
+
+#### ⚠️ PROVENANCE FIRST, BECAUSE IT DETERMINES WHAT THE DOCUMENT IS WORTH AS EVIDENCE
+- **Its own header: "Research compilation from the working thread." It consolidates "the substantive…
+  discussion FROM THE WORKING THREAD."** ⇒ **⛔ IT IS NOT AN INDEPENDENT SOURCE.**
+- **Sections that are THIS VAULT'S OWN CONCLUSIONS, returned verbatim in substance:**
+  **§10's Fremont calibration** (irreversible commitment · low opportunity cost because S/X were
+  already discontinued · "converting a high-volume Model Y line would be a much stronger volume
+  signal") = **my 8/21 entry at `:L1131`.**
+  **§11's magnet-mass resolution** (NdFeB ~30-32% Nd/Pr, "different instruments, not competing
+  estimates") = **my 8/21 derivation at `:L1097`.**
+  **§11's standing disconfirmer** (6,579 units, 23-26 t, ~0.01%) = **`:L867`, filed 8/08.**
+  **§9's Sanhua correction** = **Jake's catch this morning.**
+- ⇒ **★★★ THE VAULT'S "N OUTLETS, ONE ORIGIN" RULE IN ITS PUREST FORM: ONE ORIGIN, AND THE ORIGIN IS
+  US.** ⇒ **Seeing our own reasoning come back in a formatted document with headings is the most
+  seductive false-confirmation available, because it LOOKS like independent agreement.**
+  🚩 **STANDING RULE, new: WHEN AN INBOUND CONSOLIDATES THE WORKING THREAD, SPLIT IT INTO
+  "OURS RETURNED" vs "NEW EXTERNAL" BEFORE READING A SINGLE CONCLUSION.** *(Analysis.)*
+- **✅ WHAT IT *IS* WORTH IS STILL REAL: it is a clean, graded restatement, and its A/A−/B/C/D evidence
+  scale is a better-articulated version of the vault's own ladder. Adopt the scale; do not adopt the
+  agreement.**
+
+#### ⭐⭐⭐⭐ THE GENUINELY NEW ITEM — THAILAND'S BOARD OF INVESTMENT APPROVED FIVE CHINESE SUPPLIERS' **FIRST MANUFACTURING OUTSIDE CHINA**, WITH TESLA BOT REPORTEDLY THE PRINCIPAL CUSTOMER TARGET
+| supplier | Thai project | THB | **≈USD** |
+|---|---|---|---|
+| **Xusheng Group** | body, joint, "bone" structural components | 2.7B | **$82M** |
+| **Hangzhou Seenpin** | planetary roller screws + robot ball screws | 2.12B | **$64M** |
+| **Sanhua Intelligent Drives** | humanoid actuators | 1.8B | **$54M** |
+| **Beite Technology** | planetary roller screws (+ >THB 3B proposal) | 1.67B | **$50M** (+$91M) |
+| **Tuopu Technology** | humanoid actuators | 930M | **$28M** |
+| **phase 1 total** | | **>10B** | **>$302M** |
+| **projected annual local purchases** | | **>45B** | **≈$1.36B/yr** |
+**⚠️ FX: converted at FRED DEXTHUS 33.12 THB/USD (2026-08-14 close) — a sourced rate, not a recalled one.**
+
+- ⇒ **★★★★★ THIS IS A DIFFERENT KIND OF EVIDENCE FROM EVERYTHING THAT COLLAPSED YESTERDAY. A BOARD OF
+  INVESTMENT APPROVAL IS A FILING WITH A GOVERNMENT, NOT A PRESS RUMOUR** — it is the document's own
+  A− grade ("an official government approval identifies Tesla Bot as the main intended customer, but
+  Tesla has not confirmed"). ⇒ **It cannot be denied away the way the Sanhua order was, because the
+  approving party is a state agency with no stake in the stock.**
+- ⇒ **⭐⭐ AND IT RESOLVES THE SANHUA CONTRADICTION CLEANLY: SANHUA DENIED AN *ORDER* AND IS BUILDING A
+  THAI *ACTUATOR PLANT*.** ⇒ **Both are true, and together they are the exact distinction this vault
+  has been trying to hold — CAPACITY IS NOT AN ORDER.** **It also explains the securities desk's
+  "robot business progressing smoothly" alongside 「传言不属实」: the business is real, the order was not.**
+- **⇒ ★★★ THE STRATEGIC READ, and it is bigger than Optimus: FIVE CHINESE MOTION-CONTROL SUPPLIERS
+  MOVING THEIR FIRST EVER OFFSHORE PRODUCTION TO ONE COUNTRY, TOGETHER.** ⇒ **That is tariff and
+  export-control arbitrage being built as physical plant** — and it is the same *behaviour* the vault
+  tracks in [[war/war-board]]: the supply chain routing AROUND the control regime rather than
+  submitting to it. ⚠️ **And note what it does NOT do: it does not move the RARE-EARTH or MAGNET
+  step out of China. Screws and actuators are leaving; the NdFeB is not.** *(Analysis.)*
+- **⚠️ BOUNDS: "reportedly identified Tesla Bot as the principal customer target" is the BOI's or the
+  reporting's characterisation, not Tesla's.** **Apple, Samsung and Huawei are also cited as potential
+  customers — which is what a supplier says when it has capacity and no single committed buyer.**
+  ⬜ **The BOI approval documents themselves have not been read.**
+
+#### ⭐⭐ SECOND GENUINELY NEW ITEM — AND IT IS THE BEST DISCONFIRMER IN THE FILE, FROM TESLA'S OWN FILINGS
+- **"Tesla filings warn that most supplier arrangements DO NOT CREATE LONG-TERM BINDING PURCHASE
+  OBLIGATIONS."** Plus Musk: **Optimus "essentially lacks an existing supply chain," the initial
+  manufacturing S-curve will be "unusually flat and long," and Tesla must build suppliers from
+  scratch or insource.**
+- ⇒ **★★★★ THAT IS A PRIMARY-SOURCE, COMPANY-FILED STATEMENT THAT RETROACTIVELY DEVALUES *EVERY*
+  SUPPLIER-ORDER CLAIM IN THIS ENTIRE THREAD — including any that turn out to be real.**
+  ⇒ **An order that exists and is not binding is worth less than the vault has been treating orders
+  as worth.** ⇒ **It is the highest-grade evidence in the document and it argues AGAINST the thread's
+  own thesis.** *(Analysis. Weight it accordingly.)*
+
+#### 💰 GOVERNMENT FUNDING (§12) — THREE COLLISIONS WITH WHAT THE VAULT ALREADY HOLDS
+| item | document | **vault** | status |
+|---|---|---|---|
+| **Vulcan Elements + ReElement** | **~$620M + $80M = ~$700M** | **~$750M** (`:L744`, web pull 8/08) | **⚠️ $50M APART — unreconciled** |
+| **the $80M** | attributed to **Vulcan/ReElement** | **"$80M for MINING SCHOOLS"** (`:L746`) | **⚠️ POSSIBLE MIS-ATTRIBUTION in the document** |
+| **MP $110/kg NdPr floor, 10yr** | listed as government support | **HELD at `:L836` — AND `:L901` REGISTERS IT AS *NEARLY OUT OF THE MONEY*: floor $110 vs domestic ~$104/kg** | **⛔ THE DOCUMENT OMITS THE BINDING PROBLEM** |
+- ⇒ **⛔ THAT LAST ONE MATTERS MOST AND IT IS THE VAULT CATCHING THE DOCUMENT, NOT THE REVERSE: a price
+  floor ~6% ABOVE the prevailing domestic price is not "support," it is a subsidy that is ABOUT TO
+  START PAYING.** ⇒ **The registered item at `:L901` stays OPEN — this document does not close it.**
+- **⭐ NEW AND NOT PREVIOUSLY IN THE VAULT: MP ~$400M preferred equity + ~$150M HREE-separation loan ·
+  USAR up to ~$277M direct + ~$1.3B CHIPS senior-secured loan · UUUU ~$725M conditional OSC loan ·
+  Phoenix Tailings ~$500M.** ⚠️ **All "reported/described in thread" — ⬜ none traced to a primary
+  award document.** 🚩 **REGISTERED: trace each to its awarding agency notice.**
+- **⭐ MP PROJECT SWARM — capacity RESERVATION ahead of end-market scale — is the single most useful
+  new instrument here, because it is the magnet analogue of the vault's own "coupon-break curve":
+  a forward commitment that prices confidence without a model.**
+
+#### ✅ THE RUMOUR AUDIT (§9) IS THE DOCUMENT'S BEST WORK AND IT KILLS TWO MORE
+- **VPG (Vishay Precision Group) tactile-sensor near-monopoly thesis → D-GRADE.** **No Tesla design
+  win, no contract, no basis for the per-robot content figure.** ⇒ **✅ Never entered this vault. Do
+  not let it in.**
+- **Mirle / Asia Optical: "many social posts trace back to THE SAME TAIWANESE SUPPLY-CHAIN ARTICLE."**
+  ⇒ **✅ That is the vault's own "N outlets, ONE ORIGIN" rule, independently arrived at.**
+- **Harmonic Drive Systems is investable on ITS OWN FILED AI-ROBOT BOOKINGS — not on a claimed Tesla
+  award.** ⇒ **⭐ THE RIGHT TEMPLATE FOR THIS ENTIRE THREAD: buy the disclosed backlog, not the
+  rumoured customer.**
