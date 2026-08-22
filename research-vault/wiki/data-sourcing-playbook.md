@@ -507,3 +507,38 @@ different vendor. **Promoted into the ingest protocol at `CLAUDE.md:L42`.**
    header — passes step 2, disagrees with the daily close.** **Log the next few so the taxonomy is
    empirical rather than a pair of examples.**
 **Links:** [[market-fragility]] · [[quiet-health-screen]] · [[_calibration]]
+
+---
+
+## 2026-08-22 — ⛔⛔⛔ **"FRED IS BLOCKED FROM THE CONTAINER" WAS WRONG FOR EIGHT MONTHS. FRED BOT-PROTECTS ON *USER-AGENT*, AND THE FIX IS TO SEND NONE.** ✅ Every series the fragility dashboard needs was reachable the whole time
+Source: direct measurement while building `tools/fragility_feed.py`, 2026-08-22.
+**⟲ SUPERSEDES every "FRED unreachable" note in this vault.**
+
+#### ⛔ THE MEASUREMENT — same URL, four transports, three different failures
+| request | result |
+|---|---|
+| `curl` **with no `-A`** | **HTTP 200 in ~200ms** ✅ |
+| `curl -A "research-vault/1.0"` (custom UA) | **HTTP/2 INTERNAL_ERROR, stream reset** |
+| `curl -A "Mozilla/…Chrome/126"` (browser UA) | **hangs to timeout (30s+)** |
+| `python urllib` (any UA) | **hangs** — urllib does not negotiate this container's CONNECT proxy |
+- ⇒ **THE BLOCK WAS NEVER THE HOST. IT WAS THE HEADER — and a *browser* UA is treated
+  WORSE than no UA, which is the opposite of the usual scraping instinct.**
+
+#### ★★★ THE THREE RULES THIS PRODUCES
+1. **FRED: send NO User-Agent.** Use `fredgraph.csv?id=…&cosd=…`, not the `/fred/series` API
+   (that one IS key-gated — a 32-char key — and the CSV endpoint needs no key at all).
+2. **⚠️ THE UA RULE IS PER-SOURCE AND IT INVERTS. Yahoo Finance is the exact opposite:
+   NO UA → HTTP 429; a browser UA → 200.** ⇒ **Never set one UA globally for a multi-source feed.**
+3. **⛔ TRANSPORT: use `curl` (subprocess), not `urllib`/`requests`, from this container.**
+   **`--http1.1` is required** — FRED over HTTP/2 through the proxy dies with
+   `stream not closed cleanly`. **On a GitHub Actions runner there is no proxy and the
+   same curl call works unchanged, so one transport covers both environments.**
+
+#### ⇒ ⭐ THE GENERAL LESSON, AND IT IS AN ERROR CLASS THE VAULT HAD NOT NAMED
+- **A NON-200 IS A MESSAGE ABOUT THE *REQUEST*, NOT A VERDICT ON THE *SOURCE*.** **I recorded
+  "FRED blocked" from a failed fetch and carried it as a property of FRED. It was a property of
+  MY HEADERS.** ⇒ **🚩 NEW ERROR CLASS 6: ATTRIBUTING A FAILED FETCH TO THE SOURCE INSTEAD OF
+  TO THE CALL.** ⇒ **Before recording any source as unreachable, vary the transport, vary the
+  UA, and vary the HTTP version. Three tries, then the note.**
+- ⇒ **⛔ AND IT COST REAL COVERAGE: the vault worked around "no FRED" via Treasury FiscalData,
+  EIA and Census for months when the primary source was one flag away.**

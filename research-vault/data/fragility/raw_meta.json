@@ -1,0 +1,133 @@
+{
+ "generated": "2026-08-22T05:48:15+00:00",
+ "meta": {
+  "ccc_oas": {
+   "label": "CCC & lower OAS",
+   "stage": 1,
+   "panel": 1
+  },
+  "hy_oas": {
+   "label": "High-yield OAS",
+   "stage": 1,
+   "panel": 1
+  },
+  "ccc_hy_gap": {
+   "label": "CCC minus HY (quality gap)",
+   "stage": 1,
+   "panel": 1
+  },
+  "bbb_oas": {
+   "label": "BBB OAS",
+   "stage": 2,
+   "panel": 2
+  },
+  "ig_oas": {
+   "label": "Investment-grade OAS",
+   "stage": 2,
+   "panel": 2
+  },
+  "cp_spread": {
+   "label": "A2/P2 minus AA CP, 90d",
+   "stage": 3,
+   "panel": 8
+  },
+  "move": {
+   "label": "MOVE index",
+   "stage": 4,
+   "panel": 4
+  },
+  "rvol10": {
+   "label": "10Y realized vol (MOVE proxy)",
+   "stage": 4,
+   "panel": 4
+  },
+  "dgs30": {
+   "label": "30Y Treasury yield",
+   "stage": 4,
+   "panel": 4
+  },
+  "sofr_iorb": {
+   "label": "SOFR minus IORB",
+   "stage": 6,
+   "panel": 7
+  },
+  "repo_ops": {
+   "label": "Fed repo ops accepted ($B)",
+   "stage": 6,
+   "panel": 7
+  },
+  "pd_ust": {
+   "label": "Dealer UST net position ($mm)",
+   "stage": 5,
+   "panel": 9
+  },
+  "pd_ftd": {
+   "label": "Dealer UST fails to deliver",
+   "stage": 5,
+   "panel": 9
+  },
+  "pd_ftr": {
+   "label": "Dealer UST fails to receive",
+   "stage": 5,
+   "panel": 9
+  },
+  "ci_loans": {
+   "label": "H.8 C&I loans ($B)",
+   "stage": 7,
+   "panel": 10
+  },
+  "deposits": {
+   "label": "H.8 bank deposits ($B)",
+   "stage": 7,
+   "panel": 10
+  },
+  "vix": {
+   "label": "VIX (context, not a stage)",
+   "stage": 0,
+   "panel": 0
+  }
+ },
+ "inverted": [
+  "ci_loans",
+  "deposits"
+ ],
+ "errors": [
+  {
+   "key": "move",
+   "error": "RuntimeError: curl rc=22 curl: (22) The requested URL returned error: 429"
+  }
+ ],
+ "gaps": [
+  {
+   "chart": 3,
+   "name": "CDX IG / CDX HY",
+   "why": "Markit/S&P proprietary. No free feed exists. The ICE cash-bond OAS series (charts 1-2) answer the same question more slowly.",
+   "status": "UNOBTAINABLE FREE"
+  },
+  {
+   "chart": 6,
+   "name": "10Y/30Y swap spreads",
+   "why": "FRED's DSWP10/DSWP30 were discontinued in 2016 (they return 2000-era data). Live swap rates are vendor-gated.",
+   "status": "UNOBTAINABLE FREE \u2014 vault fetch stays open"
+  },
+  {
+   "chart": 11,
+   "name": "Single-name 5Y CDS (AVGO/NVDA/ORCL/META/GOOGL/AMZN/MSFT)",
+   "why": "Markit proprietary. This is the panel the AI-debt thesis most wants and the one with no free source. It stays MANUAL INGEST.",
+   "status": "UNOBTAINABLE FREE \u2014 keep sending charts"
+  },
+  {
+   "chart": 9,
+   "name": "Dealer repo FINANCING volumes",
+   "why": "Positions and fails resolved on the NY Fed PD API; the financing series keyids did not match the PDFIN pattern. Findable, not yet found.",
+   "status": "OPEN \u2014 solvable"
+  },
+  {
+   "chart": 10,
+   "name": "H.8 large-vs-small bank split, CRE loans",
+   "why": "Aggregate C&I and deposits are wired. The large/small split and CRE need their own FRED ids confirmed.",
+   "status": "OPEN \u2014 solvable"
+  }
+ ],
+ "auction_count": 66
+}

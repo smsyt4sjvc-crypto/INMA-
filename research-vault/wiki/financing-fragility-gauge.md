@@ -104,6 +104,7 @@ was measuring the wrong thing, and the thing that DID work (a deep bilateral bid
 |---|---|---|---|
 | 08-21 | **BofA FMS: cash 3.5%, 56% OW equities, 14th straight bullish month** | **▲** | Equity-side bid depth reads THIN. Low FMS cash doesn't mean buyers are coming — it means **no buffer before selling starts**. Confirms the MMF read from the opposite pool: the cash holder isn't an equity buyer |
 | 08-22 | **AVGO CDS 121.19 — ~20% THROUGH its late-July peak; NVDA 85.37 (+2.8bp in 2 days). AVGO/NVDA traded as ONE credit at ~40bp for 9 months, now 1.42×** | **▲** | The guarantee, not the balance sheet, is being priced — AVGO tendered for $2.5B of its own notes in June while its CDS tripled. **"Off-balance-sheet" is cosmetic and the CDS proves it.** ⚠️ But this is ONE name on a TWO-name chart; the 5-name basket is unrefreshed since 8/20, so "complex cracking" is UNTESTED. ▲ on mechanism, not on breadth |
+| 08-22 | **Public-data ladder, first run: 1 of 7 stages lit. CCC-HY gap 760bp = 100th pctile; HY OAS 275bp = 17th pctile; IG 82bp = 40th; BBB 100bp = 26th** | **▼** | The weakest borrowers are breaking while the index is TIGHT — but **stages 2-7 are calm**. By Jake's own rule this is a repricing, not a chain. ⚠️ ▼ on breadth ONLY; the two charts that would show AI stress first (CDX IG, single-name CDS) have no free source and are GAPS, not calm rows |
 | 08-21 | **AVGO platform is a SECOND tranche, not a first deal** | **▲▲** | Vault already held the $35B June SPV + ~$30B AVGO residual support. **~3× the money and ~20× the GW in ten weeks**; AVGO's contingent exposure roughly doubles |
 | 08-21 | **NBIS $5B convert priced, UPSIZED** | **▼ then ▲** | ✓ Real counter-evidence: a neocloud raised $5B and had to upsize. ⛔ But **0.50% (2030) vs 4.50% (2034)** — the vol market is open, the bond market is not, and it builds a maturity wall while manufacturing equity supply via delta hedging |
 | 08-21 | **BCA on neocloud ROIC** | **●** | Fifth independent derivation of the vault's borrow-to-build finding. Confirms, adds no new state |
@@ -203,3 +204,64 @@ THAT BUSINESS.** **For NBIS it is ~2030 — roughly FOUR YEARS.**
    times this must be refinanced before the asset it funds retires.** **NBIS-class: 4-6×.**
 3. ⬜ **Conversion premium and implied vol on the two NBIS tranches** — the only way to decontaminate the
    400bp into a credit component and a vol component.
+
+---
+
+## 2026-08-22 — ⭐⭐⭐⭐⭐ **THE GAUGE NOW HAS A PUBLIC-DATA LADDER UNDERNEATH IT, AND ITS FIRST READING CONTRADICTS THE HEADLINE: ONE STAGE LIT OF SEVEN. "CREDIT IS CRACKING" IS NOT WHAT THE PUBLIC DATA SAYS TODAY.**
+Source: `tools/fragility_feed.py` + `tools/fragility.py`, first run 2026-08-22, built to Jake's
+own 10-chart specification. Data: `data/fragility/series/*.csv`. Page: `docs/index.html`.
+
+#### ⭐ WHAT WAS BUILT — and the design decision that matters
+- **16 series, 7 chain stages, refreshed daily by GitHub Actions, COMMITTED INTO THE REPO.**
+- **⭐⭐ THE NUMBERS ARE BAKED INTO THE HTML AT BUILD TIME, NOT FETCHED BY JAVASCRIPT.**
+  ⇒ **A client-side-fetching page renders EMPTY to an agent — WebFetch converts HTML to markdown
+  and does not execute scripts.** ⇒ **A "live" dashboard would have been unreadable by the one
+  reader who checks it every day. Static values are readable by BOTH, and they diff in git.**
+- **⛔ NO ABSOLUTE THRESHOLDS ANYWHERE — Jake's own swap-spread rule generalised to all 16.**
+  **Every series is ranked against its OWN trailing 3 years, on level and on 20-observation
+  rate of change.** ⇒ **And series that TREND (30Y yield, dealer positions, bank loans) are
+  scored on RATE ONLY — a level percentile on a trending series measures the trend, not stress.
+  Without that fix the 30Y read "serious" purely because yields rose since 2023.**
+
+#### ★★★★★★ THE FIRST READING — AND IT IS A DIRECT ANSWER TO "CREDIT IS CRACKING"
+| stage | reading |
+|---|---|
+| **1 · Low-quality credit (CCC/HY)** | **🔴 CRITICAL** |
+| 2 · Investment grade (BBB/IG) | calm |
+| 3 · Corporate short-term funding (CP) | calm |
+| 4 · Rates vol / the collateral | calm |
+| 5 · Dealers & Treasury absorption | calm |
+| 6 · Repo & money-market plumbing | calm |
+| 7 · Bank credit channel | calm |
+- ⇒ **ONE STAGE LIT OF SEVEN. By Jake's own reading rule — "AVGO↑ NVDA↑ CCC↑ but IG/CDX/repo/
+  Treasuries calm = a repricing of particular risks, not a credit crack" — TODAY IS A REPRICING.**
+
+#### ⭐⭐⭐ AND THE ONE LIT STAGE IS LIT IN EXACTLY THE PLACE HIS #1 CHART PREDICTED
+- **CCC & lower OAS 1,035bp — 98th percentile of its own 3 years, +44bp in 20 sessions.**
+- **HIGH-YIELD OAS 275bp — ⭐ 17th PERCENTILE. HISTORICALLY *TIGHT*.**
+- ⇒ **★★★★★★ THE CCC-MINUS-HY QUALITY GAP IS 760bp AND SITS AT THE 100TH PERCENTILE — the
+  widest in the entire three-year window, +46bp in 20 sessions.**
+- ⇒ **THE WEAKEST BORROWERS ARE BREAKING WHILE THE INDEX THAT CONTAINS THEM IS CALM.** ⇒ **That
+  is precisely the divergence Jake described, and it is a MORE extreme reading than the one he
+  cited (267 / 1,012 on 8/14 → 275 / 1,035 today — the gap WIDENED again).** *(Reported.)*
+- **⇒ ⛔ AND IT CUTS AGAINST THE AI-CREDIT STORY AS THE DRIVER. The names in the CCC bucket are
+  not hyperscalers. IG OAS is 82bp at the 40th percentile and BBB is 100bp at the 26th.**
+  ⇒ **The AI complex is repricing in SINGLE-NAME CDS while the INVESTMENT-GRADE CASH INDEX
+  THOSE NAMES SIT IN HAS NOT MOVED.** ⇒ **★ Either the CDS move is hedging demand rather than a
+  cash-market judgement, or IG cash is lagging. The CDS-bond basis registered at
+  [[hyperscaler-credit]] is the test that separates them, and it just became the highest-value
+  open item in the vault.** *(Analysis.)*
+
+#### ⚠️ THE HONEST BOUNDS ON THE INSTRUMENT ITSELF
+- **⛔ THREE OF JAKE'S CHARTS CANNOT BE BUILT FROM FREE DATA AND ARE MARKED AS GAPS, NOT AS
+  CALM ROWS: CDX IG/HY (Markit), 10Y/30Y swap spreads (FRED's DSWP series died in 2016), and
+  the single-name CDS panel (Markit).** ⇒ **⚠️ TWO OF THOSE — CDX IG AND THE CDS PANEL — ARE
+  EXACTLY WHERE STRESS WOULD APPEAR FIRST IF THIS WERE THE AI COMPLEX.** ⇒ **So "one stage lit"
+  is a statement about the PUBLIC data. It is not a statement about the whole market, and the
+  panel Jake most wants is the one with no free source. HIS CHART UPLOADS REMAIN THE ONLY FEED
+  FOR IT.**
+- **⚠️ MOVE is sourced from Yahoo and rate-limits; on a failed pull the row carries the last
+  good value and is stamped STALE. A 10Y REALIZED-vol proxy runs beside it — realized ≠ implied,
+  and implied leads. Do not read the proxy as MOVE.**
+- ⬜ **One day of readings is not a series. The ladder's value is in SEQUENCE, and sequence needs
+  weeks. Treat today's print as a baseline, not as a finding.**
