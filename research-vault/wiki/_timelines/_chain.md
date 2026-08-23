@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **593 dated entries · 2026-05-22 → 2026-08-22 · refreshed 2026-08-22 19:57 PDT**
+> **594 dated entries · 2026-05-22 → 2026-08-22 · refreshed 2026-08-22 20:07 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -619,6 +619,7 @@
 - `2026-08-22` **[2]** hyperscaler-credit.md:L341 — 2026-08-22 — ⭐⭐⭐⭐⭐⭐ **AVGO 121.19 IS THE ONLY NAME IN THIS COMPLEX DECISIVELY *THROUGH* ITS HIGH — ~20% ABOVE THE LATE-JULY PEAK — AND IT HAS LEFT THE
 - `2026-08-22` **[2]** hyperscaler-credit.md:L432 — 2026-08-22 — ⭐⭐⭐⭐⭐⭐⭐ **THE SINGLE-NAME CDS GAP IS CLOSED. ICE CLEAR CREDIT PUBLISHES ALL 12 AI-COMPLEX NAMES FREE, DAILY, KEYLESS — AND THE DERIVED SP
 - `2026-08-22` **[3]** ai-financing-fragility.md:L6907 — 2026-08-22 ~9:00am PDT — ⛔⛔⛔ **THE "$220B vs $12.5B, 17.6×" HEADLINE IS A YEAR-OVER-YEAR COMPARISON, AND THE VAULT'S OWN SEQUENTIAL TRACK SAYS THE ISS
+- `2026-08-22` **[3]** ai-financing-fragility.md:L6971 — 2026-08-22 ~1:35pm PDT — ⛔ **POOLSIDE IS A MAP GAP, AND THE REASON MATTERS: NVDA ANNOUNCED A $1B INVESTMENT IN IT AT A $12B VALUATION IN *OCTOBER 2025
 - `2026-08-22` **[4]** ai-capex-cycle.md:L3379 — 2026-08-22 ~9:00am PDT — **ON/SYNAPTICS S-4: THE HEADLINE IS 12% DILUTION, BUT THE NUMBER THE FILING ACTUALLY DISCLOSES IS THAT *ON'S OWN STOCK FELL 3
 - `2026-08-22` **[5]** memory-regime-question.md:L1069 — 2026-08-22 ~1:00pm PDT — ★★★★★★ **THE F3 FORK RESOLVES: NVDA CHOSE PASS-THROUGH, NOT CONTENT CUTS. AND BECAUSE THE VAULT HOLDS MEMORY AT 62% OF THE VE
 - `2026-08-22` **[5]** compression-thesis.md:L2382 — 2026-08-22 ~1:15pm PDT — ⛔ **NO, IT DID NOT COME OUT OF THE BLUE — THE VAULT NAMED THE *STRATEGY* IN JULY AND HELD THE VEHICLES. ★★★ WHAT IS ACTUALLY 

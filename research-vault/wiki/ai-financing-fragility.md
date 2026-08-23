@@ -7146,3 +7146,65 @@ Source: Jake's DAILY HOLDINGS SCAN 2026-08-22 (Reuters 8/21, BNY iFlow 8/21) →
 2. 🚩🚩 **THE 30Y+ SHARE AS A SERIES.** **BNY's one-third is a snapshot. If it is RISING, the tenor
    squeeze is tightening; if flat, it is a structural feature.** **One number, monthly.**
 3. ⬜ **Confirm whether the ~120bp AMZN print is the July 8 deal or a new one.**
+
+---
+
+## 2026-08-22 ~1:35pm PDT — ⛔ **POOLSIDE IS A MAP GAP, AND THE REASON MATTERS: NVDA ANNOUNCED A $1B INVESTMENT IN IT AT A $12B VALUATION IN *OCTOBER 2025*, AND THE VAULT — WHICH MAINTAINS AN "NVDA AS FUNDER" LEDGER — NEVER HELD IT. ⚠️ WHICH ALSO MEANS THE WSJ'S "$1B AT $12B PRE-MONEY" IS NOT NEW MONEY.**
+**Jake: *"I know the thesis was live, I've never heard of poolside."*** Source: web verification
+2026-08-22 (Fortune 2024-09-12; Wikipedia; TheNextWeb; aifunding.me) against WSJ 2026-08-22.
+**⟲ EXTENDS `:L4744` and [[financing-fragility-gauge]]`:L47`.**
+
+#### ⛔ THE COLLISION — AND IT IS THE THIRD TIME TODAY THE SAME ERROR CLASS HAS APPEARED
+- **WSJ, today: *"Nvidia will invest $1 billion in the company at a pre-money valuation of $12 billion."***
+- **⛔ VERIFIED: IN OCTOBER 2025 NVIDIA ALREADY ANNOUNCED IT WOULD INVEST UP TO $1 BILLION IN POOLSIDE,
+  QUADRUPLING ITS VALUATION TO $12 BILLION** (Magnetar plus existing backers committing >$1B alongside).
+  **SAME $1B. SAME $12B.**
+- ⇒ **★★★ SO THE GENUINELY NEW MONEY IN TODAY'S HEADLINE IS THE $6B LICENCE-AND-HIRE, NOT THE $7B THE
+  two numbers imply when added.** ⇒ **⚠️ DO NOT SUM $1B + $6B AND CALL IT A $7B COMMITMENT — one leg
+  is ten months old.** *(⚠️ NOT CERTAIN: the Oct-2025 announcement was "up to $1B" and may be closing
+  now rather than being re-reported. Either way it is not NEW capital committed today.)*
+- ⇒ **SAME SHAPE AS THE SANHUA ORDER AND THE "RECENT" AMZN $25B BOND, BOTH CAUGHT TODAY: A STALE FACT
+  RE-PRESENTED AS CURRENT INSIDE AN OTHERWISE-NEW STORY.** **The WSJ headline number ($6B) is right;
+  the sentence next to it is old.**
+
+#### ⛔⛔ THE REAL FAILURE IS MINE, NOT THE ARTICLE'S — THE FUNDER LEDGER HAS A HOLE
+- **This note's founding object is *"the circular-financing pattern… NVDA equity stakes + guarantees"*
+  (`:L3906`), and `:L4744` carries "NVDA equity stakes (~$73B book), the ~$6.3B CRWV order backstop."**
+  **[[financing-fragility-gauge]]`:L47` scores "NVDA moved from SELLER to FUNDER" as a live channel.**
+- ⇒ **⛔ A $1B NVDA INVESTMENT ANNOUNCED TEN MONTHS AGO BELONGED IN THAT LEDGER AND WAS NEVER ENTERED.**
+  ⇒ **The vault tracks the LARGE instances ($500B SPV, $60-70B AVGO guarantee, MRVL warrants,
+  Cloverleaf) and has no systematic list of the SMALL ones.** ⇒ **★ THAT IS A SELECTION BIAS WITH A
+  DIRECTION: by counting only headline-sized commitments, the vault UNDERSTATES the count and the
+  BREADTH of NVDA's funder role, which is the exact variable the channel is trying to measure.**
+  🚩🚩 **REGISTERED, HIGH: build the NVDA STAKE LEDGER — every disclosed investment, date, size,
+  valuation, and whether the investee is a CUSTOMER. The 10-Q/10-K non-marketable equity line and
+  13F/13D filings are the primary sources.** *(Analysis. Conceded.)*
+
+#### 📋 WHO POOLSIDE ACTUALLY IS — filed so it is never a blank again
+- **Founded 2023. CEO JASON WARNER — ex-GitHub CTO, HELPED CREATE GITHUB COPILOT. CTO EISO KANT —
+  serial AI founder.** **Product: a foundation model for SOFTWARE ENGINEERING, plus API and IDE
+  assistant. Latest model: LAGUNA S.**
+- **Funding ladder: seed $26M (2023) → +$100M → Series B Oct-2024 led by BAIN CAPITAL VENTURES with
+  eBay Ventures and ⭐ NVIDIA participating, $626M total raised at a $3B valuation → Oct-2025 NVDA up
+  to $1B at $12B.**
+- ⇒ **⭐⭐ NVIDIA HAS BEEN AN INVESTOR SINCE THE SERIES B IN OCTOBER 2024 — TWO YEARS BEFORE TODAY'S
+  ACQUISITION.** ⇒ **This is not an opportunistic rescue of a stranger. NVDA funded it, watched it
+  fail to raise, and then bought the assets.** ⇒ **⛔ THAT IS A HARSHER READ THAN THIS MORNING'S
+  "bought distress," and it is better supported: THE FUNDER WAS ALSO THE ACQUIRER, AND THE ACQUISITION
+  PRICE WAS SET AFTER THE SELLER RAN OUT OF OPTIONS.** *(Analysis.)*
+- **⚠️ AND ON WHETHER IT WAS REASONABLE NOT TO KNOW THE NAME: as a public-markets read, YES — Poolside
+  is private, code-generation focused, never consumer-facing.** **But it was NOT obscure: $626M raised
+  and a $3B mark by Oct-2024, a founder who built Copilot, and NVDA on the cap table.** ⇒ **The vault's
+  miss is not "we should have known a startup." It is "we hold a ledger of NVDA's funding commitments
+  and one of them was missing."**
+
+#### ⇒ 🔗 AND IT SHARPENS THE VENDOR-FINANCING CHANNEL RATHER THAN JUST ADDING TO IT
+- **The pattern the vault has been filing — NVDA guarantees customers' debt, MRVL pays customers in
+  warrants, AVGO guarantees an SPV — is VENDOR FINANCING OF PURCHASES.**
+- ⇒ **★★★ POOLSIDE IS A DIFFERENT AND MORE ADVANCED RUNG: NVDA DID NOT FINANCE A PURCHASE. IT TOOK
+  THE COMPANY'S TECHNOLOGY AND ENGINEERS WHEN THE PURCHASE COULD NOT BE FINANCED AT ALL.**
+  ⇒ **Vendor financing converts a customer's weakness into a sale. THIS converts a customer's failure
+  into an ASSET TRANSFER.** ⇒ **⚠️ If the financing environment tightens further, expect MORE of this
+  shape and less of the guarantee shape — the vendor stops lending and starts absorbing.**
+  🚩 **REGISTERED as a watch pattern: acqui-hires and technology licences OUT OF failed AI raises.
+  The count of those is a fragility instrument the vault does not currently have.**
