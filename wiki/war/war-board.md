@@ -2982,6 +2982,7 @@ summary layer.** Related: [[oil-value-chain]] · [[demand-destruction]] · [[eur
   coordinated effort to manage tonnage rather than organic registration." A tenth is sailing toward
   northern China. Windward: China is "the sole remaining buyer of Iranian crude."**
 - **AMARA: unconfirmed reports tie the boarding to a "transit-corridor COMPLIANCE AND FEE DISPUTE
+  ⟲ SUPERSEDED 2026-08-23 → war-board.md:L3073 — RUNG UPGRADED: the AMARA boarding is no longer an unconfirmed fee dispute -- Windward 8/23 calls it the first CONFIRMED Iranian seizure since 22 June, the vessel held stationary a second day
   rather than a cargo seizure; no cargo was aboard."** MIOC corroborates the interruption from track
   behaviour (progressive non-mechanical slowdown → sharp deviation → course reversal).
 
@@ -3017,3 +3018,157 @@ summary layer.** Related: [[oil-value-chain]] · [[demand-destruction]] · [[eur
   re-routed, the "deferred supply with a known location" read changes — and a spill is the kind of
   event that pulls in actors (IMO, coastal states, insurers) who are not currently parties.**
   🚩 **WATCH: any P&I / insurer action or coastal-state response.**
+
+### 2026-08-23 ~7:20am PDT — ✅✅✅ **THE HORMUZ TRAFFIC FLAG (`:L2897`, open since 8/19) IS CLOSED: EVERY VESSEL-COUNT SERIES RECONCILES ONCE THE ~140/DAY BASELINE IS USED, AND THE RECOVERY IS REAL — 4.1% → ~20-24% OF NORMAL IN TWO WEEKS.** ⛔ **BUT "TRAFFIC EXPLODES NEARLY 400%" IS A LOW-BASE ARTEFACT: 80% OF THE FLOW IS STILL MISSING AND THE BLOCKADE COUNTER READS 131D 23H.** ★★★★★ **AND THE 8/18 UAE TRADE-HALT TEST TAKES ITS FIRST GRADE — UAE-FLAGGED GULF TONNAGE 108 → 114. IT ROSE. THE ANNOUNCEMENT IS NOT VISIBLE IN THE TONNAGE**
+Source: two uploads, both archived —
+**(1)** ZeroHedge, *"Iran Is Losing Its Grip On Hormuz: Strait Traffic Explodes Nearly 400%"* /
+*"Axios: 40 Tankers Transited Hormuz Friday Night, But Real Crisis Is Diesel"*, page-stamped
+**8/23/26 6:43am** → `raw/2026-08-22-hormuz-traffic/zerohedge.txt`.
+**(2)** **Windward Daily Intelligence, 23 August 2026, DATA AS OF 21-22 AUGUST** →
+`raw/2026-08-22-hormuz-traffic/windward.txt`. ⚠️ **Source time ≠ paste time (rule 12): the Windward
+data is 8/21-22, the page is stamped 8/23.**
+
+#### DATA (MEASURED — Windward 21-22 Aug, against this board's own prior readings)
+- **★★★ HORMUZ TRANSITS: 34 — 20 INBOUND (9 north / 9 south) + 14 OUTBOUND (10 north / 4 south).**
+  ⇒ **34 ÷ ~140 = 24.3% of normal.** *(vs `:L2915`'s 13 ÷ 140 = 9.3% on 8/17.)*
+  ⚠️ **WINDOW AMBIGUITY, FLAGGED NOT RESOLVED: the 8/17 report stated a "24-hour window" explicitly;
+  this one says "data as of 21-22 August" and its dark-transit BLUF says "overnight 21-22 August." If
+  34 is a TWO-DAY count it is 17/day = 12.1%, not 24.3%.** ⛔ **Do not quote 24.3% without the caveat.**
+- **DARK SHARE: 11 of 34 = 32%** — **inbound 9 of 20 = 45%**, outbound 2 of 14 = 14%.
+  **⭐ WINDWARD CALLS THE 9 DARK SOUTHERN-CORRIDOR TRANSITS (7 in / 2 out) "THE LARGEST SINGLE-NIGHT
+  COUNT ON RECORD."** *(vs 5 of 13 = 38% on 8/17. The SHARE fell; the ABSOLUTE count more than doubled.)*
+- **VESSEL CLASSES: inbound 7 tanker / 2 bulk / 11 cargo · outbound 4 tanker / 1 bulk / 9 cargo.**
+- **BLOCKADE COUNTER: 131D 23H** ⇒ **counts from 2026-04-13, consistent with `:L2971`'s 127D 11H on
+  8/18 (+4d 12h over a 4½-day gap). Arithmetic checks.** ⛔ **Still not evidence of CONTINUOUS
+  enforcement — the three-way conflict at `:L3007` stands unresolved.**
+
+##### THE GULF FLEET SERIES, EXTENDED (this board's running measurement, `:L1009` → `:L2660` → `:L2964` → now)
+| series | 31 Jul | 13 Aug | 17 Aug | **21 Aug** | Δ 17→21 |
+|---|---|---|---|---|---|
+| **Gulf fleet** | 791 | 976 | 971 | **1,036** | **+6.7%** |
+| product tankers | 140 | 160 | — | **157** | −1.9% |
+| **crude tankers** | 45 | 42 | — | **42** | **FLAT** |
+| bulk carriers | 78 | 112 | — | 116 | +3.6% |
+| container | 45 | 51 | — | 58 | +13.7% |
+| High-risk | 130 | 155 | 149 | **157** | +5.4% |
+| Moderate | 203 | 240 | 239 | 247 | +3.3% |
+| Low | 460 | 582 | 587 | 635 | +8.2% |
+| **Iran flag** | 156 | 184 | 183 | **198** | +8.2% |
+| Comoros flag | 103 | 147 | 147 | 156 | +6.1% |
+| **UAE flag** | 98 | 109 | **108** | **114** | **+5.6%** |
+- **HIGH-RISK SHARE: 16.4% (7/31) → 15.3% (8/17) → 15.2% (8/21).** The dilution continues.
+- ⚠️ **A COINCIDENCE THAT WILL CAUSE AN ERROR IF NOT NAMED: 157 IS BOTH THE PRODUCT-TANKER COUNT AND
+  THE HIGH-RISK COUNT ON THIS REPORT. They are different rows.**
+- **GPS JAMMING: 90 vessels jammed, −65.8% vs the 7-day average, 1.4% of 6,443 transmitting**
+  *(vs 152 and −13.8% of 7,773 on 8/13).* **CUMULATIVE since Operation Epic Fury (28 Feb): 74,656
+  unique vessels jammed · 2,989,189 false ship-to-ship meetings** *(vs 72,876 / 2,980,985 on 8/13 ⇒
+  **+1,780 vessels and +8,204 false STS in 8 days** — a sharp deceleration from the +3,936 / +36,910
+  logged over the prior 13 days).*
+- **ATTACKS IN THE ACTIVE THREAT ZONE: 64 incidents — 57 attacks, 7 near-misses** *(vs 60 = 53+7 on
+  8/13 ⇒ **+4 attacks in 8 days**).*
+- **RED SEA FLEET: 545 vessels** *(vs 625 on 8/13 ⇒ **−12.8%**)* — 135 bulk · 97 product tankers ·
+  81 crude · 72 container · 1 chemical · 10 LNG/LPG/mixed · 149 other.
+  **BAB EL-MANDEB last 8 days: 38 outbound / 29 inbound. SUEZ: 41 outbound / 56 inbound.**
+- **NEW INCIDENTS SINCE THE 8/18 REPORT:**
+  **AMARA (IMO 9333280, Liberia product tanker) — SEIZED 20 Aug near Qeshm, held stationary a second
+  consecutive day; Windward now calls it "the first CONFIRMED Iranian seizure since two container
+    ⟲ SUPERSEDES war-board.md:L2984 — RUNG UPGRADED: the AMARA boarding is no longer an unconfirmed fee dispute -- Windward 8/23 calls it the first CONFIRMED Iranian seizure since 22 June, the vessel held stationary a second day
+  ships were taken on 22 June."** ⛔ **This UPGRADES the 8/18 rung: `:L2984` recorded the AMARA
+  boarding as UNCONFIRMED reports of a "compliance and fee dispute." It is now confirmed as a seizure.**
+  **MINOAN DIGNITY (bulk carrier) — struck by an unknown projectile in the ENGINE ROOM while transiting
+  OUTBOUND via the southern corridor, 18 Aug; THE CHIEF ENGINEER WAS KILLED. Shares beneficial
+  ownership with a bulk carrier struck two weeks earlier.**
+  **Windward's own framing: *"Iran enforced new maritime transit regulations after its 60-day ceasefire
+  expired."*** ⇒ **Ties directly to `:L2779` (the MoU clock expired 8/17 with no deal).**
+- **SIXTH SOMALI HIJACKING SINCE 21 APRIL: a Cameroon-flagged general cargo vessel taken 17 Aug ~4.5nm
+  S of Mareeyo. A vessel AIS-dark since its OWN April hijacking is assessed as the enabling mothership.**
+- **SANCTIONED VLGC out of Assaluyeh with 514,300 bbl butane/propane, declared for STS off Dubai.**
+  **An Iran-flagged crude tanker at anchor, AIS ACTIVE, laden with 242,500 bbl of high-sulfur fuel oil
+  bound for CHINA.** **Two damaged AIS-dark vessels still holding between Qeshm and Larak, unchanged.**
+- **INTERDICTION SCREEN: 81 Iran-flag/fraudulent-flag hulls screened 21 Aug — ZERO in the
+  closest-approach tier (a THIRD consecutive empty reading); 13 in the next tier, concentrated in the
+  Gulf of Oman; 5 showing AIS-identity mismatches against independently tracked cargo.**
+  ⚠️ **DO NOT compare the 5 to `:L2969`'s "24 identity-mismatch vessels" — that figure carried no
+  stated screen size. Different denominators, or none.**
+
+##### THE TRAFFIC RECONCILIATION — every published count, one baseline (~140/day, Windward's own)
+| source | count | per day | % of ~140 |
+|---|---|---|---|
+| this board `:L1100` (worst reading) | ~5/day | 5 | **3.6%** |
+| UKMTO via NY Post — "about 40" two weeks ago | 40/wk | 5.7 | **4.1%** |
+| UKMTO — "about 150" prior week | 150/wk | 21.4 | **15.3%** |
+| Windward 8/17 | 13/day | 13 | **9.3%** |
+| UKMTO — "nearly 200" last week | 200/wk | 28.6 | **20.4%** |
+| **Windward 8/21-22** | **34** | 34 | **24.3%** |
+| Axios/Ravid — 40 tankers Friday night | 40 | 40 | **28.6%** |
+| Bloomberg — Saturday 8/22 | 13 (7 E→W, 6 W→E) | 13 | **9.3%** |
+- **✅ ZH's "roughly 20% of prewar levels" and this board's independent 20.4% agree to a decimal.**
+- **✅ AND THE OLDEST FIGURE RECONCILES TOO: `:L1100`'s "3.6% of normal" ≈ UKMTO's 40/week (4.1%) —
+  the SAME measure on the same two-week-ago window, from two unrelated sources.**
+- **AXIOS ARITHMETIC CHECKS: 16,000,000 bbl ÷ 20 outbound tankers = 800,000 bbl each — a Suezmax-scale
+  parcel. Internally consistent.** ⚠️ **"40 tankers in AND out" ⇒ only ~20 were outbound; the 16M bbl
+  is attributed to the outbound half.**
+
+#### THESIS (interpretation — NOT fact)
+- **✅★★★★★★ THE FLAG AT `:L2897` IS CLOSED AND THE ANSWER IS THAT THE VAULT'S BASELINE WAS THE RIGHT
+  INSTRUMENT ALL ALONG.** Seven separately-published counts, from UKMTO, Windward, Axios and Bloomberg,
+  **all land between 3.6% and 28.6% of normal once divided by ~140/day.** ⇒ **They were never in
+  conflict; they were being quoted against no denominator.** **AP's "−19.5%" remains the lone outlier
+  and stays retired (`:L2939`).** ⇒ **⛔ THE STANDING RULE HOLDS: quote transits and the ~140 baseline
+  together, never a percentage change alone.**
+- **⛔⛔ AND THAT IS EXACTLY WHY THE HEADLINE IS WRONG. "TRAFFIC EXPLODES NEARLY 400%" IS TRUE AND
+  MEANINGLESS.** 40 → 200 is +400%; **it is also 4.1% → 20.4% of normal.** ⇒ **The move recovers
+  a fifth of the loss. Four-fifths of the flow is still gone.** ⇒ **A percentage change off a
+  near-zero base is the same error class as `:L2939` — a number quoted without its denominator.**
+  *(Analysis. This is the vault's own registered discipline being applied to a source, not to itself.)*
+- **⛔⛔⛔ AND THE ZH FRAMING — "IRAN IS LOSING ITS GRIP" — IS CONTRADICTED BY THE OTHER DOCUMENT IN THE
+  SAME UPLOAD, WHICH IS THE MORE MEASURED ONE.** On the same nights ZH calls a recovery, Windward
+  records: **a RECORD single-night dark-transit count (9); 45% of INBOUND transits running dark; the
+  first CONFIRMED Iranian seizure since June; a fatal strike on an outbound bulk carrier in the
+  southern corridor; and Iran ENFORCING new transit regulations.** ⇒ **What returned is not commerce
+  resuming under a weakened Iran. A third of it is covert, and the enforcement rate went UP, not down.**
+  ⇒ **The better read is that traffic recovered ALONG THE US-BACKED OMAN ROUTE while the toll regime
+  hardened on everything else — which is this board's own toll-gate thesis (`:L2064`), not its
+  refutation.** *(Analysis.)*
+- **★★★★★ THE UAE TRADE-HALT TEST TAKES ITS FIRST GRADE, AND IT GRADES AGAINST THE ANNOUNCEMENT.**
+  `:L2997` registered it mechanically: ***"if the halt is enforced, UAE-flagged Gulf tonnage falls from
+  108. If it holds or rises, the announcement was narrow."*** ⇒ **108 (17 Aug) → 114 (21 Aug), +5.6%,
+  four days AFTER the 8/19 halt.** ⇒ **FIRST READ: NOT ENFORCED, OR NOT VISIBLE IN FLAG-OF-REGISTRY
+  TONNAGE.** ⚠️ **Three honest caveats before this is called settled: (a) four days is short; (b)
+  flag-of-registry is not trade — a UAE-flagged hull can stop carrying Iranian cargo without
+  de-flagging; (c) the whole Gulf fleet rose 6.7%, so UAE's +5.6% is actually a slight share LOSS
+  (11.1% → 11.0%).** ⇒ **The test as written is answered; the test as INTENDED needs a trade
+  instrument, not a flag count. Re-read weekly and do not upgrade on one reading.** *(Analysis.)*
+- **★★★★★ THE COMPOSITION FINDING IS THE ONE THAT BEARS ON PRICE, AND IT CUTS AGAINST THE RECOVERY
+  STORY: CRUDE TANKERS IN THE GULF ARE FLAT AT 42 SINCE 13 AUGUST while the total fleet added 6.7% and
+  containers added 13.7%.** ⇒ **The hulls coming back are cargo and container, not crude carriers.**
+  ⇒ **Traffic recovering is NOT the same as crude exports recovering, and the vessel-count headline
+  cannot distinguish them.** **Kharg's ~20.7 mmbbl of deferred supply (`:L2940`) is unaffected by any
+  of this.** *(Analysis. Same lesson as `:L2989` — a vessel-count metric reads composition changes as
+  level changes.)*
+- **⭐ THE JAMMING DECELERATION IS THE ONE CLEAN "DE-ESCALATION" SIGNAL IN THE PACKET, AND IT IS
+  GENUINE.** **+1,780 jammed vessels in 8 days vs +3,936 in the prior 13 — a fall from ~303/day to
+  ~223/day, with today's reading 90, i.e. −65.8% against its own 7-day average.** ⇒ **Electronic
+  warfare intensity is falling while KINETIC intensity is not (+4 attacks, one fatality, one
+  seizure).** ⇒ **Two instruments, opposite signs. Do not average them into "tensions easing."**
+  *(Analysis.)*
+- **⚠️ AND A COUNT CONFLICT INSIDE THE WINDWARD REPORT ITSELF, REGISTERED NOT RESOLVED: the dashboard
+  panel says 34 transits (20 in / 14 out) while its own MIOC narrative says "FIVE vessels transited the
+  Strait of Hormuz corridor on 21 August."** ⇒ **Almost certainly the monitored CORRIDOR vs the whole
+  strait — but the report does not say so.** ⛔ **Quote the panel number with its label, and never the
+  two together as if they measure the same object.**
+
+#### 📌 REGISTERED
+1. ✅ **CLOSED — `:L2897` "reconcile the Hormuz traffic numbers."** One baseline (~140/day) reconciles
+   all seven published counts. AP's −19.5% stays retired.
+2. 🚩🚩🚩 **UAE FLAG COUNT, WEEKLY — carried forward with its first grade (108 → 114, ROSE).** ⬜ **And
+   the instrument this board actually needs and still lacks: Jebel Ali throughput / Iran-facing
+   re-export volumes (`:L2898`, open since 8/19).**
+3. 🚩🚩 **IS 34 A 24-HOUR OR A 48-HOUR COUNT?** One line in the next Windward daily settles it and it
+   is the difference between 24.3% and 12.1% of normal.
+4. 🚩🚩 **DOES THE TRAFFIC RECOVERY HOLD?** Bloomberg's 13 on Saturday is HALF the weekly run-rate that
+   produced the "200 ships" headline. **Two consecutive weekly readings above ~25/day, or it was a
+   convoy, not a re-opening.**
+5. 🚩 **THE OMAN COASTAL ROUTE'S SHARE OF TRANSITS** — the whole "Iran is losing its grip" claim rests
+   on it and no source has quantified it. ⬜ Not in either document.
+**Links:** [[oil-value-chain]] · [[demand-destruction]] · [[europe-energy-crunch]] · [[market-fragility]]
