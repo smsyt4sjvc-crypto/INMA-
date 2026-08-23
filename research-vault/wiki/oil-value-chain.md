@@ -75,6 +75,7 @@ Related: [[power-not-petroleum]], [[demand-destruction]] (the crack thread + the
   (1) **shareholders** — disciplined producers return cash via buybacks/dividends (and asset owners skew wealthy →
   the same debasement/inequality dynamic, [[new-economy-regime]]); (2) **refiners** — the crack, ESPECIALLY now
   (war + tight products = record 3-2-1 while flat crude fades → refiners minted the war money, producers didn't);
+    ⟲ SUPERSEDED 2026-08-23 → oil-value-chain.md:L1850 — FALSIFIED FOR THE CURRENT WINDOW: crude did NOT fade -- WTI 79.60 (7/15) -> 87.06 (8/21), +9.4% -- while the 3-2-1 crack fell 68.10 -> 59.64. The July crack run was a PRODUCT-side move and the product side gave it back
   (3) **midstream** — steady volume tolls regardless of price. NOT into a reinvestment gusher; NOT into cheaper US
   gas (you pay the global price + the crack — why $4 gas coexists with record US output).
 - *(the "own the toll, not the barrel" read — the session's 5th landing on this)* The **barrel price is a coin
@@ -1785,3 +1786,127 @@ the primary pull adds the two series this thread has had registered and unfetche
 5. ⬜ **Still open, unchanged: the NYMEX HO-vs-CL matched-month crack series 2022→date** (`:L1642`) — and
    note it should now be read against **PADD-1** ULSD stocks, which is a better-matched pair than national.
 **Links:** [[demand-destruction]] · [[europe-energy-crunch]] · [[war/war-board]] · [[transmission-chain]]
+
+### 2026-08-23 ~7:05am PDT — ⛔⛔⛔ **JAKE'S Q: "IF BRENT TANKS, CRACKS JUMP RIGHT? DENOMINATOR DOWN?" — THERE IS NO DENOMINATOR. THE CRACK IS A SUBTRACTION.** ★★★★★★ **AND MEASURED OVER 486 SESSIONS THE INTUITION IS BACKWARDS: on the 111 days WTI fell >$1, the DIESEL leg fell $2.42 against crude's $1.73 — 140% pass-through — and the ULSD crack rose on only 34% of them.** ⭐ **His conclusion still has a live path, but it is the 36% case and it needs the crude fall to be CRUDE-SPECIFIC**
+Source: Jake's question, 2026-08-23 ~6:40am PDT, alongside two uploads —
+`raw/2026-08-22-hormuz-traffic/zerohedge.txt` ("Iran Is Losing Its Grip On Hormuz", 8/23 6:43am) and
+`raw/2026-08-22-hormuz-traffic/windward.txt` (Windward Daily Intelligence, data as of 21-22 Aug).
+Price data: **Yahoo chart API close arrays** (never `meta`), pulled 2026-08-23 ~6:58am PDT.
+⚠️ **Sunday — every print below is FRIDAY 2026-08-21's settle. Nothing here is live.**
+
+#### DATA (MEASURED — front-month HO=F / CL=F / RB=F settles, ×42 gal/bbl)
+| session | ULSD crack | RBOB crack | 3-2-1 | WTI | Brent | Brent−WTI |
+|---|---|---|---|---|---|---|
+| Mon 8/17 | **101.86** | 52.84 | 69.18 | 84.50 | 90.87 | 6.37 |
+| Tue 8/18 | 101.96 | 53.73 | 69.81 | 84.94 | 91.02 | 6.08 |
+| Wed 8/19 | 101.17 | 50.88 | 67.64 | 85.83 | 91.62 | 5.79 |
+| Thu 8/20 | 100.34 | 49.21 | 66.26 | 87.83 | 93.78 | 5.95 |
+| **Fri 8/21** | **97.10** | **40.91** | **59.64** | 87.06 | 94.39 | **7.33** |
+
+- **✅✅ THIRD-PARTY CORROBORATION OF THIS VAULT'S OWN ARITHMETIC, ON BOTH ENDS OF THE WEEK.** ZeroHedge
+  quotes **Bloomberg's HOCL1 index "topped $100" and a tweet dated 8/17 reading "Diesel crack hits record
+  $102"** — this note computes **101.86 at the 8/17 settle.** ZH: **"the US diesel crack spread closed
+  below $100 on Friday"** — this note computes **97.10.** ⇒ **Two independent instruments, two dates,
+  both inside a rounding step.** ⇒ **The front-month HO=F−CL=F construction is validated against a
+  commercial index and can be quoted.**
+- **⚠️ AND IT LEAVES ONE UNRESOLVED CONFLICT WITH THIS NOTE'S OWN 8/17 ENTRY (`:L1136`), REGISTERED NOT
+  GLOSSED: that entry recorded the 8/17 crack as 96.51 (cross-month) / 101.68 (matched Sep-26). The
+  SETTLE computes to 101.86.** The 96.51 was pulled **INTRADAY Monday ~8:05am PDT**, so a $5 gap to the
+  settle is possible but not verified. ⇒ **The MATCHED figure (101.68) is the one that survives contact
+  with Bloomberg; the cross-month figure does not. The 8/17 supersession was right.**
+
+##### ⛔ THE MECHANICAL CORRECTION, FIRST, BECAUSE IT IS THE PART THAT IS SIMPLY TRUE
+- **CRACK = PRODUCT PRICE OUT − CRUDE COST IN.** This note has held that since line 64. **It is a
+  SUBTRACTION. There is no denominator, so "denominator down" has nothing to act on.**
+- ⇒ **If Brent and diesel both fall $10, the crack is UNCHANGED.** A crack only widens when the product
+  leg falls LESS than the crude leg (or rises while crude falls). **The question is never the level of
+  crude — it is the RELATIVE move.**
+
+##### ★★★★★★ THE BASE RATE, WITH ITS n AND ITS WINDOW (2026-08-23 pull; 486 matched sessions, 2024-08-23 → 2026-08-21; roll-day artefacts dropped at |ΔWTI| > $6)
+- **Δ(ULSD crack) = +0.405 × Δ(WTI). THE BETA IS POSITIVE, r = +0.30.** ⇒ **On average the crack moves
+  WITH crude, not against it.**
+- **WTI DOWN >$1 (n=111): the ULSD crack ROSE on 38 = 34%. Median Δcrack −$0.54.**
+- **WTI TANKS >$2.50 (n=28): the crack ROSE on 10 = 36%. Median Δcrack −$0.52.**
+- **WTI UP >$1 (n=122): the crack rose on 76 = 62%. Median Δcrack +$0.51.**
+- **3-2-1 crack: β = +0.156, r = +0.18. On WTI-down days a coin flip (50%); on WTI-tanks days 39%.**
+- **⭐ THE DECOMPOSITION THAT EXPLAINS IT: on the 111 days WTI fell >$1, the median DIESEL leg fell
+  $2.42 against crude's $1.73 ⇒ 140% PASS-THROUGH.** **Diesel falls MORE than crude, in dollars, on
+  crude down-days.** *(Daily $/bbl volatility: diesel leg $3.26 · crude leg $1.71 · the crack itself
+  $2.31 — the product leg is the noisy one.)*
+- **⇒ THE ANSWER TO THE QUESTION AS ASKED IS NO, AND IT IS NOT CLOSE: "Brent tanks ⇒ cracks jump" is a
+  ~1-in-3 event over two years, not a mechanism.**
+
+##### ⛔ AND THE LAST SESSION RAN THE SAME WAY, THOUGH IT IS NOT A CLEAN TEST
+- **Fri 8/21: WTI −$0.77 (−0.88%) and the 3-2-1 crack −$6.62 (−10.0%); RBOB crack −$8.31; ULSD crack
+  −$3.24.** ⇒ **Crude down AND cracks down hard, in the same session.**
+- **⚠️ IT IS NOT EVIDENCE ABOUT THE HORMUZ HEADLINES.** NYMEX settles ~2:30pm ET; **Trump's "American
+  territory" remark was Friday EVENING and the Axios/UKMTO traffic reports landed Friday night and
+  Saturday morning.** ⇒ **The Friday tape PRE-DATES the news.** It shows the mechanism, not the reaction.
+
+##### ⭐ THE STATE THAT MATTERS MORE THAN THE QUESTION: THE CRACK HAS ALREADY ROLLED OVER
+- **3-2-1: 68.10 (7/15) → 69.81 peak (8/18) → 59.64 (8/21) = −14.6% in three sessions, and BELOW the
+  7/15 level that anchored this thread.**
+- **ULSD: 86.23 (7/15) → 101.96 peak (8/18) → 97.10 (8/21).** **WTI over the same span: 79.60 → 87.06,
+  +9.4%.** ⇒ **CRUDE ROSE AND THE CRACK COMPRESSED.**
+- **⛔ WHICH FALSIFIES THIS NOTE'S OWN FRAMING AT `:L77` FOR THE CURRENT WINDOW: "record 3-2-1 while
+  ⟲ SUPERSEDES oil-value-chain.md:L77 — FALSIFIED FOR THE CURRENT WINDOW: crude did NOT fade -- WTI 79.60 (7/15) -> 87.06 (8/21), +9.4% -- while the 3-2-1 crack fell 68.10 -> 59.64. The July crack run was a PRODUCT-side move and the product side gave it back
+  flat crude fades" is NOT what the last five weeks did.** Crude did not fade — it added $7.46. **The
+  crack's July run was a PRODUCT-side move, and the product side has now given it back.**
+- **📉 AND THE EQUITIES HAVE NOT FOLLOWED (Yahoo closes, 8/17 → 8/21):** VLO +0.5% · MPC +0.7% ·
+  PSX +1.0% · DINO +2.5% · PBF −2.1% · PARR −3.7% · XLE +1.7% · XOM +2.3%. **Five of eight sit within
+  2% of the 3-month high while the 3-2-1 crack fell 13.8% underneath them.** ⇒ **An open divergence:
+  either the equities are pricing the DEFERRED strip through a front-month wobble, or they have not
+  repriced. The vault cannot tell which, because the 12-month deferred crack is STILL unfetched
+  (registered `:L1156`, open since 8/17).**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ WHERE JAKE IS RIGHT, AND IT IS THE PART THE BASE RATE CANNOT SEE: THE BINDING CONSTRAINT
+  RIGHT NOW IS REFINING, NOT CRUDE — AND THE TWO SOURCES HE SENT SAY IT IN THEIR OWN WORDS.** ZH:
+  *"the emerging energy crisis is not centred on crude availability, as SPRs around the world are being
+  tapped… the real crisis is materialising in the refined-products market."* **Currie, on the record:
+  *"Nobody on the planet Earth consumes crude oil. Refineries do… that consumption-weighted basket
+  costs $165 against $85 WTI."*** ⇒ **If the constraint is refining capacity, then crude and product
+  are DECOUPLED at the margin, the 140% pass-through breaks, and a crude-specific decline widens the
+  crack roughly one-for-one.** **That is his mechanism, and it is coherent.** *(Analysis.)*
+- **⛔⛔ BUT THE STRONGEST DISCONFIRMER IS INSIDE HIS OWN UPLOAD, AND IT IS THE ONE I WOULD NOT HAVE
+  FOUND ANYWHERE ELSE: THE GULF EXPORTS PRODUCT, NOT JUST CRUDE.** **Windward's Gulf fleet composition,
+  21-22 Aug: 157 PRODUCT TANKERS vs 42 CRUDE TANKERS (+8 chemical) — product hulls outnumber crude
+  hulls 3.7 : 1.** ⇒ **Ruwais, Jubail, Ras Tanura and Al-Zour all sit INSIDE Hormuz.** ⇒ **A Hormuz
+  re-opening does not return crude alone; it returns diesel and jet into precisely the market that is
+  short.** ⇒ **THE RELIEF HITS BOTH LEGS OF THE SUBTRACTION, AND THE SIGN OF THE NET IS NOT OBVIOUS.**
+  ⚠️ **Hull COUNT is not volume — a VLCC carries many times a product tanker's parcel, so this
+  understates the crude leg. It is a directional argument, not a quantified one.** *(Analysis.)*
+- **★★★★★ ⇒ THE DISCRIMINATOR, STATED SO IT IS FALSIFIABLE: WHY BRENT FALLS DECIDES THE SIGN, AND THE
+  TWO CASES POINT OPPOSITE WAYS.**
+  **(a) DEMAND DESTRUCTION / recession** — crude falls because the world stops burning it. **Products
+  fall HARDER (they are where the consumer is): the crack COLLAPSES.** This is the case the 486-session
+  base rate is mostly made of, and it is ZH's own stated risk (*"industrial economy either grinds to a
+  halt or…"*).
+  **(b) A CRUDE-SPECIFIC SUPPLY RETURN with refining still tight** — the crack WIDENS. **This requires
+  the returning molecules to be crude and the refining bottleneck to bind.**
+  ⇒ **Jake's call is a bet on (b) over (a). The vault's measured base rate says (a) is ~2-in-3 — but
+  the base rate window contains no Hormuz.** *(Analysis.)*
+- **⚠️ AND A THIRD CASE THE VAULT ALREADY OWNS AND MUST NOT DROP: THE CRUDE LEG HAS A QUANTIFIED
+  OVERHANG.** `war/war-board:L2940` — **~20.7 million barrels laden and floating off Kharg, three
+  terminals vacant.** ⇒ **On a Hormuz resolution the crude leg does not normalise slowly; a known
+  volume with the paperwork done arrives at once.** **That is the one configuration where crude falls
+  fast, product does not, and Jake's mechanism fires cleanly.** ⇒ **His trade is not "Brent down"; it
+  is "Kharg unloads before the Gulf refineries re-export."** *(Analysis.)*
+- **⚠️ THE HONEST LIMIT ON MY OWN NUMBER: r = +0.30 means crude explains ~9% of the crack's daily
+  variance.** ⇒ **The beta says the intuition's SIGN is wrong on average; it does NOT say crude drives
+  the crack. It mostly does not — the crack is a product-side instrument, which is exactly why Currie's
+  framing is the right lens and "watch Brent" is the wrong one.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **THE 12-MONTH DEFERRED ULSD CRACK — PROMOTED AGAIN, NOW LOAD-BEARING.** Open since 8/17 and
+   still unfetched. **It is the ONLY instrument that resolves the divergence above: refiners flat while
+   the front crack fell 13.8%.** If the deferred strip held, the equities are right and the front-month
+   move is noise. If it fell too, the equities are late.
+2. 🚩🚩 **RE-RUN THE β ON A SUPPLY-SHOCK SUBSAMPLE.** The +0.405 beta pools demand-driven and
+   supply-driven crude moves. ⬜ **The conditional Jake needs — β on days crude moved on a NAMED SUPPLY
+   event — has NOT been measured.** That is the test that would actually grade his call.
+3. 🚩🚩 **GULF PRODUCT-EXPORT VOLUMES (Ruwais / Jubail / Ras Tanura / Al-Zour), not hull counts.**
+   ⬜ The disconfirmer above is a vessel-count argument and deserves a barrel-count one.
+4. 🚩 **DOES THE 8/21 GASOLINE COLLAPSE (RBOB crack −$8.31 in one session, −17%) HOLD?** It did most of
+   the work in the 3-2-1 print and one session is not a regime.
+**Links:** [[war/war-board]] · [[demand-destruction]] · [[portfolio-state]] · [[market-fragility]]

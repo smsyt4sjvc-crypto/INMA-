@@ -1,6 +1,6 @@
 # ⏱ EUROGAS — merged timeline (the gate)
 
-> **112 dated entries across 3 notes · 2026-07-23 → 2026-08-19 · refreshed 2026-08-22 20:47 PDT**
+> **115 dated entries across 3 notes · 2026-07-23 → 2026-08-23 · refreshed 2026-08-23 06:57 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -18,7 +18,7 @@
 - `2026-07-24` [war-board.md:L66](../war/war-board.md) — UPDATE — 2026-07-24 ~6:44AM PT (Fri open) — war premium UNWINDING
 - `2026-07-24` [war-board.md:L71](../war/war-board.md) — UPDATE — 2026-07-24 ~9:54AM PT (Fri midday) — OFF-RAMP RE-FORMING (Jake's de-escalation call checkpoint #1 live)
 - `2026-07-24` [war-board.md:L82](../war/war-board.md) — UPDATE — 2026-07-24 ~11:16am PT — WAR WIDENING (Gulf-Arab coalition) — strategic escalation vs the tactical off-ramp
-- `2026-07-25` [oil-value-chain.md:L47](../oil-value-chain.md) — 2026-07-25 ~10:35pm PT — Jake's Q: reserve-supplied consumption = "already paid for"? How it actually lands in XOM/CVX/VLO prints (Fri 7/31)
+- `2026-07-25` [oil-value-chain.md:L48](../oil-value-chain.md) — 2026-07-25 ~10:35pm PT — Jake's Q: reserve-supplied consumption = "already paid for"? How it actually lands in XOM/CVX/VLO prints (Fri 7/31)
 - `2026-07-25` [war-board.md:L98](../war/war-board.md) — UPDATE — 2026-07-25 ~11:01am PT (Sat) — ★ THE OFF-RAMP FIRED (in-window): strike stand-down + Oman reopening talks
 - `2026-07-26` [war-board.md:L108](../war/war-board.md) — UPDATE — 2026-07-26 ~9:28am PT (Sun, ~5.5h to crude open) — HORMUZ NEAR-EMPTY: tell (c) advancing to DE FACTO; the open now grades a TUG
 - `2026-07-26` [war-board.md:L124](../war/war-board.md) — UPDATE — 2026-07-26 ~9:30am PT (Sun, ~5.5h to crude open) — ★ FULL TRACKER PULL REWRITES THE BOARD: US BLOCKADE + ZERO TANKERS + ORDNANCE INSIDE SAUDI
@@ -26,7 +26,7 @@
 - `2026-07-27` [war-board.md:L160](../war/war-board.md) — UPDATE — 2026-07-27 ~5:20am PT (Mon pre-equity-open; Reuters full picture in) — NEW STATE: LEVERAGE-POOR PAUSE + IRAN-GATED TRANSIT
 - `2026-07-27` [war-board.md:L180](../war/war-board.md) — UPDATE — 2026-07-27 ~6:40am PT (post-open) — THE PAUSE IS BILATERAL; THE WAR IS MULTILATERAL
 - `2026-07-27` [war-board.md:L195](../war/war-board.md) — UPDATE — 2026-07-27 ~6:50am PT — TELL (a): ATTEMPT OFFICIALLY ADMITTED, DAMAGE CONTESTED (Abqaiq)
-- `2026-07-28` [oil-value-chain.md:L73](../oil-value-chain.md) — 2026-07-28 ~11:56am PT — THE REFINER TAPE (Jake's watchlist): the crack trade has ALREADY PAID — and it is long a government subsidy with a ~12-week f
+- `2026-07-28` [oil-value-chain.md:L74](../oil-value-chain.md) — 2026-07-28 ~11:56am PT — THE REFINER TAPE (Jake's watchlist): the crack trade has ALREADY PAID — and it is long a government subsidy with a ~12-week f
 - `2026-07-28` [war-board.md:L238](../war/war-board.md) — UPDATE — 2026-07-28 ~11:45am PT — THE TOLL REGIME GETS A NAME (Malacca model) + the tape and the prediction market price OPPOSITE outcomes
 - `2026-07-28` [war-board.md:L262](../war/war-board.md) — ⚠️ DISAMBIGUATION (added 2026-07-28 ~12:05pm PT, Jake's question) — ABQAIQ ≠ JAZAN; PROCESSING ≠ REFINING
 - `2026-07-28` [war-board.md:L282](../war/war-board.md) — UPDATE — 2026-07-28 ~3:10pm PT — 🔴 THE PAUSE IS BROKEN (CENTCOM-confirmed): IRGC ballistic missiles FROM IRAN at US forces, ALL INTERCEPTED
@@ -35,7 +35,7 @@
 - `2026-07-29` [war-board.md:L362](../war/war-board.md) — 2026-07-29 ~8:50am PT — ★★ THE UNDERPRICED ITEM IN TODAY'S FEED: CHINA IS ARMING IRAN, ON A WEEKS TIMELINE
 - `2026-07-29` [war-board.md:L416](../war/war-board.md) — 2026-07-29 ~9:10am PT — ⚠️ CONTESTED: "US-OWNED LNG VESSEL STRUCK AT DAMIETTA, EGYPT" — FILED AS UNRESOLVED, MOVES NOTHING
 - `2026-07-29` [war-board.md:L471](../war/war-board.md) — 2026-07-29 ~10:45pm PT — ★★★ QESHM ISLAND HIT. SOMEONE IS ATTACKING THE **TOLL BOOTH**, AND THAT IS NOT BULLISH FOR SHIPPING.
-- `2026-07-30` [oil-value-chain.md:L105](../oil-value-chain.md) — 2026-07-30 ~4:55pm PT — ★★★ "SEABORNE MARKET = US" (Jake) — CORRECT ON GAS, WRONG ON CRUDE, AND THE SPLIT IS THE FINDING
+- `2026-07-30` [oil-value-chain.md:L106](../oil-value-chain.md) — 2026-07-30 ~4:55pm PT — ★★★ "SEABORNE MARKET = US" (Jake) — CORRECT ON GAS, WRONG ON CRUDE, AND THE SPLIT IS THE FINDING
 - `2026-07-30` [war-board.md:L527](../war/war-board.md) — 2026-07-30 ~2:40am PT — ⛔⛔⛔ THE VAULT DOES NOT KNOW WHO RUNS IRAN: ALI KHAMENEI WAS ASSASSINATED BY US-ISRAELI STRIKES AND HIS SON HAS LED SINCE MARCH
 - `2026-07-30` [war-board.md:L566](../war/war-board.md) — UPDATE — 2026-07-30 ~4:20pm PT — FOUR NEW ESCALATION ITEMS (Jake's feed) — ALL 🟡, ALL POLITICAL-TIER
 - `2026-07-31` [war-board.md:L596](../war/war-board.md) — UPDATE — 2026-07-31 ~8:15am PT — 🔴 **TANKERS UNDER US MILITARY ESCORT STRUCK** + the strait is REOPENING under fire
@@ -67,37 +67,37 @@
 - `2026-08-06` [war-board.md:L1540](../war/war-board.md) — 📌 LEDGER 2026-08-06 ~12:10pm PDT — HANDOFF: **THE FEE GETS ITS NUMBER (5-7% of cargo) — and the insurance mechanism that makes the corridor SELF-BLOCK
 - `2026-08-06` [war-board.md:L1563](../war/war-board.md) — 📌 LEDGER 2026-08-06 ~2:35pm PDT — **FARS 12:58pm: "IRAN STRUCK 'HOSTILE TARGETS' IN STRAIT OF HORMUZ"** — the bill's vocabulary goes kinetic while the
 - `2026-08-08` [war-board.md:L1581](../war/war-board.md) — 📌 LEDGER 2026-08-08 ~12:55pm PDT — ★★★★ THE MECCA JOINT DEFENCE AGREEMENT IS REAL AND VERIFIED — and the two things the paste omitted are what change 
-- `2026-08-09` [oil-value-chain.md:L145](../oil-value-chain.md) — 2026-08-09 ~9:35am PDT — VENEZUELA AS THE REPLACEMENT BARREL: the value-chain claim is structurally right, and it collides with a vault prior worth ke
-- `2026-08-09` [oil-value-chain.md:L191](../oil-value-chain.md) — Addendum 2026-08-09 ~9:40am PDT — ★★★★ THE FETCHES CLOSE IN AN HOUR — and they carry a fact bigger than the Venezuela story: THE US RAN ~50 DAYS AT ZE
+- `2026-08-09` [oil-value-chain.md:L146](../oil-value-chain.md) — 2026-08-09 ~9:35am PDT — VENEZUELA AS THE REPLACEMENT BARREL: the value-chain claim is structurally right, and it collides with a vault prior worth ke
+- `2026-08-09` [oil-value-chain.md:L192](../oil-value-chain.md) — Addendum 2026-08-09 ~9:40am PDT — ★★★★ THE FETCHES CLOSE IN AN HOUR — and they carry a fact bigger than the Venezuela story: THE US RAN ~50 DAYS AT ZE
 - `2026-08-09` [war-board.md:L1653](../war/war-board.md) — 📌 LEDGER 2026-08-09 ~8:00am PDT — ★★★ JAZAN BURNS TWO DAYS AFTER MECCA — MJDA test #3 gets its first datapoint, via the one vector the pact can't easi
 - `2026-08-09` [war-board.md:L1716](../war/war-board.md) — 📌 LEDGER 2026-08-09 ~12:40pm PDT — SWEEP #1: the MJDA baseline gets its day-2 count, and an EASTERN-PROVINCE anomaly enters unconfirmed
 - `2026-08-11` [war-board.md:L1771](../war/war-board.md) — ⛔ CORRECTION — 2026-08-11 ~7:45am PDT — THE "FIRST US-WEAPONS-ON-MERCHANT EVENT" IS FALSE. It is the 12th, the mechanism is ROUTINE BLOCKADE ENFORCEME
 - `2026-08-11` [war-board.md:L1840](../war/war-board.md) — 📌 LEDGER 2026-08-11 ~1:15pm PDT — THE DELEGATED IRAN RUN CLOSES TWO OF MY OWN OPEN ITEMS — one of them AGAINST my reading — and the pressure goes TWO-
 - `2026-08-11` [war-board.md:L1913](../war/war-board.md) — 📌 LEDGER 2026-08-11 ~5:10pm PDT — REUTERS PRIMARY CLOSES THREE OPEN ITEMS, CORRECTS A CONFLATION OF MINE, AND THE IRANIAN DEMAND SET TURNS OUT TO BE S
-- `2026-08-13` [oil-value-chain.md:L231](../oil-value-chain.md) — 2026-08-13 ~8:55am PDT — ★★★★★★ THE DIESEL CRACK CLOSES THE FLAG `war-board:1762` REGISTERED ("crack spreads = the gauge, not flat price") — **and it 
-- `2026-08-13` [oil-value-chain.md:L235](../oil-value-chain.md) — DATA (computed from futures, Yahoo chart API, 2026-08-13 ~9:00am PDT — HO×42 − WTI)
-- `2026-08-13` [oil-value-chain.md:L299](../oil-value-chain.md) — 2026-08-13 ~11:45am PDT — ⛔⛔⛔ TWO CORRECTIONS TO MY OWN 8:55am ENTRY, BOTH VERIFIED — **a mislabelled window, and a DECOUPLING I missed: the refiners 
-- `2026-08-13` [oil-value-chain.md:L304](../oil-value-chain.md) — DATA (recomputed 2026-08-13 ~1:10pm PDT)
-- `2026-08-13` [oil-value-chain.md:L366](../oil-value-chain.md) — 2026-08-13 ~12:00pm PDT — ⛔⛔ JAKE'S ULSD-BACKWARDATION ARGUMENT **DEFEATS MY DECOUPLING FINDING** — I measured a SPOT gauge against a FORWARD-DISCOUNT
-- `2026-08-13` [oil-value-chain.md:L375](../oil-value-chain.md) — DATA (ULSD + WTI futures curves, pulled 2026-08-13 ~11:55am PDT)
-- `2026-08-13` [oil-value-chain.md:L443](../oil-value-chain.md) — 2026-08-13 ~12:25pm PDT — 📡 FETCH #1 BACK (global product supply): **JAKE'S PREMISE #4 IS UNDERSTATED, NOT JUST CONFIRMED — and MY OWN China break-con
-- `2026-08-13` [oil-value-chain.md:L532](../oil-value-chain.md) — 2026-08-13 ~1:40pm PDT — 📊 JAKE'S REFINER RANKING, **TESTED BY REGRESSION: THREE OF HIS FOUR LABELS CONFIRMED** — and the decoupling I claimed is real
-- `2026-08-13` [oil-value-chain.md:L537](../oil-value-chain.md) — DATA (regression, 2026-08-13; β = % stock move per $1 crack move; R² = share of daily variance explained)
-- `2026-08-13` [oil-value-chain.md:L596](../oil-value-chain.md) — 2026-08-13 ~1:45pm PDT — ⛔ DECLINED (rule 7): a 1-5 confidence score on 90-day return per name is a RATING. **But the arithmetic underneath explains W
-- `2026-08-13` [oil-value-chain.md:L647](../oil-value-chain.md) — 2026-08-13 ~2:00pm PDT — ✅ **"IS THERE ROOM TO RUN ON CRACKS?" — ANSWERED. ESTIMATES HAVE NOT FINISHED MARKING: 24 of 24 revision windows POSITIVE, ze
+- `2026-08-13` [oil-value-chain.md:L232](../oil-value-chain.md) — 2026-08-13 ~8:55am PDT — ★★★★★★ THE DIESEL CRACK CLOSES THE FLAG `war-board:1762` REGISTERED ("crack spreads = the gauge, not flat price") — **and it 
+- `2026-08-13` [oil-value-chain.md:L236](../oil-value-chain.md) — DATA (computed from futures, Yahoo chart API, 2026-08-13 ~9:00am PDT — HO×42 − WTI)
+- `2026-08-13` [oil-value-chain.md:L300](../oil-value-chain.md) — 2026-08-13 ~11:45am PDT — ⛔⛔⛔ TWO CORRECTIONS TO MY OWN 8:55am ENTRY, BOTH VERIFIED — **a mislabelled window, and a DECOUPLING I missed: the refiners 
+- `2026-08-13` [oil-value-chain.md:L305](../oil-value-chain.md) — DATA (recomputed 2026-08-13 ~1:10pm PDT)
+- `2026-08-13` [oil-value-chain.md:L367](../oil-value-chain.md) — 2026-08-13 ~12:00pm PDT — ⛔⛔ JAKE'S ULSD-BACKWARDATION ARGUMENT **DEFEATS MY DECOUPLING FINDING** — I measured a SPOT gauge against a FORWARD-DISCOUNT
+- `2026-08-13` [oil-value-chain.md:L376](../oil-value-chain.md) — DATA (ULSD + WTI futures curves, pulled 2026-08-13 ~11:55am PDT)
+- `2026-08-13` [oil-value-chain.md:L444](../oil-value-chain.md) — 2026-08-13 ~12:25pm PDT — 📡 FETCH #1 BACK (global product supply): **JAKE'S PREMISE #4 IS UNDERSTATED, NOT JUST CONFIRMED — and MY OWN China break-con
+- `2026-08-13` [oil-value-chain.md:L533](../oil-value-chain.md) — 2026-08-13 ~1:40pm PDT — 📊 JAKE'S REFINER RANKING, **TESTED BY REGRESSION: THREE OF HIS FOUR LABELS CONFIRMED** — and the decoupling I claimed is real
+- `2026-08-13` [oil-value-chain.md:L538](../oil-value-chain.md) — DATA (regression, 2026-08-13; β = % stock move per $1 crack move; R² = share of daily variance explained)
+- `2026-08-13` [oil-value-chain.md:L597](../oil-value-chain.md) — 2026-08-13 ~1:45pm PDT — ⛔ DECLINED (rule 7): a 1-5 confidence score on 90-day return per name is a RATING. **But the arithmetic underneath explains W
+- `2026-08-13` [oil-value-chain.md:L648](../oil-value-chain.md) — 2026-08-13 ~2:00pm PDT — ✅ **"IS THERE ROOM TO RUN ON CRACKS?" — ANSWERED. ESTIMATES HAVE NOT FINISHED MARKING: 24 of 24 revision windows POSITIVE, ze
 - `2026-08-13` [war-board.md:L1983](../war/war-board.md) — 2026-08-13 ~9:00am PDT — ★★★★★★ THE HORMUZ UPDATE CONFIRMS THE TOLL-GATE THESIS AS **POLICY** — and joining it to three facts already on disk gives th
 - `2026-08-13` [war-board.md:L2069](../war/war-board.md) — 2026-08-13 ~9:10am PDT — ⛔ JAKE IS RIGHT AND MY CORRECTION OPERATED ON THE WRONG LAYER: **the toll and the all-or-nothing demands are CONTEMPORANEOUS,
 - `2026-08-13` [war-board.md:L2122](../war/war-board.md) — 2026-08-13 ~9:15am PDT — ★★★★★ JAKE REGISTERS THE FIRST PROPER TRIGGER LIST OF THE SESSION — **and one of the three has already fired, in his own dige
 - `2026-08-13` [war-board.md:L2186](../war/war-board.md) — 2026-08-13 ~9:55am PDT — ⛔ WRONG ACTOR: **the triggers are US-SIDE.** My "already fired" objection applied his threshold to Iran. **And his reasoning 
 - `2026-08-13` [war-board.md:L2559](../war/war-board.md) — DATA (MEASURED — Windward vessel tracking, as of 2026-08-13)
-- `2026-08-14` [oil-value-chain.md:L732](../oil-value-chain.md) — 2026-08-14 ~6:10pm PDT — ⛔ I HANDED JAKE HIS OWN EDGE BACK AS HIS RISK. **The collapsing deferred strip is not the disconfirmer of the thesis — `:L689
-- `2026-08-14` [oil-value-chain.md:L772](../oil-value-chain.md) — DATA (MEASURED — CME/NYMEX settlements, trade date 2026-08-14, unless flagged)
-- `2026-08-14` [oil-value-chain.md:L1670](../oil-value-chain.md) — DATA (MEASURED — EIA WPSR, w/e 2026-08-14, released 2026-08-19)
+- `2026-08-14` [oil-value-chain.md:L733](../oil-value-chain.md) — 2026-08-14 ~6:10pm PDT — ⛔ I HANDED JAKE HIS OWN EDGE BACK AS HIS RISK. **The collapsing deferred strip is not the disconfirmer of the thesis — `:L689
+- `2026-08-14` [oil-value-chain.md:L773](../oil-value-chain.md) — DATA (MEASURED — CME/NYMEX settlements, trade date 2026-08-14, unless flagged)
+- `2026-08-14` [oil-value-chain.md:L1671](../oil-value-chain.md) — DATA (MEASURED — EIA WPSR, w/e 2026-08-14, released 2026-08-19)
 - `2026-08-14` [war-board.md:L2645](../war/war-board.md) — DATA (MEASURED — re-read of `raw/windward-daily-hormuz-2026-08-14.txt`)
-- `2026-08-15` [oil-value-chain.md:L764](../oil-value-chain.md) — 2026-08-15 ~12:44am PDT — ⛔⛔⛔ THE TRIGGER I REGISTERED LAST NIGHT HAD ALREADY FIRED FIVE WEEKS EARLIER — **Russia banned diesel exports 2026-07-08** —
-- `2026-08-15` [oil-value-chain.md:L851](../oil-value-chain.md) — 2026-08-15 ~12:57am PDT — ★★★★★★ THE INDEPENDENT CROSS-CHECK EARNS ITS KEEP: it **closes a long-standing registered open item** (the Bloomberg 80,000 
-- `2026-08-15` [oil-value-chain.md:L947](../oil-value-chain.md) — 2026-08-15 ~1:00am PDT — ⛔⛔⛔ THE SECOND CROSS-CHECK ATTACKS THE THESIS AT ITS CORE: **84% of the three-month crack expansion is CRUDE FALLING, not die
-- `2026-08-15` [oil-value-chain.md:L1022](../oil-value-chain.md) — 2026-08-15 ~2:05am PDT — ⛔⛔ MY 84% FINDING IS WINDOW-DEPENDENT AND THE RECENT WINDOW REVERSES IT: **over the last month the crack expansion is PRODUCT
+- `2026-08-15` [oil-value-chain.md:L765](../oil-value-chain.md) — 2026-08-15 ~12:44am PDT — ⛔⛔⛔ THE TRIGGER I REGISTERED LAST NIGHT HAD ALREADY FIRED FIVE WEEKS EARLIER — **Russia banned diesel exports 2026-07-08** —
+- `2026-08-15` [oil-value-chain.md:L852](../oil-value-chain.md) — 2026-08-15 ~12:57am PDT — ★★★★★★ THE INDEPENDENT CROSS-CHECK EARNS ITS KEEP: it **closes a long-standing registered open item** (the Bloomberg 80,000 
+- `2026-08-15` [oil-value-chain.md:L948](../oil-value-chain.md) — 2026-08-15 ~1:00am PDT — ⛔⛔⛔ THE SECOND CROSS-CHECK ATTACKS THE THESIS AT ITS CORE: **84% of the three-month crack expansion is CRUDE FALLING, not die
+- `2026-08-15` [oil-value-chain.md:L1023](../oil-value-chain.md) — 2026-08-15 ~2:05am PDT — ⛔⛔ MY 84% FINDING IS WINDOW-DEPENDENT AND THE RECENT WINDOW REVERSES IT: **over the last month the crack expansion is PRODUCT
 - `2026-08-15` [war-board.md:L2252](../war/war-board.md) — 2026-08-15 ~1:37am PDT — ⛔⛔ THE DIRECTION HAS BEEN THE OPPOSITE FOR MOST OF THIS PERIOD: **the administration EASED oil sanctions on Iran AND Russia**
 - `2026-08-15` [war-board.md:L2321](../war/war-board.md) — 2026-08-15 ~1:41am PDT — ⭐⭐⭐ THE PRIMARY SOURCE, DATED YESTERDAY, AND IT SHOWS THE OSCILLATION **INSIDE THE ADMINISTRATION IN A 24-HOUR WINDOW**: Vanc
 - `2026-08-15` [war-board.md:L2383](../war/war-board.md) — 2026-08-15 ~1:52am PDT — ⭐⭐⭐ BOTH REGISTERED TESTS RESOLVE IN ONE NEWS CYCLE, AND THE ANSWER IS A SELF-CONTRADICTION: **Vance names cheap oil "goal No
@@ -111,20 +111,23 @@
 - `2026-08-17` [europe-energy-crunch.md:L20](../europe-energy-crunch.md) — [2026-08-17] Named risks: **demand/price surge if Germany chases the target · fiscal pressure if the
 - `2026-08-17` [europe-energy-crunch.md:L24](../europe-energy-crunch.md) — [2026-08-17] **ECB elasticity: a 10% rise in wholesale gas adds 0.6pp to Eurozone HEADLINE inflation.**
 - `2026-08-17` [europe-energy-crunch.md:L25](../europe-energy-crunch.md) — [2026-08-17] **Rhine at the Kaub pinch point: 10cm navigable vs 400cm in February and 200cm a year ago.
-- `2026-08-17` [oil-value-chain.md:L1084](../oil-value-chain.md) — 2026-08-17 ~8:11am PDT — 🚩 STATE READ ON JAKE'S Q: **"still room?"** — **THE MECHANISM IS INTACT, THE EASY MONEY IS GONE, AND BOTH INSTRUMENTS THAT WO
-- `2026-08-17` [oil-value-chain.md:L1135](../oil-value-chain.md) — 2026-08-17 ~8:16am PDT — ⛔⛔⛔ **I MADE THE WINDOW ERROR THIS NOTE HAS ALREADY LOGGED TWICE, AND IT REVERSED MY ANSWER.** Measured from 8/13 — the date 
-- `2026-08-17` [oil-value-chain.md:L1189](../oil-value-chain.md) — 2026-08-17 ~8:25am PDT — ✅ **THE DEFERRED STRIP, FETCHED AT LAST** (the ⬜ registered since 8/15 and never closed) — and it converts Jake's "confident 
+- `2026-08-17` [oil-value-chain.md:L1085](../oil-value-chain.md) — 2026-08-17 ~8:11am PDT — 🚩 STATE READ ON JAKE'S Q: **"still room?"** — **THE MECHANISM IS INTACT, THE EASY MONEY IS GONE, AND BOTH INSTRUMENTS THAT WO
+- `2026-08-17` [oil-value-chain.md:L1136](../oil-value-chain.md) — 2026-08-17 ~8:16am PDT — ⛔⛔⛔ **I MADE THE WINDOW ERROR THIS NOTE HAS ALREADY LOGGED TWICE, AND IT REVERSED MY ANSWER.** Measured from 8/13 — the date 
+- `2026-08-17` [oil-value-chain.md:L1190](../oil-value-chain.md) — 2026-08-17 ~8:25am PDT — ✅ **THE DEFERRED STRIP, FETCHED AT LAST** (the ⬜ registered since 8/15 and never closed) — and it converts Jake's "confident 
 - `2026-08-17` [war-board.md:L2833](../war/war-board.md) — DATA (MEASURED — Windward, data as of 2026-08-17)
-- `2026-08-18` [oil-value-chain.md:L1238](../oil-value-chain.md) — 2026-08-18 ~9:00am PDT — ⛔⛔ "RECORD $102 / ABSOLUTELY UNPRECEDENTED" IS FALSE AND THIS NOTE ALREADY KILLED IT ON 8/15. **THE LEVEL IS +0.25 ON A NUMBE
-- `2026-08-18` [oil-value-chain.md:L1288](../oil-value-chain.md) — 2026-08-18 ~9:30am PDT — 📌 PBF INSIDER SALES: JAKE PULLED THE FORM 4s AND HIS READ SURVIVES ARITHMETIC CHECK. ⇒ **THREE OF FOUR ARE COMP MONETIZATION,
-- `2026-08-18` [oil-value-chain.md:L1353](../oil-value-chain.md) — 2026-08-18 ~9:50am PDT — ✅⛔ **THE NIMBLEY ITEM IS CLOSED AND IT CLOSES BENIGN. JAKE PULLED TABLE II: BOTH SALES WERE EXERCISE-AND-SELL OFF 2017/2018/2
-- `2026-08-18` [oil-value-chain.md:L1402](../oil-value-chain.md) — 2026-08-18 ~10:10am PDT — ✅🚩🚩🚩 **THE NAMED BREAK CONDITION IS FETCHED AT LAST (open since 8/13) AND IT SPLITS: LEVEL CONFIRMS HARD — 107,149 Mbbl is B
-- `2026-08-18` [oil-value-chain.md:L1471](../oil-value-chain.md) — 2026-08-18 ~11:05am PDT — ⭐⭐⭐⛔ **THE BRIDGE SERIES LANDS AND IT PARTLY REVERSES MY OWN DISCONFIRMER FROM THIS MORNING: US DISTILLATE EXPORTS ARE 1,935
-- `2026-08-18` [oil-value-chain.md:L1527](../oil-value-chain.md) — 2026-08-18 ~11:30am PDT — ⭐⭐⭐⭐ **RETAIL DIESEL LANDS (the flag open since 8/18 ~9:00am) AND IT PRODUCES THE SHARPEST NUMBER OF THE WEEK: THE REFINER I
-- `2026-08-18` [oil-value-chain.md:L1581](../oil-value-chain.md) — 2026-08-18 ~1:20pm PDT — ⚠️⚠️ **A THIRD-PARTY VERIFICATION BRIEF GRADES "DIESEL CRACK AT AN ALL-TIME HIGH ~$102.20" AS *CONFIRMED* — WHICH DIRECTLY CO
+- `2026-08-18` [oil-value-chain.md:L1239](../oil-value-chain.md) — 2026-08-18 ~9:00am PDT — ⛔⛔ "RECORD $102 / ABSOLUTELY UNPRECEDENTED" IS FALSE AND THIS NOTE ALREADY KILLED IT ON 8/15. **THE LEVEL IS +0.25 ON A NUMBE
+- `2026-08-18` [oil-value-chain.md:L1289](../oil-value-chain.md) — 2026-08-18 ~9:30am PDT — 📌 PBF INSIDER SALES: JAKE PULLED THE FORM 4s AND HIS READ SURVIVES ARITHMETIC CHECK. ⇒ **THREE OF FOUR ARE COMP MONETIZATION,
+- `2026-08-18` [oil-value-chain.md:L1354](../oil-value-chain.md) — 2026-08-18 ~9:50am PDT — ✅⛔ **THE NIMBLEY ITEM IS CLOSED AND IT CLOSES BENIGN. JAKE PULLED TABLE II: BOTH SALES WERE EXERCISE-AND-SELL OFF 2017/2018/2
+- `2026-08-18` [oil-value-chain.md:L1403](../oil-value-chain.md) — 2026-08-18 ~10:10am PDT — ✅🚩🚩🚩 **THE NAMED BREAK CONDITION IS FETCHED AT LAST (open since 8/13) AND IT SPLITS: LEVEL CONFIRMS HARD — 107,149 Mbbl is B
+- `2026-08-18` [oil-value-chain.md:L1472](../oil-value-chain.md) — 2026-08-18 ~11:05am PDT — ⭐⭐⭐⛔ **THE BRIDGE SERIES LANDS AND IT PARTLY REVERSES MY OWN DISCONFIRMER FROM THIS MORNING: US DISTILLATE EXPORTS ARE 1,935
+- `2026-08-18` [oil-value-chain.md:L1528](../oil-value-chain.md) — 2026-08-18 ~11:30am PDT — ⭐⭐⭐⭐ **RETAIL DIESEL LANDS (the flag open since 8/18 ~9:00am) AND IT PRODUCES THE SHARPEST NUMBER OF THE WEEK: THE REFINER I
+- `2026-08-18` [oil-value-chain.md:L1582](../oil-value-chain.md) — 2026-08-18 ~1:20pm PDT — ⚠️⚠️ **A THIRD-PARTY VERIFICATION BRIEF GRADES "DIESEL CRACK AT AN ALL-TIME HIGH ~$102.20" AS *CONFIRMED* — WHICH DIRECTLY CO
 - `2026-08-18` [war-board.md:L2698](../war/war-board.md) — 2026-08-18 ~10:30am PDT — 📌 THE MoU 60-DAY CLOCK EXPIRED YESTERDAY WITH NO DEAL AND NO EXTENSION — a dated catalyst, FIRED. ⛔ **BUT "BRENT SURGES TO $
 - `2026-08-18` [war-board.md:L2819](../war/war-board.md) — 2026-08-18 ~2:00pm PDT — ✅✅✅ **THE WINDWARD LIVE DASHBOARD IS FETCHABLE — RETIRING A STANDING VAULT LIMITATION THAT HAD US RUNNING ON MARCH-VINTAGE DA
 - `2026-08-18` [war-board.md:L2875](../war/war-board.md) — 2026-08-18 ~3:00pm PDT — ⭐⭐⭐ **THE FULL WINDWARD DAILY (90-page PDF) UPDATES THE GULF FLEET SERIES LAST MEASURED 31 JULY: 791 → 971 VESSELS (+22.8%) I
-- `2026-08-19` [oil-value-chain.md:L1611](../oil-value-chain.md) — 2026-08-19 ~8:05am PDT — ⛔⛔ **THE RUSSIAN SHORTAGE IS A *GASOLINE* SHORTAGE, AND THAT CUTS *AGAINST* THE CRACK POSITION TWICE: it is the one product t
-- `2026-08-19` [oil-value-chain.md:L1664](../oil-value-chain.md) — 2026-08-19 ~8:20am PDT — ★★★★★★ **BOTH DECISIVE SERIES RESOLVED IN ONE PRINT AND BOTH LAND ON THE POSITION'S SIDE: refinery utilisation 97.2% (no supp
+- `2026-08-19` [oil-value-chain.md:L1612](../oil-value-chain.md) — 2026-08-19 ~8:05am PDT — ⛔⛔ **THE RUSSIAN SHORTAGE IS A *GASOLINE* SHORTAGE, AND THAT CUTS *AGAINST* THE CRACK POSITION TWICE: it is the one product t
+- `2026-08-19` [oil-value-chain.md:L1665](../oil-value-chain.md) — 2026-08-19 ~8:20am PDT — ★★★★★★ **BOTH DECISIVE SERIES RESOLVED IN ONE PRINT AND BOTH LAND ON THE POSITION'S SIDE: refinery utilisation 97.2% (no supp
 - `2026-08-19` [war-board.md:L2757](../war/war-board.md) — 2026-08-19 (UAE time; ~2026-08-18 PDT) — ★★★★★★ **THE UAE HALTS *ALL* TRADE, COMMERCIAL EXCHANGE AND FINANCIAL TRANSACTIONS WITH IRAN. ⛔ THIS INVERTS 
+- `2026-08-23` [oil-value-chain.md:L1745](../oil-value-chain.md) — 2026-08-23 ~7:05am PDT — ⛔⛔⛔ **JAKE'S Q: "IF BRENT TANKS, CRACKS JUMP RIGHT? DENOMINATOR DOWN?" — THERE IS NO DENOMINATOR. THE CRACK IS A SUBTRACTION.
+- `2026-08-23` [oil-value-chain.md:L1780](../oil-value-chain.md) — ★★★★★★ THE BASE RATE, WITH ITS n AND ITS WINDOW (2026-08-23 pull; 486 matched sessions, 2024-08-23 → 2026-08-21; roll-day artefacts dropped at |ΔWTI| 
+- `2026-08-23` [war-board.md:L2941](../war/war-board.md) — 2026-08-23 ~7:20am PDT — ✅✅✅ **THE HORMUZ TRAFFIC FLAG (`:L2897`, open since 8/19) IS CLOSED: EVERY VESSEL-COUNT SERIES RECONCILES ONCE THE ~140/DAY B
