@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **409 dated entries across 4 notes · 2026-05-22 → 2026-08-22 · refreshed 2026-08-22 19:57 PDT**
+> **410 dated entries across 4 notes · 2026-05-22 → 2026-08-22 · refreshed 2026-08-22 20:07 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -430,4 +430,5 @@
 - `2026-08-21` [ai-financing-fragility.md:L6838](../ai-financing-fragility.md) — 2026-08-21 ~8:45am PDT — ★★★★★★ **JAKE'S 2030 TIPPING-POINT READ IS RIGHT BY A BETTER ROUTE THAN HE STATED, AND THIS VAULT ALREADY HAS THE NATURAL EXP
 - `2026-08-22` [ai-capex-cycle.md:L3379](../ai-capex-cycle.md) — 2026-08-22 ~9:00am PDT — **ON/SYNAPTICS S-4: THE HEADLINE IS 12% DILUTION, BUT THE NUMBER THE FILING ACTUALLY DISCLOSES IS THAT *ON'S OWN STOCK FELL 3
 - `2026-08-22` [ai-financing-fragility.md:L6907](../ai-financing-fragility.md) — 2026-08-22 ~9:00am PDT — ⛔⛔⛔ **THE "$220B vs $12.5B, 17.6×" HEADLINE IS A YEAR-OVER-YEAR COMPARISON, AND THE VAULT'S OWN SEQUENTIAL TRACK SAYS THE ISS
+- `2026-08-22` [ai-financing-fragility.md:L6971](../ai-financing-fragility.md) — 2026-08-22 ~1:35pm PDT — ⛔ **POOLSIDE IS A MAP GAP, AND THE REASON MATTERS: NVDA ANNOUNCED A $1B INVESTMENT IN IT AT A $12B VALUATION IN *OCTOBER 2025
 - `2026-08-22` [compression-thesis.md:L2382](../compression-thesis.md) — 2026-08-22 ~1:15pm PDT — ⛔ **NO, IT DID NOT COME OUT OF THE BLUE — THE VAULT NAMED THE *STRATEGY* IN JULY AND HELD THE VEHICLES. ★★★ WHAT IS ACTUALLY 

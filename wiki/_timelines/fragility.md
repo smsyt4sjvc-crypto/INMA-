@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **216 dated entries across 6 notes · 2026-05-22 → 2026-08-22 · refreshed 2026-08-22 19:57 PDT**
+> **217 dated entries across 6 notes · 2026-05-22 → 2026-08-22 · refreshed 2026-08-22 20:07 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -233,6 +233,7 @@
 - `2026-08-21` [financing-fragility-gauge.md:L151](../financing-fragility-gauge.md) — ⭐⭐⭐⭐⭐⭐ 2026-08-21 ~9:10am PDT — **THE 9× GAP IS NOT A CREDIT SPREAD. IT IS THE PRICE OF NOT KNOWING — AND IT MAKES THE MATURITY CURVE A DIRECT READING
 - `2026-08-21` [hyperscaler-credit.md:L470](../hyperscaler-credit.md) — ⭐⭐ WHAT THE PANEL SAYS TODAY (2026-08-21 clearing)
 - `2026-08-22` [ai-financing-fragility.md:L6907](../ai-financing-fragility.md) — 2026-08-22 ~9:00am PDT — ⛔⛔⛔ **THE "$220B vs $12.5B, 17.6×" HEADLINE IS A YEAR-OVER-YEAR COMPARISON, AND THE VAULT'S OWN SEQUENTIAL TRACK SAYS THE ISS
+- `2026-08-22` [ai-financing-fragility.md:L6971](../ai-financing-fragility.md) — 2026-08-22 ~1:35pm PDT — ⛔ **POOLSIDE IS A MAP GAP, AND THE REASON MATTERS: NVDA ANNOUNCED A $1B INVESTMENT IN IT AT A $12B VALUATION IN *OCTOBER 2025
 - `2026-08-22` [financing-fragility-gauge.md:L215](../financing-fragility-gauge.md) — 2026-08-22 — ⭐⭐⭐⭐⭐ **THE GAUGE NOW HAS A PUBLIC-DATA LADDER UNDERNEATH IT, AND ITS FIRST READING CONTRADICTS THE HEADLINE: ONE STAGE LIT OF SEVEN. "CR
 - `2026-08-22` [financing-fragility-gauge.md:L276](../financing-fragility-gauge.md) — 2026-08-22 (later) — ⭐⭐⭐⭐ **BOTH SOLVABLE GAPS CLOSED: 24 SERIES NOW, DEALER REPO FINANCING AND THE FULL H.8 LARGE-vs-SMALL BANK SPLIT. ⛔ AND ADDING S
 - `2026-08-22` [hyperscaler-credit.md:L341](../hyperscaler-credit.md) — 2026-08-22 — ⭐⭐⭐⭐⭐⭐ **AVGO 121.19 IS THE ONLY NAME IN THIS COMPLEX DECISIVELY *THROUGH* ITS HIGH — ~20% ABOVE THE LATE-JULY PEAK — AND IT HAS LEFT THE
