@@ -54,3 +54,28 @@ Related: [[compression-thesis]], [[ai-financing-fragility]], [[ai-capex-cycle]],
 - WSJ, "Top American AI Execs Sound Alarm on Chinese Models," 2026-07-20 (`raw/2026-07-20-wsj-us-ai-execs-alarm-chinese-models.md`).
 - Web search 2026-07-20: Wikipedia (Reflection AI); Tech Startups (2026-03-26, $2.5B/$25B); AI Business ($2B/$8B round);
   TuringPost (Jun 2026, "yet to ship"); Seeking Alpha; Roic News.
+
+## 2026-08-22 ~1:20pm PDT — ⛔ **THE FIRST COMPARABLE TRANSACTION ARRIVES AND IT MARKS AGAINST THE $25B: A *SHIPPING* PEER CLEARED AT $12B PRE-MONEY AND STILL HAD TO SELL ITSELF.**
+Source: WSJ 2026-08-22, NVDA/Poolside → `raw/2026-08-22-nvda-poolside/`. Full entry:
+[[compression-thesis]] (2026-08-22).
+
+- **POOLSIDE: $12B pre-money · NVDA invests $1B · NVDA pays a further $6B to LICENSE the technology
+  and HIRE >100 engineers · ships LAGUNA S, "one of the most popular open-weight models in the West."**
+- **THIS NOTE HOLDS: Reflection at ~$25B in Mar-2026 talks, with NO RELEASED MODEL.**
+- ⇒ **★★★★ REFLECTION IS MARKED AT ~2× A PEER THAT ACTUALLY SHIPS.** ⇒ **And the peer that ships
+  COULD NOT FUND ITSELF: Poolside's own letter says it lost a 40,000-GB300 cluster after failing to
+  raise $2B in a six-week window, and would run out of compute "as soon as next year."**
+- ⇒ **⛔ THAT IS THE DISCONFIRMER THIS NOTE'S STANDING CALL HAS NEVER FACED.** The call — *"$25B on
+  founders + a geopolitical slot, no product… the valuation is the bet, not the business"* — now has
+  a DATED COMPARABLE rather than only an argument. **A shipping competitor clearing at half the price,
+  under duress, is the market pricing the "US open-weight champion" slot at less than this note's
+  subject carries.** *(Analysis.)*
+- **⚠️ THE HONEST COUNTER: an acquisition price under duress is NOT a clean valuation mark — a forced
+  seller clears below fair value by construction, and NVDA bought talent and a licence, not the
+  company.** ⇒ **The $12B is a floor observation, not a ceiling on Reflection.**
+- **⚠️ AND THE STRUCTURAL DIFFERENCE THAT MAY DEFEND THE PRICE: Reflection carries a $150M/month
+  SpaceX GB300 commitment through 2029 (`:L34`). It has SECURED COMPUTE. Poolside's fatal flaw was
+  precisely that it had not.** ⇒ **★ ON THIS EVIDENCE THE SCARCE ASSET IN OPEN-WEIGHT AI IS NOT THE
+  MODEL — IT IS CONTRACTED COMPUTE, and Reflection bought that and Poolside did not.**
+- 🚩 **REGISTERED: Reflection's next round. It is now the direct test.** ⬜ **And: did the Mar-2026
+  $2.5B/$25B round ever CLOSE? This note carries it as "in talks."**
