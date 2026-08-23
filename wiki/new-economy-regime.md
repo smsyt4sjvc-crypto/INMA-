@@ -4256,3 +4256,74 @@ Weekly Claims (2026-08-20), BLS Employment Situation (July), BEA GDP advance Q2,
 3. 🚩 **ZEROHEDGE DETAIL-vs-HEADLINE, second instance logged.** **Headline aggregates have been reliable;
    the state/detail layer has now been wrong twice. Treat ZH as a HEADLINE relay, never as a detail source.**
 **Links:** [[transmission-chain]] · [[oil-value-chain]] · [[demand-destruction]] · [[market-fragility]]
+
+---
+
+## 2026-08-22 ~1:50pm PDT — ★★★★★★ **THE VAULT'S #1 REGISTERED ITEM IS CLOSED, AND THE ANSWER IS THE WRONG SHAPE: US PRODUCTIVITY TURNED UP IN Q1-2023 — *BEFORE* THE AI CAPEX — PEAKED AT +3.48% IN Q4-2023, AND HAS DECELERATED EVER SINCE WHILE CAPEX ACCELERATED.**
+Source: **FRED OPHNFB (BLS nonfarm business output per hour), pulled 2026-08-22** — the series the item
+said *"the vault has never pulled."* Prompted by the **BIS Bulletin no 130 online annex** (Aldasoro,
+Gambacorta, Kharroubi, Rottner) → `raw/2026-08-22-bis-bulletin-130/`.
+**✅ CLOSES the registered item at `:L4192`.**
+
+#### DATA (MEASURED — BLS via FRED, YoY % change in output per hour, nonfarm business)
+| period | avg YoY | n |
+|---|---|---|
+| **pre-pandemic 2016-2019** | **+1.41%** | 16 |
+| pandemic distortion 2020-2022 | +1.99% | 12 |
+| **the 2023 surge** | **+2.13%** | 4 |
+| **AI-capex era 2024 → 2026Q2** | **+2.58%** | 10 |
+- **Quarterly path: 2022 was NEGATIVE (−1.1 to −2.0%) · Q1-2023 +0.11% (the turn) · Q4-2023 +3.48%
+  (THE PEAK) · then 2024 +3.31 → +3.22 → +2.88 → +2.25 · 2025 +1.97 → +2.08 → +2.46 → +2.49 ·
+  2026Q1 +2.93 · 2026Q2 +2.24.**
+
+#### ⛔⛔ THE ANSWER, AND IT IS NOT THE ONE THE QUESTION EXPECTED
+- **The item asked: *"WHEN does measured productivity growth TURN UP against the AI capex that started
+  in 2023-24?"*** ⇒ **⛔ IT ALREADY HAD. THE TURN IS Q1-2023, AND THE PEAK IS Q4-2023 — i.e. BEFORE
+  the capex it was supposed to be evidence of was deployed.**
+- ⇒ **★★★★★ AND THE SHAPE IS BACKWARDS: PRODUCTIVITY GROWTH *DECELERATED* THROUGH 2024 (3.48 → 2.25)
+  EXACTLY AS AI CAPEX WAS ACCELERATING.** ⇒ **If the buildout were driving the productivity gain, the
+  two series would rise together. They did the opposite.** ⇒ **⛔ THE 2023 SURGE CANNOT BE AN
+  AI-CAPEX EFFECT. The likeliest driver is post-COVID labour-market re-matching, which is the same
+  window.** *(Analysis. This is the entry's finding, and it cuts against the vault's own framing.)*
+- **✅ BUT THE LEVEL IS GENUINELY ELEVATED AND THAT PART SURVIVES: +2.58% in the AI era vs a +1.41%
+  pre-pandemic baseline = ⭐ +1.17pp ABOVE TREND, sustained over ten quarters.** ⇒ **Something real
+  is happening. It just did not START when the capex did.**
+
+#### ⛔⛔⛔ THE INSTRUMENT TRAP — AND IT IS THE MOST IMPORTANT LINE IN THIS ENTRY
+- **THE BIS MEDIAN ESTIMATE IS +0.48pp ON *TOTAL FACTOR PRODUCTIVITY*. THE VAULT REGISTERED *OUTPUT
+  PER HOUR*. THOSE ARE NOT THE SAME INSTRUMENT AND THE DIFFERENCE IS EXACTLY THE THING UNDER STUDY.**
+- **Output per hour = TFP + CAPITAL DEEPENING.** ⇒ **★★★ AN AI CAPEX BOOM RAISES OUTPUT PER HOUR
+  MECHANICALLY, THROUGH THE CAPITAL STOCK, EVEN IF AI ITSELF CONTRIBUTES ZERO TFP.** ⇒ **⛔ SO
+  MEASURING THE BUILDOUT'S PAYOFF WITH LABOUR PRODUCTIVITY IS CIRCULAR: you spend more on capital,
+  the capital-per-worker ratio rises, and output per hour rises BY CONSTRUCTION.**
+  ⇒ **⚠️ THE VAULT'S OWN REGISTERED ITEM NAMED THE WRONG SERIES, AND I WROTE IT.** *(Error class 4,
+  instrument mismatch, in a registered test — the most expensive place to make it.)*
+- ⇒ **🚩🚩🚩 SUPERSEDING FETCH: BLS/BEA TOTAL FACTOR PRODUCTIVITY (private nonfarm business, MFP),
+  which is the residual after capital is accounted for.** **THAT is the number that decides
+  inflationary-vs-disinflationary, and the +1.17pp above trend must be decomposed before it can be
+  read as an AI effect at all.** ⬜ **Not yet pulled — and note it is ANNUAL, not quarterly, so the
+  answer is inherently laggier than the question wanted.**
+
+#### ✅ WHAT THE BIS ANNEX ADDS THAT THE VAULT DID NOT HAVE
+- **★★ INDEPENDENT CORROBORATION OF A NUMBER THE VAULT HELD FROM A DIFFERENT ORIGIN: BIS puts private
+  credit to AI-related firms at NEAR ZERO IN 2016 → $200 BILLION IN 2025.** ⇒ **`ai-financing-fragility`
+  `:L191` has held *"AI-related loans went ~$0 → $200B+ in a few years"* since 2026-07-03, sourced to
+  MORGAN STANLEY.** ⇒ **✅ A CENTRAL BANK AND A SELL-SIDE DESK, INDEPENDENTLY, SAME NUMBER. That
+  upgrades the figure's grade materially — and BIS adds the 2016 start date and the definition
+  (PitchBook verticals: Artificial Intelligence, Big Data, Cloud Tech).**
+- **AI firms' FREE CASH FLOW HAS DECLINED SIGNIFICANTLY as capex rose, Q4-2021 → Q4-2025** (298 listed
+  firms, Capital IQ). ⇒ **✅ Straight confirmation of the vault's FCF-negative thesis, from a central
+  bank, on a defined universe rather than the MAG7.**
+- **⭐ THE TERMS-OF-TRADE CHANNEL, WHICH IS NEW TO THIS VAULT: higher AI digital-infrastructure scores
+  are associated with WEAKER TERMS OF TRADE — import-intensive digital investment.** ⇒ **A country
+  that builds AI infrastructure IMPORTS the equipment, worsening its trade terms.** ⇒ **★ That is an
+  AI-buildout channel into the CURRENCY that the vault has never modelled.** 🚩 **REGISTERED.**
+- **Higher AI preparedness → LOWER consumption-to-GDP, "consistent with an INVESTMENT-LED IMPULSE."**
+  ⇒ **✅ This is [[consumption-vs-investment-crux]]'s central question answered at the country level:
+  the AI build is CROWDING OUT consumption, not adding to it.**
+- **Beveridge curve: LOW AI preparedness → FLATTER curve / weaker matching; HIGH → STEEPER.**
+  ⬜ **Filed as reported; the vault has no view and the causal direction is not established.**
+- **⚠️ AND THE BIS'S OWN HONESTY, WHICH SHOULD TEMPER ALL OF IT: *"Estimates of the productivity
+  effects of AI vary considerably, and both their MAGNITUDE and PERSISTENCE remain uncertain."***
+  **The +0.48 is a MEDIAN ACROSS STUDIES spanning Acemoglu (low) to Briggs/Kodnani (high) — it is a
+  survey of opinion, not a measurement.**
