@@ -127,7 +127,15 @@ def decode(path):
                 else:
                     codes = [int(h[k:k+2], 16) for k in range(0, len(h), 2)]
             else:
-                s = re.sub(rb'\\(\d{1,3})', lambda m: bytes([int(m.group(1), 8) & 0xFF]), val)
+                # ⚠️ OCTAL ESCAPES ARE [0-7] ONLY. Using \d here matches \8 and \9,
+                # which are NOT octal and blow up int(x, 8) -- hit on a Safari
+                # capture 2026-08-22. Per the PDF spec a backslash before any
+                # other character is dropped and the character stands.
+                s = re.sub(rb'\\([0-7]{1,3})',
+                           lambda m: bytes([int(m.group(1), 8) & 0xFF]), val)
+                for esc, lit in ((rb'\\n', b'\n'), (rb'\\r', b'\r'), (rb'\\t', b'\t'),
+                                 (rb'\\b', b'\b'), (rb'\\f', b'\f')):
+                    s = re.sub(esc, lit, s)
                 s = re.sub(rb'\\(.)', rb'\1', s)
                 codes = list(s)
             pieces.append(''.join(cmap.get(c, chr(c) if 32 <= c < 127 else '') for c in codes))
