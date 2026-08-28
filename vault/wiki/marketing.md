@@ -15,6 +15,15 @@ Source: [[2026-07-10-git-history-ingest]]
   the postage cutout.
 
 ### Mailer result — first drop (measured)
+> 🔄 CORRECTED [2026-07-22]: the "~0 scans / flopped" read below was WRONG — I
+> was looking at the page-path report (/welcome) instead of source/medium.
+> GA4 Traffic-acquisition (Jun 15–Jul 20) shows **welcome / mailer = 21
+> sessions** (of 155 total). That's ~8% of the 250 pieces — well above the
+> 1–2% direct-mail norm. **The mailer WORKED.** (Tagged traffic landed on the
+> homepage, which is why /welcome page-path looked empty.) Also that window:
+> direct/none 68 · welcome/mailer 21 · m.facebook.com/referral 20 ·
+> google/organic 16. Facebook pulled 20 with little posting = cheap upside;
+> direct 68 = word-of-mouth/brand is the biggest driver.
 - [2026-07-20] **250 pieces** sent to a **highly targeted list** (Jake's count).
 - [2026-07-20] GA4 (page path, Jun 15–Jul 20): **`/welcome` did not register** —
   below `/game.html` (3) and `/index.html` (2), i.e. ~0–2 views. So ~0 trackable
