@@ -1,4 +1,4 @@
-# mega_cap_pe_before_rips_cell.py — WHERE WERE THE MEGA-CAPS' P/Es BEFORE THEIR BEST RUNS, AND WHERE ARE THEY NOW?
+# mega_cap_pe_before_rips_cell.py — v3 (ran clean in Jake's Colab 2026-09-06 11:38pm) — WHERE WERE THE MEGA-CAPS' P/Es BEFORE THEIR BEST RUNS, AND WHERE ARE THEY NOW?
 # Jake's ask 2026-09-06 (10:24pm): "I wanted individual stocks. What's Google's, MSFT, Nvidia, Tesla etc historical
 # best P/E before their best quarters? Where do these stocks tend to be before they rip and where are they now."
 #
@@ -81,7 +81,8 @@ def edgar_eps(n, ciks):
     for x in ents:
         if 'start' not in x: continue
         s, e = pd.Timestamp(x['start']), pd.Timestamp(x['end']); dur = (e - s).days
-        rec = dict(start=s, end=e, filed=pd.Timestamp(x['filed']), val=float(x['val']) / split_factor_after(n, e))   # ← on today's share basis
+        f = pd.Timestamp(x['filed'])
+        rec = dict(start=s, end=e, filed=f, val=float(x['val']) / split_factor_after(n, f))   # keyed on FILING date (v3 fix)
         if 60 <= dur <= 100:
             if e not in q or rec['filed'] < q[e]['filed']: q[e] = rec
         elif 350 <= dur <= 380:
@@ -92,9 +93,17 @@ def edgar_eps(n, ciks):
         if len(inside) == 3:
             q[fe] = dict(start=max(v['end'] for v in inside), end=fe, filed=f['filed'], val=f['val'] - sum(v['val'] for v in inside), derived=True)
     df = pd.DataFrame(q).T.sort_values('end').reset_index(drop=True)
-    df['derived'] = df.get('derived', False).fillna(False) if 'derived' in df else False
-    med8 = df['val'].rolling(8).median().shift(1)
-    df['lumpy'] = ((df['val'] / med8.abs().replace(0, np.nan)).abs() > 3.0) | ((df['val'] / med8.abs().replace(0, np.nan)).abs() < 0.3)
+    df['val'] = df['val'].astype(float)
+    for c in ('start', 'end', 'filed'): df[c] = pd.to_datetime(df[c])
+    df = df.sort_values('end').reset_index(drop=True)
+    df['derived'] = df['derived'].eq(True) if 'derived' in df else False
+    vals = df['val'].values; lumpy = []                       # v3: two-sided test — a monotone ramp is not lumpy
+    for i in range(len(vals)):
+        nb = np.abs(np.concatenate([vals[max(0, i-4):i], vals[i+1:i+5]]))
+        med = np.median(nb) if len(nb) >= 3 else np.nan
+        r = abs(vals[i]) / med if (med and med >= 0.10) else np.nan
+        lumpy.append(bool(r > 3.0 or r < 0.3) if not np.isnan(r) else False)
+    df['lumpy'] = lumpy
     return df
 
 eps = {n: edgar_eps(n, CIK[n]) for n in NAMES if n in CIK}
@@ -109,7 +118,7 @@ mpx = px.resample('ME').last()
 def build(n):
     e = eps[n].copy()
     e['adj'] = e['val']   # already on today's share basis (adjusted at ingest)
-    span_ok = (e['end'] - e['end'].shift(3)).dt.days.between(340, 400)   # the 4 quarters must span ~1 year
+    span_ok = (e['end'] - e['end'].shift(3)).dt.days.between(250, 300)   # 4 consecutive quarter-ENDS span ~273 days (v3 fix)
     e['ttm'] = e['adj'].rolling(4).sum().where(span_ok)
     e['ttm_smooth'] = (e['adj'].rolling(4).median() * 4).where(span_ok)   # neutralises ONE lumpy quarter
     e['lumpy_ttm'] = e['lumpy'].rolling(4).max().fillna(0).astype(bool)   # any lumpy quarter inside the TTM
@@ -123,6 +132,8 @@ def build(n):
         sm = last['ttm_smooth']
         rows.append(dict(m=m, px=float(p), ttm=float(ttm), pe=(float(p)/ttm if ttm > 0 else np.nan),
                          pe_smooth=(float(p)/sm if sm > 0 else np.nan), lumpy=bool(last['lumpy_ttm']), q=avail.index[-1]))
+    if not rows:
+        print(f'⚠️ {n}: no usable months'); return None
     d = pd.DataFrame(rows).set_index('m')
     d['fwd12'] = d['px'].shift(-12) / d['px'] - 1
     d['pe12'] = d['pe'].shift(-12)
@@ -145,7 +156,9 @@ print(f'{"NAME":6}{"months":>7}{"TOP-DECILE start P/E":>26}{"BOTTOM-DECILE start
 summary = {}
 for n in NAMES:
     if n not in eps: continue
-    d = build(n); summary[n] = d
+    d = build(n)
+    if d is None: continue
+    summary[n] = d
     v = d.dropna(subset=['fwd12'])
     top = v[v['fwd12'] >= v['fwd12'].quantile(.9)]; bot = v[v['fwd12'] <= v['fwd12'].quantile(.1)]
     def iqr(s):
@@ -177,7 +190,7 @@ print('=' * 118)
 print(f'{"NAME":6}{"price":>9}{"TTM EPS":>9}{"P/E now":>9}{"pctile":>8}{"median P/E":>11}{"TOP-DEC median":>15}{"EPS trend 4Q/prior4Q":>22}   last EPS quarter filed')
 for n, d in summary.items():
     last = d.iloc[-1]; e = eps[n]
-    ttm_now = last['ttm']; prior = e['adj'].rolling(4).sum().iloc[-5] if len(e) >= 8 else np.nan
+    ttm_now = last['ttm']; prior = e['val'].rolling(4).sum().iloc[-5] if len(e) >= 8 else np.nan
     v = d.dropna(subset=['fwd12']); top = v[v['fwd12'] >= v['fwd12'].quantile(.9)]
     trend = (ttm_now / prior - 1) if (prior and prior > 0) else np.nan
     lum = ' ⚠LUMPY' if last['lumpy'] else ''
