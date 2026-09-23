@@ -43,3 +43,17 @@ date,ticker,col,weight,driver,event,pointer
 2026-09-23,APO,bull,0.5,SOXX,"Anthropic/Stream <=1GW + possible Google guarantee (REPORTED, talks; vendor conflict)",chat-log/2026-09-23.md:30
 2026-09-23,GOOGL,flat,0.5,SOXX,"Anthropic/Stream <=1GW + possible Google guarantee (REPORTED, talks; vendor conflict)",chat-log/2026-09-23.md:30
 2026-09-23,AVGO,bear,0.5,SOXX,SASAC surveys Broadcom switches in state DCs (FT; Reuters unverified),chat-log/2026-09-23.md:30
+2026-09-23,ORCL,bear,1,TLT,ICE CDS 12/12 wider on the rate-shock day (stage 1->2),wiki/hyperscaler-credit.md:616
+2026-09-23,CRWV,bear,1,TLT,ICE CDS 12/12 wider on the rate-shock day (stage 1->2),wiki/hyperscaler-credit.md:616
+2026-09-23,AVGO,bear,1,SOXX,AVGO CDS +6.8 on SASAC day (report reaches the measured rung),wiki/hyperscaler-credit.md:616
+2026-09-23,RTX,bull,0.5,BNO,Rezaei: Gulf airports 'paralyzed' if they enforce US aviation sanctions (threat),wiki/war/war-board.md:5293
+2026-09-23,LMT,bull,0.5,BNO,Rezaei: Gulf airports 'paralyzed' if they enforce US aviation sanctions (threat),wiki/war/war-board.md:5293
+2026-09-23,NOC,bull,0.5,BNO,Rezaei: Gulf airports 'paralyzed' if they enforce US aviation sanctions (threat),wiki/war/war-board.md:5293
+2026-09-23,UAL,bear,0.5,BNO,Rezaei: Gulf airports 'paralyzed' if they enforce US aviation sanctions (threat),wiki/war/war-board.md:5293
+2026-09-23,BA,bear,0.5,BNO,Rezaei: Gulf airports 'paralyzed' if they enforce US aviation sanctions (threat),wiki/war/war-board.md:5293
+2026-09-23,FRO,bull,0.5,BWET,Rezaei 4-5 day Hormuz ultimatum (~9/27-28),wiki/war/war-board.md:5293
+2026-09-23,DHT,bull,0.5,BWET,Rezaei 4-5 day Hormuz ultimatum (~9/27-28),wiki/war/war-board.md:5293
+2026-09-23,INSW,bull,0.5,BWET,Rezaei 4-5 day Hormuz ultimatum (~9/27-28),wiki/war/war-board.md:5293
+2026-09-23,AAPL,bull,0.5,SPY,"US-China truce extension (Nov-10 expiry; Jan-10 REPORTED, unverified)",wiki/compression-thesis.md:3611
+2026-09-23,TSLA,bull,0.5,SPY,"US-China truce extension (Nov-10 expiry; Jan-10 REPORTED, unverified)",wiki/compression-thesis.md:3611
+2026-09-23,NKE,bull,0.5,SPY,"US-China truce extension (Nov-10 expiry; Jan-10 REPORTED, unverified)",wiki/compression-thesis.md:3611
