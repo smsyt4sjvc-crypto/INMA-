@@ -1,0 +1,45 @@
+date,ticker,col,weight,driver,event,pointer
+2026-09-23,MET,bull,2,TLT,5Y RED tail 3.2bp + real-rate shock (10Y real +13 to 2.76),chat-log/2026-09-23.md:38 (→ rates-board on filing)
+2026-09-23,PRU,bull,2,TLT,5Y RED tail 3.2bp + real-rate shock (10Y real +13 to 2.76),chat-log/2026-09-23.md:38 (→ rates-board on filing)
+2026-09-23,SCHW,bull,2,TLT,5Y RED tail 3.2bp + real-rate shock (10Y real +13 to 2.76),chat-log/2026-09-23.md:38 (→ rates-board on filing)
+2026-09-23,DHI,bear,2,TLT,5Y RED tail 3.2bp + real-rate shock (10Y real +13 to 2.76),chat-log/2026-09-23.md:38 (→ rates-board on filing)
+2026-09-23,LEN,bear,2,TLT,5Y RED tail 3.2bp + real-rate shock (10Y real +13 to 2.76),chat-log/2026-09-23.md:38 (→ rates-board on filing)
+2026-09-23,KRE,bear,2,TLT,5Y RED tail 3.2bp + real-rate shock (10Y real +13 to 2.76),chat-log/2026-09-23.md:38 (→ rates-board on filing)
+2026-09-23,DLR,bear,2,TLT,5Y RED tail 3.2bp + real-rate shock (10Y real +13 to 2.76),chat-log/2026-09-23.md:38 (→ rates-board on filing)
+2026-09-23,EQIX,bear,2,TLT,5Y RED tail 3.2bp + real-rate shock (10Y real +13 to 2.76),chat-log/2026-09-23.md:38 (→ rates-board on filing)
+2026-09-23,IWM,bear,2,TLT,5Y RED tail 3.2bp + real-rate shock (10Y real +13 to 2.76),chat-log/2026-09-23.md:38 (→ rates-board on filing)
+2026-09-23,CVNA,bear,2,TLT,5Y RED tail 3.2bp + real-rate shock (10Y real +13 to 2.76),chat-log/2026-09-23.md:38 (→ rates-board on filing)
+2026-09-23,CRWV,bear,2,TLT,5Y RED tail 3.2bp + real-rate shock (10Y real +13 to 2.76),chat-log/2026-09-23.md:38 (→ rates-board on filing)
+2026-09-23,ORCL,bear,2,TLT,5Y RED tail 3.2bp + real-rate shock (10Y real +13 to 2.76),chat-log/2026-09-23.md:38 (→ rates-board on filing)
+2026-09-23,FRO,bull,2,BWET,Hormuz cargo-ship strike + VLCC rates ~2x record,wiki/war/war-board.md:5279
+2026-09-23,DHT,bull,2,BWET,Hormuz cargo-ship strike + VLCC rates ~2x record,wiki/war/war-board.md:5279
+2026-09-23,INSW,bull,2,BWET,Hormuz cargo-ship strike + VLCC rates ~2x record,wiki/war/war-board.md:5279
+2026-09-23,STNG,bull,2,BWET,Hormuz cargo-ship strike + VLCC rates ~2x record,wiki/war/war-board.md:5279
+2026-09-23,TRMD,bull,2,BWET,Hormuz cargo-ship strike + VLCC rates ~2x record,wiki/war/war-board.md:5279
+2026-09-23,UAL,bear,2,BNO,Hormuz cargo-ship strike + VLCC rates ~2x record,wiki/war/war-board.md:5279
+2026-09-23,DAL,bear,2,BNO,Hormuz cargo-ship strike + VLCC rates ~2x record,wiki/war/war-board.md:5279
+2026-09-23,CCL,bear,2,BNO,Hormuz cargo-ship strike + VLCC rates ~2x record,wiki/war/war-board.md:5279
+2026-09-23,RCL,bear,2,BNO,Hormuz cargo-ship strike + VLCC rates ~2x record,wiki/war/war-board.md:5279
+2026-09-23,VLO,bull,2,BNO,Freight wedge ~$15-20/bbl favours US refiners/Gulf petchem,wiki/oil-value-chain.md:3006
+2026-09-23,MPC,bull,2,BNO,Freight wedge ~$15-20/bbl favours US refiners/Gulf petchem,wiki/oil-value-chain.md:3006
+2026-09-23,DOW,bull,2,BNO,Freight wedge ~$15-20/bbl favours US refiners/Gulf petchem,wiki/oil-value-chain.md:3006
+2026-09-23,LYB,bull,2,BNO,Freight wedge ~$15-20/bbl favours US refiners/Gulf petchem,wiki/oil-value-chain.md:3006
+2026-09-23,ODFL,bull,1,BNO,"Diesel-ban rehearsal: Politico 90-day plan, WH denial, Wright dissent",chat-log/2026-09-23.md:37 (→ demand-destruction on filing)
+2026-09-23,JBHT,bull,1,BNO,"Diesel-ban rehearsal: Politico 90-day plan, WH denial, Wright dissent",chat-log/2026-09-23.md:37 (→ demand-destruction on filing)
+2026-09-23,VLO,bear,1,BNO,"Diesel-ban rehearsal: Politico 90-day plan, WH denial, Wright dissent",chat-log/2026-09-23.md:37 (→ demand-destruction on filing)
+2026-09-23,MPC,bear,1,BNO,"Diesel-ban rehearsal: Politico 90-day plan, WH denial, Wright dissent",chat-log/2026-09-23.md:37 (→ demand-destruction on filing)
+2026-09-23,PSX,bear,1,BNO,"Diesel-ban rehearsal: Politico 90-day plan, WH denial, Wright dissent",chat-log/2026-09-23.md:37 (→ demand-destruction on filing)
+2026-09-23,PBF,bear,1,BNO,"Diesel-ban rehearsal: Politico 90-day plan, WH denial, Wright dissent",chat-log/2026-09-23.md:37 (→ demand-destruction on filing)
+2026-09-23,CAT,bull,2,SPY,"Flash PMIs 58.4, input costs steepest since Oct-22",wiki/rates-board.md:3831
+2026-09-23,ETN,bull,2,SPY,"Flash PMIs 58.4, input costs steepest since Oct-22",wiki/rates-board.md:3831
+2026-09-23,PG,bear,2,SPY,"Flash PMIs 58.4, input costs steepest since Oct-22",wiki/rates-board.md:3831
+2026-09-23,KO,bear,2,SPY,"Flash PMIs 58.4, input costs steepest since Oct-22",wiki/rates-board.md:3831
+2026-09-23,DG,bear,2,SPY,"Flash PMIs 58.4, input costs steepest since Oct-22",wiki/rates-board.md:3831
+2026-09-23,TGT,bear,2,SPY,"Flash PMIs 58.4, input costs steepest since Oct-22",wiki/rates-board.md:3831
+2026-09-23,DHI,bear,1,TLT,MBA 30Y 7.12% (lagged echo of the rate shock — anti-double-count weight),chat-log/2026-09-23.md:30
+2026-09-23,LEN,bear,1,TLT,MBA 30Y 7.12% (lagged echo of the rate shock — anti-double-count weight),chat-log/2026-09-23.md:30
+2026-09-23,RKT,bear,1,TLT,MBA 30Y 7.12% (lagged echo of the rate shock — anti-double-count weight),chat-log/2026-09-23.md:30
+2026-09-23,AVGO,bull,0.5,SOXX,"Anthropic/Stream <=1GW + possible Google guarantee (REPORTED, talks; vendor conflict)",chat-log/2026-09-23.md:30
+2026-09-23,APO,bull,0.5,SOXX,"Anthropic/Stream <=1GW + possible Google guarantee (REPORTED, talks; vendor conflict)",chat-log/2026-09-23.md:30
+2026-09-23,GOOGL,flat,0.5,SOXX,"Anthropic/Stream <=1GW + possible Google guarantee (REPORTED, talks; vendor conflict)",chat-log/2026-09-23.md:30
+2026-09-23,AVGO,bear,0.5,SOXX,SASAC surveys Broadcom switches in state DCs (FT; Reuters unverified),chat-log/2026-09-23.md:30
