@@ -113,3 +113,11 @@ date,ticker,col,weight,driver,event,pointer
 2026-09-23,CRWV,bear,0.5,TLT,Nscale buried ByteDance (FT): IPO-window channel for neocloud equity (REPORTED),wiki/ai-financing-fragility.md (9/23 ~7:53pm)
 2026-09-23,NBIS,bear,0.5,TLT,Nscale buried ByteDance (FT): IPO-window channel for neocloud equity (REPORTED),wiki/ai-financing-fragility.md (9/23 ~7:53pm)
 2026-09-23,IREN,bear,0.5,TLT,Nscale buried ByteDance (FT): IPO-window channel for neocloud equity (REPORTED),wiki/ai-financing-fragility.md (9/23 ~7:53pm)
+2026-09-24,CRWV,bear,0.5,TLT,7Y auction tail +0.7bp -> curve exposure,tools/curve_exposure.py
+2026-09-24,CIFR,bear,0.25,TLT,7Y auction tail +0.7bp -> curve exposure,tools/curve_exposure.py
+2026-09-24,ORCL,bear,0.25,TLT,7Y auction tail +0.7bp -> curve exposure,tools/curve_exposure.py
+2026-09-24,DELL,bear,0.25,TLT,7Y auction tail +0.7bp -> curve exposure,tools/curve_exposure.py
+2026-09-24,DHT,bull,0.5,BWET,Safavi: war expands to the Indian Ocean if attacked again (threat) + 6 Houthi missiles; Brent +3.6%,wiki/war/war-board.md (9/24 ~10:47am)
+2026-09-24,FRO,bull,0.5,BWET,Safavi: war expands to the Indian Ocean if attacked again (threat) + 6 Houthi missiles; Brent +3.6%,wiki/war/war-board.md (9/24 ~10:47am)
+2026-09-24,INSW,bull,0.5,BWET,Safavi: war expands to the Indian Ocean if attacked again (threat) + 6 Houthi missiles; Brent +3.6%,wiki/war/war-board.md (9/24 ~10:47am)
+2026-09-24,UAL,bear,0.5,BNO,Safavi: war expands to the Indian Ocean if attacked again (threat) + 6 Houthi missiles; Brent +3.6%,wiki/war/war-board.md (9/24 ~10:47am)
