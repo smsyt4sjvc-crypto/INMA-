@@ -110,3 +110,6 @@ date,ticker,col,weight,driver,event,pointer
 2026-09-23,NVDA,bull,1,SOXX,"Silicon Data rents vs tokens: new-vintage rents rising, H100 rolled over since Aug (vintage split)",wiki/ai-financing-fragility.md (9/23 ~8:30pm)
 2026-09-23,NBIS,bull,1,SOXX,"Silicon Data rents vs tokens: new-vintage rents rising, H100 rolled over since Aug (vintage split)",wiki/ai-financing-fragility.md (9/23 ~8:30pm)
 2026-09-23,CRWV,bear,1,TLT,"Silicon Data rents vs tokens: new-vintage rents rising, H100 rolled over since Aug (vintage split)",wiki/ai-financing-fragility.md (9/23 ~8:30pm)
+2026-09-23,CRWV,bear,0.5,TLT,Nscale buried ByteDance (FT): IPO-window channel for neocloud equity (REPORTED),wiki/ai-financing-fragility.md (9/23 ~7:53pm)
+2026-09-23,NBIS,bear,0.5,TLT,Nscale buried ByteDance (FT): IPO-window channel for neocloud equity (REPORTED),wiki/ai-financing-fragility.md (9/23 ~7:53pm)
+2026-09-23,IREN,bear,0.5,TLT,Nscale buried ByteDance (FT): IPO-window channel for neocloud equity (REPORTED),wiki/ai-financing-fragility.md (9/23 ~7:53pm)
