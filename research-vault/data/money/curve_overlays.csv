@@ -1,0 +1,13 @@
+exposed,bucket,amount_B,kind,flag,counterparty,note,pointer
+GOOGL,BELLY,3.2,backstop,YELLOW,WULF Compute (TeraWulf/Fluidstack),"7.75% senior secured notes due 2030 (priced 10/16/25); Google pledge of WULF warrants pre-completion; Google also backstops $4.5B of Fluidstack lease obligations",ai-financing-fragility.md:8542 · TeraWulf PR 2025-10-16
+GOOGL,BELLY,43.8,backstop,YELLOW,program (credit-derivative backstops max),"+$24.1B expected; rights to assume leases after default; tenor mix unknown — WULF-class paper is ~5y",ai-financing-fragility.md:8542
+GOOGL,BELLY,0,backstop,YELLOW,Anthropic / Stream (Apollo),"REPORTED talks only (9/23): up to 1GW; which leg Google guarantees unclear",ai-financing-fragility.md:8673
+META,LONG,27.29,rvg,YELLOW,Beignet (Hyperion SPV),"6.581% amortizing due 2049; RVG ~$28B threshold; max exposure ~$46B (+~$13B other RVG)",ai-financing-fragility.md:8662
+META,UNKNOWN,2.227,guarantee,YELLOW,Sandersville project,"Meta parent rent/opex guarantee on ~$2.227B proposed project debt; tenor unknown",ai-financing-fragility.md:8633
+NVDA,UNKNOWN,108.5,guarantee,YELLOW,neocloud capacity + guarantees,"guarantees max $108.5B incl. capacity-purchase backstop (obligated to buy unsold committed capacity); tenor mix unknown",power-to-silicon-thesis.md:465
+ORCL,FRONT,3.3,guarantee,YELLOW,lessor borrowing,"up to $3.3B guarantee maturing Sep-2026; repaid/refinanced/extended NOT disclosed",ai-financing-fragility.md:8549
+ORCL,BELLY,18,floating,YELLOW,Project Jupiter (STACK/Blue Owl),"~$18B project loans, ~4-5yr, FLOATING; secondary 89-91; Oracle the tenant",ai-financing-fragility.md:8605
+AMZN,UNKNOWN,20,lender,YELLOW,Anthropic facility,"up to $20B, availability tied to AWS delivering compute (~$15B remaining); tenor unknown",ai-financing-fragility.md:8547
+CRWV,FRONT,2.6,floating,,DDTL 5.5 (Aug-2026),"delayed-draw term loan, floating; Ba2/BB+",ai-financing-fragility.md:6285
+CRWV,LONG,3.7,new_issue,,convertible,"$3.7B 2.875% convertible due 2033 (equity-linked; straight debt costs 8.5-9.75%)",ai-financing-fragility.md:8638
+CRWV,LONG,1.1,spv,YELLOW,Digital Drive (Richmond 76MW),"~$1.1B HY project bonds ~9% area; CRWV the 15-yr lease tenant; pricing 9/23 not located",ai-financing-fragility.md:8653
