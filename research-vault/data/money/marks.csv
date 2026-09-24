@@ -107,3 +107,6 @@ date,ticker,col,weight,driver,event,pointer
 2026-09-02,VRT,bull,1,SPY,"grades backfill: 7/10 as of 2026-09-02 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:76
 2026-09-01,VST,bull,1,SPY,"grades backfill: 7/10 as of 2026-09-01 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:47
 2026-09-10,XOM,flat,1,BNO,"grades backfill: 6/10 as of 2026-09-10 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:95
+2026-09-23,NVDA,bull,1,SOXX,"Silicon Data rents vs tokens: new-vintage rents rising, H100 rolled over since Aug (vintage split)",wiki/ai-financing-fragility.md (9/23 ~8:30pm)
+2026-09-23,NBIS,bull,1,SOXX,"Silicon Data rents vs tokens: new-vintage rents rising, H100 rolled over since Aug (vintage split)",wiki/ai-financing-fragility.md (9/23 ~8:30pm)
+2026-09-23,CRWV,bear,1,TLT,"Silicon Data rents vs tokens: new-vintage rents rising, H100 rolled over since Aug (vintage split)",wiki/ai-financing-fragility.md (9/23 ~8:30pm)
