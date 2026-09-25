@@ -135,3 +135,5 @@ date,ticker,col,weight,driver,event,pointer
 2026-09-24,VST,bear,0.5,SPY,Texas permit freeze weakens ERCOT data-center load growth,wiki/power-scarcity-equities.md (9/24)
 2026-09-24,CEG,bear,0.5,SPY,Texas permit freeze weakens ERCOT data-center load growth,wiki/power-scarcity-equities.md (9/24)
 2026-09-24,ORCL,bear,0.5,TLT,Texas permit freeze — Stargate Abilene later phases,wiki/buildout-bottleneck-map.md (9/24 ~8:00pm)
+2026-09-24,AMD,bull,0.5,SOXX,Anthropic x Akamai $11.6B CPU deal — agentic workloads add dedicated CPU demand,wiki/ai-financing-fragility.md (9/24 ~8:25pm)
+2026-09-24,INTC,bull,0.5,SOXX,Anthropic x Akamai $11.6B CPU deal — agentic workloads add dedicated CPU demand,wiki/ai-financing-fragility.md (9/24 ~8:25pm)
