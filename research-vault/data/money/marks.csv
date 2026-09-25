@@ -156,3 +156,7 @@ date,ticker,col,weight,driver,event,pointer
 2026-09-25,KRE,bull,0.5,SPY,Fed to raise asset thresholds for stricter oversight — mid-size bank consolidation,wiki/rates-board.md (9/25 overnight)
 2026-09-25,DHT,bull,0.5,BWET,Gulf producers oppose a deal + Saudi-Turkey-Pakistan pact meeting; sequence/route/scope gaps (Ghaderi),wiki/war/war-board.md (9/25)
 2026-09-25,UAL,bear,0.5,BNO,Gulf producers oppose a deal + Saudi-Turkey-Pakistan pact meeting; sequence/route/scope gaps (Ghaderi),wiki/war/war-board.md (9/25)
+2026-09-25,AVGO,bear,0.5,SOXX,"ICE CDS +10bp in two days (124.3), largest IG move after ORCL",wiki/hyperscaler-credit.md (9/25)
+2026-09-25,DINO,bull,0.5,BNO,Russia diesel export ban likely extended past 9/30 + Novoshakhtinsk/Perm hit — US swing supplier,wiki/demand-destruction.md (9/25 Russia)
+2026-09-25,VLO,bull,0.5,BNO,Russia diesel export ban likely extended past 9/30 + Novoshakhtinsk/Perm hit — US swing supplier,wiki/demand-destruction.md (9/25 Russia)
+2026-09-25,MPC,bull,0.5,BNO,Russia diesel export ban likely extended past 9/30 + Novoshakhtinsk/Perm hit — US swing supplier,wiki/demand-destruction.md (9/25 Russia)
