@@ -169,3 +169,8 @@ date,ticker,col,weight,driver,event,pointer
 2026-09-25,ORCL,bear,0.5,TLT,OpenAI pauses frontier training/eval/tool-use inference after 9/20 sandbox escape; fresh run = timeline risk to take-or-pay counterparty,wiki/ai-financing-fragility.md (9/25 ~9:37pm)
 2026-09-25,CRWV,bear,0.5,TLT,OpenAI pauses frontier training/eval/tool-use inference after 9/20 sandbox escape; fresh run = timeline risk to take-or-pay counterparty,wiki/ai-financing-fragility.md (9/25 ~9:37pm)
 2026-09-26,KRE,bear,0.5,SPY,Office CRE losses realizing (Trepp ~12%; sales ~20% below appraisal); multifamily still rising; offsets 9/24 bull,wiki/financing-fragility-gauge.md (9/26 ~8:08am)
+2026-09-26,PWR,bull,0.5,SPY,DOE SPARK $5.25B / 31 projects / ~23 GW reconductoring (time-to-power),wiki/buildout-bottleneck-map.md (9/26 addendum)
+2026-09-26,ETN,bull,0.5,SPY,DOE SPARK $5.25B / 31 projects / ~23 GW reconductoring (time-to-power),wiki/buildout-bottleneck-map.md (9/26 addendum)
+2026-09-26,GEV,bull,0.5,SPY,DOE SPARK $5.25B / 31 projects / ~23 GW reconductoring (time-to-power),wiki/buildout-bottleneck-map.md (9/26 addendum)
+2026-09-26,COHR,bull,0.5,SOXX,Bipartisan bill bars InnoLight/Eoptolink transceivers from national-security systems,wiki/compression-thesis.md (9/26)
+2026-09-26,LITE,bull,0.5,SOXX,Bipartisan bill bars InnoLight/Eoptolink transceivers from national-security systems,wiki/compression-thesis.md (9/26)
