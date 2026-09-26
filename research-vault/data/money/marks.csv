@@ -165,3 +165,7 @@ date,ticker,col,weight,driver,event,pointer
 2026-09-25,RTX,bull,0.5,BNO,WSJ: US munitions 'dwindling' = restock demand,wiki/war/war-board.md (9/25 ~6:07pm)
 2026-09-25,LMT,bull,0.5,BNO,WSJ: US munitions 'dwindling' = restock demand,wiki/war/war-board.md (9/25 ~6:07pm)
 2026-09-25,NOC,bull,0.5,BNO,WSJ: US munitions 'dwindling' = restock demand,wiki/war/war-board.md (9/25 ~6:07pm)
+2026-09-25,ORCL,bear,1,TLT,ORCL 5Y CDS record 235.7 (ICE) / 237 (BBG) +28bp in 4 sessions; Oracle-specific; Barclays 'neutral' refuted next day,wiki/hyperscaler-credit.md (9/25 ~9:19pm)
+2026-09-25,ORCL,bear,0.5,TLT,OpenAI pauses frontier training/eval/tool-use inference after 9/20 sandbox escape; fresh run = timeline risk to take-or-pay counterparty,wiki/ai-financing-fragility.md (9/25 ~9:37pm)
+2026-09-25,CRWV,bear,0.5,TLT,OpenAI pauses frontier training/eval/tool-use inference after 9/20 sandbox escape; fresh run = timeline risk to take-or-pay counterparty,wiki/ai-financing-fragility.md (9/25 ~9:37pm)
+2026-09-26,KRE,bear,0.5,SPY,Office CRE losses realizing (Trepp ~12%; sales ~20% below appraisal); multifamily still rising; offsets 9/24 bull,wiki/financing-fragility-gauge.md (9/26 ~8:08am)
