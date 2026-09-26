@@ -1,0 +1,176 @@
+date,ticker,col,weight,driver,event,pointer
+2026-09-23,MET,bull,2,TLT,5Y RED tail 3.2bp + real-rate shock (10Y real +13 to 2.76),chat-log/2026-09-23.md:38 (→ rates-board on filing)
+2026-09-23,PRU,bull,2,TLT,5Y RED tail 3.2bp + real-rate shock (10Y real +13 to 2.76),chat-log/2026-09-23.md:38 (→ rates-board on filing)
+2026-09-23,SCHW,bull,2,TLT,5Y RED tail 3.2bp + real-rate shock (10Y real +13 to 2.76),chat-log/2026-09-23.md:38 (→ rates-board on filing)
+2026-09-23,DHI,bear,2,TLT,5Y RED tail 3.2bp + real-rate shock (10Y real +13 to 2.76),chat-log/2026-09-23.md:38 (→ rates-board on filing)
+2026-09-23,LEN,bear,2,TLT,5Y RED tail 3.2bp + real-rate shock (10Y real +13 to 2.76),chat-log/2026-09-23.md:38 (→ rates-board on filing)
+2026-09-23,KRE,bear,2,TLT,5Y RED tail 3.2bp + real-rate shock (10Y real +13 to 2.76),chat-log/2026-09-23.md:38 (→ rates-board on filing)
+2026-09-23,DLR,bear,2,TLT,5Y RED tail 3.2bp + real-rate shock (10Y real +13 to 2.76),chat-log/2026-09-23.md:38 (→ rates-board on filing)
+2026-09-23,EQIX,bear,2,TLT,5Y RED tail 3.2bp + real-rate shock (10Y real +13 to 2.76),chat-log/2026-09-23.md:38 (→ rates-board on filing)
+2026-09-23,IWM,bear,2,TLT,5Y RED tail 3.2bp + real-rate shock (10Y real +13 to 2.76),chat-log/2026-09-23.md:38 (→ rates-board on filing)
+2026-09-23,CVNA,bear,2,TLT,5Y RED tail 3.2bp + real-rate shock (10Y real +13 to 2.76),chat-log/2026-09-23.md:38 (→ rates-board on filing)
+2026-09-23,CRWV,bear,2,TLT,5Y RED tail 3.2bp + real-rate shock (10Y real +13 to 2.76),chat-log/2026-09-23.md:38 (→ rates-board on filing)
+2026-09-23,ORCL,bear,2,TLT,5Y RED tail 3.2bp + real-rate shock (10Y real +13 to 2.76),chat-log/2026-09-23.md:38 (→ rates-board on filing)
+2026-09-23,FRO,bull,2,BWET,Hormuz cargo-ship strike + VLCC rates ~2x record,wiki/war/war-board.md:5279
+2026-09-23,DHT,bull,2,BWET,Hormuz cargo-ship strike + VLCC rates ~2x record,wiki/war/war-board.md:5279
+2026-09-23,INSW,bull,2,BWET,Hormuz cargo-ship strike + VLCC rates ~2x record,wiki/war/war-board.md:5279
+2026-09-23,STNG,bull,2,BWET,Hormuz cargo-ship strike + VLCC rates ~2x record,wiki/war/war-board.md:5279
+2026-09-23,TRMD,bull,2,BWET,Hormuz cargo-ship strike + VLCC rates ~2x record,wiki/war/war-board.md:5279
+2026-09-23,UAL,bear,2,BNO,Hormuz cargo-ship strike + VLCC rates ~2x record,wiki/war/war-board.md:5279
+2026-09-23,DAL,bear,2,BNO,Hormuz cargo-ship strike + VLCC rates ~2x record,wiki/war/war-board.md:5279
+2026-09-23,CCL,bear,2,BNO,Hormuz cargo-ship strike + VLCC rates ~2x record,wiki/war/war-board.md:5279
+2026-09-23,RCL,bear,2,BNO,Hormuz cargo-ship strike + VLCC rates ~2x record,wiki/war/war-board.md:5279
+2026-09-23,VLO,bull,2,BNO,Freight wedge ~$15-20/bbl favours US refiners/Gulf petchem,wiki/oil-value-chain.md:3006
+2026-09-23,MPC,bull,2,BNO,Freight wedge ~$15-20/bbl favours US refiners/Gulf petchem,wiki/oil-value-chain.md:3006
+2026-09-23,DOW,bull,2,BNO,Freight wedge ~$15-20/bbl favours US refiners/Gulf petchem,wiki/oil-value-chain.md:3006
+2026-09-23,LYB,bull,2,BNO,Freight wedge ~$15-20/bbl favours US refiners/Gulf petchem,wiki/oil-value-chain.md:3006
+2026-09-23,ODFL,bull,1,BNO,"Diesel-ban rehearsal: Politico 90-day plan, WH denial, Wright dissent",chat-log/2026-09-23.md:37 (→ demand-destruction on filing)
+2026-09-23,JBHT,bull,1,BNO,"Diesel-ban rehearsal: Politico 90-day plan, WH denial, Wright dissent",chat-log/2026-09-23.md:37 (→ demand-destruction on filing)
+2026-09-23,VLO,bear,1,BNO,"Diesel-ban rehearsal: Politico 90-day plan, WH denial, Wright dissent",chat-log/2026-09-23.md:37 (→ demand-destruction on filing)
+2026-09-23,MPC,bear,1,BNO,"Diesel-ban rehearsal: Politico 90-day plan, WH denial, Wright dissent",chat-log/2026-09-23.md:37 (→ demand-destruction on filing)
+2026-09-23,PSX,bear,1,BNO,"Diesel-ban rehearsal: Politico 90-day plan, WH denial, Wright dissent",chat-log/2026-09-23.md:37 (→ demand-destruction on filing)
+2026-09-23,PBF,bear,1,BNO,"Diesel-ban rehearsal: Politico 90-day plan, WH denial, Wright dissent",chat-log/2026-09-23.md:37 (→ demand-destruction on filing)
+2026-09-23,CAT,bull,2,SPY,"Flash PMIs 58.4, input costs steepest since Oct-22",wiki/rates-board.md:3831
+2026-09-23,ETN,bull,2,SPY,"Flash PMIs 58.4, input costs steepest since Oct-22",wiki/rates-board.md:3831
+2026-09-23,PG,bear,2,SPY,"Flash PMIs 58.4, input costs steepest since Oct-22",wiki/rates-board.md:3831
+2026-09-23,KO,bear,2,SPY,"Flash PMIs 58.4, input costs steepest since Oct-22",wiki/rates-board.md:3831
+2026-09-23,DG,bear,2,SPY,"Flash PMIs 58.4, input costs steepest since Oct-22",wiki/rates-board.md:3831
+2026-09-23,TGT,bear,2,SPY,"Flash PMIs 58.4, input costs steepest since Oct-22",wiki/rates-board.md:3831
+2026-09-23,DHI,bear,1,TLT,MBA 30Y 7.12% (lagged echo of the rate shock — anti-double-count weight),chat-log/2026-09-23.md:30
+2026-09-23,LEN,bear,1,TLT,MBA 30Y 7.12% (lagged echo of the rate shock — anti-double-count weight),chat-log/2026-09-23.md:30
+2026-09-23,RKT,bear,1,TLT,MBA 30Y 7.12% (lagged echo of the rate shock — anti-double-count weight),chat-log/2026-09-23.md:30
+2026-09-23,AVGO,bull,0.5,SOXX,"Anthropic/Stream <=1GW + possible Google guarantee (REPORTED, talks; vendor conflict)",chat-log/2026-09-23.md:30
+2026-09-23,APO,bull,0.5,SOXX,"Anthropic/Stream <=1GW + possible Google guarantee (REPORTED, talks; vendor conflict)",chat-log/2026-09-23.md:30
+2026-09-23,GOOGL,flat,0.5,SOXX,"Anthropic/Stream <=1GW + possible Google guarantee (REPORTED, talks; vendor conflict)",chat-log/2026-09-23.md:30
+2026-09-23,AVGO,bear,0.5,SOXX,SASAC surveys Broadcom switches in state DCs (FT; Reuters unverified),chat-log/2026-09-23.md:30
+2026-09-23,ORCL,bear,1,TLT,ICE CDS 12/12 wider on the rate-shock day (stage 1->2),wiki/hyperscaler-credit.md:616
+2026-09-23,CRWV,bear,1,TLT,ICE CDS 12/12 wider on the rate-shock day (stage 1->2),wiki/hyperscaler-credit.md:616
+2026-09-23,AVGO,bear,1,SOXX,AVGO CDS +6.8 on SASAC day (report reaches the measured rung),wiki/hyperscaler-credit.md:616
+2026-09-23,RTX,bull,0.5,BNO,Rezaei: Gulf airports 'paralyzed' if they enforce US aviation sanctions (threat),wiki/war/war-board.md:5293
+2026-09-23,LMT,bull,0.5,BNO,Rezaei: Gulf airports 'paralyzed' if they enforce US aviation sanctions (threat),wiki/war/war-board.md:5293
+2026-09-23,NOC,bull,0.5,BNO,Rezaei: Gulf airports 'paralyzed' if they enforce US aviation sanctions (threat),wiki/war/war-board.md:5293
+2026-09-23,UAL,bear,0.5,BNO,Rezaei: Gulf airports 'paralyzed' if they enforce US aviation sanctions (threat),wiki/war/war-board.md:5293
+2026-09-23,BA,bear,0.5,BNO,Rezaei: Gulf airports 'paralyzed' if they enforce US aviation sanctions (threat),wiki/war/war-board.md:5293
+2026-09-23,FRO,bull,0.5,BWET,Rezaei 4-5 day Hormuz ultimatum (~9/27-28),wiki/war/war-board.md:5293
+2026-09-23,DHT,bull,0.5,BWET,Rezaei 4-5 day Hormuz ultimatum (~9/27-28),wiki/war/war-board.md:5293
+2026-09-23,INSW,bull,0.5,BWET,Rezaei 4-5 day Hormuz ultimatum (~9/27-28),wiki/war/war-board.md:5293
+2026-09-23,AAPL,bull,0.5,SPY,"US-China truce extension (Nov-10 expiry; Jan-10 REPORTED, unverified)",wiki/compression-thesis.md:3611
+2026-09-23,TSLA,bull,0.5,SPY,"US-China truce extension (Nov-10 expiry; Jan-10 REPORTED, unverified)",wiki/compression-thesis.md:3611
+2026-09-23,NKE,bull,0.5,SPY,"US-China truce extension (Nov-10 expiry; Jan-10 REPORTED, unverified)",wiki/compression-thesis.md:3611
+2026-09-06,AAPL,bear,2,SPY,"grades backfill: 4/10 as of 2026-09-06 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:86
+2026-09-06,AMZN,bear,1,SPY,"grades backfill: 5/10 as of 2026-09-06 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:90
+2026-09-03,AVGO,bull,2,SOXX,"grades backfill: 8/10 as of 2026-09-03 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:73
+2026-09-04,BE,flat,1,SPY,"grades backfill: 6/10 as of 2026-09-04 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:65
+2026-09-02,BWXT,flat,1,SPY,"grades backfill: 6/10 as of 2026-09-02 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:67
+2026-09-02,CEG,bull,1,SPY,"grades backfill: 7/10 as of 2026-09-02 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:66
+2026-09-10,COP,bear,1,BNO,"grades backfill: 5/10 as of 2026-09-10 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:97
+2026-09-03,CRDO,flat,1,SOXX,"grades backfill: 6/10 as of 2026-09-03 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:71
+2026-09-03,CRWV,bear,3,TLT,"grades backfill: 2/10 as of 2026-09-03 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:43
+2026-09-10,CVX,flat,1,BNO,"grades backfill: 6/10 as of 2026-09-10 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:96
+2026-09-03,DELL,bull,2,SOXX,"grades backfill: 8/10 as of 2026-09-03 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:70
+2026-09-01,DINO,bull,2,BNO,"grades backfill: 8/10 as of 2026-09-01 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:56
+2026-09-10,EQT,flat,1,BNO,"grades backfill: 6/10 as of 2026-09-10 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:99
+2026-09-02,ETN,bull,1,SPY,"grades backfill: 7/10 as of 2026-09-02 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:63
+2026-09-22,ETR,bull,1,SPY,"grades backfill: 7/10 as of 2026-09-22 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:105
+2026-09-04,EWY,flat,1,SOXX,"grades backfill: 6/10 as of 2026-09-04 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:60
+2026-09-01,GEV,bull,1,SPY,"grades backfill: 7/10 as of 2026-09-01 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:46
+2026-09-08,GFS,bear,1,SOXX,"grades backfill: 5/10 as of 2026-09-08 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:104
+2026-09-06,GOOGL,bull,1,SPY,"grades backfill: 7/10 as of 2026-09-06 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:87
+2026-09-07,HUBB,flat,1,SPY,"grades backfill: 6/10 as of 2026-09-07 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:92
+2026-09-01,HWM,bear,1,SPY,"grades backfill: 5/10 as of 2026-09-01 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:45
+2026-09-07,IREN,bear,1,TLT,"grades backfill: 5/10 as of 2026-09-07 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:42
+2026-09-07,LNG,flat,1,BNO,"grades backfill: 6/10 as of 2026-09-07 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:100
+2026-09-06,META,flat,1,SPY,"grades backfill: 6/10 as of 2026-09-06 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:89
+2026-09-04,MP,flat,1,SPY,"grades backfill: 6/10 as of 2026-09-04 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:62
+2026-09-01,MPC,bull,3,BNO,"grades backfill: 9/10 as of 2026-09-01 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:52
+2026-09-03,MRVL,flat,1,SOXX,"grades backfill: 6/10 as of 2026-09-03 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:74
+2026-09-06,MSFT,flat,1,SPY,"grades backfill: 6/10 as of 2026-09-06 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:88
+2026-09-15,MU,bull,2,SOXX,"grades backfill: 8/10 as of 2026-09-15 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:49
+2026-09-03,NVDA,flat,1,SOXX,"grades backfill: 6/10 as of 2026-09-03 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:41
+2026-09-05,OKLO,bear,2,TLT,"grades backfill: 4/10 as of 2026-09-05 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:68
+2026-09-12,ORCL,bear,2,TLT,"grades backfill: 4/10 as of 2026-09-12 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:58
+2026-09-10,OXY,bear,1,BNO,"grades backfill: 5/10 as of 2026-09-10 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:98
+2026-09-04,PARR,bull,2,BNO,"grades backfill: 8/10 as of 2026-09-04 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:55
+2026-09-01,PBF,bull,2,BNO,"grades backfill: 8/10 as of 2026-09-01 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:53
+2026-09-01,PSX,bull,1,BNO,"grades backfill: 7/10 as of 2026-09-01 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:54
+2026-09-02,PWR,bull,1,SPY,"grades backfill: 7/10 as of 2026-09-02 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:64
+2026-09-08,QBTS,bear,2,SPY,"grades backfill: 4/10 as of 2026-09-08 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:102
+2026-09-08,QCOM,flat,1,SOXX,"grades backfill: 6/10 as of 2026-09-08 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:101
+2026-09-08,RGTI,bear,2,SPY,"grades backfill: 4/10 as of 2026-09-08 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:103
+2026-09-01,SBE,bear,3,TLT,"grades backfill: 3/10 as of 2026-09-01 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:44
+2026-09-01,TLN,bull,1,SPY,"grades backfill: 7/10 as of 2026-09-01 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:47
+2026-09-06,TSLA,bear,3,SPY,"grades backfill: 3/10 as of 2026-09-06 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:91
+2026-09-10,TSM,bull,2,SOXX,"grades backfill: 8/10 as of 2026-09-10 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:93
+2026-09-04,USAR,flat,1,SPY,"grades backfill: 6/10 as of 2026-09-04 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:61
+2026-09-10,VG,bull,1,BNO,"grades backfill: 7/10 as of 2026-09-10 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:94
+2026-09-01,VLO,bull,3,BNO,"grades backfill: 9/10 as of 2026-09-01 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:51
+2026-09-02,VRT,bull,1,SPY,"grades backfill: 7/10 as of 2026-09-02 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:76
+2026-09-01,VST,bull,1,SPY,"grades backfill: 7/10 as of 2026-09-01 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:47
+2026-09-10,XOM,flat,1,BNO,"grades backfill: 6/10 as of 2026-09-10 (rule 16c ledger, converted per 16d 9/23)",wiki/grades.md:95
+2026-09-23,NVDA,bull,1,SOXX,"Silicon Data rents vs tokens: new-vintage rents rising, H100 rolled over since Aug (vintage split)",wiki/ai-financing-fragility.md (9/23 ~8:30pm)
+2026-09-23,NBIS,bull,1,SOXX,"Silicon Data rents vs tokens: new-vintage rents rising, H100 rolled over since Aug (vintage split)",wiki/ai-financing-fragility.md (9/23 ~8:30pm)
+2026-09-23,CRWV,bear,1,TLT,"Silicon Data rents vs tokens: new-vintage rents rising, H100 rolled over since Aug (vintage split)",wiki/ai-financing-fragility.md (9/23 ~8:30pm)
+2026-09-23,CRWV,bear,0.5,TLT,Nscale buried ByteDance (FT): IPO-window channel for neocloud equity (REPORTED),wiki/ai-financing-fragility.md (9/23 ~7:53pm)
+2026-09-23,NBIS,bear,0.5,TLT,Nscale buried ByteDance (FT): IPO-window channel for neocloud equity (REPORTED),wiki/ai-financing-fragility.md (9/23 ~7:53pm)
+2026-09-23,IREN,bear,0.5,TLT,Nscale buried ByteDance (FT): IPO-window channel for neocloud equity (REPORTED),wiki/ai-financing-fragility.md (9/23 ~7:53pm)
+2026-09-24,CRWV,bear,0.5,TLT,7Y auction tail +0.7bp -> curve exposure,tools/curve_exposure.py
+2026-09-24,CIFR,bear,0.25,TLT,7Y auction tail +0.7bp -> curve exposure,tools/curve_exposure.py
+2026-09-24,ORCL,bear,0.25,TLT,7Y auction tail +0.7bp -> curve exposure,tools/curve_exposure.py
+2026-09-24,DELL,bear,0.25,TLT,7Y auction tail +0.7bp -> curve exposure,tools/curve_exposure.py
+2026-09-24,DHT,bull,0.5,BWET,Safavi: war expands to the Indian Ocean if attacked again (threat) + 6 Houthi missiles; Brent +3.6%,wiki/war/war-board.md (9/24 ~10:47am)
+2026-09-24,FRO,bull,0.5,BWET,Safavi: war expands to the Indian Ocean if attacked again (threat) + 6 Houthi missiles; Brent +3.6%,wiki/war/war-board.md (9/24 ~10:47am)
+2026-09-24,INSW,bull,0.5,BWET,Safavi: war expands to the Indian Ocean if attacked again (threat) + 6 Houthi missiles; Brent +3.6%,wiki/war/war-board.md (9/24 ~10:47am)
+2026-09-24,UAL,bear,0.5,BNO,Safavi: war expands to the Indian Ocean if attacked again (threat) + 6 Houthi missiles; Brent +3.6%,wiki/war/war-board.md (9/24 ~10:47am)
+2026-09-24,ORCL,bear,1,TLT,Jupiter force-majeure notice (could permit delayed payments if 2028 opening missed),wiki/ai-financing-fragility.md (9/24 close)
+2026-09-24,AAPL,bull,0.5,SPY,US-China truce extended to Jan 10 CONFIRMED (Bessent) — upgrade from reported,wiki/war/war-board.md (9/24 dinner scoring)
+2026-09-24,TSLA,bull,0.5,SPY,US-China truce extended to Jan 10 CONFIRMED (Bessent) — upgrade from reported,wiki/war/war-board.md (9/24 dinner scoring)
+2026-09-24,NKE,bull,0.5,SPY,US-China truce extended to Jan 10 CONFIRMED (Bessent) — upgrade from reported,wiki/war/war-board.md (9/24 dinner scoring)
+2026-09-24,ORCL,bear,1,TLT,Jupiter correction: Oracle bears the power risk — carry cost up to 3 yrs (FT),wiki/ai-financing-fragility.md (9/24 ~7:34pm)
+2026-09-24,NBIS,bull,0.5,SOXX,Meta capacity backstop (up to $15B) = a floor under Nebius,ai-financing-fragility (9/24 Meta four roles)
+2026-09-24,CRWV,bear,0.5,TLT,"Meta = customer turning competitor, no backstop (renewal risk)",ai-financing-fragility (9/24 Meta four roles)
+2026-09-24,ETR,bull,0.5,SPY,Permits bind not capital: approved large-load utility (Meta pays 100% of Entergy CCGTs),hyperscaler-credit (9/24 moat paradox)
+2026-09-24,IREN,bear,1,TLT,"Texas halts ALL data-center permits (TCEQ, 9/21) — official order",wiki/buildout-bottleneck-map.md (9/24 ~8:00pm)
+2026-09-24,CIFR,bear,1,TLT,"Texas halts ALL data-center permits (TCEQ, 9/21) — official order",wiki/buildout-bottleneck-map.md (9/24 ~8:00pm)
+2026-09-24,WULF,bear,1,TLT,"Texas halts ALL data-center permits (TCEQ, 9/21) — official order",wiki/buildout-bottleneck-map.md (9/24 ~8:00pm)
+2026-09-24,VST,bear,0.5,SPY,Texas permit freeze weakens ERCOT data-center load growth,wiki/power-scarcity-equities.md (9/24)
+2026-09-24,CEG,bear,0.5,SPY,Texas permit freeze weakens ERCOT data-center load growth,wiki/power-scarcity-equities.md (9/24)
+2026-09-24,ORCL,bear,0.5,TLT,Texas permit freeze — Stargate Abilene later phases,wiki/buildout-bottleneck-map.md (9/24 ~8:00pm)
+2026-09-24,AMD,bull,0.5,SOXX,Anthropic x Akamai $11.6B CPU deal — agentic workloads add dedicated CPU demand,wiki/ai-financing-fragility.md (9/24 ~8:25pm)
+2026-09-24,INTC,bull,0.5,SOXX,Anthropic x Akamai $11.6B CPU deal — agentic workloads add dedicated CPU demand,wiki/ai-financing-fragility.md (9/24 ~8:25pm)
+2026-09-24,BE,bear,1,SPY,Barclays: Jupiter Bloom fuel-cell microgrid waits on pipeline + air permits; Texas freeze hits self-powered path,wiki/ai-financing-fragility.md (9/24 ~10:02pm Barclays)
+2026-09-24,ORCL,bear,0.5,TLT,Barclays: Shackelford 1.4GW BTM gas inside the Texas permit freeze,ai-financing-fragility (Barclays)
+2026-09-24,NVDA,bear,0.5,SOXX,Barclays: ~\$30B Oracle hardware capex delayed (timing),ai-financing-fragility (Barclays)
+2026-09-24,AMD,bear,0.5,SOXX,Barclays: ~\$30B Oracle hardware capex delayed (timing; MI450),ai-financing-fragility (Barclays)
+2026-09-24,OWL,bear,0.5,SPY,"Barclays/Jupiter: equity in Abilene + controls Jupiter developer; carry cost protects debt, not equity",ai-financing-fragility (Barclays)
+2026-09-25,ANET,bull,0.5,SOXX,Aug durables: comm equipment orders +39.6% y/y (flat m/m); core capex +1.6% vs +0.56% exp,wiki/ai-capex-cycle.md (9/25 durables)
+2026-09-25,CIEN,bull,0.5,SOXX,Aug durables: comm equipment orders +39.6% y/y (flat m/m); core capex +1.6% vs +0.56% exp,wiki/ai-capex-cycle.md (9/25 durables)
+2026-09-25,CRDO,bull,0.5,SOXX,Aug durables: comm equipment orders +39.6% y/y (flat m/m); core capex +1.6% vs +0.56% exp,wiki/ai-capex-cycle.md (9/25 durables)
+2026-09-25,PL,bull,0.5,SPY,Google Suncatcher first satellite launches Oct 1 (Planet Labs partner) — dated catalyst,wiki/buildout-bottleneck-map.md (9/25 Suncatcher)
+2026-09-25,MU,bull,0.5,SOXX,Akamai adds \$1.7B 2026 capex to pre-buy memory; Jabil authorized ~\$1.7B memory procurement (8-K),wiki/ai-financing-fragility.md (9/25 addendum)
+2026-09-25,JBL,bull,0.5,SPY,Jabil authorized ~\$1.7B memory procurement for Akamai/Anthropic build (8-K),wiki/ai-financing-fragility.md (9/25 addendum)
+2026-09-25,VLO,bull,0.5,BNO,Novoshakhtinsk refinery shut (~100kb/d export fuel) + Yanbu targeted — product tightness,wiki/war/war-board.md (9/25)
+2026-09-25,MPC,bull,0.5,BNO,Novoshakhtinsk refinery shut (~100kb/d export fuel) + Yanbu targeted — product tightness,wiki/war/war-board.md (9/25)
+2026-09-25,VLO,bull,0.5,BNO,Wright gauging refiners on a VOLUNTARY diesel-export restriction instead of a ban (ban clock #5),wiki/demand-destruction.md (9/25 ban clock #5)
+2026-09-25,MPC,bull,0.5,BNO,Wright gauging refiners on a VOLUNTARY diesel-export restriction instead of a ban (ban clock #5),wiki/demand-destruction.md (9/25 ban clock #5)
+2026-09-25,PBF,bull,0.5,BNO,Wright gauging refiners on a VOLUNTARY diesel-export restriction instead of a ban (ban clock #5),wiki/demand-destruction.md (9/25 ban clock #5)
+2026-09-25,KRE,bull,0.5,SPY,Fed to raise asset thresholds for stricter oversight — mid-size bank consolidation,wiki/rates-board.md (9/25 overnight)
+2026-09-25,DHT,bull,0.5,BWET,Gulf producers oppose a deal + Saudi-Turkey-Pakistan pact meeting; sequence/route/scope gaps (Ghaderi),wiki/war/war-board.md (9/25)
+2026-09-25,UAL,bear,0.5,BNO,Gulf producers oppose a deal + Saudi-Turkey-Pakistan pact meeting; sequence/route/scope gaps (Ghaderi),wiki/war/war-board.md (9/25)
+2026-09-25,AVGO,bear,0.5,SOXX,"ICE CDS +10bp in two days (124.3), largest IG move after ORCL",wiki/hyperscaler-credit.md (9/25)
+2026-09-25,DINO,bull,0.5,BNO,Russia diesel export ban likely extended past 9/30 + Novoshakhtinsk/Perm hit — US swing supplier,wiki/demand-destruction.md (9/25 Russia)
+2026-09-25,VLO,bull,0.5,BNO,Russia diesel export ban likely extended past 9/30 + Novoshakhtinsk/Perm hit — US swing supplier,wiki/demand-destruction.md (9/25 Russia)
+2026-09-25,MPC,bull,0.5,BNO,Russia diesel export ban likely extended past 9/30 + Novoshakhtinsk/Perm hit — US swing supplier,wiki/demand-destruction.md (9/25 Russia)
+2026-09-25,DHT,bull,1,BWET,WSJ: Trump rejects 7-day plan + keeps blockade; bombing after midterms = war extended to Nov 3,wiki/war/war-board.md (9/25 ~6:07pm)
+2026-09-25,UAL,bear,1,BNO,WSJ: Trump rejects 7-day plan + keeps blockade; bombing after midterms = war extended to Nov 3,wiki/war/war-board.md (9/25 ~6:07pm)
+2026-09-25,RTX,bull,0.5,BNO,WSJ: US munitions 'dwindling' = restock demand,wiki/war/war-board.md (9/25 ~6:07pm)
+2026-09-25,LMT,bull,0.5,BNO,WSJ: US munitions 'dwindling' = restock demand,wiki/war/war-board.md (9/25 ~6:07pm)
+2026-09-25,NOC,bull,0.5,BNO,WSJ: US munitions 'dwindling' = restock demand,wiki/war/war-board.md (9/25 ~6:07pm)
+2026-09-25,ORCL,bear,1,TLT,ORCL 5Y CDS record 235.7 (ICE) / 237 (BBG) +28bp in 4 sessions; Oracle-specific; Barclays 'neutral' refuted next day,wiki/hyperscaler-credit.md (9/25 ~9:19pm)
+2026-09-25,ORCL,bear,0.5,TLT,OpenAI pauses frontier training/eval/tool-use inference after 9/20 sandbox escape; fresh run = timeline risk to take-or-pay counterparty,wiki/ai-financing-fragility.md (9/25 ~9:37pm)
+2026-09-25,CRWV,bear,0.5,TLT,OpenAI pauses frontier training/eval/tool-use inference after 9/20 sandbox escape; fresh run = timeline risk to take-or-pay counterparty,wiki/ai-financing-fragility.md (9/25 ~9:37pm)
+2026-09-26,KRE,bear,0.5,SPY,Office CRE losses realizing (Trepp ~12%; sales ~20% below appraisal); multifamily still rising; offsets 9/24 bull,wiki/financing-fragility-gauge.md (9/26 ~8:08am)
+2026-09-26,PWR,bull,0.5,SPY,DOE SPARK $5.25B / 31 projects / ~23 GW reconductoring (time-to-power),wiki/buildout-bottleneck-map.md (9/26 addendum)
+2026-09-26,ETN,bull,0.5,SPY,DOE SPARK $5.25B / 31 projects / ~23 GW reconductoring (time-to-power),wiki/buildout-bottleneck-map.md (9/26 addendum)
+2026-09-26,GEV,bull,0.5,SPY,DOE SPARK $5.25B / 31 projects / ~23 GW reconductoring (time-to-power),wiki/buildout-bottleneck-map.md (9/26 addendum)
+2026-09-26,COHR,bull,0.5,SOXX,Bipartisan bill bars InnoLight/Eoptolink transceivers from national-security systems,wiki/compression-thesis.md (9/26)
+2026-09-26,LITE,bull,0.5,SOXX,Bipartisan bill bars InnoLight/Eoptolink transceivers from national-security systems,wiki/compression-thesis.md (9/26)
