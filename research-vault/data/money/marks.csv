@@ -198,3 +198,6 @@ date,ticker,col,weight,driver,event,pointer
 2026-09-28,ZS,bull,0.5,SPY,Certified-stack thesis: OpenAI halt + Nvidia agent-safety platform -> containment/identity layer demand,wiki/compression-thesis.md (9/28 certified stack)
 2026-09-28,OKTA,bull,0.5,SPY,Certified-stack thesis: OpenAI halt + Nvidia agent-safety platform -> containment/identity layer demand,wiki/compression-thesis.md (9/28 certified stack)
 2026-09-28,ORCL,bear,1,TLT,ORCL 5Y CDS record 250.6 (ICE) +14.9/day; priced 2-3 notches below BBB-; fallen-angel cliff; trigger = agency outlook change,wiki/hyperscaler-credit.md (9/28 ~4:18pm)
+2026-09-28,TLT,bull,0.5,TLT,FLOW (exp ~3 sessions): GS FICC ~$33B quarter-end pension equity sell / bond buy into 9/30,wiki/rates-board.md (9/28 rebalancing)
+2026-09-28,SPY,bear,0.5,SPY,FLOW (exp ~3 sessions): GS FICC ~$33B quarter-end pension equity sell into 9/30,wiki/rates-board.md (9/28 rebalancing)
+2026-09-28,AKAM,bear,0.5,SPY,Anthropic prospectus: $518B obligations vs $20B cash; IPO post-midterms — counterparty risk on the $11.6B contract,wiki/ai-financing-fragility.md (9/28 prospectus)
