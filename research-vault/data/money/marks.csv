@@ -192,3 +192,4 @@ date,ticker,col,weight,driver,event,pointer
 2026-09-27,CAT,bull,0.5,SPY,INNIO: grid waits 2y -> 7+y; hyperscalers signing 15-year BTM power contracts,wiki/buildout-bottleneck-map.md (9/27 INNIO)
 2026-09-27,WMB,bull,0.5,SPY,GS: BTM ~25% of DC power by 2030 (50-60% of new builds); WMB builds dedicated on-site power,wiki/buildout-bottleneck-map.md (9/27 GS BTM)
 2026-09-27,AEP,bear,0.5,TLT,GS: BTM bypasses regulated-utility rate-base growth (representative regulated utility),wiki/buildout-bottleneck-map.md (9/27 GS BTM)
+2026-09-28,NVDA,bull,0.5,SOXX,B300 short-term rents >$7/hr (deals >$24) — new-gen scarcity (practitioner anecdote),wiki/chips-mw-framework.md (9/28 compute trading)
