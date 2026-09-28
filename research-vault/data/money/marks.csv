@@ -195,3 +195,5 @@ date,ticker,col,weight,driver,event,pointer
 2026-09-28,NVDA,bull,0.5,SOXX,B300 short-term rents >$7/hr (deals >$24) — new-gen scarcity (practitioner anecdote),wiki/chips-mw-framework.md (9/28 compute trading)
 2026-09-28,SOXX,bull,0.5,SOXX,FLOW (exp ~5 sessions): JPM bullish semis after selloff — positioning cleaned; pricing growth into 2027,wiki/money-board.md (9/28 rule 16d-e)
 2026-09-28,MU,bull,0.5,SOXX,FLOW (exp ~5 sessions): D.A. Davidson Buy / $2000 PT reiterated into the print; Strong Buy consensus,wiki/money-board.md (9/28 rule 16d-e)
+2026-09-28,ZS,bull,0.5,SPY,Certified-stack thesis: OpenAI halt + Nvidia agent-safety platform -> containment/identity layer demand,wiki/compression-thesis.md (9/28 certified stack)
+2026-09-28,OKTA,bull,0.5,SPY,Certified-stack thesis: OpenAI halt + Nvidia agent-safety platform -> containment/identity layer demand,wiki/compression-thesis.md (9/28 certified stack)
