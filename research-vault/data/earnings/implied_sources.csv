@@ -1,0 +1,61 @@
+ticker,report_date,implied_pct,confidence,source
+NVDA,11/20/2024,7.5,low,SeekingAlpha/Saxo conflicting 6.5-8.5 (midpoint)
+NVDA,2/26/2025,10.66,high,TipRanks
+NVDA,5/28/2025,7.3,low,conflicting 6.5-8.1 (midpoint)
+NVDA,8/27/2025,6.99,high,TipRanks
+NVDA,11/19/2025,7.0,high,Reuters/ORATS
+NVDA,2/25/2026,5.6,high,Reuters
+NVDA,5/20/2026,6.5,high,Reuters
+NVDA,8/26/2026,5.4,high,Reuters
+AMD,10/29/2024,7.4,med,optionslam (also 9.75)
+AMD,2/4/2025,7.9,med,optionslam
+AMD,5/6/2025,8.2,med,optionslam
+AMD,8/5/2025,7.0,med,optionslam (SA 8.5)
+AMD,11/4/2025,6.9,med,Investing/TipRanks (6.5-7.32)
+AMD,2/3/2026,6.6,med,Yahoo/optionslam (6.1-7.04)
+AMD,5/5/2026,7.0,med,optionslam
+AMD,8/4/2026,7.8,high,Investing/Bloomberg (Benzinga 9)
+AVGO,12/12/2024,6.7,high,TipRanks/TheFly
+AVGO,6/5/2025,6.1,high,TipRanks/TheFly
+AVGO,9/4/2025,7.3,high,Reuters via Investing (agent dated 9/2 = article date)
+AVGO,6/3/2026,9.0,high,TipRanks/TheFly
+AVGO,9/2/2026,8.7,med,earnings-watcher
+MU,9/25/2024,8.7,high,TipRanks/TheFly
+MU,12/18/2024,9.0,low,conflicting 8.5-9.5 (midpoint)
+MU,9/23/2025,8.8,high,TipRanks/TheFly
+MU,6/24/2026,11.03,high,Saxo
+TSM,4/16/2026,7.13,med,TipRanks (headline 4.39 vs body 7.13)
+TSM,7/16/2026,6.65,high,Benzinga
+ASML,10/15/2024,6.43,high,TipRanks weekly
+ASML,1/29/2025,7.05,high,TipRanks
+ASML,4/16/2025,6.51,high,TipRanks
+ASML,7/16/2025,7.0,med,Saxo (~7)
+ASML,4/15/2026,7.15,med,SeekingAlpha 6.3 / Saxo ~8 (midpoint)
+ASML,7/15/2026,7.1,high,SeekingAlpha
+AMAT,11/14/2024,5.73,high,TipRanks
+AMAT,2/13/2025,5.8,high,TipRanks
+AMAT,5/15/2025,6.61,high,TipRanks (Investing 6)
+AMAT,8/14/2025,5.56,high,TipRanks
+AMAT,11/13/2025,7.18,high,TipRanks weekly
+AMAT,2/12/2026,7.4,low,TipRanks retrospective recap
+AMAT,5/14/2026,6.0,high,Investing.com
+AMAT,8/13/2026,7.5,med,Investing/Bloomberg (TipRanks 11.03)
+LRCX,10/23/2024,6.1,high,TipRanks/TheFly
+LRCX,1/29/2025,6.6,high,TipRanks/TheFly
+LRCX,4/23/2025,5.4,high,TipRanks/TheFly
+LRCX,7/30/2025,5.9,med,TipRanks roundup
+LRCX,10/22/2025,5.8,high,TipRanks/TheFly
+LRCX,1/28/2026,7.92,high,TipRanks roundup
+LRCX,4/22/2026,6.0,high,TipRanks/TheFly
+LRCX,7/29/2026,9.5,high,Investing.com
+KLAC,1/30/2025,2.6,high,TipRanks/TheFly
+KLAC,7/28/2026,20.7,high,TipRanks
+KLAC,4/29/2026,11.02,low,optionslam
+MRVL,12/3/2024,8.5,high,TipRanks/TheFly
+MRVL,3/5/2025,10.6,high,TipRanks/TheFly
+MRVL,5/29/2025,8.6,high,TipRanks/TheFly
+MRVL,8/28/2025,7.0,high,TipRanks/TheFly
+MRVL,12/2/2025,10.8,high,TipRanks/TheFly
+MRVL,3/5/2026,11.0,med,Investing.com (10-12% range midpoint)
+MRVL,5/27/2026,13.0,high,Investing.com/Bloomberg
+MRVL,8/27/2026,9.58,high,Benzinga (other snapshots 10.6-14)
