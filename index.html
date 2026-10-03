@@ -504,11 +504,6 @@ button{font:inherit; color:inherit}
 .leverage p.small{font-size:var(--fs-sm); color:var(--ink-4)}
 
 /* ---- How it works ---- */
-.how{display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr); gap:var(--s-10); align-items:center; margin-bottom:var(--s-12)}
-.how .sec-head{margin-bottom:0}
-.how > *{min-width:0}
-.elev{display:block; width:100%; max-width:560px; height:auto; aspect-ratio:640/420; margin-inline:auto; color:var(--chrome); opacity:.9}
-.elev text{font-family:var(--font-label); font-size:11px; letter-spacing:2px; fill:var(--chrome-2); stroke:none; text-transform:uppercase}
 .steps{display:grid; grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr)); gap:var(--s-8); counter-reset:step}
 .step{counter-increment:step; padding-top:var(--s-5); border-top:1px solid rgba(255,255,255,.14)}
 .step::before{content:"0" counter(step); display:block; margin-bottom:var(--s-4); font:700 var(--fs-xl)/1 var(--font-label); background:var(--grad-chrome); -webkit-background-clip:text; background-clip:text; color:transparent}
@@ -518,7 +513,6 @@ button{font:inherit; color:inherit}
 .agency{display:grid; grid-template-columns:1fr auto; gap:var(--s-8); align-items:center; margin-top:var(--s-12)}
 .agency h3{font-size:var(--fs-xl); letter-spacing:-.025em}
 .agency .pull{margin-top:var(--s-4); color:#fff; font-size:var(--fs-md); font-weight:500; letter-spacing:-.01em; border-left:1px solid var(--chrome); padding-left:16px}
-@media (max-width:899px){ .how{grid-template-columns:minmax(0,1fr)} .elev{max-width:460px} }
 @media (max-width:767px){ .agency{grid-template-columns:1fr} .agency .btn{width:100%} }
 
 /* ---- Products ---- */
@@ -812,28 +806,12 @@ button{font:inherit; color:inherit}
 <!-- HOW IT WORKS -->
 <section id="how-it-works" class="section surface-dark glow glow--gold" aria-labelledby="how-title">
   <div class="container">
-    <div class="how">
+    <div>
       <header class="sec-head">
         <p class="eyebrow" data-n="03">The INMA model</p>
         <h2 id="how-title">You hire me. I represent you.</h2>
         <p class="lede">Think of INMA like a buyer's agent &mdash; but for remodeling. I don't work for a contractor. I work for you. My job is to make sure you know exactly what your project should include and what it should cost, before you sign anything.</p>
       </header>
-      <figure class="reveal" style="--i:1; margin:0">
-        <svg class="elev" viewBox="0 0 640 420" fill="none" stroke="currentColor" stroke-width="1" aria-hidden="true" focusable="false">
-  <path d="M40 340H600" stroke-opacity=".55"/>
-  <path d="M120 166H520M120 178H520M120 190H520M120 202H520M120 214H520M120 226H520M120 238H520M120 250H520M120 262H520M120 274H520M120 286H520M120 298H520M120 310H520M120 322H520M120 334H520M281 84H359M252 96H388M222 108H418M193 120H447M164 132H476M135 144H505" stroke-opacity=".22"/>
-  <path d="M120 150V340M520 150V340" stroke-width="1.5"/>
-  <path d="M90 152L320 58L550 152" stroke-width="1.5"/>
-  <path d="M96 160L320 68L544 160" stroke-opacity=".5"/>
-  <path d="M90 152V160M550 152V160" stroke-opacity=".5"/>
-  <rect x="165" y="190" width="92" height="92" stroke-width="1.25"/>
-  <path d="M211 190V282M165 236H257" stroke-opacity=".7"/>
-  <rect x="383" y="190" width="92" height="92" stroke-width="1.25"/>
-  <path d="M429 190V282M383 236H475" stroke-opacity=".7"/>
-  <rect x="292" y="236" width="56" height="104" stroke-width="1.25"/>
-  <circle cx="338" cy="290" r="2" fill="currentColor" stroke="none"/>
-</svg>
-      </figure>
     </div>
     <div class="steps">
       <div class="step reveal"><h3>I walk your project.</h3><p>I come out as an advocate, not a bidder. We walk the project together and I build a real scope &mdash; line by line. No vague "per contract" language. No "that's not included" surprises later.</p></div>
