@@ -228,6 +228,12 @@ button{font:inherit; color:inherit}
 .btn:disabled{opacity:.5; cursor:default}
 @media (max-width:479px){ .btn:not(.btn--sm){white-space:normal; text-align:center; line-height:1.3; padding-inline:18px} }
 
+/* contact buttons (text / call / email / save contact) get pixel lettering */
+.btn[href^="sms:"],.btn[href^="tel:"],.btn[href^="mailto:"],.btn[href$=".vcf"],.btn--pixel,
+.btn--ghost[href^="sms:"],.btn--ghost[href^="tel:"],.btn--ghost[href^="mailto:"],.btn--ghost[href$=".vcf"]{font-family:'Silkscreen',var(--font-label); font-weight:400; font-size:11px; letter-spacing:.06em; text-transform:uppercase}
+.btn--lg[href^="sms:"],.btn--lg[href^="tel:"],.btn--lg[href^="mailto:"],.btn--lg.btn--pixel{font-size:12px}
+.btn--sm[href^="sms:"],.btn--sm[href^="tel:"]{font-size:10px}
+
 /* primary */
 .btn--primary{color:var(--fg,#fff); border-color:currentColor}
 .surface-dark .btn--primary,.nav .btn--primary,.ctabar .btn--primary{color:#fff; border-color:transparent}
