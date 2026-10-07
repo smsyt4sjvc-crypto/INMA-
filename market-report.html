@@ -8,10 +8,12 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-M8GD3MLRG5');
+  gtag('config', 'AW-18164206378');
   // INMA conversion events — auto-track contact CTAs
   document.addEventListener('click', function(e){
     var a = e.target.closest && e.target.closest('a[href]'); if (!a) return;
     var h = a.getAttribute('href') || '';
+    if (/^(tel:|sms:|mailto:)/.test(h) || h.indexOf('.vcf') !== -1) gtag('event', 'conversion', {'send_to': 'AW-18164206378/uY7KCNetsq0cEKqWr9VD'});
     if (h.indexOf('tel:') === 0)         gtag('event', 'phone_call',   {link_url:h});
     else if (h.indexOf('sms:') === 0)    gtag('event', 'text_message', {link_url:h});
     else if (h.indexOf('mailto:') === 0) gtag('event', 'email_click',  {link_url:h});

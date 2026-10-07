@@ -19,6 +19,13 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-VV2L4DCPC1');
+  gtag('config', 'AW-18164206378');
+  // Google Ads conversion: any call / text / email / save-contact tap
+  document.addEventListener('click', function(e){
+    var a = e.target.closest && e.target.closest('a[href]'); if (!a) return;
+    var h = a.getAttribute('href') || '';
+    if (/^(tel:|sms:|mailto:)/.test(h) || h.indexOf('.vcf') !== -1) gtag('event', 'conversion', {'send_to': 'AW-18164206378/uY7KCNetsq0cEKqWr9VD'});
+  });
   // Tag this visit as a mailer scan if no other utm_source already set
   (function(){
     var p = new URLSearchParams(location.search);
