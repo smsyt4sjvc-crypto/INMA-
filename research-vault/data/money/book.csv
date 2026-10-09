@@ -1,0 +1,7 @@
+opened,ticker,side,entry,stop,t1,t2,event_exit,status
+2026-09-23,DINO,long,106.11,100.4,116.6,123.0,flat diesel export ban fires (Fri 9/25) -> exit,open
+2026-09-23,DHT,long,21.28,20.0,23.27,25.1,verified Hormuz transits resume -> exit,open
+2026-09-23,MU,long,1071.88,995.0,1160.0,1214.0,sell into the print: exit by 9/30 close,open
+2026-09-23,UAL,short,110.72,116.7,99.6,94.1,Hormuz reopening -> cover,open
+2026-09-23,ORCL,short,144.56,154.5,130.1,118.5,SoftBank prices inside guidance AND IG OAS flat on 9/24 -> cover,open
+2026-09-23,LEN,short,81.53,86.1,75.0,70.1,7Y clears no tail AND 10Y closes < 5.0 -> cover,open
