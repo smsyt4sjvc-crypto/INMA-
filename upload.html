@@ -433,6 +433,10 @@ button{font:inherit; color:inherit}
 .aside__quote{margin-top:var(--s-6); padding:var(--s-5) var(--s-6); border-left:2px solid var(--ink); background:var(--snow)}
 .aside__quote p{font-size:var(--fs-md); line-height:1.35; color:var(--ink); font-weight:500; letter-spacing:-.01em}
 .aside__quote small{display:block; margin-top:var(--s-2); font:600 10px/1.3 var(--font-label); letter-spacing:.18em; text-transform:uppercase; color:var(--ink-4)}
+
+/* rainbow pixel drip hanging off the bottom of the hero banner */
+.drip{height:72px; background:#fff url("/pixel-drip.svg") center top / cover no-repeat; pointer-events:none}
+@media (max-width:767px){ .drip{height:48px} }
 </style>
 <script src="/inma-fb-rescue.js"></script>
 </head>
@@ -469,6 +473,7 @@ button{font:inherit; color:inherit}
       <p class="lede reveal" style="--i:2">Upload your quote below — no account needed. Jake will review it and get back to you within one business day.</p>
     </div>
   </section>
+<div class="drip" aria-hidden="true"></div>
 
   <section class="section section--sm surface-light">
     <div class="container">

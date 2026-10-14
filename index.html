@@ -663,6 +663,10 @@ button{font:inherit; color:inherit}
 .fth-success h3{font-size:var(--fs-xl); color:#fff; letter-spacing:-.025em}
 .fth-success p{margin:var(--s-3) auto 0; color:var(--cream-a70)}
 .fth-success .btn--ghost{margin-top:var(--s-5)}
+
+/* rainbow pixel drip hanging off the bottom of the hero banner */
+.drip{height:72px; background:#fff url("/pixel-drip.svg") center top / cover no-repeat; pointer-events:none}
+@media (max-width:767px){ .drip{height:48px} }
 </style>
 
 <script src="/inma-fb-rescue.js"></script>
@@ -725,6 +729,7 @@ button{font:inherit; color:inherit}
     <div class="scroll-cue" aria-hidden="true">Scroll</div>
   </div>
 </section>
+<div class="drip" aria-hidden="true"></div>
 
 <!-- TRUST STRIP -->
 <div class="trust surface-light" role="list" aria-label="Why homeowners trust INMA">

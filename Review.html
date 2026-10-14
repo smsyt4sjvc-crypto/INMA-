@@ -440,6 +440,10 @@ input[type="text"]::placeholder{color:#bbb}
 
 .review-foot{margin-top:var(--s-8); text-align:center; font-size:var(--fs-xs); color:var(--ink-4)}
 .review-foot a{color:var(--bronze); text-decoration:none; font-weight:600}
+
+/* rainbow pixel drip hanging off the bottom of the hero banner */
+.drip{height:72px; background:#fff url("/pixel-drip.svg") center top / cover no-repeat; pointer-events:none}
+@media (max-width:767px){ .drip{height:48px} }
 </style>
 </head>
 <body>
@@ -476,6 +480,7 @@ input[type="text"]::placeholder{color:#bbb}
       <p class="lede reveal" style="--i:3">Takes 30 seconds. Your feedback helps us and helps your neighbors find trusted contractors.</p>
     </div>
   </section>
+<div class="drip" aria-hidden="true"></div>
 
   <section class="section section--sm surface-light">
     <div class="container">

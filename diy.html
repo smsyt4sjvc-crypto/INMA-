@@ -453,6 +453,10 @@ table.compare-tbl tr:last-child td{border-bottom:none}
 .cta .small{margin:var(--s-8) auto 0; color:var(--cream-a55)}
 .cta .small a{color:#fff; text-decoration:none}
 @media (max-width:560px){ .cta-btns .btn{flex:1 1 100%} }
+
+/* rainbow pixel drip hanging off the bottom of the hero banner */
+.drip{height:72px; background:#fff url("/pixel-drip.svg") center top / cover no-repeat; pointer-events:none}
+@media (max-width:767px){ .drip{height:48px} }
 </style>
 <script src="/inma-fb-rescue.js"></script>
 </head>
@@ -497,6 +501,7 @@ table.compare-tbl tr:last-child td{border-bottom:none}
     <p class="hero__micro reveal" style="--i:4"><strong>I'm not a contractor. I'm your personal homeowner advocate.</strong> On a DIY job that means the same thing it always does: I work for you, not the crew doing the work — and this time the crew is you.</p>
   </div>
 </header>
+<div class="drip" aria-hidden="true"></div>
 
 <section class="section section--sm surface-light intro">
   <div class="container container--narrow">
