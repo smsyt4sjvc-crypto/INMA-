@@ -438,7 +438,8 @@ button{font:inherit; color:inherit}
 /* ==========================================================================
    v3.1 — static waterfall backdrop, chrome edges, no scroll motion
    ========================================================================== */
-.wf{position:fixed; inset:0; z-index:-2; background:#000 url("/waterfall.jpg") center top / cover no-repeat; pointer-events:none; transform:translateZ(0)}
+.wf{position:fixed; inset:0; z-index:-2; background:#000 url("/waterfall.jpg") center center / auto 100% no-repeat; pointer-events:none; transform:translateZ(0)}
+@media (max-width:899px){ .wf{background-position:center top; background-size:150% auto} }
 html{background:#09090A}
 body{background:transparent}
 .surface-dark{background:rgba(9,9,10,.84)}
