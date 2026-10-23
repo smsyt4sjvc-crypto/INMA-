@@ -434,13 +434,52 @@ button{font:inherit; color:inherit}
 .aside__quote p{font-size:var(--fs-md); line-height:1.35; color:var(--ink); font-weight:500; letter-spacing:-.01em}
 .aside__quote small{display:block; margin-top:var(--s-2); font:600 10px/1.3 var(--font-label); letter-spacing:.18em; text-transform:uppercase; color:var(--ink-4)}
 
-/* rainbow pixel drip hanging off the bottom of the hero banner */
-.drip{height:72px; background:#fff url("/pixel-drip.svg") center top / cover no-repeat; pointer-events:none}
-@media (max-width:767px){ .drip{height:48px} }
+
+/* ==========================================================================
+   v3.1 — static waterfall backdrop, chrome edges, no scroll motion
+   ========================================================================== */
+.wf{position:fixed; inset:0; z-index:-2; background:#09090A url("/waterfall.jpg") center center / cover no-repeat; pointer-events:none; transform:translateZ(0)}
+html{background:#09090A}
+body{background:transparent}
+.surface-dark{background:rgba(9,9,10,.84)}
+.surface-dark.brown{background:rgba(20,21,23,.86)}
+.surface-dark.black-2{background:rgba(14,15,17,.86)}
+.hero{background:rgba(9,9,10,.74)}
+.hero::before{display:none}
+.footer{background:rgba(9,9,10,.9)}
+.nav{background:rgba(9,9,10,.78)}
+.ctabar{background:rgba(9,9,10,.92)}
+
+/* chrome edges */
+.card,.feature,.product,.stat--boxed,.form-card,.welcome-card,.pick,.intro-box,.estimate-box,.tbl,.compare,.quote,.rate-table-wrap,.faq details,.price,.benefit,.step{
+  border:1px solid transparent;
+  background-image:linear-gradient(var(--bg-2,#141517),var(--bg-2,#141517)),linear-gradient(135deg,#F7F7F8 0%,#8E9199 22%,#E4E5E8 48%,#6E7178 72%,#D5D6DA 100%);
+  background-origin:border-box; background-clip:padding-box,border-box}
+.surface-light .card,.surface-light .feature,.product,.surface-light .stat--boxed,.form-card,.quote,.surface-light .compare,.surface-light .price,.benefit{background-image:linear-gradient(#fff,#fff),linear-gradient(135deg,#F7F7F8 0%,#8E9199 22%,#E4E5E8 48%,#6E7178 72%,#D5D6DA 100%)}
+.surface-light.alt .card,.surface-light.alt .stat--boxed{background-image:linear-gradient(#F3F3F4,#F3F3F4),linear-gradient(135deg,#F7F7F8 0%,#8E9199 22%,#E4E5E8 48%,#6E7178 72%,#D5D6DA 100%)}
+.surface-dark .card,.surface-dark .feature,.surface-dark .stat--boxed,.welcome-card,.pick,.intro-box,.estimate-box,.tbl,.rate-table-wrap{background-image:linear-gradient(rgba(20,21,23,.96),rgba(20,21,23,.96)),linear-gradient(135deg,#F7F7F8 0%,#8E9199 22%,#E4E5E8 48%,#6E7178 72%,#D5D6DA 100%)}
+.card--gold,.product--featured{background-image:linear-gradient(#09090A,#09090A),linear-gradient(135deg,#F7F7F8 0%,#A6A9B0 28%,#EEEFF1 50%,#7C7F86 74%,#D5D6DA 100%)}
+.card--gold::before{display:none}
+.step,.faq details{border-top-width:1px}
+.hud__c{width:24px; height:24px; border-width:2px; border-image:linear-gradient(135deg,#F7F7F8,#8E9199) 1}
+.nav{border-bottom:1px solid transparent; border-image:linear-gradient(90deg,transparent,#8E9199 20%,#E4E5E8 50%,#8E9199 80%,transparent) 1}
+.footer{border-top:1px solid transparent; border-image:linear-gradient(90deg,transparent,#8E9199 20%,#E4E5E8 50%,#8E9199 80%,transparent) 1}
+.btn--secondary{border:1px solid transparent; background-image:linear-gradient(rgba(9,9,10,.9),rgba(9,9,10,.9)),linear-gradient(135deg,#F7F7F8,#8E9199 40%,#D5D6DA); background-origin:border-box; background-clip:padding-box,border-box}
+.btn--secondary:hover{background-image:linear-gradient(#fff,#fff),linear-gradient(#fff,#fff); color:#000}
+.surface-light .btn--secondary{background-image:linear-gradient(#fff,#fff),linear-gradient(135deg,#6E7178,#0B0B0C 50%,#6E7178)}
+
+/* no motion: content is visible immediately; contact bar is fixed in place; nav does not resize */
+.js .reveal{opacity:1; transform:none; transition:none}
+.ctabar{transform:none; transition:none}
+.nav__inner,.nav__brand img{transition:none}
+.nav.is-scrolled .nav__inner{min-height:var(--nav-h)}
+.nav.is-scrolled .nav__brand img{width:36px; height:36px}
+.card--lift:hover{transform:none}
 </style>
 <script src="/inma-fb-rescue.js"></script>
 </head>
 <body>
+<div class="wf" aria-hidden="true"></div>
 
 <a class="skip" href="#main">Skip to content</a>
 <header class="nav" id="nav">
@@ -473,7 +512,6 @@ button{font:inherit; color:inherit}
       <p class="lede reveal" style="--i:2">Upload your contract below — no account needed. Jake reviews it line by line and sends a full written review within one business day. $75.</p>
     </div>
   </section>
-<div class="drip" aria-hidden="true"></div>
 
   <section class="section section--sm surface-light">
     <div class="container">
