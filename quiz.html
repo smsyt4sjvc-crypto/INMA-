@@ -409,14 +409,6 @@ button{font:inherit; color:inherit}
 .q-src{margin-top:var(--s-2); font-size:var(--fs-xs); color:var(--ink-4); max-width:none}
 .q-src a{color:var(--ink); font-weight:600}
 .q-pay{margin-top:var(--s-4); padding:var(--s-4) var(--s-5); background:var(--snow); border-left:2px solid var(--ink); font-weight:500; color:var(--ink); max-width:none}
-.q-win{display:none; margin-top:var(--s-5); padding:var(--s-5); background:#0B0B0C; color:#fff; border-radius:4px}
-.q-win.show{display:block}
-.q-win__t{font-weight:600; letter-spacing:-.01em; color:#fff; max-width:none; margin-bottom:var(--s-4)}
-.q-win .btn--primary{color:#fff; border-color:#fff}
-.q-win .btn--primary:hover{background:#fff; color:#000}
-.q-win .btn--secondary{color:rgba(255,255,255,.8); background-image:linear-gradient(#0B0B0C,#0B0B0C),linear-gradient(135deg,#F7F7F8,#8E9199 40%,#D5D6DA)}
-.q-win .btn--secondary:hover{color:#000}
-@media (max-width:479px){ .q-win .btn-row .btn{flex:1 1 100%} }
 .q-next{margin-top:var(--s-5); display:flex; justify-content:flex-end}
 .q-done{display:none; text-align:center}
 .q-done.show{display:block}
@@ -469,6 +461,14 @@ body{background:transparent}
 .nav.is-scrolled .nav__inner{min-height:var(--nav-h)}
 .nav.is-scrolled .nav__brand img{width:36px; height:36px}
 .card--lift:hover{transform:none}
+.q-win{display:none; margin-top:var(--s-5); padding:var(--s-5); background:#0B0B0C; color:#fff; border-radius:4px}
+.q-win.show{display:block}
+.q-win__t{font-weight:600; letter-spacing:-.01em; color:#fff; max-width:none; margin-bottom:var(--s-4)}
+.q-win .btn--primary{color:#fff; border-color:#fff}
+.q-win .btn--primary:hover{background:#fff; color:#000}
+.surface-light .q-win .btn--secondary{color:rgba(255,255,255,.85); background-image:linear-gradient(#0B0B0C,#0B0B0C),linear-gradient(135deg,#F7F7F8,#8E9199 40%,#D5D6DA)}
+.surface-light .q-win .btn--secondary:hover{color:#000; background-image:linear-gradient(#fff,#fff),linear-gradient(#fff,#fff)}
+@media (max-width:479px){ .q-win .btn-row .btn{flex:1 1 100%} }
 </style>
 <script src="/inma-fb-rescue.js"></script>
 </head>
