@@ -464,6 +464,8 @@ body{background:transparent}
 .q-win{display:none; margin-top:var(--s-5); padding:var(--s-5); background:#0B0B0C; color:#fff; border-radius:4px}
 .q-win.show{display:block}
 .q-win__t{font-weight:600; letter-spacing:-.01em; color:#fff; max-width:none; margin-bottom:var(--s-4)}
+.q-win__s{margin-top:var(--s-4); font-size:var(--fs-sm); color:rgba(255,255,255,.65); max-width:none}
+.q-win__s a{color:#fff; font-weight:600}
 .q-win .btn--primary{color:#fff; border-color:#fff}
 .q-win .btn--primary:hover{background:#fff; color:#000}
 .surface-light .q-win .btn--secondary{color:rgba(255,255,255,.85); background-image:linear-gradient(#0B0B0C,#0B0B0C),linear-gradient(135deg,#F7F7F8,#8E9199 40%,#D5D6DA)}
@@ -522,12 +524,13 @@ body{background:transparent}
             <p class="q-src" id="qSrc"></p>
             <p class="q-pay" id="qPay"></p>
             <div class="q-win" id="qWin">
-              <p class="q-win__t">You got it. Want the real number for your house?</p>
+              <p class="q-win__t" id="qWinT">You got it. Want the real number for your house?</p>
               <div class="btn-row">
                 <a class="btn btn--primary" id="qWinText" href="sms:5092517792?body=I%20got%20a%20question%20right%20on%20the%20INMA%20homeowner%20quiz.%20I%27d%20like%20to%20talk%20about%20my%20project.">Text Jake</a>
                 <a class="btn btn--secondary" id="qWinMail" href="mailto:jake@inmagent.com?subject=Homeowner%20quiz&body=I%20got%20a%20question%20right%20on%20the%20INMA%20homeowner%20quiz.%20I%27d%20like%20to%20talk%20about%20my%20project.">Email Jake</a>
                 <a class="btn btn--secondary" href="/upload.html">$75 estimate review</a>
               </div>
+              <p class="q-win__s">Go back to the post and comment your answer. Then see what else is on <a href="/">inmagent.com</a>.</p>
             </div>
             <div class="q-next"><button class="btn btn--primary" id="qNext" type="button">Next question &rarr;</button></div>
           </div>
@@ -570,8 +573,9 @@ body{background:transparent}
     $('qFact').textContent=q.f;
     $('qSrc').innerHTML='Source: '+q.src.map(function(s){ var a=document.createElement('a'); a.href=s[1]; a.target='_blank'; a.rel='noopener'; a.textContent=s[0]; return a.outerHTML; }).join(', ');
     $('qPay').textContent=q.p; $('qScore').textContent='Score '+score; $('qReveal').classList.add('show');
-    $('qWin').classList.toggle('show',right);
-    if(right){ var m=encodeURIComponent('I got question '+(i+1)+' right on the INMA homeowner quiz. I\'d like to talk about my project.'); $('qWinText').href='sms:5092517792?body='+m; $('qWinMail').href='mailto:jake@inmagent.com?subject='+encodeURIComponent('Homeowner quiz')+'&body='+m; }
+    $('qWin').classList.add('show');
+    $('qWinT').textContent = right ? 'You got it. Want the real number for your house?' : 'Most people miss that one. Want the real number for your house?';
+    var m=encodeURIComponent('I took the INMA homeowner quiz (question '+(i+1)+'). I\'d like to talk about my project.'); $('qWinText').href='sms:5092517792?body='+m; $('qWinMail').href='mailto:jake@inmagent.com?subject='+encodeURIComponent('Homeowner quiz')+'&body='+m;
     if(window.gtag){ try{ gtag('event','quiz_answer',{question:i+1,correct:right}); }catch(e){} }
   }
   $('qNext').addEventListener('click',function(){
