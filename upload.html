@@ -461,7 +461,6 @@ body{background:transparent}
 .surface-dark .card,.surface-dark .feature,.surface-dark .stat--boxed,.welcome-card,.pick,.intro-box,.estimate-box,.tbl,.rate-table-wrap{background-image:linear-gradient(rgba(20,21,23,.96),rgba(20,21,23,.96)),linear-gradient(135deg,#F7F7F8 0%,#8E9199 22%,#E4E5E8 48%,#6E7178 72%,#D5D6DA 100%)}
 .card--gold,.product--featured{background-image:linear-gradient(#09090A,#09090A),linear-gradient(135deg,#F7F7F8 0%,#A6A9B0 28%,#EEEFF1 50%,#7C7F86 74%,#D5D6DA 100%)}
 .card--gold::before{display:none}
-.step,.faq details{border-top-width:1px}
 .hud__c{width:24px; height:24px; border-width:2px; border-image:linear-gradient(135deg,#F7F7F8,#8E9199) 1}
 .nav{border-bottom:1px solid transparent; border-image:linear-gradient(90deg,transparent,#8E9199 20%,#E4E5E8 50%,#8E9199 80%,transparent) 1}
 .footer{border-top:1px solid transparent; border-image:linear-gradient(90deg,transparent,#8E9199 20%,#E4E5E8 50%,#8E9199 80%,transparent) 1}
@@ -487,6 +486,12 @@ body{background:transparent}
 .btn[href^="sms:"] svg,.btn[href^="tel:"] svg,.btn[href^="mailto:"] svg,.btn[href$=".vcf"] svg,.btn--pixel svg,
 .btn--ghost[href^="sms:"] svg,.btn--ghost[href^="tel:"] svg,.btn--ghost[href^="mailto:"] svg,.btn--ghost[href$=".vcf"] svg{stroke:#C9CBD0}
 .btn[href^="sms:"]::before,.btn[href^="tel:"]::before,.btn[href^="mailto:"]::before,.btn--pixel::before{display:none}
+
+/* steps + faq as real cards */
+.step{padding:var(--card-pad) !important; border-width:2px !important; border-radius:6px; margin:0}
+.faq details{padding:18px 22px !important; border-width:2px !important; border-radius:6px; margin-bottom:12px}
+.faq details:last-child{border-bottom-width:2px !important}
+.faq details p{margin-left:0 !important}
 </style>
 <script src="/inma-fb-rescue.js"></script>
 </head>
