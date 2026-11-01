@@ -478,6 +478,17 @@ body{background:transparent}
 .nav.is-scrolled .nav__inner{min-height:var(--nav-h)}
 .nav.is-scrolled .nav__brand img{width:36px; height:36px}
 .card--lift:hover{transform:none}
+
+/* ---- pixel lettering = rainbow ---- */
+.btn[href^="sms:"],.btn[href^="tel:"],.btn[href^="mailto:"],.btn[href$=".vcf"],.btn--pixel,
+.btn--ghost[href^="sms:"],.btn--ghost[href^="tel:"],.btn--ghost[href^="mailto:"],.btn--ghost[href$=".vcf"]{
+  background:linear-gradient(90deg,#FF2D2D 0%,#FF7A1A 16%,#FFC21A 32%,#7BD93A 48%,#18C9B5 62%,#2E8BFF 76%,#7A4DFF 88%,#D63BD8 100%) !important; -webkit-background-clip:text !important; background-clip:text !important; color:transparent !important; -webkit-text-fill-color:transparent;
+  border:1px solid #8E9199 !important}
+.btn--ghost[href^="sms:"],.btn--ghost[href^="tel:"],.btn--ghost[href^="mailto:"],.btn--ghost[href$=".vcf"]{border:0 !important; border-bottom:1px solid #8E9199 !important}
+.btn[href^="sms:"]:hover,.btn[href^="tel:"]:hover,.btn[href^="mailto:"]:hover,.btn[href$=".vcf"]:hover,.btn--pixel:hover{border-color:#fff !important}
+.btn[href^="sms:"] svg,.btn[href^="tel:"] svg,.btn[href^="mailto:"] svg,.btn[href$=".vcf"] svg,.btn--pixel svg,
+.btn--ghost[href^="sms:"] svg,.btn--ghost[href^="tel:"] svg,.btn--ghost[href^="mailto:"] svg,.btn--ghost[href$=".vcf"] svg{stroke:#C9CBD0}
+.btn[href^="sms:"]::before,.btn[href^="tel:"]::before,.btn[href^="mailto:"]::before,.btn--pixel::before{display:none}
 </style>
 
 </head>
