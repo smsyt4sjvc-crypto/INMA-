@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#09090A">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="INMA Receipt">
+<link rel="apple-touch-icon" href="/icon-R.png">
+<link rel="icon" type="image/png" href="/icon-R.png">
+<link rel="manifest" href="/receipt-manifest.json">
+<title>Receipt — INMA</title>
+<style>
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{background:#09090A;color:#111;font-family:'Helvetica Neue',Arial,sans-serif;-webkit-font-smoothing:antialiased}
+.bar{position:sticky;top:0;z-index:10;display:flex;gap:8px;justify-content:center;flex-wrap:wrap;padding:12px 14px calc(12px + env(safe-area-inset-top));background:rgba(9,9,10,.92);border-bottom:1px solid rgba(255,255,255,.14)}
+.bar button{font:600 11px/1 'Helvetica Neue',Arial,sans-serif;letter-spacing:.14em;text-transform:uppercase;background:transparent;color:#fff;border:1px solid #8E9199;border-radius:3px;padding:12px 16px;cursor:pointer}
+.bar button.pri{background:#fff;color:#000;border-color:#fff}
+.bar .hint{width:100%;text-align:center;font-size:11px;color:rgba(255,255,255,.5);margin-top:2px}
+.sheet{background:#FFFDF8;width:8.5in;max-width:100%;min-height:11in;margin:16px auto 40px;padding:.5in .55in;box-shadow:0 10px 40px rgba(0,0,0,.5);font-size:11pt;line-height:1.45}
+[contenteditable]{min-width:1em;outline:none;border-bottom:1px solid #C9C1AE;padding:2px 2px}
+[contenteditable]:focus{background:#FFF8DF;border-bottom-color:#111}
+[contenteditable]:empty::before{content:attr(data-ph);color:#A39C8F}
+.lh{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;padding-bottom:12px;border-bottom:3px solid #111;margin-bottom:18px}
+.lh .brand{display:flex;align-items:center;gap:12px}
+.lh img{width:64px;height:64px;border-radius:10px;border:1px solid #E4DED2;object-fit:cover}
+.lh .word{font-size:30px;font-weight:800;letter-spacing:3px;line-height:1}
+.lh .tag{font-size:10px;text-transform:uppercase;letter-spacing:1.5px;color:#666;margin-top:5px}
+.lh .doc{text-align:right}
+.lh .doc .t{font-size:24px;font-weight:700;letter-spacing:5px;text-transform:uppercase}
+.lh .doc .meta{margin-top:8px;font-size:11px;color:#444;display:grid;gap:4px;justify-items:end}
+.lh .doc .meta span{display:inline-block;min-width:120px;text-align:right}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-bottom:18px}
+.lbl{font-size:9px;text-transform:uppercase;letter-spacing:2px;color:#777;font-weight:700;margin-bottom:6px}
+.fld{display:block;width:100%;font-size:12px;margin-bottom:4px}
+.bar-h{background:#111;color:#F5F2ED;font-size:10px;text-transform:uppercase;letter-spacing:2px;font-weight:700;padding:8px 10px;border-radius:3px;margin:16px 0 8px}
+.svc{min-height:3.2in;border:1px solid #E4DED2;border-left:2px solid #111;padding:12px 14px;background:repeating-linear-gradient(#FFFDF8 0 27px,#DAD3C1 27px 28px);line-height:28px;white-space:pre-wrap}
+.svc[contenteditable]{border-bottom:1px solid #E4DED2}
+.totals{margin-top:18px;margin-left:auto;width:min(100%,320px);display:grid;gap:0}
+.totals .row{display:flex;justify-content:space-between;align-items:baseline;padding:8px 10px;border-bottom:1px solid #E4DED2;font-size:12px}
+.totals .row .l{font-size:9px;text-transform:uppercase;letter-spacing:2px;color:#777;font-weight:700}
+.totals .row .v{display:flex;align-items:baseline;gap:2px;font-variant-numeric:tabular-nums;font-weight:600}
+.totals .row .v [contenteditable]{min-width:70px;text-align:right}
+.totals .row.bal{background:#F2EEE4;border-bottom:0;padding:12px 10px;margin-top:2px;border-radius:3px}
+.totals .row.bal .l{color:#111}
+.totals .row.bal .v{font-size:18px;font-weight:800}
+.stamp{display:inline-block;margin-top:16px;padding:6px 14px;border:2px solid #111;border-radius:3px;font-size:11px;letter-spacing:3px;text-transform:uppercase;font-weight:800;cursor:pointer;user-select:none}
+.stamp.off{opacity:.25;border-style:dashed}
+.note{margin-top:22px;font-size:10.5px;color:#444;line-height:1.5}
+.sigs{display:grid;grid-template-columns:1fr 1fr;gap:28px;margin-top:26px}
+.sigs .s{border-top:1px solid #111;padding-top:6px;font-size:9px;text-transform:uppercase;letter-spacing:2px;color:#777;font-weight:700}
+.foot{margin-top:28px;padding-top:10px;border-top:1px solid #E4DED2;font-size:9px;color:#8A857E;text-align:center}
+@media print{
+  @page{size:letter;margin:0}
+  body{background:#fff}.bar{display:none}
+  .sheet{margin:0;box-shadow:none;min-height:11in}
+  [contenteditable]{border-bottom-color:transparent}
+  [contenteditable]:empty::before{content:''}
+  .svc{background:#fff;border:1px solid #E4DED2;border-left:2px solid #111}
+  .stamp.off{display:none}
+}
+@media screen and (max-width:900px){.sheet{width:100%;margin:0 0 40px;padding:20px 16px}.two,.sigs{grid-template-columns:1fr}.lh{flex-direction:column;align-items:flex-start}.lh .doc,.lh .doc .meta{text-align:left;justify-items:start}.totals{width:100%}}
+</style>
+</head>
+<body>
+
+<div class="bar">
+  <button class="pri" onclick="window.print()">Print / Save PDF</button>
+  <button onclick="document.getElementById('vcf').click()">Import contact</button>
+  <button id="modeBtn" onclick="toggleMode()">Switch to Invoice</button>
+  <button onclick="newDoc()">+ New</button>
+  <input type="file" id="vcf" accept=".vcf,text/vcard,text/x-vcard" style="display:none">
+  <div class="hint">Tap any line and type. Saves on your phone as you go.</div>
+</div>
+
+<div class="sheet" id="sheet">
+  <div class="lh">
+    <div class="brand">
+      <img src="/bear-logo.jpg" alt="">
+      <div><div class="word">INMA</div><div class="tag">Your Personal Homeowner Advocate</div></div>
+    </div>
+    <div class="doc">
+      <div class="t" id="docTitle">Receipt</div>
+      <div class="meta">
+        <span>No. <b contenteditable data-k="num" data-ph="0001"></b></span>
+        <span>Date <b contenteditable data-k="date" data-ph="Nov 4, 2026"></b></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="two">
+    <div>
+      <div class="lbl">Bill to</div>
+      <div class="fld" contenteditable data-k="cname" data-ph="Customer name"></div>
+      <div class="fld" contenteditable data-k="cphone" data-ph="Phone"></div>
+      <div class="fld" contenteditable data-k="cemail" data-ph="Email"></div>
+    </div>
+    <div>
+      <div class="lbl">Project address</div>
+      <div class="fld" contenteditable data-k="addr1" data-ph="Street"></div>
+      <div class="fld" contenteditable data-k="addr2" data-ph="City, State ZIP"></div>
+    </div>
+  </div>
+
+  <div class="bar-h">Service</div>
+  <div class="svc" contenteditable data-k="svc" data-ph="Describe the service performed, the product, and anything the customer should keep for their records."></div>
+
+  <div class="totals">
+    <div class="row"><span class="l">Total</span><span class="v">$<span contenteditable inputmode="decimal" data-k="total" data-ph="0.00"></span></span></div>
+    <div class="row"><span class="l">Paid</span><span class="v">$<span contenteditable inputmode="decimal" data-k="paid" data-ph="0.00"></span></span></div>
+    <div class="row"><span class="l">Method</span><span class="v"><span contenteditable data-k="method" data-ph="Cash / Check / Card"></span></span></div>
+    <div class="row bal"><span class="l">Balance due</span><span class="v">$<span id="bal">0.00</span></span></div>
+  </div>
+  <div style="text-align:right"><span class="stamp off" id="stamp" onclick="toggleStamp()">Paid in full</span></div>
+
+  <div class="note" contenteditable data-k="note" data-ph="Notes (optional)"></div>
+
+  <div class="sigs">
+    <div class="s">Jake Bishop · INMA</div>
+    <div class="s">Customer</div>
+  </div>
+
+  <div class="foot"><b>INMA</b> · Inland Northwest Marketing Affiliates · Spokane, WA · WA UBI #606 027 063 · inmagent.com · (509) 251-7792 · jake@inmagent.com</div>
+</div>
+
+<script>
+(function(){
+  var KEY='inma_receipt_v1', F=document.querySelectorAll('[data-k]');
+  var state=JSON.parse(localStorage.getItem(KEY)||'{}');
+  function num(v){ v=String(v||'').replace(/[^0-9.\-]/g,''); var n=parseFloat(v); return isNaN(n)?0:n; }
+  function fmt(n){ return n.toLocaleString('en-US',{minimumFractionDigits:2,maximumFractionDigits:2}); }
+  function calc(){
+    var t=num(get('total')), p=num(get('paid')), b=Math.max(0,t-p);
+    document.getElementById('bal').textContent=fmt(b);
+    if(state.stampAuto!==false){ setStamp(t>0 && b===0); }
+  }
+  function get(k){ var el=document.querySelector('[data-k="'+k+'"]'); return el?el.textContent.trim():''; }
+  function save(){ F.forEach(function(el){ state[el.dataset.k]=el.textContent; }); state.mode=mode; localStorage.setItem(KEY,JSON.stringify(state)); }
+  function load(){ F.forEach(function(el){ if(state[el.dataset.k]) el.textContent=state[el.dataset.k]; }); mode=state.mode||'Receipt'; applyMode(); if(state.stamp!=null) setStamp(state.stamp,true); calc(); }
+  F.forEach(function(el){
+    el.addEventListener('input',function(){ calc(); save(); });
+    el.addEventListener('blur',function(){ if(el.dataset.k==='total'||el.dataset.k==='paid'){ var n=num(el.textContent); if(el.textContent.trim()) el.textContent=fmt(n); calc(); save(); } });
+    el.addEventListener('keydown',function(e){ if(e.key==='Enter' && el.dataset.k!=='svc' && el.dataset.k!=='note'){ e.preventDefault(); el.blur(); } });
+    el.addEventListener('paste',function(e){ e.preventDefault(); document.execCommand('insertText',false,(e.clipboardData||window.clipboardData).getData('text')); });
+  });
+  var mode='Receipt';
+  function applyMode(){ document.getElementById('docTitle').textContent=mode; document.getElementById('modeBtn').textContent='Switch to '+(mode==='Receipt'?'Invoice':'Receipt'); document.title=mode+' — INMA'; }
+  window.toggleMode=function(){ mode=mode==='Receipt'?'Invoice':'Receipt'; applyMode(); save(); };
+  function setStamp(on,quiet){ document.getElementById('stamp').classList.toggle('off',!on); if(!quiet){ state.stamp=on; } }
+  window.toggleStamp=function(){ var on=document.getElementById('stamp').classList.contains('off'); state.stampAuto=false; state.stamp=on; setStamp(on,true); save(); };
+  window.newDoc=function(){
+    if(!confirm('Clear this '+mode.toLowerCase()+' and start a new one?')) return;
+    var n=(parseInt(get('num'),10)||0)+1; F.forEach(function(el){ el.textContent=''; });
+    state={mode:mode}; document.querySelector('[data-k="num"]').textContent=String(n).padStart(4,'0');
+    document.querySelector('[data-k="date"]').textContent=new Date().toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'});
+    setStamp(false,true); calc(); save();
+  };
+  // first run defaults
+  if(!state.date){ document.querySelector('[data-k="date"]').textContent=new Date().toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'}); }
+  if(!state.num){ document.querySelector('[data-k="num"]').textContent='0001'; }
+  load();
+
+  /* contact import (.vcf) — same parser as the Offer Sheet builder */
+  document.getElementById('vcf').addEventListener('change',function(e){
+    var f=e.target.files&&e.target.files[0]; if(!f) return; var r=new FileReader();
+    r.onload=function(){ var c=parseVCard(String(r.result)); if(c.name) set('cname',c.name); if(c.phone) set('cphone',c.phone); if(c.email) set('cemail',c.email); if(c.address) set('addr1',c.address); if(c.cityStateZip) set('addr2',c.cityStateZip); save(); e.target.value=''; };
+    r.readAsText(f);
+  });
+  function set(k,v){ var el=document.querySelector('[data-k="'+k+'"]'); if(el) el.textContent=v; }
+  function qp(v){ try{ return v.replace(/=([0-9A-F]{2})/gi,function(m,h){return String.fromCharCode(parseInt(h,16));}); }catch(e){ return v; } }
+  function cl(x){ return String(x==null?'':x).replace(/\\n/gi,' ').replace(/\\,/g,',').replace(/\\;/g,';').trim(); }
+  function parseVCard(text){
+    var out={}, best=-1;
+    var u=String(text).replace(/=\r?\n/g,'').replace(/\r\n[ \t]/g,'').replace(/\n[ \t]/g,'');
+    u.split(/\r\n|\n|\r/).forEach(function(line){
+      var i=line.indexOf(':'); if(i<0) return; var rawKey=line.slice(0,i); var key=rawKey.split(';')[0];
+      if(key.indexOf('.')>=0) key=key.slice(key.indexOf('.')+1); key=key.toUpperCase(); var val=line.slice(i+1);
+      if(/ENCODING=QUOTED-PRINTABLE/i.test(rawKey)) val=qp(val);
+      if(key==='FN'&&!out.name) out.name=cl(val);
+      else if(key==='N'&&!out.name){ var p=val.split(';'); out.name=cl((p[1]||'')+' '+(p[0]||'')); }
+      else if(key==='TEL'&&!out.phone) out.phone=cl(val.replace(/^tel:/i,''));
+      else if(key==='EMAIL'&&!out.email) out.email=cl(val.replace(/^mailto:/i,''));
+      else if(key==='ADR'){ var a=val.split(';').map(cl); var street=a[2]||''; var csz=[a[3],a[4],a[5]].filter(Boolean).join(', ').replace(/,\s*(\d{5}(-\d{4})?)$/,' $1');
+        if(!street&&!csz) street=a.filter(Boolean).join(', '); var sc=(street?2:0)+(csz?1:0)+a.filter(Boolean).length;
+        if((street||csz)&&sc>best){ best=sc; out.address=street; out.cityStateZip=csz; } }
+    });
+    return out;
+  }
+})();
+</script>
+<script src="/inma-fb-rescue.js"></script>
+</body>
+</html>

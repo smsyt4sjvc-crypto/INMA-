@@ -1,0 +1,12 @@
+{
+  "name": "INMA Receipt",
+  "short_name": "INMA Receipt",
+  "start_url": "/receipt.html",
+  "display": "standalone",
+  "background_color": "#09090A",
+  "theme_color": "#09090A",
+  "orientation": "any",
+  "icons": [
+    { "src": "/icon-R.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
