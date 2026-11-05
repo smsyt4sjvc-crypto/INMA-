@@ -21,7 +21,7 @@ body{background:#09090A;color:#111;font-family:'Helvetica Neue',Arial,sans-serif
 .bar button.pri{background:#fff;color:#000;border-color:#fff}
 .bar .hint{width:100%;text-align:center;font-size:11px;color:rgba(255,255,255,.5);margin-top:2px}
 .sheet{background:#FFFDF8;width:8.5in;max-width:100%;min-height:11in;margin:16px auto 40px;padding:.5in .55in;box-shadow:0 10px 40px rgba(0,0,0,.5);font-size:11pt;line-height:1.45}
-[contenteditable]{min-width:1em;outline:none;border-bottom:1px solid #C9C1AE;padding:2px 2px}
+[contenteditable]{min-width:1em;min-height:1.4em;outline:none;border-bottom:1px solid #C9C1AE;padding:2px 2px}
 [contenteditable]:focus{background:#FFF8DF;border-bottom-color:#111}
 [contenteditable]:empty::before{content:attr(data-ph);color:#A39C8F}
 .lh{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;padding-bottom:12px;border-bottom:3px solid #111;margin-bottom:18px}
@@ -47,6 +47,17 @@ body{background:#09090A;color:#111;font-family:'Helvetica Neue',Arial,sans-serif
 .totals .row.bal{background:#F2EEE4;border-bottom:0;padding:12px 10px;margin-top:2px;border-radius:3px}
 .totals .row.bal .l{color:#111}
 .totals .row.bal .v{font-size:18px;font-weight:800}
+.est{display:none}
+body.est .est{display:block}
+body.est #payTotals,body.est #stampWrap{display:none}
+.items{display:grid;gap:0;border:1px solid #E4DED2;border-radius:3px;overflow:hidden}
+.item{display:grid;grid-template-columns:1fr 92px 28px;gap:8px;align-items:center;padding:8px 10px;border-bottom:1px solid #EDE8E0;font-size:12px}
+.item:last-child{border-bottom:0}
+.item [contenteditable]{border-bottom:0;padding:4px 2px}
+.item .amt{text-align:right;font-variant-numeric:tabular-nums;font-weight:600}
+.item .x{width:28px;height:28px;border:1px solid #ddd;border-radius:5px;background:#F5F2ED;font-size:13px;cursor:pointer;color:#777;font-family:inherit}
+.addrow{margin-top:8px;font:600 10px/1 'Helvetica Neue',Arial,sans-serif;letter-spacing:.14em;text-transform:uppercase;background:#fff;border:1px solid #111;border-radius:3px;padding:9px 14px;cursor:pointer}
+.valid{margin-top:12px;font-size:10.5px;color:#444;line-height:1.5;padding:8px 10px;border-left:2px solid #111;background:#F5F2ED}
 .stamp{display:inline-block;margin-top:16px;padding:6px 14px;border:2px solid #111;border-radius:3px;font-size:11px;letter-spacing:3px;text-transform:uppercase;font-weight:800;cursor:pointer;user-select:none}
 .stamp.off{opacity:.25;border-style:dashed}
 .note{margin-top:22px;font-size:10.5px;color:#444;line-height:1.5}
@@ -60,7 +71,8 @@ body{background:#09090A;color:#111;font-family:'Helvetica Neue',Arial,sans-serif
 body.pdfing [contenteditable]{border-bottom-color:transparent}
 body.pdfing [contenteditable]:empty::before{content:''}
 body.pdfing .svc{background:#fff}
-body.pdfing .stamp.off,body.pdfing .sig-clear,body.pdfing .sig-hint{display:none}
+body.pdfing .stamp.off,body.pdfing .sig-clear,body.pdfing .sig-hint,body.pdfing .item .x,body.pdfing .addrow{display:none}
+body.pdfing .item{grid-template-columns:1fr 92px}
 @media print{
   @page{size:letter;margin:0}
   body{background:#fff}.bar{display:none}
@@ -70,6 +82,8 @@ body.pdfing .stamp.off,body.pdfing .sig-clear,body.pdfing .sig-hint{display:none
   .svc{background:#fff;border:1px solid #E4DED2;border-left:2px solid #111}
   .stamp.off{display:none}
   .sig-clear,.sig-hint{display:none}
+  .item .x,.addrow{display:none}
+  .item{grid-template-columns:1fr 92px}
 }
 @media screen and (max-width:900px){.sheet{width:100%;margin:0 0 40px;padding:20px 16px}.two,.sigs{grid-template-columns:1fr}.lh{flex-direction:column;align-items:flex-start}.lh .doc,.lh .doc .meta{text-align:left;justify-items:start}.totals{width:100%}}
 </style>
@@ -115,16 +129,28 @@ body.pdfing .stamp.off,body.pdfing .sig-clear,body.pdfing .sig-hint{display:none
     </div>
   </div>
 
-  <div class="bar-h">Service</div>
-  <div class="svc" contenteditable data-k="svc" data-ph="Describe the service performed, the product, and anything the customer should keep for their records."></div>
+  <div class="bar-h" id="svcHead">Service</div>
+  <div class="svc" id="svcBox" contenteditable data-k="svc" data-ph="Describe the service performed, the product, and anything the customer should keep for their records."></div>
 
-  <div class="totals">
+  <div class="est" id="estBlock">
+    <div class="bar-h">Line items</div>
+    <div class="items" id="items"></div>
+    <button type="button" class="addrow" onclick="addItem()">+ Add line</button>
+    <div class="totals est-totals">
+      <div class="row"><span class="l">Subtotal</span><span class="v">$<span id="estSub">0.00</span></span></div>
+      <div class="row"><span class="l">Tax</span><span class="v">$<span contenteditable inputmode="decimal" data-k="tax" data-ph="0.00"></span></span></div>
+      <div class="row bal"><span class="l">Estimate total</span><span class="v">$<span id="estTotal">0.00</span></span></div>
+    </div>
+    <div class="valid">Good for 30 days from the date above. Estimate of fair-market cost for the scope described. Not a bid.</div>
+  </div>
+
+  <div class="totals" id="payTotals">
     <div class="row"><span class="l">Total</span><span class="v">$<span contenteditable inputmode="decimal" data-k="total" data-ph="0.00"></span></span></div>
     <div class="row"><span class="l">Paid</span><span class="v">$<span contenteditable inputmode="decimal" data-k="paid" data-ph="0.00"></span></span></div>
     <div class="row"><span class="l">Method</span><span class="v"><span contenteditable data-k="method" data-ph="Cash / Check / Card"></span></span></div>
     <div class="row bal"><span class="l">Balance due</span><span class="v">$<span id="bal">0.00</span></span></div>
   </div>
-  <div style="text-align:right"><span class="stamp off" id="stamp" onclick="toggleStamp()">Paid in full</span></div>
+  <div style="text-align:right" id="stampWrap"><span class="stamp off" id="stamp" onclick="toggleStamp()">Paid in full</span></div>
 
   <div class="note" contenteditable data-k="note" data-ph="Notes (optional)"></div>
 
@@ -191,25 +217,51 @@ window.addEventListener('load',function(){ ['sigInma','sigCust'].forEach(initSig
     var t=num(get('total')), p=num(get('paid')), b=Math.max(0,t-p);
     document.getElementById('bal').textContent=fmt(b);
     if(state.stampAuto!==false){ setStamp(t>0 && b===0); }
+    var sub=0; items.forEach(function(it){ sub+=num(it.a); }); var tax=num(get('tax'));
+    document.getElementById('estSub').textContent=fmt(sub); document.getElementById('estTotal').textContent=fmt(sub+tax);
   }
   function get(k){ var el=document.querySelector('[data-k="'+k+'"]'); return el?el.textContent.trim():''; }
-  function save(){ F.forEach(function(el){ state[el.dataset.k]=el.textContent; }); state.mode=mode; localStorage.setItem(KEY,JSON.stringify(state)); }
-  function load(){ F.forEach(function(el){ if(state[el.dataset.k]) el.textContent=state[el.dataset.k]; }); mode=state.mode||'Receipt'; applyMode(); if(state.stamp!=null) setStamp(state.stamp,true); calc(); }
+  function save(){ F.forEach(function(el){ state[el.dataset.k]=el.textContent; }); state.mode=mode; state.items=items; localStorage.setItem(KEY,JSON.stringify(state)); }
+  function load(){ F.forEach(function(el){ if(state[el.dataset.k]) el.textContent=state[el.dataset.k]; }); mode=state.mode||'Receipt'; items=(state.items&&state.items.length)?state.items:[{d:'',a:''}]; renderItems(); applyMode(); if(state.stamp!=null) setStamp(state.stamp,true); calc(); }
   F.forEach(function(el){
     el.addEventListener('input',function(){ calc(); save(); });
-    el.addEventListener('blur',function(){ if(el.dataset.k==='total'||el.dataset.k==='paid'){ var n=num(el.textContent); if(el.textContent.trim()) el.textContent=fmt(n); calc(); save(); } });
+    el.addEventListener('blur',function(){ if(el.dataset.k==='total'||el.dataset.k==='paid'||el.dataset.k==='tax'){ var n=num(el.textContent); if(el.textContent.trim()) el.textContent=fmt(n); calc(); save(); } });
     el.addEventListener('keydown',function(e){ if(e.key==='Enter' && el.dataset.k!=='svc' && el.dataset.k!=='note'){ e.preventDefault(); el.blur(); } });
     el.addEventListener('paste',function(e){ e.preventDefault(); document.execCommand('insertText',false,(e.clipboardData||window.clipboardData).getData('text')); });
   });
-  var mode='Receipt';
-  function applyMode(){ document.getElementById('docTitle').textContent=mode; document.getElementById('modeBtn').textContent='Switch to '+(mode==='Receipt'?'Invoice':'Receipt'); document.title=mode+' — INMA'; }
-  window.toggleMode=function(){ mode=mode==='Receipt'?'Invoice':'Receipt'; applyMode(); save(); };
+  var MODES=['Receipt','Invoice','Estimate'], mode='Receipt';
+  function applyMode(){
+    var next=MODES[(MODES.indexOf(mode)+1)%MODES.length];
+    document.getElementById('docTitle').textContent=mode; document.getElementById('modeBtn').textContent='Switch to '+next; document.title=mode+' — INMA';
+    document.body.classList.toggle('est',mode==='Estimate');
+    var h=document.getElementById('svcHead'), b=document.getElementById('svcBox');
+    if(mode==='Estimate'){ h.textContent='Project scope / notes'; b.dataset.ph='Describe the scope: what gets done, where, and with what products. Add anything the homeowner should know before deciding.'; }
+    else { h.textContent='Service'; b.dataset.ph='Describe the service performed, the product, and anything the customer should keep for their records.'; }
+  }
+  window.toggleMode=function(){ mode=MODES[(MODES.indexOf(mode)+1)%MODES.length]; applyMode(); save(); };
+  /* line items (estimate) */
+  var items=[];
+  function renderItems(){
+    var box=document.getElementById('items'); box.innerHTML='';
+    items.forEach(function(it,i){
+      var row=document.createElement('div'); row.className='item';
+      row.innerHTML='<div contenteditable data-ph="Line item"></div><div class="amt" contenteditable inputmode="decimal" data-ph="0.00"></div><button type="button" class="x" aria-label="Remove">✕</button>';
+      var d=row.children[0], a=row.children[1]; d.textContent=it.d||''; a.textContent=it.a||'';
+      d.addEventListener('input',function(){ items[i].d=d.textContent; save(); });
+      a.addEventListener('input',function(){ items[i].a=a.textContent; calc(); save(); });
+      a.addEventListener('blur',function(){ if(a.textContent.trim()){ a.textContent=fmt(num(a.textContent)); items[i].a=a.textContent; } calc(); save(); });
+      [d,a].forEach(function(el){ el.addEventListener('keydown',function(e){ if(e.key==='Enter'){ e.preventDefault(); if(el===d) a.focus(); else { if(i===items.length-1) addItem(); else box.children[i+1].children[0].focus(); } } }); el.addEventListener('paste',function(e){ e.preventDefault(); document.execCommand('insertText',false,(e.clipboardData||window.clipboardData).getData('text')); }); });
+      row.children[2].addEventListener('click',function(){ items.splice(i,1); if(!items.length) items.push({d:'',a:''}); renderItems(); calc(); save(); });
+      box.appendChild(row);
+    });
+  }
+  window.addItem=function(){ items.push({d:'',a:''}); renderItems(); calc(); save(); var b=document.getElementById('items'); b.lastChild.children[0].focus(); };
   function setStamp(on,quiet){ document.getElementById('stamp').classList.toggle('off',!on); if(!quiet){ state.stamp=on; } }
   window.toggleStamp=function(){ var on=document.getElementById('stamp').classList.contains('off'); state.stampAuto=false; state.stamp=on; setStamp(on,true); save(); };
   window.newDoc=function(){
     if(!confirm('Clear this '+mode.toLowerCase()+' and start a new one?')) return;
     var n=(parseInt(get('num'),10)||0)+1; F.forEach(function(el){ el.textContent=''; });
-    state={mode:mode}; document.querySelector('[data-k="num"]').textContent=String(n).padStart(4,'0');
+    state={mode:mode}; items=[{d:'',a:''}]; renderItems(); document.querySelector('[data-k="num"]').textContent=String(n).padStart(4,'0');
     document.querySelector('[data-k="date"]').textContent=new Date().toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'});
     setStamp(false,true); calc(); save(); clearSig('sigInma'); clearSig('sigCust');
   };
