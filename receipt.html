@@ -48,8 +48,8 @@ body{background:#09090A;color:#111;font-family:'Helvetica Neue',Arial,sans-serif
 .totals .row.bal .l{color:#111}
 .totals .row.bal .v{font-size:18px;font-weight:800}
 .est{display:none}
-body.est .est{display:block}
-body.est #payTotals,body.est #stampWrap{display:none}
+body.mode-est .est{display:block}
+body.mode-est #payTotals,body.mode-est #stampWrap{display:none}
 .items{display:grid;gap:0;border:1px solid #E4DED2;border-radius:3px;overflow:hidden}
 .item{display:grid;grid-template-columns:1fr 92px 28px;gap:8px;align-items:center;padding:8px 10px;border-bottom:1px solid #EDE8E0;font-size:12px}
 .item:last-child{border-bottom:0}
@@ -233,7 +233,7 @@ window.addEventListener('load',function(){ ['sigInma','sigCust'].forEach(initSig
   function applyMode(){
     var next=MODES[(MODES.indexOf(mode)+1)%MODES.length];
     document.getElementById('docTitle').textContent=mode; document.getElementById('modeBtn').textContent='Switch to '+next; document.title=mode+' — INMA';
-    document.body.classList.toggle('est',mode==='Estimate');
+    document.body.classList.toggle('mode-est',mode==='Estimate');
     var h=document.getElementById('svcHead'), b=document.getElementById('svcBox');
     if(mode==='Estimate'){ h.textContent='Project scope / notes'; b.dataset.ph='Describe the scope: what gets done, where, and with what products. Add anything the homeowner should know before deciding.'; }
     else { h.textContent='Service'; b.dataset.ph='Describe the service performed, the product, and anything the customer should keep for their records.'; }
