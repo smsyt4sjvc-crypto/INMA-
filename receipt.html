@@ -51,7 +51,11 @@ body{background:#09090A;color:#111;font-family:'Helvetica Neue',Arial,sans-serif
 .stamp.off{opacity:.25;border-style:dashed}
 .note{margin-top:22px;font-size:10.5px;color:#444;line-height:1.5}
 .sigs{display:grid;grid-template-columns:1fr 1fr;gap:28px;margin-top:26px}
-.sigs .s{border-top:1px solid #111;padding-top:6px;font-size:9px;text-transform:uppercase;letter-spacing:2px;color:#777;font-weight:700}
+.sigs .s{padding-top:6px;font-size:9px;text-transform:uppercase;letter-spacing:2px;color:#777;font-weight:700}
+.sig-pad{border:1px solid #111;border-radius:4px;height:84px;position:relative;background:#fff;touch-action:none}
+.sig-pad canvas{width:100%;height:100%;display:block;border-radius:4px}
+.sig-hint{position:absolute;left:12px;bottom:8px;font-size:10px;color:#c8c2b6;pointer-events:none;letter-spacing:1.5px;text-transform:uppercase}
+.sig-clear{position:absolute;right:8px;top:8px;font-size:10px;background:#F5F2ED;border:1px solid #ddd;border-radius:5px;padding:4px 10px;cursor:pointer;font-family:inherit}
 .foot{margin-top:28px;padding-top:10px;border-top:1px solid #E4DED2;font-size:9px;color:#8A857E;text-align:center}
 @media print{
   @page{size:letter;margin:0}
@@ -61,14 +65,16 @@ body{background:#09090A;color:#111;font-family:'Helvetica Neue',Arial,sans-serif
   [contenteditable]:empty::before{content:''}
   .svc{background:#fff;border:1px solid #E4DED2;border-left:2px solid #111}
   .stamp.off{display:none}
+  .sig-clear,.sig-hint{display:none}
 }
 @media screen and (max-width:900px){.sheet{width:100%;margin:0 0 40px;padding:20px 16px}.two,.sigs{grid-template-columns:1fr}.lh{flex-direction:column;align-items:flex-start}.lh .doc,.lh .doc .meta{text-align:left;justify-items:start}.totals{width:100%}}
 </style>
+<script src="/inma-fb-rescue.js"></script>
 </head>
 <body>
 
 <div class="bar">
-  <button class="pri" onclick="window.print()">Print / Save PDF</button>
+  <button class="pri" onclick="doPrint()">Print / Save PDF</button>
   <button onclick="document.getElementById('vcf').click()">Import contact</button>
   <button id="modeBtn" onclick="toggleMode()">Switch to Invoice</button>
   <button onclick="newDoc()">+ New</button>
@@ -119,14 +125,38 @@ body{background:#09090A;color:#111;font-family:'Helvetica Neue',Arial,sans-serif
   <div class="note" contenteditable data-k="note" data-ph="Notes (optional)"></div>
 
   <div class="sigs">
-    <div class="s">Jake Bishop · INMA</div>
-    <div class="s">Customer</div>
+    <div>
+      <div class="sig-pad"><canvas id="sigInma"></canvas><span class="sig-hint">Sign here</span><button type="button" class="sig-clear" onclick="clearSig('sigInma')">Clear</button></div>
+      <div class="s">Jake Bishop · INMA</div>
+    </div>
+    <div>
+      <div class="sig-pad"><canvas id="sigCust"></canvas><span class="sig-hint">Sign here</span><button type="button" class="sig-clear" onclick="clearSig('sigCust')">Clear</button></div>
+      <div class="s">Customer</div>
+    </div>
   </div>
 
   <div class="foot"><b>INMA</b> · Inland Northwest Marketing Affiliates · Spokane, WA · WA UBI #606 027 063 · inmagent.com · (509) 251-7792 · jake@inmagent.com</div>
 </div>
 
 <script>
+function doPrint(){ document.activeElement && document.activeElement.blur(); if(window.INMA && INMA.print){ INMA.print({selector:'#sheet', filename:(document.getElementById('docTitle').textContent||'receipt').toLowerCase()+'-'+(document.querySelector('[data-k="num"]').textContent||'').trim()+'.pdf'}); } else { window.print(); } }
+var SIG_KEY='inma_receipt_sig_v1';
+function initSig(id){
+  var c=document.getElementById(id); if(!c) return; var pad=c.parentNode, hint=pad.querySelector('.sig-hint');
+  function size(){ var r=c.getBoundingClientRect(), dpr=window.devicePixelRatio||1; var keep=c._ctx&&c.toDataURL(); c.width=r.width*dpr; c.height=r.height*dpr; var ctx=c.getContext('2d'); ctx.scale(dpr,dpr); ctx.lineWidth=2.2; ctx.lineCap='round'; ctx.lineJoin='round'; ctx.strokeStyle='#12233a'; c._ctx=ctx; if(keep) restore(keep); }
+  function restore(url){ var im=new Image(); im.onload=function(){ var r=c.getBoundingClientRect(); c._ctx.drawImage(im,0,0,r.width,r.height); if(hint) hint.style.display='none'; }; im.src=url; }
+  size(); window.addEventListener('resize',size);
+  var saved=JSON.parse(localStorage.getItem(SIG_KEY)||'{}'); if(saved[id]) restore(saved[id]);
+  var drawing=false,last=null;
+  function pt(e){ var r=c.getBoundingClientRect(), t=e.touches?e.touches[0]:e; return {x:t.clientX-r.left,y:t.clientY-r.top}; }
+  function down(e){ drawing=true; last=pt(e); if(hint) hint.style.display='none'; e.preventDefault(); }
+  function move(e){ if(!drawing) return; var p=pt(e), ctx=c._ctx; ctx.beginPath(); ctx.moveTo(last.x,last.y); ctx.lineTo(p.x,p.y); ctx.stroke(); last=p; e.preventDefault(); }
+  function up(){ if(!drawing) return; drawing=false; var all=JSON.parse(localStorage.getItem(SIG_KEY)||'{}'); all[id]=c.toDataURL(); localStorage.setItem(SIG_KEY,JSON.stringify(all)); }
+  c.addEventListener('mousedown',down); c.addEventListener('mousemove',move); window.addEventListener('mouseup',up);
+  c.addEventListener('touchstart',down,{passive:false}); c.addEventListener('touchmove',move,{passive:false}); c.addEventListener('touchend',up);
+}
+function clearSig(id){ var c=document.getElementById(id); if(!c||!c._ctx) return; c._ctx.clearRect(0,0,c.width,c.height); var h=c.parentNode.querySelector('.sig-hint'); if(h) h.style.display=''; var all=JSON.parse(localStorage.getItem(SIG_KEY)||'{}'); delete all[id]; localStorage.setItem(SIG_KEY,JSON.stringify(all)); }
+window.addEventListener('load',function(){ ['sigInma','sigCust'].forEach(initSig); });
 (function(){
   var KEY='inma_receipt_v1', F=document.querySelectorAll('[data-k]');
   var state=JSON.parse(localStorage.getItem(KEY)||'{}');
@@ -156,7 +186,7 @@ body{background:#09090A;color:#111;font-family:'Helvetica Neue',Arial,sans-serif
     var n=(parseInt(get('num'),10)||0)+1; F.forEach(function(el){ el.textContent=''; });
     state={mode:mode}; document.querySelector('[data-k="num"]').textContent=String(n).padStart(4,'0');
     document.querySelector('[data-k="date"]').textContent=new Date().toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'});
-    setStamp(false,true); calc(); save();
+    setStamp(false,true); calc(); save(); clearSig('sigInma'); clearSig('sigCust');
   };
   // first run defaults
   if(!state.date){ document.querySelector('[data-k="date"]').textContent=new Date().toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'}); }
@@ -191,6 +221,5 @@ body{background:#09090A;color:#111;font-family:'Helvetica Neue',Arial,sans-serif
   }
 })();
 </script>
-<script src="/inma-fb-rescue.js"></script>
 </body>
 </html>
