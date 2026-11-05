@@ -109,7 +109,7 @@ body.pdfing .item{grid-template-columns:1fr 92px}
     <div class="doc">
       <div class="t" id="docTitle">Receipt</div>
       <div class="meta">
-        <span>No. <b contenteditable data-k="num" data-ph="0001"></b></span>
+        <span>No. <b contenteditable data-k="num" data-ph="street no."></b></span>
         <span>Date <b contenteditable data-k="date" data-ph="Nov 4, 2026"></b></span>
       </div>
     </div>
@@ -220,11 +220,12 @@ window.addEventListener('load',function(){ ['sigInma','sigCust'].forEach(initSig
     var sub=0; items.forEach(function(it){ sub+=num(it.a); }); var tax=num(get('tax'));
     document.getElementById('estSub').textContent=fmt(sub); document.getElementById('estTotal').textContent=fmt(sub+tax);
   }
+  function numFromAddr(){ if(state.numManual) return; var m=get('addr1').match(/^\s*(\d+)/); if(m) document.querySelector('[data-k="num"]').textContent=m[1]; }
   function get(k){ var el=document.querySelector('[data-k="'+k+'"]'); return el?el.textContent.trim():''; }
   function save(){ F.forEach(function(el){ state[el.dataset.k]=el.textContent; }); state.mode=mode; state.items=items; localStorage.setItem(KEY,JSON.stringify(state)); }
   function load(){ F.forEach(function(el){ if(state[el.dataset.k]) el.textContent=state[el.dataset.k]; }); mode=state.mode||'Receipt'; items=(state.items&&state.items.length)?state.items:[{d:'',a:''}]; renderItems(); applyMode(); if(state.stamp!=null) setStamp(state.stamp,true); calc(); }
   F.forEach(function(el){
-    el.addEventListener('input',function(){ calc(); save(); });
+    el.addEventListener('input',function(){ if(el.dataset.k==='num') state.numManual=!!el.textContent.trim(); if(el.dataset.k==='addr1') numFromAddr(); calc(); save(); });
     el.addEventListener('blur',function(){ if(el.dataset.k==='total'||el.dataset.k==='paid'||el.dataset.k==='tax'){ var n=num(el.textContent); if(el.textContent.trim()) el.textContent=fmt(n); calc(); save(); } });
     el.addEventListener('keydown',function(e){ if(e.key==='Enter' && el.dataset.k!=='svc' && el.dataset.k!=='note'){ e.preventDefault(); el.blur(); } });
     el.addEventListener('paste',function(e){ e.preventDefault(); document.execCommand('insertText',false,(e.clipboardData||window.clipboardData).getData('text')); });
@@ -260,20 +261,19 @@ window.addEventListener('load',function(){ ['sigInma','sigCust'].forEach(initSig
   window.toggleStamp=function(){ var on=document.getElementById('stamp').classList.contains('off'); state.stampAuto=false; state.stamp=on; setStamp(on,true); save(); };
   window.newDoc=function(){
     if(!confirm('Clear this '+mode.toLowerCase()+' and start a new one?')) return;
-    var n=(parseInt(get('num'),10)||0)+1; F.forEach(function(el){ el.textContent=''; });
-    state={mode:mode}; items=[{d:'',a:''}]; renderItems(); document.querySelector('[data-k="num"]').textContent=String(n).padStart(4,'0');
+    F.forEach(function(el){ el.textContent=''; });
+    state={mode:mode}; items=[{d:'',a:''}]; renderItems(); document.querySelector('[data-k="num"]').textContent='';
     document.querySelector('[data-k="date"]').textContent=new Date().toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'});
     setStamp(false,true); calc(); save(); clearSig('sigInma'); clearSig('sigCust');
   };
   // first run defaults
   if(!state.date){ document.querySelector('[data-k="date"]').textContent=new Date().toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'}); }
-  if(!state.num){ document.querySelector('[data-k="num"]').textContent='0001'; }
   load();
 
   /* contact import (.vcf) — same parser as the Offer Sheet builder */
   document.getElementById('vcf').addEventListener('change',function(e){
     var f=e.target.files&&e.target.files[0]; if(!f) return; var r=new FileReader();
-    r.onload=function(){ var c=parseVCard(String(r.result)); if(c.name) set('cname',c.name); if(c.phone) set('cphone',c.phone); if(c.email) set('cemail',c.email); if(c.address) set('addr1',c.address); if(c.cityStateZip) set('addr2',c.cityStateZip); save(); e.target.value=''; };
+    r.onload=function(){ var c=parseVCard(String(r.result)); if(c.name) set('cname',c.name); if(c.phone) set('cphone',c.phone); if(c.email) set('cemail',c.email); if(c.address) set('addr1',c.address); if(c.cityStateZip) set('addr2',c.cityStateZip); numFromAddr(); save(); e.target.value=''; };
     r.readAsText(f);
   });
   function set(k,v){ var el=document.querySelector('[data-k="'+k+'"]'); if(el) el.textContent=v; }
