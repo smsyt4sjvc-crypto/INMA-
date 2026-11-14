@@ -28,6 +28,10 @@ body{background:#09090A;color:#111;font:9.6pt/1.38 'Helvetica Neue',Helvetica,Ar
 .photos{display:grid;grid-template-columns:2fr 1fr 1fr;gap:8px;margin-bottom:12px}
 .ph{border:1px solid #CFCFCF;background:repeating-linear-gradient(45deg,#FAFAFA 0 10px,#F1F1F1 10px 20px);height:1.05in;display:grid;place-items:center;font-size:8.5pt;letter-spacing:.14em;text-transform:uppercase;color:#888}
 .ph.big{height:1.05in}
+figure.ph{margin:0;padding:0;position:relative;overflow:hidden;background:#F1F1F1;display:block}
+figure.ph img{width:100%;height:100%;object-fit:cover;display:block}
+figure.ph figcaption{position:absolute;left:0;bottom:0;background:rgba(0,0,0,.6);color:#fff;font-size:7.5px;letter-spacing:1.4px;text-transform:uppercase;padding:3px 6px}
+.credit{font-size:7.5pt;color:#888;margin:-8px 0 8px;text-align:right}
 .hdr{display:grid;grid-template-columns:1fr 1fr;gap:4px 24px;margin-bottom:6px}
 .f{display:flex;gap:8px;border-bottom:1px solid #D6D6D6;padding:3px 0}
 .f .l{font-size:8.5px;text-transform:uppercase;letter-spacing:1.8px;color:#777;font-weight:700;min-width:84px;padding-top:2px}
@@ -78,12 +82,12 @@ tr.tot td{background:#F2F2F2;font-weight:800;font-size:11pt;border-bottom:0}
     <div class="doc"><div class="t">Offer Sheet</div><div class="s">Homeowner's offer to contractor</div></div>
   </div>
 
-  <div class="sample"><b>Sample Offer Sheet: for illustration only.</b> Based on a published house plan (Plan 1074-72, houseplans.com), shown as an existing home being re-sided. Homeowner, address, photos, and quantities are examples. A real Offer Sheet is built from the homeowner's own house.</div>
+  <div class="sample"><b>Sample Offer Sheet: for illustration only.</b> Based on a published house plan (Plan 1074-72, houseplans.com), shown as an existing home being re-sided. Homeowner, address, photos, and quantities are examples. A real Offer Sheet is built from the homeowner's own house. Images: Plan 1074-72, houseplans.com.</div>
 
   <div class="photos">
-    <div class="ph big">Photo: front of house</div>
-    <div class="ph">Photo: rear</div>
-    <div class="ph">Photo: sides</div>
+    <figure class="ph big"><img src="/offers/sample-img/front.jpg" alt="Front of house"><figcaption>Front</figcaption></figure>
+    <figure class="ph"><img src="/offers/sample-img/angle.jpg" alt="Front and left side"><figcaption>Front / left side</figcaption></figure>
+    <figure class="ph"><img src="/offers/sample-img/rear.jpg" alt="Rear elevation"><figcaption>Rear</figcaption></figure>
   </div>
 
   <div class="hdr">
