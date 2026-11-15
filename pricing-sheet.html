@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow">
+<title>INMA Pricing</title>
+<link rel="icon" href="/bear-logo.jpg">
+<style>
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{background:#09090A;color:#111;font:9.6pt/1.38 'Helvetica Neue',Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}
+.bar{position:sticky;top:0;z-index:5;display:flex;gap:8px;justify-content:center;flex-wrap:wrap;padding:12px 14px;background:rgba(9,9,10,.94);border-bottom:1px solid rgba(255,255,255,.14)}
+.bar button,.bar a{font:600 11px/1 'Helvetica Neue',Arial,sans-serif;letter-spacing:.14em;text-transform:uppercase;background:transparent;color:#fff;border:1px solid #8E9199;border-radius:3px;padding:12px 16px;cursor:pointer;text-decoration:none}
+.bar .pri{background:#fff;color:#000;border-color:#fff}
+.page{background:#fff;width:8.5in;max-width:100%;min-height:11in;margin:18px auto;padding:.42in .5in;box-shadow:0 10px 40px rgba(0,0,0,.5)}
+.page+.page{page-break-before:always}
+.lh{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;padding-bottom:8px;border-bottom:3px solid #111;margin-bottom:9px}
+.lh .brand{display:flex;align-items:center;gap:12px}
+.lh img{width:56px;height:56px;border-radius:8px;border:1px solid #E4E4E4;object-fit:cover}
+.lh .word{font-size:26px;font-weight:800;letter-spacing:4px;line-height:1}
+.lh .tag{font-size:9px;text-transform:uppercase;letter-spacing:1.6px;color:#666;margin-top:5px}
+.lh .doc{text-align:right}
+.lh .doc .t{font-size:20px;font-weight:700;letter-spacing:5px;text-transform:uppercase}
+.lh .doc .s{font-size:9px;letter-spacing:2px;text-transform:uppercase;color:#777;margin-top:4px}
+.sample{border:1px dashed #999;background:#F6F6F6;padding:7px 10px;font-size:9pt;color:#333;margin-bottom:12px}
+.sample b{letter-spacing:.12em;text-transform:uppercase;font-size:8.5pt}
+.photos{display:grid;grid-template-columns:2fr 1fr 1fr;gap:8px;margin-bottom:8px}
+.ph{border:1px solid #CFCFCF;background:repeating-linear-gradient(45deg,#FAFAFA 0 10px,#F1F1F1 10px 20px);height:.82in;display:grid;place-items:center;font-size:8.5pt;letter-spacing:.14em;text-transform:uppercase;color:#888}
+.ph.big{height:.82in}
+figure.ph{margin:0;padding:0;position:relative;overflow:hidden;background:#F1F1F1;display:block}
+figure.ph img{width:100%;height:100%;object-fit:cover;display:block}
+figure.ph figcaption{position:absolute;left:0;bottom:0;background:rgba(0,0,0,.6);color:#fff;font-size:7.5px;letter-spacing:1.4px;text-transform:uppercase;padding:3px 6px}
+.credit{font-size:7.5pt;color:#888;margin:-8px 0 8px;text-align:right}
+.hdr{display:grid;grid-template-columns:1fr 1fr;gap:4px 24px;margin-bottom:6px}
+.f{display:flex;gap:8px;border-bottom:1px solid #D6D6D6;padding:3px 0}
+.f .l{font-size:8.5px;text-transform:uppercase;letter-spacing:1.8px;color:#777;font-weight:700;min-width:84px;padding-top:2px}
+.f .v{font-weight:600}
+.code{font-size:9.5pt;margin:4px 0 2px}
+.code ul{margin:3px 0 0 18px;padding:0}
+h2{background:#111;color:#fff;font-size:9px;letter-spacing:2px;text-transform:uppercase;font-weight:700;padding:6px 10px;border-radius:2px;margin:9px 0 5px}
+h3{font-size:9.8pt;margin:7px 0 2px;letter-spacing:-.01em}
+ul{margin:2px 0 4px 18px;padding:0}
+li{margin:1.5px 0}
+ol.scope{margin:4px 0 0 18px;padding:0}
+ol.scope>li{margin:3.5px 0}
+ol.scope ul{margin-top:2px}
+.lead{margin:2px 0 6px}
+.terms-note{font-size:9.5pt;font-style:italic;color:#222;margin:8px 0;padding:8px 10px;border-left:2px solid #111;background:#F6F6F6}
+.src{font-size:9pt;color:#444}
+table{width:100%;border-collapse:collapse;font-size:9.5pt;margin:4px 0 8px}
+th{background:#111;color:#fff;text-align:left;font-size:8.5px;letter-spacing:1.6px;text-transform:uppercase;padding:6px 8px}
+td{padding:6px 8px;border-bottom:1px solid #E4E4E4;vertical-align:top}
+td.n,th.n{text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+tr.tot td{background:#F2F2F2;font-weight:800;font-size:11pt;border-bottom:0}
+.fine{font-size:9pt;color:#222;font-style:italic;margin:6px 0}
+.kv{display:grid;grid-template-columns:1fr;gap:2px}
+.sig{display:none}
+.sig .ln{border-bottom:1px solid #111;height:34px}
+.sig .cap{display:flex;justify-content:space-between;font-size:8.5px;text-transform:uppercase;letter-spacing:1.6px;color:#777;font-weight:700;margin-top:5px}
+.foot{margin-top:8px;padding-top:6px;border-top:1px solid #E4E4E4;font-size:8.5px;color:#777;text-align:center;letter-spacing:.3px}
+.disc{font-size:8.5pt;color:#555;margin-top:10px}
+.sigs{display:grid;grid-template-columns:1fr 1fr;gap:28px;margin-top:12px}
+.sigcol .who{font-size:8.5px;text-transform:uppercase;letter-spacing:1.8px;font-weight:800;color:#111;margin-bottom:2px}
+.sigcol .sl{border-bottom:1px solid #111;height:30px;position:relative}
+.sigcol .sl span{position:absolute;left:0;bottom:-13px;font-size:7.5px;text-transform:uppercase;letter-spacing:1.4px;color:#777}
+.sigcol .sl{margin-bottom:14px}
+.init{display:flex;justify-content:flex-end;gap:22px;font-size:7.5px;text-transform:uppercase;letter-spacing:1.4px;color:#777;margin-top:6px}
+.init span{display:inline-block;border-bottom:1px solid #999;width:58px;margin-left:6px}
+@media print{
+  @page{size:letter;margin:0}
+  body{background:#fff}.bar{display:none}
+  .page{margin:0;box-shadow:none;width:8.5in;min-height:11in}
+}
+@media screen and (max-width:860px){.sigs{grid-template-columns:1fr}td.n,th.n{white-space:normal}table{font-size:9pt}.f{flex-wrap:wrap}.f .l{min-width:0;width:100%}.page{width:100%;min-height:0;margin:0 0 12px;padding:20px 16px}.hdr,.sig{grid-template-columns:1fr}.photos{grid-template-columns:1fr 1fr}.photos .big{grid-column:span 2}.lh{flex-direction:column;align-items:flex-start}.lh .doc{text-align:left}}
+.steps{margin:4px 0 0 18px;padding:0}
+.steps>li{margin:4px 0}
+dl.home{margin:4px 0}
+dl.home dt{font-weight:700;margin-top:6px}
+dl.home dd{margin:1px 0 0 0}
+p{margin:0 0 6px}
+.intro{font-size:10.5pt;margin:4px 0 12px}
+.cards{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:6px 0 14px}
+.card{border:1.5px solid #111;border-radius:4px;padding:14px 16px;display:flex;flex-direction:column}
+.card .k{font-size:8.5px;text-transform:uppercase;letter-spacing:2px;color:#777;font-weight:700}
+.card .nm{font-size:15pt;font-weight:800;margin:3px 0 2px;letter-spacing:-.01em}
+.card .pr{font-size:26pt;font-weight:800;line-height:1.05;margin:6px 0 2px}
+.card .pr small{font-size:10pt;font-weight:600;color:#555;letter-spacing:0}
+.card ul{margin:8px 0 0 16px}
+.card li{margin:3px 0}
+.bundle{background:#111;color:#fff;border-radius:4px;padding:14px 18px;display:flex;justify-content:space-between;align-items:center;gap:16px;margin:0 0 14px}
+.bundle .k{font-size:8.5px;text-transform:uppercase;letter-spacing:2px;color:#BBB;font-weight:700}
+.bundle .h{font-size:14pt;font-weight:800;margin-top:3px}
+.bundle .s{font-size:9.5pt;color:#DDD;margin-top:3px}
+.bundle .pr{font-size:24pt;font-weight:800;white-space:nowrap;text-align:right;line-height:1.05}
+.bundle .pr small{display:block;font-size:9pt;font-weight:600;color:#BBB}
+.bundle .was{text-decoration:line-through;color:#999;font-size:11pt;font-weight:600}
+@media screen and (max-width:860px){.cards{grid-template-columns:1fr}.bundle{flex-direction:column;align-items:flex-start}.bundle .pr{text-align:left}}
+</style>
+</head>
+<body>
+
+<div class="bar">
+  <button class="pri" onclick="window.print()">Print / Save PDF</button>
+  <a href="/pricing-sheet.pdf" download>Download PDF</a>
+</div>
+
+<div class="page">
+  <div class="lh">
+    <div class="brand"><img src="/bear-logo.jpg" alt="INMA"><div><div class="word">INMA</div><div class="tag">Your Personal Homeowner Advocate</div></div></div>
+    <div class="doc"><div class="t">Pricing</div><div class="s">Offer Sheet services</div></div>
+  </div>
+
+  <p class="intro">You make the offer. I put it in writing: what gets done, how it's installed, what you'll pay, and when. You take it to any contractor you choose. They accept your terms or they pass.</p>
+
+  <div class="cards">
+    <div class="card">
+      <div class="k">Before the job</div>
+      <div class="nm">Offer Sheet</div>
+      <div class="pr">$375 <small>and up</small></div>
+      <ul>
+        <li>On-site visit: measurements, photos, and conditions</li>
+        <li>Installation terms set to code and the manufacturer's written instructions</li>
+        <li>Full scope of work, written for your house</li>
+        <li>Fair-market price you can check against INMA's published Spokane report</li>
+        <li>Payment terms that protect you: capped down payment, balance on completion</li>
+        <li>Signature-ready agreement and material order</li>
+        <li>Homeowner guide: how to use your sheet and what to watch for</li>
+      </ul>
+    </div>
+    <div class="card">
+      <div class="k">After the job</div>
+      <div class="nm">Follow-up Inspection</div>
+      <div class="pr">$250 <small>and up</small></div>
+      <ul>
+        <li>On-site walk of the finished work</li>
+        <li>Checked line by line against your Offer Sheet's installation terms and scope</li>
+        <li>Written report with photos of anything that's off</li>
+        <li>Ready to hand your contractor as written notice, which starts the 30-day correction window in your Offer Sheet</li>
+        <li>Know it's right before you pay the balance</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="bundle">
+    <div>
+      <div class="k">Book both upfront</div>
+      <div class="h">Offer Sheet + Follow-up Inspection</div>
+      <div class="s">Save 15% when you book both at the start.</div>
+    </div>
+    <div class="pr"><span class="was">$625</span> $531 <small>and up · 15% off</small></div>
+  </div>
+
+  <h2>About "and up"</h2>
+  <p>Starting prices cover a typical single-trade exterior job, like re-siding or windows on an average Spokane home. Larger homes, more trades, or more complex work cost more. You'll get your exact price before I start, and it doesn't change after you say yes.</p>
+
+  <h2>What this isn't</h2>
+  <p>I'm not a contractor. I don't take a cut of your contract, and I don't get paid by the crew. You pay me for the Offer Sheet and the inspection, and that's it.</p>
+
+  <p class="disc">INMA is not a contractor and does not hire, direct, or supervise any work. INMA provides project scoping, fair-market pricing, and homeowner advocacy. An Offer Sheet is an estimate of fair-market cost for the scope described, not a bid. Prices effective November 2026.</p>
+  <p style="margin-top:10px;font-weight:700">Jake Bishop · (509) 251-7792 · jake@inmagent.com · inmagent.com</p>
+  <div class="foot"><b>INMA</b> · Inland Northwest Marketing Affiliates · Spokane, WA · WA UBI #606 027 063 · inmagent.com · (509) 251-7792</div>
+</div>
+
+<script src="/inma-fb-rescue.js"></script>
+</body>
+</html>
