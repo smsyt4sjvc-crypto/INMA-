@@ -15,7 +15,7 @@ body{background:#09090A;color:#111;font:9.6pt/1.38 'Helvetica Neue',Helvetica,Ar
 .bar .pri{background:#fff;color:#000;border-color:#fff}
 .page{background:#fff;width:8.5in;max-width:100%;min-height:11in;margin:18px auto;padding:.42in .5in;box-shadow:0 10px 40px rgba(0,0,0,.5)}
 .page+.page{page-break-before:always}
-.lh{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;padding-bottom:10px;border-bottom:3px solid #111;margin-bottom:12px}
+.lh{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;padding-bottom:8px;border-bottom:3px solid #111;margin-bottom:9px}
 .lh .brand{display:flex;align-items:center;gap:12px}
 .lh img{width:56px;height:56px;border-radius:8px;border:1px solid #E4E4E4;object-fit:cover}
 .lh .word{font-size:26px;font-weight:800;letter-spacing:4px;line-height:1}
@@ -25,9 +25,9 @@ body{background:#09090A;color:#111;font:9.6pt/1.38 'Helvetica Neue',Helvetica,Ar
 .lh .doc .s{font-size:9px;letter-spacing:2px;text-transform:uppercase;color:#777;margin-top:4px}
 .sample{border:1px dashed #999;background:#F6F6F6;padding:7px 10px;font-size:9pt;color:#333;margin-bottom:12px}
 .sample b{letter-spacing:.12em;text-transform:uppercase;font-size:8.5pt}
-.photos{display:grid;grid-template-columns:2fr 1fr 1fr;gap:8px;margin-bottom:12px}
-.ph{border:1px solid #CFCFCF;background:repeating-linear-gradient(45deg,#FAFAFA 0 10px,#F1F1F1 10px 20px);height:1.05in;display:grid;place-items:center;font-size:8.5pt;letter-spacing:.14em;text-transform:uppercase;color:#888}
-.ph.big{height:1.05in}
+.photos{display:grid;grid-template-columns:2fr 1fr 1fr;gap:8px;margin-bottom:8px}
+.ph{border:1px solid #CFCFCF;background:repeating-linear-gradient(45deg,#FAFAFA 0 10px,#F1F1F1 10px 20px);height:.82in;display:grid;place-items:center;font-size:8.5pt;letter-spacing:.14em;text-transform:uppercase;color:#888}
+.ph.big{height:.82in}
 figure.ph{margin:0;padding:0;position:relative;overflow:hidden;background:#F1F1F1;display:block}
 figure.ph img{width:100%;height:100%;object-fit:cover;display:block}
 figure.ph figcaption{position:absolute;left:0;bottom:0;background:rgba(0,0,0,.6);color:#fff;font-size:7.5px;letter-spacing:1.4px;text-transform:uppercase;padding:3px 6px}
@@ -38,7 +38,7 @@ figure.ph figcaption{position:absolute;left:0;bottom:0;background:rgba(0,0,0,.6)
 .f .v{font-weight:600}
 .code{font-size:9.5pt;margin:8px 0 2px}
 .code ul{margin:3px 0 0 18px;padding:0}
-h2{background:#111;color:#fff;font-size:9px;letter-spacing:2px;text-transform:uppercase;font-weight:700;padding:6px 10px;border-radius:2px;margin:11px 0 6px}
+h2{background:#111;color:#fff;font-size:9px;letter-spacing:2px;text-transform:uppercase;font-weight:700;padding:6px 10px;border-radius:2px;margin:9px 0 5px}
 h3{font-size:9.8pt;margin:7px 0 2px;letter-spacing:-.01em}
 ul{margin:2px 0 4px 18px;padding:0}
 li{margin:1.5px 0}
@@ -55,17 +55,24 @@ td.n,th.n{text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
 tr.tot td{background:#F2F2F2;font-weight:800;font-size:11pt;border-bottom:0}
 .fine{font-size:9pt;color:#222;font-style:italic;margin:6px 0}
 .kv{display:grid;grid-template-columns:1fr;gap:2px}
-.sig{display:grid;grid-template-columns:1fr 1fr;gap:28px;margin-top:22px}
+.sig{display:none}
 .sig .ln{border-bottom:1px solid #111;height:34px}
 .sig .cap{display:flex;justify-content:space-between;font-size:8.5px;text-transform:uppercase;letter-spacing:1.6px;color:#777;font-weight:700;margin-top:5px}
-.foot{margin-top:18px;padding-top:8px;border-top:1px solid #E4E4E4;font-size:8.5px;color:#777;text-align:center;letter-spacing:.3px}
+.foot{margin-top:8px;padding-top:6px;border-top:1px solid #E4E4E4;font-size:8.5px;color:#777;text-align:center;letter-spacing:.3px}
 .disc{font-size:8.5pt;color:#555;margin-top:10px}
+.sigs{display:grid;grid-template-columns:1fr 1fr;gap:28px;margin-top:12px}
+.sigcol .who{font-size:8.5px;text-transform:uppercase;letter-spacing:1.8px;font-weight:800;color:#111;margin-bottom:2px}
+.sigcol .sl{border-bottom:1px solid #111;height:30px;position:relative}
+.sigcol .sl span{position:absolute;left:0;bottom:-13px;font-size:7.5px;text-transform:uppercase;letter-spacing:1.4px;color:#777}
+.sigcol .sl{margin-bottom:14px}
+.init{display:flex;justify-content:flex-end;gap:22px;font-size:7.5px;text-transform:uppercase;letter-spacing:1.4px;color:#777;margin-top:6px}
+.init span{display:inline-block;border-bottom:1px solid #999;width:58px;margin-left:6px}
 @media print{
   @page{size:letter;margin:0}
   body{background:#fff}.bar{display:none}
   .page{margin:0;box-shadow:none;width:8.5in;min-height:11in}
 }
-@media screen and (max-width:860px){td.n,th.n{white-space:normal}table{font-size:9pt}.f{flex-wrap:wrap}.f .l{min-width:0;width:100%}.page{width:100%;min-height:0;margin:0 0 12px;padding:20px 16px}.hdr,.sig{grid-template-columns:1fr}.photos{grid-template-columns:1fr 1fr}.photos .big{grid-column:span 2}.lh{flex-direction:column;align-items:flex-start}.lh .doc{text-align:left}}
+@media screen and (max-width:860px){.sigs{grid-template-columns:1fr}td.n,th.n{white-space:normal}table{font-size:9pt}.f{flex-wrap:wrap}.f .l{min-width:0;width:100%}.page{width:100%;min-height:0;margin:0 0 12px;padding:20px 16px}.hdr,.sig{grid-template-columns:1fr}.photos{grid-template-columns:1fr 1fr}.photos .big{grid-column:span 2}.lh{flex-direction:column;align-items:flex-start}.lh .doc{text-align:left}}
 </style>
 </head>
 <body>
@@ -126,6 +133,8 @@ tr.tot td{background:#F2F2F2;font-weight:800;font-size:11pt;border-bottom:0}
   </ul>
   <p class="terms-note">Any deviation from the terms of this offer, applicable building codes, or James Hardie installation instructions is to be corrected at the contractor's expense before final payment. Deviations found at final inspection are to be given to the contractor in writing. If they are not corrected within 30 days of that notice, a third-party contractor will be retained to correct them, and the cost will be paid from the remaining balance.</p>
   <p class="src"><b>Full James Hardie installation instructions:</b> jameshardiepros.com (HZ5 HardiePlank lap siding). James Hardie directs installers there for the most recent version.</p>
+  <div class="foot"><b>INMA</b> · Inland Northwest Marketing Affiliates · Spokane, WA · WA UBI #606 027 063 · inmagent.com · (509) 251-7792</div>
+  <div class="init">Homeowner initials<span></span> Contractor initials<span></span></div>
 </div>
 
 <!-- ============ PAGE 2 ============ -->
@@ -163,6 +172,8 @@ tr.tot td{background:#F2F2F2;font-weight:800;font-size:11pt;border-bottom:0}
       <li><b>New soffit:</b> frieze to be caulked to it.</li>
       <li>In both cases, caulk where the new siding meets the frieze.</li></ul></li>
   </ol>
+  <div class="foot"><b>INMA</b> · Inland Northwest Marketing Affiliates · Spokane, WA · WA UBI #606 027 063 · inmagent.com · (509) 251-7792</div>
+  <div class="init">Homeowner initials<span></span> Contractor initials<span></span></div>
 </div>
 
 <!-- ============ PAGE 3 ============ -->
@@ -200,6 +211,7 @@ tr.tot td{background:#F2F2F2;font-weight:800;font-size:11pt;border-bottom:0}
   <p style="margin-top:6px">Once work has started, any absence from the job of more than 3 consecutive working days without written notice to the homeowner (email or text) entitles the homeowner to end this agreement and retain another contractor. No further payment is owed to the original contractor, except any portion of the offer total left over after the replacement contractor completes the work and is paid in full.</p>
 
   <div class="foot"><b>INMA</b> · Inland Northwest Marketing Affiliates · Spokane, WA · WA UBI #606 027 063 · inmagent.com · (509) 251-7792</div>
+  <div class="init">Homeowner initials<span></span> Contractor initials<span></span></div>
 </div>
 
 <!-- ============ PAGE 4 ============ -->
@@ -220,13 +232,34 @@ tr.tot td{background:#F2F2F2;font-weight:800;font-size:11pt;border-bottom:0}
     <li>Warranty documents: jameshardiepros.com</li>
   </ul>
 
-  <div class="sig">
-    <div><div class="ln"></div><div class="cap"><span>Homeowner</span><span>Date</span></div></div>
-    <div><div class="ln"></div><div class="cap"><span>Contractor (accepts as offered)</span><span>Date</span></div></div>
+  <h2>Agreement</h2>
+  <p>When signed by the homeowner and the contractor, this Offer Sheet is the agreement for the work described in it. If the parties sign any other contract, proposal, estimate, or installation agreement for this work, this Offer Sheet governs wherever the two conflict, including all payment terms. No payment is due on any schedule stated in another document, including progress payments, draws, or payment at "substantial completion." Payment is due only as stated in the payment terms of this Offer Sheet. Any change to this agreement requires a written change order approved in writing by the homeowner by email, text, or signature.</p>
+  <p style="margin-top:6px">By signing, the contractor accepts this offer as written and confirms it has read the installation terms, scope, pricing, payment terms, and material order on all five pages.</p>
+
+  <div class="sigs">
+    <div class="sigcol">
+      <div class="who">Homeowner</div>
+      <div class="sl"><span>Signature</span></div>
+      <div class="sl"><span>Printed name</span></div>
+      <div class="sl"><span>Date</span></div>
+      <div class="who" style="margin-top:26px">Second homeowner (if any)</div>
+      <div class="sl"><span>Signature</span></div>
+      <div class="sl"><span>Printed name</span></div>
+      <div class="sl"><span>Date</span></div>
+    </div>
+    <div class="sigcol">
+      <div class="who">Contractor (accepts as offered)</div>
+      <div class="sl"><span>Company</span></div>
+      <div class="sl"><span>L&amp;I registration no.</span></div>
+      <div class="sl"><span>Authorized signature</span></div>
+      <div class="sl"><span>Printed name and title</span></div>
+      <div class="sl"><span>Date</span></div>
+    </div>
   </div>
 
   <p class="disc">INMA is not a contractor. INMA provides project scoping, fair-market pricing, and homeowner advocacy. This Offer Sheet belongs to the homeowner and may be taken to any contractor. It is an estimate of fair-market cost for the scope described, not a bid.</p>
   <div class="foot"><b>INMA</b> · Inland Northwest Marketing Affiliates · Spokane, WA · WA UBI #606 027 063 · inmagent.com · (509) 251-7792</div>
+  <div class="init">Homeowner initials<span></span> Contractor initials<span></span></div>
 </div>
 
 <!-- ============ PAGE 5: ORDER SHEET ============ -->
@@ -258,6 +291,7 @@ tr.tot td{background:#F2F2F2;font-weight:800;font-size:11pt;border-bottom:0}
     </tbody>
   </table>
   <div class="foot"><b>INMA</b> · Inland Northwest Marketing Affiliates · Spokane, WA · WA UBI #606 027 063 · inmagent.com · (509) 251-7792</div>
+  <div class="init">Homeowner initials<span></span> Contractor initials<span></span></div>
 </div>
 
 <script src="/inma-fb-rescue.js"></script>
