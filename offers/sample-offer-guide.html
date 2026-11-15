@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow">
+<title>Your Offer Sheet: How to Use It · INMA</title>
+<link rel="icon" href="/bear-logo.jpg">
+<style>
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{background:#09090A;color:#111;font:9.6pt/1.38 'Helvetica Neue',Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}
+.bar{position:sticky;top:0;z-index:5;display:flex;gap:8px;justify-content:center;flex-wrap:wrap;padding:12px 14px;background:rgba(9,9,10,.94);border-bottom:1px solid rgba(255,255,255,.14)}
+.bar button,.bar a{font:600 11px/1 'Helvetica Neue',Arial,sans-serif;letter-spacing:.14em;text-transform:uppercase;background:transparent;color:#fff;border:1px solid #8E9199;border-radius:3px;padding:12px 16px;cursor:pointer;text-decoration:none}
+.bar .pri{background:#fff;color:#000;border-color:#fff}
+.page{background:#fff;width:8.5in;max-width:100%;min-height:11in;margin:18px auto;padding:.42in .5in;box-shadow:0 10px 40px rgba(0,0,0,.5)}
+.page+.page{page-break-before:always}
+.lh{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;padding-bottom:8px;border-bottom:3px solid #111;margin-bottom:9px}
+.lh .brand{display:flex;align-items:center;gap:12px}
+.lh img{width:56px;height:56px;border-radius:8px;border:1px solid #E4E4E4;object-fit:cover}
+.lh .word{font-size:26px;font-weight:800;letter-spacing:4px;line-height:1}
+.lh .tag{font-size:9px;text-transform:uppercase;letter-spacing:1.6px;color:#666;margin-top:5px}
+.lh .doc{text-align:right}
+.lh .doc .t{font-size:20px;font-weight:700;letter-spacing:5px;text-transform:uppercase}
+.lh .doc .s{font-size:9px;letter-spacing:2px;text-transform:uppercase;color:#777;margin-top:4px}
+.sample{border:1px dashed #999;background:#F6F6F6;padding:7px 10px;font-size:9pt;color:#333;margin-bottom:12px}
+.sample b{letter-spacing:.12em;text-transform:uppercase;font-size:8.5pt}
+.photos{display:grid;grid-template-columns:2fr 1fr 1fr;gap:8px;margin-bottom:8px}
+.ph{border:1px solid #CFCFCF;background:repeating-linear-gradient(45deg,#FAFAFA 0 10px,#F1F1F1 10px 20px);height:.82in;display:grid;place-items:center;font-size:8.5pt;letter-spacing:.14em;text-transform:uppercase;color:#888}
+.ph.big{height:.82in}
+figure.ph{margin:0;padding:0;position:relative;overflow:hidden;background:#F1F1F1;display:block}
+figure.ph img{width:100%;height:100%;object-fit:cover;display:block}
+figure.ph figcaption{position:absolute;left:0;bottom:0;background:rgba(0,0,0,.6);color:#fff;font-size:7.5px;letter-spacing:1.4px;text-transform:uppercase;padding:3px 6px}
+.credit{font-size:7.5pt;color:#888;margin:-8px 0 8px;text-align:right}
+.hdr{display:grid;grid-template-columns:1fr 1fr;gap:4px 24px;margin-bottom:6px}
+.f{display:flex;gap:8px;border-bottom:1px solid #D6D6D6;padding:3px 0}
+.f .l{font-size:8.5px;text-transform:uppercase;letter-spacing:1.8px;color:#777;font-weight:700;min-width:84px;padding-top:2px}
+.f .v{font-weight:600}
+.code{font-size:9.5pt;margin:4px 0 2px}
+.code ul{margin:3px 0 0 18px;padding:0}
+h2{background:#111;color:#fff;font-size:9px;letter-spacing:2px;text-transform:uppercase;font-weight:700;padding:6px 10px;border-radius:2px;margin:9px 0 5px}
+h3{font-size:9.8pt;margin:7px 0 2px;letter-spacing:-.01em}
+ul{margin:2px 0 4px 18px;padding:0}
+li{margin:1.5px 0}
+ol.scope{margin:4px 0 0 18px;padding:0}
+ol.scope>li{margin:3.5px 0}
+ol.scope ul{margin-top:2px}
+.lead{margin:2px 0 6px}
+.terms-note{font-size:9.5pt;font-style:italic;color:#222;margin:8px 0;padding:8px 10px;border-left:2px solid #111;background:#F6F6F6}
+.src{font-size:9pt;color:#444}
+table{width:100%;border-collapse:collapse;font-size:9.5pt;margin:4px 0 8px}
+th{background:#111;color:#fff;text-align:left;font-size:8.5px;letter-spacing:1.6px;text-transform:uppercase;padding:6px 8px}
+td{padding:6px 8px;border-bottom:1px solid #E4E4E4;vertical-align:top}
+td.n,th.n{text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+tr.tot td{background:#F2F2F2;font-weight:800;font-size:11pt;border-bottom:0}
+.fine{font-size:9pt;color:#222;font-style:italic;margin:6px 0}
+.kv{display:grid;grid-template-columns:1fr;gap:2px}
+.sig{display:none}
+.sig .ln{border-bottom:1px solid #111;height:34px}
+.sig .cap{display:flex;justify-content:space-between;font-size:8.5px;text-transform:uppercase;letter-spacing:1.6px;color:#777;font-weight:700;margin-top:5px}
+.foot{margin-top:8px;padding-top:6px;border-top:1px solid #E4E4E4;font-size:8.5px;color:#777;text-align:center;letter-spacing:.3px}
+.disc{font-size:8.5pt;color:#555;margin-top:10px}
+.sigs{display:grid;grid-template-columns:1fr 1fr;gap:28px;margin-top:12px}
+.sigcol .who{font-size:8.5px;text-transform:uppercase;letter-spacing:1.8px;font-weight:800;color:#111;margin-bottom:2px}
+.sigcol .sl{border-bottom:1px solid #111;height:30px;position:relative}
+.sigcol .sl span{position:absolute;left:0;bottom:-13px;font-size:7.5px;text-transform:uppercase;letter-spacing:1.4px;color:#777}
+.sigcol .sl{margin-bottom:14px}
+.init{display:flex;justify-content:flex-end;gap:22px;font-size:7.5px;text-transform:uppercase;letter-spacing:1.4px;color:#777;margin-top:6px}
+.init span{display:inline-block;border-bottom:1px solid #999;width:58px;margin-left:6px}
+@media print{
+  @page{size:letter;margin:0}
+  body{background:#fff}.bar{display:none}
+  .page{margin:0;box-shadow:none;width:8.5in;min-height:11in}
+}
+@media screen and (max-width:860px){.sigs{grid-template-columns:1fr}td.n,th.n{white-space:normal}table{font-size:9pt}.f{flex-wrap:wrap}.f .l{min-width:0;width:100%}.page{width:100%;min-height:0;margin:0 0 12px;padding:20px 16px}.hdr,.sig{grid-template-columns:1fr}.photos{grid-template-columns:1fr 1fr}.photos .big{grid-column:span 2}.lh{flex-direction:column;align-items:flex-start}.lh .doc{text-align:left}}
+.steps{margin:4px 0 0 18px;padding:0}
+.steps>li{margin:4px 0}
+dl.home{margin:4px 0}
+dl.home dt{font-weight:700;margin-top:6px}
+dl.home dd{margin:1px 0 0 0}
+p{margin:0 0 6px}
+</style>
+</head>
+<body>
+
+<div class="bar">
+  <button class="pri" onclick="window.print()">Print / Save PDF</button>
+  <a href="/offers/sample-offer-guide.pdf" download>Download PDF</a>
+  <a href="/offers/sample-offer-sheet.html">See the Offer Sheet</a>
+</div>
+
+<!-- ============ PAGE 1 ============ -->
+<div class="page">
+  <div class="lh">
+    <div class="brand"><img src="/bear-logo.jpg" alt="INMA"><div><div class="word">INMA</div><div class="tag">Your Personal Homeowner Advocate</div></div></div>
+    <div class="doc"><div class="t">Your Offer Sheet</div><div class="s">How to use it · Offer INMA-100</div></div>
+  </div>
+  <div class="sample"><b>Sample: for illustration only.</b> This guide goes with the sample Offer Sheet INMA-100, built on a published house plan (Plan 1074-72, houseplans.com). A real guide is written about your own house.</div>
+
+  <h2>What this is</h2>
+  <p>Your Offer Sheet is your offer to a contractor, in writing. It says what you want done, how it's to be installed, what you'll pay, and when you'll pay it. A contractor reads it and either accepts it as written and signs, or passes. You don't negotiate against their contract. They sign yours.</p>
+  <p>It's yours. Take it to any contractor you choose. This guide is for you, not the contractor. Keep it.</p>
+
+  <h2>How to use it</h2>
+  <ol class="steps">
+    <li><b>Read every page.</b> If something doesn't match your house or what you want, call before you hand it out.</li>
+    <li><b>Choose your contractors.</b> Any you like. Check each one's Washington registration, bond, and insurance with L&amp;I's Verify a Contractor tool at lni.wa.gov.</li>
+    <li><b>Hand over the whole sheet,</b> all pages, including the material order. Give them time to walk the house and check quantities.</li>
+    <li><b>Let them accept or pass.</b> A contractor who wants to change the terms is passing. Take the sheet to the next one.</li>
+    <li><b>Sign together.</b> You both sign page 4 and initial every page. You each keep a signed copy.</li>
+    <li><b>Collect their paperwork before work starts:</b> insurance certificate, bond, L&amp;I registration number, and the signed L&amp;I disclosure statement.</li>
+    <li><b>Make one down payment,</b> up to 50% of the offer total. Nothing more until the work is complete and you've accepted it.</li>
+    <li><b>Approve changes in writing only,</b> by email, text, or signature. If they find rotten sheathing, you get photos before it's replaced.</li>
+    <li><b>Walk the finished job.</b> Page 1's installation terms are your checklist. Put anything that's off in writing to the contractor. The 30 days to correct it start from that notice.</li>
+    <li><b>Pay the balance once you accept the work,</b> and get the written 5-year workmanship warranty.</li>
+  </ol>
+
+  <h2>Watch for</h2>
+  <ul>
+    <li><b>A second contract.</b> Many contractors hand over their own contract to sign. If you sign one, your Offer Sheet still governs wherever they conflict, payment included. Simplest is not to sign one.</li>
+    <li><b>"Substantial completion."</b> Common contract language that makes payment due before the job is truly done. Your sheet says payment is due only on your terms.</li>
+    <li><b>Progress draws or added fees.</b> Draw schedules, mobilization fees, and fuel or delivery charges aren't in your terms.</li>
+    <li><b>A crew that disappears.</b> More than 3 consecutive working days off the job without written notice lets you end the agreement and hire someone else to finish.</li>
+  </ul>
+  <div class="foot"><b>INMA</b> · Inland Northwest Marketing Affiliates · Spokane, WA · WA UBI #606 027 063 · inmagent.com · (509) 251-7792</div>
+</div>
+
+<!-- ============ PAGE 2 ============ -->
+<div class="page">
+  <h2>How this price was set</h2>
+  <p>If you look up what it costs to re-side a Spokane home in James Hardie ColorPlus, you'll find $10 to $21+ per square foot installed, and that the final number depends on trim, window count, gable complexity, flashing, and tear-off. A lookup can't tell you what those come to on your house.</p>
+  <p>Your offer can. It's priced at the midpoint of the ColorPlus range in INMA's published Spokane Fair Market Report: $19.00 per square foot installed with tear-off, for a home of moderate complexity. Your shake gables are $23.00, the midpoint of the report's shake range, because shakes take more cuts and slower courses. The Offer Sheet spells out every trim detail, flashing point, and gap that a lookup leaves as "it depends."</p>
+  <p class="src"><b>Spokane Fair Market Report:</b> inmagent.com/market-report.html. Every rate is sourced so you can check it yourself.</p>
+
+  <h2>Your home, explained</h2>
+  <dl class="home">
+    <dt>Tear-off</dt>
+    <dd>The board-and-batten comes off, which opens the wall. That's when hidden damage shows up, and when the new weather barrier goes on.</dd>
+    <dt>Sheathing</dt>
+    <dd>Nobody can see it until the siding is off. So it's priced per sheet ($100) instead of guessed into your total, and you see photos before anything is replaced.</dd>
+    <dt>Recessed windows</dt>
+    <dd>Your windows sit back in the wall with trim lining the opening, so the sill is where water collects. Your sheet requires the sill flashed so water drains out, a building code requirement. On aluminum or vinyl windows, it keeps trim and flashing clear of the weep holes, which are how the window drains itself.</dd>
+    <dt>Existing soffit</dt>
+    <dd>Your soffit stays. Fresh white caulk against an older soffit color shows, so the frieze runs tight to it with no caulk. If the soffit is ever replaced, the new one gets caulked.</dd>
+    <dt>Gables</dt>
+    <dd>Shakes over a 10" belly band. The double starter sets the first shake course at the right angle and keeps the flashing gap open so water can get out.</dd>
+    <dt>ColorPlus finish</dt>
+    <dd>The color is baked on at the factory, so nothing gets painted on site. That's why your sheet bans caulk on nail heads (it won't match and weathers differently), calls for Hardie touch-up only, and requires depth-set nail guns: a dent in a factory finish can't be painted over.</dd>
+    <dt>Quantities</dt>
+    <dd>27.5 squares of lap and 7.5 squares of shake, waste included. The contractor verifies quantities before ordering. Anything extra is billed at the same rates already in your offer, with no pickup or delivery charges.</dd>
+  </dl>
+
+  <h2>Why the terms read the way they do</h2>
+  <p>Building code is the legal minimum, not a standard of quality. For fiber-cement siding, Washington's code simply says to install it per the manufacturer's instructions, and passing inspection doesn't mean it was built right. James Hardie's written instructions are the real standard, and its warranties depend on them. In James Hardie's words, failure to follow its written installation instructions "may affect warranty coverage." Page 1 of your Offer Sheet lists the parts most often skipped: gaps, caulking, and flashing.</p>
+
+  <h2>How long it's good for</h2>
+  <p>Your offer doesn't expire. Prices move, so we recommend using it within 120 days of the date it was issued. After that, INMA can reprice it with a new Offer Sheet.</p>
+
+  <p class="disc">INMA is not a contractor and does not hire, direct, or supervise any work. INMA provides project scoping, fair-market pricing, and homeowner advocacy. Your Offer Sheet is an estimate of fair-market cost for the scope described, not a bid. Questions: (509) 251-7792 · jake@inmagent.com</p>
+  <div class="foot"><b>INMA</b> · Inland Northwest Marketing Affiliates · Spokane, WA · WA UBI #606 027 063 · inmagent.com · (509) 251-7792</div>
+</div>
+
+<script src="/inma-fb-rescue.js"></script>
+</body>
+</html>
