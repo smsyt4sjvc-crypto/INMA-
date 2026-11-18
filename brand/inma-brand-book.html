@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow">
+<title>INMA Brand Book</title>
+<link rel="icon" href="/bear-logo.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Barlow:wght@500;600;700&family=Silkscreen:wght@400;700&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{background:#09090A;color:#111;font:9.6pt/1.45 'Inter','Helvetica Neue',Arial,sans-serif;-webkit-font-smoothing:antialiased}
+.bar{position:sticky;top:0;z-index:5;display:flex;gap:8px;justify-content:center;flex-wrap:wrap;padding:12px 14px;background:rgba(9,9,10,.94);border-bottom:1px solid rgba(255,255,255,.14)}
+.bar button,.bar a{font:600 11px/1 'Barlow',Arial,sans-serif;letter-spacing:.14em;text-transform:uppercase;background:transparent;color:#fff;border:1px solid #8E9199;border-radius:3px;padding:12px 16px;cursor:pointer;text-decoration:none}
+.bar .pri{background:#fff;color:#000;border-color:#fff}
+.page{background:#fff;width:8.5in;max-width:100%;min-height:11in;margin:18px auto;padding:.5in .55in;box-shadow:0 10px 40px rgba(0,0,0,.5);display:flex;flex-direction:column}
+.page+.page{page-break-before:always}
+.page>.grow{flex:1}
+.lh{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;padding-bottom:8px;border-bottom:3px solid #111;margin-bottom:14px}
+.lh .brand{display:flex;align-items:center;gap:12px}
+.lh img{width:48px;height:48px;border-radius:6px;border:1px solid #E4E4E4;object-fit:cover}
+.lh .word{font-size:22px;font-weight:700;letter-spacing:.34em;line-height:1}
+.lh .tag{font:600 8.5px/1 'Barlow',sans-serif;text-transform:uppercase;letter-spacing:.22em;color:#666;margin-top:6px}
+.lh .doc{text-align:right;font:600 10px/1 'Barlow',sans-serif;letter-spacing:.22em;text-transform:uppercase;color:#777}
+.lh .doc b{display:block;font:700 18px/1 'Inter',sans-serif;letter-spacing:.2em;color:#111;margin-bottom:5px}
+h1{font:700 30pt/1.02 'Inter',sans-serif;letter-spacing:-.028em;margin:0 0 10px}
+h2{background:#111;color:#fff;font:700 9px/1 'Barlow',sans-serif;letter-spacing:.22em;text-transform:uppercase;padding:7px 10px;border-radius:2px;margin:14px 0 7px}
+h3{font:700 11pt/1.2 'Inter',sans-serif;letter-spacing:-.01em;margin:10px 0 3px}
+p{margin:0 0 7px}
+ul{margin:2px 0 6px 18px;padding:0}
+li{margin:2px 0}
+.eyebrow{font:600 9px/1 'Barlow',sans-serif;letter-spacing:.22em;text-transform:uppercase;color:#6E7076;margin-bottom:8px}
+.lede{font-size:11.5pt;line-height:1.5;color:#2A2B2E}
+.big{font:600 14pt/1.35 'Inter',sans-serif;letter-spacing:-.01em}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+.box{border:1px solid #D9DADD;border-radius:4px;padding:10px 12px}
+.box.dark{background:#0E0F11;color:#F3F3F4;border-color:#0E0F11}
+.box h3{margin-top:0}
+table{width:100%;border-collapse:collapse;font-size:9.4pt;margin:4px 0 8px}
+th{background:#111;color:#fff;text-align:left;font:700 8.5px/1.2 'Barlow',sans-serif;letter-spacing:.18em;text-transform:uppercase;padding:7px 8px}
+td{padding:6px 8px;border-bottom:1px solid #E4E4E4;vertical-align:top}
+td.n{text-align:right;white-space:nowrap;font-weight:700}
+.yes li::marker{content:"✓  "}
+.no li::marker{content:"✕  "}
+.yes li::marker,.no li::marker{font-weight:700}
+.sw{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin:6px 0 10px}
+.sw div{border:1px solid #D9DADD;border-radius:4px;overflow:hidden;font-size:8pt}
+.sw i{display:block;height:46px}
+.sw span{display:block;padding:5px 7px;line-height:1.3}
+.sw b{display:block;font-size:8.5pt}
+.grad{height:34px;border-radius:4px;margin:4px 0 2px}
+.spec{border-bottom:1px solid #E4E4E4;padding:8px 0}
+.spec .s{display:flex;justify-content:space-between;font:600 8px/1 'Barlow',sans-serif;letter-spacing:.2em;text-transform:uppercase;color:#777;margin-bottom:5px}
+.rain{background:linear-gradient(90deg,#FF2D2D 0%,#FF7A1A 16%,#FFC21A 32%,#7BD93A 48%,#18C9B5 62%,#2E8BFF 76%,#7A4DFF 88%,#D63BD8 100%);-webkit-background-clip:text;background-clip:text;color:transparent;-webkit-text-fill-color:transparent}
+.demo{background:#09090A;border-radius:4px;padding:14px;display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+.b{display:inline-flex;align-items:center;min-height:38px;padding:0 18px;border-radius:3px;font:600 11px/1 'Barlow',sans-serif;letter-spacing:.18em;text-transform:uppercase}
+.b.chrome{color:#fff;border:1px solid;border-image:linear-gradient(135deg,#F7F7F8 0%,#A6A9B0 28%,#EEEFF1 50%,#7C7F86 74%,#D5D6DA 100%) 1}
+.b.pix{font:400 11px/1 'Silkscreen',sans-serif;letter-spacing:.06em;border:1px solid #8E9199}
+.b.sec{color:rgba(255,255,255,.72);border:1px solid rgba(255,255,255,.22)}
+.note{font-size:8.5pt;color:#555}
+.foot{margin-top:12px;padding-top:6px;border-top:1px solid #E4E4E4;font-size:8px;color:#777;text-align:center;letter-spacing:.3px}
+/* cover */
+.cover{background:#09090A;color:#F3F3F4;justify-content:space-between;position:relative;overflow:hidden}
+.cover::before{content:"";position:absolute;inset:0;background:url(/waterfall.jpg) center/cover;opacity:.28;filter:grayscale(1)}
+.cover>*{position:relative}
+.cover .logo{width:96px;height:96px;border-radius:10px}
+.cover .w{font:700 54px/1 'Inter',sans-serif;letter-spacing:.34em;margin-top:22px}
+.cover .t{font:600 11px/1 'Barlow',sans-serif;letter-spacing:.3em;text-transform:uppercase;color:#B9BCC3;margin-top:12px}
+.cover h1{font-size:40pt;color:#fff;margin-top:auto}
+.cover .sub{font-size:12pt;color:rgba(243,243,244,.75);max-width:44ch}
+.cover .meta{display:flex;justify-content:space-between;font:600 9px/1 'Barlow',sans-serif;letter-spacing:.22em;text-transform:uppercase;color:#8E9199;border-top:1px solid rgba(255,255,255,.18);padding-top:12px;margin-top:28px}
+.cover .rule{height:2px;width:120px;background:linear-gradient(135deg,#F7F7F8 0%,#A6A9B0 28%,#EEEFF1 50%,#7C7F86 74%,#D5D6DA 100%);margin:18px 0}
+.tight td{padding:4px 8px;font-size:9pt}.tight h2{margin:10px 0 5px}.tight li{margin:1px 0}.tight ol{margin:2px 0 4px 18px;padding:0}.tight h3{margin:6px 0 2px}.tight .note{font-size:8.2pt}
+@media print{@page{size:letter;margin:0}body{background:#fff}.bar{display:none}.page{margin:0;box-shadow:none;width:8.5in;min-height:11in;height:11in}*{-webkit-print-color-adjust:exact;print-color-adjust:exact}}
+@media screen and (max-width:860px){.page{width:100%;min-height:0;margin:0 0 12px;padding:22px 16px}.two{grid-template-columns:1fr}.sw{grid-template-columns:repeat(2,1fr)}.lh{flex-direction:column;align-items:flex-start}.lh .doc{text-align:left}.cover{min-height:92vh}.cover .w{font-size:38px}h1{font-size:24pt}.cover h1{font-size:30pt}table{font-size:9pt}}
+</style>
+</head>
+<body>
+<div class="bar">
+  <button class="pri" onclick="window.print()">Print / Save PDF</button>
+  <a href="/brand/inma-brand-book.pdf" download>Download PDF</a>
+</div>
+
+<!-- ============ COVER ============ -->
+<div class="page cover">
+  <div>
+    <img class="logo" src="/bear-logo.jpg" alt="INMA bear">
+    <div class="w">INMA</div>
+    <div class="t">Inland Northwest Marketing Affiliates</div>
+    <div class="rule"></div>
+  </div>
+  <div>
+    <h1>Brand Book</h1>
+    <p class="sub">Who INMA is now, where it's headed, and how it looks and sounds. The reference for every page, post, and document.</p>
+    <div class="meta"><span>Spokane, WA</span><span>November 2026 · v3</span></div>
+  </div>
+</div>
+
+<!-- ============ 1. DIRECTION ============ -->
+<div class="page">
+  <div class="lh"><div class="brand"><img src="/bear-logo.jpg" alt=""><div><div class="word">INMA</div><div class="tag">Your Personal Homeowner Advocate</div></div></div><div class="doc"><b>01</b>Direction</div></div>
+  <div class="grow">
+  <p class="eyebrow">The one line</p>
+  <p class="big">I'm not a contractor. I'm your personal homeowner advocate. I put your project in writing, priced to a fair market you can check yourself, and you take it to any contractor you choose.</p>
+
+  <h2>The problem</h2>
+  <p>A homeowner re-sides a house once, maybe twice. Contractors sell every day. That gap is why homeowners get burned: by the national-brand salesman who can't explain why one product beats another, and by the new local installer with a $200 license and no business experience. INMA puts a repeat player on the homeowner's side of the table, before the mistake instead of after it.</p>
+
+  <h2>Where the company is going</h2>
+  <div class="two">
+    <div class="box">
+      <h3>Before (retired)</h3>
+      <ul>
+        <li>Buyer's agent with a network of vetted crews</li>
+        <li>10–15% fee carved out of the contract</li>
+        <li>Matching homeowners to contractors</li>
+        <li>Coordinating through the job</li>
+      </ul>
+    </div>
+    <div class="box dark">
+      <h3>Now</h3>
+      <ul>
+        <li>Standalone products, each priced on its own</li>
+        <li>No percentage of the project, no fee in the contract</li>
+        <li>The homeowner picks the contractor, any contractor</li>
+        <li>INMA never directs, supervises, or pays for construction</li>
+      </ul>
+    </div>
+  </div>
+
+  <h2>What I'm building</h2>
+  <ul>
+    <li><b>The Offer Sheet as the standard.</b> A written offer from the homeowner to the contractor: scope, installation terms set to code and the manufacturer's written instructions, a fair-market price, and payment terms that protect the homeowner. The contractor accepts it as written or passes.</li>
+    <li><b>Published, checkable pricing.</b> The Spokane Fair Market Report, kept current with weekly permit pulls and pricing updates, so every number on an Offer Sheet traces to a public source.</li>
+    <li><b>Both ends of the job.</b> The Offer Sheet before the work starts, and a Completion Review after, so the homeowner knows it's right before paying the balance.</li>
+    <li><b>Leverage, hindsight ahead of time.</b> Twenty-five years of trade experience, applied before the homeowner signs anything.</li>
+  </ul>
+
+  <h2>Lines INMA doesn't cross</h2>
+  <ul class="no">
+    <li>Not a contractor, general contractor, or construction manager. Never hires, directs, supervises, or guarantees the work.</li>
+    <li>Never collects, holds, or pays out construction money. No cut of the contract, nothing paid by the crew.</li>
+    <li>Not a home inspector. The Completion Review checks installed work against the Offer Sheet and the manufacturer's instructions, never the condition of the house.</li>
+    <li>No contractor network, no "vetted crews," no matching.</li>
+  </ul>
+  </div>
+  <div class="foot"><b>INMA</b> · Inland Northwest Marketing Affiliates · Spokane, WA · WA UBI #606 027 063 · inmagent.com · (509) 251-7792</div>
+</div>
+
+<!-- ============ 2. PRODUCTS ============ -->
+<div class="page tight">
+  <div class="lh"><div class="brand"><img src="/bear-logo.jpg" alt=""><div><div class="word">INMA</div><div class="tag">Your Personal Homeowner Advocate</div></div></div><div class="doc"><b>02</b>Products</div></div>
+  <div class="grow">
+  <p class="eyebrow">Pick what you need. Pay for only that.</p>
+  <table>
+    <thead><tr><th>Product</th><th>What it is</th><th style="text-align:right">Price</th></tr></thead>
+    <tbody>
+      <tr><td><b>Offer Sheet</b><br><span class="note">Flagship</span></td><td>On-site scope, installation terms set to code and the manufacturer's instructions, fair-market price, homeowner-protective payment terms, signature-ready agreement, installation guidance, material order, and a homeowner guide.</td><td class="n">$375 and up</td></tr>
+      <tr><td><b>Completion Review</b></td><td>After the job: installed work checked line by line against the Offer Sheet. Written report with photos, ready to hand the contractor as written notice. Not a home inspection.</td><td class="n">$250 and up</td></tr>
+      <tr><td><b>Both, booked upfront</b></td><td>Offer Sheet plus Completion Review.</td><td class="n">15% off<br>$531 and up</td></tr>
+      <tr><td><b>Estimate Review</b></td><td>Upload a quote. Line-by-line written review against the Fair Market Report. The contract must name the company, the work, and the products.</td><td class="n">$75</td></tr>
+      <tr><td><b>Fair Market Report</b></td><td>Published Spokane pricing for siding, windows, doors, and paint, every rate sourced.</td><td class="n">Free</td></tr>
+      <tr><td><b>DIY Assistance</b></td><td>Coaching for the hands-on homeowner: spec, source, and finish it yourself.</td><td class="n">$250 visit<br>+ $250/wk<br><span class="note">$75 extra house calls</span></td></tr>
+      <tr><td><b>Home Tune-Up</b></td><td>Year-round maintenance visit with a written report. <span class="note">Wording under review (see page 05).</span></td><td class="n">$750</td></tr>
+      <tr><td><b>Thermal Report</b></td><td>Thermal imaging to find where the house loses heat.</td><td class="n">$150</td></tr>
+    </tbody>
+  </table>
+  <p class="note">"And up" covers a typical single-trade exterior job on an average Spokane home. The exact price is quoted before work starts and doesn't change after the customer says yes.</p>
+
+  <h2>Anatomy of an Offer Sheet</h2>
+  <div class="two">
+    <div>
+      <h3>To the contractor</h3>
+      <p class="note">Written homeowner to contractor, in "I" and "you." Nothing on it that isn't the contractor's business.</p>
+      <ol>
+        <li>Photos, job header, applicable code, installation terms</li>
+        <li>Job specifics and scope of work</li>
+        <li>The offer, change orders, paperwork, payment terms, warranty</li>
+        <li>Agreement (governs over any other contract's payment terms) and signatures</li>
+        <li>Installation guidance (manufacturer summary)</li>
+        <li>Material order: items and quantities, never material prices</li>
+      </ol>
+      <p class="note">Initials on every page.</p>
+    </div>
+    <div>
+      <h3>To the homeowner</h3>
+      <p class="note">"Your Offer Sheet: How to use it." Kept by the homeowner, never handed to the contractor.</p>
+      <ul>
+        <li>What the sheet is and that they own it</li>
+        <li>Ten steps from reading it to paying the balance</li>
+        <li>What to watch for: second contracts, "substantial completion," draws, a crew that disappears</li>
+        <li>Why not the lowest price</li>
+        <li>How the price was set, tied to the Fair Market Report</li>
+        <li>Their home's conditions, explained</li>
+        <li>Recommended use within 120 days; no expiration</li>
+      </ul>
+    </div>
+  </div>
+  <h3>Standard terms</h3>
+  <p class="note">Up to 50% down, nothing more until complete and accepted · changes by written change order only · 3 consecutive working days absent without notice ends the agreement · 30 days to correct written deficiencies · 5-year workmanship warranty · extra material billed at the offer rate, no pickup or delivery charges · permits and tax added by receipt.</p>
+  </div>
+  <div class="foot"><b>INMA</b> · Inland Northwest Marketing Affiliates · Spokane, WA · WA UBI #606 027 063 · inmagent.com · (509) 251-7792</div>
+</div>
+
+<!-- ============ 3. VOICE ============ -->
+<div class="page">
+  <div class="lh"><div class="brand"><img src="/bear-logo.jpg" alt=""><div><div class="word">INMA</div><div class="tag">Your Personal Homeowner Advocate</div></div></div><div class="doc"><b>03</b>Voice</div></div>
+  <div class="grow">
+  <p class="eyebrow">How INMA sounds</p>
+  <p class="lede">Plainspoken, confident, honest about tradeoffs. A trusted local tradesman, not a tech startup and not a salesman. Short sentences. Real numbers. No hype, no exclamation points.</p>
+
+  <div class="two">
+    <div>
+      <h2>Say this</h2>
+      <ul class="yes">
+        <li>"I'm not a contractor. I'm your personal homeowner advocate."</li>
+        <li>"You make the offer. They accept your terms or they pass."</li>
+        <li>"It's yours. Take it to any contractor you choose."</li>
+        <li>"Fair-market pricing you can check yourself."</li>
+        <li>"Code is the legal minimum, not a standard of quality."</li>
+        <li>"The cheapest bid is rarely where the most value lives."</li>
+        <li>"If you look up what it costs..." when pointing to public pricing.</li>
+        <li>"Know it's right before you pay the balance."</li>
+        <li>"Hire the right guy, the first time."</li>
+      </ul>
+    </div>
+    <div>
+      <h2>Never say this</h2>
+      <ul class="no">
+        <li>Anything that implies INMA controls or answers for the work: "we handle the scope and accountability," "we manage the job."</li>
+        <li>"Vetted crews," "our network," "we'll match you."</li>
+        <li>Any fee taken from or deducted out of the contract.</li>
+        <li>"Inspection" or "inspector" for INMA's own services.</li>
+        <li>"Guaranteed savings" or "we'll beat any quote."</li>
+        <li>"Ask AI." Say "if you look up."</li>
+        <li>A bid. An Offer Sheet is an estimate of fair-market cost and the homeowner's offer.</li>
+        <li>Seasonal-only language for the Tune-Up. It's year-round.</li>
+      </ul>
+    </div>
+  </div>
+
+  <h2>Writing rules</h2>
+  <ul>
+    <li><b>No em dashes</b> in posts, ads, or copy. Use a period or a comma.</li>
+    <li><b>Offer Sheets speak homeowner to contractor</b> ("Keep siding 6" above finished grade."). Homeowner explanations go in the guide.</li>
+    <li><b>Social posts:</b> concise. Lead with the problem the homeowner feels, then the fix, then the link and phone number.</li>
+    <li><b>Numbers over adjectives.</b> "$19.00 per square foot, the midpoint of the published range," not "competitive pricing."</li>
+  </ul>
+
+  <h2>Standard disclosure</h2>
+  <div class="box"><p style="margin:0">INMA is not a contractor and does not hire, direct, or supervise any work. INMA provides project scoping, fair-market pricing, and homeowner advocacy. An Offer Sheet is an estimate of fair-market cost for the scope described, not a bid.</p></div>
+  </div>
+  <div class="foot"><b>INMA</b> · Inland Northwest Marketing Affiliates · Spokane, WA · WA UBI #606 027 063 · inmagent.com · (509) 251-7792</div>
+</div>
+
+<!-- ============ 4. LOOK ============ -->
+<div class="page">
+  <div class="lh"><div class="brand"><img src="/bear-logo.jpg" alt=""><div><div class="word">INMA</div><div class="tag">Your Personal Homeowner Advocate</div></div></div><div class="doc"><b>04</b>Look</div></div>
+  <div class="grow">
+  <p class="eyebrow">Design system v3 · black, white, chrome</p>
+  <p class="lede">Clean and engineered, closer to an aerospace control panel than a contractor's yard sign. Everything is monochrome. <b>The red bear is the only color</b>, plus rainbow pixel lettering on contact buttons.</p>
+
+  <h2>Color</h2>
+  <div class="sw">
+    <div><i style="background:#09090A"></i><span><b>Black</b>#09090A · backgrounds</span></div>
+    <div><i style="background:#0E0F11"></i><span><b>Black 2</b>#0E0F11 · dark panels</span></div>
+    <div><i style="background:#0B0B0C"></i><span><b>Ink</b>#0B0B0C · text on light</span></div>
+    <div><i style="background:#F3F3F4"></i><span><b>Snow</b>#F3F3F4 · text on dark</span></div>
+    <div><i style="background:#D9DADD"></i><span><b>Silver</b>#D9DADD · hairlines</span></div>
+    <div><i style="background:#B9BCC3"></i><span><b>Chrome</b>#B9BCC3 · accents</span></div>
+    <div><i style="background:#8E9199"></i><span><b>Chrome 2</b>#8E9199 · borders</span></div>
+    <div><i style="background:#5F6269"></i><span><b>Smoke</b>#5F6269 · muted</span></div>
+  </div>
+  <div class="two">
+    <div><div class="grad" style="background:linear-gradient(135deg,#F7F7F8 0%,#A6A9B0 28%,#EEEFF1 50%,#7C7F86 74%,#D5D6DA 100%)"></div><p class="note"><b>Chrome gradient</b> · button borders, rules, highlights</p></div>
+    <div><div class="grad" style="background:linear-gradient(90deg,#FF2D2D 0%,#FF7A1A 16%,#FFC21A 32%,#7BD93A 48%,#18C9B5 62%,#2E8BFF 76%,#7A4DFF 88%,#D63BD8 100%)"></div><p class="note"><b>Rainbow</b> · pixel lettering only, never fills or backgrounds</p></div>
+  </div>
+  <p class="note">Retired: brand gold #B8941F, bronze, sage, warm cream, and warm-brown backgrounds. Avoid corporate blue and neon everywhere except the rainbow pixel text.</p>
+
+  <h2>Type</h2>
+  <div class="spec"><div class="s"><span>Inter · display &amp; body · 300–700</span><span>Display tracking −0.028em</span></div><div style="font:700 26pt/1 'Inter';letter-spacing:-.028em">Pick what you need.</div><div style="font:400 10.5pt/1.5 'Inter';margin-top:5px">Body copy runs in Inter at 16–17px on the site, line height 1.6. It does the work quietly.</div></div>
+  <div class="spec"><div class="s"><span>Barlow · labels, eyebrows, buttons · 500–700</span><span>All caps · tracking 0.22em</span></div><div style="font:600 12px/1 'Barlow';letter-spacing:.22em;text-transform:uppercase">05 / Standalone products</div></div>
+  <div class="spec"><div class="s"><span>Silkscreen · pixel lettering</span><span>Contact buttons only · rainbow fill</span></div><div style="font:400 18px/1 'Silkscreen';letter-spacing:.06em" class="rain">TEXT JAKE · CALL · EMAIL</div></div>
+  <div class="spec" style="border:0"><div class="s"><span>Wordmark</span><span>Inter 700 · tracking 0.34em</span></div><div style="font:700 22px/1 'Inter';letter-spacing:.34em">INMA</div></div>
+
+  <h2>Buttons</h2>
+  <div class="demo">
+    <span class="b chrome">Primary</span>
+    <span class="b sec">Secondary</span>
+    <span class="b pix rain">Text Jake</span>
+    <span style="font:600 11px/1 'Barlow';letter-spacing:.18em;text-transform:uppercase;color:#fff;border-bottom:1px solid #fff;padding:6px 0">Ghost link →</span>
+  </div>
+  <p class="note" style="margin-top:6px">Primary: transparent with a chrome-gradient border, fills white on hover. Anything that texts, calls, emails, or saves a contact gets Silkscreen with the rainbow fill. Corners stay sharp: 2–4px radius.</p>
+  </div>
+  <div class="foot"><b>INMA</b> · Inland Northwest Marketing Affiliates · Spokane, WA · WA UBI #606 027 063 · inmagent.com · (509) 251-7792</div>
+</div>
+
+<!-- ============ 5. APPLY ============ -->
+<div class="page">
+  <div class="lh"><div class="brand"><img src="/bear-logo.jpg" alt=""><div><div class="word">INMA</div><div class="tag">Your Personal Homeowner Advocate</div></div></div><div class="doc"><b>05</b>Applying it</div></div>
+  <div class="grow">
+  <h2>The website</h2>
+  <ul>
+    <li><b>Backdrop:</b> the waterfall art (climbing figure) fixed behind every public page.</li>
+    <li><b>Layout:</b> dark and light sections alternating, hairline rules, numbered section eyebrows ("05 / Standalone products").</li>
+    <li><b>Motion:</b> none for show. No scroll reveals. The bottom contact bar stays fixed.</li>
+    <li><b>Photo:</b> Jake's personal photo stays in full color everywhere. Everything else monochrome.</li>
+    <li><b>Logo:</b> the hand-painted white bear on red, square with small rounded corners. Never recolored.</li>
+  </ul>
+
+  <h2>Documents (Offer Sheets, guides, pricing, agreements)</h2>
+  <ul>
+    <li>White letter-size sheet, ink #111, body in Helvetica/Arial for clean print. On screen, the sheet sits on black with Print and Download buttons that hide when printed.</li>
+    <li>Letterhead: bear (48–64px) + INMA wordmark + tagline left, document title right in spaced caps, 3px black rule under it.</li>
+    <li>Section headers: solid black bars, white spaced caps. Tables: black header row, light gray hairlines, numbers right-aligned.</li>
+    <li>Every page ends with the footer. Agreements carry initials on every page and signature lines on the agreement page.</li>
+    <li>Never force a field. Every document can print blank and be filled by hand.</li>
+  </ul>
+  <div class="box"><p class="note" style="margin:0"><b>Footer (verbatim):</b> INMA · Inland Northwest Marketing Affiliates · Spokane, WA · WA UBI #606 027 063 · inmagent.com · (509) 251-7792</p></div>
+
+  <h2>Social</h2>
+  <ul>
+    <li>Black cards, white type, chrome rules, the red bear. Rainbow only on pixel lettering.</li>
+    <li>Captions: problem, fix, link, phone. No em dashes, no hype.</li>
+  </ul>
+
+  <h2>Open items</h2>
+  <ul>
+    <li><b>Home Tune-Up wording.</b> "Inspect · Seal · Clean · Report" and "visual inspection" read close to Washington's home inspector law (RCW 18.280). Proposed: reframe as a maintenance service, for example "Check · Seal · Clean · Report."</li>
+    <li><b>Attorney review</b> of the Offer Sheet's agreement clause, which governs over another contract's payment terms.</li>
+    <li><b>Lien releases</b> not yet in the Offer Sheet terms.</li>
+    <li><b>Shake pricing</b> on the Fair Market Report is a market read until weekly permit and pricing data replaces it.</li>
+    <li><b>Older internal tools</b> (estimate.html, field-estimate.html, service-agreement.html) still carry the retired gold styling; estimate.html and service-agreement.html also still show the old contract fee.</li>
+  </ul>
+
+  <h2>Contact</h2>
+  <p class="big" style="margin:4px 0 0">Jake Bishop · (509) 251-7792 · jake@inmagent.com · inmagent.com</p>
+  <p class="note">Spokane, WA · serving the Inland Northwest · WA UBI #606 027 063</p>
+  </div>
+  <div class="foot"><b>INMA</b> · Inland Northwest Marketing Affiliates · Spokane, WA · WA UBI #606 027 063 · inmagent.com · (509) 251-7792</div>
+</div>
+
+<script src="/inma-fb-rescue.js"></script>
+</body>
+</html>
