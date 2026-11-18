@@ -92,6 +92,13 @@ body.paged .page{display:none}
 body.paged .page.on{display:block}
 body.paged{padding-bottom:80px}
 @media print{.pager{display:none}body.paged .page{display:block!important}body.paged{padding-bottom:0}}
+.fill{margin:2px 0 4px}
+.fill .r{display:grid;gap:16px;margin-bottom:15px}
+.fill .r2{grid-template-columns:1.4fr 1fr}.fill .r3{grid-template-columns:1.4fr 1fr 1fr}
+.fill .fl{border-bottom:1px solid #111;height:22px;position:relative}
+.fill .fl span{position:absolute;left:0;bottom:-12px;font-size:7.5px;text-transform:uppercase;letter-spacing:1.4px;color:#777}
+.fill .chk{display:flex;flex-wrap:wrap;gap:4px 22px;font-size:8.8pt;margin-top:20px}
+@media screen and (max-width:860px){.fill .r2,.fill .r3{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
@@ -217,13 +224,14 @@ body.paged{padding-bottom:80px}
   <p class="fine">* Contractor may add permitting costs and any applicable sales tax to the final invoice with attached receipts. This is standard practice, as each job's final costs are based on valuations.</p>
   <p class="fine">I'll pay for additional siding at $19.00 per square foot and additional shake at $23.00 per square foot, labor and material, and additional trim at three times the material cost per linear foot, installed. No added charges for pickups, deliveries, or extra trips. Verify all quantities before you order. Any change in price needs a written change order that I approve in writing by email, text, or signature.</p>
 
-  <h2>Before work begins, give me</h2>
-  <ul>
-    <li>your current certificate of liability insurance</li>
-    <li>your current contractor bond</li>
-    <li>your Washington L&amp;I contractor registration number</li>
-    <li>a signed Washington L&amp;I contractor disclosure statement (RCW 18.27.114)</li>
-  </ul>
+  <h2>Contractor information: fill in before work begins</h2>
+  <div class="fill">
+    <div class="r r2"><div class="fl"><span>L&amp;I contractor registration no.</span></div><div class="fl"><span>Registration expires</span></div></div>
+    <div class="r r3"><div class="fl"><span>Bonding (surety) company</span></div><div class="fl"><span>Bond no.</span></div><div class="fl"><span>Bond amount</span></div></div>
+    <div class="r r2"><div class="fl"><span>Liability insurance company</span></div><div class="fl"><span>Policy no.</span></div></div>
+    <div class="r r3"><div class="fl"><span>Limit per occurrence</span></div><div class="fl"><span>Aggregate limit</span></div><div class="fl"><span>Policy expires</span></div></div>
+    <div class="chk"><span>&#9744; Certificate of liability insurance attached</span><span>&#9744; Signed L&amp;I contractor disclosure statement attached (RCW 18.27.114)</span></div>
+  </div>
 
   <h2>Payment terms</h2>
   <p>When you accept this offer, I'll make one down payment of up to 50% of the offer total to cover materials and operating costs. I won't make any further payment until the work is complete and I've accepted it.</p>
