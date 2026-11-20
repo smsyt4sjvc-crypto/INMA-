@@ -77,6 +77,18 @@ body.pdfing .item{grid-template-columns:1fr 92px}
 .taxtip a{color:#111}
 .totals .row .v [contenteditable="false"]{border-bottom-color:transparent;background:none}
 .bar button:disabled{opacity:.5}
+.seg{display:flex;width:100%;max-width:460px;margin:0 auto 2px;border:1px solid #8E9199;border-radius:4px;overflow:hidden}
+.bar .seg button{flex:1;border:0;border-radius:0;border-left:1px solid #8E9199;min-height:44px;padding:0 8px}
+.bar .seg button:first-child{border-left:0}
+.bar .seg button.on{background:#fff;color:#000}
+.bar button.conv{border-color:#fff}
+.bar button[hidden]{display:none}
+@media screen and (max-width:600px){
+  .bar{position:static;gap:6px;padding:8px 10px calc(8px + env(safe-area-inset-top))}
+  .bar button{font-size:10px;letter-spacing:.08em;padding:0 10px;min-height:42px}
+  .bar .seg button{font-size:11px}
+  .bar .hint{display:none}
+}
 dialog.jobs{width:min(560px,calc(100vw - 24px));max-height:calc(100vh - 48px);padding:0;border:1px solid #8E9199;border-radius:6px;background:#0E0F11;color:#F3F3F4;font-family:'Helvetica Neue',Arial,sans-serif}
 dialog.jobs::backdrop{background:rgba(0,0,0,.6)}
 .jobs-in{display:flex;flex-direction:column;max-height:calc(100vh - 50px)}
@@ -117,11 +129,16 @@ body.pdfing .noprint{display:none!important}
 <body>
 
 <div class="bar">
+  <div class="seg" role="group" aria-label="Document type">
+    <button type="button" data-m="Receipt" onclick="setMode('Receipt')">Receipt</button>
+    <button type="button" data-m="Invoice" onclick="setMode('Invoice')">Invoice</button>
+    <button type="button" data-m="Estimate" onclick="setMode('Estimate')">Estimate</button>
+  </div>
   <button class="pri" onclick="doPrint()">Print / Save PDF</button>
   <button id="shareBtn" onclick="sharePdf()">Share PDF</button>
   <button onclick="openJobs()">Open</button>
   <button onclick="document.getElementById('vcf').click()">Import contact</button>
-  <button id="modeBtn" onclick="toggleMode()">Switch to Invoice</button>
+  <button type="button" class="conv" id="convBtn" onclick="convertDoc()" hidden></button>
   <button onclick="newDoc()">+ New</button>
   <input type="file" id="vcf" accept=".vcf,text/vcard,text/x-vcard" style="display:none">
   <div class="hint">Tap any line and type. Saves on your phone as you go.</div>
@@ -353,14 +370,31 @@ window.addEventListener('load',function(){ ['sigInma','sigCust'].forEach(initSig
   });
   var MODES=DOC_MODES, mode='Receipt';
   function applyMode(){
-    var next=MODES[(MODES.indexOf(mode)+1)%MODES.length];
-    document.getElementById('docTitle').textContent=mode; document.getElementById('modeBtn').textContent='Switch to '+next; document.title=mode+' — INMA';
+    document.getElementById('docTitle').textContent=mode; document.title=mode+' — INMA';
+    [].forEach.call(document.querySelectorAll('.seg button'),function(b){ var on=b.dataset.m===mode; b.classList.toggle('on',on); b.setAttribute('aria-pressed',on?'true':'false'); });
+    var cb=document.getElementById('convBtn');
+    if(mode==='Estimate'){ cb.hidden=false; cb.textContent='Make invoice →'; } else if(mode==='Invoice'){ cb.hidden=false; cb.textContent='Mark paid → receipt'; } else { cb.hidden=true; }
     document.body.classList.toggle('mode-est',mode==='Estimate');
     var h=document.getElementById('svcHead'), b=document.getElementById('svcBox');
     if(mode==='Estimate'){ h.textContent='Project scope / notes'; b.dataset.ph='Describe the scope: what gets done, where, and with what products. Add anything the homeowner should know before deciding.'; }
     else { h.textContent='Service'; b.dataset.ph='Describe the service performed, the product, and anything the customer should keep for their records.'; }
   }
-  window.toggleMode=function(){ mode=MODES[(MODES.indexOf(mode)+1)%MODES.length]; applyMode(); save(); };
+  window.setMode=function(m){ if(MODES.indexOf(m)<0||m===mode) return; mode=m; applyMode(); calc(); save(); };
+  window.toggleMode=function(){ setMode(MODES[(MODES.indexOf(mode)+1)%MODES.length]); };
+  /* Estimate -> Invoice (total = estimate total with tax), Invoice -> Receipt (paid = total). Both make a copy; the original stays under Open. */
+  window.convertDoc=function(){
+    document.activeElement&&document.activeElement.blur();
+    var s=cleanDoc((sync(),state));
+    if(mode==='Estimate'){
+      var e=estMath(items,state.taxArea||'',get('tax'));
+      if(e.total<=0){ alert('Add line items first, so the invoice has a total.'); return; }
+      if(!state.taxArea && !confirm('No sales tax area is picked, so tax shows $0.00. Make the invoice anyway?')) return;
+      s.mode='Invoice'; s.total=fmt(e.total/100); s.paid=''; openDoc(s,true);
+    } else if(mode==='Invoice'){
+      if(num(get('total'))<=0){ alert('Type the invoice total first.'); return; }
+      s.mode='Receipt'; s.paid=fmt(num(get('total'))); openDoc(s,true);
+    }
+  };
   /* line items (estimate) */
   var items=[];
   function renderItems(){
