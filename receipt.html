@@ -130,9 +130,9 @@ body.pdfing .noprint{display:none!important}
 
 <div class="bar">
   <div class="seg" role="group" aria-label="Document type">
-    <button type="button" data-m="Receipt" onclick="setMode('Receipt')">Receipt</button>
-    <button type="button" data-m="Invoice" onclick="setMode('Invoice')">Invoice</button>
     <button type="button" data-m="Estimate" onclick="setMode('Estimate')">Estimate</button>
+    <button type="button" data-m="Invoice" onclick="setMode('Invoice')">Invoice</button>
+    <button type="button" data-m="Receipt" onclick="setMode('Receipt')">Receipt</button>
   </div>
   <button class="pri" onclick="doPrint()">Print / Save PDF</button>
   <button id="shareBtn" onclick="sharePdf()">Share PDF</button>
@@ -249,7 +249,7 @@ var TAX_RATES=[
   ['3211','Waverly',8.1]
 ];
 function taxRate(code){ for(var i=0;i<TAX_RATES.length;i++){ if(TAX_RATES[i][0]===code) return TAX_RATES[i]; } return null; }
-var DOC_MODES=['Receipt','Invoice','Estimate'];
+var DOC_MODES=['Estimate','Invoice','Receipt'];
 var DOC_STR={num:60,date:60,cname:200,cphone:80,cemail:200,addr1:300,addr2:300,svc:20000,tax:40,total:40,paid:40,method:120,note:5000};
 /* Keeps only known fields, as capped strings. Everything from storage or a PDF goes through here. */
 function cleanDoc(src){
